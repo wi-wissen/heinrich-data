@@ -1,9 +1,13 @@
 mbH x note=mit beschränkter Haftung
+MfG x note=Mit freundlichen Grüßen
 mg x note=Milligramm
 MHz x note=Megahertz
+Mi. x note=Mittwoch
 min x note=Minute
 Mio. x note=Million|Millionen
 mm x note=Millimeter
+Mo. x note=Montag
 moin intj region=DE
 Mrd. x note=Milliarde(n)
 MW x note=Megawatt
+MwSt. x note=Mehrwertsteuer

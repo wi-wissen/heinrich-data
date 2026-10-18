@@ -1,11 +1,13 @@
 nachahmen verb class=weak sep=nach pp=nachgeahmt perf=haben
 nachbauen verb class=weak sep=nach pp=nachgebaut perf=haben
+nachbearbeiten verb class=weak sep=nach pp=nachbearbeitet perf=haben
 nachbereiten verb class=weak sep=nach pp=nachbereitet perf=haben
 nachbessern verb class=weak sep=nach pp=nachgebessert perf=haben
 nachbestellen verb class=weak sep=nach pp=nachgebestellt perf=haben
 nachbeten verb class=weak sep=nach pp=nachgebetet perf=haben
 nachbilden verb class=weak sep=nach pp=nachgebildet perf=haben
 nachblicken verb class=weak sep=nach pp=nachgeblickt perf=haben
+nachbuchen verb class=weak sep=nach pp=nachgebucht perf=haben
 nachdenken verb class=mixed sep=nach 3sg=nachdenkt past=nachdachte pp=nachgedacht subj2=nachdächte perf=haben
 nachdrängen verb class=weak sep=nach pp=nachgedrängt perf=sein
 nachdrucken verb class=weak sep=nach pp=nachgedruckt perf=haben
@@ -15,6 +17,7 @@ nachfahren verb class=strong sep=nach 3sg=nachfährt past=nachfuhr subj2=nachfü
 nachfärben verb class=weak sep=nach pp=nachgefärbt perf=haben
 nachfliegen verb class=strong sep=nach 3sg=nachfliegt past=nachflog subj2=nachflöge pp=nachgeflogen perf=sein
 nachfolgen verb class=weak sep=nach pp=nachgefolgt perf=sein
+nachfordern verb class=weak sep=nach pp=nachgefordert perf=haben
 nachforschen verb class=weak sep=nach pp=nachgeforscht perf=haben
 nachfragen verb class=weak sep=nach pp=nachgefragt perf=haben
 nachfüllen verb class=weak sep=nach pp=nachgefüllt perf=haben
@@ -23,9 +26,12 @@ nachgehen verb class=strong sep=nach 3sg=nachgeht past=nachging|nachgieng[old] s
 nachgrübeln verb class=weak sep=nach pp=nachgegrübelt perf=haben
 nachgucken verb class=weak sep=nach pp=nachgeguckt perf=haben
 nachhaken verb class=weak sep=nach pp=nachgehakt perf=haben
+nachhalten verb class=strong sep=nach 3sg=nachhält past=nachhielt pp=nachgehalten subj2=nachhielte perf=haben note=office jargon: follow up on something
 nachhelfen verb class=strong sep=nach 3sg=nachhilft past=nachhalf subj2=nachhülfe|nachhälfe[rare] pp=nachgeholfen perf=haben
 nachholen verb class=weak sep=nach pp=nachgeholt perf=haben
+nachinstallieren verb class=weak sep=nach pp=nachinstalliert perf=haben
 nachjustieren verb class=weak sep=nach pp=nachjustiert perf=haben
+nachkalkulieren verb class=weak sep=nach pp=nachkalkuliert perf=haben
 nachkaufen verb class=weak sep=nach pp=nachgekauft perf=haben
 nachklingen verb class=strong sep=nach 3sg=nachklingt past=nachklang subj2=nachklänge pp=nachgeklungen perf=haben
 nachkochen verb class=weak sep=nach pp=nachgekocht perf=haben
@@ -64,8 +70,10 @@ nachspüren verb class=weak sep=nach pp=nachgespürt perf=haben
 nachstehen verb class=strong sep=nach 3sg=nachsteht past=nachstand pp=nachgestanden subj2=nachstünde|nachstände perf=haben
 nachstellen verb class=weak sep=nach pp=nachgestellt perf=haben
 nachtanken verb class=weak sep=nach pp=nachgetankt perf=haben
+nachtragen verb class=strong sep=nach 3sg=nachträgt past=nachtrug pp=nachgetragen subj2=nachtrüge perf=haben
 nachtrauern verb class=weak sep=nach pp=nachgetrauert perf=haben
 nachtreten verb class=strong sep=nach 3sg=nachtritt past=nachtrat subj2=nachträte pp=nachgetreten perf=haben
+nachverfolgen verb class=weak sep=nach pp=nachverfolgt perf=haben
 nachvollziehen verb class=strong sep=nach 3sg=nachvollzieht past=nachvollzog pp=nachvollzogen subj2=nachvollzöge perf=haben
 nachwachsen verb class=strong sep=nach 3sg=nachwächst past=nachwuchs subj2=nachwüchse pp=nachgewachsen perf=sein
 nachweinen verb class=weak sep=nach pp=nachgeweint perf=haben
@@ -91,8 +99,10 @@ nehmen verb class=strong 3sg=nimmt past=nahm pp=genommen subj2=nähme perf=haben
 neigen verb class=weak pp=geneigt perf=haben refl=acc
 nennen verb class=mixed 3sg=nennt past=nannte pp=genannt subj2=nennte perf=haben refl=acc
 nerven verb class=weak pp=genervt perf=haben
+neustarten verb class=weak sep=neu pp=neugestartet perf=haben conf=80 note=IT usage; also written neu starten
 nicken verb class=weak pp=genickt perf=haben
 niedergehen verb class=strong sep=nieder 3sg=niedergeht past=niederging pp=niedergegangen subj2=niederginge perf=sein
+niederschreiben verb class=strong sep=nieder 3sg=niederschreibt past=niederschrieb pp=niedergeschrieben subj2=niederschriebe perf=haben
 nieseln verb class=weak pp=genieselt perf=haben
 niesen verb class=weak pp=geniest perf=haben
 nippen verb class=weak pp=genippt perf=haben

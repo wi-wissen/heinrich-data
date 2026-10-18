@@ -1,5 +1,6 @@
 obliegen verb class=strong 3sg=obliegt past=oblag pp=obgelegen subj2=oblage perf=haben conf=80 note=legal usage (es obliegt dem Bund); inseparable with ob- inside pp=obgelegen
 offenbaren verb class=weak pp=offenbart perf=haben refl=acc note=inseparable although it has no standard prefix (offenbaren)
+offenlegen verb class=weak sep=offen pp=offengelegt perf=haben
 öffnen verb class=weak pp=geöffnet perf=haben refl=acc
 operieren verb class=weak pp=operiert perf=haben
 opfern verb class=weak pp=geopfert perf=haben refl=acc

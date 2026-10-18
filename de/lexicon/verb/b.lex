@@ -15,6 +15,7 @@ beantragen    verb class=weak pp=beantragt perf=haben
 beantworten verb class=weak pp=beantwortet perf=haben
 bearbeiten verb class=weak pp=bearbeitet perf=haben
 beatmen verb class=weak pp=beatmet perf=haben
+beaufsichtigen verb class=weak pp=beaufsichtigt perf=haben
 beauftragen verb class=weak pp=beauftragt perf=haben
 bebauen verb class=weak pp=bebaut perf=haben
 beben verb class=weak pp=gebebt perf=haben
@@ -71,6 +72,7 @@ begründen     verb class=weak pp=begründet perf=haben
 begrünen verb class=weak pp=begrünt perf=haben
 begrüßen verb class=weak pp=begrüßt perf=haben
 begünstigen verb class=weak pp=begünstigt perf=haben
+begutachten verb class=weak pp=begutachtet perf=haben
 behagen verb class=weak pp=behagt perf=haben
 behalten      verb class=strong 3sg=behält past=behielt pp=behalten subj2=behielte perf=haben
 behandeln     verb class=weak pp=behandelt perf=haben
@@ -86,6 +88,7 @@ beibringen verb class=mixed sep=bei 3sg=beibringt past=beibrachte pp=beigebracht
 beichten verb class=weak pp=gebeichtet perf=haben
 beifügen verb class=weak sep=bei pp=beigefügt perf=haben
 beilegen verb class=weak sep=bei pp=beigelegt perf=haben
+beiliegen verb class=strong sep=bei 3sg=beiliegt past=beilag pp=beigelegen subj2=beiläge perf=haben note=die Unterlagen liegen dem Schreiben bei
 beimessen verb class=strong sep=bei 3sg=beimisst past=beimaß subj2=beimäße pp=beigemessen perf=haben
 beinhalten verb class=weak pp=beinhaltet perf=haben
 beipflichten verb class=weak sep=bei pp=beigepflichtet perf=haben
@@ -94,6 +97,7 @@ beißen verb class=strong 3sg=beißt past=biss pp=gebissen subj2=bisse perf=habe
 beistehen verb class=strong sep=bei 3sg=beisteht past=beistand pp=beigestanden subj2=beistünde|beistände perf=haben
 beistimmen verb class=weak sep=bei pp=beigestimmt perf=haben
 beitragen verb class=strong sep=bei 3sg=beiträgt past=beitrug pp=beigetragen subj2=beiträge perf=haben
+beitreiben verb class=strong sep=bei 3sg=beitreibt past=beitrieb pp=beigetrieben subj2=beitriebe perf=haben note=Forderungen beitreiben (collect)
 beitreten verb class=strong sep=bei 3sg=beitritt past=beitrat pp=beigetreten subj2=beiträte perf=sein
 beiwohnen verb class=weak sep=bei pp=beigewohnt perf=haben
 bejahen verb class=weak pp=bejaht perf=haben
@@ -236,8 +240,12 @@ betrüben verb class=weak pp=betrübt perf=haben
 betrügen verb class=strong 3sg=betrügt past=betrog pp=betrogen subj2=betröge perf=haben
 beugen verb class=weak pp=gebeugt perf=haben
 beunruhigen verb class=weak pp=beunruhigt perf=haben pp_cmp part1_cmp
+beurkunden verb class=weak pp=beurkundet perf=haben
+beurlauben verb class=weak pp=beurlaubt perf=haben
 beurteilen    verb class=weak pp=beurteilt perf=haben
 bevölkern verb class=weak pp=bevölkert perf=haben
+bevollmächtigen verb class=weak pp=bevollmächtigt perf=haben
+bevorraten verb class=weak pp=bevorratet perf=haben
 bevorstehen verb class=strong sep=bevor 3sg=bevorsteht past=bevorstand pp=bevorgestanden subj2=bevorstünde|bevorstände perf=haben
 bevorzugen verb class=weak pp=bevorzugt perf=haben
 bewachen verb class=weak pp=bewacht perf=haben
@@ -267,12 +275,15 @@ bezeichnen    verb class=weak pp=bezeichnet perf=haben
 bezeugen verb class=weak pp=bezeugt perf=haben
 bezichtigen verb class=weak pp=bezichtigt perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben
+beziffern verb class=weak pp=beziffert perf=haben
+bezuschussen verb class=weak pp=bezuschusst perf=haben
 bezwecken verb class=weak pp=bezweckt perf=haben
 bezweifeln verb class=weak pp=bezweifelt perf=haben
 bezwingen verb class=strong 3sg=bezwingt past=bezwang subj2=bezwänge pp=bezwungen perf=haben
 bibbern verb class=weak pp=gebibbert perf=haben
 biegen verb class=strong 3sg=biegt past=bog pp=gebogen subj2=böge perf=haben|sein
 bieten        verb class=strong 3sg=bietet past=bot pp=geboten subj2=böte perf=haben
+bilanzieren verb class=weak pp=bilanziert perf=haben
 bilden verb class=weak pp=gebildet perf=haben refl=acc
 binden verb class=strong 3sg=bindet past=band pp=gebunden subj2=bände perf=haben refl=acc
 bitten        verb class=strong 3sg=bittet past=bat pp=gebeten subj2=bäte perf=haben
@@ -286,6 +297,7 @@ blinken verb class=weak pp=geblinkt perf=haben
 blinzeln verb class=weak pp=geblinzelt perf=haben
 blitzen verb class=weak pp=geblitzt perf=haben
 blockieren verb class=weak pp=blockiert perf=haben
+bloggen verb class=weak pp=gebloggt perf=haben
 blöken verb class=weak pp=geblökt perf=haben
 bloßstellen verb class=weak sep=bloß pp=bloßgestellt perf=haben
 blubbern verb class=weak pp=geblubbert perf=haben
@@ -293,6 +305,7 @@ blühen verb class=weak pp=geblüht perf=haben
 bluten verb class=weak pp=geblutet perf=haben
 bohren verb class=weak pp=gebohrt perf=haben
 böllern verb class=weak pp=geböllert perf=haben
+booten verb class=weak pp=gebootet perf=haben note=einen Rechner booten
 borgen verb class=weak pp=geborgt perf=haben
 bouldern verb class=weak pp=gebouldert perf=haben
 bowlen verb class=weak pp=gebowlt perf=haben
@@ -306,6 +319,7 @@ brechen       verb class=strong 3sg=bricht past=brach pp=gebrochen subj2=bräche
 breiten verb class=weak pp=gebreitet perf=haben
 bremsen verb class=weak pp=gebremst perf=haben
 brennen verb class=mixed 3sg=brennt past=brannte pp=gebrannt subj2=brennte perf=haben
+briefen verb class=weak pp=gebrieft perf=haben
 bringen       verb class=mixed 3sg=bringt past=brachte pp=gebracht subj2=brächte perf=haben
 brüllen verb class=weak pp=gebrüllt perf=haben
 brummen verb class=weak pp=gebrummt perf=haben
@@ -315,9 +329,11 @@ buchen verb class=weak pp=gebucht perf=haben
 buchstabieren verb class=weak pp=buchstabiert perf=haben
 bücken verb class=weak pp=gebückt perf=haben refl=acc
 buddeln verb class=weak pp=gebuddelt perf=haben
+budgetieren verb class=weak pp=budgetiert perf=haben
 büffeln verb class=weak pp=gebüffelt perf=haben
 bügeln verb class=weak pp=gebügelt perf=haben
 buhen verb class=weak pp=gebuht perf=haben
 bummeln verb class=weak pp=gebummelt perf=haben|sein
 bündeln verb class=weak pp=gebündelt perf=haben
+bürgen verb class=weak pp=gebürgt perf=haben note=für jemanden bürgen
 bürsten verb class=weak pp=gebürstet perf=haben refl=acc

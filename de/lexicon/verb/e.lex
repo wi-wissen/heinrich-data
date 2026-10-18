@@ -3,6 +3,7 @@ ehren verb class=weak pp=geehrt perf=haben
 eichen verb class=weak pp=geeicht perf=haben
 eignen verb class=weak refl=acc pp=geeignet perf=haben
 eilen verb class=weak pp=geeilt perf=sein|haben
+einarbeiten verb class=weak sep=ein pp=eingearbeitet perf=haben
 einbauen verb class=weak sep=ein pp=eingebaut perf=haben
 einberufen verb class=strong sep=ein 3sg=einberuft past=einberief pp=einberufen subj2=einberiefe perf=haben
 einbetten verb class=weak sep=ein pp=eingebettet perf=haben
@@ -10,10 +11,14 @@ einbeziehen verb class=strong sep=ein 3sg=einbezieht past=einbezog pp=einbezogen
 einbiegen verb class=strong sep=ein 3sg=einbiegt past=einbog subj2=einböge pp=eingebogen perf=sein
 einbilden verb class=weak sep=ein pp=eingebildet perf=haben refl=acc
 einbinden verb class=strong sep=ein 3sg=einbindet past=einband pp=eingebunden subj2=einbände perf=haben
+einblenden verb class=weak sep=ein pp=eingeblendet perf=haben
 einbleuen verb class=weak sep=ein pp=eingebleut perf=haben
 einbrechen verb class=strong sep=ein 3sg=einbricht past=einbrach subj2=einbräche pp=eingebrochen perf=haben|sein
 einbringen verb class=mixed sep=ein 3sg=einbringt past=einbrachte pp=eingebracht subj2=einbrächte perf=haben refl=acc
+einbuchen verb class=weak sep=ein pp=eingebucht perf=haben
 einbuchten verb class=weak sep=ein pp=eingebuchtet perf=haben
+einbürgern verb class=weak sep=ein pp=eingebürgert perf=haben
+einbüßen verb class=weak sep=ein pp=eingebüßt perf=haben
 einchecken verb class=weak sep=ein pp=eingecheckt perf=haben
 eincremen verb class=weak sep=ein pp=eingecremt perf=haben refl=acc
 eindämmen verb class=weak sep=ein pp=eingedämmt perf=haben
@@ -33,6 +38,7 @@ einfrieren verb class=strong sep=ein 3sg=einfriert past=einfror pp=eingefroren s
 einfügen verb class=weak sep=ein pp=eingefügt perf=haben
 einführen verb class=weak sep=ein pp=eingeführt perf=haben
 einfüllen verb class=weak sep=ein pp=eingefüllt perf=haben
+eingeben verb class=strong sep=ein 3sg=eingibt past=eingab pp=eingegeben subj2=eingäbe perf=haben
 eingehen verb class=strong sep=ein 3sg=eingeht past=einging pp=eingegangen subj2=einginge perf=sein
 eingemeinden verb class=weak sep=ein pp=eingemeindet perf=haben
 eingestehen verb class=strong sep=ein 3sg=eingesteht past=eingestand pp=eingestanden subj2=eingestünde|eingestände perf=haben
@@ -41,6 +47,7 @@ eingipsen verb class=weak sep=ein pp=eingegipst perf=haben
 eingliedern verb class=weak sep=ein pp=eingegliedert perf=haben
 eingraben verb class=strong sep=ein 3sg=eingräbt past=eingrub subj2=eingrübe pp=eingegraben perf=haben refl=acc
 eingreifen verb class=strong sep=ein 3sg=eingreift past=eingriff pp=eingegriffen subj2=eingriffe perf=haben
+eingruppieren verb class=weak sep=ein pp=eingruppiert perf=haben
 einhalten verb class=strong sep=ein 3sg=einhält past=einhielt pp=eingehalten subj2=einhielte perf=haben
 einheizen verb class=weak sep=ein pp=eingeheizt perf=haben
 einhergehen verb class=strong sep=einher 3sg=einhergeht past=einherging pp=einhergegangen subj2=einherginge perf=sein
@@ -50,6 +57,7 @@ einigen verb class=weak pp=geeinigt perf=haben refl=acc
 einkalkulieren verb class=weak sep=ein pp=einkalkuliert perf=haben
 einkaufen verb class=weak sep=ein pp=eingekauft perf=haben
 einkerben verb class=weak sep=ein pp=eingekerbt perf=haben
+einklagen verb class=weak sep=ein pp=eingeklagt perf=haben
 einkleiden verb class=weak sep=ein pp=eingekleidet perf=haben
 einklemmen verb class=weak sep=ein pp=eingeklemmt perf=haben
 einkochen verb class=weak pp=eingekocht perf=haben sep=ein
@@ -72,6 +80,8 @@ einpacken verb class=weak sep=ein pp=eingepackt perf=haben
 einparken verb class=weak sep=ein pp=eingeparkt perf=haben
 einpendeln verb class=weak sep=ein pp=eingependelt perf=haben refl=acc
 einpflanzen verb class=weak pp=eingepflanzt perf=haben sep=ein
+einpflegen verb class=weak sep=ein pp=eingepflegt perf=haben
+einplanen verb class=weak sep=ein pp=eingeplant perf=haben
 einprägen verb class=weak sep=ein pp=eingeprägt perf=haben
 einquartieren verb class=weak sep=ein pp=einquartiert perf=haben
 einrahmen verb class=weak sep=ein pp=eingerahmt perf=haben
@@ -91,6 +101,7 @@ einrücken verb class=weak sep=ein pp=eingerückt perf=sein
 einrühren verb class=weak sep=ein pp=eingerührt perf=haben
 einsammeln verb class=weak sep=ein pp=eingesammelt perf=haben
 einsäumen verb class=weak sep=ein pp=eingesäumt perf=haben
+einscannen verb class=weak sep=ein pp=eingescannt perf=haben
 einschalten verb class=weak sep=ein pp=eingeschaltet perf=haben refl=acc
 einschärfen verb class=weak sep=ein pp=eingeschärft perf=haben
 einschätzen verb class=weak sep=ein pp=eingeschätzt perf=haben
@@ -118,6 +129,7 @@ einsinken verb class=strong sep=ein 3sg=einsinkt past=einsank subj2=einsänke pp
 einsortieren verb class=weak sep=ein pp=einsortiert perf=haben
 einspannen verb class=weak sep=ein pp=eingespannt perf=haben
 einsparen verb class=weak sep=ein pp=eingespart perf=haben
+einspeisen verb class=weak sep=ein pp=eingespeist perf=haben
 einsperren verb class=weak sep=ein pp=eingesperrt perf=haben
 einspielen verb class=weak sep=ein pp=eingespielt perf=haben
 einspringen verb class=strong sep=ein 3sg=einspringt past=einsprang subj2=einspränge pp=eingesprungen perf=sein
@@ -126,6 +138,7 @@ einstecken verb class=weak sep=ein pp=eingesteckt perf=haben
 einstehen verb class=strong sep=ein 3sg=einsteht past=einstand pp=eingestanden subj2=einstünde|einstände perf=haben
 einsteigen verb class=strong sep=ein 3sg=einsteigt past=einstieg pp=eingestiegen subj2=einstiege perf=sein
 einstellen verb class=weak sep=ein pp=eingestellt perf=haben refl=acc
+einstempeln verb class=weak sep=ein pp=eingestempelt perf=haben
 einstimmen verb class=weak sep=ein pp=eingestimmt perf=haben
 einstudieren verb class=weak sep=ein pp=einstudiert perf=haben
 einstufen verb class=weak sep=ein pp=eingestuft perf=haben
@@ -136,6 +149,7 @@ einteilen verb class=weak sep=ein pp=eingeteilt perf=haben
 eintippen verb class=weak sep=ein pp=eingetippt perf=haben
 eintragen verb class=strong sep=ein 3sg=einträgt past=eintrug pp=eingetragen subj2=eintrüge perf=haben refl=acc
 eintreffen verb class=strong sep=ein 3sg=eintrifft past=eintraf pp=eingetroffen subj2=einträfe perf=sein
+eintreiben verb class=strong sep=ein 3sg=eintreibt past=eintrieb pp=eingetrieben subj2=eintriebe perf=haben
 eintreten verb class=strong sep=ein 3sg=eintritt past=eintrat pp=eingetreten subj2=einträte perf=sein|haben
 eintrüben verb class=weak sep=ein pp=eingetrübt perf=haben refl=acc
 eintüten verb class=weak sep=ein pp=eingetütet perf=haben
@@ -172,6 +186,7 @@ entfallen verb class=strong 3sg=entfällt past=entfiel pp=entfallen subj2=entfie
 entfalten verb class=weak refl=acc pp=entfaltet perf=haben
 entfernen verb class=weak pp=entfernt perf=haben refl=acc
 entfliehen verb class=strong 3sg=entflieht past=entfloh pp=entflohen subj2=entflöhe perf=sein
+entfristen verb class=weak pp=entfristet perf=haben
 entführen verb class=weak pp=entführt perf=haben
 entgegenblicken verb class=weak sep=entgegen pp=entgegengeblickt perf=haben
 entgegenbringen verb class=mixed sep=entgegen 3sg=entgegenbringt past=entgegenbrachte subj2=entgegenbrächte pp=entgegengebracht perf=haben
@@ -211,6 +226,7 @@ entlaufen verb class=strong 3sg=entläuft past=entlief pp=entlaufen subj2=entlie
 entleihen verb class=strong 3sg=entleiht past=entlieh pp=entliehen subj2=entliehe perf=haben
 entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
+entpacken verb class=weak pp=entpackt perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
 entrümpeln verb class=weak pp=entrümpelt perf=haben
 entrüsten verb class=weak pp=entrüstet perf=haben refl=acc
@@ -219,6 +235,7 @@ entschärfen verb class=weak pp=entschärft perf=haben
 entscheiden verb class=strong 3sg=entscheidet past=entschied pp=entschieden subj2=entschiede perf=haben refl=acc
 entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen subj2=entschlösse perf=haben refl=acc
 entschlüpfen verb class=weak pp=entschlüpft perf=sein
+entschlüsseln verb class=weak pp=entschlüsselt perf=haben
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
@@ -409,6 +426,7 @@ erweisen verb class=strong 3sg=erweist past=erwies pp=erwiesen subj2=erwiese per
 erweitern verb class=weak pp=erweitert perf=haben refl=acc
 erwerben verb class=strong 3sg=erwirbt past=erwarb pp=erworben subj2=erwürbe|erwärbe[rare] perf=haben
 erwidern verb class=weak pp=erwidert perf=haben
+erwirken verb class=weak pp=erwirkt perf=haben
 erwirtschaften verb class=weak pp=erwirtschaftet perf=haben
 erwischen verb class=weak pp=erwischt perf=haben
 erwürgen verb class=weak pp=erwürgt perf=haben

@@ -2,6 +2,7 @@ schätzungsweise adv
 schier adv
 schlechthin adv
 schlichtweg adv type=degree
+schnellstens adv
 schwerlich adv type=degree
 seinerseits adv type=manner
 seinerzeit adv type=time

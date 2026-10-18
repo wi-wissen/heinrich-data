@@ -67,8 +67,10 @@ mitreden verb class=weak sep=mit pp=mitgeredet perf=haben
 mitreisen verb class=weak sep=mit pp=mitgereist perf=sein
 mitreißen verb class=strong sep=mit 3sg=mitreißt past=mitriss subj2=mitrisse pp=mitgerissen perf=haben
 mitrennen verb class=mixed sep=mit 3sg=mitrennt past=mitrannte subj2=mitrennte pp=mitgerannt perf=sein
+mitschneiden verb class=strong sep=mit 3sg=mitschneidet past=mitschnitt pp=mitgeschnitten subj2=mitschnitte perf=haben
 mitschreiben verb class=strong sep=mit 3sg=mitschreibt past=mitschrieb pp=mitgeschrieben subj2=mitschriebe perf=haben
 mitschwimmen verb class=strong sep=mit 3sg=mitschwimmt past=mitschwamm subj2=mitschwömme|mitschwämme pp=mitgeschwommen perf=sein
+mitsenden verb class=weak sep=mit past=mitsendete|mitsandte pp=mitgesendet|mitgesandt perf=haben
 mitsingen verb class=strong sep=mit 3sg=mitsingt past=mitsang subj2=mitsänge pp=mitgesungen perf=haben
 mitspielen verb class=weak sep=mit pp=mitgespielt perf=haben
 mitsprechen verb class=strong sep=mit 3sg=mitspricht past=mitsprach subj2=mitspräche pp=mitgesprochen perf=haben
@@ -80,6 +82,7 @@ mitwandern verb class=weak sep=mit pp=mitgewandert perf=sein
 mitweinen verb class=weak sep=mit pp=mitgeweint perf=haben
 mitwirken verb class=weak sep=mit pp=mitgewirkt perf=haben
 mitzählen verb class=weak sep=mit pp=mitgezählt perf=haben
+mitzeichnen verb class=weak sep=mit pp=mitgezeichnet perf=haben
 mitziehen verb class=strong sep=mit 3sg=mitzieht past=mitzog subj2=mitzöge pp=mitgezogen perf=haben|sein
 mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
@@ -88,6 +91,7 @@ modeln verb class=weak pp=gemodelt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben
 mogeln verb class=weak pp=gemogelt perf=haben
+monieren verb class=weak pp=moniert perf=haben
 montieren verb class=weak pp=montiert perf=haben
 motivieren verb class=weak pp=motiviert perf=haben refl=acc
 motzen verb class=weak pp=gemotzt perf=haben style=colloquial

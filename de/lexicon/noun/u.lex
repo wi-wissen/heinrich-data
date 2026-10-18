@@ -25,7 +25,9 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überschreitung noun g=f gen=Überschreitung pl=Überschreitungen
 Überschrift noun g=f gen=Überschrift pl=Überschriften
 Überschuldung noun g=f gen=Überschuldung pl=- note=no plural
+Überschuss noun g=m gen=Überschusses pl=Überschüsse
 Überschwemmung noun g=f gen=Überschwemmung pl=Überschwemmungen
+Übersendung noun g=f gen=Übersendung pl=Übersendungen
 Übersetzer noun g=m gen=Übersetzers pl=Übersetzer
 Übersetzerin noun g=f gen=Übersetzerin pl=Übersetzerinnen
 Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
@@ -39,6 +41,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überzeugung noun g=f gen=Überzeugung pl=Überzeugungen
 Übung noun g=f gen=Übung pl=Übungen
 Ufer noun g=n gen=Ufers pl=Ufer
+UG noun g=f gen=UG pl=UGs note=Unternehmergesellschaft
 Uhr noun g=f gen=Uhr pl=Uhren
 Uhrmacher noun g=m gen=Uhrmachers pl=Uhrmacher
 Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
@@ -48,6 +51,7 @@ Ulme noun g=f gen=Ulme pl=Ulmen
 Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
+Umbuchung noun g=f gen=Umbuchung pl=Umbuchungen
 Umdrehung noun g=f gen=Umdrehung pl=Umdrehungen
 Umfang noun g=m gen=Umfangs|Umfanges[rare] pl=Umfänge
 Umfeld noun g=n gen=Umfelds|Umfeldes pl=Umfelder
@@ -59,16 +63,20 @@ Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
 Umkleide noun g=f gen=Umkleide pl=Umkleiden
 Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
+Umlage noun g=f gen=Umlage pl=Umlagen
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
 Umlaut noun g=m gen=Umlauts|Umlautes pl=Umlaute
 Umleitung noun g=f gen=Umleitung pl=Umleitungen
+Ummeldung noun g=f gen=Ummeldung pl=Ummeldungen
 Umsatz noun g=m gen=Umsatzes pl=Umsätze
 Umschlag noun g=m gen=Umschlags|Umschlages pl=Umschläge
 Umschrift noun g=f gen=Umschrift pl=Umschriften
 Umsetzung noun g=f gen=Umsetzung pl=Umsetzungen
 Umstand noun g=m gen=Umstandes|Umstands pl=Umstände
 Umstellung noun g=f gen=Umstellung pl=Umstellungen
+Umstrukturierung noun g=f gen=Umstrukturierung pl=Umstrukturierungen
+Umtausch noun g=m gen=Umtauschs|Umtausches pl=Umtausche
 Umwandlung noun g=f gen=Umwandlung pl=Umwandlungen
 Umweg noun g=m gen=Umwegs|Umweges pl=Umwege
 Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
@@ -96,6 +104,7 @@ Uniform noun g=f gen=Uniform pl=Uniformen
 Union noun g=f gen=Union pl=Unionen
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
+Unklarheit noun g=f gen=Unklarheit pl=Unklarheiten
 Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
 Unmut noun g=m gen=Unmuts|Unmutes pl=- note=no plural
@@ -125,6 +134,7 @@ Unteroffizier noun g=m gen=Unteroffiziers pl=Unteroffiziere
 Unterredung noun g=f gen=Unterredung pl=Unterredungen
 Unterricht noun g=m gen=Unterrichts|Unterrichtes pl=- note=no plural
 Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
+Untersagung noun g=f gen=Untersagung pl=Untersagungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
@@ -136,6 +146,7 @@ Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
 Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen
 Untertan noun g=m gen=Untertans|Untertanen pl=Untertanen
 Untertitel noun g=m gen=Untertitels pl=Untertitel
+Unterweisung noun g=f gen=Unterweisung pl=Unterweisungen
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen
 Unverschämtheit noun g=f gen=Unverschämtheit pl=Unverschämtheiten
@@ -144,10 +155,12 @@ Unwissenheit noun g=f gen=Unwissenheit pl=- note=no plural
 Unze noun g=f gen=Unze pl=Unzen
 Unzufriedenheit noun g=f gen=Unzufriedenheit pl=- note=no plural in practice
 Update noun g=n gen=Updates pl=Updates
+Upgrade noun g=n gen=Upgrades pl=Upgrades
 Upload noun g=m gen=Uploads pl=Uploads
 Uran noun g=n gen=Urans pl=- note=chemical element
 Uraufführung noun g=f gen=Uraufführung pl=Uraufführungen
 Ureinwohner noun g=m gen=Ureinwohners pl=Ureinwohner
+Ureinwohnerin noun g=f gen=Ureinwohnerin pl=Ureinwohnerinnen
 Urheber noun g=m gen=Urhebers pl=Urheber
 Urheberin noun g=f gen=Urheberin pl=Urheberinnen
 Urin noun g=m gen=Urins pl=Urine

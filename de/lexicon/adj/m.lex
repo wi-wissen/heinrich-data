@@ -21,6 +21,7 @@ medizinisch adj
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
+meldepflichtig adj
 menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
 merklich adj
@@ -30,11 +31,14 @@ mexikanisch adj
 mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
 militärisch adj
+minderjährig adj
 miserabel adj cmp=miserabler sup=miserabelsten
+missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
 mittelalterlich adj
 mittelbar adj
+mittelfristig adj
 mittelständisch adj
 mittig adj
 mittler adj attr_only sup=mittelsten note=die mittlere Reife, der mittelste Platz; no comparative

@@ -11,6 +11,8 @@ Ladung noun g=f gen=Ladung pl=Ladungen
 Lady noun g=f gen=Lady pl=Ladys|Ladies
 Lage noun g=f gen=Lage pl=Lagen
 Lager noun g=n gen=Lagers pl=Lager|Läger[rare]
+Lagerist noun g=m gen=Lageristen pl=Lageristen
+Lageristin noun g=f gen=Lageristin pl=Lageristinnen
 Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Lagune noun g=f gen=Lagune pl=Lagunen
 Laie noun g=m gen=Laien pl=Laien
@@ -23,6 +25,7 @@ Laminat noun g=n gen=Laminats|Laminates pl=Laminate
 Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
 Lämmchen noun g=n gen=Lämmchens pl=Lämmchen
 Lampe noun g=f gen=Lampe pl=Lampen
+LAN noun g=n gen=LAN|LANs pl=LANs
 Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
 Ländereien noun g=pl note=landholdings
 Landkarte noun g=f gen=Landkarte pl=Landkarten
@@ -40,6 +43,7 @@ Langlauf noun g=m gen=Langlaufs|Langlaufes pl=Langläufe
 Langläufer noun g=m gen=Langläufers pl=Langläufer
 Langläuferin noun g=f gen=Langläuferin pl=Langläuferinnen
 Langschläfer noun g=m gen=Langschläfers pl=Langschläfer
+Langschläferin noun g=f gen=Langschläferin pl=Langschläferinnen
 Languste noun g=f gen=Languste pl=Langusten
 Lanze noun g=f gen=Lanze pl=Lanzen
 Lappen noun g=m gen=Lappens pl=Lappen
@@ -72,12 +76,14 @@ Lava noun g=f gen=Lava pl=Laven
 Lavendel noun g=m gen=Lavendels pl=Lavendel
 Lawine noun g=f gen=Lawine pl=Lawinen
 Lazarett noun g=n gen=Lazaretts|Lazarettes pl=Lazarette
+Leasing noun g=n gen=Leasings pl=Leasings
 Leben noun g=n gen=Lebens pl=Leben
 Lebensbedingung noun g=f gen=Lebensbedingung pl=Lebensbedingungen note=compound not split by the analyser
 Lebensdauer noun g=f gen=Lebensdauer pl=- note=compound not split by the analyser; plural not used
 Lebensjahr noun g=n gen=Lebensjahrs|Lebensjahres pl=Lebensjahre
 Lebensmittel noun g=n gen=Lebensmittels pl=Lebensmittel
 Lebenspartner noun g=m gen=Lebenspartners pl=Lebenspartner
+Lebenspartnerin noun g=f gen=Lebenspartnerin pl=Lebenspartnerinnen
 Lebenspartnerschaft noun g=f gen=Lebenspartnerschaft pl=Lebenspartnerschaften note=compound not split by the analyser
 Lebensqualität noun g=f gen=Lebensqualität pl=- note=compound not split by the analyser; plural not used
 Lebensraum noun g=m gen=Lebensraums|Lebensraumes pl=Lebensräume
@@ -89,8 +95,10 @@ Lebenszeit noun g=f gen=Lebenszeit pl=Lebenszeiten
 Leber noun g=f gen=Leber pl=Lebern
 Lebewesen noun g=n gen=Lebewesens pl=Lebewesen
 Lebkuchen noun g=m gen=Lebkuchens pl=Lebkuchen
+Leck noun g=n gen=Lecks pl=Lecks
 Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
+Leertaste noun g=f gen=Leertaste pl=Leertasten
 Legende noun g=f gen=Legende pl=Legenden
 Leggings noun g=f gen=Leggings pl=Leggings
 Legion noun g=f gen=Legion pl=Legionen
@@ -124,6 +132,7 @@ Leim noun g=m gen=Leims|Leimes pl=Leime
 Leine noun g=f gen=Leine pl=Leinen
 Leinwand noun g=f gen=Leinwand pl=Leinwände
 Leipziger noun g=m gen=Leipzigers pl=Leipziger note=inhabitant of Leipzig; also the indeclinable adjective (Leipziger Straße)
+Leiste noun g=f gen=Leiste pl=Leisten
 Leistung noun g=f gen=Leistung pl=Leistungen
 Leistungserbringer noun g=m gen=Leistungserbringers pl=Leistungserbringer
 Leiter noun g=f gen=Leiter pl=Leitern sense=ladder
@@ -136,6 +145,7 @@ Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemming noun g=m gen=Lemmings pl=Lemminge
 Lenker noun g=m gen=Lenkers pl=Lenker
 Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
+Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
 Lerche noun g=f gen=Lerche pl=Lerchen
 Leser noun g=m gen=Lesers pl=Leser
@@ -167,6 +177,7 @@ Lied noun g=n gen=Liedes|Lieds pl=Lieder
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
+Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Liga noun g=f gen=Liga pl=Ligen
 Like noun g=m|n gen=Likes pl=Likes
@@ -182,6 +193,7 @@ Linguistik noun g=f gen=Linguistik pl=- note=no plural
 Linie noun g=f gen=Linie pl=Linien
 Link noun g=m gen=Links pl=Links
 Linke noun g=m|f decl=adj note=die Linke (party, left hand); also der Linke
+Linksklick noun g=m gen=Linksklicks pl=Linksklicks
 Linse noun g=f gen=Linse pl=Linsen
 Lippe noun g=f gen=Lippe pl=Lippen
 Liquidation noun g=f gen=Liquidation pl=Liquidationen
@@ -200,6 +212,7 @@ Lkw-Fahrerin noun g=f gen=Lkw-Fahrerin pl=Lkw-Fahrerinnen
 Lob noun g=n gen=Lobs|Lobes pl=- note=no plural
 Lobby noun g=f gen=Lobby pl=Lobbys
 Lobbyist noun g=m gen=Lobbyisten pl=Lobbyisten
+Lobbyistin noun g=f gen=Lobbyistin pl=Lobbyistinnen
 Loch noun g=n gen=Loches|Lochs pl=Löcher
 Locher noun g=m gen=Lochers pl=Locher
 Lockdown noun g=m gen=Lockdowns pl=Lockdowns
@@ -208,11 +221,14 @@ Löffel noun g=m gen=Löffels pl=Löffel
 Logarithmus noun g=m gen=Logarithmus pl=Logarithmen note=Latin loanword; genitive without -es
 Loge noun g=f gen=Loge pl=Logen
 Logik noun g=f gen=Logik pl=- note=no plural
+Login noun g=n|m gen=Logins pl=Logins
 Logistik noun g=f gen=Logistik pl=- note=no plural
 Logo noun g=n gen=Logos pl=Logos
+Logout noun g=n|m gen=Logouts pl=Logouts
 Lohn noun g=m gen=Lohnes|Lohns pl=Löhne
 Loipe noun g=f gen=Loipe pl=Loipen
 Lok noun g=f gen=Lok pl=Loks note=Lokomotive
+Lokal noun g=n gen=Lokals|Lokales pl=Lokale
 Lokomotive noun g=f gen=Lokomotive pl=Lokomotiven
 Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the indeclinable adjective
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren

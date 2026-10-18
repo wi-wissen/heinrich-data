@@ -3,6 +3,7 @@ Obdachlose noun g=m|f decl=adj
 Ober noun g=m gen=Obers pl=Ober note=waiter
 Oberbefehlshaber noun g=m gen=Oberbefehlshabers pl=Oberbefehlshaber note=compound not split by the analyser
 Oberbürgermeister noun g=m gen=Oberbürgermeisters pl=Oberbürgermeister
+Oberfläche noun g=f gen=Oberfläche pl=Oberflächen
 Obergeschoss noun g=n gen=Obergeschosses pl=Obergeschosse note=compound not split by the analyser
 Oberschenkel noun g=m gen=Oberschenkels pl=Oberschenkel
 Oberst noun g=m gen=Obersten|Obersts pl=Oberste|Obersten conf=70 note=declension uncertain (des Obersten / des Obersts); der Oberst
@@ -10,6 +11,7 @@ Oberstleutnant noun g=m gen=Oberstleutnants pl=Oberstleutnants|Oberstleutnante
 Oberstufe noun g=f gen=Oberstufe pl=Oberstufen
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
+Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
@@ -20,11 +22,13 @@ Offenheit noun g=f gen=Offenheit pl=- note=abstract noun
 Offenlegung noun g=f gen=Offenlegung pl=Offenlegungen
 Offensive noun g=f gen=Offensive pl=Offensiven
 Öffentlichkeit noun g=f gen=Öffentlichkeit pl=- note=no plural
+Office noun g=n gen=Office|Offices pl=Offices
 Offizier noun g=m gen=Offiziers pl=Offiziere
 Offizierin noun g=f gen=Offizierin pl=Offizierinnen
 Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
+OHG noun g=f gen=OHG pl=OHGs note=offene Handelsgesellschaft
 Ohm noun g=n gen=Ohm|Ohms pl=Ohm sense=unit note=physical unit
 Ohnmacht noun g=f gen=Ohnmacht pl=Ohnmachten
 Ohr noun g=n gen=Ohrs|Ohres pl=Ohren
@@ -41,11 +45,16 @@ Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olympiade noun g=f gen=Olympiade pl=Olympiaden
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
+Olympiasiegerin noun g=f gen=Olympiasiegerin pl=Olympiasiegerinnen
 Oma noun g=f gen=Oma pl=Omas
+Ombudsfrau noun g=f gen=Ombudsfrau pl=Ombudsfrauen
+Ombudsmann noun g=m gen=Ombudsmanns|Ombudsmannes pl=Ombudsmänner|Ombudsleute
 Omelett noun g=n gen=Omeletts pl=Omeletts
 Omi noun g=f gen=Omi pl=Omis
 Omnibus noun g=m gen=Omnibusses pl=Omnibusse
+Onboarding noun g=n gen=Onboardings pl=Onboardings
 Onkel noun g=m gen=Onkels pl=Onkel|Onkels[colloquial]
+Onlinebanking noun g=n gen=Onlinebankings pl=- note=mass noun
 Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
 Oper noun g=f gen=Oper pl=Opern
@@ -68,9 +77,11 @@ Ordnung noun g=f gen=Ordnung pl=Ordnungen
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
 Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
+Organigramm noun g=n gen=Organigramms|Organigrammes pl=Organigramme
 Organisation noun g=f gen=Organisation pl=Organisationen
 Organismus noun g=m gen=Organismus pl=Organismen
 Organist noun g=m gen=Organisten pl=Organisten
+Organistin noun g=f gen=Organistin pl=Organistinnen
 Organspende noun g=f gen=Organspende pl=Organspenden
 Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
@@ -83,6 +94,7 @@ Orthographie noun g=f gen=Orthographie pl=Orthographien
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
+Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
 Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier
@@ -97,6 +109,8 @@ Osternest noun g=n gen=Osternests|Osternestes pl=Osternester
 Österreicherin noun g=f gen=Österreicherin pl=Österreicherinnen
 Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
+Output noun g=m|n gen=Outputs pl=Outputs
+Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren
 Oxymoron noun g=n gen=Oxymorons pl=Oxymora

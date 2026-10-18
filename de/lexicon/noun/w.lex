@@ -38,6 +38,7 @@ Walzer noun g=m gen=Walzers pl=Walzer
 Wand noun g=f gen=Wand pl=Wände
 Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
+Wanderin noun g=f gen=Wanderin pl=Wanderinnen
 Wanderschuhe noun g=pl
 Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
@@ -66,10 +67,13 @@ Watt noun g=n gen=Watts|Wattes pl=Watten sense=mudflat note=das Watt: tidal flat
 Watt noun g=n gen=Watt|Watts pl=Watt sense=unit note=physical unit; des Watt(s)
 WC noun g=n gen=WC|WCs pl=WCs note=abbreviation of Wasserklosett
 WDR noun g=m gen=WDR|WDRs pl=- note=Westdeutscher Rundfunk; der WDR
+Web noun g=n gen=Web|Webs pl=- note=das Web (World Wide Web)
 Webcam noun g=f gen=Webcam pl=Webcams
 Weber noun g=m gen=Webers pl=Weber
 Weberin noun g=f gen=Weberin pl=Weberinnen
+Webinar noun g=n gen=Webinars pl=Webinare
 Webseite noun g=f gen=Webseite pl=Webseiten
+Webshop noun g=m gen=Webshops pl=Webshops
 Website noun g=f gen=Website pl=Websites
 Wechsel noun g=m gen=Wechsels pl=Wechsel
 Wecker noun g=m gen=Weckers pl=Wecker
@@ -105,6 +109,7 @@ Weite noun g=f gen=Weite pl=Weiten
 Weiterbildung noun g=f gen=Weiterbildung pl=Weiterbildungen[rare]
 Weiterentwicklung noun g=f gen=Weiterentwicklung pl=Weiterentwicklungen
 Weitergabe noun g=f gen=Weitergabe pl=- note=no plural
+Weiterleitung noun g=f gen=Weiterleitung pl=Weiterleitungen
 Weitsprung noun g=m gen=Weitsprungs|Weitsprunges pl=Weitsprünge
 Weizen noun g=m gen=Weizens pl=- note=no plural
 Welle noun g=f gen=Welle pl=Wellen
@@ -134,6 +139,8 @@ West noun g=m gen=Wests pl=- conf=70 note=compass direction in set phrases and a
 Weste noun g=f gen=Weste pl=Westen
 Westen noun g=m gen=Westens pl=- note=compass direction
 Wettbewerb noun g=m gen=Wettbewerbs|Wettbewerbes[rare] pl=Wettbewerbe
+Wettbewerber noun g=m gen=Wettbewerbers pl=Wettbewerber
+Wettbewerberin noun g=f gen=Wettbewerberin pl=Wettbewerberinnen
 Wette noun g=f gen=Wette pl=Wetten
 Wetter noun g=n gen=Wetters pl=Wetter
 Wetterfrosch noun g=m gen=Wetterfrosches pl=Wetterfrösche
@@ -148,19 +155,23 @@ Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
 Widerspruch noun g=m gen=Widerspruchs|Widerspruches[rare] pl=Widersprüche
 Widerstand noun g=m gen=Widerstandes|Widerstands pl=Widerstände
 Widerstandskämpfer noun g=m gen=Widerstandskämpfers pl=Widerstandskämpfer
+Widerstandskämpferin noun g=f gen=Widerstandskämpferin pl=Widerstandskämpferinnen
 Wiederaufbau noun g=m gen=Wiederaufbaus|Wiederaufbaues pl=- note=no plural
 Wiederaufforstung noun g=f gen=Wiederaufforstung pl=Wiederaufforstungen
 Wiederbelebung noun g=f gen=Wiederbelebung pl=Wiederbelebungen
+Wiedereinsetzung noun g=f gen=Wiedereinsetzung pl=Wiedereinsetzungen
 Wiedergutmachung noun g=f gen=Wiedergutmachung pl=- note=no plural
 Wiederherstellung noun g=f gen=Wiederherstellung pl=- note=no plural
 Wiederholung noun g=f gen=Wiederholung pl=Wiederholungen
 Wiederkehr noun g=f gen=Wiederkehr pl=- note=no plural
 Wiedersehen noun g=n gen=Wiedersehens pl=Wiedersehen
 Wiedervereinigung noun g=f gen=Wiedervereinigung pl=Wiedervereinigungen
+Wiedervorlage noun g=f gen=Wiedervorlage pl=Wiedervorlagen
 Wiege noun g=f gen=Wiege pl=Wiegen
 Wiener noun g=m gen=Wieners pl=Wiener note=inhabitant of Vienna
 Wiese noun g=f gen=Wiese pl=Wiesen
 Wiesel noun g=n gen=Wiesels pl=Wiesel
+Wiki noun g=n gen=Wikis pl=Wikis
 Wikinger noun g=m gen=Wikingers pl=Wikinger
 Wild noun g=n gen=Wilds|Wildes pl=- note=game (animals)
 Wildkraut noun g=n gen=Wildkrauts pl=Wildkräuter
@@ -233,7 +244,9 @@ Wolke noun g=f gen=Wolke pl=Wolken
 Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
 Wonne noun g=f gen=Wonne pl=Wonnen
+Workflow noun g=m gen=Workflows pl=Workflows
 Workshop noun g=m gen=Workshops pl=Workshops
+Workspace noun g=m gen=Workspace|Workspaces pl=Workspaces
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural

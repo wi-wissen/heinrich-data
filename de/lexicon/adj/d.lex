@@ -48,6 +48,7 @@ dreifach adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten
+dringlich adj cmp=dringlicher sup=dringlichsten
 dual adj
 duftend adj
 dumm adj cmp=dümmer sup=dümmsten

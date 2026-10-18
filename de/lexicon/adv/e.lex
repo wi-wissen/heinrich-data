@@ -9,5 +9,6 @@ einher adv
 einigermaßen adv
 einstweilen adv type=time
 empor adv type=direction
+erfahrungsgemäß adv
 erstmals adv type=time
 extra adv type=degree
