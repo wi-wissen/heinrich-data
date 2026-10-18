@@ -1,3 +1,4 @@
+Taiwan propn g=n gen=Taiwans pl=- note=proper name, no plural
 Texas propn g=n gen=Texas pl=- note=proper name, no plural; genitive unmarked (Texas')
 Thailand propn g=n gen=Thailands pl=- note=proper name, no plural
 Thüringen propn g=n gen=Thüringens pl=- note=proper name, no plural

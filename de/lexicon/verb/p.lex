@@ -4,5 +4,9 @@ pflanzen verb class=weak pp=gepflanzt perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 planen verb class=weak pp=geplant perf=haben
 prägen verb class=weak pp=geprägt perf=haben
+präsentieren verb class=weak pp=präsentiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben
+profitieren verb class=weak pp=profitiert perf=haben
+promovieren verb class=weak pp=promoviert perf=haben
 prüfen verb class=weak pp=geprüft perf=haben
+publizieren verb class=weak pp=publiziert perf=haben

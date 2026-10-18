@@ -1,4 +1,5 @@
 tanzen       verb class=weak pp=getanzt perf=haben
+tauchen verb class=weak pp=getaucht perf=haben|sein
 teilen verb class=weak pp=geteilt perf=haben
 teilnehmen verb class=strong sep=teil 3sg=teilnimmt past=teilnahm pp=teilgenommen subj2=teilnähme perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben

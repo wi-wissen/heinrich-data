@@ -14,6 +14,7 @@ Landung noun g=f gen=Landung pl=Landungen
 Landwirt noun g=m gen=Landwirts pl=Landwirte
 Landwirtschaft noun g=f gen=Landwirtschaft pl=Landwirtschaften
 Länge noun g=f gen=Länge pl=Längen
+Langläufer noun g=m gen=Langläufers pl=Langläufer
 Lärm noun g=m gen=Lärms|Lärmes pl=- note=no plural
 Last noun g=f gen=Last pl=Lasten
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
