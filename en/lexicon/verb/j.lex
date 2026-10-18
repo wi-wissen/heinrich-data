@@ -1,4 +1,6 @@
 jail           verb
+jam verb
+jerk verb
 jest           verb
 join           verb
 joke           verb

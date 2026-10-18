@@ -10,6 +10,7 @@ disproportionately adv
 distinctly adv
 domestically adv
 double adv
+doubly adv
 doubtless adv
 downstairs adv
 downstream adv
