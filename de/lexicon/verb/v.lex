@@ -333,6 +333,7 @@ vertreiben verb class=strong 3sg=vertreibt past=vertrieb pp=vertrieben subj2=ver
 vertreten verb class=strong 3sg=vertritt past=vertrat pp=vertreten subj2=verträte perf=haben
 vertrocknen verb class=weak pp=vertrocknet perf=sein
 vertuschen verb class=weak pp=vertuscht perf=haben
+verübeln verb class=weak pp=verübelt perf=haben
 verüben verb class=weak pp=verübt perf=haben
 verunglücken verb class=weak pp=verunglückt perf=sein
 verunreinigen verb class=weak pp=verunreinigt perf=haben

@@ -136,6 +136,7 @@ Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Dingo noun g=m gen=Dingos pl=Dingos
 Diözese noun g=f gen=Diözese pl=Diözesen
 Dip noun g=m gen=Dips pl=Dips
+Diphthong noun g=m gen=Diphthongs pl=Diphthonge
 Diplom noun g=n gen=Diploms|Diplomes[rare] pl=Diplome
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
 Diplomatie noun g=f gen=Diplomatie pl=- note=no plural

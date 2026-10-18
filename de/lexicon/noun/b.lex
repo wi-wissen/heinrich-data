@@ -421,7 +421,9 @@ Block noun g=m gen=Blocks|Blockes pl=Blöcke|Blocks
 Blockade noun g=f gen=Blockade pl=Blockaden
 Blödsinn noun g=m gen=Blödsinns pl=- note=no plural
 Blog noun g=m gen=Blogs pl=Blogs
+Blogger noun g=m gen=Bloggers pl=Blogger
 Blues noun g=m gen=Blues pl=Blues
+Bluetooth noun g=n gen=Bluetooth pl=- note=technology name
 Blume         noun g=f gen=Blume pl=Blumen
 Blumenbeet noun g=n gen=Blumenbeets pl=Blumenbeete
 Bluse noun g=f gen=Bluse pl=Blusen

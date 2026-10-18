@@ -109,6 +109,7 @@ zunicken verb class=weak sep=zu pp=zugenickt perf=haben
 zuordnen verb class=weak sep=zu pp=zugeordnet perf=haben
 zupacken verb class=weak sep=zu pp=zugepackt perf=haben
 zupfen verb class=weak pp=gezupft perf=haben
+zuprosten verb class=weak sep=zu pp=zugeprostet perf=haben
 zuraunen verb class=weak sep=zu pp=zugeraunt perf=haben
 zurechnen verb class=weak sep=zu pp=zugerechnet perf=haben
 zureden verb class=weak sep=zu pp=zugeredet perf=haben
@@ -252,6 +253,7 @@ zustoßen verb class=strong sep=zu 3sg=zustößt past=zustieß subj2=zustieße p
 zustreben verb class=weak sep=zu pp=zugestrebt perf=sein
 zuteilen verb class=weak sep=zu pp=zugeteilt perf=haben
 zutragen verb class=strong sep=zu 3sg=zuträgt past=zutrug subj2=zutrüge pp=zugetragen perf=haben refl=acc
+zutrauen verb class=weak sep=zu pp=zugetraut perf=haben
 zutreffen verb class=strong sep=zu 3sg=zutrifft past=zutraf pp=zugetroffen subj2=zuträfe perf=haben
 zutreten verb class=strong sep=zu 3sg=zutritt past=zutrat subj2=zuträte pp=zugetreten perf=haben|sein
 zutrinken verb class=strong sep=zu 3sg=zutrinkt past=zutrank subj2=zutränke pp=zugetrunken perf=haben

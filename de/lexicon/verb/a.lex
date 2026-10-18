@@ -36,6 +36,7 @@ abhängen verb class=weak sep=ab pp=abgehängt perf=haben sense=transitive note=
 abhärten verb class=weak sep=ab pp=abgehärtet perf=haben refl=acc
 abhauen verb class=strong sep=ab 3sg=abhaut past=abhaute|abhieb[archaic] subj2=abhaute|abhiebe[archaic] pp=abgehauen perf=sein
 abheben verb class=strong sep=ab 3sg=abhebt past=abhob pp=abgehoben subj2=abhöbe perf=haben|sein
+abhelfen verb class=strong sep=ab 3sg=abhilft past=abhalf pp=abgeholfen subj2=abhülfe|abhälfe[rare] perf=haben
 abhetzen verb class=weak sep=ab pp=abgehetzt perf=haben refl=acc
 abholen       verb class=weak sep=ab pp=abgeholt perf=haben
 abholzen verb class=weak pp=abgeholzt perf=haben sep=ab
@@ -240,6 +241,7 @@ angucken verb class=weak sep=an pp=angeguckt perf=haben
 angurten verb class=weak sep=an pp=angegurtet perf=haben refl=acc
 anhaben verb class=mixed sep=an 3sg=anhat past=anhatte pp=angehabt subj2=anhätte perf=haben
 anhalten verb class=strong sep=an 3sg=anhält past=anhielt pp=angehalten subj2=anhielte perf=haben
+anhängen verb class=weak sep=an pp=angehängt perf=haben sense=attach
 anhäufen verb class=weak sep=an pp=angehäuft perf=haben
 anheben verb class=strong sep=an 3sg=anhebt past=anhob pp=angehoben subj2=anhöbe perf=haben
 anheizen verb class=weak sep=an pp=angeheizt perf=haben
@@ -496,6 +498,7 @@ auftürmen verb class=weak sep=auf pp=aufgetürmt perf=haben
 aufwachen verb class=weak sep=auf pp=aufgewacht perf=sein
 aufwachsen verb class=strong sep=auf 3sg=aufwächst past=aufwuchs pp=aufgewachsen subj2=aufwüchse perf=sein
 aufwärmen verb class=weak sep=auf pp=aufgewärmt perf=haben refl=acc
+aufwarten verb class=weak sep=auf pp=aufgewartet perf=haben
 aufwecken verb class=weak sep=auf pp=aufgeweckt perf=haben
 aufweisen verb class=strong sep=auf 3sg=aufweist past=aufwies pp=aufgewiesen subj2=aufwiese perf=haben
 aufwerten verb class=weak sep=auf pp=aufgewertet perf=haben

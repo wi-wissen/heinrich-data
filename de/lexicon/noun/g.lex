@@ -166,6 +166,7 @@ Genehmigung noun g=f gen=Genehmigung pl=Genehmigungen
 General noun g=m gen=Generals|Generales[rare] pl=Generale|Generäle
 Generaldirektion noun g=f gen=Generaldirektion pl=Generaldirektionen
 Generation noun g=f gen=Generation pl=Generationen
+Generator noun g=m gen=Generators pl=Generatoren
 Genesung noun g=f gen=Genesung pl=- note=no plural in practice
 Genetik noun g=f gen=Genetik pl=- note=no plural
 Genfer noun g=m gen=Genfers pl=Genfer note=inhabitant of Geneva

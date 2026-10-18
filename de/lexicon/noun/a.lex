@@ -131,6 +131,7 @@ Adresse noun g=f gen=Adresse pl=Adressen
 Advent noun g=m gen=Advents pl=- note=no plural
 Adverb noun g=n gen=Adverbs pl=Adverbien
 Adverbialbestimmung noun g=f gen=Adverbialbestimmung pl=Adverbialbestimmungen
+Adverbiale noun g=n gen=Adverbiales pl=Adverbialien|Adverbiale
 Advokat noun g=m gen=Advokaten pl=Advokaten
 Advokatin noun g=f gen=Advokatin pl=Advokatinnen
 Aerobic noun g=n gen=Aerobics pl=- note=no plural (mass or abstract noun)
@@ -184,6 +185,7 @@ Albedo noun g=f gen=Albedo pl=- note=physics term
 Albtraum noun g=m gen=Albtraums|Albtraumes pl=Albträume
 Album         noun g=n gen=Albums pl=Alben
 Alexandriner noun g=m gen=Alexandriners pl=Alexandriner
+Alge noun g=f gen=Alge pl=Algen
 Algebra noun g=f gen=Algebra pl=- note=no plural
 Algorithmus noun g=m gen=Algorithmus pl=Algorithmen note=Latin loanword; genitive without -es
 Alibi noun g=n gen=Alibis pl=Alibis

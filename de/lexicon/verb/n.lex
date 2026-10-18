@@ -10,6 +10,7 @@ nachdenken verb class=mixed sep=nach 3sg=nachdenkt past=nachdachte pp=nachgedach
 nachdrängen verb class=weak sep=nach pp=nachgedrängt perf=sein
 nachdrucken verb class=weak sep=nach pp=nachgedruckt perf=haben
 nachdunkeln verb class=weak sep=nach pp=nachgedunkelt perf=haben
+nacheifern verb class=weak sep=nach pp=nachgeeifert perf=haben
 nachfahren verb class=strong sep=nach 3sg=nachfährt past=nachfuhr subj2=nachführe pp=nachgefahren perf=sein
 nachfärben verb class=weak sep=nach pp=nachgefärbt perf=haben
 nachfliegen verb class=strong sep=nach 3sg=nachfliegt past=nachflog subj2=nachflöge pp=nachgeflogen perf=sein
@@ -56,15 +57,18 @@ nachsenden verb class=weak sep=nach past=nachsendete|nachsandte pp=nachgesendet|
 nachsingen verb class=strong sep=nach 3sg=nachsingt past=nachsang subj2=nachsänge pp=nachgesungen perf=haben
 nachsitzen verb class=strong sep=nach 3sg=nachsitzt past=nachsaß pp=nachgesessen subj2=nachsäße perf=haben
 nachspielen verb class=weak sep=nach pp=nachgespielt perf=haben
+nachspionieren verb class=weak sep=nach pp=nachspioniert perf=haben
 nachsprechen verb class=strong sep=nach 3sg=nachspricht past=nachsprach subj2=nachspräche pp=nachgesprochen perf=haben
 nachspringen verb class=strong sep=nach 3sg=nachspringt past=nachsprang subj2=nachspränge pp=nachgesprungen perf=sein
 nachspüren verb class=weak sep=nach pp=nachgespürt perf=haben
+nachstehen verb class=strong sep=nach 3sg=nachsteht past=nachstand pp=nachgestanden subj2=nachstünde|nachstände perf=haben
 nachstellen verb class=weak sep=nach pp=nachgestellt perf=haben
 nachtanken verb class=weak sep=nach pp=nachgetankt perf=haben
 nachtrauern verb class=weak sep=nach pp=nachgetrauert perf=haben
 nachtreten verb class=strong sep=nach 3sg=nachtritt past=nachtrat subj2=nachträte pp=nachgetreten perf=haben
 nachvollziehen verb class=strong sep=nach 3sg=nachvollzieht past=nachvollzog pp=nachvollzogen subj2=nachvollzöge perf=haben
 nachwachsen verb class=strong sep=nach 3sg=nachwächst past=nachwuchs subj2=nachwüchse pp=nachgewachsen perf=sein
+nachweinen verb class=weak sep=nach pp=nachgeweint perf=haben
 nachweisen verb class=strong sep=nach 3sg=nachweist past=nachwies pp=nachgewiesen subj2=nachwiese perf=haben
 nachwerfen verb class=strong sep=nach 3sg=nachwirft past=nachwarf subj2=nachwürfe pp=nachgeworfen perf=haben
 nachwiegen verb class=strong sep=nach 3sg=nachwiegt past=nachwog subj2=nachwöge pp=nachgewogen perf=haben
@@ -76,6 +80,7 @@ nachzeichnen verb class=weak sep=nach pp=nachgezeichnet perf=haben
 nachziehen verb class=strong sep=nach 3sg=nachzieht past=nachzog subj2=nachzöge pp=nachgezogen perf=haben|sein
 nageln verb class=weak pp=genagelt perf=haben
 nagen verb class=weak pp=genagt perf=haben
+nahekommen verb class=strong sep=nahe 3sg=nahekommt past=nahekam pp=nahegekommen subj2=nahekäme perf=sein
 nahen verb class=weak pp=genaht perf=sein
 nähen verb class=weak pp=genäht perf=haben
 nähern verb class=weak pp=genähert perf=haben refl=acc

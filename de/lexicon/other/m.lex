@@ -4,5 +4,6 @@ MHz x note=Megahertz
 min x note=Minute
 Mio. x note=Million|Millionen
 mm x note=Millimeter
+moin intj region=DE
 Mrd. x note=Milliarde(n)
 MW x note=Megawatt

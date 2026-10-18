@@ -386,6 +386,7 @@ Sendung noun g=f gen=Sendung pl=Sendungen
 Senf noun g=m gen=Senfes|Senfs pl=Senfe
 Senior noun g=m gen=Seniors pl=Senioren
 Seniorin noun g=f gen=Seniorin pl=Seniorinnen
+Senkrechte noun g=f gen=Senkrechte pl=Senkrechten
 Senkung noun g=f gen=Senkung pl=Senkungen
 Sennerin noun g=f gen=Sennerin pl=Sennerinnen
 Sensibilität noun g=f gen=Sensibilität pl=- note=no plural
@@ -478,6 +479,7 @@ Sohle noun g=f gen=Sohle pl=Sohlen
 Sohn noun g=m gen=Sohnes|Sohns pl=Söhne
 Solaranlage noun g=f gen=Solaranlage pl=Solaranlagen
 Solarenergie noun g=f gen=Solarenergie pl=- note=no plural
+Solarzelle noun g=f gen=Solarzelle pl=Solarzellen
 Soldat noun g=m gen=Soldaten pl=Soldaten
 Soldatin noun g=f gen=Soldatin pl=Soldatinnen
 Söldner noun g=m gen=Söldners pl=Söldner

@@ -127,3 +127,19 @@ geben	verb	dat|acc
 harren	verb	gen
 bezichtigen	verb	acc_gen
 verdächtigen	verb	acc_gen
+
+# Batch 005 additions (second part).
+munden	verb	dat
+behagen	verb	dat
+abhelfen	verb	dat
+nacheifern	verb	dat
+nachweinen	verb	dat
+zuprosten	verb	dat
+nachspionieren	verb	dat
+beiwohnen	verb	dat
+nahekommen	verb	dat
+nachstehen	verb	dat
+aufwarten	verb	dat
+beistimmen	verb	dat
+zutrauen	verb	dat|acc
+verübeln	verb	dat|acc

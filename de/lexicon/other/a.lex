@@ -8,3 +8,4 @@ ah intj
 aha intj
 au intj
 Aufl. x note=Auflage
+autsch intj

@@ -252,6 +252,7 @@ Holzscheit noun g=n gen=Holzscheits|Holzscheites pl=Holzscheite
 Homeoffice noun g=n gen=Homeoffice|Homeoffices pl=Homeoffices
 Homepage noun g=f gen=Homepage pl=Homepages
 Hommage noun g=f gen=Hommage pl=Hommagen
+Homonym noun g=n gen=Homonyms pl=Homonyme
 Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare

@@ -254,6 +254,7 @@ Video noun g=n gen=Videos pl=Videos
 Videokonferenz noun g=f gen=Videokonferenz pl=Videokonferenzen
 Vieh noun g=n gen=Viehs|Viehes pl=- note=no plural
 Viehzucht noun g=f gen=Viehzucht pl=- note=no plural
+Vielfache noun g=n decl=adj
 Vielfalt noun g=f gen=Vielfalt pl=- note=no plural
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
 Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke

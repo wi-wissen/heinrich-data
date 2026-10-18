@@ -37,6 +37,7 @@ Chatbot noun g=m gen=Chatbots pl=Chatbots
 Chauffeur noun g=m gen=Chauffeurs pl=Chauffeure
 Chauffeurin noun g=f gen=Chauffeurin pl=Chauffeurinnen
 Chaussee noun g=f gen=Chaussee pl=Chausseen
+Cheat noun g=m gen=Cheats pl=Cheats
 Cheeseburger noun g=m gen=Cheeseburgers pl=Cheeseburger
 Chef noun g=m gen=Chefs pl=Chefs
 Chefin noun g=f gen=Chefin pl=Chefinnen
@@ -57,6 +58,7 @@ Chor          noun g=m gen=Chores|Chors pl=Chöre
 Christ noun g=m gen=Christen pl=Christen
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christin noun g=f gen=Christin pl=Christinnen
+Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
 Clementine noun g=f gen=Clementine pl=Clementinen

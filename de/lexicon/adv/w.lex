@@ -1,3 +1,4 @@
+währenddessen adv type=conj
 wahrlich adv
 weh adv note=only in weh tun
 weiterhin adv

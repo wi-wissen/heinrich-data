@@ -40,6 +40,7 @@ Parade noun g=f gen=Parade pl=Paraden
 Paradeiser   noun g=m gen=Paradeisers pl=Paradeiser region=AT note=tomato
 Paradies noun g=n gen=Paradieses pl=Paradiese
 Paradoxon noun g=n gen=Paradoxons pl=Paradoxa
+Parallele noun g=f gen=Parallele pl=Parallelen
 Parallelismus noun g=m gen=Parallelismus pl=Parallelismen
 Parallelogramm noun g=n gen=Parallelogramms pl=Parallelogramme
 Parameter noun g=m gen=Parameters pl=Parameter
@@ -216,6 +217,7 @@ Plakette noun g=f gen=Plakette pl=Plaketten
 Plan noun g=m gen=Plans|Planes pl=Pläne
 Planet noun g=m gen=Planeten pl=Planeten
 Planung noun g=f gen=Planung pl=Planungen
+Plasma noun g=n gen=Plasmas pl=Plasmen
 Plastik noun g=n gen=Plastiks pl=- sense=plastic note=material; mass noun
 Plastik noun g=f gen=Plastik pl=Plastiken sense=sculpture
 Plastikmüll noun g=m gen=Plastikmülls pl=- note=no plural
@@ -294,6 +296,7 @@ Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzi
 Potenz noun g=f gen=Potenz pl=Potenzen
 Potenzial noun g=n gen=Potenzials pl=Potenziale
 Potsdamer noun g=m gen=Potsdamers pl=Potsdamer note=inhabitant of Potsdam
+Powerbank noun g=f gen=Powerbank pl=Powerbanks
 Powiat noun g=m gen=Powiats pl=Powiate conf=85 note=Polish administrative district
 Pracht noun g=f gen=Pracht pl=- note=mass noun
 Prädikat noun g=n gen=Prädikats|Prädikates pl=Prädikate

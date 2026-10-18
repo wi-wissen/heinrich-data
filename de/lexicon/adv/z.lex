@@ -6,6 +6,7 @@ zugegen adv type=place note=zugegen sein
 zugleich adv
 zugrunde adv note=zugrunde legen, zugrunde liegen
 zugute adv type=modal note=zugute kommen, zugute halten
+zuhause adv type=place
 zumeist adv
 zurecht adv
 zustande adv note=only in zustande kommen/bringen

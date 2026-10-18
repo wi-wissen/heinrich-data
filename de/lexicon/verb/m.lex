@@ -95,6 +95,7 @@ muhen verb class=weak pp=gemuht perf=haben
 multiplizieren verb class=weak pp=multipliziert perf=haben
 mümmeln verb class=weak pp=gemümmelt perf=haben
 münden verb class=weak pp=gemündet perf=haben|sein
+munden verb class=weak pp=gemundet perf=haben
 murmeln verb class=weak pp=gemurmelt perf=haben
 murren verb class=weak pp=gemurrt perf=haben
 musizieren verb class=weak pp=musiziert perf=haben

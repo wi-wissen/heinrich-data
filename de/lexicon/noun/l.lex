@@ -63,6 +63,7 @@ Lauch noun g=m gen=Lauchs pl=- note=no plural
 Lauf noun g=m gen=Laufes|Laufs pl=Läufe
 Läufer noun g=m gen=Läufers pl=Läufer
 Läuferin noun g=f gen=Läuferin pl=Läuferinnen
+Lauge noun g=f gen=Lauge pl=Laugen
 Laune noun g=f gen=Laune pl=Launen
 Laus noun g=f gen=Laus pl=Läuse
 Laut noun g=m gen=Lauts|Lautes pl=Laute

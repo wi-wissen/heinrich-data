@@ -71,6 +71,7 @@ begründen     verb class=weak pp=begründet perf=haben
 begrünen verb class=weak pp=begrünt perf=haben
 begrüßen verb class=weak pp=begrüßt perf=haben
 begünstigen verb class=weak pp=begünstigt perf=haben
+behagen verb class=weak pp=behagt perf=haben
 behalten      verb class=strong 3sg=behält past=behielt pp=behalten subj2=behielte perf=haben
 behandeln     verb class=weak pp=behandelt perf=haben
 behaupten     verb class=weak pp=behauptet perf=haben
@@ -91,8 +92,10 @@ beipflichten verb class=weak sep=bei pp=beigepflichtet perf=haben
 beisetzen verb class=weak sep=bei pp=beigesetzt perf=haben
 beißen verb class=strong 3sg=beißt past=biss pp=gebissen subj2=bisse perf=haben
 beistehen verb class=strong sep=bei 3sg=beisteht past=beistand pp=beigestanden subj2=beistünde|beistände perf=haben
+beistimmen verb class=weak sep=bei pp=beigestimmt perf=haben
 beitragen verb class=strong sep=bei 3sg=beiträgt past=beitrug pp=beigetragen subj2=beiträge perf=haben
 beitreten verb class=strong sep=bei 3sg=beitritt past=beitrat pp=beigetreten subj2=beiträte perf=sein
+beiwohnen verb class=weak sep=bei pp=beigewohnt perf=haben
 bejahen verb class=weak pp=bejaht perf=haben
 bekämpfen     verb class=weak pp=bekämpft perf=haben
 bekanntgeben verb class=strong sep=bekannt 3sg=bekanntgibt past=bekanntgab pp=bekanntgegeben subj2=bekanntgäbe perf=haben note=also written bekannt geben
