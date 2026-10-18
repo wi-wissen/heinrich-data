@@ -353,7 +353,7 @@ verwesen verb class=weak pp=verwest perf=sein
 verwickeln verb class=weak pp=verwickelt perf=haben
 verwildern verb class=weak pp=verwildert perf=sein
 verwirklichen verb class=weak pp=verwirklicht perf=haben
-verwirren verb class=weak pp=verwirrt perf=haben
+verwirren verb class=weak pp=verwirrt perf=haben part1_cmp
 verwischen verb class=weak pp=verwischt perf=haben
 verwöhnen verb class=weak pp=verwöhnt perf=haben refl=acc
 verwunden verb class=weak pp=verwundet perf=haben

@@ -29,3 +29,7 @@ file was consulted). Format: `Heinrich/docs/LEXICON_FORMAT.md`.
 
 Work lists in `de/lexicon/worklists/` are derived only from our lexicon and our own frequency list
 (`de/frequency/forms.tsv`) by `heinrich-lexicon next-batch`.
+
+Lexeme classes in `de/lexicon/classes/` (time nouns, verbs of saying, directed motion verbs,
+valency, perfect auxiliary by use) are our own lists, written clean-room from general knowledge of
+German grammar; they contain only lemmas of our lexicon.

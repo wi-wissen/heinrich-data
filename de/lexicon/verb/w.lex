@@ -140,13 +140,16 @@ werten verb class=weak pp=gewertet perf=haben
 wetten verb class=weak pp=gewettet perf=haben
 wickeln verb class=weak pp=gewickelt perf=haben
 widerfahren verb class=strong 3sg=widerfährt past=widerfuhr subj2=widerführe pp=widerfahren perf=sein
-widerhallen verb class=weak pp=widerhallt perf=haben
+widerhallen verb class=weak sep=wider pp=widergehallt perf=haben note=separable: es hallt wider, widergehallt
+widerklingen verb class=strong sep=wider 3sg=widerklingt past=widerklang pp=widergeklungen subj2=widerklänge perf=haben
 widerlegen verb class=weak pp=widerlegt perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
+widerscheinen verb class=strong sep=wider 3sg=widerscheint past=widerschien pp=widergeschienen subj2=widerschiene perf=haben
 widersetzen verb class=weak pp=widersetzt perf=haben refl=acc
 widerspiegeln verb class=weak sep=wider pp=widergespiegelt perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
+widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederaufbauen verb class=weak sep=wieder pp=wiedergeaufbaut perf=haben
 wiederbekommen verb class=strong sep=wieder 3sg=wiederbekommt past=wiederbekam subj2=wiederbekäme pp=wiederbekommen perf=haben

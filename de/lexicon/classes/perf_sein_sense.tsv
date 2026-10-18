@@ -1,0 +1,69 @@
+# Lexeme class `perf_sein_sense`: verbs that form the perfect with `haben` or `sein`
+# depending on the use (the lexicon has `perf=haben|sein` for them). Rules:
+# `[class:perf_sein_sense=trans]`.
+# Columns: lemma[:sense]  pos  value
+# Values (several with `|`):
+#   trans   haben with an accusative object, sein without (ich habe das Auto gefahren / ich bin
+#           nach Berlin gefahren; das Eis ist geschmolzen / die Sonne hat das Eis geschmolzen)
+#   motion  haben for the activity, sein for a change of place (ich habe zwei Stunden
+#           geschwommen / ich bin ans Ufer geschwommen); mostly sein in standard German today
+#   sense   depends on the meaning (ich habe gefroren = I was cold / der See ist gefroren)
+#   region  sein in southern Germany, Austria and Switzerland, haben in the north
+#           (ich bin / habe gestanden)
+# Written from own knowledge of German (clean-room); only lemmas of this lexicon.
+
+fahren	verb	trans
+fliegen	verb	trans
+ziehen	verb	trans
+reiten	verb	trans|motion
+rudern	verb	trans|motion
+brechen	verb	trans
+abbrechen	verb	trans
+reißen	verb	trans
+abreißen	verb	trans
+zerreißen	verb	trans
+stoßen	verb	trans
+treten	verb	trans
+verderben	verb	trans
+jagen	verb	trans
+biegen	verb	trans
+rollen	verb	trans
+treiben	verb	trans
+verbrennen	verb	trans
+heilen	verb	trans
+starten	verb	trans
+stürzen	verb	trans
+abziehen	verb	trans
+einziehen	verb	trans
+zurückziehen	verb	trans
+durchziehen	verb	trans
+schmelzen	verb	trans
+zerbrechen	verb	trans
+trocknen	verb	trans
+tauen	verb	trans
+frieren	verb	sense
+
+schwimmen	verb	motion
+tauchen	verb	motion
+klettern	verb	motion
+springen	verb	motion
+rennen	verb	motion
+eilen	verb	motion
+joggen	verb	motion
+bummeln	verb	motion
+hinken	verb	motion
+humpeln	verb	motion
+strömen	verb	motion
+segeln	verb	motion
+paddeln	verb	motion
+surfen	verb	motion
+galoppieren	verb	motion
+traben	verb	motion
+rasen	verb	motion
+
+liegen	verb	region
+sitzen	verb	region
+stehen	verb	region
+hängen	verb	region
+knien	verb	region
+schweben	verb	region

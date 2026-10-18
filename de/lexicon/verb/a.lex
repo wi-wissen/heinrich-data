@@ -433,7 +433,7 @@ aufragen verb class=weak sep=auf pp=aufgeragt perf=haben
 aufrappeln verb class=weak sep=auf pp=aufgerappelt perf=haben refl=acc
 aufräumen verb class=weak sep=auf pp=aufgeräumt perf=haben
 aufrechterhalten verb class=strong sep=aufrecht 3sg=aufrechterhält past=aufrechterhielt pp=aufrechterhalten subj2=aufrechterhielte perf=haben
-aufregen verb class=weak sep=auf pp=aufgeregt perf=haben refl=acc
+aufregen verb class=weak sep=auf pp=aufgeregt perf=haben refl=acc part1_cmp
 aufreißen verb class=strong sep=auf 3sg=aufreißt past=aufriss subj2=aufrisse pp=aufgerissen perf=haben|sein
 aufrichten verb class=weak sep=auf pp=aufgerichtet perf=haben
 aufrollen verb class=weak sep=auf pp=aufgerollt perf=haben

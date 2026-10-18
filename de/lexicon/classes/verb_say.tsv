@@ -1,0 +1,67 @@
+# Lexeme class `verb_say`: verbs of saying that can introduce direct or reported speech
+# (Er sagte: „…“ / Sie fragte, ob …). Rules: `[class=verb_say]`, `[class:verb_say=ask]`.
+# Columns: lemma[:sense]  pos  value
+# Values: say (neutral), ask, answer, manner (how it is said: loud, quiet, emotional),
+#   claim (assert, stress, admit), tell (report, explain), request (ask for, order, warn).
+# Written from own knowledge of German (clean-room); only lemmas of this lexicon.
+
+sagen	verb	say
+meinen	verb	say
+bemerken	verb	say
+fortfahren	verb	say
+hinzufügen	verb	say
+ergänzen	verb	say
+ausrufen	verb	say
+feststellen	verb	say
+
+fragen	verb	ask
+nachfragen	verb	ask
+
+antworten	verb	answer
+erwidern	verb	answer
+entgegnen	verb	answer
+widersprechen	verb	answer
+einwenden	verb	answer
+protestieren	verb	answer
+
+rufen	verb	manner
+schreien	verb	manner
+flüstern	verb	manner
+murmeln	verb	manner
+seufzen	verb	manner
+stöhnen	verb	manner
+stammeln	verb	manner
+brummen	verb	manner
+klagen	verb	manner
+brüllen	verb	manner
+jammern	verb	manner
+schimpfen	verb	manner
+zischen	verb	manner
+knurren	verb	manner
+jubeln	verb	manner
+raunen	verb	manner
+wispern	verb	manner
+kreischen	verb	manner
+stottern	verb	manner
+fluchen	verb	manner
+schluchzen	verb	manner
+
+behaupten	verb	claim
+versichern	verb	claim
+betonen	verb	claim
+zugeben	verb	claim
+gestehen	verb	claim
+einräumen	verb	claim
+verkünden	verb	claim
+
+erklären	verb	tell
+berichten	verb	tell
+erzählen	verb	tell
+mitteilen	verb	tell
+
+befehlen	verb	request
+bitten	verb	request
+warnen	verb	request
+vorschlagen	verb	request
+versprechen	verb	request
+drohen	verb	request

@@ -24,7 +24,7 @@ gehören verb class=weak pp=gehört perf=haben
 geigen verb class=weak pp=gegeigt perf=haben
 geizen verb class=weak pp=geizt perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
-gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein
+gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein pp_cmp
 gelten verb class=strong 3sg=gilt past=galt pp=gegolten subj2=gälte|gölte perf=haben
 genehmigen verb class=weak pp=genehmigt perf=haben
 genesen verb class=strong 3sg=genest past=genas pp=genesen subj2=genäse perf=sein

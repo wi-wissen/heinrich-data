@@ -33,7 +33,7 @@
 überprüfen verb class=weak pp=überprüft perf=haben
 überqueren verb class=weak pp=überquert perf=haben
 überragen verb class=weak pp=überragt perf=haben
-überraschen verb class=weak pp=überrascht perf=haben
+überraschen verb class=weak pp=überrascht perf=haben part1_cmp
 überreden verb class=weak pp=überredet perf=haben
 überrumpeln verb class=weak pp=überrumpelt perf=haben
 überschätzen verb class=weak pp=überschätzt perf=haben
@@ -62,7 +62,7 @@
 überwinden verb class=strong 3sg=überwindet past=überwand pp=überwunden subj2=überwände perf=haben
 überwintern verb class=weak pp=überwintert perf=haben
 überwuchern verb class=weak pp=überwuchert perf=haben
-überzeugen verb class=weak pp=überzeugt perf=haben
+überzeugen verb class=weak pp=überzeugt perf=haben part1_cmp pp_cmp
 überziehen verb class=strong 3sg=überzieht past=überzog pp=überzogen subj2=überzöge perf=haben sense=cover note=stress on ziehen: ein Konto überziehen, mit Schokolade überziehen
 überziehen verb class=strong sep=über 3sg=überzieht past=überzog pp=übergezogen subj2=überzöge perf=haben sense=put_on note=stress on über: sich einen Mantel überziehen
 umarmen verb class=weak pp=umarmt perf=haben refl=acc

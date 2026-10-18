@@ -26,7 +26,7 @@ bedingen verb class=weak pp=bedingt perf=haben
 bedrohen verb class=weak pp=bedroht perf=haben
 bedürfen      verb class=modal 3sg=bedarf past=bedurfte pp=bedurft subj2=bedürfte perf=haben note=with genitive (es bedarf eines Beschlusses)
 beeilen verb class=weak pp=beeilt perf=haben refl=acc
-beeindrucken verb class=weak pp=beeindruckt perf=haben
+beeindrucken verb class=weak pp=beeindruckt perf=haben part1_cmp
 beeinflussen verb class=weak pp=beeinflusst perf=haben
 beeinträchtigen verb class=weak pp=beeinträchtigt perf=haben
 beenden       verb class=weak pp=beendet perf=haben
@@ -50,7 +50,7 @@ begeben verb class=strong refl=acc 3sg=begibt past=begab pp=begeben subj2=begäb
 begegnen verb class=weak pp=begegnet perf=sein note=with dative
 begehen verb class=strong 3sg=begeht past=beging pp=begangen subj2=beginge perf=haben
 begehren verb class=weak pp=begehrt perf=haben
-begeistern verb class=weak refl=acc pp=begeistert perf=haben
+begeistern verb class=weak refl=acc pp=begeistert perf=haben pp_cmp
 begießen verb class=strong 3sg=begießt past=begoss pp=begossen subj2=begösse perf=haben
 beginnen      verb class=strong 3sg=beginnt past=begann pp=begonnen subj2=begänne|begönne[rare] perf=haben
 beglaubigen verb class=weak pp=beglaubigt perf=haben
@@ -142,7 +142,7 @@ berichtigen verb class=weak pp=berichtigt perf=haben
 berücksichtigen verb class=weak pp=berücksichtigt perf=haben
 berufen       verb class=strong 3sg=beruft past=berief pp=berufen subj2=beriefe perf=haben
 beruhen verb class=weak pp=beruht perf=haben
-beruhigen verb class=weak refl=acc pp=beruhigt perf=haben
+beruhigen verb class=weak refl=acc pp=beruhigt perf=haben part1_cmp
 berühren verb class=weak pp=berührt perf=haben
 besagen verb class=weak pp=besagt perf=haben
 besänftigen verb class=weak pp=besänftigt perf=haben
