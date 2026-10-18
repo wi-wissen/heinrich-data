@@ -40,7 +40,7 @@ Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
 Wein noun g=m gen=Weines|Weins pl=Weine
-Weiß noun g=n gen=Weißes pl=- conf=80 note=colour name; genitive des Weiß also seen but the format requires -s
+Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Weisheit noun g=f gen=Weisheit pl=Weisheiten
 Weisung noun g=f gen=Weisung pl=Weisungen

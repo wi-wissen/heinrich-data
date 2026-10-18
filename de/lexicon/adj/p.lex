@@ -1,4 +1,7 @@
 parallel adj attr=parallele
+parlamentarisch adj
+pauschal adj
+peinlich adj cmp=peinlicher sup=peinlichsten
 persönlich adj
 plötzlich adj
 politisch adj

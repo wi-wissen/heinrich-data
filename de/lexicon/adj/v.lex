@@ -28,7 +28,7 @@ völlig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
 voraussichtlich adj
-vorder adj attr_only sup=vordersten note=der vordere Teil
+vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
 vorhanden adj
 vorherig adj
 vorig adj

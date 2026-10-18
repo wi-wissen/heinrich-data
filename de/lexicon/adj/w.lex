@@ -15,7 +15,7 @@ werdend adj attr_only note=die werdende Mutter; participle of werden
 wert adj
 wertvoll adj cmp=wertvoller sup=wertvollsten
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
-westlich adj
+westlich adj note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 wild adj cmp=wilder sup=wildesten
 willkommen adj

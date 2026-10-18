@@ -29,7 +29,7 @@ unmöglich adj
 unruhig adj
 unschuldig adj
 unsicher adj cmp=unsicherer sup=unsichersten
-unter adj note=attributive only (der untere Stock); the preposition is in closed/
+unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 ununterbrochen adj
 unverändert adj
