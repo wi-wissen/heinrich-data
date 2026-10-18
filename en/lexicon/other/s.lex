@@ -1,0 +1,11 @@
+Sch. x abbr note=Schedule (legislation)
+se x foreign note=only in per se
+sec. x abbr note=section; second
+Sept. x abbr note=September
+seq. x abbr note=in et seq. (and the following)
+sq. x abbr note=square
+Sr. x abbr note=Senior
+ss. x abbr note=sections
+St. x abbr note=Saint; Street
+Stat. x abbr note=Statutes at Large (US legal citation)
+supra x foreign note=legal citation (see above)
