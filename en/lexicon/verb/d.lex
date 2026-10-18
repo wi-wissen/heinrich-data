@@ -10,6 +10,7 @@ dart verb
 dash verb
 date verb
 dawn verb
+daze verb
 dazzle verb
 deal verb past=dealt pp=dealt
 debate verb
@@ -18,6 +19,7 @@ debut verb
 decay verb
 deceive verb
 decide verb
+decimate verb
 deck verb
 declare verb
 decline verb
@@ -26,6 +28,7 @@ decorate verb
 decrease verb
 decree verb
 dedicate verb
+deduct verb
 deem verb
 deepen verb
 default verb
@@ -34,6 +37,8 @@ defect verb
 defend verb
 defer verb double
 define verb
+defy verb
+degenerate verb
 degrade verb
 delay verb
 delegate verb
@@ -50,6 +55,7 @@ deny verb
 depart verb
 depend verb
 depict verb
+deplete verb
 deploy verb
 deport verb
 depose verb
@@ -72,22 +78,28 @@ detail verb
 detain verb
 detect verb
 deter verb double
+deteriorate verb
 determine verb
 devastate verb
 develop verb
 devise verb
 devolve verb
 devote verb
+devour verb
 diagnose verb
 dial verb
+dice verb
 dictate verb
 die verb
 diet verb
 differ verb nodouble
+differentiate verb
+diffuse verb
 dig verb past=dug pp=dug
 dim verb
 diminish verb
 dine verb
+dip verb
 direct verb
 dirty verb
 dis verb 3sg=disses style=colloquial conf=80 note=to disrespect; also spelled diss
@@ -99,15 +111,18 @@ disappoint verb
 disapprove verb
 disband verb
 discard verb
+discern verb
 discharge verb
 discipline verb
 disclose verb
+disconnect verb
 discontinue verb ing=discontinuing note=ing written: generator keeps the e after u
 discount verb
 discourage verb
 discover verb
 discriminate verb
 discuss verb
+disdain verb
 disgrace verb
 disguise verb
 disgust verb
@@ -116,27 +131,33 @@ dislike verb
 dismantle verb
 dismay verb
 dismiss verb
+dismount verb
 dispatch verb gb=dispatch|despatch
 dispense verb
 disperse verb
 displace verb
 display verb
+displease verb
 dispose verb
 dispute verb
 disqualify verb
 disregard verb
 disrupt verb
+disseminate verb
 dissent verb
+dissipate verb
 dissolve verb
 distance verb
 distinguish verb
 distort verb
+distract verb
 distress verb
 distribute verb
 distrust verb
 disturb verb
 ditch verb
 dive verb past=dived|dove[US] pp=dived note=dove is American
+diversify verb
 divert verb
 divide verb
 divine verb
@@ -167,8 +188,10 @@ dress verb
 drift verb
 drill verb
 drink verb past=drank pp=drunk
+drip verb
 drive verb past=drove pp=driven
 drone verb
+droop verb
 drop verb
 drown verb
 drug verb
@@ -183,3 +206,4 @@ duplicate verb
 dust verb
 dwarf verb
 dwell verb past=dwelt|dwelled pp=dwelt|dwelled
+dye verb
