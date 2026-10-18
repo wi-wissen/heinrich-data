@@ -1,0 +1,772 @@
+id	authors	title	tokens
+2054	Goethe, Johann Wolfgang von, 1749-1832	Iphigenie auf Tauris	15053
+2146	Goethe, Johann Wolfgang von, 1749-1832	Egmont	25810
+2187	Wieland, Christoph Martin, 1733-1813	Oberon	60899
+2188	Rilke, Rainer Maria, 1875-1926	Die Aufzeichnungen des Malte Laurids Brigge	59357
+2190	Arnim, Ludwig Achim, Freiherr von, 1781-1831	Isabella von Ägypten: Kaiser Karl des Fünften erste Jugendliebe	39759
+2228	Goethe, Johann Wolfgang von, 1749-1832	Reineke Fuchs	41737
+2229	Goethe, Johann Wolfgang von, 1749-1832	Faust: Der Tragödie erster Teil	30688
+2230	Goethe, Johann Wolfgang von, 1749-1832	Faust: Der Tragödie zweiter Teil	45392
+2312	Goethe, Johann Wolfgang von, 1749-1832	Hermann und Dorothea	19897
+2313	Wieland, Christoph Martin, 1733-1813	Geschichte des Agathon. Teil 1	86563
+2314	Wieland, Christoph Martin, 1733-1813	Geschichte des Agathon. Teil 2	77461
+2319	Goethe, Johann Wolfgang von, 1749-1832	West-östlicher Divan	17775
+2320	Goethe, Johann Wolfgang von, 1749-1832	Novelle	7128
+2321	Goethe, Johann Wolfgang von, 1749-1832	Götz von Berlichingen mit der eisernen Hand: Ein Schauspiel	28167
+2322	Busch, Wilhelm, 1832-1908	Hans Huckebein	940
+2335	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 1	21326
+2336	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 2	21589
+2337	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 3	18274
+2338	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 4	25461
+2339	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 5	23919
+2340	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 6	21138
+2341	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 7	25737
+2342	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Lehrjahre — Band 8	37060
+2402	Goethe, Johann Wolfgang von, 1749-1832	Briefe aus der Schweiz	18247
+2403	Goethe, Johann Wolfgang von, 1749-1832	Die Wahlverwandtschaften	79203
+2404	Goethe, Johann Wolfgang von, 1749-1832	Italienische Reise — Band 1	106964
+2405	Goethe, Johann Wolfgang von, 1749-1832	Italienische Reise — Band 2	63907
+2406	Goethe, Johann Wolfgang von, 1749-1832	Die Geschwister: Ein Schauspiel in einem Akt	5322
+2407	Goethe, Johann Wolfgang von, 1749-1832	Die Leiden des jungen Werther — Band 1	17708
+2408	Goethe, Johann Wolfgang von, 1749-1832	Die Leiden des jungen Werther — Band 2	21595
+2409	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Wanderjahre — Band 1	45456
+2410	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Wanderjahre — Band 2	48181
+2411	Goethe, Johann Wolfgang von, 1749-1832	Wilhelm Meisters Wanderjahre — Band 3	53734
+2420	Goethe, Johann Wolfgang von, 1749-1832	Unterhaltungen deutscher Ausgewanderten	13668
+2499	Hesse, Hermann, 1877-1962	Siddhartha: eine indische Dichtung	34453
+2779	May, Karl, 1842-1912	Mein Leben und Streben	84023
+2887	Hebbel, Friedrich, 1813-1863	Herodes und Mariamne: Eine Tragödie in fünf Akten	26926
+3297	Hebbel, Friedrich, 1813-1863	Schnock: ein niederländisches Gemälde	17409
+3498	Heine, Heinrich, 1797-1856	Buch der Lieder	29325
+4079	Hebbel, Friedrich, 1813-1863	Agnes Bernauer	25744
+4080	Hebbel, Friedrich, 1813-1863	Gyges und sein Ring	16160
+4083	Hebbel, Friedrich, 1813-1863	Mutter und Kind: Ein Gedicht in sieben Gesängen	20703
+4501	Brentano, Clemens, 1778-1842	Gockel, Hinkel und Gackeleia	62045
+4502	Brentano, Clemens, 1778-1842	Die mehreren Wehmüller und ungarischen Nationalgesichter	18088
+4503	Brentano, Clemens, 1778-1842	Geschichte vom braven Kasperl und dem schönen Annerl	13896
+4505	Brentano, Clemens, 1778-1842	Die drei Nüsse	4113
+4601	Holmsen, Bjarne P. (Bjarne Peter)	Papa Hamlet	10863
+5072	Büchner, Georg, 1813-1837	Dantons Tod	20318
+5322	Büchner, Georg, 1813-1837	Woyzeck	6294
+5323	Fontane, Theodor, 1819-1898	Effi Briest	95276
+5326	Goethe, Johann Wolfgang von, 1749-1832	Venetianische Epigramme	7229
+5607	Heine, Heinrich, 1797-1856	Romanzero	25280
+5653	Goethe, Johann Wolfgang von, 1749-1832	Die Mitschuldigen	11208
+5801	Meyer, Conrad Ferdinand, 1825-1898	Huttens letzte Tage	12878
+6079	Heine, Heinrich, 1797-1856	Deutschland. Ein Wintermärchen	11815
+6110	Raschid, Omar, bey, 1839-1911?	Das hohe Ziel der Erkenntnis: Aranada Upanishad	27818
+6341	Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822	Nachtstücke	105727
+6343	Kant, Immanuel, 1724-1804	Kritik der reinen Vernunft	184962
+6383	Schiller, Friedrich, 1759-1805	Die Jungfrau von Orleans	25844
+6421	Meyer, Conrad Ferdinand, 1825-1898	Angela Borgia	36755
+6496	Schiller, Friedrich, 1759-1805	Die Braut von Messina	21103
+6498	Schiller, Friedrich, 1759-1805	Kabale und Liebe: Ein bürgerliches Trauerspiel	31076
+6499	Schiller, Friedrich, 1759-1805	Die Verschwörung des Fiesco zu Genua: Ein republikanisches Trauerspiel	30277
+6503	Schiller, Friedrich, 1759-1805	Der Neffe als Onkel	12755
+6504	Schiller, Friedrich, 1759-1805; Picard, L.-B. (Louis-Benoît), 1769-1828	Der Parasit, oder, die Kunst sein Glück zu machen	19377
+6505	Schiller, Friedrich, 1759-1805	Turandot, Prinzessin von China	21381
+6518	Schiller, Friedrich, 1759-1805	Wallensteins Lager	10681
+6525	Schiller, Friedrich, 1759-1805	Die Piccolomini	21391
+6549	Schiller, Friedrich, 1759-1805	Wallensteins Tod	31596
+6638	Hauff, Wilhelm, 1802-1827	Märchen-Almanach auf das Jahr 1826	41467
+6639	Hauff, Wilhelm, 1802-1827	Märchen-Almanach auf das Jahr 1827	33248
+6640	Hauff, Wilhelm, 1802-1827	Märchen-Almanach auf das Jahr 1828	53314
+6641	Arndt, Ernst Moritz, 1769-1860	Märchen und Sagen	84317
+6645	Kleist, Heinrich von, 1777-1811	Ausgewählte Schriften	91844
+6646	Kleist, Heinrich von, 1777-1811	Das Käthchen von Heilbronn: Oder, die Feuerprobe	25993
+6647	Kleist, Heinrich von, 1777-1811	Der Zerbrochene Krug	16445
+6648	Kleist, Heinrich von, 1777-1811	Penthesilea	24734
+6649	Schiller, Friedrich, 1759-1805	Einige Gedichte	5713
+6651	Storm, Theodor, 1817-1888	Immensee	9756
+6696	Keller, Gottfried, 1819-1890	Die Leute von Seldwyla — Band 1	88457
+6723	Kleist, Heinrich von, 1777-1811	Prinz Friedrich von Homburg	18574
+6725	Hauff, Wilhelm, 1802-1827	Othello	14727
+6726	Hauff, Wilhelm, 1802-1827	Lichtenstein	110981
+6729	Hegel, Georg Wilhelm Friedrich, 1770-1831	Wissenschaft der Logik — Band 1	197595
+6819	Lenz, Jakob Michael Reinhold, 1751-1792	Der Engländer	6095
+6820	Lessing, Gotthold Ephraim, 1729-1781	Ausgewählte Gedichte	531
+6821	Lenz, Jakob Michael Reinhold, 1751-1792	Der Hofmeister	25209
+6822	Lessing, Gotthold Ephraim, 1729-1781	Lieder von Lessing	9816
+6830	Lenz, Jakob Michael Reinhold, 1751-1792	Der Landprediger	16915
+6831	Lessing, Gotthold Ephraim, 1729-1781	Oden	4380
+6832	Lenz, Jakob Michael Reinhold, 1751-1792	Die Soldaten	15710
+6833	Lenz, Jakob Michael Reinhold, 1751-1792	Der Waldbruder, ein Pendant zu Werthers Leiden	10364
+6835	Lenz, Jakob Michael Reinhold, 1751-1792	Zerbin, oder die neuere Philosophie	8571
+6890	Hauff, Wilhelm, 1802-1827	Mitteilungen aus den Memoiren des Satan — Band 1	45922
+6891	Hauff, Wilhelm, 1802-1827	Mitteilungen aus den Memoiren des Satan — Band 2	46272
+6892	Hauff, Wilhelm, 1802-1827	Mitteilungen aus den Memoiren des Satan	92176
+6975	Shakespeare, William, 1564-1616; Tieck, Dorothea, 1799-1841 [Translator]	Macbeth	17459
+6990	Shakespeare, William, 1564-1616; Tieck, Dorothea, 1799-1841 [Translator]	Coriolanus	27676
+7068	Stifter, Adalbert, 1805-1868	Das Haidedorf	11269
+7185	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Othello	31749
+7186	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Was ihr wollt	13091
+7202	Nietzsche, Friedrich Wilhelm, 1844-1900	Ecce homo, Wie man wird, was man ist	29325
+7203	Nietzsche, Friedrich Wilhelm, 1844-1900	Götzen-Dämmerung	24858
+7204	Nietzsche, Friedrich Wilhelm, 1844-1900	Jenseits von Gut und Böse	57303
+7205	Nietzsche, Friedrich Wilhelm, 1844-1900	Also sprach Zarathustra: Ein Buch für Alle und Keinen	83714
+7206	Nietzsche, Friedrich Wilhelm, 1844-1900	Die Geburt der Tragödie: Versuch einer Selbstkritik	41747
+7207	Nietzsche, Friedrich Wilhelm, 1844-1900	Menschliches, Allzumenschliches: Ein Buch Fuer Freie Geister	84009
+7226	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Timon von Athen	22139
+7232	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Romeo und Juliette	27175
+7240	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Das Leben und der Tod des Königs Lear	29828
+7264	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Ein St.-Johannis-Nachts-Traum	17841
+7269	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Macbeth	19467
+7276	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Hamlet, Prinz von Dännemark	33892
+7323	Shakespeare, William, 1564-1616; Wieland, Christoph Martin, 1733-1813 [Translator]	Leben und Tod Königs Richard des zweyten	23949
+7500	Spyri, Johanna, 1827-1901	Heidis Lehr- und Wanderjahre	51303
+7503	Mörike, Eduard, 1804-1875	Mozart auf der Reise nach Prag	19883
+7511	Spyri, Johanna, 1827-1901	Heidis Lehr- und Wanderjahre	51306
+7512	Spyri, Johanna, 1827-1901	Heidi kann brauchen, was es gelernt hat	37339
+7858	Heyse, Paul, 1830-1914	L'Arrabbiata	7004
+7861	Raimund, Ferdinand, 1790-1836	Moisasurs Zauberfluch	15933
+7875	Goethe, Johann Wolfgang von, 1749-1832	Römische Elegien	4574
+7888	Spyri, Johanna, 1827-1901	Wie Wiselis Weg gefunden wird Erzählung	27348
+7944	Grillparzer, Franz, 1791-1872	Der Gastfreund	4347
+7945	Grillparzer, Franz, 1791-1872	Medea	19574
+7946	Grillparzer, Franz, 1791-1872	Das goldene Vließ	39711
+7996	Grillparzer, Franz, 1791-1872	Der Traum ein Leben	18763
+8568	Grillparzer, Franz, 1791-1872	Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen	19655
+8889	Storm, Theodor, 1817-1888	Aquis Submersus	24098
+8895	Storm, Theodor, 1817-1888	Auf der Universität Lore	19584
+8915	Storm, Theodor, 1817-1888	Hinzelmeier: eine nachdenkliche Geschichte	7744
+8916	Storm, Theodor, 1817-1888	Bulemanns Haus	6897
+8917	Storm, Theodor, 1817-1888	Von Kindern und Katzen, und wie sie die Nine begruben	2160
+8919	Storm, Theodor, 1817-1888	Pole Poppenspäler: Novelle	17468
+8921	Storm, Theodor, 1817-1888	Waldwinkel	17081
+8923	Storm, Theodor, 1817-1888	Die Regentrude	8990
+8925	Storm, Theodor, 1817-1888	Der Spiegel des Cyprianus	7920
+8926	Storm, Theodor, 1817-1888	In St. Jürgen: Novelle	12972
+8961	Grillparzer, Franz, 1791-1872	Der arme Spielmann	15132
+8964	Grillparzer, Franz, 1791-1872	Ein Bruderzwist in Habsburg	25856
+8999	Grillparzer, Franz, 1791-1872	Das Kloster bei Sendomir	9408
+9044	Grillparzer, Franz, 1791-1872	Weh dem, der lügt	17975
+9045	Grillparzer, Franz, 1791-1872	Die Jüdin von Toledo	17033
+9046	Grillparzer, Franz, 1791-1872	König Ottokars Glück und Ende	27141
+9049	Grillparzer, Franz, 1791-1872	Libussa	22290
+9058	Grillparzer, Franz, 1791-1872	Ein treuer Diener seines Herrn	20256
+9059	Heyse, Paul, 1830-1914	Andrea Delfin: Eine venezianische Novelle	28473
+9065	Heyse, Paul, 1830-1914	Beatrice	20215
+9066	Heyse, Paul, 1830-1914	Der letzte Zentaur	10103
+9084	Heyse, Paul, 1830-1914	Ein Ring	6513
+9085	Heyse, Paul, 1830-1914	Das Mädchen von Treppi	13198
+9086	Heyse, Paul, 1830-1914	Die Witwe von Pisa	10227
+9099	Heyse, Paul, 1830-1914	Der Weinhüter	32252
+9108	Lessing, Gotthold Ephraim, 1729-1781	Emilia Galotti	21061
+9157	Lessing, Gotthold Ephraim, 1729-1781	Miss Sara Sampson	26564
+9158	Lessing, Gotthold Ephraim, 1729-1781	Fabeln und Erzählungen	6875
+9159	Lessing, Gotthold Ephraim, 1729-1781	Philotas	7109
+9160	Lessing, Gotthold Ephraim, 1729-1781	Die Erziehung des Menschengeschlechts	5961
+9181	Grillparzer, Franz, 1791-1872	Die Ahnfrau	19056
+9186	Lessing, Gotthold Ephraim, 1729-1781	Nathan der Weise: Ein Dramatisches Gedicht, in fünf Aufzügen	30250
+9187	Lessing, Gotthold Ephraim, 1729-1781	Minna von Barnhelm	25445
+9200	Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822	Klein Zaches, genannt Zinnober: Ein Märchen	34704
+9260	Goethe, Johann Wolfgang von, 1749-1832	Prometheus	2189
+9325	Lessing, Gotthold Ephraim, 1729-1781	Der Freigeist	21643
+9326	Lessing, Gotthold Ephraim, 1729-1781	Gespräche für Freimaurer	5257
+9369	Lessing, Gotthold Ephraim, 1729-1781	Der junge Gelehrte: Ein Lustspiel in drei Aufzügen	26280
+9375	Lessing, Gotthold Ephraim, 1729-1781	Ausgewählte Fabeln	6210
+9494	Meyer, Conrad Ferdinand, 1825-1898	Der Schuß von der Kanzel	14244
+9495	Meyer, Conrad Ferdinand, 1825-1898	Die Hochzeit des Mönchs	27606
+9496	Meyer, Conrad Ferdinand, 1825-1898	Das Leiden eines Knaben	17323
+9632	Meyer, Conrad Ferdinand, 1825-1898	Die Richterin	22512
+9802	Shaw, Bernard, 1856-1950; Trebitsch, Siegfried, 1869-1956 [Translator]	Der Mann des Schicksals: Komödie in einem Akt	16698
+9859	Spyri, Johanna, 1827-1901	Vom This, der doch etwas wird	10388
+9860	Spyri, Johanna, 1827-1901	Moni der Geißbub	8871
+9861	Spyri, Johanna, 1827-1901	Was die Großmutter gelehrt hat	8639
+9950	Lessing, Gotthold Ephraim, 1729-1781	Abhandlungen über die Fabel	20500
+10055	Lessing, Gotthold Ephraim, 1729-1781	Hamburgische Dramaturgie	150998
+10223	Various	Meyers Konversationslexikon Band 15	945005
+10353	Goethe, Johann Wolfgang von, 1749-1832	Satyros oder Der vergötterte Waldteufel	3160
+10354	Goethe, Johann Wolfgang von, 1749-1832	Die Laune des Verliebten	5654
+10425	Goethe, Johann Wolfgang von, 1749-1832	Torquato Tasso	25595
+10426	Goethe, Johann Wolfgang von, 1749-1832	Die natürliche Tochter	20703
+10428	Goethe, Johann Wolfgang von, 1749-1832	Die Aufgeregten	13713
+10823	Schopenhauer, Johanna, 1766-1838	Reise durch England und Schottland	77352
+10914	Hildebrandt, A. (Alfred), 1870-1949	Die Brüder Wright	17270
+11108	Falke, Gustav, 1853-1916	Aus dem Durchschnitt	32607
+12053	Mann, Thomas, 1875-1955	Gladius Dei; Schwere Stunde	8035
+12108	Mann, Thomas, 1875-1955	Der Tod in Venedig	25026
+13451	Hauff, Wilhelm, 1802-1827	Der Mann im Mond	80509
+13452	Hauff, Wilhelm, 1802-1827	Kontrovers-Predigt über H. Clauren und den Mann im Mond	10137
+13659	Samarow, Gregor, 1829-1903	Der Todesgruß der Legionen, 3. Band	70939
+13810	Mann, Thomas, 1875-1955	Tristan	13964
+14105	Achleitner, Arthur, 1858-1927	Im grünen Tann	54062
+14330	Stendhal, 1783-1842	Die Äbtissin von Castro	107474
+14340	Busch, Wilhelm, 1832-1908	Pater Filucius	5272
+14962	Gjellerup, Karl, 1857-1919	Der Pilger Kamanita: Ein Legendenroman	72455
+15028	Marcus Aurelius, Emperor of Rome, 121-180; Gleichen-Russwurm, Alexander, Freiherr von, 1865-1947 [Editor]	Selbstbetrachtungen	39990
+15213	Döring, Heinrich, 1789-1862	J. W. v. Goethe's Biographie	34614
+15898	Morgenstern, Christian, 1871-1914	Stufen: Eine Entwickelung in Aphorismen und Tagebuch-Notizen	54328
+16280	Rohlfs, Gerhard, 1831-1896	Beiträge zur Entdeckung und Erforschung Africa's.	60132
+16302	Braun, Lily, 1865-1916	Memoiren einer Sozialistin: Kampfjahre	147497
+16304	Kafka, Franz, 1883-1924	Der Heizer: Ein Fragment	10402
+16880	Aristotle, 385 BCE-323 BCE; Gudemann, Alfred, 1862-1942 [Translator]	Über die Dichtkunst beim Aristoteles	27803
+17007	Wassermann, Jakob, 1873-1934	Imaginäre Brücken: Studien und Aufsätze	37091
+17130	Salus, Hugo, 1866-1929	Das blaue Fenster: Novellen	41157
+17142	Schnitzler, Arthur, 1862-1931	Die griechische Tänzerin, und andere Novellen	34582
+17161	Busch, Wilhelm, 1832-1908	Max und Moritz: Eine Bubengeschichte in sieben Streichen	2558
+17599	Rohlfs, Gerhard, 1831-1896	Von Tripolis nach Alexandrien - 1. Band	40850
+17622	Hesse, Hermann, 1877-1962	Knulp: Drei Geschichten aus dem Leben Knulps	26321
+17657	Goethe, Johann Wolfgang von, 1749-1832	Belagerung von Mainz	11304
+17664	Goethe, Johann Wolfgang von, 1749-1832	Kampagne in Frankreich	53920
+18101	Carlyle, Thomas, 1795-1881; Goethe, Johann Wolfgang von, 1749-1832	[Einleitung zu:] Thomas Carlyle, Leben Schillers	4348
+18148	Schnitzler, Arthur, 1862-1931	Casanovas Heimfahrt	36515
+18463	Brentano, Clemens, 1778-1842	Romanzen vom Rosenkranz	54742
+18475	Gerstäcker, Friedrich, 1816-1872	Nach Amerika! Ein Volksbuch. Erster Band	58799
+18733	Bode, Wilhelm von, 1845-1929	Die Italienische Plastik	52546
+19163	Andersen, H. C. (Hans Christian), 1805-1875	Märchen für Kinder	56264
+19596	Bebel, August, 1840-1913	Charles Fourier: Sein Leben und seine Theorien.	79951
+19675	Gerstäcker, Friedrich, 1816-1872	Herrn Mahlhubers Reiseabenteuer	36415
+19823	Wolff, A. A. (Abraham Alexander), 1801-1891	Gebete für Israeliten	41166
+20302	Hauptmann, Gerhart, 1862-1946	Der Ketzer von Soana	29183
+20412	Gerstäcker, Friedrich, 1816-1872	Tahiti: Roman aus der Südsee. Erster Band.	61998
+20613	Freud, Sigmund, 1856-1939	Über Psychoanalyse: Fünf Vorlesungen	15651
+20757	Büchner, Ludwig, 1824-1899	Darwinismus und Sozialismus: Der Kampf um das Dasein und die Moderne Gesellschaft	16834
+20780	Spyri, Johanna, 1827-1901	Heimatlos	61053
+20944	Gerstäcker, Friedrich, 1816-1872; Reinhardt, Karl, 1818-1877 [Illustrator]	Nach Amerika! Ein Volksbuch. Zweiter Band.	57879
+20977	Storm, Theodor, 1817-1888	Im Sonnenschein: Novelle	4176
+21000	Goethe, Johann Wolfgang von, 1749-1832	Faust: Eine Tragödie [erster Teil]	30798
+21593	Kafka, Franz, 1883-1924	Das Urteil: Eine Geschichte	4103
+21801	Humboldt, Wilhelm von, 1767-1835	Briefe an eine Freundin	109395
+21989	Kafka, Franz, 1883-1924	Ein Landarzt: Kleine Erzählungen	13219
+22123	Raabe, Wilhelm, 1831-1910	Zum wilden Mann	28463
+22492	Humboldt, Alexander von, 1769-1859; Hauff, Hermann, 1800-1865 [Translator]	Reise in die Aequinoctial-Gegenden des neuen Continents. Band 1.	103546
+22570	Spyri, Johanna, 1827-1901	Wo Gritlis Kinder hingekommen sind	35576
+22628	Unknown	New-Yorker Staats-Zeitung, 16. Oktober 1915	2102
+22635	Raabe, Heinrich August, 1759-1841	Die Postgeheimnisse	14601
+22659	Humboldt, Alexander von, 1769-1859	Rede, gehalten bei der Eröffnung der Versammlung deutscher Naturforscher und Ärzte in Berlin, am 18. September 1828	1714
+22761	Humboldt, Alexander von, 1769-1859	Ideen zu einer Physiognomik der Gewächse	5055
+23065	Treitschke, Heinrich von, 1834-1896	Die Gründung des Deutschen Zollvereins	62742
+23228	Bethge, Hans, 1876-1946	Arabische Nächte	11759
+23313	Mann, Thomas, 1875-1955	Tonio Kröger	21438
+23532	Kafka, Franz, 1883-1924	Betrachtung	5956
+23740	Mikszáth, Kálmán, 1847-1910; Sziklai, Viktor [Translator]	Der Zauberkaftan	27561
+24017	Freud, Sigmund, 1856-1939; Freud, Sigmund, 1856-1939 [Editor]; Rank, Otto, 1884-1939 [Editor]; Sachs, Hanns, 1881-1947 [Editor]	Das Motiv der Kästchenwahl	3860
+24043	Rilke, Rainer Maria, 1875-1926	Die Weise von Liebe und Tod des Cornets Christoph Rilke	2590
+24173	Zweig, Stefan, 1881-1942	Brennendes Geheimnis: Erzählung	22451
+24212	Storm, Theodor, 1817-1888	Im Saal: Novelle	2407
+24213	Storm, Theodor, 1817-1888	Marthe und ihre Uhr: Novelle	2256
+24249	Heine, Heinrich, 1797-1856; Lachmann, Otto F. [Editor]	Die Harzreise	20652
+24266	Dauthendey, Max, 1867-1918; Molo, Walter von, 1880-1958 [Editor]	Das Schönste von Max Dauthendey	49651
+24288	Rilke, Rainer Maria, 1875-1926	Das Stunden-Buch	16931
+24429	Freud, Sigmund, 1856-1939	Zur Psychopathologie des Alltagslebens	33243
+24746	Humboldt, Alexander von, 1769-1859; Hauff, Hermann, 1800-1865 [Translator]	Reise in die Aequinoctial-Gegenden des neuen Continents. Band 2.	105461
+24820	Semper, C. (Carl), 1832-1893; Karsten, Gustav, 1820-1900 [Contributor]	Die Philippinen und ihre Bewohner	45619
+24899	Plato, 428? BCE-348? BCE; Kassner, Rudolf, 1873-1959 [Translator]	Platons Gastmahl	21501
+24961	Köppen, Alfred, 1869-1940	Der Teufel und die Hölle	20663
+25204	Schnitzler, Arthur, 1862-1931; Huber, Ernst, 1895-1960 [Illustrator]	Der Mörder: Eine Novelle	7383
+25722	Winter, Amalie, 1802-1879	Leben und Schicksale des Katers Rosaurus	21892
+25791	Kafka, Franz, 1883-1924	In der Strafkolonie	10335
+26261	Balzac, Honoré de, 1799-1850; Heichen, Walter, 1876-1970 [Translator]	Die Frau von dreißig Jahren	69640
+26686	Fontane, Theodor, 1819-1898	Unterm Birnbaum	33409
+27446	Huch, Ricarda, 1864-1947	Der Hahn von Quakenbrück und andere Novellen	28454
+27775	Jean Paul, 1763-1825; Thylmann, Karl, 1888-1916 [Illustrator]	Des Feldpredigers Schmelzle Reise nach Flätz mit fortgehenden Noten	19860
+27822	Rilke, Rainer Maria, 1875-1926	Zwei Prager Geschichten	29547
+28042	Keller, Gottfried, 1819-1890	Die Leute von Seldwyla — Band 2	96998
+28100	Speidel, Ludwig, 1830-1906	Heilige Zeiten	26638
+28220	Freud, Sigmund, 1856-1939	Jenseits des Lustprinzips	18301
+28243	Gerstäcker, Friedrich, 1816-1872; Reinhardt, Karl, 1818-1877 [Illustrator]	Nach Amerika! Ein Volksbuch. Vierter Band	59119
+28280	Humboldt, Alexander von, 1769-1859; Hauff, Hermann, 1800-1865 [Translator]	Reise in die Aequinoctial-Gegenden des neuen Continents. Band 3.	104728
+28863	Freud, Sigmund, 1856-1939	Der Dichter und das Phantasieren	3314
+28938	Keller, Paul, 1873-1932	Ferien vom Ich	77511
+28949	Hofmannsthal, Hugo von, 1874-1929	Jedermann: Das Spiel vom Sterben des reichen Mannes	12713
+29006	Trakl, Georg, 1887-1914; Röck, Karl [Editor]	Die Dichtungen von Georg Trakl	15869
+29097	Freud, Sigmund, 1856-1939	Eine Schwierigkeit der Psychoanalyse	2710
+29101	Freud, Sigmund, 1856-1939	Einige Charaktertypen aus der psychoanalytischen Arbeit	8002
+29102	Gerstäcker, Friedrich, 1816-1872; Reinhardt, Karl, 1818-1877 [Illustrator]	Nach Amerika! Ein Volksbuch. Fünfter Band	61607
+29336	May, Karl, 1842-1912	Durch Wüste und Harem	148130
+29376	Hauptmann, Gerhart, 1862-1946	Bahnwärter Thiel	15935
+29464	Gerstäcker, Friedrich, 1816-1872	Tahiti: Roman aus der Südsee. Zweiter Band.	58710
+29514	Freud, Sigmund, 1856-1939	Vergänglichkeit	1145
+29553	Stifter, Adalbert, 1805-1868	Bunte Steine: Ein Festgeschenk	100340
+29584	Stiel, Paul, 1882-	Die Piraterie. Beiträge zum internationalen Seerecht	10616
+29738	Boy-Ed, Ida, 1852-1928	Stille Helden: Roman	94835
+29746	Gerstäcker, Friedrich, 1816-1872; Reinhardt, Karl, 1818-1877 [Illustrator]	Nach Amerika! Ein Volksbuch. Dritter Band	66683
+29796	Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Tieck, Ludwig, 1773-1853 [Commentator]; Bresemann, Friederich, 1809-1850 [Translator]	Norwegische Volksmährchen vol. 1	51362
+29941	Freud, Sigmund, 1856-1939	Zeitgemäßes über Krieg und Tod	8717
+29946	Freud, Sigmund, 1856-1939	Eine Kindheitserinnerung aus »Dichtung und Wahrheit«	3423
+30077	Schulz, Friedrich, 1866-1914	Die Hanse und England von Eduards III. bis auf Heinrichs VIII. Zeit	59348
+30084	Asbjørnsen, Peter Christen, 1812-1885; Moe, Jørgen Engebretsen, 1813-1882; Tieck, Ludwig, 1773-1853 [Commentator]; Bresemann, Friederich, 1809-1850 [Translator]	Norwegische Volksmährchen vol. 2	49466
+30289	Gerstäcker, Friedrich, 1816-1872; Reinhardt, Karl, 1818-1877 [Illustrator]	Nach Amerika! Ein Volksbuch. Sechster Band	55584
+30570	Kafka, Franz, 1883-1924	Grosser Lärm	211
+30655	Kafka, Franz, 1883-1924	Ein Hungerkünstler	3451
+30753	Kafka, Franz, 1883-1924; Meidner, Ludwig, 1884-1966 [Illustrator]	Der Mord	657
+30814	Gerstäcker, Friedrich, 1816-1872	Die Colonie: Brasilianisches Lebensbild. Zweiter Band.	54407
+30821	Kant, Immanuel, 1724-1804	Beantwortung der Frage: Was ist Aufklärung?	2857
+30843	Freud, Sigmund, 1856-1939	Massenpsychologie und Ich-Analyse	22822
+30886	Swieten, Gerard, Freiherr van, 1700-1772	Vampyrismus	6605
+31199	Rilke, Rainer Maria, 1875-1926	Die Letzten	13524
+31216	Schiller, Friedrich, 1759-1805; Goethe, Johann Wolfgang von, 1749-1832; Schlegel, August Wilhelm von, 1767-1845 [Contributor]	Briefe Schillers und Goethes an A. W. Schlegel	11389
+31218	Mann, Heinrich, 1871-1950	Flöten und Dolche: Novellen	22365
+31233	Ebner-Eschenbach, Marie von, 1830-1916	Rittmeister Brand; Bertram Vogelweid	70158
+31294	Dahn, Felix, 1834-1912	Ein Kampf um Rom: Historischer Roman. Erster Band	110180
+31527	Multatuli, 1820-1887; Spohr, Wilhelm, 1868-1959 [Translator]	Max Havelaar	102206
+31530	Macaulay, Thomas Babington Macaulay, Baron, 1800-1859; Beseler, Wilhelm, 1806-1884 [Translator]	Geschichte von England seit der Thronbesteigung Jakob's des Zweiten. Erster Band enthaltend Kapitel 1 und 2	87796
+31538	Chamisso, Adelbert von, 1781-1838	Peter Schlemihls wundersame Geschichte	21563
+31560	Freud, Sigmund, 1856-1939	Traum und Telepathie: Vortrag in der Wiener psychoanalytischen Vereinigung	8566
+31625	Hofmannsthal, Hugo von, 1874-1929	Gedichte	9565
+31842	Schnitzler, Arthur, 1862-1931	Der Schleier der Pierrette: Pantomime in drei Bildern	4828
+31850	Hofmannsthal, Hugo von, 1874-1929	Der Tor und der Tod	4239
+32008	Raabe, Wilhelm, 1831-1910	Deutscher Mondschein	6266
+32450	Edschmid, Kasimir, 1890-1966	Über den Expressionismus in der Literatur und die neue Dichtung	9068
+32989	Busch, Wilhelm, 1832-1908	Zu Guter Letzt	11657
+33003	Gerstäcker, Friedrich, 1816-1872	Der Wahnsinnige: Eine Erzählung aus Südamerika	42702
+33017	Gerstäcker, Friedrich, 1816-1872	Amerikanische Wald- und Strombilder. Erster Band.	43304
+33090	Dahn, Felix, 1834-1912	Ein Kampf um Rom: Historischer Roman. Zweiter Band	102884
+33328	Mann, Heinrich, 1871-1950	Flaubert und die Herkunft des modernen Romans	3132
+33329	Mann, Heinrich, 1871-1950	Der Vater	5024
+33548	Walser, Robert, 1878-1956	Prosastücke	13157
+33821	Rilke, Rainer Maria, 1875-1926	Erste Gedichte	15045
+33863	Rilke, Rainer Maria, 1875-1926	Neue Gedichte	10922
+33864	Rilke, Rainer Maria, 1875-1926	Der Neuen Gedichte: Anderer Teil	11452
+34222	Freud, Sigmund, 1856-1939	Das Unheimliche	11899
+34265	Bonsels, Waldemar, 1881?-1952	Das Anjekind: Eine Erzählung	30173
+34424	Schieber, Anna, 1867-1945	Ludwig Fugeler: Roman	98047
+34521	Rilke, Rainer Maria, 1875-1926	Das Buch der Bilder	14958
+34811	Mann, Thomas, 1875-1955	Buddenbrooks: Verfall einer Familie	229892
+35230	Maisch, Richard, 1860-1909; Pohlhammer, Franz [Editor]	Griechische Altertumskunde	47207
+35264	Mann, Heinrich, 1871-1950	Professor Unrat, oder, Das Ende eines Tyrannen	59856
+35312	Eichendorff, Joseph, Freiherr von, 1788-1857	Aus dem Leben eines Taugenichts: Novelle	31381
+35328	Mann, Thomas, 1875-1955	Königliche Hoheit: Roman	108348
+35549	Freud, Sigmund, 1856-1939	Der Wahn und die Träume in W. Jensens »Gradiva«	26662
+35603	Raabe, Wilhelm, 1831-1910	Meister Autor; oder, die Geschichten vom versunkenen Garten	46831
+35636	Andreas-Salomé, Lou, 1861-1937	Narzißmus als Doppelrichtung	10845
+35651	Gerstäcker, Friedrich, 1816-1872	Inselwelt. Erster Band. Indische Skizzen	76429
+35794	Guerber, H. A. (Hélène Adeline), 1859-1929 [Editor]	Märchen und Erzählungen für Anfänger. Erster Teil	41879
+35797	Stern, Sigmon M. (Sigmon Martin), 1847-1902; Stern, Menco, 1855-1935	Studien und Plaudereien im Vaterland. Second Series	74596
+36076	Kant, Immanuel, 1724-1804	Träume eines Geistersehers, erläutert durch Träume der Metaphysik	21792
+36363	Bjørnson, Bjørnstjerne, 1832-1910	Ein fröhlicher Bursch: Eine Erzählung	30200
+36389	Zweig, Stefan, 1881-1942	Drei Meister: Balzac, Dickens, Dostojewski	53867
+36766	Mann, Thomas, 1875-1955	Der kleine Herr Friedemann: Novellen	32592
+36918	Wassermann, Jakob, 1873-1934	Die Schaffnerin; Die Mächtigen: Novellen	17044
+36997	Ibsen, Henrik, 1828-1906; Lange, Wilhelm, 1849-1907 [Translator]	Rosmersholm: Schauspiel in vier Aufzügen	24763
+37065	Freud, Sigmund, 1856-1939	Totem und Tabu	56357
+37066	Freud, Sigmund, 1856-1939	Die Inzestscheu	6825
+37069	Freud, Sigmund, 1856-1939	Das Tabu und die Ambivalenz der Gefühlsregungen	19486
+37070	Freud, Sigmund, 1856-1939	Animismus, Magie und Allmacht der Gedanken	8379
+37071	Freud, Sigmund, 1856-1939	Die infantile Wiederkehr des Totemismus	21590
+37202	Siebe, Josephine, 1870-1941; Bredt, Therese [Illustrator]; Kutzer, Ernst, 1880-1965 [Illustrator]	Kasperle auf Burg Himmelhoch	43672
+37229	George, Manfred, 1893-1965	Grabbes doppeltes Gesicht	9443
+37266	Schnitzler, Arthur, 1862-1931	Reigen: Zehn Dialoge	19623
+37940	Koch, Rosalie, 1811-1880	Rübezahl	47660
+38126	Mann, Heinrich, 1871-1950	Der Untertan	129994
+38295	Kant, Immanuel, 1724-1804; Hufeland, Christoph Wilhelm, 1762-1836 [Editor]	Von der Macht des Gemüts, durch den bloßen Vorsatz seiner krankhaften Gefühle Meister zu sein	10303
+38395	Brod, Max, 1884-1968; Kafka, Franz, 1883-1924	Erstes Kapitel des Buches "Richard und Samuel"	5248
+38402	Rilke, Rainer Maria, 1875-1926	Geschichten vom lieben Gott	27948
+38451	Gerstäcker, Friedrich, 1816-1872	Tahiti: Roman aus der Südsee. Dritter Band.	63880
+38638	Humboldt, Alexander von, 1769-1859; Hauff, Hermann, 1800-1865 [Translator]	Reise in die Aequinoctial-Gegenden des neuen Continents. Band 4.	105785
+38686	Zweig, Stefan, 1881-1942	Die Liebe der Erika Ewald: Novellen	43867
+38692	Mann, Thomas, 1875-1955; Simon, Erich M., 1892- [Illustrator]	Tonio Kröger	22201
+38754	Kant, Immanuel, 1724-1804	Was heißt: sich im Denken orientieren?	5663
+38755	Kant, Immanuel, 1724-1804	Über die Vulkane im Monde	2887
+38780	Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822	Lebensansichten des Katers Murr	135990
+39126	George, Manfred, 1893-1965	Der Rebell: Novelle	9562
+39441	Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716; Zimmermann, Robert, 1824-1898 [Contributor]	Leibnitz' Monadologie	69877
+39545	Gerstäcker, Friedrich, 1816-1872	Die Colonie: Brasilianisches Lebensbild. Dritter Band	49305
+39762	Goedel, Gustav, 1847-1918	Etymologisches Wörterbuch der deutschen Seemannssprache	176989
+39792	Heine, Heinrich, 1797-1856	Das Lied vom blöden Ritter	310
+39938	Freud, Sigmund, 1856-1939	Drei Abhandlungen zur Sexualtheorie	32823
+40012	Ebner-Eschenbach, Marie von, 1830-1916	Ein Buch, das gern ein Volksbuch werden möchte	53912
+40117	Rilke, Rainer Maria, 1875-1926	Das Marien-Leben	2380
+40217	Hardekopf, Ferdinand, 1876-1954	Der Abend: Ein kleines Gespräch	2046
+40294	Barrès, Maurice, 1862-1923; Lautensack, Heinrich, 1881-1919 [Translator]	Der Mord an der Jungfrau	5310
+40298	Boldt, Paul, 1885-1921	Junge Pferde! Junge Pferde!	4324
+40304	Viertel, Berthold, 1885-1953	Die Spur	4856
+40314	Kellermann, Bernhard, 1879-1951	Yester und Li: Die Geschichte einer Sehnsucht	54623
+40327	Reichhardt, Rudolf, 1859-1929; Siegert, Eugen [Illustrator]	Rübezahl	34896
+40564	Zweig, Stefan, 1881-1942	Jeremias: Eine dramatische Dichtung in neun Bildern	56728
+40739	Freud, Sigmund, 1856-1939; Rank, Otto, 1884-1939 [Contributor]	Die Traumdeutung	210918
+40771	Kellermann, Bernhard, 1879-1951	Ingeborg	58720
+40805	Edschmid, Kasimir, 1890-1966	Stehe von Lichtern gestreichelt: Gedichte	3270
+41051	Hesse, Hermann, 1877-1962	Peter Camenzind	45401
+41197	Kant, Immanuel, 1724-1804	Beobachtungen über das Gefühl des Schönen und Erhabenen	18558
+41390	Sternheim, Carl, 1878-1942	Schuhlin: Eine Erzählung	5839
+41585	Gerstäcker, Friedrich, 1816-1872	Amerikanische Wald- und Strombilder. Zweiter Band.	43271
+41818	Hesse, Hermann, 1877-1962	Hermann Lauscher	33603
+41882	Kellermann, Bernhard, 1879-1951	Der Tor: Roman	108020
+41907	Hesse, Hermann, 1877-1962	Demian: Die Geschichte von Emil Sinclairs Jugend	47190
+42213	Hesse, Hermann, 1877-1962	Boccaccio	10746
+42311	Hesse, Hermann, 1877-1962	Eine Stunde hinter Mitternacht	15957
+42338	Hesse, Hermann, 1877-1962	Klingsors letzter Sommer	54712
+42339	Kellermann, Bernhard, 1879-1951	Das Meer	56579
+42617	Braun, Lily, 1865-1916	Die Liebesbriefe der Marquise	85542
+43164	Zschokke, Heinrich, 1771-1848	Die schwarzen Brüder: Eine abentheuerliche Geschichte. 2/3	47340
+43333	Kellermann, Bernhard, 1879-1951	Der 9. November: Roman	117618
+43335	Mann, Heinrich, 1871-1950	Die Ehrgeizige: Novelle	5636
+43339	Kellermann, Bernhard, 1879-1951; Zeller, Magnus, 1888-1972 [Illustrator]	Die Heiligen	10669
+43392	Westermann, Diedrich, 1875-1956; Bock, K. [Illustrator]	Die Nutzpflanzen unserer Kolonien und ihre wirtschaftliche Bedeutung für das Mutterland	18551
+43821	Novalis, 1772-1801	Hymnen an die Nacht / Die Christenheit oder Europa	9006
+43892	Gerstäcker, Friedrich, 1816-1872	Ein Parcerie-Vertrag	44052
+43913	Gerstäcker, Friedrich, 1816-1872	Aus dem Matrosenleben	58420
+44049	Lowell, Edward J. (Edward Jackson), 1845-1894; Verschuer, Otto Christoph von [Translator]	Die Hessen und die andern deutschen Hilfstruppen im Kriege gross-britanniens gegen Amerika, 1776-1783	69549
+44174	Mann, Heinrich, 1871-1950	Die kleine Stadt: Roman	110967
+44239	Gerstäcker, Friedrich, 1816-1872	Unter Palmen und Buchen. Erster Band.	55225
+44366	Schweitzer, Albert, 1875-1965	Das Abendmahl im Zusammenhang mit dem Leben Jesu und der Geschichte des Urchristentums	21278
+44424	Tagore, Rabindranath, 1861-1941; Effenberger, Hans, 1884-1950 [Translator]	Der Gärtner	13287
+44489	Kellermann, Bernhard, 1879-1951	Der Tunnel: Roman	100774
+44565	Binding, Karl, 1841-1920; Hoche, Alfred, 1865-1943	Die Freigabe der Vernichtung lebensunwerten Lebens	14445
+44639	Raabe, Wilhelm, 1831-1910	Der Junker von Denow; Ein Geheimnis; Ein Besuch; Auf dem Altenteil: Erzählungen	26925
+44737	Salzmann, Erich von, 1876-1941	Im Sattel durch Zentralasien: 6000 Kilometer in 176 Tagen	96597
+44961	Ganghofer, Ludwig, 1855-1920	Reise zur deutschen Front, 1915	33404
+45009	Hauptmann, Gerhart, 1862-1946	Gabriel Schillings Flucht: Drama	22460
+45091	Wedekind, Frank, 1864-1918	Frühlings Erwachen: Eine Kindertragödie	19302
+45123	Mann, Heinrich, 1871-1950	Zwischen den Rassen: Roman	122858
+45393	Junghuhn, Franz Wilhelm, 1809-1864	Rückreise von Java nach Europa mit der sogenannten englischen Überlandpost im September und October 1848	50985
+45534	Gerstäcker, Friedrich, 1816-1872	Unter Palmen und Buchen. Zweiter Band.	55313
+45569	Heine, Wilhelm, 1827-1885; Gerstäcker, Friedrich, 1816-1872 [Author of introduction, etc.]	Wanderbilder aus Central-Amerika. Skizzen eines deutschen Malers	44470
+45579	Rilke, Rainer Maria, 1875-1926	Auguste Rodin	24451
+45600	Heine, Heinrich, 1797-1856; Kalser, Erwin, 1883-1958 [Editor]; Pissin, Raimund, 1878- [Editor]	Almansor: Eine Tragödie	16465
+45635	Mann, Heinrich, 1871-1950	Mnais und Ginevra	10095
+45672	Mörike, Eduard, 1804-1875; Stassen, Franz, 1869-1949 [Illustrator]	Aus der Jugendzeit; Historie von der schönen Lau	12925
+45798	Droste-Hülshoff, Annette von, 1797-1848; Unold, Max, 1885-1964 [Illustrator]	Die Judenbuche	16272
+45977	Gerstäcker, Friedrich, 1816-1872	Eine Mutter	156606
+46021	Goethe, Johann Wolfgang von, 1749-1832; Jahn, Otto, 1813-1869 [Editor]	Goethes Briefe an Leipziger Freunde	66539
+46053	Gerstäcker, Friedrich, 1816-1872	Der Kunstreiter, 1. Band	41587
+46061	Gerstäcker, Friedrich, 1816-1872	Der Kunstreiter, 2. Band	40823
+46062	Gerstäcker, Friedrich, 1816-1872	Der Kunstreiter, 3. Band	30300
+46073	Gerstäcker, Friedrich, 1816-1872	Inselwelt. Zweiter Band. Australische Skizzen.	75595
+46083	Gerstäcker, Friedrich, 1816-1872	Tahiti: Roman aus der Südsee. Vierter Band	63675
+46086	Tolstoy, Leo, graf, 1828-1910; Röhl, Hermann, 1851-1923 [Translator]	Der lebende Leichnam: Drama in sechs Akten (zwölf Bildern)	20187
+46135	Hesse, Hermann, 1877-1962	Romantische Lieder	5046
+46157	Mann, Heinrich, 1871-1950	Die Tote und andere Novellen	9797
+46184	Fontane, Theodor, 1819-1898	Frau Jenny Treibel: Roman aus der Berliner Gesellschaft	59700
+46259	Kulemann, Wilhelm, 1851-1926	Die Gewerkschaftsbewegung	251582
+46268	Claudel, Paul, 1868-1955; Blei, Franz, 1871-1942 [Translator]	Die Musen: Eine Ode	3952
+46308	Busch, Moritz, 1821-1899	Die Mormonen, ihr Prophet, ihr Staat und ihr Glaube	45277
+46368	Gerstäcker, Friedrich, 1816-1872	Pfarre und Schule: Eine Dorfgeschichte. Erster Band.	52835
+46410	Gerstäcker, Friedrich, 1816-1872	Pfarre und Schule: Eine Dorfgeschichte. Zweiter Band.	47167
+46411	Raabe, Wilhelm, 1831-1910; Bosch, Ernst, 1834-1917 [Illustrator]	Die Chronik der Sperlingsgasse	48819
+46442	Gerstäcker, Friedrich, 1816-1872	Pfarre und Schule: Eine Dorfgeschichte. Dritter Band.	41539
+46465	Gerstäcker, Friedrich, 1816-1872	Der Erbe: Roman. Dritter Band.	57924
+46504	Gerstäcker, Friedrich, 1816-1872	Der Erbe: Roman. Zweiter Band.	61951
+46539	Gerstäcker, Friedrich, 1816-1872	Der Erbe: Roman. Erster Band.	59021
+46561	Raabe, Wilhelm, 1831-1910	Keltische Knochen/Gedelöcke: Erzählungen	24799
+46580	Wieland, Christoph Martin, 1733-1813; Schüddekopf, Carl, 1861-1917 [Editor]	Geschichte des Prinzen Biribinker	25714
+46778	Döring, Georg, 1789-1833	Die Mumie von Rotterdam. Zweiter Theil	52847
+46873	Kant, Immanuel, 1724-1804	Zum ewigen Frieden: Ein philosophischer Entwurf	16226
+46880	Casper, Johann Ludwig, 1796-1864	Gerichtliche Leichen-Oeffnungen. Erstes Hundert.	39201
+46882	Eckstein, Ernst, 1845-1900; Sundblad, Gustav, 1835-1891 [Illustrator]	Der Besuch im Carcer.	5562
+46890	Roth, Eugen, 1895-1976	Die Dinge, die unendlich uns umkreisen	3782
+46912	Hofmannsthal, Hugo von, 1874-1929	Der Schwierige: Lustspiel in drei Akten	29730
+46919	Brod, Max, 1884-1968	Die Höhe des Gefühls: Ein Akt	8289
+46928	Frank, Leonhard, 1882-1961	Die Ursache: Erzählung	27547
+46987	Mann, Heinrich, 1871-1950; Kollwitz, Käthe, 1867-1945 [Illustrator]	Die Armen: Ein Roman	54466
+47031	Reinhold, Caroline, 1778-1849	Albina, das Blumenmädchen	59117
+47054	Kapp, Friedrich, 1824-1884	Der Soldatenhandel deutscher Fürsten nach Amerika	94387
+47112	Spindler, Carl, 1796-1855	Der Jesuit	117883
+47140	Böhlau, Helene, 1859-1940	Halbtier: Roman	45218
+47193	Pfeiffer, Ida, 1797-1858	Reise nach dem skandinavischen Norden und der Insel Island im Jahre 1845. Zweiter Band.	43189
+47311	Fontane, Theodor, 1819-1898	Wanderungen durch die Mark Brandenburg, Dritter Teil	138979
+47318	Brentano, Clemens, 1778-1842; Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822; Zschokke, Heinrich, 1771-1848	Deutsche Humoristen, 2. Band (von 8)	42433
+47406	Schopenhauer, Arthur, 1788-1860	Aphorismen zur Lebensweisheit	66518
+47465	Johannes, von Tepl, 1350?-1415?; Knieschek, Johann [Editor]	Der Ackermann aus Böhmen	50187
+47472	Verhaeren, Emile, 1855-1916; Zweig, Friderike Maria Burger Winternitz, 1882-1971 [Translator]; Masereel, Frans, 1889-1972 [Illustrator]	Fünf Erzählungen	7068
+47502	Conz, Gustav, 1832-1914	Lehrbuch der Perspective	26667
+47547	Geiger, Carl Ignaz, 1756-1791	Reise eines Erdbewohners in den Mars	11538
+47659	Blum, Hans, 1841-1910	Robert Blum: Ein Zeit- und Charakterbild für das deutsche Volk	162452
+47741	Cohen, Hermann, 1842-1918	Der Begriff der Religion im System der Philosophie	58951
+47804	Schiller, Friedrich, 1759-1805	Die Räuber: Ein Schauspiel	43616
+47818	Hesse, Hermann, 1877-1962	Diesseits: Erzählungen	50676
+47820	Adlersfeld-Ballestrem, Eufemia von, 1854-1941	Die Falkner vom Falkenhof. Zweiter Band.	62968
+47827	Adlersfeld-Ballestrem, Eufemia von, 1854-1941	Die Falkner vom Falkenhof. Erster Band.	66554
+48036	Gerstäcker, Friedrich, 1816-1872	Unter Palmen und Buchen. Dritter Band.	64003
+48086	Uhland, Ludwig, 1787-1862	Walther von der Vogelweide: Ein altdeutscher Dichter	31119
+48148	Stöber, August, 1808-1884 [Editor]; Goethe, Johann Wolfgang von, 1749-1832; Lenz, Jakob Michael Reinhold, 1751-1792; Macpherson, James, 1736-1796	Der Dichter Lenz und Friedericke von Sesenheim	22889
+48192	Assing, Ludmilla, 1821-1880	Gräfin Elisa von Ahlefeldt, die Gattin Adolphs von Lützow, die Freundin Karl Immermann's	66559
+48234	Schoenbeck, Richard, 1840-1919	Der Damen-Reitsport	40964
+48262	Woltmann, Karoline von, 1782-1847; Woltmann, Karl Ludwig von, 1770-1817 [Editor]	Heloise : ein kleiner Roman	11978
+48425	Hoffmann, Hans, 1848-1909; Böhlau, Helene, 1859-1940; Eyth, Max, 1836-1906; Schmidt, Otto Ernst, 1862-1926	Deutsche Humoristen, 3. Band (von 8)	35793
+48464	Mörike, Eduard, 1804-1875; Sallwürk, Edmund von, 1874-1942 [Editor]	Das Stuttgarter Hutzelmännlein	32598
+48527	Dostoyevsky, Fyodor, 1821-1881; Röhl, Hermann, 1851-1923 [Translator]	Der Doppelgänger	62608
+48541	Schoppe, Amalie, 1791-1858	Robinson in Australien: Ein Lehr- und Lesebuch für gute Kinder	61381
+48567	Lenz, Jakob Michael Reinhold, 1751-1792; Schmidt, Erich, 1853-1913 [Editor]	Vertheidigung des Herrn Wieland gegen die Wolken, von dem Verfasser der Wolken	13133
+48827	Böhlau, Helene, 1859-1940	Ratsmädelgeschichten	45258
+48853	Berlet, Bruno, 1825-1892	Wegweiser durch das sächsisch-böhmische Erzgebirge	31142
+48917	Voss, Julius von, 1768-1832	Florens Abentheuer in Afrika, und ihre Heimkehr nach Paris. Erster Band.	63477
+48919	Goethe, Johann Wolfgang von, 1749-1832; Kestner, Johann Christian, 1741-1800 [Contributor]; Kestner, August, 1777-1853 [Editor]	Goethe und Werther: Briefe Goethe's, meistens aus seiner Jugendzeit	43721
+49024	Goethe, Johann Wolfgang von, 1749-1832; Stolberg-Stolberg, Augusta Louise, Gräfin zu, 1753-1835; Hecker, Max, 1870-1948 [Editor]	Goethes Briefe an Auguste zu Stolberg	12964
+49083	Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor]	Briefe an Ludwig Tieck (1/4)	100980
+49161	Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor]	Briefe an Ludwig Tieck (2/4)	96456
+49209	Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor]	Briefe an Ludwig Tieck (3/4)	100161
+49210	Tieck, Ludwig, 1773-1853; Holtei, Karl von, 1798-1880 [Editor]	Briefe an Ludwig Tieck (4/4)	95441
+49250	Wittenweiler, Heinrich, active 15th century; Keller, Adelbert von, 1812-1883 [Commentator]; Bechstein, Ludwig, 1801-1860 [Editor]	Der Ring	58638
+49464	Liesegang, Franz Paul, 1873-1949	Lichtbild- und Kino-Technik	20662
+49543	Kant, Immanuel, 1724-1804	Kant's gesammelte Schriften. Band V. Kritik der praktischen Vernunft.	66790
+49576	Gogol, Nikolai Vasilevich, 1809-1852; Buek, Otto, 1873-1966 [Editor]; Bugow, S. [Translator]; Chmelnitzky, Eugenie [Translator]; König, Charlotte [Translator]	Sämmtliche Werke 4: Mirgorod	100050
+49582	Arcos, René, 1880-1959; Zweig, Friderike Maria Burger Winternitz, 1882-1971 [Translator]; Masereel, Frans, 1889-1972 [Illustrator]	Das Gemeinsame	30892
+49593	Goethe, Johann Wolfgang von, 1749-1832; Hirzel, Heinrich, 1766-1833 [Editor]	Briefe von Goethe an Lavater aus den Jahren 1774 bis 1783	17556
+49603	Brandes, Georg, 1842-1927	Moderne Geister: Literarische Bildnisse aus dem neunzehnten Jahrhundert	160474
+49722	Bjørnson, Bjørnstjerne, 1832-1910; Ibsen, Bergliot, 1869-1953 [Editor]	Briefe aus Aulestad an seine Tochter Bergliot Ibsen	34715
+49774	Baur, Erwin, 1875-1933; Fischer, Eugen, 1874-1967; Lenz, Fritz, 1887-1976	Grundriß der menschlichen Erblichkeitslehre und Rassenhygiene (1/2)	92414
+49775	Lenz, Fritz, 1887-1976	Grundriß der menschlichen Erblichkeitslehre und Rassenhygiene (2/2)	84034
+49908	Hesse, Hermann, 1877-1962	Unterm Rad	49221
+49928	Sienkiewicz, Henryk, 1846-1916	Der kleine Ritter (Herr Wolodyjowski): Historischer Roman	192827
+49934	Pyrker, János László, 1772-1847	Perlen der heiligen Vorzeit	65117
+50081	Haeckel, Ernst, 1834-1919; Neumann, Carl W. (Carl Wilhelm), 1871-1939 [Editor]	Natur und Mensch	44277
+50120	Hoffmann, Friedrich Wilhelm; Graf, Alfred, 1883-1960 [Contributor]; Hampe, Theodor, 1866-1933 [Contributor]; Hauberrisser, Georg Joseph, Ritter von, 1841-1922 [Contributor]; Mummenhoff, Ernst, 1848-1931 [Contributor]; Schmitz, Joseph [Contributor]	Die Sebalduskirche in Nürnberg	90854
+50128	Hanke, Henriette Wilhelmine Arndt, 1784-1862	Die Schwägerinnen. Zweiter Theil.	51291
+50187	Gerstäcker, Friedrich, 1816-1872	Aus zwei Welttheilen. Erster Band.	79184
+50252	Gerstäcker, Friedrich, 1816-1872; Illner, Richard [Illustrator]; Trost, Carl, 1811-1884 [Illustrator]	Eine Gemsjagd in Tyrol	41783
+50444	Raabe, Wilhelm, 1831-1910	Höxter und Corvey: Erzählung	27530
+50445	Raabe, Wilhelm, 1831-1910	Die Innerste: Erzählung	28929
+50456	Wolff, Hans	Karte und Kroki	15538
+50459	Stresemann, Gustav, 1878-1929	Englands Wirtschaftskrieg gegen Deutschland	12328
+50480	Tieck, Ludwig, 1773-1853	Schriften 04: Phantasus 1	100107
+50616	Freytag, Gustav, 1816-1895	Die Technik des Dramas	86614
+50627	Cooper, James Fenimore, 1789-1851; Winkler, Rolf, 1884-1942 [Illustrator]; Meister, Friedrich, 1841-1918 [Translator]	Der alte Trapper	38275
+50681	Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822; Arnim, Bettina von, 1785-1859; Bayersdorfer, Adolph, 1842-1901; Fischer, Friedrich Theodor, 1803-1867; Thoma, Ludwig, 1867-1921; Urban, Henry F., 1862-1924	Deutsche Humoristen, 6. Band (von 8)	30441
+50707	Tieck, Ludwig, 1773-1853	Schriften 17: Novellen 1	90420
+50714	Tieck, Ludwig, 1773-1853	Schriften 23: Novellen 7	99411
+50833	Arnim, Ludwig Achim, Freiherr von, 1781-1831; Kubin, Alfred, 1877-1959 [Illustrator]	Die Majoratsherren	12960
+50845	Tieck, Ludwig, 1773-1853	Schriften 13: Märchen; Dramatische Gedichte; Fragmente	65091
+50861	Heyse, Paul, 1830-1914	Der Jungbrunnen: Neue Märchen von einem fahrenden Schüler	44462
+50901	Schweitzer, Albert, 1875-1965	Das Abendmahl im Zusammenhang mit dem Leben Jesu und der Geschichte des Urchristentums	38182
+50917	Germanisches Nationalmuseum Nürnberg	Mitteilungen aus dem germanischen Nationalmuseum. Jahrgang 1896	55302
+50937	Teichmann, Albert, 1844-1912	Die Universität Basel in den fünfzig Jahren seit ihrer Reorganisation im Jahre 1835	40243
+50965	Andersen, H. C. (Hans Christian), 1805-1875; Kubin, Alfred, 1877-1959 [Illustrator]	Märchen (Illustriert von Alfred Kubin)	18914
+50979	Kleist, Heinrich von, 1777-1811; Köpke, Rudolf (Ernst Rudolf Anastasius), 1813-1870 [Editor]	Heinrich von Kleist's politische Schriften und andere Nachträge zu seinen Werken	37640
+51147	Stout, H. R. (Henry Rice), 1843-1914	Unser Familien-Arzt	163496
+51151	Freytag, Gustav, 1816-1895	Das Nest der Zaunkönige	96607
+51230	Böhlau, Helene, 1859-1940	Ratsmädel- und Altweimarische Geschichten	44422
+51333	Salten, Felix, 1869-1945	Herr Wenzel auf Rehberg und sein Knecht Kaspar Dinckel	15429
+51360	Jaffé, Joseph [Translator]	Französische Lyrik alter und neuer Zeit in deutschen Versen	34468
+51378	Macaulay, Thomas Babington Macaulay, Baron, 1800-1859	Geschichte von England seit der Thronbesteigung Jakob's des Zweiten. Siebenter Band: enthaltend Kapitel 13 und 14.	83203
+51467	Harbaugh, Henry, 1817-1867; Bausman, Benjamin, 1824-1909 [Editor]	Harbaugh's Harfe: Gedichte in Pennsylvanisch-Deutscher Mundart	14021
+51567	Geitel, Max, 1853-1926	Die Geschichte der Dampfmaschine bis James Watt	40017
+51722	Keller, Paul, 1873-1932	Die alte Krone: Ein Roman aus dem Spreewald	70091
+51835	Bölsche, Wilhelm, 1861-1939	Die naturwissenschaftlichen Grundlagen der Poesie.	21237
+51901	Arnold, Hans, 1850-1927	Novellen	47401
+51930	Reinhard, Christian Tobias Ephraim, 1719-1792	Satyrische Abhandlung von den Krankheiten der Frauenspersonen, welche sie sich durch ihren Putz und Anzug zuziehen	26581
+52218	Hauptmann, Gerhart, 1862-1946	Vor Sonnenaufgang: Soziales Drama	26861
+52222	Dahn, Felix, 1834-1912	Weltuntergang: Geschichtliche Erzählung aus dem Jahre 1000 nach Christus	63950
+52335	Hartmann, Walther Georg, 1892-1970	Wir Menschen: Gedichte	3013
+52381	Schaumann, Ruth, 1899-1975	Die Kathedrale: Gedichte	3788
+52463	Altenberg, Peter, 1859-1919	Neues Altes	30823
+52478	Zweig, Arnold, 1887-1968	Die Novellen um Claudia	46576
+52602	Schopenhauer, Adele, 1797-1849	Eine dänische Geschichte: Roman	41908
+52879	Schiller, Viktorine	Neuestes Süddeutsches Kochbuch für alle Stände	91891
+52912	Fontane, Theodor, 1819-1898	L'Adultera: Roman	44722
+52952	Hauptmann, Gerhart, 1862-1946	Die Ratten: Berliner Tragikomödie	32398
+52985	Rosegger, Peter, 1843-1918; Raabe, Wilhelm, 1831-1910; Reuter, Fritz, 1810-1874; Roderich, Albert, 1846-1938; Vischer, Friedrich Theodor, 1807-1887	Deutsche Humoristen, 1. Band (von 8)	41535
+53037	Geistbeck, Michael, 1846-1918	Der Weltverkehr	149659
+53054	Grimmelshausen, Hans Jakob Christoph von, 1625-1676; Tittmann, Julius, 1814-1883 [Editor]	Simplicianische Schriften, Erster Theil (von 2)	95928
+53100	Gerstäcker, Friedrich, 1816-1872	Aus zwei Welttheilen. Zweiter Band.	78274
+53322	Jagor, Fedor, 1816-1900	Reisen in den Philippinen	137532
+53457	Löns, Hermann, 1866-1914	Mümmelmann: Ein Tierbuch	43115
+53459	Enking, Ottomar, 1867-1937; Croissant-Rust, Anna, 1860-1943; Greinz, Rudolf, 1866-1942; Schussen, Wilhelm, 1874-1956; Thoma, Ludwig, 1867-1921	Deutsche Humoristen, 7. Band (von 8)	26459
+53614	B.G. Teubner (Firm)	Aus Natur und Geisteswelt	11856
+53628	Fontane, Theodor, 1819-1898	Der Stechlin: Roman	125363
+53661	Geissler, Max, 1868-1945	Jockele und die Mädchen: Roman aus dem heutigen Weimar	62804
+53757	Leskov, N. S. (Nikolai Semenovich), 1831-1895; Luther, Arthur, 1876-1955 [Translator]	Die Klerisei	93568
+53912	Hippel, Theodor Gottlieb von, 1741-1796	Über die bürgerliche Verbesserung der Weiber	65109
+54071	Ninck, Johannes, 1863-1939; Richter, Ludwig, 1803-1884 [Illustrator]	Ludwig Richter. Ein deutscher Maler und Hausfreund.	6422
+54248	Landsberger, Artur, 1876-1933 [Editor]	Jüdische Sprichwörter	6403
+54305	Villinger, Hermine, 1849-1917	Meine Tante Anna	53641
+54368	Castillo Solórzano, Alonso de, 1584-1648?	Die Harpyen von Madrit, oder die Postkutsche	26821
+54422	Gerstäcker, Friedrich, 1816-1872	Californische Skizzen	68548
+54469	Schieber, Anna, 1867-1945	Alle guten Geister...: Roman	120930
+54481	Goldstein, Augusta von, 1764-1837	Adelaide: Wahrscheinlich nur ein Roman	39635
+54555	Gerstäcker, Friedrich, 1816-1872	Kreuz und Quer, Erster Band	63461
+54679	Boer, T. J. de (Tjitze J.), 1866-1942	Geschichte der Philosophie im Islam	49025
+54691	Wesselski, Albert, 1871-1939 [Compiler]	Der Hodscha Nasreddin II. Band	57277
+54754	Prantner, Ferdinand, 1817-1871	Dissolving Views: Romanfragmente von Leo Wolfram.	75879
+54837	Mühlenfels, Hedwig von, 1874-1923; Vogt, Curt [Illustrator]	Der Kriegsfreiwillige	75440
+54875	Gerstäcker, Friedrich, 1816-1872	Kreuz und Quer, Zweiter Band	61194
+54960	Busch, Wilhelm, 1832-1908; Nöldeke, Otto, 1867- [Editor]	Hernach	1333
+55103	Wedekind, Frank, 1864-1918	Erdgeist	20806
+55130	Schmied, Rudolf Johannes; Rössner, Georg Walter, 1885-1972 [Illustrator]	Carlos und Nicolás	42805
+55163	Gerstäcker, Friedrich, 1816-1872	Kreuz und Quer, Dritter Band	70439
+55171	Grimmelshausen, Hans Jakob Christoph von, 1625-1676; Kolbenheyer, E. G. (Erwin Guido), 1878-1962 [Editor]	Der abenteuerliche Simplicissimus	84816
+55321	Hesse, Hermann, 1877-1962	Nachbarn: Erzählungen	52377
+55371	Wegner, Armin T., 1886-1978	Der Weg ohne Heimkehr: Ein Martyrium in Briefen	26186
+55559	Bölsche, Wilhelm, 1861-1939	Von Wundern und Tieren: Neue naturwissenschaftliche Plaudereien	58207
+55634	Pückler-Muskau, Hermann, Fürst von, 1785-1871	Tutti Frutti, Erster Band (von 5)	39418
+55874	Weber, Ernst, 1873-1948	Der Weg zur Zeichenkunst	25244
+55914	Goos, Max [Editor]; Bierbaum, Otto Julius, 1865-1910; Fock, Gorch, 1880-1916; Presber, Rudolf, 1868-1935; Schäfer, Wilhelm, 1868-1952; Schönherr, Karl, 1867-1943; Thoma, Ludwig, 1867-1921; Herrmann, Theodor, 1881-1926 [Illustrator]	Deutsche Humoristen, 8. Band (von 8)	21647
+55925	Kant, Immanuel, 1724-1804	Kant's gesammelte Schriften. Band V. Kritik der Urtheilskraft.	123598
+56069	Anonymous	Der Luftpirat und sein lenkbares Luftschiff 66: Das Weltenfahrzeug zwischen den Riesen-Kometen	11930
+56136	Sohrmann, Hans	Die altindische Säule: Ein Beitrag zur Säulenkunde	15855
+56182	Kant, Immanuel, 1724-1804; Kehrbach, Karl, 1846-1905 [Editor]	Die Religion innerhalb der Grenzen der bloßen Vernunft	79981
+56343	Secker, Fritz, 1889-	Schen: Studien aus einer chinesischen Weltstadt	39883
+56483	Schloemp, Felix, 1880-1916; Wedekind, Frank, 1864-1918 [Contributor]; Preetorius, Emil, 1883-1973 [Illustrator]	Der tolle Koffer	24094
+56606	Hermann, Conrad, 1819-1897	Aesthetische Farbenlehre	32136
+56641	Mörike, Eduard, 1804-1875; Loewenberg, Jakob, 1856-1929 [Commentator]; Konewka, Paul, 1840-1871 [Illustrator]; Weiss, Bonaventura, 1812-1875 [Illustrator]	Auswahl aus den Dichtungen Eduard Mörikes	43132
+57114	Zweig, Friderike Maria Burger Winternitz, 1882-1971	Vögelchen	104261
+57131	Knackfuss, H. (Hermann), 1848-1915	Michelangelo	33725
+57240	Reichenbach, Hans, 1891-1953	Relativitätstheorie und Erkenntnis Apriori	26194
+57674	Eckstein, Ernst, 1845-1900	Das Kind: Novelle	39320
+57765	Bartsch, Rudolf Hans, 1873-1952; Keller, Alfred, 1875-1945 [Illustrator]	Vom sterbenden Rokoko	32781
+57807	Lagerlöf, Selma, 1858-1940; Maro, Francis, 1870-1941 [Translator]	Christuslegenden	51813
+57809	Stratz, Rudolph, 1864-1936	Das deutsche Wunder: Roman	106122
+57850	Zweig, Stefan, 1881-1942	Amok: Novellen einer Leidenschaft	67950
+57915	Arnim, Ludwig Achim, Freiherr von, 1781-1831; Brentano, Clemens, 1778-1842; Richter, Ludwig, 1803-1884 [Illustrator]	Die Ammen-Uhr: Aus des Knaben Wunderhorn	332
+57928	Hauptmann, Gerhart, 1862-1946	Griechischer Frühling	36349
+57967	Floericke, Kurt, 1869-1934	Meeresfische	30628
+58257	Knackfuss, H. (Hermann), 1848-1915	Murillo	20230
+58306	Meyer, Conrad Ferdinand, 1825-1898; Liliencron, Detlev von, 1844-1909; Spielhagen, Friedrich, 1829-1911; Wildenbruch, Ernst von, 1845-1909	Novellenbuch, 1. Band	36548
+58506	Erber, Felix	Was mir das Sternenlicht erzählt: Eine populäre Himmelskunde für die Jugend	30375
+58543	Knackfuss, H. (Hermann), 1848-1915	Velazquez	21437
+58607	Köpke, Rudolf (Ernst Rudolf Anastasius), 1813-1870	Ludwig Tieck	178962
+58686	Hesse-Wartegg, Ernst von, 1854-1918	China und Japan: Erlebnisse, Studien, Beobachtungen	239998
+58848	Heer, J. C. (Jakob Christoph), 1859-1925	Nick Tappoli	69398
+59028	Gerstäcker, Friedrich, 1816-1872	Hüben und Drüben; Erster Band (1/3)	65534
+59029	Gerstäcker, Friedrich, 1816-1872	Hüben und Drüben; Zweiter Band (2/3)	61560
+59030	Gerstäcker, Friedrich, 1816-1872	Hüben und Drüben; Dritter Band (3/3)	59923
+59097	Knackfuss, H. (Hermann), 1848-1915	A. van Dyck	19301
+59186	Speyer, Wilhelm, 1887-1952	Wie wir einst so glücklich waren!	14912
+59464	Feuchtwanger, Lion, 1884-1958	Die häßliche Herzogin: Roman	76123
+59613	Külpe, Frances James, 1862-1936	Der Silbergarten. Der Stein des Pietro. Zwei Erzählungen	24325
+59718	Bunsen, Marie von, 1860-1941; Bunsen, Marie von, 1860-1941 [Illustrator]; Hübner, Heinrich, 1869-1945 [Illustrator]	Udo in England: Eine Reiseerzählung	18408
+59838	Simmel, Georg, 1858-1918	Grundfragen der Soziologie	26353
+60062	Bücher, Karl, 1847-1930	Die Frauenfrage im Mittelalter	19498
+60293	Sudermann, Clara, 1861-1924	An geöffneter Tür	42004
+60416	Forbes-Mosse, Irene Flemming, 1864-1946	Laubstreu	37491
+60437	Hesse, Hermann, 1877-1962	Umwege: Erzählungen	67109
+60522	Busch, Wilhelm, 1832-1908	Schein und Sein: Nachgelassene Gedichte	6501
+60583	Falke, Gustav, 1853-1916; Weidemeyer, Carl, 1882-1976 [Illustrator]	Der Spanier: Novelle	17665
+60603	Hofmannsthal, Hugo von, 1874-1929	Der Tod des Tizian. Idylle. Zwei Dichtungen	4370
+60647	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 1	86422
+60684	Eschstruth, Nataly von, 1860-1939	Die Bären von Hohen-Esp: Roman	99968
+60699	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 2	84638
+60703	Caspari, K. H. (Karl Heinrich), 1815-1861	Der Schulmeister und sein Sohn	39345
+60768	Friederich, Johann Konrad, 1789-1858; Rauscher, Ulrich, 1884-1930 [Editor]	Vierzig Jahre aus dem Leben eines Toten. Band 2	145021
+60845	Schaeffer, Albrecht, 1885-1950	Helianth. Band 3	195941
+60873	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 3	125282
+60879	Wundt, Wilhelm Max, 1832-1920	Leibniz: Zu seinem zweihunderjährigen Todestag 14. November 1916	36174
+61098	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 4	90664
+61266	Hesse, Hermann, 1877-1962	Gertrud	55516
+61354	Keller, Paul, 1873-1932; Holstein, G. (Gustav), 1876-1956 [Illustrator]; Othegraven, Reinhold Pfahler von [Illustrator]	Die fünf Waldstädte: Ein Buch für Menschen, die jung sind	37338
+61480	Geijerstam, Gustaf af, 1858-1909; Klett, Gertrud Ingeborg, 1871-1917 [Translator]	Pastor Hallin	67413
+61539	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 5	100671
+61737	Junghans, Sophie, 1845-1907	Verflossene Stunden: Novelle	41862
+61833	Günther, Friedrich, 1843-1912	Der Harz	40308
+61873	Ule, Otto, 1820-1876; Langhoff, F. [Editor]	Warum und Weil. Physikalischer Teil.	61892
+61957	Hauff, Wilhelm, 1802-1827; Weile, Alfred [Annotator]	Wilhelm Hauffs sämtliche Werke in sechs Bänden. Bd. 6	123011
+62389	Knackfuss, H. (Hermann), 1848-1915	Holbein der jüngere	34336
+62539	Lienhard, Friedrich, 1865-1929	Der Spielmann: Roman aus der Gegenwart	62696
+62601	Mayreder, Rosa, 1858-1938	Pipin: Ein Sommererlebnis	50697
+62735	Keller, Helen, 1880-1968; Hollaender, Felix, 1867-1931 [Author of introduction, etc.]; Macy, John Albert, 1877-1932 [Contributor]; Sullivan, Annie, 1866-1936 [Contributor]; Seliger, Paul, 1853-1910 [Translator]	Die Geschichte meines Lebens	97695
+63440	Hauschner, Auguste, 1850-1924	Nachtgespräche	34274
+63643	Klabund, 1890-1928	Die Krankheit: Eine Erzählung	9207
+63743	Cohausz, Otto, 1872-1938	Idole des Zwanzigsten Jahrhunderts. VIII. Moral ohne Religion	8190
+63744	Houben, H. H. (Heinrich Hubert), 1875-1935; Heine, Thomas Theodor, 1867-1948 [Illustrator]	Hier Zensur - wer dort? Antworten von gestern auf Fragen von heute	60292
+64193	Karlin, Alma M., 1889-1950	Die Kringhäusler: Drama in drei Akten	19247
+64327	Engels, Friedrich, 1820-1895; Marx, Karl, 1818-1883; Bebel, August, 1840-1913 [Editor]; Bernstein, Eduard, 1850-1932 [Editor]	Der Briefwechsel zwischen Friedrich Engels und Karl Marx 1844 bis 1883, Erster Band	161685
+64370	Keller, Paul, 1873-1932; Schumacher, Felix [Illustrator]	Die Heimat: Roman aus den schlesischen Bergen	68145
+64440	Bugenhagen, Johann, 1485-1558 [Translator]; Paulsen, Johannes, 1847-1916 [Editor]	Dat Nie Testament vun unsen Herrn un Heiland Jesus Christus	231860
+64449	Hesse, Hermann, 1877-1962	Kurgast: Aufzeichnungen von einer Badener Kur	31119
+64466	Hesse, Hermann, 1877-1962	Rosshalde	47413
+64482	Twain, Mark, 1835-1910; Schrödter, H., 1872-1957 [Illustrator]	Abenteuer und Fahrten des Huckleberry Finn	89568
+64513	Hesse, Hermann, 1877-1962	Aus Indien	35240
+64522	Hesse, Hermann, 1877-1962	Märchen	34665
+64525	Hesse, Hermann, 1877-1962	Schön ist die Jugend: Zwei Erzählungen	20282
+65089	Twain, Mark, 1835-1910; Richter, Albert B., 1845-1898 [Illustrator]	Im Gold- und Silberland	77798
+65661	Mann, Thomas, 1875-1955	Der Zauberberg. Erster Band	146633
+65662	Mann, Thomas, 1875-1955	Der Zauberberg. Zweiter Band	159173
+66452	Kaltneker, Hans, 1895-1919	Die Liebe: Novelle	14941
+66499	Sandvoss, Rosalie, 1821-1895	Briefe eines Malers an seine Schwester	25787
+66504	Landesverein Sächsischer Heimatschutz [Editor]	Landesverein Sächsischer Heimatschutz — Mitteilungen Band X, Heft 1-3	23161
+66532	Rolland, Romain, 1866-1944; Zweig, Stefan, 1881-1942 [Translator]	Clerambault: Geschichte eines freien Gewissens im Kriege	84682
+66535	Zur Mühlen, Hermynia, 1883-1951	Der Tempel: Roman	37010
+66543	Dostoyevsky, Fyodor, 1821-1881; Merezhkovsky, Dmitry Sergeyevich, 1865-1941 [Contributor]; Moeller van den Bruck, Arthur, 1876-1925 [Editor]; Rahsin, E. K., 1886-1966 [Translator]	Sämtliche Werke 11	90973
+66548	Kellermann, Bernhard, 1879-1951	Die Wiedertäufer von Münster: Drama in 5 Akten	30052
+66553	Hann, Pauline, 1855-	Anspruchslose Geschichten	36984
+66847	Strindberg, August, 1849-1912; Schering, Emil, 1873-1951 [Translator]	Heiraten: Zwanzig Ehegeschichten	78179
+66959	Marriot, Emil, 1855-1938	Der geistliche Tod: Roman.	70417
+67033	Kellermann, Bernhard, 1879-1951	Der Krieg im Westen	50208
+67066	Traven, B., 1882-1969	Mein Roman »Das Totenschiff«	1456
+67112	Kellermann, Bernhard, 1879-1951	Die Brüder Schellenberg	109610
+67407	Lessing, Theodor, 1872-1933; Leonhard, Rudolf, 1889-1953 [Editor]	Haarmann. Die Geschichte eines Werwolfs	48156
+67897	Ewald, Carl, 1856-1908; Kiy, Hermann, 1879-1963 [Editor]; Planck, Willy, 1870-1956 [Illustrator]	Der Zweifüßler und andere Geschichten: Naturgeschichtliche Märchen	55527
+67991	Rosegger, Peter, 1843-1918	Die Försterbuben: Ein Roman aus den steirischen Alpen	70737
+68258	Lotze, Reinhold, 1887-1951	Jahreszahlen der Erdgeschichte	23606
+68403	Hedin, Sven Anders, 1865-1952	Im Herzen von Asien. Zweiter Band.	151507
+68883	Breitenstein, Heinrich, 1848-1930	21 Jahre in Indien. Dritter Theil: Sumatra.	79435
+69083	Rein, Berthold, 1860-1943; Geissler, Willi, 1848-1928 [Illustrator]	Schiller in Rudolstadt	15495
+69133	Zobeltitz, Hanns von, 1853-1918	Auf märkischer Erde	91793
+69327	Kafka, Franz, 1883-1924	Der Prozess: Roman	73822
+69523	Hauptmann, Gerhart, 1862-1946	Das Friedensfest	19912
+69548	Landesverein Sächsischer Heimatschutz [Editor]	Landesverein Sächsischer Heimatschutz — Mitteilungen Band XII, Heft 1-3	19407
+69864	Beeg, Marie, 1855-1927	Schulmädelgeschichten: für Mädchen von 7-12 Jahren	45230
+69949	Giese, Friedrich, 1870-1944	Türkische Märchen	96061
+70248	Boy-Ed, Ida, 1852-1928	Nur wer die Sehnsucht kennt ...	81395
+70353	Mayer, Otto; Nord, F. R. [Editor]	Zwanzig Jahre an Indischen Fürstenhöfen	56985
+70435	Seton, Ernest Thompson, 1860-1946	Bingo und andere Tiergeschichten	48766
+70560	Suttner, Marie Louise von, 1873-1948	Wie es Licht geworden!	62634
+70774	Meyer, Hans, 1858-1929; Dietzel, Karl Heinrich, 1893-1951 [Editor]	Hochtouren im tropischen Amerika	37421
+70775	Barber, Ida, 1842-1931	Lebensbilder	39758
+70910	Skowronnek, Richard, 1862-1932	Bruder Leichtfuß und Stein am Bein	51774
+70926	Hamsun, Knut, 1859-1952; Sandmeier, J. (Julius), 1881-1941 [Translator]	Unter Herbststernen	34194
+71303	Doflein, Franz, 1873-1924	Mazedonien	156806
+71681	Selow-Serman, K. E., 1881-1943	Kapitänleutnant v. Möllers letzte Fahrt	25188
+71714	Marx, Arno	Seltsame Käuze	42599
+71803	Kellen, Tony, 1869-1948	Malmedy und die preußische Wallonie	19611
+71998	Bacher, Julius, 1810-1889	Prinzessin Sidonie (Band 1/3)	46334
+72025	Bell, Gertrude Lowthian, 1868-1926; Sargent, John Singer, 1856-1925 [Illustrator]	Durch die Wüsten und Kulturstätten Syriens	86818
+73038	Goethe, Johann Wolfgang von, 1749-1832 [Artist]; Ruland, Carl, 1834-1907 [Editor]	Zweiundzwanzig Handzeichnungen von Goethe. 1810.	2679
+73143	Dirk, Stephan	Die Cigarette	15368
+73205	Nordenskiöld, Erland, 1877-1932	Indianerleben	76238
+73268	Pfister, Kurt, 1895-1951; Rembrandt Harmenszoon van Rijn, 1606-1669 [Artist]	Rembrandt	12156
+73284	Dornseiff, Franz, 1888-1960	Buchstabenmystik	9917
+73509	Landesverein Sächsischer Heimatschutz [Editor]	Landesverein Sächsischer Heimatschutz — Mitteilungen Band XIV, Heft 3-4	19263
+73806	Schücking, Levin, 1814-1883; Repsold, Wilhelm, 1885-1969 [Illustrator]	Die Bestechung	7630
+74008	Storm, Theodor, 1817-1888	Der Schimmelreiter	38335
+74557	Viebig, Clara, 1860-1952	Das Kreuz im Venn	107946
+74678	Domville-Fife, Charles W. (Charles William), 1886-1960; Langenberg, Hanns, 1892-1956 [Illustrator]	Unter Wilden am Amazonas	66271
+74788	Bode, Wilhelm, 1862-1922	Goethes Lebenskunst	69014
+74895	Viebig, Clara, 1860-1952	Die Wacht am Rhein	101412
+75055	Fischer, Emil, 1852-1919; Bergmann, M. (Max), 1886-1944 [Editor]	Aus meinem Leben	77822
+75086	Augusti, Brigitte, 1839-1930; Friedrich, W. (Woldemar), 1846-1910 [Illustrator]	Im Banne der freien Reichsstadt	78258
+75277	Fontane, Theodor, 1819-1898	Kriegsgefangen	47857
+75426	Schmidt, Rochus, 1860-1938	Geschichte des Araberaufstandes in Ost-Afrika	105136
+75443	Kassebaum, Hermann, 1871-1954	Venne Richerdes	70312
+75455	Freud, Sigmund, 1856-1939	Eine Kindheitserinnerung des Leonardo da Vinci	21870
+75470	Bloem, Walter, 1868-1951	Das Land unserer Liebe	77926
+75501	Schmidt, Otto Ernst, 1862-1926	Gedichte	47510
+75569	Rosegger, Peter, 1843-1918	Als ich noch der Waldbauernbub war. Band 2	32597
+75588	Rein, Berthold, 1860-1943	Die Friedensburg bei Leutenberg	14615
+75633	Wichert, Ernst, 1831-1902; Greinz, Rudolf, 1866-1942; Polenz, Wilhelm von, 1861-1903; Sohnrey, Heinrich, 1859-1948	Novellenbuch, 2. Band: Dorfgeschichten	38831
+75640	Pfeiffer, Ida, 1797-1858	Meine zweite Weltreise	39537
+75679	Remizov, Aleksei, 1877-1957; Anichkov, E. V. (Evgeniĭ Vasilʹevich), 1866-1937 [Author of introduction, etc.]; Frisch, Fega, 1878-1964 [Translator]	Die Schwestern im Kreuz	48532
+75762	Prager, Max, 1854-1910	Die deutsche Dampfer-Expedition zum Nyassa-See.	179243
+75795	Traven, B., 1882-1969	Die Baumwollpflücker	24195
+75802	Hesse, Hermann, 1877-1962	Der Steppenwolf	67389
+75824	Puttkamer, Jesco von, 1858-1916	Geschwister Plüddekamp	54448
+75839	Keller, Paul, 1873-1932; Poetter, Wilhelm, 1885-1945 [Illustrator]	Das Königl. Seminartheater — Altenroda — Grünlein	84581
+75888	Busch, Karl August, 1886-1952	Quer durch Amerika	100547
+76032	Stratz, Rudolph, 1864-1936	Du Schwert an meiner Linken	104207
+76111	Traven, B., 1882-1969	Der Wobbly	65721
+76303	Dostoyevsky, Fyodor, 1821-1881; Filosofov, Dmitriĭ Vladimirovich, 1872-1940 [Contributor]; Merezhkovsky, Dmitry Sergeyevich, 1865-1941 [Contributor]; Moeller van den Bruck, Arthur, 1876-1925 [Editor]; Rahsin, E. K., 1886-1966 [Translator]	Sämtliche Werke 18	131533
+76382	May, Karl, 1842-1912	Durchs wilde Kurdistan	150032
+76423	Freud, Sigmund, 1856-1939	Der Witz und seine Beziehung zum Unbewußten	75459
+76484	Traven, B., 1882-1969	Der Schatz der Sierra Madre	78140
+76558	Grimm, Jacob, 1785-1863 [Contributor]; Grimm, Wilhelm, 1786-1859 [Contributor]	Deutsche Sagen	100609
+76937	Anonymous	Kurze Geschichte und Beschreibung der k.k. Pfarrkirche zum heiligen Carl Borromäus in Wien in der Vorstadt Wieden, nebst einigen Zügen aus dem Leben des heiligen Carl Borromäus	4665
+76968	Zell, Th. (Theodor), 1862-1924	Straußenpolitik	32980
+77182	Schiller, Friedrich, 1759-1805	Wilhelm Tell	28148
+77203	Martensen, H. (Hans), 1808-1884	Meister Eckart	42222
+77380	Huna, Ludwig, 1872-1945	Granada in Flammen	104353
+77422	Lehmann, Alfred, 1853-	Das Bildnis bei den altdeutschen Meistern bis auf Dürer	72321
+77435	Buchwald, Georg, 1859-1947	Die evangelische Kirche im Jahrhundert der Reformation	30787
+77458	Kyselak, Josef, 1799-1831	Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien,	49303
+77504	Bertsch, Hugo, 1851-1935; Wilbrandt, Adolf, 1837-1911 [Author of introduction, etc.]	Die Geschwister	44694
+77785	Floericke, Kurt, 1869-1934	Aussterbende Tiere	25606
+77889	Ebner-Eschenbach, Marie von, 1830-1916	Gesammelte Schriften von Marie von Ebner-Eschenbach (1/10)	26382
+77891	Golther, Wolfgang, 1863-1945	Handbuch der Germanischen Mythologie	233108
+77905	Grimm, Jacob, 1785-1863; Grimm, Wilhelm, 1786-1859; Thilo-Luyken, M. [Editor]; Brandenburg-Polster, Dora, 1884-1958 [Illustrator]	Deutsche Märchen gesammelt durch die Brüder Grimm	88841
+78125	Polenz, Wilhelm von, 1861-1903	Liebe ist ewig	86618
+78265	Doyle, Arthur Conan, 1859-1930; Gutschmidt, Richard, 1861-1926 [Illustrator]	Späte Rache	38793
+78349	Hamsun, Knut, 1859-1952	Abenteurer	19167
+78490	Ebner-Eschenbach, Marie von, 1830-1916	Gesammelte Schriften von Marie von Ebner-Eschenbach (3/10)	82644
+78666	Hedin, Sven Anders, 1865-1952	Gran Cañon	48066
+78808	Weininger, Otto, 1880-1903; Rappaport, Moriz, 1808-1880 [Contributor]	Über die letzten Dinge	59276
+78932	Weber, Ernst, 1873-1948 [Editor]; Cissarz, J. V. (Johann Vincenz), 1873-1942 [Illustrator]	Meer	14322
+79066	Traven, B., 1882-1969	Der Busch	78580
+79123	Strindberg, August, 1849-1912; Hollander, Else von, 1884-1944 [Translator]	Das rote Zimmer	94209
+79173	Hesse, Hermann, 1877-1962	Narziß und Goldmund	94752
+79285	Busch, Wilhelm, 1832-1908	Abenteuer eines Junggesellen	2975
+79334	Schubert, Gotthilf Heinrich von, 1780-1860	Reise in das Morgenland in den Jahren 1836 und 1837, Dritter und letzter Band	149957
+79513	Mogk, Eugen, 1854-1939	Germanische Mythologie	34225
+79596	Aristophanes, 447? BCE-386? BCE; Ehmcke, F. H. (Fritz Hellmut), 1878-1965 [Illustrator]; Owlglass, Dr., 1873-1945 [Translator]	Die Vögel	13874
+79679	Landesverein Sächsischer Heimatschutz [Editor]	Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 3–4	31500
+79749	Ebner-Eschenbach, Marie von, 1830-1916	Gesammelte Schriften von Marie von Ebner-Eschenbach (2/10)	79491
