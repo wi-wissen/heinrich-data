@@ -68,3 +68,4 @@ mancherlei   det type=ind
 vielerlei    det type=ind
 keinerlei    det type=neg
 beiderlei    det type=tot
+was          pron type=ind sense=indef sg=was,-,-,was style=colloquial note=colloquial for etwas (ich habe was gesehen)
