@@ -1,0 +1,10 @@
+ca. x abbr note=circa
+capita x foreign note=only in per capita
+Capt. x abbr note=captain
+cc x abbr note=carbon copy; cubic centimetres
+CE x abbr note=Common Era (500 CE); also the European conformity mark
+cheers intj note=British: thanks; a toast
+cm x abbr note=centimetre(s)
+Co. x abbr note=company
+Col. x abbr note=colonel
+Corp. x abbr note=corporation
