@@ -33,7 +33,7 @@ abhängen verb class=strong sep=ab 3sg=abhängt past=abhing pp=abgehangen subj2=
 abhängen verb class=weak sep=ab pp=abgehängt perf=haben sense=transitive note=er hängte den Verfolger ab; den Anhänger abhängen
 abhärten verb class=weak sep=ab pp=abgehärtet perf=haben refl=acc
 abhauen verb class=strong sep=ab 3sg=abhaut past=abhaute|abhieb[archaic] subj2=abhaute|abhiebe[archaic] pp=abgehauen perf=sein
-abheben verb class=strong sep=ab 3sg=abhebt past=abhob pp=abgehoben subj2=abhöbe perf=haben
+abheben verb class=strong sep=ab 3sg=abhebt past=abhob pp=abgehoben subj2=abhöbe perf=haben|sein
 abhetzen verb class=weak sep=ab pp=abgehetzt perf=haben refl=acc
 abholen       verb class=weak sep=ab pp=abgeholt perf=haben
 abholzen verb class=weak pp=abgeholzt perf=haben sep=ab
@@ -349,7 +349,7 @@ anzahlen verb class=weak sep=an pp=angezahlt perf=haben
 anzeichnen verb class=weak sep=an pp=angezeichnt perf=haben
 anzeigen verb class=weak sep=an pp=angezeigt perf=haben
 anzetteln verb class=weak sep=an pp=angezettelt perf=haben
-anziehen verb class=strong sep=an 3sg=anzieht past=anzog pp=angezogen subj2=anzöge perf=haben
+anziehen verb class=strong sep=an 3sg=anzieht past=anzog pp=angezogen subj2=anzöge perf=haben refl=acc
 anzünden verb class=weak sep=an pp=angezündet perf=haben
 anzweifeln verb class=weak sep=an pp=angezweifelt perf=haben
 appellieren verb class=weak pp=appelliert perf=haben

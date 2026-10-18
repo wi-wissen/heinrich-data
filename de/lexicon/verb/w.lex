@@ -189,7 +189,7 @@ wohnen verb class=weak pp=gewohnt perf=haben
 wringen verb class=strong 3sg=wringt past=wrang pp=gewrungen subj2=wränge perf=haben
 wuchern verb class=weak pp=gewuchert perf=haben|sein
 wühlen verb class=weak pp=gewühlt perf=haben
-wundern verb class=weak pp=gewundert perf=haben
+wundern verb class=weak pp=gewundert perf=haben refl=acc
 wünschen verb class=weak pp=gewünscht perf=haben
 würdigen verb class=weak pp=gewürdigt perf=haben
 würfeln verb class=weak pp=gewürfelt perf=haben

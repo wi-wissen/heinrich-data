@@ -143,7 +143,7 @@ sitzenbleiben verb class=strong sep=sitzen 3sg=sitzenbleibt past=sitzenblieb pp=
 skizzieren verb class=weak pp=skizziert perf=haben
 snowboarden verb class=weak pp=gesnowboardet perf=haben
 sonnen verb class=weak pp=gesonnt perf=haben refl=acc
-sorgen verb class=weak pp=gesorgt perf=haben
+sorgen verb class=weak pp=gesorgt perf=haben refl=acc
 sortieren verb class=weak pp=sortiert perf=haben
 spähen verb class=weak pp=gespäht perf=haben
 spalten verb class=strong 3sg=spaltet past=spaltete pp=gespalten subj2=spaltete perf=haben note=weak preterite spaltete, strong Partizip II; gespaltet (rare) not expressible

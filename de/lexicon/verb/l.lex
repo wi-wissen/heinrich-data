@@ -47,7 +47,7 @@ losbinden verb class=strong sep=los 3sg=losbindet past=losband subj2=losbände p
 losbrechen verb class=strong sep=los 3sg=losbricht past=losbrach subj2=losbräche pp=losgebrochen perf=sein
 löschen verb class=weak pp=gelöscht perf=haben
 loseisen verb class=weak sep=los pp=losgeeist perf=haben
-lösen verb class=weak pp=gelöst perf=haben
+lösen verb class=weak pp=gelöst perf=haben refl=acc
 losfahren verb class=strong sep=los 3sg=losfährt past=losfuhr pp=losgefahren subj2=losführe perf=sein
 losfliegen verb class=strong sep=los 3sg=losfliegt past=losflog subj2=losflöge pp=losgeflogen perf=sein
 losgehen verb class=strong sep=los 3sg=losgeht past=losging pp=losgegangen subj2=losginge perf=sein

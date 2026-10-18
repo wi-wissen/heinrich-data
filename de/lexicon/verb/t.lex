@@ -39,7 +39,7 @@ trampen verb class=weak pp=getrampt perf=sein
 tränken verb class=weak pp=getränkt perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben
-trauen verb class=weak pp=getraut perf=haben
+trauen verb class=weak pp=getraut perf=haben refl=acc
 trauern verb class=weak pp=getrauert perf=haben
 träumen verb class=weak pp=geträumt perf=haben
 treffen verb class=strong 3sg=trifft past=traf pp=getroffen subj2=träfe perf=haben|sein refl=acc
