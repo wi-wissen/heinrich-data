@@ -5,6 +5,13 @@ offenbar adj
 offensichtlich adj
 öffentlich adj
 offiziell adj
+ökologisch adj
+ökonomisch adj
 olympisch adj
+ordentlich adj cmp=ordentlicher sup=ordentlichsten
+ordnungsgemäß adj
+organisatorisch adj
+organisch adj
+örtlich adj
 österreichisch adj
 östlich adj note=also a genitive preposition (closed/prepositions.lex)
