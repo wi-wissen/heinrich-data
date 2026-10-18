@@ -1,3 +1,4 @@
+Meisterschaft noun g=f gen=Meisterschaft pl=Meisterschaften
 Milch        noun g=f gen=Milch pl=- note=plural Milche only in technical use
 Museum       noun g=n gen=Museums pl=Museen
 Mutter       noun g=f gen=Mutter pl=Mütter sense=parent
