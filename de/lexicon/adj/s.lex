@@ -5,7 +5,7 @@ sanft adj cmp=sanfter sup=sanftesten
 satt adj cmp=satter sup=sattesten
 sauber adj cmp=sauberer sup=saubersten
 sauer adj cmp=saurer sup=sauersten
-schade adj indecl note=predicative only (es ist schade)
+schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
 scharf adj cmp=schärfer sup=schärfsten
 scheinbar adj
@@ -26,7 +26,7 @@ schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
 schriftlich adj
 schüchtern adj cmp=schüchterner sup=schüchternsten
-schuld adj indecl note=predicative only (er ist schuld, schuld sein an)
+schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld
 schuldig adj
 schulisch adj
 schwach adj cmp=schwächer sup=schwächsten

@@ -61,6 +61,7 @@ unsichtbar adj
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterirdisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
+untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 ununterbrochen adj
 unverändert adj
 unverantwortlich adj cmp=unverantwortlicher sup=unverantwortlichsten

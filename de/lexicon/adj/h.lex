@@ -1,3 +1,4 @@
+habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 halb         adj note=not compared; ein halber Liter
 harmlos adj cmp=harmloser sup=harmlosesten
 hart adj cmp=härter sup=härtesten

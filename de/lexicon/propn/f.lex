@@ -9,10 +9,10 @@ Florenz propn g=n gen=Florenz pl=- note=proper name; no plural
 Florida propn g=n gen=Floridas pl=- note=proper name; no plural
 Fortuna propn g=f gen=Fortuna pl=- note=goddess; no plural
 FPÖ propn g=f gen=FPÖ pl=- note=Freiheitliche Partei Österreichs
-Frankfurt propn g=n gen=Frankfurts pl=- note=place name; no plural
+Frankfurt propn g=n gen=Frankfurts pl=- demonym=Frankfurter note=place name; no plural
 Frankreich propn g=n gen=Frankreichs pl=- note=place name; no plural
 Freiberg propn g=n gen=Freibergs pl=- note=city in Saxony; no plural
-Freiburg propn g=n gen=Freiburgs pl=- note=place name; no plural
+Freiburg propn g=n gen=Freiburgs pl=- demonym=Freiburger note=place name; no plural
 Freising propn g=n gen=Freisings pl=- note=proper name; no plural
 Friesland propn g=n gen=Frieslands pl=- note=region; no plural
 Fulda propn g=n gen=Fuldas pl=- note=proper name; no plural

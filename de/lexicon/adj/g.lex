@@ -43,10 +43,11 @@ gesondert adj
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
-gewahr adj note=nur prädikativ (einer Sache gewahr werden)
+gewahr adj pred_only note=predicative only (einer Sache gewahr werden)
 gewaltig adj cmp=gewaltiger sup=gewaltigsten
 gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
+gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewiss adj cmp=gewisser sup=gewissesten
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
@@ -67,6 +68,7 @@ gnädig adj cmp=gnädiger sup=gnädigsten
 golden adj
 gotisch adj
 göttlich adj
+gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
 grau adj cmp=grauer sup=grauesten
 grausam adj cmp=grausamer sup=grausamsten
 grenzüberschreitend adj

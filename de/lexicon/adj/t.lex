@@ -4,6 +4,7 @@ tätig adj
 tatsächlich adj
 technisch adj
 technologisch adj
+teilhaftig adj pred_only note=einer Sache teilhaftig werden
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
 theologisch adj

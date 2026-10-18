@@ -94,11 +94,13 @@ längs        adp case=gen|dat
 laut         adp case=gen|dat note=laut Bericht / laut des Berichts
 mangels      adp case=gen
 mithilfe     adp case=gen note=also mit Hilfe
+minus        adp case=gen|dat note=minus der Kosten (formal); often uninflected or dative (minus Rabatt, minus dem Pfand); the conjunction is in conjunctions.lex
 mittels      adp case=gen
 namens       adp case=gen
 nördlich     adp case=gen note=nördlich der Stadt; also nördlich von
 oberhalb     adp case=gen
 östlich      adp case=gen note=östlich der Stadt; also östlich von
+plus         adp case=gen|dat note=plus der Zinsen (formal); often uninflected or dative (plus Porto, plus dem Trinkgeld); the conjunction is in conjunctions.lex
 ob           adp case=gen style=archaic note=ob des Lärms (because of); the conjunction ob is in conjunctions.lex
 seitens      adp case=gen
 statt        adp case=gen|dat[colloquial]

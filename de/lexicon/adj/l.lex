@@ -17,7 +17,7 @@ ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
 leicht adj cmp=leichter sup=leichtesten
-leid adj indecl note=only predicative in leid tun, leid sein
+leid adj pred_only note=only predicative in leid tun, leid sein; the noun is Leid
 leidenschaftlich adj cmp=leidenschaftlicher sup=leidenschaftlichsten
 leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten

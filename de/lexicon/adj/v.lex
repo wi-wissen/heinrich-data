@@ -15,6 +15,7 @@ verhältnismäßig adj
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
+verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
 vermutlich adj
 vernünftig adj

@@ -27,4 +27,4 @@ NPD propn g=f gen=NPD pl=- note=die NPD
 NRW propn g=n gen=NRW pl=- note=Nordrhein-Westfalen
 NSDAP propn g=f gen=NSDAP pl=- note=proper name; no plural
 NSU propn g=m gen=NSU pl=- note=der NSU
-Nürnberg propn g=n gen=Nürnbergs pl=- note=proper name; no plural
+Nürnberg propn g=n gen=Nürnbergs pl=- demonym=Nürnberger note=proper name; no plural

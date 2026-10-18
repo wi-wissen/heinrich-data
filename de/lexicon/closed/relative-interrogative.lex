@@ -25,3 +25,4 @@ welcher      det type=int decl=dieser
              m=welcher,welches|welchen,welchem,welchen
              n=welches,welches|welchen,welchem,welches
 welcher      pron type=int decl=dieser
+welch        det type=int note=uninflected in exclamations before ein or an adjective (welch ein Glück!, welch schöner Tag!)

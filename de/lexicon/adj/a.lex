@@ -1,4 +1,5 @@
 abhängig      adj cmp=abhängiger sup=abhängigsten
+abhold adj pred_only style=archaic note=jemandem abhold sein (averse to)
 absehbar adj
 absichtlich adj
 absolut adj
@@ -15,6 +16,7 @@ aktuell       adj cmp=aktueller sup=aktuellsten
 akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 alleinig adj
+allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
@@ -32,9 +34,11 @@ anfänglich adj
 angeblich adj
 angemessen    adj cmp=angemessener sup=angemessensten
 angenehm adj cmp=angenehmer sup=angenehmsten
+angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
 ansässig adj
+ansichtig adj pred_only style=archaic note=jemandes ansichtig werden (catch sight of)
 anständig adj cmp=anständiger sup=anständigsten
 anteilig adj
 antik adj

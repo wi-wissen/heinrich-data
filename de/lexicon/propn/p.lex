@@ -23,6 +23,6 @@ Polen propn g=n gen=Polens pl=- note=proper name, no plural
 Pommern propn g=n gen=Pommerns pl=- note=proper name, no plural
 Portugal propn g=n gen=Portugals pl=- note=proper name, no plural
 Posen propn g=n gen=Posens pl=- note=city
-Potsdam propn g=n gen=Potsdams pl=- note=proper name, no plural
+Potsdam propn g=n gen=Potsdams pl=- demonym=Potsdamer note=proper name, no plural
 Prag propn g=n gen=Prags pl=- note=proper name, no plural
 Preußen propn g=n gen=Preußens pl=- note=proper name, no plural
