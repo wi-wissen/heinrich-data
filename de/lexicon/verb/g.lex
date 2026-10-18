@@ -49,6 +49,7 @@ glitzern verb class=weak pp=geglitzert perf=haben
 glotzen verb class=weak pp=geglotzt perf=haben
 glühen verb class=weak pp=geglüht perf=haben
 gönnen verb class=weak pp=gegönnt perf=haben
+googeln verb class=weak pp=gegoogelt perf=haben
 graben verb class=strong 3sg=gräbt past=grub pp=gegraben subj2=grübe perf=haben
 grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
@@ -58,6 +59,7 @@ grillen verb class=weak pp=gegrillt perf=haben
 grinsen verb class=weak pp=gegrinst perf=haben
 grollen verb class=weak pp=gegrollt perf=haben
 großziehen verb class=strong sep=groß 3sg=großzieht past=großzog pp=großgezogen subj2=großzöge perf=haben
+grübeln verb class=weak pp=gegrübelt perf=haben
 gründen verb class=weak pp=gegründet perf=haben refl=acc
 grunzen verb class=weak pp=gegrunzt perf=haben
 grüßen verb class=weak pp=gegrüßt perf=haben

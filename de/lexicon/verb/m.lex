@@ -4,6 +4,7 @@ mailen verb class=weak pp=gemailt perf=haben
 malen verb class=weak pp=gemalt perf=haben
 mampfen verb class=weak pp=gemampft perf=haben style=colloquial
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
+manipulieren verb class=weak pp=manipuliert perf=haben
 marinieren verb class=weak pp=mariniert perf=haben
 markieren verb class=weak pp=markiert perf=haben
 marschieren verb class=weak pp=marschiert perf=sein
@@ -23,7 +24,10 @@ miauen verb class=weak pp=miaut perf=haben note=Partizip II without ge- (stress 
 mieten verb class=weak pp=gemietet perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
 mischen verb class=weak pp=gemischt perf=haben refl=acc
+misslingen verb class=strong 3sg=misslingt past=misslang pp=misslungen subj2=misslänge perf=sein
 misstrauen verb class=weak pp=misstraut perf=haben
+mitarbeiten verb class=weak sep=mit pp=mitgearbeitet perf=haben
+mitbekommen verb class=strong sep=mit 3sg=mitbekommt past=mitbekam pp=mitbekommen subj2=mitbekäme perf=haben
 mitbringen verb class=mixed sep=mit 3sg=mitbringt past=mitbrachte pp=mitgebracht subj2=mitbrächte perf=haben
 mitessen verb class=strong sep=mit 3sg=mitisst past=mitaß pp=mitgegessen subj2=mitäße perf=haben
 mitfeiern verb class=weak sep=mit pp=mitgefeiert perf=haben
@@ -31,6 +35,7 @@ mithelfen verb class=strong sep=mit 3sg=mithilft past=mithalf pp=mitgeholfen sub
 mitkommen verb class=strong sep=mit 3sg=mitkommt past=mitkam pp=mitgekommen subj2=mitkäme perf=sein
 mitmachen verb class=weak sep=mit pp=mitgemacht perf=haben
 mitnehmen verb class=strong sep=mit 3sg=mitnimmt past=mitnahm pp=mitgenommen subj2=mitnähme perf=haben
+mitschreiben verb class=strong sep=mit 3sg=mitschreibt past=mitschrieb pp=mitgeschrieben subj2=mitschriebe perf=haben
 mitspielen verb class=weak sep=mit pp=mitgespielt perf=haben
 mitteilen verb class=weak sep=mit pp=mitgeteilt perf=haben
 mitwirken verb class=weak sep=mit pp=mitgewirkt perf=haben
@@ -38,6 +43,7 @@ mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben
+mogeln verb class=weak pp=gemogelt perf=haben
 montieren verb class=weak pp=montiert perf=haben
 motivieren verb class=weak pp=motiviert perf=haben refl=acc
 motzen verb class=weak pp=gemotzt perf=haben style=colloquial

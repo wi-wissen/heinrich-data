@@ -1,5 +1,6 @@
 mächtig adj cmp=mächtiger sup=mächtigsten
 mager adj cmp=magerer sup=magersten
+magnetisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 männlich adj
 manuell adj
@@ -14,12 +15,15 @@ matt adj cmp=matter sup=mattesten
 mausetot adj
 maximal adj
 mechanisch adj
+medial adj
 medizinisch adj
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
+menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
+metaphorisch adj
 mexikanisch adj
 mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
@@ -37,12 +41,17 @@ modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten
 möglich adj cmp=möglicher sup=möglichsten
 momentan adj
+monarchisch adj
 monatlich adj
 moralisch adj cmp=moralischer sup=moralischsten
 morsch adj cmp=morscher sup=morschesten
+motiviert adj cmp=motivierter sup=motiviertesten
 müde adj cmp=müder sup=müdesten
 muffig adj cmp=muffiger sup=muffigsten
+mühelos adj cmp=müheloser sup=mühelosesten
 mühsam adj cmp=mühsamer sup=mühsamsten
+multimedial adj
+mündig adj
 mündlich adj
 munter adj cmp=munterer sup=muntersten
 mürrisch adj cmp=mürrischer sup=mürrischsten

@@ -2,6 +2,7 @@ kacken verb class=weak pp=gekackt perf=haben style=colloquial
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
+kapieren verb class=weak pp=kapiert perf=haben
 kassieren verb class=weak pp=kassiert perf=haben
 kauen verb class=weak pp=gekaut perf=haben
 kauern verb class=weak pp=gekauert perf=haben refl=acc
@@ -19,8 +20,10 @@ klarmachen verb class=weak sep=klar pp=klargemacht perf=haben
 klarstellen verb class=weak sep=klar pp=klargestellt perf=haben
 klassifizieren verb class=weak pp=klassifiziert perf=haben
 klauen verb class=weak pp=geklaut perf=haben style=colloquial
+kleben verb class=weak pp=geklebt perf=haben
 kleiden verb class=weak pp=gekleidet perf=haben refl=acc
 klettern verb class=weak pp=geklettert perf=sein|haben
+klicken verb class=weak pp=geklickt perf=haben
 klingeln verb class=weak pp=geklingelt perf=haben
 klingen verb class=strong 3sg=klingt past=klang pp=geklungen subj2=klänge perf=haben
 klopfen verb class=weak pp=geklopft perf=haben
@@ -28,6 +31,8 @@ knabbern verb class=weak pp=geknabbert perf=haben
 kneifen verb class=strong 3sg=kneift past=kniff pp=gekniffen subj2=kniffe perf=haben
 kneten verb class=weak pp=geknetet perf=haben
 knien verb class=mixed pres=knie,kniest,kniet,knien,kniet,knien past=kniete pp=gekniet subj2=kniete imp=knie,kniet perf=haben|sein note=stem knie- (ich knie, kniete)
+knipsen verb class=weak pp=geknipst perf=haben
+knobeln verb class=weak pp=geknobelt perf=haben
 knüpfen verb class=weak pp=geknüpft perf=haben
 knurren verb class=weak pp=geknurrt perf=haben
 kochen verb class=weak pp=gekocht perf=haben
@@ -40,10 +45,12 @@ kommunizieren verb class=weak pp=kommuniziert perf=haben
 komponieren verb class=weak pp=komponiert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konstruieren verb class=weak pp=konstruiert perf=haben
+konsumieren verb class=weak pp=konsumiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
 konzentrieren verb class=weak pp=konzentriert perf=haben refl=acc
 konzipieren verb class=weak pp=konzipiert perf=haben
 koordinieren verb class=weak pp=koordiniert perf=haben
+kopieren verb class=weak pp=kopiert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
 kotzen verb class=weak pp=gekotzt perf=haben style=colloquial

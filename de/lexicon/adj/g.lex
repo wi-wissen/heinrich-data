@@ -1,5 +1,7 @@
 ganz adj note=the adverb is in closed/
 gar adj
+gasförmig adj
+gebeugt adj
 geborgen adj
 gebräuchlich adj
 gebraucht adj
@@ -56,6 +58,7 @@ gesellschaftlich adj
 gesetzlich adj
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
+gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
@@ -66,6 +69,7 @@ gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden wi
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewiss adj cmp=gewisser sup=gewissesten
+gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
@@ -73,9 +77,11 @@ geworden adj attr_only note=participle of werden used attributively (ein groß g
 giftig adj cmp=giftiger sup=giftigsten
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
+gläubig adj cmp=gläubiger sup=gläubigsten
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichaltrig adj
+gleichberechtigt adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
@@ -88,6 +94,8 @@ golden adj
 gotisch adj
 göttlich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
+grammatikalisch adj
+grammatisch adj
 grasig adj cmp=grasiger sup=grasigsten
 gratis adj indecl
 grau adj cmp=grauer sup=grauesten

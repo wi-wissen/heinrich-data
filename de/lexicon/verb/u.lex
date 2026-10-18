@@ -2,6 +2,7 @@
 überarbeiten verb class=weak pp=überarbeitet perf=haben refl=acc
 übereinstimmen verb class=weak sep=überein pp=übereingestimmt perf=haben
 überfallen verb class=strong 3sg=überfällt past=überfiel pp=überfallen subj2=überfiele perf=haben
+überfliegen verb class=strong 3sg=überfliegt past=überflog pp=überflogen subj2=überflöge perf=haben
 überfluten verb class=weak pp=überflutet perf=haben
 überfordern verb class=weak pp=überfordert perf=haben
 überführen verb class=weak pp=überführt perf=haben note=inseparable: einen Täter überführen
@@ -49,6 +50,7 @@
 umarmen verb class=weak pp=umarmt perf=haben refl=acc
 umbauen verb class=weak sep=um pp=umgebaut perf=haben
 umbenennen verb class=mixed sep=um 3sg=umbenennt past=umbenannte pp=umbenannt subj2=umbenennte perf=haben
+umblättern verb class=weak sep=um pp=umgeblättert perf=haben
 umbringen verb class=mixed sep=um 3sg=umbringt past=umbrachte pp=umgebracht subj2=umbrächte perf=haben refl=acc
 umfahren     verb class=strong sep=um 3sg=umfährt past=umfuhr pp=umgefahren subj2=umführe perf=haben
              sense=knock_over note=jemanden umfahren: knock down (separable, stress on um)
@@ -57,6 +59,7 @@ umfahren     verb class=strong 3sg=umfährt past=umfuhr pp=umfahren subj2=umfüh
 umfallen verb class=strong sep=um 3sg=umfällt past=umfiel pp=umgefallen subj2=umfiele perf=sein
 umfassen verb class=weak pp=umfasst perf=haben sense=contain
 umfassen verb class=weak sep=um pp=umgefasst perf=haben sense=refit conf=70 note=rare separable reading (einen Stein umfassen: neu fassen)
+umformen verb class=weak sep=um pp=umgeformt perf=haben
 umgeben verb class=strong 3sg=umgibt past=umgab pp=umgeben subj2=umgäbe perf=haben
 umgehen verb class=strong sep=um 3sg=umgeht past=umging pp=umgegangen subj2=umginge perf=sein sense=deal note=mit jemandem umgehen
 umgehen verb class=strong 3sg=umgeht past=umging pp=umgangen subj2=umginge perf=haben sense=avoid note=inseparable: ein Hindernis umgehen
@@ -67,6 +70,7 @@ umkippen verb class=weak sep=um pp=umgekippt perf=haben|sein
 umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
 umrechnen verb class=weak sep=um pp=umgerechnet perf=haben
 umrühren verb class=weak sep=um pp=umgerührt perf=haben
+umschalten verb class=weak sep=um pp=umgeschaltet perf=haben
 umschließen verb class=strong 3sg=umschließt past=umschloss pp=umschlossen subj2=umschlösse perf=haben
 umsetzen verb class=weak sep=um pp=umgesetzt perf=haben
 umsteigen verb class=strong sep=um 3sg=umsteigt past=umstieg pp=umgestiegen subj2=umstiege perf=sein
@@ -96,8 +100,10 @@ unterstreichen verb class=strong 3sg=unterstreicht past=unterstrich pp=unterstri
 unterstützen verb class=weak pp=unterstützt perf=haben
 untersuchen verb class=weak pp=untersucht perf=haben
 unterteilen verb class=weak pp=unterteilt perf=haben
+untertreiben verb class=strong 3sg=untertreibt past=untertrieb pp=untertrieben subj2=untertriebe perf=haben
 unterwerfen verb class=strong 3sg=unterwirft past=unterwarf pp=unterworfen subj2=unterwürfe perf=haben
 unterzeichnen verb class=weak pp=unterzeichnet perf=haben
 unterziehen verb class=strong 3sg=unterzieht past=unterzog pp=unterzogen subj2=unterzöge perf=haben refl=acc
+updaten verb class=weak pp=geupdatet perf=haben
 uraufführen verb class=weak sep=urauf pp=uraufgeführt perf=haben conf=80 note=only infinitive and Partizip II are in normal use
 urteilen verb class=weak pp=geurteilt perf=haben

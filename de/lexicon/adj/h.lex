@@ -15,8 +15,8 @@ heilig adj cmp=heiliger sup=heiligsten
 heimisch adj
 heimlich adj cmp=heimlicher sup=heimlichsten
 heimtückisch adj cmp=heimtückischer sup=heimtückischsten
-heiß adj cmp=heißer sup=heißesten
 heiser adj cmp=heiserer sup=heisersten
+heiß adj cmp=heißer sup=heißesten
 heiter adj cmp=heiterer sup=heitersten
 hell adj cmp=heller sup=hellsten
 herb adj cmp=herber sup=herbsten
@@ -29,6 +29,7 @@ heutig adj note=attributive only
 hiesig adj
 hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten
+hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
@@ -45,4 +46,5 @@ horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 hügelig adj cmp=hügeliger sup=hügeligsten
 humanitär adj
+humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten

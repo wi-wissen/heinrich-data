@@ -4,6 +4,7 @@ vegetarisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verantwortlich adj
+verantwortungsvoll adj
 verärgert adj
 verbindlich adj
 verbittert adj cmp=verbitterter sup=verbittertsten
@@ -14,6 +15,7 @@ verfassungsrechtlich adj
 verfassungswidrig adj
 verfeindet adj
 verfügbar adj
+vergänglich adj
 vergeblich adj
 vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
@@ -33,6 +35,7 @@ verschieden adj cmp=verschiedener sup=verschiedensten
 verschnupft adj
 verschollen adj
 verschuldet adj
+verschwommen adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
@@ -49,6 +52,8 @@ verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
+viral adj
+virtuell adj
 völkerrechtlich adj
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten
@@ -58,6 +63,7 @@ vollständig adj
 vollwertig adj
 vollziehbar adj
 voraussichtlich adj
+vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
 vorgenannt adj
 vorhanden adj

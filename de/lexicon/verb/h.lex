@@ -30,18 +30,23 @@ hereinkommen verb class=strong sep=herein 3sg=hereinkommt past=hereinkam pp=here
 herrichten verb class=weak sep=her pp=hergerichtet perf=haben
 herrschen verb class=weak pp=geherrscht perf=haben
 herstellen verb class=weak sep=her pp=hergestellt perf=haben
+herunterfahren verb class=strong sep=herunter 3sg=herunterfährt past=herunterfuhr pp=heruntergefahren subj2=herunterführe perf=haben|sein
+herunterladen verb class=strong sep=herunter 3sg=herunterlädt past=herunterlud pp=heruntergeladen subj2=herunterlüde perf=haben
 hervorbringen verb class=mixed sep=hervor 3sg=hervorbringt past=hervorbrachte pp=hervorgebracht subj2=hervorbrächte perf=haben
 hervorgehen verb class=strong sep=hervor 3sg=hervorgeht past=hervorging pp=hervorgegangen subj2=hervorginge perf=sein
 hervorheben verb class=strong sep=hervor 3sg=hervorhebt past=hervorhob pp=hervorgehoben subj2=hervorhöbe perf=haben
 hervorragen verb class=weak sep=hervor pp=hervorgeragt perf=haben
 hervorrufen verb class=strong sep=hervor 3sg=hervorruft past=hervorrief pp=hervorgerufen subj2=hervorriefe perf=haben
+hetzen verb class=weak pp=gehetzt perf=haben|sein
 heulen verb class=weak pp=geheult perf=haben
 hinausgehen verb class=strong sep=hinaus 3sg=hinausgeht past=hinausging pp=hinausgegangen subj2=hinausginge perf=sein
 hinbekommen verb class=strong sep=hin 3sg=hinbekommt past=hinbekam pp=hinbekommen subj2=hinbekäme perf=haben
 hinbringen verb class=mixed sep=hin 3sg=hinbringt past=hinbrachte pp=hingebracht subj2=hinbrächte perf=haben
 hindern verb class=weak pp=gehindert perf=haben
+hindeuten verb class=weak sep=hin pp=hingedeutet perf=haben
 hineingehen verb class=strong sep=hinein 3sg=hineingeht past=hineinging pp=hineingegangen subj2=hineinginge perf=sein
 hineinschlüpfen verb class=weak sep=hinein pp=hineingeschlüpft perf=sein
+hineinversetzen verb class=weak sep=hinein pp=hineinversetzt perf=haben refl=acc
 hinfallen verb class=strong sep=hin 3sg=hinfällt past=hinfiel pp=hingefallen subj2=hinfiele perf=sein
 hingehen verb class=strong sep=hin 3sg=hingeht past=hinging pp=hingegangen subj2=hinginge perf=sein
 hinken verb class=weak pp=gehinkt perf=haben|sein
@@ -50,12 +55,15 @@ hinnehmen verb class=strong sep=hin 3sg=hinnimmt past=hinnahm pp=hingenommen sub
 hinrichten verb class=weak sep=hin pp=hingerichtet perf=haben
 hinsetzen verb class=weak sep=hin pp=hingesetzt perf=haben refl=acc
 hinstellen verb class=weak sep=hin pp=hingestellt perf=haben refl=acc
+hinterfragen verb class=weak pp=hinterfragt perf=haben
 hinterlassen verb class=strong 3sg=hinterlässt past=hinterließ pp=hinterlassen subj2=hinterließe perf=haben
 hinterlegen verb class=weak pp=hinterlegt perf=haben
 hinunterschlingen verb class=strong sep=hinunter 3sg=hinunterschlingt past=hinunterschlang pp=hinuntergeschlungen subj2=hinunterschlänge perf=haben
 hinweisen verb class=strong sep=hin 3sg=hinweist past=hinwies pp=hingewiesen subj2=hinwiese perf=haben
 hinzufügen verb class=weak sep=hinzu pp=hinzugefügt perf=haben
+hochfahren verb class=strong sep=hoch 3sg=hochfährt past=hochfuhr pp=hochgefahren subj2=hochführe perf=haben|sein
 hochheben verb class=strong sep=hoch 3sg=hochhebt past=hochhob pp=hochgehoben subj2=hochhöbe perf=haben
+hochladen verb class=strong sep=hoch 3sg=hochlädt past=hochlud pp=hochgeladen subj2=hochlüde perf=haben
 hochziehen verb class=strong sep=hoch 3sg=hochzieht past=hochzog pp=hochgezogen subj2=hochzöge perf=haben refl=acc
 hocken verb class=weak pp=gehockt perf=haben|sein
 hoffen verb class=weak pp=gehofft perf=haben

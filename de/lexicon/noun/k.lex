@@ -2,6 +2,7 @@ Kabel noun g=n gen=Kabels pl=Kabel
 Kabine noun g=f gen=Kabine pl=Kabinen
 Kabinett noun g=n gen=Kabinetts|Kabinettes pl=Kabinette
 Kachelofen noun g=m gen=Kachelofens pl=Kachelöfen
+Kadenz noun g=f gen=Kadenz pl=Kadenzen
 Kader noun g=m gen=Kaders pl=Kader
 Käfer noun g=m gen=Käfers pl=Käfer
 Kaffee noun g=m gen=Kaffees pl=Kaffees
@@ -9,6 +10,7 @@ Käfig noun g=m gen=Käfigs pl=Käfige
 Kahn noun g=m gen=Kahns|Kahnes pl=Kähne
 Kaiser noun g=m gen=Kaisers pl=Kaiser
 Kaiserin noun g=f gen=Kaiserin pl=Kaiserinnen
+Kaiserreich noun g=n gen=Kaiserreichs|Kaiserreiches pl=Kaiserreiche
 Kakao noun g=m gen=Kakaos pl=- note=mass noun
 Kakerlake noun g=f gen=Kakerlake pl=Kakerlaken
 Kaktus noun g=m gen=Kaktus|Kaktusses pl=Kakteen|Kaktusse note=des Kaktus; Latin-type -us ending without -es
@@ -48,6 +50,7 @@ Kap noun g=n gen=Kaps pl=Kaps
 Kapazität noun g=f gen=Kapazität pl=Kapazitäten
 Kapelle noun g=f gen=Kapelle pl=Kapellen
 Kapital noun g=n gen=Kapitals pl=Kapitalien|Kapitale
+Kapitalismus noun g=m gen=Kapitalismus pl=- note=no plural
 Kapitän noun g=m gen=Kapitäns pl=Kapitäne
 Kapitel noun g=n gen=Kapitels pl=Kapitel
 Kapitulation noun g=f gen=Kapitulation pl=Kapitulationen
@@ -67,6 +70,7 @@ Karpfen noun g=m gen=Karpfens pl=Karpfen
 Karren noun g=m gen=Karrens pl=Karren
 Karriere noun g=f gen=Karriere pl=Karrieren
 Karte noun g=f gen=Karte pl=Karten
+Karteikarte noun g=f gen=Karteikarte pl=Karteikarten
 Kartoffel noun g=f gen=Kartoffel pl=Kartoffeln
 Kartoffelsalat noun g=m gen=Kartoffelsalats pl=Kartoffelsalate
 Kartoffelschäler noun g=m gen=Kartoffelschälers pl=Kartoffelschäler
@@ -79,12 +83,16 @@ Kassiererin noun g=f gen=Kassiererin pl=Kassiererinnen
 Kastanie noun g=f gen=Kastanie pl=Kastanien
 Kastell noun g=n gen=Kastells pl=Kastelle
 Kasten noun g=m gen=Kastens pl=Kästen
+Kasus noun g=m gen=Kasus pl=Kasus note=Latin loanword; genitive without -es
 Katalog noun g=m gen=Katalogs|Kataloges pl=Kataloge
+Katalysator noun g=m gen=Katalysators pl=Katalysatoren
 Katastralgemeinde noun g=f gen=Katastralgemeinde pl=Katastralgemeinden region=AT
 Katastrophe noun g=f gen=Katastrophe pl=Katastrophen
 Kategorie noun g=f gen=Kategorie pl=Kategorien
 Kater noun g=m gen=Katers pl=Kater
+Katharsis noun g=f gen=Katharsis pl=- note=no plural
 Kathedrale noun g=f gen=Kathedrale pl=Kathedralen
+Kathete noun g=f gen=Kathete pl=Katheten
 Katholik noun g=m gen=Katholiken pl=Katholiken
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
@@ -96,10 +104,14 @@ Kaufmann noun g=m gen=Kaufmanns|Kaufmannes pl=Kaufleute|Kaufmänner[rare]
 Kaugummi noun g=m|n gen=Kaugummis pl=Kaugummis
 Kaulquappe noun g=f gen=Kaulquappe pl=Kaulquappen
 Kavallerie noun g=f gen=Kavallerie pl=- note=no plural in practice
+Kegel noun g=m gen=Kegels pl=Kegel
 Kehle noun g=f gen=Kehle pl=Kehlen
+Kehrreim noun g=m gen=Kehrreims|Kehrreimes pl=Kehrreime
 Kehrschaufel noun g=f gen=Kehrschaufel pl=Kehrschaufeln
 Keiler noun g=m gen=Keilers pl=Keiler
 Keim noun g=m gen=Keimes|Keims pl=Keime
+Keimling noun g=m gen=Keimlings pl=Keimlinge
+Keimung noun g=f gen=Keimung pl=- note=no plural
 Keks noun g=m gen=Kekses pl=Kekse
 Kelch noun g=m gen=Kelchs|Kelches pl=Kelche
 Kelle noun g=f gen=Kelle pl=Kellen
@@ -129,6 +141,9 @@ Kilogramm noun g=n gen=Kilogramms pl=Kilogramm|Kilogramme[rare]
 Kilometer noun g=m gen=Kilometers pl=Kilometer
 Kilowatt noun g=n gen=Kilowatts pl=Kilowatt|Kilowatts
 Kind         noun g=n gen=Kindes|Kinds pl=Kinder
+Kindergarten noun g=m gen=Kindergartens pl=Kindergärten
+Kindergeld noun g=n gen=Kindergelds|Kindergeldes pl=- note=no plural
+Kinderprogramm noun g=n gen=Kinderprogramms pl=Kinderprogramme
 Kindheit noun g=f gen=Kindheit pl=- note=plural practically not used
 Kinn noun g=n gen=Kinns|Kinnes pl=Kinne
 Kino noun g=n gen=Kinos pl=Kinos
@@ -146,32 +161,41 @@ Klage noun g=f gen=Klage pl=Klagen
 Kläger noun g=m gen=Klägers pl=Kläger
 Klammer noun g=f gen=Klammer pl=Klammern
 Klang noun g=m gen=Klangs|Klanges pl=Klänge
+Klappentext noun g=m gen=Klappentexts|Klappentextes pl=Klappentexte
 Klapperschlange noun g=f gen=Klapperschlange pl=Klapperschlangen
 Klarheit noun g=f gen=Klarheit pl=- note=mass noun
 Klarstellung noun g=f gen=Klarstellung pl=Klarstellungen
 Klärung noun g=f gen=Klärung pl=Klärungen
 Klasse noun g=f gen=Klasse pl=Klassen
+Klassenclown noun g=m gen=Klassenclowns pl=Klassenclowns
 Klassifizierung noun g=f gen=Klassifizierung pl=Klassifizierungen
+Klassik noun g=f gen=Klassik pl=- note=no plural
 Klassiker noun g=m gen=Klassikers pl=Klassiker
 Klausur noun g=f gen=Klausur pl=Klausuren
 Klavier noun g=n gen=Klaviers pl=Klaviere
 Klebeband noun g=n gen=Klebebands|Klebebandes pl=Klebebänder
 Kleber noun g=m gen=Klebers pl=Kleber
+Klebestift noun g=m gen=Klebestifts|Klebestiftes pl=Klebestifte
 Klebstoff noun g=m gen=Klebstoffs|Klebstoffes pl=Klebstoffe
 Klee noun g=m gen=Klees pl=- note=no plural
 Kleiber noun g=m gen=Kleibers pl=Kleiber
 Kleid noun g=n gen=Kleids|Kleides pl=Kleider
 Kleidung noun g=f gen=Kleidung pl=- note=mass noun
 Kleinigkeit noun g=f gen=Kleinigkeit pl=Kleinigkeiten
+Kleinschreibung noun g=f gen=Kleinschreibung pl=- note=no plural
 Klempner noun g=m gen=Klempners pl=Klempner
 Klempnerin noun g=f gen=Klempnerin pl=Klempnerinnen
 Klima noun g=n gen=Klimas pl=Klimas|Klimate|Klimata[rare]
+Klimawandel noun g=m gen=Klimawandels pl=- note=no plural
+Klimax noun g=f gen=Klimax pl=- note=no plural
 Klinge noun g=f gen=Klinge pl=Klingen
 Klingel noun g=f gen=Klingel pl=Klingeln
 Klingelschild noun g=n gen=Klingelschilds|Klingelschildes pl=Klingelschilder
+Klingelton noun g=m gen=Klingeltons|Klingeltones pl=Klingeltöne
 Klinik noun g=f gen=Klinik pl=Kliniken
 Klinikum noun g=n gen=Klinikums pl=Kliniken|Klinika
 Klippe noun g=f gen=Klippe pl=Klippen
+Klischee noun g=n gen=Klischees pl=Klischees
 Klo noun g=n gen=Klos pl=Klos style=colloquial
 Kloß noun g=m gen=Kloßes pl=Klöße
 Kloster noun g=n gen=Klosters pl=Klöster
@@ -179,11 +203,13 @@ Klub noun g=m gen=Klubs pl=Klubs
 Klugheit noun g=f gen=Klugheit pl=- note=no plural in practice
 Knabe noun g=m gen=Knaben pl=Knaben
 Knäckebrot noun g=n gen=Knäckebrots pl=Knäckebrote
+Knappe noun g=m gen=Knappen pl=Knappen
 Knäuel noun g=n|m gen=Knäuels pl=Knäuel
 Knecht noun g=m gen=Knechts|Knechtes pl=Knechte
 Kneipe noun g=f gen=Kneipe pl=Kneipen
 Knete noun g=f gen=Knete pl=- note=mass noun
 Knie noun g=n gen=Knies pl=Knie
+Knittelvers noun g=m gen=Knittelverses pl=Knittelverse
 Knoblauch noun g=m gen=Knoblauchs pl=- note=no plural
 Knöchel noun g=m gen=Knöchels pl=Knöchel
 Knochen noun g=m gen=Knochens pl=Knochen
@@ -200,16 +226,20 @@ Köchin noun g=f gen=Köchin pl=Köchinnen
 Koffer noun g=m gen=Koffers pl=Koffer
 Kohl noun g=m gen=Kohls|Kohles pl=- note=cabbage; plural not used
 Kohle noun g=f gen=Kohle pl=Kohlen
-Kohlendioxid noun g=n gen=Kohlendioxids pl=Kohlendioxide
-Kohlenhydrat noun g=n gen=Kohlenhydrats pl=Kohlenhydrate
+Kohlendioxid noun g=n gen=Kohlendioxids|Kohlendioxides pl=- note=no plural
+Kohlenhydrat noun g=n gen=Kohlenhydrats|Kohlenhydrates pl=Kohlenhydrate
+Kohlenstoff noun g=m gen=Kohlenstoffs|Kohlenstoffes pl=- note=no plural
 Kohlrabi noun g=m gen=Kohlrabis pl=Kohlrabis
 Kokosnuss noun g=f gen=Kokosnuss pl=Kokosnüsse
 Kolibri noun g=m gen=Kolibris pl=Kolibris
 Kollege noun g=m gen=Kollegen pl=Kollegen
 Kollegin noun g=f gen=Kollegin pl=Kolleginnen
 Kölner noun g=m gen=Kölners pl=Kölner note=inhabitant of Cologne
+Kolonialismus noun g=m gen=Kolonialismus pl=- note=no plural
 Kolonie noun g=f gen=Kolonie pl=Kolonien
+Kolosseum noun g=n gen=Kolosseums pl=- note=no plural
 Kombination noun g=f gen=Kombination pl=Kombinationen
+Komet noun g=m gen=Kometen pl=Kometen
 Komiker noun g=m gen=Komikers pl=Komiker
 Komitat noun g=n gen=Komitats|Komitates pl=Komitate
 Komitee noun g=n gen=Komitees pl=Komitees
@@ -224,9 +254,12 @@ Kommode noun g=f gen=Kommode pl=Kommoden
 Kommune noun g=f gen=Kommune pl=Kommunen
 Kommunikation noun g=f gen=Kommunikation pl=Kommunikationen
 Kommunion noun g=f gen=Kommunion pl=Kommunionen
+Kommunismus noun g=m gen=Kommunismus pl=- note=no plural
 Kommunist noun g=m gen=Kommunisten pl=Kommunisten
 Komödie noun g=f gen=Komödie pl=Komödien
 Kompanie noun g=f gen=Kompanie pl=Kompanien
+Komparativ noun g=m gen=Komparativs pl=Komparative
+Kompass noun g=m gen=Kompasses pl=Kompasse
 Kompetenz noun g=f gen=Kompetenz pl=Kompetenzen
 Komplex noun g=m gen=Komplexes pl=Komplexe
 Komplexität noun g=f gen=Komplexität pl=- note=no plural in practice
@@ -251,6 +284,9 @@ Kongress noun g=m gen=Kongresses pl=Kongresse
 König noun g=m gen=Königs|Königes[archaic] pl=Könige
 Königin noun g=f gen=Königin pl=Königinnen
 Königreich noun g=n gen=Königreichs|Königreiches pl=Königreiche
+Konjugation noun g=f gen=Konjugation pl=Konjugationen
+Konjunktion noun g=f gen=Konjunktion pl=Konjunktionen
+Konjunktiv noun g=m gen=Konjunktivs pl=Konjunktive
 Konjunktur noun g=f gen=Konjunktur pl=Konjunkturen
 Konkurrent noun g=m gen=Konkurrenten pl=Konkurrenten
 Konkurrenz noun g=f gen=Konkurrenz pl=Konkurrenzen note=plural rare
@@ -260,6 +296,7 @@ Konsequenz noun g=f gen=Konsequenz pl=Konsequenzen
 Konservative noun g=m|f decl=adj note=die Konservativen (party members, adherents)
 Konservatorium noun g=n gen=Konservatoriums pl=Konservatorien
 Konsole noun g=f gen=Konsole pl=Konsolen
+Konsonant noun g=m gen=Konsonanten pl=Konsonanten
 Konstruktion noun g=f gen=Konstruktion pl=Konstruktionen
 Konsul noun g=m gen=Konsuls pl=Konsuln
 Konsum noun g=m gen=Konsums pl=- note=mass noun
@@ -268,6 +305,7 @@ Kontakt noun g=m gen=Kontakts|Kontaktes pl=Kontakte
 Kontaktlinse noun g=f gen=Kontaktlinse pl=Kontaktlinsen
 Kontext noun g=m gen=Kontextes|Kontexts pl=Kontexte
 Kontinent noun g=m gen=Kontinents|Kontinentes pl=Kontinente
+Kontinentalplatte noun g=f gen=Kontinentalplatte pl=Kontinentalplatten
 Kontinuität noun g=f gen=Kontinuität pl=- note=no plural in practice
 Konto noun g=n gen=Kontos pl=Konten|Kontos[rare]|Konti[rare]
 Kontrast noun g=m gen=Kontrasts|Kontrastes pl=Kontraste
@@ -287,10 +325,12 @@ Koordination noun g=f gen=Koordination pl=- note=no plural in practice
 Koordinierung noun g=f gen=Koordinierung pl=- note=no plural in practice
 Kopf noun g=m gen=Kopfes|Kopfs pl=Köpfe
 Köpfchen noun g=n gen=Köpfchens pl=Köpfchen
+Kopfhörer noun g=m gen=Kopfhörers pl=Kopfhörer
 Kopfweh noun g=n gen=Kopfwehs pl=- note=mass noun
 Kopie noun g=f gen=Kopie pl=Kopien
 Koppel noun g=f gen=Koppel pl=Koppeln
 Korallenriff noun g=n gen=Korallenriffs pl=Korallenriffe
+Koran noun g=m gen=Korans pl=- note=no plural
 Korb noun g=m gen=Korbes|Korbs pl=Körbe
 Körbchen noun g=n gen=Körbchens pl=Körbchen
 Korkenzieher noun g=m gen=Korkenziehers pl=Korkenzieher
@@ -335,18 +375,24 @@ Krebs noun g=m gen=Krebses pl=Krebse
 Kredit noun g=m gen=Kredits|Kredites pl=Kredite
 Kreide noun g=f gen=Kreide pl=Kreiden
 Kreis noun g=m gen=Kreises pl=Kreise
+Kreislauf noun g=m gen=Kreislaufs|Kreislaufes pl=Kreisläufe
 Kreuz noun g=n gen=Kreuzes pl=Kreuze
 Kreuzer noun g=m gen=Kreuzers pl=Kreuzer
 Kreuzotter noun g=f gen=Kreuzotter pl=Kreuzottern
+Kreuzreim noun g=m gen=Kreuzreims|Kreuzreimes pl=Kreuzreime
 Kreuzung noun g=f gen=Kreuzung pl=Kreuzungen
+Kreuzzug noun g=m gen=Kreuzzugs|Kreuzzuges pl=Kreuzzüge
 Krieg noun g=m gen=Krieges|Kriegs pl=Kriege
 Krieger noun g=m gen=Kriegers pl=Krieger
+Krimi noun g=m gen=Krimis pl=Krimis
 Kriminalität noun g=f gen=Kriminalität pl=- note=no plural
 Krippe noun g=f gen=Krippe pl=Krippen
 Krise noun g=f gen=Krise pl=Krisen
+Kristall noun g=m gen=Kristalls pl=Kristalle
 Kriterium noun g=n gen=Kriteriums pl=Kriterien
 Kritik noun g=f gen=Kritik pl=Kritiken
 Kritiker noun g=m gen=Kritikers pl=Kritiker
+Kritikerin noun g=f gen=Kritikerin pl=Kritikerinnen
 Kroketten noun g=pl
 Krokodil noun g=n gen=Krokodils pl=Krokodile
 Krone noun g=f gen=Krone pl=Kronen
@@ -363,9 +409,11 @@ Küchenwaage noun g=f gen=Küchenwaage pl=Küchenwaagen
 Kuckuck noun g=m gen=Kuckucks pl=Kuckucke
 Kuckucksuhr noun g=f gen=Kuckucksuhr pl=Kuckucksuhren
 Kugel noun g=f gen=Kugel pl=Kugeln
+Kugelschreiber noun g=m gen=Kugelschreibers pl=Kugelschreiber
 Kuh noun g=f gen=Kuh pl=Kühe
 Kuhle noun g=f gen=Kuhle pl=Kuhlen note=hollow, pit
 Küken noun g=n gen=Kükens pl=Küken
+Kuli noun g=m gen=Kulis pl=Kulis style=colloquial
 Kultur noun g=f gen=Kultur pl=Kulturen
 Kümmel noun g=m gen=Kümmels pl=- note=no plural
 Kummer noun g=m gen=Kummers pl=- note=no plural
@@ -377,6 +425,7 @@ Kundschaft noun g=f gen=Kundschaft pl=Kundschaften
 Kunst noun g=f gen=Kunst pl=Künste
 Künstler noun g=m gen=Künstlers pl=Künstler
 Künstlerin noun g=f gen=Künstlerin pl=Künstlerinnen
+Kunststoff noun g=m gen=Kunststoffs|Kunststoffes pl=Kunststoffe
 Kupfer noun g=n gen=Kupfers pl=- note=mass noun
 Kuppel noun g=f gen=Kuppel pl=Kuppeln
 Kur noun g=f gen=Kur pl=Kuren

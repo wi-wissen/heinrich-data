@@ -10,6 +10,8 @@ familiär adj cmp=familiärer sup=familiärsten
 farbig adj cmp=farbiger sup=farbigsten
 fatal adj cmp=fataler sup=fatalsten
 faul adj cmp=fauler sup=faulsten
+fehlerfrei adj
+fehlerhaft adj cmp=fehlerhafter sup=fehlerhaftesten
 feierlich adj cmp=feierlicher sup=feierlichsten
 feige adj cmp=feiger sup=feigsten
 fein adj cmp=feiner sup=feinsten
@@ -35,6 +37,7 @@ fleißig adj cmp=fleißiger sup=fleißigsten
 flexibel adj cmp=flexibler sup=flexibelsten
 flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
+föderal adj
 folgsam adj cmp=folgsamer sup=folgsamsten
 formal adj
 formell adj cmp=formeller sup=formellsten

@@ -36,6 +36,7 @@ weiterentwickeln verb class=weak sep=weiter pp=weiterentwickelt perf=haben
 weiterführen verb class=weak sep=weiter pp=weitergeführt perf=haben
 weitergeben verb class=strong sep=weiter 3sg=weitergibt past=weitergab pp=weitergegeben subj2=weitergäbe perf=haben
 weitergehen verb class=strong sep=weiter 3sg=weitergeht past=weiterging pp=weitergegangen subj2=weiterginge perf=sein
+weiterleiten verb class=weak sep=weiter pp=weitergeleitet perf=haben
 weitermachen verb class=weak sep=weiter pp=weitergemacht perf=haben
 welken verb class=weak pp=gewelkt perf=sein
 wenden verb class=mixed 3sg=wendet past=wandte|wendete pp=gewandt|gewendet subj2=wendete|wandte perf=haben
@@ -46,6 +47,7 @@ wetten verb class=weak pp=gewettet perf=haben
 wickeln verb class=weak pp=gewickelt perf=haben
 widerlegen verb class=weak pp=widerlegt perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
+widerspiegeln verb class=weak sep=wider pp=widergespiegelt perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc

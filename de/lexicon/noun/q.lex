@@ -1,3 +1,4 @@
+Quader noun g=m gen=Quaders pl=Quader
 Quadrat noun g=n gen=Quadrats|Quadrates pl=Quadrate
 Quadratkilometer noun g=m gen=Quadratkilometers pl=Quadratkilometer
 Quadratmeter noun g=m|n gen=Quadratmeters pl=Quadratmeter
@@ -19,3 +20,4 @@ Querschnitt noun g=m gen=Querschnitts|Querschnittes pl=Querschnitte
 Quiche noun g=f gen=Quiche pl=Quiches
 Quittung noun g=f gen=Quittung pl=Quittungen
 Quote noun g=f gen=Quote pl=Quoten
+Quotient noun g=m gen=Quotienten pl=Quotienten

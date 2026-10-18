@@ -11,6 +11,8 @@ Wagen noun g=m gen=Wagens pl=Wagen|Wägen[AT]
 Wahl noun g=f gen=Wahl pl=Wahlen
 Wähler noun g=m gen=Wählers pl=Wähler
 Wählerin noun g=f gen=Wählerin pl=Wählerinnen
+Wahlkampf noun g=m gen=Wahlkampfs|Wahlkampfes pl=Wahlkämpfe
+Wahlzettel noun g=m gen=Wahlzettels pl=Wahlzettel
 Wahn noun g=m gen=Wahns|Wahnes pl=- note=no plural
 Wahnsinn noun g=m gen=Wahnsinns pl=- note=no plural
 Wahrheit noun g=f gen=Wahrheit pl=Wahrheiten
@@ -90,13 +92,18 @@ Welle noun g=f gen=Welle pl=Wellen
 Wellensittich noun g=m gen=Wellensittichs|Wellensittiches pl=Wellensittiche
 Welpe noun g=m gen=Welpen pl=Welpen
 Welt noun g=f gen=Welt pl=Welten
+Weltall noun g=n gen=Weltalls pl=- note=no plural
+Weltbild noun g=n gen=Weltbilds|Weltbildes pl=Weltbilder
 Weltcup noun g=m gen=Weltcups pl=Weltcups
+Weltschmerz noun g=m gen=Weltschmerzes pl=- note=no plural
 Wende noun g=f gen=Wende pl=Wenden
 Wendung noun g=f gen=Wendung pl=Wendungen
+Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen
 Werder noun g=m gen=Werders pl=Werder note=river island
 Werft noun g=f gen=Werft pl=Werften
 Werk noun g=n gen=Werkes|Werks pl=Werke
+Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
 Wert noun g=m gen=Wertes|Werts pl=Werte
@@ -114,6 +121,7 @@ Wetterfrosch noun g=m gen=Wetterfrosches pl=Wetterfrösche
 Wettkampf noun g=m gen=Wettkampfs|Wettkampfes pl=Wettkämpfe
 WG noun g=f gen=WG pl=WGs note=abbreviation of Wohngemeinschaft
 Whisky noun g=m gen=Whiskys pl=Whiskys
+Whiteboard noun g=n gen=Whiteboards pl=Whiteboards
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
 Widder noun g=m gen=Widders pl=Widder
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
@@ -130,6 +138,7 @@ Wiege noun g=f gen=Wiege pl=Wiegen
 Wiener noun g=m gen=Wieners pl=Wiener note=inhabitant of Vienna
 Wiese noun g=f gen=Wiese pl=Wiesen
 Wiesel noun g=n gen=Wiesels pl=Wiesel
+Wikinger noun g=m gen=Wikingers pl=Wikinger
 Wild noun g=n gen=Wilds|Wildes pl=- note=game (animals)
 Wildkraut noun g=n gen=Wildkrauts pl=Wildkräuter
 Wildnis noun g=f gen=Wildnis pl=Wildnisse
@@ -139,6 +148,7 @@ Willkür noun g=f gen=Willkür pl=- note=no plural
 Wimper noun g=f gen=Wimper pl=Wimpern
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
 Windpocken noun g=pl
+Windrad noun g=n gen=Windrads|Windrades pl=Windräder
 Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
@@ -147,7 +157,9 @@ Wipfel noun g=m gen=Wipfels pl=Wipfel
 Wirbel noun g=m gen=Wirbels pl=Wirbel
 Wirbelsäule noun g=f gen=Wirbelsäule pl=Wirbelsäulen
 Wirbelsturm noun g=m gen=Wirbelsturms pl=Wirbelstürme
+Wirbeltier noun g=n gen=Wirbeltiers|Wirbeltieres pl=Wirbeltiere
 Wirklichkeit noun g=f gen=Wirklichkeit pl=Wirklichkeiten
+Wirklichkeitsform noun g=f gen=Wirklichkeitsform pl=Wirklichkeitsformen
 Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
 Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
@@ -155,14 +167,16 @@ Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
 Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
 Wirtschaftlichkeit noun g=f gen=Wirtschaftlichkeit pl=- note=no plural
+Wirtschaftswunder noun g=n gen=Wirtschaftswunders pl=- note=no plural
 Wisent noun g=m gen=Wisents pl=Wisente
 Wissen noun g=n gen=Wissens pl=- note=knowledge; mass noun
 Wissenschaft noun g=f gen=Wissenschaft pl=Wissenschaften
 Wissenschaftler noun g=m gen=Wissenschaftlers pl=Wissenschaftler
+Wissenschaftlerin noun g=f gen=Wissenschaftlerin pl=Wissenschaftlerinnen
 Witterung noun g=f gen=Witterung pl=Witterungen
 Witwe noun g=f gen=Witwe pl=Witwen
 Witz noun g=m gen=Witzes pl=Witze
-WLAN noun g=n gen=WLAN|WLANs pl=WLANs
+WLAN noun g=n gen=WLAN|WLANs pl=WLANs|WLAN
 WM noun g=f gen=WM pl=WMs note=Weltmeisterschaft; die WM
 Woche noun g=f gen=Woche pl=Wochen
 Woge noun g=f gen=Woge pl=Wogen
@@ -186,6 +200,7 @@ Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
 Wonne noun g=f gen=Wonne pl=Wonnen
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
+Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
@@ -196,6 +211,7 @@ Wunsch noun g=m gen=Wunsches|Wunschs[rare] pl=Wünsche
 Würde noun g=f gen=Würde pl=Würden
 Würdigung noun g=f gen=Würdigung pl=Würdigungen
 Wurf noun g=m gen=Wurfs|Wurfes pl=Würfe
+Würfel noun g=m gen=Würfels pl=Würfel
 Wurm noun g=m gen=Wurms|Wurmes pl=Würmer
 Wurst noun g=f gen=Wurst pl=Würste
 Würstchen noun g=n gen=Würstchens pl=Würstchen

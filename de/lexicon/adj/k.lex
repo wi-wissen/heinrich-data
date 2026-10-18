@@ -1,3 +1,4 @@
+kabellos adj
 kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
 kalt adj cmp=kälter sup=kältesten
@@ -9,6 +10,7 @@ katholisch adj
 kaufmännisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kinderlos adj
+kindgerecht adj cmp=kindgerechter sup=kindgerechtesten
 kindisch adj cmp=kindischer sup=kindischsten
 kindlich adj cmp=kindlicher sup=kindlichsten
 kirchlich adj
@@ -17,6 +19,7 @@ klasse adj indecl
 klassisch adj
 klebrig adj cmp=klebriger sup=klebrigsten
 klein        adj cmp=kleiner sup=kleinsten
+klimatisch adj
 klinisch adj
 klug adj cmp=klüger sup=klügsten
 knallig adj cmp=knalliger sup=knalligsten
@@ -31,6 +34,7 @@ kommunistisch adj
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
+kongruent adj
 königlich adj
 konkret adj cmp=konkreter sup=konkretesten
 konsequent adj cmp=konsequenter sup=konsequentesten
@@ -40,6 +44,7 @@ konstruktiv adj cmp=konstruktiver sup=konstruktivsten
 kontinuierlich adj cmp=kontinuierlicher sup=kontinuierlichsten
 kontrovers adj
 konventionell adj cmp=konventioneller sup=konventionellsten
+konzentriert adj cmp=konzentrierter sup=konzentriertesten
 körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
 kostbar adj cmp=kostbarer sup=kostbarsten
@@ -56,6 +61,7 @@ kriminell adj
 kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj
 krümelig adj cmp=krümeliger sup=krümeligsten
+kubisch adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
 kulturell adj
@@ -65,6 +71,7 @@ künstlich adj cmp=künstlicher sup=künstlichsten
 kurdisch adj
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
+kurzgefasst adj
 kurzhaarig adj
 kurzzeitig adj
 kuschelig adj cmp=kuscheliger sup=kuscheligsten

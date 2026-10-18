@@ -27,6 +27,7 @@ festschreiben verb class=strong sep=fest 3sg=festschreibt past=festschrieb pp=fe
 festsetzen verb class=weak sep=fest pp=festgesetzt perf=haben
 feststellen verb class=weak sep=fest pp=festgestellt perf=haben
 fiebern verb class=weak pp=gefiebert perf=haben
+filmen verb class=weak pp=gefilmt perf=haben
 finanzieren verb class=weak pp=finanziert perf=haben refl=acc
 finden       verb class=strong 3sg=findet past=fand pp=gefunden subj2=fände perf=haben
 fixieren verb class=weak pp=fixiert perf=haben
@@ -38,9 +39,11 @@ fliehen verb class=strong 3sg=flieht past=floh pp=geflohen subj2=flöhe perf=sei
 fließen verb class=strong 3sg=fließt past=floss pp=geflossen subj2=flösse perf=sein
 flirten verb class=weak pp=geflirtet perf=haben
 flüchten verb class=weak pp=geflüchtet perf=sein|haben
+flunkern verb class=weak pp=geflunkert perf=haben
 flüstern verb class=weak pp=geflüstert perf=haben
 föhnen verb class=weak pp=gefönt perf=haben refl=acc
 folgen verb class=weak pp=gefolgt perf=sein
+folgern verb class=weak pp=gefolgert perf=haben
 fordern verb class=weak pp=gefordert perf=haben
 fördern verb class=weak pp=gefördert perf=haben
 formen verb class=weak pp=geformt perf=haben
@@ -50,6 +53,7 @@ fortfahren verb class=strong sep=fort 3sg=fortfährt past=fortfuhr pp=fortgefahr
 fortführen verb class=weak sep=fort pp=fortgeführt perf=haben
 fortlaufen verb class=strong sep=fort 3sg=fortläuft past=fortlief pp=fortgelaufen subj2=fortliefe perf=sein
 fortsetzen verb class=weak sep=fort pp=fortgesetzt perf=haben
+fotografieren verb class=weak pp=fotografiert perf=haben
 fragen verb class=weak past=fragte|frug[archaic] pp=gefragt subj2=fragte|früge[archaic] perf=haben refl=acc
 freigeben verb class=strong sep=frei 3sg=freigibt past=freigab pp=freigegeben subj2=freigäbe perf=haben
 freilassen verb class=strong sep=frei 3sg=freilässt past=freiließ pp=freigelassen subj2=freiließe perf=haben

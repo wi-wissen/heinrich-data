@@ -67,6 +67,7 @@ beherbergen verb class=weak pp=beherbergt perf=haben
 beherrschen verb class=weak refl=acc pp=beherrscht perf=haben
 behindern verb class=weak pp=behindert perf=haben
 beibehalten verb class=strong sep=bei 3sg=beibehält past=beibehielt pp=beibehalten subj2=beibehielte perf=haben
+beibringen verb class=mixed sep=bei 3sg=beibringt past=beibrachte pp=beigebracht subj2=beibrächte perf=haben
 beichten verb class=weak pp=gebeichtet perf=haben
 beifügen verb class=weak sep=bei pp=beigefügt perf=haben
 beilegen verb class=weak sep=bei pp=beigelegt perf=haben
@@ -82,9 +83,11 @@ beklagen verb class=weak refl=acc pp=beklagt perf=haben
 bekleben verb class=weak pp=beklebt perf=haben
 bekleiden verb class=weak pp=bekleidet perf=haben
 bekommen      verb class=strong 3sg=bekommt past=bekam pp=bekommen subj2=bekäme perf=haben
+bekräftigen verb class=weak pp=bekräftigt perf=haben
 beladen verb class=strong 3sg=belädt past=belud pp=beladen subj2=belüde perf=haben
 belassen verb class=strong 3sg=belässt past=beließ pp=belassen subj2=beließe perf=haben
 belasten verb class=weak pp=belastet perf=haben
+belästigen verb class=weak pp=belästigt perf=haben
 belaufen verb class=strong 3sg=beläuft past=belief pp=belaufen subj2=beliefe perf=haben refl=acc note=sich belaufen auf
 beleben verb class=weak pp=belebt perf=haben
 belegen       verb class=weak pp=belegt perf=haben
@@ -101,6 +104,7 @@ benachrichtigen verb class=weak pp=benachrichtigt perf=haben
 benachteiligen verb class=weak pp=benachteiligt perf=haben
 beneiden verb class=weak pp=beneidet perf=haben
 benennen      verb class=mixed 3sg=benennt past=benannte pp=benannt subj2=benennte perf=haben
+benoten verb class=weak pp=benotet perf=haben
 benötigen     verb class=weak pp=benötigt perf=haben
 benutzen      verb class=weak pp=benutzt perf=haben
 beobachten verb class=weak pp=beobachtet perf=haben
@@ -170,6 +174,7 @@ betonen verb class=weak pp=betont perf=haben
 betrachten    verb class=weak pp=betrachtet perf=haben
 betragen      verb class=strong 3sg=beträgt past=betrug pp=betragen subj2=betrüge perf=haben
 betrauen verb class=weak pp=betraut perf=haben
+betrauern verb class=weak pp=betrauert perf=haben
 beträufeln verb class=weak pp=beträufelt perf=haben
 betreffen     verb class=strong 3sg=betrifft past=betraf pp=betroffen subj2=beträfe perf=haben
 betreiben     verb class=strong 3sg=betreibt past=betrieb pp=betrieben subj2=betriebe perf=haben
@@ -202,6 +207,7 @@ bezahlen      verb class=weak pp=bezahlt perf=haben
 bezeichnen    verb class=weak pp=bezeichnet perf=haben
 bezeugen verb class=weak pp=bezeugt perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben
+bezweifeln verb class=weak pp=bezweifelt perf=haben
 bibbern verb class=weak pp=gebibbert perf=haben
 biegen verb class=strong 3sg=biegt past=bog pp=gebogen subj2=böge perf=haben|sein
 bieten        verb class=strong 3sg=bietet past=bot pp=geboten subj2=böte perf=haben
@@ -209,6 +215,7 @@ bilden verb class=weak pp=gebildet perf=haben refl=acc
 binden verb class=strong 3sg=bindet past=band pp=gebunden subj2=bände perf=haben refl=acc
 bitten        verb class=strong 3sg=bittet past=bat pp=gebeten subj2=bäte perf=haben
 blasen verb class=strong 3sg=bläst past=blies pp=geblasen subj2=bliese perf=haben
+blättern verb class=weak pp=geblättert perf=haben
 bleiben       verb class=strong 3sg=bleibt past=blieb pp=geblieben subj2=bliebe perf=sein
 blenden verb class=weak pp=geblendet perf=haben
 blicken       verb class=weak pp=geblickt perf=haben
@@ -216,6 +223,7 @@ blinzeln verb class=weak pp=geblinzelt perf=haben
 blitzen verb class=weak pp=geblitzt perf=haben
 blockieren verb class=weak pp=blockiert perf=haben
 blöken verb class=weak pp=geblökt perf=haben
+bloßstellen verb class=weak sep=bloß pp=bloßgestellt perf=haben
 blühen verb class=weak pp=geblüht perf=haben
 bluten verb class=weak pp=geblutet perf=haben
 bohren verb class=weak pp=gebohrt perf=haben
@@ -231,8 +239,10 @@ bringen       verb class=mixed 3sg=bringt past=brachte pp=gebracht subj2=brächt
 brüllen verb class=weak pp=gebrüllt perf=haben
 brummen verb class=weak pp=gebrummt perf=haben
 brüten verb class=weak pp=gebrütet perf=haben
+buchstabieren verb class=weak pp=buchstabiert perf=haben
 bücken verb class=weak pp=gebückt perf=haben refl=acc
 buddeln verb class=weak pp=gebuddelt perf=haben
+büffeln verb class=weak pp=gebüffelt perf=haben
 bügeln verb class=weak pp=gebügelt perf=haben
 bummeln verb class=weak pp=gebummelt perf=haben|sein
 bündeln verb class=weak pp=gebündelt perf=haben

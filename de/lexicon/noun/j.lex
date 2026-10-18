@@ -5,9 +5,12 @@ Jäger noun g=m gen=Jägers pl=Jäger
 Jägerin noun g=f gen=Jägerin pl=Jägerinnen
 Jaguar noun g=m gen=Jaguars pl=Jaguare
 Jahr noun g=n gen=Jahres|Jahrs[rare] pl=Jahre
+Jahreszeit noun g=f gen=Jahreszeit pl=Jahreszeiten
 Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
+Jahrtausend noun g=n gen=Jahrtausends pl=Jahrtausende
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
 Jalousie noun g=f gen=Jalousie pl=Jalousien
+Jambus noun g=m gen=Jambus pl=Jamben note=Latin loanword; genitive without -es
 Jammer noun g=m gen=Jammers pl=- note=mass noun
 Jänner noun g=m gen=Jänner|Jänners pl=- region=AT note=month name; plural not used
 Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
@@ -29,6 +32,7 @@ Jubel noun g=m gen=Jubels pl=- note=no plural
 Jubiläum noun g=n gen=Jubiläums pl=Jubiläen
 Jude noun g=m gen=Juden pl=Juden
 Judentum noun g=n gen=Judentums pl=- note=no plural in practice
+Jüdin noun g=f gen=Jüdin pl=Jüdinnen
 Judoka noun g=m gen=Judoka|Judokas pl=Judoka|Judokas note=also feminine (die Judoka)
 Jugend noun g=f gen=Jugend pl=- note=plural not used
 Jugendherberge noun g=f gen=Jugendherberge pl=Jugendherbergen note=the analyser would take Berg as head

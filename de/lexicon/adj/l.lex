@@ -25,6 +25,7 @@ lecker adj cmp=leckerer sup=leckersten
 ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
+lehrreich adj cmp=lehrreicher sup=lehrreichsten
 leicht adj cmp=leichter sup=leichtesten
 leichtgläubig adj cmp=leichtgläubiger sup=leichtgläubigsten
 leichtsinnig adj cmp=leichtsinniger sup=leichtsinnigsten
@@ -32,6 +33,9 @@ leid adj pred_only note=only predicative in leid tun, leid sein; the noun is Lei
 leidenschaftlich adj cmp=leidenschaftlicher sup=leidenschaftlichsten
 leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten
+leitend adj
+lesbar adj cmp=lesbarer sup=lesbarsten
+leserlich adj cmp=leserlicher sup=leserlichsten
 letzt adj note=not compared; attributive and nominal
 letzter adj attr_only note=der letztere (the latter); cf. letzt
 liberal adj cmp=liberaler sup=liberalsten
@@ -40,14 +44,18 @@ lieb adj cmp=lieber sup=liebsten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
 lieblich adj cmp=lieblicher sup=lieblichsten
 lila         adj indecl
+linear adj
 link adj attr_only note=attributive only; linke Hand
 literarisch adj
+live adj indecl
 löchrig adj cmp=löchriger sup=löchrigsten
 locker adj cmp=lockerer sup=lockersten
 lockig adj cmp=lockiger sup=lockigsten
 logisch adj cmp=logischer sup=logischsten
 lokal adj
 los adj note=predicative, e.g. etwas los sein
+löslich adj
 lustig adj cmp=lustiger sup=lustigsten
 lutherisch adj
 luxuriös adj cmp=luxuriöser sup=luxuriösesten
+lyrisch adj

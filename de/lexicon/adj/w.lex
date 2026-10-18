@@ -1,3 +1,4 @@
+waagerecht adj
 wach adj cmp=wacher sup=wachsten
 wachsam adj cmp=wachsamer sup=wachsamsten
 wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten
@@ -26,6 +27,7 @@ wesentlich adj cmp=wesentlicher sup=wesentlichsten
 westlich adj note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
+widersprüchlich adj
 wild adj cmp=wilder sup=wildesten
 willig adj cmp=williger sup=willigsten
 willkommen adj
@@ -47,6 +49,7 @@ wund adj cmp=wunder sup=wundesten
 wunderbar adj cmp=wunderbarer sup=wunderbarsten
 wunderlich adj cmp=wunderlicher sup=wunderlichsten
 wünschenswert adj
+würdevoll adj
 würdig adj cmp=würdiger sup=würdigsten
 württembergisch adj
 würzig adj cmp=würziger sup=würzigsten

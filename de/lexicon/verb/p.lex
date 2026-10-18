@@ -2,6 +2,7 @@ packen verb class=weak pp=gepackt perf=haben
 panieren verb class=weak pp=paniert perf=haben
 passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
+pauken verb class=weak pp=gepaukt perf=haben
 peitschen verb class=weak pp=gepeitscht perf=haben|sein
 pendeln verb class=weak pp=gependelt perf=haben|sein
 petzen verb class=weak pp=gepetzt perf=haben style=colloquial
@@ -22,15 +23,19 @@ plündern verb class=weak pp=geplündert perf=haben
 pochen verb class=weak pp=gepocht perf=haben
 pökeln verb class=weak pp=gepökelt perf=haben
 positionieren verb class=weak pp=positioniert perf=haben
+posten verb class=weak pp=gepostet perf=haben
 prägen verb class=weak pp=geprägt perf=haben
 praktizieren verb class=weak pp=praktiziert perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 prasseln verb class=weak pp=geprasselt perf=haben|sein
 pressen verb class=weak pp=gepresst perf=haben
+proben verb class=weak pp=geprobt perf=haben
 probieren verb class=weak pp=probiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben
 profitieren verb class=weak pp=profitiert perf=haben
+programmieren verb class=weak pp=programmiert perf=haben
 promovieren verb class=weak pp=promoviert perf=haben
+protokollieren verb class=weak pp=protokolliert perf=haben
 prüfen verb class=weak pp=geprüft perf=haben
 prügeln verb class=weak pp=geprügelt perf=haben refl=acc
 publizieren verb class=weak pp=publiziert perf=haben

@@ -45,6 +45,7 @@ SPÖ propn g=f gen=SPÖ pl=- note=Sozialdemokratische Partei Österreichs
 Spree propn g=f gen=Spree pl=- note=river
 SS propn g=f gen=SS pl=- note=Schutzstaffel
 Stade propn g=n gen=Stades pl=- note=city
+Stasi propn g=f gen=Stasi pl=- note=proper name; no plural
 Steiermark propn g=f gen=Steiermark pl=- note=proper name, no plural
 Stettin propn g=n gen=Stettins pl=- note=city
 Stockholm propn g=n gen=Stockholms pl=- note=proper name, no plural
