@@ -8,5 +8,5 @@ leise        adj cmp=leiser sup=leisesten
 letzt adj note=not compared; attributive and nominal
 lieb adj cmp=lieber sup=liebsten
 lila         adj indecl
-link adj note=attributive only; linke Hand
+link adj attr_only note=die linke Hand
 los adj note=predicative, e.g. etwas los sein

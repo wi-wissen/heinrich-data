@@ -21,4 +21,4 @@ ständig adj
 stark adj cmp=stärker sup=stärksten
 still adj cmp=stiller sup=stillsten
 stolz adj cmp=stolzer sup=stolzesten
-südlich adj note=also a genitive preposition
+südlich adj note=also a genitive preposition (closed/prepositions.lex)

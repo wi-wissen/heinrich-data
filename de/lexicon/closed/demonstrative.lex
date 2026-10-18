@@ -11,6 +11,10 @@ dieser       det type=dem decl=dieser n=dieses|dies[rare],dieses,diesem,dieses|d
 dieser       pron type=dem decl=dieser n=dieses|dies,dieses,diesem,dieses|dies
              note=dies is common as a pronoun (dies ist richtig)
 jener        det type=dem decl=dieser
+letzterer    det type=dem decl=dieser adj=weak|strong note=the latter (der letztere Fall, letzteres Argument)
+letzterer    pron type=dem decl=dieser note=the latter (letzterer ist besser)
+ersterer     det type=dem decl=dieser adj=weak|strong note=the former (der erstere Fall)
+ersterer     pron type=dem decl=dieser note=the former (ersterer ist besser)
 jener        pron type=dem decl=dieser
 derjenige    det type=dem adj=weak
              m=derjenige,desjenigen,demjenigen,denjenigen

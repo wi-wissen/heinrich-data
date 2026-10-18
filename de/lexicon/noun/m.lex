@@ -43,7 +43,7 @@ Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitte noun g=f gen=Mitte pl=- note=plural not used
 Mitteilung noun g=f gen=Mitteilung pl=Mitteilungen
 Mittel noun g=n gen=Mittels pl=Mittel
-Mittwoch noun g=m sg=Mittwoch,Mittwochs|Mittwoch,Mittwoch,Mittwoch pl=Mittwoche
+Mittwoch noun g=m gen=Mittwochs|Mittwoch pl=Mittwoche
 Modell noun g=n gen=Modells|Modelles pl=Modelle
 Möglichkeit noun g=f gen=Möglichkeit pl=Möglichkeiten
 Moment noun g=m gen=Moments|Momentes pl=Momente

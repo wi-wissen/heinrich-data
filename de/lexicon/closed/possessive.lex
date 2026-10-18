@@ -7,7 +7,7 @@
 
 # ---------------------------------------------------------------- determiners
 mein         det type=poss person=1 decl=ein
-dein         det type=poss person=2 decl=ein
+dein         det type=poss person=2 letter decl=ein
 sein         det type=poss person=3 decl=ein note=possessor masculine or neuter
 ihr          det type=poss person=3 decl=ein note=possessor feminine or plural
 Ihr          det type=poss person=3 polite decl=ein note=polite address (Ihr Buch)
@@ -16,7 +16,7 @@ unser        det type=poss person=1 adj=mixed
              f=unsere|unsre[rare],unserer|unsrer[rare],unserer|unsrer[rare],unsere|unsre[rare]
              n=unser,unseres|unsres[rare],unserem|unsrem[rare]|unserm[rare],unser
              pl=unsere|unsre[rare],unserer|unsrer[rare],unseren|unsren[rare]|unsern[rare],unsere|unsre[rare]
-euer         det type=poss person=2 adj=mixed
+euer         det type=poss person=2 letter adj=mixed
              m=euer,eures|eueres[rare],eurem|euerem[rare],euren|eueren[rare]
              f=eure|euere[rare],eurer|euerer[rare],eurer|euerer[rare],eure|euere[rare]
              n=euer,eures|eueres[rare],eurem|euerem[rare],euer
@@ -24,7 +24,7 @@ euer         det type=poss person=2 adj=mixed
 
 # ---------------------------------------------------------------- pronouns
 mein         pron type=poss person=1 decl=einer
-dein         pron type=poss person=2 decl=einer
+dein         pron type=poss person=2 letter decl=einer
 sein         pron type=poss person=3 decl=einer
 ihr          pron type=poss person=3 decl=einer sense=poss
 Ihr          pron type=poss person=3 polite decl=einer
@@ -33,7 +33,7 @@ unser        pron type=poss person=1
              f=unsere|unsre[rare],unserer|unsrer[rare],unserer|unsrer[rare],unsere|unsre[rare]
              n=unseres|unsres[rare],unseres|unsres[rare],unserem|unsrem[rare]|unserm[rare],unseres|unsres[rare]
              pl=unsere|unsre[rare],unserer|unsrer[rare],unseren|unsren[rare]|unsern[rare],unsere|unsre[rare]
-euer         pron type=poss person=2
+euer         pron type=poss person=2 letter
              m=eurer|euerer[rare],eures|eueres[rare],eurem|euerem[rare],euren|eueren[rare]
              f=eure|euere[rare],eurer|euerer[rare],eurer|euerer[rare],eure|euere[rare]
              n=eures|eueres[rare],eures|eueres[rare],eurem|euerem[rare],eures|eueres[rare]
