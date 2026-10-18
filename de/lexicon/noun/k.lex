@@ -2,6 +2,7 @@ Kaiser noun g=m gen=Kaisers pl=Kaiser
 Kammer noun g=f gen=Kammer pl=Kammern
 Kampf noun g=m gen=Kampfes|Kampfs pl=Kämpfe
 Kanton noun g=m gen=Kantons pl=Kantone
+Kanzler noun g=m gen=Kanzlers pl=Kanzler
 Kapelle noun g=f gen=Kapelle pl=Kapellen
 Kapitän noun g=m gen=Kapitäns pl=Kapitäne
 Kapitel noun g=n gen=Kapitels pl=Kapitel

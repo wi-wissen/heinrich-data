@@ -12,13 +12,14 @@ Mark noun g=f gen=Mark pl=Mark sense=currency
 Mark noun g=n gen=Marks pl=- sense=marrow note=Knochenmark; plural not used
 Markt noun g=m gen=Marktes|Markts pl=Märkte
 März noun g=m sg=März,März|Märzes,März,März pl=- note=month name; plural not used
-Maschine noun g=f gen=Maschine pl=Maschinen
 Maß noun g=n gen=Maßes pl=Maße
-Masse noun g=f gen=Masse pl=Massen
+Maschine noun g=f gen=Maschine pl=Maschinen
 Maßgabe noun g=f gen=Maßgabe pl=Maßgaben note=chiefly nach Maßgabe
 Maßnahme noun g=f gen=Maßnahme pl=Maßnahmen
+Masse noun g=f gen=Masse pl=Massen
 Material noun g=n gen=Materials pl=Materialien
 Mauer noun g=f gen=Mauer pl=Mauern
+Medaille noun g=f gen=Medaille pl=Medaillen
 Medium noun g=n gen=Mediums pl=Medien
 Medizin noun g=f gen=Medizin pl=Medizinen note=plural Medizinen (medicines) is rare
 Meer noun g=n gen=Meeres|Meers pl=Meere
