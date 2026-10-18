@@ -1,5 +1,6 @@
 E-Bike noun g=n gen=E-Bikes pl=E-Bikes
 E-Book noun g=n gen=E-Books pl=E-Books
+E-Government noun g=n gen=E-Governments pl=- note=mass noun
 E-Mail noun g=f gen=E-Mail pl=E-Mails
 E-Scooter noun g=m gen=E-Scooters pl=E-Scooter
 Ebbe noun g=f gen=Ebbe pl=Ebben
@@ -25,6 +26,7 @@ Ehepaar noun g=n gen=Ehepaars|Ehepaares pl=Ehepaare
 Eheschließung noun g=f gen=Eheschließung pl=Eheschließungen
 Ehre noun g=f gen=Ehre pl=Ehren
 Ehrenamt noun g=n gen=Ehrenamts|Ehrenamtes pl=Ehrenämter
+Ehrenamtliche noun g=m|f decl=adj
 Ehrfurcht noun g=f gen=Ehrfurcht pl=- note=no plural
 Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
 Ehrlichkeit noun g=f gen=Ehrlichkeit pl=- note=no plural
@@ -42,8 +44,10 @@ Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly 
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eigentümerin noun g=f gen=Eigentümerin pl=Eigentümerinnen
 Eignung noun g=f gen=Eignung pl=Eignungen
+Eilbedürftigkeit noun g=f gen=Eilbedürftigkeit pl=- note=mass noun
 Eile noun g=f gen=Eile pl=- note=no plural
 Eimer noun g=m gen=Eimers pl=Eimer
+Einarbeitung noun g=f gen=Einarbeitung pl=Einarbeitungen
 Einbahnstraße noun g=f gen=Einbahnstraße pl=Einbahnstraßen
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
 Einbeziehung noun g=f gen=Einbeziehung pl=- note=no plural
@@ -66,24 +70,32 @@ Einflussnahme noun g=f gen=Einflussnahme pl=Einflussnahmen
 Einfuhr noun g=f gen=Einfuhr pl=Einfuhren
 Einführung noun g=f gen=Einführung pl=Einführungen
 Eingabe noun g=f gen=Eingabe pl=Eingaben
+Eingabetaste noun g=f gen=Eingabetaste pl=Eingabetasten
 Eingang noun g=m gen=Eingangs|Einganges pl=Eingänge
 Eingeborene noun g=m|f decl=adj
 Eingemeindung noun g=f gen=Eingemeindung pl=Eingemeindungen
 Eingeweide noun g=pl
 Eingliederung noun g=f gen=Eingliederung pl=- note=no plural
 Eingriff noun g=m gen=Eingriffs|Eingriffes pl=Eingriffe
+Eingruppierung noun g=f gen=Eingruppierung pl=Eingruppierungen
 Einhaltung noun g=f gen=Einhaltung pl=- note=no plural in use
 Einheimische noun g=m|f decl=adj
 Einheit noun g=f gen=Einheit pl=Einheiten
+Einholung noun g=f gen=Einholung pl=Einholungen
 Einigkeit noun g=f gen=Einigkeit pl=- note=no plural
 Einigung noun g=f gen=Einigung pl=Einigungen
+Einkauf noun g=m gen=Einkaufs|Einkaufes pl=Einkäufe
+Einkäufer noun g=m gen=Einkäufers pl=Einkäufer
+Einkäuferin noun g=f gen=Einkäuferin pl=Einkäuferinnen
 Einkaufszentrum noun g=n gen=Einkaufszentrums pl=Einkaufszentren
 Einklang noun g=m gen=Einklangs|Einklanges pl=- note=no plural
 Einkommen noun g=n gen=Einkommens pl=Einkommen
 Einkünfte noun g=pl
 Einladung noun g=f gen=Einladung pl=Einladungen
 Einlage noun g=f gen=Einlage pl=Einlagen
+Einlegung noun g=f gen=Einlegung pl=Einlegungen
 Einleitung noun g=f gen=Einleitung pl=Einleitungen
+Einlösung noun g=f gen=Einlösung pl=Einlösungen
 Einmarsch noun g=m gen=Einmarschs|Einmarsches pl=Einmärsche
 Einmündung noun g=f gen=Einmündung pl=Einmündungen
 Einnahme noun g=f gen=Einnahme pl=Einnahmen
@@ -103,6 +115,7 @@ Einschulung noun g=f gen=Einschulung pl=Einschulungen
 Einsetzung noun g=f gen=Einsetzung pl=- note=no plural
 Einsicht noun g=f gen=Einsicht pl=Einsichten
 Einsichtnahme noun g=f gen=Einsichtnahme pl=- note=no plural
+Einsparung noun g=f gen=Einsparung pl=Einsparungen
 Einspruch noun g=m gen=Einspruchs|Einspruches pl=Einsprüche
 Einstellung noun g=f gen=Einstellung pl=Einstellungen
 Einstieg noun g=m gen=Einstiegs|Einstieges pl=Einstiege
@@ -129,6 +142,7 @@ Einzahl noun g=f gen=Einzahl pl=- note=no plural
 Einzel noun g=n gen=Einzels pl=Einzel note=tennis singles
 Einzelfall noun g=m gen=Einzelfalls|Einzelfalles pl=Einzelfälle
 Einzelgänger noun g=m gen=Einzelgängers pl=Einzelgänger
+Einzelgängerin noun g=f gen=Einzelgängerin pl=Einzelgängerinnen
 Einzelhandel noun g=m gen=Einzelhandels pl=- note=no plural
 Einzelheit noun g=f gen=Einzelheit pl=Einzelheiten
 Einzelperson noun g=f gen=Einzelperson pl=Einzelpersonen
@@ -186,6 +200,7 @@ Emotion noun g=f gen=Emotion pl=Emotionen
 Empathie noun g=f gen=Empathie pl=- note=no plural
 Empfang noun g=m gen=Empfangs|Empfanges pl=Empfänge
 Empfänger noun g=m gen=Empfängers pl=Empfänger
+Empfängerin noun g=f gen=Empfängerin pl=Empfängerinnen
 Empfehlung noun g=f gen=Empfehlung pl=Empfehlungen
 Empfindlichkeit noun g=f gen=Empfindlichkeit pl=Empfindlichkeiten
 Empfindung noun g=f gen=Empfindung pl=Empfindungen
@@ -215,6 +230,7 @@ Enteignung noun g=f gen=Enteignung pl=Enteignungen
 Entertainment noun g=n gen=Entertainments pl=- conf=85 note=loanword; no plural
 Entfaltung noun g=f gen=Entfaltung pl=- note=no plural
 Entfernung noun g=f gen=Entfernung pl=Entfernungen
+Entfristung noun g=f gen=Entfristung pl=Entfristungen
 Entführung noun g=f gen=Entführung pl=Entführungen
 Entgegennahme noun g=f gen=Entgegennahme pl=- note=no plural
 Entgelt noun g=n gen=Entgelts|Entgeltes pl=Entgelte
@@ -223,6 +239,7 @@ Enthusiasmus noun g=m gen=Enthusiasmus pl=- note=no plural
 Entlassung noun g=f gen=Entlassung pl=Entlassungen
 Entlastung noun g=f gen=Entlastung pl=Entlastungen
 Entnahme noun g=f gen=Entnahme pl=Entnahmen
+Entrichtung noun g=f gen=Entrichtung pl=Entrichtungen
 Entrüstung noun g=f gen=Entrüstung pl=- note=no plural
 Entschädigung noun g=f gen=Entschädigung pl=Entschädigungen
 Entscheidung noun g=f gen=Entscheidung pl=Entscheidungen
@@ -241,6 +258,7 @@ Entwicklerin noun g=f gen=Entwicklerin pl=Entwicklerinnen
 Entwicklung noun g=f gen=Entwicklung pl=Entwicklungen
 Entwurf noun g=m gen=Entwurfs|Entwurfes pl=Entwürfe
 Entziehung noun g=f gen=Entziehung pl=Entziehungen
+Entzug noun g=m gen=Entzugs|Entzuges pl=Entzüge
 Entzündung noun g=f gen=Entzündung pl=Entzündungen
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
 Epik noun g=f gen=Epik pl=- note=no plural
@@ -323,6 +341,7 @@ Erpressung noun g=f gen=Erpressung pl=Erpressungen
 Erprobung noun g=f gen=Erprobung pl=Erprobungen
 Erreger noun g=m gen=Erregers pl=Erreger
 Erregung noun g=f gen=Erregung pl=Erregungen
+Erreichbarkeit noun g=f gen=Erreichbarkeit pl=Erreichbarkeiten
 Erreichung noun g=f gen=Erreichung pl=- note=no plural
 Errichtung noun g=f gen=Errichtung pl=- note=no plural in use
 Errungenschaft noun g=f gen=Errungenschaft pl=Errungenschaften
@@ -350,6 +369,7 @@ Erwartung noun g=f gen=Erwartung pl=Erwartungen
 Erweiterung noun g=f gen=Erweiterung pl=Erweiterungen
 Erwerb noun g=m gen=Erwerbs|Erwerbes pl=Erwerbe note=plural rare
 Erwerber noun g=m gen=Erwerbers pl=Erwerber
+Erwerberin noun g=f gen=Erwerberin pl=Erwerberinnen
 Erwerbsminderung noun g=f gen=Erwerbsminderung pl=- note=no plural
 Erwerbstätigkeit noun g=f gen=Erwerbstätigkeit pl=- note=no plural
 Erz noun g=n gen=Erzes pl=Erze
@@ -415,6 +435,8 @@ Expertise noun g=f gen=Expertise pl=Expertisen
 Explosion noun g=f gen=Explosion pl=Explosionen
 Exponent noun g=m gen=Exponenten pl=Exponenten
 Export noun g=m gen=Exports|Exportes pl=Exporte
+Exporteur noun g=m gen=Exporteurs pl=Exporteure
+Exporteurin noun g=f gen=Exporteurin pl=Exporteurinnen
 Exposition noun g=f gen=Exposition pl=Expositionen
 Expressionismus noun g=m gen=Expressionismus pl=- note=no plural
 Extremismus noun g=m gen=Extremismus pl=- note=no plural

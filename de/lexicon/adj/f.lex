@@ -1,4 +1,5 @@
 fabelhaft adj cmp=fabelhafter sup=fabelhaftesten
+fachkundig adj cmp=fachkundiger sup=fachkundigsten
 fachlich adj
 fade adj cmp=fader sup=fadesten
 fähig adj cmp=fähiger sup=fähigsten
@@ -66,6 +67,7 @@ freundlich adj cmp=freundlicher sup=freundlichsten
 freundschaftlich adj
 friedlich adj cmp=friedlicher sup=friedlichsten
 frisch adj cmp=frischer sup=frischesten
+fristgemäß adj
 froh adj cmp=froher sup=frohesten
 fröhlich adj cmp=fröhlicher sup=fröhlichsten
 fromm adj cmp=frömmer|frommer sup=frömmsten|frommsten

@@ -34,6 +34,7 @@ einseitig adj
 einstig adj attr_only
 einstimmig adj
 eintönig adj cmp=eintöniger sup=eintönigsten
+einvernehmlich adj
 einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
@@ -60,6 +61,7 @@ enorm adj
 entbehrlich adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
+entgeltlich adj
 entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten

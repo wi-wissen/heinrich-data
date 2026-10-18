@@ -37,6 +37,7 @@ relativ adj
 relevant adj cmp=relevanter sup=relevantesten
 religiös adj cmp=religiöser sup=religiösesten
 renommiert adj cmp=renommierter sup=renommiertesten
+rentabel adj cmp=rentabler sup=rentabelsten
 repräsentativ adj cmp=repräsentativer sup=repräsentativsten
 republikanisch adj
 respektlos adj cmp=respektloser sup=respektlosesten
@@ -57,6 +58,7 @@ rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj
 rötlich adj
 rückgängig adj
+rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj
 rund adj cmp=runder sup=rundesten

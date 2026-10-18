@@ -11,3 +11,4 @@ jubeln verb class=weak pp=gejubelt perf=haben
 jubilieren verb class=weak pp=jubiliert perf=haben
 juchzen verb class=weak pp=gejuchzt perf=haben
 jucken verb class=weak pp=gejuckt perf=haben refl=acc
+justieren verb class=weak pp=justiert perf=haben

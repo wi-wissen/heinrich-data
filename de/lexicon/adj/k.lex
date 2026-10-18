@@ -11,6 +11,7 @@ katholisch adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
+kennzeichnungspflichtig adj
 kinderlos adj
 kindgerecht adj cmp=kindgerechter sup=kindgerechtesten
 kindisch adj cmp=kindischer sup=kindischsten
@@ -29,15 +30,20 @@ knallig adj cmp=knalliger sup=knalligsten
 knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
+kollaborativ adj
 kollektiv adj
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
+kommissarisch adj
 kommunal adj
+kommunikativ adj cmp=kommunikativer sup=kommunikativsten
 kommunistisch adj
 kompatibel adj cmp=kompatibler sup=kompatibelsten
+kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
+konform adj note=mit etwas konform gehen; base of datenschutzkonform, gesetzeskonform
 kongruent adj
 königlich adj
 konkret adj cmp=konkreter sup=konkretesten
@@ -54,6 +60,7 @@ körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
 kostbar adj cmp=kostbarer sup=kostbarsten
 kostenlos adj
+kostenpflichtig adj
 köstlich adj cmp=köstlicher sup=köstlichsten
 kostspielig adj cmp=kostspieliger sup=kostspieligsten
 kräftig adj cmp=kräftiger sup=kräftigsten
@@ -73,13 +80,16 @@ krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
 kubisch adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
+kulant adj cmp=kulanter sup=kulantesten
 kulturell adj
+kündbar adj
 künftig adj
 künstlerisch adj
 künstlich adj cmp=künstlicher sup=künstlichsten
 kunterbunt adj cmp=kunterbunter sup=kunterbuntesten
 kurdisch adj
 kurios adj cmp=kurioser sup=kuriosesten
+kursiv adj
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
 kurzgefasst adj

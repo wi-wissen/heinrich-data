@@ -1,4 +1,5 @@
 kacken verb class=weak pp=gekackt perf=haben style=colloquial
+kalkulieren verb class=weak pp=kalkuliert perf=haben
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
@@ -67,14 +68,21 @@ kombinieren verb class=weak pp=kombiniert perf=haben
 kommandieren verb class=weak pp=kommandiert perf=haben
 kommen       verb class=strong 3sg=kommt|kömmt[old] past=kam pp=gekommen subj2=käme perf=sein
 kommentieren verb class=weak pp=kommentiert perf=haben
+kommissionieren verb class=weak pp=kommissioniert perf=haben
 kommunizieren verb class=weak pp=kommuniziert perf=haben
 kompensieren verb class=weak pp=kompensiert perf=haben
 komponieren verb class=weak pp=komponiert perf=haben
+komprimieren verb class=weak pp=komprimiert perf=haben
 kondensieren verb class=weak pp=kondensiert perf=haben|sein
 kondolieren verb class=weak pp=kondoliert perf=haben
+konfigurieren verb class=weak pp=konfiguriert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
+konkretisieren verb class=weak pp=konkretisiert perf=haben
+konsolidieren verb class=weak pp=konsolidiert perf=haben
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
+kontaktieren verb class=weak pp=kontaktiert perf=haben
+kontieren verb class=weak pp=kontiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
 konzentrieren verb class=weak pp=konzentriert perf=haben refl=acc
 konzipieren verb class=weak pp=konzipiert perf=haben
@@ -82,6 +90,7 @@ kooperieren verb class=weak pp=kooperiert perf=haben
 koordinieren verb class=weak pp=koordiniert perf=haben
 köpfen verb class=weak pp=geköpft perf=haben
 kopieren verb class=weak pp=kopiert perf=haben
+koppeln verb class=weak pp=gekoppelt perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
 kotzen verb class=weak pp=gekotzt perf=haben style=colloquial
@@ -92,6 +101,8 @@ krähen verb class=weak pp=gekräht perf=haben
 krakeln verb class=weak pp=gekrakelt perf=haben
 kränkeln verb class=weak pp=gekränkelt perf=haben
 kränken verb class=weak pp=gekränkt perf=haben
+krankmelden verb class=weak sep=krank pp=krankgemeldet perf=haben refl=acc note=sich krankmelden; also written krank melden
+krankschreiben verb class=strong sep=krank 3sg=krankschreibt past=krankschrieb pp=krankgeschrieben subj2=krankschriebe perf=haben note=also written krank schreiben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kraulen verb class=weak pp=gekrault perf=haben
 kreischen verb class=weak pp=gekreischt perf=haben

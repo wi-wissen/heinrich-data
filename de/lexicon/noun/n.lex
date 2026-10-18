@@ -3,10 +3,13 @@ Nachahmung noun g=f gen=Nachahmung pl=Nachahmungen
 Nachbar noun g=m gen=Nachbarn|Nachbars pl=Nachbarn
 Nachbarin noun g=f gen=Nachbarin pl=Nachbarinnen
 Nachbarschaft noun g=f gen=Nachbarschaft pl=Nachbarschaften
+Nachbesserung noun g=f gen=Nachbesserung pl=Nachbesserungen
 Nachdruck noun g=m gen=Nachdrucks|Nachdruckes pl=Nachdrucke note=emphasis (no plural) and reprint (plural Nachdrucke)
+Nacherfüllung noun g=f gen=Nacherfüllung pl=Nacherfüllungen
 Nachfolge noun g=f gen=Nachfolge pl=- note=no plural
 Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
 Nachfolgerin noun g=f gen=Nachfolgerin pl=Nachfolgerinnen
+Nachforderung noun g=f gen=Nachforderung pl=Nachforderungen
 Nachfrage noun g=f gen=Nachfrage pl=Nachfragen
 Nachhaltigkeit noun g=f gen=Nachhaltigkeit pl=- note=no plural
 Nachhauseweg noun g=m gen=Nachhausewegs|Nachhauseweges pl=Nachhausewege
@@ -22,9 +25,12 @@ Nächstenliebe noun g=f gen=Nächstenliebe pl=- note=no plural
 Nacht noun g=f gen=Nacht pl=Nächte
 Nachteil noun g=m gen=Nachteils|Nachteiles pl=Nachteile
 Nachtigall noun g=f gen=Nachtigall pl=Nachtigallen
+Nachtrag noun g=m gen=Nachtrags|Nachtrages pl=Nachträge
+Nachverfolgung noun g=f gen=Nachverfolgung pl=Nachverfolgungen
 Nachweis noun g=m gen=Nachweises pl=Nachweise
 Nachwort noun g=n gen=Nachworts|Nachwortes pl=Nachworte
 Nachwuchs noun g=m gen=Nachwuchses pl=- note=no plural
+Nachzahlung noun g=f gen=Nachzahlung pl=Nachzahlungen
 Nacken noun g=m gen=Nackens pl=Nacken
 Nadel noun g=f gen=Nadel pl=Nadeln
 Nadelöhr noun g=n gen=Nadelöhrs|Nadelöhres pl=Nadelöhre
@@ -79,6 +85,7 @@ Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nest noun g=n gen=Nests|Nestes pl=Nester
+Networking noun g=n gen=Networkings pl=- note=mass noun
 Netz noun g=n gen=Netzes pl=Netze
 Neubau noun g=m gen=Neubaus pl=Neubauten
 Neuerung noun g=f gen=Neuerung pl=Neuerungen
@@ -117,6 +124,7 @@ Norm noun g=f gen=Norm pl=Normen
 Normalität noun g=f gen=Normalität pl=- note=no plural
 Norweger noun g=m gen=Norwegers pl=Norweger
 Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
+Not noun g=f gen=Not pl=Nöte
 Notar noun g=m gen=Notars pl=Notare
 Notarin noun g=f gen=Notarin pl=Notarinnen
 Note noun g=f gen=Note pl=Noten

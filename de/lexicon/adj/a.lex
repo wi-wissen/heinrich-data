@@ -1,10 +1,12 @@
 abenteuerlich adj cmp=abenteuerlicher sup=abenteuerlichsten
+abgabepflichtig adj
 abgelegen adj cmp=abgelegener sup=abgelegensten
 abgeleitet adj
 abgelenkt adj
 abhängig      adj cmp=abhängiger sup=abhängigsten
 abhold adj pred_only style=archaic note=jemandem abhold sein (averse to)
 ablenkend adj
+abrechenbar adj
 absehbar adj
 absichtlich adj
 absolut adj
@@ -19,6 +21,7 @@ aggressiv adj cmp=aggressiver sup=aggressivsten
 ägyptisch adj
 ähnlich       adj cmp=ähnlicher sup=ähnlichsten
 akademisch adj
+aktenkundig adj
 aktiv         adj cmp=aktiver sup=aktivsten
 aktuell       adj cmp=aktueller sup=aktuellsten
 akut adj cmp=akuter sup=akutesten
@@ -57,6 +60,7 @@ anhänglich adj cmp=anhänglicher sup=anhänglichsten
 annähernd adj
 anonym adj cmp=anonymer sup=anonymsten
 anorganisch adj
+anrechenbar adj
 ansässig adj
 anschaulich adj cmp=anschaulicher sup=anschaulichsten
 ansichtig adj pred_only style=archaic note=jemandes ansichtig werden (catch sight of)
@@ -66,11 +70,14 @@ anstrengend adj cmp=anstrengender sup=anstrengendsten
 antarktisch adj
 anteilig adj
 antik adj
+antragsgemäß adj
 anwendbar adj
 anwesend adj
+anzeigepflichtig adj
 apostolisch adj
 appellativ adj
 appetitlich adj cmp=appetitlicher sup=appetitlichsten
+approbiert adj
 arabisch adj
 arbeitslos adj
 archäologisch adj
@@ -98,15 +105,19 @@ aufmerksam    adj cmp=aufmerksamer sup=aufmerksamsten
 aufrecht adj
 aufregend adj cmp=aufregender sup=aufregendsten
 aufrichtig adj cmp=aufrichtiger sup=aufrichtigsten
+auftragsgemäß adj
 aufwändig adj cmp=aufwändiger sup=aufwändigsten
 aufwendig adj cmp=aufwendiger sup=aufwendigsten
 augenblicklich adj
 augenscheinlich adj
 ausdrücklich  adj cmp=ausdrücklicher sup=ausdrücklichsten
+außerdienstlich adj
+außergerichtlich adj
 ausführlich adj cmp=ausführlicher sup=ausführlichsten
 ausgedehnt adj cmp=ausgedehnter sup=ausgedehntesten
 ausgeglichen adj cmp=ausgeglichener sup=ausgeglichensten
 ausgeprägt adj cmp=ausgeprägter sup=ausgeprägtesten
+auskunftspflichtig adj
 ausländisch adj
 ausnahmslos adj
 ausreichend adj cmp=ausreichender sup=ausreichendsten

@@ -17,6 +17,7 @@ verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
 vereinzelt adj
+verfassungsgemäß adj
 verfassungsrechtlich adj
 verfassungswidrig adj
 verfeindet adj
@@ -49,15 +50,19 @@ verschollen adj
 verschuldet adj
 verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
+versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
 vertikal adj
 vertraglich adj
+vertragsgemäß adj
+vertragswidrig adj
 vertraulich adj cmp=vertraulicher sup=vertraulichsten
 verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
+verwitwet adj
 verwunderlich adj
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj
@@ -72,6 +77,7 @@ völkerrechtlich adj
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
+volljährig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
 vollwertig adj
@@ -90,6 +96,7 @@ vornehm adj cmp=vornehmer sup=vornehmsten
 vorrangig adj
 vorrätig adj
 vorsätzlich adj
+vorschriftsgemäß adj
 vorsichtig adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten
 vortrefflich adj

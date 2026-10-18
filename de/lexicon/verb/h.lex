@@ -199,6 +199,7 @@ herunterreißen verb class=strong sep=herunter 3sg=herunterreißt past=herunterr
 herunterrutschen verb class=weak sep=herunter pp=heruntergerutscht perf=sein
 herunterschauen verb class=weak sep=herunter pp=heruntergeschaut perf=haben
 herunterschlucken verb class=weak sep=herunter pp=heruntergeschluckt perf=haben
+herunterscrollen verb class=weak sep=herunter pp=heruntergescrollt perf=haben
 heruntersehen verb class=strong sep=herunter 3sg=heruntersieht past=heruntersah,heruntersahst|heruntersahest[archaic],heruntersah,heruntersahen,heruntersaht,heruntersahen subj2=heruntersähe pp=heruntergesehen perf=haben
 herunterspielen verb class=weak sep=herunter pp=heruntergespielt perf=haben
 herunterspringen verb class=strong sep=herunter 3sg=herunterspringt past=heruntersprang subj2=herunterspränge pp=heruntergesprungen perf=sein
@@ -365,6 +366,7 @@ hochrechnen verb class=weak sep=hoch pp=hochgerechnet perf=haben
 hochschauen verb class=weak sep=hoch pp=hochgeschaut perf=haben
 hochschießen verb class=strong sep=hoch 3sg=hochschießt past=hochschoss subj2=hochschösse pp=hochgeschossen perf=sein
 hochschrauben verb class=weak sep=hoch pp=hochgeschraubt perf=haben
+hochscrollen verb class=weak sep=hoch pp=hochgescrollt perf=haben
 hochsehen verb class=strong sep=hoch 3sg=hochsieht past=hochsah,hochsahst|hochsahest[archaic],hochsah,hochsahen,hochsaht,hochsahen subj2=hochsähe pp=hochgesehen perf=haben
 hochspringen verb class=strong sep=hoch 3sg=hochspringt past=hochsprang subj2=hochspränge pp=hochgesprungen perf=sein
 hochstapeln verb class=weak sep=hoch pp=hochgestapelt perf=haben
@@ -378,10 +380,12 @@ hocken verb class=weak pp=gehockt perf=haben|sein
 hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
 holpern verb class=weak pp=geholpert perf=haben|sein
+honorieren verb class=weak pp=honoriert perf=haben
 hoppeln verb class=weak pp=gehoppelt perf=sein
 hopsen verb class=weak pp=gehopst perf=sein style=colloquial
 horchen verb class=weak pp=gehorcht perf=haben
 hören verb class=weak pp=gehört perf=haben
+hospitieren verb class=weak pp=hospitiert perf=haben
 hudeln verb class=weak pp=gehudelt perf=haben
 huldigen verb class=weak pp=gehuldigt perf=haben
 hüllen verb class=weak pp=gehüllt perf=haben

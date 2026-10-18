@@ -1,12 +1,15 @@
+abarbeiten verb class=weak sep=ab pp=abgearbeitet perf=haben
 abbauen verb class=weak sep=ab pp=abgebaut perf=haben
 abbeißen verb class=strong sep=ab 3sg=abbeißt past=abbiss pp=abgebissen subj2=abbisse perf=haben
 abberufen verb class=strong sep=ab 3sg=abberuft past=abberief pp=abberufen subj2=abberiefe perf=haben
+abbestellen verb class=weak sep=ab pp=abbestellt perf=haben
 abbiegen verb class=strong sep=ab 3sg=abbiegt past=abbog subj2=abböge pp=abgebogen perf=sein
 abbilden verb class=weak sep=ab pp=abgebildet perf=haben
 abblitzen verb class=weak sep=ab pp=abgeblitzt perf=sein
 abbrechen verb class=strong sep=ab 3sg=abbricht past=abbrach pp=abgebrochen subj2=abbräche perf=haben|sein
 abbremsen verb class=weak sep=ab pp=abgebremst perf=haben
 abbrennen verb class=mixed sep=ab 3sg=abbrennt past=abbrannte subj2=abbrennte pp=abgebrannt perf=haben|sein
+abbuchen verb class=weak sep=ab pp=abgebucht perf=haben
 abdecken verb class=weak sep=ab pp=abgedeckt perf=haben
 abdichten verb class=weak sep=ab pp=abgedichtet perf=haben
 abdrehen verb class=weak sep=ab pp=abgedreht perf=haben|sein
@@ -18,6 +21,7 @@ abfangen verb class=strong sep=ab 3sg=abfängt past=abfing pp=abgefangen subj2=a
 abfärben verb class=weak sep=ab pp=abgefärbt perf=haben
 abfeiern verb class=weak sep=ab pp=abgefeiert perf=haben
 abfeuern verb class=weak sep=ab pp=abgefeuert perf=haben
+abfinden verb class=strong sep=ab 3sg=abfindet past=abfand pp=abgefunden subj2=abfände perf=haben note=jemanden abfinden; sich mit etwas abfinden
 abflauen verb class=weak sep=ab pp=abgeflaut perf=sein
 abfliegen verb class=strong sep=ab 3sg=abfliegt past=abflog pp=abgeflogen subj2=abflöge perf=haben|sein
 abfließen verb class=strong sep=ab 3sg=abfließt past=abfloss subj2=abflösse pp=abgeflossen perf=sein
@@ -26,6 +30,7 @@ abfüllen verb class=weak sep=ab pp=abgefüllt perf=haben
 abgeben       verb class=strong sep=ab 3sg=abgibt past=abgab pp=abgegeben subj2=abgäbe perf=haben
 abgewöhnen verb class=weak sep=ab pp=abgewöhnt perf=haben refl=dat
 abgießen verb class=strong sep=ab 3sg=abgießt past=abgoss pp=abgegossen subj2=abgösse perf=haben
+abgleichen verb class=strong sep=ab 3sg=abgleicht past=abglich pp=abgeglichen subj2=abgliche perf=haben
 abgleiten verb class=strong sep=ab 3sg=abgleitet past=abglitt subj2=abglitte pp=abgeglitten perf=sein
 abgrasen verb class=weak sep=ab pp=abgegrast perf=haben
 abgucken verb class=weak sep=ab pp=abgeguckt perf=haben
@@ -36,6 +41,7 @@ abhängen verb class=weak sep=ab pp=abgehängt perf=haben sense=transitive note=
 abhärten verb class=weak sep=ab pp=abgehärtet perf=haben refl=acc
 abhauen verb class=strong sep=ab 3sg=abhaut past=abhaute|abhieb[archaic] subj2=abhaute|abhiebe[archaic] pp=abgehauen perf=sein
 abheben verb class=strong sep=ab 3sg=abhebt past=abhob pp=abgehoben subj2=abhöbe perf=haben|sein
+abheften verb class=weak sep=ab pp=abgeheftet perf=haben
 abhelfen verb class=strong sep=ab 3sg=abhilft past=abhalf pp=abgeholfen subj2=abhülfe|abhälfe[rare] perf=haben
 abhetzen verb class=weak sep=ab pp=abgehetzt perf=haben refl=acc
 abholen       verb class=weak sep=ab pp=abgeholt perf=haben
@@ -44,6 +50,7 @@ abhören verb class=weak sep=ab pp=abgehört perf=haben
 abkassieren verb class=weak pp=abkassiert perf=haben
 abkauen verb class=weak sep=ab pp=abgekaut perf=haben
 abkaufen verb class=weak sep=ab pp=abgekauft perf=haben
+abklären verb class=weak sep=ab pp=abgeklärt perf=haben
 abkleben verb class=weak sep=ab pp=abgeklebt perf=haben
 abklopfen verb class=weak sep=ab pp=abgeklopft perf=haben
 abknabbern verb class=weak sep=ab pp=abgeknabbert perf=haben
@@ -67,12 +74,15 @@ ablöschen verb class=weak sep=ab pp=abgelöscht perf=haben
 ablösen verb class=weak sep=ab pp=abgelöst perf=haben
 abmachen verb class=weak sep=ab pp=abgemacht perf=haben
 abmagern verb class=weak sep=ab pp=abgemagert perf=sein
+abmahnen verb class=weak sep=ab pp=abgemahnt perf=haben
 abmalen verb class=weak sep=ab pp=abgemalt perf=haben
 abmelden verb class=weak sep=ab pp=abgemeldet perf=haben
 abmessen verb class=strong sep=ab 3sg=abmisst past=abmaß subj2=abmäße pp=abgemessen perf=haben
 abmühen verb class=weak sep=ab pp=abgemüht perf=haben refl=acc
 abnehmen verb class=strong sep=ab 3sg=abnimmt past=abnahm pp=abgenommen subj2=abnähme perf=haben
 abnutzen verb class=weak sep=ab pp=abgenutzt perf=haben
+abonnieren verb class=weak pp=abonniert perf=haben
+abordnen verb class=weak sep=ab pp=abgeordnet perf=haben
 abpacken verb class=weak pp=abgepackt perf=haben sep=ab
 abpassen verb class=weak sep=ab pp=abgepasst perf=haben
 abpfeifen verb class=strong sep=ab 3sg=abpfeift past=abpfiff subj2=abpfiffe pp=abgepfiffen perf=haben
@@ -130,6 +140,7 @@ absichern verb class=weak sep=ab pp=abgesichert perf=haben
 absitzen verb class=strong sep=ab 3sg=absitzt past=absaß subj2=absäße pp=abgesessen perf=haben
 absolvieren   verb class=weak pp=absolviert perf=haben
 absondern verb class=weak sep=ab pp=abgesondert perf=haben
+abspeichern verb class=weak sep=ab pp=abgespeichert perf=haben
 absperren verb class=weak sep=ab pp=abgesperrt perf=haben
 abspielen verb class=weak sep=ab pp=abgespielt perf=haben
 absprechen verb class=strong sep=ab 3sg=abspricht past=absprach subj2=abspräche pp=abgesprochen perf=haben
@@ -162,6 +173,7 @@ abwehren verb class=weak sep=ab pp=abgewehrt perf=haben
 abweichen     verb class=strong sep=ab 3sg=abweicht past=abwich pp=abgewichen subj2=abwiche perf=sein
 abweisen verb class=strong sep=ab 3sg=abweist past=abwies pp=abgewiesen subj2=abwiese perf=haben
 abwenden verb class=mixed sep=ab 3sg=abwendet past=abwandte|abwendete pp=abgewandt|abgewendet subj2=abwendete|abwandte perf=haben
+abwerben verb class=strong sep=ab 3sg=abwirbt past=abwarb pp=abgeworben subj2=abwürbe perf=haben
 abwerfen verb class=strong sep=ab 3sg=abwirft past=abwarf subj2=abwürfe pp=abgeworfen perf=haben
 abwerten verb class=weak sep=ab pp=abgewertet perf=haben
 abwickeln verb class=weak sep=ab pp=abgewickelt perf=haben
@@ -181,11 +193,13 @@ abzwacken verb class=weak sep=ab pp=abgezwackt perf=haben
 abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 achten verb class=weak pp=geachtet perf=haben
 addieren verb class=weak pp=addiert perf=haben
+administrieren verb class=weak pp=administriert perf=haben
 adoptieren verb class=weak pp=adoptiert perf=haben
 agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative
 ahnen verb class=weak pp=geahnt perf=haben
+akquirieren verb class=weak pp=akquiriert perf=haben
 aktivieren verb class=weak pp=aktiviert perf=haben
 aktualisieren verb class=weak pp=aktualisiert perf=haben
 akzeptieren verb class=weak pp=akzeptiert perf=haben
@@ -198,6 +212,7 @@ anbauen verb class=weak sep=an pp=angebaut perf=haben
 anbeißen verb class=strong sep=an 3sg=anbeißt past=anbiss pp=angebissen subj2=anbisse perf=haben
 anbelangen verb class=weak pp=anbelangt perf=haben note=was ... anbelangt; inseparable
 anbellen verb class=weak pp=angebellt perf=haben sep=an
+anberaumen verb class=weak sep=an pp=anberaumt perf=haben note=einen Termin anberaumen
 anbeten verb class=weak sep=an pp=angebetet perf=haben
 anbieten      verb class=strong sep=an 3sg=anbietet past=anbot pp=angeboten subj2=anböte perf=haben
 anbinden verb class=strong sep=an 3sg=anbindet past=anband pp=angebunden subj2=anbände perf=haben
@@ -231,6 +246,7 @@ angehören verb class=weak sep=an pp=angehört perf=haben note=with dative
 angelangen verb class=weak sep=an pp=angelangt perf=sein
 angeln verb class=weak pp=geangelt perf=haben
 angewöhnen verb class=weak sep=an pp=angewöhnt perf=haben refl=dat
+angleichen verb class=strong sep=an 3sg=angleicht past=anglich pp=angeglichen subj2=angliche perf=haben
 angliedern verb class=weak sep=an pp=angegliedert perf=haben
 anglotzen verb class=weak sep=an pp=angeglotzt perf=haben
 angreifen verb class=strong sep=an 3sg=angreift past=angriff pp=angegriffen subj2=angriffe perf=haben
@@ -267,10 +283,12 @@ anlegen       verb class=weak sep=an pp=angelegt perf=haben
 anlehnen verb class=weak sep=an pp=angelehnt perf=haben refl=acc
 anleinen verb class=weak sep=an pp=angeleint perf=haben
 anleuchten verb class=weak sep=an pp=angeleuchtet perf=haben
+anliegen verb class=strong sep=an 3sg=anliegt past=anlag pp=angelegen subj2=anläge perf=haben note=eng anliegen; anliegend (enclosed)
 anlocken verb class=weak sep=an pp=angelockt perf=haben
 anlügen verb class=strong sep=an 3sg=anlügt past=anlog subj2=anlöge pp=angelogen perf=haben
 anmachen verb class=weak sep=an pp=angemacht perf=haben
 anmahnen verb class=weak sep=an pp=angemahnt perf=haben
+anmailen verb class=weak sep=an pp=angemailt perf=haben style=colloquial
 anmalen verb class=weak sep=an pp=angemalt perf=haben refl=acc
 anmeckern verb class=weak sep=an pp=angemeckert perf=haben
 anmelden verb class=weak sep=an refl=acc pp=angemeldet perf=haben
@@ -282,6 +300,8 @@ anpacken verb class=weak sep=an pp=angepackt perf=haben
 anpassen verb class=weak sep=an refl=acc pp=angepasst perf=haben
 anpfeifen verb class=strong sep=an 3sg=anpfeift past=anpfiff pp=angepfiffen subj2=anpfiffe perf=haben
 anpflanzen verb class=weak pp=angepflanzt perf=haben sep=an
+anpingen verb class=weak sep=an pp=angepingt perf=haben style=colloquial
+anpinnen verb class=weak sep=an pp=angepinnt perf=haben
 anpinseln verb class=weak sep=an pp=angepinselt perf=haben
 anpöbeln verb class=weak sep=an pp=angepöbelt perf=haben
 anprangern verb class=weak sep=an pp=angeprangert perf=haben
@@ -351,6 +371,7 @@ anwärmen verb class=weak sep=an pp=angewärmt perf=haben
 anwedeln verb class=weak sep=an pp=angewedelt perf=haben
 anweisen      verb class=strong sep=an 3sg=anweist past=anwies pp=angewiesen subj2=anwiese perf=haben
 anwenden      verb class=mixed sep=an 3sg=anwendet past=anwandte|anwendete pp=angewandt|angewendet subj2=anwendete|anwandte perf=haben
+anwerben verb class=strong sep=an 3sg=anwirbt past=anwarb pp=angeworben subj2=anwürbe perf=haben
 anwerfen verb class=strong sep=an 3sg=anwirft past=anwarf subj2=anwürfe pp=angeworfen perf=haben
 anzahlen verb class=weak sep=an pp=angezahlt perf=haben
 anzeichnen verb class=weak sep=an pp=angezeichnet perf=haben
@@ -363,9 +384,11 @@ appellieren verb class=weak pp=appelliert perf=haben
 applaudieren verb class=weak pp=applaudiert perf=haben
 apportieren verb class=weak pp=apportiert perf=haben
 arbeiten      verb class=weak pp=gearbeitet perf=haben
+archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
+attestieren verb class=weak pp=attestiert perf=haben
 aufatmen verb class=weak sep=auf pp=aufgeatmet perf=haben
 aufbacken verb class=strong sep=auf 3sg=aufbäckt|aufbackt past=aufbackte|aufbuk[archaic] pp=aufgebacken subj2=aufbackte|aufbüke[archaic] perf=haben
 aufbauen      verb class=weak sep=auf pp=aufgebaut perf=haben
@@ -437,6 +460,7 @@ aufmuntern verb class=weak sep=auf pp=aufgemuntert perf=haben
 aufnähen verb class=weak sep=auf pp=aufgenäht perf=haben
 aufnehmen     verb class=strong sep=auf 3sg=aufnimmt past=aufnahm pp=aufgenommen subj2=aufnähme perf=haben
 aufpassen verb class=weak sep=auf pp=aufgepasst perf=haben
+aufpoppen verb class=weak sep=auf pp=aufgepoppt perf=sein
 aufprallen verb class=weak sep=auf pp=aufgeprallt perf=sein
 aufpumpen verb class=weak sep=auf pp=aufgepumpt perf=haben
 aufraffen verb class=weak sep=auf pp=aufgerafft perf=haben refl=acc
@@ -512,8 +536,10 @@ aufzwingen verb class=strong sep=auf 3sg=aufzwingt past=aufzwang subj2=aufzwäng
 ausarbeiten verb class=weak sep=aus pp=ausgearbeitet perf=haben
 ausbauen verb class=weak sep=aus pp=ausgebaut perf=haben
 ausbessern verb class=weak sep=aus pp=ausgebessert perf=haben
+ausbezahlen verb class=weak sep=aus pp=ausbezahlt perf=haben
 ausbilden verb class=weak sep=aus pp=ausgebildet perf=haben
 ausblasen verb class=strong sep=aus 3sg=ausbläst past=ausblies pp=ausgeblasen subj2=ausbliese perf=haben
+ausblenden verb class=weak sep=aus pp=ausgeblendet perf=haben
 ausbooten verb class=weak sep=aus pp=ausgebootet perf=haben
 ausbrechen verb class=strong sep=aus 3sg=ausbricht past=ausbrach pp=ausgebrochen subj2=ausbräche perf=haben|sein
 ausbreiten verb class=weak sep=aus pp=ausgebreitet perf=haben refl=acc
@@ -527,7 +553,9 @@ auseinandersetzen verb class=weak sep=auseinander refl=acc pp=auseinandergesetzt
 ausessen verb class=strong sep=aus 3sg=ausisst past=ausaß subj2=ausäße pp=ausgegessen perf=haben
 ausfallen verb class=strong sep=aus 3sg=ausfällt past=ausfiel pp=ausgefallen subj2=ausfiele perf=sein
 ausfegen verb class=weak sep=aus pp=ausgefegt perf=haben
+ausfertigen verb class=weak sep=aus pp=ausgefertigt perf=haben
 ausflippen verb class=weak sep=aus pp=ausgeflippt perf=sein
+ausformulieren verb class=weak sep=aus pp=ausformuliert perf=haben
 ausfragen verb class=weak sep=aus pp=ausgefragt perf=haben
 ausfransen verb class=weak sep=aus pp=ausgefranst perf=sein
 ausführen     verb class=weak sep=aus pp=ausgeführt perf=haben
@@ -540,7 +568,10 @@ ausgleichen verb class=strong sep=aus 3sg=ausgleicht past=ausglich pp=ausgeglich
 ausgraben verb class=strong sep=aus 3sg=ausgräbt past=ausgrub pp=ausgegraben subj2=ausgrübe perf=haben
 ausgrenzen verb class=weak sep=aus pp=ausgegrenzt perf=haben
 aushalten verb class=strong sep=aus 3sg=aushält past=aushielt pp=ausgehalten subj2=aushielte perf=haben
+aushandeln verb class=weak sep=aus pp=ausgehandelt perf=haben
 aushändigen verb class=weak sep=aus pp=ausgehändigt perf=haben
+aushängen verb class=strong sep=aus 3sg=aushängt past=aushing pp=ausgehangen subj2=aushinge perf=haben sense=intransitive note=der Plan hängt aus (is posted)
+aushängen verb class=weak sep=aus pp=ausgehängt perf=haben sense=transitive note=einen Plan aushängen; eine Tür aushängen
 aushecken verb class=weak sep=aus pp=ausgeheckt perf=haben
 aushelfen verb class=strong sep=aus 3sg=aushilft past=aushalf subj2=aushülfe|aushälfe[rare] pp=ausgeholfen perf=haben
 aushöhlen verb class=weak sep=aus pp=ausgehöhlt perf=haben
@@ -556,7 +587,9 @@ auskundschaften verb class=weak sep=aus pp=ausgekundschaftet perf=haben
 auskurieren verb class=weak sep=aus pp=auskuriert perf=haben
 auslachen verb class=weak sep=aus pp=ausgelacht perf=haben
 ausladen verb class=strong sep=aus 3sg=auslädt past=auslud pp=ausgeladen subj2=auslüde perf=haben
+auslagern verb class=weak sep=aus pp=ausgelagert perf=haben
 auslassen verb class=strong sep=aus 3sg=auslässt past=ausließ pp=ausgelassen subj2=ausließe perf=haben refl=acc
+auslasten verb class=weak sep=aus pp=ausgelastet perf=haben
 auslaufen verb class=strong sep=aus 3sg=ausläuft past=auslief pp=ausgelaufen subj2=ausliefe perf=sein
 ausleeren verb class=weak sep=aus pp=ausgeleert perf=haben
 auslegen verb class=weak sep=aus pp=ausgelegt perf=haben
@@ -565,6 +598,7 @@ ausliefern verb class=weak sep=aus pp=ausgeliefert perf=haben
 auslöffeln verb class=weak sep=aus pp=ausgelöffelt perf=haben
 ausloggen verb class=weak sep=aus pp=ausgeloggt perf=haben refl=acc
 auslösen verb class=weak sep=aus pp=ausgelöst perf=haben
+ausloten verb class=weak sep=aus pp=ausgelotet perf=haben
 auslüften verb class=weak sep=aus pp=ausgelüftet perf=haben
 ausmachen verb class=weak sep=aus pp=ausgemacht perf=haben
 ausmalen verb class=weak sep=aus pp=ausgemalt perf=haben
@@ -604,6 +638,7 @@ ausschlafen verb class=strong sep=aus 3sg=ausschläft past=ausschlief pp=ausgesc
 ausschlagen verb class=strong sep=aus 3sg=ausschlägt past=ausschlug subj2=ausschlüge pp=ausgeschlagen perf=haben|sein
 ausschließen  verb class=strong sep=aus 3sg=ausschließt past=ausschloss pp=ausgeschlossen subj2=ausschlösse perf=haben
 ausschneiden verb class=strong sep=aus 3sg=ausschneidet past=ausschnitt pp=ausgeschnitten subj2=ausschnitte perf=haben
+ausschöpfen verb class=weak sep=aus pp=ausgeschöpft perf=haben
 ausschreiben verb class=strong sep=aus 3sg=ausschreibt past=ausschrieb pp=ausgeschrieben subj2=ausschriebe perf=haben
 ausschütteln verb class=weak sep=aus pp=ausgeschüttelt perf=haben
 ausschütten verb class=weak sep=aus pp=ausgeschüttet perf=haben
@@ -620,8 +655,10 @@ ausstaffieren verb class=weak sep=aus pp=ausstaffiert perf=haben
 ausstatten    verb class=weak sep=aus pp=ausgestattet perf=haben
 ausstechen verb class=strong sep=aus 3sg=aussticht past=ausstach pp=ausgestochen subj2=ausstäche perf=haben
 ausstecken verb class=weak sep=aus pp=ausgesteckt perf=haben
+ausstehen verb class=strong sep=aus 3sg=aussteht past=ausstand pp=ausgestanden subj2=ausstände|ausstünde perf=haben note=eine Antwort steht noch aus; jemanden nicht ausstehen können
 aussteigen verb class=strong sep=aus 3sg=aussteigt past=ausstieg pp=ausgestiegen subj2=ausstiege perf=sein
 ausstellen verb class=weak sep=aus pp=ausgestellt perf=haben
+ausstempeln verb class=weak sep=aus pp=ausgestempelt perf=haben
 aussterben verb class=strong sep=aus 3sg=ausstirbt past=ausstarb pp=ausgestorben subj2=ausstürbe perf=sein
 ausstopfen verb class=weak sep=aus pp=ausgestopft perf=haben
 ausstoßen verb class=strong sep=aus 3sg=ausstößt past=ausstieß pp=ausgestoßen subj2=ausstieße perf=haben
@@ -656,5 +693,6 @@ auszeichnen   verb class=weak sep=aus pp=ausgezeichnet perf=haben
 ausziehen verb class=strong sep=aus 3sg=auszieht past=auszog pp=ausgezogen subj2=auszöge perf=haben|sein refl=acc
 auszischen verb class=weak sep=aus pp=ausgezischt perf=haben
 auszupfen verb class=weak sep=aus pp=ausgezupft perf=haben
+authentifizieren verb class=weak pp=authentifiziert perf=haben
 automatisieren verb class=weak pp=automatisiert perf=haben
 avancieren verb class=weak pp=avanciert perf=sein

@@ -1,3 +1,4 @@
+IBAN noun g=f gen=IBAN pl=IBANs note=International Bank Account Number
 ICE noun g=m gen=ICEs pl=ICEs
 Icon noun g=n gen=Icons pl=Icons
 Ideal noun g=n gen=Ideals pl=Ideale
@@ -9,6 +10,7 @@ Ideologie noun g=f gen=Ideologie pl=Ideologien
 Idol noun g=n gen=Idols|Idoles pl=Idole
 Igel noun g=m gen=Igels pl=Igel
 Iglu noun g=m gen=Iglus pl=Iglus
+IHK noun g=f gen=IHK pl=IHKs note=Industrie- und Handelskammer
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
 Illustrator noun g=m gen=Illustrators pl=Illustratoren
@@ -26,10 +28,15 @@ Impfstoff noun g=m gen=Impfstoffs|Impfstoffes pl=Impfstoffe
 Impfung noun g=f gen=Impfung pl=Impfungen
 Implementierung noun g=f gen=Implementierung pl=Implementierungen
 Import noun g=m gen=Imports pl=Importe
+Importeur noun g=m gen=Importeurs pl=Importeure
+Importeurin noun g=f gen=Importeurin pl=Importeurinnen
+Impressum noun g=n gen=Impressums pl=Impressen
 Impuls noun g=m gen=Impulses pl=Impulse
 Inanspruchnahme noun g=f gen=Inanspruchnahme pl=- note=mass noun
+Inaugenscheinnahme noun g=f gen=Inaugenscheinnahme pl=Inaugenscheinnahmen
 Inbetriebnahme noun g=f gen=Inbetriebnahme pl=Inbetriebnahmen
 Inder noun g=m gen=Inders pl=Inder
+Inderin noun g=f gen=Inderin pl=Inderinnen
 Index noun g=m gen=Index|Indexes pl=Indizes|Indexe
 Indianer noun g=m gen=Indianers pl=Indianer
 Indianerin noun g=f gen=Indianerin pl=Indianerinnen
@@ -61,6 +68,8 @@ Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
 Initiative noun g=f gen=Initiative pl=Initiativen
 Initiator noun g=m gen=Initiators pl=Initiatoren
+Initiatorin noun g=f gen=Initiatorin pl=Initiatorinnen
+Inkasso noun g=n gen=Inkassos pl=Inkassos|Inkassi
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
 Inland noun g=n gen=Inlands|Inlandes pl=- note=plural not used
@@ -69,6 +78,8 @@ Inlineskates noun g=pl
 Innenwelt noun g=f gen=Innenwelt pl=Innenwelten
 Innere noun g=n sg=Innere,Inneren|Innern,Inneren|Innern,Innere pl=- note=das Innere (adjectival noun); the variant Innern is common
 Innovation noun g=f gen=Innovation pl=Innovationen
+Innung noun g=f gen=Innung pl=Innungen
+Input noun g=m|n gen=Inputs pl=Inputs
 Inquisition noun g=f gen=Inquisition pl=- note=no plural
 Insasse noun g=m gen=Insassen pl=Insassen
 Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
@@ -79,6 +90,7 @@ Insolenz noun g=f gen=Insolenz pl=Insolenzen
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
 Inspektion noun g=f gen=Inspektion pl=Inspektionen
 Inspektor noun g=m gen=Inspektors pl=Inspektoren
+Inspektorin noun g=f gen=Inspektorin pl=Inspektorinnen
 Inspiration noun g=f gen=Inspiration pl=Inspirationen
 Installateur noun g=m gen=Installateurs pl=Installateure
 Installateurin noun g=f gen=Installateurin pl=Installateurinnen
@@ -111,9 +123,12 @@ Interpretation noun g=f gen=Interpretation pl=Interpretationen
 Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
+Intranet noun g=n gen=Intranets pl=Intranets
 Invasion noun g=f gen=Invasion pl=Invasionen
 Inventar noun g=n gen=Inventars pl=Inventare
+Inventur noun g=f gen=Inventur pl=Inventuren
 Inversion noun g=f gen=Inversion pl=Inversionen
+Inverzugsetzung noun g=f gen=Inverzugsetzung pl=Inverzugsetzungen
 Investition noun g=f gen=Investition pl=Investitionen
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen

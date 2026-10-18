@@ -49,16 +49,19 @@ lieblich adj cmp=lieblicher sup=lieblichsten
 lila         adj indecl
 linear adj
 link adj attr_only note=attributive only; linke Hand
+liquide adj cmp=liquider sup=liquidesten
 literarisch adj
 live adj indecl
 löchrig adj cmp=löchriger sup=löchrigsten
 locker adj cmp=lockerer sup=lockersten
 lockig adj cmp=lockiger sup=lockigsten
 logisch adj cmp=logischer sup=logischsten
+logistisch adj
 lokal adj
 los adj note=predicative, e.g. etwas los sein
 lösbar adj
 löslich adj
+lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
 lustig adj cmp=lustiger sup=lustigsten
 lustlos adj cmp=lustloser sup=lustlosesten
 lutherisch adj

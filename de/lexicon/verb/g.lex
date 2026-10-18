@@ -16,9 +16,12 @@ gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte p
 gefährden verb class=weak pp=gefährdet perf=haben
 gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele perf=haben
 gefrieren verb class=strong 3sg=gefriert past=gefror pp=gefroren subj2=gefröre perf=sein
+gegenlesen verb class=strong sep=gegen 3sg=gegenliest past=gegenlas pp=gegengelesen subj2=gegenläse perf=haben
+gegenprüfen verb class=weak sep=gegen pp=gegengeprüft perf=haben
 gegenüberliegen verb class=strong sep=gegenüber 3sg=gegenüberliegt past=gegenüberlag pp=gegenübergelegen subj2=gegenüberläge perf=haben|sein
 gegenüberstehen verb class=strong sep=gegenüber 3sg=gegenübersteht past=gegenüberstand subj2=gegenüberstünde|gegenüberstände pp=gegenübergestanden perf=haben|sein
 gegenüberstellen verb class=weak sep=gegenüber pp=gegenübergestellt perf=haben
+gegenzeichnen verb class=weak sep=gegen pp=gegengezeichnet perf=haben
 gehen verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge perf=sein
 gehorchen verb class=weak pp=gehorcht perf=haben
 gehören verb class=weak pp=gehört perf=haben
@@ -84,3 +87,5 @@ grüßen verb class=weak pp=gegrüßt perf=haben
 gucken verb class=weak pp=geguckt perf=haben
 gurgeln verb class=weak pp=gegurgelt perf=haben
 gurren verb class=weak pp=gegurrt perf=haben
+gutheißen verb class=strong sep=gut 3sg=gutheißt past=guthieß pp=gutgeheißen subj2=guthieße perf=haben
+gutschreiben verb class=strong sep=gut 3sg=gutschreibt past=gutschrieb pp=gutgeschrieben subj2=gutschriebe perf=haben

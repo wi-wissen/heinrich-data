@@ -56,6 +56,7 @@ zerstören verb class=weak pp=zerstört perf=haben
 zerstreuen verb class=weak pp=zerstreut perf=haben
 zerstückeln verb class=weak pp=zerstückelt perf=haben
 zerteilen verb class=weak pp=zerteilt perf=haben
+zertifizieren verb class=weak pp=zertifiziert perf=haben
 zertreten verb class=strong 3sg=zertritt past=zertrat subj2=zerträte pp=zertreten perf=haben
 zertrümmern verb class=weak pp=zertrümmert perf=haben
 zerzausen verb class=weak pp=zerzaust perf=haben
@@ -71,6 +72,7 @@ zittern verb class=weak pp=gezittert perf=haben
 zocken verb class=weak pp=gezockt perf=haben
 zögern verb class=weak pp=gezögert perf=haben
 zoomen verb class=weak pp=gezoomt perf=haben
+zuarbeiten verb class=weak sep=zu pp=zugearbeitet perf=haben
 zubereiten verb class=weak pp=zubereitet perf=haben sep=zu
 zubinden verb class=strong sep=zu 3sg=zubindet past=zuband pp=zugebunden subj2=zubände perf=haben
 zubringen verb class=mixed sep=zu 3sg=zubringt past=zubrachte pp=zugebracht subj2=zubrächte perf=haben
@@ -129,6 +131,7 @@ zurückfahren verb class=strong sep=zurück 3sg=zurückfährt past=zurückfuhr s
 zurückfallen verb class=strong sep=zurück 3sg=zurückfällt past=zurückfiel subj2=zurückfiele pp=zurückgefallen perf=sein
 zurückfinden verb class=strong sep=zurück 3sg=zurückfindet past=zurückfand subj2=zurückfände pp=zurückgefunden perf=haben
 zurückfliegen verb class=strong sep=zurück 3sg=zurückfliegt past=zurückflog subj2=zurückflöge pp=zurückgeflogen perf=sein
+zurückfordern verb class=weak sep=zurück pp=zurückgefordert perf=haben
 zurückfragen verb class=weak sep=zurück pp=zurückgefragt perf=haben
 zurückführen verb class=weak sep=zurück pp=zurückgeführt perf=haben
 zurückgeben verb class=strong sep=zurück 3sg=zurückgibt past=zurückgab pp=zurückgegeben subj2=zurückgäbe perf=haben
@@ -228,6 +231,7 @@ zusammentreffen verb class=strong sep=zusammen 3sg=zusammentrifft past=zusamment
 zusammenzählen verb class=weak sep=zusammen pp=zusammengezählt perf=haben
 zusammenziehen verb class=strong sep=zusammen 3sg=zusammenzieht past=zusammenzog subj2=zusammenzöge pp=zusammengezogen perf=haben|sein
 zusammenzucken verb class=weak sep=zusammen pp=zusammengezuckt perf=sein
+zuschalten verb class=weak sep=zu pp=zugeschaltet perf=haben
 zuschauen verb class=weak sep=zu pp=zugeschaut perf=haben
 zuschicken verb class=weak sep=zu pp=zugeschickt perf=haben
 zuschlagen verb class=strong sep=zu 3sg=zuschlägt past=zuschlug pp=zugeschlagen subj2=zuschlüge perf=haben|sein
@@ -240,6 +244,7 @@ zuschütten verb class=weak sep=zu pp=zugeschüttet perf=haben
 zusehen verb class=strong sep=zu 3sg=zusieht past=zusah pp=zugesehen subj2=zusähe perf=haben
 zusenden verb class=weak sep=zu past=zusendete|zusandte pp=zugesendet|zugesandt perf=haben
 zusetzen verb class=weak sep=zu pp=zugesetzt perf=haben
+zusichern verb class=weak sep=zu pp=zugesichert perf=haben
 zusperren verb class=weak sep=zu pp=zugesperrt perf=haben
 zuspielen verb class=weak sep=zu pp=zugespielt perf=haben
 zuspitzen verb class=weak sep=zu pp=zugespitzt perf=haben refl=acc

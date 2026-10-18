@@ -4,6 +4,7 @@ Abbau noun g=m gen=Abbaus|Abbaues pl=Abbaue note=plural only in mining sense (wo
 Abberufung noun g=f gen=Abberufung pl=Abberufungen
 Abbildung noun g=f gen=Abbildung pl=Abbildungen
 Abbruch noun g=m gen=Abbruchs|Abbruches pl=Abbrüche
+Abbuchung noun g=f gen=Abbuchung pl=Abbuchungen
 Abend         noun g=m gen=Abends pl=Abende
 Abenteuer noun g=n gen=Abenteuers pl=Abenteuer
 Abenteurer noun g=m gen=Abenteurers pl=Abenteurer
@@ -18,6 +19,7 @@ Abgabe        noun g=f gen=Abgabe pl=Abgaben
 Abgang noun g=m gen=Abgangs|Abganges pl=Abgänge
 Abgas noun g=n gen=Abgases pl=Abgase
 Abgeordnete   noun g=m|f decl=adj
+Abgleich noun g=m gen=Abgleichs|Abgleiches pl=Abgleiche
 Abgrenzung noun g=f gen=Abgrenzung pl=Abgrenzungen
 Abgrund noun g=m gen=Abgrunds|Abgrundes pl=Abgründe
 Abhandlung noun g=f gen=Abhandlung pl=Abhandlungen
@@ -30,8 +32,10 @@ Abitur noun g=n gen=Abiturs pl=Abiture note=plural very rare (Abiture)
 Abiturient noun g=m gen=Abiturienten pl=Abiturienten
 Abiturientin noun g=f gen=Abiturientin pl=Abiturientinnen
 Abkehr noun g=f gen=Abkehr pl=- note=no plural
+Abklärung noun g=f gen=Abklärung pl=Abklärungen
 Abkommen      noun g=n gen=Abkommens pl=Abkommen
 Abkürzung noun g=f gen=Abkürzung pl=Abkürzungen
+Ablage noun g=f gen=Ablage pl=Ablagen note=filing; also storage place
 Ablass noun g=m gen=Ablasses pl=Ablässe
 Ablauf        noun g=m gen=Ablaufs|Ablaufes pl=Abläufe
 Ableger noun g=m gen=Ablegers pl=Ableger
@@ -39,6 +43,8 @@ Ablehnung     noun g=f gen=Ablehnung pl=Ablehnungen
 Ableitung noun g=f gen=Ableitung pl=Ableitungen
 Ablenkung noun g=f gen=Ablenkung pl=Ablenkungen
 Ablösung noun g=f gen=Ablösung pl=Ablösungen
+Abmahnung noun g=f gen=Abmahnung pl=Abmahnungen
+Abmeldung noun g=f gen=Abmeldung pl=Abmeldungen
 Abmessung noun g=f gen=Abmessung pl=Abmessungen
 Abnahme noun g=f gen=Abnahme pl=Abnahmen
 Abnehmer noun g=m gen=Abnehmers pl=Abnehmer
@@ -47,6 +53,7 @@ Abo noun g=n gen=Abos pl=Abos
 Abonnement noun g=n gen=Abonnements pl=Abonnements
 Abonnent noun g=m gen=Abonnenten pl=Abonnenten
 Abonnentin noun g=f gen=Abonnentin pl=Abonnentinnen
+Abordnung noun g=f gen=Abordnung pl=Abordnungen
 Abpfiff noun g=m gen=Abpfiffs|Abpfiffes pl=Abpfiffe
 Abrechnung noun g=f gen=Abrechnung pl=Abrechnungen
 Abreise noun g=f gen=Abreise pl=Abreisen
@@ -65,9 +72,11 @@ Abschluss     noun g=m gen=Abschlusses pl=Abschlüsse
 Abschnitt     noun g=m gen=Abschnitts|Abschnittes pl=Abschnitte
 Abschottung noun g=f gen=Abschottung pl=- note=no plural
 Abschreckung noun g=f gen=Abschreckung pl=- note=no plural
+Abschreibung noun g=f gen=Abschreibung pl=Abschreibungen note=depreciation
 Abschrift noun g=f gen=Abschrift pl=Abschriften
 Abseits noun g=n gen=Abseits pl=- note=no genitive ending
 Absender noun g=m gen=Absenders pl=Absender
+Absenderin noun g=f gen=Absenderin pl=Absenderinnen
 Absenkung noun g=f gen=Absenkung pl=Absenkungen
 Absicherung noun g=f gen=Absicherung pl=Absicherungen
 Absicht       noun g=f gen=Absicht pl=Absichten
@@ -76,6 +85,7 @@ Absolvent noun g=m gen=Absolventen pl=Absolventen
 Absolventin noun g=f gen=Absolventin pl=Absolventinnen
 Abspaltung noun g=f gen=Abspaltung pl=Abspaltungen
 Abspann noun g=m gen=Abspanns|Abspannes pl=Abspänne
+Absprache noun g=f gen=Absprache pl=Absprachen
 Abstammung noun g=f gen=Abstammung pl=- note=mass noun
 Abstand       noun g=m gen=Abstands|Abstandes pl=Abstände
 Abstecher noun g=m gen=Abstechers pl=Abstecher
@@ -96,6 +106,7 @@ Abwasser noun g=n gen=Abwassers pl=Abwässer
 Abwechslung noun g=f gen=Abwechslung pl=Abwechslungen
 Abwehr noun g=f gen=Abwehr pl=- note=mass noun
 Abweichung noun g=f gen=Abweichung pl=Abweichungen
+Abwerbung noun g=f gen=Abwerbung pl=Abwerbungen
 Abwesenheit noun g=f gen=Abwesenheit pl=Abwesenheiten
 Abwicklung noun g=f gen=Abwicklung pl=Abwicklungen
 Abzug noun g=m gen=Abzugs|Abzuges pl=Abzüge
@@ -111,6 +122,7 @@ Acker noun g=m gen=Ackers pl=Äcker
 Ackerbau noun g=m gen=Ackerbaus|Ackerbaues pl=- note=no plural
 Action noun g=f gen=Action pl=- note=English loan; no plural
 Adapter noun g=m gen=Adapters pl=Adapter
+Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
 Adel noun g=m gen=Adels pl=- note=mass noun
 Adelsfamilie noun g=f gen=Adelsfamilie pl=Adelsfamilien
@@ -121,12 +133,15 @@ Adjutant noun g=m gen=Adjutanten pl=Adjutanten
 Adjutantin noun g=f gen=Adjutantin pl=Adjutantinnen
 Adler noun g=m gen=Adlers pl=Adler
 Adlige noun g=m|f decl=adj
+Admin noun g=m gen=Admins pl=Admins note=short for Administrator
 Administration noun g=f gen=Administration pl=Administrationen
 Administrator noun g=m gen=Administrators pl=Administratoren
 Administratorin noun g=f gen=Administratorin pl=Administratorinnen
 Admiral noun g=m gen=Admirals pl=Admirale|Admiräle
 Adoption noun g=f gen=Adoption pl=Adoptionen
 Adoptivkind noun g=n gen=Adoptivkinds|Adoptivkindes pl=Adoptivkinder
+Adressat noun g=m gen=Adressaten pl=Adressaten
+Adressatin noun g=f gen=Adressatin pl=Adressatinnen
 Adresse noun g=f gen=Adresse pl=Adressen
 Advent noun g=m gen=Advents pl=- note=no plural
 Adverb noun g=n gen=Adverbs pl=Adverbien
@@ -141,6 +156,7 @@ Afrikanerin noun g=f gen=Afrikanerin pl=Afrikanerinnen
 Afroamerikaner noun g=m gen=Afroamerikaners pl=Afroamerikaner
 After noun g=m gen=Afters pl=After
 AG            noun g=f gen=AG pl=AGs note=Aktiengesellschaft or Arbeitsgemeinschaft
+AGB noun g=pl conf=80 note=Allgemeine Geschäftsbedingungen; die AGB; the plural AGBs is colloquial
 Agenda noun g=f gen=Agenda pl=Agenden
 Agent noun g=m gen=Agenten pl=Agenten
 Agentin noun g=f gen=Agentin pl=Agentinnen
@@ -148,6 +164,7 @@ Agentur noun g=f gen=Agentur pl=Agenturen
 Aggregatzustand noun g=m gen=Aggregatzustands|Aggregatzustandes pl=Aggregatzustände
 Agrarpolitik noun g=f gen=Agrarpolitik pl=- note=no plural
 Ägypter noun g=m gen=Ägypters pl=Ägypter
+Ägypterin noun g=f gen=Ägypterin pl=Ägypterinnen
 Ahn noun g=m gen=Ahns|Ahnes pl=Ahnen conf=85 note=ancestor; Ahne is the more common weak variant
 Ahndung noun g=f gen=Ahndung pl=Ahndungen
 Ahne noun g=m gen=Ahnen pl=Ahnen note=ancestor
@@ -158,12 +175,15 @@ Ahorn noun g=m gen=Ahorns pl=Ahorne
 Airbus noun g=m gen=Airbus|Airbusses pl=Airbusse
 Akademie      noun g=f gen=Akademie pl=Akademien
 Akademiker noun g=m gen=Akademikers pl=Akademiker
+Akademikerin noun g=f gen=Akademikerin pl=Akademikerinnen
 Akkord noun g=m gen=Akkords|Akkordes pl=Akkorde
 Akkordeon noun g=n gen=Akkordeons pl=Akkordeons
 Akku noun g=m gen=Akkus pl=Akkus
 Akkusativ noun g=m gen=Akkusativs pl=Akkusative
+Akquise noun g=f gen=Akquise pl=Akquisen
 Akt noun g=m gen=Akts|Aktes pl=Akte
 Akte noun g=f gen=Akte pl=Akten
+Aktenvernichter noun g=m gen=Aktenvernichters pl=Aktenvernichter
 Akteur noun g=m gen=Akteurs pl=Akteure
 Akteurin noun g=f gen=Akteurin pl=Akteurinnen
 Aktie noun g=f gen=Aktie pl=Aktien
@@ -245,6 +265,7 @@ Anapäst noun g=m gen=Anapästs|Anapästes pl=Anapäste
 Anapher noun g=f gen=Anapher pl=Anaphern
 Anatomie noun g=f gen=Anatomie pl=Anatomien
 Anbau noun g=m gen=Anbaus|Anbaues pl=Anbauten note=cultivation (mass) and extension of a building (Anbauten)
+Anberaumung noun g=f gen=Anberaumung pl=Anberaumungen
 Anbetracht noun g=m gen=Anbetracht|Anbetrachts pl=- conf=80 note=only in "in Anbetracht"
 Anbetung noun g=f gen=Anbetung pl=- note=no plural
 Anbieter      noun g=m gen=Anbieters pl=Anbieter
@@ -259,6 +280,7 @@ Anekdote noun g=f gen=Anekdote pl=Anekdoten
 Anerkennung   noun g=f gen=Anerkennung pl=Anerkennungen
 Anfall noun g=m gen=Anfalls|Anfalles pl=Anfälle
 Anfang        noun g=m gen=Anfangs|Anfanges pl=Anfänge
+Anfechtung noun g=f gen=Anfechtung pl=Anfechtungen
 Anfertigung noun g=f gen=Anfertigung pl=Anfertigungen
 Anforderung   noun g=f gen=Anforderung pl=Anforderungen
 Anfrage noun g=f gen=Anfrage pl=Anfragen
@@ -280,6 +302,7 @@ Angler noun g=m gen=Anglers pl=Angler
 Anglerin noun g=f gen=Anglerin pl=Anglerinnen
 Anglizismus noun g=m gen=Anglizismus pl=Anglizismen note=no genitive ending
 Angreifer noun g=m gen=Angreifers pl=Angreifer
+Angreiferin noun g=f gen=Angreiferin pl=Angreiferinnen
 Angriff       noun g=m gen=Angriffs|Angriffes pl=Angriffe
 Angst         noun g=f gen=Angst pl=Ängste
 Anhalt noun g=m gen=Anhalts|Anhaltes pl=- conf=80 note=Anhalt geben; also the region Anhalt
@@ -306,6 +329,8 @@ Anlehnung noun g=f gen=Anlehnung pl=Anlehnungen
 Anleihe noun g=f gen=Anleihe pl=Anleihen
 Anleitung noun g=f gen=Anleitung pl=Anleitungen
 Anliegen      noun g=n gen=Anliegens pl=Anliegen
+Anlieger noun g=m gen=Anliegers pl=Anlieger
+Anliegerin noun g=f gen=Anliegerin pl=Anliegerinnen
 Anmelder noun g=m gen=Anmelders pl=Anmelder
 Anmelderin noun g=f gen=Anmelderin pl=Anmelderinnen
 Anmeldung noun g=f gen=Anmeldung pl=Anmeldungen
@@ -319,6 +344,7 @@ Anordnung     noun g=f gen=Anordnung pl=Anordnungen
 Anpassung     noun g=f gen=Anpassung pl=Anpassungen
 Anpfiff noun g=m gen=Anpfiffs|Anpfiffes pl=Anpfiffe
 Anrechnung noun g=f gen=Anrechnung pl=Anrechnungen
+Anrede noun g=f gen=Anrede pl=Anreden
 Anregung noun g=f gen=Anregung pl=Anregungen
 Anreiz noun g=m gen=Anreizes pl=Anreize
 Anruf noun g=m gen=Anrufs|Anrufes pl=Anrufe
@@ -361,6 +387,7 @@ Antrag        noun g=m gen=Antrags|Antrages pl=Anträge
 Antragsteller noun g=m gen=Antragstellers pl=Antragsteller
 Antragstellerin noun g=f gen=Antragstellerin pl=Antragstellerinnen
 Antrieb noun g=m gen=Antriebs|Antriebes pl=Antriebe
+Antritt noun g=m gen=Antritts|Antrittes pl=Antritte
 Antwort       noun g=f gen=Antwort pl=Antworten
 Anwalt noun g=m gen=Anwalts|Anwaltes pl=Anwälte
 Anwältin noun g=f gen=Anwältin pl=Anwältinnen
@@ -368,11 +395,15 @@ Anwärter noun g=m gen=Anwärters pl=Anwärter
 Anwärterin noun g=f gen=Anwärterin pl=Anwärterinnen
 Anweisung noun g=f gen=Anweisung pl=Anweisungen
 Anwender noun g=m gen=Anwenders pl=Anwender
+Anwenderin noun g=f gen=Anwenderin pl=Anwenderinnen
 Anwendung     noun g=f gen=Anwendung pl=Anwendungen
+Anwerbung noun g=f gen=Anwerbung pl=Anwerbungen
 Anwesen noun g=n gen=Anwesens pl=Anwesen
 Anwesenheit noun g=f gen=Anwesenheit pl=- note=mass noun
 Anwohner noun g=m gen=Anwohners pl=Anwohner
+Anwohnerin noun g=f gen=Anwohnerin pl=Anwohnerinnen
 Anzahl        noun g=f gen=Anzahl pl=- note=no regular plural
+Anzahlung noun g=f gen=Anzahlung pl=Anzahlungen
 Anzeichen noun g=n gen=Anzeichens pl=Anzeichen
 Anzeige       noun g=f gen=Anzeige pl=Anzeigen
 Anzeiger noun g=m gen=Anzeigers pl=Anzeiger
@@ -380,6 +411,7 @@ Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Apfel noun g=m gen=Apfels pl=Äpfel
 Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
 Apostel noun g=m gen=Apostels pl=Apostel
+Apostille noun g=f gen=Apostille pl=Apostillen
 Apostroph noun g=m gen=Apostrophs|Apostrophes pl=Apostrophe
 Apotheke noun g=f gen=Apotheke pl=Apotheken
 Apotheker noun g=m gen=Apothekers pl=Apotheker
@@ -420,6 +452,7 @@ Architektur noun g=f gen=Architektur pl=Architekturen
 Archiv noun g=n gen=Archivs|Archives pl=Archive
 Archivar noun g=m gen=Archivars pl=Archivare
 Archivarin noun g=f gen=Archivarin pl=Archivarinnen
+Archivierung noun g=f gen=Archivierung pl=Archivierungen
 Areal noun g=n gen=Areals pl=Areale
 Arena noun g=f gen=Arena pl=Arenen|Arenas
 Ärger noun g=m gen=Ärgers pl=- note=no plural
@@ -433,6 +466,7 @@ Arm           noun g=m gen=Arms|Armes pl=Arme
 Armee         noun g=f gen=Armee pl=Armeen
 Ärmel noun g=m gen=Ärmels pl=Ärmel
 Armenier noun g=m gen=Armeniers pl=Armenier
+Armenierin noun g=f gen=Armenierin pl=Armenierinnen
 Armreif noun g=m gen=Armreifs|Armreifes pl=Armreife note=compound; the analyser would take reif as head
 Armut         noun g=f gen=Armut pl=- note=no plural
 Aroma noun g=n gen=Aromas pl=Aromen|Aromas
@@ -457,6 +491,7 @@ Asiatin noun g=f gen=Asiatin pl=Asiatinnen
 Aspekt noun g=m gen=Aspekts|Aspektes pl=Aspekte
 Asphalt noun g=m gen=Asphalts|Asphaltes pl=Asphalte
 Assel noun g=f gen=Assel pl=Asseln
+Assessment-Center noun g=n gen=Assessment-Centers pl=Assessment-Center
 Assistent noun g=m gen=Assistenten pl=Assistenten
 Assistentin noun g=f gen=Assistentin pl=Assistentinnen
 Assistenz noun g=f gen=Assistenz pl=Assistenzen
@@ -475,6 +510,7 @@ Atelier noun g=n gen=Ateliers pl=Ateliers
 Atem noun g=m gen=Atems pl=- note=mass noun
 Atemnot noun g=f gen=Atemnot pl=- note=mass noun
 Atheist noun g=m gen=Atheisten pl=Atheisten
+Atheistin noun g=f gen=Atheistin pl=Atheistinnen
 Athlet noun g=m gen=Athleten pl=Athleten
 Athletin noun g=f gen=Athletin pl=Athletinnen
 Atlas noun g=m gen=Atlas|Atlasses pl=Atlanten|Atlasse
@@ -485,12 +521,16 @@ Atomkraft noun g=f gen=Atomkraft pl=- note=no plural
 Atommüll noun g=m gen=Atommülls pl=- note=no plural
 Attentat noun g=n gen=Attentats|Attentates pl=Attentate
 Attentäter noun g=m gen=Attentäters pl=Attentäter
+Attentäterin noun g=f gen=Attentäterin pl=Attentäterinnen
 Attest noun g=n gen=Attests|Attestes pl=Atteste
 Attraktion noun g=f gen=Attraktion pl=Attraktionen
 Attraktivität noun g=f gen=Attraktivität pl=- note=no plural
 Attribut noun g=n gen=Attributs|Attributes pl=Attribute
 Au noun g=f gen=Au pl=Auen note=river meadow
 Aubergine noun g=f gen=Aubergine pl=Auberginen
+Audit noun g=n|m gen=Audits pl=Audits
+Auditor noun g=m gen=Auditors pl=Auditoren
+Auditorin noun g=f gen=Auditorin pl=Auditorinnen
 Aue noun g=f gen=Aue pl=Auen
 Auerhahn noun g=m gen=Auerhahns pl=Auerhähne
 Auerochse noun g=m gen=Auerochsen pl=Auerochsen
@@ -522,6 +562,7 @@ Aufruf noun g=m gen=Aufrufs|Aufrufes pl=Aufrufe
 Aufruhr noun g=m gen=Aufruhrs|Aufruhres pl=- note=no plural
 Aufrüstung noun g=f gen=Aufrüstung pl=- note=no plural
 Aufsatz noun g=m gen=Aufsatzes pl=Aufsätze
+Aufschlüsselung noun g=f gen=Aufschlüsselung pl=Aufschlüsselungen
 Aufschrift noun g=f gen=Aufschrift pl=Aufschriften
 Aufschub noun g=m gen=Aufschubs|Aufschubes pl=Aufschübe
 Aufschwung noun g=m gen=Aufschwungs|Aufschwunges pl=Aufschwünge
@@ -542,6 +583,8 @@ Aufteilung noun g=f gen=Aufteilung pl=Aufteilungen
 Auftrag       noun g=m gen=Auftrags|Auftrages pl=Aufträge
 Auftraggeber noun g=m gen=Auftraggebers pl=Auftraggeber
 Auftraggeberin noun g=f gen=Auftraggeberin pl=Auftraggeberinnen
+Auftragnehmer noun g=m gen=Auftragnehmers pl=Auftragnehmer
+Auftragnehmerin noun g=f gen=Auftragnehmerin pl=Auftragnehmerinnen
 Auftrieb noun g=m gen=Auftriebs|Auftriebes pl=- note=no plural
 Auftritt noun g=m gen=Auftritts|Auftrittes pl=Auftritte
 Aufwand noun g=m gen=Aufwands|Aufwandes pl=- note=mass noun; Aufwände mainly CH/AT
@@ -583,11 +626,16 @@ Ausgestaltung noun g=f gen=Ausgestaltung pl=Ausgestaltungen
 Ausgleich noun g=m gen=Ausgleichs|Ausgleiches pl=- note=mass noun
 Ausgrabung noun g=f gen=Ausgrabung pl=Ausgrabungen
 Ausgrenzung noun g=f gen=Ausgrenzung pl=Ausgrenzungen
+Aushändigung noun g=f gen=Aushändigung pl=Aushändigungen
+Aushang noun g=m gen=Aushangs|Aushanges pl=Aushänge
 Auskunft      noun g=f gen=Auskunft pl=Auskünfte
+Ausladung noun g=f gen=Ausladung pl=Ausladungen
 Auslage noun g=f gen=Auslage pl=Auslagen
+Auslagerung noun g=f gen=Auslagerung pl=Auslagerungen
 Ausland       noun g=n gen=Auslands|Auslandes pl=- note=no plural
 Ausländer noun g=m gen=Ausländers pl=Ausländer
 Ausländerin noun g=f gen=Ausländerin pl=Ausländerinnen
+Auslastung noun g=f gen=Auslastung pl=Auslastungen
 Ausläufer noun g=m gen=Ausläufers pl=Ausläufer
 Auslegung noun g=f gen=Auslegung pl=Auslegungen
 Auslese noun g=f gen=Auslese pl=Auslesen
@@ -618,6 +666,7 @@ Aussprache    noun g=f gen=Aussprache pl=Aussprachen
 Ausspruch noun g=m gen=Ausspruchs|Ausspruches pl=Aussprüche
 Ausstattung   noun g=f gen=Ausstattung pl=Ausstattungen
 Aussteller noun g=m gen=Ausstellers pl=Aussteller
+Ausstellerin noun g=f gen=Ausstellerin pl=Ausstellerinnen
 Ausstellung   noun g=f gen=Ausstellung pl=Ausstellungen
 Aussterben noun g=n gen=Aussterbens pl=- note=no plural
 Ausstieg noun g=m gen=Ausstiegs|Ausstieges pl=Ausstiege
@@ -627,6 +676,7 @@ Austausch noun g=m gen=Austauschs|Austausches pl=- note=mass noun
 Auster noun g=f gen=Auster pl=Austern
 Austragung noun g=f gen=Austragung pl=Austragungen
 Australier noun g=m gen=Australiers pl=Australier
+Australierin noun g=f gen=Australierin pl=Australierinnen
 Austritt noun g=m gen=Austritts|Austrittes pl=Austritte
 Ausübung      noun g=f gen=Ausübung pl=- note=no regular plural
 Auswahl       noun g=f gen=Auswahl pl=- note=no regular plural
@@ -641,10 +691,12 @@ Auszählung noun g=f gen=Auszählung pl=Auszählungen
 Auszeichnung noun g=f gen=Auszeichnung pl=Auszeichnungen
 Auszubildende noun g=m|f decl=adj note=die Auszubildenden
 Auszug noun g=m gen=Auszugs|Auszuges pl=Auszüge
+Authentifizierung noun g=f gen=Authentifizierung pl=Authentifizierungen
 Authentizität noun g=f gen=Authentizität pl=- note=no plural
 Auto          noun g=n gen=Autos pl=Autos
 Autobahn noun g=f gen=Autobahn pl=Autobahnen
 Automat noun g=m gen=Automaten pl=Automaten
+Automatisierung noun g=f gen=Automatisierung pl=Automatisierungen
 Automobil noun g=n gen=Automobils pl=Automobile
 Autonomie noun g=f gen=Autonomie pl=Autonomien
 Autor         noun g=m gen=Autors pl=Autoren

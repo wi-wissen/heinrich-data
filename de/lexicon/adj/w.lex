@@ -7,12 +7,14 @@ wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten
 wahr adj cmp=wahrer sup=wahrsten
 wahrhaft adj
 wahrhaftig adj
+wahrheitsgemäß adj
 wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 warm adj cmp=wärmer sup=wärmsten
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten
 weiß adj cmp=weißer sup=weißesten
+weisungsgemäß adj
 weit adj cmp=weiter sup=weitesten
 weitgehend adj
 weitreichend adj cmp=weitreichender sup=weitreichendsten
@@ -29,6 +31,7 @@ wesentlich adj cmp=wesentlicher sup=wesentlichsten
 westlich adj note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
+widerruflich adj
 widersprüchlich adj
 wild adj cmp=wilder sup=wildesten
 willig adj cmp=williger sup=willigsten
@@ -46,6 +49,7 @@ wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
 wohlriechend adj
 wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
+wohnhaft adj note=wohnhaft in Berlin
 wolkig adj cmp=wolkiger sup=wolkigsten
 wörtlich adj
 wund adj cmp=wunder sup=wundesten

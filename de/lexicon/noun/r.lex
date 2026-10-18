@@ -39,6 +39,7 @@ Rast noun g=f gen=Rast pl=- note=mass noun
 Rat noun g=m gen=Rates|Rats pl=Räte
 Rate noun g=f gen=Rate pl=Raten
 Ratifizierung noun g=f gen=Ratifizierung pl=Ratifizierungen
+Rätin noun g=f gen=Rätin pl=Rätinnen note=member of a council (Stadträtin, Betriebsrätin)
 Rationalist noun g=m gen=Rationalisten pl=Rationalisten
 Rätsel noun g=n gen=Rätsels pl=Rätsel
 Ratte noun g=f gen=Ratte pl=Ratten
@@ -73,6 +74,7 @@ Rechenzeichen noun g=n gen=Rechenzeichens pl=Rechenzeichen
 Recherche noun g=f gen=Recherche pl=Recherchen
 Rechner noun g=m gen=Rechners pl=Rechner
 Rechnung noun g=f gen=Rechnung pl=Rechnungen
+Rechnungslegung noun g=f gen=Rechnungslegung pl=Rechnungslegungen
 Recht noun g=n gen=Rechts|Rechtes pl=Rechte
 Rechte noun g=m|f decl=adj note=der Rechte (right-wing), die Rechte (right hand / political right)
 Rechteck noun g=n gen=Rechtecks|Rechteckes pl=Rechtecke
@@ -80,9 +82,13 @@ Rechtfertigung noun g=f gen=Rechtfertigung pl=Rechtfertigungen
 Rechtsanwalt noun g=m gen=Rechtsanwalts|Rechtsanwaltes pl=Rechtsanwälte
 Rechtschreibung noun g=f gen=Rechtschreibung pl=Rechtschreibungen
 Rechtsextremismus noun g=m gen=Rechtsextremismus pl=- note=mass noun
+Rechtsklick noun g=m gen=Rechtsklicks pl=Rechtsklicks
 Rechtsprechung noun g=f gen=Rechtsprechung pl=- note=mass noun
 Rechtsstaatlichkeit noun g=f gen=Rechtsstaatlichkeit pl=- note=mass noun
 Reck noun g=n gen=Recks|Reckes pl=Recke
+Recruiter noun g=m gen=Recruiters pl=Recruiter
+Recruiterin noun g=f gen=Recruiterin pl=Recruiterinnen
+Recruiting noun g=n gen=Recruitings pl=- note=mass noun
 Recycling noun g=n gen=Recyclings pl=- note=no plural
 Recyclinghof noun g=m gen=Recyclinghofs pl=Recyclinghöfe
 Redakteur noun g=m gen=Redakteurs pl=Redakteure
@@ -104,6 +110,7 @@ Referendarin noun g=f gen=Referendarin pl=Referendarinnen
 Referendum noun g=n gen=Referendums pl=Referenden|Referenda
 Referent noun g=m gen=Referenten pl=Referenten
 Referentin noun g=f gen=Referentin pl=Referentinnen
+Referenz noun g=f gen=Referenz pl=Referenzen
 Reflektor noun g=m gen=Reflektors pl=Reflektoren
 Reflexion noun g=f gen=Reflexion pl=Reflexionen
 Reform noun g=f gen=Reform pl=Reformen
@@ -124,6 +131,7 @@ Region noun g=f gen=Region pl=Regionen
 Regisseur noun g=m gen=Regisseurs pl=Regisseure
 Regisseurin noun g=f gen=Regisseurin pl=Regisseurinnen
 Register noun g=n gen=Registers pl=Register
+Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
@@ -159,9 +167,11 @@ Reklamation noun g=f gen=Reklamation pl=Reklamationen
 Reklame noun g=f gen=Reklame pl=Reklamen
 Rekonstruktion noun g=f gen=Rekonstruktion pl=Rekonstruktionen
 Rekord noun g=m gen=Rekords|Rekordes pl=Rekorde
+Rekrutierung noun g=f gen=Rekrutierung pl=Rekrutierungen
 Rektor noun g=m gen=Rektors pl=Rektoren
 Rektorin noun g=f gen=Rektorin pl=Rektorinnen
 Relation noun g=f gen=Relation pl=Relationen
+Release noun g=n|m gen=Releases pl=Releases
 Relegation noun g=f gen=Relegation pl=Relegationen
 Relevanz noun g=f gen=Relevanz pl=- note=mass noun
 Reli noun g=f gen=Reli pl=- style=colloquial note=short for Religion
@@ -184,9 +194,11 @@ Report noun g=m gen=Reports pl=Reports
 Reportage noun g=f gen=Reportage pl=Reportagen
 Reporter noun g=m gen=Reporters pl=Reporter
 Reporterin noun g=f gen=Reporterin pl=Reporterinnen
+Reporting noun g=n gen=Reportings pl=Reportings
 Repräsentant noun g=m gen=Repräsentanten pl=Repräsentanten
 Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Repräsentantin noun g=f gen=Repräsentantin pl=Repräsentantinnen
+Repräsentation noun g=f gen=Repräsentation pl=Repräsentationen
 Reptil noun g=n gen=Reptils pl=Reptilien|Reptile
 Republik noun g=f gen=Republik pl=Republiken
 Republikaner noun g=m gen=Republikaners pl=Republikaner
@@ -204,7 +216,9 @@ Rest noun g=m gen=Restes|Rests pl=Reste
 Restaurant noun g=n gen=Restaurants pl=Restaurants
 Restaurierung noun g=f gen=Restaurierung pl=Restaurierungen
 Restmüll noun g=m gen=Restmülls pl=- note=no plural
+Restrukturierung noun g=f gen=Restrukturierung pl=Restrukturierungen
 Resultat noun g=n gen=Resultats|Resultates pl=Resultate
+Retoure noun g=f gen=Retoure pl=Retouren
 Retter noun g=m gen=Retters pl=Retter
 Retterin noun g=f gen=Retterin pl=Retterinnen
 Rettich noun g=m gen=Rettichs pl=Rettiche
@@ -217,6 +231,7 @@ Revolver noun g=m gen=Revolvers pl=Revolver
 Revue noun g=f gen=Revue pl=Revuen
 Rezension noun g=f gen=Rezension pl=Rezensionen
 Rezept noun g=n gen=Rezepts|Rezeptes pl=Rezepte
+Rezeption noun g=f gen=Rezeption pl=Rezeptionen
 Rezeptionist noun g=m gen=Rezeptionisten pl=Rezeptionisten
 Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
 Rezession noun g=f gen=Rezession pl=Rezessionen
@@ -247,6 +262,7 @@ Ritter noun g=m gen=Ritters pl=Ritter
 Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
 Rittmeister noun g=m gen=Rittmeisters pl=Rittmeister note=cavalry captain
 Ritual noun g=n gen=Rituals pl=Rituale
+Roadmap noun g=f gen=Roadmap pl=Roadmaps
 Robbe noun g=f gen=Robbe pl=Robben
 Roboter noun g=m gen=Roboters pl=Roboter
 Rock noun g=m gen=Rockes|Rocks pl=Röcke sense=skirt
@@ -268,6 +284,7 @@ Rom noun g=m gen=Rom|Roms pl=Roma sense=person conf=70 note=singular of Roma (ei
 Roma noun g=pl note=ethnic group, plural only (die Roma)
 Roman noun g=m gen=Romans|Romanes[archaic] pl=Romane
 Romanist noun g=m gen=Romanisten pl=Romanisten
+Romanistin noun g=f gen=Romanistin pl=Romanistinnen
 Romantik noun g=f gen=Romantik pl=- note=mass noun; epoch
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
@@ -292,9 +309,13 @@ Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
 Rücken noun g=m gen=Rückens pl=Rücken
 Rückfahrt noun g=f gen=Rückfahrt pl=Rückfahrten
+Rückgabe noun g=f gen=Rückgabe pl=Rückgaben
+Rückgabefrist noun g=f gen=Rückgabefrist pl=Rückgabefristen note=compound analysis does not accept the modifier Rückgabe-
+Rückgaberecht noun g=n gen=Rückgaberechts|Rückgaberechtes pl=Rückgaberechte note=compound analysis does not accept the modifier Rückgabe-
 Rückgang noun g=m gen=Rückgangs|Rückganges pl=Rückgänge
 Rückgrat noun g=n gen=Rückgrats|Rückgrates pl=Rückgrate
 Rückkehr noun g=f gen=Rückkehr pl=- note=no plural
+Rücklage noun g=f gen=Rücklage pl=Rücklagen
 Rücklicht noun g=n gen=Rücklichts|Rücklichtes pl=Rücklichter
 Rücknahme noun g=f gen=Rücknahme pl=Rücknahmen
 Rückreise noun g=f gen=Rückreise pl=Rückreisen
@@ -305,8 +326,10 @@ Rückzug noun g=m gen=Rückzugs|Rückzuges pl=Rückzüge
 Rudel noun g=n gen=Rudels pl=Rudel
 Ruder noun g=n gen=Ruders pl=Ruder
 Ruderer noun g=m gen=Ruderers pl=Ruderer
+Ruderin noun g=f gen=Ruderin pl=Ruderinnen
 Ruf noun g=m gen=Rufes|Rufs pl=Rufe
 Rugby noun g=n gen=Rugbys pl=- note=mass noun
+Rüge noun g=f gen=Rüge pl=Rügen
 Ruhe noun g=f gen=Ruhe pl=- note=mass noun
 Ruhestand noun g=m gen=Ruhestands|Ruhestandes pl=- note=mass noun
 Ruhm noun g=m gen=Ruhms|Ruhmes pl=- note=mass noun

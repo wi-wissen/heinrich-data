@@ -4,6 +4,7 @@ namentlich adv
 naturgemäß adv type=modal
 nebenan adv type=place
 nebenbei adv
+netto adv note=2000 Euro netto
 neuerdings adv type=time
 nieder adv
 nimmer adv

@@ -1,5 +1,6 @@
 zäh adj cmp=zäher sup=zähesten
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
+zahlungspflichtig adj
 zahm adj cmp=zahmer sup=zahmsten
 zappelig adj cmp=zappeliger sup=zappeligsten
 zart adj cmp=zarter sup=zartesten
@@ -30,16 +31,20 @@ zugig adj cmp=zugiger sup=zugigsten
 zügig adj
 zukünftig adj
 zulässig adj
+zulassungspflichtig adj
 zumutbar adj
 zurückhaltend adj cmp=zurückhaltender sup=zurückhaltendsten
 zusammengesetzt adj
 zusätzlich adj
 zuständig adj
+zustimmungspflichtig adj
 zutraulich adj cmp=zutraulicher sup=zutraulichsten
 zuverlässig adj cmp=zuverlässiger sup=zuverlässigsten
 zuversichtlich adj cmp=zuversichtlicher sup=zuversichtlichsten
 zwangsläufig adj
+zweckdienlich adj
 zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
+zweckwidrig adj
 zweierlei adj indecl
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj

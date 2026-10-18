@@ -15,6 +15,7 @@ bedeckt adj
 bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
+bedienerfreundlich adj cmp=bedienerfreundlicher sup=bedienerfreundlichsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befangen adj
 befindlich adj
@@ -31,8 +32,10 @@ beharrlich adj
 behilflich adj
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
+beiderseitig adj
 beige adj
 beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
+beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
 bekloppt adj cmp=bekloppter sup=beklopptesten
@@ -57,10 +60,12 @@ besiegt adj
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
+bestimmungsgemäß adj
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
 betrieblich adj
 betrübt adj cmp=betrübter sup=betrübtesten
+betrügerisch adj
 betrunken adj cmp=betrunkener sup=betrunkensten
 bewährt adj cmp=bewährter sup=bewährtesten
 beweglich adj cmp=beweglicher sup=beweglichsten
@@ -103,9 +108,11 @@ brennbar adj
 britisch adj
 brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
+buchhalterisch adj
 buchstäblich adj
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten
 bürgerlich adj
+bürokratisch adj cmp=bürokratischer sup=bürokratischsten
 byzantinisch adj

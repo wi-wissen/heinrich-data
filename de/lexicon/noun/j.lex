@@ -22,6 +22,7 @@ Jesuit noun g=m gen=Jesuiten pl=Jesuiten
 Jetlag noun g=m gen=Jetlags pl=Jetlags
 Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
+Jobsharing noun g=n gen=Jobsharings pl=- note=mass noun
 Joch noun g=n gen=Jochs|Joches pl=Joche
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning

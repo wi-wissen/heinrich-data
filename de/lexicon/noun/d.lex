@@ -34,8 +34,11 @@ Dauer         noun g=f gen=Dauer pl=- note=no plural
 Daumen noun g=m gen=Daumens pl=Daumen
 Daune noun g=f gen=Daune pl=Daunen
 Daunenjacke noun g=f gen=Daunenjacke pl=Daunenjacken
+Deadline noun g=f gen=Deadline pl=Deadlines
 Deal noun g=m gen=Deals pl=Deals
 Debatte       noun g=f gen=Debatte pl=Debatten
+Debitor noun g=m gen=Debitors pl=Debitoren
+Debriefing noun g=n gen=Debriefings pl=Debriefings
 Debüt noun g=n gen=Debüts pl=Debüts
 Deck noun g=n gen=Decks|Deckes pl=Decks|Decke[rare]
 Decke noun g=f gen=Decke pl=Decken
@@ -81,6 +84,7 @@ Designer noun g=m gen=Designers pl=Designer
 Designerin noun g=f gen=Designerin pl=Designerinnen
 Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
+Desktop noun g=m gen=Desktops pl=Desktops
 Dessert noun g=n gen=Desserts pl=Desserts
 Detail noun g=n gen=Details pl=Details
 Detektiv noun g=m gen=Detektivs pl=Detektive
@@ -89,7 +93,11 @@ Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
 Deutsche      noun g=m|f decl=adj
 Deutung noun g=f gen=Deutung pl=Deutungen
+Devisen noun g=pl note=foreign currency
 Dezember noun g=m gen=Dezember|Dezembers pl=Dezember[rare] note=month name; plural rare (die Dezember)
+Dezernat noun g=n gen=Dezernats|Dezernates pl=Dezernate
+Dezernent noun g=m gen=Dezernenten pl=Dezernenten
+Dezernentin noun g=f gen=Dezernentin pl=Dezernentinnen
 Dezimalzahl noun g=f gen=Dezimalzahl pl=Dezimalzahlen
 Diabetes noun g=m gen=Diabetes pl=- note=no plural
 Diagnose noun g=f gen=Diagnose pl=Diagnosen
@@ -154,17 +162,21 @@ Diskurs noun g=m gen=Diskurses pl=Diskurse
 Diskus noun g=m gen=Diskus|Diskusses pl=Diskusse|Disken conf=80 note=plural unsure; sports discus
 Diskussion    noun g=f gen=Diskussion pl=Diskussionen
 Display noun g=n gen=Displays pl=Displays
+Disponent noun g=m gen=Disponenten pl=Disponenten
+Disponentin noun g=f gen=Disponentin pl=Disponentinnen
 Disposition noun g=f gen=Disposition pl=Dispositionen
 Dissertation noun g=f gen=Dissertation pl=Dissertationen
 Distanz noun g=f gen=Distanz pl=Distanzen
 Distel noun g=f gen=Distel pl=Disteln
 Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
+Dividende noun g=f gen=Dividende pl=Dividenden
 Division      noun g=f gen=Division pl=Divisionen
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
 Docke noun g=f gen=Docke pl=Docken
+Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
 Doge noun g=m gen=Dogen pl=Dogen
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
@@ -185,6 +197,7 @@ Donner noun g=m gen=Donners pl=- note=thunder; no plural
 Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Doping noun g=n gen=Dopings pl=- note=no plural
 Doppel noun g=n gen=Doppels pl=Doppel
+Doppelklick noun g=m gen=Doppelklicks pl=Doppelklicks
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
 Dörfler noun g=m gen=Dörflers pl=Dörfler
 Dorn noun g=m gen=Dorns|Dornes pl=Dornen|Dorne[rare]
@@ -216,6 +229,7 @@ Dreisatz noun g=m gen=Dreisatzes pl=- note=no plural
 Dreisprung noun g=m gen=Dreisprungs|Dreisprunges pl=Dreisprünge
 Dresdner noun g=m gen=Dresdners pl=Dresdner
 Dressur noun g=f gen=Dressur pl=Dressuren
+Dringlichkeit noun g=f gen=Dringlichkeit pl=Dringlichkeiten
 Drittel       noun g=n gen=Drittels pl=Drittel
 Drittstaat noun g=m gen=Drittstaates|Drittstaats pl=Drittstaaten
 Droge noun g=f gen=Droge pl=Drogen
@@ -223,6 +237,7 @@ Drogerie noun g=f gen=Drogerie pl=Drogerien
 Drohne noun g=f gen=Drohne pl=Drohnen
 Drohung noun g=f gen=Drohung pl=Drohungen
 Dromedar noun g=n gen=Dromedars pl=Dromedare
+Dropdown noun g=n gen=Dropdowns pl=Dropdowns conf=80 note=Dropdown-Menü; gender varies (das/der)
 Drossel noun g=f gen=Drossel pl=Drosseln
 Druck         noun g=m gen=Drucks|Druckes pl=Drücke sense=pressure
 Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print
@@ -230,6 +245,7 @@ Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
 Druckerin noun g=f gen=Druckerin pl=Druckerinnen
 Dschungel noun g=m gen=Dschungels pl=Dschungel
+DSGVO noun g=f gen=DSGVO pl=- note=Datenschutz-Grundverordnung
 Dübel noun g=m gen=Dübels pl=Dübel
 Dudelsack noun g=m gen=Dudelsacks|Dudelsackes pl=Dudelsäcke
 Duell noun g=n gen=Duells pl=Duelle
@@ -252,6 +268,7 @@ Durchlaucht noun g=f gen=Durchlaucht pl=Durchlauchten
 Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser
 Durchschnitt noun g=m gen=Durchschnitts|Durchschnittes pl=Durchschnitte
 Durchsetzung noun g=f gen=Durchsetzung pl=- note=no plural
+Durchwahl noun g=f gen=Durchwahl pl=Durchwahlen
 Dürre noun g=f gen=Dürre pl=Dürren
 Dürreperiode noun g=f gen=Dürreperiode pl=Dürreperioden
 Durst noun g=m gen=Durstes|Dursts[rare] pl=- note=no plural

@@ -6,6 +6,7 @@
 übermüdet adj cmp=übermüdeter sup=übermüdetsten
 übermütig adj cmp=übermütiger sup=übermütigsten
 überrascht adj cmp=überraschter sup=überraschtesten
+überschuldet adj
 überteuert adj
 übertragen adj
 überzeugend adj cmp=überzeugender sup=überzeugendsten
@@ -16,6 +17,7 @@ umfangreich adj cmp=umfangreicher sup=umfangreichsten
 umgangssprachlich adj
 umgehend adj note=immediately; participle of umgehen used as adjective/adverb
 umliegend adj attr_only note=die umliegenden Dörfer
+umseitig adj
 umständlich adj cmp=umständlicher sup=umständlichsten
 umstritten adj cmp=umstrittener sup=umstrittensten
 unabhängig adj cmp=unabhängiger sup=unabhängigsten
@@ -25,6 +27,7 @@ unartig adj cmp=unartiger sup=unartigsten
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
 unbefangen adj
+unbefristet adj
 unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
 unbegründet adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
@@ -38,6 +41,7 @@ unbestritten adj
 unbeweglich adj cmp=unbeweglicher sup=unbeweglichsten
 unbewusst adj cmp=unbewusster sup=unbewusstesten
 unbrauchbar adj cmp=unbrauchbarer sup=unbrauchbarsten
+unbürokratisch adj cmp=unbürokratischer sup=unbürokratischsten
 undeutlich adj cmp=undeutlicher sup=undeutlichsten
 undurchsichtig adj
 unehrlich adj cmp=unehrlicher sup=unehrlichsten
@@ -46,6 +50,7 @@ unendlich adj
 unentbehrlich adj
 unentgeltlich adj
 unerlässlich adj
+unerledigt adj
 unermüdlich adj
 unerreichbar adj
 unerträglich adj
@@ -93,6 +98,7 @@ unordentlich adj cmp=unordentlicher sup=unordentlichsten
 unpünktlich adj cmp=unpünktlicher sup=unpünktlichsten
 unrecht adj
 unregelmäßig adj
+unrentabel adj
 unrichtig adj
 unruhig adj
 unsäglich adj
@@ -103,9 +109,12 @@ unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
 unsinnig adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
+untenstehend adj conf=80 note=also written unten stehend
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
+unterhaltspflichtig adj
 unterirdisch adj
+unterjährig adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
@@ -122,6 +131,7 @@ unverzüglich adj
 unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
+unwiderruflich adj
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj

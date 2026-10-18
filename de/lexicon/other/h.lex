@@ -7,6 +7,7 @@ hl x note=Hektoliter
 Hl. x note=Heilige(r)
 hm intj
 hopp intj
+Hr. x note=Herr
 Hrsg. x note=Herausgeber
 hurra intj
 Hz x note=Hertz
