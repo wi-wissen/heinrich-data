@@ -16,7 +16,6 @@ etwas        pron type=ind
 nichts       pron type=neg
 irgendetwas  pron type=ind
 irgendwas    pron type=ind style=colloquial
-was          pron type=ind sense=ind style=colloquial note=colloquial for etwas (ich habe was gehört)
 nix          pron type=neg style=colloquial
 
 # ---------------------------------------------------------------- ein, kein, irgendein
@@ -68,4 +67,4 @@ mancherlei   det type=ind
 vielerlei    det type=ind
 keinerlei    det type=neg
 beiderlei    det type=tot
-was          pron type=ind sense=indef sg=was,-,-,was style=colloquial note=colloquial for etwas (ich habe was gesehen)
+was          pron type=ind sense=ind sg=was,-,-,was style=colloquial note=colloquial for etwas (ich habe was gesehen)
