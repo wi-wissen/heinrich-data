@@ -62,6 +62,7 @@ single adj
 singular adj adv=singularly
 sinister adj
 situated adj
+sized adj note=of a given size (medium-sized)
 skilled adj
 Slavic adj
 sleepy adj cmp=er

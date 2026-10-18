@@ -4,6 +4,7 @@ narrate       verb
 narrow        verb
 navigate      verb
 near          verb
+necessitate verb
 need          verb
 neglect       verb
 negotiate     verb
