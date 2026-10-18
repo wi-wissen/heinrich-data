@@ -1,8 +1,17 @@
+Sabha x foreign note=in Lok Sabha, Rajya Sabha
 Sch. x abbr note=Schedule (legislation)
 se x foreign note=only in per se
+Sec. x abbr note=Section
 sec. x abbr note=section; second
+Sen. x abbr note=Senator
 Sept. x abbr note=September
 seq. x abbr note=in et seq. (and the following)
+Serie x foreign note=in Serie A (Italian football league)
+Señor x foreign note=Spanish title
+Sgt. x abbr note=Sergeant
+sic x foreign note=Latin, marks a quotation as original
+Signor x foreign note=Italian title
+Sinn x foreign note=in Sinn Féin
 sq. x abbr note=square
 Sr. x abbr note=Senior
 ss. x abbr note=sections

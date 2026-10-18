@@ -3,7 +3,9 @@ thereafter adv type=time
 thereby adv type=manner
 therein adv type=place
 thereof adv
+thereto adv
 thereunder adv note=legal register
+thirdly adv
 thither adv type=place style=archaic
 today adv type=time
 together adv type=manner
