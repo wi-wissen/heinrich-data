@@ -89,12 +89,14 @@ umgraben verb class=strong sep=um 3sg=umgräbt past=umgrub pp=umgegraben subj2=u
 umhauen verb class=strong sep=um 3sg=umhaut past=umhaute|umhieb[archaic] subj2=umhaute|umhiebe[archaic] pp=umgehauen perf=haben
 umkehren verb class=weak sep=um pp=umgekehrt perf=haben|sein
 umkippen verb class=weak sep=um pp=umgekippt perf=haben|sein
-umklammern verb class=weak sep=um pp=umgeklammert perf=haben
-umkleiden verb class=weak sep=um pp=umgekleidet perf=haben refl=acc
+umklammern verb class=weak pp=umklammert perf=haben
+umkleiden verb class=weak sep=um pp=umgekleidet perf=haben refl=acc sense=separable note=stressed prefix (separable)
+umkleiden verb class=weak pp=umkleidet perf=haben refl=acc sense=inseparable note=unstressed prefix (inseparable)
 umknicken verb class=weak sep=um pp=umgeknickt perf=haben|sein
-umkreisen verb class=weak sep=um pp=umgekreist perf=haben
+umkreisen verb class=weak pp=umkreist perf=haben
 umkrempeln verb class=weak sep=um pp=umgekrempelt perf=haben
-umlaufen verb class=strong sep=um 3sg=umläuft past=umlief subj2=umliefe pp=umgelaufen perf=sein
+umlaufen verb class=strong sep=um 3sg=umläuft past=umlief subj2=umliefe pp=umgelaufen perf=sein sense=separable note=stressed prefix (separable)
+umlaufen verb class=strong 3sg=umläuft past=umlief subj2=umliefe pp=umlaufen perf=haben sense=inseparable note=unstressed prefix (inseparable)
 umleiten verb class=weak sep=um pp=umgeleitet perf=haben
 umlenken verb class=weak sep=um pp=umgelenkt perf=haben
 umpacken verb class=weak sep=um pp=umgepackt perf=haben
@@ -104,17 +106,19 @@ umrechnen verb class=weak sep=um pp=umgerechnet perf=haben
 umringen verb class=weak pp=umringt perf=haben
 umrühren verb class=weak sep=um pp=umgerührt perf=haben
 umrüsten verb class=weak sep=um pp=umgerüstet perf=haben
-umsäumen verb class=weak sep=um pp=umgesäumt perf=haben
+umsäumen verb class=weak pp=umsäumt perf=haben
 umschalten verb class=weak sep=um pp=umgeschaltet perf=haben
 umschauen verb class=weak sep=um pp=umgeschaut perf=haben refl=acc
 umschlagen verb class=strong sep=um 3sg=umschlägt past=umschlug subj2=umschlüge pp=umgeschlagen perf=haben|sein
 umschließen verb class=strong 3sg=umschließt past=umschloss pp=umschlossen subj2=umschlösse perf=haben
-umschreiben verb class=strong sep=um 3sg=umschreibt past=umschrieb subj2=umschriebe pp=umgeschrieben perf=haben
+umschreiben verb class=strong sep=um 3sg=umschreibt past=umschrieb subj2=umschriebe pp=umgeschrieben perf=haben sense=separable note=stressed prefix (separable)
+umschreiben verb class=strong 3sg=umschreibt past=umschrieb subj2=umschriebe pp=umschrieben perf=haben sense=inseparable note=unstressed prefix (inseparable)
 umschulen verb class=weak sep=um pp=umgeschult perf=haben
-umschwärmen verb class=weak sep=um pp=umgeschwärmt perf=haben
+umschwärmen verb class=weak pp=umschwärmt perf=haben
 umsehen verb class=strong sep=um 3sg=umsieht past=umsah,umsahst|umsahest[archaic],umsah,umsahen,umsaht,umsahen subj2=umsähe pp=umgesehen perf=haben refl=acc
 umsetzen verb class=weak sep=um pp=umgesetzt perf=haben
-umspannen verb class=weak sep=um pp=umgespannt perf=haben
+umspannen verb class=weak sep=um pp=umgespannt perf=haben sense=separable note=stressed prefix (separable)
+umspannen verb class=weak pp=umspannt perf=haben sense=inseparable note=unstressed prefix (inseparable)
 umspringen verb class=strong sep=um 3sg=umspringt past=umsprang subj2=umspränge pp=umgesprungen perf=sein
 umsteigen verb class=strong sep=um 3sg=umsteigt past=umstieg pp=umgestiegen subj2=umstiege perf=sein
 umstellen verb class=weak sep=um pp=umgestellt perf=haben refl=acc
@@ -123,17 +127,15 @@ umstoßen verb class=strong sep=um 3sg=umstößt past=umstieß pp=umgestoßen su
 umstürzen verb class=weak sep=um pp=umgestürzt perf=haben|sein
 umtauschen verb class=weak sep=um pp=umgetauscht perf=haben
 umtopfen verb class=weak pp=umgetopft perf=haben sep=um
-umtragen verb class=strong sep=um 3sg=umträgt past=umtrug subj2=umtrüge pp=umgetragen perf=haben
 umtreiben verb class=strong sep=um 3sg=umtreibt past=umtrieb subj2=umtriebe pp=umgetrieben perf=haben
-umtreten verb class=strong sep=um 3sg=umtritt past=umtrat subj2=umträte pp=umgetreten perf=haben
 umwandeln verb class=weak sep=um pp=umgewandelt perf=haben
 umwehen verb class=weak sep=um pp=umgeweht perf=haben
 umwenden verb class=mixed sep=um 3sg=umwendet past=umwandte|umwendete subj2=umwendete|umwandte pp=umgewandt|umgewendet perf=haben refl=acc
-umwerben verb class=strong sep=um 3sg=umwirbt past=umwarb subj2=umwürbe pp=umgeworben perf=haben
+umwerben verb class=strong 3sg=umwirbt past=umwarb subj2=umwürbe pp=umworben perf=haben
 umwerfen verb class=strong sep=um 3sg=umwirft past=umwarf subj2=umwürfe pp=umgeworfen perf=haben
-umzäunen verb class=weak sep=um pp=umgezäunt perf=haben
+umzäunen verb class=weak pp=umzäunt perf=haben
 umziehen verb class=strong sep=um 3sg=umzieht past=umzog pp=umgezogen subj2=umzöge perf=haben|sein refl=acc
-umzingeln verb class=weak sep=um pp=umgezingelt perf=haben
+umzingeln verb class=weak pp=umzingelt perf=haben
 unterbinden verb class=strong 3sg=unterbindet past=unterband pp=unterbunden subj2=unterbände perf=haben
 unterbleiben verb class=strong 3sg=unterbleibt past=unterblieb pp=unterblieben subj2=unterbliebe perf=sein
 unterbrechen verb class=strong 3sg=unterbricht past=unterbrach pp=unterbrochen subj2=unterbräche perf=haben

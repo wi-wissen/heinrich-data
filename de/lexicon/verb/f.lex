@@ -20,7 +20,6 @@ fertigen verb class=weak pp=gefertigt perf=haben
 fertigstellen verb class=weak sep=fertig pp=fertiggestellt perf=haben
 fesseln verb class=weak pp=gefesselt perf=haben
 festbinden verb class=strong sep=fest 3sg=festbindet past=festband subj2=festbände pp=festgebunden perf=haben
-festbleiben verb class=strong sep=fest 3sg=festbleibt past=festblieb subj2=festbliebe pp=festgeblieben perf=sein
 festhalten verb class=strong sep=fest 3sg=festhält past=festhielt pp=festgehalten subj2=festhielte perf=haben
 festklammern verb class=weak sep=fest pp=festgeklammert perf=haben refl=acc
 festkleben verb class=weak sep=fest pp=festgeklebt perf=haben

@@ -51,7 +51,7 @@ heraufschauen verb class=weak sep=herauf pp=heraufgeschaut perf=haben
 heraufsetzen verb class=weak sep=herauf pp=heraufgesetzt perf=haben
 heraufsteigen verb class=strong sep=herauf 3sg=heraufsteigt past=heraufstieg subj2=heraufstiege pp=heraufgestiegen perf=sein
 herauftragen verb class=strong sep=herauf 3sg=heraufträgt past=herauftrug subj2=herauftrüge pp=heraufgetragen perf=haben
-heraufziehen verb class=strong sep=herauf 3sg=heraufzieht past=heraufzog subj2=heraufzöge pp=heraufgezogen perf=haben
+heraufziehen verb class=strong sep=herauf 3sg=heraufzieht past=heraufzog subj2=heraufzöge pp=heraufgezogen perf=haben|sein
 herausbringen verb class=mixed sep=heraus 3sg=herausbringt past=herausbrachte subj2=herausbrächte pp=herausgebracht perf=haben
 herausfallen verb class=strong sep=heraus 3sg=herausfällt past=herausfiel subj2=herausfiele pp=herausgefallen perf=sein
 herausfinden verb class=strong sep=heraus 3sg=herausfindet past=herausfand subj2=herausfände pp=herausgefunden perf=haben
@@ -286,7 +286,6 @@ hinhören verb class=weak sep=hin pp=hingehört perf=haben
 hinken verb class=weak pp=gehinkt perf=haben|sein
 hinkommen verb class=strong sep=hin 3sg=hinkommt|hinkömmt[old] past=hinkam subj2=hinkäme pp=hingekommen perf=sein
 hinkriegen verb class=weak sep=hin pp=hingekriegt perf=haben
-hinlassen verb class=strong sep=hin 3sg=hinlässt past=hinließ subj2=hinließe pp=hingelassen perf=haben
 hinlaufen verb class=strong sep=hin 3sg=hinläuft past=hinlief subj2=hinliefe pp=hingelaufen perf=sein
 hinlegen verb class=weak sep=hin pp=hingelegt perf=haben refl=acc
 hinnehmen verb class=strong sep=hin 3sg=hinnimmt past=hinnahm pp=hingenommen subj2=hinnähme perf=haben
@@ -355,7 +354,7 @@ hochkrempeln verb class=weak sep=hoch pp=hochgekrempelt perf=haben
 hochladen verb class=strong sep=hoch 3sg=hochlädt past=hochlud pp=hochgeladen subj2=hochlüde perf=haben
 hochlaufen verb class=strong sep=hoch 3sg=hochläuft past=hochlief subj2=hochliefe pp=hochgelaufen perf=sein
 hochnehmen verb class=strong sep=hoch 3sg=hochnimmt past=hochnahm subj2=hochnähme pp=hochgenommen perf=haben
-hochrechnen verb class=weak sep=hoch pp=hochgerechnt perf=haben
+hochrechnen verb class=weak sep=hoch pp=hochgerechnet perf=haben
 hochschauen verb class=weak sep=hoch pp=hochgeschaut perf=haben
 hochschießen verb class=strong sep=hoch 3sg=hochschießt past=hochschoss subj2=hochschösse pp=hochgeschossen perf=sein
 hochschrauben verb class=weak sep=hoch pp=hochgeschraubt perf=haben

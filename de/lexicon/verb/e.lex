@@ -73,7 +73,7 @@ einquartieren verb class=weak sep=ein pp=einquartiert perf=haben
 einrahmen verb class=weak sep=ein pp=eingerahmt perf=haben
 einrasten verb class=weak sep=ein pp=eingerastet perf=sein
 einräumen verb class=weak sep=ein pp=eingeräumt perf=haben
-einrechnen verb class=weak sep=ein pp=eingerechnt perf=haben
+einrechnen verb class=weak sep=ein pp=eingerechnet perf=haben
 einreden verb class=weak sep=ein pp=eingeredet perf=haben
 einreiben verb class=strong sep=ein 3sg=einreibt past=einrieb pp=eingerieben subj2=einriebe perf=haben refl=acc
 einreichen verb class=weak sep=ein pp=eingereicht perf=haben
@@ -142,10 +142,9 @@ einwerfen verb class=strong sep=ein 3sg=einwirft past=einwarf subj2=einwürfe pp
 einwickeln verb class=weak sep=ein pp=eingewickelt perf=haben refl=acc
 einwilligen verb class=weak sep=ein pp=eingewilligt perf=haben
 einwirken verb class=weak sep=ein pp=eingewirkt perf=haben
-einwohnen verb class=weak sep=ein pp=eingewohnt perf=haben
 einzahlen verb class=weak pp=eingezahlt perf=haben sep=ein
 einzäunen verb class=weak sep=ein pp=eingezäunt perf=haben
-einzeichnen verb class=weak sep=ein pp=eingezeichnt perf=haben
+einzeichnen verb class=weak sep=ein pp=eingezeichnet perf=haben
 einzementieren verb class=weak sep=ein pp=einzementiert perf=haben
 einziehen verb class=strong sep=ein 3sg=einzieht past=einzog pp=eingezogen subj2=einzöge perf=sein|haben
 einzwängen verb class=weak sep=ein pp=eingezwängt perf=haben

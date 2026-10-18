@@ -23,7 +23,6 @@ zergehen verb class=strong 3sg=zergeht past=zerging|zergieng[old] subj2=zerginge
 zerhacken verb class=weak pp=zerhackt perf=haben
 zerhauen verb class=strong 3sg=zerhaut past=zerhaute|zerhieb[archaic] subj2=zerhaute|zerhiebe[archaic] pp=zerhauen perf=haben
 zerkauen verb class=weak pp=zerkaut perf=haben
-zerkleben verb class=weak pp=zerklebt perf=haben
 zerkleinern verb class=weak pp=zerkleinert perf=haben
 zerknittern verb class=weak pp=zerknittert perf=haben|sein
 zerknüllen verb class=weak pp=zerknüllt perf=haben
@@ -107,7 +106,6 @@ zunehmen verb class=strong sep=zu 3sg=zunimmt past=zunahm pp=zugenommen subj2=zu
 zunicken verb class=weak sep=zu pp=zugenickt perf=haben
 zuordnen verb class=weak sep=zu pp=zugeordnet perf=haben
 zupacken verb class=weak sep=zu pp=zugepackt perf=haben
-zupfeifen verb class=strong sep=zu 3sg=zupfeift past=zupfiff subj2=zupfiffe pp=zugepfiffen perf=haben
 zupfen verb class=weak pp=gezupft perf=haben
 zuraunen verb class=weak sep=zu pp=zugeraunt perf=haben
 zurechnen verb class=weak sep=zu pp=zugerechnet perf=haben
@@ -145,7 +143,7 @@ zurücklehnen verb class=weak sep=zurück pp=zurückgelehnt perf=haben refl=acc
 zurückliegen verb class=strong sep=zurück 3sg=zurückliegt past=zurücklag subj2=zurückläge pp=zurückgelegen perf=haben|sein
 zurückmelden verb class=weak sep=zurück pp=zurückgemeldet perf=haben
 zurücknehmen verb class=strong sep=zurück 3sg=zurücknimmt past=zurücknahm pp=zurückgenommen subj2=zurücknähme perf=haben
-zurückrechnen verb class=weak sep=zurück pp=zurückgerechnt perf=haben
+zurückrechnen verb class=weak sep=zurück pp=zurückgerechnet perf=haben
 zurückreisen verb class=weak sep=zurück pp=zurückgereist perf=sein
 zurückrennen verb class=mixed sep=zurück 3sg=zurückrennt past=zurückrannte subj2=zurückrennte pp=zurückgerannt perf=sein
 zurückrollen verb class=weak sep=zurück pp=zurückgerollt perf=haben|sein
@@ -202,7 +200,7 @@ zusammennähen verb class=weak sep=zusammen pp=zusammengenäht perf=haben
 zusammenpacken verb class=weak sep=zusammen pp=zusammengepackt perf=haben
 zusammenpassen verb class=weak sep=zusammen pp=zusammengepasst perf=haben
 zusammenpressen verb class=weak sep=zusammen pp=zusammengepresst perf=haben
-zusammenrechnen verb class=weak sep=zusammen pp=zusammengerechnt perf=haben
+zusammenrechnen verb class=weak sep=zusammen pp=zusammengerechnet perf=haben
 zusammenreißen verb class=strong sep=zusammen 3sg=zusammenreißt past=zusammenriss subj2=zusammenrisse pp=zusammengerissen perf=haben refl=acc
 zusammenrollen verb class=weak sep=zusammen pp=zusammengerollt perf=haben
 zusammenrücken verb class=weak sep=zusammen pp=zusammengerückt perf=sein

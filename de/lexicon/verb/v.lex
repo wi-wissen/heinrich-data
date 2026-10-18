@@ -216,7 +216,7 @@ verprügeln verb class=weak pp=verprügelt perf=haben
 verputzen verb class=weak pp=verputzt perf=haben
 verquatschen verb class=weak pp=verquatscht perf=haben refl=acc
 verraten verb class=strong 3sg=verrät past=verriet pp=verraten subj2=verriete perf=haben
-verrechnen verb class=weak pp=verrechnt perf=haben refl=acc
+verrechnen verb class=weak pp=verrechnet perf=haben refl=acc
 verregnen verb class=weak pp=verregnet perf=sein
 verreisen verb class=weak pp=verreist perf=sein
 verrichten verb class=weak pp=verrichtet perf=haben
@@ -426,10 +426,9 @@ vorliegen verb class=strong sep=vor 3sg=vorliegt past=vorlag pp=vorgelegen subj2
 vorlügen verb class=strong sep=vor 3sg=vorlügt past=vorlog subj2=vorlöge pp=vorgelogen perf=haben
 vormachen verb class=weak sep=vor pp=vorgemacht perf=haben
 vornehmen verb class=strong sep=vor 3sg=vornimmt past=vornahm pp=vorgenommen subj2=vornähme perf=haben refl=dat
-vorrechnen verb class=weak sep=vor pp=vorgerechnt perf=haben
+vorrechnen verb class=weak sep=vor pp=vorgerechnet perf=haben
 vorrücken verb class=weak sep=vor pp=vorgerückt perf=sein
 vorsagen verb class=weak sep=vor pp=vorgesagt perf=haben
-vorschauen verb class=weak sep=vor pp=vorgeschaut perf=haben
 vorschicken verb class=weak sep=vor pp=vorgeschickt perf=haben
 vorschießen verb class=strong sep=vor 3sg=vorschießt past=vorschoss subj2=vorschösse pp=vorgeschossen perf=haben|sein
 vorschlagen verb class=strong sep=vor 3sg=vorschlägt past=vorschlug pp=vorgeschlagen subj2=vorschlüge perf=haben

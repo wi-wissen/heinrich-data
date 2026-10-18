@@ -85,7 +85,6 @@ losstürzen verb class=weak sep=los pp=losgestürzt perf=sein
 lostraben verb class=weak sep=los pp=losgetrabt perf=sein
 lostreten verb class=strong sep=los 3sg=lostritt past=lostrat subj2=losträte pp=losgetreten perf=haben
 losweinen verb class=weak sep=los pp=losgeweint perf=haben
-loszählen verb class=weak sep=los pp=losgezählt perf=haben
 losziehen verb class=strong sep=los 3sg=loszieht past=loszog subj2=loszöge pp=losgezogen perf=sein
 löten verb class=weak pp=gelötet perf=haben
 lüften verb class=weak pp=gelüftet perf=haben

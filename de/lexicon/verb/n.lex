@@ -34,7 +34,6 @@ nachlegen verb class=weak sep=nach pp=nachgelegt perf=haben
 nachlesen verb class=strong sep=nach 3sg=nachliest past=nachlas pp=nachgelesen subj2=nachläse perf=haben
 nachmachen verb class=weak sep=nach pp=nachgemacht perf=haben
 nachmessen verb class=strong sep=nach 3sg=nachmisst past=nachmaß subj2=nachmäße pp=nachgemessen perf=haben
-nachplanen verb class=weak sep=nach pp=nachgeplant perf=haben
 nachprüfen verb class=weak sep=nach pp=nachgeprüft perf=haben
 nachrechnen verb class=weak sep=nach pp=nachgerechnet perf=haben
 nachreichen verb class=weak sep=nach pp=nachgereicht perf=haben
@@ -72,7 +71,7 @@ nachwirken verb class=weak sep=nach pp=nachgewirkt perf=haben
 nachwürzen verb class=weak sep=nach pp=nachgewürzt perf=haben
 nachzahlen verb class=weak sep=nach pp=nachgezahlt perf=haben
 nachzählen verb class=weak sep=nach pp=nachgezählt perf=haben
-nachzeichnen verb class=weak sep=nach pp=nachgezeichnt perf=haben
+nachzeichnen verb class=weak sep=nach pp=nachgezeichnet perf=haben
 nachziehen verb class=strong sep=nach 3sg=nachzieht past=nachzog subj2=nachzöge pp=nachgezogen perf=haben|sein
 nagen verb class=weak pp=genagt perf=haben
 nahen verb class=weak pp=genaht perf=sein

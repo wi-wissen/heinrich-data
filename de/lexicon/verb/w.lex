@@ -48,11 +48,10 @@ wegräumen verb class=weak sep=weg pp=weggeräumt perf=haben
 wegreisen verb class=weak sep=weg pp=weggereist perf=sein
 wegreißen verb class=strong sep=weg 3sg=wegreißt past=wegriss subj2=wegrisse pp=weggerissen perf=haben
 wegrennen verb class=mixed sep=weg 3sg=wegrennt past=wegrannte subj2=wegrennte pp=weggerannt perf=sein
-wegretten verb class=weak sep=weg pp=weggerettet perf=haben
 wegrollen verb class=weak sep=weg pp=weggerollt perf=haben|sein
 wegrutschen verb class=weak sep=weg pp=weggerutscht perf=sein
 wegsacken verb class=weak sep=weg pp=weggesackt perf=sein
-wegschaffen verb class=strong sep=weg 3sg=wegschafft past=wegschuf subj2=wegschüfe pp=weggeschaffen perf=haben
+wegschaffen verb class=weak sep=weg pp=weggeschafft perf=haben
 wegschauen verb class=weak sep=weg pp=weggeschaut perf=haben
 wegschenken verb class=weak sep=weg pp=weggeschenkt perf=haben
 wegschicken verb class=weak sep=weg pp=weggeschickt perf=haben
