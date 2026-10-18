@@ -798,5 +798,5 @@ cyclone noun
 cylinder noun
 cynicism noun pl=- note=uncountable
 Cypriot noun
-czar noun conf=90 note=also tsar
+czar noun conf=90 note=tsar is a separate entry
 Czech noun note=a person; the language

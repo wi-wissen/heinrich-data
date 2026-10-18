@@ -2,8 +2,10 @@ vacate        verb
 vacation      verb
 vaccinate     verb
 vacuum        verb
+validate verb
 value         verb
 vanish        verb
+vape verb
 vary          verb
 vault         verb
 veil          verb
@@ -12,6 +14,7 @@ venture       verb
 verge         verb
 verify        verb
 vest          verb
+vet verb
 veto          verb
 vex           verb
 video         verb
@@ -20,7 +23,9 @@ violate       verb
 visit         verb
 voice         verb
 void          verb
+volley verb
 volunteer     verb
+vomit verb note=stress on the first syllable: vomited
 vote          verb
 vow           verb
 voyage        verb
