@@ -110,10 +110,13 @@ Platte noun g=f gen=Platte pl=Platten
 Plattform noun g=f gen=Plattform pl=Plattformen
 Platz noun g=m gen=Platzes pl=Plätze
 Platzierung noun g=f gen=Platzierung pl=Platzierungen
+Playoff noun g=n gen=Playoffs pl=Playoffs conf=90 note=usually plural (die Playoffs); gender n assumed
 Plenum noun g=n gen=Plenums pl=Plenen|Plena[rare]
 Plus noun g=n gen=Plus pl=- note=das Plus; des Plus (bare genitive); mostly singular
 Poesie noun g=f gen=Poesie pl=Poesien
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
+Pol noun g=m gen=Pols pl=Pole
+Pole noun g=m gen=Polen pl=Polen note=inhabitant of Poland
 Politik noun g=f gen=Politik pl=- note=mass noun; Politiken is very rare
 Politiker noun g=m gen=Politikers pl=Politiker
 Politikerin noun g=f gen=Politikerin pl=Politikerinnen
@@ -121,35 +124,51 @@ Polizei noun g=f gen=Polizei pl=Polizeien
 Polizist noun g=m gen=Polizisten pl=Polizisten
 Pop noun g=m gen=Pop|Pops pl=- note=music genre; des Pop(s)
 Popularität noun g=f gen=Popularität pl=- note=mass noun
+Population noun g=f gen=Population pl=Populationen
+Populismus noun g=m gen=Populismus pl=- note=mass noun
+Porsche noun g=m gen=Porsches pl=Porsche|Porsches conf=85 note=car brand; also a surname
 Port noun g=m gen=Ports|Portes pl=Porte|Ports conf=80 note=harbour (elevated); computer port (Ports)
 Portal noun g=n gen=Portals pl=Portale
+Porto noun g=n gen=Portos pl=Portos|Porti
 Porträt noun g=n gen=Porträts pl=Porträts|Porträte[rare]
+Portugiese noun g=m gen=Portugiesen pl=Portugiesen
+Pose noun g=f gen=Pose pl=Posen
 Position noun g=f gen=Position pl=Positionen
 Post noun g=f gen=Post pl=- note=mass noun
 Posten noun g=m gen=Postens pl=Posten
 Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzial
 Potenzial noun g=n gen=Potenzials pl=Potenziale
+Potsdamer noun g=m gen=Potsdamers pl=Potsdamer note=inhabitant of Potsdam
 Powiat noun g=m gen=Powiats pl=Powiate conf=85 note=Polish administrative district
 Pracht noun g=f gen=Pracht pl=- note=mass noun
+Prädikat noun g=n gen=Prädikats|Prädikates pl=Prädikate
 Präfektur noun g=f gen=Präfektur pl=Präfekturen
 Prager noun g=m gen=Pragers pl=Prager note=inhabitant of Prague; also the indeclinable adjective
+Prägung noun g=f gen=Prägung pl=Prägungen
+Praktik noun g=f gen=Praktik pl=Praktiken
+Prämie noun g=f gen=Prämie pl=Prämien
 Präsentation noun g=f gen=Präsentation pl=Präsentationen
 Präsenz noun g=f gen=Präsenz pl=- note=mass noun
 Präsident noun g=m gen=Präsidenten pl=Präsidenten
 Präsidentin noun g=f gen=Präsidentin pl=Präsidentinnen
+Präsidentschaft noun g=f gen=Präsidentschaft pl=Präsidentschaften
 Präsidium noun g=n gen=Präsidiums pl=Präsidien
 Prävention noun g=f gen=Prävention pl=Präventionen
 Praxis noun g=f gen=Praxis pl=Praxen
 Prediger noun g=m gen=Predigers pl=Prediger
+Predigt noun g=f gen=Predigt pl=Predigten
 Preis noun g=m gen=Preises pl=Preise
 Premier noun g=m gen=Premiers pl=Premiers
 Premiere noun g=f gen=Premiere pl=Premieren
 Presse noun g=f gen=Presse pl=Pressen
+Pressefreiheit noun g=f gen=Pressefreiheit pl=- note=mass noun
 Priester noun g=m gen=Priesters pl=Priester
 Prinz noun g=m gen=Prinzen pl=Prinzen note=weak masculine
 Prinzessin noun g=f gen=Prinzessin pl=Prinzessinnen
 Prinzip noun g=n gen=Prinzips|Prinzipes pl=Prinzipien
+Prior noun g=m gen=Priors pl=Prioren
 Priorität noun g=f gen=Priorität pl=Prioritäten
+Privatisierung noun g=f gen=Privatisierung pl=Privatisierungen
 Privileg noun g=n gen=Privilegs|Privileges pl=Privilegien
 Probe noun g=f gen=Probe pl=Proben
 Problem noun g=n gen=Problems pl=Probleme
@@ -160,13 +179,20 @@ Produzent noun g=m gen=Produzenten pl=Produzenten
 Professor noun g=m gen=Professors pl=Professoren
 Professorin noun g=f gen=Professorin pl=Professorinnen
 Professur noun g=f gen=Professur pl=Professuren
+Profil noun g=n gen=Profils pl=Profile
+Prognose noun g=f gen=Prognose pl=Prognosen
 Programm noun g=n gen=Programms|Programmes pl=Programme
+Progression noun g=f gen=Progression pl=Progressionen
 Projekt noun g=n gen=Projekts|Projektes pl=Projekte
 Promotion noun g=f gen=Promotion pl=Promotionen
 Propaganda noun g=f gen=Propaganda pl=- note=mass noun
 Prophet noun g=m gen=Propheten pl=Propheten
 Propst noun g=m gen=Propstes|Propsts pl=Pröpste
+Prosa noun g=f gen=Prosa pl=- note=mass noun
+Prostitution noun g=f gen=Prostitution pl=- note=mass noun
+Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protest noun g=m gen=Protests|Protestes pl=Proteste
+Protestant noun g=m gen=Protestanten pl=Protestanten
 Protokoll noun g=n gen=Protokolls pl=Protokolle
 Prototyp noun g=m gen=Prototyps pl=Prototypen
 Provinz noun g=f gen=Provinz pl=Provinzen
@@ -177,8 +203,18 @@ Prüfling noun g=m gen=Prüflings pl=Prüflinge
 Prüfung noun g=f gen=Prüfung pl=Prüfungen
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
+Psychiater noun g=m gen=Psychiaters pl=Psychiater
+Psychiatrie noun g=f gen=Psychiatrie pl=Psychiatrien
+Psychoanalyse noun g=f gen=Psychoanalyse pl=Psychoanalysen
+Psychologe noun g=m gen=Psychologen pl=Psychologen
 Psychologie noun g=f gen=Psychologie pl=- note=mass noun
+Psychotherapie noun g=f gen=Psychotherapie pl=Psychotherapien
 Publikation noun g=f gen=Publikation pl=Publikationen
 Publikum noun g=n gen=Publikums pl=Publika[rare] note=mostly singular
 Publizist noun g=m gen=Publizisten pl=Publizisten
+Pult noun g=n gen=Pults|Pultes pl=Pulte
+Pulver noun g=n gen=Pulvers pl=Pulver
+Punk noun g=m gen=Punks pl=Punks
 Punkt noun g=m gen=Punktes|Punkts pl=Punkte
+Puppe noun g=f gen=Puppe pl=Puppen
+Putz noun g=m gen=Putzes pl=- note=plaster; mass noun

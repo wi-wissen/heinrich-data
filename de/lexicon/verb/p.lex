@@ -7,7 +7,9 @@ pflegen verb class=weak pp=gepflegt perf=haben
 planen verb class=weak pp=geplant perf=haben
 platzieren verb class=weak pp=platziert perf=haben refl=acc
 plündern verb class=weak pp=geplündert perf=haben
+positionieren verb class=weak pp=positioniert perf=haben
 prägen verb class=weak pp=geprägt perf=haben
+praktizieren verb class=weak pp=praktiziert perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben
 profitieren verb class=weak pp=profitiert perf=haben
