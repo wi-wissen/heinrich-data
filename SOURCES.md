@@ -73,3 +73,12 @@ German grammar; they contain only lemmas of our lexicon.
 common surnames in Germany, Austria and Switzerland) are our own data, written clean-room from
 general knowledge of names in German-speaking schools and families. No third-party name list,
 register statistic, directory or web source was consulted. Format and use: `de/names/README.md`.
+
+## English lexicon (`en/lexicon/`)
+
+Our own entries, written clean-room from general knowledge of English grammar and spelling (no
+third-party English lexicon, word list, Hunspell/SCOWL file, Wiktionary or WordNet table,
+dictionary or LanguageTool file was consulted). Format: `Heinrich/docs/LEXICON_FORMAT_EN.md`. The
+closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, prepositions,
+conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
+by hand on 2026-10-18.

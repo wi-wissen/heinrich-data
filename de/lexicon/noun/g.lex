@@ -6,6 +6,7 @@ Galgen noun g=m gen=Galgens pl=Galgen
 Galle noun g=f gen=Galle pl=Gallen
 Galopp noun g=m gen=Galopps pl=Galopps|Galoppe
 Gamer noun g=m gen=Gamers pl=Gamer
+Gamerin noun g=f gen=Gamerin pl=Gamerinnen
 Gämse noun g=f gen=Gämse pl=Gämsen
 Gang noun g=m gen=Ganges|Gangs pl=Gänge
 Gangschaltung noun g=f gen=Gangschaltung pl=Gangschaltungen
@@ -49,6 +50,7 @@ Gebärde noun g=f gen=Gebärde pl=Gebärden
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
 Gebell noun g=n gen=Gebells pl=- note=no plural
 Geber noun g=m gen=Gebers pl=Geber
+Geberin noun g=f gen=Geberin pl=Geberinnen
 Gebet noun g=n gen=Gebets|Gebetes pl=Gebete
 Gebiet noun g=n gen=Gebiets|Gebietes pl=Gebiete
 Gebilde noun g=n gen=Gebildes pl=Gebilde
@@ -92,9 +94,11 @@ Gefrierschrank noun g=m gen=Gefrierschranks|Gefrierschrankes pl=Gefrierschränke
 Gefühl noun g=n gen=Gefühls|Gefühles[rare] pl=Gefühle
 Gegebenheit noun g=f gen=Gegebenheit pl=Gegebenheiten
 Gegend noun g=f gen=Gegend pl=Gegenden
+Gegendarstellung noun g=f gen=Gegendarstellung pl=Gegendarstellungen
 Gegensatz noun g=m gen=Gegensatzes pl=Gegensätze
 Gegenseitigkeit noun g=f gen=Gegenseitigkeit pl=- note=no plural
 Gegenstand noun g=m gen=Gegenstandes|Gegenstands pl=Gegenstände
+Gegenstimme noun g=f gen=Gegenstimme pl=Gegenstimmen
 Gegenteil noun g=n gen=Gegenteils|Gegenteiles pl=Gegenteile
 Gegentheil noun g=n gen=Gegentheils|Gegentheiles pl=Gegentheile spelling=old style=archaic note=old spelling of Gegenteil
 Gegenwart noun g=f gen=Gegenwart pl=- note=no plural in use
@@ -155,6 +159,7 @@ Gemeinheit noun g=f gen=Gemeinheit pl=Gemeinheiten
 Gemeinsamkeit noun g=f gen=Gemeinsamkeit pl=Gemeinsamkeiten
 Gemeinschaft noun g=f gen=Gemeinschaft pl=Gemeinschaften
 Gemeinschaftskunde noun g=f gen=Gemeinschaftskunde pl=- note=no plural
+Gemengelage noun g=f gen=Gemengelage pl=Gemengelagen
 Gemisch noun g=n gen=Gemischs|Gemisches pl=Gemische
 Gemüse noun g=n gen=Gemüses pl=Gemüse
 Gemüt noun g=n gen=Gemüts|Gemütes pl=Gemüter
@@ -188,6 +193,7 @@ Geografie noun g=f gen=Geografie pl=Geografien
 Geographie noun g=f gen=Geographie pl=Geographien
 Geologe noun g=m gen=Geologen pl=Geologen
 Geologie noun g=f gen=Geologie pl=- note=science name
+Geologin noun g=f gen=Geologin pl=Geologinnen
 Geometrie noun g=f gen=Geometrie pl=Geometrien
 Gepäck noun g=n gen=Gepäcks|Gepäckes pl=- note=mass noun
 Gepard noun g=m gen=Gepards pl=Geparde
@@ -201,6 +207,7 @@ Gerede noun g=n gen=Geredes pl=- note=no plural
 Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte
 Gerichtsbarkeit noun g=f gen=Gerichtsbarkeit pl=Gerichtsbarkeiten
 Gerichtsvollzieher noun g=m gen=Gerichtsvollziehers pl=Gerichtsvollzieher
+Gerichtsvollzieherin noun g=f gen=Gerichtsvollzieherin pl=Gerichtsvollzieherinnen
 Germane noun g=m gen=Germanen pl=Germanen
 Germanist noun g=m gen=Germanisten pl=Germanisten
 Germanistik noun g=f gen=Germanistik pl=- note=academic subject
@@ -216,6 +223,7 @@ Gesandtschaft noun g=f gen=Gesandtschaft pl=Gesandtschaften
 Gesang noun g=m gen=Gesangs|Gesanges pl=Gesänge
 Gesäß noun g=n gen=Gesäßes pl=Gesäße
 Geschäft noun g=n gen=Geschäfts|Geschäftes[rare] pl=Geschäfte
+Geschäftsführerin noun g=f gen=Geschäftsführerin pl=Geschäftsführerinnen
 Geschäftsmann noun g=m gen=Geschäftsmannes|Geschäftsmanns pl=Geschäftsleute|Geschäftsmänner
 Geschehen noun g=n gen=Geschehens pl=- note=lexicalised nominal infinitive (das Geschehen = events); plural not used
 Geschenk noun g=n gen=Geschenks|Geschenkes pl=Geschenke
@@ -283,6 +291,7 @@ Gewerbe noun g=n gen=Gewerbes pl=Gewerbe
 Gewerbegebiet noun g=n gen=Gewerbegebiets|Gewerbegebietes pl=Gewerbegebiete
 Gewerbeordnung noun g=f gen=Gewerbeordnung pl=Gewerbeordnungen
 Gewerbesteuer noun g=f gen=Gewerbesteuer pl=Gewerbesteuern
+Gewerbetreibende noun g=m|f decl=adj
 Gewerkschaft noun g=f gen=Gewerkschaft pl=Gewerkschaften
 Gewerkschafter noun g=m gen=Gewerkschafters pl=Gewerkschafter
 Gewerkschafterin noun g=f gen=Gewerkschafterin pl=Gewerkschafterinnen
@@ -309,6 +318,7 @@ Ghetto noun g=n gen=Ghettos pl=Ghettos
 Giebel noun g=m gen=Giebels pl=Giebel
 Gier noun g=f gen=Gier pl=- note=mass noun
 Gießkanne noun g=f gen=Gießkanne pl=Gießkannen
+GIF noun g=n gen=GIF|GIFs pl=GIFs
 Gift noun g=n gen=Gifts|Giftes pl=Gifte
 Giftmüll noun g=m gen=Giftmülls pl=- note=no plural
 Gigawatt noun g=n gen=Gigawatts|Gigawatt pl=Gigawatt
@@ -379,6 +389,7 @@ Golf noun g=m gen=Golfs|Golfes pl=Golfe sense=gulf
 Golf noun g=n gen=Golfs pl=- sense=sport note=the game
 Gondel noun g=f gen=Gondel pl=Gondeln
 Gönner noun g=m gen=Gönners pl=Gönner
+Gönnerin noun g=f gen=Gönnerin pl=Gönnerinnen
 Gorilla noun g=m gen=Gorillas pl=Gorillas
 Gote noun g=m gen=Goten pl=Goten
 Gott noun g=m gen=Gottes|Gotts[archaic] pl=Götter
@@ -386,6 +397,7 @@ Gottheit noun g=f gen=Gottheit pl=Gottheiten
 Göttin noun g=f gen=Göttin pl=Göttinnen
 Gouvernement noun g=n gen=Gouvernements pl=Gouvernements
 Gouverneur noun g=m gen=Gouverneurs pl=Gouverneure
+Gouverneurin noun g=f gen=Gouverneurin pl=Gouverneurinnen
 Grab noun g=n gen=Grabes|Grabs[rare] pl=Gräber
 Graben noun g=m gen=Grabens pl=Gräben
 Grabmal noun g=n gen=Grabmals|Grabmales pl=Grabmäler|Grabmale
@@ -404,6 +416,7 @@ Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen
 Gras noun g=n gen=Grases pl=Gräser
 Gräschen noun g=n gen=Gräschens pl=Gräschen
+Gratifikation noun g=f gen=Gratifikation pl=Gratifikationen
 Gratulation noun g=f gen=Gratulation pl=Gratulationen
 Grau noun g=n gen=Grau|Graus pl=- note=colour name
 Grauen noun g=n gen=Grauens pl=- note=horror; lexicalised nominal infinitive of grauen

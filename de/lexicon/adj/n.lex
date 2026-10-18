@@ -3,6 +3,7 @@ nachdrücklich adj cmp=nachdrücklicher sup=nachdrücklichsten
 nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nachlässig adj cmp=nachlässiger sup=nachlässigsten
+nachrangig adj
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
 nachträglich adj
@@ -21,6 +22,7 @@ nationalsozialistisch adj
 naturalistisch adj
 naturgemäß adj
 natürlich adj cmp=natürlicher sup=natürlichsten
+nebenstehend adj
 neblig adj cmp=nebliger sup=nebligsten
 negativ adj cmp=negativer sup=negativsten
 neidisch adj cmp=neidischer sup=neidischsten
@@ -43,6 +45,7 @@ nordisch adj
 nördlich adj note=also a genitive preposition (closed/prepositions.lex)
 normal adj cmp=normaler sup=normalsten
 norwegisch adj
+notariell adj
 nötig adj cmp=nötiger sup=nötigsten
 notwendig adj cmp=notwendiger sup=notwendigsten
 nüchtern adj cmp=nüchterner sup=nüchternsten

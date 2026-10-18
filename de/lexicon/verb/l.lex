@@ -4,6 +4,7 @@ lackieren verb class=weak pp=lackiert perf=haben
 laden verb class=strong 3sg=lädt past=lud pp=geladen subj2=lüde perf=haben
 lagern verb class=weak pp=gelagert perf=haben
 lamentieren verb class=weak pp=lamentiert perf=haben
+laminieren verb class=weak pp=laminiert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
 langweilen verb class=weak pp=gelangweilt perf=haben refl=acc
 lärmen verb class=weak pp=gelärmt perf=haben
@@ -14,6 +15,7 @@ laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf
 lauschen verb class=weak pp=gelauscht perf=haben
 lauten verb class=weak pp=gelautet perf=haben
 läuten verb class=weak pp=geläutet perf=haben
+leasen verb class=weak pp=geleast perf=haben
 leben verb class=weak pp=gelebt perf=haben
 lecken verb class=weak pp=geleckt perf=haben
 leeren verb class=weak pp=geleert perf=haben refl=acc
@@ -39,7 +41,9 @@ lindern verb class=weak pp=gelindert perf=haben
 linsen verb class=weak pp=gelinst perf=haben
 lispeln verb class=weak pp=gelispelt perf=haben
 listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)
+lizenzieren verb class=weak pp=lizenziert perf=haben
 loben verb class=weak pp=gelobt perf=haben
+lochen verb class=weak pp=gelocht perf=haben
 locken verb class=weak pp=gelockt perf=haben
 löffeln verb class=weak pp=gelöffelt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc

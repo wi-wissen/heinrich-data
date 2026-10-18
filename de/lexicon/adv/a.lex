@@ -7,6 +7,7 @@ allenfalls adv
 allesamt adv
 alsbald adv
 alsdann adv
+anbei adv note=in letters: anbei erhalten Sie
 anscheinend adv
 aufwärts adv
 ausnahmsweise adv

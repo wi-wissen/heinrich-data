@@ -89,8 +89,10 @@ weihen verb class=weak pp=geweiht perf=haben
 weinen verb class=weak pp=geweint perf=haben
 weisen verb class=strong 3sg=weist past=wies pp=gewiesen subj2=wiese perf=haben
 weiterarbeiten verb class=weak sep=weiter pp=weitergearbeitet perf=haben
+weiterbearbeiten verb class=weak sep=weiter pp=weiterbearbeitet perf=haben
 weiterbeschäftigen verb class=weak sep=weiter pp=weitergebeschäftigt perf=haben
 weiterbestehen verb class=strong sep=weiter 3sg=weiterbesteht past=weiterbestand subj2=weiterbestünde|weiterbestände pp=weiterbestanden perf=haben
+weiterbilden verb class=weak sep=weiter pp=weitergebildet perf=haben
 weiterblättern verb class=weak sep=weiter pp=weitergeblättert perf=haben
 weiterdenken verb class=mixed sep=weiter 3sg=weiterdenkt past=weiterdachte subj2=weiterdächte pp=weitergedacht perf=haben
 weiterentwickeln verb class=weak sep=weiter pp=weiterentwickelt perf=haben
@@ -103,6 +105,7 @@ weitergeben verb class=strong sep=weiter 3sg=weitergibt past=weitergab pp=weiter
 weitergehen verb class=strong sep=weiter 3sg=weitergeht past=weiterging pp=weitergegangen subj2=weiterginge perf=sein
 weiterhelfen verb class=strong sep=weiter 3sg=weiterhilft past=weiterhalf subj2=weiterhülfe|weiterhälfe[rare] pp=weitergeholfen perf=haben
 weiterkämpfen verb class=weak sep=weiter pp=weitergekämpft perf=haben
+weiterklicken verb class=weak sep=weiter pp=weitergeklickt perf=haben
 weiterkommen verb class=strong sep=weiter 3sg=weiterkommt|weiterkömmt[old] past=weiterkam subj2=weiterkäme pp=weitergekommen perf=sein
 weiterlachen verb class=weak sep=weiter pp=weitergelacht perf=haben
 weiterlaufen verb class=strong sep=weiter 3sg=weiterläuft past=weiterlief subj2=weiterliefe pp=weitergelaufen perf=sein
@@ -121,6 +124,7 @@ weiterschicken verb class=weak sep=weiter pp=weitergeschickt perf=haben
 weiterschlafen verb class=strong sep=weiter 3sg=weiterschläft past=weiterschlief subj2=weiterschliefe pp=weitergeschlafen perf=haben
 weiterschreiben verb class=strong sep=weiter 3sg=weiterschreibt past=weiterschrieb subj2=weiterschriebe pp=weitergeschrieben perf=haben
 weiterschwimmen verb class=strong sep=weiter 3sg=weiterschwimmt past=weiterschwamm subj2=weiterschwömme|weiterschwämme pp=weitergeschwommen perf=sein
+weitersenden verb class=weak sep=weiter past=weitersendete|weitersandte pp=weitergesendet|weitergesandt perf=haben
 weitersingen verb class=strong sep=weiter 3sg=weitersingt past=weitersang subj2=weitersänge pp=weitergesungen perf=haben
 weiterspielen verb class=weak sep=weiter pp=weitergespielt perf=haben
 weiterspringen verb class=strong sep=weiter 3sg=weiterspringt past=weitersprang subj2=weiterspränge pp=weitergesprungen perf=sein

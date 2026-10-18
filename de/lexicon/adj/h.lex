@@ -30,6 +30,7 @@ herrlich adj cmp=herrlicher sup=herrlichsten
 herzlich adj cmp=herzlicher sup=herzlichsten
 hessisch adj
 heutig adj note=attributive only
+hierarchisch adj cmp=hierarchischer sup=hierarchischsten
 hiesig adj
 hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten

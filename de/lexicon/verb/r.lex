@@ -11,6 +11,7 @@ raspeln verb class=weak pp=geraspelt perf=haben
 rasseln verb class=weak pp=gerasselt perf=haben
 raten verb class=strong 3sg=rät past=riet pp=geraten subj2=riete perf=haben
 ratifizieren verb class=weak pp=ratifiziert perf=haben
+rationalisieren verb class=weak pp=rationalisiert perf=haben
 rätseln verb class=weak pp=gerätselt perf=haben
 rattern verb class=weak pp=gerattert perf=haben|sein
 rauben verb class=weak pp=geraubt perf=haben
@@ -96,6 +97,7 @@ reiten verb class=strong 3sg=reitet past=ritt pp=geritten subj2=ritte perf=haben
 reizen verb class=weak pp=gereizt perf=haben
 reklamieren verb class=weak pp=reklamiert perf=haben
 rekonstruieren verb class=weak pp=rekonstruiert perf=haben
+rekrutieren verb class=weak pp=rekrutiert perf=haben
 relaxen verb class=weak pp=gerelaxt perf=haben
 rempeln verb class=weak pp=gerempelt perf=haben
 rennen verb class=mixed 3sg=rennt past=rannte pp=gerannt subj2=rennte perf=sein|haben
@@ -103,10 +105,12 @@ renovieren verb class=weak pp=renoviert perf=haben
 reparieren verb class=weak pp=repariert perf=haben
 repräsentieren verb class=weak pp=repräsentiert perf=haben
 reservieren verb class=weak pp=reserviert perf=haben
+resetten verb class=weak pp=resettet perf=haben conf=80 note=IT jargon; participle resettet without ge- (stress on the second syllable)
 respektieren verb class=weak pp=respektiert perf=haben
 restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben
 retten verb class=weak pp=gerettet perf=haben
+revidieren verb class=weak pp=revidiert perf=haben
 revoltieren verb class=weak pp=revoltiert perf=haben
 rezitieren verb class=weak pp=rezitiert perf=haben
 richten verb class=weak pp=gerichtet perf=haben refl=acc
@@ -144,6 +148,7 @@ rüberwerfen verb class=strong sep=rüber 3sg=rüberwirft past=rüberwarf subj2=
 rüberwinken verb class=weak sep=rüber pp=rübergewinkt perf=haben
 rüberziehen verb class=strong sep=rüber 3sg=rüberzieht past=rüberzog subj2=rüberzöge pp=rübergezogen perf=haben
 rücken verb class=weak pp=gerückt perf=haben|sein
+rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
 rudern verb class=weak pp=gerudert perf=haben|sein
 rufen verb class=strong 3sg=ruft past=rief pp=gerufen subj2=riefe perf=haben
 ruhen verb class=weak pp=geruht perf=haben
@@ -167,6 +172,7 @@ runterrennen verb class=mixed sep=runter 3sg=runterrennt past=runterrannte subj2
 runterrutschen verb class=weak sep=runter pp=runtergerutscht perf=sein
 runterschauen verb class=weak sep=runter pp=runtergeschaut perf=haben
 runterschlucken verb class=weak sep=runter pp=runtergeschluckt perf=haben
+runterscrollen verb class=weak sep=runter pp=runtergescrollt perf=haben style=colloquial
 runtersehen verb class=strong sep=runter 3sg=runtersieht past=runtersah,runtersahst|runtersahest[archaic],runtersah,runtersahen,runtersaht,runtersahen subj2=runtersähe pp=runtergesehen perf=haben
 runterspringen verb class=strong sep=runter 3sg=runterspringt past=runtersprang subj2=runterspränge pp=runtergesprungen perf=sein
 runterspülen verb class=weak sep=runter pp=runtergespült perf=haben

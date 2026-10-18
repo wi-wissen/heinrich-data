@@ -1,4 +1,5 @@
 fahren       verb class=strong 3sg=fährt past=fuhr pp=gefahren subj2=führe perf=haben|sein
+fakturieren verb class=weak pp=fakturiert perf=haben
 fallen verb class=strong 3sg=fällt past=fiel pp=gefallen subj2=fiele perf=sein
 fällen verb class=weak pp=gefällt perf=haben
 falten verb class=weak pp=gefaltet perf=haben
@@ -10,6 +11,7 @@ faszinieren verb class=weak pp=fasziniert perf=haben part1_cmp pp_cmp
 fauchen verb class=weak pp=gefaucht perf=haben
 faulen verb class=weak pp=gefault perf=sein
 faulenzen verb class=weak pp=gefaulenzt perf=haben
+faxen verb class=weak pp=gefaxt perf=haben
 fechten verb class=strong 3sg=ficht past=focht pp=gefochten subj2=föchte perf=haben
 fegen verb class=weak pp=gefegt perf=haben|sein
 fehlen verb class=weak pp=gefehlt perf=haben
@@ -77,24 +79,29 @@ folgern verb class=weak pp=gefolgert perf=haben
 foppen verb class=weak pp=gefoppt perf=haben
 fordern verb class=weak pp=gefordert perf=haben
 fördern verb class=weak pp=gefördert perf=haben
+formatieren verb class=weak pp=formatiert perf=haben
 formen verb class=weak pp=geformt perf=haben
 formulieren verb class=weak pp=formuliert perf=haben
 forschen verb class=weak pp=geforscht perf=haben
 fortbewegen verb class=weak sep=fort pp=fortbewegt perf=haben refl=acc
+fortbilden verb class=weak sep=fort pp=fortgebildet perf=haben
 fortfahren verb class=strong sep=fort 3sg=fortfährt past=fortfuhr pp=fortgefahren subj2=fortführe perf=haben|sein
 fortführen verb class=weak sep=fort pp=fortgeführt perf=haben
 fortlaufen verb class=strong sep=fort 3sg=fortläuft past=fortlief pp=fortgelaufen subj2=fortliefe perf=sein
+fortschreiben verb class=strong sep=fort 3sg=fortschreibt past=fortschrieb pp=fortgeschrieben subj2=fortschriebe perf=haben
 fortschreiten verb class=strong sep=fort 3sg=fortschreitet past=fortschritt pp=fortgeschritten subj2=fortschritte perf=sein
 fortsetzen verb class=weak sep=fort pp=fortgesetzt perf=haben
 fotografieren verb class=weak pp=fotografiert perf=haben
 foulen verb class=weak pp=gefoult perf=haben
 fragen verb class=weak past=fragte|frug[archaic] pp=gefragt subj2=fragte|früge[archaic] perf=haben refl=acc
+frankieren verb class=weak pp=frankiert perf=haben
 freigeben verb class=strong sep=frei 3sg=freigibt past=freigab pp=freigegeben subj2=freigäbe perf=haben
 freikommen verb class=strong sep=frei 3sg=freikommt|freikömmt[old] past=freikam subj2=freikäme pp=freigekommen perf=sein
 freilassen verb class=strong sep=frei 3sg=freilässt past=freiließ pp=freigelassen subj2=freiließe perf=haben
 freilaufen verb class=strong sep=frei 3sg=freiläuft past=freilief subj2=freiliefe pp=freigelaufen perf=sein
 freilegen verb class=weak sep=frei pp=freigelegt perf=haben
 freimachen verb class=weak sep=frei pp=freigemacht perf=haben
+freischalten verb class=weak sep=frei pp=freigeschaltet perf=haben
 freischaufeln verb class=weak sep=frei pp=freigeschaufelt perf=haben
 freischwimmen verb class=strong sep=frei 3sg=freischwimmt past=freischwamm subj2=freischwömme|freischwämme pp=freigeschwommen perf=haben refl=acc
 freisprechen verb class=strong sep=frei 3sg=freispricht past=freisprach pp=freigesprochen subj2=freispräche perf=haben

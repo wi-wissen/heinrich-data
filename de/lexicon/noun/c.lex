@@ -1,5 +1,8 @@
+Cache noun g=m gen=Caches pl=Caches
 Café noun g=n gen=Cafés pl=Cafés
 Cafeteria noun g=f gen=Cafeteria pl=Cafeterias
+Call noun g=m gen=Calls pl=Calls
+Callcenter noun g=n gen=Callcenters pl=Callcenter
 Camp noun g=n gen=Camps pl=Camps
 Camper noun g=m gen=Campers pl=Camper
 Camperin noun g=f gen=Camperin pl=Camperinnen
@@ -10,10 +13,12 @@ Canyon noun g=m gen=Canyons pl=Canyons
 Cap noun g=n gen=Caps pl=Caps
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän
 Capitel noun g=n gen=Capitels pl=Capitel spelling=old style=archaic note=old spelling of Kapitel
+Captcha noun g=n|m gen=Captchas pl=Captchas
 Carsharing noun g=n gen=Carsharings pl=- note=no plural (mass or abstract noun)
 Cartoon noun g=m|n gen=Cartoons pl=Cartoons
 Casanova noun g=m gen=Casanovas pl=Casanovas
 Cashew noun g=f gen=Cashew pl=Cashews
+Cashflow noun g=m gen=Cashflows pl=Cashflows
 Casino noun g=n gen=Casinos pl=Casinos
 CD noun g=f gen=CD pl=CDs note=Compact Disc
 Cello noun g=n gen=Cellos pl=Cellos|Celli
@@ -34,6 +39,7 @@ Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
 Chatbot noun g=m gen=Chatbots pl=Chatbots
+Chatroom noun g=m gen=Chatrooms pl=Chatrooms
 Chauffeur noun g=m gen=Chauffeurs pl=Chauffeure
 Chauffeurin noun g=f gen=Chauffeurin pl=Chauffeurinnen
 Chaussee noun g=f gen=Chaussee pl=Chausseen
@@ -49,6 +55,7 @@ Chiasmus noun g=m gen=Chiasmus pl=Chiasmen note=Latin loanword; genitive without
 Chili noun g=f gen=Chili pl=Chilis
 Chinese noun g=m gen=Chinesen pl=Chinesen
 Chinesin noun g=f gen=Chinesin pl=Chinesinnen
+Chip noun g=m gen=Chips pl=Chips
 Chirurg noun g=m gen=Chirurgen pl=Chirurgen
 Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
 Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
@@ -61,6 +68,7 @@ Christin noun g=f gen=Christin pl=Christinnen
 Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
+Chronistin noun g=f gen=Chronistin pl=Chronistinnen
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
 Clip noun g=m gen=Clips pl=Clips
@@ -69,6 +77,8 @@ Cloud noun g=f gen=Cloud pl=Clouds
 Clown noun g=m gen=Clowns pl=Clowns
 Clownin noun g=f gen=Clownin pl=Clowninnen
 Club          noun g=m gen=Clubs pl=Clubs
+Coach noun g=m gen=Coachs|Coaches pl=Coachs|Coaches
+Coaching noun g=n gen=Coachings pl=Coachings
 Cocktail noun g=m gen=Cocktails pl=Cocktails
 Code noun g=m gen=Codes pl=Codes
 Codex noun g=m gen=Codex|Codexes pl=Codices|Codizes[rare]
@@ -79,10 +89,15 @@ Comedy noun g=f gen=Comedy pl=Comedys|Comedies conf=80 note=plural unsure
 Comic noun g=m gen=Comics pl=Comics
 Commonwealth noun g=n gen=Commonwealth|Commonwealths pl=- conf=70 note=gender unsure (das Commonwealth)
 Community noun g=f gen=Community pl=Communitys|Communities conf=75 note=English loanword; plural unsure
+Compliance noun g=f gen=Compliance pl=- note=mass noun
 Computer noun g=m gen=Computers pl=Computer
+Consultant noun g=m gen=Consultants pl=Consultants
+Consulting noun g=n gen=Consultings pl=- note=mass noun
 Container noun g=m gen=Containers pl=Container
 Contest noun g=m gen=Contests pl=Contests conf=80 note=English loanword
 Controller noun g=m gen=Controllers pl=Controller
+Controllerin noun g=f gen=Controllerin pl=Controllerinnen
+Controlling noun g=n gen=Controllings pl=- note=mass noun
 Cookie noun g=m|n gen=Cookies pl=Cookies
 Copyright noun g=n gen=Copyrights pl=Copyrights
 Cornflakes noun g=pl
@@ -96,6 +111,7 @@ Cousine noun g=f gen=Cousine pl=Cousinen
 Cover noun g=n gen=Covers pl=Covers
 Covid noun g=n gen=Covid|Covids pl=- conf=60 note=COVID-19; gender fluctuates
 Cowboy noun g=m gen=Cowboys pl=Cowboys
+Coworking noun g=n gen=Coworkings pl=- note=mass noun
 Creme noun g=f gen=Creme pl=Cremes|Cremen
 Crêpe noun g=m|f gen=Crêpe pl=Crêpes
 Crew noun g=f gen=Crew pl=Crews
@@ -106,4 +122,5 @@ Cupcake noun g=m gen=Cupcakes pl=Cupcakes
 Curry noun g=m|n gen=Currys pl=Currys
 Currywurst noun g=f gen=Currywurst pl=Currywürste
 Cursor noun g=m gen=Cursors pl=Cursor|Cursors
+Cyberangriff noun g=m gen=Cyberangriffs|Cyberangriffes pl=Cyberangriffe
 Cybermobbing noun g=n gen=Cybermobbings pl=- note=no plural

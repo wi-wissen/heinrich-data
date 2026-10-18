@@ -5,3 +5,4 @@ gem. x note=gemäß
 ggf. x note=gegebenenfalls
 GHz x note=Gigahertz
 griech. x note=griechisch
+Gz. x note=Geschäftszeichen

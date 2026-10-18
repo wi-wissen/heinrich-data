@@ -1,6 +1,7 @@
 Macht noun g=f gen=Macht pl=Mächte
 Machtergreifung noun g=f gen=Machtergreifung pl=Machtergreifungen
 Machthaber noun g=m gen=Machthabers pl=Machthaber
+Machthaberin noun g=f gen=Machthaberin pl=Machthaberinnen
 Macke noun g=f gen=Macke pl=Macken style=colloquial
 Mädchen noun g=n gen=Mädchens pl=Mädchen
 Made noun g=f gen=Made pl=Maden
@@ -22,6 +23,8 @@ Mähne noun g=f gen=Mähne pl=Mähnen
 Mahnung noun g=f gen=Mahnung pl=Mahnungen
 Mai noun g=m gen=Mai|Mais pl=Maie[rare]|Maien[archaic] note=month name; plural rare (die Maien archaic)
 Mail noun g=f gen=Mail pl=Mails
+Mailing noun g=n gen=Mailings pl=Mailings
+Mailingliste noun g=f gen=Mailingliste pl=Mailinglisten
 Mainzer noun g=m gen=Mainzers pl=Mainzer note=inhabitant of Mainz; also the indeclinable adjective
 Mais noun g=m gen=Mais|Maises pl=- note=no plural
 Majestät noun g=f gen=Majestät pl=Majestäten
@@ -29,6 +32,7 @@ Major noun g=m gen=Majors pl=Majore
 Majoran noun g=m gen=Majorans pl=Majorane
 Make-up noun g=n gen=Make-ups pl=Make-ups
 Makler noun g=m gen=Maklers pl=Makler
+Maklerin noun g=f gen=Maklerin pl=Maklerinnen
 Mal noun g=n gen=Mals|Males pl=Male
 Maler noun g=m gen=Malers pl=Maler
 Malerei noun g=f gen=Malerei pl=Malereien
@@ -37,11 +41,14 @@ Mama noun g=f gen=Mama pl=Mamas
 Management noun g=n gen=Managements pl=Managements
 Manager noun g=m gen=Managers pl=Manager
 Managerin noun g=f gen=Managerin pl=Managerinnen
+Mandant noun g=m gen=Mandanten pl=Mandanten
+Mandantin noun g=f gen=Mandantin pl=Mandantinnen
 Mandarine noun g=f gen=Mandarine pl=Mandarinen
 Mandat noun g=n gen=Mandats|Mandates pl=Mandate
 Mandel noun g=f gen=Mandel pl=Mandeln
 Manga noun g=m|n gen=Mangas pl=Mangas conf=85 note=gender varies
 Mangel noun g=m gen=Mangels pl=Mängel sense=lack
+Mängelrüge noun g=f gen=Mängelrüge pl=Mängelrügen
 Mango noun g=f gen=Mango pl=Mangos
 Manier noun g=f gen=Manier pl=Manieren
 Manipulation noun g=f gen=Manipulation pl=Manipulationen
@@ -58,6 +65,7 @@ Marathon noun g=m gen=Marathons pl=Marathons
 Märchen noun g=n gen=Märchens pl=Märchen
 Marder noun g=m gen=Marders pl=Marder
 Margarine noun g=f gen=Margarine pl=- note=no plural
+Marge noun g=f gen=Marge pl=Margen
 Margerite noun g=f gen=Margerite pl=Margeriten
 Marienkäfer noun g=m gen=Marienkäfers pl=Marienkäfer
 Marine noun g=f gen=Marine pl=Marinen
@@ -67,6 +75,7 @@ Mark noun g=f gen=Mark pl=Marken sense=border_region note=die Mark Brandenburg, 
 Marke noun g=f gen=Marke pl=Marken
 Marketing noun g=n gen=Marketings pl=- note=mass noun
 Markgraf noun g=m gen=Markgrafen pl=Markgrafen
+Markierung noun g=f gen=Markierung pl=Markierungen
 Markt noun g=m gen=Marktes|Markts pl=Märkte
 Marktschreier noun g=m gen=Marktschreiers pl=Marktschreier
 Marktwirtschaft noun g=f gen=Marktwirtschaft pl=- note=no plural
@@ -115,6 +124,7 @@ Maurer noun g=m gen=Maurers pl=Maurer
 Maurerin noun g=f gen=Maurerin pl=Maurerinnen
 Maus noun g=f gen=Maus pl=Mäuse
 Mäuschen noun g=n gen=Mäuschens pl=Mäuschen
+Mauszeiger noun g=m gen=Mauszeigers pl=Mauszeiger
 Maut noun g=f gen=Maut pl=Mauten
 Maxime noun g=f gen=Maxime pl=Maximen
 Maximum noun g=n gen=Maximums pl=Maxima
@@ -128,13 +138,16 @@ Mechanismus noun g=m gen=Mechanismus pl=Mechanismen
 Medaille noun g=f gen=Medaille pl=Medaillen
 Median noun g=m gen=Medians pl=Mediane
 Mediathek noun g=f gen=Mediathek pl=Mediatheken
+Mediation noun g=f gen=Mediation pl=Mediationen
 Medikament noun g=n gen=Medikaments|Medikamentes pl=Medikamente
 Medium noun g=n gen=Mediums pl=Medien
 Medizin noun g=f gen=Medizin pl=Medizinen note=plural Medizinen (medicines) is rare
 Mediziner noun g=m gen=Mediziners pl=Mediziner
+Medizinerin noun g=f gen=Medizinerin pl=Medizinerinnen
 Meer noun g=n gen=Meeres|Meers pl=Meere
 Meeresspiegel noun g=m gen=Meeresspiegels pl=Meeresspiegel note=compound not split by the analyser
 Meerschweinchen noun g=n gen=Meerschweinchens pl=Meerschweinchen
+Meeting noun g=n gen=Meetings pl=Meetings
 Megawatt noun g=n gen=Megawatts|Megawatt pl=Megawatt note=unit
 Mehl noun g=n gen=Mehls|Mehles pl=Mehle
 Mehrheit noun g=f gen=Mehrheit pl=Mehrheiten
@@ -153,6 +166,7 @@ Melkmaschine noun g=f gen=Melkmaschine pl=Melkmaschinen
 Melodie noun g=f gen=Melodie pl=Melodien
 Melone noun g=f gen=Melone pl=Melonen
 Meme noun g=n gen=Memes pl=Memes
+Memo noun g=n gen=Memos pl=Memos
 Memoiren noun g=pl note=memoirs
 Menge noun g=f gen=Menge pl=Mengen
 Mensa noun g=f gen=Mensa pl=Mensas|Mensen
@@ -162,6 +176,9 @@ Menschenrecht noun g=n gen=Menschenrechts|Menschenrechtes pl=Menschenrechte
 Menschenwürde noun g=f gen=Menschenwürde pl=- note=no plural
 Menschheit noun g=f gen=Menschheit pl=- note=no plural
 Menschlichkeit noun g=f gen=Menschlichkeit pl=- note=no plural
+Mentor noun g=m gen=Mentors pl=Mentoren
+Mentorin noun g=f gen=Mentorin pl=Mentorinnen
+Mentoring noun g=n gen=Mentorings pl=Mentorings
 Menü noun g=n gen=Menüs pl=Menüs
 Merkmal noun g=n gen=Merkmals|Merkmales pl=Merkmale
 Messe noun g=f gen=Messe pl=Messen
@@ -211,6 +228,7 @@ Million noun g=f gen=Million pl=Millionen
 Millionär noun g=m gen=Millionärs pl=Millionäre
 Millionärin noun g=f gen=Millionärin pl=Millionärinnen
 Minderheit noun g=f gen=Minderheit pl=Minderheiten
+Minderjährige noun g=m|f decl=adj
 Minderung noun g=f gen=Minderung pl=Minderungen
 Mindestanforderung noun g=f gen=Mindestanforderung pl=Mindestanforderungen note=compound not split by the analyser
 Mindestlohn noun g=m gen=Mindestlohns|Mindestlohnes pl=Mindestlöhne
@@ -236,6 +254,7 @@ Missverständnis noun g=n gen=Missverständnisses pl=Missverständnisse
 Mistel noun g=f gen=Mistel pl=Misteln
 Mistkäfer noun g=m gen=Mistkäfers pl=Mistkäfer
 Mitarbeit noun g=f gen=Mitarbeit pl=- note=no plural
+Mitarbeitende noun g=m|f decl=adj note=gender-neutral for staff; mostly plural die Mitarbeitenden
 Mitarbeiter noun g=m gen=Mitarbeiters pl=Mitarbeiter
 Mitarbeiterin noun g=f gen=Mitarbeiterin pl=Mitarbeiterinnen
 Mitbegründer noun g=m gen=Mitbegründers pl=Mitbegründer
@@ -247,6 +266,8 @@ Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
+Mitschnitt noun g=m gen=Mitschnitts|Mitschnittes pl=Mitschnitte
+Mitschrift noun g=f gen=Mitschrift pl=Mitschriften
 Mitschüler noun g=m gen=Mitschülers pl=Mitschüler
 Mitschülerin noun g=f gen=Mitschülerin pl=Mitschülerinnen
 Mitspieler noun g=m gen=Mitspielers pl=Mitspieler
@@ -261,6 +282,7 @@ Mittelstufe noun g=f gen=Mittelstufe pl=Mittelstufen
 Mitternacht noun g=f gen=Mitternacht pl=- note=plural Mitternächte very rare
 Mittwoch noun g=m gen=Mittwochs|Mittwoch pl=Mittwoche
 Mitwirkung noun g=f gen=Mitwirkung pl=- note=no plural
+Mitzeichnung noun g=f gen=Mitzeichnung pl=Mitzeichnungen
 Mix noun g=m gen=Mixes pl=Mixe|Mixes
 Mixer noun g=m gen=Mixers pl=Mixer
 Mobber noun g=m gen=Mobbers pl=Mobber
@@ -272,6 +294,7 @@ Modalverb noun g=n gen=Modalverbs pl=Modalverben
 Mode noun g=f gen=Mode pl=Moden
 Model noun g=n gen=Models pl=Models
 Modell noun g=n gen=Modells|Modelles pl=Modelle
+Moderation noun g=f gen=Moderation pl=Moderationen
 Moderator noun g=m gen=Moderators pl=Moderatoren
 Moderatorin noun g=f gen=Moderatorin pl=Moderatorinnen
 Moderne noun g=f gen=Moderne pl=- note=die Moderne; no plural

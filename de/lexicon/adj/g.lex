@@ -1,4 +1,6 @@
+gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
+ganzjährig adj
 gar adj
 gasförmig adj
 gebeugt adj
@@ -7,6 +9,8 @@ geborgen adj
 gebräuchlich adj
 gebraucht adj
 gebrechlich adj cmp=gebrechlicher sup=gebrechlichsten
+gebührenpflichtig adj
+gebürtig adj
 geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
@@ -36,6 +40,7 @@ gemeinsam adj cmp=gemeinsamer sup=gemeinsamsten
 gemeinschaftlich adj
 gemütlich adj cmp=gemütlicher sup=gemütlichsten
 genau adj cmp=genauer sup=genauesten
+genehmigungspflichtig adj
 generell adj
 genetisch adj
 genial adj cmp=genialer sup=genialsten
@@ -52,6 +57,7 @@ gering adj cmp=geringer sup=geringsten
 geringfügig adj cmp=geringfügiger sup=geringfügigsten
 germanisch adj
 gesamt adj
+gesamtschuldnerisch adj
 geschäftlich adj
 gescheit adj cmp=gescheiter sup=gescheitesten
 geschichtlich adj
@@ -60,6 +66,7 @@ geschockt adj cmp=geschockter sup=geschocktesten
 geschwind adj cmp=geschwinder sup=geschwindesten
 gesellschaftlich adj
 gesetzlich adj
+gesetzwidrig adj
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestresst adj cmp=gestresster sup=gestresstesten

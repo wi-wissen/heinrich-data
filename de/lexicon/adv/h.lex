@@ -12,4 +12,5 @@ hinan adv style=archaic
 hinterher adv
 hinweg adv
 hinzu adv
+hochachtungsvoll adv note=old-fashioned letter closing
 hochkant adv

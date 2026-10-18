@@ -19,6 +19,7 @@
 übergehen verb class=strong sep=über 3sg=übergeht past=überging pp=übergegangen subj2=überginge perf=sein sense=cross_over note=geht auf etwas über; stress on über
 übergehen verb class=strong 3sg=übergeht past=überging pp=übergangen subj2=überginge perf=haben sense=skip note=etwas übergehen (ignore); stress on gehen
 übergießen verb class=strong 3sg=übergießt past=übergoss pp=übergossen subj2=übergösse perf=haben
+übergreifen verb class=strong sep=über 3sg=übergreift past=übergriff pp=übergegriffen subj2=übergriffe perf=haben note=das Feuer griff auf das Nachbarhaus über; übergreifend
 überhäufen verb class=weak pp=überhäuft perf=haben
 überholen verb class=weak pp=überholt perf=haben
 überhören verb class=weak pp=überhört perf=haben
@@ -53,6 +54,7 @@
 übersetzen verb class=weak sep=über pp=übergesetzt perf=haben|sein sense=ferry note=ans andere Ufer übersetzen (separable, stress on über)
 übersiedeln verb class=weak pp=übersiedelt perf=sein
 überspannen verb class=weak pp=überspannt perf=haben
+überspielen verb class=weak pp=überspielt perf=haben note=Daten überspielen; eine Unsicherheit überspielen
 überspringen verb class=strong 3sg=überspringt past=übersprang subj2=überspränge pp=übersprungen perf=sein|haben
 überstehen verb class=strong 3sg=übersteht past=überstand pp=überstanden subj2=überstünde|überstände perf=haben
 übersteigen verb class=strong 3sg=übersteigt past=überstieg pp=überstiegen subj2=überstiege perf=haben
@@ -77,6 +79,7 @@ umblättern verb class=weak sep=um pp=umgeblättert perf=haben
 umbringen verb class=mixed sep=um 3sg=umbringt past=umbrachte pp=umgebracht subj2=umbrächte perf=haben refl=acc
 umbuchen verb class=weak sep=um pp=umgebucht perf=haben
 umdenken verb class=mixed sep=um 3sg=umdenkt past=umdachte subj2=umdächte pp=umgedacht perf=haben
+umdisponieren verb class=weak sep=um pp=umdisponiert perf=haben
 umdrehen verb class=weak sep=um pp=umgedreht perf=haben|sein refl=acc
 umfahren     verb class=strong sep=um 3sg=umfährt past=umfuhr pp=umgefahren subj2=umführe perf=haben
              sense=knock_over note=jemanden umfahren: knock down (separable, stress on um)
@@ -103,8 +106,10 @@ umkreisen verb class=weak pp=umkreist perf=haben
 umkrempeln verb class=weak sep=um pp=umgekrempelt perf=haben
 umlaufen verb class=strong sep=um 3sg=umläuft past=umlief subj2=umliefe pp=umgelaufen perf=sein sense=separable note=stressed prefix (separable)
 umlaufen verb class=strong 3sg=umläuft past=umlief subj2=umliefe pp=umlaufen perf=haben sense=inseparable note=unstressed prefix (inseparable)
+umlegen verb class=weak sep=um pp=umgelegt perf=haben note=Kosten umlegen; also to knock down
 umleiten verb class=weak sep=um pp=umgeleitet perf=haben
 umlenken verb class=weak sep=um pp=umgelenkt perf=haben
+ummelden verb class=weak sep=um pp=umgemeldet perf=haben
 umpacken verb class=weak sep=um pp=umgepackt perf=haben
 umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
 umquartieren verb class=weak sep=um pp=umquartiert perf=haben
@@ -130,10 +135,12 @@ umsteigen verb class=strong sep=um 3sg=umsteigt past=umstieg pp=umgestiegen subj
 umstellen verb class=weak sep=um pp=umgestellt perf=haben refl=acc
 umstimmen verb class=weak sep=um pp=umgestimmt perf=haben
 umstoßen verb class=strong sep=um 3sg=umstößt past=umstieß pp=umgestoßen subj2=umstieße perf=haben
+umstrukturieren verb class=weak sep=um pp=umstrukturiert perf=haben
 umstürzen verb class=weak sep=um pp=umgestürzt perf=haben|sein
 umtauschen verb class=weak sep=um pp=umgetauscht perf=haben
 umtopfen verb class=weak pp=umgetopft perf=haben sep=um
 umtreiben verb class=strong sep=um 3sg=umtreibt past=umtrieb subj2=umtriebe pp=umgetrieben perf=haben
+umverteilen verb class=weak sep=um pp=umverteilt perf=haben
 umwandeln verb class=weak sep=um pp=umgewandelt perf=haben
 umwehen verb class=weak sep=um pp=umgeweht perf=haben
 umwenden verb class=mixed sep=um 3sg=umwendet past=umwandte|umwendete subj2=umwendete|umwandte pp=umgewandt|umgewendet perf=haben refl=acc
@@ -145,9 +152,11 @@ umzingeln verb class=weak pp=umzingelt perf=haben
 unterbinden verb class=strong 3sg=unterbindet past=unterband pp=unterbunden subj2=unterbände perf=haben
 unterbleiben verb class=strong 3sg=unterbleibt past=unterblieb pp=unterblieben subj2=unterbliebe perf=sein
 unterbrechen verb class=strong 3sg=unterbricht past=unterbrach pp=unterbrochen subj2=unterbräche perf=haben
+unterbreiten verb class=weak pp=unterbreitet perf=haben note=einen Vorschlag unterbreiten
 unterbringen verb class=mixed sep=unter 3sg=unterbringt past=unterbrachte pp=untergebracht subj2=unterbrächte perf=haben
 unterdrücken verb class=weak pp=unterdrückt perf=haben
 untergehen verb class=strong sep=unter 3sg=untergeht past=unterging pp=untergegangen subj2=unterginge perf=sein
+untergliedern verb class=weak pp=untergliedert perf=haben
 untergraben verb class=strong 3sg=untergräbt past=untergrub pp=untergraben subj2=untergrübe perf=haben
 unterhalten verb class=strong 3sg=unterhält past=unterhielt pp=unterhalten subj2=unterhielte perf=haben
 unterheben verb class=strong sep=unter 3sg=unterhebt past=unterhob pp=untergehoben subj2=unterhöbe perf=haben
@@ -165,9 +174,11 @@ unterstützen verb class=weak pp=unterstützt perf=haben
 untersuchen verb class=weak pp=untersucht perf=haben
 unterteilen verb class=weak pp=unterteilt perf=haben
 untertreiben verb class=strong 3sg=untertreibt past=untertrieb pp=untertrieben subj2=untertriebe perf=haben
+unterweisen verb class=strong 3sg=unterweist past=unterwies pp=unterwiesen subj2=unterwiese perf=haben
 unterwerfen verb class=strong 3sg=unterwirft past=unterwarf pp=unterworfen subj2=unterwürfe perf=haben
 unterzeichnen verb class=weak pp=unterzeichnet perf=haben
 unterziehen verb class=strong 3sg=unterzieht past=unterzog pp=unterzogen subj2=unterzöge perf=haben refl=acc
 updaten verb class=weak pp=geupdatet perf=haben
+uploaden verb class=weak pp=upgeloadet|geuploadet perf=haben conf=70 note=participle form unsettled; hochladen is the German word
 uraufführen verb class=weak sep=urauf pp=uraufgeführt perf=haben conf=80 note=only infinitive and Partizip II are in normal use
 urteilen verb class=weak pp=geurteilt perf=haben

@@ -1,3 +1,4 @@
+tackern verb class=weak pp=getackert perf=haben
 tadeln verb class=weak pp=getadelt perf=haben
 tafeln verb class=weak pp=getafelt perf=haben
 tagen verb class=weak pp=getagt perf=haben
@@ -19,9 +20,12 @@ teilen verb class=weak pp=geteilt perf=haben
 teilhaben verb class=mixed sep=teil 3sg=teilhat past=teilhatte pp=teilgehabt subj2=teilhätte perf=haben
 teilnehmen verb class=strong sep=teil 3sg=teilnimmt past=teilnahm pp=teilgenommen subj2=teilnähme perf=haben
 telefonieren verb class=weak pp=telefoniert perf=haben
+terminieren verb class=weak pp=terminiert perf=haben
 testen verb class=weak pp=getestet perf=haben
+testieren verb class=weak pp=testiert perf=haben
 texten verb class=weak pp=getextet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
+tilgen verb class=weak pp=getilgt perf=haben
 tippeln verb class=weak pp=getippelt perf=sein
 tippen verb class=weak pp=getippt perf=haben
 tischlern verb class=weak pp=getischlert perf=haben
@@ -72,3 +76,4 @@ tüfteln verb class=weak pp=getüftelt perf=haben
 tun          verb class=strong pres=tue,tust,tut,tun,tut,tun past=tat pp=getan subj2=täte perf=haben
 turnen verb class=weak pp=geturnt perf=haben|sein
 tuscheln verb class=weak pp=getuschelt perf=haben
+twittern verb class=weak pp=getwittert perf=haben

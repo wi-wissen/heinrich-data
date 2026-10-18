@@ -1,0 +1,49 @@
+# Grammar-relevant adverbs: degree, focus, negation, interrogative/relative, conjunctional
+# (comma rules), deictic place and time.
+almost        adv type=degree
+also          adv type=focus
+barely        adv type=degree|neg
+enough        adv type=degree
+even          adv type=focus
+ever          adv type=time
+hardly        adv type=degree|neg
+here          adv type=place
+how           adv type=int|rel
+just          adv type=focus|time
+least         adv type=degree
+less          adv type=degree
+more          adv type=degree
+most          adv type=degree
+much          adv type=degree cmp=more sup=most
+never         adv type=neg|time
+now           adv type=time
+nowhere       adv type=neg|place
+o'clock       adv type=time
+only          adv type=focus
+quite         adv type=degree
+rather        adv type=degree
+scarcely      adv type=degree|neg
+so            adv type=degree
+then          adv type=time
+there         adv type=place note=also existential there
+too           adv type=degree|focus
+very          adv type=degree
+when          adv type=int|rel
+where         adv type=int|rel
+why           adv type=int|rel
+accordingly   adv type=conj
+besides       adv type=conj
+consequently  adv type=conj
+furthermore   adv type=conj
+hence         adv type=conj
+however       adv type=conj|rel
+indeed        adv type=conj
+instead       adv type=conj
+meanwhile     adv type=conj|time
+moreover      adv type=conj
+nevertheless  adv type=conj
+nonetheless   adv type=conj
+otherwise     adv type=conj
+still         adv type=conj|time
+therefore     adv type=conj
+thus          adv type=conj

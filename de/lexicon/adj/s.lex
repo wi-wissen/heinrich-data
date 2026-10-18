@@ -1,16 +1,20 @@
+sachgemäß adj
 sachlich adj cmp=sachlicher sup=sachlichsten
 sächlich adj
 sächsisch adj
 saftig adj cmp=saftiger sup=saftigsten
 saisonal adj
+salvatorisch adj note=salvatorische Klausel
 salzig adj cmp=salziger sup=salzigsten
 samtig adj cmp=samtiger sup=samtigsten
 sandig adj cmp=sandiger sup=sandigsten
 sanft adj cmp=sanfter sup=sanftesten
 satirisch adj
 satt adj cmp=satter sup=sattesten
+satzungsgemäß adj
 sauber adj cmp=sauberer sup=saubersten
 sauer adj cmp=saurer sup=sauersten
+säumig adj
 schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
 scharf adj cmp=schärfer sup=schärfsten
@@ -47,8 +51,10 @@ schriftlich adj
 schroff adj cmp=schroffer sup=schroffsten
 schüchtern adj cmp=schüchterner sup=schüchternsten
 schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld
+schuldhaft adj
 schuldig adj
 schulisch adj
+schulpflichtig adj
 schusselig adj cmp=schusseliger sup=schusseligsten
 schwach adj cmp=schwächer sup=schwächsten
 schwachsinnig adj cmp=schwachsinniger sup=schwachsinnigsten
@@ -89,6 +95,7 @@ silbern adj
 sinngemäß adj
 sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
+sittenwidrig adj
 sittlich adj cmp=sittlicher sup=sittlichsten
 skeptisch adj cmp=skeptischer sup=skeptischsten
 slawisch adj
@@ -98,6 +105,7 @@ sofortig adj
 sogenannt adj
 solidarisch adj cmp=solidarischer sup=solidarischsten
 solide adj cmp=solider sup=solidesten
+solvent adj
 sommerlich adj cmp=sommerlicher sup=sommerlichsten
 sommersprossig adj
 sonderbar adj cmp=sonderbarer sup=sonderbarsten
@@ -111,6 +119,7 @@ souverän adj
 sowjetisch adj
 sozial adj
 sozialistisch adj
+sozialversicherungspflichtig adj
 spanisch adj
 spannend adj cmp=spannender sup=spannendsten
 spärlich adj cmp=spärlicher sup=spärlichsten
@@ -131,6 +140,7 @@ staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
 stachelig adj cmp=stacheliger sup=stacheligsten
 städtisch adj
+standesgemäß adj
 ständig adj
 stark adj cmp=stärker sup=stärksten
 starr adj cmp=starrer sup=starrsten
@@ -145,6 +155,7 @@ steinzeitlich adj
 stenografisch adj
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
+steuerpflichtig adj
 stichhaltig adj cmp=stichhaltiger sup=stichhaltigsten
 stickig adj cmp=stickiger sup=stickigsten
 stilistisch adj

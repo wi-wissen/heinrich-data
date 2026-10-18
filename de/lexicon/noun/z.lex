@@ -43,6 +43,7 @@ Zeitraum noun g=m gen=Zeitraums|Zeitraumes pl=Zeiträume
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
 Zeitung noun g=f gen=Zeitung pl=Zeitungen
 Zeitungsausträger noun g=m gen=Zeitungsausträgers pl=Zeitungsausträger
+Zeitungsausträgerin noun g=f gen=Zeitungsausträgerin pl=Zeitungsausträgerinnen
 Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
 Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
@@ -109,8 +110,11 @@ Zone noun g=f gen=Zone pl=Zonen
 Zoo noun g=m gen=Zoos pl=Zoos
 Zoologe noun g=m gen=Zoologen pl=Zoologen
 Zoologie noun g=f gen=Zoologie pl=- note=no plural
+Zoologin noun g=f gen=Zoologin pl=Zoologinnen
+Zoom noun g=m gen=Zooms pl=Zooms
 Zopf noun g=m gen=Zopfes|Zopfs pl=Zöpfe
 Zorn noun g=m gen=Zorns|Zornes pl=- note=no plural
+Zuarbeit noun g=f gen=Zuarbeit pl=Zuarbeiten
 Zubehör noun g=n gen=Zubehörs|Zubehöres pl=Zubehöre
 Zubereitung noun g=f gen=Zubereitung pl=Zubereitungen
 Zucchini noun g=f gen=Zucchini pl=Zucchini|Zucchinis
@@ -145,6 +149,7 @@ Zungenbrecher noun g=m gen=Zungenbrechers pl=Zungenbrecher
 Zuordnung noun g=f gen=Zuordnung pl=Zuordnungen
 Zürcher noun g=m gen=Zürchers pl=Zürcher note=inhabitant of Zürich; also indeclinable adjective (Zürcher Hochschule)
 Zurückhaltung noun g=f gen=Zurückhaltung pl=- note=no plural
+Zurücksetzung noun g=f gen=Zurücksetzung pl=Zurücksetzungen
 Zurückweisung noun g=f gen=Zurückweisung pl=Zurückweisungen
 Zusage noun g=f gen=Zusage pl=Zusagen
 Zusammenarbeit noun g=f gen=Zusammenarbeit pl=- note=mass noun
@@ -162,12 +167,15 @@ Zusammenstellung noun g=f gen=Zusammenstellung pl=Zusammenstellungen
 Zusammenstoß noun g=m gen=Zusammenstoßes pl=Zusammenstöße
 Zusammentreffen noun g=n gen=Zusammentreffens pl=- note=no plural in practice
 Zusammenwirken noun g=n gen=Zusammenwirkens pl=- note=no plural
+Zusatz noun g=m gen=Zusatzes pl=Zusätze
 Zuschauer noun g=m gen=Zuschauers pl=Zuschauer
 Zuschauerin noun g=f gen=Zuschauerin pl=Zuschauerinnen
 Zuschlag noun g=m gen=Zuschlags|Zuschlages pl=Zuschläge
 Zuschuss noun g=m gen=Zuschusses pl=Zuschüsse
+Zusicherung noun g=f gen=Zusicherung pl=Zusicherungen
 Zustand noun g=m gen=Zustandes|Zustands pl=Zustände
 Zuständigkeit noun g=f gen=Zuständigkeit pl=Zuständigkeiten
+Zustellung noun g=f gen=Zustellung pl=Zustellungen
 Zustimmung noun g=f gen=Zustimmung pl=Zustimmungen
 Zutat noun g=f gen=Zutat pl=Zutaten
 Zuteilung noun g=f gen=Zuteilung pl=Zuteilungen
@@ -178,6 +186,7 @@ Zuwachs noun g=m gen=Zuwachses pl=Zuwächse
 Zuwanderung noun g=f gen=Zuwanderung pl=- note=no plural
 Zuweisung noun g=f gen=Zuweisung pl=Zuweisungen
 Zuwendung noun g=f gen=Zuwendung pl=Zuwendungen
+Zuwiderhandlung noun g=f gen=Zuwiderhandlung pl=Zuwiderhandlungen
 Zuzug noun g=m gen=Zuzugs|Zuzuges pl=Zuzüge
 Zwang noun g=m gen=Zwangs|Zwanges pl=Zwänge
 Zwangsvollstreckung noun g=f gen=Zwangsvollstreckung pl=Zwangsvollstreckungen

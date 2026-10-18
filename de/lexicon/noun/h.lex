@@ -21,6 +21,7 @@ Hähnchen noun g=n gen=Hähnchens pl=Hähnchen
 Hai noun g=m gen=Haies|Hais pl=Haie
 Haiku noun g=n gen=Haikus pl=Haikus
 Hain noun g=m gen=Haines|Hains[rare] pl=Haine
+Häkchen noun g=n gen=Häkchens pl=Häkchen
 Häkelnadel noun g=f gen=Häkelnadel pl=Häkelnadeln
 Haken noun g=m gen=Hakens pl=Haken
 Halbinsel noun g=f gen=Halbinsel pl=Halbinseln
@@ -48,6 +49,7 @@ Handhabung noun g=f gen=Handhabung pl=- note=no plural in practice
 Händler noun g=m gen=Händlers pl=Händler
 Händlerin noun g=f gen=Händlerin pl=Händlerinnen
 Handlung noun g=f gen=Handlung pl=Handlungen
+Handout noun g=n gen=Handouts pl=Handouts
 Handschellen noun g=pl
 Handvoll noun g=f gen=Handvoll pl=- note=eine Handvoll Leute; plural not used
 Handwerk noun g=n gen=Handwerks|Handwerkes pl=Handwerke
@@ -102,6 +104,8 @@ Hausmeisterin noun g=f gen=Hausmeisterin pl=Hausmeisterinnen
 Hauswart noun g=m gen=Hauswarts|Hauswartes pl=Hauswarte
 Hauswirtschaft noun g=f gen=Hauswirtschaft pl=- note=no plural
 Haut noun g=f gen=Haut pl=Häute
+Headhunter noun g=m gen=Headhunters pl=Headhunter
+Headset noun g=n gen=Headsets pl=Headsets
 Hebamme noun g=f gen=Hebamme pl=Hebammen
 Hebel noun g=m gen=Hebels pl=Hebel
 Hebung noun g=f gen=Hebung pl=Hebungen
@@ -144,6 +148,7 @@ Helikopter noun g=m gen=Helikopters pl=Helikopter
 Heller noun g=m gen=Hellers pl=Heller note=small coin
 Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
 Helm noun g=m gen=Helms|Helmes pl=Helme
+Helpdesk noun g=m gen=Helpdesks pl=Helpdesks
 Hemd noun g=n gen=Hemds|Hemdes pl=Hemden
 Hemmung noun g=f gen=Hemmung pl=Hemmungen
 Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
@@ -205,6 +210,7 @@ Hinrichtung noun g=f gen=Hinrichtung pl=Hinrichtungen
 Hinsicht noun g=f gen=Hinsicht pl=Hinsichten note=in dieser Hinsicht (not Hin + Sicht)
 Hinterbliebene noun g=m|f decl=adj note=die Hinterbliebenen
 Hintergrund noun g=m gen=Hintergrundes|Hintergrunds pl=Hintergründe
+Hinterlegung noun g=f gen=Hinterlegung pl=Hinterlegungen
 Hintern noun g=m gen=Hinterns pl=Hintern style=colloquial
 Hinweis noun g=m gen=Hinweises pl=Hinweise
 Hip-Hop noun g=m gen=Hip-Hops pl=- note=no plural (mass or abstract noun)
@@ -220,6 +226,7 @@ Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]
 Hoch noun g=n gen=Hochs pl=Hochs note=weather high; cheer
 Hochbeet noun g=n gen=Hochbeets pl=Hochbeete
+Hochrechnung noun g=f gen=Hochrechnung pl=Hochrechnungen
 Hochschule noun g=f gen=Hochschule pl=Hochschulen
 Hochschulreife noun g=f gen=Hochschulreife pl=- note=no plural
 Hochsprache noun g=f gen=Hochsprache pl=Hochsprachen
@@ -267,10 +274,13 @@ Horst noun g=m gen=Horsts|Horstes pl=Horste note=eyrie; also a first name
 Hort noun g=m gen=Hortes|Horts pl=Horte
 Hose noun g=f gen=Hose pl=Hosen
 Hospital noun g=n gen=Hospitals|Hospitales[rare] pl=Hospitäler|Hospitale
+Hospitation noun g=f gen=Hospitation pl=Hospitationen
 Hospiz noun g=n gen=Hospizes pl=Hospize
 Hotdog noun g=m gen=Hotdogs pl=Hotdogs
 Hotel noun g=n gen=Hotels pl=Hotels
 Hotelfachmann noun g=m gen=Hotelfachmanns|Hotelfachmannes pl=Hotelfachleute
+Hotfix noun g=m gen=Hotfixes|Hotfix pl=Hotfixes conf=80 note=software patch
+Hotline noun g=f gen=Hotline pl=Hotlines
 Hotspot noun g=m gen=Hotspots pl=Hotspots
 Hub noun g=m gen=Hubs|Hubes pl=Hübe conf=85 note=stroke (Hubraum)
 Hubschrauber noun g=m gen=Hubschraubers pl=Hubschrauber

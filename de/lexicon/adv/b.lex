@@ -1,3 +1,5 @@
+baldigst adv
+baldmöglichst adv
 barfuß adv type=manner
 bedeutend adv note=degree adverb (bedeutend besser)
 beinah adv type=degree
@@ -6,3 +8,4 @@ beiseite adv
 beispielsweise adv
 bekanntlich adv
 bisweilen adv
+brutto adv note=2000 Euro brutto
