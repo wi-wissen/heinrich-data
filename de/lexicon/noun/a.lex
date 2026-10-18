@@ -21,6 +21,7 @@ Abreise noun g=f gen=Abreise pl=Abreisen
 Abruf noun g=m gen=Abrufs|Abrufes pl=Abrufe
 Absatz        noun g=m gen=Absatzes pl=Absätze
 Abschaffung noun g=f gen=Abschaffung pl=- note=mass noun
+Abschätzung noun g=f gen=Abschätzung pl=Abschätzungen
 Abschied noun g=m gen=Abschieds|Abschiedes pl=Abschiede
 Abschluss     noun g=m gen=Abschlusses pl=Abschlüsse
 Abschnitt     noun g=m gen=Abschnitts|Abschnittes pl=Abschnitte

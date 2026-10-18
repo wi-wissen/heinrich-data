@@ -4,4 +4,5 @@
 übrigens adv
 umher adv type=direction
 unbedingt adv
+ungern adv type=manner
 unterdessen adv type=time

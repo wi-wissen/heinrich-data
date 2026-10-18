@@ -105,4 +105,5 @@ Hunger noun g=m gen=Hungers pl=- note=mass noun
 Hürde noun g=f gen=Hürde pl=Hürden
 Hut noun g=m gen=Hutes|Huts pl=Hüte sense=hat
 Hut noun g=f gen=Hut pl=- sense=guard note=auf der Hut sein; mass noun
+Hüter noun g=m gen=Hüters pl=Hüter
 Hütte noun g=f gen=Hütte pl=Hütten

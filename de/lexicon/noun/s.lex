@@ -88,6 +88,7 @@ Schülerin noun g=f gen=Schülerin pl=Schülerinnen
 Schulter noun g=f gen=Schulter pl=Schultern
 Schuster noun g=m gen=Schusters pl=Schuster
 Schutz noun g=m gen=Schutzes pl=- note=mass noun
+Schütze noun g=m gen=Schützen pl=Schützen
 Schwabe noun g=m gen=Schwaben pl=Schwaben
 Schwäche noun g=f gen=Schwäche pl=Schwächen
 Schwager noun g=m gen=Schwagers pl=Schwäger
@@ -121,6 +122,7 @@ Sekunde noun g=f gen=Sekunde pl=Sekunden
 Selbstbestimmung noun g=f gen=Selbstbestimmung pl=- note=mass noun
 Selbstverwaltung noun g=f gen=Selbstverwaltung pl=- note=mass noun
 Seligkeit noun g=f gen=Seligkeit pl=Seligkeiten
+Semester noun g=n gen=Semesters pl=Semester
 Seminar noun g=n gen=Seminars pl=Seminare|Seminarien[rare]
 Senat noun g=m gen=Senats|Senates pl=Senate
 Senator noun g=m gen=Senators pl=Senatoren
