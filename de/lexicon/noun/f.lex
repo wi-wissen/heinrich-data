@@ -45,7 +45,6 @@ Fraktion noun g=f gen=Fraktion pl=Fraktionen
 Franzose noun g=m gen=Franzosen pl=Franzosen
 Frau         noun g=f gen=Frau pl=Frauen
 Fräulein noun g=n gen=Fräuleins pl=Fräulein
-Freie noun g=n decl=adj note=im Freien: the open air
 Freiheit noun g=f gen=Freiheit pl=Freiheiten
 Freitag noun g=m gen=Freitags|Freitages pl=Freitage
 Freude noun g=f gen=Freude pl=Freuden

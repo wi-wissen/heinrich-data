@@ -1,6 +1,5 @@
 Galerie noun g=f gen=Galerie pl=Galerien
 Gang noun g=m gen=Ganges|Gangs pl=Gänge
-Ganze noun g=n decl=adj note=das Ganze
 Garten noun g=m gen=Gartens pl=Gärten
 Gast noun g=m gen=Gastes|Gasts[rare] pl=Gäste
 Gattung noun g=f gen=Gattung pl=Gattungen
@@ -60,7 +59,6 @@ Graf noun g=m gen=Grafen pl=Grafen
 Gräfin noun g=f gen=Gräfin pl=Gräfinnen
 Grafschaft noun g=f gen=Grafschaft pl=Grafschaften
 Grenze noun g=f gen=Grenze pl=Grenzen
-Große noun g=m|f|n decl=adj note=Alexander der Große; die Großen
 Größe noun g=f gen=Größe pl=Größen
 Grund noun g=m gen=Grundes|Grunds[rare] pl=Gründe
 Grundlage noun g=f gen=Grundlage pl=Grundlagen
@@ -68,5 +66,4 @@ Gründung noun g=f gen=Gründung pl=Gründungen
 Grüne noun g=m|f decl=adj note=die Grünen: Green party members
 Gruppe noun g=f gen=Gruppe pl=Gruppen
 Gut noun g=n gen=Gutes|Guts pl=Güter note=das Gut: property, goods; estate
-Gute noun g=n decl=adj note=das Gute
 Gymnasium noun g=n gen=Gymnasiums pl=Gymnasien

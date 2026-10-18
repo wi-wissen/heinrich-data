@@ -53,7 +53,6 @@ Eröffnung noun g=f gen=Eröffnung pl=Eröffnungen
 Errichtung noun g=f gen=Errichtung pl=- note=no plural in use
 Ersatz noun g=m gen=Ersatzes pl=- note=no plural in use
 Erscheinung noun g=f gen=Erscheinung pl=Erscheinungen
-Erste noun g=m|f|n decl=adj note=nominalised ordinal; der Erste, Erste Hilfe
 Erteilung noun g=f gen=Erteilung pl=- note=no plural in use
 Erweiterung noun g=f gen=Erweiterung pl=Erweiterungen
 Erwerb noun g=m gen=Erwerbs|Erwerbes pl=Erwerbe note=plural rare

@@ -99,6 +99,9 @@ principal parts, then follow the checklist in LEXICON_FORMAT §9. Typical cases:
 - Nouns declined like an adjective (*der Deutsche / ein Deutscher*) → `decl=adj`
   (`Deutsche`, `Jugendliche`, `Beamte`); their feminine derivations in `-in` are normal
   nouns (`Beamtin`).
+- Nominalized adjectives and ordinals (`das Gute`, `das Ganze`, `der Erste`, `im Freien`) are **not**
+  entries either; the capitalization rules derive them from the adjective. Only lexicalised ones
+  with their own meaning get a `decl=adj` noun (`der Geistliche`, `die Grünen` = party members).
 - Nominalized infinitives (`das Lesen`) are **not** entries; the rules derive them. Write a
   noun entry only for lexicalised meanings (`das Essen` = food, `das Vermögen` = assets).
 - Participles used as adjectives are generated from the verb. Write an `adj` entry only when
