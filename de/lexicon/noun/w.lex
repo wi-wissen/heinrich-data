@@ -6,9 +6,11 @@ Wahrheit noun g=f gen=Wahrheit pl=Wahrheiten
 Wahrnehmung noun g=f gen=Wahrnehmung pl=Wahrnehmungen
 Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wand noun g=f gen=Wand pl=Wände
+Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wappen noun g=n gen=Wappens pl=Wappen
 Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
+Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
 Wechsel noun g=m gen=Wechsels pl=Wechsel
 Weg noun g=m gen=Weges|Wegs pl=Wege
@@ -20,6 +22,7 @@ Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Welt noun g=f gen=Welt pl=Welten
 Werk noun g=n gen=Werkes|Werks pl=Werke
 Wert noun g=m gen=Wertes|Werts pl=Werte
+Wertung noun g=f gen=Wertung pl=Wertungen
 Wesen noun g=n gen=Wesens pl=Wesen
 West noun g=m gen=Wests pl=- conf=70 note=compass direction in set phrases and as first element of names; usually Westen
 Westen noun g=m gen=Westens pl=- note=compass direction

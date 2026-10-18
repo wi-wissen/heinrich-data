@@ -32,6 +32,7 @@ Vernunft noun g=f gen=Vernunft pl=- note=mass noun
 Veröffentlichung noun g=f gen=Veröffentlichung pl=Veröffentlichungen
 Verordnung noun g=f gen=Verordnung pl=Verordnungen
 Verpflichtung noun g=f gen=Verpflichtung pl=Verpflichtungen
+Versammlung noun g=f gen=Versammlung pl=Versammlungen
 Versicherte noun g=m|f decl=adj
 Version noun g=f gen=Version pl=Versionen
 Versorgung noun g=f gen=Versorgung pl=Versorgungen[rare]

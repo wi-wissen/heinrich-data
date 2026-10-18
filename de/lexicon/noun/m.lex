@@ -19,6 +19,7 @@ Maßgabe noun g=f gen=Maßgabe pl=Maßgaben note=chiefly nach Maßgabe
 Maßnahme noun g=f gen=Maßnahme pl=Maßnahmen
 Material noun g=n gen=Materials pl=Materialien
 Mauer noun g=f gen=Mauer pl=Mauern
+Medaille noun g=f gen=Medaille pl=Medaillen
 Medium noun g=n gen=Mediums pl=Medien
 Medizin noun g=f gen=Medizin pl=Medizinen note=plural Medizinen (medicines) is rare
 Meer noun g=n gen=Meeres|Meers pl=Meere

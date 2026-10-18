@@ -12,6 +12,7 @@ Lebensmittel noun g=n gen=Lebensmittels pl=Lebensmittel
 Legislaturperiode noun g=f gen=Legislaturperiode pl=Legislaturperioden
 Lehre noun g=f gen=Lehre pl=Lehren
 Lehrer       noun g=m gen=Lehrers pl=Lehrer
+Lehrerin noun g=f gen=Lehrerin pl=Lehrerinnen
 Leib noun g=m gen=Leibes|Leibs pl=Leiber
 Leiden noun g=n gen=Leidens pl=Leiden
 Leistung noun g=f gen=Leistung pl=Leistungen
@@ -19,6 +20,7 @@ Leiter noun g=f gen=Leiter pl=Leitern sense=ladder
 Leiter noun g=m gen=Leiters pl=Leiter sense=person
 Leitung noun g=f gen=Leitung pl=Leitungen
 Leute        noun g=pl
+Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
 Liebe noun g=f gen=Liebe pl=- note=Lieben very rare
 Lied noun g=n gen=Liedes|Lieds pl=Lieder

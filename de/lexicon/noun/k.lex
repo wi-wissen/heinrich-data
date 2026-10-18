@@ -1,27 +1,97 @@
+Kabinett noun g=n gen=Kabinetts|Kabinettes pl=Kabinette
+Kader noun g=m gen=Kaders pl=Kader
+Kaffee noun g=m gen=Kaffees pl=Kaffees
 Kaiser noun g=m gen=Kaisers pl=Kaiser
+Kaiserin noun g=f gen=Kaiserin pl=Kaiserinnen
+Kalender noun g=m gen=Kalenders pl=Kalender
+Kälte noun g=f gen=Kälte pl=- note=mass noun
+Kamera noun g=f gen=Kamera pl=Kameras
+Kamerad noun g=m gen=Kameraden pl=Kameraden
+Kameramann noun g=m gen=Kameramanns|Kameramannes pl=Kameramänner|Kameraleute
 Kammer noun g=f gen=Kammer pl=Kammern
+Kampagne noun g=f gen=Kampagne pl=Kampagnen
 Kampf noun g=m gen=Kampfes|Kampfs pl=Kämpfe
+Kämpfer noun g=m gen=Kämpfers pl=Kämpfer
+Kanal noun g=m gen=Kanals pl=Kanäle
+Kandidat noun g=m gen=Kandidaten pl=Kandidaten
+Kanone noun g=f gen=Kanone pl=Kanonen
 Kanton noun g=m gen=Kantons pl=Kantone
+Kanzel noun g=f gen=Kanzel pl=Kanzeln
+Kanzler noun g=m gen=Kanzlers pl=Kanzler
+Kanzlerin noun g=f gen=Kanzlerin pl=Kanzlerinnen
+Kap noun g=n gen=Kaps pl=Kaps
+Kapazität noun g=f gen=Kapazität pl=Kapazitäten
 Kapelle noun g=f gen=Kapelle pl=Kapellen
+Kapital noun g=n gen=Kapitals pl=Kapitalien|Kapitale
 Kapitän noun g=m gen=Kapitäns pl=Kapitäne
 Kapitel noun g=n gen=Kapitels pl=Kapitel
+Kardinal noun g=m gen=Kardinals pl=Kardinäle
 Karriere noun g=f gen=Karriere pl=Karrieren
 Karte noun g=f gen=Karte pl=Karten
+Kartoffel noun g=f gen=Kartoffel pl=Kartoffeln
+Kaserne noun g=f gen=Kaserne pl=Kasernen
+Kasse noun g=f gen=Kasse pl=Kassen
+Kasten noun g=m gen=Kastens pl=Kästen
+Katalog noun g=m gen=Katalogs|Kataloges pl=Kataloge
+Katastralgemeinde noun g=f gen=Katastralgemeinde pl=Katastralgemeinden region=AT
+Katastrophe noun g=f gen=Katastrophe pl=Katastrophen
 Kategorie noun g=f gen=Kategorie pl=Kategorien
-Kaufmann noun g=m gen=Kaufmanns|Kaufmannes pl=Kaufleute
+Kathedrale noun g=f gen=Kathedrale pl=Kathedralen
+Katholik noun g=m gen=Katholiken pl=Katholiken
+Katze noun g=f gen=Katze pl=Katzen
+Kauf noun g=m gen=Kaufs|Kaufes pl=Käufe
+Käufer noun g=m gen=Käufers pl=Käufer
+Kaufmann noun g=m gen=Kaufmanns|Kaufmannes pl=Kaufleute|Kaufmänner[rare]
+Kehle noun g=f gen=Kehle pl=Kehlen
+Keller noun g=m gen=Kellers pl=Keller
+Kellner noun g=m gen=Kellners pl=Kellner
 Kenntnis noun g=f gen=Kenntnis pl=Kenntnisse
+Kennzeichnung noun g=f gen=Kennzeichnung pl=Kennzeichnungen
+Kerl noun g=m gen=Kerls|Kerles pl=Kerle
 Kern noun g=m gen=Kerns|Kernes pl=Kerne
+Kessel noun g=m gen=Kessels pl=Kessel
+Kette noun g=f gen=Kette pl=Ketten
+KI noun g=f gen=KI pl=- note=abbreviation of Künstliche Intelligenz
+Kilogramm noun g=n gen=Kilogramms pl=Kilogramm|Kilogramme[rare]
 Kilometer noun g=m gen=Kilometers pl=Kilometer
 Kind         noun g=n gen=Kindes|Kinds pl=Kinder
+Kindheit noun g=f gen=Kindheit pl=- note=plural practically not used
+Kinn noun g=n gen=Kinns|Kinnes pl=Kinne
+Kino noun g=n gen=Kinos pl=Kinos
 Kirche noun g=f gen=Kirche pl=Kirchen
+Kissen noun g=n gen=Kissens pl=Kissen
+Kita noun g=f gen=Kita pl=Kitas note=Kindertagesstätte
 Klage noun g=f gen=Klage pl=Klagen
+Klammer noun g=f gen=Klammer pl=Klammern
+Klang noun g=m gen=Klangs|Klanges pl=Klänge
+Klarheit noun g=f gen=Klarheit pl=- note=mass noun
 Klasse noun g=f gen=Klasse pl=Klassen
+Klavier noun g=n gen=Klaviers pl=Klaviere
+Kleid noun g=n gen=Kleids|Kleides pl=Kleider
+Kleidung noun g=f gen=Kleidung pl=- note=mass noun
 Klima noun g=n gen=Klimas pl=Klimas|Klimate|Klimata[rare]
+Klinge noun g=f gen=Klinge pl=Klingen
+Klinik noun g=f gen=Klinik pl=Kliniken
 Kloster noun g=n gen=Klosters pl=Klöster
+Klub noun g=m gen=Klubs pl=Klubs
+Knabe noun g=m gen=Knaben pl=Knaben
+Knecht noun g=m gen=Knechts|Knechtes pl=Knechte
+Knie noun g=n gen=Knies pl=Knie
+Knochen noun g=m gen=Knochens pl=Knochen
+Knoten noun g=m gen=Knotens pl=Knoten
 Koalition noun g=f gen=Koalition pl=Koalitionen
+Koch noun g=m gen=Kochs pl=Köche
+Koffer noun g=m gen=Koffers pl=Koffer
+Kohl noun g=m gen=Kohls|Kohles pl=- note=cabbage; plural not used
+Kohle noun g=f gen=Kohle pl=Kohlen
 Kollege noun g=m gen=Kollegen pl=Kollegen
 Kollegin noun g=f gen=Kollegin pl=Kolleginnen
+Kölner noun g=m gen=Kölners pl=Kölner note=inhabitant of Cologne
+Kolonie noun g=f gen=Kolonie pl=Kolonien
+Kombination noun g=f gen=Kombination pl=Kombinationen
+Komitee noun g=n gen=Komitees pl=Komitees
 Komma        noun g=n gen=Kommas pl=Kommas|Kommata
+Kommandant noun g=m gen=Kommandanten pl=Kommandanten
 Kommission noun g=f gen=Kommission pl=Kommissionen
 Kommune noun g=f gen=Kommune pl=Kommunen
 Kommunikation noun g=f gen=Kommunikation pl=Kommunikationen

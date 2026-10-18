@@ -9,6 +9,7 @@ Zentrum noun g=n gen=Zentrums pl=Zentren
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
+Zoll noun g=m gen=Zolls|Zolles pl=Zölle|Zoll note=customs duty; unit of length (zwei Zoll)
 Zug noun g=m gen=Zuges|Zugs[rare] pl=Züge
 Zugang noun g=m gen=Zugangs|Zuganges[rare] pl=Zugänge
 Zukunft noun g=f gen=Zukunft pl=Zukünfte[rare]

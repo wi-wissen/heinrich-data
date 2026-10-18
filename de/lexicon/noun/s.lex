@@ -67,6 +67,7 @@ Spalte noun g=f gen=Spalte pl=Spalten
 Spiegel noun g=m gen=Spiegels pl=Spiegel
 Spiel noun g=n gen=Spiels|Spieles pl=Spiele
 Spieler noun g=m gen=Spielers pl=Spieler
+Spielerin noun g=f gen=Spielerin pl=Spielerinnen
 Spitze noun g=f gen=Spitze pl=Spitzen
 Sport noun g=m gen=Sports|Sportes pl=- note=mass noun
 Sprache noun g=f gen=Sprache pl=Sprachen

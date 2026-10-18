@@ -1,8 +1,10 @@
 zahlen verb class=weak pp=gezahlt perf=haben
 zählen verb class=weak pp=gezählt perf=haben
+zeichnen verb class=weak pp=gezeichnet perf=haben
 zeigen verb class=weak pp=gezeigt perf=haben refl=acc
 zerstören verb class=weak pp=zerstört perf=haben
 ziehen verb class=strong 3sg=zieht past=zog pp=gezogen subj2=zöge perf=haben|sein
+zielen verb class=weak pp=gezielt perf=haben
 zitieren verb class=weak pp=zitiert perf=haben
 zulassen verb class=strong sep=zu 3sg=zulässt past=zuließ pp=zugelassen subj2=zuließe perf=haben
 zunehmen verb class=strong sep=zu 3sg=zunimmt past=zunahm pp=zugenommen subj2=zunähme perf=haben

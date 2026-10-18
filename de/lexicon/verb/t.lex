@@ -4,6 +4,8 @@ teilnehmen verb class=strong sep=teil 3sg=teilnimmt past=teilnahm pp=teilgenomme
 töten verb class=weak pp=getötet perf=haben
 tragen verb class=strong 3sg=trägt past=trug pp=getragen subj2=trüge perf=haben
 treffen verb class=strong 3sg=trifft past=traf pp=getroffen subj2=träfe perf=haben|sein refl=acc
+treiben verb class=strong 3sg=treibt past=trieb pp=getrieben subj2=triebe perf=haben|sein
 trennen verb class=weak pp=getrennt perf=haben refl=acc
 treten verb class=strong 3sg=tritt past=trat pp=getreten subj2=träte perf=haben|sein
+trinken verb class=strong 3sg=trinkt past=trank pp=getrunken subj2=tränke perf=haben
 tun          verb class=strong pres=tue,tust,tut,tun,tut,tun past=tat pp=getan subj2=täte perf=haben

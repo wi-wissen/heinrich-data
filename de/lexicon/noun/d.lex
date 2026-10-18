@@ -1,6 +1,7 @@
 Dach          noun g=n gen=Daches|Dachs pl=Dächer
 Dame          noun g=f gen=Dame pl=Damen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
+Darsteller noun g=m gen=Darstellers pl=Darsteller
 Darstellung   noun g=f gen=Darstellung pl=Darstellungen
 Datei         noun g=f gen=Datei pl=Dateien
 Datum         noun g=n gen=Datums pl=Daten
