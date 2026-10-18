@@ -49,3 +49,14 @@ jobs:
       - name: Coverage report
         run: |
           heinrich/target/release/heinrich-lexicon coverage de/lexicon de/frequency/forms.tsv >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Validate the English lexicon
+        run: |
+          bin=heinrich/target/release/heinrich-lexicon
+          if [ ! -d en/lexicon ]; then
+            echo "no en/lexicon"
+          elif "$bin" --help | grep -q -- '--lang'; then
+            "$bin" --lang en validate en/lexicon --format github
+          else
+            echo "::warning title=English lexicon not validated::the engine at HEINRICH_REF has no \`--lang en\` yet"
+          fi
