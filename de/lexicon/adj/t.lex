@@ -30,6 +30,7 @@ träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
+traumhaft adj cmp=traumhafter sup=traumhaftesten
 traurig adj cmp=trauriger sup=traurigsten
 treffend adj cmp=treffender sup=treffendsten
 trefflich adj cmp=trefflicher sup=trefflichsten

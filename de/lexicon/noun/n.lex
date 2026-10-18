@@ -9,6 +9,7 @@ Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
 Nachfolgerin noun g=f gen=Nachfolgerin pl=Nachfolgerinnen
 Nachfrage noun g=f gen=Nachfrage pl=Nachfragen
 Nachhaltigkeit noun g=f gen=Nachhaltigkeit pl=- note=no plural
+Nachhauseweg noun g=m gen=Nachhausewegs|Nachhauseweges pl=Nachhausewege
 Nachhilfe noun g=f gen=Nachhilfe pl=- note=no plural
 Nachkomme noun g=m gen=Nachkommen pl=Nachkommen
 Nachlass noun g=m gen=Nachlasses pl=Nachlässe|Nachlasse[rare]
@@ -26,12 +27,14 @@ Nachwort noun g=n gen=Nachworts|Nachwortes pl=Nachworte
 Nachwuchs noun g=m gen=Nachwuchses pl=- note=no plural
 Nacken noun g=m gen=Nackens pl=Nacken
 Nadel noun g=f gen=Nadel pl=Nadeln
+Nadelöhr noun g=n gen=Nadelöhrs|Nadelöhres pl=Nadelöhre
 Nagel noun g=m gen=Nagels pl=Nägel
 Nagellack noun g=m gen=Nagellacks|Nagellackes pl=Nagellacke
 Nager noun g=m gen=Nagers pl=Nager
 Nähe noun g=f gen=Nähe pl=- note=plural not used
 Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
+Nahverkehr noun g=m gen=Nahverkehrs pl=- note=no plural (mass or abstract noun)
 Name         noun g=m gen=Namens pl=Namen
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
@@ -45,6 +48,7 @@ Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
 Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
 Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
+Nationalsozialistin noun g=f gen=Nationalsozialistin pl=Nationalsozialistinnen
 Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
 Natur noun g=f gen=Natur pl=- note=Naturen is rare
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
@@ -54,6 +58,7 @@ Nebel noun g=m gen=Nebels pl=Nebel
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
 Nebenhandlung noun g=f gen=Nebenhandlung pl=Nebenhandlungen
 Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
+Nebenstraße noun g=f gen=Nebenstraße pl=Nebenstraßen
 Neffe noun g=m gen=Neffen pl=Neffen
 Negation noun g=f gen=Negation pl=Negationen
 Neger noun g=m gen=Negers pl=Neger style=archaic note=offensive today; seen in older literature
@@ -67,12 +72,16 @@ Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neologismus noun g=m gen=Neologismus pl=Neologismen
 Nerv noun g=m gen=Nervs pl=Nerven
+Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nest noun g=n gen=Nests|Nestes pl=Nester
 Netz noun g=n gen=Netzes pl=Netze
+Neubau noun g=m gen=Neubaus pl=Neubauten
 Neuerung noun g=f gen=Neuerung pl=Neuerungen
 Neugier noun g=f gen=Neugier pl=- note=abstract noun
 Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
+Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
+Neujahr noun g=n gen=Neujahrs pl=Neujahre
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutron noun g=n gen=Neutrons pl=Neutronen
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
@@ -86,6 +95,7 @@ Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
+Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
 Nische noun g=f gen=Nische pl=Nischen
 Niveau noun g=n gen=Niveaus pl=Niveaus
@@ -98,9 +108,12 @@ Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in com
 Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
 Norm noun g=f gen=Norm pl=Normen
+Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Notar noun g=m gen=Notars pl=Notare
+Notarin noun g=f gen=Notarin pl=Notarinnen
 Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
+Noten noun g=pl
 Notiz noun g=f gen=Notiz pl=Notizen
 Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
 Nougat noun g=m|n gen=Nougats pl=Nougats
@@ -115,6 +128,7 @@ Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Nummer noun g=f gen=Nummer pl=Nummern
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
+Nussknacker noun g=m gen=Nussknackers pl=Nussknacker
 Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer
 Nutzerin noun g=f gen=Nutzerin pl=Nutzerinnen

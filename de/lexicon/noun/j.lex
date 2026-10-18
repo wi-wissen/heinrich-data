@@ -15,9 +15,11 @@ Jammer noun g=m gen=Jammers pl=- note=mass noun
 Jänner noun g=m gen=Jänner|Jänners pl=- region=AT note=month name; plural not used
 Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
 Japaner noun g=m gen=Japaners pl=Japaner
+Japanerin noun g=f gen=Japanerin pl=Japanerinnen
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
+Jetlag noun g=m gen=Jetlags pl=Jetlags
 Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Joch noun g=n gen=Jochs|Joches pl=Joche
@@ -29,10 +31,13 @@ Journal noun g=n gen=Journals pl=Journale
 Journalist noun g=m gen=Journalisten pl=Journalisten
 Journalistin noun g=f gen=Journalistin pl=Journalistinnen
 Jubel noun g=m gen=Jubels pl=- note=no plural
+Jubilar noun g=m gen=Jubilars pl=Jubilare
+Jubilarin noun g=f gen=Jubilarin pl=Jubilarinnen
 Jubiläum noun g=n gen=Jubiläums pl=Jubiläen
 Jude noun g=m gen=Juden pl=Juden
 Judentum noun g=n gen=Judentums pl=- note=no plural in practice
 Jüdin noun g=f gen=Jüdin pl=Jüdinnen
+Judo noun g=n gen=Judos pl=- note=no plural (mass or abstract noun)
 Judoka noun g=m gen=Judoka|Judokas pl=Judoka|Judokas note=also feminine (die Judoka)
 Jugend noun g=f gen=Jugend pl=- note=plural not used
 Jugendherberge noun g=f gen=Jugendherberge pl=Jugendherbergen note=the analyser would take Berg as head

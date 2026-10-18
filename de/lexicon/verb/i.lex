@@ -13,4 +13,5 @@ interessieren verb class=weak pp=interessiert perf=haben refl=acc
 internieren verb class=weak pp=interniert perf=haben
 interpretieren verb class=weak pp=interpretiert perf=haben
 investieren verb class=weak pp=investiert perf=haben
+irren verb class=weak pp=geirrt perf=haben|sein refl=acc
 isolieren verb class=weak pp=isoliert perf=haben refl=acc

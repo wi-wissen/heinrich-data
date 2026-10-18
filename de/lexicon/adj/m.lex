@@ -28,6 +28,7 @@ mexikanisch adj
 mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
 militärisch adj
+miserabel adj cmp=miserabler sup=miserabelsten
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
 mittelalterlich adj
@@ -40,16 +41,19 @@ modern adj cmp=moderner sup=modernsten
 modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten
 möglich adj cmp=möglicher sup=möglichsten
+mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj
 monatlich adj
 moralisch adj cmp=moralischer sup=moralischsten
+morgig adj attr_only
 morsch adj cmp=morscher sup=morschesten
 motiviert adj cmp=motivierter sup=motiviertesten
 müde adj cmp=müder sup=müdesten
 muffig adj cmp=muffiger sup=muffigsten
 mühelos adj cmp=müheloser sup=mühelosesten
 mühsam adj cmp=mühsamer sup=mühsamsten
+mulmig adj cmp=mulmiger sup=mulmigsten
 multimedial adj
 mündig adj
 mündlich adj
@@ -58,3 +62,4 @@ mürrisch adj cmp=mürrischer sup=mürrischsten
 musikalisch adj
 muslimisch adj
 mutig adj cmp=mutiger sup=mutigsten
+mysteriös adj cmp=mysteriöser sup=mysteriösesten

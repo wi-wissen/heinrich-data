@@ -5,6 +5,7 @@
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
 übermüdet adj cmp=übermüdeter sup=übermüdetsten
 übermütig adj cmp=übermütiger sup=übermütigsten
+überrascht adj cmp=überraschter sup=überraschtesten
 überteuert adj
 übertragen adj
 überzeugend adj cmp=überzeugender sup=überzeugendsten
@@ -15,13 +16,16 @@ umfangreich adj cmp=umfangreicher sup=umfangreichsten
 umgangssprachlich adj
 umgehend adj note=immediately; participle of umgehen used as adjective/adverb
 umliegend adj attr_only note=die umliegenden Dörfer
+umständlich adj cmp=umständlicher sup=umständlichsten
 umstritten adj cmp=umstrittener sup=umstrittensten
 unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
+unartig adj cmp=unartiger sup=unartigsten
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
 unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
+unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
 unbemerkt adj
@@ -34,6 +38,7 @@ unbewusst adj cmp=unbewusster sup=unbewusstesten
 unbrauchbar adj cmp=unbrauchbarer sup=unbrauchbarsten
 undeutlich adj cmp=undeutlicher sup=undeutlichsten
 undurchsichtig adj
+unehrlich adj cmp=unehrlicher sup=unehrlichsten
 uneingeschränkt adj
 unendlich adj
 unentgeltlich adj
@@ -42,6 +47,7 @@ unerreichbar adj
 unerträglich adj
 unerwartet adj cmp=unerwarteter sup=unerwartetsten
 unfähig adj cmp=unfähiger sup=unfähigsten
+unfair adj cmp=unfairer sup=unfairsten
 unfrei adj
 ungarisch adj
 ungeduldig adj
@@ -100,10 +106,12 @@ ununterbrochen adj
 unverändert adj
 unverantwortlich adj cmp=unverantwortlicher sup=unverantwortlichsten
 unverhältnismäßig adj
+unverschämt adj cmp=unverschämter sup=unverschämtesten
 unverständlich adj cmp=unverständlicher sup=unverständlichsten
 unverzichtbar adj
 unverzüglich adj
 unvollständig adj
+unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj

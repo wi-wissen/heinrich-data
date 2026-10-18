@@ -38,6 +38,7 @@ nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separ
 niederländisch adj
 niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
+nobel adj cmp=nobler sup=noblesten
 nordisch adj
 nördlich adj note=also a genitive preposition (closed/prepositions.lex)
 normal adj cmp=normaler sup=normalsten

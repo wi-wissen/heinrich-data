@@ -32,6 +32,7 @@ einschlägig adj attr_only
 einseitig adj
 einstig adj attr_only
 einstimmig adj
+eintönig adj cmp=eintöniger sup=eintönigsten
 einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
@@ -58,6 +59,7 @@ entgegengesetzt adj
 entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
+enttäuscht adj cmp=enttäuschter sup=enttäuschtesten
 epidemisch adj
 episch adj
 erfolglos adj cmp=erfolgloser sup=erfolglosesten
@@ -68,14 +70,17 @@ erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
 erkennbar adj
+erleichtert adj cmp=erleichterter sup=erleichtertsten
 erneuerbar adj
 erneut adj
 ernst adj cmp=ernster sup=ernstesten
 ernsthaft adj cmp=ernsthafter sup=ernsthaftesten
 ernstlich adj
 erreichbar adj
+erschrocken adj cmp=erschrockener sup=erschrockensten
 ersichtlich adj
 erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
+erstaunt adj cmp=erstaunter sup=erstauntesten
 erstmalig adj
 erwachsen adj
 erwünscht adj

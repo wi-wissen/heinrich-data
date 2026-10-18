@@ -1,14 +1,18 @@
 Café noun g=n gen=Cafés pl=Cafés
 Cafeteria noun g=f gen=Cafeteria pl=Cafeterias
 Camp noun g=n gen=Camps pl=Camps
+Camper noun g=m gen=Campers pl=Camper
+Camperin noun g=f gen=Camperin pl=Camperinnen
 Camping noun g=n gen=Campings pl=- note=mass noun
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän
 Capitel noun g=n gen=Capitels pl=Capitel spelling=old style=archaic note=old spelling of Kapitel
+Carsharing noun g=n gen=Carsharings pl=- note=no plural (mass or abstract noun)
 Cartoon noun g=m|n gen=Cartoons pl=Cartoons
 Casanova noun g=m gen=Casanovas pl=Casanovas
 CD noun g=f gen=CD pl=CDs note=Compact Disc
+Cello noun g=n gen=Cellos pl=Cellos|Celli
 Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn Cent)
 Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcenter); English-looking
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
@@ -24,8 +28,11 @@ Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
 Chatbot noun g=m gen=Chatbots pl=Chatbots
+Chauffeur noun g=m gen=Chauffeurs pl=Chauffeure
+Chauffeurin noun g=f gen=Chauffeurin pl=Chauffeurinnen
 Chaussee noun g=f gen=Chaussee pl=Chausseen
 Chef noun g=m gen=Chefs pl=Chefs
+Chefin noun g=f gen=Chefin pl=Chefinnen
 Chemie noun g=f gen=Chemie pl=-  note=no plural
 Chemikalie noun g=f gen=Chemikalie pl=Chemikalien
 Chemiker noun g=m gen=Chemikers pl=Chemiker
@@ -36,6 +43,7 @@ Chinese noun g=m gen=Chinesen pl=Chinesen
 Chinesin noun g=f gen=Chinesin pl=Chinesinnen
 Chirurg noun g=m gen=Chirurgen pl=Chirurgen
 Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
+Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Chor          noun g=m gen=Chores|Chors pl=Chöre
@@ -48,6 +56,8 @@ Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
 Clip noun g=m gen=Clips pl=Clips
 Clique noun g=f gen=Clique pl=Cliquen
 Cloud noun g=f gen=Cloud pl=Clouds
+Clown noun g=m gen=Clowns pl=Clowns
+Clownin noun g=f gen=Clownin pl=Clowninnen
 Club          noun g=m gen=Clubs pl=Clubs
 Cocktail noun g=m gen=Cocktails pl=Cocktails
 Code noun g=m gen=Codes pl=Codes
@@ -75,6 +85,7 @@ Cousin noun g=m gen=Cousins pl=Cousins
 Cousine noun g=f gen=Cousine pl=Cousinen
 Cover noun g=n gen=Covers pl=Covers
 Covid noun g=n gen=Covid|Covids pl=- conf=60 note=COVID-19; gender fluctuates
+Cowboy noun g=m gen=Cowboys pl=Cowboys
 Creme noun g=f gen=Creme pl=Cremes|Cremen
 Crew noun g=f gen=Crew pl=Crews
 Cricket noun g=n gen=Crickets pl=- note=sport; no plural

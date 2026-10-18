@@ -18,6 +18,7 @@ heimtückisch adj cmp=heimtückischer sup=heimtückischsten
 heiser adj cmp=heiserer sup=heisersten
 heiß adj cmp=heißer sup=heißesten
 heiter adj cmp=heiterer sup=heitersten
+hektisch adj cmp=hektischer sup=hektischsten
 hell adj cmp=heller sup=hellsten
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
@@ -34,11 +35,13 @@ himmlisch adj cmp=himmlischer sup=himmlischsten
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
 hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
+hinterlistig adj cmp=hinterlistiger sup=hinterlistigsten
 historisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höflich adj cmp=höflicher sup=höflichsten
+hohl adj cmp=hohler sup=hohlsten
 hold adj cmp=holder sup=holdesten style=archaic
 holländisch adj
 hölzern adj

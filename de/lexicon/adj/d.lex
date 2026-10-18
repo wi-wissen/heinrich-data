@@ -23,6 +23,7 @@ diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
+dicklich adj cmp=dicklicher sup=dicklichsten
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten

@@ -55,12 +55,15 @@ kräftig adj cmp=kräftiger sup=kräftigsten
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
 kränklich adj cmp=kränklicher sup=kränklichsten
 krass adj cmp=krasser sup=krassesten
+kraus adj cmp=krauser sup=krausesten
 kreativ adj cmp=kreativer sup=kreativsten
+kribbelig adj cmp=kribbeliger sup=kribbeligsten
 kriegerisch adj
 kriminell adj
 kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj
 krümelig adj cmp=krümeliger sup=krümeligsten
+krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
 kubisch adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
@@ -68,10 +71,13 @@ kulturell adj
 künftig adj
 künstlerisch adj
 künstlich adj cmp=künstlicher sup=künstlichsten
+kunterbunt adj cmp=kunterbunter sup=kunterbuntesten
 kurdisch adj
+kurios adj cmp=kurioser sup=kuriosesten
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
 kurzgefasst adj
 kurzhaarig adj
+kurzsichtig adj cmp=kurzsichtiger sup=kurzsichtigsten
 kurzzeitig adj
 kuschelig adj cmp=kuscheliger sup=kuscheligsten

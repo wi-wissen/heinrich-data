@@ -13,12 +13,14 @@ persisch adj
 personell adj
 persönlich adj
 pessimistisch adj cmp=pessimistischer sup=pessimistischsten
+pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
 pharmazeutisch adj
 philosophisch adj
 physikalisch adj
 physisch adj
 pickelig adj cmp=pickeliger sup=pickeligsten
+pikant adj cmp=pikanter sup=pikantesten
 plausibel adj cmp=plausibler sup=plausibelsten
 pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
