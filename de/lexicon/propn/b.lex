@@ -1,0 +1,14 @@
+Basel         propn g=n gen=Basels pl=- note=proper name; no plural
+Bayern        propn g=n gen=Bayerns pl=- note=proper name; no plural
+Belgien       propn g=n gen=Belgiens pl=- note=proper name; no plural
+Berlin        propn g=n gen=Berlins pl=- note=proper name; no plural
+Bonn          propn g=n gen=Bonns pl=- note=proper name; no plural
+Brandenburg   propn g=n gen=Brandenburgs pl=- note=proper name; no plural
+Brasilien     propn g=n gen=Brasiliens pl=- note=proper name; no plural
+Braunschweig  propn g=n gen=Braunschweigs pl=- note=proper name; no plural
+Bremen        propn g=n gen=Bremens pl=- note=proper name; no plural
+Brüssel       propn g=n gen=Brüssels pl=- note=proper name; no plural
+Bundesliga    propn g=f gen=Bundesliga pl=- note=proper name; no plural
+Bundesrat     propn g=m gen=Bundesrates|Bundesrats pl=- note=proper name; no plural
+Bundestag     propn g=m gen=Bundestages|Bundestags pl=- note=proper name; no plural
+Bundeswehr    propn g=f gen=Bundeswehr pl=- note=proper name; no plural
