@@ -1,11 +1,13 @@
 Tabak noun g=m gen=Tabaks pl=Tabake
 Tabelle noun g=f gen=Tabelle pl=Tabellen
+Tabu noun g=n gen=Tabus pl=Tabus
 Tafel noun g=f gen=Tafel pl=Tafeln
 Tag          noun g=m gen=Tages|Tags pl=Tage
 Takt noun g=m gen=Takts|Taktes pl=Takte
 Tal noun g=n gen=Tals|Tales pl=Täler
 Talent noun g=n gen=Talents|Talentes pl=Talente
 Taler noun g=m gen=Talers pl=Taler
+Taliban noun g=m gen=Taliban pl=Taliban note=collective; usually die Taliban
 Tank noun g=m gen=Tanks pl=Tanks|Tanke[rare]
 Tanne noun g=f gen=Tanne pl=Tannen
 Tante noun g=f gen=Tante pl=Tanten

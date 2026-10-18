@@ -1,5 +1,7 @@
 tanzen       verb class=weak pp=getanzt perf=haben
+tätigen verb class=weak pp=getätigt perf=haben
 tauchen verb class=weak pp=getaucht perf=haben|sein
+taufen verb class=weak pp=getauft perf=haben
 täuschen verb class=weak pp=getäuscht perf=haben refl=acc
 teilen verb class=weak pp=geteilt perf=haben
 teilhaben verb class=mixed sep=teil 3sg=teilhat past=teilhatte pp=teilgehabt subj2=teilhätte perf=haben
