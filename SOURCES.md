@@ -20,3 +20,9 @@ Notes
 - Literature contains pre-1996 and older spellings (`dass` vs. old `daß`); the per-source columns allow weighting.
 - Gutenberg access was sequential/limited to 3 workers with a 2 s delay per request.
 - No Leipzig corpora, wordfreq, SUBTLEX, DeReWo, Hunspell, german-pos-dict, Wiktionary or similar was used.
+
+## German lexicon (`de/lexicon/`)
+
+Our own entries, written clean-room from general knowledge of German grammar and the official
+spelling rules (no third-party lexicon, word list, Hunspell file, Wiktionary table or LanguageTool
+file was consulted). Format: `Heinrich/docs/LEXICON_FORMAT.md`.
