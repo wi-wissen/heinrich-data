@@ -1,19 +1,19 @@
 # heinrich-data
 
-Sprachdaten für die Heinrich-Engine (`wi-wissen/Heinrich`): eigenes, im Clean-Room erzeugtes Lexikon,
-Build-Skripte und fertige Sprachpakete.
+Language data for the Heinrich engine (`wi-wissen/Heinrich`): our own lexicon, created clean-room,
+build scripts and finished language packs.
 
-## Regeln
-- **Nur eigene Daten oder Daten mit permissiver Lizenz** (MIT, BSD, Apache-2.0, CC0, CC BY), die
-  kommerzielle Nutzung erlauben. Jede Quelle in `SOURCES.md` mit Lizenz und Herkunft.
-- **Keine** CC-BY-SA-, GPL-, LGPL- oder NC-Daten – auch nicht auszugsweise. Vergleichslexika
-  (german-pos-dict, Wiktionary, UniMorph, DEMorphy …) werden nur außerhalb des Repos zur Messung genutzt.
-- **Keine Grammatikregeln** hier – die liegen im Engine-Repo.
-- Lexikoneinträge werden nach dem Clean-Room-Verfahren erstellt (siehe `Heinrich/docs/PLAN.md` §6).
+## Rules
+- **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY) that
+  allows commercial use. Every source goes in `SOURCES.md` with license and provenance.
+- **No** CC-BY-SA, GPL, LGPL or NC data – not even in excerpts. Comparison lexica
+  (german-pos-dict, Wiktionary, UniMorph, DEMorphy …) are used only outside the repo, for measurement.
+- **No grammar rules** here – they live in the engine repo.
+- Lexicon entries are created following the clean-room procedure (see `Heinrich/docs/PLAN.md` §6).
 
-## Geplante Struktur
-- `de/lexicon/` – Lemmata mit Flexionsangaben (Textformat, gut diffbar)
-- `de/closed/` – geschlossene Wortklassen (Artikel, Pronomen, Präpositionen …), von Hand
-- `de/phon/` – Ausspracheausnahmen
-- `tools/` – Build-Skripte (Lexikon → FST-Pakete)
-- `packs/` – Build-Ausgabe (nicht eingecheckt, Releases)
+## Planned structure
+- `de/lexicon/` – lemmas with inflection data (text format, diff-friendly)
+- `de/closed/` – closed word classes (articles, pronouns, prepositions …), written by hand
+- `de/phon/` – pronunciation exceptions
+- `tools/` – build scripts (lexicon → FST packs)
+- `packs/` – build output (not checked in, releases)
