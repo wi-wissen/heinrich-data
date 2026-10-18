@@ -2,6 +2,7 @@ quaken verb class=weak pp=gequakt perf=haben
 quälen verb class=weak pp=gequält perf=haben
 qualifizieren verb class=weak pp=qualifiziert perf=haben refl=acc
 qualmen verb class=weak pp=gequalmt perf=haben
+quasseln verb class=weak pp=gequasselt perf=haben
 quatschen verb class=weak pp=gequatscht perf=haben
 quellen verb class=strong 3sg=quillt past=quoll pp=gequollen subj2=quölle perf=sein
 quengeln verb class=weak pp=gequengelt perf=haben

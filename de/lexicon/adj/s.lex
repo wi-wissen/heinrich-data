@@ -32,8 +32,10 @@ schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
 schlüssig adj cmp=schlüssiger sup=schlüssigsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
+schmerzhaft adj cmp=schmerzhafter sup=schmerzhaftesten
 schmerzlich adj cmp=schmerzlicher sup=schmerzlichsten
 schmutzig adj cmp=schmutziger sup=schmutzigsten
+schneebedeckt adj
 schnell adj cmp=schneller sup=schnellsten
 schnellstmöglich adj
 schnippisch adj cmp=schnippischer sup=schnippischsten
@@ -59,6 +61,7 @@ schweizerisch adj
 schwer adj cmp=schwerer sup=schwersten
 schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
+schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
 seelisch adj
 seitlich adj
@@ -99,6 +102,7 @@ sonderlich adj
 sonnig adj cmp=sonniger sup=sonnigsten
 sonstig adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
+sorglos adj cmp=sorgloser sup=sorglosesten
 sorgsam adj cmp=sorgsamer sup=sorgsamsten
 sowjetisch adj
 sozial adj
@@ -139,6 +143,7 @@ stickig adj cmp=stickiger sup=stickigsten
 stilistisch adj
 still adj cmp=stiller sup=stillsten
 stolz adj cmp=stolzer sup=stolzesten
+störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
 strategisch adj
 strebsam adj cmp=strebsamer sup=strebsamsten

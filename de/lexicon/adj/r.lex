@@ -46,6 +46,7 @@ rheinisch adj
 rhetorisch adj
 richtig adj cmp=richtiger sup=richtigsten
 riesig adj cmp=riesiger sup=riesigsten
+riskant adj cmp=riskanter sup=riskantesten
 roh adj cmp=roher sup=rohesten
 romanisch adj
 romantisch adj cmp=romantischer sup=romantischsten
@@ -59,3 +60,4 @@ rumänisch adj
 rund adj cmp=runder sup=rundesten
 russisch adj
 rüstig adj cmp=rüstiger sup=rüstigsten
+rutschig adj cmp=rutschiger sup=rutschigsten

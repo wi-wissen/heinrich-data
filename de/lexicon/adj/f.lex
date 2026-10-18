@@ -1,3 +1,4 @@
+fabelhaft adj cmp=fabelhafter sup=fabelhaftesten
 fachlich adj
 fade adj cmp=fader sup=fadesten
 fähig adj cmp=fähiger sup=fähigsten
@@ -7,6 +8,8 @@ faktisch adj
 fällig adj
 falsch adj cmp=falscher sup=falschesten
 familiär adj cmp=familiärer sup=familiärsten
+fantastisch adj cmp=fantastischer sup=fantastischsten
+farbenfroh adj cmp=farbenfroher sup=farbenfrohsten
 farbig adj cmp=farbiger sup=farbigsten
 fatal adj cmp=fataler sup=fatalsten
 faul adj cmp=fauler sup=faulsten
@@ -29,12 +32,15 @@ fiktiv adj
 finanziell adj
 finnisch adj
 finster adj cmp=finsterer sup=finstersten
+firm adj pred_only
 fit adj attr=fitte cmp=fitter sup=fittesten
+fix adj cmp=fixer sup=fixesten
 flach adj cmp=flacher sup=flachsten
 flauschig adj cmp=flauschiger sup=flauschigsten
 fleckig adj cmp=fleckiger sup=fleckigsten
 fleißig adj cmp=fleißiger sup=fleißigsten
 flexibel adj cmp=flexibler sup=flexibelsten
+flott adj cmp=flotter sup=flottesten
 flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
 föderal adj
@@ -63,6 +69,7 @@ fruchtbar adj cmp=fruchtbarer sup=fruchtbarsten
 früh adj cmp=früher sup=frühesten
 frühlingshaft adj cmp=frühlingshafter sup=frühlingshaftesten
 frühzeitig adj
+funkelnd adj cmp=funkelnder sup=funkelndsten
 furchtbar adj cmp=furchtbarer sup=furchtbarsten
 fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten

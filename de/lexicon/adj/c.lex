@@ -1,5 +1,6 @@
 chaotisch adj cmp=chaotischer sup=chaotischsten
 charakteristisch adj
+charmant adj cmp=charmanter sup=charmantesten
 chemisch adj
 chilenisch adj
 chinesisch adj

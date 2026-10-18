@@ -1,5 +1,7 @@
+E-Bike noun g=n gen=E-Bikes pl=E-Bikes
 E-Book noun g=n gen=E-Books pl=E-Books
 E-Mail noun g=f gen=E-Mail pl=E-Mails
+E-Scooter noun g=m gen=E-Scooters pl=E-Scooter
 Ebbe noun g=f gen=Ebbe pl=Ebben
 Ebene noun g=f gen=Ebene pl=Ebenen
 Eber noun g=m gen=Ebers pl=Eber
@@ -34,14 +36,18 @@ Eifersucht noun g=f gen=Eifersucht pl=- note=no plural
 Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
 Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly no plural
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
+Eigentümerin noun g=f gen=Eigentümerin pl=Eigentümerinnen
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eile noun g=f gen=Eile pl=- note=no plural
 Eimer noun g=m gen=Eimers pl=Eimer
+Einbahnstraße noun g=f gen=Einbahnstraße pl=Einbahnstraßen
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
 Einbeziehung noun g=f gen=Einbeziehung pl=- note=no plural
 Einbildungskraft noun g=f gen=Einbildungskraft pl=- note=no plural
 Einbindung noun g=f gen=Einbindung pl=- note=no plural
 Einblick noun g=m gen=Einblicks|Einblickes pl=Einblicke
+Einbrecher noun g=m gen=Einbrechers pl=Einbrecher
+Einbrecherin noun g=f gen=Einbrecherin pl=Einbrecherinnen
 Einbringung noun g=f gen=Einbringung pl=Einbringungen
 Einbruch noun g=m gen=Einbruchs|Einbruches pl=Einbrüche
 Eindruck noun g=m gen=Eindrucks|Eindruckes pl=Eindrücke
@@ -49,6 +55,7 @@ Einer noun g=m gen=Einers pl=Einer
 Einfachheit noun g=f gen=Einfachheit pl=- note=no plural
 Einfahrt noun g=f gen=Einfahrt pl=Einfahrten
 Einfall noun g=m gen=Einfalls|Einfalles pl=Einfälle
+Einfamilienhaus noun g=n gen=Einfamilienhauses pl=Einfamilienhäuser
 Einfluss noun g=m gen=Einflusses pl=Einflüsse
 Einflussnahme noun g=f gen=Einflussnahme pl=Einflussnahmen
 Einfuhr noun g=f gen=Einfuhr pl=Einfuhren
@@ -64,6 +71,7 @@ Einheimische noun g=m|f decl=adj
 Einheit noun g=f gen=Einheit pl=Einheiten
 Einigkeit noun g=f gen=Einigkeit pl=- note=no plural
 Einigung noun g=f gen=Einigung pl=Einigungen
+Einkaufszentrum noun g=n gen=Einkaufszentrums pl=Einkaufszentren
 Einklang noun g=m gen=Einklangs|Einklanges pl=- note=no plural
 Einkommen noun g=n gen=Einkommens pl=Einkommen
 Einkünfte noun g=pl
@@ -83,6 +91,7 @@ Einsamkeit noun g=f gen=Einsamkeit pl=- note=no plural
 Einsatz noun g=m gen=Einsatzes pl=Einsätze
 Einschätzung noun g=f gen=Einschätzung pl=Einschätzungen
 Einschränkung noun g=f gen=Einschränkung pl=Einschränkungen
+Einschreiben noun g=n gen=Einschreibens pl=Einschreiben
 Einsetzung noun g=f gen=Einsetzung pl=- note=no plural
 Einsicht noun g=f gen=Einsicht pl=Einsichten
 Einsichtnahme noun g=f gen=Einsichtnahme pl=- note=no plural
@@ -99,6 +108,7 @@ Einvernehmen noun g=n gen=Einvernehmens pl=- note=no plural in use
 Einverständnis noun g=n gen=Einverständnisses pl=- note=no plural
 Einwand noun g=m gen=Einwands|Einwandes pl=Einwände
 Einwanderer noun g=m gen=Einwanderers pl=Einwanderer
+Einwandererin noun g=f gen=Einwandererin pl=Einwandererinnen
 Einwanderin noun g=f gen=Einwanderin pl=Einwanderinnen
 Einwanderung noun g=f gen=Einwanderung pl=- note=no plural
 Einweihung noun g=f gen=Einweihung pl=Einweihungen
@@ -146,6 +156,7 @@ Elektroschrott noun g=m gen=Elektroschrotts pl=- note=no plural
 Elektrotechnik noun g=f gen=Elektrotechnik pl=- note=no plural
 Element noun g=n gen=Elements|Elementes pl=Elemente
 Elend noun g=n gen=Elends pl=- note=no plural
+Elfmeter noun g=m gen=Elfmeters pl=Elfmeter
 Elite noun g=f gen=Elite pl=Eliten
 Ellbogen noun g=m gen=Ellbogens pl=Ellbogen
 Ellenbogen noun g=m gen=Ellenbogens pl=Ellenbogen
@@ -177,6 +188,7 @@ Engagement noun g=n gen=Engagements pl=Engagements
 Enge noun g=f gen=Enge pl=Engen
 Engel noun g=m gen=Engels pl=Engel
 Engländer noun g=m gen=Engländers pl=Engländer
+Engländerin noun g=f gen=Engländerin pl=Engländerinnen
 Englisch noun g=n gen=Englisch|Englischs pl=- conf=80 note=the English language; genitive normally avoided (des Englischen)
 Enjambement noun g=n gen=Enjambements pl=Enjambements
 Enkel noun g=m gen=Enkels pl=Enkel
@@ -273,8 +285,10 @@ Erleichterung noun g=f gen=Erleichterung pl=Erleichterungen
 Erlös noun g=m gen=Erlöses pl=Erlöse
 Erlösung noun g=f gen=Erlösung pl=- note=no plural
 Ermächtigung noun g=f gen=Ermächtigung pl=Ermächtigungen
+Ermahnung noun g=f gen=Ermahnung pl=Ermahnungen
 Ermessen noun g=n gen=Ermessens pl=- note=no plural
 Ermittler noun g=m gen=Ermittlers pl=Ermittler
+Ermittlerin noun g=f gen=Ermittlerin pl=Ermittlerinnen
 Ermittlung noun g=f gen=Ermittlung pl=Ermittlungen
 Ermordung noun g=f gen=Ermordung pl=Ermordungen
 Ernährung noun g=f gen=Ernährung pl=- note=mass noun
@@ -335,6 +349,7 @@ Essay noun g=m|n gen=Essays pl=Essays
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
 Essig noun g=m gen=Essigs pl=Essige
 Etablierung noun g=f gen=Etablierung pl=- note=no plural
+Etage noun g=f gen=Etage pl=Etagen
 Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
 Etappe noun g=f gen=Etappe pl=Etappen
 Etat noun g=m gen=Etats pl=Etats
@@ -345,6 +360,7 @@ Eule noun g=f gen=Eule pl=Eulen
 Euphemismus noun g=m gen=Euphemismus pl=Euphemismen
 Euro noun g=m gen=Euro|Euros pl=Euro|Euros note=des Euro; zehn Euro
 Europäer noun g=m gen=Europäers pl=Europäer
+Europäerin noun g=f gen=Europäerin pl=Europäerinnen
 Europameister noun g=m gen=Europameisters pl=Europameister
 Europameisterschaft noun g=f gen=Europameisterschaft pl=Europameisterschaften
 Europapokal noun g=m gen=Europapokals pl=Europapokale
@@ -361,6 +377,7 @@ Exekutive noun g=f gen=Exekutive pl=Exekutiven
 Exemplar noun g=n gen=Exemplars pl=Exemplare
 Exil noun g=n gen=Exils pl=Exile
 Existenz noun g=f gen=Existenz pl=Existenzen
+Exkursion noun g=f gen=Exkursion pl=Exkursionen
 Expansion noun g=f gen=Expansion pl=Expansionen
 Expedition noun g=f gen=Expedition pl=Expeditionen
 Experiment noun g=n gen=Experiments|Experimentes pl=Experimente

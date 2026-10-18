@@ -4,6 +4,7 @@ Wachs noun g=n gen=Wachses pl=Wachse
 Wachstum noun g=n gen=Wachstums pl=- note=mass noun
 Wachtel noun g=f gen=Wachtel pl=Wachteln
 Wächter noun g=m gen=Wächters pl=Wächter
+Wächterin noun g=f gen=Wächterin pl=Wächterinnen
 Wade noun g=f gen=Wade pl=Waden
 Waffe noun g=f gen=Waffe pl=Waffen
 Waffel noun g=f gen=Waffel pl=Waffeln
@@ -29,9 +30,12 @@ Waldkauz noun g=m gen=Waldkauzes pl=Waldkäuze
 Waldlichtung noun g=f gen=Waldlichtung pl=Waldlichtungen
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
+Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
+Walze noun g=f gen=Walze pl=Walzen
 Wand noun g=f gen=Wand pl=Wände
 Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
+Wanderschuhe noun g=pl
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
@@ -40,8 +44,11 @@ Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
 Wärmedämmung noun g=f gen=Wärmedämmung pl=Wärmedämmungen
 Wärmepumpe noun g=f gen=Wärmepumpe pl=Wärmepumpen
+Warnschild noun g=n gen=Warnschilds|Warnschildes pl=Warnschilder
 Warnung noun g=f gen=Warnung pl=Warnungen
 Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
+Wärter noun g=m gen=Wärters pl=Wärter
+Wärterin noun g=f gen=Wärterin pl=Wärterinnen
 Wartung noun g=f gen=Wartung pl=Wartungen
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
@@ -57,6 +64,7 @@ WC noun g=n gen=WC|WCs pl=WCs note=abbreviation of Wasserklosett
 WDR noun g=m gen=WDR|WDRs pl=- note=Westdeutscher Rundfunk; der WDR
 Webcam noun g=f gen=Webcam pl=Webcams
 Weber noun g=m gen=Webers pl=Weber
+Weberin noun g=f gen=Weberin pl=Weberinnen
 Webseite noun g=f gen=Webseite pl=Webseiten
 Website noun g=f gen=Website pl=Websites
 Wechsel noun g=m gen=Wechsels pl=Wechsel
@@ -75,6 +83,10 @@ Weihbischof noun g=m gen=Weihbischofs pl=Weihbischöfe
 Weihe noun g=f gen=Weihe pl=Weihen
 Weiher noun g=m gen=Weihers pl=Weiher
 Weihnachten noun g=pl
+Weihnachtsbaum noun g=m gen=Weihnachtsbaums|Weihnachtsbaumes pl=Weihnachtsbäume
+Weihnachtslied noun g=n gen=Weihnachtslieds|Weihnachtsliedes pl=Weihnachtslieder
+Weihnachtsmann noun g=m gen=Weihnachtsmanns|Weihnachtsmannes pl=Weihnachtsmänner
+Weihnachtsmarkt noun g=m gen=Weihnachtsmarkts|Weihnachtsmarktes pl=Weihnachtsmärkte
 Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
@@ -87,6 +99,7 @@ Weite noun g=f gen=Weite pl=Weiten
 Weiterbildung noun g=f gen=Weiterbildung pl=- note=no plural
 Weiterentwicklung noun g=f gen=Weiterentwicklung pl=Weiterentwicklungen
 Weitergabe noun g=f gen=Weitergabe pl=- note=no plural
+Weitsprung noun g=m gen=Weitsprungs|Weitsprunges pl=Weitsprünge
 Weizen noun g=m gen=Weizens pl=- note=no plural
 Welle noun g=f gen=Welle pl=Wellen
 Wellensittich noun g=m gen=Wellensittichs|Wellensittiches pl=Wellensittiche
@@ -153,7 +166,9 @@ Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
 Winzer noun g=m gen=Winzers pl=Winzer
+Winzerin noun g=f gen=Winzerin pl=Winzerinnen
 Wipfel noun g=m gen=Wipfels pl=Wipfel
+Wippe noun g=f gen=Wippe pl=Wippen
 Wirbel noun g=m gen=Wirbels pl=Wirbel
 Wirbelsäule noun g=f gen=Wirbelsäule pl=Wirbelsäulen
 Wirbelsturm noun g=m gen=Wirbelsturms pl=Wirbelstürme
@@ -184,12 +199,15 @@ Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
 Wohlstand noun g=m gen=Wohlstands|Wohlstandes pl=- note=no plural
 Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
+Wohnblock noun g=m gen=Wohnblocks pl=Wohnblöcke|Wohnblocks
+Wohngebiet noun g=n gen=Wohngebiets|Wohngebietes pl=Wohngebiete
 Wohnhaus noun g=n gen=Wohnhauses pl=Wohnhäuser
 Wohnmobil noun g=n gen=Wohnmobils pl=Wohnmobile note=the analyser would take the adjective mobil as head
 Wohnort noun g=m gen=Wohnorts|Wohnortes pl=Wohnorte
 Wohnraum noun g=m gen=Wohnraums|Wohnraumes pl=Wohnräume
 Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
+Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
 Wolf noun g=m gen=Wolfes|Wolfs[rare] pl=Wölfe
@@ -199,6 +217,7 @@ Wolke noun g=f gen=Wolke pl=Wolken
 Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
 Wonne noun g=f gen=Wonne pl=Wonnen
+Workshop noun g=m gen=Workshops pl=Workshops
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural

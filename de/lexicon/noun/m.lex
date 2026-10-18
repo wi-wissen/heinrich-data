@@ -8,6 +8,8 @@ Magazin noun g=n gen=Magazins pl=Magazine
 Magd noun g=f gen=Magd pl=Mägde
 Magdeburger noun g=m gen=Magdeburgers pl=Magdeburger note=inhabitant of Magdeburg
 Magen noun g=m gen=Magens pl=Mägen|Magen
+Magier noun g=m gen=Magiers pl=Magier
+Magierin noun g=f gen=Magierin pl=Magierinnen
 Magister noun g=m gen=Magisters pl=Magister
 Magma noun g=n gen=Magmas pl=Magmen
 Magnet noun g=m gen=Magnets|Magnetes pl=Magnete
@@ -30,6 +32,7 @@ Malerin noun g=f gen=Malerin pl=Malerinnen
 Mama noun g=f gen=Mama pl=Mamas
 Management noun g=n gen=Managements pl=Managements
 Manager noun g=m gen=Managers pl=Manager
+Managerin noun g=f gen=Managerin pl=Managerinnen
 Mandarine noun g=f gen=Mandarine pl=Mandarinen
 Mandat noun g=n gen=Mandats|Mandates pl=Mandate
 Mandel noun g=f gen=Mandel pl=Mandeln
@@ -46,6 +49,7 @@ Manöver noun g=n gen=Manövers pl=Manöver
 Mantel noun g=m gen=Mantels pl=Mäntel
 Manuskript noun g=n gen=Manuskripts|Manuskriptes pl=Manuskripte
 Mäppchen noun g=n gen=Mäppchens pl=Mäppchen
+Mappe noun g=f gen=Mappe pl=Mappen
 Marathon noun g=m gen=Marathons pl=Marathons
 Märchen noun g=n gen=Märchens pl=Märchen
 Marder noun g=m gen=Marders pl=Marder
@@ -60,6 +64,7 @@ Marke noun g=f gen=Marke pl=Marken
 Marketing noun g=n gen=Marketings pl=- note=mass noun
 Markgraf noun g=m gen=Markgrafen pl=Markgrafen
 Markt noun g=m gen=Marktes|Markts pl=Märkte
+Marktschreier noun g=m gen=Marktschreiers pl=Marktschreier
 Marktwirtschaft noun g=f gen=Marktwirtschaft pl=- note=no plural
 Marmelade noun g=f gen=Marmelade pl=Marmeladen
 Marmor noun g=m gen=Marmors pl=Marmore
@@ -69,12 +74,15 @@ Marquis noun g=m gen=Marquis pl=Marquis note=French title
 Marquise noun g=f gen=Marquise pl=Marquisen
 Marsch noun g=m gen=Marsches pl=Märsche sense=march
 Marschall noun g=m gen=Marschalls pl=Marschälle
+Martinstag noun g=m gen=Martinstags|Martinstages pl=Martinstage
 Märtyrer noun g=m gen=Märtyrers pl=Märtyrer
+Märtyrerin noun g=f gen=Märtyrerin pl=Märtyrerinnen
 März noun g=m sg=März,März|Märzes,März,März pl=- note=month name; plural not used
 Marzipan noun g=n gen=Marzipans pl=Marzipane
 Maschine noun g=f gen=Maschine pl=Maschinen
 Masern noun g=pl
 Maske noun g=f gen=Maske pl=Masken
+Maskenbildner noun g=m gen=Maskenbildners pl=Maskenbildner
 Maß noun g=n gen=Maßes pl=Maße
 Massaker noun g=n gen=Massakers pl=Massaker
 Maßband noun g=n gen=Maßbands|Maßbandes pl=Maßbänder
@@ -96,9 +104,11 @@ Matratze noun g=f gen=Matratze pl=Matratzen
 Matrix noun g=f gen=Matrix pl=Matrizen|Matrices[rare]
 Matrose noun g=m gen=Matrosen pl=Matrosen
 Matsch noun g=m gen=Matsches pl=- note=no plural
+Matte noun g=f gen=Matte pl=Matten
 Mauer noun g=f gen=Mauer pl=Mauern
 Maul noun g=n gen=Mauls|Maules pl=Mäuler
 Maurer noun g=m gen=Maurers pl=Maurer
+Maurerin noun g=f gen=Maurerin pl=Maurerinnen
 Maus noun g=f gen=Maus pl=Mäuse
 Mäuschen noun g=n gen=Mäuschens pl=Mäuschen
 Maut noun g=f gen=Maut pl=Mauten
@@ -106,6 +116,8 @@ Maxime noun g=f gen=Maxime pl=Maximen
 Maximum noun g=n gen=Maximums pl=Maxima
 Mayonnaise noun g=f gen=Mayonnaise pl=Mayonnaisen
 Mechanik noun g=f gen=Mechanik pl=Mechaniken note=plural rare
+Mechaniker noun g=m gen=Mechanikers pl=Mechaniker
+Mechanikerin noun g=f gen=Mechanikerin pl=Mechanikerinnen
 Mechanismus noun g=m gen=Mechanismus pl=Mechanismen
 Medaille noun g=f gen=Medaille pl=Medaillen
 Median noun g=m gen=Medians pl=Mediane
@@ -160,17 +172,22 @@ Meteorologin noun g=f gen=Meteorologin pl=Meteorologinnen
 Meter noun g=m|n gen=Meters pl=Meter
 Methode noun g=f gen=Methode pl=Methoden
 Metro noun g=f gen=Metro pl=Metros
+Metronom noun g=n gen=Metronoms pl=Metronome
 Metropole noun g=f gen=Metropole pl=Metropolen
 Metrum noun g=n gen=Metrums pl=Metren|Metra
 Metzger noun g=m gen=Metzgers pl=Metzger
 Metzgerei noun g=f gen=Metzgerei pl=Metzgereien
+Metzgerin noun g=f gen=Metzgerin pl=Metzgerinnen
 Miene noun g=f gen=Miene pl=Mienen
 Miete noun g=f gen=Miete pl=Mieten
 Mieter noun g=m gen=Mieters pl=Mieter
 Mieterin noun g=f gen=Mieterin pl=Mieterinnen
 Mietpreisbremse noun g=f gen=Mietpreisbremse pl=Mietpreisbremsen
+Mietshaus noun g=n gen=Mietshauses pl=Mietshäuser
+Mietwagen noun g=m gen=Mietwagens pl=Mietwagen
 Migräne noun g=f gen=Migräne pl=Migränen
 Migrant noun g=m gen=Migranten pl=Migranten
+Migrantin noun g=f gen=Migrantin pl=Migrantinnen
 Migration noun g=f gen=Migration pl=Migrationen
 Mikrofon noun g=n gen=Mikrofons|Mikrofones pl=Mikrofone
 Mikroskop noun g=n gen=Mikroskops pl=Mikroskope
@@ -202,21 +219,29 @@ Minze noun g=f gen=Minze pl=Minzen
 Mischling noun g=m gen=Mischlings pl=Mischlinge
 Mischung noun g=f gen=Mischung pl=Mischungen
 Missbrauch noun g=m gen=Missbrauchs|Missbrauches pl=Missbräuche
+Misserfolg noun g=m gen=Misserfolgs|Misserfolges pl=Misserfolge
 Mission noun g=f gen=Mission pl=Missionen
 Missionar noun g=m gen=Missionars pl=Missionare
+Missionarin noun g=f gen=Missionarin pl=Missionarinnen
 Misstrauen noun g=n gen=Misstrauens pl=- note=no plural
+Missverständnis noun g=n gen=Missverständnisses pl=Missverständnisse
 Mistel noun g=f gen=Mistel pl=Misteln
 Mistkäfer noun g=m gen=Mistkäfers pl=Mistkäfer
 Mitarbeit noun g=f gen=Mitarbeit pl=- note=no plural
 Mitarbeiter noun g=m gen=Mitarbeiters pl=Mitarbeiter
 Mitarbeiterin noun g=f gen=Mitarbeiterin pl=Mitarbeiterinnen
 Mitbegründer noun g=m gen=Mitbegründers pl=Mitbegründer
+Mitbegründerin noun g=f gen=Mitbegründerin pl=Mitbegründerinnen
 Mitbestimmung noun g=f gen=Mitbestimmung pl=- note=no plural
+Mitbewohner noun g=m gen=Mitbewohners pl=Mitbewohner
 Mitbewohnerin noun g=f gen=Mitbewohnerin pl=Mitbewohnerinnen
 Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
+Mitschülerin noun g=f gen=Mitschülerin pl=Mitschülerinnen
+Mitspieler noun g=m gen=Mitspielers pl=Mitspieler
+Mitspielerin noun g=f gen=Mitspielerin pl=Mitspielerinnen
 Mittag noun g=m gen=Mittags|Mittages pl=Mittage
 Mitte noun g=f gen=Mitte pl=- note=plural not used
 Mitteilung noun g=f gen=Mitteilung pl=Mitteilungen
@@ -229,6 +254,7 @@ Mittwoch noun g=m gen=Mittwochs|Mittwoch pl=Mittwoche
 Mitwirkung noun g=f gen=Mitwirkung pl=- note=no plural
 Mix noun g=m gen=Mixes pl=Mixe|Mixes
 Mixer noun g=m gen=Mixers pl=Mixer
+Mobber noun g=m gen=Mobbers pl=Mobber
 Mobbing noun g=n gen=Mobbings pl=- note=no plural
 Möbel noun g=n gen=Möbels pl=Möbel
 Mobilität noun g=f gen=Mobilität pl=- note=no plural
@@ -243,6 +269,7 @@ Moderne noun g=f gen=Moderne pl=- note=die Moderne; no plural
 Modernisierung noun g=f gen=Modernisierung pl=Modernisierungen
 Modul noun g=n gen=Moduls pl=Module
 Modus noun g=m gen=Modus pl=Modi note=bare genitive
+Mofa noun g=n gen=Mofas pl=Mofas
 Möglichkeit noun g=f gen=Möglichkeit pl=Möglichkeiten
 Möglichkeitsform noun g=f gen=Möglichkeitsform pl=Möglichkeitsformen
 Mohn noun g=m gen=Mohnes|Mohns pl=- note=no plural
@@ -265,10 +292,12 @@ Montag noun g=m gen=Montags|Montag pl=Montage
 Monument noun g=n gen=Monuments|Monumentes pl=Monumente
 Moor noun g=n gen=Moores|Moors pl=Moore
 Moos noun g=n gen=Mooses pl=Moose
+Moped noun g=n gen=Mopeds pl=Mopeds
 Mopp noun g=m gen=Mopps pl=Mopps
 Moral noun g=f gen=Moral pl=Moralen[rare]
 Mord noun g=m gen=Mordes|Mords pl=Morde
 Mörder noun g=m gen=Mörders pl=Mörder
+Mörderin noun g=f gen=Mörderin pl=Mörderinnen
 Morgen noun g=m gen=Morgens pl=Morgen sense=area note=old unit of land area
 Morgen noun g=m gen=Morgens pl=Morgen sense=daytime
 Morgenmuffel noun g=m gen=Morgenmuffels pl=Morgenmuffel
@@ -280,6 +309,7 @@ Motivation noun g=f gen=Motivation pl=Motivationen
 Motor noun g=m gen=Motors pl=Motoren
 Motte noun g=f gen=Motte pl=Motten
 Motto noun g=n gen=Mottos pl=Mottos
+Mountainbike noun g=n gen=Mountainbikes pl=Mountainbikes
 Möwe noun g=f gen=Möwe pl=Möwen
 Mücke noun g=f gen=Mücke pl=Mücken
 Müdigkeit noun g=f gen=Müdigkeit pl=- note=abstract noun
@@ -293,6 +323,7 @@ Müllberg noun g=m gen=Müllbergs pl=Müllberge
 Mülldeponie noun g=f gen=Mülldeponie pl=Mülldeponien
 Mülleimer noun g=m gen=Mülleimers pl=Mülleimer
 Müller noun g=m gen=Müllers pl=Müller
+Müllerin noun g=f gen=Müllerin pl=Müllerinnen
 Müllsack noun g=m gen=Müllsacks pl=Müllsäcke
 Müllsammler noun g=m gen=Müllsammlers pl=Müllsammler
 Mülltonne noun g=f gen=Mülltonne pl=Mülltonnen
@@ -305,6 +336,7 @@ Münchener noun g=m gen=Münchener|Müncheners pl=Münchener note=inhabitant of 
 Münchner noun g=m gen=Münchners pl=Münchner note=inhabitant of Munich; also the indeclinable adjective
 Mund noun g=m gen=Mundes|Munds pl=Münder
 Mundart noun g=f gen=Mundart pl=Mundarten
+Mundharmonika noun g=f gen=Mundharmonika pl=Mundharmonikas|Mundharmoniken
 Mündung noun g=f gen=Mündung pl=Mündungen
 Munition noun g=f gen=Munition pl=Munitionen note=plural rare
 Münster noun g=n gen=Münsters pl=Münster sense=cathedral note=das Münster: minster church

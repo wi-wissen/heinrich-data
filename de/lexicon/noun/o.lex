@@ -26,6 +26,7 @@ Offizierin noun g=f gen=Offizierin pl=Offizierinnen
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
 Ohnmacht noun g=f gen=Ohnmacht pl=Ohnmachten
 Ohr noun g=n gen=Ohrs|Ohres pl=Ohren
+Ohrenschützer noun g=m gen=Ohrenschützers pl=Ohrenschützer
 Ohrläppchen noun g=n gen=Ohrläppchens pl=Ohrläppchen
 Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökologie noun g=f gen=Ökologie pl=- note=mass noun
@@ -36,10 +37,12 @@ Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
+Olympiade noun g=f gen=Olympiade pl=Olympiaden
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
 Oma noun g=f gen=Oma pl=Omas
 Omelett noun g=n gen=Omeletts pl=Omeletts
 Omi noun g=f gen=Omi pl=Omis
+Omnibus noun g=m gen=Omnibusses pl=Omnibusse
 Onkel noun g=m gen=Onkels pl=Onkel|Onkels[colloquial]
 Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
@@ -81,10 +84,15 @@ Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwi
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
 Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier
 Osterferien noun g=pl
+Osterfeuer noun g=n gen=Osterfeuers pl=Osterfeuer
 Osterglocke noun g=f gen=Osterglocke pl=Osterglocken
 Osterhase noun g=m gen=Osterhasen pl=Osterhasen
+Ostermontag noun g=m gen=Ostermontags|Ostermontages pl=Ostermontage
 Ostern noun g=n gen=Ostern pl=- note=Ostern ist; bare genitive; plural form used as singular
+Osternest noun g=n gen=Osternests|Osternestes pl=Osternester
 Österreicher noun g=m gen=Österreichers pl=Österreicher
+Österreicherin noun g=f gen=Österreicherin pl=Österreicherinnen
+Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren

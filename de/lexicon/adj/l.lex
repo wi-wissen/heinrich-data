@@ -14,6 +14,7 @@ lässig adj cmp=lässiger sup=lässigsten
 lästig adj cmp=lästiger sup=lästigsten
 lateinamerikanisch adj
 lateinisch adj
+lau adj cmp=lauer sup=lauesten
 launisch adj cmp=launischer sup=launischsten
 laut adj cmp=lauter sup=lautesten
 lauter adj indecl sense=mere note=lauter Unsinn; cf. comparative of laut
@@ -41,6 +42,7 @@ letzter adj attr_only note=der letztere (the latter); cf. letzt
 liberal adj cmp=liberaler sup=liberalsten
 licht adj cmp=lichter sup=lichtesten
 lieb adj cmp=lieber sup=liebsten
+liebenswert adj cmp=liebenswerter sup=liebenswertesten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
 lieblich adj cmp=lieblicher sup=lieblichsten
 lila         adj indecl
@@ -56,6 +58,7 @@ lokal adj
 los adj note=predicative, e.g. etwas los sein
 löslich adj
 lustig adj cmp=lustiger sup=lustigsten
+lustlos adj cmp=lustloser sup=lustlosesten
 lutherisch adj
 luxuriös adj cmp=luxuriöser sup=luxuriösesten
 lyrisch adj

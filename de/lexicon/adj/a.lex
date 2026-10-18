@@ -1,3 +1,5 @@
+abenteuerlich adj cmp=abenteuerlicher sup=abenteuerlichsten
+abgelegen adj cmp=abgelegener sup=abgelegensten
 abgeleitet adj
 abgelenkt adj
 abhängig      adj cmp=abhängiger sup=abhängigsten
@@ -8,6 +10,7 @@ absichtlich adj
 absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
+achtsam adj cmp=achtsamer sup=achtsamsten
 adlig adj cmp=adliger sup=adligsten
 afghanisch adj
 afrikanisch adj
@@ -28,6 +31,7 @@ allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
 allmählich adj
+alltäglich adj cmp=alltäglicher sup=alltäglichsten
 alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
@@ -46,6 +50,7 @@ angenehm adj cmp=angenehmer sup=angenehmsten
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
+anhänglich adj cmp=anhänglicher sup=anhänglichsten
 annähernd adj
 anonym adj cmp=anonymer sup=anonymsten
 anorganisch adj
@@ -62,6 +67,7 @@ anwendbar adj
 anwesend adj
 apostolisch adj
 appellativ adj
+appetitlich adj cmp=appetitlicher sup=appetitlichsten
 arabisch adj
 arbeitslos adj
 archäologisch adj
@@ -87,6 +93,7 @@ aufgeräumt adj cmp=aufgeräumter sup=aufgeräumtesten
 aufgeregt adj cmp=aufgeregter sup=aufgeregtesten
 aufmerksam    adj cmp=aufmerksamer sup=aufmerksamsten
 aufrecht adj
+aufregend adj cmp=aufregender sup=aufregendsten
 aufrichtig adj cmp=aufrichtiger sup=aufrichtigsten
 aufwändig adj cmp=aufwändiger sup=aufwändigsten
 aufwendig adj cmp=aufwendiger sup=aufwendigsten

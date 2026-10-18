@@ -9,6 +9,7 @@ zeitig adj cmp=zeitiger sup=zeitigsten
 zeitlich adj
 zeitweilig adj
 zentral adj cmp=zentraler sup=zentralsten
+zerbrechlich adj cmp=zerbrechlicher sup=zerbrechlichsten
 zerstreut adj cmp=zerstreuter sup=zerstreutesten
 zerstritten adj
 zickig adj cmp=zickiger sup=zickigsten
