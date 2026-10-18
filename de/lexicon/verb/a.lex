@@ -20,6 +20,7 @@ abstimmen verb class=weak sep=ab pp=abgestimmt perf=haben
 abwechseln verb class=weak sep=ab refl=acc pp=abgewechselt perf=haben
 abweichen     verb class=strong sep=ab 3sg=abweicht past=abwich pp=abgewichen subj2=abwiche perf=sein
 abziehen verb class=strong sep=ab 3sg=abzieht past=abzog pp=abgezogen subj2=abzöge perf=haben|sein
+abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative

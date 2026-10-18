@@ -174,6 +174,7 @@ Hürde noun g=f gen=Hürde pl=Hürden
 Husten noun g=m gen=Hustens pl=- note=cough; no plural in practice
 Hut noun g=m gen=Hutes|Huts pl=Hüte sense=hat
 Hut noun g=f gen=Hut pl=- sense=guard note=auf der Hut sein; mass noun
+Hüter noun g=m gen=Hüters pl=Hüter
 Hütte noun g=f gen=Hütte pl=Hütten
 Hydrographie noun g=f gen=Hydrographie pl=- note=science name
 Hygiene noun g=f gen=Hygiene pl=- note=mass noun
