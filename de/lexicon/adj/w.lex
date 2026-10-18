@@ -8,7 +8,7 @@ weltweit adj
 wenig adj cmp=weniger sup=wenigsten cmp_indecl note=the indefinite determiner wenige (few) is a closed-class item
 wert adj
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
-westlich adj
+westlich adj note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten

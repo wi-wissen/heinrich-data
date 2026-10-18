@@ -51,6 +51,12 @@ sämtlicher   pron type=tot decl=dieser
 # ---------------------------------------------------------------- quantity
 einige       det type=ind decl=dieser stem=einig adj=strong note=singular use: einiger Aufwand, einiges Geld
 einige       pron type=ind decl=dieser stem=einig note=einiges, einige
+viele        det type=ind decl=dieser stem=viel adj=strong note=viele Menschen; singular use: vieles, vielem
+viele        pron type=ind decl=dieser stem=viel note=vieles, viele (viele sind gekommen)
+wenige       det type=ind decl=dieser stem=wenig adj=strong note=singular use: weniger Aufwand, weniges Geld
+wenige       pron type=ind decl=dieser stem=wenig note=weniges, wenige (wenige sind gekommen)
+wenig        det type=ind note=uninflected before a mass noun (wenig Geld, wenig Zeit); the adjective wenig is in adj/
+wenig        pron type=ind note=uninflected (er weiß wenig); the adjective wenig is in adj/
 etliche      det type=ind decl=dieser stem=etlich adj=strong
 etliche      pron type=ind decl=dieser stem=etlich
 mehrere      det type=ind adj=strong pl=mehrere,mehrerer,mehreren,mehrere
