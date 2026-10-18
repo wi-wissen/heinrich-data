@@ -10,7 +10,7 @@ offensive      adj cmp=more adv=offensively
 official       adj adv=officially
 offshore       adj
 okay           adj
-old            adj cmp=er
+old adj cmp=older|elder sup=oldest|eldest
 ole            adj style=colloquial note=old
 Olympic        adj
 ongoing        adj
