@@ -1,0 +1,107 @@
+earn verb
+ease verb
+eat verb past=ate pp=eaten
+echo verb
+edge verb
+edit verb
+educate verb
+effect verb
+ejaculate verb
+elaborate verb
+elapse verb
+elect verb
+elevate verb
+eliminate verb
+elongate verb
+email verb
+embark verb
+embarrass verb
+embed verb double
+embody verb
+embrace verb
+emerge verb
+emigrate verb
+emit verb double
+emphasize verb gb=emphasise|emphasize
+employ verb
+empower verb
+empty verb
+enable verb
+enact verb
+enclose verb
+encompass verb
+encounter verb
+encourage verb
+end verb
+endanger verb
+endeavor verb gb=endeavour
+endorse verb
+endow verb
+endure verb
+enforce verb
+engage verb
+engineer verb
+enhance verb
+enjoy verb
+enlarge verb
+enlighten verb
+enlist verb
+enrich verb
+enroll verb gb=enrol double
+enslave verb
+ensue verb ing=ensuing note=ing written out: the generator gives ensueing
+ensure verb
+enter verb
+entertain verb
+entitle verb
+entrust verb
+envy verb
+equal verb
+equip verb double
+erect verb
+escape verb
+escort verb
+establish verb
+estimate verb
+evacuate verb
+evaluate verb
+evidence verb
+evolve verb
+exaggerate verb
+examine verb
+excavate verb
+exceed verb
+except verb
+exchange verb
+excise verb
+excite verb
+exclaim verb
+exclude verb
+excuse verb
+execute verb
+exempt verb
+exercise verb
+exhaust verb
+exhibit verb
+exile verb
+exist verb
+exit verb
+expand verb
+expect verb
+expedite verb
+expel verb double
+expend verb
+experience verb
+experiment verb
+expire verb
+explain verb
+explode verb
+exploit verb
+explore verb
+export verb
+expose verb
+express verb
+extend verb
+extinguish verb
+extract verb
+eye verb
