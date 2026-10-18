@@ -1,7 +1,11 @@
+heim adv
 herab adv
 heran adv
+herbei adv
 herum adv
 hervor adv
 hinab adv
+hinterher adv
 hinweg adv
 hinzu adv
+hochkant adv

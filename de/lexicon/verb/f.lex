@@ -1,6 +1,7 @@
 fahren       verb class=strong 3sg=fährt past=fuhr pp=gefahren subj2=führe perf=haben|sein
 fallen verb class=strong 3sg=fällt past=fiel pp=gefallen subj2=fiele perf=sein
 fangen verb class=strong 3sg=fängt past=fing pp=gefangen subj2=finge perf=haben refl=acc
+färben verb class=weak pp=gefärbt perf=haben refl=acc
 fassen verb class=weak pp=gefasst perf=haben refl=acc
 fehlen verb class=weak pp=gefehlt perf=haben
 feiern verb class=weak pp=gefeiert perf=haben
@@ -30,7 +31,7 @@ freuen       verb class=weak pp=gefreut perf=haben refl=acc
 fügen verb class=weak pp=gefügt perf=haben
 fühlen verb class=weak pp=gefühlt perf=haben refl=acc
 führen verb class=weak pp=geführt perf=haben
-füllen verb class=weak pp=gefüllt perf=haben
+füllen verb class=weak pp=gefüllt perf=haben refl=acc
 fungieren verb class=weak pp=fungiert perf=haben
 funktionieren verb class=weak pp=funktioniert perf=haben
 fürchten verb class=weak pp=gefürchtet perf=haben
