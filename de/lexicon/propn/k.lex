@@ -20,6 +20,7 @@ Korea propn g=n gen=Koreas pl=- note=proper name; no plural
 Kosovo propn g=m|n gen=Kosovo|Kosovos pl=- note=proper name; no plural
 KPD propn g=f gen=KPD pl=- note=proper name; no plural
 Krakau propn g=n gen=Krakaus pl=- note=proper name; no plural
+Krefeld propn g=n gen=Krefelds pl=- note=proper name; no plural
 Krim propn g=f gen=Krim pl=- note=die Krim
 Kroatien propn g=n gen=Kroatiens pl=- note=proper name; no plural
 Kuba propn g=n gen=Kubas pl=- note=proper name; no plural
