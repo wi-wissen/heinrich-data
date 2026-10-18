@@ -33,7 +33,7 @@ Marmor noun g=m gen=Marmors pl=Marmore
 Marquis noun g=m gen=Marquis pl=Marquis note=French title
 Marsch noun g=m gen=Marsches pl=Märsche sense=march
 Marschall noun g=m gen=Marschalls pl=Marschälle
-März noun g=m gen=März|Märzes pl=Märze[rare] note=month name; plural rare
+März noun g=m sg=März,März|Märzes,März,März pl=- note=month name; plural not used
 Maschine noun g=f gen=Maschine pl=Maschinen
 Maske noun g=f gen=Maske pl=Masken
 Maß noun g=n gen=Maßes pl=Maße
