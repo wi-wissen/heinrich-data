@@ -19,6 +19,7 @@ Lärm noun g=m gen=Lärms|Lärmes pl=- note=no plural
 Last noun g=f gen=Last pl=Lasten
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
 Lauf noun g=m gen=Laufes|Laufs pl=Läufe
+Läufer noun g=m gen=Läufers pl=Läufer
 Laune noun g=f gen=Laune pl=Launen
 Leben noun g=n gen=Lebens pl=Leben
 Lebensjahr noun g=n gen=Lebensjahrs|Lebensjahres pl=Lebensjahre

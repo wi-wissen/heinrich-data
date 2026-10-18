@@ -141,10 +141,11 @@ Fund noun g=m gen=Fundes|Funds pl=Funde
 Fundament noun g=n gen=Fundaments|Fundamentes pl=Fundamente
 Funk noun g=m gen=Funks pl=- note=no plural
 Funktion noun g=f gen=Funktion pl=Funktionen
+Funktionär noun g=m gen=Funktionärs pl=Funktionäre
 Furcht noun g=f gen=Furcht pl=- note=no plural in use
 Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
+Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle
-Fusion noun g=f gen=Fusion pl=Fusionen
