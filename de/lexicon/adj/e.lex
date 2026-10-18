@@ -25,12 +25,14 @@ eingeschnappt adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
+einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
 einschlägig adj attr_only
 einseitig adj
 einstig adj attr_only
 einstimmig adj
+eintönig adj cmp=eintöniger sup=eintönigsten
 einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
@@ -46,6 +48,7 @@ elend adj cmp=elender sup=elendsten
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 endgültig adj
+endlich adj
 energisch adj cmp=energischer sup=energischsten
 eng adj cmp=enger sup=engsten
 englisch adj
@@ -53,9 +56,12 @@ englischsprachig adj
 enorm adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
+entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
+enttäuscht adj cmp=enttäuschter sup=enttäuschtesten
 epidemisch adj
+episch adj
 erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
@@ -64,17 +70,21 @@ erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
 erkennbar adj
+erleichtert adj cmp=erleichterter sup=erleichtertsten
 erneuerbar adj
 erneut adj
 ernst adj cmp=ernster sup=ernstesten
 ernsthaft adj cmp=ernsthafter sup=ernsthaftesten
 ernstlich adj
 erreichbar adj
+erschrocken adj cmp=erschrockener sup=erschrockensten
 ersichtlich adj
 erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
+erstaunt adj cmp=erstaunter sup=erstauntesten
 erstmalig adj
 erwachsen adj
 erwünscht adj
+erzählend adj
 ethisch adj
 ethnisch adj
 etwaig adj attr_only
@@ -85,6 +95,10 @@ eventuell adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+experimentell adj
 explizit adj
+explosiv adj
+exponentiell adj
+expressionistisch adj
 extern adj
 extrem adj cmp=extremer sup=extremsten

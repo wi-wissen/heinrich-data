@@ -31,6 +31,10 @@ Ostern	noun	holiday
 Weihnachten	noun	holiday
 Silvester	noun	holiday
 Advent	noun	holiday
+Pfingsten	noun	holiday
+Neujahr	noun	holiday
+Fasching	noun	holiday
+Karneval	noun	holiday
 
 Sekunde	noun	unit
 Minute	noun	unit
@@ -43,6 +47,8 @@ Semester	noun	unit
 Jahr	noun	unit
 Jahrzehnt	noun	unit
 Jahrhundert	noun	unit
+Jahrtausend	noun	unit
+Halbjahr	noun	unit
 
 Morgen:daytime	noun	daytime
 Vormittag	noun	daytime
@@ -60,6 +66,7 @@ Herbst	noun	season
 Winter	noun	season
 Ferien	noun	season
 Saison	noun	season
+Jahreszeit	noun	season
 
 Anfang	noun	phase
 Beginn	noun	phase
@@ -77,6 +84,8 @@ Epoche	noun	period
 Periode	noun	period
 Mittelalter	noun	period
 Antike	noun	period
+Neuzeit	noun	period
+Steinzeit	noun	period
 
 Zeit	noun	span
 Weile	noun	span

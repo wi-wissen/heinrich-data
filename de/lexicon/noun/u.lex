@@ -28,20 +28,25 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übersetzerin noun g=f gen=Übersetzerin pl=Übersetzerinnen
 Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
 Übersicht noun g=f gen=Übersicht pl=Übersichten
+Überstunde noun g=f gen=Überstunde pl=Überstunden
 Übertragung noun g=f gen=Übertragung pl=Übertragungen
 Überwachung noun g=f gen=Überwachung pl=Überwachungen[rare]
+Überweg noun g=m gen=Überwegs|Überweges pl=Überwege
 Überweisung noun g=f gen=Überweisung pl=Überweisungen
 Überwindung noun g=f gen=Überwindung pl=- note=no plural
 Überzeugung noun g=f gen=Überzeugung pl=Überzeugungen
 Übung noun g=f gen=Übung pl=Übungen
 Ufer noun g=n gen=Ufers pl=Ufer
 Uhr noun g=f gen=Uhr pl=Uhren
+Uhrmacher noun g=m gen=Uhrmachers pl=Uhrmacher
+Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhu noun g=m gen=Uhus pl=Uhus
 Ulme noun g=f gen=Ulme pl=Ulmen
 Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
+Umdrehung noun g=f gen=Umdrehung pl=Umdrehungen
 Umfang noun g=m gen=Umfangs|Umfanges[rare] pl=Umfänge
 Umfeld noun g=n gen=Umfelds|Umfeldes pl=Umfelder
 Umfrage noun g=f gen=Umfrage pl=Umfragen
@@ -49,10 +54,13 @@ Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
+Umkleide noun g=f gen=Umkleide pl=Umkleiden
 Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
+Umlaut noun g=m gen=Umlauts|Umlautes pl=Umlaute
+Umleitung noun g=f gen=Umleitung pl=Umleitungen
 Umsatz noun g=m gen=Umsatzes pl=Umsätze
 Umschlag noun g=m gen=Umschlags|Umschlages pl=Umschläge
 Umschrift noun g=f gen=Umschrift pl=Umschriften
@@ -62,19 +70,23 @@ Umstellung noun g=f gen=Umstellung pl=Umstellungen
 Umwandlung noun g=f gen=Umwandlung pl=Umwandlungen
 Umweg noun g=m gen=Umwegs|Umweges pl=Umwege
 Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
+Umweltschutz noun g=m gen=Umweltschutzes pl=- note=no plural
 Umweltschützer noun g=m gen=Umweltschützers pl=Umweltschützer
 Umweltschützerin noun g=f gen=Umweltschützerin pl=Umweltschützerinnen
 Umweltverschmutzung noun g=f gen=Umweltverschmutzung pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
+Unbekannte noun g=m|f decl=adj
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
 Unfallversicherung noun g=f gen=Unfallversicherung pl=Unfallversicherungen
 Unfug noun g=m gen=Unfugs|Unfuges pl=- note=no plural
+Ungarin noun g=f gen=Ungarin pl=Ungarinnen
 Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
+Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
 Unglück noun g=n gen=Unglücks|Unglückes[rare] pl=Unglücke
 Unheil noun g=n gen=Unheils pl=- note=no plural
 Uni noun g=f gen=Uni pl=Unis
@@ -95,6 +107,7 @@ Unsinn noun g=m gen=Unsinns|Unsinnes pl=- note=no plural
 Unterbrechung noun g=f gen=Unterbrechung pl=Unterbrechungen
 Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen
+Unterführung noun g=f gen=Unterführung pl=Unterführungen
 Untergang noun g=m gen=Untergangs|Unterganges pl=Untergänge
 Untergrund noun g=m gen=Untergrunds|Untergrundes pl=Untergründe
 Unterhalt noun g=m gen=Unterhalts|Unterhaltes pl=- note=maintenance, support
@@ -103,6 +116,7 @@ Unterkunft noun g=f gen=Unterkunft pl=Unterkünfte
 Unterlage noun g=f gen=Unterlage pl=Unterlagen
 Unternehmen noun g=n gen=Unternehmens pl=Unternehmen
 Unternehmer noun g=m gen=Unternehmers pl=Unternehmer
+Unternehmerin noun g=f gen=Unternehmerin pl=Unternehmerinnen
 Unternehmung noun g=f gen=Unternehmung pl=Unternehmungen
 Unteroffizier noun g=m gen=Unteroffiziers pl=Unteroffiziere
 Unterredung noun g=f gen=Unterredung pl=Unterredungen
@@ -112,22 +126,31 @@ Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
 Untersetzer noun g=m gen=Untersetzers pl=Untersetzer
+Unterstufe noun g=f gen=Unterstufe pl=Unterstufen
 Unterstützer noun g=m gen=Unterstützers pl=Unterstützer
+Unterstützerin noun g=f gen=Unterstützerin pl=Unterstützerinnen
 Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
 Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen
 Untertan noun g=m gen=Untertans|Untertanen pl=Untertanen
+Untertitel noun g=m gen=Untertitels pl=Untertitel
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen
 Unversehrtheit noun g=f gen=Unversehrtheit pl=- note=no plural
 Unze noun g=f gen=Unze pl=Unzen
 Unzufriedenheit noun g=f gen=Unzufriedenheit pl=- note=no plural in practice
+Update noun g=n gen=Updates pl=Updates
+Upload noun g=m gen=Uploads pl=Uploads
 Uraufführung noun g=f gen=Uraufführung pl=Uraufführungen
 Ureinwohner noun g=m gen=Ureinwohners pl=Ureinwohner
 Urheber noun g=m gen=Urhebers pl=Urheber
+Urheberin noun g=f gen=Urheberin pl=Urheberinnen
 Urkunde noun g=f gen=Urkunde pl=Urkunden
 Urlaub noun g=m gen=Urlaubs|Urlaubes pl=Urlaube
+Urlauber noun g=m gen=Urlaubers pl=Urlauber
+Urlauberin noun g=f gen=Urlauberin pl=Urlauberinnen
 Urne noun g=f gen=Urne pl=Urnen
 Ursache noun g=f gen=Ursache pl=Ursachen
 Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
+Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural

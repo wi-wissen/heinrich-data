@@ -2,6 +2,7 @@ nachdenklich adj cmp=nachdenklicher sup=nachdenklichsten
 nachdrücklich adj cmp=nachdrücklicher sup=nachdrücklichsten
 nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
+nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
 nachträglich adj
@@ -17,6 +18,7 @@ narbig adj
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
 nationalsozialistisch adj
+naturalistisch adj
 naturgemäß adj
 natürlich adj cmp=natürlicher sup=natürlichsten
 neblig adj cmp=nebliger sup=nebligsten
@@ -36,6 +38,7 @@ nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separ
 niederländisch adj
 niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
+nobel adj cmp=nobler sup=noblesten
 nordisch adj
 nördlich adj note=also a genitive preposition (closed/prepositions.lex)
 normal adj cmp=normaler sup=normalsten
@@ -45,3 +48,4 @@ notwendig adj cmp=notwendiger sup=notwendigsten
 nüchtern adj cmp=nüchterner sup=nüchternsten
 nuklear adj
 nützlich adj cmp=nützlicher sup=nützlichsten
+nutzlos adj cmp=nutzloser sup=nutzlosesten

@@ -32,12 +32,19 @@ hinken	verb	self
 humpeln	verb	self
 schlendern	verb	self
 bummeln	verb	self
+rasen	verb	self
 ziehen	verb	self
 
 fahren	verb	vehicle
 fliegen	verb	vehicle
 reiten	verb	vehicle
 rudern	verb	vehicle
+segeln	verb	vehicle
+paddeln	verb	vehicle
+surfen	verb	vehicle
+radeln	verb	vehicle
+galoppieren	verb	vehicle
+traben	verb	vehicle
 
 schwimmen	verb	water
 tauchen	verb	water

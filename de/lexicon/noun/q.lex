@@ -1,3 +1,4 @@
+Quader noun g=m gen=Quaders pl=Quader
 Quadrat noun g=n gen=Quadrats|Quadrates pl=Quadrate
 Quadratkilometer noun g=m gen=Quadratkilometers pl=Quadratkilometer
 Quadratmeter noun g=m|n gen=Quadratmeters pl=Quadratmeter
@@ -15,7 +16,10 @@ Quartier noun g=n gen=Quartiers pl=Quartiere
 Quatsch noun g=m gen=Quatsches|Quatschs pl=- note=mass noun; colloquial
 Quecksilber noun g=n gen=Quecksilbers pl=- note=mass noun
 Quelle noun g=f gen=Quelle pl=Quellen
+Querflöte noun g=f gen=Querflöte pl=Querflöten
 Querschnitt noun g=m gen=Querschnitts|Querschnittes pl=Querschnitte
 Quiche noun g=f gen=Quiche pl=Quiches
 Quittung noun g=f gen=Quittung pl=Quittungen
+Quizshow noun g=f gen=Quizshow pl=Quizshows
 Quote noun g=f gen=Quote pl=Quoten
+Quotient noun g=m gen=Quotienten pl=Quotienten

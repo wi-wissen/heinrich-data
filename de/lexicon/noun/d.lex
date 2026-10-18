@@ -4,6 +4,7 @@ Dachdeckerin noun g=f gen=Dachdeckerin pl=Dachdeckerinnen
 Dachrinne noun g=f gen=Dachrinne pl=Dachrinnen
 Dachs noun g=m gen=Dachses pl=Dachse
 Dackel noun g=m gen=Dackels pl=Dackel
+Daktylus noun g=m gen=Daktylus pl=Daktylen note=Latin loanword; genitive without -es
 Dame          noun g=f gen=Dame pl=Damen
 Damm noun g=m gen=Dammes|Damms pl=Dämme
 Dämmerung noun g=f gen=Dämmerung pl=Dämmerungen
@@ -11,6 +12,7 @@ Dämmung noun g=f gen=Dämmung pl=Dämmungen
 Dämon noun g=m gen=Dämons pl=Dämonen
 Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
+Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Dankeschön noun g=n gen=Dankeschöns pl=Dankeschöns
@@ -22,6 +24,8 @@ Darstellung   noun g=f gen=Darstellung pl=Darstellungen
 Dasein noun g=n gen=Daseins pl=- note=no plural
 Date noun g=n gen=Dates pl=Dates
 Datei         noun g=f gen=Datei pl=Dateien
+Datenschutz noun g=m gen=Datenschutzes pl=- note=no plural
+Dativ noun g=m gen=Dativs pl=Dative
 Dattel noun g=f gen=Dattel pl=Datteln
 Datum         noun g=n gen=Datums pl=Daten
 Dauer         noun g=f gen=Dauer pl=- note=no plural
@@ -40,6 +44,7 @@ Defizit noun g=n gen=Defizits pl=Defizite
 Degen noun g=m gen=Degens pl=Degen
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
+Deklination noun g=f gen=Deklination pl=Deklinationen
 Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
 Delegation noun g=f gen=Delegation pl=Delegationen
 Delegierte noun g=m|f decl=adj
@@ -49,10 +54,14 @@ Delta noun g=n gen=Deltas pl=Deltas|Delten[rare]
 Demo noun g=f gen=Demo pl=Demos note=colloquial for Demonstration
 Demokrat noun g=m gen=Demokraten pl=Demokraten
 Demokratie    noun g=f gen=Demokratie pl=Demokratien
+Demokratin noun g=f gen=Demokratin pl=Demokratinnen
 Demonstrant noun g=m gen=Demonstranten pl=Demonstranten
+Demonstrantin noun g=f gen=Demonstrantin pl=Demonstrantinnen
 Demonstration noun g=f gen=Demonstration pl=Demonstrationen
+Demonstrativpronomen noun g=n gen=Demonstrativpronomens pl=Demonstrativpronomen|Demonstrativpronomina
 Demut noun g=f gen=Demut pl=- note=no plural
 Denker noun g=m gen=Denkers pl=Denker
+Denkerin noun g=f gen=Denkerin pl=Denkerinnen
 Denkmal noun g=n gen=Denkmals|Denkmales pl=Denkmäler|Denkmale[rare]
 Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
@@ -64,16 +73,23 @@ Depression noun g=f gen=Depression pl=Depressionen
 Derby noun g=n gen=Derbys pl=Derbys
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
+Designerin noun g=f gen=Designerin pl=Designerinnen
+Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Dessert noun g=n gen=Desserts pl=Desserts
 Detail noun g=n gen=Details pl=Details
+Detektiv noun g=m gen=Detektivs pl=Detektive
+Detektivin noun g=f gen=Detektivin pl=Detektivinnen
 Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
 Deutsche      noun g=m|f decl=adj
 Deutung noun g=f gen=Deutung pl=Deutungen
 Dezember noun g=m gen=Dezember|Dezembers pl=Dezember[rare] note=month name; plural rare (die Dezember)
+Dezimalzahl noun g=f gen=Dezimalzahl pl=Dezimalzahlen
 Diabetes noun g=m gen=Diabetes pl=- note=no plural
 Diagnose noun g=f gen=Diagnose pl=Diagnosen
 Diagnostik noun g=f gen=Diagnostik pl=- note=no plural
+Diagonale noun g=f gen=Diagonale pl=Diagonalen
+Diagramm noun g=n gen=Diagramms pl=Diagramme
 Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
@@ -85,18 +101,26 @@ Dichtung noun g=f gen=Dichtung pl=Dichtungen
 Dicke noun g=f gen=Dicke pl=Dicken
 Dickicht noun g=n gen=Dickichts|Dickichtes pl=Dickichte
 Dieb noun g=m gen=Diebes|Diebs[rare] pl=Diebe
+Diebin noun g=f gen=Diebin pl=Diebinnen
 Diebstahl noun g=m gen=Diebstahls pl=Diebstähle
 Diele noun g=f gen=Diele pl=Dielen
 Diener        noun g=m gen=Dieners pl=Diener
+Dienerin noun g=f gen=Dienerin pl=Dienerinnen
 Dienst        noun g=m gen=Dienstes|Diensts pl=Dienste
 Dienstag noun g=m gen=Dienstags|Dienstages pl=Dienstage
 Dienstleister noun g=m gen=Dienstleisters pl=Dienstleister
+Dienstleisterin noun g=f gen=Dienstleisterin pl=Dienstleisterinnen
 Dienstleistung noun g=f gen=Dienstleistung pl=Dienstleistungen
 Diesel noun g=m gen=Diesels pl=Diesel
+Dietrich noun g=m gen=Dietrichs pl=Dietriche
 Differenz noun g=f gen=Differenz pl=Differenzen
 Differenzierung noun g=f gen=Differenzierung pl=Differenzierungen
 Digitalisierung noun g=f gen=Digitalisierung pl=- note=no plural
+Diktat noun g=n gen=Diktats|Diktates pl=Diktate
+Diktator noun g=m gen=Diktators pl=Diktatoren
+Diktatorin noun g=f gen=Diktatorin pl=Diktatorinnen
 Diktatur noun g=f gen=Diktatur pl=Diktaturen
+Dilemma noun g=n gen=Dilemmas pl=Dilemmas|Dilemmata
 Dill noun g=m gen=Dills pl=Dille
 Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
@@ -105,14 +129,19 @@ Diözese noun g=f gen=Diözese pl=Diözesen
 Diplom noun g=n gen=Diploms|Diplomes[rare] pl=Diplome
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
 Diplomatie noun g=f gen=Diplomatie pl=- note=no plural
+Diplomatin noun g=f gen=Diplomatin pl=Diplomatinnen
 Direktion noun g=f gen=Direktion pl=Direktionen
 Direktor      noun g=m gen=Direktors pl=Direktoren
 Direktorin noun g=f gen=Direktorin pl=Direktorinnen
 Dirigent noun g=m gen=Dirigenten pl=Dirigenten
+Dirigentin noun g=f gen=Dirigentin pl=Dirigentinnen
+Disco noun g=f gen=Disco pl=Discos
+Diskothek noun g=f gen=Diskothek pl=Diskotheken
 Diskriminierung noun g=f gen=Diskriminierung pl=Diskriminierungen
 Diskurs noun g=m gen=Diskurses pl=Diskurse
 Diskus noun g=m gen=Diskus|Diskusses pl=Diskusse|Disken conf=80 note=plural unsure; sports discus
 Diskussion    noun g=f gen=Diskussion pl=Diskussionen
+Display noun g=n gen=Displays pl=Displays
 Disposition noun g=f gen=Disposition pl=Dispositionen
 Dissertation noun g=f gen=Dissertation pl=Dissertationen
 Distanz noun g=f gen=Distanz pl=Distanzen
@@ -126,36 +155,48 @@ DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
 Doge noun g=m gen=Dogen pl=Dogen
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
+Doktorin noun g=f gen=Doktorin pl=Doktorinnen
 Dokument noun g=n gen=Dokuments|Dokumentes pl=Dokumente
 Dokumentarfilm noun g=m gen=Dokumentarfilms|Dokumentarfilmes pl=Dokumentarfilme
 Dokumentation noun g=f gen=Dokumentation pl=Dokumentationen
 Dolch noun g=m gen=Dolchs|Dolches pl=Dolche
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Dolmetscher noun g=m gen=Dolmetschers pl=Dolmetscher
+Dolmetscherin noun g=f gen=Dolmetscherin pl=Dolmetscherinnen
 Dom noun g=m gen=Doms|Domes pl=Dome
+Dominostein noun g=m gen=Dominosteins|Dominosteines pl=Dominosteine
 Döner noun g=m gen=Döners pl=Döner
 Donner noun g=m gen=Donners pl=- note=thunder; no plural
 Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Doping noun g=n gen=Dopings pl=- note=no plural
 Doppel noun g=n gen=Doppels pl=Doppel
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
+Dörfler noun g=m gen=Dörflers pl=Dörfler
 Dorn noun g=m gen=Dorns|Dornes pl=Dornen|Dorne[rare]
 Dortmunder noun g=m gen=Dortmunders pl=Dortmunder note=inhabitant of Dortmund
 Dose noun g=f gen=Dose pl=Dosen
 Dosenöffner noun g=m gen=Dosenöffners pl=Dosenöffner
 Dosis noun g=f gen=Dosis pl=Dosen
 Double noun g=n gen=Doubles pl=Doubles
+Download noun g=m gen=Downloads pl=Downloads
 Dozent noun g=m gen=Dozenten pl=Dozenten
+Dozentin noun g=f gen=Dozentin pl=Dozentinnen
 Drache noun g=m gen=Drachen pl=Drachen
 Drachen noun g=m gen=Drachens pl=Drachen
 Draht noun g=m gen=Drahts|Drahtes pl=Drähte
 Drama noun g=n gen=Dramas pl=Dramen
+Dramatik noun g=f gen=Dramatik pl=- note=no plural
 Dramatiker noun g=m gen=Dramatikers pl=Dramatiker
+Dramatikerin noun g=f gen=Dramatikerin pl=Dramatikerinnen
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
 Dreieck noun g=n gen=Dreiecks|Dreieckes[rare] pl=Dreiecke
+Dreirad noun g=n gen=Dreirads|Dreirades pl=Dreiräder
+Dreisatz noun g=m gen=Dreisatzes pl=- note=no plural
+Dreisprung noun g=m gen=Dreisprungs|Dreisprunges pl=Dreisprünge
 Dresdner noun g=m gen=Dresdners pl=Dresdner
+Dressur noun g=f gen=Dressur pl=Dressuren
 Drittel       noun g=n gen=Drittels pl=Drittel
 Drittstaat noun g=m gen=Drittstaates|Drittstaats pl=Drittstaaten
 Droge noun g=f gen=Droge pl=Drogen
@@ -168,7 +209,9 @@ Druck         noun g=m gen=Drucks|Druckes pl=Drücke sense=pressure
 Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print
 Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
+Druckerin noun g=f gen=Druckerin pl=Druckerinnen
 Dschungel noun g=m gen=Dschungels pl=Dschungel
+Dudelsack noun g=m gen=Dudelsacks|Dudelsackes pl=Dudelsäcke
 Duell noun g=n gen=Duells pl=Duelle
 Duft noun g=m gen=Duftes|Dufts pl=Düfte
 Dukat noun g=m gen=Dukaten pl=Dukaten

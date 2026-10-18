@@ -43,6 +43,14 @@ gratulieren	verb	dat
 zuschauen	verb	dat
 misstrauen	verb	dat
 trotzen	verb	dat
+applaudieren	verb	dat
+nachgeben	verb	dat
+ausweichen	verb	dat
+misslingen	verb	dat
+zujubeln	verb	dat
+zuwinken	verb	dat
+zulächeln	verb	dat
+erliegen	verb	dat
 
 # Dative person, accusative thing possible.
 glauben	verb	dat|acc

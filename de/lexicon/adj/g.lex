@@ -1,5 +1,7 @@
 ganz adj note=the adverb is in closed/
 gar adj
+gasförmig adj
+gebeugt adj
 geborgen adj
 gebräuchlich adj
 gebraucht adj
@@ -12,6 +14,7 @@ gefälscht adj
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
 gegenwärtig adj
+gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
 gehörig adj
 gehorsam adj cmp=gehorsamer sup=gehorsamsten
@@ -48,6 +51,7 @@ geringfügig adj cmp=geringfügiger sup=geringfügigsten
 germanisch adj
 gesamt adj
 geschäftlich adj
+gescheit adj cmp=gescheiter sup=gescheitesten
 geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
 geschockt adj cmp=geschockter sup=geschocktesten
@@ -56,6 +60,7 @@ gesellschaftlich adj
 gesetzlich adj
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
+gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
@@ -66,21 +71,27 @@ gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden wi
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewiss adj cmp=gewisser sup=gewissesten
+gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
+glänzend adj cmp=glänzender sup=glänzendsten
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
+gläubig adj cmp=gläubiger sup=gläubigsten
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichaltrig adj
+gleichberechtigt adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
 gleichwertig adj cmp=gleichwertiger sup=gleichwertigsten
 gleichzeitig adj
+glitzernd adj cmp=glitzernder sup=glitzerndsten
 global adj
 glücklich adj cmp=glücklicher sup=glücklichsten
 gnädig adj cmp=gnädiger sup=gnädigsten
@@ -88,6 +99,8 @@ golden adj
 gotisch adj
 göttlich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
+grammatikalisch adj
+grammatisch adj
 grasig adj cmp=grasiger sup=grasigsten
 gratis adj indecl
 grau adj cmp=grauer sup=grauesten
@@ -95,8 +108,10 @@ grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten
 grell adj cmp=greller sup=grellsten
 grenzüberschreitend adj
+greulich adj cmp=greulicher sup=greulichsten
 griechisch adj
 griesgrämig adj cmp=griesgrämiger sup=griesgrämigsten
+grimmig adj cmp=grimmiger sup=grimmigsten
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten

@@ -19,24 +19,30 @@ deutlich      adj cmp=deutlicher sup=deutlichsten
 deutsch      adj
 deutschsprachig adj
 dezent adj cmp=dezenter sup=dezentesten
+diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
+dicklich adj cmp=dicklicher sup=dicklichsten
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
+diktatorisch adj
 diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
+diskriminierend adj
 divers adj
 doof adj cmp=doofer sup=doofsten
 doppelt adj
 dornig adj cmp=dorniger sup=dornigsten
 dortig        adj note=only attributive (die dortigen Verhältnisse)
+drahtlos adj
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
+dreifach adj
 dreißigjährig adj attr_only
 dringend      adj cmp=dringender sup=dringendsten
 dual adj

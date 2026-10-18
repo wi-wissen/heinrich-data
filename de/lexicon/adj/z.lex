@@ -1,6 +1,7 @@
 zäh adj cmp=zäher sup=zähesten
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
 zahm adj cmp=zahmer sup=zahmsten
+zappelig adj cmp=zappeliger sup=zappeligsten
 zart adj cmp=zarter sup=zartesten
 zärtlich adj
 zeitgenössisch adj
@@ -8,6 +9,7 @@ zeitig adj cmp=zeitiger sup=zeitigsten
 zeitlich adj
 zeitweilig adj
 zentral adj cmp=zentraler sup=zentralsten
+zerbrechlich adj cmp=zerbrechlicher sup=zerbrechlichsten
 zerstreut adj cmp=zerstreuter sup=zerstreutesten
 zerstritten adj
 zickig adj cmp=zickiger sup=zickigsten
@@ -28,6 +30,7 @@ zukünftig adj
 zulässig adj
 zumutbar adj
 zurückhaltend adj cmp=zurückhaltender sup=zurückhaltendsten
+zusammengesetzt adj
 zusätzlich adj
 zuständig adj
 zutraulich adj cmp=zutraulicher sup=zutraulichsten
