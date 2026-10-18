@@ -3,6 +3,7 @@ sammeln      verb class=weak pp=gesammelt perf=haben
 sanieren verb class=weak pp=saniert perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
 schaden verb class=weak pp=geschadet perf=haben
+schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
 schämen verb class=weak pp=geschämt perf=haben refl=acc
@@ -27,6 +28,7 @@ schöpfen verb class=weak pp=geschöpft perf=haben
 schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schriebe perf=haben
 schreien verb class=strong 3sg=schreit past=schrie pp=geschrien subj2=schriee perf=haben
 schreiten verb class=strong 3sg=schreitet past=schritt pp=geschritten subj2=schritte perf=sein
+schulden verb class=weak pp=geschuldet perf=haben
 schüren verb class=weak pp=geschürt perf=haben
 schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
 schützen verb class=weak pp=geschützt perf=haben refl=acc
@@ -56,6 +58,7 @@ spannen verb class=weak pp=gespannt perf=haben refl=acc
 sparen verb class=weak pp=gespart perf=haben
 spazieren verb class=weak pp=spaziert perf=sein
 speichern verb class=weak pp=gespeichert perf=haben
+speisen verb class=weak pp=gespeist perf=haben
 spenden verb class=weak pp=gespendet perf=haben
 sperren verb class=weak pp=gesperrt perf=haben refl=acc
 spezialisieren verb class=weak pp=spezialisiert perf=haben refl=acc
@@ -63,6 +66,7 @@ spiegeln verb class=weak pp=gespiegelt perf=haben refl=acc
 spielen verb class=weak pp=gespielt perf=haben
 spitzen verb class=weak pp=gespitzt perf=haben
 sprechen     verb class=strong 3sg=spricht past=sprach pp=gesprochen subj2=spräche perf=haben
+sprengen verb class=weak pp=gesprengt perf=haben
 springen verb class=strong 3sg=springt past=sprang pp=gesprungen subj2=spränge perf=sein|haben
 spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben

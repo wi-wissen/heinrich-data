@@ -9,6 +9,7 @@ wandern      verb class=weak pp=gewandert perf=sein
 warnen verb class=weak pp=gewarnt perf=haben
 warten verb class=weak pp=gewartet perf=haben
 wechseln verb class=weak pp=gewechselt perf=haben|sein
+wecken verb class=weak pp=geweckt perf=haben
 wegfallen verb class=strong sep=weg 3sg=wegfällt past=wegfiel pp=weggefallen subj2=wegfiele perf=sein
 wehren verb class=weak refl=acc pp=gewehrt perf=haben
 weihen verb class=weak pp=geweiht perf=haben

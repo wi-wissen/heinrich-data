@@ -10,5 +10,6 @@ neigen verb class=weak pp=geneigt perf=haben refl=acc
 nennen verb class=mixed 3sg=nennt past=nannte pp=genannt subj2=nennte perf=haben refl=acc
 nicken verb class=weak pp=genickt perf=haben
 nominieren verb class=weak pp=nominiert perf=haben
+nötigen verb class=weak pp=genötigt perf=haben
 nutzen verb class=weak pp=genutzt perf=haben
 nützen verb class=weak pp=genützt perf=haben

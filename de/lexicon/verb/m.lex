@@ -2,6 +2,7 @@ machen       verb class=weak pp=gemacht perf=haben
 malen verb class=weak pp=gemalt perf=haben
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
 markieren verb class=weak pp=markiert perf=haben
+mäßigen verb class=weak pp=gemäßigt perf=haben
 meinen verb class=weak pp=gemeint perf=haben
 meistern verb class=weak pp=gemeistert perf=haben
 melden verb class=weak pp=gemeldet perf=haben refl=acc
