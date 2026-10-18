@@ -35,6 +35,7 @@ kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
 kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
 kriegen verb class=weak pp=gekriegt perf=haben
 kritisieren verb class=weak pp=kritisiert perf=haben
+krönen verb class=weak pp=gekrönt perf=haben
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
 kürzen verb class=weak pp=gekürzt perf=haben

@@ -6,10 +6,12 @@ hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=habe
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
 hassen verb class=weak pp=gehasst perf=haben
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
+heften verb class=weak pp=geheftet perf=haben
 heilen verb class=weak pp=geheilt perf=haben|sein
 heiraten verb class=weak pp=geheiratet perf=haben
 heißen verb class=strong 3sg=heißt past=hieß pp=geheißen subj2=hieße perf=haben
 helfen       verb class=strong 3sg=hilft past=half pp=geholfen subj2=hülfe|hälfe[rare] perf=haben
+hemmen verb class=weak pp=gehemmt perf=haben
 heranziehen verb class=strong sep=heran 3sg=heranzieht past=heranzog pp=herangezogen subj2=heranzöge perf=haben
 herausgeben verb class=strong sep=heraus 3sg=herausgibt past=herausgab pp=herausgegeben subj2=herausgäbe perf=haben
 herauskommen verb class=strong sep=heraus 3sg=herauskommt past=herauskam pp=herausgekommen subj2=herauskäme perf=sein
@@ -36,4 +38,5 @@ hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
 horchen verb class=weak pp=gehorcht perf=haben
 hören verb class=weak pp=gehört perf=haben
+hüllen verb class=weak pp=gehüllt perf=haben
 hüten verb class=weak pp=gehütet perf=haben

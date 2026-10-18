@@ -1,10 +1,13 @@
 eben adv type=time note=eben erst, eben noch; the modal particle is in closed/particles.lex
 ebenda adv
+ebensowenig adv type=degree
 ehemals adv type=time
 eher adv
 eigens adv
 eigentlich adv
 einher adv
 einigermaßen adv
+einstweilen adv type=time
 empor adv type=direction
 erstmals adv type=time
+extra adv type=degree

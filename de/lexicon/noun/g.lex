@@ -1,37 +1,53 @@
 Gabe noun g=f gen=Gabe pl=Gaben
 Galerie noun g=f gen=Galerie pl=Galerien
+Galgen noun g=m gen=Galgens pl=Galgen
 Gang noun g=m gen=Ganges|Gangs pl=Gänge
+Gans noun g=f gen=Gans pl=Gänse
+Garantie noun g=f gen=Garantie pl=Garantien
+Garde noun g=f gen=Garde pl=Garden
+Garnison noun g=f gen=Garnison pl=Garnisonen
 Garten noun g=m gen=Gartens pl=Gärten
 Gärtner noun g=m gen=Gärtners pl=Gärtner
 Gas noun g=n gen=Gases pl=Gase
 Gasse noun g=f gen=Gasse pl=Gassen
 Gast noun g=m gen=Gastes|Gasts[rare] pl=Gäste
+Gastronomie noun g=f gen=Gastronomie pl=- note=no plural
 Gatte noun g=m gen=Gatten pl=Gatten
 Gattin noun g=f gen=Gattin pl=Gattinnen
 Gattung noun g=f gen=Gattung pl=Gattungen
+Gebärde noun g=f gen=Gebärde pl=Gebärden
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
 Geber noun g=m gen=Gebers pl=Geber
 Gebet noun g=n gen=Gebets|Gebetes pl=Gebete
 Gebiet noun g=n gen=Gebiets|Gebietes pl=Gebiete
+Gebilde noun g=n gen=Gebildes pl=Gebilde
 Gebirge noun g=n gen=Gebirges pl=Gebirge
 Gebot noun g=n gen=Gebotes|Gebots pl=Gebote
 Gebrauch noun g=m gen=Gebrauchs|Gebrauches[rare] pl=Gebräuche
+Gebrüder noun g=pl
 Gebühr noun g=f gen=Gebühr pl=Gebühren
 Geburt noun g=f gen=Geburt pl=Geburten
+Gebüsch noun g=n gen=Gebüsches|Gebüschs[rare] pl=Gebüsche
 Gedächtnis noun g=n gen=Gedächtnisses pl=Gedächtnisse
 Gedanke noun g=m gen=Gedankens pl=Gedanken
 Gedenken noun g=n gen=Gedenkens pl=- note=lexicalised nominal infinitive (zum Gedenken); mass noun
 Gedicht noun g=n gen=Gedichts|Gedichtes pl=Gedichte
+Gedränge noun g=n gen=Gedränges pl=- note=no plural
 Geduld noun g=f gen=Geduld pl=- note=mass noun
 Gefahr noun g=f gen=Gefahr pl=Gefahren
+Gefährder noun g=m gen=Gefährders pl=Gefährder
 Gefährdung noun g=f gen=Gefährdung pl=Gefährdungen
+Gefährte noun g=m gen=Gefährten pl=Gefährten
 Gefallen noun g=m gen=Gefallens pl=Gefallen sense=favor note=einen Gefallen tun
 Gefallen noun g=n gen=Gefallens pl=- sense=pleasure note=Gefallen finden an
 Gefallene noun g=m|f decl=adj note=fallen soldier
 Gefangene noun g=m|f decl=adj note=prisoner
 Gefangenschaft noun g=f gen=Gefangenschaft pl=- note=mass noun
 Gefängnis noun g=n gen=Gefängnisses pl=Gefängnisse
+Gefäß noun g=n gen=Gefäßes pl=Gefäße
 Gefecht noun g=n gen=Gefechts|Gefechtes pl=Gefechte
+Geflüchtete noun g=m|f decl=adj
+Geflügel noun g=n gen=Geflügels pl=- note=no plural
 Gefolge noun g=n gen=Gefolges pl=Gefolge
 Gefühl noun g=n gen=Gefühls|Gefühles[rare] pl=Gefühle
 Gegebenheit noun g=f gen=Gegebenheit pl=Gegebenheiten
@@ -39,13 +55,19 @@ Gegend noun g=f gen=Gegend pl=Gegenden
 Gegensatz noun g=m gen=Gegensatzes pl=Gegensätze
 Gegenstand noun g=m gen=Gegenstandes|Gegenstands pl=Gegenstände
 Gegenteil noun g=n gen=Gegenteils|Gegenteiles pl=Gegenteile
+Gegentheil noun g=n gen=Gegentheils|Gegentheiles pl=Gegentheile spelling=old style=archaic note=old spelling of Gegenteil
 Gegenwart noun g=f gen=Gegenwart pl=- note=no plural in use
 Gegner noun g=m gen=Gegners pl=Gegner
 Gehalt       noun g=n gen=Gehalts|Gehaltes pl=Gehälter sense=salary note=das Gehalt: pay
 Gehalt       noun g=m gen=Gehalts|Gehaltes pl=Gehalte sense=content note=der Gehalt: proportion, substance
+Gehäuse noun g=n gen=Gehäuses pl=Gehäuse
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
+Geheimniß noun g=n gen=Geheimnißes pl=Geheimnisse spelling=old style=archaic note=old spelling of Geheimnis
+Geheimrat noun g=m gen=Geheimrats|Geheimrates pl=Geheimräte
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehör noun g=n gen=Gehörs|Gehöres pl=- note=sense of hearing; mass noun
+Gehorsam noun g=m gen=Gehorsams pl=- note=no plural
+Geige noun g=f gen=Geige pl=Geigen
 Geiger noun g=m gen=Geigers pl=Geiger
 Geist noun g=m gen=Geistes|Geists[rare] pl=Geister
 Geistliche noun g=m|f decl=adj note=der Geistliche: clergyman

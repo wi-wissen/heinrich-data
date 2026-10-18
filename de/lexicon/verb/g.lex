@@ -1,11 +1,16 @@
 garantieren verb class=weak pp=garantiert perf=haben
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
-geben        verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe imp=gib|gieb[old],gebt perf=haben
+geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
+gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben
 gebrauchen verb class=weak pp=gebraucht perf=haben
+gebühren verb class=weak pp=gebührt perf=haben
+gedeihen verb class=strong 3sg=gedeiht past=gedieh pp=gediehen subj2=gediehe perf=sein
 gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte perf=haben note=mit Genitiv (gedenkt der Toten)
 gefährden verb class=weak pp=gefährdet perf=haben
 gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele perf=haben
-gehen        verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge perf=sein
+gegenüberliegen verb class=strong sep=gegenüber 3sg=gegenüberliegt past=gegenüberlag pp=gegenübergelegen subj2=gegenüberläge perf=haben|sein
+gehen verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge perf=sein
+gehorchen verb class=weak pp=gehorcht perf=haben
 gehören verb class=weak pp=gehört perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
 gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein
