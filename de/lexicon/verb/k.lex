@@ -31,8 +31,11 @@ konzipieren verb class=weak pp=konzipiert perf=haben
 koordinieren verb class=weak pp=koordiniert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
+kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
+kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
 kriegen verb class=weak pp=gekriegt perf=haben
 kritisieren verb class=weak pp=kritisiert perf=haben
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
 kürzen verb class=weak pp=gekürzt perf=haben
+küssen verb class=weak pp=geküsst perf=haben refl=acc

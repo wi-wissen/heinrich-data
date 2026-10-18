@@ -37,12 +37,17 @@ kostbar adj cmp=kostbarer sup=kostbarsten
 kostenlos adj
 kräftig adj cmp=kräftiger sup=kräftigsten
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
+kriegerisch adj
+kriminell adj
 kritisch adj cmp=kritischer sup=kritischsten
+kroatisch adj
 kühl adj cmp=kühler sup=kühlsten
+kühn adj cmp=kühner sup=kühnsten
 kulturell adj
 künftig adj
 künstlerisch adj
 künstlich adj cmp=künstlicher sup=künstlichsten
+kurdisch adj
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
 kurzzeitig adj

@@ -217,11 +217,16 @@ Kost noun g=f gen=Kost pl=- note=food; no plural
 Kosten noun g=pl note=die Kosten
 Kraft noun g=f gen=Kraft pl=Kräfte
 Kragen noun g=m gen=Kragens pl=Kragen|Krägen[rare]
+Krämer noun g=m gen=Krämers pl=Krämer
+Kran noun g=m gen=Krans|Kranes pl=Kräne|Krane
 Kranke noun g=m|f decl=adj
 Krankenhaus noun g=n gen=Krankenhauses pl=Krankenhäuser
 Krankenkasse noun g=f gen=Krankenkasse pl=Krankenkassen
 Krankenversicherung noun g=f gen=Krankenversicherung pl=Krankenversicherungen
 Krankheit noun g=f gen=Krankheit pl=Krankheiten
+Kranz noun g=m gen=Kranzes pl=Kränze
+Krater noun g=m gen=Kraters pl=Krater
+Kreativität noun g=f gen=Kreativität pl=- note=abstract noun
 Krebs noun g=m gen=Krebses pl=Krebse
 Kredit noun g=m gen=Kredits|Kredites pl=Kredite
 Kreis noun g=m gen=Kreises pl=Kreise
@@ -236,7 +241,11 @@ Kriterium noun g=n gen=Kriteriums pl=Kriterien
 Kritik noun g=f gen=Kritik pl=Kritiken
 Kritiker noun g=m gen=Kritikers pl=Kritiker
 Krone noun g=f gen=Krone pl=Kronen
+Krönung noun g=f gen=Krönung pl=Krönungen
+Krug noun g=m gen=Kruges|Krugs pl=Krüge
+Kubikmeter noun g=m|n gen=Kubikmeters pl=Kubikmeter
 Küche noun g=f gen=Küche pl=Küchen
+Kuchen noun g=m gen=Kuchens pl=Kuchen
 Kugel noun g=f gen=Kugel pl=Kugeln
 Kuh noun g=f gen=Kuh pl=Kühe
 Kuhle noun g=f gen=Kuhle pl=Kuhlen note=hollow, pit
@@ -244,14 +253,23 @@ Kultur noun g=f gen=Kultur pl=Kulturen
 Kummer noun g=m gen=Kummers pl=- note=no plural
 Kunde noun g=m gen=Kunden pl=Kunden
 Kündigung noun g=f gen=Kündigung pl=Kündigungen
+Kundin noun g=f gen=Kundin pl=Kundinnen
 Kunst noun g=f gen=Kunst pl=Künste
 Künstler noun g=m gen=Künstlers pl=Künstler
 Künstlerin noun g=f gen=Künstlerin pl=Künstlerinnen
 Kupfer noun g=n gen=Kupfers pl=- note=mass noun
+Kuppel noun g=f gen=Kuppel pl=Kuppeln
+Kur noun g=f gen=Kur pl=Kuren
+Kurator noun g=m gen=Kurators pl=Kuratoren
+Kuratorium noun g=n gen=Kuratoriums pl=Kuratorien
 Kurde noun g=m gen=Kurden pl=Kurden
 Kurfürst noun g=m gen=Kurfürsten pl=Kurfürsten
+Kurfürstentum noun g=n gen=Kurfürstentums pl=Kurfürstentümer
 Kurs noun g=m gen=Kurses pl=Kurse
+Kursivdruck noun g=m gen=Kursivdrucks|Kursivdruckes pl=- note=plural not used
+Kurve noun g=f gen=Kurve pl=Kurven
 Kürze noun g=f gen=Kürze pl=- note=no plural
+Kürzung noun g=f gen=Kürzung pl=Kürzungen
 Küste noun g=f gen=Küste pl=Küsten
 Kutscher noun g=m gen=Kutschers pl=Kutscher
 KZ noun g=n gen=KZ|KZs pl=KZ|KZs note=Konzentrationslager

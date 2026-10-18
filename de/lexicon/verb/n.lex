@@ -2,6 +2,8 @@ nachdenken verb class=mixed sep=nach 3sg=nachdenkt past=nachdachte pp=nachgedach
 nachkommen verb class=strong sep=nach 3sg=nachkommt past=nachkam pp=nachgekommen subj2=nachkäme perf=sein
 nachvollziehen verb class=strong sep=nach 3sg=nachvollzieht past=nachvollzog pp=nachvollzogen subj2=nachvollzöge perf=haben
 nachweisen verb class=strong sep=nach 3sg=nachweist past=nachwies pp=nachgewiesen subj2=nachwiese perf=haben
+nahen verb class=weak pp=genaht perf=sein
+nähen verb class=weak pp=genäht perf=haben
 nähern verb class=weak pp=genähert perf=haben refl=acc
 nehmen verb class=strong 3sg=nimmt past=nahm pp=genommen subj2=nähme perf=haben
 neigen verb class=weak pp=geneigt perf=haben refl=acc
