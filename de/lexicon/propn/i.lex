@@ -3,7 +3,7 @@ Indiana propn g=n gen=Indianas pl=- note=US state
 Indien propn g=n gen=Indiens pl=- note=proper name; no plural
 Inn propn g=m gen=Inn|Inns pl=- note=river
 Innsbruck propn g=n gen=Innsbrucks pl=- note=proper name; no plural
-Irak propn g=m sg=Irak,Irak|Iraks,Irak,Irak pl=- note=proper name; no plural
+Irak propn g=m gen=Irak|Iraks pl=- note=proper name; no plural
 Iran propn g=m gen=Iran|Irans pl=- note=proper name; no plural
 Irland propn g=n gen=Irlands pl=- note=proper name; no plural
 IS propn g=m gen=IS pl=- note=Islamischer Staat

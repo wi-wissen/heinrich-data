@@ -26,6 +26,7 @@ Reise noun g=f gen=Reise pl=Reisen
 Religion noun g=f gen=Religion pl=Religionen
 Rennen noun g=n gen=Rennens pl=Rennen note=lexicalised nominal infinitive (race)
 Rente noun g=f gen=Rente pl=Renten
+Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Republik noun g=f gen=Republik pl=Republiken
 Rest noun g=m gen=Restes|Rests pl=Reste
 Revolution noun g=f gen=Revolution pl=Revolutionen

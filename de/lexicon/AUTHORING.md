@@ -85,6 +85,11 @@ heinrich-lexicon dump de/lexicon Jahr    # all forms it generates
 - If the lemma exists and the form is a correct form it should generate, the entry is
   incomplete or wrong: fix it (a missing variant `gen=Tages|Tags`, a wrong plural). Do not
   add a second entry.
+- Format v3 (LEXICON_FORMAT §12) covers the common gaps: write a genitive without ending as
+  `gen=Euro|Euros` (not an `sg=` table); positional or attributive-only adjectives as
+  `adj attr_only sup=untersten`; weak verbs with variants as
+  `past=verwendete|verwandte pp=verwendet|verwandt`; second-person words in `closed/` carry
+  the flag `letter` for the capitalized letter spellings (`Euch`).
 - If the entry is right but the format cannot express the form, **report a generator gap**
   (lemma, form, what it is) instead of working around it.
 - If the form belongs to a different word with the same spelling (homograph: `Weg`/`weg`,

@@ -1,3 +1,4 @@
+passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
 pflanzen verb class=weak pp=gepflanzt perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben

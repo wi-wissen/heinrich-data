@@ -18,7 +18,7 @@ schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schri
 schreien verb class=strong 3sg=schreit past=schrie pp=geschrien subj2=schriee perf=haben
 schützen verb class=weak pp=geschützt perf=haben refl=acc
 sehen verb class=strong 3sg=sieht past=sah pp=gesehen subj2=sähe perf=haben refl=acc imp=sieh|siehe,seht note=siehe (siehe oben) is the long imperative
-senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben
+senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
 senken verb class=weak pp=gesenkt perf=haben refl=acc
 setzen verb class=weak pp=gesetzt perf=haben refl=acc
 sichern verb class=weak pp=gesichert perf=haben refl=acc

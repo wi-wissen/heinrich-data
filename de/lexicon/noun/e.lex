@@ -58,5 +58,5 @@ Erweiterung noun g=f gen=Erweiterung pl=Erweiterungen
 Erwerb noun g=m gen=Erwerbs|Erwerbes pl=Erwerbe note=plural rare
 Erzbischof noun g=m gen=Erzbischofs|Erzbischofes pl=Erzbischöfe
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
-Euro noun g=m sg=Euro,Euro|Euros,Euro,Euro pl=Euro|Euros note=des Euro; zehn Euro
+Euro noun g=m gen=Euro|Euros pl=Euro|Euros note=des Euro; zehn Euro
 Existenz noun g=f gen=Existenz pl=Existenzen

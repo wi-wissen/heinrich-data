@@ -7,7 +7,7 @@ individuell adj cmp=individueller sup=individuellsten
 industriell adj
 inhaltlich adj
 inländisch adj
-inner adj attr_only sup=innersten note=der innere Frieden; only attributive
+inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl; positional, no comparative
 innerlich adj
 innovativ adj cmp=innovativer sup=innovativsten
 intensiv adj cmp=intensiver sup=intensivsten
