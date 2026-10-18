@@ -289,6 +289,8 @@ umso         adv type=degree note=je … umso
 ungefähr     adv type=degree
 weitaus      adv type=degree
 ziemlich     adv type=degree
+zuviel       adv type=degree spelling=old note=old spelling of zu viel (zu viel Arbeit; before 1996 zuviel); a noun use is das Zuviel
+zuwenig      adv type=degree spelling=old note=old spelling of zu wenig (zu wenig Zeit); a noun use is das Zuwenig
 
 # ---------------------------------------------------------------- focus
 allein       adv type=focus note=also an adjective and a conjunction
@@ -334,3 +336,30 @@ irgendwie    adv type=manner
 umsonst      adv type=manner
 vergebens    adv type=manner
 zusammen     adv type=manner
+desgleichen  adv type=manner|conj note=likewise (er tat desgleichen; desgleichen gilt für …)
+
+# ---------------------------------------------------------------- personal pronoun + wegen/halben/willen
+# Genitive stem + -et- + postposition: meinetwegen (because of me; also: as far as I'm
+# concerned), um meinetwillen (for my sake), meinethalben (dated).
+meinetwegen  adv type=causal|modal note=because of me; also: as far as I am concerned (meinetwegen kannst du gehen)
+deinetwegen  adv type=causal
+seinetwegen  adv type=causal
+ihretwegen   adv type=causal
+unseretwegen adv type=causal
+unsertwegen  adv type=causal note=variant of unseretwegen
+euretwegen   adv type=causal
+meinetwillen adv type=causal note=um meinetwillen (for my sake)
+deinetwillen adv type=causal note=um deinetwillen
+seinetwillen adv type=causal note=um seinetwillen
+ihretwillen  adv type=causal note=um ihretwillen
+unseretwillen adv type=causal note=um unseretwillen
+unsertwillen adv type=causal note=variant of unseretwillen
+euretwillen  adv type=causal note=um euretwillen
+meinethalben adv type=causal|modal style=archaic note=dated for meinetwegen
+deinethalben adv type=causal style=archaic
+seinethalben adv type=causal style=archaic
+ihrethalben  adv type=causal style=archaic
+unserthalben adv type=causal style=archaic
+eurethalben  adv type=causal style=archaic
+derentwegen  adv type=causal|rel note=because of whom/which (die Frau, derentwegen er kam); also demonstrative
+dessentwegen adv type=causal|rel note=because of whom/which (der Mann, dessentwegen …)

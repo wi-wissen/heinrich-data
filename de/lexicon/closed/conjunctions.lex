@@ -32,6 +32,9 @@ doch         cconj comma=required type=adversative note=as a conjunction at the 
 jedoch       cconj comma=required type=adversative note=also a conjunctional adverb (adverbs.lex)
 allein       cconj comma=required type=adversative style=archaic note=elevated for aber (ich hoffte, allein es kam anders)
 denn         cconj comma=required type=causal note=main-clause word order; the particle denn is in particles.lex
+geschweige   cconj comma=required type=copulative pair=denn note=let alone, mostly geschweige denn after a negated or restricted clause (er kann kaum gehen, geschweige denn laufen)
+plus         cconj comma=no type=copulative note=arithmetic and colloquial and (zwei plus drei); the preposition plus is in prepositions.lex
+minus        cconj comma=no type=copulative note=arithmetic (fünf minus zwei); the preposition minus is in prepositions.lex
 
 # ---------------------------------------------------------------- subordinating
 als          sconj type=clause|cmp|inf|temporal note=als er kam (clause); größer als (cmp); als zu (inf)
@@ -75,6 +78,7 @@ während      sconj type=clause|temporal|adversative
 weil         sconj type=clause|causal
 wenn         sconj type=clause|conditional|temporal
 wenngleich   sconj type=clause|concessive
+wiewohl      sconj type=clause|concessive style=archaic note=elevated for obwohl (wiewohl er müde war, …)
 wie          sconj type=clause|cmp|modal|temporal note=so groß wie (cmp); wie er sagte (clause)
 wohingegen   sconj type=clause|adversative
 zumal        sconj type=clause|causal note=also an adverb

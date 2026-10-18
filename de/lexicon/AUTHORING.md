@@ -90,6 +90,14 @@ heinrich-lexicon dump de/lexicon Jahr    # all forms it generates
   `adj attr_only sup=untersten`; weak verbs with variants as
   `past=verwendete|verwandte pp=verwendet|verwandt`; second-person words in `closed/` carry
   the flag `letter` for the capitalized letter spellings (`Euch`).
+- Format 3.2 (LEXICON_FORMAT §13): adjectives used only predicatively (`quitt`, `gewahr`,
+  `pleite`) get `adj pred_only`; the `-er` adjective of a place name is written on the place
+  name, `Berlin propn … demonym=Berliner` (not as a separate `adj indecl` entry).
+- Compounds are analysed, not stored (§4.4). When a transparent compound is not accepted,
+  check its split with `heinrich-lexicon split de/lexicon <word>`; a wrong linking element of a
+  noun (`Hilfs-`, `Gemeinde-`, `Handels-`) is an engine table
+  (`Heinrich/crates/heinrich-de/data/compound_forms.tsv`), so report it instead of adding the
+  compound.
 - If the entry is right but the format cannot express the form, **report a generator gap**
   (lemma, form, what it is) instead of working around it.
 - If the form belongs to a different word with the same spelling (homograph: `Weg`/`weg`,

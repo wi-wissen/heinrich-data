@@ -47,3 +47,7 @@ solcher      det type=dem decl=dieser adj=weak|strong
              note=after solche (plural) both weak and strong adjectives occur (solche guten/gute Ideen)
 solcher      pron type=dem decl=dieser
 solch        det type=dem note=uninflected before ein or an adjective (solch ein Glück, solch schönes Wetter)
+dergleichen  det type=dem note=indeclinable, such (dergleichen Fragen)
+dergleichen  pron type=dem note=indeclinable, such things (und dergleichen mehr, nichts dergleichen)
+derlei       det type=dem note=indeclinable, such (derlei Geschichten)
+derlei       pron type=dem note=indeclinable (derlei habe ich nie gehört)

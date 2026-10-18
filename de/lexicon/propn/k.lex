@@ -9,7 +9,7 @@ Karibik propn g=f gen=Karibik pl=- note=die Karibik
 Karlsruhe propn g=n gen=Karlsruhes pl=- note=proper name; no plural
 Kärnten propn g=n gen=Kärntens pl=- note=proper name; no plural
 Kasachstan propn g=n gen=Kasachstans pl=- note=country
-Kassel propn g=n gen=Kassels pl=- note=proper name; no plural
+Kassel propn g=n gen=Kassels pl=- demonym=Kasseler note=proper name; no plural
 Kastilien propn g=n gen=Kastiliens pl=- note=region in Spain
 Katar propn g=n gen=Katars pl=- note=country
 Kempten propn g=n gen=Kemptens pl=- note=city in Bavaria
@@ -17,12 +17,12 @@ Kenia propn g=n gen=Kenias pl=- note=country
 Kent propn g=n gen=Kents pl=- note=English county
 Kentucky propn g=n gen=Kentuckys pl=- note=US state
 KfW propn g=f gen=KfW pl=- note=Kreditanstalt für Wiederaufbau
-Kiel propn g=n gen=Kiels pl=- note=proper name; no plural
+Kiel propn g=n gen=Kiels pl=- demonym=Kieler note=proper name; no plural
 Kiew propn g=n gen=Kiews pl=- note=proper name; no plural
 Klagenfurt propn g=n gen=Klagenfurts pl=- note=city in Carinthia
 Kleve propn g=n gen=Kleves pl=- note=city in North Rhine-Westphalia
 Koblenz propn g=n gen=Koblenz pl=- note=proper name; no plural
-Köln propn g=n gen=Kölns pl=- note=proper name; no plural
+Köln propn g=n gen=Kölns pl=- demonym=Kölner note=proper name; no plural
 Kolumbien propn g=n gen=Kolumbiens pl=- note=proper name; no plural
 Kongo propn g=m gen=Kongo|Kongos pl=- note=der Kongo (river, country)
 Königsberg propn g=n gen=Königsbergs pl=- note=proper name; no plural

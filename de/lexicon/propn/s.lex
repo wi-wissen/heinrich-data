@@ -5,7 +5,7 @@ Saarland propn g=n gen=Saarlands|Saarlandes pl=- note=proper name, no plural
 Sachsen propn g=n gen=Sachsens pl=- note=proper name, no plural
 Sachsen-Anhalt propn g=n gen=Sachsen-Anhalts pl=- note=federal state
 Sahara propn g=f gen=Sahara pl=- note=desert
-Salzburg propn g=n gen=Salzburgs pl=- note=proper name, no plural
+Salzburg propn g=n gen=Salzburgs pl=- demonym=Salzburger note=proper name, no plural
 Santiago propn g=n gen=Santiagos pl=- note=proper name, no plural
 Sardinien propn g=n gen=Sardiniens pl=- note=proper name, no plural
 Saudi-Arabien propn g=n gen=Saudi-Arabiens pl=- note=proper name, no plural
@@ -17,7 +17,7 @@ Schottland propn g=n gen=Schottlands pl=- note=proper name, no plural
 Schwaben propn g=n gen=Schwabens pl=- note=region; proper name, no plural
 Schweden propn g=n gen=Schwedens pl=- note=proper name, no plural
 Schweinfurt propn g=n gen=Schweinfurts pl=- note=city
-Schweiz propn g=f gen=Schweiz pl=- note=proper name, no plural
+Schweiz propn g=f gen=Schweiz pl=- demonym=Schweizer note=proper name, no plural
 Schwerin propn g=n gen=Schwerins pl=- note=proper name, no plural
 SED propn g=f gen=SED pl=- note=Sozialistische Einheitspartei Deutschlands
 Senegal propn g=m gen=Senegal|Senegals pl=- note=country
@@ -51,7 +51,7 @@ Stockholm propn g=n gen=Stockholms pl=- note=proper name, no plural
 StPO propn g=f gen=StPO pl=- note=Strafprozessordnung
 Stralsund propn g=n gen=Stralsunds pl=- note=city
 Straßburg propn g=n gen=Straßburgs pl=- note=proper name, no plural
-Stuttgart propn g=n gen=Stuttgarts pl=- note=proper name, no plural
+Stuttgart propn g=n gen=Stuttgarts pl=- demonym=Stuttgarter note=proper name, no plural
 Südafrika propn g=n gen=Südafrikas pl=- note=proper name, no plural
 Südamerika propn g=n gen=Südamerikas pl=- note=proper name, no plural
 Sudan propn g=m gen=Sudan|Sudans pl=- note=country; der Sudan

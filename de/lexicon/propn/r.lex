@@ -6,7 +6,7 @@ Rheinland propn g=n gen=Rheinlands pl=- note=proper name, no plural
 Rheinland-Pfalz propn g=n gen=Rheinland-Pfalz pl=- note=federal state
 Riga propn g=n gen=Rigas pl=- note=city
 Rom propn g=n gen=Roms pl=- sense=city note=proper name, no plural
-Rostock propn g=n gen=Rostocks pl=- note=proper name, no plural
+Rostock propn g=n gen=Rostocks pl=- demonym=Rostocker note=proper name, no plural
 Rotterdam propn g=n gen=Rotterdams pl=- note=city
 Ruanda propn g=n gen=Ruandas pl=- note=country
 Rügen propn g=n gen=Rügens pl=- note=island

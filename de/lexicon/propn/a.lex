@@ -1,4 +1,4 @@
-Aachen        propn g=n gen=Aachens pl=- note=proper name; no plural
+Aachen        propn g=n gen=Aachens pl=- demonym=Aachener note=proper name; no plural
 Aargau propn g=m gen=Aargaus pl=- note=Swiss canton (der Aargau)
 Adelaide propn g=n gen=Adelaides pl=- conf=80 note=city in Australia; gender uncertain
 AfD           propn g=f gen=AfD pl=- note=proper name; no plural
@@ -36,6 +36,6 @@ Athen propn g=n gen=Athens pl=- note=proper name; no plural
 Äthiopien propn g=n gen=Äthiopiens pl=- note=proper name; no plural
 Atlanta propn g=n gen=Atlantas pl=- conf=80 note=city; gender uncertain
 Atlantik propn g=m gen=Atlantiks pl=- note=proper name; no plural
-Augsburg      propn g=n gen=Augsburgs pl=- note=proper name; no plural
+Augsburg      propn g=n gen=Augsburgs pl=- demonym=Augsburger note=proper name; no plural
 Auschwitz propn g=n gen=Auschwitz pl=- note=proper name; no plural
 Australien    propn g=n gen=Australiens pl=- note=proper name; no plural

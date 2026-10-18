@@ -12,9 +12,9 @@ Dessau propn g=n gen=Dessaus pl=- note=city; no plural
 Detroit propn g=n gen=Detroits pl=- note=US city; no plural
 Deutschland   propn g=n gen=Deutschlands pl=- note=proper name; no plural
 Donau propn g=f gen=Donau pl=- note=proper name; no plural
-Dortmund propn g=n gen=Dortmunds pl=- note=proper name; no plural
-Dresden       propn g=n gen=Dresdens pl=- note=proper name; no plural
+Dortmund propn g=n gen=Dortmunds pl=- demonym=Dortmunder note=proper name; no plural
+Dresden       propn g=n gen=Dresdens pl=- demonym=Dresdner|Dresdener[rare] note=proper name; no plural
 Dublin propn g=n gen=Dublins pl=- note=proper name; no plural
-Duisburg propn g=n gen=Duisburgs pl=- note=proper name; no plural
+Duisburg propn g=n gen=Duisburgs pl=- demonym=Duisburger note=proper name; no plural
 Düren propn g=n gen=Dürens pl=- note=city; no plural
-Düsseldorf    propn g=n gen=Düsseldorfs pl=- note=proper name; no plural
+Düsseldorf    propn g=n gen=Düsseldorfs pl=- demonym=Düsseldorfer note=proper name; no plural

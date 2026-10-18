@@ -1,11 +1,11 @@
 Maas propn g=f gen=Maas pl=- note=die Maas
 Madagaskar propn g=n gen=Madagaskars pl=- note=proper name; no plural
 Madrid propn g=n gen=Madrids pl=- note=proper name; no plural
-Magdeburg propn g=n gen=Magdeburgs pl=- note=proper name; no plural
+Magdeburg propn g=n gen=Magdeburgs pl=- demonym=Magdeburger note=proper name; no plural
 Mähren propn g=n gen=Mährens pl=- note=proper name; no plural
 Mailand propn g=n gen=Mailands pl=- note=proper name; no plural
 Main propn g=m gen=Mains|Main pl=- note=proper name; no plural
-Mainz propn g=n sg=Mainz,Mainz|Mainz',Mainz,Mainz pl=- note=proper name; no plural
+Mainz propn g=n sg=Mainz,Mainz|Mainz',Mainz,Mainz pl=- demonym=Mainzer note=proper name; no plural
 Malaysia propn g=n gen=Malaysias pl=- note=proper name; no plural
 Mali propn g=n gen=Malis pl=- note=proper name; no plural
 Malta propn g=n gen=Maltas pl=- note=proper name; no plural
@@ -44,6 +44,6 @@ Mongolei propn g=f gen=Mongolei pl=- note=die Mongolei
 Montenegro propn g=n gen=Montenegros pl=- note=proper name; no plural
 Montreal propn g=n gen=Montreals pl=- note=proper name; no plural
 Moskau propn g=n gen=Moskaus pl=- note=proper name; no plural
-München propn g=n gen=Münchens pl=- note=proper name; no plural
-Münster propn g=n gen=Münsters pl=- note=proper name; no plural
+München propn g=n gen=Münchens pl=- demonym=Münchner|Münchener[rare] note=proper name; no plural
+Münster propn g=n gen=Münsters pl=- demonym=Münsteraner note=proper name; no plural
 Myanmar propn g=n gen=Myanmars pl=- note=proper name; no plural

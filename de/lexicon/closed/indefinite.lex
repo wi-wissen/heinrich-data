@@ -42,6 +42,7 @@ all          det type=tot decl=dieser stem=all adj=weak
              note=all die Leute: see sense=bare
 all          det type=tot sense=bare note=uninflected before another determiner (all die Jahre, all das)
 all          pron type=tot decl=dieser stem=all note=alles, alle (alle sind da, alles ist gut)
+alledem      pron type=tot sg=-,-,alledem,- note=fused all + dem, only after a dative preposition (trotz alledem, bei alledem, von alledem)
 beide        det type=tot adj=weak|strong pl=beide,beider,beiden,beide
 beide        pron type=tot pl=beide,beider,beiden,beide n=beides,beides,beidem,beides
 sämtlicher   det type=tot decl=dieser adj=weak|strong note=mostly plural (sämtliche Bücher)
@@ -68,6 +69,8 @@ manch        det type=ind note=uninflected before ein or an adjective (manch ein
 paar         det type=ind note=ein paar (a few); das Paar (a pair) is a noun
 bisschen     det type=ind note=ein bisschen (a little)
 bißchen      det type=ind spelling=old note=old spelling of bisschen
+allerhand    det type=ind note=indeclinable, all kinds of (allerhand Ärger); colloquially also predicative (das ist allerhand)
+allerhand    pron type=ind note=indeclinable (er weiß allerhand)
 allerlei     det type=ind
 mancherlei   det type=ind
 vielerlei    det type=ind

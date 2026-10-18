@@ -12,9 +12,9 @@ sein         det type=poss person=3 decl=ein note=possessor masculine or neuter
 ihr          det type=poss person=3 decl=ein note=possessor feminine or plural
 Ihr          det type=poss person=3 polite decl=ein note=polite address (Ihr Buch)
 unser        det type=poss person=1 adj=mixed
-             m=unser,unseres|unsres[rare],unserem|unsrem[rare]|unserm[rare],unseren|unsren[rare]|unsern[rare]
+             m=unser,unseres|unsres[rare]|unsers[old],unserem|unsrem[rare]|unserm[rare],unseren|unsren[rare]|unsern[rare]
              f=unsere|unsre[rare],unserer|unsrer[rare],unserer|unsrer[rare],unsere|unsre[rare]
-             n=unser,unseres|unsres[rare],unserem|unsrem[rare]|unserm[rare],unser
+             n=unser,unseres|unsres[rare]|unsers[old],unserem|unsrem[rare]|unserm[rare],unser
              pl=unsere|unsre[rare],unserer|unsrer[rare],unseren|unsren[rare]|unsern[rare],unsere|unsre[rare]
 euer         det type=poss person=2 letter adj=mixed
              m=euer,eures|eueres[rare],eurem|euerem[rare],euren|eueren[rare]

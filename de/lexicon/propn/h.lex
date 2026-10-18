@@ -4,7 +4,7 @@ Haiti propn g=n gen=Haitis pl=- note=country
 Halberstadt propn g=n gen=Halberstadts pl=- note=city in Saxony-Anhalt
 Halle propn g=n gen=Halles pl=- sense=city note=Halle (Saale)
 Hamas propn g=f gen=Hamas pl=- note=organisation; die Hamas
-Hamburg propn g=n gen=Hamburgs pl=- note=proper name; no plural
+Hamburg propn g=n gen=Hamburgs pl=- demonym=Hamburger note=proper name; no plural
 Hamm propn g=n gen=Hamms pl=- note=city in North Rhine-Westphalia
 Hampshire propn g=n gen=Hampshires pl=- note=English county
 Hanau propn g=n gen=Hanaus pl=- note=proper name; no plural
@@ -13,7 +13,7 @@ Harz propn g=m gen=Harzes|Harz pl=- sense=mountains note=der Harz
 Havel propn g=f gen=Havel pl=- note=river
 Havelland propn g=n gen=Havellands pl=- note=region in Brandenburg
 Hawaii propn g=n gen=Hawaiis pl=- note=US state
-Heidelberg propn g=n gen=Heidelbergs pl=- note=proper name; no plural
+Heidelberg propn g=n gen=Heidelbergs pl=- demonym=Heidelberger note=proper name; no plural
 Heilbronn propn g=n gen=Heilbronns pl=- note=proper name; no plural
 Helsinki propn g=n gen=Helsinkis pl=- note=proper name; no plural
 Herzegowina propn g=f gen=Herzegowina pl=- note=region; Bosnien und Herzegowina

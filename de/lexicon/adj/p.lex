@@ -14,6 +14,7 @@ pharmazeutisch adj
 philosophisch adj
 physikalisch adj
 physisch adj
+pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
 poetisch adj cmp=poetischer sup=poetischsten
 politisch adj

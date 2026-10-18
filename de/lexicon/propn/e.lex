@@ -8,7 +8,7 @@ Ellwangen propn g=n gen=Ellwangens pl=- note=city; no plural
 Elsass propn g=n gen=Elsass pl=- note=region, des Elsass; no plural
 Emmendingen propn g=n gen=Emmendingens pl=- note=proper name; no plural
 England propn g=n gen=Englands pl=- note=place name; no plural
-Erfurt propn g=n gen=Erfurts pl=- note=place name; no plural
+Erfurt propn g=n gen=Erfurts pl=- demonym=Erfurter note=place name; no plural
 Eritrea propn g=n gen=Eritreas pl=- note=country; no plural
 Erlangen propn g=n gen=Erlangens pl=- note=proper name; no plural
 Erzgebirge propn g=n gen=Erzgebirges pl=- note=mountain range; no plural

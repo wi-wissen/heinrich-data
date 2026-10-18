@@ -10,7 +10,7 @@ BAMF propn g=n gen=BAMF|BAMFs pl=- note=Bundesamt für Migration und Flüchtling
 Bangkok propn g=n gen=Bangkoks pl=- note=proper name; no plural
 Bangladesch propn g=n gen=Bangladeschs pl=- note=proper name; no plural
 Barcelona propn g=n gen=Barcelonas pl=- note=proper name; no plural
-Basel         propn g=n gen=Basels pl=- note=proper name; no plural
+Basel         propn g=n gen=Basels pl=- demonym=Basler note=proper name; no plural
 Bautzen propn g=n gen=Bautzens pl=- note=proper name; no plural
 Bayern        propn g=n gen=Bayerns pl=- note=proper name; no plural
 Bayreuth propn g=n gen=Bayreuths pl=- note=proper name; no plural
@@ -20,22 +20,22 @@ Belarus propn g=n gen=Belarus pl=- note=proper name; no plural
 Belgien       propn g=n gen=Belgiens pl=- note=proper name; no plural
 Belgrad propn g=n gen=Belgrads pl=- note=proper name; no plural
 Berchtesgaden propn g=n gen=Berchtesgadens pl=- note=proper name; no plural
-Berlin        propn g=n gen=Berlins pl=- note=proper name; no plural
-Bern propn g=n gen=Berns pl=- note=proper name; no plural
+Berlin        propn g=n gen=Berlins pl=- demonym=Berliner note=proper name; no plural
+Bern propn g=n gen=Berns pl=- demonym=Berner note=proper name; no plural
 BGB propn g=n gen=BGB|BGBs pl=- note=Bürgerliches Gesetzbuch (das BGB)
-Bielefeld propn g=n gen=Bielefelds pl=- note=proper name; no plural
+Bielefeld propn g=n gen=Bielefelds pl=- demonym=Bielefelder note=proper name; no plural
 Birmingham propn g=n gen=Birminghams pl=- note=proper name; no plural
 BKA propn g=n gen=BKA|BKAs pl=- note=Bundeskriminalamt (das BKA)
 BMBF propn g=n gen=BMBF|BMBFs pl=- note=Bundesministerium für Bildung und Forschung (das BMBF)
 BMI propn g=n gen=BMI|BMIs pl=- note=Bundesministerium des Innern (das BMI)
 BMZ propn g=n gen=BMZ|BMZs pl=- note=Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (das BMZ)
 BND propn g=m gen=BND pl=- note=Bundesnachrichtendienst (der BND)
-Bochum propn g=n gen=Bochums pl=- note=proper name; no plural
+Bochum propn g=n gen=Bochums pl=- demonym=Bochumer note=proper name; no plural
 Bodensee propn g=m gen=Bodensees pl=- note=proper name; no plural
 Böhmen propn g=n gen=Böhmens pl=- note=proper name; no plural
 Bolivien propn g=n gen=Boliviens pl=- note=proper name; no plural
 Bologna propn g=n gen=Bolognas pl=- note=proper name; no plural
-Bonn          propn g=n gen=Bonns pl=- note=proper name; no plural
+Bonn          propn g=n gen=Bonns pl=- demonym=Bonner note=proper name; no plural
 Bordeaux propn g=n gen=Bordeaux pl=- note=proper name; no plural
 Borussia propn g=f gen=Borussia pl=- note=Latin name of Prussia; club names
 Bosnien propn g=n gen=Bosniens pl=- note=proper name; no plural
@@ -47,7 +47,7 @@ Brasilien     propn g=n gen=Brasiliens pl=- note=proper name; no plural
 Bratislava propn g=n gen=Bratislavas pl=- note=proper name; no plural
 Braunschweig  propn g=n gen=Braunschweigs pl=- note=proper name; no plural
 Breisgau propn g=m gen=Breisgaus pl=- note=proper name; no plural
-Bremen        propn g=n gen=Bremens pl=- note=proper name; no plural
+Bremen        propn g=n gen=Bremens pl=- demonym=Bremer note=proper name; no plural
 Bremerhaven propn g=n gen=Bremerhavens pl=- note=proper name; no plural
 Breslau propn g=n gen=Breslaus pl=- note=proper name; no plural
 Bretagne propn g=f gen=Bretagne pl=- note=proper name; no plural
