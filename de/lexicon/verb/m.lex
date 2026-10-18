@@ -19,7 +19,7 @@ melden verb class=weak pp=gemeldet perf=haben refl=acc
 melken verb class=weak past=melkte pp=gemolken|gemelkt perf=haben
 merken verb class=weak pp=gemerkt perf=haben refl=dat
 messen verb class=strong 3sg=misst past=maß pp=gemessen subj2=mäße perf=haben refl=acc
-miauen verb class=weak pp=gemiaut perf=haben
+miauen verb class=weak pp=miaut perf=haben note=Partizip II without ge- (stress on the second syllable)
 mieten verb class=weak pp=gemietet perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
 mischen verb class=weak pp=gemischt perf=haben refl=acc

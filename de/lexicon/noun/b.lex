@@ -95,7 +95,7 @@ Beendigung    noun g=f gen=Beendigung pl=- note=no plural
 Beerdigung noun g=f gen=Beerdigung pl=Beerdigungen
 Beere noun g=f gen=Beere pl=Beeren
 Beerenstrauch noun g=m gen=Beerenstrauchs pl=Beerensträucher
-Beet noun g=n gen=Beet|Beetes pl=Beete
+Beet noun g=n gen=Beetes|Beets pl=Beete
 Befähigung noun g=f gen=Befähigung pl=Befähigungen
 Befehl        noun g=m gen=Befehls|Befehles pl=Befehle
 Befehlshaber noun g=m gen=Befehlshabers pl=Befehlshaber
