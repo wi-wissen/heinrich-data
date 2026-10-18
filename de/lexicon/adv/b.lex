@@ -1,3 +1,4 @@
+barfuß adv type=manner
 bedeutend adv note=degree adverb (bedeutend besser)
 beinah adv type=degree
 beisammen adv

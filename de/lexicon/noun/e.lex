@@ -20,6 +20,7 @@ Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
 Ehrlichkeit noun g=f gen=Ehrlichkeit pl=- note=no plural
 Ei noun g=n gen=Eis|Eies pl=Eier
 Eiche noun g=f gen=Eiche pl=Eichen
+Eichhörnchen noun g=n gen=Eichhörnchens pl=Eichhörnchen
 Eid noun g=m gen=Eides|Eids pl=Eide
 Eifer noun g=m gen=Eifers pl=- note=no plural
 Eifersucht noun g=f gen=Eifersucht pl=- note=no plural
@@ -28,6 +29,7 @@ Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly 
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eile noun g=f gen=Eile pl=- note=no plural
+Eimer noun g=m gen=Eimers pl=Eimer
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
 Einbeziehung noun g=f gen=Einbeziehung pl=- note=no plural
 Einbildungskraft noun g=f gen=Einbildungskraft pl=- note=no plural
@@ -114,12 +116,16 @@ Ekel noun g=m gen=Ekels pl=- sense=disgust note=no plural
 Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Elektrifizierung noun g=f gen=Elektrifizierung pl=- note=no plural
+Elektriker noun g=m gen=Elektrikers pl=Elektriker
+Elektrikerin noun g=f gen=Elektrikerin pl=Elektrikerinnen
 Elektrizität noun g=f gen=Elektrizität pl=- note=no plural
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
 Elektrotechnik noun g=f gen=Elektrotechnik pl=- note=no plural
 Element noun g=n gen=Elements|Elementes pl=Elemente
 Elend noun g=n gen=Elends pl=- note=no plural
 Elite noun g=f gen=Elite pl=Eliten
+Ellbogen noun g=m gen=Ellbogens pl=Ellbogen
+Ellenbogen noun g=m gen=Ellenbogens pl=Ellenbogen
 Eltern       noun g=pl
 Elternteil noun g=m gen=Elternteils|Elternteiles pl=Elternteile
 EM noun g=f gen=EM pl=- note=Europameisterschaft; no plural
@@ -146,6 +152,7 @@ Enkelin noun g=f gen=Enkelin pl=Enkelinnen
 Ensemble noun g=n gen=Ensembles pl=Ensembles
 Entdecker noun g=m gen=Entdeckers pl=Entdecker
 Entdeckung noun g=f gen=Entdeckung pl=Entdeckungen
+Ente noun g=f gen=Ente pl=Enten
 Enteignung noun g=f gen=Enteignung pl=Enteignungen
 Entertainment noun g=n gen=Entertainments pl=- conf=85 note=loanword; no plural
 Entfernung noun g=f gen=Entfernung pl=Entfernungen
@@ -181,6 +188,7 @@ Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
 Erbe noun g=m gen=Erben pl=Erben sense=heir note=der Erbe
 Erbe noun g=n gen=Erbes pl=- sense=inheritance note=das Erbe
+Erbrechen noun g=n gen=Erbrechens pl=- note=mass noun
 Erbringung noun g=f gen=Erbringung pl=- note=no plural
 Erbschaft noun g=f gen=Erbschaft pl=Erbschaften
 Erdbeben noun g=n gen=Erdbebens pl=Erdbeben
@@ -203,6 +211,7 @@ Erhebung noun g=f gen=Erhebung pl=Erhebungen
 Erhöhung noun g=f gen=Erhöhung pl=Erhöhungen
 Erholung noun g=f gen=Erholung pl=- note=no plural
 Erinnerung noun g=f gen=Erinnerung pl=Erinnerungen
+Erkältung noun g=f gen=Erkältung pl=Erkältungen
 Erkenntnis noun g=f gen=Erkenntnis pl=Erkenntnisse
 Erkenntniß noun g=f gen=Erkenntniß pl=Erkenntnisse spelling=old style=archaic note=old spelling of Erkenntnis
 Erklärung noun g=f gen=Erklärung pl=Erklärungen
@@ -266,16 +275,19 @@ Erzeugnis noun g=n gen=Erzeugnisses pl=Erzeugnisse
 Erzeugung noun g=f gen=Erzeugung pl=- note=no plural
 Erzherzog noun g=m gen=Erzherzogs|Erzherzoges pl=Erzherzöge
 Erzieher noun g=m gen=Erziehers pl=Erzieher
+Erzieherin noun g=f gen=Erzieherin pl=Erzieherinnen
 Erziehung noun g=f gen=Erziehung pl=- note=no plural
 Erzstift noun g=n gen=Erzstifts|Erzstiftes pl=Erzstifte
 Esel noun g=m gen=Esels pl=Esel
 Eskalation noun g=f gen=Eskalation pl=Eskalationen
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
 Etablierung noun g=f gen=Etablierung pl=- note=no plural
+Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
 Etappe noun g=f gen=Etappe pl=Etappen
 Etat noun g=m gen=Etats pl=Etats
 Ethik noun g=f gen=Ethik pl=- note=no plural
 Ethnie noun g=f gen=Ethnie pl=Ethnien
+Eule noun g=f gen=Eule pl=Eulen
 Euro noun g=m gen=Euro|Euros pl=Euro|Euros note=des Euro; zehn Euro
 Europäer noun g=m gen=Europäers pl=Europäer
 Europameister noun g=m gen=Europameisters pl=Europameister

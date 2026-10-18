@@ -2,6 +2,9 @@ Zahl noun g=f gen=Zahl pl=Zahlen
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
 Zahn noun g=m gen=Zahns|Zahnes pl=Zähne
+Zahnpasta noun g=f gen=Zahnpasta pl=Zahnpasten
+Zahnspange noun g=f gen=Zahnspange pl=Zahnspangen
+Zange noun g=f gen=Zange pl=Zangen
 Zar noun g=m gen=Zaren pl=Zaren
 Zärtlichkeit noun g=f gen=Zärtlichkeit pl=Zärtlichkeiten
 Zauber noun g=m gen=Zaubers pl=Zauber
@@ -9,6 +12,7 @@ Zauberer noun g=m gen=Zauberers pl=Zauberer
 Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
 ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
 Zeche noun g=f gen=Zeche pl=Zechen
+Zecke noun g=f gen=Zecke pl=Zecken
 Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zeichen noun g=n gen=Zeichens pl=Zeichen
@@ -19,6 +23,7 @@ Zeit noun g=f gen=Zeit pl=Zeiten
 Zeitgenosse noun g=m gen=Zeitgenossen pl=Zeitgenossen
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
 Zeitung noun g=f gen=Zeitung pl=Zeitungen
+Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
 Zensur noun g=f gen=Zensur pl=Zensuren
@@ -36,6 +41,7 @@ Zeug noun g=n gen=Zeugs|Zeuges pl=- note=no plural
 Zeuge noun g=m gen=Zeugen pl=Zeugen
 Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
 Ziege noun g=f gen=Ziege pl=Ziegen
+Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
 Ziffer noun g=f gen=Ziffer pl=Ziffern
@@ -56,10 +62,13 @@ Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zone noun g=f gen=Zone pl=Zonen
 Zoo noun g=m gen=Zoos pl=Zoos
 Zoologe noun g=m gen=Zoologen pl=Zoologen
+Zopf noun g=m gen=Zopfes|Zopfs pl=Zöpfe
 Zorn noun g=m gen=Zorns|Zornes pl=- note=no plural
 Zubehör noun g=n gen=Zubehörs|Zubehöres pl=Zubehöre
 Zubereitung noun g=f gen=Zubereitung pl=Zubereitungen
 Zucht noun g=f gen=Zucht pl=Zuchten
+Züchter noun g=m gen=Züchters pl=Züchter
+Züchterin noun g=f gen=Züchterin pl=Züchterinnen
 Zucker noun g=m gen=Zuckers pl=Zucker
 Zuflucht noun g=f gen=Zuflucht pl=- note=no plural
 Zufluss noun g=m gen=Zuflusses pl=Zuflüsse
@@ -121,5 +130,6 @@ Zweig noun g=m gen=Zweigs|Zweiges pl=Zweige
 Zweitligist noun g=m gen=Zweitligisten pl=Zweitligisten
 Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder

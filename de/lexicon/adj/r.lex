@@ -1,5 +1,8 @@
+rachsüchtig adj cmp=rachsüchtiger sup=rachsüchtigsten
 radikal adj cmp=radikaler sup=radikalsten
 rasch adj cmp=rascher sup=raschesten
+rätselhaft adj cmp=rätselhafter sup=rätselhaftesten
+rau adj cmp=rauer sup=rauesten|raustesten
 räumlich adj
 real adj cmp=realer sup=realsten
 realistisch adj cmp=realistischer sup=realistischsten
@@ -36,8 +39,10 @@ romantisch adj cmp=romantischer sup=romantischsten
 römisch adj
 rosa         adj indecl
 rot adj cmp=röter|roter sup=rötesten|rotesten
+rothaarig adj
 rückgängig adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj
 rund adj cmp=runder sup=rundesten
 russisch adj
+rüstig adj cmp=rüstiger sup=rüstigsten

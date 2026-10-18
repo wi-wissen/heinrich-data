@@ -1,17 +1,22 @@
+haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 halb         adj note=not compared; ein halber Liter
 harmlos adj cmp=harmloser sup=harmlosesten
 hart adj cmp=härter sup=härtesten
 hartnäckig adj cmp=hartnäckiger sup=hartnäckigsten
+hässlich adj cmp=hässlicher sup=hässlichsten
 hastig adj cmp=hastiger sup=hastigsten
 häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
 häuslich adj cmp=häuslicher sup=häuslichsten
 heftig adj cmp=heftiger sup=heftigsten
+heil adj
 heilig adj cmp=heiliger sup=heiligsten
 heimisch adj
 heimlich adj cmp=heimlicher sup=heimlichsten
+heimtückisch adj cmp=heimtückischer sup=heimtückischsten
 heiß adj cmp=heißer sup=heißesten
+heiser adj cmp=heiserer sup=heisersten
 heiter adj cmp=heiterer sup=heitersten
 hell adj cmp=heller sup=hellsten
 herkömmlich adj
@@ -25,6 +30,7 @@ hilfreich adj cmp=hilfreicher sup=hilfreichsten
 himmlisch adj cmp=himmlischer sup=himmlischsten
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
+hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
 historisch adj
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
@@ -35,3 +41,4 @@ hölzern adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 humanitär adj
+hungrig adj cmp=hungriger sup=hungrigsten

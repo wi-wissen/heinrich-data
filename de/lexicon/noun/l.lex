@@ -1,6 +1,7 @@
 Label noun g=n gen=Labels pl=Labels
 Labor noun g=n gen=Labors pl=Labore|Labors
 Lächeln noun g=n gen=Lächelns pl=- note=nominalised infinitive with own sense; plural not used
+Lack noun g=m gen=Lacks|Lackes pl=Lacke
 Laden noun g=m gen=Ladens pl=Läden
 Ladung noun g=f gen=Ladung pl=Ladungen
 Lady noun g=f gen=Lady pl=Ladys|Ladies
@@ -8,8 +9,10 @@ Lage noun g=f gen=Lage pl=Lagen
 Lager noun g=n gen=Lagers pl=Lager|Läger[rare]
 Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Laie noun g=m gen=Laien pl=Laien
+Laken noun g=n gen=Lakens pl=Laken
 Lama noun g=n gen=Lamas pl=Lamas sense=animal
 Lama noun g=m gen=Lamas pl=Lamas sense=monk note=Tibetan Buddhist teacher
+Laminat noun g=n gen=Laminats|Laminates pl=Laminate
 Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
 Lampe noun g=f gen=Lampe pl=Lampen
 Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
@@ -21,7 +24,10 @@ Landwirtschaft noun g=f gen=Landwirtschaft pl=Landwirtschaften
 Länge noun g=f gen=Länge pl=Längen
 Langeweile noun g=f gen=Langeweile pl=- note=abstract noun
 Langläufer noun g=m gen=Langläufers pl=Langläufer
+Langschläfer noun g=m gen=Langschläfers pl=Langschläfer
 Lanze noun g=f gen=Lanze pl=Lanzen
+Lappen noun g=m gen=Lappens pl=Lappen
+Laptop noun g=m gen=Laptops pl=Laptops
 Lärm noun g=m gen=Lärms|Lärmes pl=- note=no plural
 Larve noun g=f gen=Larve pl=Larven
 Last noun g=f gen=Last pl=Lasten
@@ -29,10 +35,14 @@ Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
 Latein noun g=n gen=Lateins pl=- note=the language
 Laterne noun g=f gen=Laterne pl=Laternen
+Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
+Latz noun g=m gen=Latzes pl=Lätze
+Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
 Lauf noun g=m gen=Laufes|Laufs pl=Läufe
 Läufer noun g=m gen=Läufers pl=Läufer
 Laune noun g=f gen=Laune pl=Launen
+Laus noun g=f gen=Laus pl=Läuse
 Leben noun g=n gen=Lebens pl=Leben
 Lebensbedingung noun g=f gen=Lebensbedingung pl=Lebensbedingungen note=compound not split by the analyser
 Lebensdauer noun g=f gen=Lebensdauer pl=- note=compound not split by the analyser; plural not used
@@ -48,8 +58,10 @@ Lebensweise noun g=f gen=Lebensweise pl=Lebensweisen
 Lebenswerk noun g=n gen=Lebenswerks|Lebenswerkes pl=Lebenswerke note=compound not split by the analyser
 Lebenszeit noun g=f gen=Lebenszeit pl=Lebenszeiten
 Leber noun g=f gen=Leber pl=Lebern
+Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
 Legende noun g=f gen=Legende pl=Legenden
+Leggings noun g=f gen=Leggings pl=Leggings
 Legion noun g=f gen=Legion pl=Legionen
 Legislatur noun g=f gen=Legislatur pl=Legislaturen
 Legislaturperiode noun g=f gen=Legislaturperiode pl=Legislaturperioden
@@ -71,6 +83,7 @@ Leid noun g=n gen=Leids|Leides pl=- note=no plural
 Leiden noun g=n gen=Leidens pl=Leiden
 Leidenschaft noun g=f gen=Leidenschaft pl=Leidenschaften
 Leiharbeit noun g=f gen=Leiharbeit pl=- note=lexicalised compound; plural not used
+Leim noun g=m gen=Leims|Leimes pl=Leime
 Leine noun g=f gen=Leine pl=Leinen
 Leinwand noun g=f gen=Leinwand pl=Leinwände
 Leipziger noun g=m gen=Leipzigers pl=Leipziger note=inhabitant of Leipzig; also the indeclinable adjective (Leipziger Straße)
@@ -84,6 +97,7 @@ Leitung noun g=f gen=Leitung pl=Leitungen
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Leser noun g=m gen=Lesers pl=Leser
 Lesung noun g=f gen=Lesung pl=Lesungen
+Leuchte noun g=f gen=Leuchte pl=Leuchten
 Leuchtturm noun g=m gen=Leuchtturms|Leuchtturmes pl=Leuchttürme
 Leute        noun g=pl
 Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
@@ -91,6 +105,7 @@ Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant
 Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
 Libretto noun g=n gen=Librettos pl=Libretti|Librettos
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
+Lid noun g=n gen=Lids|Lides pl=Lider
 Liebe noun g=f gen=Liebe pl=- note=Lieben very rare
 Liebhaber noun g=m gen=Liebhabers pl=Liebhaber
 Liebling noun g=m gen=Lieblings pl=Lieblinge
@@ -133,7 +148,10 @@ LPG noun g=f gen=LPG pl=LPG|LPGs conf=85 note=Landwirtschaftliche Produktionsgen
 Lübecker noun g=m gen=Lübeckers pl=Lübecker note=inhabitant of Lübeck
 Lücke noun g=f gen=Lücke pl=Lücken
 Luft noun g=f gen=Luft pl=Lüfte
+Luftballon noun g=m gen=Luftballons pl=Luftballons|Luftballone
 Lüge noun g=f gen=Lüge pl=Lügen
+Lügner noun g=m gen=Lügners pl=Lügner
+Lügnerin noun g=f gen=Lügnerin pl=Lügnerinnen
 Lunge noun g=f gen=Lunge pl=Lungen
 Lust noun g=f gen=Lust pl=Lüste
 Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun

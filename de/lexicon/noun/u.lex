@@ -1,6 +1,7 @@
 U-Bahn noun g=f gen=U-Bahn pl=U-Bahnen
 U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übel noun g=n gen=Übels pl=Übel
+Übelkeit noun g=f gen=Übelkeit pl=- note=mass noun
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
@@ -15,6 +16,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überlegung noun g=f gen=Überlegung pl=Überlegungen
 Überlieferung noun g=f gen=Überlieferung pl=Überlieferungen
 Übermittlung noun g=f gen=Übermittlung pl=Übermittlungen[rare]
+Übernachtung noun g=f gen=Übernachtung pl=Übernachtungen
 Übernahme noun g=f gen=Übernahme pl=Übernahmen
 Überprüfung noun g=f gen=Überprüfung pl=Überprüfungen
 Überraschung noun g=f gen=Überraschung pl=Überraschungen
@@ -34,6 +36,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Ufer noun g=n gen=Ufers pl=Ufer
 Uhr noun g=f gen=Uhr pl=Uhren
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
+Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
 Umfang noun g=m gen=Umfangs|Umfanges[rare] pl=Umfänge
@@ -100,6 +103,7 @@ Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
+Untersetzer noun g=m gen=Untersetzers pl=Untersetzer
 Unterstützer noun g=m gen=Unterstützers pl=Unterstützer
 Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
 Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen

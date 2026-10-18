@@ -1,5 +1,6 @@
 identisch adj
 ideologisch adj
+idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten

@@ -1,18 +1,22 @@
 Jacke noun g=f gen=Jacke pl=Jacken
+Jackett noun g=n gen=Jacketts pl=Jacketts|Jackette
 Jagd noun g=f gen=Jagd pl=Jagden
 Jäger noun g=m gen=Jägers pl=Jäger
 Jahr noun g=n gen=Jahres|Jahrs[rare] pl=Jahre
 Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
+Jalousie noun g=f gen=Jalousie pl=Jalousien
 Jammer noun g=m gen=Jammers pl=- note=mass noun
 Jänner noun g=m gen=Jänner|Jänners pl=- region=AT note=month name; plural not used
 Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
 Japaner noun g=m gen=Japaners pl=Japaner
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
+Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
 Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Joch noun g=n gen=Jochs|Joches pl=Joche
+Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Joint noun g=m gen=Joints pl=Joints
 Journal noun g=n gen=Journals pl=Journale
@@ -24,6 +28,7 @@ Jude noun g=m gen=Juden pl=Juden
 Judentum noun g=n gen=Judentums pl=- note=no plural in practice
 Judoka noun g=m gen=Judoka|Judokas pl=Judoka|Judokas note=also feminine (die Judoka)
 Jugend noun g=f gen=Jugend pl=- note=plural not used
+Jugendherberge noun g=f gen=Jugendherberge pl=Jugendherbergen note=the analyser would take Berg as head
 Jugendliche noun g=m|f decl=adj
 Juli noun g=m sg=Juli,Juli|Julis,Juli,Juli pl=- note=month name; plural not used
 Junge        noun g=m gen=Jungen pl=Jungen note=weak masculine (n-declension)

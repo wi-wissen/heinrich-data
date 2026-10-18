@@ -1,3 +1,4 @@
+Nabel noun g=m gen=Nabels pl=Nabel
 Nachahmung noun g=f gen=Nachahmung pl=Nachahmungen
 Nachbar noun g=m gen=Nachbarn|Nachbars pl=Nachbarn
 Nachbarin noun g=f gen=Nachbarin pl=Nachbarinnen
@@ -20,11 +21,16 @@ Nachwuchs noun g=m gen=Nachwuchses pl=- note=no plural
 Nacken noun g=m gen=Nackens pl=Nacken
 Nadel noun g=f gen=Nadel pl=Nadeln
 Nagel noun g=m gen=Nagels pl=Nägel
+Nagellack noun g=m gen=Nagellacks|Nagellackes pl=Nagellacke
 Nähe noun g=f gen=Nähe pl=- note=plural not used
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
 Name         noun g=m gen=Namens pl=Namen
+Napf noun g=m gen=Napfs|Napfes pl=Näpfe
+Narbe noun g=f gen=Narbe pl=Narben
+Narkose noun g=f gen=Narkose pl=Narkosen
 Narr noun g=m gen=Narren pl=Narren
 Nase noun g=f gen=Nase pl=Nasen
+Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
 Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
 Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
@@ -41,6 +47,7 @@ Neid noun g=m gen=Neides|Neids pl=- note=no plural
 Neigung noun g=f gen=Neigung pl=Neigungen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Nerv noun g=m gen=Nervs pl=Nerven
+Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nest noun g=n gen=Nests|Nestes pl=Nester
 Netz noun g=n gen=Netzes pl=Netze
 Neuerung noun g=f gen=Neuerung pl=Neuerungen
@@ -49,8 +56,10 @@ Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 NGO noun g=f gen=NGO pl=NGOs
 Nichte noun g=f gen=Nichte pl=Nichten
+Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
 Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
+Niere noun g=f gen=Niere pl=Nieren
 Nische noun g=f gen=Nische pl=Nischen
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nominierung noun g=f gen=Nominierung pl=Nominierungen
@@ -65,6 +74,7 @@ Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
 Novelle noun g=f gen=Novelle pl=Novellen
 Novellierung noun g=f gen=Novellierung pl=Novellierungen
 November noun g=m gen=November|Novembers pl=November[rare] note=month name; plural rare
+Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Nummer noun g=f gen=Nummer pl=Nummern
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective

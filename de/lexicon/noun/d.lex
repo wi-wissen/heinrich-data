@@ -1,4 +1,8 @@
 Dach          noun g=n gen=Daches|Dachs pl=Dächer
+Dachdecker noun g=m gen=Dachdeckers pl=Dachdecker
+Dachdeckerin noun g=f gen=Dachdeckerin pl=Dachdeckerinnen
+Dachrinne noun g=f gen=Dachrinne pl=Dachrinnen
+Dackel noun g=m gen=Dackels pl=Dackel
 Dame          noun g=f gen=Dame pl=Damen
 Damm noun g=m gen=Dammes|Damms pl=Dämme
 Dämmerung noun g=f gen=Dämmerung pl=Dämmerungen
@@ -9,14 +13,18 @@ Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Dankeschön noun g=n gen=Dankeschöns pl=Dankeschöns
 Darlehen noun g=n gen=Darlehens pl=Darlehen
+Darm noun g=m gen=Darms|Darmes pl=Därme
 Darsteller noun g=m gen=Darstellers pl=Darsteller
 Darstellerin noun g=f gen=Darstellerin pl=Darstellerinnen
 Darstellung   noun g=f gen=Darstellung pl=Darstellungen
 Dasein noun g=n gen=Daseins pl=- note=no plural
+Date noun g=n gen=Dates pl=Dates
 Datei         noun g=f gen=Datei pl=Dateien
 Datum         noun g=n gen=Datums pl=Daten
 Dauer         noun g=f gen=Dauer pl=- note=no plural
 Daumen noun g=m gen=Daumens pl=Daumen
+Daune noun g=f gen=Daune pl=Daunen
+Daunenjacke noun g=f gen=Daunenjacke pl=Daunenjacken
 Deal noun g=m gen=Deals pl=Deals
 Debatte       noun g=f gen=Debatte pl=Debatten
 Debüt noun g=n gen=Debüts pl=Debüts
@@ -42,6 +50,8 @@ Demonstration noun g=f gen=Demonstration pl=Demonstrationen
 Demut noun g=f gen=Demut pl=- note=no plural
 Denker noun g=m gen=Denkers pl=Denker
 Denkmal noun g=n gen=Denkmals|Denkmales pl=Denkmäler|Denkmale[rare]
+Deo noun g=n gen=Deos pl=Deos
+Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
 Depot noun g=n gen=Depots pl=Depots
@@ -61,6 +71,7 @@ Diagnostik noun g=f gen=Diagnostik pl=- note=no plural
 Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
+Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter
 Dichterin noun g=f gen=Dichterin pl=Dichterinnen
@@ -69,6 +80,7 @@ Dicke noun g=f gen=Dicke pl=Dicken
 Dickicht noun g=n gen=Dickichts|Dickichtes pl=Dickichte
 Dieb noun g=m gen=Diebes|Diebs[rare] pl=Diebe
 Diebstahl noun g=m gen=Diebstahls pl=Diebstähle
+Diele noun g=f gen=Diele pl=Dielen
 Diener        noun g=m gen=Dieners pl=Diener
 Dienst        noun g=m gen=Dienstes|Diensts pl=Dienste
 Dienstag noun g=m gen=Dienstags|Dienstages pl=Dienstage
@@ -118,14 +130,17 @@ Doppel noun g=n gen=Doppels pl=Doppel
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
 Dorn noun g=m gen=Dorns|Dornes pl=Dornen|Dorne[rare]
 Dortmunder noun g=m gen=Dortmunders pl=Dortmunder note=inhabitant of Dortmund
+Dose noun g=f gen=Dose pl=Dosen
 Dosis noun g=f gen=Dosis pl=Dosen
 Double noun g=n gen=Doubles pl=Doubles
 Dozent noun g=m gen=Dozenten pl=Dozenten
 Drache noun g=m gen=Drachen pl=Drachen
 Drachen noun g=m gen=Drachens pl=Drachen
+Draht noun g=m gen=Drahts|Drahtes pl=Drähte
 Drama noun g=n gen=Dramas pl=Dramen
 Dramatiker noun g=m gen=Dramatikers pl=Dramatiker
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
+Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
 Dreieck noun g=n gen=Dreiecks|Dreieckes[rare] pl=Dreiecke
 Dresdner noun g=m gen=Dresdners pl=Dresdner
@@ -136,6 +151,7 @@ Drohne noun g=f gen=Drohne pl=Drohnen
 Drohung noun g=f gen=Drohung pl=Drohungen
 Druck         noun g=m gen=Drucks|Druckes pl=Drücke sense=pressure
 Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print
+Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
 Duell noun g=n gen=Duells pl=Duelle
 Duft noun g=m gen=Duftes|Dufts pl=Düfte
@@ -153,6 +169,9 @@ Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser
 Durchschnitt noun g=m gen=Durchschnitts|Durchschnittes pl=Durchschnitte
 Durchsetzung noun g=f gen=Durchsetzung pl=- note=no plural
 Durst noun g=m gen=Durstes|Dursts[rare] pl=- note=no plural
+Dusche noun g=f gen=Dusche pl=Duschen
+Duschgel noun g=n gen=Duschgels pl=Duschgels
+Duschkabine noun g=f gen=Duschkabine pl=Duschkabinen
 Düsseldorfer noun g=m gen=Düsseldorfers pl=Düsseldorfer
 Dutzend noun g=n gen=Dutzends|Dutzend pl=Dutzende|Dutzend note=genitive/plural also unchanged after numerals
 DVD noun g=f gen=DVD pl=DVDs

@@ -1,7 +1,9 @@
+Waage noun g=f gen=Waage pl=Waagen
 Wache noun g=f gen=Wache pl=Wachen
 Wachs noun g=n gen=Wachses pl=Wachse
 Wachstum noun g=n gen=Wachstums pl=- note=mass noun
 Wächter noun g=m gen=Wächters pl=Wächter
+Wade noun g=f gen=Wade pl=Waden
 Waffe noun g=f gen=Waffe pl=Waffen
 Wagen noun g=m gen=Wagens pl=Wagen|Wägen[AT]
 Wahl noun g=f gen=Wahl pl=Wahlen
@@ -15,6 +17,7 @@ Wahrscheinlichkeit noun g=f gen=Wahrscheinlichkeit pl=Wahrscheinlichkeiten
 Wahrung noun g=f gen=Wahrung pl=- note=no plural
 Währung noun g=f gen=Währung pl=Währungen
 Wahrzeichen noun g=n gen=Wahrzeichens pl=Wahrzeichen
+Waise noun g=f gen=Waise pl=Waisen
 Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Wand noun g=f gen=Wand pl=Wände
@@ -22,6 +25,7 @@ Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
 Wange noun g=f gen=Wange pl=Wangen
+Wanne noun g=f gen=Wanne pl=Wannen
 Wappen noun g=n gen=Wappens pl=Wappen
 Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
@@ -29,15 +33,21 @@ Warnung noun g=f gen=Warnung pl=Warnungen
 Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
 Wartung noun g=f gen=Wartung pl=Wartungen
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
+Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
+Waschlappen noun g=m gen=Waschlappens pl=Waschlappen
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
+Wasserkocher noun g=m gen=Wasserkochers pl=Wasserkocher
 Wasserstoff noun g=m gen=Wasserstoffs|Wasserstoffes pl=- note=no plural
 Watt noun g=n gen=Watts|Wattes pl=Watten sense=mudflat note=das Watt: tidal flat
 Watt noun g=n gen=Watt|Watts pl=Watt sense=unit note=physical unit; des Watt(s)
+WC noun g=n gen=WC|WCs pl=WCs note=abbreviation of Wasserklosett
 WDR noun g=m gen=WDR|WDRs pl=- note=Westdeutscher Rundfunk; der WDR
+Webcam noun g=f gen=Webcam pl=Webcams
 Weber noun g=m gen=Webers pl=Weber
 Webseite noun g=f gen=Webseite pl=Webseiten
 Website noun g=f gen=Website pl=Websites
 Wechsel noun g=m gen=Wechsels pl=Wechsel
+Wecker noun g=m gen=Weckers pl=Wecker
 Weg noun g=m gen=Weges|Wegs pl=Wege
 Wegfall noun g=m gen=Wegfalls|Wegfalles pl=- note=no plural
 Wehr noun g=n gen=Wehrs|Wehres pl=Wehre sense=weir
@@ -46,6 +56,7 @@ Wehrmacht noun g=f gen=Wehrmacht pl=- note=no plural
 Weib noun g=n gen=Weibes|Weibs[rare] pl=Weiber style=archaic note=woman (old or derogatory)
 Weibchen noun g=n gen=Weibchens pl=Weibchen
 Weiche noun g=f gen=Weiche pl=Weichen
+Weichspüler noun g=m gen=Weichspülers pl=Weichspüler
 Weide noun g=f gen=Weide pl=Weiden
 Weihbischof noun g=m gen=Weihbischofs pl=Weihbischöfe
 Weihe noun g=f gen=Weihe pl=Weihen
@@ -65,6 +76,8 @@ Weiterentwicklung noun g=f gen=Weiterentwicklung pl=Weiterentwicklungen
 Weitergabe noun g=f gen=Weitergabe pl=- note=no plural
 Weizen noun g=m gen=Weizens pl=- note=no plural
 Welle noun g=f gen=Welle pl=Wellen
+Wellensittich noun g=m gen=Wellensittichs|Wellensittiches pl=Wellensittiche
+Welpe noun g=m gen=Welpen pl=Welpen
 Welt noun g=f gen=Welt pl=Welten
 Weltcup noun g=m gen=Weltcups pl=Weltcups
 Wende noun g=f gen=Wende pl=Wenden
@@ -80,11 +93,13 @@ Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
 Wertung noun g=f gen=Wertung pl=Wertungen
 Wesen noun g=n gen=Wesens pl=Wesen
 West noun g=m gen=Wests pl=- conf=70 note=compass direction in set phrases and as first element of names; usually Westen
+Weste noun g=f gen=Weste pl=Westen
 Westen noun g=m gen=Westens pl=- note=compass direction
 Wettbewerb noun g=m gen=Wettbewerbs|Wettbewerbes[rare] pl=Wettbewerbe
 Wette noun g=f gen=Wette pl=Wetten
 Wetter noun g=n gen=Wetters pl=Wetter
 Wettkampf noun g=m gen=Wettkampfs|Wettkampfes pl=Wettkämpfe
+WG noun g=f gen=WG pl=WGs note=abbreviation of Wohngemeinschaft
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
 Widerspruch noun g=m gen=Widerspruchs|Widerspruches[rare] pl=Widersprüche
@@ -102,10 +117,13 @@ Wild noun g=n gen=Wilds|Wildes pl=- note=game (animals)
 Wildnis noun g=f gen=Wildnis pl=Wildnisse
 Wille noun g=m gen=Willens pl=Willen
 Willkür noun g=f gen=Willkür pl=- note=no plural
+Wimper noun g=f gen=Wimper pl=Wimpern
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
+Windpocken noun g=pl
 Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
+Wirbelsäule noun g=f gen=Wirbelsäule pl=Wirbelsäulen
 Wirklichkeit noun g=f gen=Wirklichkeit pl=Wirklichkeiten
 Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
 Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
@@ -120,6 +138,7 @@ Wissenschaftler noun g=m gen=Wissenschaftlers pl=Wissenschaftler
 Witterung noun g=f gen=Witterung pl=Witterungen
 Witwe noun g=f gen=Witwe pl=Witwen
 Witz noun g=m gen=Witzes pl=Witze
+WLAN noun g=n gen=WLAN|WLANs pl=WLANs
 WM noun g=f gen=WM pl=WMs note=Weltmeisterschaft; die WM
 Woche noun g=f gen=Woche pl=Wochen
 Woge noun g=f gen=Woge pl=Wogen
@@ -128,11 +147,13 @@ Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
 Wohlstand noun g=m gen=Wohlstands|Wohlstandes pl=- note=no plural
 Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
 Wohnhaus noun g=n gen=Wohnhauses pl=Wohnhäuser
+Wohnmobil noun g=n gen=Wohnmobils pl=Wohnmobile note=the analyser would take the adjective mobil as head
 Wohnort noun g=m gen=Wohnorts|Wohnortes pl=Wohnorte
 Wohnraum noun g=m gen=Wohnraums|Wohnraumes pl=Wohnräume
 Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
+Wok noun g=m gen=Woks pl=Woks
 Wolf noun g=m gen=Wolfes|Wolfs[rare] pl=Wölfe
 Wolfram noun g=m gen=Wolframs pl=- note=chemical element; no plural
 Wolke noun g=f gen=Wolke pl=Wolken

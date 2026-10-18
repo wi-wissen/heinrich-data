@@ -1,3 +1,5 @@
+gackern verb class=weak pp=gegackert perf=haben
+gähnen verb class=weak pp=gegähnt perf=haben
 garantieren verb class=weak pp=garantiert perf=haben
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
@@ -30,15 +32,22 @@ gewinnen verb class=strong 3sg=gewinnt past=gewann pp=gewonnen subj2=gewönne|ge
 gewöhnen verb class=weak pp=gewöhnt perf=haben refl=acc
 gießen verb class=strong 3sg=gießt past=goss pp=gegossen subj2=gösse perf=haben
 glänzen verb class=weak pp=geglänzt perf=haben
+glasieren verb class=weak pp=glasiert perf=haben
+glätten verb class=weak pp=geglättet perf=haben
 glauben verb class=weak pp=geglaubt perf=haben
 gleichen verb class=strong 3sg=gleicht past=glich pp=geglichen subj2=gliche perf=haben
 gleichstellen verb class=weak sep=gleich pp=gleichgestellt perf=haben
 gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=sein
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc
+glotzen verb class=weak pp=geglotzt perf=haben
 glühen verb class=weak pp=geglüht perf=haben
 gönnen verb class=weak pp=gegönnt perf=haben
+gratulieren verb class=weak pp=gratuliert perf=haben
 greifen verb class=strong 3sg=greift past=griff pp=gegriffen subj2=griffe perf=haben
 grenzen verb class=weak pp=gegrenzt perf=haben
+grinsen verb class=weak pp=gegrinst perf=haben
+großziehen verb class=strong sep=groß 3sg=großzieht past=großzog pp=großgezogen subj2=großzöge perf=haben
 gründen verb class=weak pp=gegründet perf=haben refl=acc
 grüßen verb class=weak pp=gegrüßt perf=haben
 gucken verb class=weak pp=geguckt perf=haben
+gurgeln verb class=weak pp=gegurgelt perf=haben
