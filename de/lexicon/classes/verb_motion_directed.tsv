@@ -1,0 +1,53 @@
+# Lexeme class `verb_motion_directed`: verbs of motion that combine with a direction or goal
+# (nach Berlin, ins Wasser, über die Straße). With a direction they take `sein` in the perfect
+# (ich bin nach Berlin gefahren); the lexicon's `perf=` says whether `haben` is possible too.
+# Rules: `[class=verb_motion_directed]`.
+# Columns: lemma[:sense]  pos  value
+# Values: self (the subject moves by itself: gehen, laufen), vehicle (by a vehicle or animal:
+#   fahren, fliegen, reiten, rudern), water (in water: schwimmen, tauchen),
+#   fall (uncontrolled downward motion: fallen, stürzen, sinken), flow (fließen, treiben, rollen, gleiten).
+# Written from own knowledge of German (clean-room); only lemmas of this lexicon.
+
+gehen	verb	self
+laufen	verb	self
+rennen	verb	self
+springen	verb	self
+wandern	verb	self
+spazieren	verb	self
+klettern	verb	self
+kriechen	verb	self
+steigen	verb	self
+kommen	verb	self
+reisen	verb	self
+eilen	verb	self
+fliehen	verb	self
+flüchten	verb	self
+schleichen	verb	self
+tanzen	verb	self
+joggen	verb	self
+stolpern	verb	self
+marschieren	verb	self
+hüpfen	verb	self
+hinken	verb	self
+humpeln	verb	self
+schlendern	verb	self
+bummeln	verb	self
+ziehen	verb	self
+
+fahren	verb	vehicle
+fliegen	verb	vehicle
+reiten	verb	vehicle
+rudern	verb	vehicle
+
+schwimmen	verb	water
+tauchen	verb	water
+
+fallen	verb	fall
+stürzen	verb	fall
+sinken	verb	fall
+
+fließen	verb	flow
+treiben	verb	flow
+rollen	verb	flow
+gleiten	verb	flow
+strömen	verb	flow

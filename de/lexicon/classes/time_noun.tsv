@@ -1,0 +1,87 @@
+# Lexeme class `time_noun`: nouns that name a point or span of time (docs/LEXICON_FORMAT.md §14
+# in the engine repo). Rules: `[class=time_noun]`, `[class:time_noun=weekday|month]`.
+# Columns: lemma[:sense]  pos  value
+# Values: weekday, month, holiday, unit (calendar and clock units), daytime, season,
+#   phase (beginning, middle, end of a span), period (historical or life periods),
+#   span (general words for a stretch or point of time).
+# Written from own knowledge of German (clean-room); only lemmas of this lexicon.
+
+Montag	noun	weekday
+Dienstag	noun	weekday
+Mittwoch	noun	weekday
+Donnerstag	noun	weekday
+Freitag	noun	weekday
+Samstag	noun	weekday
+
+Januar	noun	month
+Jänner	noun	month
+Februar	noun	month
+März	noun	month
+April	noun	month
+Mai	noun	month
+Juni	noun	month
+Juli	noun	month
+August	noun	month
+September	noun	month
+Oktober	noun	month
+November	noun	month
+Dezember	noun	month
+
+Ostern	noun	holiday
+Weihnachten	noun	holiday
+Silvester	noun	holiday
+Advent	noun	holiday
+
+Sekunde	noun	unit
+Minute	noun	unit
+Stunde	noun	unit
+Tag	noun	unit
+Woche	noun	unit
+Monat	noun	unit
+Quartal	noun	unit
+Semester	noun	unit
+Jahr	noun	unit
+Jahrzehnt	noun	unit
+Jahrhundert	noun	unit
+
+Morgen:daytime	noun	daytime
+Vormittag	noun	daytime
+Mittag	noun	daytime
+Nachmittag	noun	daytime
+Abend	noun	daytime
+Nacht	noun	daytime
+Mitternacht	noun	daytime
+Dämmerung	noun	daytime
+
+Frühling	noun	season
+Frühjahr	noun	season
+Sommer	noun	season
+Herbst	noun	season
+Winter	noun	season
+Ferien	noun	season
+Saison	noun	season
+
+Anfang	noun	phase
+Beginn	noun	phase
+Mitte	noun	phase
+Ende	noun	phase
+Schluss	noun	phase
+
+Kindheit	noun	period
+Jugend	noun	period
+Vergangenheit	noun	period
+Gegenwart	noun	period
+Zukunft	noun	period
+Epoche	noun	period
+Ära	noun	period
+Periode	noun	period
+Mittelalter	noun	period
+Antike	noun	period
+
+Zeit	noun	span
+Weile	noun	span
+Moment	noun	span
+Augenblick	noun	span
+Pause	noun	span
+Frist	noun	span
+Dauer	noun	span

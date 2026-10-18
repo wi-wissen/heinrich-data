@@ -1,0 +1,68 @@
+# Lexeme class `valency`: verbs whose object is not (only) in the accusative. The accusative
+# object is the default and is not listed. Rules: `[class:valency=dat]`.
+# Columns: lemma[:sense]  pos  value
+# Values (several with `|`):
+#   dat      a dative object and no accusative object (ich helfe dir, *ich helfe dich)
+#   acc      an accusative object is possible as well (ich glaube dir / ich glaube es)
+#   gen      a genitive object (wir gedenken der Toten)
+#   acc_gen  an accusative person plus a genitive thing (man beschuldigte ihn des Diebstahls)
+# Written from own knowledge of German (clean-room); only lemmas of this lexicon.
+
+# Dative only.
+helfen	verb	dat
+danken	verb	dat
+folgen	verb	dat
+gehören	verb	dat
+gefallen	verb	dat
+vertrauen	verb	dat
+begegnen	verb	dat
+schaden	verb	dat
+widersprechen	verb	dat
+antworten	verb	dat
+drohen	verb	dat
+gleichen	verb	dat
+ähneln	verb	dat
+fehlen	verb	dat
+gehorchen	verb	dat
+passen	verb	dat
+zuhören	verb	dat
+zustimmen	verb	dat
+zusehen	verb	dat
+dienen	verb	dat
+auffallen	verb	dat
+einfallen	verb	dat
+gelingen	verb	dat
+genügen	verb	dat
+entkommen	verb	dat
+entfliehen	verb	dat
+entgehen	verb	dat
+entsprechen	verb	dat
+unterliegen	verb	dat
+winken	verb	dat
+gratulieren	verb	dat
+zuschauen	verb	dat
+misstrauen	verb	dat
+trotzen	verb	dat
+
+# Dative person, accusative thing possible.
+glauben	verb	dat|acc
+raten	verb	dat|acc
+verzeihen	verb	dat|acc
+nutzen	verb	dat|acc
+nützen	verb	dat|acc
+reichen	verb	dat|acc
+schmecken	verb	dat|acc
+
+# Genitive object.
+gedenken	verb	gen
+bedürfen	verb	gen
+entbehren	verb	gen|acc
+rühmen	verb	gen|acc
+erfreuen	verb	gen|acc
+annehmen	verb	gen|acc
+
+# Accusative person plus genitive thing.
+beschuldigen	verb	acc_gen
+anklagen	verb	acc_gen
+berauben	verb	acc_gen
+würdigen	verb	acc_gen

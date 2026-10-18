@@ -103,7 +103,7 @@ sitzen verb class=strong 3sg=sitzt past=saß pp=gesessen subj2=säße perf=haben
 sorgen verb class=weak pp=gesorgt perf=haben
 sortieren verb class=weak pp=sortiert perf=haben
 spalten verb class=strong 3sg=spaltet past=spaltete pp=gespalten subj2=spaltete perf=haben note=weak preterite spaltete, strong Partizip II; gespaltet (rare) not expressible
-spannen verb class=weak pp=gespannt perf=haben refl=acc
+spannen verb class=weak pp=gespannt perf=haben refl=acc part1_cmp
 sparen verb class=weak pp=gespart perf=haben
 spazieren verb class=weak pp=spaziert perf=sein
 speichern verb class=weak pp=gespeichert perf=haben

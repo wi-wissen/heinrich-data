@@ -103,12 +103,12 @@ entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
 entsorgen verb class=weak pp=entsorgt perf=haben
-entspannen verb class=weak pp=entspannt perf=haben refl=acc
+entspannen verb class=weak pp=entspannt perf=haben refl=acc part1_cmp pp_cmp
 entsprechen verb class=strong 3sg=entspricht past=entsprach pp=entsprochen subj2=entspräche perf=haben
 entspringen verb class=strong 3sg=entspringt past=entsprang pp=entsprungen subj2=entspränge perf=sein
 entstammen verb class=weak pp=entstammt perf=sein
 entstehen verb class=strong 3sg=entsteht past=entstand pp=entstanden subj2=entstünde|entstände perf=sein
-enttäuschen verb class=weak pp=enttäuscht perf=haben
+enttäuschen verb class=weak pp=enttäuscht perf=haben part1_cmp pp_cmp
 entwässern verb class=weak pp=entwässert perf=haben
 entwerfen verb class=strong 3sg=entwirft past=entwarf pp=entworfen subj2=entwürfe perf=haben
 entwickeln verb class=weak pp=entwickelt perf=haben refl=acc

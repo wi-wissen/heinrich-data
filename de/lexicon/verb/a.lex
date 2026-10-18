@@ -224,7 +224,7 @@ aufnehmen     verb class=strong sep=auf 3sg=aufnimmt past=aufnahm pp=aufgenommen
 aufpassen verb class=weak sep=auf pp=aufgepasst perf=haben
 aufräumen verb class=weak sep=auf pp=aufgeräumt perf=haben
 aufrechterhalten verb class=strong sep=aufrecht 3sg=aufrechterhält past=aufrechterhielt pp=aufrechterhalten subj2=aufrechterhielte perf=haben
-aufregen verb class=weak sep=auf pp=aufgeregt perf=haben refl=acc
+aufregen verb class=weak sep=auf pp=aufgeregt perf=haben refl=acc part1_cmp
 aufrichten verb class=weak sep=auf pp=aufgerichtet perf=haben
 aufrufen verb class=strong sep=auf 3sg=aufruft past=aufrief pp=aufgerufen subj2=aufriefe perf=haben
 aufschieben verb class=strong sep=auf 3sg=aufschiebt past=aufschob pp=aufgeschoben subj2=aufschöbe perf=haben

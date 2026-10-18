@@ -44,10 +44,15 @@ werfen verb class=strong 3sg=wirft past=warf pp=geworfen subj2=würfe perf=haben
 werten verb class=weak pp=gewertet perf=haben
 wetten verb class=weak pp=gewettet perf=haben
 wickeln verb class=weak pp=gewickelt perf=haben
+widerhallen verb class=weak sep=wider pp=widergehallt perf=haben
+widerklingen verb class=strong sep=wider 3sg=widerklingt past=widerklang pp=widergeklungen subj2=widerklänge perf=haben
 widerlegen verb class=weak pp=widerlegt perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
+widerscheinen verb class=strong sep=wider 3sg=widerscheint past=widerschien pp=widergeschienen subj2=widerschiene perf=haben
+widerspiegeln verb class=weak sep=wider pp=widergespiegelt perf=haben refl=acc
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
+widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederbeleben verb class=weak pp=wiederbelebt perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc

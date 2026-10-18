@@ -193,7 +193,7 @@ verwerfen verb class=strong 3sg=verwirft past=verwarf pp=verworfen subj2=verwür
 verwerten verb class=weak pp=verwertet perf=haben
 verwickeln verb class=weak pp=verwickelt perf=haben
 verwirklichen verb class=weak pp=verwirklicht perf=haben
-verwirren verb class=weak pp=verwirrt perf=haben
+verwirren verb class=weak pp=verwirrt perf=haben part1_cmp
 verwöhnen verb class=weak pp=verwöhnt perf=haben refl=acc
 verwunden verb class=weak pp=verwundet perf=haben
 verwundern verb class=weak pp=verwundert perf=haben
