@@ -4,6 +4,7 @@ panieren verb class=weak pp=paniert perf=haben
 parken verb class=weak pp=geparkt perf=haben
 passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
+patscheln verb class=weak pp=gepatschelt perf=haben conf=80 note=colloquial, to splash about
 pauken verb class=weak pp=gepaukt perf=haben
 peitschen verb class=weak pp=gepeitscht perf=haben|sein
 pendeln verb class=weak pp=gependelt perf=haben|sein
@@ -14,11 +15,13 @@ pflanzen verb class=weak pp=gepflanzt perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 pflücken verb class=weak pp=gepflückt perf=haben
 pflügen verb class=weak pp=gepflügt perf=haben
+pieksen verb class=weak pp=gepiekst perf=haben style=colloquial
 piepen verb class=weak pp=gepiept perf=haben
 piepsen verb class=weak pp=gepiepst perf=haben
 pinkeln verb class=weak pp=gepinkelt perf=haben style=colloquial
 pirschen verb class=weak pp=gepirscht perf=haben refl=acc
 pissen verb class=weak pp=gepisst perf=haben style=colloquial
+plädieren verb class=weak pp=plädiert perf=haben
 planen verb class=weak pp=geplant perf=haben
 planschen verb class=weak pp=geplanscht perf=haben
 plappern verb class=weak pp=geplappert perf=haben
@@ -40,6 +43,7 @@ prahlen verb class=weak pp=geprahlt perf=haben
 praktizieren verb class=weak pp=praktiziert perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 prasseln verb class=weak pp=geprasselt perf=haben|sein
+predigen verb class=weak pp=gepredigt perf=haben
 preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=haben
 pressen verb class=weak pp=gepresst perf=haben
 proben verb class=weak pp=geprobt perf=haben

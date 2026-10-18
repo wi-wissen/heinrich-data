@@ -2,6 +2,7 @@ ganz adj note=the adverb is in closed/
 gar adj
 gasförmig adj
 gebeugt adj
+gebildet adj cmp=gebildeter sup=gebildetsten
 geborgen adj
 gebräuchlich adj
 gebraucht adj
@@ -24,6 +25,7 @@ geistlich adj
 geizig adj cmp=geiziger sup=geizigsten
 gekränkt adj cmp=gekränkter sup=gekränktesten
 gelangweilt adj cmp=gelangweilter sup=gelangweiltesten
+geläufig adj
 gelb adj cmp=gelber sup=gelbsten
 gelblich adj cmp=gelblicher sup=gelblichsten
 gelegentlich adj
@@ -64,6 +66,7 @@ gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
+getreu adj cmp=getreuer sup=getreuesten
 gewahr adj pred_only note=predicative only (einer Sache gewahr werden)
 gewaltig adj cmp=gewaltiger sup=gewaltigsten
 gewaltsam adj
@@ -125,3 +128,4 @@ gültig adj
 günstig adj cmp=günstiger sup=günstigsten
 gut          adj cmp=besser sup=besten
 gütig adj cmp=gütiger sup=gütigsten
+gutmütig adj

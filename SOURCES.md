@@ -33,3 +33,10 @@ Work lists in `de/lexicon/worklists/` are derived only from our lexicon and our 
 Lexeme classes in `de/lexicon/classes/` (time nouns, verbs of saying, directed motion verbs,
 valency, perfect auxiliary by use) are our own lists, written clean-room from general knowledge of
 German grammar; they contain only lemmas of our lexicon.
+
+## Name lists (`de/names/`)
+
+`given_names.tsv` (about 2,600 given names with gender m/f/u) and `surnames.tsv` (about 2,500
+common surnames in Germany, Austria and Switzerland) are our own data, written clean-room from
+general knowledge of names in German-speaking schools and families. No third-party name list,
+register statistic, directory or web source was consulted. Format and use: `de/names/README.md`.

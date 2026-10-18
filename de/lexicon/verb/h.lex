@@ -6,17 +6,21 @@ häkeln verb class=weak pp=gehäkelt perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 hämmern verb class=weak pp=gehämmert perf=haben
 handeln verb class=weak pp=gehandelt perf=haben refl=acc
+handhaben verb class=weak pp=gehandhabt perf=haben
 hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=haben|sein sense=intransitive note=das Bild hing an der Wand; perf with sein in southern Germany/AT/CH
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
 hänseln verb class=weak pp=gehänselt perf=haben
 harken verb class=weak pp=geharkt perf=haben
+harren verb class=weak pp=geharrt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 hasten verb class=weak pp=gehastet perf=sein
 hauen verb class=strong 3sg=haut past=haute|hieb[archaic] pp=gehauen subj2=haute|hiebe[archaic] perf=haben|sein
+hausen verb class=weak pp=gehaust perf=haben
 häuten verb class=weak pp=gehäutet perf=haben refl=acc
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
 hecheln verb class=weak pp=gehechelt perf=haben
 heften verb class=weak pp=geheftet perf=haben
+hegen verb class=weak pp=gehegt perf=haben
 heilen verb class=weak pp=geheilt perf=haben|sein
 heimbegleiten verb class=weak sep=heim pp=heimgebegleitet perf=haben
 heimbringen verb class=mixed sep=heim 3sg=heimbringt past=heimbrachte subj2=heimbrächte pp=heimgebracht perf=haben
@@ -151,6 +155,7 @@ herumliegen verb class=strong sep=herum 3sg=herumliegt past=herumlag subj2=herum
 herumlungern verb class=weak sep=herum pp=herumgelungert perf=haben
 herumreden verb class=weak sep=herum pp=herumgeredet perf=haben
 herumreichen verb class=weak sep=herum pp=herumgereicht perf=haben
+herumreisen verb class=weak sep=herum pp=herumgereist perf=sein
 herumrennen verb class=mixed sep=herum 3sg=herumrennt past=herumrannte subj2=herumrennte pp=herumgerannt perf=sein
 herumschlagen verb class=strong sep=herum 3sg=herumschlägt past=herumschlug subj2=herumschlüge pp=herumgeschlagen perf=haben refl=acc
 herumschleichen verb class=strong sep=herum 3sg=herumschleicht past=herumschlich subj2=herumschliche pp=herumgeschlichen perf=sein
@@ -279,6 +284,7 @@ hineinwerfen verb class=strong sep=hinein 3sg=hineinwirft past=hineinwarf subj2=
 hineinziehen verb class=strong sep=hinein 3sg=hineinzieht past=hineinzog subj2=hineinzöge pp=hineingezogen perf=haben
 hinfahren verb class=strong sep=hin 3sg=hinfährt past=hinfuhr subj2=hinführe pp=hingefahren perf=sein
 hinfallen verb class=strong sep=hin 3sg=hinfällt past=hinfiel pp=hingefallen subj2=hinfiele perf=sein
+hingeben verb class=strong sep=hin 3sg=hingibt past=hingab pp=hingegeben subj2=hingäbe perf=haben refl=acc
 hingehen verb class=strong sep=hin 3sg=hingeht past=hinging pp=hingegangen subj2=hinginge perf=sein
 hinhalten verb class=strong sep=hin 3sg=hinhält past=hinhielt subj2=hinhielte pp=hingehalten perf=haben
 hinhocken verb class=weak sep=hin pp=hingehockt perf=haben refl=acc
@@ -301,6 +307,7 @@ hinsinken verb class=strong sep=hin 3sg=hinsinkt past=hinsank subj2=hinsänke pp
 hinstellen verb class=weak sep=hin pp=hingestellt perf=haben refl=acc
 hinstrecken verb class=weak sep=hin pp=hingestreckt perf=haben
 hinterfragen verb class=weak pp=hinterfragt perf=haben
+hintergehen verb class=strong 3sg=hintergeht past=hinterging pp=hintergangen subj2=hinterginge perf=haben
 hinterherblicken verb class=weak sep=hinterher pp=hinterhergeblickt perf=haben
 hinterherfahren verb class=strong sep=hinterher 3sg=hinterherfährt past=hinterherfuhr subj2=hinterherführe pp=hinterhergefahren perf=sein
 hinterherfliegen verb class=strong sep=hinterher 3sg=hinterherfliegt past=hinterherflog subj2=hinterherflöge pp=hinterhergeflogen perf=sein
@@ -370,11 +377,13 @@ hochziehen verb class=strong sep=hoch 3sg=hochzieht past=hochzog pp=hochgezogen 
 hocken verb class=weak pp=gehockt perf=haben|sein
 hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
+holpern verb class=weak pp=geholpert perf=haben|sein
 hoppeln verb class=weak pp=gehoppelt perf=sein
 hopsen verb class=weak pp=gehopst perf=sein style=colloquial
 horchen verb class=weak pp=gehorcht perf=haben
 hören verb class=weak pp=gehört perf=haben
 hudeln verb class=weak pp=gehudelt perf=haben
+huldigen verb class=weak pp=gehuldigt perf=haben
 hüllen verb class=weak pp=gehüllt perf=haben
 humpeln verb class=weak pp=gehumpelt perf=haben|sein
 hungern verb class=weak pp=gehungert perf=haben

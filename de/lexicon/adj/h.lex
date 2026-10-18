@@ -1,7 +1,9 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 halb         adj note=not compared; ein halber Liter
+hären adj conf=80 note=rare, hären = of hair
 harmlos adj cmp=harmloser sup=harmlosesten
+harmonisch adj
 hart adj cmp=härter sup=härtesten
 hartnäckig adj cmp=hartnäckiger sup=hartnäckigsten
 hässlich adj cmp=hässlicher sup=hässlichsten
@@ -10,6 +12,7 @@ häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
 häuslich adj cmp=häuslicher sup=häuslichsten
 heftig adj cmp=heftiger sup=heftigsten
+heikel adj attr=heikle cmp=heikler sup=heikelsten
 heil adj
 heilig adj cmp=heiliger sup=heiligsten
 heimisch adj

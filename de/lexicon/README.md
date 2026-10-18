@@ -14,6 +14,7 @@ All entries are written clean-room (see `Heinrich/docs/PLAN.md` §6 and `../../S
 | `other/` | `intj`, `x` (abbreviations, foreign material) | `<letter>.lex` |
 | `closed/` | hand-written closed classes: articles, pronouns, prepositions, conjunctions, grammar-relevant adverbs, particles, numerals, auxiliary and modal verbs | by function |
 | `classes/` | lexeme classes (semantic/syntactic word classes used by the rules: `time_noun`, `verb_say`, `verb_motion_directed`, `valency`, `perf_sein_sense`); format: `Heinrich/docs/LEXICON_FORMAT.md` §14 | `<class>.tsv`: `lemma[:sense] pos [value]` per line, members must be lemmas of the lexicon |
+| `../names/` (outside the lexicon) | optional given-name and surname lists, see `de/names/README.md` | `given_names.tsv`, `surnames.tsv` |
 | `worklists/` | authoring work lists produced by `heinrich-lexicon next-batch` | `batch-NNN.tsv` |
 
 Shards are sorted by lemma; a lemma + part of speech + sense occurs once across all files.

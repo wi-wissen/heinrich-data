@@ -8,6 +8,7 @@ maritim adj
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
+massenhaft adj
 massiv adj cmp=massiver sup=massivsten
 materiell adj
 mathematisch adj
@@ -22,6 +23,7 @@ mehrheitlich adj
 mehrjährig adj
 menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
+merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
 metaphorisch adj
 mexikanisch adj

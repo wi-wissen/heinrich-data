@@ -10,6 +10,7 @@ defekt adj
 definitiv adj
 demografisch adj
 demokratisch adj
+demütig adj
 denkbar adj
 derartig adj
 derzeitig adj attr_only
@@ -39,11 +40,13 @@ doppelt adj
 dornig adj cmp=dorniger sup=dornigsten
 dortig        adj note=only attributive (die dortigen Verhältnisse)
 drahtlos adj
+drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreifach adj
 dreißigjährig adj attr_only
+dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten
 dual adj
 duftend adj
@@ -55,6 +58,7 @@ dünn adj cmp=dünner sup=dünnsten
 durchgängig adj
 durchschnittlich adj
 durchsichtig adj cmp=durchsichtiger sup=durchsichtigsten
+dürftig adj
 durstig adj cmp=durstiger sup=durstigsten
 düster adj cmp=düsterer sup=düstersten
 dynamisch adj cmp=dynamischer sup=dynamischsten

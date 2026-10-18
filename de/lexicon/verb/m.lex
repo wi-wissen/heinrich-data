@@ -1,6 +1,7 @@
 machen       verb class=weak pp=gemacht perf=haben
 mähen verb class=weak pp=gemäht perf=haben
 mahlen verb class=weak pp=gemahlen|gemahlt[rare] perf=haben note=Kaffee mahlen; pp gemahlen is the usual one
+mahnen verb class=weak pp=gemahnt perf=haben
 mailen verb class=weak pp=gemailt perf=haben
 mäkeln verb class=weak pp=gemäkelt perf=haben
 malen verb class=weak pp=gemalt perf=haben
@@ -27,7 +28,9 @@ merken verb class=weak pp=gemerkt perf=haben refl=dat
 messen verb class=strong 3sg=misst past=maß pp=gemessen subj2=mäße perf=haben refl=acc
 miauen verb class=weak pp=miaut perf=haben note=Partizip II without ge- (stress on the second syllable)
 mieten verb class=weak pp=gemietet perf=haben
+mildern verb class=weak pp=gemildert perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
+minimieren verb class=weak pp=minimiert perf=haben
 mischen verb class=weak pp=gemischt perf=haben refl=acc
 missbrauchen verb class=weak pp=missbraucht perf=haben
 missfallen verb class=strong 3sg=missfällt past=missfiel subj2=missfiele pp=missfallen perf=haben
@@ -71,6 +74,7 @@ mitspielen verb class=weak sep=mit pp=mitgespielt perf=haben
 mitsprechen verb class=strong sep=mit 3sg=mitspricht past=mitsprach subj2=mitspräche pp=mitgesprochen perf=haben
 mittanzen verb class=weak sep=mit pp=mitgetanzt perf=haben
 mitteilen verb class=weak sep=mit pp=mitgeteilt perf=haben
+mittragen verb class=strong sep=mit 3sg=mitträgt past=mittrug pp=mitgetragen subj2=mitträge perf=haben
 mittrinken verb class=strong sep=mit 3sg=mittrinkt past=mittrank subj2=mittränke pp=mitgetrunken perf=haben
 mitwandern verb class=weak sep=mit pp=mitgewandert perf=sein
 mitweinen verb class=weak sep=mit pp=mitgeweint perf=haben
@@ -79,6 +83,8 @@ mitzählen verb class=weak sep=mit pp=mitgezählt perf=haben
 mitziehen verb class=strong sep=mit 3sg=mitzieht past=mitzog subj2=mitzöge pp=mitgezogen perf=haben|sein
 mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
+mobilisieren verb class=weak pp=mobilisiert perf=haben
+modeln verb class=weak pp=gemodelt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben
 mogeln verb class=weak pp=gemogelt perf=haben
@@ -89,6 +95,7 @@ muhen verb class=weak pp=gemuht perf=haben
 multiplizieren verb class=weak pp=multipliziert perf=haben
 mümmeln verb class=weak pp=gemümmelt perf=haben
 münden verb class=weak pp=gemündet perf=haben|sein
+munden verb class=weak pp=gemundet perf=haben
 murmeln verb class=weak pp=gemurmelt perf=haben
 murren verb class=weak pp=gemurrt perf=haben
 musizieren verb class=weak pp=musiziert perf=haben

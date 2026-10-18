@@ -7,6 +7,7 @@ fair adj cmp=fairer sup=fairsten
 faktisch adj
 fällig adj
 falsch adj cmp=falscher sup=falschesten
+fälschlich adj
 familiär adj cmp=familiärer sup=familiärsten
 fantastisch adj cmp=fantastischer sup=fantastischsten
 farbenfroh adj cmp=farbenfroher sup=farbenfrohsten
@@ -23,6 +24,7 @@ felsig adj cmp=felsiger sup=felsigsten
 fern adj cmp=ferner sup=fernsten
 fertig adj
 fest adj cmp=fester sup=festesten
+festlich adj
 fett adj cmp=fetter sup=fettesten
 fettig adj cmp=fettiger sup=fettigsten
 feucht adj cmp=feuchter sup=feuchtesten
@@ -30,6 +32,7 @@ fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 fiktiv adj
 finanziell adj
+findig adj
 finnisch adj
 finster adj cmp=finsterer sup=finstersten
 firm adj pred_only
@@ -40,6 +43,7 @@ flauschig adj cmp=flauschiger sup=flauschigsten
 fleckig adj cmp=fleckiger sup=fleckigsten
 fleißig adj cmp=fleißiger sup=fleißigsten
 flexibel adj cmp=flexibler sup=flexibelsten
+flink adj cmp=flinker sup=flinksten
 flott adj cmp=flotter sup=flottesten
 flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
@@ -59,6 +63,7 @@ freiwillig adj
 fremd adj cmp=fremder sup=fremdesten
 freudig adj cmp=freudiger sup=freudigsten
 freundlich adj cmp=freundlicher sup=freundlichsten
+freundschaftlich adj
 friedlich adj cmp=friedlicher sup=friedlichsten
 frisch adj cmp=frischer sup=frischesten
 froh adj cmp=froher sup=frohesten

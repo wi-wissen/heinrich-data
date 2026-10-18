@@ -1,5 +1,6 @@
 Paar noun g=n gen=Paares|Paars pl=Paare note=das Paar (a pair); ein paar (a few) is a determiner in closed/
 Paarreim noun g=m gen=Paarreims|Paarreimes pl=Paarreime
+Pacht noun g=f gen=Pacht pl=Pachten
 Pächter noun g=m gen=Pächters pl=Pächter
 Pächterin noun g=f gen=Pächterin pl=Pächterinnen
 Päckchen noun g=n gen=Päckchens pl=Päckchen
@@ -10,8 +11,10 @@ Paddel noun g=n gen=Paddels pl=Paddel
 Paket noun g=n gen=Pakets|Paketes pl=Pakete
 Pakt noun g=m gen=Pakts|Paktes pl=Pakte
 Palais noun g=n gen=Palais pl=Palais note=des Palais (silent s)
+Paläontologe noun g=m gen=Paläontologen pl=Paläontologen
 Palast noun g=m gen=Palastes|Palasts pl=Paläste
 Palazzo noun g=m gen=Palazzos pl=Palazzi|Palazzos
+Palette noun g=f gen=Palette pl=Paletten
 Palme noun g=f gen=Palme pl=Palmen
 Pampelmuse noun g=f gen=Pampelmuse pl=Pampelmusen
 Panda noun g=m gen=Pandas pl=Pandas
@@ -20,6 +23,7 @@ Panik noun g=f gen=Panik pl=- note=plural not used
 Panne noun g=f gen=Panne pl=Pannen
 Panorama noun g=n gen=Panoramas pl=Panoramen
 Panther noun g=m gen=Panthers pl=Panther
+Pantine noun g=f gen=Pantine pl=Pantinen
 Pantoffel noun g=m gen=Pantoffels pl=Pantoffeln
 Panzer noun g=m gen=Panzers pl=Panzer
 Papa noun g=m gen=Papas pl=Papas
@@ -36,12 +40,14 @@ Parade noun g=f gen=Parade pl=Paraden
 Paradeiser   noun g=m gen=Paradeisers pl=Paradeiser region=AT note=tomato
 Paradies noun g=n gen=Paradieses pl=Paradiese
 Paradoxon noun g=n gen=Paradoxons pl=Paradoxa
+Parallele noun g=f gen=Parallele pl=Parallelen
 Parallelismus noun g=m gen=Parallelismus pl=Parallelismen
 Parallelogramm noun g=n gen=Parallelogramms pl=Parallelogramme
 Parameter noun g=m gen=Parameters pl=Parameter
 Parcours noun g=m gen=Parcours pl=- note=no genitive ending
 Parfüm noun g=n gen=Parfüms|Parfümes pl=Parfüme|Parfüms
 Pariser noun g=m gen=Parisers pl=Pariser note=inhabitant of Paris; also the indeclinable adjective
+Parität noun g=f gen=Parität pl=Paritäten
 Park noun g=m gen=Parks|Parkes[archaic] pl=Parks|Parke[rare]
 Parka noun g=m gen=Parkas pl=Parkas
 Parkett noun g=n gen=Parketts|Parkettes pl=Parkette|Parketts
@@ -77,7 +83,10 @@ Patient noun g=m gen=Patienten pl=Patienten
 Patientin noun g=f gen=Patientin pl=Patientinnen
 Patin noun g=f gen=Patin pl=Patinnen
 Patriarch noun g=m gen=Patriarchen pl=Patriarchen
+Patron noun g=m gen=Patrons pl=Patrone
+Patsch noun g=m gen=Patsch|Patschs|Patsches pl=Patsche
 Pause noun g=f gen=Pause pl=Pausen
+Pausenhof noun g=m gen=Pausenhofs|Pausenhofes pl=Pausenhöfe
 Pavillon noun g=m gen=Pavillons pl=Pavillons
 PC noun g=m gen=PC|PCs pl=PC|PCs
 Pech noun g=n gen=Pechs|Peches pl=- note=bad luck; pitch (rare plural)
@@ -109,9 +118,11 @@ Pest noun g=f gen=Pest pl=- note=no plural
 Pestizid noun g=n gen=Pestizids|Pestizides pl=Pestizide
 Petersilie noun g=f gen=Petersilie pl=- note=no plural
 Petition noun g=f gen=Petition pl=Petitionen
+Petze noun g=f gen=Petze pl=Petzen style=colloquial
 Pfad noun g=m gen=Pfades|Pfads pl=Pfade
 Pfadfinder noun g=m gen=Pfadfinders pl=Pfadfinder
 Pfadfinderin noun g=f gen=Pfadfinderin pl=Pfadfinderinnen
+Pfahl noun g=m gen=Pfahls|Pfahles pl=Pfähle
 Pfand noun g=n gen=Pfands|Pfandes pl=Pfänder
 Pfanne noun g=f gen=Pfanne pl=Pfannen
 Pfannenwender noun g=m gen=Pfannenwenders pl=Pfannenwender
@@ -130,6 +141,7 @@ Pfeiler noun g=m gen=Pfeilers pl=Pfeiler
 Pfennig noun g=m gen=Pfennigs|Pfennig pl=Pfennige|Pfennig
 Pferd noun g=n gen=Pferdes|Pferds pl=Pferde
 Pfiff noun g=m gen=Pfiffs|Pfiffes pl=Pfiffe
+Pfifferling noun g=m gen=Pfifferlings pl=Pfifferlinge
 Pfingsten noun g=n gen=Pfingstens pl=- note=no plural
 Pfingstferien noun g=pl
 Pfirsich noun g=m gen=Pfirsichs pl=Pfirsiche
@@ -145,12 +157,15 @@ Pfleger noun g=m gen=Pflegers pl=Pfleger
 Pflegerin noun g=f gen=Pflegerin pl=Pflegerinnen
 Pflegeversicherung noun g=f gen=Pflegeversicherung pl=Pflegeversicherungen
 Pflicht noun g=f gen=Pflicht pl=Pflichten
+Pflug noun g=m gen=Pflugs|Pfluges pl=Pflüge
 Pforte noun g=f gen=Pforte pl=Pforten
+Pfosten noun g=m gen=Pfostens pl=Pfosten
 Pfote noun g=f gen=Pfote pl=Pfoten
 Pfund noun g=n gen=Pfundes|Pfunds pl=Pfund|Pfunde
 Pfütze noun g=f gen=Pfütze pl=Pfützen
 Phänomen noun g=n gen=Phänomens pl=Phänomene
 Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
+Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
 Phase noun g=f gen=Phase pl=Phasen
 Philologe noun g=m gen=Philologen pl=Philologen
@@ -169,12 +184,14 @@ Physiologie noun g=f gen=Physiologie pl=- note=mass noun
 Pianist noun g=m gen=Pianisten pl=Pianisten
 Pianistin noun g=f gen=Pianistin pl=Pianistinnen
 Piano noun g=n gen=Pianos pl=Pianos
+Piaster noun g=m gen=Piasters pl=Piaster
 Pickel noun g=m gen=Pickels pl=Pickel
 Picknick noun g=n gen=Picknicks pl=Picknicks
 Piercing noun g=n gen=Piercings pl=Piercings
 Pilates noun g=n gen=Pilates pl=- note=no genitive ending
 Pilger noun g=m gen=Pilgers pl=Pilger
 Pilgerin noun g=f gen=Pilgerin pl=Pilgerinnen
+Pille noun g=f gen=Pille pl=Pillen
 Pilot noun g=m gen=Piloten pl=Piloten
 Pilotin noun g=f gen=Pilotin pl=Pilotinnen
 Pilz noun g=m gen=Pilzes pl=Pilze
@@ -186,16 +203,21 @@ Pionier noun g=m gen=Pioniers pl=Pioniere
 Pionierin noun g=f gen=Pionierin pl=Pionierinnen
 Pipette noun g=f gen=Pipette pl=Pipetten
 Pirat noun g=m gen=Piraten pl=Piraten
+Piraterie noun g=f gen=Piraterie pl=- note=no plural
 Piratin noun g=f gen=Piratin pl=Piratinnen
+Pistazie noun g=f gen=Pistazie pl=Pistazien
 Piste noun g=f gen=Piste pl=Pisten
 Pistole noun g=f gen=Pistole pl=Pistolen
 Pizza        noun g=f gen=Pizza pl=Pizzas|Pizzen
+Pizzeria noun g=f gen=Pizzeria pl=Pizzerien|Pizzerias
 Pkw noun g=m gen=Pkw|Pkws pl=Pkw|Pkws
 Plagiat noun g=n gen=Plagiats|Plagiates pl=Plagiate
 Plakat noun g=n gen=Plakats|Plakates pl=Plakate
+Plakette noun g=f gen=Plakette pl=Plaketten
 Plan noun g=m gen=Plans|Planes pl=Pläne
 Planet noun g=m gen=Planeten pl=Planeten
 Planung noun g=f gen=Planung pl=Planungen
+Plasma noun g=n gen=Plasmas pl=Plasmen
 Plastik noun g=n gen=Plastiks pl=- sense=plastic note=material; mass noun
 Plastik noun g=f gen=Plastik pl=Plastiken sense=sculpture
 Plastikmüll noun g=m gen=Plastikmülls pl=- note=no plural
@@ -215,8 +237,10 @@ Plural noun g=m gen=Plurals pl=Plurale
 Plus noun g=n gen=Plus pl=- note=das Plus; des Plus (bare genitive); mostly singular
 Plüschtier noun g=n gen=Plüschtiers|Plüschtieres pl=Plüschtiere
 Plusquamperfekt noun g=n gen=Plusquamperfekts pl=Plusquamperfekte
+Pöbel noun g=m gen=Pöbels pl=- note=no plural
 Podcast noun g=m gen=Podcasts pl=Podcasts
 Podest noun g=n gen=Podests|Podestes pl=Podeste
+Podium noun g=n gen=Podiums pl=Podien
 Poesie noun g=f gen=Poesie pl=Poesien
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
@@ -232,6 +256,7 @@ Polizist noun g=m gen=Polizisten pl=Polizisten
 Polizistin noun g=f gen=Polizistin pl=Polizistinnen
 Polkappe noun g=f gen=Polkappe pl=Polkappen
 Pollen noun g=m gen=Pollens pl=Pollen
+Polster noun g=n gen=Polsters pl=Polster
 Pommes noun g=pl
 Poncho noun g=m gen=Ponchos pl=Ponchos
 Pony noun g=m gen=Ponys pl=Ponys sense=fringe note=der Pony: hairstyle
@@ -255,6 +280,7 @@ Portion noun g=f gen=Portion pl=Portionen
 Porto noun g=n gen=Portos pl=Portos|Porti
 Porträt noun g=n gen=Porträts pl=Porträts|Porträte[rare]
 Portugiese noun g=m gen=Portugiesen pl=Portugiesen
+Porzellan noun g=n gen=Porzellans pl=Porzellane
 Posaune noun g=f gen=Posaune pl=Posaunen
 Pose noun g=f gen=Pose pl=Posen
 Position noun g=f gen=Position pl=Positionen
@@ -270,10 +296,12 @@ Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzi
 Potenz noun g=f gen=Potenz pl=Potenzen
 Potenzial noun g=n gen=Potenzials pl=Potenziale
 Potsdamer noun g=m gen=Potsdamers pl=Potsdamer note=inhabitant of Potsdam
+Powerbank noun g=f gen=Powerbank pl=Powerbanks
 Powiat noun g=m gen=Powiats pl=Powiate conf=85 note=Polish administrative district
 Pracht noun g=f gen=Pracht pl=- note=mass noun
 Prädikat noun g=n gen=Prädikats|Prädikates pl=Prädikate
 Prädikativ noun g=n gen=Prädikativs pl=Prädikative
+Präfekt noun g=m gen=Präfekten pl=Präfekten
 Präfektur noun g=f gen=Präfektur pl=Präfekturen
 Präfix noun g=n gen=Präfixes pl=Präfixe
 Prager noun g=m gen=Pragers pl=Prager note=inhabitant of Prague; also the indeclinable adjective
@@ -285,6 +313,7 @@ Praktikum noun g=n gen=Praktikums pl=Praktika|Praktiken
 Praline noun g=f gen=Praline pl=Pralinen
 Prämie noun g=f gen=Prämie pl=Prämien
 Pranke noun g=f gen=Pranke pl=Pranken
+Präparat noun g=n gen=Präparats|Präparates pl=Präparate
 Präposition noun g=f gen=Präposition pl=Präpositionen
 Präpositionalobjekt noun g=n gen=Präpositionalobjekts|Präpositionalobjektes pl=Präpositionalobjekte
 Präsens noun g=n gen=Präsens pl=Präsentia
@@ -324,6 +353,7 @@ Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
 Produktion noun g=f gen=Produktion pl=Produktionen
+Produktivität noun g=f gen=Produktivität pl=- note=no plural
 Produzent noun g=m gen=Produzenten pl=Produzenten
 Produzentin noun g=f gen=Produzentin pl=Produzentinnen
 Professor noun g=m gen=Professors pl=Professoren
@@ -339,6 +369,7 @@ Programmiersprache noun g=f gen=Programmiersprache pl=Programmiersprachen
 Programmierung noun g=f gen=Programmierung pl=Programmierungen
 Progression noun g=f gen=Progression pl=Progressionen
 Projekt noun g=n gen=Projekts|Projektes pl=Projekte
+Projektion noun g=f gen=Projektion pl=Projektionen
 Projektor noun g=m gen=Projektors pl=Projektoren
 Prolog noun g=m gen=Prologs pl=Prologe
 Promenade noun g=f gen=Promenade pl=Promenaden
@@ -364,11 +395,13 @@ Proviant noun g=m gen=Proviants pl=Proviante
 Provinz noun g=f gen=Provinz pl=Provinzen
 Prozent noun g=n gen=Prozents|Prozentes pl=Prozent|Prozente
 Prozess noun g=m gen=Prozesses pl=Prozesse
+Prozession noun g=f gen=Prozession pl=Prozessionen
 Prüfer noun g=m gen=Prüfers pl=Prüfer
 Prüferin noun g=f gen=Prüferin pl=Prüferinnen
 Prüfling noun g=m gen=Prüflings pl=Prüflinge
 Prüfung noun g=f gen=Prüfung pl=Prüfungen
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
+Psalm noun g=m gen=Psalms pl=Psalmen
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
 Psychiater noun g=m gen=Psychiaters pl=Psychiater
 Psychiaterin noun g=f gen=Psychiaterin pl=Psychiaterinnen
@@ -397,7 +430,9 @@ Punkt noun g=m gen=Punktes|Punkts pl=Punkte
 Pünktlichkeit noun g=f gen=Pünktlichkeit pl=- note=no plural (mass or abstract noun)
 Pupille noun g=f gen=Pupille pl=Pupillen
 Puppe noun g=f gen=Puppe pl=Puppen
+Puschel noun g=m gen=Puschels pl=Puschel
 Pute noun g=f gen=Pute pl=Puten
+Putsch noun g=m gen=Putsches|Putschs pl=Putsche
 Putz noun g=m gen=Putzes pl=- note=plaster; mass noun
 Puzzle noun g=n gen=Puzzles pl=Puzzles|Puzzle
 Pyjama noun g=m gen=Pyjamas pl=Pyjamas

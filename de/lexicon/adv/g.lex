@@ -1,4 +1,5 @@
 gänzlich adv
+geradeaus adv type=direction
 geradezu adv
 gern         adv cmp=lieber sup=liebsten
 gerne adv cmp=lieber sup=liebsten

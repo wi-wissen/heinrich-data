@@ -44,6 +44,7 @@ schottisch adj
 schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
 schriftlich adj
+schroff adj cmp=schroffer sup=schroffsten
 schüchtern adj cmp=schüchterner sup=schüchternsten
 schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld
 schuldig adj
@@ -64,8 +65,10 @@ schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
 seelisch adj
+sehnlich adj
 seitlich adj
 selbständig adj cmp=selbständiger sup=selbständigsten
+selbstbestimmt adj
 selbstständig adj cmp=selbstständiger sup=selbstständigsten
 selbstverständlich adj
 selig adj cmp=seliger sup=seligsten
@@ -104,6 +107,7 @@ sonstig adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
 sorglos adj cmp=sorgloser sup=sorglosesten
 sorgsam adj cmp=sorgsamer sup=sorgsamsten
+souverän adj
 sowjetisch adj
 sozial adj
 sozialistisch adj
@@ -115,8 +119,11 @@ spaßig adj cmp=spaßiger sup=spaßigsten
 spät adj cmp=später sup=spätesten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
+spießbürgerlich adj
 spitz adj cmp=spitzer sup=spitzesten
 spitze adj indecl
+spontan adj
+sporadisch adj
 sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
 sprachlich adj
@@ -142,6 +149,7 @@ stichhaltig adj cmp=stichhaltiger sup=stichhaltigsten
 stickig adj cmp=stickiger sup=stickigsten
 stilistisch adj
 still adj cmp=stiller sup=stillsten
+stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
@@ -151,6 +159,7 @@ streng adj cmp=strenger sup=strengsten
 strikt adj cmp=strikter sup=striktesten
 strittig adj
 strukturell adj
+strukturiert adj cmp=strukturierter sup=strukturiertesten
 struppig adj cmp=struppiger sup=struppigsten
 stumm adj cmp=stummer sup=stummsten
 stumpf adj cmp=stumpfer sup=stumpfsten

@@ -18,6 +18,7 @@ inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl;
 innerlich adj
 innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
+integrativ adj
 intensiv adj cmp=intensiver sup=intensivsten
 interaktiv adj
 interessant adj cmp=interessanter sup=interessantesten
@@ -28,6 +29,7 @@ intolerant adj
 intransitiv adj
 irakisch adj
 iranisch adj
+irden adj
 irdisch adj
 irisch adj
 ironisch adj cmp=ironischer sup=ironischsten

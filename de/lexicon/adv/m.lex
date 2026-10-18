@@ -4,5 +4,6 @@ meist adv
 meistens adv
 minder adv
 mitten adv
+mittendrin adv type=place
 mitunter adv
 möglichst adv

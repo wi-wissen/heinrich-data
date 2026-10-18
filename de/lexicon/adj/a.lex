@@ -10,6 +10,7 @@ absichtlich adj
 absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
+abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
 adlig adj cmp=adliger sup=adligsten
 afghanisch adj
@@ -31,6 +32,7 @@ allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
 allmählich adj
+allmonatlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
 alpin adj
 alt          adj cmp=älter sup=ältesten
@@ -47,6 +49,7 @@ anfänglich adj
 angeblich adj
 angemessen    adj cmp=angemessener sup=angemessensten
 angenehm adj cmp=angenehmer sup=angenehmsten
+angeschlagen adj
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj

@@ -8,6 +8,7 @@ dämpfen verb class=weak pp=gedämpft perf=haben
 danken        verb class=weak pp=gedankt perf=haben
 darlegen verb class=weak sep=dar pp=dargelegt perf=haben
 darstellen    verb class=weak sep=dar pp=dargestellt perf=haben
+dastehen verb class=strong sep=da 3sg=dasteht past=dastand pp=dagestanden subj2=dastünde|dastände perf=haben|sein
 datieren verb class=weak pp=datiert perf=haben
 dauern verb class=weak pp=gedauert perf=haben
 davoneilen verb class=weak sep=davon pp=davongeeilt perf=sein
@@ -48,10 +49,13 @@ debütieren verb class=weak pp=debütiert perf=haben
 decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
+deinstallieren verb class=weak pp=deinstalliert perf=haben
 dekorieren verb class=weak pp=dekoriert perf=haben
 demonstrieren verb class=weak pp=demonstriert perf=haben
+demütigen verb class=weak pp=gedemütigt perf=haben
 denken        verb class=mixed 3sg=denkt past=dachte pp=gedacht subj2=dächte perf=haben
 deportieren verb class=weak pp=deportiert perf=haben
+destillieren verb class=weak pp=destilliert perf=haben
 detaillieren verb class=weak pp=detailliert perf=haben
 deuten verb class=weak pp=gedeutet perf=haben
 dichten verb class=weak pp=gedichtet perf=haben
@@ -69,6 +73,7 @@ dösen verb class=weak pp=gedöst perf=haben
 downloaden verb class=weak pp=gedownloadet perf=haben
 drängeln verb class=weak pp=gedrängelt perf=haben
 drängen verb class=weak pp=gedrängt perf=haben|sein refl=acc
+drangsalieren verb class=weak pp=drangsaliert perf=haben
 drankommen verb class=strong sep=dran 3sg=drankommt past=drankam pp=drangekommen subj2=drankäme perf=sein
 drehen verb class=weak pp=gedreht perf=haben refl=acc
 dressieren verb class=weak pp=dressiert perf=haben

@@ -45,6 +45,7 @@ witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
 wohlriechend adj
+wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
 wolkig adj cmp=wolkiger sup=wolkigsten
 wörtlich adj
 wund adj cmp=wunder sup=wundesten
@@ -55,4 +56,5 @@ würdevoll adj
 würdig adj cmp=würdiger sup=würdigsten
 württembergisch adj
 würzig adj cmp=würziger sup=würzigsten
+wüst adj cmp=wüster sup=wüstesten
 wütend adj cmp=wütender sup=wütendsten

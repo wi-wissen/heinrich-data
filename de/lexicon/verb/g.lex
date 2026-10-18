@@ -18,6 +18,7 @@ gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele pe
 gefrieren verb class=strong 3sg=gefriert past=gefror pp=gefroren subj2=gefröre perf=sein
 gegenüberliegen verb class=strong sep=gegenüber 3sg=gegenüberliegt past=gegenüberlag pp=gegenübergelegen subj2=gegenüberläge perf=haben|sein
 gegenüberstehen verb class=strong sep=gegenüber 3sg=gegenübersteht past=gegenüberstand subj2=gegenüberstünde|gegenüberstände pp=gegenübergestanden perf=haben|sein
+gegenüberstellen verb class=weak sep=gegenüber pp=gegenübergestellt perf=haben
 gehen verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge perf=sein
 gehorchen verb class=weak pp=gehorcht perf=haben
 gehören verb class=weak pp=gehört perf=haben
@@ -27,11 +28,14 @@ gelangen verb class=weak pp=gelangt perf=sein
 gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein pp_cmp
 gelten verb class=strong 3sg=gilt past=galt pp=gegolten subj2=gälte|gölte perf=haben
 genehmigen verb class=weak pp=genehmigt perf=haben
+generieren verb class=weak pp=generiert perf=haben
 genesen verb class=strong 3sg=genest past=genas pp=genesen subj2=genäse perf=sein
 genießen verb class=strong 3sg=genießt past=genoss pp=genossen subj2=genösse perf=haben
 genügen verb class=weak pp=genügt perf=haben
 geraten verb class=strong 3sg=gerät past=geriet pp=geraten subj2=geriete perf=sein
+gerinnen verb class=strong 3sg=gerinnt past=gerann pp=geronnen subj2=gerönne|geränne perf=sein
 geschehen verb class=strong 3sg=geschieht past=geschah pp=geschehen subj2=geschähe perf=sein
+gesellen verb class=weak pp=gesellt perf=haben refl=acc
 gestalten verb class=weak pp=gestaltet perf=haben refl=acc
 gestatten verb class=weak pp=gestattet perf=haben
 gestehen verb class=strong 3sg=gesteht past=gestand pp=gestanden subj2=gestünde|gestände perf=haben
@@ -54,6 +58,7 @@ gliedern verb class=weak pp=gegliedert perf=haben refl=acc
 glimmen verb class=weak past=glimmte|glomm pp=geglimmt|geglommen perf=haben
 glitzern verb class=weak pp=geglitzert perf=haben
 glotzen verb class=weak pp=geglotzt perf=haben
+glücken verb class=weak pp=geglückt perf=sein
 gluckern verb class=weak pp=gegluckert perf=haben
 glucksen verb class=weak pp=gegluckst perf=haben
 glühen verb class=weak pp=geglüht perf=haben
@@ -62,6 +67,8 @@ googeln verb class=weak pp=gegoogelt perf=haben
 graben verb class=strong 3sg=gräbt past=grub pp=gegraben subj2=grübe perf=haben
 grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
+grauen verb class=weak pp=gegraut perf=haben note=es graut mir vor; der Morgen graut
+graulen verb class=weak pp=gegrault perf=haben refl=acc note=sich graulen; jemanden herausgraulen
 greifen verb class=strong 3sg=greift past=griff pp=gegriffen subj2=griffe perf=haben
 grenzen verb class=weak pp=gegrenzt perf=haben
 grillen verb class=weak pp=gegrillt perf=haben

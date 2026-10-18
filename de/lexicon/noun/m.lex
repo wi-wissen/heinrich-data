@@ -1,7 +1,9 @@
 Macht noun g=f gen=Macht pl=Mächte
 Machtergreifung noun g=f gen=Machtergreifung pl=Machtergreifungen
+Machthaber noun g=m gen=Machthabers pl=Machthaber
 Macke noun g=f gen=Macke pl=Macken style=colloquial
 Mädchen noun g=n gen=Mädchens pl=Mädchen
+Made noun g=f gen=Made pl=Maden
 Mädel noun g=n gen=Mädels pl=Mädel|Mädels style=colloquial
 Madonna noun g=f gen=Madonna pl=Madonnen
 Magazin noun g=n gen=Magazins pl=Magazine
@@ -11,6 +13,7 @@ Magen noun g=m gen=Magens pl=Mägen|Magen
 Magier noun g=m gen=Magiers pl=Magier
 Magierin noun g=f gen=Magierin pl=Magierinnen
 Magister noun g=m gen=Magisters pl=Magister
+Magistrat noun g=m gen=Magistrats|Magistrates pl=Magistrate
 Magma noun g=n gen=Magmas pl=Magmen
 Magnet noun g=m gen=Magnets|Magnetes pl=Magnete
 Mahl noun g=n gen=Mahles|Mahls pl=Mähler|Mahle conf=85 note=plural variants Mähler or Mahle
@@ -25,6 +28,7 @@ Majestät noun g=f gen=Majestät pl=Majestäten
 Major noun g=m gen=Majors pl=Majore
 Majoran noun g=m gen=Majorans pl=Majorane
 Make-up noun g=n gen=Make-ups pl=Make-ups
+Makler noun g=m gen=Maklers pl=Makler
 Mal noun g=n gen=Mals|Males pl=Male
 Maler noun g=m gen=Malers pl=Maler
 Malerei noun g=f gen=Malerei pl=Malereien
@@ -114,7 +118,9 @@ Mäuschen noun g=n gen=Mäuschens pl=Mäuschen
 Maut noun g=f gen=Maut pl=Mauten
 Maxime noun g=f gen=Maxime pl=Maximen
 Maximum noun g=n gen=Maximums pl=Maxima
+Mayo noun g=f gen=Mayo pl=- style=colloquial note=short for Mayonnaise
 Mayonnaise noun g=f gen=Mayonnaise pl=Mayonnaisen
+Mäzen noun g=m gen=Mäzens pl=Mäzene
 Mechanik noun g=f gen=Mechanik pl=Mechaniken note=plural rare
 Mechaniker noun g=m gen=Mechanikers pl=Mechaniker
 Mechanikerin noun g=f gen=Mechanikerin pl=Mechanikerinnen
@@ -161,11 +167,13 @@ Merkmal noun g=n gen=Merkmals|Merkmales pl=Merkmale
 Messe noun g=f gen=Messe pl=Messen
 Messenger noun g=m gen=Messengers pl=Messenger
 Messer noun g=n gen=Messers pl=Messer
+Messias noun g=m gen=Messias pl=Messiasse conf=85 note=des Messias; plural rare
 Messung noun g=f gen=Messung pl=Messungen
 Metall noun g=n gen=Metalls pl=Metalle
 Metamorphose noun g=f gen=Metamorphose pl=Metamorphosen
 Metapher noun g=f gen=Metapher pl=Metaphern
 Metaphysik noun g=f gen=Metaphysik pl=- note=mass noun
+Meteor noun g=m gen=Meteors pl=Meteore
 Meteorit noun g=m gen=Meteoriten pl=Meteoriten
 Meteorologe noun g=m gen=Meteorologen pl=Meteorologen
 Meteorologin noun g=f gen=Meteorologin pl=Meteorologinnen
@@ -239,6 +247,7 @@ Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
+Mitschüler noun g=m gen=Mitschülers pl=Mitschüler
 Mitschülerin noun g=f gen=Mitschülerin pl=Mitschülerinnen
 Mitspieler noun g=m gen=Mitspielers pl=Mitspieler
 Mitspielerin noun g=f gen=Mitspielerin pl=Mitspielerinnen
@@ -274,6 +283,7 @@ Möglichkeit noun g=f gen=Möglichkeit pl=Möglichkeiten
 Möglichkeitsform noun g=f gen=Möglichkeitsform pl=Möglichkeitsformen
 Mohn noun g=m gen=Mohnes|Mohns pl=- note=no plural
 Möhre noun g=f gen=Möhre pl=Möhren
+Molch noun g=m gen=Molchs|Molches pl=Molche
 Molekül noun g=n gen=Moleküls pl=Moleküle
 Moll noun g=n gen=Molls pl=- note=minor key
 Moment noun g=m gen=Moments|Momentes pl=Momente
@@ -300,7 +310,9 @@ Mörder noun g=m gen=Mörders pl=Mörder
 Mörderin noun g=f gen=Mörderin pl=Mörderinnen
 Morgen noun g=m gen=Morgens pl=Morgen sense=area note=old unit of land area
 Morgen noun g=m gen=Morgens pl=Morgen sense=daytime
+Morgengrauen noun g=n gen=Morgengrauens pl=- note=no plural
 Morgenmuffel noun g=m gen=Morgenmuffels pl=Morgenmuffel
+Morgenröte noun g=f gen=Morgenröte pl=- note=no plural
 Moschee noun g=f gen=Moschee pl=Moscheen
 Moskauer noun g=m gen=Moskauers pl=Moskauer note=inhabitant of Moscow; also the indeclinable adjective
 Most noun g=m gen=Mostes|Mosts pl=Moste
@@ -313,6 +325,7 @@ Mountainbike noun g=n gen=Mountainbikes pl=Mountainbikes
 Möwe noun g=f gen=Möwe pl=Möwen
 Mücke noun g=f gen=Mücke pl=Mücken
 Müdigkeit noun g=f gen=Müdigkeit pl=- note=abstract noun
+Muffin noun g=m gen=Muffins pl=Muffins
 Mufflon noun g=m gen=Mufflons pl=Mufflons
 Mühe noun g=f gen=Mühe pl=Mühen
 Mühle noun g=f gen=Mühle pl=Mühlen
@@ -331,6 +344,7 @@ Mülltrennung noun g=f gen=Mülltrennung pl=- note=no plural
 Müllverbrennung noun g=f gen=Müllverbrennung pl=Müllverbrennungen
 Multiplikation noun g=f gen=Multiplikation pl=Multiplikationen
 Mumie noun g=f gen=Mumie pl=Mumien
+Mummel noun g=f gen=Mummel pl=Mummeln conf=75 note=Mummel = Teichrose
 Mumps noun g=m gen=Mumps pl=- note=mass noun
 Münchener noun g=m gen=Münchener|Müncheners pl=Münchener note=inhabitant of Munich
 Münchner noun g=m gen=Münchners pl=Münchner note=inhabitant of Munich; also the indeclinable adjective
@@ -356,6 +370,7 @@ Muslim noun g=m gen=Muslims pl=Muslime
 Muslimin noun g=f gen=Muslimin pl=Musliminnen
 Muster noun g=n gen=Musters pl=Muster
 Mut noun g=m gen=Mutes|Muts pl=- note=plural not used
+Mutation noun g=f gen=Mutation pl=Mutationen
 Mutter       noun g=f gen=Mutter pl=Mütter sense=parent
 Mutter       noun g=f gen=Mutter pl=Muttern sense=nut note=Schraubenmutter
 Mütterchen noun g=n gen=Mütterchens pl=Mütterchen

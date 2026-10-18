@@ -23,6 +23,7 @@ kippen verb class=weak pp=gekippt perf=haben|sein
 kitzeln verb class=weak pp=gekitzelt perf=haben
 kläffen verb class=weak pp=gekläfft perf=haben
 klagen verb class=weak pp=geklagt perf=haben
+klappern verb class=weak pp=geklappert perf=haben
 klären verb class=weak pp=geklärt perf=haben refl=acc
 klarmachen verb class=weak sep=klar pp=klargemacht perf=haben
 klarstellen verb class=weak sep=klar pp=klargestellt perf=haben
@@ -57,6 +58,8 @@ knobeln verb class=weak pp=geknobelt perf=haben
 knoten verb class=weak pp=geknotet perf=haben
 knüpfen verb class=weak pp=geknüpft perf=haben
 knurren verb class=weak pp=geknurrt perf=haben
+knutschen verb class=weak pp=geknutscht perf=haben style=colloquial
+köcheln verb class=weak pp=geköchelt perf=haben
 kochen verb class=weak pp=gekocht perf=haben
 kollabieren verb class=weak pp=kollabiert perf=sein
 kollidieren verb class=weak pp=kollidiert perf=sein
@@ -65,13 +68,17 @@ kommandieren verb class=weak pp=kommandiert perf=haben
 kommen       verb class=strong 3sg=kommt|kömmt[old] past=kam pp=gekommen subj2=käme perf=sein
 kommentieren verb class=weak pp=kommentiert perf=haben
 kommunizieren verb class=weak pp=kommuniziert perf=haben
+kompensieren verb class=weak pp=kompensiert perf=haben
 komponieren verb class=weak pp=komponiert perf=haben
+kondensieren verb class=weak pp=kondensiert perf=haben|sein
+kondolieren verb class=weak pp=kondoliert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
 konzentrieren verb class=weak pp=konzentriert perf=haben refl=acc
 konzipieren verb class=weak pp=konzipiert perf=haben
+kooperieren verb class=weak pp=kooperiert perf=haben
 koordinieren verb class=weak pp=koordiniert perf=haben
 köpfen verb class=weak pp=geköpft perf=haben
 kopieren verb class=weak pp=kopiert perf=haben
@@ -84,19 +91,23 @@ krächzen verb class=weak pp=gekrächzt perf=haben
 krähen verb class=weak pp=gekräht perf=haben
 krakeln verb class=weak pp=gekrakelt perf=haben
 kränkeln verb class=weak pp=gekränkelt perf=haben
+kränken verb class=weak pp=gekränkt perf=haben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kraulen verb class=weak pp=gekrault perf=haben
 kreischen verb class=weak pp=gekreischt perf=haben
+kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
 kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
 kriegen verb class=weak pp=gekriegt perf=haben
 kritisieren verb class=weak pp=kritisiert perf=haben
+kritteln verb class=weak pp=gekrittelt perf=haben
 kritzeln verb class=weak pp=gekritzelt perf=haben
 krönen verb class=weak pp=gekrönt perf=haben
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
+kupieren verb class=weak pp=kupiert perf=haben
 kurieren verb class=weak pp=kuriert perf=haben
 kurven verb class=weak pp=gekurvt perf=sein
 kürzen verb class=weak pp=gekürzt perf=haben

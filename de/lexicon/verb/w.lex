@@ -8,6 +8,9 @@ wagen verb class=weak pp=gewagt perf=haben refl=acc
 wählen verb class=weak pp=gewählt perf=haben
 wahren verb class=weak pp=gewahrt perf=haben
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
+walken verb class=weak pp=gewalkt perf=haben|sein
+walten verb class=weak pp=gewaltet perf=haben
+walzen verb class=weak pp=gewalzt perf=haben|sein
 wälzen verb class=weak pp=gewälzt perf=haben refl=acc
 wandern      verb class=weak pp=gewandert perf=sein
 wanken verb class=weak pp=gewankt perf=haben|sein
@@ -138,6 +141,7 @@ werfen verb class=strong 3sg=wirft past=warf pp=geworfen subj2=würfe perf=haben
 werkeln verb class=weak pp=gewerkelt perf=haben
 werten verb class=weak pp=gewertet perf=haben
 wetten verb class=weak pp=gewettet perf=haben
+whatsappen verb class=weak pp=gewhatsappt perf=haben style=colloquial
 wickeln verb class=weak pp=gewickelt perf=haben
 widerfahren verb class=strong 3sg=widerfährt past=widerfuhr subj2=widerführe pp=widerfahren perf=sein
 widerhallen verb class=weak sep=wider pp=widergehallt perf=haben note=separable: es hallt wider, widergehallt
@@ -190,6 +194,7 @@ wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp
 wohnen verb class=weak pp=gewohnt perf=haben
 wringen verb class=strong 3sg=wringt past=wrang pp=gewrungen subj2=wränge perf=haben
 wuchern verb class=weak pp=gewuchert perf=haben|sein
+wuchten verb class=weak pp=gewuchtet perf=haben
 wühlen verb class=weak pp=gewühlt perf=haben
 wundern verb class=weak pp=gewundert perf=haben refl=acc
 wünschen verb class=weak pp=gewünscht perf=haben

@@ -5,6 +5,7 @@ zanken verb class=weak pp=gezankt perf=haben refl=acc
 zappeln verb class=weak pp=gezappelt perf=haben
 zappen verb class=weak pp=gezappt perf=haben
 zaubern verb class=weak pp=gezaubert perf=haben
+zechen verb class=weak pp=gezecht perf=haben
 zeichnen verb class=weak pp=gezeichnet perf=haben
 zeigen verb class=weak pp=gezeigt perf=haben refl=acc
 zelten verb class=weak pp=gezeltet perf=haben
@@ -69,6 +70,7 @@ zitieren verb class=weak pp=zitiert perf=haben
 zittern verb class=weak pp=gezittert perf=haben
 zocken verb class=weak pp=gezockt perf=haben
 zögern verb class=weak pp=gezögert perf=haben
+zoomen verb class=weak pp=gezoomt perf=haben
 zubereiten verb class=weak pp=zubereitet perf=haben sep=zu
 zubinden verb class=strong sep=zu 3sg=zubindet past=zuband pp=zugebunden subj2=zubände perf=haben
 zubringen verb class=mixed sep=zu 3sg=zubringt past=zubrachte pp=zugebracht subj2=zubrächte perf=haben
@@ -107,10 +109,12 @@ zunicken verb class=weak sep=zu pp=zugenickt perf=haben
 zuordnen verb class=weak sep=zu pp=zugeordnet perf=haben
 zupacken verb class=weak sep=zu pp=zugepackt perf=haben
 zupfen verb class=weak pp=gezupft perf=haben
+zuprosten verb class=weak sep=zu pp=zugeprostet perf=haben
 zuraunen verb class=weak sep=zu pp=zugeraunt perf=haben
 zurechnen verb class=weak sep=zu pp=zugerechnet perf=haben
 zureden verb class=weak sep=zu pp=zugeredet perf=haben
 zurichten verb class=weak sep=zu pp=zugerichtet perf=haben
+zürnen verb class=weak pp=gezürnt perf=haben
 zurückbekommen verb class=strong sep=zurück 3sg=zurückbekommt past=zurückbekam subj2=zurückbekäme pp=zurückbekommen perf=haben
 zurückblättern verb class=weak sep=zurück pp=zurückgeblättert perf=haben
 zurückbleiben verb class=strong sep=zurück 3sg=zurückbleibt past=zurückblieb subj2=zurückbliebe pp=zurückgeblieben perf=sein
@@ -125,6 +129,7 @@ zurückfahren verb class=strong sep=zurück 3sg=zurückfährt past=zurückfuhr s
 zurückfallen verb class=strong sep=zurück 3sg=zurückfällt past=zurückfiel subj2=zurückfiele pp=zurückgefallen perf=sein
 zurückfinden verb class=strong sep=zurück 3sg=zurückfindet past=zurückfand subj2=zurückfände pp=zurückgefunden perf=haben
 zurückfliegen verb class=strong sep=zurück 3sg=zurückfliegt past=zurückflog subj2=zurückflöge pp=zurückgeflogen perf=sein
+zurückfragen verb class=weak sep=zurück pp=zurückgefragt perf=haben
 zurückführen verb class=weak sep=zurück pp=zurückgeführt perf=haben
 zurückgeben verb class=strong sep=zurück 3sg=zurückgibt past=zurückgab pp=zurückgegeben subj2=zurückgäbe perf=haben
 zurückgehen verb class=strong sep=zurück 3sg=zurückgeht past=zurückging pp=zurückgegangen subj2=zurückginge perf=sein
@@ -186,7 +191,9 @@ zusammendrücken verb class=weak sep=zusammen pp=zusammengedrückt perf=haben
 zusammenfallen verb class=strong sep=zusammen 3sg=zusammenfällt past=zusammenfiel subj2=zusammenfiele pp=zusammengefallen perf=sein
 zusammenfalten verb class=weak sep=zusammen pp=zusammengefaltet perf=haben
 zusammenfassen verb class=weak sep=zusammen pp=zusammengefasst perf=haben
+zusammenfügen verb class=weak sep=zusammen pp=zusammengefügt perf=haben
 zusammenführen verb class=weak sep=zusammen pp=zusammengeführt perf=haben
+zusammengehören verb class=weak sep=zusammen pp=zusammengehört perf=haben
 zusammenhalten verb class=strong sep=zusammen 3sg=zusammenhält past=zusammenhielt subj2=zusammenhielte pp=zusammengehalten perf=haben
 zusammenhängen verb class=strong sep=zusammen 3sg=zusammenhängt past=zusammenhing pp=zusammengehangen subj2=zusammenhinge perf=haben
 zusammenklappen verb class=weak sep=zusammen pp=zusammengeklappt perf=haben|sein
@@ -232,6 +239,7 @@ zuschreiben verb class=strong sep=zu 3sg=zuschreibt past=zuschrieb pp=zugeschrie
 zuschütten verb class=weak sep=zu pp=zugeschüttet perf=haben
 zusehen verb class=strong sep=zu 3sg=zusieht past=zusah pp=zugesehen subj2=zusähe perf=haben
 zusenden verb class=weak sep=zu past=zusendete|zusandte pp=zugesendet|zugesandt perf=haben
+zusetzen verb class=weak sep=zu pp=zugesetzt perf=haben
 zusperren verb class=weak sep=zu pp=zugesperrt perf=haben
 zuspielen verb class=weak sep=zu pp=zugespielt perf=haben
 zuspitzen verb class=weak sep=zu pp=zugespitzt perf=haben refl=acc
@@ -245,9 +253,11 @@ zustoßen verb class=strong sep=zu 3sg=zustößt past=zustieß subj2=zustieße p
 zustreben verb class=weak sep=zu pp=zugestrebt perf=sein
 zuteilen verb class=weak sep=zu pp=zugeteilt perf=haben
 zutragen verb class=strong sep=zu 3sg=zuträgt past=zutrug subj2=zutrüge pp=zugetragen perf=haben refl=acc
+zutrauen verb class=weak sep=zu pp=zugetraut perf=haben
 zutreffen verb class=strong sep=zu 3sg=zutrifft past=zutraf pp=zugetroffen subj2=zuträfe perf=haben
 zutreten verb class=strong sep=zu 3sg=zutritt past=zutrat subj2=zuträte pp=zugetreten perf=haben|sein
 zutrinken verb class=strong sep=zu 3sg=zutrinkt past=zutrank subj2=zutränke pp=zugetrunken perf=haben
+zuvorkommen verb class=strong sep=zuvor 3sg=zuvorkommt past=zuvorkam pp=zuvorgekommen subj2=zuvorkäme perf=sein
 zuwandern verb class=weak sep=zu pp=zugewandert perf=sein
 zuweisen verb class=strong sep=zu 3sg=zuweist past=zuwies pp=zugewiesen subj2=zuwiese perf=haben
 zuwenden verb class=mixed sep=zu 3sg=zuwendet past=zuwandte|zuwendete subj2=zuwendete|zuwandte pp=zugewandt|zugewendet perf=haben refl=acc

@@ -4,16 +4,19 @@ kaiserlich adj
 kalt adj cmp=kälter sup=kältesten
 kanadisch adj
 kaputt adj note=comparison only colloquial (kaputter)
-karg adj cmp=karger sup=kargsten
+karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
+katastrophal adj
 katholisch adj
 kaufmännisch adj
+keck adj cmp=kecker sup=kecksten
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kinderlos adj
 kindgerecht adj cmp=kindgerechter sup=kindgerechtesten
 kindisch adj cmp=kindischer sup=kindischsten
 kindlich adj cmp=kindlicher sup=kindlichsten
 kirchlich adj
+kläglich adj
 klar adj cmp=klarer sup=klarsten
 klasse adj indecl
 klassisch adj
@@ -31,6 +34,7 @@ komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
 kommunal adj
 kommunistisch adj
+kompatibel adj cmp=kompatibler sup=kompatibelsten
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
@@ -42,6 +46,7 @@ konservativ adj cmp=konservativer sup=konservativsten
 konstant adj cmp=konstanter sup=konstantesten
 konstruktiv adj cmp=konstruktiver sup=konstruktivsten
 kontinuierlich adj cmp=kontinuierlicher sup=kontinuierlichsten
+kontraproduktiv adj
 kontrovers adj
 konventionell adj cmp=konventioneller sup=konventionellsten
 konzentriert adj cmp=konzentrierter sup=konzentriertesten
@@ -52,6 +57,7 @@ kostenlos adj
 köstlich adj cmp=köstlicher sup=köstlichsten
 kostspielig adj cmp=kostspieliger sup=kostspieligsten
 kräftig adj cmp=kräftiger sup=kräftigsten
+krampfhaft adj
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
 kränklich adj cmp=kränklicher sup=kränklichsten
 krass adj cmp=krasser sup=krassesten

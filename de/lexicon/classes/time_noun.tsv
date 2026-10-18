@@ -94,3 +94,24 @@ Augenblick	noun	span
 Pause	noun	span
 Frist	noun	span
 Dauer	noun	span
+
+# Batch 005 additions.
+Sonntag	noun	weekday
+Sonnabend	noun	weekday
+Wochenende	noun	span
+Schuljahr	noun	span
+Zeitpunkt	noun	span
+Zeitraum	noun	span
+Feierabend	noun	daytime
+Geburtstag	noun	holiday
+Tagesanbruch	noun	daytime
+Morgengrauen	noun	daytime
+Sommerferien	noun	season
+Herbstferien	noun	season
+Weihnachtsferien	noun	season
+Winterferien	noun	season
+Osterferien	noun	season
+Pfingstferien	noun	season
+Schulferien	noun	season
+Wandertag	noun	span
+Einschulung	noun	span

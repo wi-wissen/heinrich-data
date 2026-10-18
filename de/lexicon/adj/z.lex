@@ -4,6 +4,7 @@ zahm adj cmp=zahmer sup=zahmsten
 zappelig adj cmp=zappeliger sup=zappeligsten
 zart adj cmp=zarter sup=zartesten
 zärtlich adj
+zeitgemäß adj cmp=zeitgemäßer sup=zeitgemäßesten
 zeitgenössisch adj
 zeitig adj cmp=zeitiger sup=zeitigsten
 zeitlich adj
@@ -15,6 +16,7 @@ zerstritten adj
 zickig adj cmp=zickiger sup=zickigsten
 zielführend adj cmp=zielführender sup=zielführendsten
 zielgerichtet adj
+zierig adj conf=75 note=rare
 zierlich adj cmp=zierlicher sup=zierlichsten
 zivil adj
 zögernd adj cmp=zögernder sup=zögerndsten

@@ -1,14 +1,17 @@
 Fabel noun g=f gen=Fabel pl=Fabeln
 Fabrik noun g=f gen=Fabrik pl=Fabriken
+Fabrikant noun g=m gen=Fabrikanten pl=Fabrikanten
 Fach noun g=n gen=Fachs|Faches pl=Fächer
 Facharbeit noun g=f gen=Facharbeit pl=Facharbeiten
 Fachbegriff noun g=m gen=Fachbegriffs|Fachbegriffes pl=Fachbegriffe
 Fächer noun g=m gen=Fächers pl=Fächer sense=fan note=der Fächer; fan (not the plural of das Fach)
 Fachhochschule noun g=f gen=Fachhochschule pl=Fachhochschulen
+Fackel noun g=f gen=Fackel pl=Fackeln
 Faden noun g=m gen=Fadens pl=Fäden
 Fähigkeit noun g=f gen=Fähigkeit pl=Fähigkeiten
 Fahndung noun g=f gen=Fahndung pl=Fahndungen
 Fahne noun g=f gen=Fahne pl=Fahnen
+Fähnrich noun g=m gen=Fähnrichs pl=Fähnriche
 Fahrbahn noun g=f gen=Fahrbahn pl=Fahrbahnen
 Fähre noun g=f gen=Fähre pl=Fähren
 Fahrer noun g=m gen=Fahrers pl=Fahrer
@@ -16,6 +19,7 @@ Fahrerin noun g=f gen=Fahrerin pl=Fahrerinnen
 Fahrgast noun g=m gen=Fahrgasts|Fahrgastes pl=Fahrgäste
 Fahrkarte noun g=f gen=Fahrkarte pl=Fahrkarten
 Fahrkartenautomat noun g=m gen=Fahrkartenautomaten pl=Fahrkartenautomaten
+Fahrlässigkeit noun g=f gen=Fahrlässigkeit pl=- note=no plural
 Fahrlehrer noun g=m gen=Fahrlehrers pl=Fahrlehrer
 Fahrplan noun g=m gen=Fahrplans|Fahrplanes pl=Fahrpläne
 Fahrrad noun g=n gen=Fahrrads|Fahrrades pl=Fahrräder
@@ -23,7 +27,9 @@ Fahrschein noun g=m gen=Fahrscheins|Fahrscheines pl=Fahrscheine
 Fahrschule noun g=f gen=Fahrschule pl=Fahrschulen
 Fahrstuhl noun g=m gen=Fahrstuhls|Fahrstuhles pl=Fahrstühle
 Fahrt noun g=f gen=Fahrt pl=Fahrten
+Fährte noun g=f gen=Fährte pl=Fährten
 Fahrzeug noun g=n gen=Fahrzeugs|Fahrzeuges pl=Fahrzeuge
+Fairness noun g=f gen=Fairness pl=- note=no plural
 Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
 Faktor noun g=m gen=Faktors pl=Faktoren
@@ -42,11 +48,13 @@ Familie noun g=f gen=Familie pl=Familien
 Fan noun g=m gen=Fans pl=Fans
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
+Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
 Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
 Färbung noun g=f gen=Färbung pl=Färbungen
 Farm noun g=f gen=Farm pl=Farmen
+Farmer noun g=m gen=Farmers pl=Farmer
 Farn noun g=m gen=Farnes|Farns pl=Farne
 Färse noun g=f gen=Färse pl=Färsen
 Fasan noun g=m gen=Fasans pl=Fasane|Fasanen
@@ -77,9 +85,11 @@ Fehde noun g=f gen=Fehde pl=Fehden
 Fehler noun g=m gen=Fehlers pl=Fehler
 Fehlerquelle noun g=f gen=Fehlerquelle pl=Fehlerquellen
 Feier noun g=f gen=Feier pl=Feiern
+Feierabend noun g=m gen=Feierabends pl=Feierabende
 Feierlichkeit noun g=f gen=Feierlichkeit pl=Feierlichkeiten
 Feige noun g=f gen=Feige pl=Feigen
 Feigheit noun g=f gen=Feigheit pl=- note=mass noun
+Feigling noun g=m gen=Feiglings pl=Feiglinge
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
@@ -116,6 +126,7 @@ Feststellung noun g=f gen=Feststellung pl=Feststellungen
 Festung noun g=f gen=Festung pl=Festungen
 Fete noun g=f gen=Fete pl=Feten
 Fett noun g=n gen=Fetts|Fettes pl=Fette
+Fetzen noun g=m gen=Fetzens pl=Fetzen
 Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
@@ -150,6 +161,7 @@ Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
+Flanke noun g=f gen=Flanke pl=Flanken
 Flasche noun g=f gen=Flasche pl=Flaschen
 Flaschenöffner noun g=m gen=Flaschenöffners pl=Flaschenöffner
 Flatrate noun g=f gen=Flatrate pl=Flatrates
@@ -164,8 +176,11 @@ Fleischfresser noun g=m gen=Fleischfressers pl=Fleischfresser
 Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Flickzeug noun g=n gen=Flickzeugs|Flickzeuges pl=- note=no plural (mass or abstract noun)
+Flieder noun g=m gen=Flieders pl=Flieder
 Fliege noun g=f gen=Fliege pl=Fliegen
+Flieger noun g=m gen=Fliegers pl=Flieger
 Fliese noun g=f gen=Fliese pl=Fliesen
+Flinte noun g=f gen=Flinte pl=Flinten
 Flip-Flop noun g=m gen=Flip-Flops pl=Flip-Flops
 Flip-Flops noun g=pl
 Flirt noun g=m gen=Flirts pl=Flirts
@@ -201,6 +216,7 @@ Folter noun g=f gen=Folter pl=Foltern
 Fön noun g=m gen=Föns pl=Föne
 Fonds noun g=m gen=Fonds pl=Fonds note=des Fonds; spoken without s
 Fondue noun g=n gen=Fondues pl=Fondues
+Förde noun g=f gen=Förde pl=Förden
 Förderer noun g=m gen=Förderers pl=Förderer
 Fördererin noun g=f gen=Fördererin pl=Fördererinnen
 Förderschule noun g=f gen=Förderschule pl=Förderschulen
@@ -234,6 +250,7 @@ Fotografin noun g=f gen=Fotografin pl=Fotografinnen
 Fotosynthese noun g=f gen=Fotosynthese pl=- note=no plural
 Foul noun g=n gen=Fouls pl=Fouls
 Fracht noun g=f gen=Fracht pl=Frachten
+Frack noun g=m gen=Fracks|Frackes pl=Fräcke|Fracks
 Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
 Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
@@ -241,6 +258,7 @@ Fraktion noun g=f gen=Fraktion pl=Fraktionen
 Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
 Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
+Franziskaner noun g=m gen=Franziskaners pl=Franziskaner
 Franzose noun g=m gen=Franzosen pl=Franzosen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
 Frau         noun g=f gen=Frau pl=Frauen
@@ -255,7 +273,9 @@ Freigabe noun g=f gen=Freigabe pl=- note=no plural
 Freihandel noun g=m gen=Freihandels pl=- note=no plural
 Freiheit noun g=f gen=Freiheit pl=Freiheiten
 Freiherr noun g=m gen=Freiherrn pl=Freiherren
+Freiin noun g=f gen=Freiin pl=Freiinnen
 Freilassung noun g=f gen=Freilassung pl=Freilassungen
+Freisetzung noun g=f gen=Freisetzung pl=Freisetzungen
 Freitag noun g=m gen=Freitags|Freitages pl=Freitage
 Freiwillige noun g=m|f decl=adj
 Freizeit noun g=f gen=Freizeit pl=Freizeiten
@@ -268,8 +288,9 @@ Freund noun g=m gen=Freundes|Freunds pl=Freunde
 Freundin noun g=f gen=Freundin pl=Freundinnen
 Freundlichkeit noun g=f gen=Freundlichkeit pl=Freundlichkeiten
 Freundschaft noun g=f gen=Freundschaft pl=Freundschaften
+Frevel noun g=m gen=Frevels pl=Frevel
 Friede noun g=m gen=Friedens pl=Frieden
-Frieden noun g=m gen=Friedens pl=Frieden|Friedens note=also Friede
+Frieden noun g=m gen=Friedens pl=Frieden note=also Friede
 Friedhof noun g=m gen=Friedhofs|Friedhofes pl=Friedhöfe
 Friese noun g=m gen=Friesen pl=Friesen
 Frikadelle noun g=f gen=Frikadelle pl=Frikadellen
@@ -294,6 +315,7 @@ Frühjahr noun g=n gen=Frühjahrs|Frühjahres[rare] pl=Frühjahre
 Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
 Frühstück noun g=n gen=Frühstücks pl=Frühstücke
 Fuchs noun g=m gen=Fuchses pl=Füchse
+Fuchtel noun g=f gen=Fuchtel pl=Fuchteln note=unter der Fuchtel
 Fühler noun g=m gen=Fühlers pl=Fühler
 Führer noun g=m gen=Führers pl=Führer
 Fuhrmann noun g=m gen=Fuhrmanns|Fuhrmannes pl=Fuhrleute|Fuhrmänner[rare]

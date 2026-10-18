@@ -39,6 +39,7 @@ Hammer noun g=m gen=Hammers pl=Hämmer
 Hamster noun g=m gen=Hamsters pl=Hamster
 Hand         noun g=f gen=Hand pl=Hände
 Handball noun g=m gen=Handballs pl=- note=sport; plural not used
+Händchen noun g=n gen=Händchens pl=Händchen
 Handel noun g=m gen=Handels pl=Händel[archaic] note=trade; the plural Händel (quarrels) is archaic
 Handelskammer noun g=f gen=Handelskammer pl=Handelskammern
 Handelsregister noun g=n gen=Handelsregisters pl=Handelsregister
@@ -68,6 +69,7 @@ Harz noun g=n gen=Harzes pl=Harze sense=resin
 Häschen noun g=n gen=Häschens pl=Häschen
 Hase noun g=m gen=Hasen pl=Hasen
 Hasel noun g=f gen=Hasel pl=Haseln
+Haselant noun g=m gen=Haselanten pl=Haselanten conf=70 note=old word for a jester
 Haselnuss noun g=f gen=Haselnuss pl=Haselnüsse
 Haselstrauch noun g=m gen=Haselstrauchs pl=Haselsträucher
 Hashtag noun g=m gen=Hashtags pl=Hashtags
@@ -80,13 +82,16 @@ Haufen noun g=m gen=Haufens pl=Haufen
 Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
 Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
 Hauptdarstellerin noun g=f gen=Hauptdarstellerin pl=Hauptdarstellerinnen
+Hauptfigur noun g=f gen=Hauptfigur pl=Hauptfiguren
 Haupthandlung noun g=f gen=Haupthandlung pl=Haupthandlungen
 Häuptling noun g=m gen=Häuptlings pl=Häuptlinge
 Hauptmann noun g=m gen=Hauptmanns|Hauptmannes pl=Hauptleute
+Hauptperson noun g=f gen=Hauptperson pl=Hauptpersonen
 Hauptrolle noun g=f gen=Hauptrolle pl=Hauptrollen
 Hauptschule noun g=f gen=Hauptschule pl=Hauptschulen
 Hauptstadt noun g=f gen=Hauptstadt pl=Hauptstädte
-Haus         noun g=n gen=Hauses pl=Häuser
+Haus         noun g=n sg=Haus,Hauses,Haus|Hause,Haus pl=Häuser note=dative Hause is standard in zu/nach Hause
+Hausaufgabe noun g=f gen=Hausaufgabe pl=Hausaufgaben
 Häuschen noun g=n gen=Häuschens pl=Häuschen
 Haushalt noun g=m gen=Haushalts|Haushaltes pl=Haushalte
 Haushälter noun g=m gen=Haushälters pl=Haushälter note=also gov. jargon: budget politician
@@ -106,12 +111,14 @@ Hecke noun g=f gen=Hecke pl=Hecken
 Heer noun g=n gen=Heeres|Heers pl=Heere
 Hefe noun g=f gen=Hefe pl=Hefen
 Heft noun g=n gen=Heftes|Hefts pl=Hefte
+Hefter noun g=m gen=Hefters pl=Hefter
 Heftigkeit noun g=f gen=Heftigkeit pl=- note=no plural in practice
 Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
 Heidelbeere noun g=f gen=Heidelbeere pl=Heidelbeeren
 Heidelberger noun g=m gen=Heidelbergers pl=Heidelberger note=inhabitant of Heidelberg; also the indeclinable adjective
 Heil noun g=n gen=Heils|Heiles pl=- note=salvation; plural not used
+Heiland noun g=m gen=Heiland|Heilands pl=Heilande note=mostly der Heiland (Christ)
 Heiligabend noun g=m gen=Heiligabends pl=Heiligabende
 Heilige noun g=m|f decl=adj
 Heiligkeit noun g=f gen=Heiligkeit pl=- note=no plural in practice
@@ -120,6 +127,7 @@ Heilung noun g=f gen=Heilung pl=Heilungen
 Heim noun g=n gen=Heims|Heimes pl=Heime
 Heimat noun g=f gen=Heimat pl=- note=Heimaten is very rare
 Heimath noun g=f gen=Heimath pl=- spelling=old note=old spelling of Heimat
+Heimkehr noun g=f gen=Heimkehr pl=- note=no plural
 Heimreise noun g=f gen=Heimreise pl=Heimreisen
 Heimweh noun g=n gen=Heimwehs pl=- note=mass noun
 Heirat noun g=f gen=Heirat pl=Heiraten
@@ -142,12 +150,14 @@ Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
 Henkel noun g=m gen=Henkels pl=Henkel
 Henker noun g=m gen=Henkers pl=Henker
 Henne noun g=f gen=Henne pl=Hennen
+Herabsetzung noun g=f gen=Herabsetzung pl=Herabsetzungen
 Herausforderung noun g=f gen=Herausforderung pl=Herausforderungen
 Herausgabe noun g=f gen=Herausgabe pl=- note=mass noun; derived from herausgeben
 Herausgeber noun g=m gen=Herausgebers pl=Herausgeber
 Herausgeberin noun g=f gen=Herausgeberin pl=Herausgeberinnen
 Herberge noun g=f gen=Herberge pl=Herbergen note=the analyser would take Berg as head
 Herbst noun g=m gen=Herbstes|Herbsts pl=Herbste
+Herbstferien noun g=pl
 Herd noun g=m gen=Herds|Herdes pl=Herde
 Herde noun g=f gen=Herde pl=Herden
 Hering noun g=m gen=Herings pl=Heringe
@@ -175,6 +185,7 @@ Heuschober noun g=m gen=Heuschobers pl=Heuschober
 Hexameter noun g=m gen=Hexameters pl=Hexameter
 Hexe noun g=f gen=Hexe pl=Hexen
 HGB noun g=n gen=HGB pl=- note=Handelsgesetzbuch
+Hierarchie noun g=f gen=Hierarchie pl=Hierarchien
 Hieroglyphe noun g=f gen=Hieroglyphe pl=Hieroglyphen
 Highscore noun g=m gen=Highscores pl=Highscores
 Hilfe noun g=f gen=Hilfe pl=Hilfen
@@ -200,6 +211,7 @@ Hip-Hop noun g=m gen=Hip-Hops pl=- note=no plural (mass or abstract noun)
 Hirn noun g=n gen=Hirns|Hirnes pl=Hirne
 Hirsch noun g=m gen=Hirschs|Hirsches pl=Hirsche
 Hirse noun g=f gen=Hirse pl=- note=no plural
+Hirt noun g=m gen=Hirten pl=Hirten
 Hirte noun g=m gen=Hirten pl=Hirten
 Historiker noun g=m gen=Historikers pl=Historiker
 Historikerin noun g=f gen=Historikerin pl=Historikerinnen
@@ -239,8 +251,12 @@ Holzfäller noun g=m gen=Holzfällers pl=Holzfäller
 Holzscheit noun g=n gen=Holzscheits|Holzscheites pl=Holzscheite
 Homeoffice noun g=n gen=Homeoffice|Homeoffices pl=Homeoffices
 Homepage noun g=f gen=Homepage pl=Homepages
+Hommage noun g=f gen=Hommage pl=Hommagen
+Homonym noun g=n gen=Homonyms pl=Homonyme
 Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Honig noun g=m gen=Honigs pl=Honige
+Honorar noun g=n gen=Honorars pl=Honorare
+Hoodie noun g=m gen=Hoodies pl=Hoodies
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
 Hörer noun g=m gen=Hörers pl=Hörer
 Hörerin noun g=f gen=Hörerin pl=Hörerinnen
@@ -251,6 +267,7 @@ Horst noun g=m gen=Horsts|Horstes pl=Horste note=eyrie; also a first name
 Hort noun g=m gen=Hortes|Horts pl=Horte
 Hose noun g=f gen=Hose pl=Hosen
 Hospital noun g=n gen=Hospitals|Hospitales[rare] pl=Hospitäler|Hospitale
+Hospiz noun g=n gen=Hospizes pl=Hospize
 Hotdog noun g=m gen=Hotdogs pl=Hotdogs
 Hotel noun g=n gen=Hotels pl=Hotels
 Hotelfachmann noun g=m gen=Hotelfachmanns|Hotelfachmannes pl=Hotelfachleute

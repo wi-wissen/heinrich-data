@@ -24,14 +24,17 @@ Imperialismus noun g=m gen=Imperialismus pl=- note=no plural
 Imperium noun g=n gen=Imperiums pl=Imperien
 Impfstoff noun g=m gen=Impfstoffs|Impfstoffes pl=Impfstoffe
 Impfung noun g=f gen=Impfung pl=Impfungen
+Implementierung noun g=f gen=Implementierung pl=Implementierungen
 Import noun g=m gen=Imports pl=Importe
 Impuls noun g=m gen=Impulses pl=Impulse
 Inanspruchnahme noun g=f gen=Inanspruchnahme pl=- note=mass noun
 Inbetriebnahme noun g=f gen=Inbetriebnahme pl=Inbetriebnahmen
+Inder noun g=m gen=Inders pl=Inder
 Index noun g=m gen=Index|Indexes pl=Indizes|Indexe
 Indianer noun g=m gen=Indianers pl=Indianer
 Indianerin noun g=f gen=Indianerin pl=Indianerinnen
 Indikativ noun g=m gen=Indikativs pl=Indikative
+Indikator noun g=m gen=Indikators pl=Indikatoren
 Individuum noun g=n gen=Individuums pl=Individuen
 Indiz noun g=n gen=Indizes pl=Indizien
 Industrialisierung noun g=f gen=Industrialisierung pl=- note=no plural in practice
@@ -57,6 +60,7 @@ Inhaberin noun g=f gen=Inhaberin pl=Inhaberinnen
 Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
 Initiative noun g=f gen=Initiative pl=Initiativen
+Initiator noun g=m gen=Initiators pl=Initiatoren
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
 Inland noun g=n gen=Inlands|Inlandes pl=- note=plural not used
@@ -71,17 +75,22 @@ Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
 Insekt noun g=n gen=Insekts|Insektes pl=Insekten
 Insektizid noun g=n gen=Insektizids pl=Insektizide
 Insel noun g=f gen=Insel pl=Inseln
+Insolenz noun g=f gen=Insolenz pl=Insolenzen
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
+Inspektion noun g=f gen=Inspektion pl=Inspektionen
 Inspektor noun g=m gen=Inspektors pl=Inspektoren
+Inspiration noun g=f gen=Inspiration pl=Inspirationen
 Installateur noun g=m gen=Installateurs pl=Installateure
 Installateurin noun g=f gen=Installateurin pl=Installateurinnen
 Installation noun g=f gen=Installation pl=Installationen
 Instandhaltung noun g=f gen=Instandhaltung pl=- note=mass noun
 Instandsetzung noun g=f gen=Instandsetzung pl=Instandsetzungen
 Instanz noun g=f gen=Instanz pl=Instanzen
+Instinkt noun g=m gen=Instinkts|Instinktes pl=Instinkte
 Institut noun g=n gen=Instituts|Institutes pl=Institute
 Institution noun g=f gen=Institution pl=Institutionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
+Insulaner noun g=m gen=Insulaners pl=Insulaner
 Insulin noun g=n gen=Insulins pl=- note=mass noun
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
 Integral noun g=n gen=Integrals pl=Integrale
@@ -103,12 +112,14 @@ Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
 Invasion noun g=f gen=Invasion pl=Invasionen
+Inventar noun g=n gen=Inventars pl=Inventare
 Inversion noun g=f gen=Inversion pl=Inversionen
 Investition noun g=f gen=Investition pl=Investitionen
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure
 Ironie noun g=f gen=Ironie pl=- note=no plural in practice
+Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare
 Irrtum noun g=m gen=Irrtums|Irrtumes pl=Irrtümer
 ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural

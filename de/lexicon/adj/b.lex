@@ -3,7 +3,9 @@ bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and
 bankrott adj
 bar adj
 barock adj
+barrierefrei adj
 bärtig adj
+bäuerisch adj
 bäuerlich adj
 baulich adj
 bayerisch adj
@@ -14,6 +16,7 @@ bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
+befangen adj
 befindlich adj
 befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
@@ -24,6 +27,8 @@ begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
 behaart adj
 behaglich adj cmp=behaglicher sup=behaglichsten
+beharrlich adj
+behilflich adj
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
 beige adj
@@ -47,6 +52,7 @@ beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
 bescheuert adj cmp=bescheuerter sup=bescheuertsten
 beschreibend adj
+beschwerlich adj
 besiegt adj
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
@@ -71,6 +77,7 @@ bisherig adj
 bissfest adj
 bissig adj cmp=bissiger sup=bissigsten
 bitter adj cmp=bitterer sup=bittersten
+blank adj cmp=blanker sup=blankesten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten
 blauäugig adj
@@ -96,6 +103,7 @@ brennbar adj
 britisch adj
 brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
+buchstäblich adj
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten

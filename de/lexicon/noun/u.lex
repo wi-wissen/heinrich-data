@@ -12,6 +12,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übergang noun g=m gen=Übergangs|Überganges[rare] pl=Übergänge
 Übergriff noun g=m gen=Übergriffs|Übergriffes pl=Übergriffe
 Überlassung noun g=f gen=Überlassung pl=- note=no plural
+Überlastung noun g=f gen=Überlastung pl=Überlastungen
 Überlegenheit noun g=f gen=Überlegenheit pl=- note=no plural
 Überlegung noun g=f gen=Überlegung pl=Überlegungen
 Überlieferung noun g=f gen=Überlieferung pl=Überlieferungen
@@ -23,6 +24,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überrest noun g=m gen=Überrests|Überrestes pl=Überreste
 Überschreitung noun g=f gen=Überschreitung pl=Überschreitungen
 Überschrift noun g=f gen=Überschrift pl=Überschriften
+Überschuldung noun g=f gen=Überschuldung pl=- note=no plural
 Überschwemmung noun g=f gen=Überschwemmung pl=Überschwemmungen
 Übersetzer noun g=m gen=Übersetzers pl=Übersetzer
 Übersetzerin noun g=f gen=Übersetzerin pl=Übersetzerinnen
@@ -114,6 +116,7 @@ Unterhalt noun g=m gen=Unterhalts|Unterhaltes pl=- note=maintenance, support
 Unterhaltung noun g=f gen=Unterhaltung pl=Unterhaltungen
 Unterkunft noun g=f gen=Unterkunft pl=Unterkünfte
 Unterlage noun g=f gen=Unterlage pl=Unterlagen
+Unterlassung noun g=f gen=Unterlassung pl=Unterlassungen
 Unternehmen noun g=n gen=Unternehmens pl=Unternehmen
 Unternehmer noun g=m gen=Unternehmers pl=Unternehmer
 Unternehmerin noun g=f gen=Unternehmerin pl=Unternehmerinnen
@@ -135,15 +138,19 @@ Untertan noun g=m gen=Untertans|Untertanen pl=Untertanen
 Untertitel noun g=m gen=Untertitels pl=Untertitel
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen
+Unverschämtheit noun g=f gen=Unverschämtheit pl=Unverschämtheiten
 Unversehrtheit noun g=f gen=Unversehrtheit pl=- note=no plural
+Unwissenheit noun g=f gen=Unwissenheit pl=- note=no plural
 Unze noun g=f gen=Unze pl=Unzen
 Unzufriedenheit noun g=f gen=Unzufriedenheit pl=- note=no plural in practice
 Update noun g=n gen=Updates pl=Updates
 Upload noun g=m gen=Uploads pl=Uploads
+Uran noun g=n gen=Urans pl=- note=chemical element
 Uraufführung noun g=f gen=Uraufführung pl=Uraufführungen
 Ureinwohner noun g=m gen=Ureinwohners pl=Ureinwohner
 Urheber noun g=m gen=Urhebers pl=Urheber
 Urheberin noun g=f gen=Urheberin pl=Urheberinnen
+Urin noun g=m gen=Urins pl=Urine
 Urkunde noun g=f gen=Urkunde pl=Urkunden
 Urlaub noun g=m gen=Urlaubs|Urlaubes pl=Urlaube
 Urlauber noun g=m gen=Urlaubers pl=Urlauber
