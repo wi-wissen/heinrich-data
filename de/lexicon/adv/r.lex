@@ -6,3 +6,4 @@ ringsum adv type=place
 rüber adv type=direction style=colloquial note=short for herüber/hinüber
 rückwärts adv type=direction
 rum adv type=direction style=colloquial note=short for herum
+runter adv style=colloquial note=short for herunter, hinunter
