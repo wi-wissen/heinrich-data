@@ -9,6 +9,7 @@ gesamt adj
 geschickt adj cmp=geschickter sup=geschicktesten
 gesellschaftlich adj
 gesetzlich adj
+gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewiss adj cmp=gewisser sup=gewissesten
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gleich adj note=the adverb is in closed/

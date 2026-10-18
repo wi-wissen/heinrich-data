@@ -1,0 +1,23 @@
+Zahl noun g=f gen=Zahl pl=Zahlen
+Zahlung noun g=f gen=Zahlung pl=Zahlungen
+Zählung noun g=f gen=Zählung pl=Zählungen
+Zeichen noun g=n gen=Zeichens pl=Zeichen
+Zeit noun g=f gen=Zeit pl=Zeiten
+Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
+Zeitung noun g=f gen=Zeitung pl=Zeitungen
+Zentrum noun g=n gen=Zentrums pl=Zentren
+Ziel noun g=n gen=Ziels|Zieles pl=Ziele
+Zimmer noun g=n gen=Zimmers pl=Zimmer
+Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
+Zug noun g=m gen=Zuges|Zugs[rare] pl=Züge
+Zugang noun g=m gen=Zugangs|Zuganges[rare] pl=Zugänge
+Zukunft noun g=f gen=Zukunft pl=Zukünfte[rare]
+Zulassung noun g=f gen=Zulassung pl=Zulassungen
+Zusammenarbeit noun g=f gen=Zusammenarbeit pl=- note=mass noun
+Zusammenhang noun g=m gen=Zusammenhangs|Zusammenhanges pl=Zusammenhänge
+Zuschauer noun g=m gen=Zuschauers pl=Zuschauer
+Zustand noun g=m gen=Zustandes|Zustands pl=Zustände
+Zuständigkeit noun g=f gen=Zuständigkeit pl=Zuständigkeiten
+Zustimmung noun g=f gen=Zustimmung pl=Zustimmungen
+Zweck noun g=m gen=Zwecks|Zweckes pl=Zwecke
+Zweifel noun g=m gen=Zweifels pl=Zweifel

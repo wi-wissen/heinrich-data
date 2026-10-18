@@ -8,6 +8,7 @@ Parlament noun g=n gen=Parlaments|Parlamentes pl=Parlamente
 Partei noun g=f gen=Partei pl=Parteien
 Partner noun g=m gen=Partners pl=Partner
 Patient noun g=m gen=Patienten pl=Patienten
+Periode noun g=f gen=Periode pl=Perioden
 Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals pl=- note=mass noun (staff)
 Pfarrer noun g=m gen=Pfarrers pl=Pfarrer

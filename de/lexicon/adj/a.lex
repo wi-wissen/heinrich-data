@@ -4,7 +4,7 @@ aktiv         adj cmp=aktiver sup=aktivsten
 aktuell       adj cmp=aktueller sup=aktuellsten
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
 allmählich adj
-alt           adj cmp=älter sup=ältesten
+alt          adj cmp=älter sup=ältesten
 amerikanisch adj
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 angemessen    adj cmp=angemessener sup=angemessensten

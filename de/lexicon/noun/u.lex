@@ -1,0 +1,29 @@
+Übergang noun g=m gen=Übergangs|Überganges[rare] pl=Übergänge
+Übermittlung noun g=f gen=Übermittlung pl=Übermittlungen[rare]
+Übernahme noun g=f gen=Übernahme pl=Übernahmen
+Überprüfung noun g=f gen=Überprüfung pl=Überprüfungen
+Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
+Übertragung noun g=f gen=Übertragung pl=Übertragungen
+Überwachung noun g=f gen=Überwachung pl=Überwachungen[rare]
+Überweisung noun g=f gen=Überweisung pl=Überweisungen
+Überzeugung noun g=f gen=Überzeugung pl=Überzeugungen
+Ufer noun g=n gen=Ufers pl=Ufer
+Uhr noun g=f gen=Uhr pl=Uhren
+Umfang noun g=m gen=Umfangs|Umfanges[rare] pl=Umfänge
+Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
+Umgebung noun g=f gen=Umgebung pl=Umgebungen
+Umsetzung noun g=f gen=Umsetzung pl=Umsetzungen
+Umstand noun g=m gen=Umstandes|Umstands pl=Umstände
+Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
+Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
+Unglück noun g=n gen=Unglücks|Unglückes[rare] pl=Unglücke
+Union noun g=f gen=Union pl=Unionen
+Universität noun g=f gen=Universität pl=Universitäten
+Unterlage noun g=f gen=Unterlage pl=Unterlagen
+Unternehmen noun g=n gen=Unternehmens pl=Unternehmen
+Unternehmer noun g=m gen=Unternehmers pl=Unternehmer
+Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
+Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
+Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen
+Ursache noun g=f gen=Ursache pl=Ursachen
+Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
