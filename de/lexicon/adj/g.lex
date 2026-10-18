@@ -12,21 +12,38 @@ gehörig adj
 geistig adj
 geistlich adj
 gelb adj cmp=gelber sup=gelbsten
+gelblich adj cmp=gelblicher sup=gelblichsten
 gelegentlich adj
+gemäßigt adj cmp=gemäßigter sup=gemäßigtsten
 gemein adj cmp=gemeiner sup=gemeinsten
+gemeinnützig adj
 gemeinsam adj cmp=gemeinsamer sup=gemeinsamsten
+gemeinschaftlich adj
 genau adj cmp=genauer sup=genauesten
 generell adj
+genetisch adj
+geografisch adj
+geographisch adj
+geologisch adj
+gerade adj cmp=gerader sup=geradesten
 gerecht adj cmp=gerechter sup=gerechtesten
+gereizt adj cmp=gereizter sup=gereiztesten
 gerichtlich adj
 gering adj cmp=geringer sup=geringsten
+geringfügig adj cmp=geringfügiger sup=geringfügigsten
+germanisch adj
 gesamt adj
+geschäftlich adj
+geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
+geschwind adj cmp=geschwinder sup=geschwindesten
 gesellschaftlich adj
 gesetzlich adj
 gesondert adj
+gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
+gewahr adj note=nur prädikativ (einer Sache gewahr werden)
 gewaltig adj cmp=gewaltiger sup=gewaltigsten
 gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
@@ -37,6 +54,7 @@ gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
+glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
@@ -50,10 +68,13 @@ golden adj
 gotisch adj
 göttlich adj
 grau adj cmp=grauer sup=grauesten
+grausam adj cmp=grausamer sup=grausamsten
 grenzüberschreitend adj
 griechisch adj
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
+großartig adj cmp=großartiger sup=großartigsten
+großzügig adj cmp=großzügiger sup=großzügigsten
 grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten
@@ -61,3 +82,4 @@ grundsätzlich adj
 gültig adj
 günstig adj cmp=günstiger sup=günstigsten
 gut          adj cmp=besser sup=besten
+gütig adj cmp=gütiger sup=gütigsten

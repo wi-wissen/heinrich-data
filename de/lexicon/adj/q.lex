@@ -1,1 +1,2 @@
+quadratisch adj
 qualitativ adj

@@ -92,8 +92,8 @@ Flamme noun g=f gen=Flamme pl=Flammen
 Flasche noun g=f gen=Flasche pl=Flaschen
 Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
-Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Fleisch noun g=n gen=Fleisches|Fleischs[rare] pl=- note=mass noun
+Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Fliege noun g=f gen=Fliege pl=Fliegen
 Flora noun g=f gen=Flora pl=Floren|Floras
@@ -197,12 +197,13 @@ Funk noun g=m gen=Funks pl=- note=no plural
 Funke noun g=m gen=Funkens pl=Funken
 Funken noun g=m gen=Funkens pl=Funken
 Funktion noun g=f gen=Funktion pl=Funktionen
+Funktionär noun g=m gen=Funktionärs pl=Funktionäre
 Furcht noun g=f gen=Furcht pl=- note=no plural in use
 Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
+Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle
 Fußballer noun g=m gen=Fußballers pl=Fußballer
-Fusion noun g=f gen=Fusion pl=Fusionen
 Futter noun g=n gen=Futters pl=- note=no plural

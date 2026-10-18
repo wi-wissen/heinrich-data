@@ -1,4 +1,5 @@
 Café noun g=n gen=Cafés pl=Cafés
+Camp noun g=n gen=Camps pl=Camps
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän

@@ -1,35 +1,50 @@
+variieren verb class=weak pp=variiert perf=haben
+verabreden verb class=weak pp=verabredet perf=haben refl=acc
 verabschieden verb class=weak pp=verabschiedet perf=haben
+verachten verb class=weak pp=verachtet perf=haben
+veralten verb class=weak pp=veraltet perf=sein
 verändern verb class=weak pp=verändert perf=haben
 verankern verb class=weak pp=verankert perf=haben
 veranlassen verb class=weak pp=veranlasst perf=haben
 veranstalten verb class=weak pp=veranstaltet perf=haben
 verantworten verb class=weak pp=verantwortet perf=haben
 verarbeiten verb class=weak pp=verarbeitet perf=haben
+veräußern verb class=weak pp=veräußert perf=haben
+verbannen verb class=weak pp=verbannt perf=haben
+verbauen verb class=weak pp=verbaut perf=haben
 verbergen verb class=strong 3sg=verbirgt past=verbarg pp=verborgen subj2=verbärge perf=haben
 verbessern verb class=weak pp=verbessert perf=haben
 verbieten verb class=strong 3sg=verbietet past=verbot pp=verboten subj2=verböte perf=haben
 verbinden verb class=strong 3sg=verbindet past=verband pp=verbunden subj2=verbände perf=haben
 verbleiben verb class=strong 3sg=verbleibt past=verblieb pp=verblieben subj2=verbliebe perf=sein
+verbrauchen verb class=weak pp=verbraucht perf=haben
 verbreiten verb class=weak pp=verbreitet perf=haben
 verbrennen verb class=mixed 3sg=verbrennt past=verbrannte pp=verbrannt subj2=verbrennte perf=haben|sein
 verbringen verb class=mixed 3sg=verbringt past=verbrachte pp=verbracht subj2=verbrächte perf=haben
 verdammen verb class=weak pp=verdammt perf=haben
 verdanken verb class=weak pp=verdankt perf=haben
+verdecken verb class=weak pp=verdeckt perf=haben
+verderben verb class=strong 3sg=verdirbt past=verdarb pp=verdorben subj2=verdürbe perf=haben|sein
+verdeutlichen verb class=weak pp=verdeutlicht perf=haben
 verdienen verb class=weak pp=verdient perf=haben
 verdoppeln verb class=weak pp=verdoppelt perf=haben
 verdrängen verb class=weak pp=verdrängt perf=haben
 verehren verb class=weak pp=verehrt perf=haben
 vereinbaren verb class=weak pp=vereinbart perf=haben
 vereinen verb class=weak pp=vereint perf=haben
+vereinfachen verb class=weak pp=vereinfacht perf=haben
 vereinigen verb class=weak pp=vereinigt perf=haben
 verfahren verb class=strong 3sg=verfährt past=verfuhr pp=verfahren subj2=verführe perf=haben|sein
 verfallen verb class=strong 3sg=verfällt past=verfiel pp=verfallen subj2=verfiele perf=sein
 verfassen verb class=weak pp=verfasst perf=haben
+verfehlen verb class=weak pp=verfehlt perf=haben
+verfilmen verb class=weak pp=verfilmt perf=haben
 verfolgen verb class=weak pp=verfolgt perf=haben
 verfügen verb class=weak pp=verfügt perf=haben
 vergeben verb class=strong 3sg=vergibt past=vergab pp=vergeben subj2=vergäbe perf=haben
 vergehen verb class=strong 3sg=vergeht past=verging pp=vergangen subj2=verginge perf=sein
 vergessen verb class=strong 3sg=vergisst past=vergaß pp=vergessen subj2=vergäße perf=haben
+vergiften verb class=weak pp=vergiftet perf=haben refl=acc
 vergleichen verb class=strong 3sg=vergleicht past=verglich pp=verglichen subj2=vergliche perf=haben
 vergrößern verb class=weak pp=vergrößert perf=haben
 vergüten verb class=weak pp=vergütet perf=haben
@@ -38,12 +53,17 @@ verhalten verb class=strong refl=acc 3sg=verhält past=verhielt pp=verhalten sub
 verhandeln verb class=weak pp=verhandelt perf=haben
 verhängen verb class=weak pp=verhängt perf=haben
 verheiraten verb class=weak pp=verheiratet perf=haben
+verhelfen verb class=strong 3sg=verhilft past=verhalf pp=verholfen subj2=verhülfe|verhälfe[rare] perf=haben
 verhindern verb class=weak pp=verhindert perf=haben
 verkaufen verb class=weak pp=verkauft perf=haben
 verkehren verb class=weak pp=verkehrt perf=haben
+verkennen verb class=mixed 3sg=verkennt past=verkannte pp=verkannt subj2=verkennte perf=haben
+verkleiden verb class=weak pp=verkleidet perf=haben refl=acc
 verknüpfen verb class=weak pp=verknüpft perf=haben
+verkörpern verb class=weak pp=verkörpert perf=haben
 verkünden verb class=weak pp=verkündet perf=haben
 verkürzen verb class=weak pp=verkürzt perf=haben
+verlagern verb class=weak pp=verlagert perf=haben refl=acc
 verlangen verb class=weak pp=verlangt perf=haben
 verlängern verb class=weak pp=verlängert perf=haben
 verlassen verb class=strong 3sg=verlässt past=verließ pp=verlassen subj2=verließe perf=haben
@@ -53,12 +73,18 @@ verleihen verb class=strong 3sg=verleiht past=verlieh pp=verliehen subj2=verlieh
 verletzen verb class=weak pp=verletzt perf=haben
 verlieben verb class=weak refl=acc pp=verliebt perf=haben
 verlieren verb class=strong 3sg=verliert past=verlor pp=verloren subj2=verlöre perf=haben
+verloben verb class=weak pp=verlobt perf=haben refl=acc
+vermarkten verb class=weak pp=vermarktet perf=haben
 vermehren verb class=weak pp=vermehrt perf=haben
 vermeiden verb class=strong 3sg=vermeidet past=vermied pp=vermieden subj2=vermiede perf=haben
+vermerken verb class=weak pp=vermerkt perf=haben
 vermindern verb class=weak pp=vermindert perf=haben
+vermischen verb class=weak pp=vermischt perf=haben refl=acc
+vermissen verb class=weak pp=vermisst perf=haben
 vermitteln verb class=weak pp=vermittelt perf=haben
 vermögen verb class=mixed 3sg=vermag past=vermochte pp=vermocht subj2=vermöchte perf=haben
 vermuten verb class=weak pp=vermutet perf=haben
+vernachlässigen verb class=weak pp=vernachlässigt perf=haben
 vernehmen verb class=strong 3sg=vernimmt past=vernahm pp=vernommen subj2=vernähme perf=haben
 vernichten verb class=weak pp=vernichtet perf=haben
 veröffentlichen verb class=weak pp=veröffentlicht perf=haben
@@ -66,18 +92,25 @@ verordnen verb class=weak pp=verordnet perf=haben
 verpassen verb class=weak pp=verpasst perf=haben
 verpflichten verb class=weak pp=verpflichtet perf=haben
 verraten verb class=strong 3sg=verrät past=verriet pp=verraten subj2=verriete perf=haben
+verrichten verb class=weak pp=verrichtet perf=haben
 verringern verb class=weak pp=verringert perf=haben
 versagen verb class=weak pp=versagt perf=haben
 versammeln verb class=weak pp=versammelt perf=haben
+versäumen verb class=weak pp=versäumt perf=haben
 verschaffen verb class=weak pp=verschafft perf=haben
 verschärfen verb class=weak pp=verschärft perf=haben
 verschieben verb class=strong 3sg=verschiebt past=verschob pp=verschoben subj2=verschöbe perf=haben
+verschlechtern verb class=weak pp=verschlechtert perf=haben refl=acc
+verschleppen verb class=weak pp=verschleppt perf=haben
 verschließen verb class=strong 3sg=verschließt past=verschloss pp=verschlossen subj2=verschlösse perf=haben
+verschonen verb class=weak pp=verschont perf=haben
+verschweigen verb class=strong 3sg=verschweigt past=verschwieg pp=verschwiegen subj2=verschwiege perf=haben
 verschwinden verb class=strong 3sg=verschwindet past=verschwand pp=verschwunden subj2=verschwände perf=sein
 versehen verb class=strong 3sg=versieht past=versah pp=versehen subj2=versähe perf=haben
 versenken verb class=weak pp=versenkt perf=haben
 versetzen verb class=weak pp=versetzt perf=haben
 versichern verb class=weak pp=versichert perf=haben
+versinken verb class=strong 3sg=versinkt past=versank pp=versunken subj2=versänke perf=sein
 versorgen verb class=weak pp=versorgt perf=haben
 versprechen verb class=strong 3sg=verspricht past=versprach pp=versprochen subj2=verspräche perf=haben
 verständigen verb class=weak pp=verständigt perf=haben
@@ -89,31 +122,53 @@ verstoßen verb class=strong 3sg=verstößt past=verstieß pp=verstoßen subj2=v
 versuchen verb class=weak pp=versucht perf=haben
 verteidigen verb class=weak pp=verteidigt perf=haben
 verteilen verb class=weak pp=verteilt perf=haben
+vertiefen verb class=weak pp=vertieft perf=haben refl=acc
+vertragen verb class=strong 3sg=verträgt past=vertrug pp=vertragen subj2=verträge perf=haben refl=acc
 vertrauen verb class=weak pp=vertraut perf=haben
 vertreiben verb class=strong 3sg=vertreibt past=vertrieb pp=vertrieben subj2=vertriebe perf=haben
 vertreten verb class=strong 3sg=vertritt past=vertrat pp=vertreten subj2=verträte perf=haben
+verüben verb class=weak pp=verübt perf=haben
 verursachen verb class=weak pp=verursacht perf=haben
 verurteilen verb class=weak pp=verurteilt perf=haben
+verwachsen verb class=strong 3sg=verwächst past=verwuchs pp=verwachsen subj2=verwüchse perf=sein
+verwahren verb class=weak pp=verwahrt perf=haben refl=acc
 verwalten verb class=weak pp=verwaltet perf=haben
 verwandeln verb class=weak pp=verwandelt perf=haben
+verwechseln verb class=weak pp=verwechselt perf=haben
+verwehren verb class=weak pp=verwehrt perf=haben
 verweigern verb class=weak pp=verweigert perf=haben
+verweilen verb class=weak pp=verweilt perf=haben
 verweisen verb class=strong 3sg=verweist past=verwies pp=verwiesen subj2=verwiese perf=haben
 verwenden verb class=weak past=verwendete|verwandte[rare] pp=verwendet|verwandt[rare] perf=haben
+verwerfen verb class=strong 3sg=verwirft past=verwarf pp=verworfen subj2=verwürfe perf=haben
+verwerten verb class=weak pp=verwertet perf=haben
 verwickeln verb class=weak pp=verwickelt perf=haben
 verwirklichen verb class=weak pp=verwirklicht perf=haben
 verwirren verb class=weak pp=verwirrt perf=haben
 verwunden verb class=weak pp=verwundet perf=haben
 verwundern verb class=weak pp=verwundert perf=haben
+verzehren verb class=weak pp=verzehrt perf=haben refl=acc
 verzeichnen verb class=weak pp=verzeichnet perf=haben
 verzeihen verb class=strong 3sg=verzeiht past=verzieh pp=verziehen subj2=verziehe perf=haben
 verzichten verb class=weak pp=verzichtet perf=haben
+verzieren verb class=weak pp=verziert perf=haben
+verzögern verb class=weak pp=verzögert perf=haben refl=acc
+verzweifeln verb class=weak pp=verzweifelt perf=sein
 vollenden verb class=weak pp=vollendet perf=haben
 vollziehen verb class=strong 3sg=vollzieht past=vollzog pp=vollzogen subj2=vollzöge perf=haben
+voranbringen verb class=mixed sep=voran 3sg=voranbringt past=voranbrachte pp=vorangebracht subj2=voranbrächte perf=haben
 vorangehen verb class=strong sep=voran 3sg=vorangeht past=voranging pp=vorangegangen subj2=vorangeginge perf=sein
+vorankommen verb class=strong sep=voran 3sg=vorankommt past=vorankam pp=vorangekommen subj2=vorankäme perf=sein
+vorantreiben verb class=strong sep=voran 3sg=vorantreibt past=vorantrieb pp=vorangetrieben subj2=vorantriebe perf=haben
 voraussetzen verb class=weak sep=voraus pp=vorausgesetzt perf=haben
 vorbehalten verb class=strong sep=vor 3sg=vorbehält past=vorbehielt pp=vorbehalten subj2=vorbehielte perf=haben
 vorbereiten verb class=weak sep=vor pp=vorbereitet perf=haben
+vorbeugen verb class=weak sep=vor pp=vorgebeugt perf=haben refl=acc
+vorfallen verb class=strong sep=vor 3sg=vorfällt past=vorfiel pp=vorgefallen subj2=vorfiele perf=sein
+vorführen verb class=weak sep=vor pp=vorgeführt perf=haben
+vorgeben verb class=strong sep=vor 3sg=vorgibt past=vorgab pp=vorgegeben subj2=vorgäbe perf=haben
 vorgehen verb class=strong sep=vor 3sg=vorgeht past=vorging pp=vorgegangen subj2=vorginge perf=sein
+vorhergehen verb class=strong sep=vorher 3sg=vorhergeht past=vorherging pp=vorhergegangen subj2=vorherginge perf=sein
 vorkommen verb class=strong sep=vor 3sg=vorkommt past=vorkam pp=vorgekommen subj2=vorkäme perf=sein
 vorlegen verb class=weak sep=vor pp=vorgelegt perf=haben
 vorliegen verb class=strong sep=vor 3sg=vorliegt past=vorlag pp=vorgelegen subj2=vorläge perf=haben
@@ -121,6 +176,7 @@ vornehmen verb class=strong sep=vor 3sg=vornimmt past=vornahm pp=vorgenommen sub
 vorschlagen verb class=strong sep=vor 3sg=vorschlägt past=vorschlug pp=vorgeschlagen subj2=vorschlüge perf=haben
 vorschreiben verb class=strong sep=vor 3sg=vorschreibt past=vorschrieb pp=vorgeschrieben subj2=vorschriebe perf=haben
 vorsehen verb class=strong sep=vor 3sg=vorsieht past=vorsah pp=vorgesehen subj2=vorsähe perf=haben
+vorstehen verb class=strong sep=vor 3sg=vorsteht past=vorstand pp=vorgestanden subj2=vorstünde|vorstände perf=haben
 vorstellen verb class=weak sep=vor pp=vorgestellt perf=haben
 vortragen verb class=strong sep=vor 3sg=vorträgt past=vortrug pp=vorgetragen subj2=vorträge perf=haben
 vorübergehen verb class=strong sep=vorüber 3sg=vorübergeht past=vorüberging pp=vorübergegangen subj2=vorüberginge perf=sein
