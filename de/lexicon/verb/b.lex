@@ -50,7 +50,8 @@ bezahlen      verb class=weak pp=bezahlt perf=haben
 bezeichnen    verb class=weak pp=bezeichnet perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben
 bieten        verb class=strong 3sg=bietet past=bot pp=geboten subj2=böte perf=haben
-bilden        verb class=weak pp=gebildet perf=haben
+bilden verb class=weak pp=gebildet perf=haben refl=acc
+binden verb class=strong 3sg=bindet past=band pp=gebunden subj2=bände perf=haben refl=acc
 bitten        verb class=strong 3sg=bittet past=bat pp=gebeten subj2=bäte perf=haben
 bleiben       verb class=strong 3sg=bleibt past=blieb pp=geblieben subj2=bliebe perf=sein
 blicken       verb class=weak pp=geblickt perf=haben

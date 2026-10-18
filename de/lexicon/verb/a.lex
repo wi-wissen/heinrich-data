@@ -7,7 +7,7 @@ absolvieren   verb class=weak pp=absolviert perf=haben
 abweichen     verb class=strong sep=ab 3sg=abweicht past=abwich pp=abgewichen subj2=abwiche perf=sein
 anbieten      verb class=strong sep=an 3sg=anbietet past=anbot pp=angeboten subj2=anböte perf=haben
 anbringen     verb class=mixed sep=an 3sg=anbringt past=anbrachte pp=angebracht subj2=anbrächte perf=haben
-ändern        verb class=weak pp=geändert perf=haben
+ändern verb class=weak pp=geändert perf=haben refl=acc
 anerkennen    verb class=mixed sep=an 3sg=anerkennt past=anerkannte pp=anerkannt subj2=anerkennte perf=haben
 angeben       verb class=strong sep=an 3sg=angibt past=angab pp=angegeben subj2=angäbe perf=haben
 ankommen      verb class=strong sep=an 3sg=ankommt past=ankam pp=angekommen subj2=ankäme perf=sein

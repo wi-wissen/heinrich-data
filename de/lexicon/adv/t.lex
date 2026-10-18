@@ -1,0 +1,1 @@
+teilweise adv type=degree
