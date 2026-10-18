@@ -7,8 +7,8 @@ manuell adj
 maritim adj
 maschinell adj
 maßgeblich adj
-massenhaft adj
 mäßig adj cmp=mäßiger sup=mäßigsten
+massenhaft adj
 massiv adj cmp=massiver sup=massivsten
 materiell adj
 mathematisch adj

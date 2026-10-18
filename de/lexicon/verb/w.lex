@@ -10,8 +10,8 @@ wahren verb class=weak pp=gewahrt perf=haben
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
 walken verb class=weak pp=gewalkt perf=haben|sein
 walten verb class=weak pp=gewaltet perf=haben
-wälzen verb class=weak pp=gewälzt perf=haben refl=acc
 walzen verb class=weak pp=gewalzt perf=haben|sein
+wälzen verb class=weak pp=gewälzt perf=haben refl=acc
 wandern      verb class=weak pp=gewandert perf=sein
 wanken verb class=weak pp=gewankt perf=haben|sein
 wärmen verb class=weak pp=gewärmt perf=haben refl=acc
