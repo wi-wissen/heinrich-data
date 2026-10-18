@@ -1,6 +1,7 @@
 U-Bahn noun g=f gen=U-Bahn pl=U-Bahnen
 U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übel noun g=n gen=Übels pl=Übel
+Übelkeit noun g=f gen=Übelkeit pl=- note=mass noun
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
@@ -15,6 +16,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überlegung noun g=f gen=Überlegung pl=Überlegungen
 Überlieferung noun g=f gen=Überlieferung pl=Überlieferungen
 Übermittlung noun g=f gen=Übermittlung pl=Übermittlungen[rare]
+Übernachtung noun g=f gen=Übernachtung pl=Übernachtungen
 Übernahme noun g=f gen=Übernahme pl=Übernahmen
 Überprüfung noun g=f gen=Überprüfung pl=Überprüfungen
 Überraschung noun g=f gen=Überraschung pl=Überraschungen
@@ -35,6 +37,9 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Ufer noun g=n gen=Ufers pl=Ufer
 Uhr noun g=f gen=Uhr pl=Uhren
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
+Uhu noun g=m gen=Uhus pl=Uhus
+Ulme noun g=f gen=Ulme pl=Ulmen
+Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
 Umdrehung noun g=f gen=Umdrehung pl=Umdrehungen
@@ -45,6 +50,7 @@ Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
+Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
@@ -59,6 +65,9 @@ Umwandlung noun g=f gen=Umwandlung pl=Umwandlungen
 Umweg noun g=m gen=Umwegs|Umweges pl=Umwege
 Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
 Umweltschutz noun g=m gen=Umweltschutzes pl=- note=no plural
+Umweltschützer noun g=m gen=Umweltschützers pl=Umweltschützer
+Umweltschützerin noun g=f gen=Umweltschützerin pl=Umweltschützerinnen
+Umweltverschmutzung noun g=f gen=Umweltverschmutzung pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
 Unbekannte noun g=m|f decl=adj
@@ -78,6 +87,7 @@ Uniform noun g=f gen=Uniform pl=Uniformen
 Union noun g=f gen=Union pl=Unionen
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
+Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
 Unmut noun g=m gen=Unmuts|Unmutes pl=- note=no plural
 Unordnung noun g=f gen=Unordnung pl=- note=no plural
@@ -106,6 +116,7 @@ Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
+Untersetzer noun g=m gen=Untersetzers pl=Untersetzer
 Unterstufe noun g=f gen=Unterstufe pl=Unterstufen
 Unterstützer noun g=m gen=Unterstützers pl=Unterstützer
 Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen

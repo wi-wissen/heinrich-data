@@ -1,15 +1,20 @@
+Valentinstag noun g=m gen=Valentinstags|Valentinstages pl=Valentinstage
+Vanille noun g=f gen=Vanille pl=- note=no plural
 Vanitas noun g=f gen=Vanitas pl=- note=no plural
 Variable noun g=f gen=Variable pl=Variablen
 Variante noun g=f gen=Variante pl=Varianten
 Variation noun g=f gen=Variation pl=Variationen
 Vasall noun g=m gen=Vasallen pl=Vasallen
+Vase noun g=f gen=Vase pl=Vasen
 Vater noun g=m gen=Vaters pl=Väter
 Vaterland noun g=n gen=Vaterlands|Vaterlandes pl=Vaterländer
+Vati noun g=m gen=Vatis pl=Vatis
 Veganer noun g=m gen=Veganers pl=Veganer
 Veganerin noun g=f gen=Veganerin pl=Veganerinnen
 Vegetarier noun g=m gen=Vegetariers pl=Vegetarier
 Vegetarierin noun g=f gen=Vegetarierin pl=Vegetarierinnen
 Vegetation noun g=f gen=Vegetation pl=Vegetationen
+Veilchen noun g=n gen=Veilchens pl=Veilchen
 Vektor noun g=m gen=Vektors pl=Vektoren
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
@@ -84,8 +89,10 @@ Verhütung noun g=f gen=Verhütung pl=- note=no plural
 Verjährung noun g=f gen=Verjährung pl=- note=no plural
 Verkauf noun g=m gen=Verkaufs|Verkaufes[rare] pl=Verkäufe
 Verkäufer noun g=m gen=Verkäufers pl=Verkäufer
+Verkäuferin noun g=f gen=Verkäuferin pl=Verkäuferinnen
 Verkehr noun g=m gen=Verkehrs|Verkehres[rare] pl=Verkehre[rare] note=mostly mass noun; plural Verkehre in technical use (traffic flows)
 Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
+Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkündung noun g=f gen=Verkündung pl=Verkündungen
 Verkürzung noun g=f gen=Verkürzung pl=Verkürzungen
@@ -100,7 +107,9 @@ Verleger noun g=m gen=Verlegers pl=Verleger
 Verlegung noun g=f gen=Verlegung pl=Verlegungen
 Verleihung noun g=f gen=Verleihung pl=Verleihungen
 Verletzung noun g=f gen=Verletzung pl=Verletzungen
+Verliebtheit noun g=f gen=Verliebtheit pl=- note=mass noun
 Verlierer noun g=m gen=Verlierers pl=Verlierer
+Verlobte noun g=m|f decl=adj
 Verlobung noun g=f gen=Verlobung pl=Verlobungen
 Verlust noun g=m gen=Verlustes|Verlusts pl=Verluste
 Vermarktung noun g=f gen=Vermarktung pl=- note=no plural
@@ -131,6 +140,7 @@ Verringerung noun g=f gen=Verringerung pl=Verringerungen
 Vers noun g=m gen=Verses pl=Verse
 Versagen noun g=n gen=Versagens pl=- note=lexicalised nominal infinitive: failure
 Versammlung noun g=f gen=Versammlung pl=Versammlungen
+Versand noun g=m gen=Versands pl=- note=no plural
 Verschärfung noun g=f gen=Verschärfung pl=Verschärfungen
 Verschiebung noun g=f gen=Verschiebung pl=Verschiebungen
 Verschiedenheit noun g=f gen=Verschiedenheit pl=Verschiedenheiten
@@ -139,6 +149,8 @@ Verschmelzung noun g=f gen=Verschmelzung pl=Verschmelzungen
 Verschmutzung noun g=f gen=Verschmutzung pl=Verschmutzungen
 Verschulden noun g=n gen=Verschuldens pl=- note=no plural
 Verschuldung noun g=f gen=Verschuldung pl=- note=no plural
+Verschwender noun g=m gen=Verschwenders pl=Verschwender
+Verschwendung noun g=f gen=Verschwendung pl=Verschwendungen
 Verschwörung noun g=f gen=Verschwörung pl=Verschwörungen
 Versender noun g=m gen=Versenders pl=Versender
 Versetzung noun g=f gen=Versetzung pl=Versetzungen
@@ -157,8 +169,10 @@ Verstand noun g=m gen=Verstandes|Verstands pl=- note=no plural
 Verständigung noun g=f gen=Verständigung pl=- note=no plural
 Verständnis noun g=n gen=Verständnisses pl=Verständnisse[rare]
 Verstärkung noun g=f gen=Verstärkung pl=Verstärkungen
+Verstauchung noun g=f gen=Verstauchung pl=Verstauchungen
 Versteck noun g=n gen=Verstecks|Versteckes pl=Verstecke
 Versteigerung noun g=f gen=Versteigerung pl=Versteigerungen
+Verstopfung noun g=f gen=Verstopfung pl=Verstopfungen
 Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
 Versuch noun g=m gen=Versuchs|Versuches[rare] pl=Versuche
@@ -208,6 +222,7 @@ Vikar noun g=m gen=Vikars pl=Vikare
 Villa noun g=f gen=Villa pl=Villen
 Violine noun g=f gen=Violine pl=Violinen
 Violinist noun g=m gen=Violinisten pl=Violinisten
+Viper noun g=f gen=Viper pl=Vipern
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Vision noun g=f gen=Vision pl=Visionen
 Vitamin noun g=n gen=Vitamins pl=Vitamine
@@ -216,6 +231,8 @@ Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister
 Vizepräsident noun g=m gen=Vizepräsidenten pl=Vizepräsidenten
 Vizepräsidentin noun g=f gen=Vizepräsidentin pl=Vizepräsidentinnen
 Vogel noun g=m gen=Vogels pl=Vögel
+Vogelkäfig noun g=m gen=Vogelkäfigs pl=Vogelkäfige
+Vöglein noun g=n gen=Vögleins pl=Vöglein
 Vogt noun g=m gen=Vogts|Vogtes pl=Vögte conf=85 note=historical title (bailiff); also a common surname
 Vogtei noun g=f gen=Vogtei pl=Vogteien
 Vokabel noun g=f gen=Vokabel pl=Vokabeln

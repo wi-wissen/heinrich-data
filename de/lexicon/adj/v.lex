@@ -1,13 +1,19 @@
 väterlich adj
+vegan adj
+vegetarisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verantwortlich adj
 verantwortungsvoll adj
+verärgert adj
 verbindlich adj
+verbittert adj cmp=verbitterter sup=verbittertsten
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
+verdorben adj
 vereinzelt adj
 verfassungsrechtlich adj
 verfassungswidrig adj
+verfeindet adj
 verfügbar adj
 vergänglich adj
 vergeblich adj
@@ -16,25 +22,32 @@ vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verkehrt adj cmp=verkehrter sup=verkehrtesten
+verknittert adj
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
 verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
+vermögend adj cmp=vermögender sup=vermögendsten
 vermutlich adj
 vernünftig adj
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschnupft adj
 verschollen adj
+verschuldet adj
 verschwommen adj
+verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
 vertikal adj
 vertraglich adj
 vertraulich adj cmp=vertraulicher sup=vertraulichsten
+verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj
+verzogen adj
 verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
@@ -47,6 +60,7 @@ vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
+vollwertig adj
 vollziehbar adj
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
@@ -59,6 +73,7 @@ vorläufig adj
 vorletzt adj attr_only
 vornehm adj cmp=vornehmer sup=vornehmsten
 vorrangig adj
+vorrätig adj
 vorsätzlich adj
 vorsichtig adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten

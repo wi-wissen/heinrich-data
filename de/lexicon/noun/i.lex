@@ -5,12 +5,14 @@ Identifikation noun g=f gen=Identifikation pl=Identifikationen
 Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
 Identität noun g=f gen=Identität pl=Identitäten
 Ideologie noun g=f gen=Ideologie pl=Ideologien
-Idol noun g=n gen=Idols pl=Idole
+Idol noun g=n gen=Idols|Idoles pl=Idole
+Igel noun g=m gen=Igels pl=Igel
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
 Illustrator noun g=m gen=Illustrators pl=Illustratoren
 Image noun g=n gen=Images pl=Images
 Imam noun g=m gen=Imams pl=Imame
+Imbiss noun g=m gen=Imbisses pl=Imbisse
 Immobilie noun g=f gen=Immobilie pl=Immobilien
 Immunität noun g=f gen=Immunität pl=- note=no plural in practice
 Imperativ noun g=m gen=Imperativs pl=Imperative
@@ -42,6 +44,7 @@ Informatikerin noun g=f gen=Informatikerin pl=Informatikerinnen
 Information noun g=f gen=Information pl=Informationen
 Infrastruktur noun g=f gen=Infrastruktur pl=Infrastrukturen
 Ingenieur noun g=m gen=Ingenieurs pl=Ingenieure
+Ingwer noun g=m gen=Ingwers pl=- note=no plural
 Inhaber noun g=m gen=Inhabers pl=Inhaber
 Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
@@ -56,6 +59,7 @@ Inquisition noun g=f gen=Inquisition pl=- note=no plural
 Insasse noun g=m gen=Insassen pl=Insassen
 Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
 Insekt noun g=n gen=Insekts|Insektes pl=Insekten
+Insektizid noun g=n gen=Insektizids pl=Insektizide
 Insel noun g=f gen=Insel pl=Inseln
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
 Installation noun g=f gen=Installation pl=Installationen
@@ -65,6 +69,7 @@ Instanz noun g=f gen=Instanz pl=Instanzen
 Institut noun g=n gen=Instituts|Institutes pl=Institute
 Institution noun g=f gen=Institution pl=Institutionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
+Insulin noun g=n gen=Insulins pl=- note=mass noun
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
 Integral noun g=n gen=Integrals pl=Integrale
 Integration noun g=f gen=Integration pl=- note=plural not used

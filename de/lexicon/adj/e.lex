@@ -1,6 +1,6 @@
 eben adj cmp=ebener sup=ebensten note=flat (eine ebene Fläche)
 echt adj cmp=echter sup=echtesten
-eckig adj
+eckig adj cmp=eckiger sup=eckigsten
 edel adj cmp=edler sup=edelsten
 effektiv adj cmp=effektiver sup=effektivsten
 effizient adj cmp=effizienter sup=effizientesten
@@ -20,8 +20,11 @@ eindeutig adj cmp=eindeutiger sup=eindeutigsten
 eindringlich adj cmp=eindringlicher sup=eindringlichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
+eingebildet adj cmp=eingebildeter sup=eingebildetsten
+eingeschnappt adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
+einjährig adj
 einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
@@ -33,7 +36,10 @@ einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
 eisern adj
+eisig adj cmp=eisiger sup=eisigsten
 eitel adj cmp=eitler sup=eitelsten
+ekelhaft adj cmp=ekelhafter sup=ekelhaftesten
+eklig adj cmp=ekliger sup=ekligsten
 elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
 elektronisch adj

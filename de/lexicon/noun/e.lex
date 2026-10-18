@@ -2,12 +2,14 @@ E-Book noun g=n gen=E-Books pl=E-Books
 E-Mail noun g=f gen=E-Mail pl=E-Mails
 Ebbe noun g=f gen=Ebbe pl=Ebben
 Ebene noun g=f gen=Ebene pl=Ebenen
+Eber noun g=m gen=Ebers pl=Eber
 Echo noun g=n gen=Echos pl=Echos
 Eck noun g=n gen=Ecks|Eckes pl=Ecke
 Ecke noun g=f gen=Ecke pl=Ecken
 Edelmann noun g=m gen=Edelmanns|Edelmannes pl=Edelleute
 Edition noun g=f gen=Edition pl=Editionen
 EEG noun g=n gen=EEG|EEGs pl=- note=Erneuerbare-Energien-Gesetz; no plural
+Efeu noun g=m gen=Efeus pl=- note=no plural
 Effekt noun g=m gen=Effekts|Effektes pl=Effekte
 Effizienz noun g=f gen=Effizienz pl=- note=no plural
 Ehe noun g=f gen=Ehe pl=Ehen
@@ -23,7 +25,10 @@ Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
 Ehrlichkeit noun g=f gen=Ehrlichkeit pl=- note=no plural
 Ei noun g=n gen=Eis|Eies pl=Eier
 Eiche noun g=f gen=Eiche pl=Eichen
+Eichel noun g=f gen=Eichel pl=Eicheln
+Eichhörnchen noun g=n gen=Eichhörnchens pl=Eichhörnchen
 Eid noun g=m gen=Eides|Eids pl=Eide
+Eidechse noun g=f gen=Eidechse pl=Eidechsen
 Eifer noun g=m gen=Eifers pl=- note=no plural
 Eifersucht noun g=f gen=Eifersucht pl=- note=no plural
 Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
@@ -31,6 +36,7 @@ Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly 
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eile noun g=f gen=Eile pl=- note=no plural
+Eimer noun g=m gen=Eimers pl=Eimer
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
 Einbeziehung noun g=f gen=Einbeziehung pl=- note=no plural
 Einbildungskraft noun g=f gen=Einbildungskraft pl=- note=no plural
@@ -110,28 +116,41 @@ Einzelperson noun g=f gen=Einzelperson pl=Einzelpersonen
 Einziehung noun g=f gen=Einziehung pl=Einziehungen
 Einzug noun g=m gen=Einzugs|Einzuges pl=Einzüge
 Eis noun g=n gen=Eises pl=Eise[rare]|Eis[colloquial] note=ice; ice cream (zwei Eis, colloquial plural)
+Eiscreme noun g=f gen=Eiscreme pl=Eiscremes
+Eisdiele noun g=f gen=Eisdiele pl=Eisdielen
 Eisen noun g=n gen=Eisens pl=Eisen
 Eisenbahn noun g=f gen=Eisenbahn pl=Eisenbahnen
 Eisenzeit noun g=f gen=Eisenzeit pl=- note=no plural
 Eishockey noun g=n gen=Eishockeys pl=- note=no plural
 Eiskunstläufer noun g=m gen=Eiskunstläufers pl=Eiskunstläufer
 Eiskunstläuferin noun g=f gen=Eiskunstläuferin pl=Eiskunstläuferinnen
+Eisschmelze noun g=f gen=Eisschmelze pl=Eisschmelzen
 Eisschnellläufer noun g=m gen=Eisschnellläufers pl=Eisschnellläufer
+Eiswürfel noun g=m gen=Eiswürfels pl=Eiswürfel
+Eiszapfen noun g=m gen=Eiszapfens pl=Eiszapfen
 Eitelkeit noun g=f gen=Eitelkeit pl=Eitelkeiten
 Eiweiß noun g=n gen=Eiweißes pl=Eiweiße
 Ekel noun g=m gen=Ekels pl=- sense=disgust note=no plural
 Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
+Elch noun g=m gen=Elches|Elchs pl=Elche
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Elegie noun g=f gen=Elegie pl=Elegien
 Elektrifizierung noun g=f gen=Elektrifizierung pl=- note=no plural
+Elektriker noun g=m gen=Elektrikers pl=Elektriker
+Elektrikerin noun g=f gen=Elektrikerin pl=Elektrikerinnen
 Elektrizität noun g=f gen=Elektrizität pl=- note=no plural
 Elektron noun g=n gen=Elektrons pl=Elektronen
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
+Elektroroller noun g=m gen=Elektrorollers pl=Elektroroller
+Elektroschrott noun g=m gen=Elektroschrotts pl=- note=no plural
 Elektrotechnik noun g=f gen=Elektrotechnik pl=- note=no plural
 Element noun g=n gen=Elements|Elementes pl=Elemente
 Elend noun g=n gen=Elends pl=- note=no plural
 Elite noun g=f gen=Elite pl=Eliten
+Ellbogen noun g=m gen=Ellbogens pl=Ellbogen
+Ellenbogen noun g=m gen=Ellenbogens pl=Ellenbogen
 Ellipse noun g=f gen=Ellipse pl=Ellipsen
+Elster noun g=f gen=Elster pl=Elstern
 Eltern       noun g=pl
 Elternteil noun g=m gen=Elternteils|Elternteiles pl=Elternteile
 EM noun g=f gen=EM pl=- note=Europameisterschaft; no plural
@@ -166,6 +185,7 @@ Ensemble noun g=n gen=Ensembles pl=Ensembles
 Entdecker noun g=m gen=Entdeckers pl=Entdecker
 Entdeckerin noun g=f gen=Entdeckerin pl=Entdeckerinnen
 Entdeckung noun g=f gen=Entdeckung pl=Entdeckungen
+Ente noun g=f gen=Ente pl=Enten
 Enteignung noun g=f gen=Enteignung pl=Enteignungen
 Entertainment noun g=n gen=Entertainments pl=- conf=85 note=loanword; no plural
 Entfernung noun g=f gen=Entfernung pl=Entfernungen
@@ -206,14 +226,17 @@ Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
 Erbe noun g=m gen=Erben pl=Erben sense=heir note=der Erbe
 Erbe noun g=n gen=Erbes pl=- sense=inheritance note=das Erbe
+Erbrechen noun g=n gen=Erbrechens pl=- note=mass noun
 Erbringung noun g=f gen=Erbringung pl=- note=no plural
 Erbschaft noun g=f gen=Erbschaft pl=Erbschaften
+Erbse noun g=f gen=Erbse pl=Erbsen
 Erdbeben noun g=n gen=Erdbebens pl=Erdbeben
 Erde noun g=f gen=Erde pl=Erden
 Erdgas noun g=n gen=Erdgases pl=- note=no plural
 Erdgeschoss noun g=n gen=Erdgeschosses pl=Erdgeschosse
 Erdkruste noun g=f gen=Erdkruste pl=- note=no plural
 Erdkunde noun g=f gen=Erdkunde pl=- note=no plural
+Erdnuss noun g=f gen=Erdnuss pl=Erdnüsse
 Erdöl noun g=n gen=Erdöls pl=- note=no plural
 Erdrutsch noun g=m gen=Erdrutschs|Erdrutsches pl=Erdrutsche
 Ereignis noun g=n gen=Ereignisses pl=Ereignisse
@@ -234,6 +257,7 @@ Erhebung noun g=f gen=Erhebung pl=Erhebungen
 Erhöhung noun g=f gen=Erhöhung pl=Erhöhungen
 Erholung noun g=f gen=Erholung pl=- note=no plural
 Erinnerung noun g=f gen=Erinnerung pl=Erinnerungen
+Erkältung noun g=f gen=Erkältung pl=Erkältungen
 Erkenntnis noun g=f gen=Erkenntnis pl=Erkenntnisse
 Erkenntniß noun g=f gen=Erkenntniß pl=Erkenntnisse spelling=old style=archaic note=old spelling of Erkenntnis
 Erklärung noun g=f gen=Erklärung pl=Erklärungen
@@ -242,6 +266,7 @@ Erlangung noun g=f gen=Erlangung pl=- note=no plural
 Erlass noun g=m gen=Erlasses pl=Erlasse|Erlässe
 Erlaubnis noun g=f gen=Erlaubnis pl=Erlaubnisse
 Erläuterung noun g=f gen=Erläuterung pl=Erläuterungen
+Erle noun g=f gen=Erle pl=Erlen
 Erlebnis noun g=n gen=Erlebnisses pl=Erlebnisse
 Erledigung noun g=f gen=Erledigung pl=Erledigungen
 Erleichterung noun g=f gen=Erleichterung pl=Erleichterungen
@@ -303,15 +328,20 @@ Erzieher noun g=m gen=Erziehers pl=Erzieher
 Erzieherin noun g=f gen=Erzieherin pl=Erzieherinnen
 Erziehung noun g=f gen=Erziehung pl=- note=no plural
 Erzstift noun g=n gen=Erzstifts|Erzstiftes pl=Erzstifte
+Esche noun g=f gen=Esche pl=Eschen
 Esel noun g=m gen=Esels pl=Esel
 Eskalation noun g=f gen=Eskalation pl=Eskalationen
 Essay noun g=m|n gen=Essays pl=Essays
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
+Essig noun g=m gen=Essigs pl=Essige
 Etablierung noun g=f gen=Etablierung pl=- note=no plural
+Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
 Etappe noun g=f gen=Etappe pl=Etappen
 Etat noun g=m gen=Etats pl=Etats
 Ethik noun g=f gen=Ethik pl=- note=no plural
 Ethnie noun g=f gen=Ethnie pl=Ethnien
+Etikett noun g=n gen=Etiketts pl=Etikette|Etiketten|Etiketts
+Eule noun g=f gen=Eule pl=Eulen
 Euphemismus noun g=m gen=Euphemismus pl=Euphemismen
 Euro noun g=m gen=Euro|Euros pl=Euro|Euros note=des Euro; zehn Euro
 Europäer noun g=m gen=Europäers pl=Europäer
@@ -319,6 +349,7 @@ Europameister noun g=m gen=Europameisters pl=Europameister
 Europameisterschaft noun g=f gen=Europameisterschaft pl=Europameisterschaften
 Europapokal noun g=m gen=Europapokals pl=Europapokale
 Europawahl noun g=f gen=Europawahl pl=Europawahlen
+Euter noun g=n gen=Euters pl=Euter
 Evaluation noun g=f gen=Evaluation pl=Evaluationen
 Evaluierung noun g=f gen=Evaluierung pl=Evaluierungen
 Evangelium noun g=n gen=Evangeliums pl=Evangelien

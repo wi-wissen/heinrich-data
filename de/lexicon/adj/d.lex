@@ -1,25 +1,31 @@
 damalig       adj note=only attributive (die damalige Regierung)
+dämlich adj cmp=dämlicher sup=dämlichsten
 dänisch adj
 dankbar       adj cmp=dankbarer sup=dankbarsten
 darauffolgend adj attr_only
 dauerhaft     adj cmp=dauerhafter sup=dauerhaftesten
 dauernd adj
 dazugehörig adj
+defekt adj
 definitiv adj
 demografisch adj
 demokratisch adj
 denkbar adj
 derartig adj
 derzeitig adj attr_only
+desinteressiert adj cmp=desinteressierter sup=desinteressiertesten
 detailliert adj cmp=detaillierter sup=detailliertesten
 deutlich      adj cmp=deutlicher sup=deutlichsten
 deutsch      adj
 deutschsprachig adj
+dezent adj cmp=dezenter sup=dezentesten
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
+dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dienstlich adj
 diesbezüglich adj
+diesig adj cmp=diesiger sup=diesigsten
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
 diktatorisch adj
@@ -27,21 +33,27 @@ diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
 divers adj
+doof adj cmp=doofer sup=doofsten
 doppelt adj
+dornig adj cmp=dorniger sup=dornigsten
 dortig        adj note=only attributive (die dortigen Verhältnisse)
 drahtlos adj
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
+dreckig adj cmp=dreckiger sup=dreckigsten
 dreifach adj
 dreißigjährig adj attr_only
 dringend      adj cmp=dringender sup=dringendsten
 dual adj
+duftend adj
 dumm adj cmp=dümmer sup=dümmsten
 dumpf adj cmp=dumpfer sup=dumpfsten
 dunkel        adj cmp=dunkler sup=dunkelsten
+dunkelhaarig adj
 dünn adj cmp=dünner sup=dünnsten
 durchgängig adj
 durchschnittlich adj
 durchsichtig adj cmp=durchsichtiger sup=durchsichtigsten
+durstig adj cmp=durstiger sup=durstigsten
 düster adj cmp=düsterer sup=düstersten
 dynamisch adj cmp=dynamischer sup=dynamischsten

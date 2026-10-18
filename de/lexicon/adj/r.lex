@@ -1,9 +1,12 @@
+rachsüchtig adj cmp=rachsüchtiger sup=rachsüchtigsten
 radikal adj cmp=radikaler sup=radikalsten
 radioaktiv adj
 rasch adj cmp=rascher sup=raschesten
 rassistisch adj
 rational adj
-rau adj cmp=rauer sup=rauesten
+rätselhaft adj cmp=rätselhafter sup=rätselhaftesten
+rau adj cmp=rauer sup=rauesten|raustesten
+räuberisch adj
 räumlich adj
 real adj cmp=realer sup=realsten
 realistisch adj cmp=realistischer sup=realistischsten
@@ -18,7 +21,9 @@ redlich adj cmp=redlicher sup=redlichsten
 reflexiv adj
 rege adj cmp=reger sup=regsten
 regelmäßig adj
+regenerativ adj
 regional adj
+regnerisch adj cmp=regnerischer sup=regnerischsten
 regulär adj
 regungslos adj cmp=regungsloser sup=regungslosesten
 reich adj cmp=reicher sup=reichsten
@@ -47,8 +52,10 @@ romantisch adj cmp=romantischer sup=romantischsten
 römisch adj
 rosa         adj indecl
 rot adj cmp=röter|roter sup=rötesten|rotesten
+rothaarig adj
 rückgängig adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj
 rund adj cmp=runder sup=rundesten
 russisch adj
+rüstig adj cmp=rüstiger sup=rüstigsten
