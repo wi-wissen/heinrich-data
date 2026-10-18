@@ -42,7 +42,7 @@ verteilen verb class=weak pp=verteilt perf=haben
 vertrauen verb class=weak pp=vertraut perf=haben
 vertreten verb class=strong 3sg=vertritt past=vertrat pp=vertreten subj2=verträte perf=haben
 verurteilen verb class=weak pp=verurteilt perf=haben
-verwenden verb class=weak pp=verwendet perf=haben
+verwenden verb class=weak past=verwendete|verwandte pp=verwendet|verwandt perf=haben
 vorbereiten verb class=weak sep=vor pp=vorbereitet perf=haben
 vorlegen verb class=weak sep=vor pp=vorgelegt perf=haben
 vorliegen verb class=strong sep=vor 3sg=vorliegt past=vorlag pp=vorgelegen subj2=vorläge perf=haben

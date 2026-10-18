@@ -96,7 +96,9 @@ mangels      adp case=gen
 mithilfe     adp case=gen note=also mit Hilfe
 mittels      adp case=gen
 namens       adp case=gen
+nördlich     adp case=gen note=nördlich der Stadt; also nördlich von
 oberhalb     adp case=gen
+östlich      adp case=gen note=östlich der Stadt; also östlich von
 ob           adp case=gen style=archaic note=ob des Lärms (because of); the conjunction ob is in conjunctions.lex
 seitens      adp case=gen
 statt        adp case=gen|dat[colloquial]
@@ -105,7 +107,10 @@ unbeschadet  adp case=gen
 ungeachtet   adp case=gen place=pre|post
 unterhalb    adp case=gen
 unweit       adp case=gen
+südlich      adp case=gen note=südlich der Stadt; also südlich von
 vonseiten    adp case=gen note=also von Seiten
+westlich     adp case=gen note=westlich der Stadt; also westlich von
+voller       adp case=gen note=invariable: voller Freude, voller Hoffnung (the noun stands without article and ending); the adjective voll/voller is in adj/
 vorbehaltlich adp case=gen
 während      adp case=gen|dat[colloquial]
 wegen        adp case=gen|dat[colloquial] place=pre|post note=der Kinder wegen (post)

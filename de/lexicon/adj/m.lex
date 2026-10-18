@@ -15,7 +15,7 @@ mexikanisch adj
 militärisch adj
 mittelalterlich adj
 mittelbar adj
-mittler adj note=attributive only; die mittlere Reife
+mittler adj attr_only sup=mittelsten note=die mittlere Reife, der mittelste Platz; no comparative
 modern adj cmp=moderner sup=modernsten
 möglich adj cmp=möglicher sup=möglichsten
 momentan adj

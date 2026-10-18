@@ -20,7 +20,7 @@ letzter adj attr_only note=der letztere (the latter); cf. letzt
 liberal adj cmp=liberaler sup=liberalsten
 lieb adj cmp=lieber sup=liebsten
 lila         adj indecl
-link adj note=attributive only; linke Hand
+link adj attr_only note=attributive only; linke Hand
 literarisch adj
 lokal adj
 los adj note=predicative, e.g. etwas los sein

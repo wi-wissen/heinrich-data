@@ -15,7 +15,7 @@ Weg noun g=m gen=Weges|Wegs pl=Wege
 Weib noun g=n gen=Weibes|Weibs[rare] pl=Weiber style=archaic note=woman (old or derogatory)
 Weile noun g=f gen=Weile pl=- note=eine Weile
 Wein noun g=m gen=Weines|Weins pl=Weine
-Weiß noun g=n gen=Weißes pl=- conf=80 note=colour name; genitive des Weiß also seen but the format requires -s
+Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Welt noun g=f gen=Welt pl=Welten
 Werk noun g=n gen=Werkes|Werks pl=Werke

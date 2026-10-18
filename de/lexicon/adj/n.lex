@@ -14,7 +14,7 @@ neugierig adj cmp=neugieriger sup=neugierigsten
 nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separate
 niederländisch adj
 niedrig adj cmp=niedriger sup=niedrigsten
-nördlich adj
+nördlich adj note=also a genitive preposition (closed/prepositions.lex)
 normal adj cmp=normaler sup=normalsten
 norwegisch adj
 nötig adj cmp=nötiger sup=nötigsten

@@ -6,8 +6,8 @@ Falle noun g=f gen=Falle pl=Fallen
 Familie noun g=f gen=Familie pl=Familien
 Farbe noun g=f gen=Farbe pl=Farben
 Fassung noun g=f gen=Fassung pl=Fassungen
-FC noun g=m sg=FC,FC|FCs,FC,FC pl=FC|FCs note=Fußballclub
-Februar noun g=m sg=Februar,Februar|Februars,Februar,Februar pl=- note=month
+FC noun g=m gen=FC|FCs pl=FC|FCs note=Fußballclub
+Februar noun g=m gen=Februar|Februars pl=- note=month; des Februar(s)
 Fehler noun g=m gen=Fehlers pl=Fehler
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder

@@ -34,12 +34,12 @@ Marquis noun g=m gen=Marquis pl=Marquis note=French title
 Marsch noun g=m gen=Marsches pl=Märsche sense=march
 Marschall noun g=m gen=Marschalls pl=Marschälle
 März noun g=m gen=März|Märzes pl=Märze[rare] note=month name; plural rare
-Maß noun g=n gen=Maßes pl=Maße
 Maschine noun g=f gen=Maschine pl=Maschinen
-Maßgabe noun g=f gen=Maßgabe pl=Maßgaben note=chiefly nach Maßgabe
 Maske noun g=f gen=Maske pl=Masken
-Maßnahme noun g=f gen=Maßnahme pl=Maßnahmen
+Maß noun g=n gen=Maßes pl=Maße
 Masse noun g=f gen=Masse pl=Massen
+Maßgabe noun g=f gen=Maßgabe pl=Maßgaben note=chiefly nach Maßgabe
+Maßnahme noun g=f gen=Maßnahme pl=Maßnahmen
 Maßstab noun g=m gen=Maßstabs|Maßstabes pl=Maßstäbe
 Mast noun g=m gen=Mastes|Masts pl=Masten|Maste[rare]
 Master noun g=m gen=Masters pl=Master
