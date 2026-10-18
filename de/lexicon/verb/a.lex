@@ -5,6 +5,7 @@ abschließen   verb class=strong sep=ab 3sg=abschließt past=abschloss pp=abgesc
 absehen       verb class=strong sep=ab 3sg=absieht past=absah pp=abgesehen subj2=absähe perf=haben
 absolvieren   verb class=weak pp=absolviert perf=haben
 abweichen     verb class=strong sep=ab 3sg=abweicht past=abwich pp=abgewichen subj2=abwiche perf=sein
+ahnden verb class=weak pp=geahndet perf=haben
 anbieten      verb class=strong sep=an 3sg=anbietet past=anbot pp=angeboten subj2=anböte perf=haben
 anbringen     verb class=mixed sep=an 3sg=anbringt past=anbrachte pp=angebracht subj2=anbrächte perf=haben
 ändern verb class=weak pp=geändert perf=haben refl=acc
@@ -27,6 +28,7 @@ aufheben      verb class=strong sep=auf 3sg=aufhebt past=aufhob pp=aufgehoben su
 auflösen      verb class=weak sep=auf pp=aufgelöst perf=haben
 aufnehmen     verb class=strong sep=auf 3sg=aufnimmt past=aufnahm pp=aufgenommen subj2=aufnähme perf=haben
 aufstellen    verb class=weak sep=auf pp=aufgestellt perf=haben
+äußern verb class=weak pp=geäußert perf=haben
 ausführen     verb class=weak sep=aus pp=ausgeführt perf=haben
 ausnehmen     verb class=strong sep=aus 3sg=ausnimmt past=ausnahm pp=ausgenommen subj2=ausnähme perf=haben
 ausreichen    verb class=weak sep=aus pp=ausgereicht perf=haben

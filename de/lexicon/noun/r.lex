@@ -8,6 +8,7 @@ Realität noun g=f gen=Realität pl=Realitäten
 Rechnung noun g=f gen=Rechnung pl=Rechnungen
 Recht noun g=n gen=Rechts|Rechtes pl=Rechte
 Rechte noun g=m|f decl=adj note=der Rechte (right-wing), die Rechte (right hand / political right)
+Redakteur noun g=m gen=Redakteurs pl=Redakteure
 Rede noun g=f gen=Rede pl=Reden
 Redner noun g=m gen=Redners pl=Redner
 Rednerin noun g=f gen=Rednerin pl=Rednerinnen

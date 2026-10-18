@@ -1,4 +1,5 @@
-gebären verb class=strong 3sg=gebärt|gebiert past=gebar pp=geboren subj2=gebäre perf=haben
+garantieren verb class=weak pp=garantiert perf=haben
+gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben        verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben
 gebrauchen verb class=weak pp=gebraucht perf=haben
 gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte perf=haben note=mit Genitiv (gedenkt der Toten)

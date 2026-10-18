@@ -81,6 +81,7 @@ Prinzip noun g=n gen=Prinzips|Prinzipes pl=Prinzipien
 Problem noun g=n gen=Problems pl=Probleme
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
 Produktion noun g=f gen=Produktion pl=Produktionen
+Produzent noun g=m gen=Produzenten pl=Produzenten
 Professor noun g=m gen=Professors pl=Professoren
 Programm noun g=n gen=Programms|Programmes pl=Programme
 Projekt noun g=n gen=Projekts|Projektes pl=Projekte
