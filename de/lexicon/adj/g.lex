@@ -3,6 +3,7 @@ gar adj
 geborgen adj
 gebräuchlich adj
 gebraucht adj
+gebrechlich adj cmp=gebrechlicher sup=gebrechlichsten
 geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
@@ -13,9 +14,13 @@ gegenseitig adj
 gegenwärtig adj
 geheim adj
 gehörig adj
+gehorsam adj cmp=gehorsamer sup=gehorsamsten
+geil adj style=colloquial cmp=geiler sup=geilsten
 geistig adj
 geistlich adj
 geizig adj cmp=geiziger sup=geizigsten
+gekränkt adj cmp=gekränkter sup=gekränktesten
+gelangweilt adj cmp=gelangweilter sup=gelangweiltesten
 gelb adj cmp=gelber sup=gelbsten
 gelblich adj cmp=gelblicher sup=gelblichsten
 gelegentlich adj
@@ -24,13 +29,17 @@ gemein adj cmp=gemeiner sup=gemeinsten
 gemeinnützig adj
 gemeinsam adj cmp=gemeinsamer sup=gemeinsamsten
 gemeinschaftlich adj
+gemütlich adj cmp=gemütlicher sup=gemütlichsten
 genau adj cmp=genauer sup=genauesten
 generell adj
 genetisch adj
+genial adj cmp=genialer sup=genialsten
 geografisch adj
 geographisch adj
 geologisch adj
+gepunktet adj
 gerade adj cmp=gerader sup=geradesten
+geräumig adj cmp=geräumiger sup=geräumigsten
 gerecht adj cmp=gerechter sup=gerechtesten
 gereizt adj cmp=gereizter sup=gereiztesten
 gerichtlich adj
@@ -41,10 +50,12 @@ gesamt adj
 geschäftlich adj
 geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
+geschockt adj cmp=geschockter sup=geschocktesten
 geschwind adj cmp=geschwinder sup=geschwindesten
 gesellschaftlich adj
 gesetzlich adj
 gesondert adj
+gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
@@ -64,6 +75,7 @@ glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
+gleichaltrig adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
@@ -79,9 +91,12 @@ gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is sep
 grasig adj cmp=grasiger sup=grasigsten
 gratis adj indecl
 grau adj cmp=grauer sup=grauesten
+grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten
+grell adj cmp=greller sup=grellsten
 grenzüberschreitend adj
 griechisch adj
+griesgrämig adj cmp=griesgrämiger sup=griesgrämigsten
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
@@ -90,6 +105,7 @@ grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten
 grundsätzlich adj
+gruselig adj cmp=gruseliger sup=gruseligsten
 gültig adj
 günstig adj cmp=günstiger sup=günstigsten
 gut          adj cmp=besser sup=besten

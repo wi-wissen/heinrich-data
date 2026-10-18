@@ -1,5 +1,6 @@
 Café noun g=n gen=Cafés pl=Cafés
 Camp noun g=n gen=Camps pl=Camps
+Camping noun g=n gen=Campings pl=- note=mass noun
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän
@@ -33,6 +34,7 @@ Christ noun g=m gen=Christen pl=Christen
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Chronik noun g=f gen=Chronik pl=Chroniken
 Clementine noun g=f gen=Clementine pl=Clementinen
+Clique noun g=f gen=Clique pl=Cliquen
 Club          noun g=m gen=Clubs pl=Clubs
 Cocktail noun g=m gen=Cocktails pl=Cocktails
 Code noun g=m gen=Codes pl=Codes
@@ -48,6 +50,7 @@ Container noun g=m gen=Containers pl=Container
 Contest noun g=m gen=Contests pl=Contests conf=80 note=English loanword
 Cornflakes noun g=pl
 Corona noun g=f gen=Corona pl=- conf=75 note=colloquial for the coronavirus pandemic (die Corona-Krise)
+Couch noun g=f gen=Couch pl=Couchs|Couches
 Coupé noun g=n gen=Coupés pl=Coupés
 Courage noun g=f gen=Courage pl=- note=no plural
 Couscous noun g=m gen=Couscous pl=- note=no plural
@@ -55,6 +58,7 @@ Cousin noun g=m gen=Cousins pl=Cousins
 Cousine noun g=f gen=Cousine pl=Cousinen
 Cover noun g=n gen=Covers pl=Covers
 Covid noun g=n gen=Covid|Covids pl=- conf=60 note=COVID-19; gender fluctuates
+Creme noun g=f gen=Creme pl=Cremes|Cremen
 Crew noun g=f gen=Crew pl=Crews
 Cricket noun g=n gen=Crickets pl=- note=sport; no plural
 Croissant noun g=n gen=Croissants pl=Croissants

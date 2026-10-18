@@ -1,17 +1,22 @@
 tanken verb class=weak pp=getankt perf=haben
 tanzen       verb class=weak pp=getanzt perf=haben
+tapezieren verb class=weak pp=tapeziert perf=haben
+tasten verb class=weak pp=getastet perf=haben
 tätigen verb class=weak pp=getätigt perf=haben
 tauchen verb class=weak pp=getaucht perf=haben|sein
 tauen verb class=weak pp=getaut perf=haben|sein
 taufen verb class=weak pp=getauft perf=haben
+taumeln verb class=weak pp=getaumelt perf=sein
 täuschen verb class=weak pp=getäuscht perf=haben refl=acc
 teilen verb class=weak pp=geteilt perf=haben
 teilhaben verb class=mixed sep=teil 3sg=teilhat past=teilhatte pp=teilgehabt subj2=teilhätte perf=haben
 teilnehmen verb class=strong sep=teil 3sg=teilnimmt past=teilnahm pp=teilgenommen subj2=teilnähme perf=haben
+telefonieren verb class=weak pp=telefoniert perf=haben
 testen verb class=weak pp=getestet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
 toben verb class=weak pp=getobt perf=haben|sein
 tönen verb class=weak pp=getönt perf=haben
+torkeln verb class=weak pp=getorkelt perf=haben|sein
 tosen verb class=weak pp=getost perf=haben
 töten verb class=weak pp=getötet perf=haben
 traben verb class=weak pp=getrabt perf=haben|sein
@@ -21,6 +26,7 @@ trampeln verb class=weak pp=getrampelt perf=haben|sein
 tränken verb class=weak pp=getränkt perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 trauen verb class=weak pp=getraut perf=haben
+trauern verb class=weak pp=getrauert perf=haben
 träumen verb class=weak pp=geträumt perf=haben
 treffen verb class=strong 3sg=trifft past=traf pp=getroffen subj2=träfe perf=haben|sein refl=acc
 treiben verb class=strong 3sg=treibt past=trieb pp=getrieben subj2=triebe perf=haben|sein
@@ -35,5 +41,6 @@ tröpfeln verb class=weak pp=getröpfelt perf=haben|sein
 tropfen verb class=weak pp=getropft perf=haben|sein
 trösten verb class=weak pp=getröstet perf=haben refl=acc
 trotten verb class=weak pp=getrottet perf=sein
+trotzen verb class=weak pp=getrotzt perf=haben
 trüben verb class=weak pp=getrübt perf=haben refl=acc
 tun          verb class=strong pres=tue,tust,tut,tun,tut,tun past=tat pp=getan subj2=täte perf=haben

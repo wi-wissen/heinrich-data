@@ -1,10 +1,14 @@
+T-Shirt noun g=n gen=T-Shirts pl=T-Shirts
 Tabak noun g=m gen=Tabaks pl=Tabake
 Tabelle noun g=f gen=Tabelle pl=Tabellen
-Tablett noun g=n gen=Tabletts pl=Tablette|Tabletts
+Tablet noun g=n gen=Tablets pl=Tablets
+Tablett noun g=n gen=Tabletts pl=Tabletts|Tabletten
+Tablette noun g=f gen=Tablette pl=Tabletten
 Tabu noun g=n gen=Tabus pl=Tabus
 Tafel noun g=f gen=Tafel pl=Tafeln
 Tag          noun g=m gen=Tages|Tags pl=Tage
 Taifun noun g=m gen=Taifuns pl=Taifune
+Taille noun g=f gen=Taille pl=Taillen
 Takt noun g=m gen=Takts|Taktes pl=Takte
 Tal noun g=n gen=Tals|Tales pl=Täler
 Talent noun g=n gen=Talents|Talentes pl=Talente
@@ -17,19 +21,24 @@ Tante noun g=f gen=Tante pl=Tanten
 Tanz noun g=m gen=Tanzes pl=Tänze
 Tänzer noun g=m gen=Tänzers pl=Tänzer
 Tänzerin noun g=f gen=Tänzerin pl=Tänzerinnen
+Tapete noun g=f gen=Tapete pl=Tapeten
 Tapferkeit noun g=f gen=Tapferkeit pl=- note=no plural
 Tarif noun g=m gen=Tarifs|Tarifes pl=Tarife
 Tarifvertrag noun g=m gen=Tarifvertrags|Tarifvertrages pl=Tarifverträge
 Tasche noun g=f gen=Tasche pl=Taschen
+Taschenrechner noun g=m gen=Taschenrechners pl=Taschenrechner
 Tasse noun g=f gen=Tasse pl=Tassen
+Tastatur noun g=f gen=Tastatur pl=Tastaturen
 Tat noun g=f gen=Tat pl=Taten
 Täter noun g=m gen=Täters pl=Täter
 Tätigkeit noun g=f gen=Tätigkeit pl=Tätigkeiten
 Tatsache noun g=f gen=Tatsache pl=Tatsachen
+Tattoo noun g=n gen=Tattoos pl=Tattoos
 Tatze noun g=f gen=Tatze pl=Tatzen
 Tau noun g=n gen=Taus|Taues pl=Taue sense=rope note=das Tau: thick rope
 Tau noun g=m gen=Taus|Taues pl=- sense=dew note=der Tau: morning dew; no plural
 Taube noun g=f gen=Taube pl=Tauben
+Taucherbrille noun g=f gen=Taucherbrille pl=Taucherbrillen
 Taufe noun g=f gen=Taufe pl=Taufen
 Täufer noun g=m gen=Täufers pl=Täufer
 Tausch noun g=m gen=Tauschs|Tausches pl=Tausche
@@ -40,8 +49,10 @@ Team noun g=n gen=Teams pl=Teams
 Technik noun g=f gen=Technik pl=Techniken
 Techniker noun g=m gen=Technikers pl=Techniker
 Technologie noun g=f gen=Technologie pl=Technologien
+Teddy noun g=m gen=Teddys pl=Teddys
 Tee noun g=m gen=Tees pl=Tees
 Teekanne noun g=f gen=Teekanne pl=Teekannen
+Teenager noun g=m gen=Teenagers pl=Teenager
 Teich noun g=m gen=Teichs|Teiches pl=Teiche
 Teig noun g=m gen=Teiges|Teigs pl=Teige
 Teil         noun g=m gen=Teils|Teiles pl=Teile sense=portion note=der Teil: part of a whole
@@ -51,6 +62,7 @@ Teilhabe noun g=f gen=Teilhabe pl=- note=mass noun
 Teilnahme noun g=f gen=Teilnahme pl=- note=no plural
 Teilnehmer noun g=m gen=Teilnehmers pl=Teilnehmer
 Teilung noun g=f gen=Teilung pl=Teilungen
+Teint noun g=m gen=Teints pl=Teints
 Telefon noun g=n gen=Telefons pl=Telefone
 Telekommunikation noun g=f gen=Telekommunikation pl=- note=mass noun
 Teller noun g=m gen=Tellers pl=Teller
@@ -88,7 +100,9 @@ Theologie noun g=f gen=Theologie pl=Theologien
 Theorie noun g=f gen=Theorie pl=Theorien
 Therapie noun g=f gen=Therapie pl=Therapien
 Thermalquelle noun g=f gen=Thermalquelle pl=Thermalquellen
+Thermometer noun g=n gen=Thermometers pl=Thermometer
 Thermoskanne noun g=f gen=Thermoskanne pl=Thermoskannen
+Thermostat noun g=m gen=Thermostats|Thermostates pl=Thermostate
 These noun g=f gen=These pl=Thesen
 Thier noun g=n gen=Thieres|Thiers pl=Thiere spelling=old note=old spelling of Tier
 Thriller noun g=m gen=Thrillers pl=Thriller
@@ -97,8 +111,10 @@ Thüringer noun g=m gen=Thüringers pl=Thüringer note=inhabitant of Thüringen
 Thymian noun g=m gen=Thymians pl=Thymiane
 Tief noun g=n gen=Tiefs pl=Tiefs
 Tiefe noun g=f gen=Tiefe pl=Tiefen
+Tiefkühltruhe noun g=f gen=Tiefkühltruhe pl=Tiefkühltruhen
 Tier noun g=n gen=Tieres|Tiers pl=Tiere
 Tierpflegerin noun g=f gen=Tierpflegerin pl=Tierpflegerinnen
+Tierquälerei noun g=f gen=Tierquälerei pl=- note=mass noun
 Tiger noun g=m gen=Tigers pl=Tiger
 Tintenfisch noun g=m gen=Tintenfisches pl=Tintenfische
 Tiroler noun g=m gen=Tirolers pl=Tiroler
@@ -117,6 +133,7 @@ Tomatensoße noun g=f gen=Tomatensoße pl=Tomatensoßen
 Ton noun g=m gen=Tones|Tons pl=Töne sense=sound
 Ton noun g=m gen=Tones|Tons pl=Tone[rare] sense=clay
 Tonne noun g=f gen=Tonne pl=Tonnen
+Top noun g=n gen=Tops pl=Tops
 Topf noun g=m gen=Topfs|Topfes pl=Töpfe
 Topflappen noun g=m gen=Topflappens pl=Topflappen
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
@@ -139,6 +156,7 @@ Tragweite noun g=f gen=Tragweite pl=- note=no plural in practice
 Trainer noun g=m gen=Trainers pl=Trainer
 Training noun g=n gen=Trainings pl=Trainings
 Trampelpfad noun g=m gen=Trampelpfads pl=Trampelpfade
+Trampolin noun g=n gen=Trampolins pl=Trampoline
 Träne noun g=f gen=Träne pl=Tränen
 Trank noun g=m gen=Tranks|Trankes pl=Tränke
 Tränke noun g=f gen=Tränke pl=Tränken
@@ -152,6 +170,9 @@ Trasse noun g=f gen=Trasse pl=Trassen
 Traube noun g=f gen=Traube pl=Trauben
 Trauer noun g=f gen=Trauer pl=- note=no plural
 Traum noun g=m gen=Traums|Traumes pl=Träume
+Trauung noun g=f gen=Trauung pl=Trauungen
+Trauzeuge noun g=m gen=Trauzeugen pl=Trauzeugen note=compound; the analyser would take Zeug as head
+Trauzeugin noun g=f gen=Trauzeugin pl=Trauzeuginnen
 Treffen noun g=n gen=Treffens pl=Treffen note=lexicalised nominal infinitive: meeting
 Treffer noun g=m gen=Treffers pl=Treffer
 Treiben noun g=n gen=Treibens pl=- note=lexicalised nominal infinitive: bustle, activity
@@ -166,6 +187,7 @@ Trinkwasser noun g=n gen=Trinkwassers pl=- note=no plural
 Trio noun g=n gen=Trios pl=Trios
 Triumph noun g=m gen=Triumphs|Triumphes pl=Triumphe
 Trockenheit noun g=f gen=Trockenheit pl=- note=no plural in practice
+Trockner noun g=m gen=Trockners pl=Trockner
 Trog noun g=m gen=Troges|Trogs pl=Tröge
 Trommel noun g=f gen=Trommel pl=Trommeln
 Trompete noun g=f gen=Trompete pl=Trompeten
@@ -191,8 +213,11 @@ Tunnel noun g=m gen=Tunnels pl=Tunnel|Tunnels
 Tür noun g=f gen=Tür pl=Türen
 Türe noun g=f gen=Türe pl=Türen conf=90 note=variant of Tür (southern German, Swiss); common in our counts
 Türke noun g=m gen=Türken pl=Türken
+Türklinke noun g=f gen=Türklinke pl=Türklinken note=compound not split correctly by the analyser
 Turm noun g=m gen=Turmes|Turms pl=Türme
+Turnbeutel noun g=m gen=Turnbeutels pl=Turnbeutel
 Turnier noun g=n gen=Turniers|Turnieres pl=Turniere
+Turnschuh noun g=m gen=Turnschuhs|Turnschuhes pl=Turnschuhe
 Tüte noun g=f gen=Tüte pl=Tüten
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
 Typ noun g=m gen=Typs pl=Typen

@@ -1,9 +1,11 @@
+Valentinstag noun g=m gen=Valentinstags|Valentinstages pl=Valentinstage
 Vanille noun g=f gen=Vanille pl=- note=no plural
 Variante noun g=f gen=Variante pl=Varianten
 Variation noun g=f gen=Variation pl=Variationen
 Vase noun g=f gen=Vase pl=Vasen
 Vater noun g=m gen=Vaters pl=Väter
 Vaterland noun g=n gen=Vaterlands|Vaterlandes pl=Vaterländer
+Vati noun g=m gen=Vatis pl=Vatis
 Vegetation noun g=f gen=Vegetation pl=Vegetationen
 Veilchen noun g=n gen=Veilchens pl=Veilchen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
@@ -74,6 +76,7 @@ Verkauf noun g=m gen=Verkaufs|Verkaufes[rare] pl=Verkäufe
 Verkäufer noun g=m gen=Verkäufers pl=Verkäufer
 Verkäuferin noun g=f gen=Verkäuferin pl=Verkäuferinnen
 Verkehr noun g=m gen=Verkehrs|Verkehres[rare] pl=Verkehre[rare] note=mostly mass noun; plural Verkehre in technical use (traffic flows)
+Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkündung noun g=f gen=Verkündung pl=Verkündungen
 Verkürzung noun g=f gen=Verkürzung pl=Verkürzungen
@@ -88,7 +91,9 @@ Verleger noun g=m gen=Verlegers pl=Verleger
 Verlegung noun g=f gen=Verlegung pl=Verlegungen
 Verleihung noun g=f gen=Verleihung pl=Verleihungen
 Verletzung noun g=f gen=Verletzung pl=Verletzungen
+Verliebtheit noun g=f gen=Verliebtheit pl=- note=mass noun
 Verlierer noun g=m gen=Verlierers pl=Verlierer
+Verlobte noun g=m|f decl=adj
 Verlobung noun g=f gen=Verlobung pl=Verlobungen
 Verlust noun g=m gen=Verlustes|Verlusts pl=Verluste
 Vermarktung noun g=f gen=Vermarktung pl=- note=no plural
@@ -147,8 +152,10 @@ Verstand noun g=m gen=Verstandes|Verstands pl=- note=no plural
 Verständigung noun g=f gen=Verständigung pl=- note=no plural
 Verständnis noun g=n gen=Verständnisses pl=Verständnisse[rare]
 Verstärkung noun g=f gen=Verstärkung pl=Verstärkungen
+Verstauchung noun g=f gen=Verstauchung pl=Verstauchungen
 Versteck noun g=n gen=Verstecks|Versteckes pl=Verstecke
 Versteigerung noun g=f gen=Versteigerung pl=Versteigerungen
+Verstopfung noun g=f gen=Verstopfung pl=Verstopfungen
 Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
 Versuch noun g=m gen=Versuchs|Versuches[rare] pl=Versuche

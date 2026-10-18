@@ -2,6 +2,9 @@ Zahl noun g=f gen=Zahl pl=Zahlen
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
 Zahn noun g=m gen=Zahns|Zahnes pl=Zähne
+Zahnpasta noun g=f gen=Zahnpasta pl=Zahnpasten
+Zahnspange noun g=f gen=Zahnspange pl=Zahnspangen
+Zange noun g=f gen=Zange pl=Zangen
 Zapfen noun g=m gen=Zapfens pl=Zapfen
 Zar noun g=m gen=Zaren pl=Zaren
 Zärtlichkeit noun g=f gen=Zärtlichkeit pl=Zärtlichkeiten
@@ -23,6 +26,7 @@ Zeit noun g=f gen=Zeit pl=Zeiten
 Zeitgenosse noun g=m gen=Zeitgenossen pl=Zeitgenossen
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
 Zeitung noun g=f gen=Zeitung pl=Zeitungen
+Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
 Zensur noun g=f gen=Zensur pl=Zensuren
@@ -41,6 +45,7 @@ Zeuge noun g=m gen=Zeugen pl=Zeugen
 Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
 Zicklein noun g=n gen=Zickleins pl=Zicklein
 Ziege noun g=f gen=Ziege pl=Ziegen
+Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
 Ziesel noun g=m gen=Ziesels pl=Ziesel
@@ -67,11 +72,14 @@ Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zone noun g=f gen=Zone pl=Zonen
 Zoo noun g=m gen=Zoos pl=Zoos
 Zoologe noun g=m gen=Zoologen pl=Zoologen
+Zopf noun g=m gen=Zopfes|Zopfs pl=Zöpfe
 Zorn noun g=m gen=Zorns|Zornes pl=- note=no plural
 Zubehör noun g=n gen=Zubehörs|Zubehöres pl=Zubehöre
 Zubereitung noun g=f gen=Zubereitung pl=Zubereitungen
 Zucchini noun g=f gen=Zucchini pl=Zucchini|Zucchinis
 Zucht noun g=f gen=Zucht pl=Zuchten
+Züchter noun g=m gen=Züchters pl=Züchter
+Züchterin noun g=f gen=Züchterin pl=Züchterinnen
 Zucker noun g=m gen=Zuckers pl=Zucker
 Zuflucht noun g=f gen=Zuflucht pl=- note=no plural
 Zufluss noun g=m gen=Zuflusses pl=Zuflüsse
@@ -136,6 +144,7 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder

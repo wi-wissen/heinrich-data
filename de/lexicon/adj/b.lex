@@ -2,6 +2,7 @@ bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and
 bankrott adj
 bar adj
 barock adj
+bärtig adj
 bäuerlich adj
 baulich adj
 bayerisch adj
@@ -11,6 +12,7 @@ bedeckt adj
 bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
+bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befindlich adj
 befugt adj
 begehrt adj cmp=begehrter sup=begehrtesten
@@ -20,8 +22,11 @@ behaart adj
 behaglich adj cmp=behaglicher sup=behaglichsten
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
+beige adj
 beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
+bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
+bekloppt adj cmp=bekloppter sup=beklopptesten
 belgisch adj
 beliebig adj
 beliebt adj cmp=beliebter sup=beliebtesten
@@ -35,6 +40,7 @@ beruflich adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
+bescheuert adj cmp=bescheuerter sup=bescheuertsten
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
@@ -58,21 +64,27 @@ bissig adj cmp=bissiger sup=bissigsten
 bitter adj cmp=bitterer sup=bittersten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten
+blauäugig adj
 bleich adj cmp=bleicher sup=bleichsten
 blind adj cmp=blinder sup=blindesten
+blöd adj cmp=blöder sup=blödesten
+blödsinnig adj cmp=blödsinniger sup=blödsinnigsten
 blond adj cmp=blonder sup=blondesten
 bloß adj
 blühend adj
 blutig adj cmp=blutiger sup=blutigsten
+bockig adj cmp=bockiger sup=bockigsten
 böhmisch adj
 böig adj
 böse          adj cmp=böser sup=bösesten
+boshaft adj cmp=boshafter sup=boshaftesten
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
 bräunlich adj
 brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
 britisch adj
+brutal adj cmp=brutaler sup=brutalsten
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten

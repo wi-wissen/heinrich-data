@@ -11,6 +11,8 @@ debattieren verb class=weak pp=debattiert perf=haben
 debütieren verb class=weak pp=debütiert perf=haben
 decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
+dehnen verb class=weak pp=gedehnt perf=haben refl=acc
+dekorieren verb class=weak pp=dekoriert perf=haben
 demonstrieren verb class=weak pp=demonstriert perf=haben
 denken        verb class=mixed 3sg=denkt past=dachte pp=gedacht subj2=dächte perf=haben
 deportieren verb class=weak pp=deportiert perf=haben
@@ -23,6 +25,7 @@ dokumentieren verb class=weak pp=dokumentiert perf=haben
 dominieren verb class=weak pp=dominiert perf=haben
 donnern verb class=weak pp=gedonnert perf=haben
 dörren verb class=weak pp=gedörrt perf=haben
+dösen verb class=weak pp=gedöst perf=haben
 drängeln verb class=weak pp=gedrängelt perf=haben
 drängen verb class=weak pp=gedrängt perf=haben|sein refl=acc
 drehen verb class=weak pp=gedreht perf=haben refl=acc
@@ -31,6 +34,7 @@ dringen verb class=strong 3sg=dringt past=drang pp=gedrungen subj2=dränge perf=
 drohen verb class=weak pp=gedroht perf=haben
 drucken verb class=weak pp=gedruckt perf=haben
 drücken verb class=weak pp=gedrückt perf=haben refl=acc
+duften verb class=weak pp=geduftet perf=haben
 dulden verb class=weak pp=geduldet perf=haben
 düngen verb class=weak pp=gedüngt perf=haben
 dunkeln verb class=weak pp=gedunkelt perf=haben note=mostly impersonal (es dunkelt)
@@ -45,3 +49,5 @@ durchqueren verb class=weak pp=durchquert perf=haben
 durchsetzen verb class=weak sep=durch pp=durchgesetzt perf=haben
 durchziehen verb class=strong sep=durch 3sg=durchzieht past=durchzog pp=durchgezogen subj2=durchzöge perf=haben|sein sense=carry_out note=etwas durchziehen; stress on durch
 durchziehen verb class=strong 3sg=durchzieht past=durchzog pp=durchzogen subj2=durchzöge perf=haben sense=traverse note=ein Land durchziehen; stress on ziehen
+dursten verb class=weak pp=gedurstet perf=haben
+duschen verb class=weak pp=geduscht perf=haben refl=acc

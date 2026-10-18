@@ -30,10 +30,12 @@ Farm noun g=f gen=Farm pl=Farmen
 Farn noun g=m gen=Farnes|Farns pl=Farne
 Färse noun g=f gen=Färse pl=Färsen
 Fasan noun g=m gen=Fasans pl=Fasane|Fasanen
+Fasching noun g=m gen=Faschings pl=- note=mass noun; regional (carnival)
 Faschismus noun g=m gen=Faschismus pl=- note=no plural
 Faser noun g=f gen=Faser pl=Fasern
 Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
+Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
@@ -48,6 +50,7 @@ Fehde noun g=f gen=Fehde pl=Fehden
 Fehler noun g=m gen=Fehlers pl=Fehler
 Feier noun g=f gen=Feier pl=Feiern
 Feige noun g=f gen=Feige pl=Feigen
+Feigheit noun g=f gen=Feigheit pl=- note=mass noun
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
@@ -60,8 +63,10 @@ Ferien noun g=pl
 Ferkel noun g=n gen=Ferkels pl=Ferkel
 Ferne noun g=f gen=Ferne pl=Fernen
 Fernsehen noun g=n gen=Fernsehens pl=- note=das Fernsehen: television as a medium
+Fernseher noun g=m gen=Fernsehers pl=Fernseher
 Fernsehfilm noun g=m gen=Fernsehfilms|Fernsehfilmes pl=Fernsehfilme
 Ferrari noun g=m gen=Ferraris pl=Ferraris
+Ferse noun g=f gen=Ferse pl=Fersen
 Fertigkeit noun g=f gen=Fertigkeit pl=Fertigkeiten
 Fertigstellung noun g=f gen=Fertigstellung pl=- note=no plural
 Fertigung noun g=f gen=Fertigung pl=Fertigungen
@@ -77,6 +82,7 @@ Festung noun g=f gen=Festung pl=Festungen
 Fett noun g=n gen=Fetts|Fettes pl=Fette
 Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
+Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
@@ -85,6 +91,7 @@ Filiale noun g=f gen=Filiale pl=Filialen
 Filialkirche noun g=f gen=Filialkirche pl=Filialkirchen
 Film noun g=m gen=Films|Filmes pl=Filme
 Filmemacher noun g=m gen=Filmemachers pl=Filmemacher
+Filzstift noun g=m gen=Filzstifts|Filzstiftes pl=Filzstifte
 Finale noun g=n gen=Finales pl=Finale|Finals
 Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and in the plural (die Finanzen)
 Finanzen noun g=pl
@@ -93,9 +100,11 @@ Finger noun g=m gen=Fingers pl=Finger
 Fink noun g=m gen=Finken pl=Finken
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
 Firma        noun g=f gen=Firma pl=Firmen
+Firmung noun g=f gen=Firmung pl=Firmungen
 Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
 Fischerei noun g=f gen=Fischerei pl=Fischereien
+Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
 Flamingo noun g=m gen=Flamingos pl=Flamingos
@@ -112,6 +121,10 @@ Fleischfresser noun g=m gen=Fleischfressers pl=Fleischfresser
 Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Fliege noun g=f gen=Fliege pl=Fliegen
+Fliese noun g=f gen=Fliese pl=Fliesen
+Flip-Flop noun g=m gen=Flip-Flops pl=Flip-Flops
+Flirt noun g=m gen=Flirts pl=Flirts
+Flitterwochen noun g=pl
 Floh noun g=m gen=Flohes|Flohs pl=Flöhe
 Flohmarkt noun g=m gen=Flohmarkts pl=Flohmärkte
 Flora noun g=f gen=Flora pl=Floren|Floras
@@ -131,10 +144,13 @@ Flüssigkeit noun g=f gen=Flüssigkeit pl=Flüssigkeiten
 Flut noun g=f gen=Flut pl=Fluten
 Föderation noun g=f gen=Föderation pl=Föderationen
 Fohlen noun g=n gen=Fohlens pl=Fohlen
+Föhn noun g=m gen=Föhns pl=Föhne
 Fokus noun g=m gen=Fokus pl=Fokusse|Foki[rare] note=des Fokus
 Folge noun g=f gen=Folge pl=Folgen
 Folter noun g=f gen=Folter pl=Foltern
+Fön noun g=m gen=Föns pl=Föne
 Fonds noun g=m gen=Fonds pl=Fonds note=des Fonds; spoken without s
+Fondue noun g=n gen=Fondues pl=Fondues
 Förderer noun g=m gen=Förderers pl=Förderer
 Forderung noun g=f gen=Forderung pl=Forderungen
 Förderung noun g=f gen=Förderung pl=Förderungen
@@ -174,6 +190,7 @@ Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the Frenc
 Frau         noun g=f gen=Frau pl=Frauen
 Frauenzimmer noun g=n gen=Frauenzimmers pl=Frauenzimmer style=archaic
 Fräulein noun g=n gen=Fräuleins pl=Fräulein
+Frechheit noun g=f gen=Frechheit pl=Frechheiten
 Fregatte noun g=f gen=Fregatte pl=Fregatten
 Freiburger noun g=m gen=Freiburgers pl=Freiburger note=inhabitant of Freiburg
 Freier noun g=m gen=Freiers pl=Freier
@@ -198,14 +215,21 @@ Frieden noun g=m gen=Friedens pl=Frieden|Friedens note=also Friede
 Friedhof noun g=m gen=Friedhofs|Friedhofes pl=Friedhöfe
 Friese noun g=m gen=Friesen pl=Friesen
 Frikadelle noun g=f gen=Frikadelle pl=Frikadellen
+Frischhaltefolie noun g=f gen=Frischhaltefolie pl=Frischhaltefolien
 Frischling noun g=m gen=Frischlings pl=Frischlinge
+Friseur noun g=m gen=Friseurs pl=Friseure
+Friseurin noun g=f gen=Friseurin pl=Friseurinnen
+Frisör noun g=m gen=Frisörs pl=Frisöre
+Frisörin noun g=f gen=Frisörin pl=Frisörinnen
 Frist noun g=f gen=Frist pl=Fristen
+Frisur noun g=f gen=Frisur pl=Frisuren
 Frömmigkeit noun g=f gen=Frömmigkeit pl=- note=no plural
 Front noun g=f gen=Front pl=Fronten
 Frosch noun g=m gen=Frosches pl=Frösche
 Frost noun g=m gen=Frostes|Frosts pl=Fröste
 Frucht noun g=f gen=Frucht pl=Früchte
 Fruchtbarkeit noun g=f gen=Fruchtbarkeit pl=- note=no plural
+Frühaufsteher noun g=m gen=Frühaufstehers pl=Frühaufsteher
 Frühe noun g=f gen=Frühe pl=- note=in der Frühe; no plural
 Frühjahr noun g=n gen=Frühjahrs|Frühjahres[rare] pl=Frühjahre
 Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
@@ -234,4 +258,5 @@ Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle
 Fußballer noun g=m gen=Fußballers pl=Fußballer
 Fußgängerzone noun g=f gen=Fußgängerzone pl=Fußgängerzonen
+Fußmatte noun g=f gen=Fußmatte pl=Fußmatten note=compound; the analyser would take matt as head
 Futter noun g=n gen=Futters pl=- note=no plural

@@ -3,6 +3,8 @@
 überfällig adj
 überflüssig adj
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
+übermüdet adj cmp=übermüdeter sup=übermüdetsten
+übermütig adj cmp=übermütiger sup=übermütigsten
 überteuert adj
 üblich adj
 übrig adj note=not compared; im Übrigen, die übrigen Gäste
@@ -39,10 +41,12 @@ ungeeignet adj cmp=ungeeigneter sup=ungeeignetsten
 ungeheuer adj attr=ungeheure cmp=ungeheurer sup=ungeheuersten
 ungehindert adj
 ungemein adj
+ungemütlich adj cmp=ungemütlicher sup=ungemütlichsten
 ungenügend adj
 ungerecht adj cmp=ungerechter sup=ungerechtesten
 ungestört adj
 ungewöhnlich adj
+ungezogen adj cmp=ungezogener sup=ungezogensten
 unglaublich adj
 ungleich adj
 unglücklich adj
@@ -59,6 +63,7 @@ unruhig adj
 unschuldig adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
+unsympathisch adj cmp=unsympathischer sup=unsympathischsten
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterirdisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten

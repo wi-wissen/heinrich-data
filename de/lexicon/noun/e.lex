@@ -34,6 +34,7 @@ Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly 
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eile noun g=f gen=Eile pl=- note=no plural
+Eimer noun g=m gen=Eimers pl=Eimer
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
 Einbeziehung noun g=f gen=Einbeziehung pl=- note=no plural
 Einbildungskraft noun g=f gen=Einbildungskraft pl=- note=no plural
@@ -126,6 +127,8 @@ Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
 Elch noun g=m gen=Elches|Elchs pl=Elche
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Elektrifizierung noun g=f gen=Elektrifizierung pl=- note=no plural
+Elektriker noun g=m gen=Elektrikers pl=Elektriker
+Elektrikerin noun g=f gen=Elektrikerin pl=Elektrikerinnen
 Elektrizität noun g=f gen=Elektrizität pl=- note=no plural
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
 Elektroroller noun g=m gen=Elektrorollers pl=Elektroroller
@@ -134,6 +137,8 @@ Elektrotechnik noun g=f gen=Elektrotechnik pl=- note=no plural
 Element noun g=n gen=Elements|Elementes pl=Elemente
 Elend noun g=n gen=Elends pl=- note=no plural
 Elite noun g=f gen=Elite pl=Eliten
+Ellbogen noun g=m gen=Ellbogens pl=Ellbogen
+Ellenbogen noun g=m gen=Ellenbogens pl=Ellenbogen
 Elster noun g=f gen=Elster pl=Elstern
 Eltern       noun g=pl
 Elternteil noun g=m gen=Elternteils|Elternteiles pl=Elternteile
@@ -197,6 +202,7 @@ Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
 Erbe noun g=m gen=Erben pl=Erben sense=heir note=der Erbe
 Erbe noun g=n gen=Erbes pl=- sense=inheritance note=das Erbe
+Erbrechen noun g=n gen=Erbrechens pl=- note=mass noun
 Erbringung noun g=f gen=Erbringung pl=- note=no plural
 Erbschaft noun g=f gen=Erbschaft pl=Erbschaften
 Erbse noun g=f gen=Erbse pl=Erbsen
@@ -223,6 +229,7 @@ Erhebung noun g=f gen=Erhebung pl=Erhebungen
 Erhöhung noun g=f gen=Erhöhung pl=Erhöhungen
 Erholung noun g=f gen=Erholung pl=- note=no plural
 Erinnerung noun g=f gen=Erinnerung pl=Erinnerungen
+Erkältung noun g=f gen=Erkältung pl=Erkältungen
 Erkenntnis noun g=f gen=Erkenntnis pl=Erkenntnisse
 Erkenntniß noun g=f gen=Erkenntniß pl=Erkenntnisse spelling=old style=archaic note=old spelling of Erkenntnis
 Erklärung noun g=f gen=Erklärung pl=Erklärungen
@@ -287,6 +294,7 @@ Erzeugnis noun g=n gen=Erzeugnisses pl=Erzeugnisse
 Erzeugung noun g=f gen=Erzeugung pl=- note=no plural
 Erzherzog noun g=m gen=Erzherzogs|Erzherzoges pl=Erzherzöge
 Erzieher noun g=m gen=Erziehers pl=Erzieher
+Erzieherin noun g=f gen=Erzieherin pl=Erzieherinnen
 Erziehung noun g=f gen=Erziehung pl=- note=no plural
 Erzstift noun g=n gen=Erzstifts|Erzstiftes pl=Erzstifte
 Esche noun g=f gen=Esche pl=Eschen
@@ -295,6 +303,7 @@ Eskalation noun g=f gen=Eskalation pl=Eskalationen
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
 Essig noun g=m gen=Essigs pl=Essige
 Etablierung noun g=f gen=Etablierung pl=- note=no plural
+Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
 Etappe noun g=f gen=Etappe pl=Etappen
 Etat noun g=m gen=Etats pl=Etats
 Ethik noun g=f gen=Ethik pl=- note=no plural

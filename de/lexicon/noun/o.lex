@@ -1,7 +1,9 @@
 Oase noun g=f gen=Oase pl=Oasen
+Obdachlose noun g=m|f decl=adj
 Ober noun g=m gen=Obers pl=Ober note=waiter
 Oberbefehlshaber noun g=m gen=Oberbefehlshabers pl=Oberbefehlshaber note=compound not split by the analyser
 Obergeschoss noun g=n gen=Obergeschosses pl=Obergeschosse note=compound not split by the analyser
+Oberschenkel noun g=m gen=Oberschenkels pl=Oberschenkel
 Oberst noun g=m gen=Obersten|Obersts pl=Oberste|Obersten conf=70 note=declension uncertain (des Obersten / des Obersts); der Oberst
 Oberstleutnant noun g=m gen=Oberstleutnants pl=Oberstleutnants|Oberstleutnante
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
@@ -16,10 +18,12 @@ Offensive noun g=f gen=Offensive pl=Offensiven
 Öffentlichkeit noun g=f gen=Öffentlichkeit pl=- note=no plural
 Offizier noun g=m gen=Offiziers pl=Offiziere
 Offizierin noun g=f gen=Offizierin pl=Offizierinnen
+Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
 Ohnmacht noun g=f gen=Ohnmacht pl=Ohnmachten
 Ohr noun g=n gen=Ohrs|Ohres pl=Ohren
+Ohrläppchen noun g=n gen=Ohrläppchens pl=Ohrläppchen
 Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökologie noun g=f gen=Ökologie pl=- note=mass noun
 Ökonom noun g=m gen=Ökonomen pl=Ökonomen
@@ -30,12 +34,16 @@ Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
+Oma noun g=f gen=Oma pl=Omas
 Omelett noun g=n gen=Omeletts pl=Omeletts
+Omi noun g=f gen=Omi pl=Omis
 Onkel noun g=m gen=Onkels pl=Onkel|Onkels[colloquial]
 Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
+Opa noun g=m gen=Opas pl=Opas
 Oper noun g=f gen=Oper pl=Opern
 Operation noun g=f gen=Operation pl=Operationen
 Opfer noun g=n gen=Opfers pl=Opfer
+Opi noun g=m gen=Opis pl=Opis
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
 Opposition noun g=f gen=Opposition pl=Oppositionen
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
@@ -64,11 +72,13 @@ Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
+Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier
 Osterglocke noun g=f gen=Osterglocke pl=Osterglocken
 Osterhase noun g=m gen=Osterhasen pl=Osterhasen
 Ostern noun g=n gen=Ostern pl=- note=Ostern ist; bare genitive; plural form used as singular
 Österreicher noun g=m gen=Österreichers pl=Österreicher
 Otter noun g=m gen=Otters pl=Otter
+Overall noun g=m gen=Overalls pl=Overalls
 Ozean noun g=m gen=Ozeans pl=Ozeane
 Ozon noun g=n gen=Ozons pl=- note=no plural
 Ozonloch noun g=n gen=Ozonlochs pl=- note=no plural

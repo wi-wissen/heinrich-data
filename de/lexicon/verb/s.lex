@@ -1,8 +1,10 @@
 säen verb class=weak pp=gesät perf=haben
 sagen verb class=weak pp=gesagt perf=haben
+sägen verb class=weak pp=gesägt perf=haben
 salzen verb class=weak pp=gesalzen|gesalzt perf=haben
 sammeln      verb class=weak pp=gesammelt perf=haben
 sanieren verb class=weak pp=saniert perf=haben
+satteln verb class=weak pp=gesattelt perf=haben
 sättigen verb class=weak pp=gesättigt perf=haben
 saufen verb class=strong 3sg=säuft past=soff pp=gesoffen subj2=söffe perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
@@ -11,11 +13,13 @@ schaden verb class=weak pp=geschadet perf=haben
 schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
-schälen verb class=weak pp=geschält perf=haben
+schälen verb class=weak pp=geschält perf=haben refl=acc
 schämen verb class=weak pp=geschämt perf=haben refl=acc
 scharren verb class=weak pp=gescharrt perf=haben
 schätzen verb class=weak pp=geschätzt perf=haben
+schaudern verb class=weak pp=geschaudert perf=haben
 schauen verb class=weak pp=geschaut perf=haben
+schaukeln verb class=weak pp=geschaukelt perf=haben
 scheiden verb class=strong 3sg=scheidet past=schied pp=geschieden subj2=schiede perf=haben|sein
 scheinen verb class=strong 3sg=scheint past=schien pp=geschienen subj2=schiene perf=haben
 scheitern verb class=weak pp=gescheitert perf=sein
@@ -26,32 +30,46 @@ schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe per
 schießen verb class=strong 3sg=schießt past=schoss pp=geschossen subj2=schösse perf=haben|sein
 schildern verb class=weak pp=geschildert perf=haben
 schimmeln verb class=weak pp=geschimmelt perf=haben|sein
+schimpfen verb class=weak pp=geschimpft perf=haben
 schlachten verb class=weak pp=geschlachtet perf=haben
 schlafen verb class=strong 3sg=schläft past=schlief pp=geschlafen subj2=schliefe perf=haben
 schlagen verb class=strong 3sg=schlägt past=schlug pp=geschlagen subj2=schlüge perf=haben refl=acc
 schleichen verb class=strong 3sg=schleicht past=schlich pp=geschlichen subj2=schliche perf=sein refl=acc
+schleifen verb class=strong 3sg=schleift past=schliff pp=geschliffen subj2=schliffe perf=haben sense=sharpen
+schleifen verb class=weak pp=geschleift perf=haben sense=drag note=etwas über den Boden schleifen
 schlemmen verb class=weak pp=geschlemmt perf=haben
+schlendern verb class=weak pp=geschlendert perf=sein
 schließen verb class=strong 3sg=schließt past=schloss pp=geschlossen subj2=schlösse perf=haben refl=acc
+schlingen verb class=strong 3sg=schlingt past=schlang pp=geschlungen subj2=schlänge perf=haben refl=acc
 schlucken verb class=weak pp=geschluckt perf=haben
+schlummern verb class=weak pp=geschlummert perf=haben
 schlüpfen verb class=weak pp=geschlüpft perf=sein
 schlürfen verb class=weak pp=geschlürft perf=haben
 schmecken verb class=weak pp=geschmeckt perf=haben
 schmelzen verb class=strong 3sg=schmilzt past=schmolz pp=geschmolzen subj2=schmölze perf=haben|sein
+schmerzen verb class=weak pp=geschmerzt perf=haben
 schmieren verb class=weak pp=geschmiert perf=haben note=pp geschmiert is correct; not an -ieren verb
+schminken verb class=weak pp=geschminkt perf=haben refl=acc
 schmoren verb class=weak pp=geschmort perf=haben
 schmücken verb class=weak pp=geschmückt perf=haben refl=acc
 schnappen verb class=weak pp=geschnappt perf=haben
+schnarchen verb class=weak pp=geschnarcht perf=haben
 schnattern verb class=weak pp=geschnattert perf=haben
 schnauben verb class=weak pp=geschnaubt perf=haben
+schnäuzen verb class=weak pp=geschnäuzt perf=haben refl=acc
 schneiden verb class=strong 3sg=schneidet past=schnitt pp=geschnitten subj2=schnitte perf=haben refl=acc
 schneien verb class=weak pp=geschneit perf=haben
+schniefen verb class=weak pp=geschnieft perf=haben
 schnüffeln verb class=weak pp=geschnüffelt perf=haben
+schnupfen verb class=weak pp=geschnupft perf=haben
 schnurren verb class=weak pp=geschnurrt perf=haben
 schonen verb class=weak pp=geschont perf=haben
 schöpfen verb class=weak pp=geschöpft perf=haben
 schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schriebe perf=haben
 schreien verb class=strong 3sg=schreit past=schrie pp=geschrien subj2=schriee perf=haben
 schreiten verb class=strong 3sg=schreitet past=schritt pp=geschritten subj2=schritte perf=sein
+schrumpfen verb class=weak pp=geschrumpft perf=sein
+schubsen verb class=weak pp=geschubst perf=haben
 schulden verb class=weak pp=geschuldet perf=haben
 schüren verb class=weak pp=geschürt perf=haben
 schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
@@ -61,8 +79,11 @@ schwanken verb class=weak pp=geschwankt perf=haben|sein
 schwärmen verb class=weak pp=geschwärmt perf=haben|sein
 schweben verb class=weak pp=geschwebt perf=haben|sein
 schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwiege perf=haben
+schwellen verb class=strong 3sg=schwillt past=schwoll pp=geschwollen subj2=schwölle perf=sein
 schwimmen verb class=strong 3sg=schwimmt past=schwamm pp=geschwommen subj2=schwömme|schwämme perf=haben|sein
+schwindeln verb class=weak pp=geschwindelt perf=haben
 schwingen verb class=strong 3sg=schwingt past=schwang pp=geschwungen subj2=schwänge perf=haben|sein
+schwitzen verb class=weak pp=geschwitzt perf=haben
 schwören verb class=strong 3sg=schwört past=schwor pp=geschworen subj2=schwüre|schwöre[rare] perf=haben
 sehen verb class=strong 3sg=sieht past=sah,sahst|sahest[archaic],sah,sahen,saht,sahen pp=gesehen subj2=sähe perf=haben refl=acc imp=sieh|siehe,seht note=siehe (siehe oben) is the long imperative
 senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
@@ -74,6 +95,7 @@ shoppen verb class=weak pp=geshoppt perf=haben
 sichern verb class=weak pp=gesichert perf=haben refl=acc
 sicherstellen verb class=weak sep=sicher pp=sichergestellt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
+simsen verb class=weak pp=gesimst perf=haben style=colloquial
 singen verb class=strong 3sg=singt past=sang pp=gesungen subj2=sänge perf=haben
 sinken verb class=strong 3sg=sinkt past=sank pp=gesunken subj2=sänke perf=sein
 sinnen verb class=strong 3sg=sinnt past=sann pp=gesonnen subj2=sänne|sönne[rare] perf=haben
@@ -96,7 +118,9 @@ sprechen     verb class=strong 3sg=spricht past=sprach pp=gesprochen subj2=sprä
 sprengen verb class=weak pp=gesprengt perf=haben
 sprießen verb class=strong 3sg=sprießt past=spross pp=gesprossen subj2=sprösse perf=sein
 springen verb class=strong 3sg=springt past=sprang pp=gesprungen subj2=spränge perf=sein|haben
+sprinten verb class=weak pp=gesprintet perf=haben|sein
 sprudeln verb class=weak pp=gesprudelt perf=haben|sein
+spucken verb class=weak pp=gespuckt perf=haben
 spülen verb class=weak pp=gespült perf=haben
 spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben
@@ -107,6 +131,7 @@ starren verb class=weak pp=gestarrt perf=haben
 starten verb class=weak pp=gestartet perf=haben|sein
 stationieren verb class=weak pp=stationiert perf=haben
 stattfinden verb class=strong sep=statt 3sg=stattfindet past=stattfand pp=stattgefunden subj2=stattfände perf=haben
+staubwischen verb class=weak pp=gestaubwischt perf=haben
 staunen verb class=weak pp=gestaunt perf=haben
 stechen verb class=strong 3sg=sticht past=stach pp=gestochen subj2=stäche perf=haben
 stecken verb class=weak pp=gesteckt perf=haben
@@ -118,9 +143,13 @@ stellen verb class=weak pp=gestellt perf=haben refl=acc
 sterben verb class=strong 3sg=stirbt past=starb pp=gestorben subj2=stürbe perf=sein
 steuern verb class=weak pp=gesteuert perf=haben
 stiften verb class=weak pp=gestiftet perf=haben
+stillen verb class=weak pp=gestillt perf=haben
 stilllegen verb class=weak sep=still pp=stillgelegt perf=haben
 stimmen verb class=weak pp=gestimmt perf=haben
+stinken verb class=strong 3sg=stinkt past=stank pp=gestunken subj2=stänke perf=haben
 stöhnen verb class=weak pp=gestöhnt perf=haben
+stolpern verb class=weak pp=gestolpert perf=sein
+stopfen verb class=weak pp=gestopft perf=haben
 stoppen verb class=weak pp=gestoppt perf=haben
 stören verb class=weak pp=gestört perf=haben
 stornieren verb class=weak pp=storniert perf=haben

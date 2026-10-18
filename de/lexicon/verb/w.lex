@@ -1,3 +1,4 @@
+wachen verb class=weak pp=gewacht perf=haben
 wachsen verb class=strong 3sg=wächst past=wuchs pp=gewachsen subj2=wüchse perf=sein
 wachsen verb class=strong 3sg=wächst past=wuchs pp=gewachsen subj2=wüchse perf=sein sense=grow
 wachsen verb class=weak pp=gewachst perf=haben sense=wax note=Ski wachsen: apply wax
@@ -6,6 +7,8 @@ wählen verb class=weak pp=gewählt perf=haben
 wahren verb class=weak pp=gewahrt perf=haben
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
 wandern      verb class=weak pp=gewandert perf=sein
+wanken verb class=weak pp=gewankt perf=haben|sein
+wärmen verb class=weak pp=gewärmt perf=haben refl=acc
 warnen verb class=weak pp=gewarnt perf=haben
 warten verb class=weak pp=gewartet perf=haben
 waschen verb class=strong 3sg=wäscht past=wusch pp=gewaschen subj2=wüsche perf=haben refl=acc
@@ -13,10 +16,17 @@ wässern verb class=weak pp=gewässert perf=haben
 wechseln verb class=weak pp=gewechselt perf=haben|sein
 wecken verb class=weak pp=geweckt perf=haben
 wedeln verb class=weak pp=gewedelt perf=haben
+wegbringen verb class=mixed sep=weg 3sg=wegbringt past=wegbrachte pp=weggebracht subj2=wegbrächte perf=haben
 wegfallen verb class=strong sep=weg 3sg=wegfällt past=wegfiel pp=weggefallen subj2=wegfiele perf=sein
+weglaufen verb class=strong sep=weg 3sg=wegläuft past=weglief pp=weggelaufen subj2=wegliefe perf=sein
+weglegen verb class=weak sep=weg pp=weggelegt perf=haben
+wegräumen verb class=weak sep=weg pp=weggeräumt perf=haben
+wegstellen verb class=weak sep=weg pp=weggestellt perf=haben
 wegwerfen verb class=strong sep=weg 3sg=wegwirft past=wegwarf pp=weggeworfen subj2=wegwürfe perf=haben
+wegziehen verb class=strong sep=weg 3sg=wegzieht past=wegzog pp=weggezogen subj2=wegzöge perf=haben|sein
 wehen verb class=weak pp=geweht perf=haben
 wehren verb class=weak refl=acc pp=gewehrt perf=haben
+wehtun verb class=strong sep=weh 3sg=wehtut past=wehtat pp=wehgetan subj2=wehtäte perf=haben refl=dat
 weiden verb class=weak pp=geweidet perf=haben
 weigern verb class=weak pp=geweigert perf=haben refl=acc
 weihen verb class=weak pp=geweiht perf=haben
@@ -33,11 +43,13 @@ werben verb class=strong 3sg=wirbt past=warb pp=geworben subj2=würbe perf=haben
 werfen verb class=strong 3sg=wirft past=warf pp=geworfen subj2=würfe perf=haben
 werten verb class=weak pp=gewertet perf=haben
 wetten verb class=weak pp=gewettet perf=haben
+wickeln verb class=weak pp=gewickelt perf=haben
 widerlegen verb class=weak pp=widerlegt perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
+wiederbeleben verb class=weak pp=wiederbelebt perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc
 wiedergeben verb class=strong sep=wieder 3sg=wiedergibt past=wiedergab pp=wiedergegeben subj2=wiedergäbe perf=haben
 wiederherstellen verb class=weak sep=wiederher pp=wiederhergestellt perf=haben
@@ -55,6 +67,7 @@ winken verb class=weak pp=gewinkt perf=haben
 winseln verb class=weak pp=gewinselt perf=haben
 wirbeln verb class=weak pp=gewirbelt perf=haben|sein
 wirken verb class=weak pp=gewirkt perf=haben
+wischen verb class=weak pp=gewischt perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben
 wohnen verb class=weak pp=gewohnt perf=haben
 wuchern verb class=weak pp=gewuchert perf=haben|sein
@@ -62,6 +75,7 @@ wühlen verb class=weak pp=gewühlt perf=haben
 wundern verb class=weak pp=gewundert perf=haben
 wünschen verb class=weak pp=gewünscht perf=haben
 würdigen verb class=weak pp=gewürdigt perf=haben
+würgen verb class=weak pp=gewürgt perf=haben
 wurzeln verb class=weak pp=gewurzelt perf=haben
 würzen verb class=weak pp=gewürzt perf=haben
 wüten verb class=weak pp=gewütet perf=haben

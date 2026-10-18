@@ -9,6 +9,8 @@ zeitlich adj
 zeitweilig adj
 zentral adj cmp=zentraler sup=zentralsten
 zerstreut adj cmp=zerstreuter sup=zerstreutesten
+zerstritten adj
+zickig adj cmp=zickiger sup=zickigsten
 zielführend adj cmp=zielführender sup=zielführendsten
 zielgerichtet adj
 zierlich adj cmp=zierlicher sup=zierlichsten
@@ -20,6 +22,7 @@ zufällig adj
 zufrieden adj cmp=zufriedener sup=zufriedensten
 zugänglich adj cmp=zugänglicher sup=zugänglichsten
 zugehörig adj
+zugig adj cmp=zugiger sup=zugigsten
 zügig adj
 zukünftig adj
 zulässig adj

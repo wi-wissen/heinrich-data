@@ -2,19 +2,24 @@ kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
 kalt adj cmp=kälter sup=kältesten
 kanadisch adj
-kaputt adj
+kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger sup=kargsten
+kariert adj
 katholisch adj
 kaufmännisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kinderlos adj
+kindisch adj cmp=kindischer sup=kindischsten
+kindlich adj cmp=kindlicher sup=kindlichsten
 kirchlich adj
 klar adj cmp=klarer sup=klarsten
+klasse adj indecl
 klassisch adj
 klebrig adj cmp=klebriger sup=klebrigsten
 klein        adj cmp=kleiner sup=kleinsten
 klinisch adj
 klug adj cmp=klüger sup=klügsten
+knallig adj cmp=knalliger sup=knalligsten
 knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
@@ -43,6 +48,9 @@ köstlich adj cmp=köstlicher sup=köstlichsten
 kostspielig adj cmp=kostspieliger sup=kostspieligsten
 kräftig adj cmp=kräftiger sup=kräftigsten
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
+kränklich adj cmp=kränklicher sup=kränklichsten
+krass adj cmp=krasser sup=krassesten
+kreativ adj cmp=kreativer sup=kreativsten
 kriegerisch adj
 kriminell adj
 kritisch adj cmp=kritischer sup=kritischsten
@@ -57,4 +65,6 @@ künstlich adj cmp=künstlicher sup=künstlichsten
 kurdisch adj
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
+kurzhaarig adj
 kurzzeitig adj
+kuschelig adj cmp=kuscheliger sup=kuscheligsten

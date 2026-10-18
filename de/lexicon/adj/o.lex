@@ -1,3 +1,4 @@
+obdachlos adj
 ober adj attr_only sup=obersten note=die obere Etage; positional, no comparative; see also oberst
 oberst adj note=attributive only (der oberste Stock)
 objektiv adj cmp=objektiver sup=objektivsten
@@ -15,7 +16,9 @@ okay adj indecl
 olympisch adj
 operativ adj
 optimal adj
+optimistisch adj cmp=optimistischer sup=optimistischsten
 optisch adj
+orange adj
 ordentlich adj cmp=ordentlicher sup=ordentlichsten
 ordnungsgemäß adj
 organisatorisch adj

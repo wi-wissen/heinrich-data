@@ -4,18 +4,23 @@ vegetarisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verantwortlich adj
+verärgert adj
 verbindlich adj
+verbittert adj cmp=verbitterter sup=verbittertsten
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verdorben adj
 vereinzelt adj
 verfassungsrechtlich adj
 verfassungswidrig adj
+verfeindet adj
 verfügbar adj
 vergeblich adj
+vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verkehrt adj cmp=verkehrter sup=verkehrtesten
+verknittert adj
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
 verlustig adj pred_only note=einer Sache verlustig gehen
@@ -25,6 +30,7 @@ vermutlich adj
 vernünftig adj
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschnupft adj
 verschollen adj
 verschuldet adj
 verspielt adj cmp=verspielter sup=verspieltesten
@@ -33,10 +39,12 @@ versunken adj
 vertikal adj
 vertraglich adj
 vertraulich adj cmp=vertraulicher sup=vertraulichsten
+verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj
+verzogen adj
 verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
