@@ -2,19 +2,23 @@ Zahl noun g=f gen=Zahl pl=Zahlen
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
 Zahn noun g=m gen=Zahns|Zahnes pl=Zähne
+Zapfen noun g=m gen=Zapfens pl=Zapfen
 Zar noun g=m gen=Zaren pl=Zaren
 Zärtlichkeit noun g=f gen=Zärtlichkeit pl=Zärtlichkeiten
 Zauber noun g=m gen=Zaubers pl=Zauber
 Zauberer noun g=m gen=Zauberers pl=Zauberer
 Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
 ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
+Zebra noun g=n gen=Zebras pl=Zebras
 Zeche noun g=f gen=Zeche pl=Zechen
+Zecke noun g=f gen=Zecke pl=Zecken
 Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zeichen noun g=n gen=Zeichens pl=Zeichen
 Zeichner noun g=m gen=Zeichners pl=Zeichner
 Zeichnung noun g=f gen=Zeichnung pl=Zeichnungen
 Zeile noun g=f gen=Zeile pl=Zeilen
+Zeisig noun g=m gen=Zeisigs pl=Zeisige
 Zeit noun g=f gen=Zeit pl=Zeiten
 Zeitgenosse noun g=m gen=Zeitgenossen pl=Zeitgenossen
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
@@ -35,16 +39,23 @@ Zettel noun g=m gen=Zettels pl=Zettel
 Zeug noun g=n gen=Zeugs|Zeuges pl=- note=no plural
 Zeuge noun g=m gen=Zeugen pl=Zeugen
 Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
+Zicklein noun g=n gen=Zickleins pl=Zicklein
 Ziege noun g=f gen=Ziege pl=Ziegen
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
+Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
 Zigarre noun g=f gen=Zigarre pl=Zigarren
+Zikade noun g=f gen=Zikade pl=Zikaden
 Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
+Zimt noun g=m gen=Zimtes|Zimts pl=- note=no plural
+Zimtstern noun g=m gen=Zimtsterns pl=Zimtsterne
 Zins noun g=m gen=Zinses pl=Zinsen
+Zinsen noun g=pl
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
+Zitrone noun g=f gen=Zitrone pl=Zitronen
 Zivil noun g=n gen=Zivils pl=- note=in Zivil; no plural
 Zivilgesellschaft noun g=f gen=Zivilgesellschaft pl=Zivilgesellschaften
 Zivilisation noun g=f gen=Zivilisation pl=Zivilisationen
@@ -59,6 +70,7 @@ Zoologe noun g=m gen=Zoologen pl=Zoologen
 Zorn noun g=m gen=Zorns|Zornes pl=- note=no plural
 Zubehör noun g=n gen=Zubehörs|Zubehöres pl=Zubehöre
 Zubereitung noun g=f gen=Zubereitung pl=Zubereitungen
+Zucchini noun g=f gen=Zucchini pl=Zucchini|Zucchinis
 Zucht noun g=f gen=Zucht pl=Zuchten
 Zucker noun g=m gen=Zuckers pl=Zucker
 Zuflucht noun g=f gen=Zuflucht pl=- note=no plural
@@ -102,6 +114,7 @@ Zuschuss noun g=m gen=Zuschusses pl=Zuschüsse
 Zustand noun g=m gen=Zustandes|Zustands pl=Zustände
 Zuständigkeit noun g=f gen=Zuständigkeit pl=Zuständigkeiten
 Zustimmung noun g=f gen=Zustimmung pl=Zustimmungen
+Zutat noun g=f gen=Zutat pl=Zutaten
 Zuteilung noun g=f gen=Zuteilung pl=Zuteilungen
 Zutritt noun g=m gen=Zutritts|Zutrittes pl=- note=no plural
 Zuverlässigkeit noun g=f gen=Zuverlässigkeit pl=- note=no plural
@@ -120,6 +133,9 @@ Zweifel noun g=m gen=Zweifels pl=Zweifel
 Zweig noun g=m gen=Zweigs|Zweiges pl=Zweige
 Zweitligist noun g=m gen=Zweitligisten pl=Zweitligisten
 Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
+Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
+Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder

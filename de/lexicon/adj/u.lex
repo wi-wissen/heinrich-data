@@ -3,6 +3,7 @@
 überfällig adj
 überflüssig adj
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
+überteuert adj
 üblich adj
 übrig adj note=not compared; im Übrigen, die übrigen Gäste
 ukrainisch adj
@@ -80,6 +81,7 @@ unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj
 unzweifelhaft adj
+üppig adj cmp=üppiger sup=üppigsten
 uralt adj
 urkundlich adj
 ursprünglich adj

@@ -1,9 +1,11 @@
 lächerlich adj cmp=lächerlicher sup=lächerlichsten
+laktosefrei adj
 ländlich adj
 landwirtschaftlich adj
 lang adj cmp=länger sup=längsten
 langfristig adj
 langjährig adj
+langlebig adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
 lateinamerikanisch adj
@@ -11,8 +13,10 @@ lateinisch adj
 laut adj cmp=lauter sup=lautesten
 lauter adj indecl sense=mere note=lauter Unsinn; cf. comparative of laut
 lauter adj sense=pure note=lautere Absichten; not compared
+lauwarm adj
 lebendig adj cmp=lebendiger sup=lebendigsten
 lebhaft adj cmp=lebhafter sup=lebhaftesten
+lecker adj cmp=leckerer sup=leckersten
 ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj

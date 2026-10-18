@@ -1,21 +1,33 @@
 zahlen verb class=weak pp=gezahlt perf=haben
 zählen verb class=weak pp=gezählt perf=haben
+zähmen verb class=weak pp=gezähmt perf=haben
 zeichnen verb class=weak pp=gezeichnet perf=haben
 zeigen verb class=weak pp=gezeigt perf=haben refl=acc
+zerbeißen verb class=strong 3sg=zerbeißt past=zerbiss pp=zerbissen subj2=zerbisse perf=haben
+zerfließen verb class=strong 3sg=zerfließt past=zerfloss pp=zerflossen subj2=zerflösse perf=sein
+zerkleinern verb class=weak pp=zerkleinert perf=haben
+zerlegen verb class=weak pp=zerlegt perf=haben
 zerreißen verb class=strong 3sg=zerreißt past=zerriss pp=zerrissen subj2=zerrisse perf=haben|sein
 zerschlagen verb class=strong 3sg=zerschlägt past=zerschlug pp=zerschlagen subj2=zerschlüge perf=haben refl=acc
+zerschneiden verb class=strong 3sg=zerschneidet past=zerschnitt pp=zerschnitten subj2=zerschnitte perf=haben
 zerstören verb class=weak pp=zerstört perf=haben
 zerstreuen verb class=weak pp=zerstreut perf=haben
 zeugen verb class=weak pp=gezeugt perf=haben
 ziehen verb class=strong 3sg=zieht past=zog pp=gezogen subj2=zöge perf=haben|sein
 zielen verb class=weak pp=gezielt perf=haben
 zieren verb class=weak pp=geziert perf=haben refl=acc note=stem zier-; not an -ieren verb
+zirpen verb class=weak pp=gezirpt perf=haben
+zischen verb class=weak pp=gezischt perf=haben
 zitieren verb class=weak pp=zitiert perf=haben
 zittern verb class=weak pp=gezittert perf=haben
 zögern verb class=weak pp=gezögert perf=haben
+zubereiten verb class=weak pp=zubereitet perf=haben sep=zu
 zubringen verb class=mixed sep=zu 3sg=zubringt past=zubrachte pp=zugebracht subj2=zubrächte perf=haben
+züchten verb class=weak pp=gezüchtet perf=haben
 zucken verb class=weak pp=gezuckt perf=haben
+zuckern verb class=weak pp=gezuckert perf=haben
 zuerkennen verb class=mixed sep=zu 3sg=zuerkennt past=zuerkannte pp=zuerkannt subj2=zuerkennte perf=haben
+zufrieren verb class=strong sep=zu 3sg=zufriert past=zufror pp=zugefroren subj2=zufröre perf=sein note=pp zugefroren is correct; not an -ieren verb
 zuführen verb class=weak sep=zu pp=zugeführt perf=haben
 zugeben verb class=strong sep=zu 3sg=zugibt past=zugab pp=zugegeben subj2=zugäbe perf=haben
 zugehen verb class=strong sep=zu 3sg=zugeht past=zuging pp=zugegangen subj2=zuginge perf=sein
@@ -28,6 +40,7 @@ zulassen verb class=strong sep=zu 3sg=zulässt past=zuließ pp=zugelassen subj2=
 zunehmen verb class=strong sep=zu 3sg=zunimmt past=zunahm pp=zugenommen subj2=zunähme perf=haben
 zuordnen verb class=weak sep=zu pp=zugeordnet perf=haben
 zurechnen verb class=weak sep=zu pp=zugerechnet perf=haben
+zurückbringen verb class=mixed sep=zurück 3sg=zurückbringt past=zurückbrachte pp=zurückgebracht subj2=zurückbrächte perf=haben
 zurückführen verb class=weak sep=zurück pp=zurückgeführt perf=haben
 zurückgeben verb class=strong sep=zurück 3sg=zurückgibt past=zurückgab pp=zurückgegeben subj2=zurückgäbe perf=haben
 zurückgehen verb class=strong sep=zurück 3sg=zurückgeht past=zurückging pp=zurückgegangen subj2=zurückginge perf=sein
@@ -38,6 +51,7 @@ zurückkommen verb class=strong sep=zurück 3sg=zurückkommt past=zurückkam pp=
 zurücklassen verb class=strong sep=zurück 3sg=zurücklässt past=zurückließ pp=zurückgelassen subj2=zurückließe perf=haben
 zurücklegen verb class=weak sep=zurück pp=zurückgelegt perf=haben
 zurücknehmen verb class=strong sep=zurück 3sg=zurücknimmt past=zurücknahm pp=zurückgenommen subj2=zurücknähme perf=haben
+zurückschneiden verb class=strong sep=zurück 3sg=zurückschneidet past=zurückschnitt pp=zurückgeschnitten subj2=zurückschnitte perf=haben
 zurückweisen verb class=strong sep=zurück 3sg=zurückweist past=zurückwies pp=zurückgewiesen subj2=zurückwiese perf=haben
 zurückziehen verb class=strong sep=zurück 3sg=zurückzieht past=zurückzog pp=zurückgezogen subj2=zurückzöge perf=haben|sein
 zusagen verb class=weak sep=zu pp=zugesagt perf=haben
@@ -62,4 +76,6 @@ zutreffen verb class=strong sep=zu 3sg=zutrifft past=zutraf pp=zugetroffen subj2
 zuweisen verb class=strong sep=zu 3sg=zuweist past=zuwies pp=zugewiesen subj2=zuwiese perf=haben
 zuwiderhandeln verb class=weak sep=zuwider pp=zuwidergehandelt perf=haben
 zweifeln verb class=weak pp=gezweifelt perf=haben
+zwicken verb class=weak pp=gezwickt perf=haben
 zwingen verb class=strong 3sg=zwingt past=zwang pp=gezwungen subj2=zwänge perf=haben refl=acc
+zwitschern verb class=weak pp=gezwitschert perf=haben

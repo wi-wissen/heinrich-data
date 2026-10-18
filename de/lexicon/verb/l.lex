@@ -8,10 +8,12 @@ laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf
 lauschen verb class=weak pp=gelauscht perf=haben
 lauten verb class=weak pp=gelautet perf=haben
 leben verb class=weak pp=gelebt perf=haben
+leeren verb class=weak pp=geleert perf=haben
 legen verb class=weak pp=gelegt perf=haben refl=acc
 lehnen verb class=weak pp=gelehnt perf=haben
 lehren verb class=weak pp=gelehrt perf=haben
 leiden verb class=strong 3sg=leidet past=litt pp=gelitten subj2=litte perf=haben
+leihen verb class=strong 3sg=leiht past=lieh pp=geliehen subj2=liehe perf=haben
 leisten verb class=weak pp=geleistet perf=haben
 leiten verb class=weak pp=geleitet perf=haben
 lenken verb class=weak pp=gelenkt perf=haben
@@ -26,7 +28,10 @@ liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|se
 listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)
 loben verb class=weak pp=gelobt perf=haben
 locken verb class=weak pp=gelockt perf=haben
+löffeln verb class=weak pp=gelöffelt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc
 löschen verb class=weak pp=gelöscht perf=haben
 lösen verb class=weak pp=gelöst perf=haben
+lüften verb class=weak pp=gelüftet perf=haben
 lügen verb class=strong 3sg=lügt past=log pp=gelogen subj2=löge perf=haben
+lutschen verb class=weak pp=gelutscht perf=haben
