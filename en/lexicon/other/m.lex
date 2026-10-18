@@ -1,0 +1,10 @@
+Mar.          x abbr note=March
+mg            x abbr note=milligram(s)
+MHz           x abbr note=megahertz
+mi            x abbr note=mile(s)
+min.          x abbr note=minute(s); minimum
+minimis       x foreign note=only in de minimis
+mm            x abbr note=millimetre(s)
+Mon.          x abbr note=Monday
+mph           x abbr note=miles per hour
+MW            x abbr note=megawatt(s)
