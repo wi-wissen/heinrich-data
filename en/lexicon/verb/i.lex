@@ -5,36 +5,55 @@ ignore         verb
 illuminate     verb
 illustrate     verb
 imagine        verb
+imitate verb
+immigrate verb
 impact         verb
 impair         verb
+impart verb
+impede verb
+impel verb double
 implement      verb
+implicate verb
+implore verb
 imply          verb
 import         verb
 impose         verb
+impoverish verb
 impress        verb
+imprint verb
 imprison       verb
 improve        verb
+improvise verb
 inaugurate     verb
+incarcerate verb
+incentivize verb gb=incentivise|incentivize
 inch           verb
 incline        verb
 include        verb
+inconvenience verb
 incorporate    verb
 increase       verb
 incur          verb double
 index          verb
 indicate       verb
+indict verb
 induce         verb
 induct         verb
 indulge        verb
 infect         verb
+infer verb double
+inflate verb
 inflict        verb
 influence      verb
 inform         verb
 inhabit        verb
 inherit        verb
+inhibit verb
 initial        verb
 initiate       verb
+inject verb
 injure         verb
+innovate verb
 input          verb past=input|inputted pp=input|inputted ing=inputting
 inquire        verb gb=inquire|enquire
 inscribe       verb
@@ -60,12 +79,16 @@ interfere      verb
 interpose      verb
 interpret      verb
 interrupt      verb
+intersect verb
 intervene      verb
 interview      verb
 intimate       verb
+intoxicate verb
+intrigue verb ing=intriguing note=generator gives intrigueing for -ue verbs (gap)
 introduce      verb
 invade         verb
 invent         verb
+invert verb
 invest         verb
 investigate    verb
 invite         verb

@@ -1,3 +1,4 @@
+e-mail verb note=hyphenated spelling of email
 earn verb
 ease verb
 eat verb past=ate pp=eaten
@@ -7,9 +8,11 @@ edit verb
 educate verb
 effect verb
 ejaculate verb
+eject verb
 elaborate verb
 elapse verb
 elect verb
+electrify verb
 elevate verb
 eliminate verb
 elongate verb
@@ -19,6 +22,7 @@ embarrass verb
 embed verb double
 embody verb
 embrace verb
+embroider verb
 emerge verb
 emigrate verb
 emit verb double
@@ -26,9 +30,14 @@ emphasize verb gb=emphasise|emphasize
 employ verb
 empower verb
 empty verb
+emulate verb
 enable verb
 enact verb
+encamp verb
+enchant verb
+encircle verb
 enclose verb
+encode verb
 encompass verb
 encounter verb
 encourage verb
@@ -41,36 +50,57 @@ endure verb
 enforce verb
 engage verb
 engineer verb
+engrave verb
 enhance verb
 enjoy verb
 enlarge verb
 enlighten verb
 enlist verb
+enrage verb
 enrich verb
 enroll verb gb=enrol double
+enshrine verb
 enslave verb
 ensue verb ing=ensuing note=ing written out: the generator gives ensueing
 ensure verb
+entail verb
+entangle verb
 enter verb
 entertain verb
 entitle verb
+entreat verb
+entrench verb
 entrust verb
+enumerate verb
+envelop verb
+envisage verb
+envision verb
 envy verb
 equal verb
 equip verb double
+eradicate verb
 erect verb
+erode verb
+erupt verb
+escalate verb
 escape verb
 escort verb
 establish verb
+esteem verb
 estimate verb
+estrange verb
 evacuate verb
+evade verb
 evaluate verb
 evidence verb
 evolve verb
+exacerbate verb
 exaggerate verb
+exalt verb
 examine verb
 excavate verb
 exceed verb
+excel verb double
 except verb
 exchange verb
 excise verb
@@ -79,8 +109,10 @@ exclaim verb
 exclude verb
 excuse verb
 execute verb
+exemplify verb
 exempt verb
 exercise verb
+exert verb
 exhaust verb
 exhibit verb
 exile verb
