@@ -1,0 +1,142 @@
+# Lexeme class `zu_infinitive`: words that govern an infinitive group with `zu` in a way that
+# makes the comma before the group obligatory (Amtliches Regelwerk § 75 (2), (3)).
+# Rules: `[class=zu_infinitive]`, `[class:zu_infinitive=auf]`.
+# Columns: lemma[:sense]  pos  value
+#   noun  (no value)  the group depends on the noun: die Absicht, Medizin zu studieren /
+#                     sie hatte keine Lust, ins Kino zu gehen
+#         obj         as well, but the noun is often the object of the infinitive itself
+#                     after haben/geben + zu (er hat eine Aufgabe bis morgen zu erledigen,
+#                     no comma), so the comma is only certain after other verbs
+#   verb, adj         value = the preposition of the pronominal adverb that announces the
+#                     group (several with `|`): an = daran, auf = darauf, von = davon, zu = dazu,
+#                     fuer = dafür, ueber = darüber, um = darum, vor = davor, in = darin,
+#                     gegen = dagegen, mit = damit, bei = dabei, nach = danach:
+#                     er dachte nicht daran, aufzuräumen / er war stolz darauf, gewonnen zu haben
+# Reflexive verbs with a correlate (sich freuen darauf) need no entry: a reflexive pronoun
+# before the correlate is enough. Written from own knowledge of German (clean-room); only
+# lemmas of this lexicon.
+
+# Nouns.
+Absicht	noun
+Angebot	noun	obj
+Angst	noun
+Anlass	noun
+Anstrengung	noun
+Anweisung	noun
+Aufforderung	noun
+Aufgabe	noun	obj
+Auftrag	noun	obj
+Aussicht	noun
+Bedürfnis	noun
+Befehl	noun	obj
+Bereitschaft	noun
+Bitte	noun	obj
+Chance	noun
+Drang	noun
+Ehre	noun
+Ehrgeiz	noun
+Eindruck	noun
+Einladung	noun
+Empfehlung	noun
+Entscheidung	noun	obj
+Entschluss	noun
+Erfahrung	noun
+Erlaubnis	noun
+Fähigkeit	noun
+Fehler	noun	obj
+Forderung	noun
+Freude	noun
+Gedanke	noun
+Geduld	noun
+Gefahr	noun
+Gefühl	noun
+Gelegenheit	noun
+Gewohnheit	noun
+Glück	noun
+Grund	noun
+Herausforderung	noun
+Hoffnung	noun
+Idee	noun
+Kraft	noun
+Kunst	noun
+Lust	noun
+Methode	noun
+Möglichkeit	noun
+Mühe	noun
+Mut	noun
+Neigung	noun
+Pflicht	noun	obj
+Plan	noun
+Rat	noun	obj
+Recht	noun
+Schwierigkeit	noun
+Sehnsucht	noun
+Spaß	noun
+Talent	noun
+Tendenz	noun
+Traum	noun
+Verbot	noun
+Vergnügen	noun
+Verpflichtung	noun
+Versuch	noun
+Versuchung	noun
+Vorhaben	noun
+Vorschlag	noun	obj
+Weg	noun	obj
+Wille	noun
+Wunsch	noun
+Zeit	noun
+Ziel	noun
+
+# Verbs with a correlate.
+abhalten	verb	von
+achten	verb	auf
+ankommen	verb	auf
+arbeiten	verb	an
+auffordern	verb	zu
+ausgehen	verb	von
+beitragen	verb	zu
+bestehen	verb	auf|in
+bitten	verb	um
+bringen	verb	zu
+denken	verb	an
+dienen	verb	zu
+drängen	verb	zu
+ermutigen	verb	zu
+gehen	verb	um
+glauben	verb	an
+helfen	verb	bei
+hindern	verb	an
+hinweisen	verb	auf
+hoffen	verb	auf
+kämpfen	verb	fuer|um
+liegen	verb	in
+nachdenken	verb	ueber
+neigen	verb	zu
+raten	verb	zu
+reden	verb	von|ueber
+sorgen	verb	fuer
+sprechen	verb	fuer|von|gegen
+träumen	verb	von
+überreden	verb	zu
+überzeugen	verb	von
+verpflichten	verb	zu
+verzichten	verb	auf
+warnen	verb	vor
+warten	verb	auf
+zwingen	verb	zu
+zweifeln	verb	an
+
+# Adjectives with a correlate (er war stolz darauf, …).
+begeistert	adj	von
+bereit	adj	zu
+dankbar	adj	fuer
+fähig	adj	zu
+froh	adj	ueber
+glücklich	adj	ueber
+neugierig	adj	auf
+schuld	adj	an
+stolz	adj	auf
+traurig	adj	ueber
+verantwortlich	adj	fuer
+zuständig	adj	fuer
