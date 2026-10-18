@@ -61,6 +61,7 @@ difficult adj cmp=more
 digital adj adv=digitally
 dignified adj cmp=more
 dim adj cmp=er adv=dimly
+dimensional adj
 diplomatic adj adv=diplomatically
 dire adj cmp=er
 direct adj cmp=more adv=directly

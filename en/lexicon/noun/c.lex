@@ -586,4 +586,5 @@ cycle noun
 cyclist noun
 cylinder noun
 cynicism noun pl=- note=uncountable
+czar noun note=tsar is a separate entry
 Czech noun note=a person; the language
