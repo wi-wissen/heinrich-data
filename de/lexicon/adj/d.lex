@@ -24,6 +24,7 @@ dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dienstlich adj
 diesbezüglich adj
+diesig adj cmp=diesiger sup=diesigsten
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
 diplomatisch adj
@@ -31,6 +32,7 @@ direkt        adj cmp=direkter sup=direktesten
 divers adj
 doof adj cmp=doofer sup=doofsten
 doppelt adj
+dornig adj cmp=dorniger sup=dornigsten
 dortig        adj note=only attributive (die dortigen Verhältnisse)
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
@@ -38,6 +40,7 @@ dreckig adj cmp=dreckiger sup=dreckigsten
 dreißigjährig adj attr_only
 dringend      adj cmp=dringender sup=dringendsten
 dual adj
+duftend adj
 dumm adj cmp=dümmer sup=dümmsten
 dumpf adj cmp=dumpfer sup=dumpfsten
 dunkel        adj cmp=dunkler sup=dunkelsten

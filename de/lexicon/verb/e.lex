@@ -10,9 +10,10 @@ einbinden verb class=strong sep=ein 3sg=einbindet past=einband pp=eingebunden su
 einbringen verb class=mixed sep=ein 3sg=einbringt past=einbrachte pp=eingebracht subj2=einbrächte perf=haben refl=acc
 eincremen verb class=weak sep=ein pp=eingecremt perf=haben refl=acc
 einfallen verb class=strong sep=ein 3sg=einfällt past=einfiel pp=eingefallen subj2=einfiele perf=sein
+einfangen verb class=strong sep=ein 3sg=einfängt past=einfing pp=eingefangen subj2=einfinge perf=haben
 einfließen verb class=strong sep=ein 3sg=einfließt past=einfloss pp=eingeflossen subj2=einflösse perf=sein
 einfordern verb class=weak sep=ein pp=eingefordert perf=haben
-einfrieren verb class=strong sep=ein 3sg=einfriert past=einfror pp=eingefroren subj2=einfröre perf=haben|sein note=stem frier-; not an -ieren verb
+einfrieren verb class=strong sep=ein 3sg=einfriert past=einfror pp=eingefroren subj2=einfröre perf=haben|sein note=pp gefroren is correct; not an -ieren verb
 einfügen verb class=weak sep=ein pp=eingefügt perf=haben
 einführen verb class=weak sep=ein pp=eingeführt perf=haben
 einfüllen verb class=weak sep=ein pp=eingefüllt perf=haben
@@ -27,13 +28,16 @@ einheizen verb class=weak sep=ein pp=eingeheizt perf=haben
 einholen verb class=weak sep=ein pp=eingeholt perf=haben
 einigen verb class=weak pp=geeinigt perf=haben refl=acc
 einkaufen verb class=weak sep=ein pp=eingekauft perf=haben
+einkochen verb class=weak pp=eingekocht perf=haben sep=ein
 einladen verb class=strong sep=ein 3sg=einlädt past=einlud pp=eingeladen subj2=einlüde perf=haben
 einlassen verb class=strong sep=ein 3sg=einlässt past=einließ pp=eingelassen subj2=einließe perf=haben
 einlegen verb class=weak sep=ein pp=eingelegt perf=haben
 einleiten verb class=weak sep=ein pp=eingeleitet perf=haben
+einlösen verb class=weak pp=eingelöst perf=haben sep=ein
 einnehmen verb class=strong sep=ein 3sg=einnimmt past=einnahm pp=eingenommen subj2=einnähme perf=haben
 einordnen verb class=weak sep=ein pp=eingeordnet perf=haben
 einpacken verb class=weak sep=ein pp=eingepackt perf=haben
+einpflanzen verb class=weak pp=eingepflanzt perf=haben sep=ein
 einräumen verb class=weak sep=ein pp=eingeräumt perf=haben
 einreiben verb class=strong sep=ein 3sg=einreibt past=einrieb pp=eingerieben subj2=einriebe perf=haben refl=acc
 einreichen verb class=weak sep=ein pp=eingereicht perf=haben
@@ -51,6 +55,7 @@ einstecken verb class=weak sep=ein pp=eingesteckt perf=haben
 einsteigen verb class=strong sep=ein 3sg=einsteigt past=einstieg pp=eingestiegen subj2=einstiege perf=sein
 einstellen verb class=weak sep=ein pp=eingestellt perf=haben refl=acc
 einstufen verb class=weak sep=ein pp=eingestuft perf=haben
+einstürzen verb class=weak pp=eingestürzt perf=sein sep=ein
 einteilen verb class=weak sep=ein pp=eingeteilt perf=haben
 eintragen verb class=strong sep=ein 3sg=einträgt past=eintrug pp=eingetragen subj2=eintrüge perf=haben refl=acc
 eintreffen verb class=strong sep=ein 3sg=eintrifft past=eintraf pp=eingetroffen subj2=einträfe perf=sein
@@ -59,6 +64,7 @@ einwechseln verb class=weak sep=ein pp=eingewechselt perf=haben
 einweichen verb class=weak sep=ein pp=eingeweicht perf=haben
 einweihen verb class=weak sep=ein pp=eingeweiht perf=haben
 einwickeln verb class=weak sep=ein pp=eingewickelt perf=haben refl=acc
+einzahlen verb class=weak pp=eingezahlt perf=haben sep=ein
 einziehen verb class=strong sep=ein 3sg=einzieht past=einzog pp=eingezogen subj2=einzöge perf=sein|haben
 emigrieren verb class=weak pp=emigriert perf=sein
 empfangen verb class=strong 3sg=empfängt past=empfing pp=empfangen subj2=empfinge perf=haben
@@ -82,6 +88,7 @@ entgegnen verb class=weak pp=entgegnet perf=haben
 entgehen verb class=strong 3sg=entgeht past=entging pp=entgangen subj2=entginge perf=sein
 enthalten verb class=strong 3sg=enthält past=enthielt pp=enthalten subj2=enthielte perf=haben
 enthüllen verb class=weak pp=enthüllt perf=haben
+entkernen verb class=weak pp=entkernt perf=haben
 entkommen verb class=strong 3sg=entkommt past=entkam pp=entkommen subj2=entkäme perf=sein
 entlassen verb class=strong 3sg=entlässt past=entließ pp=entlassen subj2=entließe perf=haben
 entlasten verb class=weak pp=entlastet perf=haben
@@ -89,11 +96,13 @@ entlaufen verb class=strong 3sg=entläuft past=entlief pp=entlaufen subj2=entlie
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
 entrümpeln verb class=weak pp=entrümpelt perf=haben
+entsaften verb class=weak pp=entsaftet perf=haben
 entscheiden verb class=strong 3sg=entscheidet past=entschied pp=entschieden subj2=entschiede perf=haben refl=acc
 entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen subj2=entschlösse perf=haben refl=acc
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
+entsorgen verb class=weak pp=entsorgt perf=haben
 entspannen verb class=weak pp=entspannt perf=haben refl=acc
 entsprechen verb class=strong 3sg=entspricht past=entsprach pp=entsprochen subj2=entspräche perf=haben
 entspringen verb class=strong 3sg=entspringt past=entsprang pp=entsprungen subj2=entspränge perf=sein
@@ -109,8 +118,10 @@ erachten verb class=weak pp=erachtet perf=haben
 erarbeiten verb class=weak pp=erarbeitet perf=haben
 erbarmen verb class=weak pp=erbarmt perf=haben refl=acc
 erbauen verb class=weak pp=erbaut perf=haben
+erbeben verb class=weak pp=erbebt perf=haben
 erben verb class=weak pp=geerbt perf=haben
 erblicken verb class=weak pp=erblickt perf=haben
+erblühen verb class=weak pp=erblüht perf=sein
 erbrechen verb class=strong 3sg=erbricht past=erbrach pp=erbrochen subj2=erbräche perf=haben refl=acc
 erbringen verb class=mixed 3sg=erbringt past=erbrachte pp=erbracht subj2=erbrächte perf=haben
 ereignen verb class=weak pp=ereignet perf=haben refl=acc
@@ -121,6 +132,7 @@ erfolgen verb class=weak pp=erfolgt perf=sein
 erfordern verb class=weak pp=erfordert perf=haben
 erforschen verb class=weak pp=erforscht perf=haben
 erfreuen verb class=weak pp=erfreut perf=haben
+erfrieren verb class=strong 3sg=erfriert past=erfror pp=erfroren subj2=erfröre perf=sein
 erfüllen verb class=weak pp=erfüllt perf=haben
 ergänzen verb class=weak pp=ergänzt perf=haben refl=acc
 ergeben verb class=strong 3sg=ergibt past=ergab pp=ergeben subj2=ergäbe perf=haben refl=acc
@@ -128,6 +140,7 @@ ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben
 erhalten verb class=strong 3sg=erhält past=erhielt pp=erhalten subj2=erhielte perf=haben
 erheben verb class=strong refl=acc 3sg=erhebt past=erhob|erhub[archaic] pp=erhoben subj2=erhöbe|erhübe[archaic] perf=haben
+erhitzen verb class=weak pp=erhitzt perf=haben
 erhöhen verb class=weak pp=erhöht perf=haben refl=acc
 erholen verb class=weak pp=erholt perf=haben refl=acc
 erinnern verb class=weak pp=erinnert perf=haben refl=acc
@@ -141,6 +154,7 @@ erlauben verb class=weak pp=erlaubt perf=haben
 erläutern verb class=weak pp=erläutert perf=haben
 erleben verb class=weak pp=erlebt perf=haben
 erledigen verb class=weak pp=erledigt perf=haben
+erlegen verb class=weak pp=erlegt perf=haben
 erleichtern verb class=weak pp=erleichtert perf=haben
 erleiden verb class=strong 3sg=erleidet past=erlitt pp=erlitten subj2=erlitte perf=haben
 erlernen verb class=weak pp=erlernt perf=haben
@@ -153,6 +167,7 @@ ermutigen verb class=weak pp=ermutigt perf=haben
 ernähren verb class=weak pp=ernährt perf=haben
 ernennen verb class=mixed 3sg=ernennt past=ernannte pp=ernannt subj2=ernennte perf=haben
 erneuern verb class=weak pp=erneuert perf=haben
+ernten verb class=weak pp=geerntet perf=haben
 erobern verb class=weak pp=erobert perf=haben
 eröffnen verb class=weak pp=eröffnet perf=haben
 erörtern verb class=weak pp=erörtert perf=haben
@@ -178,6 +193,7 @@ ersetzen verb class=weak pp=ersetzt perf=haben
 ersparen verb class=weak pp=erspart perf=haben
 erstatten verb class=weak pp=erstattet perf=haben
 erstaunen verb class=weak pp=erstaunt perf=haben
+ersteigern verb class=weak pp=ersteigert perf=haben
 erstellen verb class=weak pp=erstellt perf=haben
 ersticken verb class=weak pp=erstickt perf=haben|sein
 erstrecken verb class=weak pp=erstreckt perf=haben refl=acc
@@ -185,6 +201,7 @@ ersuchen verb class=weak pp=ersucht perf=haben
 erteilen verb class=weak pp=erteilt perf=haben
 ertönen verb class=weak pp=ertönt perf=sein
 ertragen verb class=strong 3sg=erträgt past=ertrug pp=ertragen subj2=ertrüge perf=haben
+ertrinken verb class=strong 3sg=ertrinkt past=ertrank pp=ertrunken subj2=ertränke perf=sein
 erwachen verb class=weak pp=erwacht perf=sein
 erwachsen verb class=strong 3sg=erwächst past=erwuchs pp=erwachsen subj2=erwüchse perf=sein
 erwähnen verb class=weak pp=erwähnt perf=haben

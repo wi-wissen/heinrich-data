@@ -2,10 +2,12 @@ kacken verb class=weak pp=gekackt perf=haben style=colloquial
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
+kassieren verb class=weak pp=kassiert perf=haben
 kauen verb class=weak pp=gekaut perf=haben
 kauern verb class=weak pp=gekauert perf=haben refl=acc
 kaufen verb class=weak pp=gekauft perf=haben
 kehren verb class=weak pp=gekehrt perf=haben note=sweep, turn; kehrte ... zurück belongs to zurückkehren
+keimen verb class=weak pp=gekeimt perf=haben|sein
 kennen verb class=mixed 3sg=kennt past=kannte pp=gekannt subj2=kennte perf=haben
 kennenlernen verb class=weak sep=kennen pp=kennengelernt perf=haben
 kennzeichnen verb class=weak pp=gekennzeichnet perf=haben
@@ -45,7 +47,9 @@ koordinieren verb class=weak pp=koordiniert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
 kotzen verb class=weak pp=gekotzt perf=haben style=colloquial
-krabbeln verb class=weak pp=gekrabbelt perf=sein
+krabbeln verb class=weak pp=gekrabbelt perf=haben|sein
+krachen verb class=weak pp=gekracht perf=haben|sein
+krächzen verb class=weak pp=gekrächzt perf=haben
 krähen verb class=weak pp=gekräht perf=haben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc

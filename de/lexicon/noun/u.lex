@@ -23,6 +23,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überrest noun g=m gen=Überrests|Überrestes pl=Überreste
 Überschreitung noun g=f gen=Überschreitung pl=Überschreitungen
 Überschrift noun g=f gen=Überschrift pl=Überschriften
+Überschwemmung noun g=f gen=Überschwemmung pl=Überschwemmungen
 Übersetzer noun g=m gen=Übersetzers pl=Übersetzer
 Übersetzerin noun g=f gen=Übersetzerin pl=Übersetzerinnen
 Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
@@ -36,6 +37,8 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Ufer noun g=n gen=Ufers pl=Ufer
 Uhr noun g=f gen=Uhr pl=Uhren
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
+Uhu noun g=m gen=Uhus pl=Uhus
+Ulme noun g=f gen=Ulme pl=Ulmen
 Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
@@ -46,6 +49,7 @@ Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
+Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
@@ -58,6 +62,9 @@ Umstellung noun g=f gen=Umstellung pl=Umstellungen
 Umwandlung noun g=f gen=Umwandlung pl=Umwandlungen
 Umweg noun g=m gen=Umwegs|Umweges pl=Umwege
 Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
+Umweltschützer noun g=m gen=Umweltschützers pl=Umweltschützer
+Umweltschützerin noun g=f gen=Umweltschützerin pl=Umweltschützerinnen
+Umweltverschmutzung noun g=f gen=Umweltverschmutzung pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
@@ -75,6 +82,7 @@ Uniform noun g=f gen=Uniform pl=Uniformen
 Union noun g=f gen=Union pl=Unionen
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
+Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
 Unmut noun g=m gen=Unmuts|Unmutes pl=- note=no plural
 Unordnung noun g=f gen=Unordnung pl=- note=no plural

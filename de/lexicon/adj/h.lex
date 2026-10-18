@@ -19,6 +19,8 @@ heiß adj cmp=heißer sup=heißesten
 heiser adj cmp=heiserer sup=heisersten
 heiter adj cmp=heiterer sup=heitersten
 hell adj cmp=heller sup=hellsten
+herb adj cmp=herber sup=herbsten
+herbstlich adj cmp=herbstlicher sup=herbstlichsten
 herkömmlich adj
 herrlich adj cmp=herrlicher sup=herrlichsten
 herzlich adj cmp=herzlicher sup=herzlichsten
@@ -32,6 +34,7 @@ hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
 hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
 historisch adj
+hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höflich adj cmp=höflicher sup=höflichsten
@@ -40,5 +43,6 @@ holländisch adj
 hölzern adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
+hügelig adj cmp=hügeliger sup=hügeligsten
 humanitär adj
 hungrig adj cmp=hungriger sup=hungrigsten

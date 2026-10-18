@@ -56,12 +56,14 @@ arg adj cmp=ärger sup=ärgsten
 argentinisch adj
 ärgerlich adj cmp=ärgerlicher sup=ärgerlichsten
 arithmetisch adj
+arktisch adj
 arm           adj cmp=ärmer sup=ärmsten
 arrogant adj cmp=arroganter sup=arrogantesten
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
 asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
+atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
 aufdringlich adj cmp=aufdringlicher sup=aufdringlichsten
 auffällig adj cmp=auffälliger sup=auffälligsten
@@ -88,6 +90,7 @@ ausnahmslos adj
 ausschlaggebend adj
 ausschließlich adj
 australisch adj
+ausverkauft adj
 auswärtig adj
 automatisch adj
 autonom adj cmp=autonomer sup=autonomsten

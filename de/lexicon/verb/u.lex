@@ -2,6 +2,7 @@
 überarbeiten verb class=weak pp=überarbeitet perf=haben refl=acc
 übereinstimmen verb class=weak sep=überein pp=übereingestimmt perf=haben
 überfallen verb class=strong 3sg=überfällt past=überfiel pp=überfallen subj2=überfiele perf=haben
+überfluten verb class=weak pp=überflutet perf=haben
 überfordern verb class=weak pp=überfordert perf=haben
 überführen verb class=weak pp=überführt perf=haben note=inseparable: einen Täter überführen
 übergeben verb class=strong 3sg=übergibt past=übergab pp=übergeben subj2=übergäbe perf=haben
@@ -25,6 +26,7 @@
 überreden verb class=weak pp=überredet perf=haben
 überschreiben verb class=strong 3sg=überschreibt past=überschrieb pp=überschrieben subj2=überschriebe perf=haben
 überschreiten verb class=strong 3sg=überschreitet past=überschritt pp=überschritten subj2=überschritte perf=haben
+überschwemmen verb class=weak pp=überschwemmt perf=haben
 übersehen verb class=strong 3sg=übersieht past=übersah pp=übersehen subj2=übersähe perf=haben
 übersenden verb class=weak past=übersendete|übersandte pp=übersendet|übersandt perf=haben
 übersetzen verb class=weak pp=übersetzt perf=haben sense=translate note=einen Text übersetzen (stress on set)
@@ -40,6 +42,7 @@
 überweisen verb class=strong 3sg=überweist past=überwies pp=überwiesen subj2=überwiese perf=haben
 überwiegen verb class=strong 3sg=überwiegt past=überwog pp=überwogen subj2=überwöge perf=haben
 überwinden verb class=strong 3sg=überwindet past=überwand pp=überwunden subj2=überwände perf=haben
+überwintern verb class=weak pp=überwintert perf=haben
 überzeugen verb class=weak pp=überzeugt perf=haben
 überziehen verb class=strong 3sg=überzieht past=überzog pp=überzogen subj2=überzöge perf=haben sense=cover note=stress on ziehen: ein Konto überziehen, mit Schokolade überziehen
 überziehen verb class=strong sep=über 3sg=überzieht past=überzog pp=übergezogen subj2=überzöge perf=haben sense=put_on note=stress on über: sich einen Mantel überziehen
@@ -58,8 +61,10 @@ umgeben verb class=strong 3sg=umgibt past=umgab pp=umgeben subj2=umgäbe perf=ha
 umgehen verb class=strong sep=um 3sg=umgeht past=umging pp=umgegangen subj2=umginge perf=sein sense=deal note=mit jemandem umgehen
 umgehen verb class=strong 3sg=umgeht past=umging pp=umgangen subj2=umginge perf=haben sense=avoid note=inseparable: ein Hindernis umgehen
 umgestalten verb class=weak sep=um pp=umgestaltet perf=haben
+umgraben verb class=strong sep=um 3sg=umgräbt past=umgrub pp=umgegraben subj2=umgrübe perf=haben
 umkehren verb class=weak sep=um pp=umgekehrt perf=haben|sein
 umkippen verb class=weak sep=um pp=umgekippt perf=haben|sein
+umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
 umrechnen verb class=weak sep=um pp=umgerechnet perf=haben
 umrühren verb class=weak sep=um pp=umgerührt perf=haben
 umschließen verb class=strong 3sg=umschließt past=umschloss pp=umschlossen subj2=umschlösse perf=haben
@@ -68,6 +73,7 @@ umsteigen verb class=strong sep=um 3sg=umsteigt past=umstieg pp=umgestiegen subj
 umstellen verb class=weak sep=um pp=umgestellt perf=haben refl=acc
 umstoßen verb class=strong sep=um 3sg=umstößt past=umstieß pp=umgestoßen subj2=umstieße perf=haben
 umtauschen verb class=weak sep=um pp=umgetauscht perf=haben
+umtopfen verb class=weak pp=umgetopft perf=haben sep=um
 umwandeln verb class=weak sep=um pp=umgewandelt perf=haben
 umziehen verb class=strong sep=um 3sg=umzieht past=umzog pp=umgezogen subj2=umzöge perf=haben|sein refl=acc
 unterbinden verb class=strong 3sg=unterbindet past=unterband pp=unterbunden subj2=unterbände perf=haben
@@ -76,6 +82,7 @@ unterbrechen verb class=strong 3sg=unterbricht past=unterbrach pp=unterbrochen s
 unterbringen verb class=mixed sep=unter 3sg=unterbringt past=unterbrachte pp=untergebracht subj2=unterbrächte perf=haben
 unterdrücken verb class=weak pp=unterdrückt perf=haben
 unterhalten verb class=strong 3sg=unterhält past=unterhielt pp=unterhalten subj2=unterhielte perf=haben
+unterheben verb class=strong sep=unter 3sg=unterhebt past=unterhob pp=untergehoben subj2=unterhöbe perf=haben
 unterlassen verb class=strong 3sg=unterlässt past=unterließ pp=unterlassen subj2=unterließe perf=haben
 unterliegen verb class=strong 3sg=unterliegt past=unterlag pp=unterlegen subj2=unterläge perf=sein|haben
 unternehmen verb class=strong 3sg=unternimmt past=unternahm pp=unternommen subj2=unternähme perf=haben

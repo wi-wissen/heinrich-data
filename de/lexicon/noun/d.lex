@@ -2,10 +2,12 @@ Dach          noun g=n gen=Daches|Dachs pl=Dächer
 Dachdecker noun g=m gen=Dachdeckers pl=Dachdecker
 Dachdeckerin noun g=f gen=Dachdeckerin pl=Dachdeckerinnen
 Dachrinne noun g=f gen=Dachrinne pl=Dachrinnen
+Dachs noun g=m gen=Dachses pl=Dachse
 Dackel noun g=m gen=Dackels pl=Dackel
 Dame          noun g=f gen=Dame pl=Damen
 Damm noun g=m gen=Dammes|Damms pl=Dämme
 Dämmerung noun g=f gen=Dämmerung pl=Dämmerungen
+Dämmung noun g=f gen=Dämmung pl=Dämmungen
 Dämon noun g=m gen=Dämons pl=Dämonen
 Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
@@ -20,6 +22,7 @@ Darstellung   noun g=f gen=Darstellung pl=Darstellungen
 Dasein noun g=n gen=Daseins pl=- note=no plural
 Date noun g=n gen=Dates pl=Dates
 Datei         noun g=f gen=Datei pl=Dateien
+Dattel noun g=f gen=Dattel pl=Datteln
 Datum         noun g=n gen=Datums pl=Daten
 Dauer         noun g=f gen=Dauer pl=- note=no plural
 Daumen noun g=m gen=Daumens pl=Daumen
@@ -40,6 +43,7 @@ Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
 Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
 Delegation noun g=f gen=Delegation pl=Delegationen
 Delegierte noun g=m|f decl=adj
+Delfin noun g=m gen=Delfins pl=Delfine
 Delphin noun g=m gen=Delphins pl=Delphine
 Delta noun g=n gen=Deltas pl=Deltas|Delten[rare]
 Demo noun g=f gen=Demo pl=Demos note=colloquial for Demonstration
@@ -54,11 +58,13 @@ Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
+Deponie noun g=f gen=Deponie pl=Deponien
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
 Derby noun g=n gen=Derbys pl=Derbys
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
+Dessert noun g=n gen=Desserts pl=Desserts
 Detail noun g=n gen=Details pl=Details
 Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
@@ -91,8 +97,10 @@ Differenz noun g=f gen=Differenz pl=Differenzen
 Differenzierung noun g=f gen=Differenzierung pl=Differenzierungen
 Digitalisierung noun g=f gen=Digitalisierung pl=- note=no plural
 Diktatur noun g=f gen=Diktatur pl=Diktaturen
+Dill noun g=m gen=Dills pl=Dille
 Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
+Dingo noun g=m gen=Dingos pl=Dingos
 Diözese noun g=f gen=Diözese pl=Diözesen
 Diplom noun g=n gen=Diploms|Diplomes[rare] pl=Diplome
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
@@ -108,6 +116,7 @@ Diskussion    noun g=f gen=Diskussion pl=Diskussionen
 Disposition noun g=f gen=Disposition pl=Dispositionen
 Dissertation noun g=f gen=Dissertation pl=Dissertationen
 Distanz noun g=f gen=Distanz pl=Distanzen
+Distel noun g=f gen=Distel pl=Disteln
 Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
 Division      noun g=f gen=Division pl=Divisionen
@@ -115,6 +124,7 @@ DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
 Doge noun g=m gen=Dogen pl=Dogen
+Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
 Dokument noun g=n gen=Dokuments|Dokumentes pl=Dokumente
 Dokumentarfilm noun g=m gen=Dokumentarfilms|Dokumentarfilmes pl=Dokumentarfilme
@@ -123,6 +133,7 @@ Dolch noun g=m gen=Dolchs|Dolches pl=Dolche
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Dolmetscher noun g=m gen=Dolmetschers pl=Dolmetscher
 Dom noun g=m gen=Doms|Domes pl=Dome
+Döner noun g=m gen=Döners pl=Döner
 Donner noun g=m gen=Donners pl=- note=thunder; no plural
 Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Doping noun g=n gen=Dopings pl=- note=no plural
@@ -131,6 +142,7 @@ Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
 Dorn noun g=m gen=Dorns|Dornes pl=Dornen|Dorne[rare]
 Dortmunder noun g=m gen=Dortmunders pl=Dortmunder note=inhabitant of Dortmund
 Dose noun g=f gen=Dose pl=Dosen
+Dosenöffner noun g=m gen=Dosenöffners pl=Dosenöffner
 Dosis noun g=f gen=Dosis pl=Dosen
 Double noun g=n gen=Doubles pl=Doubles
 Dozent noun g=m gen=Dozenten pl=Dozenten
@@ -147,17 +159,24 @@ Dresdner noun g=m gen=Dresdners pl=Dresdner
 Drittel       noun g=n gen=Drittels pl=Drittel
 Drittstaat noun g=m gen=Drittstaates|Drittstaats pl=Drittstaaten
 Droge noun g=f gen=Droge pl=Drogen
+Drogerie noun g=f gen=Drogerie pl=Drogerien
 Drohne noun g=f gen=Drohne pl=Drohnen
 Drohung noun g=f gen=Drohung pl=Drohungen
+Dromedar noun g=n gen=Dromedars pl=Dromedare
+Drossel noun g=f gen=Drossel pl=Drosseln
 Druck         noun g=m gen=Drucks|Druckes pl=Drücke sense=pressure
 Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print
 Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
+Dschungel noun g=m gen=Dschungels pl=Dschungel
 Duell noun g=n gen=Duells pl=Duelle
 Duft noun g=m gen=Duftes|Dufts pl=Düfte
 Dukat noun g=m gen=Dukaten pl=Dukaten
 Duldung noun g=f gen=Duldung pl=- note=no plural
 Dummheit noun g=f gen=Dummheit pl=Dummheiten
+Düne noun g=f gen=Düne pl=Dünen
+Dünengras noun g=n gen=Dünengrases pl=- note=no plural
+Dünger noun g=m gen=Düngers pl=Dünger
 Dunkel noun g=n gen=Dunkels pl=- note=no plural
 Dunkelheit noun g=f gen=Dunkelheit pl=- note=no plural
 Dunst noun g=m gen=Dunstes|Dunsts pl=Dünste
@@ -168,6 +187,8 @@ Durchgang noun g=m gen=Durchgangs|Durchganges pl=Durchgänge
 Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser
 Durchschnitt noun g=m gen=Durchschnitts|Durchschnittes pl=Durchschnitte
 Durchsetzung noun g=f gen=Durchsetzung pl=- note=no plural
+Dürre noun g=f gen=Dürre pl=Dürren
+Dürreperiode noun g=f gen=Dürreperiode pl=Dürreperioden
 Durst noun g=m gen=Durstes|Dursts[rare] pl=- note=no plural
 Dusche noun g=f gen=Dusche pl=Duschen
 Duschgel noun g=n gen=Duschgels pl=Duschgels

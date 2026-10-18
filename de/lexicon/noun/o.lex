@@ -1,3 +1,4 @@
+Oase noun g=f gen=Oase pl=Oasen
 Obdachlose noun g=m|f decl=adj
 Ober noun g=m gen=Obers pl=Ober note=waiter
 Oberbefehlshaber noun g=m gen=Oberbefehlshabers pl=Oberbefehlshaber note=compound not split by the analyser
@@ -28,11 +29,16 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökonom noun g=m gen=Ökonomen pl=Ökonomen
 Ökonomie noun g=f gen=Ökonomie pl=Ökonomien
 Oktober noun g=m gen=Oktobers pl=Oktober
+Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
+Olive noun g=f gen=Olive pl=Oliven
+Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
 Oma noun g=f gen=Oma pl=Omas
+Omelett noun g=n gen=Omeletts pl=Omeletts
 Omi noun g=f gen=Omi pl=Omis
 Onkel noun g=m gen=Onkels pl=Onkel|Onkels[colloquial]
+Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
 Oper noun g=f gen=Oper pl=Opern
 Operation noun g=f gen=Operation pl=Operationen
@@ -45,10 +51,12 @@ Option noun g=f gen=Option pl=Optionen
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orchester noun g=n gen=Orchesters pl=Orchester
+Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
+Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
 Organisation noun g=f gen=Organisation pl=Organisationen
 Organismus noun g=m gen=Organismus pl=Organismen
@@ -57,6 +65,7 @@ Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
+Orkan noun g=m gen=Orkans pl=Orkane
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
@@ -64,8 +73,13 @@ Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not spl
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
 Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier
+Osterglocke noun g=f gen=Osterglocke pl=Osterglocken
 Osterhase noun g=m gen=Osterhasen pl=Osterhasen
 Ostern noun g=n gen=Ostern pl=- note=Ostern ist; bare genitive; plural form used as singular
 Österreicher noun g=m gen=Österreichers pl=Österreicher
+Otter noun g=m gen=Otters pl=Otter
 Overall noun g=m gen=Overalls pl=Overalls
 Ozean noun g=m gen=Ozeans pl=Ozeane
+Ozon noun g=n gen=Ozons pl=- note=no plural
+Ozonloch noun g=n gen=Ozonlochs pl=- note=no plural
+Ozonschicht noun g=f gen=Ozonschicht pl=- note=no plural

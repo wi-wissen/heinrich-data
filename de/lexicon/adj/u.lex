@@ -5,6 +5,7 @@
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
 übermüdet adj cmp=übermüdeter sup=übermüdetsten
 übermütig adj cmp=übermütiger sup=übermütigsten
+überteuert adj
 üblich adj
 übrig adj note=not compared; im Übrigen, die übrigen Gäste
 ukrainisch adj
@@ -85,6 +86,7 @@ unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj
 unzweifelhaft adj
+üppig adj cmp=üppiger sup=üppigsten
 uralt adj
 urkundlich adj
 ursprünglich adj

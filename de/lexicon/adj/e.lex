@@ -24,6 +24,7 @@ eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingeschnappt adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
+einjährig adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
 einschlägig adj attr_only
@@ -34,6 +35,7 @@ einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
 eisern adj
+eisig adj cmp=eisiger sup=eisigsten
 eitel adj cmp=eitler sup=eitelsten
 ekelhaft adj cmp=ekelhafter sup=ekelhaftesten
 eklig adj cmp=ekliger sup=ekligsten

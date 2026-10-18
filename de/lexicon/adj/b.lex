@@ -1,4 +1,5 @@
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
+bankrott adj
 bar adj
 barock adj
 bärtig adj
@@ -7,6 +8,7 @@ baulich adj
 bayerisch adj
 bedacht adj note=bedacht auf etwas; participle of bedenken with own meaning
 bedauerlich adj cmp=bedauerlicher sup=bedauerlichsten
+bedeckt adj
 bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
@@ -33,6 +35,7 @@ bemerkenswert adj cmp=bemerkenswerter sup=bemerkenswertesten
 benachbart adj
 bequem adj cmp=bequemer sup=bequemsten
 bereit adj
+bergig adj cmp=bergiger sup=bergigsten
 beruflich adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
@@ -48,6 +51,7 @@ betrübt adj cmp=betrübter sup=betrübtesten
 betrunken adj cmp=betrunkener sup=betrunkensten
 bewährt adj cmp=bewährter sup=bewährtesten
 beweglich adj cmp=beweglicher sup=beweglichsten
+bewölkt adj
 bewusst       adj cmp=bewusster sup=bewusstesten
 bezahlbar adj cmp=bezahlbarer sup=bezahlbarsten
 biblisch adj
@@ -55,6 +59,7 @@ bilateral adj
 billig adj cmp=billiger sup=billigsten
 biologisch adj
 bisherig adj
+bissfest adj
 bissig adj cmp=bissiger sup=bissigsten
 bitter adj cmp=bitterer sup=bittersten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
@@ -66,9 +71,11 @@ blöd adj cmp=blöder sup=blödesten
 blödsinnig adj cmp=blödsinniger sup=blödsinnigsten
 blond adj cmp=blonder sup=blondesten
 bloß adj
+blühend adj
 blutig adj cmp=blutiger sup=blutigsten
 bockig adj cmp=bockiger sup=bockigsten
 böhmisch adj
+böig adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 brasilianisch adj

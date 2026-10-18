@@ -30,6 +30,7 @@ liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|se
 listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)
 loben verb class=weak pp=gelobt perf=haben
 locken verb class=weak pp=gelockt perf=haben
+löffeln verb class=weak pp=gelöffelt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc
 löschen verb class=weak pp=gelöscht perf=haben
 lösen verb class=weak pp=gelöst perf=haben

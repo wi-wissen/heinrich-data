@@ -1,19 +1,22 @@
 machen       verb class=weak pp=gemacht perf=haben
+mähen verb class=weak pp=gemäht perf=haben
 mailen verb class=weak pp=gemailt perf=haben
 malen verb class=weak pp=gemalt perf=haben
 mampfen verb class=weak pp=gemampft perf=haben style=colloquial
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
+marinieren verb class=weak pp=mariniert perf=haben
 markieren verb class=weak pp=markiert perf=haben
 marschieren verb class=weak pp=marschiert perf=sein
-mäßigen verb class=weak pp=gemäßigt perf=haben
 massieren verb class=weak pp=massiert perf=haben
+mäßigen verb class=weak pp=gemäßigt perf=haben
+mästen verb class=weak pp=gemästet perf=haben
 mauern verb class=weak pp=gemauert perf=haben
 mausern verb class=weak pp=gemausert perf=haben refl=acc
 meckern verb class=weak pp=gemeckert perf=haben style=colloquial
 meinen verb class=weak pp=gemeint perf=haben
 meistern verb class=weak pp=gemeistert perf=haben
 melden verb class=weak pp=gemeldet perf=haben refl=acc
-melken verb class=weak past=melkte pp=gemelkt|gemolken perf=haben
+melken verb class=weak past=melkte pp=gemolken|gemelkt perf=haben
 merken verb class=weak pp=gemerkt perf=haben refl=dat
 messen verb class=strong 3sg=misst past=maß pp=gemessen subj2=mäße perf=haben refl=acc
 miauen verb class=weak pp=gemiaut perf=haben
@@ -31,6 +34,7 @@ mitnehmen verb class=strong sep=mit 3sg=mitnimmt past=mitnahm pp=mitgenommen sub
 mitspielen verb class=weak sep=mit pp=mitgespielt perf=haben
 mitteilen verb class=weak sep=mit pp=mitgeteilt perf=haben
 mitwirken verb class=weak sep=mit pp=mitgewirkt perf=haben
+mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben

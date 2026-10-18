@@ -5,3 +5,4 @@ chilenisch adj
 chinesisch adj
 christlich adj
 cool adj cmp=cooler sup=coolsten
+cremig adj cmp=cremiger sup=cremigsten

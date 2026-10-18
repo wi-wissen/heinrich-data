@@ -17,6 +17,7 @@ mechanisch adj
 medizinisch adj
 mehrfach adj
 mehrheitlich adj
+mehrjährig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
 mexikanisch adj
@@ -38,6 +39,7 @@ möglich adj cmp=möglicher sup=möglichsten
 momentan adj
 monatlich adj
 moralisch adj cmp=moralischer sup=moralischsten
+morsch adj cmp=morscher sup=morschesten
 müde adj cmp=müder sup=müdesten
 muffig adj cmp=muffiger sup=muffigsten
 mühsam adj cmp=mühsamer sup=mühsamsten

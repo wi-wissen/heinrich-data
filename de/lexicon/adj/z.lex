@@ -1,3 +1,4 @@
+zäh adj cmp=zäher sup=zähesten
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
 zahm adj cmp=zahmer sup=zahmsten
 zart adj cmp=zarter sup=zartesten
@@ -16,6 +17,7 @@ zierlich adj cmp=zierlicher sup=zierlichsten
 zivil adj
 zögernd adj cmp=zögernder sup=zögerndsten
 zornig adj cmp=zorniger sup=zornigsten
+zottelig adj cmp=zotteliger sup=zotteligsten
 zufällig adj
 zufrieden adj cmp=zufriedener sup=zufriedensten
 zugänglich adj cmp=zugänglicher sup=zugänglichsten

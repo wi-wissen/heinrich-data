@@ -1,4 +1,5 @@
 wach adj cmp=wacher sup=wachsten
+wachsam adj cmp=wachsamer sup=wachsamsten
 wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten
 wahr adj cmp=wahrer sup=wahrsten
 wahrhaft adj
@@ -7,11 +8,12 @@ wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 warm adj cmp=wärmer sup=wärmsten
 weiblich adj
 weich adj cmp=weicher sup=weichsten
-weiß adj cmp=weißer sup=weißesten
 weise adj cmp=weiser sup=weisesten
+weiß adj cmp=weißer sup=weißesten
 weit adj cmp=weiter sup=weitesten
 weitgehend adj
 weitreichend adj cmp=weitreichender sup=weitreichendsten
+welk adj
 weltlich adj
 weltweit adj
 wendig adj cmp=wendiger sup=wendigsten
@@ -28,6 +30,8 @@ wild adj cmp=wilder sup=wildesten
 willig adj cmp=williger sup=willigsten
 willkommen adj
 willkürlich adj
+windig adj cmp=windiger sup=windigsten
+winterlich adj cmp=winterlicher sup=winterlichsten
 winzig adj cmp=winziger sup=winzigsten
 wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten
@@ -36,6 +40,8 @@ wissenschaftlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
+wohlriechend adj
+wolkig adj cmp=wolkiger sup=wolkigsten
 wörtlich adj
 wund adj cmp=wunder sup=wundesten
 wunderbar adj cmp=wunderbarer sup=wunderbarsten
@@ -43,4 +49,5 @@ wunderlich adj cmp=wunderlicher sup=wunderlichsten
 wünschenswert adj
 würdig adj cmp=würdiger sup=würdigsten
 württembergisch adj
+würzig adj cmp=würziger sup=würzigsten
 wütend adj cmp=wütender sup=wütendsten

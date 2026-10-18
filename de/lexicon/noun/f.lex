@@ -12,6 +12,8 @@ Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
 Faktor noun g=m gen=Faktors pl=Faktoren
 Fakultät noun g=f gen=Fakultät pl=Fakultäten
+Falafel noun g=f gen=Falafel pl=Falafel
+Falke noun g=m gen=Falken pl=Falken
 Falkner noun g=m gen=Falkners pl=Falkner
 Fall noun g=m gen=Falles|Falls pl=Fälle
 Falle noun g=f gen=Falle pl=Fallen
@@ -25,12 +27,16 @@ Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
 Färbung noun g=f gen=Färbung pl=Färbungen
 Farm noun g=f gen=Farm pl=Farmen
+Farn noun g=m gen=Farnes|Farns pl=Farne
+Färse noun g=f gen=Färse pl=Färsen
+Fasan noun g=m gen=Fasans pl=Fasane|Fasanen
 Fasching noun g=m gen=Faschings pl=- note=mass noun; regional (carnival)
 Faschismus noun g=m gen=Faschismus pl=- note=no plural
 Faser noun g=f gen=Faser pl=Fasern
 Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
 Faulheit noun g=f gen=Faulheit pl=- note=mass noun
+Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
 Fax noun g=n gen=Faxes pl=Faxe
@@ -43,6 +49,7 @@ Federführung noun g=f gen=Federführung pl=- note=no plural
 Fehde noun g=f gen=Fehde pl=Fehden
 Fehler noun g=m gen=Fehlers pl=Fehler
 Feier noun g=f gen=Feier pl=Feiern
+Feige noun g=f gen=Feige pl=Feigen
 Feigheit noun g=f gen=Feigheit pl=- note=mass noun
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
@@ -50,8 +57,10 @@ Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
+Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
 Ferien noun g=pl
+Ferkel noun g=n gen=Ferkels pl=Ferkel
 Ferne noun g=f gen=Ferne pl=Fernen
 Fernsehen noun g=n gen=Fernsehens pl=- note=das Fernsehen: television as a medium
 Fernseher noun g=m gen=Fernsehers pl=Fernseher
@@ -88,6 +97,7 @@ Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and 
 Finanzen noun g=pl
 Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
 Finger noun g=m gen=Fingers pl=Finger
+Fink noun g=m gen=Finken pl=Finken
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
 Firma        noun g=f gen=Firma pl=Firmen
 Firmung noun g=f gen=Firmung pl=Firmungen
@@ -97,11 +107,17 @@ Fischerei noun g=f gen=Fischerei pl=Fischereien
 Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
+Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
 Flasche noun g=f gen=Flasche pl=Flaschen
+Flaschenöffner noun g=m gen=Flaschenöffners pl=Flaschenöffner
 Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
+Fledermaus noun g=f gen=Fledermaus pl=Fledermäuse
 Fleisch noun g=n gen=Fleisches|Fleischs[rare] pl=- note=mass noun
+Fleischer noun g=m gen=Fleischers pl=Fleischer
+Fleischerei noun g=f gen=Fleischerei pl=Fleischereien
+Fleischfresser noun g=m gen=Fleischfressers pl=Fleischfresser
 Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Fliege noun g=f gen=Fliege pl=Fliegen
@@ -109,7 +125,10 @@ Fliese noun g=f gen=Fliese pl=Fliesen
 Flip-Flop noun g=m gen=Flip-Flops pl=Flip-Flops
 Flirt noun g=m gen=Flirts pl=Flirts
 Flitterwochen noun g=pl
+Floh noun g=m gen=Flohes|Flohs pl=Flöhe
+Flohmarkt noun g=m gen=Flohmarkts pl=Flohmärkte
 Flora noun g=f gen=Flora pl=Floren|Floras
+Flosse noun g=f gen=Flosse pl=Flossen
 Flöte noun g=f gen=Flöte pl=Flöten
 Flotte noun g=f gen=Flotte pl=Flotten
 Fluch noun g=m gen=Fluchs|Fluches pl=Flüche
@@ -135,6 +154,7 @@ Fondue noun g=n gen=Fondues pl=Fondues
 Förderer noun g=m gen=Förderers pl=Förderer
 Forderung noun g=f gen=Forderung pl=Forderungen
 Förderung noun g=f gen=Förderung pl=Förderungen
+Forelle noun g=f gen=Forelle pl=Forellen
 Form noun g=f gen=Form pl=Formen
 Format noun g=n gen=Formats|Formates pl=Formate
 Formation noun g=f gen=Formation pl=Formationen
@@ -145,6 +165,7 @@ Forscher noun g=m gen=Forschers pl=Forscher
 Forschung noun g=f gen=Forschung pl=Forschungen
 Forst noun g=m gen=Forstes|Forsts pl=Forste|Forsten
 Förster noun g=m gen=Försters pl=Förster
+Försterin noun g=f gen=Försterin pl=Försterinnen
 Fort noun g=n gen=Forts pl=Forts note=fortress
 Fortbildung noun g=f gen=Fortbildung pl=Fortbildungen
 Fortführung noun g=f gen=Fortführung pl=- note=no plural
@@ -193,7 +214,9 @@ Friede noun g=m gen=Friedens pl=Frieden
 Frieden noun g=m gen=Friedens pl=Frieden|Friedens note=also Friede
 Friedhof noun g=m gen=Friedhofs|Friedhofes pl=Friedhöfe
 Friese noun g=m gen=Friesen pl=Friesen
+Frikadelle noun g=f gen=Frikadelle pl=Frikadellen
 Frischhaltefolie noun g=f gen=Frischhaltefolie pl=Frischhaltefolien
+Frischling noun g=m gen=Frischlings pl=Frischlinge
 Friseur noun g=m gen=Friseurs pl=Friseure
 Friseurin noun g=f gen=Friseurin pl=Friseurinnen
 Frisör noun g=m gen=Frisörs pl=Frisöre
@@ -202,6 +225,7 @@ Frist noun g=f gen=Frist pl=Fristen
 Frisur noun g=f gen=Frisur pl=Frisuren
 Frömmigkeit noun g=f gen=Frömmigkeit pl=- note=no plural
 Front noun g=f gen=Front pl=Fronten
+Frosch noun g=m gen=Frosches pl=Frösche
 Frost noun g=m gen=Frostes|Frosts pl=Fröste
 Frucht noun g=f gen=Frucht pl=Früchte
 Fruchtbarkeit noun g=f gen=Fruchtbarkeit pl=- note=no plural
@@ -211,10 +235,12 @@ Frühjahr noun g=n gen=Frühjahrs|Frühjahres[rare] pl=Frühjahre
 Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
 Frühstück noun g=n gen=Frühstücks pl=Frühstücke
 Fuchs noun g=m gen=Fuchses pl=Füchse
+Fühler noun g=m gen=Fühlers pl=Fühler
 Führer noun g=m gen=Führers pl=Führer
 Fuhrmann noun g=m gen=Fuhrmanns|Fuhrmannes pl=Fuhrleute|Fuhrmänner[rare]
 Führung noun g=f gen=Führung pl=Führungen
 Fülle noun g=f gen=Fülle pl=- note=no plural
+Füllung noun g=f gen=Füllung pl=Füllungen
 Fund noun g=m gen=Fundes|Funds pl=Funde
 Fundament noun g=n gen=Fundaments|Fundamentes pl=Fundamente
 Fünftel noun g=n gen=Fünftels pl=Fünftel
@@ -231,5 +257,6 @@ Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle
 Fußballer noun g=m gen=Fußballers pl=Fußballer
+Fußgängerzone noun g=f gen=Fußgängerzone pl=Fußgängerzonen
 Fußmatte noun g=f gen=Fußmatte pl=Fußmatten note=compound; the analyser would take matt as head
 Futter noun g=n gen=Futters pl=- note=no plural

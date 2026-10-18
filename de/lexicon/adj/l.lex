@@ -1,11 +1,13 @@
 lächerlich adj cmp=lächerlicher sup=lächerlichsten
 lahm adj cmp=lahmer sup=lahmsten
+laktosefrei adj
 ländlich adj
 landwirtschaftlich adj
 lang adj cmp=länger sup=längsten
 langfristig adj
 langhaarig adj
 langjährig adj
+langlebig adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
 lässig adj cmp=lässiger sup=lässigsten

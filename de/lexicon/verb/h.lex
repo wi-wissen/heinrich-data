@@ -1,12 +1,16 @@
 habilitieren verb class=weak pp=habilitiert perf=haben refl=acc
+hacken verb class=weak pp=gehackt perf=haben
 haften verb class=weak pp=gehaftet perf=haben
+hageln verb class=weak pp=gehagelt perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 hämmern verb class=weak pp=gehämmert perf=haben
 handeln verb class=weak pp=gehandelt perf=haben
 hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=haben|sein sense=intransitive note=das Bild hing an der Wand; perf with sein in southern Germany/AT/CH
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
 hänseln verb class=weak pp=gehänselt perf=haben
+harken verb class=weak pp=geharkt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
+häuten verb class=weak pp=gehäutet perf=haben refl=acc
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
 heften verb class=weak pp=geheftet perf=haben
 heilen verb class=weak pp=geheilt perf=haben|sein
@@ -56,6 +60,7 @@ hochziehen verb class=strong sep=hoch 3sg=hochzieht past=hochzog pp=hochgezogen 
 hocken verb class=weak pp=gehockt perf=haben|sein
 hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
+hoppeln verb class=weak pp=gehoppelt perf=sein
 hopsen verb class=weak pp=gehopst perf=sein style=colloquial
 horchen verb class=weak pp=gehorcht perf=haben
 hören verb class=weak pp=gehört perf=haben

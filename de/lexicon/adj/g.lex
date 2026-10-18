@@ -1,11 +1,15 @@
 ganz adj note=the adverb is in closed/
+gar adj
 geborgen adj
 gebräuchlich adj
+gebraucht adj
 gebrechlich adj cmp=gebrechlicher sup=gebrechlichsten
 geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
+gefälscht adj
+gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
 gegenwärtig adj
 geheim adj
@@ -62,9 +66,11 @@ gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden wi
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewiss adj cmp=gewisser sup=gewissesten
+gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+giftig adj cmp=giftiger sup=giftigsten
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
@@ -82,6 +88,8 @@ golden adj
 gotisch adj
 göttlich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
+grasig adj cmp=grasiger sup=grasigsten
+gratis adj indecl
 grau adj cmp=grauer sup=grauesten
 grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten

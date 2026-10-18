@@ -3,6 +3,7 @@ radikal adj cmp=radikaler sup=radikalsten
 rasch adj cmp=rascher sup=raschesten
 rätselhaft adj cmp=rätselhafter sup=rätselhaftesten
 rau adj cmp=rauer sup=rauesten|raustesten
+räuberisch adj
 räumlich adj
 real adj cmp=realer sup=realsten
 realistisch adj cmp=realistischer sup=realistischsten
@@ -15,7 +16,9 @@ rechtzeitig adj
 redlich adj cmp=redlicher sup=redlichsten
 rege adj cmp=reger sup=regsten
 regelmäßig adj
+regenerativ adj
 regional adj
+regnerisch adj cmp=regnerischer sup=regnerischsten
 regulär adj
 regungslos adj cmp=regungsloser sup=regungslosesten
 reich adj cmp=reicher sup=reichsten

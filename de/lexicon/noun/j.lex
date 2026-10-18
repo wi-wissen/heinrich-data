@@ -2,6 +2,8 @@ Jacke noun g=f gen=Jacke pl=Jacken
 Jackett noun g=n gen=Jacketts pl=Jacketts|Jackette
 Jagd noun g=f gen=Jagd pl=Jagden
 Jäger noun g=m gen=Jägers pl=Jäger
+Jägerin noun g=f gen=Jägerin pl=Jägerinnen
+Jaguar noun g=m gen=Jaguars pl=Jaguare
 Jahr noun g=n gen=Jahres|Jahrs[rare] pl=Jahre
 Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
@@ -18,6 +20,7 @@ Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Joch noun g=n gen=Jochs|Joches pl=Joche
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
+Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
 Joint noun g=m gen=Joints pl=Joints
 Journal noun g=n gen=Journals pl=Journale
 Journalist noun g=m gen=Journalisten pl=Journalisten
