@@ -13,7 +13,7 @@ Wahrung noun g=f gen=Wahrung pl=- note=no plural
 Währung noun g=f gen=Währung pl=Währungen
 Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wand noun g=f gen=Wand pl=Wände
-Wandel noun g=m gen=Wandels pl=- note=no plural
+Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
 Wange noun g=f gen=Wange pl=Wangen
 Wappen noun g=n gen=Wappens pl=Wappen
@@ -21,6 +21,7 @@ Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
 Warnung noun g=f gen=Warnung pl=Warnungen
 Wartung noun g=f gen=Wartung pl=Wartungen
+Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
 Wasserstoff noun g=m gen=Wasserstoffs|Wasserstoffes pl=- note=no plural
 WDR noun g=m gen=WDR|WDRs pl=- note=Westdeutscher Rundfunk; der WDR
@@ -40,9 +41,9 @@ Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
 Wein noun g=m gen=Weines|Weins pl=Weine
-Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Weisheit noun g=f gen=Weisheit pl=Weisheiten
+Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
 Weisung noun g=f gen=Weisung pl=Weisungen
 Weite noun g=f gen=Weite pl=Weiten
 Weiterbildung noun g=f gen=Weiterbildung pl=- note=no plural
@@ -59,6 +60,7 @@ Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
 Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
+Wertung noun g=f gen=Wertung pl=Wertungen
 Wesen noun g=n gen=Wesens pl=Wesen
 West noun g=m gen=Wests pl=- conf=70 note=compass direction in set phrases and as first element of names; usually Westen
 Westen noun g=m gen=Westens pl=- note=compass direction

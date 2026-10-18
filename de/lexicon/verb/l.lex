@@ -1,6 +1,7 @@
 lächeln verb class=weak pp=gelächelt perf=haben
 lachen verb class=weak pp=gelacht perf=haben
 laden verb class=strong 3sg=lädt past=lud pp=geladen subj2=lüde perf=haben
+lagern verb class=weak pp=gelagert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
 lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe perf=haben note=also causative auxiliary (ich lasse ihn kommen); Ersatzinfinitiv hat kommen lassen
 laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf=sein

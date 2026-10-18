@@ -1,6 +1,7 @@
+wachsen verb class=strong 3sg=wächst past=wuchs pp=gewachsen subj2=wüchse perf=sein
 wachsen verb class=strong 3sg=wächst past=wuchs pp=gewachsen subj2=wüchse perf=sein sense=grow
 wachsen verb class=weak pp=gewachst perf=haben sense=wax note=Ski wachsen: apply wax
-wagen verb class=weak pp=gewagt perf=haben
+wagen verb class=weak pp=gewagt perf=haben refl=acc
 wählen verb class=weak pp=gewählt perf=haben
 wahren verb class=weak pp=gewahrt perf=haben
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
@@ -10,6 +11,7 @@ warten verb class=weak pp=gewartet perf=haben
 wechseln verb class=weak pp=gewechselt perf=haben|sein
 wegfallen verb class=strong sep=weg 3sg=wegfällt past=wegfiel pp=weggefallen subj2=wegfiele perf=sein
 wehren verb class=weak refl=acc pp=gewehrt perf=haben
+weihen verb class=weak pp=geweiht perf=haben
 weinen verb class=weak pp=geweint perf=haben
 weisen verb class=strong 3sg=weist past=wies pp=gewiesen subj2=wiese perf=haben
 weiterentwickeln verb class=weak sep=weiter pp=weiterentwickelt perf=haben
@@ -18,9 +20,10 @@ weitergehen verb class=strong sep=weiter 3sg=weitergeht past=weiterging pp=weite
 wenden verb class=mixed 3sg=wendet past=wandte|wendete pp=gewandt|gewendet subj2=wendete|wandte perf=haben
 werben verb class=strong 3sg=wirbt past=warb pp=geworben subj2=würbe perf=haben
 werfen verb class=strong 3sg=wirft past=warf pp=geworfen subj2=würfe perf=haben
+werten verb class=weak pp=gewertet perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
-widmen verb class=weak pp=gewidmet perf=haben
+widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederherstellen verb class=weak sep=wiederher pp=wiederhergestellt perf=haben
 wiederholen verb class=weak pp=wiederholt perf=haben
 winken verb class=weak pp=gewinkt perf=haben

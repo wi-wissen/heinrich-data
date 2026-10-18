@@ -1,7 +1,13 @@
+kaiserlich adj
+kalt adj cmp=kälter sup=kältesten
 kanadisch adj
 katholisch adj
+kirchlich adj
 klar adj cmp=klarer sup=klarsten
+klassisch adj
 klein        adj cmp=kleiner sup=kleinsten
+klinisch adj
+klug adj cmp=klüger sup=klügsten
 knapp adj cmp=knapper sup=knappsten
 kommunal adj
 kommunistisch adj

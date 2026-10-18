@@ -35,6 +35,7 @@ Zitat noun g=n gen=Zitats|Zitates pl=Zitate
 Zivilgesellschaft noun g=f gen=Zivilgesellschaft pl=Zivilgesellschaften
 Zivilist noun g=m gen=Zivilisten pl=Zivilisten
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
+Zoll noun g=m gen=Zolls|Zolles pl=Zölle|Zoll note=customs duty; unit of length (zwei Zoll)
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zone noun g=f gen=Zone pl=Zonen

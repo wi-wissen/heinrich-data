@@ -56,7 +56,7 @@ Leitung noun g=f gen=Leitung pl=Leitungen
 Leser noun g=m gen=Lesers pl=Leser
 Lesung noun g=f gen=Lesung pl=Lesungen
 Leute        noun g=pl
-Leutnant noun g=m gen=Leutnants pl=Leutnants|Leutnante[rare]
+Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
 Liebe noun g=f gen=Liebe pl=- note=Lieben very rare

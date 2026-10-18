@@ -1,6 +1,7 @@
 Bach          noun g=m gen=Baches|Bachs pl=Bäche
 Bad           noun g=n gen=Bades|Bads pl=Bäder
 Bahn          noun g=f gen=Bahn pl=Bahnen
+Bahnhof noun g=m gen=Bahnhofs|Bahnhofes pl=Bahnhöfe
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume
 Band          noun g=n gen=Bandes|Bands pl=Bänder sense=ribbon
 Band          noun g=f gen=Band pl=Bands sense=music_group
