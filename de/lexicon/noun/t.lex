@@ -69,6 +69,7 @@ Ton noun g=m gen=Tones|Tons pl=Tone[rare] sense=clay
 Tonne noun g=f gen=Tonne pl=Tonnen
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
 Tor noun g=m gen=Toren pl=Toren sense=fool note=der Tor, weak masculine
+Torhüter noun g=m gen=Torhüters pl=Torhüter
 Tote noun g=m|f decl=adj
 Tötung noun g=f gen=Tötung pl=Tötungen
 Tour noun g=f gen=Tour pl=Touren

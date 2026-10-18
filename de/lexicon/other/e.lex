@@ -1,3 +1,9 @@
+eG x note=eingetragene Genossenschaft
+EGRL x note=Richtlinie der Europäischen Gemeinschaft
+ehem. x note=ehemalig
+EinigVtr x note=Einigungsvertrag
 Einw. x note=Einwohner
 engl. x note=englisch
+EStG x note=Einkommensteuergesetz
 etc. x note=et cetera
+EUR x note=Euro

@@ -45,6 +45,7 @@ Schein noun g=m gen=Scheins|Scheines pl=Scheine
 Scherz noun g=m gen=Scherzes pl=Scherze
 Schicht noun g=f gen=Schicht pl=Schichten
 Schicksal noun g=n gen=Schicksals|Schicksales[archaic] pl=Schicksale
+Schiedsrichter noun g=m gen=Schiedsrichters pl=Schiedsrichter
 Schiene noun g=f gen=Schiene pl=Schienen
 Schiff noun g=n gen=Schiffs|Schiffes pl=Schiffe
 Schild noun g=m gen=Schildes|Schilds pl=Schilde sense=shield note=der Schild: shield

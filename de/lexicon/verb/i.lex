@@ -1,5 +1,6 @@
 identifizieren verb class=weak pp=identifiziert perf=haben refl=acc
 ignorieren verb class=weak pp=ignoriert perf=haben
+impfen verb class=weak pp=geimpft perf=haben
 informieren verb class=weak pp=informiert perf=haben refl=acc
 inhaftieren verb class=weak pp=inhaftiert perf=haben
 inspirieren verb class=weak pp=inspiriert perf=haben

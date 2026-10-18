@@ -1,6 +1,10 @@
 ganz adj note=the adverb is in closed/
+geborgen adj
+gebräuchlich adj
+geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
+gefällig adj cmp=gefälliger sup=gefälligsten
 gegenseitig adj
 gegenwärtig adj
 geheim adj
