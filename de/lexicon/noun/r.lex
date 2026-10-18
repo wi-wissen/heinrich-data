@@ -65,6 +65,7 @@ Rennen noun g=n gen=Rennens pl=Rennen note=lexicalised nominal infinitive (race)
 Renner noun g=m gen=Renners pl=Renner
 Rente noun g=f gen=Rente pl=Renten
 Rentner noun g=m gen=Rentners pl=Rentner
+Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Republik noun g=f gen=Republik pl=Republiken
 Reserve noun g=f gen=Reserve pl=Reserven
 Residenz noun g=f gen=Residenz pl=Residenzen

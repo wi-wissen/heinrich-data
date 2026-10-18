@@ -7,7 +7,7 @@
 # ---------------------------------------------------------------- cardinals
 null              num value=0
 eins              num value=1 note=counting form (eins, zwei, drei); before a noun the article ein is used
-zwei              num value=2 cases=zwei,zweier,zweien[rare]|zwei,zwei note=zweier, dreier: genitive without article (die Aussage zweier Zeugen)
+zwei              num value=2 cases=zwei|zweie[rare],zweier,zweien[rare]|zwei,zwei|zweie[rare] note=zweier, dreier: genitive without article (die Aussage zweier Zeugen)
 drei              num value=3 cases=drei,dreier,dreien[rare]|drei,drei
 vier              num value=4 cases=vier,vierer[rare],vieren|vier,vier note=auf allen vieren
 fünf              num value=5

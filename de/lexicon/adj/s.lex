@@ -75,7 +75,7 @@ streng adj cmp=strenger sup=strengsten
 strittig adj
 strukturell adj
 stumm adj cmp=stummer sup=stummsten
-südlich adj note=also a genitive preposition
+südlich adj note=also a genitive preposition (closed/prepositions.lex)
 südöstlich adj
 südwestlich adj
 super adj indecl style=colloquial note=colloquial intensifier

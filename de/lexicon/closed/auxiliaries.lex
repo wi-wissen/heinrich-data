@@ -12,7 +12,7 @@ sein         aux class=irregular perf=sein pp=gewesen
 haben        aux class=mixed pres=habe,hast,hat,haben,habt,haben past=hatte pp=gehabt subj2=hätte perf=haben
 werden       aux class=strong pres=werde,wirst,wird,werden,werdet,werden
              past=wurde|ward[archaic],wurdest|wardst[archaic],wurde|ward[archaic],wurden,wurdet,wurden
-             subj2=würde imp=werde,werdet pp=geworden|worden perf=sein
+             subj2=würde imp=werde|werd[colloquial],werdet pp=geworden|worden perf=sein
              note=pp worden only in the passive (ist gelobt worden)
 
 # ---------------------------------------------------------------- modal verbs
