@@ -1,4 +1,5 @@
 bedeutend adv note=degree adverb (bedeutend besser)
+beinah adv type=degree
 beisammen adv
 beiseite adv
 beispielsweise adv

@@ -1,4 +1,5 @@
 Café noun g=n gen=Cafés pl=Cafés
+Camp noun g=n gen=Camps pl=Camps
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn Cent)
