@@ -1,0 +1,1 @@
+rosa         adj indecl

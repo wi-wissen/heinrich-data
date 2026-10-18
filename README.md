@@ -11,9 +11,11 @@ build scripts and finished language packs.
 - **No grammar rules** here – they live in the engine repo.
 - Lexicon entries are created following the clean-room procedure (see `Heinrich/docs/PLAN.md` §6).
 
-## Planned structure
-- `de/lexicon/` – lemmas with inflection data (text format, diff-friendly)
-- `de/closed/` – closed word classes (articles, pronouns, prepositions …), written by hand
+## Structure
+- `de/lexicon/` – lemmas with inflection data (text format, diff-friendly), sharded by part of
+  speech and first letter; `de/lexicon/closed/` – closed word classes (articles, pronouns,
+  prepositions …), written by hand. Authoring protocol: `de/lexicon/AUTHORING.md`
+- `de/frequency/` – our own word-form frequency list
 - `de/phon/` – pronunciation exceptions
 - `tools/` – build scripts (lexicon → FST packs)
 - `packs/` – build output (not checked in, releases)

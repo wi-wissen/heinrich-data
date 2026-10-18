@@ -1,0 +1,51 @@
+name: Lexicon
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Engine ref and token
+        id: engine
+        env:
+          TOKEN: ${{ secrets.HEINRICH_READ_TOKEN }}
+        run: |
+          ref=$(grep -v '^#' tools/lexicon/HEINRICH_REF | grep -v '^$' | head -1)
+          echo "ref=$ref" >> "$GITHUB_OUTPUT"
+          if [ -z "$TOKEN" ]; then
+            echo "::error title=Missing secret::HEINRICH_READ_TOKEN is not set. The engine repo wi-wissen/Heinrich is private and the default GITHUB_TOKEN cannot read other repositories. Add a fine-grained token with read access to the contents of wi-wissen/Heinrich as repository secret HEINRICH_READ_TOKEN (see de/lexicon/README.md)."
+            exit 1
+          fi
+
+      - name: Check out the engine (lexicon tools)
+        uses: actions/checkout@v4
+        with:
+          repository: wi-wissen/Heinrich
+          ref: ${{ steps.engine.outputs.ref }}
+          token: ${{ secrets.HEINRICH_READ_TOKEN }}
+          path: heinrich
+
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: heinrich
+
+      - name: Build heinrich-lexicon
+        working-directory: heinrich
+        run: cargo build --release --locked -p heinrich-lexicon-tools
+
+      - name: Validate (parse, layout, duplicates, generation)
+        run: heinrich/target/release/heinrich-lexicon validate de/lexicon --format github
+
+      - name: Coverage report
+        run: |
+          heinrich/target/release/heinrich-lexicon coverage de/lexicon de/frequency/forms.tsv >> "$GITHUB_STEP_SUMMARY"
