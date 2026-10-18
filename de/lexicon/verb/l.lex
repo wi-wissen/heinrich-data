@@ -4,7 +4,7 @@ lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe pe
 laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf=sein
 lauten verb class=weak pp=gelautet perf=haben
 leben verb class=weak pp=gelebt perf=haben
-legen verb class=weak pp=gelegt perf=haben
+legen verb class=weak pp=gelegt perf=haben refl=acc
 leiden verb class=strong 3sg=leidet past=litt pp=gelitten subj2=litte perf=haben
 leisten verb class=weak pp=geleistet perf=haben
 leiten verb class=weak pp=geleitet perf=haben

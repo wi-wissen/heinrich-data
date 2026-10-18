@@ -35,6 +35,7 @@ Hinweis noun g=m gen=Hinweises pl=Hinweise
 Historiker noun g=m gen=Historikers pl=Historiker
 Hochschule noun g=f gen=Hochschule pl=Hochschulen
 Hochstift noun g=n gen=Hochstifts|Hochstiftes pl=Hochstifte
+Hockey noun g=n gen=Hockeys pl=- note=sport; mass noun
 Hof noun g=m gen=Hofes|Hofs pl=Höfe
 Hoffnung noun g=f gen=Hoffnung pl=Hoffnungen
 Höhe noun g=f gen=Höhe pl=Höhen
