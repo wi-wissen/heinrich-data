@@ -8,6 +8,7 @@ laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf
 lauten verb class=weak pp=gelautet perf=haben
 leben verb class=weak pp=gelebt perf=haben
 legen verb class=weak pp=gelegt perf=haben refl=acc
+lehnen verb class=weak pp=gelehnt perf=haben
 lehren verb class=weak pp=gelehrt perf=haben
 leiden verb class=strong 3sg=leidet past=litt pp=gelitten subj2=litte perf=haben
 leisten verb class=weak pp=geleistet perf=haben
@@ -18,6 +19,7 @@ lesen        verb class=strong 3sg=liest past=las pp=gelesen subj2=läse perf=ha
 lieben verb class=weak pp=geliebt perf=haben
 liefern verb class=weak pp=geliefert perf=haben
 liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|sein note=perf with sein in southern Germany/AT/CH
+listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)
 loben verb class=weak pp=gelobt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc
 löschen verb class=weak pp=gelöscht perf=haben

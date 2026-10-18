@@ -1,11 +1,11 @@
 garantieren verb class=weak pp=garantiert perf=haben
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
-geben        verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben
+geben        verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe imp=gib|gieb[old],gebt perf=haben
 gebrauchen verb class=weak pp=gebraucht perf=haben
 gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte perf=haben note=mit Genitiv (gedenkt der Toten)
 gefährden verb class=weak pp=gefährdet perf=haben
 gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele perf=haben
-gehen        verb class=strong 3sg=geht past=ging pp=gegangen subj2=ginge perf=sein
+gehen        verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge perf=sein
 gehören verb class=weak pp=gehört perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
 gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein
@@ -27,8 +27,13 @@ gießen verb class=strong 3sg=gießt past=goss pp=gegossen subj2=gösse perf=hab
 glänzen verb class=weak pp=geglänzt perf=haben
 glauben verb class=weak pp=geglaubt perf=haben
 gleichen verb class=strong 3sg=gleicht past=glich pp=geglichen subj2=gliche perf=haben
+gleichstellen verb class=weak sep=gleich pp=gleichgestellt perf=haben
+gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=sein
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc
+glühen verb class=weak pp=geglüht perf=haben
+gönnen verb class=weak pp=gegönnt perf=haben
 greifen verb class=strong 3sg=greift past=griff pp=gegriffen subj2=griffe perf=haben
 grenzen verb class=weak pp=gegrenzt perf=haben
 gründen verb class=weak pp=gegründet perf=haben refl=acc
+grüßen verb class=weak pp=gegrüßt perf=haben
 gucken verb class=weak pp=geguckt perf=haben

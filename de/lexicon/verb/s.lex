@@ -3,6 +3,7 @@ sammeln      verb class=weak pp=gesammelt perf=haben
 sanieren verb class=weak pp=saniert perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
 schaden verb class=weak pp=geschadet perf=haben
+schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
 schämen verb class=weak pp=geschämt perf=haben refl=acc
@@ -25,8 +26,10 @@ schneiden verb class=strong 3sg=schneidet past=schnitt pp=geschnitten subj2=schn
 schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schriebe perf=haben
 schreien verb class=strong 3sg=schreit past=schrie pp=geschrien subj2=schriee perf=haben
 schreiten verb class=strong 3sg=schreitet past=schritt pp=geschritten subj2=schritte perf=sein
+schulden verb class=weak pp=geschuldet perf=haben
 schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
 schützen verb class=weak pp=geschützt perf=haben refl=acc
+schwächen verb class=weak pp=geschwächt perf=haben
 schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwiege perf=haben
 sehen verb class=strong 3sg=sieht past=sah,sahst|sahest[archaic],sah,sahen,saht,sahen pp=gesehen subj2=sähe perf=haben refl=acc imp=sieh|siehe,seht note=siehe (siehe oben) is the long imperative
 senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
@@ -40,14 +43,17 @@ singen verb class=strong 3sg=singt past=sang pp=gesungen subj2=sänge perf=haben
 sinken verb class=strong 3sg=sinkt past=sank pp=gesunken subj2=sänke perf=sein
 sitzen verb class=strong 3sg=sitzt past=saß pp=gesessen subj2=säße perf=haben|sein
 sorgen verb class=weak pp=gesorgt perf=haben
+spalten verb class=strong 3sg=spaltet past=spaltete pp=gespalten subj2=spaltete perf=haben note=strong participle with weak preterite (spaltete, gespalten)
 spannen verb class=weak pp=gespannt perf=haben refl=acc
 sparen verb class=weak pp=gespart perf=haben
 speichern verb class=weak pp=gespeichert perf=haben
+speisen verb class=weak pp=gespeist perf=haben
 sperren verb class=weak pp=gesperrt perf=haben refl=acc
 spezialisieren verb class=weak pp=spezialisiert perf=haben refl=acc
 spiegeln verb class=weak pp=gespiegelt perf=haben refl=acc
 spielen verb class=weak pp=gespielt perf=haben
 sprechen     verb class=strong 3sg=spricht past=sprach pp=gesprochen subj2=spräche perf=haben
+sprengen verb class=weak pp=gesprengt perf=haben
 springen verb class=strong 3sg=springt past=sprang pp=gesprungen subj2=spränge perf=sein|haben
 spüren verb class=weak pp=gespürt perf=haben
 stammen verb class=weak pp=gestammt perf=haben

@@ -1,8 +1,10 @@
+packen verb class=weak pp=gepackt perf=haben
 passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
 pflanzen verb class=weak pp=gepflanzt perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 planen verb class=weak pp=geplant perf=haben
+plündern verb class=weak pp=geplündert perf=haben
 prägen verb class=weak pp=geprägt perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben

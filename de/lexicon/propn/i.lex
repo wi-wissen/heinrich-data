@@ -1,8 +1,11 @@
 Illinois propn g=n gen=Illinois pl=- note=US state
 Indiana propn g=n gen=Indianas pl=- note=US state
 Indien propn g=n gen=Indiens pl=- note=proper name; no plural
+Indonesien propn g=n gen=Indonesiens pl=- note=country
+Ingolstadt propn g=n gen=Ingolstadts pl=- note=city in Bavaria
 Inn propn g=m gen=Inn|Inns pl=- note=river
 Innsbruck propn g=n gen=Innsbrucks pl=- note=proper name; no plural
+Iowa propn g=n gen=Iowas pl=- note=US state
 Irak propn g=m gen=Irak|Iraks pl=- note=proper name; no plural
 Iran propn g=m gen=Iran|Irans pl=- note=proper name; no plural
 Irland propn g=n gen=Irlands pl=- note=proper name; no plural
