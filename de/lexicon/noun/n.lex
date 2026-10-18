@@ -12,6 +12,7 @@ Netz noun g=n gen=Netzes pl=Netze
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
 Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in compass and compounds; plural not used
 Norden noun g=m gen=Nordens pl=- note=plural not used
+Note noun g=f gen=Note pl=Noten
 Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
 November noun g=m sg=November,November|Novembers,November,November pl=- note=month name; plural not used
 Nummer noun g=f gen=Nummer pl=Nummern

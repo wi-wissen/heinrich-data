@@ -1,9 +1,16 @@
+Gabe noun g=f gen=Gabe pl=Gaben
 Galerie noun g=f gen=Galerie pl=Galerien
 Gang noun g=m gen=Ganges|Gangs pl=Gänge
 Garten noun g=m gen=Gartens pl=Gärten
+Gärtner noun g=m gen=Gärtners pl=Gärtner
+Gas noun g=n gen=Gases pl=Gase
+Gasse noun g=f gen=Gasse pl=Gassen
 Gast noun g=m gen=Gastes|Gasts[rare] pl=Gäste
+Gatte noun g=m gen=Gatten pl=Gatten
+Gattin noun g=f gen=Gattin pl=Gattinnen
 Gattung noun g=f gen=Gattung pl=Gattungen
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
+Gebet noun g=n gen=Gebets|Gebetes pl=Gebete
 Gebiet noun g=n gen=Gebiets|Gebietes pl=Gebiete
 Gebrauch noun g=m gen=Gebrauchs|Gebrauches[rare] pl=Gebräuche
 Geburt noun g=f gen=Geburt pl=Geburten
