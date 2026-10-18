@@ -1,15 +1,20 @@
 habilitieren verb class=weak pp=habilitiert perf=haben refl=acc
+hacken verb class=weak pp=gehackt perf=haben
 haften verb class=weak pp=gehaftet perf=haben
+hageln verb class=weak pp=gehagelt perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 handeln verb class=weak pp=gehandelt perf=haben
 hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=haben|sein sense=intransitive note=das Bild hing an der Wand; perf with sein in southern Germany/AT/CH
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
+harken verb class=weak pp=geharkt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
+häuten verb class=weak pp=gehäutet perf=haben refl=acc
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
 heften verb class=weak pp=geheftet perf=haben
 heilen verb class=weak pp=geheilt perf=haben|sein
 heiraten verb class=weak pp=geheiratet perf=haben
 heißen verb class=strong 3sg=heißt past=hieß pp=geheißen subj2=hieße perf=haben
+heizen verb class=weak pp=geheizt perf=haben
 helfen       verb class=strong 3sg=hilft past=half pp=geholfen subj2=hülfe|hälfe[rare] perf=haben
 hemmen verb class=weak pp=gehemmt perf=haben
 heranziehen verb class=strong sep=heran 3sg=heranzieht past=heranzog pp=herangezogen subj2=heranzöge perf=haben
@@ -24,6 +29,7 @@ hervorgehen verb class=strong sep=hervor 3sg=hervorgeht past=hervorging pp=hervo
 hervorheben verb class=strong sep=hervor 3sg=hervorhebt past=hervorhob pp=hervorgehoben subj2=hervorhöbe perf=haben
 hervorragen verb class=weak sep=hervor pp=hervorgeragt perf=haben
 hervorrufen verb class=strong sep=hervor 3sg=hervorruft past=hervorrief pp=hervorgerufen subj2=hervorriefe perf=haben
+heulen verb class=weak pp=geheult perf=haben
 hinausgehen verb class=strong sep=hinaus 3sg=hinausgeht past=hinausging pp=hinausgegangen subj2=hinausginge perf=sein
 hinbekommen verb class=strong sep=hin 3sg=hinbekommt past=hinbekam pp=hinbekommen subj2=hinbekäme perf=haben
 hindern verb class=weak pp=gehindert perf=haben
@@ -36,7 +42,10 @@ hinweisen verb class=strong sep=hin 3sg=hinweist past=hinwies pp=hingewiesen sub
 hinzufügen verb class=weak sep=hinzu pp=hinzugefügt perf=haben
 hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
+hoppeln verb class=weak pp=gehoppelt perf=sein
 horchen verb class=weak pp=gehorcht perf=haben
 hören verb class=weak pp=gehört perf=haben
 hüllen verb class=weak pp=gehüllt perf=haben
+hungern verb class=weak pp=gehungert perf=haben
+hüpfen verb class=weak pp=gehüpft perf=sein
 hüten verb class=weak pp=gehütet perf=haben

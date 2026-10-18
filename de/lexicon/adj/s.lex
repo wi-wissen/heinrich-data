@@ -1,6 +1,10 @@
 sachlich adj cmp=sachlicher sup=sachlichsten
 sächlich adj
 sächsisch adj
+saftig adj cmp=saftiger sup=saftigsten
+saisonal adj
+salzig adj cmp=salziger sup=salzigsten
+sandig adj cmp=sandiger sup=sandigsten
 sanft adj cmp=sanfter sup=sanftesten
 satt adj cmp=satter sup=sattesten
 sauber adj cmp=sauberer sup=saubersten
@@ -8,9 +12,11 @@ sauer adj cmp=saurer sup=sauersten
 schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
 scharf adj cmp=schärfer sup=schärfsten
+schattig adj cmp=schattiger sup=schattigsten
 scheinbar adj
 scheu adj cmp=scheuer sup=scheuesten
 schief adj cmp=schiefer sup=schiefsten
+schimmelig adj cmp=schimmeliger sup=schimmeligsten
 schlank adj cmp=schlanker sup=schlanksten
 schlecht adj cmp=schlechter sup=schlechtesten
 schlicht adj cmp=schlichter sup=schlichtesten
@@ -37,6 +43,7 @@ schweizerisch adj
 schwer adj cmp=schwerer sup=schwersten
 schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
+schwül adj cmp=schwüler sup=schwülsten
 seelisch adj
 seitlich adj
 selbständig adj cmp=selbständiger sup=selbständigsten
@@ -65,8 +72,10 @@ sofortig adj
 sogenannt adj
 solidarisch adj cmp=solidarischer sup=solidarischsten
 solide adj cmp=solider sup=solidesten
+sommerlich adj cmp=sommerlicher sup=sommerlichsten
 sonderbar adj cmp=sonderbarer sup=sonderbarsten
 sonderlich adj
+sonnig adj cmp=sonniger sup=sonnigsten
 sonstig adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
 sorgsam adj cmp=sorgsamer sup=sorgsamsten
@@ -75,6 +84,7 @@ sozial adj
 sozialistisch adj
 spanisch adj
 spärlich adj cmp=spärlicher sup=spärlichsten
+sparsam adj cmp=sparsamer sup=sparsamsten
 spät adj cmp=später sup=spätesten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
@@ -83,6 +93,7 @@ sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
 staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
+stachelig adj cmp=stacheliger sup=stacheligsten
 städtisch adj
 ständig adj
 stark adj cmp=stärker sup=stärksten
@@ -93,6 +104,7 @@ stattlich adj cmp=stattlicher sup=stattlichsten
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
 steinern adj
+steinig adj cmp=steiniger sup=steinigsten
 stenografisch adj
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
@@ -105,8 +117,10 @@ streng adj cmp=strenger sup=strengsten
 strikt adj cmp=strikter sup=striktesten
 strittig adj
 strukturell adj
+struppig adj cmp=struppiger sup=struppigsten
 stumm adj cmp=stummer sup=stummsten
 stündlich adj
+stürmisch adj cmp=stürmischer sup=stürmischsten
 subsidiär adj
 südafrikanisch adj
 süddeutsch adj
@@ -115,6 +129,7 @@ südlich adj note=also a genitive preposition (closed/prepositions.lex)
 südöstlich adj
 südwestlich adj
 sukzessiv adj
+sumpfig adj cmp=sumpfiger sup=sumpfigsten
 super adj indecl style=colloquial note=colloquial intensifier
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten

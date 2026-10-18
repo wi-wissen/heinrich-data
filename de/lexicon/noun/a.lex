@@ -10,6 +10,7 @@ Abfall noun g=m gen=Abfalls|Abfalles pl=Abfälle
 Abfluss noun g=m gen=Abflusses pl=Abflüsse
 Abgabe        noun g=f gen=Abgabe pl=Abgaben
 Abgang noun g=m gen=Abgangs|Abganges pl=Abgänge
+Abgas noun g=n gen=Abgases pl=Abgase
 Abgeordnete   noun g=m|f decl=adj
 Abgrenzung noun g=f gen=Abgrenzung pl=Abgrenzungen
 Abgrund noun g=m gen=Abgrunds|Abgrundes pl=Abgründe
@@ -17,11 +18,13 @@ Abhandlung noun g=f gen=Abhandlung pl=Abhandlungen
 Abhang noun g=m gen=Abhangs|Abhanges pl=Abhänge
 Abhängigkeit noun g=f gen=Abhängigkeit pl=Abhängigkeiten
 Abhilfe noun g=f gen=Abhilfe pl=- note=no plural
+Abholzung noun g=f gen=Abholzung pl=Abholzungen
 Abitur noun g=n gen=Abiturs pl=Abiture note=plural very rare (Abiture)
 Abkehr noun g=f gen=Abkehr pl=- note=no plural
 Abkommen      noun g=n gen=Abkommens pl=Abkommen
 Abkürzung noun g=f gen=Abkürzung pl=Abkürzungen
 Ablauf        noun g=m gen=Ablaufs|Ablaufes pl=Abläufe
+Ableger noun g=m gen=Ablegers pl=Ableger
 Ablehnung     noun g=f gen=Ablehnung pl=Ablehnungen
 Ableitung noun g=f gen=Ableitung pl=Ableitungen
 Ablösung noun g=f gen=Ablösung pl=Ablösungen
@@ -101,8 +104,11 @@ Ahn noun g=m gen=Ahns|Ahnes pl=Ahnen conf=85 note=ancestor; Ahne is the more com
 Ahne noun g=m gen=Ahnen pl=Ahnen note=ancestor
 Ähnlichkeit noun g=f gen=Ähnlichkeit pl=Ähnlichkeiten
 Ahnung noun g=f gen=Ahnung pl=Ahnungen
+Ahorn noun g=m gen=Ahorns pl=Ahorne
+Ähre noun g=f gen=Ähre pl=Ähren
 Airbus noun g=m gen=Airbus|Airbusses pl=Airbusse
 Akademie      noun g=f gen=Akademie pl=Akademien
+Akku noun g=m gen=Akkus pl=Akkus
 Akt noun g=m gen=Akts|Aktes pl=Akte
 Akte noun g=f gen=Akte pl=Akten
 Akteur noun g=m gen=Akteurs pl=Akteure
@@ -112,20 +118,25 @@ Aktion noun g=f gen=Aktion pl=Aktionen
 Aktionär noun g=m gen=Aktionärs pl=Aktionäre
 Aktivierung noun g=f gen=Aktivierung pl=Aktivierungen
 Aktivist noun g=m gen=Aktivisten pl=Aktivisten
+Aktivistin noun g=f gen=Aktivistin pl=Aktivistinnen
 Aktivität     noun g=f gen=Aktivität pl=Aktivitäten
 Aktualisierung noun g=f gen=Aktualisierung pl=Aktualisierungen
 Akzent noun g=m gen=Akzents|Akzentes pl=Akzente
 Akzeptanz noun g=f gen=Akzeptanz pl=- note=mass noun
 Alarm noun g=m gen=Alarms|Alarmes pl=Alarme
+Albatros noun g=m gen=Albatrosses pl=Albatrosse
 Album         noun g=n gen=Albums pl=Alben
 Alkohol noun g=m gen=Alkohols pl=Alkohole
 Allee noun g=f gen=Allee pl=Alleen
 Alleinerziehende noun g=m|f decl=adj
+Allesfresser noun g=m gen=Allesfressers pl=Allesfresser
 Allgemeinheit noun g=f gen=Allgemeinheit pl=- note=mass noun
 Allianz noun g=f gen=Allianz pl=Allianzen
 Alliierte noun g=m|f decl=adj note=die Alliierten
 Alltag noun g=m gen=Alltags|Alltages pl=- note=mass noun
 Alm noun g=f gen=Alm pl=Almen
+Almosen noun g=n gen=Almosens pl=Almosen
+Alpaka noun g=n gen=Alpakas pl=Alpakas
 Altar noun g=m gen=Altars pl=Altäre
 Altenpflege noun g=f gen=Altenpflege pl=- note=no plural
 Alter         noun g=n gen=Alters pl=Alter
@@ -144,10 +155,14 @@ Amen noun g=n gen=Amens pl=Amen
 Amerikaner noun g=m gen=Amerikaners pl=Amerikaner
 Amme noun g=f gen=Amme pl=Ammen
 Ampel noun g=f gen=Ampel pl=Ampeln
+Amphibie noun g=f gen=Amphibie pl=Amphibien
+Amsel noun g=f gen=Amsel pl=Amseln
 Amt           noun g=n gen=Amtes|Amts pl=Ämter
 Amtmann noun g=m gen=Amtmanns|Amtmannes pl=Amtmänner|Amtleute
+Anakonda noun g=f gen=Anakonda pl=Anakondas
 Analogie noun g=f gen=Analogie pl=Analogien
 Analyse       noun g=f gen=Analyse pl=Analysen
+Ananas noun g=f gen=Ananas pl=Ananas|Ananasse
 Anatomie noun g=f gen=Anatomie pl=Anatomien
 Anbau noun g=m gen=Anbaus|Anbaues pl=Anbauten note=cultivation (mass) and extension of a building (Anbauten)
 Anbetracht noun g=m gen=Anbetracht|Anbetrachts pl=- conf=80 note=only in "in Anbetracht"
@@ -232,6 +247,7 @@ Anstrengung noun g=f gen=Anstrengung pl=Anstrengungen
 Anteil        noun g=m gen=Anteils|Anteiles pl=Anteile
 Antenne noun g=f gen=Antenne pl=Antennen
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
+Antilope noun g=f gen=Antilope pl=Antilopen
 Antisemitismus noun g=m gen=Antisemitismus pl=- note=mass noun
 Antlitz noun g=n gen=Antlitzes pl=Antlitze note=elevated
 Antrag        noun g=m gen=Antrags|Antrages pl=Anträge
@@ -251,6 +267,7 @@ Anzeige       noun g=f gen=Anzeige pl=Anzeigen
 Anzeiger noun g=m gen=Anzeigers pl=Anzeiger
 Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Apfel noun g=m gen=Apfels pl=Äpfel
+Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
 Apostel noun g=m gen=Apostels pl=Apostel
 Apotheke noun g=f gen=Apotheke pl=Apotheken
 Apotheker noun g=m gen=Apothekers pl=Apotheker
@@ -260,8 +277,11 @@ Appell noun g=m gen=Appells|Appelles pl=Appelle
 Appetit noun g=m gen=Appetits|Appetites pl=- note=no plural
 Applaus noun g=m gen=Applauses pl=- note=no plural
 Approbation noun g=f gen=Approbation pl=Approbationen
+Aprikose noun g=f gen=Aprikose pl=Aprikosen
 April         noun g=m gen=April|Aprils pl=- note=month name
 Apsis noun g=f gen=Apsis pl=Apsiden
+Aquarium noun g=n gen=Aquariums pl=Aquarien
+Äquator noun g=m gen=Äquators pl=- note=no plural
 Ära noun g=f gen=Ära pl=Ären
 Araber noun g=m gen=Arabers pl=Araber
 Arbeit        noun g=f gen=Arbeit pl=Arbeiten
@@ -286,6 +306,7 @@ Arm           noun g=m gen=Arms|Armes pl=Arme
 Armee         noun g=f gen=Armee pl=Armeen
 Ärmel noun g=m gen=Ärmels pl=Ärmel
 Armut         noun g=f gen=Armut pl=- note=no plural
+Aroma noun g=n gen=Aromas pl=Aromen|Aromas
 Arrangeur noun g=m gen=Arrangeurs pl=Arrangeure
 Arrondissement noun g=n gen=Arrondissements pl=Arrondissements
 Arsenal noun g=n gen=Arsenals pl=Arsenale
@@ -299,6 +320,7 @@ Arzt          noun g=m gen=Arztes pl=Ärzte
 Asche noun g=f gen=Asche pl=- note=mass noun; Aschen only technical
 Asiat noun g=m gen=Asiaten pl=Asiaten
 Aspekt noun g=m gen=Aspekts|Aspektes pl=Aspekte
+Assel noun g=f gen=Assel pl=Asseln
 Assistent noun g=m gen=Assistenten pl=Assistenten
 Ast noun g=m gen=Astes|Asts pl=Äste
 Asteroid noun g=m gen=Asteroiden pl=Asteroiden
@@ -312,10 +334,14 @@ Athlet noun g=m gen=Athleten pl=Athleten
 Atlas noun g=m gen=Atlas|Atlasses pl=Atlanten|Atlasse
 Atmosphäre noun g=f gen=Atmosphäre pl=Atmosphären
 Atom noun g=n gen=Atoms pl=Atome
+Atommüll noun g=m gen=Atommülls pl=- note=no plural
 Attentat noun g=n gen=Attentats|Attentates pl=Attentate
 Attraktivität noun g=f gen=Attraktivität pl=- note=no plural
 Au noun g=f gen=Au pl=Auen note=river meadow
+Aubergine noun g=f gen=Aubergine pl=Auberginen
 Aue noun g=f gen=Aue pl=Auen
+Auerhahn noun g=m gen=Auerhahns pl=Auerhähne
+Auerochse noun g=m gen=Auerochsen pl=Auerochsen
 Aufarbeitung noun g=f gen=Aufarbeitung pl=- note=mass noun
 Aufbau        noun g=m gen=Aufbaus|Aufbaues pl=Aufbauten
 Aufbereitung noun g=f gen=Aufbereitung pl=Aufbereitungen
@@ -325,6 +351,7 @@ Aufenthalt    noun g=m gen=Aufenthalts|Aufenthaltes pl=Aufenthalte
 Auferstehung noun g=f gen=Auferstehung pl=Auferstehungen
 Auffassung    noun g=f gen=Auffassung pl=Auffassungen
 Aufforderung noun g=f gen=Aufforderung pl=Aufforderungen
+Aufforstung noun g=f gen=Aufforstung pl=Aufforstungen
 Aufführung noun g=f gen=Aufführung pl=Aufführungen
 Aufgabe       noun g=f gen=Aufgabe pl=Aufgaben
 Aufgebot noun g=n gen=Aufgebots|Aufgebotes pl=Aufgebote
@@ -421,10 +448,12 @@ Aussprache    noun g=f gen=Aussprache pl=Aussprachen
 Ausspruch noun g=m gen=Ausspruchs|Ausspruches pl=Aussprüche
 Ausstattung   noun g=f gen=Ausstattung pl=Ausstattungen
 Ausstellung   noun g=f gen=Ausstellung pl=Ausstellungen
+Aussterben noun g=n gen=Aussterbens pl=- note=no plural
 Ausstieg noun g=m gen=Ausstiegs|Ausstieges pl=Ausstiege
 Ausstoß noun g=m gen=Ausstoßes pl=Ausstöße
 Ausstrahlung noun g=f gen=Ausstrahlung pl=Ausstrahlungen
 Austausch noun g=m gen=Austauschs|Austausches pl=- note=mass noun
+Auster noun g=f gen=Auster pl=Austern
 Austragung noun g=f gen=Austragung pl=Austragungen
 Austritt noun g=m gen=Austritts|Austrittes pl=Austritte
 Ausübung      noun g=f gen=Ausübung pl=- note=no regular plural
@@ -447,4 +476,6 @@ Autonomie noun g=f gen=Autonomie pl=Autonomien
 Autor         noun g=m gen=Autors pl=Autoren
 Autorin noun g=f gen=Autorin pl=Autorinnen
 Autorität noun g=f gen=Autorität pl=Autoritäten
+Avocado noun g=f gen=Avocado pl=Avocados
+Axolotl noun g=m gen=Axolotls pl=Axolotl
 Axt noun g=f gen=Axt pl=Äxte

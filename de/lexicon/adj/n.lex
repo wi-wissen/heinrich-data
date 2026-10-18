@@ -5,6 +5,7 @@ nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nächtlich adj
 nachträglich adj
 nachvollziehbar adj cmp=nachvollziehbarer sup=nachvollziehbarsten
+nachwachsend adj
 nachweisbar adj
 nackt adj cmp=nackter sup=nacktesten
 nah          adj cmp=näher sup=nächsten
@@ -16,6 +17,7 @@ national adj
 nationalsozialistisch adj
 naturgemäß adj
 natürlich adj cmp=natürlicher sup=natürlichsten
+neblig adj cmp=nebliger sup=nebligsten
 negativ adj cmp=negativer sup=negativsten
 nennenswert adj
 nervös adj cmp=nervöser sup=nervösesten
@@ -24,6 +26,7 @@ neu adj cmp=neuer sup=neuesten
 neugierig adj cmp=neugieriger sup=neugierigsten
 neuseeländisch adj
 neutral adj cmp=neutraler sup=neutralsten
+neuwertig adj
 nichtig adj cmp=nichtiger sup=nichtigsten
 nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separate
 niederländisch adj

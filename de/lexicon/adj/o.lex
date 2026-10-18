@@ -20,6 +20,7 @@ ordentlich adj cmp=ordentlicher sup=ordentlichsten
 ordnungsgemäß adj
 organisatorisch adj
 organisch adj
+original adj
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj

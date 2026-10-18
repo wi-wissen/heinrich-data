@@ -4,10 +4,12 @@ Identifikation noun g=f gen=Identifikation pl=Identifikationen
 Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
 Identität noun g=f gen=Identität pl=Identitäten
 Ideologie noun g=f gen=Ideologie pl=Ideologien
+Igel noun g=m gen=Igels pl=Igel
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
 Illustrator noun g=m gen=Illustrators pl=Illustratoren
 Image noun g=n gen=Images pl=Images
+Imbiss noun g=m gen=Imbisses pl=Imbisse
 Immobilie noun g=f gen=Immobilie pl=Immobilien
 Immunität noun g=f gen=Immunität pl=- note=no plural in practice
 Impfstoff noun g=m gen=Impfstoffs|Impfstoffes pl=Impfstoffe
@@ -29,6 +31,7 @@ Informatik noun g=f gen=Informatik pl=- note=academic subject
 Information noun g=f gen=Information pl=Informationen
 Infrastruktur noun g=f gen=Infrastruktur pl=Infrastrukturen
 Ingenieur noun g=m gen=Ingenieurs pl=Ingenieure
+Ingwer noun g=m gen=Ingwers pl=- note=no plural
 Inhaber noun g=m gen=Inhabers pl=Inhaber
 Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Initiative noun g=f gen=Initiative pl=Initiativen
@@ -40,6 +43,7 @@ Innovation noun g=f gen=Innovation pl=Innovationen
 Insasse noun g=m gen=Insassen pl=Insassen
 Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
 Insekt noun g=n gen=Insekts|Insektes pl=Insekten
+Insektizid noun g=n gen=Insektizids pl=Insektizide
 Insel noun g=f gen=Insel pl=Inseln
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
 Installation noun g=f gen=Installation pl=Installationen

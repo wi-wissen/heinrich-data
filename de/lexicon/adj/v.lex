@@ -1,9 +1,12 @@
 väterlich adj
+vegan adj
+vegetarisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verantwortlich adj
 verbindlich adj
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
+verdorben adj
 vereinzelt adj
 verfassungsrechtlich adj
 verfassungswidrig adj
@@ -17,11 +20,14 @@ verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
 verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
+vermögend adj cmp=vermögender sup=vermögendsten
 vermutlich adj
 vernünftig adj
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
 verschollen adj
+verschuldet adj
+verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
 vertikal adj
@@ -41,6 +47,7 @@ vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
+vollwertig adj
 vollziehbar adj
 voraussichtlich adj
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
@@ -52,6 +59,7 @@ vorläufig adj
 vorletzt adj attr_only
 vornehm adj cmp=vornehmer sup=vornehmsten
 vorrangig adj
+vorrätig adj
 vorsätzlich adj
 vorsichtig adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten

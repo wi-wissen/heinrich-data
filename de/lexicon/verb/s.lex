@@ -1,28 +1,52 @@
+säen verb class=weak pp=gesät perf=haben
 sagen verb class=weak pp=gesagt perf=haben
+salzen verb class=weak pp=gesalzen|gesalzt perf=haben
 sammeln      verb class=weak pp=gesammelt perf=haben
 sanieren verb class=weak pp=saniert perf=haben
+sättigen verb class=weak pp=gesättigt perf=haben
+saufen verb class=strong 3sg=säuft past=soff pp=gesoffen subj2=söffe perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
+säugen verb class=weak pp=gesäugt perf=haben
 schaden verb class=weak pp=geschadet perf=haben
 schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
+schälen verb class=weak pp=geschält perf=haben
 schämen verb class=weak pp=geschämt perf=haben refl=acc
+scharren verb class=weak pp=gescharrt perf=haben
 schätzen verb class=weak pp=geschätzt perf=haben
 schauen verb class=weak pp=geschaut perf=haben
 scheiden verb class=strong 3sg=scheidet past=schied pp=geschieden subj2=schiede perf=haben|sein
 scheinen verb class=strong 3sg=scheint past=schien pp=geschienen subj2=schiene perf=haben
 scheitern verb class=weak pp=gescheitert perf=sein
 schenken verb class=weak pp=geschenkt perf=haben
+scheren verb class=strong 3sg=schert|schiert[rare] past=schor pp=geschoren subj2=schöre perf=haben
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
 schießen verb class=strong 3sg=schießt past=schoss pp=geschossen subj2=schösse perf=haben|sein
 schildern verb class=weak pp=geschildert perf=haben
+schimmeln verb class=weak pp=geschimmelt perf=haben|sein
+schlachten verb class=weak pp=geschlachtet perf=haben
 schlafen verb class=strong 3sg=schläft past=schlief pp=geschlafen subj2=schliefe perf=haben
 schlagen verb class=strong 3sg=schlägt past=schlug pp=geschlagen subj2=schlüge perf=haben refl=acc
 schleichen verb class=strong 3sg=schleicht past=schlich pp=geschlichen subj2=schliche perf=sein refl=acc
+schlemmen verb class=weak pp=geschlemmt perf=haben
 schließen verb class=strong 3sg=schließt past=schloss pp=geschlossen subj2=schlösse perf=haben refl=acc
+schlucken verb class=weak pp=geschluckt perf=haben
+schlüpfen verb class=weak pp=geschlüpft perf=sein
+schlürfen verb class=weak pp=geschlürft perf=haben
+schmecken verb class=weak pp=geschmeckt perf=haben
+schmelzen verb class=strong 3sg=schmilzt past=schmolz pp=geschmolzen subj2=schmölze perf=haben|sein
+schmieren verb class=weak pp=geschmiert perf=haben note=pp geschmiert is correct; not an -ieren verb
+schmoren verb class=weak pp=geschmort perf=haben
 schmücken verb class=weak pp=geschmückt perf=haben refl=acc
+schnappen verb class=weak pp=geschnappt perf=haben
+schnattern verb class=weak pp=geschnattert perf=haben
+schnauben verb class=weak pp=geschnaubt perf=haben
 schneiden verb class=strong 3sg=schneidet past=schnitt pp=geschnitten subj2=schnitte perf=haben refl=acc
+schneien verb class=weak pp=geschneit perf=haben
+schnüffeln verb class=weak pp=geschnüffelt perf=haben
+schnurren verb class=weak pp=geschnurrt perf=haben
 schonen verb class=weak pp=geschont perf=haben
 schöpfen verb class=weak pp=geschöpft perf=haben
 schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schriebe perf=haben
@@ -34,6 +58,7 @@ schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
 schützen verb class=weak pp=geschützt perf=haben refl=acc
 schwächen verb class=weak pp=geschwächt perf=haben
 schwanken verb class=weak pp=geschwankt perf=haben|sein
+schwärmen verb class=weak pp=geschwärmt perf=haben|sein
 schweben verb class=weak pp=geschwebt perf=haben|sein
 schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwiege perf=haben
 schwimmen verb class=strong 3sg=schwimmt past=schwamm pp=geschwommen subj2=schwömme|schwämme perf=haben|sein
@@ -42,8 +67,10 @@ schwören verb class=strong 3sg=schwört past=schwor pp=geschworen subj2=schwür
 sehen verb class=strong 3sg=sieht past=sah,sahst|sahest[archaic],sah,sahen,saht,sahen pp=gesehen subj2=sähe perf=haben refl=acc imp=sieh|siehe,seht note=siehe (siehe oben) is the long imperative
 senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
 senken verb class=weak pp=gesenkt perf=haben refl=acc
+servieren verb class=weak pp=serviert perf=haben
 setzen verb class=weak pp=gesetzt perf=haben refl=acc
 seufzen verb class=weak pp=geseufzt perf=haben
+shoppen verb class=weak pp=geshoppt perf=haben
 sichern verb class=weak pp=gesichert perf=haben refl=acc
 sicherstellen verb class=weak sep=sicher pp=sichergestellt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
@@ -67,7 +94,10 @@ spielen verb class=weak pp=gespielt perf=haben
 spitzen verb class=weak pp=gespitzt perf=haben
 sprechen     verb class=strong 3sg=spricht past=sprach pp=gesprochen subj2=spräche perf=haben
 sprengen verb class=weak pp=gesprengt perf=haben
+sprießen verb class=strong 3sg=sprießt past=spross pp=gesprossen subj2=sprösse perf=sein
 springen verb class=strong 3sg=springt past=sprang pp=gesprungen subj2=spränge perf=sein|haben
+sprudeln verb class=weak pp=gesprudelt perf=haben|sein
+spülen verb class=weak pp=gespült perf=haben
 spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben
 stammeln verb class=weak pp=gestammelt perf=haben
@@ -78,6 +108,7 @@ starten verb class=weak pp=gestartet perf=haben|sein
 stationieren verb class=weak pp=stationiert perf=haben
 stattfinden verb class=strong sep=statt 3sg=stattfindet past=stattfand pp=stattgefunden subj2=stattfände perf=haben
 staunen verb class=weak pp=gestaunt perf=haben
+stechen verb class=strong 3sg=sticht past=stach pp=gestochen subj2=stäche perf=haben
 stecken verb class=weak pp=gesteckt perf=haben
 stehen verb class=strong 3sg=steht past=stand pp=gestanden subj2=stünde|stände perf=haben|sein
 stehlen verb class=strong 3sg=stiehlt past=stahl pp=gestohlen subj2=stähle|stöhle[rare] perf=haben
@@ -92,14 +123,23 @@ stimmen verb class=weak pp=gestimmt perf=haben
 stöhnen verb class=weak pp=gestöhnt perf=haben
 stoppen verb class=weak pp=gestoppt perf=haben
 stören verb class=weak pp=gestört perf=haben
+stornieren verb class=weak pp=storniert perf=haben
 stoßen verb class=strong 3sg=stößt past=stieß pp=gestoßen subj2=stieße perf=haben|sein
+strahlen verb class=weak pp=gestrahlt perf=haben
 streben verb class=weak pp=gestrebt perf=haben
 strecken verb class=weak pp=gestreckt perf=haben refl=acc
+streicheln verb class=weak pp=gestreichelt perf=haben
 streichen verb class=strong 3sg=streicht past=strich pp=gestrichen subj2=striche perf=haben
 streifen verb class=weak pp=gestreift perf=haben|sein
 streiten verb class=strong 3sg=streitet past=stritt pp=gestritten subj2=stritte perf=haben refl=acc
+strömen verb class=weak pp=geströmt perf=haben|sein
 studieren    verb class=weak pp=studiert perf=haben
+stürmen verb class=weak pp=gestürmt perf=haben|sein
 stürzen verb class=weak pp=gestürzt perf=sein|haben refl=acc
+stutzen verb class=weak pp=gestutzt perf=haben
 stützen verb class=weak pp=gestützt perf=haben refl=acc
 suchen verb class=weak pp=gesucht perf=haben
+summen verb class=weak pp=gesummt perf=haben
+surren verb class=weak pp=gesurrt perf=haben
+süßen verb class=weak pp=gesüßt perf=haben
 symbolisieren verb class=weak pp=symbolisiert perf=haben
