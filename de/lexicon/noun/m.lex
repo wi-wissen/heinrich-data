@@ -82,8 +82,8 @@ Marzipan noun g=n gen=Marzipans pl=Marzipane
 Maschine noun g=f gen=Maschine pl=Maschinen
 Masern noun g=pl
 Maske noun g=f gen=Maske pl=Masken
-Maß noun g=n gen=Maßes pl=Maße
 Maskenbildner noun g=m gen=Maskenbildners pl=Maskenbildner
+Maß noun g=n gen=Maßes pl=Maße
 Massaker noun g=n gen=Massakers pl=Massaker
 Maßband noun g=n gen=Maßbands|Maßbandes pl=Maßbänder
 Masse noun g=f gen=Masse pl=Massen

@@ -531,7 +531,6 @@ Ausdauer noun g=f gen=Ausdauer pl=- note=no plural
 Ausdehnung noun g=f gen=Ausdehnung pl=Ausdehnungen
 Ausdruck      noun g=m gen=Ausdrucks|Ausdruckes pl=Ausdrücke|Ausdrucke note=Ausdrucke: printouts
 Auseinandersetzung noun g=f gen=Auseinandersetzung pl=Auseinandersetzungen
-Außerirdische noun g=m|f decl=adj
 Ausfahrt noun g=f gen=Ausfahrt pl=Ausfahrten
 Ausfall noun g=m gen=Ausfalls|Ausfalles pl=Ausfälle
 Ausfertigung noun g=f gen=Ausfertigung pl=Ausfertigungen
@@ -570,6 +569,7 @@ Außenminister noun g=m gen=Außenministers pl=Außenminister
 Außenpolitik noun g=f gen=Außenpolitik pl=- note=mass noun
 Außenseiter noun g=m gen=Außenseiters pl=Außenseiter
 Außenseiterin noun g=f gen=Außenseiterin pl=Außenseiterinnen
+Außerirdische noun g=m|f decl=adj
 Äußerung noun g=f gen=Äußerung pl=Äußerungen
 Aussetzung noun g=f gen=Aussetzung pl=Aussetzungen
 Aussicht      noun g=f gen=Aussicht pl=Aussichten

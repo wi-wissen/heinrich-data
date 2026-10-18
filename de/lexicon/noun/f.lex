@@ -315,11 +315,11 @@ Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
 Furt noun g=f gen=Furt pl=Furten
-Fußballerin noun g=f gen=Fußballerin pl=Fußballerinnen
 Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle
 Fußballer noun g=m gen=Fußballers pl=Fußballer
+Fußballerin noun g=f gen=Fußballerin pl=Fußballerinnen
 Fußgänger noun g=m gen=Fußgängers pl=Fußgänger
 Fußgängerin noun g=f gen=Fußgängerin pl=Fußgängerinnen
 Fußgängerzone noun g=f gen=Fußgängerzone pl=Fußgängerzonen
