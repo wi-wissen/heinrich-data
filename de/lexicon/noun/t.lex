@@ -2,7 +2,7 @@ T-Shirt noun g=n gen=T-Shirts pl=T-Shirts
 Tabak noun g=m gen=Tabaks pl=Tabake
 Tabelle noun g=f gen=Tabelle pl=Tabellen
 Tablet noun g=n gen=Tablets pl=Tablets
-Tablett noun g=n gen=Tabletts pl=Tabletts|Tabletten
+Tablett noun g=n gen=Tabletts pl=Tabletts|Tablette
 Tablette noun g=f gen=Tablette pl=Tabletten
 Tabu noun g=n gen=Tabus pl=Tabus
 Tafel noun g=f gen=Tafel pl=Tafeln
