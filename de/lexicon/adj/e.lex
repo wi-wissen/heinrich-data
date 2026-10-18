@@ -1,11 +1,13 @@
 eben adj cmp=ebener sup=ebensten note=flat (eine ebene Fläche)
 echt adj cmp=echter sup=echtesten
+eckig adj
 edel adj cmp=edler sup=edelsten
 effektiv adj cmp=effektiver sup=effektivsten
 effizient adj cmp=effizienter sup=effizientesten
 egal adj indecl note=only predicative
 ehemalig adj
 ehrenamtlich adj
+ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
 eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
 eifrig adj cmp=eifriger sup=eifrigsten
@@ -20,6 +22,7 @@ einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
+einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
 einschlägig adj attr_only
@@ -38,6 +41,7 @@ elend adj cmp=elender sup=elendsten
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 endgültig adj
+endlich adj
 energisch adj cmp=energischer sup=energischsten
 eng adj cmp=enger sup=engsten
 englisch adj
@@ -45,9 +49,11 @@ englischsprachig adj
 enorm adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
+entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
 epidemisch adj
+episch adj
 erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
@@ -67,6 +73,7 @@ erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstmalig adj
 erwachsen adj
 erwünscht adj
+erzählend adj
 ethisch adj
 ethnisch adj
 etwaig adj attr_only
@@ -77,6 +84,10 @@ eventuell adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+experimentell adj
 explizit adj
+explosiv adj
+exponentiell adj
+expressionistisch adj
 extern adj
 extrem adj cmp=extremer sup=extremsten

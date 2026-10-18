@@ -1,5 +1,9 @@
 radikal adj cmp=radikaler sup=radikalsten
+radioaktiv adj
 rasch adj cmp=rascher sup=raschesten
+rassistisch adj
+rational adj
+rau adj cmp=rauer sup=rauesten
 räumlich adj
 real adj cmp=realer sup=realsten
 realistisch adj cmp=realistischer sup=realistischsten
@@ -8,8 +12,10 @@ rechteckig adj
 rechtlich adj
 rechtskräftig adj
 rechtswidrig adj
+rechtwinklig adj
 rechtzeitig adj
 redlich adj cmp=redlicher sup=redlichsten
+reflexiv adj
 rege adj cmp=reger sup=regsten
 regelmäßig adj
 regional adj
@@ -19,15 +25,20 @@ reich adj cmp=reicher sup=reichsten
 reichlich adj
 reif adj cmp=reifer sup=reifsten
 rein adj cmp=reiner sup=reinsten
+reißerisch adj
 reizend adj cmp=reizender sup=reizendsten note=charming; participle with its own meaning
 relativ adj
 relevant adj cmp=relevanter sup=relevantesten
 religiös adj cmp=religiöser sup=religiösesten
 renommiert adj cmp=renommierter sup=renommiertesten
 repräsentativ adj cmp=repräsentativer sup=repräsentativsten
+republikanisch adj
+respektlos adj cmp=respektloser sup=respektlosesten
+respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rheinisch adj
+rhetorisch adj
 richtig adj cmp=richtiger sup=richtigsten
 riesig adj cmp=riesiger sup=riesigsten
 roh adj cmp=roher sup=rohesten

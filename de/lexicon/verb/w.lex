@@ -22,6 +22,7 @@ weiterentwickeln verb class=weak sep=weiter pp=weiterentwickelt perf=haben
 weiterführen verb class=weak sep=weiter pp=weitergeführt perf=haben
 weitergeben verb class=strong sep=weiter 3sg=weitergibt past=weitergab pp=weitergegeben subj2=weitergäbe perf=haben
 weitergehen verb class=strong sep=weiter 3sg=weitergeht past=weiterging pp=weitergegangen subj2=weiterginge perf=sein
+weiterleiten verb class=weak sep=weiter pp=weitergeleitet perf=haben
 weitermachen verb class=weak sep=weiter pp=weitergemacht perf=haben
 wenden verb class=mixed 3sg=wendet past=wandte|wendete pp=gewandt|gewendet subj2=wendete|wandte perf=haben
 werben verb class=strong 3sg=wirbt past=warb pp=geworben subj2=würbe perf=haben
@@ -29,6 +30,7 @@ werfen verb class=strong 3sg=wirft past=warf pp=geworfen subj2=würfe perf=haben
 werten verb class=weak pp=gewertet perf=haben
 widerlegen verb class=weak pp=widerlegt perf=haben
 widerrufen verb class=strong 3sg=widerruft past=widerrief pp=widerrufen subj2=widerriefe perf=haben
+widerspiegeln verb class=weak sep=wider pp=widergespiegelt perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
@@ -43,6 +45,7 @@ wiegen verb class=strong 3sg=wiegt past=wog pp=gewogen subj2=wöge perf=haben se
 wiegen verb class=weak pp=gewiegt perf=haben refl=acc sense=rock note=wiegen: to rock (ein Kind wiegen)
 winken verb class=weak pp=gewinkt perf=haben
 wirken verb class=weak pp=gewirkt perf=haben
+wischen verb class=weak pp=gewischt perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben
 wohnen verb class=weak pp=gewohnt perf=haben
 wundern verb class=weak pp=gewundert perf=haben

@@ -1,4 +1,5 @@
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
+zappelig adj cmp=zappeliger sup=zappeligsten
 zart adj cmp=zarter sup=zartesten
 zärtlich adj
 zeitgenössisch adj
@@ -22,6 +23,7 @@ zukünftig adj
 zulässig adj
 zumutbar adj
 zurückhaltend adj cmp=zurückhaltender sup=zurückhaltendsten
+zusammengesetzt adj
 zusätzlich adj
 zuständig adj
 zuverlässig adj cmp=zuverlässiger sup=zuverlässigsten

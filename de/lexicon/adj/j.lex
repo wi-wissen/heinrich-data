@@ -5,6 +5,7 @@ japanisch adj
 jetzig adj attr_only
 jeweilig adj note=attributive only
 jüdisch adj
+jugendfrei adj
 jugendlich adj cmp=jugendlicher sup=jugendlichsten
 jugoslawisch adj
 jung adj cmp=jünger sup=jüngsten

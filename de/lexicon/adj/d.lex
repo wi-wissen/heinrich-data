@@ -15,19 +15,24 @@ detailliert adj cmp=detaillierter sup=detailliertesten
 deutlich      adj cmp=deutlicher sup=deutlichsten
 deutsch      adj
 deutschsprachig adj
+diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
 dienstlich adj
 diesbezüglich adj
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
+diktatorisch adj
 diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
+diskriminierend adj
 divers adj
 doppelt adj
 dortig        adj note=only attributive (die dortigen Verhältnisse)
+drahtlos adj
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
+dreifach adj
 dreißigjährig adj attr_only
 dringend      adj cmp=dringender sup=dringendsten
 dual adj
@@ -37,5 +42,6 @@ dunkel        adj cmp=dunkler sup=dunkelsten
 dünn adj cmp=dünner sup=dünnsten
 durchgängig adj
 durchschnittlich adj
+durchsichtig adj cmp=durchsichtiger sup=durchsichtigsten
 düster adj cmp=düsterer sup=düstersten
 dynamisch adj cmp=dynamischer sup=dynamischsten

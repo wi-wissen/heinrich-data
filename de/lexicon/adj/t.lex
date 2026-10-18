@@ -1,26 +1,35 @@
 täglich adj
+talentiert adj cmp=talentierter sup=talentiertesten
 tapfer adj cmp=tapferer sup=tapfersten
 tätig adj
 tatsächlich adj
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
+tendenziös adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
+thematisch adj
 theologisch adj
 theoretisch adj
 tief adj cmp=tiefer sup=tiefsten
+tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
 tierisch adj
 tödlich adj cmp=tödlicher sup=tödlichsten
+tolerant adj cmp=toleranter sup=tolerantesten
 toll adj cmp=toller sup=tollsten
 tot adj
 total adj
+totalitär adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
+transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 traurig adj cmp=trauriger sup=traurigsten
+treffend adj cmp=treffender sup=treffendsten
 trefflich adj cmp=trefflicher sup=trefflichsten
+trennbar adj
 treu adj cmp=treuer sup=treuesten
 trocken adj cmp=trockener sup=trockensten
 tropisch adj

@@ -14,9 +14,11 @@ pharmazeutisch adj
 philosophisch adj
 physikalisch adj
 physisch adj
+plausibel adj cmp=plausibler sup=plausibelsten
 pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
 poetisch adj cmp=poetischer sup=poetischsten
+polar adj
 politisch adj
 polizeilich adj
 polnisch adj
@@ -29,11 +31,13 @@ praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
 präzise adj cmp=präziser sup=präzisesten
 preußisch adj
+prim adj
 primär adj
 prinzipiell adj
 privat adj
 problematisch adj cmp=problematischer sup=problematischsten
 professionell adj cmp=professioneller sup=professionellsten
+proportional adj
 protestantisch adj
 psychisch adj
 psychologisch adj

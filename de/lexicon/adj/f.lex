@@ -8,6 +8,9 @@ falsch adj cmp=falscher sup=falschesten
 familiär adj cmp=familiärer sup=familiärsten
 farbig adj cmp=farbiger sup=farbigsten
 fatal adj cmp=fataler sup=fatalsten
+faul adj cmp=fauler sup=faulsten
+fehlerfrei adj
+fehlerhaft adj cmp=fehlerhafter sup=fehlerhaftesten
 feierlich adj cmp=feierlicher sup=feierlichsten
 fein adj cmp=feiner sup=feinsten
 feindlich adj
@@ -26,6 +29,7 @@ fleißig adj cmp=fleißiger sup=fleißigsten
 flexibel adj cmp=flexibler sup=flexibelsten
 flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
+föderal adj
 formal adj
 formell adj cmp=formeller sup=formellsten
 förmlich adj
@@ -34,6 +38,7 @@ fossil adj
 fraglich adj
 fränkisch adj
 französisch adj
+frech adj cmp=frecher sup=frechsten
 frei adj cmp=freier sup=freiesten|freisten[rare]
 freiwillig adj
 fremd adj cmp=fremder sup=fremdesten

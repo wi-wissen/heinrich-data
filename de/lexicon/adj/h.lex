@@ -22,6 +22,7 @@ heutig adj note=attributive only
 hiesig adj
 hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten
+hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
@@ -35,3 +36,4 @@ hölzern adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 humanitär adj
+humorvoll adj cmp=humorvoller sup=humorvollsten

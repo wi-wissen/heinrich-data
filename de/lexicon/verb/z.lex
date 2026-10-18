@@ -1,7 +1,9 @@
 zahlen verb class=weak pp=gezahlt perf=haben
 zählen verb class=weak pp=gezählt perf=haben
+zappen verb class=weak pp=gezappt perf=haben
 zeichnen verb class=weak pp=gezeichnet perf=haben
 zeigen verb class=weak pp=gezeigt perf=haben refl=acc
+zensieren verb class=weak pp=zensiert perf=haben
 zerreißen verb class=strong 3sg=zerreißt past=zerriss pp=zerrissen subj2=zerrisse perf=haben|sein
 zerschlagen verb class=strong 3sg=zerschlägt past=zerschlug pp=zerschlagen subj2=zerschlüge perf=haben refl=acc
 zerstören verb class=weak pp=zerstört perf=haben
@@ -12,6 +14,7 @@ zielen verb class=weak pp=gezielt perf=haben
 zieren verb class=weak pp=geziert perf=haben refl=acc note=stem zier-; not an -ieren verb
 zitieren verb class=weak pp=zitiert perf=haben
 zittern verb class=weak pp=gezittert perf=haben
+zocken verb class=weak pp=gezockt perf=haben
 zögern verb class=weak pp=gezögert perf=haben
 zubringen verb class=mixed sep=zu 3sg=zubringt past=zubrachte pp=zugebracht subj2=zubrächte perf=haben
 zucken verb class=weak pp=gezuckt perf=haben
@@ -38,6 +41,7 @@ zurückkommen verb class=strong sep=zurück 3sg=zurückkommt past=zurückkam pp=
 zurücklassen verb class=strong sep=zurück 3sg=zurücklässt past=zurückließ pp=zurückgelassen subj2=zurückließe perf=haben
 zurücklegen verb class=weak sep=zurück pp=zurückgelegt perf=haben
 zurücknehmen verb class=strong sep=zurück 3sg=zurücknimmt past=zurücknahm pp=zurückgenommen subj2=zurücknähme perf=haben
+zurückrufen verb class=strong sep=zurück 3sg=zurückruft past=zurückrief pp=zurückgerufen subj2=zurückriefe perf=haben
 zurückweisen verb class=strong sep=zurück 3sg=zurückweist past=zurückwies pp=zurückgewiesen subj2=zurückwiese perf=haben
 zurückziehen verb class=strong sep=zurück 3sg=zurückzieht past=zurückzog pp=zurückgezogen subj2=zurückzöge perf=haben|sein
 zusagen verb class=weak sep=zu pp=zugesagt perf=haben

@@ -1,9 +1,11 @@
 habilitieren verb class=weak pp=habilitiert perf=haben refl=acc
+hacken verb class=weak pp=gehackt perf=haben
 haften verb class=weak pp=gehaftet perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 handeln verb class=weak pp=gehandelt perf=haben
 hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=haben|sein sense=intransitive note=das Bild hing an der Wand; perf with sein in southern Germany/AT/CH
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
+hänseln verb class=weak pp=gehänselt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
 heften verb class=weak pp=geheftet perf=haben
@@ -19,21 +21,29 @@ herausragen verb class=weak sep=heraus pp=herausgeragt perf=haben
 herbeiführen verb class=weak sep=herbei pp=herbeigeführt perf=haben
 herrschen verb class=weak pp=geherrscht perf=haben
 herstellen verb class=weak sep=her pp=hergestellt perf=haben
+herunterfahren verb class=strong sep=herunter 3sg=herunterfährt past=herunterfuhr pp=heruntergefahren subj2=herunterführe perf=haben|sein
+herunterladen verb class=strong sep=herunter 3sg=herunterlädt past=herunterlud pp=heruntergeladen subj2=herunterlüde perf=haben
 hervorbringen verb class=mixed sep=hervor 3sg=hervorbringt past=hervorbrachte pp=hervorgebracht subj2=hervorbrächte perf=haben
 hervorgehen verb class=strong sep=hervor 3sg=hervorgeht past=hervorging pp=hervorgegangen subj2=hervorginge perf=sein
 hervorheben verb class=strong sep=hervor 3sg=hervorhebt past=hervorhob pp=hervorgehoben subj2=hervorhöbe perf=haben
 hervorragen verb class=weak sep=hervor pp=hervorgeragt perf=haben
 hervorrufen verb class=strong sep=hervor 3sg=hervorruft past=hervorrief pp=hervorgerufen subj2=hervorriefe perf=haben
+hetzen verb class=weak pp=gehetzt perf=haben|sein
 hinausgehen verb class=strong sep=hinaus 3sg=hinausgeht past=hinausging pp=hinausgegangen subj2=hinausginge perf=sein
 hinbekommen verb class=strong sep=hin 3sg=hinbekommt past=hinbekam pp=hinbekommen subj2=hinbekäme perf=haben
 hindern verb class=weak pp=gehindert perf=haben
+hindeuten verb class=weak sep=hin pp=hingedeutet perf=haben
+hineinversetzen verb class=weak sep=hinein pp=hineinversetzt perf=haben refl=acc
 hingehen verb class=strong sep=hin 3sg=hingeht past=hinging pp=hingegangen subj2=hinginge perf=sein
 hinnehmen verb class=strong sep=hin 3sg=hinnimmt past=hinnahm pp=hingenommen subj2=hinnähme perf=haben
 hinrichten verb class=weak sep=hin pp=hingerichtet perf=haben
+hinterfragen verb class=weak pp=hinterfragt perf=haben
 hinterlassen verb class=strong 3sg=hinterlässt past=hinterließ pp=hinterlassen subj2=hinterließe perf=haben
 hinterlegen verb class=weak pp=hinterlegt perf=haben
 hinweisen verb class=strong sep=hin 3sg=hinweist past=hinwies pp=hingewiesen subj2=hinwiese perf=haben
 hinzufügen verb class=weak sep=hinzu pp=hinzugefügt perf=haben
+hochfahren verb class=strong sep=hoch 3sg=hochfährt past=hochfuhr pp=hochgefahren subj2=hochführe perf=haben|sein
+hochladen verb class=strong sep=hoch 3sg=hochlädt past=hochlud pp=hochgeladen subj2=hochlüde perf=haben
 hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
 horchen verb class=weak pp=gehorcht perf=haben

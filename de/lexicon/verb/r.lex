@@ -1,15 +1,19 @@
 rächen verb class=weak pp=gerächt perf=haben
 raten verb class=strong 3sg=rät past=riet pp=geraten subj2=riete perf=haben
 ratifizieren verb class=weak pp=ratifiziert perf=haben
+rätseln verb class=weak pp=gerätselt perf=haben
 rauben verb class=weak pp=geraubt perf=haben
 rauchen verb class=weak pp=geraucht perf=haben
 rauschen verb class=weak pp=gerauscht perf=haben|sein
+rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial
 reagieren verb class=weak pp=reagiert perf=haben
 realisieren verb class=weak pp=realisiert perf=haben
+recherchieren verb class=weak pp=recherchiert perf=haben
 rechnen verb class=weak pp=gerechnet perf=haben
 rechtfertigen verb class=weak pp=gerechtfertigt perf=haben refl=acc
 reden verb class=weak pp=geredet perf=haben
 reduzieren verb class=weak pp=reduziert perf=haben refl=acc
+referieren verb class=weak pp=referiert perf=haben
 reformieren verb class=weak pp=reformiert perf=haben
 regeln verb class=weak pp=geregelt perf=haben refl=acc
 regieren verb class=weak pp=regiert perf=haben
@@ -17,6 +21,7 @@ registrieren verb class=weak pp=registriert perf=haben refl=acc
 regulieren verb class=weak pp=reguliert perf=haben
 reichen verb class=weak pp=gereicht perf=haben
 reifen verb class=weak pp=gereift perf=sein|haben
+reimen verb class=weak pp=gereimt perf=haben
 reinigen verb class=weak pp=gereinigt perf=haben
 reisen       verb class=weak pp=gereist perf=sein
 reißen verb class=strong 3sg=reißt past=riss pp=gerissen subj2=risse perf=haben|sein
@@ -40,3 +45,5 @@ rufen verb class=strong 3sg=ruft past=rief pp=gerufen subj2=riefe perf=haben
 ruhen verb class=weak pp=geruht perf=haben
 rühmen verb class=weak pp=gerühmt perf=haben
 rühren verb class=weak pp=gerührt perf=haben refl=acc
+runden verb class=weak pp=gerundet perf=haben
+runterladen verb class=strong sep=runter 3sg=runterlädt past=runterlud pp=runtergeladen subj2=runterlüde perf=haben style=colloquial

@@ -2,6 +2,7 @@ sachlich adj cmp=sachlicher sup=sachlichsten
 sächlich adj
 sächsisch adj
 sanft adj cmp=sanfter sup=sanftesten
+satirisch adj
 satt adj cmp=satter sup=sattesten
 sauber adj cmp=sauberer sup=saubersten
 sauer adj cmp=saurer sup=sauersten
@@ -12,9 +13,12 @@ scheinbar adj
 scheu adj cmp=scheuer sup=scheuesten
 schief adj cmp=schiefer sup=schiefsten
 schlank adj cmp=schlanker sup=schlanksten
+schlau adj cmp=schlauer sup=schlausten
 schlecht adj cmp=schlechter sup=schlechtesten
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
+schludrig adj cmp=schludriger sup=schludrigsten
+schlüssig adj cmp=schlüssiger sup=schlüssigsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
 schmerzlich adj cmp=schmerzlicher sup=schmerzlichsten
 schmutzig adj cmp=schmutziger sup=schmutzigsten
@@ -32,6 +36,7 @@ schulisch adj
 schwach adj cmp=schwächer sup=schwächsten
 schwanger adj
 schwarz adj cmp=schwärzer|schwarzer[rare] sup=schwärzesten|schwarzesten[rare]
+schwarzweiß adj indecl
 schwedisch adj
 schweizerisch adj
 schwer adj cmp=schwerer sup=schwersten
@@ -48,13 +53,16 @@ seltsam adj cmp=seltsamer sup=seltsamsten
 senkrecht adj
 separat adj
 serbisch adj
+seriös adj cmp=seriöser sup=seriösesten
 sexuell adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
 sichtbar adj cmp=sichtbarer sup=sichtbarsten
 sichtlich adj
+siegreich adj
 signifikant adj cmp=signifikanter sup=signifikantesten
 silbern adj
 sinngemäß adj
+sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
 sittlich adj cmp=sittlicher sup=sittlichsten
 skeptisch adj cmp=skeptischer sup=skeptischsten
@@ -74,6 +82,7 @@ sowjetisch adj
 sozial adj
 sozialistisch adj
 spanisch adj
+spannend adj cmp=spannender sup=spannendsten
 spärlich adj cmp=spärlicher sup=spärlichsten
 spät adj cmp=später sup=spätesten
 speziell adj cmp=spezieller sup=speziellsten
@@ -81,6 +90,7 @@ spezifisch adj
 spitz adj cmp=spitzer sup=spitzesten
 sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
+sprachlich adj
 staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
 städtisch adj
@@ -93,9 +103,11 @@ stattlich adj cmp=stattlicher sup=stattlichsten
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
 steinern adj
+steinzeitlich adj
 stenografisch adj
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
+stichhaltig adj cmp=stichhaltiger sup=stichhaltigsten
 stilistisch adj
 still adj cmp=stiller sup=stillsten
 stolz adj cmp=stolzer sup=stolzesten
@@ -106,8 +118,12 @@ strikt adj cmp=strikter sup=striktesten
 strittig adj
 strukturell adj
 stumm adj cmp=stummer sup=stummsten
+stumpf adj cmp=stumpfer sup=stumpfesten
 stündlich adj
+subjektiv adj
 subsidiär adj
+subtropisch adj
+süchtig adj
 südafrikanisch adj
 süddeutsch adj
 südkoreanisch adj
@@ -118,5 +134,6 @@ sukzessiv adj
 super adj indecl style=colloquial note=colloquial intensifier
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
+symmetrisch adj
 syrisch adj
 systematisch adj cmp=systematischer sup=systematischsten

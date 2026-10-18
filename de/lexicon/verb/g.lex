@@ -35,10 +35,13 @@ gleichen verb class=strong 3sg=gleicht past=glich pp=geglichen subj2=gliche perf
 gleichstellen verb class=weak sep=gleich pp=gleichgestellt perf=haben
 gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=sein
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc
+glotzen verb class=weak pp=geglotzt perf=haben
 glühen verb class=weak pp=geglüht perf=haben
 gönnen verb class=weak pp=gegönnt perf=haben
+googeln verb class=weak pp=gegoogelt perf=haben
 greifen verb class=strong 3sg=greift past=griff pp=gegriffen subj2=griffe perf=haben
 grenzen verb class=weak pp=gegrenzt perf=haben
+grübeln verb class=weak pp=gegrübelt perf=haben
 gründen verb class=weak pp=gegründet perf=haben refl=acc
 grüßen verb class=weak pp=gegrüßt perf=haben
 gucken verb class=weak pp=geguckt perf=haben

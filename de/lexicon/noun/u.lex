@@ -21,6 +21,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überrest noun g=m gen=Überrests|Überrestes pl=Überreste
 Überschreitung noun g=f gen=Überschreitung pl=Überschreitungen
 Überschrift noun g=f gen=Überschrift pl=Überschriften
+Überschwemmung noun g=f gen=Überschwemmung pl=Überschwemmungen
 Übersetzer noun g=m gen=Übersetzers pl=Übersetzer
 Übersetzerin noun g=f gen=Übersetzerin pl=Übersetzerinnen
 Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
@@ -36,6 +37,7 @@ Uhr noun g=f gen=Uhr pl=Uhren
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
+Umdrehung noun g=f gen=Umdrehung pl=Umdrehungen
 Umfang noun g=m gen=Umfangs|Umfanges[rare] pl=Umfänge
 Umfeld noun g=n gen=Umfelds|Umfeldes pl=Umfelder
 Umfrage noun g=f gen=Umfrage pl=Umfragen
@@ -46,6 +48,7 @@ Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
+Umlaut noun g=m gen=Umlauts|Umlautes pl=Umlaute
 Umsatz noun g=m gen=Umsatzes pl=Umsätze
 Umschlag noun g=m gen=Umschlags|Umschlages pl=Umschläge
 Umschrift noun g=f gen=Umschrift pl=Umschriften
@@ -55,8 +58,10 @@ Umstellung noun g=f gen=Umstellung pl=Umstellungen
 Umwandlung noun g=f gen=Umwandlung pl=Umwandlungen
 Umweg noun g=m gen=Umwegs|Umweges pl=Umwege
 Umwelt noun g=f gen=Umwelt pl=- note=plural Umwelten only in technical use
+Umweltschutz noun g=m gen=Umweltschutzes pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
+Unbekannte noun g=m|f decl=adj
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
 Unfallversicherung noun g=f gen=Unfallversicherung pl=Unfallversicherungen
@@ -65,6 +70,7 @@ Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
+Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
 Unglück noun g=n gen=Unglücks|Unglückes[rare] pl=Unglücke
 Unheil noun g=n gen=Unheils pl=- note=no plural
 Uni noun g=f gen=Uni pl=Unis
@@ -100,18 +106,23 @@ Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
+Unterstufe noun g=f gen=Unterstufe pl=Unterstufen
 Unterstützer noun g=m gen=Unterstützers pl=Unterstützer
 Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
 Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen
 Untertan noun g=m gen=Untertans|Untertanen pl=Untertanen
+Untertitel noun g=m gen=Untertitels pl=Untertitel
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen
 Unversehrtheit noun g=f gen=Unversehrtheit pl=- note=no plural
 Unze noun g=f gen=Unze pl=Unzen
 Unzufriedenheit noun g=f gen=Unzufriedenheit pl=- note=no plural in practice
+Update noun g=n gen=Updates pl=Updates
+Upload noun g=m gen=Uploads pl=Uploads
 Uraufführung noun g=f gen=Uraufführung pl=Uraufführungen
 Ureinwohner noun g=m gen=Ureinwohners pl=Ureinwohner
 Urheber noun g=m gen=Urhebers pl=Urheber
+Urheberin noun g=f gen=Urheberin pl=Urheberinnen
 Urkunde noun g=f gen=Urkunde pl=Urkunden
 Urlaub noun g=m gen=Urlaubs|Urlaubes pl=Urlaube
 Urne noun g=f gen=Urne pl=Urnen
@@ -119,3 +130,4 @@ Ursache noun g=f gen=Ursache pl=Ursachen
 Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
+Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural

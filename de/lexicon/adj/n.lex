@@ -2,6 +2,7 @@ nachdenklich adj cmp=nachdenklicher sup=nachdenklichsten
 nachdrücklich adj cmp=nachdrücklicher sup=nachdrücklichsten
 nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
+nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nächtlich adj
 nachträglich adj
 nachvollziehbar adj cmp=nachvollziehbarer sup=nachvollziehbarsten
@@ -14,6 +15,7 @@ nämlich adj attr_only style=archaic note=der nämliche = derselbe
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
 nationalsozialistisch adj
+naturalistisch adj
 naturgemäß adj
 natürlich adj cmp=natürlicher sup=natürlichsten
 negativ adj cmp=negativer sup=negativsten
@@ -37,3 +39,4 @@ notwendig adj cmp=notwendiger sup=notwendigsten
 nüchtern adj cmp=nüchterner sup=nüchternsten
 nuklear adj
 nützlich adj cmp=nützlicher sup=nützlichsten
+nutzlos adj cmp=nutzloser sup=nutzlosesten

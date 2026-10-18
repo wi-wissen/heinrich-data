@@ -10,7 +10,9 @@ bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
 befindlich adj
+befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
+begabt adj cmp=begabter sup=begabtesten
 begehrt adj cmp=begehrter sup=begehrtesten
 begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
@@ -32,6 +34,8 @@ beruflich adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
+beschreibend adj
+besiegt adj
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
@@ -46,6 +50,7 @@ bewusst       adj cmp=bewusster sup=bewusstesten
 bezahlbar adj cmp=bezahlbarer sup=bezahlbarsten
 biblisch adj
 bilateral adj
+bildlich adj cmp=bildlicher sup=bildlichsten
 billig adj cmp=billiger sup=billigsten
 biologisch adj
 bisherig adj
@@ -64,7 +69,9 @@ braun         adj cmp=brauner sup=braunsten
 bräunlich adj
 brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
+brennbar adj
 britisch adj
+brutal adj cmp=brutaler sup=brutalsten
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten

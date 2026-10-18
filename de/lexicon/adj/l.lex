@@ -11,16 +11,21 @@ lateinisch adj
 laut adj cmp=lauter sup=lautesten
 lauter adj indecl sense=mere note=lauter Unsinn; cf. comparative of laut
 lauter adj sense=pure note=lautere Absichten; not compared
+lauwarm adj
 lebendig adj cmp=lebendiger sup=lebendigsten
 lebhaft adj cmp=lebhafter sup=lebhaftesten
 ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
+lehrreich adj cmp=lehrreicher sup=lehrreichsten
 leicht adj cmp=leichter sup=leichtesten
 leid adj pred_only note=only predicative in leid tun, leid sein; the noun is Leid
 leidenschaftlich adj cmp=leidenschaftlicher sup=leidenschaftlichsten
 leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten
+leitend adj
+lesbar adj cmp=lesbarer sup=lesbarsten
+leserlich adj cmp=leserlicher sup=leserlichsten
 letzt adj note=not compared; attributive and nominal
 letzter adj attr_only note=der letztere (the latter); cf. letzt
 liberal adj cmp=liberaler sup=liberalsten
@@ -29,11 +34,15 @@ lieb adj cmp=lieber sup=liebsten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
 lieblich adj cmp=lieblicher sup=lieblichsten
 lila         adj indecl
+linear adj
 link adj attr_only note=attributive only; linke Hand
 literarisch adj
+live adj indecl
 locker adj cmp=lockerer sup=lockersten
 logisch adj cmp=logischer sup=logischsten
 lokal adj
 los adj note=predicative, e.g. etwas los sein
+löslich adj
 lustig adj cmp=lustiger sup=lustigsten
 lutherisch adj
+lyrisch adj

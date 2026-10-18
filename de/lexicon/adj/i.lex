@@ -8,6 +8,7 @@ indirekt adj
 indisch adj
 individuell adj cmp=individueller sup=individuellsten
 industriell adj
+informativ adj
 inhaltlich adj
 inländisch adj
 inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl; positional, no comparative
@@ -15,16 +16,22 @@ innerlich adj
 innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 intensiv adj cmp=intensiver sup=intensivsten
+interaktiv adj
 interessant adj cmp=interessanter sup=interessantesten
 interfraktionell adj
 intern adj
 international adj
+intolerant adj
+intransitiv adj
 irakisch adj
 iranisch adj
 irdisch adj
 irisch adj
+ironisch adj cmp=ironischer sup=ironischsten
+irrational adj
 irre adj cmp=irrer sup=irrsten
 islamisch adj
 islamistisch adj
+isolierend adj
 israelisch adj
 italienisch adj

@@ -1,8 +1,16 @@
+Vanitas noun g=f gen=Vanitas pl=- note=no plural
+Variable noun g=f gen=Variable pl=Variablen
 Variante noun g=f gen=Variante pl=Varianten
 Variation noun g=f gen=Variation pl=Variationen
+Vasall noun g=m gen=Vasallen pl=Vasallen
 Vater noun g=m gen=Vaters pl=Väter
 Vaterland noun g=n gen=Vaterlands|Vaterlandes pl=Vaterländer
+Veganer noun g=m gen=Veganers pl=Veganer
+Veganerin noun g=f gen=Veganerin pl=Veganerinnen
+Vegetarier noun g=m gen=Vegetariers pl=Vegetarier
+Vegetarierin noun g=f gen=Vegetarierin pl=Vegetarierinnen
 Vegetation noun g=f gen=Vegetation pl=Vegetationen
+Vektor noun g=m gen=Vektors pl=Vektoren
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
 Veränderung noun g=f gen=Veränderung pl=Veränderungen
@@ -14,6 +22,7 @@ Verantwortlichkeit noun g=f gen=Verantwortlichkeit pl=Verantwortlichkeiten
 Verantwortung noun g=f gen=Verantwortung pl=Verantwortungen[rare]
 Verarbeitung noun g=f gen=Verarbeitung pl=Verarbeitungen
 Veräußerung noun g=f gen=Veräußerung pl=Veräußerungen
+Verb noun g=n gen=Verbs pl=Verben
 Verband noun g=m gen=Verbandes|Verbands pl=Verbände
 Verbesserung noun g=f gen=Verbesserung pl=Verbesserungen
 Verbeugung noun g=f gen=Verbeugung pl=Verbeugungen
@@ -26,12 +35,14 @@ Verbraucher noun g=m gen=Verbrauchers pl=Verbraucher
 Verbraucherin noun g=f gen=Verbraucherin pl=Verbraucherinnen
 Verbrechen noun g=n gen=Verbrechens pl=Verbrechen
 Verbrecher noun g=m gen=Verbrechers pl=Verbrecher
+Verbrecherin noun g=f gen=Verbrecherin pl=Verbrecherinnen
 Verbreitung noun g=f gen=Verbreitung pl=- note=no plural
 Verbreitungsgebiet noun g=n gen=Verbreitungsgebiets|Verbreitungsgebietes pl=Verbreitungsgebiete
 Verbrennung noun g=f gen=Verbrennung pl=Verbrennungen
 Verbund noun g=m gen=Verbunds|Verbundes pl=Verbünde
 Verbündete noun g=m|f decl=adj note=ally
 Verdacht noun g=m gen=Verdachts|Verdachtes pl=Verdachte|Verdächte[rare]
+Verdauung noun g=f gen=Verdauung pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
 Verdrängung noun g=f gen=Verdrängung pl=- note=no plural in practice
@@ -42,9 +53,11 @@ Vereinbarkeit noun g=f gen=Vereinbarkeit pl=- note=no plural
 Vereinbarung noun g=f gen=Vereinbarung pl=Vereinbarungen
 Vereinfachung noun g=f gen=Vereinfachung pl=Vereinfachungen
 Vereinigung noun g=f gen=Vereinigung pl=Vereinigungen
+Vererbung noun g=f gen=Vererbung pl=- note=no plural
 Verfahren noun g=n gen=Verfahrens pl=Verfahren
 Verfall noun g=m gen=Verfalls|Verfalles pl=- note=no plural
 Verfasser noun g=m gen=Verfassers pl=Verfasser
+Verfasserin noun g=f gen=Verfasserin pl=Verfasserinnen
 Verfassung noun g=f gen=Verfassung pl=Verfassungen
 Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
@@ -52,6 +65,8 @@ Verfügbarkeit noun g=f gen=Verfügbarkeit pl=- note=no plural
 Verfügung noun g=f gen=Verfügung pl=Verfügungen
 Vergabe noun g=f gen=Vergabe pl=Vergaben
 Vergangenheit noun g=f gen=Vergangenheit pl=Vergangenheiten[rare]
+Vergänglichkeit noun g=f gen=Vergänglichkeit pl=- note=no plural
+Vergebung noun g=f gen=Vergebung pl=- note=no plural
 Vergehen noun g=n gen=Vergehens pl=Vergehen note=offence
 Vergessenheit noun g=f gen=Vergessenheit pl=- note=no plural
 Vergleich noun g=m gen=Vergleichs|Vergleiches[rare] pl=Vergleiche
@@ -70,6 +85,7 @@ Verjährung noun g=f gen=Verjährung pl=- note=no plural
 Verkauf noun g=m gen=Verkaufs|Verkaufes[rare] pl=Verkäufe
 Verkäufer noun g=m gen=Verkäufers pl=Verkäufer
 Verkehr noun g=m gen=Verkehrs|Verkehres[rare] pl=Verkehre[rare] note=mostly mass noun; plural Verkehre in technical use (traffic flows)
+Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkündung noun g=f gen=Verkündung pl=Verkündungen
 Verkürzung noun g=f gen=Verkürzung pl=Verkürzungen
@@ -120,11 +136,13 @@ Verschiebung noun g=f gen=Verschiebung pl=Verschiebungen
 Verschiedenheit noun g=f gen=Verschiedenheit pl=Verschiedenheiten
 Verschlechterung noun g=f gen=Verschlechterung pl=Verschlechterungen
 Verschmelzung noun g=f gen=Verschmelzung pl=Verschmelzungen
+Verschmutzung noun g=f gen=Verschmutzung pl=Verschmutzungen
 Verschulden noun g=n gen=Verschuldens pl=- note=no plural
 Verschuldung noun g=f gen=Verschuldung pl=- note=no plural
 Verschwörung noun g=f gen=Verschwörung pl=Verschwörungen
 Versender noun g=m gen=Versenders pl=Versender
 Versetzung noun g=f gen=Versetzung pl=Versetzungen
+Versfuß noun g=m gen=Versfußes pl=Versfüße
 Versicherer noun g=m gen=Versicherers pl=Versicherer
 Versicherte noun g=m|f decl=adj
 Versicherung noun g=f gen=Versicherung pl=Versicherungen
@@ -179,9 +197,12 @@ Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
 Vetter noun g=m gen=Vetters pl=Vettern
 Video noun g=n gen=Videos pl=Videos
+Videokonferenz noun g=f gen=Videokonferenz pl=Videokonferenzen
 Vieh noun g=n gen=Viehs|Viehes pl=- note=no plural
+Viehzucht noun g=f gen=Viehzucht pl=- note=no plural
 Vielfalt noun g=f gen=Vielfalt pl=- note=no plural
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
+Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
 Vikar noun g=m gen=Vikars pl=Vikare
 Villa noun g=f gen=Villa pl=Villen
@@ -189,6 +210,7 @@ Violine noun g=f gen=Violine pl=Violinen
 Violinist noun g=m gen=Violinisten pl=Violinisten
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Vision noun g=f gen=Vision pl=Visionen
+Vitamin noun g=n gen=Vitamins pl=Vitamine
 Vizekönig noun g=m gen=Vizekönigs pl=Vizekönige
 Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister
 Vizepräsident noun g=m gen=Vizepräsidenten pl=Vizepräsidenten
@@ -196,7 +218,13 @@ Vizepräsidentin noun g=f gen=Vizepräsidentin pl=Vizepräsidentinnen
 Vogel noun g=m gen=Vogels pl=Vögel
 Vogt noun g=m gen=Vogts|Vogtes pl=Vögte conf=85 note=historical title (bailiff); also a common surname
 Vogtei noun g=f gen=Vogtei pl=Vogteien
+Vokabel noun g=f gen=Vokabel pl=Vokabeln
+Vokabeltest noun g=m gen=Vokabeltests|Vokabeltestes pl=Vokabeltests
+Vokabular noun g=n gen=Vokabulars pl=Vokabulare
+Vokal noun g=m gen=Vokals pl=Vokale
 Volk noun g=n gen=Volkes|Volks pl=Völker
+Völkermord noun g=m gen=Völkermords|Völkermordes pl=Völkermorde
+Volksentscheid noun g=m gen=Volksentscheids|Volksentscheides pl=Volksentscheide
 Volkswagen noun g=m gen=Volkswagens pl=Volkswagen note=brand and company; also the car
 Vollendung noun g=f gen=Vollendung pl=- note=no plural
 Volleyball noun g=m gen=Volleyballs pl=Volleybälle
@@ -207,6 +235,7 @@ Vollstreckung noun g=f gen=Vollstreckung pl=Vollstreckungen
 Vollzeit noun g=f gen=Vollzeit pl=- note=no plural
 Vollzug noun g=m gen=Vollzugs|Vollzuges pl=- note=no plural
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
+Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen
 Vorbehalt noun g=m gen=Vorbehalts|Vorbehaltes pl=Vorbehalte
 Vorbereitung noun g=f gen=Vorbereitung pl=Vorbereitungen
@@ -250,6 +279,7 @@ Vorschein noun g=m gen=Vorscheins pl=- note=zum Vorschein kommen; no plural
 Vorschlag noun g=m gen=Vorschlags|Vorschlages[rare] pl=Vorschläge
 Vorschrift noun g=f gen=Vorschrift pl=Vorschriften
 Vorsicht noun g=f gen=Vorsicht pl=- note=no plural
+Vorsilbe noun g=f gen=Vorsilbe pl=Vorsilben
 Vorsitz noun g=m gen=Vorsitzes pl=- note=no plural
 Vorsitzende noun g=m|f decl=adj
 Vorsorge noun g=f gen=Vorsorge pl=- note=no plural

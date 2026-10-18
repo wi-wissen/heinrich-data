@@ -8,11 +8,13 @@ offenkundig adj cmp=offenkundiger sup=offenkundigsten
 offensichtlich adj
 öffentlich adj
 offiziell adj
+offline adj indecl
 ohnmächtig adj
 okay adj indecl
 ökologisch adj
 ökonomisch adj
 olympisch adj
+online adj indecl
 operativ adj
 optimal adj
 optisch adj

@@ -1,10 +1,13 @@
 ganz adj note=the adverb is in closed/
+gasförmig adj
+gebeugt adj
 geborgen adj
 gebräuchlich adj
 geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
+gefälscht adj
 gegenseitig adj
 gegenwärtig adj
 geheim adj
@@ -40,6 +43,7 @@ geschwind adj cmp=geschwinder sup=geschwindesten
 gesellschaftlich adj
 gesetzlich adj
 gesondert adj
+gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
@@ -50,13 +54,17 @@ gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden wi
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewiss adj cmp=gewisser sup=gewissesten
+gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+giftig adj cmp=giftiger sup=giftigsten
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
+gläubig adj cmp=gläubiger sup=gläubigsten
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
+gleichberechtigt adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
@@ -69,6 +77,8 @@ golden adj
 gotisch adj
 göttlich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
+grammatikalisch adj
+grammatisch adj
 grau adj cmp=grauer sup=grauesten
 grausam adj cmp=grausamer sup=grausamsten
 grenzüberschreitend adj

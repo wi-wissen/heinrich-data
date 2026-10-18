@@ -4,6 +4,7 @@ laden verb class=strong 3sg=lädt past=lud pp=geladen subj2=lüde perf=haben
 lagern verb class=weak pp=gelagert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
 lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe perf=haben note=also causative auxiliary (ich lasse ihn kommen); Ersatzinfinitiv hat kommen lassen
+lästern verb class=weak pp=gelästert perf=haben
 laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf=sein
 lauschen verb class=weak pp=gelauscht perf=haben
 lauten verb class=weak pp=gelautet perf=haben
@@ -23,6 +24,7 @@ lichten verb class=weak pp=gelichtet perf=haben refl=acc note=Anker lichten; der
 lieben verb class=weak pp=geliebt perf=haben
 liefern verb class=weak pp=geliefert perf=haben
 liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|sein note=perf with sein in southern Germany/AT/CH
+liken verb class=weak pp=gelikt perf=haben
 listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)
 loben verb class=weak pp=gelobt perf=haben
 locken verb class=weak pp=gelockt perf=haben
