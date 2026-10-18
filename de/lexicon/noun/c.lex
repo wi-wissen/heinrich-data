@@ -6,11 +6,15 @@ Camperin noun g=f gen=Camperin pl=Camperinnen
 Camping noun g=n gen=Campings pl=- note=mass noun
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
+Canyon noun g=m gen=Canyons pl=Canyons
+Cap noun g=n gen=Caps pl=Caps
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän
 Capitel noun g=n gen=Capitels pl=Capitel spelling=old style=archaic note=old spelling of Kapitel
 Carsharing noun g=n gen=Carsharings pl=- note=no plural (mass or abstract noun)
 Cartoon noun g=m|n gen=Cartoons pl=Cartoons
 Casanova noun g=m gen=Casanovas pl=Casanovas
+Cashew noun g=f gen=Cashew pl=Cashews
+Casino noun g=n gen=Casinos pl=Casinos
 CD noun g=f gen=CD pl=CDs note=Compact Disc
 Cello noun g=n gen=Cellos pl=Cellos|Celli
 Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn Cent)
@@ -18,12 +22,14 @@ Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcen
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
 Challenge noun g=f gen=Challenge pl=Challenges conf=75 note=English loanword; gender unsure
 Chamäleon noun g=n gen=Chamäleons pl=Chamäleons
+Champagner noun g=m gen=Champagners pl=Champagner
 Champignon noun g=m gen=Champignons pl=Champignons
 Champion noun g=m gen=Champions pl=Champions
 Chance        noun g=f gen=Chance pl=Chancen
 Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
+Charme noun g=m gen=Charmes pl=- note=no plural
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
@@ -31,6 +37,7 @@ Chatbot noun g=m gen=Chatbots pl=Chatbots
 Chauffeur noun g=m gen=Chauffeurs pl=Chauffeure
 Chauffeurin noun g=f gen=Chauffeurin pl=Chauffeurinnen
 Chaussee noun g=f gen=Chaussee pl=Chausseen
+Cheeseburger noun g=m gen=Cheeseburgers pl=Cheeseburger
 Chef noun g=m gen=Chefs pl=Chefs
 Chefin noun g=f gen=Chefin pl=Chefinnen
 Chemie noun g=f gen=Chemie pl=-  note=no plural
@@ -51,6 +58,7 @@ Christ noun g=m gen=Christen pl=Christen
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christin noun g=f gen=Christin pl=Christinnen
 Chronik noun g=f gen=Chronik pl=Chroniken
+Chronist noun g=m gen=Chronisten pl=Chronisten
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
 Clip noun g=m gen=Clips pl=Clips
@@ -87,10 +95,12 @@ Cover noun g=n gen=Covers pl=Covers
 Covid noun g=n gen=Covid|Covids pl=- conf=60 note=COVID-19; gender fluctuates
 Cowboy noun g=m gen=Cowboys pl=Cowboys
 Creme noun g=f gen=Creme pl=Cremes|Cremen
+Crêpe noun g=m|f gen=Crêpe pl=Crêpes
 Crew noun g=f gen=Crew pl=Crews
 Cricket noun g=n gen=Crickets pl=- note=sport; no plural
 Croissant noun g=n gen=Croissants pl=Croissants
 Cultur noun g=f gen=Cultur pl=Culturen spelling=old style=archaic note=old spelling of Kultur
+Cupcake noun g=m gen=Cupcakes pl=Cupcakes
 Curry noun g=m|n gen=Currys pl=Currys
 Currywurst noun g=f gen=Currywurst pl=Currywürste
 Cursor noun g=m gen=Cursors pl=Cursor|Cursors

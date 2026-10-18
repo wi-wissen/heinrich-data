@@ -1,6 +1,7 @@
 rachsüchtig adj cmp=rachsüchtiger sup=rachsüchtigsten
 radikal adj cmp=radikaler sup=radikalsten
 radioaktiv adj
+rasant adj
 rasch adj cmp=rascher sup=raschesten
 rassistisch adj
 rational adj
@@ -54,6 +55,7 @@ römisch adj
 rosa         adj indecl
 rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj
+rötlich adj
 rückgängig adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj

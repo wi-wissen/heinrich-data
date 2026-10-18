@@ -9,6 +9,7 @@ Qualität noun g=f gen=Qualität pl=Qualitäten
 Qualle noun g=f gen=Qualle pl=Quallen
 Quantität noun g=f gen=Quantität pl=Quantitäten
 Quantum noun g=n gen=Quantums pl=Quanten
+Quarantäne noun g=f gen=Quarantäne pl=Quarantänen
 Quark noun g=m gen=Quarks pl=- note=no plural
 Quartal noun g=n gen=Quartals pl=Quartale
 Quartett noun g=n gen=Quartetts|Quartettes pl=Quartette

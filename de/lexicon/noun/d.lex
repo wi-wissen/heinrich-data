@@ -16,6 +16,8 @@ Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Dankeschön noun g=n gen=Dankeschöns pl=Dankeschöns
+Darbietung noun g=f gen=Darbietung pl=Darbietungen
+Darlegung noun g=f gen=Darlegung pl=Darlegungen
 Darlehen noun g=n gen=Darlehens pl=Darlehen
 Darm noun g=m gen=Darms|Darmes pl=Därme
 Darsteller noun g=m gen=Darstellers pl=Darsteller
@@ -42,9 +44,11 @@ Deckung noun g=f gen=Deckung pl=Deckungen
 Definition noun g=f gen=Definition pl=Definitionen
 Defizit noun g=n gen=Defizits pl=Defizite
 Degen noun g=m gen=Degens pl=Degen
+Deich noun g=m gen=Deichs|Deiches pl=Deiche
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
 Deklination noun g=f gen=Deklination pl=Deklinationen
+Dekoration noun g=f gen=Dekoration pl=Dekorationen
 Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
 Delegation noun g=f gen=Delegation pl=Delegationen
 Delegierte noun g=m|f decl=adj
@@ -71,9 +75,11 @@ Deponie noun g=f gen=Deponie pl=Deponien
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
 Derby noun g=n gen=Derbys pl=Derbys
+Desaster noun g=n gen=Desasters pl=Desaster
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
 Designerin noun g=f gen=Designerin pl=Designerinnen
+Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Dessert noun g=n gen=Desserts pl=Desserts
 Detail noun g=n gen=Details pl=Details
@@ -88,10 +94,12 @@ Dezimalzahl noun g=f gen=Dezimalzahl pl=Dezimalzahlen
 Diabetes noun g=m gen=Diabetes pl=- note=no plural
 Diagnose noun g=f gen=Diagnose pl=Diagnosen
 Diagnostik noun g=f gen=Diagnostik pl=- note=no plural
+Diagnostiker noun g=m gen=Diagnostikers pl=Diagnostiker
 Diagonale noun g=f gen=Diagonale pl=Diagonalen
 Diagramm noun g=n gen=Diagramms pl=Diagramme
 Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
+Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
 Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
@@ -115,6 +123,7 @@ Diesel noun g=m gen=Diesels pl=Diesel
 Dietrich noun g=m gen=Dietrichs pl=Dietriche
 Differenz noun g=f gen=Differenz pl=Differenzen
 Differenzierung noun g=f gen=Differenzierung pl=Differenzierungen
+Digitalisat noun g=n gen=Digitalisats|Digitalisates pl=Digitalisate
 Digitalisierung noun g=f gen=Digitalisierung pl=- note=no plural
 Diktat noun g=n gen=Diktats|Diktates pl=Diktate
 Diktator noun g=m gen=Diktators pl=Diktatoren
@@ -126,6 +135,7 @@ Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Dingo noun g=m gen=Dingos pl=Dingos
 Diözese noun g=f gen=Diözese pl=Diözesen
+Dip noun g=m gen=Dips pl=Dips
 Diplom noun g=n gen=Diploms|Diplomes[rare] pl=Diplome
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
 Diplomatie noun g=f gen=Diplomatie pl=- note=no plural
@@ -135,6 +145,7 @@ Direktor      noun g=m gen=Direktors pl=Direktoren
 Direktorin noun g=f gen=Direktorin pl=Direktorinnen
 Dirigent noun g=m gen=Dirigenten pl=Dirigenten
 Dirigentin noun g=f gen=Dirigentin pl=Dirigentinnen
+Dirne noun g=f gen=Dirne pl=Dirnen
 Disco noun g=f gen=Disco pl=Discos
 Diskothek noun g=f gen=Diskothek pl=Diskotheken
 Diskriminierung noun g=f gen=Diskriminierung pl=Diskriminierungen
@@ -152,6 +163,7 @@ Division      noun g=f gen=Division pl=Divisionen
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
+Docke noun g=f gen=Docke pl=Docken
 Doge noun g=m gen=Dogen pl=Dogen
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
@@ -164,6 +176,8 @@ Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Dolmetscher noun g=m gen=Dolmetschers pl=Dolmetscher
 Dolmetscherin noun g=f gen=Dolmetscherin pl=Dolmetscherinnen
 Dom noun g=m gen=Doms|Domes pl=Dome
+Domäne noun g=f gen=Domäne pl=Domänen
+Dominanz noun g=f gen=Dominanz pl=- note=no plural
 Dominostein noun g=m gen=Dominosteins|Dominosteines pl=Dominosteine
 Döner noun g=m gen=Döners pl=Döner
 Donner noun g=m gen=Donners pl=- note=thunder; no plural
@@ -183,6 +197,8 @@ Dozent noun g=m gen=Dozenten pl=Dozenten
 Dozentin noun g=f gen=Dozentin pl=Dozentinnen
 Drache noun g=m gen=Drachen pl=Drachen
 Drachen noun g=m gen=Drachens pl=Drachen
+Drachme noun g=f gen=Drachme pl=Drachmen
+Dragoner noun g=m gen=Dragoners pl=Dragoner
 Draht noun g=m gen=Drahts|Drahtes pl=Drähte
 Drama noun g=n gen=Dramas pl=Dramen
 Dramatik noun g=f gen=Dramatik pl=- note=no plural
@@ -191,7 +207,9 @@ Dramatikerin noun g=f gen=Dramatikerin pl=Dramatikerinnen
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
+Drehung noun g=f gen=Drehung pl=Drehungen
 Dreieck noun g=n gen=Dreiecks|Dreieckes[rare] pl=Dreiecke
+Dreifaltigkeit noun g=f gen=Dreifaltigkeit pl=- note=no plural
 Dreirad noun g=n gen=Dreirads|Dreirades pl=Dreiräder
 Dreisatz noun g=m gen=Dreisatzes pl=- note=no plural
 Dreisprung noun g=m gen=Dreisprungs|Dreisprunges pl=Dreisprünge
@@ -211,8 +229,10 @@ Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
 Druckerin noun g=f gen=Druckerin pl=Druckerinnen
 Dschungel noun g=m gen=Dschungels pl=Dschungel
+Dübel noun g=m gen=Dübels pl=Dübel
 Dudelsack noun g=m gen=Dudelsacks|Dudelsackes pl=Dudelsäcke
 Duell noun g=n gen=Duells pl=Duelle
+Duett noun g=n gen=Duetts|Duettes pl=Duette
 Duft noun g=m gen=Duftes|Dufts pl=Düfte
 Dukat noun g=m gen=Dukaten pl=Dukaten
 Duldung noun g=f gen=Duldung pl=- note=no plural
@@ -227,6 +247,7 @@ Duo noun g=n gen=Duos pl=Duos
 Durchbruch noun g=m gen=Durchbruchs|Durchbruches pl=Durchbrüche
 Durchführung  noun g=f gen=Durchführung pl=- note=no regular plural
 Durchgang noun g=m gen=Durchgangs|Durchganges pl=Durchgänge
+Durchlaucht noun g=f gen=Durchlaucht pl=Durchlauchten
 Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser
 Durchschnitt noun g=m gen=Durchschnitts|Durchschnittes pl=Durchschnitte
 Durchsetzung noun g=f gen=Durchsetzung pl=- note=no plural

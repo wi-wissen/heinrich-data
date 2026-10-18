@@ -5,10 +5,12 @@ Wachstum noun g=n gen=Wachstums pl=- note=mass noun
 Wachtel noun g=f gen=Wachtel pl=Wachteln
 Wächter noun g=m gen=Wächters pl=Wächter
 Wächterin noun g=f gen=Wächterin pl=Wächterinnen
+Wachtmeister noun g=m gen=Wachtmeisters pl=Wachtmeister
 Wade noun g=f gen=Wade pl=Waden
 Waffe noun g=f gen=Waffe pl=Waffen
 Waffel noun g=f gen=Waffel pl=Waffeln
 Wagen noun g=m gen=Wagens pl=Wagen|Wägen[AT]
+Waggon noun g=m gen=Waggons pl=Waggons
 Wahl noun g=f gen=Wahl pl=Wahlen
 Wähler noun g=m gen=Wählers pl=Wähler
 Wählerin noun g=f gen=Wählerin pl=Wählerinnen
@@ -32,10 +34,12 @@ Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
 Walze noun g=f gen=Walze pl=Walzen
+Walzer noun g=m gen=Walzers pl=Walzer
 Wand noun g=f gen=Wand pl=Wände
 Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
 Wanderschuhe noun g=pl
+Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
@@ -84,9 +88,11 @@ Weihe noun g=f gen=Weihe pl=Weihen
 Weiher noun g=m gen=Weihers pl=Weiher
 Weihnachten noun g=pl
 Weihnachtsbaum noun g=m gen=Weihnachtsbaums|Weihnachtsbaumes pl=Weihnachtsbäume
+Weihnachtsferien noun g=pl
 Weihnachtslied noun g=n gen=Weihnachtslieds|Weihnachtsliedes pl=Weihnachtslieder
 Weihnachtsmann noun g=m gen=Weihnachtsmanns|Weihnachtsmannes pl=Weihnachtsmänner
 Weihnachtsmarkt noun g=m gen=Weihnachtsmarkts|Weihnachtsmarktes pl=Weihnachtsmärkte
+Weilchen noun g=n gen=Weilchens pl=- note=ein Weilchen
 Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
@@ -96,7 +102,7 @@ Weisheit noun g=f gen=Weisheit pl=Weisheiten
 Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
 Weisung noun g=f gen=Weisung pl=Weisungen
 Weite noun g=f gen=Weite pl=Weiten
-Weiterbildung noun g=f gen=Weiterbildung pl=- note=no plural
+Weiterbildung noun g=f gen=Weiterbildung pl=Weiterbildungen[rare]
 Weiterentwicklung noun g=f gen=Weiterentwicklung pl=Weiterentwicklungen
 Weitergabe noun g=f gen=Weitergabe pl=- note=no plural
 Weitsprung noun g=m gen=Weitsprungs|Weitsprunges pl=Weitsprünge
@@ -135,6 +141,7 @@ Wettkampf noun g=m gen=Wettkampfs|Wettkampfes pl=Wettkämpfe
 WG noun g=f gen=WG pl=WGs note=abbreviation of Wohngemeinschaft
 Whisky noun g=m gen=Whiskys pl=Whiskys
 Whiteboard noun g=n gen=Whiteboards pl=Whiteboards
+Wichtel noun g=m gen=Wichtels pl=Wichtel
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
 Widder noun g=m gen=Widders pl=Widder
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
@@ -143,8 +150,11 @@ Widerstand noun g=m gen=Widerstandes|Widerstands pl=Widerstände
 Widerstandskämpfer noun g=m gen=Widerstandskämpfers pl=Widerstandskämpfer
 Wiederaufbau noun g=m gen=Wiederaufbaus|Wiederaufbaues pl=- note=no plural
 Wiederaufforstung noun g=f gen=Wiederaufforstung pl=Wiederaufforstungen
+Wiederbelebung noun g=f gen=Wiederbelebung pl=Wiederbelebungen
+Wiedergutmachung noun g=f gen=Wiedergutmachung pl=- note=no plural
 Wiederherstellung noun g=f gen=Wiederherstellung pl=- note=no plural
 Wiederholung noun g=f gen=Wiederholung pl=Wiederholungen
+Wiederkehr noun g=f gen=Wiederkehr pl=- note=no plural
 Wiedersehen noun g=n gen=Wiedersehens pl=Wiedersehen
 Wiedervereinigung noun g=f gen=Wiedervereinigung pl=Wiedervereinigungen
 Wiege noun g=f gen=Wiege pl=Wiegen
@@ -159,12 +169,14 @@ Wildwuchs noun g=m gen=Wildwuchses pl=- note=no plural
 Wille noun g=m gen=Willens pl=Willen
 Willkür noun g=f gen=Willkür pl=- note=no plural
 Wimper noun g=f gen=Wimper pl=Wimpern
+Wimperntusche noun g=f gen=Wimperntusche pl=Wimperntuschen
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
 Windpocken noun g=pl
 Windrad noun g=n gen=Windrads|Windrades pl=Windräder
 Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
+Winterferien noun g=pl
 Winzer noun g=m gen=Winzers pl=Winzer
 Winzerin noun g=f gen=Winzerin pl=Winzerinnen
 Wipfel noun g=m gen=Wipfels pl=Wipfel
@@ -178,6 +190,7 @@ Wirklichkeitsform noun g=f gen=Wirklichkeitsform pl=Wirklichkeitsformen
 Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
 Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
+Wirren noun g=pl
 Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
 Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
@@ -190,16 +203,19 @@ Wissenschaftler noun g=m gen=Wissenschaftlers pl=Wissenschaftler
 Wissenschaftlerin noun g=f gen=Wissenschaftlerin pl=Wissenschaftlerinnen
 Witterung noun g=f gen=Witterung pl=Witterungen
 Witwe noun g=f gen=Witwe pl=Witwen
+Witwer noun g=m gen=Witwers pl=Witwer
 Witz noun g=m gen=Witzes pl=Witze
 WLAN noun g=n gen=WLAN|WLANs pl=WLANs|WLAN
 WM noun g=f gen=WM pl=WMs note=Weltmeisterschaft; die WM
 Woche noun g=f gen=Woche pl=Wochen
+Wochenende noun g=n gen=Wochenendes pl=Wochenenden
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
 Wohlstand noun g=m gen=Wohlstands|Wohlstandes pl=- note=no plural
 Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
 Wohnblock noun g=m gen=Wohnblocks pl=Wohnblöcke|Wohnblocks
+Wohnfläche noun g=f gen=Wohnfläche pl=Wohnflächen
 Wohngebiet noun g=n gen=Wohngebiets|Wohngebietes pl=Wohngebiete
 Wohnhaus noun g=n gen=Wohnhauses pl=Wohnhäuser
 Wohnmobil noun g=n gen=Wohnmobils pl=Wohnmobile note=the analyser would take the adjective mobil as head
@@ -221,8 +237,10 @@ Workshop noun g=m gen=Workshops pl=Workshops
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
+Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
+Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
 Wunde noun g=f gen=Wunde pl=Wunden
 Wunder noun g=n gen=Wunders pl=Wunder

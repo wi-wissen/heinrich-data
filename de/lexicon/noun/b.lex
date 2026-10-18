@@ -15,6 +15,7 @@ Badematte noun g=f gen=Badematte pl=Badematten note=compound; the analyser would
 Badewanne noun g=f gen=Badewanne pl=Badewannen
 Badminton noun g=n gen=Badmintons pl=- note=sport; no plural
 BAföG noun g=n gen=BAföG|BAföGs pl=- note=Bundesausbildungsförderungsgesetz
+Bagel noun g=m gen=Bagels pl=Bagels
 Bagger noun g=m gen=Baggers pl=Bagger
 Baguette noun g=f gen=Baguette pl=Baguettes
 Bahn          noun g=f gen=Bahn pl=Bahnen
@@ -48,12 +49,14 @@ Baptist noun g=m gen=Baptisten pl=Baptisten
 Baptistin noun g=f gen=Baptistin pl=Baptistinnen
 Bar noun g=f gen=Bar pl=Bars sense=pub note=die Bar: pub, counter
 Bär noun g=m gen=Bären pl=Bären
+Bariton noun g=m gen=Baritons pl=Baritone
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
 Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
 Baron         noun g=m gen=Barons pl=Barone
 Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
 Barrierefreiheit noun g=f gen=Barrierefreiheit pl=- note=no plural
+Barsch noun g=m gen=Barschs|Barsches pl=Barsche
 Bart noun g=m gen=Barts|Bartes pl=Bärte
 Basar noun g=m gen=Basars pl=Basare
 Base noun g=f gen=Base pl=Basen note=chemistry; also female cousin (archaic)
@@ -140,6 +143,7 @@ Begleiter noun g=m gen=Begleiters pl=Begleiter
 Begleiterin noun g=f gen=Begleiterin pl=Begleiterinnen
 Begleitsatz noun g=m gen=Begleitsatzes pl=Begleitsätze
 Begleitung noun g=f gen=Begleitung pl=Begleitungen
+Begräbnis noun g=n gen=Begräbnisses pl=Begräbnisse
 Begrenzung noun g=f gen=Begrenzung pl=Begrenzungen
 Begriff       noun g=m gen=Begriffs|Begriffes pl=Begriffe
 Begründer noun g=m gen=Begründers pl=Begründer
@@ -148,8 +152,10 @@ Begutachtung noun g=f gen=Begutachtung pl=Begutachtungen
 Behagen noun g=n gen=Behagens pl=- note=no plural
 Behälter noun g=m gen=Behälters pl=Behälter
 Behandlung    noun g=f gen=Behandlung pl=Behandlungen
+Behang noun g=m gen=Behangs|Behanges pl=Behänge
 Behauptung noun g=f gen=Behauptung pl=Behauptungen
 Behebung noun g=f gen=Behebung pl=- note=no plural
+Beherrschung noun g=f gen=Beherrschung pl=- note=no plural
 Behinderte noun g=m|f decl=adj
 Behinderung noun g=f gen=Behinderung pl=Behinderungen
 Behörde       noun g=f gen=Behörde pl=Behörden
@@ -158,8 +164,10 @@ Beifahrer noun g=m gen=Beifahrers pl=Beifahrer
 Beifahrerin noun g=f gen=Beifahrerin pl=Beifahrerinnen
 Beifall noun g=m gen=Beifalls pl=- note=mass noun
 Beihilfe noun g=f gen=Beihilfe pl=Beihilfen
+Beil noun g=n gen=Beils|Beiles pl=Beile
 Bein noun g=n gen=Beines|Beins pl=Beine
 Beirat noun g=m gen=Beirats|Beirates pl=Beiräte
+Beisein noun g=n gen=Beisein|Beiseins pl=- note=im Beisein von
 Beisitzer noun g=m gen=Beisitzers pl=Beisitzer
 Beispiel      noun g=n gen=Beispiels|Beispieles pl=Beispiele
 Beistand noun g=m gen=Beistandes|Beistands pl=Beistände
@@ -171,6 +179,7 @@ Bekanntgabe noun g=f gen=Bekanntgabe pl=Bekanntgaben
 Bekanntheit noun g=f gen=Bekanntheit pl=- note=mass noun
 Bekanntmachung noun g=f gen=Bekanntmachung pl=Bekanntmachungen
 Bekanntschaft noun g=f gen=Bekanntschaft pl=Bekanntschaften
+Bekehrung noun g=f gen=Bekehrung pl=Bekehrungen
 Bekenntnis noun g=n gen=Bekenntnisses pl=Bekenntnisse
 Belag noun g=m gen=Belags pl=Beläge
 Belagerung noun g=f gen=Belagerung pl=Belagerungen
@@ -181,6 +190,7 @@ Belehrung noun g=f gen=Belehrung pl=Belehrungen
 Beleidigung noun g=f gen=Beleidigung pl=Beleidigungen
 Beleuchter noun g=m gen=Beleuchters pl=Beleuchter
 Beleuchtung noun g=f gen=Beleuchtung pl=Beleuchtungen
+Belgier noun g=m gen=Belgiers pl=Belgier
 Belieben noun g=n gen=Beliebens pl=- note=nach Belieben; no plural
 Beliebtheit noun g=f gen=Beliebtheit pl=- note=no plural
 Belohnung noun g=f gen=Belohnung pl=Belohnungen
@@ -240,9 +250,13 @@ Bescherung noun g=f gen=Bescherung pl=Bescherungen
 Beschlagnahme noun g=f gen=Beschlagnahme pl=Beschlagnahmen
 Beschleunigung noun g=f gen=Beschleunigung pl=Beschleunigungen
 Beschluss     noun g=m gen=Beschlusses pl=Beschlüsse
+Beschneidung noun g=f gen=Beschneidung pl=Beschneidungen
 Beschränkung noun g=f gen=Beschränkung pl=Beschränkungen
 Beschreibung  noun g=f gen=Beschreibung pl=Beschreibungen
+Beschriftung noun g=f gen=Beschriftung pl=Beschriftungen
 Beschuldigte noun g=m|f decl=adj
+Beschuss noun g=m gen=Beschusses pl=- note=no plural
+Beschützer noun g=m gen=Beschützers pl=Beschützer
 Beschwerde noun g=f gen=Beschwerde pl=Beschwerden
 Beseitigung noun g=f gen=Beseitigung pl=- note=mass noun
 Besen noun g=m gen=Besens pl=Besen
@@ -260,13 +274,17 @@ Besonderheit noun g=f gen=Besonderheit pl=Besonderheiten
 Besorgnis noun g=f gen=Besorgnis pl=Besorgnisse
 Besprechung noun g=f gen=Besprechung pl=Besprechungen
 Besserung noun g=f gen=Besserung pl=- note=no plural
+Besserwisser noun g=m gen=Besserwissers pl=Besserwisser
 Bestand       noun g=m gen=Bestandes|Bestands pl=Bestände
 Bestandteil   noun g=m gen=Bestandteils|Bestandteiles pl=Bestandteile
 Bestätigung noun g=f gen=Bestätigung pl=Bestätigungen
+Bestattung noun g=f gen=Bestattung pl=Bestattungen
 Bestäubung noun g=f gen=Bestäubung pl=Bestäubungen
+Bestechung noun g=f gen=Bestechung pl=Bestechungen
 Besteck noun g=n gen=Bestecks|Besteckes pl=Bestecke
 Bestellung noun g=f gen=Bestellung pl=Bestellungen
 Besteuerung noun g=f gen=Besteuerung pl=Besteuerungen
+Bestie noun g=f gen=Bestie pl=Bestien
 Bestimmtheit noun g=f gen=Bestimmtheit pl=- note=mass noun
 Bestimmung    noun g=f gen=Bestimmung pl=Bestimmungen
 Bestrafung noun g=f gen=Bestrafung pl=Bestrafungen
@@ -313,6 +331,7 @@ Bevollmächtigte noun g=m|f decl=adj
 Bewaffnung noun g=f gen=Bewaffnung pl=Bewaffnungen
 Bewährung noun g=f gen=Bewährung pl=- note=no plural
 Bewältigung noun g=f gen=Bewältigung pl=- note=mass noun
+Bewässerung noun g=f gen=Bewässerung pl=- note=no plural
 Bewegung      noun g=f gen=Bewegung pl=Bewegungen
 Beweis noun g=m gen=Beweises pl=Beweise
 Bewerber      noun g=m gen=Bewerbers pl=Bewerber
@@ -339,6 +358,7 @@ Bibliothek noun g=f gen=Bibliothek pl=Bibliotheken
 Bibliothekar noun g=m gen=Bibliothekars pl=Bibliothekare
 Bibliothekarin noun g=f gen=Bibliothekarin pl=Bibliothekarinnen
 Biedermeier noun g=n gen=Biedermeiers pl=- note=no plural
+Biegung noun g=f gen=Biegung pl=Biegungen
 Biene noun g=f gen=Biene pl=Bienen
 Bier noun g=n gen=Bieres|Biers pl=Biere
 Bieter noun g=m gen=Bieters pl=Bieter
@@ -378,11 +398,15 @@ Bissen noun g=m gen=Bissens pl=Bissen
 Bistum noun g=n gen=Bistums pl=Bistümer
 Bit noun g=n gen=Bits pl=Bit|Bits
 Bitte         noun g=f gen=Bitte pl=Bitten
+Bitterkeit noun g=f gen=Bitterkeit pl=- note=no plural
+Blänke noun g=f gen=Blänke pl=Blänken conf=70 note=rare, regional
 Blankvers noun g=m gen=Blankverses pl=Blankverse
 Blase noun g=f gen=Blase pl=Blasen
 Blasonierung noun g=f gen=Blasonierung pl=Blasonierungen
 Blatt         noun g=n gen=Blattes|Blatts pl=Blätter
+Blättchen noun g=n gen=Blättchens pl=Blättchen
 Blattlaus noun g=f gen=Blattlaus pl=Blattläuse
+Blattspreite noun g=f gen=Blattspreite pl=Blattspreiten
 Blau noun g=n gen=Blau|Blaus pl=Blau|Blaus note=colour name
 Blazer noun g=m gen=Blazers pl=Blazer
 Blech noun g=n gen=Blechs|Bleches pl=Bleche
@@ -415,12 +439,14 @@ Böe noun g=f gen=Böe pl=Böen
 Bogen noun g=m gen=Bogens pl=Bögen|Bogen
 Bohne noun g=f gen=Bohne pl=Bohnen
 Bohrer noun g=m gen=Bohrers pl=Bohrer
+Bohrung noun g=f gen=Bohrung pl=Bohrungen
 Böller noun g=m gen=Böllers pl=Böller
 Bollerwagen noun g=m gen=Bollerwagens pl=Bollerwagen
 Bolzplatz noun g=m gen=Bolzplatzes pl=Bolzplätze
 Bombe noun g=f gen=Bombe pl=Bomben
 Bomber noun g=m gen=Bombers pl=Bomber
 Bon noun g=m gen=Bons pl=Bons
+Bonbon noun g=n|m gen=Bonbons pl=Bonbons
 Bonner noun g=m gen=Bonners pl=Bonner note=inhabitant of Bonn
 Boot          noun g=n gen=Bootes|Boots pl=Boote
 Bord          noun g=m gen=Bords|Bordes pl=Borde conf=70 note=an Bord; plural rare
@@ -429,6 +455,7 @@ Born noun g=m gen=Borns|Bornes pl=Borne conf=85 note=poetic: spring, well
 Börse noun g=f gen=Börse pl=Börsen
 Bösewicht noun g=m gen=Bösewichts|Bösewichtes pl=Bösewichte
 Bosheit noun g=f gen=Bosheit pl=Bosheiten
+Boss noun g=m gen=Bosses pl=Bosse
 Botanik noun g=f gen=Botanik pl=- note=no plural
 Botaniker noun g=m gen=Botanikers pl=Botaniker
 Botanikerin noun g=f gen=Botanikerin pl=Botanikerinnen
@@ -459,6 +486,7 @@ Braunschweiger noun g=m gen=Braunschweigers pl=Braunschweiger note=inhabitant of
 Braut noun g=f gen=Braut pl=Bräute
 Bräutigam noun g=m gen=Bräutigams pl=Bräutigame
 Brechung noun g=f gen=Brechung pl=Brechungen
+Brei noun g=m gen=Breis|Breies pl=Breie
 Breite        noun g=f gen=Breite pl=Breiten
 Bremer noun g=m gen=Bremers pl=Bremer note=inhabitant of Bremen
 Bremse noun g=f gen=Bremse pl=Bremsen
@@ -491,10 +519,13 @@ Bruch noun g=m gen=Bruchs|Bruches pl=Brüche
 Bruchteil noun g=m gen=Bruchteils|Bruchteiles pl=Bruchteile
 Brücke        noun g=f gen=Brücke pl=Brücken
 Bruder        noun g=m gen=Bruders pl=Brüder
+Brühe noun g=f gen=Brühe pl=Brühen
 Brunch noun g=m gen=Brunchs pl=Brunchs|Brunches
 Brunnen noun g=m gen=Brunnens pl=Brunnen
 Brust         noun g=f gen=Brust pl=Brüste
+Brüstung noun g=f gen=Brüstung pl=Brüstungen
 Brut noun g=f gen=Brut pl=Bruten
+Brutalität noun g=f gen=Brutalität pl=Brutalitäten
 Bube noun g=m gen=Buben pl=Buben
 Buch          noun g=n gen=Buches|Buchs pl=Bücher
 Buchdruck noun g=m gen=Buchdrucks|Buchdruckes pl=- note=no plural
@@ -502,6 +533,7 @@ Buche noun g=f gen=Buche pl=Buchen
 Bücherei noun g=f gen=Bücherei pl=Büchereien
 Bücherregal noun g=n gen=Bücherregals pl=Bücherregale
 Buchhalterin noun g=f gen=Buchhalterin pl=Buchhalterinnen
+Büchlein noun g=n gen=Büchleins pl=Büchlein
 Büchse noun g=f gen=Büchse pl=Büchsen
 Buchstabe     noun g=m gen=Buchstabens pl=Buchstaben
 Bucht noun g=f gen=Bucht pl=Buchten
@@ -532,7 +564,9 @@ Bundespräsidentin noun g=f gen=Bundespräsidentin pl=Bundespräsidentinnen
 Bundesrepublik noun g=f gen=Bundesrepublik pl=Bundesrepubliken
 Bündnis       noun g=n gen=Bündnisses pl=Bündnisse
 Bungalow noun g=m gen=Bungalows pl=Bungalows
+Bunker noun g=m gen=Bunkers pl=Bunker
 Bunsenbrenner noun g=m gen=Bunsenbrenners pl=Bunsenbrenner
+Buntstift noun g=m gen=Buntstifts|Buntstiftes pl=Buntstifte
 Burg          noun g=f gen=Burg pl=Burgen
 Burger noun g=m gen=Burgers pl=Burger
 Bürger        noun g=m gen=Bürgers pl=Bürger
@@ -544,6 +578,7 @@ Bürgermeisterin noun g=f gen=Bürgermeisterin pl=Bürgermeisterinnen
 Bürgerschaft noun g=f gen=Bürgerschaft pl=Bürgerschaften
 Bürgersteig noun g=m gen=Bürgersteigs|Bürgersteiges pl=Bürgersteige
 Burgherr noun g=m gen=Burgherrn pl=Burgherren
+Bürgschaft noun g=f gen=Bürgschaft pl=Bürgschaften
 Büro noun g=n gen=Büros pl=Büros
 Bürokratie noun g=f gen=Bürokratie pl=Bürokratien
 Bursch noun g=m gen=Burschen pl=Burschen conf=85 note=variant of Bursche (older, literary)

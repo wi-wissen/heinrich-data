@@ -1,5 +1,6 @@
 tadeln verb class=weak pp=getadelt perf=haben
 tafeln verb class=weak pp=getafelt perf=haben
+tagen verb class=weak pp=getagt perf=haben
 taggen verb class=weak pp=getaggt perf=haben
 tanken verb class=weak pp=getankt perf=haben
 tanzen       verb class=weak pp=getanzt perf=haben
@@ -21,8 +22,10 @@ telefonieren verb class=weak pp=telefoniert perf=haben
 testen verb class=weak pp=getestet perf=haben
 texten verb class=weak pp=getextet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
+tippeln verb class=weak pp=getippelt perf=sein
 tippen verb class=weak pp=getippt perf=haben
 tischlern verb class=weak pp=getischlert perf=haben
+toasten verb class=weak pp=getoastet perf=haben
 toben verb class=weak pp=getobt perf=haben|sein
 tollen verb class=weak pp=getollt perf=haben|sein
 tönen verb class=weak pp=getönt perf=haben
@@ -37,6 +40,7 @@ trällern verb class=weak pp=geträllert perf=haben
 trampeln verb class=weak pp=getrampelt perf=haben|sein
 trampen verb class=weak pp=getrampt perf=sein
 tränken verb class=weak pp=getränkt perf=haben
+transpirieren verb class=weak pp=transpiriert perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben
 trauen verb class=weak pp=getraut perf=haben refl=acc
@@ -48,6 +52,7 @@ trennen verb class=weak pp=getrennt perf=haben refl=acc
 treten verb class=strong 3sg=tritt past=trat pp=getreten subj2=träte perf=haben|sein
 tricksen verb class=weak pp=getrickst perf=haben
 triefen verb class=weak past=triefte|troff[archaic] pp=getrieft perf=haben|sein
+triezen verb class=weak pp=getriezt perf=haben style=colloquial
 trillern verb class=weak pp=getrillert perf=haben
 trinken verb class=strong 3sg=trinkt past=trank pp=getrunken subj2=tränke perf=haben
 trippeln verb class=weak pp=getrippelt perf=sein

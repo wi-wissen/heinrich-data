@@ -24,7 +24,9 @@ unangenehm adj cmp=unangenehmer sup=unangenehmsten
 unartig adj cmp=unartiger sup=unartigsten
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
+unbefangen adj
 unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
+unbegründet adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
@@ -41,8 +43,10 @@ undurchsichtig adj
 unehrlich adj cmp=unehrlicher sup=unehrlichsten
 uneingeschränkt adj
 unendlich adj
+unentbehrlich adj
 unentgeltlich adj
 unerlässlich adj
+unermüdlich adj
 unerreichbar adj
 unerträglich adj
 unerwartet adj cmp=unerwarteter sup=unerwartetsten
@@ -55,6 +59,7 @@ ungeeignet adj cmp=ungeeigneter sup=ungeeignetsten
 ungefähr adj
 ungeheuer adj attr=ungeheure cmp=ungeheurer sup=ungeheuersten
 ungehindert adj
+ungeklärt adj
 ungemein adj
 ungemütlich adj cmp=ungemütlicher sup=ungemütlichsten
 ungenau adj
@@ -90,11 +95,13 @@ unrecht adj
 unregelmäßig adj
 unrichtig adj
 unruhig adj
+unsäglich adj
 unscharf adj
 unschuldig adj
 unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
+unsinnig adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
@@ -102,10 +109,12 @@ unterirdisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
+unumgänglich adj
 ununterbrochen adj
 unverändert adj
 unverantwortlich adj cmp=unverantwortlicher sup=unverantwortlichsten
 unverhältnismäßig adj
+unvermeidlich adj
 unverschämt adj cmp=unverschämter sup=unverschämtesten
 unverständlich adj cmp=unverständlicher sup=unverständlichsten
 unverzichtbar adj

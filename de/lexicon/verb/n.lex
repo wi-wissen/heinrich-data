@@ -1,5 +1,6 @@
 nachahmen verb class=weak sep=nach pp=nachgeahmt perf=haben
 nachbauen verb class=weak sep=nach pp=nachgebaut perf=haben
+nachbereiten verb class=weak sep=nach pp=nachbereitet perf=haben
 nachbessern verb class=weak sep=nach pp=nachgebessert perf=haben
 nachbestellen verb class=weak sep=nach pp=nachgebestellt perf=haben
 nachbeten verb class=weak sep=nach pp=nachgebetet perf=haben
@@ -73,10 +74,12 @@ nachzahlen verb class=weak sep=nach pp=nachgezahlt perf=haben
 nachzählen verb class=weak sep=nach pp=nachgezählt perf=haben
 nachzeichnen verb class=weak sep=nach pp=nachgezeichnet perf=haben
 nachziehen verb class=strong sep=nach 3sg=nachzieht past=nachzog subj2=nachzöge pp=nachgezogen perf=haben|sein
+nageln verb class=weak pp=genagelt perf=haben
 nagen verb class=weak pp=genagt perf=haben
 nahen verb class=weak pp=genaht perf=sein
 nähen verb class=weak pp=genäht perf=haben
 nähern verb class=weak pp=genähert perf=haben refl=acc
+nähren verb class=weak pp=genährt perf=haben
 naschen verb class=weak pp=genascht perf=haben
 necken verb class=weak pp=geneckt perf=haben
 nehmen verb class=strong 3sg=nimmt past=nahm pp=genommen subj2=nähme perf=haben

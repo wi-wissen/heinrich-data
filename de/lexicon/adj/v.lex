@@ -1,6 +1,9 @@
+vage adj cmp=vager sup=vagesten
+variabel adj cmp=variabler sup=variabelsten
 väterlich adj
 vegan adj
 vegetarisch adj
+vehement adj cmp=vehementer sup=vehementesten
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verängstigt adj cmp=verängstigter sup=verängstigtesten
@@ -25,18 +28,21 @@ vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verkehrt adj cmp=verkehrter sup=verkehrtesten
+verklärt adj
 verklebt adj cmp=verklebter sup=verklebtesten
 verknittert adj
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
 verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
+vermessen adj cmp=vermessener sup=vermessensten sense=bold
 vermögend adj cmp=vermögender sup=vermögendsten
 vermutlich adj
 vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
 verschnupft adj
 verschollen adj
@@ -52,6 +58,7 @@ vertraulich adj cmp=vertraulicher sup=vertraulichsten
 verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
+verwunderlich adj
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj
 verzogen adj
@@ -72,6 +79,7 @@ vollziehbar adj
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
+vorgelagert adj
 vorgenannt adj
 vorhanden adj
 vorherig adj

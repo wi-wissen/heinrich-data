@@ -1,5 +1,6 @@
 rächen verb class=weak pp=gerächt perf=haben
 radeln verb class=weak pp=geradelt perf=sein
+radieren verb class=weak pp=radiert perf=haben
 räkeln verb class=weak pp=geräkelt perf=haben refl=acc
 ranken verb class=weak pp=gerankt perf=haben refl=acc
 rappen verb class=weak pp=gerappt perf=haben
@@ -11,6 +12,7 @@ rasseln verb class=weak pp=gerasselt perf=haben
 raten verb class=strong 3sg=rät past=riet pp=geraten subj2=riete perf=haben
 ratifizieren verb class=weak pp=ratifiziert perf=haben
 rätseln verb class=weak pp=gerätselt perf=haben
+rattern verb class=weak pp=gerattert perf=haben|sein
 rauben verb class=weak pp=geraubt perf=haben
 rauchen verb class=weak pp=geraucht perf=haben
 räuchern verb class=weak pp=geräuchert perf=haben
@@ -42,6 +44,7 @@ rauswerfen verb class=strong sep=raus 3sg=rauswirft past=rauswarf subj2=rauswür
 rausziehen verb class=strong sep=raus 3sg=rauszieht past=rauszog subj2=rauszöge pp=rausgezogen perf=haben
 reagieren verb class=weak pp=reagiert perf=haben
 realisieren verb class=weak pp=realisiert perf=haben
+rebellieren verb class=weak pp=rebelliert perf=haben
 recherchieren verb class=weak pp=recherchiert perf=haben
 rechnen verb class=weak pp=gerechnet perf=haben
 rechtfertigen verb class=weak pp=gerechtfertigt perf=haben refl=acc
@@ -50,6 +53,7 @@ recyceln verb class=weak pp=recycelt perf=haben note=Partizip II without ge- is 
 reden verb class=weak pp=geredet perf=haben
 reduzieren verb class=weak pp=reduziert perf=haben refl=acc
 referieren verb class=weak pp=referiert perf=haben
+reflektieren verb class=weak pp=reflektiert perf=haben
 reformieren verb class=weak pp=reformiert perf=haben
 regeln verb class=weak pp=geregelt perf=haben refl=acc
 regieren verb class=weak pp=regiert perf=haben
@@ -103,11 +107,14 @@ respektieren verb class=weak pp=respektiert perf=haben
 restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben
 retten verb class=weak pp=gerettet perf=haben
+revoltieren verb class=weak pp=revoltiert perf=haben
+rezitieren verb class=weak pp=rezitiert perf=haben
 richten verb class=weak pp=gerichtet perf=haben refl=acc
 riechen verb class=strong 3sg=riecht past=roch pp=gerochen subj2=röche perf=haben
 rieseln verb class=weak pp=gerieselt perf=sein
 ringen verb class=strong 3sg=ringt past=rang pp=gerungen subj2=ränge perf=haben
 rinnen verb class=strong 3sg=rinnt past=rann pp=geronnen subj2=ränne|rönne[rare] perf=sein
+riskieren verb class=weak pp=riskiert perf=haben
 robben verb class=weak pp=gerobbt perf=sein
 röcheln verb class=weak pp=geröchelt perf=haben
 rodeln verb class=weak pp=gerodelt perf=haben|sein
@@ -116,6 +123,7 @@ röhren verb class=weak pp=geröhrt perf=haben
 rollen verb class=weak pp=gerollt perf=haben|sein
 rosten verb class=weak pp=gerostet perf=haben|sein
 rösten verb class=weak pp=geröstet perf=haben
+rotieren verb class=weak pp=rotiert perf=haben|sein
 rotzen verb class=weak pp=gerotzt perf=haben
 rüberbringen verb class=mixed sep=rüber 3sg=rüberbringt past=rüberbrachte subj2=rüberbrächte pp=rübergebracht perf=haben
 rüberfahren verb class=strong sep=rüber 3sg=rüberfährt past=rüberfuhr subj2=rüberführe pp=rübergefahren perf=haben|sein

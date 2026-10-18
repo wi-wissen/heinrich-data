@@ -1,10 +1,12 @@
 backen verb class=strong 3sg=bäckt|backt past=backte|buk[archaic] pp=gebacken subj2=backte|büke[archaic] perf=haben
 baden verb class=weak pp=gebadet perf=haben refl=acc
+balgen verb class=weak pp=gebalgt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
 basieren verb class=weak pp=basiert perf=haben
 basteln verb class=weak pp=gebastelt perf=haben
 bauen         verb class=weak pp=gebaut perf=haben
+bauschen verb class=weak pp=gebauscht perf=haben
 beabsichtigen verb class=weak pp=beabsichtigt perf=haben
 beachten verb class=weak pp=beachtet perf=haben
 beanspruchen verb class=weak pp=beansprucht perf=haben
@@ -24,6 +26,7 @@ bedeuten      verb class=weak pp=bedeutet perf=haben
 bedienen verb class=weak refl=acc pp=bedient perf=haben
 bedingen verb class=weak pp=bedingt perf=haben
 bedrohen verb class=weak pp=bedroht perf=haben
+bedrücken verb class=weak pp=bedrückt perf=haben
 bedürfen      verb class=modal 3sg=bedarf past=bedurfte pp=bedurft subj2=bedürfte perf=haben note=with genitive (es bedarf eines Beschlusses)
 beeilen verb class=weak pp=beeilt perf=haben refl=acc
 beeindrucken verb class=weak pp=beeindruckt perf=haben part1_cmp
@@ -36,8 +39,10 @@ befahren verb class=strong 3sg=befährt past=befuhr pp=befahren subj2=beführe p
 befallen verb class=strong 3sg=befällt past=befiel pp=befallen subj2=befiele perf=haben
 befassen verb class=weak refl=acc pp=befasst perf=haben
 befehlen verb class=strong 3sg=befiehlt past=befahl pp=befohlen subj2=beföhle|befähle perf=haben
+befehligen verb class=weak pp=befehligt perf=haben
 befestigen verb class=weak pp=befestigt perf=haben
 befinden      verb class=strong refl=acc 3sg=befindet past=befand pp=befunden subj2=befände perf=haben
+befolgen verb class=weak pp=befolgt perf=haben
 befördern     verb class=weak pp=befördert perf=haben
 befragen verb class=weak pp=befragt perf=haben
 befreien verb class=weak refl=acc pp=befreit perf=haben
@@ -46,6 +51,7 @@ befriedigen verb class=weak pp=befriedigt perf=haben
 befristen verb class=weak pp=befristet perf=haben
 befruchten verb class=weak pp=befruchtet perf=haben
 befürchten verb class=weak pp=befürchtet perf=haben
+befürworten verb class=weak pp=befürwortet perf=haben
 begeben verb class=strong refl=acc 3sg=begibt past=begab pp=begeben subj2=begäbe perf=haben
 begegnen verb class=weak pp=begegnet perf=sein note=with dative
 begehen verb class=strong 3sg=begeht past=beging pp=begangen subj2=beginge perf=haben
@@ -54,6 +60,7 @@ begeistern verb class=weak refl=acc pp=begeistert perf=haben pp_cmp
 begießen verb class=strong 3sg=begießt past=begoss pp=begossen subj2=begösse perf=haben
 beginnen      verb class=strong 3sg=beginnt past=begann pp=begonnen subj2=begänne|begönne[rare] perf=haben
 beglaubigen verb class=weak pp=beglaubigt perf=haben
+begleichen verb class=strong 3sg=begleicht past=beglich pp=beglichen subj2=begliche perf=haben
 begleiten     verb class=weak pp=begleitet perf=haben
 begnadigen verb class=weak pp=begnadigt perf=haben
 begnügen verb class=weak pp=begnügt perf=haben refl=acc
@@ -80,9 +87,12 @@ beifügen verb class=weak sep=bei pp=beigefügt perf=haben
 beilegen verb class=weak sep=bei pp=beigelegt perf=haben
 beimessen verb class=strong sep=bei 3sg=beimisst past=beimaß subj2=beimäße pp=beigemessen perf=haben
 beinhalten verb class=weak pp=beinhaltet perf=haben
+beipflichten verb class=weak sep=bei pp=beigepflichtet perf=haben
 beisetzen verb class=weak sep=bei pp=beigesetzt perf=haben
 beißen verb class=strong 3sg=beißt past=biss pp=gebissen subj2=bisse perf=haben
+beistehen verb class=strong sep=bei 3sg=beisteht past=beistand pp=beigestanden subj2=beistünde|beistände perf=haben
 beitragen verb class=strong sep=bei 3sg=beiträgt past=beitrug pp=beigetragen subj2=beiträge perf=haben
+beitreten verb class=strong sep=bei 3sg=beitritt past=beitrat pp=beigetreten subj2=beiträte perf=sein
 bejahen verb class=weak pp=bejaht perf=haben
 bekämpfen     verb class=weak pp=bekämpft perf=haben
 bekanntgeben verb class=strong sep=bekannt 3sg=bekanntgibt past=bekanntgab pp=bekanntgegeben subj2=bekanntgäbe perf=haben note=also written bekannt geben
@@ -165,6 +175,7 @@ beschneiden verb class=strong 3sg=beschneidet past=beschnitt pp=beschnitten subj
 beschnuppern verb class=weak pp=beschnuppert perf=haben
 beschränken   verb class=weak pp=beschränkt perf=haben
 beschreiben   verb class=strong 3sg=beschreibt past=beschrieb pp=beschrieben subj2=beschriebe perf=haben
+beschreiten verb class=strong 3sg=beschreitet past=beschritt pp=beschritten subj2=beschritte perf=haben
 beschriften verb class=weak pp=beschriftet perf=haben
 beschuldigen verb class=weak pp=beschuldigt perf=haben
 beschützen verb class=weak pp=beschützt perf=haben
@@ -206,6 +217,7 @@ betätigen verb class=weak pp=betätigt perf=haben
 betäuben verb class=weak pp=betäubt perf=haben
 beteiligen    verb class=weak refl=acc pp=beteiligt perf=haben
 beten verb class=weak pp=gebetet perf=haben
+beteuern verb class=weak pp=beteuert perf=haben
 betonen verb class=weak pp=betont perf=haben
 betrachten    verb class=weak pp=betrachtet perf=haben
 betragen      verb class=strong 3sg=beträgt past=betrug pp=betragen subj2=betrüge perf=haben
@@ -220,6 +232,7 @@ betrinken verb class=strong 3sg=betrinkt past=betrank subj2=betränke pp=betrunk
 betrüben verb class=weak pp=betrübt perf=haben
 betrügen verb class=strong 3sg=betrügt past=betrog pp=betrogen subj2=betröge perf=haben
 beugen verb class=weak pp=gebeugt perf=haben
+beunruhigen verb class=weak pp=beunruhigt perf=haben pp_cmp part1_cmp
 beurteilen    verb class=weak pp=beurteilt perf=haben
 bevölkern verb class=weak pp=bevölkert perf=haben
 bevorstehen verb class=strong sep=bevor 3sg=bevorsteht past=bevorstand pp=bevorgestanden subj2=bevorstünde|bevorstände perf=haben
@@ -236,6 +249,7 @@ bewegen       verb class=strong 3sg=bewegt past=bewog pp=bewogen subj2=bewöge p
 beweisen verb class=strong 3sg=beweist past=bewies pp=bewiesen subj2=bewiese perf=haben
 bewerben verb class=strong 3sg=bewirbt past=bewarb pp=beworben subj2=bewürbe perf=haben refl=acc
 bewerfen verb class=strong 3sg=bewirft past=bewarf subj2=bewürfe pp=beworfen perf=haben
+bewerkstelligen verb class=weak pp=bewerkstelligt perf=haben
 bewerten      verb class=weak pp=bewertet perf=haben
 bewilligen verb class=weak pp=bewilligt perf=haben
 bewirken verb class=weak pp=bewirkt perf=haben
@@ -248,6 +262,7 @@ bezahlen      verb class=weak pp=bezahlt perf=haben
 bezaubern verb class=weak pp=bezaubert perf=haben
 bezeichnen    verb class=weak pp=bezeichnet perf=haben
 bezeugen verb class=weak pp=bezeugt perf=haben
+bezichtigen verb class=weak pp=bezichtigt perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben
 bezwecken verb class=weak pp=bezweckt perf=haben
 bezweifeln verb class=weak pp=bezweifelt perf=haben
@@ -270,11 +285,13 @@ blitzen verb class=weak pp=geblitzt perf=haben
 blockieren verb class=weak pp=blockiert perf=haben
 blöken verb class=weak pp=geblökt perf=haben
 bloßstellen verb class=weak sep=bloß pp=bloßgestellt perf=haben
+blubbern verb class=weak pp=geblubbert perf=haben
 blühen verb class=weak pp=geblüht perf=haben
 bluten verb class=weak pp=geblutet perf=haben
 bohren verb class=weak pp=gebohrt perf=haben
 böllern verb class=weak pp=geböllert perf=haben
 borgen verb class=weak pp=geborgt perf=haben
+bouldern verb class=weak pp=gebouldert perf=haben
 bowlen verb class=weak pp=gebowlt perf=haben
 boxen verb class=weak pp=geboxt perf=haben
 brabbeln verb class=weak pp=gebrabbelt perf=haben
@@ -290,6 +307,7 @@ bringen       verb class=mixed 3sg=bringt past=brachte pp=gebracht subj2=brächt
 brüllen verb class=weak pp=gebrüllt perf=haben
 brummen verb class=weak pp=gebrummt perf=haben
 brüten verb class=weak pp=gebrütet perf=haben
+brutzeln verb class=weak pp=gebrutzelt perf=haben
 buchen verb class=weak pp=gebucht perf=haben
 buchstabieren verb class=weak pp=buchstabiert perf=haben
 bücken verb class=weak pp=gebückt perf=haben refl=acc

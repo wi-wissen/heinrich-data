@@ -21,6 +21,7 @@ ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
 Zebra noun g=n gen=Zebras pl=Zebras
 Zeche noun g=f gen=Zeche pl=Zechen
 Zecke noun g=f gen=Zecke pl=Zecken
+Zeder noun g=f gen=Zeder pl=Zedern
 Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zehner noun g=m gen=Zehners pl=Zehner
@@ -37,10 +38,13 @@ Zeit noun g=f gen=Zeit pl=Zeiten
 Zeitalter noun g=n gen=Zeitalters pl=Zeitalter
 Zeitgeist noun g=m gen=Zeitgeists|Zeitgeistes pl=- note=no plural
 Zeitgenosse noun g=m gen=Zeitgenossen pl=Zeitgenossen
+Zeitpunkt noun g=m gen=Zeitpunkts|Zeitpunktes pl=Zeitpunkte
+Zeitraum noun g=m gen=Zeitraums|Zeitraumes pl=Zeiträume
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
 Zeitung noun g=f gen=Zeitung pl=Zeitungen
 Zeitungsausträger noun g=m gen=Zeitungsausträgers pl=Zeitungsausträger
 Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
+Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
@@ -49,6 +53,9 @@ Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensu
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
 Zentrale noun g=f gen=Zentrale pl=Zentralen
 Zentrum noun g=n gen=Zentrums pl=Zentren
+Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
+Zepter noun g=n gen=Zepters pl=Zepter
+Zeremonie noun g=f gen=Zeremonie pl=Zeremonien
 Zerfall noun g=m gen=Zerfalls|Zerfalles pl=- note=no plural
 Zerrung noun g=f gen=Zerrung pl=Zerrungen
 Zerstörer noun g=m gen=Zerstörers pl=Zerstörer
@@ -61,6 +68,7 @@ Zeug noun g=n gen=Zeugs|Zeuges pl=- note=no plural
 Zeuge noun g=m gen=Zeugen pl=Zeugen
 Zeugin noun g=f gen=Zeugin pl=Zeuginnen
 Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
+Zicke noun g=f gen=Zicke pl=Zicken style=colloquial
 Zicklein noun g=n gen=Zickleins pl=Zicklein
 Ziege noun g=f gen=Ziege pl=Ziegen
 Ziegel noun g=m gen=Ziegels pl=Ziegel
@@ -76,8 +84,11 @@ Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
 Zimt noun g=m gen=Zimtes|Zimts pl=- note=no plural
 Zimtstern noun g=m gen=Zimtsterns pl=Zimtsterne
+Zink noun g=n gen=Zinks|Zinkes pl=- note=metal
+Zinn noun g=n gen=Zinns|Zinnes pl=- note=metal
 Zins noun g=m gen=Zinses pl=Zinsen
 Zinsen noun g=pl
+Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirkel noun g=m gen=Zirkels pl=Zirkel
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
@@ -91,7 +102,6 @@ Zivilist noun g=m gen=Zivilisten pl=Zivilisten
 Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
 Zocker noun g=m gen=Zockers pl=Zocker
-Zoll noun g=m gen=Zolls|Zolles pl=Zölle|Zoll note=customs duty; unit of length (zwei Zoll)
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zombie noun g=m gen=Zombies pl=Zombies
@@ -142,6 +152,7 @@ Zusammenbruch noun g=m gen=Zusammenbruchs|Zusammenbruches pl=Zusammenbrüche
 Zusammenfassung noun g=f gen=Zusammenfassung pl=Zusammenfassungen
 Zusammenhalt noun g=m gen=Zusammenhalts|Zusammenhaltes pl=- note=no plural
 Zusammenhang noun g=m gen=Zusammenhangs|Zusammenhanges pl=Zusammenhänge
+Zusammenkunft noun g=f gen=Zusammenkunft pl=Zusammenkünfte
 Zusammenleben noun g=n gen=Zusammenlebens pl=- note=no plural
 Zusammenlegung noun g=f gen=Zusammenlegung pl=Zusammenlegungen
 Zusammenschreibung noun g=f gen=Zusammenschreibung pl=- note=no plural

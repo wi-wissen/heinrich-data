@@ -6,11 +6,14 @@
 überdecken verb class=weak pp=überdeckt perf=haben
 überdenken verb class=mixed 3sg=überdenkt past=überdachte subj2=überdächte pp=überdacht perf=haben
 übereinstimmen verb class=weak sep=überein pp=übereingestimmt perf=haben
+überfahren verb class=strong 3sg=überfährt past=überfuhr pp=überfahren subj2=überführe perf=haben sense=run_over note=jemanden überfahren (stress on fahren)
+überfahren verb class=strong sep=über 3sg=überfährt past=überfuhr pp=übergefahren subj2=überführe perf=haben|sein sense=ferry_across note=ans andere Ufer überfahren (stress on über)
 überfallen verb class=strong 3sg=überfällt past=überfiel pp=überfallen subj2=überfiele perf=haben
 überfliegen verb class=strong 3sg=überfliegt past=überflog pp=überflogen subj2=überflöge perf=haben
 überfluten verb class=weak pp=überflutet perf=haben
 überfordern verb class=weak pp=überfordert perf=haben
-überführen verb class=weak pp=überführt perf=haben note=inseparable: einen Täter überführen
+überführen verb class=weak pp=überführt perf=haben sense=convict note=inseparable: einen Täter überführen
+überführen verb class=weak sep=über pp=übergeführt perf=haben sense=carry_across conf=70 note=separable: die Fähre führt die Autos über
 überfüllen verb class=weak pp=überfüllt perf=haben
 übergeben verb class=strong 3sg=übergibt past=übergab pp=übergeben subj2=übergäbe perf=haben
 übergehen verb class=strong sep=über 3sg=übergeht past=überging pp=übergegangen subj2=überginge perf=sein sense=cross_over note=geht auf etwas über; stress on über
@@ -18,6 +21,7 @@
 übergießen verb class=strong 3sg=übergießt past=übergoss pp=übergossen subj2=übergösse perf=haben
 überhäufen verb class=weak pp=überhäuft perf=haben
 überholen verb class=weak pp=überholt perf=haben
+überhören verb class=weak pp=überhört perf=haben
 überkochen verb class=weak sep=über pp=übergekocht perf=sein
 überlassen verb class=strong 3sg=überlässt past=überließ pp=überlassen subj2=überließe perf=haben
 überlaufen verb class=strong sep=über 3sg=überläuft past=überlief pp=übergelaufen subj2=überliefe perf=sein
@@ -35,6 +39,7 @@
 überragen verb class=weak pp=überragt perf=haben
 überraschen verb class=weak pp=überrascht perf=haben part1_cmp
 überreden verb class=weak pp=überredet perf=haben
+überreichen verb class=weak pp=überreicht perf=haben
 überrumpeln verb class=weak pp=überrumpelt perf=haben
 überschätzen verb class=weak pp=überschätzt perf=haben
 überschlagen verb class=strong 3sg=überschlägt past=überschlug subj2=überschlüge pp=überschlagen perf=haben
@@ -81,6 +86,7 @@ umfallen verb class=strong sep=um 3sg=umfällt past=umfiel pp=umgefallen subj2=u
 umfassen verb class=weak pp=umfasst perf=haben sense=contain
 umfassen verb class=weak sep=um pp=umgefasst perf=haben sense=refit conf=70 note=rare separable reading (einen Stein umfassen: neu fassen)
 umformen verb class=weak sep=um pp=umgeformt perf=haben
+umformulieren verb class=weak sep=um pp=umformuliert perf=haben
 umgeben verb class=strong 3sg=umgibt past=umgab pp=umgeben subj2=umgäbe perf=haben
 umgehen verb class=strong sep=um 3sg=umgeht past=umging pp=umgegangen subj2=umginge perf=sein sense=deal note=mit jemandem umgehen
 umgehen verb class=strong 3sg=umgeht past=umging pp=umgangen subj2=umginge perf=haben sense=avoid note=inseparable: ein Hindernis umgehen
@@ -141,6 +147,8 @@ unterbleiben verb class=strong 3sg=unterbleibt past=unterblieb pp=unterblieben s
 unterbrechen verb class=strong 3sg=unterbricht past=unterbrach pp=unterbrochen subj2=unterbräche perf=haben
 unterbringen verb class=mixed sep=unter 3sg=unterbringt past=unterbrachte pp=untergebracht subj2=unterbrächte perf=haben
 unterdrücken verb class=weak pp=unterdrückt perf=haben
+untergehen verb class=strong sep=unter 3sg=untergeht past=unterging pp=untergegangen subj2=unterginge perf=sein
+untergraben verb class=strong 3sg=untergräbt past=untergrub pp=untergraben subj2=untergrübe perf=haben
 unterhalten verb class=strong 3sg=unterhält past=unterhielt pp=unterhalten subj2=unterhielte perf=haben
 unterheben verb class=strong sep=unter 3sg=unterhebt past=unterhob pp=untergehoben subj2=unterhöbe perf=haben
 unterlassen verb class=strong 3sg=unterlässt past=unterließ pp=unterlassen subj2=unterließe perf=haben

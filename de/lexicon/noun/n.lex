@@ -34,8 +34,10 @@ Nager noun g=m gen=Nagers pl=Nager
 Nähe noun g=f gen=Nähe pl=- note=plural not used
 Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
+Naht noun g=f gen=Naht pl=Nähte
 Nahverkehr noun g=m gen=Nahverkehrs pl=- note=no plural (mass or abstract noun)
 Name         noun g=m gen=Namens pl=Namen
+Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
 Narkose noun g=f gen=Narkose pl=Narkosen
@@ -46,12 +48,14 @@ Nase noun g=f gen=Nase pl=Nasen
 Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
 Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
+Nationalität noun g=f gen=Nationalität pl=Nationalitäten
 Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
 Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
 Nationalsozialistin noun g=f gen=Nationalsozialistin pl=Nationalsozialistinnen
 Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
-Natur noun g=f gen=Natur pl=- note=Naturen is rare
+Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temperaments/characters
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
+Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Nazi noun g=m gen=Nazis pl=Nazis
 Nebel noun g=m gen=Nebels pl=Nebel
@@ -88,6 +92,7 @@ Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
 Newsletter noun g=m gen=Newsletters pl=Newsletter
 NGO noun g=f gen=NGO pl=NGOs
 Nichte noun g=f gen=Nichte pl=Nichten
+Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
@@ -101,6 +106,7 @@ Nische noun g=f gen=Nische pl=Nischen
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
+Nomenklatur noun g=f gen=Nomenklatur pl=Nomenklaturen
 Nominativ noun g=m gen=Nominativs pl=Nominative
 Nominierung noun g=f gen=Nominierung pl=Nominierungen
 Nonne noun g=f gen=Nonne pl=Nonnen
@@ -108,6 +114,8 @@ Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in com
 Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
 Norm noun g=f gen=Norm pl=Normen
+Normalität noun g=f gen=Normalität pl=- note=no plural
+Norweger noun g=m gen=Norwegers pl=Norweger
 Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Notar noun g=m gen=Notars pl=Notare
 Notarin noun g=f gen=Notarin pl=Notarinnen
@@ -115,6 +123,7 @@ Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
 Noten noun g=pl
 Notiz noun g=f gen=Notiz pl=Notizen
+Notizbuch noun g=n gen=Notizbuchs|Notizbuches pl=Notizbücher
 Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
 Nougat noun g=m|n gen=Nougats pl=Nougats
 Novelle noun g=f gen=Novelle pl=Novellen
@@ -123,12 +132,14 @@ November noun g=m gen=November|Novembers pl=November[rare] note=month name; plur
 Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
+Nuggets noun g=pl
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Nummer noun g=f gen=Nummer pl=Nummern
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
 Nussknacker noun g=m gen=Nussknackers pl=Nussknacker
+Nutella noun g=n gen=Nutellas pl=-  note=brand name used as common noun
 Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer
 Nutzerin noun g=f gen=Nutzerin pl=Nutzerinnen

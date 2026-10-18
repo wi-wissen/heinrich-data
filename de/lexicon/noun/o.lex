@@ -10,6 +10,7 @@ Oberstleutnant noun g=m gen=Oberstleutnants pl=Oberstleutnants|Oberstleutnante
 Oberstufe noun g=f gen=Oberstufe pl=Oberstufen
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
+Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
@@ -24,6 +25,7 @@ Offizierin noun g=f gen=Offizierin pl=Offizierinnen
 Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
+Ohm noun g=n gen=Ohm|Ohms pl=Ohm sense=unit note=physical unit
 Ohnmacht noun g=f gen=Ohnmacht pl=Ohnmachten
 Ohr noun g=n gen=Ohrs|Ohres pl=Ohren
 Ohrenschützer noun g=m gen=Ohrenschützers pl=Ohrenschützer
@@ -48,6 +50,7 @@ Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
 Oper noun g=f gen=Oper pl=Opern
 Operation noun g=f gen=Operation pl=Operationen
+Operette noun g=f gen=Operette pl=Operetten
 Opfer noun g=n gen=Opfers pl=Opfer
 Opi noun g=m gen=Opis pl=Opis
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr

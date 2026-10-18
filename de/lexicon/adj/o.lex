@@ -1,5 +1,6 @@
 obdachlos adj
 ober adj attr_only sup=obersten note=die obere Etage; positional, no comparative; see also oberst
+oberflächlich adj
 oberst adj note=attributive only (der oberste Stock)
 objektiv adj cmp=objektiver sup=objektivsten
 öde adj cmp=öder sup=ödesten

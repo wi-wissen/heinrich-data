@@ -10,6 +10,7 @@ ehrenamtlich adj
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
 eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
+eiförmig adj
 eifrig adj cmp=eifriger sup=eifrigsten
 eigen adj sup=eigensten
 eigenständig adj cmp=eigenständiger sup=eigenständigsten
@@ -45,8 +46,10 @@ elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
 elektronisch adj
 elend adj cmp=elender sup=elendsten
+emotional adj
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
+emsig adj
 endgültig adj
 endlich adj
 energisch adj cmp=energischer sup=energischsten
@@ -54,6 +57,7 @@ eng adj cmp=enger sup=engsten
 englisch adj
 englischsprachig adj
 enorm adj
+entbehrlich adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
 entscheidend adj cmp=entscheidender sup=entscheidendsten
@@ -62,6 +66,7 @@ entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
 enttäuscht adj cmp=enttäuschter sup=enttäuschtesten
 epidemisch adj
 episch adj
+erbärmlich adj cmp=erbärmlicher sup=erbärmlichsten
 erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj

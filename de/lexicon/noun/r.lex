@@ -4,6 +4,7 @@ Rabbiner noun g=m gen=Rabbiners pl=Rabbiner
 Rabbinerin noun g=f gen=Rabbinerin pl=Rabbinerinnen
 Rabe noun g=m gen=Raben pl=Raben
 Rache noun g=f gen=Rache pl=- note=mass noun
+Rachen noun g=m gen=Rachens pl=Rachen
 Raclette noun g=n gen=Raclettes pl=Raclettes
 Rad noun g=n gen=Rads|Rades pl=Räder
 Radar noun g=m|n gen=Radars pl=Radare
@@ -21,11 +22,13 @@ Rajon noun g=m gen=Rajons pl=Rajone conf=85 note=Russian/Ukrainian administrativ
 Rakete noun g=f gen=Rakete pl=Raketen
 Ramadan noun g=m gen=Ramadans pl=- note=no plural
 Rampenlicht noun g=n gen=Rampenlichts|Rampenlichtes pl=Rampenlichter
+Ranch noun g=f gen=Ranch pl=Ranches|Ranchen conf=75 note=plural uncertain
 Rand noun g=m gen=Randes|Rands pl=Ränder
 Rang noun g=m gen=Ranges|Rangs pl=Ränge
 Ranzen noun g=m gen=Ranzens pl=Ranzen
 Rapper noun g=m gen=Rappers pl=Rapper
 Rapperin noun g=f gen=Rapperin pl=Rapperinnen
+Raps noun g=m gen=Rapses pl=- note=no plural
 Rasen noun g=m gen=Rasens pl=Rasen
 Rasenmäher noun g=m gen=Rasenmähers pl=Rasenmäher
 Rasierer noun g=m gen=Rasierers pl=Rasierer
@@ -36,6 +39,7 @@ Rast noun g=f gen=Rast pl=- note=mass noun
 Rat noun g=m gen=Rates|Rats pl=Räte
 Rate noun g=f gen=Rate pl=Raten
 Ratifizierung noun g=f gen=Ratifizierung pl=Ratifizierungen
+Rationalist noun g=m gen=Rationalisten pl=Rationalisten
 Rätsel noun g=n gen=Rätsels pl=Rätsel
 Ratte noun g=f gen=Ratte pl=Ratten
 Raub noun g=m gen=Raubs|Raubes pl=- note=mass noun
@@ -49,6 +53,7 @@ Räumlichkeit noun g=f gen=Räumlichkeit pl=Räumlichkeiten
 Raupe noun g=f gen=Raupe pl=Raupen
 Rausch noun g=m gen=Rauschs|Rausches pl=Räusche
 Raute noun g=f gen=Raute pl=Rauten
+Ravioli noun g=pl
 Reagenzglas noun g=n gen=Reagenzglases pl=Reagenzgläser
 Reaktion noun g=f gen=Reaktion pl=Reaktionen
 Reaktor noun g=m gen=Reaktors pl=Reaktoren
@@ -56,6 +61,7 @@ Realisierung noun g=f gen=Realisierung pl=Realisierungen
 Realismus noun g=m gen=Realismus pl=- note=mass noun
 Realität noun g=f gen=Realität pl=Realitäten
 Realschule noun g=f gen=Realschule pl=Realschulen
+Rebe noun g=f gen=Rebe pl=Reben
 Rebell noun g=m gen=Rebellen pl=Rebellen
 Rebellion noun g=f gen=Rebellion pl=Rebellionen
 Rebhuhn noun g=n gen=Rebhuhns pl=Rebhühner
@@ -132,10 +138,12 @@ Reichtum noun g=m gen=Reichtums pl=Reichtümer
 Reif noun g=m gen=Reifes|Reifs pl=- note=no plural
 Reife noun g=f gen=Reife pl=- note=mass noun
 Reifen noun g=m gen=Reifens pl=Reifen
+Reigen noun g=m gen=Reigens pl=Reigen
 Reihe noun g=f gen=Reihe pl=Reihen
 Reiher noun g=m gen=Reihers pl=Reiher
 Reim noun g=m gen=Reims|Reimes pl=Reime
 Reimschema noun g=n gen=Reimschemas pl=Reimschemata|Reimschemas
+Reinette noun g=f gen=Reinette pl=Reinetten
 Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
 Reinigung noun g=f gen=Reinigung pl=Reinigungen
@@ -154,12 +162,15 @@ Rekord noun g=m gen=Rekords|Rekordes pl=Rekorde
 Rektor noun g=m gen=Rektors pl=Rektoren
 Rektorin noun g=f gen=Rektorin pl=Rektorinnen
 Relation noun g=f gen=Relation pl=Relationen
+Relegation noun g=f gen=Relegation pl=Relegationen
 Relevanz noun g=f gen=Relevanz pl=- note=mass noun
 Reli noun g=f gen=Reli pl=- style=colloquial note=short for Religion
 Relief noun g=n gen=Reliefs pl=Reliefs|Relieve
 Religion noun g=f gen=Religion pl=Religionen
 Reliquie noun g=f gen=Reliquie pl=Reliquien
+Remter noun g=m gen=Remters pl=Remter
 Renaissance noun g=f gen=Renaissance pl=- note=mass noun; Renaissancen is rare
+Rendite noun g=f gen=Rendite pl=Renditen
 Rennen noun g=n gen=Rennens pl=Rennen note=lexicalised nominal infinitive (race)
 Renner noun g=m gen=Renners pl=Renner
 Renovierung noun g=f gen=Renovierung pl=Renovierungen
@@ -185,6 +196,7 @@ Reserve noun g=f gen=Reserve pl=Reserven
 Reservierung noun g=f gen=Reservierung pl=Reservierungen
 Residenz noun g=f gen=Residenz pl=Residenzen
 Resolution noun g=f gen=Resolution pl=Resolutionen
+Resonanz noun g=f gen=Resonanz pl=Resonanzen
 Respekt noun g=m gen=Respekts|Respektes pl=- note=mass noun
 Ressort noun g=n gen=Ressorts pl=Ressorts
 Ressource noun g=f gen=Ressource pl=Ressourcen
@@ -207,6 +219,7 @@ Rezension noun g=f gen=Rezension pl=Rezensionen
 Rezept noun g=n gen=Rezepts|Rezeptes pl=Rezepte
 Rezeptionist noun g=m gen=Rezeptionisten pl=Rezeptionisten
 Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
+Rezession noun g=f gen=Rezession pl=Rezessionen
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
 Rhetorik noun g=f gen=Rhetorik pl=- note=mass noun
 Rhythmus noun g=m gen=Rhythmus pl=Rhythmen note=genitive without ending (like -ismus)
@@ -217,6 +230,7 @@ Richtlinie noun g=f gen=Richtlinie pl=Richtlinien
 Richtung noun g=f gen=Richtung pl=Richtungen
 Ricke noun g=f gen=Ricke pl=Ricken
 Riegel noun g=m gen=Riegels pl=Riegel
+Riemen noun g=m gen=Riemens pl=Riemen
 Riese noun g=m gen=Riesen pl=Riesen
 Riff noun g=n gen=Riffes|Riffs pl=Riffe
 Rind noun g=n gen=Rindes|Rinds pl=Rinder
@@ -230,6 +244,7 @@ Rippe noun g=f gen=Rippe pl=Rippen
 Risiko noun g=n gen=Risikos pl=Risiken|Risikos[rare]
 Ritt noun g=m gen=Ritts|Rittes pl=Ritte
 Ritter noun g=m gen=Ritters pl=Ritter
+Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
 Rittmeister noun g=m gen=Rittmeisters pl=Rittmeister note=cavalry captain
 Ritual noun g=n gen=Rituals pl=Rituale
 Robbe noun g=f gen=Robbe pl=Robben
@@ -247,10 +262,12 @@ Rollator noun g=m gen=Rollators pl=Rollatoren
 Rolle noun g=f gen=Rolle pl=Rollen
 Roller noun g=m gen=Rollers pl=Roller
 Rollladen noun g=m gen=Rollladens pl=Rollläden|Rollladen note=compound not split correctly by the analyser
+Rollo noun g=n gen=Rollos pl=Rollos
 Rolltreppe noun g=f gen=Rolltreppe pl=Rolltreppen
 Rom noun g=m gen=Rom|Roms pl=Roma sense=person conf=70 note=singular of Roma (ein Rom); rare
 Roma noun g=pl note=ethnic group, plural only (die Roma)
 Roman noun g=m gen=Romans|Romanes[archaic] pl=Romane
+Romanist noun g=m gen=Romanisten pl=Romanisten
 Romantik noun g=f gen=Romantik pl=- note=mass noun; epoch
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
@@ -262,11 +279,15 @@ Rosine noun g=f gen=Rosine pl=Rosinen
 Rosmarin noun g=m gen=Rosmarins pl=- note=no plural
 Ross noun g=n gen=Rosses pl=Rosse|Rösser style=archaic note=elevated word for horse
 Rotation noun g=f gen=Rotation pl=Rotationen
+Röte noun g=f gen=Röte pl=- note=no plural
 Röteln noun g=pl
 Rotkehlchen noun g=n gen=Rotkehlchens pl=Rotkehlchen
+Rouladen noun g=pl
 Route noun g=f gen=Route pl=Routen
 Router noun g=m gen=Routers pl=Router
 Routine noun g=f gen=Routine pl=Routinen
+Rubel noun g=m gen=Rubels pl=Rubel
+Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
 Rücken noun g=m gen=Rückens pl=Rücken
@@ -297,6 +318,7 @@ Rumpf noun g=m gen=Rumpfs|Rumpfes pl=Rümpfe
 Runde noun g=f gen=Runde pl=Runden
 Rundfunk noun g=m gen=Rundfunks pl=- note=mass noun
 Rundreise noun g=f gen=Rundreise pl=Rundreisen
+Rundung noun g=f gen=Rundung pl=Rundungen
 Ruß noun g=m gen=Rußes pl=- note=mass noun
 Rushhour noun g=f gen=Rushhour pl=Rushhours
 Russe noun g=m gen=Russen pl=Russen

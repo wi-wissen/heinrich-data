@@ -6,6 +6,7 @@ fangen verb class=strong 3sg=fängt past=fing pp=gefangen subj2=finge perf=haben
 färben verb class=weak pp=gefärbt perf=haben refl=acc
 fassen verb class=weak pp=gefasst perf=haben refl=acc
 fasten verb class=weak pp=gefastet perf=haben
+faszinieren verb class=weak pp=fasziniert perf=haben part1_cmp pp_cmp
 fauchen verb class=weak pp=gefaucht perf=haben
 faulen verb class=weak pp=gefault perf=sein
 faulenzen verb class=weak pp=gefaulenzt perf=haben
@@ -21,6 +22,7 @@ fertigstellen verb class=weak sep=fertig pp=fertiggestellt perf=haben
 fesseln verb class=weak pp=gefesselt perf=haben
 festbinden verb class=strong sep=fest 3sg=festbindet past=festband subj2=festbände pp=festgebunden perf=haben
 festhalten verb class=strong sep=fest 3sg=festhält past=festhielt pp=festgehalten subj2=festhielte perf=haben
+festigen verb class=weak pp=gefestigt perf=haben
 festklammern verb class=weak sep=fest pp=festgeklammert perf=haben refl=acc
 festkleben verb class=weak sep=fest pp=festgeklebt perf=haben
 festklemmen verb class=weak sep=fest pp=festgeklemmt perf=haben|sein
@@ -41,13 +43,18 @@ feststellen verb class=weak sep=fest pp=festgestellt perf=haben
 festtreten verb class=strong sep=fest 3sg=festtritt past=festtrat subj2=festträte pp=festgetreten perf=haben
 festziehen verb class=strong sep=fest 3sg=festzieht past=festzog subj2=festzöge pp=festgezogen perf=haben
 festzurren verb class=weak sep=fest pp=festgezurrt perf=haben
+feuern verb class=weak pp=gefeuert perf=haben
 fiebern verb class=weak pp=gefiebert perf=haben
 fiedeln verb class=weak pp=gefiedelt perf=haben
 filmen verb class=weak pp=gefilmt perf=haben
+filtern verb class=weak pp=gefiltert perf=haben
 finanzieren verb class=weak pp=finanziert perf=haben refl=acc
 finden       verb class=strong 3sg=findet past=fand pp=gefunden subj2=fände perf=haben
 fischen verb class=weak pp=gefischt perf=haben
 fixieren verb class=weak pp=fixiert perf=haben
+flachsen verb class=weak pp=geflachst perf=haben
+flackern verb class=weak pp=geflackert perf=haben
+flaggen verb class=weak pp=geflaggt perf=haben
 flanieren verb class=weak pp=flaniert perf=sein
 flanken verb class=weak pp=geflankt perf=haben
 flankieren verb class=weak pp=flankiert perf=haben
@@ -72,9 +79,11 @@ fördern verb class=weak pp=gefördert perf=haben
 formen verb class=weak pp=geformt perf=haben
 formulieren verb class=weak pp=formuliert perf=haben
 forschen verb class=weak pp=geforscht perf=haben
+fortbewegen verb class=weak sep=fort pp=fortbewegt perf=haben refl=acc
 fortfahren verb class=strong sep=fort 3sg=fortfährt past=fortfuhr pp=fortgefahren subj2=fortführe perf=haben|sein
 fortführen verb class=weak sep=fort pp=fortgeführt perf=haben
 fortlaufen verb class=strong sep=fort 3sg=fortläuft past=fortlief pp=fortgelaufen subj2=fortliefe perf=sein
+fortschreiten verb class=strong sep=fort 3sg=fortschreitet past=fortschritt pp=fortgeschritten subj2=fortschritte perf=sein
 fortsetzen verb class=weak sep=fort pp=fortgesetzt perf=haben
 fotografieren verb class=weak pp=fotografiert perf=haben
 foulen verb class=weak pp=gefoult perf=haben
@@ -93,6 +102,7 @@ fremdgehen verb class=strong sep=fremd 3sg=fremdgeht past=fremdging pp=fremdgega
 fressen verb class=strong 3sg=frisst past=fraß pp=gefressen subj2=fräße perf=haben
 freuen       verb class=weak pp=gefreut perf=haben refl=acc
 frieren verb class=strong 3sg=friert past=fror pp=gefroren subj2=fröre perf=haben|sein note=pp gefroren is correct; not an -ieren verb
+frisieren verb class=weak pp=frisiert perf=haben
 frittieren verb class=weak pp=frittiert perf=haben
 frösteln verb class=weak pp=gefröstelt perf=haben
 frühstücken verb class=weak pp=gefrühstückt perf=haben

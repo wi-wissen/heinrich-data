@@ -22,6 +22,7 @@ tödlich adj cmp=tödlicher sup=tödlichsten
 tolerant adj cmp=toleranter sup=tolerantesten
 toll adj cmp=toller sup=tollsten
 tollpatschig adj cmp=tollpatschiger sup=tollpatschigsten
+töricht adj
 tot adj
 total adj
 totalitär adj

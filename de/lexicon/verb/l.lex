@@ -35,6 +35,7 @@ lieben verb class=weak pp=geliebt perf=haben
 liefern verb class=weak pp=geliefert perf=haben
 liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|sein note=perf with sein in southern Germany/AT/CH
 liken verb class=weak pp=gelikt perf=haben
+lindern verb class=weak pp=gelindert perf=haben
 linsen verb class=weak pp=gelinst perf=haben
 lispeln verb class=weak pp=gelispelt perf=haben
 listen verb class=weak pp=gelistet perf=haben note=to list (in a directory or on an exchange)

@@ -32,6 +32,7 @@ leichtgläubig adj cmp=leichtgläubiger sup=leichtgläubigsten
 leichtsinnig adj cmp=leichtsinniger sup=leichtsinnigsten
 leid adj pred_only note=only predicative in leid tun, leid sein; the noun is Leid
 leidenschaftlich adj cmp=leidenschaftlicher sup=leidenschaftlichsten
+leidlich adj
 leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten
 leitend adj
@@ -56,6 +57,7 @@ lockig adj cmp=lockiger sup=lockigsten
 logisch adj cmp=logischer sup=logischsten
 lokal adj
 los adj note=predicative, e.g. etwas los sein
+lösbar adj
 löslich adj
 lustig adj cmp=lustiger sup=lustigsten
 lustlos adj cmp=lustloser sup=lustlosesten
