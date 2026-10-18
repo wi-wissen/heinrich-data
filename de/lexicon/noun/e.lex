@@ -1,0 +1,1 @@
+Eltern       noun g=pl

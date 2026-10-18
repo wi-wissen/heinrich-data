@@ -26,3 +26,6 @@ Notes
 Our own entries, written clean-room from general knowledge of German grammar and the official
 spelling rules (no third-party lexicon, word list, Hunspell file, Wiktionary table or LanguageTool
 file was consulted). Format: `Heinrich/docs/LEXICON_FORMAT.md`.
+
+Work lists in `de/lexicon/worklists/` are derived only from our lexicon and our own frequency list
+(`de/frequency/forms.tsv`) by `heinrich-lexicon next-batch`.

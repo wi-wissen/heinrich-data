@@ -1,0 +1,3 @@
+# Branch, tag or commit of wi-wissen/Heinrich whose lexicon tools CI uses (first non-comment line).
+# Switch to `main` once the lexicon-pipeline branch is merged there; pin a commit for releases.
+main
