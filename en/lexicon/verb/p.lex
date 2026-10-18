@@ -1,6 +1,8 @@
 pace verb
 pack verb
 package verb
+pad verb
+paddle verb
 page verb
 pain verb
 paint verb
@@ -8,19 +10,25 @@ pair verb
 pale verb
 pan verb
 panic verb
+pant verb
 paper verb
+parachute verb
 parade verb
 parallel verb nodouble
+paralyze verb gb=paralyse
 parcel verb
 pardon verb
 parent verb
 park verb
 parody verb
+parole verb
+parrot verb
 part verb
 participate verb
 partition verb
 partner verb
 pass verb
+paste verb
 pat verb
 patch verb
 patent verb
@@ -28,9 +36,13 @@ patrol verb double
 pattern verb
 pause verb
 pave verb
+pawn verb
 pay verb past=paid pp=paid
 peak verb
+pedal verb
+peep verb
 peer verb
+peg verb
 pen verb
 pencil verb
 penetrate verb
@@ -40,9 +52,12 @@ perceive verb
 perch verb
 perfect verb
 perform verb
+perfume verb
 perish verb
 permit verb double
+perpetrate verb
 perplex verb
+persecute verb
 persist verb
 persuade verb
 pertain verb
@@ -59,6 +74,7 @@ pierce verb
 pile verb
 pilot verb
 pin verb
+pinch verb
 pine verb
 pioneer verb
 pipe verb
@@ -66,6 +82,7 @@ pirate verb
 pit verb
 pitch verb
 pity verb
+pivot verb
 place verb
 plague verb
 plan verb
@@ -77,16 +94,25 @@ plead verb past=pleaded|pled[US] pp=pleaded|pled[US]
 please verb
 pledge verb
 plot verb
+plow verb gb=plough
+pluck verb
+plug verb
+plunder verb
 plunge verb
+poach verb
 pocket verb
+podcast verb
 point verb
 poison verb
 police verb
 polish verb
 poll verb
+ponder verb
 pool verb
 pop verb
+popularize verb gb=popularise|popularize
 populate verb
+pore verb
 portray verb
 pose verb
 position verb
@@ -102,8 +128,11 @@ praise verb
 pray verb
 preach verb
 precede verb
+precipitate verb
 preclude verb
+predicate verb
 predict verb
+preface verb
 prefer verb double
 prejudice verb
 premiere verb
@@ -118,6 +147,7 @@ presume verb
 pretend verb
 prevail verb
 prevent verb
+preview verb
 prey verb
 price verb
 pride verb note=reflexive: pride oneself on
@@ -145,10 +175,13 @@ promote verb
 prompt verb
 promulgate verb
 pronounce verb
+propagate verb
+propel verb double
 propose verb
 prosecute verb
 prospect verb
 prosper verb
+prostrate verb
 protect verb
 protest verb
 prove verb past=proved pp=proved|proven
@@ -161,6 +194,8 @@ pump verb
 punch verb
 punish verb
 purchase verb
+purge verb
+purport verb
 pursue verb ing=pursuing note=generator keeps e after u (pursueing); -ing written
 push verb
 put verb past=put pp=put
