@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Count tokens in a systematic sample of German Wikipedia (dewiki pages-articles-multistream).
+"""Count tokens in a systematic sample of German or English Wikipedia (pages-articles-multistream).
 
 For several dump parts we read the (small) index, group the bz2 streams into chunks of 10 streams
 (~1000 pages), pick evenly spaced chunks and fetch only those byte ranges. Text is processed in memory.
-Usage: count_wiki.py OUTDIR [chunks_per_part=30] [date=latest]
+Usage: count_wiki.py OUTDIR [chunks_per_part=30] [lang=de]
+English only: articles tagged {{Use American English}} are additionally counted into chunk_*.us.tsv,
+articles tagged {{Use British English}}, {{Use Oxford spelling}} or {{EngvarB}} into chunk_*.gb.tsv.
 """
 import bz2, os, re, subprocess, sys, html, random
 from multiprocessing import Pool
@@ -11,13 +13,21 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import tok
 from collections import Counter
 
-BASE = "https://dumps.wikimedia.org/dewiki/"
-PARTS = [  # (data file, index file)
+LANG = "de"
+BASE_TPL = "https://dumps.wikimedia.org/{lang}wiki/"
+PARTS_DE = [  # (data file, index file)
     ("dewiki-latest-pages-articles-multistream2.xml-p297013p1262093.bz2", "dewiki-latest-pages-articles-multistream-index2.txt-p297013p1262093.bz2"),
     ("dewiki-latest-pages-articles-multistream3.xml-p1262094p2762093.bz2", "dewiki-latest-pages-articles-multistream-index3.txt-p1262094p2762093.bz2"),
     ("dewiki-latest-pages-articles-multistream5.xml-p6115465p7615464.bz2", "dewiki-latest-pages-articles-multistream-index5.txt-p6115465p7615464.bz2"),
     ("dewiki-latest-pages-articles-multistream6.xml-p12261245p13761244.bz2", "dewiki-latest-pages-articles-multistream-index6.txt-p12261245p13761244.bz2"),
 ]
+_EN = ["2.xml-p41243p151573", "5.xml-p558392p958045", "8.xml-p2134112p2936260", "12.xml-p7054860p8554859",
+       "18.xml-p23716198p25216197", "24.xml-p50564554p52064553"]
+PARTS_EN = [(f"enwiki-latest-pages-articles-multistream{p}.bz2",
+             "enwiki-latest-pages-articles-multistream-index" + p.replace(".xml", ".txt") + ".bz2") for p in _EN]
+PARTS_BY_LANG = {"de": PARTS_DE, "en": PARTS_EN}
+PARTS = PARTS_DE
+BASE = BASE_TPL.format(lang="de")
 STREAMS_PER_CHUNK = 10
 DATE = "latest"
 
@@ -34,11 +44,19 @@ REF = re.compile(r"<ref\b[^>]*?/>|<ref\b[^>]*>.*?</ref>", re.S | re.I)
 BLOCK = re.compile(r"<(gallery|math|code|source|syntaxhighlight|pre|timeline|imagemap|score|chem|ce|hiero|poem_off|mapframe|maplink)\b.*?</\1>", re.S | re.I)
 TABLE = re.compile(r"\{\|.*?\|\}", re.S)
 TAG = re.compile(r"</?[A-Za-z][^>]*>")
-FILE_LINE = re.compile(r"^\s*\[\[(?:Datei|File|Bild|Image|Kategorie|Category):.*$", re.M | re.I)
+FILE_LINE = re.compile(r"^\s*\[\[(?:Datei|File|Bild|Image|Kategorie|Category|Media):.*$", re.M | re.I)
 LINK = re.compile(r"\[\[(?:[^\[\]|]*\|)?([^\[\]|]*)\]\]")
 EXTLINK = re.compile(r"\[(?:https?:)?//[^\s\]]+\s*([^\]]*)\]")
 URL = re.compile(r"(?:https?://|www\.)\S+")
-CUT = re.compile(r"^==+\s*(Literatur|Weblinks|Einzelnachweise|Anmerkungen|Quellen|Siehe auch|Fußnoten|Belege|Filme|Diskografie|Werke|Schriften|Veröffentlichungen|Publikationen)\b.*$", re.M)
+CUT_BY_LANG = {
+    "de": re.compile(r"^==+\s*(Literatur|Weblinks|Einzelnachweise|Anmerkungen|Quellen|Siehe auch|Fußnoten|Belege|Filme|Diskografie|Werke|Schriften|Veröffentlichungen|Publikationen)\b.*$", re.M),
+    "en": re.compile(r"^==+\s*(References|External links|See also|Further reading|Notes|Bibliography|Sources|Works cited|Footnotes|Citations|Discography|Filmography|Works|Publications|Selected works|Selected publications|Literature|Notes and references)\b.*$", re.M),
+}
+CUT = CUT_BY_LANG["de"]
+REDIRECT = ("#WEITERLE", "#REDIRECT")
+# English variety tags (Wikipedia maintenance templates that state the spelling variety of an article)
+REGION_TAGS = [(re.compile(r"\{\{\s*Use American English\b", re.I), "us"),
+               (re.compile(r"\{\{\s*(?:Use British English|Use Oxford spelling|EngvarB)\b", re.I), "gb")]
 NS = re.compile(r"<ns>(\d+)</ns>")
 PAGE = re.compile(r"<page>(.*?)</page>", re.S)
 TEXT = re.compile(r"<text[^>]*>(.*?)</text>", re.S)
@@ -76,13 +94,29 @@ def clean(wt):
         out.append(s)
     return "\n".join(out)
 
+def region_of(wt):
+    if LANG != "en":
+        return None
+    head = wt[:3000]
+    for rx, r in REGION_TAGS:
+        if rx.search(head):
+            return r
+    return None
+
+def setup(lang):
+    global LANG, PARTS, BASE, CUT
+    LANG, PARTS, BASE, CUT = lang, PARTS_BY_LANG[lang], BASE_TPL.format(lang=lang), CUT_BY_LANG[lang]
+    tok.set_lang(lang)
+
 def process_chunk(args):
-    part_i, ci, start, end, outdir = args
+    part_i, ci, start, end, outdir, lang = args
+    setup(lang)
     path = os.path.join(outdir, f"chunk_{part_i}_{ci:05d}.tsv")
     if os.path.exists(path):
         return path, None
     data = curl(BASE + DATE + "/" + PARTS[part_i][0], f"{start}-{end - 1}")
     tot, init = Counter(), Counter()
+    reg = tok.Regional()
     n = pages = 0
     while data:
         d = bz2.BZ2Decompressor()
@@ -97,10 +131,13 @@ def process_chunk(args):
             if not tm:
                 continue
             wt = tm.group(1)
-            if wt.lstrip()[:9].upper() in ("#WEITERLE", "#REDIRECT"):
+            if wt.lstrip()[:9].upper() in REDIRECT:
                 continue
-            n += tok.count_text(clean(wt), tot, init)
+            txt = clean(wt)
+            n += tok.count_text(txt, tot, init)
+            reg.count(region_of(html.unescape(wt)), txt)
             pages += 1
+    reg.dump(path)
     tok.dump(path + ".tmp", tot, init)
     os.rename(path + ".tmp", path)
     return path, (n, pages)
@@ -108,6 +145,8 @@ def process_chunk(args):
 def main():
     outdir = sys.argv[1]
     per_part = int(sys.argv[2]) if len(sys.argv) > 2 else 30
+    lang = sys.argv[3] if len(sys.argv) > 3 else "de"
+    setup(lang)
     os.makedirs(outdir, exist_ok=True)
     jobs = []
     for pi, (dfile, ifile) in enumerate(PARTS):
@@ -118,7 +157,7 @@ def main():
         chunks = [(offs[i], offs[min(i + STREAMS_PER_CHUNK, len(offs) - 1)]) for i in range(0, len(offs) - 1, STREAMS_PER_CHUNK)]
         k = max(1, len(chunks) // per_part)
         for ci in range(k // 2, len(chunks), k):
-            jobs.append((pi, ci, chunks[ci][0], chunks[ci][1], outdir))
+            jobs.append((pi, ci, chunks[ci][0], chunks[ci][1], outdir, lang))
         print(f"part {pi}: {len(offs)-1} streams, {len(chunks)} chunks, taking every {k}th", flush=True)
     random.Random(1).shuffle(jobs)
     tn = tp = 0

@@ -1,25 +1,42 @@
 #!/usr/bin/env python3
-"""Merge per-source count files into de/frequency/forms.tsv(.gz) and write de/frequency/STATS.md.
+"""Merge per-source count files into <lang>/frequency/forms.tsv(.gz) and write <lang>/frequency/STATS.md.
 
-Usage: merge.py WORKDIR OUTDIR
+Usage: merge.py WORKDIR OUTDIR [lang=de]
 WORKDIR holds the sub-directories wiki/ (chunk_*.tsv), gut/ (book_*.tsv) and gov/ (*.tsv) written by the
 count_*.py scripts. Columns of forms.tsv: form, total, wiki, lit, gov, sentence_initial.
+English adds the columns us, gb: counts from text known to be American / British English, read from the
+region files <name>.us.tsv / <name>.gb.tsv (which are subsets of, not additions to, the main files).
 """
-import glob, gzip, os, sys
+import glob, gzip, os, re, sys
 from collections import Counter
 
 SRC = [("wiki", "wiki/chunk_*.tsv"), ("lit", "gut/book_*.tsv"), ("gov", "gov/*.tsv")]
 MIN_COUNT, MAX_FORMS = 3, 500_000
 GZ_LIMIT = 25 * 1024 * 1024
+REGIONS = {"de": [], "en": ["us", "gb"]}
+REGION_FILE = re.compile(r"\.(?:us|gb)\.tsv$")
+VARIANTS_EN = [("color", "colour"), ("center", "centre"), ("organization", "organisation"), ("realize", "realise"),
+               ("defense", "defence"), ("traveled", "travelled"), ("analyze", "analyse"), ("gray", "grey"),
+               ("program", "programme"), ("favorite", "favourite"), ("theater", "theatre"), ("catalog", "catalogue")]
 
 def main():
     work, out = sys.argv[1], sys.argv[2]
+    lang = sys.argv[3] if len(sys.argv) > 3 else "de"
+    regions = REGIONS[lang]
     os.makedirs(out, exist_ok=True)
     cnt = {s: Counter() for s, _ in SRC}
+    reg = {r: Counter() for r in regions}
     ini = Counter()
     nfiles = {}
+    for r in regions:
+        for _, pat in SRC:
+            for fn in sorted(glob.glob(os.path.join(work, pat[:-4] + f".{r}.tsv"))):
+                with open(fn, encoding="utf-8") as f:
+                    for line in f:
+                        w, c, _i = line.rstrip("\n").split("\t")
+                        reg[r][w] += int(c)
     for s, pat in SRC:
-        files = sorted(glob.glob(os.path.join(work, pat)))
+        files = sorted(fn for fn in glob.glob(os.path.join(work, pat)) if not REGION_FILE.search(fn))
         nfiles[s] = len(files)
         for fn in files:
             with open(fn, encoding="utf-8") as f:
@@ -35,8 +52,9 @@ def main():
     all_tokens = sum(src_tokens.values())
     ranked = sorted(total.items(), key=lambda kv: (-kv[1], kv[0]))
     kept = [kv for kv in ranked if kv[1] >= MIN_COUNT][:MAX_FORMS]
-    rows = [f"{w}\t{c}\t{cnt['wiki'][w]}\t{cnt['lit'][w]}\t{cnt['gov'][w]}\t{ini[w]}\n" for w, c in kept]
-    header = "form\ttotal\twiki\tlit\tgov\tsentence_initial\n"
+    rows = [f"{w}\t{c}\t{cnt['wiki'][w]}\t{cnt['lit'][w]}\t{cnt['gov'][w]}\t{ini[w]}"
+            + "".join(f"\t{reg[r][w]}" for r in regions) + "\n" for w, c in kept]
+    header = "form\ttotal\twiki\tlit\tgov\tsentence_initial" + "".join(f"\t{r}" for r in regions) + "\n"
     size = len(header) + sum(len(r.encode()) for r in rows)
     for old in ("forms.tsv", "forms.tsv.gz"):
         if os.path.exists(os.path.join(out, old)):
@@ -64,14 +82,32 @@ def main():
     L += [f"| **total** | | **{all_tokens:,}** | {len(total):,} |", "",
           f"Forms in `{os.path.basename(path)}`: {len(kept):,} (count >= {MIN_COUNT}, at most {MAX_FORMS:,}); "
           f"they cover {100*kept_tokens/all_tokens:.2f} % of all tokens. "
-          f"Forms with count 1: {sum(1 for c in total.values() if c == 1):,}.", "",
+          f"Forms with count 1: {sum(1 for c in total.values() if c == 1):,}.", ""]
+    if regions:
+        L += ["## Regional counts", "",
+              "Columns " + ", ".join(f"`{r}`" for r in regions) + " count the forms in text known to be "
+              "American (`us`) or British (`gb`) English; they are subsets of the source columns, not additions.", "",
+              "| region | tokens | distinct forms |", "|---|---:|---:|"]
+        for r in regions:
+            L.append(f"| {r} | {sum(reg[r].values()):,} | {len(reg[r]):,} |")
+        if lang == "en":
+            tu, tg = sum(reg["us"].values()), sum(reg["gb"].values())
+            L += ["", "Spelling pairs (counts per million tokens of each region):", "",
+                  "| form | us | gb | form | us | gb |", "|---|---:|---:|---|---:|---:|"]
+            for a, b in VARIANTS_EN:
+                f = lambda w, r, t: f"{1e6 * reg[r][w] / t:.1f}" if t else "n/a"
+                L.append(f"| {a} | {f(a, 'us', tu)} | {f(a, 'gb', tg)} | {b} | {f(b, 'us', tu)} | {f(b, 'gb', tg)} |")
+        L.append("")
+    L += [
           "## Coverage curve", "", "Number of top forms (by total count) needed to cover a share of all tokens:", "",
           "| share of tokens | top forms |", "|---:|---:|"]
     for t in (0.80, 0.90, 0.95, 0.99):
         L.append(f"| {int(t*100)} % | {cov.get(t, 'n/a'):,} |" if t in cov else f"| {int(t*100)} % | n/a |")
-    L += ["", "## Top 50 forms", "", "| rank | form | total | wiki | lit | gov | sentence-initial |", "|---:|---|---:|---:|---:|---:|---:|"]
+    L += ["", "## Top 50 forms", "", "| rank | form | total | wiki | lit | gov | sentence-initial |"
+          + "".join(f" {r} |" for r in regions), "|---:|---|---:|---:|---:|---:|---:|" + "---:|" * len(regions)]
     for r, (w, c) in enumerate(kept[:50], 1):
-        L.append(f"| {r} | {w} | {c:,} | {cnt['wiki'][w]:,} | {cnt['lit'][w]:,} | {cnt['gov'][w]:,} | {ini[w]:,} |")
+        L.append(f"| {r} | {w} | {c:,} | {cnt['wiki'][w]:,} | {cnt['lit'][w]:,} | {cnt['gov'][w]:,} | {ini[w]:,} |"
+                 + "".join(f" {reg[g][w]:,} |" for g in regions))
     open(os.path.join(out, "STATS.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
     print("\n".join(L[:30]))
     print(path, os.path.getsize(path))

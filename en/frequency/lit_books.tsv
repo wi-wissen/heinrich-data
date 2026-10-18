@@ -1,0 +1,673 @@
+id	authors	title	tokens	region
+32	Gilman, Charlotte Perkins, 1860-1935	Herland	53068	us
+60	Orczy, Emmuska Orczy, Baroness, 1865-1947	The Scarlet Pimpernel	84858	gb
+72	Burroughs, Edgar Rice, 1875-1950	Thuvia, maid of Mars	47294	us
+93	Twain, Mark, 1835-1910	Tom Sawyer, Detective	23343	us
+136	Stevenson, Robert Louis, 1850-1894	A Child's Garden of Verses	8155	gb
+161	Austen, Jane, 1775-1817	Sense and Sensibility	119686	gb
+165	Norris, Frank, 1870-1902	McTeague: A Story of San Francisco	113395	us
+166	Wharton, Edith, 1862-1937	Summer	57485	us
+296	Alger, Horatio, Jr., 1832-1899	The Cash Boy	27784	us
+324	Fox, John, Jr., 1862-1919	A Knight of the Cumberland	20777	us
+329	Stevenson, Robert Louis, 1850-1894	Island Nights' Entertainments	49164	gb
+401	Norris, Frank, 1870-1902	Blix	51846	us
+407	Davis, Richard Harding, 1864-1916	The Reporter Who Made Himself King	17144	us
+414	Jefferies, Richard, 1848-1887	The Pageant of Summer	7172	gb
+423	Doyle, Arthur Conan, 1859-1930	Round the Red Lamp: Being Facts and Fancies of Medical Life	68253	gb
+433	Phillips, David Graham, 1867-1911	The Conflict	95210	us
+441	Stevenson, Robert Louis, 1850-1894; Osbourne, Lloyd, 1868-1947 [Author of introduction, etc.]	New Poems, and Variant Readings	20583	gb
+463	Crane, Stephen, 1871-1900	The Red Badge of Courage: An Episode of the American Civil War	46317	us
+483	Tarkington, Booth, 1869-1946	The Conquest of Canaan	83021	us
+525	Conrad, Joseph, 1857-1924	Youth, a Narrative	13338	gb
+535	Stevenson, Robert Louis, 1850-1894; Crane, Walter, 1845-1915 [Illustrator]	Travels with a donkey in the Cevennes	34447	gb
+550	Eliot, George, 1819-1880	Silas Marner	71516	gb
+551	Burroughs, Edgar Rice, 1875-1950	The Land That Time Forgot	37377	us
+582	Potter, Beatrix, 1866-1943	A Collection of Beatrix Potter Stories	23985	gb
+595	Aldrich, Thomas Bailey, 1836-1907	The Sisters' Tragedy, with Other Poems, Lyrical and Dramatic	8598	us
+614	Stevenson, Robert Louis, 1850-1894	Across the Plains, with Other Memories and Essays	61310	gb
+648	Borrow, George, 1803-1881	Wild Wales: Its People, Language and Scenery	234052	gb
+650	Dickens, Charles, 1812-1870; Stone, Marcus, 1840-1921 [Illustrator]	Pictures from Italy	72732	gb
+723	Howells, William Dean, 1837-1920	Henry James, Jr.	3902	us
+791	Tennyson, Alfred Tennyson, Baron, 1809-1892	The Princess	26792	gb
+848	Stevenson, Robert Louis, 1850-1894	The Black Arrow: A Tale of the Two Roses	79862	gb
+862	Wister, Owen, 1860-1938	Philosophy 4: A Story of Harvard University	11267	us
+924	Dickens, Charles, 1812-1870	To Be Read at Dusk	4542	gb
+961	Baum, L. Frank (Lyman Frank), 1856-1919	Glinda of Oz	39688	us
+972	Bierce, Ambrose, 1842-1914?	The Devil's Dictionary	60411	us
+976	Hawthorne, Nathaniel, 1804-1864	Tanglewood Tales	65574	us
+1022	Thoreau, Henry David, 1817-1862	Walking	12205	us
+1024	Stevenson, Robert Louis, 1850-1894; Osbourne, Lloyd, 1868-1947	The Wrecker	138783	gb
+1027	Grey, Zane, 1872-1939	The Lone Star Ranger: A Romance of the Border	95358	us
+1063	Poe, Edgar Allan, 1809-1849	The Cask of Amontillado	2342	us
+1089	London, Jack, 1876-1916	Moon-Face, and Other Stories	48072	us
+1209	Prescott, William Hickling, 1796-1859	History of the Conquest of Peru	216389	us
+1275	Kingsley, Charles, 1819-1875	Alexandria and Her Schools	38258	gb
+1365	Longfellow, Henry Wadsworth, 1807-1882	The Complete Poetical Works of Henry Wadsworth Longfellow	328736	us
+1387	Wister, Owen, 1860-1938	Mother	9072	us
+1394	Dickens, Charles, 1812-1870	The Holly-Tree	13717	gb
+1491	Lang, Andrew, 1844-1912	Letters to Dead Authors	34888	gb
+1551	Wiggin, Kate Douglas Smith, 1856-1923	A Cathedral Courtship	8747	us
+1573	Alger, Horatio, Jr., 1832-1899	Frank's Campaign; Or, The Farm and the Camp	61223	us
+1611	Tarkington, Booth, 1869-1946	Seventeen	67085	us
+1626	Collins, Wilkie, 1824-1889	After Dark	136889	gb
+1761	Davis, Richard Harding, 1864-1916	My Buried Treasure	6795	us
+1823	Davis, Richard Harding, 1864-1916	The Make-Believe Man	11055	us
+1917	Collins, Wilkie, 1824-1889	The Queen of Hearts	145765	gb
+1918	Haggard, H. Rider (Henry Rider), 1856-1925	Long Odds	6454	gb
+2006	Collins, Wilkie, 1824-1889	A Fair Penitent	4507	gb
+2024	Jerome, Jerome K. (Jerome Klapka), 1859-1927	Diary of a Pilgrimage	41872	gb
+2039	Longfellow, Henry Wadsworth, 1807-1882	Evangeline: A Tale of Acadie	15753	us
+2066	Grey, Zane, 1872-1939	Wildfire	101322	us
+2104	Carlyle, Thomas, 1795-1881	History of Friedrich II of Prussia — Volume 04	40192	gb
+2119	Carlyle, Thomas, 1795-1881	History of Friedrich II of Prussia — Volume 19	83001	gb
+2151	Poe, Edgar Allan, 1809-1849	The Works of Edgar Allan Poe — Volume 5	73522	us
+2181	Hawthorne, Nathaniel, 1804-1864	The Marble Faun; Or, The Romance of Monte Beni - Volume 1	62911	us
+2317	Jefferies, Richard, 1848-1887	The Story of My Heart: An Autobiography	32187	gb
+2343	Doyle, Arthur Conan, 1859-1930	The Adventure of Wisteria Lodge	11433	gb
+2347	Doyle, Arthur Conan, 1859-1930	The Adventure of the Dying Detective	5813	gb
+2368	Jerome, Jerome K. (Jerome Klapka), 1859-1927	The Angel and the Author, and Others	46063	gb
+2377	London, Jack, 1876-1916	The Son of the Wolf	48880	us
+2429	London, Jack, 1876-1916	Lost Face	41136	us
+2473	Lincoln, Joseph Crosby, 1870-1944	Mary-'Gusta	117818	us
+2480	Conrad, Joseph, 1857-1924	Under Western Eyes	112785	gb
+2548	Gaskell, Elizabeth Cleghorn, 1810-1865	The Poor Clare	22710	gb
+2567	Thoreau, Henry David, 1817-1862	A Plea for Captain John Brown	9219	us
+2574	Harte, Bret, 1836-1902	On the Frontier	44416	us
+2597	Harte, Bret, 1836-1902	Mrs. Skagg's Husbands and Other Stories	39553	us
+2616	Sherman, William T. (William Tecumseh), 1820-1891	Memoirs of General William T. Sherman — Volume 1	178413	us
+2628	Huxley, Thomas Henry, 1825-1895	The Rise and Progress of Palaeontology	5188	gb
+2630	Huxley, Thomas Henry, 1825-1895	The Interpreters of Genesis and the Interpreters of Nature	5555	gb
+2705	Harte, Bret, 1836-1902	Sally Dows	57195	us
+2712	Harte, Bret, 1836-1902	A Drift from Redwood Camp	7427	us
+2728	Haggard, H. Rider (Henry Rider), 1856-1925	Hunter Quatermain's Story	6773	gb
+2729	Haggard, H. Rider (Henry Rider), 1856-1925	A Tale of Three Lions	11893	gb
+2733	Borrow, George, 1803-1881	Romano Lavo-Lil: Word Book of the Romany; Or, English Gypsy Language	46095	gb
+2806	Kipling, Rudyard, 1865-1936	The Phantom 'Rickshaw, and Other Ghost Stories	45962	gb
+2844	Thackeray, William Makepeace, 1811-1863	The Fatal Boots	18759	gb
+2893	Haggard, H. Rider (Henry Rider), 1856-1925	The Wizard	60738	gb
+2944	Emerson, Ralph Waldo, 1803-1882	Essays — First Series	74412	us
+2945	Emerson, Ralph Waldo, 1803-1882	Essays — Second Series	58637	us
+3029	Davis, Richard Harding, 1864-1916	Real Soldiers of Fortune	45260	us
+3107	Warner, Charles Dudley, 1829-1900	As We Go	29815	us
+3109	Warner, Charles Dudley, 1829-1900	Fashions in Literature	7005	us
+3119	Warner, Charles Dudley, 1829-1900	What Is Your Culture to Me?	6620	us
+3130	Warner, Charles Dudley, 1829-1900	Captain John Smith	75530	us
+3133	Warner, Charles Dudley, 1829-1900	Baddeck, and That Sort of Thing	35850	us
+3163	Burroughs, John, 1837-1921	Birds and Bees, Sharp Eyes, and Other Papers	56778	us
+3187	Twain, Mark, 1835-1910	Christian Science	60172	us
+3240	Lincoln, Joseph Crosby, 1870-1944	Cap'n Eri	81479	us
+3332	Darwin, Charles, 1809-1882	The Variation of Animals and Plants under Domestication	392610	gb
+3335	Roosevelt, Theodore, 1858-1919	Theodore Roosevelt: An Autobiography	217104	us
+3363	Howells, William Dean, 1837-1920	Fennel and Rue	35635	us
+3372	Howells, William Dean, 1837-1920	Their Silver Wedding Journey — Volume 2	43816	us
+3374	Howells, William Dean, 1837-1920	The Entire March Family Trilogy	391741	us
+3405	Howells, William Dean, 1837-1920	Ragged Lady — Volume 1	32624	us
+3530	Sabatini, Rafael, 1875-1950	Love-at-arms	84996	gb
+3536	Nesbit, E. (Edith), 1858-1924	The Enchanted Castle	68290	gb
+3615	Trollope, Anthony, 1815-1882	John Bull on the Guadalquivir	10003	gb
+3629	Dreiser, Theodore, 1871-1945	The Titan	195114	us
+3633	Collins, Wilkie, 1824-1889	Jezebel's Daughter	101783	gb
+3648	Churchill, Winston, 1871-1947	The Dwelling Place of Light — Volume 3	45846	us
+3671	Reade, Charles, 1814-1884	Christie Johnstone: A Novel	49838	gb
+3704	Darwin, Charles, 1809-1882	Journal of Researches into the Natural History and Geology of the Countries Visited During the Voyage Round the World of H.M.S. Beagle Under the Command of Captain Fitz Roy, R.N.	211046	gb
+3716	Trollope, Anthony, 1815-1882	Mrs. General Talboys	9341	gb
+3724	Trollope, Anthony, 1815-1882	The House of Heine Brothers, in Munich	10134	gb
+3762	Churchill, Winston, 1871-1947	Coniston — Volume 01	27574	us
+3767	Trollope, Anthony, 1815-1882	The Man Who Kept His Money in a Box	11860	gb
+3773	Morris, William, 1834-1896	Hopes and Fears for Art	57925	gb
+4057	Pater, Walter, 1839-1894	Marius the Epicurean — Volume 1	56425	gb
+4082	Beach, Rex, 1877-1949	The Barrier	88062	us
+4092	Cooper, James Fenimore, 1789-1851	The Monikins	142867	us
+4232	Thoreau, Henry David, 1817-1862	A Week on the Concord and Merrimack Rivers	115406	us
+4279	Burroughs, John, 1837-1921	Winter Sunshine	62503	us
+4357	Baum, L. Frank (Lyman Frank), 1856-1919	American Fairy Tales	31844	us
+4361	Sherman, William T. (William Tecumseh), 1820-1891	Memoirs of General William T. Sherman — Complete	349646	us
+4434	Meredith, George, 1828-1909	Evan Harrington — Complete	174502	gb
+4461	Meredith, George, 1828-1909	The Tragic Comedians: A Study in a Well-known Story — Volume 1	20817	gb
+4477	Meredith, George, 1828-1909	Lord Ormont and His Aminta — Volume 1	25314	gb
+4478	Meredith, George, 1828-1909	Lord Ormont and His Aminta — Volume 2	18766	gb
+4480	Meredith, George, 1828-1909	Lord Ormont and His Aminta — Volume 4	21794	gb
+4486	Meredith, George, 1828-1909	The Amazing Marriage — Volume 4	30305	gb
+4491	Meredith, George, 1828-1909	Celt and Saxon — Complete	67547	gb
+4743	Curwood, James Oliver, 1878-1927	The Country Beyond: A Romance of the Wilderness	85521	us
+4745	Mason, A. E. W. (Alfred Edward Woodley), 1865-1948	At the Villa Rose	72773	gb
+4801	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 01: Introduction I	11254	us
+4812	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 11: 1566, part II	14791	us
+4813	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 12: 1567, part I	15708	us
+4814	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 13: 1567, part II	16290	us
+4819	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 18: 1572	14851	us
+4823	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Complete (1566-74)	181211	us
+4826	Motley, John Lothrop, 1814-1877	The Rise of the Dutch Republic — Volume 24: 1576-77	16263	us
+4842	Motley, John Lothrop, 1814-1877	History of the United Netherlands from the Death of William the Silent to the Twelve Year's Truce, 1585e	16104	us
+4887	Motley, John Lothrop, 1814-1877	Life and Death of John of Barneveld, Advocate of Holland : with a view of the primary causes and movements of the Thirty Years' War, 1610a	13321	us
+4897	Motley, John Lothrop, 1814-1877	Life and Death of John of Barneveld, Advocate of Holland : with a view of the primary causes and movements of the Thirty Years' War, 1619-23	19043	us
+4961	Lewis, Sinclair, 1885-1951	Our Mr. Wrenn: The Romantic Adventures of a Gentle Man	77139	us
+5032	Roosevelt, Theodore, 1858-1919	State of the Union Addresses	156781	us
+5116	James, William, 1842-1910	Pragmatism: A New Name for Some Old Ways of Thinking	51699	us
+5227	Crawford, F. Marion (Francis Marion), 1854-1909	Sant' Ilario	165324	us
+5247	Bennett, Arnold, 1867-1931	The Old Wives' Tale	217135	gb
+5309	Roe, Edward Payson, 1838-1888	"Miss Lou"	113002	us
+5358	Churchill, Winston, 1871-1947	The Inside of the Cup — Volume 03	22961	us
+5361	Churchill, Winston, 1871-1947	The Inside of the Cup — Volume 06	25273	us
+5366	Churchill, Winston, 1871-1947	Richard Carvel — Volume 02	19669	us
+5372	Churchill, Winston, 1871-1947	Richard Carvel — Volume 08	29247	us
+5375	Churchill, Winston, 1871-1947	A Modern Chronicle — Volume 02	23260	us
+5417	Alger, Horatio, Jr., 1832-1899	Struggling Upward, or Luke Larkin's Luck	51702	us
+5435	Aldrich, Thomas Bailey, 1836-1907	The Stillwater Tragedy	63641	us
+5661	Bierce, Ambrose, 1842-1914?	A Son of the Gods, and A Horseman in the Sky	6050	us
+5745	Haggard, H. Rider (Henry Rider), 1856-1925	She and Allan	121223	gb
+5747	Alger, Horatio, Jr., 1832-1899	Do and Dare — a Brave Boy's Fight for Fortune	49652	us
+5748	Chambers, Robert W. (Robert William), 1865-1933	In Secret	74704	us
+5787	Twain, Mark, 1835-1910	A Tramp Abroad — Volume 06	23501	us
+5809	Twain, Mark, 1835-1910	Following the Equator: A Journey Around the World. Part 2	21860	us
+5811	Twain, Mark, 1835-1910	Following the Equator: A Journey Around the World. Part 4	17984	us
+5865	Grant, Ulysses S. (Ulysses Simpson), 1822-1885	Personal Memoirs of  U. S. Grant, Part 6.	74448	us
+5970	Rice, Alice Caldwell Hegan, 1870-1942	Lovey Mary	21705	us
+5975	MacDonald, George, 1824-1905	Thomas Wingfold, Curate V3	56034	gb
+5993	Alger, Horatio, Jr., 1832-1899	Walter Sherwood's Probation	46229	us
+6117	Roe, Edward Payson, 1838-1888	Success with Small Fruits	110228	us
+6120	Kipling, Rudyard, 1865-1936	Soldiers Three	89705	gb
+6373	Harte, Bret, 1836-1902	The Luck of Roaring Camp and Other Tales	129926	us
+6442	Holland, J. G. (Josiah Gilbert), 1819-1881	Bitter-Sweet: A Poem	24380	us
+6446	Crawford, F. Marion (Francis Marion), 1854-1909	Greifenstein	153358	us
+6450	Cooper, James Fenimore, 1789-1851	The Prairie	167618	us
+6616	Hichens, Robert, 1864-1950	December Love	189169	gb
+6695	Fitzgerald, F. Scott (Francis Scott), 1896-1940	Tales of the Jazz Age	87387	us
+6967	Prescott, William Hickling, 1796-1859	The History of the Reign of Ferdinand and Isabella the Catholic — Volume 2	146416	us
+7023	Scott, Walter, 1771-1832	Rob Roy — Volume 01	94844	gb
+7045	Anderson, Sherwood, 1876-1941	Marching Men	70506	us
+7159	Twain, Mark, 1835-1910	The Prince and the Pauper, Part 6.	8535	us
+7248	Twain, Mark, 1835-1910	A Connecticut Yankee in King Arthur's Court, Part 7.	13132	us
+7381	Trollope, Anthony, 1815-1882	The Eustace Diamonds	270296	gb
+7388	Holmes, Oliver Wendell, 1809-1894	The Poetical Works of Oliver Wendell Holmes — Volume 01: Earlier Poems (1830-1836)	11535	us
+7389	Holmes, Oliver Wendell, 1809-1894	The Poetical Works of Oliver Wendell Holmes — Volume 02	16044	us
+7393	Holmes, Oliver Wendell, 1809-1894	The Poetical Works of Oliver Wendell Holmes — Volume 06	17494	us
+7430	Howells, William Dean, 1837-1920	Familiar Spanish Travels	100074	us
+7487	Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881	Count Alarcos; a Tragedy	22124	gb
+7629	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	Devereux — Volume 06	41027	gb
+7633	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	The Disowned — Volume 03	22646	gb
+7658	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	Kenelm Chillingly — Complete	191416	gb
+7672	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	Harold : the Last of the Saxon Kings — Volume 01	16852	gb
+7703	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	"My Novel" — Volume 02	24178	gb
+7711	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	"My Novel" — Volume 10	41478	gb
+7724	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	The Last of the Barons — Volume 10	23781	gb
+7880	Hawthorne, Nathaniel, 1804-1864	Passages from the French and Italian Notebooks, Volume 2.	84642	us
+7881	Hawthorne, Nathaniel, 1804-1864	Passages from the French and Italian Notebooks, Complete	169723	us
+8091	Hawthorne, Nathaniel, 1804-1864	Sketches and Studies	75612	us
+8110	Lincoln, Abraham, 1809-1865	Lincoln Letters	1026	us
+8135	Walpole, Hugh, 1884-1941	The Cathedral: A Novel	142310	gb
+8171	Howells, William Dean, 1837-1920	Modern Italian Poets; Essays and Versions	89318	us
+8429	Hawthorne, Nathaniel, 1804-1864	The Ancestral Footstep (fragment)	30935	us
+8441	Chambers, Robert W. (Robert William), 1865-1933	Between Friends	14665	us
+8471	Twain, Mark, 1835-1910	Life on the Mississippi, Part 1.	13389	us
+8528	Twain, Mark, 1835-1910; Ralph, Lester [Illustrator]	Eve's Diary, Part 3	2714	us
+8529	Herrick, Robert, 1868-1938	The World Decision	56260	us
+8720	Edgeworth, Maria, 1768-1849	Tales and Novels — Volume 02	192005	gb
+8733	Kingsley, Charles, 1819-1875	The Hermits	91483	gb
+8932	Holland, J. G. (Josiah Gilbert), 1819-1881	Lessons in Life; A Series of Familiar Essays	81738	us
+9052	Braddon, M. E. (Mary Elizabeth), 1835-1915	The Golden Calf	161684	gb
+9216	Hawthorne, Nathaniel, 1804-1864	Beneath an Umbrella (From "Twice Told Tales")	2327	us
+9220	Hawthorne, Nathaniel, 1804-1864	The Threefold Destiny (From "Twice Told Tales")	3364	us
+9250	Hawthorne, Nathaniel, 1804-1864	A Book of Autographs	5986	us
+9253	Hawthorne, Nathaniel, 1804-1864	"Browne's Folly"	1200	us
+9376	White, Stewart Edward, 1873-1946	The Forest	52318	us
+9385	Nesbit, E. (Edith), 1858-1924	The Incomplete Amorist	92688	gb
+9407	Johnston, Annie F. (Annie Fellows), 1863-1931	The Little Colonel	19093	us
+9458	Howells, William Dean, 1837-1920	Questionable Shapes	41598	us
+9560	Whittier, John Greenleaf, 1807-1892	The Vaudois Teacher, and other poems	12523	us
+9573	Whittier, John Greenleaf, 1807-1892	Religious Poems, Part 2.	13459	us
+9587	Whittier, John Greenleaf, 1807-1892	Margaret Smith's Journal	53220	us
+9754	Lytton, Edward Bulwer Lytton, Baron, 1803-1873	Night and Morning, Volume 5	50384	gb
+9838	Cable, George Washington, 1844-1925	Strong Hearts	36971	us
+9871	Oppenheim, E. Phillips (Edward Phillips), 1866-1946	The Avenger	74980	gb
+9963	Finley, Martha, 1828-1909	Elsie's Girlhood	95074	us
+10012	Muir, John, 1838-1914	The Mountains of California	90245	us
+10059	Baum, L. Frank (Lyman Frank), 1856-1919	Aunt Jane's Nieces on Vacation	48813	us
+10084	Curwood, James Oliver, 1878-1927; Hoffman, Frank B., 1888-1958 [Illustrator]; Hoskins, Gayle Porter, 1887-1962 [Illustrator]	Kazan	66235	us
+10102	Le Queux, William, 1864-1927	The Czar's Spy: The Mystery of a Silent Love	91337	gb
+10132	Merriman, Henry Seton, 1862-1903	The Sowers	107106	gb
+10342	Merriman, Henry Seton, 1862-1903	The Velvet Glove	73781	gb
+10561	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Fine Feathers	3879	gb
+10568	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Dual Control	3529	gb
+10696	Curwood, James Oliver, 1878-1927	The Danger Trail	52300	us
+10736	London, Jack, 1876-1916	Children of the Frost	50408	us
+10782	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Homeward Bound	3975	gb
+10786	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Odd Man Out	3956	gb
+10789	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	The Head of the Family	4069	gb
+10790	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Prize Money	4109	gb
+10792	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Keeping Up Appearances	3667	gb
+10846	Farrar, F. W. (Frederic William), 1831-1903	Seekers after God	84407	gb
+10938	Cooper, James Fenimore, 1789-1851	The Headsman; Or, The Abbaye des Vignerons	158803	us
+10942	White, Stewart Edward, 1873-1946	The Claim Jumpers: A Romance	48251	us
+11063	Hope, Anthony, 1863-1933	A man of mark	38401	gb
+11144	Davis, Richard Harding, 1864-1916	Somewhere in France	43050	us
+11151	Ellis, Edward Sylvester, 1840-1916	The Lost Trail	35760	us
+11493	Benson, E. F. (Edward Frederic), 1867-1940	The Blotting Book	36614	gb
+11502	Wells, H. G. (Herbert George), 1866-1946	An Englishman Looks at the World	100747	gb
+11503	Bacheller, Irving, 1859-1950	Keeping up with Lizzie	21301	us
+11572	McCutcheon, George Barr, 1866-1928; Fisher, Harrison, 1875-1934 [Illustrator]	The Man from Brodney's	103785	us
+11643	Trollope, Anthony, 1815-1882	John Caldigate	208784	gb
+11667	Abbott, Jacob, 1803-1879	Gentle Measures in the Management and Training of the Young	93435	us
+11698	Sinclair, May, 1863-1946	The Three Brontës	71508	gb
+11930	Ade, George, 1866-1944	More Fables	21072	us
+11973	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Dialstone Lane, Part 3.	13882	gb
+11997	Stables, Gordon, 1840-1910	Crusoes of the Frozen North	14728	gb
+12190	Stockton, Frank R., 1834-1902	The Adventures of Captain Horn	125913	us
+12199	Catherwood, Mary Hartwell, 1847-1902	The Chase of Saint-Castin and Other Stories of the French in the New World	44054	us
+12300	Ford, Paul Leicester, 1865-1902	The True George Washington [10th Ed.]	85692	us
+12440	Bacheller, Irving, 1859-1950	D'Ri and I: A Tale of Daring Deeds in the Second War with the British.	66120	us
+12445	Cooper, James Fenimore, 1789-1851	The Water-Witch; Or, the Skimmer of the Seas: A Tale	157505	us
+12577	Cable, George Washington, 1844-1925	Strange True Stories of Louisiana	90552	us
+12611	Bennett, Arnold, 1867-1931	The Regent	84296	gb
+12669	Ferrier, Susan, 1782-1854	Marriage	160717	gb
+12700	Holmes, Oliver Wendell, 1809-1894	Ralph Waldo Emerson	99966	us
+12741	Alger, Horatio, Jr., 1832-1899	Risen from the Ranks; Or, Harry Walton's Success	54546	us
+12952	Stratemeyer, Edward, 1862-1930	Four Boy Hunters; Or, The Outing of the Gun Club	47141	us
+13243	Crawford, F. Marion (Francis Marion), 1854-1909	In the Palace of the King: A Love Story of Old Madrid	97792	us
+13334	Bierce, Ambrose, 1842-1914?	The Collected Works of Ambrose Bierce, Volume 02	76686	us
+13543	Ade, George, 1866-1944	People You Know	26919	us
+13730	Jefferies, Richard, 1848-1887	The Amateur Poacher	54869	gb
+13801	Ward, Humphry, Mrs., 1851-1920	Harvest	76531	gb
+13852	Bennett, Arnold, 1867-1931	Literary Taste: How to Form It	23724	gb
+13944	Jefferies, Richard, 1848-1887	After London; Or, Wild England	84176	gb
+13984	Lang, Andrew, 1844-1912	In the Wrong Paradise, and Other Stories	57548	gb
+14129	Lamb, Charles, 1775-1834; Lamb, Mary, 1764-1847 [Contributor]	The Works of Charles Lamb in Four Volumes, Volume 4	103033	gb
+14297	Davis, Richard Harding, 1864-1916	The Congo and Coasts of Africa	43229	us
+14338	Hearn, Lafcadio, 1850-1904; Erskine, John, 1879-1951 [Editor]	Books and Habits, from the Lectures of Lafcadio Hearn	78365	us
+14362	Hough, Emerson, 1857-1923	The Way of a Man	97698	us
+14373	Craik, Dinah Maria Mulock, 1826-1887	A Noble Life	67556	gb
+14449	London, Jack, 1876-1916	Dutch Courage and Other Stories	33506	us
+14526	Crawford, F. Marion (Francis Marion), 1854-1909	The Little City of Hope: A Christmas Story	24843	us
+14566	Finley, Martha, 1828-1909	Elsie's Motherhood	78820	us
+14813	Hewlett, Maurice, 1861-1923	The Life and Death of Richard Yea-and-Nay	108619	gb
+14860	Scott, Walter, 1771-1832; Douglas, David, 1823-1916 [Editor]	The Journal of Sir Walter Scott	321281	gb
+15493	Ainsworth, William Harrison, 1805-1882; Gilbert, John, 1817-1897 [Illustrator]	The Lancashire Witches: A Romance of Pendle Forest	232201	gb
+15580	Grey, Zane, 1872-1939	The Rustlers of Pecos County	72692	us
+15670	Everett-Green, Evelyn, 1856-1932	The Secret Chamber at Chad	55192	gb
+15767	Altsheler, Joseph A. (Joseph Alexander), 1862-1919	The Texan Scouts: A Story of the Alamo and Goliad	105225	us
+16381	Mason, A. E. W. (Alfred Edward Woodley), 1865-1948	The Summons	99832	gb
+16998	Oppenheim, E. Phillips (Edward Phillips), 1866-1946	The Betrayal	79593	gb
+17038	Green, John Richard, 1837-1883	History of the English People, Volume II	93882	gb
+17089	Potter, Beatrix, 1866-1943	The Tale of Mrs. Tittlemouse	1335	gb
+17168	Harte, Bret, 1836-1902; Greenaway, Kate, 1846-1901 [Illustrator]	The Queen of the Pirate Isle	6491	us
+17176	Bennett, Arnold, 1867-1931	The Ghost: A Modern Fantasy	58442	gb
+17636	Stratemeyer, Edward, 1862-1930	The Mystery at Putnam Hall: The School Chums' Strange Discovery	53879	us
+17964	Bangs, John Kendrick, 1862-1922	Olympian Nights	31525	us
+18118	Hubbard, Elbert, 1856-1915	Little Journeys to the Homes of the Great - Volume 04	71578	us
+18581	Alger, Horatio, Jr., 1832-1899	Adrift in New York: Tom and Florence Braving the World	53922	us
+18640	Trollope, Anthony, 1815-1882	Phineas Redux	262478	gb
+18859	MacDonald, George, 1824-1905	Cross Purposes and The Shadows	18348	gb
+19135	Dixon, Thomas, Jr., 1864-1946; Marchand, J. N. [Illustrator]	The Southerner: A Romance of the Real Lincoln	136378	us
+19341	Oppenheim, E. Phillips (Edward Phillips), 1866-1946	A Maker of History	75336	gb
+19419	Kingston, William Henry Giles, 1814-1880	In the Rocky Mountains: A Tale of Adventure	66206	gb
+19805	Potter, Beatrix, 1866-1943	The Tale of Mr. Tod	4937	gb
+20243	Merriman, Henry Seton, 1862-1903	Dross	68489	gb
+20312	Kingsley, Charles, 1819-1875; Kingsley, Frances Eliza Grenfell, 1814-1891 [Editor]	Out of the deep	25402	gb
+20323	Yonge, Charlotte M. (Charlotte Mary), 1823-1901	That Stick	72813	gb
+20404	Nesbit, E. (Edith), 1858-1924; Brooke, Caris, 1844-1899; Smith, H. Bellingham [Illustrator]	All Round the Year	1774	gb
+20425	Ewing, Juliana Horatia, 1841-1885	The Peace Egg and Other tales	32595	gb
+20544	Fenn, George Manville, 1831-1909	The Little Skipper: A Son of a Sailor	12105	gb
+20695	Garland, Hamlin, 1860-1940	The Spirit of Sweetwater	15275	us
+20729	Henty, G. A. (George Alfred), 1832-1902	At the Point of the Bayonet: A Tale of the Mahratta War	134317	gb
+20755	Froude, James Anthony, 1818-1894	Short Studies on Great Subjects	181900	gb
+20807	Barrie, J. M. (James Matthew), 1860-1937	Better Dead	17878	gb
+20897	Chesterton, G. K. (Gilbert Keith), 1874-1936	A Short History of England	60723	gb
+20994	Reed, Talbot Baines, 1852-1893; Stacey, W. S. (Walter S.), 1846-1929 [Illustrator]	Kilgorman: A Story of Ireland in 1798	106211	gb
+21295	Fenn, George Manville, 1831-1909; Rainey, W. (William), 1852-1936 [Illustrator]	Cormorant Crag: A Tale of the Smuggling Days	121990	gb
+21357	Fenn, George Manville, 1831-1909; Groome, William H. C., 1860-1914 [Illustrator]	Nic Revel: A White Slave's Adventures in Alligator Land	72134	gb
+21467	Kingston, William Henry Giles, 1814-1880	The Log House by the Lake: A Tale of Canada	27883	gb
+21469	Kingston, William Henry Giles, 1814-1880	The Mate of the "Lily"; Or, Notes from Harry Musgrave's Log Book	37211	gb
+21470	Kingston, William Henry Giles, 1814-1880	The Missing Ship: The Log of the "Ouzel" Galley	173213	gb
+21486	Kingston, William Henry Giles, 1814-1880	The Woodcutter of Gutech	13737	gb
+21530	Wallace, Edgar, 1875-1932	The Angel of Terror	63031	gb
+21720	Ballantyne, R. M. (Robert Michael), 1825-1894	Charlie to the Rescue	97221	gb
+21741	Ballantyne, R. M. (Robert Michael), 1825-1894	The Island Queen	57065	gb
+21758	Ballantyne, R. M. (Robert Michael), 1825-1894	Hudson Bay	89059	gb
+21914	Baum, L. Frank (Lyman Frank), 1856-1919; Morgan, Ike [Illustrator]	The Woggle-Bug Book	7365	us
+21930	Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]	Salthaven	57334	gb
+21958	Standish, Burt L., 1866-1945	Frank Merriwell's Races	70832	us
+22000	Trollope, Anthony, 1815-1882	Kept in the Dark	75395	gb
+22088	Newman, John Henry, 1801-1890	Apologia pro vita sua	138335	gb
+22191	Hope, Anthony, 1863-1933	Half a Hero: A Novel	64434	gb
+22224	Henty, G. A. (George Alfred), 1832-1902	At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt	110834	gb
+22246	Crawford, F. Marion (Francis Marion), 1854-1909	The Upper Berth; By the Waters of Paradise	18465	us
+22282	Harris, Joel Chandler, 1848-1908	Uncle Remus and Brer Rabbit	6883	us
+22320	Stowe, Harriet Beecher, 1811-1896	Oldtown Fireside Stories	32425	us
+22433	Optic, Oliver, 1822-1897; Kilburn, Samuel Smith, 1831-1903 [Illustrator]	Breaking Away; or, The Fortunes of a Student	58722	us
+22701	Bellamy, Edward, 1850-1898	The Blindman's World	7205	us
+22713	Bellamy, Edward, 1850-1898	With The Eyes Shut	7561	us
+22842	Mitford, Mary Russell, 1787-1855	The Widow's Dog	4845	gb
+22877	Borrow, George, 1803-1881; Groome, Francis Hindes, 1851-1902 [Editor]	Lavengro	110678	gb
+22996	Stratemeyer, Edward, 1862-1930	The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box	64043	us
+23013	Page, Thomas Nelson, 1853-1922	"George Washington's" Last Duel	12545	us
+23017	Page, Thomas Nelson, 1853-1922	Elsket	10904	us
+23071	Kingston, William Henry Giles, 1814-1880	The Rival Crusoes	109890	gb
+23108	Alger, Horatio, Jr., 1832-1899	Chester Rand; or, The New Path to Fortune	55411	us
+23126	Farrar, F. W. (Frederic William), 1831-1903	Eric, or Little by Little	95271	gb
+23252	Catherwood, Mary Hartwell, 1847-1902	The Indian On The Trail	4983	us
+23269	Kingston, William Henry Giles, 1814-1880; Holloway, W. Herbert (William Herbert), 1878-1923 [Illustrator]	The Heir of Kilfinnan: A Tale of the Shore and Ocean	73023	gb
+23410	Hichens, Robert, 1864-1950	The Spinster	4348	gb
+23430	Abbott, Jacob, 1803-1879	Rollo in Rome	40574	us
+23491	Collingwood, Harry, 1851-1922; Dugdale, Thomas Cantrell, 1880-1952 [Illustrator]	The Castaways	80862	gb
+23516	Page, Thomas Nelson, 1853-1922	Bred in the bone	10417	us
+23789	Southworth, Emma Dorothy Eliza Nevitte, 1819-1899	Cruel as the grave	109434	us
+23810	Chopin, Kate, 1850-1904	At Fault	57929	us
+23871	Harris, Joel Chandler, 1848-1908; Gibbs, George, 1870-1942 [Illustrator]	A Little Union Scout	35346	us
+24022	Dickens, Charles, 1812-1870; Rackham, Arthur, 1867-1939 [Illustrator]	A Christmas Carol	29174	gb
+24086	Ballantyne, R. M. (Robert Michael), 1825-1894	Over the Rocky Mountains: Wandering Will in the Land of the Redskin	27885	gb
+24182	Abbott, Jacob, 1803-1879	Rollo in London	41714	us
+24428	Ruskin, John, 1819-1900	Our Fathers Have Told Us	52021	gb
+24450	Wallace, Edgar, 1875-1932	"Bones": Being Further Adventures in Mr. Commissioner Sanders' Country	57389	gb
+24544	Optic, Oliver, 1822-1897	Desk and Debit; or, The Catastrophes of a Clerk	61652	us
+24574	Newman, John Henry, 1801-1890	Loss and gain	107820	gb
+24920	Wallace, Edgar, 1875-1932	The Book of All-Power	50332	gb
+24933	Wallace, Edgar, 1875-1932	The Man Who Knew	52815	gb
+25151	Alger, Horatio, Jr., 1832-1899	Slow and Sure: The Story of Paul Hoffman the Young Street-Merchant	55823	us
+25171	Dunbar, Paul Laurence, 1872-1906	The uncalled	52824	us
+25322	Ade, George, 1866-1944; Newman, Clyde J. [Illustrator]	Fables in Slang	16471	us
+25351	Abbott, Jacob, 1803-1879	Xerxes	59095	us
+25487	Peck, George W. (George Wilbur), 1840-1916; Smith, Gean, 1851-1928 [Illustrator]	Peck's Bad Boy and His Pa	51319	us
+25556	Catherwood, Mary Hartwell, 1847-1902	Heroes of the Middle West: The French	28411	us
+25570	Caine, Hall, Sir, 1853-1931	The Manxman : a novel	200711	gb
+25572	Caine, Hall, Sir, 1853-1931	Capt'n Davy's Honeymoon	29884	gb
+25586	Cather, Willa, 1873-1947	A Collection of Stories, Reviews and Essays	96121	us
+25710	Ewing, Juliana Horatia, 1841-1885; Murphy, Hermann Dudley, 1867-1945 [Illustrator]	Last Words: A Final Collection of Stories	65162	gb
+25919	Benson, E. F. (Edward Frederic), 1867-1940	Miss Mapp	85355	gb
+25961	Lardner, Ring, 1885-1933; Fox, Fontaine, 1884-1964 [Illustrator]	Bib Ballads	3879	us
+25995	Stables, Gordon, 1840-1910	As We Sweep Through The Deep	39840	gb
+26046	Burroughs, John, 1837-1921; Fuertes, Louis Agassiz, 1874-1927 [Illustrator]	Bird Stories from Burroughs	35862	us
+26088	Caine, Hall, Sir, 1853-1931	A Son of Hagar: A Romance of Our Time	139079	gb
+26154	Locke, William John, 1863-1930; Ball, Alec [Illustrator]	The Joyous Adventures of Aristide Pujol	69375	gb
+26316	Glasgow, Ellen Anderson Gholson, 1873-1945	Virginia	148025	us
+26327	Crawford, F. Marion (Francis Marion), 1854-1909; Castaigne, J. André, 1861-1929 [Illustrator]	Casa Braccio, Volumes 1 and 2	152266	us
+26429	Harris, Joel Chandler, 1848-1908	Nights With Uncle Remus: Myths and Legends of the Old Plantation	119500	us
+26448	Wister, Owen, 1860-1938; Stewardson, John [Illustrator]	The Dragon of Wantley: His Tale	30210	us
+26487	Yonge, Charlotte M. (Charlotte Mary), 1823-1901; Frølich, Lorenz, 1820-1908 [Illustrator]	Little Lucy's Wonderful Globe	17159	gb
+26495	Mill, John Stuart, 1806-1873	A System of Logic, Ratiocinative and Inductive (Vol. 1 of 2)	182161	gb
+26610	Lewis, Sinclair, 1885-1951	The Trail of the Hawk: A Comedy of the Seriousness of Life	123922	us
+26698	Ford, Ford Madox, 1873-1939	Privy Seal: His Last Venture	60952	gb
+26732	Lewis, Sinclair, 1885-1951	Free Air	83346	us
+26734	Abbott, Jacob, 1803-1879	Charles I	53020	us
+26829	Warner, Susan, 1819-1885	The Old Helmet, Volume I	99574	us
+26999	Barrie, J. M. (James Matthew), 1860-1937; Rackham, Arthur, 1867-1939 [Illustrator]	Peter Pan in Kensington Gardens	22770	gb
+27525	Wallace, Edgar, 1875-1932	Bones in London	61912	gb
+27924	Dickens, Charles, 1812-1870; Collins, Charles Allston, 1828-1873 [Contributor]; Edwards, Amelia B., 1831-1892 [Contributor]; Halliday, Andrew, 1830-1877 [Contributor]; Stretton, Hesba, 1832-1911 [Contributor]; Goodman, Arthur Jule, 1870-1926 [Illustrator]	Mugby Junction	50069	gb
+28287	Scott, Walter, 1771-1832; Moody, William Vaughn, 1869-1910 [Editor]	The Lady of the Lake	50064	gb
+28331	Ellis, Edward Sylvester, 1840-1916	The Young Ranchers; Or, Fighting the Sioux	49684	us
+28459	Anstey, F., 1856-1934	In Brief Authority	114332	gb
+28675	Wister, Owen, 1860-1938; Remington, Frederic, 1861-1909 [Illustrator]	Red Men and White	79863	us
+28776	Abbott, Jacob, 1803-1879	Stuyvesant: A Franconia Story	34813	us
+29253	Wiggin, Kate Douglas Smith, 1856-1923	The Girl Scouts: A Training School for Womanhood	689	us
+29667	Ellis, Edward Sylvester, 1840-1916	Adrift on the Pacific: A Boys [sic] Story of the Sea and its Perils	62940	us
+29828	Trollope, Anthony, 1815-1882	Is He Popenjoy?	212410	gb
+29866	Southworth, Emma Dorothy Eliza Nevitte, 1819-1899	Hidden hand	89257	us
+29929	Froude, James Anthony, 1818-1894	Bunyan	55747	gb
+30188	Ford, Ford Madox, 1873-1939	The Fifth Queen: And How She Came to Court	75484	gb
+30394	Stratemeyer, Edward, 1862-1930; Rogers, Walter S. (Walter Stanton), 1870-1937 [Illustrator]	Dave Porter and His Double; Or, The Disapperarance of the Basswood Fortune	61889	us
+30568	Kipling, Rudyard, 1865-1936; Norton, Charles Eliot, 1827-1908 [Contributor]; Burt, Mary E. (Mary Elizabeth), 1850-1918 [Editor]; Chapin, W. T. (Wallace Tory), 1866-1946 [Editor]	Kipling Stories and Poems Every Child Should Know, Book II	48767	gb
+30827	Le Queux, William, 1864-1927	The Count's Chauffeur	73665	gb
+30944	Kingsley, Charles, 1819-1875; Kingsley, Frances Eliza Grenfell, 1814-1891 [Editor]	Lectures Delivered in America in 1874	35388	gb
+31231	Avery, Harold, 1867-1943	Under Padlock and Seal	22751	gb
+31303	Lee, Vernon, 1856-1935	Euphorion - Vol. I	49242	gb
+31623	Ruskin, John, 1819-1900	Modern Painters, Volume 4 (of 5)	147436	gb
+31824	Dreiser, Theodore, 1871-1945	The "Genius"	306006	us
+31884	Nye, Bill, 1850-1896	A Guest at the Ludlow, and Other Stories	49717	us
+32257	Belloc, Hilaire, 1870-1953	Malplaquet	19366	gb
+32540	Muir, John, 1838-1914	My First Summer in the Sierra	58955	us
+33086	Walpole, Hugh, 1884-1941	The Duchess of Wrexe, Her Decline and Death; A Romantic Commentary	154074	gb
+33519	Sedgwick, Anne Douglas, 1873-1935	The Nest, The White Pagoda, The Suicide, A Forsaken Temple, Miss Jones and the Masterpiece	60120	us
+33619	Henty, G. A. (George Alfred), 1832-1902; Pearse, Alfred, 1855-1933 [Illustrator]	Maori and Settler: A Story of The New Zealand War	101719	gb
+33666	Page, Thomas Nelson, 1853-1922; Jacobs, W. L. (William Leroy), 1869-1917 [Illustrator]	A Captured Santa Claus	10911	us
+34100	Standish, Burt L., 1866-1945; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]	Lefty Locke, pitcher-manager	62339	us
+34135	Roosevelt, Theodore, 1858-1919	A Book-Lover's Holidays in the Open	81184	us
+34250	Garland, Hamlin, 1860-1940	Victor Ollnee's Discipline	69824	us
+34306	Stratemeyer, Edward, 1862-1930; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]	Fighting in Cuban waters	65754	us
+34367	Stratemeyer, Edward, 1862-1930	The Last Cruise of the Spitfire; or, Luke Foster's Strange Voyage	46655	us
+34392	Thoreau, Henry David, 1817-1862; Johnson, Clifton, 1865-1940 [Illustrator]	Cape Cod	78182	us
+34485	Kingston, William Henry Giles, 1814-1880	The Circassian Chief: A Romance of Russia	173875	gb
+34486	Kingston, William Henry Giles, 1814-1880	Among the Red-skins; Or, Over the Rocky Mountains	29045	gb
+34499	Alger, Horatio, Jr., 1832-1899	Mark Mason's Victory: The Trials and Triumphs of a Telegraph Boy	62418	us
+34553	Bangs, John Kendrick, 1862-1922	Over the Plum Pudding	40856	us
+35017	Bangs, John Kendrick, 1862-1922	Half-Hours with the Idiot	22602	us
+35361	Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Grefé, Will, 1875-1957 [Illustrator]	The Wicked Marquis	83051	gb
+35584	Huxley, Thomas Henry, 1825-1895; Huxley, Henrietta A., -1915 [Editor]	Aphorisms and Reflections from the works of T. H. Huxley	53130	gb
+35641	Molesworth, Mrs., 1839-1921	Uncanny Tales	45447	gb
+35642	Borrow, George, 1803-1881; Burke, Ulick Ralph, 1845-1895 [Editor]; Greene, Herbert W. (Herbert Wilson), 1857-1933 [Editor]	The Bible in Spain, Vol. 1 [of 2]	128251	gb
+35786	Caine, Hall, Sir, 1853-1931	She's All the World to Me	45964	gb
+35983	Warner, Susan, 1819-1885; Warner, Anna Bartlett, 1824-1915	Little Nettie; or, Home Sunshine	23665	us
+36026	Bangs, John Kendrick, 1862-1922; Neill, John R. (John Rea), 1877-1943 [Illustrator]	From Pillar to Post: Leaves from a Lecturer's Note-Book	65132	us
+36563	Trollope, Frances Milton, 1780-1863	The Widow Barnaby. Vol. 3 (of 3)	66359	gb
+37190	Nicholson, Meredith, 1866-1947; Fisher, Harrison, 1875-1934 [Illustrator]	The Main Chance	111795	us
+37331	Hornung, E. W. (Ernest William), 1866-1921	Notes of a Camp-Follower on the Western Front	53532	gb
+37338	Hornung, E. W. (Ernest William), 1866-1921; Steele, Frederic Dorr, 1873-1944 [Illustrator]	The Crime Doctor	60266	gb
+37463	Glasgow, Ellen Anderson Gholson, 1873-1945	The Builders	107238	us
+37656	Roosevelt, Theodore, 1858-1919	Thomas Hart Benton	82900	us
+37976	Baum, L. Frank (Lyman Frank), 1856-1919; Denslow, W. W. (William Wallace), 1856-1915 [Illustrator]	Dot and Tot of Merryland	33414	us
+38922	Warner, Susan, 1819-1885; Harms, Louis, 1808-1865	Pine Needles	81915	us
+39018	Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Wilson, F. Vaux (Francis Vaux), 1874-1938 [Illustrator]	Mr. Marx's Secret	77763	gb
+39042	Wharton, Edith, 1862-1937	In Morocco	50113	us
+39374	Henty, G. A. (George Alfred), 1832-1902	The Curse of Carne's Hold: A Tale of Adventure	117761	gb
+39662	Molesworth, Mrs., 1839-1921; Pitman, Rosie M. M. [Illustrator]	The Magic Nuts	39240	gb
+39768	Parkman, Francis, 1823-1893	Vassall Morton: A Novel	98164	us
+39776	Hogg, James, 1770-1835	The Three Perils of Man; or, War, Women, and Witchcraft, Vol. 1 (of 3)	63874	gb
+39972	Stowe, Harriet Beecher, 1811-1896	Palmetto-Leaves	47823	us
+40089	Dewey, John, 1859-1952	Reconstruction in Philosophy	50144	us
+40134	Belloc, Hilaire, 1870-1953; B. T. B. (Basil Temple Blackwood), 1870-1917 [Illustrator]	A Moral Alphabet	2554	gb
+40241	Machen, Arthur, 1863-1947	Hieroglyphics	44715	gb
+40303	Stratemeyer, Edward, 1862-1930; Rogers, Walter S. (Walter Stanton), 1870-1937 [Illustrator]	The Rover Boys Down East; or, The Struggle for the Stanhope Fortune	57237	us
+40334	Hudson, W. H. (William Henry), 1841-1922; Hook, Bryan, 1856-1925 [Illustrator]; McCormick, A. D. (Arthur David), 1860-1943 [Illustrator]; Lodge, R. B. (Reginald B.), 1852-1937? [Photographer]	Birds in London	67874	gb
+40430	Optic, Oliver, 1822-1897; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]	In the Saddle	85771	us
+40480	Altsheler, Joseph A. (Joseph Alexander), 1862-1919	The Quest of the Four: A Story of the Comanches and Buena Vista	126649	us
+40673	Fenn, George Manville, 1831-1909	The Tiger Lily	56634	gb
+40683	Alcott, Louisa May, 1832-1888	Lulu's Library, Volume 3 (of 3)	48980	us
+40696	Chambers, Robert W. (Robert William), 1865-1933; Keller, Arthur Ignatius, 1866-1924 [Illustrator]	Who Goes There!	74667	us
+40697	Hope, Anthony, 1863-1933	Sport Royal, and Other Stories	28086	gb
+40828	Le Queux, William, 1864-1927	The Closed Book: Concerning the Secret of the Borgias	89325	gb
+40832	Le Queux, William, 1864-1927; Pearse, Alfred, 1855-1933 [Illustrator]	The Veiled Man	48930	gb
+40951	Wood, Henry, Mrs., 1814-1887	Johnny Ludlow, Fifth Series	113840	gb
+41078	Le Queux, William, 1864-1927	The Hunchback of Westminster	77284	gb
+41089	Le Queux, William, 1864-1927	The Sign of the Stranger	78707	gb
+41184	Le Queux, William, 1864-1927	Whither Thou Goest	75366	gb
+41186	Le Queux, William, 1864-1927	Sant of the Secret Service: Some Revelations of Spies and Spying	53900	gb
+41339	Braddon, M. E. (Mary Elizabeth), 1835-1915	Mount Royal: A Novel. Volume 1 of 3	54950	gb
+41368	Hawthorne, Nathaniel, 1804-1864	Love Letters of Nathaniel Hawthorne, Volume 2 (of 2)	46698	us
+41641	Coolidge, Susan, 1835-1905	Just Sixteen.	60358	us
+41879	Standish, Burt L., 1866-1945	Dick Merriwell's Pranks; Or, Lively Times in the Orient	74300	us
+42057	Ellis, Edward Sylvester, 1840-1916	Bill Biddon, Trapper; or, Life in the Northwest	46949	us
+42222	Hope, Anthony, 1863-1933	Double Harness	120967	gb
+42553	Thoreau, Henry David, 1817-1862	Excursions, and Poems	111538	us
+43071	McCutcheon, George Barr, 1866-1928; Fisher, Harrison, 1875-1934 [Illustrator]	The Alternative	30037	us
+43128	Molesworth, Mrs., 1839-1921; Hammond, Gertrude Demain, 1862-1952 [Illustrator]	Jasper	46502	gb
+43132	Molesworth, Mrs., 1839-1921; Gunston, W. [Illustrator]	The Little Old Portrait	43635	gb
+43133	Molesworth, Mrs., 1839-1921	Imogen; Or, Only Eighteen	48821	gb
+43189	Hume, Fergus, 1859-1932	The Harlequin Opal: A Romance. Vol. 3 (of 3)	43078	gb
+43281	Blackmore, R. D. (Richard Doddridge), 1825-1900	Cripps, the Carrier: A Woodland Tale	137142	gb
+43340	Wallace, Lew, 1827-1905; Pape, Eric, 1870-1938 [Illustrator]	The Fair God; or, The Last of the 'Tzins: A Tale of the Conquest of Mexico	180032	us
+44683	Besant, Walter, 1836-1901; Walker, Francis Sylvester, 1848-1916 [Illustrator]	South London	90545	gb
+45192	Ellis, Edward Sylvester, 1840-1916	Among the Esquimaux; or, Adventures under the Arctic Circle	53394	us
+45347	Baum, L. Frank (Lyman Frank), 1856-1919; Cory, Fanny Y., 1877-1972 [Illustrator]	The Master Key	35806	us
+45654	Adams, Henry, 1838-1918	The Life of Albert Gallatin	260266	us
+45724	Lang, Andrew, 1844-1912; Atkinson, J. J. (James Jasper), -1899	Social Origins and Primal Law	102486	gb
+45818	Oliphant, Mrs. (Margaret), 1828-1897	The House on the Moor, v. 3/3	52156	gb
+45974	Grey, Zane, 1872-1939	Ken Ward in the Jungle	61961	us
+46408	Darwin, Charles, 1809-1882	A Monograph on the Sub-class Cirripedia (Volume 2 of 2)	276220	gb
+46650	Chopin, Kate, 1850-1904	Bayou Folk	58839	us
+46947	Baring-Gould, S. (Sabine), 1834-1924	The Lives of the Saints, Volume 01 (of 16): January	155609	gb
+47423	Optic, Oliver, 1822-1897; Reinhart, Charles Stanley, 1844-1896 [Illustrator]	Vine and Olive; Or, Young America in Spain and Portugal	112233	us
+47874	Stowe, Harriet Beecher, 1811-1896	My Wife and I; Or, Harry Henderson's History	163694	us
+47958	Stowe, Harriet Beecher, 1811-1896; Browne, Hablot Knight, 1815-1882 [Illustrator]	The Minister's Wooing	130837	us
+48015	Ruskin, John, 1819-1900	Arrows of the Chace, vol. 2/2	73594	gb
+48020	Braddon, M. E. (Mary Elizabeth), 1835-1915	Aurora Floyd, Vol. 1	60019	gb
+48199	Oliphant, Mrs. (Margaret), 1828-1897	Hester: A Story of Contemporary Life, Volume 3 (of 3)	69577	gb
+48311	Hale, Edward Everett, 1822-1909	James Russell Lowell and His Friends	81522	us
+48439	Baring-Gould, S. (Sabine), 1834-1924	A book of the west. Volume 1, Devon	114865	gb
+48474	London, Jack, 1876-1916	Scorn of Women: A Play In Three Acts	27780	us
+48511	Burton, Richard Francis, Sir, 1821-1890; Griset, Ernest Henry, 1844-1907 [Illustrator]	Vikram and the Vampire; or, Tales of Hindu Devilry	77306	gb
+48630	Carroll, Lewis, 1832-1898; Furniss, Harry, 1854-1925 [Illustrator]	Sylvie and Bruno (Illustrated)	66393	gb
+48758	Parkman, Francis, 1823-1893	France and England in North America, Part VII, Vol 2: A Half-Century of Conflict	114921	us
+48927	Newman, John Henry, 1801-1890; Egan, Maurice Francis, 1852-1924 [Commentator]	The Dream of Gerontius	12944	gb
+49000	Coolidge, Susan, 1835-1905	Last Verses	20468	us
+49035	Besant, Walter, 1836-1901	The Changeling	85686	gb
+49143	Ellis, Edward Sylvester, 1840-1916	The Boy Hunters of Kentucky	28824	us
+49851	Ainsworth, William Harrison, 1805-1882	Preston Fight; or, The Insurrection of 1715	94041	gb
+49947	Irving, Washington, 1783-1859	The Alhambra	120859	us
+50391	Atherton, Gertrude Franklin Horn, 1857-1948	The Travelling Thirds	51251	us
+50836	Ouida, 1839-1908	Princess Napraxine, Volume 2 (of 3)	80220	gb
+51134	Baring-Gould, S. (Sabine), 1834-1924	A Book of Dartmoor	90797	gb
+51497	Blackmore, R. D. (Richard Doddridge), 1825-1900	Tales from the Telling-House	41879	gb
+51642	Hope, Anthony, 1863-1933	Lucinda	83331	gb
+52007	Lincoln, Abraham, 1809-1865; Coyle, Ray Frederick, 1885-1924 [Illustrator]	Discoveries and Inventions: A lecture by Abraham Lincoln delivered in 1860	3199	us
+52213	Warner, Charles Dudley, 1829-1900	In the Levant	141812	us
+52561	Hornung, E. W. (Ernest William), 1866-1921	The Young Guard	6256	gb
+52567	Baring-Gould, S. (Sabine), 1834-1924	Arminell: A Social Romance, Vol. 2	53697	gb
+52782	Harris, Joel Chandler, 1848-1908; Herford, Oliver, 1863-1935 [Illustrator]	Aaron in the Wildwoods	52533	us
+52978	Optic, Oliver, 1822-1897; Merrill, Frank T., 1848-1923 [Illustrator]	Stem to Stern; or, building the boat	65954	us
+53495	Wharton, Edith, 1862-1937; Parrish, Maxfield, 1870-1966 [Illustrator]	Italian Villas and Their Gardens	38227	us
+54212	Alcott, Louisa May, 1832-1888	A Modern Mephistopheles, and A Whisper in the Dark	73132	us
+54294	Alger, Horatio, Jr., 1832-1899	Charlie Codman's Cruise: A Story for Boys	52550	us
+54647	Baum, L. Frank (Lyman Frank), 1856-1919; Heath, Howard, 1879- [Illustrator]	Sam Steele's Adventures in Panama	52044	us
+54793	Arnold, Matthew, 1822-1888	St. Paul and Protestantism, with an Essay on Puritanism and the Church of England	47770	gb
+54918	Grant, James, 1822-1887	The Romance of War; or, The Highlanders in Spain, Volume 1 (of 3)	69438	gb
+54945	Optic, Oliver, 1822-1897	All Taut; or, Rigging the boat	64263	us
+54979	Hume, Fergus, 1859-1932	The Yellow Holly	100425	gb
+54994	Everett-Green, Evelyn, 1856-1932	Squib and His Friends	70282	gb
+55020	Baum, L. Frank (Lyman Frank), 1856-1919; Wightman, Francis P. [Illustrator]	The Last Egyptian: A Romance of the Nile	63826	us
+55114	Bennett, Arnold, 1867-1931; Gillett, Frank, 1874-1927 [Illustrator]	Teresa of Watling Street: A Fantasia on Modern Themes	54191	gb
+55137	Hume, Fergus, 1859-1932; Somerville, Howard [Illustrator]	The Mystery Queen	89677	gb
+55377	Hearn, Lafcadio, 1850-1904; Erskine, John, 1879-1951 [Editor]	Pre-Raphaelite and other Poets	114310	us
+55906	Macaulay, Thomas Babington Macaulay, Baron, 1800-1859; Whipple, Edwin Percy, 1819-1886 [Editor]	Critical, Historical, and Miscellaneous Essays; Vol. 6	140937	gb
+55910	Page, Thomas Nelson, 1853-1922; Cowles, Genevieve, 1871-1950 [Illustrator]; Cowles, Maude, 1871-1905 [Illustrator]	Social Life in Old Virginia Before the War	11596	us
+56242	Hume, Fergus, 1859-1932	The Gates of Dawn	62434	gb
+56264	Zangwill, Israel, 1864-1926	Italian Fantasies	128542	gb
+56340	Atherton, Gertrude Franklin Horn, 1857-1948	Tower of Ivory: A Novel	159793	us
+56356	Hume, Fergus, 1859-1932	The Scarlet Bat: A Detective Story	73458	gb
+56432	Hume, Fergus, 1859-1932	The Peacock of Jewels	98875	gb
+56465	Benson, E. F. (Edward Frederic), 1867-1940	An Act in a Backwater	63046	gb
+56730	Alger, Horatio, Jr., 1832-1899	Tony the Tramp; Or, Right is Might	45696	us
+57006	Benson, E. F. (Edward Frederic), 1867-1940; Plank, George, 1882-1965 [Illustrator]	The Freaks of Mayfair	40807	gb
+57799	Nesbit, E. (Edith), 1858-1924; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator]	The House of Arden: A Story for Children	73277	gb
+57913	Gilman, Charlotte Perkins, 1860-1935	Women and Economics	78700	us
+58046	Wood, Henry, Mrs., 1814-1887	The Red Court Farm: A Novel (Vol. 1 of 2)	83108	gb
+58202	Benson, E. F. (Edward Frederic), 1867-1940	A Reaping	72556	gb
+58322	Oliphant, Mrs. (Margaret), 1828-1897	The Three Brothers; vol. 3/3	79242	gb
+58431	Wood, Henry, Mrs., 1814-1887	Orville College: A Story	97154	gb
+58821	Roosevelt, Theodore, 1858-1919	The Strenuous Life	63971	us
+58850	Lincoln, Abraham, 1809-1865	A Legacy of Fun	9437	us
+58874	Burroughs, Edgar Rice, 1875-1950; St. John, J. Allen (James Allen), 1872-1957 [Illustrator]	Tarzan and the Golden Lion	80777	us
+59429	Optic, Oliver, 1822-1897	Fighting Joe; Or, The Fortunes of a Staff Officer. A Story of the Great Rebellion	69048	us
+59755	Prescott, William Hickling, 1796-1859	History of the Conquest of Mexico; vol. 1/4	123377	us
+59988	Thoreau, Henry David, 1817-1862; Salt, Henry S., 1851-1939 [Editor]; Sanborn, F. B. (Franklin Benjamin), 1831-1917 [Editor]	Poems of Nature	10316	us
+60098	Harris, Joel Chandler, 1848-1908; Herford, Oliver, 1863-1935 [Illustrator]	Mr. Rabbit at Home	58422	us
+60153	Benson, E. F. (Edward Frederic), 1867-1940; Williams, C. Fleming [Illustrator]; Le Blond, Aubrey, Mrs., 1861-1934 [Photographer]	Winter Sports in Switzerland	56443	gb
+60164	Chesterton, G. K. (Gilbert Keith), 1874-1936	Fancies Versus Fads	68830	gb
+60191	Baum, L. Frank (Lyman Frank), 1856-1919	The Boy Fortune Hunters in Panama	52177	us
+60319	Besant, Walter, 1836-1901; Palmer, Edward Henry, 1840-1882	Jerusalem, the City of Herod and Saladin	163783	gb
+60339	Benson, E. F. (Edward Frederic), 1867-1940	Visible and Invisible	72915	gb
+60481	Gilman, Charlotte Perkins, 1860-1935	In this our world	34533	us
+60529	Tarkington, Booth, 1869-1946	The Fascinating Stranger, and Other Stories	97961	us
+60547	Lawrence, D. H. (David Herbert), 1885-1930	Studies in Classic American Literature	59600	gb
+60900	Twain, Mark, 1835-1910; Stedman, Arthur Griffin, 1859-1908 [Editor]	Merry Tales	37241	us
+61223	Washington, Booker T., 1856-1915; Park, Robert Ezra, 1864-1944	The Man Farthest Down: A Record of Observation and Study in Europe	86885	us
+61298	Wharton, Edith, 1862-1937; Caswell, Edward C., 1879-1963 [Illustrator]	The Spark (The 'Sixties)	14613	us
+61442	Oliphant, Mrs. (Margaret), 1828-1897	A House Divided Against Itself; vol. 1 of 3	59276	gb
+61482	Oliphant, Mrs. (Margaret), 1828-1897	The Mystery of Mrs. Blencarrow	24402	gb
+61763	Hazlitt, William, 1778-1830; Glover, Arnold, 1865-1905 [Editor]; Waller, A. R. (Alfred Rayney), 1867-1922 [Editor]	The collected works of William Hazlitt, Vol. 04 (of 12)	205456	gb
+61915	Oliphant, Mrs. (Margaret), 1828-1897	Effie Ogilvie: the story of a young life; vol. 2	39667	gb
+62421	Standish, Burt L., 1866-1945	Frank Merriwell, Jr.'s, Helping Hand; Or, Fair Play and No Favors	86668	us
+62572	Macaulay, Thomas Babington Macaulay, Baron, 1800-1859	Milton	19474	gb
+62719	Standish, Burt L., 1866-1945	Frank Merriwell's Support; Or, A Triple Play	64362	us
+63142	Oliphant, Mrs. (Margaret), 1828-1897	Harry Joscelyn; vol. 1 of 3	66660	gb
+63365	Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]	The Flying Boys to the Rescue	61602	us
+64120	Stowe, Harriet Beecher, 1811-1896	House and Home Papers	80067	us
+64128	Phillips, David Graham, 1867-1911	Her Serene Highness: A Novel	25256	us
+64347	Standish, Burt L., 1866-1945	Frank Merriwell's Prosperity; or, Toil Has Its Reward	58805	us
+64407	Standish, Burt L., 1866-1945	Dick Merriwell's Aëro Dash; Or, Winning Above the Clouds	88302	us
+64464	Crawford, F. Marion (Francis Marion), 1854-1909; Pennell, Joseph, 1857-1926 [Illustrator]	Salve Venetia, gleanings from Venetian history; vol. I	117097	us
+64670	Grant, James, 1822-1887	Philip Rollo; or, the Scottish Musketeers, Vol. 2 (of 2)	119187	gb
+64770	Harris, Joel Chandler, 1848-1908; Frost, A. B. (Arthur Burdett), 1851-1928 [Illustrator]	The Chronicles of Aunt Minervy Ann	48968	us
+65046	Doyle, Arthur Conan, 1859-1930	The British Campaign in France and Flanders—January to July, 1918	98425	gb
+65207	Tarkington, Booth, 1869-1946	Women	80525	us
+65317	Shelley, Mary Wollstonecraft, 1797-1851; Lardner, Dionysius, 1793-1859 [Editor]	Lives of the most eminent literary and scientific men of France, Vol. 1 (of 2)	121775	gb
+65381	Arnold, Matthew, 1822-1888; Newman, Francis William, 1805-1897	On Translating Homer	67143	gb
+65574	Glasgow, Ellen Anderson Gholson, 1873-1945	The Freeman, and Other Poems	4246	us
+65615	Grant, James, 1822-1887	The Master of Aberfeldie, Volume 1 (of 3)	42040	gb
+65914	Standish, Burt L., 1866-1945	Shaming the Speed Limit	12496	us
+66085	Ellis, Edward Sylvester, 1840-1916	Old Ruff, the Trapper; or, The Young Fur-Hunters	35581	us
+66213	Lowell, James Russell, 1819-1891	A Fable for Critics	19816	us
+66309	Ellis, Edward Sylvester, 1840-1916	The Three Trappers; or, The Apache Chief's Ruse	27739	us
+66345	Bierce, Ambrose, 1842-1914?	The Collected Works of Ambrose Bierce, Volume 12	71336	us
+66376	Oliphant, Mrs. (Margaret), 1828-1897	Young Musgrave	159638	gb
+66455	Nicholson, Meredith, 1866-1947; Keller, Arthur Ignatius, 1866-1924 [Illustrator]	The Lords of High Decision	123261	us
+66576	Bierce, Ambrose, 1842-1914?	The Collected Works of Ambrose Bierce, Volume 10	69208	us
+66582	Grant, James, 1822-1887	Colville of the Guards, Volume 3 (of 3)	38651	gb
+66671	Belloc, Hilaire, 1870-1953	Mr. Clutterbuck's Election	71086	gb
+67278	Le Queux, William, 1864-1927	A Secret Service: Being Strange Tales of a Nihilist	69663	gb
+67682	Davis, Richard Harding, 1864-1916	Stories for Boys	40151	us
+67689	Abbott, Jacob, 1803-1879	Cousin Lucy at Play	34254	us
+67811	Roosevelt, Theodore, 1858-1919; Stout, Ralph, 1866-1926 [Author of introduction, etc.]	Roosevelt in the Kansas City Star: War-time Editorials	84016	us
+67915	Lawrence, D. H. (David Herbert), 1885-1930	Sun	6665	gb
+67947	Lindsay, Vachel, 1879-1931	A Handy Guide for Beggars: Especially Those of the Poetic Fraternity	36592	us
+68222	Atherton, Gertrude Franklin Horn, 1857-1948	His fortunate Grace	32185	us
+68236	Lovecraft, H. P. (Howard Phillips), 1890-1937; Aragon, J. M. de [Illustrator]	The colour out of space	12310	us
+68242	Galsworthy, John, 1867-1933	A Commentary	36453	gb
+69168	Ellis, Edward Sylvester, 1840-1916	The phantom hunter; or, love after death	35328	us
+69219	Lawrence, D. H. (David Herbert), 1885-1930	Psychoanalysis and the unconscious	15625	gb
+69420	Grant, James, 1822-1887	The adventures of Rob Roy	92037	gb
+69460	Atherton, Gertrude Franklin Horn, 1857-1948	Rulers of kings: A novel	129206	us
+69500	Grant, James, 1822-1887	The Queen's cadet, and other tales	62568	gb
+69668	Blackwood, Algernon, 1869-1951	The education of Uncle Paul	77762	gb
+70124	Burroughs, Edgar Rice, 1875-1950	The war chief	77146	us
+70269	Dreiser, Theodore, 1871-1945; Booth, Franklin, 1874-1948 [Illustrator]	A Hoosier holiday	169191	us
+70306	Everett-Green, Evelyn, 1856-1932	Torwood's trust	53939	gb
+70811	Southworth, Emma Dorothy Eliza Nevitte, 1819-1899	Gloria	97402	us
+70816	Burroughs, Edgar Rice, 1875-1950; Frazetta, Frank, 1928-2010 [Illustrator]	Lost on Venus	67371	us
+70875	Lewis, Sinclair, 1885-1951	Arrowsmith	163977	us
+71322	Pain, Barry, 1864-1928	Wilhelmina in London	30189	gb
+71411	Stratemeyer, Edward, 1862-1930; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]	The fort in the wilderness	62668	us
+71482	Optic, Oliver, 1822-1897	Cringle and cross-tree	53340	us
+71700	Hume, Fergus, 1859-1932; Dunlop, M. [Illustrator]; Kirk, Maria Louise, 1860-1938 [Illustrator]	The chronicles of Fairy land	44857	gb
+71858	Dickens, Charles, 1812-1870	Holly berries from Dickens	2234	gb
+71879	Burroughs, Edgar Rice, 1875-1950; Grant, Douglas, 1894-1993 [Illustrator]	The Tarzan twins	18348	us
+71992	Stables, Gordon, 1840-1910	Two sailor lads	87165	gb
+72007	Adams, Henry, 1838-1918	History of the United States of America, Volume 4 (of 9)	123209	us
+72221	Oliphant, Mrs. (Margaret), 1828-1897	Carità	181567	gb
+72667	Adams, Henry, 1838-1918	History of the United States of America, Volume 3 (of 9)	114284	us
+73051	Belloc, Hilaire, 1870-1953	Esto perpetua	29969	gb
+73059	Lardner, Ring, 1885-1933; Morgan, Wallace, 1875-1948 [Illustrator]	My four weeks in France	31151	us
+73134	Optic, Oliver, 1822-1897; Kilburn, Samuel Smith, 1831-1903 [Engraver]; Champney, W. L. [Illustrator]	Through by daylight	53725	us
+73850	Standish, Burt L., 1866-1945	Frank Merriwell's danger	66151	us
+74301	Shelley, Mary Wollstonecraft, 1797-1851	Rambles in Germany and Italy in 1840, 1842, and 1843, vol. 2 of 2	65445	gb
+74376	Dewey, John, 1859-1952	The school and society	33697	us
+74461	Merriman, Henry Seton, 1862-1903	Suspense, Volume 2 (of 3)	38887	gb
+74534	Belloc, Hilaire, 1870-1953	A companion to Mr. Wells's "Outline of history"	78346	gb
+74633	Stockton, Frank R., 1834-1902; Bensell, Edmund Birckhead, 1842-1894 [Illustrator]	The poor Count's Christmas	5614	us
+74680	Roosevelt, Theodore, 1858-1919	Presidential addresses and state papers, Volume 2 (of 7)	110126	us
+74687	Wallace, Edgar, 1875-1932	Captains of souls	89073	gb
+74742	Wharton, Edith, 1862-1937; Caswell, Edward C., 1879-1963 [Illustrator]	Here and beyond	57922	us
+74880	Harris, Joel Chandler, 1848-1908; Herford, Oliver, 1863-1935 [Illustrator]	The story of Aaron (so named) the son of Ben Ali	39750	us
+74980	Jewett, Sarah Orne, 1849-1909; Cather, Willa, 1873-1947 [Editor]	The best stories of Sarah Orne Jewett, Volume 2 (of 2)	62230	us
+74993	Dunbar, Paul Laurence, 1872-1906; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]	Folks from Dixie	44861	us
+75172	Conrad, Joseph, 1857-1924; Ford, Ford Madox, 1873-1939	The nature of a crime	19493	gb
+75181	Dreiser, Theodore, 1871-1945	An American tragedy, v. 1	185746	us
+75274	Marryat, Florence, 1833-1899	A crown of shame, volume 1 (of 3)	32833	gb
+75276	Marryat, Florence, 1833-1899	A crown of shame, volume 3 (of 3)	33954	gb
+75331	Edgeworth, Maria, 1768-1849	The fireside story book	30864	gb
+75369	Belloc, Hilaire, 1870-1953	The Pyrenees	96787	gb
+75928	Bennett, Arnold, 1867-1931	Self and self-management	16071	gb
+76367	Besant, Walter, 1836-1901	The Master Craftsman	95554	gb
+76523	Optic, Oliver, 1822-1897	Rich and humble	49470	us
+76677	Wallace, Edgar, 1875-1932	The girl from Scotland Yard	62515	gb
+76805	Irving, Washington, 1783-1859	Life of George Washington, volume 2 of 5	137974	us
+76971	Hichens, Robert, 1864-1950; Forestier, A. (Amédée), 1854-1930 [Illustrator]	The black spaniel, and other stories	80003	gb
+77059	Martineau, Harriet, 1802-1876	Illustrations of taxation	179935	gb
+77117	Austen, Jane, 1775-1817; Brown, Francis, 1874-1955; Hubback, Edith C. (Edith Charlotte), 1876-1945	The Watsons	42506	gb
+77483	Stretton, Hesba, 1832-1911	Nelly's dark days	16648	gb
+77853	Bird, Isabella L. (Isabella Lucy), 1831-1904	The Yangtze Valley and beyond	146405	gb
+78240	Kipling, Rudyard, 1865-1936	Many inventions	105334	gb
+78245	Dickens, Charles, 1812-1870; Bentley, George, 1828-1895 [Author of introduction, etc.]	The Mudfog papers, etc.	29817	gb
+78772	Braddon, M. E. (Mary Elizabeth), 1835-1915	Dead men's shoes, vol. 1 (of 3)	54999	gb
+78773	Braddon, M. E. (Mary Elizabeth), 1835-1915	Dead men's shoes, vol. 2 (of 3)	57749	gb
+79019	Poe, Edgar Allan, 1809-1849; Cropsey, Jasper Francis, 1823-1900 [Illustrator]; Darley, Felix Octavius Carr, 1822-1888 [Illustrator]; Duggan, Peter Paul, -1861 [Illustrator]; Foster, Myles Birket, 1825-1899 [Illustrator]; Madot, Adolphus M., -1864 [Illustrator]; Pickersgill, Frederick Richard, 1820-1900 [Illustrator]; Skelton, Percival, 1813-1900 [Illustrator]; Tenniel, John, 1820-1914 [Illustrator]	The poetical works of Edgar Allan Poe	30165	us
+79257	Dixon, Thomas, Jr., 1864-1946	The Sun Virgin	68306	us
+79533	Stratemeyer, Edward, 1862-1930	Neka, the boy conjuror	52717	us
+79562	Optic, Oliver, 1822-1897	Switch off	51645	us

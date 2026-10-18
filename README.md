@@ -16,6 +16,7 @@ build scripts and finished language packs.
   speech and first letter; `de/lexicon/closed/` – closed word classes (articles, pronouns,
   prepositions …), written by hand. Authoring protocol: `de/lexicon/AUTHORING.md`
 - `de/frequency/` – our own word-form frequency list
+- `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
 - `de/phon/` – pronunciation exceptions
 - `tools/` – build scripts (lexicon → FST packs)
 - `packs/` – build output (not checked in, releases)
