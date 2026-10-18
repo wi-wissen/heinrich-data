@@ -3,4 +3,5 @@ längstens adv
 leider       adv
 letztendlich adv
 letztlich adv
+letztmals adv
 live adv

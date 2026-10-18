@@ -39,6 +39,7 @@ abwenden verb class=mixed sep=ab 3sg=abwendet past=abwandte|abwendete pp=abgewan
 abwickeln verb class=weak sep=ab pp=abgewickelt perf=haben
 abwracken verb class=weak sep=ab pp=abgewrackt perf=haben
 abziehen verb class=strong sep=ab 3sg=abzieht past=abzog pp=abgezogen subj2=abzöge perf=haben|sein
+abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 achten verb class=weak pp=geachtet perf=haben
 agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
@@ -166,7 +167,6 @@ ausbreiten verb class=weak sep=aus pp=ausgebreitet perf=haben refl=acc
 ausdehnen verb class=weak sep=aus pp=ausgedehnt perf=haben refl=acc
 ausdrücken verb class=weak sep=aus refl=acc pp=ausgedrückt perf=haben
 auseinandersetzen verb class=weak sep=auseinander refl=acc pp=auseinandergesetzt perf=haben
-äußern verb class=weak refl=acc pp=geäußert perf=haben
 ausfallen verb class=strong sep=aus 3sg=ausfällt past=ausfiel pp=ausgefallen subj2=ausfiele perf=sein
 ausführen     verb class=weak sep=aus pp=ausgeführt perf=haben
 ausfüllen verb class=weak sep=aus pp=ausgefüllt perf=haben
@@ -190,6 +190,7 @@ ausscheiden verb class=strong sep=aus 3sg=ausscheidet past=ausschied pp=ausgesch
 ausschließen  verb class=strong sep=aus 3sg=ausschließt past=ausschloss pp=ausgeschlossen subj2=ausschlösse perf=haben
 ausschreiben verb class=strong sep=aus 3sg=ausschreibt past=ausschrieb pp=ausgeschrieben subj2=ausschriebe perf=haben
 aussehen verb class=strong sep=aus 3sg=aussieht past=aussah pp=ausgesehen subj2=aussähe perf=haben
+äußern verb class=weak refl=acc pp=geäußert perf=haben
 aussetzen     verb class=weak sep=aus pp=ausgesetzt perf=haben
 ausspielen verb class=weak sep=aus pp=ausgespielt perf=haben
 aussprechen   verb class=strong sep=aus 3sg=ausspricht past=aussprach pp=ausgesprochen subj2=ausspräche perf=haben

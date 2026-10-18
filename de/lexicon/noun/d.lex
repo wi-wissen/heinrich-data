@@ -8,6 +8,7 @@ Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Darlehen noun g=n gen=Darlehens pl=Darlehen
 Darsteller noun g=m gen=Darstellers pl=Darsteller
+Darstellerin noun g=f gen=Darstellerin pl=Darstellerinnen
 Darstellung   noun g=f gen=Darstellung pl=Darstellungen
 Dasein noun g=n gen=Daseins pl=- note=no plural
 Datei         noun g=f gen=Datei pl=Dateien
@@ -51,6 +52,7 @@ Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Diözese noun g=f gen=Diözese pl=Diözesen
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
+Direktion noun g=f gen=Direktion pl=Direktionen
 Direktor      noun g=m gen=Direktors pl=Direktoren
 Dirigent noun g=m gen=Dirigenten pl=Dirigenten
 Diskriminierung noun g=f gen=Diskriminierung pl=Diskriminierungen

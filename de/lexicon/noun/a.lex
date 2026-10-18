@@ -37,6 +37,7 @@ Abrüstung noun g=f gen=Abrüstung pl=- note=no plural
 Absage noun g=f gen=Absage pl=Absagen
 Absatz        noun g=m gen=Absatzes pl=Absätze
 Abschaffung noun g=f gen=Abschaffung pl=- note=mass noun
+Abschätzung noun g=f gen=Abschätzung pl=Abschätzungen
 Abschiebung noun g=f gen=Abschiebung pl=Abschiebungen
 Abschied noun g=m gen=Abschieds|Abschiedes pl=Abschiede
 Abschlag noun g=m gen=Abschlags|Abschlages pl=Abschläge
@@ -379,9 +380,6 @@ Ausdauer noun g=f gen=Ausdauer pl=- note=no plural
 Ausdehnung noun g=f gen=Ausdehnung pl=Ausdehnungen
 Ausdruck      noun g=m gen=Ausdrucks|Ausdruckes pl=Ausdrücke|Ausdrucke note=Ausdrucke: printouts
 Auseinandersetzung noun g=f gen=Auseinandersetzung pl=Auseinandersetzungen
-Außenminister noun g=m gen=Außenministers pl=Außenminister
-Außenpolitik noun g=f gen=Außenpolitik pl=- note=mass noun
-Äußerung noun g=f gen=Äußerung pl=Äußerungen
 Ausfall noun g=m gen=Ausfalls|Ausfalles pl=Ausfälle
 Ausfertigung noun g=f gen=Ausfertigung pl=Ausfertigungen
 Ausflug noun g=m gen=Ausflugs|Ausfluges pl=Ausflüge
@@ -414,6 +412,9 @@ Ausschluss noun g=m gen=Ausschlusses pl=Ausschlüsse
 Ausschreibung noun g=f gen=Ausschreibung pl=Ausschreibungen
 Ausschuss     noun g=m gen=Ausschusses pl=Ausschüsse
 Aussehen noun g=n gen=Aussehens pl=- note=lexicalised: appearance
+Außenminister noun g=m gen=Außenministers pl=Außenminister
+Außenpolitik noun g=f gen=Außenpolitik pl=- note=mass noun
+Äußerung noun g=f gen=Äußerung pl=Äußerungen
 Aussetzung noun g=f gen=Aussetzung pl=Aussetzungen
 Aussicht      noun g=f gen=Aussicht pl=Aussichten
 Aussprache    noun g=f gen=Aussprache pl=Aussprachen

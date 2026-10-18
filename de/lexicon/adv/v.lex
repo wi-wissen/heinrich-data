@@ -10,3 +10,4 @@ vornehmlich adv
 vornherein adv note=only in von vornherein
 vorüber adv
 vorwärts adv type=direction
+vorweg adv type=time
