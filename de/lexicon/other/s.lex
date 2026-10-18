@@ -1,1 +1,3 @@
+Sankt x note=Saint; title before the names of saints and places (Sankt Augustin)
 St. x note=Sankt (St. Gallen) or Stück
+subsp. x note=subspecies (Unterart)

@@ -5,6 +5,7 @@ Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
 Landschaft noun g=f gen=Landschaft pl=Landschaften
 Landwirtschaft noun g=f gen=Landwirtschaft pl=Landwirtschaften
 Länge noun g=f gen=Länge pl=Längen
+Langläufer noun g=m gen=Langläufers pl=Langläufer
 Last noun g=f gen=Last pl=Lasten
 Lauf noun g=m gen=Laufes|Laufs pl=Läufe
 Leben noun g=n gen=Lebens pl=Leben

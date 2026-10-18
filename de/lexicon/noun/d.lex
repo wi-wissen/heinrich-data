@@ -20,6 +20,7 @@ Direktor      noun g=m gen=Direktors pl=Direktoren
 Diskussion    noun g=f gen=Diskussion pl=Diskussionen
 Division      noun g=f gen=Division pl=Divisionen
 Doktor        noun g=m gen=Doktors pl=Doktoren
+Dokument noun g=n gen=Dokuments|Dokumentes pl=Dokumente
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
