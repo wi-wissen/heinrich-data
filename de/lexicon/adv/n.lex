@@ -1,5 +1,9 @@
+nachweislich adv
 nahezu adv
 namentlich adv
+nebenbei adv
 nieder adv
+nimmer adv
 nochmals adv
+normalerweise adv
 nunmehr adv

@@ -4,6 +4,7 @@ Bachelor noun g=m gen=Bachelors pl=Bachelor|Bachelors
 Bad           noun g=n gen=Bades|Bads pl=Bäder
 BAföG noun g=n gen=BAföG|BAföGs pl=- note=Bundesausbildungsförderungsgesetz
 Bahn          noun g=f gen=Bahn pl=Bahnen
+Bahnhof noun g=m gen=Bahnhofs|Bahnhofes pl=Bahnhöfe
 Balken noun g=m gen=Balkens pl=Balken
 Ball noun g=m gen=Balls|Balles pl=Bälle
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume

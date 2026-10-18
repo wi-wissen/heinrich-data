@@ -1,0 +1,1 @@
+quer adv type=manner

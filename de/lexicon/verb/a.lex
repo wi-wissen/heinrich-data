@@ -21,6 +21,7 @@ abwechseln verb class=weak sep=ab refl=acc pp=abgewechselt perf=haben
 abweichen     verb class=strong sep=ab 3sg=abweicht past=abwich pp=abgewichen subj2=abwiche perf=sein
 abziehen verb class=strong sep=ab 3sg=abzieht past=abzog pp=abgezogen subj2=abzöge perf=haben|sein
 agieren verb class=weak pp=agiert perf=haben
+ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative
 ahnen verb class=weak pp=geahnt perf=haben
 akzeptieren verb class=weak pp=akzeptiert perf=haben
@@ -92,7 +93,6 @@ ausbauen verb class=weak sep=aus pp=ausgebaut perf=haben
 ausbilden verb class=weak sep=aus pp=ausgebildet perf=haben
 ausdrücken verb class=weak sep=aus refl=acc pp=ausgedrückt perf=haben
 auseinandersetzen verb class=weak sep=auseinander refl=acc pp=auseinandergesetzt perf=haben
-äußern verb class=weak refl=acc pp=geäußert perf=haben
 ausführen     verb class=weak sep=aus pp=ausgeführt perf=haben
 ausgeben verb class=strong sep=aus 3sg=ausgibt past=ausgab pp=ausgegeben subj2=ausgäbe perf=haben
 ausgehen verb class=strong sep=aus 3sg=ausgeht past=ausging pp=ausgegangen subj2=ausginge perf=sein
@@ -107,6 +107,7 @@ ausrüsten verb class=weak sep=aus pp=ausgerüstet perf=haben
 ausscheiden verb class=strong sep=aus 3sg=ausscheidet past=ausschied pp=ausgeschieden subj2=ausschiede perf=sein
 ausschließen  verb class=strong sep=aus 3sg=ausschließt past=ausschloss pp=ausgeschlossen subj2=ausschlösse perf=haben
 aussehen verb class=strong sep=aus 3sg=aussieht past=aussah pp=ausgesehen subj2=aussähe perf=haben
+äußern verb class=weak refl=acc pp=geäußert perf=haben
 aussetzen     verb class=weak sep=aus pp=ausgesetzt perf=haben
 aussprechen   verb class=strong sep=aus 3sg=ausspricht past=aussprach pp=ausgesprochen subj2=ausspräche perf=haben
 ausstatten    verb class=weak sep=aus pp=ausgestattet perf=haben
