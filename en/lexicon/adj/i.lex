@@ -8,65 +8,84 @@ identical      adj adv=identically
 identifiable   adj
 ideological    adj adv=ideologically
 idle           adj cmp=er adv=idly
+ignoble adj
 ignorant       adj
 ill            adj
 illegal        adj adv=illegally
 illegible adj adv=illegibly
 illegitimate   adj
 illicit        adj adv=illicitly
+illiterate adj
 illustrative adj
 illustrious    adj
+imaginable adj
 imaginary      adj
 imaginative    adj adv=imaginatively
 immaterial adj
+immature adj cmp=more
 immediate      adj adv=immediately
 immense        adj adv=immensely
 imminent       adj
 immoral adj
 immortal       adj
+immovable adj
 immune         adj
 impartial      adj adv=impartially
+impassable adj
+impassioned adj
 impatient      adj cmp=more adv=impatiently
 impending      adj attr_only
 impenetrable adj
 imperative     adj
 imperfect      adj adv=imperfectly
 imperial       adj
+imperious adj cmp=more adv=imperiously
+impersonal adj adv=impersonally
 impertinent adj
+impetuous adj cmp=more
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
+impotent adj
 impracticable  adj
 impractical adj
+impregnable adj
 impressive     adj adv=impressively
 improbable     adj adv=improbably
 improper       adj adv=improperly
+impudent adj cmp=more
 impulsive adj adv=impulsively
 inaccessible adj
 inaccurate     adj adv=inaccurately
 inactive       adj
 inadequate     adj adv=inadequately
 inadvertent    adj adv=inadvertently
+inanimate adj
 inapplicable adj
 inappropriate  adj adv=inappropriately
 inaudible adj
 inaugural      adj
+incalculable adj
 incapable      adj
+incensed adj
 incessant adj adv=incessantly
 incidental     adj adv=incidentally
 inclined       adj
 inclusive      adj adv=inclusively
+incoherent adj adv=incoherently
 incoming       adj attr_only
 incompatible   adj
 incompetent adj
 incomplete     adj
 incomprehensible adj
 inconceivable adj
+inconclusive adj adv=inconclusively
 inconsistent   adj adv=inconsistently
 inconvenient adj
 incorrect      adj adv=incorrectly
 increasing     adj adv=increasingly
 incredible     adj adv=incredibly
+incredulous adj cmp=more adv=incredulously
 incremental    adj adv=incrementally
 incumbent      adj
 indebted adj
@@ -83,17 +102,24 @@ indignant      adj adv=indignantly
 indirect       adj adv=indirectly
 indiscriminate adj adv=indiscriminately
 indispensable  adj
+indistinct adj adv=indistinctly
+indistinguishable adj
 individual     adj adv=individually
 Indo-European adj
+indolent adj
+indomitable adj
 Indonesian     adj
 indoor         adj attr_only
+indulgent adj cmp=more
 industrial     adj adv=industrially
 industrious adj
 ineffective    adj adv=ineffectively
+ineffectual adj
 inefficient adj adv=inefficiently
 ineligible     adj
 inert adj
 inevitable     adj adv=inevitably
+inexhaustible adj
 inexpensive adj
 inexperienced adj
 inexplicable adj
@@ -106,6 +132,7 @@ inflammatory adj
 influential    adj
 informal       adj adv=informally
 informational adj
+informative adj cmp=more
 informed       adj cmp=more
 infrared adj
 infrequent adj
@@ -121,26 +148,34 @@ inner          adj attr_only
 innocent       adj adv=innocently
 innovative     adj
 innumerable    adj
+inorganic adj
 inpatient      adj attr_only
-insane         adj adv=insanely
+inquisitive adj cmp=more adv=inquisitively
+insane         adj cmp=more adv=insanely
+inscrutable adj
 insecure adj
 insensible adj
+inseparable adj
 insightful adj cmp=more adv=insightfully
 insignificant  adj
 insolent adj adv=insolently
 insolvent adj
+inspirational adj
 instant        adj adv=instantly
 instantaneous  adj adv=instantaneously
 instinctive    adj adv=instinctively
 institutional  adj adv=institutionally
+instructional adj
+instructive adj
 instrumental   adj
 insufficient   adj adv=insufficiently
 intact         adj
+intangible adj
 integral       adj adv=integrally
 intellectual   adj adv=intellectually
 intelligent    adj cmp=more adv=intelligently
 intelligible adj
-intense        adj cmp=more adv=intensely
+intense        adj cmp=er|more adv=intensely
 intensive      adj adv=intensively
 intent         adj adv=intently
 intentional    adj adv=intentionally
@@ -155,24 +190,34 @@ intergovernmental adj
 interim        adj attr_only
 interior       adj attr_only
 intermediate   adj
+interminable adj adv=interminably
 intermittent adj adv=intermittently
 internal       adj adv=internally
 international  adj adv=internationally
 interpersonal adj
+interpretive adj
 interstate     adj
+interstellar adj
+intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
+intrastate adj
 intricate adj cmp=more adv=intricately
 intrinsic adj adv=intrinsically
 introductory   adj
+intrusive adj cmp=more
+intuitive adj cmp=more adv=intuitively
 Inuit adj
 invalid        adj
 invaluable     adj
 invariable     adj adv=invariably
+invariant adj
 invasive       adj
+inventive adj cmp=more
 inverse adj adv=inversely
 investigative  adj
 investigatory  adj
+invincible adj
 invisible      adj adv=invisibly
 involuntary adj adv=involuntarily
 inward         adj
@@ -182,14 +227,18 @@ Irish          adj
 ironic adj adv=ironically
 Iroquois adj
 irrational adj adv=irrationally
+irreducible adj
 irregular      adj adv=irregularly
 irrelevant adj
 irresistible   adj adv=irresistibly
 irrespective   adj note=only in irrespective of
 irresponsible  adj adv=irresponsibly
 irreversible adj
+irrevocable adj adv=irrevocably
+irritable adj cmp=more
 Islamic        adj
 Islamist adj
+isomorphic adj
 Israeli        adj
 Italian        adj
 italic adj

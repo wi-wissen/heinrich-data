@@ -3,7 +3,9 @@ fabric         noun
 fabrication noun
 facade noun
 face           noun
+facet noun
 facial         noun
+facilitation noun pl=- note=uncountable
 facilitator noun
 facility       noun
 fact           noun
@@ -22,12 +24,15 @@ faithful       noun
 fake           noun
 falcon noun
 fall           noun
+fallacy noun
+fallback noun
 falsehood noun
 fame           noun pl=- note=uncountable
 familiarity    noun
 family         noun
 famine         noun
 fan            noun
+fanatic noun
 fancy          noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
@@ -48,6 +53,7 @@ fat            noun
 fatality       noun
 fate           noun
 father         noun
+fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
 fault          noun
@@ -68,26 +74,34 @@ federation     noun
 fee            noun
 feed           noun
 feedback       noun pl=- note=uncountable
+feeder noun
 feel           noun
 feeling        noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
 fellowship     noun
+felon noun
 felony noun
 felt           noun note=the fabric
 female         noun
 feminist       noun
+fen noun
 fence          noun
+fender noun
 fentanyl noun pl=- note=uncountable
+ferment noun
 fermentation noun
 fern noun
 ferocity noun
 ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
+fertilizer noun gb=fertiliser|fertilizer
+fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
+fetter noun
 feud noun
 fever          noun
 fiancé noun
@@ -99,16 +113,20 @@ fidelity       noun pl=- note=uncountable
 fiduciary noun
 field          noun
 fielder noun
+fiend noun
 fig            noun
 fight          noun
 fighter        noun
 figure         noun
+filament noun
 file           noun
 filename noun
+filer noun
 filesystem noun conf=85 note=also file system
 filing         noun
 Filipino       noun note=plural Filipinos
 fill           noun
+filler noun
 film           noun
 filmmaker      noun
 filter         noun
@@ -117,6 +135,7 @@ fin            noun
 final          noun
 finale         noun
 finalist noun
+finality noun pl=- note=uncountable
 finance        noun
 financials noun pl_only conf=85 note=financial statements
 financier noun
@@ -136,9 +155,14 @@ fir noun
 fire           noun
 firearm        noun
 firefighter    noun
+firefighting noun pl=- note=uncountable
+firelight noun pl=- note=uncountable
 fireman noun pl=firemen
 fireplace      noun
+firepower noun pl=- note=uncountable
+fireside noun
 firewall noun
+firewood noun pl=- note=uncountable
 firework       noun
 firm           noun
 firmness noun
@@ -150,44 +174,54 @@ fisherman      noun pl=fishermen
 fishery        noun
 fishmonger noun
 fission noun
+fissure noun
 fist           noun
 fit            noun
 fitness        noun pl=- note=uncountable
 fitting        noun
 fix            noun
 fixture noun
+fjord noun
 flag           noun
 flagship       noun
 flake noun
 flame          noun
 flamingo noun pl=flamingos|flamingoes
+flammability noun pl=- note=uncountable
 flank          noun
 flannel noun
 flap noun
 flapjack noun
 flare noun
 flash          noun
+flashback noun
 flask noun
 flat           noun
 flattery noun
 flavor         noun gb=flavour
 flaw noun
 flea noun
+fledgling noun
 fleet          noun
 flesh          noun pl=- note=uncountable
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
+flicker noun
 flight         noun
 fling          noun
 flint noun
+flip noun
 flipchart noun
 flipper noun
+flirt noun
 float          noun
 flock          noun
 flood          noun
 floodplain     noun
 floor          noun
 flora          noun
+flotilla noun
+flounder noun pl=flounder|flounders
 flour          noun
 flourish       noun
 flow           noun
@@ -212,6 +246,7 @@ foil noun
 fold           noun
 folder noun
 foliage        noun pl=- note=uncountable
+folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
 follow-up      noun
@@ -221,12 +256,14 @@ fondness noun
 font noun
 food           noun
 fool           noun
+foolishness noun pl=- note=uncountable
 foot           noun pl=feet
 footage        noun pl=- note=uncountable
 football       noun
 footballer     noun
 footer noun
 foothill noun
+foothold noun
 footman noun pl=footmen
 footnote       noun
 footpath noun
@@ -234,16 +271,22 @@ footprint      noun
 footstep       noun
 footwear noun pl=- note=uncountable
 forage         noun
+foray noun
+forbear noun note=ancestor; variant of forebear
 forbearance noun
 force          noun
 ford noun
 fore           noun
 forearm noun
+forebear noun
+foreboding noun
 forecast       noun
 forecastle noun
 foreclosure noun
 forefather noun
+forefinger noun
 forefront      noun
+foreground noun
 forehead       noun
 foreigner      noun
 foreman noun pl=foremen
@@ -278,6 +321,7 @@ fossil         noun
 foul           noun
 foundation     noun
 founder        noun
+foundry noun
 fountain       noun
 fowl           noun pl=fowl|fowls
 fox            noun
@@ -294,6 +338,8 @@ Franciscan noun
 frankness noun
 fraternity noun
 fraud          noun
+fray noun
+freak noun
 freckle noun
 freedom        noun
 freehold       noun
@@ -310,17 +356,21 @@ French         noun pl=- note=the language; the French as a people
 Frenchman      noun pl=Frenchmen
 frenzy noun
 frequency      noun
+fresco noun pl=frescoes|frescos
 freshman noun pl=freshmen
 freshness noun
+fret noun
 friar noun
 friction       noun
 fridge noun
 friend         noun
+friendliness noun pl=- note=uncountable
 friendship     noun
 frigate        noun
 fright         noun
 fringe         noun
 frisbee noun
+fritillary noun
 frock noun
 frog noun
 front          noun
@@ -337,9 +387,11 @@ FTE noun abbr note=full-time equivalent
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
+fume noun
 fun            noun pl=- note=uncountable
 function       noun
 functionality  noun
+functionary noun
 fund           noun
 fundamental    noun
 funding        noun pl=- note=uncountable; the verb form funding comes from fund
@@ -348,6 +400,7 @@ fundraising    noun pl=- note=uncountable
 funeral        noun
 fungus noun pl=fungi|funguses
 funk noun
+funnel noun
 fur            noun
 furlough noun
 furnace        noun
@@ -360,4 +413,5 @@ fuse noun
 fuselage       noun
 fusion         noun
 fuss           noun
+futility noun pl=- note=uncountable
 future         noun

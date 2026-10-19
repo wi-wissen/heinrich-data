@@ -8,17 +8,23 @@ earl noun
 earlobe noun
 earmark noun
 earmuff noun
+earner noun
 earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
 earth noun
 earthquake noun
+earthwork noun
 earthworm noun
 ease noun
 easement noun
 east noun
+easterly noun
+ebb noun
 eccentric noun
+eccentricity noun
+ecclesiastic noun
 echo noun pl=echoes
 eclipse noun
 ecology noun
@@ -28,26 +34,32 @@ economist noun
 economy noun
 ecosystem noun
 ecstasy noun
+eddy noun
 edge noun
+edict noun
 edifice noun
 edition noun
 editor noun
 editorial noun
 education noun
 educator noun
+eel noun
 effect noun
 effectiveness noun pl=- note=uncountable
 efficacy noun pl=- note=uncountable
 efficiency noun
+effigy noun
 effluent noun
 effort noun
 egg noun
 eggplant noun region=US note=British aubergine
+ego noun pl=egos
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
 elaboration noun
 elastic noun
+elasticity noun
 elbow noun
 elder noun
 election noun
@@ -59,6 +71,7 @@ electrician noun
 electricity noun pl=- note=uncountable
 electrification noun
 electrode noun
+electrolyte noun
 electron noun
 electronics noun pl=- note=the field; takes a singular verb
 elegance noun
@@ -70,6 +83,7 @@ eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
 elk noun pl=elk|elks
+elm noun
 eloquence noun pl=- note=uncountable
 em noun
 email noun
@@ -81,6 +95,7 @@ embassy noun
 ember noun
 embezzlement noun pl=- note=uncountable
 emblem noun
+embodiment noun
 embrace noun
 embroidery noun
 embryo noun pl=embryos
@@ -104,8 +119,12 @@ employer noun
 employment noun
 empowerment noun
 empress noun
+emptiness noun pl=- note=uncountable
+enabler noun
 enactment noun
 encampment noun
+enchantment noun
+enclave noun
 enclosure noun
 encoder noun
 encounter noun
@@ -115,6 +134,8 @@ encumbrance noun
 encyclopedia noun gb=encyclopaedia|encyclopedia
 end noun
 endeavor noun gb=endeavour
+ending noun
+endometriosis noun pl=- note=uncountable
 endorsement noun
 endowment noun
 endpoint noun
@@ -127,11 +148,13 @@ engagement noun
 engine noun
 engineer noun
 engineering noun pl=- note=uncountable
-English noun pl=- note=the language
+English noun note=the language; plural Englishes for varieties of English
 Englishman noun pl=Englishmen
 engraving noun
 enhancement noun
 enjoyment noun
+enlargement noun
+enlightenment noun
 enmity noun
 enrichment noun
 enrollee noun
@@ -150,9 +173,11 @@ entrance noun
 entrant noun
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
+entropy noun
 entry noun
 envelope noun
 environment noun
+environmentalist noun
 envoy noun
 envy noun pl=- note=uncountable
 enzyme noun
@@ -161,19 +186,22 @@ epic noun
 epidemic noun
 epilepsy noun pl=- note=uncountable
 episode noun
+epistle noun
 epithet noun
-epoch noun
+epoch noun pl=epochs
 equal noun
 equality noun
 equation noun
 equator noun
 equilibrium noun pl=equilibria|equilibriums
+equine noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
 equivalent noun
 ERA noun abbr conf=80 note=earned run average; Equal Rights Amendment
 era noun
+eradication noun pl=- note=uncountable
 eraser noun
 erasure noun
 erection noun
@@ -192,13 +220,17 @@ espresso noun pl=espressos
 essay noun
 essayist noun
 essence noun
+essential noun note=essentials
 establishment noun
 estate noun
 esteem noun pl=- note=uncountable
+ester noun
 estimate noun
 estimation noun
 Estonian noun
+estradiol noun pl=- note=a hormone; British also oestradiol
 estuary noun
+etching noun
 eternity noun
 ETF noun abbr note=exchange-traded fund
 ethanol noun pl=- note=uncountable
@@ -215,6 +247,7 @@ EV noun abbr note=electric vehicle
 evacuation noun
 evaluation noun
 evaluator noun
+evangelist noun
 evaporation noun
 evasion noun
 eve noun
@@ -241,12 +274,14 @@ excess noun
 exchange noun
 exchequer noun region=GB
 excise noun
+excitation noun
 excitement noun
 exclamation noun
 exclusion noun
 excursion noun
 excuse noun
 execution noun
+executioner noun
 executive noun
 executor noun
 exemption noun
@@ -260,10 +295,13 @@ exhibitor noun
 exile noun
 existence noun
 exit noun
+exodus noun
 expanse noun
 expansion noun
+expatriate noun
 expectancy noun
 expectation noun
+expediency noun
 expedient noun
 expedition noun
 expenditure noun
@@ -283,7 +321,9 @@ explorer noun
 explosion noun
 explosive noun
 expo noun pl=expos note=short for exposition
+exponent noun
 export noun
+exportation noun
 exporter noun
 exposition noun
 exposure noun
@@ -295,6 +335,7 @@ expulsion noun
 extension noun
 extent noun
 exterior noun
+extermination noun
 extinction noun
 extra noun
 extract noun

@@ -17,7 +17,7 @@ unbelievable adj adv=unbelievably
 unbroken       adj
 uncertain      adj cmp=more
 unchanged      adj
-unclear        adj
+unclear        adj cmp=more
 uncomfortable  adj cmp=more adv=uncomfortably
 uncommon       adj cmp=more adv=uncommonly
 unconditional adj adv=unconditionally
@@ -78,7 +78,7 @@ unjust         adj adv=unjustly
 unkind adj cmp=er adv=unkindly
 unknown        adj
 unlawful       adj adv=unlawfully
-unlikely       adj cmp=more
+unlikely       adj cmp=er|more
 unlimited      adj
 unlucky adj cmp=er
 unmanned adj
@@ -113,7 +113,7 @@ unreleased adj
 unreliable adj
 unresolved adj
 unrestricted adj
-unsafe         adj
+unsafe         adj cmp=more
 unsatisfactory adj adv=unsatisfactorily
 unscrupulous   adj
 unseen         adj
@@ -138,8 +138,8 @@ unwavering adj
 unwelcome adj
 unwell adj
 unwilling      adj adv=unwillingly
-unwise adj
-unworthy       adj
+unwise adj cmp=more
+unworthy       adj cmp=more
 upcoming       adj
 upland adj
 upper          adj attr_only

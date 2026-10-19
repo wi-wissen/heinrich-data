@@ -1,3 +1,4 @@
+aback adv type=manner note=taken aback
 abreast adv
 abroad adv type=place
 afar adv
@@ -8,6 +9,7 @@ afterward adv type=time note=chiefly American; afterwards is used everywhere
 afterwards adv type=time
 again adv type=time
 ago adv type=time
+aground adv type=place
 ahead adv type=place
 alias adv
 alike adv type=manner
@@ -27,8 +29,10 @@ anyway adv type=conj
 anywhere adv type=place
 apart adv type=place
 apiece adv
+aright adv type=manner style=archaic
 ashore adv type=place
 aside adv type=place
+astern adv type=place
 astray adv
 asunder adv
 away adv type=place

@@ -1,5 +1,6 @@
 gag verb
 gain           verb
+gall verb
 gallop         verb
 gamble         verb
 gape verb
@@ -14,6 +15,7 @@ gauge          verb
 gawp verb region=GB style=colloquial
 gaze           verb
 gear           verb
+gel verb
 generalize verb gb=generalise|generalize
 generate       verb
 gesture        verb
@@ -30,6 +32,7 @@ glimmer verb
 glimpse        verb
 glisten verb
 glitter        verb
+glorify verb
 glory          verb
 gloss verb
 glow           verb
@@ -46,25 +49,32 @@ grab           verb
 grace          verb
 grade          verb
 graduate       verb
+graft verb
 grant          verb
+grapple verb
 grasp          verb
 grate verb
 gratify verb
 graze          verb
 grease verb
 greet          verb
+gridlock verb
 grieve verb
 grill verb
 grin           verb
 grind          verb past=ground pp=ground
 grip           verb
+grit verb
 groan          verb
 groom verb
+groove verb
+grope verb
 gross          verb
 ground         verb
 group          verb
 grow           verb past=grew pp=grown
 growl          verb
+grub verb
 grumble verb
 grunt verb
 guarantee      verb
@@ -73,4 +83,8 @@ guess          verb
 guide          verb
 gulp verb
 gun            verb
+gurgle verb
+gush verb
+gust verb
 gut verb
+gutter verb

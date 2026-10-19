@@ -35,7 +35,7 @@ originate     verb
 ornament      verb
 orphan verb
 outbid verb prefix=out past=outbid pp=outbid
-outfit        verb
+outfit        verb prefix=out
 outlaw        verb
 outline       verb
 outnumber verb

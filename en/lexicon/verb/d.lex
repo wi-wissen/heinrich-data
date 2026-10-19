@@ -3,37 +3,44 @@ damage verb
 damn verb
 damp verb
 dance verb
+dangle verb
 dare verb
 daresay verb defective note=defective verb, almost only in I daresay
 darken verb
+darn verb
 dart verb
 dash verb
 date verb
 dawn verb
 daze verb
 dazzle verb
+deactivate verb
 deal verb past=dealt pp=dealt
 debate verb
 debit verb
 debrief verb
 debug verb double
 debut verb
+decarbonize verb gb=decarbonise|decarbonize
 decay verb
 deceive verb
 decentralize verb gb=decentralise|decentralize
 decide verb
 decimate verb
+decipher verb
 deck verb
 declare verb
 decline verb
 declutter verb
 decode verb
 decommission verb
+decompose verb
 decorate verb
 decrease verb
 decree verb
 decrypt verb
 dedicate verb
+deduce verb
 deduct verb
 deem verb
 deepen verb
@@ -43,6 +50,7 @@ defeat verb
 defect verb
 defend verb
 defer verb double
+defile verb
 define verb
 defrost verb
 defy verb
@@ -53,6 +61,7 @@ delegate verb
 delete verb
 deliberate verb
 delight verb
+delineate verb
 deliver verb
 demand verb
 demolish verb
@@ -65,13 +74,16 @@ depart verb
 depend verb
 depict verb
 deplete verb
+deplore verb
 deploy verb
 deport verb
 depose verb
 deposit verb
+deprecate verb
 depreciate verb
 depress verb
 deprive verb
+derail verb
 deregulate verb
 derive verb
 descend verb
@@ -81,8 +93,10 @@ deserve verb
 design verb
 designate verb
 desire verb
+desist verb
 despair verb
 despise verb
+destabilize verb gb=destabilise|destabilize
 destroy verb
 detach verb
 detail verb
@@ -91,9 +105,11 @@ detect verb
 deter verb double
 deteriorate verb
 determine verb
+detonate verb
 devalue verb
 devastate verb
 develop verb
+deviate verb
 devise verb
 devolve verb
 devote verb
@@ -108,7 +124,10 @@ differ verb nodouble
 differentiate verb
 diffuse verb
 dig verb past=dug pp=dug
+digest verb
 digitize verb gb=digitise|digitize
+dilate verb
+dilute verb
 dim verb
 diminish verb
 dine verb
@@ -134,19 +153,23 @@ discontinue verb
 discount verb
 discourage verb
 discover verb
+discredit verb
 discriminate verb
 discuss verb
 disdain verb
+disengage verb
 disgrace verb
 disguise verb
 disgust verb
 dish verb
 dislike verb
+dislodge verb
 dismantle verb
 dismay verb
 dismiss verb
 dismount verb
 dispatch verb gb=dispatch|despatch
+dispel verb double
 dispense verb
 disperse verb
 displace verb
@@ -156,12 +179,15 @@ dispose verb
 dispute verb
 disqualify verb
 disregard verb
+disrespect verb
 disrupt verb
 disseminate verb
 dissent verb
 dissipate verb
 dissolve verb
+dissuade verb
 distance verb
+distill verb gb=distil conf=90 note=distill US, distil GB; distilled, distilling shared
 distinguish verb
 distort verb
 distract verb
@@ -171,6 +197,7 @@ distrust verb
 disturb verb
 ditch verb
 dive verb past=dived|dove[US] pp=dived note=dove is American
+diverge verb
 diversify verb
 divert verb
 divest verb
@@ -184,25 +211,33 @@ document verb
 dodge verb
 dog verb
 domesticate verb
+domicile verb
 dominate verb
 don verb
 donate verb
 doodle verb
 doom verb
+dope verb
 dose verb
 dot verb
 double verb
 doubt verb
+down verb
 downgrade verb
 download verb
 downsize verb
 doze verb
 draft verb
 drag verb
+dragoon verb
 drain verb
+drape verb
 draw verb past=drew pp=drawn
+drawl verb
 dread verb
 dream verb past=dreamed|dreamt pp=dreamed|dreamt note=dreamt is more frequent in British English
+dredge verb
+drench verb
 dress verb
 dribble verb
 drift verb
@@ -228,4 +263,6 @@ duplicate verb
 dust verb
 dwarf verb
 dwell verb past=dwelt|dwelled pp=dwelt|dwelled
+dwindle verb
 dye verb
+dynamite verb

@@ -5,10 +5,12 @@ faint          adj cmp=er adv=faintly
 fair           adj cmp=er adv=fairly
 faithful       adj adv=faithfully
 fake           adj
-false          adj cmp=more adv=falsely
+false          adj cmp=er|more adv=falsely
 famed adj
+familial adj
 familiar       adj cmp=more adv=familiarly
 famous         adj cmp=more adv=famously
+fanatical adj cmp=more adv=fanatically
 fanciful adj
 fancy          adj cmp=er
 fantastic      adj adv=fantastically
@@ -17,10 +19,11 @@ fascinating    adj cmp=more adv=fascinatingly
 fascist adj
 fashionable    adj cmp=more adv=fashionably
 fast           adj cmp=er
+fastidious adj cmp=more adv=fastidiously
 fat            adj cmp=er
 fatal          adj adv=fatally
 fatty adj cmp=er
-faulty adj
+faulty adj cmp=er|more
 favorable      adj gb=favourable adv=favorably
 favorite       adj gb=favourite
 fearful        adj adv=fearfully
@@ -36,7 +39,9 @@ feminist       adj
 feral          adj
 ferocious adj adv=ferociously
 fertile        adj
+fervent adj cmp=more adv=fervently
 festive adj
+fetal adj gb=foetal|fetal
 feudal         adj
 feverish adj cmp=more adv=feverishly
 fictional      adj
@@ -52,17 +57,21 @@ fine           adj cmp=er adv=finely
 finite         adj
 Finnish        adj
 firm           adj cmp=er adv=firmly
+firsthand adj
 fiscal         adj adv=fiscally
 fit            adj cmp=er
 fitting        adj adv=fittingly
 fixed          adj
 fizzy adj cmp=er
+flagrant adj adv=flagrantly
 flammable adj
 flat           adj cmp=er adv=flatly
 flawed adj
+fledgling adj attr_only
 fleeting adj
 Flemish        adj
 flexible       adj cmp=more adv=flexibly
+floral adj
 flowery adj cmp=more
 fluent adj adv=fluently
 fluffy adj cmp=er
@@ -73,6 +82,7 @@ foggy adj cmp=er
 folk           adj attr_only
 fond           adj cmp=er adv=fondly
 foolish        adj cmp=more adv=foolishly
+forceful adj cmp=more adv=forcefully
 forcible       adj adv=forcibly
 fore           adj attr_only
 foregoing      adj attr_only
@@ -84,17 +94,19 @@ forested adj
 forgetful adj cmp=more adv=forgetfully
 forlorn adj
 formal         adj adv=formally
+formative adj
 former         adj attr_only adv=formerly
 formidable     adj
 forthcoming    adj
 fortnightly adj region=GB
 fortunate      adj cmp=more adv=fortunately
-forward        adj
+forward        adj cmp=more
 foster         adj attr_only
 foul           adj cmp=er
 foundational adj
 fractional adj
 fragile        adj
+fragmentary adj
 fragrant adj
 frail adj cmp=er
 Franciscan adj
@@ -102,6 +114,7 @@ frank          adj cmp=er adv=frankly
 Frankish       adj
 frantic adj cmp=more adv=frantically
 fraudulent     adj adv=fraudulently
+fraught adj cmp=more
 freaky adj cmp=er style=colloquial
 freckled adj
 free           adj cmp=er adv=freely
@@ -131,6 +144,8 @@ funerary       adj
 funny          adj cmp=er
 furious        adj adv=furiously
 furry adj cmp=er
+furtive adj adv=furtively
 fussy adj cmp=er
 futile adj
 future         adj attr_only
+fuzzy adj cmp=er adv=fuzzily

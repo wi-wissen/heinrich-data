@@ -31,7 +31,7 @@ uniformity noun
 union         noun
 unionist      noun
 unit          noun
-unity         noun pl=- note=uncountable
+unity         noun note=plural unities: the dramatic unities
 universe      noun
 university    noun
 unknown       noun

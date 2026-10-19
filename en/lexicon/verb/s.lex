@@ -281,7 +281,7 @@ strengthen verb
 stress verb
 stretch verb
 strew verb past=strewed pp=strewn|strewed
-stride verb past=strode pp=stridden|strode conf=85 note=past participle rare and unsettled
+stride verb past=strode pp=stridden|strode[colloquial] conf=85 note=stridden is rare; strode as participle is informal
 strike verb past=struck pp=struck
 string verb past=strung pp=strung
 strip verb

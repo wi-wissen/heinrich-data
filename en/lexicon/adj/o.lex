@@ -32,7 +32,7 @@ online         adj
 onshore        adj
 onsite adj
 onward         adj
-opaque adj adv=opaquely
+opaque adj cmp=more adv=opaquely
 open           adj cmp=more adv=openly
 operatic adj
 operational    adj adv=operationally

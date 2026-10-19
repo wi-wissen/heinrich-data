@@ -1,6 +1,7 @@
 kayak verb
 keep           verb past=kept pp=kept
 key            verb
+keynote verb
 kick           verb
 kid            verb
 kidnap         verb double
@@ -15,3 +16,4 @@ knit verb past=knitted|knit pp=knitted|knit
 knock          verb
 knot           verb
 know           verb past=knew pp=known
+knuckle verb

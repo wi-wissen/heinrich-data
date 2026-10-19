@@ -220,7 +220,7 @@ toll noun
 tom noun note=male cat or turkey
 tomato noun pl=tomatoes
 tomb noun
-tomorrow noun pl=- note=no plural: deictic time noun
+tomorrow noun note=plural tomorrows is literary (better tomorrows)
 ton noun
 tone noun
 toner noun

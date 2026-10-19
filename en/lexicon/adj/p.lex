@@ -40,7 +40,7 @@ pensionable adj
 peppery adj
 perceptible adj adv=perceptibly
 perennial adj adv=perennially
-perfect adj adv=perfectly
+perfect adj cmp=more adv=perfectly
 perilous adj cmp=more adv=perilously
 periodic adj adv=periodically
 periodical adj
@@ -162,11 +162,11 @@ problematic adj cmp=more
 procedural adj adv=procedurally
 prodigious adj adv=prodigiously
 productive adj cmp=more adv=productively
-profane adj
+profane adj cmp=more
 professional adj cmp=more adv=professionally
 proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
-profound adj cmp=more adv=profoundly
+profound adj cmp=er|more adv=profoundly
 programmatic adj
 progressive adj adv=progressively
 prolific adj cmp=more
@@ -176,7 +176,7 @@ promotional adj
 prompt adj cmp=er adv=promptly
 prone adj
 proof adj
-proper adj adv=properly
+proper adj cmp=more adv=properly
 prophetic adj
 proportional adj adv=proportionally
 proportionate adj adv=proportionately

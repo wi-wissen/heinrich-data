@@ -2,6 +2,7 @@ cautiously adv
 chiefly adv
 clean adv
 clinically adv
+clockwise adv type=manner
 commercially adv
 comparatively adv
 concurrently adv

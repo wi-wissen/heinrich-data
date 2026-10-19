@@ -121,7 +121,7 @@ pathway noun
 patience noun pl=- note=uncountable
 patient noun
 patio noun pl=patios
-patriarch noun
+patriarch noun pl=patriarchs
 patriot noun
 patriotism noun pl=- note=uncountable
 patrol noun
@@ -200,7 +200,7 @@ perception noun
 perch noun
 percussion noun pl=- note=uncountable
 perennial noun
-perfection noun pl=- note=uncountable
+perfection noun note=plural perfections: excellent qualities
 performance noun
 performer noun
 perfume noun
@@ -336,7 +336,7 @@ plant noun
 plantation noun
 planter noun
 plaque noun
-plasma noun pl=- note=uncountable
+plasma noun note=plural plasmas in physics
 plaster noun
 plastic noun
 plat noun
@@ -400,7 +400,7 @@ politeness noun pl=- note=uncountable
 politician noun
 politics noun pl=- note=singular or plural agreement
 poll noun
-pollen noun pl=- note=uncountable
+pollen noun note=plural pollens: kinds of pollen
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
@@ -481,7 +481,7 @@ PR noun abbr note=public relations; also Puerto Rico, proportional representatio
 practice noun
 practitioner noun
 prairie noun
-praise noun pl=- note=uncountable
+praise noun note=plural praises: sing someone's praises
 pram noun region=GB note=US baby carriage
 prawn noun
 prayer noun
@@ -545,7 +545,7 @@ preview noun
 prey noun pl=- note=uncountable
 price noun
 pricing noun pl=- note=uncountable
-pride noun pl=- note=uncountable
+pride noun note=plural prides: a pride of lions
 priest noun
 priesthood noun
 primary noun
@@ -584,7 +584,7 @@ procession noun
 processor noun
 proclamation noun
 procrastination noun pl=- note=uncountable
-procurement noun pl=- note=uncountable
+procurement noun note=plural procurements: individual purchases
 produce noun pl=- note=uncountable
 producer noun
 product noun
@@ -611,7 +611,7 @@ projection noun
 projector noun
 proliferation noun
 promenade noun
-prominence noun pl=- note=uncountable
+prominence noun note=plural prominences: solar prominences, projections
 promise noun
 promontory noun
 promoter noun

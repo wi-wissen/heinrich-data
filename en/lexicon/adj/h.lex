@@ -30,15 +30,20 @@ heartfelt adj
 heartless adj
 hearty         adj cmp=er adv=heartily
 heathen        adj
-heavenly       adj
+heavenly       adj cmp=more
 heavy          adj cmp=er adv=heavily
 Hebrew         adj
+heinous adj
 Hellenistic adj
 helpful        adj cmp=more adv=helpfully
 helpless       adj adv=helplessly
 hemorrhagic adj gb=haemorrhagic
+heraldic adj
+herbal adj
 hereditary     adj
 heroic         adj adv=heroically
+hesitant adj cmp=more adv=hesitantly
+heterosexual adj
 hideous        adj adv=hideously
 hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
@@ -65,16 +70,18 @@ honorary       adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally
+horrendous adj
 horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
+horticultural adj
 hospitable adj cmp=more
 hostile        adj
 hot            adj cmp=er adv=hotly
 hourly         adj
 household      adj attr_only
-huge           adj cmp=more adv=hugely
-human          adj adv=humanly
+huge           adj cmp=er|more adv=hugely
+human          adj cmp=more adv=humanly
 humane adj cmp=more adv=humanely
 humanitarian   adj
 humble         adj cmp=er adv=humbly
@@ -84,8 +91,11 @@ humorous       adj adv=humorously
 Hungarian      adj
 hungry         adj cmp=er adv=hungrily
 hurried        adj adv=hurriedly
+husky adj cmp=er
 hybrid         adj
 hydraulic      adj
 hydroelectric adj
+hydrologic adj
+hyperbolic adj
 hypothetical   adj adv=hypothetically
 hysterical adj adv=hysterically

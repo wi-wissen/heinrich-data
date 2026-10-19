@@ -396,7 +396,7 @@ movement       noun
 movie          noun
 MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
-MS             noun abbr note=multiple sclerosis; manuscript
+MS             noun abbr pl=MSS note=manuscript (plural MSS); multiple sclerosis
 mud            noun pl=- note=uncountable
 muffin noun
 mug noun

@@ -1,9 +1,13 @@
+jab verb
 jack verb
 jail           verb
 jam verb
+jar verb
 jazz verb
+jeopardize verb gb=jeopardise|jeopardize
 jerk verb
 jest           verb
+jingle verb
 jog verb
 join           verb
 joke           verb

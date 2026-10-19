@@ -1,4 +1,5 @@
 Babylonian adj
+backstage adj
 backward adj
 bacterial adj
 bad adj cmp=worse sup=worst adv=badly
@@ -12,7 +13,7 @@ barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
 bare adj cmp=er
 baroque adj
-barren adj
+barren adj cmp=more
 basal adj
 basic adj adv=basically
 Basque adj
@@ -25,8 +26,10 @@ beige adj
 Belarusian adj
 belated adj adv=belatedly
 Belgian adj
+belligerent adj adv=belligerently cmp=more
 beloved adj
 Benedictine adj
+beneficent adj
 beneficial adj adv=beneficially
 benevolent adj cmp=more adv=benevolently
 Bengali adj
@@ -36,6 +39,7 @@ bereaved adj
 bespoke adj
 biannual adj adv=biannually
 biblical adj
+biennial adj
 big adj cmp=er
 bilateral adj adv=bilaterally
 bilingual adj
@@ -44,6 +48,7 @@ binary adj
 binding adj
 biographical adj
 biological adj adv=biologically
+biomedical adj
 biometric adj
 bipartisan adj
 bipolar adj
@@ -54,6 +59,7 @@ bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
 bland adj cmp=er adv=blandly
 blank adj
+blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
@@ -65,6 +71,7 @@ blunt adj cmp=er adv=bluntly
 blustery adj
 bodily adj
 Bohemian adj
+boisterous adj cmp=more
 bold adj cmp=er adv=boldly
 bony adj cmp=er
 bored adj cmp=more
@@ -73,6 +80,7 @@ Bosnian adj
 bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
+bourgeois adj
 boyish adj cmp=more adv=boyishly
 brainy adj cmp=er
 brave adj cmp=er adv=bravely
@@ -87,6 +95,7 @@ bright adj cmp=er adv=brightly
 brilliant adj cmp=more adv=brilliantly
 brisk adj cmp=er adv=briskly
 British adj
+brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
 brown adj cmp=er
 brutal adj cmp=more adv=brutally
@@ -95,11 +104,15 @@ Buddhist adj
 budgetary adj
 buggy adj cmp=er
 Bulgarian adj
+bulky adj cmp=er
+bumper adj attr_only
 bumpy adj cmp=er
 buoyant adj adv=buoyantly
 burdensome adj
 bureaucratic adj cmp=more adv=bureaucratically
+burly adj cmp=er
 Burmese adj
+bushy adj cmp=er
 businesslike adj cmp=more
 busy adj cmp=er adv=busily
 Byzantine adj

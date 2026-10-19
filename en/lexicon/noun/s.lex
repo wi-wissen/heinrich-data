@@ -436,7 +436,7 @@ softball noun
 softness noun pl=- note=uncountable
 software noun pl=- note=uncountable
 soil noun
-solace noun pl=- note=uncountable
+solace noun note=plural solaces: comforts
 soldier noun
 sole noun
 solemnity noun
@@ -494,7 +494,7 @@ speaker noun
 spear noun
 special noun
 specialist noun
-specialty noun note=British usually speciality
+specialty noun gb=speciality|specialty note=British texts use both spellings
 species noun pl=species
 specific noun note=specifics (details)
 specification noun
@@ -753,7 +753,7 @@ Sudanese noun pl=Sudanese
 sudoku noun
 suffering noun
 suffix noun
-suffrage noun pl=- note=uncountable
+suffrage noun note=plural suffrages: votes; intercessory prayers
 sugar noun
 suggestion noun
 suicide noun

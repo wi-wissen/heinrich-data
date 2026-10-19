@@ -62,7 +62,7 @@ weapon noun
 wear noun pl=- note=uncountable
 weariness noun pl=- note=uncountable
 weasel noun
-weather noun pl=- note=uncountable
+weather noun note=plural weathers: in all weathers
 web noun
 webcam noun
 webcast noun

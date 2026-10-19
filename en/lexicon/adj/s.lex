@@ -62,20 +62,20 @@ sentimental adj cmp=more
 separate adj adv=separately
 sequential adj adv=sequentially
 Serbian adj
-serene adj cmp=more
+serene adj cmp=er|more
 serial adj
 serious adj cmp=more adv=seriously
 serviceable adj
 severe adj cmp=er|more adv=severely
 sexual adj adv=sexually
 shabby adj cmp=er
-shadowy adj
+shadowy adj cmp=more
 shady adj cmp=er
 shaggy adj cmp=er
 shallow adj cmp=er
 shameful adj cmp=more adv=shamefully
 sharp adj cmp=er adv=sharply
-sheer adj
+sheer adj cmp=er
 shiny adj cmp=er
 shocking adj cmp=more adv=shockingly
 short adj cmp=er adv=shortly
@@ -91,14 +91,14 @@ sickly adj cmp=er
 sideways adj
 significant adj cmp=more adv=significantly
 Sikh adj
-silent adj adv=silently
+silent adj cmp=more adv=silently
 silken adj
 silly adj cmp=er
 silvery adj
 similar adj cmp=more adv=similarly
 simple adj cmp=er adv=simply
 simultaneous adj adv=simultaneously
-sincere adj cmp=more adv=sincerely
+sincere adj cmp=er|more adv=sincerely
 sinful adj
 single adj
 singular adj adv=singularly
@@ -125,7 +125,7 @@ smelly adj cmp=er
 smooth adj cmp=er adv=smoothly
 snowy adj cmp=er
 snug adj cmp=er
-sober adj
+sober adj cmp=er|more
 sociable adj cmp=more
 social adj adv=socially
 socialist adj
@@ -136,7 +136,7 @@ soggy adj cmp=er
 solar adj
 sole adj adv=solely
 solemn adj cmp=more adv=solemnly
-solid adj cmp=more adv=solidly
+solid adj cmp=er|more adv=solidly
 solitary adj
 solo adj
 solvent adj
@@ -162,7 +162,7 @@ sovereign adj
 Soviet adj
 spacious adj cmp=more
 Spanish adj
-spare adj
+spare adj cmp=er|more
 sparkling adj
 sparkly adj
 sparse adj cmp=er adv=sparsely
@@ -189,7 +189,7 @@ sporting adj
 sporty adj cmp=er
 spotless adj adv=spotlessly
 spotty adj cmp=er
-square adj
+square adj cmp=er|more
 stable adj cmp=more
 stagnant adj
 stainless adj
@@ -199,7 +199,7 @@ standalone adj
 standard adj
 stark adj cmp=er
 startling adj
-stately adj
+stately adj cmp=er|more
 statewide adj
 static adj
 stationary adj
@@ -243,7 +243,7 @@ stylish adj cmp=more adv=stylishly
 stylistic adj
 subject adj note=subject to
 subjective adj adv=subjectively
-sublime adj
+sublime adj cmp=er|more
 subordinate adj
 subsequent adj adv=subsequently
 substantial adj adv=substantially
