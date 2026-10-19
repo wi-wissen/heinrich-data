@@ -6,6 +6,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
 Überbrückung noun g=f gen=Überbrückung pl=Überbrückungen
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
+Übereinkunft noun g=f gen=Übereinkunft pl=Übereinkünfte
 Übereinstimmung noun g=f gen=Übereinstimmung pl=Übereinstimmungen
 Überfall noun g=m gen=Überfalls|Überfalles pl=Überfälle
 Überführung noun g=f gen=Überführung pl=Überführungen
@@ -63,6 +64,7 @@ Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
+Umkehr noun g=f gen=Umkehr pl=- note=mass noun
 Umkleide noun g=f gen=Umkleide pl=Umkleiden
 Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
@@ -128,6 +130,7 @@ Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen
 Unterführung noun g=f gen=Unterführung pl=Unterführungen
 Untergang noun g=m gen=Untergangs|Unterganges pl=Untergänge
+Untergebene noun g=m|f decl=adj
 Untergrund noun g=m gen=Untergrunds|Untergrundes pl=Untergründe
 Unterhalt noun g=m gen=Unterhalts|Unterhaltes pl=- note=maintenance, support
 Unterhaltung noun g=f gen=Unterhaltung pl=Unterhaltungen

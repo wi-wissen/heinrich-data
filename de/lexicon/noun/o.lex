@@ -67,8 +67,10 @@ Operation noun g=f gen=Operation pl=Operationen
 Operette noun g=f gen=Operette pl=Operetten
 Opfer noun g=n gen=Opfers pl=Opfer
 Opi noun g=m gen=Opis pl=Opis
+Opium noun g=n gen=Opiums pl=- note=mass noun
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
 Opposition noun g=f gen=Opposition pl=Oppositionen
+Optik noun g=f gen=Optik pl=Optiken
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
 Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
 Option noun g=f gen=Option pl=Optionen
@@ -79,9 +81,11 @@ Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
+Ordinarius noun g=m gen=Ordinarius pl=Ordinarien note=full professor; bare genitive
 Ordner noun g=m gen=Ordners pl=Ordner
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
+Ordre noun g=f gen=Ordre pl=Ordres style=archaic conf=75 note=order, command (French loan)
 Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
 Organigramm noun g=n gen=Organigramms|Organigrammes pl=Organigramme
@@ -93,10 +97,12 @@ Organistin noun g=f gen=Organistin pl=Organistinnen
 Organspende noun g=f gen=Organspende pl=Organspenden
 Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
+Orientalist noun g=m gen=Orientalisten pl=Orientalisten
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
 Originalität noun g=f gen=Originalität pl=- note=mass noun
 Orkan noun g=m gen=Orkans pl=Orkane
+Ornament noun g=n gen=Ornaments|Ornamentes pl=Ornamente
 Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthografie noun g=f gen=Orthografie pl=Orthografien
@@ -105,6 +111,7 @@ Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
+Oscar noun g=m gen=Oscars pl=Oscars note=film award
 Osmane noun g=m gen=Osmanen pl=Osmanen
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural

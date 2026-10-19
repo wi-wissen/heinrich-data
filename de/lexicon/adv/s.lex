@@ -1,7 +1,9 @@
 sämtlich adv note=uninflected use (sie waren sämtlich anwesend); the declined forms are the determiner sämtlicher in closed/
 schätzungsweise adv
 schier adv
+schlechterdings adv
 schlechthin adv
+schleunigst adv
 schlichtweg adv type=degree
 schnellstens adv
 schwerlich adv type=degree

@@ -3,6 +3,7 @@ EGRL x note=Richtlinie der Europäischen Gemeinschaft
 ehem. x note=ehemalig
 EinigVtr x note=Einigungsvertrag
 Einw. x note=Einwohner
+endg. x note=endgültig (EU document numbers: KOM(2005) 123 endg.)
 engl. x note=englisch
 EStG x note=Einkommensteuergesetz
 etc. x note=et cetera

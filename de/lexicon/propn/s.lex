@@ -59,6 +59,7 @@ Südafrika propn g=n gen=Südafrikas pl=- note=proper name, no plural
 Südamerika propn g=n gen=Südamerikas pl=- note=proper name, no plural
 Sudan propn g=m gen=Sudan|Sudans pl=- note=country; der Sudan
 Süddeutschland propn g=n gen=Süddeutschlands pl=- note=region
+Südeuropa propn g=n gen=Südeuropas pl=- note=proper name; no plural
 Süditalien propn g=n gen=Süditaliens pl=- note=region
 Südkorea propn g=n gen=Südkoreas pl=- note=proper name, no plural
 Südostasien propn g=n gen=Südostasiens pl=- note=proper name; no plural
@@ -68,4 +69,5 @@ Südtirol propn g=n gen=Südtirols pl=- note=region
 Sumatra propn g=n gen=Sumatras pl=- note=island
 SWR propn g=m gen=SWR|SWRs pl=- note=Südwestrundfunk
 Sydney propn g=n gen=Sydneys pl=- note=proper name, no plural
+Syrakus propn g=n gen=Syrakus pl=- note=proper name; bare genitive
 Syrien propn g=n gen=Syriens pl=- note=proper name, no plural

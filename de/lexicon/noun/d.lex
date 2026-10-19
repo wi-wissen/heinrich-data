@@ -24,6 +24,7 @@ Darm noun g=m gen=Darms|Darmes pl=Därme
 Darsteller noun g=m gen=Darstellers pl=Darsteller
 Darstellerin noun g=f gen=Darstellerin pl=Darstellerinnen
 Darstellung   noun g=f gen=Darstellung pl=Darstellungen
+Darts noun g=n gen=Darts pl=- conf=80 note=the game; plural form, used as singular
 Dasein noun g=n gen=Daseins pl=- note=no plural
 Date noun g=n gen=Dates pl=Dates
 Datei         noun g=f gen=Datei pl=Dateien
@@ -49,6 +50,7 @@ Definition noun g=f gen=Definition pl=Definitionen
 Defizit noun g=n gen=Defizits pl=Defizite
 Degen noun g=m gen=Degens pl=Degen
 Deich noun g=m gen=Deichs|Deiches pl=Deiche
+Dekade noun g=f gen=Dekade pl=Dekaden
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
 Deklination noun g=f gen=Deklination pl=Deklinationen
@@ -82,6 +84,7 @@ Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 n
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
 Depesche noun g=f gen=Depesche pl=Depeschen
 Deponie noun g=f gen=Deponie pl=Deponien
+Deportation noun g=f gen=Deportation pl=Deportationen
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
 Deputation noun g=f gen=Deputation pl=Deputationen
@@ -105,6 +108,7 @@ Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
 Deutsche      noun g=m|f decl=adj
 Deutung noun g=f gen=Deutung pl=Deutungen
+Devise noun g=f gen=Devise pl=Devisen
 Devisen noun g=pl note=foreign currency
 Dezember noun g=m gen=Dezember|Dezembers pl=Dezember[rare] note=month name; plural rare (die Dezember)
 Dezentralisierung noun g=f gen=Dezentralisierung pl=Dezentralisierungen
@@ -112,6 +116,7 @@ Dezernat noun g=n gen=Dezernats|Dezernates pl=Dezernate
 Dezernent noun g=m gen=Dezernenten pl=Dezernenten
 Dezernentin noun g=f gen=Dezernentin pl=Dezernentinnen
 Dezimalzahl noun g=f gen=Dezimalzahl pl=Dezimalzahlen
+Dia noun g=n gen=Dias pl=Dias
 Diabetes noun g=m gen=Diabetes pl=- note=no plural
 Diagnose noun g=f gen=Diagnose pl=Diagnosen
 Diagnostik noun g=f gen=Diagnostik pl=- note=no plural
@@ -170,6 +175,7 @@ Diplomatin noun g=f gen=Diplomatin pl=Diplomatinnen
 Direktion noun g=f gen=Direktion pl=Direktionen
 Direktor      noun g=m gen=Direktors pl=Direktoren
 Direktorin noun g=f gen=Direktorin pl=Direktorinnen
+Direktorium noun g=n gen=Direktoriums pl=Direktorien
 Dirigent noun g=m gen=Dirigenten pl=Dirigenten
 Dirigentin noun g=f gen=Dirigentin pl=Dirigentinnen
 Dirne noun g=f gen=Dirne pl=Dirnen
@@ -196,6 +202,7 @@ Diwan noun g=m gen=Diwans pl=Diwane
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
+Dock noun g=n gen=Docks pl=Docks
 Docke noun g=f gen=Docke pl=Docken
 Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
 Doge noun g=m gen=Dogen pl=Dogen
@@ -216,6 +223,7 @@ Dolmetscherin noun g=f gen=Dolmetscherin pl=Dolmetscherinnen
 Dom noun g=m gen=Doms|Domes pl=Dome
 Domäne noun g=f gen=Domäne pl=Domänen
 Dominanz noun g=f gen=Dominanz pl=- note=no plural
+Dominikaner noun g=m gen=Dominikaners pl=Dominikaner
 Dominostein noun g=m gen=Dominosteins|Dominosteines pl=Dominosteine
 Döner noun g=m gen=Döners pl=Döner
 Donner noun g=m gen=Donners pl=- note=thunder; no plural
@@ -244,6 +252,7 @@ Drama noun g=n gen=Dramas pl=Dramen
 Dramatik noun g=f gen=Dramatik pl=- note=no plural
 Dramatiker noun g=m gen=Dramatikers pl=Dramatiker
 Dramatikerin noun g=f gen=Dramatikerin pl=Dramatikerinnen
+Dramaturg noun g=m gen=Dramaturgen pl=Dramaturgen
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs

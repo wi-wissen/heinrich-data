@@ -34,6 +34,7 @@ akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albanisch adj
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
+alleinerziehend adj
 alleinig adj
 allererst adj
 allergisch adj
@@ -42,8 +43,10 @@ allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
 allmählich adj
+allmälig adj spelling=old note=old spelling of allmählich
 allmonatlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
+alphabetisch adj
 alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
@@ -55,6 +58,7 @@ amtierend adj
 amtlich adj
 analog adj
 analytisch adj
+anatomisch adj
 andächtig adj cmp=andächtiger sup=andächtigsten
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
@@ -111,6 +115,8 @@ asiatisch adj
 astronomisch adj
 atheistisch adj
 atlantisch adj note=der Atlantische Ozean
+atmosphärisch adj
+äthiopisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
 ätzend adj

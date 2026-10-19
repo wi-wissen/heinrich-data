@@ -11,4 +11,5 @@ forthwith      adv type=time
 fortnightly adv region=GB
 forward        adv
 forwards       adv
+fourthly adv type=conj
 fro            adv note=only in to and fro

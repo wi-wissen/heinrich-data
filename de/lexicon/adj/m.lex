@@ -11,6 +11,7 @@ manuell adj
 maritim adj
 markant adj cmp=markanter sup=markantesten
 marode adj cmp=maroder sup=marodesten
+marokkanisch adj
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -45,6 +46,7 @@ minderjährig adj
 mindest adj attr_only note=superlative of wenig in the phrases das mindeste, nicht im mindesten
 mineralisch adj
 minimal adj
+minütig adj note=mostly in compounds with numerals (zehnminütig, 90-minütige)
 miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
@@ -82,6 +84,7 @@ mündig adj
 mündlich adj
 munter adj cmp=munterer sup=muntersten
 mürrisch adj cmp=mürrischer sup=mürrischsten
+müßig adj cmp=müßiger sup=müßigsten
 musikalisch adj
 muslimisch adj
 mutig adj cmp=mutiger sup=mutigsten
@@ -90,3 +93,4 @@ mütterlich adj
 mysteriös adj cmp=mysteriöser sup=mysteriösesten
 mystisch adj
 mythisch adj
+mythologisch adj

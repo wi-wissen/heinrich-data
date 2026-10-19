@@ -25,6 +25,7 @@ Veilchen noun g=n gen=Veilchens pl=Veilchen
 Vektor noun g=m gen=Vektors pl=Vektoren
 Vene noun g=f gen=Vene pl=Venen
 Venezianer noun g=m gen=Venezianers pl=Venezianer
+Ventil noun g=n gen=Ventils pl=Ventile
 Verabredung noun g=f gen=Verabredung pl=Verabredungen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
@@ -290,6 +291,7 @@ Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
 Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
 Veste noun g=f gen=Veste pl=Vesten note=fortress (Veste Coburg); older form of Feste
+Veteran noun g=m gen=Veteranen pl=Veteranen
 Veterinär noun g=m gen=Veterinärs pl=Veterinäre
 Veto noun g=n gen=Vetos pl=Vetos
 Vetter noun g=m gen=Vetters pl=Vettern
@@ -353,6 +355,7 @@ Vollzug noun g=m gen=Vollzugs|Vollzuges pl=- note=no plural
 Volontär noun g=m gen=Volontärs pl=Volontäre
 Volontariat noun g=n gen=Volontariats|Volontariates pl=Volontariate
 Volontärin noun g=f gen=Volontärin pl=Volontärinnen
+Volt noun g=n gen=Volt|Volts pl=Volt note=unit
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
 Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen
@@ -382,6 +385,7 @@ Vorhang noun g=m gen=Vorhangs|Vorhanges pl=Vorhänge
 Vorjahr noun g=n gen=Vorjahres|Vorjahrs pl=Vorjahre
 Vorkehrung noun g=f gen=Vorkehrung pl=Vorkehrungen
 Vorkommen noun g=n gen=Vorkommens pl=Vorkommen note=lexicalised nominal infinitive: occurrence, deposit
+Vorkommnis noun g=n gen=Vorkommnisses pl=Vorkommnisse
 Vorladung noun g=f gen=Vorladung pl=Vorladungen
 Vorlage noun g=f gen=Vorlage pl=Vorlagen
 Vorlauf noun g=m gen=Vorlaufs|Vorlaufes pl=Vorläufe

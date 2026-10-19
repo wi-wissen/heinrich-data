@@ -44,6 +44,7 @@ Wanderschaft noun g=f gen=Wanderschaft pl=- note=auf Wanderschaft; no plural in 
 Wanderschuhe noun g=pl
 Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
+Wandlung noun g=f gen=Wandlung pl=Wandlungen
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
 Wappen noun g=n gen=Wappens pl=Wappen
@@ -216,6 +217,7 @@ Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
 Wirtschaftlichkeit noun g=f gen=Wirtschaftlichkeit pl=- note=no plural
 Wirtschaftswunder noun g=n gen=Wirtschaftswunders pl=- note=no plural
 Wisent noun g=m gen=Wisents pl=Wisente
+Wismut noun g=n gen=Wismuts pl=- note=chemical element
 Wissen noun g=n gen=Wissens pl=- note=knowledge; mass noun
 Wissenschaft noun g=f gen=Wissenschaft pl=Wissenschaften
 Wissenschaftler noun g=m gen=Wissenschaftlers pl=Wissenschaftler

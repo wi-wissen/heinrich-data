@@ -91,6 +91,7 @@ Kardinal noun g=m gen=Kardinals pl=Kardinäle
 Karenz noun g=f gen=Karenz pl=Karenzen
 Karfreitag noun g=m gen=Karfreitags|Karfreitages pl=Karfreitage
 Karies noun g=f gen=Karies pl=- note=mass noun
+Karikatur noun g=f gen=Karikatur pl=Karikaturen
 Karikaturist noun g=m gen=Karikaturisten pl=Karikaturisten
 Karlsruher noun g=m gen=Karlsruhers pl=Karlsruher note=inhabitant of Karlsruhe; also the indeclinable adjective
 Karma noun g=n gen=Karmas pl=- note=mass noun, no plural
@@ -118,6 +119,7 @@ Kaserne noun g=f gen=Kaserne pl=Kasernen
 Kasse noun g=f gen=Kasse pl=Kassen
 Kassenwart noun g=m gen=Kassenwarts|Kassenwartes pl=Kassenwarte
 Kassenwartin noun g=f gen=Kassenwartin pl=Kassenwartinnen
+Kasserolle noun g=f gen=Kasserolle pl=Kasserollen
 Kassette noun g=f gen=Kassette pl=Kassetten
 Kassierer noun g=m gen=Kassierers pl=Kassierer
 Kassiererin noun g=f gen=Kassiererin pl=Kassiererinnen
@@ -266,6 +268,7 @@ Kleinstadt noun g=f gen=Kleinstadt pl=Kleinstädte
 Klempner noun g=m gen=Klempners pl=Klempner
 Klempnerin noun g=f gen=Klempnerin pl=Klempnerinnen
 Kleriker noun g=m gen=Klerikers pl=Kleriker
+Klerus noun g=m gen=Klerus pl=- note=collective noun; bare genitive
 Klettergerüst noun g=n gen=Klettergerüsts|Klettergerüstes pl=Klettergerüste
 Klettverschluss noun g=m gen=Klettverschlusses pl=Klettverschlüsse
 Klick noun g=m gen=Klicks pl=Klicks
@@ -329,6 +332,7 @@ Köhler noun g=m gen=Köhlers pl=Köhler
 Kohlrabi noun g=m gen=Kohlrabis pl=Kohlrabis
 Koje noun g=f gen=Koje pl=Kojen
 Kokain noun g=n gen=Kokains pl=- note=mass noun
+Kokerei noun g=f gen=Kokerei pl=Kokereien
 Kokosnuss noun g=f gen=Kokosnuss pl=Kokosnüsse
 Kolben noun g=m gen=Kolbens pl=Kolben
 Kolibri noun g=m gen=Kolibris pl=Kolibris
@@ -340,6 +344,7 @@ Kollision noun g=f gen=Kollision pl=Kollisionen
 Kölner noun g=m gen=Kölners pl=Kölner note=inhabitant of Cologne
 Kolonialismus noun g=m gen=Kolonialismus pl=- note=no plural
 Kolonie noun g=f gen=Kolonie pl=Kolonien
+Kolonist noun g=m gen=Kolonisten pl=Kolonisten
 Kolonne noun g=f gen=Kolonne pl=Kolonnen
 Kolosseum noun g=n gen=Kolosseums pl=- note=no plural
 Kolumne noun g=f gen=Kolumne pl=Kolumnen
@@ -347,6 +352,7 @@ Kombination noun g=f gen=Kombination pl=Kombinationen
 Kombinierer noun g=m gen=Kombinierers pl=Kombinierer note=Nordic combined athlete
 Komet noun g=m gen=Kometen pl=Kometen
 Komfort noun g=m gen=Komforts pl=- note=mass noun
+Komik noun g=f gen=Komik pl=- note=mass noun
 Komiker noun g=m gen=Komikers pl=Komiker
 Komikerin noun g=f gen=Komikerin pl=Komikerinnen
 Komitat noun g=n gen=Komitats|Komitates pl=Komitate
@@ -384,6 +390,7 @@ Kompetenz noun g=f gen=Kompetenz pl=Kompetenzen
 Kompilation noun g=f gen=Kompilation pl=Kompilationen
 Komplex noun g=m gen=Komplexes pl=Komplexe
 Komplexität noun g=f gen=Komplexität pl=- note=no plural in practice
+Komplikation noun g=f gen=Komplikation pl=Komplikationen
 Kompliment noun g=n gen=Kompliments|Komplimentes pl=Komplimente
 Komponente noun g=f gen=Komponente pl=Komponenten
 Komponist noun g=m gen=Komponisten pl=Komponisten
@@ -408,6 +415,7 @@ Konflikt noun g=m gen=Konflikts|Konfliktes pl=Konflikte
 Konföderation noun g=f gen=Konföderation pl=Konföderationen
 Konföderierte noun g=m|f decl=adj note=mostly plural: die Konföderierten (US Civil War)
 Konformität noun g=f gen=Konformität pl=- note=mass noun
+Konfrontation noun g=f gen=Konfrontation pl=Konfrontationen
 Kongregation noun g=f gen=Kongregation pl=Kongregationen
 Kongress noun g=m gen=Kongresses pl=Kongresse
 König noun g=m gen=Königs|Königes[archaic] pl=Könige
@@ -435,10 +443,14 @@ Konsolidierung noun g=f gen=Konsolidierung pl=Konsolidierungen
 Konsonant noun g=m gen=Konsonanten pl=Konsonanten
 Konsortium noun g=n gen=Konsortiums pl=Konsortien
 Konstellation noun g=f gen=Konstellation pl=Konstellationen
+Konstitution noun g=f gen=Konstitution pl=Konstitutionen
 Konstrukt noun g=n gen=Konstrukts|Konstruktes pl=Konstrukte
+Konstrukteur noun g=m gen=Konstrukteurs pl=Konstrukteure
 Konstruktion noun g=f gen=Konstruktion pl=Konstruktionen
 Konsul noun g=m gen=Konsuls pl=Konsuln|Konsuls[rare]
 Konsulat noun g=n gen=Konsulats|Konsulates pl=Konsulate
+Konsulin noun g=f gen=Konsulin pl=Konsulinnen
+Konsultation noun g=f gen=Konsultation pl=Konsultationen
 Konsum noun g=m gen=Konsums pl=- note=mass noun
 Konsument noun g=m gen=Konsumenten pl=Konsumenten
 Konsumentin noun g=f gen=Konsumentin pl=Konsumentinnen
@@ -488,6 +500,7 @@ Kopierer noun g=m gen=Kopierers pl=Kopierer
 Koppel noun g=f gen=Koppel pl=Koppeln
 Kopplung noun g=f gen=Kopplung pl=Kopplungen
 Koproduktion noun g=f gen=Koproduktion pl=Koproduktionen
+Koralle noun g=f gen=Koralle pl=Korallen
 Korallenriff noun g=n gen=Korallenriffs pl=Korallenriffe
 Koran noun g=m gen=Korans pl=- note=no plural
 Korb noun g=m gen=Korbes|Korbs pl=Körbe
@@ -558,6 +571,7 @@ Kreisel noun g=m gen=Kreisels pl=Kreisel
 Kreislauf noun g=m gen=Kreislaufs|Kreislaufes pl=Kreisläufe
 Kreuz noun g=n gen=Kreuzes pl=Kreuze
 Kreuzer noun g=m gen=Kreuzers pl=Kreuzer
+Kreuzigung noun g=f gen=Kreuzigung pl=Kreuzigungen
 Kreuzotter noun g=f gen=Kreuzotter pl=Kreuzottern
 Kreuzreim noun g=m gen=Kreuzreims|Kreuzreimes pl=Kreuzreime
 Kreuzung noun g=f gen=Kreuzung pl=Kreuzungen
@@ -587,6 +601,8 @@ Krümel noun g=m gen=Krümels pl=Krümel
 Krümmung noun g=f gen=Krümmung pl=Krümmungen
 Krüppel noun g=m gen=Krüppels pl=Krüppel style=offensive alt=Mensch_mit_Behinderung note=ableist; older literature
 Kruste noun g=f gen=Kruste pl=Krusten
+Kruzifix noun g=n gen=Kruzifixes pl=Kruzifixe
+Krypta noun g=f gen=Krypta pl=Krypten
 Kubikmeter noun g=m|n gen=Kubikmeters pl=Kubikmeter
 Küche noun g=f gen=Küche pl=Küchen
 Kuchen noun g=m gen=Kuchens pl=Kuchen
@@ -636,6 +652,7 @@ Kürbis noun g=m gen=Kürbisses pl=Kürbisse
 Kurde noun g=m gen=Kurden pl=Kurden
 Kurfürst noun g=m gen=Kurfürsten pl=Kurfürsten
 Kurfürstentum noun g=n gen=Kurfürstentums pl=Kurfürstentümer
+Kurie noun g=f gen=Kurie pl=Kurien
 Kurier noun g=m gen=Kuriers pl=Kuriere
 Kurs noun g=m gen=Kurses pl=Kurse
 Kursivdruck noun g=m gen=Kursivdrucks|Kursivdruckes pl=- note=plural not used

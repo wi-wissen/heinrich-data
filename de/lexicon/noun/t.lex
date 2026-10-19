@@ -46,6 +46,7 @@ Tastatur noun g=f gen=Tastatur pl=Tastaturen
 Tastenkombination noun g=f gen=Tastenkombination pl=Tastenkombinationen
 Tastenkürzel noun g=n gen=Tastenkürzels pl=Tastenkürzel
 Tat noun g=f gen=Tat pl=Taten
+Tatar noun g=m gen=Tataren pl=Tataren
 Täter noun g=m gen=Täters pl=Täter
 Täterin noun g=f gen=Täterin pl=Täterinnen
 Tätigkeit noun g=f gen=Tätigkeit pl=Tätigkeiten
@@ -72,6 +73,7 @@ Teamwork noun g=f|n gen=Teamwork pl=- conf=80 note=die/das Teamwork; mass noun
 Technik noun g=f gen=Technik pl=Techniken
 Techniker noun g=m gen=Technikers pl=Techniker
 Technikerin noun g=f gen=Technikerin pl=Technikerinnen
+Techno noun g=m gen=Technos pl=- note=music genre
 Technologie noun g=f gen=Technologie pl=Technologien
 Teddy noun g=m gen=Teddys pl=Teddys
 Tee noun g=m gen=Tees pl=Tees
@@ -85,6 +87,7 @@ Teil         noun g=n gen=Teils|Teiles pl=Teile sense=piece note=das Teil: a sep
 Teilchen noun g=n gen=Teilchens pl=Teilchen
 Teiler noun g=m gen=Teilers pl=Teiler
 Teilhabe noun g=f gen=Teilhabe pl=- note=mass noun
+Teilhaber noun g=m gen=Teilhabers pl=Teilhaber
 Teilnahme noun g=f gen=Teilnahme pl=Teilnahmen[rare]
 Teilnehmer noun g=m gen=Teilnehmers pl=Teilnehmer
 Teilnehmerin noun g=f gen=Teilnehmerin pl=Teilnehmerinnen
@@ -190,6 +193,7 @@ Tod noun g=m gen=Todes|Tods pl=Tode conf=85 note=plural Tode is rare
 Todesstrafe noun g=f gen=Todesstrafe pl=Todesstrafen
 Tofu noun g=m gen=Tofus pl=- note=no plural
 Toilette noun g=f gen=Toilette pl=Toiletten
+Toise noun g=f gen=Toise pl=Toisen conf=85 note=old French unit of length
 Token noun g=n gen=Tokens pl=Token|Tokens
 Toleranz noun g=f gen=Toleranz pl=Toleranzen
 Tomate noun g=f gen=Tomate pl=Tomaten
@@ -213,6 +217,7 @@ Torheit noun g=f gen=Torheit pl=Torheiten
 Torhüter noun g=m gen=Torhüters pl=Torhüter
 Torhüterin noun g=f gen=Torhüterin pl=Torhüterinnen
 Tornado noun g=m gen=Tornados pl=Tornados
+Torpedo noun g=m gen=Torpedos pl=Torpedos
 Torte noun g=f gen=Torte pl=Torten
 Tortellini noun g=pl
 Torwart noun g=m gen=Torwarts|Torwartes pl=Torwarte
@@ -253,7 +258,9 @@ Transaktion noun g=f gen=Transaktion pl=Transaktionen
 Transe noun g=f gen=Transe pl=Transen style=offensive note=transphobic slur
 Transfer noun g=m gen=Transfers pl=Transfers
 Transformation noun g=f gen=Transformation pl=Transformationen
+Transit noun g=m gen=Transits pl=Transite conf=85 note=plural rare
 Transkription noun g=f gen=Transkription pl=Transkriptionen
+Transliteration noun g=f gen=Transliteration pl=Transliterationen
 Transparent noun g=n gen=Transparents|Transparentes pl=Transparente
 Transparenz noun g=f gen=Transparenz pl=- note=mass noun
 Transplantation noun g=f gen=Transplantation pl=Transplantationen
@@ -295,8 +302,10 @@ Triathlon noun g=m|n gen=Triathlons pl=Triathlons
 Tribunal noun g=n gen=Tribunals pl=Tribunale
 Tribüne noun g=f gen=Tribüne pl=Tribünen
 Tribut noun g=m gen=Tributs|Tributes pl=Tribute
+Trick noun g=m gen=Tricks pl=Tricks
 Trieb noun g=m gen=Triebs|Triebes pl=Triebe
 Trikot noun g=n gen=Trikots pl=Trikots
+Trilogie noun g=f gen=Trilogie pl=Trilogien
 Trinkwasser noun g=n gen=Trinkwassers pl=- note=no plural
 Trio noun g=n gen=Trios pl=Trios
 Tritt noun g=m gen=Tritts|Trittes pl=Tritte
@@ -327,6 +336,7 @@ Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
 Trust noun g=m gen=Trusts pl=Trusts
 Truthahn noun g=m gen=Truthahns pl=Truthähne
+Tscheche noun g=m gen=Tschechen pl=Tschechen
 Tschusch noun g=m gen=Tschuschen pl=Tschuschen region=AT style=offensive note=Austrian slur for people from the Balkans and Eastern Europe
 Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
@@ -336,6 +346,7 @@ Tugend noun g=f gen=Tugend pl=Tugenden
 Tukan noun g=m gen=Tukans pl=Tukane
 Tulpe noun g=f gen=Tulpe pl=Tulpen
 Tulpenzwiebel noun g=f gen=Tulpenzwiebel pl=Tulpenzwiebeln
+Tumor noun g=m gen=Tumors pl=Tumoren
 Tümpel noun g=m gen=Tümpels pl=Tümpel
 Tumult noun g=m gen=Tumults|Tumultes pl=Tumulte
 Tundra noun g=f gen=Tundra pl=Tundren
@@ -361,6 +372,7 @@ Tussi noun g=f gen=Tussi pl=Tussis style=colloquial
 Tüte noun g=f gen=Tüte pl=Tüten
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
 Typ noun g=m gen=Typs pl=Typen
+Type noun g=f gen=Type pl=Typen conf=85 note=printing type; colloquial: eine komische Type
 Typhus noun g=m gen=Typhus pl=- note=disease
 Typus noun g=m gen=Typus pl=Typen note=bare genitive of an -us noun
 Tyrann noun g=m gen=Tyrannen pl=Tyrannen

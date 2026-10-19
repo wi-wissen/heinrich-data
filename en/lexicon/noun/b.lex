@@ -20,6 +20,7 @@ backlog noun
 backpack noun
 backslash noun
 backstop noun
+backstory noun
 backstroke noun pl=- note=the swimming stroke
 backup noun
 backyard noun
@@ -80,6 +81,7 @@ bar noun
 barb noun
 barbarian noun
 barbarism noun
+barbarity noun
 barbecue noun
 barber noun
 barcode noun
@@ -101,8 +103,10 @@ barrage noun
 barrel noun
 barricade noun
 barrier noun
+barrio noun
 barrister noun
 barrow noun
+bartender noun
 barter noun pl=- note=uncountable
 basalt noun
 base noun
@@ -110,6 +114,7 @@ baseball noun
 baseline noun
 baseman noun pl=basemen
 basement noun
+baseness noun pl=- note=uncountable
 basic noun note=the basics
 basil noun pl=- note=uncountable
 basilica noun
@@ -159,10 +164,13 @@ bearer noun
 bearing noun
 beast noun
 beat noun
+beating noun
 beau noun pl=beaux|beaus
 beauty noun
 beaver noun
+bebop noun pl=- note=uncountable
 bed noun
+bedchamber noun
 bedding noun pl=- note=uncountable
 bedrock noun pl=- note=uncountable
 bedroom noun
@@ -173,6 +181,7 @@ bee noun
 beech noun
 beef noun pl=beefs note=kinds of beef; complaints
 beer noun
+beet noun
 beetle noun
 beetroot noun pl=beetroot|beetroots
 beggar noun
@@ -181,6 +190,7 @@ beginning noun
 behalf noun pl=- note=on behalf of
 behavior noun gb=behaviour
 behest noun pl=- note=at the behest of
+beholder noun
 being noun
 Belarusian noun
 belfry noun
@@ -209,22 +219,28 @@ benefit noun
 benevolence noun pl=- note=uncountable
 Bengali noun
 benzene noun pl=- note=uncountable
+benzodiazepine noun
 bequest noun
 Berber noun
 bereavement noun
 berry noun
 berth noun
+besieger noun
 bestie noun style=colloquial
 bestseller noun
 bet noun
 beta noun
 betrayal noun
+betrothal noun
+betterment noun pl=- note=uncountable
 beverage noun
 bewilderment noun pl=- note=uncountable
 bey noun conf=90 note=Ottoman title, usually capitalized after a name
 bias noun
 bib noun
 bible noun
+bibliography noun
+bicentennial noun
 bicycle noun
 bid noun
 bidder noun
@@ -250,6 +266,7 @@ biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
 biofuel noun
+biogas noun pl=- note=uncountable
 biographer noun
 biography noun
 biological noun conf=90 note=a drug made from living organisms
@@ -257,10 +274,12 @@ biologist noun
 biology noun pl=- note=uncountable
 biomarker noun
 biomass noun pl=- note=uncountable
+biometrics noun pl=- note=uncountable, the field; biometric is the adjective
 biopic noun
 biopsy noun
 biosecurity noun pl=- note=uncountable
 biosimilar noun
+biosphere noun
 biotechnology noun
 biplane noun
 birch noun
@@ -280,6 +299,7 @@ bitcoin noun
 bite noun
 bitrate noun conf=80
 bitterness noun pl=- note=uncountable
+bivouac noun
 black noun
 blackberry noun
 blackbird noun
@@ -302,6 +322,7 @@ blast noun
 blaze noun
 blazer noun
 bleach noun
+bleacher noun note=mostly plural bleachers (stadium seating)
 blend noun
 blender noun
 blessing noun
@@ -315,6 +336,8 @@ blizzard noun
 bloc noun
 block noun
 blockade noun
+blockage noun
+blockbuster noun
 blockchain noun
 blocker noun
 blog noun
@@ -323,6 +346,7 @@ blond noun
 blonde noun
 blood noun
 bloodshed noun pl=- note=uncountable
+bloodstream noun
 bloom noun
 blossom noun
 blot noun
@@ -347,10 +371,12 @@ boardroom noun
 boardwalk noun
 boast noun
 boat noun
+boater noun
 boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
 bob noun
+bodice noun
 body noun
 bodybuilder noun
 bodybuilding noun pl=- note=uncountable
@@ -379,6 +405,7 @@ bonnet noun
 bonus noun
 book noun
 bookcase noun
+booking noun
 bookkeeper noun
 bookkeeping noun pl=- note=uncountable
 booklet noun
@@ -402,6 +429,7 @@ boredom noun pl=- note=uncountable
 boron noun pl=- note=chemical element, uncountable
 borough noun
 borrower noun
+borrowing noun
 Bosnian noun
 bosom noun
 boss noun
@@ -430,6 +458,7 @@ bowel noun
 bower noun
 bowl noun
 bowler noun
+bowman noun pl=bowmen
 box noun
 boxer noun
 boy noun
@@ -451,6 +480,7 @@ brand noun
 branding noun pl=- note=uncountable
 brandy noun
 brass noun
+bravado noun pl=- note=uncountable
 bravery noun pl=- note=uncountable
 brawl noun
 Brazilian noun
@@ -468,6 +498,7 @@ breakout noun
 breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
+breakwater noun
 breast noun
 breaststroke noun
 breath noun
@@ -476,6 +507,7 @@ breed noun
 breeder noun
 breeze noun
 Breton noun
+breviary noun
 brevity noun pl=- note=uncountable
 brew noun
 brewer noun
@@ -511,6 +543,7 @@ broccoli noun pl=- note=uncountable
 brochure noun
 broker noun
 brokerage noun
+bromide noun
 bronze noun
 brooch noun
 brood noun
@@ -559,9 +592,11 @@ bulb noun
 Bulgarian noun
 bulge noun
 bulk noun pl=- note=uncountable
+bulkhead noun
 bull noun
 bullet noun
 bulletin noun
+bullhead noun
 bullion noun pl=- note=uncountable
 bullock noun
 bully noun
@@ -598,15 +633,18 @@ burp noun
 burrito noun pl=burritos
 burrow noun
 burst noun
+burthen noun style=archaic note=archaic spelling of burden
 bus noun
 bush noun
 bushel noun
+bushido noun pl=- note=uncountable
 business noun
 businessman noun pl=businessmen
 businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen
 bust noun
 bustle noun
+butane noun pl=- note=uncountable
 butcher noun
 butler noun
 butt noun
@@ -620,6 +658,7 @@ buyback noun
 buyer noun
 buyout noun
 buzz noun
+buzzard noun
 bycatch noun pl=- note=uncountable
 bye noun note=in sport: a free pass to the next round
 byelaw noun region=GB conf=85 note=also bylaw

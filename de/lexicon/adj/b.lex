@@ -1,5 +1,6 @@
 badisch adj
 baldig adj
+baltisch adj
 bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
 bankrott adj
@@ -34,6 +35,7 @@ begeistert adj cmp=begeisterter sup=begeistertsten
 begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
 behaart adj
+behaftet adj note=mit etwas behaftet
 behaglich adj cmp=behaglicher sup=behaglichsten
 beharrlich adj
 behilflich adj
@@ -77,6 +79,7 @@ besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
 bestmöglich adj
+bestrebt adj note=bestrebt sein, etwas zu tun
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
 betrieblich adj
@@ -93,7 +96,9 @@ biblisch adj
 bilateral adj
 bildlich adj cmp=bildlicher sup=bildlichsten
 billig adj cmp=billiger sup=billigsten
+biogen adj
 biologisch adj
+bischöflich adj
 bisherig adj
 bissfest adj
 bissig adj cmp=bissiger sup=bissigsten
@@ -103,6 +108,7 @@ blank adj cmp=blanker sup=blankesten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten
 blauäugig adj
+bläulich adj
 bleich adj cmp=bleicher sup=bleichsten
 blind adj cmp=blinder sup=blindesten
 blöd adj cmp=blöder sup=blödesten
@@ -118,6 +124,7 @@ böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 bosnisch adj
 botanisch adj
+brandenburgisch adj
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
 bräunlich adj

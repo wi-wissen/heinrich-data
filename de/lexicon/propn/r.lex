@@ -6,6 +6,7 @@ Reichenhall propn g=n gen=Reichenhalls pl=- demonym=Reichenhaller note=Bad Reich
 Rhein propn g=m gen=Rheins|Rheines pl=- note=proper name, no plural
 Rheinland propn g=n gen=Rheinlands pl=- note=proper name, no plural
 Rheinland-Pfalz propn g=n gen=Rheinland-Pfalz pl=- note=federal state
+Rheinprovinz propn g=f gen=Rheinprovinz pl=- note=historical Prussian province
 Riga propn g=n gen=Rigas pl=- note=city
 Rochlitz propn g=n gen=Rochlitz pl=- demonym=Rochlitzer note=town in Saxony; genitive without ending after s-sound
 Rom propn g=n gen=Roms pl=- sense=city note=proper name, no plural

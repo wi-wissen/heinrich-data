@@ -1,8 +1,10 @@
 pagan adj
 painful adj cmp=more adv=painfully
 painstaking adj adv=painstakingly
+pairwise adj
 Pakistani adj note=demonym or religious name, capitalized
 palatable adj
+palatial adj
 pale adj cmp=er
 Palestinian adj note=demonym or religious name, capitalized
 palliative adj
@@ -11,13 +13,17 @@ palpable adj adv=palpably
 paltry adj cmp=er|more
 pancreatic adj
 pandemic adj
+panoramic adj
 papal adj
 paperless adj
+parabolic adj
+paradoxical adj adv=paradoxically
 parallel adj
 Paralympic adj
 parametric adj
 paramilitary adj
 paramount adj
+paranoid adj cmp=more
 parasitic adj
 parched adj
 parental adj
@@ -50,6 +56,8 @@ peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
 pediatric adj gb=paediatric
+peevish adj cmp=more adv=peevishly
+pejorative adj adv=pejoratively
 pelagic adj
 pelvic adj
 penal adj
@@ -68,7 +76,9 @@ perfect adj cmp=more adv=perfectly
 perilous adj cmp=more adv=perilously
 periodic adj adv=periodically
 periodical adj
+periodontal adj
 peripheral adj
+perishable adj
 permanent adj adv=permanently
 permissible adj
 pernicious adj adv=perniciously
@@ -83,10 +93,12 @@ pertinent adj
 Peruvian adj note=demonym or religious name, capitalized
 pervasive adj cmp=more adv=pervasively
 perverse adj adv=perversely
+pessimistic adj adv=pessimistically
 petite adj note=of a woman: small and slim
 petty adj cmp=er
 phantom adj attr_only
 pharmaceutical adj
+pharmacological adj
 phenomenal adj cmp=more adv=phenomenally
 philanthropic adj
 philharmonic adj
@@ -104,10 +116,12 @@ phytosanitary adj
 pictorial adj
 picturesque adj cmp=more
 piecemeal adj
+pied adj
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously
 piteous adj cmp=more adv=piteously
+pitiable adj adv=pitiably
 pitiful adj cmp=more adv=pitifully
 pitiless adj adv=pitilessly
 pituitary adj
@@ -128,9 +142,12 @@ plebeian adj
 Pleistocene adj
 plenary adj
 plentiful adj adv=plentifully
+plucky adj cmp=er
 plumb adj
+plumed adj
 plump adj cmp=er
 plural adj
+plush adj cmp=er
 pneumatic adj
 poetic adj cmp=more adv=poetically
 poetical adj
@@ -157,6 +174,7 @@ pornographic adj
 porous adj cmp=more
 portable adj
 portentous adj adv=portentously
+portly adj cmp=er
 Portuguese adj note=demonym or religious name, capitalized
 positional adj
 positive adj cmp=more adv=positively
@@ -165,8 +183,10 @@ postal adj
 posterior adj
 postgraduate adj
 posthumous adj
+postoperative adj
 postsecondary adj
 postwar adj
+potable adj
 potent adj cmp=more
 potential adj adv=potentially
 powdered adj
@@ -180,11 +200,15 @@ precautionary adj
 precious adj cmp=more
 precipitous adj adv=precipitously
 precise adj cmp=more adv=precisely
+precocious adj adv=precociously
 predatory adj
 predictable adj cmp=more adv=predictably
 predictive adj
 predominant adj adv=predominantly
+preeminent adj adv=preeminently
+preemptive adj adv=preemptively
 preexisting adj note=also spelled pre-existing
+prefectural adj
 preferable adj adv=preferably
 preferential adj
 pregnant adj
@@ -204,6 +228,7 @@ present adj adv=presently
 presidential adj adv=presidentially
 prestigious adj cmp=more
 presumptive adj
+presumptuous adj cmp=more adv=presumptuously
 pretentious adj cmp=more adv=pretentiously
 pretty adj cmp=er adv=prettily
 prevalent adj
@@ -235,6 +260,7 @@ probable adj adv=probably
 probationary adj
 problematic adj cmp=more
 procedural adj adv=procedurally
+prodigal adj
 prodigious adj adv=prodigiously
 productive adj cmp=more adv=productively
 profane adj cmp=more
@@ -243,19 +269,23 @@ proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
 profound adj cmp=er|more adv=profoundly
 profuse adj adv=profusely
+programmable adj
 programmatic adj
 progressive adj adv=progressively
 prohibitive adj adv=prohibitively
 projective adj
 prolific adj cmp=more
 prominent adj cmp=more adv=prominently
+promiscuous adj cmp=more adv=promiscuously
 promising adj cmp=more adv=promisingly
+promissory adj
 promotional adj
 prompt adj cmp=er adv=promptly
 prone adj
 proof adj
 proper adj cmp=more adv=properly
 prophetic adj
+propitious adj
 proportional adj adv=proportionally
 proportionate adj adv=proportionately
 proportioned adj
@@ -264,7 +294,9 @@ prosaic adj cmp=more
 prospective adj
 prosperous adj cmp=more
 prostate adj conf=80 note=attributive use (prostate cancer) is often analysed as a noun
+prosthetic adj
 prostrate adj
+protectionist adj
 protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
 protracted adj
@@ -274,21 +306,30 @@ provident adj cmp=more adv=providently
 provincial adj
 provisional adj adv=provisionally
 provocative adj adv=provocatively
+proximal adj
+proximate adj adv=proximately
 prudent adj cmp=more adv=prudently
+prudential adj
 Prussian adj note=demonym or religious name, capitalized
 psychedelic adj
 psychiatric adj
 psychic adj
 psychoactive adj
 psychological adj adv=psychologically
+psychosocial adj
+psychotic adj
 public adj cmp=more adv=publicly
 pulmonary adj
 punctual adj cmp=more adv=punctually
 pungent adj cmp=more
 punishable adj
 punitive adj
+puny adj cmp=er
 pure adj cmp=er adv=purely
 puritan adj
 purple adj
 purported adj adv=purportedly
+purposeful adj adv=purposefully
 pursuant adj note=only in pursuant to
+putative adj adv=putatively
+pyramidal adj

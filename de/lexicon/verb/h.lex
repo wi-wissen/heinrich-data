@@ -3,6 +3,7 @@ hacken verb class=weak pp=gehackt perf=haben
 haften verb class=weak pp=gehaftet perf=haben
 hageln verb class=weak pp=gehagelt perf=haben
 häkeln verb class=weak pp=gehäkelt perf=haben
+halbieren verb class=weak pp=halbiert perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 hämmern verb class=weak pp=gehämmert perf=haben
 handeln verb class=weak pp=gehandelt perf=haben refl=acc

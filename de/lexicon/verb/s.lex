@@ -164,6 +164,7 @@ signalisieren verb class=weak pp=signalisiert perf=haben
 signieren verb class=weak pp=signiert perf=haben
 simpeln verb class=weak pp=gesimpelt perf=haben conf=80 note=rare, mostly fachsimpeln
 simsen verb class=weak pp=gesimst perf=haben style=colloquial
+simulieren verb class=weak pp=simuliert perf=haben
 singen verb class=strong 3sg=singt past=sang pp=gesungen subj2=sänge perf=haben
 sinken verb class=strong 3sg=sinkt past=sank pp=gesunken subj2=sänke perf=sein
 sinnen verb class=strong 3sg=sinnt past=sann pp=gesonnen subj2=sänne|sönne[rare] perf=haben
@@ -188,6 +189,7 @@ spazieren verb class=weak pp=spaziert perf=sein
 speichern verb class=weak pp=gespeichert perf=haben
 speien verb class=strong 3sg=speit past=spie pp=gespien|gespieen[rare] subj2=spiee perf=haben
 speisen verb class=weak pp=gespeist perf=haben
+spekulieren verb class=weak pp=spekuliert perf=haben
 spenden verb class=weak pp=gespendet perf=haben
 sperren verb class=weak pp=gesperrt perf=haben refl=acc
 spezialisieren verb class=weak pp=spezialisiert perf=haben refl=acc
@@ -236,6 +238,7 @@ stempeln verb class=weak pp=gestempelt perf=haben
 sterben verb class=strong 3sg=stirbt past=starb pp=gestorben subj2=stürbe perf=sein
 steuern verb class=weak pp=gesteuert perf=haben
 stiften verb class=weak pp=gestiftet perf=haben
+stilisieren verb class=weak pp=stilisiert perf=haben
 stillen verb class=weak pp=gestillt perf=haben
 stilllegen verb class=weak sep=still pp=stillgelegt perf=haben
 stimmen verb class=weak pp=gestimmt perf=haben
@@ -283,5 +286,6 @@ sündigen verb class=weak pp=gesündigt perf=haben
 surfen verb class=weak pp=gesurft perf=haben|sein
 surren verb class=weak pp=gesurrt perf=haben
 süßen verb class=weak pp=gesüßt perf=haben
+suspendieren verb class=weak pp=suspendiert perf=haben
 symbolisieren verb class=weak pp=symbolisiert perf=haben
 synchronisieren verb class=weak pp=synchronisiert perf=haben

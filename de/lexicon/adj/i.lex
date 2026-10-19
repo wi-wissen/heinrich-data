@@ -19,6 +19,7 @@ indonesisch adj
 industriell adj
 informativ adj
 inhaltlich adj
+inklusiv adj
 inländisch adj
 inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl; positional, no comparative
 innerlich adj
@@ -26,6 +27,7 @@ innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
 institutionell adj
+intakt adj
 integrativ adj
 intellektuell adj cmp=intellektueller sup=intellektuellsten
 intelligent adj cmp=intelligenter sup=intelligentesten

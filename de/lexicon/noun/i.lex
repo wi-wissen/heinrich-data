@@ -2,6 +2,7 @@ IBAN noun g=f gen=IBAN pl=IBANs note=International Bank Account Number
 ICE noun g=m gen=ICEs pl=ICEs
 Icon noun g=n gen=Icons pl=Icons
 Ideal noun g=n gen=Ideals pl=Ideale
+Idealismus noun g=m gen=Idealismus pl=- note=abstract noun; -ismus genitive
 Idee noun g=f gen=Idee pl=Ideen
 Identifikation noun g=f gen=Identifikation pl=Identifikationen
 Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
@@ -46,6 +47,7 @@ Indianerin noun g=f gen=Indianerin pl=Indianerinnen
 Indikation noun g=f gen=Indikation pl=Indikationen
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
+Individualität noun g=f gen=Individualität pl=Individualitäten
 Individuum noun g=n gen=Individuums pl=Individuen
 Indiz noun g=n gen=Indizes pl=Indizien
 Industrialisierung noun g=f gen=Industrialisierung pl=- note=no plural in practice
@@ -108,6 +110,7 @@ Instanz noun g=f gen=Instanz pl=Instanzen
 Instinkt noun g=m gen=Instinkts|Instinktes pl=Instinkte
 Institut noun g=n gen=Instituts|Institutes pl=Institute
 Institution noun g=f gen=Institution pl=Institutionen
+Instruktion noun g=f gen=Instruktion pl=Instruktionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
 Instrumentarium noun g=n gen=Instrumentariums pl=Instrumentarien
 Insulaner noun g=m gen=Insulaners pl=Insulaner
@@ -138,6 +141,7 @@ Intervall noun g=n gen=Intervalls pl=Intervalle
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
 Intranet noun g=n gen=Intranets pl=Intranets
+Intrige noun g=f gen=Intrige pl=Intrigen
 Intro noun g=n gen=Intros pl=Intros
 Invasion noun g=f gen=Invasion pl=Invasionen
 Inventar noun g=n gen=Inventars pl=Inventare
@@ -145,8 +149,10 @@ Inventur noun g=f gen=Inventur pl=Inventuren
 Inversion noun g=f gen=Inversion pl=Inversionen
 Inverzugsetzung noun g=f gen=Inverzugsetzung pl=Inverzugsetzungen
 Investition noun g=f gen=Investition pl=Investitionen
+Investment noun g=n gen=Investments pl=Investments
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
+Inzidenz noun g=f gen=Inzidenz pl=Inzidenzen
 Ion noun g=n gen=Ions pl=Ionen
 Ire noun g=m gen=Iren pl=Iren
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure

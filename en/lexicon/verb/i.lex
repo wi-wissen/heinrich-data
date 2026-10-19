@@ -9,6 +9,7 @@ illumine verb style=archaic
 illustrate     verb
 imagine        verb
 imbed verb double conf=90 note=variant spelling of embed
+imbibe verb
 imbue verb
 imitate verb
 immerse verb
@@ -27,6 +28,7 @@ imply          verb
 import         verb
 impose         verb
 impoverish verb
+impregnate verb
 impress        verb
 imprint verb
 imprison       verb
@@ -49,6 +51,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indent verb
 indenture verb
 index          verb
 indicate       verb
@@ -64,6 +67,7 @@ infest verb
 infiltrate verb
 inflame verb
 inflate verb
+inflect verb
 inflict        verb
 influence      verb
 inform         verb
@@ -112,9 +116,11 @@ interdict verb
 interest       verb
 interfere      verb
 interlock verb
+intermingle verb
 intern verb
 interpose      verb
 interpret      verb
+interrelate verb
 interrogate verb
 interrupt      verb
 intersect verb
@@ -126,6 +132,7 @@ interweave verb prefix=inter past=interwove pp=interwoven
 intimate       verb
 intimidate verb
 intoxicate verb
+intrench verb style=archaic conf=90 note=archaic spelling of entrench
 intrigue verb
 introduce      verb
 intrude verb
@@ -142,10 +149,12 @@ invoice        verb
 invoke         verb
 involve        verb
 iron           verb
+irradiate verb
 irrigate verb
 irritate       verb
 isolate        verb
 issue verb
 italicize verb gb=italicise|italicize
+itch verb
 itemize verb gb=itemise|itemize
 iterate verb

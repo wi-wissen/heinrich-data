@@ -25,6 +25,7 @@ Massachusetts propn
 May           propn
 Mayo propn note=county in Ireland; Mayo Clinic
 Mecca propn note=city in Saudi Arabia
+Med propn conf=80 note=the Mediterranean (colloquial)
 Medicaid      propn note=US health care program
 Medicare      propn note=US health insurance program
 Medina propn note=city in Saudi Arabia

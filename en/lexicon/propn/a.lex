@@ -62,6 +62,7 @@ Argentina propn
 Arizona propn
 Arkansas propn
 Arlington propn
+Armada propn note=the Spanish Armada
 Armenia propn
 ASEAN propn abbr note=Association of Southeast Asian Nations
 Asia propn

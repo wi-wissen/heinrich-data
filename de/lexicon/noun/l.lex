@@ -54,6 +54,7 @@ Lärm noun g=m gen=Lärms|Lärmes pl=- note=no plural
 Lärmbelästigung noun g=f gen=Lärmbelästigung pl=Lärmbelästigungen
 Larve noun g=f gen=Larve pl=Larven
 Lasagne noun g=f gen=Lasagne pl=- note=no plural
+Laser noun g=m gen=Lasers pl=Laser
 Last noun g=f gen=Last pl=Lasten
 Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
@@ -106,6 +107,7 @@ Leggings noun g=f gen=Leggings pl=Leggings
 Legierung noun g=f gen=Legierung pl=Legierungen
 Legion noun g=f gen=Legion pl=Legionen
 Legionär noun g=m gen=Legionärs pl=Legionäre
+Legislative noun g=f gen=Legislative pl=Legislativen
 Legislatur noun g=f gen=Legislatur pl=Legislaturen
 Legislaturperiode noun g=f gen=Legislaturperiode pl=Legislaturperioden
 Legitimation noun g=f gen=Legitimation pl=Legitimationen
@@ -153,10 +155,12 @@ Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
 Lerche noun g=f gen=Lerche pl=Lerchen
+Lesbe noun g=f gen=Lesbe pl=Lesben
 Leser noun g=m gen=Lesers pl=Leser
 Leserin noun g=f gen=Leserin pl=Leserinnen
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
+Letter noun g=f gen=Letter pl=Lettern note=printing type
 Leu noun g=m gen=Leuen pl=Leuen sense=lion style=archaic note=poetic: lion
 Leu noun g=m gen=Leu|Leus pl=Lei sense=currency note=Romanian and Moldovan currency
 Leuchtdiode noun g=f gen=Leuchtdiode pl=Leuchtdioden
@@ -194,6 +198,7 @@ Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
 Lift noun g=m gen=Lifts|Liftes pl=Lifte|Lifts
 Liga noun g=f gen=Liga pl=Ligen
+Ligist noun g=m gen=Ligisten pl=Ligisten note=member club of a league (Bundesligist, Drittligist)
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
 Lilie noun g=f gen=Lilie pl=Lilien
