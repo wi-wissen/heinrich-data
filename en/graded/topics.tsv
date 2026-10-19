@@ -1,0 +1,90 @@
+# Topic catalogue of the English graded vocabulary layer (Heinrich/docs/GRADED_VOCAB.md).
+# Closed vocabulary: every `topic=` value in en/graded/**.tsv must be an id of this file.
+# Columns (tab-separated): id  label_de  label_en  tracks
+#   id      lowercase ASCII, digits, `_`; hierarchical with `.` (a child names its parent first)
+#   label_de German label (for German-speaking teachers)
+#   label_en English label
+#   tracks  efl (English as a foreign language in German schools)
+# Written by the orchestrator in its own words from the topic areas of the English curricula
+# (primary English, lower secondary, upper secondary) and the CEFR domains.
+# It contains no word list and no entry of any third-party list.
+
+# --- Language building blocks ----------------------------------------------------------
+function	Funktionswörter	Function words	efl
+function.article	Artikel und Begleiter	Articles and determiners	efl
+function.pronoun	Pronomen	Pronouns	efl
+function.preposition	Präpositionen	Prepositions	efl
+function.conjunction	Konjunktionen	Conjunctions	efl
+function.adverb	Adverbien (Ort, Zeit, Häufigkeit, Grad)	Adverbs (place, time, frequency, degree)	efl
+function.question	Fragewörter	Question words	efl
+function.auxiliary	Hilfs- und Modalverben	Auxiliary and modal verbs	efl
+actions	Grundverben und Tätigkeiten	Basic verbs and activities	efl
+actions.motion	Bewegung	Movement	efl
+actions.perception	Wahrnehmung	Perception	efl
+actions.speaking	Sprechen und Mitteilen	Speaking and telling	efl
+actions.thinking	Denken, Wissen, Wollen	Thinking, knowing, wanting	efl
+actions.handling	Hantieren, Herstellen	Handling and making	efl
+actions.change	Werden, Verändern, Geschehen	Becoming, changing, happening	efl
+qualities	Eigenschaften	Qualities	efl
+qualities.size	Größe, Form, Menge	Size, shape, amount	efl
+qualities.colour	Farben	Colours	efl
+qualities.senses	Sinneseindrücke	Sense impressions	efl
+qualities.judgement	Bewertung	Judgement	efl
+qualities.character	Charakter und Verhalten	Character and behaviour	efl
+numbers	Zahlen und Mengen	Numbers and quantities	efl
+time	Zeit	Time	efl
+time.calendar	Tage, Monate, Jahreszeiten	Days, months, seasons	efl
+time.clock	Uhrzeit und Tagesablauf	Clock and daily routine	efl
+time.relations	Zeitverhältnisse	Time relations	efl
+space	Raum, Ort und Richtung	Space, place and direction	efl
+classroom	Sprache im Klassenzimmer	Classroom language	efl
+communication	Gesprächsführung und Höflichkeit	Conversation and politeness	efl
+thinking	Meinung, Argumentation, Diskussion	Opinion, argument, discussion	efl
+academic	Bildungssprache, Textarbeit	Academic language, working with texts	efl
+
+# --- Personal life ---------------------------------------------------------------------
+self	Ich und meine Person	Me and personal details	efl
+body	Körper	Body	efl
+health	Gesundheit und Krankheit	Health and illness	efl
+feelings	Gefühle	Feelings	efl
+family	Familie	Family	efl
+friends	Freundschaft und Beziehungen	Friendship and relationships	efl
+home	Haus, Wohnung, Haushalt	House, flat and household	efl
+food	Essen und Trinken	Food and drink	efl
+clothes	Kleidung	Clothes	efl
+school	Schule	School	efl
+free_time	Freizeit und Hobbys	Free time and hobbies	efl
+toys	Spielsachen und Spiele	Toys and games	efl
+sports	Sport	Sports	efl
+celebrations	Feste und Bräuche	Festivals and customs	efl
+animals	Tiere	Animals	efl
+plants	Pflanzen	Plants	efl
+nature	Natur und Landschaft	Nature and landscape	efl
+weather	Wetter	Weather	efl
+town	Stadt, Dorf, Gebäude	Town, village, buildings	efl
+transport	Verkehr und Verkehrsmittel	Transport	efl
+shopping	Einkaufen und Geld	Shopping and money	efl
+travel	Reisen und Urlaub	Travel and holidays	efl
+jobs	Berufe und Arbeitswelt	Jobs and the world of work	efl
+media	Medien	Media	efl
+technology	Technik und digitale Welt	Technology and the digital world	efl
+music_arts	Musik, Kunst, Film	Music, art and film	efl
+fantasy	Märchen, Geschichten, Fantasie	Fairy tales, stories, fantasy	efl
+
+# --- Society and the wider world (mainly lower and upper secondary) ---------------------
+countries	Länder, Sprachen, Nationalitäten	Countries, languages, nationalities	efl
+anglophone	Englischsprachige Welt	The English-speaking world	efl
+anglophone.uk	Großbritannien und Irland	Britain and Ireland	efl
+anglophone.us	USA	The USA	efl
+anglophone.commonwealth	Commonwealth, Australien, Kanada, Indien, Afrika	Commonwealth, Australia, Canada, India, Africa	efl
+history	Geschichte	History	efl
+society	Gesellschaft und Zusammenleben	Society and living together	efl
+identity	Jugend, Identität, Lebensentwürfe	Youth, identity, life plans	efl
+politics	Politik und Demokratie	Politics and democracy	efl
+law	Recht und Kriminalität	Law and crime	efl
+economy	Wirtschaft und Arbeit	Economy and work	efl
+environment	Umwelt und Klima	Environment and climate	efl
+global	Globale Fragen (Migration, Gerechtigkeit, Konflikte)	Global issues (migration, justice, conflict)	efl
+science	Wissenschaft und Forschung	Science and research	efl
+literature	Literatur und Textanalyse	Literature and text analysis	efl
+language	Sprache und Grammatikbegriffe	Language and grammar terms	efl

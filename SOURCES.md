@@ -84,3 +84,21 @@ dictionary or LanguageTool file was consulted). Format: `Heinrich/docs/LEXICON_F
 closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, prepositions,
 conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
 by hand on 2026-10-18.
+
+## Graded vocabulary (`de/graded/`, `en/graded/`)
+
+Grade bands, CEFR levels and topics per lexeme are our own data, written clean-room by AI authors
+(Claude) from their own knowledge of the language and of the topic areas and competence descriptions of
+the curricula (educational standards of the German states, state curricula, CEFR descriptors,
+integration-course fields of action). The topic catalogues (`topics.tsv`) and the topic descriptions in
+the READMEs were written by the orchestrator in its own words. Authors never saw a published word list
+(state basic-vocabulary lists, exam or course word lists, CEFR word profiles, learner-dictionary core
+lists, frequency lists of others). `src=` records only our own provenance. Reference lists are used
+only by a separate reviewer, outside the repositories, for aggregate statistics; no entry and no value
+of a reference list is in this repository. Every authoring run is logged in `<lang>/graded/PROVENANCE.md`.
+
+Labelling for end users: "This vocabulary layer was written by AI authors (Claude) based on the
+competence levels of the Common European Framework of Reference and the curricula of the German federal
+states, sample-checked by teachers and statistically compared internally with common reference lists.
+It contains no entries from third-party word lists." (The teacher check is named only once it has been
+run.)

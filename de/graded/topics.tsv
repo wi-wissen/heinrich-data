@@ -1,0 +1,226 @@
+# Topic catalogue of the German graded vocabulary layer (Heinrich/docs/GRADED_VOCAB.md).
+# Closed vocabulary: every `topic=` value in de/graded/**.tsv must be an id of this file.
+# Columns (tab-separated): id  label_de  label_en  tracks
+#   id      lowercase ASCII, digits, `_`; hierarchical with `.` (a child names its parent first)
+#   label_de German label (UI language data)
+#   label_en English label
+#   tracks  the learning tracks the topic is meant for: l1 (German as first language),
+#           daz (German as a second language); several with `|`
+# Written by the orchestrator in its own words from the topic areas of the curricula
+# (educational standards, state curricula, CEFR domains, integration-course fields of action).
+# It contains no word list and no entry of any third-party list.
+
+# --- General vocabulary (L1 area `core`, DaZ) ------------------------------------------
+function	Funktionswörter	Function words	l1|daz
+function.article	Artikel	Articles	l1|daz
+function.pronoun	Pronomen	Pronouns	l1|daz
+function.preposition	Präpositionen	Prepositions	l1|daz
+function.conjunction	Konjunktionen	Conjunctions	l1|daz
+function.particle	Partikeln	Particles	l1|daz
+function.adverb	Adverbien (Ort, Zeit, Art, Grad)	Adverbs (place, time, manner, degree)	l1|daz
+function.question	Fragewörter	Question words	l1|daz
+function.auxiliary	Hilfs- und Modalverben	Auxiliary and modal verbs	l1|daz
+actions	Grundverben und Tätigkeiten	Basic verbs and activities	l1|daz
+actions.motion	Bewegung	Movement	l1|daz
+actions.perception	Wahrnehmung	Perception	l1|daz
+actions.speaking	Sprechen und Mitteilen	Speaking and telling	l1|daz
+actions.thinking	Denken, Wissen, Wollen	Thinking, knowing, wanting	l1|daz
+actions.handling	Hantieren, Herstellen	Handling and making	l1|daz
+actions.change	Werden, Verändern, Geschehen	Becoming, changing, happening	l1|daz
+qualities	Eigenschaften	Qualities	l1|daz
+qualities.size	Größe, Form, Menge	Size, shape, amount	l1|daz
+qualities.colour	Farben	Colours	l1|daz
+qualities.senses	Sinneseindrücke	Sense impressions	l1|daz
+qualities.judgement	Bewertung	Judgement	l1|daz
+qualities.character	Charakter und Verhalten	Character and behaviour	l1|daz
+numbers	Zahlen und Mengen	Numbers and quantities	l1|daz
+time	Zeit	Time	l1|daz
+time.calendar	Tage, Monate, Jahreszeiten	Days, months, seasons	l1|daz
+time.clock	Uhrzeit und Tagesablauf	Clock and daily routine	l1|daz
+time.relations	Zeitverhältnisse	Time relations	l1|daz
+space	Raum, Ort und Richtung	Space, place and direction	l1|daz
+self	Ich und meine Person	Me and my person	l1|daz
+body	Körper	Body	l1|daz
+health	Gesundheit und Krankheit	Health and illness	l1|daz
+feelings	Gefühle	Feelings	l1|daz
+family	Familie	Family	l1|daz
+people	Menschen und Beziehungen	People and relationships	l1|daz
+home	Wohnen und Haushalt	Home and household	l1|daz
+food	Essen und Trinken	Food and drink	l1|daz
+clothing	Kleidung	Clothing	l1|daz
+school	Schule und Lernen	School and learning	l1|daz
+play	Spielen und Freizeit	Play and free time	l1|daz
+celebrations	Feste und Bräuche	Festivals and customs	l1|daz
+animals	Tiere	Animals	l1|daz
+plants	Pflanzen	Plants	l1|daz
+nature	Natur und Landschaft	Nature and landscape	l1|daz
+weather	Wetter	Weather	l1|daz
+town	Ort, Stadt und Gebäude	Village, town and buildings	l1|daz
+traffic	Verkehr und Mobilität	Traffic and mobility	l1|daz
+shopping	Einkaufen	Shopping	l1|daz
+money	Geld	Money	l1|daz
+jobs	Berufe und Arbeit	Jobs and work	l1|daz
+media	Medien und Kommunikation	Media and communication	l1|daz
+travel	Reisen und Urlaub	Travel and holidays	l1|daz
+environment	Umwelt	Environment	l1|daz
+society	Gesellschaft und Zusammenleben	Society and living together	l1|daz
+thinking	Denken, Argumentieren, Bewerten	Thinking, arguing, evaluating	l1|daz
+academic	Bildungssprache und Fachsprache allgemein	Academic language	l1|daz
+
+# --- German as a second language: fields of action of everyday adult life ----------------
+authorities	Ämter und Behörden	Authorities and public offices	daz
+housing	Wohnungssuche und Mietverhältnis	Finding and renting a flat	daz
+job_search	Arbeitssuche und Bewerbung	Job search and applications	daz
+workplace	Am Arbeitsplatz	At the workplace	daz
+banking	Bank und Versicherung	Bank and insurance	daz
+childcare	Kinderbetreuung und Schule der Kinder	Childcare and the children's school	daz
+doctor	Arzt, Apotheke, Krankenhaus	Doctor, pharmacy, hospital	daz
+emergency	Notfall	Emergencies	daz
+consumer	Verbraucherrechte, Verträge, Reklamation	Consumer rights, contracts, complaints	daz
+integration	Ankommen, Herkunft, Migration	Arriving, origin, migration	daz
+
+# --- Mathematics ----------------------------------------------------------------------
+math	Mathematik	Mathematics	l1
+math.numbers	Zahlen und Stellenwert	Numbers and place value	l1
+math.arithmetic	Rechnen	Arithmetic	l1
+math.geometry	Geometrie, Formen und Körper	Geometry, shapes and solids	l1
+math.measures	Größen und Einheiten	Quantities and units	l1
+math.fractions	Brüche, Dezimalzahlen, Prozent	Fractions, decimals, percentages	l1
+math.algebra	Terme und Gleichungen	Terms and equations	l1
+math.functions	Funktionen	Functions	l1
+math.data	Daten, Zufall, Wahrscheinlichkeit	Data, chance and probability	l1
+math.analysis	Analysis	Calculus	l1
+math.vectors	Vektoren und analytische Geometrie	Vectors and analytic geometry	l1
+math.reasoning	Mathematisches Argumentieren	Mathematical reasoning	l1
+
+# --- Science (primary general studies; biology, chemistry, physics) -------------------
+science	Naturwissenschaften und Sachunterricht	Science and general studies	l1
+science.method	Beobachten, Experimentieren	Observing and experimenting	l1
+bio	Biologie	Biology	l1
+bio.animals	Tiere	Animals	l1
+bio.plants	Pflanzen	Plants	l1
+bio.human	Mensch und Körper	Human body	l1
+bio.ecology	Ökologie	Ecology	l1
+bio.cells	Zellen und Stoffwechsel	Cells and metabolism	l1
+bio.genetics	Genetik	Genetics	l1
+bio.evolution	Evolution	Evolution	l1
+bio.neuro	Nerven, Sinne, Hormone	Nerves, senses, hormones	l1
+chem	Chemie	Chemistry	l1
+chem.substances	Stoffe und Stoffeigenschaften	Substances and properties	l1
+chem.reactions	Chemische Reaktionen	Chemical reactions	l1
+chem.atoms	Atombau und Periodensystem	Atoms and the periodic table	l1
+chem.acids	Säuren, Basen, Salze	Acids, bases, salts	l1
+chem.organic	Organische Chemie	Organic chemistry	l1
+phys	Physik	Physics	l1
+phys.mechanics	Mechanik	Mechanics	l1
+phys.energy	Energie	Energy	l1
+phys.electricity	Elektrizität und Magnetismus	Electricity and magnetism	l1
+phys.optics	Optik	Optics	l1
+phys.acoustics	Akustik	Acoustics	l1
+phys.heat	Wärme	Heat	l1
+phys.modern	Atom- und Quantenphysik	Atomic and quantum physics	l1
+phys.astronomy	Erde und Weltall	Earth and space	l1
+tech	Technik	Technology	l1
+
+# --- History ----------------------------------------------------------------------------
+history	Geschichte	History	l1
+history.method	Quellen und Zeitbegriffe	Sources and historical time	l1
+history.prehistory	Ur- und Frühgeschichte	Prehistory	l1
+history.antiquity	Antike	Antiquity	l1
+history.middle_ages	Mittelalter	Middle Ages	l1
+history.early_modern	Frühe Neuzeit	Early modern period	l1
+history.revolutions	Revolutionen und Nationalstaaten	Revolutions and nation states	l1
+history.industrial	Industrialisierung und soziale Frage	Industrialisation and the social question	l1
+history.imperialism	Imperialismus und Kolonialismus	Imperialism and colonialism	l1
+history.world_wars	Weltkriege	World wars	l1
+history.weimar	Weimarer Republik	Weimar Republic	l1
+history.nazi	Nationalsozialismus und Holocaust	National Socialism and the Holocaust	l1
+history.cold_war	Kalter Krieg, Teilung und Einheit	Cold War, division and unification	l1
+history.present	Zeitgeschichte	Contemporary history	l1
+
+# --- Geography --------------------------------------------------------------------------
+geo	Geografie	Geography	l1
+geo.maps	Karten und Orientierung	Maps and orientation	l1
+geo.landscapes	Landschaften und Naturräume	Landscapes and natural regions	l1
+geo.earth	Aufbau der Erde, Vulkane, Erdbeben	Structure of the earth, volcanoes, earthquakes	l1
+geo.climate	Klima und Klimazonen	Climate and climate zones	l1
+geo.water	Gewässer und Meere	Waters and oceans	l1
+geo.settlement	Siedlung und Stadt	Settlement and towns	l1
+geo.agriculture	Landwirtschaft	Agriculture	l1
+geo.industry	Industrie, Rohstoffe, Energie	Industry, raw materials, energy	l1
+geo.population	Bevölkerung und Migration	Population and migration	l1
+geo.development	Entwicklung und globale Disparitäten	Development and global disparities	l1
+geo.globalisation	Globalisierung	Globalisation	l1
+
+# --- Politics, law, economy ------------------------------------------------------------
+politics	Politik	Politics	l1|daz
+politics.democracy	Demokratie und Mitbestimmung	Democracy and participation	l1|daz
+politics.state	Staat und Verfassungsorgane	State and constitutional bodies	l1|daz
+politics.elections	Wahlen und Parteien	Elections and parties	l1|daz
+politics.rights	Grund- und Menschenrechte	Fundamental and human rights	l1|daz
+politics.law	Recht und Rechtsprechung	Law and courts	l1|daz
+politics.europe	Europäische Union	European Union	l1|daz
+politics.international	Internationale Politik, Frieden, Konflikte	International politics, peace and conflict	l1
+politics.social	Sozialstaat und soziale Sicherung	Welfare state and social security	l1|daz
+economy	Wirtschaft	Economy	l1|daz
+economy.consumer	Konsum und Verbraucher	Consumption and consumers	l1|daz
+economy.money	Geld, Banken, Finanzen	Money, banks, finance	l1|daz
+economy.work	Arbeit und Beruf	Work and occupation	l1|daz
+economy.business	Unternehmen	Business	l1|daz
+economy.market	Markt und Wirtschaftsordnung	Markets and economic order	l1
+economy.public	Staatshaushalt und Steuern	Public finance and taxes	l1|daz
+
+# --- Religion and ethics --------------------------------------------------------------
+religion	Religion	Religion	l1
+religion.christianity	Christentum	Christianity	l1
+religion.judaism	Judentum	Judaism	l1
+religion.islam	Islam	Islam	l1
+religion.world	Weitere Religionen und Weltanschauungen	Other religions and world views	l1
+ethics	Ethik und Philosophie	Ethics and philosophy	l1
+ethics.values	Werte und Normen	Values and norms	l1
+ethics.philosophy	Philosophische Grundbegriffe	Basic philosophical concepts	l1
+
+# --- Arts, music, drama ----------------------------------------------------------------
+art	Kunst	Art	l1
+art.techniques	Gestalten und Techniken	Making and techniques	l1
+art.analysis	Bildbetrachtung und Kunstgeschichte	Looking at art and art history	l1
+art.architecture	Architektur und Design	Architecture and design	l1
+music	Musik	Music	l1
+music.instruments	Instrumente	Instruments	l1
+music.theory	Musiklehre	Music theory	l1
+music.practice	Singen, Musizieren, Hören	Singing, playing, listening	l1
+music.history	Musikgeschichte und Gattungen	Music history and genres	l1
+drama	Theater und darstellendes Spiel	Theatre and drama	l1
+
+# --- Sports ------------------------------------------------------------------------------
+sports	Sport	Sports	l1|daz
+sports.games	Ballspiele und Mannschaftsspiele	Ball and team games	l1|daz
+sports.athletics	Leichtathletik	Athletics	l1
+sports.water	Schwimmen und Wassersport	Swimming and water sports	l1
+sports.gymnastics	Turnen und Bewegungskünste	Gymnastics and movement arts	l1
+sports.fitness	Fitness und Training	Fitness and training	l1|daz
+sports.fairness	Regeln und Fairness	Rules and fair play	l1
+
+# --- Computing -------------------------------------------------------------------------
+computing	Informatik und digitale Welt	Computing and the digital world	l1|daz
+computing.devices	Geräte und Bedienung	Devices and operation	l1|daz
+computing.internet	Internet und Kommunikation	Internet and communication	l1|daz
+computing.programming	Algorithmen und Programmieren	Algorithms and programming	l1
+computing.data	Daten und Information	Data and information	l1
+computing.safety	Datenschutz und Sicherheit	Privacy and security	l1|daz
+computing.society	Informatik und Gesellschaft, KI	Computing, society and AI	l1
+
+# --- German as a subject: terms of language and literature lessons --------------------
+language	Sprache und Literatur (Deutschunterricht)	Language and literature (German lessons)	l1
+language.letters	Laute, Buchstaben, Silben	Sounds, letters, syllables	l1
+language.spelling	Rechtschreibung und Zeichensetzung	Spelling and punctuation	l1
+language.grammar	Grammatik	Grammar	l1
+language.writing	Schreiben und Textsorten	Writing and text types	l1
+language.reading	Lesen und Textverständnis	Reading and comprehension	l1
+language.speaking	Sprechen, Zuhören, Präsentieren	Speaking, listening, presenting	l1
+language.literature	Literatur und Epik	Literature and narrative texts	l1
+language.poetry	Lyrik	Poetry	l1
+language.drama	Drama	Drama	l1
+language.rhetoric	Rhetorik und Stilmittel	Rhetoric and stylistic devices	l1
+language.media	Medien und Sachtexte	Media and non-fiction texts	l1
+language.reflection	Sprachreflexion, Sprachgeschichte, Varietäten	Reflecting on language, its history and varieties	l1
