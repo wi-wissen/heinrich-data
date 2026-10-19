@@ -8,6 +8,7 @@ take verb past=took pp=taken
 talk verb
 tally verb
 tame verb
+tan verb
 tangle verb
 tap verb
 taper verb
@@ -19,6 +20,7 @@ tax verb
 teach verb past=taught pp=taught
 team verb
 tear verb past=tore pp=torn
+tease verb
 telegraph verb
 televise verb
 tell verb past=told pp=told
@@ -31,6 +33,7 @@ terrify verb
 test verb
 testify verb
 thank verb
+thaw verb
 think verb past=thought pp=thought
 thread verb
 threaten verb
@@ -42,15 +45,20 @@ throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
 thunder verb
 thwart verb
+tick verb
+tickle verb
+tidy verb
 tie verb
 tighten verb
 tilt verb
 time verb
 tint verb
 tip verb
+tiptoe verb
 tire verb
 title verb
 toast verb
+toboggan verb
 toil verb
 tolerate verb
 top verb
@@ -58,6 +66,7 @@ torment verb
 torture verb
 toss verb
 total verb
+totter verb
 touch verb
 tour verb
 tow verb
@@ -90,6 +99,7 @@ trim verb
 trip verb
 trot verb
 trouble verb
+trudge verb
 truncate verb
 trust verb
 try verb
@@ -98,6 +108,7 @@ tug verb
 tumble verb
 tune verb
 turn verb
+tweet verb
 twin verb
 twinkle verb
 twist verb

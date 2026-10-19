@@ -18,18 +18,25 @@ scar verb
 scare verb
 scatter verb
 schedule verb
+scoff verb
+scold verb
 scope verb
 score verb
 scout verb
+scowl verb
 scramble verb
 scrap verb
 scrape verb
 scratch verb
+scrawl verb
 scream verb
 screen verb
+screenshot verb double conf=90 note=screenshotted, screenshotting
 screw verb
+scribble verb
 scroll verb
 scrub verb
+scrunch verb
 scrutinize verb gb=scrutinise|scrutinize
 seal verb
 search verb
@@ -58,6 +65,7 @@ shake verb past=shook pp=shaken
 shape verb
 share verb
 shatter verb
+shave verb
 shear verb past=sheared pp=sheared|shorn
 shed verb past=shed pp=shed
 shelter verb
@@ -73,6 +81,7 @@ shop verb
 shorten verb
 shout verb
 shove verb
+shovel verb
 show verb past=showed pp=shown|showed
 showcase verb
 shriek verb
@@ -82,38 +91,50 @@ shudder verb
 shut verb past=shut pp=shut
 shuttle verb
 side verb
+sieve verb
+sift verb
 sigh verb
 sight verb
 sign verb
 signal verb
 signify verb
 silence verb
+simmer verb
 simplify verb
 simulate verb
 sin verb
 sing verb past=sang pp=sung
 single verb
 sink verb past=sank|sunk pp=sunk note=sunk as past tense is less common
+sip verb
 sire verb
 sit verb past=sat pp=sat
 situate verb
 skate verb
+skateboard verb
 ski verb
+skid verb
+skim verb
 skip verb
 skirmish verb
 slam verb
+slap verb
 slash verb
 slate verb
 slaughter verb
 slay verb past=slew pp=slain
 sled verb
+sledge verb region=GB
 sleep verb past=slept pp=slept
 slice verb
 slide verb past=slid pp=slid
 slip verb
+slither verb
 slope verb
 slow verb
 slumber verb
+slurp verb
+smack verb
 smash verb
 smell verb past=smelled|smelt pp=smelled|smelt
 smile verb
@@ -121,26 +142,39 @@ smite verb past=smote pp=smitten|smote conf=90 note=archaic or elevated; smitten
 smoke verb
 smooth verb
 smother verb
+smudge verb
 smuggle verb
+snack verb
 snap verb
 snare verb
 snatch verb
 sneak verb past=sneaked|snuck pp=sneaked|snuck conf=90 note=snuck is informal, chiefly American
 sneer verb
+sneeze verb
+snicker verb
 sniff verb
+sniffle verb
+snigger verb region=GB
+snooze verb
+snore verb
+snorkel verb
 snow verb
+snowboard verb
+snuggle verb
 soak verb
 soar verb
 sob verb
 soften verb
 solicit verb
 solve verb
+somersault verb
 soothe verb
 sort verb
 sound verb
 sour verb
 source verb
 sow verb past=sowed pp=sown|sowed sense=plant
+spam verb
 span verb
 spare verb
 spark verb
@@ -152,6 +186,7 @@ specify verb
 speculate verb
 speed verb past=sped|speeded pp=sped|speeded
 spell verb past=spelled|spelt[GB] pp=spelled|spelt[GB]
+spellcheck verb
 spend verb past=spent pp=spent
 spill verb past=spilled|spilt pp=spilled|spilt
 spin verb past=spun pp=spun
@@ -170,9 +205,16 @@ spread verb past=spread pp=spread
 spring verb past=sprang|sprung pp=sprung
 sprinkle verb
 sprint verb
+sprout verb
 spur verb
 spy verb
+squash verb
 squeeze verb
+squelch verb
+squint verb
+squirm verb
+squirt verb
+squish verb
 stab verb
 stabilize verb gb=stabilise|stabilize
 stack verb
@@ -200,11 +242,14 @@ steer verb
 stem verb
 step verb
 stereotype verb
+stew verb
 stick verb past=stuck pp=stuck
 stimulate verb
 sting verb past=stung pp=stung
 stipulate verb
 stir verb
+stitch verb
+stomp verb
 stoop verb
 stop verb
 store verb
@@ -234,7 +279,7 @@ stun verb
 stunt verb
 style verb
 subdivide verb
-subdue verb ing=subduing
+subdue verb
 subject verb
 submerge verb
 submit verb double
@@ -242,15 +287,19 @@ subordinate verb
 subscribe verb
 subside verb
 substitute verb
+subtract verb
 succeed verb
-sue verb ing=suing
+sue verb
 suffer verb nodouble
 suffice verb
 suggest verb
 suit verb
+sulk verb
 sum verb
 summarize verb gb=summarise|summarize
 summon verb
+sunbathe verb
+sunburn verb past=sunburned|sunburnt pp=sunburned|sunburnt conf=90
 supersede verb
 supervise verb
 supplement verb
@@ -271,6 +320,7 @@ survive verb
 suspect verb
 suspend verb
 sustain verb
+swaddle verb
 swallow verb
 swap verb
 swarm verb
@@ -281,6 +331,7 @@ sweep verb past=swept pp=swept
 swell verb past=swelled pp=swollen|swelled
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
+swipe verb
 switch verb
 syndicate verb
 synthesize verb gb=synthesise|synthesize

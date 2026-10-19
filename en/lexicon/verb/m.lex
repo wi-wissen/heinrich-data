@@ -14,6 +14,7 @@ manufacture   verb
 map           verb
 mar verb
 march         verb
+marinate verb
 mark          verb
 market        verb
 marry         verb
@@ -34,16 +35,19 @@ measure       verb
 meet          verb past=met pp=met
 mellow verb
 melt          verb
+memorize verb gb=memorise|memorize
 menace verb
 mend verb
 mention       verb
 mentor        verb
+meow verb gb=miaow|meow
 merchandise   verb
 merge         verb
 merit         verb
 mesh verb
 mess          verb
 message       verb
+microwave verb
 migrate       verb
 milk          verb
 mill          verb
@@ -74,7 +78,9 @@ modernize verb gb=modernise|modernize
 modify        verb
 mold          verb gb=mould
 monitor       verb
+moo verb
 moor          verb
+mop verb
 mortgage      verb
 mother        verb
 motion        verb
@@ -83,8 +89,11 @@ mount         verb
 mourn         verb
 mouth         verb
 move          verb
+mow verb past=mowed pp=mown|mowed
 muffle verb
 multiply      verb
+mumble verb
+munch verb
 murder        verb
 murmur        verb
 muse verb

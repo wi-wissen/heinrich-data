@@ -1,3 +1,4 @@
+yawn verb
 yearn verb
 yell verb
 yellow verb

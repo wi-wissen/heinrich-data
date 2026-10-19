@@ -1,5 +1,6 @@
 ed. x abbr note=editor, edition
 EDT x abbr note=Eastern Daylight Time
+eek intj
 eh intj
 en x foreign note=only in en route, en masse
 er intj

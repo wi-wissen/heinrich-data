@@ -7,6 +7,7 @@ rail verb
 railroad verb
 rain verb
 raise verb
+rake verb
 rally verb
 ram verb
 ramp verb
@@ -37,6 +38,7 @@ reassign verb
 reassure verb
 rebate verb
 rebel verb double
+reboot verb
 rebound verb
 rebrand verb
 rebuild verb prefix=re past=rebuilt pp=rebuilt
@@ -86,6 +88,8 @@ regard verb
 register verb
 regret verb double
 regulate verb
+rehearse verb
+reheat verb
 reign verb
 reimburse verb
 rein verb
@@ -148,7 +152,7 @@ repulse verb
 request verb
 require verb
 rescind verb
-rescue verb ing=rescuing note=generator keeps e after u (rescueing); -ing written
+rescue verb
 research verb
 resemble verb
 resent verb
@@ -177,6 +181,7 @@ retort verb
 retreat verb
 retrieve verb
 return verb
+retweet verb
 reunite verb prefix=re
 reuse verb
 reveal verb
@@ -202,6 +207,7 @@ rig verb
 right verb
 ring verb past=rang pp=rung sense=sound
 ring verb sense=encircle
+rinse verb
 riot verb
 rip verb
 ripple verb
@@ -214,6 +220,7 @@ rob verb
 rock verb
 rocket verb
 roll verb
+rollerblade verb
 root verb
 rope verb
 rot verb

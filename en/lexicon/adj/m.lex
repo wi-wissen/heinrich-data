@@ -69,6 +69,7 @@ mercenary adj
 merciful adj cmp=more adv=mercifully
 mere          adj attr_only adv=merely
 merry         adj cmp=er adv=merrily
+messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
 metaphysical adj
@@ -94,6 +95,7 @@ minimal       adj adv=minimally
 minimum       adj
 ministerial   adj
 minor         adj
+minty adj
 minute        adj note=tiny
 miraculous adj cmp=more adv=miraculously
 miscellaneous adj
@@ -121,6 +123,7 @@ monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
+moody adj cmp=er
 Moorish       adj
 moral         adj adv=morally
 morbid adj adv=morbidly
@@ -131,7 +134,9 @@ motionless    adj
 mountainous   adj
 mournful adj adv=mournfully
 movable adj
+mucky adj cmp=er
 muddy         adj cmp=er
+muggy adj cmp=er
 Mughal adj
 multilateral  adj
 multinational adj
@@ -140,6 +145,7 @@ multiple      adj
 municipal     adj
 murderous adj
 muscular      adj
+mushy adj cmp=er
 musical       adj adv=musically
 Muslim        adj
 mute adj adv=mutely

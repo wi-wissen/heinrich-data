@@ -29,6 +29,7 @@ legible adj
 legislative   adj
 legitimate    adj adv=legitimately
 leisurely     adj
+lemony adj
 lengthy       adj cmp=er|more
 lesbian       adj
 lesser        adj attr_only
@@ -74,6 +75,7 @@ longtime      adj attr_only
 loose         adj cmp=er adv=loosely
 loud          adj cmp=er adv=loudly
 lovely        adj cmp=er
+lovesick adj
 loving        adj adv=lovingly
 low           adj cmp=er
 loyal         adj cmp=more adv=loyally
@@ -81,6 +83,7 @@ lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
 luminous adj
+lumpy adj cmp=er
 lunar         adj
 Lutheran      adj
 luxurious     adj adv=luxuriously

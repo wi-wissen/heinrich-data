@@ -9,6 +9,7 @@ seq. x abbr note=in et seq. (and the following)
 Serie x foreign note=in Serie A (Italian football league)
 Señor x foreign note=Spanish title
 Sgt. x abbr note=Sergeant
+shh intj
 sic x foreign note=Latin, marks a quotation as original
 Signor x foreign note=Italian title
 Sinn x foreign note=in Sinn Féin

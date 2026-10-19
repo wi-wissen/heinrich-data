@@ -53,6 +53,7 @@ unfinished     adj
 unfit          adj
 unforeseen adj
 unfortunate    adj adv=unfortunately
+unfriendly adj cmp=er|more
 unfunded adj
 ungrateful adj
 unhappy        adj cmp=er adv=unhappily

@@ -1,3 +1,4 @@
+waffle noun
 wage noun
 wagon noun gb=waggon|wagon
 wail noun
@@ -5,12 +6,15 @@ waist noun
 waistcoat noun
 wait noun
 waiter noun
+waitress noun
 waiver noun
 wake noun
 walk noun
 wall noun
 wallet noun
+wallpaper noun
 walnut noun
+walrus noun
 wanderer noun
 want noun
 war noun
@@ -24,14 +28,19 @@ warning noun
 warrant noun
 warrior noun
 warship noun
+warthog noun
 wartime noun pl=- note=uncountable
 wash noun
+washcloth noun region=US note=British flannel
+washer noun
+wasp noun
 waste noun
 wastewater noun pl=- note=uncountable
 watch noun
 water noun
 waterfall noun
 waterfront noun
+watermelon noun
 watershed noun
 waterway noun
 watt noun
@@ -45,9 +54,12 @@ wealth noun pl=- note=uncountable
 weapon noun
 wear noun pl=- note=uncountable
 weariness noun pl=- note=uncountable
+weasel noun
 weather noun pl=- note=uncountable
 web noun
+webcam noun
 webinar noun
+webpage noun
 website noun
 wedding noun
 wedge noun
@@ -61,29 +73,36 @@ welcome noun
 welfare noun pl=- note=uncountable
 well noun
 wellbeing noun pl=- note=also spelled well-being
+wellington noun region=GB note=rubber boot, usually plural
+welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
 west noun pl=- note=uncountable
 western noun
 wetland noun
+wetsuit noun
 whale noun
 wharf noun pl=wharves|wharfs
 wheat noun pl=- note=uncountable
 wheel noun
+wheelbarrow noun
 wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
 Whig noun
 whim noun
 whip noun
 whirl noun
+whisk noun
 whisker noun
 whiskey noun note=Irish and American spelling; see whisky
 whisky noun note=Scotch and Canadian spelling; see whiskey
 whisper noun
 whistle noun
 white noun
+whiteboard noun
 whiteness noun pl=- note=uncountable
 whole noun
 wholesale noun pl=- note=uncountable
+Wi-Fi noun pl=- conf=80 note=from a trademark; also written wifi, especially in British texts
 wickedness noun pl=- note=uncountable
 wicket noun
 widow noun
@@ -102,6 +121,7 @@ win noun
 wind noun
 windfall noun
 window noun
+windowsill noun
 wine noun
 wing noun
 wink noun
@@ -127,16 +147,19 @@ wonderland noun
 wont noun pl=- note=uncountable
 wood noun
 woodland noun
+woodpecker noun
 wool noun
 word noun
 wording noun
 work noun
+workbook noun
 worker noun
 workforce noun
 working noun note=workings (mechanism)
 workload noun
 workman noun pl=workmen
 workplace noun
+worksheet noun
 workshop noun
 world noun
 worm noun
@@ -147,10 +170,12 @@ worth noun pl=- note=uncountable
 worthy noun
 wound noun
 wrap noun
+wrapper noun
 wrath noun pl=- note=uncountable
 wreath noun
 wreck noun
 wreckage noun pl=- note=uncountable
+wren noun
 wrestler noun
 wrestling noun pl=- note=uncountable; the sport
 wretch noun

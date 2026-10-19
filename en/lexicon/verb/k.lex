@@ -1,3 +1,4 @@
+kayak verb
 keep           verb past=kept pp=kept
 key            verb
 kick           verb
@@ -6,6 +7,7 @@ kidnap         verb double
 kill           verb
 kindle verb
 kiss           verb
+knead verb
 kneel          verb past=knelt|kneeled pp=knelt|kneeled
 knife          verb
 knight         verb

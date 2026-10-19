@@ -1,22 +1,31 @@
+T-shirt noun note=also tee shirt
 tab noun
 table noun
+tablecloth noun
+tablespoon noun
 tablet noun
 tack noun
 tackle noun
+taco noun pl=tacos
 tact noun pl=- note=uncountable
 tactic noun
+tadpole noun
 tag noun
 tail noun
 tailor noun
+takeaway noun region=GB note=US takeout
 takeoff noun
+takeout noun region=US note=British takeaway
 takeover noun
 tale noun
 talent noun
 talk noun
 tally noun
 Tamil noun
+tan noun
 tandem noun
 tangent noun
+tangerine noun
 tangle noun
 tank noun
 tanker noun
@@ -25,8 +34,10 @@ tape noun
 taper noun
 tapestry noun
 tar noun
+tarantula noun
 target noun
 tariff noun
+tart noun
 task noun
 taskforce noun
 taste noun
@@ -42,12 +53,16 @@ teacher noun
 teaching noun
 team noun
 teammate noun
+teapot noun
 tear noun sense=drop
 tear noun sense=rip
+teaspoon noun
+teatime noun
 tech noun pl=techs note=colloquial: technology; technician
 technician noun
 technique noun
 technology noun
+teddy noun
 teen noun
 teenager noun
 telecommunications noun pl_only
@@ -87,6 +102,7 @@ terminal noun
 termination noun
 terminology noun
 terminus noun pl=termini|terminuses[rare]
+termite noun
 terrace noun
 terrain noun
 territory noun
@@ -117,6 +133,7 @@ thesis noun pl=theses
 thicket noun
 thickness noun
 thief noun pl=thieves
+thigh noun
 thing noun
 thinker noun
 third noun note=fraction (two thirds); the ordinal is a numeral
@@ -132,11 +149,15 @@ thriller noun
 throat noun
 throne noun
 throng noun
+thrush noun
 thrust noun
 thumb noun
+thumbtack noun region=US note=British drawing pin
 thunder noun
 thunderstorm noun
+thyme noun pl=- note=uncountable
 Tibetan noun
+tick noun
 ticket noun
 ticketing noun pl=- note=uncountable
 tide noun
@@ -144,6 +165,7 @@ tidings noun pl_only
 tie noun
 tier noun
 tiger noun
+tights noun pl_only
 tile noun
 tilt noun
 timber noun
@@ -157,13 +179,19 @@ tin noun
 tint noun
 tip noun
 tire noun gb=tyre sense=wheel
+tiredness noun pl=- note=uncountable
 tissue noun
 titan noun
 title noun
+toad noun
 toast noun
+toaster noun
 tobacco noun pl=tobaccos note=plural for kinds of tobacco
 today noun pl=- note=no plural: deictic time noun
+toddler noun
 toe noun
+toenail noun
+toffee noun
 toil noun
 toilet noun
 token noun
@@ -179,8 +207,12 @@ tongue noun
 tonight noun pl=- note=no plural: deictic time noun
 tonnage noun
 tonne noun
+tonsillitis noun pl=- note=uncountable
 tool noun
 tooth noun pl=teeth
+toothache noun
+toothbrush noun
+toothpaste noun
 top noun
 topic noun
 topography noun
@@ -192,18 +224,24 @@ tornado noun pl=tornadoes
 torpedo noun pl=torpedoes
 torque noun
 torrent noun
+tortilla noun
+tortoise noun
 torture noun
 Tory noun
 tot noun
 total noun
 totem noun
+toucan noun
 touch noun
 touchdown noun
+touchpad noun
+touchscreen noun
 tour noun
 tourism noun pl=- note=uncountable
 tourist noun
 tournament noun
 tow noun
+towel noun
 tower noun
 town noun
 township noun
@@ -211,6 +249,8 @@ toxicity noun
 toy noun
 trace noun
 track noun
+trackpad noun
+tracksuit noun
 tract noun
 traction noun pl=- note=uncountable
 trade noun
@@ -228,6 +268,7 @@ traitor noun
 trajectory noun
 tram noun
 tramp noun
+trampoline noun
 trance noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
@@ -311,8 +352,11 @@ tube noun
 tuberculosis noun pl=- note=uncountable
 tug noun
 tuition noun pl=- note=uncountable
+tulip noun
+tummy noun
 tumor noun gb=tumour
 tumult noun
+tuna noun pl=tuna|tunas
 tune noun
 tunnel noun
 turbine noun
@@ -323,11 +367,13 @@ turkey noun
 Turkish noun pl=- note=the language
 turmoil noun
 turn noun
+turnip noun
 turnout noun
 turnover noun
 turnpike noun
 turret noun
 turtle noun
+tusk noun
 tutor noun
 TV noun abbr note=television
 twig noun

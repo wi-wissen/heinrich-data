@@ -52,6 +52,7 @@ acid noun
 acknowledgment noun gb=acknowledgement|acknowledgment conf=90 note=acknowledgement is also common in American texts
 ACL noun abbr conf=90 note=anterior cruciate ligament; access control list
 ACO noun abbr conf=90 note=accountable care organization
+acorn noun
 acquaintance noun
 acquisition noun
 acre noun
@@ -66,6 +67,7 @@ actor noun
 actress noun
 ad noun
 adaptation noun
+adapter noun note=also spelled adaptor
 addendum noun pl=addenda|addendums
 addiction noun
 addition noun
@@ -170,14 +172,17 @@ alignment noun
 ALJ noun abbr conf=90 note=administrative law judge
 allegation noun
 allegiance noun
+allergy noun
 alley noun
 alliance noun
+alligator noun
 allocation noun
 allotment noun
 allowance noun
 alloy noun
 allusion noun
 ally noun
+almond noun
 alpha noun
 alphabet noun
 altar noun
@@ -214,6 +219,7 @@ ancestor noun
 ancestry noun
 anchor noun
 anchorage noun
+anchovy noun
 anecdote noun
 anesthesia noun gb=anaesthesia pl=- note=uncountable
 angel noun
@@ -241,10 +247,12 @@ annuity noun
 annulment noun
 anomaly noun
 anonymity noun pl=- note=uncountable
+anorak noun
 answer noun
 ant noun
 antagonist noun
 ante noun
+antelope noun pl=antelope|antelopes
 antenna noun pl=antennas|antennae
 anthem noun
 anthology noun
@@ -255,10 +263,12 @@ anticipation noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
+antler noun
 anxiety noun
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartment noun
 APC noun abbr conf=90 note=armoured personnel carrier; ambulatory payment classification
+ape noun
 aperture noun
 apex noun pl=apexes|apices
 API noun abbr note=application programming interface
@@ -273,6 +283,7 @@ appearance noun
 appellant noun
 appendix noun pl=appendices|appendixes
 appetite noun
+appetizer noun gb=appetiser|appetizer
 applause noun pl=- note=uncountable
 apple noun
 appliance noun
@@ -293,6 +304,7 @@ appropriateness noun pl=- note=uncountable
 appropriation noun
 approval noun
 approximation noun
+apricot noun
 apron noun
 aquaculture noun pl=- note=uncountable
 aquarium noun pl=aquariums|aquaria
@@ -308,6 +320,7 @@ archbishop noun
 archdeacon noun
 archdiocese noun
 archer noun
+archery noun pl=- note=uncountable
 archipelago noun pl=archipelagos|archipelagoes
 architect noun
 architecture noun
@@ -321,10 +334,13 @@ aristocracy noun
 arithmetic noun pl=- note=uncountable
 ark noun
 arm noun
+armadillo noun pl=armadillos
 armament noun
+armchair noun
 Armenian noun
 armistice noun
 armor noun gb=armour
+armpit noun
 army noun
 arrangement noun
 array noun
@@ -349,6 +365,7 @@ ash noun
 Ashkenazi noun pl=Ashkenazim|Ashkenazis
 Asian noun
 asp noun
+asparagus noun pl=- note=uncountable
 aspect noun
 aspiration noun
 ass noun
@@ -404,6 +421,7 @@ attorney noun
 attraction noun
 attribute noun
 attribution noun
+aubergine noun region=GB note=US eggplant
 auction noun
 audacity noun pl=- note=uncountable
 audience noun
@@ -413,6 +431,7 @@ audition noun
 auditor noun
 auditorium noun pl=auditoriums|auditoria
 aunt noun
+auntie noun
 aurora noun pl=auroras|aurorae
 auspices noun pl_only
 austerity noun
@@ -441,6 +460,7 @@ average noun
 aversion noun
 aviation noun pl=- note=uncountable
 aviator noun
+avocado noun pl=avocados
 avoidance noun pl=- note=uncountable
 award noun
 awareness noun pl=- note=uncountable

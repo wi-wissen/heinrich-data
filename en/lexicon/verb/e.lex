@@ -61,7 +61,7 @@ enrich verb
 enroll verb gb=enrol double
 enshrine verb
 enslave verb
-ensue verb ing=ensuing note=ing written out: the generator gives ensueing
+ensue verb
 ensure verb
 entail verb
 entangle verb
@@ -79,6 +79,7 @@ envy verb
 equal verb
 equip verb double
 eradicate verb
+erase verb
 erect verb
 erode verb
 erupt verb

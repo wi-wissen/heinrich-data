@@ -13,6 +13,7 @@ laugh         verb
 launch        verb
 launder       verb
 lay           verb past=laid pp=laid
+laze verb
 lead          verb past=led pp=led
 leaf          verb
 leak          verb
@@ -50,6 +51,7 @@ list          verb
 listen        verb
 litter        verb
 live          verb
+livestream verb
 load          verb
 loan          verb
 lobby         verb

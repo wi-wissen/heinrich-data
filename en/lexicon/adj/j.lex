@@ -10,6 +10,7 @@ joyful adj adv=joyfully
 joyous         adj adv=joyously
 judicial       adj adv=judicially
 judicious adj adv=judiciously
+juicy adj cmp=er
 junior         adj
 Jurassic adj
 just           adj adv=justly

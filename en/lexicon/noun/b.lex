@@ -1,26 +1,36 @@
 B-side noun
 BA noun abbr note=Bachelor of Arts
 babe noun
+baboon noun
 baby noun
 Babylonian noun
 bachelor noun
 back noun
+backache noun
 backbench noun region=GB
 backbone noun
 backdrop noun
 background noun
 backlog noun
+backpack noun
 backstop noun
 backup noun
+backyard noun
 bacon noun pl=- note=uncountable
 bacterium noun pl=bacteria
 badge noun
+badger noun
 badminton noun pl=- note=uncountable
 bag noun
+bagel noun
 baggage noun pl=- note=uncountable
+baguette noun
 bail noun
 bailiff noun
 bait noun
+baker noun
+bakery noun
+balaclava noun
 balance noun
 balcony noun
 ball noun
@@ -30,7 +40,9 @@ balloon noun
 ballot noun
 bamboo noun
 ban noun
+banana noun
 band noun
+bandage noun
 bandwidth noun
 bang noun
 banjo noun pl=banjos|banjoes
@@ -43,6 +55,7 @@ baptism noun
 Baptist noun
 bar noun
 barbarian noun
+barbecue noun
 barber noun
 bargain noun
 barge noun
@@ -76,7 +89,10 @@ bassist noun
 bat noun
 batch noun
 bath noun
+bathmat noun
+bathrobe noun
 bathroom noun
+bathtub noun
 batsman noun pl=batsmen
 battalion noun
 batter noun
@@ -94,6 +110,9 @@ bead noun
 beak noun
 beam noun
 bean noun
+beanbag noun
+beanie noun
+beansprout noun
 bear noun
 beard noun
 bearer noun
@@ -106,11 +125,13 @@ bed noun
 bedrock noun pl=- note=uncountable
 bedroom noun
 bedside noun
+bedtime noun
 bee noun
 beech noun
 beef noun pl=beefs note=kinds of beef; complaints
 beer noun
 beetle noun
+beetroot noun pl=beetroot|beetroots
 beggar noun
 beginning noun
 behalf noun pl=- note=on behalf of
@@ -140,22 +161,26 @@ Berber noun
 bereavement noun
 berry noun
 berth noun
+bestie noun style=colloquial
 bet noun
 beta noun
 betrayal noun
 beverage noun
 bewilderment noun pl=- note=uncountable
 bias noun
+bib noun
 bible noun
 bicycle noun
 bid noun
 bidder noun
 bike noun
+bikini noun
 bill noun
 billboard noun
 billionaire noun
 bin noun
 binary noun
+binder noun
 binding noun
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
@@ -181,6 +206,10 @@ bitcoin noun
 bite noun
 bitterness noun pl=- note=uncountable
 black noun
+blackberry noun
+blackbird noun
+blackboard noun
+blackcurrant noun
 blackness noun pl=- note=uncountable
 blacksmith noun
 bladder noun
@@ -190,24 +219,31 @@ blank noun
 blanket noun
 blast noun
 blaze noun
+blazer noun
 blend noun
+blender noun
 blessing noun
 blight noun
 blind noun
 blindness noun pl=- note=uncountable
 bliss noun pl=- note=uncountable
+blister noun
 blitz noun
 bloc noun
 block noun
 blockade noun
 blog noun
+blonde noun
 blood noun
 bloodshed noun pl=- note=uncountable
 bloom noun
 blossom noun
+blouse noun
 blow noun
 Blu-ray noun
 blue noun
+bluebell noun
+blueberry noun
 bluegrass noun pl=- note=uncountable
 bluff noun
 blunder noun
@@ -237,13 +273,20 @@ bone noun
 bonnet noun
 bonus noun
 book noun
+bookcase noun
+bookmark noun
+bookshelf noun pl=bookshelves
+bookshop noun
+bookstore noun
 boom noun
+boomerang noun
 boost noun
 booster noun
 boot noun
 booth noun
 border noun
 bore noun
+boredom noun pl=- note=uncountable
 borough noun
 borrower noun
 Bosnian noun
@@ -270,8 +313,11 @@ boy noun
 boycott noun
 boyfriend noun
 boyhood noun
+bra noun
 brace noun
+bracelet noun
 bracket noun
+braid noun
 brain noun
 brake noun
 branch noun
@@ -288,6 +334,7 @@ breakdown noun
 breaker noun
 breakfast noun
 breakthrough noun
+breaktime noun region=GB note=school break
 breakup noun
 breast noun
 breath noun
@@ -315,16 +362,22 @@ Briton noun
 broadband noun pl=- note=uncountable
 broadcast noun
 broadcaster noun
+broccoli noun pl=- note=uncountable
 broker noun
 bronze noun
+brooch noun
 brood noun
 brook noun
+broom noun
 brother noun pl=brothers|brethren note=brethren in religious and fraternal use
 brother-in-law noun pl=brothers-in-law
 brotherhood noun
 brow noun
+brownie noun
 browser noun
 bruise noun
+brunch noun
+brunette noun
 brunt noun pl=- note=only in bear the brunt
 brush noun
 brutality noun
@@ -336,31 +389,45 @@ bud noun
 Buddhism noun pl=- note=uncountable
 Buddhist noun
 buddy noun
+budgerigar noun
 budget noun
+budgie noun
 buffalo noun pl=buffalo|buffaloes|buffalos
 buffer noun
+bug noun
 buggy noun
 build noun
 builder noun
 building noun
+bulb noun
 Bulgarian noun
 bulk noun pl=- note=uncountable
 bull noun
 bullet noun
 bulletin noun
 bully noun
+bum noun style=colloquial note=buttocks (British); a lazy person (American)
+bumblebee noun
 bump noun
+bun noun
 bunch noun
 bundle noun
+bungalow noun
+bunk noun
 bunker noun
+bunny noun
 burden noun
 bureau noun pl=bureaus|bureaux
 bureaucracy noun
+burger noun
 burglary noun
 burial noun
 Burmese noun pl=Burmese
 burn noun
 burner noun
+burp noun
+burrito noun pl=burritos
+burrow noun
 burst noun
 bus noun
 bush noun
@@ -373,6 +440,7 @@ butler noun
 butt noun
 butte noun
 butter noun
+buttercup noun
 butterfly noun
 button noun
 buyer noun

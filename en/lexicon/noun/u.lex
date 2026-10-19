@@ -12,10 +12,12 @@ underscore noun
 understanding noun
 undertaker    noun
 undertaking   noun
+underwear noun pl=- note=uncountable
 underworld noun
 uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unhappiness noun pl=- note=uncountable
+unicorn noun
 unification noun
 uniform       noun
 uniformity noun
@@ -44,9 +46,11 @@ urge          noun
 urgency       noun pl=- note=uncountable
 urine         noun pl=- note=uncountable
 usage         noun
+USB noun abbr note=universal serial bus
 use           noun
 usefulness noun pl=- note=uncountable
 user          noun
+username noun
 usher noun
 utility       noun
 utilization   noun gb=utilisation|utilization

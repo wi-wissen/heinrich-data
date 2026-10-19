@@ -1,3 +1,4 @@
+quack verb
 qualify       verb
 quantify verb
 quarantine verb
@@ -11,4 +12,5 @@ quicken verb
 quiet         verb
 quit          verb past=quit|quitted[archaic] pp=quit|quitted[archaic]
 quiver        verb
+quiz verb double
 quote         verb
