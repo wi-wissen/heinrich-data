@@ -4,12 +4,16 @@ oat noun
 oath          noun
 OBE           noun abbr note=Officer of the Order of the British Empire
 obedience     noun pl=- note=uncountable
+obelisk noun
 obesity       noun pl=- note=uncountable
+obituary noun
 object        noun
 objection     noun
 objective     noun
 oblast        noun
 obligation    noun
+oblivion noun pl=- note=uncountable
+oblong noun
 obscurity noun
 observance noun
 observation   noun
@@ -20,6 +24,7 @@ obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
 occasion      noun
+occult noun note=the occult
 occupancy noun
 occupant      noun
 occupation    noun
@@ -29,6 +34,7 @@ ocean         noun
 octave noun
 octopus noun pl=octopuses|octopi[rare]
 odds          noun pl_only
+ode noun
 odor noun gb=odour
 odyssey noun
 offboarding noun pl=- note=uncountable
@@ -37,6 +43,7 @@ offense       noun gb=offence
 offensive     noun
 offer         noun
 offering      noun
+offeror noun
 office        noun
 officer       noun
 official      noun
@@ -50,13 +57,17 @@ Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
 omelette noun us=omelet|omelette
+omen noun
 omission      noun
 omnibus noun pl=omnibuses
 onboarding noun pl=- note=uncountable
+oncology noun pl=- note=uncountable
 onesie noun
 onion noun
 onset         noun
+onslaught noun
 onus noun pl=- note=singular only
+op noun style=colloquial note=short for operation: photo op, special ops
 opener noun
 opening       noun
 openness      noun pl=- note=uncountable
@@ -67,6 +78,7 @@ operator      noun
 opinion       noun
 opioid noun
 opium noun pl=- note=uncountable
+opossum noun
 opponent      noun
 opportunity   noun
 opposition    noun
@@ -79,7 +91,10 @@ opus noun pl=opuses|opera[rare]
 oracle noun
 orange        noun
 orangutan noun
+oration noun
 orator noun
+oratory noun
+orb noun
 orbit         noun
 orchard noun
 orchestra     noun
@@ -88,6 +103,7 @@ ordeal noun
 order         noun
 orderly       noun
 ordinance     noun
+ordination noun
 ordnance noun pl=- note=uncountable
 ore           noun
 oregano noun pl=- note=uncountable
@@ -101,8 +117,10 @@ orifice noun
 origin        noun
 original      noun
 originality noun pl=- note=uncountable
+originator noun
 ornament      noun
 orphan noun
+orthography noun
 OS            noun abbr note=operating system
 ostrich noun
 otter noun
@@ -110,14 +128,19 @@ Ottoman noun note=plural Ottomans
 ottoman       noun note=furniture
 ounce noun
 outage noun
+outboard noun
 outbox noun
 outbreak      noun
 outburst noun
+outcast noun
 outcome       noun
+outcrop noun
 outcry noun
 outdoors noun pl=- note=the open air
+outfield noun
 outfielder noun
 outfit        noun
+outflow noun
 outlaw        noun
 outlay noun
 outlet        noun
@@ -142,11 +165,14 @@ overcoat noun
 overcrowding noun pl=- note=uncountable
 overdose noun
 overdraft noun
+overestimate noun
 overflow noun
 overhang noun
 overhaul noun
 overhead      noun
 overlap       noun
+overlay noun
+overload noun
 overpayment noun
 override noun
 overrun noun
@@ -154,6 +180,7 @@ overseer noun
 oversight     noun
 overthrow     noun
 overtime      noun pl=- note=uncountable
+overture noun
 overvaluation noun
 overview      noun
 owl           noun

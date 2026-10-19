@@ -7,6 +7,8 @@ radioactive adj
 radiological adj
 ragged adj cmp=more
 rainy adj cmp=er
+rambling adj cmp=more
+rampant adj adv=rampantly
 random adj adv=randomly
 rank adj cmp=er
 rapid adj cmp=more adv=rapidly
@@ -30,16 +32,20 @@ recordable adj
 recoverable adj
 recreational adj
 rectangular adj
+recurrent adj adv=recurrently
 red adj cmp=er
 reddish adj
 redundant adj
+referable adj
 reflective adj cmp=more
+reflex adj
 reformed adj
 refreshing adj adv=refreshingly
 refundable adj
 regal adj adv=regally
 regimental adj
 regional adj adv=regionally
+registrable adj
 regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
@@ -53,17 +59,22 @@ reliant adj
 religious adj cmp=more adv=religiously
 reluctant adj cmp=more adv=reluctantly
 remarkable adj cmp=more adv=remarkably
+remastered adj
 remedial adj
 reminiscent adj
 remote adj cmp=er adv=remotely
+removable adj
+renal adj
 renewable adj
 renowned adj
 rental adj
 repetitive adj adv=repetitively
 reportable adj
 representative adj
+repressive adj cmp=more
 reproductive adj
 republican adj
+repulsive adj cmp=more
 reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
@@ -84,15 +95,19 @@ restless adj cmp=more adv=restlessly
 restrictive adj cmp=more
 resultant adj
 retail adj
+retinal adj
 retroactive adj adv=retroactively
 retrospective adj adv=retrospectively
 reverend adj
 reverse adj
+reversible adj
 revolutionary adj
+rhetorical adj adv=rhetorically
 rhythmic adj adv=rhythmically
 Rican adj note=in Puerto Rican, Costa Rican
 rich adj cmp=er adv=richly
 ridiculous adj cmp=more adv=ridiculously
+rife adj
 right adj adv=rightly
 righteous adj adv=righteously
 rightful adj adv=rightfully
@@ -115,6 +130,8 @@ Romanian adj note=demonym or religious name, capitalized
 romantic adj cmp=more adv=romantically
 roomy adj cmp=er
 rosy adj cmp=er
+rotary adj
+rotational adj adv=rotationally
 rotten adj cmp=more
 rough adj cmp=er adv=roughly
 round adj cmp=er
@@ -125,6 +142,7 @@ ruddy adj cmp=er
 rude adj cmp=er adv=rudely
 rudimentary adj
 rugged adj cmp=more
+ruinous adj cmp=more adv=ruinously
 runaway adj attr_only
 runny adj cmp=er
 rural adj

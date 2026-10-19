@@ -19,6 +19,8 @@ undervalue verb
 underwrite verb prefix=under past=underwrote pp=underwritten
 undo verb prefix=un 3sg=undoes past=undid pp=undone
 undress verb prefix=un
+undulate verb
+unearth verb prefix=un
 unfold verb
 unfollow verb prefix=un
 unfriend verb prefix=un
@@ -28,15 +30,18 @@ unite         verb
 unlace verb prefix=un
 unleash verb
 unlink verb
+unload verb
 unlock        verb
 unmute verb
 unpack verb prefix=un
 unplug verb prefix=un
+unravel verb prefix=un
 unsubscribe verb prefix=un
 untie verb prefix=un
 unveil        verb
 unwind verb prefix=un past=unwound pp=unwound
 unzip verb prefix=un
+up verb style=colloquial note=to increase: upped the price
 update        verb
 upgrade       verb
 uphold        verb prefix=up past=upheld pp=upheld
@@ -45,6 +50,7 @@ upload verb
 upsell verb prefix=up past=upsold pp=upsold conf=85
 upset         verb prefix=up past=upset pp=upset
 upskill verb conf=85
+urbanize verb gb=urbanise|urbanize
 urge          verb
 use           verb
 usher verb

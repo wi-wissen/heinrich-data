@@ -1,3 +1,4 @@
+quadruple adj
 quaint        adj cmp=er adv=quaintly
 Quaker        adj
 qualitative adj adv=qualitatively

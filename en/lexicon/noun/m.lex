@@ -11,6 +11,7 @@ macro noun pl=macros
 madam          noun pl=madams|mesdames
 madame         noun pl=mesdames
 mademoiselle   noun pl=mesdemoiselles|mademoiselles
+madman noun pl=madmen
 madness        noun pl=- note=uncountable
 madonna        noun
 mafia noun
@@ -19,6 +20,7 @@ magic          noun pl=- note=uncountable
 magician noun
 magistrate     noun
 magnate noun
+magnesium noun pl=- note=uncountable
 magnet noun
 magnificence noun pl=- note=uncountable
 magnitude      noun
@@ -44,6 +46,7 @@ majority       noun
 make           noun
 maker          noun
 makeup         noun gb=make-up|makeup
+malady noun
 malaria noun pl=- note=uncountable
 Malay          noun
 Malaysian      noun
@@ -51,21 +54,28 @@ male           noun
 malfunction noun
 malice         noun pl=- note=uncountable
 mall           noun
+mallet noun
+malnutrition noun pl=- note=uncountable
 malpractice noun
 malware noun pl=- note=uncountable
 mama noun
 mamma          noun style=archaic note=mother
 mammal         noun
+mammoth noun
+mammy noun
 man            noun pl=men
 management     noun
 manager        noun
 Mandarin noun pl=- note=the Chinese language
 mandarin noun
 mandate        noun
+mandible noun
 mane noun
 maneuver noun gb=manoeuvre
 manga          noun pl=manga|mangas conf=90 note=plural usage varies
+manganese noun pl=- note=uncountable
 mango noun pl=mangoes|mangos
+mangrove noun
 manhood        noun pl=- note=uncountable
 manifest       noun
 manifestation noun
@@ -77,12 +87,14 @@ manner         noun
 manor          noun
 manpower noun pl=- note=uncountable
 mansion        noun
+manslaughter noun pl=- note=uncountable
 mantelpiece noun
 mantle         noun
 manual         noun
 manufacture    noun
 manufacturer   noun
 manufacturing  noun
+manure noun
 manuscript     noun
 map            noun
 maple          noun
@@ -110,6 +122,7 @@ marmalade noun pl=- note=uncountable
 marquess noun
 marquis        noun pl=marquises|marquis
 marriage       noun
+marrow noun
 marsh          noun
 marshal        noun
 martyr         noun
@@ -120,8 +133,10 @@ mascot         noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
+masquerade noun
 mass           noun
 massacre       noun
+massage noun
 mast           noun
 master         noun
 masterclass noun
@@ -130,16 +145,22 @@ mastery noun pl=- note=uncountable
 mat noun
 match          noun
 mate           noun
+mater noun note=mainly in alma mater, dura mater; dated British for mother
 material       noun
 maternity      noun pl=- note=uncountable
 math           noun pl=- region=US note=British maths
 mathematician  noun
 mathematics    noun pl=- note=uncountable, singular agreement
 maths noun pl=- region=GB note=mathematics; takes a singular verb; US math
+matrimony noun pl=- note=uncountable
 matrix         noun pl=matrices|matrixes
+matron noun
 matter         noun
 mattress noun
 maturity       noun
+mausoleum noun pl=mausoleums|mausolea
+max noun style=colloquial note=to the max; short for maximum
+maxim noun
 maximum        noun pl=maxima|maximums
 mayonnaise noun pl=- note=uncountable
 mayor          noun
@@ -152,7 +173,9 @@ meadow         noun
 meal           noun
 mealtime noun
 mean           noun
+meander noun
 meaning        noun
+meanness noun
 means          noun pl=means
 meantime       noun pl=- note=only singular (in the meantime)
 measles noun pl=- note=uncountable; takes a singular verb
@@ -176,7 +199,9 @@ meerkat noun
 meet           noun
 meeting        noun
 megabyte noun
+megawatt noun
 melancholy     noun pl=- note=uncountable
+melodrama noun
 melody         noun
 melon noun
 member         noun
@@ -188,6 +213,7 @@ memorandum     noun pl=memoranda|memorandums
 memorial       noun
 memory         noun
 menace noun
+mentality noun
 mentee noun
 mention        noun
 mentor         noun
@@ -208,9 +234,11 @@ mess           noun
 message        noun
 messenger      noun
 metabolism noun
+metabolite noun
 metadata noun pl=- note=uncountable
 metal          noun
 metaphor noun
+metaphysics noun pl=- note=takes a singular verb
 meteor noun
 meter          noun gb=metre sense=unit
 meter          noun sense=device
@@ -227,22 +255,32 @@ microchip noun
 microfinance noun pl=- note=uncountable
 microloan noun
 micromanagement noun pl=- note=uncountable
+microorganism noun
 microphone noun
+microprocessor noun
+microscope noun
 microwave noun
 midday noun
 middle         noun
 middleman noun pl=middlemen
 middleware noun pl=- note=uncountable
+midfield noun
 midfielder     noun
 midland noun note=the middle region of a country; the Midlands (England)
 midnight       noun
+midpoint noun
 midst          noun pl=- note=only singular (in the midst of)
+midterm noun
 midtown noun region=US
 midway noun region=US note=area of a fair with amusements
+midwife noun pl=midwives
+mien noun
 migrant        noun
 migration      noun
+mike noun style=colloquial note=short for microphone
 mil noun conf=90 note=thousandth of an inch; colloquially a million
 mile           noun
+mileage noun
 milestone      noun
 militant noun
 military       noun
@@ -251,11 +289,14 @@ milk           noun
 milkshake noun
 mill           noun
 millennium     noun pl=millennia|millenniums
+miller noun
+millimeter noun gb=millimetre
 millionaire noun
 millipede noun
 mimic noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
+mindset noun
 mine           noun
 miner          noun
 mineral        noun
@@ -268,17 +309,21 @@ minister       noun
 ministry       noun
 minor          noun
 minority       noun
+minstrel noun
 mint noun
 minute         noun
 miracle        noun
+mire noun
 mirror         noun
 mirth noun pl=- note=uncountable
+miscarriage noun
 mischief       noun pl=- note=uncountable
 misconduct     noun pl=- note=uncountable
 misdemeanor noun gb=misdemeanour
 misery         noun
 misfortune     noun
 misgiving noun
+mishap noun
 misinformation noun pl=- note=uncountable
 mismanagement noun pl=- note=uncountable
 mismatch noun
@@ -290,7 +335,9 @@ missionary     noun
 mist           noun
 mistake        noun
 mister         noun
+mistreatment noun pl=- note=uncountable
 mistress       noun
+mistrust noun pl=- note=uncountable
 misunderstanding noun
 misuse         noun
 mitigation     noun
@@ -304,23 +351,31 @@ moat noun
 mob            noun
 mobile         noun
 mobility       noun
+mobilization noun gb=mobilisation|mobilization
+moccasin noun
 mockery noun
+mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
+modal noun
 mode           noun
 model          noun
 modem noun
 moderate       noun
 moderation noun pl=- note=uncountable
 moderator noun
+modernist noun
 modernization noun gb=modernisation|modernization
 modesty        noun pl=- note=uncountable
 modification   noun
 modifier noun
+modulation noun
 module         noun
 Mohawk noun
 moisture       noun pl=- note=uncountable
+molar noun
 mold           noun gb=mould
 mole noun
 molecule       noun
+mollusk noun gb=mollusc
 mom            noun region=US note=British mum
 moment         noun
 momentum       noun pl=momenta note=plural mainly in physics
@@ -332,12 +387,17 @@ monetization noun gb=monetisation|monetization
 money          noun pl=moneys|monies
 moneylender noun
 Mongol noun
+mongrel noun
+moniker noun
 monitor        noun
 monk           noun
 monkey         noun
+monograph noun
+monologue noun
 monoplane      noun
 monopoly       noun
 monotony noun pl=- note=uncountable
+monoxide noun
 monsieur       noun pl=messieurs
 monsoon noun
 monster        noun
@@ -350,15 +410,18 @@ moonlight      noun pl=- note=uncountable
 moor           noun
 moose noun pl=moose
 mop noun
+moraine noun
 moral          noun
 morale noun pl=- note=uncountable
 morality       noun
 moratorium     noun pl=moratoria|moratoriums
 Mormon noun
+morn noun style=archaic note=poetic for morning
 morning        noun
 Moroccan noun
 morphology noun
 morrow         noun pl=- style=archaic note=the following day
+morsel noun
 mortal         noun
 mortality      noun
 mortar noun
@@ -366,6 +429,7 @@ mortgage       noun
 mortgagee noun
 mortgagor noun
 mortification noun
+mortuary noun
 mosaic         noun
 mosque         noun
 mosquito noun pl=mosquitoes|mosquitos
@@ -388,6 +452,9 @@ motto          noun pl=mottoes|mottos
 mound          noun
 mount          noun
 mountain       noun
+mountaineer noun
+mountaineering noun pl=- note=uncountable (the sport)
+mourner noun
 mourning       noun pl=- note=uncountable
 mouse          noun pl=mice
 mouth          noun
@@ -398,6 +465,7 @@ MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
 MS             noun abbr pl=MSS note=manuscript (plural MSS); multiple sclerosis
 mud            noun pl=- note=uncountable
+muddle noun
 muffin noun
 mug noun
 Mughal noun
@@ -405,6 +473,7 @@ mule           noun
 multimedia noun pl=- note=uncountable
 multinational  noun
 multiple       noun
+multiplex noun
 multiplication noun
 multiplier noun
 multitasking noun pl=- note=uncountable
@@ -425,14 +494,19 @@ mushroom noun
 music          noun pl=- note=uncountable
 musical        noun
 musician       noun
+musicologist noun
 musket noun
+musketry noun pl=- note=uncountable
 Muslim         noun
+muslin noun
 mussel noun
 mustache noun gb=moustache|mustache conf=90 note=moustache is also frequent in American texts
 mustard noun
 muster noun
+mutant noun
 mutation       noun
 mute noun
+mutilation noun
 mutiny noun
 mutter         noun
 mutton noun pl=- note=uncountable

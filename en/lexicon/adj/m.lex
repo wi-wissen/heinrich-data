@@ -16,6 +16,8 @@ male          adj
 malicious     adj adv=maliciously
 malign adj cmp=more
 malignant adj
+mammoth adj
+manageable adj cmp=more
 managerial adj
 mandatory     adj
 manifest      adj adv=manifestly
@@ -30,12 +32,14 @@ marital adj
 maritime      adj
 marked adj cmp=more adv=markedly
 marketable adj cmp=more
+marshy adj cmp=er
 martial       adj
 marvelous     adj gb=marvellous adv=marvelously
 Marxist adj
 masculine     adj
 mass          adj attr_only
 massive       adj cmp=more adv=massively
+masterful adj cmp=more adv=masterfully
 matching      adj
 material      adj adv=materially
 maternal      adj
@@ -51,6 +55,7 @@ meaningful    adj cmp=more adv=meaningfully
 meaningless adj
 measurable    adj adv=measurably
 mechanical    adj adv=mechanically
+medial adj adv=medially
 median        adj
 medical       adj adv=medically
 medicinal     adj
@@ -68,17 +73,22 @@ mental        adj adv=mentally
 mercantile adj
 mercenary adj
 merciful adj cmp=more adv=mercifully
+merciless adj cmp=more adv=mercilessly
 mere          adj attr_only adv=merely
 merry         adj cmp=er adv=merrily
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
 metaphysical adj
+meteorological adj
+methodical adj cmp=more adv=methodically
 Methodist     adj
+methodological adj adv=methodologically
 meticulous adj cmp=more adv=meticulously
 metric        adj
 metropolitan  adj
 Mexican       adj
+microbial adj
 micropolitan  adj note=US census term
 microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
@@ -103,6 +113,7 @@ miraculous adj cmp=more adv=miraculously
 miscellaneous adj
 mischievous adj cmp=more adv=mischievously
 miserable     adj cmp=more adv=miserably
+misguided adj adv=misguidedly
 misleading    adj adv=misleadingly
 missing       adj
 missionary    adj
@@ -110,12 +121,16 @@ misty adj cmp=er
 mitochondrial adj
 mobile        adj
 mock          adj attr_only
+mod adj style=colloquial note=1960s fashion
+modal adj
 moderate      adj adv=moderately
 modern        adj cmp=more
 modest        adj cmp=more adv=modestly
 modular       adj
 moist         adj cmp=er
+molar adj
 molecular     adj
+molten adj
 momentary     adj adv=momentarily
 momentous adj
 monastic      adj
@@ -131,7 +146,9 @@ moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
 Moroccan adj
+morphological adj adv=morphologically
 mortal        adj adv=mortally
+mortuary adj
 motionless    adj
 mountainous   adj
 mournful adj adv=mournfully
@@ -145,12 +162,14 @@ multilingual adj
 multinational adj
 multiplayer adj
 multiple      adj
+multipurpose adj
 municipal     adj
 murderous adj
 muscular      adj
 mushy adj cmp=er
 musical       adj adv=musically
 Muslim        adj
+mutant adj
 mute adj adv=mutely
 mutual        adj adv=mutually
 myriad adj

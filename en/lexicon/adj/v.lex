@@ -1,4 +1,5 @@
 vacant        adj
+vagrant adj
 vague         adj cmp=er adv=vaguely
 vain          adj cmp=er adv=vainly
 valiant adj adv=valiantly
@@ -13,13 +14,18 @@ vehement adj adv=vehemently
 venerable     adj
 Venetian      adj
 Venezuelan adj
+venomous adj cmp=more
+venous adj
+ventral adj adv=ventrally
 verbal        adj adv=verbally
+verifiable adj adv=verifiably
 veritable adj
 vernacular adj
 versatile adj cmp=more
 vertical      adj adv=vertically
 vested        adj attr_only
 veterinary    adj
+vexatious adj adv=vexatiously
 viable        adj
 vibrant       adj adv=vibrantly
 vibratory adj
@@ -30,6 +36,8 @@ Vietnamese    adj
 vigilant      adj adv=vigilantly
 vigorous      adj adv=vigorously
 vile          adj cmp=er
+villainous adj
+vindictive adj cmp=more adv=vindictively
 vintage adj
 violent       adj cmp=more adv=violently
 violet        adj
@@ -44,9 +52,11 @@ vital         adj adv=vitally
 vivid         adj cmp=more adv=vividly
 vocal         adj adv=vocally
 vocational    adj
+voiceless adj
 void          adj
 volatile      adj cmp=more
 volcanic      adj
+volumetric adj
 voluntary     adj adv=voluntarily
 vulgar        adj cmp=more adv=vulgarly
 vulnerable    adj cmp=more
