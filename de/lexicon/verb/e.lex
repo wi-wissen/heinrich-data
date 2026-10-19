@@ -235,9 +235,11 @@ entlasten verb class=weak pp=entlastet perf=haben
 entlaufen verb class=strong 3sg=entläuft past=entlief pp=entlaufen subj2=entliefe perf=sein
 entlehnen verb class=weak pp=entlehnt perf=haben
 entleihen verb class=strong 3sg=entleiht past=entlieh pp=entliehen subj2=entliehe perf=haben
+entlohnen verb class=weak pp=entlohnt perf=haben
 entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
 entpacken verb class=weak pp=entpackt perf=haben
+entpuppen verb class=weak pp=entpuppt perf=haben refl=acc
 entreißen verb class=strong 3sg=entreißt past=entriss pp=entrissen subj2=entrisse perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
 entrücken verb class=weak pp=entrückt perf=haben pp_cmp
@@ -285,6 +287,7 @@ erbauen verb class=weak pp=erbaut perf=haben
 erbeben verb class=weak pp=erbebt perf=haben
 erben verb class=weak pp=geerbt perf=haben
 erbeuten verb class=weak pp=erbeutet perf=haben
+erbieten verb class=strong 3sg=erbietet past=erbot pp=erboten subj2=erböte perf=haben refl=acc style=archaic note=sich erbieten, etwas zu tun
 erbitten verb class=strong 3sg=erbittet past=erbat subj2=erbäte pp=erbeten perf=haben
 erblassen verb class=weak pp=erblasst perf=sein
 erblicken verb class=weak pp=erblickt perf=haben
@@ -314,6 +317,7 @@ ergattern verb class=weak pp=ergattert perf=haben
 ergeben verb class=strong 3sg=ergibt past=ergab pp=ergeben subj2=ergäbe perf=haben refl=acc
 ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=sein
 ergetzen verb class=weak pp=ergetzt perf=haben refl=acc style=archaic
+ergießen verb class=strong 3sg=ergießt past=ergoss pp=ergossen subj2=ergösse perf=haben refl=acc
 ergrauen verb class=weak pp=ergraut perf=sein
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben
 ergrimmen verb class=weak pp=ergrimmt perf=haben

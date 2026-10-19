@@ -6,6 +6,7 @@ panamerikanisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele
+paritätisch adj
 parlamentarisch adj
 partiell adj
 passiv adj cmp=passiver sup=passivsten
@@ -15,6 +16,7 @@ pauschal adj
 pazifisch adj
 peinlich adj cmp=peinlicher sup=peinlichsten
 perfekt adj
+perfide adj cmp=perfider sup=perfidesten
 periodisch adj
 permanent adj
 persisch adj
@@ -77,6 +79,7 @@ problematisch adj cmp=problematischer sup=problematischsten
 produktiv adj cmp=produktiver sup=produktivsten
 professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
+progressiv adj cmp=progressiver sup=progressivsten
 prominent adj cmp=prominenter sup=prominentesten
 proportional adj
 protestantisch adj

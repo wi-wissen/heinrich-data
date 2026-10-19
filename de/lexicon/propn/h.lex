@@ -4,6 +4,7 @@ Haiti propn g=n gen=Haitis pl=- note=country
 Halberstadt propn g=n gen=Halberstadts pl=- note=city in Saxony-Anhalt
 Halle propn g=n gen=Halles pl=- sense=city note=Halle (Saale)
 Hamas propn g=f gen=Hamas pl=- note=organisation; die Hamas
+Hambach propn g=n gen=Hambachs pl=- demonym=Hambacher note=proper name; Hambacher Fest, Hambacher Forst
 Hamburg propn g=n gen=Hamburgs pl=- demonym=Hamburger note=proper name; no plural
 Hamm propn g=n gen=Hamms pl=- note=city in North Rhine-Westphalia
 Hampshire propn g=n gen=Hampshires pl=- note=English county

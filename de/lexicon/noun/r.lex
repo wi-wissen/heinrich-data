@@ -47,6 +47,7 @@ Rassismus noun g=m gen=Rassismus pl=- note=mass noun
 Rast noun g=f gen=Rast pl=- note=mass noun
 Rat noun g=m gen=Rates|Rats pl=Räte
 Rate noun g=f gen=Rate pl=Raten
+Ratifikation noun g=f gen=Ratifikation pl=Ratifikationen
 Ratifizierung noun g=f gen=Ratifizierung pl=Ratifizierungen
 Rätin noun g=f gen=Rätin pl=Rätinnen note=member of a council (Stadträtin, Betriebsrätin)
 Rating noun g=n gen=Ratings pl=Ratings
@@ -115,17 +116,20 @@ Redner noun g=m gen=Redners pl=Redner
 Rednerin noun g=f gen=Rednerin pl=Rednerinnen
 Reduktion noun g=f gen=Reduktion pl=Reduktionen
 Reduzierung noun g=f gen=Reduzierung pl=Reduzierungen
+Reede noun g=f gen=Reede pl=Reeden
 Reeder noun g=m gen=Reeders pl=Reeder
 Reederei noun g=f gen=Reederei pl=Reedereien
 Reederin noun g=f gen=Reederin pl=Reederinnen
 Referat noun g=n gen=Referats|Referates pl=Referate
 Referendar noun g=m gen=Referendars pl=Referendare
+Referendariat noun g=n gen=Referendariats|Referendariates pl=Referendariate
 Referendarin noun g=f gen=Referendarin pl=Referendarinnen
 Referendum noun g=n gen=Referendums pl=Referenden|Referenda
 Referent noun g=m gen=Referenten pl=Referenten
 Referentin noun g=f gen=Referentin pl=Referentinnen
 Referenz noun g=f gen=Referenz pl=Referenzen
 Reflektor noun g=m gen=Reflektors pl=Reflektoren
+Reflex noun g=m gen=Reflexes pl=Reflexe
 Reflexion noun g=f gen=Reflexion pl=Reflexionen
 Reform noun g=f gen=Reform pl=Reformen
 Reformation noun g=f gen=Reformation pl=- note=mostly the historical Reformation; Reformationen is rare
@@ -135,6 +139,7 @@ Regal noun g=n gen=Regals pl=Regale
 Regel noun g=f gen=Regel pl=Regeln
 Regelung noun g=f gen=Regelung pl=Regelungen
 Regen noun g=m gen=Regens pl=- note=mass noun; Regenfälle for the plural
+Regeneration noun g=f gen=Regeneration pl=Regenerationen
 Regent noun g=m gen=Regenten pl=Regenten
 Regentin noun g=f gen=Regentin pl=Regentinnen
 Regentschaft noun g=f gen=Regentschaft pl=Regentschaften
@@ -150,6 +155,7 @@ Register noun g=n gen=Registers pl=Register
 Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Reglement noun g=n gen=Reglements pl=Reglements
+Regularien noun g=pl
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
 Regung noun g=f gen=Regung pl=Regungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
@@ -225,6 +231,7 @@ Repräsentant noun g=m gen=Repräsentanten pl=Repräsentanten
 Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Repräsentantin noun g=f gen=Repräsentantin pl=Repräsentantinnen
 Repräsentation noun g=f gen=Repräsentation pl=Repräsentationen
+Repressalie noun g=f gen=Repressalie pl=Repressalien note=mostly plural
 Repression noun g=f gen=Repression pl=Repressionen
 Reproduktion noun g=f gen=Reproduktion pl=Reproduktionen
 Reptil noun g=n gen=Reptils pl=Reptilien|Reptile

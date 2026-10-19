@@ -54,6 +54,7 @@ Bremen        propn g=n gen=Bremens pl=- demonym=Bremer note=proper name; no plu
 Bremerhaven propn g=n gen=Bremerhavens pl=- note=proper name; no plural
 Breslau propn g=n gen=Breslaus pl=- note=proper name; no plural
 Bretagne propn g=f gen=Bretagne pl=- note=proper name; no plural
+Brieg propn g=n gen=Briegs pl=- note=proper name; German name of Brzeg
 Bristol propn g=n gen=Bristols pl=- note=proper name; no plural
 Brünn propn g=n gen=Brünns pl=- note=proper name; no plural
 Brüssel       propn g=n gen=Brüssels pl=- note=proper name; no plural

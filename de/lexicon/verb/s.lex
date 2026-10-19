@@ -10,6 +10,7 @@ sanieren verb class=weak pp=saniert perf=haben
 sanktionieren verb class=weak pp=sanktioniert perf=haben
 satteln verb class=weak pp=gesattelt perf=haben
 sättigen verb class=weak pp=gesättigt perf=haben
+säubern verb class=weak pp=gesäubert perf=haben
 saufen verb class=strong 3sg=säuft past=soff pp=gesoffen subj2=söffe perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
 säugen verb class=weak pp=gesäugt perf=haben
@@ -100,6 +101,7 @@ schnäuzen verb class=weak pp=geschnäuzt perf=haben refl=acc
 schneiden verb class=strong 3sg=schneidet past=schnitt pp=geschnitten subj2=schnitte perf=haben refl=acc
 schneidern verb class=weak pp=geschneidert perf=haben
 schneien verb class=weak pp=geschneit perf=haben
+schnellen verb class=weak pp=geschnellt perf=haben|sein
 schniefen verb class=weak pp=geschnieft perf=haben
 schnippeln verb class=weak pp=geschnippelt perf=haben
 schnitzen verb class=weak pp=geschnitzt perf=haben
@@ -193,6 +195,7 @@ spekulieren verb class=weak pp=spekuliert perf=haben
 spenden verb class=weak pp=gespendet perf=haben
 sperren verb class=weak pp=gesperrt perf=haben refl=acc
 spezialisieren verb class=weak pp=spezialisiert perf=haben refl=acc
+spezifizieren verb class=weak pp=spezifiziert perf=haben
 spicken verb class=weak pp=gespickt perf=haben
 spiegeln verb class=weak pp=gespiegelt perf=haben refl=acc
 spielen verb class=weak pp=gespielt perf=haben

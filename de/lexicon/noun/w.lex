@@ -11,6 +11,7 @@ Waffe noun g=f gen=Waffe pl=Waffen
 Waffel noun g=f gen=Waffel pl=Waffeln
 Wagen noun g=m gen=Wagens pl=Wagen|Wägen[AT]
 Waggon noun g=m gen=Waggons pl=Waggons
+Wagnis noun g=n gen=Wagnisses pl=Wagnisse
 Wahl noun g=f gen=Wahl pl=Wahlen
 Wähler noun g=m gen=Wählers pl=Wähler
 Wählerin noun g=f gen=Wählerin pl=Wählerinnen
@@ -36,6 +37,7 @@ Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
 Walze noun g=f gen=Walze pl=Walzen
 Walzer noun g=m gen=Walzers pl=Walzer
+Wams noun g=n gen=Wamses pl=Wämser
 Wand noun g=f gen=Wand pl=Wände
 Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
@@ -85,6 +87,7 @@ Wegfall noun g=m gen=Wegfalls|Wegfalles pl=- note=no plural
 Wehr noun g=n gen=Wehrs|Wehres pl=Wehre sense=weir
 Wehr noun g=f gen=Wehr pl=Wehren sense=defence note=sich zur Wehr setzen
 Wehrmacht noun g=f gen=Wehrmacht pl=- note=no plural
+Wehrpflichtige noun g=m|f decl=adj
 Weib noun g=n gen=Weibes|Weibs[rare] pl=Weiber style=archaic note=woman (old or derogatory)
 Weibchen noun g=n gen=Weibchens pl=Weibchen
 Weiche noun g=f gen=Weiche pl=Weichen
@@ -123,8 +126,10 @@ Welt noun g=f gen=Welt pl=Welten
 Weltall noun g=n gen=Weltalls pl=- note=no plural
 Weltbild noun g=n gen=Weltbilds|Weltbildes pl=Weltbilder
 Weltcup noun g=m gen=Weltcups pl=Weltcups
+Weltergewicht noun g=n gen=Weltergewichts pl=- note=boxing weight class
 Weltschmerz noun g=m gen=Weltschmerzes pl=- note=no plural
 Wende noun g=f gen=Wende pl=Wenden
+Wendel noun g=f gen=Wendel pl=Wendeln
 Wendung noun g=f gen=Wendung pl=Wendungen
 Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen

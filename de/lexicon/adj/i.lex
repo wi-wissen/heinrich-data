@@ -17,6 +17,7 @@ indisch adj
 individuell adj cmp=individueller sup=individuellsten
 indonesisch adj
 industriell adj
+informationell adj
 informativ adj
 inhaltlich adj
 inklusiv adj
@@ -49,6 +50,7 @@ irisch adj
 ironisch adj cmp=ironischer sup=ironischsten
 irrational adj
 irre adj cmp=irrer sup=irrsten
+irreparabel adj attr=irreparable
 irrtümlich adj
 islamisch adj
 islamistisch adj

@@ -1,5 +1,6 @@
 eben adv type=time note=eben erst, eben noch; the modal particle is in closed/particles.lex
 ebenda adv
+ebendort adv type=place
 ebensoviel adv spelling=old note=old spelling of ebenso viel
 ebensowenig adv type=degree
 ehedem adv type=time

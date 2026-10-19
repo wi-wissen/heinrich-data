@@ -25,6 +25,7 @@ deutschsprachig adj
 dezent adj cmp=dezenter sup=dezentesten
 dezentral adj
 dezidiert adj cmp=dezidierter sup=dezidiertesten
+diagnostisch adj
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dichterisch adj
@@ -35,6 +36,7 @@ dienlich adj
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
+diesjährig adj
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
 diktatorisch adj

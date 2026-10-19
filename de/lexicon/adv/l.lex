@@ -6,3 +6,4 @@ letztendlich adv
 letztlich adv
 letztmals adv
 live adv
+logischerweise adv type=modal

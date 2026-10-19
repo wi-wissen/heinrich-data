@@ -14,6 +14,7 @@ familiär adj cmp=familiärer sup=familiärsten
 fantastisch adj cmp=fantastischer sup=fantastischsten
 farbenfroh adj cmp=farbenfroher sup=farbenfrohsten
 farbig adj cmp=farbiger sup=farbigsten
+farblich adj
 faschistisch adj
 fatal adj cmp=fataler sup=fatalsten
 faul adj cmp=fauler sup=faulsten
@@ -67,10 +68,12 @@ fragil adj cmp=fragiler sup=fragilsten
 fraglich adj
 fränkisch adj
 französisch adj
+französischsprachig adj
 frech adj cmp=frecher sup=frechsten
 frei adj cmp=freier sup=freiesten|freisten[rare]
 freiwillig adj
 fremd adj cmp=fremder sup=fremdesten
+fremdsprachig adj
 freudig adj cmp=freudiger sup=freudigsten
 freundlich adj cmp=freundlicher sup=freundlichsten
 freundschaftlich adj
@@ -90,6 +93,7 @@ fünfzählig adj
 fünfziger adj indecl note=die fünfziger Jahre
 funkelnd adj cmp=funkelnder sup=funkelndsten
 funktional adj
+funktionell adj
 furchtbar adj cmp=furchtbarer sup=furchtbarsten
 fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten

@@ -34,10 +34,12 @@ begehrt adj cmp=begehrter sup=begehrtesten
 begeistert adj cmp=begeisterter sup=begeistertsten
 begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
+begütert adj
 behaart adj
 behaftet adj note=mit etwas behaftet
 behaglich adj cmp=behaglicher sup=behaglichsten
 beharrlich adj
+beherzt adj cmp=beherzter sup=beherztesten
 behilflich adj
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
@@ -79,6 +81,7 @@ besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
 bestmöglich adj
+bestplatziert adj
 bestrebt adj note=bestrebt sein, etwas zu tun
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
@@ -120,6 +123,7 @@ blutig adj cmp=blutiger sup=blutigsten
 bockig adj cmp=bockiger sup=bockigsten
 böhmisch adj
 böig adj
+bolivianisch adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 bosnisch adj
@@ -130,6 +134,7 @@ braun         adj cmp=brauner sup=braunsten
 bräunlich adj
 brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
+bremisch adj
 brennbar adj
 britisch adj
 bronzen adj note=made of bronze; not compared

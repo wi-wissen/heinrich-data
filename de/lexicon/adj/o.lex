@@ -26,6 +26,7 @@ okay adj indecl
 olympisch adj
 online adj indecl
 operativ adj
+oppositionell adj
 optimal adj
 optimistisch adj cmp=optimistischer sup=optimistischsten
 optisch adj
@@ -42,5 +43,7 @@ orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj
 österreichisch adj
+ostfriesisch adj
 östlich adj cmp=östlicher sup=östlichsten note=also a genitive preposition (closed/prepositions.lex)
+osttimoresisch adj
 oval adj

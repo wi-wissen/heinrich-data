@@ -7,6 +7,7 @@ Teheran propn g=n gen=Teherans pl=- note=proper name; no plural
 Telekom propn g=f gen=Telekom pl=- note=die Telekom; company name
 Texas propn g=n gen=Texas pl=- note=proper name, no plural; genitive unmarked (Texas')
 Thailand propn g=n gen=Thailands pl=- note=proper name, no plural
+Theben propn g=n gen=Thebens pl=- note=proper name; ancient city
 Thun propn g=n gen=Thuns pl=- note=proper name; no plural
 Thüringen propn g=n gen=Thüringens pl=- note=proper name, no plural
 THW propn g=n gen=THW pl=- note=Technisches Hilfswerk (das THW)

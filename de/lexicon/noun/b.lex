@@ -4,6 +4,7 @@ Babysitterin noun g=f gen=Babysitterin pl=Babysitterinnen
 Bach          noun g=m gen=Baches|Bachs pl=Bäche
 Bache noun g=f gen=Bache pl=Bachen
 Bachelor noun g=m gen=Bachelors pl=Bachelor|Bachelors
+Bächlein noun g=n gen=Bächleins pl=Bächlein
 Backblech noun g=n gen=Backblechs|Backbleches pl=Backbleche
 Backe noun g=f gen=Backe pl=Backen
 Bäcker noun g=m gen=Bäckers pl=Bäcker
@@ -25,6 +26,7 @@ Bahnsteig noun g=m gen=Bahnsteigs|Bahnsteiges pl=Bahnsteige
 Bahre noun g=f gen=Bahre pl=Bahren
 Bakterie noun g=f gen=Bakterie pl=Bakterien
 Balance noun g=f gen=Balance pl=Balancen
+Baldachin noun g=m gen=Baldachins pl=Baldachine
 Balken noun g=m gen=Balkens pl=Balken
 Balkon noun g=m gen=Balkons pl=Balkone|Balkons[rare]
 Ball noun g=m gen=Balls|Balles pl=Bälle
@@ -33,6 +35,7 @@ Ballaststoff noun g=m gen=Ballaststoffs|Ballaststoffes pl=Ballaststoffe
 Ballen noun g=m gen=Ballens pl=Ballen
 Ballett noun g=n gen=Balletts|Ballettes pl=Ballette
 Ballon noun g=m gen=Ballons pl=Ballons|Ballone
+Ballung noun g=f gen=Ballung pl=Ballungen
 Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
 Balsam noun g=m gen=Balsams pl=Balsame
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
@@ -81,6 +84,7 @@ Basler noun g=m gen=Baslers pl=Basler note=inhabitant of Basel; also attribute (
 Bass noun g=m gen=Basses pl=Bässe
 Bassist noun g=m gen=Bassisten pl=Bassisten
 Bassistin noun g=f gen=Bassistin pl=Bassistinnen
+Bastard noun g=m gen=Bastards pl=Bastarde
 Bastion noun g=f gen=Bastion pl=Bastionen
 Bataillon noun g=n gen=Bataillons pl=Bataillone
 Batterie noun g=f gen=Batterie pl=Batterien
@@ -128,6 +132,7 @@ Bedienung noun g=f gen=Bedienung pl=Bedienungen
 Bedingung     noun g=f gen=Bedingung pl=Bedingungen
 Bedrängnis noun g=f gen=Bedrängnis pl=Bedrängnisse
 Bedrohung noun g=f gen=Bedrohung pl=Bedrohungen
+Beduine noun g=m gen=Beduinen pl=Beduinen
 Bedürfnis noun g=n gen=Bedürfnisses pl=Bedürfnisse
 Bedürftigkeit noun g=f gen=Bedürftigkeit pl=- note=abstract noun
 Beeinflussung noun g=f gen=Beeinflussung pl=Beeinflussungen
@@ -247,6 +252,7 @@ Benediktiner noun g=m gen=Benediktiners pl=Benediktiner
 Benefit noun g=m gen=Benefits pl=Benefits
 Benehmen noun g=n gen=Benehmens pl=- note=mass noun
 Benennung noun g=f gen=Benennung pl=Benennungen
+Bengel noun g=m gen=Bengels pl=Bengel
 Benutzer noun g=m gen=Benutzers pl=Benutzer
 Benutzerin noun g=f gen=Benutzerin pl=Benutzerinnen
 Benutzung noun g=f gen=Benutzung pl=- note=mass noun
@@ -445,6 +451,7 @@ Bildnis noun g=n gen=Bildnisses pl=Bildnisse
 Bildschirm noun g=m gen=Bildschirms|Bildschirmes pl=Bildschirme
 Bildschirmschoner noun g=m gen=Bildschirmschoners pl=Bildschirmschoner
 Bildung       noun g=f gen=Bildung pl=Bildungen
+Billard noun g=n gen=Billards pl=- note=the game
 Billigkeit noun g=f gen=Billigkeit pl=- note=legal: equity (aus Billigkeitsgründen); also cheapness
 Billigung noun g=f gen=Billigung pl=Billigungen
 Billion noun g=f gen=Billion pl=Billionen
@@ -525,21 +532,26 @@ Bohrung noun g=f gen=Bohrung pl=Bohrungen
 Böller noun g=m gen=Böllers pl=Böller
 Bollerwagen noun g=m gen=Bollerwagens pl=Bollerwagen
 Bollwerk noun g=n gen=Bollwerks|Bollwerkes pl=Bollwerke
+Bolschewik noun g=m gen=Bolschewiken pl=Bolschewiki|Bolschewiken note=weak masculine; plural Bolschewiki (Russian) or Bolschewiken
 Bolzplatz noun g=m gen=Bolzplatzes pl=Bolzplätze
 Bombardierung noun g=f gen=Bombardierung pl=Bombardierungen
 Bombe noun g=f gen=Bombe pl=Bomben
 Bomber noun g=m gen=Bombers pl=Bomber
 Bon noun g=m gen=Bons pl=Bons
 Bonbon noun g=n|m gen=Bonbons pl=Bonbons
+Bond noun g=m gen=Bonds pl=Bonds note=bond (finance)
 Bonität noun g=f gen=Bonität pl=Bonitäten
 Bonner noun g=m gen=Bonners pl=Bonner note=inhabitant of Bonn
 Bonus noun g=m gen=Bonus|Bonusses pl=Bonusse|Boni
 Boom noun g=m gen=Booms pl=Booms
 Boot          noun g=n gen=Bootes|Boots pl=Boote
+Bor noun g=n gen=Bors pl=- note=chemical element
 Bord          noun g=m gen=Bords|Bordes pl=Borde conf=70 note=an Bord; plural rare
 Börde noun g=f gen=Börde pl=Börden
 Born noun g=m gen=Borns|Bornes pl=Borne conf=85 note=poetic: spring, well
 Börse noun g=f gen=Börse pl=Börsen
+Borste noun g=f gen=Borste pl=Borsten
+Böschung noun g=f gen=Böschung pl=Böschungen
 Bösewicht noun g=m gen=Bösewichts|Bösewichtes pl=Bösewichte
 Bosheit noun g=f gen=Bosheit pl=Bosheiten
 Boss noun g=m gen=Bosses pl=Bosse
@@ -550,6 +562,7 @@ Bote noun g=m gen=Boten pl=Boten
 Botschaft     noun g=f gen=Botschaft pl=Botschaften
 Botschafter noun g=m gen=Botschafters pl=Botschafter
 Botschafterin noun g=f gen=Botschafterin pl=Botschafterinnen
+Böttcher noun g=m gen=Böttchers pl=Böttcher
 Boulevardpresse noun g=f gen=Boulevardpresse pl=- note=no plural
 Boutique noun g=f gen=Boutique pl=Boutiquen
 Box noun g=f gen=Box pl=Boxen
@@ -590,6 +603,7 @@ Briefträgerin noun g=f gen=Briefträgerin pl=Briefträgerinnen
 Briefwahl noun g=f gen=Briefwahl pl=Briefwahlen
 Brigade noun g=f gen=Brigade pl=Brigaden
 Brigadegeneral noun g=m gen=Brigadegenerals pl=Brigadegenerale|Brigadegeneräle
+Brillant noun g=m gen=Brillanten pl=Brillanten note=cut diamond
 Brille noun g=f gen=Brille pl=Brillen
 Brillengestell noun g=n gen=Brillengestells pl=Brillengestelle
 Brise noun g=f gen=Brise pl=Brisen

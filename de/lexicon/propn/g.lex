@@ -13,6 +13,7 @@ Glasgow propn g=n gen=Glasgows pl=- note=proper name; no plural
 Glatz propn g=n gen=Glatz pl=- note=place name (Kłodzko); bare genitive on an s-sound
 Google propn g=n gen=Googles|Google pl=- conf=70 note=company; gender unsure
 Görlitz propn g=n gen=Görlitz pl=- note=city in Saxony; bare genitive after s-sound
+Görz propn g=n gen=Görz pl=- note=proper name; German name of Gorizia; bare genitive (sibilant)
 Goslar propn g=n gen=Goslars pl=- note=city in Lower Saxony
 Göteborg propn g=n gen=Göteborgs pl=- note=city in Sweden
 Gotha propn g=n gen=Gothas pl=- note=proper name; no plural
@@ -23,6 +24,7 @@ Graz propn g=n gen=Graz pl=- demonym=Grazer note=proper name; no plural
 Greifswald propn g=n gen=Greifswalds pl=- note=city in Mecklenburg-Western Pomerania
 Greiz propn g=n gen=Greiz pl=- note=town in Thuringia; s-sound, bare genitive
 Griechenland propn g=n gen=Griechenlands pl=- note=place name; no plural
+Grimma propn g=n gen=Grimmas pl=- note=proper name; no plural
 Groningen propn g=n gen=Groningens pl=- note=city in the Netherlands
 Großbritannien propn g=n gen=Großbritanniens pl=- note=place name; no plural
 Guatemala propn g=n gen=Guatemalas pl=- note=country

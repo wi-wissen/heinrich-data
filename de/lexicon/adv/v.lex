@@ -1,6 +1,7 @@
 väterlicherseits adv
 vergleichsweise adv
 vielerorts adv
+vollauf adv type=degree
 vollends adv
 vorab adv
 voran adv

@@ -49,6 +49,7 @@ debütieren verb class=weak pp=debütiert perf=haben
 deckeln verb class=weak pp=gedeckelt perf=haben note=Kosten deckeln (cap)
 decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
+degradieren verb class=weak pp=degradiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
 deinstallieren verb class=weak pp=deinstalliert perf=haben
 deklarieren verb class=weak pp=deklariert perf=haben

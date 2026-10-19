@@ -22,6 +22,7 @@ rechtskräftig adj
 rechtswidrig adj
 rechtwinklig adj
 rechtzeitig adj
+redaktionell adj
 redlich adj cmp=redlicher sup=redlichsten
 reell adj
 reflexiv adj
@@ -51,6 +52,7 @@ respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 restriktiv adj cmp=restriktiver sup=restriktivsten
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
+rezent adj
 rheinisch adj
 rheinland-pfälzisch adj
 rhetorisch adj
@@ -74,6 +76,7 @@ rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj
 rund adj cmp=runder sup=rundesten
+rundlich adj cmp=rundlicher sup=rundlichsten
 russisch adj
 rüstig adj cmp=rüstiger sup=rüstigsten
 rutschig adj cmp=rutschiger sup=rutschigsten
