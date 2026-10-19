@@ -4,6 +4,7 @@ cabbage noun
 cabin noun
 cabinet noun
 cable noun
+cabman noun pl=cabmen
 cache noun
 cactus noun pl=cacti|cactuses
 cadence noun
@@ -31,9 +32,11 @@ caliphate noun
 call noun
 callback noun
 caller noun
+calligraphy noun pl=- note=uncountable
 calm noun
 calmness noun pl=- note=uncountable
 calorie noun
+calumet noun conf=90 note=a ceremonial pipe
 cam noun
 Cambodian noun
 camel noun
@@ -44,6 +47,7 @@ camouflage noun
 camp noun
 campaign noun
 campaigner noun
+camper noun
 campground noun
 camping noun pl=- note=uncountable
 campsite noun
@@ -58,6 +62,7 @@ candidacy noun
 candidate noun
 candidature noun
 candle noun
+candlestick noun
 candor noun gb=candour pl=- note=uncountable
 candy noun
 cane noun
@@ -74,6 +79,7 @@ cant noun
 canteen noun
 canter noun
 canton noun
+cantor noun
 canvas noun pl=canvases|canvasses
 canyon noun
 cap noun
@@ -121,13 +127,16 @@ carer noun region=GB note=American caregiver
 caress noun
 caretaker noun
 cargo noun pl=cargoes|cargos
+caribou noun pl=caribou|caribous
 caricature noun
 carina noun pl=carinae|carinas conf=90 note=anatomy, botany
 carnage noun pl=- note=uncountable
 carnival noun
 carol noun
 carp noun pl=carp|carps
+carpal noun
 carpenter noun
+carpentry noun pl=- note=uncountable
 carpet noun
 carpool noun
 carpooling noun pl=- note=uncountable
@@ -190,11 +199,13 @@ catering noun pl=- note=uncountable
 caterpillar noun
 catfish noun pl=catfish|catfishes
 cathedral noun
+catheter noun
 cathode noun
 Catholic noun
 cattle noun pl_only
 caucus noun
 cauliflower noun
+causality noun
 causation noun pl=- note=uncountable
 cause noun
 causeway noun
@@ -235,6 +246,7 @@ centerpiece noun gb=centrepiece
 centimeter noun gb=centimetre
 centipede noun
 centrifuge noun
+centrist noun
 century noun
 CEO noun abbr note=chief executive officer
 cephalopod noun
@@ -280,6 +292,7 @@ channel noun
 chant noun
 chaos noun pl=- note=uncountable
 chap noun
+chaparral noun
 chapel noun
 chaperon noun conf=90 note=variant spelling of chaperone
 chaperone noun
@@ -313,6 +326,7 @@ checkbook noun conf=90 note=chiefly American; British chequebook
 checkbox noun
 checkers noun pl_only region=US note=the board game; British draughts
 checklist noun
+checkmate noun
 checkout noun
 checkpoint noun
 checksum noun
@@ -369,6 +383,7 @@ chivalry noun pl=- note=uncountable
 chive noun
 chloride noun
 chlorine noun pl=- note=uncountable
+chloroform noun pl=- note=uncountable
 chocolate noun
 Choctaw noun pl=Choctaw|Choctaws
 choice noun
@@ -421,6 +436,7 @@ citadel noun
 citation noun
 citizen noun
 citizenship noun
+citrate noun
 citrus noun
 city noun
 civilian noun
@@ -477,10 +493,12 @@ climate noun
 climax noun
 climb noun
 climber noun
+clime noun
 clinic noun
 clinician noun
 clip noun
 clipboard noun
+clipper noun
 clipping noun
 cloak noun
 clock noun
@@ -518,6 +536,7 @@ coat noun
 coating noun
 cob noun
 cobra noun
+cobweb noun
 coca noun pl=- note=uncountable
 cocaine noun pl=- note=uncountable
 cock noun
@@ -564,6 +583,7 @@ coldness noun pl=- note=uncountable
 coliseum noun
 collaboration noun
 collaborator noun
+collagen noun pl=- note=uncountable
 collapse noun
 collar noun
 collateral noun
@@ -709,6 +729,7 @@ concert noun
 concerto noun pl=concertos|concerti
 concession noun
 conch noun pl=conchs|conches
+concierge noun
 conciliation noun
 conciseness noun pl=- note=uncountable
 conclusion noun
@@ -734,6 +755,7 @@ conductivity noun
 conductor noun
 conduit noun
 cone noun
+confectionery noun
 confederacy noun
 Confederate noun
 confederate noun
@@ -863,6 +885,7 @@ control noun
 controller noun
 controversy noun
 conurbation noun
+convalescent noun
 convection noun pl=- note=uncountable
 convenience noun
 convent noun
@@ -882,9 +905,12 @@ convoy noun
 convulsion noun
 COO noun abbr note=chief operating officer
 cook noun
+cookbook noun
 cooker noun
+cookery noun pl=- note=uncountable
 cookie noun
 cool noun
+coolant noun
 cooler noun
 coolie noun style=offensive note=derogatory term for Asian labourers
 coolness noun pl=- note=uncountable
@@ -901,10 +927,12 @@ copay noun conf=85 note=chiefly American
 copayment noun conf=85
 copier noun
 copper noun
+copse noun
 copy noun
 copying noun pl=- note=uncountable
 copyright noun
 copywriter noun
+coquetry noun
 coquette noun
 coral noun
 cord noun
@@ -918,8 +946,10 @@ corn noun
 corner noun
 cornerback noun
 cornerstone noun
+cornet noun
 cornice noun
 Cornish noun pl=- note=the language
+corollary noun
 corona noun
 coronary noun
 coronation noun
@@ -954,6 +984,7 @@ cottage noun
 cotton noun
 cottonwood noun
 couch noun
+cougar noun
 cough noun
 council noun
 councilman noun pl=councilmen
@@ -966,6 +997,7 @@ countenance noun
 counter noun
 counteraction noun
 counterattack noun
+counterbalance noun
 counterculture noun
 counterfeit noun
 countermeasure noun
@@ -1027,6 +1059,7 @@ cranberry noun
 crane noun
 crank noun
 crankshaft noun
+crape noun conf=90 note=older spelling of crepe, the fabric
 crash noun
 crate noun
 crater noun
@@ -1078,6 +1111,7 @@ croak noun
 Croat noun
 Croatian noun
 crochet noun pl=- note=uncountable
+crockery noun pl=- note=uncountable
 crocodile noun
 croissant noun
 crony noun
@@ -1116,6 +1150,7 @@ cryptoasset noun
 cryptocurrency noun
 cryptography noun pl=- note=uncountable
 crystal noun
+crystallization noun gb=crystallisation|crystallization
 CT noun abbr conf=90 note=computed tomography; Connecticut
 CTA noun abbr conf=85 note=call to action; Chicago Transit Authority
 CTO noun abbr note=chief technology officer

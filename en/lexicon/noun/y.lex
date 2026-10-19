@@ -1,6 +1,7 @@
 yacht noun
 yak noun
 Yankee noun note=demonym or religious name, capitalized
+yap noun
 yard noun
 yarn noun
 yaw noun
@@ -11,6 +12,7 @@ yearning noun
 yeast noun
 yell noun
 yellow noun
+yeoman noun pl=yeomen
 yesterday noun
 yew noun
 yid noun style=offensive note=antisemitic slur

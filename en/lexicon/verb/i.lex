@@ -116,6 +116,7 @@ interlock verb
 intern verb
 interpose      verb
 interpret      verb
+interrelate verb
 interrogate verb
 interrupt      verb
 intersect verb
@@ -127,6 +128,7 @@ interweave verb prefix=inter past=interwove pp=interwoven
 intimate       verb
 intimidate verb
 intoxicate verb
+intrench verb style=archaic conf=90 note=archaic spelling of entrench
 intrigue verb
 introduce      verb
 intrude verb
@@ -143,6 +145,7 @@ invoice        verb
 invoke         verb
 involve        verb
 iron           verb
+irradiate verb
 irrigate verb
 irritate       verb
 isolate        verb

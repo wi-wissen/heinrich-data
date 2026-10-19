@@ -19,18 +19,21 @@ vehicular adj
 venerable     adj
 Venetian      adj
 Venezuelan adj
+vengeful adj cmp=more adv=vengefully
 venomous adj cmp=more
 venous adj
 ventral adj adv=ventrally
 ventricular adj
 verbal        adj adv=verbally
 verbatim adj
+verdant adj
 verifiable adj adv=verifiably
 veritable adj
 vermilion adj
 vernacular adj
 versatile adj cmp=more
 versed adj pred_only note=well versed in
+vertebral adj
 vertical      adj adv=vertically
 vested        adj attr_only
 veterinary    adj

@@ -16,6 +16,7 @@ Latino        adj
 latter        adj attr_only
 Latvian adj
 laudable adj adv=laudably
+laughable adj adv=laughably
 lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
@@ -82,6 +83,7 @@ loath adj pred_only
 loathsome adj cmp=more
 local         adj adv=locally
 lofty         adj cmp=er
+logarithmic adj adv=logarithmically
 logical       adj cmp=more adv=logically
 logistic adj
 logistical adj
@@ -102,6 +104,7 @@ lovely        adj cmp=er
 lovesick adj
 loving        adj adv=lovingly
 low           adj cmp=er
+lowercase adj
 lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
 lucid adj cmp=more adv=lucidly
@@ -115,7 +118,7 @@ lunar         adj
 lurid adj cmp=more adv=luridly
 lush adj cmp=er
 lustrous adj
-lusty adj cmp=er
+lusty adj cmp=er adv=lustily
 Lutheran      adj
 luxuriant adj
 luxurious     adj adv=luxuriously

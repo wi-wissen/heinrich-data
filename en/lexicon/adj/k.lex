@@ -6,6 +6,7 @@ kind           adj cmp=er adv=kindly
 kind-hearted adj cmp=more adv=kind-heartedly note=hearted is not a word on its own
 kindred adj
 kinetic adj
+knightly adj
 knowing        adj adv=knowingly
 knowledgeable adj cmp=more adv=knowledgeably
 Korean         adj

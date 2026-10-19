@@ -20,6 +20,7 @@ backlog noun
 backpack noun
 backslash noun
 backstop noun
+backstory noun
 backstroke noun pl=- note=the swimming stroke
 backup noun
 backyard noun
@@ -104,6 +105,7 @@ barricade noun
 barrier noun
 barrister noun
 barrow noun
+bartender noun
 barter noun pl=- note=uncountable
 basalt noun
 base noun
@@ -111,6 +113,7 @@ baseball noun
 baseline noun
 baseman noun pl=basemen
 basement noun
+baseness noun pl=- note=uncountable
 basic noun note=the basics
 basil noun pl=- note=uncountable
 basilica noun
@@ -160,9 +163,11 @@ bearer noun
 bearing noun
 beast noun
 beat noun
+beating noun
 beau noun pl=beaux|beaus
 beauty noun
 beaver noun
+bebop noun pl=- note=uncountable
 bed noun
 bedding noun pl=- note=uncountable
 bedrock noun pl=- note=uncountable
@@ -174,6 +179,7 @@ bee noun
 beech noun
 beef noun pl=beefs note=kinds of beef; complaints
 beer noun
+beet noun
 beetle noun
 beetroot noun pl=beetroot|beetroots
 beggar noun
@@ -182,6 +188,7 @@ beginning noun
 behalf noun pl=- note=on behalf of
 behavior noun gb=behaviour
 behest noun pl=- note=at the behest of
+beholder noun
 being noun
 Belarusian noun
 belfry noun
@@ -228,6 +235,7 @@ bias noun
 bib noun
 bible noun
 bibliography noun
+bicentennial noun
 bicycle noun
 bid noun
 bidder noun
@@ -253,6 +261,7 @@ biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
 biofuel noun
+biogas noun pl=- note=uncountable
 biographer noun
 biography noun
 biological noun conf=90 note=a drug made from living organisms
@@ -356,6 +365,7 @@ boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
 bob noun
+bodice noun
 body noun
 bodybuilder noun
 bodybuilding noun pl=- note=uncountable
@@ -384,6 +394,7 @@ bonnet noun
 bonus noun
 book noun
 bookcase noun
+booking noun
 bookkeeper noun
 bookkeeping noun pl=- note=uncountable
 booklet noun
@@ -407,6 +418,7 @@ boredom noun pl=- note=uncountable
 boron noun pl=- note=chemical element, uncountable
 borough noun
 borrower noun
+borrowing noun
 Bosnian noun
 bosom noun
 boss noun
@@ -435,6 +447,7 @@ bowel noun
 bower noun
 bowl noun
 bowler noun
+bowman noun pl=bowmen
 box noun
 boxer noun
 boy noun
@@ -456,6 +469,7 @@ brand noun
 branding noun pl=- note=uncountable
 brandy noun
 brass noun
+bravado noun pl=- note=uncountable
 bravery noun pl=- note=uncountable
 brawl noun
 Brazilian noun
@@ -473,6 +487,7 @@ breakout noun
 breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
+breakwater noun
 breast noun
 breaststroke noun
 breath noun
@@ -565,6 +580,7 @@ bulb noun
 Bulgarian noun
 bulge noun
 bulk noun pl=- note=uncountable
+bulkhead noun
 bull noun
 bullet noun
 bulletin noun

@@ -51,6 +51,7 @@ gatekeeper noun
 gateway        noun
 gathering      noun
 gauge          noun
+gauntlet noun
 gauze noun
 gay            noun
 gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
@@ -75,7 +76,9 @@ generation     noun
 generator      noun
 generosity     noun note=plural generosities: acts of generosity
 genesis noun pl=geneses
+geneticist noun
 genetics noun pl=- note=uncountable
+genie noun pl=genies|genii
 genital noun
 genitive noun
 genius         noun pl=geniuses
@@ -267,6 +270,7 @@ greeting       noun
 grenade noun
 greyhound noun
 grid           noun
+gridiron noun
 gridlock noun
 grief          noun note=plural griefs
 grievance      noun
@@ -296,6 +300,7 @@ growl          noun
 growth         noun
 grub noun
 grudge noun
+guano noun pl=- note=uncountable
 guarantee      noun
 guarantor noun
 guaranty noun
@@ -340,5 +345,6 @@ gym noun
 gymnasium noun pl=gymnasiums|gymnasia
 gymnast noun
 gymnastics noun pl=- note=uncountable
+gypsum noun pl=- note=uncountable
 Gypsy          noun note=neutral capitalized use (also a self-designation); lowercase gypsy is a separate entry marked offensive
 gypsy noun style=offensive alt=Roma note=lowercase use is derogatory; capitalized Gypsy is a separate neutral entry

@@ -11,6 +11,7 @@ Alaska propn g=n gen=Alaskas pl=- note=proper name; no plural
 Alb propn g=f gen=Alb pl=- note=Schwäbische/Fränkische Alb
 Albanien propn g=n gen=Albaniens pl=- note=proper name; no plural
 Alexandria propn g=n gen=Alexandrias pl=- conf=80 note=city; gender uncertain
+Alexandrien propn g=n gen=Alexandriens pl=- note=German exonym of Alexandria
 Algerien propn g=n gen=Algeriens pl=- note=proper name; no plural
 Allah propn g=m gen=Allahs pl=- note=proper name; no plural
 Alpen propn g=pl
@@ -24,6 +25,8 @@ Anden propn g=pl
 Ankara propn g=n gen=Ankaras pl=- note=proper name; no plural
 Ansbach propn g=n gen=Ansbachs pl=- note=proper name; no plural
 Antarktis propn g=f gen=Antarktis pl=- note=proper name; no plural
+Antillen propn g=pl
+Antiochia propn g=n gen=Antiochias pl=- note=proper name; ancient city
 Antwerpen propn g=n gen=Antwerpens pl=- note=proper name; no plural
 Apollo propn g=m gen=Apollos pl=- note=proper name; no plural
 ARD propn g=f gen=ARD pl=- note=Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten
@@ -31,6 +34,8 @@ Argentinien propn g=n gen=Argentiniens pl=- note=proper name; no plural
 Arizona propn g=n gen=Arizonas pl=- note=proper name; no plural
 Arkansas propn g=n gen=Arkansas pl=- conf=80 note=US state; gender uncertain
 Armenien propn g=n gen=Armeniens pl=- note=proper name; no plural
+Arnstadt propn g=n gen=Arnstadts pl=- demonym=Arnstädter note=city
+Arras propn g=n gen=Arras pl=- note=city in France
 Aschaffenburg propn g=n gen=Aschaffenburgs pl=- note=proper name; no plural
 Aserbaidschan propn g=n gen=Aserbaidschans pl=- note=proper name; no plural
 Asien propn g=n gen=Asiens pl=- note=proper name; no plural

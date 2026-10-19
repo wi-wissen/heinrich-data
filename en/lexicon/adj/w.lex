@@ -74,6 +74,7 @@ worth adj pred_only
 worthless adj
 worthwhile adj cmp=more
 worthy adj cmp=er
+wrathful adj cmp=more adv=wrathfully
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly

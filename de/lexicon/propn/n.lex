@@ -10,6 +10,7 @@ Nepal propn g=n gen=Nepals pl=- note=proper name; no plural
 Neukölln propn g=n gen=Neuköllns pl=- note=district of Berlin
 Neuseeland propn g=n gen=Neuseelands pl=- note=proper name; no plural
 Nevada propn g=n gen=Nevadas pl=- note=proper name; no plural
+Nidda propn g=f gen=Nidda pl=- note=river (also a town)
 Niederlande propn g=pl
 Niederösterreich propn g=n gen=Niederösterreichs pl=- note=proper name; no plural
 Niederrhein propn g=m gen=Niederrheins pl=- note=region

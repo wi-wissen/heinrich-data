@@ -39,7 +39,9 @@ wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
 widerruflich adj
 widersprüchlich adj
+widrig adj cmp=widriger sup=widrigsten
 wild adj cmp=wilder sup=wildesten
+willens adj pred_only note=willens sein, etwas zu tun
 willig adj cmp=williger sup=willigsten
 willkommen adj
 willkürlich adj
@@ -50,6 +52,7 @@ wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten
 wirtschaftlich adj cmp=wirtschaftlicher sup=wirtschaftlichsten
 wissenschaftlich adj
+wissentlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten

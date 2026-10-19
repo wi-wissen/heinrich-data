@@ -4,15 +4,18 @@ icky adj style=colloquial
 iconic         adj
 icy adj cmp=er adv=icily
 ideal          adj adv=ideally
+idealistic adj cmp=more adv=idealistically
 identical      adj adv=identically
 identifiable   adj
 ideological    adj adv=ideologically
 idiotic adj cmp=more adv=idiotically
 idle           adj cmp=er adv=idly
+idyllic adj adv=idyllically
 igneous adj
 ignoble adj
 ignorant       adj
 ill            adj
+ill-natured adj cmp=more note=natured is not a word on its own
 illegal        adj adv=illegally
 illegible adj adv=illegibly
 illegitimate   adj
@@ -54,6 +57,7 @@ impertinent adj
 impetuous adj cmp=more
 impious adj
 implacable adj adv=implacably
+implantable adj
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
@@ -81,6 +85,7 @@ inappropriate  adj adv=inappropriately
 inarticulate adj adv=inarticulately
 inaudible adj
 inaugural      adj
+inbound adj
 incalculable adj
 incapable      adj
 incendiary adj
@@ -131,6 +136,7 @@ indirect       adj adv=indirectly
 indiscreet adj
 indiscriminate adj adv=indiscriminately
 indispensable  adj
+indisposed adj pred_only
 indistinct adj adv=indistinctly
 indistinguishable adj
 individual     adj adv=individually
@@ -186,6 +192,7 @@ inherent       adj adv=inherently
 inhospitable adj
 inhuman adj
 inhumane adj adv=inhumanely
+inimitable adj adv=inimitably
 initial        adj adv=initially
 injured        adj
 injurious adj
@@ -198,6 +205,8 @@ innocent       adj adv=innocently
 innovative     adj
 innumerable    adj
 inoffensive adj
+inoperative adj
+inordinate adj adv=inordinately
 inorganic adj
 inpatient      adj attr_only
 inquiring adj adv=inquiringly
@@ -269,6 +278,7 @@ intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
 intracellular adj
+intractable adj cmp=more adv=intractably
 intrastate adj
 intravenous adj adv=intravenously
 intrepid adj adv=intrepidly
@@ -288,6 +298,7 @@ inverse adj adv=inversely
 investigational adj
 investigative  adj
 investigatory  adj
+inveterate adj adv=inveterately
 invincible adj
 invisible      adj adv=invisibly
 invitational adj
@@ -312,6 +323,7 @@ irreparable adj adv=irreparably
 irreplaceable adj
 irrepressible adj
 irresistible   adj adv=irresistibly
+irresolute adj cmp=more adv=irresolutely
 irrespective   adj note=only in irrespective of
 irresponsible  adj adv=irresponsibly
 irreverent adj cmp=more adv=irreverently

@@ -61,6 +61,7 @@ gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc
 glimmen verb class=weak past=glimmte|glomm pp=geglimmt|geglommen perf=haben
 glitzern verb class=weak pp=geglitzert perf=haben
+globalisieren verb class=weak pp=globalisiert perf=haben
 glotzen verb class=weak pp=geglotzt perf=haben
 glücken verb class=weak pp=geglückt perf=sein
 gluckern verb class=weak pp=gegluckert perf=haben
@@ -69,6 +70,7 @@ glühen verb class=weak pp=geglüht perf=haben
 gönnen verb class=weak pp=gegönnt perf=haben
 googeln verb class=weak pp=gegoogelt perf=haben
 graben verb class=strong 3sg=gräbt past=grub pp=gegraben subj2=grübe perf=haben
+graduieren verb class=weak pp=graduiert perf=haben
 grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
 grauen verb class=weak pp=gegraut perf=haben note=es graut mir vor; der Morgen graut

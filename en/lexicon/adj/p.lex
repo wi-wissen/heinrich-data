@@ -14,11 +14,13 @@ pancreatic adj
 pandemic adj
 papal adj
 paperless adj
+paradoxical adj adv=paradoxically
 parallel adj
 Paralympic adj
 parametric adj
 paramilitary adj
 paramount adj
+paranoid adj cmp=more
 parasitic adj
 parched adj
 parental adj
@@ -51,6 +53,7 @@ peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
 pediatric adj gb=paediatric
+peevish adj cmp=more adv=peevishly
 pejorative adj adv=pejoratively
 pelagic adj
 pelvic adj
@@ -70,6 +73,7 @@ perfect adj cmp=more adv=perfectly
 perilous adj cmp=more adv=perilously
 periodic adj adv=periodically
 periodical adj
+periodontal adj
 peripheral adj
 perishable adj
 permanent adj adv=permanently
@@ -134,6 +138,7 @@ plenary adj
 plentiful adj adv=plentifully
 plucky adj cmp=er
 plumb adj
+plumed adj
 plump adj cmp=er
 plural adj
 plush adj cmp=er
@@ -262,6 +267,7 @@ prohibitive adj adv=prohibitively
 projective adj
 prolific adj cmp=more
 prominent adj cmp=more adv=prominently
+promiscuous adj cmp=more adv=promiscuously
 promising adj cmp=more adv=promisingly
 promotional adj
 prompt adj cmp=er adv=promptly
@@ -290,6 +296,7 @@ provisional adj adv=provisionally
 provocative adj adv=provocatively
 proximal adj
 prudent adj cmp=more adv=prudently
+prudential adj
 Prussian adj note=demonym or religious name, capitalized
 psychedelic adj
 psychiatric adj
@@ -304,6 +311,7 @@ punctual adj cmp=more adv=punctually
 pungent adj cmp=more
 punishable adj
 punitive adj
+puny adj cmp=er
 pure adj cmp=er adv=purely
 puritan adj
 purple adj

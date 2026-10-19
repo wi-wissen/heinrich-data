@@ -1,5 +1,6 @@
 ugliness noun pl=- note=uncountable
 Ukrainian     noun
+ulcer noun
 ultimatum noun pl=ultimatums|ultimata[rare]
 ultra noun conf=90 note=an extremist; also used as a prefix
 ultrasound noun
@@ -53,6 +54,7 @@ universe      noun
 university    noun
 unknown       noun
 unpopularity noun pl=- note=uncountable
+unreality noun pl=- note=uncountable
 unrest        noun pl=- note=uncountable
 unwillingness noun pl=- note=uncountable
 upbringing noun

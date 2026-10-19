@@ -78,7 +78,9 @@ föhnen verb class=weak pp=gefönt perf=haben refl=acc
 fokussieren verb class=weak pp=fokussiert perf=haben refl=acc
 folgen verb class=weak pp=gefolgt perf=sein
 folgern verb class=weak pp=gefolgert perf=haben
+foltern verb class=weak pp=gefoltert perf=haben
 foppen verb class=weak pp=gefoppt perf=haben
+forcieren verb class=weak pp=forciert perf=haben
 fordern verb class=weak pp=gefordert perf=haben
 fördern verb class=weak pp=gefördert perf=haben
 formatieren verb class=weak pp=formatiert perf=haben
@@ -127,6 +129,7 @@ fungieren verb class=weak pp=fungiert perf=haben
 funkeln verb class=weak pp=gefunkelt perf=haben
 funktionieren verb class=weak pp=funktioniert perf=haben
 fürchten verb class=weak pp=gefürchtet perf=haben refl=acc
+fußen verb class=weak pp=gefußt perf=haben
 fusionieren verb class=weak pp=fusioniert perf=haben|sein
 futtern verb class=weak pp=gefuttert perf=haben style=colloquial
 füttern verb class=weak pp=gefüttert perf=haben

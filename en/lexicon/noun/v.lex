@@ -8,6 +8,7 @@ vagary noun
 vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
 vale          noun
+valence noun
 valentine noun
 valet noun
 validation    noun
@@ -86,6 +87,8 @@ vessel        noun
 vest          noun
 vestibule noun
 vestige noun
+vestment noun
+vestry noun
 vet noun
 veteran       noun
 veterinarian noun
@@ -110,6 +113,7 @@ victory       noun
 victual noun
 video         noun
 videoconference noun
+videoconferencing noun pl=- note=uncountable
 Vietnamese    noun pl=Vietnamese
 view          noun
 viewer        noun
@@ -154,11 +158,13 @@ visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
 vivacity noun pl=- note=uncountable
+vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
 vocabulary    noun
 vocal         noun
 vocalist      noun
+vocalization noun gb=vocalisation|vocalization
 vocation noun
 vogue noun
 voice         noun

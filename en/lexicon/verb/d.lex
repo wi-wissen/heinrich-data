@@ -55,6 +55,7 @@ defend verb
 defer verb double
 defile verb
 define verb
+deflect verb
 defraud verb
 defrost verb
 defy verb
@@ -84,6 +85,7 @@ depict verb
 deplete verb
 deplore verb
 deploy verb
+depopulate verb
 deport verb
 depose verb
 deposit verb
@@ -155,12 +157,14 @@ disappoint verb
 disapprove verb
 disarm verb
 disband verb
+disbelieve verb
 disburse verb
 discard verb
 discern verb
 discharge verb
 discipline verb
 disclose verb
+discomfit verb
 disconcert verb
 disconnect verb
 discontinue verb

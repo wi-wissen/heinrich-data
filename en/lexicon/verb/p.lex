@@ -41,6 +41,7 @@ patch verb
 patent verb
 patrol verb double
 patronize verb gb=patronise|patronize
+patter verb
 pattern verb
 pause verb
 pave verb
@@ -247,6 +248,7 @@ propel verb double
 prophesy verb
 propose verb
 prorate verb conf=85
+prorogue verb
 proscribe verb
 prosecute verb
 prospect verb

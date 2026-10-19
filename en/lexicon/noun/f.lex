@@ -3,6 +3,7 @@ fabric         noun
 fabrication noun
 facade noun
 face           noun
+facelift noun
 facet noun
 facial         noun
 facilitation noun pl=- note=uncountable
@@ -20,6 +21,7 @@ failure        noun
 fair           noun
 fairness       noun pl=- note=uncountable
 fairy          noun
+fairyland noun
 faith          noun
 faithful       noun
 faithfulness noun pl=- note=uncountable
@@ -60,6 +62,7 @@ fat            noun
 fatality       noun
 fate           noun
 father         noun
+fatherhood noun pl=- note=uncountable
 fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
@@ -80,6 +83,7 @@ federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
 fee            noun
+feebleness noun pl=- note=uncountable
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
@@ -98,6 +102,7 @@ felt           noun note=the fabric
 female         noun
 feminism noun pl=- note=uncountable
 feminist       noun
+femme noun conf=80 note=loanword, chiefly in femme fatale
 fen noun
 fence          noun
 fencer noun
@@ -119,10 +124,13 @@ fetish noun
 fetter noun
 fetus noun gb=foetus|fetus
 feud noun
+feudalism noun pl=- note=uncountable
 fever          noun
 fez noun pl=fezzes|fezes
 fiancé noun
 fiancée noun
+fiasco noun pl=fiascos|fiascoes
+fiat noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
 fibrosis noun pl=fibroses
@@ -184,6 +192,7 @@ fire           noun
 firearm        noun
 firefighter    noun
 firefighting noun pl=- note=uncountable
+firefly noun
 firelight noun pl=- note=uncountable
 fireman noun pl=firemen
 fireplace      noun
@@ -217,6 +226,7 @@ flagellum noun pl=flagella
 flagship       noun
 flake noun
 flame          noun
+flamenco noun pl=flamencos
 flamingo noun pl=flamingos|flamingoes
 flammability noun pl=- note=uncountable
 flank          noun
@@ -236,6 +246,7 @@ fledgling noun
 fleece noun
 fleet          noun
 flesh          noun pl=- note=uncountable
+flex noun
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
@@ -275,6 +286,7 @@ flutter noun
 flux           noun
 fly            noun
 flyer noun conf=90 note=also flier
+flywheel noun
 foal noun
 foam           noun
 focus          noun pl=focuses|foci
@@ -413,6 +425,7 @@ freshman noun pl=freshmen
 freshness noun
 fret noun
 friar noun
+fricative noun
 friction       noun
 fridge noun
 friend         noun
@@ -434,6 +447,7 @@ frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
+froth noun
 frown          noun
 fruit          noun pl=fruit|fruits
 fruition noun
@@ -444,6 +458,7 @@ fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun
+fullness noun pl=- note=uncountable
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

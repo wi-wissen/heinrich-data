@@ -1,5 +1,6 @@
 zeal noun pl=- note=uncountable
 zebra noun
+zee noun note=American name of the letter z
 zenith noun
 zest noun
 zinc noun pl=- note=uncountable
@@ -15,5 +16,6 @@ zoning noun pl=- note=uncountable
 zoo noun pl=zoos
 zoologist noun
 zoom noun
+zooplankton noun pl=- note=uncountable
 zucchini noun pl=zucchini|zucchinis region=US note=British courgette
 Zulu noun

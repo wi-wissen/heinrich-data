@@ -14,6 +14,7 @@ initiieren verb class=weak pp=initiiert perf=haben
 innehaben verb class=mixed sep=inne 3sg=innehat past=innehatte pp=innegehabt subj2=innehätte perf=haben
 inspirieren verb class=weak pp=inspiriert perf=haben
 installieren verb class=weak pp=installiert perf=haben
+instrumentalisieren verb class=weak pp=instrumentalisiert perf=haben
 inszenieren verb class=weak pp=inszeniert perf=haben
 integrieren verb class=weak pp=integriert perf=haben refl=acc
 intensivieren verb class=weak pp=intensiviert perf=haben refl=acc
@@ -21,6 +22,8 @@ interessieren verb class=weak pp=interessiert perf=haben refl=acc
 internieren verb class=weak pp=interniert perf=haben
 interpretieren verb class=weak pp=interpretiert perf=haben
 investieren verb class=weak pp=investiert perf=haben
+involvieren verb class=weak pp=involviert perf=haben
 ionisieren verb class=weak pp=ionisiert perf=haben
 irren verb class=weak pp=geirrt perf=haben|sein refl=acc
+irritieren verb class=weak pp=irritiert perf=haben
 isolieren verb class=weak pp=isoliert perf=haben refl=acc

@@ -1,7 +1,9 @@
+paaren verb class=weak pp=gepaart perf=haben refl=acc
 pachten verb class=weak pp=gepachtet perf=haben
 packen verb class=weak pp=gepackt perf=haben
 paddeln verb class=weak pp=gepaddelt perf=haben|sein
 panieren verb class=weak pp=paniert perf=haben
+panzern verb class=weak pp=gepanzert perf=haben
 paraphieren verb class=weak pp=paraphiert perf=haben
 parken verb class=weak pp=geparkt perf=haben
 passen verb class=weak pp=gepasst perf=haben
@@ -41,6 +43,7 @@ plündern verb class=weak pp=geplündert perf=haben
 pochen verb class=weak pp=gepocht perf=haben
 pökeln verb class=weak pp=gepökelt perf=haben
 poltern verb class=weak pp=gepoltert perf=haben|sein
+porträtieren verb class=weak pp=porträtiert perf=haben
 positionieren verb class=weak pp=positioniert perf=haben
 posten verb class=weak pp=gepostet perf=haben
 prägen verb class=weak pp=geprägt perf=haben

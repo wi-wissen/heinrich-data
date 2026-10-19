@@ -27,7 +27,9 @@ Joch noun g=n gen=Jochs|Joches pl=Joche
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
+Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
+Joker noun g=m gen=Jokers pl=Joker
 Journal noun g=n gen=Journals pl=Journale
 Journalismus noun g=m gen=Journalismus pl=- note=no plural
 Journalist noun g=m gen=Journalisten pl=Journalisten
@@ -46,7 +48,7 @@ Jugendherberge noun g=f gen=Jugendherberge pl=Jugendherbergen note=the analyser 
 Jugendliche noun g=m|f decl=adj
 Juli noun g=m sg=Juli,Juli|Julis,Juli,Juli pl=- note=month name; plural not used
 Junge        noun g=m gen=Jungen pl=Jungen note=weak masculine (n-declension)
-Junge noun g=m gen=Jungen pl=Jungen sense=boy
+Junge noun g=m gen=Jungen pl=Jungen|Jungs[colloquial]|Jungens[colloquial] sense=boy note=weak masculine; Jungens is the colloquial plural (also Jungs)
 Jünger noun g=m gen=Jüngers pl=Jünger
 Jungfer noun g=f gen=Jungfer pl=Jungfern
 Jungfrau noun g=f gen=Jungfrau pl=Jungfrauen
@@ -60,3 +62,4 @@ Juristin noun g=f gen=Juristin pl=Juristinnen
 Jury noun g=f gen=Jury pl=Jurys|Juries
 Jus noun g=n gen=Jus pl=- conf=80 note=law as a field of study (Jus studieren) or meat juice; gender of the sauce sense varies
 Justiz noun g=f gen=Justiz pl=- note=plural not used
+Juwel noun g=m|n gen=Juwels pl=Juwelen
