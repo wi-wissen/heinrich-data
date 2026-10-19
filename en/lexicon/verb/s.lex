@@ -97,6 +97,7 @@ set verb past=set pp=set
 settle verb
 sever verb
 sew verb past=sewed pp=sewn|sewed
+shackle verb
 shade verb
 shadow verb
 shake verb past=shook pp=shaken
@@ -121,8 +122,10 @@ shingle verb
 ship verb
 shipwreck verb
 shirk verb
+shit verb past=shit|shat pp=shit|shat style=colloquial
 shiver verb
 shock verb
+shoe verb past=shod|shoed pp=shod|shoed
 shoot verb past=shot pp=shot
 shop verb
 shoplift verb
@@ -215,6 +218,7 @@ slope verb
 slow verb
 slug verb
 slumber verb
+slump verb
 slur verb
 slurp verb
 smack verb
@@ -301,6 +305,7 @@ spoof verb
 spool verb
 spot verb
 spotlight verb past=spotlighted|spotlit pp=spotlighted|spotlit conf=90 note=spotlit less common
+spout verb
 sprawl verb
 spray verb
 spread verb past=spread pp=spread
@@ -490,12 +495,14 @@ sweat verb
 sweep verb past=swept pp=swept
 sweeten verb
 swell verb past=swelled pp=swollen|swelled
+swerve verb
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 swipe verb
 swirl verb
 switch verb
 swoon verb
+swoop verb
 symbolize verb gb=symbolise|symbolize
 sympathize verb gb=sympathise|sympathize
 sync verb

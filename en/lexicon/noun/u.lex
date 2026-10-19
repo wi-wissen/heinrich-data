@@ -1,4 +1,5 @@
 ugliness noun pl=- note=uncountable
+ukiyo-e noun pl=- conf=90 note=Japanese woodblock print genre
 Ukrainian     noun
 ulcer noun
 ultimatum noun pl=ultimatums|ultimata[rare]
@@ -77,6 +78,7 @@ upset         noun
 upshot noun
 upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
+upstart noun
 uptake        noun
 uptime noun pl=- note=uncountable
 uptown noun pl=- note=the upper part of a city; uncountable

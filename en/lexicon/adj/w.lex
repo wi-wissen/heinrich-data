@@ -3,6 +3,7 @@ wan adj cmp=er
 wanton adj adv=wantonly
 warlike adj
 warm adj cmp=er adv=warmly
+warm-hearted adj cmp=more note=hearted is not a word on its own
 wary adj cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
@@ -40,6 +41,7 @@ wholesale adj
 wholesome adj cmp=more
 wicked adj cmp=er|more adv=wickedly
 wide adj cmp=er adv=widely
+widescreen adj
 widespread adj
 wild adj cmp=er adv=wildly
 willful adj cmp=more gb=wilful adv=willfully
@@ -81,3 +83,4 @@ wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly
 wrongful adj adv=wrongfully
 wrought adj note=archaic past of work; wrought iron
+wry adj cmp=wrier|wryer sup=wriest|wryest adv=wryly conf=90 note=both spellings of the comparative are used

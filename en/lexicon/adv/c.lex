@@ -1,3 +1,4 @@
+caressingly adv
 cautiously adv
 chiefly adv
 clean adv

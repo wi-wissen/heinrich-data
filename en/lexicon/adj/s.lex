@@ -105,6 +105,7 @@ separable adj
 separate adj adv=separately
 separatist adj
 septic adj
+sepulchral adj
 sequential adj adv=sequentially
 Serbian adj
 serene adj cmp=er|more adv=serenely
@@ -130,6 +131,7 @@ shameless adj adv=shamelessly
 shapeless adj
 shapely adj cmp=er
 sharp adj cmp=er adv=sharply
+shaven adj
 sheer adj cmp=er
 shiny adj cmp=er
 shipboard adj
@@ -179,7 +181,7 @@ slack adj cmp=er adv=slackly
 Slavic adj
 sleek adj cmp=er
 sleepless adj adv=sleeplessly
-sleepy adj cmp=er
+sleepy adj cmp=er adv=sleepily
 slender adj cmp=er
 slick adj cmp=er adv=slickly
 slight adj cmp=er adv=slightly
@@ -205,6 +207,7 @@ socialist adj
 societal adj
 socioeconomic adj
 sociological adj adv=sociologically
+sodden adj
 soft adj cmp=er adv=softly
 soggy adj cmp=er
 solar adj
@@ -248,7 +251,8 @@ sparkling adj
 sparkly adj
 sparse adj cmp=er adv=sparsely
 Spartan adj
-spatial adj
+spasmodic adj adv=spasmodically
+spatial adj adv=spatially
 special adj adv=specially
 specific adj adv=specifically
 speckled adj
@@ -315,7 +319,9 @@ stocky adj cmp=er
 stodgy adj cmp=er
 stoic adj cmp=more adv=stoically
 stolid adj adv=stolidly
+stoned adj
 stony adj cmp=er
+storied adj
 stormy adj cmp=er
 stout adj cmp=er adv=stoutly
 straight adj cmp=er
@@ -364,6 +370,7 @@ subversive adj cmp=more adv=subversively
 successful adj cmp=more adv=successfully
 successive adj adv=successively
 succinct adj cmp=er|more adv=succinctly
+succulent adj
 Sudanese adj
 sudden adj adv=suddenly
 sufficient adj adv=sufficiently
@@ -385,6 +392,7 @@ Sunni adj
 sunny adj cmp=er
 super adj
 superb adj adv=superbly
+supercilious adj
 superficial adj cmp=more adv=superficially
 superfluous adj
 superhuman adj
@@ -405,6 +413,7 @@ surly adj cmp=er
 surprised adj cmp=more
 surprising adj cmp=more adv=surprisingly
 surreal adj
+surrealist adj
 surreptitious adj adv=surreptitiously
 surrogate adj
 susceptible adj
@@ -429,6 +438,7 @@ sympathetic adj cmp=more adv=sympathetically
 symphonic adj
 symptomatic adj
 synchronous adj adv=synchronously
+syncytial adj
 synonymous adj
 syntactic adj
 synthetic adj

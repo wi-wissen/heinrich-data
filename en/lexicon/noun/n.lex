@@ -36,6 +36,7 @@ navel noun
 navigation    noun
 navigator noun
 navy          noun
+naysayer noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
 nearness noun pl=- note=uncountable
@@ -63,6 +64,7 @@ Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical t
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
+neo-Nazi noun
 neoliberal noun
 neoliberalism noun pl=- note=uncountable
 neon noun pl=- note=uncountable
@@ -84,6 +86,7 @@ neutrino noun pl=neutrinos
 neutron noun
 newborn noun
 newcomer noun
+newness noun pl=- note=uncountable
 news          noun pl=- note=uncountable, singular agreement
 newsagent noun region=GB
 newscast noun
@@ -115,6 +118,7 @@ nightlife noun pl=- note=uncountable
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
+nimbus noun pl=nimbuses|nimbi
 ninja noun
 nipple noun
 nitrate noun

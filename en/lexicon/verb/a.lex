@@ -108,6 +108,7 @@ amalgamate verb
 amass verb
 amaze verb
 ambush verb
+ameliorate verb
 amend verb
 amortize verb gb=amortise|amortize
 amount verb

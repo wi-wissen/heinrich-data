@@ -79,6 +79,7 @@ parade noun
 paradigm noun
 paradise noun
 paradox noun
+paraffin noun
 paragraph noun
 parakeet noun
 paralegal noun
@@ -98,6 +99,7 @@ parasol noun
 paratrooper noun
 parcel noun
 parchment noun
+pard noun style=archaic conf=80 note=leopard (archaic); also US dialect for partner
 pardon noun
 parent noun
 parentage noun pl=- note=uncountable
@@ -145,6 +147,7 @@ pascal noun note=unit of pressure
 pasha noun
 pass noun
 passage noun
+passageway noun
 passcode noun
 passenger noun
 passer-by noun pl=passers-by
@@ -249,6 +252,7 @@ pelvis noun pl=pelvises|pelves
 pen noun
 penalty noun
 penance noun
+penchant noun
 pencil noun
 pendant noun
 pendulum noun
@@ -335,6 +339,7 @@ pew noun
 pewter noun pl=- note=uncountable
 pH noun abbr pl=- note=measure of acidity
 phage noun
+phalanx noun pl=phalanxes|phalanges
 phantom noun
 pharaoh noun
 pharmaceutical noun
@@ -360,8 +365,10 @@ phone noun
 phonetics noun pl=- note=takes a singular verb
 phonograph noun
 phonology noun
+phony noun gb=phoney|phony
 phosphate noun
 phosphorus noun pl=- note=uncountable
+phosphorylation noun
 photo noun pl=photos
 photocopier noun
 photocopy noun
@@ -456,6 +463,7 @@ plague noun
 plaice noun pl=plaice
 plaid noun
 plain noun
+plainness noun pl=- note=uncountable
 plaintext noun pl=- note=uncountable
 plaintiff noun
 plait noun region=GB note=US braid
@@ -499,11 +507,13 @@ pleasure noun
 plebeian noun
 pledge noun
 plenary noun
+plenipotentiary noun
 plenty noun pl=- note=uncountable
 plethora noun
 plexus noun pl=plexuses|plexus
 plight noun
 plot noun
+plotter noun
 plow noun gb=plough
 pluck noun
 plug noun
@@ -522,6 +532,7 @@ plurality noun
 plush noun
 plutonium noun pl=- note=uncountable
 ply noun
+plywood noun pl=- note=uncountable
 PM noun abbr note=Prime Minister
 pneumonia noun pl=- note=uncountable
 poacher noun
@@ -569,6 +580,7 @@ pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
 polyethylene noun pl=- note=uncountable
 polygamy noun pl=- note=uncountable
+polygon noun
 polymer noun
 polymerase noun
 polynomial noun
@@ -587,6 +599,7 @@ pop noun
 popcorn noun pl=- note=uncountable
 pope noun
 poplar noun
+popper noun
 poppy noun
 populace noun
 popularity noun pl=- note=uncountable
@@ -622,6 +635,7 @@ positivity noun pl=- note=uncountable
 positron noun
 posse noun
 possession noun
+possessive noun
 possessor noun
 possibility noun
 possum noun
@@ -649,6 +663,7 @@ potato noun pl=potatoes
 potency noun
 potential noun
 pothole noun
+potion noun
 potter noun
 pottery noun
 potty noun
@@ -692,6 +707,7 @@ precursor noun
 predation noun pl=- note=uncountable
 predator noun
 predecessor noun
+predestination noun pl=- note=uncountable
 predicament noun
 predicate noun
 predictability noun pl=- note=uncountable
@@ -824,6 +840,7 @@ profile noun
 profit noun
 profitability noun pl=- note=uncountable
 profiteering noun pl=- note=uncountable
+profligate noun
 profusion noun
 progenitor noun
 progeny noun pl=- note=collective

@@ -75,6 +75,7 @@ waterway noun
 watt noun
 wattle noun
 wave noun
+waveform noun
 wavelength noun
 wax noun
 way noun

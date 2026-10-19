@@ -67,6 +67,7 @@ judiciary      noun
 judo noun pl=- note=uncountable
 jug noun
 juice          noun
+jumble noun
 jump           noun
 jumper noun
 junction       noun

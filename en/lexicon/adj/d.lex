@@ -22,6 +22,7 @@ deaf adj cmp=er
 deafblind adj
 deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
+deathly adj
 deceased adj
 deceitful adj cmp=more adv=deceitfully
 decennial adj
@@ -32,6 +33,7 @@ decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
 decorous adj
+decrepit adj
 deductible adj
 deductive adj adv=deductively
 deep adj cmp=er adv=deeply
@@ -39,6 +41,7 @@ defective adj
 defenseless adj gb=defenceless
 defensible adj
 defensive adj adv=defensively
+deferential adj adv=deferentially
 defiant adj adv=defiantly
 deficient adj
 definite adj adv=definitely
@@ -72,6 +75,7 @@ deplorable adj cmp=more adv=deplorably
 depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
+deranged adj
 derelict adj
 derisive adj cmp=more adv=derisively
 derivative adj
@@ -166,6 +170,7 @@ disillusioned adj cmp=more
 disinterested adj
 disjoint adj
 disjointed adj cmp=more adv=disjointedly
+disloyal adj
 dismal adj adv=dismally
 dismissive adj cmp=more adv=dismissively
 disordered adj cmp=more
@@ -183,6 +188,7 @@ disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
 dissimilar adj cmp=more
+dissolute adj
 distal adj
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
@@ -215,6 +221,7 @@ doleful adj
 domed adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
+domineering adj
 Dominican adj
 dormant adj
 dorsal adj

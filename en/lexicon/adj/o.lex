@@ -18,8 +18,10 @@ obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obstructive adj
+obtainable adj
 obvious        adj cmp=more adv=obviously
 occasional     adj adv=occasionally
+occludent adj conf=80 note=rare, occluding
 occult adj
 occupational   adj
 oceanic        adj
@@ -42,11 +44,13 @@ olfactory adj
 Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
+omnipotent adj
 onboard adj
 oncoming adj attr_only
 onerous adj cmp=more adv=onerously
 ongoing        adj
 online         adj
+onscreen adj
 onshore        adj
 onsite adj
 onstage adj

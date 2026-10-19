@@ -20,6 +20,7 @@ hark verb style=archaic
 harm           verb
 harmonize verb gb=harmonise|harmonize
 harness        verb
+harpoon verb
 harvest        verb
 hash verb
 hasten         verb
@@ -35,6 +36,7 @@ headquarter    verb note=mostly the participle headquartered
 heal           verb
 heap           verb
 hear           verb past=heard pp=heard
+hearten verb
 heat           verb
 heave verb past=heaved|hove pp=heaved|hove
 hedge          verb
@@ -69,6 +71,7 @@ holiday        verb
 holler verb style=colloquial
 hollow verb
 home           verb
+honeycomb verb
 honeymoon verb
 honor          verb gb=honour
 hook           verb
@@ -84,6 +87,7 @@ house          verb
 hover verb
 howl verb
 huddle verb
+huff verb
 hug verb
 hum            verb
 humble         verb
@@ -97,5 +101,6 @@ hurry          verb
 hurt           verb past=hurt pp=hurt
 hush           verb
 hustle verb
+hydrate verb
 hyperlink verb
 hypothesize verb gb=hypothesise|hypothesize

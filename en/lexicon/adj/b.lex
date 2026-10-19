@@ -18,6 +18,7 @@ bare adj cmp=er
 barefoot adj
 barefooted adj
 bareheaded adj
+baronial adj
 baroque adj
 barren adj cmp=more
 basal adj
@@ -49,6 +50,7 @@ Berber adj
 bereaved adj
 bereft adj pred_only
 bespoke adj
+bestselling adj
 biannual adj adv=biannually
 biblical adj
 bicentennial adj
@@ -62,6 +64,7 @@ binary adj
 binding adj
 binomial adj
 biochemical adj
+biodegradable adj
 biographical adj
 biological adj adv=biologically
 biomedical adj
@@ -85,6 +88,7 @@ bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
 blissful adj adv=blissfully
+blithe adj adv=blithely
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
 blooded adj note=mostly in compounds: cold-blooded, warm-blooded, blue-blooded
@@ -110,6 +114,7 @@ Bosnian adj
 bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
+bountiful adj
 bourgeois adj
 bovine adj
 boyish adj cmp=more adv=boyishly

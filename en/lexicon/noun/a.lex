@@ -15,6 +15,7 @@ abnormality noun
 abode noun
 abolition noun
 abolitionist noun
+abomination noun
 aborigine noun
 Aborigine noun note=indigenous Australian
 abortion noun
@@ -62,6 +63,7 @@ accountability noun pl=- note=uncountable
 accountancy noun pl=- note=uncountable
 accountant noun
 accounting noun pl=- note=uncountable
+accoutrement noun
 accreditation noun
 accretion noun
 accrual noun
@@ -175,6 +177,7 @@ advocate noun
 adware noun pl=- note=uncountable
 aerial noun
 aerodrome noun
+aerodynamics noun pl=- note=uncountable
 aeronautics noun pl=- note=singular in use
 aerosol noun
 aerospace noun pl=- note=uncountable
@@ -202,6 +205,7 @@ age noun
 agency noun
 agenda noun
 agent noun
+agglomeration noun
 aggregate noun
 aggregation noun
 aggregator noun
@@ -294,9 +298,11 @@ altar noun
 alteration noun
 altercation noun
 alternate noun
+alternation noun
 alternative noun
 altitude noun
 alto noun pl=altos
+alumina noun pl=- note=uncountable
 aluminum noun gb=aluminium pl=- note=uncountable
 alumna noun pl=alumnae
 alumnus noun pl=alumni
@@ -336,6 +342,7 @@ analogy noun
 analysis noun pl=analyses
 analyst noun
 analytics noun pl_only conf=90 note=construed as singular or plural
+analyzer noun gb=analyser
 anarchist noun
 anarchy noun pl=- note=uncountable
 anatomy noun
@@ -370,6 +377,7 @@ annex noun gb=annexe|annex conf=90 note=British annexe for an added building
 annexation noun
 annihilation noun
 anniversary noun
+annotation noun
 announcement noun
 announcer noun
 annoyance noun
@@ -587,6 +595,7 @@ assortment noun
 assumption noun
 assurance noun
 Assyrian noun
+asterisk noun
 asteroid noun
 asthma noun pl=- note=uncountable
 astonishment noun pl=- note=uncountable
@@ -661,6 +670,7 @@ autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
 autocorrect noun pl=- note=uncountable
+autocracy noun
 autograph noun
 automaker noun
 automation noun pl=- note=uncountable
@@ -691,6 +701,7 @@ awardee noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable
 awkwardness noun
+awning noun
 axe noun us=ax|axe
 axiom noun
 axis noun pl=axes

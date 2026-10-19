@@ -133,6 +133,7 @@ girl           noun
 girlfriend     noun
 girlhood noun
 git noun style=colloquial region=GB
+giver noun
 glaciation noun
 glacier noun
 glade noun
@@ -214,6 +215,7 @@ GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
 grab           noun
 grace          noun
+graciousness noun pl=- note=uncountable
 gradation noun
 grade          noun
 gradient noun
@@ -301,6 +303,8 @@ grizzly        noun
 groan          noun
 grocer noun
 grocery        noun
+grog noun pl=- note=uncountable
+groin noun
 groom noun
 groove noun
 grotto noun pl=grottoes|grottos
@@ -349,6 +353,7 @@ gunfire noun pl=- note=uncountable
 gunman noun pl=gunmen
 gunner noun
 gunnery noun pl=- note=uncountable
+gunpoint noun pl=- note=only in at gunpoint
 gunpowder noun
 gunshot noun
 gunwale noun

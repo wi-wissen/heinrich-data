@@ -1,5 +1,7 @@
 yacht noun
 yak noun
+Yank noun style=colloquial note=an American
+yank noun
 Yankee noun note=demonym or religious name, capitalized
 yap noun
 yard noun

@@ -1,6 +1,7 @@
 tabloid adj
 taboo adj
 tacit adj adv=tacitly
+taciturn adj
 tactful adj cmp=more adv=tactfully
 tactical adj adv=tactically
 Taiwanese adj
@@ -72,6 +73,7 @@ threefold adj
 thrifty adj cmp=er adv=thriftily
 thrilled adj
 thrilling adj
+thunderous adj
 thundery adj
 thyroid adj
 Tibetan adj
@@ -103,6 +105,7 @@ topographical adj
 topological adj adv=topologically
 tortuous adj
 total adj adv=totally
+totalitarian adj
 totemic adj
 tough adj cmp=er
 towering adj
@@ -131,6 +134,7 @@ transparent adj cmp=more adv=transparently
 transverse adj adv=transversely
 traumatic adj
 treacherous adj
+treasonable adj
 treble adj
 tremendous adj adv=tremendously
 tremulous adj adv=tremulously
@@ -139,6 +143,7 @@ triable adj
 triangular adj
 tribal adj
 tricky adj cmp=er
+triennial adj adv=triennially
 trifling adj
 trilateral adj
 tripartite adj

@@ -14,4 +14,5 @@ ppm x abbr note=parts per million
 priori x foreign note=only in a priori, a posteriori
 Prix x foreign note=only in Grand Prix
 PS x abbr note=postscript
+pshaw intj
 Pt. x abbr conf=80 note=part (in legal citations); also point

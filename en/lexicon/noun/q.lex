@@ -14,6 +14,7 @@ quantification noun
 quantity      noun
 quantum       noun pl=quanta
 quarantine noun
+quark noun
 quarrel       noun
 quarry        noun
 quart noun
@@ -30,6 +31,7 @@ queer         noun
 query         noun
 quest         noun
 question      noun
+questioner noun
 questioning   noun
 questionnaire noun
 queue noun
@@ -39,6 +41,7 @@ quiet         noun pl=- note=uncountable
 quietness noun pl=- note=uncountable
 quill noun
 quilt noun
+quinoa noun pl=- note=uncountable
 quinone noun
 quintet noun
 quiver        noun

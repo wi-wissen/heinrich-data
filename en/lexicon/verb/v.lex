@@ -10,6 +10,7 @@ vape verb
 varnish verb
 vary          verb
 vault         verb
+veer verb
 veil          verb
 vend verb
 venerate verb

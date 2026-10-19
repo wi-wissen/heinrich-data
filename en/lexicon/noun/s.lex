@@ -94,12 +94,14 @@ savior noun gb=saviour
 savor noun gb=savour
 savvy noun pl=- note=uncountable
 saw noun
+sawdust noun pl=- note=uncountable
 sawmill noun
 sax noun
 Saxon noun
 saxophone noun
 saxophonist noun
 saying noun
+scabbard noun
 scaffold noun
 scaffolding noun pl=- note=uncountable (the structure)
 scalability noun pl=- note=uncountable
@@ -107,6 +109,7 @@ scalar noun
 scale noun
 scalp noun
 scam noun
+scamp noun
 scan noun
 scandal noun
 scanner noun
@@ -190,6 +193,7 @@ scud noun
 scuffle noun
 sculptor noun
 sculpture noun
+scum noun pl=- note=uncountable
 scuttle noun
 scutum noun pl=scuta note=anatomical plate (insects, reptiles)
 scythe noun
@@ -207,6 +211,7 @@ seal noun
 seam noun
 seaman noun pl=seamen
 seamanship noun pl=- note=uncountable
+seamstress noun
 seaplane noun
 seaport noun
 search noun
@@ -284,6 +289,7 @@ sentinel noun
 sentry noun
 separation noun
 separatist noun
+separator noun
 sepsis noun pl=- note=uncountable
 septum noun pl=septa
 sepulchre noun us=sepulcher|sepulchre
@@ -328,6 +334,7 @@ sewerage noun pl=- note=uncountable
 sex noun
 sexuality noun
 shack noun
+shackle noun
 shad noun pl=shad|shads
 shade noun
 shadow noun
@@ -385,6 +392,7 @@ shipwreck noun
 shipyard noun
 shire noun
 shirt noun
+shit noun style=colloquial
 shiver noun
 shoal noun
 shock noun
@@ -460,6 +468,7 @@ signal noun
 signatory noun
 signature noun
 signboard noun
+signer noun
 significance noun
 signification noun
 signorina noun pl=signorinas|signorine conf=85 note=Italian loanword; plural forms unsure
@@ -523,7 +532,9 @@ skirmish noun
 skirmisher noun
 skirt noun
 skull noun
+skunk noun
 sky noun
+skylight noun
 skyline noun
 skyscraper noun
 SLA noun abbr note=service-level agreement
@@ -572,6 +583,7 @@ slugger noun
 sluice noun
 slum noun
 slumber noun
+slump noun
 slur noun
 slurry noun
 smallholder noun
@@ -693,11 +705,13 @@ sovereign noun
 sovereignty noun
 Soviet noun
 sow noun note=female pig
+soy noun pl=- note=uncountable
 spa noun
 space noun
 spacecraft noun pl=spacecraft
 spaceflight noun
 spaceship noun
+spacetime noun pl=- note=uncountable
 spacing noun
 spade noun
 spadefoot noun
@@ -789,6 +803,7 @@ spot noun
 spotlight noun
 spotter noun
 spouse noun
+spout noun
 sprawl noun pl=- note=uncountable (urban sprawl)
 spray noun
 spreadsheet noun
@@ -899,10 +914,13 @@ steel noun
 steelhead noun pl=steelhead conf=85 note=plural steelheads unsure
 steelmaking noun pl=- note=uncountable
 steelworker noun
+steelworks noun pl=steelworks note=singular and plural: a steelworks
 steeple noun
 steerage noun pl=- note=uncountable
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
+stench noun
 stenographer noun
+stenosis noun pl=stenoses
 step noun
 stepbrother noun
 stepchild noun pl=stepchildren
@@ -970,6 +988,7 @@ stormwater noun pl=- note=uncountable
 story noun sense=floor gb=storey
 story noun sense=tale
 storyline noun
+storyteller noun
 storytelling noun pl=- note=uncountable
 stove noun
 straddle noun
@@ -1078,6 +1097,7 @@ substitute noun
 substitution noun
 substrate noun
 subsurface noun pl=- note=uncountable
+subterfuge noun
 subtitle noun
 subtlety noun
 subtotal noun
@@ -1092,8 +1112,10 @@ success noun
 succession noun
 successor noun
 succor noun gb=succour
+succulent noun
 suck noun style=colloquial conf=85 note=rare noun use
 sucker noun
+suction noun pl=- note=uncountable
 Sudanese noun pl=Sudanese
 suddenness noun pl=- note=uncountable
 sudoku noun
@@ -1157,6 +1179,7 @@ supervision noun
 supervisor noun
 supper noun
 supplement noun
+supplementation noun
 supplication noun
 supplier noun
 supply noun
@@ -1177,6 +1200,7 @@ surmise noun
 surname noun
 surplus noun
 surprise noun
+surrealist noun
 surrender noun
 surrogate noun
 surroundings noun pl_only
@@ -1229,6 +1253,7 @@ swirl noun
 switch noun
 switchboard noun
 swoon noun
+swoop noun
 sword noun
 sycamore noun
 syllable noun
@@ -1250,6 +1275,7 @@ synergy noun
 synod noun
 synonym noun
 syntax noun
+synth noun
 synthesis noun pl=syntheses
 synthesizer noun gb=synthesiser|synthesizer
 syphilis noun pl=- note=uncountable

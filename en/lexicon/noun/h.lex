@@ -26,6 +26,7 @@ hallmark noun
 hallucination noun
 hallway noun
 halo noun pl=haloes|halos
+halogen noun
 halt           noun
 ham            noun
 hamburger noun
@@ -56,6 +57,7 @@ hangar noun
 hanger noun
 hanging noun
 hansom noun
+haplogroup noun
 happening noun
 happiness      noun pl=- note=uncountable
 harangue noun
@@ -72,11 +74,13 @@ hardwood noun
 hare noun
 harem noun
 harm           noun
+harmonic noun
 harmonica noun
 harmonization noun gb=harmonisation|harmonization
 harmony        noun
 harness        noun
 harp noun
+harpoon noun
 harpsichord noun
 harrier noun
 harshness noun pl=- note=uncountable
@@ -131,6 +135,7 @@ headstone noun
 headteacher noun region=GB
 headwaters noun pl_only
 headway noun pl=- note=make headway
+headwind noun
 health         noun pl=- note=uncountable
 healthcare     noun pl=- note=uncountable
 heap           noun
@@ -140,6 +145,7 @@ hearsay noun pl=- note=uncountable
 hearse noun
 heart          noun
 heartache noun
+heartbeat noun
 heartbreak noun
 hearth         noun
 heartland noun
@@ -193,6 +199,7 @@ heredity noun pl=- note=uncountable
 heresy noun
 heretic noun
 heritage       noun
+hermeneutics noun pl=- note=uncountable
 hermit noun
 hermitage noun
 hernia noun
@@ -207,6 +214,7 @@ heterosexual noun
 hexameter noun
 heyday noun
 hiatus noun pl=hiatuses|hiatus
+hibernation noun pl=- note=uncountable
 hiccup noun
 hickory noun
 hide           noun
@@ -284,11 +292,13 @@ homework noun pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
 homology noun
+homomorphism noun
 homophobia noun pl=- note=uncountable
 homosexual noun
 homosexuality noun
 honesty        noun pl=- note=uncountable
 honey          noun
+honeycomb noun
 honeymoon noun
 honeysuckle noun
 honor          noun gb=honour
@@ -350,12 +360,14 @@ housework noun pl=- note=uncountable
 housing        noun
 Houthi noun
 hovel noun
+howitzer noun
 howl noun
 HQ noun abbr note=headquarters
 hub            noun
 hubbub noun
 hubby noun style=colloquial
 hue            noun
+huff noun
 hug noun
 Huguenot noun
 hulk noun
@@ -399,6 +411,7 @@ hut            noun
 hutch noun
 hybrid         noun
 hydrangea noun
+hydrate noun
 hydrazine noun pl=- note=uncountable
 hydrocarbon noun
 hydrogen       noun pl=- note=uncountable
@@ -410,6 +423,7 @@ hydroxyl noun
 hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun
+hyperactivity noun pl=- note=uncountable
 hyperlink noun
 hypertension noun pl=- note=uncountable
 hypocrisy noun
@@ -418,3 +432,4 @@ hypotension noun pl=- note=uncountable
 hypothesis     noun pl=hypotheses
 hypothyroidism noun pl=- note=uncountable
 hysteria noun pl=- note=uncountable
+hysterics noun pl_only

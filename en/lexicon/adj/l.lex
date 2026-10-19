@@ -87,7 +87,7 @@ livid adj
 loath adj pred_only
 loathsome adj cmp=more
 local         adj adv=locally
-lofty         adj cmp=er
+lofty         adj cmp=er adv=loftily
 logarithmic adj adv=logarithmically
 logical       adj cmp=more adv=logically
 logistic adj
