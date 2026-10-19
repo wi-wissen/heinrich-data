@@ -3,6 +3,7 @@ mager adj cmp=magerer sup=magersten
 magisch adj
 magnetisch adj
 malerisch adj cmp=malerischer sup=malerischsten
+malisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 männlich adj
 manuell adj
@@ -31,12 +32,15 @@ menschlich adj cmp=menschlicher sup=menschlichsten
 merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
 metaphorisch adj
+methodisch adj
 mexikanisch adj
 mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
 militärisch adj
 minderjährig adj
+mindest adj attr_only note=superlative of wenig in the phrases das mindeste, nicht im mindesten
 mineralisch adj
+minimal adj
 miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
@@ -56,6 +60,7 @@ mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj
 monatlich adj
+monumental adj
 moralisch adj cmp=moralischer sup=moralischsten
 morgig adj attr_only
 morsch adj cmp=morscher sup=morschesten
@@ -65,6 +70,7 @@ muffig adj cmp=muffiger sup=muffigsten
 mühelos adj cmp=müheloser sup=mühelosesten
 mühsam adj cmp=mühsamer sup=mühsamsten
 mulmig adj cmp=mulmiger sup=mulmigsten
+multilateral adj
 multimedial adj
 mündig adj
 mündlich adj

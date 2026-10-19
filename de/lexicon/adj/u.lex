@@ -118,6 +118,7 @@ unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
 unterhaltspflichtig adj
 unterirdisch adj
 unterjährig adj
+unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj

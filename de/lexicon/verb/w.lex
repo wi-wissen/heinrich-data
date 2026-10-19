@@ -6,12 +6,15 @@ wachsen verb class=weak pp=gewachst perf=haben sense=wax note=Ski wachsen: apply
 wackeln verb class=weak pp=gewackelt perf=haben
 wagen verb class=weak pp=gewagt perf=haben refl=acc
 wählen verb class=weak pp=gewählt perf=haben
+wähnen verb class=weak pp=gewähnt perf=haben
 wahren verb class=weak pp=gewahrt perf=haben
+währen verb class=weak pp=gewährt perf=haben note=to last
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
 walken verb class=weak pp=gewalkt perf=haben|sein
 walten verb class=weak pp=gewaltet perf=haben
 walzen verb class=weak pp=gewalzt perf=haben|sein
 wälzen verb class=weak pp=gewälzt perf=haben refl=acc
+wandeln verb class=weak pp=gewandelt perf=haben|sein refl=acc
 wandern      verb class=weak pp=gewandert perf=sein
 wanken verb class=weak pp=gewankt perf=haben|sein
 wärmen verb class=weak pp=gewärmt perf=haben refl=acc
@@ -86,6 +89,7 @@ weichen verb class=weak pp=geweicht perf=haben|sein sense=soften note=die Wäsch
 weiden verb class=weak pp=geweidet perf=haben
 weigern verb class=weak pp=geweigert perf=haben refl=acc
 weihen verb class=weak pp=geweiht perf=haben
+weilen verb class=weak pp=geweilt perf=haben
 weinen verb class=weak pp=geweint perf=haben
 weisen verb class=strong 3sg=weist past=wies pp=gewiesen subj2=wiese perf=haben
 weiterarbeiten verb class=weak sep=weiter pp=weitergearbeitet perf=haben

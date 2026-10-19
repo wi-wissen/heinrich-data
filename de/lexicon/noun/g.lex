@@ -15,6 +15,7 @@ Gans noun g=f gen=Gans pl=Gänse
 Gänseblümchen noun g=n gen=Gänseblümchens pl=Gänseblümchen
 Gänsebraten noun g=m gen=Gänsebratens pl=Gänsebraten note=compound; the analyser would take braten as head
 Gänsehaut noun g=f gen=Gänsehaut pl=- note=no plural (mass or abstract noun)
+Gänze noun g=f gen=Gänze pl=- conf=85 note=only in the fixed phrase zur Gänze
 Ganzschrift noun g=f gen=Ganzschrift pl=Ganzschriften
 Ganztagsschule noun g=f gen=Ganztagsschule pl=Ganztagsschulen
 Garage noun g=f gen=Garage pl=Garagen
@@ -116,6 +117,7 @@ Gehilfe noun g=m gen=Gehilfen pl=Gehilfen
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehirnerschütterung noun g=f gen=Gehirnerschütterung pl=Gehirnerschütterungen
 Gehöft noun g=n gen=Gehöfts|Gehöftes pl=Gehöfte
+Gehölz noun g=n gen=Gehölzes pl=Gehölze
 Gehör noun g=n gen=Gehörs|Gehöres pl=- note=sense of hearing; mass noun
 Gehorsam noun g=m gen=Gehorsams pl=- note=no plural
 Gehsteig noun g=m gen=Gehsteigs|Gehsteiges pl=Gehsteige
@@ -228,6 +230,7 @@ Geschäft noun g=n gen=Geschäfts|Geschäftes[rare] pl=Geschäfte
 Geschäftsführerin noun g=f gen=Geschäftsführerin pl=Geschäftsführerinnen
 Geschäftsmann noun g=m gen=Geschäftsmannes|Geschäftsmanns pl=Geschäftsleute|Geschäftsmänner
 Geschehen noun g=n gen=Geschehens pl=- note=lexicalised nominal infinitive (das Geschehen = events); plural not used
+Geschehnis noun g=n gen=Geschehnisses pl=Geschehnisse
 Geschenk noun g=n gen=Geschenks|Geschenkes pl=Geschenke
 Geschichte noun g=f gen=Geschichte pl=Geschichten
 Geschick noun g=n gen=Geschicks|Geschickes pl=Geschicke note=skill (no plural) or fate (rare plural)
@@ -414,6 +417,7 @@ Gram noun g=m gen=Grams|Grames pl=- conf=80 note=literary: grief (vor Gram); no 
 Gramm noun g=n gen=Gramms pl=Gramm|Gramme
 Grammatik noun g=f gen=Grammatik pl=Grammatiken
 Gran noun g=n gen=Grans|Granes pl=Grane conf=80 note=old unit of weight (kein Gran Wahrheit); many hits are names (Gran Canaria)
+Granate noun g=f gen=Granate pl=Granaten
 Granit noun g=m gen=Granits|Granites pl=Granite
 Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen

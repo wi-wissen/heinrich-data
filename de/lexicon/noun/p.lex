@@ -197,6 +197,7 @@ Phishing noun g=n gen=Phishings pl=- note=no plural
 Photographie noun g=f gen=Photographie pl=Photographien note=variant spelling of Fotografie
 Photosynthese noun g=f gen=Photosynthese pl=- note=no plural
 Photovoltaik noun g=f gen=Photovoltaik pl=- note=no plural
+Phrase noun g=f gen=Phrase pl=Phrasen
 Physik noun g=f gen=Physik pl=- note=mass noun
 Physiker noun g=m gen=Physikers pl=Physiker
 Physikerin noun g=f gen=Physikerin pl=Physikerinnen
@@ -266,6 +267,7 @@ Podcast noun g=m gen=Podcasts pl=Podcasts
 Podest noun g=n gen=Podests|Podestes pl=Podeste
 Podium noun g=n gen=Podiums pl=Podien
 Poesie noun g=f gen=Poesie pl=Poesien
+Poet noun g=m gen=Poeten pl=Poeten
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
 Pol noun g=m gen=Pols pl=Pole
@@ -380,6 +382,7 @@ Privatisierung noun g=f gen=Privatisierung pl=Privatisierungen
 Privatschule noun g=f gen=Privatschule pl=Privatschulen
 Privileg noun g=n gen=Privilegs|Privileges pl=Privilegien
 Probe noun g=f gen=Probe pl=Proben
+Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling); Nahme is not a word
 Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
@@ -418,6 +421,7 @@ Propst noun g=m gen=Propstes|Propsts pl=Pröpste
 Prosa noun g=f gen=Prosa pl=- note=mass noun
 Prosit noun g=n gen=Prosit pl=- note=no genitive ending
 Prospekt noun g=m gen=Prospekts|Prospektes pl=Prospekte
+Prostituierte noun g=m|f decl=adj
 Prostitution noun g=f gen=Prostitution pl=- note=mass noun
 Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
@@ -437,6 +441,7 @@ Provision noun g=f gen=Provision pl=Provisionen
 Prozent noun g=n gen=Prozents|Prozentes pl=Prozent|Prozente
 Prozess noun g=m gen=Prozesses pl=Prozesse
 Prozession noun g=f gen=Prozession pl=Prozessionen
+Prozessor noun g=m gen=Prozessors pl=Prozessoren
 Prüfer noun g=m gen=Prüfers pl=Prüfer
 Prüferin noun g=f gen=Prüferin pl=Prüferinnen
 Prüfling noun g=m gen=Prüflings pl=Prüflinge
@@ -444,6 +449,7 @@ Prüfung noun g=f gen=Prüfung pl=Prüfungen
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
 Psalm noun g=m gen=Psalms pl=Psalmen
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
+Psyche noun g=f gen=Psyche pl=Psychen
 Psychiater noun g=m gen=Psychiaters pl=Psychiater
 Psychiaterin noun g=f gen=Psychiaterin pl=Psychiaterinnen
 Psychiatrie noun g=f gen=Psychiatrie pl=Psychiatrien

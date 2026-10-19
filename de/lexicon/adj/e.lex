@@ -33,6 +33,7 @@ einschlägig adj attr_only
 einseitig adj
 einstig adj attr_only
 einstimmig adj
+einstweilig adj
 eintönig adj cmp=eintöniger sup=eintönigsten
 einvernehmlich adj
 einverstanden adj indecl note=only predicative (einverstanden sein)
@@ -48,8 +49,11 @@ elektrisch adj
 elektronisch adj
 elementar adj cmp=elementarer sup=elementarsten
 elend adj cmp=elender sup=elendsten
+elliptisch adj
 elterlich adj
+emeritiert adj
 emotional adj
+empfänglich adj cmp=empfänglicher sup=empfänglichsten
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 emsig adj
@@ -108,6 +112,7 @@ eventuell adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+exklusiv adj cmp=exklusiver sup=exklusivsten
 experimentell adj
 explizit adj
 explosiv adj

@@ -22,6 +22,7 @@ kläglich adj
 klar adj cmp=klarer sup=klarsten
 klasse adj indecl
 klassisch adj
+klassizistisch adj
 klebrig adj cmp=klebriger sup=klebrigsten
 klein        adj cmp=kleiner sup=kleinsten
 klimatisch adj
@@ -81,6 +82,7 @@ kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj
 krümelig adj cmp=krümeliger sup=krümeligsten
 krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
+kubanisch adj
 kubisch adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
