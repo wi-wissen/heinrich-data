@@ -10,6 +10,7 @@ katastrophal adj
 katholisch adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
+keltisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kennzeichnungspflichtig adj
 kinderlos adj
@@ -32,12 +33,14 @@ knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
 kollaborativ adj
 kollektiv adj
+kolumbianisch adj
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
 kommissarisch adj
 kommunal adj
 kommunikativ adj cmp=kommunikativer sup=kommunikativsten
 kommunistisch adj
+kompakt adj cmp=kompakter sup=kompaktesten
 kompatibel adj cmp=kompatibler sup=kompatibelsten
 kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
@@ -70,6 +73,7 @@ krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but un
 kränklich adj cmp=kränklicher sup=kränklichsten
 krass adj cmp=krasser sup=krassesten
 kraus adj cmp=krauser sup=krausesten
+krautig adj note=botany: krautige Pflanzen
 kreativ adj cmp=kreativer sup=kreativsten
 kribbelig adj cmp=kribbeliger sup=kribbeligsten
 kriegerisch adj

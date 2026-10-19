@@ -127,6 +127,7 @@ Teufel noun g=m gen=Teufels pl=Teufel
 Text noun g=m gen=Textes|Texts pl=Texte
 Textaufgabe noun g=f gen=Textaufgabe pl=Textaufgaben
 Textil noun g=n gen=Textils pl=Textilien note=mostly plural die Textilien
+Textilien noun g=pl
 Textmarker noun g=m gen=Textmarkers pl=Textmarker
 Textverarbeitung noun g=f gen=Textverarbeitung pl=- note=no plural
 Thai noun g=n gen=Thai|Thais pl=- conf=70 note=language (das Thai); also the people, unsure about the plural
@@ -177,6 +178,7 @@ Tischchen noun g=n gen=Tischchens pl=Tischchen
 Tischler noun g=m gen=Tischlers pl=Tischler
 Tischlerin noun g=f gen=Tischlerin pl=Tischlerinnen
 Titel noun g=m gen=Titels pl=Titel
+Titularbischof noun g=m gen=Titularbischofs pl=Titularbischöfe
 To-do-Liste noun g=f gen=To-do-Liste pl=To-do-Listen
 Toast noun g=m gen=Toastes|Toasts pl=Toaste|Toasts
 Toaster noun g=m gen=Toasters pl=Toaster

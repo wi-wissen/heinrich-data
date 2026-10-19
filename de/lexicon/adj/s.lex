@@ -3,6 +3,7 @@ sachgemäß adj
 sachlich adj cmp=sachlicher sup=sachlichsten
 sächlich adj
 sächsisch adj
+sacht adj cmp=sachter sup=sachtesten note=also sachte (adverb: sachte, sachte)
 saftig adj cmp=saftiger sup=saftigsten
 saisonal adj
 salvatorisch adj note=salvatorische Klausel
@@ -58,6 +59,7 @@ schuldig adj
 schulisch adj
 schulpflichtig adj
 schusselig adj cmp=schusseliger sup=schusseligsten
+schwäbisch adj
 schwach adj cmp=schwächer sup=schwächsten
 schwachsinnig adj cmp=schwachsinniger sup=schwachsinnigsten
 schwanger adj
@@ -84,7 +86,7 @@ selten adj attr=seltene|seltne[rare] cmp=seltener sup=seltensten
 seltsam adj cmp=seltsamer sup=seltsamsten
 senil adj cmp=seniler sup=senilsten
 senkrecht adj
-sensibel adj attr=sensible cmp=sensibler sup=sensibelsten
+sensibel adj cmp=sensibler sup=sensibelsten
 separat adj
 serbisch adj
 seriös adj cmp=seriöser sup=seriösesten
@@ -149,6 +151,7 @@ ständig adj
 stark adj cmp=stärker sup=stärksten
 starr adj cmp=starrer sup=starrsten
 stationär adj
+statisch adj
 statistisch adj
 stattlich adj cmp=stattlicher sup=stattlichsten
 steif adj cmp=steifer sup=steifsten
@@ -177,6 +180,7 @@ strittig adj
 strukturell adj
 strukturiert adj cmp=strukturierter sup=strukturiertesten
 struppig adj cmp=struppiger sup=struppigsten
+studentisch adj
 stumm adj cmp=stummer sup=stummsten
 stumpf adj cmp=stumpfer sup=stumpfsten
 stündlich adj
@@ -184,6 +188,7 @@ stur adj cmp=sturer sup=stursten|sturesten
 stürmisch adj cmp=stürmischer sup=stürmischsten
 subjektiv adj
 subsidiär adj
+substanziell adj
 subtropisch adj
 süchtig adj cmp=süchtiger sup=süchtigsten
 südafrikanisch adj
@@ -200,5 +205,6 @@ symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj
 sympathisch adj cmp=sympathischer sup=sympathischsten
 synchron adj note=simultaneous; also in Synchronfassung
+synthetisch adj
 syrisch adj
 systematisch adj cmp=systematischer sup=systematischsten

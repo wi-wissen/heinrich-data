@@ -84,6 +84,7 @@ Recht noun g=n gen=Rechts|Rechtes pl=Rechte
 Rechte noun g=m|f decl=adj note=der Rechte (right-wing), die Rechte (right hand / political right)
 Rechteck noun g=n gen=Rechtecks|Rechteckes pl=Rechtecke
 Rechtfertigung noun g=f gen=Rechtfertigung pl=Rechtfertigungen
+Rechtmäßigkeit noun g=f gen=Rechtmäßigkeit pl=- note=mass noun
 Rechtsanwalt noun g=m gen=Rechtsanwalts|Rechtsanwaltes pl=Rechtsanwälte
 Rechtschreibung noun g=f gen=Rechtschreibung pl=Rechtschreibungen
 Rechtsextremismus noun g=m gen=Rechtsextremismus pl=- note=mass noun
@@ -209,6 +210,7 @@ Repräsentant noun g=m gen=Repräsentanten pl=Repräsentanten
 Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Repräsentantin noun g=f gen=Repräsentantin pl=Repräsentantinnen
 Repräsentation noun g=f gen=Repräsentation pl=Repräsentationen
+Repression noun g=f gen=Repression pl=Repressionen
 Reptil noun g=n gen=Reptils pl=Reptilien|Reptile
 Republik noun g=f gen=Republik pl=Republiken
 Republikaner noun g=m gen=Republikaners pl=Republikaner
@@ -278,6 +280,7 @@ Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
 Rittmeister noun g=m gen=Rittmeisters pl=Rittmeister note=cavalry captain
 Ritual noun g=n gen=Rituals pl=Rituale
 Ritus noun g=m gen=Ritus pl=Riten note=des Ritus
+Rivale noun g=m gen=Rivalen pl=Rivalen
 Rivalität noun g=f gen=Rivalität pl=Rivalitäten
 Roadmap noun g=f gen=Roadmap pl=Roadmaps
 Robbe noun g=f gen=Robbe pl=Robben

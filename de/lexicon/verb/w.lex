@@ -196,6 +196,7 @@ wischen verb class=weak pp=gewischt perf=haben
 wispern verb class=weak pp=gewispert perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben
 wohnen verb class=weak pp=gewohnt perf=haben
+wölben verb class=weak pp=gewölbt perf=haben refl=acc
 wringen verb class=strong 3sg=wringt past=wrang pp=gewrungen subj2=wränge perf=haben
 wuchern verb class=weak pp=gewuchert perf=haben|sein
 wuchten verb class=weak pp=gewuchtet perf=haben

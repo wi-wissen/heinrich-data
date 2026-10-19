@@ -69,6 +69,7 @@ Demonstrantin noun g=f gen=Demonstrantin pl=Demonstrantinnen
 Demonstration noun g=f gen=Demonstration pl=Demonstrationen
 Demonstrativpronomen noun g=n gen=Demonstrativpronomens pl=Demonstrativpronomen|Demonstrativpronomina
 Demut noun g=f gen=Demut pl=- note=no plural
+Denken noun g=n gen=Denkens pl=- note=lexicalised: thought, way of thinking (das Denken der Aufklärung); mass noun
 Denker noun g=m gen=Denkers pl=Denker
 Denkerin noun g=f gen=Denkerin pl=Denkerinnen
 Denkmal noun g=n gen=Denkmals|Denkmales pl=Denkmäler|Denkmale[rare]
@@ -80,6 +81,7 @@ Deponie noun g=f gen=Deponie pl=Deponien
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
 Derby noun g=n gen=Derbys pl=Derbys
+Derivat noun g=n gen=Derivats|Derivates pl=Derivate
 Desaster noun g=n gen=Desasters pl=Desaster
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
@@ -112,6 +114,7 @@ Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
+Diamant noun g=m gen=Diamanten pl=Diamanten
 Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter

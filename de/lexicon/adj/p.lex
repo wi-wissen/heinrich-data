@@ -1,8 +1,11 @@
+pädagogisch adj
+palästinensisch adj
 palliativ adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele
 parlamentarisch adj
+partiell adj
 passiv adj cmp=passiver sup=passivsten
 patzig adj cmp=patziger sup=patzigsten
 pauschal adj
@@ -13,11 +16,13 @@ permanent adj
 persisch adj
 personell adj
 persönlich adj
+peruanisch adj
 pessimistisch adj cmp=pessimistischer sup=pessimistischsten
 pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
 pflichtgemäß adj
 pharmazeutisch adj
+philippinisch adj
 philosophisch adj
 physikalisch adj
 physisch adj
@@ -33,14 +38,17 @@ politisch adj
 polizeilich adj
 polnisch adj
 populär adj cmp=populärer sup=populärsten
+populistisch adj
 portugiesisch adj
 positiv adj cmp=positiver sup=positivsten
 postalisch adj
+potentiell adj note=variant spelling of potenziell
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
 präzise adj cmp=präziser sup=präzisesten
+prekär adj cmp=prekärer sup=prekärsten
 preußisch adj
 prim adj
 prima adj indecl

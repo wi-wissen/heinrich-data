@@ -45,6 +45,7 @@ Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
 Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly no plural
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eigentümerin noun g=f gen=Eigentümerin pl=Eigentümerinnen
+Eigner noun g=m gen=Eigners pl=Eigner
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eilbedürftigkeit noun g=f gen=Eilbedürftigkeit pl=- note=mass noun
 Eile noun g=f gen=Eile pl=- note=no plural
@@ -198,6 +199,7 @@ Embryo noun g=m gen=Embryos pl=Embryonen|Embryos
 Emeritierung noun g=f gen=Emeritierung pl=Emeritierungen
 Emigrant noun g=m gen=Emigranten pl=Emigranten
 Emir noun g=m gen=Emirs pl=Emire
+Emirat noun g=n gen=Emirats|Emirates pl=Emirate
 Emission noun g=f gen=Emission pl=Emissionen
 Emittent noun g=m gen=Emittenten pl=Emittenten
 Emoji noun g=m|n gen=Emojis pl=Emojis
@@ -269,6 +271,8 @@ Entziehung noun g=f gen=Entziehung pl=Entziehungen
 Entzug noun g=m gen=Entzugs|Entzuges pl=Entzüge
 Entzündung noun g=f gen=Entzündung pl=Entzündungen
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
+Enzym noun g=n gen=Enzyms pl=Enzyme
+Epidemie noun g=f gen=Epidemie pl=Epidemien
 Epik noun g=f gen=Epik pl=- note=no plural
 Epilog noun g=m gen=Epilogs pl=Epiloge
 Episode noun g=f gen=Episode pl=Episoden

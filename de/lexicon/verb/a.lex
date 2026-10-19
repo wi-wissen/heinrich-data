@@ -196,6 +196,7 @@ addieren verb class=weak pp=addiert perf=haben
 adeln verb class=weak pp=geadelt perf=haben
 administrieren verb class=weak pp=administriert perf=haben
 adoptieren verb class=weak pp=adoptiert perf=haben
+adressieren verb class=weak pp=adressiert perf=haben
 agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative

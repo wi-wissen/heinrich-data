@@ -182,4 +182,5 @@ runterstürzen verb class=weak sep=runter pp=runtergestürzt perf=haben|sein
 runtertragen verb class=strong sep=runter 3sg=runterträgt past=runtertrug subj2=runtertrüge pp=runtergetragen perf=haben
 runterwerfen verb class=strong sep=runter 3sg=runterwirft past=runterwarf subj2=runterwürfe pp=runtergeworfen perf=haben
 runterziehen verb class=strong sep=runter 3sg=runterzieht past=runterzog pp=runtergezogen subj2=runterzöge perf=haben
+rüsten verb class=weak pp=gerüstet perf=haben refl=acc
 rutschen verb class=weak pp=gerutscht perf=sein

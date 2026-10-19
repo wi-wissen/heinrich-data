@@ -11,7 +11,9 @@ hastig adj cmp=hastiger sup=hastigsten
 häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
 häuslich adj cmp=häuslicher sup=häuslichsten
+hebräisch adj
 heftig adj cmp=heftiger sup=heftigsten
+heidnisch adj
 heikel adj attr=heikle cmp=heikler sup=heikelsten
 heil adj
 heilig adj cmp=heiliger sup=heiligsten
@@ -36,6 +38,7 @@ hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten
 hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
+hinlänglich adj note=mostly adverbial (hinlänglich bekannt)
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
 hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
@@ -55,4 +58,5 @@ hügelig adj cmp=hügeliger sup=hügeligsten
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten
+hydraulisch adj
 hygienisch adj

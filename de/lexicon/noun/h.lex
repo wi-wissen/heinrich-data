@@ -110,6 +110,7 @@ Headhunter noun g=m gen=Headhunters pl=Headhunter
 Headset noun g=n gen=Headsets pl=Headsets
 Hebamme noun g=f gen=Hebamme pl=Hebammen
 Hebel noun g=m gen=Hebels pl=Hebel
+Hebräisch noun g=n gen=Hebräisch|Hebräischs pl=- conf=80 note=the Hebrew language; genitive normally avoided (des Hebräischen)
 Hebung noun g=f gen=Hebung pl=Hebungen
 Hecht noun g=m gen=Hechtes|Hechts pl=Hechte
 Heck noun g=n gen=Hecks|Heckes pl=Hecke|Hecks
@@ -270,6 +271,7 @@ Honorar noun g=n gen=Honorars pl=Honorare
 Hoodie noun g=m gen=Hoodies pl=Hoodies
 Hopfen noun g=m gen=Hopfens pl=Hopfen
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
+Horde noun g=f gen=Horde pl=Horden
 Hörer noun g=m gen=Hörers pl=Hörer
 Hörerin noun g=f gen=Hörerin pl=Hörerinnen
 Horizont noun g=m gen=Horizonts|Horizontes pl=Horizonte
