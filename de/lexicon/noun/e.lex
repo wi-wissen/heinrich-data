@@ -352,6 +352,7 @@ Eroberer noun g=m gen=Eroberers pl=Eroberer
 Eroberung noun g=f gen=Eroberung pl=Eroberungen
 Eröffnung noun g=f gen=Eröffnung pl=Eröffnungen
 Erörterung noun g=f gen=Erörterung pl=Erörterungen
+Erosion noun g=f gen=Erosion pl=Erosionen
 Erpressung noun g=f gen=Erpressung pl=Erpressungen
 Erprobung noun g=f gen=Erprobung pl=Erprobungen
 Erreger noun g=m gen=Erregers pl=Erreger
@@ -435,6 +436,7 @@ Euter noun g=n gen=Euters pl=Euter
 Evakuierung noun g=f gen=Evakuierung pl=Evakuierungen
 Evaluation noun g=f gen=Evaluation pl=Evaluationen
 Evaluierung noun g=f gen=Evaluierung pl=Evaluierungen
+Evangelist noun g=m gen=Evangelisten pl=Evangelisten
 Evangelium noun g=n gen=Evangeliums pl=Evangelien
 Evolution noun g=f gen=Evolution pl=- note=no plural
 EWG noun g=f gen=EWG pl=- note=Europäische Wirtschaftsgemeinschaft; no plural

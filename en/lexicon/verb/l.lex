@@ -13,12 +13,15 @@ lapse         verb
 lash verb
 last          verb
 latch verb
+laud verb
 laugh         verb
 launch        verb
 launder       verb
+lavish verb
 lay           verb past=laid pp=laid
 layer verb
 laze verb
+leach verb
 lead          verb past=led pp=led sense=guide
 lead          verb sense=metal note=to cover or weight with lead: leaded
 leaf          verb
@@ -48,6 +51,7 @@ lie           verb past=lay pp=lain sense=recline
 lie           verb sense=untruth
 lift          verb
 light         verb past=lit|lighted pp=lit|lighted
+lighten verb
 like          verb
 liken verb
 limit         verb nodouble
@@ -55,6 +59,7 @@ limp verb
 line          verb
 linger        verb
 link          verb
+liquefy verb note=liquify is a variant spelling
 liquidate verb
 list          verb
 listen        verb
@@ -71,6 +76,7 @@ locate        verb
 lock          verb
 lodge         verb
 log           verb
+loiter verb
 long          verb
 look          verb
 loom verb

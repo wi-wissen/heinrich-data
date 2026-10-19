@@ -8,6 +8,7 @@ Oldenburg propn g=n gen=Oldenburgs pl=- note=proper name; no plural
 Olpe propn g=n gen=Olpes pl=- note=proper name; no plural
 Olympia propn g=n gen=Olympias pl=- note=proper name; no plural
 Ontario propn g=n gen=Ontarios pl=- note=proper name; no plural
+Oranien propn g=n gen=Oraniens pl=- note=princely house / historic territory (Orange)
 Oregon propn g=n gen=Oregons pl=- note=proper name; no plural
 ORF propn g=m gen=ORF pl=- note=der ORF
 Orleans propn g=n gen=Orleans pl=- note=proper name; no plural; bare genitive

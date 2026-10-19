@@ -12,15 +12,20 @@ technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
+temporär adj
 tendenziell adj
 tendenziös adj
 termingemäß adj
+territorial adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
 thailändisch adj
 thematisch adj
 theologisch adj
 theoretisch adj
+therapeutisch adj
+thermisch adj
+thüringisch adj
 tibetisch adj
 tief adj cmp=tiefer sup=tiefsten
 tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
@@ -40,6 +45,7 @@ tragisch adj cmp=tragischer sup=tragischsten
 transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
+transzendental adj
 traumhaft adj cmp=traumhafter sup=traumhaftesten
 traurig adj cmp=trauriger sup=traurigsten
 treffend adj cmp=treffender sup=treffendsten

@@ -201,6 +201,7 @@ agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative
 ahnen verb class=weak pp=geahnt perf=haben
+akkreditieren verb class=weak pp=akkreditiert perf=haben
 akquirieren verb class=weak pp=akquiriert perf=haben
 aktivieren verb class=weak pp=aktiviert perf=haben
 aktualisieren verb class=weak pp=aktualisiert perf=haben
@@ -389,6 +390,8 @@ arbeiten      verb class=weak pp=gearbeitet perf=haben
 archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
+arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
+assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
 attackieren verb class=weak pp=attackiert perf=haben
 attestieren verb class=weak pp=attestiert perf=haben

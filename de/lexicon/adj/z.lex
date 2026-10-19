@@ -48,9 +48,11 @@ zweckdienlich adj
 zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
 zweckwidrig adj
 zweierlei adj indecl
+zweifach adj
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweigeschossig adj
+zweigleisig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zwischenzeitlich adj
 zwittrig adj note=variant zwitterig

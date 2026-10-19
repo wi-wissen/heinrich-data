@@ -327,6 +327,8 @@ verstimmen verb class=weak pp=verstimmt perf=haben
 verstopfen verb class=weak pp=verstopft perf=haben|sein
 verstören verb class=weak pp=verstört perf=haben
 verstoßen verb class=strong 3sg=verstößt past=verstieß pp=verstoßen subj2=verstieße perf=haben
+verstreichen verb class=strong 3sg=verstreicht past=verstrich pp=verstrichen subj2=verstriche perf=haben|sein
+verstreuen verb class=weak pp=verstreut perf=haben
 verstricken verb class=weak pp=verstrickt perf=haben
 verstümmeln verb class=weak pp=verstümmelt perf=haben
 verstummen verb class=weak pp=verstummt perf=sein

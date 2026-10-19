@@ -11,6 +11,7 @@ pair verb
 pale verb
 pall verb
 pan verb
+panhandle verb
 panic verb
 pant verb
 paper verb
@@ -24,6 +25,7 @@ parch verb
 pardon verb
 parent verb
 park verb
+parley verb
 parody verb
 parole verb
 parrot verb
@@ -61,6 +63,7 @@ penalize verb gb=penalise|penalize
 pencil verb
 penetrate verb
 pension verb
+people verb note=to populate; the noun is a separate entry
 pepper verb
 perceive verb
 perch verb
@@ -76,12 +79,17 @@ perplex verb
 persecute verb
 persevere verb
 persist verb
+personalize verb gb=personalise|personalize
+personify verb
 persuade verb
 pertain verb
+perturb verb
 pervade verb
+pervert verb
 pet verb
 peter verb
 petition verb
+petrify verb
 phase verb
 phone verb
 photocopy verb
@@ -101,6 +109,7 @@ pilot verb
 pin verb
 pinch verb
 pine verb
+ping verb
 pioneer verb
 pipe verb
 pique verb
@@ -135,6 +144,7 @@ poach verb
 pocket verb
 podcast verb
 point verb
+poise verb
 poison verb
 poke verb
 polarize verb gb=polarise|polarize
@@ -144,6 +154,7 @@ poll verb
 pollute verb
 ponder verb
 pool verb
+poop verb
 pop verb
 popularize verb gb=popularise|popularize
 populate verb
@@ -190,6 +201,7 @@ preserve verb
 preside verb
 press verb
 pressure verb
+pressurize verb gb=pressurise|pressurize
 presume verb
 pretend verb
 prevail verb
@@ -244,6 +256,7 @@ protrude verb
 prove verb past=proved pp=proved|proven
 provide verb
 provoke verb
+prowl verb
 prune verb
 pry verb
 publicize verb gb=publicise|publicize
@@ -254,6 +267,7 @@ pulse verb
 pump verb
 pun verb
 punch verb
+punctuate verb
 puncture verb
 punish verb
 purchase verb

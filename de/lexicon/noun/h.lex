@@ -43,6 +43,7 @@ Hand         noun g=f gen=Hand pl=Hände
 Handball noun g=m gen=Handballs pl=- note=sport; plural not used
 Händchen noun g=n gen=Händchens pl=Händchen
 Handel noun g=m gen=Handels pl=Händel[archaic] note=trade; the plural Händel (quarrels) is archaic
+Handeln noun g=n gen=Handelns pl=- note=nominalised infinitive (das Handeln), lexicalised
 Handelskammer noun g=f gen=Handelskammer pl=Handelskammern
 Handelsregister noun g=n gen=Handelsregisters pl=Handelsregister
 Handfeger noun g=m gen=Handfegers pl=Handfeger
@@ -302,6 +303,7 @@ Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
 Huld noun g=f gen=Huld pl=- note=mass noun; favour, grace (elevated)
 Hülle noun g=f gen=Hülle pl=Hüllen
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
+Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
 Hummel noun g=f gen=Hummel pl=Hummeln
 Hummer noun g=m gen=Hummers pl=Hummer

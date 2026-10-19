@@ -20,6 +20,7 @@ gefälscht adj
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
 gegenwärtig adj
+gegnerisch adj
 gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
 gehörig adj
@@ -49,6 +50,7 @@ geografisch adj
 geographisch adj
 geologisch adj
 geometrisch adj
+georgisch adj
 gepunktet adj
 gerade adj cmp=gerader sup=geradesten
 geraum adj attr_only note=only in geraume Zeit, seit geraumer Zeit
@@ -68,7 +70,9 @@ geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
 geschockt adj cmp=geschockter sup=geschocktesten
 geschwind adj cmp=geschwinder sup=geschwindesten
+gesellig adj cmp=geselliger sup=geselligsten
 gesellschaftlich adj
+gesetzgeberisch adj
 gesetzlich adj
 gesetzwidrig adj
 gesinnt adj note=mostly with an adverb: freundlich gesinnt, die gleich gesinnten
@@ -85,6 +89,7 @@ gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
+gewerbsmäßig adj
 gewiss adj cmp=gewisser sup=gewissesten
 gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewittrig adj
@@ -94,6 +99,7 @@ geworden adj attr_only note=participle of werden used attributively (ein groß g
 ghanaisch adj
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
+gigantisch adj
 glänzend adj cmp=glänzender sup=glänzendsten
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
@@ -102,6 +108,7 @@ glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichaltrig adj
 gleichberechtigt adj
+gleichgeschlechtlich adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
@@ -133,6 +140,7 @@ grimmig adj cmp=grimmiger sup=grimmigsten
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
+großflächig adj
 großzügig adj cmp=großzügiger sup=großzügigsten
 grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten

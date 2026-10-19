@@ -39,4 +39,5 @@ orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj
 österreichisch adj
-östlich adj note=also a genitive preposition (closed/prepositions.lex)
+östlich adj cmp=östlicher sup=östlichsten note=also a genitive preposition (closed/prepositions.lex)
+oval adj

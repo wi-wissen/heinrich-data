@@ -48,6 +48,7 @@ drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
+dreidimensional adj
 dreifach adj
 dreischiffig adj note=architecture: with three naves
 dreißigjährig adj attr_only

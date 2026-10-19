@@ -161,6 +161,7 @@ berechtigen   verb class=weak pp=berechtigt perf=haben
 bereden verb class=weak pp=beredet perf=haben refl=acc
 bereichern verb class=weak pp=bereichert perf=haben refl=acc
 bereinigen verb class=weak pp=bereinigt perf=haben
+bereisen verb class=weak pp=bereist perf=haben
 bereitstellen verb class=weak sep=bereit pp=bereitgestellt perf=haben
 bereuen verb class=weak pp=bereut perf=haben
 bergen verb class=strong 3sg=birgt past=barg pp=geborgen subj2=bärge|bürge[rare] perf=haben
@@ -215,6 +216,7 @@ bespitzeln verb class=weak pp=bespitzelt perf=haben
 besprechen verb class=strong 3sg=bespricht past=besprach pp=besprochen subj2=bespräche perf=haben
 bespritzen verb class=weak pp=bespritzt perf=haben
 bessern verb class=weak refl=acc pp=gebessert perf=haben
+bestärken verb class=weak pp=bestärkt perf=haben
 bestätigen    verb class=weak pp=bestätigt perf=haben
 bestatten verb class=weak pp=bestattet perf=haben
 bestäuben verb class=weak pp=bestäubt perf=haben

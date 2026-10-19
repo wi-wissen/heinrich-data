@@ -13,6 +13,7 @@ familiär adj cmp=familiärer sup=familiärsten
 fantastisch adj cmp=fantastischer sup=fantastischsten
 farbenfroh adj cmp=farbenfroher sup=farbenfrohsten
 farbig adj cmp=farbiger sup=farbigsten
+faschistisch adj
 fatal adj cmp=fataler sup=fatalsten
 faul adj cmp=fauler sup=faulsten
 fehlerfrei adj
@@ -29,6 +30,7 @@ festlich adj
 fett adj cmp=fetter sup=fettesten
 fettig adj cmp=fettiger sup=fettigsten
 feucht adj cmp=feuchter sup=feuchtesten
+feurig adj cmp=feuriger sup=feurigsten
 fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 fiktiv adj
@@ -77,7 +79,9 @@ fruchtbar adj cmp=fruchtbarer sup=fruchtbarsten
 früh adj cmp=früher sup=frühesten
 frühlingshaft adj cmp=frühlingshafter sup=frühlingshaftesten
 frühzeitig adj
+fundamental adj
 funkelnd adj cmp=funkelnder sup=funkelndsten
+funktional adj
 furchtbar adj cmp=furchtbarer sup=furchtbarsten
 fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten

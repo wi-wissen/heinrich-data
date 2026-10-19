@@ -38,6 +38,7 @@ scheppern verb class=weak pp=gescheppert perf=haben
 scheren verb class=strong 3sg=schert|schiert[rare] past=schor pp=geschoren subj2=schöre perf=haben
 scheren verb class=strong 3sg=schert past=schor pp=geschoren subj2=schöre perf=haben sense=cut note=Schafe scheren; den Kopf scheren
 scheren verb class=weak pp=geschert perf=haben refl=acc sense=care note=sich nicht um etwas scheren
+scheuen verb class=weak pp=gescheut perf=haben refl=acc
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
 schielen verb class=weak pp=geschielt perf=haben

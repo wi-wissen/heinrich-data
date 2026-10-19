@@ -14,6 +14,7 @@ Nachfrage noun g=f gen=Nachfrage pl=Nachfragen
 Nachhaltigkeit noun g=f gen=Nachhaltigkeit pl=- note=no plural
 Nachhauseweg noun g=m gen=Nachhausewegs|Nachhauseweges pl=Nachhausewege
 Nachhilfe noun g=f gen=Nachhilfe pl=- note=no plural
+Nachhinein noun g=n gen=Nachhinein|Nachhineins pl=- conf=80 note=only in the fixed phrase im Nachhinein
 Nachkomme noun g=m gen=Nachkommen pl=Nachkommen
 Nachlass noun g=m gen=Nachlasses pl=Nachlässe|Nachlasse[rare]
 Nachmittag noun g=m gen=Nachmittags|Nachmittages pl=Nachmittage
@@ -162,3 +163,4 @@ Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer
 Nutzerin noun g=f gen=Nutzerin pl=Nutzerinnen
 Nutzung noun g=f gen=Nutzung pl=Nutzungen
+Nymphe noun g=f gen=Nymphe pl=Nymphen

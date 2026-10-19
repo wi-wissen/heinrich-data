@@ -12,6 +12,7 @@ einigermaßen adv
 einstweilen adv type=time
 empor adv type=direction
 erfahrungsgemäß adv
+erforderlichenfalls adv
 erstlich adv style=archaic note=firstly
 erstmals adv type=time
 extra adv type=degree
