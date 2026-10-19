@@ -48,6 +48,7 @@ Sängerin noun g=f gen=Sängerin pl=Sängerinnen
 Sanierung noun g=f gen=Sanierung pl=Sanierungen
 Sanitäter noun g=m gen=Sanitäters pl=Sanitäter
 Sanitäterin noun g=f gen=Sanitäterin pl=Sanitäterinnen
+Sanitätsdienst noun g=m gen=Sanitätsdienstes|Sanitätsdiensts pl=Sanitätsdienste note=first part Sanität is not in the lexicon
 Sankt-Martins-Umzug noun g=m gen=Sankt-Martins-Umzugs|Sankt-Martins-Umzuges pl=Sankt-Martins-Umzüge
 Sanktion noun g=f gen=Sanktion pl=Sanktionen
 Sarg noun g=m gen=Sargs|Sarges pl=Särge
@@ -104,6 +105,7 @@ Schande noun g=f gen=Schande pl=- note=mass noun
 Schanze noun g=f gen=Schanze pl=Schanzen
 Schar noun g=f gen=Schar pl=Scharen
 Schärfe noun g=f gen=Schärfe pl=- note=mass noun
+Scharia noun g=f gen=Scharia pl=- note=Islamic law; no plural
 Scharlach noun g=m gen=Scharlachs pl=- note=mass noun
 Schatten noun g=m gen=Schattens pl=Schatten
 Schatz noun g=m gen=Schatzes pl=Schätze
@@ -423,6 +425,7 @@ Serviette noun g=f gen=Serviette pl=Servietten
 Sessel noun g=m gen=Sessels pl=Sessel
 Sessellift noun g=m gen=Sessellifts|Sesselliftes pl=Sessellifte|Sessellifts
 Setzling noun g=m gen=Setzlings pl=Setzlinge
+Setzung noun g=f gen=Setzung pl=Setzungen
 Seuche noun g=f gen=Seuche pl=Seuchen
 Seufzer noun g=m gen=Seufzers pl=Seufzer
 Sex noun g=m gen=Sex|Sexes pl=- note=mass noun
@@ -600,6 +603,7 @@ Sperre noun g=f gen=Sperre pl=Sperren
 Sperrmüll noun g=m gen=Sperrmülls pl=- note=no plural
 Sperrung noun g=f gen=Sperrung pl=Sperrungen
 Spesen noun g=pl
+Spezial noun g=n gen=Spezials pl=Spezials conf=70 note=special edition or broadcast; gender and plural unsure
 Spezialist noun g=m gen=Spezialisten pl=Spezialisten
 Spezies noun g=f gen=Spezies pl=Spezies
 Spezifikation noun g=f gen=Spezifikation pl=Spezifikationen

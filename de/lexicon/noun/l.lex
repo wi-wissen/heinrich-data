@@ -157,6 +157,7 @@ Leuchtdiode noun g=f gen=Leuchtdiode pl=Leuchtdioden
 Leuchte noun g=f gen=Leuchte pl=Leuchten
 Leuchter noun g=m gen=Leuchters pl=Leuchter
 Leuchtturm noun g=m gen=Leuchtturms|Leuchtturmes pl=Leuchttürme
+Leukämie noun g=f gen=Leukämie pl=Leukämien
 Leute        noun g=pl
 Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant unsure
@@ -181,6 +182,7 @@ Lieferung noun g=f gen=Lieferung pl=Lieferungen
 Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
+Lift noun g=m gen=Lifts|Liftes pl=Lifte|Lifts
 Liga noun g=f gen=Liga pl=Ligen
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
@@ -223,6 +225,7 @@ Locke noun g=f gen=Locke pl=Locken
 Löffel noun g=m gen=Löffels pl=Löffel
 Logarithmus noun g=m gen=Logarithmus pl=Logarithmen note=Latin loanword; genitive without -es
 Loge noun g=f gen=Loge pl=Logen
+Loggia noun g=f gen=Loggia pl=Loggien
 Logik noun g=f gen=Logik pl=- note=no plural
 Login noun g=n|m gen=Logins pl=Logins
 Logistik noun g=f gen=Logistik pl=- note=no plural

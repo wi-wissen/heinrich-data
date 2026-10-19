@@ -144,6 +144,7 @@ Thermometer noun g=n gen=Thermometers pl=Thermometer
 Thermoskanne noun g=f gen=Thermoskanne pl=Thermoskannen
 Thermostat noun g=m gen=Thermostats|Thermostates pl=Thermostate
 These noun g=f gen=These pl=Thesen
+Thesis noun g=f gen=Thesis pl=Thesen conf=80 note=philosophy (Thesis, Antithesis, Synthesis) and academic thesis
 Thier noun g=n gen=Thieres|Thiers pl=Thiere spelling=old note=old spelling of Tier
 Thread noun g=m gen=Threads pl=Threads
 Thriller noun g=m gen=Thrillers pl=Thriller

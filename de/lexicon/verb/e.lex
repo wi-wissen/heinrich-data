@@ -177,6 +177,7 @@ empfinden verb class=strong 3sg=empfindet past=empfand pp=empfunden subj2=empfä
 empören verb class=weak pp=empört perf=haben refl=acc
 enden verb class=weak pp=geendet perf=haben
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
+entarten verb class=weak pp=entartet perf=sein
 entbehren verb class=weak pp=entbehrt perf=haben
 entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbände perf=haben
 entdecken verb class=weak pp=entdeckt perf=haben
@@ -219,6 +220,7 @@ enthüllen verb class=weak pp=enthüllt perf=haben
 entkernen verb class=weak pp=entkernt perf=haben
 entkommen verb class=strong 3sg=entkommt past=entkam pp=entkommen subj2=entkäme perf=sein
 entkorken verb class=weak pp=entkorkt perf=haben
+entkräften verb class=weak pp=entkräftet perf=haben
 entlarven verb class=weak pp=entlarvt perf=haben
 entlassen verb class=strong 3sg=entlässt past=entließ pp=entlassen subj2=entließe perf=haben
 entlasten verb class=weak pp=entlastet perf=haben
@@ -237,6 +239,7 @@ entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen
 entschlüpfen verb class=weak pp=entschlüpft perf=sein
 entschlüsseln verb class=weak pp=entschlüsselt perf=haben
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
+entschwinden verb class=strong 3sg=entschwindet past=entschwand pp=entschwunden subj2=entschwände perf=sein
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
 entsorgen verb class=weak pp=entsorgt perf=haben
@@ -275,6 +278,7 @@ erblühen verb class=weak pp=erblüht perf=sein
 erbosen verb class=weak pp=erbost perf=haben refl=acc
 erbrechen verb class=strong 3sg=erbricht past=erbrach pp=erbrochen subj2=erbräche perf=haben refl=acc
 erbringen verb class=mixed 3sg=erbringt past=erbrachte pp=erbracht subj2=erbrächte perf=haben
+erdenken verb class=mixed 3sg=erdenkt past=erdachte pp=erdacht subj2=erdächte perf=haben
 erdolchen verb class=weak pp=erdolcht perf=haben
 erdrosseln verb class=weak pp=erdrosselt perf=haben
 erdulden verb class=weak pp=erduldet perf=haben
@@ -319,6 +323,7 @@ erkaufen verb class=weak pp=erkauft perf=haben
 erkennen verb class=mixed 3sg=erkennt past=erkannte pp=erkannt subj2=erkennte perf=haben
 erklären verb class=weak pp=erklärt perf=haben
 erklimmen verb class=strong 3sg=erklimmt past=erklomm pp=erklommen subj2=erklömme perf=haben
+erklingen verb class=strong 3sg=erklingt past=erklang pp=erklungen subj2=erklänge perf=sein
 erkranken verb class=weak pp=erkrankt perf=sein
 erkunden verb class=weak pp=erkundet perf=haben
 erkundigen verb class=weak pp=erkundigt perf=haben refl=acc

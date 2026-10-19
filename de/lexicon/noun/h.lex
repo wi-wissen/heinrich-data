@@ -5,6 +5,7 @@ Haarreif noun g=m gen=Haarreifs|Haarreifes pl=Haarreife note=compound; the analy
 Haarspray noun g=n gen=Haarsprays pl=Haarsprays
 Habicht noun g=m gen=Habichts pl=Habichte
 Habilitation noun g=f gen=Habilitation pl=Habilitationen
+Habitus noun g=m gen=Habitus pl=- note=genitive without ending; plural not in common use
 Habsburger noun g=m gen=Habsburgers pl=Habsburger
 Hacker noun g=m gen=Hackers pl=Hacker
 Hackerin noun g=f gen=Hackerin pl=Hackerinnen
@@ -191,6 +192,7 @@ Heu noun g=n gen=Heus|Heues pl=- note=mass noun
 Heuschober noun g=m gen=Heuschobers pl=Heuschober
 Hexameter noun g=m gen=Hexameters pl=Hexameter
 Hexe noun g=f gen=Hexe pl=Hexen
+Hexerei noun g=f gen=Hexerei pl=Hexereien
 HGB noun g=n gen=HGB pl=- note=Handelsgesetzbuch
 Hierarchie noun g=f gen=Hierarchie pl=Hierarchien
 Hieroglyphe noun g=f gen=Hieroglyphe pl=Hieroglyphen
@@ -247,6 +249,7 @@ Höhe noun g=f gen=Höhe pl=Höhen
 Hoheit noun g=f gen=Hoheit pl=Hoheiten
 Höhepunkt noun g=m gen=Höhepunkts|Höhepunktes pl=Höhepunkte
 Höhle noun g=f gen=Höhle pl=Höhlen
+Höhlung noun g=f gen=Höhlung pl=Höhlungen
 Hohn noun g=m gen=Hohns|Hohnes pl=- note=no plural
 Holding noun g=f gen=Holding pl=Holdings
 Holländer noun g=m gen=Holländers pl=Holländer
@@ -266,6 +269,7 @@ Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare
 Hoodie noun g=m gen=Hoodies pl=Hoodies
+Hora noun g=f gen=Hora pl=Horen conf=70 note=canonical hour (Stundengebet); also a round dance
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
 Horde noun g=f gen=Horde pl=Horden
 Hörer noun g=m gen=Hörers pl=Hörer

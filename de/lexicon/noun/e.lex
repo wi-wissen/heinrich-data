@@ -224,6 +224,7 @@ Enjambement noun g=n gen=Enjambements pl=Enjambements
 Enkel noun g=m gen=Enkels pl=Enkel
 Enkelin noun g=f gen=Enkelin pl=Enkelinnen
 Ensemble noun g=n gen=Ensembles pl=Ensembles
+Entartung noun g=f gen=Entartung pl=Entartungen
 Entdecker noun g=m gen=Entdeckers pl=Entdecker
 Entdeckerin noun g=f gen=Entdeckerin pl=Entdeckerinnen
 Entdeckung noun g=f gen=Entdeckung pl=Entdeckungen
@@ -398,6 +399,7 @@ Eskalation noun g=f gen=Eskalation pl=Eskalationen
 Essay noun g=m|n gen=Essays pl=Essays
 Essen noun g=n gen=Essens pl=Essen note=das Essen: food, meal
 Essig noun g=m gen=Essigs pl=Essige
+Estrich noun g=m gen=Estrichs|Estriches pl=Estriche
 Etablierung noun g=f gen=Etablierung pl=- note=no plural
 Etage noun g=f gen=Etage pl=Etagen
 Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
@@ -426,6 +428,7 @@ Evolution noun g=f gen=Evolution pl=- note=no plural
 EWG noun g=f gen=EWG pl=- note=Europäische Wirtschaftsgemeinschaft; no plural
 Ewigkeit noun g=f gen=Ewigkeit pl=Ewigkeiten
 Examen noun g=n gen=Examens pl=Examina|Examen
+Exekution noun g=f gen=Exekution pl=Exekutionen
 Exekutive noun g=f gen=Exekutive pl=Exekutiven
 Exempel noun g=n gen=Exempels pl=Exempel
 Exemplar noun g=n gen=Exemplars pl=Exemplare

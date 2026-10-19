@@ -22,6 +22,7 @@ bedienerfreundlich adj cmp=bedienerfreundlicher sup=bedienerfreundlichsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befangen adj
 befindlich adj
+befremdlich adj cmp=befremdlicher sup=befremdlichsten
 befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
 begabt adj cmp=begabter sup=begabtesten
@@ -107,6 +108,7 @@ böhmisch adj
 böig adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
+bosnisch adj
 botanisch adj
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
@@ -115,6 +117,7 @@ brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
 brennbar adj
 britisch adj
+bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj

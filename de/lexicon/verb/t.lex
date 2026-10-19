@@ -62,6 +62,7 @@ triezen verb class=weak pp=getriezt perf=haben style=colloquial
 trillern verb class=weak pp=getrillert perf=haben
 trinken verb class=strong 3sg=trinkt past=trank pp=getrunken subj2=tränke perf=haben
 trippeln verb class=weak pp=getrippelt perf=sein
+triumphieren verb class=weak pp=triumphiert perf=haben
 trocknen verb class=weak pp=getrocknet perf=haben|sein
 trödeln verb class=weak pp=getrödelt perf=haben|sein
 trommeln verb class=weak pp=getrommelt perf=haben

@@ -21,6 +21,7 @@
 übergießen verb class=strong 3sg=übergießt past=übergoss pp=übergossen subj2=übergösse perf=haben
 übergreifen verb class=strong sep=über 3sg=übergreift past=übergriff pp=übergegriffen subj2=übergriffe perf=haben note=das Feuer griff auf das Nachbarhaus über; übergreifend
 überhäufen verb class=weak pp=überhäuft perf=haben
+überhöhen verb class=weak pp=überhöht perf=haben
 überholen verb class=weak pp=überholt perf=haben
 überhören verb class=weak pp=überhört perf=haben
 überkochen verb class=weak sep=über pp=übergekocht perf=sein

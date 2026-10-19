@@ -54,6 +54,7 @@ Bär noun g=m gen=Bären pl=Bären
 Bariton noun g=m gen=Baritons pl=Baritone
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
 Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
+Barometer noun g=n gen=Barometers pl=Barometer
 Baron         noun g=m gen=Barons pl=Barone
 Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
@@ -219,6 +220,7 @@ Belgierin noun g=f gen=Belgierin pl=Belgierinnen
 Belieben noun g=n gen=Beliebens pl=- note=nach Belieben; no plural
 Beliebtheit noun g=f gen=Beliebtheit pl=- note=no plural
 Belohnung noun g=f gen=Belohnung pl=Belohnungen
+Belüftung noun g=f gen=Belüftung pl=Belüftungen
 Bemerkung noun g=f gen=Bemerkung pl=Bemerkungen
 Bemessung noun g=f gen=Bemessung pl=- note=no plural
 Bemühung noun g=f gen=Bemühung pl=Bemühungen

@@ -8,6 +8,7 @@ zugrunde adv note=zugrunde legen, zugrunde liegen
 zugute adv type=modal note=zugute kommen, zugute halten
 zuhause adv type=place
 zumeist adv
+zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv
 zustande adv note=only in zustande kommen/bringen
 zutage adv type=modal note=zutage treten, zutage fördern

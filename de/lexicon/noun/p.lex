@@ -186,6 +186,7 @@ Phänomen noun g=n gen=Phänomens pl=Phänomene
 Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
+Pharma noun g=f gen=Pharma pl=- conf=80 note=short for Pharmaindustrie; mass noun
 Phase noun g=f gen=Phase pl=Phasen
 Philologe noun g=m gen=Philologen pl=Philologen
 Philologie noun g=f gen=Philologie pl=Philologien

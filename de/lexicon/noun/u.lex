@@ -4,6 +4,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übelkeit noun g=f gen=Übelkeit pl=- note=mass noun
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
+Überbrückung noun g=f gen=Überbrückung pl=Überbrückungen
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
 Übereinstimmung noun g=f gen=Übereinstimmung pl=Übereinstimmungen
 Überfall noun g=m gen=Überfalls|Überfalles pl=Überfälle
@@ -48,6 +49,7 @@ Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhu noun g=m gen=Uhus pl=Uhus
 Ulme noun g=f gen=Ulme pl=Ulmen
+Ultra noun g=m gen=Ultras pl=Ultras conf=90 note=radical (football) fan or political extremist
 Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
@@ -176,3 +178,4 @@ Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural
+Utopie noun g=f gen=Utopie pl=Utopien

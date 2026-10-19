@@ -19,6 +19,7 @@ Marokko propn g=n gen=Marokkos pl=- note=proper name; no plural
 Mars propn g=m gen=Mars pl=- note=planet, god; bare genitive
 Marseille propn g=n gen=Marseilles pl=- note=proper name; no plural
 Maryland propn g=n gen=Marylands pl=- note=proper name; no plural
+Masowien propn g=n gen=Masowiens pl=- note=region in Poland; no plural
 Massachusetts propn g=n gen=Massachusetts pl=- note=US state; bare genitive
 Mazedonien propn g=n gen=Mazedoniens pl=- note=proper name; no plural
 Mecklenburg propn g=n gen=Mecklenburgs pl=- note=proper name; no plural

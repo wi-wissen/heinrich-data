@@ -129,6 +129,7 @@ Verlag noun g=m gen=Verlags|Verlages pl=Verlage
 Verlagerung noun g=f gen=Verlagerung pl=Verlagerungen
 Verlangen noun g=n gen=Verlangens pl=- note=mass noun
 Verlängerung noun g=f gen=Verlängerung pl=Verlängerungen
+Verlassenheit noun g=f gen=Verlassenheit pl=- note=abstract noun, no plural
 Verlässlichkeit noun g=f gen=Verlässlichkeit pl=- note=no plural
 Verlaub noun g=m gen=Verlaubs pl=- note=only in mit Verlaub
 Verlauf noun g=m gen=Verlaufs|Verlaufes[rare] pl=Verläufe
@@ -215,6 +216,7 @@ Versicherungsunternehmen noun g=n gen=Versicherungsunternehmens pl=Versicherungs
 Version noun g=f gen=Version pl=Versionen
 Versionierung noun g=f gen=Versionierung pl=Versionierungen
 Versöhnung noun g=f gen=Versöhnung pl=Versöhnungen
+Versorger noun g=m gen=Versorgers pl=Versorger
 Versorgung noun g=f gen=Versorgung pl=Versorgungen[rare]
 Verspätung noun g=f gen=Verspätung pl=Verspätungen
 Versprechen noun g=n gen=Versprechens pl=Versprechen note=lexicalised nominal infinitive: promise

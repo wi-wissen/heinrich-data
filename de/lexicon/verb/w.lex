@@ -92,6 +92,7 @@ weihen verb class=weak pp=geweiht perf=haben
 weilen verb class=weak pp=geweilt perf=haben
 weinen verb class=weak pp=geweint perf=haben
 weisen verb class=strong 3sg=weist past=wies pp=gewiesen subj2=wiese perf=haben
+weissagen verb class=weak pp=geweissagt perf=haben note=written with ss (not from weiß)
 weiterarbeiten verb class=weak sep=weiter pp=weitergearbeitet perf=haben
 weiterbearbeiten verb class=weak sep=weiter pp=weiterbearbeitet perf=haben
 weiterbeschäftigen verb class=weak sep=weiter pp=weitergebeschäftigt perf=haben

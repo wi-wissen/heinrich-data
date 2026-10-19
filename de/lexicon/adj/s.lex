@@ -119,6 +119,7 @@ sonderbar adj cmp=sonderbarer sup=sonderbarsten
 sonderlich adj
 sonnig adj cmp=sonniger sup=sonnigsten
 sonstig adj
+sorbisch adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
 sorglos adj cmp=sorgloser sup=sorglosesten
 sorgsam adj cmp=sorgsamer sup=sorgsamsten
@@ -199,6 +200,7 @@ südöstlich adj
 südwestlich adj
 sukzessiv adj
 sumpfig adj cmp=sumpfiger sup=sumpfigsten
+sündig adj cmp=sündiger sup=sündigsten
 super adj indecl style=colloquial note=colloquial intensifier
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten

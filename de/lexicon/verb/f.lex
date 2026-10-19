@@ -117,6 +117,7 @@ frisieren verb class=weak pp=frisiert perf=haben
 frittieren verb class=weak pp=frittiert perf=haben
 frösteln verb class=weak pp=gefröstelt perf=haben
 frühstücken verb class=weak pp=gefrühstückt perf=haben
+frustrieren verb class=weak pp=frustriert perf=haben pp_cmp note=frustriert is also a gradable adjective
 fuchteln verb class=weak pp=gefuchtelt perf=haben
 fügen verb class=weak pp=gefügt perf=haben
 fühlen verb class=weak pp=gefühlt perf=haben refl=acc
