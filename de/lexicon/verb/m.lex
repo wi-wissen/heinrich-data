@@ -97,6 +97,7 @@ mogeln verb class=weak pp=gemogelt perf=haben
 monieren verb class=weak pp=moniert perf=haben
 montieren verb class=weak pp=montiert perf=haben
 motivieren verb class=weak pp=motiviert perf=haben refl=acc
+motorisieren verb class=weak pp=motorisiert perf=haben
 motzen verb class=weak pp=gemotzt perf=haben style=colloquial
 muhen verb class=weak pp=gemuht perf=haben
 multiplizieren verb class=weak pp=multipliziert perf=haben

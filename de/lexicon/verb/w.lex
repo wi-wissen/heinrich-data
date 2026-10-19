@@ -199,6 +199,7 @@ wirken verb class=weak pp=gewirkt perf=haben
 wischen verb class=weak pp=gewischt perf=haben
 wispern verb class=weak pp=gewispert perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben
+wogen verb class=weak pp=gewogt perf=haben note=to surge (waves); not the strong wiegen/wägen
 wohnen verb class=weak pp=gewohnt perf=haben
 wölben verb class=weak pp=gewölbt perf=haben refl=acc
 wringen verb class=strong 3sg=wringt past=wrang pp=gewrungen subj2=wränge perf=haben

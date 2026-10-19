@@ -2,6 +2,7 @@ taff adj cmp=taffer sup=taffsten
 täglich adj
 taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
+tansanisch adj
 tapfer adj cmp=tapferer sup=tapfersten
 tariflich adj
 tätig adj
@@ -11,6 +12,7 @@ tauglich adj cmp=tauglicher sup=tauglichsten
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
+telefonisch adj
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
 temporär adj
 tendenziell adj
@@ -52,6 +54,7 @@ treffend adj cmp=treffender sup=treffendsten
 trefflich adj cmp=trefflicher sup=trefflichsten
 trennbar adj
 treu adj cmp=treuer sup=treuesten
+treulich adj style=archaic
 treuwidrig adj
 trocken adj cmp=trockener sup=trockensten
 tropisch adj

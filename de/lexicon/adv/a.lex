@@ -9,6 +9,7 @@ allesamt adv
 alsbald adv
 alsdann adv
 anbei adv note=in letters: anbei erhalten Sie
+anderwärts adv type=place
 anno adv note=anno 1900
 anscheinend adv
 aufwärts adv

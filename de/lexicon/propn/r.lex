@@ -1,4 +1,5 @@
 RAF propn g=f gen=RAF pl=- conf=90 note=Rote Armee Fraktion; also Royal Air Force
+Ratibor propn g=n gen=Ratibors pl=- note=German name of a Silesian city
 Ravensburg propn g=n gen=Ravensburgs pl=- note=city
 Regensburg propn g=n gen=Regensburgs pl=- note=proper name, no plural
 Rhein propn g=m gen=Rheins|Rheines pl=- note=proper name, no plural

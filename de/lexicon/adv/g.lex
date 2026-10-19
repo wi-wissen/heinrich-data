@@ -1,5 +1,7 @@
 gänzlich adv
+gefälligst adv type=modal
 gemeiniglich adv style=archaic note=commonly, usually
+genugsam adv style=archaic
 geradeaus adv type=direction
 geradezu adv
 gern         adv cmp=lieber sup=liebsten
@@ -13,4 +15,5 @@ gleichviel adv
 gottlob adv
 grad adv style=colloquial conf=80 note=gerade; clipped colloquial form
 grade adv style=colloquial note=gerade
+großenteils adv type=degree
 größtenteils adv

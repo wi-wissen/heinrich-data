@@ -1,3 +1,4 @@
+paaren verb class=weak pp=gepaart perf=haben refl=acc
 pachten verb class=weak pp=gepachtet perf=haben
 packen verb class=weak pp=gepackt perf=haben
 paddeln verb class=weak pp=gepaddelt perf=haben|sein

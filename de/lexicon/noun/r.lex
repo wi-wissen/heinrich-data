@@ -135,11 +135,13 @@ Regierung noun g=f gen=Regierung pl=Regierungen
 Regime noun g=n gen=Regimes pl=Regime
 Regiment noun g=n gen=Regiments|Regimentes pl=Regimenter|Regimente
 Region noun g=f gen=Region pl=Regionen
+Regionalisierung noun g=f gen=Regionalisierung pl=Regionalisierungen
 Regisseur noun g=m gen=Regisseurs pl=Regisseure
 Regisseurin noun g=f gen=Regisseurin pl=Regisseurinnen
 Register noun g=n gen=Registers pl=Register
 Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
+Reglement noun g=n gen=Reglements pl=Reglements
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
 Regung noun g=f gen=Regung pl=Regungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
@@ -213,6 +215,7 @@ Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Repräsentantin noun g=f gen=Repräsentantin pl=Repräsentantinnen
 Repräsentation noun g=f gen=Repräsentation pl=Repräsentationen
 Repression noun g=f gen=Repression pl=Repressionen
+Reproduktion noun g=f gen=Reproduktion pl=Reproduktionen
 Reptil noun g=n gen=Reptils pl=Reptilien|Reptile
 Republik noun g=f gen=Republik pl=Republiken
 Republikaner noun g=m gen=Republikaners pl=Republikaner
@@ -228,6 +231,7 @@ Resignation noun g=f gen=Resignation pl=Resignationen
 Resolution noun g=f gen=Resolution pl=Resolutionen
 Resonanz noun g=f gen=Resonanz pl=Resonanzen
 Respekt noun g=m gen=Respekts|Respektes pl=- note=mass noun
+Ressentiment noun g=n gen=Ressentiments pl=Ressentiments
 Ressort noun g=n gen=Ressorts pl=Ressorts
 Ressource noun g=f gen=Ressource pl=Ressourcen
 Rest noun g=m gen=Restes|Rests pl=Reste
@@ -245,6 +249,7 @@ Rettung noun g=f gen=Rettung pl=Rettungen
 Reue noun g=f gen=Reue pl=- note=mass noun
 Revier noun g=n gen=Reviers pl=Reviere
 Revision noun g=f gen=Revision pl=Revisionen
+Revolte noun g=f gen=Revolte pl=Revolten
 Revolution noun g=f gen=Revolution pl=Revolutionen
 Revolver noun g=m gen=Revolvers pl=Revolver
 Revue noun g=f gen=Revue pl=Revuen
@@ -255,6 +260,7 @@ Rezeptionist noun g=m gen=Rezeptionisten pl=Rezeptionisten
 Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
 Rezession noun g=f gen=Rezession pl=Rezessionen
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
+Rheinufer noun g=n gen=Rheinufers pl=Rheinufer note=listed because a proper-name modifier is not derived by the compound analysis
 Rhetorik noun g=f gen=Rhetorik pl=- note=mass noun
 Rhythmus noun g=m gen=Rhythmus pl=Rhythmen note=genitive without ending (like -ismus)
 Richter noun g=m gen=Richters pl=Richter
@@ -309,6 +315,7 @@ Roman noun g=m gen=Romans|Romanes[archaic] pl=Romane
 Romanist noun g=m gen=Romanisten pl=Romanisten
 Romanistin noun g=f gen=Romanistin pl=Romanistinnen
 Romantik noun g=f gen=Romantik pl=- note=mass noun; epoch
+Romanze noun g=f gen=Romanze pl=Romanzen
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
 Röntgenbild noun g=n gen=Röntgenbild|Röntgenbilds|Röntgenbildes pl=Röntgenbilder

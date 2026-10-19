@@ -47,8 +47,10 @@ lizenzieren verb class=weak pp=lizenziert perf=haben
 loben verb class=weak pp=gelobt perf=haben
 lochen verb class=weak pp=gelocht perf=haben
 locken verb class=weak pp=gelockt perf=haben
+lockern verb class=weak pp=gelockert perf=haben refl=acc
 löffeln verb class=weak pp=gelöffelt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc
+lokalisieren verb class=weak pp=lokalisiert perf=haben
 losbellen verb class=weak sep=los pp=losgebellt perf=haben
 losbinden verb class=strong sep=los 3sg=losbindet past=losband subj2=losbände pp=losgebunden perf=haben
 losbrechen verb class=strong sep=los 3sg=losbricht past=losbrach subj2=losbräche pp=losgebrochen perf=sein

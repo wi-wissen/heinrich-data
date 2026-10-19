@@ -60,6 +60,7 @@ Delfin noun g=m gen=Delfins pl=Delfine
 Delikt noun g=n gen=Delikts|Deliktes pl=Delikte
 Delphin noun g=m gen=Delphins pl=Delphine
 Delta noun g=n gen=Deltas pl=Deltas|Delten[rare]
+Demenz noun g=f gen=Demenz pl=Demenzen
 Demo noun g=f gen=Demo pl=Demos note=colloquial for Demonstration
 Demokrat noun g=m gen=Demokraten pl=Demokraten
 Demokratie    noun g=f gen=Demokratie pl=Demokratien
@@ -74,6 +75,7 @@ Denken noun g=n gen=Denkens pl=- note=lexicalised: thought, way of thinking (das
 Denker noun g=m gen=Denkers pl=Denker
 Denkerin noun g=f gen=Denkerin pl=Denkerinnen
 Denkmal noun g=n gen=Denkmals|Denkmales pl=Denkmäler|Denkmale[rare]
+Denkungsart noun g=f gen=Denkungsart pl=Denkungsarten note=elevated: way of thinking
 Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
@@ -82,6 +84,7 @@ Depesche noun g=f gen=Depesche pl=Depeschen
 Deponie noun g=f gen=Deponie pl=Deponien
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
+Deputation noun g=f gen=Deputation pl=Deputationen
 Derby noun g=n gen=Derbys pl=Derbys
 Derivat noun g=n gen=Derivats|Derivates pl=Derivate
 Desaster noun g=n gen=Desasters pl=Desaster
@@ -93,6 +96,8 @@ Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Desktop noun g=m gen=Desktops pl=Desktops
 Dessert noun g=n gen=Desserts pl=Desserts
+Destabilisierung noun g=f gen=Destabilisierung pl=Destabilisierungen
+Destillation noun g=f gen=Destillation pl=Destillationen
 Detail noun g=n gen=Details pl=Details
 Detektiv noun g=m gen=Detektivs pl=Detektive
 Detektivin noun g=f gen=Detektivin pl=Detektivinnen
@@ -113,6 +118,7 @@ Diagnostiker noun g=m gen=Diagnostikers pl=Diagnostiker
 Diagonale noun g=f gen=Diagonale pl=Diagonalen
 Diagramm noun g=n gen=Diagramms pl=Diagramme
 Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
+Diakonie noun g=f gen=Diakonie pl=- note=church social work
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
@@ -124,6 +130,7 @@ Dichterin noun g=f gen=Dichterin pl=Dichterinnen
 Dichtung noun g=f gen=Dichtung pl=Dichtungen
 Dicke noun g=f gen=Dicke pl=Dicken
 Dickicht noun g=n gen=Dickichts|Dickichtes pl=Dickichte
+Didaktik noun g=f gen=Didaktik pl=Didaktiken
 Dieb noun g=m gen=Diebes|Diebs[rare] pl=Diebe
 Diebin noun g=f gen=Diebin pl=Diebinnen
 Diebstahl noun g=m gen=Diebstahls pl=Diebstähle
@@ -150,6 +157,8 @@ Dill noun g=m gen=Dills pl=Dille
 Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Dingo noun g=m gen=Dingos pl=Dingos
+Dinosaurier noun g=m gen=Dinosauriers pl=Dinosaurier
+Dioxid noun g=n gen=Dioxids|Dioxides pl=Dioxide
 Diözese noun g=f gen=Diözese pl=Diözesen
 Dip noun g=m gen=Dips pl=Dips
 Diphthong noun g=m gen=Diphthongs pl=Diphthonge
@@ -178,6 +187,7 @@ Distanz noun g=f gen=Distanz pl=Distanzen
 Distel noun g=f gen=Distel pl=Disteln
 Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
+Diversität noun g=f gen=Diversität pl=- note=mass noun
 Dividende noun g=f gen=Dividende pl=Dividenden
 Division      noun g=f gen=Division pl=Divisionen
 DJ noun g=m gen=DJs pl=DJs
@@ -186,11 +196,15 @@ DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
 Docke noun g=f gen=Docke pl=Docken
 Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
 Doge noun g=m gen=Dogen pl=Dogen
+Dogma noun g=n gen=Dogmas pl=Dogmen
+Dogmatik noun g=f gen=Dogmatik pl=Dogmatiken
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
 Doktorin noun g=f gen=Doktorin pl=Doktorinnen
+Doku noun g=f gen=Doku pl=Dokus note=colloquial short for Dokumentation
 Dokument noun g=n gen=Dokuments|Dokumentes pl=Dokumente
 Dokumentarfilm noun g=m gen=Dokumentarfilms|Dokumentarfilmes pl=Dokumentarfilme
+Dokumentarfilmer noun g=m gen=Dokumentarfilmers pl=Dokumentarfilmer
 Dokumentation noun g=f gen=Dokumentation pl=Dokumentationen
 Dolch noun g=m gen=Dolchs|Dolches pl=Dolche
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
@@ -207,6 +221,7 @@ Doping noun g=n gen=Dopings pl=- note=no plural
 Doppel noun g=n gen=Doppels pl=Doppel
 Doppelklick noun g=m gen=Doppelklicks pl=Doppelklicks
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
+Dörfchen noun g=n gen=Dörfchens pl=Dörfchen
 Dörfler noun g=m gen=Dörflers pl=Dörfler
 Dorn noun g=m gen=Dorns|Dornes pl=Dornen|Dorne[rare]
 Dortmunder noun g=m gen=Dortmunders pl=Dortmunder note=inhabitant of Dortmund
@@ -273,6 +288,7 @@ Duo noun g=n gen=Duos pl=Duos
 Durchbruch noun g=m gen=Durchbruchs|Durchbruches pl=Durchbrüche
 Durchführung  noun g=f gen=Durchführung pl=- note=no regular plural
 Durchgang noun g=m gen=Durchgangs|Durchganges pl=Durchgänge
+Durchlässigkeit noun g=f gen=Durchlässigkeit pl=- note=mass noun
 Durchlaucht noun g=f gen=Durchlaucht pl=Durchlauchten
 Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser
 Durchschnitt noun g=m gen=Durchschnitts|Durchschnittes pl=Durchschnitte

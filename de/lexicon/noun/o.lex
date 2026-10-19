@@ -20,6 +20,7 @@ Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
+Odyssee noun g=f gen=Odyssee pl=Odysseen
 Ofen noun g=m gen=Ofens pl=Öfen
 Offenbarung noun g=f gen=Offenbarung pl=Offenbarungen
 Offenheit noun g=f gen=Offenheit pl=- note=abstract noun
@@ -71,6 +72,7 @@ Opposition noun g=f gen=Opposition pl=Oppositionen
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
 Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
 Option noun g=f gen=Option pl=Optionen
+Orakel noun g=n gen=Orakels pl=Orakel
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orchester noun g=n gen=Orchesters pl=Orchester
@@ -93,6 +95,7 @@ Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
+Originalität noun g=f gen=Originalität pl=- note=mass noun
 Orkan noun g=m gen=Orkans pl=Orkane
 Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
@@ -119,6 +122,7 @@ Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
 Output noun g=m|n gen=Outputs pl=Outputs
 Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
+Oval noun g=n gen=Ovals pl=Ovale
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren
 Oxymoron noun g=n gen=Oxymorons pl=Oxymora

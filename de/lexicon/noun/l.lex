@@ -100,6 +100,7 @@ Leck noun g=n gen=Lecks pl=Lecks
 Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
 Leertaste noun g=f gen=Leertaste pl=Leertasten
+Legalisierung noun g=f gen=Legalisierung pl=Legalisierungen
 Legende noun g=f gen=Legende pl=Legenden
 Leggings noun g=f gen=Leggings pl=Leggings
 Legierung noun g=f gen=Legierung pl=Legierungen
@@ -169,6 +170,8 @@ Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
 Libelle noun g=f gen=Libelle pl=Libellen
 Liberalisierung noun g=f gen=Liberalisierung pl=Liberalisierungen
 Liberalismus noun g=m gen=Liberalismus pl=- note=no plural
+Libido noun g=f gen=Libido pl=- note=mass noun
+Librettist noun g=m gen=Librettisten pl=Librettisten
 Libretto noun g=n gen=Librettos pl=Libretti|Librettos
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
 Lichtung noun g=f gen=Lichtung pl=Lichtungen
@@ -214,6 +217,7 @@ Liter noun g=m|n gen=Liters pl=Liter
 Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
+Lithograf noun g=m gen=Lithografen pl=Lithografen
 Liturgie noun g=f gen=Liturgie pl=Liturgien
 Livestream noun g=m gen=Livestreams pl=Livestreams
 Lizenz noun g=f gen=Lizenz pl=Lizenzen
@@ -222,17 +226,20 @@ Lkw-Fahrer noun g=m gen=Lkw-Fahrers pl=Lkw-Fahrer
 Lkw-Fahrerin noun g=f gen=Lkw-Fahrerin pl=Lkw-Fahrerinnen
 Lob noun g=n gen=Lobs|Lobes pl=- note=no plural
 Lobby noun g=f gen=Lobby pl=Lobbys
+Lobbyismus noun g=m gen=Lobbyismus pl=- note=mass noun
 Lobbyist noun g=m gen=Lobbyisten pl=Lobbyisten
 Lobbyistin noun g=f gen=Lobbyistin pl=Lobbyistinnen
 Loch noun g=n gen=Loches|Lochs pl=Löcher
 Locher noun g=m gen=Lochers pl=Locher
 Lockdown noun g=m gen=Lockdowns pl=Lockdowns
 Locke noun g=f gen=Locke pl=Locken
+Lockerung noun g=f gen=Lockerung pl=Lockerungen
 Löffel noun g=m gen=Löffels pl=Löffel
 Logarithmus noun g=m gen=Logarithmus pl=Logarithmen note=Latin loanword; genitive without -es
 Loge noun g=f gen=Loge pl=Logen
 Logik noun g=f gen=Logik pl=- note=no plural
 Login noun g=n|m gen=Logins pl=Logins
+Logis noun g=n gen=Logis pl=Logis note=Kost und Logis
 Logistik noun g=f gen=Logistik pl=- note=no plural
 Logo noun g=n gen=Logos pl=Logos
 Logout noun g=n|m gen=Logouts pl=Logouts

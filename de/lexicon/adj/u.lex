@@ -1,5 +1,6 @@
 übel adj attr=üble cmp=übler sup=übelsten
 überbetrieblich adj
+überdrüssig adj note=einer Sache überdrüssig sein
 überfällig adj
 überflüssig adj
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
@@ -74,6 +75,7 @@ ungenügend adj
 ungerade adj
 ungerecht adj cmp=ungerechter sup=ungerechtesten
 ungestört adj
+ungestüm adj cmp=ungestümer sup=ungestümsten
 ungewöhnlich adj
 ungezogen adj cmp=ungezogener sup=ungezogensten
 ungläubig adj
@@ -116,6 +118,7 @@ unsinnig adj
 unsterblich adj
 unstreitig adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
+untauglich adj
 untenstehend adj conf=80 note=also written unten stehend
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten

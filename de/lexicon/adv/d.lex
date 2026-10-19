@@ -1,4 +1,5 @@
 dahin         adv type=direction
+dankenswerterweise adv type=modal
 dannen adv style=archaic note=von dannen
 daraufhin     adv type=conj
 darein adv type=pronominal style=archaic

@@ -5,8 +5,10 @@ ebensowenig adv type=degree
 ehedem adv type=time
 ehemals adv type=time
 eher adv
+ehrlicherweise adv type=modal
 eigens adv
 eigentlich adv
+eiligst adv
 einher adv
 einigermaßen adv
 einstweilen adv type=time

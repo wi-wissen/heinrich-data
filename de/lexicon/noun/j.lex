@@ -27,7 +27,9 @@ Joch noun g=n gen=Jochs|Joches pl=Joche
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
+Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
+Joker noun g=m gen=Jokers pl=Joker
 Journal noun g=n gen=Journals pl=Journale
 Journalismus noun g=m gen=Journalismus pl=- note=no plural
 Journalist noun g=m gen=Journalisten pl=Journalisten

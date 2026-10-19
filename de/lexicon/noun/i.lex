@@ -32,10 +32,12 @@ Import noun g=m gen=Imports pl=Importe
 Importeur noun g=m gen=Importeurs pl=Importeure
 Importeurin noun g=f gen=Importeurin pl=Importeurinnen
 Impressum noun g=n gen=Impressums pl=Impressen
+Improvisation noun g=f gen=Improvisation pl=Improvisationen
 Impuls noun g=m gen=Impulses pl=Impulse
 Inanspruchnahme noun g=f gen=Inanspruchnahme pl=- note=mass noun
 Inaugenscheinnahme noun g=f gen=Inaugenscheinnahme pl=Inaugenscheinnahmen
 Inbetriebnahme noun g=f gen=Inbetriebnahme pl=Inbetriebnahmen
+Inbrunst noun g=f gen=Inbrunst pl=- note=mass noun
 Inder noun g=m gen=Inders pl=Inder
 Inderin noun g=f gen=Inderin pl=Inderinnen
 Index noun g=m gen=Index|Indexes pl=Indizes|Indexe
@@ -75,6 +77,7 @@ Initiator noun g=m gen=Initiators pl=Initiatoren
 Initiatorin noun g=f gen=Initiatorin pl=Initiatorinnen
 Inkasso noun g=n gen=Inkassos pl=Inkassos|Inkassi
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
+Inkraftsetzung noun g=f gen=Inkraftsetzung pl=- note=nominalisation in legal language
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
 Inland noun g=n gen=Inlands|Inlandes pl=- note=plural not used
 Inliner noun g=m gen=Inliners pl=Inliner
@@ -106,6 +109,7 @@ Instinkt noun g=m gen=Instinkts|Instinktes pl=Instinkte
 Institut noun g=n gen=Instituts|Institutes pl=Institute
 Institution noun g=f gen=Institution pl=Institutionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
+Instrumentarium noun g=n gen=Instrumentariums pl=Instrumentarien
 Insulaner noun g=m gen=Insulaners pl=Insulaner
 Insulin noun g=n gen=Insulins pl=- note=mass noun
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
@@ -117,6 +121,7 @@ Intelligenz noun g=f gen=Intelligenz pl=- note=also Intelligenzen (types) rare
 Intendant noun g=m gen=Intendanten pl=Intendanten
 Intendantin noun g=f gen=Intendantin pl=Intendantinnen
 Intensität noun g=f gen=Intensität pl=Intensitäten
+Intensivierung noun g=f gen=Intensivierung pl=Intensivierungen
 Intention noun g=f gen=Intention pl=Intentionen
 Intercity noun g=m gen=Intercitys pl=Intercitys
 Interesse noun g=n gen=Interesses pl=Interessen
@@ -124,10 +129,12 @@ Interjektion noun g=f gen=Interjektion pl=Interjektionen
 Internat noun g=n gen=Internats pl=Internate
 Internet noun g=n gen=Internets pl=- note=plural not used
 Internetseite noun g=f gen=Internetseite pl=Internetseiten
+Internierung noun g=f gen=Internierung pl=Internierungen
 Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
 Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen
 Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
+Intervall noun g=n gen=Intervalls pl=Intervalle
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
 Intranet noun g=n gen=Intranets pl=Intranets

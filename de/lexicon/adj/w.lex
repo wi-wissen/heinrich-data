@@ -50,6 +50,7 @@ wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten
 wirtschaftlich adj cmp=wirtschaftlicher sup=wirtschaftlichsten
 wissenschaftlich adj
+wissentlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten

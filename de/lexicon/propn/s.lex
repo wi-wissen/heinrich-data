@@ -5,6 +5,7 @@ Saarland propn g=n gen=Saarlands|Saarlandes pl=- note=proper name, no plural
 Sachsen propn g=n gen=Sachsens pl=- note=proper name, no plural
 Sachsen-Anhalt propn g=n gen=Sachsen-Anhalts pl=- note=federal state
 Sahara propn g=f gen=Sahara pl=- note=desert
+Sahelzone propn g=f gen=Sahelzone pl=- note=die Sahelzone
 Salzburg propn g=n gen=Salzburgs pl=- demonym=Salzburger note=proper name, no plural
 Santiago propn g=n gen=Santiagos pl=- note=proper name, no plural
 Sardinien propn g=n gen=Sardiniens pl=- note=proper name, no plural
@@ -57,6 +58,7 @@ Südafrika propn g=n gen=Südafrikas pl=- note=proper name, no plural
 Südamerika propn g=n gen=Südamerikas pl=- note=proper name, no plural
 Sudan propn g=m gen=Sudan|Sudans pl=- note=country; der Sudan
 Süddeutschland propn g=n gen=Süddeutschlands pl=- note=region
+Süditalien propn g=n gen=Süditaliens pl=- note=region
 Südkorea propn g=n gen=Südkoreas pl=- note=proper name, no plural
 Südostasien propn g=n gen=Südostasiens pl=- note=proper name; no plural
 Südosteuropa propn g=n gen=Südosteuropas pl=- note=region; no plural

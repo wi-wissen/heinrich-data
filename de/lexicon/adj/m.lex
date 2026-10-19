@@ -5,6 +5,7 @@ magnetisch adj
 malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
+mannigfaltig adj cmp=mannigfaltiger sup=mannigfaltigsten
 männlich adj
 manuell adj
 maritim adj
@@ -33,6 +34,7 @@ menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
 merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
+metallisch adj
 metaphorisch adj
 methodisch adj
 mexikanisch adj
@@ -63,6 +65,7 @@ mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj
 monatlich adj
+mongolisch adj
 monumental adj
 moralisch adj cmp=moralischer sup=moralischsten
 morgig adj attr_only
@@ -86,3 +89,4 @@ mutmaßlich adj
 mütterlich adj
 mysteriös adj cmp=mysteriöser sup=mysteriösesten
 mystisch adj
+mythisch adj

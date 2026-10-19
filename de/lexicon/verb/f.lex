@@ -127,6 +127,7 @@ fungieren verb class=weak pp=fungiert perf=haben
 funkeln verb class=weak pp=gefunkelt perf=haben
 funktionieren verb class=weak pp=funktioniert perf=haben
 fürchten verb class=weak pp=gefürchtet perf=haben refl=acc
+fußen verb class=weak pp=gefußt perf=haben
 fusionieren verb class=weak pp=fusioniert perf=haben|sein
 futtern verb class=weak pp=gefuttert perf=haben style=colloquial
 füttern verb class=weak pp=gefüttert perf=haben
