@@ -8,6 +8,7 @@ FM             x abbr note=frequency modulation
 fol. x abbr conf=85 note=folio
 FR             x abbr note=Federal Register (US), in citations
 Fr. x abbr conf=90 note=Father (priest); French
+franca x foreign note=only in lingua franca
 Frau x foreign note=German title Mrs.
 ft             x abbr note=foot/feet, unit
 FY             x abbr note=fiscal year

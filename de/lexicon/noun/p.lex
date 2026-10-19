@@ -28,6 +28,7 @@ Panther noun g=m gen=Panthers pl=Panther
 Pantine noun g=f gen=Pantine pl=Pantinen
 Pantoffel noun g=m gen=Pantoffels pl=Pantoffeln
 Panzer noun g=m gen=Panzers pl=Panzer
+Panzerung noun g=f gen=Panzerung pl=Panzerungen
 Papa noun g=m gen=Papas pl=Papas
 Papagei noun g=m gen=Papageis|Papageies pl=Papageien
 Paper noun g=n gen=Papers pl=Papers note=loanword: academic or position paper
@@ -51,6 +52,7 @@ Parallelismus noun g=m gen=Parallelismus pl=Parallelismen
 Parallelogramm noun g=n gen=Parallelogramms pl=Parallelogramme
 Parameter noun g=m gen=Parameters pl=Parameter
 Paraphe noun g=f gen=Paraphe pl=Paraphen
+Parasit noun g=m gen=Parasiten pl=Parasiten
 Parcours noun g=m gen=Parcours pl=- note=no genitive ending
 Parfüm noun g=n gen=Parfüms|Parfümes pl=Parfüme|Parfüms
 Pariser noun g=m gen=Parisers pl=Pariser note=inhabitant of Paris; also the indeclinable adjective
@@ -61,12 +63,15 @@ Parkett noun g=n gen=Parketts|Parkettes pl=Parkette|Parketts
 Parlament noun g=n gen=Parlaments|Parlamentes pl=Parlamente
 Parlamentarier noun g=m gen=Parlamentariers pl=Parlamentarier
 Parlamentarierin noun g=f gen=Parlamentarierin pl=Parlamentarierinnen
+Parlamentarismus noun g=m gen=Parlamentarismus pl=- note=mass noun
 Parodie noun g=f gen=Parodie pl=Parodien
 Parole noun g=f gen=Parole pl=Parolen
 Partei noun g=f gen=Partei pl=Parteien
+Parterre noun g=n gen=Parterres pl=Parterres
 Partie noun g=f gen=Partie pl=Partien
 Partikel noun g=f gen=Partikel pl=Partikeln
 Partizip noun g=n gen=Partizips pl=Partizipien
+Partizipation noun g=f gen=Partizipation pl=Partizipationen
 Partner noun g=m gen=Partners pl=Partner
 Partnerin noun g=f gen=Partnerin pl=Partnerinnen
 Partnerschaft noun g=f gen=Partnerschaft pl=Partnerschaften
@@ -95,7 +100,10 @@ Patin noun g=f gen=Patin pl=Patinnen
 Patriarch noun g=m gen=Patriarchen pl=Patriarchen
 Patriarchat noun g=n gen=Patriarchats|Patriarchates pl=Patriarchate
 Patriot noun g=m gen=Patrioten pl=Patrioten
+Patriotismus noun g=m gen=Patriotismus pl=- note=mass noun
+Patrizier noun g=m gen=Patriziers pl=Patrizier
 Patron noun g=m gen=Patrons pl=Patrone
+Patronat noun g=n gen=Patronats|Patronates pl=Patronate
 Patrone noun g=f gen=Patrone pl=Patronen note=cartridge (ink, ammunition)
 Patsch noun g=m gen=Patsch|Patschs|Patsches pl=Patsche
 Pauschale noun g=f gen=Pauschale pl=Pauschalen
@@ -108,6 +116,7 @@ PDF noun g=n gen=PDF|PDFs pl=PDFs note=das PDF (file); also die PDF-Datei
 Pech noun g=n gen=Pechs|Peches pl=- note=bad luck; pitch (rare plural)
 Pedal noun g=n gen=Pedals pl=Pedale
 Pedelec noun g=n gen=Pedelecs pl=Pedelecs
+Pegel noun g=m gen=Pegels pl=Pegel
 Pein noun g=f gen=Pein pl=- note=mass noun
 Peitsche noun g=f gen=Peitsche pl=Peitschen
 Pelikan noun g=m gen=Pelikans pl=Pelikane
@@ -121,11 +130,13 @@ Pensionärin noun g=f gen=Pensionärin pl=Pensionärinnen
 Pensionierung noun g=f gen=Pensionierung pl=Pensionierungen
 Perfekt noun g=n gen=Perfekts|Perfektes pl=Perfekte
 Performance noun g=f gen=Performance pl=Performances
+Pergament noun g=n gen=Pergaments|Pergamentes pl=Pergamente
 Periode noun g=f gen=Periode pl=Perioden
 Peripetie noun g=f gen=Peripetie pl=Peripetien
 Peripherie noun g=f gen=Peripherie pl=Peripherien
 Perkussion noun g=f gen=Perkussion pl=Perkussionen
 Perle noun g=f gen=Perle pl=Perlen
+Perser noun g=m gen=Persers pl=Perser
 Perso noun g=m gen=Persos pl=Persos style=colloquial note=Personalausweis
 Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals|Personales[rare] pl=Personale[rare] note=mass noun (staff); plural rare
@@ -135,6 +146,7 @@ Personifikation noun g=f gen=Personifikation pl=Personifikationen
 Persönlichkeit noun g=f gen=Persönlichkeit pl=Persönlichkeiten
 Perspektive noun g=f gen=Perspektive pl=Perspektiven
 Perücke noun g=f gen=Perücke pl=Perücken
+Peso noun g=m gen=Pesos pl=Pesos
 Pessach noun g=n gen=Pessachs pl=- note=no plural (mass or abstract noun)
 Pest noun g=f gen=Pest pl=- note=no plural
 Pestizid noun g=n gen=Pestizids|Pestizides pl=Pestizide
@@ -191,11 +203,14 @@ Pfosten noun g=m gen=Pfostens pl=Pfosten
 Pfote noun g=f gen=Pfote pl=Pfoten
 Pfund noun g=n gen=Pfundes|Pfunds pl=Pfund|Pfunde
 Pfütze noun g=f gen=Pfütze pl=Pfützen
+Phalanx noun g=f gen=Phalanx pl=Phalangen
 Phänomen noun g=n gen=Phänomens pl=Phänomene
 Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
+Pharmazie noun g=f gen=Pharmazie pl=- note=mass noun
 Phase noun g=f gen=Phase pl=Phasen
+Philharmoniker noun g=m gen=Philharmonikers pl=Philharmoniker
 Philister noun g=m gen=Philisters pl=Philister
 Philologe noun g=m gen=Philologen pl=Philologen
 Philologie noun g=f gen=Philologie pl=Philologien
@@ -213,6 +228,7 @@ Phrase noun g=f gen=Phrase pl=Phrasen
 Physik noun g=f gen=Physik pl=- note=mass noun
 Physiker noun g=m gen=Physikers pl=Physiker
 Physikerin noun g=f gen=Physikerin pl=Physikerinnen
+Physiognomie noun g=f gen=Physiognomie pl=Physiognomien
 Physiologe noun g=m gen=Physiologen pl=Physiologen
 Physiologie noun g=f gen=Physiologie pl=- note=mass noun
 Pianist noun g=m gen=Pianisten pl=Pianisten
@@ -260,6 +276,7 @@ Plastik noun g=f gen=Plastik pl=Plastiken sense=sculpture
 Plastikmüll noun g=m gen=Plastikmülls pl=- note=no plural
 Plastiktüte noun g=f gen=Plastiktüte pl=Plastiktüten
 Plateau noun g=n gen=Plateaus pl=Plateaus
+Platin noun g=n gen=Platins pl=- note=mass noun
 Platte noun g=f gen=Platte pl=Platten
 Plattform noun g=f gen=Plattform pl=Plattformen
 Platz noun g=m gen=Platzes pl=Plätze
@@ -285,6 +302,7 @@ Poesie noun g=f gen=Poesie pl=Poesien
 Poet noun g=m gen=Poeten pl=Poeten
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
+Poker noun g=n|m gen=Pokers pl=- note=das or der Poker
 Pol noun g=m gen=Pols pl=Pole
 Polacke noun g=m gen=Polacken pl=Polacken style=offensive note=slur for Poles
 Polarkreis noun g=m gen=Polarkreises pl=Polarkreise
@@ -378,6 +396,7 @@ Präteritum noun g=n gen=Präteritums pl=Präterita
 Prävention noun g=f gen=Prävention pl=Präventionen
 Praxis noun g=f gen=Praxis pl=Praxen
 Präzisierung noun g=f gen=Präzisierung pl=Präzisierungen
+Präzision noun g=f gen=Präzision pl=- note=mass noun
 Prediger noun g=m gen=Predigers pl=Prediger
 Predigerin noun g=f gen=Predigerin pl=Predigerinnen
 Predigt noun g=f gen=Predigt pl=Predigten
@@ -451,6 +470,7 @@ Prostitution noun g=f gen=Prostitution pl=- note=mass noun
 Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
 Protein noun g=n gen=Proteins pl=Proteine
+Protektorat noun g=n gen=Protektorats|Protektorates pl=Protektorate
 Protest noun g=m gen=Protests|Protestes pl=Proteste
 Protestant noun g=m gen=Protestanten pl=Protestanten
 Protestantin noun g=f gen=Protestantin pl=Protestantinnen
@@ -507,6 +527,7 @@ Pünktlichkeit noun g=f gen=Pünktlichkeit pl=- note=no plural (mass or abstract
 Punsch noun g=m gen=Punsches|Punschs pl=Punsche
 Pupille noun g=f gen=Pupille pl=Pupillen
 Puppe noun g=f gen=Puppe pl=Puppen
+Purpur noun g=m gen=Purpurs pl=- note=mass noun (colour, dye)
 Puschel noun g=m gen=Puschels pl=Puschel
 Pute noun g=f gen=Pute pl=Puten
 Putsch noun g=m gen=Putsches|Putschs pl=Putsche

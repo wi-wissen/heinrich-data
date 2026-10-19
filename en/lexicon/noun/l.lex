@@ -8,6 +8,7 @@ labyrinth noun
 lace          noun
 lack          noun
 lacrosse noun pl=- note=uncountable
+lactose noun pl=- note=uncountable
 lad           noun
 ladder        noun
 ladle noun
@@ -20,12 +21,15 @@ lagoon        noun
 lair noun
 laird noun
 lake          noun
+lakeside noun
 lamb          noun
 lament noun
+lamentation noun
 lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
 land          noun
+lander noun
 landfall      noun
 landfill      noun
 landholder noun
@@ -38,6 +42,7 @@ landscape     noun
 landslide noun
 lane          noun
 language      noun
+languor noun pl=- note=usually uncountable
 Lankan noun note=only in Sri Lankan
 lantern       noun
 lanyard noun
@@ -53,6 +58,7 @@ lass noun
 latch noun
 latency noun
 lateness noun pl=- note=uncountable
+latex noun
 lathe noun
 Latin         noun
 Latino        noun note=plural Latinos
@@ -72,6 +78,7 @@ lava noun
 lavatory noun
 lavender noun
 law           noun
+lawmaker noun
 lawn          noun
 lawnmower noun
 lawsuit       noun
@@ -105,6 +112,7 @@ ledge         noun
 ledger noun
 lee noun
 leek noun
+leeward noun pl=- note=uncountable
 left          noun
 leftist noun
 lefty noun style=colloquial
@@ -140,10 +148,12 @@ letterbox noun region=GB
 letterhead noun
 lettering noun pl=- note=uncountable
 lettuce noun
+leukemia noun gb=leukaemia pl=- note=uncountable
 levee noun
 level         noun
 lever noun
 leverage      noun
+levity noun pl=- note=uncountable
 levy          noun
 liability     noun
 liaison       noun
@@ -162,12 +172,14 @@ libretto noun pl=librettos|libretti
 Libyan        noun
 license       noun gb=licence
 licensee      noun
+licensure noun pl=- note=uncountable
 lid           noun
 lie           noun
 lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
 life          noun pl=lives
+lifeboat noun
 lifecycle noun
 lifeguard noun
 lifeline noun
@@ -188,8 +200,10 @@ like          noun
 likelihood    noun
 likeness      noun
 liking        noun
+lilac noun
 lily          noun
 limb          noun
+limbo noun note=plural limbos
 lime noun
 limerick noun
 limestone     noun
@@ -225,6 +239,7 @@ liter noun gb=litre
 literacy      noun pl=- note=uncountable
 literature    noun
 lithium noun pl=- note=chemical element
+lithosphere noun
 Lithuanian    noun
 litigant noun
 litigation    noun
@@ -246,6 +261,7 @@ LOA           noun abbr conf=85 note=letter of authorization
 load          noun
 loaf noun pl=loaves
 loan          noun
+loanword noun
 lobby         noun
 lobbyist noun
 lobe noun
@@ -254,13 +270,16 @@ local         noun
 locale noun
 localism      noun
 locality      noun
+localization noun gb=localisation|localization
 location      noun
 loch          noun pl=lochs note=Scottish lake
 lock          noun
 lockdown      noun
 locker noun
 locksmith noun
+locomotion noun pl=- note=uncountable
 locomotive    noun
+locus noun pl=loci
 locust noun
 lodge         noun
 lodger noun
@@ -278,10 +297,13 @@ lollipop noun
 Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
+longfin noun conf=90 note=fish name modifier, as in longfin tuna
 longing       noun
 longitude noun
+longline noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
+lookback noun conf=85 note=mostly attributive: lookback period
 lookout noun
 lookup noun
 loop          noun
@@ -309,6 +331,7 @@ LP            noun abbr note=long-playing record; limited partnership
 LPA           noun abbr conf=80 note=lasting power of attorney; local planning authority (UK)
 luck          noun pl=- note=uncountable
 luggage       noun pl=- note=uncountable
+lugger noun
 lull noun
 lumber        noun pl=- note=uncountable (timber)
 lump          noun
@@ -321,8 +344,14 @@ lung          noun
 lure noun
 lust noun
 luster noun gb=lustre
+lute noun
 Lutheran      noun
 luxury        noun
+lyceum noun
 lychee noun
+lymph noun pl=- note=uncountable
+lymphoma noun pl=lymphomas|lymphomata
+lynx noun pl=lynxes|lynx
+lyre noun
 lyric         noun
 lyricist noun

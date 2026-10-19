@@ -196,6 +196,7 @@ achten verb class=weak pp=geachtet perf=haben
 ächten verb class=weak pp=geächtet perf=haben
 adaptieren verb class=weak pp=adaptiert perf=haben
 addieren verb class=weak pp=addiert perf=haben
+adeln verb class=weak pp=geadelt perf=haben
 administrieren verb class=weak pp=administriert perf=haben
 adoptieren verb class=weak pp=adoptiert perf=haben
 adressieren verb class=weak pp=adressiert perf=haben
@@ -397,6 +398,7 @@ arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
 assistieren verb class=weak pp=assistiert perf=haben
 assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
+attackieren verb class=weak pp=attackiert perf=haben
 attestieren verb class=weak pp=attestiert perf=haben
 aufatmen verb class=weak sep=auf pp=aufgeatmet perf=haben
 aufbacken verb class=strong sep=auf 3sg=aufbäckt|aufbackt past=aufbackte|aufbuk[archaic] pp=aufgebacken subj2=aufbackte|aufbüke[archaic] perf=haben

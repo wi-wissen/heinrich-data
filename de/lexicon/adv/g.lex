@@ -1,5 +1,6 @@
 gänzlich adv
 gefälligst adv type=modal
+gemeiniglich adv style=archaic note=commonly, usually
 genugsam adv style=archaic
 geradeaus adv type=direction
 geradezu adv

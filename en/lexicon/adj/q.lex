@@ -1,3 +1,4 @@
+quadratic adj
 quadruple adj
 quaint        adj cmp=er adv=quaintly
 Quaker        adj

@@ -253,12 +253,14 @@ entspringen verb class=strong 3sg=entspringt past=entsprang pp=entsprungen subj2
 entstammen verb class=weak pp=entstammt perf=sein
 entstauben verb class=weak pp=entstaubt perf=haben
 entstehen verb class=strong 3sg=entsteht past=entstand pp=entstanden subj2=entstünde|entstände perf=sein
+entstellen verb class=weak pp=entstellt perf=haben
 enttarnen verb class=weak pp=enttarnt perf=haben
 enttäuschen verb class=weak pp=enttäuscht perf=haben part1_cmp pp_cmp
 entwaffnen verb class=weak pp=entwaffnet perf=haben
 entwässern verb class=weak pp=entwässert perf=haben
 entwenden verb class=weak pp=entwendet perf=haben
 entwerfen verb class=strong 3sg=entwirft past=entwarf pp=entworfen subj2=entwürfe perf=haben
+entwerten verb class=weak pp=entwertet perf=haben
 entwickeln verb class=weak pp=entwickelt perf=haben refl=acc
 entwirren verb class=weak pp=entwirrt perf=haben
 entwöhnen verb class=weak pp=entwöhnt perf=haben
@@ -326,6 +328,7 @@ erkaufen verb class=weak pp=erkauft perf=haben
 erkennen verb class=mixed 3sg=erkennt past=erkannte pp=erkannt subj2=erkennte perf=haben
 erklären verb class=weak pp=erklärt perf=haben
 erklimmen verb class=strong 3sg=erklimmt past=erklomm pp=erklommen subj2=erklömme perf=haben
+erklingen verb class=strong 3sg=erklingt past=erklang pp=erklungen subj2=erklänge perf=sein
 erkranken verb class=weak pp=erkrankt perf=sein
 erkunden verb class=weak pp=erkundet perf=haben
 erkundigen verb class=weak pp=erkundigt perf=haben refl=acc

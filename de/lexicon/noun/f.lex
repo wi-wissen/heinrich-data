@@ -2,6 +2,8 @@ Fabel noun g=f gen=Fabel pl=Fabeln
 Fabrik noun g=f gen=Fabrik pl=Fabriken
 Fabrikant noun g=m gen=Fabrikanten pl=Fabrikanten
 Fabrikantin noun g=f gen=Fabrikantin pl=Fabrikantinnen
+Fabrikation noun g=f gen=Fabrikation pl=Fabrikationen
+Facette noun g=f gen=Facette pl=Facetten
 Fach noun g=n gen=Fachs|Faches pl=Fächer
 Facharbeit noun g=f gen=Facharbeit pl=Facharbeiten
 Fachbegriff noun g=m gen=Fachbegriffs|Fachbegriffes pl=Fachbegriffe
@@ -58,6 +60,7 @@ Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
 Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
+Farbgebung noun g=f gen=Farbgebung pl=Farbgebungen
 Färbung noun g=f gen=Färbung pl=Färbungen
 Farm noun g=f gen=Farm pl=Farmen
 Farmer noun g=m gen=Farmers pl=Farmer
@@ -66,6 +69,7 @@ Färse noun g=f gen=Färse pl=Färsen
 Fasan noun g=m gen=Fasans pl=Fasane|Fasanen
 Fasching noun g=m gen=Faschings pl=- note=mass noun; regional (carnival)
 Faschismus noun g=m gen=Faschismus pl=- note=no plural
+Faschist noun g=m gen=Faschisten pl=Faschisten
 Faser noun g=f gen=Faser pl=Fasern
 Fasnacht noun g=f gen=Fasnacht pl=- note=no plural (mass or abstract noun)
 Fassade noun g=f gen=Fassade pl=Fassaden
@@ -107,6 +111,7 @@ Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
+Feministin noun g=f gen=Feministin pl=Feministinnen
 Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
 Ferien noun g=pl
@@ -172,6 +177,7 @@ Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
 Fischerei noun g=f gen=Fischerei pl=Fischereien
 Fischerin noun g=f gen=Fischerin pl=Fischerinnen
+Fiskus noun g=m gen=Fiskus pl=Fiskusse|Fisken conf=80 note=des Fiskus; plural rarely used, both forms unsure
 Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
@@ -241,6 +247,7 @@ Folter noun g=f gen=Folter pl=Foltern
 Fön noun g=m gen=Föns pl=Föne
 Fonds noun g=m gen=Fonds pl=Fonds note=des Fonds; spoken without s
 Fondue noun g=n gen=Fondues pl=Fondues
+Football noun g=m gen=Footballs pl=- note=American football
 Förde noun g=f gen=Förde pl=Förden
 Förderer noun g=m gen=Förderers pl=Förderer
 Fördererin noun g=f gen=Fördererin pl=Fördererinnen
@@ -289,6 +296,7 @@ Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
 Franziskaner noun g=m gen=Franziskaners pl=Franziskaner
 Franzose noun g=m gen=Franzosen pl=Franzosen
+Französin noun g=f gen=Französin pl=Französinnen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
 Frau         noun g=f gen=Frau pl=Frauen
 Frauenrechtler noun g=m gen=Frauenrechtlers pl=Frauenrechtler
@@ -362,6 +370,7 @@ Führerin noun g=f gen=Führerin pl=Führerinnen
 Fuhrmann noun g=m gen=Fuhrmanns|Fuhrmannes pl=Fuhrleute|Fuhrmänner[rare]
 Fuhrpark noun g=m gen=Fuhrparks pl=Fuhrparks
 Führung noun g=f gen=Führung pl=Führungen
+Fuhrwerk noun g=n gen=Fuhrwerks|Fuhrwerkes pl=Fuhrwerke
 Fülle noun g=f gen=Fülle pl=- note=no plural
 Füller noun g=m gen=Füllers pl=Füller
 Füllung noun g=f gen=Füllung pl=Füllungen
@@ -372,6 +381,7 @@ Funk noun g=m gen=Funks pl=- note=no plural
 Funke noun g=m gen=Funkens pl=Funken
 Funken noun g=m gen=Funkens pl=Funken
 Funktion noun g=f gen=Funktion pl=Funktionen
+Funktionalität noun g=f gen=Funktionalität pl=Funktionalitäten
 Funktionär noun g=m gen=Funktionärs pl=Funktionäre
 Funktionärin noun g=f gen=Funktionärin pl=Funktionärinnen
 Furcht noun g=f gen=Furcht pl=- note=no plural in use

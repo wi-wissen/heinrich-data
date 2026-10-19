@@ -27,6 +27,7 @@ pinkeln verb class=weak pp=gepinkelt perf=haben style=colloquial
 pirschen verb class=weak pp=gepirscht perf=haben refl=acc
 pissen verb class=weak pp=gepisst perf=haben style=colloquial
 plädieren verb class=weak pp=plädiert perf=haben
+plagen verb class=weak pp=geplagt perf=haben
 planen verb class=weak pp=geplant perf=haben
 planschen verb class=weak pp=geplanscht perf=haben
 plappern verb class=weak pp=geplappert perf=haben
@@ -53,6 +54,7 @@ predigen verb class=weak pp=gepredigt perf=haben
 preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=haben
 pressen verb class=weak pp=gepresst perf=haben
 priorisieren verb class=weak pp=priorisiert perf=haben
+privatisieren verb class=weak pp=privatisiert perf=haben
 proben verb class=weak pp=geprobt perf=haben
 probieren verb class=weak pp=probiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben

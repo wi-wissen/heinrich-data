@@ -1,6 +1,7 @@
 madden verb
 magnify verb
 mail          verb
+maim verb
 maintain      verb
 major         verb
 make          verb past=made pp=made
@@ -10,6 +11,7 @@ man           verb
 manage        verb
 mandate       verb
 maneuver verb gb=manoeuvre
+mangle verb
 manifest      verb
 manipulate verb
 manufacture   verb
@@ -77,13 +79,16 @@ mint verb
 minute verb
 mire verb
 mirror        verb
+misinterpret verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
 misplace verb
+misrepresent verb
 miss          verb
 misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb
 mistake       verb prefix=mis past=mistook pp=mistaken
+mistreat verb
 mistrust verb
 mistype verb
 misunderstand verb prefix=mis past=misunderstood pp=misunderstood
@@ -112,6 +117,7 @@ mortify verb
 mother        verb
 motion        verb
 motivate      verb
+motor verb
 motorize verb gb=motorise|motorize
 mount         verb
 mourn         verb
@@ -137,3 +143,4 @@ mutilate verb
 mutiny verb
 mutter        verb
 muzzle verb
+mystify verb

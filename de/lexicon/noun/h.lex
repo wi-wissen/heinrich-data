@@ -27,6 +27,7 @@ Haken noun g=m gen=Hakens pl=Haken
 Halbinsel noun g=f gen=Halbinsel pl=Halbinseln
 Halbjahr noun g=n gen=Halbjahrs|Halbjahres pl=Halbjahre
 Halbzeit noun g=f gen=Halbzeit pl=Halbzeiten
+Halde noun g=f gen=Halde pl=Halden
 Hälfte noun g=f gen=Hälfte pl=Hälften
 Halle noun g=f gen=Halle pl=Hallen sense=building
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
@@ -68,6 +69,7 @@ Hardware noun g=f gen=Hardware pl=- note=mass noun
 Harfe noun g=f gen=Harfe pl=Harfen
 Harke noun g=f gen=Harke pl=Harken
 Harmonie noun g=f gen=Harmonie pl=Harmonien
+Harnisch noun g=m gen=Harnischs|Harnisches pl=Harnische
 Härte noun g=f gen=Härte pl=Härten
 Harz noun g=n gen=Harzes pl=Harze sense=resin
 Häschen noun g=n gen=Häschens pl=Häschen
@@ -162,6 +164,7 @@ Henkel noun g=m gen=Henkels pl=Henkel
 Henker noun g=m gen=Henkers pl=Henker
 Henne noun g=f gen=Henne pl=Hennen
 Herabsetzung noun g=f gen=Herabsetzung pl=Herabsetzungen
+Herangehensweise noun g=f gen=Herangehensweise pl=Herangehensweisen
 Herausforderung noun g=f gen=Herausforderung pl=Herausforderungen
 Herausgabe noun g=f gen=Herausgabe pl=- note=mass noun; derived from herausgeben
 Herausgeber noun g=m gen=Herausgebers pl=Herausgeber
@@ -183,6 +186,7 @@ Herrscherin noun g=f gen=Herrscherin pl=Herrscherinnen
 Hersteller noun g=m gen=Herstellers pl=Hersteller
 Herstellerin noun g=f gen=Herstellerin pl=Herstellerinnen
 Herstellung noun g=f gen=Herstellung pl=Herstellungen
+Hertz noun g=n gen=Hertz pl=Hertz note=unit of frequency
 Herz noun g=n sg=Herz,Herzens,Herzen|Herze[archaic],Herz pl=Herzen
 Herzinfarkt noun g=m gen=Herzinfarkts|Herzinfarktes pl=Herzinfarkte
 Herzklopfen noun g=n gen=Herzklopfens pl=- note=no plural (mass or abstract noun)
@@ -273,6 +277,7 @@ Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare
 Hoodie noun g=m gen=Hoodies pl=Hoodies
+Hopfen noun g=m gen=Hopfens pl=Hopfen
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
 Horde noun g=f gen=Horde pl=Horden
 Hörer noun g=m gen=Hörers pl=Hörer
@@ -302,6 +307,7 @@ Hügel noun g=m gen=Hügels pl=Hügel
 Huhn noun g=n gen=Huhns|Huhnes pl=Hühner
 Hühnchen noun g=n gen=Hühnchens pl=Hühnchen
 Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
+Huld noun g=f gen=Huld pl=- note=mass noun; favour, grace (elevated)
 Hülle noun g=f gen=Hülle pl=Hüllen
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
 Humanist noun g=m gen=Humanisten pl=Humanisten
@@ -336,3 +342,4 @@ Hyperbel noun g=f gen=Hyperbel pl=Hyperbeln
 Hypotenuse noun g=f gen=Hypotenuse pl=Hypotenusen
 Hypothek noun g=f gen=Hypothek pl=Hypotheken
 Hypothese noun g=f gen=Hypothese pl=Hypothesen
+Hysterie noun g=f gen=Hysterie pl=Hysterien

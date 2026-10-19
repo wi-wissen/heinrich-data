@@ -5,6 +5,7 @@ AfD           propn g=f gen=AfD pl=- note=proper name; no plural
 Afghanistan   propn g=n gen=Afghanistans pl=- note=proper name; no plural
 Afrika        propn g=n gen=Afrikas pl=- note=proper name; no plural
 Ägypten       propn g=n gen=Ägyptens pl=- note=proper name; no plural
+Akropolis propn g=f gen=Akropolis pl=- note=proper name; no plural
 Alabama propn g=n gen=Alabamas pl=- conf=80 note=US state; gender uncertain
 Alaska propn g=n gen=Alaskas pl=- note=proper name; no plural
 Alb propn g=f gen=Alb pl=- note=Schwäbische/Fränkische Alb
@@ -17,6 +18,7 @@ Alpen propn g=pl
 Altenburg propn g=n gen=Altenburgs pl=- note=proper name; no plural
 Altona propn g=n gen=Altonas pl=- note=proper name; no plural
 Altötting propn g=n gen=Altöttings pl=- note=proper name; no plural
+Amazonenstrom propn g=m gen=Amazonenstroms|Amazonenstromes pl=- note=older name of the Amazon river
 Amerika       propn g=n gen=Amerikas pl=- note=proper name; no plural
 Amsterdam propn g=n gen=Amsterdams pl=- note=proper name; no plural
 Anden propn g=pl

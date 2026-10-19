@@ -1,3 +1,4 @@
+wad verb
 wade verb
 wag verb
 wage verb
@@ -5,7 +6,7 @@ wager verb
 wail verb
 wait verb
 waive verb
-wake verb past=woke pp=woken
+wake verb past=woke|waked[rare] pp=woken|waked[rare]
 walk verb
 wall verb
 waltz verb
@@ -16,6 +17,7 @@ war verb
 ward verb
 warm verb
 warn verb
+warp verb
 warrant verb
 wash verb
 waste verb
@@ -58,6 +60,7 @@ widen verb
 widow verb
 wield verb
 wiggle verb
+will verb sense=wish note=to want, exert the will; to bequeath; regular, unlike the modal
 wilt verb note=to droop; archaic thou wilt (will) is a closed-class gap
 win verb past=won pp=won
 wince verb
@@ -82,6 +85,7 @@ worm verb
 worry verb
 worsen verb
 worship verb past=worshiped[US]|worshipped pp=worshiped[US]|worshipped ing=worshiping[US]|worshipping
+worst verb note=to defeat; worsted
 wound verb
 wrap verb
 wreak verb

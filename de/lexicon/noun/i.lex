@@ -10,6 +10,7 @@ Ideologie noun g=f gen=Ideologie pl=Ideologien
 Idol noun g=n gen=Idols|Idoles pl=Idole
 Igel noun g=m gen=Igels pl=Igel
 Iglu noun g=m gen=Iglus pl=Iglus
+Ignoranz noun g=f gen=Ignoranz pl=- note=mass noun
 IHK noun g=f gen=IHK pl=IHKs note=Industrie- und Handelskammer
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
@@ -42,6 +43,7 @@ Inderin noun g=f gen=Inderin pl=Inderinnen
 Index noun g=m gen=Index|Indexes pl=Indizes|Indexe
 Indianer noun g=m gen=Indianers pl=Indianer
 Indianerin noun g=f gen=Indianerin pl=Indianerinnen
+Indikation noun g=f gen=Indikation pl=Indikationen
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
 Individuum noun g=n gen=Individuums pl=Individuen
@@ -60,6 +62,7 @@ Informatik noun g=f gen=Informatik pl=- note=academic subject
 Informatiker noun g=m gen=Informatikers pl=Informatiker
 Informatikerin noun g=f gen=Informatikerin pl=Informatikerinnen
 Information noun g=f gen=Information pl=Informationen
+Infrarot noun g=n gen=Infrarots pl=- note=mass noun
 Infrastruktur noun g=f gen=Infrastruktur pl=Infrastrukturen
 Ingenieur noun g=m gen=Ingenieurs pl=Ingenieure
 Ingenieurin noun g=f gen=Ingenieurin pl=Ingenieurinnen
@@ -68,6 +71,7 @@ Inhaber noun g=m gen=Inhabers pl=Inhaber
 Inhaberin noun g=f gen=Inhaberin pl=Inhaberinnen
 Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
+Initiale noun g=f gen=Initiale pl=Initialen
 Initiative noun g=f gen=Initiative pl=Initiativen
 Initiator noun g=m gen=Initiators pl=Initiatoren
 Initiatorin noun g=f gen=Initiatorin pl=Initiatorinnen
@@ -134,6 +138,7 @@ Intervall noun g=n gen=Intervalls pl=Intervalle
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
 Intranet noun g=n gen=Intranets pl=Intranets
+Intro noun g=n gen=Intros pl=Intros
 Invasion noun g=f gen=Invasion pl=Invasionen
 Inventar noun g=n gen=Inventars pl=Inventare
 Inventur noun g=f gen=Inventur pl=Inventuren
@@ -143,12 +148,14 @@ Investition noun g=f gen=Investition pl=Investitionen
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
 Ion noun g=n gen=Ions pl=Ionen
+Ire noun g=m gen=Iren pl=Iren
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure
 Ironie noun g=f gen=Ironie pl=- note=no plural in practice
 Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare
 Irrtum noun g=m gen=Irrtums|Irrtumes pl=Irrtümer
 ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
+Islamismus noun g=m gen=Islamismus pl=- note=mass noun
 Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 IT noun g=f gen=IT pl=- note=Informationstechnik

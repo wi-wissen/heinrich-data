@@ -63,6 +63,7 @@ geringfügig adj cmp=geringfügiger sup=geringfügigsten
 germanisch adj
 gesamt adj
 gesamtschuldnerisch adj
+geschäftig adj cmp=geschäftiger sup=geschäftigsten
 geschäftlich adj
 gescheit adj cmp=gescheiter sup=gescheitesten
 geschichtlich adj
@@ -96,6 +97,7 @@ gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+ghanaisch adj
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
 gigantisch adj

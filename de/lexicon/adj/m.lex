@@ -10,6 +10,7 @@ männlich adj
 manuell adj
 maritim adj
 markant adj cmp=markanter sup=markantesten
+marode adj cmp=maroder sup=marodesten
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -48,6 +49,7 @@ miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
+mitleidig adj cmp=mitleidiger sup=mitleidigsten
 mittelalterlich adj
 mittelbar adj
 mittelfristig adj

@@ -110,6 +110,7 @@ asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
 astronomisch adj
 atheistisch adj
+atlantisch adj note=der Atlantische Ozean
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
 ätzend adj
@@ -133,6 +134,7 @@ ausführlich adj cmp=ausführlicher sup=ausführlichsten
 ausgedehnt adj cmp=ausgedehnter sup=ausgedehntesten
 ausgeglichen adj cmp=ausgeglichener sup=ausgeglichensten
 ausgeprägt adj cmp=ausgeprägter sup=ausgeprägtesten
+ausgiebig adj cmp=ausgiebiger sup=ausgiebigsten
 auskunftspflichtig adj
 ausländisch adj
 ausnahmslos adj

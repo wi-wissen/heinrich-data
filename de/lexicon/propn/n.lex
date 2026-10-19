@@ -7,6 +7,7 @@ NDR propn g=m gen=NDR pl=- note=der NDR
 Neapel propn g=n gen=Neapels pl=- note=proper name; no plural
 Neckar propn g=m gen=Neckars|Neckar pl=- note=river
 Nepal propn g=n gen=Nepals pl=- note=proper name; no plural
+Neukölln propn g=n gen=Neuköllns pl=- note=district of Berlin
 Neuseeland propn g=n gen=Neuseelands pl=- note=proper name; no plural
 Nevada propn g=n gen=Nevadas pl=- note=proper name; no plural
 Nidda propn g=f gen=Nidda pl=- note=river (also a town)
@@ -25,6 +26,7 @@ Nordkorea propn g=n gen=Nordkoreas pl=- note=proper name; no plural
 Nordrhein-Westfalen propn g=n gen=Nordrhein-Westfalens pl=- note=proper name; no plural
 Normandie propn g=f gen=Normandie pl=- note=die Normandie
 Norwegen propn g=n gen=Norwegens pl=- note=proper name; no plural
+Nowgorod propn g=n gen=Nowgorods pl=- note=city in Russia
 NPD propn g=f gen=NPD pl=- note=die NPD
 NRW propn g=n gen=NRW pl=- note=Nordrhein-Westfalen
 NSDAP propn g=f gen=NSDAP pl=- note=proper name; no plural

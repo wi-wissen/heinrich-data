@@ -1,3 +1,4 @@
+saarländisch adj
 sachgemäß adj
 sachkundig adj cmp=sachkundiger sup=sachkundigsten
 sachlich adj cmp=sachlicher sup=sachlichsten
@@ -17,6 +18,7 @@ satzungsgemäß adj
 sauber adj cmp=sauberer sup=saubersten
 sauer adj cmp=saurer sup=sauersten
 säumig adj
+schäbig adj cmp=schäbiger sup=schäbigsten
 schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
 schändlich adj cmp=schändlicher sup=schändlichsten
@@ -106,6 +108,7 @@ sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
 sittenwidrig adj
 sittlich adj cmp=sittlicher sup=sittlichsten
+skandalös adj cmp=skandalöser sup=skandalösesten
 skeptisch adj cmp=skeptischer sup=skeptischsten
 slawisch adj
 slowakisch adj
@@ -164,6 +167,7 @@ steil adj cmp=steiler sup=steilsten
 steinern adj
 steinig adj cmp=steiniger sup=steinigsten
 steinzeitlich adj
+steirisch adj
 stenografisch adj
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
@@ -209,7 +213,7 @@ süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj
 sympathisch adj cmp=sympathischer sup=sympathischsten
-synchron adj
+synchron adj note=simultaneous; also in Synchronfassung
 synthetisch adj
 syrisch adj
 systematisch adj cmp=systematischer sup=systematischsten
