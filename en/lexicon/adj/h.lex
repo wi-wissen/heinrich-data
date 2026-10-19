@@ -9,6 +9,7 @@ handy adj cmp=er
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
 hardcore adj
+hardworking adj cmp=more conf=85 note=also hard-working
 hardy          adj cmp=er
 harmful        adj
 harmless       adj adv=harmlessly
@@ -37,6 +38,7 @@ hemorrhagic adj gb=haemorrhagic
 hereditary     adj
 heroic         adj adv=heroically
 hideous        adj adv=hideously
+hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
 hilly adj cmp=er
 hind adj attr_only

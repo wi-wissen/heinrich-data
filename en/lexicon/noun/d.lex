@@ -22,6 +22,7 @@ darkness noun pl=- note=uncountable
 darling noun
 dart noun
 dash noun
+dashboard noun
 data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
@@ -40,15 +41,20 @@ dead noun pl=- note=the dead; in the dead of night
 deadline noun
 deal noun
 dealer noun
+dealership noun
 dealing noun
 dean noun
 dear noun
 death noun
 debate noun
+debenture noun
 debit noun
+debrief noun pl=debriefs
+debriefing noun
 debris noun pl=- note=uncountable
 debt noun
 debtor noun
+debugger noun
 debut noun
 decade noun
 decarbonization noun gb=decarbonisation|decarbonization
@@ -67,12 +73,16 @@ decompression noun
 decoration noun
 decrease noun
 decree noun
+decryption noun pl=- note=uncountable
 dedication noun
+deductible noun
 deduction noun
 deed noun
 deep noun
 deer noun pl=deer
+defamation noun pl=- note=uncountable
 default noun
+defaulter noun
 defeat noun
 defect noun
 defendant noun
@@ -81,10 +91,12 @@ defense noun gb=defence
 defensive noun note=on the defensive
 deference noun pl=- note=uncountable
 deferment noun
+deferral noun
 defiance noun pl=- note=uncountable
 deficiency noun
 deficit noun
 definition noun
+deflation noun
 deforestation noun
 degradation noun
 degree noun
@@ -95,6 +107,8 @@ delegation noun
 deliberation noun
 delicacy noun
 delight noun
+delinquency noun
+deliverable noun
 delivery noun
 dell noun
 delta noun
@@ -111,6 +125,7 @@ demographic noun
 demolition noun
 demon noun
 demonstration noun
+demotion noun
 den noun
 denial noun
 denomination noun
@@ -127,13 +142,16 @@ deployment noun
 deportation noun
 deposit noun
 deposition noun
+depositor noun
 depository noun
 depot noun
 depreciation noun
 depression noun
 deprivation noun
 depth noun
+deputation noun
 deputy noun
+deregulation noun pl=- note=uncountable
 derivation noun
 derivative noun
 descendant noun
@@ -171,6 +189,7 @@ deterrent noun
 detonation noun
 detriment noun
 deuce noun
+devaluation noun
 devastation noun pl=- note=uncountable
 developer noun
 development noun
@@ -206,6 +225,7 @@ difficulty noun
 diffusion noun
 dig noun
 digit noun
+digitization noun gb=digitisation|digitization
 dignity noun
 dilemma noun
 diligence noun pl=- note=uncountable
@@ -237,6 +257,8 @@ disappointment noun
 disapproval noun
 disarmament noun
 disaster noun
+disbarment noun
+disbursement noun
 disc noun
 discard noun
 discharge noun
@@ -262,6 +284,7 @@ disguise noun
 disgust noun
 dish noun
 disinformation noun pl=- note=uncountable
+disinvestment noun
 disk noun
 dislike noun
 dismay noun
@@ -269,6 +292,8 @@ dismissal noun
 disorder noun
 disparity noun
 dispatch noun gb=dispatch|despatch
+dispatcher noun
+dispenser noun
 dispersal noun
 dispersion noun
 displacement noun
@@ -300,8 +325,11 @@ diva noun
 dive noun
 diver noun
 divergence noun
+diversification noun
 diversion noun
 diversity noun
+divestiture noun
+divestment noun
 divide noun
 dividend noun
 divinity noun
@@ -332,15 +360,18 @@ dolphin noun
 domain noun
 dome noun
 domestic noun
+domicile noun
 dominance noun pl=- note=uncountable
 domination noun
 Dominican noun
 dominion noun
 donation noun
+dongle noun
 donkey noun
 donor noun
 doom noun
 door noun
+doorman noun pl=doormen
 doorstep noun
 doorway noun
 dopamine noun pl=- note=uncountable
@@ -355,7 +386,9 @@ doughnut noun
 down noun note=soft feathers; the Downs (hills)
 downfall noun
 download noun
+downsizing noun pl=- note=uncountable
 downstairs noun pl=- note=the downstairs
+downtime noun pl=- note=uncountable
 downtown noun
 downturn noun
 draft noun
@@ -367,6 +400,7 @@ drake noun
 drama noun
 draught noun note=current of air, drink from the cask, the game draughts; British spelling of draft in these senses
 draw noun
+drawback noun
 drawdown noun
 drawer noun
 drawing noun
@@ -384,6 +418,7 @@ drive noun
 driver noun
 drone noun
 drop noun
+dropdown noun conf=85 note=also drop-down
 drought noun
 drug noun
 drum noun

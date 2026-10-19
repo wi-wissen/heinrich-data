@@ -27,6 +27,7 @@ scrape verb
 scratch verb
 scream verb
 screen verb
+screenshot verb double conf=70 note=screenshotted is the usual written past
 screw verb
 scroll verb
 scrub verb
@@ -36,6 +37,7 @@ search verb
 seat verb
 second verb
 secure verb
+securitize verb gb=securitise|securitize conf=85
 see verb past=saw pp=seen
 seek verb past=sought pp=sought
 seem verb
@@ -60,6 +62,7 @@ share verb
 shatter verb
 shear verb past=sheared pp=sheared|shorn
 shed verb past=shed pp=shed
+shell verb
 shelter verb
 shepherd verb
 shield verb
@@ -70,11 +73,14 @@ shiver verb
 shock verb
 shoot verb past=shot pp=shot
 shop verb
+shore verb
 shorten verb
+shortlist verb
 shout verb
 shove verb
 show verb past=showed pp=shown|showed
 showcase verb
+shred verb
 shriek verb
 shrink verb past=shrank|shrunk pp=shrunk|shrunken note=shrunken is mostly adjectival
 shrug verb
@@ -82,11 +88,14 @@ shudder verb
 shut verb past=shut pp=shut
 shuttle verb
 side verb
+sideline verb
+sift verb
 sigh verb
 sight verb
 sign verb
 signal verb
 signify verb
+signpost verb
 silence verb
 simplify verb
 simulate verb
@@ -97,10 +106,13 @@ sink verb past=sank|sunk pp=sunk note=sunk as past tense is less common
 sire verb
 sit verb past=sat pp=sat
 situate verb
+size verb
 skate verb
 ski verb
+skim verb
 skip verb
 skirmish verb
+slack verb
 slam verb
 slash verb
 slate verb
@@ -110,6 +122,7 @@ sled verb
 sleep verb past=slept pp=slept
 slice verb
 slide verb past=slid pp=slid
+slim verb
 slip verb
 slope verb
 slow verb
@@ -141,6 +154,7 @@ sound verb
 sour verb
 source verb
 sow verb past=sowed pp=sown|sowed sense=plant
+space verb
 span verb
 spare verb
 spark verb
@@ -152,6 +166,7 @@ specify verb
 speculate verb
 speed verb past=sped|speeded pp=sped|speeded
 spell verb past=spelled|spelt[GB] pp=spelled|spelt[GB]
+spellcheck verb conf=80 note=also spell-check
 spend verb past=spent pp=spent
 spill verb past=spilled|spilt pp=spilled|spilt
 spin verb past=spun pp=spun
@@ -170,8 +185,10 @@ spread verb past=spread pp=spread
 spring verb past=sprang|sprung pp=sprung
 sprinkle verb
 sprint verb
+spruce verb
 spur verb
 spy verb
+square verb
 squeeze verb
 stab verb
 stabilize verb gb=stabilise|stabilize
@@ -186,6 +203,7 @@ stammer verb
 stamp verb
 stand verb past=stood pp=stood
 standardize verb gb=standardise|standardize
+staple verb
 star verb
 stare verb
 start verb
@@ -193,6 +211,7 @@ startle verb
 starve verb
 state verb
 station verb
+stave verb
 stay verb
 steal verb past=stole pp=stolen
 steam verb
@@ -205,6 +224,8 @@ stimulate verb
 sting verb past=stung pp=stung
 stipulate verb
 stir verb
+stock verb
+stockpile verb
 stoop verb
 stop verb
 store verb
@@ -227,21 +248,27 @@ strive verb past=strove|strived pp=striven|strived
 stroll verb
 structure verb
 struggle verb
+stub verb
 study verb
 stuff verb
 stumble verb
 stun verb
 stunt verb
 style verb
+subcontract verb
 subdivide verb
 subdue verb ing=subduing
 subject verb
+sublet verb prefix=sub past=sublet pp=sublet
 submerge verb
 submit verb double
 subordinate verb
+subpoena verb
 subscribe verb
 subside verb
+subsidize verb gb=subsidise|subsidize
 substitute verb
+subtitle verb
 succeed verb
 sue verb ing=suing
 suffer verb nodouble
@@ -282,5 +309,7 @@ swell verb past=swelled pp=swollen|swelled
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 switch verb
+sync verb
+synchronize verb gb=synchronise|synchronize
 syndicate verb
 synthesize verb gb=synthesise|synthesize

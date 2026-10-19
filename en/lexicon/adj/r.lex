@@ -21,6 +21,7 @@ realistic adj cmp=more adv=realistically
 rear adj attr_only
 reasonable adj cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
+receivable adj
 recent adj cmp=more adv=recently
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
@@ -35,11 +36,14 @@ redundant adj
 reflective adj cmp=more
 reformed adj
 refreshing adj adv=refreshingly
+refundable adj
 regal adj adv=regally
 regimental adj
 regional adj adv=regionally
+regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
+reimbursable adj
 relative adj adv=relatively
 relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
@@ -59,6 +63,7 @@ reportable adj
 representative adj
 reproductive adj
 republican adj
+reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
 resident adj
@@ -67,6 +72,7 @@ residual adj
 resilient adj cmp=more
 resistant adj cmp=more
 resolute adj adv=resolutely
+resourceful adj cmp=more adv=resourcefully
 respectable adj cmp=more adv=respectably
 respectful adj cmp=more adv=respectfully
 respective adj adv=respectively

@@ -69,6 +69,7 @@ chill verb
 chip verb
 choke verb
 choose verb past=chose pp=chosen
+chop verb
 chorus verb
 chronicle verb
 chuck verb
@@ -79,6 +80,7 @@ circulate verb
 cite verb
 civilize verb gb=civilise|civilize
 claim verb
+clam verb
 clap verb
 clarify verb
 clash verb
@@ -114,14 +116,18 @@ co-write verb past=co-wrote pp=co-written
 coach verb
 coast verb
 coat verb
+coauthor verb conf=80 note=also co-author
 cock verb
 code verb
 codify verb
+cohabit verb
 coil verb
 coin verb
 coincide verb
 collaborate verb
 collapse verb
+collate verb
+collateralize verb gb=collateralise|collateralize conf=80
 collect verb
 collide verb
 color verb gb=colour
@@ -159,6 +165,7 @@ compress verb
 comprise verb
 compromise verb
 compute verb
+computerize verb gb=computerise|computerize
 con verb
 conceal verb
 concede verb
@@ -240,6 +247,7 @@ count verb
 countenance verb
 counter verb
 counterfeit verb
+countersign verb
 couple verb
 court verb
 covenant verb
@@ -248,6 +256,7 @@ cow verb
 crack verb
 cradle verb
 craft verb
+cram verb
 crane verb
 crash verb
 crawl verb
@@ -264,6 +273,8 @@ cross verb
 crouch verb
 crow verb
 crowd verb
+crowdfund verb
+crowdsource verb
 crown verb
 cruise verb
 crumble verb
@@ -282,5 +293,6 @@ curry verb
 curse verb
 curve verb
 cushion verb
+customize verb gb=customise|customize
 cut verb past=cut pp=cut
 cycle verb

@@ -10,6 +10,7 @@ idle           adj cmp=er adv=idly
 ignorant       adj
 ill            adj
 illegal        adj adv=illegally
+illegible adj adv=illegibly
 illegitimate   adj
 illicit        adj adv=illicitly
 illustrative adj
@@ -45,6 +46,7 @@ inaccurate     adj adv=inaccurately
 inactive       adj
 inadequate     adj adv=inadequately
 inadvertent    adj adv=inadvertently
+inapplicable adj
 inappropriate  adj adv=inappropriately
 inaudible adj
 inaugural      adj
@@ -122,8 +124,10 @@ inpatient      adj attr_only
 insane         adj adv=insanely
 insecure adj
 insensible adj
+insightful adj cmp=more adv=insightfully
 insignificant  adj
 insolent adj adv=insolently
+insolvent adj
 instant        adj adv=instantly
 instantaneous  adj adv=instantaneously
 instinctive    adj adv=instinctively
@@ -142,6 +146,7 @@ intentional    adj adv=intentionally
 interactive    adj adv=interactively
 interchangeable adj
 intercity adj
+interdepartmental adj
 interdisciplinary adj
 interested     adj cmp=more
 interesting    adj cmp=more adv=interestingly
@@ -152,6 +157,7 @@ intermediate   adj
 intermittent adj adv=intermittently
 internal       adj adv=internally
 international  adj adv=internationally
+interpersonal adj
 interstate     adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably

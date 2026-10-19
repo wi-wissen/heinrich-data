@@ -29,6 +29,7 @@ octave noun
 odds          noun pl_only
 odor noun gb=odour
 odyssey noun
+offboarding noun pl=- note=uncountable
 offender      noun
 offense       noun gb=offence
 offensive     noun
@@ -37,7 +38,9 @@ offering      noun
 office        noun
 officer       noun
 official      noun
+officialdom noun pl=- note=uncountable
 offset        noun
+offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
 olive         noun
@@ -46,7 +49,9 @@ ombudsman     noun pl=ombudsmen
 omega noun
 omission      noun
 omnibus noun pl=omnibuses
+onboarding noun pl=- note=uncountable
 onset         noun
+onus noun pl=- note=singular only
 opening       noun
 openness      noun pl=- note=uncountable
 opera         noun
@@ -94,6 +99,8 @@ otter noun
 Ottoman noun note=plural Ottomans
 ottoman       noun note=furniture
 ounce noun
+outage noun
+outbox noun
 outbreak      noun
 outburst noun
 outcome       noun
@@ -102,6 +109,7 @@ outdoors noun pl=- note=the open air
 outfielder noun
 outfit        noun
 outlaw        noun
+outlay noun
 outlet        noun
 outlier noun
 outline       noun
@@ -114,24 +122,29 @@ outreach      noun pl=- note=uncountable
 outset        noun pl=- note=only singular (at the outset)
 outsider noun
 outskirts     noun pl_only
+outsourcing noun pl=- note=uncountable
 oval          noun
 oven          noun
 over noun note=cricket: a set of six balls
 overall       noun
+overcharge noun
 overcoat noun
 overcrowding noun pl=- note=uncountable
 overdose noun
+overdraft noun
 overflow noun
 overhang noun
 overhaul noun
 overhead      noun
 overlap       noun
+overpayment noun
 override noun
 overrun noun
 overseer noun
 oversight     noun
 overthrow     noun
 overtime      noun pl=- note=uncountable
+overvaluation noun
 overview      noun
 owl           noun
 owner         noun

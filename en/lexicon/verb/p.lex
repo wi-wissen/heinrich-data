@@ -16,6 +16,7 @@ parachute verb
 parade verb
 parallel verb nodouble
 paralyze verb gb=paralyse
+paraphrase verb
 parcel verb
 pardon verb
 parent verb
@@ -44,6 +45,7 @@ peep verb
 peer verb
 peg verb
 pen verb
+penalize verb gb=penalise|penalize
 pencil verb
 penetrate verb
 pension verb
@@ -62,14 +64,17 @@ persist verb
 persuade verb
 pertain verb
 pet verb
+peter verb
 petition verb
 phase verb
 phone verb
+photocopy verb
 photograph verb
 phrase verb
 pick verb
 picnic verb
 picture verb
+piece verb
 pierce verb
 pile verb
 pilot verb
@@ -135,8 +140,10 @@ predict verb
 preface verb
 prefer verb double
 prejudice verb
+preload verb
 premiere verb
 prepare verb
+prepay verb prefix=pre past=prepaid pp=prepaid
 prescribe verb
 present verb
 preserve verb
@@ -175,9 +182,12 @@ promote verb
 prompt verb
 promulgate verb
 pronounce verb
+proof verb
+proofread verb prefix=proof past=proofread pp=proofread
 propagate verb
 propel verb double
 propose verb
+prorate verb conf=85
 prosecute verb
 prospect verb
 prosper verb
@@ -187,6 +197,7 @@ protest verb
 prove verb past=proved pp=proved|proven
 provide verb
 provoke verb
+publicize verb gb=publicise|publicize
 publish verb
 pull verb
 pulse verb

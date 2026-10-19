@@ -1,3 +1,4 @@
+IBAN noun abbr note=international bank account number
 IBR noun abbr note=incorporation by reference (US regulations)
 IC noun abbr note=integrated circuit
 ice            noun
@@ -38,6 +39,7 @@ impact         noun
 impairment     noun
 impartiality noun
 impatience     noun pl=- note=uncountable
+impeachment noun
 impediment     noun
 imperative     noun
 impetus noun
@@ -57,9 +59,11 @@ improvement    noun
 impulse        noun
 impunity noun pl=- note=uncountable
 inability      noun
+inaccuracy noun
 inaction noun pl=- note=uncountable
 inactivity noun
 inauguration noun
+inbox noun
 Inca           noun
 incapacity noun
 incarnation    noun
@@ -78,11 +82,13 @@ inconsistency noun
 inconvenience noun
 incorporation  noun
 increase       noun
+increment noun
 incumbent      noun
 indemnity noun
 independence   noun
 independent    noun
 index          noun pl=indexes|indices
+indexation noun
 Indian         noun
 indication     noun
 indicator      noun
@@ -98,6 +104,7 @@ induction      noun
 indulgence noun
 industrialist noun
 industry       noun
+inefficiency noun
 inequality     noun
 infancy        noun
 infant         noun
@@ -112,6 +119,7 @@ influence      noun
 influenza      noun pl=- note=uncountable
 influx         noun
 information    noun pl=- note=uncountable
+infraction noun
 infrastructure noun
 infringement   noun
 ingenuity      noun pl=- note=uncountable
@@ -129,6 +137,7 @@ injunction     noun
 injury         noun
 injustice      noun
 ink            noun
+inkjet noun
 inlet          noun
 inmate         noun
 inn            noun
@@ -199,8 +208,10 @@ interim        noun
 interior       noun
 intermediary   noun
 intermediate   noun
+intern noun
 international  noun
 internet       noun pl=- note=usually with the; also capitalized Internet
+internship noun
 interoperability noun pl=- note=uncountable
 interpretation noun
 interpreter    noun
@@ -211,9 +222,13 @@ interstate     noun region=US
 interval       noun
 intervention   noun
 interview      noun
+interviewee noun
+interviewer noun
+intestacy noun pl=- note=uncountable
 intimacy       noun
 intimidation   noun
 intolerance noun
+intranet noun
 intrigue noun
 introduction   noun
 intruder noun
@@ -271,5 +286,6 @@ Italian        noun
 italic noun
 item           noun
 iteration noun
+itinerary noun
 ivory          noun
 ivy noun

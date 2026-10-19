@@ -23,15 +23,18 @@ accurate adj cmp=more adv=accurately
 accursed adj
 achievable adj
 acoustic adj adv=acoustically
+actionable adj
 active adj cmp=more adv=actively
 actual adj adv=actually
 actuarial adj
 acute adj cmp=more adv=acutely
+adaptable adj cmp=more
 adaptive adj
 addicted adj
 additional adj adv=additionally
 adequate adj adv=adequately
 adjacent adj
+adjustable adj
 administrative adj adv=administratively
 admirable adj adv=admirably
 admissible adj
@@ -51,6 +54,7 @@ affordable adj cmp=more
 Afghan adj
 afloat adj pred_only
 aforementioned adj attr_only
+aforesaid adj
 afraid adj pred_only cmp=more
 African adj
 aggregate adj
@@ -115,6 +119,7 @@ antique adj
 antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 anxious adj cmp=more adv=anxiously
+apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
 appalling adj cmp=more adv=appallingly
@@ -122,6 +127,7 @@ apparent adj adv=apparently
 appealing adj cmp=more adv=appealingly
 applicable adj
 appreciative adj cmp=more adv=appreciatively
+approachable adj cmp=more
 appropriate adj adv=appropriately
 approximate adj adv=approximately
 apt adj cmp=more adv=aptly
@@ -153,6 +159,7 @@ Ashkenazi adj
 Asian adj
 Asiatic adj
 asleep adj pred_only
+assertive adj cmp=more adv=assertively
 assignable adj
 assistive adj
 associate adj
@@ -169,6 +176,7 @@ attractive adj cmp=more adv=attractively
 attributable adj
 auburn adj
 audible adj adv=audibly
+auditable adj
 auditory adj
 Australian adj
 Austrian adj

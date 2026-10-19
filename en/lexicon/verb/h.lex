@@ -1,3 +1,4 @@
+hack verb
 hail           verb
 halt           verb
 halve verb
@@ -15,12 +16,14 @@ hark verb style=archaic
 harm           verb
 harness        verb
 harvest        verb
+hash verb
 hasten         verb
 hatch verb
 hate           verb
 haul           verb
 haunt          verb
 head           verb
+headhunt verb
 headquarter    verb note=mostly the participle headquartered
 heal           verb
 heap           verb
@@ -67,3 +70,4 @@ hurl           verb
 hurry          verb
 hurt           verb past=hurt pp=hurt
 hush           verb
+hyperlink verb

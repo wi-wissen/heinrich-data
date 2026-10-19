@@ -21,6 +21,7 @@ lance noun
 land          noun
 landfall      noun
 landfill      noun
+landholder noun
 landing       noun
 landlady noun
 landlord      noun
@@ -32,11 +33,15 @@ lane          noun
 language      noun
 Lankan noun note=only in Sri Lankan
 lantern       noun
+lanyard noun
 Lao noun pl=Lao
 lap           noun
 lapse         noun
+laptop noun
 larva         noun pl=larvae
 laser         noun
+latency noun
+lateness noun pl=- note=uncountable
 Latin         noun
 Latino        noun note=plural Latinos
 latitude      noun
@@ -55,6 +60,7 @@ lawn          noun
 lawsuit       noun
 lawyer        noun
 layer         noun
+layoff noun
 layout        noun
 lea noun style=archaic
 lead          noun
@@ -69,6 +75,7 @@ leap          noun
 learner noun
 learning      noun
 lease         noun
+leaseback noun
 leasehold noun
 leaseholder noun
 leather       noun
@@ -78,10 +85,12 @@ Lebanese      noun pl=Lebanese
 lecture       noun
 lecturer      noun
 ledge         noun
+ledger noun
 left          noun
 lefty noun style=colloquial
 leg           noun
 legacy        noun
+legality noun
 legend        noun
 legion        noun
 legislation   noun pl=- note=uncountable
@@ -99,7 +108,9 @@ lesbian       noun
 lesion noun
 lessee        noun
 lesson        noun
+lessor noun
 letter        noun
+letterhead noun
 level         noun
 lever noun
 leverage      noun
@@ -120,6 +131,7 @@ license       noun gb=licence
 licensee      noun
 lid           noun
 lie           noun
+lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
 life          noun pl=lives
@@ -160,6 +172,7 @@ lion          noun
 lip           noun
 liquid        noun
 liquidation   noun
+liquidator noun
 liquidity     noun pl=- note=uncountable
 liquor        noun
 list          noun
@@ -169,12 +182,15 @@ liter noun gb=litre
 literacy      noun pl=- note=uncountable
 literature    noun
 Lithuanian    noun
+litigant noun
 litigation    noun
+litigator noun
 litter        noun
 livelihood    noun
 liver         noun
 livery        noun
 livestock     noun pl=- note=uncountable
+livestream noun
 living        noun
 LLC           noun abbr note=limited liability company
 LLP noun abbr note=limited liability partnership
@@ -193,13 +209,19 @@ loch          noun pl=lochs note=Scottish lake
 lock          noun
 lockdown      noun
 locker noun
+locksmith noun
 locomotive    noun
 lodge         noun
+lodger noun
 lodging       noun
 log           noun
+logbook noun
 logic         noun
+login noun
 logistics     noun pl=- note=uncountable
 logo          noun note=plural logos
+logon noun
+logout noun
 Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
@@ -207,6 +229,7 @@ longing       noun
 longitude noun
 look          noun
 lookout noun
+lookup noun
 loop          noun
 loophole      noun
 lord          noun

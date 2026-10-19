@@ -12,6 +12,7 @@ nationalist   noun
 nationality   noun
 native        noun
 naturalist    noun
+naturalization noun gb=naturalisation|naturalization
 nature        noun
 naught noun pl=- note=nothing (literary)
 nausea noun pl=- note=uncountable
@@ -32,6 +33,7 @@ negative      noun
 neglect       noun
 negligence    noun pl=- note=uncountable
 negotiation   noun
+negotiator noun
 negro         noun pl=negroes note=historical term, now offensive
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
@@ -40,6 +42,7 @@ nerve         noun
 nest          noun
 net           noun
 network       noun
+networking noun pl=- note=uncountable
 neuron noun gb=neuron|neurone
 neutral       noun
 neutrality    noun pl=- note=uncountable
@@ -79,7 +82,9 @@ nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
 nonimmigrant  noun
+nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
+nonresident noun conf=80 note=also non-resident
 nonsense      noun pl=- note=uncountable
 noon          noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
@@ -93,9 +98,13 @@ Norwegian     noun
 nose          noun
 nostril       noun
 notable       noun
+notarization noun gb=notarisation|notarization conf=85
+notary noun
 notation      noun
 note          noun
+notepad noun
 notice        noun
+noticeboard noun region=GB conf=90 note=US bulletin board
 notification  noun
 notion        noun
 notoriety noun pl=- note=uncountable

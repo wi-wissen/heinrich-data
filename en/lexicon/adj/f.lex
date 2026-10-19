@@ -82,6 +82,7 @@ formal         adj adv=formally
 former         adj attr_only adv=formerly
 formidable     adj
 forthcoming    adj
+fortnightly adj region=GB
 fortunate      adj cmp=more adv=fortunately
 forward        adj
 foster         adj attr_only
@@ -111,6 +112,7 @@ frontline      adj attr_only
 fruitful adj
 fruitless adj
 fugitive       adj
+fulfilling adj cmp=more
 full           adj cmp=er adv=fully
 fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally

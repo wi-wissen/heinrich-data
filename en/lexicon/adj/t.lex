@@ -1,3 +1,4 @@
+tactful adj cmp=more adv=tactfully
 tactical adj adv=tactically
 Taiwanese adj
 talented adj cmp=more
@@ -7,6 +8,7 @@ Tamil adj
 tangible adj
 tawny adj cmp=er
 taxable adj
+taxpaying adj conf=80
 technical adj adv=technically
 technological adj adv=technologically
 tedious adj cmp=more adv=tediously
@@ -64,6 +66,7 @@ tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 transatlantic adj
 transcontinental adj
+transferable adj
 transformative adj
 transgender adj
 transient adj

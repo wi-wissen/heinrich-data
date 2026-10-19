@@ -6,6 +6,7 @@ cable noun
 cache noun
 cadet noun
 cafe noun conf=90 note=also written café
+cafeteria noun
 café noun conf=90 note=also written cafe
 cage noun
 cake noun
@@ -17,6 +18,7 @@ calendar noun
 calf noun pl=calves
 calibration noun
 call noun
+callback noun
 caller noun
 calm noun
 calmness noun pl=- note=uncountable
@@ -54,6 +56,7 @@ cape noun
 capital noun
 capitalism noun pl=- note=uncountable
 capitalist noun
+capitalization noun gb=capitalisation|capitalization
 capsule noun
 captain noun
 captive noun
@@ -78,6 +81,8 @@ carol noun
 carp noun pl=carp|carps
 carpenter noun
 carpet noun
+carpool noun
+carpooling noun pl=- note=uncountable
 carriage noun
 carrier noun
 carry noun
@@ -88,7 +93,15 @@ cartridge noun
 carver noun
 cascade noun
 case noun
+caseload noun
+casework noun pl=- note=uncountable
+caseworker noun
 cash noun
+cashback noun pl=- note=uncountable
+cashbook noun
+cashflow noun conf=85 note=usually cash flow
+cashier noun
+cashpoint noun region=GB note=US ATM
 casino noun note=plural casinos
 cassette noun
 cast noun
@@ -107,6 +120,7 @@ catch-up noun
 catcher noun
 catchment noun
 category noun
+caterer noun
 catering noun pl=- note=uncountable
 cathedral noun
 Catholic noun
@@ -149,9 +163,12 @@ certificate noun
 certification noun
 cessation noun
 CFC noun abbr note=chlorofluorocarbon
+CFO noun abbr note=chief financial officer
 chain noun
 chair noun
 chairman noun pl=chairmen
+chairperson noun pl=chairpersons|chairpeople[rare]
+chairwoman noun pl=chairwomen
 chalk noun
 challenge noun
 challenger noun
@@ -162,6 +179,7 @@ champion noun
 championship noun
 chance noun
 chancellor noun
+chancery noun
 chandler noun
 change noun
 channel noun
@@ -176,6 +194,7 @@ characteristic noun
 characterization noun gb=characterisation|characterization
 charcoal noun pl=- note=uncountable
 charge noun
+chargeback noun
 chariot noun
 charity noun
 charm noun
@@ -185,11 +204,18 @@ chase noun
 chasm noun
 chassis noun pl=chassis
 chat noun
+chatbot noun
 chatter noun
 chauffeur noun
 cheat noun
 check noun sense=inspection
 check noun gb=cheque sense=payment note=bank cheque; American check
+checkbook noun conf=90 note=chiefly American; British chequebook
+checkbox noun
+checklist noun
+checkout noun
+checkpoint noun
+checksum noun
 cheek noun
 cheer noun
 cheerfulness noun pl=- note=uncountable
@@ -199,6 +225,7 @@ chemical noun
 chemist noun
 chemistry noun
 chemotherapy noun pl=- note=uncountable
+chequebook noun region=GB conf=90 note=US checkbook
 Cherokee noun conf=80 note=Cherokee: the people and the language
 cherry noun
 chess noun pl=- note=the game
@@ -225,6 +252,7 @@ Chinese noun pl=Chinese note=a person; the language
 Chinook noun conf=90 note=the people; also wind and helicopter
 chip noun
 Chippewa noun pl=Chippewa|Chippewas
+chipset noun
 chivalry noun pl=- note=uncountable
 chloride noun
 chocolate noun
@@ -300,6 +328,7 @@ clergyman noun pl=clergymen
 clerk noun
 click noun
 client noun
+clientele noun pl=- note=collective
 cliff noun
 climate noun
 climax noun
@@ -307,6 +336,7 @@ climb noun
 clinic noun
 clinician noun
 clip noun
+clipboard noun
 cloak noun
 clock noun
 cloister noun
@@ -340,12 +370,17 @@ cock noun
 cockpit noun
 cod noun pl=cod|cods
 code noun
+codebase noun
+codec noun
 codex noun pl=codices
+codicil noun
 coding noun
 coefficient noun
 coercion noun pl=- note=uncountable
 coffee noun
 coffin noun
+cofounder noun conf=85 note=also co-founder
+cohabitation noun pl=- note=uncountable
 cohesion noun pl=- note=uncountable
 cohort noun
 coil noun
@@ -395,6 +430,7 @@ commander-in-chief noun pl=commanders-in-chief
 commando noun pl=commandos|commandoes
 commemoration noun
 commencement noun
+commendation noun
 comment noun
 commentary noun
 commentator noun
@@ -433,6 +469,7 @@ compassion noun pl=- note=uncountable
 compatibility noun
 compensation noun
 competence noun
+competency noun
 competition noun
 competitiveness noun pl=- note=uncountable
 competitor noun
@@ -479,6 +516,8 @@ concert noun
 concerto noun pl=concertos|concerti
 concession noun
 conch noun pl=conchs|conches
+conciliation noun
+conciseness noun pl=- note=uncountable
 conclusion noun
 concord noun
 concrete noun
@@ -495,6 +534,7 @@ Confederate noun
 confederate noun
 confederation noun
 conference noun
+conferencing noun pl=- note=uncountable
 confession noun
 confidence noun
 confidentiality noun pl=- note=uncountable
@@ -508,6 +548,7 @@ conformity noun pl=- note=uncountable
 confrontation noun
 confusion noun
 congestion noun pl=- note=uncountable
+conglomerate noun
 congratulation noun
 congregation noun
 congress noun
@@ -553,6 +594,7 @@ construction noun
 consul noun
 consulate noun
 consulship noun
+consultancy noun
 consultant noun
 consultation noun
 consumer noun
@@ -601,9 +643,11 @@ convert noun
 converter noun
 convertible noun
 conveyance noun
+conveyancing noun pl=- region=GB note=uncountable
 convict noun
 conviction noun
 convoy noun
+COO noun abbr note=chief operating officer
 cook noun
 cool noun
 cooler noun
@@ -614,10 +658,14 @@ cooperative noun gb=cooperative|co-operative
 coordinate noun
 coordination noun gb=coordination|co-ordination
 coordinator noun
+copay noun conf=85 note=chiefly American
+copayment noun conf=85
+copier noun
 copper noun
 copy noun
 copying noun pl=- note=uncountable
 copyright noun
+copywriter noun
 coral noun
 cord noun
 core noun
@@ -652,14 +700,18 @@ cotton noun
 couch noun
 cough noun
 council noun
+councilman noun pl=councilmen
 councilor noun gb=councillor
+councilwoman noun pl=councilwomen
 counsel noun
 counselor noun gb=counsellor
 count noun
 countenance noun
 counter noun
 counterfeit noun
+counteroffer noun conf=85 note=also counter-offer
 counterpart noun
+countersignature noun
 counterterrorism noun pl=- gb=counter-terrorism|counterterrorism conf=90 note=uncountable; British texts mostly hyphenate
 countess noun
 country noun
@@ -668,9 +720,11 @@ countryside noun
 county noun
 coup noun
 couple noun
+coupon noun
 courage noun pl=- note=uncountable
 courier noun
 course noun
+coursework noun pl=- note=uncountable
 court noun
 courtesy noun
 courthouse noun
@@ -687,6 +741,8 @@ cow noun
 coward noun
 cowardice noun pl=- note=uncountable
 cowboy noun
+coworker noun conf=90 note=also co-worker
+coworking noun pl=- conf=85 note=also co-working
 CPI noun abbr note=consumer price index
 CPR noun abbr pl=- note=cardiopulmonary resuscitation
 CPT noun abbr conf=85 note=Current Procedural Terminology (code)
@@ -711,6 +767,7 @@ credential noun
 credibility noun pl=- note=uncountable
 credit noun
 creditor noun
+creditworthiness noun pl=- note=uncountable
 creed noun
 creek noun
 creep noun
@@ -741,6 +798,7 @@ crossover noun
 crossroads noun pl=crossroads
 crow noun
 crowd noun
+crowdfunding noun pl=- note=uncountable
 crown noun
 crude noun note=crude oil
 cruelty noun
@@ -753,11 +811,14 @@ crust noun
 cry noun
 crypto noun note=cryptocurrency
 cryptoasset noun
+cryptocurrency noun
 crystal noun
 CT noun abbr conf=90 note=computed tomography; Connecticut
 CTA noun abbr conf=85 note=call to action; Chicago Transit Authority
+CTO noun abbr note=chief technology officer
 cub noun
 Cuban noun
+cubicle noun
 cue noun
 CUI noun abbr pl=- conf=85 note=controlled unclassified information
 cuisine noun
@@ -780,6 +841,7 @@ current noun
 curriculum noun pl=curricula|curriculums
 curry noun
 curse noun
+cursor noun
 curtain noun
 curvature noun
 curve noun
@@ -788,9 +850,14 @@ custodian noun
 custody noun pl=- note=uncountable
 custom noun
 customer noun
+customization noun gb=customisation|customization
 cut noun
+cutback noun
 cutter noun
+CV noun abbr note=curriculum vitae
 CVD noun abbr conf=90 note=countervailing duty; cardiovascular disease
+cyberattack noun
+cybercrime noun
 cybersecurity noun pl=- note=uncountable
 cycle noun
 cyclist noun

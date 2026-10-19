@@ -30,6 +30,7 @@ undergraduate  adj
 underground    adj
 underlying     adj attr_only
 underserved    adj
+understaffed adj
 understandable adj adv=understandably
 understanding  adj
 underwater     adj
@@ -41,6 +42,7 @@ undisturbed adj
 undoubted      adj adv=undoubtedly
 undue          adj attr_only adv=unduly
 uneasy         adj cmp=er adv=uneasily
+unemployable adj
 unemployed     adj
 unequal        adj adv=unequally
 uneven adj cmp=more adv=unevenly
@@ -96,8 +98,10 @@ unpopular      adj
 unprecedented  adj
 unpredictable adj
 unprepared adj
+unprofessional adj cmp=more adv=unprofessionally
 unprotected adj
 unpublished adj
+unqualified adj
 unquestionable adj adv=unquestionably
 unreal adj
 unreasonable   adj adv=unreasonably
@@ -113,6 +117,8 @@ unsatisfactory adj adv=unsatisfactorily
 unscrupulous   adj
 unseen         adj
 unsettled adj
+unskilled adj
+unsolicited adj
 unspeakable adj
 unspecified adj
 unstable       adj

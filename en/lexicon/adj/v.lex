@@ -4,6 +4,7 @@ vain          adj cmp=er adv=vainly
 valiant adj adv=valiantly
 valid         adj adv=validly
 valuable      adj cmp=more
+valued adj
 variable      adj
 various       adj adv=variously
 vascular adj
@@ -15,6 +16,7 @@ Venezuelan adj
 verbal        adj adv=verbally
 veritable adj
 vernacular adj
+versatile adj cmp=more
 vertical      adj adv=vertically
 vested        adj attr_only
 veterinary    adj

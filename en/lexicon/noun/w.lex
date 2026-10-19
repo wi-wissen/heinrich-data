@@ -8,6 +8,8 @@ waiter noun
 waiver noun
 wake noun
 walk noun
+walkie-talkie noun
+walkthrough noun
 wall noun
 wallet noun
 walnut noun
@@ -22,13 +24,18 @@ warfare noun pl=- note=uncountable
 warmth noun pl=- note=uncountable
 warning noun
 warrant noun
+warranty noun
 warrior noun
 warship noun
 wartime noun pl=- note=uncountable
 wash noun
+wastage noun pl=- note=uncountable
 waste noun
+wastebasket noun
+wastepaper noun pl=- note=uncountable
 wastewater noun pl=- note=uncountable
 watch noun
+watchdog noun
 water noun
 waterfall noun
 waterfront noun
@@ -47,7 +54,12 @@ wear noun pl=- note=uncountable
 weariness noun pl=- note=uncountable
 weather noun pl=- note=uncountable
 web noun
+webcam noun
+webcast noun
 webinar noun
+webmail noun pl=- note=uncountable
+webmaster noun
+webpage noun
 website noun
 wedding noun
 wedge noun
@@ -80,17 +92,25 @@ whiskey noun note=Irish and American spelling; see whisky
 whisky noun note=Scotch and Canadian spelling; see whiskey
 whisper noun
 whistle noun
+whistleblower noun
+whistleblowing noun pl=- note=uncountable
 white noun
+whiteboard noun
+whitelist noun
 whiteness noun pl=- note=uncountable
 whole noun
 wholesale noun pl=- note=uncountable
+wholesaler noun
 wickedness noun pl=- note=uncountable
 wicket noun
+widget noun
 widow noun
 widower noun
 width noun
 wife noun pl=wives
+wifi noun pl=- conf=85 note=also Wi-Fi
 wig noun
+wiki noun
 wild noun
 wilderness noun
 wildfire noun
@@ -109,6 +129,7 @@ winner noun
 winter noun
 wipe noun
 wire noun
+wireframe noun
 wireless noun pl=- note=uncountable
 wisdom noun pl=- note=uncountable
 wish noun
@@ -116,6 +137,7 @@ wit noun
 witch noun
 witchcraft noun pl=- note=uncountable
 withdrawal noun
+withholding noun
 witness noun
 wizard noun
 woe noun
@@ -131,13 +153,25 @@ wool noun
 word noun
 wording noun
 work noun
+workaholic noun
+workaround noun
+workbook noun
+workday noun
 worker noun
+workflow noun
 workforce noun
+workgroup noun
 working noun note=workings (mechanism)
 workload noun
 workman noun pl=workmen
+workmate noun region=GB conf=90
 workplace noun
+workroom noun
+worksheet noun
 workshop noun
+workspace noun
+workstation noun
+workweek noun conf=90 note=chiefly American
 world noun
 worm noun
 worry noun

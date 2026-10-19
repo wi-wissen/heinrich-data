@@ -9,6 +9,7 @@ vape verb
 vary          verb
 vault         verb
 veil          verb
+vend verb
 vent          verb
 venture       verb
 verge         verb
@@ -18,6 +19,7 @@ vet verb
 veto          verb
 vex           verb
 video         verb
+videotape verb
 view          verb
 violate       verb
 visit         verb

@@ -25,6 +25,7 @@ needful adj
 needless adj adv=needlessly
 negative        adj adv=negatively
 negligible      adj
+negotiable adj
 neighboring     adj attr_only gb=neighbouring
 Neolithic adj
 nervous         adj cmp=more adv=nervously
@@ -44,10 +45,12 @@ noiseless adj adv=noiselessly
 noisy           adj cmp=er adv=noisily
 nomadic adj
 nominal         adj adv=nominally
+nonbinding adj conf=80 note=also non-binding
 nonimmigrant    adj
 nonprescription adj
 nonprofit       adj
 nonquantitative adj
+nonrefundable adj conf=85 note=also non-refundable
 nonstop adj
 Nordic          adj
 normal          adj adv=normally
@@ -72,6 +75,7 @@ notorious       adj adv=notoriously
 novel           adj
 nuclear         adj
 nude adj
+numerate adj region=GB
 numerical       adj adv=numerically
 numerous        adj cmp=more
 née             adj note=born (introducing a maiden name)

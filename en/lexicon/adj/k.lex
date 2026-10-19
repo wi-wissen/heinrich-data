@@ -6,5 +6,6 @@ kind           adj cmp=er adv=kindly
 kindred adj
 kinetic adj
 knowing        adj adv=knowingly
+knowledgeable adj cmp=more adv=knowledgeably
 Korean         adj
 Kurdish adj

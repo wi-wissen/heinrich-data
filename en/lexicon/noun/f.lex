@@ -4,6 +4,7 @@ fabrication noun
 facade noun
 face           noun
 facial         noun
+facilitator noun
 facility       noun
 fact           noun
 faction        noun
@@ -29,6 +30,7 @@ famine         noun
 fan            noun
 fancy          noun
 fantasy        noun
+FAQ noun abbr note=frequently asked question
 farce noun
 fare           noun
 farewell       noun
@@ -97,6 +99,8 @@ fight          noun
 fighter        noun
 figure         noun
 file           noun
+filename noun
+filesystem noun conf=85 note=also file system
 filing         noun
 Filipino       noun note=plural Filipinos
 fill           noun
@@ -109,6 +113,7 @@ final          noun
 finale         noun
 finalist noun
 finance        noun
+financials noun pl_only conf=85 note=financial statements
 financier noun
 finch noun
 find           noun
@@ -119,14 +124,17 @@ fingerprint noun
 finish         noun
 Finn           noun
 Finnish        noun pl=- note=the language
+fintech noun pl=- note=uncountable
 fir noun
 fire           noun
 firearm        noun
 firefighter    noun
 fireplace      noun
+firewall noun
 firework       noun
 firm           noun
 firmness noun
+firmware noun pl=- note=uncountable
 fish           noun pl=fish|fishes
 fisher noun
 fisherman      noun pl=fishermen
@@ -154,9 +162,11 @@ flaw noun
 fleet          noun
 flesh          noun pl=- note=uncountable
 flexibility    noun
+flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flight         noun
 fling          noun
 flint noun
+flipchart noun
 float          noun
 flock          noun
 flood          noun
@@ -166,6 +176,7 @@ flora          noun
 flour          noun
 flourish       noun
 flow           noun
+flowchart noun
 flower         noun
 flu            noun pl=- note=influenza
 fluctuation noun
@@ -176,12 +187,14 @@ flute          noun
 flutter noun
 flux           noun
 fly            noun
+flyer noun conf=90 note=also flier
 foam           noun
 focus          noun pl=focuses|foci
 foe            noun
 fog            noun
 foil noun
 fold           noun
+folder noun
 foliage        noun pl=- note=uncountable
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
@@ -196,6 +209,7 @@ foot           noun pl=feet
 footage        noun pl=- note=uncountable
 football       noun
 footballer     noun
+footer noun
 foothill noun
 footman noun pl=footmen
 footnote       noun
@@ -209,6 +223,7 @@ ford noun
 fore           noun
 forecast       noun
 forecastle noun
+foreclosure noun
 forefather noun
 forefront      noun
 forehead       noun
@@ -219,6 +234,7 @@ forerunner noun
 foresight noun
 forest         noun
 forestry       noun pl=- note=uncountable
+forex noun pl=- note=foreign exchange
 forfeit noun
 forfeiture     noun
 forge          noun
@@ -226,6 +242,7 @@ forgery noun
 forgiveness    noun pl=- note=uncountable
 fork           noun
 form           noun
+formality noun
 format         noun
 formation      noun
 formula        noun pl=formulas|formulae
@@ -261,8 +278,11 @@ fraternity noun
 fraud          noun
 freedom        noun
 freehold       noun
+freeholder noun
+freelancer noun
 freeman noun pl=freemen
 freestyle      noun
+freeware noun pl=- note=uncountable
 freeway        noun region=US
 freeze         noun
 freight        noun
@@ -301,6 +321,7 @@ functionality  noun
 fund           noun
 fundamental    noun
 funding        noun pl=- note=uncountable; the verb form funding comes from fund
+fundraiser noun
 fundraising    noun pl=- note=uncountable
 funeral        noun
 fungus noun pl=fungi|funguses

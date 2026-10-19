@@ -32,6 +32,7 @@ wide adj cmp=er adv=widely
 widespread adj
 wild adj cmp=er adv=wildly
 willing adj cmp=more adv=willingly
+win-win adj conf=85
 windy adj cmp=er
 winged adj
 wireless adj
@@ -45,6 +46,7 @@ wont adj pred_only note=archaic: accustomed
 wooded adj
 wooden adj
 woody adj cmp=er
+workable adj
 worldly adj cmp=more
 worldwide adj
 worth adj pred_only

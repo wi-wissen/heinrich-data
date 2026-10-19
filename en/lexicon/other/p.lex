@@ -1,3 +1,4 @@
+p.a. x abbr note=per annum
 p.m. x abbr note=post meridiem, after noon
 parte x foreign note=only in ex parte
 pas x foreign note=only in faux pas, pas de deux

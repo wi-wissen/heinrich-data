@@ -7,6 +7,7 @@ hereby         adv
 herein         adv
 hereinafter adv
 heretofore adv
+herewith adv
 high           adv cmp=er
 hither         adv type=place
 hitherto       adv type=time

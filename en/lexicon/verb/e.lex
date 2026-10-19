@@ -1,4 +1,5 @@
 e-mail verb note=hyphenated spelling of email
+earmark verb
 earn verb
 ease verb
 eat verb past=ate pp=eaten
@@ -20,6 +21,7 @@ email verb
 embark verb
 embarrass verb
 embed verb double
+embezzle verb
 embody verb
 embrace verb
 embroider verb
@@ -41,6 +43,7 @@ encode verb
 encompass verb
 encounter verb
 encourage verb
+encrypt verb
 end verb
 endanger verb
 endeavor verb gb=endeavour
@@ -92,6 +95,7 @@ estrange verb
 evacuate verb
 evade verb
 evaluate verb
+evict verb
 evidence verb
 evolve verb
 exacerbate verb
@@ -123,6 +127,7 @@ expect verb
 expedite verb
 expel verb double
 expend verb
+expense verb
 experience verb
 experiment verb
 expire verb
@@ -133,7 +138,9 @@ explore verb
 export verb
 expose verb
 express verb
+expropriate verb
 extend verb
 extinguish verb
 extract verb
+extradite verb
 eye verb

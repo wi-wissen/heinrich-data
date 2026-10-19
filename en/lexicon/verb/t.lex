@@ -1,13 +1,16 @@
 table verb
+tabulate verb
 tack verb
 tackle verb
 tag verb
+tail verb
 tailor verb
 taint verb
 take verb past=took pp=taken
 talk verb
 tally verb
 tame verb
+tamp verb
 tangle verb
 tap verb
 taper verb
@@ -19,8 +22,11 @@ tax verb
 teach verb past=taught pp=taught
 team verb
 tear verb past=tore pp=torn
+tee verb
+telecommute verb
 telegraph verb
 televise verb
+telework verb
 tell verb past=told pp=told
 temper verb
 tempt verb
@@ -30,6 +36,7 @@ terminate verb
 terrify verb
 test verb
 testify verb
+text verb
 thank verb
 think verb past=thought pp=thought
 thread verb
@@ -42,17 +49,22 @@ throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
 thunder verb
 thwart verb
+tick verb
+tidy verb
 tie verb
 tighten verb
 tilt verb
 time verb
+timestamp verb conf=70
 tint verb
 tip verb
 tire verb
 title verb
 toast verb
+toggle verb
 toil verb
 tolerate verb
+tone verb
 top verb
 torment verb
 torture verb
@@ -64,10 +76,12 @@ tow verb
 trace verb
 track verb
 trade verb
+trademark verb
 traffic verb
 trail verb
 train verb
 trample verb
+transcribe verb
 transfer verb double
 transform verb
 transition verb
@@ -90,6 +104,7 @@ trim verb
 trip verb
 trot verb
 trouble verb
+troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
 truncate verb
 trust verb
 try verb
@@ -98,6 +113,7 @@ tug verb
 tumble verb
 tune verb
 turn verb
+tweet verb
 twin verb
 twinkle verb
 twist verb

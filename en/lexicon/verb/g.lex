@@ -27,9 +27,12 @@ glimpse        verb
 glisten verb
 glitter        verb
 glory          verb
+gloss verb
 glow           verb
 glue verb ing=gluing|glueing[rare]
 go             verb 3sg=goes past=went pp=gone
+gobble verb
+google verb conf=85 note=search the web
 gore verb
 gorge          verb
 gossip         verb

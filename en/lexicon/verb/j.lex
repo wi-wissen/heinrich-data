@@ -1,9 +1,12 @@
+jack verb
 jail           verb
 jam verb
+jazz verb
 jerk verb
 jest           verb
 join           verb
 joke           verb
+jot verb
 journey        verb
 judge          verb
 jump           verb

@@ -6,6 +6,8 @@ saddle noun
 sadness noun
 safe noun note=plural safes (strongbox)
 safeguard noun
+safeguarding noun pl=- note=uncountable
+safekeeping noun pl=- note=uncountable
 safety noun
 saga noun
 sage noun
@@ -17,6 +19,8 @@ sake noun
 salary noun
 sale noun
 salesman noun pl=salesmen
+salesperson noun pl=salespeople|salespersons
+saleswoman noun pl=saleswomen
 salmon noun pl=salmon
 salon noun
 saloon noun
@@ -48,10 +52,12 @@ saw noun
 sawmill noun
 Saxon noun
 saxophone noun
+scalability noun pl=- note=uncountable
 scale noun
 scam noun
 scan noun
 scandal noun
+scanner noun
 scar noun
 scarcity noun
 scare noun
@@ -61,6 +67,7 @@ scene noun
 scenery noun pl=- note=uncountable
 scent noun
 schedule noun
+scheduler noun
 scheme noun
 schizophrenia noun pl=- note=uncountable
 scholar noun
@@ -85,13 +92,17 @@ scrape noun
 scratch noun
 scream noun
 screen noun
+screencast noun
 screenplay noun
+screenshot noun
 screenwriter noun
 screw noun
 script noun
 scripture noun
 scroll noun
+scrollbar noun
 scrub noun
+scrum noun
 scrutiny noun pl=- note=uncountable
 sculptor noun
 sculpture noun
@@ -126,6 +137,7 @@ segment noun
 segregation noun
 seizure noun
 selection noun
+selectman noun pl=selectmen
 self noun pl=selves
 selfishness noun pl=- note=uncountable
 seller noun
@@ -135,17 +147,20 @@ semester noun
 semi-final noun note=GB mostly hyphenated, US mostly semifinal
 semiconductor noun
 semifinal noun note=US mostly closed, GB mostly semi-final
+seminar noun
 seminary noun
 senate noun
 senator noun
 sender noun
 senior noun
+seniority noun pl=- note=uncountable
 sensation noun
 sense noun
 sensibility noun
 sensitivity noun
 sensor noun
 sentence noun
+sentencing noun pl=- note=uncountable
 sentiment noun
 sentinel noun
 separation noun
@@ -190,6 +205,8 @@ shame noun
 shape noun
 share noun
 shareholder noun
+shareholding noun
+shareware noun pl=- note=uncountable
 shark noun
 shawl noun
 sheath noun
@@ -210,6 +227,7 @@ shilling noun
 ship noun
 shipbuilding noun pl=- note=uncountable
 shipment noun
+shipping noun pl=- note=uncountable
 shipyard noun
 shire noun
 shirt noun
@@ -220,11 +238,14 @@ shoe noun
 shooter noun
 shooting noun
 shop noun
+shopkeeper noun
 shore noun
 shoreline noun
 shortage noun
 shortcoming noun
+shortcut noun
 shortfall noun
+shortlist noun
 shorts noun pl_only
 shot noun
 shoulder noun
@@ -233,6 +254,7 @@ shove noun
 show noun
 showcase noun
 shower noun
+shredder noun
 shriek noun
 shrimp noun pl=shrimp|shrimps
 shrine noun
@@ -246,6 +268,7 @@ sibling noun
 Sicilian noun
 sickness noun
 side noun
+sidebar noun
 sidewalk noun region=US note=GB pavement
 siding noun
 siege noun
@@ -257,6 +280,7 @@ signage noun pl=- note=uncountable
 signal noun
 signatory noun
 signature noun
+signboard noun
 significance noun
 Sikh noun
 silence noun
@@ -265,6 +289,7 @@ silk noun
 silver noun
 similarity noun
 simplicity noun
+simplification noun
 simulation noun
 sin noun
 sincerity noun
@@ -279,6 +304,7 @@ sister noun
 sister-in-law noun pl=sisters-in-law
 sitcom noun
 site noun
+sitemap noun
 situation noun
 sixpence noun
 size noun
@@ -289,6 +315,7 @@ sketch noun
 ski noun
 skier noun
 skill noun
+skillset noun conf=80 note=also skill set
 skin noun
 skip noun
 skipper noun
@@ -297,6 +324,7 @@ skirt noun
 skull noun
 sky noun
 skyline noun
+SLA noun abbr note=service-level agreement
 slab noun
 slam noun
 slang noun pl=- note=uncountable
@@ -310,6 +338,8 @@ sleep noun
 sleeve noun
 slice noun
 slide noun
+slider noun
+slideshow noun
 slip noun
 slipper noun
 slogan noun
@@ -319,7 +349,9 @@ slot noun
 slough noun
 Slovak noun
 slumber noun
+smallholder noun
 smallpox noun pl=- note=uncountable
+smartphone noun
 smash noun
 SME noun abbr note=small and medium-sized enterprise
 smell noun
@@ -328,6 +360,7 @@ smoke noun
 SMS noun abbr pl=SMS|SMSes conf=85 note=plural use unsure
 smuggler noun
 snake noun
+snapshot noun
 snare noun
 sneer noun
 sniff noun
@@ -361,6 +394,7 @@ solidarity noun pl=- note=uncountable
 solitude noun
 solo noun pl=solos
 solution noun
+solvency noun
 solvent noun
 Somali noun
 son noun
@@ -388,6 +422,7 @@ sow noun note=female pig
 space noun
 spacecraft noun pl=spacecraft
 spacing noun
+spam noun pl=- note=uncountable
 span noun
 Spaniard noun
 Spanish noun pl=- note=the language
@@ -417,6 +452,7 @@ speed noun
 speedway noun
 spell noun
 spelling noun
+spending noun pl=- note=uncountable
 sperm noun pl=sperm|sperms
 sphere noun
 spice noun
@@ -434,6 +470,7 @@ splash noun
 splendor noun gb=splendour
 spokesman noun pl=spokesmen
 spokesperson noun pl=spokespersons|spokespeople
+spokeswoman noun pl=spokeswomen
 sponge noun
 sponsor noun
 sponsorship noun
@@ -451,6 +488,7 @@ sprinter noun
 spruce noun
 spur noun
 spy noun
+spyware noun pl=- note=uncountable
 squad noun
 squadron noun
 square noun
@@ -464,7 +502,9 @@ stable noun
 stack noun
 stadium noun pl=stadiums|stadia[rare]
 staff noun
+staffing noun pl=- note=uncountable
 stage noun
+stagnation noun pl=- note=uncountable
 stain noun
 stair noun
 staircase noun
@@ -479,9 +519,11 @@ stamp noun
 stance noun
 stand noun
 standard noun
+standardization noun gb=standardisation|standardization
 standing noun
 standpoint noun
 staple noun
+stapler noun
 star noun
 starboard noun pl=- note=uncountable
 stare noun
@@ -492,6 +534,8 @@ statehood noun pl=- note=uncountable
 statement noun
 statesman noun pl=statesmen
 station noun
+stationer noun
+stationery noun pl=- note=uncountable
 statistic noun
 statue noun
 stature noun
@@ -525,13 +569,20 @@ stimulus noun pl=stimuli
 sting noun
 stint noun
 stipend noun
+stipulation noun
 stock noun
+stockbroker noun
+stockholder noun
 stocking noun
+stockpile noun
+stocktaking noun pl=- note=uncountable
 stomach noun pl=stomachs
 stone noun
 stop noun
 storage noun pl=- note=uncountable
 store noun
+storefront noun
+storeroom noun
 storm noun
 story noun sense=floor gb=storey
 story noun sense=tale
@@ -542,6 +593,7 @@ strain noun
 strait noun
 strand noun
 stranger noun
+strategist noun
 strategy noun
 stratum noun pl=strata
 straw noun
@@ -580,15 +632,21 @@ subchapter noun
 subcommittee noun
 subcontractor noun
 subdivision noun
+subdomain noun
 subfamily noun
+subfolder noun
 subgroup noun
+subheading noun
 subject noun
+sublease noun
 submarine noun
 submission noun
 submittal noun
+subnet noun
 subordinate noun
 subparagraph noun
 subpart noun
+subpoena noun
 subscriber noun
 subscription noun
 subsection noun
@@ -602,6 +660,7 @@ substitute noun
 substitution noun
 substrate noun
 subtitle noun
+subtotal noun
 suburb noun
 subway noun
 success noun
@@ -632,6 +691,7 @@ Sunni noun
 sunrise noun
 sunset noun
 sunshine noun pl=- note=uncountable
+superannuation noun pl=- note=uncountable
 superhero noun pl=superheroes
 superintendent noun
 superior noun
@@ -639,6 +699,7 @@ superiority noun
 supermarket noun
 superpower noun
 superstition noun
+superuser noun
 supervision noun
 supervisor noun
 supper noun
@@ -650,6 +711,7 @@ supporter noun
 supposition noun
 suppression noun
 supremacy noun
+surcharge noun
 surety noun
 surface noun
 surge noun
@@ -700,6 +762,7 @@ symptom noun
 synagogue noun
 syndicate noun
 syndrome noun
+synergy noun
 synod noun
 synonym noun
 syntax noun

@@ -1,6 +1,7 @@
 habit          noun
 habitat        noun
 habitation     noun
+hacker noun
 hail           noun
 hair           noun
 Haitian noun
@@ -19,6 +20,10 @@ handful        noun
 handkerchief   noun note=plural handkerchiefs
 handle         noun
 handler noun
+handoff noun
+handout noun
+handover noun
+handshake noun
 handwriting    noun
 happiness      noun pl=- note=uncountable
 harassment     noun pl=- note=uncountable
@@ -33,6 +38,7 @@ harness        noun
 harp noun
 hart noun
 harvest        noun
+hashtag noun
 haste          noun pl=- note=uncountable
 hat            noun
 hatch noun
@@ -50,16 +56,21 @@ haze           noun
 hazel noun
 head           noun
 headache       noun
+headcount noun
 header noun
+headhunter noun
+headhunting noun pl=- note=uncountable
 heading        noun
 headline       noun
 headquarters   noun pl=headquarters note=singular and plural have the same form
+headset noun
 headwaters noun pl_only
 health         noun pl=- note=uncountable
 healthcare     noun pl=- note=uncountable
 heap           noun
 hearer noun
 hearing        noun
+hearsay noun pl=- note=uncountable
 heart          noun
 hearth         noun
 heat           noun
@@ -83,6 +94,7 @@ hell           noun
 helm           noun
 helmet         noun
 help           noun
+helpdesk noun conf=90 note=also help desk
 helpline noun
 hemisphere noun
 hen noun
@@ -140,6 +152,7 @@ home           noun
 homeland       noun
 homelessness   noun pl=- note=uncountable
 homeowner      noun
+homepage noun
 homestead noun
 hometown       noun
 homicide noun
@@ -148,6 +161,7 @@ homosexuality noun
 honesty        noun pl=- note=uncountable
 honey          noun
 honor          noun gb=honour
+honorarium noun pl=honoraria|honorariums
 hood           noun
 hoof noun pl=hooves|hoofs
 hook           noun
@@ -173,6 +187,8 @@ hostage        noun
 hostess        noun
 hostility      noun
 hotel          noun
+hotline noun
+hotspot noun
 hound          noun
 hour           noun
 house          noun
@@ -211,5 +227,6 @@ hybrid         noun
 hydrogen       noun pl=- note=uncountable
 hygiene noun pl=- note=uncountable
 hymn           noun
+hyperlink noun
 hypocrisy noun
 hypothesis     noun pl=hypotheses
