@@ -24,6 +24,20 @@ English lexicon. It complements the format specification `Heinrich/docs/LEXICON_
 
 ## 2. Input: a work list of forms
 
+**Since M7** the main input is the complete, classified work list of real gaps (names, foreign
+words, abbreviations and noise are filtered out), grouped into lemma candidates and split into
+chunks of 500 for author agents; the pipeline is described in `de/lexicon/AUTHORING.md` §2.1
+and `Heinrich/docs/LEXICON_TOOLS.md`:
+
+```sh
+heinrich-lexicon --lang en worklist en/lexicon en/frequency/forms.tsv --names de/names \
+    --other-lexicon de/lexicon --other-forms de/frequency/forms.tsv \
+    --rank 50000 --chunk 500 --out-dir <outside the repos>/worklists/m7/en
+```
+
+Real-word coverage per rank band: the same command line with `coverage --real-words` (no
+`--rank`, `--chunk`, `--out-dir`). The form lists below remain for targeted work.
+
 Work lists live in `worklists/batch-NNN.tsv` and are produced by
 
 ```sh

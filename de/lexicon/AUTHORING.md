@@ -19,7 +19,47 @@ German lexicon. It complements the format specification `Heinrich/docs/LEXICON_F
   (corpus counts, rules); never ask for or guess the reference's answer.
 - Everything you write is our own data. Notes are in English; lexicon words are German.
 
-## 2. Input: a work list of forms
+## 2. Input: a work list
+
+### 2.1 The pipeline (since M7): classified gaps in fixed chunks
+
+Lexicon growth is one systematic pipeline instead of ad-hoc batches:
+
+1. **Classify** every form of the frequency list (`heinrich-lexicon classify`, see
+   `Heinrich/docs/LEXICON_TOOLS.md`): `covered`, `real_gap`, `name`, `foreign`, `fragment`
+   (PDF line-break pieces such as `Gesetzent`, `rung`), `old_spelling`, `abbreviation`,
+   `number`, `noise`. Only `real_gap` forms are lexicon work; names, foreign words, fragments
+   and old spellings never get entries from the work list.
+2. **Measure** real-word coverage per rank band:
+
+   ```sh
+   heinrich-lexicon coverage de/lexicon de/frequency/forms.tsv --real-words --names de/names \
+       --other-lexicon en/lexicon --other-forms en/frequency/forms.tsv
+   ```
+
+3. **Generate the complete work list** of real gaps up to rank 50,000, grouped into lemma
+   candidates and split into chunks of 500 candidates, one chunk per author agent:
+
+   ```sh
+   heinrich-lexicon worklist de/lexicon de/frequency/forms.tsv --names de/names \
+       --other-lexicon en/lexicon --other-forms en/frequency/forms.tsv \
+       --rank 50000 --chunk 500 --out-dir <outside the repos>/worklists/m7/de
+   ```
+
+   Chunk columns: `n`, `lemma_candidate` (a proposal: the bare stem, the infinitive of verb
+   forms, else the shortest form — **you decide the real lemma**), `total`, `wiki`, `lit`,
+   `gov`, `best_rank`, `n_forms`, `forms` (`form:count`, all forms of the group). One row is
+   usually one entry; split a row that mixes two lemmas, skip a row that is not German after
+   all (a name or foreign word the classifier missed — note it in your summary, it improves the
+   heuristics).
+4. After a chunk is merged, **regenerate** (the classification moves covered forms out); never
+   reuse an old chunk without regenerating.
+
+The work lists contain only our own forms and counts; keep them outside the repositories
+anyway (they are regenerated at any time). The older form-level lists below (`next-batch`)
+remain for targeted work.
+
+### 2.2 Form lists (`next-batch`)
 
 Work lists live in `worklists/batch-NNN.tsv` and are produced by
 
@@ -144,6 +184,10 @@ Compounds are decomposed by the engine (`Haustür` = `Haus` + `Tür`), so:
   `ansprechen`: write the verb).
 
 ### 4.5 Proper names
+
+Place names in `de/names/places.tsv` and person names in the name lists are known words
+already; the classifier keeps them (and their genitives and demonyms) off the work lists. Add a
+`propn` entry for a listed place only when rules need its gender (see below).
 
 - Write `propn` entries for **geographic names** (countries, federal states, regions, cities,
   rivers, mountains, continents) and for names used **with an article or a fixed gender**
