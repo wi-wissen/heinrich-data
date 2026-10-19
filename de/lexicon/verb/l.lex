@@ -6,6 +6,7 @@ lagern verb class=weak pp=gelagert perf=haben
 lamentieren verb class=weak pp=lamentiert perf=haben
 laminieren verb class=weak pp=laminiert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
+langen verb class=weak pp=gelangt perf=haben note=to reach, to suffice
 langweilen verb class=weak pp=gelangweilt perf=haben refl=acc
 lärmen verb class=weak pp=gelärmt perf=haben
 lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe perf=haben note=also causative auxiliary (ich lasse ihn kommen); Ersatzinfinitiv hat kommen lassen

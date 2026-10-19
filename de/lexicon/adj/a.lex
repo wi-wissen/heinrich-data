@@ -14,6 +14,7 @@ abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
+adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
 afghanisch adj
 afrikanisch adj
@@ -24,11 +25,13 @@ akademisch adj
 aktenkundig adj
 aktiv         adj cmp=aktiver sup=aktivsten
 aktuell       adj cmp=aktueller sup=aktuellsten
+akustisch adj
 akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
 alleinig adj
+allererst adj
 allergisch adj
 allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
@@ -41,11 +44,13 @@ alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
 altmodisch adj cmp=altmodischer sup=altmodischsten
+ambitioniert adj cmp=ambitionierter sup=ambitioniertesten
 ambulant adj
 amerikanisch adj
 amtierend adj
 amtlich adj
 analog adj
+analytisch adj
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
 anfänglich adj
@@ -88,11 +93,13 @@ argumentativ adj
 arithmetisch adj
 arktisch adj
 arm           adj cmp=ärmer sup=ärmsten
+armenisch adj
 arrogant adj cmp=arroganter sup=arrogantesten
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
 asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
+astronomisch adj
 atheistisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten

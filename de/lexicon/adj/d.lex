@@ -8,6 +8,7 @@ dauernd adj
 dazugehörig adj
 defekt adj
 definitiv adj
+deinig adj attr_only style=archaic note=der/die/das deinige
 demografisch adj
 demokratisch adj
 demütig adj
@@ -44,6 +45,7 @@ drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
+dreidimensional adj
 dreifach adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten

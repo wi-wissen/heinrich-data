@@ -56,6 +56,7 @@ Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
 Baron         noun g=m gen=Barons pl=Barone
 Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
+Barriere noun g=f gen=Barriere pl=Barrieren
 Barrierefreiheit noun g=f gen=Barrierefreiheit pl=- note=no plural
 Barsch noun g=m gen=Barschs|Barsches pl=Barsche
 Bart noun g=m gen=Barts|Bartes pl=Bärte
@@ -310,6 +311,7 @@ Bestattung noun g=f gen=Bestattung pl=Bestattungen
 Bestäubung noun g=f gen=Bestäubung pl=Bestäubungen
 Bestechung noun g=f gen=Bestechung pl=Bestechungen
 Besteck noun g=n gen=Bestecks|Besteckes pl=Bestecke
+Bestehen noun g=n gen=Bestehens pl=- note=nominalised infinitive (das Bestehen), lexicalised
 Besteller noun g=m gen=Bestellers pl=Besteller
 Bestellerin noun g=f gen=Bestellerin pl=Bestellerinnen
 Bestellung noun g=f gen=Bestellung pl=Bestellungen

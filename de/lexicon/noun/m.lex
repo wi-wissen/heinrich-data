@@ -196,6 +196,7 @@ Meteorologe noun g=m gen=Meteorologen pl=Meteorologen
 Meteorologin noun g=f gen=Meteorologin pl=Meteorologinnen
 Meter noun g=m|n gen=Meters pl=Meter
 Methode noun g=f gen=Methode pl=Methoden
+Methodik noun g=f gen=Methodik pl=Methodiken
 Metro noun g=f gen=Metro pl=Metros
 Metronom noun g=n gen=Metronoms pl=Metronome
 Metropole noun g=f gen=Metropole pl=Metropolen
@@ -299,6 +300,7 @@ Moderator noun g=m gen=Moderators pl=Moderatoren
 Moderatorin noun g=f gen=Moderatorin pl=Moderatorinnen
 Moderne noun g=f gen=Moderne pl=- note=die Moderne; no plural
 Modernisierung noun g=f gen=Modernisierung pl=Modernisierungen
+Modifikation noun g=f gen=Modifikation pl=Modifikationen
 Modul noun g=n gen=Moduls pl=Module
 Modus noun g=m gen=Modus pl=Modi note=bare genitive
 Mofa noun g=n gen=Mofas pl=Mofas

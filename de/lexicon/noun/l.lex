@@ -201,6 +201,7 @@ Liquidität noun g=f gen=Liquidität pl=- note=abstract noun
 List noun g=f gen=List pl=Listen note=cunning; plural rare
 Liste noun g=f gen=Liste pl=Listen
 Liter noun g=m|n gen=Liters pl=Liter
+Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
 Liturgie noun g=f gen=Liturgie pl=Liturgien

@@ -30,6 +30,7 @@ Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wäldchen noun g=n gen=Wäldchens pl=Wäldchen
 Waldkauz noun g=m gen=Waldkauzes pl=Waldkäuze
 Waldlichtung noun g=f gen=Waldlichtung pl=Waldlichtungen
+Wall noun g=m gen=Walls|Walles pl=Wälle
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
@@ -253,6 +254,7 @@ Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
+Wuchs noun g=m gen=Wuchses pl=- note=growth, stature; plural Wüchse very rare
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
 Wunde noun g=f gen=Wunde pl=Wunden

@@ -21,6 +21,7 @@ Rahmenhandlung noun g=f gen=Rahmenhandlung pl=Rahmenhandlungen
 Rajon noun g=m gen=Rajons pl=Rajone conf=85 note=Russian/Ukrainian administrative district
 Rakete noun g=f gen=Rakete pl=Raketen
 Ramadan noun g=m gen=Ramadans pl=- note=no plural
+Rampe noun g=f gen=Rampe pl=Rampen
 Rampenlicht noun g=n gen=Rampenlichts|Rampenlichtes pl=Rampenlichter
 Ranch noun g=f gen=Ranch pl=Ranches|Ranchen conf=75 note=plural uncertain
 Rand noun g=m gen=Randes|Rands pl=Ränder
@@ -134,6 +135,7 @@ Register noun g=n gen=Registers pl=Register
 Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
+Regung noun g=f gen=Regung pl=Regungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
 Rehabilitation noun g=f gen=Rehabilitation pl=- note=mass noun; Rehabilitationen is rare
 Rehbock noun g=m gen=Rehbocks pl=Rehböcke

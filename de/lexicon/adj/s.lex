@@ -17,6 +17,7 @@ sauer adj cmp=saurer sup=sauersten
 säumig adj
 schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
+schändlich adj cmp=schändlicher sup=schändlichsten
 scharf adj cmp=schärfer sup=schärfsten
 schattig adj cmp=schattiger sup=schattigsten
 schaurig adj cmp=schauriger sup=schaurigsten
@@ -71,8 +72,12 @@ schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
 seelisch adj
+sehenswert adj
 sehnlich adj
+seiden adj
+seinig adj attr_only style=archaic note=der/die/das seinige
 seitlich adj
+sekundär adj
 selbständig adj cmp=selbständiger sup=selbständigsten
 selbstbestimmt adj
 selbstständig adj cmp=selbstständiger sup=selbstständigsten
@@ -184,7 +189,7 @@ süchtig adj cmp=süchtiger sup=süchtigsten
 südafrikanisch adj
 süddeutsch adj
 südkoreanisch adj
-südlich adj note=also a genitive preposition (closed/prepositions.lex)
+südlich adj cmp=südlicher sup=südlichsten note=also a genitive preposition (closed/prepositions.lex)
 südöstlich adj
 südwestlich adj
 sukzessiv adj

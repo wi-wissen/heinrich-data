@@ -295,6 +295,7 @@ Trost noun g=m gen=Trostes|Trosts pl=- note=no plural
 Truhe noun g=f gen=Truhe pl=Truhen
 Trümmer noun g=pl
 Trümmerfrau noun g=f gen=Trümmerfrau pl=Trümmerfrauen
+Trunk noun g=m gen=Trunks|Trunkes pl=Trünke[rare] note=drink, draught
 Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
 Trust noun g=m gen=Trusts pl=Trusts

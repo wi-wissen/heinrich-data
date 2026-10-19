@@ -28,6 +28,7 @@ vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
+verheerend adj cmp=verheerender sup=verheerendsten
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verklärt adj
 verklebt adj cmp=verklebter sup=verklebtesten
@@ -73,6 +74,7 @@ vielfach adj
 vielfältig adj
 viral adj
 virtuell adj
+visuell adj
 völkerrechtlich adj
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten

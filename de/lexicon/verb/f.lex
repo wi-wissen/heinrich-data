@@ -52,6 +52,7 @@ filmen verb class=weak pp=gefilmt perf=haben
 filtern verb class=weak pp=gefiltert perf=haben
 finanzieren verb class=weak pp=finanziert perf=haben refl=acc
 finden       verb class=strong 3sg=findet past=fand pp=gefunden subj2=fände perf=haben
+firmieren verb class=weak pp=firmiert perf=haben
 fischen verb class=weak pp=gefischt perf=haben
 fixieren verb class=weak pp=fixiert perf=haben
 flachsen verb class=weak pp=geflachst perf=haben
@@ -81,6 +82,7 @@ fordern verb class=weak pp=gefordert perf=haben
 fördern verb class=weak pp=gefördert perf=haben
 formatieren verb class=weak pp=formatiert perf=haben
 formen verb class=weak pp=geformt perf=haben
+formieren verb class=weak pp=formiert perf=haben
 formulieren verb class=weak pp=formuliert perf=haben
 forschen verb class=weak pp=geforscht perf=haben
 fortbewegen verb class=weak sep=fort pp=fortbewegt perf=haben refl=acc

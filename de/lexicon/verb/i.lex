@@ -1,5 +1,6 @@
 identifizieren verb class=weak pp=identifiziert perf=haben refl=acc
 ignorieren verb class=weak pp=ignoriert perf=haben
+immatrikulieren verb class=weak pp=immatrikuliert perf=haben
 impfen verb class=weak pp=geimpft perf=haben
 implementieren verb class=weak pp=implementiert perf=haben
 implodieren verb class=weak pp=implodiert perf=sein
@@ -13,9 +14,11 @@ inspirieren verb class=weak pp=inspiriert perf=haben
 installieren verb class=weak pp=installiert perf=haben
 inszenieren verb class=weak pp=inszeniert perf=haben
 integrieren verb class=weak pp=integriert perf=haben refl=acc
+intensivieren verb class=weak pp=intensiviert perf=haben
 interessieren verb class=weak pp=interessiert perf=haben refl=acc
 internieren verb class=weak pp=interniert perf=haben
 interpretieren verb class=weak pp=interpretiert perf=haben
 investieren verb class=weak pp=investiert perf=haben
+ionisieren verb class=weak pp=ionisiert perf=haben
 irren verb class=weak pp=geirrt perf=haben|sein refl=acc
 isolieren verb class=weak pp=isoliert perf=haben refl=acc

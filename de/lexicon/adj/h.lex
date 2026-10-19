@@ -52,6 +52,7 @@ hölzern adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 hügelig adj cmp=hügeliger sup=hügeligsten
+humanistisch adj
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten

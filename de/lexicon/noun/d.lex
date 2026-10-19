@@ -13,6 +13,7 @@ Dämon noun g=m gen=Dämons pl=Dämonen
 Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
 Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
+Däne noun g=m gen=Dänen pl=Dänen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Dankeschön noun g=n gen=Dankeschöns pl=Dankeschöns
@@ -74,6 +75,7 @@ Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
+Depesche noun g=f gen=Depesche pl=Depeschen
 Deponie noun g=f gen=Deponie pl=Deponien
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen

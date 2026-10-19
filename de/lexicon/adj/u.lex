@@ -104,6 +104,7 @@ unruhig adj
 unsäglich adj
 unscharf adj
 unschuldig adj
+unserig adj attr_only style=archaic note=der/die/das unserige
 unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
@@ -115,6 +116,7 @@ unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
 unterhaltspflichtig adj
 unterirdisch adj
 unterjährig adj
+unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
