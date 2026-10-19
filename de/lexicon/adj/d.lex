@@ -24,12 +24,14 @@ deutsch      adj
 deutschsprachig adj
 dezent adj cmp=dezenter sup=dezentesten
 dezentral adj
+dezidiert adj cmp=dezidierter sup=dezidiertesten
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dichterisch adj
 dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dicklich adj cmp=dicklicher sup=dicklichsten
+dienlich adj
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
@@ -52,10 +54,13 @@ drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreidimensional adj
 dreifach adj
+dreischiffig adj note=architecture: with three naves
+dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten
+drittklassig adj
 dual adj
 duftend adj
 dumm adj cmp=dümmer sup=dümmsten

@@ -12,15 +12,18 @@ bankable adj
 bankrupt adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
+barbed adj
 bare adj cmp=er
 barefoot adj
 barefooted adj
+bareheaded adj
 baroque adj
 barren adj cmp=more
 basal adj
 basic adj adv=basically
 Basque adj
 Bavarian adj
+beaked adj
 bearded adj
 beastly adj cmp=er
 beautiful adj cmp=more adv=beautifully
@@ -49,6 +52,8 @@ bilingual adj
 billable adj
 binary adj
 binding adj
+binomial adj
+biochemical adj
 biographical adj
 biological adj adv=biologically
 biomedical adj
@@ -61,19 +66,22 @@ bitter adj cmp=er|more adv=bitterly
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
+blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
-blank adj
+blank adj adv=blankly
 blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
+bloodless adj adv=bloodlessly
 bloody adj cmp=er
 blue adj cmp=er
 blunt adj cmp=er adv=bluntly
 blustery adj
 bodily adj
+bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
@@ -85,11 +93,14 @@ bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
 bourgeois adj
+bovine adj
 boyish adj cmp=more adv=boyishly
+brackish adj
 brainy adj cmp=er
 brave adj cmp=er adv=bravely
 brazen adj cmp=more adv=brazenly
 Brazilian adj
+breakaway adj
 breathless adj adv=breathlessly
 breezy adj cmp=er
 Breton adj
@@ -119,4 +130,5 @@ Burmese adj
 bushy adj cmp=er
 businesslike adj cmp=more
 busy adj cmp=er adv=busily
+bygone adj
 Byzantine adj

@@ -4,6 +4,7 @@ dairy adj
 damn adj
 damned adj
 damp adj cmp=er adv=damply
+dandy adj cmp=er
 dangerous adj cmp=more adv=dangerously
 Danish adj
 daring adj cmp=more adv=daringly
@@ -15,8 +16,11 @@ dazzling adj cmp=more adv=dazzlingly
 dead adj cmp=er|more
 deadly adj cmp=er|more
 deaf adj cmp=er
+deafblind adj
+deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
 deceased adj
+deceitful adj cmp=more adv=deceitfully
 decennial adj
 decent adj cmp=more adv=decently
 deceptive adj
@@ -24,28 +28,36 @@ deciduous adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
+decorous adj
 deductible adj
+deductive adj adv=deductively
 deep adj cmp=er adv=deeply
 defective adj
+defenseless adj gb=defenceless
 defensive adj adv=defensively
 defiant adj adv=defiantly
 deficient adj
 definite adj adv=definitely
 definitive adj adv=definitively
 deformed adj
+deft adj cmp=er adv=deftly
 defunct adj
 degenerate adj
+dejected adj adv=dejectedly
+deleterious adj
 deliberate adj adv=deliberately
 delicate adj cmp=more adv=delicately
 delicious adj cmp=more adv=deliciously
 delighted adj cmp=more
 delightful adj adv=delightfully
 delinquent adj
+delirious adj
 deluxe adj
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
 demonstrable adj adv=demonstrably
+demonstrative adj adv=demonstratively
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
@@ -53,6 +65,7 @@ dependable adj cmp=more
 dependent adj cmp=more
 deplorable adj cmp=more adv=deplorably
 depressed adj cmp=more
+depressive adj
 derelict adj
 derivative adj
 derogatory adj
@@ -67,7 +80,9 @@ despotic adj
 destined adj
 destitute adj
 destructive adj cmp=more adv=destructively
+desultory adj
 detached adj
+detectable adj
 determined adj cmp=more adv=determinedly
 deterministic adj
 deterrent adj
@@ -80,9 +95,12 @@ devoid adj pred_only
 devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
+dewy adj cmp=er
 diabetic adj
+diabolical adj adv=diabolically
 diagnostic adj
 diagonal adj adv=diagonally
+dielectric adj
 dietary adj
 different adj cmp=more adv=differently
 differential adj
@@ -112,7 +130,9 @@ disastrous adj adv=disastrously
 discernible adj
 disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
+disconsolate adj adv=disconsolately
 discontented adj
+discordant adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
 discretionary adj
@@ -130,30 +150,38 @@ disordered adj cmp=more
 disorderly adj
 disparate adj cmp=more
 disposable adj
+dispositive adj conf=90 note=legal register
 disproportionate adj adv=disproportionately
 disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
+dissimilar adj cmp=more
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
 distinct adj cmp=more adv=distinctly
 distinctive adj cmp=more adv=distinctively
 distinguishable adj
 distinguished adj cmp=more
+distraught adj
 distressed adj cmp=more
 distributive adj
 disused adj
+diurnal adj
 divergent adj
 diverse adj cmp=more adv=diversely
 divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more
 dizzy adj cmp=er
+docile adj
 doctoral adj
+doctrinal adj adv=doctrinally
 documentary adj
 dogged adj cmp=more adv=doggedly
+dogmatic adj
+doleful adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
 Dominican adj
@@ -169,18 +197,21 @@ downstairs adj
 downstream adj
 downtown adj
 downward adj
+downy adj cmp=er
+drab adj cmp=er adv=drably
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
 dreamy adj cmp=er adv=dreamily
 dreary adj cmp=er adv=drearily
 drizzly adj
+droll adj cmp=er
 drowsy adj cmp=er
 drunk adj cmp=er|more
 drunken adj adv=drunkenly
 dry adj cmp=er adv=dryly|drily
 dual adj
-dubious adj
+dubious adj adv=dubiously
 ducal adj
 due adj
 dull adj cmp=er adv=dully
@@ -196,3 +227,4 @@ Dutch adj
 dutiful adj adv=dutifully
 dynamic adj adv=dynamically
 dynastic adj
+dysfunctional adj

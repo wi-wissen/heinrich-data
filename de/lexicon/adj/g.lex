@@ -65,6 +65,7 @@ geringfügig adj cmp=geringfügiger sup=geringfügigsten
 germanisch adj
 gesamt adj
 gesamtschuldnerisch adj
+geschäftig adj cmp=geschäftiger sup=geschäftigsten
 geschäftlich adj
 gescheit adj cmp=gescheiter sup=gescheitesten
 geschichtlich adj
@@ -93,6 +94,7 @@ gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden wi
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
 gewerbsmäßig adj
+gewesen adj note=attributive participle of sein (der gewesene Minister); aux entries generate no participle adjectives
 gewichtig adj cmp=gewichtiger sup=gewichtigsten
 gewillt adj note=gewillt sein, etwas zu tun
 gewiss adj cmp=gewisser sup=gewissesten
@@ -101,10 +103,12 @@ gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+ghanaisch adj
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
 gigantisch adj
 glänzend adj cmp=glänzender sup=glänzendsten
+gläsern adj
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
 gläubig adj cmp=gläubiger sup=gläubigsten
@@ -126,6 +130,7 @@ golden adj
 gotisch adj
 göttlich adj
 grafisch adj
+gräflich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
 grammatikalisch adj
 grammatisch adj
@@ -146,7 +151,9 @@ grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
 großflächig adj
+größtmöglich adj
 großzügig adj cmp=großzügiger sup=großzügigsten
+grotesk adj cmp=grotesker sup=groteskesten
 grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten

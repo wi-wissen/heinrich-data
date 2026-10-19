@@ -1,4 +1,6 @@
 Zagreb propn g=n gen=Zagrebs pl=- note=proper name; no plural
+Zentralafrika propn g=n gen=Zentralafrikas pl=- note=region
+Zentralamerika propn g=n gen=Zentralamerikas pl=- note=region
 Zentralasien propn g=n gen=Zentralasiens pl=- note=proper name; no plural
 Zeus propn g=m gen=Zeus pl=- note=god; bare genitive (des Zeus)
 ZPO propn g=f gen=ZPO pl=- note=Zivilprozessordnung (die ZPO)

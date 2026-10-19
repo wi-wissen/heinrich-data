@@ -19,6 +19,7 @@ tape verb
 taper verb
 tar verb
 target verb
+tarnish verb
 tarry verb
 task verb
 taste verb
@@ -53,6 +54,7 @@ text verb
 thank verb
 thatch verb
 thaw verb
+theorize verb gb=theorise|theorize
 thicken verb
 thin verb
 think verb past=thought pp=thought
@@ -66,6 +68,7 @@ throng verb
 throttle verb
 throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
+thud verb
 thump verb
 thunder verb
 thwart verb
@@ -97,6 +100,7 @@ tone verb
 top verb
 topple verb
 torment verb
+torpedo verb
 torture verb
 toss verb
 total verb
@@ -125,6 +129,7 @@ transit verb
 transition verb
 translate verb
 transmit verb double
+transpire verb
 transplant verb
 transport verb
 trap verb

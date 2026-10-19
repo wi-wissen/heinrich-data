@@ -4,6 +4,8 @@ kaiserlich adj
 kalifornisch adj
 kalt adj cmp=kälter sup=kältesten
 kanadisch adj
+kanarisch adj
+kantonal adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
@@ -60,12 +62,15 @@ konsequent adj cmp=konsequenter sup=konsequentesten
 konservativ adj cmp=konservativer sup=konservativsten
 konstant adj cmp=konstanter sup=konstantesten
 konstruktiv adj cmp=konstruktiver sup=konstruktivsten
+kontinental adj
 kontinuierlich adj cmp=kontinuierlicher sup=kontinuierlichsten
 kontraproduktiv adj
 kontrovers adj
 konventionell adj cmp=konventioneller sup=konventionellsten
+konvex adj
 konzentriert adj cmp=konzentrierter sup=konzentriertesten
 kooperativ adj cmp=kooperativer sup=kooperativsten
+koreanisch adj
 körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
 kostbar adj cmp=kostbarer sup=kostbarsten
@@ -106,6 +111,7 @@ kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
 kurzgefasst adj
 kurzhaarig adj
+kurzlebig adj cmp=kurzlebiger sup=kurzlebigsten
 kurzsichtig adj cmp=kurzsichtiger sup=kurzsichtigsten
 kurzzeitig adj
 kuschelig adj cmp=kuscheliger sup=kuscheligsten

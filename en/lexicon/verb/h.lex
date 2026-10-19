@@ -1,5 +1,6 @@
 hack verb
 hail           verb
+hallow verb
 halt           verb
 halve verb
 hammer         verb
@@ -38,6 +39,7 @@ heed           verb
 heighten       verb
 help           verb
 hem verb
+hemorrhage verb gb=haemorrhage
 herald         verb
 herd           verb
 hesitate       verb

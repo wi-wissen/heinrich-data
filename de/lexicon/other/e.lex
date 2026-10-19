@@ -8,5 +8,6 @@ engl. x note=englisch
 EStG x note=Einkommensteuergesetz
 etc. x note=et cetera
 EUR x note=Euro
+evang. x note=evangelisch
 evtl. x note=eventuell
 exkl. x note=exklusive

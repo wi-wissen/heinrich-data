@@ -1,5 +1,6 @@
 mal adv note=mal ... mal (bald ... bald); drei mal vier
 mehrmals adv
+meinerseits adv
 meist adv
 meistens adv
 minder adv

@@ -1,8 +1,10 @@
+iberisch adj
 ideal adj cmp=idealer sup=idealsten
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+immateriell adj
 immens adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten
@@ -47,6 +49,7 @@ irisch adj
 ironisch adj cmp=ironischer sup=ironischsten
 irrational adj
 irre adj cmp=irrer sup=irrsten
+irrtümlich adj
 islamisch adj
 islamistisch adj
 isländisch adj

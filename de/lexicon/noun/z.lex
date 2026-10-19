@@ -34,6 +34,7 @@ Zeichentrickfilm noun g=m gen=Zeichentrickfilms|Zeichentrickfilmes pl=Zeichentri
 Zeichner noun g=m gen=Zeichners pl=Zeichner
 Zeichnerin noun g=f gen=Zeichnerin pl=Zeichnerinnen
 Zeichnung noun g=f gen=Zeichnung pl=Zeichnungen
+Zeiger noun g=m gen=Zeigers pl=Zeiger
 Zeile noun g=f gen=Zeile pl=Zeilen
 Zeisig noun g=m gen=Zeisigs pl=Zeisige
 Zeit noun g=f gen=Zeit pl=Zeiten
@@ -51,9 +52,11 @@ Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
+Zement noun g=m gen=Zements|Zementes pl=Zemente
 Zensur noun g=f gen=Zensur pl=Zensuren
 Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensus)
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
+Zentner noun g=m gen=Zentners pl=Zentner
 Zentrale noun g=f gen=Zentrale pl=Zentralen
 Zentrum noun g=n gen=Zentrums pl=Zentren
 Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
@@ -78,6 +81,7 @@ Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziehharmonika noun g=f gen=Ziehharmonika pl=Ziehharmonikas|Ziehharmoniken
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
+Zierde noun g=f gen=Zierde pl=Zierden
 Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
@@ -99,6 +103,7 @@ Zinsen noun g=pl
 Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirkel noun g=m gen=Zirkels pl=Zirkel
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
+Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
 Zitadelle noun g=f gen=Zitadelle pl=Zitadellen
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
 Zitrone noun g=f gen=Zitrone pl=Zitronen
@@ -151,6 +156,7 @@ Zulässigkeit noun g=f gen=Zulässigkeit pl=- note=no plural
 Zulassung noun g=f gen=Zulassung pl=Zulassungen
 Zulieferer noun g=m gen=Zulieferers pl=Zulieferer
 Zunahme noun g=f gen=Zunahme pl=Zunahmen
+Zündung noun g=f gen=Zündung pl=Zündungen
 Zuneigung noun g=f gen=Zuneigung pl=- note=no plural in practice
 Zunft noun g=f gen=Zunft pl=Zünfte
 Zunge noun g=f gen=Zunge pl=Zungen
@@ -210,8 +216,10 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder
+Zynismus noun g=m gen=Zynismus pl=Zynismen

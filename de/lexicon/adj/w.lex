@@ -13,6 +13,7 @@ wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 walisisch adj
 warm adj cmp=wärmer sup=wärmsten
 wechselseitig adj
+wehmütig adj cmp=wehmütiger sup=wehmütigsten
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten
@@ -51,6 +52,7 @@ wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten
 wirtschaftlich adj cmp=wirtschaftlicher sup=wirtschaftlichsten
 wissenschaftlich adj
+wissentlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten

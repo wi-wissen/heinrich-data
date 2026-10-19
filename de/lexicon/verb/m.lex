@@ -33,6 +33,7 @@ mildern verb class=weak pp=gemildert perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
 minimieren verb class=weak pp=minimiert perf=haben
 mischen verb class=weak pp=gemischt perf=haben refl=acc
+missachten verb class=weak pp=missachtet perf=haben
 missbrauchen verb class=weak pp=missbraucht perf=haben
 missfallen verb class=strong 3sg=missfällt past=missfiel subj2=missfiele pp=missfallen perf=haben
 misshandeln verb class=weak pp=misshandelt perf=haben
@@ -96,6 +97,7 @@ mogeln verb class=weak pp=gemogelt perf=haben
 monieren verb class=weak pp=moniert perf=haben
 montieren verb class=weak pp=montiert perf=haben
 motivieren verb class=weak pp=motiviert perf=haben refl=acc
+motorisieren verb class=weak pp=motorisiert perf=haben
 motzen verb class=weak pp=gemotzt perf=haben style=colloquial
 muhen verb class=weak pp=gemuht perf=haben
 multiplizieren verb class=weak pp=multipliziert perf=haben

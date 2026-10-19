@@ -6,5 +6,6 @@ umher adv type=direction
 umhin adv note=nicht umhin können
 unbedingt adv
 ungern adv type=manner
+unlängst adv type=time
 unterdessen adv type=time
 unversehens adv

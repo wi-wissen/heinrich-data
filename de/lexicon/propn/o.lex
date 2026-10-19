@@ -1,6 +1,6 @@
 Oberhausen propn g=n gen=Oberhausens pl=- note=proper name; no plural
 Oberösterreich propn g=n gen=Oberösterreichs pl=- note=proper name; no plural
-Oberpfalz propn g=f gen=Oberpfalz pl=- note=die Oberpfalz
+Oberpfalz propn g=f gen=Oberpfalz pl=- demonym=Oberpfälzer note=die Oberpfalz
 Oberschlesien propn g=n gen=Oberschlesiens pl=- note=proper name; no plural
 OECD propn g=f gen=OECD pl=- note=die OECD
 Ohio propn g=n gen=Ohios pl=- note=proper name; no plural

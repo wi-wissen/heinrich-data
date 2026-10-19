@@ -1,3 +1,4 @@
+zaghaft adj cmp=zaghafter sup=zaghaftesten
 zäh adj cmp=zäher sup=zähesten
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
 zahlungspflichtig adj
@@ -39,6 +40,7 @@ zusammengesetzt adj
 zusätzlich adj
 zuständig adj
 zustimmungspflichtig adj
+zuträglich adj
 zutraulich adj cmp=zutraulicher sup=zutraulichsten
 zuverlässig adj cmp=zuverlässiger sup=zuverlässigsten
 zuversichtlich adj cmp=zuversichtlicher sup=zuversichtlichsten
@@ -55,5 +57,6 @@ zweigleisig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
 zwischenzeitlich adj
+zwittrig adj note=variant zwitterig
 zylindrisch adj
 zynisch adj cmp=zynischer sup=zynischsten

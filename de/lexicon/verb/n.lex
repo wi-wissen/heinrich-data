@@ -110,6 +110,7 @@ nisten verb class=weak pp=genistet perf=haben
 nölen verb class=weak pp=genölt perf=haben
 nominieren verb class=weak pp=nominiert perf=haben
 nörgeln verb class=weak pp=genörgelt perf=haben style=colloquial
+normieren verb class=weak pp=normiert perf=haben
 notieren verb class=weak pp=notiert perf=haben
 nötigen verb class=weak pp=genötigt perf=haben
 nuckeln verb class=weak pp=genuckelt perf=haben

@@ -13,6 +13,7 @@ seitwärts adv
 selten adv type=time cmp=seltener sup=seltensten note=er kommt selten
 sogleich adv type=time
 sozusagen adv type=modal
+späterhin adv type=time
 spätestens adv type=time
 südwärts adv type=direction
 sukzessive adv

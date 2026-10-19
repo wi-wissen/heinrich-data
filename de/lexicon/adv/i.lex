@@ -3,6 +3,7 @@ immerfort adv
 immerzu adv
 infrage adv
 inne adv
+insgeheim adv type=manner
 insgesamt adv
 instand adv note=instand halten/setzen
 irgend adv

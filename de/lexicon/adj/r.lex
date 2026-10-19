@@ -36,6 +36,7 @@ reich adj cmp=reicher sup=reichsten
 reichlich adj
 reif adj cmp=reifer sup=reifsten
 rein adj cmp=reiner sup=reinsten
+reinlich adj cmp=reinlicher sup=reinlichsten
 reißerisch adj
 reizend adj cmp=reizender sup=reizendsten note=charming; participle with its own meaning
 relativ adj
@@ -51,6 +52,7 @@ restlich adj
 restriktiv adj cmp=restriktiver sup=restriktivsten
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rheinisch adj
+rheinland-pfälzisch adj
 rhetorisch adj
 rhythmisch adj
 richtig adj cmp=richtiger sup=richtigsten
