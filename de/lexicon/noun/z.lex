@@ -1,5 +1,6 @@
 Zacken noun g=m gen=Zackens pl=Zacken
 Zahl noun g=f gen=Zahl pl=Zahlen
+Zahler noun g=m gen=Zahlers pl=Zahler
 Zähler noun g=m gen=Zählers pl=Zähler
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
@@ -30,6 +31,7 @@ Zehner noun g=m gen=Zehners pl=Zehner
 Zehntel noun g=n gen=Zehntels pl=Zehntel
 Zeichen noun g=n gen=Zeichens pl=Zeichen
 Zeichensetzung noun g=f gen=Zeichensetzung pl=- note=no plural
+Zeichentrick noun g=m gen=Zeichentricks pl=- note=animated cartoon technique; Zeichentrickfilm
 Zeichentrickfilm noun g=m gen=Zeichentrickfilms|Zeichentrickfilmes pl=Zeichentrickfilme
 Zeichner noun g=m gen=Zeichners pl=Zeichner
 Zeichnerin noun g=f gen=Zeichnerin pl=Zeichnerinnen
@@ -52,9 +54,11 @@ Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
+Zement noun g=m gen=Zements|Zementes pl=Zemente
 Zensur noun g=f gen=Zensur pl=Zensuren
 Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensus)
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
+Zentner noun g=m gen=Zentners pl=Zentner
 Zentrale noun g=f gen=Zentrale pl=Zentralen
 Zentrum noun g=n gen=Zentrums pl=Zentren
 Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
@@ -79,6 +83,7 @@ Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziehharmonika noun g=f gen=Ziehharmonika pl=Ziehharmonikas|Ziehharmoniken
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
+Zierde noun g=f gen=Zierde pl=Zierden
 Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
@@ -94,11 +99,14 @@ Zimt noun g=m gen=Zimtes|Zimts pl=- note=no plural
 Zimtstern noun g=m gen=Zimtsterns pl=Zimtsterne
 Zink noun g=n gen=Zinks|Zinkes pl=- note=metal
 Zinn noun g=n gen=Zinns|Zinnes pl=- note=metal
+Zinne noun g=f gen=Zinne pl=Zinnen
 Zins noun g=m gen=Zinses pl=Zinsen
 Zinsen noun g=pl
 Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirkel noun g=m gen=Zirkels pl=Zirkel
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
+Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
+Zitadelle noun g=f gen=Zitadelle pl=Zitadellen
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
 Zitrone noun g=f gen=Zitrone pl=Zitronen
 Zivi noun g=m gen=Zivis pl=Zivis
@@ -150,7 +158,9 @@ Zukunft noun g=f gen=Zukunft pl=Zukünfte[rare]
 Zulage noun g=f gen=Zulage pl=Zulagen
 Zulässigkeit noun g=f gen=Zulässigkeit pl=- note=no plural
 Zulassung noun g=f gen=Zulassung pl=Zulassungen
+Zulieferer noun g=m gen=Zulieferers pl=Zulieferer
 Zunahme noun g=f gen=Zunahme pl=Zunahmen
+Zündung noun g=f gen=Zündung pl=Zündungen
 Zuneigung noun g=f gen=Zuneigung pl=- note=no plural in practice
 Zunft noun g=f gen=Zunft pl=Zünfte
 Zunge noun g=f gen=Zunge pl=Zungen
@@ -210,9 +220,11 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zwist noun g=m gen=Zwists|Zwistes pl=Zwiste
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder
+Zynismus noun g=m gen=Zynismus pl=Zynismen

@@ -3,6 +3,7 @@ Kaiserslautern propn g=n gen=Kaiserslauterns pl=- note=city in Rhineland-Palatin
 Kalifornien propn g=n gen=Kaliforniens pl=- note=proper name; no plural
 Kaliningrad propn g=n gen=Kaliningrads pl=- note=city in Russia
 Kamerun propn g=n gen=Kameruns pl=- note=country
+Kampanien propn g=n gen=Kampaniens pl=- note=Italian region
 Kanada propn g=n gen=Kanadas pl=- note=proper name; no plural
 Kansas propn g=n gen=Kansas pl=- note=US state
 Karibik propn g=f gen=Karibik pl=- note=die Karibik
@@ -30,6 +31,7 @@ Königsberg propn g=n gen=Königsbergs pl=- note=proper name; no plural
 Konstantinopel propn g=n gen=Konstantinopels pl=- note=proper name; no plural
 Konstanz propn g=n gen=Konstanz pl=- note=city on Lake Constance; bare genitive
 Kopenhagen propn g=n gen=Kopenhagens pl=- note=proper name; no plural
+Köpenick propn g=n gen=Köpenicks pl=- note=district of Berlin
 Korea propn g=n gen=Koreas pl=- note=proper name; no plural
 Korinth propn g=n gen=Korinths pl=- note=proper name; no plural
 Kos propn g=n gen=Kos pl=- note=Greek island; bare genitive after s-sound
@@ -38,6 +40,8 @@ Köthen propn g=n gen=Köthens pl=- note=proper name; no plural
 KPD propn g=f gen=KPD pl=- note=proper name; no plural
 Krakau propn g=n gen=Krakaus pl=- note=proper name; no plural
 Krefeld propn g=n gen=Krefelds pl=- note=proper name; no plural
+Kreml propn g=m gen=Kreml|Kremls pl=- note=der Kreml
 Krim propn g=f gen=Krim pl=- note=die Krim
 Kroatien propn g=n gen=Kroatiens pl=- note=proper name; no plural
 Kuba propn g=n gen=Kubas pl=- note=proper name; no plural
+Kusel propn g=n gen=Kusels pl=- note=town

@@ -1,9 +1,11 @@
 badisch adj
 baldig adj
+baltisch adj
 bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
 bankrott adj
 bar adj
+barbarisch adj cmp=barbarischer sup=barbarischsten
 barock adj
 barrierefrei adj
 bärtig adj
@@ -11,8 +13,10 @@ bäuerisch adj
 bäuerlich adj
 baulich adj
 bayerisch adj
+bayrisch adj note=variant of bayerisch
 beachtlich adj cmp=beachtlicher sup=beachtlichsten
 bedacht adj note=bedacht auf etwas; participle of bedenken with own meaning
+bedächtig adj cmp=bedächtiger sup=bedächtigsten
 bedauerlich adj cmp=bedauerlicher sup=bedauerlichsten
 bedeckt adj
 bedenklich adj cmp=bedenklicher sup=bedenklichsten
@@ -31,6 +35,7 @@ begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
 begütert adj
 behaart adj
+behaftet adj note=mit etwas behaftet
 behaglich adj cmp=behaglicher sup=behaglichsten
 beharrlich adj
 beherzt adj cmp=beherzter sup=beherztesten
@@ -40,12 +45,15 @@ behutsam adj cmp=behutsamer sup=behutsamsten
 beiderseitig adj
 beidseitig adj
 beige adj
+beiläufig adj
 beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
 beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
+beklommen adj cmp=beklommener sup=beklommensten
 bekloppt adj cmp=bekloppter sup=beklopptesten
 belarussisch adj
+belegen adj note=legal: situated (das im Bezirk belegene Grundstück); the verb belegen is separate
 beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
 beliebig adj
@@ -59,6 +67,7 @@ bergig adj cmp=bergiger sup=bergigsten
 bergisch adj
 berüchtigt adj cmp=berüchtigter sup=berüchtigtsten
 beruflich adj
+berufsständisch adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
@@ -72,6 +81,7 @@ beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
 bestmöglich adj
 bestplatziert adj
+bestrebt adj note=bestrebt sein, etwas zu tun
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
 betrieblich adj
@@ -88,15 +98,19 @@ biblisch adj
 bilateral adj
 bildlich adj cmp=bildlicher sup=bildlichsten
 billig adj cmp=billiger sup=billigsten
+biogen adj
 biologisch adj
+bischöflich adj
 bisherig adj
 bissfest adj
 bissig adj cmp=bissiger sup=bissigsten
 bitter adj cmp=bitterer sup=bittersten
+bitterlich adj note=bitterlich weinen; mostly adverbial
 blank adj cmp=blanker sup=blankesten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten
 blauäugig adj
+bläulich adj
 bleich adj cmp=bleicher sup=bleichsten
 blind adj cmp=blinder sup=blindesten
 blöd adj cmp=blöder sup=blödesten
@@ -112,6 +126,7 @@ bolivianisch adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 botanisch adj
+brandenburgisch adj
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
 bräunlich adj

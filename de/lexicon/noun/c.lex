@@ -21,6 +21,7 @@ Cashew noun g=f gen=Cashew pl=Cashews
 Cashflow noun g=m gen=Cashflows pl=Cashflows
 Casino noun g=n gen=Casinos pl=Casinos
 CD noun g=f gen=CD pl=CDs note=Compact Disc
+Cellist noun g=m gen=Cellisten pl=Cellisten
 Cello noun g=n gen=Cellos pl=Cellos|Celli
 Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn Cent)
 Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcenter); English-looking
@@ -31,9 +32,12 @@ Champagner noun g=m gen=Champagners pl=Champagner
 Champignon noun g=m gen=Champignons pl=Champignons
 Champion noun g=m gen=Champions pl=Champions
 Chance        noun g=f gen=Chance pl=Chancen
+Chanson noun g=n gen=Chansons pl=Chansons
 Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
+Charakteristik noun g=f gen=Charakteristik pl=Charakteristiken
+Charge noun g=f gen=Charge pl=Chargen
 Charme noun g=m gen=Charmes pl=- note=no plural
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
@@ -59,18 +63,24 @@ Chip noun g=m gen=Chips pl=Chips
 Chirurg noun g=m gen=Chirurgen pl=Chirurgen
 Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
 Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
+Chlor noun g=n gen=Chlors pl=- note=chemical element
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
+Cholera noun g=f gen=Cholera pl=- note=disease
 Chor          noun g=m gen=Chores|Chors pl=Chöre
+Choral noun g=m gen=Chorals pl=Choräle
 Chorus noun g=m gen=Chorus pl=Chorusse conf=80 note=jazz chorus; plural uncertain
 Christ noun g=m gen=Christen pl=Christen
+Christenheit noun g=f gen=Christenheit pl=- note=collective noun
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christianisierung noun g=f gen=Christianisierung pl=- note=mass noun
 Christin noun g=f gen=Christin pl=Christinnen
+Chrom noun g=n gen=Chroms pl=- note=mass noun
 Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
 Chronistin noun g=f gen=Chronistin pl=Chronistinnen
+Chronologie noun g=f gen=Chronologie pl=Chronologien
 Clan noun g=m gen=Clans pl=Clans
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
@@ -80,6 +90,7 @@ Cloud noun g=f gen=Cloud pl=Clouds
 Clown noun g=m gen=Clowns pl=Clowns
 Clownin noun g=f gen=Clownin pl=Clowninnen
 Club          noun g=m gen=Clubs pl=Clubs
+Cluster noun g=m gen=Clusters pl=Cluster
 Coach noun g=m gen=Coachs|Coaches pl=Coachs|Coaches
 Coaching noun g=n gen=Coachings pl=Coachings
 Cocktail noun g=m gen=Cocktails pl=Cocktails

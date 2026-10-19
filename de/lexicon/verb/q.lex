@@ -7,6 +7,7 @@ quasseln verb class=weak pp=gequasselt perf=haben
 quatschen verb class=weak pp=gequatscht perf=haben
 quellen verb class=strong 3sg=quillt past=quoll pp=gequollen subj2=quölle perf=sein
 quengeln verb class=weak pp=gequengelt perf=haben
+queren verb class=weak pp=gequert perf=haben
 quetschen verb class=weak pp=gequetscht perf=haben
 quieken verb class=weak pp=gequiekt perf=haben
 quietschen verb class=weak pp=gequietscht perf=haben

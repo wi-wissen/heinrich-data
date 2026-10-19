@@ -2,7 +2,9 @@ haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 habsburgisch adj
 halb         adj note=not compared; ein halber Liter
+hamburgisch adj
 hannoversch adj
+hansisch adj
 hären adj conf=80 note=rare, hären = of hair
 harmlos adj cmp=harmloser sup=harmlosesten
 harmonisch adj
@@ -40,6 +42,7 @@ hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten
 hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
+hinderlich adj cmp=hinderlicher sup=hinderlichsten
 hinlänglich adj note=mostly adverbial (hinlänglich bekannt)
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
@@ -48,13 +51,19 @@ hinterlistig adj cmp=hinterlistiger sup=hinterlistigsten
 historisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
+hochgradig adj
+hochmütig adj cmp=hochmütiger sup=hochmütigsten
+hochrangig adj cmp=hochrangiger sup=hochrangigsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höfisch adj
 höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten
+höhnisch adj cmp=höhnischer sup=höhnischsten
 hold adj cmp=holder sup=holdesten style=archaic
 holländisch adj
 hölzern adj
+homogen adj cmp=homogener sup=homogensten
+homosexuell adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 hügelig adj cmp=hügeliger sup=hügeligsten
@@ -62,4 +71,6 @@ humanistisch adj
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten
+hybrid adj
 hydraulisch adj
+hygienisch adj

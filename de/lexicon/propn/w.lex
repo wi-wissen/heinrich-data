@@ -23,6 +23,8 @@ Wisconsin propn g=n gen=Wisconsins pl=- note=proper name, no plural
 Wittenberg propn g=n gen=Wittenbergs pl=- note=proper name, no plural
 Wolfsburg propn g=n gen=Wolfsburgs pl=- note=proper name; no plural
 Worms propn g=n gen=Worms pl=- note=proper name, no plural; genitive unmarked
+Wörth propn g=n gen=Wörths pl=- note=town name (several)
+Wümme propn g=f gen=Wümme pl=- note=river
 Wunsiedel propn g=n gen=Wunsiedels pl=- note=proper name; no plural
 Wuppertal propn g=n gen=Wuppertals pl=- demonym=Wuppertaler note=proper name; no plural
 Württemberg propn g=n gen=Württembergs pl=- note=proper name, no plural

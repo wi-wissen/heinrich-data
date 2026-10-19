@@ -1,3 +1,4 @@
+landeinwärts adv type=direction
 lange adv cmp=länger sup=längsten
 längstens adv
 leider       adv

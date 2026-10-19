@@ -1,3 +1,4 @@
+wad verb
 wade verb
 wag verb
 wage verb
@@ -59,6 +60,7 @@ widen verb
 widow verb
 wield verb
 wiggle verb
+will verb sense=wish note=to want, exert the will; to bequeath; regular, unlike the modal
 wilt verb note=to droop; archaic thou wilt (will) is a closed-class gap
 win verb past=won pp=won
 wince verb

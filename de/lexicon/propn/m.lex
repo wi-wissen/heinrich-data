@@ -24,6 +24,7 @@ Massachusetts propn g=n gen=Massachusetts pl=- note=US state; bare genitive
 Mazedonien propn g=n gen=Mazedoniens pl=- note=proper name; no plural
 Mecklenburg propn g=n gen=Mecklenburgs pl=- note=proper name; no plural
 Mecklenburg-Vorpommern propn g=n gen=Mecklenburg-Vorpommerns pl=- note=proper name; no plural
+Meidling propn g=n gen=Meidlings pl=- note=district of Vienna
 Meißen propn g=n gen=Meißens pl=- note=proper name; no plural
 Mekka propn g=n gen=Mekkas pl=- note=proper name; no plural
 Melbourne propn g=n gen=Melbournes pl=- note=proper name; no plural

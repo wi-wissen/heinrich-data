@@ -1,8 +1,10 @@
+iberisch adj
 ideal adj cmp=idealer sup=idealsten
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+immateriell adj
 immens adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten
@@ -18,6 +20,7 @@ industriell adj
 informationell adj
 informativ adj
 inhaltlich adj
+inklusiv adj
 inländisch adj
 inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl; positional, no comparative
 innerlich adj
@@ -25,6 +28,7 @@ innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
 institutionell adj
+intakt adj
 integrativ adj
 intellektuell adj cmp=intellektueller sup=intellektuellsten
 intelligent adj cmp=intelligenter sup=intelligentesten
@@ -47,6 +51,7 @@ ironisch adj cmp=ironischer sup=ironischsten
 irrational adj
 irre adj cmp=irrer sup=irrsten
 irreparabel adj attr=irreparable
+irrtümlich adj
 islamisch adj
 islamistisch adj
 isländisch adj

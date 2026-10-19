@@ -14,5 +14,6 @@ Art. x note=Artikel
 au intj
 Aufl. x note=Auflage
 Aug. x note=August
+Ausg. x note=Ausgabe
 autsch intj
 Az. x note=Aktenzeichen

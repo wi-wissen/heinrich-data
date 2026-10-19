@@ -17,9 +17,11 @@ laud verb
 laugh         verb
 launch        verb
 launder       verb
+lavish verb
 lay           verb past=laid pp=laid
 layer verb
 laze verb
+leach verb
 lead          verb past=led pp=led sense=guide
 lead          verb sense=metal note=to cover or weight with lead: leaded
 leaf          verb
@@ -57,6 +59,7 @@ limp verb
 line          verb
 linger        verb
 link          verb
+liquefy verb note=liquify is a variant spelling
 liquidate verb
 list          verb
 listen        verb

@@ -4,6 +4,7 @@ jährlich adj
 jamaikanisch adj
 jämmerlich adj cmp=jämmerlicher sup=jämmerlichsten
 japanisch adj
+jenseitig adj
 jetzig adj attr_only
 jeweilig adj note=attributive only
 journalistisch adj

@@ -6,6 +6,7 @@ garantieren verb class=weak pp=garantiert perf=haben
 garen verb class=weak pp=gegart perf=haben
 garnieren verb class=weak pp=garniert perf=haben
 gärtnern verb class=weak pp=gegärtnert perf=haben
+gastieren verb class=weak pp=gastiert perf=haben
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
 gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben
@@ -62,6 +63,7 @@ gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc
 glimmen verb class=weak past=glimmte|glomm pp=geglimmt|geglommen perf=haben
 glitzern verb class=weak pp=geglitzert perf=haben
+globalisieren verb class=weak pp=globalisiert perf=haben
 glotzen verb class=weak pp=geglotzt perf=haben
 glücken verb class=weak pp=geglückt perf=sein
 gluckern verb class=weak pp=gegluckert perf=haben
@@ -70,6 +72,7 @@ glühen verb class=weak pp=geglüht perf=haben
 gönnen verb class=weak pp=gegönnt perf=haben
 googeln verb class=weak pp=gegoogelt perf=haben
 graben verb class=strong 3sg=gräbt past=grub pp=gegraben subj2=grübe perf=haben
+graduieren verb class=weak pp=graduiert perf=haben
 grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
 grauen verb class=weak pp=gegraut perf=haben note=es graut mir vor; der Morgen graut
