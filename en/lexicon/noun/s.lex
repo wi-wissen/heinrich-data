@@ -295,6 +295,7 @@ shelf noun pl=shelves
 shell noun
 shellfish noun pl=shellfish
 shelter noun
+shemale noun style=offensive note=transphobic slur
 shepherd noun
 sheriff noun
 shield noun
@@ -592,6 +593,7 @@ Spartan noun
 spasm noun
 spatula noun
 spawn noun pl=- note=uncountable (eggs)
+spaz noun pl=spazzes style=offensive note=ableist slur
 speaker noun
 spear noun
 spearhead noun
@@ -619,6 +621,7 @@ spelling noun
 spending noun pl=- note=uncountable
 sperm noun pl=sperm|sperms
 sphere noun
+spic noun style=offensive note=slur for Latin Americans
 spice noun
 spider noun
 spike noun
@@ -669,6 +672,7 @@ squall noun
 square noun
 squash noun
 squatter noun
+squaw noun style=offensive note=derogatory term for Indigenous American women
 squeeze noun
 squid noun pl=squid|squids
 squire noun

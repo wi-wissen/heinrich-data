@@ -3,6 +3,7 @@ dad noun
 daddy noun
 daffodil noun
 dagger noun
+dago noun pl=dagos|dagoes style=offensive note=slur for Italians, Spaniards and Portuguese
 daily noun
 dairy noun
 daisy noun
@@ -21,7 +22,9 @@ Danish noun pl=- note=the language
 dare noun
 daring noun
 dark noun
+darkie noun style=offensive note=racist slur for Black people; variant darky
 darkness noun pl=- note=uncountable
+darky noun style=offensive note=racist slur for Black people; variant darkie
 darling noun
 dart noun
 darter noun

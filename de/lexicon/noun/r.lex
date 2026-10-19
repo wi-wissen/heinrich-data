@@ -298,6 +298,7 @@ Ross noun g=n gen=Rosses pl=Rosse|Rösser style=archaic note=elevated word for h
 Rotation noun g=f gen=Rotation pl=Rotationen
 Röte noun g=f gen=Röte pl=- note=no plural
 Röteln noun g=pl
+Rothaut noun g=f gen=Rothaut pl=Rothäute style=offensive note=derogatory term for Indigenous Americans; adventure novels
 Rotkehlchen noun g=n gen=Rotkehlchens pl=Rotkehlchen
 Rouladen noun g=pl
 Route noun g=f gen=Route pl=Routen
@@ -347,6 +348,7 @@ Rushhour noun g=f gen=Rushhour pl=Rushhours
 Russe noun g=m gen=Russen pl=Russen
 Rüssel noun g=m gen=Rüssels pl=Rüssel
 Russisch noun g=n gen=Russisch|Russischs pl=- note=language name; no plural
+Russki noun g=m gen=Russkis pl=Russkis style=offensive note=slur for Russians
 Rüstung noun g=f gen=Rüstung pl=Rüstungen
 Rute noun g=f gen=Rute pl=Ruten
 Rutsche noun g=f gen=Rutsche pl=Rutschen

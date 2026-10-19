@@ -191,6 +191,18 @@ Compounds are decomposed by the engine (`Haustür` = `Haus` + `Tür`), so:
 - Colloquial or regional forms that are wrong in standard school German get `[colloquial]` or
   `style=colloquial`, never an untagged variant.
 
+### 4.10 Derogatory terms (`style=offensive`)
+
+Slurs and terms that are derogatory towards groups of people (by ethnicity, nationality,
+religion, sexuality, gender or disability) are **words of the language**: write them as normal
+entries, so they are not reported as misspellings, and add `style=offensive`
+(`style=archaic|offensive` for historical terms of older literature). The engine gives a
+neutral hint in the `picky` tier only (`Heinrich/docs/LEXICON_FORMAT.md` §16). Only clearly
+derogatory terms are marked; neutral ethnonyms (`Roma`, `Jude`, `Türke`) never are. If the
+lemma also has a neutral sense, give it its own `sense=` or leave it unmarked: a form is only
+hinted when every reading is marked. `alt=` names a neutral alternative (`_` for a space,
+`alt=Sinti_und_Roma`) only where one is established and uncontroversial; otherwise omit it.
+
 ## 5. Self-check (mandatory before handing in)
 
 1. For every new or changed entry, dump it and read every form:

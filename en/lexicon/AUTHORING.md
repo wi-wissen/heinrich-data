@@ -135,6 +135,18 @@ foreign phrases (`ad hoc`, `per se`) are `x foreign` with a note.
 - Only the word differs (`lorry`/`truck`, `pavement`/`sidewalk`) → `region=GB` or `region=US`
   on the entry; both words are correct English and are accepted everywhere.
 
+### 4.9 Derogatory terms (`style=offensive`)
+
+Slurs and terms that are derogatory towards groups of people (by ethnicity, nationality,
+religion, sexuality, gender or disability) are ordinary entries with `style=offensive`
+(`style=archaic|offensive` for historical terms), so they are known words; the engine gives a
+neutral hint in the `picky` tier only (`Heinrich/docs/LEXICON_FORMAT_EN.md` §13). Neutral
+ethnonyms (`Roma`, `Jew`) are never marked. A lemma with a neutral sense gets its own
+`sense=` or stays unmarked: a form is only hinted when every reading is marked (lowercase
+`gypsy` is marked, the capitalized neutral `Gypsy` is a separate entry). `alt=` names a
+neutral alternative (`_` for a space, `alt=Black_person`) only where one is established and
+uncontroversial.
+
 ## 5. Self-check (mandatory before handing in)
 
 1. Dump every new or changed entry and read every form:

@@ -140,6 +140,7 @@ ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 IT noun g=f gen=IT pl=- note=Informationstechnik
+Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians
 Italiener noun g=m gen=Italieners pl=Italiener
 Italienerin noun g=f gen=Italienerin pl=Italienerinnen
 Italienisch noun g=n gen=Italienisch|Italienischs pl=- note=language name; no plural

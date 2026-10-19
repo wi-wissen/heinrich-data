@@ -21,6 +21,7 @@ painting noun
 pair noun
 paisley noun
 pajamas noun pl_only gb=pyjamas
+Paki noun style=offensive note=slur for South Asians, especially Pakistanis
 Pakistani noun note=demonym or religious name, capitalized
 pal noun style=colloquial
 palace noun
@@ -50,6 +51,7 @@ paper noun
 paperback noun
 paperclip noun note=also paper clip
 paperwork noun pl=- note=uncountable
+papist noun style=offensive note=historical derogatory term for Roman Catholics
 paprika noun pl=- note=uncountable
 par noun
 para noun note=short for paragraph, mainly in legal texts
@@ -313,6 +315,7 @@ pianist noun
 piano noun pl=pianos
 piazza noun pl=piazzas
 pick noun
+pickaninny noun style=offensive note=racist term for Black children
 picket noun
 pickup noun
 picnic noun
@@ -326,6 +329,7 @@ pigeon noun
 piglet noun
 pigment noun
 pike noun
+pikey noun style=offensive note=slur for Travellers and Roma
 pile noun
 pilgrim noun
 pilgrimage noun
@@ -445,6 +449,7 @@ pointer noun
 poison noun
 poisoning noun
 poker noun
+Polack noun style=offensive note=slur for Poles
 polarization noun gb=polarisation|polarization
 Pole noun note=a person from Poland
 pole noun
@@ -474,6 +479,7 @@ poncho noun pl=ponchos
 pond noun
 pony noun
 ponytail noun
+poofter noun style=offensive note=homophobic slur
 pool noun
 pop noun
 popcorn noun pl=- note=uncountable

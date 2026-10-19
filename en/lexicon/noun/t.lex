@@ -305,6 +305,7 @@ tournament noun
 tout noun
 tow noun
 towel noun
+towelhead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 tower noun
 town noun
 township noun

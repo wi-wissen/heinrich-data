@@ -88,3 +88,4 @@ gush verb
 gust verb
 gut verb
 gutter verb
+gyp verb past=gypped pp=gypped ing=gypping style=offensive note=to cheat; derived from Gypsy

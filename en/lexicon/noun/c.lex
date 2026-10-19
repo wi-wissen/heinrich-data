@@ -319,6 +319,7 @@ chimp noun
 chimpanzee noun
 chin noun
 china noun pl=- note=porcelain
+Chinaman noun pl=Chinamen style=offensive note=dated, derogatory term for Chinese people
 Chinatown noun
 Chinese noun pl=Chinese note=a person; the language
 Chinook noun conf=90 note=the people; also wind and helicopter
@@ -796,6 +797,7 @@ cooker noun
 cookie noun
 cool noun
 cooler noun
+coolie noun style=offensive note=derogatory term for Asian labourers
 coolness noun pl=- note=uncountable
 cooper noun
 cooperation noun gb=cooperation|co-operation

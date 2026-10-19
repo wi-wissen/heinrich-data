@@ -11,6 +11,7 @@ yeast noun
 yell noun
 yellow noun
 yesterday noun
+yid noun style=offensive note=antisemitic slur
 yield noun
 yo-yo noun pl=yo-yos
 yogurt noun gb=yoghurt|yogurt

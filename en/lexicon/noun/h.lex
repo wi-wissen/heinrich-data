@@ -13,6 +13,8 @@ hairdresser noun
 hairdryer noun
 hairspray noun
 Haitian noun
+half-breed noun style=offensive note=derogatory term for people of mixed descent
+half-caste noun style=offensive note=derogatory term for people of mixed descent
 half-life      noun pl=half-lives
 halibut        noun pl=halibut|halibuts
 hall           noun
@@ -257,6 +259,7 @@ hostility      noun
 hotel          noun
 hotline noun
 hotspot noun
+Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the Khoikhoi; older literature
 hound          noun
 hour           noun
 house          noun

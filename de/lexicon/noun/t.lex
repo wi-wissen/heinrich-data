@@ -234,6 +234,7 @@ Träne noun g=f gen=Träne pl=Tränen
 Trank noun g=m gen=Tranks|Trankes pl=Tränke
 Tränke noun g=f gen=Tränke pl=Tränken
 Transaktion noun g=f gen=Transaktion pl=Transaktionen
+Transe noun g=f gen=Transe pl=Transen style=offensive note=transphobic slur
 Transfer noun g=m gen=Transfers pl=Transfers
 Transformation noun g=f gen=Transformation pl=Transformationen
 Transkription noun g=f gen=Transkription pl=Transkriptionen
@@ -298,6 +299,7 @@ Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
 Trust noun g=m gen=Trusts pl=Trusts
 Truthahn noun g=m gen=Truthahns pl=Truthähne
+Tschusch noun g=m gen=Tschuschen pl=Tschuschen region=AT style=offensive note=Austrian slur for people from the Balkans and Eastern Europe
 Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
 Tuberkulose noun g=f gen=Tuberkulose pl=- note=disease name; no plural
@@ -309,6 +311,7 @@ Tulpenzwiebel noun g=f gen=Tulpenzwiebel pl=Tulpenzwiebeln
 Tümpel noun g=m gen=Tümpels pl=Tümpel
 Tundra noun g=f gen=Tundra pl=Tundren
 Tunnel noun g=m gen=Tunnels pl=Tunnel|Tunnels
+Tunte noun g=f gen=Tunte pl=Tunten style=offensive note=homophobic slur
 Tür noun g=f gen=Tür pl=Türen
 Turbine noun g=f gen=Turbine pl=Turbinen
 Turbulenz noun g=f gen=Turbulenz pl=Turbulenzen

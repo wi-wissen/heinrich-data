@@ -8,6 +8,7 @@ jaguar noun
 jail           noun
 jam noun
 Jamaican noun
+Jap noun style=offensive note=slur for Japanese people
 Japanese       noun pl=Japanese
 jar noun
 jargon noun pl=- note=uncountable
@@ -28,6 +29,7 @@ jet            noun
 Jew            noun
 jewel          noun
 jewelry noun gb=jewellery pl=- note=uncountable
+jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
 jingle noun
 job            noun

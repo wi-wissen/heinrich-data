@@ -44,7 +44,8 @@ neglect       noun
 negligence    noun pl=- note=uncountable
 negotiation   noun
 negotiator noun
-negro         noun pl=negroes note=historical term, now offensive
+negro         noun pl=negroes style=archaic|offensive alt=Black_person note=historical term, now offensive
+Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 neoliberal noun
@@ -77,6 +78,8 @@ nickname      noun
 nicotine noun pl=- note=uncountable
 niece         noun
 Nigerian      noun
+nigga noun style=offensive note=racist slur (also in-group use)
+nigger noun style=offensive note=racist slur
 night         noun
 nightclub noun
 nightdress noun

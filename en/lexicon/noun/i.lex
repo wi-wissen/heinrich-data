@@ -163,6 +163,7 @@ initiate       noun
 initiation     noun
 initiative     noun
 injection      noun
+Injun noun style=offensive note=derogatory term for Indigenous Americans
 injunction     noun
 injury         noun
 injustice      noun

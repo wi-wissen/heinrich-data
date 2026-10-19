@@ -28,6 +28,7 @@ kick           noun
 kickoff noun conf=90 note=also kick-off
 kid            noun
 kidney         noun
+kike noun style=offensive note=antisemitic slur
 kill           noun
 killer         noun
 killing        noun
@@ -74,4 +75,5 @@ knuckle noun
 koala noun
 Korean         noun
 KPI noun abbr note=key performance indicator
+Kraut noun style=offensive note=slur for Germans
 Kurdish noun pl=- note=the language

@@ -7,6 +7,7 @@ jazz verb
 jeopardize verb gb=jeopardise|jeopardize
 jerk verb
 jest           verb
+jew verb style=offensive note=antisemitic verb (to haggle); the noun is Jew
 jingle verb
 jog verb
 join           verb

@@ -469,6 +469,7 @@ muddle noun
 muffin noun
 mug noun
 Mughal noun
+mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
 mule           noun
 multimedia noun pl=- note=uncountable
 multinational  noun
