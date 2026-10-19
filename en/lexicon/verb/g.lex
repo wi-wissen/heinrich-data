@@ -30,6 +30,7 @@ gleam          verb
 glide          verb
 glimmer verb
 glimpse        verb
+glint verb
 glisten verb
 glitter        verb
 glorify verb
@@ -61,6 +62,7 @@ greet          verb
 gridlock verb
 grieve verb
 grill verb
+grimace verb
 grin           verb
 grind          verb past=ground pp=ground
 grip           verb

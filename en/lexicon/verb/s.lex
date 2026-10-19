@@ -50,6 +50,7 @@ scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+scuffle verb
 sculpture verb
 scuttle verb
 seal verb
@@ -67,6 +68,7 @@ see verb past=saw pp=seen
 seed verb
 seek verb past=sought pp=sought
 seem verb
+seethe verb
 segregate verb
 seize verb
 select verb
@@ -75,6 +77,7 @@ send verb past=sent pp=sent
 sense verb
 sentence verb
 separate verb
+sequence verb
 sequester verb
 serve verb
 service verb
@@ -117,6 +120,7 @@ shove verb
 shovel verb
 show verb past=showed pp=shown|showed
 showcase verb
+shower verb
 shred verb
 shriek verb
 shrink verb past=shrank|shrunk pp=shrunk|shrunken note=shrunken is mostly adjectival
@@ -181,6 +185,7 @@ slice verb
 slide verb past=slid pp=slid
 slim verb
 sling verb past=slung pp=slung
+slink verb past=slunk pp=slunk
 slip verb
 slit verb past=slit pp=slit
 slither verb
@@ -391,6 +396,7 @@ subsidize verb gb=subsidise|subsidize
 subsist verb
 substantiate verb
 substitute verb
+subsume verb
 subtitle verb
 subtract verb
 succeed verb

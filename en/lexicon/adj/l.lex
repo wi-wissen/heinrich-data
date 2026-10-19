@@ -43,6 +43,7 @@ lesbian       adj
 lesser        adj attr_only
 lethal        adj
 level         adj cmp=more
+lexical adj adv=lexically
 LGBT          adj abbr note=lesbian, gay, bisexual and transgender
 LGBTQ         adj abbr note=lesbian, gay, bisexual, transgender and queer
 liable        adj pred_only
@@ -64,6 +65,7 @@ linguistic    adj adv=linguistically
 liquid        adj
 literal       adj adv=literally
 literary      adj
+literate adj cmp=more
 Lithuanian    adj
 little        adj cmp=littler sup=littlest conf=85 note=less/least (quantity sense) are in closed/
 liturgical adj
@@ -92,6 +94,7 @@ loyal         adj cmp=more adv=loyally
 lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
+lumbar adj
 luminous adj
 lumpy adj cmp=er
 lunar         adj

@@ -35,6 +35,7 @@ data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
 date noun
+dative noun
 datum noun pl=data
 daughter noun
 dauphin noun
@@ -48,6 +49,7 @@ deacon noun
 deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
+deadlock noun
 deal noun
 dealer noun
 dealership noun
@@ -82,6 +84,7 @@ decline noun
 decomposition noun
 decompression noun
 decoration noun
+decoy noun
 decrease noun
 decree noun
 decryption noun pl=- note=uncountable
@@ -151,6 +154,7 @@ demonstration noun
 demonstrator noun
 demotion noun
 den noun
+dengue noun pl=- note=uncountable
 denial noun
 denomination noun
 denominator noun
@@ -204,6 +208,7 @@ desktop noun
 desolation noun
 despair noun
 desperation noun pl=- note=uncountable
+despot noun
 despotism noun
 dessert noun
 destination noun
@@ -256,6 +261,7 @@ diary noun
 diaspora noun
 dice noun pl=dice
 dictate noun
+dictation noun
 dictator noun
 dictatorship noun
 diction noun pl=- note=uncountable
@@ -331,6 +337,7 @@ discredit noun pl=- note=uncountable
 discrepancy noun
 discretion noun pl=- note=uncountable
 discrimination noun
+discus noun
 discussion noun
 disdain noun
 disease noun
@@ -378,6 +385,8 @@ dissident noun
 dissipation noun
 dissolution noun
 distance noun
+distillate noun
+distillation noun
 distillery noun
 distinction noun
 distortion noun
@@ -404,6 +413,7 @@ dividend noun
 divinity noun
 division noun
 divorce noun
+dizziness noun pl=- note=uncountable
 DJ noun abbr note=disc jockey
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
@@ -411,6 +421,7 @@ do noun pl=dos conf=85 note=a party (informal); dos and don'ts
 doc noun note=colloquial: doctor, document
 dock noun
 docket noun
+dockyard noun
 doctor noun
 doctorate noun
 doctrine noun
@@ -500,6 +511,7 @@ dream noun
 dreamer noun
 dress noun
 dressing noun
+dressmaker noun
 drift noun
 drill noun
 drilling noun
@@ -512,7 +524,9 @@ drone noun
 drop noun
 dropdown noun conf=85 note=also drop-down
 droplet noun
+dropout noun
 drought noun
+drowsiness noun pl=- note=uncountable
 drug noun
 drum noun
 drummer noun
@@ -538,6 +552,7 @@ dungeon noun
 duo noun
 duplicate noun
 duplication noun
+duplicity noun pl=- note=uncountable
 durability noun pl=- note=uncountable
 duration noun
 dusk noun

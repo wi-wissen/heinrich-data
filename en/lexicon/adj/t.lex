@@ -49,9 +49,11 @@ thick adj cmp=er adv=thickly
 thin adj cmp=er adv=thinly
 thirsty adj cmp=er
 thoracic adj
+thorny adj cmp=er
 thorough adj cmp=more adv=thoroughly
 thoughtful adj cmp=more adv=thoughtfully
 thoughtless adj cmp=more adv=thoughtlessly
+threadbare adj
 thrifty adj cmp=er adv=thriftily
 thrilled adj
 thrilling adj
@@ -77,6 +79,8 @@ toothless adj
 top adj
 topical adj
 topmost adj
+topographic adj
+topographical adj
 topological adj adv=topologically
 total adj adv=totally
 tough adj cmp=er
@@ -87,6 +91,7 @@ tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 trans adj note=transgender; also chemistry (trans isomer)
 transatlantic adj
+transcendent adj
 transcontinental adj
 transferable adj
 transformational adj
@@ -98,7 +103,7 @@ transitive adj adv=transitively
 transitory adj
 transnational adj
 transparent adj cmp=more
-transverse adj
+transverse adj adv=transversely
 traumatic adj
 treacherous adj
 treble adj
@@ -109,6 +114,7 @@ triangular adj
 tribal adj
 tricky adj cmp=er
 trifling adj
+trilateral adj
 triple adj
 triumphant adj adv=triumphantly
 trivial adj

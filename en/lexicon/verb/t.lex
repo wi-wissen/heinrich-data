@@ -74,6 +74,7 @@ tickle verb
 tidy verb
 tie verb
 tighten verb
+tile verb
 tilt verb
 time verb
 timestamp verb conf=70
@@ -151,6 +152,7 @@ troll verb
 trot verb
 trouble verb
 troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
+truck verb
 trudge verb
 trump verb
 truncate verb

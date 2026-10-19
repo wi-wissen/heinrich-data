@@ -10,7 +10,10 @@ yearning noun
 yeast noun
 yell noun
 yellow noun
+yen noun pl=yen|yens conf=90 note=currency plural yen; yens for the sense longing
+yeshiva noun
 yesterday noun
+yew noun
 yid noun style=offensive note=antisemitic slur
 yield noun
 yo-yo noun pl=yo-yos

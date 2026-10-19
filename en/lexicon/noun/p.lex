@@ -13,6 +13,7 @@ pagan noun
 page noun
 pageant noun
 pager noun
+pagoda noun
 pail noun
 pain noun
 paint noun
@@ -43,6 +44,7 @@ panel noun
 panelist noun gb=panellist
 pang noun
 panic noun
+pantheon noun
 panther noun
 pantomime noun
 pants noun pl_only
@@ -66,6 +68,7 @@ paragraph noun
 parakeet noun
 paralegal noun
 parallel noun
+parallelism noun
 paralysis noun pl=paralyses
 paramedic noun
 parameter noun
@@ -73,6 +76,7 @@ paramilitary noun
 parapet noun
 parasite noun
 parasol noun
+paratrooper noun
 parcel noun
 parchment noun
 pardon noun
@@ -93,13 +97,16 @@ parlor noun gb=parlour
 parody noun
 parole noun
 parrot noun
+parser noun
 parsley noun pl=- note=uncountable
 parsnip noun
 parson noun
+parsonage noun
 part noun
 participant noun
 participation noun pl=- note=uncountable
 participator noun
+participle noun
 particle noun
 particular noun
 particulate noun
@@ -115,6 +122,7 @@ pass noun
 passage noun
 passcode noun
 passenger noun
+passer-by noun pl=passers-by
 passion noun
 passive noun
 passphrase noun
@@ -216,6 +224,7 @@ penguin noun
 peninsula noun
 penis noun pl=penises|penes
 penitent noun
+penitentiary noun
 penknife noun pl=penknives
 pennant noun
 penny noun pl=pennies|pence
@@ -300,6 +309,7 @@ phishing noun pl=- note=uncountable
 phoenix noun
 phone noun
 phonetics noun pl=- note=takes a singular verb
+phonograph noun
 phosphate noun
 phosphorus noun pl=- note=uncountable
 photo noun pl=photos
@@ -310,7 +320,9 @@ photographer noun
 photography noun pl=- note=uncountable
 photon noun
 phrase noun
+phraseology noun
 phratry noun
+phylum noun pl=phyla
 physician noun
 physicist noun
 physics noun pl=- note=uncountable
@@ -324,6 +336,7 @@ picket noun
 pickup noun
 picnic noun
 picture noun
+picturesqueness noun pl=- note=uncountable
 pie noun
 piece noun
 pier noun
@@ -334,6 +347,7 @@ piglet noun
 pigment noun
 pike noun
 pikey noun style=offensive note=slur for Travellers and Roma
+pilaster noun
 pile noun
 pilgrim noun
 pilgrimage noun
@@ -418,6 +432,7 @@ playtime noun
 playwright noun
 plaza noun
 plea noun
+pleading noun
 pleasure noun
 pledge noun
 plenty noun pl=- note=uncountable
@@ -465,12 +480,15 @@ policewoman noun pl=policewomen
 policy noun
 policyholder noun
 policymaker noun
+policymaking noun pl=- note=uncountable
+polio noun pl=- note=uncountable
 Polish noun pl=- note=the language
 polish noun
 politeness noun pl=- note=uncountable
 politician noun
 politics noun pl=- note=singular or plural agreement
 polity noun
+polka noun
 poll noun
 pollen noun note=plural pollens: kinds of pollen
 pollock noun pl=pollock|pollocks gb=pollack|pollock
@@ -526,6 +544,7 @@ possession noun
 possessor noun
 possibility noun
 post noun
+post-mortem noun note=also written postmortem
 postage noun pl=- note=uncountable
 postcard noun
 postcode noun region=GB note=US zip code
@@ -559,6 +578,7 @@ power noun
 powerhouse noun
 PPE noun abbr pl=- note=personal protective equipment; also philosophy, politics and economics
 PR noun abbr note=public relations; also Puerto Rico, proportional representation
+practicability noun pl=- note=uncountable
 practice noun
 practitioner noun
 pragmatism noun pl=- note=uncountable
@@ -589,6 +609,7 @@ predicament noun
 predicate noun
 predictability noun pl=- note=uncountable
 prediction noun
+predictor noun
 preemption noun note=British texts mostly hyphenate (pre-emption)
 preface noun
 prefect noun
@@ -649,6 +670,7 @@ primacy noun pl=- note=uncountable
 primary noun
 primate noun
 prime noun
+primrose noun
 prince noun
 princess noun
 principal noun
@@ -688,6 +710,7 @@ processor noun
 proclamation noun
 procrastination noun pl=- note=uncountable
 procurement noun note=plural procurements: individual purchases
+prodigal noun
 produce noun pl=- note=uncountable
 producer noun
 product noun
@@ -725,6 +748,7 @@ promontory noun
 promoter noun
 promotion noun
 prompt noun
+promptness noun pl=- note=uncountable
 promulgation noun
 prong noun
 pronoun noun
@@ -750,6 +774,7 @@ proprietor noun
 proprietorship noun
 propriety noun
 propulsion noun pl=- note=uncountable
+proscription noun
 prose noun pl=- note=uncountable
 prosecution noun
 prosecutor noun
@@ -758,6 +783,7 @@ prospector noun
 prospectus noun pl=prospectuses
 prosperity noun pl=- note=uncountable
 prostate noun
+prosthetic noun
 prostitute noun
 prostitution noun pl=- note=uncountable
 protagonist noun
@@ -825,6 +851,7 @@ puncture noun
 pundit noun
 punishment noun
 punk noun
+punt noun
 pup noun
 pupa noun pl=pupae
 pupil noun
@@ -832,6 +859,7 @@ puppet noun
 puppy noun
 purchase noun
 purchaser noun
+purgatory noun
 purge noun
 purification noun
 puritan noun

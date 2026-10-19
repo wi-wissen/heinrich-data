@@ -1,3 +1,4 @@
+oaken adj
 obedient adj cmp=more adv=obediently
 obese adj cmp=more
 objectionable adj cmp=more
@@ -19,6 +20,7 @@ occult adj
 occupational   adj
 oceanic        adj
 octagonal adj
+ocular adj
 odd            adj cmp=er adv=oddly
 odious adj
 offensive      adj cmp=more adv=offensively
@@ -56,6 +58,7 @@ optical        adj
 optimal        adj adv=optimally
 optimistic     adj cmp=more adv=optimistically
 optional       adj adv=optionally
+opulent adj
 oral           adj adv=orally
 orange         adj
 orbital        adj
@@ -79,6 +82,7 @@ outdated       adj
 outdoor        adj attr_only
 outer          adj attr_only
 outgoing adj
+outlandish adj
 outlying adj
 outpatient     adj
 outrageous     adj adv=outrageously
@@ -97,6 +101,7 @@ overdrawn adj
 overdue adj
 overgrown adj
 overhead       adj
+overjoyed adj
 overland adj
 overnight      adj
 overpowering adj cmp=more adv=overpoweringly

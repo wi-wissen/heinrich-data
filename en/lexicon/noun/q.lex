@@ -32,6 +32,7 @@ questionnaire noun
 queue noun
 quickness noun pl=- note=uncountable
 quiet         noun pl=- note=uncountable
+quietness noun pl=- note=uncountable
 quill noun
 quilt noun
 quintet noun

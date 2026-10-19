@@ -16,6 +16,7 @@ ramp verb
 ranch verb
 range verb
 rank verb
+ransack verb
 ransom verb
 rap verb
 rape verb
@@ -103,6 +104,7 @@ redress verb
 reduce verb
 reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
+reevaluate verb note=also written re-evaluate
 ref verb style=colloquial double conf=80 note=to referee
 refer verb double
 referee verb
@@ -257,6 +259,7 @@ retail verb
 retain verb
 retake verb prefix=re past=retook pp=retaken
 retaliate verb
+retard verb note=to slow down
 rethink verb prefix=re past=rethought pp=rethought
 retire verb
 retort verb

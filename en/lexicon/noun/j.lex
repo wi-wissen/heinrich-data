@@ -12,6 +12,7 @@ Jap noun style=offensive note=slur for Japanese people
 Japanese       noun pl=Japanese
 jar noun
 jargon noun pl=- note=uncountable
+jaundice noun pl=- note=uncountable
 javelin noun
 jaw            noun
 jay noun
@@ -26,10 +27,12 @@ jersey         noun
 jest           noun
 Jesuit         noun
 jet            noun
+jetty noun
 Jew            noun
 jewel          noun
 jeweler noun gb=jeweller
 jewelry noun gb=jewellery pl=- note=uncountable
+jib noun
 jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
 jingle noun

@@ -7,6 +7,7 @@ hale adj
 halfway        adj attr_only
 handsome       adj cmp=er|more adv=handsomely
 handy adj cmp=er
+haphazard adj adv=haphazardly
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
 hardcore adj
@@ -62,13 +63,16 @@ holy           adj cmp=er
 homegrown adj
 homeless       adj
 homely adj cmp=er|more
+homemade adj
 homesick adj
 homeward adj
 homogeneous adj
+homophobic adj
 homosexual adj
 honest         adj cmp=more adv=honestly
 honorable      adj gb=honourable adv=honorably
 honorary       adj
+hooded adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally

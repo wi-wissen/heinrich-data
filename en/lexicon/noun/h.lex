@@ -19,6 +19,7 @@ half-life      noun pl=half-lives
 halibut        noun pl=halibut|halibuts
 hall           noun
 hallmark noun
+hallucination noun
 hallway noun
 halo noun pl=haloes|halos
 halt           noun
@@ -32,6 +33,7 @@ hand           noun
 handbag noun
 handball noun
 handbook noun
+handcuff noun
 handful        noun
 handicap noun
 handkerchief   noun note=plural handkerchiefs
@@ -44,6 +46,7 @@ handshake noun
 handwriting    noun
 hangar noun
 hanger noun
+hansom noun
 happiness      noun pl=- note=uncountable
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
@@ -69,11 +72,13 @@ hatch noun
 hate           noun
 hatred         noun
 haul           noun
+haulage noun pl=- note=uncountable
 haunt          noun
 haven          noun
 havoc noun pl=- note=uncountable
 Hawaiian       noun
 hawk           noun
+hawthorn noun
 hay            noun pl=- note=uncountable
 hazard         noun
 haze           noun
@@ -105,6 +110,7 @@ hearer noun
 hearing        noun
 hearsay noun pl=- note=uncountable
 heart          noun
+heartbreak noun
 hearth         noun
 heat           noun
 heater         noun
@@ -126,6 +132,7 @@ heir           noun
 heiress        noun
 helicopter     noun
 helium noun pl=- note=uncountable
+helix noun pl=helices|helixes
 hell           noun
 helm           noun
 helmet         noun
@@ -136,7 +143,10 @@ helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
 hemisphere noun
+hemlock noun
+hemoglobin noun pl=- gb=haemoglobin note=uncountable
 hen noun
+henchman noun pl=henchmen
 hepatitis noun pl=- note=uncountable
 herald         noun
 herb noun
@@ -145,6 +155,7 @@ heresy noun
 heretic noun
 heritage       noun
 hermit noun
+hermitage noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
 heroine noun
@@ -153,11 +164,13 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+hexameter noun
 hiatus noun pl=hiatuses|hiatus
 hiccup noun
 hickory noun
 hide           noun
 hierarchy      noun
+hieroglyphic noun
 high           noun
 highchair noun
 highland       noun
@@ -267,6 +280,7 @@ Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the K
 hound          noun
 hour           noun
 house          noun
+housebuilding noun pl=- note=uncountable
 household      noun
 householder    noun
 housekeeper    noun
@@ -317,6 +331,7 @@ hybrid         noun
 hydrocarbon noun
 hydrogen       noun pl=- note=uncountable
 hydropower noun pl=- note=uncountable
+hydroxide noun
 hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun

@@ -2,6 +2,7 @@ T-shirt noun note=also tee shirt
 tab noun
 tabernacle noun
 table noun
+tableau noun pl=tableaux|tableaus
 tablecloth noun
 tablespoon noun
 tablet noun
@@ -28,6 +29,7 @@ talent noun
 talk noun
 talker noun
 tally noun
+tambourine noun
 Tamil noun
 tan noun
 tandem noun
@@ -45,6 +47,7 @@ tarantula noun
 target noun
 tariff noun
 tart noun
+tartan noun
 task noun
 taskforce noun
 taste noun
@@ -261,6 +264,7 @@ tom noun note=male cat or turkey
 tomato noun pl=tomatoes
 tomb noun
 tombstone noun
+tomography noun pl=- note=uncountable
 tomorrow noun note=plural tomorrows is literary (better tomorrows)
 ton noun
 tone noun
@@ -333,6 +337,7 @@ tractor noun
 trade noun
 trademark noun
 trader noun
+tradesman noun pl=tradesmen
 tradition noun
 traffic noun pl=- note=uncountable
 trafficker noun
@@ -368,6 +373,7 @@ transition noun
 translation noun
 translator noun
 transmission noun
+transmittal noun
 transmitter noun
 transparency noun
 transplant noun
@@ -399,6 +405,7 @@ trek noun
 tremor noun
 trench noun
 trend noun
+trepidation noun pl=- note=uncountable
 trespass noun
 trial noun
 triangle noun
@@ -409,9 +416,11 @@ tributary noun
 tribute noun
 trick noun
 trickle noun
+tricolor noun gb=tricolour
 trifle noun
 trilogy noun
 trinity noun
+trinket noun
 trio noun
 trip noun
 triplicate noun pl=- note=in triplicate
@@ -475,9 +484,11 @@ turnip noun
 turnout noun
 turnover noun
 turnpike noun
+turpentine noun pl=- note=uncountable
 turret noun
 turtle noun
 tusk noun
+tutelage noun pl=- note=uncountable
 tutor noun
 tutorial noun
 TV noun abbr note=television

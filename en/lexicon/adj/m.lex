@@ -67,6 +67,7 @@ meek adj cmp=er adv=meekly
 melancholy    adj
 mellow adj cmp=er
 melodic adj
+melodramatic adj adv=melodramatically
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
@@ -137,6 +138,7 @@ momentous adj
 monastic      adj
 monetary      adj
 Mongol adj
+mono adj note=monophonic; also short for mononucleosis
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
@@ -147,6 +149,7 @@ moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
 Moroccan adj
+morose adj adv=morosely
 morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
@@ -158,6 +161,7 @@ mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
+multicultural adj
 multifamily adj
 multilateral  adj
 multilingual adj
@@ -173,6 +177,7 @@ musical       adj adv=musically
 Muslim        adj
 mutant adj
 mute adj adv=mutely
+mutinous adj
 mutual        adj adv=mutually
 myriad adj
 mysterious    adj cmp=more adv=mysteriously

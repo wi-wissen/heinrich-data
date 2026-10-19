@@ -34,6 +34,7 @@ Celtic adj
 centennial adj
 centered adj gb=centred
 central adj adv=centrally
+centrifugal adj
 ceramic adj
 cerebral adj
 ceremonial adj adv=ceremonially
@@ -51,6 +52,7 @@ chatty adj cmp=er
 cheap adj cmp=er adv=cheaply
 cheeky adj cmp=er adv=cheekily
 cheerful adj cmp=more adv=cheerfully
+cheerless adj
 cheery adj cmp=er adv=cheerily
 cheesy adj cmp=er
 chemical adj adv=chemically
@@ -72,6 +74,7 @@ chronological adj adv=chronologically
 chubby adj cmp=er
 cinematic adj
 circadian adj
+circuitous adj
 circular adj
 citywide adj
 civic adj
@@ -102,6 +105,7 @@ coastal adj
 coercive adj
 cognate adj
 cognitive adj adv=cognitively
+cognizant adj gb=cognisant|cognizant
 coherent adj cmp=more adv=coherently
 cohesive adj cmp=more
 cold adj cmp=er adv=coldly
@@ -145,6 +149,7 @@ complete adj cmp=more adv=completely
 complex adj cmp=more
 compliant adj cmp=more
 complicated adj cmp=more
+complicit adj
 complimentary adj
 composite adj
 compound adj
@@ -173,6 +178,7 @@ congenial adj cmp=more
 congenital adj adv=congenitally
 congregational adj
 congressional adj
+congruent adj
 conical adj
 conscientious adj cmp=more adv=conscientiously
 conscious adj cmp=more adv=consciously
@@ -209,6 +215,7 @@ contradictory adj
 contrary adj
 contrived adj cmp=more
 controversial adj cmp=more adv=controversially
+convective adj
 convenient adj cmp=more adv=conveniently
 conventional adj cmp=more adv=conventionally
 converse adj adv=conversely

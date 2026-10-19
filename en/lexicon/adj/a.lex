@@ -34,6 +34,7 @@ acute adj cmp=er|more adv=acutely
 adaptable adj cmp=more
 adaptive adj
 addicted adj
+addictive adj cmp=more
 additional adj adv=additionally
 adequate adj adv=adequately
 adhesive adj
@@ -45,6 +46,7 @@ admissible adj
 adolescent adj
 adoptive adj
 adorable adj cmp=more adv=adorably
+adrenal adj
 adrift adj pred_only
 adult adj
 advanced adj cmp=more
@@ -54,6 +56,7 @@ adverse adj cmp=more adv=adversely
 advisable adj
 advisory adj
 aerial adj
+aerobatic adj
 aerodynamic adj adv=aerodynamically
 aeronautical adj
 aesthetic adj us=esthetic|aesthetic adv=aesthetically conf=90 note=esthetic is a rarer American spelling
@@ -113,6 +116,7 @@ amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
 amino adj attr_only note=as in amino acid
 amiss adj pred_only
+amorphous adj
 amphibious adj
 ample adj cmp=er adv=amply
 amusing adj cmp=more adv=amusingly
@@ -140,6 +144,7 @@ antagonistic adj
 Antarctic adj
 anterior adj
 anthropogenic adj
+anthropological adj
 anti-aircraft adj
 antidumping adj
 antiquarian adj
@@ -149,6 +154,7 @@ antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 antitrust adj
 anxious adj cmp=more adv=anxiously
+apocryphal adj
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
@@ -161,8 +167,10 @@ appreciative adj cmp=more adv=appreciatively
 apprehensive adj cmp=more
 approachable adj cmp=more
 appropriate adj adv=appropriately
+approvable adj
 approximate adj adv=approximately
 apt adj cmp=er|more adv=aptly
+aqua adj
 aquatic adj
 aqueous adj
 Arab adj
@@ -202,6 +210,7 @@ assistive adj
 associate adj
 assured adj adv=assuredly
 Assyrian adj
+astir adj pred_only
 astronomical adj adv=astronomically
 Athenian adj
 athletic adj
@@ -219,6 +228,7 @@ audible adj adv=audibly
 auditable adj
 auditory adj
 august adj note=dignified (an august body)
+auspicious adj
 austere adj cmp=more adv=austerely
 Australian adj
 Austrian adj
@@ -230,6 +240,7 @@ autobiographical adj
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously
+autosomal adj
 autumnal adj
 auxiliary adj
 available adj

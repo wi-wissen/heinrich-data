@@ -48,6 +48,7 @@ wireless adj
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily
+woeful adj adv=woefully
 womanly adj cmp=more
 wonderful adj cmp=more adv=wonderfully
 wondrous adj
@@ -68,4 +69,5 @@ worthy adj cmp=er
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly
+wrongful adj adv=wrongfully
 wrought adj note=archaic past of work; wrought iron

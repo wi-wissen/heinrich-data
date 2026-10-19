@@ -85,6 +85,7 @@ actor noun
 actress noun
 actuary noun
 acuity noun
+acuteness noun pl=- note=uncountable
 ad noun
 adaptability noun pl=- note=uncountable
 adaptation noun
@@ -125,6 +126,7 @@ adolescent noun
 adopter noun
 adoption noun
 adoration noun pl=- note=uncountable
+adornment noun
 adult noun
 adultery noun pl=- note=uncountable
 adulthood noun pl=- note=uncountable
@@ -170,6 +172,7 @@ African noun
 afterlife noun pl=afterlives
 aftermath noun
 afternoon noun
+afterthought noun
 age noun
 agency noun
 agenda noun
@@ -178,6 +181,7 @@ aggregate noun
 aggregation noun
 aggregator noun
 aggression noun
+aggressor noun
 agility noun pl=- note=uncountable
 agitation noun
 AGM noun abbr note=annual general meeting
@@ -204,6 +208,7 @@ airport noun
 airship noun
 airspace noun
 airstrike noun
+airstrip noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
@@ -349,6 +354,7 @@ antiquity noun
 antisemitism noun pl=- note=uncountable
 antivirus noun
 antler noun
+anvil noun
 anxiety noun
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartheid noun pl=- note=uncountable
@@ -404,6 +410,7 @@ aqueduct noun
 aquifer noun
 Arab noun
 Arabic noun pl=- note=the language
+arbiter noun
 arbitration noun
 arbitrator noun
 arc noun
@@ -433,12 +440,14 @@ aristocrat noun
 arithmetic noun pl=- note=uncountable
 ark noun
 arm noun
+armada noun
 armadillo noun pl=armadillos
 armament noun
 armchair noun
 Armenian noun
 armistice noun
 armor noun gb=armour
+armory noun gb=armoury
 armpit noun
 army noun
 aromatic noun
@@ -586,9 +595,11 @@ average noun
 aversion noun
 aviation noun pl=- note=uncountable
 aviator noun
+avionics noun pl=- note=uncountable
 avocado noun pl=avocados
 avoidance noun pl=- note=uncountable
 award noun
+awardee noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable
 axe noun us=ax|axe

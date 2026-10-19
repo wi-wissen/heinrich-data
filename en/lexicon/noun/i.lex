@@ -18,6 +18,7 @@ ideology       noun
 idiom noun
 idiot noun
 idleness noun
+idler noun
 idol           noun
 ignition noun
 ignorance      noun
@@ -35,6 +36,7 @@ imagery        noun pl=- note=uncountable
 imagination    noun
 imaging        noun pl=- note=uncountable
 imbalance noun
+imbecile noun
 imitation      noun
 immersion noun
 immigrant      noun
@@ -72,6 +74,7 @@ improvisation noun
 impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
+imputation noun
 inability      noun
 inaccuracy noun
 inaction noun pl=- note=uncountable
@@ -91,6 +94,7 @@ incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
+incitement noun
 inclination    noun
 incline        noun
 inclusion      noun
@@ -200,9 +204,11 @@ insertion noun
 insider noun
 insight        noun
 insignia noun pl=insignia|insignias
+insignificance noun pl=- note=uncountable
 insistence noun
 insolence noun
 insolvency     noun
+insomnia noun pl=- note=uncountable
 inspection     noun
 inspector      noun
 inspectorate   noun
@@ -235,11 +241,13 @@ integrity      noun pl=- note=uncountable
 intellect      noun
 intellectual   noun
 intelligence   noun note=plural intelligences: kinds of intelligence, agencies
+intensification noun
 intensity      noun
 intent         noun
 intention      noun
 interaction    noun
 interception noun
+intercession noun
 interchange    noun
 interconnection noun
 intercourse    noun pl=- note=uncountable

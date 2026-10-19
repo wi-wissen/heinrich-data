@@ -5,6 +5,7 @@ race noun
 racecourse noun
 racehorse noun
 racer noun
+racetrack noun
 racing noun pl=- note=uncountable
 racism noun pl=- note=uncountable
 racist noun
@@ -37,6 +38,7 @@ raincoat noun
 raindrop noun
 rainfall noun
 rainforest noun
+rainwater noun pl=- note=uncountable
 raise noun
 raisin noun
 raja noun conf=90 note=also spelled rajah
@@ -88,8 +90,11 @@ re-election noun us=reelection|re-election
 re-release noun
 reach noun
 reaction noun
+reactivity noun
 reactor noun
+readability noun pl=- note=uncountable
 reader noun
+readership noun
 readiness noun pl=- note=uncountable
 reading noun
 reagent noun
@@ -133,9 +138,11 @@ recital noun
 recklessness noun pl=- note=uncountable
 reclamation noun
 reclassification noun
+recluse noun
 recognition noun
 recoil noun
 recollection noun
+recombination noun
 recommendation noun
 reconciliation noun
 reconnaissance noun pl=- note=uncountable
@@ -268,6 +275,7 @@ remonstrance noun
 remorse noun pl=- note=uncountable
 remortgage noun region=GB
 remote noun note=remote control
+remoteness noun pl=- note=uncountable
 removable noun conf=80 note=a removable part; rare as a noun
 removal noun
 remuneration noun
@@ -484,6 +492,7 @@ robe noun
 robin noun
 robot noun
 robotics noun pl=- note=uncountable
+robustness noun pl=- note=uncountable
 rock noun
 rocker noun
 rocket noun
@@ -503,13 +512,16 @@ Romanian noun note=demonym or religious name, capitalized
 romantic noun
 roof noun pl=roofs
 roofing noun pl=- note=material
+rooftop noun
 rook noun
 rookie noun
 room noun
+roommate noun
 rooster noun
 root noun
 rope noun
 rose noun
+rosebud noun
 rosemary noun pl=- note=uncountable
 roster noun
 rostrum noun
@@ -517,6 +529,7 @@ rot noun
 rota noun region=GB note=US roster, schedule
 rotary noun
 rotation noun
+rotavirus noun
 rotor noun
 rouge noun
 rough noun

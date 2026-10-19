@@ -23,12 +23,15 @@ fastidious adj cmp=more adv=fastidiously
 fat            adj cmp=er
 fatal          adj adv=fatally
 fatty adj cmp=er
+faultless adj adv=faultlessly
 faulty adj cmp=er|more
 favorable      adj gb=favourable adv=favorably
 favorite       adj gb=favourite
 fearful        adj adv=fearfully
 fearless adj adv=fearlessly
+fearsome adj
 feasible       adj
+feathery adj
 federal        adj adv=federally
 federalist adj
 feeble         adj cmp=er adv=feebly
@@ -59,11 +62,13 @@ Finnish        adj
 firm           adj cmp=er adv=firmly
 firsthand adj
 fiscal         adj adv=fiscally
+fissile adj
 fit            adj cmp=er
 fitting        adj adv=fittingly
 fixed          adj
 fizzy adj cmp=er
 flagrant adj adv=flagrantly
+flamboyant adj adv=flamboyantly
 flammable adj
 flat           adj cmp=er adv=flatly
 flawed adj
@@ -74,6 +79,7 @@ Flemish        adj
 flexible       adj cmp=more adv=flexibly
 floppy adj cmp=er
 floral adj
+florid adj
 flowery adj cmp=more
 fluent adj adv=fluently
 fluffy adj cmp=er
@@ -125,6 +131,7 @@ French         adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+fretful adj adv=fretfully
 friendly       adj cmp=er
 frightened adj cmp=more
 frightful      adj adv=frightfully

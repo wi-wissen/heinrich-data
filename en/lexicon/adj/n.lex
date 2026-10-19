@@ -55,13 +55,17 @@ noisy           adj cmp=er adv=noisily
 nomadic adj
 nominal         adj adv=nominally
 nonbinding adj conf=80 note=also non-binding
+noncompliant adj
+nongovernmental adj
 nonimmigrant    adj
 nonpartisan adj
 nonprescription adj
 nonprofit       adj
 nonquantitative adj
 nonrefundable adj conf=85 note=also non-refundable
+nonsensical adj
 nonstop adj
+nonviolent adj
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
@@ -90,6 +94,7 @@ nuclear         adj
 nucleic adj
 nude adj
 null adj note=null and void
+numb adj cmp=er adv=numbly
 numerate adj region=GB
 numeric adj adv=numerically
 numerical       adj adv=numerically

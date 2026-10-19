@@ -41,6 +41,7 @@ unionist      noun
 unison noun
 unit          noun
 unity         noun note=plural unities: the dramatic unities
+universality noun pl=- note=uncountable
 universe      noun
 university    noun
 unknown       noun

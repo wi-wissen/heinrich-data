@@ -10,13 +10,18 @@ unaccountable adj adv=unaccountably
 unaccustomed adj
 unaffected adj
 unaffiliated adj
+unaltered adj
 unanimous      adj adv=unanimously
+unannounced adj
 unanswered adj
 unarmed adj
+unattainable adj
 unauthorized   adj gb=unauthorised|unauthorized
 unavailable    adj
+unavailing adj
 unavoidable adj adv=unavoidably
 unaware        adj pred_only
+unbalanced adj
 unbearable adj adv=unbearably
 unbeaten adj
 unbelievable adj adv=unbelievably
@@ -24,7 +29,9 @@ unborn adj
 unbounded adj
 unbroken       adj
 uncanny adj cmp=er|more adv=uncannily
+unceasing adj adv=unceasingly
 uncertain      adj cmp=more
+unchallenged adj
 unchanged      adj
 unchecked adj
 unclassified adj
@@ -41,10 +48,13 @@ unconventional adj
 uncouth adj cmp=more
 uncredited     adj
 uncrewed adj
+uncut adj
+undaunted adj
 undecided adj
 undefeated adj
 undefined adj
 undeniable adj adv=undeniably
+underage adj
 undercover adj
 undergraduate  adj
 underground    adj
@@ -57,25 +67,30 @@ understanding  adj
 underwater     adj
 underway       adj
 undesirable adj
+undetermined adj
 undeveloped adj
 undisclosed adj
+undisguised adj
 undisputed adj
 undisturbed adj
 undivided adj
 undocumented adj
 undoubted      adj adv=undoubtedly
 undue          adj attr_only adv=unduly
+undying adj
 unearthly adj
 uneasy         adj cmp=er adv=uneasily
 unemployable adj
 unemployed     adj
 unequal        adj adv=unequally
 unequivocal adj adv=unequivocally
+unethical adj adv=unethically
 uneven adj cmp=more adv=unevenly
 unexpected     adj adv=unexpectedly
 unexpired adj
 unexplained adj
 unfair         adj cmp=more adv=unfairly
+unfaithful adj
 unfamiliar adj
 unfavorable adj gb=unfavourable adv=unfavorably
 unfettered adj
@@ -91,6 +106,7 @@ unhappy        adj cmp=er adv=unhappily
 unharmed adj
 unhealthy adj cmp=er
 unheard adj
+unholy adj
 unidentified adj
 uniform        adj adv=uniformly
 uniformed adj
@@ -99,6 +115,7 @@ unimaginable adj
 unimportant adj
 unincorporated adj
 uninhabited adj
+uninjured adj
 uninsured adj
 unintelligible adj
 unintended     adj
@@ -111,6 +128,7 @@ unitary        adj
 universal      adj adv=universally
 unjust         adj adv=unjustly
 unjustified adj
+unkempt adj
 unkind adj cmp=er adv=unkindly
 unknown        adj
 unlawful       adj adv=unlawfully
@@ -134,6 +152,7 @@ unopposed adj
 unorganized    adj gb=unorganised|unorganized
 unpaid         adj
 unparalleled adj
+unpardonable adj
 unpleasant     adj cmp=more adv=unpleasantly
 unpopular      adj
 unprecedented  adj
@@ -156,9 +175,14 @@ unreleased adj
 unreliable adj
 unresolved adj
 unrestricted adj
+unrivaled adj gb=unrivalled
 unsafe         adj cmp=more
 unsatisfactory adj adv=unsatisfactorily
+unsatisfied adj
+unscathed adj
 unscrupulous   adj
+unsecured adj
+unseemly adj
 unseen         adj
 unselfish adj cmp=more adv=unselfishly
 unsettled adj
@@ -180,8 +204,10 @@ untenable adj
 untimely adj
 untold adj
 untouched adj
+untoward adj
 untreated adj
 untrue adj
+unusable adj
 unused         adj
 unusual        adj cmp=more adv=unusually
 unwanted adj
@@ -189,9 +215,11 @@ unwarranted    adj
 unwavering adj
 unwelcome adj
 unwell adj
+unwieldy adj
 unwilling      adj adv=unwillingly
 unwise adj cmp=more
 unwonted adj style=archaic
+unworkable adj
 unworthy       adj cmp=more
 upcoming       adj
 upland adj

@@ -1,6 +1,7 @@
 pagan adj
 painful adj cmp=more adv=painfully
 Pakistani adj note=demonym or religious name, capitalized
+palatial adj
 pale adj cmp=er
 Palestinian adj note=demonym or religious name, capitalized
 palliative adj
@@ -8,6 +9,7 @@ pallid adj cmp=more
 palpable adj adv=palpably
 paltry adj cmp=er|more
 pandemic adj
+panoramic adj
 papal adj
 paperless adj
 parallel adj
@@ -75,10 +77,12 @@ pertinent adj
 Peruvian adj note=demonym or religious name, capitalized
 pervasive adj cmp=more adv=pervasively
 perverse adj adv=perversely
+pessimistic adj adv=pessimistically
 petite adj note=of a woman: small and slim
 petty adj cmp=er
 phantom adj attr_only
 pharmaceutical adj
+pharmacological adj
 phenomenal adj cmp=more adv=phenomenally
 philanthropic adj
 philharmonic adj
@@ -137,6 +141,7 @@ populist adj
 populous adj
 pornographic adj
 portable adj
+portly adj cmp=er
 Portuguese adj note=demonym or religious name, capitalized
 positive adj cmp=more adv=positively
 possible adj cmp=more adv=possibly
@@ -144,6 +149,7 @@ postal adj
 posterior adj
 postgraduate adj
 posthumous adj
+postoperative adj
 postwar adj
 potent adj cmp=more
 potential adj adv=potentially
@@ -208,6 +214,7 @@ probable adj adv=probably
 probationary adj
 problematic adj cmp=more
 procedural adj adv=procedurally
+prodigal adj
 prodigious adj adv=prodigiously
 productive adj cmp=more adv=productively
 profane adj cmp=more
@@ -227,6 +234,7 @@ prone adj
 proof adj
 proper adj cmp=more adv=properly
 prophetic adj
+propitious adj
 proportional adj adv=proportionally
 proportionate adj adv=proportionately
 proprietary adj
@@ -234,6 +242,7 @@ prosaic adj cmp=more
 prospective adj
 prosperous adj cmp=more
 prostate adj conf=80 note=attributive use (prostate cancer) is often analysed as a noun
+prosthetic adj
 prostrate adj
 protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
@@ -259,4 +268,6 @@ pure adj cmp=er adv=purely
 puritan adj
 purple adj
 purported adj adv=purportedly
+purposeful adj adv=purposefully
 pursuant adj note=only in pursuant to
+putative adj adv=putatively

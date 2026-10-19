@@ -1,4 +1,5 @@
 wade verb
+waft verb
 wag verb
 wage verb
 wager verb
@@ -6,6 +7,7 @@ wail verb
 wait verb
 waive verb
 wake verb past=woke|waked[rare] pp=woken|waked[rare]
+waken verb
 walk verb
 wall verb
 waltz verb
@@ -65,6 +67,7 @@ wince verb
 wind verb past=wound pp=wound note=to turn or coil; to wind = to make breathless is not covered
 windsurf verb
 wink verb
+winter verb
 wipe verb
 wire verb
 wise verb
@@ -87,6 +90,7 @@ worst verb note=to defeat; worsted
 wound verb
 wrap verb
 wreak verb
+wreathe verb
 wreck verb
 wrench verb
 wrest verb

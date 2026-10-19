@@ -10,6 +10,7 @@ variable      adj
 various       adj adv=variously
 vascular adj
 vast          adj cmp=er adv=vastly
+vegetative adj
 vehement adj adv=vehemently
 venerable     adj
 Venetian      adj
@@ -59,5 +60,6 @@ volatile      adj cmp=more
 volcanic      adj
 volumetric adj
 voluntary     adj adv=voluntarily
+votive adj
 vulgar        adj cmp=more adv=vulgarly
 vulnerable    adj cmp=more

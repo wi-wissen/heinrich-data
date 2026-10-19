@@ -1,6 +1,7 @@
 partly adv
 patiently adv
 perchance adv style=archaic
+perforce adv
 perhaps adv
 piecemeal adv type=manner
 please adv note=politeness marker

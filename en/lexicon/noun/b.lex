@@ -95,6 +95,7 @@ barrage noun
 barrel noun
 barricade noun
 barrier noun
+barrio noun
 barrister noun
 barrow noun
 basalt noun
@@ -155,6 +156,7 @@ beau noun pl=beaux|beaus
 beauty noun
 beaver noun
 bed noun
+bedchamber noun
 bedding noun pl=- note=uncountable
 bedrock noun pl=- note=uncountable
 bedroom noun
@@ -203,11 +205,14 @@ Berber noun
 bereavement noun
 berry noun
 berth noun
+besieger noun
 bestie noun style=colloquial
 bestseller noun
 bet noun
 beta noun
 betrayal noun
+betrothal noun
+betterment noun pl=- note=uncountable
 beverage noun
 bewilderment noun pl=- note=uncountable
 bias noun
@@ -239,6 +244,7 @@ biologist noun
 biology noun pl=- note=uncountable
 biomarker noun
 biomass noun pl=- note=uncountable
+biometrics noun pl=- note=uncountable, the field; biometric is the adjective
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -277,6 +283,7 @@ blast noun
 blaze noun
 blazer noun
 bleach noun
+bleacher noun note=mostly plural bleachers (stadium seating)
 blend noun
 blender noun
 blessing noun
@@ -290,6 +297,7 @@ blizzard noun
 bloc noun
 block noun
 blockade noun
+blockbuster noun
 blockchain noun
 blocker noun
 blog noun
@@ -298,6 +306,7 @@ blond noun
 blonde noun
 blood noun
 bloodshed noun pl=- note=uncountable
+bloodstream noun
 bloom noun
 blossom noun
 blot noun
@@ -440,6 +449,7 @@ breed noun
 breeder noun
 breeze noun
 Breton noun
+breviary noun
 brevity noun pl=- note=uncountable
 brew noun
 brewer noun

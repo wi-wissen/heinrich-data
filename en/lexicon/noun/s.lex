@@ -4,6 +4,7 @@ sabre noun us=saber|sabre
 sack noun
 sacrament noun
 sacrifice noun
+sacrilege noun
 saddle noun
 sadness noun
 safe noun note=plural safes (strongbox)
@@ -66,6 +67,7 @@ satellite noun
 satin noun
 satire noun
 satisfaction noun
+satrap noun
 satsuma noun
 saturation noun
 sauce noun
@@ -121,6 +123,7 @@ schoolyard noun
 schooner noun
 science noun
 scientist noun
+scion noun
 scissors noun pl_only
 sclerosis noun
 scolding noun
@@ -129,6 +132,7 @@ scoop noun
 scooter noun
 scope noun
 score noun
+scoreboard noun
 scorer noun
 scorn noun
 scorpion noun
@@ -160,6 +164,7 @@ scrum noun
 scrunchie noun
 scruple noun
 scrutiny noun pl=- note=uncountable
+scuffle noun
 sculptor noun
 sculpture noun
 scuttle noun
@@ -182,6 +187,7 @@ seaside noun
 season noun
 seat noun
 seawater noun pl=- note=uncountable
+seaweed noun
 secession noun
 seclusion noun pl=- note=uncountable
 second noun note=unit of time; the ordinal is a numeral
@@ -214,6 +220,7 @@ selfishness noun pl=- note=uncountable
 seller noun
 semantics noun pl=- note=takes a singular verb
 semblance noun
+semen noun pl=- note=uncountable
 semester noun
 semi-final noun note=GB mostly hyphenated, US mostly semifinal
 semiconductor noun
@@ -237,6 +244,7 @@ sentinel noun
 sentry noun
 separation noun
 separatist noun
+sepsis noun pl=- note=uncountable
 septum noun pl=septa
 sepulchre noun us=sepulcher|sepulchre
 sequel noun
@@ -305,6 +313,7 @@ shelter noun
 shemale noun style=offensive note=transphobic slur
 shepherd noun
 sheriff noun
+sherry noun
 shield noun
 shift noun
 shilling noun
@@ -324,6 +333,7 @@ shiver noun
 shoal noun
 shock noun
 shoe noun
+shoemaker noun
 shogunate noun
 shooter noun
 shooting noun
@@ -349,6 +359,7 @@ shovel noun
 show noun
 showcase noun
 shower noun
+shrapnel noun pl=- note=uncountable
 shred noun
 shredder noun
 shrew noun
@@ -396,6 +407,7 @@ silk noun
 silo noun note=plural silos
 silver noun
 similarity noun
+simile noun
 simplicity noun
 simplification noun
 simulation noun
@@ -477,6 +489,7 @@ slot noun
 sloth noun
 slough noun
 Slovak noun
+slowness noun pl=- note=uncountable
 sludge noun
 slug noun
 sluice noun
@@ -510,6 +523,7 @@ sneer noun
 sneeze noun
 sniff noun
 sniper noun
+snooker noun pl=- note=uncountable
 snore noun
 snorkel noun
 snort noun
@@ -555,6 +569,7 @@ solidarity noun pl=- note=uncountable
 solitude noun
 solo noun pl=solos
 soloist noun
+solubility noun
 solution noun
 solvency noun
 solvent noun
@@ -699,6 +714,7 @@ squirrel noun
 stab noun
 stability noun
 stabilization noun gb=stabilisation|stabilization
+stabilizer noun gb=stabiliser|stabilizer
 stable noun
 stack noun
 stadium noun pl=stadiums|stadia[rare]
@@ -740,6 +756,7 @@ starling noun
 starter noun
 startup noun
 starvation noun
+stat noun style=colloquial note=short for statistic
 state noun
 statehood noun pl=- note=uncountable
 statement noun
@@ -766,6 +783,7 @@ steel noun
 steelhead noun pl=steelhead conf=85 note=plural steelheads unsure
 steeple noun
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
+stenographer noun
 step noun
 stepbrother noun
 stepchild noun pl=stepchildren
@@ -847,6 +865,7 @@ strength noun
 stress noun
 stressor noun
 stretch noun
+stretcher noun
 stride noun
 strife noun pl=- note=uncountable
 strike noun
@@ -891,6 +910,7 @@ subheading noun
 subject noun
 subjection noun pl=- note=uncountable
 sublease noun
+sublimity noun
 submarine noun
 submission noun
 submittal noun
@@ -935,6 +955,7 @@ sufficiency noun
 suffix noun
 suffrage noun note=plural suffrages: votes; intercessory prayers
 sugar noun
+sugarcane noun pl=- note=uncountable
 suggestion noun
 suicide noun
 suit noun
@@ -951,6 +972,7 @@ summary noun
 summer noun
 summit noun
 summons noun pl=summonses
+sumo noun pl=- note=uncountable
 sun noun
 sunbeam noun
 sunburn noun
@@ -986,6 +1008,7 @@ support noun
 supporter noun
 supposition noun
 suppression noun
+supremacist noun
 supremacy noun
 surcharge noun
 surety noun
@@ -1047,6 +1070,7 @@ syllable noun
 symbol noun
 symbolism noun
 symmetry noun
+sympathizer noun gb=sympathiser|sympathizer
 sympathy noun
 symphony noun
 symptom noun

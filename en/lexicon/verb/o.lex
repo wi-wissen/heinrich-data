@@ -40,6 +40,7 @@ orphan verb
 oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
+outcompete verb prefix=out
 outfit        verb prefix=out
 outlaw        verb
 outline       verb

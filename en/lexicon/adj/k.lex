@@ -5,6 +5,7 @@ Khmer adj
 kind           adj cmp=er adv=kindly
 kindred adj
 kinetic adj
+kingly adj cmp=er|more
 knowing        adj adv=knowingly
 knowledgeable adj cmp=more adv=knowledgeably
 Korean         adj

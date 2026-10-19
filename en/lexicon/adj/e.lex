@@ -22,6 +22,7 @@ educational adj adv=educationally
 eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
+effeminate adj
 efficient adj cmp=more adv=efficiently
 egregious adj cmp=more adv=egregiously
 Egyptian adj
@@ -63,8 +64,10 @@ enterprising adj cmp=more
 enthusiastic adj cmp=more adv=enthusiastically
 entire adj adv=entirely
 entrepreneurial adj
+enviable adj adv=enviably
 envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
+ephemeral adj cmp=more
 epic adj
 Episcopal adj
 episcopal adj
@@ -80,6 +83,7 @@ ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
+erstwhile adj attr_only
 especial adj
 essential adj adv=essentially
 Estonian adj
@@ -142,7 +146,9 @@ extinct adj
 extra adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
+extraterrestrial adj
 extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj
+exultant adj adv=exultantly

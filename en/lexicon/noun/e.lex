@@ -18,6 +18,7 @@ earthquake noun
 earthwork noun
 earthworm noun
 ease noun
+easel noun
 easement noun
 east noun
 easterly noun
@@ -57,6 +58,7 @@ ego noun pl=egos
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
+ejection noun
 elaboration noun
 elastic noun
 elasticity noun
@@ -154,6 +156,7 @@ English noun note=the language; plural Englishes for varieties of English
 Englishman noun pl=Englishmen
 engraving noun
 enhancement noun
+enigma noun
 enjoyment noun
 enlargement noun
 enlightenment noun
@@ -178,6 +181,7 @@ entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
 entry noun
+enumeration noun
 envelope noun
 environment noun
 environmentalist noun
@@ -191,6 +195,7 @@ epigram noun
 epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
+epithelium noun pl=epithelia
 epithet noun
 epoch noun pl=epochs
 equal noun
@@ -213,6 +218,7 @@ ergonomics noun pl_only conf=90 note=construed as singular
 erosion noun pl=- note=uncountable
 errand noun
 error noun
+erudition noun pl=- note=uncountable
 eruption noun
 escalation noun
 escape noun
@@ -270,6 +276,7 @@ exam noun
 examination noun
 examiner noun
 example noun
+exasperation noun pl=- note=uncountable
 excavation noun
 excellence noun
 excellency noun
@@ -348,11 +355,13 @@ extract noun
 extraction noun
 extradition noun
 extranet noun
+extraterrestrial noun
 extravagance noun
 extreme noun
 extremism noun pl=- note=uncountable
 extremist noun
 extremity noun
+exuberance noun pl=- note=uncountable
 exultation noun
 eye noun
 eyeball noun

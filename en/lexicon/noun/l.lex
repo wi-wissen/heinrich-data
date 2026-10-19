@@ -19,6 +19,7 @@ lag noun
 lagoon        noun
 lair noun
 laird noun
+laity noun pl=- note=collective noun
 lake          noun
 lamb          noun
 lament noun
@@ -26,6 +27,7 @@ lamentation noun
 lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
+lancer noun
 land          noun
 lander noun
 landfall      noun
@@ -113,6 +115,8 @@ lefty noun style=colloquial
 leg           noun
 legacy        noun
 legality noun
+legate noun
+legation noun
 legend        noun
 leggings noun pl_only
 legion        noun
@@ -142,6 +146,7 @@ letterbox noun region=GB
 letterhead noun
 lettering noun pl=- note=uncountable
 lettuce noun
+leukoplakia noun pl=- note=uncountable
 levee noun
 level         noun
 lever noun
@@ -248,6 +253,7 @@ LNG           noun abbr pl=- note=liquefied natural gas
 LOA           noun abbr conf=85 note=letter of authorization
 load          noun
 loaf noun pl=loaves
+loam noun pl=- note=uncountable
 loan          noun
 lobby         noun
 lobbyist noun
@@ -271,6 +277,7 @@ lodging       noun
 loft noun
 log           noun
 logbook noun
+loggia noun
 logic         noun
 login noun
 logistics     noun pl=- note=uncountable
@@ -285,6 +292,7 @@ longing       noun
 longitude noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
+look-alike noun note=also written lookalike
 lookout noun
 lookup noun
 loop          noun
@@ -314,6 +322,7 @@ luck          noun pl=- note=uncountable
 luggage       noun pl=- note=uncountable
 lull noun
 lumber        noun pl=- note=uncountable (timber)
+lumberman noun pl=lumbermen
 lump          noun
 lunatic noun
 lunch         noun
@@ -324,6 +333,7 @@ lung          noun
 lure noun
 lust noun
 luster noun gb=lustre
+lute noun
 Lutheran      noun
 luxury        noun
 lychee noun
