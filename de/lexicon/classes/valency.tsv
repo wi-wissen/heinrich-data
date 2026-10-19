@@ -86,8 +86,6 @@ beistehen	verb	dat
 beipflichten	verb	dat
 beitreten	verb	dat
 missfallen	verb	dat
-zusagen	verb	dat
-absagen	verb	dat
 nachlaufen	verb	dat
 vorbeugen	verb	dat
 angehören	verb	dat
@@ -98,13 +96,11 @@ zustehen	verb	dat
 unterstehen	verb	dat
 widerstehen	verb	dat
 entgegenkommen	verb	dat
-entgegnen	verb	dat
 entgegensehen	verb	dat
 standhalten	verb	dat
 vorangehen	verb	dat
 vorausgehen	verb	dat
 zunicken	verb	dat
-kündigen	verb	dat
 schmollen	verb	dat
 verfallen	verb	dat
 nachkommen	verb	dat
@@ -143,3 +139,10 @@ aufwarten	verb	dat
 beistimmen	verb	dat
 zutrauen	verb	dat|acc
 verübeln	verb	dat|acc
+
+# Dative person, accusative thing (moved from dative-only: `den Vertrag kündigen`,
+# `den Termin absagen`, `seine Teilnahme zusagen`, `etwas entgegnen`).
+kündigen	verb	dat|acc
+absagen	verb	dat|acc
+zusagen	verb	dat|acc
+entgegnen	verb	dat|acc
