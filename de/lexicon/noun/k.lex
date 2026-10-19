@@ -1,3 +1,4 @@
+Kabarettist noun g=m gen=Kabarettisten pl=Kabarettisten
 Kabel noun g=n gen=Kabels pl=Kabel
 Kabine noun g=f gen=Kabine pl=Kabinen
 Kabinett noun g=n gen=Kabinetts|Kabinettes pl=Kabinette
@@ -122,6 +123,7 @@ Katharsis noun g=f gen=Katharsis pl=- note=no plural
 Kathedrale noun g=f gen=Kathedrale pl=Kathedralen
 Kathete noun g=f gen=Kathete pl=Katheten
 Katholik noun g=m gen=Katholiken pl=Katholiken
+Katholizismus noun g=m gen=Katholizismus pl=- note=no plural
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
@@ -219,6 +221,7 @@ Klassenlehrerin noun g=f gen=Klassenlehrerin pl=Klassenlehrerinnen
 Klassensprecher noun g=m gen=Klassensprechers pl=Klassensprecher
 Klassensprecherin noun g=f gen=Klassensprecherin pl=Klassensprecherinnen
 Klassenzimmer noun g=n gen=Klassenzimmers pl=Klassenzimmer
+Klassifikation noun g=f gen=Klassifikation pl=Klassifikationen
 Klassifizierung noun g=f gen=Klassifizierung pl=Klassifizierungen
 Klassik noun g=f gen=Klassik pl=- note=no plural
 Klassiker noun g=m gen=Klassikers pl=Klassiker
@@ -387,6 +390,7 @@ Konsole noun g=f gen=Konsole pl=Konsolen
 Konsolidierung noun g=f gen=Konsolidierung pl=Konsolidierungen
 Konsonant noun g=m gen=Konsonanten pl=Konsonanten
 Konsortium noun g=n gen=Konsortiums pl=Konsortien
+Konstellation noun g=f gen=Konstellation pl=Konstellationen
 Konstruktion noun g=f gen=Konstruktion pl=Konstruktionen
 Konsul noun g=m gen=Konsuls pl=Konsuln|Konsuls[rare]
 Konsum noun g=m gen=Konsums pl=- note=mass noun
@@ -540,6 +544,7 @@ Küken noun g=n gen=Kükens pl=Küken
 Kulanz noun g=f gen=Kulanz pl=- note=mass noun
 Kuli noun g=m gen=Kulis pl=Kulis style=colloquial
 Kulisse noun g=f gen=Kulisse pl=Kulissen
+Kult noun g=m gen=Kultes|Kults pl=Kulte
 Kultur noun g=f gen=Kultur pl=Kulturen
 Kultusminister noun g=m gen=Kultusministers pl=Kultusminister
 Kümmel noun g=m gen=Kümmels pl=- note=no plural
@@ -556,6 +561,7 @@ Künstler noun g=m gen=Künstlers pl=Künstler
 Künstlerin noun g=f gen=Künstlerin pl=Künstlerinnen
 Kunststoff noun g=m gen=Kunststoffs|Kunststoffes pl=Kunststoffe
 Kupfer noun g=n gen=Kupfers pl=- note=mass noun
+Kupferstecher noun g=m gen=Kupferstechers pl=Kupferstecher
 Kuppe noun g=f gen=Kuppe pl=Kuppen
 Kuppel noun g=f gen=Kuppel pl=Kuppeln
 Kur noun g=f gen=Kur pl=Kuren

@@ -14,6 +14,7 @@ ram verb
 ramble verb
 ramp verb
 ranch verb
+randomize verb gb=randomise|randomize
 range verb
 rank verb
 ransom verb
@@ -56,6 +57,7 @@ rebut verb double
 recall verb
 recap verb double
 recapture verb
+recast verb prefix=re past=recast pp=recast
 recede verb
 receive verb
 recess verb
@@ -66,12 +68,17 @@ reclaim verb
 reclassify verb
 recline verb
 recognize verb gb=recognise|recognize
+recoil verb
 recollect verb
 recommend verb
+recommit verb prefix=re double
+recompense verb
 reconcile verb
 reconfigure verb
+reconfirm verb
 reconnoitre verb us=reconnoiter|reconnoitre
 reconsider verb prefix=re
+reconstitute verb
 reconstruct verb
 reconvene verb
 record verb
@@ -85,6 +92,7 @@ recur verb double
 recuse verb
 recycle verb
 redact verb
+redden verb
 redeem verb
 redefine verb
 redeploy verb
@@ -92,6 +100,7 @@ redesign verb
 redesignate verb
 redevelop verb
 redirect verb
+rediscover verb
 redistribute verb
 redo verb prefix=re 3sg=redoes past=redid pp=redone
 redouble verb
@@ -100,6 +109,7 @@ redress verb
 reduce verb
 reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
+reexport verb
 ref verb style=colloquial double conf=80 note=to referee
 refer verb double
 referee verb
@@ -130,6 +140,7 @@ reheat verb
 reign verb
 reimburse verb
 rein verb
+reincorporate verb
 reinforce verb
 reinstall verb
 reinstate verb
@@ -212,6 +223,8 @@ reprogram verb double
 republish verb
 repudiate verb
 repulse verb
+repurchase verb
+repurpose verb
 request verb
 require verb
 requisition verb
@@ -248,12 +261,14 @@ resubmit verb double
 result verb
 resume verb
 resurface verb
+resurrect verb
 retail verb
 retain verb
 retake verb prefix=re past=retook pp=retaken
 retaliate verb
 rethink verb prefix=re past=rethought pp=rethought
 retire verb
+retitle verb
 retort verb
 retrace verb
 retract verb
@@ -300,6 +315,7 @@ ring verb sense=encircle
 rinse verb
 riot verb
 rip verb
+ripen verb
 ripple verb
 rise verb past=rose pp=risen
 risk verb

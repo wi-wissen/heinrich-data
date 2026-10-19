@@ -51,6 +51,7 @@ operative      adj
 opercular adj
 ophthalmic adj
 opioid adj
+opportunistic adj adv=opportunistically
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
@@ -67,6 +68,7 @@ ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
 Oriental       adj note=dated; offensive when used of people
+oriental adj
 original       adj adv=originally
 ornamental     adj
 ornate adj cmp=more adv=ornately
@@ -93,6 +95,7 @@ oval           adj
 ovarian adj
 overall        adj
 overarching adj
+overbearing adj
 overcast adj
 overcrowded adj
 overdrawn adj
@@ -105,6 +108,7 @@ overpowering adj cmp=more adv=overpoweringly
 overqualified adj
 overseas       adj
 overt adj cmp=more adv=overtly
+overweight adj
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj

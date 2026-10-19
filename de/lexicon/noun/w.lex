@@ -255,6 +255,7 @@ Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
+Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
 Wunde noun g=f gen=Wunde pl=Wunden

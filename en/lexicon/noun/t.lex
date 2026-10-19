@@ -1,5 +1,6 @@
 T-shirt noun note=also tee shirt
 tab noun
+tabernacle noun
 table noun
 tablecloth noun
 tablespoon noun
@@ -7,6 +8,7 @@ tablet noun
 tabletop noun
 tabloid noun
 taboo noun
+tachycardia noun
 tack noun
 tackle noun
 taco noun pl=tacos
@@ -24,8 +26,10 @@ takeover noun
 taker noun
 tale noun
 talent noun
+talisman noun pl=talismans note=not a -man compound
 talk noun
 talker noun
+tallow noun
 tally noun
 Tamil noun
 tan noun
@@ -35,6 +39,7 @@ tangerine noun
 tangle noun
 tank noun
 tanker noun
+tannery noun
 tap noun
 tape noun
 taper noun
@@ -49,6 +54,7 @@ taskforce noun
 taste noun
 tatter noun note=mostly plural: in tatters
 tattoo noun
+tau noun
 taunt noun
 tavern noun
 tax noun
@@ -91,9 +97,11 @@ telemarketing noun pl=- note=uncountable
 telemedicine noun pl=- note=uncountable
 telephone noun
 telephonist noun region=GB
+telephony noun pl=- note=uncountable
 telescope noun
 television noun
 teleworking noun pl=- note=uncountable
+teller noun
 temp noun style=colloquial note=temporary worker; also short for temperature
 temper noun
 temperament noun
@@ -131,6 +139,7 @@ termite noun
 tern noun
 terrace noun
 terrain noun
+terrier noun
 territory noun
 terror noun
 terrorism noun
@@ -148,6 +157,8 @@ textbook noun
 textile noun
 texture noun
 Thai noun note=the language; a Thai person
+thankfulness noun pl=- note=uncountable
+thanksgiving noun
 thatch noun
 THC noun abbr pl=- note=tetrahydrocannabinol
 theater noun gb=theatre
@@ -189,14 +200,17 @@ throne noun
 throng noun
 throttle noun
 throughput noun
+thrower noun
 thrush noun
 thrust noun
 thud noun
+thug noun
 thumb noun
 thumbnail noun
 thumbtack noun region=US note=British drawing pin
 thump noun
 thunder noun
+thunderbolt noun
 thunderstorm noun
 thyme noun pl=- note=uncountable
 thyroid noun
@@ -212,6 +226,8 @@ tier noun
 tiger noun
 tights noun pl_only
 tile noun
+tilefish noun pl=tilefish|tilefishes
+tiller noun
 tilt noun
 timber noun
 time noun
@@ -234,6 +250,7 @@ tinge noun
 tingle noun
 tinker noun
 tinkle noun
+tinnitus noun pl=- note=uncountable
 tint noun
 tip noun
 tire noun gb=tyre sense=wheel
@@ -301,6 +318,7 @@ tot noun
 total noun
 totality noun
 totem noun
+totemism noun pl=- note=uncountable
 toucan noun
 touch noun
 touchdown noun
@@ -325,6 +343,7 @@ toxin noun
 toy noun
 trace noun
 traceability noun pl=- note=uncountable
+trachea noun pl=tracheae|tracheas
 track noun
 tracker noun
 trackpad noun
@@ -355,6 +374,7 @@ tramway noun
 trance noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
+transcriber noun
 transcript noun
 transcription noun
 transept noun
@@ -381,6 +401,7 @@ transporter noun
 transposition noun
 trap noun
 trapper noun
+trappings noun pl_only
 trash noun pl=- note=uncountable
 trauma noun
 traveler noun gb=traveller
@@ -404,14 +425,18 @@ tremor noun
 trench noun
 trend noun
 trespass noun
+tress noun
+triad noun
 trial noun
 triangle noun
 tribe noun
+tribesman noun pl=tribesmen
 tribunal noun
 tribune noun
 tributary noun
 tribute noun
 trick noun
+trickery noun pl=- note=uncountable
 trickle noun
 trifle noun
 trilogy noun
@@ -454,6 +479,7 @@ TTY noun abbr note=teletypewriter
 tub noun
 tube noun
 tuberculosis noun pl=- note=uncountable
+tubing noun pl=- note=uncountable material; also the -ing form of tube
 tuft noun
 tug noun
 tuition noun pl=- note=uncountable
@@ -466,6 +492,7 @@ tuna noun pl=tuna|tunas
 tune noun
 tunic noun
 tunnel noun
+turban noun
 turbine noun
 turbo noun note=plural turbos
 turboprop noun
@@ -487,6 +514,7 @@ tusk noun
 tutor noun
 tutorial noun
 TV noun abbr note=television
+tweed noun
 tweet noun
 twig noun
 twilight noun

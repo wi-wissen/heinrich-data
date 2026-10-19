@@ -84,6 +84,7 @@ flock          verb
 flog verb
 flood          verb
 floor          verb
+flop verb
 flounder verb
 flourish       verb
 flow           verb
@@ -143,6 +144,7 @@ fret verb
 friend         verb
 frighten       verb
 fringe verb
+frolic verb
 front          verb
 frost          verb
 frown          verb
@@ -158,6 +160,7 @@ fundraise verb conf=85
 funnel verb
 furlough verb
 furnish        verb
+furrow verb
 further        verb note=to further a cause
 fuse verb
 fuss           verb

@@ -5,4 +5,5 @@ eastwards adv type=place
 else adv
 elsewhere adv type=place
 especially adv type=focus
+evermore adv type=time
 everywhere adv type=place

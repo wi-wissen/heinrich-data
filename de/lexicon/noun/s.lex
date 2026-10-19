@@ -118,6 +118,7 @@ Schaumwein noun g=m gen=Schaumweins|Schaumweines pl=Schaumweine
 Schauspiel noun g=n gen=Schauspiels|Schauspieles pl=Schauspiele
 Schauspieler noun g=m gen=Schauspielers pl=Schauspieler
 Schauspielerin noun g=f gen=Schauspielerin pl=Schauspielerinnen
+Scheck noun g=m gen=Schecks pl=Schecks
 Scheibe noun g=f gen=Scheibe pl=Scheiben
 Scheibenwischer noun g=m gen=Scheibenwischers pl=Scheibenwischer
 Scheich noun g=m gen=Scheichs|Scheiches pl=Scheiche|Scheichs
@@ -137,6 +138,7 @@ Scheuche noun g=f gen=Scheuche pl=Scheuchen
 Scheune noun g=f gen=Scheune pl=Scheunen
 Schicht noun g=f gen=Schicht pl=Schichten
 Schicksal noun g=n gen=Schicksals|Schicksales[archaic] pl=Schicksale
+Schiedsgericht noun g=n gen=Schiedsgerichts|Schiedsgerichtes pl=Schiedsgerichte note=lexicalised; Schied is not a word of its own
 Schiedsrichter noun g=m gen=Schiedsrichters pl=Schiedsrichter
 Schiedsrichterin noun g=f gen=Schiedsrichterin pl=Schiedsrichterinnen
 Schiedsstelle noun g=f gen=Schiedsstelle pl=Schiedsstellen
@@ -263,6 +265,7 @@ Schriftstellerin noun g=f gen=Schriftstellerin pl=Schriftstellerinnen
 Schrippe noun g=f gen=Schrippe pl=Schrippen region=DE
 Schritt noun g=m gen=Schrittes|Schritts pl=Schritte
 Schrott noun g=m gen=Schrottes|Schrotts pl=- note=no plural
+Schub noun g=m gen=Schubs|Schubes pl=Schübe
 Schubkarre noun g=f gen=Schubkarre pl=Schubkarren
 Schublade noun g=f gen=Schublade pl=Schubladen
 Schüchternheit noun g=f gen=Schüchternheit pl=- note=mass noun
@@ -323,6 +326,7 @@ Schwan noun g=m gen=Schwanes|Schwans pl=Schwäne
 Schwangerschaft noun g=f gen=Schwangerschaft pl=Schwangerschaften
 Schwanz noun g=m gen=Schwanzes pl=Schwänze
 Schwarm noun g=m gen=Schwarms|Schwarmes pl=Schwärme
+Schwefel noun g=m gen=Schwefels pl=- note=mass noun
 Schweif noun g=m gen=Schweifs|Schweifes pl=Schweife
 Schwein noun g=n gen=Schweins|Schweines pl=Schweine
 Schweiß noun g=m gen=Schweißes pl=- note=mass noun
@@ -361,6 +365,7 @@ Segel noun g=n gen=Segels pl=Segel
 Segen noun g=m gen=Segens pl=Segen
 Segler noun g=m gen=Seglers pl=Segler
 Seglerin noun g=f gen=Seglerin pl=Seglerinnen
+Segment noun g=n gen=Segments|Segmentes pl=Segmente
 Sehenswürdigkeit noun g=f gen=Sehenswürdigkeit pl=Sehenswürdigkeiten
 Sehne noun g=f gen=Sehne pl=Sehnen
 Sehnsucht noun g=f gen=Sehnsucht pl=Sehnsüchte
@@ -407,7 +412,9 @@ Sennerin noun g=f gen=Sennerin pl=Sennerinnen
 Sensibilität noun g=f gen=Sensibilität pl=- note=no plural
 Sensor noun g=m gen=Sensors pl=Sensoren
 September noun g=m gen=September|Septembers pl=September
+Sequenz noun g=f gen=Sequenz pl=Sequenzen
 Serbe noun g=m gen=Serben pl=Serben
+Sergeant noun g=m gen=Sergeanten pl=Sergeanten conf=80 note=weak declension assumed (Sergeants rare in our counts)
 Serie noun g=f gen=Serie pl=Serien
 Server noun g=m gen=Servers pl=Server
 Service noun g=m gen=Service|Services pl=Services sense=service note=der Service: Dienstleistung
@@ -506,6 +513,7 @@ Söldner noun g=m gen=Söldners pl=Söldner
 Söldnerin noun g=f gen=Söldnerin pl=Söldnerinnen
 Soli noun g=m gen=Soli|Solis pl=- conf=80 note=Solidaritätszuschlag (der Soli); bare genitive
 Solidarität noun g=f gen=Solidarität pl=- note=mass noun
+Solist noun g=m gen=Solisten pl=Solisten
 Solo noun g=n gen=Solos pl=Solos|Soli
 Solvenz noun g=f gen=Solvenz pl=- note=mass noun
 Sommer noun g=m gen=Sommers pl=Sommer
@@ -874,6 +882,7 @@ Sumpf noun g=m gen=Sumpfs|Sumpfes pl=Sümpfe
 Sünde noun g=f gen=Sünde pl=Sünden
 Sünder noun g=m gen=Sünders pl=Sünder
 Sünderin noun g=f gen=Sünderin pl=Sünderinnen
+Superintendent noun g=m gen=Superintendenten pl=Superintendenten
 Superlativ noun g=m gen=Superlativs pl=Superlative
 Supermarkt noun g=m gen=Supermarkts|Supermarktes pl=Supermärkte
 Suppe noun g=f gen=Suppe pl=Suppen
@@ -900,4 +909,5 @@ Syrer noun g=m gen=Syrers pl=Syrer
 Syrerin noun g=f gen=Syrerin pl=Syrerinnen
 System noun g=n gen=Systems pl=Systeme
 Systematik noun g=f gen=Systematik pl=Systematiken
+Szenario noun g=n gen=Szenarios pl=Szenarien|Szenarios
 Szene noun g=f gen=Szene pl=Szenen

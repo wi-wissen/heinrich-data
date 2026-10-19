@@ -102,6 +102,7 @@ Feigling noun g=m gen=Feiglings pl=Feiglinge
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
+Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
@@ -140,6 +141,7 @@ Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
 Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
+Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
@@ -153,6 +155,7 @@ Filmemacherin noun g=f gen=Filmemacherin pl=Filmemacherinnen
 Filter noun g=m|n gen=Filters pl=Filter note=der Filter; das Filter in technical usage
 Filzstift noun g=m gen=Filzstifts|Filzstiftes pl=Filzstifte
 Finale noun g=n gen=Finales pl=Finale|Finals
+Finalist noun g=m gen=Finalisten pl=Finalisten
 Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and in the plural (die Finanzen)
 Finanzen noun g=pl
 Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
@@ -307,6 +310,7 @@ Freiwillige noun g=m|f decl=adj
 Freizeit noun g=f gen=Freizeit pl=Freizeiten
 Freizügigkeit noun g=f gen=Freizügigkeit pl=- note=no plural
 Fremde noun g=m|f decl=adj
+Fremdling noun g=m gen=Fremdlings pl=Fremdlinge
 Frequenz noun g=f gen=Frequenz pl=Frequenzen
 Fresko noun g=n gen=Freskos pl=Fresken|Freskos
 Freude noun g=f gen=Freude pl=Freuden

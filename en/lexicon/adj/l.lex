@@ -1,4 +1,4 @@
-laborious adj
+laborious adj adv=laboriously
 laden         adj
 lame adj cmp=er adv=lamely
 lamentable adj adv=lamentably
@@ -15,13 +15,16 @@ Latin         adj note=capitalized: language and culture
 Latino        adj
 latter        adj attr_only
 Latvian adj
+laudable adj adv=laudably
 lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
+lax adj cmp=er adv=laxly
 lay           adj attr_only
 lazy          adj cmp=er adv=lazily
 leaden adj
 leading       adj attr_only
+leafless adj
 leafy adj cmp=er
 lean          adj cmp=er
 learned       adj cmp=more note=scholarly
@@ -50,6 +53,7 @@ liable        adj pred_only
 liberal       adj adv=liberally
 libertarian adj
 Libyan        adj
+licensable adj
 lifeless adj
 lifelong      adj attr_only
 lifesaving adj
@@ -64,6 +68,7 @@ linear        adj adv=linearly
 lingering     adj
 linguistic    adj adv=linguistically
 liquid        adj
+listless adj adv=listlessly
 literal       adj adv=literally
 literary      adj
 lithe adj cmp=er
@@ -73,6 +78,8 @@ liturgical adj
 live          adj attr_only
 lively        adj cmp=er
 livid adj
+loath adj pred_only
+loathsome adj cmp=more
 local         adj adv=locally
 lofty         adj cmp=er
 logical       adj cmp=more adv=logically
@@ -89,19 +96,25 @@ longtime      adj attr_only
 loose         adj cmp=er adv=loosely
 lordly adj cmp=er|more
 loud          adj cmp=er adv=loudly
+lovable adj cmp=more
 lovely        adj cmp=er
 lovesick adj
 loving        adj adv=lovingly
 low           adj cmp=er
 lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
+lucid adj cmp=more adv=lucidly
 lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
+lukewarm adj
 luminous adj
 lumpy adj cmp=er
 lunar         adj
 lurid adj cmp=more adv=luridly
+lush adj cmp=er
+lustrous adj
+lusty adj cmp=er
 Lutheran      adj
 luxuriant adj
 luxurious     adj adv=luxuriously

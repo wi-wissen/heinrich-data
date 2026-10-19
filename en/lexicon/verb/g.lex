@@ -1,3 +1,4 @@
+gad verb
 gag verb
 gain           verb
 gall verb
@@ -82,6 +83,7 @@ guarantee      verb
 guard          verb
 guess          verb
 guide          verb
+guillotine verb
 gulp verb
 gun            verb
 gurgle verb

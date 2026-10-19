@@ -25,6 +25,7 @@ parch verb
 pardon verb
 parent verb
 park verb
+parley verb
 parody verb
 parole verb
 parrot verb
@@ -79,12 +80,16 @@ persecute verb
 persevere verb
 persist verb
 personalize verb gb=personalise|personalize
+personify verb
 persuade verb
 pertain verb
+perturb verb
 pervade verb
+pervert verb
 pet verb
 peter verb
 petition verb
+petrify verb
 phase verb
 phone verb
 photocopy verb
@@ -104,6 +109,7 @@ pilot verb
 pin verb
 pinch verb
 pine verb
+ping verb
 pioneer verb
 pipe verb
 pique verb
@@ -138,6 +144,7 @@ poach verb
 pocket verb
 podcast verb
 point verb
+poise verb
 poison verb
 poke verb
 polarize verb gb=polarise|polarize
@@ -194,6 +201,7 @@ preserve verb
 preside verb
 press verb
 pressure verb
+pressurize verb gb=pressurise|pressurize
 presume verb
 pretend verb
 prevail verb
@@ -259,6 +267,7 @@ pulse verb
 pump verb
 pun verb
 punch verb
+punctuate verb
 puncture verb
 punish verb
 purchase verb

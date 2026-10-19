@@ -66,6 +66,7 @@ chance verb
 change verb
 channel verb
 chant verb
+char verb
 characterize verb gb=characterise|characterize
 charge verb
 charm verb
@@ -85,6 +86,7 @@ chill verb
 chime verb
 chip verb
 chirp verb
+chisel verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -154,6 +156,7 @@ codename verb
 codify verb
 coerce verb
 cohabit verb
+cohabitate verb note=US variant of cohabit
 coil verb
 coin verb
 coincide verb
@@ -210,6 +213,7 @@ conclude verb
 concur verb double
 condemn verb
 condense verb
+condescend verb
 condition verb
 conduct verb
 confer verb double
@@ -272,6 +276,7 @@ convert verb
 convey verb
 convict verb
 convince verb
+convulse verb
 cook verb
 cool verb
 cooperate verb gb=cooperate|co-operate
@@ -295,6 +300,7 @@ count verb
 countenance verb
 counter verb
 counteract verb
+counterattack verb
 counterfeit verb
 countersign verb
 couple verb
@@ -337,6 +343,7 @@ crowd verb
 crowdfund verb
 crowdsource verb
 crown verb
+crucify verb
 cruise verb
 crumble verb
 crumple verb

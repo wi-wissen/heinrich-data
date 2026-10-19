@@ -7,6 +7,7 @@ wary adj cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
 watchful adj cmp=more
+waterproof adj
 watery adj cmp=er|more
 wavy adj cmp=er
 wayward adj cmp=more
@@ -32,6 +33,7 @@ wet adj cmp=er
 wheeled adj
 whimsical adj cmp=more adv=whimsically
 white adj cmp=er
+whitish adj
 whole adj adv=wholly
 wholehearted adj adv=wholeheartedly
 wholesale adj
@@ -42,12 +44,14 @@ widespread adj
 wild adj cmp=er adv=wildly
 willful adj cmp=more gb=wilful adv=willfully
 willing adj cmp=more adv=willingly
+wily adj cmp=er adv=wilily
 win-win adj conf=85
 windward adj
 windy adj cmp=er
 winged adj
 wintry adj cmp=er
 wireless adj
+wiry adj cmp=er
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily

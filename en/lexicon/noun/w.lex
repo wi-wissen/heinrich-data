@@ -39,6 +39,7 @@ warhead noun
 warlord noun
 warmth noun pl=- note=uncountable
 warning noun
+warp noun
 warrant noun
 warranty noun
 warrior noun
@@ -57,6 +58,7 @@ wastewater noun pl=- note=uncountable
 watch noun
 watchdog noun
 watcher noun
+watchfulness noun pl=- note=uncountable
 watchman noun pl=watchmen
 water noun
 watercourse noun
@@ -111,6 +113,7 @@ wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
 welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
+wench noun
 west noun pl=- note=uncountable
 westerly noun
 western noun
@@ -122,12 +125,15 @@ wharf noun pl=wharves|wharfs
 wheat noun pl=- note=uncountable
 wheel noun
 wheelbarrow noun
+wheelbase noun
 wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
 Whig noun
 whim noun
+whin noun conf=90 note=gorse
 whip noun
 whirl noun
+whirlpool noun
 whirlwind noun
 whisk noun
 whisker noun
@@ -137,6 +143,7 @@ whisper noun
 whistle noun
 whistleblower noun
 whistleblowing noun pl=- note=uncountable
+whit noun
 white noun
 whiteboard noun
 whitelist noun
@@ -167,6 +174,7 @@ wilderness noun
 wildfire noun
 wildlife noun pl=- note=uncountable
 wildness noun pl=- note=uncountable
+wile noun
 will noun
 willingness noun pl=- note=uncountable
 willow noun
@@ -174,6 +182,7 @@ win noun
 wince noun
 wind noun
 windfall noun
+winding noun
 windmill noun
 window noun
 windowsill noun
@@ -228,6 +237,7 @@ worker noun
 workflow noun
 workforce noun
 workgroup noun
+workhouse noun
 working noun note=workings (mechanism)
 workload noun
 workman noun pl=workmen
@@ -245,6 +255,7 @@ worm noun
 worry noun
 worship noun pl=- note=uncountable
 worshipper noun us=worshiper|worshipper
+worsted noun pl=- note=a woolen fabric; uncountable
 worth noun pl=- note=uncountable
 worthy noun
 wound noun
@@ -259,6 +270,7 @@ wrench noun
 wrestler noun
 wrestling noun pl=- note=uncountable; the sport
 wretch noun
+wretchedness noun pl=- note=uncountable
 wrinkle noun
 wrist noun
 writ noun

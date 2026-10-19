@@ -11,6 +11,7 @@ pauschal adj
 pazifisch adj
 peinlich adj cmp=peinlicher sup=peinlichsten
 perfekt adj
+periodisch adj
 permanent adj
 persisch adj
 personell adj
@@ -19,18 +20,23 @@ peruanisch adj
 pessimistisch adj cmp=pessimistischer sup=pessimistischsten
 pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
+pflegerisch adj
 pflichtgemäß adj
+phantastisch adj cmp=phantastischer sup=phantastischsten note=variant spelling of fantastisch, both valid
 pharmazeutisch adj
 philippinisch adj
 philosophisch adj
 physikalisch adj
+physiologisch adj
 physisch adj
 pickelig adj cmp=pickeliger sup=pickeligsten
 pikant adj cmp=pikanter sup=pikantesten
 plangemäß adj
+plastisch adj cmp=plastischer sup=plastischsten
 plausibel adj cmp=plausibler sup=plausibelsten
 pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
+plump adj cmp=plumper sup=plumpesten
 poetisch adj cmp=poetischer sup=poetischsten
 polar adj
 politisch adj
@@ -46,6 +52,7 @@ potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
+präventiv adj
 präzise adj cmp=präziser sup=präzisesten
 prekär adj cmp=prekärer sup=prekärsten
 preußisch adj
@@ -61,7 +68,9 @@ profitabel adj cmp=profitabler sup=profitabelsten
 prominent adj cmp=prominenter sup=prominentesten
 proportional adj
 protestantisch adj
+provisorisch adj
 prozentual adj
+psychiatrisch adj
 psychisch adj
 psychologisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten

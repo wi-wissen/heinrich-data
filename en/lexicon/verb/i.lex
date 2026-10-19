@@ -5,8 +5,10 @@ idle           verb
 ignite verb
 ignore         verb
 illuminate     verb
+illumine verb style=archaic
 illustrate     verb
 imagine        verb
+imbed verb double conf=90 note=variant spelling of embed
 imbue verb
 imitate verb
 immerse verb
@@ -33,11 +35,13 @@ improvise verb
 impute verb
 inactivate verb
 inaugurate     verb
+incapacitate verb
 incarcerate verb
 incentivize verb gb=incentivise|incentivize
 inch           verb
 incite verb
 incline        verb
+inclose verb style=archaic note=old spelling of enclose
 include        verb
 inconvenience verb
 incorporate    verb
@@ -45,6 +49,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indenture verb
 index          verb
 indicate       verb
 indict verb
@@ -52,6 +57,7 @@ individualize verb gb=individualise|individualize
 induce         verb
 induct         verb
 indulge        verb
+industrialize verb gb=industrialise|industrialize
 infect         verb
 infer verb double
 infest verb
@@ -98,9 +104,11 @@ intend         verb
 intensify      verb
 inter          verb double note=to bury
 interact       verb
+interbreed verb prefix=inter past=interbred pp=interbred
 intercept      verb
 interchange    verb
 interconnect   verb
+interdict verb
 interest       verb
 interfere      verb
 interlock verb
@@ -114,12 +122,14 @@ intersperse verb
 intertwine verb
 intervene      verb
 interview      verb
+interweave verb prefix=inter past=interwove pp=interwoven
 intimate       verb
 intimidate verb
 intoxicate verb
 intrigue verb
 introduce      verb
 intrude verb
+intrust verb style=archaic note=variant of entrust
 inundate verb
 invade         verb
 invalidate verb

@@ -1,3 +1,4 @@
+habitable adj cmp=more
 habitual       adj adv=habitually
 haggard adj
 hairy adj cmp=er
@@ -6,6 +7,7 @@ hale adj
 halfway        adj attr_only
 handheld adj
 handsome       adj cmp=er|more adv=handsomely
+handwritten adj
 handy adj cmp=er
 hapless adj
 happy          adj cmp=er adv=happily
@@ -25,6 +27,7 @@ haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
+healthful adj cmp=more
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
 heartbroken adj
@@ -35,6 +38,7 @@ heathen        adj
 heavenly       adj cmp=more
 heavy          adj cmp=er adv=heavily
 Hebrew         adj
+heedless adj
 heinous adj
 Hellenistic adj
 helpful        adj cmp=more adv=helpfully
@@ -43,11 +47,13 @@ hemorrhagic adj gb=haemorrhagic
 heraldic adj
 herbal adj
 hereditary     adj
+heretical adj
 heroic         adj adv=heroically
 hesitant adj cmp=more adv=hesitantly
 hesitating adj adv=hesitatingly
 heterogeneous adj
 heterosexual adj
+hexagonal adj
 hideous        adj adv=hideously
 hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
@@ -76,6 +82,8 @@ honorary       adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally
+horned adj
+horny adj cmp=er
 horrendous adj
 horrible       adj adv=horribly
 horrid         adj
@@ -103,6 +111,8 @@ hybrid         adj
 hydraulic      adj
 hydroelectric adj
 hydrologic adj
+hyperbaric adj
 hyperbolic adj
+hypocritical adj cmp=more adv=hypocritically
 hypothetical   adj adv=hypothetically
 hysterical adj adv=hysterically

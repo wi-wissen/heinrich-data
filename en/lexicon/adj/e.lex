@@ -47,8 +47,11 @@ elliptic adj
 elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
+emaciated adj
 embarrassed adj cmp=more
+emblematic adj
 embryonic adj
+emergent adj
 emeritus adj
 eminent adj adv=eminently
 emotional adj adv=emotionally
@@ -58,6 +61,7 @@ employable adj cmp=more
 empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
+endogenous adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -72,15 +76,17 @@ entrepreneurial adj
 envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
 epic adj
+epidemiological adj
 Episcopal adj
 episcopal adj
+episodic adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
 equestrian adj
 equine adj
 equitable adj adv=equitably
-equivalent adj
+equivalent adj adv=equivalently
 erect adj
 ergonomic adj adv=ergonomically
 erotic adj
@@ -98,6 +104,7 @@ ethnic adj adv=ethnically
 Eurasian adj
 European adj
 evangelical adj
+evasive adj adv=evasively
 even adj adv=evenly
 eventful adj cmp=more
 eventual adj adv=eventually
@@ -125,10 +132,12 @@ exercisable adj
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
 exogamous adj
+exorbitant adj adv=exorbitantly
 exotic adj
 expansive adj
 expectant adj
 expedient adj
+expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively
@@ -136,6 +145,7 @@ experimental adj adv=experimentally
 expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
+exploitative adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly
@@ -147,9 +157,11 @@ exterior adj
 external adj adv=externally
 extinct adj
 extra adj
+extracellular adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
 extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj
+exuberant adj cmp=more adv=exuberantly

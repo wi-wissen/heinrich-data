@@ -8,6 +8,7 @@ langfristig adj
 langhaarig adj
 langjährig adj
 langlebig adj
+länglich adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
 langwierig adj cmp=langwieriger sup=langwierigsten
@@ -29,6 +30,7 @@ ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
 legendär adj
+legitim adj cmp=legitimer sup=legitimsten
 lehrreich adj cmp=lehrreicher sup=lehrreichsten
 leicht adj cmp=leichter sup=leichtesten
 leichtgläubig adj cmp=leichtgläubiger sup=leichtgläubigsten
@@ -44,6 +46,7 @@ leserlich adj cmp=leserlicher sup=leserlichsten
 lettisch adj
 letzt adj note=not compared; attributive and nominal
 letzter adj attr_only note=der letztere (the latter); cf. letzt
+libanesisch adj
 liberal adj cmp=liberaler sup=liberalsten
 libysch adj
 licht adj cmp=lichter sup=lichtesten
@@ -55,6 +58,7 @@ lila         adj indecl
 linear adj
 link adj attr_only note=attributive only; linke Hand
 liquide adj cmp=liquider sup=liquidesten
+litauisch adj
 literarisch adj
 live adj indecl
 löchrig adj cmp=löchriger sup=löchrigsten

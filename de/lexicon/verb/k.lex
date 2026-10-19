@@ -93,6 +93,7 @@ koordinieren verb class=weak pp=koordiniert perf=haben
 köpfen verb class=weak pp=geköpft perf=haben
 kopieren verb class=weak pp=kopiert perf=haben
 koppeln verb class=weak pp=gekoppelt perf=haben
+korrespondieren verb class=weak pp=korrespondiert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
 kotzen verb class=weak pp=gekotzt perf=haben style=colloquial
@@ -116,6 +117,7 @@ kritisieren verb class=weak pp=kritisiert perf=haben
 kritteln verb class=weak pp=gekrittelt perf=haben
 kritzeln verb class=weak pp=gekritzelt perf=haben
 krönen verb class=weak pp=gekrönt perf=haben
+krümmen verb class=weak pp=gekrümmt perf=haben refl=acc
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc

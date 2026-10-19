@@ -12,6 +12,7 @@ nationalist     adj
 nationwide      adj
 native          adj
 natural         adj adv=naturally
+naturalistic adj
 naughty adj cmp=er adv=naughtily
 nautical adj adv=nautically
 Navajo          adj
@@ -35,6 +36,7 @@ neighboring     adj attr_only gb=neighbouring
 neoclassical adj
 neoliberal adj
 Neolithic adj
+neonatal adj
 nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
@@ -50,14 +52,17 @@ nightly adj
 nimble adj cmp=er adv=nimbly
 nippy adj cmp=er
 nitric adj
+nitrous adj
 noble           adj cmp=er adv=nobly
 nocturnal adj
 noiseless adj adv=noiselessly
 noisy           adj cmp=er adv=noisily
 nomadic adj
 nominal         adj adv=nominally
+nominative adj
 nonbinding adj conf=80 note=also non-binding
 nonimmigrant    adj
+nonlinear adj adv=nonlinearly
 nonpartisan adj
 nonprescription adj
 nonprofit       adj
@@ -68,6 +73,7 @@ nonverbal adj adv=nonverbally conf=90 note=also non-verbal
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
+normative adj
 Norse           adj
 north           adj
 northbound adj
@@ -100,5 +106,6 @@ numeric adj adv=numerically
 numerical       adj adv=numerically
 numerous        adj cmp=more
 nutritional adj adv=nutritionally
+nutritious adj cmp=more
 nutty adj cmp=er
 née             adj note=born (introducing a maiden name)

@@ -8,6 +8,7 @@ HM             x abbr note=His/Her Majesty('s)
 HMS            x abbr note=His/Her Majesty's Ship
 ho intj
 hoc x foreign note=only in ad hoc
+Homo x foreign note=genus name, as in Homo sapiens
 Hon.           x abbr note=Honourable, title; also lowercase hon. in the hon. Member
 hon.           x abbr note=honourable, as in the hon. Member
 hooray intj

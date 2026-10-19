@@ -25,6 +25,7 @@ ventricular adj
 verbal        adj adv=verbally
 verifiable adj adv=verifiably
 veritable adj
+vermilion adj
 vernacular adj
 versatile adj cmp=more
 versed adj pred_only note=well versed in
@@ -56,6 +57,7 @@ visible       adj cmp=more adv=visibly
 visionary adj
 visual        adj adv=visually
 vital         adj adv=vitally
+vivacious adj cmp=more
 vivid         adj cmp=more adv=vividly
 vocal         adj adv=vocally
 vocational    adj

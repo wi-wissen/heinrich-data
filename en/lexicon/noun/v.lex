@@ -10,6 +10,7 @@ valentine noun
 valet noun
 validation    noun
 validity      noun pl=- note=uncountable
+valise noun
 valley        noun
 valor noun gb=valour pl=- note=uncountable
 valuable      noun
@@ -20,6 +21,7 @@ vampire noun
 van           noun
 vandal noun
 vandalism noun pl=- note=uncountable
+vane noun
 vanguard noun
 vanilla noun pl=- note=uncountable
 vanity        noun
@@ -60,17 +62,21 @@ ventilation   noun pl=- note=uncountable
 venture       noun
 venue         noun
 veracity noun pl=- note=uncountable
-veranda noun
+veranda noun gb=veranda|verandah conf=90 note=verandah is the chiefly British spelling
 verb          noun
 verdict       noun
 verdure noun pl=- note=literary
 verge         noun
 verification  noun
+vermilion noun pl=- note=uncountable as a color
+vermin noun pl=vermin
 vernacular noun
+versatility noun pl=- note=uncountable
 verse         noun
 version       noun
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
+vertigo noun pl=vertigoes|vertigos
 vessel        noun
 vest          noun
 vestibule noun
@@ -85,15 +91,18 @@ viability     noun pl=- note=uncountable
 viaduct noun
 vial noun
 vibration noun
+vibrato noun pl=vibratos
 vicar         noun
 vicarage noun
 vice          noun
 viceroy noun
 vicinity      noun
+vicissitude noun
 victim        noun
 victor        noun
 Victorian     noun
 victory       noun
+victual noun
 video         noun
 videoconference noun
 Vietnamese    noun pl=Vietnamese
@@ -140,6 +149,7 @@ visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
 vivacity noun pl=- note=uncountable
+vizier noun
 vlog noun
 vocabulary    noun
 vocal         noun
@@ -155,6 +165,7 @@ voivodeship noun note=Polish province
 volatility noun
 volcano       noun pl=volcanoes|volcanos
 vole noun
+volition noun pl=- note=uncountable
 volley noun
 volleyball    noun
 volt noun

@@ -21,6 +21,7 @@ taxpaying adj conf=80
 tearful adj cmp=more adv=tearfully
 technical adj adv=technically
 technological adj adv=technologically
+tectonic adj
 tedious adj cmp=more adv=tediously
 teenage adj
 teeny adj style=colloquial
@@ -31,8 +32,9 @@ tenacious adj cmp=more adv=tenaciously
 tender adj cmp=er adv=tenderly
 tenfold adj
 tense adj cmp=er
+tensile adj
 tentative adj adv=tentatively
-terminal adj
+terminal adj adv=terminally
 terrestrial adj
 terrible adj adv=terribly
 terrific adj
@@ -58,6 +60,7 @@ thorough adj cmp=more adv=thoroughly
 thoroughbred adj
 thoughtful adj cmp=more adv=thoughtfully
 thoughtless adj cmp=more adv=thoughtlessly
+threefold adj
 thrifty adj cmp=er adv=thriftily
 thrilled adj
 thrilling adj
@@ -68,6 +71,7 @@ tidal adj
 tidy adj cmp=er adv=tidily
 tiered adj
 tight adj cmp=er adv=tightly
+timeless adj
 timely adj cmp=er|more
 timid adj cmp=er|more adv=timidly
 tiny adj cmp=er
@@ -80,11 +84,13 @@ tolerable adj adv=tolerably
 tolerant adj cmp=more
 tonal adj adv=tonally
 tonic adj
+toothed adj
 toothless adj
 top adj
 topical adj
 topmost adj
 topological adj adv=topologically
+tortuous adj
 total adj adv=totally
 tough adj cmp=er
 towering adj
@@ -95,6 +101,7 @@ tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 trans adj note=transgender; also chemistry (trans isomer)
 transatlantic adj
+transcendental adj
 transcontinental adj
 transferable adj
 transformational adj
@@ -102,6 +109,7 @@ transformative adj
 transgender adj
 transient adj
 transitional adj
+transitive adj adv=transitively
 transitory adj
 translucent adj cmp=more
 transnational adj
@@ -113,6 +121,7 @@ treble adj
 tremendous adj adv=tremendously
 tremulous adj
 trendy adj cmp=er
+triable adj
 triangular adj
 tribal adj
 tricky adj cmp=er
@@ -135,6 +144,7 @@ turbulent adj
 Turkic adj
 Turkish adj
 turquoise adj
+twofold adj
 typical adj adv=typically
 typographical adj
 tyrannical adj cmp=more

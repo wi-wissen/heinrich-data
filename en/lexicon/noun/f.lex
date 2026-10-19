@@ -22,6 +22,7 @@ fairness       noun pl=- note=uncountable
 fairy          noun
 faith          noun
 faithful       noun
+faithfulness noun pl=- note=uncountable
 fake           noun
 falcon noun
 fall           noun
@@ -37,6 +38,8 @@ fan            noun
 fanatic noun
 fanaticism noun pl=- note=uncountable
 fancy          noun
+fanfare noun
+fang noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
 farce noun
@@ -79,6 +82,7 @@ fee            noun
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
+feedstock noun
 feel           noun
 feeling        noun
 felicity noun
@@ -94,6 +98,7 @@ feminism noun pl=- note=uncountable
 feminist       noun
 fen noun
 fence          noun
+fencer noun
 fender noun
 fentanyl noun pl=- note=uncountable
 ferment noun
@@ -103,24 +108,32 @@ ferocity noun
 ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
+fertilization noun gb=fertilisation|fertilization
 fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
+fetish noun
 fetter noun
+fetus noun gb=foetus|fetus
 feud noun
 fever          noun
 fez noun pl=fezzes|fezes
 fiancé noun
 fiancée noun
 fiber          noun gb=fibre
+fiberglass noun gb=fibreglass pl=- note=uncountable
+fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
+fiddler noun
 fidelity       noun pl=- note=uncountable
 fiduciary noun
+fief noun pl=fiefs
 field          noun
 fielder noun
 fiend noun
+fierceness noun pl=- note=uncountable
 fig            noun
 fight          noun
 fighter        noun
@@ -138,6 +151,7 @@ film           noun
 filmmaker      noun
 filmmaking noun pl=- note=uncountable
 filter         noun
+filth noun pl=- note=uncountable
 filtration noun
 fin            noun
 final          noun
@@ -149,6 +163,7 @@ financials noun pl_only conf=85 note=financial statements
 financier noun
 finch noun
 find           noun
+finder noun
 finding        noun
 fine           noun
 finery noun pl=- note=uncountable
@@ -174,6 +189,7 @@ firewall noun
 firewood noun pl=- note=uncountable
 firework       noun
 firm           noun
+firmament noun
 firmness noun
 firmware noun pl=- note=uncountable
 fish           noun pl=fish|fishes
@@ -189,6 +205,7 @@ fit            noun
 fitness        noun pl=- note=uncountable
 fitting        noun
 fix            noun
+fixation noun
 fixture noun
 fjord noun
 flag           noun
@@ -224,11 +241,14 @@ flip noun
 flipchart noun
 flipper noun
 flirt noun
+flirtation noun
 float          noun
+floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
 floor          noun
+flop noun
 flora          noun
 flotilla noun
 flounder noun pl=flounder|flounders
@@ -240,7 +260,9 @@ flower         noun
 flu            noun pl=- note=influenza
 fluctuation noun
 flue noun
+fluency noun pl=- note=uncountable
 fluid          noun
+flurry noun
 flush          noun
 flute          noun
 flutter noun
@@ -308,7 +330,9 @@ forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
 foresight noun
 forest         noun
+forester noun
 forestry       noun pl=- note=uncountable
+forethought noun pl=- note=uncountable
 foreword noun
 forex noun pl=- note=foreign exchange
 forfeit noun
@@ -343,6 +367,7 @@ fowl           noun pl=fowl|fowls
 fox            noun
 fraction       noun
 fracture noun
+fragility noun pl=- note=uncountable
 fragment       noun
 fragmentation noun
 fragrance noun
@@ -370,6 +395,7 @@ freeway        noun region=US
 freeze         noun
 freezer noun
 freight        noun
+freighter noun
 French         noun pl=- note=the language; the French as a people
 Frenchman      noun pl=Frenchmen
 frenzy noun
@@ -392,9 +418,11 @@ frisbee noun
 fritillary noun
 frock noun
 frog noun
+frolic noun
 front          noun
 frontage noun
 frontier       noun
+frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
@@ -407,6 +435,7 @@ FTE noun abbr note=full-time equivalent
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
+fullback noun
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

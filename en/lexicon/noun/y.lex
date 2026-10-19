@@ -14,6 +14,7 @@ yesterday noun
 yid noun style=offensive note=antisemitic slur
 yield noun
 yo-yo noun pl=yo-yos
+yoga noun pl=- note=uncountable
 yogurt noun gb=yoghurt|yogurt
 yoke noun
 yolk noun
