@@ -28,6 +28,7 @@ realizable adj gb=realisable|realizable
 rear adj attr_only
 reasonable adj cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
+reborn adj
 receivable adj
 recent adj cmp=more adv=recently
 receptive adj cmp=more
@@ -79,8 +80,10 @@ renal adj
 renewable adj
 renowned adj
 rental adj
+repellent adj
 repetitive adj adv=repetitively
 reportable adj
+reprehensible adj adv=reprehensibly
 representative adj
 repressive adj cmp=more
 reproachful adj adv=reproachfully
@@ -108,9 +111,11 @@ resplendent adj
 responsible adj cmp=more adv=responsibly
 responsive adj cmp=more
 restless adj cmp=more adv=restlessly
+restorative adj
 restrictive adj cmp=more
 resultant adj
 retail adj
+retaliatory adj
 reticent adj
 retinal adj
 retroactive adj adv=retroactively

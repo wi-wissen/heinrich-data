@@ -86,6 +86,7 @@ northward       adj
 northwest       adj
 northwestern    adj
 Norwegian       adj
+nostalgic adj cmp=more adv=nostalgically
 nosy adj cmp=er
 notable         adj cmp=more adv=notably
 noteworthy adj

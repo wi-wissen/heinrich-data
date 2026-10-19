@@ -16,6 +16,7 @@ oblast        noun
 obligation    noun
 oblivion noun pl=- note=uncountable
 oblong noun
+oboe noun
 obscurity noun
 observance noun
 observation   noun
@@ -202,6 +203,7 @@ overtime      noun pl=- note=uncountable
 overture noun
 overvaluation noun
 overview      noun
+ovum noun pl=ova
 owl           noun
 owner         noun
 ownership     noun

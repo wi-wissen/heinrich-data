@@ -33,6 +33,7 @@ embed verb double
 embellish verb
 embezzle verb
 embitter verb
+emblazon verb
 embody verb
 embrace verb
 embroider verb
@@ -54,6 +55,7 @@ encircle verb
 enclose verb
 encode verb
 encompass verb
+encore verb
 encounter verb
 encourage verb
 encroach verb
@@ -154,9 +156,11 @@ exert verb
 exhaust verb
 exhibit verb
 exhilarate verb
+exhume verb
 exile verb
 exist verb
 exit verb
+exonerate verb
 expand verb
 expatriate verb
 expect verb
@@ -173,11 +177,13 @@ exploit verb
 explore verb
 export verb
 expose verb
+expound verb
 express verb
 expropriate verb
 extend verb
 exterminate verb
 extinguish verb
+extirpate verb
 extract verb
 extradite verb
 extricate verb

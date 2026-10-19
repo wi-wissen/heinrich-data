@@ -6,6 +6,7 @@ uphill adv
 upright       adv
 upriver adv type=place
 upstairs      adv
+upstate adv type=place
 upstream      adv
 uptown adv type=place
 upward        adv

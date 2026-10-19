@@ -1,3 +1,4 @@
+fabled adj
 fabulous adj adv=fabulously
 facial         adj
 factual        adj adv=factually
@@ -10,6 +11,7 @@ false          adj cmp=er|more adv=falsely
 famed adj
 familial adj
 familiar       adj cmp=more adv=familiarly
+famished adj
 famous         adj cmp=more adv=famously
 fanatical adj cmp=more adv=fanatically
 fanciful adj
@@ -25,6 +27,7 @@ fat            adj cmp=er
 fatal          adj adv=fatally
 fated adj
 fateful adj adv=fatefully
+fatherly adj
 fatty adj cmp=er
 faulty adj cmp=er|more
 faunal adj
@@ -53,6 +56,7 @@ fickle adj cmp=more
 fictional      adj
 fictitious adj
 fiduciary adj
+fiendish adj cmp=more adv=fiendishly
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
 figurative adj adv=figuratively
@@ -141,6 +145,7 @@ frenzied adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+fricative adj
 frictionless adj
 friendless adj
 friendly       adj cmp=er

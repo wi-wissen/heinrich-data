@@ -51,6 +51,7 @@ outpoll verb
 outrage       verb
 outsource verb
 outweigh verb
+overburden verb
 overcharge verb
 overcome      verb prefix=over past=overcame pp=overcome
 overdose verb

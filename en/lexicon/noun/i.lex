@@ -1,5 +1,6 @@
 IBAN noun abbr note=international bank account number
 IBR noun abbr note=incorporation by reference (US regulations)
+ibuprofen noun pl=- note=uncountable
 IC noun abbr note=integrated circuit
 ice            noun
 iceberg noun
@@ -46,6 +47,7 @@ immorality noun
 immortal       noun
 immortality noun pl=- note=uncountable
 immunity       noun
+immunization noun gb=immunisation|immunization
 impact         noun
 impairment     noun
 impartiality noun
@@ -57,9 +59,11 @@ impediment     noun
 imperative     noun
 imperfection noun
 imperialism noun pl=- note=uncountable
+impersonation noun
 impertinence noun
 impetus noun
 implant noun
+implantation noun
 implement      noun
 implementation noun
 implication    noun
@@ -77,6 +81,7 @@ imprisonment   noun
 impropriety noun
 improvement    noun
 improvisation noun
+imprudence noun pl=- note=uncountable
 impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
@@ -105,6 +110,7 @@ inclination    noun
 incline        noun
 inclusion      noun
 income         noun
+incompatibility noun
 incompetence noun
 inconsistency noun
 inconvenience noun
@@ -171,6 +177,7 @@ inflammation   noun
 inflatable noun
 inflation      noun
 inflection noun gb=inflection|inflexion
+inflow noun
 influence      noun
 influenza      noun pl=- note=uncountable
 influx         noun
@@ -216,8 +223,10 @@ innovator      noun
 inpatient      noun
 input          noun
 inquest noun
+inquirer noun
 inquiry        noun gb=inquiry|enquiry
 inquisition noun
+inroad noun
 insanity noun
 inscription    noun
 insect         noun
@@ -243,6 +252,7 @@ instigation noun
 instinct       noun
 institute      noun
 institution    noun
+institutionalization noun gb=institutionalisation|institutionalization
 instruction    noun
 instructor     noun
 instrument     noun
@@ -259,6 +269,7 @@ insurrection noun
 intake         noun
 intangible noun
 integer        noun
+integral noun
 integration    noun
 integrity      noun pl=- note=uncountable
 intellect      noun
@@ -290,6 +301,7 @@ internment noun
 internship noun
 interoperability noun pl=- note=uncountable
 interplay noun
+interpolation noun
 interpretation noun
 interpreter    noun
 interrogation noun
@@ -340,6 +352,7 @@ invoice        noun
 involvement    noun
 iodine noun pl=- note=uncountable
 ion            noun
+ionization noun gb=ionisation|ionization
 IP             noun abbr note=Internet Protocol (address); intellectual property
 IPO            noun abbr note=initial public offering
 IRA            noun abbr note=individual retirement account (US); also the Irish Republican Army
@@ -382,3 +395,4 @@ itinerant noun
 itinerary noun
 ivory          noun
 ivy noun
+iwi noun pl=iwi conf=80 note=Maori loanword used in New Zealand English; plural unsure
