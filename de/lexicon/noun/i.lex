@@ -119,6 +119,7 @@ Interjektion noun g=f gen=Interjektion pl=Interjektionen
 Internat noun g=n gen=Internats pl=Internate
 Internet noun g=n gen=Internets pl=- note=plural not used
 Internetseite noun g=f gen=Internetseite pl=Internetseiten
+Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen
 Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervention noun g=f gen=Intervention pl=Interventionen
@@ -138,6 +139,7 @@ Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare
 Irrtum noun g=m gen=Irrtums|Irrtumes pl=Irrtümer
 ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
+Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 IT noun g=f gen=IT pl=- note=Informationstechnik
 Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians

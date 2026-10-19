@@ -14,6 +14,7 @@ Orleans propn g=n gen=Orleans pl=- note=proper name; no plural; bare genitive
 Osaka propn g=n gen=Osakas pl=- note=proper name; no plural
 Oslo propn g=n gen=Oslos pl=- note=proper name; no plural
 Osnabrück propn g=n gen=Osnabrücks pl=- note=proper name; no plural
+Ostafrika propn g=n gen=Ostafrikas pl=- note=proper name; no plural
 Ostdeutschland propn g=n gen=Ostdeutschlands pl=- note=proper name; no plural
 Österreich propn g=n gen=Österreichs pl=- note=proper name, no plural
 Osteuropa propn g=n gen=Osteuropas pl=- note=proper name; no plural

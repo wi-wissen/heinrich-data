@@ -19,6 +19,7 @@ Kaktus noun g=m gen=Kaktus|Kaktusses pl=Kakteen|Kaktusse note=des Kaktus; Latin-
 Kalb noun g=n gen=Kalbs|Kalbes pl=Kälber
 Kalender noun g=m gen=Kalenders pl=Kalender
 Kaliber noun g=n gen=Kalibers pl=Kaliber
+Kalif noun g=m gen=Kalifen pl=Kalifen
 Kalk noun g=m gen=Kalks|Kalkes pl=Kalke
 Kalkulation noun g=f gen=Kalkulation pl=Kalkulationen
 Kalorie noun g=f gen=Kalorie pl=Kalorien
@@ -70,6 +71,7 @@ Kapitel noun g=n gen=Kapitels pl=Kapitel
 Kapitulation noun g=f gen=Kapitulation pl=Kapitulationen
 Kaplan noun g=m gen=Kaplans pl=Kapläne
 Kappe noun g=f gen=Kappe pl=Kappen
+Kapsel noun g=f gen=Kapsel pl=Kapseln
 Kapuze noun g=f gen=Kapuze pl=Kapuzen
 Karambolage noun g=f gen=Karambolage pl=Karambolagen
 Karaoke noun g=n gen=Karaokes pl=- note=no plural (mass or abstract noun)
@@ -362,6 +364,7 @@ Konfiguration noun g=f gen=Konfiguration pl=Konfigurationen
 Konfirmation noun g=f gen=Konfirmation pl=Konfirmationen
 Konfitüre noun g=f gen=Konfitüre pl=Konfitüren
 Konflikt noun g=m gen=Konflikts|Konfliktes pl=Konflikte
+Konformität noun g=f gen=Konformität pl=- note=mass noun
 Kongregation noun g=f gen=Kongregation pl=Kongregationen
 Kongress noun g=m gen=Kongresses pl=Kongresse
 König noun g=m gen=Königs|Königes[archaic] pl=Könige

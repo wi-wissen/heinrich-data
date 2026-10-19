@@ -46,13 +46,16 @@ eklig adj cmp=ekliger sup=ekligsten
 elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
 elektronisch adj
+elementar adj
 elend adj cmp=elender sup=elendsten
+elterlich adj
 emotional adj
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 emsig adj
 endgültig adj
 endlich adj
+energetisch adj
 energisch adj cmp=energischer sup=energischsten
 eng adj cmp=enger sup=engsten
 englisch adj
@@ -69,6 +72,8 @@ enttäuscht adj cmp=enttäuschter sup=enttäuschtesten
 epidemisch adj
 episch adj
 erbärmlich adj cmp=erbärmlicher sup=erbärmlichsten
+erbittert adj cmp=erbitterter sup=erbittertsten note=fierce (erbitterter Widerstand); participle of erbittern with its own meaning
+erblich adj
 erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
@@ -92,6 +97,7 @@ erstmalig adj
 erwachsen adj
 erwünscht adj
 erzählend adj
+estnisch adj
 ethisch adj
 ethnisch adj
 etwaig adj attr_only

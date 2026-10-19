@@ -1,10 +1,13 @@
 mächtig adj cmp=mächtiger sup=mächtigsten
 mager adj cmp=magerer sup=magersten
+magisch adj
 magnetisch adj
+malerisch adj cmp=malerischer sup=malerischsten
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 männlich adj
 manuell adj
 maritim adj
+markant adj cmp=markanter sup=markantesten
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -21,6 +24,7 @@ medizinisch adj
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
+melancholisch adj cmp=melancholischer sup=melancholischsten
 meldepflichtig adj
 menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
@@ -32,6 +36,7 @@ mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
 militärisch adj
 minderjährig adj
+mineralisch adj
 miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
@@ -68,4 +73,7 @@ mürrisch adj cmp=mürrischer sup=mürrischsten
 musikalisch adj
 muslimisch adj
 mutig adj cmp=mutiger sup=mutigsten
+mutmaßlich adj
+mütterlich adj
 mysteriös adj cmp=mysteriöser sup=mysteriösesten
+mystisch adj
