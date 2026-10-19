@@ -85,6 +85,7 @@ notifiable adj
 notional adj adv=notionally
 notorious       adj adv=notoriously
 novel           adj
+nuanced adj cmp=more
 nuclear         adj
 nucleic adj
 nude adj

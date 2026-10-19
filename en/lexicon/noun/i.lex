@@ -15,6 +15,7 @@ identification noun
 identifier     noun
 identity       noun
 ideology       noun
+idiom noun
 idiot noun
 idleness noun
 idol           noun
@@ -118,6 +119,7 @@ individual     noun
 individuality noun
 Indo-European noun pl=- note=the language family
 Indonesian     noun
+inducement noun
 inductee noun
 induction      noun
 indulgence noun
@@ -127,6 +129,7 @@ industry       noun
 inefficiency noun
 inequality     noun
 inertia noun pl=- note=uncountable
+infamy noun
 infancy        noun
 infant         noun
 infantry       noun pl=- note=collective
@@ -136,7 +139,10 @@ inferior       noun
 inferiority noun pl=- note=uncountable
 infidel noun
 infidelity noun
+infield noun
+infielder noun
 infinity noun
+infirmity noun
 inflammation   noun
 inflation      noun
 influence      noun

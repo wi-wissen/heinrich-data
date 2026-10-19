@@ -296,6 +296,7 @@ loss          noun
 lot           noun
 lottery       noun
 lotus noun
+lough noun note=Irish lake
 lounge noun
 love          noun
 loveliness noun

@@ -8,6 +8,7 @@ gaunt adj cmp=er
 gay            adj cmp=er
 geeky adj cmp=er
 general        adj adv=generally
+generational adj
 generic        adj adv=generically
 generous       adj cmp=more adv=generously
 genetic        adj adv=genetically

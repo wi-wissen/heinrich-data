@@ -60,6 +60,7 @@ veracity noun pl=- note=uncountable
 veranda noun
 verb          noun
 verdict       noun
+verdure noun pl=- note=literary
 verge         noun
 verification  noun
 vernacular noun
@@ -145,6 +146,7 @@ voicemail noun
 voiceover noun
 void          noun
 VoIP noun abbr pl=- note=Voice over IP
+voivodeship noun note=Polish province
 volatility noun
 volcano       noun pl=volcanoes|volcanos
 vole noun

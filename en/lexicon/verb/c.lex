@@ -88,6 +88,7 @@ choose verb past=chose pp=chosen
 chop verb
 choreograph verb
 chorus verb
+christen verb
 chronicle verb
 chuck verb
 chuckle verb
@@ -233,6 +234,7 @@ consecrate verb
 consent verb
 conserve verb
 consider verb
+consign verb
 consist verb
 console verb
 consolidate verb

@@ -28,6 +28,7 @@ palace noun
 Palestinian noun note=demonym or religious name, capitalized
 palette noun
 palisade noun
+pall noun
 pallet noun
 palliative noun
 pallor noun
@@ -97,6 +98,7 @@ parson noun
 part noun
 participant noun
 participation noun pl=- note=uncountable
+participator noun
 particle noun
 particular noun
 particulate noun
@@ -187,6 +189,7 @@ peat noun
 pebble noun
 peculiarity noun
 pedal noun
+peddler noun gb=pedlar|peddler
 pedestal noun
 pedestrian noun
 pedigree noun
@@ -377,6 +380,7 @@ placemat noun
 placement noun
 plague noun
 plaice noun pl=plaice
+plaid noun
 plain noun
 plaintiff noun
 plait noun region=GB note=US braid
@@ -400,12 +404,13 @@ platinum noun pl=- note=uncountable
 platoon noun
 play noun
 playback noun
+playboy noun
 player noun
 playground noun
 playhouse noun
 playlist noun
 playmate noun
-playoff noun
+playoff noun gb=play-off|playoff
 playpen noun
 plaything noun
 playtime noun
@@ -560,6 +565,7 @@ pram noun region=GB note=US baby carriage
 prank noun
 prawn noun
 prayer noun
+pre-K noun pl=- region=US conf=85 note=pre-kindergarten; also written Pre-K
 preacher noun
 preamble noun
 precaution noun
@@ -766,6 +772,7 @@ provider noun
 province noun
 provision noun
 provocation noun
+provost noun
 prowess noun pl=- note=uncountable
 proximity noun pl=- note=uncountable
 proxy noun

@@ -136,6 +136,7 @@ brave verb
 brawl verb
 breach verb
 break verb past=broke pp=broken
+breakfast verb
 breastfeed verb prefix=breast past=breastfed pp=breastfed
 breathe verb
 breed verb past=bred pp=bred

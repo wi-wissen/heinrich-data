@@ -15,6 +15,7 @@ hp x abbr note=horsepower
 hr             x abbr note=hour(s)
 huh intj
 humph intj
+hurrah intj
 hush           intj
 HVDC x abbr note=high-voltage direct current
 Hz x abbr note=hertz, unit symbol

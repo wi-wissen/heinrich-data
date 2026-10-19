@@ -28,6 +28,7 @@ Jesuit         noun
 jet            noun
 Jew            noun
 jewel          noun
+jeweler noun gb=jeweller
 jewelry noun gb=jewellery pl=- note=uncountable
 jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
@@ -68,4 +69,5 @@ juror noun
 jury           noun
 justice        noun
 justification  noun
+jute noun pl=- note=uncountable
 juvenile       noun

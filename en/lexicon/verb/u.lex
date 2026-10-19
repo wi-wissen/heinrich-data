@@ -4,6 +4,7 @@ uncover       verb
 undercharge verb
 undercut verb prefix=under past=undercut pp=undercut
 underestimate verb
+underfund verb
 undergo       verb prefix=under past=underwent pp=undergone
 underlie      verb prefix=under past=underlay pp=underlain
 underline verb
