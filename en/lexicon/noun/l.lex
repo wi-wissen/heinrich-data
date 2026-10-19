@@ -23,6 +23,7 @@ laird noun
 lake          noun
 lakeside noun
 lamb          noun
+lambda noun
 lament noun
 lamentation noun
 lamina noun pl=laminae|laminas
@@ -86,7 +87,9 @@ lawyer        noun
 layer         noun
 layoff noun
 layout        noun
+laziness noun pl=- note=uncountable
 lea noun style=archaic
+leachate noun
 lead          noun
 leader        noun
 leadership    noun
@@ -111,6 +114,7 @@ lecturer      noun
 ledge         noun
 ledger noun
 lee noun
+leech noun
 leek noun
 leeward noun pl=- note=uncountable
 left          noun
@@ -134,9 +138,11 @@ lemur noun
 Lenape noun pl=Lenape
 lender        noun
 length        noun
+leniency noun pl=- note=uncountable
 lens          noun
 lentil noun
 leopard       noun
+leprosy noun pl=- note=uncountable
 lesbian       noun
 lesbo noun style=offensive note=homophobic slur
 lesion noun
@@ -155,6 +161,7 @@ lever noun
 leverage      noun
 levity noun pl=- note=uncountable
 levy          noun
+lexicon noun pl=lexicons|lexica
 liability     noun
 liaison       noun
 liar noun
@@ -179,6 +186,7 @@ lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
 life          noun pl=lives
+lifeblood noun pl=- note=uncountable
 lifeboat noun
 lifecycle noun
 lifeguard noun
@@ -232,6 +240,7 @@ liquidation   noun
 liquidator noun
 liquidity     noun pl=- note=uncountable
 liquor        noun
+lisp noun
 list          noun
 listener      noun
 listing       noun
@@ -252,6 +261,7 @@ livery        noun
 livestock     noun pl=- note=uncountable
 livestream noun
 living        noun
+livre noun note=historical French currency
 lizard noun
 llama noun
 LLC           noun abbr note=limited liability company
@@ -334,6 +344,7 @@ luggage       noun pl=- note=uncountable
 lugger noun
 lull noun
 lumber        noun pl=- note=uncountable (timber)
+luminosity noun
 lump          noun
 lunatic noun
 lunch         noun
@@ -341,6 +352,7 @@ lunchbox noun
 luncheon      noun
 lunchtime noun
 lung          noun
+lurch noun
 lure noun
 lust noun
 luster noun gb=lustre

@@ -15,6 +15,7 @@ gather         verb
 gauge          verb
 gawp verb region=GB style=colloquial
 gaze           verb
+gazette verb note=to announce officially (gazetted)
 gear           verb
 gel verb
 generalize verb gb=generalise|generalize

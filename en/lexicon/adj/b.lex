@@ -40,8 +40,10 @@ beneficial adj adv=beneficially
 benevolent adj cmp=more adv=benevolently
 Bengali adj
 benign adj adv=benignly
+benthic adj
 Berber adj
 bereaved adj
+bereft adj pred_only
 bespoke adj
 biannual adj adv=biannually
 biblical adj
@@ -63,6 +65,7 @@ bipartisan adj
 bipolar adj
 bisexual adj
 bitter adj cmp=er|more adv=bitterly
+bituminous adj
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
@@ -76,8 +79,10 @@ blind adj cmp=er adv=blindly
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
 bloodless adj adv=bloodlessly
+bloodthirsty adj cmp=er|more
 bloody adj cmp=er
 blue adj cmp=er
+bluish adj
 blunt adj cmp=er adv=bluntly
 blustery adj
 bodily adj

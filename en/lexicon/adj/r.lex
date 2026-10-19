@@ -13,6 +13,7 @@ random adj adv=randomly
 rank adj cmp=er
 rapid adj cmp=more adv=rapidly
 rapt adj adv=raptly
+rapturous adj adv=rapturously
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
 rational adj cmp=more adv=rationally
@@ -53,15 +54,18 @@ refractory adj
 refreshing adj adv=refreshingly
 refundable adj
 regal adj adv=regally
+regenerative adj
 regimental adj
 regional adj adv=regionally
 registrable adj
+regressive adj
 regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
 reimbursable adj
 relational adj
 relative adj adv=relatively
+relativistic adj
 relaxed adj cmp=more
 relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
@@ -76,6 +80,7 @@ reminiscent adj
 remote adj cmp=er adv=remotely
 removable adj
 renal adj
+renegade adj
 renewable adj
 renowned adj
 rental adj
@@ -121,6 +126,7 @@ reverend adj
 reverent adj adv=reverently
 reverse adj
 reversible adj
+reviewable adj
 revolutionary adj
 rhetorical adj adv=rhetorically
 rhythmic adj adv=rhythmically
@@ -171,6 +177,7 @@ ruinous adj cmp=more adv=ruinously
 runaway adj attr_only
 runny adj cmp=er
 rural adj
+russet adj
 Russian adj note=demonym or religious name, capitalized
 rustic adj
 rusty adj cmp=er

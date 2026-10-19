@@ -62,6 +62,7 @@ empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
 endogenous adj
+endothelial adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -101,6 +102,7 @@ ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
+eukaryotic adj
 Eurasian adj
 European adj
 evangelical adj
@@ -124,6 +126,7 @@ excessive adj adv=excessively
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
+executable adj
 executive adj
 exemplary adj
 exempt adj
@@ -146,6 +149,7 @@ expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
 exploitative adj
+exploratory adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly

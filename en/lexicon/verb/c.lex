@@ -100,6 +100,7 @@ chuckle verb
 cipher verb
 circle verb
 circulate verb
+circumscribe verb
 circumvent verb
 cite verb
 civilize verb gb=civilise|civilize
@@ -155,6 +156,7 @@ code verb
 codename verb
 codify verb
 coerce verb
+coexist verb
 cohabit verb
 cohabitate verb note=US variant of cohabit
 coil verb
@@ -285,12 +287,14 @@ cop verb
 cope verb
 copy verb
 copyright verb
+cordon verb
 corner verb
 corral verb double
 correct verb
 correlate verb
 correspond verb
 corroborate verb
+corrode verb
 corrupt verb
 cost verb past=cost pp=cost
 couch verb

@@ -69,6 +69,7 @@ favor          noun gb=favour
 favorite       noun gb=favourite
 fax            noun
 façade noun note=spelling with cedilla of facade
+fealty noun pl=- note=uncountable
 fear           noun
 feasibility    noun pl=- note=uncountable
 feast          noun
@@ -86,6 +87,7 @@ feedstock noun
 feel           noun
 feeling        noun
 felicity noun
+feline noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -138,6 +140,7 @@ fig            noun
 fight          noun
 fighter        noun
 figure         noun
+figurine noun
 filament noun
 file           noun
 filename noun
@@ -166,6 +169,7 @@ find           noun
 finder noun
 finding        noun
 fine           noun
+fineness noun pl=- note=uncountable
 finery noun pl=- note=uncountable
 finger         noun
 fingernail noun
@@ -209,6 +213,7 @@ fixation noun
 fixture noun
 fjord noun
 flag           noun
+flagellum noun pl=flagella
 flagship       noun
 flake noun
 flame          noun
@@ -250,6 +255,7 @@ floodplain     noun
 floor          noun
 flop noun
 flora          noun
+florin noun
 flotilla noun
 flounder noun pl=flounder|flounders
 flour          noun
@@ -282,12 +288,14 @@ foliage        noun pl=- note=uncountable
 folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
+folklorist noun
 follow-up      noun
 follower       noun
 folly          noun
 fondness noun
 font noun
 food           noun
+foodstuff noun
 fool           noun
 foolishness noun pl=- note=uncountable
 foot           noun pl=feet

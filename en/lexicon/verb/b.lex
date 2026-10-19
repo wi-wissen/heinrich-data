@@ -29,6 +29,7 @@ barrage verb
 barricade verb
 barter verb
 base verb
+bask verb
 bat verb
 bathe verb
 batter verb
@@ -76,7 +77,9 @@ bill verb
 billow verb
 bind verb past=bound pp=bound
 bisect verb
+bitch verb style=colloquial
 bite verb past=bit pp=bitten
+bivouac verb past=bivouacked pp=bivouacked ing=bivouacking
 black verb
 blacken verb
 blacklist verb

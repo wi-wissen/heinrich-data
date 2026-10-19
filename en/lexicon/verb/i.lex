@@ -64,6 +64,7 @@ infest verb
 infiltrate verb
 inflame verb
 inflate verb
+inflect verb
 inflict        verb
 influence      verb
 inform         verb

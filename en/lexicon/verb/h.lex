@@ -25,6 +25,7 @@ hatch verb
 hate           verb
 haul           verb
 haunt          verb
+haw verb note=in hem and haw
 head           verb
 headhunt verb
 headline verb
@@ -85,6 +86,7 @@ hum            verb
 humble         verb
 humiliate verb
 humor          verb gb=humour
+hump verb
 hunger         verb
 hunt           verb
 hurl           verb

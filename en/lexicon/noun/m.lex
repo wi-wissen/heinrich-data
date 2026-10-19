@@ -40,6 +40,7 @@ main           noun
 mainframe noun
 mainland       noun
 mainline noun
+mainsail noun
 mainstay noun
 mainstream     noun
 maintenance    noun pl=- note=uncountable
@@ -146,6 +147,7 @@ masculinity noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
+masque noun
 masquerade noun
 mass           noun
 massacre       noun
@@ -183,6 +185,7 @@ MB             noun abbr pl=MB note=megabyte(s)
 MBA noun abbr note=Master of Business Administration
 MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
+mead noun
 meadow         noun
 meal           noun
 mealtime noun
@@ -219,6 +222,7 @@ melancholy     noun pl=- note=uncountable
 melodrama noun
 melody         noun
 melon noun
+meltdown noun
 member         noun
 membership     noun
 membrane       noun
@@ -262,6 +266,7 @@ meteor noun
 meter          noun gb=metre sense=unit
 meter          noun sense=device
 methane        noun pl=- note=uncountable
+methanol noun pl=- note=uncountable
 method         noun
 Methodist      noun
 methodology    noun
@@ -317,6 +322,7 @@ miller noun
 millimeter noun gb=millimetre
 millionaire noun
 millipede noun
+millisecond noun
 millstone noun
 mimic noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
@@ -410,6 +416,7 @@ module         noun
 Mohawk noun
 moisture       noun pl=- note=uncountable
 molar noun
+molasses noun pl=- note=uncountable; the lemma ends in -s
 mold           noun gb=mould
 mole noun
 molecule       noun
@@ -430,11 +437,13 @@ moniker noun
 monitor        noun
 monk           noun
 monkey         noun
+monochrome noun
 monograph noun
 monologue noun
 monopile noun
 monoplane      noun
 monopoly       noun
+monotone noun
 monotony noun pl=- note=uncountable
 monoxide noun
 monsieur       noun pl=messieurs
@@ -509,6 +518,7 @@ movie          noun
 MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
 MS             noun abbr pl=MSS note=manuscript (plural MSS); multiple sclerosis
+mucosa noun pl=mucosae|mucosas
 mud            noun pl=- note=uncountable
 muddle noun
 muffin noun

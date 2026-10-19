@@ -67,7 +67,9 @@ aerobic adj
 aerodynamic adj adv=aerodynamically
 aeronautical adj
 aesthetic adj us=esthetic|aesthetic adv=aesthetically conf=90 note=esthetic is a rarer American spelling
+affable adj adv=affably
 affectionate adj cmp=more adv=affectionately
+affine adj
 affirmative adj adv=affirmatively
 affluent adj cmp=more
 affordable adj cmp=more
@@ -83,6 +85,7 @@ aggressive adj cmp=more adv=aggressively
 aggrieved adj cmp=more
 aghast adj pred_only
 agile adj cmp=more adv=agilely
+agnostic adj
 agrarian adj
 agreeable adj cmp=more adv=agreeably
 agricultural adj adv=agriculturally
@@ -132,6 +135,7 @@ amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
 amino adj attr_only note=as in amino acid
 amiss adj pred_only
+amorous adj adv=amorously
 amphibious adj
 ample adj cmp=er adv=amply
 amusing adj cmp=more adv=amusingly
@@ -174,6 +178,7 @@ antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 antitrust adj
 anxious adj cmp=more adv=anxiously
+apocalyptic adj
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
@@ -242,6 +247,7 @@ athletic adj
 Atlantic adj
 atmospheric adj
 atomic adj
+atrial adj
 atrocious adj adv=atrociously
 attainable adj
 attentive adj cmp=more adv=attentively
@@ -265,6 +271,7 @@ authoritative adj cmp=more adv=authoritatively
 autistic adj
 autobiographical adj
 autocratic adj
+autoimmune adj
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously
@@ -283,6 +290,7 @@ aware adj cmp=more
 awesome adj cmp=more
 awful adj cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
+awry adj pred_only
 axial adj
 Azerbaijani adj
 Aztec adj

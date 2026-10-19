@@ -12,6 +12,7 @@ uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
 unconsciousness noun pl=- note=uncountable
+underbrush noun pl=- note=uncountable
 undercut noun
 underestimate noun
 undergraduate noun
@@ -51,6 +52,7 @@ unity         noun note=plural unities: the dramatic unities
 universe      noun
 university    noun
 unknown       noun
+unpopularity noun pl=- note=uncountable
 unrest        noun pl=- note=uncountable
 unwillingness noun pl=- note=uncountable
 upbringing noun
@@ -88,10 +90,13 @@ usefulness noun pl=- note=uncountable
 user          noun
 username noun
 usher noun
+usurpation noun
 usurper noun
 utensil noun
 uterus noun pl=uteri|uteruses
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)
+utopia noun
+utopian noun
 utterance     noun

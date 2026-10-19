@@ -6,6 +6,7 @@ cabinet noun
 cable noun
 cache noun
 cactus noun pl=cacti|cactuses
+cadence noun
 cadet noun
 cadre noun
 cafe noun conf=90 note=also written café
@@ -64,6 +65,7 @@ canine noun
 cannabis noun pl=- note=uncountable
 cannibal noun
 cannon noun pl=cannons|cannon
+cannonade noun
 canoe noun
 canoeist noun
 canon noun
@@ -105,6 +107,7 @@ carbohydrate noun
 carbon noun
 carbonate noun
 carbuncle noun
+carburetor noun gb=carburettor
 carcass noun
 card noun
 cardboard noun pl=- note=uncountable
@@ -119,6 +122,7 @@ caress noun
 caretaker noun
 cargo noun pl=cargoes|cargos
 caricature noun
+carina noun pl=carinae|carinas conf=90 note=anatomy, botany
 carnage noun pl=- note=uncountable
 carnival noun
 carol noun
@@ -242,6 +246,7 @@ certainty noun
 certificate noun
 certification noun
 cessation noun
+cession noun
 cetacean noun
 CFC noun abbr note=chlorofluorocarbon
 CFO noun abbr note=chief financial officer
@@ -276,6 +281,8 @@ chant noun
 chaos noun pl=- note=uncountable
 chap noun
 chapel noun
+chaperon noun conf=90 note=variant spelling of chaperone
+chaperone noun
 chaplain noun
 chapter noun
 character noun
@@ -327,6 +334,7 @@ chess noun pl=- note=the game
 chest noun
 chestnut noun
 chevalier noun
+chevron noun
 Cheyenne noun pl=Cheyenne|Cheyennes note=the people; also the city
 chi noun conf=90 note=Greek letter; vital energy (also qi)
 chick noun
@@ -508,12 +516,14 @@ coastguard noun
 coastline noun
 coat noun
 coating noun
+cob noun
 cobra noun
 coca noun pl=- note=uncountable
 cocaine noun pl=- note=uncountable
 cock noun
 cockatoo noun
 cockerel noun
+Cockney noun
 cockpit noun
 cockroach noun
 cocktail noun
@@ -530,6 +540,7 @@ codification noun
 coding noun
 coefficient noun
 coercion noun pl=- note=uncountable
+coexistence noun pl=- note=uncountable
 coffee noun
 coffin noun
 cofounder noun conf=85 note=also co-founder
@@ -538,6 +549,7 @@ cognition noun
 cohabitation noun pl=- note=uncountable
 coherence noun pl=- note=uncountable
 cohesion noun pl=- note=uncountable
+coho noun pl=coho|cohos note=salmon species; plural mostly unchanged
 cohort noun
 coil noun
 coin noun
@@ -560,7 +572,9 @@ collection noun
 collective noun
 collector noun
 college noun
+collie noun
 collier noun
+colliery noun
 collision noun
 collusion noun pl=- note=uncountable
 cologne noun
@@ -606,10 +620,12 @@ commentator noun
 commenter noun
 commerce noun pl=- note=uncountable
 commercial noun
+commercialization noun gb=commercialisation|commercialization
 commissary noun
 commission noun
 commissioner noun
 commitment noun
+committal noun
 committee noun
 commodity noun
 commodore noun
@@ -625,6 +641,7 @@ communion noun
 communism noun pl=- note=uncountable
 communist noun
 community noun
+commutation noun
 commute noun
 commuter noun
 compact noun
@@ -724,6 +741,7 @@ confederation noun
 conference noun
 conferencing noun pl=- note=uncountable
 confession noun
+confessional noun
 confessor noun
 confidant noun
 confidence noun
@@ -751,6 +769,7 @@ conjecture noun
 conjugation noun
 conjunction noun
 connection noun
+connective noun
 connectivity noun pl=- note=uncountable
 connector noun
 connexion noun style=archaic conf=90 note=old British spelling of connection
@@ -843,6 +862,7 @@ contrivance noun
 control noun
 controller noun
 controversy noun
+conurbation noun
 convection noun pl=- note=uncountable
 convenience noun
 convent noun
@@ -889,6 +909,7 @@ coquette noun
 coral noun
 cord noun
 cordiality noun pl=- note=uncountable
+cordon noun
 core noun
 corium noun
 cork noun
@@ -945,6 +966,7 @@ countenance noun
 counter noun
 counteraction noun
 counterattack noun
+counterculture noun
 counterfeit noun
 countermeasure noun
 counteroffer noun conf=85 note=also counter-offer
@@ -952,6 +974,7 @@ counterpart noun
 counterparty noun
 countersignature noun
 counterterrorism noun pl=- gb=counter-terrorism|counterterrorism conf=90 note=uncountable; British texts mostly hyphenate
+counterweight noun
 countess noun
 country noun
 countryman noun pl=countrymen
@@ -1007,6 +1030,7 @@ crankshaft noun
 crash noun
 crate noun
 crater noun
+cravat noun
 craving noun
 crawl noun
 crayfish noun pl=crayfish|crayfishes
@@ -1015,6 +1039,7 @@ craze noun
 creak noun
 cream noun
 crease noun
+creatinine noun pl=- note=uncountable
 creation noun
 creative noun
 creativity noun pl=- note=uncountable
@@ -1125,6 +1150,7 @@ cure noun
 curfew noun
 curiosity noun
 curl noun
+curler noun
 currency noun
 current noun
 curriculum noun pl=curricula|curriculums
@@ -1135,6 +1161,7 @@ curtain noun
 curvature noun
 curve noun
 cushion noun
+cusp noun
 custard noun
 custodian noun
 custody noun pl=- note=uncountable
@@ -1162,6 +1189,7 @@ cynic noun
 cynicism noun pl=- note=uncountable
 cypress noun
 Cypriot noun
+cysteine noun pl=- note=uncountable
 cytochrome noun
 czar noun conf=90 note=tsar is a separate entry
 Czech noun pl=Czechs note=a person; the language

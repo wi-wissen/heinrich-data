@@ -178,6 +178,7 @@ skirt verb
 skyrocket verb
 slack verb
 slacken verb
+slag verb
 slam verb
 slander verb
 slant verb
@@ -294,6 +295,7 @@ sprint verb
 sprout verb
 spruce verb
 spur verb
+spurn verb
 spy verb
 squall verb
 squander verb
@@ -365,6 +367,7 @@ strain verb
 strand verb
 strangle verb
 strap verb
+stratify verb
 stray verb
 streak verb
 stream verb
@@ -429,6 +432,7 @@ summon verb
 sunbathe verb
 sunburn verb past=sunburned|sunburnt pp=sunburned|sunburnt conf=90
 sup verb note=to eat supper; to sip
+superimpose verb
 supersede verb
 supervise verb
 supplant verb
@@ -462,6 +466,7 @@ sway verb
 swear verb past=swore pp=sworn
 sweat verb
 sweep verb past=swept pp=swept
+sweeten verb
 swell verb past=swelled pp=swollen|swelled
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung

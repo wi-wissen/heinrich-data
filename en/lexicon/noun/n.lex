@@ -1,5 +1,6 @@
 nacho noun pl=nachos
 nail          noun
+nakedness noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
@@ -33,7 +34,9 @@ navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+nearness noun pl=- note=uncountable
 neatness noun pl=- note=uncountable
+nebula noun pl=nebulae|nebulas
 necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
@@ -48,12 +51,14 @@ neglect       noun
 negligence    noun pl=- note=uncountable
 negotiation   noun
 negotiator noun
+negress noun style=archaic|offensive alt=Black_woman note=historical term, now offensive
 negro         noun pl=negroes style=archaic|offensive alt=Black_person note=historical term, now offensive
 Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
 neoliberal noun
+neoliberalism noun pl=- note=uncountable
 neon noun pl=- note=uncountable
 nephew        noun
 nerve         noun
@@ -68,6 +73,7 @@ neuron noun gb=neuron|neurone
 neuroscience noun pl=- note=uncountable
 neutral       noun
 neutrality    noun pl=- note=uncountable
+neutrino noun pl=neutrinos
 neutron noun
 newborn noun
 newcomer noun
@@ -78,6 +84,7 @@ newsdesk noun
 newsletter noun
 newspaper     noun
 newsroom noun
+newt noun
 newton        noun note=SI unit of force
 NGO noun abbr note=non-governmental organization
 nibble noun
@@ -101,17 +108,20 @@ nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
 ninja noun
+nipple noun
 nitrate noun
 nitrogen      noun pl=- note=uncountable
 no noun pl=noes conf=80 note=a negative answer or vote (the ayes and the noes)
 nobility      noun
 noble         noun
 nobleman      noun pl=noblemen
+noblewoman noun pl=noblewomen
 nod           noun
 node          noun
 noir noun pl=- note=film noir; crime genre
 noise         noun
 nomad noun
+nomen noun pl=nomina conf=85 note=Roman family name; taxonomy (nomen nudum)
 nomenclature noun
 nomination    noun
 nominative noun
@@ -151,6 +161,7 @@ note          noun
 notebook noun
 notepad noun
 notepaper noun pl=- note=uncountable
+nothingness noun pl=- note=uncountable
 notice        noun
 noticeboard noun region=GB conf=90 note=US bulletin board
 notification  noun
@@ -187,4 +198,5 @@ nut           noun
 nutmeg noun
 nutrient noun
 nutrition     noun pl=- note=uncountable
+nylon noun
 nymph noun

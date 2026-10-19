@@ -4,6 +4,8 @@ vaccination   noun
 vaccine       noun
 vacuum        noun
 vagabond noun
+vagary noun
+vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
 vale          noun
 valentine noun
@@ -36,11 +38,13 @@ variety       noun
 varnish noun
 varsity noun
 vase noun
+vasectomy noun
 vassal noun
 VAT           noun abbr pl=- note=value-added tax
 vaudeville noun pl=- note=uncountable
 vault         noun
 vector        noun
+vegan noun
 vegetable     noun
 vegetarian noun
 vegetation    noun pl=- note=uncountable
@@ -74,6 +78,7 @@ vernacular noun
 versatility noun pl=- note=uncountable
 verse         noun
 version       noun
+vertebra noun pl=vertebrae
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
 vertigo noun pl=vertigoes|vertigos

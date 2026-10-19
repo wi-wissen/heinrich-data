@@ -19,6 +19,7 @@ abuse verb
 abut verb double
 accede verb
 accelerate verb
+accentuate verb
 accept verb
 access verb
 acclaim verb
@@ -163,6 +164,7 @@ ascertain verb
 ascribe verb
 ask verb
 asphalt verb
+aspirate verb
 aspire verb
 assail verb
 assassinate verb
@@ -187,6 +189,7 @@ attack verb
 attain verb
 attempt verb
 attend verb
+attenuate verb
 attest verb
 attire verb
 attract verb
@@ -202,6 +205,7 @@ autograph verb
 automate verb
 avail verb
 avenge verb
+aver verb double
 average verb
 avert verb
 avoid verb

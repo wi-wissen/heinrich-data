@@ -93,6 +93,7 @@ messianic adj
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
+metaphorical adj adv=metaphorically
 metaphysical adj
 meteorological adj
 methodical adj cmp=more adv=methodically
@@ -154,11 +155,13 @@ monastic      adj
 monetary      adj
 Mongol adj
 mono adj
+monochrome adj
+monotone adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
-moody adj cmp=er
+moody adj cmp=er adv=moodily
 moonlit adj
 Moorish       adj
 moral         adj adv=morally
@@ -171,6 +174,7 @@ mortuary adj
 mossy adj cmp=er
 motherly adj cmp=more
 motionless    adj
+motivational adj
 motley adj
 mottled adj
 mountainous   adj

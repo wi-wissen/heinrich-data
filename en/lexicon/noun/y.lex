@@ -3,6 +3,7 @@ yak noun
 Yankee noun note=demonym or religious name, capitalized
 yard noun
 yarn noun
+yaw noun
 yawn noun
 year noun
 year-old noun note=a five-year-old
@@ -11,6 +12,7 @@ yeast noun
 yell noun
 yellow noun
 yesterday noun
+yew noun
 yid noun style=offensive note=antisemitic slur
 yield noun
 yo-yo noun pl=yo-yos
@@ -23,4 +25,5 @@ Yorker noun note=demonym, in New Yorker
 youngster noun
 youth noun
 yuan noun pl=yuan note=Chinese currency
+yucca noun
 Yugoslav noun note=demonym or religious name, capitalized

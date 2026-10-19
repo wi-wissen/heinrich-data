@@ -122,6 +122,7 @@ rebellion noun
 rebirth noun
 reboot noun
 rebound noun
+rebuff noun
 rebuke noun
 rebuttal noun
 recall noun
@@ -177,6 +178,7 @@ recycling noun pl=- note=uncountable
 red noun
 redaction noun
 redcurrant noun
+redeemer noun
 redemption noun
 redeployment noun
 redesign noun
@@ -210,6 +212,7 @@ reformation noun note=the historical Reformation is a separate propn
 reformer noun
 reformist noun
 refrain noun
+refresher noun
 refreshment noun
 refrigerant noun
 refrigeration noun pl=- note=uncountable
@@ -300,6 +303,8 @@ remuneration noun
 renaissance noun
 rendezvous noun pl=rendezvous
 rendition noun
+renegade noun
+renegotiation noun
 renewable noun
 renewal noun
 renovation noun
@@ -376,6 +381,7 @@ reservist noun
 reservoir noun
 reset noun
 resettlement noun
+reshuffle noun
 residence noun
 residency noun
 resident noun
@@ -389,6 +395,7 @@ resistance noun
 resolution noun
 resolve noun pl=- note=uncountable
 resonance noun
+resonator noun
 resort noun
 resource noun
 respect noun
@@ -421,6 +428,7 @@ retailer noun
 retainer noun
 retake noun
 retaliation noun pl=- note=uncountable
+retelling noun
 retention noun pl=- note=uncountable
 rethink noun
 reticence noun pl=- note=uncountable
@@ -466,6 +474,7 @@ revulsion noun pl=- note=uncountable
 reward noun
 rewrite noun
 RFI noun abbr note=request for information
+rhapsody noun
 rhetoric noun pl=- note=uncountable
 rheumatism noun
 rhino noun pl=rhinos
@@ -488,6 +497,7 @@ ridge noun
 ridicule noun pl=- note=uncountable
 riff noun
 rifle noun
+rifleman noun pl=riflemen
 rift noun
 rig noun
 rigging noun
@@ -498,6 +508,7 @@ rigidity noun
 rigor noun gb=rigour
 rim noun
 ring noun
+ringette noun pl=- note=uncountable; sport
 ringtone noun
 rink noun
 riot noun
@@ -512,6 +523,7 @@ ritual noun
 rival noun
 rivalry noun
 river noun
+riverfront noun
 riverside noun
 rivet noun
 rivulet noun
@@ -565,6 +577,7 @@ rota noun region=GB note=US roster, schedule
 rotary noun
 rotation noun
 rotor noun
+rotorcraft noun pl=rotorcraft
 rouge noun
 rough noun
 roughness noun
@@ -596,6 +609,7 @@ rucksack noun
 rudder noun
 rudeness noun pl=- note=uncountable
 rue noun note=herb
+ruff noun
 ruffian noun
 ruffle noun
 rug noun
@@ -616,9 +630,11 @@ runner-up noun pl=runners-up
 runoff noun
 runtime noun
 runway noun
+rupee noun
 rupture noun
 ruse noun
 rush noun
+russet noun
 Russian noun note=demonym or religious name, capitalized
 rust noun
 rustle noun

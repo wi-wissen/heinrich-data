@@ -50,6 +50,7 @@ deacon noun
 deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
+deafness noun pl=- note=uncountable
 deal noun
 dealer noun
 dealership noun
@@ -147,6 +148,7 @@ delta noun
 deluge noun
 delusion noun
 demand noun
+demarcation noun
 demeanor noun gb=demeanour
 dementia noun
 demise noun
@@ -287,6 +289,7 @@ difference noun
 differential noun
 differentiation noun
 difficulty noun
+diffidence noun pl=- note=uncountable
 diffraction noun
 diffusion noun
 dig noun
@@ -303,8 +306,10 @@ dilution noun
 dime noun
 dimension noun
 diminution noun
+dimness noun pl=- note=uncountable
 din noun
 diner noun
+dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
@@ -334,6 +339,7 @@ disappearance noun
 disappointment noun
 disapproval noun
 disarmament noun
+disarray noun pl=- note=uncountable
 disaster noun
 disbarment noun
 disbelief noun pl=- note=uncountable
@@ -353,6 +359,7 @@ discontinuance noun
 discontinuation noun
 discord noun
 discount noun
+discouragement noun
 discourse noun
 discoverer noun
 discovery noun
@@ -542,6 +549,7 @@ drawl noun
 dread noun
 dream noun
 dreamer noun
+dregs noun pl_only
 dress noun
 dresser noun
 dressing noun
@@ -565,6 +573,8 @@ drunk noun
 drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
+dryness noun pl=- note=uncountable
+duality noun
 ducat noun
 duchess noun
 duchy noun
