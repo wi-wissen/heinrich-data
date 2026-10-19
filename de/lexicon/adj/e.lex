@@ -46,7 +46,7 @@ eklig adj cmp=ekliger sup=ekligsten
 elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
 elektronisch adj
-elementar adj
+elementar adj cmp=elementarer sup=elementarsten
 elend adj cmp=elender sup=elendsten
 elterlich adj
 emotional adj

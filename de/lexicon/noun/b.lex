@@ -34,6 +34,7 @@ Ballon noun g=m gen=Ballons pl=Ballons|Ballone
 Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
 Bambus noun g=m gen=Bambus|Bambusses pl=Bambusse
+Ban noun g=m gen=Bans pl=Bane conf=70 note=historical title of the Croatian viceroy (also Banus); many hits are the name Ban Ki-moon
 Banane noun g=f gen=Banane pl=Bananen
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume
 Band          noun g=n gen=Bandes|Bands pl=Bänder|Bande[rare] sense=ribbon

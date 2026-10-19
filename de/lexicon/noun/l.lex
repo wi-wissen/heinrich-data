@@ -180,6 +180,7 @@ Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
 Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
+Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
 Liga noun g=f gen=Liga pl=Ligen
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
