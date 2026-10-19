@@ -1,5 +1,6 @@
 obedient adj cmp=more adv=obediently
 objective      adj adv=objectively
+obligatory adj
 oblique adj adv=obliquely
 obscene adj cmp=more adv=obscenely
 obscure        adj cmp=more adv=obscurely
@@ -58,6 +59,7 @@ ornamental     adj
 orthodox       adj
 ostensible adj adv=ostensibly
 Ottoman        adj
+outbound adj
 outdated       adj
 outdoor        adj attr_only
 outer          adj attr_only
@@ -75,10 +77,13 @@ overall        adj
 overarching adj
 overcast adj
 overcrowded adj
+overdrawn adj
 overdue adj
 overgrown adj
 overhead       adj
 overnight      adj
+overqualified adj
 overseas       adj
 overwhelming   adj adv=overwhelmingly
+overworked adj
 own            adj

@@ -4,6 +4,7 @@ table noun
 tablecloth noun
 tablespoon noun
 tablet noun
+tabletop noun
 tack noun
 tackle noun
 taco noun pl=tacos
@@ -11,6 +12,7 @@ tact noun pl=- note=uncountable
 tactic noun
 tadpole noun
 tag noun
+tagline noun
 tail noun
 tailor noun
 takeaway noun region=GB note=US takeout
@@ -45,6 +47,7 @@ tavern noun
 tax noun
 taxation noun
 taxi noun
+taxman noun pl=taxmen
 taxonomy noun
 taxpayer noun
 TB noun abbr pl=- note=tuberculosis
@@ -53,6 +56,7 @@ teacher noun
 teaching noun
 team noun
 teammate noun
+teamwork noun pl=- note=uncountable
 teapot noun
 tear noun sense=drop
 tear noun sense=rip
@@ -65,15 +69,21 @@ technology noun
 teddy noun
 teen noun
 teenager noun
+telecom noun conf=85
 telecommunications noun pl_only
+telecommuting noun pl=- note=uncountable
+teleconference noun
 telegram noun
 telegraph noun
 telegraphy noun pl=- note=uncountable
 telehealth noun pl=- note=uncountable
+telemarketing noun pl=- note=uncountable
 telemedicine noun pl=- note=uncountable
 telephone noun
+telephonist noun region=GB
 telescope noun
 television noun
+teleworking noun pl=- note=uncountable
 temper noun
 temperament noun
 temperance noun pl=- note=uncountable
@@ -96,6 +106,7 @@ tension noun
 tensor noun
 tent noun
 tenure noun
+terabyte noun
 tergum noun pl=terga note=dorsal plate of an arthropod segment
 term noun
 terminal noun
@@ -111,6 +122,8 @@ terrorism noun
 terrorist noun
 test noun
 testament noun
+testator noun
+testimonial noun
 testimony noun
 Texan noun
 text noun
@@ -152,6 +165,7 @@ throng noun
 thrush noun
 thrust noun
 thumb noun
+thumbnail noun
 thumbtack noun region=US note=British drawing pin
 thunder noun
 thunderstorm noun
@@ -170,9 +184,15 @@ tile noun
 tilt noun
 timber noun
 time noun
+timecard noun
 timeframe noun
+timekeeping noun pl=- note=uncountable
 timeline noun
 timeliness noun pl=- note=uncountable
+timescale noun
+timeshare noun
+timesheet noun
+timestamp noun
 timetable noun
 timing noun
 tin noun
@@ -203,12 +223,14 @@ tomb noun
 tomorrow noun pl=- note=no plural: deictic time noun
 ton noun
 tone noun
+toner noun
 tongue noun
 tonight noun pl=- note=no plural: deictic time noun
 tonnage noun
 tonne noun
 tonsillitis noun pl=- note=uncountable
 tool noun
+toolbar noun
 tooth noun pl=teeth
 toothache noun
 toothbrush noun
@@ -224,6 +246,7 @@ tornado noun pl=tornadoes
 torpedo noun pl=torpedoes
 torque noun
 torrent noun
+tort noun
 tortilla noun
 tortoise noun
 torture noun
@@ -235,6 +258,7 @@ toucan noun
 touch noun
 touchdown noun
 touchpad noun
+touchpoint noun
 touchscreen noun
 tour noun
 tourism noun pl=- note=uncountable
@@ -248,7 +272,9 @@ township noun
 toxicity noun
 toy noun
 trace noun
+traceability noun pl=- note=uncountable
 track noun
+tracker noun
 trackpad noun
 tracksuit noun
 tract noun
@@ -262,6 +288,7 @@ tragedy noun
 trail noun
 trailer noun
 train noun
+trainee noun
 trainer noun
 trait noun
 traitor noun
@@ -334,6 +361,8 @@ trooper noun
 trophy noun
 trot noun
 trouble noun
+troubleshooter noun
+troubleshooting noun pl=- note=uncountable
 trough noun
 trousers noun pl_only
 trout noun pl=trout
@@ -343,6 +372,8 @@ trumpet noun
 trunk noun
 trust noun
 trustee noun
+trusteeship noun
+trustworthiness noun pl=- note=uncountable
 truth noun
 try noun
 tsar noun note=czar is a separate entry
@@ -367,6 +398,7 @@ turkey noun
 Turkish noun pl=- note=the language
 turmoil noun
 turn noun
+turnaround noun
 turnip noun
 turnout noun
 turnover noun
@@ -375,6 +407,7 @@ turret noun
 turtle noun
 tusk noun
 tutor noun
+tutorial noun
 TV noun abbr note=television
 twig noun
 twilight noun
@@ -383,5 +416,7 @@ twinkle noun
 twist noun
 type noun
 typhoon noun
+typist noun
+typo noun pl=typos
 tyranny noun
 tyrant noun

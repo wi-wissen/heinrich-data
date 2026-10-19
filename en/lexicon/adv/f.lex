@@ -7,6 +7,7 @@ foremost       adv
 forever        adv type=time
 forth          adv type=place|time
 forthwith      adv type=time
+fortnightly adv region=GB
 forward        adv
 forwards       adv
 fro            adv note=only in to and fro

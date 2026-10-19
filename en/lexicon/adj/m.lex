@@ -29,6 +29,7 @@ marine        adj
 marital adj
 maritime      adj
 marked adj cmp=more adv=markedly
+marketable adj cmp=more
 martial       adj
 marvelous     adj gb=marvellous adv=marvelously
 Marxist adj
@@ -74,6 +75,7 @@ metabolic adj
 metallic      adj
 metaphysical adj
 Methodist     adj
+meticulous adj cmp=more adv=meticulously
 metric        adj
 metropolitan  adj
 Mexican       adj
@@ -139,6 +141,7 @@ muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
 multilateral  adj
+multilingual adj
 multinational adj
 multiplayer adj
 multiple      adj

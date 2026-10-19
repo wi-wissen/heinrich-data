@@ -1,3 +1,4 @@
+wade verb
 wag verb
 wage verb
 wail verb
@@ -5,6 +6,7 @@ wait verb
 waive verb
 wake verb past=woke pp=woken
 walk verb
+wall verb
 wander verb
 want verb
 ward verb
@@ -19,6 +21,7 @@ wave verb
 waver verb
 wax verb
 weaken verb
+wean verb
 wear verb past=wore pp=worn
 weary verb
 weather verb
@@ -33,6 +36,7 @@ welcome verb
 wet verb past=wet|wetted pp=wet|wetted
 whale verb
 wheel verb
+while verb
 whimper verb
 whine verb
 whip verb
@@ -40,6 +44,8 @@ whirl verb
 whisk verb
 whisper verb
 whistle verb
+whitelist verb
+whittle verb
 whizz verb
 widen verb
 widow verb
@@ -51,6 +57,7 @@ windsurf verb
 wink verb
 wipe verb
 wire verb
+wise verb
 wish verb
 withdraw verb prefix=with past=withdrew pp=withdrawn
 wither verb

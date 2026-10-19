@@ -1,6 +1,7 @@
 habit          noun
 habitat        noun
 habitation     noun
+hacker noun
 haddock noun pl=haddock|haddocks
 hail           noun
 hair           noun
@@ -30,7 +31,10 @@ handful        noun
 handkerchief   noun note=plural handkerchiefs
 handle         noun
 handler noun
+handoff noun
 handout noun
+handover noun
+handshake noun
 handwriting    noun
 hanger noun
 happiness      noun pl=- note=uncountable
@@ -67,7 +71,10 @@ hazelnut noun
 head           noun
 headache       noun
 headband noun
+headcount noun
 header noun
+headhunter noun
+headhunting noun pl=- note=uncountable
 heading        noun
 headline       noun
 headmaster noun
@@ -82,6 +89,7 @@ healthcare     noun pl=- note=uncountable
 heap           noun
 hearer noun
 hearing        noun
+hearsay noun pl=- note=uncountable
 heart          noun
 hearth         noun
 heat           noun
@@ -107,6 +115,7 @@ hell           noun
 helm           noun
 helmet         noun
 help           noun
+helpdesk noun conf=90 note=also help desk
 helpline noun
 hemisphere noun
 hen noun
@@ -172,6 +181,7 @@ home           noun
 homeland       noun
 homelessness   noun pl=- note=uncountable
 homeowner      noun
+homepage noun
 homeroom noun region=US
 homesickness noun pl=- note=uncountable
 homestead noun
@@ -183,6 +193,7 @@ homosexuality noun
 honesty        noun pl=- note=uncountable
 honey          noun
 honor          noun gb=honour
+honorarium noun pl=honoraria|honorariums
 hood           noun
 hoodie noun
 hoof noun pl=hooves|hoofs
@@ -213,6 +224,8 @@ hostel noun
 hostess        noun
 hostility      noun
 hotel          noun
+hotline noun
+hotspot noun
 hound          noun
 hour           noun
 house          noun
@@ -258,5 +271,6 @@ hydrogen       noun pl=- note=uncountable
 hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun
+hyperlink noun
 hypocrisy noun
 hypothesis     noun pl=hypotheses

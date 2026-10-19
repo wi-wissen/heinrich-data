@@ -40,6 +40,7 @@ hemorrhagic adj gb=haemorrhagic
 hereditary     adj
 heroic         adj adv=heroically
 hideous        adj adv=hideously
+hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
 hilarious adj cmp=more adv=hilariously
 hilly adj cmp=er

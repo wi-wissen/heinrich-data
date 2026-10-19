@@ -6,6 +6,7 @@ baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
 Baltic adj
+bankable adj
 bankrupt adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
@@ -22,6 +23,7 @@ beautiful adj cmp=more adv=beautifully
 behavioral adj gb=behavioural
 beige adj
 Belarusian adj
+belated adj adv=belatedly
 Belgian adj
 beloved adj
 Benedictine adj
@@ -32,11 +34,14 @@ benign adj adv=benignly
 Berber adj
 bereaved adj
 bespoke adj
+biannual adj adv=biannually
 biblical adj
 big adj cmp=er
 bilateral adj adv=bilaterally
 bilingual adj
+billable adj
 binary adj
+binding adj
 biographical adj
 biological adj adv=biologically
 biometric adj
@@ -44,6 +49,7 @@ bipartisan adj
 bipolar adj
 bisexual adj
 bitter adj cmp=er|more adv=bitterly
+biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
 bland adj cmp=er adv=blandly
@@ -94,5 +100,6 @@ buoyant adj adv=buoyantly
 burdensome adj
 bureaucratic adj cmp=more adv=bureaucratically
 Burmese adj
+businesslike adj cmp=more
 busy adj cmp=er adv=busily
 Byzantine adj

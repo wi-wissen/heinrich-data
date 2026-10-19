@@ -2,6 +2,7 @@ sacred adj cmp=more
 sad adj cmp=er adv=sadly
 safe adj cmp=er adv=safely
 sage adj
+salaried adj
 saltwater adj
 salty adj cmp=er
 same adj
@@ -17,6 +18,7 @@ Saudi adj
 savage adj cmp=more adv=savagely
 savory adj gb=savoury
 Saxon adj note=demonym, capitalized
+scalable adj
 Scandinavian adj
 scant adj
 scanty adj cmp=er
@@ -49,6 +51,7 @@ select adj
 selective adj cmp=more adv=selectively
 selfish adj cmp=more adv=selfishly
 semi-arid adj
+semiannual adj conf=85
 seminal adj
 senior adj
 senseless adj

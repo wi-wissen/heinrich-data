@@ -47,11 +47,13 @@ ranger noun
 rank noun
 ranking noun
 ransom noun
+ransomware noun pl=- note=uncountable
 rap noun
 rape noun
 rapid noun note=mainly plural rapids
 rapidity noun pl=- note=uncountable
 rapper noun
+rapport noun
 rapture noun
 rascal noun
 rash noun
@@ -82,22 +84,29 @@ reading noun
 realism noun pl=- note=uncountable
 reality noun
 realization noun gb=realisation|realization
+reallocation noun
 realm noun
+realtor noun conf=90 note=chiefly American; British estate agent
 rear noun
 reason noun
 reasonableness noun pl=- note=uncountable
 reasoning noun
+reassignment noun
 reassurance noun
 rebate noun
 rebel noun
 rebellion noun
+reboot noun
 rebound noun
 rebuke noun
 rebuttal noun
 recall noun
+recap noun
 recapture noun
 receipt noun
+receivable noun
 receiver noun
+receivership noun
 reception noun
 receptionist noun
 receptor noun
@@ -125,16 +134,21 @@ recourse noun pl=- note=uncountable
 recovery noun
 recreation noun
 recruit noun
+recruiter noun
 recruitment noun pl=- note=uncountable
 rectangle noun
+rectification noun
 rector noun
 recurrence noun
+recusal noun
 recycling noun pl=- note=uncountable
 red noun
 redcurrant noun
 redemption noun
+redeployment noun
 redesign noun
 redevelopment noun
+redirect noun
 redistribution noun
 redress noun pl=- note=uncountable
 reduction noun
@@ -172,6 +186,7 @@ regime noun
 regiment noun
 region noun
 register noun
+registrant noun
 registrar noun
 registration noun
 registry noun
@@ -189,6 +204,8 @@ rein noun
 reindeer noun pl=reindeer
 reinforcement noun
 reinstatement noun
+reinsurance noun pl=- note=uncountable
+reinvestment noun
 reissue noun
 rejection noun
 relation noun
@@ -218,9 +235,11 @@ remedy noun
 remembrance noun
 reminder noun
 remit noun
+remittance noun
 remix noun
 remnant noun
 remorse noun pl=- note=uncountable
+remortgage noun region=GB
 remote noun note=remote control
 removal noun
 remuneration noun
@@ -248,6 +267,7 @@ replacement noun
 replica noun
 replication noun
 reply noun
+repo noun conf=85 note=short for repository
 report noun
 reporter noun
 repose noun pl=- note=uncountable
@@ -255,6 +275,8 @@ repository noun
 representation noun
 representative noun
 repression noun
+reprieve noun
+reprimand noun
 reprint noun
 reprise noun
 reproach noun
@@ -267,9 +289,12 @@ request noun
 requestor noun note=also spelled requester
 requirement noun
 requisite noun
+requisition noun
+rescission noun
 rescue noun
 research noun
 researcher noun
+reseller noun
 resemblance noun
 resentment noun
 reservation noun
@@ -305,15 +330,19 @@ restitution noun pl=- note=uncountable
 restoration noun
 restraint noun
 restriction noun
+restructuring noun
 result noun
+resume noun conf=85 note=US for curriculum vitae; also written résumé
 resumption noun
 resurgence noun
 resurrection noun
 retail noun pl=- note=uncountable
 retailer noun
+retainer noun
 retaliation noun pl=- note=uncountable
 retention noun pl=- note=uncountable
 retina noun pl=retinas|retinae
+retiree noun
 retirement noun
 retort noun
 retreat noun
@@ -323,6 +352,7 @@ return noun
 reunification noun
 reunion noun
 reuse noun
+revaluation noun
 revelation noun
 revenge noun pl=- note=uncountable
 revenue noun
@@ -385,6 +415,8 @@ river noun
 riverside noun
 RNA noun abbr pl=- note=ribonucleic acid
 road noun
+roadblock noun
+roadmap noun
 roadside noun
 roadway noun
 roar noun
@@ -400,6 +432,7 @@ rocket noun
 rod noun
 rodent noun
 rogue noun
+ROI noun abbr pl=- note=return on investment
 role noun
 roll noun
 roller noun
@@ -421,6 +454,7 @@ rose noun
 rosemary noun pl=- note=uncountable
 roster noun
 rot noun
+rota noun region=GB note=US roster, schedule
 rotation noun
 rotor noun
 rouge noun
@@ -463,9 +497,11 @@ runaway noun
 runner noun
 runner-up noun pl=runners-up
 runoff noun
+runtime noun
 runway noun
 rupture noun
 rush noun
 Russian noun note=demonym or religious name, capitalized
 rustle noun
 rye noun
+résumé noun conf=85 note=also written resume

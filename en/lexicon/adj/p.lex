@@ -6,6 +6,7 @@ Palestinian adj note=demonym or religious name, capitalized
 palliative adj
 pandemic adj
 papal adj
+paperless adj
 parallel adj
 Paralympic adj
 paramilitary adj
@@ -156,12 +157,14 @@ privileged adj cmp=more
 privy adj
 proactive adj cmp=more adv=proactively
 probable adj adv=probably
+probationary adj
 problematic adj cmp=more
 procedural adj adv=procedurally
 prodigious adj adv=prodigiously
 productive adj cmp=more adv=productively
 profane adj
 professional adj cmp=more adv=professionally
+proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
 profound adj cmp=more adv=profoundly
 programmatic adj
@@ -196,6 +199,7 @@ psychic adj
 psychological adj adv=psychologically
 public adj cmp=more adv=publicly
 pulmonary adj
+punctual adj cmp=more adv=punctually
 punishable adj
 punitive adj
 pure adj cmp=er adv=purely

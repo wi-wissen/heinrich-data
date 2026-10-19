@@ -21,6 +21,7 @@ deceptive adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
+deductible adj
 deep adj cmp=er adv=deeply
 defective adj
 defensive adj adv=defensively
@@ -41,6 +42,7 @@ demographic adj
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
+dependable adj cmp=more
 dependent adj cmp=more
 depressed adj cmp=more
 derivative adj
@@ -119,6 +121,7 @@ dormant adj
 dorsal adj
 double adj
 doubtful adj cmp=more adv=doubtfully
+downloadable adj
 downstairs adj
 downstream adj
 downtown adj

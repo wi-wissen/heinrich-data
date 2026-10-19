@@ -1,3 +1,4 @@
+zero verb
 zigzag verb double
 zip verb
 zone verb

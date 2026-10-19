@@ -62,6 +62,7 @@ vest          noun
 vet noun
 veteran       noun
 veto          noun pl=vetoes
+vetting noun pl=- note=uncountable
 vexation noun
 viability     noun pl=- note=uncountable
 vibration noun
@@ -74,9 +75,11 @@ victor        noun
 Victorian     noun
 victory       noun
 video         noun
+videoconference noun
 Vietnamese    noun pl=Vietnamese
 view          noun
 viewer        noun
+viewpoint noun
 vigilance noun pl=- note=uncountable
 vigor         noun gb=vigour pl=- note=uncountable
 Viking        noun
@@ -97,6 +100,7 @@ violin        noun
 violinist noun
 viper noun
 virgin        noun
+virtualization noun gb=virtualisation|virtualization
 virtue        noun
 virus         noun
 visa          noun
@@ -118,6 +122,7 @@ vocalist      noun
 vocation noun
 voice         noun
 voicemail noun
+voiceover noun
 void          noun
 VoIP noun abbr pl=- note=Voice over IP
 volatility noun
@@ -137,5 +142,6 @@ vow           noun
 vowel         noun
 voyage        noun
 VP noun abbr note=vice president
+VPN noun abbr note=virtual private network
 vulnerability noun
 vulture noun

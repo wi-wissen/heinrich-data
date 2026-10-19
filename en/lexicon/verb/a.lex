@@ -7,6 +7,7 @@ abseil verb region=GB
 absorb verb
 abstract verb
 abuse verb
+accede verb
 accelerate verb
 accept verb
 access verb
@@ -35,6 +36,7 @@ address verb
 adhere verb
 adjoin verb
 adjourn verb
+adjudicate verb
 adjust verb
 administer verb
 admire verb
@@ -49,6 +51,7 @@ advocate verb
 affect verb
 affiliate verb
 affirm verb
+affix verb
 afflict verb
 afford verb
 age verb ing=aging[US]|ageing[GB]
@@ -70,12 +73,14 @@ allot verb double
 allow verb
 allude verb
 ally verb
+alphabetize verb gb=alphabetise|alphabetize
 alter verb
 alternate verb
 amalgamate verb
 amaze verb
 ambush verb
 amend verb
+amortize verb gb=amortise|amortize
 amount verb
 amuse verb
 analyze verb gb=analyse
@@ -83,10 +88,12 @@ anchor verb
 anger verb
 animate verb
 annex verb
+annotate verb
 announce verb
 annoy verb
 annualize verb gb=annualise|annualize
 annul verb double
+anonymize verb gb=anonymise|anonymize
 answer verb
 ante verb past=anted|anteed pp=anted|anteed ing=anteing conf=80 note=as in ante up; past forms vary
 anticipate verb
@@ -98,18 +105,21 @@ applaud verb
 apply verb
 appoint verb
 apportion verb
+appraise verb
 appreciate verb
 apprehend verb
 approach verb
 appropriate verb
 approve verb
 approximate verb
+arbitrate verb
 arch verb
 archive verb
 argue verb
 arise verb past=arose pp=arisen
 arm verb
 arouse verb
+arraign verb
 arrange verb
 array verb
 arrest verb

@@ -15,23 +15,29 @@ dazzle verb
 deal verb past=dealt pp=dealt
 debate verb
 debit verb
+debrief verb
+debug verb double
 debut verb
 decay verb
 deceive verb
+decentralize verb gb=decentralise|decentralize
 decide verb
 decimate verb
 deck verb
 declare verb
 decline verb
 declutter verb
+decode verb
 decommission verb
 decorate verb
 decrease verb
 decree verb
+decrypt verb
 dedicate verb
 deduct verb
 deem verb
 deepen verb
+defame verb
 default verb
 defeat verb
 defect verb
@@ -51,6 +57,7 @@ deliver verb
 demand verb
 demolish verb
 demonstrate verb
+demote verb
 denote verb
 denounce verb
 deny verb
@@ -62,8 +69,10 @@ deploy verb
 deport verb
 depose verb
 deposit verb
+depreciate verb
 depress verb
 deprive verb
+deregulate verb
 derive verb
 descend verb
 describe verb
@@ -82,6 +91,7 @@ detect verb
 deter verb double
 deteriorate verb
 determine verb
+devalue verb
 devastate verb
 develop verb
 devise verb
@@ -98,6 +108,7 @@ differ verb nodouble
 differentiate verb
 diffuse verb
 dig verb past=dug pp=dug
+digitize verb gb=digitise|digitize
 dim verb
 diminish verb
 dine verb
@@ -112,6 +123,7 @@ disappear verb
 disappoint verb
 disapprove verb
 disband verb
+disburse verb
 discard verb
 discern verb
 discharge verb
@@ -161,6 +173,7 @@ ditch verb
 dive verb past=dived|dove[US] pp=dived note=dove is American
 diversify verb
 divert verb
+divest verb
 divide verb
 divine verb
 divorce verb
@@ -180,7 +193,9 @@ dose verb
 dot verb
 double verb
 doubt verb
+downgrade verb
 download verb
+downsize verb
 doze verb
 draft verb
 drag verb

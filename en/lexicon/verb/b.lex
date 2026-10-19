@@ -1,5 +1,6 @@
 babysit verb prefix=baby past=babysat pp=babysat
 back verb
+backdate verb
 baffle verb
 bail verb
 bait verb
@@ -24,6 +25,7 @@ bear verb past=bore pp=borne|born note=born only in the sense of birth: he was b
 beat verb past=beat pp=beaten
 beckon verb
 become verb prefix=be past=became pp=become
+beef verb
 befriend verb
 beg verb
 begin verb past=began pp=begun double
@@ -32,6 +34,7 @@ behead verb
 behold verb prefix=be past=beheld pp=beheld
 believe verb
 belong verb
+benchmark verb
 bend verb past=bent pp=bent
 benefit verb past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
 bequeath verb
@@ -48,7 +51,9 @@ bid verb past=bid|bade pp=bid|bidden
 bill verb
 bind verb past=bound pp=bound
 bite verb past=bit pp=bitten
+black verb
 blacken verb
+blacklist verb
 blame verb
 blast verb
 blaze verb
@@ -60,6 +65,7 @@ blind verb
 blink verb
 blitz verb
 block verb
+blog verb
 bloom verb
 blossom verb
 blow verb past=blew pp=blown
@@ -77,10 +83,12 @@ book verb
 bookmark verb
 boom verb
 boost verb
+boot verb
 border verb
 bore verb
 borrow verb
 bother verb
+bottle verb
 bounce verb
 bound verb
 bow verb
@@ -111,6 +119,7 @@ brood verb
 browse verb
 bruise verb
 brush verb
+buckle verb
 bud verb
 budget verb
 bug verb
@@ -125,6 +134,7 @@ burst verb past=burst pp=burst
 bury verb
 bustle verb
 butcher verb
+butt verb
 buy verb past=bought pp=bought
 buzz verb
 bypass verb

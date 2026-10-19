@@ -5,6 +5,7 @@ Gambia propn
 Gaul           propn
 Gaza           propn
 GB             propn abbr note=Great Britain
+GDPR propn abbr note=General Data Protection Regulation
 GE propn abbr note=General Electric
 Gemini propn
 Genesis        propn note=book of the Bible

@@ -7,6 +7,7 @@ jam noun
 Jamaican noun
 Japanese       noun pl=Japanese
 jar noun
+jargon noun pl=- note=uncountable
 jaw            noun
 jay noun
 jazz           noun pl=- note=uncountable
@@ -25,6 +26,8 @@ jewel          noun
 jewelry noun gb=jewellery pl=- note=uncountable
 jigsaw noun
 job            noun
+joblessness noun pl=- note=uncountable
+jobseeker noun conf=85 note=also job seeker
 jockey noun
 joey noun note=young kangaroo
 joint          noun
@@ -52,6 +55,7 @@ junior         noun
 junk noun
 jurisdiction   noun
 jurist noun
+juror noun
 jury           noun
 justice        noun
 justification  noun

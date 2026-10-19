@@ -5,6 +5,7 @@ MHz           x abbr note=megahertz
 mi            x abbr note=mile(s)
 min.          x abbr note=minute(s); minimum
 minimis       x foreign note=only in de minimis
+misc. x abbr note=miscellaneous
 mL x abbr note=millilitre(s)
 mm            x abbr note=millimetre(s)
 Mon.          x abbr note=Monday

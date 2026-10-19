@@ -10,9 +10,13 @@ backache noun
 backbench noun region=GB
 backbone noun
 backdrop noun
+backend noun conf=90 note=also back end, back-end
+backer noun
 background noun
+backing noun
 backlog noun
 backpack noun
+backslash noun
 backstop noun
 backup noun
 backyard noun
@@ -27,6 +31,7 @@ baggage noun pl=- note=uncountable
 baguette noun
 bail noun
 bailiff noun
+bailout noun
 bait noun
 baker noun
 bakery noun
@@ -48,6 +53,7 @@ bang noun
 banjo noun pl=banjos|banjoes
 bank noun
 banker noun
+bankroll noun
 bankruptcy noun
 banner noun
 banquet noun
@@ -57,6 +63,7 @@ bar noun
 barbarian noun
 barbecue noun
 barber noun
+barcode noun
 bargain noun
 barge noun
 baritone noun
@@ -143,6 +150,7 @@ belief noun pl=beliefs
 believer noun
 bell noun
 belle noun
+bellhop noun
 belly noun
 belongings noun pl_only
 beloved noun
@@ -157,11 +165,13 @@ beneficiary noun
 benefit noun
 benevolence noun pl=- note=uncountable
 Bengali noun
+bequest noun
 Berber noun
 bereavement noun
 berry noun
 berth noun
 bestie noun style=colloquial
+bestseller noun
 bet noun
 beta noun
 betrayal noun
@@ -204,12 +214,14 @@ bison noun pl=bison|bisons
 bit noun
 bitcoin noun
 bite noun
+bitrate noun conf=80
 bitterness noun pl=- note=uncountable
 black noun
 blackberry noun
 blackbird noun
 blackboard noun
 blackcurrant noun
+blacklist noun
 blackness noun pl=- note=uncountable
 blacksmith noun
 bladder noun
@@ -232,7 +244,9 @@ blitz noun
 bloc noun
 block noun
 blockade noun
+blockchain noun
 blog noun
+blogger noun
 blonde noun
 blood noun
 bloodshed noun pl=- note=uncountable
@@ -245,12 +259,14 @@ blue noun
 bluebell noun
 blueberry noun
 bluegrass noun pl=- note=uncountable
+blueprint noun
 bluff noun
 blunder noun
 blur noun
 blush noun
 boar noun
 board noun
+boardroom noun
 boast noun
 boat noun
 boating noun pl=- note=uncountable
@@ -259,6 +275,7 @@ Boer noun
 bog noun
 Bohemian noun
 boiler noun
+boilerplate noun pl=- note=uncountable
 boldness noun pl=- note=uncountable
 bolt noun
 bomb noun
@@ -268,13 +285,17 @@ bomber noun
 bombing noun
 bond noun
 bondage noun pl=- note=uncountable
+bondholder noun
 bonding noun pl=- note=uncountable
 bone noun
 bonnet noun
 bonus noun
 book noun
 bookcase noun
+bookkeeper noun
+bookkeeping noun pl=- note=uncountable
 bookmark noun
+bookseller noun
 bookshelf noun pl=bookshelves
 bookshop noun
 bookstore noun
@@ -293,7 +314,9 @@ Bosnian noun
 bosom noun
 boss noun
 botanist noun
+botnet noun
 bottle noun
+bottleneck noun
 bottom noun
 bough noun
 boulder noun
@@ -319,9 +342,11 @@ bracelet noun
 bracket noun
 braid noun
 brain noun
+brainstorming noun pl=- note=uncountable
 brake noun
 branch noun
 brand noun
+branding noun pl=- note=uncountable
 brandy noun
 brass noun
 bravery noun pl=- note=uncountable
@@ -329,10 +354,13 @@ Brazilian noun
 breach noun
 bread noun
 breadth noun
+breadwinner noun
 break noun
 breakdown noun
 breaker noun
+breakeven noun conf=80 note=also break-even
 breakfast noun
+breakout noun
 breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
@@ -352,6 +380,7 @@ bridegroom noun
 bridge noun
 bridle noun
 brief noun pl=briefs
+briefcase noun
 briefing noun
 brig noun
 brigade noun
@@ -363,7 +392,9 @@ broadband noun pl=- note=uncountable
 broadcast noun
 broadcaster noun
 broccoli noun pl=- note=uncountable
+brochure noun
 broker noun
+brokerage noun
 bronze noun
 brooch noun
 brood noun
@@ -419,12 +450,14 @@ bunny noun
 burden noun
 bureau noun pl=bureaus|bureaux
 bureaucracy noun
+bureaucrat noun
 burger noun
 burglary noun
 burial noun
 Burmese noun pl=Burmese
 burn noun
 burner noun
+burnout noun
 burp noun
 burrito noun pl=burritos
 burrow noun
@@ -433,6 +466,7 @@ bus noun
 bush noun
 business noun
 businessman noun pl=businessmen
+businesswoman noun pl=businesswomen
 bust noun
 bustle noun
 butcher noun
@@ -443,6 +477,11 @@ butter noun
 buttercup noun
 butterfly noun
 button noun
+buyback noun
 buyer noun
+buyout noun
+byelaw noun region=GB conf=85 note=also bylaw
+bylaw noun conf=90 note=British also byelaw
 bypass noun
+byproduct noun conf=90 note=also by-product
 byte noun

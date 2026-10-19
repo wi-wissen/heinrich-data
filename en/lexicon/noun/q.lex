@@ -3,6 +3,7 @@ quad noun
 Quaker        noun
 qualification noun
 quality       noun
+quantification noun
 quantity      noun
 quantum       noun pl=quanta
 quarantine noun

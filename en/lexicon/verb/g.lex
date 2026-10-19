@@ -31,6 +31,7 @@ glimpse        verb
 glisten verb
 glitter        verb
 glory          verb
+gloss verb
 glow           verb
 glue verb ing=gluing|glueing[rare]
 gnaw verb

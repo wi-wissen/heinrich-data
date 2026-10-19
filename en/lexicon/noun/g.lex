@@ -30,11 +30,13 @@ garden         noun
 gardener       noun
 garland        noun
 garment        noun
+garnishment noun
 garrison       noun
 gas            noun pl=gases
 gasoline       noun pl=- note=uncountable
 gasp           noun
 gate           noun
+gatekeeper noun
 gateway        noun
 gathering      noun
 gauge          noun
@@ -44,6 +46,7 @@ gazelle noun
 gazette        noun
 GDP            noun abbr note=gross domestic product
 gear           noun
+gearing noun pl=- region=GB note=uncountable; US leverage
 gecko noun pl=geckos
 gem noun
 gender         noun
@@ -77,6 +80,7 @@ GI             noun abbr note=US soldier
 giant          noun
 gift           noun
 gig            noun
+gigabyte noun
 giggle noun
 gill noun
 gin noun
@@ -96,10 +100,13 @@ glen           noun
 glider noun
 glimmer noun
 glimpse        noun
+glitch noun
 glitter        noun
+globalization noun gb=globalisation|globalization
 globe          noun
 gloom          noun pl=- note=uncountable
 glory          noun
+glossary noun
 glove          noun
 glow           noun
 glucose noun pl=- note=uncountable
@@ -171,6 +178,7 @@ granite        noun
 granny noun
 grant          noun
 grantee        noun
+grantor noun
 grape          noun
 grapefruit noun pl=grapefruit|grapefruits
 graph          noun
@@ -196,6 +204,7 @@ Greek          noun
 green          noun
 greengrocer noun
 greenhouse     noun
+greeter noun
 greeting       noun
 greyhound noun
 grid           noun
@@ -220,6 +229,7 @@ growl          noun
 growth         noun
 grudge noun
 guarantee      noun
+guarantor noun
 guard          noun
 guardian       noun
 guardianship noun

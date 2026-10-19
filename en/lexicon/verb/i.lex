@@ -10,6 +10,7 @@ immigrate verb
 impact         verb
 impair         verb
 impart verb
+impeach verb
 impede verb
 impel verb double
 implement      verb
@@ -34,6 +35,7 @@ inconvenience verb
 incorporate    verb
 increase       verb
 incur          verb double
+indemnify verb
 index          verb
 indicate       verb
 indict verb
@@ -50,6 +52,7 @@ inhabit        verb
 inherit        verb
 inhibit verb
 initial        verb
+initialize verb gb=initialise|initialize
 initiate       verb
 inject verb
 injure         verb
@@ -99,3 +102,6 @@ iron           verb
 irritate       verb
 isolate        verb
 issue verb
+italicize verb gb=italicise|italicize
+itemize verb gb=itemise|itemize
+iterate verb

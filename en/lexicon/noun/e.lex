@@ -1,3 +1,4 @@
+e-commerce noun pl=- note=uncountable
 e-mail noun note=hyphenated spelling of email
 eagerness noun pl=- note=uncountable
 eagle noun
@@ -5,6 +6,7 @@ ear noun
 earache noun
 earl noun
 earlobe noun
+earmark noun
 earmuff noun
 earnestness noun pl=- note=uncountable
 earnings noun pl_only
@@ -14,11 +16,13 @@ earth noun
 earthquake noun
 earthworm noun
 ease noun
+easement noun
 east noun
 eccentric noun
 echo noun pl=echoes
 eclipse noun
 ecology noun
+ecommerce noun pl=- conf=85 note=also e-commerce
 economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
@@ -42,10 +46,12 @@ eggplant noun region=US note=British aubergine
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
+elaboration noun
 elastic noun
 elbow noun
 elder noun
 election noun
+electioneering noun pl=- note=uncountable
 elective noun
 elector noun
 electorate noun
@@ -73,6 +79,7 @@ embargo noun pl=embargoes
 embarrassment noun
 embassy noun
 ember noun
+embezzlement noun pl=- note=uncountable
 emblem noun
 embrace noun
 embroidery noun
@@ -85,6 +92,8 @@ emigration noun
 eminence noun
 emission noun
 emoji noun pl=emojis|emoji
+emolument noun
+emoticon noun
 emotion noun
 empathy noun
 emperor noun
@@ -98,18 +107,22 @@ empress noun
 enactment noun
 encampment noun
 enclosure noun
+encoder noun
 encounter noun
 encouragement noun
 encryption noun
+encumbrance noun
 encyclopedia noun gb=encyclopaedia|encyclopedia
 end noun
 endeavor noun gb=endeavour
 endorsement noun
 endowment noun
+endpoint noun
 endurance noun pl=- note=uncountable
 enemy noun
 energy noun
 enforcement noun pl=- note=uncountable
+enforcer noun
 engagement noun
 engine noun
 engineer noun
@@ -162,7 +175,9 @@ equivalent noun
 ERA noun abbr conf=80 note=earned run average; Equal Rights Amendment
 era noun
 eraser noun
+erasure noun
 erection noun
+ergonomics noun pl_only conf=90 note=construed as singular
 erosion noun pl=- note=uncountable
 errand noun
 error noun
@@ -170,6 +185,7 @@ eruption noun
 escalation noun
 escape noun
 escort noun
+escrow noun
 ESP noun abbr pl=- note=extrasensory perception
 espionage noun pl=- note=uncountable
 espresso noun pl=espressos
@@ -198,6 +214,7 @@ European noun
 EV noun abbr note=electric vehicle
 evacuation noun
 evaluation noun
+evaluator noun
 evaporation noun
 evasion noun
 eve noun
@@ -219,6 +236,7 @@ excavation noun
 excellence noun
 excellency noun
 exception noun
+excerpt noun
 excess noun
 exchange noun
 exchequer noun region=GB
@@ -230,6 +248,7 @@ excursion noun
 excuse noun
 execution noun
 executive noun
+executor noun
 exemption noun
 exercise noun
 exertion noun
@@ -237,6 +256,7 @@ exhaust noun
 exhaustion noun pl=- note=uncountable
 exhibit noun
 exhibition noun
+exhibitor noun
 exile noun
 existence noun
 exit noun
@@ -270,6 +290,7 @@ exposure noun
 express noun
 expression noun
 expressway noun
+expropriation noun
 expulsion noun
 extension noun
 extent noun
@@ -279,6 +300,7 @@ extra noun
 extract noun
 extraction noun
 extradition noun
+extranet noun
 extravagance noun
 extreme noun
 extremism noun pl=- note=uncountable

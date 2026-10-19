@@ -4,6 +4,7 @@ lace          verb
 lack          verb
 lag verb
 lament verb
+laminate verb
 land          verb
 lap           verb
 lapse         verb
@@ -31,6 +32,7 @@ let           verb past=let pp=let
 level         verb
 leverage      verb
 levy          verb
+liaise verb
 libel verb
 liberate      verb
 license       verb
@@ -49,6 +51,7 @@ link          verb
 liquidate verb
 list          verb
 listen        verb
+litigate verb
 litter        verb
 live          verb
 livestream verb

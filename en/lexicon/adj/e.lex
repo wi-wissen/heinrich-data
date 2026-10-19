@@ -11,6 +11,7 @@ ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
 edible adj
+editable adj
 editorial adj
 educational adj adv=educationally
 eerie adj cmp=er adv=eerily
@@ -37,6 +38,7 @@ eminent adj adv=eminently
 emotional adj adv=emotionally
 emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
+employable adj cmp=more
 empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
@@ -59,6 +61,7 @@ equestrian adj
 equitable adj adv=equitably
 equivalent adj
 erect adj
+ergonomic adj adv=ergonomically
 erroneous adj adv=erroneously
 especial adj
 essential adj adv=essentially
@@ -96,6 +99,7 @@ exotic adj
 expansive adj
 expedient adj
 expeditious adj adv=expeditiously
+expendable adj
 expensive adj cmp=more adv=expensively
 experimental adj adv=experimentally
 expert adj adv=expertly
@@ -111,6 +115,7 @@ exterior adj
 external adj adv=externally
 extinct adj
 extra adj
+extracurricular adj
 extraordinary adj adv=extraordinarily
 extravagant adj
 extreme adj adv=extremely

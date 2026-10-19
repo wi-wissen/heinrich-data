@@ -1,5 +1,7 @@
+jack verb
 jail           verb
 jam verb
+jazz verb
 jerk verb
 jest           verb
 jog verb

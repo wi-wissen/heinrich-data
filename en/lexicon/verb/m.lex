@@ -29,9 +29,11 @@ match         verb
 mate          verb
 matter        verb
 mature        verb
+max verb
 maximize      verb gb=maximise|maximize
 mean          verb past=meant pp=meant
 measure       verb
+mediate verb
 meet          verb past=met pp=met
 mellow verb
 melt          verb
@@ -47,6 +49,7 @@ merit         verb
 mesh verb
 mess          verb
 message       verb
+micromanage verb
 microwave verb
 migrate       verb
 milk          verb
@@ -58,12 +61,16 @@ mingle        verb
 minimize      verb gb=minimise|minimize
 minister      verb
 mint verb
+minute verb
 mirror        verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
+misplace verb
 miss          verb
+misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb
 mistake       verb prefix=mis past=mistook pp=mistaken
+mistype verb
 misunderstand verb prefix=mis past=misunderstood pp=misunderstood
 misuse        verb
 mitigate      verb
@@ -77,6 +84,7 @@ moderate      verb
 modernize verb gb=modernise|modernize
 modify        verb
 mold          verb gb=mould
+monetize verb gb=monetise|monetize
 monitor       verb
 moo verb
 moor          verb
@@ -91,7 +99,9 @@ mouth         verb
 move          verb
 mow verb past=mowed pp=mown|mowed
 muffle verb
+mull verb
 multiply      verb
+multitask verb
 mumble verb
 munch verb
 murder        verb

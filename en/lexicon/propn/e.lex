@@ -4,6 +4,7 @@ Eastbourne propn
 Easter propn pl=Easters
 Ebola propn
 EC propn abbr conf=90 note=European Commission; European Community
+ECB propn abbr note=European Central Bank
 Ecuador propn
 Eden propn
 Edinburgh propn

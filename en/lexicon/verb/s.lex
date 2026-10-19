@@ -43,6 +43,7 @@ search verb
 seat verb
 second verb
 secure verb
+securitize verb gb=securitise|securitize conf=85
 see verb past=saw pp=seen
 seek verb past=sought pp=sought
 seem verb
@@ -68,6 +69,7 @@ shatter verb
 shave verb
 shear verb past=sheared pp=sheared|shorn
 shed verb past=shed pp=shed
+shell verb
 shelter verb
 shepherd verb
 shield verb
@@ -78,12 +80,15 @@ shiver verb
 shock verb
 shoot verb past=shot pp=shot
 shop verb
+shore verb
 shorten verb
+shortlist verb
 shout verb
 shove verb
 shovel verb
 show verb past=showed pp=shown|showed
 showcase verb
+shred verb
 shriek verb
 shrink verb past=shrank|shrunk pp=shrunk|shrunken note=shrunken is mostly adjectival
 shrug verb
@@ -91,6 +96,7 @@ shudder verb
 shut verb past=shut pp=shut
 shuttle verb
 side verb
+sideline verb
 sieve verb
 sift verb
 sigh verb
@@ -98,6 +104,7 @@ sight verb
 sign verb
 signal verb
 signify verb
+signpost verb
 silence verb
 simmer verb
 simplify verb
@@ -110,6 +117,7 @@ sip verb
 sire verb
 sit verb past=sat pp=sat
 situate verb
+size verb
 skate verb
 skateboard verb
 ski verb
@@ -117,6 +125,7 @@ skid verb
 skim verb
 skip verb
 skirmish verb
+slack verb
 slam verb
 slap verb
 slash verb
@@ -128,6 +137,7 @@ sledge verb region=GB
 sleep verb past=slept pp=slept
 slice verb
 slide verb past=slid pp=slid
+slim verb
 slip verb
 slither verb
 slope verb
@@ -174,6 +184,7 @@ sound verb
 sour verb
 source verb
 sow verb past=sowed pp=sown|sowed sense=plant
+space verb
 spam verb
 span verb
 spare verb
@@ -206,8 +217,10 @@ spring verb past=sprang|sprung pp=sprung
 sprinkle verb
 sprint verb
 sprout verb
+spruce verb
 spur verb
 spy verb
+square verb
 squash verb
 squeeze verb
 squelch verb
@@ -228,6 +241,7 @@ stammer verb
 stamp verb
 stand verb past=stood pp=stood
 standardize verb gb=standardise|standardize
+staple verb
 star verb
 stare verb
 start verb
@@ -235,6 +249,7 @@ startle verb
 starve verb
 state verb
 station verb
+stave verb
 stay verb
 steal verb past=stole pp=stolen
 steam verb
@@ -249,6 +264,8 @@ sting verb past=stung pp=stung
 stipulate verb
 stir verb
 stitch verb
+stock verb
+stockpile verb
 stomp verb
 stoop verb
 stop verb
@@ -272,21 +289,27 @@ strive verb past=strove|strived pp=striven|strived
 stroll verb
 structure verb
 struggle verb
+stub verb
 study verb
 stuff verb
 stumble verb
 stun verb
 stunt verb
 style verb
+subcontract verb
 subdivide verb
 subdue verb
 subject verb
+sublet verb prefix=sub past=sublet pp=sublet
 submerge verb
 submit verb double
 subordinate verb
+subpoena verb
 subscribe verb
 subside verb
+subsidize verb gb=subsidise|subsidize
 substitute verb
+subtitle verb
 subtract verb
 succeed verb
 sue verb
@@ -333,5 +356,7 @@ swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 swipe verb
 switch verb
+sync verb
+synchronize verb gb=synchronise|synchronize
 syndicate verb
 synthesize verb gb=synthesise|synthesize

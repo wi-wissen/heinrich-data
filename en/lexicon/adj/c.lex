@@ -35,6 +35,7 @@ ceramic adj
 cerebral adj
 ceremonial adj adv=ceremonially
 certain adj cmp=more adv=certainly
+certifiable adj
 cervical adj
 challenging adj cmp=more
 chaotic adj cmp=more adv=chaotically
@@ -221,6 +222,7 @@ crazy adj cmp=er adv=crazily
 creamy adj cmp=er
 creative adj cmp=more adv=creatively
 credible adj cmp=more adv=credibly
+creditworthy adj
 creepy adj cmp=er
 Creole adj
 Crimean adj
@@ -254,6 +256,7 @@ curved adj
 custodial adj
 custom adj
 customary adj adv=customarily
+customizable adj gb=customisable|customizable
 cute adj cmp=er
 cyber adj note=cyber attacks; mostly as the prefix in cybersecurity
 cyclic adj

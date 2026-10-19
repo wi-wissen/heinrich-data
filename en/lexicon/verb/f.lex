@@ -29,6 +29,7 @@ feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
 fell           verb note=to fell a tree
 fence          verb
+fend verb
 ferry          verb
 fetch          verb
 feud verb
@@ -48,9 +49,11 @@ fine           verb
 finger         verb
 finish         verb
 fire           verb
+firm verb
 fish           verb
 fit            verb past=fitted|fit[US] pp=fitted|fit[US]
 fix            verb
+fizzle verb
 flag           verb
 flame          verb
 flank          verb
@@ -61,6 +64,7 @@ flatten verb
 flatter        verb
 flavor         verb gb=flavour
 flee           verb past=fled pp=fled
+flesh verb
 fling          verb past=flung pp=flung
 float          verb
 flock          verb
@@ -73,6 +77,7 @@ flush          verb
 flutter verb
 fly            verb past=flew pp=flown
 foam           verb
+fob verb
 focus          verb past=focused|focussed[GB] pp=focused|focussed[GB] ing=focusing|focussing[GB] 3sg=focuses|focusses[GB]
 foil verb
 fold           verb
@@ -103,6 +108,7 @@ fracture verb
 fragment       verb
 frame          verb
 franchise      verb
+freak verb
 free           verb
 freelance verb
 freeze         verb past=froze pp=frozen
@@ -118,6 +124,8 @@ fuel           verb
 fulfill        verb gb=fulfil
 function       verb
 fund           verb
+fundraise verb conf=85
+furlough verb
 furnish        verb
 further        verb note=to further a cause
 fuse verb
