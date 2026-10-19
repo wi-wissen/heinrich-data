@@ -1,3 +1,4 @@
+Eckernförde propn g=n gen=Eckernfördes pl=- demonym=Eckernförder note=city
 Ecuador propn g=n gen=Ecuadors pl=- note=country; no plural
 Edinburgh propn g=n gen=Edinburghs pl=- note=proper name; no plural
 EG propn g=f gen=EG pl=- note=Europäische Gemeinschaft

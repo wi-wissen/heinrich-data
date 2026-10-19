@@ -1,5 +1,6 @@
 ihrerseits adv
 immerfort adv
+immerzu adv
 infrage adv
 inne adv
 insgeheim adv type=manner

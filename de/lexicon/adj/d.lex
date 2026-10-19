@@ -1,3 +1,4 @@
+dagewesen adj note=noch nie dagewesen (from da sein); das Dagewesene
 damalig       adj note=only attributive (die damalige Regierung)
 dämlich adj cmp=dämlicher sup=dämlichsten
 dänisch adj
@@ -26,9 +27,11 @@ dezentral adj
 dezidiert adj cmp=dezidierter sup=dezidiertesten
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
+dichterisch adj
 dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dicklich adj cmp=dicklicher sup=dicklichsten
+dienlich adj
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
@@ -39,6 +42,7 @@ diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
 divers adj
+dominant adj cmp=dominanter sup=dominantesten
 doof adj cmp=doofer sup=doofsten
 doppelt adj
 dornig adj cmp=dorniger sup=dornigsten
@@ -51,6 +55,7 @@ dreckig adj cmp=dreckiger sup=dreckigsten
 dreidimensional adj
 dreifach adj
 dreischiffig adj note=architecture: with three naves
+dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten

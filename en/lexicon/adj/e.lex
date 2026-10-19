@@ -3,6 +3,7 @@ early adj cmp=er
 earnest adj adv=earnestly
 earthen adj
 earthly adj
+earthy adj cmp=er
 east adj
 eastbound adj
 easterly adj
@@ -24,6 +25,8 @@ educational adj adv=educationally
 eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
+effeminate adj
+efficacious adj cmp=more adv=efficaciously
 efficient adj cmp=more adv=efficiently
 egalitarian adj
 egregious adj cmp=more adv=egregiously
@@ -60,9 +63,11 @@ emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
 employable adj cmp=more
 empty adj cmp=er
+enamored adj gb=enamoured
 endemic adj
 endless adj adv=endlessly
 endogenous adj
+endothelial adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -74,13 +79,16 @@ enterprising adj cmp=more
 enthusiastic adj cmp=more adv=enthusiastically
 entire adj adv=entirely
 entrepreneurial adj
+enviable adj adv=enviably
 envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
+ephemeral adj cmp=more
 epic adj
 epidemiological adj
 Episcopal adj
 episcopal adj
 episodic adj
+epithelial adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
@@ -93,6 +101,7 @@ ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
+erstwhile adj attr_only
 esoteric adj cmp=more adv=esoterically
 especial adj
 essential adj adv=essentially
@@ -102,6 +111,7 @@ ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
+eukaryotic adj
 Eurasian adj
 European adj
 evangelical adj
@@ -122,9 +132,11 @@ exceeding adj adv=exceedingly
 excellent adj adv=excellently
 exceptional adj adv=exceptionally
 excessive adj adv=excessively
+excitable adj cmp=more
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
+executable adj
 executive adj
 exemplary adj
 exempt adj
@@ -148,6 +160,7 @@ expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
 exploitative adj
+exploratory adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly
@@ -163,8 +176,10 @@ extracellular adj
 extracurricular adj
 extraneous adj adv=extraneously
 extraordinary adj adv=extraordinarily
+extraterrestrial adj
 extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj
 exuberant adj cmp=more adv=exuberantly
+exultant adj adv=exultantly

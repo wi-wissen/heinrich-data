@@ -12,6 +12,7 @@ dale noun
 dam noun
 damage noun
 dame noun
+damnation noun pl=- note=uncountable
 damp noun
 damsel noun
 dan noun conf=80 note=grade in martial arts
@@ -37,6 +38,7 @@ data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
 date noun
+dative noun
 datum noun pl=data
 daughter noun
 dauphin noun
@@ -50,6 +52,8 @@ deacon noun
 deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
+deadlock noun
+deafness noun pl=- note=uncountable
 deal noun
 dealer noun
 dealership noun
@@ -87,7 +91,9 @@ decline noun
 deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
+decontamination noun pl=- note=uncountable
 decoration noun
+decoy noun
 decrease noun
 decree noun
 decryption noun pl=- note=uncountable
@@ -106,6 +112,7 @@ defection noun
 defendant noun
 defender noun
 defense noun gb=defence
+defenseman noun pl=defensemen gb=defenceman conf=90 note=ice hockey term, chiefly North American; British spelling assumed from defence
 defensive noun note=on the defensive
 deference noun pl=- note=uncountable
 deferment noun
@@ -147,6 +154,7 @@ delta noun
 deluge noun
 delusion noun
 demand noun
+demarcation noun
 demeanor noun gb=demeanour
 dementia noun
 demise noun
@@ -161,7 +169,9 @@ demonstration noun
 demonstrator noun
 demotion noun
 den noun
+dengue noun pl=- note=uncountable
 denial noun
+denim noun
 denomination noun
 denominator noun
 density noun
@@ -194,12 +204,14 @@ deprivation noun
 depth noun
 deputation noun
 deputy noun
+derailment noun
 derby noun
 deregulation noun pl=- note=uncountable
 derelict noun
 derision noun pl=- note=uncountable
 derivation noun
 derivative noun
+derogation noun
 descendant noun
 descent noun
 description noun
@@ -220,6 +232,7 @@ desolation noun
 despair noun
 desperation noun pl=- note=uncountable
 despondency noun pl=- note=uncountable
+despot noun
 despotism noun
 dessert noun
 destination noun
@@ -266,6 +279,7 @@ diagonal noun
 diagram noun
 dial noun
 dialect noun
+dialectic noun
 dialogue noun us=dialog|dialogue conf=90 note=dialog is an American variant, mostly in computing
 dialysis noun pl=dialyses
 diameter noun
@@ -277,6 +291,7 @@ diary noun
 diaspora noun
 dice noun pl=dice
 dictate noun
+dictation noun
 dictator noun
 dictatorship noun
 diction noun pl=- note=uncountable
@@ -288,6 +303,7 @@ difference noun
 differential noun
 differentiation noun
 difficulty noun
+diffidence noun pl=- note=uncountable
 diffraction noun
 diffusion noun
 dig noun
@@ -304,8 +320,10 @@ dilution noun
 dime noun
 dimension noun
 diminution noun
+dimness noun pl=- note=uncountable
 din noun
 diner noun
+dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
@@ -335,12 +353,14 @@ disappearance noun
 disappointment noun
 disapproval noun
 disarmament noun
+disarray noun pl=- note=uncountable
 disaster noun
 disbarment noun
 disbelief noun pl=- note=uncountable
 disbursement noun
 disc noun
 discard noun
+discernment noun pl=- note=uncountable
 discharge noun
 disciple noun
 discipline noun
@@ -352,8 +372,10 @@ discomfort noun
 discontent noun
 discontinuance noun
 discontinuation noun
+discontinuity noun
 discord noun
 discount noun
+discouragement noun
 discourse noun
 discoverer noun
 discovery noun
@@ -361,6 +383,7 @@ discredit noun pl=- note=uncountable
 discrepancy noun
 discretion noun pl=- note=uncountable
 discrimination noun
+discus noun
 discussion noun
 disdain noun
 disease noun
@@ -378,6 +401,7 @@ disinvestment noun
 disk noun
 dislike noun
 dislocation noun
+disloyalty noun
 dismay noun
 dismissal noun
 disobedience noun pl=- note=uncountable
@@ -412,6 +436,8 @@ dissociation noun
 dissolution noun
 distance noun
 distaste noun
+distillate noun
+distillation noun
 distillery noun
 distinction noun
 distinctness noun pl=- note=uncountable
@@ -441,6 +467,7 @@ divination noun
 divinity noun
 division noun
 divorce noun
+dizziness noun pl=- note=uncountable
 DJ noun abbr note=disc jockey
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
@@ -485,6 +512,7 @@ donkey noun
 donor noun
 doodle noun
 doom noun
+doomsday noun
 door noun
 doorbell noun
 doorknob noun
@@ -544,9 +572,11 @@ drawl noun
 dread noun
 dream noun
 dreamer noun
+dregs noun pl_only
 dress noun
 dresser noun
 dressing noun
+dressmaker noun
 drift noun
 drill noun
 drilling noun
@@ -559,7 +589,10 @@ drone noun
 drop noun
 dropdown noun conf=85 note=also drop-down
 droplet noun
+dropout noun
 drought noun
+drowsiness noun pl=- note=uncountable
+drudgery noun pl=- note=uncountable
 drug noun
 drum noun
 drummer noun
@@ -567,7 +600,9 @@ drunk noun
 drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
+dryness noun pl=- note=uncountable
 dualism noun
+duality noun
 ducat noun
 duchess noun
 duchy noun
@@ -590,6 +625,7 @@ duo noun
 duodenum noun pl=duodena|duodenums
 duplicate noun
 duplication noun
+duplicity noun pl=- note=uncountable
 durability noun pl=- note=uncountable
 duration noun
 dusk noun
@@ -611,5 +647,6 @@ dynamism noun pl=- note=uncountable
 dynamite noun pl=- note=uncountable
 dynamo noun pl=dynamos
 dynasty noun
+dysentery noun pl=- note=uncountable
 dysfunction noun
 dysphoria noun

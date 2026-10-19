@@ -5,6 +5,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
+Übereinkunft noun g=f gen=Übereinkunft pl=Übereinkünfte
 Übereinstimmung noun g=f gen=Übereinstimmung pl=Übereinstimmungen
 Überfall noun g=m gen=Überfalls|Überfalles pl=Überfälle
 Überführung noun g=f gen=Überführung pl=Überführungen
@@ -34,6 +35,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übersicht noun g=f gen=Übersicht pl=Übersichten
 Überstunde noun g=f gen=Überstunde pl=Überstunden
 Übertragung noun g=f gen=Übertragung pl=Übertragungen
+Übertritt noun g=m gen=Übertritts|Übertrittes pl=Übertritte
 Überwachung noun g=f gen=Überwachung pl=Überwachungen[rare]
 Überweg noun g=m gen=Überwegs|Überweges pl=Überwege
 Überweisung noun g=f gen=Überweisung pl=Überweisungen
@@ -60,6 +62,7 @@ Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
+Umkehr noun g=f gen=Umkehr pl=- note=mass noun
 Umkleide noun g=f gen=Umkleide pl=Umkleiden
 Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
@@ -96,6 +99,7 @@ Ungarin noun g=f gen=Ungarin pl=Ungarinnen
 Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
+Ungeziefer noun g=n gen=Ungeziefers pl=- note=collective noun
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
 Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
 Unglück noun g=n gen=Unglücks|Unglückes[rare] pl=Unglücke
@@ -124,6 +128,7 @@ Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen
 Unterführung noun g=f gen=Unterführung pl=Unterführungen
 Untergang noun g=m gen=Untergangs|Unterganges pl=Untergänge
+Untergebene noun g=m|f decl=adj
 Untergrund noun g=m gen=Untergrunds|Untergrundes pl=Untergründe
 Unterhalt noun g=m gen=Unterhalts|Unterhaltes pl=- note=maintenance, support
 Unterhaltung noun g=f gen=Unterhaltung pl=Unterhaltungen
@@ -141,6 +146,7 @@ Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
 Untersagung noun g=f gen=Untersagung pl=Untersagungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
+Unterschlupf noun g=m gen=Unterschlupfs|Unterschlupfes pl=Unterschlupfe|Unterschlüpfe
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
 Untersetzer noun g=m gen=Untersetzers pl=Untersetzer
 Unterstufe noun g=f gen=Unterstufe pl=Unterstufen

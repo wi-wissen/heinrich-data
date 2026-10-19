@@ -10,6 +10,7 @@ salt verb
 salute verb
 salvage verb
 sample verb
+sanctify verb
 sanction verb
 sandwich verb
 sap verb
@@ -17,6 +18,7 @@ satisfy verb
 saturate verb
 saunter verb
 save verb
+savor verb gb=savour
 say verb 3sg=says|saith[archaic] past=said pp=said
 scale verb
 scalp verb
@@ -53,6 +55,8 @@ scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+scud verb
+scuffle verb
 sculpt verb
 sculpture verb
 scuttle verb
@@ -73,6 +77,8 @@ see verb past=saw pp=seen
 seed verb
 seek verb past=sought pp=sought
 seem verb
+seethe verb
+segment verb
 segregate verb
 seize verb
 select verb
@@ -81,6 +87,7 @@ send verb past=sent pp=sent
 sense verb
 sentence verb
 separate verb
+sequence verb
 sequester verb
 serenade verb
 serialize verb gb=serialise|serialize
@@ -128,9 +135,11 @@ shove verb
 shovel verb
 show verb past=showed pp=shown|showed
 showcase verb
+shower verb
 shred verb
 shriek verb
 shrink verb past=shrank|shrunk pp=shrunk|shrunken note=shrunken is mostly adjectival
+shrivel verb
 shroud verb
 shrug verb
 shudder verb
@@ -175,12 +184,14 @@ skew verb
 ski verb
 skid verb
 skim verb
+skin verb
 skip verb
 skirmish verb
 skirt verb
 skyrocket verb
 slack verb
 slacken verb
+slag verb
 slam verb
 slander verb
 slant verb
@@ -196,6 +207,7 @@ slice verb
 slide verb past=slid pp=slid
 slim verb
 sling verb past=slung pp=slung
+slink verb past=slunk pp=slunk
 slip verb
 slit verb past=slit pp=slit
 slither verb
@@ -298,12 +310,14 @@ sprint verb
 sprout verb
 spruce verb
 spur verb
+spurn verb
 spy verb
 squall verb
 squander verb
 square verb
 squash verb
 squat verb
+squeak verb
 squeeze verb
 squelch verb
 squint verb
@@ -336,6 +350,7 @@ state verb
 station verb
 stave verb
 stay verb
+steady verb
 steal verb past=stole pp=stolen
 steam verb
 steep verb
@@ -370,6 +385,7 @@ strain verb
 strand verb
 strangle verb
 strap verb
+stratify verb
 stray verb
 streak verb
 stream verb
@@ -414,6 +430,7 @@ subsidize verb gb=subsidise|subsidize
 subsist verb
 substantiate verb
 substitute verb
+subsume verb
 subtitle verb
 subtract verb
 succeed verb
@@ -435,6 +452,8 @@ summon verb
 sunbathe verb
 sunburn verb past=sunburned|sunburnt pp=sunburned|sunburnt conf=90
 sup verb note=to eat supper; to sip
+superimpose verb
+superintend verb
 supersede verb
 supervise verb
 supplant verb
@@ -464,16 +483,19 @@ swallow verb
 swamp verb
 swap verb
 swarm verb
+swathe verb
 sway verb
 swear verb past=swore pp=sworn
 sweat verb
 sweep verb past=swept pp=swept
+sweeten verb
 swell verb past=swelled pp=swollen|swelled
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 swipe verb
 swirl verb
 switch verb
+swoon verb
 symbolize verb gb=symbolise|symbolize
 sympathize verb gb=sympathise|sympathize
 sync verb

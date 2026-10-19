@@ -33,6 +33,7 @@ learn         verb past=learned|learnt[GB] pp=learned|learnt[GB]
 lease         verb
 leave         verb past=left pp=left
 lecture       verb
+leech verb
 legalize verb gb=legalise|legalize
 legislate     verb
 lend          verb past=lent pp=lent
@@ -62,6 +63,7 @@ linger        verb
 link          verb
 liquefy verb note=liquify is a variant spelling
 liquidate verb
+lisp verb
 list          verb
 listen        verb
 litigate verb
@@ -93,6 +95,7 @@ lull verb
 lumber        verb
 lump          verb
 lunch         verb
+lurch verb
 lure verb
 lurk verb
 lynch         verb

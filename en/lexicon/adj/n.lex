@@ -28,6 +28,7 @@ necessary       adj cmp=more adv=necessarily
 needful adj
 needless adj adv=needlessly
 needy adj cmp=er
+nefarious adj
 negative        adj adv=negatively
 negligent adj cmp=more adv=negligently
 negligible      adj
@@ -43,9 +44,11 @@ net             adj attr_only
 nether adj attr_only
 neural adj
 neurological adj
+neuter adj
 neutral         adj adv=neutrally
 new             adj cmp=er adv=newly
 newborn adj
+newfound adj attr_only
 next            adj
 nice            adj cmp=er adv=nicely
 Nigerian        adj
@@ -62,6 +65,8 @@ nomadic adj
 nominal         adj adv=nominally
 nominative adj
 nonbinding adj conf=80 note=also non-binding
+noncompliant adj
+nongovernmental adj
 nonimmigrant    adj
 nonlinear adj adv=nonlinearly
 nonpartisan adj
@@ -69,8 +74,11 @@ nonprescription adj
 nonprofit       adj
 nonquantitative adj
 nonrefundable adj conf=85 note=also non-refundable
+nonsensical adj
 nonstop adj
 nonverbal adj adv=nonverbally conf=90 note=also non-verbal
+nonviolent adj
+nonzero adj
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
@@ -87,6 +95,7 @@ northward       adj
 northwest       adj
 northwestern    adj
 Norwegian       adj
+nostalgic adj cmp=more adv=nostalgically
 nosy adj cmp=er
 notable         adj cmp=more adv=notably
 noteworthy adj
@@ -101,6 +110,7 @@ nuclear         adj
 nucleic adj
 nude adj
 null adj note=null and void
+numb adj cmp=er adv=numbly
 numberless adj
 numerate adj region=GB
 numeric adj adv=numerically

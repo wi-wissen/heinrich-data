@@ -3,6 +3,7 @@ fabric         noun
 fabrication noun
 facade noun
 face           noun
+facelift noun
 facet noun
 facial         noun
 facilitation noun pl=- note=uncountable
@@ -12,14 +13,17 @@ facsimile noun
 fact           noun
 faction        noun
 factor         noun
+factorization noun gb=factorisation|factorization
 factory        noun
 faculty        noun
 fail           noun
 failing noun
 failure        noun
 fair           noun
+fairground noun
 fairness       noun pl=- note=uncountable
 fairy          noun
+fairyland noun
 faith          noun
 faithful       noun
 faithfulness noun pl=- note=uncountable
@@ -60,6 +64,7 @@ fat            noun
 fatality       noun
 fate           noun
 father         noun
+fatherhood noun pl=- note=uncountable
 fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
@@ -67,18 +72,22 @@ fault          noun
 fauna          noun
 favor          noun gb=favour
 favorite       noun gb=favourite
+fawn noun
 fax            noun
 façade noun note=spelling with cedilla of facade
+fealty noun pl=- note=uncountable
 fear           noun
 feasibility    noun pl=- note=uncountable
 feast          noun
 feat           noun
 feather        noun
 feature        noun
+feces noun pl_only gb=faeces
 federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
 fee            noun
+feebleness noun pl=- note=uncountable
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
@@ -87,6 +96,7 @@ feel           noun
 feeling        noun
 feint noun
 felicity noun
+feline noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -97,6 +107,7 @@ felt           noun note=the fabric
 female         noun
 feminism noun pl=- note=uncountable
 feminist       noun
+femme noun conf=80 note=loanword, chiefly in femme fatale
 fen noun
 fence          noun
 fencer noun
@@ -118,10 +129,13 @@ fetish noun
 fetter noun
 fetus noun gb=foetus|fetus
 feud noun
+feudalism noun pl=- note=uncountable
 fever          noun
 fez noun pl=fezzes|fezes
 fiancé noun
 fiancée noun
+fiasco noun pl=fiascos|fiascoes
+fiat noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
 fibrillation noun
@@ -141,6 +155,7 @@ fight          noun
 fighter        noun
 figure         noun
 figurehead noun
+figurine noun
 filament noun
 file           noun
 filename noun
@@ -169,6 +184,7 @@ find           noun
 finder noun
 finding        noun
 fine           noun
+fineness noun pl=- note=uncountable
 finery noun pl=- note=uncountable
 finger         noun
 fingernail noun
@@ -183,6 +199,7 @@ fire           noun
 firearm        noun
 firefighter    noun
 firefighting noun pl=- note=uncountable
+firefly noun
 firelight noun pl=- note=uncountable
 fireman noun pl=firemen
 fireplace      noun
@@ -212,9 +229,11 @@ fixation noun
 fixture noun
 fjord noun
 flag           noun
+flagellum noun pl=flagella
 flagship       noun
 flake noun
 flame          noun
+flamenco noun pl=flamencos
 flamingo noun pl=flamingos|flamingoes
 flammability noun pl=- note=uncountable
 flank          noun
@@ -230,11 +249,13 @@ flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (
 flattery noun
 flavor         noun gb=flavour
 flaw noun
+flax noun pl=- note=uncountable
 flea noun
 fledgling noun
 fleece noun
 fleet          noun
 flesh          noun pl=- note=uncountable
+flex noun
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
@@ -252,9 +273,11 @@ floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
+floodway noun
 floor          noun
 flop noun
 flora          noun
+florin noun
 flotation noun note=floatation is a rare variant
 flotilla noun
 flounder noun pl=flounder|flounders
@@ -276,6 +299,7 @@ flux           noun
 fly            noun
 flycatcher noun
 flyer noun conf=90 note=also flier
+flywheel noun
 foal noun
 foam           noun
 focus          noun pl=focuses|foci
@@ -289,12 +313,14 @@ foliage        noun pl=- note=uncountable
 folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
+folklorist noun
 follow-up      noun
 follower       noun
 folly          noun
 fondness noun
 font noun
 food           noun
+foodstuff noun
 fool           noun
 foolishness noun pl=- note=uncountable
 foot           noun pl=feet
@@ -413,6 +439,7 @@ freshman noun pl=freshmen
 freshness noun
 fret noun
 friar noun
+fricative noun
 friction       noun
 fridge noun
 friend         noun
@@ -431,10 +458,12 @@ frolic noun
 front          noun
 frontage noun
 frontier       noun
+frontiersman noun pl=frontiersmen
 frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
+froth noun
 frown          noun
 fruit          noun pl=fruit|fruits
 fruition noun
@@ -445,6 +474,7 @@ fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun
+fullness noun pl=- note=uncountable
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

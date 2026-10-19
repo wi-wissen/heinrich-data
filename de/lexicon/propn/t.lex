@@ -18,6 +18,7 @@ Toledo propn g=n gen=Toledos pl=- note=proper name; no plural
 Toronto propn g=n gen=Torontos pl=- note=proper name, no plural
 Toskana propn g=f gen=Toskana pl=- note=proper name; no plural
 Toulouse propn g=n gen=Toulouse|Toulouses pl=- note=proper name; no plural
+Trebbin propn g=n gen=Trebbins pl=- note=town
 Trient propn g=n gen=Trients pl=- note=proper name; no plural
 Trier propn g=n gen=Triers pl=- note=proper name, no plural
 Triest propn g=n gen=Triests pl=- note=proper name; no plural

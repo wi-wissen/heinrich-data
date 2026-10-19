@@ -1,6 +1,7 @@
 habit          noun
 habitat        noun
 habitation     noun
+habituation noun pl=- note=uncountable
 hack noun
 hacker noun
 haddock noun pl=haddock|haddocks
@@ -16,9 +17,13 @@ Haitian noun
 half-breed noun style=offensive note=derogatory term for people of mixed descent
 half-caste noun style=offensive note=derogatory term for people of mixed descent
 half-life      noun pl=half-lives
+halfback noun
+halftime noun
 halibut        noun pl=halibut|halibuts
 hall           noun
+hallelujah noun
 hallmark noun
+hallucination noun
 hallway noun
 halo noun pl=haloes|halos
 halt           noun
@@ -33,10 +38,12 @@ hand           noun
 handbag noun
 handball noun
 handbook noun
+handcuff noun
 handful        noun
 handheld noun
 handicap noun
 handicraft noun
+handiwork noun pl=- note=uncountable
 handkerchief   noun note=plural handkerchiefs
 handle         noun
 handler noun
@@ -48,11 +55,14 @@ handwriting    noun
 hangar noun
 hanger noun
 hanging noun
+hansom noun
 happening noun
 happiness      noun pl=- note=uncountable
+harangue noun
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
 hardcover noun
+hardihood noun pl=- note=uncountable
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
@@ -63,9 +73,12 @@ hare noun
 harem noun
 harm           noun
 harmonica noun
+harmonization noun gb=harmonisation|harmonization
 harmony        noun
 harness        noun
 harp noun
+harpsichord noun
+harrier noun
 harshness noun pl=- note=uncountable
 hart noun
 harvest        noun
@@ -74,14 +87,19 @@ hashtag noun
 haste          noun pl=- note=uncountable
 hat            noun
 hatch noun
+hatchback noun
+hatchery noun
 hatchet noun
 hate           noun
 hatred         noun
+hatter noun
 haul           noun
+haulage noun pl=- note=uncountable
 haunch noun
 haunt          noun
 haven          noun
 havoc noun pl=- note=uncountable
+haw noun note=hawthorn berry
 Hawaiian       noun
 hawk           noun
 hawthorn noun
@@ -94,6 +112,7 @@ head           noun
 headache       noun
 headband noun
 headcount noun
+headdress noun
 header noun
 headgear noun pl=- note=uncountable
 headhunter noun
@@ -118,8 +137,12 @@ heap           noun
 hearer noun
 hearing        noun
 hearsay noun pl=- note=uncountable
+hearse noun
 heart          noun
+heartache noun
+heartbreak noun
 hearth         noun
+heartland noun
 heat           noun
 heater         noun
 heath noun
@@ -132,14 +155,17 @@ Hebrew         noun
 hectare        noun
 hedge          noun
 hedgehog noun
+hedgerow noun
 heed           noun
 heel           noun
 hegemony noun
 height         noun
 heir           noun
 heiress        noun
+heirloom noun
 helicopter     noun
 helium noun pl=- note=uncountable
+helix noun pl=helices|helixes
 hell           noun
 helm           noun
 helmet         noun
@@ -151,18 +177,24 @@ helpline noun
 hem noun
 heme noun pl=- gb=haem note=uncountable
 hemisphere noun
+hemlock noun
+hemoglobin noun pl=- gb=haemoglobin note=uncountable
 hemorrhage noun gb=haemorrhage
 hemp noun pl=- note=uncountable
 hen noun
+henchman noun pl=henchmen
 hepatitis noun pl=- note=uncountable
 herald         noun
 heraldry noun pl=- note=uncountable
 herb noun
+herbage noun pl=- note=uncountable
 herd           noun
+heredity noun pl=- note=uncountable
 heresy noun
 heretic noun
 heritage       noun
 hermit noun
+hermitage noun
 hernia noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
@@ -172,12 +204,14 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+hexameter noun
 heyday noun
 hiatus noun pl=hiatuses|hiatus
 hiccup noun
 hickory noun
 hide           noun
 hierarchy      noun
+hieroglyphic noun
 high           noun
 highchair noun
 highland       noun
@@ -190,7 +224,9 @@ hijack noun
 hijacker noun
 hike           noun
 hiker noun
+hilarity noun pl=- note=uncountable
 hill           noun
+hillock noun
 hillside       noun
 hilltop noun
 hilt noun
@@ -234,9 +270,11 @@ holly noun
 holocaust noun
 homage         noun
 home           noun
+homecoming noun
 homeland       noun
 homelessness   noun pl=- note=uncountable
 homeowner      noun
+homeownership noun pl=- note=uncountable
 homepage noun
 homeroom noun region=US
 homesickness noun pl=- note=uncountable
@@ -245,6 +283,8 @@ hometown       noun
 homework noun pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
+homology noun
+homophobia noun pl=- note=uncountable
 homosexual noun
 homosexuality noun
 honesty        noun pl=- note=uncountable
@@ -254,6 +294,7 @@ honeysuckle noun
 honor          noun gb=honour
 honorarium noun pl=honoraria|honorariums
 honoree noun
+honorific noun
 hood           noun
 hoodie noun
 hoof noun pl=hooves|hoofs
@@ -297,6 +338,7 @@ Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the K
 hound          noun
 hour           noun
 house          noun
+housebuilding noun pl=- note=uncountable
 household      noun
 householder    noun
 housekeeper    noun
@@ -307,6 +349,7 @@ housewife noun pl=housewives
 housework noun pl=- note=uncountable
 housing        noun
 Houthi noun
+hovel noun
 howl noun
 HQ noun abbr note=headquarters
 hub            noun
@@ -322,6 +365,7 @@ human          noun note=plural humans (not -men)
 humanist noun
 humanitarian   noun
 humanity       noun
+humankind noun pl=- note=uncountable
 humanoid noun
 humbug noun
 humidity       noun pl=- note=uncountable
@@ -331,6 +375,7 @@ hummingbird noun
 hummus noun pl=- note=uncountable
 humor          noun gb=humour
 humorist noun gb=humourist|humorist
+hump noun
 humpback noun
 hunchback noun
 Hungarian      noun
@@ -353,9 +398,15 @@ hustle noun
 hut            noun
 hutch noun
 hybrid         noun
+hydrangea noun
+hydrazine noun pl=- note=uncountable
 hydrocarbon noun
 hydrogen       noun pl=- note=uncountable
+hydrology noun pl=- note=uncountable
+hydrolysis noun pl=hydrolyses
 hydropower noun pl=- note=uncountable
+hydroxide noun
+hydroxyl noun
 hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun

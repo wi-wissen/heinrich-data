@@ -49,6 +49,7 @@ massive       adj cmp=more adv=massively
 masterful adj cmp=more adv=masterfully
 masterly adj
 matching      adj
+matchless adj
 material      adj adv=materially
 maternal      adj
 mathematical  adj adv=mathematically
@@ -77,6 +78,7 @@ melancholy    adj
 mellow adj cmp=er
 melodic adj
 melodious adj cmp=more adv=melodiously
+melodramatic adj adv=melodramatically
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
@@ -93,6 +95,8 @@ messianic adj
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
+metamorphic adj
+metaphorical adj adv=metaphorically
 metaphysical adj
 meteorological adj
 methodical adj cmp=more adv=methodically
@@ -100,6 +104,7 @@ Methodist     adj
 methodological adj adv=methodologically
 meticulous adj cmp=more adv=meticulously
 metric        adj
+metrical adj
 metropolitan  adj
 Mexican       adj
 micro adj conf=85 note=informal: very small; also a prefix
@@ -156,13 +161,15 @@ monastic      adj
 monetary      adj
 Mongol adj
 mono adj
+monochrome adj
 monoclonal adj
 monolithic adj
+monotone adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
-moody adj cmp=er
+moody adj cmp=er adv=moodily
 moonlit adj
 Moorish       adj
 moot adj
@@ -170,12 +177,14 @@ moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
 Moroccan adj
+morose adj adv=morosely
 morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
 mossy adj cmp=er
 motherly adj cmp=more
 motionless    adj
+motivational adj
 motley adj
 mottled adj
 mountainous   adj
@@ -185,6 +194,7 @@ mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
+multicultural adj
 multidisciplinary adj
 multifamily adj
 multilateral  adj
@@ -192,17 +202,20 @@ multilingual adj
 multinational adj
 multiplayer adj
 multiple      adj
+multiplicative adj
 multipurpose adj
 multiracial adj
 mundane adj
 municipal     adj
 murderous adj
+murky adj cmp=er adv=murkily
 muscular      adj
 mushy adj cmp=er
 musical       adj adv=musically
 Muslim        adj
 mutant adj
 mute adj adv=mutely
+mutinous adj
 mutual        adj adv=mutually
 myriad adj
 mysterious    adj cmp=more adv=mysteriously

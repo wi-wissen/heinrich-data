@@ -42,6 +42,7 @@ patch verb
 patent verb
 patrol verb double
 patronize verb gb=patronise|patronize
+patter verb
 pattern verb
 pause verb
 pave verb
@@ -69,6 +70,7 @@ pepper verb
 perceive verb
 perch verb
 perfect verb
+perforate verb
 perform verb
 perfume verb
 perish verb
@@ -170,6 +172,7 @@ post verb
 postmark verb
 postpone verb
 postulate verb
+posture verb
 potter verb
 pound verb
 pour verb
@@ -191,9 +194,11 @@ predominate verb
 preempt verb note=British texts mostly hyphenate (pre-empt)
 preface verb
 prefer verb double
+prefix verb
 prejudice verb
 preload verb
 premiere verb
+prep verb
 prepare verb
 prepay verb prefix=pre past=prepaid pp=prepaid
 prescribe verb
@@ -215,6 +220,7 @@ pride verb note=reflexive: pride oneself on
 prime verb
 print verb
 prioritize verb gb=prioritise|prioritize
+privatize verb gb=privatise|privatize
 privilege verb
 prize verb
 probe verb
@@ -245,6 +251,7 @@ propel verb double
 prophesy verb
 propose verb
 prorate verb conf=85
+prorogue verb
 proscribe verb
 prosecute verb
 prospect verb
@@ -271,6 +278,7 @@ punch verb
 punctuate verb
 puncture verb
 punish verb
+punt verb
 purchase verb
 purge verb
 purify verb

@@ -9,6 +9,7 @@ gal noun style=colloquial
 gala noun
 galaxy         noun
 gale           noun
+galena noun pl=- note=uncountable
 gall noun
 gallantry noun
 gallery        noun
@@ -43,7 +44,9 @@ garnet noun
 garnishment noun
 garret noun
 garrison       noun
+garter noun
 gas            noun pl=gases
+gasification noun pl=- note=uncountable
 gasoline       noun pl=- note=uncountable
 gasp           noun
 gastropod noun
@@ -53,6 +56,9 @@ gatekeeper noun
 gateway        noun
 gathering      noun
 gauge          noun
+gauger noun
+gauntlet noun
+gauze noun
 gay            noun
 gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
 gaze           noun
@@ -76,13 +82,17 @@ generation     noun
 generator      noun
 generosity     noun note=plural generosities: acts of generosity
 genesis noun pl=geneses
+geneticist noun
 genetics noun pl=- note=uncountable
+genie noun pl=genies|genii
 genital noun
+genitalia noun pl_only
 genitive noun
 genius         noun pl=geniuses
 genocide       noun
 Genoese noun pl=Genoese
 genome         noun
+genotype noun
 genre          noun
 gent noun
 gentleman      noun pl=gentlemen
@@ -123,6 +133,7 @@ girl           noun
 girlfriend     noun
 girlhood noun
 git noun style=colloquial region=GB
+glaciation noun
 glacier noun
 glade noun
 gladness noun pl=- note=uncountable
@@ -131,6 +142,7 @@ glance         noun
 gland noun
 glare          noun
 glass          noun
+glassware noun pl=- note=uncountable
 glaucoma noun pl=- note=uncountable
 gleam          noun
 glee noun pl=- note=uncountable
@@ -138,6 +150,7 @@ glen           noun
 glider noun
 glimmer noun
 glimpse        noun
+glint noun
 glitch noun
 glitter        noun
 globalization noun gb=globalisation|globalization
@@ -169,6 +182,7 @@ goldfish noun pl=goldfish
 golf           noun pl=- note=uncountable
 golfer         noun
 golliwog noun style=offensive note=racist caricature doll; older children's books
+gondola noun
 gong noun
 good           noun note=plural goods: merchandise
 good-bye noun note=older spelling of goodbye
@@ -181,6 +195,7 @@ gooseberry noun
 gore noun
 gorge          noun
 gorilla noun
+gorse noun pl=- note=uncountable
 gosling noun
 gospel         noun
 gossip         noun
@@ -221,6 +236,7 @@ grandeur       noun pl=- note=uncountable
 grandfather    noun
 grandkid noun style=colloquial
 grandma noun
+grandmaster noun
 grandmother    noun
 grandpa noun
 grandparent    noun
@@ -252,6 +268,7 @@ gratuity noun
 grave          noun
 gravel         noun
 graveyard noun
+gravitation noun pl=- note=uncountable
 gravity        noun
 gravy noun pl=- note=uncountable
 gray           noun gb=grey
@@ -268,10 +285,12 @@ grenade noun
 grenadier noun
 greyhound noun
 grid           noun
+gridiron noun
 gridlock noun
 grief          noun note=plural griefs
 grievance      noun
 grille noun
+grimace noun
 grin           noun
 grind          noun
 grip           noun
@@ -284,6 +303,7 @@ grocer noun
 grocery        noun
 groom noun
 groove noun
+grotto noun pl=grottoes|grottos
 ground         noun
 groundfish noun pl=groundfish
 groundwater    noun pl=- note=uncountable
@@ -297,6 +317,7 @@ growl          noun
 growth         noun
 grub noun
 grudge noun
+guano noun pl=- note=uncountable
 guarantee      noun
 guarantor noun
 guaranty noun
@@ -327,6 +348,7 @@ gunboat noun
 gunfire noun pl=- note=uncountable
 gunman noun pl=gunmen
 gunner noun
+gunnery noun pl=- note=uncountable
 gunpowder noun
 gunshot noun
 gunwale noun
@@ -341,5 +363,6 @@ gym noun
 gymnasium noun pl=gymnasiums|gymnasia
 gymnast noun
 gymnastics noun pl=- note=uncountable
+gypsum noun pl=- note=uncountable
 Gypsy          noun note=neutral capitalized use (also a self-designation); lowercase gypsy is a separate entry marked offensive
 gypsy noun style=offensive alt=Roma note=lowercase use is derogatory; capitalized Gypsy is a separate neutral entry

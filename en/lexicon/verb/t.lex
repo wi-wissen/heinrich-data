@@ -31,6 +31,7 @@ team verb
 tear verb past=tore pp=torn
 tease verb
 tee verb
+teem verb
 telecast verb past=telecast|telecasted pp=telecast|telecasted conf=90 note=like broadcast; telecasted also occurs
 telecommute verb
 telegraph verb
@@ -77,6 +78,7 @@ tickle verb
 tidy verb
 tie verb
 tighten verb
+tile verb
 tilt verb
 time verb
 timestamp verb conf=70
@@ -148,6 +150,7 @@ trend verb
 trespass verb
 trick verb
 trickle verb
+trifle verb
 trigger verb
 trim verb
 trip verb
@@ -157,6 +160,7 @@ troll verb
 trot verb
 trouble verb
 troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
+truck verb
 trudge verb
 trump verb
 truncate verb

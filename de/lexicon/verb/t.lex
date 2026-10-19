@@ -3,6 +3,7 @@ tadeln verb class=weak pp=getadelt perf=haben
 tafeln verb class=weak pp=getafelt perf=haben
 tagen verb class=weak pp=getagt perf=haben
 taggen verb class=weak pp=getaggt perf=haben
+tangieren verb class=weak pp=tangiert perf=haben
 tanken verb class=weak pp=getankt perf=haben
 tanzen       verb class=weak pp=getanzt perf=haben
 tapezieren verb class=weak pp=tapeziert perf=haben
@@ -26,6 +27,7 @@ testen verb class=weak pp=getestet perf=haben
 testieren verb class=weak pp=testiert perf=haben
 texten verb class=weak pp=getextet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
+thronen verb class=weak pp=gethront perf=haben
 tilgen verb class=weak pp=getilgt perf=haben
 tippeln verb class=weak pp=getippelt perf=sein
 tippen verb class=weak pp=getippt perf=haben
@@ -40,12 +42,14 @@ tosen verb class=weak pp=getost perf=haben
 töten verb class=weak pp=getötet perf=haben
 touren verb class=weak pp=getourt perf=haben|sein
 traben verb class=weak pp=getrabt perf=haben|sein
+trachten verb class=weak pp=getrachtet perf=haben
 tragen verb class=strong 3sg=trägt past=trug pp=getragen subj2=trüge perf=haben
 trainieren verb class=weak pp=trainiert perf=haben refl=acc
 trällern verb class=weak pp=geträllert perf=haben
 trampeln verb class=weak pp=getrampelt perf=haben|sein
 trampen verb class=weak pp=getrampt perf=sein
 tränken verb class=weak pp=getränkt perf=haben
+transferieren verb class=weak pp=transferiert perf=haben
 transpirieren verb class=weak pp=transpiriert perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben
@@ -62,6 +66,7 @@ triezen verb class=weak pp=getriezt perf=haben style=colloquial
 trillern verb class=weak pp=getrillert perf=haben
 trinken verb class=strong 3sg=trinkt past=trank pp=getrunken subj2=tränke perf=haben
 trippeln verb class=weak pp=getrippelt perf=sein
+triumphieren verb class=weak pp=triumphiert perf=haben
 trocknen verb class=weak pp=getrocknet perf=haben|sein
 trödeln verb class=weak pp=getrödelt perf=haben|sein
 trommeln verb class=weak pp=getrommelt perf=haben

@@ -4,6 +4,7 @@ Pakistan propn
 Palermo propn
 Palestine propn
 Panama propn
+Pantheon propn note=the temple in Rome
 Papua propn note=Papua New Guinea; Indonesian region
 Paraguay propn
 Paris propn
@@ -45,6 +46,7 @@ PRA propn abbr conf=80 note=Paperwork Reduction Act (US); also Prudential Regula
 Pradesh propn note=in Indian state names: Uttar Pradesh, Andhra Pradesh
 Prague propn
 PRC propn abbr note=People's Republic of China
+Presque propn note=part of the place name Presque Isle
 Princeton propn note=Princeton University and town
 Prof. propn abbr note=Professor
 Provence propn

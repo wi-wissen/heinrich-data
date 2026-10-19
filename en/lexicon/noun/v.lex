@@ -4,8 +4,11 @@ vaccination   noun
 vaccine       noun
 vacuum        noun
 vagabond noun
+vagary noun
+vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
 vale          noun
+valence noun
 valentine noun
 valerate noun conf=90 note=chemistry: salt or ester of valeric acid
 valet noun
@@ -38,11 +41,13 @@ variety       noun
 varnish noun
 varsity noun
 vase noun
+vasectomy noun
 vassal noun
 VAT           noun abbr pl=- note=value-added tax
 vaudeville noun pl=- note=uncountable
 vault         noun
 vector        noun
+vegan noun
 vegetable     noun
 vegetarian noun
 vegetation    noun pl=- note=uncountable
@@ -76,6 +81,7 @@ vernacular noun
 versatility noun pl=- note=uncountable
 verse         noun
 version       noun
+vertebra noun pl=vertebrae
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
 vertigo noun pl=vertigoes|vertigos
@@ -83,6 +89,8 @@ vessel        noun
 vest          noun
 vestibule noun
 vestige noun
+vestment noun
+vestry noun
 vet noun
 veteran       noun
 veterinarian noun
@@ -107,6 +115,7 @@ victory       noun
 victual noun
 video         noun
 videoconference noun
+videoconferencing noun pl=- note=uncountable
 Vietnamese    noun pl=Vietnamese
 view          noun
 viewer        noun
@@ -119,6 +128,7 @@ villa         noun
 village       noun
 villager      noun
 villain       noun
+vindication noun
 vine          noun
 vinegar noun
 vineyard noun
@@ -151,11 +161,13 @@ visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
 vivacity noun pl=- note=uncountable
+vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
 vocabulary    noun
 vocal         noun
 vocalist      noun
+vocalization noun gb=vocalisation|vocalization
 vocation noun
 vogue noun
 voice         noun
