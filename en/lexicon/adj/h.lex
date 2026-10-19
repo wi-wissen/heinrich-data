@@ -58,6 +58,7 @@ hoarse         adj cmp=er adv=hoarsely
 holistic adj
 hollow         adj cmp=er
 holy           adj cmp=er
+homegrown adj
 homeless       adj
 homely adj cmp=er|more
 homesick adj

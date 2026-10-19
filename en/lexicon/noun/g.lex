@@ -99,6 +99,8 @@ gill noun
 gimmick noun
 gin noun
 ginger noun
+gipsy noun style=archaic|offensive alt=Roma note=older spelling of gypsy; capitalized Gipsy is a separate neutral entry
+Gipsy noun style=archaic note=older spelling of Gypsy
 giraffe noun pl=giraffes
 girdle noun
 girl           noun
@@ -107,6 +109,7 @@ git noun style=colloquial region=GB
 glacier noun
 glade noun
 gladness noun pl=- note=uncountable
+glamour noun pl=- us=glamour|glamor note=uncountable
 glance         noun
 gland noun
 glare          noun
@@ -270,6 +273,7 @@ guarantor noun
 guard          noun
 guardian       noun
 guardianship noun
+guerilla noun conf=90 note=variant spelling of guerrilla
 guerrilla noun
 guess          noun
 guest          noun
@@ -292,7 +296,9 @@ gunboat noun
 gunfire noun pl=- note=uncountable
 gunner noun
 gunpowder noun
+gunshot noun
 gurgle noun
+guru noun
 gush noun
 gust noun
 gut noun

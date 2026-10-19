@@ -2,6 +2,7 @@ aback adv type=manner note=taken aback
 abreast adv
 abroad adv type=place
 afar adv
+afield adv type=place
 afloat adv
 afresh adv
 aft adv type=place

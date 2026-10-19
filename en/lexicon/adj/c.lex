@@ -228,6 +228,7 @@ corporate adj
 correct adj cmp=more adv=correctly
 correctional adj
 corrective adj
+corresponding adj adv=correspondingly
 corrupt adj cmp=more adv=corruptly
 cosmic adj
 cosmopolitan adj

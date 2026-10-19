@@ -23,6 +23,7 @@ naturalization noun gb=naturalisation|naturalization
 nature        noun
 naught noun pl=- note=nothing (literary)
 nausea noun pl=- note=uncountable
+nautilus noun pl=nautiluses|nautili
 NAV           noun abbr note=net asset value
 Navajo        noun pl=Navajo|Navajos conf=90 note=plural usage varies
 nave          noun
@@ -99,6 +100,7 @@ noble         noun
 nobleman      noun pl=noblemen
 nod           noun
 node          noun
+noir noun pl=- note=film noir; crime genre
 noise         noun
 nomad noun
 nomenclature noun
@@ -151,6 +153,7 @@ novelty       noun
 novice noun
 nozzle noun
 NPRM          noun abbr note=notice of proposed rulemaking (US)
+nuance noun
 nucleotide noun
 nucleus       noun pl=nuclei
 nude noun

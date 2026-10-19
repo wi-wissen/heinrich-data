@@ -56,6 +56,7 @@ whizz verb
 whoop verb
 widen verb
 widow verb
+wield verb
 wiggle verb
 wilt verb note=to droop; archaic thou wilt (will) is a closed-class gap
 win verb past=won pp=won

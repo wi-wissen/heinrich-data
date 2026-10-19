@@ -14,4 +14,5 @@ Col. x abbr note=colonel
 condita x foreign note=only in ab urbe condita
 Copa x foreign conf=90 note=in Copa América, Copa del Rey
 Corp. x abbr note=corporation
+cum x foreign note=Latin "with": cum laude, a kitchen-cum-dining room; also vulgar slang
 CY x abbr conf=90 note=calendar year

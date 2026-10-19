@@ -28,6 +28,7 @@ note          verb
 notice        verb
 notify        verb
 nourish verb
+nuance verb
 nullify verb
 number        verb
 nurse         verb

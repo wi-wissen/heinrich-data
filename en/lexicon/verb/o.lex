@@ -37,6 +37,7 @@ orient verb
 originate     verb
 ornament      verb
 orphan verb
+oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
 outfit        verb prefix=out
