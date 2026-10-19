@@ -64,6 +64,7 @@ Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temp
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
 Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
+Navigation noun g=f gen=Navigation pl=- note=mass noun
 Nazi noun g=m gen=Nazis pl=Nazis
 Nebel noun g=m gen=Nebels pl=Nebel
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser

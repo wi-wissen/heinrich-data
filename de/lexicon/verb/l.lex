@@ -21,6 +21,7 @@ leben verb class=weak pp=gelebt perf=haben
 lecken verb class=weak pp=geleckt perf=haben
 leeren verb class=weak pp=geleert perf=haben refl=acc
 legen verb class=weak pp=gelegt perf=haben refl=acc
+legitimieren verb class=weak pp=legitimiert perf=haben refl=acc
 lehnen verb class=weak pp=gelehnt perf=haben
 lehren verb class=weak pp=gelehrt perf=haben
 leiden verb class=strong 3sg=leidet past=litt pp=gelitten subj2=litte perf=haben

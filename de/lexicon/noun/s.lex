@@ -122,6 +122,7 @@ Scheck noun g=m gen=Schecks pl=Schecks
 Scheibe noun g=f gen=Scheibe pl=Scheiben
 Scheibenwischer noun g=m gen=Scheibenwischers pl=Scheibenwischer
 Scheich noun g=m gen=Scheichs|Scheiches pl=Scheiche|Scheichs
+Scheide noun g=f gen=Scheide pl=Scheiden note=sheath; base of Wasserscheide
 Scheidung noun g=f gen=Scheidung pl=Scheidungen
 Schein noun g=m gen=Scheins|Scheines pl=Scheine
 Scheinwerfer noun g=m gen=Scheinwerfers pl=Scheinwerfer
@@ -314,6 +315,7 @@ Schutt noun g=m gen=Schutts|Schuttes pl=- note=mass noun
 Schutz noun g=m gen=Schutzes pl=- note=mass noun
 Schütze noun g=m gen=Schützen pl=Schützen
 Schwabe noun g=m gen=Schwaben pl=Schwaben
+Schwäbisch noun g=n gen=Schwäbisch|Schwäbischs pl=- conf=80 note=the Swabian dialect; genitive normally avoided (des Schwäbischen)
 Schwäche noun g=f gen=Schwäche pl=Schwächen
 Schwächung noun g=f gen=Schwächung pl=Schwächungen
 Schwager noun g=m gen=Schwagers pl=Schwäger
@@ -351,6 +353,7 @@ Schwung noun g=m gen=Schwungs|Schwunges pl=Schwünge
 Schwur noun g=m gen=Schwurs|Schwures pl=Schwüre
 Screenreader noun g=m gen=Screenreaders pl=Screenreader
 Screenshot noun g=m gen=Screenshots pl=Screenshots
+Sediment noun g=n gen=Sediments|Sedimentes pl=Sedimente
 See noun g=m gen=Sees pl=Seen sense=lake note=der See
 See noun g=f gen=See pl=- sense=sea note=die See
 Seeigel noun g=m gen=Seeigels pl=Seeigel
@@ -407,6 +410,7 @@ Senkrechte noun g=f gen=Senkrechte pl=Senkrechten
 Senkung noun g=f gen=Senkung pl=Senkungen
 Sennerin noun g=f gen=Sennerin pl=Sennerinnen
 Sensibilität noun g=f gen=Sensibilität pl=- note=no plural
+Sensor noun g=m gen=Sensors pl=Sensoren
 September noun g=m gen=September|Septembers pl=September
 Sequenz noun g=f gen=Sequenz pl=Sequenzen
 Serbe noun g=m gen=Serben pl=Serben
@@ -470,6 +474,7 @@ Skandal noun g=m gen=Skandals|Skandales pl=Skandale
 Skat noun g=m gen=Skats|Skates pl=- note=card game; no plural
 Skateboard noun g=n gen=Skateboards pl=Skateboards
 Skelett noun g=n gen=Skeletts|Skelettes pl=Skelette
+Skepsis noun g=f gen=Skepsis pl=- note=mass noun
 Ski noun g=m gen=Skis pl=Skier|Ski
 Skilift noun g=m gen=Skilifts|Skiliftes pl=Skilifte|Skilifts
 Skirennläufer noun g=m gen=Skirennläufers pl=Skirennläufer
@@ -595,6 +600,7 @@ Sperre noun g=f gen=Sperre pl=Sperren
 Sperrmüll noun g=m gen=Sperrmülls pl=- note=no plural
 Sperrung noun g=f gen=Sperrung pl=Sperrungen
 Spesen noun g=pl
+Spezialist noun g=m gen=Spezialisten pl=Spezialisten
 Spezies noun g=f gen=Spezies pl=Spezies
 Spezifikation noun g=f gen=Spezifikation pl=Spezifikationen
 Sphäre noun g=f gen=Sphäre pl=Sphären
@@ -760,6 +766,7 @@ Stimme noun g=f gen=Stimme pl=Stimmen
 Stimmung noun g=f gen=Stimmung pl=Stimmungen
 Stimmzettel noun g=m gen=Stimmzettels pl=Stimmzettel
 Stinktier noun g=n gen=Stinktiers pl=Stinktiere
+Stipendiat noun g=m gen=Stipendiaten pl=Stipendiaten
 Stipendium noun g=n gen=Stipendiums pl=Stipendien
 Stirn noun g=f gen=Stirn pl=Stirnen
 Stirne noun g=f gen=Stirne pl=Stirnen style=archaic note=poetic variant of Stirn
@@ -779,6 +786,7 @@ Story noun g=f gen=Story pl=Storys|Stories
 Stoß noun g=m gen=Stoßes pl=Stöße
 Strafbarkeit noun g=f gen=Strafbarkeit pl=- note=mass noun
 Strafe noun g=f gen=Strafe pl=Strafen
+Sträfling noun g=m gen=Sträflings pl=Sträflinge
 Straftat noun g=f gen=Straftat pl=Straftaten
 Strahl noun g=m gen=Strahls|Strahles pl=Strahlen
 Strahlung noun g=f gen=Strahlung pl=Strahlungen
@@ -885,6 +893,7 @@ Süßigkeit noun g=f gen=Süßigkeit pl=Süßigkeiten
 SV noun g=m gen=SV|SVs pl=SV|SVs conf=80 note=Sportverein; abbreviation
 Sweatshirt noun g=n gen=Sweatshirts pl=Sweatshirts
 Symbol noun g=n gen=Symbols pl=Symbole
+Symbolik noun g=f gen=Symbolik pl=- note=mass noun
 Sympathie noun g=f gen=Sympathie pl=Sympathien
 Symptom noun g=n gen=Symptoms pl=Symptome
 Synagoge noun g=f gen=Synagoge pl=Synagogen
@@ -892,6 +901,7 @@ Synchronisation noun g=f gen=Synchronisation pl=Synchronisationen
 Synchronisierung noun g=f gen=Synchronisierung pl=Synchronisierungen
 Synchronsprecher noun g=m gen=Synchronsprechers pl=Synchronsprecher
 Synchronsprecherin noun g=f gen=Synchronsprecherin pl=Synchronsprecherinnen
+Synode noun g=f gen=Synode pl=Synoden
 Synonym noun g=n gen=Synonyms pl=Synonyme
 Syntax noun g=f gen=Syntax pl=- note=no plural
 Synthese noun g=f gen=Synthese pl=Synthesen

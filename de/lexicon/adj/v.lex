@@ -4,6 +4,7 @@ väterlich adj
 vegan adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
+venezianisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verängstigt adj cmp=verängstigter sup=verängstigtesten
@@ -94,6 +95,7 @@ vorherig adj
 vorig adj
 vorläufig adj
 vorletzt adj attr_only
+vormalig adj attr_only
 vornehm adj cmp=vornehmer sup=vornehmsten
 vorrangig adj
 vorrätig adj
@@ -105,3 +107,4 @@ vortrefflich adj
 vorwiegend adj
 vorzeitig adj
 vorzüglich adj
+vulkanisch adj

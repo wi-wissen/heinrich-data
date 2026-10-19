@@ -11,10 +11,12 @@ langlebig adj
 länglich adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
+langwierig adj cmp=langwieriger sup=langwierigsten
 lässig adj cmp=lässiger sup=lässigsten
 lästig adj cmp=lästiger sup=lästigsten
 lateinamerikanisch adj
 lateinisch adj
+latent adj
 lau adj cmp=lauer sup=lauesten
 launisch adj cmp=launischer sup=launischsten
 laut adj cmp=lauter sup=lautesten
@@ -27,6 +29,7 @@ lecker adj cmp=leckerer sup=leckersten
 ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
+legendär adj
 legitim adj cmp=legitimer sup=legitimsten
 lehrreich adj cmp=lehrreicher sup=lehrreichsten
 leicht adj cmp=leichter sup=leichtesten
@@ -40,10 +43,12 @@ leise        adj cmp=leiser sup=leisesten
 leitend adj
 lesbar adj cmp=lesbarer sup=lesbarsten
 leserlich adj cmp=leserlicher sup=leserlichsten
+lettisch adj
 letzt adj note=not compared; attributive and nominal
 letzter adj attr_only note=der letztere (the latter); cf. letzt
 libanesisch adj
 liberal adj cmp=liberaler sup=liberalsten
+libysch adj
 licht adj cmp=lichter sup=lichtesten
 lieb adj cmp=lieber sup=liebsten
 liebenswert adj cmp=liebenswerter sup=liebenswertesten
@@ -69,5 +74,6 @@ lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
 lustig adj cmp=lustiger sup=lustigsten
 lustlos adj cmp=lustloser sup=lustlosesten
 lutherisch adj
+luxemburgisch adj
 luxuriös adj cmp=luxuriöser sup=luxuriösesten
 lyrisch adj

@@ -7,6 +7,7 @@ abhängig      adj cmp=abhängiger sup=abhängigsten
 abhold adj pred_only style=archaic note=jemandem abhold sein (averse to)
 ablenkend adj
 abrechenbar adj
+abscheulich adj cmp=abscheulicher sup=abscheulichsten
 absehbar adj
 absichtlich adj
 absolut adj
@@ -14,8 +15,10 @@ abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
+adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
 adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
+administrativ adj
 afghanisch adj
 afrikanisch adj
 aggressiv adj cmp=aggressiver sup=aggressivsten
@@ -28,6 +31,7 @@ aktuell       adj cmp=aktueller sup=aktuellsten
 akustisch adj
 akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
+albanisch adj
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
 alleinig adj
@@ -75,6 +79,7 @@ anstrengend adj cmp=anstrengender sup=anstrengendsten
 antarktisch adj
 anteilig adj
 antik adj
+antisemitisch adj
 antragsgemäß adj
 anwendbar adj
 anwesend adj
@@ -86,6 +91,7 @@ approbiert adj
 arabisch adj
 arbeitslos adj
 archäologisch adj
+architektonisch adj
 arg adj cmp=ärger sup=ärgsten
 argentinisch adj
 ärgerlich adj cmp=ärgerlicher sup=ärgerlichsten
@@ -94,6 +100,7 @@ arithmetisch adj
 arktisch adj
 arm           adj cmp=ärmer sup=ärmsten
 armenisch adj
+ärmlich adj cmp=ärmlicher sup=ärmlichsten
 arrogant adj cmp=arroganter sup=arrogantesten
 artig adj cmp=artiger sup=artigsten
 ärztlich adj

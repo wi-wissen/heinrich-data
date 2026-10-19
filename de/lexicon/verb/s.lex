@@ -152,6 +152,7 @@ siechen verb class=weak pp=gesiecht perf=haben conf=85 note=mostly dahinsiechen
 siegeln verb class=weak pp=gesiegelt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
 siezen verb class=weak pp=gesiezt perf=haben
+signalisieren verb class=weak pp=signalisiert perf=haben
 signieren verb class=weak pp=signiert perf=haben
 simpeln verb class=weak pp=gesimpelt perf=haben conf=80 note=rare, mostly fachsimpeln
 simsen verb class=weak pp=gesimst perf=haben style=colloquial

@@ -14,6 +14,7 @@ realistisch adj cmp=realistischer sup=realistischsten
 recht adj note=attributive: die rechte Hand
 rechteckig adj
 rechtlich adj
+rechtmäßig adj
 rechtskräftig adj
 rechtswidrig adj
 rechtwinklig adj
@@ -54,6 +55,7 @@ romanisch adj
 romantisch adj cmp=romantischer sup=romantischsten
 römisch adj
 rosa         adj indecl
+rosig adj cmp=rosiger sup=rosigsten
 rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj
 rötlich adj

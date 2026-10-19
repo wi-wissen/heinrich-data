@@ -75,6 +75,7 @@ flüchten verb class=weak pp=geflüchtet perf=sein|haben
 flunkern verb class=weak pp=geflunkert perf=haben
 flüstern verb class=weak pp=geflüstert perf=haben
 föhnen verb class=weak pp=gefönt perf=haben refl=acc
+fokussieren verb class=weak pp=fokussiert perf=haben refl=acc
 folgen verb class=weak pp=gefolgt perf=sein
 folgern verb class=weak pp=gefolgert perf=haben
 foppen verb class=weak pp=gefoppt perf=haben
@@ -121,6 +122,7 @@ fügen verb class=weak pp=gefügt perf=haben
 fühlen verb class=weak pp=gefühlt perf=haben refl=acc
 führen verb class=weak pp=geführt perf=haben
 füllen verb class=weak pp=gefüllt perf=haben refl=acc
+fundieren verb class=weak pp=fundiert perf=haben pp_cmp note=fundiert is a gradable adjective (fundiertere Kenntnisse)
 fungieren verb class=weak pp=fungiert perf=haben
 funkeln verb class=weak pp=gefunkelt perf=haben
 funktionieren verb class=weak pp=funktioniert perf=haben

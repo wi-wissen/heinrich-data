@@ -43,6 +43,7 @@ beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
 bekloppt adj cmp=bekloppter sup=beklopptesten
+belarussisch adj
 beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
 beliebig adj
@@ -54,6 +55,7 @@ bequem adj cmp=bequemer sup=bequemsten
 bereit adj
 bergig adj cmp=bergiger sup=bergigsten
 bergisch adj
+berüchtigt adj cmp=berüchtigter sup=berüchtigtsten
 beruflich adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
@@ -117,6 +119,7 @@ brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj
 buchstäblich adj
+buddhistisch adj
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten
