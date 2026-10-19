@@ -48,6 +48,7 @@ Geäst noun g=n gen=Geästes|Geästs pl=- note=no plural
 Gebäck noun g=n gen=Gebäcks|Gebäckes pl=Gebäcke
 Gebärde noun g=f gen=Gebärde pl=Gebärden
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
+Gebein noun g=n gen=Gebeins|Gebeines pl=Gebeine note=mostly plural (die Gebeine)
 Gebell noun g=n gen=Gebells pl=- note=no plural
 Geber noun g=m gen=Gebers pl=Geber
 Geberin noun g=f gen=Geberin pl=Geberinnen
@@ -111,6 +112,7 @@ Gehege noun g=n gen=Geheges pl=Gehege
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
 Geheimniß noun g=n gen=Geheimnißes pl=Geheimnisse spelling=old style=archaic note=old spelling of Geheimnis
 Geheimrat noun g=m gen=Geheimrats|Geheimrates pl=Geheimräte
+Gehilfe noun g=m gen=Gehilfen pl=Gehilfen
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehirnerschütterung noun g=f gen=Gehirnerschütterung pl=Gehirnerschütterungen
 Gehöft noun g=n gen=Gehöfts|Gehöftes pl=Gehöfte
@@ -411,6 +413,7 @@ Grafschaft noun g=f gen=Grafschaft pl=Grafschaften
 Gram noun g=m gen=Grams|Grames pl=- conf=80 note=literary: grief (vor Gram); no plural
 Gramm noun g=n gen=Gramms pl=Gramm|Gramme
 Grammatik noun g=f gen=Grammatik pl=Grammatiken
+Gran noun g=n gen=Grans|Granes pl=Grane conf=80 note=old unit of weight (kein Gran Wahrheit); many hits are names (Gran Canaria)
 Granit noun g=m gen=Granits|Granites pl=Granite
 Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen
@@ -456,6 +459,7 @@ Grundrechenart noun g=f gen=Grundrechenart pl=Grundrechenarten
 Grundrecht noun g=n gen=Grundrechts|Grundrechtes pl=Grundrechte
 Grundriss noun g=m gen=Grundrisses pl=Grundrisse
 Grundschule noun g=f gen=Grundschule pl=Grundschulen
+Grundsteinlegung noun g=f gen=Grundsteinlegung pl=Grundsteinlegungen
 Grundstufe noun g=f gen=Grundstufe pl=Grundstufen
 Gründung noun g=f gen=Gründung pl=Gründungen
 Grüne noun g=m|f decl=adj note=die Grünen: Green party members
@@ -472,6 +476,7 @@ Gummiband noun g=n gen=Gummibands|Gummibandes pl=Gummibänder
 Gummibärchen noun g=n gen=Gummibärchens pl=Gummibärchen
 Gummistiefel noun g=m gen=Gummistiefels pl=Gummistiefel
 Gunst noun g=f gen=Gunst pl=- note=mass noun
+Gunsten noun g=pl conf=80 note=only in zu Gunsten, the separate spelling of zugunsten
 Gurke noun g=f gen=Gurke pl=Gurken
 Gurt noun g=m gen=Gurts|Gurtes pl=Gurte
 Gürtel noun g=m gen=Gürtels pl=Gürtel

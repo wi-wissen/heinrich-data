@@ -1,7 +1,9 @@
+ideal adj cmp=idealer sup=idealsten
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+immens adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein
@@ -19,6 +21,7 @@ innerlich adj
 innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
+institutionell adj
 integrativ adj
 intensiv adj cmp=intensiver sup=intensivsten
 interaktiv adj

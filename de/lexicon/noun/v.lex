@@ -83,6 +83,7 @@ Verfassung noun g=f gen=Verfassung pl=Verfassungen
 Verfechter noun g=m gen=Verfechters pl=Verfechter
 Verfechterin noun g=f gen=Verfechterin pl=Verfechterinnen
 Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
+Verfolger noun g=m gen=Verfolgers pl=Verfolger
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
 Verfügbarkeit noun g=f gen=Verfügbarkeit pl=- note=no plural
 Verfügung noun g=f gen=Verfügung pl=Verfügungen
@@ -290,6 +291,7 @@ Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloq
 Visier noun g=n gen=Visiers pl=Visiere
 Vision noun g=f gen=Vision pl=Visionen
 Visum noun g=n gen=Visums pl=Visa|Visen
+Vita noun g=f gen=Vita pl=Viten|Vitae,Viten|Vitae,Viten|Vitae,Viten|Vitae note=Latin plural Vitae has no dative -n
 Vitamin noun g=n gen=Vitamins pl=Vitamine
 Vizekönig noun g=m gen=Vizekönigs pl=Vizekönige
 Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister
