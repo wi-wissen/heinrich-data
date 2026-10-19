@@ -1,0 +1,24 @@
+# English EFL graded vocabulary, topic group `law` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · law
+arrest                   verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+burglar                  noun   grade=7-8 cefr=A2 topic=law role=prod conf=60 src=ai
+court                    noun   grade=7-8 cefr=B1 topic=law role=rec conf=65 src=ai
+crime                    noun   grade=7-8 cefr=A2 topic=law role=prod conf=70 src=ai
+criminal                 noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+gun                      noun   grade=7-8 cefr=B1 topic=law|anglophone.us role=rec conf=50 src=ai|freq
+illegal                  adj    grade=7-8 cefr=A2 topic=law role=prod conf=70 src=ai
+judge                    noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+law                      noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+legal                    adj    grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai
+prison                   noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+punish                   verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+punishment               noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+rob                      verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+robbery                  noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+steal                    verb   grade=7-8 cefr=A2 topic=law role=prod conf=60 src=ai
+thief                    noun   grade=7-8 cefr=A2 topic=law role=prod conf=60 src=ai
+victim                   noun   grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai
+witness                  noun   grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai

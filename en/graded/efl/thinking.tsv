@@ -1,0 +1,60 @@
+# English EFL graded vocabulary, topic group `thinking` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 5-6 · thinking
+chance                   noun   grade=5-6 cefr=A2 topic=thinking|feelings role=prod conf=60 src=ai|freq
+dream                    noun   grade=5-6 cefr=A2 topic=thinking role=prod conf=60 src=ai
+idea                     noun   grade=5-6 cefr=A1 topic=thinking role=prod conf=70 src=ai
+kind                     noun   grade=5-6 cefr=A2 topic=thinking role=prod conf=60 src=ai
+plan                     noun   grade=5-6 cefr=A1 topic=thinking role=prod conf=65 src=ai
+problem                  noun   grade=5-6 cefr=A1 topic=thinking role=prod conf=70 src=ai
+reason                   noun   grade=5-6 cefr=A2 topic=thinking role=prod conf=65 src=ai
+sure                     adj    grade=5-6 cefr=A1 topic=thinking role=prod conf=70 src=ai
+
+# grade 7-8 · thinking
+addition                 noun   grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+advantage                noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=75 src=ai
+alternative              noun   grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+argument                 noun   grade=7-8 cefr=A2 topic=thinking|friends role=prod conf=75 src=ai
+aspect                   noun   grade=7-8 cefr=B1 topic=thinking role=rec conf=65 src=ai
+belief                   noun   grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+case                     noun   grade=7-8 cefr=A2 topic=thinking role=rec conf=55 src=ai|freq
+cause                    noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+certain                  adj    grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+choice                   noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai
+compare                  verb   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+comparison               noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+conclusion               noun   grade=7-8 cefr=B1 topic=thinking role=prod conf=70 src=ai
+consequence              noun   grade=7-8 cefr=B1 topic=thinking role=prod conf=70 src=ai
+convinced                adj    grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+criticism                noun   grade=7-8 cefr=B1 topic=thinking role=rec conf=65 src=ai
+criticize                verb   grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+decision                 noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+difference               noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=60 src=ai
+disadvantage             noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=75 src=ai
+disagree                 verb   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+due                      adj    grade=7-8 cefr=B1 topic=thinking role=rec conf=60 src=ai
+effect                   noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+evidence                 noun   grade=7-8 cefr=B1 topic=thinking role=rec conf=65 src=ai
+fact                     noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai
+general                  adj    grade=7-8 cefr=B1 topic=thinking role=rec conf=55 src=ai|freq
+judge                    verb   grade=7-8 cefr=B1 topic=thinking role=prod conf=65 src=ai
+opinion                  noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+option                   noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+point                    noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=60 src=ai
+possibility              noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+pro                      noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai
+proof                    noun   grade=7-8 cefr=B1 topic=thinking role=rec conf=65 src=ai
+prove                    verb   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+reckon                   verb   grade=7-8 cefr=B1 topic=thinking role=rec conf=60 src=ai
+result                   noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai
+risk                     noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+situation                noun   grade=7-8 cefr=A2 topic=thinking|communication role=rec conf=60 src=ai|freq
+solution                 noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+sort                     noun   grade=7-8 cefr=A2 topic=thinking role=rec conf=55 src=ai|freq
+statement                noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+thought                  noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai|freq
+truth                    noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=70 src=ai
+type                     noun   grade=7-8 cefr=A2 topic=thinking role=rec conf=55 src=ai|freq
+view                     noun   grade=7-8 cefr=A2 topic=thinking role=prod conf=65 src=ai

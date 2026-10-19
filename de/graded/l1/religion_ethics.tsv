@@ -1,0 +1,113 @@
+# German L1 graded vocabulary, area `religion_ethics` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · ethics.values
+verzeihen                verb   grade=1-2 topic=ethics.values role=prod conf=80 src=ai
+
+# grade 1-2 · religion
+beten                    verb   grade=1-2 topic=religion role=prod conf=85 src=ai
+Engel                    noun   grade=1-2 topic=religion role=prod conf=90 src=ai
+Gebet                    noun   grade=1-2 topic=religion role=prod conf=80 src=ai
+glauben                  verb   grade=1-2 topic=religion role=prod conf=85 src=ai
+Gott                     noun   grade=1-2 topic=religion role=prod conf=90 src=ai
+Kirche                   noun   grade=1-2 topic=religion role=prod conf=90 src=ai
+Religion                 noun   grade=1-2 topic=religion role=prod conf=80 src=ai
+
+# grade 1-2 · religion.christianity
+Advent                   noun   grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Adventskranz             noun   grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Bibel                    noun   grade=1-2 topic=religion.christianity role=prod conf=80 src=ai
+Erntedank                noun   grade=1-2 topic=religion.christianity role=prod conf=75 src=ai
+Erntedankfest            noun   grade=1-2 topic=religion.christianity role=prod conf=75 src=ai
+Heiligabend              noun   grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Hirte                    noun   grade=1-2 topic=religion.christianity role=prod conf=80 src=ai
+Jesus                    propn  grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Josef                    propn  grade=1-2 topic=religion.christianity role=prod conf=75 src=ai
+Kreuz                    noun   grade=1-2 topic=religion.christianity role=prod conf=80 src=ai
+Krippe                   noun   grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Nikolaus                 noun   grade=1-2 topic=religion.christianity role=prod conf=85 src=ai
+Ostern                   noun   grade=1-2 topic=religion.christianity role=prod conf=95 src=ai
+Pfarrer                  noun   grade=1-2 topic=religion.christianity role=prod conf=80 src=ai
+Taufe                    noun   grade=1-2 topic=religion.christianity role=prod conf=75 src=ai
+Weihnachten              noun   grade=1-2 topic=religion.christianity role=prod conf=95 src=ai
+
+# grade 3-4 · ethics.philosophy
+philosophieren           verb   grade=3-4 topic=ethics.philosophy role=rec conf=60 src=ai
+Tod                      noun   grade=3-4 topic=ethics.philosophy role=prod conf=75 src=ai
+Trauer                   noun   grade=3-4 topic=ethics.philosophy role=prod conf=70 src=ai
+trauern                  verb   grade=3-4 topic=ethics.philosophy role=prod conf=70 src=ai
+
+# grade 3-4 · ethics.values
+ausgrenzen               verb   grade=3-4 topic=ethics.values role=rec conf=65 src=ai
+gerecht                  adj    grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+Gerechtigkeit            noun   grade=3-4 topic=ethics.values role=rec conf=65 src=ai
+Gewissen                 noun   grade=3-4 topic=ethics.values role=rec conf=65 src=ai
+hilfsbereit              adj    grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+Mobbing                  noun   grade=3-4 topic=ethics.values role=rec conf=70 src=ai
+Schuld                   noun   grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+ungerecht                adj    grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+Vergebung                noun   grade=3-4 topic=ethics.values role=rec conf=60 src=ai
+Vertrauen                noun   grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+Wahrheit                 noun   grade=3-4 topic=ethics.values role=prod conf=75 src=ai
+
+# grade 3-4 · religion
+fasten                   verb   grade=3-4 topic=religion role=prod conf=70 src=ai
+Glaube                   noun   grade=3-4 topic=religion role=prod conf=75 src=ai
+heilig                   adj    grade=3-4 topic=religion role=prod conf=75 src=ai
+Schöpfung                noun   grade=3-4 topic=religion role=rec conf=70 src=ai
+Segen                    noun   grade=3-4 topic=religion role=rec conf=65 src=ai
+Weltreligion             noun   grade=3-4 topic=religion role=rec conf=60 src=ai
+Wunder                   noun   grade=3-4 topic=religion role=prod conf=75 src=ai
+
+# grade 3-4 · religion.christianity
+Abendmahl                noun   grade=3-4 topic=religion.christianity role=rec conf=65 src=ai
+Abraham                  propn  grade=3-4 topic=religion.christianity role=rec conf=65 src=ai
+Bischof                  noun   grade=3-4 topic=religion.christianity role=rec conf=62 src=ai|freq
+Christ                   noun   grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+Christentum              noun   grade=3-4 topic=religion.christianity role=rec conf=70 src=ai
+christlich               adj    grade=3-4 topic=religion.christianity role=rec conf=70 src=ai
+Dreikönigstag            noun   grade=3-4 topic=religion.christianity role=rec conf=60 src=ai
+Erstkommunion            noun   grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+evangelisch              adj    grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+Gleichnis                noun   grade=3-4 topic=religion.christianity role=rec conf=65 src=ai
+Gottesdienst             noun   grade=3-4 topic=religion.christianity role=prod conf=75 src=ai
+Gründonnerstag           noun   grade=3-4 topic=religion.christianity role=rec conf=60 src=ai
+Karfreitag               noun   grade=3-4 topic=religion.christianity role=rec conf=70 src=ai
+katholisch               adj    grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+Kommunion                noun   grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+Konfirmation             noun   grade=3-4 topic=religion.christianity role=rec conf=65 src=ai
+Nächstenliebe            noun   grade=3-4 topic=religion.christianity role=rec conf=65 src=ai
+Palmsonntag              noun   grade=3-4 topic=religion.christianity role=rec conf=60 src=ai
+Pfingsten                noun   grade=3-4 topic=religion.christianity role=prod conf=70 src=ai
+Sternsinger              noun   grade=3-4 topic=religion.christianity role=prod conf=65 src=ai
+
+# grade 3-4 · religion.islam
+Allah                    propn  grade=3-4 topic=religion.islam role=rec conf=65 src=ai
+Gebetsteppich            noun   grade=3-4 topic=religion.islam role=rec conf=60 src=ai
+Imam                     noun   grade=3-4 topic=religion.islam role=rec conf=60 src=ai
+Islam                    noun   grade=3-4 topic=religion.islam role=rec conf=75 src=ai
+Koran                    noun   grade=3-4 topic=religion.islam role=prod conf=70 src=ai
+Minarett                 noun   grade=3-4 topic=religion.islam role=rec conf=60 src=ai
+Moschee                  noun   grade=3-4 topic=religion.islam role=prod conf=75 src=ai
+Muslim                   noun   grade=3-4 topic=religion.islam role=prod conf=70 src=ai
+Muslima                  noun   grade=3-4 topic=religion.islam role=prod conf=65 src=ai
+Opferfest                noun   grade=3-4 topic=religion.islam role=rec conf=65 src=ai
+Ramadan                  noun   grade=3-4 topic=religion.islam role=prod conf=75 src=ai
+Zuckerfest               noun   grade=3-4 topic=religion.islam role=prod conf=70 src=ai
+
+# grade 3-4 · religion.judaism
+Chanukka                 noun   grade=3-4 topic=religion.judaism role=rec conf=60 src=ai
+Jude                     noun   grade=3-4 topic=religion.judaism role=prod conf=70 src=ai
+Judentum                 noun   grade=3-4 topic=religion.judaism role=rec conf=70 src=ai
+jüdisch                  adj    grade=3-4 topic=religion.judaism role=rec conf=70 src=ai
+Kippa                    noun   grade=3-4 topic=religion.judaism role=rec conf=55 src=ai
+Menora                   noun   grade=3-4 topic=religion.judaism role=rec conf=55 src=ai
+Rabbiner                 noun   grade=3-4 topic=religion.judaism role=rec conf=60 src=ai
+Schabbat                 noun   grade=3-4 topic=religion.judaism role=rec conf=60 src=ai
+Synagoge                 noun   grade=3-4 topic=religion.judaism role=prod conf=70 src=ai
+Tora                     noun   grade=3-4 topic=religion.judaism role=rec conf=60 src=ai
+
+# grade 3-4 · religion.world
+Buddha                   propn  grade=3-4 topic=religion.world role=rec conf=60 src=ai
+Tempel                   noun   grade=3-4 topic=religion.world role=prod conf=70 src=ai

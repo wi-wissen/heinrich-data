@@ -1,0 +1,281 @@
+# German L1 graded vocabulary, area `math` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · math
+Mathe                    noun   grade=1-2 topic=math role=prod conf=90 src=ai
+Mathematik               noun   grade=1-2 topic=math role=rec conf=75 src=ai
+
+# grade 1-2 · math.arithmetic
+abziehen                 verb   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+aufteilen                verb   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+ausrechnen               verb   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+doppelt                  adj    grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+durch                    adp    grade=1-2 topic=math.arithmetic|function.preposition role=prod conf=85 src=ai
+Einmaleins               noun   grade=1-2 topic=math.arithmetic role=prod conf=90 src=ai
+Ergebnis                 noun   grade=1-2 topic=math.arithmetic|science.method role=prod conf=90 src=ai
+ergänzen                 verb   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+Geteiltaufgabe           noun   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+Gleichheitszeichen       noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+halbieren                verb   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+insgesamt                adv    grade=1-2 topic=math.arithmetic|function.adverb role=prod conf=85 src=ai
+Kernaufgabe              noun   grade=1-2 topic=math.arithmetic role=rec conf=65 src=ai
+lösen                    verb   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+Lösung                   noun   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+mal                      adv    grade=1-2 topic=math.arithmetic role=prod conf=90 src=ai
+Malaufgabe               noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+Malreihe                 noun   grade=1-2 topic=math.arithmetic role=prod conf=75 src=ai
+minus                    cconj  grade=1-2 topic=math.arithmetic role=prod conf=95 src=ai
+Minus                    noun   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+Minusaufgabe             noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+Nachbaraufgabe           noun   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+Platzhalter              noun   grade=1-2 topic=math.arithmetic role=rec conf=60 src=ai
+plus                     cconj  grade=1-2 topic=math.arithmetic role=prod conf=95 src=ai
+Plus                     noun   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+Plusaufgabe              noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+Rechendreieck            noun   grade=1-2 topic=math.arithmetic role=rec conf=70 src=ai
+Rechengeschichte         noun   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+Rechenkette              noun   grade=1-2 topic=math.arithmetic role=rec conf=65 src=ai
+Rechenweg                noun   grade=1-2 topic=math.arithmetic|math.reasoning role=prod conf=75 src=ai
+rechnen                  verb   grade=1-2 topic=math.arithmetic role=prod conf=95 src=ai
+Rechnung                 noun   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+Rest                     noun   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+Tauschaufgabe            noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+teilen                   verb   grade=1-2 topic=math.arithmetic role=prod conf=90 src=ai
+Umkehraufgabe            noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+verdoppeln               verb   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+verteilen                verb   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+wegnehmen                verb   grade=1-2 topic=math.arithmetic role=prod conf=85 src=ai
+Zahlenhaus               noun   grade=1-2 topic=math.arithmetic role=rec conf=65 src=ai
+Zahlenmauer              noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+Zehnerübergang           noun   grade=1-2 topic=math.arithmetic role=rec conf=70 src=ai
+Zeichen                  noun   grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+zusammenzählen           verb   grade=1-2 topic=math.arithmetic role=prod conf=70 src=ai
+übrig                    adj    grade=1-2 topic=math.arithmetic role=prod conf=80 src=ai
+
+# grade 1-2 · math.data
+Strichliste              noun   grade=1-2 topic=math.data role=prod conf=85 src=ai
+Tabelle                  noun   grade=1-2 topic=math.data role=prod conf=85 src=ai
+würfeln                  verb   grade=1-2 topic=math.data role=prod conf=85 src=ai
+
+# grade 1-2 · math.geometry
+Dreieck                  noun   grade=1-2 topic=math.geometry role=prod conf=95 src=ai
+Ecke                     noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+eckig                    adj    grade=1-2 topic=math.geometry role=prod conf=85 src=ai
+falten                   verb   grade=1-2 topic=math.geometry role=prod conf=80 src=ai
+Form                     noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+Geobrett                 noun   grade=1-2 topic=math.geometry role=rec conf=60 src=ai
+Kreis                    noun   grade=1-2 topic=math.geometry role=prod conf=95 src=ai
+Kugel                    noun   grade=1-2 topic=math.geometry role=prod conf=85 src=ai
+Kästchen                 noun   grade=1-2 topic=math.geometry role=prod conf=80 src=ai
+Lineal                   noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+Linie                    noun   grade=1-2 topic=math.geometry role=prod conf=85 src=ai
+Muster                   noun   grade=1-2 topic=math.geometry|math.reasoning role=prod conf=85 src=ai
+Punkt                    noun   grade=1-2 topic=math.geometry role=prod conf=80 src=ai
+Quadrat                  noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+Rechteck                 noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+Seite                    noun   grade=1-2 topic=math.geometry role=prod conf=80 src=ai
+Tangram                  noun   grade=1-2 topic=math.geometry role=rec conf=65 src=ai
+Viereck                  noun   grade=1-2 topic=math.geometry role=prod conf=90 src=ai
+Würfel                   noun   grade=1-2 topic=math.geometry|math.data role=prod conf=90 src=ai
+
+# grade 1-2 · math.measures
+Cent                     noun   grade=1-2 topic=math.measures role=prod conf=95 src=ai
+Euro                     noun   grade=1-2 topic=math.measures role=prod conf=95 src=ai
+Geldschein               noun   grade=1-2 topic=math.measures role=prod conf=80 src=ai
+Länge                    noun   grade=1-2 topic=math.measures role=prod conf=85 src=ai
+Maßband                  noun   grade=1-2 topic=math.measures role=prod conf=75 src=ai
+messen                   verb   grade=1-2 topic=math.measures|science.method role=prod conf=90 src=ai
+Meter                    noun   grade=1-2 topic=math.measures role=prod conf=90 src=ai
+Minutenzeiger            noun   grade=1-2 topic=math.measures role=prod conf=70 src=ai
+Münze                    noun   grade=1-2 topic=math.measures role=prod conf=85 src=ai
+Stundenzeiger            noun   grade=1-2 topic=math.measures role=prod conf=70 src=ai
+Uhrzeit                  noun   grade=1-2 topic=math.measures role=prod conf=85 src=ai
+Viertelstunde            noun   grade=1-2 topic=math.measures role=prod conf=75 src=ai
+Waage                    noun   grade=1-2 topic=math.measures role=prod conf=85 src=ai
+wiegen:weigh             verb   grade=1-2 topic=math.measures role=prod conf=85 src=ai
+Zeiger                   noun   grade=1-2 topic=math.measures role=prod conf=80 src=ai
+Zentimeter               noun   grade=1-2 topic=math.measures role=prod conf=90 src=ai
+
+# grade 1-2 · math.numbers
+Anzahl                   noun   grade=1-2 topic=math.numbers role=prod conf=85 src=ai
+bündeln                  verb   grade=1-2 topic=math.numbers role=prod conf=70 src=ai
+Einer                    noun   grade=1-2 topic=math.numbers role=prod conf=90 src=ai
+gerade                   adj    grade=1-2 topic=math.numbers|math.geometry role=prod conf=85 src=ai
+hundert                  num    grade=1-2 topic=math.numbers role=prod conf=90 src=ai
+Hunderterfeld            noun   grade=1-2 topic=math.numbers role=rec conf=75 src=ai
+Hunderterplatte          noun   grade=1-2 topic=math.numbers role=rec conf=60 src=ai
+Hundertertafel           noun   grade=1-2 topic=math.numbers role=rec conf=75 src=ai
+Hälfte                   noun   grade=1-2 topic=math.numbers|math.arithmetic role=prod conf=90 src=ai
+Nachbarzahl              noun   grade=1-2 topic=math.numbers role=prod conf=80 src=ai
+Nachfolger               noun   grade=1-2 topic=math.numbers role=prod conf=80 src=ai
+Null                     noun   grade=1-2 topic=math.numbers role=prod conf=80 src=ai
+null                     num    grade=1-2 topic=math.numbers role=prod conf=85 src=ai
+Plättchen                noun   grade=1-2 topic=math.numbers role=rec conf=65 src=ai
+Rechenrahmen             noun   grade=1-2 topic=math.numbers role=rec conf=70 src=ai
+Reihe                    noun   grade=1-2 topic=math.numbers|math.arithmetic role=prod conf=80 src=ai
+ungerade                 adj    grade=1-2 topic=math.numbers role=prod conf=85 src=ai
+vergleichen              verb   grade=1-2 topic=math.numbers|math.reasoning role=prod conf=85 src=ai
+Vorgänger                noun   grade=1-2 topic=math.numbers role=prod conf=80 src=ai
+Wendeplättchen           noun   grade=1-2 topic=math.numbers role=rec conf=60 src=ai
+Zahl                     noun   grade=1-2 topic=math.numbers role=prod conf=95 src=ai
+Zahlenraum               noun   grade=1-2 topic=math.numbers role=rec conf=75 src=ai
+Zahlenreihe              noun   grade=1-2 topic=math.numbers role=prod conf=70 src=ai
+Zahlenstrahl             noun   grade=1-2 topic=math.numbers role=prod conf=85 src=ai
+Zehner                   noun   grade=1-2 topic=math.numbers role=prod conf=90 src=ai
+Zehnerstange             noun   grade=1-2 topic=math.numbers role=rec conf=60 src=ai
+Ziffer                   noun   grade=1-2 topic=math.numbers role=prod conf=90 src=ai
+Zwanzigerfeld            noun   grade=1-2 topic=math.numbers role=rec conf=70 src=ai
+zählen                   verb   grade=1-2 topic=math.numbers role=prod conf=95 src=ai
+
+# grade 1-2 · math.reasoning
+fortsetzen               verb   grade=1-2 topic=math.reasoning role=prod conf=80 src=ai
+Knobelaufgabe            noun   grade=1-2 topic=math.reasoning role=prod conf=65 src=ai
+knobeln                  verb   grade=1-2 topic=math.reasoning role=prod conf=65 src=ai
+
+# grade 3-4 · math.arithmetic
+addieren                 verb   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+Addition                 noun   grade=3-4 topic=math.arithmetic role=rec conf=75 src=ai
+Differenz                noun   grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+dividieren               verb   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+Division                 noun   grade=3-4 topic=math.arithmetic role=rec conf=75 src=ai
+ergeben                  verb   grade=3-4 topic=math.arithmetic role=rec conf=58 src=ai|freq
+etwa                     adv    grade=3-4 topic=math.arithmetic|function.adverb role=prod conf=70 src=ai
+Faktor                   noun   grade=3-4 topic=math.arithmetic role=rec conf=65 src=ai
+je                       adv    grade=3-4 topic=math.arithmetic|function.adverb role=prod conf=70 src=ai
+Kopfrechnen              noun   grade=3-4 topic=math.arithmetic role=prod conf=80 src=ai
+Multiplikation           noun   grade=3-4 topic=math.arithmetic role=rec conf=75 src=ai
+multiplizieren           verb   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+pro                      adp    grade=3-4 topic=math.arithmetic|function.preposition role=prod conf=70 src=ai
+Probe                    noun   grade=3-4 topic=math.arithmetic|math.reasoning role=prod conf=75 src=ai
+Produkt                  noun   grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+Quadratzahl              noun   grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+Quotient                 noun   grade=3-4 topic=math.arithmetic role=rec conf=60 src=ai
+Sachaufgabe              noun   grade=3-4 topic=math.arithmetic role=prod conf=80 src=ai
+schriftlich              adj    grade=3-4 topic=math.arithmetic role=prod conf=85 src=ai
+subtrahieren             verb   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+Subtraktion              noun   grade=3-4 topic=math.arithmetic role=rec conf=75 src=ai
+Summand                  noun   grade=3-4 topic=math.arithmetic role=rec conf=65 src=ai
+Summe                    noun   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+teilbar                  adj    grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+Teiler                   noun   grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+ungefähr                 adv    grade=3-4 topic=math.arithmetic|function.adverb role=prod conf=80 src=ai
+untereinander            adv    grade=3-4 topic=math.arithmetic role=prod conf=70 src=ai
+Verdopplung              noun   grade=3-4 topic=math.arithmetic role=rec conf=60 src=ai
+Vielfache                noun   grade=3-4 topic=math.arithmetic role=rec conf=70 src=ai
+Überschlag               noun   grade=3-4 topic=math.arithmetic role=prod conf=80 src=ai
+überschlagen             verb   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+Übertrag                 noun   grade=3-4 topic=math.arithmetic role=prod conf=75 src=ai
+
+# grade 3-4 · math.data
+Balkendiagramm           noun   grade=3-4 topic=math.data role=rec conf=65 src=ai
+Daten                    noun   grade=3-4 topic=math.data role=rec conf=70 src=ai
+Diagramm                 noun   grade=3-4 topic=math.data role=prod conf=80 src=ai
+Glücksrad                noun   grade=3-4 topic=math.data role=prod conf=65 src=ai
+häufig                   adj    grade=3-4 topic=math.data role=prod conf=70 src=ai
+Häufigkeit               noun   grade=3-4 topic=math.data role=rec conf=60 src=ai
+möglich                  adj    grade=3-4 topic=math.data role=prod conf=80 src=ai
+Schaubild                noun   grade=3-4 topic=math.data role=rec conf=70 src=ai
+sicher                   adj    grade=3-4 topic=math.data role=prod conf=75 src=ai
+Spalte                   noun   grade=3-4 topic=math.data role=rec conf=62 src=ai|freq
+Säulendiagramm           noun   grade=3-4 topic=math.data role=prod conf=75 src=ai
+Umfrage                  noun   grade=3-4 topic=math.data role=prod conf=70 src=ai
+unmöglich                adj    grade=3-4 topic=math.data role=prod conf=85 src=ai
+unwahrscheinlich         adj    grade=3-4 topic=math.data role=prod conf=75 src=ai
+wahrscheinlich           adj    grade=3-4 topic=math.data role=prod conf=80 src=ai
+Wahrscheinlichkeit       noun   grade=3-4 topic=math.data role=rec conf=60 src=ai
+Zufall                   noun   grade=3-4 topic=math.data role=prod conf=75 src=ai
+
+# grade 3-4 · math.geometry
+achsensymmetrisch        adj    grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+Achteck                  noun   grade=3-4 topic=math.geometry role=rec conf=60 src=ai
+Ansicht                  noun   grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+Bauplan                  noun   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+Durchmesser              noun   grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+Fläche                   noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Flächeninhalt            noun   grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+Fünfeck                  noun   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+Geodreieck               noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+Gerade                   noun   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+Grundriss                noun   grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+Kante                    noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Kegel                    noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Körper                   noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+Maßstab                  noun   grade=3-4 topic=math.geometry|math.measures role=rec conf=65 src=ai
+Mittelpunkt              noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+Netz                     noun   grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+parallel                 adj    grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+Pyramide                 noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Quader                   noun   grade=3-4 topic=math.geometry role=prod conf=85 src=ai
+Raute                    noun   grade=3-4 topic=math.geometry role=prod conf=65 src=ai
+rechtwinklig             adj    grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+Sechseck                 noun   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+senkrecht                adj    grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+Spiegelachse             noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Spiegelbild              noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+spiegeln                 verb   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Strecke                  noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+Symmetrie                noun   grade=3-4 topic=math.geometry role=rec conf=75 src=ai
+Symmetrieachse           noun   grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+symmetrisch              adj    grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Umfang                   noun   grade=3-4 topic=math.geometry role=rec conf=65 src=ai
+vergrößern               verb   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+verkleinern              verb   grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+waagerecht               adj    grade=3-4 topic=math.geometry role=prod conf=70 src=ai
+Winkel                   noun   grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+Würfelgebäude            noun   grade=3-4 topic=math.geometry role=rec conf=70 src=ai
+Würfelnetz               noun   grade=3-4 topic=math.geometry role=prod conf=75 src=ai
+Zirkel                   noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+Zylinder                 noun   grade=3-4 topic=math.geometry role=prod conf=80 src=ai
+
+# grade 3-4 · math.measures
+Breite                   noun   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Dauer                    noun   grade=3-4 topic=math.measures role=prod conf=70 src=ai
+Einheit                  noun   grade=3-4 topic=math.measures role=prod conf=75 src=ai
+Gewicht                  noun   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Gramm                    noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Größe                    noun   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Hohlmaß                  noun   grade=3-4 topic=math.measures role=rec conf=60 src=ai
+Höhe                     noun   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Kilogramm                noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Kilometer                noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Komma                    noun   grade=3-4 topic=math.measures role=prod conf=75 src=ai
+Kommaschreibweise        noun   grade=3-4 topic=math.measures role=rec conf=60 src=ai
+Liter                    noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Maßeinheit               noun   grade=3-4 topic=math.measures role=rec conf=70 src=ai
+Messbecher               noun   grade=3-4 topic=math.measures role=prod conf=70 src=ai
+Milliliter               noun   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Millimeter               noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Rückgeld                 noun   grade=3-4 topic=math.measures role=prod conf=70 src=ai
+schätzen                 verb   grade=3-4 topic=math.measures role=prod conf=80 src=ai
+Sekunde                  noun   grade=3-4 topic=math.measures role=prod conf=85 src=ai
+Tonne                    noun   grade=3-4 topic=math.measures role=prod conf=75 src=ai
+umrechnen                verb   grade=3-4 topic=math.measures role=prod conf=75 src=ai
+umwandeln                verb   grade=3-4 topic=math.measures role=prod conf=70 src=ai
+Zeitpunkt                noun   grade=3-4 topic=math.measures role=rec conf=75 src=ai
+Zeitspanne               noun   grade=3-4 topic=math.measures role=rec conf=75 src=ai
+Zollstock                noun   grade=3-4 topic=math.measures role=prod conf=75 src=ai
+
+# grade 3-4 · math.numbers
+Hunderter                noun   grade=3-4 topic=math.numbers role=prod conf=75 src=ai
+Hunderttausender         noun   grade=3-4 topic=math.numbers role=prod conf=80 src=ai
+höchstens                adv    grade=3-4 topic=math.numbers|function.adverb role=prod conf=70 src=ai
+Milliarde                noun   grade=3-4 topic=math.numbers role=rec conf=60 src=ai
+Million                  noun   grade=3-4 topic=math.numbers role=prod conf=85 src=ai
+mindestens               adv    grade=3-4 topic=math.numbers|function.adverb role=prod conf=70 src=ai
+runden                   verb   grade=3-4 topic=math.numbers role=prod conf=85 src=ai
+Stelle                   noun   grade=3-4 topic=math.numbers role=prod conf=70 src=ai
+Stellenwert              noun   grade=3-4 topic=math.numbers role=rec conf=75 src=ai
+Stellenwerttafel         noun   grade=3-4 topic=math.numbers role=prod conf=75 src=ai
+Stufenzahl               noun   grade=3-4 topic=math.numbers role=rec conf=60 src=ai
+tausend                  num    grade=3-4 topic=math.numbers role=prod conf=80 src=ai
+Tausender                noun   grade=3-4 topic=math.numbers role=prod conf=85 src=ai
+Tausenderwürfel          noun   grade=3-4 topic=math.numbers role=rec conf=60 src=ai
+Zehntausender            noun   grade=3-4 topic=math.numbers role=prod conf=80 src=ai
+
+# grade 3-4 · math.reasoning
+begründen                verb   grade=3-4 topic=math.reasoning role=prod conf=80 src=ai
+Begründung               noun   grade=3-4 topic=math.reasoning role=prod conf=70 src=ai
+Lösungsweg               noun   grade=3-4 topic=math.reasoning role=prod conf=75 src=ai
+Rechenvorteil            noun   grade=3-4 topic=math.reasoning role=rec conf=60 src=ai
+überprüfen               verb   grade=3-4 topic=math.reasoning|science.method role=prod conf=75 src=ai

@@ -1,0 +1,64 @@
+# English EFL graded vocabulary, topic group `sports` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · sports
+basketball               noun   grade=3-4 cefr=A1 topic=sports role=rec conf=75 src=ai
+catch                    verb   grade=3-4 cefr=A1 topic=sports|actions.handling role=prod conf=80 src=ai
+climb                    verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=prod conf=88 src=ai
+dance                    verb   grade=3-4 cefr=A1 topic=sports|music_arts role=prod conf=92 src=ai
+football                 noun   grade=3-4 cefr=A1 topic=sports role=prod conf=95 src=ai
+hop                      verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=rec conf=75 src=ai
+jump                     verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=prod conf=98 src=ai
+kick                     verb   grade=3-4 cefr=A1 topic=sports role=rec conf=75 src=ai
+ride                     verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=prod conf=88 src=ai
+run                      verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=prod conf=98 src=ai
+skate                    verb   grade=3-4 cefr=A1 topic=sports role=rec conf=75 src=ai
+ski                      verb   grade=3-4 cefr=A1 topic=sports role=prod conf=70 src=ai
+swim                     verb   grade=3-4 cefr=A1 topic=sports|actions.motion role=prod conf=95 src=ai
+team                     noun   grade=3-4 cefr=A1 topic=sports role=prod conf=65 src=ai
+tennis                   noun   grade=3-4 cefr=A1 topic=sports role=prod conf=85 src=ai
+throw                    verb   grade=3-4 cefr=A1 topic=sports|actions.handling role=prod conf=80 src=ai
+win                      verb   grade=3-4 cefr=A1 topic=sports role=rec conf=70 src=ai
+
+# grade 5-6 · sports
+badminton                noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
+baseball                 noun   grade=5-6 cefr=A2 topic=sports|anglophone.us role=rec conf=60 src=ai|freq
+captain                  noun   grade=5-6 cefr=A2 topic=sports|jobs|fantasy role=rec conf=60 src=ai|freq
+coach                    noun   grade=5-6 cefr=A2 topic=sports role=rec conf=55 src=ai
+competition              noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
+cricket                  noun   grade=5-6 cefr=A2 topic=sports|anglophone.uk role=rec conf=60 src=ai
+fan                      noun   grade=5-6 cefr=A2 topic=sports|music_arts role=prod conf=65 src=ai
+field                    noun   grade=5-6 cefr=A1 topic=sports|nature role=prod conf=65 src=ai
+goal                     noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
+hockey                   noun   grade=5-6 cefr=A1 topic=sports role=prod conf=65 src=ai
+match                    noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
+net                      noun   grade=5-6 cefr=A2 topic=sports|animals role=rec conf=55 src=ai|freq
+player                   noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
+prize                    noun   grade=5-6 cefr=A2 topic=sports|celebrations role=prod conf=65 src=ai
+race                     noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
+rugby                    noun   grade=5-6 cefr=A2 topic=sports|anglophone.uk role=prod conf=65 src=ai
+score                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
+stadium                  noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
+train                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
+volleyball               noun   grade=5-6 cefr=A1 topic=sports role=prod conf=60 src=ai
+
+# grade 7-8 · sports
+athlete                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+champion                 noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+championship             noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+coach                    verb   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
+compete                  verb   grade=7-8 cefr=B1 topic=sports role=prod conf=65 src=ai
+defeat                   noun   grade=7-8 cefr=B1 topic=sports role=rec conf=65 src=ai
+equipment                noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+league                   noun   grade=7-8 cefr=A2 topic=sports role=rec conf=55 src=ai|freq
+Olympic                  adj    grade=7-8 cefr=A2 topic=sports role=rec conf=55 src=ai|freq
+opponent                 noun   grade=7-8 cefr=B1 topic=sports role=rec conf=65 src=ai
+penalty                  noun   grade=7-8 cefr=B1 topic=sports role=rec conf=50 src=ai|freq
+referee                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+surf                     verb   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
+surfer                   noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
+surfing                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
+tournament               noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+track                    noun   grade=7-8 cefr=A2 topic=sports|music_arts role=rec conf=55 src=ai|freq
+victory                  noun   grade=7-8 cefr=B1 topic=sports role=prod conf=65 src=ai

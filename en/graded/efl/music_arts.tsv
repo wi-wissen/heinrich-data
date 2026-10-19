@@ -1,0 +1,44 @@
+# English EFL graded vocabulary, topic group `music_arts` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · music_arts
+drum                     noun   grade=3-4 cefr=A1 topic=music_arts role=prod conf=80 src=ai
+flute                    noun   grade=3-4 cefr=A1 topic=music_arts role=rec conf=65 src=ai
+guitar                   noun   grade=3-4 cefr=A1 topic=music_arts role=prod conf=85 src=ai
+piano                    noun   grade=3-4 cefr=A1 topic=music_arts role=prod conf=85 src=ai
+recorder                 noun   grade=3-4 cefr=A1 topic=music_arts role=rec conf=65 src=ai
+rhyme                    noun   grade=3-4 cefr=A1 topic=music_arts role=rec conf=65 src=ai
+sing                     verb   grade=3-4 cefr=A1 topic=music_arts role=prod conf=95 src=ai
+song                     noun   grade=3-4 cefr=A1 topic=music_arts role=prod conf=92 src=ai
+violin                   noun   grade=3-4 cefr=A1 topic=music_arts role=prod conf=65 src=ai
+
+# grade 5-6 · music_arts
+action                   noun   grade=5-6 cefr=A2 topic=music_arts|actions role=rec conf=60 src=ai|freq
+actor                    noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+album                    noun   grade=5-6 cefr=A2 topic=music_arts|free_time role=rec conf=65 src=ai|freq
+artist                   noun   grade=5-6 cefr=A2 topic=music_arts|jobs role=prod conf=65 src=ai|freq
+band                     noun   grade=5-6 cefr=A1 topic=music_arts role=prod conf=70 src=ai
+concert                  noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+dancer                   noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=60 src=ai
+instrument               noun   grade=5-6 cefr=A1 topic=music_arts role=prod conf=75 src=ai
+singer                   noun   grade=5-6 cefr=A1 topic=music_arts role=prod conf=70 src=ai
+
+# grade 7-8 · music_arts
+act                      verb   grade=7-8 cefr=A2 topic=music_arts role=prod conf=60 src=ai|freq
+audition                 noun   grade=7-8 cefr=B1 topic=music_arts role=rec conf=60 src=ai
+award                    noun   grade=7-8 cefr=B1 topic=music_arts|media role=rec conf=50 src=ai|freq
+design                   noun   grade=7-8 cefr=B1 topic=music_arts|technology role=rec conf=55 src=ai|freq
+director                 noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+exhibition               noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=70 src=ai
+gallery                  noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+musical                  noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=60 src=ai
+original                 adj    grade=7-8 cefr=B1 topic=music_arts|qualities.judgement role=rec conf=55 src=ai|freq
+perform                  verb   grade=7-8 cefr=A2 topic=music_arts role=prod conf=70 src=ai
+performance              noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=70 src=ai
+rehearse                 verb   grade=7-8 cefr=B1 topic=music_arts role=rec conf=60 src=ai
+role                     noun   grade=7-8 cefr=B1 topic=music_arts|classroom role=rec conf=60 src=ai|freq
+scene                    noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+script                   noun   grade=7-8 cefr=B1 topic=music_arts role=rec conf=60 src=ai
+stage                    noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+talent                   noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai

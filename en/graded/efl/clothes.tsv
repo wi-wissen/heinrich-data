@@ -1,0 +1,50 @@
+# English EFL graded vocabulary, topic group `clothes` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · clothes
+blouse                   noun   grade=3-4 cefr=A1 topic=clothes role=rec conf=70 src=ai
+boot                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+cap                      noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+clothes                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
+coat                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+dress                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
+glove                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+hat                      noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=95 src=ai
+jacket                   noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
+jeans                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
+jumper                   noun   grade=3-4 cefr=A1 topic=clothes|anglophone.uk role=prod conf=88 src=ai
+pajamas                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
+pullover                 noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
+scarf                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
+shirt                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=85 src=ai
+shoe                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=95 src=ai
+shorts                   noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+skirt                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
+sock                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
+sunglasses               noun   grade=3-4 cefr=A1 topic=clothes|travel role=prod conf=65 src=ai
+sweater                  noun   grade=3-4 cefr=A1 topic=clothes role=rec conf=70 src=ai
+T-shirt                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=95 src=ai
+trainer                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
+trousers                 noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
+wear                     verb   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
+
+# grade 5-6 · clothes
+backpack                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=prod conf=60 src=ai
+belt                     noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai
+blazer                   noun   grade=5-6 cefr=A2 topic=clothes|school|anglophone.uk role=prod conf=70 src=ai
+fit                      verb   grade=5-6 cefr=A2 topic=clothes|shopping role=rec conf=55 src=ai
+hoodie                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai
+pocket                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
+ring                     noun   grade=5-6 cefr=A2 topic=clothes|fantasy role=rec conf=55 src=ai|freq
+rucksack                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=rec conf=60 src=ai
+sweatshirt               noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
+swimsuit                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=rec conf=55 src=ai
+tie                      noun   grade=5-6 cefr=A1 topic=clothes|school role=prod conf=75 src=ai
+umbrella                 noun   grade=5-6 cefr=A1 topic=clothes|weather role=prod conf=65 src=ai
+uniform                  noun   grade=5-6 cefr=A1 topic=clothes|school|anglophone.uk role=prod conf=85 src=ai
+
+# grade 7-8 · clothes
+fashion                  noun   grade=7-8 cefr=A2 topic=clothes role=rec conf=55 src=ai|freq
+makeup                   noun   grade=7-8 cefr=A2 topic=clothes|self role=rec conf=55 src=ai|freq
+style                    noun   grade=7-8 cefr=A2 topic=clothes|music_arts role=rec conf=55 src=ai|freq

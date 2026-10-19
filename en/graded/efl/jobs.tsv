@@ -1,0 +1,104 @@
+# English EFL graded vocabulary, topic group `jobs` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · jobs
+doctor                   noun   grade=3-4 cefr=A1 topic=jobs|health role=prod conf=85 src=ai
+farmer                   noun   grade=3-4 cefr=A1 topic=jobs role=prod conf=80 src=ai
+nurse                    noun   grade=3-4 cefr=A1 topic=jobs role=rec conf=70 src=ai
+police                   noun   grade=3-4 cefr=A1 topic=jobs role=rec conf=70 src=ai
+
+# grade 5-6 · jobs
+actress                  noun   grade=5-6 cefr=A2 topic=jobs|music_arts role=prod conf=65 src=ai|freq
+job                      noun   grade=5-6 cefr=A1 topic=jobs role=prod conf=70 src=ai
+office                   noun   grade=5-6 cefr=A1 topic=jobs role=prod conf=65 src=ai
+officer                  noun   grade=5-6 cefr=A2 topic=jobs|law role=rec conf=60 src=ai|freq
+pilot                    noun   grade=5-6 cefr=A2 topic=jobs|transport role=prod conf=60 src=ai
+policeman                noun   grade=5-6 cefr=A1 topic=jobs role=prod conf=60 src=ai
+waiter                   noun   grade=5-6 cefr=A1 topic=jobs|food role=prod conf=70 src=ai
+waitress                 noun   grade=5-6 cefr=A1 topic=jobs|food role=prod conf=65 src=ai
+writer                   noun   grade=5-6 cefr=A2 topic=jobs|literature role=prod conf=65 src=ai|freq
+
+# grade 7-8 · jobs
+accountant               noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=60 src=ai
+application              noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+apply                    verb   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+apprentice               noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+apprenticeship           noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=70 src=ai
+architect                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+assistant                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+astronaut                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+author                   noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+boss                     noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+builder                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+business                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+businessman              noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+businesswoman            noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+career                   noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=75 src=ai
+carpenter                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+cleaner                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+client                   noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+colleague                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+company                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+contract                 noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+customer                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+CV                       noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+degree                   noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+designer                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+developer                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+duty                     noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+earn                     verb   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+electrician              noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+employ                   verb   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+employee                 noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=70 src=ai
+employer                 noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=70 src=ai
+engineer                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+experience               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+full-time                adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+future                   adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+graduate                 verb   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+hairdresser              noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+hire                     verb   grade=7-8 cefr=B1 topic=jobs role=rec conf=60 src=ai
+income                   noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+instructor               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+intern                   noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=60 src=ai
+internship               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+lawyer                   noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+living                   noun   grade=7-8 cefr=A2 topic=jobs role=rec conf=55 src=ai|freq
+manager                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+mechanic                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+meeting                  noun   grade=7-8 cefr=A2 topic=jobs|school role=rec conf=60 src=ai|freq
+opportunity              noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=70 src=ai
+paid                     adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+part-time                adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+pharmacist               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=60 src=ai
+photographer             noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+plumber                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+politician               noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+profession               noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+professional             adj    grade=7-8 cefr=B1 topic=jobs|sports role=rec conf=55 src=ai|freq
+programmer               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+qualification            noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+receptionist             noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+responsibility           noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=70 src=ai
+retire                   verb   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+salary                   noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+scientist                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+secretary                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+service                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+shift                    noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=60 src=ai
+skill                    noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+soldier                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+staff                    noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+success                  noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+surgeon                  noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+trainee                  noun   grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+training                 noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+translator               noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai
+unemployed               adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+unemployment             noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+voluntary                adj    grade=7-8 cefr=B1 topic=jobs role=rec conf=65 src=ai
+volunteer                noun   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+volunteer                verb   grade=7-8 cefr=A2 topic=jobs role=prod conf=70 src=ai
+wage                     noun   grade=7-8 cefr=B1 topic=jobs role=prod conf=65 src=ai
+well-paid                adj    grade=7-8 cefr=A2 topic=jobs role=prod conf=65 src=ai

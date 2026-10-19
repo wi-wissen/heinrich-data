@@ -1,0 +1,107 @@
+# German L1 graded vocabulary, area `politics` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · economy.money
+Geldschein               noun   grade=1-2 topic=economy.money role=prod conf=80 src=ai
+Sparschwein              noun   grade=1-2 topic=economy.money role=prod conf=80 src=ai
+
+# grade 1-2 · politics.elections
+wählen                   verb   grade=1-2 topic=politics.elections role=prod conf=85 src=ai
+
+# grade 1-2 · politics.state
+Rathaus                  noun   grade=1-2 topic=politics.state role=prod conf=85 src=ai
+
+# grade 1-2 · society
+Klassendienst            noun   grade=1-2 topic=society role=prod conf=80 src=ai
+Klassenregel             noun   grade=1-2 topic=society role=prod conf=80 src=ai
+Regel                    noun   grade=1-2 topic=society role=prod conf=90 src=ai
+
+# grade 3-4 · economy.business
+herstellen               verb   grade=3-4 topic=economy.business role=prod conf=70 src=ai
+Produkt                  noun   grade=3-4 topic=economy.business role=rec conf=65 src=ai
+
+# grade 3-4 · economy.consumer
+Angebot                  noun   grade=3-4 topic=economy.consumer role=prod conf=75 src=ai
+Kassenbon                noun   grade=3-4 topic=economy.consumer role=rec conf=60 src=ai
+Kunde                    noun   grade=3-4 topic=economy.consumer role=prod conf=75 src=ai
+Verpackung               noun   grade=3-4 topic=economy.consumer role=prod conf=75 src=ai
+Ware                     noun   grade=3-4 topic=economy.consumer role=rec conf=70 src=ai
+Werbung                  noun   grade=3-4 topic=economy.consumer role=prod conf=80 src=ai
+Wochenmarkt              noun   grade=3-4 topic=economy.consumer role=prod conf=70 src=ai
+
+# grade 3-4 · economy.money
+Bank:financial           noun   grade=3-4 topic=economy.money role=prod conf=75 src=ai
+Konto                    noun   grade=3-4 topic=economy.money role=rec conf=65 src=ai
+sparen                   verb   grade=3-4 topic=economy.money role=prod conf=85 src=ai
+Taschengeld              noun   grade=3-4 topic=economy.money role=prod conf=85 src=ai
+Wechselgeld              noun   grade=3-4 topic=economy.money role=prod conf=75 src=ai
+
+# grade 3-4 · economy.work
+Lohn                     noun   grade=3-4 topic=economy.work role=rec conf=70 src=ai
+verdienen                verb   grade=3-4 topic=economy.work role=prod conf=75 src=ai
+
+# grade 3-4 · politics.democracy
+abstimmen                verb   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+Abstimmung               noun   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+Antrag                   noun   grade=3-4 topic=politics.democracy role=rec conf=60 src=ai
+beschließen              verb   grade=3-4 topic=politics.democracy role=prod conf=70 src=ai
+Demokratie               noun   grade=3-4 topic=politics.democracy role=rec conf=65 src=ai
+Kinderparlament          noun   grade=3-4 topic=politics.democracy role=rec conf=60 src=ai
+Klassenrat               noun   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+Klassensprecher          noun   grade=3-4 topic=politics.democracy role=prod conf=85 src=ai
+Klassensprecherin        noun   grade=3-4 topic=politics.democracy role=prod conf=85 src=ai
+Mehrheit                 noun   grade=3-4 topic=politics.democracy role=prod conf=70 src=ai
+Meinung                  noun   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+Minderheit               noun   grade=3-4 topic=politics.democracy role=rec conf=60 src=ai
+mitbestimmen             verb   grade=3-4 topic=politics.democracy role=rec conf=65 src=ai
+Schülerrat               noun   grade=3-4 topic=politics.democracy role=rec conf=65 src=ai
+Schülersprecher          noun   grade=3-4 topic=politics.democracy role=rec conf=70 src=ai
+Tagesordnung             noun   grade=3-4 topic=politics.democracy role=rec conf=60 src=ai
+Vorschlag                noun   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+vorschlagen              verb   grade=3-4 topic=politics.democracy role=prod conf=80 src=ai
+
+# grade 3-4 · politics.elections
+geheim                   adj    grade=3-4 topic=politics.elections role=prod conf=80 src=ai
+Kandidat                 noun   grade=3-4 topic=politics.elections role=rec conf=70 src=ai
+Stimme                   noun   grade=3-4 topic=politics.elections role=prod conf=75 src=ai
+Stimmzettel              noun   grade=3-4 topic=politics.elections role=rec conf=65 src=ai
+Wahl                     noun   grade=3-4 topic=politics.elections role=prod conf=80 src=ai
+
+# grade 3-4 · politics.international
+Flucht                   noun   grade=3-4 topic=politics.international role=rec conf=65 src=ai
+Flüchtling               noun   grade=3-4 topic=politics.international role=rec conf=65 src=ai
+
+# grade 3-4 · politics.law
+Gesetz                   noun   grade=3-4 topic=politics.law role=rec conf=70 src=ai
+Recht                    noun   grade=3-4 topic=politics.law role=prod conf=75 src=ai
+Verbot                   noun   grade=3-4 topic=politics.law role=prod conf=75 src=ai
+
+# grade 3-4 · politics.rights
+Kinderrecht              noun   grade=3-4 topic=politics.rights role=rec conf=70 src=ai
+
+# grade 3-4 · politics.state
+Bundeskanzler            noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Bundeskanzlerin          noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Bürgermeister            noun   grade=3-4 topic=politics.state role=prod conf=80 src=ai
+Bürgermeisterin          noun   grade=3-4 topic=politics.state role=prod conf=80 src=ai
+Gemeinde                 noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Gemeinderat              noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Politik                  noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Politiker                noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Regierung                noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+Stadtrat                 noun   grade=3-4 topic=politics.state role=rec conf=65 src=ai
+
+# grade 3-4 · society
+Gemeinschaft             noun   grade=3-4 topic=society role=prod conf=75 src=ai
+Kompromiss               noun   grade=3-4 topic=society role=rec conf=65 src=ai
+Konflikt                 noun   grade=3-4 topic=society role=rec conf=70 src=ai
+Pflicht                  noun   grade=3-4 topic=society role=prod conf=70 src=ai
+Respekt                  noun   grade=3-4 topic=society role=prod conf=75 src=ai
+Rücksicht                noun   grade=3-4 topic=society role=prod conf=75 src=ai
+rücksichtsvoll           adj    grade=3-4 topic=society role=prod conf=70 src=ai
+Streitschlichter         noun   grade=3-4 topic=society role=rec conf=70 src=ai
+Streitschlichtung        noun   grade=3-4 topic=society role=rec conf=65 src=ai
+Toleranz                 noun   grade=3-4 topic=society role=rec conf=65 src=ai
+Verantwortung            noun   grade=3-4 topic=society role=rec conf=70 src=ai
+Zusammenleben            noun   grade=3-4 topic=society role=prod conf=75 src=ai

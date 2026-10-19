@@ -1,0 +1,39 @@
+# English EFL graded vocabulary, topic group `family` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · family
+aunt                     noun   grade=3-4 cefr=A1 topic=family role=prod conf=80 src=ai
+brother                  noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+cousin                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=70 src=ai
+dad                      noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+daddy                    noun   grade=3-4 cefr=A1 topic=family role=rec conf=70 src=ai
+family                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=98 src=ai
+father                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+grandfather              noun   grade=3-4 cefr=A1 topic=family role=rec conf=80 src=ai
+grandma                  noun   grade=3-4 cefr=A1 topic=family role=prod conf=92 src=ai
+grandmother              noun   grade=3-4 cefr=A1 topic=family role=rec conf=80 src=ai
+grandpa                  noun   grade=3-4 cefr=A1 topic=family role=prod conf=92 src=ai
+granny                   noun   grade=3-4 cefr=A1 topic=family role=rec conf=75 src=ai
+hug                      verb   grade=3-4 cefr=A1 topic=family role=rec conf=60 src=ai
+kiss                     verb   grade=3-4 cefr=A1 topic=family role=rec conf=60 src=ai
+mother                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+mum                      noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+mummy                    noun   grade=3-4 cefr=A1 topic=family role=rec conf=70 src=ai
+parent                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=75 src=ai
+sister                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+twin                     noun   grade=3-4 cefr=A1 topic=family role=prod conf=65 src=ai
+uncle                    noun   grade=3-4 cefr=A1 topic=family role=prod conf=80 src=ai
+
+# grade 5-6 · family
+daughter                 noun   grade=5-6 cefr=A1 topic=family role=prod conf=70 src=ai
+grandparent              noun   grade=5-6 cefr=A1 topic=family role=prod conf=65 src=ai
+husband                  noun   grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
+lady                     noun   grade=5-6 cefr=A1 topic=family|self role=prod conf=70 src=ai|freq
+married                  adj    grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
+single                   adj    grade=5-6 cefr=A2 topic=family|travel role=rec conf=60 src=ai|freq
+son                      noun   grade=5-6 cefr=A1 topic=family role=prod conf=70 src=ai
+wife                     noun   grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
+
+# grade 7-8 · family
+ground                   verb   grade=7-8 cefr=B1 topic=family role=rec conf=50 src=ai|freq

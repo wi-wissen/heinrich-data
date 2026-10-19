@@ -1,0 +1,69 @@
+# English EFL graded vocabulary, topic group `school` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · school
+art                      noun   grade=3-4 cefr=A1 topic=school|music_arts role=prod conf=80 src=ai
+bag                      noun   grade=3-4 cefr=A1 topic=school|shopping role=prod conf=92 src=ai
+board                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=85 src=ai
+book                     noun   grade=3-4 cefr=A1 topic=school role=prod conf=98 src=ai
+break                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=80 src=ai
+class                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=88 src=ai
+classroom                noun   grade=3-4 cefr=A1 topic=school role=prod conf=88 src=ai
+crayon                   noun   grade=3-4 cefr=A1 topic=school role=prod conf=85 src=ai
+English                  adj    grade=3-4 cefr=A1 topic=school|countries role=prod conf=85 src=ai
+English                  noun   grade=3-4 cefr=A1 topic=school|language role=prod conf=92 src=ai
+German                   noun   grade=3-4 cefr=A1 topic=school|language role=prod conf=80 src=ai
+glue                     noun   grade=3-4 cefr=A1 topic=school role=prod conf=92 src=ai
+homework                 noun   grade=3-4 cefr=A1 topic=school role=rec conf=65 src=ai
+lesson                   noun   grade=3-4 cefr=A1 topic=school role=prod conf=75 src=ai
+letter                   noun   grade=3-4 cefr=A1 topic=school|language role=rec conf=75 src=ai
+maths                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=85 src=ai
+music                    noun   grade=3-4 cefr=A1 topic=school|music_arts role=prod conf=88 src=ai
+page                     noun   grade=3-4 cefr=A1 topic=school role=rec conf=80 src=ai
+paper                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=80 src=ai
+PE                       noun   grade=3-4 cefr=A1 topic=school|sports role=prod conf=75 src=ai
+pen                      noun   grade=3-4 cefr=A1 topic=school role=prod conf=98 src=ai
+pencil                   noun   grade=3-4 cefr=A1 topic=school role=prod conf=98 src=ai
+pupil                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=80 src=ai
+rubber                   noun   grade=3-4 cefr=A1 topic=school role=prod conf=92 src=ai
+ruler                    noun   grade=3-4 cefr=A1 topic=school role=prod conf=92 src=ai
+school                   noun   grade=3-4 cefr=A1 topic=school role=prod conf=98 src=ai
+schoolbag                noun   grade=3-4 cefr=A1 topic=school role=prod conf=88 src=ai
+scissors                 noun   grade=3-4 cefr=A1 topic=school role=prod conf=92 src=ai
+sharpener                noun   grade=3-4 cefr=A1 topic=school role=prod conf=85 src=ai
+sport                    noun   grade=3-4 cefr=A1 topic=school|sports role=prod conf=85 src=ai
+teacher                  noun   grade=3-4 cefr=A1 topic=school|jobs role=prod conf=98 src=ai
+thing                    noun   grade=3-4 cefr=A1 topic=school|thinking role=prod conf=85 src=ai|freq
+word                     noun   grade=3-4 cefr=A1 topic=school|language role=prod conf=85 src=ai
+
+# grade 5-6 · school
+assembly                 noun   grade=5-6 cefr=A2 topic=school|anglophone.uk role=rec conf=60 src=ai
+calculator               noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
+canteen                  noun   grade=5-6 cefr=A2 topic=school role=prod conf=70 src=ai
+detention                noun   grade=5-6 cefr=A2 topic=school|anglophone.uk role=prod conf=60 src=ai
+drama                    noun   grade=5-6 cefr=A2 topic=school|music_arts role=prod conf=65 src=ai
+folder                   noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
+geography                noun   grade=5-6 cefr=A1 topic=school role=prod conf=80 src=ai
+gym                      noun   grade=5-6 cefr=A1 topic=school|sports role=prod conf=70 src=ai
+headteacher              noun   grade=5-6 cefr=A1 topic=school|anglophone.uk role=prod conf=70 src=ai
+history                  noun   grade=5-6 cefr=A1 topic=school|history role=prod conf=80 src=ai
+Latin                    noun   grade=5-6 cefr=A2 topic=school|language role=prod conf=60 src=ai|freq
+library                  noun   grade=5-6 cefr=A1 topic=school|town role=prod conf=75 src=ai
+locker                   noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
+playground               noun   grade=5-6 cefr=A1 topic=school role=prod conf=60 src=ai
+primary                  adj    grade=5-6 cefr=A2 topic=school role=rec conf=60 src=ai|freq
+reading                  noun   grade=5-6 cefr=A2 topic=school|free_time|classroom role=rec conf=60 src=ai|freq
+science                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=80 src=ai
+student                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=70 src=ai
+study                    verb   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai
+subject                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=85 src=ai
+teach                    verb   grade=5-6 cefr=A1 topic=school role=prod conf=70 src=ai
+timetable                noun   grade=5-6 cefr=A1 topic=school|transport role=prod conf=85 src=ai
+writing                  noun   grade=5-6 cefr=A2 topic=school|classroom role=rec conf=60 src=ai|freq
+
+# grade 7-8 · school
+college                  noun   grade=7-8 cefr=A2 topic=school|anglophone.us role=rec conf=60 src=ai|freq
+education                noun   grade=7-8 cefr=B1 topic=school role=rec conf=55 src=ai|freq
+secondary                adj    grade=7-8 cefr=B1 topic=school role=rec conf=50 src=ai|freq
+university               noun   grade=7-8 cefr=A2 topic=school|jobs role=rec conf=60 src=ai|freq

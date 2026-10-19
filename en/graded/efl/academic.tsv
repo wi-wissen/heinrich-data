@@ -1,0 +1,38 @@
+# English EFL graded vocabulary, topic group `academic` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · academic
+analyze                  verb   grade=7-8 cefr=B1 topic=academic role=rec conf=55 src=ai
+article                  noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+chart                    noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+define                   verb   grade=7-8 cefr=B1 topic=academic role=prod conf=65 src=ai
+definition               noun   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+detail                   noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+diagram                  noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+essay                    noun   grade=7-8 cefr=B1 topic=academic role=prod conf=65 src=ai
+evaluate                 verb   grade=7-8 cefr=B1 topic=academic role=rec conf=55 src=ai
+graph                    noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+headline                 noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+keyword                  noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+mediate                  verb   grade=7-8 cefr=A2 topic=academic role=rec conf=60 src=ai
+mediation                noun   grade=7-8 cefr=A2 topic=academic role=rec conf=65 src=ai
+outline                  noun   grade=7-8 cefr=B1 topic=academic role=rec conf=65 src=ai
+paragraph                noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+present                  verb   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+presentation             noun   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+questionnaire            noun   grade=7-8 cefr=A2 topic=academic role=rec conf=65 src=ai
+quotation                noun   grade=7-8 cefr=B1 topic=academic role=rec conf=60 src=ai
+quote                    noun   grade=7-8 cefr=B1 topic=academic role=rec conf=65 src=ai
+research                 noun   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+research                 verb   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+scan                     verb   grade=7-8 cefr=A2 topic=academic role=rec conf=60 src=ai
+section                  noun   grade=7-8 cefr=B1 topic=academic role=rec conf=55 src=ai|freq
+skim                     verb   grade=7-8 cefr=A2 topic=academic role=rec conf=65 src=ai
+source                   noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+structure                noun   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+summarize                verb   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+summary                  noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+survey                   noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai
+translate                verb   grade=7-8 cefr=A2 topic=academic role=prod conf=65 src=ai
+translation              noun   grade=7-8 cefr=A2 topic=academic role=prod conf=70 src=ai

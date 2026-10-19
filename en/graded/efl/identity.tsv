@@ -1,0 +1,6 @@
+# English EFL graded vocabulary, topic group `identity` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · identity
+pressure                 noun   grade=7-8 cefr=B1 topic=identity role=prod conf=65 src=ai

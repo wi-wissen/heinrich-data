@@ -1,0 +1,17 @@
+# English EFL graded vocabulary, topic group `history` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 5-6 · history
+Roman                    adj    grade=5-6 cefr=A2 topic=history|anglophone.uk role=rec conf=60 src=ai|freq
+Roman                    noun   grade=5-6 cefr=A2 topic=history|anglophone.uk role=rec conf=60 src=ai|freq
+
+# grade 7-8 · history
+army                     noun   grade=7-8 cefr=A2 topic=history role=prod conf=60 src=ai
+colony                   noun   grade=7-8 cefr=B1 topic=history role=rec conf=65 src=ai
+empire                   noun   grade=7-8 cefr=B1 topic=history role=rec conf=65 src=ai
+historical               adj    grade=7-8 cefr=B1 topic=history role=prod conf=65 src=ai
+peace                    noun   grade=7-8 cefr=A2 topic=history role=prod conf=60 src=ai
+slave                    noun   grade=7-8 cefr=B1 topic=history role=rec conf=60 src=ai
+slavery                  noun   grade=7-8 cefr=B1 topic=history role=rec conf=60 src=ai
+war                      noun   grade=7-8 cefr=A2 topic=history role=rec conf=65 src=ai|freq

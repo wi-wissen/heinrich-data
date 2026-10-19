@@ -22,3 +22,9 @@ repositories and their own scratch directory.
 
 | date | run | track / area / bands | author | input | output | validation | reviewer round |
 |---|---|---|---|---|---|---|---|
+| 2026-10-19 | `en-efl-3-4` | efl / all topics / 3-4 (A1) | AI author | brief, catalogue, own lexicon index, own frequency list | 796 rows | own pre-check 0 errors | – |
+| 2026-10-19 | `en-efl-5-6` | efl / 5-6 (A1/A2) | AI author | same | 985 rows | 0 errors | – |
+| 2026-10-19 | `en-efl-7-8` | efl / 7-8 (A2/B1) | AI author | same | 1,261 rows | 0 errors | – |
+| 2026-10-19 | `en-seam` | efl / 3-4 to 7-8 | AI author | same, plus the lemmas among the 3,000 most frequent forms of our own frequency list not yet in the layer (`src=ai\|freq`) | 191 rows; 677 lemma/POS pairs judged later or not school vocabulary | 0 errors | – |
+| 2026-10-19 | `lex-en` | lexicon (not the layer) | AI lexicon author (clean-room lexicon protocol) | the authors' work list | 77 lexicon entries (`note=graded`, heinrich-data#73) | `validate` 0 errors | – |
+| 2026-10-19 | merge (orchestrator) | efl | mechanical | the runs above | 48 files, 2,888 rows, 2,823 lexemes; duplicates resolved to the earliest band and lowest level | `graded validate` 0 errors, 0 warnings | – |

@@ -1,0 +1,44 @@
+# English EFL graded vocabulary, topic group `shopping` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · shopping
+buy                      verb   grade=3-4 cefr=A1 topic=shopping role=prod conf=70 src=ai
+money                    noun   grade=3-4 cefr=A1 topic=shopping role=prod conf=70 src=ai
+
+# grade 5-6 · shopping
+assistant                noun   grade=5-6 cefr=A2 topic=shopping|jobs role=prod conf=65 src=ai
+basket                   noun   grade=5-6 cefr=A2 topic=shopping role=prod conf=60 src=ai
+cash                     noun   grade=5-6 cefr=A2 topic=shopping role=rec conf=55 src=ai
+cent                     noun   grade=5-6 cefr=A1 topic=shopping role=prod conf=70 src=ai
+change                   noun   grade=5-6 cefr=A1 topic=shopping role=prod conf=70 src=ai
+cheap                    adj    grade=5-6 cefr=A1 topic=shopping role=prod conf=80 src=ai
+coin                     noun   grade=5-6 cefr=A2 topic=shopping role=prod conf=60 src=ai
+cost                     verb   grade=5-6 cefr=A1 topic=shopping role=prod conf=80 src=ai
+customer                 noun   grade=5-6 cefr=A2 topic=shopping role=prod conf=65 src=ai
+euro                     noun   grade=5-6 cefr=A1 topic=shopping role=prod conf=75 src=ai
+expensive                adj    grade=5-6 cefr=A1 topic=shopping role=prod conf=80 src=ai
+offer                    noun   grade=5-6 cefr=A2 topic=shopping role=rec conf=55 src=ai|freq
+open                     adj    grade=5-6 cefr=A1 topic=shopping role=prod conf=65 src=ai
+pay                      verb   grade=5-6 cefr=A1 topic=shopping role=prod conf=75 src=ai
+penny                    noun   grade=5-6 cefr=A1 topic=shopping|anglophone.uk role=prod conf=80 src=ai
+pound                    noun   grade=5-6 cefr=A1 topic=shopping|anglophone.uk role=prod conf=85 src=ai
+price                    noun   grade=5-6 cefr=A1 topic=shopping role=prod conf=75 src=ai
+purse                    noun   grade=5-6 cefr=A2 topic=shopping role=rec conf=55 src=ai
+sale                     noun   grade=5-6 cefr=A2 topic=shopping role=prod conf=60 src=ai
+sell                     verb   grade=5-6 cefr=A1 topic=shopping role=prod conf=75 src=ai
+shop                     verb   grade=5-6 cefr=A1 topic=shopping|free_time role=prod conf=70 src=ai
+size                     noun   grade=5-6 cefr=A1 topic=shopping|clothes role=prod conf=75 src=ai
+souvenir                 noun   grade=5-6 cefr=A2 topic=shopping|travel role=prod conf=65 src=ai
+spend                    verb   grade=5-6 cefr=A1 topic=shopping role=prod conf=75 src=ai
+store                    noun   grade=5-6 cefr=A2 topic=shopping|anglophone.us role=prod conf=60 src=ai|freq
+
+# grade 7-8 · shopping
+brand                    noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai
+chain                    noun   grade=7-8 cefr=B1 topic=shopping|environment role=rec conf=50 src=ai|freq
+credit                   noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=60 src=ai
+deal                     noun   grade=7-8 cefr=B1 topic=shopping role=rec conf=55 src=ai|freq
+discount                 noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai
+opening                  noun   grade=7-8 cefr=B1 topic=shopping|town role=rec conf=50 src=ai|freq
+product                  noun   grade=7-8 cefr=B1 topic=shopping|environment role=rec conf=55 src=ai|freq
+receipt                  noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai

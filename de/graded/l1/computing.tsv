@@ -1,0 +1,73 @@
+# German L1 graded vocabulary, area `computing` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · computing.devices
+Bildschirm               noun   grade=1-2 topic=computing.devices role=prod conf=80 src=ai
+Computer                 noun   grade=1-2 topic=computing.devices role=prod conf=90 src=ai
+Handy                    noun   grade=1-2 topic=computing.devices role=prod conf=90 src=ai
+Roboter                  noun   grade=1-2 topic=computing.devices role=prod conf=85 src=ai
+Tablet                   noun   grade=1-2 topic=computing.devices role=prod conf=85 src=ai
+
+# grade 3-4 · computing.data
+ausdrucken               verb   grade=3-4 topic=computing.data role=prod conf=75 src=ai
+Datei                    noun   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+Daten                    noun   grade=3-4 topic=computing.data role=rec conf=65 src=ai
+einfügen                 verb   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+kopieren                 verb   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+löschen                  verb   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+Ordner                   noun   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+speichern                verb   grade=3-4 topic=computing.data role=prod conf=70 src=ai
+Symbol                   noun   grade=3-4 topic=computing.data role=rec conf=70 src=ai
+
+# grade 3-4 · computing.devices
+aufladen                 verb   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+ausschalten              verb   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Bildschirmzeit           noun   grade=3-4 topic=computing.devices role=rec conf=65 src=ai
+Drucker                  noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+einschalten              verb   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Gerät                    noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Ladegerät                noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Ladekabel                noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Laptop                   noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Maus                     noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Smartphone               noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+Tastatur                 noun   grade=3-4 topic=computing.devices role=prod conf=75 src=ai
+
+# grade 3-4 · computing.internet
+App                      noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Chat                     noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+chatten                  verb   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Computerspiel            noun   grade=3-4 topic=computing.internet role=prod conf=80 src=ai
+E-Mail                   noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+herunterladen            verb   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+hochladen                verb   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Internet                 noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Kindersuchmaschine       noun   grade=3-4 topic=computing.internet role=rec conf=60 src=ai
+klicken                  verb   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Link                     noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Nachricht                noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+online                   adj    grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+online                   adv    grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Programm                 noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Suchmaschine             noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Video                    noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Videospiel               noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+Webseite                 noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+WLAN                     noun   grade=3-4 topic=computing.internet role=prod conf=75 src=ai
+
+# grade 3-4 · computing.programming
+Befehl                   noun   grade=3-4 topic=computing.programming role=rec conf=65 src=ai
+programmieren            verb   grade=3-4 topic=computing.programming role=rec conf=60 src=ai
+
+# grade 3-4 · computing.safety
+abmelden                 verb   grade=3-4 topic=computing.safety role=prod conf=75 src=ai
+Altersfreigabe           noun   grade=3-4 topic=computing.safety role=rec conf=55 src=ai
+anmelden                 verb   grade=3-4 topic=computing.safety role=prod conf=75 src=ai
+Benutzername             noun   grade=3-4 topic=computing.safety role=rec conf=65 src=ai
+Cybermobbing             noun   grade=3-4 topic=computing.safety role=rec conf=65 src=ai
+Datenschutz              noun   grade=3-4 topic=computing.safety role=rec conf=60 src=ai
+Passwort                 noun   grade=3-4 topic=computing.safety role=prod conf=75 src=ai
+persönlich               adj    grade=3-4 topic=computing.safety role=prod conf=70 src=ai
+privat                   adj    grade=3-4 topic=computing.safety role=prod conf=75 src=ai
+Virus                    noun   grade=3-4 topic=computing.safety role=rec conf=65 src=ai

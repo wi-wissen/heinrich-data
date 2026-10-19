@@ -1,0 +1,8 @@
+# English EFL graded vocabulary, topic group `science` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · science
+experiment               noun   grade=7-8 cefr=A2 topic=science role=prod conf=65 src=ai
+scientific               adj    grade=7-8 cefr=B1 topic=science role=prod conf=65 src=ai
+system                   noun   grade=7-8 cefr=B1 topic=science|technology role=rec conf=55 src=ai|freq

@@ -1,0 +1,304 @@
+# English EFL graded vocabulary, topic group `qualities` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · qualities.character
+brave                    adj    grade=3-4 cefr=A1 topic=qualities.character role=prod conf=60 src=ai
+clever                   adj    grade=3-4 cefr=A1 topic=qualities.character role=prod conf=70 src=ai
+friendly                 adj    grade=3-4 cefr=A1 topic=qualities.character role=prod conf=65 src=ai
+kind                     adj    grade=3-4 cefr=A1 topic=qualities.character role=prod conf=65 src=ai
+naughty                  adj    grade=3-4 cefr=A1 topic=qualities.character role=rec conf=60 src=ai
+strong                   adj    grade=3-4 cefr=A1 topic=qualities.character|body role=prod conf=70 src=ai
+
+# grade 3-4 · qualities.colour
+black                    adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+blue                     adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+brown                    adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=95 src=ai
+color                    noun   grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=95 src=ai
+color                    verb   grade=3-4 cefr=A1 topic=qualities.colour|classroom role=prod conf=85 src=ai
+dark                     adj    grade=3-4 cefr=A1 topic=qualities.colour|body role=prod conf=70 src=ai
+gold                     adj    grade=3-4 cefr=A1 topic=qualities.colour role=rec conf=65 src=ai
+gray                     adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=92 src=ai
+green                    adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+light                    adj    grade=3-4 cefr=A1 topic=qualities.colour|qualities.size role=prod conf=65 src=ai
+orange                   adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=95 src=ai
+pink                     adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=95 src=ai
+purple                   adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=92 src=ai
+red                      adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+silver                   adj    grade=3-4 cefr=A1 topic=qualities.colour role=rec conf=65 src=ai
+white                    adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+yellow                   adj    grade=3-4 cefr=A1 topic=qualities.colour role=prod conf=98 src=ai
+
+# grade 3-4 · qualities.judgement
+bad                      adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=92 src=ai
+beautiful                adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=80 src=ai
+cool                     adj    grade=3-4 cefr=A1 topic=qualities.judgement|qualities.senses role=prod conf=88 src=ai
+cute                     adj    grade=3-4 cefr=A1 topic=qualities.judgement|animals|qualities.character role=prod conf=65 src=ai
+easy                     adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+favorite                 adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=92 src=ai
+fine                     adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=90 src=ai
+funny                    adj    grade=3-4 cefr=A1 topic=qualities.judgement|qualities.character role=prod conf=85 src=ai
+good                     adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=98 src=ai
+great                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=92 src=ai
+lovely                   adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+new                      adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=92 src=ai
+nice                     adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=95 src=ai
+OK                       adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=85 src=ai
+old                      adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=95 src=ai
+pretty                   adj    grade=3-4 cefr=A1 topic=qualities.judgement role=rec conf=70 src=ai
+right                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=85 src=ai
+scary                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=rec conf=70 src=ai
+super                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=80 src=ai
+wrong                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+young                    adj    grade=3-4 cefr=A1 topic=qualities.judgement role=rec conf=70 src=ai
+yucky                    adj    grade=3-4 cefr=A1 topic=qualities.judgement|food role=rec conf=70 src=ai
+yummy                    adj    grade=3-4 cefr=A1 topic=qualities.judgement|food role=prod conf=80 src=ai
+
+# grade 3-4 · qualities.senses
+clean                    adj    grade=3-4 cefr=A1 topic=qualities.senses|home role=prod conf=75 src=ai
+cold                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=95 src=ai
+dirty                    adj    grade=3-4 cefr=A1 topic=qualities.senses|home role=prod conf=75 src=ai
+dry                      adj    grade=3-4 cefr=A1 topic=qualities.senses|weather role=prod conf=70 src=ai
+fast                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=85 src=ai
+hard                     adj    grade=3-4 cefr=A1 topic=qualities.senses|qualities.judgement role=prod conf=65 src=ai
+hot                      adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=95 src=ai
+loud                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=75 src=ai
+quiet                    adj    grade=3-4 cefr=A1 topic=qualities.senses|qualities.character role=prod conf=75 src=ai
+slow                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=80 src=ai
+soft                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=70 src=ai
+sweet                    adj    grade=3-4 cefr=A1 topic=qualities.senses|food role=prod conf=80 src=ai
+warm                     adj    grade=3-4 cefr=A1 topic=qualities.senses role=prod conf=90 src=ai
+wet                      adj    grade=3-4 cefr=A1 topic=qualities.senses|weather role=prod conf=75 src=ai
+
+# grade 3-4 · qualities.size
+big                      adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=98 src=ai
+circle                   noun   grade=3-4 cefr=A1 topic=qualities.size role=prod conf=85 src=ai
+fat                      adj    grade=3-4 cefr=A1 topic=qualities.size|body role=prod conf=75 src=ai
+heart                    noun   grade=3-4 cefr=A1 topic=qualities.size|body role=prod conf=88 src=ai
+large                    adj    grade=3-4 cefr=A1 topic=qualities.size role=rec conf=65 src=ai
+little                   adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=95 src=ai
+long                     adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=92 src=ai
+rectangle                noun   grade=3-4 cefr=A1 topic=qualities.size role=rec conf=75 src=ai
+round                    adj    grade=3-4 cefr=A1 topic=qualities.size role=rec conf=70 src=ai
+shape                    noun   grade=3-4 cefr=A1 topic=qualities.size role=rec conf=80 src=ai
+short                    adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=92 src=ai
+small                    adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=98 src=ai
+square                   noun   grade=3-4 cefr=A1 topic=qualities.size role=prod conf=85 src=ai
+star                     noun   grade=3-4 cefr=A1 topic=qualities.size|nature role=prod conf=92 src=ai
+tall                     adj    grade=3-4 cefr=A1 topic=qualities.size|body role=prod conf=85 src=ai
+thin                     adj    grade=3-4 cefr=A1 topic=qualities.size|body role=prod conf=75 src=ai
+tiny                     adj    grade=3-4 cefr=A1 topic=qualities.size role=prod conf=60 src=ai
+triangle                 noun   grade=3-4 cefr=A1 topic=qualities.size role=prod conf=85 src=ai
+
+# grade 5-6 · qualities.character
+calm                     adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=55 src=ai
+careful                  adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+crazy                    adj    grade=5-6 cefr=A2 topic=qualities.character role=rec conf=60 src=ai
+handsome                 adj    grade=5-6 cefr=A2 topic=qualities.character|body role=rec conf=60 src=ai
+helpful                  adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+lazy                     adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+polite                   adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+poor                     adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=60 src=ai
+rich                     adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=60 src=ai
+rude                     adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+shy                      adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+silly                    adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+smart                    adj    grade=5-6 cefr=A2 topic=qualities.character role=prod conf=60 src=ai
+sporty                   adj    grade=5-6 cefr=A2 topic=qualities.character|sports role=prod conf=65 src=ai
+strict                   adj    grade=5-6 cefr=A2 topic=qualities.character|school role=prod conf=65 src=ai
+stupid                   adj    grade=5-6 cefr=A2 topic=qualities.character role=rec conf=55 src=ai
+wild                     adj    grade=5-6 cefr=A2 topic=qualities.character|animals role=prod conf=70 src=ai
+
+# grade 5-6 · qualities.colour
+blond                    adj    grade=5-6 cefr=A1 topic=qualities.colour|body role=prod conf=75 src=ai
+gold                     noun   grade=5-6 cefr=A2 topic=qualities.colour|shopping role=prod conf=65 src=ai|freq
+silver                   noun   grade=5-6 cefr=A2 topic=qualities.colour|shopping role=prod conf=60 src=ai|freq
+
+# grade 5-6 · qualities.judgement
+amazing                  adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+awful                    adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+boring                   adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+brilliant                adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+busy                     adj    grade=5-6 cefr=A1 topic=qualities.judgement|town role=prod conf=70 src=ai
+comfortable              adj    grade=5-6 cefr=A2 topic=qualities.judgement|home role=prod conf=65 src=ai
+correct                  adj    grade=5-6 cefr=A1 topic=qualities.judgement|classroom role=prod conf=70 src=ai
+crowded                  adj    grade=5-6 cefr=A2 topic=qualities.judgement|town role=rec conf=55 src=ai
+dangerous                adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+different                adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+difficult                adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+disgusting               adj    grade=5-6 cefr=A2 topic=qualities.judgement|food role=prod conf=55 src=ai
+excellent                adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
+exciting                 adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+fair                     adj    grade=5-6 cefr=A2 topic=qualities.judgement|body|qualities.character role=prod conf=60 src=ai
+false                    adj    grade=5-6 cefr=A2 topic=qualities.judgement|classroom role=prod conf=60 src=ai
+famous                   adj    grade=5-6 cefr=A1 topic=qualities.judgement|town role=prod conf=80 src=ai
+fantastic                adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+horrible                 adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+important                adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+impossible               adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+interesting              adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+luck                     noun   grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+lucky                    adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+modern                   adj    grade=5-6 cefr=A2 topic=qualities.judgement|town role=prod conf=65 src=ai
+normal                   adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
+own                      adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+perfect                  adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+popular                  adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+possible                 adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+quick                    adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=65 src=ai
+ready                    adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+real                     adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+safe                     adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+same                     adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+simple                   adj    grade=5-6 cefr=A2 topic=qualities.judgement|language role=prod conf=70 src=ai|freq
+special                  adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+strange                  adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+terrible                 adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=75 src=ai
+trouble                  noun   grade=5-6 cefr=A2 topic=qualities.judgement role=rec conf=55 src=ai
+true                     adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+typical                  adj    grade=5-6 cefr=A2 topic=qualities.judgement|anglophone.uk role=prod conf=60 src=ai
+ugly                     adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+useful                   adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
+usual                    adj    grade=5-6 cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
+wonderful                adj    grade=5-6 cefr=A1 topic=qualities.judgement role=prod conf=70 src=ai
+
+# grade 5-6 · qualities.senses
+bright                   adj    grade=5-6 cefr=A2 topic=qualities.senses role=rec conf=55 src=ai
+clear                    adj    grade=5-6 cefr=A2 topic=qualities.senses|qualities.judgement role=prod conf=65 src=ai|freq
+delicious                adj    grade=5-6 cefr=A1 topic=qualities.senses|food role=prod conf=75 src=ai
+fresh                    adj    grade=5-6 cefr=A1 topic=qualities.senses|food role=prod conf=70 src=ai
+noise                    noun   grade=5-6 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+noisy                    adj    grade=5-6 cefr=A1 topic=qualities.senses|town role=prod conf=75 src=ai
+salty                    adj    grade=5-6 cefr=A2 topic=qualities.senses|food role=prod conf=55 src=ai
+sour                     adj    grade=5-6 cefr=A2 topic=qualities.senses|food role=prod conf=55 src=ai
+spicy                    adj    grade=5-6 cefr=A2 topic=qualities.senses|food role=prod conf=60 src=ai
+tasty                    adj    grade=5-6 cefr=A2 topic=qualities.senses|food role=prod conf=65 src=ai
+voice                    noun   grade=5-6 cefr=A2 topic=qualities.senses|music_arts role=prod conf=65 src=ai
+
+# grade 5-6 · qualities.size
+deep                     adj    grade=5-6 cefr=A2 topic=qualities.size|nature role=prod conf=65 src=ai
+empty                    adj    grade=5-6 cefr=A1 topic=qualities.size role=prod conf=70 src=ai
+extra                    adj    grade=5-6 cefr=A2 topic=qualities.size|shopping role=rec conf=60 src=ai|freq
+full                     adj    grade=5-6 cefr=A1 topic=qualities.size role=prod conf=70 src=ai
+heavy                    adj    grade=5-6 cefr=A1 topic=qualities.size role=prod conf=70 src=ai
+high                     adj    grade=5-6 cefr=A1 topic=qualities.size role=prod conf=70 src=ai
+huge                     adj    grade=5-6 cefr=A2 topic=qualities.size|qualities.judgement role=prod conf=70 src=ai
+low                      adj    grade=5-6 cefr=A2 topic=qualities.size role=prod conf=65 src=ai
+narrow                   adj    grade=5-6 cefr=A2 topic=qualities.size role=prod conf=55 src=ai
+slim                     adj    grade=5-6 cefr=A2 topic=qualities.size|body role=prod conf=65 src=ai
+whole                    adj    grade=5-6 cefr=A2 topic=qualities.size role=prod conf=65 src=ai
+wide                     adj    grade=5-6 cefr=A2 topic=qualities.size role=prod conf=55 src=ai
+
+# grade 7-8 · qualities
+common                   adj    grade=7-8 cefr=B1 topic=qualities role=rec conf=55 src=ai|freq
+powerful                 adj    grade=7-8 cefr=B1 topic=qualities role=rec conf=55 src=ai|freq
+unknown                  adj    grade=7-8 cefr=B1 topic=qualities role=rec conf=50 src=ai|freq
+
+# grade 7-8 · qualities.character
+aggressive               adj    grade=7-8 cefr=B1 topic=qualities.character role=prod conf=65 src=ai
+ambitious                adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=70 src=ai
+arrogant                 adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=60 src=ai
+attitude                 noun   grade=7-8 cefr=B1 topic=qualities.character role=prod conf=70 src=ai
+behave                   verb   grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+behavior                 noun   grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+careless                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+character                noun   grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+cheerful                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+confident                adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+creative                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+cruel                    adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+curious                  adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+easygoing                adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=60 src=ai
+generous                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+honest                   adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+honesty                  noun   grade=7-8 cefr=B1 topic=qualities.character role=prod conf=70 src=ai
+impatient                adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+impolite                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+independent              adj    grade=7-8 cefr=B1 topic=qualities.character|identity role=prod conf=70 src=ai
+jealous                  adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+kindness                 noun   grade=7-8 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+loyal                    adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+mature                   adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=65 src=ai
+mean                     adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+modest                   adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=65 src=ai
+moody                    adj    grade=7-8 cefr=A2 topic=qualities.character role=rec conf=60 src=ai
+open-minded              adj    grade=7-8 cefr=B1 topic=qualities.character role=prod conf=60 src=ai
+outgoing                 adj    grade=7-8 cefr=B1 topic=qualities.character role=prod conf=60 src=ai
+patient                  adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+personality              noun   grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+reliable                 adj    grade=7-8 cefr=B1 topic=qualities.character|media role=prod conf=70 src=ai
+responsible              adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+selfish                  adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=75 src=ai
+sensible                 adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=65 src=ai
+sensitive                adj    grade=7-8 cefr=B1 topic=qualities.character role=prod conf=65 src=ai
+serious                  adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+stubborn                 adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=65 src=ai
+talented                 adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+tolerant                 adj    grade=7-8 cefr=B1 topic=qualities.character role=rec conf=65 src=ai
+unfair                   adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+wise                     adj    grade=7-8 cefr=A2 topic=qualities.character role=prod conf=65 src=ai
+
+# grade 7-8 · qualities.judgement
+available                adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+basic                    adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+beauty                   noun   grade=7-8 cefr=B1 topic=qualities.judgement|fantasy role=rec conf=55 src=ai|freq
+complicated              adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+convenient               adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=65 src=ai
+effective                adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=65 src=ai
+efficient                adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=60 src=ai
+equal                    adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+essential                adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=70 src=ai
+fake                     adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+helpless                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=rec conf=65 src=ai
+impressive               adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=70 src=ai
+incredible               adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+likely                   adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=70 src=ai
+main                     adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+necessary                adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+negative                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+obvious                  adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=70 src=ai
+ordinary                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+pleasant                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+positive                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+ridiculous               adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=65 src=ai
+similar                  adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+successful               adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+suitable                 adj    grade=7-8 cefr=B1 topic=qualities.judgement role=rec conf=70 src=ai
+unlikely                 adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=70 src=ai
+unnecessary              adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=65 src=ai
+unpleasant               adj    grade=7-8 cefr=B1 topic=qualities.judgement role=prod conf=65 src=ai
+unusual                  adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+useless                  adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+valuable                 adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+weird                    adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
+worth                    adj    grade=7-8 cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+
+# grade 7-8 · qualities.senses
+bitter                   adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+boiling                  adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=60 src=ai
+freezing                 adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+pale                     adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+rough                    adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+sharp                    adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+silence                  noun   grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=70 src=ai
+silent                   adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=70 src=ai
+smelly                   adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=60 src=ai
+smooth                   adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
+sticky                   adj    grade=7-8 cefr=A2 topic=qualities.senses role=prod conf=60 src=ai
+
+# grade 7-8 · qualities.size
+amount                   noun   grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+average                  adj    grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+depth                    noun   grade=7-8 cefr=B1 topic=qualities.size role=rec conf=65 src=ai
+double                   adj    grade=7-8 cefr=A2 topic=qualities.size role=prod conf=65 src=ai
+enormous                 adj    grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+entire                   adj    grade=7-8 cefr=B1 topic=qualities.size role=rec conf=70 src=ai
+height                   noun   grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+length                   noun   grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+maximum                  noun   grade=7-8 cefr=B1 topic=qualities.size role=rec conf=65 src=ai
+minimum                  noun   grade=7-8 cefr=B1 topic=qualities.size role=rec conf=65 src=ai
+shallow                  adj    grade=7-8 cefr=B1 topic=qualities.size role=prod conf=65 src=ai
+thick                    adj    grade=7-8 cefr=A2 topic=qualities.size role=prod conf=65 src=ai
+total                    adj    grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+weight                   noun   grade=7-8 cefr=A2 topic=qualities.size role=prod conf=70 src=ai
+width                    noun   grade=7-8 cefr=B1 topic=qualities.size role=prod conf=65 src=ai

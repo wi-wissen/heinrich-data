@@ -1,0 +1,55 @@
+# English EFL graded vocabulary, topic group `countries` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 5-6 · countries
+America                  propn  grade=5-6 cefr=A1 topic=countries|anglophone.us role=prod conf=70 src=ai
+American                 adj    grade=5-6 cefr=A1 topic=countries|anglophone.us role=prod conf=70 src=ai
+Austria                  propn  grade=5-6 cefr=A2 topic=countries role=prod conf=60 src=ai
+capital                  noun   grade=5-6 cefr=A2 topic=countries role=prod conf=65 src=ai
+Chinese                  adj    grade=5-6 cefr=A2 topic=countries|food role=prod conf=60 src=ai|freq
+country                  noun   grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+Europe                   propn  grade=5-6 cefr=A2 topic=countries role=prod conf=65 src=ai
+European                 adj    grade=5-6 cefr=A2 topic=countries role=prod conf=65 src=ai|freq
+flag                     noun   grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+foreign                  adj    grade=5-6 cefr=A2 topic=countries role=prod conf=65 src=ai
+France                   propn  grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+French                   adj    grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+German                   adj    grade=5-6 cefr=A1 topic=countries role=prod conf=60 src=ai
+Italian                  adj    grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+Italy                    propn  grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+language                 noun   grade=5-6 cefr=A1 topic=countries|language role=prod conf=70 src=ai
+Netherlands              propn  grade=5-6 cefr=A2 topic=countries role=rec conf=55 src=ai
+Poland                   propn  grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+Polish                   adj    grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+Spain                    propn  grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+Spanish                  adj    grade=5-6 cefr=A1 topic=countries role=prod conf=70 src=ai
+Switzerland              propn  grade=5-6 cefr=A2 topic=countries role=prod conf=60 src=ai
+Turkey                   propn  grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+Turkish                  adj    grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+world                    noun   grade=5-6 cefr=A1 topic=countries role=prod conf=65 src=ai
+
+# grade 7-8 · countries
+accent                   noun   grade=7-8 cefr=A2 topic=countries role=prod conf=70 src=ai
+African                  adj    grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=60 src=ai|freq
+African                  noun   grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=55 src=ai|freq
+Asian                    adj    grade=7-8 cefr=A2 topic=countries role=rec conf=55 src=ai|freq
+Asian                    noun   grade=7-8 cefr=A2 topic=countries role=rec conf=50 src=ai|freq
+border                   noun   grade=7-8 cefr=A2 topic=countries role=prod conf=65 src=ai
+Chinese                  noun   grade=7-8 cefr=A2 topic=countries|language role=rec conf=55 src=ai|freq
+citizen                  noun   grade=7-8 cefr=B1 topic=countries role=prod conf=65 src=ai
+dialect                  noun   grade=7-8 cefr=B1 topic=countries role=rec conf=65 src=ai
+Dutch                    adj    grade=7-8 cefr=A2 topic=countries role=rec conf=50 src=ai|freq
+Dutch                    noun   grade=7-8 cefr=A2 topic=countries|language role=rec conf=50 src=ai|freq
+European                 noun   grade=7-8 cefr=A2 topic=countries role=rec conf=55 src=ai|freq
+Greek                    adj    grade=7-8 cefr=A2 topic=countries|history role=rec conf=55 src=ai|freq
+Greek                    noun   grade=7-8 cefr=A2 topic=countries|history role=rec conf=50 src=ai|freq
+Indian                   adj    grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=60 src=ai|freq
+Indian                   noun   grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=55 src=ai|freq
+international            adj    grade=7-8 cefr=A2 topic=countries role=prod conf=70 src=ai
+Japanese                 adj    grade=7-8 cefr=A2 topic=countries role=rec conf=55 src=ai|freq
+Japanese                 noun   grade=7-8 cefr=A2 topic=countries|language role=rec conf=50 src=ai|freq
+official                 adj    grade=7-8 cefr=B1 topic=countries role=rec conf=65 src=ai
+population               noun   grade=7-8 cefr=A2 topic=countries role=prod conf=70 src=ai
+Russian                  adj    grade=7-8 cefr=A2 topic=countries role=rec conf=55 src=ai|freq
+Russian                  noun   grade=7-8 cefr=A2 topic=countries role=rec conf=50 src=ai|freq

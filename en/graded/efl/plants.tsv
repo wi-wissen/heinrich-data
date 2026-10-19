@@ -1,0 +1,15 @@
+# English EFL graded vocabulary, topic group `plants` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · plants
+flower                   noun   grade=3-4 cefr=A1 topic=plants role=prod conf=95 src=ai
+grass                    noun   grade=3-4 cefr=A1 topic=plants role=rec conf=80 src=ai
+leaf                     noun   grade=3-4 cefr=A1 topic=plants role=prod conf=75 src=ai
+
+# grade 5-6 · plants
+plant                    noun   grade=5-6 cefr=A1 topic=plants role=prod conf=65 src=ai
+rose                     noun   grade=5-6 cefr=A2 topic=plants role=prod conf=60 src=ai|freq
+
+# grade 7-8 · plants
+branch                   noun   grade=7-8 cefr=B1 topic=plants|nature role=rec conf=50 src=ai|freq

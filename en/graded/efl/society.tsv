@@ -1,0 +1,25 @@
+# English EFL graded vocabulary, topic group `society` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · society
+charity                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+community                noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+cultural                 adj    grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+culture                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+donate                   verb   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+donation                 noun   grade=7-8 cefr=B1 topic=society role=rec conf=65 src=ai
+equality                 noun   grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai
+freedom                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+government               noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+homeless                 adj    grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+human                    noun   grade=7-8 cefr=B1 topic=society role=rec conf=55 src=ai|freq
+leader                   noun   grade=7-8 cefr=A2 topic=society|politics role=rec conf=55 src=ai|freq
+multicultural            adj    grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+poverty                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+prejudice                noun   grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai
+racism                   noun   grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai
+refugee                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+religious                adj    grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+right                    noun   grade=7-8 cefr=A2 topic=society role=prod conf=60 src=ai
+society                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai

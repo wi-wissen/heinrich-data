@@ -1,0 +1,89 @@
+# English EFL graded vocabulary, topic group `feelings` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · feelings
+afraid                   adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=65 src=ai
+angry                    adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=85 src=ai
+bored                    adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=65 src=ai
+cry                      verb   grade=3-4 cefr=A1 topic=feelings role=rec conf=75 src=ai
+excited                  adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=60 src=ai
+feel                     verb   grade=3-4 cefr=A1 topic=feelings role=rec conf=75 src=ai
+happy                    adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=95 src=ai
+hate                     verb   grade=3-4 cefr=A1 topic=feelings role=rec conf=70 src=ai
+hungry                   adj    grade=3-4 cefr=A1 topic=feelings|food role=prod conf=92 src=ai
+ill                      adj    grade=3-4 cefr=A1 topic=feelings|health role=rec conf=70 src=ai
+laugh                    verb   grade=3-4 cefr=A1 topic=feelings role=rec conf=75 src=ai
+like                     verb   grade=3-4 cefr=A1 topic=feelings role=prod conf=98 src=ai
+love                     verb   grade=3-4 cefr=A1 topic=feelings role=prod conf=92 src=ai
+sad                      adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=92 src=ai
+scared                   adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=75 src=ai
+sick                     adj    grade=3-4 cefr=A1 topic=feelings|health role=rec conf=65 src=ai
+smile                    verb   grade=3-4 cefr=A1 topic=feelings role=rec conf=70 src=ai
+thirsty                  adj    grade=3-4 cefr=A1 topic=feelings|food role=prod conf=88 src=ai
+tired                    adj    grade=3-4 cefr=A1 topic=feelings role=prod conf=88 src=ai
+
+# grade 5-6 · feelings
+asleep                   adj    grade=5-6 cefr=A2 topic=feelings|time.clock role=prod conf=60 src=ai
+awake                    adj    grade=5-6 cefr=A2 topic=feelings|time.clock role=prod conf=60 src=ai
+feeling                  noun   grade=5-6 cefr=A2 topic=feelings role=prod conf=60 src=ai
+glad                     adj    grade=5-6 cefr=A2 topic=feelings role=rec conf=60 src=ai
+interested               adj    grade=5-6 cefr=A1 topic=feelings role=prod conf=70 src=ai
+lonely                   adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=65 src=ai
+nervous                  adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=65 src=ai
+surprised                adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=65 src=ai
+unhappy                  adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=60 src=ai
+upset                    adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=65 src=ai
+worried                  adj    grade=5-6 cefr=A2 topic=feelings role=prod conf=70 src=ai
+
+# grade 7-8 · feelings
+anger                    noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+annoy                    verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+annoyed                  adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=75 src=ai
+annoying                 adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+anxious                  adj    grade=7-8 cefr=B1 topic=feelings role=rec conf=70 src=ai
+ashamed                  adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=70 src=ai
+calm                     verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+cheer                    verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+confused                 adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+depressed                adj    grade=7-8 cefr=B1 topic=feelings role=rec conf=65 src=ai
+desperate                adj    grade=7-8 cefr=B1 topic=feelings role=rec conf=65 src=ai
+disappointed             adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=75 src=ai
+disappointment           noun   grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+embarrassed              adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=75 src=ai
+embarrassing             adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=75 src=ai
+emotion                  noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+emotional                adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+excitement               noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+fancy                    verb   grade=7-8 cefr=B1 topic=feelings role=rec conf=55 src=ai
+fear                     noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+fond                     adj    grade=7-8 cefr=B1 topic=feelings role=rec conf=60 src=ai
+frighten                 verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+frightened               adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+frustrated               adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+grateful                 adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=70 src=ai
+guilty                   adj    grade=7-8 cefr=B1 topic=feelings|law role=prod conf=70 src=ai
+happiness                noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+homesick                 adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+hug                      noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+joy                      noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+loneliness               noun   grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+mad                      adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=60 src=ai
+miserable                adj    grade=7-8 cefr=B1 topic=feelings role=rec conf=65 src=ai
+mood                     noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+pleased                  adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+pride                    noun   grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+proud                    adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+regret                   noun   grade=7-8 cefr=B1 topic=feelings role=rec conf=65 src=ai
+relaxed                  adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+relief                   noun   grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+relieved                 adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=70 src=ai
+sadness                  noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+satisfied                adj    grade=7-8 cefr=B1 topic=feelings role=prod conf=65 src=ai
+scare                    verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+shocked                  adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+stressed                 adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+tear:drop                noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+terrified                adj    grade=7-8 cefr=A2 topic=feelings role=prod conf=70 src=ai
+upset                    verb   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai
+worry                    noun   grade=7-8 cefr=A2 topic=feelings role=prod conf=65 src=ai

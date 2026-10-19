@@ -1,0 +1,83 @@
+# German L1 graded vocabulary, area `history` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · history.method
+damals                   adv    grade=1-2 topic=history.method role=prod conf=80 src=ai
+früher                   adv    grade=1-2 topic=history.method role=prod conf=80 src=ai
+
+# grade 1-2 · history.middle_ages
+Burg                     noun   grade=1-2 topic=history.middle_ages role=prod conf=80 src=ai
+Ritter                   noun   grade=1-2 topic=history.middle_ages role=prod conf=80 src=ai
+Schloss                  noun   grade=1-2 topic=history.middle_ages role=prod conf=85 src=ai
+
+# grade 3-4 · history.antiquity
+Mumie                    noun   grade=3-4 topic=history.antiquity role=prod conf=70 src=ai
+Pharao                   noun   grade=3-4 topic=history.antiquity role=rec conf=65 src=ai
+Pyramide                 noun   grade=3-4 topic=history.antiquity role=prod conf=70 src=ai
+Römer                    noun   grade=3-4 topic=history.antiquity role=rec conf=65 src=ai
+
+# grade 3-4 · history.industrial
+Dampflok                 noun   grade=3-4 topic=history.industrial role=rec conf=65 src=ai
+Dampfmaschine            noun   grade=3-4 topic=history.industrial role=rec conf=65 src=ai
+erfinden                 verb   grade=3-4 topic=history.industrial role=prod conf=75 src=ai
+Erfinder                 noun   grade=3-4 topic=history.industrial role=prod conf=75 src=ai
+Erfindung                noun   grade=3-4 topic=history.industrial role=prod conf=75 src=ai
+Kutsche                  noun   grade=3-4 topic=history.industrial role=prod conf=70 src=ai
+Schiefertafel            noun   grade=3-4 topic=history.industrial role=rec conf=60 src=ai
+Spinnrad                 noun   grade=3-4 topic=history.industrial role=rec conf=60 src=ai
+Webstuhl                 noun   grade=3-4 topic=history.industrial role=rec conf=60 src=ai
+
+# grade 3-4 · history.method
+Archäologe               noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+Ausgrabung               noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+damalig                  adj    grade=3-4 topic=history.method role=rec conf=65 src=ai
+Denkmal                  noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+ehemalig                 adj    grade=3-4 topic=history.method role=rec conf=60 src=ai
+Gegenwart                noun   grade=3-4 topic=history.method role=prod conf=80 src=ai
+Generation               noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+gründen                  verb   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Gründung                 noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+Heimatmuseum             noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+heutig                   adj    grade=3-4 topic=history.method role=rec conf=65 src=ai
+Jahrhundert              noun   grade=3-4 topic=history.method role=prod conf=80 src=ai
+Jahrtausend              noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Jahrzehnt                noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Museum                   noun   grade=3-4 topic=history.method role=prod conf=80 src=ai
+Quelle                   noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+Ruine                    noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Stammbaum                noun   grade=3-4 topic=history.method role=prod conf=70 src=ai
+Urgroßeltern             noun   grade=3-4 topic=history.method role=prod conf=70 src=ai
+vergangen                adj    grade=3-4 topic=history.method role=rec conf=65 src=ai
+Vergangenheit            noun   grade=3-4 topic=history.method role=prod conf=80 src=ai
+Vorfahre                 noun   grade=3-4 topic=history.method role=rec conf=65 src=ai
+Wappen                   noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Zeitleiste               noun   grade=3-4 topic=history.method role=rec conf=75 src=ai
+Zeitreise                noun   grade=3-4 topic=history.method role=prod conf=65 src=ai
+Zeitstrahl               noun   grade=3-4 topic=history.method role=prod conf=75 src=ai
+Zeitzeuge                noun   grade=3-4 topic=history.method role=rec conf=70 src=ai
+Zukunft                  noun   grade=3-4 topic=history.method role=prod conf=80 src=ai
+
+# grade 3-4 · history.middle_ages
+Handwerker               noun   grade=3-4 topic=history.middle_ages role=prod conf=75 src=ai
+Kaiser                   noun   grade=3-4 topic=history.middle_ages role=prod conf=75 src=ai
+Kloster                  noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Mittelalter              noun   grade=3-4 topic=history.middle_ages role=rec conf=70 src=ai
+Mönch                    noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Nonne                    noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Rüstung                  noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Schmied                  noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Stadtmauer               noun   grade=3-4 topic=history.middle_ages role=prod conf=70 src=ai
+Stadttor                 noun   grade=3-4 topic=history.middle_ages role=rec conf=65 src=ai
+Turnier                  noun   grade=3-4 topic=history.middle_ages role=rec conf=65 src=ai
+Zugbrücke                noun   grade=3-4 topic=history.middle_ages role=rec conf=65 src=ai
+
+# grade 3-4 · history.prehistory
+Faustkeil                noun   grade=3-4 topic=history.prehistory role=rec conf=60 src=ai
+Höhlenmalerei            noun   grade=3-4 topic=history.prehistory role=rec conf=65 src=ai
+Mammut                   noun   grade=3-4 topic=history.prehistory role=rec conf=70 src=ai
+Steinzeit                noun   grade=3-4 topic=history.prehistory role=rec conf=70 src=ai
+Urmensch                 noun   grade=3-4 topic=history.prehistory role=rec conf=60 src=ai
+
+# grade 3-4 · history.world_wars
+Krieg                    noun   grade=3-4 topic=history.world_wars role=prod conf=75 src=ai

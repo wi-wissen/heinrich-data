@@ -1,0 +1,83 @@
+# English EFL graded vocabulary, topic group `numbers` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · numbers
+count                    verb   grade=3-4 cefr=A1 topic=numbers role=prod conf=85 src=ai
+eight                    num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+eighteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+eighty                   num    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+eleven                   num    grade=3-4 cefr=A1 topic=numbers role=prod conf=95 src=ai
+fifteen                  num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+fifty                    num    grade=3-4 cefr=A1 topic=numbers role=prod conf=75 src=ai
+first                    num    grade=3-4 cefr=A1 topic=numbers|time.calendar role=prod conf=80 src=ai
+five                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+forty                    num    grade=3-4 cefr=A1 topic=numbers role=prod conf=75 src=ai
+four                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+fourteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+hundred                  num    grade=3-4 cefr=A1 topic=numbers role=rec conf=75 src=ai
+lot                      noun   grade=3-4 cefr=A1 topic=numbers role=prod conf=70 src=ai
+minus                    adp    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+nine                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+nineteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+ninety                   num    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+number                   noun   grade=3-4 cefr=A1 topic=numbers|school role=prod conf=92 src=ai
+one                      num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+plus                     adp    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+second                   num    grade=3-4 cefr=A1 topic=numbers|time.calendar role=prod conf=65 src=ai
+seven                    num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+seventeen                num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+seventy                  num    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+six                      num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+sixteen                  num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+sixty                    num    grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
+ten                      num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+third                    num    grade=3-4 cefr=A1 topic=numbers|time.calendar role=prod conf=65 src=ai
+thirteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+thirty                   num    grade=3-4 cefr=A1 topic=numbers role=prod conf=80 src=ai
+three                    num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+twelve                   num    grade=3-4 cefr=A1 topic=numbers role=prod conf=95 src=ai
+twenty                   num    grade=3-4 cefr=A1 topic=numbers role=prod conf=92 src=ai
+two                      num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
+zero                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
+
+# grade 5-6 · numbers
+bit                      noun   grade=5-6 cefr=A2 topic=numbers role=prod conf=65 src=ai
+centimeter               noun   grade=5-6 cefr=A2 topic=numbers role=prod conf=65 src=ai
+eighteenth               num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+eighth                   num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+eleventh                 num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+fifteenth                num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+fifth                    num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+fourteenth               num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+fourth                   num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+gram                     noun   grade=5-6 cefr=A2 topic=numbers|food role=prod conf=60 src=ai
+half                     num    grade=5-6 cefr=A1 topic=numbers|time.clock role=prod conf=70 src=ai
+kilometer                noun   grade=5-6 cefr=A2 topic=numbers|space role=prod conf=65 src=ai
+mile                     noun   grade=5-6 cefr=A2 topic=numbers|travel|anglophone.uk role=rec conf=60 src=ai|freq
+million                  num    grade=5-6 cefr=A2 topic=numbers role=prod conf=65 src=ai
+nineteenth               num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+ninth                    num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+once                     num    grade=5-6 cefr=A2 topic=numbers|time.relations role=prod conf=65 src=ai
+pair                     noun   grade=5-6 cefr=A2 topic=numbers|clothes role=prod conf=65 src=ai
+piece                    noun   grade=5-6 cefr=A1 topic=numbers|food role=prod conf=70 src=ai
+seventeenth              num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+seventh                  num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+sixteenth                num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+sixth                    num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+tenth                    num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+thirteenth               num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+thirtieth                num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+thousand                 num    grade=5-6 cefr=A1 topic=numbers role=prod conf=70 src=ai
+twelfth                  num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+twentieth                num    grade=5-6 cefr=A1 topic=numbers|time.calendar role=prod conf=75 src=ai
+twice                    num    grade=5-6 cefr=A2 topic=numbers role=prod conf=65 src=ai
+
+# grade 7-8 · numbers
+billion                  num    grade=7-8 cefr=A2 topic=numbers role=prod conf=70 src=ai
+dozen                    num    grade=7-8 cefr=A2 topic=numbers role=prod conf=65 src=ai
+majority                 noun   grade=7-8 cefr=B1 topic=numbers role=rec conf=70 src=ai
+minority                 noun   grade=7-8 cefr=B1 topic=numbers role=rec conf=65 src=ai
+percent                  noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=75 src=ai
+percentage               noun   grade=7-8 cefr=B1 topic=numbers role=prod conf=70 src=ai
+plenty                   noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=65 src=ai

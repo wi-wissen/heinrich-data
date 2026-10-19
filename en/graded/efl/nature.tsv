@@ -1,0 +1,50 @@
+# English EFL graded vocabulary, topic group `nature` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · nature
+beach                    noun   grade=3-4 cefr=A1 topic=nature|travel role=prod conf=75 src=ai
+fire                     noun   grade=3-4 cefr=A1 topic=nature|jobs role=prod conf=60 src=ai|freq
+forest                   noun   grade=3-4 cefr=A1 topic=nature role=prod conf=70 src=ai
+lake                     noun   grade=3-4 cefr=A1 topic=nature role=prod conf=65 src=ai
+moon                     noun   grade=3-4 cefr=A1 topic=nature role=prod conf=88 src=ai
+mountain                 noun   grade=3-4 cefr=A1 topic=nature|travel role=prod conf=70 src=ai
+park                     noun   grade=3-4 cefr=A1 topic=nature|town role=prod conf=85 src=ai
+river                    noun   grade=3-4 cefr=A1 topic=nature role=prod conf=70 src=ai
+sea                      noun   grade=3-4 cefr=A1 topic=nature role=prod conf=80 src=ai
+tree                     noun   grade=3-4 cefr=A1 topic=nature|plants role=prod conf=95 src=ai
+
+# grade 5-6 · nature
+cave                     noun   grade=5-6 cefr=A2 topic=nature|fantasy role=prod conf=60 src=ai
+coast                    noun   grade=5-6 cefr=A2 topic=nature role=prod conf=65 src=ai
+countryside              noun   grade=5-6 cefr=A2 topic=nature|anglophone.uk role=prod conf=65 src=ai
+earth                    noun   grade=5-6 cefr=A2 topic=nature|science|environment role=prod conf=70 src=ai|freq
+ground                   noun   grade=5-6 cefr=A2 topic=nature|space role=prod conf=60 src=ai|freq
+hill                     noun   grade=5-6 cefr=A1 topic=nature role=prod conf=70 src=ai
+island                   noun   grade=5-6 cefr=A1 topic=nature|travel role=prod conf=75 src=ai
+land                     noun   grade=5-6 cefr=A2 topic=nature|travel role=prod conf=65 src=ai|freq
+nature                   noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
+path                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
+rock                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
+sand                     noun   grade=5-6 cefr=A1 topic=nature role=prod conf=60 src=ai
+stone                    noun   grade=5-6 cefr=A1 topic=nature role=prod conf=60 src=ai
+view                     noun   grade=5-6 cefr=A2 topic=nature|travel role=prod conf=65 src=ai
+wave                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=65 src=ai
+wood                     noun   grade=5-6 cefr=A2 topic=nature|plants|actions.handling role=prod conf=65 src=ai|freq
+
+# grade 7-8 · nature
+Atlantic                 adj    grade=7-8 cefr=A2 topic=nature|anglophone role=rec conf=55 src=ai|freq
+bush                     noun   grade=7-8 cefr=A2 topic=nature role=prod conf=60 src=ai
+canyon                   noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+cliff                    noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+continent                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+earthquake               noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai
+landscape                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai
+natural                  adj    grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+reef                     noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+scenery                  noun   grade=7-8 cefr=B1 topic=nature role=prod conf=65 src=ai
+soil                     noun   grade=7-8 cefr=B1 topic=nature role=prod conf=65 src=ai
+valley                   noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+volcano                  noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
+waterfall                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=60 src=ai
+wildlife                 noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai

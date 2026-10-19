@@ -1,0 +1,53 @@
+# English EFL graded vocabulary, topic group `body` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · body
+arm                      noun   grade=3-4 cefr=A1 topic=body role=prod conf=95 src=ai
+back                     noun   grade=3-4 cefr=A1 topic=body|space role=prod conf=80 src=ai
+body                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=88 src=ai
+chin                     noun   grade=3-4 cefr=A1 topic=body role=rec conf=65 src=ai
+ear                      noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+eye                      noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+face                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=92 src=ai
+finger                   noun   grade=3-4 cefr=A1 topic=body role=prod conf=92 src=ai
+foot                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=95 src=ai
+hair                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=95 src=ai
+hand                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+head                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+hurt                     verb   grade=3-4 cefr=A1 topic=body|health role=rec conf=70 src=ai
+knee                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=88 src=ai
+leg                      noun   grade=3-4 cefr=A1 topic=body role=prod conf=95 src=ai
+mouth                    noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+neck                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=88 src=ai
+nose                     noun   grade=3-4 cefr=A1 topic=body role=prod conf=98 src=ai
+shoulder                 noun   grade=3-4 cefr=A1 topic=body role=prod conf=85 src=ai
+toe                      noun   grade=3-4 cefr=A1 topic=body role=prod conf=85 src=ai
+tooth                    noun   grade=3-4 cefr=A1 topic=body|time.clock role=prod conf=92 src=ai
+tummy                    noun   grade=3-4 cefr=A1 topic=body role=prod conf=85 src=ai
+
+# grade 5-6 · body
+beard                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=65 src=ai
+curly                    adj    grade=5-6 cefr=A1 topic=body role=prod conf=80 src=ai
+glasses                  noun   grade=5-6 cefr=A1 topic=body|self role=prod conf=70 src=ai
+good-looking             adj    grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
+heart                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=60 src=ai
+mustache                 noun   grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
+skin                     noun   grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
+stomach                  noun   grade=5-6 cefr=A2 topic=body|health role=prod conf=65 src=ai
+straight                 adj    grade=5-6 cefr=A1 topic=body|space role=prod conf=70 src=ai
+
+# grade 7-8 · body
+ankle                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
+brain                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
+chest                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
+elbow                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
+hip                      noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
+human                    adj    grade=7-8 cefr=B1 topic=body|society role=rec conf=60 src=ai|freq
+liver                    noun   grade=7-8 cefr=B1 topic=body role=rec conf=60 src=ai
+lung                     noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
+muscle                   noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
+skeleton                 noun   grade=7-8 cefr=A2 topic=body role=rec conf=60 src=ai
+throat                   noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
+thumb                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=60 src=ai
+wrist                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai

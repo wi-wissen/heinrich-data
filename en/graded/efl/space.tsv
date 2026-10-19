@@ -1,0 +1,54 @@
+# English EFL graded vocabulary, topic group `space` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 5-6 · space
+bottom                   noun   grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
+corner                   noun   grade=5-6 cefr=A1 topic=space|town role=prod conf=75 src=ai
+direction                noun   grade=5-6 cefr=A2 topic=space|town role=prod conf=65 src=ai
+downstairs               adv    grade=5-6 cefr=A1 topic=space|home role=prod conf=75 src=ai
+east                     noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
+far                      adj    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+forward                  adv    grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai|freq
+front                    noun   grade=5-6 cefr=A1 topic=space role=prod conf=70 src=ai
+inside                   adv    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+left                     adv    grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
+left                     noun   grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+map                      noun   grade=5-6 cefr=A1 topic=space|travel role=prod conf=65 src=ai
+middle                   noun   grade=5-6 cefr=A1 topic=space role=prod conf=70 src=ai
+near                     adj    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+nearby                   adv    grade=5-6 cefr=A2 topic=space role=rec conf=55 src=ai
+north                    noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
+outside                  adv    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+place                    noun   grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
+right                    adv    grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
+right                    noun   grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
+side                     noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
+south                    noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
+space                    noun   grade=5-6 cefr=A2 topic=space|science role=rec conf=60 src=ai|freq
+straight                 adv    grade=5-6 cefr=A1 topic=space|town role=prod conf=80 src=ai
+top                      noun   grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
+upstairs                 adv    grade=5-6 cefr=A1 topic=space|home role=prod conf=75 src=ai
+way                      noun   grade=5-6 cefr=A1 topic=space|town role=prod conf=75 src=ai
+west                     noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
+
+# grade 7-8 · space
+area                     noun   grade=7-8 cefr=A2 topic=space role=prod conf=65 src=ai
+distance                 noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+distant                  adj    grade=7-8 cefr=B1 topic=space role=rec conf=65 src=ai
+eastern                  adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+edge                     noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+local                    adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+location                 noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+nearby                   adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+northern                 adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+overseas                 adv    grade=7-8 cefr=B1 topic=space role=rec conf=60 src=ai
+position                 noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+region                   noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+remote                   adj    grade=7-8 cefr=B1 topic=space role=rec conf=65 src=ai
+southern                 adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+surface                  noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+toward                   adp    grade=7-8 cefr=B1 topic=space|anglophone.us role=rec conf=50 src=ai|freq
+underground              adj    grade=7-8 cefr=A2 topic=space role=prod conf=65 src=ai
+upper                    adj    grade=7-8 cefr=B1 topic=space role=rec conf=50 src=ai|freq
+western                  adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai

@@ -1,0 +1,227 @@
+# German L1 graded vocabulary, area `language` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · language.grammar
+Artikel                  noun   grade=1-2 topic=language.grammar role=prod conf=85 src=ai
+Begleiter                noun   grade=1-2 topic=language.grammar role=prod conf=75 src=ai
+Einzahl                  noun   grade=1-2 topic=language.grammar role=prod conf=80 src=ai
+Mehrzahl                 noun   grade=1-2 topic=language.grammar role=prod conf=80 src=ai
+Satzanfang               noun   grade=1-2 topic=language.grammar role=prod conf=80 src=ai
+Satzende                 noun   grade=1-2 topic=language.grammar role=prod conf=75 src=ai
+Tunwort                  noun   grade=1-2 topic=language.grammar role=prod conf=70 src=ai
+Wiewort                  noun   grade=1-2 topic=language.grammar role=prod conf=65 src=ai
+
+# grade 1-2 · language.letters
+ABC                      noun   grade=1-2 topic=language.letters role=prod conf=90 src=ai
+Alphabet                 noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Anlaut                   noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Anlauttabelle            noun   grade=1-2 topic=language.letters role=rec conf=75 src=ai
+Auslaut                  noun   grade=1-2 topic=language.letters role=rec conf=70 src=ai
+Buchstabe                noun   grade=1-2 topic=language.letters role=prod conf=90 src=ai
+buchstabieren            verb   grade=1-2 topic=language.letters role=prod conf=80 src=ai
+Druckschrift             noun   grade=1-2 topic=language.letters role=prod conf=80 src=ai
+Großbuchstabe            noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Inlaut                   noun   grade=1-2 topic=language.letters role=rec conf=70 src=ai
+Kleinbuchstabe           noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Konsonant                noun   grade=1-2 topic=language.letters role=rec conf=70 src=ai
+Laut                     noun   grade=1-2 topic=language.letters role=prod conf=90 src=ai
+Mitlaut                  noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Reim                     noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+reimen                   verb   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Reimwort                 noun   grade=1-2 topic=language.letters role=prod conf=75 src=ai
+Satz                     noun   grade=1-2 topic=language.letters role=prod conf=95 src=ai
+Schreibschrift           noun   grade=1-2 topic=language.letters role=prod conf=80 src=ai
+Selbstlaut               noun   grade=1-2 topic=language.letters role=prod conf=85 src=ai
+Silbe                    noun   grade=1-2 topic=language.letters role=prod conf=90 src=ai
+Silbenbogen              noun   grade=1-2 topic=language.letters role=prod conf=80 src=ai
+Umlaut                   noun   grade=1-2 topic=language.letters role=prod conf=80 src=ai
+Vokal                    noun   grade=1-2 topic=language.letters role=rec conf=75 src=ai
+Wort                     noun   grade=1-2 topic=language.letters role=prod conf=95 src=ai
+
+# grade 1-2 · language.literature
+Märchen                  noun   grade=1-2 topic=language.literature role=prod conf=90 src=ai
+
+# grade 1-2 · language.poetry
+Abzählreim               noun   grade=1-2 topic=language.poetry role=prod conf=75 src=ai
+Gedicht                  noun   grade=1-2 topic=language.poetry role=prod conf=85 src=ai
+
+# grade 1-2 · language.reading
+Bilderbuch               noun   grade=1-2 topic=language.reading role=prod conf=90 src=ai
+Bücherei                 noun   grade=1-2 topic=language.reading role=prod conf=85 src=ai
+Fibel                    noun   grade=1-2 topic=language.reading role=prod conf=75 src=ai
+Lesebuch                 noun   grade=1-2 topic=language.reading role=prod conf=85 src=ai
+vorlesen                 verb   grade=1-2 topic=language.reading role=prod conf=90 src=ai
+
+# grade 1-2 · language.speaking
+Erzählkreis              noun   grade=1-2 topic=language.speaking role=prod conf=70 src=ai
+Gesprächsregel           noun   grade=1-2 topic=language.speaking role=prod conf=75 src=ai
+Sitzkreis                noun   grade=1-2 topic=language.speaking role=prod conf=75 src=ai
+Stuhlkreis               noun   grade=1-2 topic=language.speaking role=prod conf=75 src=ai
+
+# grade 1-2 · language.spelling
+abschreiben              verb   grade=1-2 topic=language.spelling role=prod conf=90 src=ai
+Ausrufezeichen           noun   grade=1-2 topic=language.spelling role=prod conf=85 src=ai
+Diktat                   noun   grade=1-2 topic=language.spelling role=prod conf=85 src=ai
+Fragezeichen             noun   grade=1-2 topic=language.spelling role=prod conf=85 src=ai
+Lernwort                 noun   grade=1-2 topic=language.spelling role=prod conf=75 src=ai
+Punkt                    noun   grade=1-2 topic=language.spelling role=prod conf=90 src=ai
+Wörterbuch               noun   grade=1-2 topic=language.spelling role=prod conf=85 src=ai
+
+# grade 1-2 · language.writing
+Bildergeschichte         noun   grade=1-2 topic=language.writing role=prod conf=85 src=ai
+Brief                    noun   grade=1-2 topic=language.writing role=prod conf=90 src=ai
+Geschichte               noun   grade=1-2 topic=language.writing role=prod conf=95 src=ai
+Sprechblase              noun   grade=1-2 topic=language.writing role=prod conf=80 src=ai
+Text                     noun   grade=1-2 topic=language.writing role=prod conf=85 src=ai
+Überschrift              noun   grade=1-2 topic=language.writing role=prod conf=85 src=ai
+
+# grade 3-4 · language.grammar
+Adjektiv                 noun   grade=3-4 topic=language.grammar role=prod conf=85 src=ai
+Akkusativ                noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Aufforderungssatz        noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Ausrufesatz              noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Aussagesatz              noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+bestimmt                 adj    grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Bindewort                noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Dativ                    noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Eigenschaftswort         noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Endung                   noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Ersatzprobe              noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Fall                     noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Fragesatz                noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Fremdsprache             noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Fürwort                  noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Genitiv                  noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Grammatik                noun   grade=3-4 topic=language.grammar role=rec conf=70 src=ai
+Grundform                noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Grundstufe               noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Höchststufe              noun   grade=3-4 topic=language.grammar role=prod conf=65 src=ai
+Muttersprache            noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Nachsilbe                noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Namenwort                noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Nomen                    noun   grade=3-4 topic=language.grammar role=prod conf=85 src=ai
+Nominativ                noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Perfekt                  noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Personalform             noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Personalpronomen         noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Plural                   noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Pronomen                 noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Prädikat                 noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Präposition              noun   grade=3-4 topic=language.grammar role=rec conf=65 src=ai
+Präsens                  noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Präteritum               noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Satzart                  noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Satzaussage              noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Satzgegenstand           noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Satzglied                noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Singular                 noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+steigern                 verb   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Steigerung               noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Subjekt                  noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Umstellprobe             noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+unbestimmt               adj    grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Verb                     noun   grade=3-4 topic=language.grammar role=prod conf=85 src=ai
+Vergleichsstufe          noun   grade=3-4 topic=language.grammar role=prod conf=65 src=ai
+Verhältniswort           noun   grade=3-4 topic=language.grammar role=rec conf=55 src=ai
+Verkleinerungsform       noun   grade=3-4 topic=language.grammar role=rec conf=55 src=ai
+Vorsilbe                 noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Weglassprobe             noun   grade=3-4 topic=language.grammar role=rec conf=55 src=ai
+Wortart                  noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Wortbaustein             noun   grade=3-4 topic=language.grammar role=rec conf=60 src=ai
+Wortfamilie              noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+Wortfeld                 noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Wortstamm                noun   grade=3-4 topic=language.grammar role=prod conf=70 src=ai
+Zeitform                 noun   grade=3-4 topic=language.grammar role=prod conf=75 src=ai
+
+# grade 3-4 · language.letters
+Doppellaut               noun   grade=3-4 topic=language.letters role=prod conf=70 src=ai
+
+# grade 3-4 · language.literature
+Fabel                    noun   grade=3-4 topic=language.literature role=rec conf=65 src=ai
+Märchenfigur             noun   grade=3-4 topic=language.literature role=prod conf=70 src=ai
+
+# grade 3-4 · language.poetry
+auswendig                adv    grade=3-4 topic=language.poetry role=prod conf=75 src=ai
+Dichter                  noun   grade=3-4 topic=language.poetry role=prod conf=70 src=ai
+Elfchen                  noun   grade=3-4 topic=language.poetry role=prod conf=70 src=ai
+Strophe                  noun   grade=3-4 topic=language.poetry role=prod conf=75 src=ai
+Vers                     noun   grade=3-4 topic=language.poetry role=rec conf=65 src=ai
+
+# grade 3-4 · language.reading
+Absatz                   noun   grade=3-4 topic=language.reading role=prod conf=70 src=ai
+Autor                    noun   grade=3-4 topic=language.reading role=prod conf=75 src=ai
+Buchvorstellung          noun   grade=3-4 topic=language.reading role=prod conf=65 src=ai
+Hauptfigur               noun   grade=3-4 topic=language.reading role=prod conf=70 src=ai
+Inhaltsverzeichnis       noun   grade=3-4 topic=language.reading role=prod conf=70 src=ai
+Kapitel                  noun   grade=3-4 topic=language.reading role=prod conf=75 src=ai
+Lesetagebuch             noun   grade=3-4 topic=language.reading role=prod conf=65 src=ai
+Sachbuch                 noun   grade=3-4 topic=language.reading role=prod conf=70 src=ai
+Sachtext                 noun   grade=3-4 topic=language.reading role=rec conf=65 src=ai
+Schlüsselwort            noun   grade=3-4 topic=language.reading role=rec conf=60 src=ai
+Titel                    noun   grade=3-4 topic=language.reading role=prod conf=75 src=ai
+
+# grade 3-4 · language.speaking
+begründen                verb   grade=3-4 topic=language.speaking role=prod conf=75 src=ai
+Präsentation             noun   grade=3-4 topic=language.speaking role=prod conf=70 src=ai
+Rückmeldung              noun   grade=3-4 topic=language.speaking role=prod conf=65 src=ai
+Stichwortzettel          noun   grade=3-4 topic=language.speaking role=prod conf=65 src=ai
+Vortrag                  noun   grade=3-4 topic=language.speaking role=prod conf=75 src=ai
+vortragen                verb   grade=3-4 topic=language.speaking role=prod conf=75 src=ai
+
+# grade 3-4 · language.spelling
+ableiten                 verb   grade=3-4 topic=language.spelling role=rec conf=60 src=ai
+alphabetisch             adj    grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Anführungszeichen        noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Bindestrich              noun   grade=3-4 topic=language.spelling role=rec conf=65 src=ai
+Dehnungs-h               noun   grade=3-4 topic=language.spelling role=rec conf=60 src=ai
+Doppelkonsonant          noun   grade=3-4 topic=language.spelling role=rec conf=65 src=ai
+Doppelpunkt              noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Großschreibung           noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Kleinschreibung          noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Komma                    noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+korrigieren              verb   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Merkwort                 noun   grade=3-4 topic=language.spelling role=rec conf=60 src=ai
+nachschlagen             verb   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Partnerdiktat            noun   grade=3-4 topic=language.spelling role=rec conf=60 src=ai
+Rechtschreibfehler       noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Rechtschreibung          noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Redezeichen              noun   grade=3-4 topic=language.spelling role=prod conf=65 src=ai
+Satzzeichen              noun   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+Silbentrennung           noun   grade=3-4 topic=language.spelling role=rec conf=65 src=ai
+trennen                  verb   grade=3-4 topic=language.spelling role=prod conf=75 src=ai
+verlängern               verb   grade=3-4 topic=language.spelling role=prod conf=70 src=ai
+
+# grade 3-4 · language.writing
+Absender                 noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Anleitung                noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Anrede                   noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Begleitsatz              noun   grade=3-4 topic=language.writing role=rec conf=65 src=ai
+Bericht                  noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+berichten                verb   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+beschreiben              verb   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Beschreibung             noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Einleitung               noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Empfänger                noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Erlebniserzählung        noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Erzählung                noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Fantasiegeschichte       noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Gedankenblase            noun   grade=3-4 topic=language.writing role=prod conf=60 src=ai
+Gruß                     noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Grußformel               noun   grade=3-4 topic=language.writing role=rec conf=65 src=ai
+Hauptteil                noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Höhepunkt                noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+nacherzählen             verb   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Nacherzählung            noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Personenbeschreibung     noun   grade=3-4 topic=language.writing role=rec conf=65 src=ai
+Reizwortgeschichte       noun   grade=3-4 topic=language.writing role=rec conf=60 src=ai
+Schluss                  noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Schreibkonferenz         noun   grade=3-4 topic=language.writing role=rec conf=65 src=ai
+Schreibplan              noun   grade=3-4 topic=language.writing role=rec conf=60 src=ai
+Steckbrief               noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Tagebuch                 noun   grade=3-4 topic=language.writing role=prod conf=75 src=ai
+Tierbeschreibung         noun   grade=3-4 topic=language.writing role=rec conf=60 src=ai
+Vorgangsbeschreibung     noun   grade=3-4 topic=language.writing role=rec conf=65 src=ai
+Wortwahl                 noun   grade=3-4 topic=language.writing role=rec conf=60 src=ai
+wörtlich                 adj    grade=3-4 topic=language.writing role=rec conf=65 src=ai
+überarbeiten             verb   grade=3-4 topic=language.writing role=prod conf=75 src=ai

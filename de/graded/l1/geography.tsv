@@ -1,0 +1,112 @@
+# German L1 graded vocabulary, area `geography` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · geo.maps
+Karte                    noun   grade=1-2 topic=geo.maps role=prod conf=80 src=ai
+
+# grade 1-2 · geo.settlement
+Berlin                   propn  grade=1-2 topic=geo.settlement role=prod conf=85 src=ai
+Deutschland              propn  grade=1-2 topic=geo.settlement role=prod conf=90 src=ai
+
+# grade 3-4 · geo.agriculture
+Acker                    noun   grade=3-4 topic=geo.agriculture role=prod conf=75 src=ai
+Ernte                    noun   grade=3-4 topic=geo.agriculture role=prod conf=80 src=ai
+Getreide                 noun   grade=3-4 topic=geo.agriculture role=prod conf=75 src=ai
+Landwirt                 noun   grade=3-4 topic=geo.agriculture role=prod conf=70 src=ai
+Landwirtschaft           noun   grade=3-4 topic=geo.agriculture role=rec conf=70 src=ai
+Mais                     noun   grade=3-4 topic=geo.agriculture role=prod conf=75 src=ai
+Mähdrescher              noun   grade=3-4 topic=geo.agriculture role=prod conf=70 src=ai
+Weizen                   noun   grade=3-4 topic=geo.agriculture role=prod conf=70 src=ai
+
+# grade 3-4 · geo.climate
+Klima                    noun   grade=3-4 topic=geo.climate role=rec conf=70 src=ai
+
+# grade 3-4 · geo.industry
+Bergwerk                 noun   grade=3-4 topic=geo.industry role=rec conf=65 src=ai
+Fabrik                   noun   grade=3-4 topic=geo.industry role=prod conf=75 src=ai
+Industrie                noun   grade=3-4 topic=geo.industry role=rec conf=65 src=ai
+Kraftwerk                noun   grade=3-4 topic=geo.industry role=rec conf=65 src=ai
+Windrad                  noun   grade=3-4 topic=geo.industry role=prod conf=75 src=ai
+
+# grade 3-4 · geo.landscapes
+Afrika                   propn  grade=3-4 topic=geo.landscapes role=prod conf=80 src=ai
+Alpen                    propn  grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Amerika                  propn  grade=3-4 topic=geo.landscapes role=prod conf=80 src=ai
+Antarktis                propn  grade=3-4 topic=geo.landscapes role=rec conf=70 src=ai
+Asien                    propn  grade=3-4 topic=geo.landscapes role=prod conf=80 src=ai
+Australien               propn  grade=3-4 topic=geo.landscapes role=prod conf=80 src=ai
+Erdteil                  noun   grade=3-4 topic=geo.landscapes role=prod conf=70 src=ai
+Europa                   propn  grade=3-4 topic=geo.landscapes role=prod conf=85 src=ai
+Gebirge                  noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Gipfel                   noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Heimat                   noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Hochgebirge              noun   grade=3-4 topic=geo.landscapes role=rec conf=60 src=ai
+Kontinent                noun   grade=3-4 topic=geo.landscapes role=rec conf=70 src=ai
+Küste                    noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Landschaft               noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Mittelgebirge            noun   grade=3-4 topic=geo.landscapes role=rec conf=65 src=ai
+Nordpol:geo              propn  grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Region                   noun   grade=3-4 topic=geo.landscapes role=rec conf=55 src=ai|freq
+Schwarzwald              propn  grade=3-4 topic=geo.landscapes role=rec conf=60 src=ai
+Südpol:geo               propn  grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Tiefland                 noun   grade=3-4 topic=geo.landscapes role=rec conf=60 src=ai
+Wüste                    noun   grade=3-4 topic=geo.landscapes role=prod conf=75 src=ai
+Äquator                  noun   grade=3-4 topic=geo.landscapes role=rec conf=65 src=ai
+
+# grade 3-4 · geo.maps
+Atlas                    noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Globus                   noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Himmelsrichtung          noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Kartenzeichen            noun   grade=3-4 topic=geo.maps role=prod conf=70 src=ai
+Kompass                  noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Lageplan                 noun   grade=3-4 topic=geo.maps role=rec conf=65 src=ai
+Landkarte                noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Legende                  noun   grade=3-4 topic=geo.maps role=rec conf=70 src=ai
+Luftbild                 noun   grade=3-4 topic=geo.maps role=rec conf=65 src=ai
+Maßstab                  noun   grade=3-4 topic=geo.maps role=rec conf=70 src=ai
+Norden                   noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Nordosten                noun   grade=3-4 topic=geo.maps role=prod conf=70 src=ai
+Nordwesten               noun   grade=3-4 topic=geo.maps role=prod conf=70 src=ai
+nördlich                 adj    grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+orientieren              verb   grade=3-4 topic=geo.maps role=rec conf=70 src=ai
+Orientierung             noun   grade=3-4 topic=geo.maps role=rec conf=70 src=ai
+Osten                    noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Planquadrat              noun   grade=3-4 topic=geo.maps role=rec conf=65 src=ai
+Stadtplan                noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Süden                    noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+südlich                  adj    grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Wegbeschreibung          noun   grade=3-4 topic=geo.maps role=prod conf=75 src=ai
+Westen                   noun   grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+westlich                 adj    grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+Windrose                 noun   grade=3-4 topic=geo.maps role=rec conf=65 src=ai
+östlich                  adj    grade=3-4 topic=geo.maps role=prod conf=80 src=ai
+
+# grade 3-4 · geo.settlement
+Bundesland               noun   grade=3-4 topic=geo.settlement role=prod conf=80 src=ai
+Dänemark                 propn  grade=3-4 topic=geo.settlement role=prod conf=70 src=ai
+Einwohner                noun   grade=3-4 topic=geo.settlement role=rec conf=75 src=ai
+Frankreich               propn  grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Grenze                   noun   grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Hauptstadt               noun   grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Landeshauptstadt         noun   grade=3-4 topic=geo.settlement role=rec conf=70 src=ai
+Nachbarland              noun   grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Niederlande              propn  grade=3-4 topic=geo.settlement role=prod conf=70 src=ai
+Polen                    propn  grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Schweiz                  propn  grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+Österreich               propn  grade=3-4 topic=geo.settlement role=prod conf=75 src=ai
+
+# grade 3-4 · geo.water
+Donau                    propn  grade=3-4 topic=geo.water role=prod conf=75 src=ai
+Ebbe                     noun   grade=3-4 topic=geo.water role=prod conf=70 src=ai
+Elbe                     propn  grade=3-4 topic=geo.water role=prod conf=75 src=ai
+Flut                     noun   grade=3-4 topic=geo.water role=prod conf=70 src=ai
+Hafen                    noun   grade=3-4 topic=geo.water role=prod conf=80 src=ai
+Nebenfluss               noun   grade=3-4 topic=geo.water role=rec conf=65 src=ai
+Nordsee                  noun   grade=3-4 topic=geo.water role=prod conf=80 src=ai
+Ostsee                   propn  grade=3-4 topic=geo.water role=prod conf=80 src=ai
+Ozean                    noun   grade=3-4 topic=geo.water role=prod conf=75 src=ai
+Rhein                    propn  grade=3-4 topic=geo.water role=prod conf=80 src=ai
+Ufer                     noun   grade=3-4 topic=geo.water role=prod conf=75 src=ai
+Wasserkreislauf          noun   grade=3-4 topic=geo.water role=rec conf=65 src=ai
+Wattenmeer               noun   grade=3-4 topic=geo.water role=rec conf=65 src=ai

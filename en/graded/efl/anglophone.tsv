@@ -1,0 +1,79 @@
+# English EFL graded vocabulary, topic group `anglophone` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 5-6 · anglophone.uk
+Britain                  propn  grade=5-6 cefr=A1 topic=anglophone.uk role=prod conf=80 src=ai
+British                  adj    grade=5-6 cefr=A1 topic=anglophone.uk role=prod conf=80 src=ai
+England                  propn  grade=5-6 cefr=A1 topic=anglophone.uk role=prod conf=70 src=ai
+Ireland                  propn  grade=5-6 cefr=A2 topic=anglophone.uk role=prod conf=55 src=ai
+London                   propn  grade=5-6 cefr=A1 topic=anglophone.uk role=prod conf=85 src=ai
+Scotland                 propn  grade=5-6 cefr=A2 topic=anglophone.uk role=prod conf=55 src=ai
+Thames                   propn  grade=5-6 cefr=A2 topic=anglophone.uk role=rec conf=65 src=ai
+UK                       propn  grade=5-6 cefr=A1 topic=anglophone.uk role=prod conf=75 src=ai
+Wales                    propn  grade=5-6 cefr=A2 topic=anglophone.uk role=rec conf=55 src=ai
+
+# grade 5-6 · anglophone.us
+USA                      propn  grade=5-6 cefr=A1 topic=anglophone.us role=prod conf=65 src=ai
+
+# grade 7-8 · anglophone.commonwealth
+Aboriginal               adj    grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=65 src=ai
+Aborigine                noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=55 src=ai
+Australia                propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=65 src=ai
+Australian               adj    grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=65 src=ai
+Australian               noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=60 src=ai
+boomerang                noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
+Canadian                 adj    grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=60 src=ai
+Canberra                 propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
+Melbourne                propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
+outback                  noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=65 src=ai
+sunscreen                noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=60 src=ai
+Sydney                   propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=65 src=ai
+
+# grade 7-8 · anglophone.uk
+bagpipe                  noun   grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+Belfast                  propn  grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+Celtic                   adj    grade=7-8 cefr=B1 topic=anglophone.uk role=rec conf=60 src=ai
+clan                     noun   grade=7-8 cefr=B1 topic=anglophone.uk role=rec conf=60 src=ai
+county                   noun   grade=7-8 cefr=B1 topic=anglophone.uk|anglophone.us role=rec conf=55 src=ai|freq
+Dublin                   propn  grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=65 src=ai
+Edinburgh                propn  grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+Gaelic                   adj    grade=7-8 cefr=B1 topic=anglophone.uk role=rec conf=60 src=ai
+Glasgow                  propn  grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+highland                 noun   grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+Irish                    adj    grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=65 src=ai
+kilt                     noun   grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=65 src=ai
+kingdom                  noun   grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=60 src=ai
+loch                     noun   grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=65 src=ai
+monarchy                 noun   grade=7-8 cefr=B1 topic=anglophone.uk role=rec conf=55 src=ai
+pub                      noun   grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=60 src=ai
+royal                    adj    grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=60 src=ai
+Scottish                 adj    grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=65 src=ai
+tartan                   noun   grade=7-8 cefr=A2 topic=anglophone.uk role=rec conf=60 src=ai
+Welsh                    adj    grade=7-8 cefr=A2 topic=anglophone.uk role=prod conf=60 src=ai
+
+# grade 7-8 · anglophone.us
+Alaska                   propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai
+California               propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=65 src=ai
+Chicago                  propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai
+cowboy                   noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+diverse                  adj    grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=60 src=ai
+fall                     noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+Florida                  propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai
+Hawaii                   propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai
+Hollywood                propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=65 src=ai
+immigrant                noun   grade=7-8 cefr=B1 topic=anglophone.us role=prod conf=65 src=ai
+immigration              noun   grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=65 src=ai
+independence             noun   grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=65 src=ai
+nation                   noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=65 src=ai
+national                 adj    grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=65 src=ai
+native                   adj    grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=65 src=ai
+president                noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+ranch                    noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+settler                  noun   grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=65 src=ai
+state                    noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+Texas                    propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=65 src=ai
+Thanksgiving             propn  grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=70 src=ai
+tribe                    noun   grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=65 src=ai
+vacation                 noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
+Washington               propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai

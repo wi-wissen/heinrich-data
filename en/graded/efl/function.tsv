@@ -1,0 +1,347 @@
+# English EFL graded vocabulary, topic group `function` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · function.adverb
+again                    adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=85 src=ai
+also                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=80 src=ai
+always                   adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=75 src=ai
+away                     adv    grade=3-4 cefr=A1 topic=function.adverb|space role=prod conf=70 src=ai
+back                     adv    grade=3-4 cefr=A1 topic=function.adverb|space role=prod conf=70 src=ai
+here                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=92 src=ai
+home                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=80 src=ai
+just                     adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=65 src=ai
+much                     adv    grade=3-4 cefr=A1 topic=function.adverb role=rec conf=65 src=ai
+never                    adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=75 src=ai
+not                      part   grade=3-4 cefr=A1 topic=function.adverb role=prod conf=95 src=ai
+now                      adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=90 src=ai
+often                    adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=70 src=ai
+only                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=65 src=ai
+please                   adv    grade=3-4 cefr=A1 topic=function.adverb|communication role=prod conf=98 src=ai
+really                   adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=75 src=ai
+so                       adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=70 src=ai
+sometimes                adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=70 src=ai
+then                     adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=70 src=ai
+there                    adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=90 src=ai
+together                 adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=75 src=ai
+too                      adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=88 src=ai
+usually                  adv    grade=3-4 cefr=A1 topic=function.adverb|time.relations role=prod conf=65 src=ai
+very                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=92 src=ai
+well                     adv    grade=3-4 cefr=A1 topic=function.adverb role=prod conf=75 src=ai
+
+# grade 3-4 · function.article
+a                        det    grade=3-4 cefr=A1 topic=function.article role=prod conf=98 src=ai
+all                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=85 src=ai
+an                       det    grade=3-4 cefr=A1 topic=function.article role=prod conf=95 src=ai
+another                  det    grade=3-4 cefr=A1 topic=function.article role=prod conf=70 src=ai
+any                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=75 src=ai
+both                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=65 src=ai
+every                    det    grade=3-4 cefr=A1 topic=function.article role=prod conf=75 src=ai
+her                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=90 src=ai
+his                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=90 src=ai
+its                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=75 src=ai
+many                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=85 src=ai
+more                     det    grade=3-4 cefr=A1 topic=function.article|numbers role=prod conf=70 src=ai
+much                     det    grade=3-4 cefr=A1 topic=function.article|numbers role=prod conf=75 src=ai
+my                       det    grade=3-4 cefr=A1 topic=function.article role=prod conf=98 src=ai
+no                       det    grade=3-4 cefr=A1 topic=function.article role=prod conf=85 src=ai
+other                    det    grade=3-4 cefr=A1 topic=function.article role=prod conf=70 src=ai
+our                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=85 src=ai
+some                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=85 src=ai
+that                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=92 src=ai
+the                      det    grade=3-4 cefr=A1 topic=function.article role=prod conf=98 src=ai
+their                    det    grade=3-4 cefr=A1 topic=function.article role=prod conf=80 src=ai
+this                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=95 src=ai
+your                     det    grade=3-4 cefr=A1 topic=function.article role=prod conf=95 src=ai
+
+# grade 3-4 · function.auxiliary
+be                       aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=98 src=ai
+can                      aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=95 src=ai
+do                       aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=92 src=ai
+have                     aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=95 src=ai
+must                     aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=65 src=ai
+will                     aux    grade=3-4 cefr=A1 topic=function.auxiliary role=prod conf=70 src=ai
+
+# grade 3-4 · function.conjunction
+and                      cconj  grade=3-4 cefr=A1 topic=function.conjunction role=prod conf=98 src=ai
+because                  sconj  grade=3-4 cefr=A1 topic=function.conjunction role=prod conf=75 src=ai
+but                      cconj  grade=3-4 cefr=A1 topic=function.conjunction role=prod conf=85 src=ai
+or                       cconj  grade=3-4 cefr=A1 topic=function.conjunction role=prod conf=90 src=ai
+so                       cconj  grade=3-4 cefr=A1 topic=function.conjunction role=prod conf=65 src=ai
+when                     sconj  grade=3-4 cefr=A1 topic=function.conjunction|time.relations role=prod conf=65 src=ai
+
+# grade 3-4 · function.preposition
+about                    adp    grade=3-4 cefr=A1 topic=function.preposition role=rec conf=70 src=ai
+after                    adp    grade=3-4 cefr=A1 topic=function.preposition|time.relations role=prod conf=75 src=ai
+around                   adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=65 src=ai
+at                       adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=90 src=ai
+before                   adp    grade=3-4 cefr=A1 topic=function.preposition|time.relations role=prod conf=70 src=ai
+behind                   adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=90 src=ai
+between                  adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=75 src=ai
+by                       adp    grade=3-4 cefr=A1 topic=function.preposition|transport role=prod conf=65 src=ai
+down                     adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=85 src=ai
+for                      adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=88 src=ai
+from                     adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=92 src=ai
+in                       adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=98 src=ai
+inside                   adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=65 src=ai
+into                     adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=70 src=ai
+like                     adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=70 src=ai
+near                     adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=70 src=ai
+next                     adj    grade=3-4 cefr=A1 topic=function.preposition|time.relations role=prod conf=85 src=ai
+of                       adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=88 src=ai
+off                      adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=70 src=ai
+on                       adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=98 src=ai
+out                      adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=80 src=ai
+outside                  adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=65 src=ai
+over                     adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=70 src=ai
+to                       adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=92 src=ai
+under                    adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=95 src=ai
+up                       adp    grade=3-4 cefr=A1 topic=function.preposition|space role=prod conf=85 src=ai
+with                     adp    grade=3-4 cefr=A1 topic=function.preposition role=prod conf=90 src=ai
+
+# grade 3-4 · function.pronoun
+everybody                pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+he                       pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=95 src=ai
+I                        pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=98 src=ai
+it                       pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=95 src=ai
+mine                     pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+nothing                  pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=65 src=ai
+one                      pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=65 src=ai
+she                      pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=95 src=ai
+something                pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=65 src=ai
+that:dem                 pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=88 src=ai
+they                     pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=88 src=ai
+this                     pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=90 src=ai
+we                       pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=90 src=ai
+you                      pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=98 src=ai
+yours                    pron   grade=3-4 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+
+# grade 3-4 · function.question
+how                      adv    grade=3-4 cefr=A1 topic=function.question role=prod conf=92 src=ai
+what                     det    grade=3-4 cefr=A1 topic=function.question role=prod conf=90 src=ai
+what                     pron   grade=3-4 cefr=A1 topic=function.question role=prod conf=98 src=ai
+when                     adv    grade=3-4 cefr=A1 topic=function.question|time.relations role=prod conf=85 src=ai
+where                    adv    grade=3-4 cefr=A1 topic=function.question role=prod conf=92 src=ai
+which                    det    grade=3-4 cefr=A1 topic=function.question|function.article role=prod conf=70 src=ai
+who                      pron   grade=3-4 cefr=A1 topic=function.question role=prod conf=92 src=ai
+whose                    pron   grade=3-4 cefr=A1 topic=function.question|function.pronoun role=prod conf=65 src=ai
+why                      adv    grade=3-4 cefr=A1 topic=function.question role=prod conf=75 src=ai
+
+# grade 5-6 · function.adverb
+ago                      adv    grade=5-6 cefr=A1 topic=function.adverb|time.relations role=prod conf=85 src=ai
+almost                   adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+alone                    adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+already                  adv    grade=5-6 cefr=A2 topic=function.adverb|time.relations role=prod conf=70 src=ai
+anywhere                 adv    grade=5-6 cefr=A2 topic=function.adverb|space role=prod conf=60 src=ai
+badly                    adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+carefully                adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+easily                   adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=55 src=ai
+else                     adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+enough                   adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+even                     adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=70 src=ai|freq
+ever                     adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+everywhere               adv    grade=5-6 cefr=A2 topic=function.adverb|space role=prod conf=65 src=ai
+exactly                  adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=55 src=ai
+far                      adv    grade=5-6 cefr=A1 topic=function.adverb|space role=prod conf=70 src=ai
+finally                  adv    grade=5-6 cefr=A2 topic=function.adverb|time.relations role=prod conf=70 src=ai
+happily                  adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=55 src=ai
+loudly                   adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=55 src=ai
+luckily                  adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+maybe                    adv    grade=5-6 cefr=A1 topic=function.adverb role=prod conf=70 src=ai
+more                     adv    grade=5-6 cefr=A1 topic=function.adverb|qualities role=prod conf=70 src=ai
+most                     adv    grade=5-6 cefr=A2 topic=function.adverb|qualities role=prod conf=65 src=ai
+nearly                   adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+next                     adv    grade=5-6 cefr=A1 topic=function.adverb|time.relations role=prod conf=70 src=ai
+nowhere                  adv    grade=5-6 cefr=A2 topic=function.adverb|space role=prod conf=55 src=ai
+perhaps                  adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+quickly                  adv    grade=5-6 cefr=A1 topic=function.adverb role=prod conf=70 src=ai
+quietly                  adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+quite                    adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+slowly                   adv    grade=5-6 cefr=A1 topic=function.adverb role=prod conf=65 src=ai
+somewhere                adv    grade=5-6 cefr=A2 topic=function.adverb|space role=prod conf=65 src=ai
+soon                     adv    grade=5-6 cefr=A1 topic=function.adverb|time.relations role=prod conf=70 src=ai
+still                    adv    grade=5-6 cefr=A2 topic=function.adverb|time.relations role=prod conf=65 src=ai
+suddenly                 adv    grade=5-6 cefr=A2 topic=function.adverb|time.relations role=prod conf=75 src=ai
+unfortunately            adv    grade=5-6 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+yet                      adv    grade=5-6 cefr=A2 topic=function.adverb|time.relations role=prod conf=60 src=ai
+
+# grade 5-6 · function.article
+each                     det    grade=5-6 cefr=A2 topic=function.article role=prod conf=65 src=ai
+either                   det    grade=5-6 cefr=A2 topic=function.article role=prod conf=55 src=ai
+enough                   det    grade=5-6 cefr=A2 topic=function.article|numbers role=prod conf=65 src=ai
+few                      det    grade=5-6 cefr=A2 topic=function.article role=prod conf=60 src=ai
+less                     det    grade=5-6 cefr=A2 topic=function.article|numbers role=prod conf=55 src=ai
+little                   det    grade=5-6 cefr=A2 topic=function.article|numbers role=prod conf=60 src=ai
+most                     det    grade=5-6 cefr=A2 topic=function.article|numbers role=prod conf=65 src=ai
+several                  det    grade=5-6 cefr=A2 topic=function.article role=prod conf=55 src=ai
+whose                    det    grade=5-6 cefr=A2 topic=function.article|function.question role=prod conf=70 src=ai
+
+# grade 5-6 · function.auxiliary
+able                     adj    grade=5-6 cefr=A2 topic=function.auxiliary|qualities role=prod conf=75 src=ai|freq
+cannot                   aux    grade=5-6 cefr=A1 topic=function.auxiliary role=prod conf=75 src=ai|freq
+may                      aux    grade=5-6 cefr=A2 topic=function.auxiliary role=rec conf=60 src=ai
+shall                    aux    grade=5-6 cefr=A2 topic=function.auxiliary role=prod conf=65 src=ai
+
+# grade 5-6 · function.conjunction
+after                    sconj  grade=5-6 cefr=A2 topic=function.conjunction|time.relations role=prod conf=70 src=ai
+before                   sconj  grade=5-6 cefr=A2 topic=function.conjunction|time.relations role=prod conf=70 src=ai
+if                       sconj  grade=5-6 cefr=A1 topic=function.conjunction role=prod conf=75 src=ai
+than                     sconj  grade=5-6 cefr=A1 topic=function.conjunction role=prod conf=80 src=ai
+that                     sconj  grade=5-6 cefr=A2 topic=function.conjunction role=prod conf=65 src=ai
+till                     sconj  grade=5-6 cefr=A2 topic=function.conjunction|time.relations role=rec conf=55 src=ai|freq
+until                    sconj  grade=5-6 cefr=A2 topic=function.conjunction|time.relations role=prod conf=65 src=ai
+while                    sconj  grade=5-6 cefr=A2 topic=function.conjunction|time.relations role=prod conf=70 src=ai
+
+# grade 5-6 · function.preposition
+above                    adp    grade=5-6 cefr=A1 topic=function.preposition|space role=prod conf=70 src=ai
+across                   adp    grade=5-6 cefr=A2 topic=function.preposition|space role=prod conf=70 src=ai
+against                  adp    grade=5-6 cefr=A2 topic=function.preposition|sports role=prod conf=65 src=ai
+along                    adp    grade=5-6 cefr=A2 topic=function.preposition|space role=prod conf=75 src=ai
+below                    adp    grade=5-6 cefr=A2 topic=function.preposition|space role=prod conf=65 src=ai
+during                   adp    grade=5-6 cefr=A2 topic=function.preposition|time.relations role=prod conf=65 src=ai
+except                   adp    grade=5-6 cefr=A2 topic=function.preposition role=prod conf=55 src=ai
+opposite                 adp    grade=5-6 cefr=A1 topic=function.preposition|space|town role=prod conf=80 src=ai
+past                     adp    grade=5-6 cefr=A1 topic=function.preposition|space|time.clock role=prod conf=80 src=ai
+round                    adp    grade=5-6 cefr=A2 topic=function.preposition|space role=rec conf=60 src=ai
+through                  adp    grade=5-6 cefr=A2 topic=function.preposition|space role=prod conf=70 src=ai
+towards                  adp    grade=5-6 cefr=A2 topic=function.preposition|space role=prod conf=60 src=ai
+until                    adp    grade=5-6 cefr=A2 topic=function.preposition|time.relations role=prod conf=70 src=ai
+without                  adp    grade=5-6 cefr=A2 topic=function.preposition role=prod conf=70 src=ai
+
+# grade 5-6 · function.pronoun
+anybody                  pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=65 src=ai
+anyone                   pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=65 src=ai
+anything                 pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=75 src=ai
+everyone                 pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+everything               pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=75 src=ai
+hers                     pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=65 src=ai
+herself                  pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=55 src=ai
+himself                  pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=55 src=ai
+itself                   pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=50 src=ai
+myself                   pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=60 src=ai
+nobody                   pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=70 src=ai
+none                     pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=55 src=ai
+ours                     pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=65 src=ai
+ourselves                pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=50 src=ai
+somebody                 pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+someone                  pron   grade=5-6 cefr=A1 topic=function.pronoun role=prod conf=70 src=ai
+theirs                   pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=60 src=ai
+themselves               pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=50 src=ai
+yourself                 pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=60 src=ai
+yourselves               pron   grade=5-6 cefr=A2 topic=function.pronoun role=prod conf=50 src=ai
+
+# grade 5-6 · function.question
+which                    pron   grade=5-6 cefr=A1 topic=function.question role=prod conf=70 src=ai
+
+# grade 7-8 · function.adverb
+abroad                   adv    grade=7-8 cefr=A2 topic=function.adverb|travel role=prod conf=75 src=ai
+absolutely               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+actually                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+afterwards               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+ahead                    adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+angrily                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+anymore                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+anyway                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+apart                    adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+backwards                adv    grade=7-8 cefr=A2 topic=function.adverb role=rec conf=65 src=ai
+besides                  adv    grade=7-8 cefr=B1 topic=function.adverb role=prod conf=65 src=ai
+certainly                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+clearly                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+completely               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+correctly                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+definitely               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+differently              adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+elsewhere                adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+especially               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+eventually               adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+extremely                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+firstly                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+forever                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+fortunately              adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+frequently               adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+further                  adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=60 src=ai
+furthermore              adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+generally                adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+hardly                   adv    grade=7-8 cefr=B1 topic=function.adverb role=prod conf=70 src=ai
+honestly                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+hopefully                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+however                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+immediately              adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+incredibly               adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+indeed                   adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+instead                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+lastly                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+lately                   adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+mainly                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+meanwhile                adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+moreover                 adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+mostly                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+nervously                adv    grade=7-8 cefr=A2 topic=function.adverb role=rec conf=65 src=ai
+nowadays                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+obviously                adv    grade=7-8 cefr=B1 topic=function.adverb role=prod conf=65 src=ai
+otherwise                adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+patiently                adv    grade=7-8 cefr=A2 topic=function.adverb role=rec conf=65 src=ai
+personally               adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+politely                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+possibly                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+probably                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+properly                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+rarely                   adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+rather                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+recently                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=75 src=ai
+regularly                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+secondly                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+seriously                adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+similarly                adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=60 src=ai
+simply                   adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+slightly                 adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+somehow                  adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=70 src=ai
+straight                 adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=60 src=ai
+successfully             adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=65 src=ai
+therefore                adv    grade=7-8 cefr=B1 topic=function.adverb role=prod conf=70 src=ai
+thus                     adv    grade=7-8 cefr=B1 topic=function.adverb role=rec conf=55 src=ai
+totally                  adv    grade=7-8 cefr=A2 topic=function.adverb role=prod conf=70 src=ai
+whenever                 sconj  grade=7-8 cefr=A2 topic=function.adverb|function.conjunction role=prod conf=70 src=ai
+wherever                 sconj  grade=7-8 cefr=A2 topic=function.adverb|function.conjunction role=prod conf=65 src=ai
+
+# grade 7-8 · function.article
+fewer                    det    grade=7-8 cefr=B1 topic=function.article role=rec conf=65 src=ai
+least                    det    grade=7-8 cefr=A2 topic=function.article role=prod conf=70 src=ai
+neither                  det    grade=7-8 cefr=A2 topic=function.article role=prod conf=70 src=ai
+such                     det    grade=7-8 cefr=A2 topic=function.article role=prod conf=70 src=ai
+
+# grade 7-8 · function.auxiliary
+ought                    aux    grade=7-8 cefr=B1 topic=function.auxiliary role=prod conf=65 src=ai
+
+# grade 7-8 · function.conjunction
+although                 sconj  grade=7-8 cefr=A2 topic=function.conjunction role=prod conf=80 src=ai
+as                       sconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=60 src=ai
+nor                      cconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=65 src=ai
+once                     sconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=60 src=ai
+since                    sconj  grade=7-8 cefr=A2 topic=function.conjunction role=prod conf=70 src=ai
+though                   sconj  grade=7-8 cefr=A2 topic=function.conjunction role=prod conf=70 src=ai
+unless                   sconj  grade=7-8 cefr=B1 topic=function.conjunction role=prod conf=70 src=ai
+whereas                  sconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=60 src=ai
+whether                  sconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=70 src=ai
+yet                      cconj  grade=7-8 cefr=B1 topic=function.conjunction role=rec conf=60 src=ai
+
+# grade 7-8 · function.preposition
+among                    adp    grade=7-8 cefr=A2 topic=function.preposition role=prod conf=70 src=ai
+beside                   adp    grade=7-8 cefr=A2 topic=function.preposition role=prod conf=65 src=ai
+besides                  adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=65 src=ai
+beyond                   adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=70 src=ai
+despite                  adp    grade=7-8 cefr=B1 topic=function.preposition role=prod conf=70 src=ai
+including                adp    grade=7-8 cefr=A2 topic=function.preposition role=prod conf=65 src=ai
+per                      adp    grade=7-8 cefr=A2 topic=function.preposition role=prod conf=65 src=ai
+throughout               adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=70 src=ai
+unlike                   adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=65 src=ai
+upon                     adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=55 src=ai
+via                      adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=60 src=ai
+within                   adp    grade=7-8 cefr=B1 topic=function.preposition role=rec conf=70 src=ai
+
+# grade 7-8 · function.pronoun
+either                   pron   grade=7-8 cefr=A2 topic=function.pronoun role=prod conf=70 src=ai
+neither                  pron   grade=7-8 cefr=A2 topic=function.pronoun role=prod conf=70 src=ai
+whatever                 pron   grade=7-8 cefr=A2 topic=function.pronoun role=prod conf=70 src=ai
+whichever                pron   grade=7-8 cefr=B1 topic=function.pronoun role=rec conf=65 src=ai
+whoever                  pron   grade=7-8 cefr=B1 topic=function.pronoun role=rec conf=65 src=ai

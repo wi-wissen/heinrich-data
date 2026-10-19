@@ -1,0 +1,7 @@
+# English EFL graded vocabulary, topic group `politics` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · politics
+minister                 noun   grade=7-8 cefr=B1 topic=politics|anglophone.uk role=rec conf=50 src=ai|freq
+vote                     verb   grade=7-8 cefr=B1 topic=politics|school role=rec conf=55 src=ai|freq

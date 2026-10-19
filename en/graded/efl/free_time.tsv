@@ -1,0 +1,36 @@
+# English EFL graded vocabulary, topic group `free_time` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · free_time
+play                     verb   grade=3-4 cefr=A1 topic=free_time|toys role=prod conf=98 src=ai
+watch                    verb   grade=3-4 cefr=A1 topic=free_time|actions.perception role=prod conf=85 src=ai
+
+# grade 5-6 · free_time
+activity                 noun   grade=5-6 cefr=A2 topic=free_time role=prod conf=65 src=ai
+camera                   noun   grade=5-6 cefr=A1 topic=free_time|technology role=prod conf=70 src=ai
+camping                  noun   grade=5-6 cefr=A1 topic=free_time|travel role=prod conf=70 src=ai
+card                     noun   grade=5-6 cefr=A1 topic=free_time|celebrations role=prod conf=65 src=ai
+chess                    noun   grade=5-6 cefr=A1 topic=free_time|toys role=prod conf=65 src=ai
+club                     noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=80 src=ai
+collection               noun   grade=5-6 cefr=A2 topic=free_time role=prod conf=65 src=ai
+comic                    noun   grade=5-6 cefr=A1 topic=free_time|media role=prod conf=75 src=ai
+fish                     verb   grade=5-6 cefr=A2 topic=free_time role=rec conf=55 src=ai
+free                     adj    grade=5-6 cefr=A1 topic=free_time|shopping role=prod conf=75 src=ai
+fun                      noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=70 src=ai
+hobby                    noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=85 src=ai
+join                     verb   grade=5-6 cefr=A2 topic=free_time role=prod conf=65 src=ai
+magazine                 noun   grade=5-6 cefr=A1 topic=free_time|media role=prod conf=70 src=ai
+member                   noun   grade=5-6 cefr=A2 topic=free_time role=prod conf=65 src=ai
+photo                    noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=70 src=ai
+relax                    verb   grade=5-6 cefr=A2 topic=free_time role=prod conf=70 src=ai
+skate                    verb   grade=5-6 cefr=A2 topic=free_time|sports role=prod conf=60 src=ai
+skateboard               noun   grade=5-6 cefr=A1 topic=free_time|sports role=prod conf=70 src=ai
+stamp                    noun   grade=5-6 cefr=A2 topic=free_time role=rec conf=55 src=ai
+sticker                  noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=60 src=ai
+
+# grade 7-8 · free_time
+event                    noun   grade=7-8 cefr=B1 topic=free_time|celebrations role=rec conf=60 src=ai|freq
+leisure                  noun   grade=7-8 cefr=B1 topic=free_time role=rec conf=65 src=ai
+membership               noun   grade=7-8 cefr=B1 topic=free_time role=rec conf=60 src=ai
+spare                    adj    grade=7-8 cefr=A2 topic=free_time role=prod conf=65 src=ai

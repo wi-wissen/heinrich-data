@@ -1,0 +1,6 @@
+# English EFL graded vocabulary, topic group `literature` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · literature
+setting                  noun   grade=7-8 cefr=B1 topic=literature role=rec conf=55 src=ai|freq

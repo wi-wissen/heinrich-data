@@ -1,0 +1,129 @@
+# German L1 graded vocabulary, area `arts_music` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · art.analysis
+Bilderrahmen             noun   grade=1-2 topic=art.analysis role=prod conf=75 src=ai
+
+# grade 1-2 · art.techniques
+Bastelpapier             noun   grade=1-2 topic=art.techniques role=prod conf=70 src=ai
+falten                   verb   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+Farbkasten               noun   grade=1-2 topic=art.techniques role=prod conf=80 src=ai
+Knete                    noun   grade=1-2 topic=art.techniques role=prod conf=80 src=ai
+Kunst                    noun   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+Linie                    noun   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+Malkasten                noun   grade=1-2 topic=art.techniques role=prod conf=80 src=ai
+Maske                    noun   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+mischen                  verb   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+Muster                   noun   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+Pinsel                   noun   grade=1-2 topic=art.techniques role=prod conf=90 src=ai
+Stempel                  noun   grade=1-2 topic=art.techniques role=prod conf=80 src=ai
+Tonpapier                noun   grade=1-2 topic=art.techniques role=prod conf=70 src=ai
+Wachsmalstift            noun   grade=1-2 topic=art.techniques role=prod conf=80 src=ai
+Wasserfarbe              noun   grade=1-2 topic=art.techniques role=prod conf=85 src=ai
+
+# grade 1-2 · drama
+Handpuppe                noun   grade=1-2 topic=drama role=prod conf=75 src=ai
+Kasper                   noun   grade=1-2 topic=drama role=prod conf=75 src=ai
+Kostüm                   noun   grade=1-2 topic=drama role=prod conf=85 src=ai
+Puppentheater            noun   grade=1-2 topic=drama role=prod conf=75 src=ai
+Theater                  noun   grade=1-2 topic=drama role=prod conf=85 src=ai
+verkleiden               verb   grade=1-2 topic=drama role=prod conf=85 src=ai
+
+# grade 1-2 · music.instruments
+Blockflöte               noun   grade=1-2 topic=music.instruments role=prod conf=80 src=ai
+Flöte                    noun   grade=1-2 topic=music.instruments role=prod conf=85 src=ai
+Geige                    noun   grade=1-2 topic=music.instruments role=prod conf=85 src=ai
+Gitarre                  noun   grade=1-2 topic=music.instruments role=prod conf=90 src=ai
+Glockenspiel             noun   grade=1-2 topic=music.instruments role=prod conf=75 src=ai
+Instrument               noun   grade=1-2 topic=music.instruments role=prod conf=85 src=ai
+Klavier                  noun   grade=1-2 topic=music.instruments role=prod conf=90 src=ai
+Rassel                   noun   grade=1-2 topic=music.instruments role=prod conf=80 src=ai
+Tamburin                 noun   grade=1-2 topic=music.instruments role=prod conf=70 src=ai
+Triangel                 noun   grade=1-2 topic=music.instruments role=prod conf=80 src=ai
+Trommel                  noun   grade=1-2 topic=music.instruments role=prod conf=90 src=ai
+Trompete                 noun   grade=1-2 topic=music.instruments role=prod conf=85 src=ai
+Xylofon                  noun   grade=1-2 topic=music.instruments role=prod conf=70 src=ai
+
+# grade 1-2 · music.practice
+Kinderlied               noun   grade=1-2 topic=music.practice role=prod conf=80 src=ai
+Lied                     noun   grade=1-2 topic=music.practice role=prod conf=95 src=ai
+Musik                    noun   grade=1-2 topic=music.practice role=prod conf=95 src=ai
+singen                   verb   grade=1-2 topic=music.practice role=prod conf=95 src=ai
+Sänger                   noun   grade=1-2 topic=music.practice role=prod conf=85 src=ai
+
+# grade 3-4 · art.analysis
+Ausstellung              noun   grade=3-4 topic=art.analysis role=rec conf=70 src=ai
+Gemälde                  noun   grade=3-4 topic=art.analysis role=rec conf=70 src=ai
+Hintergrund              noun   grade=3-4 topic=art.analysis role=prod conf=70 src=ai
+Künstler                 noun   grade=3-4 topic=art.analysis role=prod conf=75 src=ai
+Künstlerin               noun   grade=3-4 topic=art.analysis role=prod conf=75 src=ai
+Maler                    noun   grade=3-4 topic=art.analysis role=prod conf=75 src=ai
+Porträt                  noun   grade=3-4 topic=art.analysis role=rec conf=70 src=ai
+Selbstporträt            noun   grade=3-4 topic=art.analysis role=rec conf=70 src=ai
+Vordergrund              noun   grade=3-4 topic=art.analysis role=prod conf=70 src=ai
+
+# grade 3-4 · art.techniques
+Collage                  noun   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+Deckfarbe                noun   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+Druck:print              noun   grade=3-4 topic=art.techniques role=rec conf=65 src=ai
+drucken                  verb   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+Fläche                   noun   grade=3-4 topic=art.techniques role=prod conf=70 src=ai
+formen                   verb   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+gestalten                verb   grade=3-4 topic=art.techniques role=rec conf=70 src=ai
+Grundfarbe               noun   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+Kunstwerk                noun   grade=3-4 topic=art.techniques role=rec conf=70 src=ai
+Mischfarbe               noun   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+schraffieren             verb   grade=3-4 topic=art.techniques role=rec conf=60 src=ai
+Skizze                   noun   grade=3-4 topic=art.techniques role=prod conf=75 src=ai
+Ton:clay                 noun   grade=3-4 topic=art.techniques role=prod conf=70 src=ai
+töpfern                  verb   grade=3-4 topic=art.techniques role=prod conf=65 src=ai
+
+# grade 3-4 · drama
+aufführen                verb   grade=3-4 topic=drama role=prod conf=70 src=ai
+Pantomime:art            noun   grade=3-4 topic=drama role=rec conf=65 src=ai
+proben                   verb   grade=3-4 topic=drama role=prod conf=70 src=ai
+Rolle                    noun   grade=3-4 topic=drama role=prod conf=75 src=ai
+Rollenspiel              noun   grade=3-4 topic=drama role=prod conf=70 src=ai
+Schauspieler             noun   grade=3-4 topic=drama role=prod conf=80 src=ai
+Schauspielerin           noun   grade=3-4 topic=drama role=prod conf=80 src=ai
+Szene                    noun   grade=3-4 topic=drama role=rec conf=65 src=ai
+
+# grade 3-4 · music.history
+Komponist                noun   grade=3-4 topic=music.history role=rec conf=62 src=ai|freq
+
+# grade 3-4 · music.instruments
+Blasinstrument           noun   grade=3-4 topic=music.instruments role=rec conf=65 src=ai
+Pauke                    noun   grade=3-4 topic=music.instruments role=prod conf=65 src=ai
+Saiteninstrument         noun   grade=3-4 topic=music.instruments role=rec conf=65 src=ai
+Schlaginstrument         noun   grade=3-4 topic=music.instruments role=rec conf=65 src=ai
+Schlagzeug               noun   grade=3-4 topic=music.instruments role=prod conf=75 src=ai
+Streichinstrument        noun   grade=3-4 topic=music.instruments role=rec conf=60 src=ai
+Taste                    noun   grade=3-4 topic=music.instruments role=prod conf=70 src=ai
+Tasteninstrument         noun   grade=3-4 topic=music.instruments role=rec conf=60 src=ai
+
+# grade 3-4 · music.practice
+Bühne                    noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Chor                     noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Kanon                    noun   grade=3-4 topic=music.practice role=prod conf=65 src=ai
+Klang                    noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Konzert                  noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Liedtext                 noun   grade=3-4 topic=music.practice role=prod conf=70 src=ai
+Musiker                  noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+musizieren               verb   grade=3-4 topic=music.practice role=prod conf=70 src=ai
+Orchester                noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Refrain                  noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+Strophe                  noun   grade=3-4 topic=music.practice role=prod conf=75 src=ai
+
+# grade 3-4 · music.theory
+Achtelnote               noun   grade=3-4 topic=music.theory role=rec conf=60 src=ai
+Melodie                  noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Note                     noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Notenlinie               noun   grade=3-4 topic=music.theory role=rec conf=65 src=ai
+Notenschlüssel           noun   grade=3-4 topic=music.theory role=rec conf=65 src=ai
+Rhythmus                 noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Takt                     noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Tempo                    noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Ton:sound                noun   grade=3-4 topic=music.theory role=prod conf=70 src=ai
+Tonleiter                noun   grade=3-4 topic=music.theory role=rec conf=60 src=ai
+Viertelnote              noun   grade=3-4 topic=music.theory role=rec conf=60 src=ai

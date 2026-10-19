@@ -1,0 +1,47 @@
+# English EFL graded vocabulary, topic group `town` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · town
+shop                     noun   grade=3-4 cefr=A1 topic=town|shopping role=prod conf=85 src=ai
+street                   noun   grade=3-4 cefr=A1 topic=town role=prod conf=75 src=ai
+supermarket              noun   grade=3-4 cefr=A1 topic=town|shopping role=prod conf=75 src=ai
+
+# grade 5-6 · town
+airport                  noun   grade=5-6 cefr=A1 topic=town|transport|travel role=prod conf=70 src=ai
+bakery                   noun   grade=5-6 cefr=A2 topic=town|shopping role=prod conf=65 src=ai
+bank                     noun   grade=5-6 cefr=A1 topic=town|shopping role=prod conf=70 src=ai
+bookshop                 noun   grade=5-6 cefr=A2 topic=town|shopping role=prod conf=65 src=ai
+bridge                   noun   grade=5-6 cefr=A1 topic=town role=prod conf=75 src=ai
+building                 noun   grade=5-6 cefr=A1 topic=town role=prod conf=75 src=ai
+cafe                     noun   grade=5-6 cefr=A1 topic=town|food role=prod conf=70 src=ai
+center                   noun   grade=5-6 cefr=A1 topic=town role=prod conf=70 src=ai
+chemist                  noun   grade=5-6 cefr=A2 topic=town|shopping|anglophone.uk role=rec conf=60 src=ai
+church                   noun   grade=5-6 cefr=A1 topic=town role=prod conf=75 src=ai
+cinema                   noun   grade=5-6 cefr=A1 topic=town|music_arts role=prod conf=75 src=ai
+city                     noun   grade=5-6 cefr=A1 topic=town role=prod conf=70 src=ai
+hotel                    noun   grade=5-6 cefr=A1 topic=town|travel role=prod conf=75 src=ai
+market                   noun   grade=5-6 cefr=A1 topic=town|shopping role=prod conf=75 src=ai
+museum                   noun   grade=5-6 cefr=A1 topic=town|travel role=prod conf=80 src=ai
+palace                   noun   grade=5-6 cefr=A2 topic=town|anglophone.uk role=rec conf=65 src=ai
+police                   noun   grade=5-6 cefr=A1 topic=town|jobs role=prod conf=70 src=ai
+pool                     noun   grade=5-6 cefr=A1 topic=town|sports role=prod conf=70 src=ai
+queue                    noun   grade=5-6 cefr=A2 topic=town|shopping|anglophone.uk role=prod conf=65 src=ai
+restaurant               noun   grade=5-6 cefr=A1 topic=town|food role=prod conf=75 src=ai
+road                     noun   grade=5-6 cefr=A1 topic=town role=prod conf=70 src=ai
+sign                     noun   grade=5-6 cefr=A2 topic=town role=prod conf=60 src=ai
+station                  noun   grade=5-6 cefr=A1 topic=town|transport role=prod conf=80 src=ai
+theater                  noun   grade=5-6 cefr=A1 topic=town|music_arts role=prod conf=70 src=ai
+tower                    noun   grade=5-6 cefr=A1 topic=town|anglophone.uk role=prod conf=75 src=ai
+town                     noun   grade=5-6 cefr=A1 topic=town role=prod conf=60 src=ai
+traffic                  noun   grade=5-6 cefr=A2 topic=town|transport role=prod conf=65 src=ai
+village                  noun   grade=5-6 cefr=A1 topic=town role=prod conf=70 src=ai
+
+# grade 7-8 · town
+crowd                    noun   grade=7-8 cefr=B1 topic=town|sports role=rec conf=50 src=ai|freq
+downtown                 adv    grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
+downtown                 noun   grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
+mayor                    noun   grade=7-8 cefr=B1 topic=town|politics role=rec conf=50 src=ai|freq
+neighborhood             noun   grade=7-8 cefr=A2 topic=town role=prod conf=65 src=ai
+parking                  noun   grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
+skyscraper               noun   grade=7-8 cefr=A2 topic=town role=prod conf=65 src=ai

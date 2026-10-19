@@ -1,0 +1,144 @@
+# German L1 graded vocabulary, area `sports` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · sports
+Sport                    noun   grade=1-2 topic=sports role=prod conf=95 src=ai
+Sportbeutel              noun   grade=1-2 topic=sports role=prod conf=75 src=ai
+Sporthalle               noun   grade=1-2 topic=sports role=prod conf=80 src=ai
+Sportplatz               noun   grade=1-2 topic=sports role=prod conf=85 src=ai
+Sportunterricht          noun   grade=1-2 topic=sports role=prod conf=80 src=ai
+Turnhalle                noun   grade=1-2 topic=sports role=prod conf=90 src=ai
+Turnschuh                noun   grade=1-2 topic=sports role=prod conf=85 src=ai
+
+# grade 1-2 · sports.athletics
+Start                    noun   grade=1-2 topic=sports.athletics role=prod conf=85 src=ai
+Wettlauf                 noun   grade=1-2 topic=sports.athletics role=prod conf=80 src=ai
+Ziel                     noun   grade=1-2 topic=sports.athletics role=prod conf=90 src=ai
+
+# grade 1-2 · sports.fairness
+fair                     adj    grade=1-2 topic=sports.fairness role=prod conf=80 src=ai
+schummeln                verb   grade=1-2 topic=sports.fairness role=prod conf=85 src=ai
+Spielregel               noun   grade=1-2 topic=sports.fairness role=prod conf=80 src=ai
+
+# grade 1-2 · sports.fitness
+balancieren              verb   grade=1-2 topic=sports.fitness role=prod conf=80 src=ai
+
+# grade 1-2 · sports.games
+Ball                     noun   grade=1-2 topic=sports.games role=prod conf=95 src=ai
+Fußball                  noun   grade=1-2 topic=sports.games role=prod conf=95 src=ai
+Handball                 noun   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+Mannschaft               noun   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+schießen                 verb   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+Spieler                  noun   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+Spielfeld                noun   grade=1-2 topic=sports.games role=prod conf=80 src=ai
+Tor:gate                 noun   grade=1-2 topic=sports.games role=prod conf=95 src=ai
+Torwart                  noun   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+Völkerball               noun   grade=1-2 topic=sports.games role=prod conf=85 src=ai
+
+# grade 1-2 · sports.gymnastics
+Handstand                noun   grade=1-2 topic=sports.gymnastics role=prod conf=80 src=ai
+Kasten                   noun   grade=1-2 topic=sports.gymnastics role=prod conf=80 src=ai
+Langbank                 noun   grade=1-2 topic=sports.gymnastics role=prod conf=70 src=ai
+Matte                    noun   grade=1-2 topic=sports.gymnastics role=prod conf=85 src=ai
+Purzelbaum               noun   grade=1-2 topic=sports.gymnastics role=prod conf=85 src=ai
+Reifen                   noun   grade=1-2 topic=sports.gymnastics role=prod conf=80 src=ai
+Rolle                    noun   grade=1-2 topic=sports.gymnastics role=prod conf=80 src=ai
+Springseil               noun   grade=1-2 topic=sports.gymnastics role=prod conf=75 src=ai
+Sprossenwand             noun   grade=1-2 topic=sports.gymnastics role=prod conf=75 src=ai
+Trampolin                noun   grade=1-2 topic=sports.gymnastics role=prod conf=85 src=ai
+turnen                   verb   grade=1-2 topic=sports.gymnastics role=prod conf=85 src=ai
+
+# grade 1-2 · sports.water
+Badeanzug                noun   grade=1-2 topic=sports.water role=prod conf=85 src=ai
+Badehose                 noun   grade=1-2 topic=sports.water role=prod conf=85 src=ai
+Badekappe                noun   grade=1-2 topic=sports.water role=prod conf=70 src=ai
+Freibad                  noun   grade=1-2 topic=sports.water role=prod conf=85 src=ai
+Hallenbad                noun   grade=1-2 topic=sports.water role=prod conf=80 src=ai
+Nichtschwimmer           noun   grade=1-2 topic=sports.water role=prod conf=75 src=ai
+Schwimmbad               noun   grade=1-2 topic=sports.water role=prod conf=90 src=ai
+Schwimmbrille            noun   grade=1-2 topic=sports.water role=prod conf=80 src=ai
+schwimmen                verb   grade=1-2 topic=sports.water role=prod conf=95 src=ai
+Schwimmflügel            noun   grade=1-2 topic=sports.water role=prod conf=75 src=ai
+Seepferdchen             noun   grade=1-2 topic=sports.water role=prod conf=85 src=ai
+Sprungbrett              noun   grade=1-2 topic=sports.water role=prod conf=80 src=ai
+tauchen                  verb   grade=1-2 topic=sports.water role=prod conf=90 src=ai
+
+# grade 3-4 · sports
+Meisterschaft            noun   grade=3-4 topic=sports role=prod conf=65 src=ai|freq
+Sportler                 noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+Sportverein              noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+Tischtennis              noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+Trainer                  noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+trainieren               verb   grade=3-4 topic=sports role=prod conf=75 src=ai
+Training                 noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+Urkunde                  noun   grade=3-4 topic=sports role=prod conf=70 src=ai
+Verein                   noun   grade=3-4 topic=sports role=prod conf=75 src=ai
+Wettkampf                noun   grade=3-4 topic=sports role=prod conf=70 src=ai
+
+# grade 3-4 · sports.athletics
+Absprung                 noun   grade=3-4 topic=sports.athletics role=rec conf=65 src=ai
+Ausdauerlauf             noun   grade=3-4 topic=sports.athletics role=rec conf=65 src=ai
+Bundesjugendspiele       noun   grade=3-4 topic=sports.athletics role=prod conf=70 src=ai
+Ehrenurkunde             noun   grade=3-4 topic=sports.athletics role=prod conf=65 src=ai
+Hochsprung               noun   grade=3-4 topic=sports.athletics role=prod conf=75 src=ai
+Hürde                    noun   grade=3-4 topic=sports.athletics role=prod conf=75 src=ai
+Leichtathletik           noun   grade=3-4 topic=sports.athletics role=rec conf=65 src=ai
+Sprunggrube              noun   grade=3-4 topic=sports.athletics role=rec conf=60 src=ai
+Staffel                  noun   grade=3-4 topic=sports.athletics role=prod conf=70 src=ai
+Staffellauf              noun   grade=3-4 topic=sports.athletics role=prod conf=70 src=ai
+Stoppuhr                 noun   grade=3-4 topic=sports.athletics role=prod conf=75 src=ai
+Weitsprung               noun   grade=3-4 topic=sports.athletics role=prod conf=75 src=ai
+Weitwurf                 noun   grade=3-4 topic=sports.athletics role=prod conf=75 src=ai
+
+# grade 3-4 · sports.fairness
+anfeuern                 verb   grade=3-4 topic=sports.fairness role=prod conf=70 src=ai
+Fairness                 noun   grade=3-4 topic=sports.fairness role=prod conf=75 src=ai
+Fairplay                 noun   grade=3-4 topic=sports.fairness role=rec conf=65 src=ai
+Foul                     noun   grade=3-4 topic=sports.fairness role=prod conf=75 src=ai
+Pfiff                    noun   grade=3-4 topic=sports.fairness role=prod conf=75 src=ai
+Schiedsrichter           noun   grade=3-4 topic=sports.fairness role=prod conf=75 src=ai
+
+# grade 3-4 · sports.fitness
+aufwärmen                verb   grade=3-4 topic=sports.fitness role=prod conf=75 src=ai
+Ausdauer                 noun   grade=3-4 topic=sports.fitness role=rec conf=70 src=ai
+Bewegung                 noun   grade=3-4 topic=sports.fitness role=prod conf=80 src=ai
+Übung                    noun   grade=3-4 topic=sports.fitness role=prod conf=75 src=ai
+
+# grade 3-4 · sports.games
+Basketball               noun   grade=3-4 topic=sports.games role=prod conf=80 src=ai
+Brennball                noun   grade=3-4 topic=sports.games role=prod conf=70 src=ai
+Elfmeter                 noun   grade=3-4 topic=sports.games role=prod conf=75 src=ai
+Finale                   noun   grade=3-4 topic=sports.games role=prod conf=65 src=ai|freq
+Gegner                   noun   grade=3-4 topic=sports.games role=prod conf=75 src=ai
+Niederlage               noun   grade=3-4 topic=sports.games role=prod conf=70 src=ai
+prellen                  verb   grade=3-4 topic=sports.games role=prod conf=65 src=ai
+Sieg                     noun   grade=3-4 topic=sports.games role=prod conf=75 src=ai
+Spielstand               noun   grade=3-4 topic=sports.games role=prod conf=65 src=ai
+Team                     noun   grade=3-4 topic=sports.games role=prod conf=80 src=ai
+Torwartin                noun   grade=3-4 topic=sports.games role=prod conf=60 src=ai
+unentschieden            adj    grade=3-4 topic=sports.games role=prod conf=75 src=ai
+Volleyball               noun   grade=3-4 topic=sports.games role=prod conf=75 src=ai
+
+# grade 3-4 · sports.gymnastics
+Barren                   noun   grade=3-4 topic=sports.gymnastics role=prod conf=70 src=ai
+Hilfestellung            noun   grade=3-4 topic=sports.gymnastics role=rec conf=65 src=ai
+Kletterwand              noun   grade=3-4 topic=sports.gymnastics role=prod conf=70 src=ai
+Kopfstand                noun   grade=3-4 topic=sports.gymnastics role=prod conf=70 src=ai
+Rückwärtsrolle           noun   grade=3-4 topic=sports.gymnastics role=prod conf=70 src=ai
+Vorwärtsrolle            noun   grade=3-4 topic=sports.gymnastics role=prod conf=70 src=ai
+
+# grade 3-4 · sports.water
+Bademeister              noun   grade=3-4 topic=sports.water role=prod conf=75 src=ai
+Bademeisterin            noun   grade=3-4 topic=sports.water role=prod conf=70 src=ai
+Baderegel                noun   grade=3-4 topic=sports.water role=prod conf=75 src=ai
+Becken                   noun   grade=3-4 topic=sports.water role=prod conf=70 src=ai
+Brustschwimmen           noun   grade=3-4 topic=sports.water role=prod conf=70 src=ai
+ertrinken                verb   grade=3-4 topic=sports.water role=prod conf=70 src=ai
+Freischwimmer            noun   grade=3-4 topic=sports.water role=prod conf=65 src=ai
+Kopfsprung               noun   grade=3-4 topic=sports.water role=prod conf=65 src=ai
+kraulen                  verb   grade=3-4 topic=sports.water role=prod conf=65 src=ai
+Rückenschwimmen          noun   grade=3-4 topic=sports.water role=prod conf=70 src=ai
+Schwimmabzeichen         noun   grade=3-4 topic=sports.water role=prod conf=75 src=ai
+Schwimmbecken            noun   grade=3-4 topic=sports.water role=prod conf=75 src=ai
+Schwimmunterricht        noun   grade=3-4 topic=sports.water role=prod conf=75 src=ai

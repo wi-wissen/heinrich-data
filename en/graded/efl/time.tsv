@@ -1,0 +1,107 @@
+# English EFL graded vocabulary, topic group `time` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · time.calendar
+April                    propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+August                   propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+autumn                   noun   grade=3-4 cefr=A1 topic=time.calendar|weather role=prod conf=92 src=ai
+birthday                 noun   grade=3-4 cefr=A1 topic=time.calendar|celebrations role=prod conf=98 src=ai
+day                      noun   grade=3-4 cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+December                 propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+February                 propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+Friday                   propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+January                  propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+July                     propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+June                     propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+March                    propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+May                      propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+Monday                   propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+month                    noun   grade=3-4 cefr=A1 topic=time.calendar role=prod conf=88 src=ai
+November                 propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+October                  propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+Saturday                 propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+season                   noun   grade=3-4 cefr=A1 topic=time.calendar role=rec conf=80 src=ai
+September                propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=90 src=ai
+spring                   noun   grade=3-4 cefr=A1 topic=time.calendar|weather role=prod conf=92 src=ai
+summer                   noun   grade=3-4 cefr=A1 topic=time.calendar|weather role=prod conf=95 src=ai
+Sunday                   propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Thursday                 propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+today                    adv    grade=3-4 cefr=A1 topic=time.calendar|time.relations role=prod conf=92 src=ai
+tomorrow                 adv    grade=3-4 cefr=A1 topic=time.calendar|time.relations role=prod conf=75 src=ai
+Tuesday                  propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Wednesday                propn  grade=3-4 cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+week                     noun   grade=3-4 cefr=A1 topic=time.calendar role=prod conf=88 src=ai
+weekend                  noun   grade=3-4 cefr=A1 topic=time.calendar role=prod conf=75 src=ai
+winter                   noun   grade=3-4 cefr=A1 topic=time.calendar|weather role=prod conf=95 src=ai
+year                     noun   grade=3-4 cefr=A1 topic=time.calendar role=prod conf=88 src=ai
+yesterday                adv    grade=3-4 cefr=A1 topic=time.calendar|time.relations role=prod conf=65 src=ai
+
+# grade 3-4 · time.clock
+afternoon                noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=90 src=ai
+early                    adj    grade=3-4 cefr=A1 topic=time.clock role=prod conf=65 src=ai
+evening                  noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=88 src=ai
+late                     adj    grade=3-4 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+morning                  noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=95 src=ai
+night                    noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=92 src=ai
+o'clock                  adv    grade=3-4 cefr=A1 topic=time.clock role=prod conf=90 src=ai
+time                     noun   grade=3-4 cefr=A1 topic=time.clock role=prod conf=92 src=ai
+wake                     verb   grade=3-4 cefr=A1 topic=time.clock role=rec conf=65 src=ai
+watch                    noun   grade=3-4 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+
+# grade 5-6 · time.calendar
+calendar                 noun   grade=5-6 cefr=A2 topic=time.calendar role=rec conf=55 src=ai
+date                     noun   grade=5-6 cefr=A1 topic=time.calendar role=prod conf=70 src=ai
+diary                    noun   grade=5-6 cefr=A2 topic=time.calendar role=prod conf=60 src=ai
+fortnight                noun   grade=5-6 cefr=A2 topic=time.calendar|anglophone.uk role=rec conf=55 src=ai
+term                     noun   grade=5-6 cefr=A2 topic=time.calendar|school role=prod conf=70 src=ai
+weekday                  noun   grade=5-6 cefr=A2 topic=time.calendar role=rec conf=55 src=ai
+
+# grade 5-6 · time.clock
+a.m.                     x      grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
+alarm                    noun   grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
+early                    adv    grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+hour                     noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+late                     adv    grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+midnight                 noun   grade=5-6 cefr=A2 topic=time.clock role=prod conf=65 src=ai
+minute                   noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=75 src=ai
+p.m.                     x      grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
+quarter                  noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=80 src=ai
+routine                  noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf=60 src=ai
+
+# grade 5-6 · time.relations
+afterwards               adv    grade=5-6 cefr=A2 topic=time.relations role=prod conf=65 src=ai
+beginning                noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=65 src=ai
+end                      noun   grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+future                   noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
+last                     num    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+later                    adv    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+moment                   noun   grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+past                     noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=60 src=ai
+start                    noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
+till                     adp    grade=5-6 cefr=A2 topic=time.relations role=prod conf=60 src=ai|freq
+tonight                  adv    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+
+# grade 7-8 · time.relations
+ancient                  adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+annual                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
+century                  noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+current                  adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=70 src=ai
+daily                    adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+decade                   noun   grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai
+era                      noun   grade=7-8 cefr=B1 topic=time.relations role=rec conf=60 src=ai
+final                    adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=65 src=ai
+following                adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+former                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=70 src=ai
+immediate                adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=60 src=ai
+latest                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+modern                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=65 src=ai
+monthly                  adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+period                   noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+permanent                adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
+present                  noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=60 src=ai
+previous                 adj    grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai
+recent                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+sudden                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=50 src=ai|freq
+temporary                adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
+weekly                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai

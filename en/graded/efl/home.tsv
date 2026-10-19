@@ -1,0 +1,68 @@
+# English EFL graded vocabulary, topic group `home` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · home
+bath                     noun   grade=3-4 cefr=A1 topic=home|time.clock role=prod conf=75 src=ai
+bathroom                 noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+bed                      noun   grade=3-4 cefr=A1 topic=home role=prod conf=98 src=ai
+bedroom                  noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+box                      noun   grade=3-4 cefr=A1 topic=home role=prod conf=80 src=ai
+chair                    noun   grade=3-4 cefr=A1 topic=home|school role=prod conf=95 src=ai
+clock                    noun   grade=3-4 cefr=A1 topic=home|time.clock role=prod conf=88 src=ai
+computer                 noun   grade=3-4 cefr=A1 topic=home|technology role=prod conf=85 src=ai
+cupboard                 noun   grade=3-4 cefr=A1 topic=home role=prod conf=85 src=ai
+desk                     noun   grade=3-4 cefr=A1 topic=home|school role=prod conf=88 src=ai
+door                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+flat                     noun   grade=3-4 cefr=A1 topic=home|anglophone.uk role=prod conf=80 src=ai
+floor                    noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 src=ai
+fridge                   noun   grade=3-4 cefr=A1 topic=home|food role=prod conf=75 src=ai
+garage                   noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 src=ai
+garden                   noun   grade=3-4 cefr=A1 topic=home|plants role=prod conf=92 src=ai
+hall                     noun   grade=3-4 cefr=A1 topic=home|school role=prod conf=70 src=ai
+home                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+house                    noun   grade=3-4 cefr=A1 topic=home role=prod conf=98 src=ai
+kitchen                  noun   grade=3-4 cefr=A1 topic=home role=prod conf=95 src=ai
+lamp                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=88 src=ai
+mirror                   noun   grade=3-4 cefr=A1 topic=home role=prod conf=70 src=ai
+picture                  noun   grade=3-4 cefr=A1 topic=home|music_arts role=prod conf=90 src=ai
+roof                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=65 src=ai
+room                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+shelf                    noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 src=ai
+shower                   noun   grade=3-4 cefr=A1 topic=home|time.clock role=prod conf=75 src=ai
+sleep                    verb   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+sofa                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=90 src=ai
+stair                    noun   grade=3-4 cefr=A1 topic=home role=prod conf=70 src=ai
+table                    noun   grade=3-4 cefr=A1 topic=home role=prod conf=95 src=ai
+television               noun   grade=3-4 cefr=A1 topic=home|media role=rec conf=70 src=ai
+toilet                   noun   grade=3-4 cefr=A1 topic=home role=prod conf=80 src=ai
+TV                       noun   grade=3-4 cefr=A1 topic=home|media role=prod conf=92 src=ai
+wall                     noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 src=ai
+wardrobe                 noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 src=ai
+window                   noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
+
+# grade 5-6 · home
+armchair                 noun   grade=5-6 cefr=A1 topic=home role=prod conf=60 src=ai
+attic                    noun   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai
+balcony                  noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+bin                      noun   grade=5-6 cefr=A2 topic=home|environment role=prod conf=60 src=ai
+carpet                   noun   grade=5-6 cefr=A1 topic=home role=prod conf=65 src=ai
+cellar                   noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+clear                    verb   grade=5-6 cefr=A2 topic=home role=rec conf=60 src=ai|freq
+cooker                   noun   grade=5-6 cefr=A1 topic=home|food role=prod conf=65 src=ai
+curtain                  noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+dish                     noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai
+dishwasher               noun   grade=5-6 cefr=A2 topic=home role=rec conf=60 src=ai
+hoover                   verb   grade=5-6 cefr=A2 topic=home|anglophone.uk role=rec conf=55 src=ai
+housework                noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+key                      noun   grade=5-6 cefr=A1 topic=home role=prod conf=65 src=ai
+light                    noun   grade=5-6 cefr=A1 topic=home role=prod conf=60 src=ai
+mess                     noun   grade=5-6 cefr=A2 topic=home role=prod conf=65 src=ai
+oven                     noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai
+rubbish                  noun   grade=5-6 cefr=A2 topic=home|environment role=prod conf=65 src=ai
+
+# grade 7-8 · home
+household                noun   grade=7-8 cefr=B1 topic=home role=rec conf=55 src=ai|freq
+iron                     noun   grade=7-8 cefr=B1 topic=home role=rec conf=50 src=ai|freq
+iron                     verb   grade=7-8 cefr=B1 topic=home role=rec conf=50 src=ai|freq
+yard                     noun   grade=7-8 cefr=A2 topic=home role=prod conf=60 src=ai

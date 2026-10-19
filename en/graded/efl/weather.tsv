@@ -1,0 +1,45 @@
+# English EFL graded vocabulary, topic group `weather` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 3-4 · weather
+cloud                    noun   grade=3-4 cefr=A1 topic=weather role=prod conf=85 src=ai
+cloudy                   adj    grade=3-4 cefr=A1 topic=weather role=prod conf=90 src=ai
+foggy                    adj    grade=3-4 cefr=A1 topic=weather role=prod conf=75 src=ai
+rain                     noun   grade=3-4 cefr=A1 topic=weather role=prod conf=92 src=ai
+rain                     verb   grade=3-4 cefr=A1 topic=weather role=prod conf=85 src=ai
+rainbow                  noun   grade=3-4 cefr=A1 topic=weather role=prod conf=85 src=ai
+rainy                    adj    grade=3-4 cefr=A1 topic=weather role=prod conf=92 src=ai
+sky                      noun   grade=3-4 cefr=A1 topic=weather|nature role=prod conf=80 src=ai
+snow                     noun   grade=3-4 cefr=A1 topic=weather role=prod conf=92 src=ai
+snow                     verb   grade=3-4 cefr=A1 topic=weather role=rec conf=75 src=ai
+snowman                  noun   grade=3-4 cefr=A1 topic=weather|celebrations role=prod conf=85 src=ai
+snowy                    adj    grade=3-4 cefr=A1 topic=weather role=prod conf=85 src=ai
+storm                    noun   grade=3-4 cefr=A1 topic=weather role=prod conf=75 src=ai
+stormy                   adj    grade=3-4 cefr=A1 topic=weather role=prod conf=70 src=ai
+sun                      noun   grade=3-4 cefr=A1 topic=weather|nature role=prod conf=98 src=ai
+sunny                    adj    grade=3-4 cefr=A1 topic=weather role=prod conf=95 src=ai
+umbrella                 noun   grade=3-4 cefr=A1 topic=weather|clothes role=prod conf=80 src=ai
+weather                  noun   grade=3-4 cefr=A1 topic=weather role=prod conf=95 src=ai
+wind                     noun   grade=3-4 cefr=A1 topic=weather role=prod conf=85 src=ai
+windy                    adj    grade=3-4 cefr=A1 topic=weather role=prod conf=92 src=ai
+
+# grade 5-6 · weather
+air                      noun   grade=5-6 cefr=A2 topic=weather|nature|environment role=prod conf=70 src=ai|freq
+degree                   noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
+fog                      noun   grade=5-6 cefr=A2 topic=weather role=prod conf=60 src=ai
+forecast                 noun   grade=5-6 cefr=A2 topic=weather role=prod conf=55 src=ai
+ice                      noun   grade=5-6 cefr=A1 topic=weather role=prod conf=65 src=ai
+lightning                noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
+shine                    verb   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
+sunshine                 noun   grade=5-6 cefr=A2 topic=weather role=prod conf=60 src=ai
+temperature              noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
+thunder                  noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
+
+# grade 7-8 · weather
+climate                  noun   grade=7-8 cefr=A2 topic=weather role=prod conf=70 src=ai
+drought                  noun   grade=7-8 cefr=B1 topic=weather role=prod conf=65 src=ai
+flood                    noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai
+heat                     noun   grade=7-8 cefr=A2 topic=weather role=rec conf=55 src=ai|freq
+hurricane                noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai
+tornado                  noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai

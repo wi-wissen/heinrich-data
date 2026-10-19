@@ -1,0 +1,491 @@
+# German L1 graded vocabulary, area `science` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 1-2 · bio.animals
+brüten                   verb   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Eichhörnchen             noun   grade=1-2 topic=bio.animals|animals role=prod conf=90 src=ai
+Feder                    noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+Fell                     noun   grade=1-2 topic=bio.animals role=prod conf=90 src=ai
+Fledermaus               noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Fleischfresser           noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Flosse                   noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Fühler                   noun   grade=1-2 topic=bio.animals role=prod conf=75 src=ai
+Haustier                 noun   grade=1-2 topic=bio.animals|animals role=prod conf=90 src=ai
+Igel                     noun   grade=1-2 topic=bio.animals|animals role=prod conf=90 src=ai
+Insekt                   noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+Kaulquappe               noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Kralle                   noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Maulwurf                 noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Panzer                   noun   grade=1-2 topic=bio.animals role=prod conf=70 src=ai
+Pflanzenfresser          noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Puppe                    noun   grade=1-2 topic=bio.animals role=rec conf=70 src=ai
+Raupe                    noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+Regenwurm                noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+schlüpfen                verb   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+Schnabel                 noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+Schuppe                  noun   grade=1-2 topic=bio.animals role=prod conf=75 src=ai
+Specht                   noun   grade=1-2 topic=bio.animals role=prod conf=75 src=ai
+Spur                     noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Stachel                  noun   grade=1-2 topic=bio.animals role=prod conf=80 src=ai
+Wildschwein              noun   grade=1-2 topic=bio.animals role=prod conf=75 src=ai
+Wildtier                 noun   grade=1-2 topic=bio.animals role=prod conf=75 src=ai
+Winterschlaf             noun   grade=1-2 topic=bio.animals role=prod conf=85 src=ai
+
+# grade 1-2 · bio.ecology
+Hecke                    noun   grade=1-2 topic=bio.ecology role=prod conf=80 src=ai
+Ufer                     noun   grade=1-2 topic=bio.ecology role=prod conf=80 src=ai
+
+# grade 1-2 · bio.human
+atmen                    verb   grade=1-2 topic=bio.human role=prod conf=85 src=ai
+ausatmen                 verb   grade=1-2 topic=bio.human role=prod conf=80 src=ai
+Backenzahn               noun   grade=1-2 topic=bio.human role=prod conf=75 src=ai
+Eckzahn                  noun   grade=1-2 topic=bio.human role=prod conf=70 src=ai
+einatmen                 verb   grade=1-2 topic=bio.human role=prod conf=80 src=ai
+Gebiss                   noun   grade=1-2 topic=bio.human role=prod conf=70 src=ai
+Knochen                  noun   grade=1-2 topic=bio.human role=prod conf=85 src=ai
+Milchzahn                noun   grade=1-2 topic=bio.human|health role=prod conf=85 src=ai
+Schneidezahn             noun   grade=1-2 topic=bio.human role=prod conf=75 src=ai
+Sinn                     noun   grade=1-2 topic=bio.human|bio.neuro role=prod conf=85 src=ai
+Skelett                  noun   grade=1-2 topic=bio.human role=prod conf=80 src=ai
+Zahnfleisch              noun   grade=1-2 topic=bio.human role=prod conf=70 src=ai
+
+# grade 1-2 · bio.neuro
+tasten                   verb   grade=1-2 topic=bio.neuro role=prod conf=80 src=ai
+
+# grade 1-2 · bio.plants
+blühen                   verb   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Blüte                    noun   grade=1-2 topic=bio.plants role=prod conf=90 src=ai
+Blütenstaub              noun   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+Eiche                    noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Eichel                   noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Frucht                   noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Frühblüher               noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Gänseblümchen            noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Kastanie                 noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+keimen                   verb   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Kern                     noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Knospe                   noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Korn                     noun   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+Kresse                   noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Krokus                   noun   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+Laub                     noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Laubbaum                 noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Löwenzahn                noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Moos                     noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Nadel                    noun   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+Nadelbaum                noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Nektar                   noun   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+Pilz                     noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Rinde                    noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Samen                    noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Schneeglöckchen          noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Sonnenblume              noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Stamm                    noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+Strauch                  noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Stängel                  noun   grade=1-2 topic=bio.plants role=prod conf=85 src=ai
+säen                     verb   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Tanne                    noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+verwelken                verb   grade=1-2 topic=bio.plants role=prod conf=75 src=ai
+wachsen:grow             verb   grade=1-2 topic=bio.plants role=prod conf=95 src=ai
+Wurzel                   noun   grade=1-2 topic=bio.plants role=prod conf=90 src=ai
+Zapfen                   noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+Zwiebel                  noun   grade=1-2 topic=bio.plants role=prod conf=80 src=ai
+
+# grade 1-2 · chem.reactions
+Flamme                   noun   grade=1-2 topic=chem.reactions role=prod conf=85 src=ai
+löschen                  verb   grade=1-2 topic=chem.reactions role=prod conf=85 src=ai
+
+# grade 1-2 · chem.substances
+durchsichtig             adj    grade=1-2 topic=chem.substances|phys.optics role=prod conf=80 src=ai
+fest                     adj    grade=1-2 topic=chem.substances role=prod conf=85 src=ai
+flüssig                  adj    grade=1-2 topic=chem.substances role=prod conf=85 src=ai
+gefrieren                verb   grade=1-2 topic=chem.substances|phys.heat role=prod conf=80 src=ai
+Holz                     noun   grade=1-2 topic=chem.substances role=prod conf=90 src=ai
+Metall                   noun   grade=1-2 topic=chem.substances role=prod conf=85 src=ai
+mischen                  verb   grade=1-2 topic=chem.substances role=prod conf=85 src=ai
+Pappe                    noun   grade=1-2 topic=chem.substances role=prod conf=80 src=ai
+schmelzen                verb   grade=1-2 topic=chem.substances|phys.heat role=prod conf=85 src=ai
+Ton:clay                 noun   grade=1-2 topic=chem.substances role=prod conf=75 src=ai
+Wachs                    noun   grade=1-2 topic=chem.substances role=prod conf=75 src=ai
+
+# grade 1-2 · environment
+Mülltrennung             noun   grade=1-2 topic=environment role=prod conf=75 src=ai
+Umwelt                   noun   grade=1-2 topic=environment role=prod conf=85 src=ai
+
+# grade 1-2 · health
+Karies                   noun   grade=1-2 topic=health role=rec conf=70 src=ai
+ungesund                 adj    grade=1-2 topic=health role=prod conf=90 src=ai
+Vitamin                  noun   grade=1-2 topic=health|food role=prod conf=85 src=ai
+Zahnpflege               noun   grade=1-2 topic=health role=prod conf=75 src=ai
+
+# grade 1-2 · phys.acoustics
+Echo                     noun   grade=1-2 topic=phys.acoustics role=prod conf=80 src=ai
+
+# grade 1-2 · phys.astronomy
+drehen                   verb   grade=1-2 topic=phys.astronomy|phys.mechanics role=prod conf=85 src=ai
+Erde                     noun   grade=1-2 topic=phys.astronomy role=prod conf=90 src=ai
+Halbmond                 noun   grade=1-2 topic=phys.astronomy role=prod conf=75 src=ai
+Mond                     noun   grade=1-2 topic=phys.astronomy role=prod conf=95 src=ai
+Sonne                    noun   grade=1-2 topic=phys.astronomy role=prod conf=95 src=ai
+Sonnenaufgang            noun   grade=1-2 topic=phys.astronomy role=prod conf=80 src=ai
+Sonnenuntergang          noun   grade=1-2 topic=phys.astronomy role=prod conf=80 src=ai
+Stern                    noun   grade=1-2 topic=phys.astronomy role=prod conf=95 src=ai
+Vollmond                 noun   grade=1-2 topic=phys.astronomy role=prod conf=85 src=ai
+Weltall                  noun   grade=1-2 topic=phys.astronomy role=prod conf=80 src=ai
+Weltraum                 noun   grade=1-2 topic=phys.astronomy role=prod conf=75 src=ai
+
+# grade 1-2 · phys.electricity
+Batterie                 noun   grade=1-2 topic=phys.electricity role=prod conf=90 src=ai
+Glühbirne                noun   grade=1-2 topic=phys.electricity role=prod conf=80 src=ai
+Kabel                    noun   grade=1-2 topic=phys.electricity role=prod conf=85 src=ai
+Magnet                   noun   grade=1-2 topic=phys.electricity role=prod conf=90 src=ai
+Schalter                 noun   grade=1-2 topic=phys.electricity role=prod conf=80 src=ai
+Steckdose                noun   grade=1-2 topic=phys.electricity role=prod conf=90 src=ai
+Strom                    noun   grade=1-2 topic=phys.electricity role=prod conf=85 src=ai
+
+# grade 1-2 · phys.heat
+Grad                     noun   grade=1-2 topic=phys.heat|weather role=prod conf=85 src=ai
+Thermometer              noun   grade=1-2 topic=phys.heat|weather role=prod conf=85 src=ai
+Wärme                    noun   grade=1-2 topic=phys.heat role=prod conf=85 src=ai
+
+# grade 1-2 · phys.mechanics
+Luftballon               noun   grade=1-2 topic=phys.mechanics role=prod conf=85 src=ai
+sinken                   verb   grade=1-2 topic=phys.mechanics role=prod conf=80 src=ai
+Wippe                    noun   grade=1-2 topic=phys.mechanics role=prod conf=80 src=ai
+
+# grade 1-2 · phys.optics
+Schatten                 noun   grade=1-2 topic=phys.optics role=prod conf=90 src=ai
+
+# grade 1-2 · science
+Sachunterricht           noun   grade=1-2 topic=science|school role=prod conf=90 src=ai
+
+# grade 1-2 · science.method
+ausprobieren             verb   grade=1-2 topic=science.method role=prod conf=85 src=ai
+beobachten               verb   grade=1-2 topic=science.method role=prod conf=90 src=ai
+beschriften              verb   grade=1-2 topic=science.method role=prod conf=80 src=ai
+forschen                 verb   grade=1-2 topic=science.method role=prod conf=75 src=ai
+Forscher                 noun   grade=1-2 topic=science.method role=prod conf=75 src=ai
+Lupe                     noun   grade=1-2 topic=science.method role=prod conf=85 src=ai
+Material                 noun   grade=1-2 topic=science.method|chem.substances role=prod conf=80 src=ai
+Steckbrief               noun   grade=1-2 topic=science.method role=prod conf=80 src=ai
+Unterschied              noun   grade=1-2 topic=science.method role=prod conf=80 src=ai
+Versuch                  noun   grade=1-2 topic=science.method role=prod conf=85 src=ai
+
+# grade 1-2 · tech
+erfinden                 verb   grade=1-2 topic=tech role=prod conf=80 src=ai
+Maschine                 noun   grade=1-2 topic=tech role=prod conf=85 src=ai
+Motor                    noun   grade=1-2 topic=tech role=prod conf=85 src=ai
+Pumpe                    noun   grade=1-2 topic=tech role=prod conf=75 src=ai
+Werkzeug                 noun   grade=1-2 topic=tech role=prod conf=85 src=ai
+Windmühle                noun   grade=1-2 topic=tech role=prod conf=75 src=ai
+Windrad                  noun   grade=1-2 topic=tech|phys.energy role=prod conf=80 src=ai
+
+# grade 1-2 · weather
+bewölkt                  adj    grade=1-2 topic=weather role=prod conf=80 src=ai
+Blitz                    noun   grade=1-2 topic=weather role=prod conf=90 src=ai
+Donner                   noun   grade=1-2 topic=weather role=prod conf=85 src=ai
+Frost                    noun   grade=1-2 topic=weather role=prod conf=80 src=ai
+Gewitter                 noun   grade=1-2 topic=weather role=prod conf=90 src=ai
+Glatteis                 noun   grade=1-2 topic=weather role=prod conf=75 src=ai
+Hagel                    noun   grade=1-2 topic=weather role=prod conf=80 src=ai
+Nebel                    noun   grade=1-2 topic=weather role=prod conf=85 src=ai
+neblig                   adj    grade=1-2 topic=weather role=prod conf=80 src=ai
+Regenbogen               noun   grade=1-2 topic=weather|phys.optics role=prod conf=90 src=ai
+Wetterbericht            noun   grade=1-2 topic=weather role=prod conf=80 src=ai
+
+# grade 3-4 · bio.animals
+Allesfresser             noun   grade=3-4 topic=bio.animals role=prod conf=75 src=ai
+Amphibie                 noun   grade=3-4 topic=bio.animals role=rec conf=60 src=ai
+Art                      noun   grade=3-4 topic=bio.animals|bio.ecology role=rec conf=65 src=ai
+artgerecht               adj    grade=3-4 topic=bio.animals role=rec conf=65 src=ai
+Beute                    noun   grade=3-4 topic=bio.animals|bio.ecology role=prod conf=75 src=ai
+Bienenstock              noun   grade=3-4 topic=bio.animals role=prod conf=65 src=ai
+Dachs                    noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Gefieder                 noun   grade=3-4 topic=bio.animals role=rec conf=65 src=ai
+Jungtier                 noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Kieme                    noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Kokon                    noun   grade=3-4 topic=bio.animals role=rec conf=60 src=ai
+Kriechtier               noun   grade=3-4 topic=bio.animals role=rec conf=55 src=ai
+Kröte                    noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Laich                    noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Larve                    noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Lebewesen                noun   grade=3-4 topic=bio.animals|bio.ecology role=prod conf=80 src=ai
+Lurch                    noun   grade=3-4 topic=bio.animals role=rec conf=55 src=ai
+Nutztier                 noun   grade=3-4 topic=bio.animals role=prod conf=80 src=ai
+Reptil                   noun   grade=3-4 topic=bio.animals role=rec conf=65 src=ai
+Standvogel               noun   grade=3-4 topic=bio.animals role=rec conf=60 src=ai
+säugen                   verb   grade=3-4 topic=bio.animals role=rec conf=65 src=ai
+Säugetier                noun   grade=3-4 topic=bio.animals role=prod conf=80 src=ai
+Tarnung                  noun   grade=3-4 topic=bio.animals role=prod conf=65 src=ai
+Tierart                  noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Winterruhe               noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Winterstarre             noun   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+Zugvogel                 noun   grade=3-4 topic=bio.animals role=prod conf=75 src=ai
+überwintern              verb   grade=3-4 topic=bio.animals role=prod conf=70 src=ai
+
+# grade 3-4 · bio.ecology
+Baumschicht              noun   grade=3-4 topic=bio.ecology role=rec conf=60 src=ai
+Bodenschicht             noun   grade=3-4 topic=bio.ecology role=rec conf=55 src=ai
+Kompost                  noun   grade=3-4 topic=bio.ecology|environment role=prod conf=75 src=ai
+Krautschicht             noun   grade=3-4 topic=bio.ecology role=rec conf=60 src=ai
+Kreislauf                noun   grade=3-4 topic=bio.ecology role=rec conf=70 src=ai
+Lebensraum               noun   grade=3-4 topic=bio.ecology role=prod conf=85 src=ai
+Moosschicht              noun   grade=3-4 topic=bio.ecology role=rec conf=60 src=ai
+Nahrungskette            noun   grade=3-4 topic=bio.ecology role=prod conf=80 src=ai
+Naturschutz              noun   grade=3-4 topic=bio.ecology|environment role=prod conf=75 src=ai
+Naturschutzgebiet        noun   grade=3-4 topic=bio.ecology|environment role=rec conf=65 src=ai
+Räuber                   noun   grade=3-4 topic=bio.ecology role=rec conf=65 src=ai
+Stockwerk                noun   grade=3-4 topic=bio.ecology role=rec conf=65 src=ai
+Strauchschicht           noun   grade=3-4 topic=bio.ecology role=rec conf=60 src=ai
+
+# grade 3-4 · bio.human
+Ader                     noun   grade=3-4 topic=bio.human role=prod conf=70 src=ai
+Atmung                   noun   grade=3-4 topic=bio.human role=prod conf=70 src=ai
+Blutkreislauf            noun   grade=3-4 topic=bio.human role=rec conf=65 src=ai
+Darm                     noun   grade=3-4 topic=bio.human role=prod conf=75 src=ai
+Gehirn                   noun   grade=3-4 topic=bio.human|bio.neuro role=prod conf=80 src=ai
+Gelenk                   noun   grade=3-4 topic=bio.human role=prod conf=80 src=ai
+Lunge                    noun   grade=3-4 topic=bio.human role=prod conf=80 src=ai
+Muskel                   noun   grade=3-4 topic=bio.human role=prod conf=80 src=ai
+Netzhaut                 noun   grade=3-4 topic=bio.human role=rec conf=55 src=ai
+Organ                    noun   grade=3-4 topic=bio.human role=rec conf=70 src=ai
+Pubertät                 noun   grade=3-4 topic=bio.human role=rec conf=65 src=ai
+Puls                     noun   grade=3-4 topic=bio.human role=prod conf=70 src=ai
+Pupille                  noun   grade=3-4 topic=bio.human role=prod conf=70 src=ai
+Rippe                    noun   grade=3-4 topic=bio.human role=prod conf=75 src=ai
+Schädel                  noun   grade=3-4 topic=bio.human role=prod conf=75 src=ai
+Sinnesorgan              noun   grade=3-4 topic=bio.human|bio.neuro role=prod conf=80 src=ai
+Speiseröhre              noun   grade=3-4 topic=bio.human role=rec conf=65 src=ai
+Trommelfell              noun   grade=3-4 topic=bio.human role=rec conf=60 src=ai
+verdauen                 verb   grade=3-4 topic=bio.human role=prod conf=70 src=ai
+Verdauung                noun   grade=3-4 topic=bio.human role=rec conf=70 src=ai
+Wirbelsäule              noun   grade=3-4 topic=bio.human role=prod conf=75 src=ai
+Zahnschmelz              noun   grade=3-4 topic=bio.human role=rec conf=60 src=ai
+
+# grade 3-4 · bio.neuro
+Gehör                    noun   grade=3-4 topic=bio.neuro role=prod conf=70 src=ai
+Geruchssinn              noun   grade=3-4 topic=bio.neuro role=prod conf=70 src=ai
+Geschmackssinn           noun   grade=3-4 topic=bio.neuro role=prod conf=70 src=ai
+Hörsinn                  noun   grade=3-4 topic=bio.neuro role=prod conf=60 src=ai
+Sehsinn                  noun   grade=3-4 topic=bio.neuro role=prod conf=65 src=ai
+Tastsinn                 noun   grade=3-4 topic=bio.neuro role=prod conf=70 src=ai
+
+# grade 3-4 · bio.plants
+Ahorn                    noun   grade=3-4 topic=bio.plants role=prod conf=75 src=ai
+Baumkrone                noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+bestäuben                verb   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Bestäubung               noun   grade=3-4 topic=bio.plants role=rec conf=70 src=ai
+Blütenblatt              noun   grade=3-4 topic=bio.plants role=prod conf=75 src=ai
+Buche                    noun   grade=3-4 topic=bio.plants role=prod conf=75 src=ai
+Farn                     noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Fichte                   noun   grade=3-4 topic=bio.plants role=prod conf=75 src=ai
+Getreide                 noun   grade=3-4 topic=bio.plants|geo.agriculture role=prod conf=80 src=ai
+Humus                    noun   grade=3-4 topic=bio.plants|bio.ecology role=rec conf=65 src=ai
+Keimling                 noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Kiefer:pine              noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Knolle                   noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Pollen                   noun   grade=3-4 topic=bio.plants role=rec conf=70 src=ai
+Wachstum                 noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+Weizen                   noun   grade=3-4 topic=bio.plants|geo.agriculture role=prod conf=75 src=ai
+Ähre                     noun   grade=3-4 topic=bio.plants role=prod conf=70 src=ai
+
+# grade 3-4 · chem.reactions
+Brandschutz              noun   grade=3-4 topic=chem.reactions role=rec conf=55 src=ai
+Docht                    noun   grade=3-4 topic=chem.reactions role=prod conf=65 src=ai
+Feuerlöscher             noun   grade=3-4 topic=chem.reactions role=prod conf=70 src=ai
+Sauerstoff               noun   grade=3-4 topic=chem.reactions|chem.substances role=prod conf=75 src=ai
+Verbrennung              noun   grade=3-4 topic=chem.reactions role=rec conf=65 src=ai
+
+# grade 3-4 · chem.substances
+Aluminium                noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+auflösen                 verb   grade=3-4 topic=chem.substances role=prod conf=75 src=ai
+Baumwolle                noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+biegsam                  adj    grade=3-4 topic=chem.substances role=prod conf=75 src=ai
+brennbar                 adj    grade=3-4 topic=chem.substances|chem.reactions role=prod conf=70 src=ai
+Eigenschaft              noun   grade=3-4 topic=chem.substances role=prod conf=80 src=ai
+Eisen                    noun   grade=3-4 topic=chem.substances|phys.electricity role=prod conf=85 src=ai
+elastisch                adj    grade=3-4 topic=chem.substances role=rec conf=65 src=ai
+Filter                   noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+filtern                  verb   grade=3-4 topic=chem.substances role=prod conf=75 src=ai
+Flüssigkeit              noun   grade=3-4 topic=chem.substances role=prod conf=80 src=ai
+Gas                      noun   grade=3-4 topic=chem.substances role=prod conf=80 src=ai
+gasförmig                adj    grade=3-4 topic=chem.substances role=prod conf=75 src=ai
+Gemisch                  noun   grade=3-4 topic=chem.substances role=rec conf=65 src=ai
+Kork                     noun   grade=3-4 topic=chem.substances role=prod conf=65 src=ai
+Kunststoff               noun   grade=3-4 topic=chem.substances role=prod conf=80 src=ai
+Kupfer                   noun   grade=3-4 topic=chem.substances role=prod conf=75 src=ai
+lösen                    verb   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+löslich                  adj    grade=3-4 topic=chem.substances role=rec conf=60 src=ai
+Mischung                 noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+Rost                     noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+rosten                   verb   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+saugfähig                adj    grade=3-4 topic=chem.substances role=rec conf=60 src=ai
+sieben                   verb   grade=3-4 topic=chem.substances role=prod conf=65 src=ai
+Stoff                    noun   grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+Styropor                 noun   grade=3-4 topic=chem.substances role=prod conf=60 src=ai
+trennen                  verb   grade=3-4 topic=chem.substances|environment role=prod conf=80 src=ai
+undurchsichtig           adj    grade=3-4 topic=chem.substances|phys.optics role=prod conf=70 src=ai
+verdampfen               verb   grade=3-4 topic=chem.substances|phys.heat role=prod conf=70 src=ai
+verdunsten               verb   grade=3-4 topic=chem.substances|phys.heat role=prod conf=80 src=ai
+Wasserdampf              noun   grade=3-4 topic=chem.substances|weather role=prod conf=80 src=ai
+wasserdicht              adj    grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+zerbrechlich             adj    grade=3-4 topic=chem.substances role=prod conf=70 src=ai
+
+# grade 3-4 · environment
+Abfall                   noun   grade=3-4 topic=environment role=prod conf=75 src=ai
+Recycling                noun   grade=3-4 topic=environment role=prod conf=70 src=ai
+Umweltschutz             noun   grade=3-4 topic=environment role=prod conf=80 src=ai
+Verschmutzung            noun   grade=3-4 topic=environment role=rec conf=70 src=ai
+
+# grade 3-4 · geo.water
+Abwasser                 noun   grade=3-4 topic=geo.water|environment role=prod conf=70 src=ai
+Grundwasser              noun   grade=3-4 topic=geo.water role=rec conf=70 src=ai
+Kläranlage               noun   grade=3-4 topic=geo.water|environment role=prod conf=70 src=ai
+Trinkwasser              noun   grade=3-4 topic=geo.water|environment role=prod conf=80 src=ai
+Wasserwerk               noun   grade=3-4 topic=geo.water role=rec conf=65 src=ai
+
+# grade 3-4 · health
+Bakterie                 noun   grade=3-4 topic=health role=rec conf=70 src=ai
+Eiweiß                   noun   grade=3-4 topic=health|food role=prod conf=70 src=ai
+ernähren                 verb   grade=3-4 topic=health|bio.animals role=prod conf=75 src=ai
+Ernährung                noun   grade=3-4 topic=health|food role=prod conf=80 src=ai
+Ernährungskreis          noun   grade=3-4 topic=health|food role=rec conf=55 src=ai
+Ernährungspyramide       noun   grade=3-4 topic=health|food role=prod conf=70 src=ai
+Fett                     noun   grade=3-4 topic=health|food role=prod conf=75 src=ai
+Hygiene                  noun   grade=3-4 topic=health role=rec conf=70 src=ai
+Impfung                  noun   grade=3-4 topic=health role=rec conf=70 src=ai
+Mineralstoff             noun   grade=3-4 topic=health|food role=rec conf=55 src=ai
+Nährstoff                noun   grade=3-4 topic=health|food role=rec conf=65 src=ai
+Virus                    noun   grade=3-4 topic=health role=rec conf=70 src=ai
+
+# grade 3-4 · phys.acoustics
+Lautstärke               noun   grade=3-4 topic=phys.acoustics role=prod conf=75 src=ai
+Schall                   noun   grade=3-4 topic=phys.acoustics role=rec conf=70 src=ai
+schwingen                verb   grade=3-4 topic=phys.acoustics role=prod conf=65 src=ai
+Schwingung               noun   grade=3-4 topic=phys.acoustics role=rec conf=60 src=ai
+
+# grade 3-4 · phys.astronomy
+abnehmen                 verb   grade=3-4 topic=phys.astronomy role=prod conf=65 src=ai
+Achse                    noun   grade=3-4 topic=phys.astronomy|tech role=prod conf=70 src=ai
+Erdachse                 noun   grade=3-4 topic=phys.astronomy role=rec conf=65 src=ai
+Erdkugel                 noun   grade=3-4 topic=phys.astronomy role=prod conf=70 src=ai
+Globus                   noun   grade=3-4 topic=phys.astronomy|geo.maps role=prod conf=80 src=ai
+Mondfinsternis           noun   grade=3-4 topic=phys.astronomy role=rec conf=60 src=ai
+Mondphase                noun   grade=3-4 topic=phys.astronomy role=prod conf=70 src=ai
+Neumond                  noun   grade=3-4 topic=phys.astronomy role=prod conf=75 src=ai
+Planet                   noun   grade=3-4 topic=phys.astronomy role=prod conf=80 src=ai
+Sonnenfinsternis         noun   grade=3-4 topic=phys.astronomy role=rec conf=65 src=ai
+Sonnensystem             noun   grade=3-4 topic=phys.astronomy role=rec conf=70 src=ai
+Sonnenuhr                noun   grade=3-4 topic=phys.astronomy role=prod conf=65 src=ai
+Sternbild                noun   grade=3-4 topic=phys.astronomy role=prod conf=65 src=ai
+zunehmen                 verb   grade=3-4 topic=phys.astronomy role=prod conf=65 src=ai
+
+# grade 3-4 · phys.electricity
+abstoßen                 verb   grade=3-4 topic=phys.electricity role=prod conf=70 src=ai
+anziehen                 verb   grade=3-4 topic=phys.electricity role=prod conf=75 src=ai
+Anziehungskraft          noun   grade=3-4 topic=phys.electricity|phys.mechanics role=rec conf=65 src=ai
+Draht                    noun   grade=3-4 topic=phys.electricity role=prod conf=80 src=ai
+Dynamo                   noun   grade=3-4 topic=phys.electricity|tech role=rec conf=65 src=ai
+elektrisch               adj    grade=3-4 topic=phys.electricity role=prod conf=80 src=ai
+Elektrizität             noun   grade=3-4 topic=phys.electricity role=rec conf=70 src=ai
+Glühlampe                noun   grade=3-4 topic=phys.electricity role=prod conf=70 src=ai
+isolieren                verb   grade=3-4 topic=phys.electricity role=rec conf=60 src=ai
+Kompass                  noun   grade=3-4 topic=phys.electricity|geo.maps role=prod conf=80 src=ai
+Kompassnadel             noun   grade=3-4 topic=phys.electricity role=rec conf=65 src=ai
+Kurzschluss              noun   grade=3-4 topic=phys.electricity role=rec conf=65 src=ai
+leiten                   verb   grade=3-4 topic=phys.electricity role=prod conf=75 src=ai
+Leiter:conductor         noun   grade=3-4 topic=phys.electricity role=rec conf=65 src=ai
+Lämpchen                 noun   grade=3-4 topic=phys.electricity role=prod conf=75 src=ai
+magnetisch               adj    grade=3-4 topic=phys.electricity role=prod conf=80 src=ai
+Magnetismus              noun   grade=3-4 topic=phys.electricity role=rec conf=60 src=ai
+Minuspol                 noun   grade=3-4 topic=phys.electricity role=prod conf=70 src=ai
+Nichtleiter              noun   grade=3-4 topic=phys.electricity role=rec conf=65 src=ai
+Nordpol                  noun   grade=3-4 topic=phys.electricity|geo.maps role=prod conf=80 src=ai
+Pluspol                  noun   grade=3-4 topic=phys.electricity role=prod conf=70 src=ai
+Pol                      noun   grade=3-4 topic=phys.electricity role=prod conf=75 src=ai
+Stromkreis               noun   grade=3-4 topic=phys.electricity role=prod conf=85 src=ai
+Südpol                   noun   grade=3-4 topic=phys.electricity|geo.maps role=prod conf=80 src=ai
+
+# grade 3-4 · phys.energy
+Energie                  noun   grade=3-4 topic=phys.energy role=prod conf=75 src=ai
+Solarzelle               noun   grade=3-4 topic=phys.energy|tech role=rec conf=65 src=ai
+Stromverbrauch           noun   grade=3-4 topic=phys.energy|environment role=rec conf=60 src=ai
+
+# grade 3-4 · phys.heat
+abkühlen                 verb   grade=3-4 topic=phys.heat role=prod conf=75 src=ai
+ausdehnen                verb   grade=3-4 topic=phys.heat role=rec conf=60 src=ai
+Celsius                  propn  grade=3-4 topic=phys.heat role=rec conf=65 src=ai
+erwärmen                 verb   grade=3-4 topic=phys.heat role=prod conf=75 src=ai
+Gefrierpunkt             noun   grade=3-4 topic=phys.heat role=rec conf=70 src=ai
+kondensieren             verb   grade=3-4 topic=phys.heat role=rec conf=60 src=ai
+Temperatur               noun   grade=3-4 topic=phys.heat|weather role=prod conf=85 src=ai
+Verdunstung              noun   grade=3-4 topic=phys.heat|weather role=prod conf=75 src=ai
+
+# grade 3-4 · phys.mechanics
+Auftrieb                 noun   grade=3-4 topic=phys.mechanics role=rec conf=60 src=ai
+Fallschirm               noun   grade=3-4 topic=phys.mechanics role=prod conf=70 src=ai
+Gleichgewicht            noun   grade=3-4 topic=phys.mechanics role=prod conf=70 src=ai
+Kraft                    noun   grade=3-4 topic=phys.mechanics role=prod conf=75 src=ai
+Luftwiderstand           noun   grade=3-4 topic=phys.mechanics role=rec conf=55 src=ai
+schweben                 verb   grade=3-4 topic=phys.mechanics role=prod conf=70 src=ai
+
+# grade 3-4 · phys.optics
+Fernrohr                 noun   grade=3-4 topic=phys.optics role=prod conf=70 src=ai
+Lichtquelle              noun   grade=3-4 topic=phys.optics role=prod conf=70 src=ai
+Lichtstrahl              noun   grade=3-4 topic=phys.optics role=prod conf=70 src=ai
+
+# grade 3-4 · science.method
+Becherglas               noun   grade=3-4 topic=science.method role=rec conf=60 src=ai
+Beobachtung              noun   grade=3-4 topic=science.method role=prod conf=80 src=ai
+Beobachtungsbogen        noun   grade=3-4 topic=science.method role=rec conf=55 src=ai
+bestimmen                verb   grade=3-4 topic=science.method|bio.plants role=prod conf=70 src=ai
+durchführen              verb   grade=3-4 topic=science.method role=rec conf=65 src=ai|freq
+Durchführung             noun   grade=3-4 topic=science.method role=rec conf=65 src=ai
+Experiment               noun   grade=3-4 topic=science.method role=prod conf=80 src=ai
+experimentieren          verb   grade=3-4 topic=science.method role=prod conf=80 src=ai
+feststellen              verb   grade=3-4 topic=science.method role=rec conf=62 src=ai|freq
+Gemeinsamkeit            noun   grade=3-4 topic=science.method role=prod conf=70 src=ai
+Merkmal                  noun   grade=3-4 topic=science.method|bio.animals role=prod conf=75 src=ai
+Mikroskop                noun   grade=3-4 topic=science.method|phys.optics role=rec conf=65 src=ai
+notieren                 verb   grade=3-4 topic=science.method role=prod conf=75 src=ai
+Pipette                  noun   grade=3-4 topic=science.method role=rec conf=60 src=ai
+Protokoll                noun   grade=3-4 topic=science.method role=rec conf=65 src=ai
+Schutzbrille             noun   grade=3-4 topic=science.method role=rec conf=65 src=ai
+Skizze                   noun   grade=3-4 topic=science.method role=prod conf=70 src=ai
+testen                   verb   grade=3-4 topic=science.method role=prod conf=75 src=ai
+untersuchen              verb   grade=3-4 topic=science.method role=prod conf=80 src=ai
+Ursache                  noun   grade=3-4 topic=science.method role=prod conf=70 src=ai
+vermuten                 verb   grade=3-4 topic=science.method role=prod conf=80 src=ai
+Vermutung                noun   grade=3-4 topic=science.method role=prod conf=80 src=ai
+Versuchsaufbau           noun   grade=3-4 topic=science.method role=rec conf=65 src=ai
+Versuchsprotokoll        noun   grade=3-4 topic=science.method role=rec conf=65 src=ai
+
+# grade 3-4 · tech
+Bauwerk                  noun   grade=3-4 topic=tech role=rec conf=65 src=ai
+Erfinder                 noun   grade=3-4 topic=tech role=prod conf=75 src=ai
+Erfindung                noun   grade=3-4 topic=tech role=prod conf=75 src=ai
+Feile                    noun   grade=3-4 topic=tech role=prod conf=60 src=ai
+Flaschenzug              noun   grade=3-4 topic=tech|phys.mechanics role=rec conf=65 src=ai
+Hebel                    noun   grade=3-4 topic=tech|phys.mechanics role=prod conf=75 src=ai
+Modell                   noun   grade=3-4 topic=tech role=prod conf=70 src=ai
+stabil                   adj    grade=3-4 topic=tech role=prod conf=75 src=ai
+Technik                  noun   grade=3-4 topic=tech role=prod conf=75 src=ai
+Wasserrad                noun   grade=3-4 topic=tech role=rec conf=65 src=ai
+Zahnrad                  noun   grade=3-4 topic=tech role=prod conf=75 src=ai
+
+# grade 3-4 · weather
+Luftdruck                noun   grade=3-4 topic=weather|phys.mechanics role=rec conf=65 src=ai
+Niederschlag             noun   grade=3-4 topic=weather role=prod conf=75 src=ai
+Regenmesser              noun   grade=3-4 topic=weather role=prod conf=70 src=ai
+regnerisch               adj    grade=3-4 topic=weather role=prod conf=75 src=ai
+Reif                     noun   grade=3-4 topic=weather role=prod conf=65 src=ai
+stürmisch                adj    grade=3-4 topic=weather role=prod conf=75 src=ai
+Tau:dew                  noun   grade=3-4 topic=weather role=prod conf=65 src=ai
+Wasserkreislauf          noun   grade=3-4 topic=weather|geo.water role=prod conf=80 src=ai
+Wetterfahne              noun   grade=3-4 topic=weather role=rec conf=55 src=ai
+Wetterstation            noun   grade=3-4 topic=weather role=prod conf=70 src=ai
+Wettervorhersage         noun   grade=3-4 topic=weather role=prod conf=75 src=ai
+Windmesser               noun   grade=3-4 topic=weather role=rec conf=60 src=ai
+Windrichtung             noun   grade=3-4 topic=weather role=prod conf=75 src=ai
+Windstärke               noun   grade=3-4 topic=weather role=prod conf=70 src=ai

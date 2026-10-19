@@ -1,0 +1,53 @@
+# English EFL graded vocabulary, topic group `environment` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade 7-8 · environment
+carbon                   noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
+chemical                 adj    grade=7-8 cefr=B1 topic=environment role=prod conf=60 src=ai
+chemical                 noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+coal                     noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+consume                  verb   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+consumption              noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+disaster                 noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+eco-friendly             adj    grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+emission                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+environment              noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
+environmental            adj    grade=7-8 cefr=B1 topic=environment role=prod conf=70 src=ai
+environmentally          adv    grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+garbage                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
+gas                      noun   grade=7-8 cefr=A2 topic=environment|science|anglophone.us role=rec conf=55 src=ai|freq
+generation               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+global                   adj    grade=7-8 cefr=B1 topic=environment role=rec conf=55 src=ai|freq
+greenhouse               noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+habitat                  noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
+harm                     noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+harm                     verb   grade=7-8 cefr=B1 topic=environment role=prod conf=60 src=ai
+harmful                  adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+litter                   noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+melt                     verb   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+nuclear                  adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+organic                  adj    grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+packaging                noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+plastic                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
+pollute                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
+polluted                 adj    grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+pollution                noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
+power                    noun   grade=7-8 cefr=B1 topic=environment|technology role=rec conf=65 src=ai|freq
+protect                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+protection               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+rainforest               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+recycle                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
+recycling                noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
+renewable                adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+resource                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
+reuse                    verb   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+rubbish                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+solar                    adj    grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+sustainable              adj    grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+toxic                    adj    grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
+trash                    noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
+warming                  noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+waste                    noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+waste                    verb   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+wildfire                 noun   grade=7-8 cefr=B1 topic=environment role=prod conf=60 src=ai
