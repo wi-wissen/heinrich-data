@@ -3,6 +3,7 @@ secondly adv type=conj
 seldom adv type=frequency
 severally adv note=legal register: jointly and severally
 sideways adv
+smilingly adv type=manner
 somehow adv type=manner
 sometime adv type=time
 sometimes adv type=frequency

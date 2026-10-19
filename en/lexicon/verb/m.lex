@@ -10,6 +10,7 @@ man           verb
 manage        verb
 mandate       verb
 maneuver verb gb=manoeuvre
+mangle verb
 manifest      verb
 manipulate verb
 manufacture   verb
@@ -113,6 +114,7 @@ mortify verb
 mother        verb
 motion        verb
 motivate      verb
+motor verb
 motorize verb gb=motorise|motorize
 mount         verb
 mourn         verb

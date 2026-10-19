@@ -7,6 +7,7 @@ wary adj cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
 watchful adj cmp=more
+waterproof adj
 watery adj cmp=er|more
 wavy adj cmp=er
 weak adj cmp=er adv=weakly

@@ -43,6 +43,8 @@ elite adj
 eloquent adj adv=eloquently
 elusive adj cmp=more
 embarrassed adj cmp=more
+emblematic adj
+emergent adj
 emeritus adj
 eminent adj adv=eminently
 emotional adj adv=emotionally
@@ -74,7 +76,7 @@ equatorial adj
 equestrian adj
 equine adj
 equitable adj adv=equitably
-equivalent adj
+equivalent adj adv=equivalently
 erect adj
 ergonomic adj adv=ergonomically
 erotic adj
@@ -117,6 +119,7 @@ exercisable adj
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
 exogamous adj
+exorbitant adj adv=exorbitantly
 exotic adj
 expansive adj
 expectant adj
@@ -129,6 +132,7 @@ experimental adj adv=experimentally
 expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
+exploitative adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly
@@ -146,3 +150,4 @@ extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj
+exuberant adj cmp=more adv=exuberantly

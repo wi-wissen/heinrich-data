@@ -1,5 +1,6 @@
 hack verb
 hail           verb
+hallow verb
 halt           verb
 halve verb
 hammer         verb

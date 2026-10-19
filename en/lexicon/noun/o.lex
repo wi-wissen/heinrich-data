@@ -24,6 +24,7 @@ obsession noun
 obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
+obverse noun
 occasion      noun
 occult noun note=the occult
 occupancy noun
@@ -50,6 +51,7 @@ officer       noun
 official      noun
 officialdom noun pl=- note=uncountable
 offset        noun
+offshoot noun
 offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
@@ -73,6 +75,7 @@ onset         noun
 onslaught noun
 onus noun pl=- note=singular only
 op noun style=colloquial note=short for operation: photo op, special ops
+opal noun
 opener noun
 opening       noun
 openness      noun pl=- note=uncountable
@@ -124,10 +127,13 @@ original      noun
 originality noun pl=- note=uncountable
 originator noun
 ornament      noun
+ornamentation noun
 orphan noun
+orphanage noun
 orthography noun
 OS            noun abbr note=operating system
 oscillation noun
+oscillator noun
 ostrich noun
 otter noun
 Ottoman noun note=plural Ottomans

@@ -19,6 +19,7 @@ tape verb
 taper verb
 tar verb
 target verb
+tarnish verb
 tarry verb
 task verb
 taste verb
@@ -97,6 +98,7 @@ tone verb
 top verb
 topple verb
 torment verb
+torpedo verb
 torture verb
 toss verb
 total verb

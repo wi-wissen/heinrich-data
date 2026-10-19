@@ -12,6 +12,7 @@ zombie noun
 zone noun
 zoning noun pl=- note=uncountable
 zoo noun pl=zoos
+zoologist noun
 zoom noun
 zucchini noun pl=zucchini|zucchinis region=US note=British courgette
 Zulu noun

@@ -50,6 +50,7 @@ taskforce noun
 taste noun
 tatter noun note=mostly plural: in tatters
 tattoo noun
+tau noun
 taunt noun
 tavern noun
 tax noun
@@ -96,6 +97,7 @@ telephony noun pl=- note=uncountable
 telescope noun
 television noun
 teleworking noun pl=- note=uncountable
+teller noun
 temp noun style=colloquial note=temporary worker; also short for temperature
 temper noun
 temperament noun
@@ -150,6 +152,7 @@ textbook noun
 textile noun
 texture noun
 Thai noun note=the language; a Thai person
+thanksgiving noun
 thatch noun
 THC noun abbr pl=- note=tetrahydrocannabinol
 theater noun gb=theatre
@@ -211,6 +214,8 @@ tier noun
 tiger noun
 tights noun pl_only
 tile noun
+tilefish noun pl=tilefish|tilefishes
+tiller noun
 tilt noun
 timber noun
 time noun
@@ -299,6 +304,7 @@ tot noun
 total noun
 totality noun
 totem noun
+totemism noun pl=- note=uncountable
 toucan noun
 touch noun
 touchdown noun
@@ -323,6 +329,7 @@ toxin noun
 toy noun
 trace noun
 traceability noun pl=- note=uncountable
+trachea noun pl=tracheae|tracheas
 track noun
 tracker noun
 trackpad noun
@@ -400,6 +407,8 @@ tremor noun
 trench noun
 trend noun
 trespass noun
+tress noun
+triad noun
 trial noun
 triangle noun
 tribe noun
@@ -408,6 +417,7 @@ tribune noun
 tributary noun
 tribute noun
 trick noun
+trickery noun pl=- note=uncountable
 trickle noun
 trifle noun
 trilogy noun
@@ -450,6 +460,7 @@ TTY noun abbr note=teletypewriter
 tub noun
 tube noun
 tuberculosis noun pl=- note=uncountable
+tubing noun pl=- note=uncountable material; also the -ing form of tube
 tuft noun
 tug noun
 tuition noun pl=- note=uncountable
@@ -461,6 +472,7 @@ tuna noun pl=tuna|tunas
 tune noun
 tunic noun
 tunnel noun
+turban noun
 turbine noun
 turbo noun note=plural turbos
 turbulence noun
@@ -481,6 +493,7 @@ tusk noun
 tutor noun
 tutorial noun
 TV noun abbr note=television
+tweed noun
 tweet noun
 twig noun
 twilight noun

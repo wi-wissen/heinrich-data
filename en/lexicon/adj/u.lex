@@ -3,16 +3,19 @@ ugly           adj cmp=er
 Ukrainian      adj
 ultimate       adj adv=ultimately
 ultraviolet adj
+unabated adj
 unable         adj pred_only
 unacceptable   adj
 unaccompanied adj
 unaccountable adj adv=unaccountably
 unaccustomed adj
+unadjusted adj
 unaffected adj
 unaffiliated adj
 unanimous      adj adv=unanimously
 unanswered adj
 unarmed adj
+unattractive adj cmp=more
 unauthorized   adj gb=unauthorised|unauthorized
 unavailable    adj
 unavoidable adj adv=unavoidably
@@ -50,6 +53,7 @@ undergraduate  adj
 underground    adj
 underlying     adj attr_only
 underrepresented adj
+undersea adj
 underserved    adj
 understaffed adj
 understandable adj adv=understandably
@@ -57,6 +61,7 @@ understanding  adj
 underwater     adj
 underway       adj
 undesirable adj
+undetected adj
 undeveloped adj
 undisclosed adj
 undisputed adj
@@ -69,6 +74,7 @@ unearthly adj
 uneasy         adj cmp=er adv=uneasily
 unemployable adj
 unemployed     adj
+unenforceable adj
 unequal        adj adv=unequally
 unequivocal adj adv=unequivocally
 uneven adj cmp=more adv=unevenly
@@ -91,6 +97,8 @@ unhappy        adj cmp=er adv=unhappily
 unharmed adj
 unhealthy adj cmp=er
 unheard adj
+unheeded adj
+unhindered adj
 unidentified adj
 uniform        adj adv=uniformly
 uniformed adj
@@ -110,6 +118,7 @@ unique         adj adv=uniquely
 unitary        adj
 universal      adj adv=universally
 unjust         adj adv=unjustly
+unjustifiable adj adv=unjustifiably
 unjustified adj
 unkind adj cmp=er adv=unkindly
 unknown        adj
@@ -117,11 +126,14 @@ unlawful       adj adv=unlawfully
 unlicensed adj
 unlikely       adj cmp=er|more
 unlimited      adj
+unlisted adj
 unlucky adj cmp=er
 unmanned adj
 unmarked adj
 unmarried      adj
+unmatched adj
 unmistakable adj adv=unmistakably
+unmolested adj
 unmoved adj
 unnamed        adj
 unnatural      adj adv=unnaturally
@@ -134,6 +146,7 @@ unopposed adj
 unorganized    adj gb=unorganised|unorganized
 unpaid         adj
 unparalleled adj
+unplanned adj
 unpleasant     adj cmp=more adv=unpleasantly
 unpopular      adj
 unprecedented  adj
@@ -155,6 +168,7 @@ unrelated      adj
 unreleased adj
 unreliable adj
 unresolved adj
+unrestrained adj
 unrestricted adj
 unsafe         adj cmp=more
 unsatisfactory adj adv=unsatisfactorily
@@ -165,8 +179,10 @@ unsettled adj
 unsigned adj
 unskilled adj
 unsolicited adj
+unsolved adj
 unspeakable adj
 unspecified adj
+unspoken adj
 unstable       adj
 unsteady adj cmp=er adv=unsteadily
 unsuccessful   adj adv=unsuccessfully
@@ -184,6 +200,7 @@ untreated adj
 untrue adj
 unused         adj
 unusual        adj cmp=more adv=unusually
+unutterable adj
 unwanted adj
 unwarranted    adj
 unwavering adj
@@ -193,6 +210,7 @@ unwilling      adj adv=unwillingly
 unwise adj cmp=more
 unwonted adj style=archaic
 unworthy       adj cmp=more
+unyielding adj
 upcoming       adj
 upland adj
 upper          adj attr_only

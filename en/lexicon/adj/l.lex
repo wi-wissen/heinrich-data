@@ -15,9 +15,11 @@ Latin         adj note=capitalized: language and culture
 Latino        adj
 latter        adj attr_only
 Latvian adj
+laudable adj adv=laudably
 lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
+lax adj cmp=er adv=laxly
 lay           adj attr_only
 lazy          adj cmp=er adv=lazily
 leaden adj
@@ -49,6 +51,7 @@ liable        adj pred_only
 liberal       adj adv=liberally
 libertarian adj
 Libyan        adj
+licensable adj
 lifeless adj
 lifelong      adj attr_only
 lifesaving adj
@@ -62,6 +65,7 @@ linear        adj adv=linearly
 lingering     adj
 linguistic    adj adv=linguistically
 liquid        adj
+listless adj adv=listlessly
 literal       adj adv=literally
 literary      adj
 Lithuanian    adj
@@ -69,6 +73,7 @@ little        adj cmp=littler sup=littlest conf=85 note=less/least (quantity sen
 liturgical adj
 live          adj attr_only
 lively        adj cmp=er
+loathsome adj cmp=more
 local         adj adv=locally
 lofty         adj cmp=er
 logical       adj cmp=more adv=logically
@@ -96,6 +101,8 @@ luminous adj
 lumpy adj cmp=er
 lunar         adj
 lurid adj cmp=more adv=luridly
+lush adj cmp=er
+lustrous adj
 Lutheran      adj
 luxuriant adj
 luxurious     adj adv=luxuriously

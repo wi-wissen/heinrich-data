@@ -10,6 +10,7 @@ valentine noun
 valet noun
 validation    noun
 validity      noun pl=- note=uncountable
+valise noun
 valley        noun
 valor noun gb=valour pl=- note=uncountable
 valuable      noun
@@ -58,7 +59,7 @@ ventilation   noun pl=- note=uncountable
 venture       noun
 venue         noun
 veracity noun pl=- note=uncountable
-veranda noun
+veranda noun gb=veranda|verandah conf=90 note=verandah is the chiefly British spelling
 verb          noun
 verdict       noun
 verdure noun pl=- note=literary
@@ -66,6 +67,7 @@ verge         noun
 verification  noun
 vermilion noun pl=- note=uncountable as a color
 vernacular noun
+versatility noun pl=- note=uncountable
 verse         noun
 version       noun
 vertebrate noun
@@ -85,6 +87,7 @@ viability     noun pl=- note=uncountable
 viaduct noun
 vial noun
 vibration noun
+vibrato noun pl=vibratos
 vicar         noun
 vicarage noun
 vice          noun
@@ -139,6 +142,7 @@ vista         noun
 visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
+vizier noun
 vlog noun
 vocabulary    noun
 vocal         noun

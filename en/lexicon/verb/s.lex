@@ -100,6 +100,7 @@ shepherd verb
 shew verb past=shewed pp=shewn|shewed style=archaic note=archaic spelling of show
 shield verb
 shift verb
+shimmer verb
 shine verb past=shone|shined pp=shone|shined note=shined mainly transitive (shined his shoes)
 shingle verb
 ship verb
@@ -127,6 +128,7 @@ shuffle verb
 shun verb
 shunt verb
 shut verb past=shut pp=shut
+shutter verb
 shuttle verb
 shy verb note=of a horse: to start aside; shy away
 side verb
@@ -350,6 +352,7 @@ strand verb
 strangle verb
 strap verb
 stray verb
+streak verb
 stream verb
 streamline verb
 strengthen verb

@@ -8,6 +8,7 @@ salient adj cmp=more
 saline adj
 saltwater adj
 salty adj cmp=er
+salutary adj
 same adj
 sandy adj cmp=er
 sane adj cmp=er
@@ -17,6 +18,7 @@ sarcastic adj adv=sarcastically
 satirical adj
 satisfactory adj adv=satisfactorily
 satisfying adj
+saucy adj cmp=er
 Saudi adj
 savage adj cmp=more adv=savagely
 savory adj gb=savoury
@@ -44,6 +46,7 @@ scruffy adj cmp=er
 scrumptious adj
 scrupulous adj cmp=more adv=scrupulously
 seamless adj adv=seamlessly
+searchable adj
 seasick adj
 seasonal adj adv=seasonally
 seaward adj
@@ -56,6 +59,7 @@ secular adj
 secure adj cmp=more|er adv=securely
 sedentary adj cmp=more
 sedimentary adj
+seductive adj cmp=more adv=seductively
 seeming adj adv=seemingly
 seismic adj
 select adj
@@ -72,6 +76,7 @@ sensible adj cmp=more adv=sensibly
 sensitive adj cmp=more adv=sensitively
 sensory adj
 sensual adj cmp=more adv=sensually
+sensuous adj cmp=more adv=sensuously
 sentimental adj cmp=more
 separate adj adv=separately
 separatist adj
@@ -81,6 +86,7 @@ serene adj cmp=er|more adv=serenely
 serial adj
 serious adj cmp=more adv=seriously
 serviceable adj
+servile adj
 severe adj cmp=er|more adv=severely
 sexual adj adv=sexually
 shabby adj cmp=er
@@ -89,6 +95,7 @@ shady adj cmp=er
 shaggy adj cmp=er
 shallow adj cmp=er
 shameful adj cmp=more adv=shamefully
+shameless adj adv=shamelessly
 sharp adj cmp=er adv=sharply
 sheer adj cmp=er
 shiny adj cmp=er
@@ -109,6 +116,7 @@ significant adj cmp=more adv=significantly
 Sikh adj
 silent adj cmp=more adv=silently
 silken adj
+silky adj cmp=er
 silly adj cmp=er
 silvery adj
 similar adj cmp=more adv=similarly
@@ -120,6 +128,7 @@ single adj adv=singly
 singular adj adv=singularly
 sinister adj
 situated adj
+situational adj adv=situationally
 sizable adj
 sizeable adj note=spelling variant of sizable, used in both varieties
 sized adj
@@ -156,6 +165,7 @@ social adj adv=socially
 socialist adj
 societal adj
 socioeconomic adj
+sociological adj adv=sociologically
 soft adj cmp=er adv=softly
 soggy adj cmp=er
 solar adj
@@ -272,6 +282,7 @@ stripy adj
 strong adj cmp=er adv=strongly
 structural adj adv=structurally
 stubborn adj cmp=er|more adv=stubbornly
+studious adj adv=studiously
 stunning adj cmp=more adv=stunningly
 stupendous adj cmp=more adv=stupendously
 stupid adj cmp=er|more
@@ -307,6 +318,7 @@ summery adj
 sumptuous adj cmp=more adv=sumptuously
 sundry adj
 sunken adj
+sunlit adj
 Sunni adj
 sunny adj cmp=er
 super adj
@@ -323,7 +335,7 @@ supplemental adj
 supplementary adj
 supportive adj cmp=more
 supposed adj adv=supposedly
-supreme adj
+supreme adj adv=supremely
 sure adj cmp=er adv=surely
 surgical adj
 surly adj cmp=er

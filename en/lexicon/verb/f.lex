@@ -142,6 +142,7 @@ fret verb
 friend         verb
 frighten       verb
 fringe verb
+frolic verb
 front          verb
 frost          verb
 frown          verb

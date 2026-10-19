@@ -271,6 +271,7 @@ convert verb
 convey verb
 convict verb
 convince verb
+convulse verb
 cook verb
 cool verb
 cooperate verb gb=cooperate|co-operate
@@ -293,6 +294,7 @@ count verb
 countenance verb
 counter verb
 counteract verb
+counterattack verb
 counterfeit verb
 countersign verb
 couple verb
@@ -335,6 +337,7 @@ crowd verb
 crowdfund verb
 crowdsource verb
 crown verb
+crucify verb
 cruise verb
 crumble verb
 crumple verb

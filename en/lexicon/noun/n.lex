@@ -33,6 +33,7 @@ navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
 necklace      noun
@@ -61,6 +62,7 @@ nettle noun
 network       noun
 networking noun pl=- note=uncountable
 neuron noun gb=neuron|neurone
+neuroscience noun pl=- note=uncountable
 neutral       noun
 neutrality    noun pl=- note=uncountable
 neutron noun
@@ -107,6 +109,7 @@ noise         noun
 nomad noun
 nomenclature noun
 nomination    noun
+nominative noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable

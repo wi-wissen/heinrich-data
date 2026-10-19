@@ -3,6 +3,7 @@ kale noun pl=- note=uncountable
 kanban noun pl=- note=uncountable
 kangaroo noun
 karate noun pl=- note=uncountable
+karma noun pl=- note=uncountable
 Kazakh noun
 kebab noun
 keel noun
@@ -57,6 +58,7 @@ kite noun
 kitten noun
 kitty noun
 kiwi noun
+knack noun
 knave noun
 knee           noun
 kneecap noun

@@ -2,6 +2,7 @@ abashed adj
 abdominal adj
 abhorrent adj
 abject adj adv=abjectly
+ablaze adj pred_only
 able adj cmp=er|more adv=ably
 abnormal adj cmp=more adv=abnormally
 abolitionist adj
@@ -38,6 +39,7 @@ additional adj adv=additionally
 adequate adj adv=adequately
 adhesive adj
 adjacent adj
+adjudicatory adj
 adjustable adj
 administrative adj adv=administratively
 admirable adj adv=admirably
@@ -76,6 +78,7 @@ agile adj cmp=more adv=agilely
 agrarian adj
 agreeable adj cmp=more adv=agreeably
 agricultural adj adv=agriculturally
+aimless adj adv=aimlessly
 airborne adj
 airsick adj
 airy adj cmp=er adv=airily
@@ -108,6 +111,8 @@ amber adj
 ambient adj
 ambiguous adj cmp=more adv=ambiguously
 ambitious adj cmp=more adv=ambitiously
+ambulatory adj
+amenable adj
 American adj
 amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
@@ -117,6 +122,7 @@ amphibious adj
 ample adj cmp=er adv=amply
 amusing adj cmp=more adv=amusingly
 anaerobic adj adv=anaerobically
+anal adj
 analog adj gb=analogue conf=90 note=the noun is often analogue in American texts too
 analogous adj
 analytic adj
@@ -136,8 +142,10 @@ annoying adj cmp=more adv=annoyingly
 annual adj adv=annually
 anomalous adj
 anonymous adj adv=anonymously
+answerable adj
 antagonistic adj
 Antarctic adj
+antebellum adj
 anterior adj
 anthropogenic adj
 anti-aircraft adj
@@ -157,6 +165,7 @@ apparent adj adv=apparently
 appealing adj cmp=more adv=appealingly
 appellate adj attr_only
 applicable adj
+appreciable adj adv=appreciably
 appreciative adj cmp=more adv=appreciatively
 apprehensive adj cmp=more
 approachable adj cmp=more
@@ -209,6 +218,7 @@ Atlantic adj
 atmospheric adj
 atomic adj
 atrocious adj adv=atrociously
+attainable adj
 attentive adj cmp=more adv=attentively
 attractive adj cmp=more adv=attractively
 attributable adj
@@ -219,6 +229,7 @@ audible adj adv=audibly
 auditable adj
 auditory adj
 august adj note=dignified (an august body)
+auld adj note=Scots: old (auld lang syne)
 austere adj cmp=more adv=austerely
 Australian adj
 Austrian adj
@@ -245,6 +256,7 @@ aware adj cmp=more
 awesome adj cmp=more
 awful adj cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
+axial adj
 Azerbaijani adj
 Aztec adj
 azure adj

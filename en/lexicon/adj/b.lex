@@ -61,6 +61,7 @@ bitter adj cmp=er|more adv=bitterly
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
+blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
 blank adj
 blatant adj adv=blatantly
@@ -69,11 +70,13 @@ blessed adj
 blind adj cmp=er adv=blindly
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
+bloodless adj adv=bloodlessly
 bloody adj cmp=er
 blue adj cmp=er
 blunt adj cmp=er adv=bluntly
 blustery adj
 bodily adj
+bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
@@ -85,6 +88,7 @@ bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
 bourgeois adj
+bovine adj
 boyish adj cmp=more adv=boyishly
 brainy adj cmp=er
 brave adj cmp=er adv=bravely

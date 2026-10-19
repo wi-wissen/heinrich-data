@@ -34,6 +34,7 @@ negotiable adj
 neighboring     adj attr_only gb=neighbouring
 neoliberal adj
 Neolithic adj
+neonatal adj
 nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
@@ -54,8 +55,10 @@ noiseless adj adv=noiselessly
 noisy           adj cmp=er adv=noisily
 nomadic adj
 nominal         adj adv=nominally
+nominative adj
 nonbinding adj conf=80 note=also non-binding
 nonimmigrant    adj
+nonlinear adj adv=nonlinearly
 nonpartisan adj
 nonprescription adj
 nonprofit       adj
@@ -95,5 +98,6 @@ numeric adj adv=numerically
 numerical       adj adv=numerically
 numerous        adj cmp=more
 nutritional adj adv=nutritionally
+nutritious adj cmp=more
 nutty adj cmp=er
 née             adj note=born (introducing a maiden name)

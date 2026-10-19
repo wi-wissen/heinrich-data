@@ -57,6 +57,7 @@ wastewater noun pl=- note=uncountable
 watch noun
 watchdog noun
 watcher noun
+watchfulness noun pl=- note=uncountable
 water noun
 watercourse noun
 waterfall noun
@@ -125,8 +126,10 @@ wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
 Whig noun
 whim noun
+whin noun conf=90 note=gorse
 whip noun
 whirl noun
+whirlpool noun
 whisk noun
 whisker noun
 whiskey noun note=Irish and American spelling; see whisky
@@ -253,6 +256,7 @@ wrench noun
 wrestler noun
 wrestling noun pl=- note=uncountable; the sport
 wretch noun
+wretchedness noun pl=- note=uncountable
 wrinkle noun
 wrist noun
 writ noun

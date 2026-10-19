@@ -10,6 +10,7 @@ abide verb past=abided|abode[archaic] pp=abided|abode[archaic]
 abolish verb
 abort verb
 abound verb
+abridge verb
 abseil verb region=GB
 absorb verb
 abstain verb
@@ -25,6 +26,7 @@ accommodate verb
 accompany verb
 accomplish verb
 accord verb
+accost verb
 account verb
 accredit verb
 accrue verb
@@ -51,6 +53,7 @@ adjust verb
 administer verb
 admire verb
 admit verb double
+admonish verb
 adopt verb
 adore verb
 adorn verb
@@ -174,6 +177,7 @@ assure verb
 astonish verb
 astound verb
 atone verb
+atrophy verb
 attach verb
 attack verb
 attain verb
