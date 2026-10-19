@@ -1,5 +1,6 @@
 yearly adj
 yellow adj cmp=er
+yellowish adj
 young adj cmp=er
 youthful adj cmp=more
 yucky adj cmp=er style=colloquial

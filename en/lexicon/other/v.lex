@@ -1,3 +1,4 @@
+var. x abbr note=varietas, botanical variety
 versa x foreign note=only in vice versa
 Vicomte x foreign note=French title
 vitro x foreign note=only in in vitro

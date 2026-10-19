@@ -2,8 +2,10 @@ naive adj cmp=er|more adv=naively
 naked           adj adv=nakedly
 nameless adj
 Napoleonic      adj
+narcotic adj
 narrow          adj cmp=er adv=narrowly
 nasal           adj
+nascent adj
 nasty           adj cmp=er adv=nastily
 national        adj adv=nationally
 nationalist     adj
@@ -15,6 +17,7 @@ nautical adj adv=nautically
 Navajo          adj
 naval           adj
 navigable       adj
+navigational adj
 Nazi            adj
 naïve adj cmp=er|more adv=naïvely note=spelling with diaeresis
 near            adj cmp=er
@@ -23,10 +26,13 @@ neat            adj cmp=er adv=neatly
 necessary       adj cmp=more adv=necessarily
 needful adj
 needless adj adv=needlessly
+needy adj cmp=er
 negative        adj adv=negatively
+negligent adj cmp=more adv=negligently
 negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
+neoliberal adj
 Neolithic adj
 nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
@@ -40,6 +46,7 @@ next            adj
 nice            adj cmp=er adv=nicely
 Nigerian        adj
 nightly adj
+nimble adj cmp=er adv=nimbly
 nippy adj cmp=er
 noble           adj cmp=er adv=nobly
 nocturnal adj
@@ -49,6 +56,7 @@ nomadic adj
 nominal         adj adv=nominally
 nonbinding adj conf=80 note=also non-binding
 nonimmigrant    adj
+nonpartisan adj
 nonprescription adj
 nonprofit       adj
 nonquantitative adj
@@ -62,6 +70,7 @@ north           adj
 northbound adj
 northeast       adj
 northeastern    adj
+northerly adj
 northern        adj
 northernmost adj
 northward       adj
@@ -77,9 +86,13 @@ notional adj adv=notionally
 notorious       adj adv=notoriously
 novel           adj
 nuclear         adj
+nucleic adj
 nude adj
+null adj note=null and void
 numerate adj region=GB
+numeric adj adv=numerically
 numerical       adj adv=numerically
 numerous        adj cmp=more
+nutritional adj adv=nutritionally
 nutty adj cmp=er
 née             adj note=born (introducing a maiden name)

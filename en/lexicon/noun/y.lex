@@ -7,6 +7,7 @@ yawn noun
 year noun
 year-old noun note=a five-year-old
 yearning noun
+yeast noun
 yell noun
 yellow noun
 yesterday noun
@@ -15,6 +16,7 @@ yo-yo noun pl=yo-yos
 yogurt noun gb=yoghurt|yogurt
 yoke noun
 yolk noun
+yore noun pl=- style=archaic note=mainly in of yore
 Yorker noun note=demonym, in New Yorker
 youngster noun
 youth noun

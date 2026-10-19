@@ -8,6 +8,7 @@ nana noun style=colloquial note=grandmother
 nap noun
 napkin noun
 nappy noun region=GB note=US diaper
+narcotic noun
 narration noun
 narrative     noun
 narrator      noun
@@ -27,6 +28,7 @@ Navajo        noun pl=Navajo|Navajos conf=90 note=plural usage varies
 nave          noun
 navel noun
 navigation    noun
+navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
@@ -45,12 +47,14 @@ negotiator noun
 negro         noun pl=negroes note=historical term, now offensive
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
+neoliberal noun
 nephew        noun
 nerve         noun
 nervousness noun pl=- note=uncountable
 nest          noun
 net           noun
 netball noun pl=- note=uncountable
+nettle noun
 network       noun
 networking noun pl=- note=uncountable
 neuron noun gb=neuron|neurone
@@ -70,6 +74,7 @@ nibble noun
 niche noun
 nickel noun
 nickname      noun
+nicotine noun pl=- note=uncountable
 niece         noun
 Nigerian      noun
 night         noun
@@ -92,6 +97,7 @@ nobleman      noun pl=noblemen
 nod           noun
 node          noun
 noise         noun
+nomad noun
 nomenclature noun
 nomination    noun
 nominee       noun
@@ -100,9 +106,11 @@ noncompliance noun pl=- note=uncountable
 nonimmigrant  noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
+nonproliferation noun pl=- note=uncountable
 nonresident noun conf=80 note=also non-resident
 nonsense      noun pl=- note=uncountable
 noodle noun
+nook noun
 noon          noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norm          noun
@@ -119,6 +127,7 @@ notable       noun
 notarization noun gb=notarisation|notarization conf=85
 notary noun
 notation      noun
+notch noun
 note          noun
 notebook noun
 notepad noun
@@ -129,22 +138,30 @@ notification  noun
 notion        noun
 notoriety noun pl=- note=uncountable
 noun          noun
+nourishment noun pl=- note=uncountable
 nous          noun pl=- region=GB style=colloquial note=common sense
 nova          noun pl=novae|novas
 novel         noun
 novelist      noun
+novella noun
 novelty       noun
+novice noun
+nozzle noun
 NPRM          noun abbr note=notice of proposed rulemaking (US)
+nucleotide noun
 nucleus       noun pl=nuclei
 nude noun
 nugget noun
 nuisance      noun
 nullity noun
 number        noun
+numeral noun
+numerator noun
 nun noun
 nurse         noun
 nursery       noun
 nursing       noun pl=- note=the profession
+nurture noun
 nut           noun
 nutmeg noun
 nutrient noun

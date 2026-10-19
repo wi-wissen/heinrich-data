@@ -5,11 +5,14 @@ vacuum        verb
 validate verb
 value         verb
 vanish        verb
+vanquish verb
 vape verb
+varnish verb
 vary          verb
 vault         verb
 veil          verb
 vend verb
+venerate verb
 vent          verb
 venture       verb
 verge         verb
@@ -18,9 +21,12 @@ vest          verb
 vet verb
 veto          verb
 vex           verb
+vibrate verb
 video         verb
 videotape verb
+vie verb
 view          verb
+vindicate verb
 violate       verb
 visit         verb
 vlog verb

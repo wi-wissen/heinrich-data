@@ -11,37 +11,50 @@ talk verb
 tally verb
 tame verb
 tamp verb
+tamper verb
 tan verb
 tangle verb
 tap verb
+tape verb
 taper verb
 tar verb
 target verb
+tarry verb
 task verb
 taste verb
+tattoo verb
+taunt verb
 tax verb
 teach verb past=taught pp=taught
 team verb
 tear verb past=tore pp=torn
 tease verb
 tee verb
+telecast verb past=telecast|telecasted pp=telecast|telecasted conf=90 note=like broadcast; telecasted also occurs
 telecommute verb
 telegraph verb
 televise verb
 telework verb
 tell verb past=told pp=told
+temp verb style=colloquial note=to work as a temporary employee
 temper verb
 tempt verb
 tend verb
+tender verb
 term verb
 terminate verb
+terrace verb
 terrify verb
 test verb
 testify verb
+tether verb
 text verb
 thank verb
+thatch verb
 thaw verb
+thin verb
 think verb past=thought pp=thought
+thrash verb
 thread verb
 threaten verb
 thrill verb
@@ -50,6 +63,7 @@ throb verb
 throng verb
 throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
+thump verb
 thunder verb
 thwart verb
 tick verb
@@ -60,18 +74,25 @@ tighten verb
 tilt verb
 time verb
 timestamp verb conf=70
+tinge verb ing=tingeing|tinging
+tingle verb
+tinker verb
+tinkle verb
 tint verb
 tip verb
 tiptoe verb
 tire verb
+tithe verb
 title verb
 toast verb
 toboggan verb
 toggle verb
 toil verb
 tolerate verb
+toll verb
 tone verb
 top verb
+topple verb
 torment verb
 torture verb
 toss verb
@@ -79,7 +100,10 @@ total verb
 totter verb
 touch verb
 tour verb
+tout verb
 tow verb
+towel verb
+tower verb
 trace verb
 track verb
 trade verb
@@ -87,6 +111,7 @@ trademark verb
 traffic verb
 trail verb
 train verb
+tramp verb
 trample verb
 transcribe verb
 transfer verb double
@@ -103,27 +128,39 @@ traverse verb
 trawl verb
 tread verb past=trod pp=trodden|trod
 treat verb
+treble verb
 trek verb
 tremble verb
+trend verb
+trespass verb
 trick verb
+trickle verb
 trigger verb
 trim verb
 trip verb
+triple verb
+troll verb
 trot verb
 trouble verb
 troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
 trudge verb
+trump verb
 truncate verb
+truss verb
 trust verb
 try verb
 tuck verb
 tug verb
 tumble verb
 tune verb
+turbocharge verb
 turn verb
+tutor verb
 tweet verb
 twin verb
+twine verb
 twinkle verb
 twist verb
+twitch verb
 type verb
 typify verb

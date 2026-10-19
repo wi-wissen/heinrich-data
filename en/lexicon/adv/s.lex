@@ -14,4 +14,5 @@ southward adv type=place
 squarely adv
 stiffly adv
 straight adv type=manner
+straightway adv type=time style=archaic
 summarily adv
