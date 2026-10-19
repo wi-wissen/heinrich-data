@@ -8,6 +8,7 @@ Wellington propn g=n gen=Wellingtons pl=- note=proper name; no plural
 Wesel propn g=n gen=Wesels pl=- note=proper name, no plural
 Weser propn g=f gen=Weser pl=- note=river; no plural
 Westafrika propn g=n gen=Westafrikas pl=- note=proper name; no plural
+Westeuropa propn g=n gen=Westeuropas pl=- note=proper name; no plural
 Westfalen propn g=n gen=Westfalens pl=- note=proper name, no plural
 Westminster propn g=n gen=Westminsters pl=- note=proper name; no plural
 Wetzlar propn g=n gen=Wetzlars pl=- note=proper name, no plural

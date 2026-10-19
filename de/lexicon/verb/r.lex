@@ -18,6 +18,7 @@ rauben verb class=weak pp=geraubt perf=haben
 rauchen verb class=weak pp=geraucht perf=haben
 räuchern verb class=weak pp=geräuchert perf=haben
 raufen verb class=weak pp=gerauft perf=haben refl=acc
+räumen verb class=weak pp=geräumt perf=haben
 raunen verb class=weak pp=geraunt perf=haben
 rausbringen verb class=mixed sep=raus 3sg=rausbringt past=rausbrachte subj2=rausbrächte pp=rausgebracht perf=haben
 rauschen verb class=weak pp=gerauscht perf=haben|sein
@@ -180,4 +181,5 @@ runterstürzen verb class=weak sep=runter pp=runtergestürzt perf=haben|sein
 runtertragen verb class=strong sep=runter 3sg=runterträgt past=runtertrug subj2=runtertrüge pp=runtergetragen perf=haben
 runterwerfen verb class=strong sep=runter 3sg=runterwirft past=runterwarf subj2=runterwürfe pp=runtergeworfen perf=haben
 runterziehen verb class=strong sep=runter 3sg=runterzieht past=runterzog pp=runtergezogen subj2=runterzöge perf=haben
+rüsten verb class=weak pp=gerüstet perf=haben refl=acc
 rutschen verb class=weak pp=gerutscht perf=sein

@@ -43,6 +43,7 @@ Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
 Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly no plural
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eigentümerin noun g=f gen=Eigentümerin pl=Eigentümerinnen
+Eigner noun g=m gen=Eigners pl=Eigner
 Eignung noun g=f gen=Eignung pl=Eignungen
 Eilbedürftigkeit noun g=f gen=Eilbedürftigkeit pl=- note=mass noun
 Eile noun g=f gen=Eile pl=- note=no plural
@@ -193,6 +194,7 @@ EM noun g=f gen=EM pl=- note=Europameisterschaft; no plural
 Embryo noun g=m gen=Embryos pl=Embryonen|Embryos
 Emeritierung noun g=f gen=Emeritierung pl=Emeritierungen
 Emir noun g=m gen=Emirs pl=Emire
+Emirat noun g=n gen=Emirats|Emirates pl=Emirate
 Emission noun g=f gen=Emission pl=Emissionen
 Emittent noun g=m gen=Emittenten pl=Emittenten
 Emoji noun g=m|n gen=Emojis pl=Emojis
@@ -261,6 +263,8 @@ Entziehung noun g=f gen=Entziehung pl=Entziehungen
 Entzug noun g=m gen=Entzugs|Entzuges pl=Entzüge
 Entzündung noun g=f gen=Entzündung pl=Entzündungen
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
+Enzym noun g=n gen=Enzyms pl=Enzyme
+Epidemie noun g=f gen=Epidemie pl=Epidemien
 Epik noun g=f gen=Epik pl=- note=no plural
 Epilog noun g=m gen=Epilogs pl=Epiloge
 Episode noun g=f gen=Episode pl=Episoden
@@ -337,6 +341,7 @@ Ernte noun g=f gen=Ernte pl=Ernten
 Eroberung noun g=f gen=Eroberung pl=Eroberungen
 Eröffnung noun g=f gen=Eröffnung pl=Eröffnungen
 Erörterung noun g=f gen=Erörterung pl=Erörterungen
+Erosion noun g=f gen=Erosion pl=Erosionen
 Erpressung noun g=f gen=Erpressung pl=Erpressungen
 Erprobung noun g=f gen=Erprobung pl=Erprobungen
 Erreger noun g=m gen=Erregers pl=Erreger
@@ -415,6 +420,7 @@ Euter noun g=n gen=Euters pl=Euter
 Evakuierung noun g=f gen=Evakuierung pl=Evakuierungen
 Evaluation noun g=f gen=Evaluation pl=Evaluationen
 Evaluierung noun g=f gen=Evaluierung pl=Evaluierungen
+Evangelist noun g=m gen=Evangelisten pl=Evangelisten
 Evangelium noun g=n gen=Evangeliums pl=Evangelien
 Evolution noun g=f gen=Evolution pl=- note=no plural
 EWG noun g=f gen=EWG pl=- note=Europäische Wirtschaftsgemeinschaft; no plural

@@ -13,6 +13,7 @@ Niederlande propn g=pl
 Niederösterreich propn g=n gen=Niederösterreichs pl=- note=proper name; no plural
 Niederrhein propn g=m gen=Niederrheins pl=- note=region
 Niedersachsen propn g=n gen=Niedersachsens pl=- note=proper name; no plural
+Niederschlesien propn g=n gen=Niederschlesiens pl=- note=proper name; no plural
 Niger propn g=m gen=Niger|Nigers pl=- note=der Niger (river, country)
 Nigeria propn g=n gen=Nigerias pl=- note=proper name; no plural
 Nizza propn g=n gen=Nizzas pl=- note=proper name; no plural

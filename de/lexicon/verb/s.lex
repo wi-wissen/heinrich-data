@@ -35,6 +35,7 @@ scheppern verb class=weak pp=gescheppert perf=haben
 scheren verb class=strong 3sg=schert|schiert[rare] past=schor pp=geschoren subj2=schöre perf=haben
 scheren verb class=strong 3sg=schert past=schor pp=geschoren subj2=schöre perf=haben sense=cut note=Schafe scheren; den Kopf scheren
 scheren verb class=weak pp=geschert perf=haben refl=acc sense=care note=sich nicht um etwas scheren
+scheuen verb class=weak pp=gescheut perf=haben refl=acc
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
 schielen verb class=weak pp=geschielt perf=haben
@@ -151,6 +152,7 @@ siechen verb class=weak pp=gesiecht perf=haben conf=85 note=mostly dahinsiechen
 siegeln verb class=weak pp=gesiegelt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
 siezen verb class=weak pp=gesiezt perf=haben
+signalisieren verb class=weak pp=signalisiert perf=haben
 signieren verb class=weak pp=signiert perf=haben
 simpeln verb class=weak pp=gesimpelt perf=haben conf=80 note=rare, mostly fachsimpeln
 simsen verb class=weak pp=gesimst perf=haben style=colloquial

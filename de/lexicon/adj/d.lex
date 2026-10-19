@@ -8,11 +8,13 @@ dauernd adj
 dazugehörig adj
 defekt adj
 definitiv adj
+dekorativ adj cmp=dekorativer sup=dekorativsten
 demografisch adj
 demokratisch adj
 demütig adj
 denkbar adj
 derartig adj
+derb adj cmp=derber sup=derbsten
 derzeitig adj attr_only
 desinteressiert adj cmp=desinteressierter sup=desinteressiertesten
 detailliert adj cmp=detaillierter sup=detailliertesten
@@ -20,6 +22,7 @@ deutlich      adj cmp=deutlicher sup=deutlichsten
 deutsch      adj
 deutschsprachig adj
 dezent adj cmp=dezenter sup=dezentesten
+dezentral adj
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
@@ -44,6 +47,7 @@ drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
+dreidimensional adj
 dreifach adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
