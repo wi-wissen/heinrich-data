@@ -84,3 +84,14 @@ dictionary or LanguageTool file was consulted). Format: `Heinrich/docs/LEXICON_F
 closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, prepositions,
 conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
 by hand on 2026-10-18.
+
+## Thesauri (`thesaurus/`, third-party, exception)
+
+Not our own data: two thesauri kept unchanged as input of the optional thesaurus packs only (owner decision
+2026-10-19; details, checksums and licence texts in `thesaurus/README.md` and the sub-folders). Never used to
+write or check the lexicon, the frequency lists or the name lists.
+
+| Source | Folder | Version | Licence | Packs |
+|---|---|---|---|---|
+| OpenThesaurus, https://www.openthesaurus.de | `thesaurus/de-openthesaurus/` | text export 2026-10-18 | CC BY-SA 4.0 (chosen from CC BY-SA 4.0 / LGPL 2.1) | `de-thes.pack` |
+| Open English WordNet, https://en-word.net | `thesaurus/en-oewn/` | 2025 | CC BY 4.0 | `en-thes.pack`, `en-gloss.pack` |
