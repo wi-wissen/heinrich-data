@@ -15,12 +15,14 @@ dazzling adj cmp=more adv=dazzlingly
 dead adj cmp=er|more
 deadly adj cmp=er|more
 deaf adj cmp=er
+deafblind adj
 deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
 deceased adj
 decennial adj
 decent adj cmp=more adv=decently
 deceptive adj
+deciduous adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
@@ -28,14 +30,17 @@ decorous adj
 deductible adj
 deep adj cmp=er adv=deeply
 defective adj
+defenseless adj gb=defenceless
 defensive adj adv=defensively
 defiant adj adv=defiantly
 deficient adj
 definite adj adv=definitely
 definitive adj adv=definitively
 deformed adj
+deft adj cmp=er adv=deftly
 defunct adj
 degenerate adj
+dejected adj adv=dejectedly
 deleterious adj
 deliberate adj adv=deliberately
 delicate adj cmp=more adv=delicately
@@ -48,6 +53,7 @@ deluxe adj
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
+demonstrable adj adv=demonstrably
 demonstrative adj adv=demonstratively
 dense adj cmp=er adv=densely
 dental adj
@@ -56,6 +62,7 @@ dependable adj cmp=more
 dependent adj cmp=more
 deplorable adj cmp=more adv=deplorably
 depressed adj cmp=more
+depressive adj
 derelict adj
 derivative adj
 derogatory adj
@@ -72,6 +79,7 @@ destitute adj
 destructive adj cmp=more adv=destructively
 desultory adj
 detached adj
+detectable adj
 determined adj cmp=more adv=determinedly
 deterministic adj
 deterrent adj
@@ -120,6 +128,7 @@ disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
 disconsolate adj adv=disconsolately
 discontented adj
+discordant adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
 discretionary adj
@@ -130,12 +139,15 @@ disgusted adj cmp=more
 dishonest adj adv=dishonestly
 disillusioned adj cmp=more
 disinterested adj
+disjoint adj
+disjointed adj cmp=more adv=disjointedly
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
 disparate adj cmp=more
 disposable adj
 disproportionate adj adv=disproportionately
+disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
@@ -177,12 +189,14 @@ downstream adj
 downtown adj
 downward adj
 downy adj cmp=er
+drab adj cmp=er adv=drably
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
 dreamy adj cmp=er adv=dreamily
 dreary adj cmp=er adv=drearily
 drizzly adj
+droll adj cmp=er
 drowsy adj cmp=er
 drunk adj cmp=er|more
 drunken adj adv=drunkenly
@@ -204,3 +218,4 @@ Dutch adj
 dutiful adj adv=dutifully
 dynamic adj adv=dynamically
 dynastic adj
+dysfunctional adj

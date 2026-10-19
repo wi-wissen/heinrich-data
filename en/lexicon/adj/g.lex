@@ -8,6 +8,7 @@ gaudy adj cmp=er
 gaunt adj cmp=er
 gay            adj cmp=er
 geeky adj cmp=er
+genealogical adj
 general        adj adv=generally
 generational adj
 generic        adj adv=generically
@@ -17,6 +18,7 @@ genial         adj adv=genially
 genital adj
 genitive adj
 Genoese adj
+genomic adj
 genteel adj cmp=more
 gentle         adj cmp=er adv=gently
 gentlemanly adj
@@ -44,6 +46,7 @@ ginormous adj style=colloquial
 girlish adj
 glacial adj
 glad           adj cmp=er adv=gladly
+glassy adj cmp=er
 glittery adj
 global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
@@ -79,11 +82,13 @@ Greek          adj
 green          adj cmp=er
 grievous adj adv=grievously
 grim           adj cmp=er adv=grimly
+grimy adj cmp=er
 grizzly        adj
 gross          adj cmp=er adv=grossly
 grotesque      adj
 groundbreaking adj
 grubby adj cmp=er
+gruff adj cmp=er adv=gruffly
 grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
 guilty         adj cmp=er|more adv=guiltily

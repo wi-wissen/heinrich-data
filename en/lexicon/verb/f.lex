@@ -35,6 +35,7 @@ fence          verb
 fend verb
 ferment verb
 ferry          verb
+fertilize verb gb=fertilise|fertilize
 fetch          verb
 fetter verb
 feud verb
@@ -81,6 +82,7 @@ flock          verb
 flog verb
 flood          verb
 floor          verb
+flop verb
 flounder verb
 flourish       verb
 flow           verb
@@ -140,6 +142,7 @@ fret verb
 friend         verb
 frighten       verb
 fringe verb
+frolic verb
 front          verb
 frost          verb
 frown          verb

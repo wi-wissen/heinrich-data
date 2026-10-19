@@ -36,6 +36,7 @@ fan            noun
 fanatic noun
 fancy          noun
 fanfare noun
+fang noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
 farce noun
@@ -77,6 +78,7 @@ fee            noun
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
+feedstock noun
 feel           noun
 feeling        noun
 fell           noun note=hill in northern England
@@ -90,6 +92,7 @@ female         noun
 feminist       noun
 fen noun
 fence          noun
+fencer noun
 fender noun
 fentanyl noun pl=- note=uncountable
 ferment noun
@@ -99,22 +102,27 @@ ferocity noun
 ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
+fertilization noun gb=fertilisation|fertilization
 fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
 fetish noun
 fetter noun
+fetus noun gb=foetus|fetus
 feud noun
 fever          noun
 fiancé noun
 fiancée noun
 fiber          noun gb=fibre
+fiberglass noun gb=fibreglass pl=- note=uncountable
 fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
+fiddler noun
 fidelity       noun pl=- note=uncountable
 fiduciary noun
+fief noun pl=fiefs
 field          noun
 fielder noun
 fiend noun
@@ -135,6 +143,7 @@ filler noun
 film           noun
 filmmaker      noun
 filter         noun
+filth noun pl=- note=uncountable
 filtration noun
 fin            noun
 final          noun
@@ -171,6 +180,7 @@ firewall noun
 firewood noun pl=- note=uncountable
 firework       noun
 firm           noun
+firmament noun
 firmness noun
 firmware noun pl=- note=uncountable
 fish           noun pl=fish|fishes
@@ -186,6 +196,7 @@ fit            noun
 fitness        noun pl=- note=uncountable
 fitting        noun
 fix            noun
+fixation noun
 fixture noun
 fjord noun
 flag           noun
@@ -221,12 +232,14 @@ flip noun
 flipchart noun
 flipper noun
 flirt noun
+flirtation noun
 float          noun
 floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
 floor          noun
+flop noun
 flora          noun
 flotilla noun
 flounder noun pl=flounder|flounders
@@ -365,6 +378,7 @@ freeway        noun region=US
 freeze         noun
 freezer noun
 freight        noun
+freighter noun
 French         noun pl=- note=the language; the French as a people
 Frenchman      noun pl=Frenchmen
 frenzy noun
@@ -386,8 +400,10 @@ frisbee noun
 fritillary noun
 frock noun
 frog noun
+frolic noun
 front          noun
 frontier       noun
+frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
@@ -400,6 +416,7 @@ FTE noun abbr note=full-time equivalent
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
+fullback noun
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

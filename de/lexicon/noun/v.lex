@@ -8,6 +8,7 @@ Vanitas noun g=f gen=Vanitas pl=- note=no plural
 Variable noun g=f gen=Variable pl=Variablen
 Variante noun g=f gen=Variante pl=Varianten
 Variation noun g=f gen=Variation pl=Variationen
+Varietät noun g=f gen=Varietät pl=Varietäten
 Vasall noun g=m gen=Vasallen pl=Vasallen
 Vase noun g=f gen=Vase pl=Vasen
 Vater noun g=m gen=Vaters pl=Väter
@@ -73,6 +74,7 @@ Verein noun g=m gen=Vereins|Vereines[rare] pl=Vereine
 Vereinbarkeit noun g=f gen=Vereinbarkeit pl=- note=no plural
 Vereinbarung noun g=f gen=Vereinbarung pl=Vereinbarungen
 Vereinfachung noun g=f gen=Vereinfachung pl=Vereinfachungen
+Vereinheitlichung noun g=f gen=Vereinheitlichung pl=Vereinheitlichungen
 Vereinigung noun g=f gen=Vereinigung pl=Vereinigungen
 Vererbung noun g=f gen=Vererbung pl=- note=no plural
 Verfahren noun g=n gen=Verfahrens pl=Verfahren
@@ -83,6 +85,7 @@ Verfassung noun g=f gen=Verfassung pl=Verfassungen
 Verfechter noun g=m gen=Verfechters pl=Verfechter
 Verfechterin noun g=f gen=Verfechterin pl=Verfechterinnen
 Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
+Verfolger noun g=m gen=Verfolgers pl=Verfolger
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
 Verfügbarkeit noun g=f gen=Verfügbarkeit pl=- note=no plural
 Verfügung noun g=f gen=Verfügung pl=Verfügungen
@@ -119,6 +122,7 @@ Verkehrsberuhigung noun g=f gen=Verkehrsberuhigung pl=Verkehrsberuhigungen
 Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
 Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
+Verkündigung noun g=f gen=Verkündigung pl=Verkündigungen
 Verkündung noun g=f gen=Verkündung pl=Verkündungen
 Verkürzung noun g=f gen=Verkürzung pl=Verkürzungen
 Verlag noun g=m gen=Verlags|Verlages pl=Verlage
@@ -290,6 +294,7 @@ Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloq
 Visier noun g=n gen=Visiers pl=Visiere
 Vision noun g=f gen=Vision pl=Visionen
 Visum noun g=n gen=Visums pl=Visa|Visen
+Vita noun g=f gen=Vita pl=Viten|Vitae,Viten|Vitae,Viten|Vitae,Viten|Vitae note=Latin plural Vitae has no dative -n
 Vitamin noun g=n gen=Vitamins pl=Vitamine
 Vizekönig noun g=m gen=Vizekönigs pl=Vizekönige
 Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister

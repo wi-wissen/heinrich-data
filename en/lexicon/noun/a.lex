@@ -1,5 +1,6 @@
 abandonment noun
 abatement noun
+abbess noun
 abbey noun
 abbot noun
 abbreviation noun
@@ -9,6 +10,7 @@ abduction noun
 abeyance noun pl=- note=uncountable
 abhorrence noun pl=- note=uncountable
 ability noun
+abnormality noun
 abode noun
 abolition noun
 abolitionist noun
@@ -67,6 +69,7 @@ ache noun
 achievement noun
 achiever noun
 acid noun
+acidity noun
 acknowledgment noun gb=acknowledgement|acknowledgment conf=90 note=acknowledgement is also common in American texts
 ACL noun abbr conf=90 note=anterior cruciate ligament; access control list
 ACO noun abbr conf=90 note=accountable care organization
@@ -101,10 +104,12 @@ additive noun
 address noun
 addressee noun
 adductor noun
+adenosine noun pl=- note=uncountable
 adequacy noun pl=- note=uncountable
 ADHD noun abbr pl=- note=attention deficit hyperactivity disorder
 adherence noun pl=- note=uncountable
 adherent noun
+adhesion noun
 adhesive noun
 adieu noun pl=adieus|adieux
 adjective noun
@@ -122,6 +127,7 @@ admirer noun
 admissibility noun pl=- note=uncountable
 admission noun
 admittance noun pl=- note=uncountable
+admixture noun
 admonition noun
 ado noun pl=- note=uncountable
 adobe noun
@@ -168,6 +174,7 @@ affinity noun
 affirmation noun
 affix noun
 affliction noun
+affluence noun pl=- note=uncountable
 affordability noun pl=- note=uncountable
 affront noun
 Afghan noun
@@ -200,6 +207,7 @@ air noun
 aircraft noun pl=aircraft
 airfare noun
 airfield noun
+airflow noun
 airgun noun
 airlift noun
 airline noun
@@ -230,8 +238,10 @@ Algerian noun
 algorithm noun
 alias noun
 alien noun
+alienation noun
 alignment noun
 ALJ noun abbr conf=90 note=administrative law judge
+alkali noun pl=alkalis|alkalies
 allegation noun
 allegiance noun
 allegory noun
@@ -248,6 +258,7 @@ alloy noun
 allure noun
 allusion noun
 ally noun
+almanac noun
 almond noun
 alms noun pl_only
 alpha noun
@@ -275,12 +286,15 @@ amendment noun
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
+amity noun pl=- note=uncountable
 ammonia noun pl=- note=uncountable
 ammonium noun pl=- note=uncountable
 ammunition noun pl=- note=uncountable
+amnesia noun pl=- note=uncountable
 amnesty noun
 amortization noun gb=amortisation|amortization
 amount noun
+amphetamine noun
 amphibian noun
 amphitheater noun gb=amphitheatre
 amplifier noun
@@ -302,6 +316,7 @@ anchorage noun
 anchovy noun
 ancient noun note=the ancients
 anecdote noun
+anemia noun gb=anaemia pl=- note=uncountable
 anesthesia noun gb=anaesthesia pl=- note=uncountable
 anesthetic noun gb=anaesthetic
 angel noun
@@ -371,6 +386,7 @@ ape noun
 aperture noun
 apex noun pl=apexes|apices
 API noun abbr note=application programming interface
+apocalypse noun
 apology noun
 apostle noun
 app noun
@@ -406,6 +422,7 @@ approbation noun pl=- note=uncountable
 appropriateness noun pl=- note=uncountable
 appropriation noun
 approval noun
+approver noun
 approximation noun
 apricot noun
 apron noun
@@ -457,17 +474,20 @@ aromatic noun
 arraignment noun
 arrangement noun
 arranger noun
+arras noun conf=85 note=a tapestry wall hanging; the French town Arras is covered by case folding
 array noun
 arrears noun pl_only
 arrest noun
 arrival noun
 arrogance noun pl=- note=uncountable
 arrow noun
+arroyo noun conf=90 note=US Southwest: a dry creek bed; mostly a place or family name in the corpus
 arsenal noun
 arsenic noun pl=- note=uncountable
 arson noun pl=- note=uncountable
 art noun
 artery noun
+arthropod noun
 article noun
 articulation noun
 artifact noun gb=artefact|artifact
@@ -477,6 +497,7 @@ artisan noun
 artist noun
 artwork noun
 asbestos noun pl=- note=uncountable
+ascension noun
 ascent noun
 ash noun
 Ashkenazi noun pl=Ashkenazim|Ashkenazis
@@ -531,7 +552,9 @@ atmosphere noun
 atoll noun
 atom noun
 atonement noun pl=- note=uncountable
+atrium noun pl=atria|atriums
 atrocity noun
+atrophy noun
 attachment noun
 attack noun
 attacker noun
@@ -595,6 +618,7 @@ avalanche noun
 avant-garde noun pl=- note=the movement
 avarice noun pl=- note=uncountable
 avatar noun
+avenger noun
 avenue noun
 average noun
 aversion noun
@@ -605,6 +629,7 @@ avoidance noun pl=- note=uncountable
 award noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable
+awkwardness noun
 axe noun us=ax|axe
 axiom noun
 axis noun pl=axes

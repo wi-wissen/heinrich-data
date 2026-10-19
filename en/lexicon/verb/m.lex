@@ -11,6 +11,7 @@ man           verb
 manage        verb
 mandate       verb
 maneuver verb gb=manoeuvre
+mangle verb
 manifest      verb
 manipulate verb
 manufacture   verb
@@ -82,6 +83,7 @@ misinterpret verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
 misplace verb
+misrepresent verb
 miss          verb
 misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb
@@ -115,6 +117,7 @@ mortify verb
 mother        verb
 motion        verb
 motivate      verb
+motor verb
 motorize verb gb=motorise|motorize
 mount         verb
 mourn         verb

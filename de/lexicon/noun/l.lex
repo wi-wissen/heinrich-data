@@ -101,6 +101,7 @@ Leder noun g=n gen=Leders pl=Leder
 Leertaste noun g=f gen=Leertaste pl=Leertasten
 Legende noun g=f gen=Legende pl=Legenden
 Leggings noun g=f gen=Leggings pl=Leggings
+Legierung noun g=f gen=Legierung pl=Legierungen
 Legion noun g=f gen=Legion pl=Legionen
 Legionär noun g=m gen=Legionärs pl=Legionäre
 Legislatur noun g=f gen=Legislatur pl=Legislaturen
@@ -179,6 +180,7 @@ Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
 Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
+Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
 Liga noun g=f gen=Liga pl=Ligen
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
@@ -201,6 +203,7 @@ Liquidität noun g=f gen=Liquidität pl=- note=abstract noun
 List noun g=f gen=List pl=Listen note=cunning; plural rare
 Liste noun g=f gen=Liste pl=Listen
 Liter noun g=m|n gen=Liters pl=Liter
+Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
 Liturgie noun g=f gen=Liturgie pl=Liturgien
@@ -255,6 +258,8 @@ Luftverschmutzung noun g=f gen=Luftverschmutzung pl=- note=no plural
 Lüge noun g=f gen=Lüge pl=Lügen
 Lügner noun g=m gen=Lügners pl=Lügner
 Lügnerin noun g=f gen=Lügnerin pl=Lügnerinnen
+Lump noun g=m gen=Lumpen pl=Lumpen note=scoundrel
+Lumpen noun g=m gen=Lumpens pl=Lumpen note=rag
 Lunge noun g=f gen=Lunge pl=Lungen
 Lupe noun g=f gen=Lupe pl=Lupen
 Lust noun g=f gen=Lust pl=Lüste

@@ -46,6 +46,7 @@ daylight noun
 daytime noun
 dazzle noun
 deacon noun
+deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
 deal noun
@@ -53,8 +54,10 @@ dealer noun
 dealership noun
 dealing noun
 dean noun
+deanery noun
 dear noun
 death noun
+deathbed noun
 debarment noun
 debate noun
 debenture noun
@@ -71,6 +74,7 @@ decarbonization noun gb=decarbonisation|decarbonization pl=- note=uncountable pr
 decay noun
 deceased noun pl=- note=the deceased
 deceit noun
+deceleration noun
 decency noun
 deception noun
 decimal noun
@@ -118,6 +122,7 @@ degeneration noun
 degradation noun
 degree noun
 dehydration noun pl=- note=uncountable
+dehydrogenase noun
 deity noun
 dejection noun pl=- note=uncountable
 delay noun
@@ -128,6 +133,7 @@ deli noun
 deliberation noun
 delicacy noun
 delight noun
+delineation noun
 delinquency noun
 delinquent noun
 delirium noun pl=- note=uncountable
@@ -156,6 +162,7 @@ denial noun
 denomination noun
 denominator noun
 density noun
+dent noun
 dentist noun
 dentistry noun pl=- note=uncountable
 denunciation noun
@@ -178,6 +185,7 @@ depot noun
 depravity noun
 depreciation noun
 depression noun
+depressive noun
 deprivation noun
 depth noun
 deputation noun
@@ -206,6 +214,7 @@ desktop noun
 desolation noun
 despair noun
 desperation noun pl=- note=uncountable
+despondency noun pl=- note=uncountable
 despotism noun
 dessert noun
 destination noun
@@ -227,6 +236,7 @@ determinism noun
 deterrence noun pl=- note=uncountable
 deterrent noun
 detonation noun
+detour noun
 detriment noun
 deuce noun
 devaluation noun
@@ -294,6 +304,7 @@ dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
 dinosaur noun
+dint noun note=chiefly in "by dint of"
 diocese noun
 diode noun
 dioxide noun
@@ -302,8 +313,10 @@ diploma noun
 diplomacy noun pl=- note=uncountable
 diplomat noun
 diplomatist noun
+dipole noun
 direction noun
 directive noun
+directness noun pl=- note=uncountable
 director noun
 directorate noun
 directory noun
@@ -375,6 +388,7 @@ disposal noun
 disposition noun
 dispute noun
 disqualification noun
+disquiet noun pl=- note=uncountable
 disregard noun
 disrepair noun pl=- note=uncountable
 disrespect noun pl=- note=uncountable
@@ -385,8 +399,10 @@ dissent noun
 dissertation noun
 dissident noun
 dissipation noun
+dissociation noun
 dissolution noun
 distance noun
+distaste noun
 distillery noun
 distinction noun
 distortion noun
@@ -502,6 +518,7 @@ drake noun
 drama noun
 dramatist noun
 drape noun
+draper noun
 drapery noun
 draught noun note=current of air, drink from the cask, the game draughts; British spelling of draft in these senses
 draw noun
@@ -516,6 +533,7 @@ dread noun
 dream noun
 dreamer noun
 dress noun
+dresser noun
 dressing noun
 drift noun
 drill noun
@@ -534,6 +552,7 @@ drug noun
 drum noun
 drummer noun
 drunk noun
+drunkenness noun pl=- note=uncountable
 dryer noun
 ducat noun
 duchess noun
@@ -572,6 +591,7 @@ dye noun
 dyer noun
 dynamic noun
 dynamics noun pl=- note=the field, with a singular verb; the plural dynamics comes from dynamic
+dynamism noun pl=- note=uncountable
 dynamite noun pl=- note=uncountable
 dynamo noun pl=dynamos
 dynasty noun

@@ -1,5 +1,6 @@
 hack verb
 hail           verb
+hallow verb
 halt           verb
 halve verb
 hammer         verb
@@ -42,6 +43,7 @@ hemorrhage verb gb=haemorrhage
 herald         verb
 herd           verb
 hesitate       verb
+hew verb past=hewed pp=hewn|hewed
 hiccup verb past=hiccuped|hiccupped pp=hiccuped|hiccupped ing=hiccuping|hiccupping
 hide           verb past=hid pp=hidden
 highlight      verb

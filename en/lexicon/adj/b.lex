@@ -6,12 +6,15 @@ bad adj cmp=worse sup=worst adv=badly
 baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
+balmy adj cmp=er adv=balmily
 Baltic adj
 bankable adj
 bankrupt adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
 bare adj cmp=er
+barefoot adj
+barefooted adj
 bareheaded adj
 baroque adj
 barren adj cmp=more
@@ -61,6 +64,7 @@ bitter adj cmp=er|more adv=bitterly
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
+blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
 blank adj adv=blankly
 blatant adj adv=blatantly
@@ -69,11 +73,13 @@ blessed adj
 blind adj cmp=er adv=blindly
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
+bloodless adj adv=bloodlessly
 bloody adj cmp=er
 blue adj cmp=er
 blunt adj cmp=er adv=bluntly
 blustery adj
 bodily adj
+bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
@@ -85,6 +91,7 @@ bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
 bourgeois adj
+bovine adj
 boyish adj cmp=more adv=boyishly
 brackish adj
 brainy adj cmp=er

@@ -25,7 +25,9 @@ gamete noun
 gaming         noun pl=- note=uncountable
 gamma noun
 gang           noun
+ganglion noun pl=ganglia|ganglions
 gangster noun
+gangway noun
 gap            noun
 garage         noun
 garb noun
@@ -52,6 +54,7 @@ gazelle noun
 gazette        noun
 GDP            noun abbr note=gross domestic product
 gear           noun
+gearbox noun
 gearing noun pl=- region=GB note=uncountable; US leverage
 gecko noun pl=geckos
 gel noun
@@ -96,6 +99,7 @@ GI             noun abbr note=US soldier
 giant          noun
 gift           noun
 gig            noun
+gigabit noun
 gigabyte noun
 giggle noun
 gill noun
@@ -181,6 +185,7 @@ GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
 grab           noun
 grace          noun
+gradation noun
 grade          noun
 gradient noun
 graduate       noun
@@ -254,6 +259,7 @@ grille noun
 grin           noun
 grind          noun
 grip           noun
+gristmill noun
 grit noun
 grizzly        noun
 groan          noun
@@ -275,6 +281,7 @@ grub noun
 grudge noun
 guarantee      noun
 guarantor noun
+guaranty noun
 guard          noun
 guardian       noun
 guardianship noun

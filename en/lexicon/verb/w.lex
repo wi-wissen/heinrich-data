@@ -5,7 +5,7 @@ wager verb
 wail verb
 wait verb
 waive verb
-wake verb past=woke pp=woken
+wake verb past=woke|waked[rare] pp=woken|waked[rare]
 walk verb
 wall verb
 waltz verb
@@ -16,6 +16,7 @@ war verb
 ward verb
 warm verb
 warn verb
+warp verb
 warrant verb
 wash verb
 waste verb
@@ -83,6 +84,7 @@ worm verb
 worry verb
 worsen verb
 worship verb past=worshiped[US]|worshipped pp=worshiped[US]|worshipped ing=worshiping[US]|worshipping
+worst verb note=to defeat; worsted
 wound verb
 wrap verb
 wreak verb

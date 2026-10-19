@@ -21,11 +21,13 @@ banter verb
 baptize verb gb=baptise|baptize
 bar verb
 barbecue verb
+bare verb
 bargain verb
 barge verb
 bark verb
 barrage verb
 barricade verb
+barter verb
 base verb
 bat verb
 bathe verb
@@ -178,6 +180,7 @@ buoy verb
 burden verb
 burlesque verb
 burn verb past=burned|burnt pp=burned|burnt
+burnish verb
 burp verb
 burrow verb
 burst verb past=burst pp=burst

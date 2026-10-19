@@ -26,6 +26,7 @@ Paki noun style=offensive note=slur for South Asians, especially Pakistanis
 Pakistani noun note=demonym or religious name, capitalized
 pal noun style=colloquial
 palace noun
+palate noun
 paleontologist noun gb=palaeontologist
 Palestinian noun note=demonym or religious name, capitalized
 palette noun
@@ -82,6 +83,7 @@ parchment noun
 pardon noun
 parent noun
 parentage noun pl=- note=uncountable
+parenthesis noun pl=parentheses
 parenthood noun pl=- note=uncountable
 parish noun
 parishioner noun
@@ -101,6 +103,7 @@ parsley noun pl=- note=uncountable
 parsnip noun
 parson noun
 part noun
+partiality noun
 participant noun
 participation noun pl=- note=uncountable
 participator noun
@@ -273,10 +276,12 @@ perspective noun
 perspiration noun pl=- note=uncountable
 persuasion noun
 perturbation noun
+perusal noun
 Peruvian noun note=demonym or religious name, capitalized
 peso noun note=plural pesos
 pest noun
 pesticide noun
+pestilence noun
 pesto noun pl=- note=uncountable
 pet noun
 petal noun
@@ -489,6 +494,7 @@ politics noun pl=- note=singular or plural agreement
 polity noun
 poll noun
 pollen noun note=plural pollens: kinds of pollen
+pollock noun pl=pollock|pollocks gb=pollack|pollock
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
@@ -507,6 +513,7 @@ pool noun
 pop noun
 popcorn noun pl=- note=uncountable
 pope noun
+poplar noun
 poppy noun
 populace noun
 popularity noun pl=- note=uncountable
@@ -558,8 +565,10 @@ postulate noun
 posture noun
 postwoman noun pl=postwomen
 pot noun
+potash noun pl=- note=uncountable
 potassium noun pl=- note=uncountable
 potato noun pl=potatoes
+potency noun
 potential noun
 pothole noun
 potter noun
@@ -632,6 +641,7 @@ prerequisite noun
 prerogative noun
 Presbyterian noun note=demonym or religious name, capitalized
 preschool noun
+prescriber noun
 prescription noun
 preseason noun
 presence noun
@@ -686,6 +696,7 @@ prisoner noun
 privacy noun pl=- note=uncountable
 private noun
 privateer noun
+privation noun
 privatization noun gb=privatisation|privatization
 privilege noun
 privy noun
@@ -705,7 +716,9 @@ procession noun
 processor noun
 proclamation noun
 procrastination noun pl=- note=uncountable
+proctor noun
 procurement noun note=plural procurements: individual purchases
+prodigy noun
 produce noun pl=- note=uncountable
 producer noun
 product noun
@@ -715,6 +728,7 @@ profession noun
 professional noun
 professionalism noun pl=- note=uncountable
 professor noun
+professorship noun
 proficiency noun
 profile noun
 profit noun
@@ -755,6 +769,7 @@ proofreading noun pl=- note=uncountable
 prop noun
 propaganda noun pl=- note=uncountable
 propagation noun pl=- note=uncountable
+propellant noun
 propeller noun
 propensity noun
 property noun
@@ -781,6 +796,7 @@ prostitute noun
 prostitution noun pl=- note=uncountable
 protagonist noun
 protection noun
+protectionism noun pl=- note=uncountable
 protector noun
 protectorate noun
 protein noun
@@ -789,6 +805,7 @@ Protestant noun note=demonym or religious name, capitalized
 Protestantism noun pl=- note=uncountable
 protestation noun
 protester noun
+protestor noun note=variant of protester; chiefly US
 protocol noun
 proton noun
 prototype noun

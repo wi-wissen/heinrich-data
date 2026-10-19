@@ -69,6 +69,7 @@ Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
 Umlaut noun g=m gen=Umlauts|Umlautes pl=Umlaute
 Umleitung noun g=f gen=Umleitung pl=Umleitungen
 Ummeldung noun g=f gen=Ummeldung pl=Ummeldungen
+Umriss noun g=m gen=Umrisses pl=Umrisse
 Umsatz noun g=m gen=Umsatzes pl=Umsätze
 Umschlag noun g=m gen=Umschlags|Umschlages pl=Umschläge
 Umschrift noun g=f gen=Umschrift pl=Umschriften
@@ -115,6 +116,7 @@ Unruhe noun g=f gen=Unruhe pl=Unruhen
 Unschuld noun g=f gen=Unschuld pl=- note=no plural
 Unsicherheit noun g=f gen=Unsicherheit pl=Unsicherheiten
 Unsinn noun g=m gen=Unsinns|Unsinnes pl=- note=no plural
+Unsterblichkeit noun g=f gen=Unsterblichkeit pl=- note=no plural
 Unterbrechung noun g=f gen=Unterbrechung pl=Unterbrechungen
 Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen

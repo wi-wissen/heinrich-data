@@ -34,6 +34,7 @@ image          noun
 imagery        noun pl=- note=uncountable
 imagination    noun
 imaging        noun pl=- note=uncountable
+imam noun
 imbalance noun
 imitation      noun
 immersion noun
@@ -53,6 +54,7 @@ impedance noun
 impediment     noun
 imperative     noun
 imperfection noun
+imperialism noun pl=- note=uncountable
 impertinence noun
 impetus noun
 implant noun
@@ -70,7 +72,9 @@ impoundment noun
 impression     noun
 imprint noun
 imprisonment   noun
+impropriety noun
 improvement    noun
+improvisation noun
 impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
@@ -104,6 +108,7 @@ inconvenience noun
 incorporation  noun
 increase       noun
 increment noun
+incubation noun
 incumbent      noun
 incursion noun
 indebtedness noun pl=- note=uncountable
@@ -121,6 +126,7 @@ indictment     noun
 indie noun
 indifference   noun
 indignation    noun
+indigo noun pl=indigos
 indiscretion noun
 individual     noun
 individuality noun
@@ -136,6 +142,7 @@ industry       noun
 inefficiency noun
 inequality     noun
 inertia noun pl=- note=uncountable
+inexperience noun pl=- note=uncountable
 infamy noun
 infancy        noun
 infant         noun
@@ -150,10 +157,12 @@ infidel noun
 infidelity noun
 infield noun
 infielder noun
+infiltration noun
 infinity noun
 infirmity noun
 inflammation   noun
 inflation      noun
+inflection noun gb=inflection|inflexion
 influence      noun
 influenza      noun pl=- note=uncountable
 influx         noun
@@ -166,6 +175,7 @@ infringement   noun
 infusion noun
 ingenuity      noun pl=- note=uncountable
 ingestion noun
+ingratitude noun pl=- note=uncountable
 ingredient     noun
 inhabitant     noun
 inhalation noun
@@ -220,6 +230,7 @@ installation   noun
 installment noun gb=instalment
 instance       noun
 instant        noun
+instigation noun
 instinct       noun
 institute      noun
 institution    noun
@@ -252,6 +263,7 @@ interception noun
 interchange    noun
 interconnection noun
 intercourse    noun pl=- note=uncountable
+interdict noun
 interdiction noun
 interest       noun
 interface      noun
@@ -287,6 +299,7 @@ intimacy       noun
 intimation noun
 intimidation   noun
 intolerance noun
+intonation noun
 intoxication noun
 intranet noun
 intrigue noun
@@ -296,6 +309,7 @@ intruder noun
 intrusion      noun
 intuition noun
 Inuit noun pl=Inuit
+inundation noun
 invader noun
 invalid        noun
 invariant noun
@@ -312,6 +326,7 @@ investment     noun
 investor       noun
 invitation     noun
 invite         noun note=colloquial: an invitation
+invocation noun
 invoice        noun
 involvement    noun
 iodine noun pl=- note=uncountable
@@ -330,6 +345,7 @@ ironclad noun
 irony          noun
 Iroquois noun pl=Iroquois
 irregularity noun
+irresponsibility noun pl=- note=uncountable
 irrigation     noun
 irritation     noun
 ISA noun abbr note=individual savings account (UK)

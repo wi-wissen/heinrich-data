@@ -7,3 +7,4 @@ Std. x note=Stunde
 Stk. x note=Stück
 Str. x note=Straße
 subsp. x note=subspecies (Unterart)
+Syn. x note=Synonym (taxonomy)

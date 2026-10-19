@@ -20,6 +20,7 @@ malevolent adj adv=malevolently
 malicious     adj adv=maliciously
 malign adj cmp=more
 malignant adj
+mammalian adj
 mammoth adj
 manageable adj cmp=more
 managerial adj
@@ -65,7 +66,7 @@ median        adj
 medical       adj adv=medically
 medicinal     adj
 medieval      adj gb=medieval|mediaeval
-meditative adj adv=meditatively
+meditative adj
 Mediterranean adj
 medium        adj
 meek adj cmp=er adv=meekly
@@ -97,6 +98,7 @@ meticulous adj cmp=more adv=meticulously
 metric        adj
 metropolitan  adj
 Mexican       adj
+micro adj conf=85 note=informal: very small; also a prefix
 microbial adj
 micropolitan  adj note=US census term
 microscopic adj
@@ -151,6 +153,7 @@ monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
 moody adj cmp=er
+moonlit adj
 Moorish       adj
 moral         adj adv=morally
 morbid adj adv=morbidly
@@ -160,6 +163,7 @@ morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
 motionless    adj
+motley adj
 mountainous   adj
 mournful adj adv=mournfully
 movable adj
@@ -167,6 +171,8 @@ mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
+multidisciplinary adj
+multifamily adj
 multilateral  adj
 multilingual adj
 multinational adj

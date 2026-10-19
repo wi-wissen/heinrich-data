@@ -37,6 +37,7 @@ ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
 eddy noun
+edema noun gb=oedema
 edge noun
 edict noun
 edifice noun
@@ -56,6 +57,7 @@ effort noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
+egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
@@ -109,6 +111,7 @@ emergency noun
 emigrant noun
 emigration noun
 eminence noun
+emissary noun
 emission noun
 emoji noun pl=emojis|emoji
 emolument noun
@@ -125,13 +128,16 @@ empowerment noun
 empress noun
 emptiness noun pl=- note=uncountable
 emu noun
+emulation noun
 enabler noun
 enactment noun
+enamel noun
 encampment noun
 enchantment noun
 enclave noun
 enclosure noun
 encoder noun
+encore noun
 encounter noun
 encouragement noun
 encryption noun
@@ -163,12 +169,14 @@ enhancement noun
 enjoyment noun
 enlargement noun
 enlightenment noun
+enlistment noun
 enmity noun
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
 ensemble noun
 ensign noun
+entanglement noun
 enterprise noun
 entertainer noun
 entertainment noun
@@ -178,8 +186,10 @@ entirety noun pl=- note=uncountable
 entitlement noun
 entity noun
 entomologist noun
+entourage noun
 entrance noun
 entrant noun
+entreaty noun
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
@@ -194,6 +204,8 @@ EP noun abbr note=extended play record
 epic noun
 epidemic noun
 epidemiology noun pl=- note=uncountable
+epidermis noun pl=- note=usually uncountable
+epigram noun
 epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
@@ -201,6 +213,7 @@ epithet noun
 epoch noun pl=epochs
 equal noun
 equality noun
+equanimity noun pl=- note=uncountable
 equation noun
 equator noun
 equilibrium noun pl=equilibria|equilibriums
@@ -208,6 +221,7 @@ equine noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
+equivalency noun
 equivalent noun
 ERA noun abbr conf=80 note=earned run average; Equal Rights Amendment
 era noun
@@ -248,8 +262,11 @@ ether noun
 ethic noun
 Ethiopian noun
 ethnicity noun
+ethos noun pl=- note=uncountable
 etiquette noun
 etymology noun
+eucalyptus noun pl=eucalyptuses|eucalypti
+eulogy noun
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
@@ -289,6 +306,7 @@ excitement noun
 exclamation noun
 exclusion noun
 exclusivity noun
+excommunication noun
 excursion noun
 excuse noun
 execution noun

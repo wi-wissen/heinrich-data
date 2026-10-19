@@ -1,8 +1,11 @@
 Ukrainian     noun
+ultimatum noun pl=ultimatums|ultimata[rare]
+ultra noun conf=90 note=an extremist; also used as a prefix
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
+unanimity noun pl=- note=uncountable
 unavailability noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
@@ -52,6 +55,7 @@ upbringing noun
 update        noun
 upgrade       noun
 upheaval noun
+upholstery noun pl=- note=uncountable
 upkeep noun pl=- note=uncountable
 upland noun
 uplift        noun
@@ -64,8 +68,10 @@ upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
 uptake        noun
 uptime noun pl=- note=uncountable
+uptown noun pl=- note=the upper part of a city; uncountable
 upturn noun
 uranium       noun pl=- note=uncountable
+urbanization noun gb=urbanisation|urbanization
 urchin noun
 urge          noun
 urgency       noun pl=- note=uncountable

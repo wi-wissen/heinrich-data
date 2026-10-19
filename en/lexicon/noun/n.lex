@@ -33,6 +33,7 @@ navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
 necklace      noun
@@ -50,6 +51,7 @@ negro         noun pl=negroes style=archaic|offensive alt=Black_person note=hist
 Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
+nemesis noun pl=nemeses
 neoliberal noun
 nephew        noun
 nerve         noun
@@ -61,6 +63,7 @@ nettle noun
 network       noun
 networking noun pl=- note=uncountable
 neuron noun gb=neuron|neurone
+neuroscience noun pl=- note=uncountable
 neutral       noun
 neutrality    noun pl=- note=uncountable
 neutron noun
@@ -69,6 +72,7 @@ newcomer noun
 news          noun pl=- note=uncountable, singular agreement
 newsagent noun region=GB
 newscast noun
+newsdesk noun
 newsletter noun
 newspaper     noun
 newton        noun note=SI unit of force
@@ -107,6 +111,7 @@ noise         noun
 nomad noun
 nomenclature noun
 nomination    noun
+nominative noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
@@ -176,3 +181,4 @@ nut           noun
 nutmeg noun
 nutrient noun
 nutrition     noun pl=- note=uncountable
+nymph noun

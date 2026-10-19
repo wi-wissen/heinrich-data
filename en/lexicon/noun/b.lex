@@ -51,6 +51,8 @@ balloon noun
 ballot noun
 ballpark noun
 ballroom noun
+balm noun
+balsam noun
 bamboo noun
 ban noun
 banana noun
@@ -58,6 +60,7 @@ band noun
 bandage noun
 bandit noun
 bandleader noun
+bandmate noun
 bandwidth noun
 bang noun
 banishment noun
@@ -98,6 +101,7 @@ barricade noun
 barrier noun
 barrister noun
 barrow noun
+barter noun pl=- note=uncountable
 basalt noun
 base noun
 baseball noun
@@ -177,6 +181,7 @@ behavior noun gb=behaviour
 behest noun pl=- note=at the behest of
 being noun
 Belarusian noun
+belfry noun
 Belgian noun
 belief noun pl=beliefs
 believer noun
@@ -213,6 +218,7 @@ beta noun
 betrayal noun
 beverage noun
 bewilderment noun pl=- note=uncountable
+bey noun conf=90 note=Ottoman title, usually capitalized after a name
 bias noun
 bib noun
 bible noun
@@ -234,6 +240,7 @@ binding noun
 bingo noun pl=- note=uncountable
 binomial noun
 bint noun style=offensive note=British slang, derogatory for a woman
+biochemist noun
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
@@ -245,6 +252,8 @@ biologist noun
 biology noun pl=- note=uncountable
 biomarker noun
 biomass noun pl=- note=uncountable
+biopic noun
+biopsy noun
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -260,6 +269,7 @@ bishop noun
 bishopric noun
 bison noun pl=bison|bisons
 bit noun
+bitch noun
 bitcoin noun
 bite noun
 bitrate noun conf=80
@@ -270,6 +280,7 @@ blackbird noun
 blackboard noun
 blackcurrant noun
 blackface noun pl=- note=uncountable
+blackguard noun
 blacklist noun
 blackmail noun pl=- note=uncountable
 blackness noun pl=- note=uncountable
@@ -280,6 +291,7 @@ blade noun
 blame noun pl=- note=uncountable
 blank noun
 blanket noun
+blasphemy noun
 blast noun
 blaze noun
 blazer noun
@@ -293,6 +305,7 @@ blindness noun pl=- note=uncountable
 bliss noun pl=- note=uncountable
 blister noun
 blitz noun
+blizzard noun
 bloc noun
 block noun
 blockade noun
@@ -333,6 +346,8 @@ boatman noun pl=boatmen
 boatswain noun
 bob noun
 body noun
+bodybuilder noun
+bodybuilding noun pl=- note=uncountable
 bodyguard noun
 bodywork noun pl=- note=uncountable
 Boer noun
@@ -538,6 +553,7 @@ bulk noun pl=- note=uncountable
 bull noun
 bullet noun
 bulletin noun
+bullock noun
 bully noun
 bulwark noun
 bum noun style=colloquial note=buttocks (British); a lazy person (American)
@@ -601,3 +617,4 @@ bypass noun
 byproduct noun conf=90 note=also by-product
 bystander noun
 byte noun
+byway noun

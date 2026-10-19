@@ -38,6 +38,7 @@ warhead noun
 warlord noun
 warmth noun pl=- note=uncountable
 warning noun
+warp noun
 warrant noun
 warranty noun
 warrior noun
@@ -56,6 +57,7 @@ wastewater noun pl=- note=uncountable
 watch noun
 watchdog noun
 watcher noun
+watchfulness noun pl=- note=uncountable
 water noun
 watercourse noun
 waterfall noun
@@ -126,8 +128,10 @@ wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
 Whig noun
 whim noun
+whin noun conf=90 note=gorse
 whip noun
 whirl noun
+whirlpool noun
 whisk noun
 whisker noun
 whiskey noun note=Irish and American spelling; see whisky
@@ -166,6 +170,7 @@ wilderness noun
 wildfire noun
 wildlife noun pl=- note=uncountable
 wildness noun pl=- note=uncountable
+wile noun
 will noun
 willingness noun pl=- note=uncountable
 willow noun
@@ -173,6 +178,7 @@ win noun
 wince noun
 wind noun
 windfall noun
+winding noun
 windmill noun
 window noun
 windowsill noun
@@ -239,6 +245,7 @@ worm noun
 worry noun
 worship noun pl=- note=uncountable
 worshipper noun us=worshiper|worshipper
+worsted noun pl=- note=a woolen fabric; uncountable
 worth noun pl=- note=uncountable
 worthy noun
 wound noun
@@ -253,6 +260,7 @@ wrench noun
 wrestler noun
 wrestling noun pl=- note=uncountable; the sport
 wretch noun
+wretchedness noun pl=- note=uncountable
 wrinkle noun
 wrist noun
 writ noun

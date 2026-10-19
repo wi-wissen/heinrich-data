@@ -2,6 +2,7 @@ rabbi noun
 rabbit noun
 raccoon noun
 race noun
+racecourse noun
 racehorse noun
 racer noun
 racing noun pl=- note=uncountable
@@ -17,6 +18,7 @@ radiator noun
 radical noun
 radio noun pl=radios
 radioisotope noun
+radiopharmaceutical noun
 radish noun
 radius noun pl=radii|radiuses
 raft noun
@@ -131,12 +133,15 @@ recipe noun
 recipient noun
 reciprocity noun pl=- note=uncountable
 recital noun
+recitation noun
 recklessness noun pl=- note=uncountable
 reclamation noun
 reclassification noun
 recognition noun
+recoil noun
 recollection noun
 recommendation noun
+recompense noun pl=- note=uncountable
 reconciliation noun
 reconnaissance noun pl=- note=uncountable
 reconsideration noun
@@ -169,13 +174,16 @@ redetermination noun
 redevelopment noun
 redirect noun
 redistribution noun
+redistricting noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
 redundancy noun
+redwood noun
 reed noun
 reef noun pl=reefs
 reel noun
+reentry noun note=re-entry is the usual British spelling
 ref noun style=colloquial note=referee; reference
 referee noun
 reference noun
@@ -207,6 +215,7 @@ regeneration noun pl=- note=uncountable
 regent noun
 reggae noun pl=- note=uncountable
 regime noun
+regimen noun
 regiment noun
 region noun
 register noun
@@ -229,6 +238,7 @@ reindeer noun pl=reindeer
 reinforcement noun
 reinstatement noun
 reinsurance noun pl=- note=uncountable
+reintroduction noun
 reinvestment noun
 reissue noun
 rejection noun
@@ -284,6 +294,7 @@ renown noun pl=- note=uncountable
 rent noun
 rental noun
 renter noun
+renunciation noun
 reorganization noun gb=reorganisation|reorganization
 repair noun
 reparation noun
@@ -294,11 +305,13 @@ repeal noun
 repeat noun
 repeatability noun pl=- note=uncountable
 repentance noun pl=- note=uncountable
+repercussion noun
 repertoire noun
 repertory noun
 repetition noun
 replacement noun
 replay noun
+replenishment noun pl=- note=uncountable
 replica noun
 replication noun
 reply noun
@@ -316,6 +329,7 @@ reprint noun
 reprisal noun
 reprise noun
 reproach noun
+reproducibility noun pl=- note=uncountable
 reproduction noun
 reptile noun
 republic noun
@@ -370,6 +384,7 @@ respondent noun
 responder noun
 response noun
 responsibility noun
+responsiveness noun pl=- note=uncountable
 rest noun
 restart noun
 restaurant noun
@@ -423,12 +438,14 @@ reversion noun
 review noun
 reviewer noun
 revision noun
+revitalization noun gb=revitalisation|revitalization
 revival noun
 revocation noun
 revolt noun
 revolution noun
 revolutionary noun
 revolver noun
+revulsion noun pl=- note=uncountable
 reward noun
 rewrite noun
 RFI noun abbr note=request for information
@@ -530,6 +547,7 @@ rotation noun
 rotor noun
 rouge noun
 rough noun
+roughness noun
 round noun
 roundabout noun
 roundtable noun
