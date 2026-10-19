@@ -6,11 +6,14 @@ calculate verb
 calibrate verb
 call verb
 calm verb
+camouflage verb
 camp verb
 campaign verb
 cancel verb past=canceled[US]|cancelled pp=canceled[US]|cancelled ing=canceling[US]|cancelling note=cancelled and cancelling are also frequent in American English (own counts)
 cane verb
 canoe verb
+canonize verb gb=canonise|canonize
+cant verb
 canter verb
 cap verb
 capitalize verb gb=capitalise|capitalize
@@ -63,6 +66,7 @@ chance verb
 change verb
 channel verb
 chant verb
+char verb
 characterize verb gb=characterise|characterize
 charge verb
 charm verb
@@ -82,6 +86,7 @@ chill verb
 chime verb
 chip verb
 chirp verb
+chisel verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -281,6 +286,7 @@ cope verb
 copy verb
 copyright verb
 corner verb
+corral verb double
 correct verb
 correlate verb
 correspond verb

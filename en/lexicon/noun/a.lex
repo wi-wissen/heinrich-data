@@ -8,12 +8,14 @@ abdication noun
 abdomen noun
 abduction noun
 abeyance noun pl=- note=uncountable
+abhorrence noun pl=- note=uncountable
 ability noun
 abnormality noun
 abode noun
 abolition noun
 abolitionist noun
 abortion noun
+abrasive noun
 absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
@@ -50,6 +52,7 @@ accomplice noun
 accomplishment noun
 accord noun
 accordance noun pl=- note=uncountable: in accordance with
+accordion noun
 account noun
 accountability noun pl=- note=uncountable
 accountancy noun pl=- note=uncountable
@@ -60,7 +63,9 @@ accrual noun
 accumulation noun
 accuracy noun
 accusation noun
+accusative noun
 ace noun
+acetate noun
 ache noun
 achievement noun
 achiever noun
@@ -77,6 +82,7 @@ acquittal noun
 acre noun
 acreage noun
 acronym noun
+acrylamide noun pl=- note=uncountable
 act noun
 action noun
 activation noun
@@ -85,6 +91,7 @@ activist noun
 activity noun
 actor noun
 actress noun
+actuality noun
 actuary noun
 acuity noun
 ad noun
@@ -100,6 +107,7 @@ address noun
 addressee noun
 adductor noun
 adenosine noun pl=- note=uncountable
+adept noun
 adequacy noun pl=- note=uncountable
 ADHD noun abbr pl=- note=attention deficit hyperactivity disorder
 adherence noun pl=- note=uncountable
@@ -111,6 +119,7 @@ adjective noun
 adjournment noun
 adjudication noun
 adjudicator noun
+adjunct noun
 adjustment noun
 admin noun pl=- style=colloquial note=short for administration
 administration noun
@@ -124,6 +133,7 @@ admission noun
 admittance noun pl=- note=uncountable
 admixture noun
 admonition noun
+ado noun pl=- note=uncountable
 adobe noun
 adolescence noun
 adolescent noun
@@ -202,9 +212,12 @@ aircraft noun pl=aircraft
 airfare noun
 airfield noun
 airflow noun
+airframe noun
 airgun noun
+airlift noun
 airline noun
 airliner noun
+airman noun pl=airmen
 airplane noun gb=aeroplane conf=90 note=British aeroplane; airplane is rare in British texts
 airplay noun pl=- note=uncountable
 airport noun
@@ -224,6 +237,7 @@ alcoholism noun pl=- note=uncountable
 alderman noun pl=aldermen
 ale noun
 alert noun
+alfalfa noun pl=- note=uncountable
 alga noun pl=algae
 algebra noun
 Algerian noun
@@ -239,6 +253,7 @@ allegiance noun
 allegory noun
 allele noun
 allergy noun
+alleviation noun pl=- note=uncountable
 alley noun
 alliance noun
 alligator noun
@@ -276,6 +291,7 @@ ambush noun
 amendment noun
 amenity noun
 American noun
+Americana noun pl=- note=uncountable
 amity noun pl=- note=uncountable
 ammonia noun pl=- note=uncountable
 ammonium noun pl=- note=uncountable
@@ -287,9 +303,11 @@ amount noun
 amphetamine noun
 amphibian noun
 amphitheater noun gb=amphitheatre
+amplification noun
 amplifier noun
 amplitude noun
 amusement noun
+amygdala noun pl=amygdalae|amygdalas
 analogue noun us=analog|analogue conf=90 note=analog is American only; analogue is used in both (chemistry, biology)
 analogy noun
 analysis noun pl=analyses
@@ -357,12 +375,15 @@ antibody noun
 antic noun note=mostly plural antics
 anticipation noun
 antidote noun
+antimicrobial noun
+antipathy noun
 antiquarian noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
 antivirus noun
 antler noun
+anus noun
 anxiety noun
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartheid noun pl=- note=uncountable
@@ -385,6 +406,7 @@ appearance noun
 appellant noun
 appellation noun
 appendage noun
+appendicitis noun pl=- note=uncountable
 appendix noun pl=appendices|appendixes
 appetite noun
 appetizer noun gb=appetiser|appetizer
@@ -412,6 +434,7 @@ approver noun
 approximation noun
 apricot noun
 apron noun
+apse noun
 aptitude noun
 aquaculture noun pl=- note=uncountable
 aquarium noun pl=aquariums|aquaria
@@ -421,6 +444,7 @@ Arab noun
 Arabic noun pl=- note=the language
 arbitration noun
 arbitrator noun
+arboretum noun pl=arboreta|arboretums
 arc noun
 arcade noun
 arch noun
@@ -456,6 +480,7 @@ armistice noun
 armor noun gb=armour
 armpit noun
 army noun
+aroma noun
 aromatic noun
 arraignment noun
 arrangement noun
@@ -473,6 +498,7 @@ arsenic noun pl=- note=uncountable
 arson noun pl=- note=uncountable
 art noun
 artery noun
+arthritis noun pl=- note=uncountable
 arthropod noun
 article noun
 articulation noun
@@ -485,14 +511,17 @@ artwork noun
 asbestos noun pl=- note=uncountable
 ascension noun
 ascent noun
+ascetic noun
 ash noun
 Ashkenazi noun pl=Ashkenazim|Ashkenazis
 Asian noun
 asp noun
 asparagus noun pl=- note=uncountable
 aspect noun
+aspen noun
 asphalt noun pl=- note=uncountable
 aspiration noun
+aspirin noun
 ass noun
 assailant noun
 assassin noun
@@ -572,6 +601,7 @@ auditor noun
 auditorium noun pl=auditoriums|auditoria
 aunt noun
 auntie noun
+aunty noun conf=90 note=also auntie
 aurora noun pl=auroras|aurorae
 auspices noun pl_only
 austerity noun
@@ -588,8 +618,10 @@ autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
 autocorrect noun pl=- note=uncountable
+autograph noun
 automaker noun
 automation noun pl=- note=uncountable
+automaton noun pl=automata|automatons
 automobile noun
 autonomy noun
 autopsy noun

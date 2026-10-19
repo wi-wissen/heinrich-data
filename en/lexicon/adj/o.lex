@@ -11,6 +11,7 @@ obscene adj cmp=more adv=obscenely
 obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
+observational adj
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obvious        adj cmp=more adv=obviously
@@ -56,6 +57,7 @@ optic adj
 optical        adj
 optimal        adj adv=optimally
 optimistic     adj cmp=more adv=optimistically
+optimum adj
 optional       adj adv=optionally
 oral           adj adv=orally
 orange         adj
@@ -66,6 +68,7 @@ ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
 Oriental       adj note=dated; offensive when used of people
+oriental adj
 original       adj adv=originally
 ornamental     adj
 ornate adj cmp=more adv=ornately
@@ -92,6 +95,7 @@ oval           adj
 ovarian adj
 overall        adj
 overarching adj
+overbearing adj
 overcast adj
 overcrowded adj
 overdrawn adj
@@ -108,3 +112,4 @@ overweight adj
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj
+oxidative adj

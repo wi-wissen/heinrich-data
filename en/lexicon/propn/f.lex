@@ -18,6 +18,7 @@ February       propn
 FEMA           propn abbr note=Federal Emergency Management Agency (US)
 FERC           propn abbr note=Federal Energy Regulatory Commission (US)
 Ferrari propn
+Fez propn conf=90 note=city in Morocco, also Fès
 FHFA propn abbr note=Federal Housing Finance Agency (US)
 FHWA propn abbr note=Federal Highway Administration (US)
 Fiat propn

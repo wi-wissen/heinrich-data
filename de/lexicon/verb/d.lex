@@ -51,6 +51,7 @@ decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
 deinstallieren verb class=weak pp=deinstalliert perf=haben
+deklarieren verb class=weak pp=deklariert perf=haben
 dekorieren verb class=weak pp=dekoriert perf=haben
 delegieren verb class=weak pp=delegiert perf=haben
 demonstrieren verb class=weak pp=demonstriert perf=haben
@@ -85,6 +86,7 @@ drehen verb class=weak pp=gedreht perf=haben refl=acc
 dressieren verb class=weak pp=dressiert perf=haben
 dribbeln verb class=weak pp=gedribbelt perf=haben
 dringen verb class=strong 3sg=dringt past=drang pp=gedrungen subj2=dränge perf=sein|haben
+drinstehen verb class=strong sep=drin 3sg=drinsteht past=drinstand pp=dringestanden subj2=drinstünde|drinstände perf=haben note=colloquial register (was im Vertrag drinsteht)
 drohen verb class=weak pp=gedroht perf=haben
 dröhnen verb class=weak pp=gedröhnt perf=haben
 drosseln verb class=weak pp=gedrosselt perf=haben

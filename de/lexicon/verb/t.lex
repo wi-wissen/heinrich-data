@@ -3,6 +3,7 @@ tadeln verb class=weak pp=getadelt perf=haben
 tafeln verb class=weak pp=getafelt perf=haben
 tagen verb class=weak pp=getagt perf=haben
 taggen verb class=weak pp=getaggt perf=haben
+tangieren verb class=weak pp=tangiert perf=haben
 tanken verb class=weak pp=getankt perf=haben
 tanzen       verb class=weak pp=getanzt perf=haben
 tapezieren verb class=weak pp=tapeziert perf=haben
@@ -26,6 +27,7 @@ testen verb class=weak pp=getestet perf=haben
 testieren verb class=weak pp=testiert perf=haben
 texten verb class=weak pp=getextet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
+thronen verb class=weak pp=gethront perf=haben
 tilgen verb class=weak pp=getilgt perf=haben
 tippeln verb class=weak pp=getippelt perf=sein
 tippen verb class=weak pp=getippt perf=haben

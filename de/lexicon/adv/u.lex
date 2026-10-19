@@ -5,4 +5,5 @@
 umher adv type=direction
 unbedingt adv
 ungern adv type=manner
+unlängst adv type=time
 unterdessen adv type=time

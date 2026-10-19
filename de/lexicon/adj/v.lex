@@ -1,10 +1,12 @@
 vage adj cmp=vager sup=vagesten
 variabel adj cmp=variabler sup=variabelsten
+vaterländisch adj
 väterlich adj
 vegan adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
 venezianisch adj
+venezolanisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verängstigt adj cmp=verängstigter sup=verängstigtesten
@@ -55,6 +57,7 @@ verschwommen adj
 versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
+verstohlen adj cmp=verstohlener sup=verstohlensten
 versunken adj
 vertikal adj
 vertraglich adj
@@ -73,6 +76,7 @@ verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
+vielseitig adj cmp=vielseitiger sup=vielseitigsten
 viral adj
 virtuell adj
 visuell adj
@@ -85,6 +89,7 @@ vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
 vollwertig adj
 vollziehbar adj
+vonnöten adj pred_only note=vonnöten sein
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
@@ -102,6 +107,7 @@ vorrätig adj
 vorsätzlich adj
 vorschriftsgemäß adj
 vorsichtig adj
+vorsorglich adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten
 vortrefflich adj
 vorwiegend adj

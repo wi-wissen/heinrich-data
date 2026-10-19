@@ -1,3 +1,4 @@
+calcareous adj
 callous adj cmp=more adv=callously
 calm adj cmp=er adv=calmly
 Cambodian adj
@@ -27,6 +28,7 @@ catalytic adj
 catastrophic adj adv=catastrophically
 categorical adj adv=categorically
 Catholic adj
+caudal adj
 causal adj adv=causally
 caustic adj cmp=more adv=caustically
 cautious adj cmp=more adv=cautiously
@@ -48,6 +50,7 @@ challenging adj cmp=more
 chaotic adj cmp=more adv=chaotically
 characteristic adj adv=characteristically
 chargeable adj
+charismatic adj cmp=more adv=charismatically
 charitable adj adv=charitably
 charming adj cmp=more adv=charmingly
 chartered adj
@@ -101,6 +104,7 @@ clinging adj
 clinical adj adv=clinically
 clockwise adj
 close adj cmp=er adv=closely
+cloudless adj
 cloudy adj cmp=er
 clumsy adj cmp=er adv=clumsily
 cluttered adj cmp=more
@@ -123,7 +127,9 @@ Colombian adj
 colonial adj
 colored adj gb=coloured
 colorful adj gb=colourful cmp=more adv=colorfully
+colorless adj gb=colourless
 colossal adj adv=colossally
+combustible adj
 comedic adj
 comely adj cmp=er
 comfortable adj cmp=more adv=comfortably
@@ -162,8 +168,10 @@ compound adj
 comprehensive adj adv=comprehensively
 compulsory adj adv=compulsorily
 computational adj adv=computationally
+concave adj
 conceited adj cmp=more
 conceivable adj adv=conceivably
+concentric adj adv=concentrically
 conceptual adj adv=conceptually
 concerned adj cmp=more
 concerted adj
@@ -174,6 +182,7 @@ concrete adj adv=concretely
 concurrent adj adv=concurrently
 conditional adj adv=conditionally
 conducive adj
+conductive adj
 Confederate adj note=of the Confederate States (American Civil War)
 confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
@@ -189,6 +198,7 @@ conical adj
 conscientious adj cmp=more adv=conscientiously
 conscious adj cmp=more adv=consciously
 consecutive adj adv=consecutively
+consensual adj adv=consensually
 consequent adj adv=consequently
 consequential adj adv=consequentially
 conservative adj cmp=more adv=conservatively
@@ -203,6 +213,7 @@ constitutional adj adv=constitutionally
 constructive adj cmp=more adv=constructively
 consular adj
 consummate adj adv=consummately
+contagious adj cmp=more adv=contagiously
 contemplative adj
 contemporaneous adj
 contemporary adj
@@ -211,6 +222,7 @@ contemptuous adj cmp=more adv=contemptuously
 content adj
 contented adj cmp=more adv=contentedly
 contentious adj cmp=more adv=contentiously
+contextual adj adv=contextually
 contiguous adj
 continental adj
 contingent adj
@@ -225,6 +237,7 @@ contrived adj cmp=more
 controversial adj cmp=more adv=controversially
 convenient adj cmp=more adv=conveniently
 conventional adj cmp=more adv=conventionally
+convergent adj
 conversational adj adv=conversationally
 converse adj adv=conversely
 convertible adj
@@ -247,12 +260,15 @@ correctional adj
 corrective adj
 corresponding adj adv=correspondingly
 corrosive adj cmp=more
+corrugated adj
 corrupt adj cmp=more adv=corruptly
 cosmic adj
 cosmopolitan adj
 cost-effective adj cmp=more
 costly adj cmp=er|more
 counterfeit adj
+counterproductive adj
+countervailable adj conf=90 note=trade law: countervailable subsidy
 countervailing adj
 countless adj
 countywide adj
@@ -273,8 +289,10 @@ creative adj cmp=more adv=creatively
 credible adj cmp=more adv=credibly
 creditable adj
 creditworthy adj
+credulous adj
 creepy adj cmp=er
 Creole adj
+crested adj
 Crimean adj
 criminal adj adv=criminally
 crimson adj
@@ -291,6 +309,7 @@ crucial adj adv=crucially
 crude adj cmp=er adv=crudely
 cruel adj cmp=er|more adv=cruelly
 crunchy adj cmp=er
+crustacean adj
 cryptic adj cmp=more adv=cryptically
 cryptographic adj
 crystalline adj
