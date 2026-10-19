@@ -14,7 +14,7 @@ Pennsylvania propn g=n gen=Pennsylvanias pl=- note=proper name; no plural
 Persien propn g=n gen=Persiens pl=- note=proper name; no plural
 Peru propn g=n gen=Perus pl=- note=proper name; no plural
 Petersburg propn g=n gen=Petersburgs pl=- note=proper name; no plural; (Sankt) Petersburg
-Pfalz propn g=f gen=Pfalz pl=- note=die Pfalz
+Pfalz propn g=f gen=Pfalz pl=- demonym=Pfälzer note=die Pfalz
 Philadelphia propn g=n gen=Philadelphias pl=- note=proper name; no plural
 Philippinen propn g=pl
 Pittsburgh propn g=n gen=Pittsburghs pl=- note=proper name; no plural

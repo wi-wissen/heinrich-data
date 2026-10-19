@@ -50,6 +50,7 @@ flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
 föderal adj
 folgsam adj cmp=folgsamer sup=folgsamsten
+förderlich adj cmp=förderlicher sup=förderlichsten
 formal adj
 formell adj cmp=formeller sup=formellsten
 förmlich adj

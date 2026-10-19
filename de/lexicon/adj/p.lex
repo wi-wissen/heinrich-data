@@ -1,3 +1,4 @@
+palliativ adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele
@@ -50,6 +51,7 @@ problematisch adj cmp=problematischer sup=problematischsten
 produktiv adj cmp=produktiver sup=produktivsten
 professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
+prominent adj cmp=prominenter sup=prominentesten
 proportional adj
 protestantisch adj
 prozentual adj

@@ -86,6 +86,7 @@ Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
 Verfügbarkeit noun g=f gen=Verfügbarkeit pl=- note=no plural
 Verfügung noun g=f gen=Verfügung pl=Verfügungen
+Verführung noun g=f gen=Verführung pl=Verführungen
 Vergabe noun g=f gen=Vergabe pl=Vergaben
 Vergangenheit noun g=f gen=Vergangenheit pl=Vergangenheiten[rare]
 Vergänglichkeit noun g=f gen=Vergänglichkeit pl=- note=no plural
@@ -99,6 +100,7 @@ Vergleichung noun g=f gen=Vergleichung pl=Vergleichungen conf=85 note=rare varia
 Vergnügen noun g=n gen=Vergnügens pl=Vergnügen
 Vergnügung noun g=f gen=Vergnügung pl=Vergnügungen
 Vergrößerung noun g=f gen=Vergrößerung pl=Vergrößerungen
+Vergünstigung noun g=f gen=Vergünstigung pl=Vergünstigungen
 Vergütung noun g=f gen=Vergütung pl=Vergütungen
 Verhaftung noun g=f gen=Verhaftung pl=Verhaftungen
 Verhalten noun g=n gen=Verhaltens pl=- note=mass noun
@@ -106,6 +108,7 @@ Verhaltensweise noun g=f gen=Verhaltensweise pl=Verhaltensweisen
 Verhältnis noun g=n gen=Verhältnisses pl=Verhältnisse
 Verhältnismäßigkeit noun g=f gen=Verhältnismäßigkeit pl=- note=no plural
 Verhandlung noun g=f gen=Verhandlung pl=Verhandlungen
+Verhängnis noun g=n gen=Verhängnisses pl=Verhängnisse
 Verhinderung noun g=f gen=Verhinderung pl=- note=no plural
 Verhör noun g=n gen=Verhörs|Verhöres pl=Verhöre
 Verhütung noun g=f gen=Verhütung pl=- note=no plural
@@ -188,6 +191,7 @@ Verschärfung noun g=f gen=Verschärfung pl=Verschärfungen
 Verschiebung noun g=f gen=Verschiebung pl=Verschiebungen
 Verschiedenheit noun g=f gen=Verschiedenheit pl=Verschiedenheiten
 Verschlechterung noun g=f gen=Verschlechterung pl=Verschlechterungen
+Verschleiß noun g=m gen=Verschleißes pl=- note=no plural in use
 Verschluss noun g=m gen=Verschlusses pl=Verschlüsse
 Verschlüsselung noun g=f gen=Verschlüsselung pl=Verschlüsselungen
 Verschmelzung noun g=f gen=Verschmelzung pl=Verschmelzungen
@@ -227,6 +231,7 @@ Versteigerung noun g=f gen=Versteigerung pl=Versteigerungen
 Verstopfung noun g=f gen=Verstopfung pl=Verstopfungen
 Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
+Verstromung noun g=f gen=Verstromung pl=- note=mass noun
 Versuch noun g=m gen=Versuchs|Versuches[rare] pl=Versuche
 Versuchung noun g=f gen=Versuchung pl=Versuchungen
 Vertagung noun g=f gen=Vertagung pl=Vertagungen
@@ -245,6 +250,7 @@ Vertreter noun g=m gen=Vertreters pl=Vertreter
 Vertreterin noun g=f gen=Vertreterin pl=Vertreterinnen
 Vertretung noun g=f gen=Vertretung pl=Vertretungen
 Vertrieb noun g=m gen=Vertriebs|Vertriebes pl=Vertriebe
+Verursacher noun g=m gen=Verursachers pl=Verursacher
 Verurteilung noun g=f gen=Verurteilung pl=Verurteilungen
 Verwahrung noun g=f gen=Verwahrung pl=- note=no plural
 Verwalter noun g=m gen=Verwalters pl=Verwalter
@@ -268,6 +274,7 @@ Verzinsung noun g=f gen=Verzinsung pl=- note=no plural in practice
 Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
 Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
+Veto noun g=n gen=Vetos pl=Vetos
 Vetter noun g=m gen=Vetters pl=Vettern
 Video noun g=n gen=Videos pl=Videos
 Videocall noun g=m gen=Videocalls pl=Videocalls
@@ -279,12 +286,14 @@ Vielfalt noun g=f gen=Vielfalt pl=- note=no plural
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
 Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
+Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Vikar noun g=m gen=Vikars pl=Vikare
 Vikarin noun g=f gen=Vikarin pl=Vikarinnen
 Villa noun g=f gen=Villa pl=Villen
 Violine noun g=f gen=Violine pl=Violinen
 Violinist noun g=m gen=Violinisten pl=Violinisten
 Violinistin noun g=f gen=Violinistin pl=Violinistinnen
+Violoncello noun g=n gen=Violoncellos pl=Violoncellos|Violoncelli
 Viper noun g=f gen=Viper pl=Vipern
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Visier noun g=n gen=Visiers pl=Visiere
@@ -382,6 +391,7 @@ Vorsilbe noun g=f gen=Vorsilbe pl=Vorsilben
 Vorsitz noun g=m gen=Vorsitzes pl=- note=no plural
 Vorsitzende noun g=m|f decl=adj
 Vorsorge noun g=f gen=Vorsorge pl=- note=no plural
+Vorspann noun g=m gen=Vorspanns|Vorspannes pl=Vorspanne
 Vorsprung noun g=m gen=Vorsprungs|Vorsprunges pl=Vorsprünge
 Vorstadt noun g=f gen=Vorstadt pl=Vorstädte
 Vorstand noun g=m gen=Vorstands|Vorstandes pl=Vorstände

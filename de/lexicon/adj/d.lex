@@ -20,6 +20,7 @@ deutlich      adj cmp=deutlicher sup=deutlichsten
 deutsch      adj
 deutschsprachig adj
 dezent adj cmp=dezenter sup=dezentesten
+dezidiert adj cmp=dezidierter sup=dezidiertesten
 diagonal adj
 dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
@@ -45,10 +46,12 @@ dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreifach adj
+dreischiffig adj note=architecture: with three naves
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten
+drittklassig adj
 dual adj
 duftend adj
 dumm adj cmp=dümmer sup=dümmsten

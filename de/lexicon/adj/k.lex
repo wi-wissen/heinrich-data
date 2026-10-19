@@ -51,6 +51,7 @@ konsequent adj cmp=konsequenter sup=konsequentesten
 konservativ adj cmp=konservativer sup=konservativsten
 konstant adj cmp=konstanter sup=konstantesten
 konstruktiv adj cmp=konstruktiver sup=konstruktivsten
+kontinental adj
 kontinuierlich adj cmp=kontinuierlicher sup=kontinuierlichsten
 kontraproduktiv adj
 kontrovers adj

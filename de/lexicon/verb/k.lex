@@ -24,6 +24,7 @@ kippen verb class=weak pp=gekippt perf=haben|sein
 kitzeln verb class=weak pp=gekitzelt perf=haben
 kläffen verb class=weak pp=gekläfft perf=haben
 klagen verb class=weak pp=geklagt perf=haben
+klappen verb class=weak pp=geklappt perf=haben|sein note=haben in both senses (es hat geklappt); sein for something folding over is regional
 klappern verb class=weak pp=geklappert perf=haben
 klären verb class=weak pp=geklärt perf=haben refl=acc
 klarmachen verb class=weak sep=klar pp=klargemacht perf=haben
@@ -79,6 +80,7 @@ konfigurieren verb class=weak pp=konfiguriert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konkretisieren verb class=weak pp=konkretisiert perf=haben
 konsolidieren verb class=weak pp=konsolidiert perf=haben
+konstituieren verb class=weak pp=konstituiert perf=haben refl=acc
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
 kontaktieren verb class=weak pp=kontaktiert perf=haben

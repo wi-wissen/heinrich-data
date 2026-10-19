@@ -34,6 +34,7 @@ Abiturientin noun g=f gen=Abiturientin pl=Abiturientinnen
 Abkehr noun g=f gen=Abkehr pl=- note=no plural
 Abklärung noun g=f gen=Abklärung pl=Abklärungen
 Abkommen      noun g=n gen=Abkommens pl=Abkommen
+Abkunft noun g=f gen=Abkunft pl=- note=descent, origin; no plural in use
 Abkürzung noun g=f gen=Abkürzung pl=Abkürzungen
 Ablage noun g=f gen=Ablage pl=Ablagen note=filing; also storage place
 Ablass noun g=m gen=Ablasses pl=Ablässe
@@ -92,6 +93,7 @@ Abstecher noun g=m gen=Abstechers pl=Abstecher
 Absteiger noun g=m gen=Absteigers pl=Absteiger
 Abstieg noun g=m gen=Abstiegs|Abstieges pl=Abstiege
 Abstimmung    noun g=f gen=Abstimmung pl=Abstimmungen
+Abstraktion noun g=f gen=Abstraktion pl=Abstraktionen
 Absturz noun g=m gen=Absturzes pl=Abstürze
 Abt           noun g=m gen=Abtes|Abts pl=Äbte
 Abtei noun g=f gen=Abtei pl=Abteien
@@ -125,10 +127,12 @@ Adapter noun g=m gen=Adapters pl=Adapter
 Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
 Adel noun g=m gen=Adels pl=- note=mass noun
+Adelige noun g=m|f decl=adj note=variant Adlige
 Adelsfamilie noun g=f gen=Adelsfamilie pl=Adelsfamilien
 Adelsgeschlecht noun g=n gen=Adelsgeschlechts|Adelsgeschlechtes pl=Adelsgeschlechter
 Ader noun g=f gen=Ader pl=Adern
 Adjektiv noun g=n gen=Adjektivs|Adjektives pl=Adjektive
+Adjunkt noun g=m gen=Adjunkten pl=Adjunkten
 Adjutant noun g=m gen=Adjutanten pl=Adjutanten
 Adjutantin noun g=f gen=Adjutantin pl=Adjutantinnen
 Adler noun g=m gen=Adlers pl=Adler
@@ -138,6 +142,7 @@ Administration noun g=f gen=Administration pl=Administrationen
 Administrator noun g=m gen=Administrators pl=Administratoren
 Administratorin noun g=f gen=Administratorin pl=Administratorinnen
 Admiral noun g=m gen=Admirals pl=Admirale|Admiräle
+Admiralität noun g=f gen=Admiralität pl=Admiralitäten
 Adoption noun g=f gen=Adoption pl=Adoptionen
 Adoptivkind noun g=n gen=Adoptivkinds|Adoptivkindes pl=Adoptivkinder
 Adressat noun g=m gen=Adressaten pl=Adressaten
@@ -191,12 +196,14 @@ Aktiengesellschaft noun g=f gen=Aktiengesellschaft pl=Aktiengesellschaften
 Aktion noun g=f gen=Aktion pl=Aktionen
 Aktionär noun g=m gen=Aktionärs pl=Aktionäre
 Aktionärin noun g=f gen=Aktionärin pl=Aktionärinnen
+Aktionismus noun g=m gen=Aktionismus pl=- note=mass noun
 Aktiv noun g=n gen=Aktivs pl=Aktive
 Aktivierung noun g=f gen=Aktivierung pl=Aktivierungen
 Aktivist noun g=m gen=Aktivisten pl=Aktivisten
 Aktivistin noun g=f gen=Aktivistin pl=Aktivistinnen
 Aktivität     noun g=f gen=Aktivität pl=Aktivitäten
 Aktualisierung noun g=f gen=Aktualisierung pl=Aktualisierungen
+Aktualität noun g=f gen=Aktualität pl=Aktualitäten
 Akzent noun g=m gen=Akzents|Akzentes pl=Akzente
 Akzeptanz noun g=f gen=Akzeptanz pl=- note=mass noun
 Alarm noun g=m gen=Alarms|Alarmes pl=Alarme
@@ -220,6 +227,7 @@ Allgemeinheit noun g=f gen=Allgemeinheit pl=- note=mass noun
 Allianz noun g=f gen=Allianz pl=Allianzen
 Alliierte noun g=m|f decl=adj note=die Alliierten
 Alliteration noun g=f gen=Alliteration pl=Alliterationen
+Allmacht noun g=f gen=Allmacht pl=- note=mass noun
 Alltag noun g=m gen=Alltags|Alltages pl=- note=mass noun
 Alm noun g=f gen=Alm pl=Almen
 Almosen noun g=n gen=Almosens pl=Almosen
@@ -248,8 +256,10 @@ Ameise noun g=f gen=Ameise pl=Ameisen
 Amen noun g=n gen=Amens pl=Amen
 Amerikaner noun g=m gen=Amerikaners pl=Amerikaner
 Amerikanerin noun g=f gen=Amerikanerin pl=Amerikanerinnen
+Aminosäure noun g=f gen=Aminosäure pl=Aminosäuren
 Amme noun g=f gen=Amme pl=Ammen
 Ammoniak noun g=n gen=Ammoniaks pl=- note=chemical
+Amnestie noun g=f gen=Amnestie pl=Amnestien
 Ampel noun g=f gen=Ampel pl=Ampeln
 Amphibie noun g=f gen=Amphibie pl=Amphibien
 Amsel noun g=f gen=Amsel pl=Amseln
@@ -277,6 +287,7 @@ Andenken noun g=n gen=Andenkens pl=Andenken
 Änderung      noun g=f gen=Änderung pl=Änderungen
 Androhung noun g=f gen=Androhung pl=Androhungen
 Anekdote noun g=f gen=Anekdote pl=Anekdoten
+Anerbieten noun g=n gen=Anerbietens pl=Anerbieten note=lexicalised: offer (elevated)
 Anerkennung   noun g=f gen=Anerkennung pl=Anerkennungen
 Anfall noun g=m gen=Anfalls|Anfalles pl=Anfälle
 Anfang        noun g=m gen=Anfangs|Anfanges pl=Anfänge
@@ -338,6 +349,7 @@ Anmerkung noun g=f gen=Anmerkung pl=Anmerkungen
 Anmut noun g=f gen=Anmut pl=- note=no plural
 Annäherung noun g=f gen=Annäherung pl=Annäherungen
 Annahme       noun g=f gen=Annahme pl=Annahmen
+Annalen noun g=pl
 Annexion noun g=f gen=Annexion pl=Annexionen
 Anorak noun g=m gen=Anoraks pl=Anoraks
 Anordnung     noun g=f gen=Anordnung pl=Anordnungen
@@ -376,6 +388,8 @@ Anstrich noun g=m gen=Anstrichs|Anstriches pl=Anstriche
 Antagonist noun g=m gen=Antagonisten pl=Antagonisten
 Anteil        noun g=m gen=Anteils|Anteiles pl=Anteile
 Antenne noun g=f gen=Antenne pl=Antennen
+Anthologie noun g=f gen=Anthologie pl=Anthologien
+Anthropologe noun g=m gen=Anthropologen pl=Anthropologen
 Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
@@ -407,6 +421,7 @@ Anzahlung noun g=f gen=Anzahlung pl=Anzahlungen
 Anzeichen noun g=n gen=Anzeichens pl=Anzeichen
 Anzeige       noun g=f gen=Anzeige pl=Anzeigen
 Anzeiger noun g=m gen=Anzeigers pl=Anzeiger
+Anziehung noun g=f gen=Anziehung pl=Anziehungen
 Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Apfel noun g=m gen=Apfels pl=Äpfel
 Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
@@ -460,7 +475,9 @@ Argument noun g=n gen=Arguments|Argumentes pl=Argumente
 Argumentation noun g=f gen=Argumentation pl=Argumentationen
 Argwohn noun g=m gen=Argwohns pl=- note=no plural
 Arie noun g=f gen=Arie pl=Arien
+Aristokratie noun g=f gen=Aristokratie pl=Aristokratien
 Arithmetik noun g=f gen=Arithmetik pl=- note=no plural
+Arkade noun g=f gen=Arkade pl=Arkaden
 Arktis noun g=f gen=Arktis pl=- note=no plural
 Arm           noun g=m gen=Arms|Armes pl=Arme
 Armee         noun g=f gen=Armee pl=Armeen
@@ -473,6 +490,7 @@ Aroma noun g=n gen=Aromas pl=Aromen|Aromas
 Arrangement noun g=n gen=Arrangements pl=Arrangements
 Arrangeur noun g=m gen=Arrangeurs pl=Arrangeure
 Arrangeurin noun g=f gen=Arrangeurin pl=Arrangeurinnen
+Arroganz noun g=f gen=Arroganz pl=- note=mass noun
 Arrondissement noun g=n gen=Arrondissements pl=Arrondissements
 Arsenal noun g=n gen=Arsenals pl=Arsenale
 Art           noun g=f gen=Art pl=Arten
@@ -528,6 +546,7 @@ Attraktivität noun g=f gen=Attraktivität pl=- note=no plural
 Attribut noun g=n gen=Attributs|Attributes pl=Attribute
 Au noun g=f gen=Au pl=Auen note=river meadow
 Aubergine noun g=f gen=Aubergine pl=Auberginen
+Audienz noun g=f gen=Audienz pl=Audienzen
 Audit noun g=n|m gen=Audits pl=Audits
 Auditor noun g=m gen=Auditors pl=Auditoren
 Auditorin noun g=f gen=Auditorin pl=Auditorinnen
@@ -703,6 +722,7 @@ Autor         noun g=m gen=Autors pl=Autoren
 Autorin noun g=f gen=Autorin pl=Autorinnen
 Autorität noun g=f gen=Autorität pl=Autoritäten
 Autoscooter noun g=m gen=Autoscooters pl=Autoscooter
+Avantgarde noun g=f gen=Avantgarde pl=Avantgarden
 Avatar noun g=m gen=Avatars pl=Avatare
 Avocado noun g=f gen=Avocado pl=Avocados
 Axolotl noun g=m gen=Axolotls pl=Axolotl

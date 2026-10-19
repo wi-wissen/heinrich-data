@@ -56,12 +56,14 @@ Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
 Delegation noun g=f gen=Delegation pl=Delegationen
 Delegierte noun g=m|f decl=adj
 Delfin noun g=m gen=Delfins pl=Delfine
+Delikt noun g=n gen=Delikts|Deliktes pl=Delikte
 Delphin noun g=m gen=Delphins pl=Delphine
 Delta noun g=n gen=Deltas pl=Deltas|Delten[rare]
 Demo noun g=f gen=Demo pl=Demos note=colloquial for Demonstration
 Demokrat noun g=m gen=Demokraten pl=Demokraten
 Demokratie    noun g=f gen=Demokratie pl=Demokratien
 Demokratin noun g=f gen=Demokratin pl=Demokratinnen
+Demokratisierung noun g=f gen=Demokratisierung pl=Demokratisierungen
 Demonstrant noun g=m gen=Demonstranten pl=Demonstranten
 Demonstrantin noun g=f gen=Demonstrantin pl=Demonstrantinnen
 Demonstration noun g=f gen=Demonstration pl=Demonstrationen
@@ -82,6 +84,7 @@ Desaster noun g=n gen=Desasters pl=Desaster
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
 Designerin noun g=f gen=Designerin pl=Designerinnen
+Desinfektion noun g=f gen=Desinfektion pl=Desinfektionen
 Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Desktop noun g=m gen=Desktops pl=Desktops
@@ -238,6 +241,7 @@ Drohne noun g=f gen=Drohne pl=Drohnen
 Drohung noun g=f gen=Drohung pl=Drohungen
 Dromedar noun g=n gen=Dromedars pl=Dromedare
 Dropdown noun g=n gen=Dropdowns pl=Dropdowns conf=80 note=Dropdown-Menü; gender varies (das/der)
+Droschke noun g=f gen=Droschke pl=Droschken
 Drossel noun g=f gen=Drossel pl=Drosseln
 Druck         noun g=m gen=Drucks|Druckes pl=Drücke sense=pressure
 Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print

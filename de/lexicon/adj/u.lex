@@ -24,6 +24,7 @@ unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
 unartig adj cmp=unartiger sup=unartigsten
+unaufhaltsam adj
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
 unbefangen adj
@@ -32,6 +33,7 @@ unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
 unbegründet adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
+unbekümmert adj cmp=unbekümmerter sup=unbekümmertsten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
 unbemerkt adj
 unberücksichtigt adj
@@ -95,6 +97,7 @@ unmoralisch adj
 unmotiviert adj cmp=unmotivierter sup=unmotiviertesten
 unnötig adj cmp=unnötiger sup=unnötigsten
 unordentlich adj cmp=unordentlicher sup=unordentlichsten
+unparteiisch adj cmp=unparteiischer sup=unparteiischsten
 unpünktlich adj cmp=unpünktlicher sup=unpünktlichsten
 unrecht adj
 unregelmäßig adj
@@ -108,6 +111,7 @@ unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
 unsinnig adj
+unstreitig adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
 untenstehend adj conf=80 note=also written unten stehend
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
@@ -132,6 +136,7 @@ unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
 unwiderruflich adj
+unwiderstehlich adj cmp=unwiderstehlicher sup=unwiderstehlichsten
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj

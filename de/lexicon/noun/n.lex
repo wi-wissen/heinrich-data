@@ -20,6 +20,7 @@ Nachmittag noun g=m gen=Nachmittags|Nachmittages pl=Nachmittage
 Nachricht noun g=f gen=Nachricht pl=Nachrichten
 Nachrichtensendung noun g=f gen=Nachrichtensendung pl=Nachrichtensendungen
 Nachschlagewerk noun g=n gen=Nachschlagewerks|Nachschlagewerkes pl=Nachschlagewerke
+Nachschub noun g=m gen=Nachschubs|Nachschubes pl=Nachschübe
 Nachsilbe noun g=f gen=Nachsilbe pl=Nachsilben
 Nächstenliebe noun g=f gen=Nächstenliebe pl=- note=no plural
 Nacht noun g=f gen=Nacht pl=Nächte
@@ -52,6 +53,7 @@ Narzisse noun g=f gen=Narzisse pl=Narzissen
 Narzissenbeet noun g=n gen=Narzissenbeets pl=Narzissenbeete
 Nase noun g=f gen=Nase pl=Nasen
 Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
+Nässe noun g=f gen=Nässe pl=- note=mass noun
 Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
 Nationalität noun g=f gen=Nationalität pl=Nationalitäten
@@ -83,6 +85,7 @@ Nenner noun g=m gen=Nenners pl=Nenner
 Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neologismus noun g=m gen=Neologismus pl=Neologismen
+Neonazi noun g=m gen=Neonazis pl=Neonazis
 Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
@@ -107,6 +110,7 @@ Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
 Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
+Niederung noun g=f gen=Niederung pl=Niederungen
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
@@ -125,6 +129,7 @@ Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
 Norm noun g=f gen=Norm pl=Normen
 Normalität noun g=f gen=Normalität pl=- note=no plural
+Normanne noun g=m gen=Normannen pl=Normannen
 Norweger noun g=m gen=Norwegers pl=Norweger
 Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Not noun g=f gen=Not pl=Nöte
@@ -147,6 +152,7 @@ Nuggets noun g=pl
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Nummer noun g=f gen=Nummer pl=Nummern
+Nummerierung noun g=f gen=Nummerierung pl=Nummerierungen
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
 Nussknacker noun g=m gen=Nussknackers pl=Nussknacker

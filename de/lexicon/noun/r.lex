@@ -1,18 +1,22 @@
 Rabatt noun g=m gen=Rabatts pl=Rabatte
 Rabattaktion noun g=f gen=Rabattaktion pl=Rabattaktionen
+Rabbi noun g=m gen=Rabbis pl=Rabbis|Rabbinen
 Rabbiner noun g=m gen=Rabbiners pl=Rabbiner
 Rabbinerin noun g=f gen=Rabbinerin pl=Rabbinerinnen
 Rabe noun g=m gen=Raben pl=Raben
 Rache noun g=f gen=Rache pl=- note=mass noun
 Rachen noun g=m gen=Rachens pl=Rachen
+Rächer noun g=m gen=Rächers pl=Rächer
 Raclette noun g=n gen=Raclettes pl=Raclettes
 Rad noun g=n gen=Rads|Rades pl=Räder
 Radar noun g=m|n gen=Radars pl=Radare
 Radau noun g=m gen=Radaus pl=- note=mass noun; colloquial
 Radfahrer noun g=m gen=Radfahrers pl=Radfahrer
 Radfahrerin noun g=f gen=Radfahrerin pl=Radfahrerinnen
+Radierer noun g=m gen=Radierers pl=Radierer
 Radiergummi noun g=m gen=Radiergummis pl=Radiergummis
 Radieschen noun g=n gen=Radieschens pl=Radieschen
+Radikalisierung noun g=f gen=Radikalisierung pl=Radikalisierungen
 Radio noun g=n gen=Radios pl=Radios
 Radioaktivität noun g=f gen=Radioaktivität pl=- note=no plural
 Radius noun g=m gen=Radius pl=Radien
@@ -31,6 +35,7 @@ Rapperin noun g=f gen=Rapperin pl=Rapperinnen
 Raps noun g=m gen=Rapses pl=- note=no plural
 Rasen noun g=m gen=Rasens pl=Rasen
 Rasenmäher noun g=m gen=Rasenmähers pl=Rasenmäher
+Raserei noun g=f gen=Raserei pl=Rasereien
 Rasierer noun g=m gen=Rasierers pl=Rasierer
 Rasierschaum noun g=m gen=Rasierschaums|Rasierschaumes pl=Rasierschäume
 Rasse noun g=f gen=Rasse pl=Rassen
@@ -136,6 +141,7 @@ Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
 Rehabilitation noun g=f gen=Rehabilitation pl=- note=mass noun; Rehabilitationen is rare
+Rehabilitierung noun g=f gen=Rehabilitierung pl=Rehabilitierungen
 Rehbock noun g=m gen=Rehbocks pl=Rehböcke
 Rehkitz noun g=n gen=Rehkitzes pl=Rehkitze
 Reibe noun g=f gen=Reibe pl=Reiben
@@ -155,6 +161,7 @@ Reinette noun g=f gen=Reinette pl=Reinetten
 Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
 Reinigung noun g=f gen=Reinigung pl=Reinigungen
+Reinlichkeit noun g=f gen=Reinlichkeit pl=- note=mass noun
 Reis noun g=m gen=Reises pl=- note=rice; mass noun
 Reise noun g=f gen=Reise pl=Reisen
 Reisende noun g=m|f decl=adj note=der/die Reisende
@@ -171,6 +178,7 @@ Rekrutierung noun g=f gen=Rekrutierung pl=Rekrutierungen
 Rektor noun g=m gen=Rektors pl=Rektoren
 Rektorin noun g=f gen=Rektorin pl=Rektorinnen
 Relation noun g=f gen=Relation pl=Relationen
+Relativität noun g=f gen=Relativität pl=- note=mass noun
 Release noun g=n|m gen=Releases pl=Releases
 Relegation noun g=f gen=Relegation pl=Relegationen
 Relevanz noun g=f gen=Relevanz pl=- note=mass noun
@@ -178,6 +186,7 @@ Reli noun g=f gen=Reli pl=- style=colloquial note=short for Religion
 Relief noun g=n gen=Reliefs pl=Reliefs|Relieve
 Religion noun g=f gen=Religion pl=Religionen
 Reliquie noun g=f gen=Reliquie pl=Reliquien
+Remis noun g=n gen=Remis pl=Remis|Remisen note=draw (chess, sport)
 Remter noun g=m gen=Remters pl=Remter
 Renaissance noun g=f gen=Renaissance pl=- note=mass noun; Renaissancen is rare
 Rendite noun g=f gen=Rendite pl=Renditen
@@ -188,6 +197,7 @@ Rente noun g=f gen=Rente pl=Renten
 Rentier noun g=n gen=Rentiers pl=Rentiere
 Rentner noun g=m gen=Rentners pl=Rentner
 Rentnerin noun g=f gen=Rentnerin pl=Rentnerinnen
+Reorganisation noun g=f gen=Reorganisation pl=Reorganisationen
 Reparatur noun g=f gen=Reparatur pl=Reparaturen
 Repertoire noun g=n gen=Repertoires pl=Repertoires
 Report noun g=m gen=Reports pl=Reports
@@ -203,10 +213,14 @@ Reptil noun g=n gen=Reptils pl=Reptilien|Reptile
 Republik noun g=f gen=Republik pl=Republiken
 Republikaner noun g=m gen=Republikaners pl=Republikaner
 Republikanerin noun g=f gen=Republikanerin pl=Republikanerinnen
+Reputation noun g=f gen=Reputation pl=- note=mass noun
+Requiem noun g=n gen=Requiems pl=Requiems
 Requisite noun g=f gen=Requisite pl=Requisiten
+Reservat noun g=n gen=Reservats|Reservates pl=Reservate
 Reserve noun g=f gen=Reserve pl=Reserven
 Reservierung noun g=f gen=Reservierung pl=Reservierungen
 Residenz noun g=f gen=Residenz pl=Residenzen
+Resignation noun g=f gen=Resignation pl=Resignationen
 Resolution noun g=f gen=Resolution pl=Resolutionen
 Resonanz noun g=f gen=Resonanz pl=Resonanzen
 Respekt noun g=m gen=Respekts|Respektes pl=- note=mass noun
@@ -219,6 +233,7 @@ Restmüll noun g=m gen=Restmülls pl=- note=no plural
 Restrukturierung noun g=f gen=Restrukturierung pl=Restrukturierungen
 Resultat noun g=n gen=Resultats|Resultates pl=Resultate
 Retoure noun g=f gen=Retoure pl=Retouren
+Retrospektive noun g=f gen=Retrospektive pl=Retrospektiven
 Retter noun g=m gen=Retters pl=Retter
 Retterin noun g=f gen=Retterin pl=Retterinnen
 Rettich noun g=m gen=Rettichs pl=Rettiche
@@ -262,6 +277,8 @@ Ritter noun g=m gen=Ritters pl=Ritter
 Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
 Rittmeister noun g=m gen=Rittmeisters pl=Rittmeister note=cavalry captain
 Ritual noun g=n gen=Rituals pl=Rituale
+Ritus noun g=m gen=Ritus pl=Riten note=des Ritus
+Rivalität noun g=f gen=Rivalität pl=Rivalitäten
 Roadmap noun g=f gen=Roadmap pl=Roadmaps
 Robbe noun g=f gen=Robbe pl=Robben
 Roboter noun g=m gen=Roboters pl=Roboter
@@ -274,6 +291,7 @@ Rohr noun g=n gen=Rohrs|Rohres pl=Rohre
 Röhre noun g=f gen=Röhre pl=Röhren
 Röhricht noun g=n gen=Röhrichts pl=Röhrichte
 Rohstoff noun g=m gen=Rohstoffs|Rohstoffes pl=Rohstoffe
+Rokoko noun g=n gen=Rokoko|Rokokos pl=- note=style period
 Rollator noun g=m gen=Rollators pl=Rollatoren
 Rolle noun g=f gen=Rolle pl=Rollen
 Roller noun g=m gen=Rollers pl=Roller
@@ -335,7 +353,9 @@ Ruhe noun g=f gen=Ruhe pl=- note=mass noun
 Ruhestand noun g=m gen=Ruhestands|Ruhestandes pl=- note=mass noun
 Ruhm noun g=m gen=Ruhms|Ruhmes pl=- note=mass noun
 Rührung noun g=f gen=Rührung pl=- note=mass noun
+Ruin noun g=m gen=Ruins pl=- note=der Ruin (ruin, downfall); no plural
 Ruine noun g=f gen=Ruine pl=Ruinen
+Rumäne noun g=m gen=Rumänen pl=Rumänen
 Rumänin noun g=f gen=Rumänin pl=Rumäninnen
 Rummel noun g=m gen=Rummels pl=- note=no plural (mass or abstract noun)
 Rumpf noun g=m gen=Rumpfs|Rumpfes pl=Rümpfe

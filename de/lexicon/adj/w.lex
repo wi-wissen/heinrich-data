@@ -10,6 +10,7 @@ wahrhaftig adj
 wahrheitsgemäß adj
 wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 warm adj cmp=wärmer sup=wärmsten
+wehmütig adj cmp=wehmütiger sup=wehmütigsten
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten

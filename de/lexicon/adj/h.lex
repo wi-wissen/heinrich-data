@@ -55,3 +55,4 @@ hügelig adj cmp=hügeliger sup=hügeligsten
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten
+hygienisch adj

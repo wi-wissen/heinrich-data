@@ -12,6 +12,8 @@ Oberstufe noun g=f gen=Oberstufe pl=Oberstufen
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
+Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
+Obrist noun g=m gen=Obristen pl=Obristen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
@@ -65,6 +67,7 @@ Opi noun g=m gen=Opis pl=Opis
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
 Opposition noun g=f gen=Opposition pl=Oppositionen
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
+Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
 Option noun g=f gen=Option pl=Optionen
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
@@ -88,6 +91,7 @@ Orient noun g=m gen=Orients pl=- note=the Orient
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
 Orkan noun g=m gen=Orkans pl=Orkane
+Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien

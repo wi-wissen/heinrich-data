@@ -5,6 +5,7 @@ mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 männlich adj
 manuell adj
 maritim adj
+marode adj cmp=maroder sup=marodesten
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -16,6 +17,7 @@ matt adj cmp=matter sup=mattesten
 mausetot adj
 maximal adj
 mechanisch adj
+mecklenburgisch adj
 medial adj
 medizinisch adj
 mehrfach adj
@@ -36,6 +38,7 @@ miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
+mitleidig adj cmp=mitleidiger sup=mitleidigsten
 mittelalterlich adj
 mittelbar adj
 mittelfristig adj

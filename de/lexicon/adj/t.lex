@@ -6,10 +6,12 @@ tariflich adj
 tätig adj
 tatsächlich adj
 taub adj cmp=tauber sup=taubsten
+tauglich adj cmp=tauglicher sup=tauglichsten
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
+tendenziell adj
 tendenziös adj
 termingemäß adj
 terroristisch adj
@@ -17,6 +19,7 @@ teuer        adj cmp=teurer sup=teuersten
 thematisch adj
 theologisch adj
 theoretisch adj
+tibetisch adj
 tief adj cmp=tiefer sup=tiefsten
 tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
 tierisch adj
@@ -31,6 +34,7 @@ totalitär adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
+transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 traumhaft adj cmp=traumhafter sup=traumhaftesten
@@ -44,6 +48,7 @@ trocken adj cmp=trockener sup=trockensten
 tropisch adj
 trotzig adj cmp=trotziger sup=trotzigsten
 trüb adj cmp=trüber sup=trübsten
+trunken adj cmp=trunkener sup=trunkensten
 tschechisch adj
 tschechoslowakisch adj
 tüchtig adj cmp=tüchtiger sup=tüchtigsten

@@ -2,6 +2,7 @@ sabbern verb class=weak pp=gesabbert perf=haben
 säen verb class=weak pp=gesät perf=haben
 sagen verb class=weak pp=gesagt perf=haben
 sägen verb class=weak pp=gesägt perf=haben
+säkularisieren verb class=weak pp=säkularisiert perf=haben
 saldieren verb class=weak pp=saldiert perf=haben
 salzen verb class=weak pp=gesalzen|gesalzt perf=haben
 sammeln      verb class=weak pp=gesammelt perf=haben
@@ -12,6 +13,7 @@ sättigen verb class=weak pp=gesättigt perf=haben
 saufen verb class=strong 3sg=säuft past=soff pp=gesoffen subj2=söffe perf=haben
 saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt perf=haben
 säugen verb class=weak pp=gesäugt perf=haben
+säumen verb class=weak pp=gesäumt perf=haben
 säuseln verb class=weak pp=gesäuselt perf=haben
 scannen verb class=weak pp=gescannt perf=haben
 schaden verb class=weak pp=geschadet perf=haben
@@ -19,6 +21,7 @@ schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
 schälen verb class=weak pp=geschält perf=haben refl=acc
+schalten verb class=weak pp=geschaltet perf=haben
 schämen verb class=weak pp=geschämt perf=haben refl=acc
 scharren verb class=weak pp=gescharrt perf=haben
 schattieren verb class=weak pp=schattiert perf=haben
@@ -101,6 +104,7 @@ schnüffeln verb class=weak pp=geschnüffelt perf=haben
 schnupfen verb class=weak pp=geschnupft perf=haben
 schnuppern verb class=weak pp=geschnuppert perf=haben
 schnurren verb class=weak pp=geschnurrt perf=haben
+schockieren verb class=weak pp=schockiert perf=haben
 schonen verb class=weak pp=geschont perf=haben
 schöpfen verb class=weak pp=geschöpft perf=haben
 schrauben verb class=weak pp=geschraubt perf=haben
@@ -176,6 +180,7 @@ sparen verb class=weak pp=gespart perf=haben
 spaßen verb class=weak pp=gespaßt perf=haben
 spazieren verb class=weak pp=spaziert perf=sein
 speichern verb class=weak pp=gespeichert perf=haben
+speien verb class=strong 3sg=speit past=spie pp=gespien|gespieen[rare] subj2=spiee perf=haben
 speisen verb class=weak pp=gespeist perf=haben
 spenden verb class=weak pp=gespendet perf=haben
 sperren verb class=weak pp=gesperrt perf=haben refl=acc
@@ -240,6 +245,7 @@ stottern verb class=weak pp=gestottert perf=haben
 strafen verb class=weak pp=gestraft perf=haben
 strahlen verb class=weak pp=gestrahlt perf=haben
 strampeln verb class=weak pp=gestrampelt perf=haben|sein
+sträuben verb class=weak pp=gesträubt perf=haben refl=acc
 streamen verb class=weak pp=gestreamt perf=haben
 streben verb class=weak pp=gestrebt perf=haben
 strecken verb class=weak pp=gestreckt perf=haben refl=acc

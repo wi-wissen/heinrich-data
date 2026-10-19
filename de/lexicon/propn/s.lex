@@ -58,6 +58,7 @@ Südamerika propn g=n gen=Südamerikas pl=- note=proper name, no plural
 Sudan propn g=m gen=Sudan|Sudans pl=- note=country; der Sudan
 Süddeutschland propn g=n gen=Süddeutschlands pl=- note=region
 Südkorea propn g=n gen=Südkoreas pl=- note=proper name, no plural
+Südosteuropa propn g=n gen=Südosteuropas pl=- note=region; no plural
 Südsudan propn g=m gen=Südsudan|Südsudans pl=- note=country; der Südsudan
 Südtirol propn g=n gen=Südtirols pl=- note=region
 Sumatra propn g=n gen=Sumatras pl=- note=island

@@ -23,6 +23,7 @@ einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingeschnappt adj
+eingleisig adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
@@ -51,6 +52,7 @@ emotional adj
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 emsig adj
+endemisch adj
 endgültig adj
 endlich adj
 energisch adj cmp=energischer sup=energischsten
@@ -62,6 +64,7 @@ entbehrlich adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
 entgeltlich adj
+entlegen adj cmp=entlegener sup=entlegensten
 entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
@@ -92,6 +95,7 @@ erstmalig adj
 erwachsen adj
 erwünscht adj
 erzählend adj
+essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell
 ethisch adj
 ethnisch adj
 etwaig adj attr_only
@@ -109,3 +113,4 @@ exponentiell adj
 expressionistisch adj
 extern adj
 extrem adj cmp=extremer sup=extremsten
+exzellent adj cmp=exzellenter sup=exzellentesten
