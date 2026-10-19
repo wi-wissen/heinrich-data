@@ -3,6 +3,7 @@ Kaiserslautern propn g=n gen=Kaiserslauterns pl=- note=city in Rhineland-Palatin
 Kalifornien propn g=n gen=Kaliforniens pl=- note=proper name; no plural
 Kaliningrad propn g=n gen=Kaliningrads pl=- note=city in Russia
 Kamerun propn g=n gen=Kameruns pl=- note=country
+Kampanien propn g=n gen=Kampaniens pl=- note=Italian region
 Kanada propn g=n gen=Kanadas pl=- note=proper name; no plural
 Kansas propn g=n gen=Kansas pl=- note=US state
 Karibik propn g=f gen=Karibik pl=- note=die Karibik
@@ -41,3 +42,4 @@ Kreml propn g=m gen=Kreml|Kremls pl=- note=der Kreml
 Krim propn g=f gen=Krim pl=- note=die Krim
 Kroatien propn g=n gen=Kroatiens pl=- note=proper name; no plural
 Kuba propn g=n gen=Kubas pl=- note=proper name; no plural
+Kusel propn g=n gen=Kusels pl=- note=town

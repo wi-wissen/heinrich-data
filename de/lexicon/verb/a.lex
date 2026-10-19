@@ -22,6 +22,7 @@ abfärben verb class=weak sep=ab pp=abgefärbt perf=haben
 abfeiern verb class=weak sep=ab pp=abgefeiert perf=haben
 abfeuern verb class=weak sep=ab pp=abgefeuert perf=haben
 abfinden verb class=strong sep=ab 3sg=abfindet past=abfand pp=abgefunden subj2=abfände perf=haben note=jemanden abfinden; sich mit etwas abfinden
+abflachen verb class=weak sep=ab pp=abgeflacht perf=haben|sein conf=85 note=intransitive (die Kurve ist abgeflacht) with sein, transitive with haben
 abflauen verb class=weak sep=ab pp=abgeflaut perf=sein
 abfliegen verb class=strong sep=ab 3sg=abfliegt past=abflog pp=abgeflogen subj2=abflöge perf=haben|sein
 abfließen verb class=strong sep=ab 3sg=abfließt past=abfloss subj2=abflösse pp=abgeflossen perf=sein
@@ -192,6 +193,8 @@ abzocken verb class=weak sep=ab pp=abgezockt perf=haben
 abzwacken verb class=weak sep=ab pp=abgezwackt perf=haben
 abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 achten verb class=weak pp=geachtet perf=haben
+ächten verb class=weak pp=geächtet perf=haben
+adaptieren verb class=weak pp=adaptiert perf=haben
 addieren verb class=weak pp=addiert perf=haben
 adeln verb class=weak pp=geadelt perf=haben
 administrieren verb class=weak pp=administriert perf=haben
@@ -298,6 +301,7 @@ anmelden verb class=weak sep=an refl=acc pp=angemeldet perf=haben
 anmerken verb class=weak sep=an pp=angemerkt perf=haben
 annähern verb class=weak sep=an refl=acc pp=angenähert perf=haben
 annehmen      verb class=strong sep=an 3sg=annimmt past=annahm pp=angenommen subj2=annähme perf=haben
+annektieren verb class=weak pp=annektiert perf=haben
 anordnen      verb class=weak sep=an pp=angeordnet perf=haben
 anpacken verb class=weak sep=an pp=angepackt perf=haben
 anpassen verb class=weak sep=an refl=acc pp=angepasst perf=haben
@@ -391,6 +395,8 @@ archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
 arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
+asphaltieren verb class=weak pp=asphaltiert perf=haben
+assistieren verb class=weak pp=assistiert perf=haben
 assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
 attackieren verb class=weak pp=attackiert perf=haben
@@ -542,6 +548,7 @@ aufzwingen verb class=strong sep=auf 3sg=aufzwingt past=aufzwang subj2=aufzwäng
 ausarbeiten verb class=weak sep=aus pp=ausgearbeitet perf=haben
 ausbauen verb class=weak sep=aus pp=ausgebaut perf=haben
 ausbessern verb class=weak sep=aus pp=ausgebessert perf=haben
+ausbeuten verb class=weak sep=aus pp=ausgebeutet perf=haben
 ausbezahlen verb class=weak sep=aus pp=ausbezahlt perf=haben
 ausbilden verb class=weak sep=aus pp=ausgebildet perf=haben
 ausblasen verb class=strong sep=aus 3sg=ausbläst past=ausblies pp=ausgeblasen subj2=ausbliese perf=haben

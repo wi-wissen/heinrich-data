@@ -8,6 +8,7 @@ oberst adj note=attributive only (der oberste Stock)
 obig adj attr_only note=die obige Adresse
 objektiv adj cmp=objektiver sup=objektivsten
 obligatorisch adj
+obsolet adj
 öde adj cmp=öder sup=ödesten
 offen adj attr=offene|offne[rare] cmp=offener sup=offensten
 offenbar adj
@@ -17,6 +18,7 @@ offensiv adj cmp=offensiver sup=offensivsten
 öffentlich adj
 offiziell adj
 offline adj indecl
+öfter adj note=attributive: bei öfterem Besuch; des Öfteren
 ohnmächtig adj
 okay adj indecl
 ökologisch adj
@@ -35,6 +37,7 @@ organisatorisch adj
 organisch adj
 orientalisch adj
 original adj
+originell adj cmp=origineller sup=originellsten
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj

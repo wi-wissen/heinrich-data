@@ -1,3 +1,4 @@
+Vakuum noun g=n gen=Vakuums pl=Vakuen|Vakua
 Valentinstag noun g=m gen=Valentinstags|Valentinstages pl=Valentinstage
 Validierung noun g=f gen=Validierung pl=Validierungen
 Valuta noun g=f gen=Valuta pl=Valuten
@@ -23,6 +24,8 @@ Vegetation noun g=f gen=Vegetation pl=Vegetationen
 Veilchen noun g=n gen=Veilchens pl=Veilchen
 Vektor noun g=m gen=Vektors pl=Vektoren
 Vene noun g=f gen=Vene pl=Venen
+Venezianer noun g=m gen=Venezianers pl=Venezianer
+Ventil noun g=n gen=Ventils pl=Ventile
 Verabredung noun g=f gen=Verabredung pl=Verabredungen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
@@ -47,6 +50,7 @@ Verbeugung noun g=f gen=Verbeugung pl=Verbeugungen
 Verbindlichkeit noun g=f gen=Verbindlichkeit pl=Verbindlichkeiten
 Verbindung noun g=f gen=Verbindung pl=Verbindungen
 Verbleib noun g=m gen=Verbleibs|Verbleibes pl=- note=no plural
+Verblendung noun g=f gen=Verblendung pl=Verblendungen
 Verbot noun g=n gen=Verbots|Verbotes pl=Verbote
 Verbrauch noun g=m gen=Verbrauchs|Verbrauches pl=- note=no plural
 Verbraucher noun g=m gen=Verbrauchers pl=Verbraucher
@@ -63,6 +67,7 @@ Verbündete noun g=m|f decl=adj note=ally
 Verdacht noun g=m gen=Verdachts|Verdachtes pl=Verdachte|Verdächte[rare]
 Verdauung noun g=f gen=Verdauung pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
+Verdiener noun g=m gen=Verdieners pl=Verdiener
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
 Verdrängung noun g=f gen=Verdrängung pl=- note=no plural in practice
 Verdruss noun g=m gen=Verdrusses pl=- note=no plural
@@ -111,6 +116,7 @@ Verhaltensweise noun g=f gen=Verhaltensweise pl=Verhaltensweisen
 Verhältnis noun g=n gen=Verhältnisses pl=Verhältnisse
 Verhältnismäßigkeit noun g=f gen=Verhältnismäßigkeit pl=- note=no plural
 Verhandlung noun g=f gen=Verhandlung pl=Verhandlungen
+Verheißung noun g=f gen=Verheißung pl=Verheißungen
 Verhängnis noun g=n gen=Verhängnisses pl=Verhängnisse
 Verhinderung noun g=f gen=Verhinderung pl=- note=no plural
 Verhör noun g=n gen=Verhörs|Verhöres pl=Verhöre
@@ -123,6 +129,7 @@ Verkäuferin noun g=f gen=Verkäuferin pl=Verkäuferinnen
 Verkehr noun g=m gen=Verkehrs|Verkehres[rare] pl=Verkehre[rare] note=mostly mass noun; plural Verkehre in technical use (traffic flows)
 Verkehrsberuhigung noun g=f gen=Verkehrsberuhigung pl=Verkehrsberuhigungen
 Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
+Verklärung noun g=f gen=Verklärung pl=Verklärungen
 Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkündigung noun g=f gen=Verkündigung pl=Verkündigungen
@@ -139,6 +146,7 @@ Verlegenheit noun g=f gen=Verlegenheit pl=Verlegenheiten
 Verleger noun g=m gen=Verlegers pl=Verleger
 Verlegerin noun g=f gen=Verlegerin pl=Verlegerinnen
 Verlegung noun g=f gen=Verlegung pl=Verlegungen
+Verleiher noun g=m gen=Verleihers pl=Verleiher
 Verleihung noun g=f gen=Verleihung pl=Verleihungen
 Verletzung noun g=f gen=Verletzung pl=Verletzungen
 Verleumdung noun g=f gen=Verleumdung pl=Verleumdungen
@@ -256,6 +264,7 @@ Vertretung noun g=f gen=Vertretung pl=Vertretungen
 Vertrieb noun g=m gen=Vertriebs|Vertriebes pl=Vertriebe
 Verursacher noun g=m gen=Verursachers pl=Verursacher
 Verurteilung noun g=f gen=Verurteilung pl=Verurteilungen
+Vervielfältigung noun g=f gen=Vervielfältigung pl=Vervielfältigungen
 Verwahrung noun g=f gen=Verwahrung pl=- note=no plural
 Verwalter noun g=m gen=Verwalters pl=Verwalter
 Verwalterin noun g=f gen=Verwalterin pl=Verwalterinnen
@@ -271,6 +280,7 @@ Verwirklichung noun g=f gen=Verwirklichung pl=- note=no plural in practice
 Verwirrung noun g=f gen=Verwirrung pl=Verwirrungen
 Verwunderung noun g=f gen=Verwunderung pl=- note=no plural
 Verwundung noun g=f gen=Verwundung pl=Verwundungen
+Verzahnung noun g=f gen=Verzahnung pl=Verzahnungen
 Verzeichnis noun g=n gen=Verzeichnisses pl=Verzeichnisse
 Verzeihung noun g=f gen=Verzeihung pl=- note=no plural
 Verzicht noun g=m gen=Verzichts|Verzichtes pl=Verzichte
@@ -278,6 +288,9 @@ Verzinsung noun g=f gen=Verzinsung pl=- note=no plural in practice
 Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
 Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
+Veste noun g=f gen=Veste pl=Vesten note=fortress (Veste Coburg); older form of Feste
+Veteran noun g=m gen=Veteranen pl=Veteranen
+Veterinär noun g=m gen=Veterinärs pl=Veterinäre
 Veto noun g=n gen=Vetos pl=Vetos
 Vetter noun g=m gen=Vetters pl=Vettern
 Video noun g=n gen=Videos pl=Videos
@@ -287,11 +300,14 @@ Vieh noun g=n gen=Viehs|Viehes pl=- note=no plural
 Viehzucht noun g=f gen=Viehzucht pl=- note=no plural
 Vielfache noun g=n decl=adj
 Vielfalt noun g=f gen=Vielfalt pl=- note=no plural
+Vielheit noun g=f gen=Vielheit pl=Vielheiten
+Vielseitigkeit noun g=f gen=Vielseitigkeit pl=- note=mass noun
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
 Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
 Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Vikar noun g=m gen=Vikars pl=Vikare
+Vikariat noun g=n gen=Vikariats|Vikariates pl=Vikariate
 Vikarin noun g=f gen=Vikarin pl=Vikarinnen
 Villa noun g=f gen=Villa pl=Villen
 Violine noun g=f gen=Violine pl=Violinen
@@ -337,6 +353,7 @@ Vollzug noun g=m gen=Vollzugs|Vollzuges pl=- note=no plural
 Volontär noun g=m gen=Volontärs pl=Volontäre
 Volontariat noun g=n gen=Volontariats|Volontariates pl=Volontariate
 Volontärin noun g=f gen=Volontärin pl=Volontärinnen
+Volt noun g=n gen=Volt|Volts pl=Volt note=unit
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
 Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen
@@ -366,6 +383,7 @@ Vorhang noun g=m gen=Vorhangs|Vorhanges pl=Vorhänge
 Vorjahr noun g=n gen=Vorjahres|Vorjahrs pl=Vorjahre
 Vorkehrung noun g=f gen=Vorkehrung pl=Vorkehrungen
 Vorkommen noun g=n gen=Vorkommens pl=Vorkommen note=lexicalised nominal infinitive: occurrence, deposit
+Vorkommnis noun g=n gen=Vorkommnisses pl=Vorkommnisse
 Vorladung noun g=f gen=Vorladung pl=Vorladungen
 Vorlage noun g=f gen=Vorlage pl=Vorlagen
 Vorlauf noun g=m gen=Vorlaufs|Vorlaufes pl=Vorläufe

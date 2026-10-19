@@ -51,23 +51,32 @@ decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
 deinstallieren verb class=weak pp=deinstalliert perf=haben
+deklarieren verb class=weak pp=deklariert perf=haben
 dekorieren verb class=weak pp=dekoriert perf=haben
 delegieren verb class=weak pp=delegiert perf=haben
 demonstrieren verb class=weak pp=demonstriert perf=haben
+demontieren verb class=weak pp=demontiert perf=haben
 demütigen verb class=weak pp=gedemütigt perf=haben
 denken        verb class=mixed 3sg=denkt past=dachte pp=gedacht subj2=dächte perf=haben
 deportieren verb class=weak pp=deportiert perf=haben
 designen verb class=weak pp=designt perf=haben note=participle designt without ge- (English loan, like recycelt)
+desinfizieren verb class=weak pp=desinfiziert perf=haben
 destillieren verb class=weak pp=destilliert perf=haben
 detaillieren verb class=weak pp=detailliert perf=haben
 deuten verb class=weak pp=gedeutet perf=haben
+diagnostizieren verb class=weak pp=diagnostiziert perf=haben
 dichten verb class=weak pp=gedichtet perf=haben
 dienen        verb class=weak pp=gedient perf=haben
+diffamieren verb class=weak pp=diffamiert perf=haben
 differenzieren verb class=weak pp=differenziert perf=haben
 digitalisieren verb class=weak pp=digitalisiert perf=haben
 diktieren verb class=weak pp=diktiert perf=haben
+dirigieren verb class=weak pp=dirigiert perf=haben
+diskreditieren verb class=weak pp=diskreditiert perf=haben
+diskriminieren verb class=weak pp=diskriminiert perf=haben
 diskutieren   verb class=weak pp=diskutiert perf=haben
 disponieren verb class=weak pp=disponiert perf=haben
+disqualifizieren verb class=weak pp=disqualifiziert perf=haben
 distanzieren verb class=weak pp=distanziert perf=haben refl=acc pp_cmp note=distanziert also a gradable adjective (distanzierter)
 dividieren verb class=weak pp=dividiert perf=haben
 dokumentieren verb class=weak pp=dokumentiert perf=haben
@@ -85,6 +94,7 @@ drehen verb class=weak pp=gedreht perf=haben refl=acc
 dressieren verb class=weak pp=dressiert perf=haben
 dribbeln verb class=weak pp=gedribbelt perf=haben
 dringen verb class=strong 3sg=dringt past=drang pp=gedrungen subj2=dränge perf=sein|haben
+drinstehen verb class=strong sep=drin 3sg=drinsteht past=drinstand pp=dringestanden subj2=drinstünde|drinstände perf=haben note=colloquial register (was im Vertrag drinsteht)
 drohen verb class=weak pp=gedroht perf=haben
 dröhnen verb class=weak pp=gedröhnt perf=haben
 drosseln verb class=weak pp=gedrosselt perf=haben
