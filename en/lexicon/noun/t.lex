@@ -56,6 +56,7 @@ tax noun
 taxation noun
 taxi noun
 taxman noun pl=taxmen
+taxon noun pl=taxa
 taxonomy noun
 taxpayer noun
 TB noun abbr pl=- note=tuberculosis
@@ -161,6 +162,7 @@ theorist noun
 theory noun
 therapist noun
 therapy noun
+thermodynamics noun pl=- note=uncountable
 thermometer noun
 thesis noun pl=theses
 thicket noun
@@ -180,11 +182,13 @@ thrash noun
 thread noun
 threat noun
 threshold noun
+thrift noun
 thrill noun
 thriller noun
 throat noun
 throne noun
 throng noun
+throttle noun
 thrush noun
 thrust noun
 thumb noun
@@ -312,6 +316,8 @@ towelhead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 tower noun
 town noun
 township noun
+townsite noun
+townspeople noun pl_only
 toxicity noun
 toxin noun
 toy noun
@@ -354,6 +360,7 @@ transferee noun
 transferor noun
 transformation noun
 transformer noun
+transfusion noun
 transient noun
 transistor noun
 transit noun

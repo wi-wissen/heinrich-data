@@ -68,6 +68,7 @@ flammable adj
 flat           adj cmp=er adv=flatly
 flawed adj
 fledgling adj attr_only
+fleecy adj cmp=er
 fleeting adj
 Flemish        adj
 flexible       adj cmp=more adv=flexibly

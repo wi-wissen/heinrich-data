@@ -70,6 +70,7 @@ flatten verb
 flatter        verb
 flavor         verb gb=flavour
 flee           verb past=fled pp=fled
+fleece verb
 flesh verb
 flicker verb
 fling          verb past=flung pp=flung

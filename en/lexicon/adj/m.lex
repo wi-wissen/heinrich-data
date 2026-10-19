@@ -1,5 +1,6 @@
 Macedonian adj
 mad           adj cmp=er adv=madly
+maddening adj cmp=more adv=maddeningly
 magic         adj
 magical       adj adv=magically
 magnetic      adj

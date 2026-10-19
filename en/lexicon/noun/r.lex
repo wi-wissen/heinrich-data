@@ -45,6 +45,7 @@ rake noun
 rally noun
 ram noun
 ramble noun
+ramification noun
 ramp noun
 rampart noun
 ranch noun
@@ -257,6 +258,7 @@ remediation noun pl=- note=uncountable
 remedy noun
 remembrance noun
 reminder noun
+reminiscence noun
 remission noun
 remit noun
 remittance noun
@@ -306,6 +308,7 @@ repression noun
 reprieve noun
 reprimand noun
 reprint noun
+reprisal noun
 reprise noun
 reproach noun
 reproduction noun
@@ -380,6 +383,7 @@ retainer noun
 retake noun
 retaliation noun pl=- note=uncountable
 retention noun pl=- note=uncountable
+rethink noun
 reticence noun pl=- note=uncountable
 retina noun pl=retinas|retinae
 retinue noun
@@ -409,7 +413,7 @@ reversion noun
 review noun
 reviewer noun
 revision noun
-revitalization noun gb=revitalisation
+revitalization noun gb=revitalisation|revitalization
 revival noun
 revocation noun
 revolt noun
@@ -446,6 +450,7 @@ rigging noun
 right noun
 right-of-way noun pl=rights-of-way|right-of-ways
 righteousness noun pl=- note=uncountable
+rigidity noun
 rigor noun gb=rigour
 rim noun
 ring noun
@@ -497,6 +502,7 @@ Romani noun pl=- conf=85 note=the language; the people are the Roma
 Romanian noun note=demonym or religious name, capitalized
 romantic noun
 roof noun pl=roofs
+roofing noun pl=- note=material
 rook noun
 rookie noun
 room noun
@@ -548,6 +554,7 @@ rug noun
 rugby noun pl=- note=uncountable
 ruin noun
 rule noun
+rulebook noun
 rulemaking noun note=US administrative law term; countable (rulemakings)
 ruler noun
 ruling noun

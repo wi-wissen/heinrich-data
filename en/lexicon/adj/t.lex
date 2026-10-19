@@ -44,6 +44,7 @@ theological adj
 theoretical adj adv=theoretically
 therapeutic adj
 thermal adj
+thermodynamic adj adv=thermodynamically
 thick adj cmp=er adv=thickly
 thin adj cmp=er adv=thinly
 thirsty adj cmp=er
@@ -51,6 +52,7 @@ thoracic adj
 thorough adj cmp=more adv=thoroughly
 thoughtful adj cmp=more adv=thoughtfully
 thoughtless adj cmp=more adv=thoughtlessly
+thrifty adj cmp=er adv=thriftily
 thrilled adj
 thrilling adj
 thundery adj

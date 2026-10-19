@@ -21,6 +21,7 @@ undersigned noun pl=- conf=90 note=the undersigned, used for one or more signato
 understanding noun
 undertaker    noun
 undertaking   noun
+undertone noun
 undervaluation noun
 underwear noun pl=- note=uncountable
 underworld noun
@@ -62,9 +63,10 @@ upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
 uptake        noun
 uptime noun pl=- note=uncountable
+uptown noun pl=- note=the upper part of a city; uncountable
 upturn noun
 uranium       noun pl=- note=uncountable
-urbanization noun gb=urbanisation
+urbanization noun gb=urbanisation|urbanization
 urchin noun
 urge          noun
 urgency       noun pl=- note=uncountable

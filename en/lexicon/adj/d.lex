@@ -9,6 +9,7 @@ Danish adj
 daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
 darling adj
+daunting adj cmp=more adv=dauntingly
 day-to-day adj
 dazzling adj cmp=more adv=dazzlingly
 dead adj cmp=er|more
@@ -40,6 +41,7 @@ delicious adj cmp=more adv=deliciously
 delighted adj cmp=more
 delightful adj adv=delightfully
 delinquent adj
+deluxe adj
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
@@ -109,6 +111,7 @@ disappointed adj cmp=more
 disastrous adj adv=disastrously
 discernible adj
 disciplinary adj
+disconcerting adj cmp=more adv=disconcertingly
 discontented adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
@@ -121,14 +124,14 @@ dishonest adj adv=dishonestly
 disillusioned adj cmp=more
 disinterested adj
 disjoint adj
-disjointed adj adv=disjointedly
+disjointed adj cmp=more adv=disjointedly
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
 disparate adj cmp=more
 disposable adj
 disproportionate adj adv=disproportionately
-disquieting adj adv=disquietingly
+disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
@@ -141,6 +144,7 @@ distinguishable adj
 distinguished adj cmp=more
 distressed adj cmp=more
 distributive adj
+disused adj
 divergent adj
 diverse adj cmp=more adv=diversely
 divine adj cmp=more adv=divinely
@@ -149,6 +153,7 @@ divisive adj cmp=more
 dizzy adj cmp=er
 doctoral adj
 documentary adj
+dogged adj cmp=more adv=doggedly
 domestic adj adv=domestically
 dominant adj adv=dominantly
 Dominican adj
@@ -167,7 +172,7 @@ downward adj
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
-dreamy adj cmp=er
+dreamy adj cmp=er adv=dreamily
 dreary adj cmp=er adv=drearily
 drizzly adj
 drowsy adj cmp=er
@@ -181,6 +186,7 @@ due adj
 dull adj cmp=er adv=dully
 dumb adj cmp=er adv=dumbly
 dummy adj
+dun adj note=dull greyish brown
 duplicate adj
 duplicative adj
 durable adj cmp=more adv=durably

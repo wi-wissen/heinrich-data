@@ -37,7 +37,7 @@ red adj cmp=er
 reddish adj
 redundant adj
 referable adj
-reflective adj cmp=more
+reflective adj cmp=more adv=reflectively
 reflex adj
 reformed adj
 refreshing adj adv=refreshingly
@@ -72,6 +72,7 @@ repetitive adj adv=repetitively
 reportable adj
 representative adj
 repressive adj cmp=more
+reproachful adj adv=reproachfully
 reproductive adj
 republican adj
 repulsive adj cmp=more
@@ -100,6 +101,7 @@ retroactive adj adv=retroactively
 retrospective adj adv=retrospectively
 reusable adj
 reverend adj
+reverent adj adv=reverently
 reverse adj
 reversible adj
 revolutionary adj

@@ -9,6 +9,6 @@ nonstop adv
 north         adv
 northeast     adv
 northward     adv
-northwards adv
+northwards adv type=place
 northwest     adv
 nowadays      adv type=time

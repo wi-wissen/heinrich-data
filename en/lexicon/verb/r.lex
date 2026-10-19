@@ -44,6 +44,7 @@ rearrange verb
 reason verb
 reassign verb
 reassure verb
+rebalance verb
 rebate verb
 rebel verb double
 reboot verb
@@ -256,9 +257,11 @@ retail verb
 retain verb
 retake verb prefix=re past=retook pp=retaken
 retaliate verb
+rethink verb prefix=re past=rethought pp=rethought
 retire verb
 retort verb
 retrace verb
+retract verb
 retrain verb
 retreat verb
 retrieve verb
@@ -316,6 +319,7 @@ rock verb
 rocket verb
 roll verb
 rollerblade verb
+roof verb
 roost verb
 root verb
 rope verb

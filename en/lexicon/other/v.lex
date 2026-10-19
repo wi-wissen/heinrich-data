@@ -5,4 +5,5 @@ vitro x foreign note=only in in vitro
 viz.          x abbr note=namely
 Vol. x abbr note=Volume
 vol.          x abbr note=volume
+vols. x abbr note=volumes
 vs.           x abbr note=versus

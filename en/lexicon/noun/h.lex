@@ -131,6 +131,7 @@ helm           noun
 helmet         noun
 help           noun
 helpdesk noun conf=90 note=also help desk
+helper noun
 helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
@@ -201,6 +202,7 @@ holder         noun
 holding        noun
 hole           noun
 holiday        noun
+holiness noun
 hollow         noun
 holly noun
 holocaust noun
@@ -281,6 +283,7 @@ hubby noun style=colloquial
 hue            noun
 hug noun
 Huguenot noun
+hulk noun
 hull           noun
 hum            noun
 human          noun note=plural humans (not -men)
@@ -300,6 +303,7 @@ hunger         noun
 hunt           noun
 hunter         noun
 hurdle noun
+hurrah noun note=a last hurrah
 hurricane      noun
 hurry          noun
 hurt           noun
@@ -317,6 +321,7 @@ hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun
 hyperlink noun
+hypertension noun pl=- note=uncountable
 hypocrisy noun
 hypocrite noun
 hypothesis     noun pl=hypotheses

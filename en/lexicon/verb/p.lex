@@ -9,6 +9,7 @@ pain verb
 paint verb
 pair verb
 pale verb
+pall verb
 pan verb
 panic verb
 pant verb
@@ -48,6 +49,7 @@ peak verb
 peal verb
 peck verb
 pedal verb
+peddle verb
 peek verb
 peel verb
 peep verb

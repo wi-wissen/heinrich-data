@@ -27,6 +27,7 @@ lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
 land          noun
+lander noun
 landfall      noun
 landfill      noun
 landholder noun
@@ -298,6 +299,7 @@ loss          noun
 lot           noun
 lottery       noun
 lotus noun
+lough noun note=Irish lake
 lounge noun
 love          noun
 loveliness noun

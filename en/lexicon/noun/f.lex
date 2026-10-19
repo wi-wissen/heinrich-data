@@ -99,7 +99,7 @@ ferocity noun
 ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
-fertilization noun gb=fertilisation
+fertilization noun gb=fertilisation|fertilization
 fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
@@ -205,6 +205,7 @@ flavor         noun gb=flavour
 flaw noun
 flea noun
 fledgling noun
+fleece noun
 fleet          noun
 flesh          noun pl=- note=uncountable
 flexibility    noun
@@ -392,6 +393,7 @@ FTE noun abbr note=full-time equivalent
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
+fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable
 function       noun

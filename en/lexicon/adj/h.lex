@@ -1,4 +1,4 @@
-habitable adj
+habitable adj cmp=more
 habitual       adj adv=habitually
 haggard adj
 hairy adj cmp=er
@@ -59,6 +59,7 @@ hoarse         adj cmp=er adv=hoarsely
 holistic adj
 hollow         adj cmp=er
 holy           adj cmp=er
+homegrown adj
 homeless       adj
 homely adj cmp=er|more
 homesick adj

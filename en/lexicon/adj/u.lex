@@ -93,6 +93,7 @@ unhealthy adj cmp=er
 unheard adj
 unidentified adj
 uniform        adj adv=uniformly
+uniformed adj
 unilateral adj adv=unilaterally
 unimaginable adj
 unimportant adj
@@ -201,6 +202,7 @@ upscale adj
 upset          adj
 upstairs       adj
 upstream       adj
+uptown adj
 upturned adj
 upward         adj
 urban          adj

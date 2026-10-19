@@ -132,6 +132,7 @@ score noun
 scorer noun
 scorn noun
 scorpion noun
+Scot noun
 Scotch noun pl=- note=whisky
 scoundrel noun
 scourge noun
@@ -143,6 +144,7 @@ scratch noun
 scream noun
 screen noun
 screencast noun
+screening noun
 screenplay noun
 screenshot noun
 screenwriter noun
@@ -164,6 +166,7 @@ scuttle noun
 scutum noun pl=scuta note=anatomical plate (insects, reptiles)
 sea noun
 seabed noun
+seaboard noun
 seafarer noun
 seafood noun pl=- note=uncountable
 seagull noun
@@ -187,6 +190,7 @@ secret noun
 secretariat noun
 secretary noun
 secretary-general noun pl=secretaries-general
+secretion noun
 sect noun
 sectarian noun
 section noun
@@ -234,6 +238,7 @@ sentry noun
 separation noun
 separatist noun
 septum noun pl=septa
+sepulchre noun us=sepulcher|sepulchre
 sequel noun
 sequence noun
 sequencing noun
@@ -367,6 +372,7 @@ side noun
 sidebar noun
 sideboard noun
 sideline noun
+sidenote noun conf=85 note=a side note; also written as two words
 sidewalk noun region=US note=GB pavement
 siding noun
 siege noun
@@ -446,6 +452,7 @@ slate noun
 slaughter noun
 slave noun
 slavery noun pl=- note=uncountable
+slayer noun
 sled noun
 sledge noun region=GB note=US sled
 sleep noun
@@ -475,6 +482,8 @@ slug noun
 sluice noun
 slum noun
 slumber noun
+slur noun
+slurry noun
 smallholder noun
 smallpox noun pl=- note=uncountable
 smartphone noun
@@ -553,6 +562,7 @@ Somali noun
 son noun
 son-in-law noun pl=sons-in-law
 sonar noun
+sonata noun
 song noun
 songwriter noun
 songwriting noun pl=- note=uncountable
@@ -709,6 +719,7 @@ stallion noun
 stalwart noun
 stammer noun
 stamp noun
+stampede noun
 stance noun
 stand noun
 standard noun
@@ -780,6 +791,7 @@ sticker noun
 stiffness noun
 stigma noun pl=stigmas|stigmata
 stillness noun
+stimulant noun
 stimulation noun
 stimulus noun pl=stimuli
 sting noun
@@ -902,6 +914,7 @@ substation noun
 substitute noun
 substitution noun
 substrate noun
+subsurface noun pl=- note=uncountable
 subtitle noun
 subtlety noun
 subtotal noun
@@ -912,6 +925,7 @@ subway noun
 success noun
 succession noun
 successor noun
+suck noun style=colloquial conf=85 note=rare noun use
 sucker noun
 Sudanese noun pl=Sudanese
 sudoku noun

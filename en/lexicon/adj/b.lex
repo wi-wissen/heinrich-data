@@ -53,6 +53,7 @@ biographical adj
 biological adj adv=biologically
 biomedical adj
 biometric adj
+biosimilar adj
 bipartisan adj
 bipolar adj
 bisexual adj

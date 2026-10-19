@@ -20,6 +20,7 @@ elapse verb
 elect verb
 electrify verb
 elevate verb
+elicit verb
 eliminate verb
 elongate verb
 elude verb
@@ -170,4 +171,5 @@ extinguish verb
 extract verb
 extradite verb
 extricate verb
+exult verb
 eye verb

@@ -21,6 +21,7 @@ keyboardist noun
 keycard noun conf=85
 keynote noun
 keypad noun
+keystone noun
 keystroke noun
 keyword noun
 Khmer noun pl=Khmer

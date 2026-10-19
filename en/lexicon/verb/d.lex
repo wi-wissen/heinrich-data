@@ -11,6 +11,7 @@ darn verb
 dart verb
 dash verb
 date verb
+daunt verb
 dawn verb
 daze verb
 dazzle verb
@@ -52,6 +53,7 @@ defend verb
 defer verb double
 defile verb
 define verb
+defraud verb
 defrost verb
 defy verb
 degenerate verb
@@ -62,6 +64,7 @@ delete verb
 deliberate verb
 delight verb
 delineate verb
+delist verb
 deliver verb
 demand verb
 demolish verb
@@ -140,8 +143,10 @@ disable verb
 disadvantage verb
 disagree verb
 disappear verb
+disapply verb region=GB note=legal register
 disappoint verb
 disapprove verb
+disarm verb
 disband verb
 disburse verb
 discard verb
@@ -149,6 +154,7 @@ discern verb
 discharge verb
 discipline verb
 disclose verb
+disconcert verb
 disconnect verb
 discontinue verb
 discount verb
@@ -158,6 +164,7 @@ discredit verb
 discriminate verb
 discuss verb
 disdain verb
+disembark verb
 disengage verb
 disgrace verb
 disguise verb
@@ -169,6 +176,7 @@ dismantle verb
 dismay verb
 dismiss verb
 dismount verb
+disobey verb
 dispatch verb gb=dispatch|despatch
 dispel verb double
 dispense verb
@@ -260,6 +268,7 @@ duck verb
 duel verb
 dull verb
 dump verb
+dun verb note=to demand payment of a debt
 dunk verb
 duplicate verb
 dust verb

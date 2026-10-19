@@ -25,6 +25,7 @@ magnet noun
 magnificence noun pl=- note=uncountable
 magnitude      noun
 magnolia noun
+magnum noun
 magpie noun
 mahogany noun
 maid           noun
@@ -70,6 +71,7 @@ Mandarin noun pl=- note=the Chinese language
 mandarin noun
 mandate        noun
 mandible noun
+mandolin noun
 mane noun
 maneuver noun gb=manoeuvre
 manga          noun pl=manga|mangas conf=90 note=plural usage varies
@@ -191,6 +193,7 @@ medalist       noun gb=medallist
 median         noun
 mediation noun
 mediator noun
+medic noun
 medication     noun
 medicine       noun
 meditation noun
@@ -315,6 +318,7 @@ minstrel noun
 mint noun
 minute         noun
 miracle        noun
+mirage noun
 mire noun
 mirror         noun
 mirth noun pl=- note=uncountable
@@ -399,6 +403,7 @@ monk           noun
 monkey         noun
 monograph noun
 monologue noun
+monopile noun
 monoplane      noun
 monopoly       noun
 monotony noun pl=- note=uncountable

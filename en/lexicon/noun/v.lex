@@ -19,6 +19,7 @@ valve         noun
 vampire noun
 van           noun
 vandalism noun pl=- note=uncountable
+vane noun
 vanguard noun
 vanilla noun pl=- note=uncountable
 vanity        noun
@@ -60,6 +61,7 @@ veracity noun pl=- note=uncountable
 veranda noun
 verb          noun
 verdict       noun
+verdure noun pl=- note=literary
 verge         noun
 verification  noun
 vermilion noun pl=- note=uncountable as a color
@@ -68,6 +70,7 @@ verse         noun
 version       noun
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
+vertigo noun pl=vertigoes|vertigos
 vessel        noun
 vest          noun
 vestibule noun
@@ -146,6 +149,7 @@ voicemail noun
 voiceover noun
 void          noun
 VoIP noun abbr pl=- note=Voice over IP
+voivodeship noun note=Polish province
 volatility noun
 volcano       noun pl=volcanoes|volcanos
 vole noun

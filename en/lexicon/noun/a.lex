@@ -126,6 +126,7 @@ adopter noun
 adoption noun
 adoration noun pl=- note=uncountable
 adult noun
+adultery noun pl=- note=uncountable
 adulthood noun pl=- note=uncountable
 advance noun
 advancement noun
@@ -336,6 +337,7 @@ anthology noun
 anthrax noun pl=- note=uncountable
 anthropologist noun
 anthropology noun
+anti-Semitism noun pl=- note=older spelling of antisemitism
 antibiotic noun
 antibody noun
 antic noun note=mostly plural antics
@@ -501,6 +503,8 @@ Assyrian noun
 asteroid noun
 asthma noun pl=- note=uncountable
 astonishment noun pl=- note=uncountable
+astrologer noun
+astrology noun pl=- note=uncountable
 astronaut noun
 astronomer noun
 astronomy noun pl=- note=uncountable
@@ -532,6 +536,7 @@ attire noun pl=- note=uncountable
 attitude noun
 attorney noun
 attraction noun
+attractiveness noun pl=- note=uncountable
 attribute noun
 attribution noun
 attrition noun pl=- note=uncountable

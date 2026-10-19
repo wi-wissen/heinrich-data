@@ -27,6 +27,7 @@ Belfast propn
 Belgium propn
 Belgrade propn
 Belize propn
+Beltway propn region=US conf=90 note=the Capital Beltway around Washington, D.C.; Washington politics
 Bengal propn
 Bergen propn
 Bering propn note=Bering Sea, Bering Strait

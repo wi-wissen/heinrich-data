@@ -21,8 +21,10 @@ illustrious    adj
 imaginable adj
 imaginary      adj
 imaginative    adj adv=imaginatively
+immaculate adj adv=immaculately
 immaterial adj
 immature adj cmp=more
+immeasurable adj adv=immeasurably
 immediate      adj adv=immediately
 immemorial adj
 immense        adj adv=immensely
@@ -31,6 +33,7 @@ immoral adj
 immortal       adj
 immovable adj
 immune         adj
+impactful adj cmp=more
 impartial      adj adv=impartially
 impassable adj
 impassioned adj
@@ -77,6 +80,7 @@ inclined       adj
 inclusive      adj adv=inclusively
 incoherent adj adv=incoherently
 incoming       adj attr_only
+incomparable adj adv=incomparably
 incompatible   adj
 incompetent adj
 incomplete     adj
@@ -126,19 +130,22 @@ inexhaustible adj
 inexpensive adj
 inexperienced adj
 inexplicable adj
+inexpressible adj adv=inexpressibly
+inextricable adj adv=inextricably
 infamous       adj
 infectious     adj
 inferior       adj
 infernal adj
 infinite       adj adv=infinitely
 inflammatory adj
+inflexible adj adv=inflexibly
 influential    adj
 informal       adj adv=informally
 informational adj
 informative adj cmp=more
 informed       adj cmp=more
 infrared adj
-infrequent adj
+infrequent adj adv=infrequently
 ingenious      adj adv=ingeniously
 inherent       adj adv=inherently
 inhuman adj
@@ -160,6 +167,7 @@ inscrutable adj
 insecure adj
 insensible adj
 inseparable adj
+insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
 insolent adj adv=insolently
@@ -184,9 +192,11 @@ intensive      adj adv=intensively
 intent         adj adv=intently
 intentional    adj adv=intentionally
 interactive    adj adv=interactively
-interchangeable adj
+interagency adj
+interchangeable adj adv=interchangeably
 intercity adj
 intercollegiate adj
+intercontinental adj
 interdepartmental adj
 interdisciplinary adj
 interested     adj cmp=more

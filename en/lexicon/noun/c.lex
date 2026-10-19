@@ -153,6 +153,7 @@ caste noun
 Castilian noun
 casting noun
 castle noun
+castor noun
 casualty noun
 cat noun
 Catalan noun
@@ -346,6 +347,7 @@ chord noun
 choreographer noun
 chorus noun
 chowder noun
+christening noun
 Christian noun
 chromium noun pl=- note=uncountable
 chromosome noun
@@ -374,6 +376,7 @@ circumference noun
 circumstance noun
 circumvention noun pl=- note=uncountable
 circus noun
+cirripede noun note=barnacle (zoology)
 cirrus noun pl=cirri
 citadel noun
 citation noun
@@ -396,6 +399,7 @@ clang noun
 clap noun
 clarification noun
 clarinet noun
+clarion noun
 clarity noun pl=- note=uncountable
 clash noun
 clasp noun
@@ -529,6 +533,7 @@ colonist noun
 colonization noun gb=colonisation|colonization
 colony noun
 color noun gb=colour
+colt noun
 column noun
 columnist noun
 coma noun
@@ -549,6 +554,7 @@ command noun
 commandant noun
 commander noun
 commander-in-chief noun pl=commanders-in-chief
+commandment noun
 commando noun pl=commandos|commandoes
 commemoration noun
 commencement noun
@@ -657,6 +663,7 @@ conditioner noun
 conditioning noun pl=- note=uncountable
 condolence noun
 condominium noun
+condor noun
 conduct noun
 conduction noun pl=- note=uncountable
 conductivity noun
@@ -696,6 +703,7 @@ connection noun
 connectivity noun pl=- note=uncountable
 connector noun
 connexion noun style=archaic conf=90 note=old British spelling of connection
+connivance noun pl=- note=uncountable
 connotation noun
 conqueror noun
 conquest noun
@@ -876,6 +884,7 @@ counteraction noun
 counterfeit noun
 counteroffer noun conf=85 note=also counter-offer
 counterpart noun
+counterparty noun
 countersignature noun
 counterterrorism noun pl=- gb=counter-terrorism|counterterrorism conf=90 note=uncountable; British texts mostly hyphenate
 countess noun
@@ -1062,6 +1071,7 @@ cut noun
 cutback noun
 cutoff noun
 cutter noun
+cutting noun
 CV noun abbr note=curriculum vitae
 CVD noun abbr conf=90 note=countervailing duty; cardiovascular disease
 cyberattack noun

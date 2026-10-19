@@ -145,6 +145,7 @@ enemy noun
 energy noun
 enforcement noun pl=- note=uncountable
 enforcer noun
+enfranchisement noun pl=- note=uncountable
 engagement noun
 engine noun
 engineer noun
@@ -340,6 +341,7 @@ extension noun
 extent noun
 exterior noun
 extermination noun
+externality noun
 extinction noun
 extra noun
 extract noun
