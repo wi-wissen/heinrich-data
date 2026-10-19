@@ -10,14 +10,18 @@ passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
 patscheln verb class=weak pp=gepatschelt perf=haben conf=80 note=colloquial, to splash about
 pauken verb class=weak pp=gepaukt perf=haben
+pausieren verb class=weak pp=pausiert perf=haben
+peinigen verb class=weak pp=gepeinigt perf=haben
 peitschen verb class=weak pp=gepeitscht perf=haben|sein
 pendeln verb class=weak pp=gependelt perf=haben|sein
 pensionieren verb class=weak pp=pensioniert perf=haben
+personalisieren verb class=weak pp=personalisiert perf=haben
 petzen verb class=weak pp=gepetzt perf=haben style=colloquial
 pfänden verb class=weak pp=gepfändet perf=haben
 pfeffern verb class=weak pp=gepfeffert perf=haben
 pfeifen verb class=strong 3sg=pfeift past=pfiff pp=gepfiffen subj2=pfiffe perf=haben
 pflanzen verb class=weak pp=gepflanzt perf=haben
+pflastern verb class=weak pp=gepflastert perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 pflücken verb class=weak pp=gepflückt perf=haben
 pflügen verb class=weak pp=gepflügt perf=haben
@@ -46,6 +50,7 @@ poltern verb class=weak pp=gepoltert perf=haben|sein
 porträtieren verb class=weak pp=porträtiert perf=haben
 positionieren verb class=weak pp=positioniert perf=haben
 posten verb class=weak pp=gepostet perf=haben
+postulieren verb class=weak pp=postuliert perf=haben
 prägen verb class=weak pp=geprägt perf=haben
 prahlen verb class=weak pp=geprahlt perf=haben
 praktizieren verb class=weak pp=praktiziert perf=haben
@@ -59,14 +64,17 @@ preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=h
 pressen verb class=weak pp=gepresst perf=haben
 priorisieren verb class=weak pp=priorisiert perf=haben
 privatisieren verb class=weak pp=privatisiert perf=haben
+privilegieren verb class=weak pp=privilegiert perf=haben pp_cmp
 proben verb class=weak pp=geprobt perf=haben
 probieren verb class=weak pp=probiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben
+profilieren verb class=weak pp=profiliert perf=haben refl=acc pp_cmp
 profitieren verb class=weak pp=profitiert perf=haben
 prognostizieren verb class=weak pp=prognostiziert perf=haben
 programmieren verb class=weak pp=programmiert perf=haben
 promovieren verb class=weak pp=promoviert perf=haben
 propagieren verb class=weak pp=propagiert perf=haben
+prophezeien verb class=weak pp=prophezeit perf=haben note=no ge- because of the unstressed first syllable (prophezeit)
 protestieren verb class=weak pp=protestiert perf=haben
 protokollieren verb class=weak pp=protokolliert perf=haben
 provozieren verb class=weak pp=provoziert perf=haben

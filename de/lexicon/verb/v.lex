@@ -17,6 +17,7 @@ veranstalten verb class=weak pp=veranstaltet perf=haben
 verantworten verb class=weak pp=verantwortet perf=haben
 verarbeiten verb class=weak pp=verarbeitet perf=haben
 verärgern verb class=weak pp=verärgert perf=haben
+verarmen verb class=weak pp=verarmt perf=sein
 verarzten verb class=weak pp=verarztet perf=haben
 veräußern verb class=weak pp=veräußert perf=haben
 verausgaben verb class=weak pp=verausgabt perf=haben refl=acc
@@ -102,6 +103,7 @@ verformen verb class=weak pp=verformt perf=haben refl=acc
 verfrachten verb class=weak pp=verfrachtet perf=haben
 verfügen verb class=weak pp=verfügt perf=haben
 verführen verb class=weak pp=verführt perf=haben
+verfüllen verb class=weak pp=verfüllt perf=haben
 vergammeln verb class=weak pp=vergammelt perf=sein
 vergeben verb class=strong 3sg=vergibt past=vergab pp=vergeben subj2=vergäbe perf=haben
 vergegenwärtigen verb class=weak pp=vergegenwärtigt perf=haben refl=dat
@@ -138,6 +140,7 @@ verhehlen verb class=weak pp=verhehlt|verhohlen perf=haben
 verheilen verb class=weak pp=verheilt perf=sein
 verheimlichen verb class=weak pp=verheimlicht perf=haben
 verheiraten verb class=weak pp=verheiratet perf=haben
+verheißen verb class=strong 3sg=verheißt past=verhieß pp=verheißen subj2=verhieße perf=haben
 verhelfen verb class=strong 3sg=verhilft past=verhalf pp=verholfen subj2=verhülfe|verhälfe[rare] perf=haben
 verherrlichen verb class=weak pp=verherrlicht perf=haben
 verhexen verb class=weak pp=verhext perf=haben
@@ -210,6 +213,7 @@ vermarkten verb class=weak pp=vermarktet perf=haben
 vermasseln verb class=weak pp=vermasselt perf=haben
 vermehren verb class=weak pp=vermehrt perf=haben
 vermeiden verb class=strong 3sg=vermeidet past=vermied pp=vermieden subj2=vermiede perf=haben
+vermengen verb class=weak pp=vermengt perf=haben
 vermerken verb class=weak pp=vermerkt perf=haben
 vermessen verb class=strong 3sg=vermisst past=vermaß pp=vermessen subj2=vermäße perf=haben refl=acc sense=measure
 vermieten verb class=weak pp=vermietet perf=haben
@@ -231,6 +235,7 @@ vernetzen verb class=weak pp=vernetzt perf=haben
 vernichten verb class=weak pp=vernichtet perf=haben
 veröffentlichen verb class=weak pp=veröffentlicht perf=haben
 verordnen verb class=weak pp=verordnet perf=haben
+verorten verb class=weak pp=verortet perf=haben
 verpachten verb class=weak pp=verpachtet perf=haben
 verpacken verb class=weak pp=verpackt perf=haben
 verpassen verb class=weak pp=verpasst perf=haben
@@ -386,6 +391,7 @@ verwahren verb class=weak pp=verwahrt perf=haben refl=acc
 verwalten verb class=weak pp=verwaltet perf=haben
 verwandeln verb class=weak pp=verwandelt perf=haben
 verwarnen verb class=weak pp=verwarnt perf=haben
+verweben verb class=weak past=verwebte|verwob pp=verwebt|verwoben perf=haben note=strong forms verwob, verwoben are the usual ones in the figurative sense
 verwechseln verb class=weak pp=verwechselt perf=haben
 verwehen verb class=weak pp=verweht perf=haben|sein
 verwehren verb class=weak pp=verwehrt perf=haben

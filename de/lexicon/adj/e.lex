@@ -17,6 +17,7 @@ eiförmig adj
 eifrig adj cmp=eifriger sup=eifrigsten
 eigen adj sup=eigensten
 eigenhändig adj
+eigensinnig adj cmp=eigensinniger sup=eigensinnigsten
 eigenständig adj cmp=eigenständiger sup=eigenständigsten
 eigentlich adj note=die eigentliche Frage; the particle is in closed/
 eigentümlich adj cmp=eigentümlicher sup=eigentümlichsten
@@ -26,6 +27,7 @@ eindringlich adj cmp=eindringlicher sup=eindringlichsten
 eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
+einfältig adj cmp=einfältiger sup=einfältigsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
@@ -37,7 +39,7 @@ einjährig adj
 einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
-einschlägig adj attr_only
+einschlägig adj note=also predicative in legal use (die Vorschrift ist einschlägig)
 einseitig adj
 einstig adj attr_only
 einstimmig adj
@@ -98,6 +100,7 @@ erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
 erkennbar adj
+erklärlich adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
 erneuerbar adj
 erneut adj

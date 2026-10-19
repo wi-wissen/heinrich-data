@@ -77,9 +77,11 @@ komprimieren verb class=weak pp=komprimiert perf=haben
 kondensieren verb class=weak pp=kondensiert perf=haben|sein
 kondolieren verb class=weak pp=kondoliert perf=haben
 konfigurieren verb class=weak pp=konfiguriert perf=haben
+konfiszieren verb class=weak pp=konfisziert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konkretisieren verb class=weak pp=konkretisiert perf=haben
 konkurrieren verb class=weak pp=konkurriert perf=haben
+konservieren verb class=weak pp=konserviert perf=haben
 konsolidieren verb class=weak pp=konsolidiert perf=haben
 konstatieren verb class=weak pp=konstatiert perf=haben
 konstituieren verb class=weak pp=konstituiert perf=haben refl=acc
@@ -89,6 +91,7 @@ kontaktieren verb class=weak pp=kontaktiert perf=haben
 konterkarieren verb class=weak pp=konterkariert perf=haben
 kontieren verb class=weak pp=kontiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
+konvertieren verb class=weak pp=konvertiert perf=haben|sein note=sein for a change of religion (er ist konvertiert), haben for data
 konzentrieren verb class=weak pp=konzentriert perf=haben refl=acc
 konzipieren verb class=weak pp=konzipiert perf=haben
 kooperieren verb class=weak pp=kooperiert perf=haben

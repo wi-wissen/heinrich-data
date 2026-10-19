@@ -7,6 +7,7 @@ illegal adj
 immateriell adj
 immens adj
 immergrün adj
+implizit adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
@@ -17,6 +18,7 @@ indisch adj
 individuell adj cmp=individueller sup=individuellsten
 indonesisch adj
 industriell adj
+infantil adj cmp=infantiler sup=infantilsten
 informationell adj
 informativ adj
 inhaltlich adj
@@ -29,6 +31,7 @@ innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
 institutionell adj
 intakt adj
+integral adj
 integrativ adj
 intellektuell adj cmp=intellektueller sup=intellektuellsten
 intelligent adj cmp=intelligenter sup=intelligentesten

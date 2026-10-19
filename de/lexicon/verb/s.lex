@@ -109,6 +109,7 @@ schnorcheln verb class=weak pp=geschnorchelt perf=haben
 schnüffeln verb class=weak pp=geschnüffelt perf=haben
 schnupfen verb class=weak pp=geschnupft perf=haben
 schnuppern verb class=weak pp=geschnuppert perf=haben
+schnüren verb class=weak pp=geschnürt perf=haben
 schnurren verb class=weak pp=geschnurrt perf=haben
 schockieren verb class=weak pp=schockiert perf=haben
 schonen verb class=weak pp=geschont perf=haben
@@ -151,9 +152,11 @@ sehnen verb class=weak pp=gesehnt perf=haben refl=acc
 senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
 sengen verb class=weak pp=gesengt perf=haben part1_cmp
 senken verb class=weak pp=gesenkt perf=haben refl=acc
+sensibilisieren verb class=weak pp=sensibilisiert perf=haben
 servieren verb class=weak pp=serviert perf=haben
 setzen verb class=weak pp=gesetzt perf=haben refl=acc
 seufzen verb class=weak pp=geseufzt perf=haben
+sexualisieren verb class=weak pp=sexualisiert perf=haben
 shoppen verb class=weak pp=geshoppt perf=haben
 sichern verb class=weak pp=gesichert perf=haben refl=acc
 sicherstellen verb class=weak sep=sicher pp=sichergestellt perf=haben

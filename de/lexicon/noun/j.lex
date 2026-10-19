@@ -12,10 +12,12 @@ Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
 Jalousie noun g=f gen=Jalousie pl=Jalousien
 Jambus noun g=m gen=Jambus pl=Jamben note=Latin loanword; genitive without -es
 Jammer noun g=m gen=Jammers pl=- note=mass noun
+Janitschar noun g=m gen=Janitscharen pl=Janitscharen conf=80 note=weak declension assumed (des Janitscharen)
 Jänner noun g=m gen=Jänner|Jänners pl=- region=AT note=month name; plural not used
 Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
 Japaner noun g=m gen=Japaners pl=Japaner
 Japanerin noun g=f gen=Japanerin pl=Japanerinnen
+Jarl noun g=m gen=Jarls pl=Jarle
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten

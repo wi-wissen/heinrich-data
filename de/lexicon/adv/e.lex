@@ -9,6 +9,7 @@ eher adv
 ehrlicherweise adv type=modal
 eigens adv
 eigentlich adv
+eilends adv
 eiligst adv
 einher adv
 einigermaßen adv

@@ -4,6 +4,7 @@ nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nachrangig adj
+nachsichtig adj cmp=nachsichtiger sup=nachsichtigsten
 nächstgelegen adj note=der nächstgelegene Ort; already a superlative, not compared
 nächsthöher adj attr_only note=die nächsthöhere Stufe
 nächtlich adj

@@ -1,4 +1,5 @@
 Nabel noun g=m gen=Nabels pl=Nabel
+Nachahmer noun g=m gen=Nachahmers pl=Nachahmer
 Nachahmung noun g=f gen=Nachahmung pl=Nachahmungen
 Nachbar noun g=m gen=Nachbarn|Nachbars pl=Nachbarn
 Nachbarin noun g=f gen=Nachbarin pl=Nachbarinnen
@@ -93,6 +94,7 @@ Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neologismus noun g=m gen=Neologismus pl=Neologismen
 Neonazi noun g=m gen=Neonazis pl=Neonazis
+Neophyt noun g=m gen=Neophyten pl=Neophyten
 Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
@@ -112,6 +114,7 @@ Neurologin noun g=f gen=Neurologin pl=Neurologinnen
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutron noun g=n gen=Neutrons pl=Neutronen
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
+Newcomer noun g=m gen=Newcomers pl=Newcomer
 Newsletter noun g=m gen=Newsletters pl=Newsletter
 NGO noun g=f gen=NGO pl=NGOs
 Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die Nibelungen
@@ -133,6 +136,7 @@ Nimbus noun g=m gen=Nimbus pl=Nimbusse note=no genitive ending
 Nische noun g=f gen=Nische pl=Nischen
 Nitrat noun g=n gen=Nitrats|Nitrates pl=Nitrate
 Niveau noun g=n gen=Niveaus pl=Niveaus
+Nocken noun g=m gen=Nockens pl=Nocken
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
 Nomenklatur noun g=f gen=Nomenklatur pl=Nomenklaturen
@@ -170,6 +174,7 @@ Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
 Nuggets noun g=pl
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
+Numismatiker noun g=m gen=Numismatikers pl=Numismatiker
 Nummer noun g=f gen=Nummer pl=Nummern
 Nummerierung noun g=f gen=Nummerierung pl=Nummerierungen
 Nuntius noun g=m gen=Nuntius pl=Nuntien note=papal envoy; bare genitive

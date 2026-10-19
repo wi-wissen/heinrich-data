@@ -8,6 +8,7 @@ allenfalls adv
 allenthalben adv
 allesamt adv
 allezeit adv
+allzeit adv
 alsbald adv
 alsdann adv
 alters adv note=seit alters, von alters her

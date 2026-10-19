@@ -17,10 +17,12 @@ Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Lagune noun g=f gen=Lagune pl=Lagunen
 Lähmung noun g=f gen=Lähmung pl=Lähmungen
 Laie noun g=m gen=Laien pl=Laien
+Lakai noun g=m gen=Lakaien pl=Lakaien
 Laken noun g=n gen=Lakens pl=Laken
 Lakritze noun g=f gen=Lakritze pl=Lakritzen
 Lama noun g=n gen=Lamas pl=Lamas sense=animal
 Lama noun g=m gen=Lamas pl=Lamas sense=monk note=Tibetan Buddhist teacher
+Lamelle noun g=f gen=Lamelle pl=Lamellen
 Lametta noun g=n gen=Lamettas pl=- note=no plural (mass or abstract noun)
 Laminat noun g=n gen=Laminats|Laminates pl=Laminate
 Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
@@ -68,6 +70,7 @@ Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
 Laubfrosch noun g=m gen=Laubfrosches pl=Laubfrösche
 Lauch noun g=m gen=Lauchs pl=- note=no plural
+Laudatio noun g=f gen=Laudatio pl=Laudationes|Laudatios conf=80 note=plural: Latin Laudationes and German Laudatios both in use
 Lauf noun g=m gen=Laufes|Laufs pl=Läufe
 Läufer noun g=m gen=Läufers pl=Läufer
 Läuferin noun g=f gen=Läuferin pl=Läuferinnen
@@ -157,6 +160,7 @@ Lektion noun g=f gen=Lektion pl=Lektionen
 Lektor noun g=m gen=Lektors pl=Lektoren
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemming noun g=m gen=Lemmings pl=Lemminge
+Lende noun g=f gen=Lende pl=Lenden
 Lenker noun g=m gen=Lenkers pl=Lenker
 Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
@@ -175,6 +179,7 @@ Leuchte noun g=f gen=Leuchte pl=Leuchten
 Leuchter noun g=m gen=Leuchters pl=Leuchter
 Leuchtturm noun g=m gen=Leuchtturms|Leuchtturmes pl=Leuchttürme
 Leukämie noun g=f gen=Leukämie pl=Leukämien
+Leutchen noun g=pl note=diminutive of Leute; plurale tantum
 Leute        noun g=pl
 Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant unsure
@@ -293,12 +298,14 @@ Luftverschmutzung noun g=f gen=Luftverschmutzung pl=- note=no plural
 Lüge noun g=f gen=Lüge pl=Lügen
 Lügner noun g=m gen=Lügners pl=Lügner
 Lügnerin noun g=f gen=Lügnerin pl=Lügnerinnen
+Luke noun g=f gen=Luke pl=Luken
 Lump noun g=m gen=Lumpen pl=Lumpen note=scoundrel
 Lumpen noun g=m gen=Lumpens pl=Lumpen note=rag
 Lunge noun g=f gen=Lunge pl=Lungen
 Lupe noun g=f gen=Lupe pl=Lupen
 Lust noun g=f gen=Lust pl=Lüste
 Lustspiel noun g=n gen=Lustspiels|Lustspieles pl=Lustspiele
+Lutheraner noun g=m gen=Lutheraners pl=Lutheraner
 Lutscher noun g=m gen=Lutschers pl=Lutscher
 Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun
 Lyrik noun g=f gen=Lyrik pl=- note=mass noun

@@ -19,6 +19,7 @@ Abgabe        noun g=f gen=Abgabe pl=Abgaben
 Abgang noun g=m gen=Abgangs|Abganges pl=Abgänge
 Abgas noun g=n gen=Abgases pl=Abgase
 Abgeordnete   noun g=m|f decl=adj
+Abgeschiedenheit noun g=f gen=Abgeschiedenheit pl=- note=abstract noun, no plural
 Abgleich noun g=m gen=Abgleichs|Abgleiches pl=Abgleiche
 Abgrenzung noun g=f gen=Abgrenzung pl=Abgrenzungen
 Abgrund noun g=m gen=Abgrunds|Abgrundes pl=Abgründe
@@ -97,6 +98,7 @@ Abstieg noun g=m gen=Abstiegs|Abstieges pl=Abstiege
 Abstimmung    noun g=f gen=Abstimmung pl=Abstimmungen
 Abstraktion noun g=f gen=Abstraktion pl=Abstraktionen
 Absturz noun g=m gen=Absturzes pl=Abstürze
+Absurdität noun g=f gen=Absurdität pl=Absurditäten
 Abt           noun g=m gen=Abtes|Abts pl=Äbte
 Abtei noun g=f gen=Abtei pl=Abteien
 Abteil noun g=n gen=Abteils|Abteiles pl=Abteile
@@ -163,6 +165,7 @@ Aerobic noun g=n gen=Aerobics pl=- note=no plural (mass or abstract noun)
 Affäre noun g=f gen=Affäre pl=Affären
 Affe noun g=m gen=Affen pl=Affen
 Affekt noun g=m gen=Affekts|Affektes pl=Affekte
+Affinität noun g=f gen=Affinität pl=Affinitäten
 Afrikameisterschaft noun g=f gen=Afrikameisterschaft pl=Afrikameisterschaften note=listed because a proper-name modifier is not derived by the compound analysis
 Afrikanerin noun g=f gen=Afrikanerin pl=Afrikanerinnen
 Afroamerikaner noun g=m gen=Afroamerikaners pl=Afroamerikaner
@@ -173,8 +176,10 @@ Agenda noun g=f gen=Agenda pl=Agenden
 Agent noun g=m gen=Agenten pl=Agenten
 Agentin noun g=f gen=Agentin pl=Agentinnen
 Agentur noun g=f gen=Agentur pl=Agenturen
+Agglomeration noun g=f gen=Agglomeration pl=Agglomerationen
 Aggregatzustand noun g=m gen=Aggregatzustands|Aggregatzustandes pl=Aggregatzustände
 Aggression noun g=f gen=Aggression pl=Aggressionen
+Ägide noun g=f gen=Ägide pl=- note=unter der Ägide; plural not in use
 Agitation noun g=f gen=Agitation pl=Agitationen
 Agrarpolitik noun g=f gen=Agrarpolitik pl=- note=no plural
 Ägypter noun g=m gen=Ägypters pl=Ägypter
@@ -249,8 +254,10 @@ Alm noun g=f gen=Alm pl=Almen
 Almosen noun g=n gen=Almosens pl=Almosen
 Aloe noun g=f gen=Aloe pl=Aloen
 Alpaka noun g=n gen=Alpakas pl=Alpakas
+Alpe noun g=f gen=Alpe pl=Alpen note=mountain pasture (southern German, Alemannic; Alpenverein)
 Alpha noun g=n gen=Alphas pl=Alphas
 Alphabet noun g=n gen=Alphabets pl=Alphabete
+Alphabetisierung noun g=f gen=Alphabetisierung pl=Alphabetisierungen
 Alptraum noun g=m gen=Alptraums|Alptraumes pl=Alpträume
 Altar noun g=m gen=Altars pl=Altäre
 Altbau noun g=m gen=Altbaus pl=Altbauten
@@ -282,6 +289,7 @@ Ammoniak noun g=n gen=Ammoniaks pl=- note=chemical
 Amnestie noun g=f gen=Amnestie pl=Amnestien
 Ampel noun g=f gen=Ampel pl=Ampeln
 Amphibie noun g=f gen=Amphibie pl=Amphibien
+Amphitheater noun g=n gen=Amphitheaters pl=Amphitheater
 Amsel noun g=f gen=Amsel pl=Amseln
 Amt           noun g=n gen=Amtes|Amts pl=Ämter
 Amtmann noun g=m gen=Amtmanns|Amtmannes pl=Amtmänner|Amtleute
@@ -336,6 +344,7 @@ Angestellte   noun g=m|f decl=adj
 Angleichung noun g=f gen=Angleichung pl=Angleichungen
 Angler noun g=m gen=Anglers pl=Angler
 Anglerin noun g=f gen=Anglerin pl=Anglerinnen
+Anglist noun g=m gen=Anglisten pl=Anglisten
 Anglistik noun g=f gen=Anglistik pl=- note=academic discipline
 Anglizismus noun g=m gen=Anglizismus pl=Anglizismen note=no genitive ending
 Angreifer noun g=m gen=Angreifers pl=Angreifer
@@ -348,6 +357,7 @@ Anhang        noun g=m gen=Anhangs|Anhanges pl=Anhänge
 Anhänger noun g=m gen=Anhängers pl=Anhänger
 Anhängerin noun g=f gen=Anhängerin pl=Anhängerinnen
 Anhänglichkeit noun g=f gen=Anhänglichkeit pl=- note=no plural
+Anhängsel noun g=n gen=Anhängsels pl=Anhängsel
 Anhebung noun g=f gen=Anhebung pl=Anhebungen
 Anhieb noun g=m gen=Anhieb|Anhiebs pl=- note=only in auf Anhieb
 Anhöhe noun g=f gen=Anhöhe pl=Anhöhen
@@ -424,6 +434,7 @@ Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
 Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
+Antinomie noun g=f gen=Antinomie pl=Antinomien
 Antiqua noun g=f gen=Antiqua pl=- note=typeface
 Antisemitismus noun g=m gen=Antisemitismus pl=- note=mass noun
 Antithese noun g=f gen=Antithese pl=Antithesen
@@ -458,6 +469,7 @@ Anziehung noun g=f gen=Anziehung pl=Anziehungen
 Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Apfel noun g=m gen=Apfels pl=Äpfel
 Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
+Apokalypse noun g=f gen=Apokalypse pl=Apokalypsen
 Apostel noun g=m gen=Apostels pl=Apostel
 Apostille noun g=f gen=Apostille pl=Apostillen
 Apostroph noun g=m gen=Apostrophs|Apostrophes pl=Apostrophe
@@ -531,6 +543,7 @@ Arrangement noun g=n gen=Arrangements pl=Arrangements
 Arrangeur noun g=m gen=Arrangeurs pl=Arrangeure
 Arrangeurin noun g=f gen=Arrangeurin pl=Arrangeurinnen
 Arrest noun g=m gen=Arrests|Arrestes pl=Arreste
+Arrestant noun g=m gen=Arrestanten pl=Arrestanten
 Arroganz noun g=f gen=Arroganz pl=- note=mass noun
 Arrondissement noun g=n gen=Arrondissements pl=Arrondissements
 Arsenal noun g=n gen=Arsenals pl=Arsenale
@@ -774,6 +787,7 @@ Authentifizierung noun g=f gen=Authentifizierung pl=Authentifizierungen
 Authentizität noun g=f gen=Authentizität pl=- note=no plural
 Auto          noun g=n gen=Autos pl=Autos
 Autobahn noun g=f gen=Autobahn pl=Autobahnen
+Autodidakt noun g=m gen=Autodidakten pl=Autodidakten
 Automat noun g=m gen=Automaten pl=Automaten
 Automatisierung noun g=f gen=Automatisierung pl=Automatisierungen
 Automatismus noun g=m gen=Automatismus pl=Automatismen note=no genitive ending

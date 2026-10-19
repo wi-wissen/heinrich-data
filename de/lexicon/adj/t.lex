@@ -9,6 +9,7 @@ tätig adj
 tatsächlich adj
 taub adj cmp=tauber sup=taubsten
 tauglich adj cmp=tauglicher sup=tauglichsten
+tausendfach adj
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
@@ -21,6 +22,7 @@ termingemäß adj
 territorial adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
+texanisch adj
 thailändisch adj
 thematisch adj
 theologisch adj
@@ -36,6 +38,8 @@ tödlich adj cmp=tödlicher sup=tödlichsten
 tolerant adj cmp=toleranter sup=tolerantesten
 toll adj cmp=toller sup=tollsten
 tollpatschig adj cmp=tollpatschiger sup=tollpatschigsten
+topografisch adj
+topographisch adj note=variant spelling of topografisch
 töricht adj
 tot adj
 total adj
@@ -49,6 +53,8 @@ transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 transzendental adj
+traulich adj cmp=traulicher sup=traulichsten
+träumerisch adj cmp=träumerischer sup=träumerischsten
 traumhaft adj cmp=traumhafter sup=traumhaftesten
 traurig adj cmp=trauriger sup=traurigsten
 treffend adj cmp=treffender sup=treffendsten

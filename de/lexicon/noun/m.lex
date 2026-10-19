@@ -72,6 +72,7 @@ Mannschaft noun g=f gen=Mannschaft pl=Mannschaften
 Manöver noun g=n gen=Manövers pl=Manöver
 Mantel noun g=m gen=Mantels pl=Mäntel
 Manual noun g=n gen=Manuals pl=Manuale|Manuals conf=80 note=organ keyboard (pl. Manuale); handbook (pl. Manuals)
+Manufaktur noun g=f gen=Manufaktur pl=Manufakturen
 Manuskript noun g=n gen=Manuskripts|Manuskriptes pl=Manuskripte
 Mäppchen noun g=n gen=Mäppchens pl=Mäppchen
 Mappe noun g=f gen=Mappe pl=Mappen
@@ -104,6 +105,7 @@ Marquise noun g=f gen=Marquise pl=Marquisen
 Marsch noun g=m gen=Marsches pl=Märsche sense=march
 Marschall noun g=m gen=Marschalls pl=Marschälle
 Marstall noun g=m gen=Marstalls|Marstalles pl=Marställe
+Marter noun g=f gen=Marter pl=Martern
 Martinstag noun g=m gen=Martinstags|Martinstages pl=Martinstage
 Märtyrer noun g=m gen=Märtyrers pl=Märtyrer
 Märtyrerin noun g=f gen=Märtyrerin pl=Märtyrerinnen
@@ -162,6 +164,7 @@ Mechanikerin noun g=f gen=Mechanikerin pl=Mechanikerinnen
 Mechanisierung noun g=f gen=Mechanisierung pl=Mechanisierungen
 Mechanismus noun g=m gen=Mechanismus pl=Mechanismen
 Medaille noun g=f gen=Medaille pl=Medaillen
+Medailleur noun g=m gen=Medailleurs pl=Medailleure
 Medaillon noun g=n gen=Medaillons pl=Medaillons
 Median noun g=m gen=Medians pl=Mediane
 Mediathek noun g=f gen=Mediathek pl=Mediatheken
@@ -182,6 +185,7 @@ Mehrheit noun g=f gen=Mehrheit pl=Mehrheiten
 Mehrkosten noun g=pl note=compound not split by the analyser
 Mehrwert noun g=m gen=Mehrwerts|Mehrwertes pl=- note=compound not split by the analyser; plural not used
 Mehrzahl noun g=f gen=Mehrzahl pl=- note=no plural
+Meier noun g=m gen=Meiers pl=Meier note=historical steward of a manor (Meierhof)
 Meile noun g=f gen=Meile pl=Meilen
 Meinung noun g=f gen=Meinung pl=Meinungen
 Meinungsfreiheit noun g=f gen=Meinungsfreiheit pl=- note=no plural
@@ -207,6 +211,7 @@ Menschenrecht noun g=n gen=Menschenrechts|Menschenrechtes pl=Menschenrechte
 Menschenwürde noun g=f gen=Menschenwürde pl=- note=no plural
 Menschheit noun g=f gen=Menschheit pl=- note=no plural
 Menschlichkeit noun g=f gen=Menschlichkeit pl=- note=no plural
+Mentalität noun g=f gen=Mentalität pl=Mentalitäten
 Mentor noun g=m gen=Mentors pl=Mentoren
 Mentorin noun g=f gen=Mentorin pl=Mentorinnen
 Mentoring noun g=n gen=Mentorings pl=Mentorings
@@ -237,6 +242,7 @@ Methyl noun g=n gen=Methyls pl=- note=chemistry, mostly in compounds
 Metro noun g=f gen=Metro pl=Metros
 Metronom noun g=n gen=Metronoms pl=Metronome
 Metropole noun g=f gen=Metropole pl=Metropolen
+Metropolitanstadt noun g=f gen=Metropolitanstadt pl=Metropolitanstädte note=Italian città metropolitana
 Metrum noun g=n gen=Metrums pl=Metren|Metra
 Metzger noun g=m gen=Metzgers pl=Metzger
 Metzgerei noun g=f gen=Metzgerei pl=Metzgereien
@@ -250,6 +256,7 @@ Mieterin noun g=f gen=Mieterin pl=Mieterinnen
 Mietpreisbremse noun g=f gen=Mietpreisbremse pl=Mietpreisbremsen
 Mietshaus noun g=n gen=Mietshauses pl=Mietshäuser
 Mietwagen noun g=m gen=Mietwagens pl=Mietwagen
+Miezchen noun g=n gen=Miezchens pl=Miezchen note=diminutive of Mieze (kitten; term of endearment)
 Migräne noun g=f gen=Migräne pl=Migränen
 Migrant noun g=m gen=Migranten pl=Migranten
 Migrantin noun g=f gen=Migrantin pl=Migrantinnen
@@ -270,6 +277,7 @@ Millimeter noun g=m|n gen=Millimeters pl=Millimeter
 Million noun g=f gen=Million pl=Millionen
 Millionär noun g=m gen=Millionärs pl=Millionäre
 Millionärin noun g=f gen=Millionärin pl=Millionärinnen
+Milz noun g=f gen=Milz pl=Milzen
 Minderheit noun g=f gen=Minderheit pl=Minderheiten
 Minderjährige noun g=m|f decl=adj
 Minderung noun g=f gen=Minderung pl=Minderungen
@@ -281,8 +289,11 @@ Mineral noun g=n gen=Minerals pl=Minerale|Mineralien
 Mineraloge noun g=m gen=Mineralogen pl=Mineralogen
 Mineralogie noun g=f gen=Mineralogie pl=- note=field of study
 Mini noun g=m gen=Minis pl=Minis conf=75 note=miniskirt, small car; also first part of compounds (Mini-Job)
+Miniatur noun g=f gen=Miniatur pl=Miniaturen
 Minimum noun g=n gen=Minimums pl=Minima
 Minister noun g=m gen=Ministers pl=Minister
+Ministerialbeamte noun g=m decl=adj
+Ministerialrat noun g=m gen=Ministerialrats|Ministerialrates pl=Ministerialräte
 Ministerin noun g=f gen=Ministerin pl=Ministerinnen
 Ministerium noun g=n gen=Ministeriums pl=Ministerien
 Minuszeichen noun g=n gen=Minuszeichens pl=Minuszeichen
@@ -476,6 +487,7 @@ Musikerin noun g=f gen=Musikerin pl=Musikerinnen
 Musikpädagoge noun g=m gen=Musikpädagogen pl=Musikpädagogen
 Muskat noun g=m gen=Muskats pl=Muskate
 Muskel noun g=m gen=Muskels pl=Muskeln
+Musketier noun g=m gen=Musketiers pl=Musketiere
 Muskulatur noun g=f gen=Muskulatur pl=Muskulaturen
 Müsli noun g=n gen=Müslis pl=Müslis
 Muslim noun g=m gen=Muslims pl=Muslime
@@ -483,6 +495,8 @@ Muslimin noun g=f gen=Muslimin pl=Musliminnen
 Mustang noun g=m gen=Mustangs pl=Mustangs
 Muster noun g=n gen=Musters pl=Muster
 Mut noun g=m gen=Mutes|Muts pl=- note=plural not used
+Mutant noun g=m gen=Mutanten pl=Mutanten
+Mutante noun g=f gen=Mutante pl=Mutanten
 Mutation noun g=f gen=Mutation pl=Mutationen
 Mutter       noun g=f gen=Mutter pl=Mütter sense=parent
 Mutter       noun g=f gen=Mutter pl=Muttern sense=nut note=Schraubenmutter

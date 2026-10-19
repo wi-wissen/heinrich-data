@@ -1,6 +1,7 @@
 rächen verb class=weak pp=gerächt perf=haben
 radeln verb class=weak pp=geradelt perf=sein
 radieren verb class=weak pp=radiert perf=haben
+ragen verb class=weak pp=geragt perf=haben
 räkeln verb class=weak pp=geräkelt perf=haben refl=acc
 rangieren verb class=weak pp=rangiert perf=haben
 ranken verb class=weak pp=gerankt perf=haben refl=acc
@@ -134,6 +135,7 @@ röhren verb class=weak pp=geröhrt perf=haben
 rollen verb class=weak pp=gerollt perf=haben|sein
 rosten verb class=weak pp=gerostet perf=haben|sein
 rösten verb class=weak pp=geröstet perf=haben
+röten verb class=weak pp=gerötet perf=haben
 rotieren verb class=weak pp=rotiert perf=haben|sein
 rotzen verb class=weak pp=gerotzt perf=haben
 rüberbringen verb class=mixed sep=rüber 3sg=rüberbringt past=rüberbrachte subj2=rüberbrächte pp=rübergebracht perf=haben

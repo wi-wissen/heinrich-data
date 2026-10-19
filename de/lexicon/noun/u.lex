@@ -65,6 +65,7 @@ Umfrage noun g=f gen=Umfrage pl=Umfragen
 Umgang noun g=m gen=Umgangs|Umganges pl=Umgänge[rare]
 Umgebung noun g=f gen=Umgebung pl=Umgebungen
 Umgegend noun g=f gen=Umgegend pl=- note=no plural
+Umgehung noun g=f gen=Umgehung pl=Umgehungen
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
 Umkehr noun g=f gen=Umkehr pl=- note=mass noun
 Umkleide noun g=f gen=Umkleide pl=Umkleiden
@@ -144,6 +145,7 @@ Unterlassung noun g=f gen=Unterlassung pl=Unterlassungen
 Unternehmen noun g=n gen=Unternehmens pl=Unternehmen
 Unternehmer noun g=m gen=Unternehmers pl=Unternehmer
 Unternehmerin noun g=f gen=Unternehmerin pl=Unternehmerinnen
+Unternehmertum noun g=n gen=Unternehmertums pl=- note=abstract noun, no plural
 Unternehmung noun g=f gen=Unternehmung pl=Unternehmungen
 Unteroffizier noun g=m gen=Unteroffiziers pl=Unteroffiziere
 Unterredung noun g=f gen=Unterredung pl=Unterredungen

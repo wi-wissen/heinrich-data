@@ -13,6 +13,7 @@ Hackerin noun g=f gen=Hackerin pl=Hackerinnen
 Hafen noun g=m gen=Hafens pl=Häfen
 Hafer noun g=m gen=Hafers pl=- note=no plural
 Haferflocke noun g=f gen=Haferflocke pl=Haferflocken
+Haff noun g=n gen=Haffs|Haffes pl=Haffe|Haffs
 Haft noun g=f gen=Haft pl=- note=mass noun
 Häftling noun g=m gen=Häftlings pl=Häftlinge
 Haftung noun g=f gen=Haftung pl=Haftungen
@@ -92,9 +93,9 @@ Hauer noun g=m gen=Hauers pl=Hauer
 Haufe noun g=m gen=Haufens pl=Haufen style=archaic note=older form of Haufen
 Haufen noun g=m gen=Haufens pl=Haufen
 Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
+Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
 Häuflein noun g=n gen=Häufleins pl=Häuflein
 Häufung noun g=f gen=Häufung pl=Häufungen
-Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
 Hauptdarstellerin noun g=f gen=Hauptdarstellerin pl=Hauptdarstellerinnen
 Hauptfigur noun g=f gen=Hauptfigur pl=Hauptfiguren
 Haupthandlung noun g=f gen=Haupthandlung pl=Haupthandlungen
@@ -167,6 +168,7 @@ Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
 Helm noun g=m gen=Helms|Helmes pl=Helme
 Helpdesk noun g=m gen=Helpdesks pl=Helpdesks
 Hemd noun g=n gen=Hemds|Hemdes pl=Hemden
+Hemisphäre noun g=f gen=Hemisphäre pl=Hemisphären
 Hemmnis noun g=n gen=Hemmnisses pl=Hemmnisse
 Hemmung noun g=f gen=Hemmung pl=Hemmungen
 Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
@@ -265,11 +267,13 @@ Hochwasser noun g=n gen=Hochwassers pl=Hochwasser
 Hochzeit noun g=f gen=Hochzeit pl=Hochzeiten
 Hochzeitsreise noun g=f gen=Hochzeitsreise pl=Hochzeitsreisen note=compound; the analyser would take Reis as head
 Hocker noun g=m gen=Hockers pl=Hocker
+Höcker noun g=m gen=Höckers pl=Höcker
 Hockey noun g=n gen=Hockeys pl=- note=sport; mass noun
 Hodscha noun g=m gen=Hodschas pl=Hodschas conf=80 note=Islamic teacher; plural uncertain
 Hof noun g=m gen=Hofes|Hofs pl=Höfe
 Hoffnung noun g=f gen=Hoffnung pl=Hoffnungen
 Höflichkeit noun g=f gen=Höflichkeit pl=Höflichkeiten
+Höfling noun g=m gen=Höflings pl=Höflinge
 Höhe noun g=f gen=Höhe pl=Höhen
 Hoheit noun g=f gen=Hoheit pl=Hoheiten
 Höhepunkt noun g=m gen=Höhepunkts|Höhepunktes pl=Höhepunkte
@@ -349,12 +353,14 @@ Hundertstel noun g=n gen=Hundertstels pl=Hundertstel
 Hündin noun g=f gen=Hündin pl=Hündinnen
 Hunger noun g=m gen=Hungers pl=- note=mass noun
 Hungersnot noun g=f gen=Hungersnot pl=Hungersnöte
+Hunne noun g=m gen=Hunnen pl=Hunnen
 Hupe noun g=f gen=Hupe pl=Hupen
 Hüpfseil noun g=n gen=Hüpfseils|Hüpfseiles pl=Hüpfseile
 Hürde noun g=f gen=Hürde pl=Hürden
 Hure noun g=f gen=Hure pl=Huren
 Hurrikan noun g=m gen=Hurrikans pl=Hurrikane|Hurrikans
 Husar noun g=m gen=Husaren pl=Husaren
+Hussit noun g=m gen=Hussiten pl=Hussiten
 Husten noun g=m gen=Hustens pl=- note=cough; no plural in practice
 Hut noun g=m gen=Hutes|Huts pl=Hüte sense=hat
 Hut noun g=f gen=Hut pl=- sense=guard note=auf der Hut sein; mass noun

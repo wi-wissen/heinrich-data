@@ -1,3 +1,4 @@
+abendländisch adj
 abenteuerlich adj cmp=abenteuerlicher sup=abenteuerlichsten
 abgabepflichtig adj
 abgelegen adj cmp=abgelegener sup=abgelegensten
@@ -20,6 +21,7 @@ adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
 adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
 administrativ adj
+adult adj
 afghanisch adj
 afrikanisch adj
 aggressiv adj cmp=aggressiver sup=aggressivsten
@@ -39,7 +41,9 @@ alleinerziehend adj
 alleinig adj
 allererst adj
 allergisch adj
+allerhöchst adj attr_only note=intensified superlative of hoch (die allerhöchste Stufe, am allerhöchsten)
 allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
+allerwenigst adj attr_only note=intensified superlative of wenig (die allerwenigsten, am allerwenigsten)
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
@@ -69,6 +73,7 @@ angemessen    adj cmp=angemessener sup=angemessensten
 angenehm adj cmp=angenehmer sup=angenehmsten
 angeschlagen adj
 angesehen adj cmp=angesehener sup=angesehensten note=respected; participle of ansehen with its own meaning
+anglikanisch adj
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
@@ -131,6 +136,7 @@ aufmerksam    adj cmp=aufmerksamer sup=aufmerksamsten
 aufrecht adj
 aufregend adj cmp=aufregender sup=aufregendsten
 aufrichtig adj cmp=aufrichtiger sup=aufrichtigsten
+aufständisch adj
 auftragsgemäß adj
 aufwändig adj cmp=aufwändiger sup=aufwändigsten
 aufwendig adj cmp=aufwendiger sup=aufwendigsten
@@ -159,6 +165,7 @@ außerstande adj pred_only note=außerstande sein, etwas zu tun
 australisch adj
 ausverkauft adj
 auswärtig adj
+authentisch adj cmp=authentischer sup=authentischsten
 autobiografisch adj
 autobiographisch adj
 automatisch adj

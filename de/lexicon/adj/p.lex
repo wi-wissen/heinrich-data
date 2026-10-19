@@ -5,6 +5,7 @@ palliativ adj
 panamerikanisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
+paraguayisch adj
 parallel adj attr=parallele
 paritätisch adj
 parlamentarisch adj
@@ -18,6 +19,7 @@ peinlich adj cmp=peinlicher sup=peinlichsten
 perfekt adj
 perfide adj cmp=perfider sup=perfidesten
 periodisch adj
+peripher adj
 permanent adj
 persisch adj
 personell adj
@@ -52,6 +54,7 @@ politisch adj
 polizeilich adj
 polnisch adj
 polytechnisch adj
+pommersch adj
 populär adj cmp=populärer sup=populärsten
 populistisch adj
 portugiesisch adj
@@ -93,5 +96,6 @@ psychologisch adj
 psychosozial adj
 psychotherapeutisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten
+punktuell adj
 putzig adj cmp=putziger sup=putzigsten
 pyrotechnisch adj

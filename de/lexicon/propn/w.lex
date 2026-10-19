@@ -10,8 +10,10 @@ Weser propn g=f gen=Weser pl=- note=river; no plural
 Westafrika propn g=n gen=Westafrikas pl=- note=proper name; no plural
 Westeuropa propn g=n gen=Westeuropas pl=- note=proper name; no plural
 Westfalen propn g=n gen=Westfalens pl=- note=proper name, no plural
+Westjordanland propn g=n gen=Westjordanlands|Westjordanlandes pl=- note=proper name; no plural
 Westminster propn g=n gen=Westminsters pl=- note=proper name; no plural
 Westpommern propn g=n gen=Westpommerns pl=- note=proper name; no plural
+Westsahara propn g=f gen=Westsahara pl=- note=die Westsahara
 Wetzlar propn g=n gen=Wetzlars pl=- note=proper name, no plural
 WHO propn g=f gen=WHO pl=- note=die WHO
 Wien propn g=n gen=Wiens pl=- demonym=Wiener note=place name

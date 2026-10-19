@@ -43,6 +43,7 @@ leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten
 leitend adj
 lesbar adj cmp=lesbarer sup=lesbarsten
+lesbisch adj
 leserlich adj cmp=leserlicher sup=leserlichsten
 lettisch adj
 letzt adj note=not compared; attributive and nominal
@@ -60,6 +61,7 @@ lila         adj indecl
 linear adj
 link adj attr_only note=attributive only; linke Hand
 liquide adj cmp=liquider sup=liquidesten
+listig adj cmp=listiger sup=listigsten
 litauisch adj
 literarisch adj
 liturgisch adj
@@ -74,6 +76,8 @@ los adj note=predicative, e.g. etwas los sein
 lösbar adj
 löslich adj
 lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
+luftig adj cmp=luftiger sup=luftigsten
+lüstern adj cmp=lüsterner sup=lüsternsten
 lustig adj cmp=lustiger sup=lustigsten
 lustlos adj cmp=lustloser sup=lustlosesten
 lutherisch adj

@@ -183,6 +183,7 @@ wiederholen verb class=weak pp=wiederholt perf=haben
 wiederkehren verb class=weak sep=wieder pp=wiedergekehrt perf=sein
 wiederkommen verb class=strong sep=wieder 3sg=wiederkommt|wiederkömmt[old] past=wiederkam subj2=wiederkäme pp=wiedergekommen perf=sein
 wiedersehen verb class=strong sep=wieder 3sg=wiedersieht past=wiedersah pp=wiedergesehen subj2=wiedersähe perf=haben refl=acc
+wiederveröffentlichen verb class=weak sep=wieder pp=wiederveröffentlicht perf=haben conf=80 note=separable (veröffentlichte es wieder); also written as two words
 wiederverwenden verb class=weak pp=wiederverwendet perf=haben sep=wieder
 wiederverwerten verb class=weak pp=wiederverwertet perf=haben sep=wieder
 wiederwählen verb class=weak sep=wieder pp=wiedergewählt perf=haben

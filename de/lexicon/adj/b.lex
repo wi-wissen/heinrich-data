@@ -23,6 +23,7 @@ bedenklich adj cmp=bedenklicher sup=bedenklichsten
 bedeutend     adj cmp=bedeutender sup=bedeutendsten
 bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
 bedienerfreundlich adj cmp=bedienerfreundlicher sup=bedienerfreundlichsten
+bedrohlich adj cmp=bedrohlicher sup=bedrohlichsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befangen adj
 befindlich adj
@@ -34,6 +35,7 @@ begehrt adj cmp=begehrter sup=begehrtesten
 begeistert adj cmp=begeisterter sup=begeistertsten
 begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
+begrüßenswert adj
 begütert adj
 behaart adj
 behaftet adj note=mit etwas behaftet

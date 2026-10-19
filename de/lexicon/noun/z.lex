@@ -17,6 +17,7 @@ Zäsur noun g=f gen=Zäsur pl=Zäsuren
 Zauber noun g=m gen=Zaubers pl=Zauber
 Zauberer noun g=m gen=Zauberers pl=Zauberer
 Zaubererin noun g=f gen=Zaubererin pl=Zaubererinnen
+Zauberin noun g=f gen=Zauberin pl=Zauberinnen
 Zaum noun g=m gen=Zaums|Zaumes pl=Zäume
 Zaumzeug noun g=n gen=Zaumzeugs|Zaumzeuges pl=Zaumzeuge
 Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
@@ -119,6 +120,7 @@ Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
 Zocker noun g=m gen=Zockers pl=Zocker
 Zofe noun g=f gen=Zofe pl=Zofen
+Zögling noun g=m gen=Zöglings pl=Zöglinge
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zombie noun g=m gen=Zombies pl=Zombies
@@ -137,12 +139,14 @@ Zucchini noun g=f gen=Zucchini pl=Zucchini|Zucchinis
 Zucht noun g=f gen=Zucht pl=Zuchten
 Züchter noun g=m gen=Züchters pl=Züchter
 Züchterin noun g=f gen=Züchterin pl=Züchterinnen
+Züchtigung noun g=f gen=Züchtigung pl=Züchtigungen
 Zucker noun g=m gen=Zuckers pl=Zucker
 Zuckerwatte noun g=f gen=Zuckerwatte pl=- note=no plural (mass or abstract noun)
 Zufall noun g=m gen=Zufalls pl=Zufälle
 Zuflucht noun g=f gen=Zuflucht pl=- note=no plural
 Zufluss noun g=m gen=Zuflusses pl=Zuflüsse
 Zufriedenheit noun g=f gen=Zufriedenheit pl=- note=no plural
+Zufuhr noun g=f gen=Zufuhr pl=Zufuhren
 Zug noun g=m gen=Zuges|Zugs[rare] pl=Züge
 Zugabe noun g=f gen=Zugabe pl=Zugaben
 Zugang noun g=m gen=Zugangs|Zuganges[rare] pl=Zugänge
@@ -213,7 +217,9 @@ Zweck noun g=m gen=Zwecks|Zweckes pl=Zwecke
 Zwei noun g=f gen=Zwei pl=Zweien note=die Zwei: the digit, a grade, a bus line
 Zweier noun g=m gen=Zweiers pl=Zweier note=two-person boat; grade 2; two-euro coin
 Zweifel noun g=m gen=Zweifels pl=Zweifel
+Zweifüßler noun g=m gen=Zweifüßlers pl=Zweifüßler
 Zweig noun g=m gen=Zweigs|Zweiges pl=Zweige
+Zweitklassigkeit noun g=f gen=Zweitklassigkeit pl=- note=abstract noun, no plural
 Zweitligist noun g=m gen=Zweitligisten pl=Zweitligisten
 Zweitstimme noun g=f gen=Zweitstimme pl=Zweitstimmen
 Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
@@ -221,6 +227,7 @@ Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
 Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
+Zwietracht noun g=f gen=Zwietracht pl=- note=mass noun
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps

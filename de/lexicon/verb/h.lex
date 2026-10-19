@@ -8,6 +8,7 @@ halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte per
 hämmern verb class=weak pp=gehämmert perf=haben
 handeln verb class=weak pp=gehandelt perf=haben refl=acc
 handhaben verb class=weak pp=gehandhabt perf=haben
+hangen verb class=strong 3sg=hangt past=hing pp=gehangen subj2=hinge perf=haben style=archaic conf=70 note=archaic and regional variant of intransitive hängen; present forms uncertain
 hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=haben|sein sense=intransitive note=das Bild hing an der Wand; perf with sein in southern Germany/AT/CH
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
 hänseln verb class=weak pp=gehänselt perf=haben

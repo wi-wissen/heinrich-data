@@ -30,6 +30,7 @@ oppositionell adj
 optimal adj
 optimistisch adj cmp=optimistischer sup=optimistischsten
 optisch adj
+oral adj
 orange adj
 ordentlich adj cmp=ordentlicher sup=ordentlichsten
 ordnungsgemäß adj
@@ -38,6 +39,7 @@ organisatorisch adj
 organisch adj
 orientalisch adj
 original adj
+originär adj
 originell adj cmp=origineller sup=originellsten
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj

@@ -18,6 +18,7 @@ geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
 gefälscht adj
+gefleckt adj
 geflügelt adj note=geflügelte Worte; winged
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
@@ -91,6 +92,7 @@ gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
 getreu adj cmp=getreuer sup=getreuesten
+getreulich adj
 gewahr adj pred_only note=predicative only (einer Sache gewahr werden)
 gewaltig adj cmp=gewaltiger sup=gewaltigsten
 gewaltsam adj
@@ -116,6 +118,7 @@ gläsern adj
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
 gläubig adj cmp=gläubiger sup=gläubigsten
+glaublich adj
 glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichaltrig adj

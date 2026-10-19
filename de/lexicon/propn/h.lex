@@ -17,9 +17,11 @@ Hawaii propn g=n gen=Hawaiis pl=- note=US state
 Heidelberg propn g=n gen=Heidelbergs pl=- demonym=Heidelberger note=proper name; no plural
 Heilbronn propn g=n gen=Heilbronns pl=- note=proper name; no plural
 Helsinki propn g=n gen=Helsinkis pl=- note=proper name; no plural
+Helvetik propn g=f gen=Helvetik pl=- note=die Helvetik: the Helvetic Republic period (1798-1803)
 Herzegowina propn g=f gen=Herzegowina pl=- note=region; Bosnien und Herzegowina
 Hessen propn g=n gen=Hessens pl=- note=proper name; no plural
 Hildesheim propn g=n gen=Hildesheims pl=- note=proper name; no plural
+Himalaja propn g=m gen=Himalaja|Himalajas pl=- note=der Himalaja; no plural
 Hisbollah propn g=f gen=Hisbollah pl=- note=organisation; die Hisbollah
 Hohenzollern propn g=pl note=dynasty; die Hohenzollern
 Holland propn g=n gen=Hollands pl=- note=proper name; no plural

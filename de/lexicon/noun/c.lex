@@ -99,6 +99,7 @@ Codex noun g=m gen=Codex|Codexes pl=Codices|Codizes[rare]
 Cola noun g=f gen=Cola pl=Colas
 Collegeblock noun g=m gen=Collegeblocks|Collegeblockes pl=Collegeblöcke|Collegeblocks
 Comeback noun g=n gen=Comebacks pl=Comebacks
+Comedian noun g=m gen=Comedians pl=Comedians
 Comedy noun g=f gen=Comedy pl=Comedys|Comedies conf=80 note=plural unsure
 Comic noun g=m gen=Comics pl=Comics
 Commonwealth noun g=n gen=Commonwealth|Commonwealths pl=- conf=70 note=gender unsure (das Commonwealth)

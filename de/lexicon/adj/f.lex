@@ -36,6 +36,7 @@ feucht adj cmp=feuchter sup=feuchtesten
 feurig adj cmp=feuriger sup=feurigsten
 fiebrig adj
 fies adj cmp=fieser sup=fiesesten
+figürlich adj
 fiktiv adj
 final adj
 finanziell adj

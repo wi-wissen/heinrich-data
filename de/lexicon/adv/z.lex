@@ -13,9 +13,11 @@ zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv
 zusehends adv
 zustande adv note=only in zustande kommen/bringen
+zustatten adv note=zustatten kommen
 zutage adv type=modal note=zutage treten, zutage fördern
 zuteil adv type=modal note=zuteil werden
 zutiefst adv type=degree
+zuvörderst adv style=archaic note=first and foremost
 zuweilen adv
 zweifelsohne adv type=modal
 zwischendurch adv type=time

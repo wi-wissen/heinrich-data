@@ -38,6 +38,7 @@ genesen verb class=strong 3sg=genest past=genas pp=genesen subj2=genäse perf=se
 genießen verb class=strong 3sg=genießt past=genoss pp=genossen subj2=genösse perf=haben
 genügen verb class=weak pp=genügt perf=haben
 geraten verb class=strong 3sg=gerät past=geriet pp=geraten subj2=geriete perf=sein
+gereichen verb class=weak pp=gereicht perf=haben note=zur Ehre gereichen
 gerinnen verb class=strong 3sg=gerinnt past=gerann pp=geronnen subj2=gerönne|geränne perf=sein
 geschehen verb class=strong 3sg=geschieht past=geschah pp=geschehen subj2=geschähe perf=sein
 gesellen verb class=weak pp=gesellt perf=haben refl=acc
@@ -53,6 +54,7 @@ gewittern verb class=weak pp=gewittert perf=haben
 gewöhnen verb class=weak pp=gewöhnt perf=haben refl=acc
 geziemen verb class=weak pp=geziemt perf=haben refl=acc style=archaic note=es geziemt sich
 gießen verb class=strong 3sg=gießt past=goss pp=gegossen subj2=gösse perf=haben
+gipfeln verb class=weak pp=gegipfelt perf=haben
 glänzen verb class=weak pp=geglänzt perf=haben
 glasieren verb class=weak pp=glasiert perf=haben
 glätten verb class=weak pp=geglättet perf=haben

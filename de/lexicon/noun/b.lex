@@ -48,6 +48,8 @@ Band          noun g=f gen=Band pl=Bands sense=music_group
 Bandit noun g=m gen=Banditen pl=Banditen
 Bändchen noun g=n gen=Bändchens pl=Bändchen
 Bandleader noun g=m gen=Bandleaders pl=Bandleader
+Bandoneonist noun g=m gen=Bandoneonisten pl=Bandoneonisten
+Bangigkeit noun g=f gen=Bangigkeit pl=- note=abstract noun, no plural
 Bank          noun g=f gen=Bank pl=Bänke sense=seat
 Bank          noun g=f gen=Bank pl=Banken sense=financial
 Bankautomat noun g=m gen=Bankautomaten pl=Bankautomaten
@@ -55,6 +57,7 @@ Bankier noun g=m gen=Bankiers pl=Bankiers
 Bankierin noun g=f gen=Bankierin pl=Bankierinnen
 Bann noun g=m gen=Banns|Bannes pl=- note=no plural in current use
 Banner noun g=n gen=Banners pl=Banner
+Bantamgewicht noun g=n gen=Bantamgewichts|Bantamgewichtes pl=Bantamgewichte
 Baptist noun g=m gen=Baptisten pl=Baptisten
 Baptistin noun g=f gen=Baptistin pl=Baptistinnen
 Bar noun g=f gen=Bar pl=Bars sense=pub note=die Bar: pub, counter
@@ -71,6 +74,7 @@ Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
 Barriere noun g=f gen=Barriere pl=Barrieren
 Barrierefreiheit noun g=f gen=Barrierefreiheit pl=- note=no plural
+Barrikade noun g=f gen=Barrikade pl=Barrikaden
 Barsch noun g=m gen=Barschs|Barsches pl=Barsche
 Bart noun g=m gen=Barts|Bartes pl=Bärte
 Basar noun g=m gen=Basars pl=Basare
@@ -194,6 +198,7 @@ Behinderte noun g=m|f decl=adj
 Behinderung noun g=f gen=Behinderung pl=Behinderungen
 Behindi noun g=m gen=Behindis pl=Behindis style=offensive note=ableist slur
 Behörde       noun g=f gen=Behörde pl=Behörden
+Behuf noun g=m gen=Behufs|Behufes pl=Behufe style=archaic note=officialese: zu diesem Behuf
 Beibehaltung noun g=f gen=Beibehaltung pl=- note=no plural
 Beibringung noun g=f gen=Beibringung pl=Beibringungen
 Beifahrer noun g=m gen=Beifahrers pl=Beifahrer
@@ -238,6 +243,7 @@ Beleuchter noun g=m gen=Beleuchters pl=Beleuchter
 Beleuchtung noun g=f gen=Beleuchtung pl=Beleuchtungen
 Belgier noun g=m gen=Belgiers pl=Belgier
 Belgierin noun g=f gen=Belgierin pl=Belgierinnen
+Belichtung noun g=f gen=Belichtung pl=Belichtungen
 Belieben noun g=n gen=Beliebens pl=- note=nach Belieben; no plural
 Beliebtheit noun g=f gen=Beliebtheit pl=- note=no plural
 Belohnung noun g=f gen=Belohnung pl=Belohnungen
@@ -273,6 +279,7 @@ Bereich       noun g=m gen=Bereichs|Bereiches pl=Bereiche
 Bereinigung noun g=f gen=Bereinigung pl=Bereinigungen
 Bereitschaft noun g=f gen=Bereitschaft pl=Bereitschaften
 Bereitstellung noun g=f gen=Bereitstellung pl=Bereitstellungen
+Bereitwilligkeit noun g=f gen=Bereitwilligkeit pl=- note=abstract noun, no plural
 Berg          noun g=m gen=Berges|Bergs pl=Berge
 Bergbau noun g=m gen=Bergbaus|Bergbaues pl=- note=mass noun
 Bergfried noun g=m gen=Bergfrieds|Bergfriedes pl=Bergfriede
@@ -356,7 +363,9 @@ Besteuerung noun g=f gen=Besteuerung pl=Besteuerungen
 Bestie noun g=f gen=Bestie pl=Bestien
 Bestimmtheit noun g=f gen=Bestimmtheit pl=- note=mass noun
 Bestimmung    noun g=f gen=Bestimmung pl=Bestimmungen
+Bestleistung noun g=f gen=Bestleistung pl=Bestleistungen
 Bestrafung noun g=f gen=Bestrafung pl=Bestrafungen
+Bestrahlung noun g=f gen=Bestrahlung pl=Bestrahlungen
 Bestreben noun g=n gen=Bestrebens pl=- note=no plural
 Bestrebung noun g=f gen=Bestrebung pl=Bestrebungen
 Bestseller noun g=m gen=Bestsellers pl=Bestseller
@@ -391,6 +400,7 @@ Betrug noun g=m gen=Betrugs|Betruges pl=- note=mass noun
 Betrüger noun g=m gen=Betrügers pl=Betrüger
 Betrügerin noun g=f gen=Betrügerin pl=Betrügerinnen
 Bett          noun g=n gen=Bettes|Betts pl=Betten
+Bettchen noun g=n gen=Bettchens pl=Bettchen
 Bettler noun g=m gen=Bettlers pl=Bettler
 Bettlerin noun g=f gen=Bettlerin pl=Bettlerinnen
 Beule noun g=f gen=Beule pl=Beulen
@@ -445,6 +455,7 @@ Bieterin noun g=f gen=Bieterin pl=Bieterinnen
 Bikini noun g=m gen=Bikinis pl=Bikinis
 Bilanz noun g=f gen=Bilanz pl=Bilanzen
 Bild          noun g=n gen=Bildes|Bilds pl=Bilder
+Bildchen noun g=n gen=Bildchens pl=Bildchen
 Bildhauer     noun g=m gen=Bildhauers pl=Bildhauer
 Bildhauerin noun g=f gen=Bildhauerin pl=Bildhauerinnen
 Bildnis noun g=n gen=Bildnisses pl=Bildnisse
@@ -508,8 +519,10 @@ Blödsinn noun g=m gen=Blödsinns pl=- note=no plural
 Blog noun g=m gen=Blogs pl=Blogs
 Blogger noun g=m gen=Bloggers pl=Blogger
 Bloggerin noun g=f gen=Bloggerin pl=Bloggerinnen
+Blöße noun g=f gen=Blöße pl=Blößen
 Blues noun g=m gen=Blues pl=Blues
 Bluetooth noun g=n gen=Bluetooth pl=- note=technology name
+Bluff noun g=m gen=Bluffs pl=Bluffs
 Blume         noun g=f gen=Blume pl=Blumen
 Blumenbeet noun g=n gen=Blumenbeets pl=Blumenbeete
 Bluse noun g=f gen=Bluse pl=Blusen
@@ -517,6 +530,7 @@ Blut          noun g=n gen=Blutes|Bluts pl=- note=mass noun
 Blüte noun g=f gen=Blüte pl=Blüten
 Bluterguss noun g=m gen=Blutergusses pl=Blutergüsse
 Blütezeit noun g=f gen=Blütezeit pl=Blütezeiten
+Blutvergießen noun g=n gen=Blutvergießens pl=- note=no plural
 BMW noun g=m gen=BMW|BMWs pl=BMW|BMWs
 BMX-Rad noun g=n gen=BMX-Rads|BMX-Rades pl=BMX-Räder
 Boarding-Karte noun g=f gen=Boarding-Karte pl=Boarding-Karten
@@ -533,6 +547,7 @@ Böller noun g=m gen=Böllers pl=Böller
 Bollerwagen noun g=m gen=Bollerwagens pl=Bollerwagen
 Bollwerk noun g=n gen=Bollwerks|Bollwerkes pl=Bollwerke
 Bolschewik noun g=m gen=Bolschewiken pl=Bolschewiki|Bolschewiken note=weak masculine; plural Bolschewiki (Russian) or Bolschewiken
+Bolzen noun g=m gen=Bolzens pl=Bolzen
 Bolzplatz noun g=m gen=Bolzplatzes pl=Bolzplätze
 Bombardierung noun g=f gen=Bombardierung pl=Bombardierungen
 Bombe noun g=f gen=Bombe pl=Bomben
@@ -574,6 +589,7 @@ Branche noun g=f gen=Branche pl=Branchen
 Brand         noun g=m gen=Brandes|Brands pl=Brände
 Brandenburger noun g=m gen=Brandenburgers pl=Brandenburger note=inhabitant of Brandenburg; also attribute
 Brandung noun g=f gen=Brandung pl=- note=no plural (mass or abstract noun)
+Brandy noun g=m gen=Brandys pl=Brandys
 Branntwein noun g=m gen=Branntweins pl=Branntweine
 Brasilianer noun g=m gen=Brasilianers pl=Brasilianer
 Braten noun g=m gen=Bratens pl=Braten
@@ -581,6 +597,7 @@ Brathähnchen noun g=n gen=Brathähnchens pl=Brathähnchen
 Bratkartoffeln noun g=pl
 Bratwurst noun g=f gen=Bratwurst pl=Bratwürste
 Brauch noun g=m gen=Brauchs|Brauches pl=Bräuche
+Brauchtum noun g=n gen=Brauchtums pl=Brauchtümer
 Braue noun g=f gen=Braue pl=Brauen
 Brauerei noun g=f gen=Brauerei pl=Brauereien
 Braun noun g=n gen=Braun|Brauns pl=Braun|Brauns note=colour name
@@ -598,6 +615,7 @@ Brett noun g=n gen=Brettes|Bretts pl=Bretter
 Brexit noun g=m gen=Brexit|Brexits pl=- note=proper noun used with article (der Brexit)
 Brezel noun g=f gen=Brezel pl=Brezeln
 Brief         noun g=m gen=Briefes|Briefs pl=Briefe
+Briefchen noun g=n gen=Briefchens pl=Briefchen
 Briefing noun g=n gen=Briefings pl=Briefings
 Briefträgerin noun g=f gen=Briefträgerin pl=Briefträgerinnen
 Briefwahl noun g=f gen=Briefwahl pl=Briefwahlen
@@ -623,6 +641,8 @@ Bruch noun g=m gen=Bruchs|Bruches pl=Brüche
 Bruchteil noun g=m gen=Bruchteils|Bruchteiles pl=Bruchteile
 Brücke        noun g=f gen=Brücke pl=Brücken
 Bruder        noun g=m gen=Bruders pl=Brüder
+Brüderchen noun g=n gen=Brüderchens pl=Brüderchen
+Brüderlichkeit noun g=f gen=Brüderlichkeit pl=- note=abstract noun, no plural
 Brühe noun g=f gen=Brühe pl=Brühen
 Brunch noun g=m gen=Brunchs pl=Brunchs|Brunches
 Brunnen noun g=m gen=Brunnens pl=Brunnen
@@ -702,6 +722,7 @@ Burschenschaft noun g=f gen=Burschenschaft pl=Burschenschaften
 Bürste noun g=f gen=Bürste pl=Bürsten
 Bus noun g=m gen=Busses pl=Busse
 Busch noun g=m gen=Busches|Buschs pl=Büsche
+Büschel noun g=n gen=Büschels pl=Büschel
 Busen noun g=m gen=Busens pl=Busen
 Business noun g=n gen=Business pl=- note=das Business; mass noun
 Bussard noun g=m gen=Bussards pl=Bussarde

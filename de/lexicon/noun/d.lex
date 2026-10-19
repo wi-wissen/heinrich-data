@@ -56,6 +56,7 @@ Dekade noun g=f gen=Dekade pl=Dekaden
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
 Dekarbonisierung noun g=f gen=Dekarbonisierung pl=- note=mass noun
+Deklaration noun g=f gen=Deklaration pl=Deklarationen
 Deklination noun g=f gen=Deklination pl=Deklinationen
 Dekoration noun g=f gen=Dekoration pl=Dekorationen
 Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
@@ -103,6 +104,7 @@ Desinfektion noun g=f gen=Desinfektion pl=Desinfektionen
 Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Desktop noun g=m gen=Desktops pl=Desktops
+Despot noun g=m gen=Despoten pl=Despoten
 Dessert noun g=n gen=Desserts pl=Desserts
 Destabilisierung noun g=f gen=Destabilisierung pl=Destabilisierungen
 Destillation noun g=f gen=Destillation pl=Destillationen
@@ -134,6 +136,8 @@ Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
 Diamant noun g=m gen=Diamanten pl=Diamanten
+Diarrhö noun g=f gen=Diarrhö pl=Diarrhöen note=also spelled Diarrhöe
+Diarrhöe noun g=f gen=Diarrhöe pl=Diarrhöen note=also spelled Diarrhö
 Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter
@@ -150,12 +154,15 @@ Diener        noun g=m gen=Dieners pl=Diener
 Dienerin noun g=f gen=Dienerin pl=Dienerinnen
 Dienst        noun g=m gen=Dienstes|Diensts pl=Dienste
 Dienstag noun g=m gen=Dienstags|Dienstages pl=Dienstage
+Dienstbarkeit noun g=f gen=Dienstbarkeit pl=Dienstbarkeiten
 Dienstleister noun g=m gen=Dienstleisters pl=Dienstleister
 Dienstleisterin noun g=f gen=Dienstleisterin pl=Dienstleisterinnen
 Dienstleistung noun g=f gen=Dienstleistung pl=Dienstleistungen
 Diesel noun g=m gen=Diesels pl=Diesel
 Dietrich noun g=m gen=Dietrichs pl=Dietriche
+Differential noun g=n gen=Differentials pl=Differentiale note=also spelled Differenzial
 Differenz noun g=f gen=Differenz pl=Differenzen
+Differenzial noun g=n gen=Differenzials pl=Differenziale note=also spelled Differential
 Differenzierung noun g=f gen=Differenzierung pl=Differenzierungen
 Digitalisat noun g=n gen=Digitalisats|Digitalisates pl=Digitalisate
 Digitalisierung noun g=f gen=Digitalisierung pl=- note=no plural
@@ -218,6 +225,7 @@ Dogma noun g=n gen=Dogmas pl=Dogmen
 Dogmatik noun g=f gen=Dogmatik pl=Dogmatiken
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
+Doktorand noun g=m gen=Doktoranden pl=Doktoranden
 Doktorin noun g=f gen=Doktorin pl=Doktorinnen
 Doktrin noun g=f gen=Doktrin pl=Doktrinen
 Doku noun g=f gen=Doku pl=Dokus note=colloquial short for Dokumentation
@@ -264,6 +272,7 @@ Dramatik noun g=f gen=Dramatik pl=- note=no plural
 Dramatiker noun g=m gen=Dramatikers pl=Dramatiker
 Dramatikerin noun g=f gen=Dramatikerin pl=Dramatikerinnen
 Dramaturg noun g=m gen=Dramaturgen pl=Dramaturgen
+Dramaturgie noun g=f gen=Dramaturgie pl=Dramaturgien
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
@@ -329,5 +338,6 @@ Düsseldorfer noun g=m gen=Düsseldorfers pl=Düsseldorfer
 Dutzend noun g=n gen=Dutzends|Dutzend pl=Dutzende|Dutzend note=genitive/plural also unchanged after numerals
 DVD noun g=f gen=DVD pl=DVDs
 Dynamik noun g=f gen=Dynamik pl=- note=no plural
+Dynamisierung noun g=f gen=Dynamisierung pl=Dynamisierungen
 Dynamo noun g=m gen=Dynamos pl=Dynamos conf=85 note=Dynamo as generator or sports club name; gender m
 Dynastie noun g=f gen=Dynastie pl=Dynastien

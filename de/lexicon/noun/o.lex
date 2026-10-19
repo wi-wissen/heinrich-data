@@ -5,12 +5,14 @@ Oberbefehlshaber noun g=m gen=Oberbefehlshabers pl=Oberbefehlshaber note=compoun
 Oberbürgermeister noun g=m gen=Oberbürgermeisters pl=Oberbürgermeister
 Oberfläche noun g=f gen=Oberfläche pl=Oberflächen
 Obergeschoss noun g=n gen=Obergeschosses pl=Obergeschosse note=compound not split by the analyser
+Oberin noun g=f gen=Oberin pl=Oberinnen
 Oberschenkel noun g=m gen=Oberschenkels pl=Oberschenkel
 Oberst noun g=m gen=Obersten|Obersts pl=Oberste|Obersten conf=70 note=declension uncertain (des Obersten / des Obersts); der Oberst
 Oberstleutnant noun g=m gen=Oberstleutnants pl=Oberstleutnants|Oberstleutnante
 Oberstufe noun g=f gen=Oberstufe pl=Oberstufen
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
+Objektivität noun g=f gen=Objektivität pl=- note=abstract noun, no plural
 Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russia, Ukraine, Belarus; plural also Oblasti
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
 Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
@@ -81,6 +83,7 @@ Option noun g=f gen=Option pl=Optionen
 Orakel noun g=n gen=Orakels pl=Orakel
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
+Orangerie noun g=f gen=Orangerie pl=Orangerien
 Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
@@ -111,6 +114,7 @@ Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
+Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
