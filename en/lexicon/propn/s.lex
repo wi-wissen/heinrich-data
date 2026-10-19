@@ -103,6 +103,7 @@ Suffolk propn
 Sumter propn note=Fort Sumter
 Sunday propn pl=Sundays
 Sunderland propn
+Superfund propn conf=90 note=US environmental cleanup program
 Surrey propn
 Susquehanna propn
 Sussex propn

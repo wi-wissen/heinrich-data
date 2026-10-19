@@ -53,6 +53,7 @@ ballpark noun
 ballroom noun
 balm noun
 balsam noun
+balustrade noun
 bamboo noun
 ban noun
 banana noun
@@ -89,6 +90,7 @@ baritone noun
 bark noun
 barley noun pl=- note=uncountable
 barn noun
+barometer noun
 baron noun
 baroness noun
 baronet noun
@@ -200,6 +202,7 @@ bencher noun region=GB conf=90 note=member of an Inn of Court; also in backbench
 benchmark noun
 bend noun
 Benedictine noun
+benediction noun
 benefactor noun
 beneficiary noun
 benefit noun
@@ -229,10 +232,12 @@ biennial noun
 bigotry noun pl=- note=uncountable
 bike noun
 bikini noun
+bile noun pl=- note=uncountable
 bill noun
 billboard noun
 billiard noun note=attributive (billiard table); plural billiards is the game
 billionaire noun
+billow noun
 bin noun
 binary noun
 binder noun
@@ -254,6 +259,7 @@ biomarker noun
 biomass noun pl=- note=uncountable
 biopic noun
 biopsy noun
+biosecurity noun pl=- note=uncountable
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -406,6 +412,7 @@ bottle noun
 bottleneck noun
 bottlenose noun
 bottom noun
+boudoir noun
 bough noun
 boulder noun
 boulevard noun
@@ -516,6 +523,7 @@ brother-in-law noun pl=brothers-in-law
 brotherhood noun
 brougham noun
 brow noun
+brownfield noun
 brownie noun
 browser noun
 bruise noun
@@ -546,6 +554,7 @@ bugle noun
 build noun
 builder noun
 building noun
+buildup noun conf=90 note=also build-up
 bulb noun
 Bulgarian noun
 bulge noun
@@ -553,6 +562,7 @@ bulk noun pl=- note=uncountable
 bull noun
 bullet noun
 bulletin noun
+bullion noun pl=- note=uncountable
 bullock noun
 bully noun
 bulwark noun
@@ -610,6 +620,7 @@ buyback noun
 buyer noun
 buyout noun
 buzz noun
+bycatch noun pl=- note=uncountable
 bye noun note=in sport: a free pass to the next round
 byelaw noun region=GB conf=85 note=also bylaw
 bylaw noun conf=90 note=British also byelaw

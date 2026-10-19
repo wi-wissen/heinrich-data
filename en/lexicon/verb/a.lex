@@ -42,6 +42,7 @@ acquire verb
 acquit verb double
 act verb
 activate verb
+actuate verb
 adapt verb
 add verb
 address verb

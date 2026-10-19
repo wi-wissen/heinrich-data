@@ -10,11 +10,14 @@ watchful adj cmp=more
 waterproof adj
 watery adj cmp=er|more
 wavy adj cmp=er
+wayward adj cmp=more
 weak adj cmp=er adv=weakly
 wealthy adj cmp=er
+wearisome adj cmp=more
 weary adj cmp=er adv=wearily
 wee adj
 weekly adj
+weighty adj cmp=er
 weird adj cmp=er adv=weirdly
 welcome adj
 well adj pred_only cmp=better sup=best conf=90 note=in good health; the adverb well comes from good adv=well
@@ -43,6 +46,7 @@ willful adj cmp=more gb=wilful adv=willfully
 willing adj cmp=more adv=willingly
 wily adj cmp=er adv=wilily
 win-win adj conf=85
+windward adj
 windy adj cmp=er
 winged adj
 wintry adj cmp=er
@@ -53,6 +57,7 @@ wistful adj adv=wistfully
 witty adj cmp=er adv=wittily
 womanly adj cmp=more
 wonderful adj cmp=more adv=wonderfully
+wondering adj adv=wonderingly
 wondrous adj
 wont adj pred_only note=archaic: accustomed
 wooded adj
@@ -71,4 +76,5 @@ worthy adj cmp=er
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly
+wrongful adj adv=wrongfully
 wrought adj note=archaic past of work; wrought iron

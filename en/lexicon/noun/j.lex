@@ -32,6 +32,7 @@ Jew            noun
 jewel          noun
 jeweler noun gb=jeweller
 jewelry noun gb=jewellery pl=- note=uncountable
+jig noun
 jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
 jihad noun

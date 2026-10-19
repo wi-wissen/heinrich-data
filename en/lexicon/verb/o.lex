@@ -56,6 +56,7 @@ overcome      verb prefix=over past=overcame pp=overcome
 overdose verb
 overdraw verb prefix=over past=overdrew pp=overdrawn
 overestimate verb prefix=over
+overfish verb prefix=over
 overflow verb
 overhang verb prefix=over past=overhung pp=overhung
 overhaul verb

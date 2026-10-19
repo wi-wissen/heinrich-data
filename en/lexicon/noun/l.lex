@@ -21,6 +21,7 @@ lagoon        noun
 lair noun
 laird noun
 lake          noun
+lakeside noun
 lamb          noun
 lament noun
 lamentation noun
@@ -77,6 +78,7 @@ lava noun
 lavatory noun
 lavender noun
 law           noun
+lawmaker noun
 lawn          noun
 lawnmower noun
 lawsuit       noun
@@ -110,6 +112,7 @@ ledge         noun
 ledger noun
 lee noun
 leek noun
+leeward noun pl=- note=uncountable
 left          noun
 leftist noun
 lefty noun style=colloquial
@@ -150,6 +153,7 @@ levee noun
 level         noun
 lever noun
 leverage      noun
+levity noun pl=- note=uncountable
 levy          noun
 liability     noun
 liaison       noun
@@ -199,6 +203,7 @@ liking        noun
 lilac noun
 lily          noun
 limb          noun
+limbo noun note=plural limbos
 lime noun
 limerick noun
 limestone     noun
@@ -265,6 +270,7 @@ local         noun
 locale noun
 localism      noun
 locality      noun
+localization noun gb=localisation|localization
 location      noun
 loch          noun pl=lochs note=Scottish lake
 lock          noun
@@ -273,6 +279,7 @@ locker noun
 locksmith noun
 locomotion noun pl=- note=uncountable
 locomotive    noun
+locus noun pl=loci
 locust noun
 lodge         noun
 lodger noun
@@ -296,6 +303,7 @@ longitude noun
 longline noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
+lookback noun conf=85 note=mostly attributive: lookback period
 lookout noun
 lookup noun
 loop          noun
@@ -343,6 +351,7 @@ lyceum noun
 lychee noun
 lymph noun pl=- note=uncountable
 lymphoma noun pl=lymphomas|lymphomata
+lynx noun pl=lynxes|lynx
 lyre noun
 lyric         noun
 lyricist noun

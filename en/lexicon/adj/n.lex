@@ -33,6 +33,7 @@ negligent adj cmp=more adv=negligently
 negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
+neoclassical adj
 neoliberal adj
 Neolithic adj
 neonatal adj
@@ -50,6 +51,7 @@ Nigerian        adj
 nightly adj
 nimble adj cmp=er adv=nimbly
 nippy adj cmp=er
+nitric adj
 nitrous adj
 noble           adj cmp=er adv=nobly
 nocturnal adj
@@ -67,6 +69,7 @@ nonprofit       adj
 nonquantitative adj
 nonrefundable adj conf=85 note=also non-refundable
 nonstop adj
+nonverbal adj adv=nonverbally conf=90 note=also non-verbal
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
@@ -91,11 +94,13 @@ notifiable adj
 notional adj adv=notionally
 notorious       adj adv=notoriously
 novel           adj
+noxious adj cmp=more
 nuanced adj cmp=more
 nuclear         adj
 nucleic adj
 nude adj
 null adj note=null and void
+numberless adj
 numerate adj region=GB
 numeric adj adv=numerically
 numerical       adj adv=numerically

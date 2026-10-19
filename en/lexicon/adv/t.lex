@@ -1,3 +1,4 @@
+tenfold adv
 thence adv type=place|time style=archaic
 thenceforth adv type=time style=archaic
 thereabouts adv type=place|degree

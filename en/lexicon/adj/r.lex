@@ -12,13 +12,17 @@ rampant adj adv=rampantly
 random adj adv=randomly
 rank adj cmp=er
 rapid adj cmp=more adv=rapidly
+rapt adj adv=raptly
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
 rational adj cmp=more adv=rationally
 raw adj cmp=er
+reactionary adj
 reactive adj
+readable adj cmp=more
 ready adj cmp=er adv=readily
 real adj cmp=more adv=really
+realist adj
 realistic adj cmp=more adv=realistically
 realizable adj gb=realisable|realizable
 rear adj attr_only
@@ -44,6 +48,7 @@ reflective adj cmp=more adv=reflectively
 reflex adj
 reformed adj
 reformist adj
+refractive adj
 refractory adj
 refreshing adj adv=refreshingly
 refundable adj
@@ -86,12 +91,14 @@ repulsive adj cmp=more
 reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
+resentful adj cmp=more adv=resentfully
 resident adj
 residential adj
 residual adj
 resilient adj cmp=more
 resistant adj cmp=more
 resolute adj adv=resolutely
+resonant adj cmp=more adv=resonantly
 resourceful adj cmp=more adv=resourcefully
 respectable adj cmp=more adv=respectably
 respectful adj cmp=more adv=respectfully
@@ -128,6 +135,7 @@ rightful adj adv=rightfully
 rigid adj cmp=more adv=rigidly
 rigorous adj cmp=more adv=rigorously
 riotous adj
+riparian adj
 ripe adj cmp=er
 risky adj cmp=er adv=riskily
 ritual adj

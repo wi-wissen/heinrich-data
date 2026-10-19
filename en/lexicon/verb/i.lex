@@ -1,4 +1,5 @@
 ice            verb
+idealize verb gb=idealise|idealize
 identify       verb
 idle           verb
 ignite verb
@@ -8,6 +9,7 @@ illumine verb style=archaic
 illustrate     verb
 imagine        verb
 imbed verb double conf=90 note=variant spelling of embed
+imbue verb
 imitate verb
 immerse verb
 immigrate verb
@@ -31,6 +33,7 @@ imprison       verb
 improve        verb
 improvise verb
 impute verb
+inactivate verb
 inaugurate     verb
 incapacitate verb
 incarcerate verb
@@ -57,6 +60,7 @@ indulge        verb
 industrialize verb gb=industrialise|industrialize
 infect         verb
 infer verb double
+infest verb
 infiltrate verb
 inflame verb
 inflate verb
@@ -66,6 +70,7 @@ inform         verb
 infringe verb
 infuriate verb
 infuse verb
+ingest verb
 inhabit        verb
 inhale verb
 inherit        verb
@@ -75,6 +80,7 @@ initialize verb gb=initialise|initialize
 initiate       verb
 inject verb
 injure         verb
+inlay verb prefix=in past=inlaid pp=inlaid
 innovate verb
 input          verb past=input|inputted pp=input|inputted ing=inputting
 inquire        verb gb=inquire|enquire

@@ -24,6 +24,7 @@ fastidious adj cmp=more adv=fastidiously
 fat            adj cmp=er
 fatal          adj adv=fatally
 fated adj
+fateful adj adv=fatefully
 fatty adj cmp=er
 faulty adj cmp=er|more
 faunal adj
@@ -55,6 +56,7 @@ fiduciary adj
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
 figurative adj adv=figuratively
+filial adj
 Filipino       adj
 filthy adj cmp=er
 final          adj adv=finally
@@ -68,7 +70,7 @@ fiscal         adj adv=fiscally
 fit            adj cmp=er
 fitful adj adv=fitfully
 fitting        adj adv=fittingly
-fixed          adj
+fixed          adj adv=fixedly
 fizzy adj cmp=er
 flagrant adj adv=flagrantly
 flammable adj
@@ -133,6 +135,7 @@ freaky adj cmp=er style=colloquial
 freckled adj
 free           adj cmp=er adv=freely
 freelance adj
+freestanding adj
 French         adj
 frenzied adj
 frequent       adj cmp=more adv=frequently

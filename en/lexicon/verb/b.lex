@@ -73,6 +73,7 @@ bid verb past=bid|bade pp=bid|bidden
 bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
 bill verb
+billow verb
 bind verb past=bound pp=bound
 bisect verb
 bite verb past=bit pp=bitten
@@ -178,6 +179,7 @@ bump verb
 bundle verb
 buoy verb
 burden verb
+burgeon verb
 burlesque verb
 burn verb past=burned|burnt pp=burned|burnt
 burnish verb
@@ -189,6 +191,7 @@ bustle verb
 busy verb
 butcher verb
 butt verb
+button verb
 buttress verb
 buy verb past=bought pp=bought
 buzz verb

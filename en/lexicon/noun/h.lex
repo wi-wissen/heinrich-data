@@ -34,6 +34,7 @@ handbag noun
 handball noun
 handbook noun
 handful        noun
+handheld noun
 handicap noun
 handkerchief   noun note=plural handkerchiefs
 handle         noun
@@ -45,10 +46,12 @@ handshake noun
 handwriting    noun
 hangar noun
 hanger noun
+hanging noun
 happening noun
 happiness      noun pl=- note=uncountable
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
+hardcover noun
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
@@ -79,6 +82,7 @@ haven          noun
 havoc noun pl=- note=uncountable
 Hawaiian       noun
 hawk           noun
+hawthorn noun
 hay            noun pl=- note=uncountable
 hazard         noun
 haze           noun
@@ -144,6 +148,7 @@ hem noun
 heme noun pl=- gb=haem note=uncountable
 hemisphere noun
 hemorrhage noun gb=haemorrhage
+hemp noun pl=- note=uncountable
 hen noun
 hepatitis noun pl=- note=uncountable
 herald         noun
@@ -154,6 +159,7 @@ heresy noun
 heretic noun
 heritage       noun
 hermit noun
+hernia noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
 heroine noun
@@ -162,6 +168,7 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+heyday noun
 hiatus noun pl=hiatuses|hiatus
 hiccup noun
 hickory noun
@@ -251,6 +258,7 @@ hoover noun region=GB note=vacuum cleaner, from the trademark Hoover
 hop            noun
 hope           noun
 hopeful        noun
+hopelessness noun pl=- note=uncountable
 hopper noun
 hopscotch noun pl=- note=uncountable
 horde noun
@@ -287,6 +295,7 @@ household      noun
 householder    noun
 housekeeper    noun
 housekeeping noun pl=- note=uncountable
+housemaid noun
 housemate noun
 housewife noun pl=housewives
 housework noun pl=- note=uncountable
@@ -306,6 +315,7 @@ human          noun note=plural humans (not -men)
 humanist noun
 humanitarian   noun
 humanity       noun
+humanoid noun
 humbug noun
 humidity       noun pl=- note=uncountable
 humiliation    noun
@@ -347,3 +357,4 @@ hypocrisy noun
 hypocrite noun
 hypothesis     noun pl=hypotheses
 hypothyroidism noun pl=- note=uncountable
+hysteria noun pl=- note=uncountable

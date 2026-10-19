@@ -15,6 +15,7 @@ hooray intj
 hp x abbr note=horsepower
 hr             x abbr note=hour(s)
 huh intj
+hullo intj note=British variant of hello
 humph intj
 hurrah intj
 hush           intj

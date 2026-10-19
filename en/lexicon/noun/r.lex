@@ -1,5 +1,6 @@
 rabbi noun
 rabbit noun
+rabble noun
 raccoon noun
 race noun
 racecourse noun
@@ -29,8 +30,10 @@ raghead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 raid noun
 raider noun
 rail noun
+railing noun
 railroad noun
 railway noun
+raiment noun pl=- style=archaic note=uncountable
 rain noun
 rainbow noun
 raincoat noun
@@ -64,6 +67,7 @@ rapid noun note=mainly plural rapids
 rapidity noun pl=- note=uncountable
 rapper noun
 rapport noun
+rapporteur noun
 rapture noun
 rarity noun
 rascal noun
@@ -89,18 +93,22 @@ re-election noun us=reelection|re-election
 re-release noun
 reach noun
 reaction noun
+reactionary noun
 reactor noun
 reader noun
 readiness noun pl=- note=uncountable
 reading noun
 reagent noun
+realignment noun
 realism noun pl=- note=uncountable
+realist noun
 reality noun
 realization noun gb=realisation|realization
 reallocation noun
 realm noun
 realtor noun conf=90 note=chiefly American; British estate agent
 reappearance noun
+reappointment noun
 rear noun
 reason noun
 reasonableness noun pl=- note=uncountable
@@ -111,6 +119,7 @@ reassurance noun
 rebate noun
 rebel noun
 rebellion noun
+rebirth noun
 reboot noun
 rebound noun
 rebuke noun
@@ -161,6 +170,7 @@ recruitment noun pl=- note=uncountable
 rectangle noun
 rectification noun
 rector noun
+rectory noun
 recurrence noun
 recusal noun
 recycling noun pl=- note=uncountable
@@ -170,6 +180,7 @@ redcurrant noun
 redemption noun
 redeployment noun
 redesign noun
+redesignation noun
 redetermination noun
 redevelopment noun
 redirect noun
@@ -184,6 +195,7 @@ reed noun
 reef noun pl=reefs
 reel noun
 reentry noun note=re-entry is the usual British spelling
+reevaluation noun conf=90 note=also re-evaluation
 ref noun style=colloquial note=referee; reference
 referee noun
 reference noun
@@ -223,6 +235,7 @@ registrant noun
 registrar noun
 registration noun
 registry noun
+regression noun
 regret noun
 regular noun
 regularity noun
@@ -331,6 +344,7 @@ reprise noun
 reproach noun
 reproducibility noun pl=- note=uncountable
 reproduction noun
+reproof noun note=plural reproofs
 reptile noun
 republic noun
 republican noun
@@ -342,6 +356,7 @@ repute noun pl=- note=uncountable: of good repute
 request noun
 requester noun
 requestor noun note=also spelled requester
+requiem noun
 requirement noun
 requisite noun
 requisition noun
@@ -419,6 +434,7 @@ retreat noun
 retribution noun pl=- note=uncountable
 retrieval noun
 retrofit noun
+retrospect noun pl=- note=mostly in retrospect
 retrospective noun
 return noun
 reunification noun
@@ -445,6 +461,7 @@ revolt noun
 revolution noun
 revolutionary noun
 revolver noun
+revue noun
 revulsion noun pl=- note=uncountable
 reward noun
 rewrite noun
@@ -466,6 +483,7 @@ richness noun pl=- note=uncountable
 riddle noun
 ride noun
 rider noun
+ridership noun pl=- note=uncountable
 ridge noun
 ridicule noun pl=- note=uncountable
 riff noun
@@ -514,8 +532,10 @@ robotics noun pl=- note=uncountable
 rock noun
 rocker noun
 rocket noun
+rockfish noun pl=rockfish|rockfishes
 rod noun
 rodent noun
+rodeo noun
 rogue noun
 ROI noun abbr pl=- note=return on investment
 role noun

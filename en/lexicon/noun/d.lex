@@ -18,6 +18,7 @@ dan noun conf=80 note=grade in martial arts
 dance noun
 dancer noun
 dandelion noun
+dandy noun
 Dane noun
 danger noun
 Danish noun pl=- note=the language
@@ -83,6 +84,7 @@ deck noun
 deckchair noun
 declaration noun
 decline noun
+deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
 decoration noun
@@ -142,6 +144,7 @@ deliverance noun
 delivery noun
 dell noun
 delta noun
+deluge noun
 delusion noun
 demand noun
 demeanor noun gb=demeanour
@@ -186,6 +189,7 @@ depravity noun
 depreciation noun
 depression noun
 depressive noun
+depressor noun
 deprivation noun
 depth noun
 deputation noun
@@ -200,6 +204,7 @@ descendant noun
 descent noun
 description noun
 descriptor noun
+desegregation noun pl=- note=uncountable
 desert noun
 deserter noun
 desertion noun
@@ -331,6 +336,7 @@ disapproval noun
 disarmament noun
 disaster noun
 disbarment noun
+disbelief noun pl=- note=uncountable
 disbursement noun
 disc noun
 discard noun
@@ -344,6 +350,7 @@ discomfiture noun pl=- note=uncountable
 discomfort noun
 discontent noun
 discontinuance noun
+discontinuation noun
 discord noun
 discount noun
 discourse noun
@@ -377,6 +384,7 @@ disorder noun
 disparity noun
 dispatch noun gb=dispatch|despatch
 dispatcher noun
+dispensation noun
 dispenser noun
 dispersal noun
 dispersant noun
@@ -405,6 +413,7 @@ distance noun
 distaste noun
 distillery noun
 distinction noun
+distinctness noun pl=- note=uncountable
 distortion noun
 distraction noun
 distress noun
@@ -438,6 +447,7 @@ do noun pl=dos conf=85 note=a party (informal); dos and don'ts
 doc noun note=colloquial: doctor, document
 dock noun
 docket noun
+dockyard noun
 doctor noun
 doctorate noun
 doctrine noun
@@ -552,6 +562,7 @@ drug noun
 drum noun
 drummer noun
 drunk noun
+drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
 ducat noun

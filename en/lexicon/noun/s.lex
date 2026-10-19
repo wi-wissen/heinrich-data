@@ -1,4 +1,5 @@
 sable noun
+sablefish noun pl=sablefish|sablefishes
 sabotage noun pl=- note=uncountable
 sabre noun us=saber|sabre
 sack noun
@@ -80,6 +81,7 @@ sausage noun
 savage noun
 savagery noun
 savanna noun
+saver noun
 saving noun
 savior noun gb=saviour
 saw noun
@@ -106,20 +108,24 @@ scenario noun
 scene noun
 scenery noun pl=- note=uncountable
 scent noun
+sceptre noun us=scepter|sceptre conf=90 note=sceptre is also frequent in American texts
 schedule noun
 scheduler noun
 schema noun pl=schemas|schemata
 scheme noun
+schism noun
 schizophrenia noun pl=- note=uncountable
 scholar noun
 scholarship noun
 school noun
 schoolbag noun
 schoolboy noun
+schoolchild noun pl=schoolchildren
 schoolhouse noun
 schooling noun pl=- note=uncountable
 schoolmaster noun
 schoolmate noun
+schoolroom noun
 schoolteacher noun
 schoolwork noun pl=- note=uncountable
 schoolyard noun
@@ -202,6 +208,7 @@ secretion noun
 sect noun
 sectarian noun
 section noun
+sectional noun
 sector noun
 security noun
 sedan noun
@@ -292,10 +299,12 @@ shade noun
 shadow noun
 shaft noun
 shah noun
+shaker noun
 shale noun
 sham noun
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
+shanty noun
 shape noun
 share noun
 shareholder noun
@@ -345,6 +354,7 @@ shooting noun
 shootout noun
 shop noun
 shopkeeper noun
+shopper noun
 shore noun
 shoreline noun
 shortage noun
@@ -353,6 +363,7 @@ shortcut noun
 shortfall noun
 shorthand noun
 shortlist noun
+shortness noun pl=- note=uncountable
 shorts noun pl_only
 shortstop noun
 shot noun
@@ -367,6 +378,7 @@ shower noun
 shred noun
 shredder noun
 shrew noun
+shrewdness noun pl=- note=uncountable
 shriek noun
 shrimp noun pl=shrimp|shrimps
 shrine noun
@@ -415,6 +427,7 @@ silicone noun
 silk noun
 sill noun
 silo noun note=plural silos
+silt noun
 silver noun
 similarity noun
 simplicity noun
@@ -504,6 +517,7 @@ slough noun
 Slovak noun
 sludge noun
 slug noun
+slugger noun
 sluice noun
 slum noun
 slumber noun
@@ -702,6 +716,7 @@ spool noun
 spoon noun
 spore noun
 sport noun
+sportscaster noun
 sportsman noun pl=sportsmen
 sportswear noun pl=- note=uncountable
 spot noun
@@ -738,7 +753,9 @@ stack noun
 stadium noun pl=stadiums|stadia[rare]
 staff noun
 staffing noun pl=- note=uncountable
+stag noun
 stage noun
+stagecoach noun
 stagnation noun pl=- note=uncountable
 stain noun
 stair noun
@@ -772,6 +789,7 @@ starboard noun pl=- note=uncountable
 starch noun
 stare noun
 starfish noun pl=starfish|starfishes
+starlight noun pl=- note=uncountable
 starling noun
 starter noun
 startup noun
@@ -843,6 +861,7 @@ stirrup noun
 stitch noun
 stoat noun
 stock noun
+stockade noun
 stockbroker noun
 stockholder noun
 stocking noun
@@ -861,6 +880,7 @@ storehouse noun
 storeroom noun
 stork noun
 storm noun
+stormwater noun pl=- note=uncountable
 story noun sense=floor gb=storey
 story noun sense=tale
 storyline noun
@@ -968,13 +988,16 @@ subtotal noun
 subtype noun
 subunit noun
 suburb noun
+subversive noun
 subway noun
 success noun
 succession noun
 successor noun
+succor noun gb=succour
 suck noun style=colloquial conf=85 note=rare noun use
 sucker noun
 Sudanese noun pl=Sudanese
+suddenness noun pl=- note=uncountable
 sudoku noun
 sufferer noun
 suffering noun
@@ -990,6 +1013,7 @@ suitcase noun
 suite noun
 suitor noun
 sulfate noun gb=sulphate
+sulfide noun gb=sulphide|sulfide
 sulfur noun gb=sulphur pl=- note=chemical element
 sultan noun
 sum noun
@@ -1067,6 +1091,7 @@ swallow noun
 swamp noun
 swan noun
 swap noun
+sward noun
 swarm noun
 sway noun
 sweat noun
@@ -1092,7 +1117,9 @@ swing noun
 swirl noun
 switch noun
 sword noun
+sycamore noun
 syllable noun
+syllogism noun
 symbol noun
 symbolism noun
 symmetry noun

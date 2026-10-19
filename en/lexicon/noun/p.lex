@@ -1,5 +1,6 @@
 pa noun style=colloquial note=father
 pace noun
+pacemaker noun
 pacifier noun region=US note=British dummy
 pacifist noun
 pack noun
@@ -9,6 +10,7 @@ packet noun
 pact noun
 pad noun
 paddle noun
+paddock noun
 padre noun
 pagan noun
 page noun
@@ -36,6 +38,7 @@ pallet noun
 palliative noun
 pallor noun
 palm noun
+palsy noun
 pamphlet noun
 pan noun
 pancake noun
@@ -45,12 +48,15 @@ pane noun
 panel noun
 panelist noun gb=panellist
 pang noun
+panhandle noun
 panic noun
 pantheon noun
 panther noun
 pantomime noun
+pantry noun
 pants noun pl_only
 papa noun
+papacy noun
 papaya noun
 paper noun
 paperback noun
@@ -91,6 +97,7 @@ Parisian noun
 parity noun
 park noun
 parking noun pl=- note=uncountable
+parkland noun
 parkway noun
 parley noun
 parliament noun
@@ -111,6 +118,7 @@ particle noun
 particular noun
 particulate noun
 partisan noun
+partisanship noun pl=- note=uncountable
 partition noun
 partner noun
 partnership noun
@@ -135,6 +143,7 @@ pastry noun
 pasture noun
 pat noun
 patch noun
+patchwork noun
 patent noun
 paternity noun pl=- note=uncountable
 path noun
@@ -185,6 +194,7 @@ pea noun
 peace noun pl=- note=uncountable
 peacekeeper noun
 peacekeeping noun pl=- note=uncountable
+peacetime noun pl=- note=uncountable
 peach noun
 peacock noun
 peak noun
@@ -224,6 +234,7 @@ penfriend noun region=GB note=US pen pal
 penguin noun
 peninsula noun
 penis noun pl=penises|penes
+penitence noun pl=- note=uncountable
 penitent noun
 penknife noun pl=penknives
 pennant noun
@@ -307,6 +318,7 @@ phi noun
 philanthropist noun
 philanthropy noun
 philharmonic noun note=orchestra
+philologist noun
 philosopher noun
 philosophy noun
 phishing noun pl=- note=uncountable
@@ -385,6 +397,7 @@ pita noun gb=pitta|pita
 pitch noun
 pitcher noun
 pitchfork noun
+pituitary noun
 pity noun
 pivot noun
 pixel noun
@@ -437,6 +450,7 @@ plea noun
 pleasure noun
 plebeian noun
 pledge noun
+plenary noun
 plenty noun pl=- note=uncountable
 plethora noun
 plight noun
@@ -462,6 +476,7 @@ PM noun abbr note=Prime Minister
 pneumonia noun pl=- note=uncountable
 poacher noun
 pocket noun
+pocketbook noun
 pod noun
 podcast noun
 podium noun
@@ -510,6 +525,7 @@ pony noun
 ponytail noun
 poofter noun style=offensive note=homophobic slur
 pool noun
+poop noun
 pop noun
 popcorn noun pl=- note=uncountable
 pope noun
@@ -724,6 +740,7 @@ producer noun
 product noun
 production noun
 productivity noun pl=- note=uncountable
+profanity noun
 profession noun
 professional noun
 professionalism noun pl=- note=uncountable
@@ -820,6 +837,7 @@ provocation noun
 provost noun
 prow noun
 prowess noun pl=- note=uncountable
+prowl noun
 proximity noun pl=- note=uncountable
 proxy noun
 prudence noun pl=- note=uncountable
@@ -829,6 +847,7 @@ pseudonym noun
 pseudonymization noun gb=pseudonymisation|pseudonymization conf=90
 psoriasis noun pl=- note=uncountable
 psyche noun
+psychedelic noun
 psychiatrist noun
 psychiatry noun pl=- note=uncountable
 psychic noun
@@ -887,6 +906,7 @@ push noun
 pushchair noun region=GB note=US stroller
 pushpin noun
 puzzle noun
+pygmy noun
 pylon noun
 pyramid noun
 python noun
