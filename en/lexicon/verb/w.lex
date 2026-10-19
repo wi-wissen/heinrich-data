@@ -1,3 +1,4 @@
+wag verb
 wage verb
 wail verb
 wait verb
@@ -32,15 +33,21 @@ welcome verb
 wet verb past=wet|wetted pp=wet|wetted
 whale verb
 wheel verb
+whimper verb
+whine verb
 whip verb
 whirl verb
+whisk verb
 whisper verb
 whistle verb
+whizz verb
 widen verb
 widow verb
+wiggle verb
 wilt verb note=to droop; archaic thou wilt (will) is a closed-class gap
 win verb past=won pp=won
 wind verb past=wound pp=wound note=to turn or coil; to wind = to make breathless is not covered
+windsurf verb
 wink verb
 wipe verb
 wire verb
@@ -50,6 +57,7 @@ wither verb
 withhold verb prefix=with past=withheld pp=withheld
 withstand verb prefix=with past=withstood pp=withstood
 witness verb
+wobble verb
 wonder verb
 word verb
 work verb note=archaic past wrought is a separate adj entry
@@ -61,6 +69,7 @@ wound verb
 wrap verb
 wreck verb
 wrestle verb
+wriggle verb
 wring verb past=wrung pp=wrung
 wrinkle verb
 write verb past=wrote pp=written

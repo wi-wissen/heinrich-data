@@ -3,6 +3,7 @@ abbreviate verb
 abduct verb
 abide verb past=abided|abode[archaic] pp=abided|abode[archaic]
 abolish verb
+abseil verb region=GB
 absorb verb
 abstract verb
 abuse verb
@@ -16,7 +17,7 @@ accomplish verb
 accord verb
 account verb
 accredit verb
-accrue verb ing=accruing note=ing written out: the generator gives accrueing
+accrue verb
 accumulate verb
 accuse verb
 accustom verb
@@ -105,7 +106,7 @@ approve verb
 approximate verb
 arch verb
 archive verb
-argue verb ing=arguing note=ing written out: the generator gives argueing
+argue verb
 arise verb past=arose pp=arisen
 arm verb
 arouse verb

@@ -13,6 +13,7 @@ economical adj cmp=more
 edible adj
 editorial adj
 educational adj adv=educationally
+eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
 efficient adj cmp=more adv=efficiently
@@ -31,6 +32,7 @@ elementary adj
 eligible adj
 elite adj
 eloquent adj adv=eloquently
+embarrassed adj cmp=more
 eminent adj adv=eminently
 emotional adj adv=emotionally
 emphatic adj cmp=more adv=emphatically
@@ -47,6 +49,7 @@ enormous adj adv=enormously
 enthusiastic adj cmp=more adv=enthusiastically
 entire adj adv=entirely
 entrepreneurial adj
+envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
 epic adj
 Episcopal adj

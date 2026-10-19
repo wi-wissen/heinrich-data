@@ -24,8 +24,10 @@ questioning   noun
 questionnaire noun
 queue noun
 quiet         noun pl=- note=uncountable
+quilt noun
 quintet noun
 quiver        noun
+quiz noun
 quorum noun
 quota         noun
 quotation noun

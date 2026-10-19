@@ -1,5 +1,6 @@
 oak           noun
 oar           noun
+oat noun
 oath          noun
 OBE           noun abbr note=Officer of the Order of the British Empire
 obedience     noun pl=- note=uncountable
@@ -26,6 +27,7 @@ occupier      noun
 occurrence    noun
 ocean         noun
 octave noun
+octopus noun pl=octopuses|octopi[rare]
 odds          noun pl_only
 odor noun gb=odour
 odyssey noun
@@ -44,9 +46,13 @@ olive         noun
 Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
+omelette noun us=omelet|omelette
 omission      noun
 omnibus noun pl=omnibuses
+onesie noun
+onion noun
 onset         noun
+opener noun
 opening       noun
 openness      noun pl=- note=uncountable
 opera         noun
@@ -67,16 +73,19 @@ option        noun
 opus noun pl=opuses|opera[rare]
 oracle noun
 orange        noun
+orangutan noun
 orator noun
 orbit         noun
 orchard noun
 orchestra     noun
+orchid noun
 ordeal noun
 order         noun
 orderly       noun
 ordinance     noun
 ordnance noun pl=- note=uncountable
 ore           noun
+oregano noun pl=- note=uncountable
 organ         noun
 organism      noun
 organist noun
@@ -90,6 +99,7 @@ originality noun pl=- note=uncountable
 ornament      noun
 orphan noun
 OS            noun abbr note=operating system
+ostrich noun
 otter noun
 Ottoman noun note=plural Ottomans
 ottoman       noun note=furniture

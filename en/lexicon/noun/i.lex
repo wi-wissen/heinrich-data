@@ -17,6 +17,7 @@ idleness noun
 idol           noun
 ignition noun
 ignorance      noun
+iguana noun
 ill            noun
 illegal        noun
 illness        noun
@@ -60,6 +61,7 @@ inability      noun
 inaction noun pl=- note=uncountable
 inactivity noun
 inauguration noun
+inbox noun
 Inca           noun
 incapacity noun
 incarnation    noun

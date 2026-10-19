@@ -1,8 +1,10 @@
 Gaelic         adj
 gallant        adj adv=gallantly
+garlicky adj
 gastrointestinal adj
 gaunt adj
 gay            adj cmp=er
+geeky adj cmp=er
 general        adj adv=generally
 generic        adj adv=generically
 generous       adj cmp=more adv=generously
@@ -27,9 +29,12 @@ gifted         adj
 gigantic       adj
 gilded         adj
 gilt adj
+ginger adj
+ginormous adj style=colloquial
 girlish adj
 glacial adj
 glad           adj cmp=er adv=gladly
+glittery adj
 global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
@@ -38,6 +43,7 @@ golden         adj
 good           adj cmp=better sup=best adv=well
 good-natured adj cmp=more adv=good-naturedly
 goodly adj
+gooey adj
 gorgeous       adj adv=gorgeously
 Gothic         adj
 governmental   adj
@@ -54,6 +60,7 @@ grateful       adj cmp=more adv=gratefully
 grave          adj cmp=er adv=gravely
 gravitational adj
 gray           adj cmp=er gb=grey
+greasy adj cmp=er
 great          adj cmp=er adv=greatly
 greedy adj cmp=er adv=greedily
 Greek          adj
@@ -64,5 +71,7 @@ grizzly        adj
 gross          adj cmp=er adv=grossly
 grotesque      adj
 groundbreaking adj
+grubby adj cmp=er
+grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
 guilty         adj cmp=er|more adv=guiltily

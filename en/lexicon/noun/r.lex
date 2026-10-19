@@ -1,5 +1,6 @@
 rabbi noun
 rabbit noun
+raccoon noun
 race noun
 racer noun
 racing noun pl=- note=uncountable
@@ -7,11 +8,14 @@ racism noun pl=- note=uncountable
 racist noun
 rack noun
 racket noun
+racquet noun note=variant spelling of racket (sports)
 radar noun
 radiance noun pl=- note=uncountable
 radiation noun pl=- note=uncountable
+radiator noun
 radical noun
 radio noun pl=radios
+radish noun
 radius noun pl=radii|radiuses
 raft noun
 rag noun
@@ -23,10 +27,14 @@ railroad noun
 railway noun
 rain noun
 rainbow noun
+raincoat noun
+raindrop noun
 rainfall noun
 rainforest noun
 raise noun
+raisin noun
 raja noun conf=90 note=also spelled rajah
+rake noun
 rally noun
 ram noun
 ramp noun
@@ -47,6 +55,7 @@ rapper noun
 rapture noun
 rascal noun
 rash noun
+raspberry noun
 rat noun
 rate noun
 ratification noun
@@ -56,9 +65,11 @@ ration noun
 rationale noun
 rationality noun pl=- note=uncountable
 rattle noun
+rattlesnake noun
 raven noun
 ravine noun
 ray noun
+razor noun
 RBI noun abbr note=run batted in (baseball)
 re-election noun us=reelection|re-election
 re-release noun
@@ -88,6 +99,7 @@ recapture noun
 receipt noun
 receiver noun
 reception noun
+receptionist noun
 receptor noun
 recess noun
 recession noun
@@ -114,10 +126,12 @@ recovery noun
 recreation noun
 recruit noun
 recruitment noun pl=- note=uncountable
+rectangle noun
 rector noun
 recurrence noun
 recycling noun pl=- note=uncountable
 red noun
+redcurrant noun
 redemption noun
 redesign noun
 redevelopment noun
@@ -142,6 +156,7 @@ refrain noun
 refreshment noun
 refrigerant noun
 refrigeration noun pl=- note=uncountable
+refrigerator noun
 refuge noun
 refugee noun
 refund noun
@@ -171,6 +186,7 @@ rehearsal noun
 reign noun
 reimbursement noun
 rein noun
+reindeer noun pl=reindeer
 reinforcement noun
 reinstatement noun
 reissue noun
@@ -205,6 +221,7 @@ remit noun
 remix noun
 remnant noun
 remorse noun pl=- note=uncountable
+remote noun note=remote control
 removal noun
 remuneration noun
 renaissance noun
@@ -326,6 +343,9 @@ revolver noun
 reward noun
 RFI noun abbr note=request for information
 rhetoric noun pl=- note=uncountable
+rhino noun pl=rhinos
+rhinoceros noun pl=rhinoceroses|rhinoceros
+rhubarb noun pl=- note=uncountable
 rhyme noun
 rhythm noun
 RIA noun abbr conf=90 note=regulatory impact assessment
@@ -349,12 +369,14 @@ right-of-way noun pl=rights-of-way|right-of-ways
 righteousness noun pl=- note=uncountable
 rim noun
 ring noun
+ringtone noun
 rink noun
 riot noun
 rip noun
 ripple noun
 rise noun
 risk noun
+risotto noun pl=risottos
 rite noun
 ritual noun
 rival noun
@@ -392,9 +414,11 @@ roof noun pl=roofs
 rook noun
 rookie noun
 room noun
+rooster noun
 root noun
 rope noun
 rose noun
+rosemary noun pl=- note=uncountable
 roster noun
 rot noun
 rotation noun
@@ -405,6 +429,7 @@ round noun
 roundabout noun
 roundtable noun
 route noun
+router noun
 routine noun
 rover noun
 row noun
@@ -420,6 +445,7 @@ rubber noun
 rubbish noun pl=- note=uncountable
 rubble noun pl=- note=uncountable
 ruby noun
+rucksack noun
 rudder noun
 rue noun note=herb
 ruffian noun

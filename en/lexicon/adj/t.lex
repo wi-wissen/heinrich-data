@@ -1,16 +1,20 @@
 tactical adj adv=tactically
 Taiwanese adj
 talented adj cmp=more
+talkative adj cmp=more
 tall adj cmp=er
 tame adj cmp=er
 Tamil adj
 tangible adj
+tasteless adj cmp=more
+tasty adj cmp=er
 tawny adj cmp=er
 taxable adj
 technical adj adv=technically
 technological adj adv=technologically
 tedious adj cmp=more adv=tediously
 teenage adj
+teeny adj style=colloquial
 temperate adj
 temporal adj
 temporary adj adv=temporarily
@@ -39,8 +43,10 @@ thorough adj cmp=more adv=thoroughly
 thoughtful adj cmp=more adv=thoughtfully
 thrilled adj
 thrilling adj
+thundery adj
 Tibetan adj
 tidal adj
+tidy adj cmp=er adv=tidily
 tiered adj
 tight adj cmp=er adv=tightly
 timely adj cmp=er|more
@@ -53,6 +59,7 @@ titanic adj
 titular adj
 tolerable adj adv=tolerably
 tolerant adj cmp=more
+toothless adj
 top adj
 topical adj
 total adj adv=totally
@@ -76,8 +83,10 @@ traumatic adj
 treacherous adj
 tremendous adj adv=tremendously
 tremulous adj
+trendy adj cmp=er
 triangular adj
 tribal adj
+tricky adj cmp=er
 trifling adj
 triple adj
 triumphant adj adv=triumphantly
@@ -92,4 +101,5 @@ tumultuous adj
 turbulent adj
 Turkic adj
 Turkish adj
+turquoise adj
 typical adj adv=typically

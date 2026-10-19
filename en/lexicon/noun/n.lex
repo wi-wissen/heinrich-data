@@ -1,7 +1,13 @@
+nacho noun pl=nachos
 nail          noun
 name          noun
 nameplate noun
 namesake      noun
+nan noun region=GB style=colloquial note=grandmother; also naan bread
+nana noun style=colloquial note=grandmother
+nap noun
+napkin noun
+nappy noun region=GB note=US diaper
 narration noun
 narrative     noun
 narrator      noun
@@ -18,6 +24,7 @@ nausea noun pl=- note=uncountable
 NAV           noun abbr note=net asset value
 Navajo        noun pl=Navajo|Navajos conf=90 note=plural usage varies
 nave          noun
+navel noun
 navigation    noun
 navy          noun
 Nazi          noun
@@ -26,6 +33,7 @@ necessity     noun
 neck          noun
 necklace      noun
 nectar noun pl=- note=uncountable
+nectarine noun
 need          noun
 needle        noun
 negative      noun
@@ -37,8 +45,10 @@ neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nephew        noun
 nerve         noun
+nervousness noun pl=- note=uncountable
 nest          noun
 net           noun
+netball noun pl=- note=uncountable
 network       noun
 neuron noun gb=neuron|neurone
 neutral       noun
@@ -47,11 +57,13 @@ neutron noun
 newborn noun
 newcomer noun
 news          noun pl=- note=uncountable, singular agreement
+newsagent noun region=GB
 newscast noun
 newsletter noun
 newspaper     noun
 newton        noun note=SI unit of force
 NGO noun abbr note=non-governmental organization
+nibble noun
 niche noun
 nickel noun
 nickname      noun
@@ -59,7 +71,11 @@ niece         noun
 Nigerian      noun
 night         noun
 nightclub noun
+nightdress noun
 nightfall noun pl=- note=uncountable
+nightgown noun
+nightie noun
+nightingale noun
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
@@ -81,6 +97,7 @@ noncompliance noun pl=- note=uncountable
 nonimmigrant  noun
 nonprofit     noun
 nonsense      noun pl=- note=uncountable
+noodle noun
 noon          noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norm          noun
@@ -91,10 +108,14 @@ northeast     noun pl=- note=the direction has no plural
 northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
+nosebleed noun
 nostril       noun
 notable       noun
 notation      noun
 note          noun
+notebook noun
+notepad noun
+notepaper noun pl=- note=uncountable
 notice        noun
 notification  noun
 notion        noun
@@ -108,6 +129,7 @@ novelty       noun
 NPRM          noun abbr note=notice of proposed rulemaking (US)
 nucleus       noun pl=nuclei
 nude noun
+nugget noun
 nuisance      noun
 nullity noun
 number        noun
@@ -116,5 +138,6 @@ nurse         noun
 nursery       noun
 nursing       noun pl=- note=the profession
 nut           noun
+nutmeg noun
 nutrient noun
 nutrition     noun pl=- note=uncountable

@@ -41,6 +41,7 @@ regional adj adv=regionally
 regular adj cmp=more adv=regularly
 regulatory adj
 relative adj adv=relatively
+relaxed adj cmp=more
 relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
@@ -106,6 +107,7 @@ Romanesque adj
 Romani adj
 Romanian adj note=demonym or religious name, capitalized
 romantic adj cmp=more adv=romantically
+roomy adj cmp=er
 rosy adj cmp=er
 rotten adj cmp=more
 rough adj cmp=er adv=roughly
@@ -118,6 +120,7 @@ rude adj cmp=er adv=rudely
 rudimentary adj
 rugged adj cmp=more
 runaway adj attr_only
+runny adj cmp=er
 rural adj
 Russian adj note=demonym or religious name, capitalized
 rustic adj

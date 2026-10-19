@@ -1,5 +1,6 @@
 Iberian adj
 Icelandic      adj
+icky adj style=colloquial
 iconic         adj
 icy adj cmp=er adv=icily
 ideal          adj adv=ideally
@@ -186,3 +187,4 @@ Islamist adj
 Israeli        adj
 Italian        adj
 italic adj
+itchy adj cmp=er

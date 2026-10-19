@@ -2,9 +2,12 @@ jail           verb
 jam verb
 jerk verb
 jest           verb
+jog verb
 join           verb
 joke           verb
+jot verb
 journey        verb
 judge          verb
+juggle verb
 jump           verb
 justify        verb

@@ -36,6 +36,7 @@ farm           noun
 farmer         noun
 farmhouse noun
 farmland       noun
+fart noun style=colloquial
 fascination    noun
 fascism noun
 fascist noun
@@ -46,6 +47,7 @@ fatality       noun
 fate           noun
 father         noun
 fatigue        noun
+faucet noun region=US note=British tap
 fault          noun
 fauna          noun
 favor          noun gb=favour
@@ -79,12 +81,15 @@ fentanyl noun pl=- note=uncountable
 fermentation noun
 fern noun
 ferocity noun
+ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
 festival       noun
 festivity noun
 feud noun
 fever          noun
+fiancé noun
+fiancée noun
 fiber          noun gb=fibre
 fiction        noun
 fiddle noun
@@ -115,7 +120,9 @@ find           noun
 finding        noun
 fine           noun
 finger         noun
+fingernail noun
 fingerprint noun
+fingertip noun
 finish         noun
 Finn           noun
 Finnish        noun pl=- note=the language
@@ -123,14 +130,17 @@ fir noun
 fire           noun
 firearm        noun
 firefighter    noun
+fireman noun pl=firemen
 fireplace      noun
 firework       noun
 firm           noun
 firmness noun
 fish           noun pl=fish|fishes
+fishcake noun
 fisher noun
 fisherman      noun pl=fishermen
 fishery        noun
+fishmonger noun
 fission noun
 fist           noun
 fit            noun
@@ -142,8 +152,11 @@ flag           noun
 flagship       noun
 flake noun
 flame          noun
+flamingo noun pl=flamingos|flamingoes
 flank          noun
+flannel noun
 flap noun
+flapjack noun
 flare noun
 flash          noun
 flask noun
@@ -151,12 +164,14 @@ flat           noun
 flattery noun
 flavor         noun gb=flavour
 flaw noun
+flea noun
 fleet          noun
 flesh          noun pl=- note=uncountable
 flexibility    noun
 flight         noun
 fling          noun
 flint noun
+flipper noun
 float          noun
 flock          noun
 flood          noun
@@ -176,12 +191,14 @@ flute          noun
 flutter noun
 flux           noun
 fly            noun
+foal noun
 foam           noun
 focus          noun pl=focuses|foci
 foe            noun
 fog            noun
 foil noun
 fold           noun
+folder noun
 foliage        noun pl=- note=uncountable
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
@@ -202,11 +219,13 @@ footnote       noun
 footpath noun
 footprint      noun
 footstep       noun
+footwear noun pl=- note=uncountable
 forage         noun
 forbearance noun
 force          noun
 ford noun
 fore           noun
+forearm noun
 forecast       noun
 forecastle noun
 forefather noun
@@ -259,12 +278,14 @@ Franciscan noun
 frankness noun
 fraternity noun
 fraud          noun
+freckle noun
 freedom        noun
 freehold       noun
 freeman noun pl=freemen
 freestyle      noun
 freeway        noun region=US
 freeze         noun
+freezer noun
 freight        noun
 French         noun pl=- note=the language; the French as a people
 Frenchman      noun pl=Frenchmen
@@ -274,11 +295,13 @@ freshman noun pl=freshmen
 freshness noun
 friar noun
 friction       noun
+fridge noun
 friend         noun
 friendship     noun
 frigate        noun
 fright         noun
 fringe         noun
+frisbee noun
 frock noun
 frog noun
 front          noun

@@ -1,6 +1,7 @@
 D-SNP noun abbr note=dual eligible special needs plan (US Medicare)
 dad noun
 daddy noun
+daffodil noun
 dagger noun
 daily noun
 dairy noun
@@ -12,6 +13,7 @@ dame noun
 damp noun
 dance noun
 dancer noun
+dandelion noun
 Dane noun
 danger noun
 Danish noun pl=- note=the language
@@ -60,6 +62,7 @@ deception noun
 decimal noun
 decision noun
 deck noun
+deckchair noun
 declaration noun
 decline noun
 decomposition noun
@@ -92,6 +95,7 @@ deity noun
 delay noun
 delegate noun
 delegation noun
+deli noun
 deliberation noun
 delicacy noun
 delight noun
@@ -117,6 +121,7 @@ denomination noun
 denominator noun
 density noun
 dentist noun
+deodorant noun
 department noun
 departure noun
 dependence noun
@@ -190,6 +195,7 @@ dialect noun
 dialogue noun us=dialog|dialogue conf=90 note=dialog is an American variant, mostly in computing
 diameter noun
 diamond noun
+diaper noun region=US note=British nappy
 diary noun
 diaspora noun
 dice noun pl=dice
@@ -216,6 +222,7 @@ din noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
+dinosaur noun
 diocese noun
 dioxide noun
 dip noun
@@ -261,6 +268,7 @@ disgrace noun
 disguise noun
 disgust noun
 dish noun
+dishwasher noun
 disinformation noun pl=- note=uncountable
 disk noun
 dislike noun
@@ -339,11 +347,16 @@ dominion noun
 donation noun
 donkey noun
 donor noun
+doodle noun
 doom noun
 door noun
+doorbell noun
+doorknob noun
+doormat noun
 doorstep noun
 doorway noun
 dopamine noun pl=- note=uncountable
+dorm noun note=short for dormitory
 dormitory noun
 dosage noun
 dose noun
@@ -351,7 +364,8 @@ dot noun
 double noun
 doubt noun
 dough noun
-doughnut noun
+doughnut noun us=donut|doughnut conf=90 note=donut is an informal American spelling
+dove noun note=the bird
 down noun note=soft feathers; the Downs (hills)
 downfall noun
 download noun
@@ -361,6 +375,7 @@ downturn noun
 draft noun
 drag noun
 dragon noun
+dragonfly noun
 drain noun
 drainage noun pl=- note=uncountable
 drake noun
@@ -382,6 +397,7 @@ drink noun
 drip noun
 drive noun
 driver noun
+driveway noun
 drone noun
 drop noun
 drought noun
@@ -389,9 +405,11 @@ drug noun
 drum noun
 drummer noun
 drunk noun
+dryer noun
 duchess noun
 duchy noun
 duck noun
+duckling noun
 duct noun
 due noun
 duel noun
@@ -399,7 +417,9 @@ duet noun
 duke noun
 dummy noun
 dump noun
+dumpling noun
 dune noun
+dungarees noun pl_only
 dungeon noun
 duo noun
 duplicate noun
@@ -407,8 +427,11 @@ duplication noun
 duration noun
 dusk noun
 dust noun
+dustbin noun region=GB note=US trash can
+dustpan noun
 Dutch noun pl=- note=the language; the Dutch (people)
 duty noun
+duvet noun
 DVD noun abbr note=digital versatile disc
 dwarf noun pl=dwarfs|dwarves
 dwelling noun

@@ -14,6 +14,7 @@ offend        verb
 offer         verb nodouble
 offset        verb prefix=off past=offset pp=offset
 oil           verb
+oink verb
 omit          verb double
 onboard verb
 open          verb
