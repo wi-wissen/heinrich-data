@@ -388,7 +388,7 @@ arbeiten      verb class=weak pp=gearbeitet perf=haben
 archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
-arrangieren verb class=weak pp=arrangiert perf=haben
+arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
 assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
 attestieren verb class=weak pp=attestiert perf=haben

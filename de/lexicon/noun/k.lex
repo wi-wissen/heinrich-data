@@ -558,7 +558,7 @@ Künstler noun g=m gen=Künstlers pl=Künstler
 Künstlerin noun g=f gen=Künstlerin pl=Künstlerinnen
 Kunststoff noun g=m gen=Kunststoffs|Kunststoffes pl=Kunststoffe
 Kupfer noun g=n gen=Kupfers pl=- note=mass noun
-Kupferstecher noun g=m gen=Kupferstechers pl=Kupferstecher note=lexicalised; Stecher is not a word of its own
+Kupferstecher noun g=m gen=Kupferstechers pl=Kupferstecher
 Kuppe noun g=f gen=Kuppe pl=Kuppen
 Kuppel noun g=f gen=Kuppel pl=Kuppeln
 Kur noun g=f gen=Kur pl=Kuren

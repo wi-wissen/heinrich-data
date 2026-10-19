@@ -115,7 +115,7 @@ kritisieren verb class=weak pp=kritisiert perf=haben
 kritteln verb class=weak pp=gekrittelt perf=haben
 kritzeln verb class=weak pp=gekritzelt perf=haben
 krönen verb class=weak pp=gekrönt perf=haben
-krümmen verb class=weak pp=gekrümmt perf=haben
+krümmen verb class=weak pp=gekrümmt perf=haben refl=acc
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc

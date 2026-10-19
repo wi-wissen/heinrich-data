@@ -19,7 +19,7 @@ mauern verb class=weak pp=gemauert perf=haben
 maulen verb class=weak pp=gemault perf=haben
 mausern verb class=weak pp=gemausert perf=haben refl=acc
 meckern verb class=weak pp=gemeckert perf=haben style=colloquial
-mehren verb class=weak pp=gemehrt perf=haben
+mehren verb class=weak pp=gemehrt perf=haben refl=acc
 meiden verb class=strong 3sg=meidet past=mied pp=gemieden subj2=miede perf=haben
 meinen verb class=weak pp=gemeint perf=haben
 meistern verb class=weak pp=gemeistert perf=haben

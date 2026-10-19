@@ -1,7 +1,6 @@
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
-ihrig adj attr_only style=archaic note=der/die/das ihrige
 illegal adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten

@@ -266,6 +266,7 @@ Mitbewohnerin noun g=f gen=Mitbewohnerin pl=Mitbewohnerinnen
 Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
+Mitkonsekrator noun g=m gen=Mitkonsekrators pl=Mitkonsekratoren
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
 Mitschnitt noun g=m gen=Mitschnitts|Mitschnittes pl=Mitschnitte
 Mitschrift noun g=f gen=Mitschrift pl=Mitschriften

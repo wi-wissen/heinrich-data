@@ -22,7 +22,6 @@ medizinisch adj
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
-meinig adj attr_only style=archaic note=der/die/das meinige
 meldepflichtig adj
 menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten

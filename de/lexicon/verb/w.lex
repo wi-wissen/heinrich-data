@@ -14,7 +14,7 @@ walken verb class=weak pp=gewalkt perf=haben|sein
 walten verb class=weak pp=gewaltet perf=haben
 walzen verb class=weak pp=gewalzt perf=haben|sein
 wälzen verb class=weak pp=gewälzt perf=haben refl=acc
-wandeln verb class=weak pp=gewandelt perf=haben|sein
+wandeln verb class=weak pp=gewandelt perf=haben|sein refl=acc
 wandern      verb class=weak pp=gewandert perf=sein
 wanken verb class=weak pp=gewankt perf=haben|sein
 wärmen verb class=weak pp=gewärmt perf=haben refl=acc

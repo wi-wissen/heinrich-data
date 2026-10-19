@@ -104,7 +104,6 @@ unruhig adj
 unsäglich adj
 unscharf adj
 unschuldig adj
-unserig adj attr_only style=archaic note=der/die/das unserige
 unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj

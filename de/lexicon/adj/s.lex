@@ -75,7 +75,6 @@ seelisch adj
 sehenswert adj
 sehnlich adj
 seiden adj
-seinig adj attr_only style=archaic note=der/die/das seinige
 seitlich adj
 sekundär adj
 selbständig adj cmp=selbständiger sup=selbständigsten

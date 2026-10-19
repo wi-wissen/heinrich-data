@@ -8,7 +8,6 @@ dauernd adj
 dazugehörig adj
 defekt adj
 definitiv adj
-deinig adj attr_only style=archaic note=der/die/das deinige
 demografisch adj
 demokratisch adj
 demütig adj
