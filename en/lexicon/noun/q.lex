@@ -3,6 +3,7 @@ quad noun
 quadrangle noun
 quadrant noun
 quadratic noun
+quadric noun
 quadruped noun
 quail noun pl=quail|quails note=the bird
 Quaker        noun

@@ -61,6 +61,7 @@ wonderful adj cmp=more adv=wonderfully
 wondering adj adv=wonderingly
 wondrous adj
 wont adj pred_only note=archaic: accustomed
+wonted adj attr_only
 wooded adj
 wooden adj
 woody adj cmp=er
@@ -74,6 +75,7 @@ worth adj pred_only
 worthless adj
 worthwhile adj cmp=more
 worthy adj cmp=er
+wrathful adj cmp=more adv=wrathfully
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly

@@ -10,6 +10,7 @@ Danish adj
 daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
 darling adj
+dastardly adj cmp=more
 dative adj
 daunting adj cmp=more adv=dauntingly
 day-to-day adj
@@ -60,17 +61,19 @@ democratic adj cmp=more adv=democratically
 demographic adj
 demonstrable adj adv=demonstrably
 demonstrative adj adv=demonstratively
-demure adj cmp=er|more adv=demurely
+demure adj cmp=er adv=demurely
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
 dependable adj cmp=more
 dependent adj cmp=more
 deplorable adj cmp=more adv=deplorably
+depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
 derelict adj
 derivative adj
+dermal adj
 derogatory adj
 descriptive adj
 designate adj note=the minister designate
@@ -87,6 +90,7 @@ destructive adj cmp=more adv=destructively
 desultory adj
 detached adj
 detectable adj
+determinate adj
 determined adj cmp=more adv=determinedly
 deterministic adj
 deterrent adj
@@ -101,6 +105,7 @@ devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
 dewy adj cmp=er
+dexterous adj cmp=more adv=dexterously
 diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
@@ -110,6 +115,7 @@ didactic adj cmp=more adv=didactically
 dielectric adj
 dietary adj
 different adj cmp=more adv=differently
+differentiable adj
 differential adj
 difficult adj cmp=more
 diffuse adj cmp=more
@@ -145,9 +151,11 @@ discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
 discretionary adj
 discriminatory adj
+disdainful adj cmp=more adv=disdainfully
 diseased adj
 disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
+dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
 disillusioned adj cmp=more
 disinterested adj
@@ -156,6 +164,7 @@ disjointed adj cmp=more adv=disjointedly
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
+disorganized adj gb=disorganised|disorganized
 disparate adj cmp=more
 disposable adj
 dispositive adj conf=90 note=legal register
@@ -191,6 +200,7 @@ docile adj
 doctoral adj
 doctrinal adj adv=doctrinally
 documentary adj
+dodgy adj cmp=er region=GB
 dogged adj cmp=more adv=doggedly
 dogmatic adj
 doleful adj
@@ -202,6 +212,7 @@ dormant adj
 dorsal adj
 double adj
 doubtful adj cmp=more adv=doubtfully
+doughty adj cmp=er|more
 downcast adj
 downhill adj
 downloadable adj
@@ -210,8 +221,10 @@ downstairs adj
 downstream adj
 downtown adj
 downward adj
+downwind adj
 downy adj cmp=er
 drab adj cmp=er adv=drably
+draconian adj
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
@@ -241,3 +254,4 @@ dutiful adj adv=dutifully
 dynamic adj adv=dynamically
 dynastic adj
 dysfunctional adj
+dystopian adj

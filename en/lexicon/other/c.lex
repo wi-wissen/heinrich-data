@@ -1,5 +1,6 @@
 ca. x abbr note=circa
 capita x foreign note=only in per capita
+cappella x foreign note=only in a cappella
 Capt. x abbr note=captain
 carte x foreign note=only in à la carte, carte blanche
 cc x abbr note=carbon copy; cubic centimetres

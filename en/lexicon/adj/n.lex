@@ -28,6 +28,7 @@ necessary       adj cmp=more adv=necessarily
 needful adj
 needless adj adv=needlessly
 needy adj cmp=er
+nefarious adj
 negative        adj adv=negatively
 negligent adj cmp=more adv=negligently
 negligible      adj
@@ -42,9 +43,11 @@ nervous         adj cmp=more adv=nervously
 net             adj attr_only
 neural adj
 neurological adj
+neuter adj
 neutral         adj adv=neutrally
 new             adj cmp=er adv=newly
 newborn adj
+newfound adj attr_only
 next            adj
 nice            adj cmp=er adv=nicely
 Nigerian        adj
@@ -74,6 +77,7 @@ nonsensical adj
 nonstop adj
 nonverbal adj adv=nonverbally conf=90 note=also non-verbal
 nonviolent adj
+nonzero adj
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
@@ -90,6 +94,7 @@ northward       adj
 northwest       adj
 northwestern    adj
 Norwegian       adj
+nostalgic adj cmp=more adv=nostalgically
 nosy adj cmp=er
 notable         adj cmp=more adv=notably
 noteworthy adj

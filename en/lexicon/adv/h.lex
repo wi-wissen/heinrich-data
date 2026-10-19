@@ -14,4 +14,5 @@ hither         adv type=place
 hitherto       adv type=time
 home           adv type=place
 homeward adv type=place
+homewards adv type=place
 hourly         adv type=frequency

@@ -1,6 +1,7 @@
 habitable adj cmp=more
 habitual       adj adv=habitually
 haggard adj
+haired adj note=mostly in compounds (fair-haired, long-haired, white-haired)
 hairy adj cmp=er
 Haitian adj
 hale adj
@@ -28,6 +29,7 @@ haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
+headstrong adj cmp=more
 healthful adj cmp=more
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
@@ -49,6 +51,7 @@ heraldic adj
 herbal adj
 hereditary     adj
 heretical adj
+heritable adj
 heroic         adj adv=heroically
 hesitant adj cmp=more adv=hesitantly
 hesitating adj adv=hesitatingly
@@ -66,6 +69,7 @@ Hispanic       adj
 historic       adj
 historical     adj adv=historically
 hoarse         adj cmp=er adv=hoarsely
+hoary adj cmp=er
 holistic adj
 hollow         adj cmp=er
 holy           adj cmp=er
@@ -82,10 +86,12 @@ homosexual adj
 honest         adj cmp=more adv=honestly
 honorable      adj gb=honourable adv=honorably
 honorary       adj
+honorific adj
 hooded adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally
+hormonal adj
 horned adj
 horny adj cmp=er
 horrendous adj
@@ -117,6 +123,7 @@ hydroelectric adj
 hydrologic adj
 hyperbaric adj
 hyperbolic adj
+hypnotic adj adv=hypnotically
 hypocritical adj cmp=more adv=hypocritically
 hypothetical   adj adv=hypothetically
 hysterical adj adv=hysterically

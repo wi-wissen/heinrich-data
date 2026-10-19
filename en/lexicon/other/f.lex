@@ -1,3 +1,4 @@
+facie x foreign note=only in prima facie
 facto          x foreign note=only in de facto, ipso facto
 fait x foreign note=only in fait accompli, au fait
 farewell       intj

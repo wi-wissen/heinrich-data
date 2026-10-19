@@ -1,16 +1,21 @@
 kabellos adj
 kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
+kalifornisch adj
 kalt adj cmp=kälter sup=kältesten
 kanadisch adj
+kanarisch adj
+kantonal adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
+kasachisch adj
 katastrophal adj
 katholisch adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
 keltisch adj
+kenianisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kennzeichnungspflichtig adj
 kinderlos adj
@@ -32,8 +37,10 @@ knallig adj cmp=knalliger sup=knalligsten
 knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
+kognitiv adj
 kollaborativ adj
 kollektiv adj
+kolonial adj
 kolumbianisch adj
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
@@ -55,11 +62,15 @@ konsequent adj cmp=konsequenter sup=konsequentesten
 konservativ adj cmp=konservativer sup=konservativsten
 konstant adj cmp=konstanter sup=konstantesten
 konstruktiv adj cmp=konstruktiver sup=konstruktivsten
+kontinental adj
 kontinuierlich adj cmp=kontinuierlicher sup=kontinuierlichsten
 kontraproduktiv adj
 kontrovers adj
 konventionell adj cmp=konventioneller sup=konventionellsten
+konvex adj
 konzentriert adj cmp=konzentrierter sup=konzentriertesten
+kooperativ adj cmp=kooperativer sup=kooperativsten
+koreanisch adj
 körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
 kostbar adj cmp=kostbarer sup=kostbarsten
@@ -100,6 +111,7 @@ kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
 kurzgefasst adj
 kurzhaarig adj
+kurzlebig adj cmp=kurzlebiger sup=kurzlebigsten
 kurzsichtig adj cmp=kurzsichtiger sup=kurzsichtigsten
 kurzzeitig adj
 kuschelig adj cmp=kuscheliger sup=kuscheligsten

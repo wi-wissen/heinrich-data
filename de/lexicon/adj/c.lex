@@ -4,6 +4,7 @@ charmant adj cmp=charmanter sup=charmantesten
 chemisch adj
 chilenisch adj
 chinesisch adj
+chirurgisch adj
 christlich adj
 chronisch adj
 chronologisch adj

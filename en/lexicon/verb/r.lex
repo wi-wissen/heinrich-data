@@ -32,9 +32,11 @@ re-elect verb us=reelect|re-elect
 re-release verb
 reach verb
 react verb
+reactivate verb
 read verb past=read pp=read
 ready verb
 reaffirm verb
+realign verb
 realize verb gb=realise|realize
 reallocate verb
 reap verb
@@ -44,6 +46,7 @@ reappoint verb
 rear verb
 rearrange verb
 reason verb
+reassert verb
 reassign verb
 reassure verb
 rebalance verb
@@ -52,6 +55,7 @@ rebel verb double
 reboot verb
 rebound verb
 rebrand verb
+rebuff verb
 rebuild verb prefix=re past=rebuilt pp=rebuilt
 rebuke verb
 rebut verb double
@@ -62,6 +66,7 @@ recast verb prefix=re past=recast pp=recast
 recede verb
 receive verb
 recess verb
+recharge verb
 reciprocate verb
 recite verb
 reckon verb
@@ -71,6 +76,7 @@ recline verb
 recognize verb gb=recognise|recognize
 recoil verb
 recollect verb
+recommence verb
 recommend verb
 recommit verb prefix=re double
 recompense verb
@@ -139,6 +145,7 @@ regulate verb
 rehabilitate verb
 rehearse verb
 reheat verb
+rehire verb
 reign verb
 reimburse verb
 rein verb
@@ -175,6 +182,7 @@ remark verb
 remarry verb
 remaster verb
 rematch verb
+remediate verb
 remedy verb
 remember verb
 remind verb
@@ -197,6 +205,7 @@ renumber verb
 reoffend verb
 reopen verb prefix=re
 reorganize verb gb=reorganise|reorganize
+repaint verb
 repair verb
 repatriate verb
 repay verb prefix=re past=repaid pp=repaid
@@ -222,6 +231,7 @@ reproach verb
 reprocess verb
 reproduce verb
 reprogram verb double
+reprove verb
 republish verb
 repudiate verb
 repulse verb
@@ -243,6 +253,7 @@ reserve verb
 reset verb past=reset pp=reset double
 resettle verb
 reshape verb
+reshuffle verb
 reside verb
 resign verb
 resist verb
@@ -269,6 +280,7 @@ retain verb
 retake verb prefix=re past=retook pp=retaken
 retaliate verb
 retard verb note=to slow down
+retell verb prefix=re past=retold pp=retold
 rethink verb prefix=re past=rethought pp=rethought
 retire verb
 retitle verb
@@ -287,6 +299,7 @@ revalue verb
 revamp verb
 reveal verb
 revel verb
+revenge verb
 revere verb
 reverse verb
 revert verb
@@ -299,6 +312,7 @@ revoke verb
 revolt verb
 revolve verb
 reward verb
+reweight verb conf=90 note=statistics (reweighting)
 reword verb
 rework verb
 rewrite verb prefix=re past=rewrote pp=rewritten

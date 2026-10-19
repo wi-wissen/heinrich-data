@@ -52,12 +52,16 @@ girlish adj
 glacial adj
 glad           adj cmp=er adv=gladly
 glassy adj cmp=er
+gleeful adj cmp=more adv=gleefully
 glittery adj
 global         adj adv=globally
+globular adj
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
 glossy adj cmp=er
 gloved adj
+glycidic adj conf=90 note=chemistry (glycidic ester)
+gnarled adj
 godly adj cmp=er|more
 golden         adj
 good           adj cmp=better sup=best adv=well
@@ -98,6 +102,7 @@ gross          adj cmp=er adv=grossly
 grotesque      adj
 groundbreaking adj
 grubby adj cmp=er
+gruesome adj cmp=er|more adv=gruesomely
 gruff adj cmp=er adv=gruffly
 grumpy adj cmp=er adv=grumpily
 gubernatorial  adj

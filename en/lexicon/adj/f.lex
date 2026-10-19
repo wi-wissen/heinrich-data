@@ -1,3 +1,4 @@
+fabled adj
 fabulous adj adv=fabulously
 facial         adj
 factual        adj adv=factually
@@ -10,6 +11,7 @@ false          adj cmp=er|more adv=falsely
 famed adj
 familial adj
 familiar       adj cmp=more adv=familiarly
+famished adj
 famous         adj cmp=more adv=famously
 fanatical adj cmp=more adv=fanatically
 fanciful adj
@@ -25,6 +27,7 @@ fat            adj cmp=er
 fatal          adj adv=fatally
 fated adj
 fateful adj adv=fatefully
+fatherly adj
 fatty adj cmp=er
 faultless adj adv=faultlessly
 faulty adj cmp=er|more
@@ -39,6 +42,7 @@ feathery adj
 federal        adj adv=federally
 federalist adj
 feeble         adj cmp=er adv=feebly
+feline adj
 fellow         adj attr_only
 female         adj
 feminine       adj
@@ -56,6 +60,7 @@ fickle adj cmp=more
 fictional      adj
 fictitious adj
 fiduciary adj
+fiendish adj cmp=more adv=fiendishly
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
 figurative adj adv=figuratively
@@ -79,6 +84,7 @@ fizzy adj cmp=er
 flagrant adj adv=flagrantly
 flamboyant adj adv=flamboyantly
 flammable adj
+flashy adj cmp=er
 flat           adj cmp=er adv=flatly
 flawed adj
 fledged adj
@@ -148,6 +154,7 @@ frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
 fretful adj adv=fretfully
+fricative adj
 frictionless adj
 friendless adj
 friendly       adj cmp=er
@@ -178,4 +185,5 @@ furtive adj adv=furtively
 fussy adj cmp=er
 futile adj
 future         adj attr_only
+futuristic adj
 fuzzy adj cmp=er adv=fuzzily

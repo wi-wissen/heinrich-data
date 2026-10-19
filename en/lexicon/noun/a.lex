@@ -14,11 +14,14 @@ abnormality noun
 abode noun
 abolition noun
 abolitionist noun
+aborigine noun
+Aborigine noun note=indigenous Australian
 abortion noun
 abrasive noun
 absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
+absolution noun
 absorption noun
 abstinence noun pl=- note=uncountable
 abstract noun
@@ -59,6 +62,7 @@ accountancy noun pl=- note=uncountable
 accountant noun
 accounting noun pl=- note=uncountable
 accreditation noun
+accretion noun
 accrual noun
 accumulation noun
 accuracy noun
@@ -75,6 +79,7 @@ acknowledgment noun gb=acknowledgement|acknowledgment conf=90 note=acknowledgeme
 ACL noun abbr conf=90 note=anterior cruciate ligament; access control list
 ACO noun abbr conf=90 note=accountable care organization
 acorn noun
+acoustics noun pl=- note=the science, singular agreement; the plural reading (the acoustics are good) has the same form
 acquaintance noun
 acquiescence noun pl=- note=uncountable
 acquisition noun
@@ -82,6 +87,7 @@ acquittal noun
 acre noun
 acreage noun
 acronym noun
+acropolis noun
 acrylamide noun pl=- note=uncountable
 act noun
 action noun
@@ -94,6 +100,7 @@ actress noun
 actuality noun
 actuary noun
 acuity noun
+acumen noun pl=- note=uncountable
 acuteness noun pl=- note=uncountable
 ad noun
 adaptability noun pl=- note=uncountable
@@ -201,6 +208,7 @@ aggressor noun
 agility noun pl=- note=uncountable
 agitation noun
 AGM noun abbr note=annual general meeting
+agnostic noun
 agonist noun
 agony noun
 agreement noun
@@ -227,11 +235,13 @@ airplay noun pl=- note=uncountable
 airport noun
 airship noun
 airspace noun
+airspeed noun
 airstrike noun
 airstrip noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
+alabaster noun pl=- note=uncountable
 alacrity noun pl=- note=uncountable
 alarm noun
 Albanian noun
@@ -239,9 +249,11 @@ album noun
 alcohol noun
 alcoholic noun
 alcoholism noun pl=- note=uncountable
+alder noun
 alderman noun pl=aldermen
 ale noun
 alert noun
+alertness noun pl=- note=uncountable
 alfalfa noun pl=- note=uncountable
 alga noun pl=algae
 algebra noun
@@ -297,6 +309,8 @@ amendment noun
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
+amiability noun pl=- note=uncountable
+amine noun
 amity noun pl=- note=uncountable
 ammonia noun pl=- note=uncountable
 ammonium noun pl=- note=uncountable
@@ -327,12 +341,14 @@ anchor noun
 anchorage noun
 anchovy noun
 ancient noun note=the ancients
+androgen noun
 anecdote noun
 anemia noun gb=anaemia pl=- note=uncountable
 anesthesia noun gb=anaesthesia pl=- note=uncountable
 anesthetic noun gb=anaesthetic
 angel noun
 anger noun pl=- note=uncountable
+angina noun pl=- note=uncountable
 angle noun
 angler noun
 Anglican noun
@@ -361,6 +377,7 @@ anomaly noun
 anonymity noun pl=- note=uncountable
 anonymization noun gb=anonymisation|anonymization
 anorak noun
+anorexia noun pl=- note=uncountable
 answer noun
 ant noun
 antagonism noun
@@ -371,6 +388,7 @@ antelope noun pl=antelope|antelopes
 antenna noun pl=antennas|antennae
 anthem noun
 anthology noun
+anthracite noun pl=- note=uncountable
 anthrax noun pl=- note=uncountable
 anthropologist noun
 anthropology noun
@@ -380,6 +398,7 @@ antibody noun
 antic noun note=mostly plural antics
 anticipation noun
 antidote noun
+antigen noun
 antimicrobial noun
 antipathy noun
 antiquarian noun
@@ -403,6 +422,7 @@ API noun abbr note=application programming interface
 apocalypse noun
 apology noun
 apostle noun
+apothecary noun
 app noun
 apparatus noun pl=apparatus|apparatuses
 apparel noun pl=- note=uncountable
@@ -451,17 +471,20 @@ Arabic noun pl=- note=the language
 arbiter noun
 arbitration noun
 arbitrator noun
+arbor noun gb=arbour
 arboretum noun pl=arboreta|arboretums
 arc noun
 arcade noun
 arch noun
 archaeologist noun us=archeologist|archaeologist conf=90 note=archeologist is a rarer American spelling
 archaeology noun pl=- us=archeology|archaeology conf=90 note=uncountable; archeology is a rarer American spelling
+archangel noun
 archbishop noun
 archdeacon noun
 archdiocese noun
 archer noun
 archery noun pl=- note=uncountable
+archetype noun
 archipelago noun pl=archipelagos|archipelagoes
 architect noun
 architecture noun
@@ -518,6 +541,8 @@ artisan noun
 artist noun
 artwork noun
 asbestos noun pl=- note=uncountable
+ascendancy noun
+ascendency noun pl=- conf=90 note=variant spelling of ascendancy
 ascension noun
 ascent noun
 ascetic noun
@@ -565,6 +590,7 @@ astronaut noun
 astronomer noun
 astronomy noun pl=- note=uncountable
 asylum noun
+atheism noun pl=- note=uncountable
 atheist noun
 Athenian noun
 athlete noun
@@ -608,9 +634,11 @@ audit noun
 audition noun
 auditor noun
 auditorium noun pl=auditoriums|auditoria
+augmentation noun
 aunt noun
 auntie noun
 aunty noun conf=90 note=also auntie
+aura noun
 aurora noun pl=auroras|aurorae
 auspices noun pl_only
 austerity noun
@@ -651,6 +679,7 @@ aviator noun
 avionics noun pl=- note=uncountable
 avocado noun pl=avocados
 avoidance noun pl=- note=uncountable
+avowal noun
 award noun
 awardee noun
 awareness noun pl=- note=uncountable

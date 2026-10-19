@@ -3,6 +3,7 @@ fachkundig adj cmp=fachkundiger sup=fachkundigsten
 fachlich adj
 fade adj cmp=fader sup=fadesten
 fähig adj cmp=fähiger sup=fähigsten
+fahl adj cmp=fahler sup=fahlsten
 fahrlässig adj
 fair adj cmp=fairer sup=fairsten
 faktisch adj
@@ -23,6 +24,7 @@ feige adj cmp=feiger sup=feigsten
 fein adj cmp=feiner sup=feinsten
 feindlich adj
 felsig adj cmp=felsiger sup=felsigsten
+feministisch adj
 fern adj cmp=ferner sup=fernsten
 fertig adj
 fest adj cmp=fester sup=festesten
@@ -34,6 +36,7 @@ feurig adj cmp=feuriger sup=feurigsten
 fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 fiktiv adj
+final adj
 finanziell adj
 findig adj
 finnisch adj
@@ -42,6 +45,7 @@ firm adj pred_only
 fit adj attr=fitte cmp=fitter sup=fittesten
 fix adj cmp=fixer sup=fixesten
 flach adj cmp=flacher sup=flachsten
+flämisch adj
 flauschig adj cmp=flauschiger sup=flauschigsten
 fleckig adj cmp=fleckiger sup=fleckigsten
 fleißig adj cmp=fleißiger sup=fleißigsten
@@ -52,11 +56,14 @@ flüchtig adj cmp=flüchtiger sup=flüchtigsten
 flüssig adj cmp=flüssiger sup=flüssigsten
 föderal adj
 folgsam adj cmp=folgsamer sup=folgsamsten
+förderlich adj cmp=förderlicher sup=förderlichsten
 formal adj
 formell adj cmp=formeller sup=formellsten
 förmlich adj
 fortwährend adj
 fossil adj
+fotografisch adj
+fragil adj cmp=fragiler sup=fragilsten
 fraglich adj
 fränkisch adj
 französisch adj

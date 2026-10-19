@@ -12,6 +12,7 @@ handle         verb
 hang           verb past=hanged pp=hanged sense=execute note=put to death by hanging
 hang           verb past=hung pp=hung sense=suspend
 happen         verb
+harangue verb
 harass verb
 harbor         verb gb=harbour
 harden         verb
@@ -26,6 +27,7 @@ hatch verb
 hate           verb
 haul           verb
 haunt          verb
+haw verb note=in hem and haw
 head           verb
 headhunt verb
 headline verb
@@ -87,6 +89,7 @@ hum            verb
 humble         verb
 humiliate verb
 humor          verb gb=humour
+hump verb
 hunger         verb
 hunt           verb
 hurl           verb

@@ -28,13 +28,16 @@ wanderer noun
 wandering noun note=mostly plural: wanderings
 want noun
 war noun
+warbler noun
 ward noun
 warden noun
+warder noun
 wardrobe noun
 ware noun
 warehouse noun
 warehousing noun pl=- note=uncountable
 warfare noun pl=- note=uncountable
+warfighting noun pl=- conf=90 note=military jargon, uncountable
 warhead noun
 warlord noun
 warmth noun pl=- note=uncountable
@@ -65,6 +68,7 @@ watercourse noun
 waterfall noun
 waterfowl noun pl=waterfowl
 waterfront noun
+waterline noun
 watermelon noun
 watershed noun
 waterway noun
@@ -96,6 +100,7 @@ webpage noun
 website noun
 wedding noun
 wedge noun
+wedlock noun pl=- note=uncountable
 weed noun
 week noun
 weekday noun
@@ -119,6 +124,7 @@ wench noun
 west noun pl=- note=uncountable
 westerly noun
 western noun
+westerner noun
 wetback noun style=offensive note=slur for Mexican immigrants
 wetland noun
 wetsuit noun
@@ -151,6 +157,7 @@ whiteboard noun
 whitelist noun
 whiteness noun pl=- note=uncountable
 whitewash noun
+whitewater noun pl=- note=uncountable
 whitey noun style=offensive note=derogatory term for white people
 whole noun
 wholesale noun pl=- note=uncountable
@@ -222,6 +229,8 @@ wonder noun
 wonderland noun
 wont noun pl=- note=uncountable
 wood noun
+woodbine noun
+woodcock noun pl=woodcocks|woodcock
 woodland noun
 woodpecker noun
 woodwork noun pl=- note=uncountable

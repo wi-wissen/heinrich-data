@@ -24,6 +24,7 @@ kippen verb class=weak pp=gekippt perf=haben|sein
 kitzeln verb class=weak pp=gekitzelt perf=haben
 kläffen verb class=weak pp=gekläfft perf=haben
 klagen verb class=weak pp=geklagt perf=haben
+klappen verb class=weak pp=geklappt perf=haben|sein note=haben in both senses (es hat geklappt); sein for something folding over is regional
 klappern verb class=weak pp=geklappert perf=haben
 klären verb class=weak pp=geklärt perf=haben refl=acc
 klarmachen verb class=weak sep=klar pp=klargemacht perf=haben
@@ -81,6 +82,7 @@ konkretisieren verb class=weak pp=konkretisiert perf=haben
 konkurrieren verb class=weak pp=konkurriert perf=haben
 konsolidieren verb class=weak pp=konsolidiert perf=haben
 konstatieren verb class=weak pp=konstatiert perf=haben
+konstituieren verb class=weak pp=konstituiert perf=haben refl=acc
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
 kontaktieren verb class=weak pp=kontaktiert perf=haben
@@ -108,6 +110,7 @@ krankmelden verb class=weak sep=krank pp=krankgemeldet perf=haben refl=acc note=
 krankschreiben verb class=strong sep=krank 3sg=krankschreibt past=krankschrieb pp=krankgeschrieben subj2=krankschriebe perf=haben note=also written krank schreiben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kraulen verb class=weak pp=gekrault perf=haben
+kreieren verb class=weak pp=kreiert perf=haben
 kreischen verb class=weak pp=gekreischt perf=haben
 kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
@@ -120,9 +123,11 @@ krönen verb class=weak pp=gekrönt perf=haben
 krümmen verb class=weak pp=gekrümmt perf=haben refl=acc
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
+kultivieren verb class=weak pp=kultiviert perf=haben pp_cmp note=ein kultivierter Mensch
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
 kupieren verb class=weak pp=kupiert perf=haben
+küren verb class=weak pp=gekürt perf=haben
 kurieren verb class=weak pp=kuriert perf=haben
 kurven verb class=weak pp=gekurvt perf=sein
 kürzen verb class=weak pp=gekürzt perf=haben

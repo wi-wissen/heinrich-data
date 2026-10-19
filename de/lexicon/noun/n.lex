@@ -5,6 +5,7 @@ Nachbarin noun g=f gen=Nachbarin pl=Nachbarinnen
 Nachbarschaft noun g=f gen=Nachbarschaft pl=Nachbarschaften
 Nachbesserung noun g=f gen=Nachbesserung pl=Nachbesserungen
 Nachdruck noun g=m gen=Nachdrucks|Nachdruckes pl=Nachdrucke note=emphasis (no plural) and reprint (plural Nachdrucke)
+Nachen noun g=m gen=Nachens pl=Nachen note=small boat, elevated
 Nacherfüllung noun g=f gen=Nacherfüllung pl=Nacherfüllungen
 Nachfolge noun g=f gen=Nachfolge pl=- note=no plural
 Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
@@ -21,6 +22,7 @@ Nachmittag noun g=m gen=Nachmittags|Nachmittages pl=Nachmittage
 Nachricht noun g=f gen=Nachricht pl=Nachrichten
 Nachrichtensendung noun g=f gen=Nachrichtensendung pl=Nachrichtensendungen
 Nachschlagewerk noun g=n gen=Nachschlagewerks|Nachschlagewerkes pl=Nachschlagewerke
+Nachschub noun g=m gen=Nachschubs|Nachschubes pl=Nachschübe
 Nachsilbe noun g=f gen=Nachsilbe pl=Nachsilben
 Nächstenliebe noun g=f gen=Nächstenliebe pl=- note=no plural
 Nacht noun g=f gen=Nacht pl=Nächte
@@ -43,6 +45,7 @@ Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
 Naht noun g=f gen=Naht pl=Nähte
 Nahverkehr noun g=m gen=Nahverkehrs pl=- note=no plural (mass or abstract noun)
+Naivität noun g=f gen=Naivität pl=- note=mass noun
 Name         noun g=m gen=Namens pl=Namen
 Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
@@ -53,8 +56,10 @@ Narzisse noun g=f gen=Narzisse pl=Narzissen
 Narzissenbeet noun g=n gen=Narzissenbeets pl=Narzissenbeete
 Nase noun g=f gen=Nase pl=Nasen
 Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
+Nässe noun g=f gen=Nässe pl=- note=mass noun
 Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
+Nationalist noun g=m gen=Nationalisten pl=Nationalisten
 Nationalität noun g=f gen=Nationalität pl=Nationalitäten
 Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
 Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
@@ -67,6 +72,7 @@ Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Navigation noun g=f gen=Navigation pl=- note=mass noun
 Nazi noun g=m gen=Nazis pl=Nazis
 Nebel noun g=m gen=Nebels pl=Nebel
+Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
 Nebenhandlung noun g=f gen=Nebenhandlung pl=Nebenhandlungen
 Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
@@ -85,6 +91,7 @@ Nenner noun g=m gen=Nenners pl=Nenner
 Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neologismus noun g=m gen=Neologismus pl=Neologismen
+Neonazi noun g=m gen=Neonazis pl=Neonazis
 Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
@@ -97,11 +104,14 @@ Neugier noun g=f gen=Neugier pl=- note=abstract noun
 Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
 Neujahr noun g=n gen=Neujahrs pl=Neujahre
+Neuling noun g=m gen=Neulings pl=Neulinge
+Neurologie noun g=f gen=Neurologie pl=- note=field of medicine
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutron noun g=n gen=Neutrons pl=Neutronen
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
 Newsletter noun g=m gen=Newsletters pl=Newsletter
 NGO noun g=f gen=NGO pl=NGOs
+Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die Nibelungen
 Nichte noun g=f gen=Nichte pl=Nichten
 Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
@@ -109,12 +119,14 @@ Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
 Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
+Niederung noun g=f gen=Niederung pl=Niederungen
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
 Nische noun g=f gen=Nische pl=Nischen
+Nitrat noun g=n gen=Nitrats|Nitrates pl=Nitrate
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
@@ -127,6 +139,8 @@ Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
 Norm noun g=f gen=Norm pl=Normen
 Normalität noun g=f gen=Normalität pl=- note=no plural
+Normanne noun g=m gen=Normannen pl=Normannen
+Normung noun g=f gen=Normung pl=Normungen
 Norweger noun g=m gen=Norwegers pl=Norweger
 Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Not noun g=f gen=Not pl=Nöte
@@ -135,6 +149,7 @@ Notarin noun g=f gen=Notarin pl=Notarinnen
 Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
 Noten noun g=pl
+Notifizierung noun g=f gen=Notifizierung pl=Notifizierungen
 Notiz noun g=f gen=Notiz pl=Notizen
 Notizbuch noun g=n gen=Notizbuchs|Notizbuches pl=Notizbücher
 Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
@@ -142,6 +157,7 @@ Nougat noun g=m|n gen=Nougats pl=Nougats
 Novelle noun g=f gen=Novelle pl=Novellen
 Novellierung noun g=f gen=Novellierung pl=Novellierungen
 November noun g=m gen=November|Novembers pl=November[rare] note=month name; plural rare
+Novum noun g=n gen=Novums pl=Nova
 Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
@@ -149,6 +165,8 @@ Nuggets noun g=pl
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Nummer noun g=f gen=Nummer pl=Nummern
+Nummerierung noun g=f gen=Nummerierung pl=Nummerierungen
+Nuntius noun g=m gen=Nuntius pl=Nuntien note=papal envoy; bare genitive
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
 Nussknacker noun g=m gen=Nussknackers pl=Nussknacker

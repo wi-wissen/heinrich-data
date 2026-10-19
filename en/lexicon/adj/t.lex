@@ -11,9 +11,11 @@ tame adj cmp=er
 Tamil adj
 tan adj note=the colour
 tangible adj
+tardy adj cmp=er adv=tardily
 tasteless adj cmp=more
 tasty adj cmp=er
 tattered adj
+taut adj cmp=er adv=tautly
 tawny adj cmp=er
 taxable adj
 taxonomic adj adv=taxonomically
@@ -25,7 +27,9 @@ tectonic adj
 tedious adj cmp=more adv=tediously
 teenage adj
 teeny adj style=colloquial
+telltale adj
 temperate adj
+tempestuous adj cmp=more adv=tempestuously
 temporal adj
 temporary adj adv=temporarily
 tenacious adj cmp=more adv=tenaciously
@@ -96,6 +100,7 @@ topographical adj
 topological adj adv=topologically
 tortuous adj
 total adj adv=totally
+totemic adj
 tough adj cmp=er
 towering adj
 toxic adj
@@ -104,6 +109,7 @@ traditional adj adv=traditionally
 tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 trans adj note=transgender; also chemistry (trans isomer)
+transactional adj
 transatlantic adj
 transcendent adj
 transcendental adj
@@ -124,7 +130,7 @@ traumatic adj
 treacherous adj
 treble adj
 tremendous adj adv=tremendously
-tremulous adj
+tremulous adj adv=tremulously
 trendy adj cmp=er
 triable adj
 triangular adj
@@ -137,6 +143,7 @@ triumphal adj
 triumphant adj adv=triumphantly
 trivial adj
 Trojan adj
+trophic adj
 tropical adj
 troublesome adj
 true adj cmp=er adv=truly
@@ -146,6 +153,7 @@ truthful adj cmp=more adv=truthfully
 tubular adj
 tufted adj
 tumultuous adj
+turbid adj
 turbulent adj
 Turkic adj
 Turkish adj

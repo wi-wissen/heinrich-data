@@ -45,6 +45,7 @@ raustragen verb class=strong sep=raus 3sg=rausträgt past=raustrug subj2=raustr�
 rauswerfen verb class=strong sep=raus 3sg=rauswirft past=rauswarf subj2=rauswürfe pp=rausgeworfen perf=haben
 rausziehen verb class=strong sep=raus 3sg=rauszieht past=rauszog subj2=rauszöge pp=rausgezogen perf=haben
 reagieren verb class=weak pp=reagiert perf=haben
+reaktivieren verb class=weak pp=reaktiviert perf=haben
 realisieren verb class=weak pp=realisiert perf=haben
 rebellieren verb class=weak pp=rebelliert perf=haben
 recherchieren verb class=weak pp=recherchiert perf=haben
@@ -99,6 +100,7 @@ reizen verb class=weak pp=gereizt perf=haben
 reklamieren verb class=weak pp=reklamiert perf=haben
 rekonstruieren verb class=weak pp=rekonstruiert perf=haben
 rekrutieren verb class=weak pp=rekrutiert perf=haben
+relativieren verb class=weak pp=relativiert perf=haben
 relaxen verb class=weak pp=gerelaxt perf=haben
 rempeln verb class=weak pp=gerempelt perf=haben
 rennen verb class=mixed 3sg=rennt past=rannte pp=gerannt subj2=rennte perf=sein|haben
@@ -107,6 +109,7 @@ reparieren verb class=weak pp=repariert perf=haben
 repräsentieren verb class=weak pp=repräsentiert perf=haben
 reservieren verb class=weak pp=reserviert perf=haben
 resetten verb class=weak pp=resettet perf=haben conf=80 note=IT jargon; participle resettet without ge- (stress on the second syllable)
+residieren verb class=weak pp=residiert perf=haben
 respektieren verb class=weak pp=respektiert perf=haben
 restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben
@@ -152,9 +155,11 @@ rücken verb class=weak pp=gerückt perf=haben|sein
 rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
 rudern verb class=weak pp=gerudert perf=haben|sein
 rufen verb class=strong 3sg=ruft past=rief pp=gerufen subj2=riefe perf=haben
+rügen verb class=weak pp=gerügt perf=haben
 ruhen verb class=weak pp=geruht perf=haben
 rühmen verb class=weak pp=gerühmt perf=haben
 rühren verb class=weak pp=gerührt perf=haben refl=acc
+ruinieren verb class=weak pp=ruiniert perf=haben
 rülpsen verb class=weak pp=gerülpst perf=haben
 rumoren verb class=weak pp=gerumort perf=haben
 rumpeln verb class=weak pp=gerumpelt perf=haben|sein

@@ -2,6 +2,7 @@ seaward adv
 secondly adv type=conj
 seldom adv type=frequency
 severally adv note=legal register: jointly and severally
+sidelong adv type=manner
 sideways adv
 smilingly adv type=manner
 someday adv type=time
