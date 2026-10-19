@@ -32,6 +32,7 @@ Zeichentrickfilm noun g=m gen=Zeichentrickfilms|Zeichentrickfilmes pl=Zeichentri
 Zeichner noun g=m gen=Zeichners pl=Zeichner
 Zeichnerin noun g=f gen=Zeichnerin pl=Zeichnerinnen
 Zeichnung noun g=f gen=Zeichnung pl=Zeichnungen
+Zeiger noun g=m gen=Zeigers pl=Zeiger
 Zeile noun g=f gen=Zeile pl=Zeilen
 Zeisig noun g=m gen=Zeisigs pl=Zeisige
 Zeit noun g=f gen=Zeit pl=Zeiten
@@ -49,9 +50,11 @@ Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
+Zement noun g=m gen=Zements|Zementes pl=Zemente
 Zensur noun g=f gen=Zensur pl=Zensuren
 Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensus)
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
+Zentner noun g=m gen=Zentners pl=Zentner
 Zentrale noun g=f gen=Zentrale pl=Zentralen
 Zentrum noun g=n gen=Zentrums pl=Zentren
 Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
@@ -146,6 +149,7 @@ Zulage noun g=f gen=Zulage pl=Zulagen
 Zulässigkeit noun g=f gen=Zulässigkeit pl=- note=no plural
 Zulassung noun g=f gen=Zulassung pl=Zulassungen
 Zunahme noun g=f gen=Zunahme pl=Zunahmen
+Zündung noun g=f gen=Zündung pl=Zündungen
 Zuneigung noun g=f gen=Zuneigung pl=- note=no plural in practice
 Zunft noun g=f gen=Zunft pl=Zünfte
 Zunge noun g=f gen=Zunge pl=Zungen
@@ -210,3 +214,4 @@ Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder
+Zynismus noun g=m gen=Zynismus pl=Zynismen

@@ -82,6 +82,7 @@ vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
 vollwertig adj
 vollziehbar adj
+vonnöten adj pred_only note=vonnöten sein
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
@@ -98,6 +99,7 @@ vorrätig adj
 vorsätzlich adj
 vorschriftsgemäß adj
 vorsichtig adj
+vorsorglich adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten
 vortrefflich adj
 vorwiegend adj

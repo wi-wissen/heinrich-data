@@ -7,8 +7,10 @@ effizient adj cmp=effizienter sup=effizientesten
 egal adj indecl note=only predicative
 ehemalig adj
 ehrenamtlich adj
+ehrerbietig adj cmp=ehrerbietiger sup=ehrerbietigsten
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
+eidgenössisch adj
 eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
 eiförmig adj
 eifrig adj cmp=eifriger sup=eifrigsten
@@ -19,9 +21,11 @@ eigentümlich adj cmp=eigentümlicher sup=eigentümlichsten
 eilig adj cmp=eiliger sup=eiligsten
 eindeutig adj cmp=eindeutiger sup=eindeutigsten
 eindringlich adj cmp=eindringlicher sup=eindringlichsten
+eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
+eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
@@ -102,6 +106,7 @@ eventuell adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+existent adj
 experimentell adj
 explizit adj
 explosiv adj

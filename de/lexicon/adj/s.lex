@@ -1,4 +1,5 @@
 sachgemäß adj
+sachkundig adj cmp=sachkundiger sup=sachkundigsten
 sachlich adj cmp=sachlicher sup=sachlichsten
 sächlich adj
 sächsisch adj
@@ -31,6 +32,7 @@ schlank adj cmp=schlanker sup=schlanksten
 schlapp adj cmp=schlapper sup=schlappsten
 schlau adj cmp=schlauer sup=schlausten|schlauesten
 schlecht adj cmp=schlechter sup=schlechtesten
+schleswig-holsteinisch adj
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
@@ -106,6 +108,7 @@ sogenannt adj
 solidarisch adj cmp=solidarischer sup=solidarischsten
 solide adj cmp=solider sup=solidesten
 solvent adj
+somalisch adj
 sommerlich adj cmp=sommerlicher sup=sommerlichsten
 sommersprossig adj
 sonderbar adj cmp=sonderbarer sup=sonderbarsten
@@ -126,6 +129,7 @@ spärlich adj cmp=spärlicher sup=spärlichsten
 sparsam adj cmp=sparsamer sup=sparsamsten
 spaßig adj cmp=spaßiger sup=spaßigsten
 spät adj cmp=später sup=spätesten
+spekulativ adj cmp=spekulativer sup=spekulativsten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
 spießbürgerlich adj
@@ -182,6 +186,7 @@ subsidiär adj
 subtropisch adj
 süchtig adj cmp=süchtiger sup=süchtigsten
 südafrikanisch adj
+sudanesisch adj
 süddeutsch adj
 südkoreanisch adj
 südlich adj note=also a genitive preposition (closed/prepositions.lex)
@@ -194,5 +199,7 @@ süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj
 sympathisch adj cmp=sympathischer sup=sympathischsten
+synchron adj
 syrisch adj
 systematisch adj cmp=systematischer sup=systematischsten
+systemisch adj

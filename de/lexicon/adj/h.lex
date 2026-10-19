@@ -1,6 +1,7 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 halb         adj note=not compared; ein halber Liter
+hannoversch adj
 hären adj conf=80 note=rare, hären = of hair
 harmlos adj cmp=harmloser sup=harmlosesten
 harmonisch adj
@@ -36,6 +37,7 @@ hilflos adj cmp=hilfloser sup=hilflosesten
 hilfreich adj cmp=hilfreicher sup=hilfreichsten
 hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
+hinderlich adj cmp=hinderlicher sup=hinderlichsten
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
 hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
@@ -43,6 +45,8 @@ hinterlistig adj cmp=hinterlistiger sup=hinterlistigsten
 historisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
+hochgradig adj
+hochmütig adj cmp=hochmütiger sup=hochmütigsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten

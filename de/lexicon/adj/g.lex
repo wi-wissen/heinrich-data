@@ -80,6 +80,7 @@ gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
+gewesen adj note=attributive participle of sein (der gewesene Minister); aux entries generate no participle adjectives
 gewiss adj cmp=gewisser sup=gewissesten
 gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewittrig adj
@@ -89,6 +90,7 @@ geworden adj attr_only note=participle of werden used attributively (ein groß g
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
 glänzend adj cmp=glänzender sup=glänzendsten
+gläsern adj
 glatt adj cmp=glatter sup=glattesten
 glaubhaft adj cmp=glaubhafter sup=glaubhaftesten
 gläubig adj cmp=gläubiger sup=gläubigsten
@@ -108,6 +110,7 @@ gnädig adj cmp=gnädiger sup=gnädigsten
 golden adj
 gotisch adj
 göttlich adj
+gräflich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
 grammatikalisch adj
 grammatisch adj
@@ -125,7 +128,9 @@ grimmig adj cmp=grimmiger sup=grimmigsten
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
+größtmöglich adj
 großzügig adj cmp=großzügiger sup=großzügigsten
+grotesk adj cmp=grotesker sup=groteskesten
 grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten

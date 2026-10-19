@@ -2,6 +2,7 @@ bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
 bankrott adj
 bar adj
+barbarisch adj cmp=barbarischer sup=barbarischsten
 barock adj
 barrierefrei adj
 bärtig adj
@@ -10,6 +11,7 @@ bäuerlich adj
 baulich adj
 bayerisch adj
 bedacht adj note=bedacht auf etwas; participle of bedenken with own meaning
+bedächtig adj cmp=bedächtiger sup=bedächtigsten
 bedauerlich adj cmp=bedauerlicher sup=bedauerlichsten
 bedeckt adj
 bedenklich adj cmp=bedenklicher sup=bedenklichsten
@@ -38,6 +40,7 @@ beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
 beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
+beklommen adj cmp=beklommener sup=beklommensten
 bekloppt adj cmp=bekloppter sup=beklopptesten
 beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
@@ -50,6 +53,7 @@ bequem adj cmp=bequemer sup=bequemsten
 bereit adj
 bergig adj cmp=bergiger sup=bergigsten
 beruflich adj
+berufsständisch adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten

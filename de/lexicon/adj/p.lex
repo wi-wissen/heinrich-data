@@ -1,3 +1,4 @@
+pakistanisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele
@@ -13,6 +14,7 @@ persisch adj
 personell adj
 persönlich adj
 pessimistisch adj cmp=pessimistischer sup=pessimistischsten
+pfälzisch adj
 pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
 pflichtgemäß adj
@@ -23,6 +25,7 @@ physisch adj
 pickelig adj cmp=pickeliger sup=pickeligsten
 pikant adj cmp=pikanter sup=pikantesten
 plangemäß adj
+platt adj cmp=platter sup=plattesten
 plausibel adj cmp=plausibler sup=plausibelsten
 pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
@@ -37,6 +40,7 @@ positiv adj cmp=positiver sup=positivsten
 postalisch adj
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
+praktikabel adj cmp=praktikabler sup=praktikabelsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
 präzise adj cmp=präziser sup=präzisesten

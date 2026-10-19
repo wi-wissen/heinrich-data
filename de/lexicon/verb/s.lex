@@ -19,6 +19,7 @@ schädigen verb class=weak pp=geschädigt perf=haben
 schaffen verb class=strong 3sg=schafft past=schuf pp=geschaffen subj2=schüfe perf=haben sense=create note=etwas schaffen: to create
 schaffen verb class=weak pp=geschafft perf=haben sense=manage note=etwas schaffen: to manage, accomplish
 schälen verb class=weak pp=geschält perf=haben refl=acc
+schallen verb class=weak past=schallte|scholl subj2=schallte|schölle[rare] pp=geschallt perf=haben note=scholl is the literary strong preterite
 schämen verb class=weak pp=geschämt perf=haben refl=acc
 scharren verb class=weak pp=gescharrt perf=haben
 schattieren verb class=weak pp=schattiert perf=haben
@@ -35,6 +36,7 @@ scheppern verb class=weak pp=gescheppert perf=haben
 scheren verb class=strong 3sg=schert|schiert[rare] past=schor pp=geschoren subj2=schöre perf=haben
 scheren verb class=strong 3sg=schert past=schor pp=geschoren subj2=schöre perf=haben sense=cut note=Schafe scheren; den Kopf scheren
 scheren verb class=weak pp=geschert perf=haben refl=acc sense=care note=sich nicht um etwas scheren
+scherzen verb class=weak pp=gescherzt perf=haben
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
 schielen verb class=weak pp=geschielt perf=haben
@@ -76,6 +78,7 @@ schmeicheln verb class=weak pp=geschmeichelt perf=haben
 schmeißen verb class=strong 3sg=schmeißt past=schmiss pp=geschmissen subj2=schmisse perf=haben note=colloquial standard: den Ball schmeißen
 schmelzen verb class=strong 3sg=schmilzt past=schmolz pp=geschmolzen subj2=schmölze perf=haben|sein
 schmerzen verb class=weak pp=geschmerzt perf=haben
+schmieden verb class=weak pp=geschmiedet perf=haben
 schmieren verb class=weak pp=geschmiert perf=haben note=pp geschmiert is correct; not an -ieren verb
 schminken verb class=weak pp=geschminkt perf=haben refl=acc
 schmollen verb class=weak pp=geschmollt perf=haben
@@ -112,6 +115,7 @@ schrumpfen verb class=weak pp=geschrumpft perf=sein
 schubsen verb class=weak pp=geschubst perf=haben
 schulden verb class=weak pp=geschuldet perf=haben
 schulen verb class=weak pp=geschult perf=haben
+schultern verb class=weak pp=geschultert perf=haben
 schummeln verb class=weak pp=geschummelt perf=haben
 schunkeln verb class=weak pp=geschunkelt perf=haben
 schüren verb class=weak pp=geschürt perf=haben
@@ -248,6 +252,7 @@ streichen verb class=strong 3sg=streicht past=strich pp=gestrichen subj2=striche
 streifen verb class=weak pp=gestreift perf=haben|sein
 streiken verb class=weak pp=gestreikt perf=haben
 streiten verb class=strong 3sg=streitet past=stritt pp=gestritten subj2=stritte perf=haben refl=acc
+streuen verb class=weak pp=gestreut perf=haben
 stricken verb class=weak pp=gestrickt perf=haben
 striegeln verb class=weak pp=gestriegelt perf=haben
 strömen verb class=weak pp=geströmt perf=haben|sein

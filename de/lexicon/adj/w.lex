@@ -1,6 +1,7 @@
 waagerecht adj
 wach adj cmp=wacher sup=wachsten
 wachsam adj cmp=wachsamer sup=wachsamsten
+wacker adj cmp=wackerer sup=wackersten
 waghalsig adj cmp=waghalsiger sup=waghalsigsten
 wählerisch adj cmp=wählerischer sup=wählerischsten
 wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten
@@ -44,6 +45,7 @@ wirklich adj
 wirksam adj cmp=wirksamer sup=wirksamsten
 wirtschaftlich adj cmp=wirtschaftlicher sup=wirtschaftlichsten
 wissenschaftlich adj
+wissentlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten

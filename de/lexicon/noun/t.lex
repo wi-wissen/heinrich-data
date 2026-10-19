@@ -107,6 +107,7 @@ Term noun g=m gen=Terms pl=Terme
 Termin noun g=m gen=Termins pl=Termine
 Terminal noun g=n gen=Terminals pl=Terminals note=das Terminal (airport, computer)
 Terminierung noun g=f gen=Terminierung pl=Terminierungen
+Terminus noun g=m gen=Terminus pl=Termini note=des Terminus
 Terrain noun g=n gen=Terrains pl=Terrains
 Terrarium noun g=n gen=Terrariums pl=Terrarien
 Terrasse noun g=f gen=Terrasse pl=Terrassen
@@ -192,6 +193,7 @@ Top noun g=n gen=Tops pl=Tops
 Topf noun g=m gen=Topfs|Topfes pl=Töpfe
 Töpfer noun g=m gen=Töpfers pl=Töpfer
 Topflappen noun g=m gen=Topflappens pl=Topflappen
+Topologie noun g=f gen=Topologie pl=Topologien
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
 Tor noun g=m gen=Toren pl=Toren sense=fool note=der Tor, weak masculine
 Torf noun g=m gen=Torfs|Torfes pl=- note=no plural
@@ -271,6 +273,8 @@ Treue noun g=f gen=Treue pl=- note=no plural
 Treuhänder noun g=m gen=Treuhänders pl=Treuhänder
 Treuhänderin noun g=f gen=Treuhänderin pl=Treuhänderinnen
 Triangel noun g=m gen=Triangels pl=Triangel
+Triathlet noun g=m gen=Triathleten pl=Triathleten
+Triathletin noun g=f gen=Triathletin pl=Triathletinnen
 Tribüne noun g=f gen=Tribüne pl=Tribünen
 Tribut noun g=m gen=Tributs|Tributes pl=Tribute
 Trieb noun g=m gen=Triebs|Triebes pl=Triebe
@@ -284,6 +288,7 @@ Trockner noun g=m gen=Trockners pl=Trockner
 Trödel noun g=m gen=Trödels pl=- note=no plural (mass or abstract noun)
 Trog noun g=m gen=Troges|Trogs pl=Tröge
 Trojaner noun g=m gen=Trojaners pl=Trojaner
+Troll noun g=m gen=Trolls|Trolles pl=Trolle
 Trommel noun g=f gen=Trommel pl=Trommeln
 Trompete noun g=f gen=Trompete pl=Trompeten
 Trompeter noun g=m gen=Trompeters pl=Trompeter
@@ -291,10 +296,12 @@ Trompeterin noun g=f gen=Trompeterin pl=Trompeterinnen
 Tropen noun g=pl
 Tropfen noun g=m gen=Tropfens pl=Tropfen
 Tropfstein noun g=m gen=Tropfsteins pl=Tropfsteine
+Trophäe noun g=f gen=Trophäe pl=Trophäen
 Trost noun g=m gen=Trostes|Trosts pl=- note=no plural
 Truhe noun g=f gen=Truhe pl=Truhen
 Trümmer noun g=pl
 Trümmerfrau noun g=f gen=Trümmerfrau pl=Trümmerfrauen
+Trunkenheit noun g=f gen=Trunkenheit pl=- note=mass noun
 Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
 Trust noun g=m gen=Trusts pl=Trusts
@@ -322,6 +329,8 @@ Türklinke noun g=f gen=Türklinke pl=Türklinken note=compound not split correc
 Turm noun g=m gen=Turmes|Turms pl=Türme
 Turnbeutel noun g=m gen=Turnbeutels pl=Turnbeutel
 Turnen noun g=n gen=Turnens pl=- note=no plural (mass or abstract noun)
+Turner noun g=m gen=Turners pl=Turner
+Turnerin noun g=f gen=Turnerin pl=Turnerinnen
 Turnhalle noun g=f gen=Turnhalle pl=Turnhallen
 Turnier noun g=n gen=Turniers|Turnieres pl=Turniere
 Turnschuh noun g=m gen=Turnschuhs|Turnschuhes pl=Turnschuhe
@@ -329,5 +338,6 @@ Tussi noun g=f gen=Tussi pl=Tussis style=colloquial
 Tüte noun g=f gen=Tüte pl=Tüten
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
 Typ noun g=m gen=Typs pl=Typen
+Typhus noun g=m gen=Typhus pl=- note=disease
 Typus noun g=m gen=Typus pl=Typen note=bare genitive of an -us noun
 Tyrann noun g=m gen=Tyrannen pl=Tyrannen

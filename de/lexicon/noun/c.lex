@@ -62,6 +62,7 @@ Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Chor          noun g=m gen=Chores|Chors pl=Chöre
+Choral noun g=m gen=Chorals pl=Choräle
 Christ noun g=m gen=Christen pl=Christen
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christin noun g=f gen=Christin pl=Christinnen
@@ -69,6 +70,7 @@ Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
 Chronistin noun g=f gen=Chronistin pl=Chronistinnen
+Chronologie noun g=f gen=Chronologie pl=Chronologien
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
 Clip noun g=m gen=Clips pl=Clips

@@ -3,6 +3,7 @@ jährig adj attr_only note=only as second part of compounds (einjährig, 5-jähr
 jährlich adj
 jämmerlich adj cmp=jämmerlicher sup=jämmerlichsten
 japanisch adj
+jenseitig adj
 jetzig adj attr_only
 jeweilig adj note=attributive only
 jüdisch adj

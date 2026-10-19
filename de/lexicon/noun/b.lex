@@ -32,12 +32,14 @@ Ballaststoff noun g=m gen=Ballaststoffs|Ballaststoffes pl=Ballaststoffe
 Ballett noun g=n gen=Balletts|Ballettes pl=Ballette
 Ballon noun g=m gen=Ballons pl=Ballons|Ballone
 Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
+Balsam noun g=m gen=Balsams pl=Balsame
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
 Bambus noun g=m gen=Bambus|Bambusses pl=Bambusse
 Banane noun g=f gen=Banane pl=Bananen
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume
 Band          noun g=n gen=Bandes|Bands pl=Bänder|Bande[rare] sense=ribbon
 Band          noun g=f gen=Band pl=Bands sense=music_group
+Bändchen noun g=n gen=Bändchens pl=Bändchen
 Bandleader noun g=m gen=Bandleaders pl=Bandleader
 Bank          noun g=f gen=Bank pl=Bänke sense=seat
 Bank          noun g=f gen=Bank pl=Banken sense=financial
@@ -50,10 +52,13 @@ Baptist noun g=m gen=Baptisten pl=Baptisten
 Baptistin noun g=f gen=Baptistin pl=Baptistinnen
 Bar noun g=f gen=Bar pl=Bars sense=pub note=die Bar: pub, counter
 Bär noun g=m gen=Bären pl=Bären
+Baracke noun g=f gen=Baracke pl=Baracken
 Bariton noun g=m gen=Baritons pl=Baritone
+Barke noun g=f gen=Barke pl=Barken
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
 Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
 Baron         noun g=m gen=Barons pl=Barone
+Baronesse noun g=f gen=Baronesse pl=Baronessen
 Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
 Barrierefreiheit noun g=f gen=Barrierefreiheit pl=- note=no plural
@@ -161,6 +166,7 @@ Begründung    noun g=f gen=Begründung pl=Begründungen
 Begutachtung noun g=f gen=Begutachtung pl=Begutachtungen
 Behagen noun g=n gen=Behagens pl=- note=no plural
 Behälter noun g=m gen=Behälters pl=Behälter
+Behältnis noun g=n gen=Behältnisses pl=Behältnisse
 Behandlung    noun g=f gen=Behandlung pl=Behandlungen
 Behang noun g=m gen=Behangs|Behanges pl=Behänge
 Behauptung noun g=f gen=Behauptung pl=Behauptungen
@@ -240,6 +246,7 @@ Berechnung    noun g=f gen=Berechnung pl=Berechnungen
 Berechtigte noun g=m|f decl=adj note=die Berechtigten
 Berechtigung noun g=f gen=Berechtigung pl=Berechtigungen
 Bereich       noun g=m gen=Bereichs|Bereiches pl=Bereiche
+Bereinigung noun g=f gen=Bereinigung pl=Bereinigungen
 Bereitschaft noun g=f gen=Bereitschaft pl=Bereitschaften
 Bereitstellung noun g=f gen=Bereitstellung pl=Bereitstellungen
 Berg          noun g=m gen=Berges|Bergs pl=Berge
@@ -264,16 +271,19 @@ Berufsgenossenschaft noun g=f gen=Berufsgenossenschaft pl=Berufsgenossenschaften
 Berufsschule noun g=f gen=Berufsschule pl=Berufsschulen
 Berufung noun g=f gen=Berufung pl=Berufungen
 Berührung noun g=f gen=Berührung pl=Berührungen
+Besatzer noun g=m gen=Besatzers pl=Besatzer
 Besatzung noun g=f gen=Besatzung pl=Besatzungen
 Beschädigung noun g=f gen=Beschädigung pl=Beschädigungen
 Beschaffenheit noun g=f gen=Beschaffenheit pl=- note=mass noun
 Beschaffung noun g=f gen=Beschaffung pl=Beschaffungen
 Beschäftigte  noun g=m|f decl=adj
 Beschäftigung noun g=f gen=Beschäftigung pl=Beschäftigungen
+Beschauer noun g=m gen=Beschauers pl=Beschauer
 Bescheid noun g=m gen=Bescheids|Bescheides pl=Bescheide
 Bescheidenheit noun g=f gen=Bescheidenheit pl=- note=no plural
 Bescheinigung noun g=f gen=Bescheinigung pl=Bescheinigungen
 Bescherung noun g=f gen=Bescherung pl=Bescherungen
+Beschichtung noun g=f gen=Beschichtung pl=Beschichtungen
 Beschlagnahme noun g=f gen=Beschlagnahme pl=Beschlagnahmen
 Beschleunigung noun g=f gen=Beschleunigung pl=Beschleunigungen
 Beschluss     noun g=m gen=Beschlusses pl=Beschlüsse
@@ -294,6 +304,7 @@ Besinnung noun g=f gen=Besinnung pl=- note=no plural
 Besitz        noun g=m gen=Besitzes pl=- note=no regular plural
 Besitzer      noun g=m gen=Besitzers pl=Besitzer
 Besitzerin noun g=f gen=Besitzerin pl=Besitzerinnen
+Besitztum noun g=n gen=Besitztums pl=Besitztümer
 Besitzung noun g=f gen=Besitzung pl=Besitzungen
 Besoldung noun g=f gen=Besoldung pl=Besoldungen
 Besoldungsgruppe noun g=f gen=Besoldungsgruppe pl=Besoldungsgruppen
@@ -375,6 +386,7 @@ Bewirtschaftung noun g=f gen=Bewirtschaftung pl=- note=no plural
 Bewirtung noun g=f gen=Bewirtung pl=Bewirtungen
 Bewohner      noun g=m gen=Bewohners pl=Bewohner
 Bewohnerin noun g=f gen=Bewohnerin pl=Bewohnerinnen
+Bewunderer noun g=m gen=Bewunderers pl=Bewunderer
 Bewunderung noun g=f gen=Bewunderung pl=- note=mass noun
 Bewusstsein noun g=n gen=Bewusstseins pl=- note=mass noun
 Bezahlung noun g=f gen=Bezahlung pl=Bezahlungen
@@ -583,6 +595,7 @@ Büchse noun g=f gen=Büchse pl=Büchsen
 Buchstabe     noun g=m gen=Buchstabens pl=Buchstaben
 Bucht noun g=f gen=Bucht pl=Buchten
 Buchung noun g=f gen=Buchung pl=Buchungen
+Buckel noun g=m gen=Buckels pl=Buckel
 Buddhismus noun g=m gen=Buddhismus pl=- note=no plural
 Buddhist noun g=m gen=Buddhisten pl=Buddhisten
 Buddhistin noun g=f gen=Buddhistin pl=Buddhistinnen
@@ -625,6 +638,7 @@ Bürgermeisterei noun g=f gen=Bürgermeisterei pl=Bürgermeistereien
 Bürgermeisterin noun g=f gen=Bürgermeisterin pl=Bürgermeisterinnen
 Bürgerschaft noun g=f gen=Bürgerschaft pl=Bürgerschaften
 Bürgersteig noun g=m gen=Bürgersteigs|Bürgersteiges pl=Bürgersteige
+Bürgertum noun g=n gen=Bürgertums pl=- note=collective noun
 Burgherr noun g=m gen=Burgherrn pl=Burgherren
 Bürgin noun g=f gen=Bürgin pl=Bürginnen
 Bürgschaft noun g=f gen=Bürgschaft pl=Bürgschaften

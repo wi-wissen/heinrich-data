@@ -45,6 +45,7 @@ respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rheinisch adj
+rheinland-pfälzisch adj
 rhetorisch adj
 richtig adj cmp=richtiger sup=richtigsten
 riesig adj cmp=riesiger sup=riesigsten

@@ -56,6 +56,7 @@ Handwerk noun g=n gen=Handwerks|Handwerkes pl=Handwerke
 Handwerker noun g=m gen=Handwerkers pl=Handwerker
 Handwerkerin noun g=f gen=Handwerkerin pl=Handwerkerinnen
 Handy noun g=n gen=Handys pl=Handys
+Hanf noun g=m gen=Hanfs|Hanfes pl=- note=mass noun
 Hang noun g=m gen=Hangs|Hanges pl=Hänge
 Hängematte noun g=f gen=Hängematte pl=Hängematten note=compound not split correctly by the analyser
 Hanse noun g=f gen=Hanse pl=- note=die Hanse (trade league)
@@ -80,6 +81,7 @@ Haube noun g=f gen=Haube pl=Hauben
 Haubentaucher noun g=m gen=Haubentauchers pl=Haubentaucher
 Hauch noun g=m gen=Hauchs|Hauches pl=Hauche
 Hauer noun g=m gen=Hauers pl=Hauer
+Haufe noun g=m gen=Haufens pl=Haufen style=archaic note=older form of Haufen
 Haufen noun g=m gen=Haufens pl=Haufen
 Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
 Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
@@ -117,6 +119,7 @@ Hefe noun g=f gen=Hefe pl=Hefen
 Heft noun g=n gen=Heftes|Hefts pl=Hefte
 Hefter noun g=m gen=Hefters pl=Hefter
 Heftigkeit noun g=f gen=Heftigkeit pl=- note=no plural in practice
+Hehl noun g=n|m gen=Hehls pl=- note=only in kein(en) Hehl aus etwas machen
 Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
 Heidelbeere noun g=f gen=Heidelbeere pl=Heidelbeeren
@@ -150,6 +153,7 @@ Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
 Helm noun g=m gen=Helms|Helmes pl=Helme
 Helpdesk noun g=m gen=Helpdesks pl=Helpdesks
 Hemd noun g=n gen=Hemds|Hemdes pl=Hemden
+Hemmnis noun g=n gen=Hemmnisses pl=Hemmnisse
 Hemmung noun g=f gen=Hemmung pl=Hemmungen
 Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
 Henkel noun g=m gen=Henkels pl=Henkel
@@ -186,6 +190,7 @@ Herzogtum noun g=n gen=Herzogtums pl=Herzogtümer
 Hesse noun g=m gen=Hessen pl=Hessen note=inhabitant of Hesse
 Hetze noun g=f gen=Hetze pl=- note=mass noun
 Heu noun g=n gen=Heus|Heues pl=- note=mass noun
+Heuchler noun g=m gen=Heuchlers pl=Heuchler
 Heuschober noun g=m gen=Heuschobers pl=Heuschober
 Hexameter noun g=m gen=Hexameters pl=Hexameter
 Hexe noun g=f gen=Hexe pl=Hexen
@@ -219,8 +224,10 @@ Hirsch noun g=m gen=Hirschs|Hirsches pl=Hirsche
 Hirse noun g=f gen=Hirse pl=- note=no plural
 Hirt noun g=m gen=Hirten pl=Hirten
 Hirte noun g=m gen=Hirten pl=Hirten
+Historie noun g=f gen=Historie pl=Historien
 Historiker noun g=m gen=Historikers pl=Historiker
 Historikerin noun g=f gen=Historikerin pl=Historikerinnen
+Historismus noun g=m gen=Historismus pl=- note=style period
 Hit noun g=m gen=Hits pl=Hits
 Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]

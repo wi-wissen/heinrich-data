@@ -1,3 +1,4 @@
+ebnen verb class=weak pp=geebnet perf=haben
 ehelichen verb class=weak pp=geehelicht perf=haben
 ehren verb class=weak pp=geehrt perf=haben
 eichen verb class=weak pp=geeicht perf=haben
@@ -154,6 +155,7 @@ eintreten verb class=strong sep=ein 3sg=eintritt past=eintrat pp=eingetreten sub
 eintrüben verb class=weak sep=ein pp=eingetrübt perf=haben refl=acc
 eintüten verb class=weak sep=ein pp=eingetütet perf=haben
 einüben verb class=weak sep=ein pp=eingeübt perf=haben
+einverleiben verb class=weak sep=ein pp=einverleibt perf=haben refl=dat note=pp einverleibt without ge-; inseparable use (er einverleibt sich) also occurs
 einwandern verb class=weak sep=ein pp=eingewandert perf=sein
 einwechseln verb class=weak sep=ein pp=eingewechselt perf=haben
 einweichen verb class=weak sep=ein pp=eingeweicht perf=haben
@@ -179,6 +181,7 @@ enden verb class=weak pp=geendet perf=haben
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
 entbehren verb class=weak pp=entbehrt perf=haben
 entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbände perf=haben
+entblößen verb class=weak pp=entblößt perf=haben refl=acc
 entdecken verb class=weak pp=entdeckt perf=haben
 enteignen verb class=weak pp=enteignet perf=haben
 entfachen verb class=weak pp=entfacht perf=haben
@@ -186,6 +189,7 @@ entfallen verb class=strong 3sg=entfällt past=entfiel pp=entfallen subj2=entfie
 entfalten verb class=weak refl=acc pp=entfaltet perf=haben
 entfernen verb class=weak pp=entfernt perf=haben refl=acc
 entfliehen verb class=strong 3sg=entflieht past=entfloh pp=entflohen subj2=entflöhe perf=sein
+entfremden verb class=weak pp=entfremdet perf=haben refl=acc
 entfristen verb class=weak pp=entfristet perf=haben
 entführen verb class=weak pp=entführt perf=haben
 entgegenblicken verb class=weak sep=entgegen pp=entgegengeblickt perf=haben
@@ -215,6 +219,7 @@ entgehen verb class=strong 3sg=entgeht past=entging pp=entgangen subj2=entginge 
 entgleisen verb class=weak pp=entgleist perf=sein
 enthaaren verb class=weak pp=enthaart perf=haben
 enthalten verb class=strong 3sg=enthält past=enthielt pp=enthalten subj2=enthielte perf=haben
+enthaupten verb class=weak pp=enthauptet perf=haben
 enthüllen verb class=weak pp=enthüllt perf=haben
 entkernen verb class=weak pp=entkernt perf=haben
 entkommen verb class=strong 3sg=entkommt past=entkam pp=entkommen subj2=entkäme perf=sein
@@ -228,6 +233,7 @@ entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
 entpacken verb class=weak pp=entpackt perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
+entrücken verb class=weak pp=entrückt perf=haben pp_cmp
 entrümpeln verb class=weak pp=entrümpelt perf=haben
 entrüsten verb class=weak pp=entrüstet perf=haben refl=acc
 entsaften verb class=weak pp=entsaftet perf=haben
@@ -251,6 +257,7 @@ enttarnen verb class=weak pp=enttarnt perf=haben
 enttäuschen verb class=weak pp=enttäuscht perf=haben part1_cmp pp_cmp
 entwaffnen verb class=weak pp=entwaffnet perf=haben
 entwässern verb class=weak pp=entwässert perf=haben
+entwenden verb class=weak pp=entwendet perf=haben
 entwerfen verb class=strong 3sg=entwirft past=entwarf pp=entworfen subj2=entwürfe perf=haben
 entwickeln verb class=weak pp=entwickelt perf=haben refl=acc
 entwirren verb class=weak pp=entwirrt perf=haben
@@ -441,6 +448,7 @@ essen verb class=strong 3sg=isst past=aß pp=gegessen subj2=äße perf=haben
 etablieren verb class=weak refl=acc pp=etabliert perf=haben
 evaluieren verb class=weak pp=evaluiert perf=haben
 existieren verb class=weak pp=existiert perf=haben
+expandieren verb class=weak pp=expandiert perf=haben|sein conf=85 note=haben and sein both in use
 experimentieren verb class=weak pp=experimentiert perf=haben
 explodieren verb class=weak pp=explodiert perf=sein
 exportieren verb class=weak pp=exportiert perf=haben

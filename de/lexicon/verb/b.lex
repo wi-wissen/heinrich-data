@@ -192,6 +192,7 @@ beseitigen verb class=weak pp=beseitigt perf=haben
 besetzen      verb class=weak pp=besetzt perf=haben
 besichtigen verb class=weak pp=besichtigt perf=haben
 besiedeln verb class=weak pp=besiedelt perf=haben
+besiegeln verb class=weak pp=besiegelt perf=haben
 besiegen verb class=weak pp=besiegt perf=haben
 besingen verb class=strong 3sg=besingt past=besang subj2=besänge pp=besungen perf=haben
 besinnen verb class=strong 3sg=besinnt past=besann pp=besonnen subj2=besänne|besönne perf=haben refl=acc

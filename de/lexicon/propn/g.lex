@@ -16,6 +16,7 @@ Göteborg propn g=n gen=Göteborgs pl=- note=city in Sweden
 Gotha propn g=n gen=Gothas pl=- note=proper name; no plural
 Göttingen propn g=n gen=Göttingens pl=- demonym=Göttinger note=proper name; no plural
 Granada propn g=n gen=Granadas pl=- note=city in Spain
+Graubünden propn g=n gen=Graubündens pl=- demonym=Bündner note=Swiss canton
 Graz propn g=n gen=Graz pl=- demonym=Grazer note=proper name; no plural
 Greifswald propn g=n gen=Greifswalds pl=- note=city in Mecklenburg-Western Pomerania
 Griechenland propn g=n gen=Griechenlands pl=- note=place name; no plural

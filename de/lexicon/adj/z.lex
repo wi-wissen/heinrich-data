@@ -38,6 +38,7 @@ zusammengesetzt adj
 zusätzlich adj
 zuständig adj
 zustimmungspflichtig adj
+zuträglich adj
 zutraulich adj cmp=zutraulicher sup=zutraulichsten
 zuverlässig adj cmp=zuverlässiger sup=zuverlässigsten
 zuversichtlich adj cmp=zuversichtlicher sup=zuversichtlichsten

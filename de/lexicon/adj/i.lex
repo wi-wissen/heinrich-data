@@ -1,7 +1,9 @@
+iberisch adj
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+immateriell adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein

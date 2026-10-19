@@ -46,6 +46,7 @@ amerikanisch adj
 amtierend adj
 amtlich adj
 analog adj
+andächtig adj cmp=andächtiger sup=andächtigsten
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
 anfänglich adj
@@ -53,6 +54,7 @@ angeblich adj
 angemessen    adj cmp=angemessener sup=angemessensten
 angenehm adj cmp=angenehmer sup=angenehmsten
 angeschlagen adj
+angesehen adj cmp=angesehener sup=angesehensten note=respected; participle of ansehen with its own meaning
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
@@ -127,6 +129,7 @@ ausschließlich adj
 außergewöhnlich adj cmp=außergewöhnlicher sup=außergewöhnlichsten
 äußerlich adj
 außerordentlich adj
+außerstande adj pred_only note=außerstande sein, etwas zu tun
 australisch adj
 ausverkauft adj
 auswärtig adj

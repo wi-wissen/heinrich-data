@@ -151,6 +151,7 @@ rücken verb class=weak pp=gerückt perf=haben|sein
 rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
 rudern verb class=weak pp=gerudert perf=haben|sein
 rufen verb class=strong 3sg=ruft past=rief pp=gerufen subj2=riefe perf=haben
+rügen verb class=weak pp=gerügt perf=haben
 ruhen verb class=weak pp=geruht perf=haben
 rühmen verb class=weak pp=gerühmt perf=haben
 rühren verb class=weak pp=gerührt perf=haben refl=acc

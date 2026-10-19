@@ -5,3 +5,4 @@ Prof. x note=Professor
 Ps. x note=Psalm
 pssst intj
 puh intj
+puncto x note=in puncto (Latin): regarding

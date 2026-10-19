@@ -50,6 +50,7 @@ Falte noun g=f gen=Falte pl=Falten
 Falter noun g=m gen=Falters pl=Falter
 Familie noun g=f gen=Familie pl=Familien
 Fan noun g=m gen=Fans pl=Fans
+Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
 Fanta noun g=f gen=Fanta pl=Fantas
@@ -150,6 +151,7 @@ Film noun g=m gen=Films|Filmes pl=Filme
 Filmemacher noun g=m gen=Filmemachers pl=Filmemacher
 Filmemacherin noun g=f gen=Filmemacherin pl=Filmemacherinnen
 Filter noun g=m|n gen=Filters pl=Filter note=der Filter; das Filter in technical usage
+Filz noun g=m gen=Filzes pl=Filze
 Filzstift noun g=m gen=Filzstifts|Filzstiftes pl=Filzstifte
 Finale noun g=n gen=Finales pl=Finale|Finals
 Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and in the plural (die Finanzen)
@@ -173,6 +175,7 @@ Flagge noun g=f gen=Flagge pl=Flaggen
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
 Flanke noun g=f gen=Flanke pl=Flanken
+Fläschchen noun g=n gen=Fläschchens pl=Fläschchen
 Flasche noun g=f gen=Flasche pl=Flaschen
 Flaschenöffner noun g=m gen=Flaschenöffners pl=Flaschenöffner
 Flatrate noun g=f gen=Flatrate pl=Flatrates
@@ -224,6 +227,7 @@ Föderation noun g=f gen=Föderation pl=Föderationen
 Fohlen noun g=n gen=Fohlens pl=Fohlen
 Föhn noun g=m gen=Föhns pl=Föhne
 Fokus noun g=m gen=Fokus pl=Fokusse|Foki[rare] note=des Fokus
+Fokussierung noun g=f gen=Fokussierung pl=Fokussierungen
 Folge noun g=f gen=Folge pl=Folgen
 Folie noun g=f gen=Folie pl=Folien
 Follower noun g=m gen=Followers pl=Follower
@@ -273,6 +277,7 @@ Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
 Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
 Fraktion noun g=f gen=Fraktion pl=Fraktionen
+Fraktur noun g=f gen=Fraktur pl=Frakturen
 Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
 Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
@@ -336,6 +341,7 @@ Frühe noun g=f gen=Frühe pl=- note=in der Frühe; no plural
 Frühjahr noun g=n gen=Frühjahrs|Frühjahres[rare] pl=Frühjahre
 Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
 Frühstück noun g=n gen=Frühstücks pl=Frühstücke
+Frust noun g=m gen=Frusts|Frustes pl=- note=colloquial; mass noun
 Fuchs noun g=m gen=Fuchses pl=Füchse
 Fuchtel noun g=f gen=Fuchtel pl=Fuchteln note=unter der Fuchtel
 Fühler noun g=m gen=Fühlers pl=Fühler

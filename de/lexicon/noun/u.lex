@@ -34,6 +34,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übersicht noun g=f gen=Übersicht pl=Übersichten
 Überstunde noun g=f gen=Überstunde pl=Überstunden
 Übertragung noun g=f gen=Übertragung pl=Übertragungen
+Übertritt noun g=m gen=Übertritts|Übertrittes pl=Übertritte
 Überwachung noun g=f gen=Überwachung pl=Überwachungen[rare]
 Überweg noun g=m gen=Überwegs|Überweges pl=Überwege
 Überweisung noun g=f gen=Überweisung pl=Überweisungen
@@ -95,6 +96,7 @@ Ungarin noun g=f gen=Ungarin pl=Ungarinnen
 Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
+Ungeziefer noun g=n gen=Ungeziefers pl=- note=collective noun
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
 Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
 Unglück noun g=n gen=Unglücks|Unglückes[rare] pl=Unglücke
@@ -137,6 +139,7 @@ Unterrichtung noun g=f gen=Unterrichtung pl=Unterrichtungen
 Untersagung noun g=f gen=Untersagung pl=Untersagungen
 Unterscheidung noun g=f gen=Unterscheidung pl=Unterscheidungen
 Unterschied noun g=m gen=Unterschieds|Unterschiedes pl=Unterschiede
+Unterschlupf noun g=m gen=Unterschlupfs|Unterschlupfes pl=Unterschlupfe|Unterschlüpfe
 Unterschrift noun g=f gen=Unterschrift pl=Unterschriften
 Untersetzer noun g=m gen=Untersetzers pl=Untersetzer
 Unterstufe noun g=f gen=Unterstufe pl=Unterstufen

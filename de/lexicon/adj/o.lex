@@ -6,6 +6,7 @@ oberflächlich adj
 oberst adj note=attributive only (der oberste Stock)
 obig adj attr_only note=die obige Adresse
 objektiv adj cmp=objektiver sup=objektivsten
+obsolet adj
 öde adj cmp=öder sup=ödesten
 offen adj cmp=offener sup=offensten
 offenbar adj

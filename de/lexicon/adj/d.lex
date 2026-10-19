@@ -25,6 +25,7 @@ dicht         adj cmp=dichter sup=dichtesten
 dick adj cmp=dicker sup=dicksten
 dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dicklich adj cmp=dicklicher sup=dicklichsten
+dienlich adj
 dienstlich adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
@@ -45,6 +46,7 @@ dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreifach adj
+dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dringend      adj cmp=dringender sup=dringendsten
