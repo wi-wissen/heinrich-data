@@ -515,6 +515,7 @@ vorschlagen verb class=strong sep=vor 3sg=vorschlägt past=vorschlug pp=vorgesch
 vorschnellen verb class=weak sep=vor pp=vorgeschnellt perf=sein
 vorschreiben verb class=strong sep=vor 3sg=vorschreibt past=vorschrieb pp=vorgeschrieben subj2=vorschriebe perf=haben
 vorschwärmen verb class=weak sep=vor pp=vorgeschwärmt perf=haben
+vorschweben verb class=weak sep=vor pp=vorgeschwebt perf=haben note=mir schwebt etwas vor
 vorschwimmen verb class=strong sep=vor 3sg=vorschwimmt past=vorschwamm subj2=vorschwömme|vorschwämme pp=vorgeschwommen perf=sein
 vorsehen verb class=strong sep=vor 3sg=vorsieht past=vorsah pp=vorgesehen subj2=vorsähe perf=haben
 vorsetzen verb class=weak sep=vor pp=vorgesetzt perf=haben

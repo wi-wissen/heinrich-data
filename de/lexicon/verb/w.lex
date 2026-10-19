@@ -29,7 +29,7 @@ wecken verb class=weak pp=geweckt perf=haben
 wedeln verb class=weak pp=gewedelt perf=haben
 wegblasen verb class=strong sep=weg 3sg=wegbläst past=wegblies subj2=wegbliese pp=weggeblasen perf=haben
 wegbleiben verb class=strong sep=weg 3sg=wegbleibt past=wegblieb subj2=wegbliebe pp=weggeblieben perf=sein
-wegbrechen verb class=strong sep=weg 3sg=wegbricht past=wegbrach pp=weggebrochen subj2=wegbräche perf=sein
+wegbrechen verb class=strong sep=weg 3sg=wegbricht past=wegbrach pp=weggebrochen subj2=wegbräche perf=haben|sein note=die Einnahmen sind weggebrochen (sein); einen Ast wegbrechen (haben)
 wegbringen verb class=mixed sep=weg 3sg=wegbringt past=wegbrachte pp=weggebracht subj2=wegbrächte perf=haben
 wegdenken verb class=mixed sep=weg 3sg=wegdenkt past=wegdachte pp=weggedacht subj2=wegdächte perf=haben note=nicht wegzudenken
 wegdiskutieren verb class=weak sep=weg pp=wegdiskutiert perf=haben
@@ -81,6 +81,7 @@ wegtauchen verb class=weak sep=weg pp=weggetaucht perf=sein
 wegtragen verb class=strong sep=weg 3sg=wegträgt past=wegtrug subj2=wegtrüge pp=weggetragen perf=haben
 wegtreten verb class=strong sep=weg 3sg=wegtritt past=wegtrat subj2=wegträte pp=weggetreten perf=sein
 wegwehen verb class=weak sep=weg pp=weggeweht perf=haben|sein
+wegweisen verb class=strong sep=weg 3sg=wegweist past=wegwies pp=weggewiesen subj2=wegwiese perf=haben
 wegwerfen verb class=strong sep=weg 3sg=wegwirft past=wegwarf pp=weggeworfen subj2=wegwürfe perf=haben
 wegwischen verb class=weak sep=weg pp=weggewischt perf=haben
 wegziehen verb class=strong sep=weg 3sg=wegzieht past=wegzog pp=weggezogen subj2=wegzöge perf=haben|sein

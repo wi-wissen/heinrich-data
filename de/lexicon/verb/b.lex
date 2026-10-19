@@ -99,6 +99,7 @@ beibehalten verb class=strong sep=bei 3sg=beibehält past=beibehielt pp=beibehal
 beibringen verb class=mixed sep=bei 3sg=beibringt past=beibrachte pp=beigebracht subj2=beibrächte perf=haben
 beichten verb class=weak pp=gebeichtet perf=haben
 beifügen verb class=weak sep=bei pp=beigefügt perf=haben
+beigeben verb class=strong sep=bei 3sg=beigibt past=beigab pp=beigegeben subj2=beigäbe perf=haben note=klein beigeben
 beikommen verb class=strong sep=bei 3sg=beikommt|beikömmt[old] past=beikam pp=beigekommen subj2=beikäme perf=sein note=einem Problem beikommen
 beilegen verb class=weak sep=bei pp=beigelegt perf=haben
 beiliegen verb class=strong sep=bei 3sg=beiliegt past=beilag pp=beigelegen subj2=beiläge perf=haben note=die Unterlagen liegen dem Schreiben bei
@@ -108,6 +109,7 @@ beipflichten verb class=weak sep=bei pp=beigepflichtet perf=haben
 beisetzen verb class=weak sep=bei pp=beigesetzt perf=haben
 beißen verb class=strong 3sg=beißt past=biss pp=gebissen subj2=bisse perf=haben
 beistehen verb class=strong sep=bei 3sg=beisteht past=beistand pp=beigestanden subj2=beistünde|beistände perf=haben
+beisteuern verb class=weak sep=bei pp=beigesteuert perf=haben
 beistimmen verb class=weak sep=bei pp=beigestimmt perf=haben
 beitragen verb class=strong sep=bei 3sg=beiträgt past=beitrug pp=beigetragen subj2=beiträge perf=haben
 beitreiben verb class=strong sep=bei 3sg=beitreibt past=beitrieb pp=beigetrieben subj2=beitriebe perf=haben note=Forderungen beitreiben (collect)

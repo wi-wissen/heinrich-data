@@ -109,6 +109,7 @@ nerven verb class=weak pp=genervt perf=haben
 neustarten verb class=weak sep=neu pp=neugestartet perf=haben conf=80 note=IT usage; also written neu starten
 nicken verb class=weak pp=genickt perf=haben
 niederbrennen verb class=mixed sep=nieder 3sg=niederbrennt past=niederbrannte pp=niedergebrannt subj2=niederbrennte perf=haben|sein conf=90 note=ein Haus niederbrennen (haben); das Haus ist niedergebrannt (sein)
+niederdrücken verb class=weak sep=nieder pp=niedergedrückt perf=haben
 niederfallen verb class=strong sep=nieder 3sg=niederfällt past=niederfiel pp=niedergefallen subj2=niederfiele perf=sein
 niedergehen verb class=strong sep=nieder 3sg=niedergeht past=niederging pp=niedergegangen subj2=niederginge perf=sein
 niederhalten verb class=strong sep=nieder 3sg=niederhält past=niederhielt pp=niedergehalten subj2=niederhielte perf=haben
@@ -117,7 +118,7 @@ niederlassen verb class=strong sep=nieder 3sg=niederlässt past=niederließ pp=n
 niederlegen verb class=weak sep=nieder pp=niedergelegt perf=haben refl=acc note=das Amt niederlegen; sich niederlegen
 niedermetzeln verb class=weak sep=nieder pp=niedergemetzelt perf=haben
 niederreißen verb class=strong sep=nieder 3sg=niederreißt past=niederriss pp=niedergerissen subj2=niederrisse perf=haben
-niederschießen verb class=strong sep=nieder 3sg=niederschießt past=niederschoss pp=niedergeschossen subj2=niederschösse perf=haben
+niederschießen verb class=strong sep=nieder 3sg=niederschießt past=niederschoss pp=niedergeschossen subj2=niederschösse perf=haben|sein note=jemanden niederschießen (haben); der Falke ist auf die Beute niedergeschossen (sein)
 niederschlagen verb class=strong sep=nieder 3sg=niederschlägt past=niederschlug pp=niedergeschlagen subj2=niederschlüge perf=haben refl=acc note=einen Aufstand niederschlagen; sich niederschlagen in
 niederschreiben verb class=strong sep=nieder 3sg=niederschreibt past=niederschrieb pp=niedergeschrieben subj2=niederschriebe perf=haben
 niedersetzen verb class=weak sep=nieder pp=niedergesetzt perf=haben refl=acc note=sich niedersetzen

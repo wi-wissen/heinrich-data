@@ -96,6 +96,7 @@ zuerkennen verb class=mixed sep=zu 3sg=zuerkennt past=zuerkannte pp=zuerkannt su
 zufallen verb class=strong sep=zu 3sg=zufällt past=zufiel pp=zugefallen subj2=zufiele perf=sein note=die Tür fällt zu; jemandem zufallen
 zufließen verb class=strong sep=zu 3sg=zufließt past=zufloss pp=zugeflossen subj2=zuflösse perf=sein
 zufriedengeben verb class=strong sep=zufrieden 3sg=zufriedengibt past=zufriedengab pp=zufriedengegeben subj2=zufriedengäbe perf=haben refl=acc note=sich mit etwas zufriedengeben (joined since 2006)
+zufriedenstellen verb class=weak sep=zufrieden pp=zufriedengestellt perf=haben note=joined since 2006
 zufrieren verb class=strong sep=zu 3sg=zufriert past=zufror pp=zugefroren subj2=zufröre perf=sein note=pp zugefroren is correct; not an -ieren verb
 zufügen verb class=weak sep=zu pp=zugefügt perf=haben note=jemandem Schaden zufügen
 zuführen verb class=weak sep=zu pp=zugeführt perf=haben
@@ -141,6 +142,7 @@ zurechtweisen verb class=strong sep=zurecht 3sg=zurechtweist past=zurechtwies pp
 zureden verb class=weak sep=zu pp=zugeredet perf=haben
 zurichten verb class=weak sep=zu pp=zugerichtet perf=haben
 zürnen verb class=weak pp=gezürnt perf=haben
+zurückbauen verb class=weak sep=zurück pp=zurückgebaut perf=haben
 zurückbehalten verb class=strong sep=zurück 3sg=zurückbehält past=zurückbehielt pp=zurückbehalten subj2=zurückbehielte perf=haben
 zurückbekommen verb class=strong sep=zurück 3sg=zurückbekommt past=zurückbekam subj2=zurückbekäme pp=zurückbekommen perf=haben
 zurückberufen verb class=strong sep=zurück 3sg=zurückberuft past=zurückberief pp=zurückberufen subj2=zurückberiefe perf=haben
@@ -209,6 +211,7 @@ zurücktreiben verb class=strong sep=zurück 3sg=zurücktreibt past=zurücktrieb
 zurücktreten verb class=strong sep=zurück 3sg=zurücktritt past=zurücktrat subj2=zurückträte pp=zurückgetreten perf=sein
 zurückübertragen verb class=strong sep=zurück 3sg=zurücküberträgt past=zurückübertrug pp=zurückübertragen subj2=zurückübertrüge perf=haben
 zurückverfolgen verb class=weak sep=zurück pp=zurückgeverfolgt perf=haben
+zurückversetzen verb class=weak sep=zurück pp=zurückversetzt perf=haben refl=acc note=sich in die Kindheit zurückversetzen
 zurückverweisen verb class=strong sep=zurück 3sg=zurückverweist past=zurückverwies pp=zurückverwiesen subj2=zurückverwiese perf=haben
 zurückweichen verb class=strong sep=zurück 3sg=zurückweicht past=zurückwich subj2=zurückwiche pp=zurückgewichen perf=sein
 zurückweisen verb class=strong sep=zurück 3sg=zurückweist past=zurückwies pp=zurückgewiesen subj2=zurückwiese perf=haben
@@ -229,7 +232,9 @@ zusammenbleiben verb class=strong sep=zusammen 3sg=zusammenbleibt past=zusammenb
 zusammenbrechen verb class=strong sep=zusammen 3sg=zusammenbricht past=zusammenbrach pp=zusammengebrochen subj2=zusammenbräche perf=sein
 zusammenbringen verb class=mixed sep=zusammen 3sg=zusammenbringt past=zusammenbrachte pp=zusammengebracht subj2=zusammenbrächte perf=haben
 zusammendenken verb class=mixed sep=zusammen 3sg=zusammendenkt past=zusammendachte pp=zusammengedacht subj2=zusammendächte perf=haben conf=90 note=think together, combine in thought; mostly in Wikipedia and essays
+zusammendrängen verb class=weak sep=zusammen pp=zusammengedrängt perf=haben refl=acc note=sich zusammendrängen
 zusammendrücken verb class=weak sep=zusammen pp=zusammengedrückt perf=haben
+zusammenfahren verb class=strong sep=zusammen 3sg=zusammenfährt past=zusammenfuhr pp=zusammengefahren subj2=zusammenführe perf=haben|sein note=vor Schreck zusammenfahren (sein); ein Auto zusammenfahren (haben)
 zusammenfallen verb class=strong sep=zusammen 3sg=zusammenfällt past=zusammenfiel subj2=zusammenfiele pp=zusammengefallen perf=sein
 zusammenfalten verb class=weak sep=zusammen pp=zusammengefaltet perf=haben
 zusammenfassen verb class=weak sep=zusammen pp=zusammengefasst perf=haben
@@ -278,6 +283,7 @@ zusammensuchen verb class=weak sep=zusammen pp=zusammengesucht perf=haben
 zusammentragen verb class=strong sep=zusammen 3sg=zusammenträgt past=zusammentrug subj2=zusammentrüge pp=zusammengetragen perf=haben
 zusammentreffen verb class=strong sep=zusammen 3sg=zusammentrifft past=zusammentraf subj2=zusammenträfe pp=zusammengetroffen perf=sein
 zusammentreten verb class=strong sep=zusammen 3sg=zusammentritt past=zusammentrat pp=zusammengetreten subj2=zusammenträte perf=sein note=der Ausschuss ist zusammengetreten
+zusammentun verb class=strong sep=zusammen pres=zusammentue,zusammentust,zusammentut,zusammentun,zusammentut,zusammentun past=zusammentat pp=zusammengetan subj2=zusammentäte perf=haben refl=acc note=sich zusammentun
 zusammenwachsen verb class=strong sep=zusammen 3sg=zusammenwächst past=zusammenwuchs pp=zusammengewachsen subj2=zusammenwüchse perf=sein
 zusammenwirken verb class=weak sep=zusammen pp=zusammengewirkt perf=haben
 zusammenzählen verb class=weak sep=zusammen pp=zusammengezählt perf=haben

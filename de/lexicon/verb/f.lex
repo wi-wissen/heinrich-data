@@ -96,6 +96,7 @@ fortbestehen verb class=strong sep=fort 3sg=fortbesteht past=fortbestand pp=fort
 fortbewegen verb class=weak sep=fort pp=fortbewegt perf=haben refl=acc
 fortbilden verb class=weak sep=fort pp=fortgebildet perf=haben
 fortbringen verb class=mixed sep=fort 3sg=fortbringt past=fortbrachte pp=fortgebracht subj2=fortbrächte perf=haben
+fortdauern verb class=weak sep=fort pp=fortgedauert perf=haben
 fortfahren verb class=strong sep=fort 3sg=fortfährt past=fortfuhr pp=fortgefahren subj2=fortführe perf=haben|sein
 fortführen verb class=weak sep=fort pp=fortgeführt perf=haben
 fortgehen verb class=strong sep=fort 3sg=fortgeht past=fortging|fortgieng[old] pp=fortgegangen subj2=fortginge perf=sein

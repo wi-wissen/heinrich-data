@@ -81,15 +81,19 @@ einkochen verb class=weak pp=eingekocht perf=haben sep=ein
 einkommen verb class=strong sep=ein 3sg=einkommt|einkömmt[old] past=einkam pp=eingekommen subj2=einkäme perf=sein conf=80 note=um etwas einkommen (official request); the noun is Einkommen
 einkreisen verb class=weak sep=ein pp=eingekreist perf=haben
 einladen verb class=strong sep=ein 3sg=einlädt past=einlud pp=eingeladen subj2=einlüde perf=haben
+einlagern verb class=weak sep=ein pp=eingelagert perf=haben
 einlassen verb class=strong sep=ein 3sg=einlässt past=einließ pp=eingelassen subj2=einließe perf=haben
-einlaufen verb class=strong sep=ein 3sg=einläuft past=einlief pp=eingelaufen subj2=einliefe perf=haben|sein note=das Schiff ist eingelaufen; neue Schuhe einlaufen (haben)
+einlaufen verb class=strong sep=ein 3sg=einläuft past=einlief pp=eingelaufen subj2=einliefe perf=haben|sein refl=acc note=das Schiff ist eingelaufen; neue Schuhe einlaufen (haben); sich einlaufen (warm up)
+einläuten verb class=weak sep=ein pp=eingeläutet perf=haben
 einlegen verb class=weak sep=ein pp=eingelegt perf=haben
 einleiten verb class=weak sep=ein pp=eingeleitet perf=haben
 einlenken verb class=weak sep=ein pp=eingelenkt perf=haben
 einleuchten verb class=weak sep=ein pp=eingeleuchtet perf=haben
+einliefern verb class=weak sep=ein pp=eingeliefert perf=haben note=ins Krankenhaus einliefern
 einloggen verb class=weak sep=ein pp=eingeloggt perf=haben refl=acc
 einlösen verb class=weak pp=eingelöst perf=haben sep=ein
 einlullen verb class=weak sep=ein pp=eingelullt perf=haben
+einmarschieren verb class=weak sep=ein pp=einmarschiert perf=sein
 einmauern verb class=weak sep=ein pp=eingemauert perf=haben
 einmeißeln verb class=weak sep=ein pp=eingemeißelt perf=haben
 einmischen verb class=weak sep=ein pp=eingemischt perf=haben refl=acc note=sich einmischen
@@ -135,11 +139,13 @@ einschalten verb class=weak sep=ein pp=eingeschaltet perf=haben refl=acc
 einschärfen verb class=weak sep=ein pp=eingeschärft perf=haben
 einschätzen verb class=weak sep=ein pp=eingeschätzt perf=haben
 einschenken verb class=weak sep=ein pp=eingeschenkt perf=haben
+einschieben verb class=strong sep=ein 3sg=einschiebt past=einschob pp=eingeschoben subj2=einschöbe perf=haben
 einschiffen verb class=weak sep=ein pp=eingeschifft perf=haben refl=acc
 einschlafen verb class=strong sep=ein 3sg=einschläft past=einschlief pp=eingeschlafen subj2=einschliefe perf=sein
 einschläfern verb class=weak sep=ein pp=eingeschläfert perf=haben
 einschlagen verb class=strong sep=ein 3sg=einschlägt past=einschlug pp=eingeschlagen subj2=einschlüge perf=haben
 einschleichen verb class=strong sep=ein 3sg=einschleicht past=einschlich subj2=einschliche pp=eingeschlichen perf=sein refl=acc
+einschleppen verb class=weak sep=ein pp=eingeschleppt perf=haben
 einschleusen verb class=weak sep=ein pp=eingeschleust perf=haben
 einschließen verb class=strong sep=ein 3sg=einschließt past=einschloss pp=eingeschlossen subj2=einschlösse perf=haben
 einschmeicheln verb class=weak sep=ein pp=eingeschmeichelt perf=haben refl=acc

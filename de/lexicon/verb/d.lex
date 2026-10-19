@@ -166,6 +166,7 @@ durchrutschen verb class=weak sep=durch pp=durchgerutscht perf=sein
 durchsagen verb class=weak sep=durch pp=durchgesagt perf=haben
 durchschauen verb class=weak sep=durch pp=durchgeschaut perf=haben sense=separable note=stressed prefix (separable)
 durchschauen verb class=weak pp=durchschaut perf=haben sense=inseparable note=unstressed prefix (inseparable)
+durchscheinen verb class=strong sep=durch 3sg=durchscheint past=durchschien pp=durchgeschienen subj2=durchschiene perf=haben
 durchschlafen verb class=strong sep=durch 3sg=durchschläft past=durchschlief subj2=durchschliefe pp=durchgeschlafen perf=haben
 durchschlagen verb class=strong sep=durch 3sg=durchschlägt past=durchschlug subj2=durchschlüge pp=durchgeschlagen perf=haben|sein sense=separable note=stressed prefix (separable)
 durchschlagen verb class=strong 3sg=durchschlägt past=durchschlug subj2=durchschlüge pp=durchschlagen perf=haben sense=inseparable note=unstressed prefix (inseparable)
@@ -188,11 +189,14 @@ durchstoßen verb class=strong sep=durch 3sg=durchstößt past=durchstieß pp=du
 durchstoßen verb class=strong 3sg=durchstößt past=durchstieß pp=durchstoßen subj2=durchstieße perf=haben sense=pierce conf=90 note=stress on stoßen: die Wolkendecke durchstoßen
 durchstreichen verb class=strong sep=durch 3sg=durchstreicht past=durchstrich subj2=durchstriche pp=durchgestrichen perf=haben
 durchstreifen verb class=weak pp=durchstreift perf=haben note=den Wald durchstreifen
+durchströmen verb class=weak pp=durchströmt perf=haben note=stress on strömen: ein Gefühl durchströmt ihn
 durchsuchen verb class=weak pp=durchsucht perf=haben
 durchtanzen verb class=weak sep=durch pp=durchgetanzt perf=haben sense=separable note=stressed prefix (separable)
 durchtanzen verb class=weak pp=durchtanzt perf=haben sense=inseparable note=unstressed prefix (inseparable)
 durchtelefonieren verb class=weak sep=durch pp=durchtelefoniert perf=haben
-durchwachsen verb class=strong 3sg=durchwächst past=durchwuchs pp=durchwachsen subj2=durchwüchse perf=haben conf=80 note=mostly the participle (durchwachsener Speck, durchwachsenes Wetter)
+durchwachsen verb class=strong 3sg=durchwächst past=durchwuchs pp=durchwachsen subj2=durchwüchse perf=haben conf=80 sense=intergrow note=mostly the participle (durchwachsener Speck, durchwachsenes Wetter)
+durchwachsen verb class=strong sep=durch 3sg=durchwächst past=durchwuchs pp=durchgewachsen subj2=durchwüchse perf=sein sense=grow_through conf=80 note=stress on durch: die Wurzeln sind durchgewachsen
+durchwandern verb class=weak pp=durchwandert perf=haben note=ein Land durchwandern
 durchwinken verb class=weak sep=durch pp=durchgewinkt|durchgewunken[colloquial] perf=haben
 durchwühlen verb class=weak pp=durchwühlt perf=haben
 durchzählen verb class=weak sep=durch pp=durchgezählt perf=haben

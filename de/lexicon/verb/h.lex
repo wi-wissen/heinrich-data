@@ -60,6 +60,7 @@ heranbilden verb class=weak sep=heran pp=herangebildet perf=haben
 heranführen verb class=weak sep=heran pp=herangeführt perf=haben
 herangehen verb class=strong sep=heran 3sg=herangeht past=heranging|herangieng[old] pp=herangegangen subj2=heranginge perf=sein
 herankommen verb class=strong sep=heran 3sg=herankommt|herankömmt[old] past=herankam pp=herangekommen subj2=herankäme perf=sein
+herantragen verb class=strong sep=heran 3sg=heranträgt past=herantrug pp=herangetragen subj2=herantrüge perf=haben
 herantreten verb class=strong sep=heran 3sg=herantritt past=herantrat pp=herangetreten subj2=heranträte perf=sein
 heranwachsen verb class=strong sep=heran 3sg=heranwächst past=heranwuchs pp=herangewachsen subj2=heranwüchse perf=sein
 heranziehen verb class=strong sep=heran 3sg=heranzieht past=heranzog pp=herangezogen subj2=heranzöge perf=haben
@@ -183,6 +184,7 @@ herumdrehen verb class=weak sep=herum pp=herumgedreht perf=haben
 herumfahren verb class=strong sep=herum 3sg=herumfährt past=herumfuhr subj2=herumführe pp=herumgefahren perf=haben|sein
 herumfliegen verb class=strong sep=herum 3sg=herumfliegt past=herumflog subj2=herumflöge pp=herumgeflogen perf=sein
 herumfragen verb class=weak sep=herum pp=herumgefragt perf=haben
+herumführen verb class=weak sep=herum pp=herumgeführt perf=haben
 herumgehen verb class=strong sep=herum 3sg=herumgeht past=herumging|herumgieng[old] subj2=herumginge pp=herumgegangen perf=sein
 herumhüpfen verb class=weak sep=herum pp=herumgehüpft perf=sein
 herumirren verb class=weak sep=herum pp=herumgeirrt perf=sein
@@ -258,6 +260,8 @@ hervorkommen verb class=strong sep=hervor 3sg=hervorkommt|hervorkömmt[old] past
 hervorragen verb class=weak sep=hervor pp=hervorgeragt perf=haben
 hervorrufen verb class=strong sep=hervor 3sg=hervorruft past=hervorrief pp=hervorgerufen subj2=hervorriefe perf=haben
 hervortreten verb class=strong sep=hervor 3sg=hervortritt past=hervortrat pp=hervorgetreten subj2=hervorträte perf=sein
+hervortun verb class=strong sep=hervor pres=hervortue,hervortust,hervortut,hervortun,hervortut,hervortun past=hervortat pp=hervorgetan subj2=hervortäte perf=haben refl=acc note=sich hervortun
+hervorziehen verb class=strong sep=hervor 3sg=hervorzieht past=hervorzog pp=hervorgezogen subj2=hervorzöge perf=haben
 herzeigen verb class=weak sep=her pp=hergezeigt perf=haben
 herziehen verb class=strong sep=her 3sg=herzieht past=herzog subj2=herzöge pp=hergezogen perf=haben|sein
 hetzen verb class=weak pp=gehetzt perf=haben|sein
@@ -426,6 +430,7 @@ hinwollen verb class=modal sep=hin 3sg=hinwill past=hinwollte pp=hingewollt subj
 hinziehen verb class=strong sep=hin 3sg=hinzieht past=hinzog subj2=hinzöge pp=hingezogen perf=haben|sein
 hinzufügen verb class=weak sep=hinzu pp=hinzugefügt perf=haben
 hinzugewinnen verb class=strong sep=hinzu 3sg=hinzugewinnt past=hinzugewann pp=hinzugewonnen subj2=hinzugewönne|hinzugewänne perf=haben
+hinzukommen verb class=strong sep=hinzu 3sg=hinzukommt|hinzukömmt[old] past=hinzukam pp=hinzugekommen subj2=hinzukäme perf=sein
 hinzurechnen verb class=weak sep=hinzu pp=hinzugerechnet perf=haben
 hinzusetzen verb class=weak sep=hinzu pp=hinzugesetzt perf=haben note=etwas hinzusetzen (add)
 hinzutreten verb class=strong sep=hinzu 3sg=hinzutritt past=hinzutrat pp=hinzugetreten subj2=hinzuträte perf=sein

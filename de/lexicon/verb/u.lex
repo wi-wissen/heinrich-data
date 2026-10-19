@@ -5,6 +5,8 @@
 überblicken verb class=weak pp=überblickt perf=haben
 überbringen verb class=mixed 3sg=überbringt past=überbrachte subj2=überbrächte pp=überbracht perf=haben
 überbrücken verb class=weak pp=überbrückt perf=haben
+überdachen verb class=weak pp=überdacht perf=haben
+überdauern verb class=weak pp=überdauert perf=haben
 überdecken verb class=weak pp=überdeckt perf=haben
 überdenken verb class=mixed 3sg=überdenkt past=überdachte subj2=überdächte pp=überdacht perf=haben
 übereignen verb class=weak pp=übereignet perf=haben note=legal: jemandem eine Sache übereignen
@@ -34,7 +36,9 @@
 überhören verb class=weak pp=überhört perf=haben
 überkochen verb class=weak sep=über pp=übergekocht perf=sein
 überkommen verb class=strong 3sg=überkommt|überkömmt[old] past=überkam pp=überkommen subj2=überkäme perf=haben note=Angst überkam ihn; überkommene Bräuche
-überladen verb class=strong 3sg=überlädt past=überlud pp=überladen subj2=überlüde perf=haben note=stress on laden; also adjective-like participle überladen
+überladen verb class=strong 3sg=überlädt past=überlud pp=überladen subj2=überlüde perf=haben sense=overload note=stress on laden; also adjective-like participle überladen
+überladen verb class=strong sep=über 3sg=überlädt past=überlud pp=übergeladen subj2=überlüde perf=haben sense=transship conf=70 note=stress on über: Fracht überladen (move a load); rare
+überlagern verb class=weak pp=überlagert perf=haben refl=acc
 überlappen verb class=weak pp=überlappt perf=haben refl=acc note=sich überlappen
 überlassen verb class=strong 3sg=überlässt past=überließ pp=überlassen subj2=überließe perf=haben
 überlasten verb class=weak pp=überlastet perf=haben
@@ -58,6 +62,7 @@
 überreden verb class=weak pp=überredet perf=haben
 überreichen verb class=weak pp=überreicht perf=haben
 überrumpeln verb class=weak pp=überrumpelt perf=haben
+übersäen verb class=weak pp=übersät perf=haben note=mostly the participle übersät
 überschatten verb class=weak pp=überschattet perf=haben
 überschätzen verb class=weak pp=überschätzt perf=haben
 überschauen verb class=weak pp=überschaut perf=haben
@@ -78,6 +83,10 @@
 überspringen verb class=strong 3sg=überspringt past=übersprang subj2=überspränge pp=übersprungen perf=sein|haben
 überstehen verb class=strong 3sg=übersteht past=überstand pp=überstanden subj2=überstünde|überstände perf=haben
 übersteigen verb class=strong 3sg=übersteigt past=überstieg pp=überstiegen subj2=überstiege perf=haben
+überstellen verb class=weak pp=überstellt perf=haben note=jemanden der Justiz überstellen
+überströmen verb class=weak sep=über pp=übergeströmt perf=sein sense=overflow conf=90 note=stress on über: der Fluss strömt über
+überströmen verb class=weak pp=überströmt perf=haben sense=flood conf=90 note=stress on strömen: Wasser überströmt die Wiesen; blutüberströmt
+überstürzen verb class=weak pp=überstürzt perf=haben refl=acc note=nichts überstürzen; die Ereignisse überstürzten sich
 übertäuben verb class=weak pp=übertäubt perf=haben conf=90 note=elevated: den Schmerz übertäuben
 übertönen verb class=weak pp=übertönt perf=haben
 übertragen verb class=strong 3sg=überträgt past=übertrug pp=übertragen subj2=übertrüge perf=haben
@@ -90,6 +99,8 @@
 überwachsen verb class=strong 3sg=überwächst past=überwuchs pp=überwachsen subj2=überwüchse perf=haben conf=90 note=mostly the participle (mit Moos überwachsen)
 überwältigen verb class=weak pp=überwältigt perf=haben
 überweisen verb class=strong 3sg=überweist past=überwies pp=überwiesen subj2=überwiese perf=haben
+überwerfen verb class=strong 3sg=überwirft past=überwarf pp=überworfen subj2=überwürfe perf=haben refl=acc sense=fall_out note=sich mit jemandem überwerfen (stress on werfen)
+überwerfen verb class=strong sep=über 3sg=überwirft past=überwarf pp=übergeworfen subj2=überwürfe perf=haben sense=put_on note=einen Mantel überwerfen (stress on über)
 überwiegen verb class=strong 3sg=überwiegt past=überwog pp=überwogen subj2=überwöge perf=haben
 überwinden verb class=strong 3sg=überwindet past=überwand pp=überwunden subj2=überwände perf=haben
 überwintern verb class=weak pp=überwintert perf=haben
@@ -124,11 +135,13 @@ umgemeinden verb class=weak sep=um pp=umgemeindet perf=haben note=administrative
 umgestalten verb class=weak sep=um pp=umgestaltet perf=haben
 umgraben verb class=strong sep=um 3sg=umgräbt past=umgrub pp=umgegraben subj2=umgrübe perf=haben
 umgürten verb class=weak pp=umgürtet perf=haben refl=acc conf=80 note=sich mit etwas umgürten; separable umgürten (umgegürtet) also exists
-umhängen verb class=weak sep=um pp=umgehängt perf=haben note=sich einen Schal umhängen
+umhängen verb class=weak sep=um pp=umgehängt perf=haben sense=put_on note=sich einen Schal umhängen
+umhängen verb class=weak pp=umhängt perf=haben sense=drape conf=70 note=stress on hängen: etwas mit Tüchern umhängen; rare
 umhauen verb class=strong sep=um 3sg=umhaut past=umhaute|umhieb[archaic] subj2=umhaute|umhiebe[archaic] pp=umgehauen perf=haben
 umhergehen verb class=strong sep=umher 3sg=umhergeht past=umherging|umhergieng[old] pp=umhergegangen subj2=umherginge perf=sein
 umherlaufen verb class=strong sep=umher 3sg=umherläuft past=umherlief pp=umhergelaufen subj2=umherliefe perf=sein
 umhüllen verb class=weak pp=umhüllt perf=haben
+umkämpfen verb class=weak pp=umkämpft perf=haben note=mostly the participle umkämpft
 umkehren verb class=weak sep=um pp=umgekehrt perf=haben|sein
 umkippen verb class=weak sep=um pp=umgekippt perf=haben|sein
 umklammern verb class=weak pp=umklammert perf=haben
@@ -145,6 +158,7 @@ umlegen verb class=weak sep=um pp=umgelegt perf=haben note=Kosten umlegen; also 
 umleiten verb class=weak sep=um pp=umgeleitet perf=haben
 umlenken verb class=weak sep=um pp=umgelenkt perf=haben
 ummanteln verb class=weak pp=ummantelt perf=haben
+ummauern verb class=weak pp=ummauert perf=haben note=mostly the participle ummauert
 ummelden verb class=weak sep=um pp=umgemeldet perf=haben
 umpacken verb class=weak sep=um pp=umgepackt perf=haben
 umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
@@ -216,6 +230,7 @@ unterkommen verb class=strong sep=unter 3sg=unterkommt|unterkömmt[old] past=unt
 unterlassen verb class=strong 3sg=unterlässt past=unterließ pp=unterlassen subj2=unterließe perf=haben
 unterlaufen verb class=strong 3sg=unterläuft past=unterlief pp=unterlaufen subj2=unterliefe perf=haben|sein conf=90 note=ein Fehler ist mir unterlaufen (sein); eine Regel unterlaufen (haben)
 unterliegen verb class=strong 3sg=unterliegt past=unterlag pp=unterlegen subj2=unterläge perf=sein|haben
+untermauern verb class=weak pp=untermauert perf=haben
 unterminieren verb class=weak pp=unterminiert perf=haben
 unternehmen verb class=strong 3sg=unternimmt past=unternahm pp=unternommen subj2=unternähme perf=haben
 unterordnen verb class=weak sep=unter pp=untergeordnet perf=haben refl=acc
