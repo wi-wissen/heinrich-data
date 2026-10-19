@@ -1,3 +1,4 @@
+wad verb
 wade verb
 wag verb
 wage verb
@@ -51,6 +52,7 @@ whisk verb
 whisper verb
 whistle verb
 whitelist verb
+whiten verb
 whitewash verb
 whittle verb
 whizz verb
@@ -59,6 +61,7 @@ widen verb
 widow verb
 wield verb
 wiggle verb
+will verb sense=wish note=to want, exert the will; to bequeath; regular, unlike the modal
 wilt verb note=to droop; archaic thou wilt (will) is a closed-class gap
 win verb past=won pp=won
 wince verb
@@ -85,6 +88,7 @@ worsen verb
 worship verb past=worshiped[US]|worshipped pp=worshiped[US]|worshipped ing=worshiping[US]|worshipping
 worst verb note=to defeat; worsted
 wound verb
+wrangle verb
 wrap verb
 wreak verb
 wreck verb

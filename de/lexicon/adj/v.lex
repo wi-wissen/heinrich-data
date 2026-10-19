@@ -1,12 +1,15 @@
 vage adj cmp=vager sup=vagesten
+vakant adj
 valide adj cmp=valider sup=validesten
 variabel adj cmp=variabler sup=variabelsten
 vaterländisch adj
 väterlich adj
+vatikanisch adj
 vegan adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
 venezianisch adj
+venezolanisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 veränderlich adj
@@ -21,6 +24,7 @@ verbrecherisch adj
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
+verdrießlich adj cmp=verdrießlicher sup=verdrießlichsten
 vereinzelt adj
 verfassungsgemäß adj
 verfassungsrechtlich adj
@@ -50,6 +54,7 @@ verquollen adj cmp=verquollener sup=verquollensten
 verrückt adj cmp=verrückter sup=verrücktesten
 verschämt adj cmp=verschämter sup=verschämtesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschiedentlich adj
 verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
 verschnupft adj
@@ -57,9 +62,11 @@ verschollen adj
 verschuldet adj
 verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
+versehentlich adj
 versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
+verstohlen adj cmp=verstohlener sup=verstohlensten
 versunken adj
 vertikal adj
 vertraglich adj
@@ -80,20 +87,25 @@ verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
+vielseitig adj cmp=vielseitiger sup=vielseitigsten
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
+violett adj
 viral adj
 virtuell adj
 visuell adj
 völkerrechtlich adj
 völkisch adj
+volkstümlich adj cmp=volkstümlicher sup=volkstümlichsten
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
 volljährig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
+vollumfänglich adj
 vollwertig adj
 vollziehbar adj
+vonnöten adj pred_only note=vonnöten sein
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
@@ -111,6 +123,7 @@ vorrätig adj
 vorsätzlich adj
 vorschriftsgemäß adj
 vorsichtig adj
+vorsorglich adj
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten
 vortrefflich adj
 vorwiegend adj

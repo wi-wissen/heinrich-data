@@ -1,5 +1,6 @@
 nacho noun pl=nachos
 nail          noun
+nakedness noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
@@ -33,10 +34,14 @@ navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+nearness noun pl=- note=uncountable
+neatness noun pl=- note=uncountable
+nebula noun pl=nebulae|nebulas
 necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
 necklace      noun
+necktie noun
 nectar noun pl=- note=uncountable
 nectarine noun
 need          noun
@@ -46,12 +51,15 @@ neglect       noun
 negligence    noun pl=- note=uncountable
 negotiation   noun
 negotiator noun
+negress noun style=archaic|offensive alt=Black_woman note=historical term, now offensive
 negro         noun pl=negroes style=archaic|offensive alt=Black_person note=historical term, now offensive
 Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
 neoliberal noun
+neoliberalism noun pl=- note=uncountable
+neon noun pl=- note=uncountable
 nephew        noun
 nerve         noun
 nervousness noun pl=- note=uncountable
@@ -65,6 +73,7 @@ neuron noun gb=neuron|neurone
 neuroscience noun pl=- note=uncountable
 neutral       noun
 neutrality    noun pl=- note=uncountable
+neutrino noun pl=neutrinos
 neutron noun
 newborn noun
 newcomer noun
@@ -74,6 +83,8 @@ newscast noun
 newsdesk noun
 newsletter noun
 newspaper     noun
+newsroom noun
+newt noun
 newton        noun note=SI unit of force
 NGO noun abbr note=non-governmental organization
 nibble noun
@@ -92,27 +103,33 @@ nightfall noun pl=- note=uncountable
 nightgown noun
 nightie noun
 nightingale noun
+nightlife noun pl=- note=uncountable
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
 ninja noun
+nipple noun
 nitrate noun
 nitrogen      noun pl=- note=uncountable
 no noun pl=noes conf=80 note=a negative answer or vote (the ayes and the noes)
 nobility      noun
 noble         noun
 nobleman      noun pl=noblemen
+noblewoman noun pl=noblewomen
 nod           noun
 node          noun
 noir noun pl=- note=film noir; crime genre
 noise         noun
 nomad noun
+nomen noun pl=nomina conf=85 note=Roman family name; taxonomy (nomen nudum)
 nomenclature noun
 nomination    noun
 nominative noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
+nondiscrimination noun pl=- conf=90 note=uncountable; also non-discrimination
+nonfiction noun pl=- note=uncountable
 nonimmigrant  noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
@@ -122,7 +139,9 @@ nonsense      noun pl=- note=uncountable
 noodle noun
 nook noun
 noon          noun
+noose noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
+norepinephrine noun pl=- note=uncountable
 norm          noun
 Norman        noun note=plural Normans (not -men)
 norovirus     noun
@@ -132,6 +151,7 @@ northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
 nosebleed noun
+nostalgia noun pl=- note=uncountable
 nostril       noun
 notable       noun
 notarization noun gb=notarisation|notarization conf=85
@@ -142,6 +162,7 @@ note          noun
 notebook noun
 notepad noun
 notepaper noun pl=- note=uncountable
+nothingness noun pl=- note=uncountable
 notice        noun
 noticeboard noun region=GB conf=90 note=US bulletin board
 notification  noun
@@ -162,6 +183,7 @@ nuance noun
 nucleotide noun
 nucleus       noun pl=nuclei
 nude noun
+nudity noun pl=- note=uncountable
 nugget noun
 nuisance      noun
 nullity noun
@@ -177,4 +199,5 @@ nut           noun
 nutmeg noun
 nutrient noun
 nutrition     noun pl=- note=uncountable
+nylon noun
 nymph noun

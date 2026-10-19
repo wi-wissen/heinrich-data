@@ -10,12 +10,14 @@ bake verb
 balance verb
 bale verb
 ballast verb
+ballot verb
 ban verb
 band verb
 bandage verb
 bang verb
 banish verb
 bank verb
+banter verb
 baptize verb gb=baptise|baptize
 bar verb
 barbecue verb
@@ -27,6 +29,7 @@ barrage verb
 barricade verb
 barter verb
 base verb
+bask verb
 bat verb
 bathe verb
 batter verb
@@ -40,6 +43,7 @@ become verb prefix=be past=became pp=become
 bed verb
 beef verb
 befall verb prefix=be past=befell pp=befallen
+befit verb double
 befriend verb
 beg verb
 begin verb past=began pp=begun double
@@ -50,6 +54,7 @@ behold verb prefix=be past=beheld pp=beheld
 believe verb
 bellow verb
 belong verb
+belt verb
 benchmark verb
 bend verb past=bent pp=bent
 benefit verb past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
@@ -68,16 +73,21 @@ bewilder verb
 bewitch verb
 bias verb
 bid verb past=bid|bade pp=bid|bidden
+bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
 bill verb
+billow verb
 bind verb past=bound pp=bound
 bisect verb
+bitch verb style=colloquial
 bite verb past=bit pp=bitten
+bivouac verb past=bivouacked pp=bivouacked ing=bivouacking
 black verb
 blacken verb
 blacklist verb
 blackmail verb
 blame verb
+blanch verb
 blast verb
 blaze verb
 bleach verb
@@ -152,9 +162,11 @@ brim verb
 brine verb
 bring verb past=brought pp=brought
 bristle verb
+broach verb
 broadcast verb past=broadcast pp=broadcast
 broaden verb
 broker verb
+bronze verb
 brood verb
 browse verb
 bruise verb
@@ -162,7 +174,9 @@ brush verb
 bubble verb
 buckle verb
 bud verb
+budge verb
 budget verb
+buff verb
 buffet verb
 bug verb
 build verb past=built pp=built
@@ -172,6 +186,7 @@ bump verb
 bundle verb
 buoy verb
 burden verb
+burgeon verb
 burlesque verb
 burn verb past=burned|burnt pp=burned|burnt
 burnish verb
@@ -183,6 +198,7 @@ bustle verb
 busy verb
 butcher verb
 butt verb
+button verb
 buttress verb
 buy verb past=bought pp=bought
 buzz verb

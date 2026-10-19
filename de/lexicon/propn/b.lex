@@ -3,8 +3,10 @@ Baden propn g=n gen=Badens pl=- note=proper name; no plural
 Baden-Baden propn g=n gen=Baden-Badens pl=- note=proper name; no plural
 BaFin propn g=f gen=BaFin pl=- note=Bundesanstalt für Finanzdienstleistungsaufsicht
 Bagdad propn g=n gen=Bagdads pl=- note=proper name; no plural
+Baiern propn g=n gen=Baierns pl=- conf=80 note=historical spelling for the early medieval duchy and tribe; modern state is Bayern
 Balkan propn g=m gen=Balkans pl=- note=proper name; no plural
 Balkanhalbinsel propn g=f gen=Balkanhalbinsel pl=- note=proper name; no plural
+Baltikum propn g=n gen=Baltikums pl=- note=proper name; no plural
 Baltimore propn g=n gen=Baltimores pl=- note=proper name; no plural
 Bamberg propn g=n gen=Bambergs pl=- note=proper name; no plural
 BAMF propn g=n gen=BAMF|BAMFs pl=- note=Bundesamt für Migration und Flüchtlinge (das BAMF)

@@ -1,4 +1,5 @@
 ice            verb
+idealize verb gb=idealise|idealize
 identify       verb
 idle           verb
 ignite verb
@@ -7,6 +8,8 @@ illuminate     verb
 illumine verb style=archaic
 illustrate     verb
 imagine        verb
+imbed verb double conf=90 note=variant spelling of embed
+imbue verb
 imitate verb
 immerse verb
 immigrate verb
@@ -30,12 +33,15 @@ imprison       verb
 improve        verb
 improvise verb
 impute verb
+inactivate verb
 inaugurate     verb
+incapacitate verb
 incarcerate verb
 incentivize verb gb=incentivise|incentivize
 inch           verb
 incite verb
 incline        verb
+inclose verb style=archaic note=old spelling of enclose
 include        verb
 inconvenience verb
 incorporate    verb
@@ -43,6 +49,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indenture verb
 index          verb
 indicate       verb
 indict verb
@@ -53,15 +60,18 @@ indulge        verb
 industrialize verb gb=industrialise|industrialize
 infect         verb
 infer verb double
+infest verb
 infiltrate verb
 inflame verb
 inflate verb
+inflect verb
 inflict        verb
 influence      verb
 inform         verb
 infringe verb
 infuriate verb
 infuse verb
+ingest verb
 inhabit        verb
 inhale verb
 inherit        verb
@@ -71,6 +81,7 @@ initialize verb gb=initialise|initialize
 initiate       verb
 inject verb
 injure         verb
+inlay verb prefix=in past=inlaid pp=inlaid
 innovate verb
 input          verb past=input|inputted pp=input|inputted ing=inputting
 inquire        verb gb=inquire|enquire
@@ -105,6 +116,7 @@ interlock verb
 intern verb
 interpose      verb
 interpret      verb
+interrelate verb
 interrogate verb
 interrupt      verb
 intersect verb
@@ -116,6 +128,7 @@ interweave verb prefix=inter past=interwove pp=interwoven
 intimate       verb
 intimidate verb
 intoxicate verb
+intrench verb style=archaic conf=90 note=archaic spelling of entrench
 intrigue verb
 introduce      verb
 intrude verb
@@ -132,6 +145,7 @@ invoice        verb
 invoke         verb
 involve        verb
 iron           verb
+irradiate verb
 irrigate verb
 irritate       verb
 isolate        verb

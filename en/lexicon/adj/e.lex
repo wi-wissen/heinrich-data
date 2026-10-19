@@ -3,6 +3,7 @@ early adj cmp=er
 earnest adj adv=earnestly
 earthen adj
 earthly adj
+earthy adj cmp=er
 east adj
 eastbound adj
 easterly adj
@@ -11,9 +12,11 @@ easternmost adj
 easy adj cmp=er adv=easily
 eccentric adj
 ecclesiastical adj
+eclectic adj cmp=more adv=eclectically
 ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
+ecstatic adj cmp=more adv=ecstatically
 ecumenical adj
 edible adj
 editable adj
@@ -22,11 +25,13 @@ educational adj adv=educationally
 eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
+efficacious adj cmp=more adv=efficaciously
 efficient adj cmp=more adv=efficiently
 egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
 elastic adj
+elated adj cmp=more
 elderly adj
 elective adj
 electoral adj
@@ -40,10 +45,14 @@ elemental adj
 elementary adj
 eligible adj
 elite adj
+elliptic adj
+elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
+emaciated adj
 embarrassed adj cmp=more
 emblematic adj
+embryonic adj
 emergent adj
 emeritus adj
 eminent adj adv=eminently
@@ -52,8 +61,11 @@ emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
 employable adj cmp=more
 empty adj cmp=er
+enamored adj gb=enamoured
 endemic adj
 endless adj adv=endlessly
+endogenous adj
+endothelial adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -68,8 +80,11 @@ entrepreneurial adj
 envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
 epic adj
+epidemiological adj
 Episcopal adj
 episcopal adj
+episodic adj
+epithelial adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
@@ -82,16 +97,20 @@ ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
+esoteric adj cmp=more adv=esoterically
 especial adj
 essential adj adv=essentially
 Estonian adj
 eternal adj adv=eternally
+ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
+eukaryotic adj
 Eurasian adj
 European adj
 evangelical adj
+evasive adj adv=evasively
 even adj adv=evenly
 eventful adj cmp=more
 eventual adj adv=eventually
@@ -108,9 +127,11 @@ exceeding adj adv=exceedingly
 excellent adj adv=excellently
 exceptional adj adv=exceptionally
 excessive adj adv=excessively
+excitable adj cmp=more
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
+executable adj
 executive adj
 exemplary adj
 exempt adj
@@ -133,6 +154,7 @@ expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
 exploitative adj
+exploratory adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly
@@ -144,6 +166,7 @@ exterior adj
 external adj adv=externally
 extinct adj
 extra adj
+extracellular adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
 extratropical adj

@@ -3,6 +3,7 @@
 überbieten verb class=strong 3sg=überbietet past=überbot subj2=überböte pp=überboten perf=haben
 überblicken verb class=weak pp=überblickt perf=haben
 überbringen verb class=mixed 3sg=überbringt past=überbrachte subj2=überbrächte pp=überbracht perf=haben
+überbrücken verb class=weak pp=überbrückt perf=haben
 überdecken verb class=weak pp=überdeckt perf=haben
 überdenken verb class=mixed 3sg=überdenkt past=überdachte subj2=überdächte pp=überdacht perf=haben
 übereinstimmen verb class=weak sep=überein pp=übereingestimmt perf=haben
@@ -25,6 +26,7 @@
 überhören verb class=weak pp=überhört perf=haben
 überkochen verb class=weak sep=über pp=übergekocht perf=sein
 überlassen verb class=strong 3sg=überlässt past=überließ pp=überlassen subj2=überließe perf=haben
+überlasten verb class=weak pp=überlastet perf=haben
 überlaufen verb class=strong sep=über 3sg=überläuft past=überlief pp=übergelaufen subj2=überliefe perf=sein
 überleben verb class=weak pp=überlebt perf=haben
 überlegen verb class=weak pp=überlegt perf=haben sense=think note=inseparable: ich überlege
@@ -113,6 +115,7 @@ ummelden verb class=weak sep=um pp=umgemeldet perf=haben
 umpacken verb class=weak sep=um pp=umgepackt perf=haben
 umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
 umquartieren verb class=weak sep=um pp=umquartiert perf=haben
+umrahmen verb class=weak pp=umrahmt perf=haben
 umrechnen verb class=weak sep=um pp=umgerechnet perf=haben
 umringen verb class=weak pp=umringt perf=haben
 umrühren verb class=weak sep=um pp=umgerührt perf=haben
@@ -128,6 +131,7 @@ umschulen verb class=weak sep=um pp=umgeschult perf=haben
 umschwärmen verb class=weak pp=umschwärmt perf=haben
 umsehen verb class=strong sep=um 3sg=umsieht past=umsah,umsahst|umsahest[archaic],umsah,umsahen,umsaht,umsahen subj2=umsähe pp=umgesehen perf=haben refl=acc
 umsetzen verb class=weak sep=um pp=umgesetzt perf=haben
+umsiedeln verb class=weak sep=um pp=umgesiedelt perf=haben|sein note=jemanden umsiedeln (haben); er ist umgesiedelt (sein)
 umspannen verb class=weak sep=um pp=umgespannt perf=haben sense=separable note=stressed prefix (separable)
 umspannen verb class=weak pp=umspannt perf=haben sense=inseparable note=unstressed prefix (inseparable)
 umspringen verb class=strong sep=um 3sg=umspringt past=umsprang subj2=umspränge pp=umgesprungen perf=sein
@@ -163,6 +167,7 @@ unterheben verb class=strong sep=unter 3sg=unterhebt past=unterhob pp=untergehob
 unterlassen verb class=strong 3sg=unterlässt past=unterließ pp=unterlassen subj2=unterließe perf=haben
 unterliegen verb class=strong 3sg=unterliegt past=unterlag pp=unterlegen subj2=unterläge perf=sein|haben
 unternehmen verb class=strong 3sg=unternimmt past=unternahm pp=unternommen subj2=unternähme perf=haben
+unterqueren verb class=weak pp=unterquert perf=haben
 unterrichten verb class=weak pp=unterrichtet perf=haben
 untersagen verb class=weak pp=untersagt perf=haben
 unterscheiden verb class=strong 3sg=unterscheidet past=unterschied pp=unterschieden subj2=unterschiede perf=haben

@@ -19,6 +19,7 @@ abuse verb
 abut verb double
 accede verb
 accelerate verb
+accentuate verb
 accept verb
 access verb
 acclaim verb
@@ -42,9 +43,11 @@ acquire verb
 acquit verb double
 act verb
 activate verb
+actuate verb
 adapt verb
 add verb
 address verb
+adduce verb
 adhere verb
 adjoin verb
 adjourn verb
@@ -53,6 +56,7 @@ adjust verb
 administer verb
 admire verb
 admit verb double
+admix verb
 admonish verb
 adopt verb
 adore verb
@@ -80,6 +84,7 @@ aid verb
 ail verb
 aim verb
 air verb
+airlift verb
 alarm verb
 alert verb
 alienate verb
@@ -118,6 +123,7 @@ announce verb
 annoy verb
 annualize verb gb=annualise|annualize
 annul verb double
+anoint verb
 anonymize verb gb=anonymise|anonymize
 answer verb
 ante verb past=anted|anteed pp=anted|anteed ing=anteing conf=80 note=as in ante up; past forms vary
@@ -159,6 +165,7 @@ ascertain verb
 ascribe verb
 ask verb
 asphalt verb
+aspirate verb
 aspire verb
 assail verb
 assassinate verb
@@ -183,6 +190,7 @@ attack verb
 attain verb
 attempt verb
 attend verb
+attenuate verb
 attest verb
 attire verb
 attract verb
@@ -194,9 +202,11 @@ augment verb
 authenticate verb
 author verb
 authorize verb gb=authorise|authorize
+autograph verb
 automate verb
 avail verb
 avenge verb
+aver verb double
 average verb
 avert verb
 avoid verb

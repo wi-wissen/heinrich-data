@@ -17,9 +17,11 @@ laud verb
 laugh         verb
 launch        verb
 launder       verb
+lavish verb
 lay           verb past=laid pp=laid
 layer verb
 laze verb
+leach verb
 lead          verb past=led pp=led sense=guide
 lead          verb sense=metal note=to cover or weight with lead: leaded
 leaf          verb
@@ -30,6 +32,7 @@ learn         verb past=learned|learnt[GB] pp=learned|learnt[GB]
 lease         verb
 leave         verb past=left pp=left
 lecture       verb
+leech verb
 legalize verb gb=legalise|legalize
 legislate     verb
 lend          verb past=lent pp=lent
@@ -59,6 +62,7 @@ linger        verb
 link          verb
 liquefy verb note=liquify is a variant spelling
 liquidate verb
+lisp verb
 list          verb
 listen        verb
 litigate verb
@@ -90,6 +94,7 @@ lull verb
 lumber        verb
 lump          verb
 lunch         verb
+lurch verb
 lure verb
 lurk verb
 lynch         verb

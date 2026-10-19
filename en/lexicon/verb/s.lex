@@ -6,9 +6,11 @@ saddle verb
 safeguard verb
 sail verb
 sally verb
+salt verb
 salute verb
 salvage verb
 sample verb
+sanctify verb
 sanction verb
 sandwich verb
 sap verb
@@ -16,6 +18,7 @@ satisfy verb
 saturate verb
 saunter verb
 save verb
+savor verb gb=savour
 say verb 3sg=says|saith[archaic] past=said pp=said
 scale verb
 scalp verb
@@ -25,6 +28,7 @@ scar verb
 scare verb
 scatter verb
 schedule verb
+school verb
 scoff verb
 scold verb
 scoop verb
@@ -45,11 +49,14 @@ screen verb
 screenshot verb double conf=90 note=screenshotted, screenshotting
 screw verb
 scribble verb
+script verb
 scroll verb
 scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+scud verb
+sculpt verb
 sculpture verb
 scuttle verb
 seal verb
@@ -67,6 +74,7 @@ see verb past=saw pp=seen
 seed verb
 seek verb past=sought pp=sought
 seem verb
+segment verb
 segregate verb
 seize verb
 select verb
@@ -76,6 +84,7 @@ sense verb
 sentence verb
 separate verb
 sequester verb
+serialize verb gb=serialise|serialize
 serve verb
 service verb
 set verb past=set pp=set
@@ -90,7 +99,7 @@ shape verb
 share verb
 sharpen verb
 shatter verb
-shave verb
+shave verb past=shaved pp=shaved|shaven
 shear verb past=sheared pp=sheared|shorn
 shed verb past=shed pp=shed
 shell verb
@@ -105,10 +114,12 @@ shine verb past=shone|shined pp=shone|shined note=shined mainly transitive (shin
 shingle verb
 ship verb
 shipwreck verb
+shirk verb
 shiver verb
 shock verb
 shoot verb past=shot pp=shot
 shop verb
+shoplift verb
 shore verb
 shorten verb
 shortlist verb
@@ -121,6 +132,7 @@ showcase verb
 shred verb
 shriek verb
 shrink verb past=shrank|shrunk pp=shrunk|shrunken note=shrunken is mostly adjectival
+shrivel verb
 shroud verb
 shrug verb
 shudder verb
@@ -131,6 +143,7 @@ shut verb past=shut pp=shut
 shutter verb
 shuttle verb
 shy verb note=of a horse: to start aside; shy away
+sicken verb
 side verb
 sideline verb
 sieve verb
@@ -142,6 +155,7 @@ signal verb
 signify verb
 signpost verb
 silence verb
+silt verb
 simmer verb
 simplify verb
 simulate verb
@@ -163,11 +177,14 @@ skew verb
 ski verb
 skid verb
 skim verb
+skin verb
 skip verb
 skirmish verb
 skirt verb
 skyrocket verb
 slack verb
+slacken verb
+slag verb
 slam verb
 slander verb
 slant verb
@@ -200,6 +217,7 @@ smelt verb
 smile verb
 smite verb past=smote pp=smitten|smote conf=90 note=archaic or elevated; smitten also adjectival
 smoke verb
+smolder verb gb=smoulder
 smooth verb
 smother verb
 smudge verb
@@ -270,6 +288,7 @@ split verb past=split pp=split
 spoil verb past=spoiled|spoilt[GB] pp=spoiled|spoilt[GB]
 sponge verb
 sponsor verb
+spoof verb
 spool verb
 spot verb
 spotlight verb past=spotlighted|spotlit pp=spotlighted|spotlit conf=90 note=spotlit less common
@@ -282,11 +301,14 @@ sprint verb
 sprout verb
 spruce verb
 spur verb
+spurn verb
 spy verb
 squall verb
+squander verb
 square verb
 squash verb
 squat verb
+squeak verb
 squeeze verb
 squelch verb
 squint verb
@@ -319,6 +341,7 @@ state verb
 station verb
 stave verb
 stay verb
+steady verb
 steal verb past=stole pp=stolen
 steam verb
 steep verb
@@ -326,6 +349,7 @@ steer verb
 stem verb
 step verb
 stereotype verb
+sterilize verb gb=sterilise|sterilize
 stew verb
 stick verb past=stuck pp=stuck
 stiffen verb
@@ -351,6 +375,7 @@ strain verb
 strand verb
 strangle verb
 strap verb
+stratify verb
 stray verb
 streak verb
 stream verb
@@ -376,6 +401,7 @@ stuff verb
 stumble verb
 stun verb
 stunt verb
+stupefy verb
 style verb
 stylize verb gb=stylise|stylize
 subcontract verb
@@ -397,12 +423,14 @@ substitute verb
 subtitle verb
 subtract verb
 succeed verb
+succor verb gb=succour
 succumb verb
 suck verb
 sue verb
 suffer verb nodouble
 suffice verb
 suffocate verb
+suffuse verb
 suggest verb
 suit verb
 sulk verb
@@ -412,6 +440,8 @@ summon verb
 sunbathe verb
 sunburn verb past=sunburned|sunburnt pp=sunburned|sunburnt conf=90
 sup verb note=to eat supper; to sip
+superimpose verb
+superintend verb
 supersede verb
 supervise verb
 supplant verb
@@ -441,16 +471,19 @@ swallow verb
 swamp verb
 swap verb
 swarm verb
+swathe verb
 sway verb
 swear verb past=swore pp=sworn
 sweat verb
 sweep verb past=swept pp=swept
+sweeten verb
 swell verb past=swelled pp=swollen|swelled
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 swipe verb
 swirl verb
 switch verb
+swoon verb
 symbolize verb gb=symbolise|symbolize
 sympathize verb gb=sympathise|sympathize
 sync verb

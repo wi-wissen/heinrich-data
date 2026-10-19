@@ -3,11 +3,13 @@ fabric         noun
 fabrication noun
 facade noun
 face           noun
+facelift noun
 facet noun
 facial         noun
 facilitation noun pl=- note=uncountable
 facilitator noun
 facility       noun
+facsimile noun
 fact           noun
 faction        noun
 factor         noun
@@ -19,13 +21,16 @@ failure        noun
 fair           noun
 fairness       noun pl=- note=uncountable
 fairy          noun
+fairyland noun
 faith          noun
 faithful       noun
+faithfulness noun pl=- note=uncountable
 fake           noun
 falcon noun
 fall           noun
 fallacy noun
 fallback noun
+fallout noun
 falsehood noun
 fame           noun pl=- note=uncountable
 familiarity    noun
@@ -33,7 +38,9 @@ family         noun
 famine         noun
 fan            noun
 fanatic noun
+fanaticism noun pl=- note=uncountable
 fancy          noun
+fanfare noun
 fang noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
@@ -45,6 +52,7 @@ farmer         noun
 farmhouse noun
 farmland       noun
 fart noun style=colloquial
+farthing noun
 fascination    noun
 fascism noun
 fascist noun
@@ -54,6 +62,7 @@ fat            noun
 fatality       noun
 fate           noun
 father         noun
+fatherhood noun pl=- note=uncountable
 fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
@@ -63,6 +72,7 @@ favor          noun gb=favour
 favorite       noun gb=favourite
 fax            noun
 façade noun note=spelling with cedilla of facade
+fealty noun pl=- note=uncountable
 fear           noun
 feasibility    noun pl=- note=uncountable
 feast          noun
@@ -73,12 +83,15 @@ federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
 fee            noun
+feebleness noun pl=- note=uncountable
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
 feedstock noun
 feel           noun
 feeling        noun
+felicity noun
+feline noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -87,7 +100,9 @@ felon noun
 felony noun
 felt           noun note=the fabric
 female         noun
+feminism noun pl=- note=uncountable
 feminist       noun
+femme noun conf=80 note=loanword, chiefly in femme fatale
 fen noun
 fence          noun
 fencer noun
@@ -105,14 +120,20 @@ fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
+fetish noun
 fetter noun
 fetus noun gb=foetus|fetus
 feud noun
+feudalism noun pl=- note=uncountable
 fever          noun
+fez noun pl=fezzes|fezes
 fiancé noun
 fiancée noun
+fiasco noun pl=fiascos|fiascoes
+fiat noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
+fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
 fiddler noun
@@ -122,10 +143,12 @@ fief noun pl=fiefs
 field          noun
 fielder noun
 fiend noun
+fierceness noun pl=- note=uncountable
 fig            noun
 fight          noun
 fighter        noun
 figure         noun
+figurine noun
 filament noun
 file           noun
 filename noun
@@ -137,6 +160,7 @@ fill           noun
 filler noun
 film           noun
 filmmaker      noun
+filmmaking noun pl=- note=uncountable
 filter         noun
 filth noun pl=- note=uncountable
 filtration noun
@@ -150,8 +174,11 @@ financials noun pl_only conf=85 note=financial statements
 financier noun
 finch noun
 find           noun
+finder noun
 finding        noun
 fine           noun
+fineness noun pl=- note=uncountable
+finery noun pl=- note=uncountable
 finger         noun
 fingernail noun
 fingerprint noun
@@ -165,6 +192,7 @@ fire           noun
 firearm        noun
 firefighter    noun
 firefighting noun pl=- note=uncountable
+firefly noun
 firelight noun pl=- note=uncountable
 fireman noun pl=firemen
 fireplace      noun
@@ -194,9 +222,11 @@ fixation noun
 fixture noun
 fjord noun
 flag           noun
+flagellum noun pl=flagella
 flagship       noun
 flake noun
 flame          noun
+flamenco noun pl=flamencos
 flamingo noun pl=flamingos|flamingoes
 flammability noun pl=- note=uncountable
 flank          noun
@@ -216,6 +246,7 @@ fledgling noun
 fleece noun
 fleet          noun
 flesh          noun pl=- note=uncountable
+flex noun
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
@@ -228,12 +259,14 @@ flipper noun
 flirt noun
 flirtation noun
 float          noun
+floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
 floor          noun
 flop noun
 flora          noun
+florin noun
 flotilla noun
 flounder noun pl=flounder|flounders
 flour          noun
@@ -244,16 +277,20 @@ flower         noun
 flu            noun pl=- note=influenza
 fluctuation noun
 flue noun
+fluency noun pl=- note=uncountable
 fluid          noun
+flurry noun
 flush          noun
 flute          noun
 flutter noun
 flux           noun
 fly            noun
 flyer noun conf=90 note=also flier
+flywheel noun
 foal noun
 foam           noun
 focus          noun pl=focuses|foci
+fodder noun pl=- note=uncountable
 foe            noun
 fog            noun
 foil noun
@@ -263,19 +300,23 @@ foliage        noun pl=- note=uncountable
 folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
+folklorist noun
 follow-up      noun
 follower       noun
 folly          noun
 fondness noun
 font noun
 food           noun
+foodstuff noun
 fool           noun
 foolishness noun pl=- note=uncountable
 foot           noun pl=feet
 footage        noun pl=- note=uncountable
 football       noun
 footballer     noun
+footbridge noun
 footer noun
+footfall noun
 foothill noun
 foothold noun
 footman noun pl=footmen
@@ -305,15 +346,20 @@ forehead       noun
 foreigner      noun
 foreman noun pl=foremen
 forenoon noun style=archaic
+forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
 foresight noun
 forest         noun
+forester noun
 forestry       noun pl=- note=uncountable
+forethought noun pl=- note=uncountable
+foreword noun
 forex noun pl=- note=foreign exchange
 forfeit noun
 forfeiture     noun
 forge          noun
 forgery noun
+forgetfulness noun pl=- note=uncountable
 forgiveness    noun pl=- note=uncountable
 fork           noun
 form           noun
@@ -341,6 +387,7 @@ fowl           noun pl=fowl|fowls
 fox            noun
 fraction       noun
 fracture noun
+fragility noun pl=- note=uncountable
 fragment       noun
 fragmentation noun
 fragrance noun
@@ -352,9 +399,11 @@ Franciscan noun
 frankness noun
 fraternity noun
 fraud          noun
+fraudster noun
 fray noun
 freak noun
 freckle noun
+freedman noun pl=freedmen
 freedom        noun
 freehold       noun
 freeholder noun
@@ -376,11 +425,13 @@ freshman noun pl=freshmen
 freshness noun
 fret noun
 friar noun
+fricative noun
 friction       noun
 fridge noun
 friend         noun
 friendliness noun pl=- note=uncountable
 friendship     noun
+frieze noun
 frigate        noun
 fright         noun
 fringe         noun
@@ -390,11 +441,13 @@ frock noun
 frog noun
 frolic noun
 front          noun
+frontage noun
 frontier       noun
 frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
+froth noun
 frown          noun
 fruit          noun pl=fruit|fruits
 fruition noun
@@ -405,6 +458,7 @@ fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun
+fullness noun pl=- note=uncountable
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

@@ -31,6 +31,7 @@ team verb
 tear verb past=tore pp=torn
 tease verb
 tee verb
+teem verb
 telecast verb past=telecast|telecasted pp=telecast|telecasted conf=90 note=like broadcast; telecasted also occurs
 telecommute verb
 telegraph verb
@@ -54,6 +55,7 @@ text verb
 thank verb
 thatch verb
 thaw verb
+theorize verb gb=theorise|theorize
 thicken verb
 thin verb
 think verb past=thought pp=thought
@@ -67,6 +69,7 @@ throng verb
 throttle verb
 throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
+thud verb
 thump verb
 thunder verb
 thwart verb
@@ -127,6 +130,7 @@ transit verb
 transition verb
 translate verb
 transmit verb double
+transpire verb
 transplant verb
 transport verb
 trap verb
@@ -144,6 +148,7 @@ trend verb
 trespass verb
 trick verb
 trickle verb
+trifle verb
 trigger verb
 trim verb
 trip verb

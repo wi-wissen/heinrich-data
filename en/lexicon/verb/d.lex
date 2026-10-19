@@ -46,6 +46,7 @@ deduce verb
 deduct verb
 deem verb
 deepen verb
+deface verb
 defame verb
 default verb
 defeat verb
@@ -54,6 +55,7 @@ defend verb
 defer verb double
 defile verb
 define verb
+deflect verb
 defraud verb
 defrost verb
 defy verb
@@ -67,9 +69,11 @@ delight verb
 delineate verb
 delist verb
 deliver verb
+deluge verb
 demand verb
 demolish verb
 demonstrate verb
+demoralize verb gb=demoralise|demoralize
 demote verb
 denote verb
 denounce verb
@@ -81,6 +85,7 @@ depict verb
 deplete verb
 deplore verb
 deploy verb
+depopulate verb
 deport verb
 depose verb
 deposit verb
@@ -90,9 +95,11 @@ depress verb
 deprive verb
 derail verb
 deregulate verb
+deride verb
 derive verb
 descend verb
 describe verb
+descry verb
 desert verb
 deserve verb
 design verb
@@ -150,12 +157,14 @@ disappoint verb
 disapprove verb
 disarm verb
 disband verb
+disbelieve verb
 disburse verb
 discard verb
 discern verb
 discharge verb
 discipline verb
 disclose verb
+discomfit verb
 disconcert verb
 disconnect verb
 discontinue verb
@@ -168,11 +177,16 @@ discuss verb
 disdain verb
 disembark verb
 disengage verb
+disfigure verb
 disgrace verb
 disguise verb
 disgust verb
 dish verb
+dishearten verb
+dishonor verb gb=dishonour
+disintegrate verb
 dislike verb
+dislocate verb
 dislodge verb
 dismantle verb
 dismay verb
@@ -199,6 +213,7 @@ dissipate verb
 dissolve verb
 dissuade verb
 distance verb
+distend verb
 distill verb gb=distil conf=90 note=distill US, distil GB; distilled, distilling shared
 distinguish verb
 distort verb
@@ -222,6 +237,7 @@ doctor verb
 document verb
 dodge verb
 dog verb
+dole verb
 domesticate verb
 domicile verb
 dominate verb

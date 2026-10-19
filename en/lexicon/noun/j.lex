@@ -5,7 +5,8 @@ Jacobite noun
 jade noun pl=- note=the stone; also the colour
 jag noun conf=90 note=a sharp point; a spell of activity (a crying jag)
 jaguar noun
-jail           noun
+jail           noun gb=jail|gaol
+jailer noun gb=jailer|gaoler
 jam noun
 Jamaican noun
 janitor noun
@@ -26,24 +27,28 @@ jeopardy noun
 jerk noun
 jersey         noun
 jest           noun
+jester noun
 Jesuit         noun
 jet            noun
 Jew            noun
 jewel          noun
 jeweler noun gb=jeweller
 jewelry noun gb=jewellery pl=- note=uncountable
+jig noun
 jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
 jihad noun
 jingle noun
 job            noun
 jobcentre noun region=GB
+jobholder noun
 joblessness noun pl=- note=uncountable
 jobseeker noun conf=85 note=also job seeker
 jockey noun
 joey noun note=young kangaroo
 joint          noun
 joke           noun
+joker noun
 jotter noun region=GB
 journal        noun
 journalism     noun pl=- note=uncountable
@@ -64,6 +69,7 @@ junction       noun
 juncture noun
 jungle         noun
 junior         noun
+juniper noun
 junk noun
 junta noun
 jurisdiction   noun
@@ -75,3 +81,4 @@ justice        noun
 justification  noun
 jute noun pl=- note=uncountable
 juvenile       noun
+juxtaposition noun

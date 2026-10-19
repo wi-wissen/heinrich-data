@@ -15,6 +15,7 @@ Lagerist noun g=m gen=Lageristen pl=Lageristen
 Lageristin noun g=f gen=Lageristin pl=Lageristinnen
 Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Lagune noun g=f gen=Lagune pl=Lagunen
+Lähmung noun g=f gen=Lähmung pl=Lähmungen
 Laie noun g=m gen=Laien pl=Laien
 Lakai noun g=m gen=Lakaien pl=Lakaien
 Laken noun g=n gen=Lakens pl=Laken
@@ -55,6 +56,7 @@ Lärm noun g=m gen=Lärms|Lärmes pl=- note=no plural
 Lärmbelästigung noun g=f gen=Lärmbelästigung pl=Lärmbelästigungen
 Larve noun g=f gen=Larve pl=Larven
 Lasagne noun g=f gen=Lasagne pl=- note=no plural
+Laser noun g=m gen=Lasers pl=Laser
 Last noun g=f gen=Last pl=Lasten
 Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
@@ -102,14 +104,17 @@ Leck noun g=n gen=Lecks pl=Lecks
 Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
 Leertaste noun g=f gen=Leertaste pl=Leertasten
+Legalisierung noun g=f gen=Legalisierung pl=Legalisierungen
 Legende noun g=f gen=Legende pl=Legenden
 Leggings noun g=f gen=Leggings pl=Leggings
 Legierung noun g=f gen=Legierung pl=Legierungen
 Legion noun g=f gen=Legion pl=Legionen
 Legionär noun g=m gen=Legionärs pl=Legionäre
+Legislative noun g=f gen=Legislative pl=Legislativen
 Legislatur noun g=f gen=Legislatur pl=Legislaturen
 Legislaturperiode noun g=f gen=Legislaturperiode pl=Legislaturperioden
 Legitimation noun g=f gen=Legitimation pl=Legitimationen
+Legitimität noun g=f gen=Legitimität pl=- note=mass noun
 Leguan noun g=m gen=Leguans pl=Leguane
 Lehen noun g=n gen=Lehens pl=Lehen
 Lehm noun g=m gen=Lehms|Lehmes pl=- note=mass noun
@@ -145,6 +150,7 @@ Leiterin noun g=f gen=Leiterin pl=Leiterinnen
 Leitlinie noun g=f gen=Leitlinie pl=Leitlinien
 Leitplanke noun g=f gen=Leitplanke pl=Leitplanken
 Leitung noun g=f gen=Leitung pl=Leitungen
+Lektor noun g=m gen=Lektors pl=Lektoren
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemming noun g=m gen=Lemmings pl=Lemminge
 Lende noun g=f gen=Lende pl=Lenden
@@ -153,10 +159,14 @@ Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
 Lerche noun g=f gen=Lerche pl=Lerchen
+Lesbe noun g=f gen=Lesbe pl=Lesben
 Leser noun g=m gen=Lesers pl=Leser
 Leserin noun g=f gen=Leserin pl=Leserinnen
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
+Letter noun g=f gen=Letter pl=Lettern note=printing type
+Leu noun g=m gen=Leuen pl=Leuen sense=lion style=archaic note=poetic: lion
+Leu noun g=m gen=Leu|Leus pl=Lei sense=currency note=Romanian and Moldovan currency
 Leuchtdiode noun g=f gen=Leuchtdiode pl=Leuchtdioden
 Leuchte noun g=f gen=Leuchte pl=Leuchten
 Leuchter noun g=m gen=Leuchters pl=Leuchter
@@ -167,7 +177,10 @@ Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant unsure
 Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
 Libelle noun g=f gen=Libelle pl=Libellen
+Liberalisierung noun g=f gen=Liberalisierung pl=Liberalisierungen
 Liberalismus noun g=m gen=Liberalismus pl=- note=no plural
+Libido noun g=f gen=Libido pl=- note=mass noun
+Librettist noun g=m gen=Librettisten pl=Librettisten
 Libretto noun g=n gen=Librettos pl=Libretti|Librettos
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
 Lichtung noun g=f gen=Lichtung pl=Lichtungen
@@ -180,6 +193,7 @@ Liebhaberin noun g=f gen=Liebhaberin pl=Liebhaberinnen
 Liebling noun g=m gen=Lieblings pl=Lieblinge
 Lieblingsfach noun g=n gen=Lieblingsfachs|Lieblingsfaches pl=Lieblingsfächer
 Lied noun g=n gen=Liedes|Lieds pl=Lieder
+Liedermacher noun g=m gen=Liedermachers pl=Liedermacher
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
@@ -187,6 +201,7 @@ Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
 Liga noun g=f gen=Liga pl=Ligen
+Ligist noun g=m gen=Ligisten pl=Ligisten note=member club of a league (Bundesligist, Drittligist)
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
 Lilie noun g=f gen=Lilie pl=Lilien
@@ -196,6 +211,7 @@ Limonade noun g=f gen=Limonade pl=Limonaden
 Limousine noun g=f gen=Limousine pl=Limousinen
 Linde noun g=f gen=Linde pl=Linden
 Lineal noun g=n gen=Lineals pl=Lineale
+Linguist noun g=m gen=Linguisten pl=Linguisten
 Linguistik noun g=f gen=Linguistik pl=- note=no plural
 Linie noun g=f gen=Linie pl=Linien
 Link noun g=m gen=Links pl=Links
@@ -211,6 +227,7 @@ Liter noun g=m|n gen=Liters pl=Liter
 Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
+Lithograf noun g=m gen=Lithografen pl=Lithografen
 Liturgie noun g=f gen=Liturgie pl=Liturgien
 Livestream noun g=m gen=Livestreams pl=Livestreams
 Lizenz noun g=f gen=Lizenz pl=Lizenzen
@@ -219,20 +236,24 @@ Lkw-Fahrer noun g=m gen=Lkw-Fahrers pl=Lkw-Fahrer
 Lkw-Fahrerin noun g=f gen=Lkw-Fahrerin pl=Lkw-Fahrerinnen
 Lob noun g=n gen=Lobs|Lobes pl=- note=no plural
 Lobby noun g=f gen=Lobby pl=Lobbys
+Lobbyismus noun g=m gen=Lobbyismus pl=- note=mass noun
 Lobbyist noun g=m gen=Lobbyisten pl=Lobbyisten
 Lobbyistin noun g=f gen=Lobbyistin pl=Lobbyistinnen
 Loch noun g=n gen=Loches|Lochs pl=Löcher
 Locher noun g=m gen=Lochers pl=Locher
 Lockdown noun g=m gen=Lockdowns pl=Lockdowns
 Locke noun g=f gen=Locke pl=Locken
+Lockerung noun g=f gen=Lockerung pl=Lockerungen
 Löffel noun g=m gen=Löffels pl=Löffel
 Logarithmus noun g=m gen=Logarithmus pl=Logarithmen note=Latin loanword; genitive without -es
 Loge noun g=f gen=Loge pl=Logen
 Logik noun g=f gen=Logik pl=- note=no plural
 Login noun g=n|m gen=Logins pl=Logins
+Logis noun g=n gen=Logis pl=Logis note=Kost und Logis
 Logistik noun g=f gen=Logistik pl=- note=no plural
 Logo noun g=n gen=Logos pl=Logos
 Logout noun g=n|m gen=Logouts pl=Logouts
+Lohe noun g=f gen=Lohe pl=Lohen
 Lohn noun g=m gen=Lohnes|Lohns pl=Löhne
 Loipe noun g=f gen=Loipe pl=Loipen
 Lok noun g=f gen=Lok pl=Loks note=Lokomotive
@@ -246,6 +267,7 @@ Los noun g=n gen=Loses pl=Lose
 Losbude noun g=f gen=Losbude pl=Losbuden
 Löschung noun g=f gen=Löschung pl=Löschungen
 Lösung noun g=f gen=Lösung pl=Lösungen
+Lotse noun g=m gen=Lotsen pl=Lotsen
 Lotterie noun g=f gen=Lotterie pl=Lotterien
 Löwe noun g=m gen=Löwen pl=Löwen
 Loyalität noun g=f gen=Loyalität pl=Loyalitäten

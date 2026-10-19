@@ -11,16 +11,19 @@ obituary noun
 object        noun
 objection     noun
 objective     noun
+objectivity noun pl=- note=uncountable
 oblast        noun
 obligation    noun
 oblivion noun pl=- note=uncountable
 oblong noun
+oboe noun
 obscurity noun
 observance noun
 observation   noun
 observatory   noun
 observer      noun
 obsession noun
+obsessive noun
 obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
@@ -75,6 +78,7 @@ onset         noun
 onslaught noun
 onus noun pl=- note=singular only
 op noun style=colloquial note=short for operation: photo op, special ops
+opacity noun
 opal noun
 opener noun
 opening       noun
@@ -94,6 +98,7 @@ oppression    noun
 optic noun
 optimism      noun pl=- note=uncountable
 optimization noun gb=optimisation|optimization
+optimum noun pl=optima|optimums
 option        noun
 opus noun pl=opuses|opera[rare]
 oracle noun
@@ -101,11 +106,13 @@ orange        noun
 orangutan noun
 oration noun
 orator noun
+oratorio noun pl=oratorios
 oratory noun
 orb noun
 orbit         noun
 orchard noun
 orchestra     noun
+orchestration noun
 orchid noun
 ordeal noun
 order         noun
@@ -120,16 +127,19 @@ organism      noun
 organist noun
 organization  noun gb=organisation|organization
 organizer noun gb=organiser|organizer
+oriel noun
 orientation   noun
 orifice noun
 origin        noun
 original      noun
 originality noun pl=- note=uncountable
+origination noun
 originator noun
 ornament      noun
 ornamentation noun
 orphan noun
 orphanage noun
+orthodoxy noun
 orthography noun
 OS            noun abbr note=operating system
 oscillation noun
@@ -169,6 +179,7 @@ outsider noun
 outskirts     noun pl_only
 outsourcing noun pl=- note=uncountable
 oval          noun
+ovation noun
 oven          noun
 over noun note=cricket: a set of six balls
 overall       noun
@@ -185,7 +196,9 @@ overhead      noun
 overlap       noun
 overlay noun
 overload noun
+overpass noun
 overpayment noun
+overpressurization noun gb=overpressurisation|overpressurization conf=85 note=technical register
 override noun
 overrun noun
 overseer noun
@@ -195,6 +208,7 @@ overtime      noun pl=- note=uncountable
 overture noun
 overvaluation noun
 overview      noun
+ovum noun pl=ova
 owl           noun
 owner         noun
 ownership     noun

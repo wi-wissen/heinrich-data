@@ -3,6 +3,7 @@ hacken verb class=weak pp=gehackt perf=haben
 haften verb class=weak pp=gehaftet perf=haben
 hageln verb class=weak pp=gehagelt perf=haben
 häkeln verb class=weak pp=gehäkelt perf=haben
+halbieren verb class=weak pp=halbiert perf=haben
 halten       verb class=strong 3sg=hält past=hielt pp=gehalten subj2=hielte perf=haben
 hämmern verb class=weak pp=gehämmert perf=haben
 handeln verb class=weak pp=gehandelt perf=haben refl=acc
@@ -15,7 +16,9 @@ harken verb class=weak pp=geharkt perf=haben
 harren verb class=weak pp=geharrt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 hasten verb class=weak pp=gehastet perf=sein
+hauchen verb class=weak pp=gehaucht perf=haben
 hauen verb class=strong 3sg=haut past=haute|hieb[archaic] pp=gehauen subj2=haute|hiebe[archaic] perf=haben|sein
+häufen verb class=weak pp=gehäuft perf=haben refl=acc
 hausen verb class=weak pp=gehaust perf=haben
 häuten verb class=weak pp=gehäutet perf=haben refl=acc
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben
@@ -219,6 +222,7 @@ herziehen verb class=strong sep=her 3sg=herzieht past=herzog subj2=herzöge pp=h
 hetzen verb class=weak pp=gehetzt perf=haben|sein
 heucheln verb class=weak pp=geheuchelt perf=haben
 heulen verb class=weak pp=geheult perf=haben
+hierbleiben verb class=strong sep=hier 3sg=hierbleibt past=hierblieb pp=hiergeblieben subj2=hierbliebe perf=sein
 hinaufblicken verb class=weak sep=hinauf pp=hinaufgeblickt perf=haben
 hinauffahren verb class=strong sep=hinauf 3sg=hinauffährt past=hinauffuhr subj2=hinaufführe pp=hinaufgefahren perf=haben|sein
 hinaufgehen verb class=strong sep=hinauf 3sg=hinaufgeht past=hinaufging|hinaufgieng[old] subj2=hinaufginge pp=hinaufgegangen perf=sein

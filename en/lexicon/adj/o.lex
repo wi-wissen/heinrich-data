@@ -11,8 +11,11 @@ obscene adj cmp=more adv=obscenely
 obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
+observational adj
+obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
+obstructive adj
 obvious        adj cmp=more adv=obviously
 occasional     adj adv=occasionally
 occult adj
@@ -30,11 +33,13 @@ oily adj cmp=er
 OK adj abbr note=variant of okay
 okay           adj
 old adj cmp=older|elder sup=oldest|eldest
+olden adj attr_only
 ole            adj style=colloquial note=old
 Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
 onboard adj
+oncoming adj attr_only
 onerous adj cmp=more adv=onerously
 ongoing        adj
 online         adj
@@ -50,12 +55,14 @@ operative      adj
 opercular adj
 ophthalmic adj
 opioid adj
+opportune adj
 opportunistic adj adv=opportunistically
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
 optimal        adj adv=optimally
 optimistic     adj cmp=more adv=optimistically
+optimum adj
 optional       adj adv=optionally
 oral           adj adv=orally
 orange         adj
@@ -66,12 +73,14 @@ ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
 Oriental       adj note=dated; offensive when used of people
+oriental adj
 original       adj adv=originally
 ornamental     adj
 ornate adj cmp=more adv=ornately
 orthodox       adj
 orthogonal adj adv=orthogonally
 ostensible adj adv=ostensibly
+ostentatious adj cmp=more adv=ostentatiously
 Ottoman        adj
 outboard adj
 outbound adj
@@ -79,6 +88,7 @@ outcast adj
 outdated       adj
 outdoor        adj attr_only
 outer          adj attr_only
+outermost adj attr_only
 outgoing adj
 outlying adj
 outpatient     adj
@@ -92,6 +102,7 @@ oval           adj
 ovarian adj
 overall        adj
 overarching adj
+overbearing adj
 overcast adj
 overcrowded adj
 overdrawn adj
@@ -103,8 +114,10 @@ overnight      adj
 overpowering adj cmp=more adv=overpoweringly
 overqualified adj
 overseas       adj
+oversized adj
 overt adj cmp=more adv=overtly
 overweight adj
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj
+oxidative adj

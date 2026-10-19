@@ -1,7 +1,9 @@
+paaren verb class=weak pp=gepaart perf=haben refl=acc
 pachten verb class=weak pp=gepachtet perf=haben
 packen verb class=weak pp=gepackt perf=haben
 paddeln verb class=weak pp=gepaddelt perf=haben|sein
 panieren verb class=weak pp=paniert perf=haben
+panzern verb class=weak pp=gepanzert perf=haben
 paraphieren verb class=weak pp=paraphiert perf=haben
 parken verb class=weak pp=geparkt perf=haben
 passen verb class=weak pp=gepasst perf=haben
@@ -30,6 +32,7 @@ pinkeln verb class=weak pp=gepinkelt perf=haben style=colloquial
 pirschen verb class=weak pp=gepirscht perf=haben refl=acc
 pissen verb class=weak pp=gepisst perf=haben style=colloquial
 plädieren verb class=weak pp=plädiert perf=haben
+plagen verb class=weak pp=geplagt perf=haben
 planen verb class=weak pp=geplant perf=haben
 planschen verb class=weak pp=geplanscht perf=haben
 plappern verb class=weak pp=geplappert perf=haben
@@ -44,6 +47,7 @@ plündern verb class=weak pp=geplündert perf=haben
 pochen verb class=weak pp=gepocht perf=haben
 pökeln verb class=weak pp=gepökelt perf=haben
 poltern verb class=weak pp=gepoltert perf=haben|sein
+porträtieren verb class=weak pp=porträtiert perf=haben
 positionieren verb class=weak pp=positioniert perf=haben
 posten verb class=weak pp=gepostet perf=haben
 postulieren verb class=weak pp=postuliert perf=haben
@@ -57,6 +61,7 @@ predigen verb class=weak pp=gepredigt perf=haben
 preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=haben
 pressen verb class=weak pp=gepresst perf=haben
 priorisieren verb class=weak pp=priorisiert perf=haben
+privatisieren verb class=weak pp=privatisiert perf=haben
 privilegieren verb class=weak pp=privilegiert perf=haben pp_cmp
 proben verb class=weak pp=geprobt perf=haben
 probieren verb class=weak pp=probiert perf=haben

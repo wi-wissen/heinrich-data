@@ -6,11 +6,14 @@ calculate verb
 calibrate verb
 call verb
 calm verb
+camouflage verb
 camp verb
 campaign verb
 cancel verb past=canceled[US]|cancelled pp=canceled[US]|cancelled ing=canceling[US]|cancelling note=cancelled and cancelling are also frequent in American English (own counts)
 cane verb
 canoe verb
+canonize verb gb=canonise|canonize
+cant verb
 canter verb
 cap verb
 capitalize verb gb=capitalise|capitalize
@@ -63,6 +66,7 @@ chance verb
 change verb
 channel verb
 chant verb
+char verb
 characterize verb gb=characterise|characterize
 charge verb
 charm verb
@@ -74,6 +78,7 @@ chatter verb
 chauffeur verb
 cheat verb
 check verb
+checkmate verb
 cheer verb
 cherish verb
 chew verb
@@ -82,6 +87,8 @@ chill verb
 chime verb
 chip verb
 chirp verb
+chisel verb
+chloroform verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -95,6 +102,7 @@ chuckle verb
 cipher verb
 circle verb
 circulate verb
+circumscribe verb
 circumvent verb
 cite verb
 civilize verb gb=civilise|civilize
@@ -150,6 +158,7 @@ code verb
 codename verb
 codify verb
 coerce verb
+coexist verb
 cohabit verb
 cohabitate verb note=US variant of cohabit
 coil verb
@@ -280,13 +289,17 @@ cop verb
 cope verb
 copy verb
 copyright verb
+cordon verb
 corner verb
+corral verb double
 correct verb
 correlate verb
 correspond verb
 corroborate verb
+corrode verb
 corrupt verb
 cost verb past=cost pp=cost
+costume verb
 couch verb
 cough verb
 counsel verb
@@ -295,6 +308,7 @@ countenance verb
 counter verb
 counteract verb
 counterattack verb
+counterbalance verb
 counterfeit verb
 countersign verb
 couple verb
@@ -303,6 +317,7 @@ covenant verb
 cover verb
 covet verb
 cow verb
+cower verb
 crack verb
 crackle verb
 cradle verb

@@ -13,6 +13,7 @@ earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
+eartag noun conf=90 note=agricultural spelling of ear tag
 earth noun
 earthquake noun
 earthwork noun
@@ -21,18 +22,23 @@ ease noun
 easement noun
 east noun
 easterly noun
+eaves noun pl_only
 ebb noun
+ebony noun
 eccentric noun
 eccentricity noun
 ecclesiastic noun
 echo noun pl=echoes
 eclipse noun
+ecliptic noun
 ecology noun
 ecommerce noun pl=- conf=85 note=also e-commerce
 economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
+ecoregion noun
 ecosystem noun
+ecotourism noun pl=- note=uncountable
 ecstasy noun
 eddy noun
 edema noun gb=oedema
@@ -55,10 +61,12 @@ effort noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
+egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
+ejaculation noun
 elaboration noun
 elastic noun
 elasticity noun
@@ -81,11 +89,16 @@ element noun
 elephant noun
 elevation noun
 elevator noun
+elf noun pl=elves
 eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
 elk noun pl=elk|elks
+ellipse noun
+ellipsoid noun
 elm noun
+elocutionist noun
+elongation noun
 eloquence noun pl=- note=uncountable
 em noun
 email noun
@@ -123,6 +136,7 @@ employment noun
 empowerment noun
 empress noun
 emptiness noun pl=- note=uncountable
+emu noun
 emulation noun
 enabler noun
 enactment noun
@@ -135,11 +149,13 @@ encoder noun
 encore noun
 encounter noun
 encouragement noun
+encroachment noun
 encryption noun
 encumbrance noun
 encyclopedia noun gb=encyclopaedia|encyclopedia
 end noun
 endeavor noun gb=endeavour
+endgame noun
 ending noun
 endometriosis noun pl=- note=uncountable
 endorsement noun
@@ -157,18 +173,23 @@ engineer noun
 engineering noun pl=- note=uncountable
 English noun note=the language; plural Englishes for varieties of English
 Englishman noun pl=Englishmen
+engraver noun
 engraving noun
 enhancement noun
+enigma noun
 enjoyment noun
 enlargement noun
 enlightenment noun
 enlistment noun
 enmity noun
+ennui noun pl=- note=uncountable
+enormity noun
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
 ensemble noun
 ensign noun
+enslavement noun pl=- note=uncountable
 entanglement noun
 enterprise noun
 entertainer noun
@@ -178,6 +199,7 @@ enthusiast noun
 entirety noun pl=- note=uncountable
 entitlement noun
 entity noun
+entomologist noun
 entourage noun
 entrance noun
 entrant noun
@@ -189,17 +211,21 @@ entry noun
 envelope noun
 environment noun
 environmentalist noun
+environs noun pl_only
 envoy noun
 envy noun pl=- note=uncountable
 enzyme noun
 EP noun abbr note=extended play record
 epic noun
 epidemic noun
+epidemiologist noun
+epidemiology noun pl=- note=uncountable
 epidermis noun pl=- note=usually uncountable
 epigram noun
 epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
+epitaph noun
 epithet noun
 epoch noun pl=epochs
 equal noun
@@ -209,6 +235,8 @@ equation noun
 equator noun
 equilibrium noun pl=equilibria|equilibriums
 equine noun
+equinox noun
+equipage noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
@@ -227,6 +255,7 @@ error noun
 eruption noun
 escalation noun
 escape noun
+escarpment noun
 escort noun
 escrow noun
 ESP noun abbr pl=- note=extrasensory perception
@@ -244,6 +273,7 @@ estimate noun
 estimation noun
 Estonian noun
 estradiol noun pl=- note=a hormone; British also oestradiol
+estrogen noun gb=oestrogen conf=90 note=oestrogen is the British spelling; estrogen also occurs in British texts
 estuary noun
 etching noun
 eternity noun
@@ -253,14 +283,19 @@ ether noun
 ethic noun
 Ethiopian noun
 ethnicity noun
+ethnology noun pl=- note=uncountable
 ethos noun pl=- note=uncountable
+ethylene noun pl=- note=uncountable
 etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
+eugenics noun pl=- note=uncountable, singular agreement
 eulogy noun
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
+eurozone noun pl=- note=also capitalized Eurozone
+euthanasia noun pl=- note=uncountable
 EV noun abbr note=electric vehicle
 evacuation noun
 evaluation noun
@@ -278,7 +313,9 @@ evil noun
 evolution noun
 ewe noun
 ex noun conf=90 note=former partner
+exactness noun pl=- note=uncountable
 exaggeration noun
+exaltation noun
 exam noun
 examination noun
 examiner noun
@@ -296,9 +333,11 @@ excitation noun
 excitement noun
 exclamation noun
 exclusion noun
+exclusivity noun
 excommunication noun
 excursion noun
 excuse noun
+executable noun
 execution noun
 executioner noun
 executive noun
@@ -311,10 +350,12 @@ exhaustion noun pl=- note=uncountable
 exhibit noun
 exhibition noun
 exhibitor noun
+exhilaration noun pl=- note=uncountable
 exile noun
 existence noun
 exit noun
 exodus noun
+exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
 expatriate noun
@@ -357,6 +398,7 @@ exterior noun
 extermination noun
 externality noun
 extinction noun
+extortion noun pl=- note=uncountable
 extra noun
 extract noun
 extraction noun
@@ -374,3 +416,4 @@ eyebrow noun
 eyelash noun
 eyelid noun
 eyesight noun pl=- note=uncountable
+eyewitness noun

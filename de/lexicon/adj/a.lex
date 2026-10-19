@@ -36,6 +36,7 @@ akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albanisch adj
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
+alleinerziehend adj
 alleinig adj
 allererst adj
 allergisch adj
@@ -46,8 +47,10 @@ allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
 allmählich adj
+allmälig adj spelling=old note=old spelling of allmählich
 allmonatlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
+alphabetisch adj
 alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
@@ -59,6 +62,8 @@ amtierend adj
 amtlich adj
 analog adj
 analytisch adj
+anatomisch adj
+andächtig adj cmp=andächtiger sup=andächtigsten
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
 anfänglich adj
@@ -66,6 +71,7 @@ angeblich adj
 angemessen    adj cmp=angemessener sup=angemessensten
 angenehm adj cmp=angenehmer sup=angenehmsten
 angeschlagen adj
+angesehen adj cmp=angesehener sup=angesehensten note=respected; participle of ansehen with its own meaning
 anglikanisch adj
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
@@ -113,6 +119,9 @@ asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
 astronomisch adj
 atheistisch adj
+atlantisch adj note=der Atlantische Ozean
+atmosphärisch adj
+äthiopisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
 ätzend adj
@@ -137,6 +146,7 @@ ausführlich adj cmp=ausführlicher sup=ausführlichsten
 ausgedehnt adj cmp=ausgedehnter sup=ausgedehntesten
 ausgeglichen adj cmp=ausgeglichener sup=ausgeglichensten
 ausgeprägt adj cmp=ausgeprägter sup=ausgeprägtesten
+ausgiebig adj cmp=ausgiebiger sup=ausgiebigsten
 auskunftspflichtig adj
 ausländisch adj
 ausnahmslos adj
@@ -147,6 +157,7 @@ ausschließlich adj
 außergewöhnlich adj cmp=außergewöhnlicher sup=außergewöhnlichsten
 äußerlich adj
 außerordentlich adj
+außerstande adj pred_only note=außerstande sein, etwas zu tun
 australisch adj
 ausverkauft adj
 auswärtig adj

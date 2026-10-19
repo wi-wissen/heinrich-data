@@ -6,17 +6,20 @@ dagger noun
 dago noun pl=dagos|dagoes style=offensive note=slur for Italians, Spaniards and Portuguese
 daily noun
 dairy noun
+dais noun
 daisy noun
 dale noun
 dam noun
 damage noun
 dame noun
+damnation noun pl=- note=uncountable
 damp noun
 damsel noun
 dan noun conf=80 note=grade in martial arts
 dance noun
 dancer noun
 dandelion noun
+dandy noun
 Dane noun
 danger noun
 Danish noun pl=- note=the language
@@ -48,6 +51,7 @@ deacon noun
 deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
+deafness noun pl=- note=uncountable
 deal noun
 dealer noun
 dealership noun
@@ -82,8 +86,10 @@ deck noun
 deckchair noun
 declaration noun
 decline noun
+deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
+decontamination noun pl=- note=uncountable
 decoration noun
 decrease noun
 decree noun
@@ -103,6 +109,7 @@ defection noun
 defendant noun
 defender noun
 defense noun gb=defence
+defenseman noun pl=defensemen gb=defenceman conf=90 note=ice hockey term, chiefly North American; British spelling assumed from defence
 defensive noun note=on the defensive
 deference noun pl=- note=uncountable
 deferment noun
@@ -116,12 +123,14 @@ deflation noun
 deflection noun
 deforestation noun
 deformation noun
+deformity noun
 degeneration noun
 degradation noun
 degree noun
 dehydration noun pl=- note=uncountable
 dehydrogenase noun
 deity noun
+dejection noun pl=- note=uncountable
 delay noun
 delegate noun
 delegation noun
@@ -139,8 +148,10 @@ deliverance noun
 delivery noun
 dell noun
 delta noun
+deluge noun
 delusion noun
 demand noun
+demarcation noun
 demeanor noun gb=demeanour
 dementia noun
 demise noun
@@ -156,6 +167,7 @@ demonstrator noun
 demotion noun
 den noun
 denial noun
+denim noun
 denomination noun
 denominator noun
 density noun
@@ -179,23 +191,28 @@ deposition noun
 depositor noun
 depository noun
 depot noun
+depravity noun
 depreciation noun
 depression noun
 depressive noun
+depressor noun
 deprivation noun
 depth noun
 deputation noun
 deputy noun
+derailment noun
 derby noun
 deregulation noun pl=- note=uncountable
 derelict noun
 derision noun pl=- note=uncountable
 derivation noun
 derivative noun
+derogation noun
 descendant noun
 descent noun
 description noun
 descriptor noun
+desegregation noun pl=- note=uncountable
 desert noun
 deserter noun
 desertion noun
@@ -215,6 +232,7 @@ despotism noun
 dessert noun
 destination noun
 destiny noun
+destitution noun pl=- note=uncountable
 destroyer noun
 destruction noun
 detachment noun
@@ -246,6 +264,7 @@ devotee noun
 devotion noun
 dew noun
 dexterity noun pl=- note=uncountable
+dharma noun pl=- note=uncountable
 diabetes noun pl=- note=uncountable
 diabetic noun
 diagnosis noun pl=diagnoses
@@ -254,11 +273,13 @@ diagonal noun
 diagram noun
 dial noun
 dialect noun
+dialectic noun
 dialogue noun us=dialog|dialogue conf=90 note=dialog is an American variant, mostly in computing
 dialysis noun pl=dialyses
 diameter noun
 diamond noun
 diaper noun region=US note=British nappy
+diaphragm noun
 diarrhea noun gb=diarrhoea pl=- note=uncountable
 diary noun
 diaspora noun
@@ -268,12 +289,15 @@ dictator noun
 dictatorship noun
 diction noun pl=- note=uncountable
 dictionary noun
+dielectric noun
 diesel noun
 diet noun
 difference noun
 differential noun
 differentiation noun
 difficulty noun
+diffidence noun pl=- note=uncountable
+diffraction noun
 diffusion noun
 dig noun
 digest noun
@@ -289,8 +313,10 @@ dilution noun
 dime noun
 dimension noun
 diminution noun
+dimness noun pl=- note=uncountable
 din noun
 diner noun
+dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
@@ -303,6 +329,7 @@ dip noun
 diploma noun
 diplomacy noun pl=- note=uncountable
 diplomat noun
+diplomatist noun
 dipole noun
 direction noun
 directive noun
@@ -319,22 +346,29 @@ disappearance noun
 disappointment noun
 disapproval noun
 disarmament noun
+disarray noun pl=- note=uncountable
 disaster noun
 disbarment noun
+disbelief noun pl=- note=uncountable
 disbursement noun
 disc noun
 discard noun
+discernment noun pl=- note=uncountable
 discharge noun
 disciple noun
 discipline noun
 disclaimer noun
 disclosure noun
 disco noun pl=discos
+discomfiture noun pl=- note=uncountable
 discomfort noun
 discontent noun
 discontinuance noun
+discontinuation noun
+discontinuity noun
 discord noun
 discount noun
+discouragement noun
 discourse noun
 discoverer noun
 discovery noun
@@ -351,6 +385,7 @@ disguise noun
 disgust noun
 dish noun
 dishonesty noun pl=- note=uncountable
+dishonor noun gb=dishonour
 dishwasher noun
 disinformation noun pl=- note=uncountable
 disintegration noun
@@ -358,6 +393,7 @@ disinvestment noun
 disk noun
 dislike noun
 dislocation noun
+disloyalty noun
 dismay noun
 dismissal noun
 disobedience noun pl=- note=uncountable
@@ -365,6 +401,7 @@ disorder noun
 disparity noun
 dispatch noun gb=dispatch|despatch
 dispatcher noun
+dispensation noun
 dispenser noun
 dispersal noun
 dispersant noun
@@ -393,6 +430,7 @@ distance noun
 distaste noun
 distillery noun
 distinction noun
+distinctness noun pl=- note=uncountable
 distortion noun
 distraction noun
 distress noun
@@ -404,6 +442,7 @@ disturbance noun
 disuse noun pl=- note=uncountable (fall into disuse)
 ditch noun
 diva noun
+divan noun
 dive noun
 diver noun
 divergence noun
@@ -414,6 +453,7 @@ divestiture noun
 divestment noun
 divide noun
 dividend noun
+divination noun
 divinity noun
 division noun
 divorce noun
@@ -424,6 +464,7 @@ do noun pl=dos conf=85 note=a party (informal); dos and don'ts
 doc noun note=colloquial: doctor, document
 dock noun
 docket noun
+dockyard noun
 doctor noun
 doctorate noun
 doctrine noun
@@ -437,6 +478,7 @@ dog noun
 doge noun
 dogma noun
 doings noun pl_only
+dole noun
 doll noun
 dollar noun
 dolly noun
@@ -450,12 +492,15 @@ dominance noun pl=- note=uncountable
 domination noun
 Dominican noun
 dominion noun
+domino noun pl=dominoes|dominos
 donation noun
+donee noun
 dongle noun
 donkey noun
 donor noun
 doodle noun
 doom noun
+doomsday noun
 door noun
 doorbell noun
 doorknob noun
@@ -466,11 +511,14 @@ doorway noun
 dopamine noun pl=- note=uncountable
 dope noun
 dorm noun note=short for dormitory
+dormer noun
 dormitory noun
 dosage noun
 dose noun
+dossier noun
 dot noun
 double noun
+doublet noun
 doubt noun
 dough noun
 doughnut noun us=donut|doughnut conf=90 note=donut is an informal American spelling
@@ -512,6 +560,7 @@ drawl noun
 dread noun
 dream noun
 dreamer noun
+dregs noun pl_only
 dress noun
 dresser noun
 dressing noun
@@ -528,12 +577,16 @@ drop noun
 dropdown noun conf=85 note=also drop-down
 droplet noun
 drought noun
+drudgery noun pl=- note=uncountable
 drug noun
 drum noun
 drummer noun
 drunk noun
+drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
+dryness noun pl=- note=uncountable
+duality noun
 ducat noun
 duchess noun
 duchy noun
@@ -544,6 +597,7 @@ due noun
 duel noun
 duet noun
 duke noun
+dulness noun pl=- style=archaic note=old spelling of dullness
 dummy noun
 dump noun
 dumpling noun
@@ -574,4 +628,6 @@ dynamism noun pl=- note=uncountable
 dynamite noun pl=- note=uncountable
 dynamo noun pl=dynamos
 dynasty noun
+dysentery noun pl=- note=uncountable
 dysfunction noun
+dysphoria noun

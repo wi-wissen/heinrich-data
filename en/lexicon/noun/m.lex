@@ -19,10 +19,12 @@ magazine       noun
 magic          noun pl=- note=uncountable
 magician noun
 magistrate     noun
+magma noun
 magnanimity noun pl=- note=uncountable
 magnate noun
 magnesium noun pl=- note=uncountable
 magnet noun
+magnetism noun pl=- note=uncountable
 magnificence noun pl=- note=uncountable
 magnitude      noun
 magnolia noun
@@ -34,11 +36,14 @@ maiden         noun
 mail           noun
 mailbox noun region=US
 mailing        noun
+mailpiece noun conf=90 note=postal jargon
 mailroom noun
 main           noun
 mainframe noun
 mainland       noun
 mainline noun
+mainsail noun
+mainstay noun
 mainstream     noun
 maintenance    noun pl=- note=uncountable
 maize noun pl=- note=uncountable
@@ -89,8 +94,10 @@ manifesto      noun pl=manifestos|manifestoes
 manifold noun
 manipulation   noun
 mankind        noun pl=- note=uncountable
+manliness noun pl=- note=uncountable
 mannequin noun
 manner         noun
+mannerism noun
 manor          noun
 manpower noun pl=- note=uncountable
 mansion        noun
@@ -124,6 +131,7 @@ marketer noun
 marketing      noun pl=- note=uncountable
 marketplace    noun
 marking        noun
+marksmanship noun pl=- note=uncountable
 markup noun
 marmalade noun pl=- note=uncountable
 marquess noun
@@ -142,6 +150,7 @@ masculinity noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
+masque noun
 masquerade noun
 mass           noun
 massacre       noun
@@ -157,6 +166,8 @@ mate           noun
 mater noun note=mainly in alma mater, dura mater; dated British for mother
 material       noun
 materialism noun pl=- note=uncountable
+materiality noun
+materiel noun pl=- conf=90 note=uncountable; also written matériel
 maternity      noun pl=- note=uncountable
 math           noun pl=- region=US note=British maths
 mathematician  noun
@@ -168,6 +179,7 @@ matron noun
 matter         noun
 mattress noun
 maturity       noun
+maul noun
 mausoleum noun pl=mausoleums|mausolea
 max noun style=colloquial note=to the max; short for maximum
 maxim noun
@@ -179,6 +191,7 @@ MB             noun abbr pl=MB note=megabyte(s)
 MBA noun abbr note=Master of Business Administration
 MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
+mead noun
 meadow         noun
 meal           noun
 mealtime noun
@@ -212,9 +225,11 @@ meeting        noun
 megabyte noun
 megawatt noun
 melancholy     noun pl=- note=uncountable
+melee noun conf=90 note=also written mêlée
 melodrama noun
 melody         noun
 melon noun
+meltdown noun
 member         noun
 membership     noun
 membrane       noun
@@ -246,16 +261,21 @@ mesh noun
 mess           noun
 message        noun
 messenger      noun
+meta-analysis noun pl=meta-analyses
 metabolism noun
 metabolite noun
 metadata noun pl=- note=uncountable
 metal          noun
+metamorphosis noun pl=metamorphoses
 metaphor noun
 metaphysics noun pl=- note=takes a singular verb
 meteor noun
+meteorite noun
+meteorology noun pl=- note=uncountable
 meter          noun gb=metre sense=unit
 meter          noun sense=device
 methane        noun pl=- note=uncountable
+methanol noun pl=- note=uncountable
 method         noun
 Methodist      noun
 methodology    noun
@@ -263,7 +283,9 @@ methyl noun
 metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
+mettle noun pl=- note=uncountable
 Mexican        noun
+microbe noun
 microchip noun
 microfinance noun pl=- note=uncountable
 microloan noun
@@ -272,6 +294,7 @@ microorganism noun
 microphone noun
 microprocessor noun
 microscope noun
+microscopy noun pl=- note=uncountable
 microwave noun
 midday noun
 middle         noun
@@ -283,6 +306,7 @@ midfielder     noun
 midland noun note=the middle region of a country; the Midlands (England)
 midnight       noun
 midpoint noun
+midrash noun pl=midrashim|midrashes conf=80 note=Hebrew loanword; plural forms unsure
 midshipman noun pl=midshipmen
 midst          noun pl=- note=only singular (in the midst of)
 midsummer noun pl=- note=uncountable
@@ -298,9 +322,11 @@ mil noun conf=90 note=thousandth of an inch; colloquially a million
 mile           noun
 mileage noun
 milestone      noun
+milieu noun pl=milieus|milieux
 militant noun
 military       noun
 militia        noun
+militiaman noun pl=militiamen
 milk           noun
 milkshake noun
 mill           noun
@@ -309,6 +335,8 @@ miller noun
 millimeter noun gb=millimetre
 millionaire noun
 millipede noun
+millisecond noun
+millstone noun
 mimic noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
@@ -323,9 +351,11 @@ mining         noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
+mink noun pl=mink|minks
 minke noun
 minor          noun
 minority       noun
+minster noun
 minstrel noun
 mint noun
 minute         noun
@@ -349,11 +379,14 @@ mishap noun
 misinformation noun pl=- note=uncountable
 mismanagement noun pl=- note=uncountable
 mismatch noun
+misogyny noun pl=- note=uncountable
 misprint noun
+misrepresentation noun
 miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
+missy noun style=colloquial
 mist           noun
 mistake        noun
 mister         noun
@@ -362,9 +395,11 @@ mistress       noun
 mistrust noun pl=- note=uncountable
 misunderstanding noun
 misuse         noun
+mite noun
 mitigation     noun
 mitochondrion noun pl=mitochondria
 mitten noun
+mitzvah noun pl=mitzvot|mitzvahs conf=80 note=Hebrew loanword; plural forms unsure
 mix            noun
 mixer noun
 mixture        noun
@@ -375,6 +410,7 @@ mob            noun
 mobile         noun
 mobility       noun
 mobilization noun gb=mobilisation|mobilization
+mobster noun
 moccasin noun
 mockery noun
 mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
@@ -396,6 +432,7 @@ module         noun
 Mohawk noun
 moisture       noun pl=- note=uncountable
 molar noun
+molasses noun pl=- note=uncountable; the lemma ends in -s
 mold           noun gb=mould
 mole noun
 molecule       noun
@@ -416,11 +453,14 @@ moniker noun
 monitor        noun
 monk           noun
 monkey         noun
+monochrome noun
 monograph noun
 monologue noun
 monopile noun
 monoplane      noun
+monopole noun
 monopoly       noun
+monotone noun
 monotony noun pl=- note=uncountable
 monoxide noun
 monsieur       noun pl=messieurs
@@ -432,7 +472,9 @@ monument       noun
 mood           noun
 moon           noun
 moonlight      noun pl=- note=uncountable
+moonshine noun pl=- note=uncountable
 moor           noun
+mooring noun
 moorland noun
 moose noun pl=moose
 mop noun
@@ -440,11 +482,14 @@ moraine noun
 moral          noun
 morale noun pl=- note=uncountable
 morality       noun
+morass noun
 moratorium     noun pl=moratoria|moratoriums
+morbidity noun
 Mormon noun
 morn noun style=archaic note=poetic for morning
 morning        noun
 Moroccan noun
+morphine noun pl=- note=uncountable
 morphology noun
 morrow         noun pl=- style=archaic note=the following day
 morsel noun
@@ -473,6 +518,7 @@ motor          noun
 motorbike noun
 motorcycle     noun
 motorist noun
+motorsport noun
 motorway       noun region=GB note=US freeway, highway
 motto          noun pl=mottoes|mottos
 mound          noun
@@ -484,12 +530,14 @@ mourner noun
 mourning       noun pl=- note=uncountable
 mouse          noun pl=mice
 mouth          noun
+mouthful noun
 move           noun
 movement       noun
 movie          noun
 MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
 MS             noun abbr pl=MSS note=manuscript (plural MSS); multiple sclerosis
+mucosa noun pl=mucosae|mucosas
 mud            noun pl=- note=uncountable
 muddle noun
 muffin noun
@@ -530,6 +578,7 @@ Muslim         noun
 muslin noun
 mussel noun
 mustache noun gb=moustache|mustache conf=90 note=moustache is also frequent in American texts
+mustang noun
 mustard noun
 muster noun
 mutant noun
@@ -546,6 +595,7 @@ myriad noun
 myrtle noun
 mystery        noun
 mystic noun
+mysticism noun pl=- note=uncountable
 myth           noun
 mythology      noun
 Māori          noun pl=Māori conf=90 note=also spelled Maori

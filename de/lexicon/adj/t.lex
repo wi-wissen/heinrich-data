@@ -2,17 +2,21 @@ taff adj cmp=taffer sup=taffsten
 täglich adj
 taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
+tansanisch adj
 tapfer adj cmp=tapferer sup=tapfersten
 tariflich adj
 tätig adj
 tatsächlich adj
 taub adj cmp=tauber sup=taubsten
+tauglich adj cmp=tauglicher sup=tauglichsten
 tausendfach adj
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
+telefonisch adj
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
 temporär adj
+tendenziell adj
 tendenziös adj
 termingemäß adj
 territorial adj
@@ -26,6 +30,7 @@ theoretisch adj
 therapeutisch adj
 thermisch adj
 thüringisch adj
+tibetisch adj
 tief adj cmp=tiefer sup=tiefsten
 tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
 tierisch adj
@@ -43,6 +48,8 @@ touristisch adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
+trans adj indecl conf=80 note=trans Personen; uninflected
+transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 transzendental adj
@@ -54,11 +61,13 @@ treffend adj cmp=treffender sup=treffendsten
 trefflich adj cmp=trefflicher sup=trefflichsten
 trennbar adj
 treu adj cmp=treuer sup=treuesten
+treulich adj style=archaic
 treuwidrig adj
 trocken adj cmp=trockener sup=trockensten
 tropisch adj
 trotzig adj cmp=trotziger sup=trotzigsten
 trüb adj cmp=trüber sup=trübsten
+trunken adj cmp=trunkener sup=trunkensten
 tschechisch adj
 tschechoslowakisch adj
 tüchtig adj cmp=tüchtiger sup=tüchtigsten

@@ -4,9 +4,11 @@ kanban noun pl=- note=uncountable
 kangaroo noun
 karate noun pl=- note=uncountable
 karma noun pl=- note=uncountable
+kava noun
 Kazakh noun
 kebab noun
 keel noun
+keenness noun pl=- note=uncountable
 keep           noun
 keeper         noun
 ken noun pl=- note=beyond one's ken
@@ -20,6 +22,7 @@ key            noun
 keyboard       noun
 keyboardist noun
 keycard noun conf=85
+keyhole noun
 keynote noun
 keypad noun
 keystone noun
@@ -28,6 +31,7 @@ keyword noun
 Khmer noun pl=Khmer
 kibbutz noun pl=kibbutzim|kibbutzes
 kick           noun
+kicker noun
 kickoff noun conf=90 note=also kick-off
 kid            noun
 kidney         noun
@@ -43,6 +47,7 @@ kilowatt noun
 kin            noun pl=- note=collective
 kind           noun
 kindergarten   noun
+kindliness noun pl=- note=uncountable
 kindness       noun
 king           noun
 kingdom        noun
@@ -59,6 +64,7 @@ kitten noun
 kitty noun
 kiwi noun
 knack noun
+knapsack noun
 knave noun
 knee           noun
 kneecap noun

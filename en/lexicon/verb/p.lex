@@ -11,6 +11,7 @@ pair verb
 pale verb
 pall verb
 pan verb
+panhandle verb
 panic verb
 pant verb
 paper verb
@@ -24,6 +25,7 @@ parch verb
 pardon verb
 parent verb
 park verb
+parley verb
 parody verb
 parole verb
 parrot verb
@@ -39,6 +41,7 @@ patch verb
 patent verb
 patrol verb double
 patronize verb gb=patronise|patronize
+patter verb
 pattern verb
 pause verb
 pave verb
@@ -61,6 +64,7 @@ penalize verb gb=penalise|penalize
 pencil verb
 penetrate verb
 pension verb
+people verb note=to populate; the noun is a separate entry
 pepper verb
 perceive verb
 perch verb
@@ -76,6 +80,7 @@ perplex verb
 persecute verb
 persevere verb
 persist verb
+personalize verb gb=personalise|personalize
 personify verb
 persuade verb
 pertain verb
@@ -105,6 +110,7 @@ pilot verb
 pin verb
 pinch verb
 pine verb
+ping verb
 pioneer verb
 pipe verb
 pique verb
@@ -149,6 +155,7 @@ poll verb
 pollute verb
 ponder verb
 pool verb
+poop verb
 pop verb
 popularize verb gb=popularise|popularize
 populate verb
@@ -184,9 +191,11 @@ predominate verb
 preempt verb note=British texts mostly hyphenate (pre-empt)
 preface verb
 prefer verb double
+prefix verb
 prejudice verb
 preload verb
 premiere verb
+prep verb
 prepare verb
 prepay verb prefix=pre past=prepaid pp=prepaid
 prescribe verb
@@ -195,6 +204,7 @@ preserve verb
 preside verb
 press verb
 pressure verb
+pressurize verb gb=pressurise|pressurize
 presume verb
 pretend verb
 prevail verb
@@ -207,6 +217,7 @@ pride verb note=reflexive: pride oneself on
 prime verb
 print verb
 prioritize verb gb=prioritise|prioritize
+privatize verb gb=privatise|privatize
 privilege verb
 prize verb
 probe verb
@@ -237,6 +248,7 @@ propel verb double
 prophesy verb
 propose verb
 prorate verb conf=85
+prorogue verb
 proscribe verb
 prosecute verb
 prospect verb
@@ -249,6 +261,7 @@ protrude verb
 prove verb past=proved pp=proved|proven
 provide verb
 provoke verb
+prowl verb
 prune verb
 pry verb
 publicize verb gb=publicise|publicize
@@ -259,6 +272,7 @@ pulse verb
 pump verb
 pun verb
 punch verb
+punctuate verb
 puncture verb
 punish verb
 purchase verb

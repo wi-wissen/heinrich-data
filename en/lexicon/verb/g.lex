@@ -1,3 +1,4 @@
+gad verb
 gag verb
 gain           verb
 gall verb
@@ -14,6 +15,7 @@ gather         verb
 gauge          verb
 gawp verb region=GB style=colloquial
 gaze           verb
+gazette verb note=to announce officially (gazetted)
 gear           verb
 gel verb
 generalize verb gb=generalise|generalize
@@ -72,6 +74,7 @@ grope verb
 gross          verb
 ground         verb
 group          verb
+grouse verb
 grow           verb past=grew pp=grown
 growl          verb
 grub verb

@@ -30,6 +30,7 @@ feature        verb
 federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
+feign verb
 fell           verb note=to fell a tree
 fence          verb
 fend verb
@@ -39,6 +40,7 @@ fertilize verb gb=fertilise|fertilize
 fetch          verb
 fetter verb
 feud verb
+fictionalize verb gb=fictionalise|fictionalize
 fiddle verb
 fidget verb
 field          verb
@@ -72,6 +74,7 @@ flavor         verb gb=flavour
 flee           verb past=fled pp=fled
 fleece verb
 flesh verb
+flex verb
 flicker verb
 fling          verb past=flung pp=flung
 flip verb
@@ -109,6 +112,7 @@ forecast       verb past=forecast|forecasted pp=forecast|forecasted
 forego verb prefix=fore past=forewent pp=foregone note=also a spelling of forgo
 foreground verb
 foresee verb prefix=fore past=foresaw pp=foreseen
+foreshadow verb
 foretell verb prefix=fore past=foretold pp=foretold
 forfeit verb
 forge          verb
@@ -145,6 +149,7 @@ fringe verb
 frolic verb
 front          verb
 frost          verb
+froth verb
 frown          verb
 frustrate      verb
 fry verb
@@ -158,6 +163,7 @@ fundraise verb conf=85
 funnel verb
 furlough verb
 furnish        verb
+furrow verb
 further        verb note=to further a cause
 fuse verb
 fuss           verb

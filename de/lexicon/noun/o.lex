@@ -15,11 +15,14 @@ Objekt noun g=n gen=Objekts|Objektes pl=Objekte
 Objektivität noun g=f gen=Objektivität pl=- note=abstract noun, no plural
 Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russia, Ukraine, Belarus; plural also Oblasti
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
+Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
 Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
+Obrist noun g=m gen=Obristen pl=Obristen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
+Odyssee noun g=f gen=Odyssee pl=Odysseen
 Ofen noun g=m gen=Ofens pl=Öfen
 Offenbarung noun g=f gen=Offenbarung pl=Offenbarungen
 Offenheit noun g=f gen=Offenheit pl=- note=abstract noun
@@ -66,10 +69,14 @@ Operation noun g=f gen=Operation pl=Operationen
 Operette noun g=f gen=Operette pl=Operetten
 Opfer noun g=n gen=Opfers pl=Opfer
 Opi noun g=m gen=Opis pl=Opis
+Opium noun g=n gen=Opiums pl=- note=mass noun
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
 Opposition noun g=f gen=Opposition pl=Oppositionen
+Optik noun g=f gen=Optik pl=Optiken
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
+Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
 Option noun g=f gen=Option pl=Optionen
+Orakel noun g=n gen=Orakels pl=Orakel
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orangerie noun g=f gen=Orangerie pl=Orangerien
@@ -77,9 +84,11 @@ Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
+Ordinarius noun g=m gen=Ordinarius pl=Ordinarien note=full professor; bare genitive
 Ordner noun g=m gen=Ordners pl=Ordner
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
+Ordre noun g=f gen=Ordre pl=Ordres style=archaic conf=75 note=order, command (French loan)
 Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
 Organigramm noun g=n gen=Organigramms|Organigrammes pl=Organigramme
@@ -91,9 +100,13 @@ Organistin noun g=f gen=Organistin pl=Organistinnen
 Organspende noun g=f gen=Organspende pl=Organspenden
 Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
+Orientalist noun g=m gen=Orientalisten pl=Orientalisten
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
+Originalität noun g=f gen=Originalität pl=- note=mass noun
 Orkan noun g=m gen=Orkans pl=Orkane
+Ornament noun g=n gen=Ornaments|Ornamentes pl=Ornamente
+Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
@@ -102,6 +115,7 @@ Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
+Oscar noun g=m gen=Oscars pl=Oscars note=film award
 Osmane noun g=m gen=Osmanen pl=Osmanen
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
@@ -119,6 +133,7 @@ Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
 Output noun g=m|n gen=Outputs pl=Outputs
 Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
+Oval noun g=n gen=Ovals pl=Ovale
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren
 Oxymoron noun g=n gen=Oxymorons pl=Oxymora

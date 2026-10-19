@@ -14,6 +14,7 @@ veil          verb
 vend verb
 venerate verb
 vent          verb
+ventilate verb
 venture       verb
 verge         verb
 verify        verb
@@ -22,6 +23,7 @@ vet verb
 veto          verb
 vex           verb
 vibrate verb
+victual verb
 video         verb
 videotape verb
 vie verb

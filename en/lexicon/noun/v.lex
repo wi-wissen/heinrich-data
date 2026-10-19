@@ -4,8 +4,11 @@ vaccination   noun
 vaccine       noun
 vacuum        noun
 vagabond noun
+vagary noun
+vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
 vale          noun
+valence noun
 valentine noun
 valet noun
 validation    noun
@@ -19,6 +22,7 @@ value         noun
 valve         noun
 vampire noun
 van           noun
+vandal noun
 vandalism noun pl=- note=uncountable
 vane noun
 vanguard noun
@@ -35,12 +39,15 @@ variety       noun
 varnish noun
 varsity noun
 vase noun
+vasectomy noun
 vassal noun
 VAT           noun abbr pl=- note=value-added tax
 vaudeville noun pl=- note=uncountable
 vault         noun
 vector        noun
+vegan noun
 vegetable     noun
+vegetarian noun
 vegetation    noun pl=- note=uncountable
 vehemence noun pl=- note=uncountable
 vehicle       noun
@@ -53,6 +60,7 @@ veneration noun pl=- note=uncountable
 Venetian      noun
 Venezuelan noun
 vengeance     noun pl=- note=uncountable
+venison noun pl=- note=uncountable
 venom noun
 vent          noun
 ventilation   noun pl=- note=uncountable
@@ -66,10 +74,12 @@ verdure noun pl=- note=literary
 verge         noun
 verification  noun
 vermilion noun pl=- note=uncountable as a color
+vermin noun pl=vermin
 vernacular noun
 versatility noun pl=- note=uncountable
 verse         noun
 version       noun
+vertebra noun pl=vertebrae
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
 vertigo noun pl=vertigoes|vertigos
@@ -77,6 +87,8 @@ vessel        noun
 vest          noun
 vestibule noun
 vestige noun
+vestment noun
+vestry noun
 vet noun
 veteran       noun
 veterinarian noun
@@ -93,12 +105,15 @@ vicarage noun
 vice          noun
 viceroy noun
 vicinity      noun
+vicissitude noun
 victim        noun
 victor        noun
 Victorian     noun
 victory       noun
+victual noun
 video         noun
 videoconference noun
+videoconferencing noun pl=- note=uncountable
 Vietnamese    noun pl=Vietnamese
 view          noun
 viewer        noun
@@ -142,12 +157,16 @@ vista         noun
 visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
+vivacity noun pl=- note=uncountable
+vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
 vocabulary    noun
 vocal         noun
 vocalist      noun
+vocalization noun gb=vocalisation|vocalization
 vocation noun
+vogue noun
 voice         noun
 voicemail noun
 voiceover noun
@@ -157,6 +176,7 @@ voivodeship noun note=Polish province
 volatility noun
 volcano       noun pl=volcanoes|volcanos
 vole noun
+volition noun pl=- note=uncountable
 volley noun
 volleyball    noun
 volt noun
@@ -165,6 +185,7 @@ volume        noun
 volunteer     noun
 vomit noun pl=- note=uncountable
 VOR           noun abbr conf=80 note=VHF omnidirectional range (aviation beacon)
+vortex noun pl=vortices|vortexes
 vote          noun
 voter         noun
 voucher       noun
@@ -173,5 +194,6 @@ vowel         noun
 voyage        noun
 VP noun abbr note=vice president
 VPN noun abbr note=virtual private network
+vulgarity noun
 vulnerability noun
 vulture noun

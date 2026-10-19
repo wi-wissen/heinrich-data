@@ -21,7 +21,9 @@ lagoon        noun
 lair noun
 laird noun
 lake          noun
+lakeside noun
 lamb          noun
+lambda noun
 lament noun
 lamentation noun
 lamina noun pl=laminae|laminas
@@ -36,6 +38,7 @@ landing       noun
 landlady noun
 landlord      noun
 landmark      noun
+landmass noun
 landowner     noun
 landscape     noun
 landslide noun
@@ -44,6 +47,7 @@ language      noun
 languor noun pl=- note=usually uncountable
 Lankan noun note=only in Sri Lankan
 lantern       noun
+lanthorn noun style=archaic note=archaic form of lantern
 lanyard noun
 Lao noun pl=Lao
 lap           noun
@@ -57,6 +61,7 @@ lass noun
 latch noun
 latency noun
 lateness noun pl=- note=uncountable
+latex noun
 lathe noun
 Latin         noun
 Latino        noun note=plural Latinos
@@ -76,6 +81,8 @@ lava noun
 lavatory noun
 lavender noun
 law           noun
+lawlessness noun pl=- note=uncountable
+lawmaker noun
 lawn          noun
 lawnmower noun
 lawsuit       noun
@@ -83,7 +90,9 @@ lawyer        noun
 layer         noun
 layoff noun
 layout        noun
+laziness noun pl=- note=uncountable
 lea noun style=archaic
+leachate noun
 lead          noun
 leader        noun
 leadership    noun
@@ -108,7 +117,9 @@ lecturer      noun
 ledge         noun
 ledger noun
 lee noun
+leech noun
 leek noun
+leeward noun pl=- note=uncountable
 left          noun
 leftist noun
 lefty noun style=colloquial
@@ -130,15 +141,18 @@ lemur noun
 Lenape noun pl=Lenape
 lender        noun
 length        noun
+leniency noun pl=- note=uncountable
 lens          noun
 lentil noun
 leopard       noun
+leprosy noun pl=- note=uncountable
 lesbian       noun
 lesbo noun style=offensive note=homophobic slur
 lesion noun
 lessee        noun
 lesson        noun
 lessor noun
+lethargy noun pl=- note=uncountable
 letter        noun
 letterbox noun region=GB
 letterhead noun
@@ -149,7 +163,9 @@ levee noun
 level         noun
 lever noun
 leverage      noun
+levity noun pl=- note=uncountable
 levy          noun
+lexicon noun pl=lexicons|lexica
 liability     noun
 liaison       noun
 liar noun
@@ -159,6 +175,7 @@ liberal       noun
 liberalism noun pl=- note=uncountable
 liberality noun
 liberation    noun
+liberator noun
 libertarian noun
 liberty       noun
 librarian noun
@@ -174,6 +191,7 @@ lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
 life          noun pl=lives
+lifeblood noun pl=- note=uncountable
 lifeboat noun
 lifecycle noun
 lifeguard noun
@@ -195,8 +213,10 @@ like          noun
 likelihood    noun
 likeness      noun
 liking        noun
+lilac noun
 lily          noun
 limb          noun
+limbo noun note=plural limbos
 lime noun
 limerick noun
 limestone     noun
@@ -225,6 +245,7 @@ liquidation   noun
 liquidator noun
 liquidity     noun pl=- note=uncountable
 liquor        noun
+lisp noun
 list          noun
 listener      noun
 listing       noun
@@ -245,6 +266,7 @@ livery        noun
 livestock     noun pl=- note=uncountable
 livestream noun
 living        noun
+livre noun note=historical French currency
 lizard noun
 llama noun
 LLC           noun abbr note=limited liability company
@@ -263,20 +285,24 @@ local         noun
 locale noun
 localism      noun
 locality      noun
+localization noun gb=localisation|localization
 location      noun
 loch          noun pl=lochs note=Scottish lake
 lock          noun
 lockdown      noun
 locker noun
+locket noun
 locksmith noun
 locomotion noun pl=- note=uncountable
 locomotive    noun
+locus noun pl=loci
 locust noun
 lodge         noun
 lodger noun
 lodging       noun
 loft noun
 log           noun
+logarithm noun
 logbook noun
 logic         noun
 login noun
@@ -288,10 +314,13 @@ lollipop noun
 Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
+longfin noun conf=90 note=fish name modifier, as in longfin tuna
 longing       noun
 longitude noun
+longline noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
+lookback noun conf=85 note=mostly attributive: lookback period
 lookout noun
 lookup noun
 loop          noun
@@ -312,6 +341,7 @@ love          noun
 loveliness noun
 lover         noun
 low           noun
+lowercase noun pl=- note=uncountable
 lowland noun
 loyalist noun
 loyalty       noun
@@ -322,6 +352,7 @@ luggage       noun pl=- note=uncountable
 lugger noun
 lull noun
 lumber        noun pl=- note=uncountable (timber)
+luminosity noun
 lump          noun
 lunatic noun
 lunch         noun
@@ -329,6 +360,7 @@ lunchbox noun
 luncheon      noun
 lunchtime noun
 lung          noun
+lurch noun
 lure noun
 lust noun
 luster noun gb=lustre
@@ -338,5 +370,8 @@ luxury        noun
 lyceum noun
 lychee noun
 lymph noun pl=- note=uncountable
+lymphoma noun pl=lymphomas|lymphomata
+lynx noun pl=lynxes|lynx
+lyre noun
 lyric         noun
 lyricist noun

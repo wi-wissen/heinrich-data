@@ -1,4 +1,6 @@
+ugliness noun pl=- note=uncountable
 Ukrainian     noun
+ulcer noun
 ultimatum noun pl=ultimatums|ultimata[rare]
 ultra noun conf=90 note=an extremist; also used as a prefix
 ultrasound noun
@@ -6,14 +8,17 @@ ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
 unanimity noun pl=- note=uncountable
+unavailability noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
 unconsciousness noun pl=- note=uncountable
+underbrush noun pl=- note=uncountable
 undercut noun
 underestimate noun
 undergraduate noun
 underground   noun
+undergrowth noun pl=- note=uncountable
 underline noun
 underpayment noun
 underperformance noun pl=- note=uncountable
@@ -41,12 +46,15 @@ uniform       noun
 uniformity noun
 union         noun
 unionist      noun
+uniqueness noun pl=- note=uncountable
 unison noun
 unit          noun
 unity         noun note=plural unities: the dramatic unities
 universe      noun
 university    noun
 unknown       noun
+unpopularity noun pl=- note=uncountable
+unreality noun pl=- note=uncountable
 unrest        noun pl=- note=uncountable
 unwillingness noun pl=- note=uncountable
 upbringing noun
@@ -84,9 +92,13 @@ usefulness noun pl=- note=uncountable
 user          noun
 username noun
 usher noun
+usurpation noun
 usurper noun
 utensil noun
+uterus noun pl=uteri|uteruses
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)
+utopia noun
+utopian noun
 utterance     noun

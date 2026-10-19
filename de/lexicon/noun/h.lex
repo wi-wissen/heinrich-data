@@ -5,6 +5,7 @@ Haarreif noun g=m gen=Haarreifs|Haarreifes pl=Haarreife note=compound; the analy
 Haarspray noun g=n gen=Haarsprays pl=Haarsprays
 Habicht noun g=m gen=Habichts pl=Habichte
 Habilitation noun g=f gen=Habilitation pl=Habilitationen
+Habitat noun g=n gen=Habitats pl=Habitate
 Habsburger noun g=m gen=Habsburgers pl=Habsburger
 Hacker noun g=m gen=Hackers pl=Hacker
 Hackerin noun g=f gen=Hackerin pl=Hackerinnen
@@ -28,6 +29,8 @@ Haken noun g=m gen=Hakens pl=Haken
 Halbinsel noun g=f gen=Halbinsel pl=Halbinseln
 Halbjahr noun g=n gen=Halbjahrs|Halbjahres pl=Halbjahre
 Halbzeit noun g=f gen=Halbzeit pl=Halbzeiten
+Halde noun g=f gen=Halde pl=Halden
+Halfpipe noun g=f gen=Halfpipe pl=Halfpipes
 Hälfte noun g=f gen=Hälfte pl=Hälften
 Halle noun g=f gen=Halle pl=Hallen sense=building
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
@@ -58,6 +61,7 @@ Handwerk noun g=n gen=Handwerks|Handwerkes pl=Handwerke
 Handwerker noun g=m gen=Handwerkers pl=Handwerker
 Handwerkerin noun g=f gen=Handwerkerin pl=Handwerkerinnen
 Handy noun g=n gen=Handys pl=Handys
+Hanf noun g=m gen=Hanfs|Hanfes pl=- note=mass noun
 Hang noun g=m gen=Hangs|Hanges pl=Hänge
 Hängematte noun g=f gen=Hängematte pl=Hängematten note=compound not split correctly by the analyser
 Hanse noun g=f gen=Hanse pl=- note=die Hanse (trade league)
@@ -68,6 +72,8 @@ Hardware noun g=f gen=Hardware pl=- note=mass noun
 Harfe noun g=f gen=Harfe pl=Harfen
 Harke noun g=f gen=Harke pl=Harken
 Harmonie noun g=f gen=Harmonie pl=Harmonien
+Harmonisierung noun g=f gen=Harmonisierung pl=Harmonisierungen
+Harnisch noun g=m gen=Harnischs|Harnisches pl=Harnische
 Härte noun g=f gen=Härte pl=Härten
 Harz noun g=n gen=Harzes pl=Harze sense=resin
 Häschen noun g=n gen=Häschens pl=Häschen
@@ -82,6 +88,7 @@ Haube noun g=f gen=Haube pl=Hauben
 Haubentaucher noun g=m gen=Haubentauchers pl=Haubentaucher
 Hauch noun g=m gen=Hauchs|Hauches pl=Hauche
 Hauer noun g=m gen=Hauers pl=Hauer
+Haufe noun g=m gen=Haufens pl=Haufen style=archaic note=older form of Haufen
 Haufen noun g=m gen=Haufens pl=Haufen
 Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
 Haupt noun g=n gen=Hauptes|Haupts pl=Häupter,Häupter,Häuptern|Häupten[archaic],Häupter note=archaic dative plural in zu Häupten
@@ -120,6 +127,7 @@ Hefe noun g=f gen=Hefe pl=Hefen
 Heft noun g=n gen=Heftes|Hefts pl=Hefte
 Hefter noun g=m gen=Hefters pl=Hefter
 Heftigkeit noun g=f gen=Heftigkeit pl=- note=no plural in practice
+Hehl noun g=n|m gen=Hehls pl=- note=only in kein(en) Hehl aus etwas machen
 Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
 Heidelbeere noun g=f gen=Heidelbeere pl=Heidelbeeren
@@ -154,12 +162,16 @@ Helm noun g=m gen=Helms|Helmes pl=Helme
 Helpdesk noun g=m gen=Helpdesks pl=Helpdesks
 Hemd noun g=n gen=Hemds|Hemdes pl=Hemden
 Hemisphäre noun g=f gen=Hemisphäre pl=Hemisphären
+Hemmnis noun g=n gen=Hemmnisses pl=Hemmnisse
 Hemmung noun g=f gen=Hemmung pl=Hemmungen
 Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
 Henkel noun g=m gen=Henkels pl=Henkel
 Henker noun g=m gen=Henkers pl=Henker
 Henne noun g=f gen=Henne pl=Hennen
 Herabsetzung noun g=f gen=Herabsetzung pl=Herabsetzungen
+Heraldik noun g=f gen=Heraldik pl=- note=field of study
+Heraldiker noun g=m gen=Heraldikers pl=Heraldiker
+Herangehensweise noun g=f gen=Herangehensweise pl=Herangehensweisen
 Herausforderung noun g=f gen=Herausforderung pl=Herausforderungen
 Herausgabe noun g=f gen=Herausgabe pl=- note=mass noun; derived from herausgeben
 Herausgeber noun g=m gen=Herausgebers pl=Herausgeber
@@ -181,6 +193,7 @@ Herrscherin noun g=f gen=Herrscherin pl=Herrscherinnen
 Hersteller noun g=m gen=Herstellers pl=Hersteller
 Herstellerin noun g=f gen=Herstellerin pl=Herstellerinnen
 Herstellung noun g=f gen=Herstellung pl=Herstellungen
+Hertz noun g=n gen=Hertz pl=Hertz note=unit of frequency
 Herz noun g=n sg=Herz,Herzens,Herzen|Herze[archaic],Herz pl=Herzen
 Herzinfarkt noun g=m gen=Herzinfarkts|Herzinfarktes pl=Herzinfarkte
 Herzklopfen noun g=n gen=Herzklopfens pl=- note=no plural (mass or abstract noun)
@@ -188,8 +201,10 @@ Herzog noun g=m sg=Herzog,Herzogs,Herzog|Herzoge[archaic],Herzog pl=Herzöge
 Herzogin noun g=f gen=Herzogin pl=Herzoginnen
 Herzogtum noun g=n gen=Herzogtums pl=Herzogtümer
 Hesse noun g=m gen=Hessen pl=Hessen note=inhabitant of Hesse
+Hetman noun g=m gen=Hetmans pl=Hetmane|Hetmans conf=75 note=Cossack leader; plural uncertain
 Hetze noun g=f gen=Hetze pl=- note=mass noun
 Heu noun g=n gen=Heus|Heues pl=- note=mass noun
+Heuchler noun g=m gen=Heuchlers pl=Heuchler
 Heuschober noun g=m gen=Heuschobers pl=Heuschober
 Hexameter noun g=m gen=Hexameters pl=Hexameter
 Hexe noun g=f gen=Hexe pl=Hexen
@@ -226,6 +241,7 @@ Hirte noun g=m gen=Hirten pl=Hirten
 Historie noun g=f gen=Historie pl=Historien
 Historiker noun g=m gen=Historikers pl=Historiker
 Historikerin noun g=f gen=Historikerin pl=Historikerinnen
+Historismus noun g=m gen=Historismus pl=- note=style period
 Hit noun g=m gen=Hits pl=Hits
 Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]
@@ -266,11 +282,14 @@ Holzscheit noun g=n gen=Holzscheits|Holzscheites pl=Holzscheite
 Homeoffice noun g=n gen=Homeoffice|Homeoffices pl=Homeoffices
 Homepage noun g=f gen=Homepage pl=Homepages
 Hommage noun g=f gen=Hommage pl=Hommagen
+Homo noun g=m gen=Homos pl=Homos style=colloquial conf=70 note=colloquial for a homosexual man; also first part of Homo-Ehe and the Latin genus name Homo
 Homonym noun g=n gen=Homonyms pl=Homonyme
 Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
+Homosexuelle noun g=m|f decl=adj
 Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare
 Hoodie noun g=m gen=Hoodies pl=Hoodies
+Hopfen noun g=m gen=Hopfens pl=Hopfen
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
 Horde noun g=f gen=Horde pl=Horden
 Hörer noun g=m gen=Hörers pl=Hörer
@@ -278,6 +297,7 @@ Hörerin noun g=f gen=Hörerin pl=Hörerinnen
 Horizont noun g=m gen=Horizonts|Horizontes pl=Horizonte
 Horn noun g=n gen=Horns|Hornes pl=Hörner
 Hornisse noun g=f gen=Hornisse pl=Hornissen
+Horror noun g=m gen=Horrors pl=- note=mass noun
 Horst noun g=m gen=Horsts|Horstes pl=Horste note=eyrie; also a first name
 Hort noun g=m gen=Hortes|Horts pl=Horte
 Hose noun g=f gen=Hose pl=Hosen
@@ -300,7 +320,9 @@ Hügel noun g=m gen=Hügels pl=Hügel
 Huhn noun g=n gen=Huhns|Huhnes pl=Hühner
 Hühnchen noun g=n gen=Hühnchens pl=Hühnchen
 Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
+Huld noun g=f gen=Huld pl=- note=mass noun; favour, grace (elevated)
 Hülle noun g=f gen=Hülle pl=Hüllen
+Hülse noun g=f gen=Hülse pl=Hülsen
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
 Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
@@ -322,6 +344,7 @@ Hupe noun g=f gen=Hupe pl=Hupen
 Hüpfseil noun g=n gen=Hüpfseils|Hüpfseiles pl=Hüpfseile
 Hürde noun g=f gen=Hürde pl=Hürden
 Hurrikan noun g=m gen=Hurrikans pl=Hurrikane|Hurrikans
+Husar noun g=m gen=Husaren pl=Husaren
 Hussit noun g=m gen=Hussiten pl=Hussiten
 Husten noun g=m gen=Hustens pl=- note=cough; no plural in practice
 Hut noun g=m gen=Hutes|Huts pl=Hüte sense=hat
@@ -329,6 +352,7 @@ Hut noun g=f gen=Hut pl=- sense=guard note=auf der Hut sein; mass noun
 Hüter noun g=m gen=Hüters pl=Hüter
 Hütte noun g=f gen=Hütte pl=Hütten
 Hyäne noun g=f gen=Hyäne pl=Hyänen
+Hybride noun g=f gen=Hybride pl=Hybriden conf=85 note=also masculine der Hybride (weak)
 Hydrographie noun g=f gen=Hydrographie pl=- note=science name
 Hygiene noun g=f gen=Hygiene pl=- note=mass noun
 Hymne noun g=f gen=Hymne pl=Hymnen
@@ -336,3 +360,4 @@ Hyperbel noun g=f gen=Hyperbel pl=Hyperbeln
 Hypotenuse noun g=f gen=Hypotenuse pl=Hypotenusen
 Hypothek noun g=f gen=Hypothek pl=Hypotheken
 Hypothese noun g=f gen=Hypothese pl=Hypothesen
+Hysterie noun g=f gen=Hysterie pl=Hysterien

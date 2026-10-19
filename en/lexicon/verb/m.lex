@@ -1,6 +1,7 @@
 madden verb
 magnify verb
 mail          verb
+maim verb
 maintain      verb
 major         verb
 make          verb past=made pp=made
@@ -38,6 +39,7 @@ mate          verb
 materialize verb gb=materialise|materialize
 matter        verb
 mature        verb
+maul verb
 max verb
 maximize      verb gb=maximise|maximize
 mean          verb past=meant pp=meant
@@ -78,6 +80,7 @@ mint verb
 minute verb
 mire verb
 mirror        verb
+misinterpret verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
 misplace verb
@@ -86,10 +89,12 @@ miss          verb
 misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb
 mistake       verb prefix=mis past=mistook pp=mistaken
+mistreat verb
 mistrust verb
 mistype verb
 misunderstand verb prefix=mis past=misunderstood pp=misunderstood
 misuse        verb
+misvalue verb conf=90 note=chiefly financial and government jargon
 mitigate      verb
 mix           verb
 moan verb
@@ -116,6 +121,7 @@ motion        verb
 motivate      verb
 motor verb
 motorize verb gb=motorise|motorize
+moulder verb us=moulder|molder conf=90 note=corpus has mouldering also in US texts
 mount         verb
 mourn         verb
 mouth         verb
@@ -135,8 +141,10 @@ murmur        verb
 muse verb
 mushroom verb
 muster verb
+mutate verb
 mute verb
 mutilate verb
 mutiny verb
 mutter        verb
 muzzle verb
+mystify verb

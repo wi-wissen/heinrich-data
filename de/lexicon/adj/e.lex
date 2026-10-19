@@ -7,6 +7,7 @@ effizient adj cmp=effizienter sup=effizientesten
 egal adj indecl note=only predicative
 ehemalig adj
 ehrenamtlich adj
+ehrerbietig adj cmp=ehrerbietiger sup=ehrerbietigsten
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
 eidgenössisch adj
@@ -14,6 +15,7 @@ eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
 eiförmig adj
 eifrig adj cmp=eifriger sup=eifrigsten
 eigen adj sup=eigensten
+eigenhändig adj
 eigensinnig adj cmp=eigensinniger sup=eigensinnigsten
 eigenständig adj cmp=eigenständiger sup=eigenständigsten
 eigentlich adj note=die eigentliche Frage; the particle is in closed/
@@ -21,11 +23,14 @@ eigentümlich adj cmp=eigentümlicher sup=eigentümlichsten
 eilig adj cmp=eiliger sup=eiligsten
 eindeutig adj cmp=eindeutiger sup=eindeutigsten
 eindringlich adj cmp=eindringlicher sup=eindringlichsten
+eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 einfältig adj cmp=einfältiger sup=einfältigsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
+eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
+eingleisig adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
@@ -47,6 +52,7 @@ eisig adj cmp=eisiger sup=eisigsten
 eitel adj cmp=eitler sup=eitelsten
 ekelhaft adj cmp=ekelhafter sup=ekelhaftesten
 eklig adj cmp=ekliger sup=ekligsten
+elastisch adj cmp=elastischer sup=elastischsten
 elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
 elektronisch adj
@@ -60,6 +66,7 @@ empfänglich adj cmp=empfänglicher sup=empfänglichsten
 empfindlich adj cmp=empfindlicher sup=empfindlichsten
 empirisch adj
 emsig adj
+endemisch adj
 endgültig adj
 endlich adj
 energetisch adj
@@ -72,6 +79,7 @@ entbehrlich adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
 entgeltlich adj
+entlegen adj cmp=entlegener sup=entlegensten
 entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
@@ -96,15 +104,19 @@ erneut adj
 ernst adj cmp=ernster sup=ernstesten
 ernsthaft adj cmp=ernsthafter sup=ernsthaftesten
 ernstlich adj
+erotisch adj cmp=erotischer sup=erotischsten
 erreichbar adj
 erschrocken adj cmp=erschrockener sup=erschrockensten
 ersichtlich adj
 erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstaunt adj cmp=erstaunter sup=erstauntesten
+erstbeschrieben adj conf=90 note=biology: first described (participle of erstbeschreiben, used as participle only)
 erstmalig adj
+erträglich adj cmp=erträglicher sup=erträglichsten
 erwachsen adj
 erwünscht adj
 erzählend adj
+essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell
 estnisch adj
 ethisch adj
 ethnisch adj
@@ -116,7 +128,10 @@ eventuell adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+existent adj
+existenziell adj
 exklusiv adj cmp=exklusiver sup=exklusivsten
+exotisch adj cmp=exotischer sup=exotischsten
 experimentell adj
 explizit adj
 explosiv adj
@@ -124,3 +139,5 @@ exponentiell adj
 expressionistisch adj
 extern adj
 extrem adj cmp=extremer sup=extremsten
+extremistisch adj
+exzellent adj cmp=exzellenter sup=exzellentesten
