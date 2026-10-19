@@ -31,6 +31,7 @@ Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
 Joker noun g=m gen=Jokers pl=Joker
 Journal noun g=n gen=Journals pl=Journale
+Journalismus noun g=m gen=Journalismus pl=- note=no plural
 Journalist noun g=m gen=Journalisten pl=Journalisten
 Journalistin noun g=f gen=Journalistin pl=Journalistinnen
 Jubel noun g=m gen=Jubels pl=- note=no plural

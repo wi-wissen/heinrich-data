@@ -11,6 +11,7 @@ Magazin noun g=n gen=Magazins pl=Magazine
 Magd noun g=f gen=Magd pl=Mägde
 Magdeburger noun g=m gen=Magdeburgers pl=Magdeburger note=inhabitant of Magdeburg
 Magen noun g=m gen=Magens pl=Mägen|Magen
+Magie noun g=f gen=Magie pl=- note=mass noun
 Magier noun g=m gen=Magiers pl=Magier
 Magierin noun g=f gen=Magierin pl=Magierinnen
 Magister noun g=m gen=Magisters pl=Magister
@@ -58,6 +59,7 @@ Mannigfaltigkeit noun g=f gen=Mannigfaltigkeit pl=Mannigfaltigkeiten
 Mannschaft noun g=f gen=Mannschaft pl=Mannschaften
 Manöver noun g=n gen=Manövers pl=Manöver
 Mantel noun g=m gen=Mantels pl=Mäntel
+Manual noun g=n gen=Manuals pl=Manuale|Manuals conf=80 note=organ keyboard (pl. Manuale); handbook (pl. Manuals)
 Manuskript noun g=n gen=Manuskripts|Manuskriptes pl=Manuskripte
 Mäppchen noun g=n gen=Mäppchens pl=Mäppchen
 Mappe noun g=f gen=Mappe pl=Mappen
@@ -65,6 +67,7 @@ Mär noun g=f gen=Mär pl=Mären
 Marathon noun g=m gen=Marathons pl=Marathons
 Märchen noun g=n gen=Märchens pl=Märchen
 Marder noun g=m gen=Marders pl=Marder
+Mare noun g=n gen=Mare pl=Maria conf=70 note=lunar mare, Latin plural Maria; many hits are names (Mare Nostrum)
 Margarine noun g=f gen=Margarine pl=- note=no plural
 Marge noun g=f gen=Marge pl=Margen
 Margerite noun g=f gen=Margerite pl=Margeriten
@@ -201,6 +204,7 @@ Meteorologin noun g=f gen=Meteorologin pl=Meteorologinnen
 Meter noun g=m|n gen=Meters pl=Meter
 Methan noun g=n gen=Methans pl=- note=chemical compound
 Methode noun g=f gen=Methode pl=Methoden
+Methodik noun g=f gen=Methodik pl=Methodiken
 Methyl noun g=n gen=Methyls pl=- note=chemistry, mostly in compounds
 Metro noun g=f gen=Metro pl=Metros
 Metronom noun g=n gen=Metronoms pl=Metronome
@@ -226,6 +230,7 @@ Mikroskop noun g=n gen=Mikroskops pl=Mikroskope
 Milan noun g=m gen=Milans pl=Milane
 Milch        noun g=f gen=Milch pl=- note=plural Milche only in technical use
 Milde noun g=f gen=Milde pl=- note=abstract noun
+Milieu noun g=n gen=Milieus pl=Milieus
 Militär noun g=n gen=Militärs pl=- sense=forces note=das Militär
 Militär noun g=m gen=Militärs pl=Militärs sense=officer note=ein hoher Militär
 Miliz noun g=f gen=Miliz pl=Milizen
@@ -276,6 +281,7 @@ Mitbewohnerin noun g=f gen=Mitbewohnerin pl=Mitbewohnerinnen
 Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
+Mitkonsekrator noun g=m gen=Mitkonsekrators pl=Mitkonsekratoren
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
 Mitnahme noun g=f gen=Mitnahme pl=Mitnahmen
 Mitschnitt noun g=m gen=Mitschnitts|Mitschnittes pl=Mitschnitte
@@ -312,6 +318,7 @@ Moderator noun g=m gen=Moderators pl=Moderatoren
 Moderatorin noun g=f gen=Moderatorin pl=Moderatorinnen
 Moderne noun g=f gen=Moderne pl=- note=die Moderne; no plural
 Modernisierung noun g=f gen=Modernisierung pl=Modernisierungen
+Modifikation noun g=f gen=Modifikation pl=Modifikationen
 Modul noun g=n gen=Moduls pl=Module
 Modus noun g=m gen=Modus pl=Modi note=bare genitive
 Mofa noun g=n gen=Mofas pl=Mofas
@@ -326,6 +333,7 @@ Molch noun g=m gen=Molchs|Molches pl=Molche
 Molekül noun g=n gen=Moleküls pl=Moleküle
 Moll noun g=n gen=Molls pl=- note=minor key
 Moment noun g=m gen=Moments|Momentes pl=Momente
+Monarch noun g=m gen=Monarchen pl=Monarchen
 Monarchie noun g=f gen=Monarchie pl=Monarchien
 Monat noun g=m gen=Monats|Monates pl=Monate
 Mönch noun g=m gen=Mönchs|Mönches pl=Mönche
@@ -357,6 +365,7 @@ Morgenröte noun g=f gen=Morgenröte pl=- note=no plural
 Mormone noun g=m gen=Mormonen pl=Mormonen
 Morphologie noun g=f gen=Morphologie pl=Morphologien
 Mörser noun g=m gen=Mörsers pl=Mörser
+Mosaik noun g=n gen=Mosaiks pl=Mosaike|Mosaiken
 Moschee noun g=f gen=Moschee pl=Moscheen
 Moskauer noun g=m gen=Moskauers pl=Moskauer note=inhabitant of Moscow; also the indeclinable adjective
 Most noun g=m gen=Mostes|Mosts pl=Moste
@@ -403,6 +412,7 @@ Münster noun g=n gen=Münsters pl=Münster sense=cathedral note=das Münster: m
 Münze noun g=f gen=Münze pl=Münzen
 Murmel noun g=f gen=Murmel pl=Murmeln
 Muschel noun g=f gen=Muschel pl=Muscheln
+Muse noun g=f gen=Muse pl=Musen
 Museum       noun g=n gen=Museums pl=Museen
 Musical noun g=n gen=Musicals pl=Musicals
 Musik noun g=f gen=Musik pl=- note=Musiken is rare
@@ -422,6 +432,8 @@ Mutter       noun g=f gen=Mutter pl=Muttern sense=nut note=Schraubenmutter
 Mütterchen noun g=n gen=Mütterchens pl=Mütterchen
 Mutti noun g=f gen=Mutti pl=Muttis
 Mütze noun g=f gen=Mütze pl=Mützen
+Mystik noun g=f gen=Mystik pl=- note=mass noun
+Mystiker noun g=m gen=Mystikers pl=Mystiker
 Mythe noun g=f gen=Mythe pl=Mythen
 Mythologie noun g=f gen=Mythologie pl=Mythologien
 Mythos noun g=m gen=Mythos pl=Mythen note=bare genitive

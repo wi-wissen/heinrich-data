@@ -12,6 +12,7 @@ katastrophal adj
 katholisch adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
+keltisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kennzeichnungspflichtig adj
 kinderlos adj
@@ -23,6 +24,7 @@ kläglich adj
 klar adj cmp=klarer sup=klarsten
 klasse adj indecl
 klassisch adj
+klassizistisch adj
 klebrig adj cmp=klebriger sup=klebrigsten
 klein        adj cmp=kleiner sup=kleinsten
 klimatisch adj
@@ -34,12 +36,14 @@ knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
 kollaborativ adj
 kollektiv adj
+kolumbianisch adj
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
 kommissarisch adj
 kommunal adj
 kommunikativ adj cmp=kommunikativer sup=kommunikativsten
 kommunistisch adj
+kompakt adj cmp=kompakter sup=kompaktesten
 kompatibel adj cmp=kompatibler sup=kompatibelsten
 kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
@@ -73,6 +77,7 @@ krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but un
 kränklich adj cmp=kränklicher sup=kränklichsten
 krass adj cmp=krasser sup=krassesten
 kraus adj cmp=krauser sup=krausesten
+krautig adj note=botany: krautige Pflanzen
 kreativ adj cmp=kreativer sup=kreativsten
 kribbelig adj cmp=kribbeliger sup=kribbeligsten
 kriegerisch adj
@@ -81,6 +86,7 @@ kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj
 krümelig adj cmp=krümeliger sup=krümeligsten
 krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
+kubanisch adj
 kubisch adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten

@@ -112,6 +112,7 @@ Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
 Integral noun g=n gen=Integrals pl=Integrale
 Integration noun g=f gen=Integration pl=- note=plural not used
 Integrität noun g=f gen=Integrität pl=- note=mass noun
+Intellektuelle noun g=m|f decl=adj
 Intelligenz noun g=f gen=Intelligenz pl=- note=also Intelligenzen (types) rare
 Intendant noun g=m gen=Intendanten pl=Intendanten
 Intendantin noun g=f gen=Intendantin pl=Intendantinnen
@@ -125,6 +126,8 @@ Internat noun g=n gen=Internats pl=Internate
 Internet noun g=n gen=Internets pl=- note=plural not used
 Internetseite noun g=f gen=Internetseite pl=Internetseiten
 Internierung noun g=f gen=Internierung pl=Internierungen
+Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
+Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen
 Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervall noun g=n gen=Intervalls pl=Intervalle
@@ -139,12 +142,14 @@ Inverzugsetzung noun g=f gen=Inverzugsetzung pl=Inverzugsetzungen
 Investition noun g=f gen=Investition pl=Investitionen
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
+Ion noun g=n gen=Ions pl=Ionen
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure
 Ironie noun g=f gen=Ironie pl=- note=no plural in practice
 Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare
 Irrtum noun g=m gen=Irrtums|Irrtumes pl=Irrtümer
 ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
+Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 IT noun g=f gen=IT pl=- note=Informationstechnik
 Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians

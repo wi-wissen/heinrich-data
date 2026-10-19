@@ -1,3 +1,4 @@
+Kabarettist noun g=m gen=Kabarettisten pl=Kabarettisten
 Kabel noun g=n gen=Kabels pl=Kabel
 Kabine noun g=f gen=Kabine pl=Kabinen
 Kabinett noun g=n gen=Kabinetts|Kabinettes pl=Kabinette
@@ -20,6 +21,7 @@ Kaktus noun g=m gen=Kaktus|Kaktusses pl=Kakteen|Kaktusse note=des Kaktus; Latin-
 Kalb noun g=n gen=Kalbs|Kalbes pl=Kälber
 Kalender noun g=m gen=Kalenders pl=Kalender
 Kaliber noun g=n gen=Kalibers pl=Kaliber
+Kalif noun g=m gen=Kalifen pl=Kalifen
 Kalk noun g=m gen=Kalks|Kalkes pl=Kalke
 Kalkül noun g=n|m gen=Kalküls pl=Kalküle
 Kalkulation noun g=f gen=Kalkulation pl=Kalkulationen
@@ -74,6 +76,7 @@ Kapitel noun g=n gen=Kapitels pl=Kapitel
 Kapitulation noun g=f gen=Kapitulation pl=Kapitulationen
 Kaplan noun g=m gen=Kaplans pl=Kapläne
 Kappe noun g=f gen=Kappe pl=Kappen
+Kapsel noun g=f gen=Kapsel pl=Kapseln
 Kapuze noun g=f gen=Kapuze pl=Kapuzen
 Karambolage noun g=f gen=Karambolage pl=Karambolagen
 Karaoke noun g=n gen=Karaokes pl=- note=no plural (mass or abstract noun)
@@ -127,6 +130,7 @@ Katharsis noun g=f gen=Katharsis pl=- note=no plural
 Kathedrale noun g=f gen=Kathedrale pl=Kathedralen
 Kathete noun g=f gen=Kathete pl=Katheten
 Katholik noun g=m gen=Katholiken pl=Katholiken
+Katholizismus noun g=m gen=Katholizismus pl=- note=no plural
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
@@ -228,6 +232,7 @@ Klassenlehrerin noun g=f gen=Klassenlehrerin pl=Klassenlehrerinnen
 Klassensprecher noun g=m gen=Klassensprechers pl=Klassensprecher
 Klassensprecherin noun g=f gen=Klassensprecherin pl=Klassensprecherinnen
 Klassenzimmer noun g=n gen=Klassenzimmers pl=Klassenzimmer
+Klassifikation noun g=f gen=Klassifikation pl=Klassifikationen
 Klassifizierung noun g=f gen=Klassifizierung pl=Klassifizierungen
 Klassik noun g=f gen=Klassik pl=- note=no plural
 Klassiker noun g=m gen=Klassikers pl=Klassiker
@@ -382,6 +387,7 @@ Konfitüre noun g=f gen=Konfitüre pl=Konfitüren
 Konflikt noun g=m gen=Konflikts|Konfliktes pl=Konflikte
 Konföderation noun g=f gen=Konföderation pl=Konföderationen
 Konföderierte noun g=m|f decl=adj note=mostly plural: die Konföderierten (US Civil War)
+Konformität noun g=f gen=Konformität pl=- note=mass noun
 Kongregation noun g=f gen=Kongregation pl=Kongregationen
 Kongress noun g=m gen=Kongresses pl=Kongresse
 König noun g=m gen=Königs|Königes[archaic] pl=Könige
@@ -406,6 +412,7 @@ Konsole noun g=f gen=Konsole pl=Konsolen
 Konsolidierung noun g=f gen=Konsolidierung pl=Konsolidierungen
 Konsonant noun g=m gen=Konsonanten pl=Konsonanten
 Konsortium noun g=n gen=Konsortiums pl=Konsortien
+Konstellation noun g=f gen=Konstellation pl=Konstellationen
 Konstrukt noun g=n gen=Konstrukts|Konstruktes pl=Konstrukte
 Konstruktion noun g=f gen=Konstruktion pl=Konstruktionen
 Konsul noun g=m gen=Konsuls pl=Konsuln|Konsuls[rare]
@@ -568,6 +575,7 @@ Küken noun g=n gen=Kükens pl=Küken
 Kulanz noun g=f gen=Kulanz pl=- note=mass noun
 Kuli noun g=m gen=Kulis pl=Kulis style=colloquial
 Kulisse noun g=f gen=Kulisse pl=Kulissen
+Kult noun g=m gen=Kultes|Kults pl=Kulte
 Kultur noun g=f gen=Kultur pl=Kulturen
 Kultus noun g=m gen=Kultus pl=Kulte conf=80 note=elevated variant of Kult; plural shared with Kult; mostly in Kultusministerium
 Kultusminister noun g=m gen=Kultusministers pl=Kultusminister
@@ -585,6 +593,7 @@ Künstler noun g=m gen=Künstlers pl=Künstler
 Künstlerin noun g=f gen=Künstlerin pl=Künstlerinnen
 Kunststoff noun g=m gen=Kunststoffs|Kunststoffes pl=Kunststoffe
 Kupfer noun g=n gen=Kupfers pl=- note=mass noun
+Kupferstecher noun g=m gen=Kupferstechers pl=Kupferstecher
 Kuppe noun g=f gen=Kuppe pl=Kuppen
 Kuppel noun g=f gen=Kuppel pl=Kuppeln
 Kupplung noun g=f gen=Kupplung pl=Kupplungen

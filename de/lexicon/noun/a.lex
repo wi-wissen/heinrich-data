@@ -34,6 +34,7 @@ Abiturientin noun g=f gen=Abiturientin pl=Abiturientinnen
 Abkehr noun g=f gen=Abkehr pl=- note=no plural
 Abklärung noun g=f gen=Abklärung pl=Abklärungen
 Abkommen      noun g=n gen=Abkommens pl=Abkommen
+Abkömmling noun g=m gen=Abkömmlings pl=Abkömmlinge
 Abkürzung noun g=f gen=Abkürzung pl=Abkürzungen
 Ablage noun g=f gen=Ablage pl=Ablagen note=filing; also storage place
 Ablass noun g=m gen=Ablasses pl=Ablässe
@@ -125,6 +126,7 @@ Adapter noun g=m gen=Adapters pl=Adapter
 Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
 Adel noun g=m gen=Adels pl=- note=mass noun
+Adelige noun g=m|f decl=adj note=variant of Adlige
 Adelsfamilie noun g=f gen=Adelsfamilie pl=Adelsfamilien
 Adelsgeschlecht noun g=n gen=Adelsgeschlechts|Adelsgeschlechtes pl=Adelsgeschlechter
 Ader noun g=f gen=Ader pl=Adern
@@ -301,6 +303,7 @@ Angeklagte noun g=m|f decl=adj note=die Angeklagten
 Angel noun g=f gen=Angel pl=Angeln note=fishing rod; door hinge
 Angelegenheit noun g=f gen=Angelegenheit pl=Angelegenheiten
 Angemessenheit noun g=f gen=Angemessenheit pl=- note=no plural
+Anger noun g=m gen=Angers pl=Anger note=village green
 Angesicht noun g=n gen=Angesichts|Angesichtes pl=Angesichter note=elevated; also in angesichts
 Angestellte   noun g=m|f decl=adj
 Angleichung noun g=f gen=Angleichung pl=Angleichungen
@@ -384,6 +387,7 @@ Antagonist noun g=m gen=Antagonisten pl=Antagonisten
 Anteil        noun g=m gen=Anteils|Anteiles pl=Anteile
 Antenne noun g=f gen=Antenne pl=Antennen
 Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
+Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
 Antisemitismus noun g=m gen=Antisemitismus pl=- note=mass noun
@@ -400,6 +404,7 @@ Anwalt noun g=m gen=Anwalts|Anwaltes pl=Anwälte
 Anwältin noun g=f gen=Anwältin pl=Anwältinnen
 Anwärter noun g=m gen=Anwärters pl=Anwärter
 Anwärterin noun g=f gen=Anwärterin pl=Anwärterinnen
+Anwartschaft noun g=f gen=Anwartschaft pl=Anwartschaften
 Anweisung noun g=f gen=Anweisung pl=Anweisungen
 Anwender noun g=m gen=Anwenders pl=Anwender
 Anwenderin noun g=f gen=Anwenderin pl=Anwenderinnen
@@ -532,6 +537,7 @@ Atmung noun g=f gen=Atmung pl=- note=no plural
 Atom noun g=n gen=Atoms pl=Atome
 Atomkraft noun g=f gen=Atomkraft pl=- note=no plural
 Atommüll noun g=m gen=Atommülls pl=- note=no plural
+Attacke noun g=f gen=Attacke pl=Attacken
 Attentat noun g=n gen=Attentats|Attentates pl=Attentate
 Attentäter noun g=m gen=Attentäters pl=Attentäter
 Attentäterin noun g=f gen=Attentäterin pl=Attentäterinnen

@@ -123,6 +123,7 @@ Testament noun g=n gen=Testaments|Testamentes pl=Testamente
 Teufel noun g=m gen=Teufels pl=Teufel
 Text noun g=m gen=Textes|Texts pl=Texte
 Textaufgabe noun g=f gen=Textaufgabe pl=Textaufgaben
+Textilien noun g=pl
 Textmarker noun g=m gen=Textmarkers pl=Textmarker
 Textverarbeitung noun g=f gen=Textverarbeitung pl=- note=no plural
 Thai noun g=n gen=Thai|Thais pl=- conf=70 note=language (das Thai); also the people, unsure about the plural
@@ -171,6 +172,7 @@ Tisch noun g=m gen=Tisches|Tischs pl=Tische
 Tischler noun g=m gen=Tischlers pl=Tischler
 Tischlerin noun g=f gen=Tischlerin pl=Tischlerinnen
 Titel noun g=m gen=Titels pl=Titel
+Titularbischof noun g=m gen=Titularbischofs pl=Titularbischöfe
 To-do-Liste noun g=f gen=To-do-Liste pl=To-do-Listen
 Toast noun g=m gen=Toastes|Toasts pl=Toaste|Toasts
 Toaster noun g=m gen=Toasters pl=Toaster
@@ -301,6 +303,7 @@ Trost noun g=m gen=Trostes|Trosts pl=- note=no plural
 Truhe noun g=f gen=Truhe pl=Truhen
 Trümmer noun g=pl
 Trümmerfrau noun g=f gen=Trümmerfrau pl=Trümmerfrauen
+Trunk noun g=m gen=Trunks|Trunkes pl=Trünke[rare] note=drink, draught
 Trunkenheit noun g=f gen=Trunkenheit pl=- note=mass noun
 Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen

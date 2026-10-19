@@ -6,6 +6,7 @@ oberflächlich adj
 oberst adj note=attributive only (der oberste Stock)
 obig adj attr_only note=die obige Adresse
 objektiv adj cmp=objektiver sup=objektivsten
+obligatorisch adj
 obsolet adj
 öde adj cmp=öder sup=ödesten
 offen adj cmp=offener sup=offensten
@@ -31,9 +32,11 @@ ordnungsgemäß adj
 ordnungswidrig adj
 organisatorisch adj
 organisch adj
+orientalisch adj
 original adj
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj
 österreichisch adj
-östlich adj note=also a genitive preposition (closed/prepositions.lex)
+östlich adj cmp=östlicher sup=östlichsten note=also a genitive preposition (closed/prepositions.lex)
+oval adj

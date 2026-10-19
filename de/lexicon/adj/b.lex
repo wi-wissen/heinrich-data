@@ -1,3 +1,5 @@
+badisch adj
+baldig adj
 bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
 bankrott adj
@@ -10,6 +12,7 @@ bäuerisch adj
 bäuerlich adj
 baulich adj
 bayerisch adj
+beachtlich adj cmp=beachtlicher sup=beachtlichsten
 bedacht adj note=bedacht auf etwas; participle of bedenken with own meaning
 bedächtig adj cmp=bedächtiger sup=bedächtigsten
 bedauerlich adj cmp=bedauerlicher sup=bedauerlichsten
@@ -35,6 +38,7 @@ behilflich adj
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
 beiderseitig adj
+beidseitig adj
 beige adj
 beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
 beitragspflichtig adj
@@ -42,6 +46,7 @@ bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
 beklommen adj cmp=beklommener sup=beklommensten
 bekloppt adj cmp=bekloppter sup=beklopptesten
+belarussisch adj
 beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
 beliebig adj
@@ -52,6 +57,8 @@ benachbart adj
 bequem adj cmp=bequemer sup=bequemsten
 bereit adj
 bergig adj cmp=bergiger sup=bergigsten
+bergisch adj
+berüchtigt adj cmp=berüchtigter sup=berüchtigtsten
 beruflich adj
 berufsständisch adj
 berühmt adj cmp=berühmter sup=berühmtesten
@@ -65,6 +72,7 @@ besonder      adj note=only declined forms (besondere, besonderer); the adverb i
 besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
+bestmöglich adj
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
 betrieblich adj
@@ -103,6 +111,7 @@ böhmisch adj
 böig adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
+botanisch adj
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
 bräunlich adj
@@ -114,6 +123,7 @@ brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj
 buchstäblich adj
+buddhistisch adj
 bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten

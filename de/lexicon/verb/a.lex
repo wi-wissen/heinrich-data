@@ -198,10 +198,12 @@ adaptieren verb class=weak pp=adaptiert perf=haben
 addieren verb class=weak pp=addiert perf=haben
 administrieren verb class=weak pp=administriert perf=haben
 adoptieren verb class=weak pp=adoptiert perf=haben
+adressieren verb class=weak pp=adressiert perf=haben
 agieren verb class=weak pp=agiert perf=haben
 ahnden verb class=weak pp=geahndet perf=haben
 ähneln verb class=weak pp=geähnelt perf=haben note=with dative
 ahnen verb class=weak pp=geahnt perf=haben
+akkreditieren verb class=weak pp=akkreditiert perf=haben
 akquirieren verb class=weak pp=akquiriert perf=haben
 aktivieren verb class=weak pp=aktiviert perf=haben
 aktualisieren verb class=weak pp=aktualisiert perf=haben
@@ -391,7 +393,9 @@ arbeiten      verb class=weak pp=gearbeitet perf=haben
 archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
+arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
 assistieren verb class=weak pp=assistiert perf=haben
+assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
 attestieren verb class=weak pp=attestiert perf=haben
 aufatmen verb class=weak sep=auf pp=aufgeatmet perf=haben

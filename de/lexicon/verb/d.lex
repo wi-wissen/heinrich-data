@@ -69,12 +69,14 @@ digitalisieren verb class=weak pp=digitalisiert perf=haben
 diktieren verb class=weak pp=diktiert perf=haben
 diskutieren   verb class=weak pp=diskutiert perf=haben
 disponieren verb class=weak pp=disponiert perf=haben
+distanzieren verb class=weak pp=distanziert perf=haben refl=acc pp_cmp note=distanziert also a gradable adjective (distanzierter)
 dividieren verb class=weak pp=dividiert perf=haben
 dokumentieren verb class=weak pp=dokumentiert perf=haben
 dominieren verb class=weak pp=dominiert perf=haben
 donnern verb class=weak pp=gedonnert perf=haben
 dörren verb class=weak pp=gedörrt perf=haben
 dösen verb class=weak pp=gedöst perf=haben
+dotieren verb class=weak pp=dotiert perf=haben
 downloaden verb class=weak pp=gedownloadet perf=haben
 drängeln verb class=weak pp=gedrängelt perf=haben
 drängen verb class=weak pp=gedrängt perf=haben|sein refl=acc

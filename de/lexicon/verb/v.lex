@@ -88,6 +88,7 @@ verfaulen verb class=weak pp=verfault perf=sein
 verfehlen verb class=weak pp=verfehlt perf=haben
 verfeinden verb class=weak pp=verfeindet perf=haben refl=acc
 verfilmen verb class=weak pp=verfilmt perf=haben
+verfluchen verb class=weak pp=verflucht perf=haben
 verflüchtigen verb class=weak pp=verflüchtigt perf=haben refl=acc
 verfolgen verb class=weak pp=verfolgt perf=haben
 verformen verb class=weak pp=verformt perf=haben refl=acc
@@ -325,12 +326,14 @@ versteigern verb class=weak pp=versteigert perf=haben
 versteinern verb class=weak pp=versteinert perf=haben|sein
 verstellen verb class=weak pp=verstellt perf=haben
 versterben verb class=strong 3sg=verstirbt past=verstarb pp=verstorben subj2=verstürbe perf=sein
+verstetigen verb class=weak pp=verstetigt perf=haben refl=acc
 versteuern verb class=weak pp=versteuert perf=haben
 verstimmen verb class=weak pp=verstimmt perf=haben
 verstopfen verb class=weak pp=verstopft perf=haben|sein
 verstören verb class=weak pp=verstört perf=haben
 verstoßen verb class=strong 3sg=verstößt past=verstieß pp=verstoßen subj2=verstieße perf=haben
 verstreichen verb class=strong 3sg=verstreicht past=verstrich pp=verstrichen subj2=verstriche perf=haben|sein note=sein: time passing; haben: spreading
+verstreuen verb class=weak pp=verstreut perf=haben
 verstricken verb class=weak pp=verstrickt perf=haben
 verstümmeln verb class=weak pp=verstümmelt perf=haben
 verstummen verb class=weak pp=verstummt perf=sein

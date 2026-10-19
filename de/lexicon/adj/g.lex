@@ -1,5 +1,6 @@
 gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
+ganzheitlich adj
 ganzjährig adj
 gar adj
 gasförmig adj
@@ -19,6 +20,7 @@ gefälscht adj
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
 gegenwärtig adj
+gegnerisch adj
 gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
 gehörig adj
@@ -47,8 +49,11 @@ genial adj cmp=genialer sup=genialsten
 geografisch adj
 geographisch adj
 geologisch adj
+geometrisch adj
+georgisch adj
 gepunktet adj
 gerade adj cmp=gerader sup=geradesten
+geraum adj attr_only note=only in geraume Zeit, seit geraumer Zeit
 geräumig adj cmp=geräumiger sup=geräumigsten
 gerecht adj cmp=gerechter sup=gerechtesten
 gereizt adj cmp=gereizter sup=gereiztesten
@@ -64,9 +69,12 @@ geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
 geschockt adj cmp=geschockter sup=geschocktesten
 geschwind adj cmp=geschwinder sup=geschwindesten
+gesellig adj cmp=geselliger sup=geselligsten
 gesellschaftlich adj
+gesetzgeberisch adj
 gesetzlich adj
 gesetzwidrig adj
+gesinnt adj note=mostly with an adverb: freundlich gesinnt, die gleich gesinnten
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestresst adj cmp=gestresster sup=gestresstesten
@@ -80,6 +88,7 @@ gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
+gewerbsmäßig adj
 gewesen adj note=attributive participle of sein (der gewesene Minister); aux entries generate no participle adjectives
 gewiss adj cmp=gewisser sup=gewissesten
 gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
@@ -89,6 +98,7 @@ gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
+gigantisch adj
 glänzend adj cmp=glänzender sup=glänzendsten
 gläsern adj
 glatt adj cmp=glatter sup=glattesten
@@ -98,6 +108,7 @@ glaubwürdig adj cmp=glaubwürdiger sup=glaubwürdigsten
 gleich adj note=the adverb is in closed/
 gleichaltrig adj
 gleichberechtigt adj
+gleichgeschlechtlich adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
 gleichnamig adj
@@ -110,6 +121,7 @@ gnädig adj cmp=gnädiger sup=gnädigsten
 golden adj
 gotisch adj
 göttlich adj
+grafisch adj
 gräflich adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
 grammatikalisch adj
@@ -119,6 +131,7 @@ gratis adj indecl
 grau adj cmp=grauer sup=grauesten
 grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten
+gravierend adj cmp=gravierender sup=gravierendsten note=serious (gravierende Mängel); not the participle of gravieren (engrave)
 grell adj cmp=greller sup=grellsten
 grenzüberschreitend adj
 greulich adj cmp=greulicher sup=greulichsten
@@ -128,6 +141,7 @@ grimmig adj cmp=grimmiger sup=grimmigsten
 grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
+großflächig adj
 größtmöglich adj
 großzügig adj cmp=großzügiger sup=großzügigsten
 grotesk adj cmp=grotesker sup=groteskesten

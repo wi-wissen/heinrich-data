@@ -60,8 +60,10 @@ profitieren verb class=weak pp=profitiert perf=haben
 prognostizieren verb class=weak pp=prognostiziert perf=haben
 programmieren verb class=weak pp=programmiert perf=haben
 promovieren verb class=weak pp=promoviert perf=haben
+propagieren verb class=weak pp=propagiert perf=haben
 protestieren verb class=weak pp=protestiert perf=haben
 protokollieren verb class=weak pp=protokolliert perf=haben
+provozieren verb class=weak pp=provoziert perf=haben
 prüfen verb class=weak pp=geprüft perf=haben
 prügeln verb class=weak pp=geprügelt perf=haben refl=acc
 prusten verb class=weak pp=geprustet perf=haben

@@ -71,6 +71,7 @@ Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
 Chronistin noun g=f gen=Chronistin pl=Chronistinnen
 Chronologie noun g=f gen=Chronologie pl=Chronologien
+Clan noun g=m gen=Clans pl=Clans
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger
 Clip noun g=m gen=Clips pl=Clips

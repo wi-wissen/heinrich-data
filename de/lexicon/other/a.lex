@@ -8,6 +8,7 @@ adieu intj
 ah intj
 aha intj
 Anl. x note=Anlage
+Anm. x note=Anmerkung
 Apr. x note=April
 Art. x note=Artikel
 au intj

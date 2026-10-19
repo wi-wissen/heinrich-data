@@ -12,5 +12,6 @@ einigermaßen adv
 einstweilen adv type=time
 empor adv type=direction
 erfahrungsgemäß adv
+erforderlichenfalls adv
 erstmals adv type=time
 extra adv type=degree

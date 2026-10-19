@@ -1,5 +1,6 @@
 taff adj cmp=taffer sup=taffsten
 täglich adj
+taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
 tansanisch adj
 tapfer adj cmp=tapferer sup=tapfersten
@@ -12,13 +13,19 @@ technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
 telefonisch adj
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
+temporär adj
 tendenziös adj
 termingemäß adj
+territorial adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
+thailändisch adj
 thematisch adj
 theologisch adj
 theoretisch adj
+therapeutisch adj
+thermisch adj
+thüringisch adj
 tief adj cmp=tiefer sup=tiefsten
 tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
 tierisch adj
@@ -30,11 +37,13 @@ töricht adj
 tot adj
 total adj
 totalitär adj
+touristisch adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
+transzendental adj
 traumhaft adj cmp=traumhafter sup=traumhaftesten
 traurig adj cmp=trauriger sup=traurigsten
 treffend adj cmp=treffender sup=treffendsten

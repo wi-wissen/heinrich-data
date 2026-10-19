@@ -85,6 +85,7 @@ ungültig adj
 unheimlich adj
 unhöflich adj cmp=unhöflicher sup=unhöflichsten
 uninteressant adj cmp=uninteressanter sup=uninteressantesten
+universell adj
 unklar adj cmp=unklarer sup=unklarsten
 unkonzentriert adj cmp=unkonzentrierter sup=unkonzentriertesten
 unleserlich adj
@@ -96,6 +97,7 @@ unmöglich adj
 unmoralisch adj
 unmotiviert adj cmp=unmotivierter sup=unmotiviertesten
 unnötig adj cmp=unnötiger sup=unnötigsten
+unnütz adj cmp=unnützer sup=unnützesten
 unordentlich adj cmp=unordentlicher sup=unordentlichsten
 unpünktlich adj cmp=unpünktlicher sup=unpünktlichsten
 unrecht adj
@@ -110,6 +112,7 @@ unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
 unsinnig adj
+unsterblich adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
 untauglich adj
 untenstehend adj conf=80 note=also written unten stehend
@@ -118,6 +121,7 @@ unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
 unterhaltspflichtig adj
 unterirdisch adj
 unterjährig adj
+unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
@@ -146,6 +150,7 @@ unzureichend adj
 unzweifelhaft adj
 üppig adj cmp=üppiger sup=üppigsten
 uralt adj
+urban adj
 urkundlich adj
 ursprünglich adj
 uruguayisch adj
