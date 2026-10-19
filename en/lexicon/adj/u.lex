@@ -91,6 +91,7 @@ unhealthy adj cmp=er
 unheard adj
 unidentified adj
 uniform        adj adv=uniformly
+uniformed adj
 unilateral adj adv=unilaterally
 unimaginable adj
 unimportant adj

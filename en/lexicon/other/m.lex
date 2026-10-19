@@ -8,6 +8,7 @@ minimis       x foreign note=only in de minimis
 misc. x abbr note=miscellaneous
 mL x abbr note=millilitre(s)
 mm            x abbr note=millimetre(s)
+mol x abbr note=mole, SI unit symbol
 Mon.          x abbr note=Monday
 mph           x abbr note=miles per hour
 MW            x abbr note=megawatt(s)

@@ -183,6 +183,7 @@ belly noun
 belongings noun pl_only
 beloved noun
 belt noun
+beltway noun region=US note=ring road
 bench noun
 bencher noun region=GB conf=90 note=member of an Inn of Court; also in backbencher
 benchmark noun
@@ -226,6 +227,7 @@ binder noun
 binding noun
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
+biofilm noun
 biofuel noun
 biographer noun
 biography noun
@@ -234,6 +236,7 @@ biologist noun
 biology noun pl=- note=uncountable
 biomarker noun
 biomass noun pl=- note=uncountable
+biosimilar noun
 biotechnology noun
 biplane noun
 birch noun
@@ -367,6 +370,7 @@ Bosnian noun
 bosom noun
 boss noun
 botanist noun
+botany noun pl=- note=uncountable
 botnet noun
 bottle noun
 bottleneck noun

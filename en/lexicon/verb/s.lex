@@ -32,6 +32,7 @@ scope verb
 scorch verb
 score verb
 scorn verb
+scour verb
 scout verb
 scowl verb
 scramble verb
@@ -185,6 +186,7 @@ slope verb
 slow verb
 slug verb
 slumber verb
+slur verb
 slurp verb
 smack verb
 smash verb
@@ -220,6 +222,7 @@ snuggle verb
 soak verb
 soar verb
 sob verb
+sober verb
 soften verb
 soil verb
 sojourn verb
@@ -277,6 +280,7 @@ spy verb
 squall verb
 square verb
 squash verb
+squat verb
 squeeze verb
 squelch verb
 squint verb
@@ -295,6 +299,7 @@ stalk verb
 stall verb
 stammer verb
 stamp verb
+stampede verb
 stand verb past=stood pp=stood
 standardize verb gb=standardise|standardize
 staple verb
@@ -317,6 +322,7 @@ step verb
 stereotype verb
 stew verb
 stick verb past=stuck pp=stuck
+stiffen verb
 stifle verb
 still verb
 stimulate verb
@@ -378,11 +384,14 @@ subpoena verb
 subscribe verb
 subside verb
 subsidize verb gb=subsidise|subsidize
+subsist verb
 substantiate verb
 substitute verb
 subtitle verb
 subtract verb
 succeed verb
+succumb verb
+suck verb
 sue verb
 suffer verb nodouble
 suffice verb
@@ -421,6 +430,7 @@ sustain verb
 suture verb
 swaddle verb
 swallow verb
+swamp verb
 swap verb
 swarm verb
 sway verb

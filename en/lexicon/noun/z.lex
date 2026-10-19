@@ -1,5 +1,6 @@
 zeal noun pl=- note=uncountable
 zebra noun
+zenith noun
 zest noun
 zinc noun pl=- note=uncountable
 Zionist noun
