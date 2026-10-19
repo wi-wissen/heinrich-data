@@ -1,5 +1,6 @@
 AA x abbr conf=90 note=Alcoholics Anonymous; battery size
 AAA x abbr conf=90 note=American Automobile Association; battery size; credit rating
+absentia x foreign note=Latin; only in in absentia
 AD x abbr note=anno Domini
 adieu intj
 ah intj
@@ -21,6 +22,7 @@ ATP x abbr conf=90 note=adenosine triphosphate; Association of Tennis Profession
 attn. x abbr note=attention (of)
 au x foreign note=only in au pair, au revoir
 Aug. x abbr note=August
+australis x foreign note=Latin; only in aurora australis and taxonomic names
 aux x foreign note=French, as in aux pays
 AV x abbr conf=90 note=audiovisual
 Ave. x abbr note=Avenue

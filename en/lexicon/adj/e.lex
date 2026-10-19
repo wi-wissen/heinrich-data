@@ -23,6 +23,7 @@ eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
 efficient adj cmp=more adv=efficiently
+egalitarian adj
 egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
@@ -121,6 +122,7 @@ existential adj adv=existentially
 exogamous adj
 exorbitant adj adv=exorbitantly
 exotic adj
+expansionist adj
 expansive adj
 expectant adj
 expedient adj
@@ -145,6 +147,7 @@ external adj adv=externally
 extinct adj
 extra adj
 extracurricular adj
+extraneous adj adv=extraneously
 extraordinary adj adv=extraordinarily
 extratropical adj
 extravagant adj

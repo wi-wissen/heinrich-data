@@ -1,6 +1,7 @@
 Kazakh adj
 keen           adj cmp=er adv=keenly
 key            adj attr_only
+khaki adj
 Khmer adj
 kind           adj cmp=er adv=kindly
 kindred adj

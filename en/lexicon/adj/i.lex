@@ -28,7 +28,7 @@ immeasurable adj adv=immeasurably
 immediate      adj adv=immediately
 immemorial adj
 immense        adj adv=immensely
-imminent       adj
+imminent       adj adv=imminently
 immoral adj
 immortal       adj
 immovable adj
@@ -47,7 +47,7 @@ imperial       adj
 imperious adj cmp=more adv=imperiously
 impersonal adj adv=impersonally
 impertinent adj
-impetuous adj cmp=more
+impetuous adj cmp=more adv=impetuously
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
@@ -128,6 +128,7 @@ ineffectual adj
 inefficient adj adv=inefficiently
 ineligible     adj
 inert adj
+inertial adj
 inevitable     adj adv=inevitably
 inexcusable adj adv=inexcusably
 inexhaustible adj
@@ -176,6 +177,7 @@ insane         adj cmp=more adv=insanely
 inscrutable adj
 insecure adj
 insensible adj
+insensitive adj cmp=more adv=insensitively
 inseparable adj
 insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
@@ -228,10 +230,12 @@ interstellar adj
 intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
+intramarket adj conf=85 note=finance: within one market, as in intramarket spread
 intrastate adj
 intricate adj cmp=more adv=intricately
 intrinsic adj adv=intrinsically
 introductory   adj
+introspective adj cmp=more
 intrusive adj cmp=more
 intuitive adj cmp=more adv=intuitively
 Inuit adj

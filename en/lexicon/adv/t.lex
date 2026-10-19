@@ -3,6 +3,7 @@ thenceforth adv type=time style=archaic
 thereabouts adv type=place|degree
 thereafter adv type=time
 thereby adv type=manner
+therefor adv conf=90 note=legal and formal: for that, for it; distinct from therefore
 therein adv type=place
 thereof adv
 thereon adv type=place

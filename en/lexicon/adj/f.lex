@@ -1,5 +1,6 @@
 fabulous adj adv=fabulously
 facial         adj
+facile adj cmp=more adv=facilely
 factual        adj adv=factually
 faint          adj cmp=er adv=faintly
 fair           adj cmp=er adv=fairly
@@ -149,6 +150,7 @@ fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally
 fundamental    adj adv=fundamentally
 funerary       adj
+funereal adj adv=funereally
 fungal adj
 funny          adj cmp=er
 furious        adj adv=furiously

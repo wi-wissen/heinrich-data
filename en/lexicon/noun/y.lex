@@ -10,6 +10,7 @@ yearning noun
 yeast noun
 yell noun
 yellow noun
+yeoman noun pl=yeomen
 yesterday noun
 yid noun style=offensive note=antisemitic slur
 yield noun

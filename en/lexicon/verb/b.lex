@@ -98,6 +98,7 @@ blow verb past=blew pp=blown
 bluff verb
 blunder verb
 blur verb
+blurt verb
 blush verb
 bluster verb
 board verb

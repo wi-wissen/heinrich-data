@@ -42,6 +42,7 @@ helpful        adj cmp=more adv=helpfully
 helpless       adj adv=helplessly
 hemorrhagic adj gb=haemorrhagic
 heraldic adj
+herbaceous adj
 herbal adj
 hereditary     adj
 heretical adj
@@ -83,7 +84,7 @@ horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
 horticultural adj
-hospitable adj cmp=more
+hospitable adj cmp=more adv=hospitably
 hostile        adj
 hot            adj cmp=er adv=hotly
 hourly         adj
@@ -103,6 +104,7 @@ husky adj cmp=er
 hybrid         adj
 hydraulic      adj
 hydroelectric adj
+hydrographic adj
 hydrologic adj
 hyperbolic adj
 hypocritical adj cmp=more adv=hypocritically

@@ -79,6 +79,7 @@ feeder noun
 feedstock noun
 feel           noun
 feeling        noun
+feint noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -113,6 +114,7 @@ fiancé noun
 fiancée noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
+fibrillation noun
 fiction        noun
 fiddle noun
 fiddler noun
@@ -126,6 +128,7 @@ fig            noun
 fight          noun
 fighter        noun
 figure         noun
+figurehead noun
 filament noun
 file           noun
 filename noun
@@ -208,6 +211,7 @@ flash          noun
 flashback noun
 flask noun
 flat           noun
+flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)
 flattery noun
 flavor         noun gb=flavour
 flaw noun
@@ -219,6 +223,7 @@ flesh          noun pl=- note=uncountable
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
+flier noun note=variant spelling of flyer
 flight         noun
 fling          noun
 flint noun
@@ -234,6 +239,7 @@ floodplain     noun
 floor          noun
 flop noun
 flora          noun
+flotation noun note=floatation is a rare variant
 flotilla noun
 flounder noun pl=flounder|flounders
 flour          noun
@@ -250,6 +256,7 @@ flute          noun
 flutter noun
 flux           noun
 fly            noun
+flycatcher noun
 flyer noun conf=90 note=also flier
 foal noun
 foam           noun
@@ -304,6 +311,7 @@ foreground noun
 forehead       noun
 foreigner      noun
 foreman noun pl=foremen
+foremast noun
 forenoon noun style=archaic
 forerunner noun
 foresight noun
@@ -386,6 +394,7 @@ fright         noun
 fringe         noun
 frisbee noun
 fritillary noun
+frivolity noun
 frock noun
 frog noun
 frolic noun
@@ -411,6 +420,7 @@ fun            noun pl=- note=uncountable
 function       noun
 functionality  noun
 functionary noun
+functor noun
 fund           noun
 fundamental    noun
 funding        noun pl=- note=uncountable; the verb form funding comes from fund
@@ -433,4 +443,5 @@ fuselage       noun
 fusion         noun
 fuss           noun
 futility noun pl=- note=uncountable
+futsal noun pl=- note=uncountable
 future         noun

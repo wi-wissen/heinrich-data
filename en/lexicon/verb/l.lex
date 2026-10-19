@@ -11,6 +11,7 @@ languish verb
 lap           verb
 lapse         verb
 lash verb
+lasso verb 3sg=lassos|lassoes
 last          verb
 latch verb
 laud verb

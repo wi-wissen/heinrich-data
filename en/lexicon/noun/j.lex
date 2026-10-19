@@ -1,5 +1,6 @@
 jab noun
 jack noun
+jackal noun
 jacket         noun
 Jacobite noun
 jade noun pl=- note=the stone; also the colour
@@ -64,6 +65,7 @@ junction       noun
 juncture noun
 jungle         noun
 junior         noun
+juniper noun
 junk noun
 junta noun
 jurisdiction   noun

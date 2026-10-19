@@ -200,12 +200,15 @@ articulate adj adv=articulately
 artificial adj adv=artificially
 artistic adj adv=artistically
 arty adj cmp=er
+asexual adj adv=asexually
 ashamed adj pred_only
+ashen adj
 Ashkenazi adj
 Asian adj
 Asiatic adj
 asleep adj pred_only
 assertive adj cmp=more adv=assertively
+assiduous adj cmp=more adv=assiduously
 assignable adj
 assistive adj
 associate adj
@@ -245,6 +248,7 @@ autumnal adj
 auxiliary adj
 available adj
 avant-garde adj
+avaricious adj cmp=more adv=avariciously
 average adj
 averse adj pred_only
 avian adj

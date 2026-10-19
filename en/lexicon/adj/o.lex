@@ -1,3 +1,4 @@
+obdurate adj cmp=more adv=obdurately
 obedient adj cmp=more adv=obediently
 obese adj cmp=more
 objectionable adj cmp=more
@@ -31,6 +32,7 @@ OK adj abbr note=variant of okay
 okay           adj
 old adj cmp=older|elder sup=oldest|eldest
 ole            adj style=colloquial note=old
+olfactory adj
 Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
@@ -62,6 +64,7 @@ orange         adj
 orbital        adj
 orchestral     adj
 orderly        adj
+ordinal adj
 ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
@@ -85,6 +88,7 @@ outpatient     adj
 outrageous     adj adv=outrageously
 outright       adj
 outspoken adj
+outspread adj
 outstanding    adj adv=outstandingly
 outstretched adj
 outward        adj adv=outwardly

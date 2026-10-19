@@ -233,6 +233,7 @@ deterrent noun
 detonation noun
 detour noun
 detriment noun
+detritus noun pl=- note=uncountable
 deuce noun
 devaluation noun
 devastation noun pl=- note=uncountable
@@ -430,6 +431,7 @@ doctrine noun
 document noun
 documentary noun
 documentation noun pl=- note=uncountable
+dodecahedron noun pl=dodecahedra|dodecahedrons
 dodge noun
 dodger noun
 doe noun
@@ -534,6 +536,7 @@ drummer noun
 drunk noun
 drunkenness noun pl=- note=uncountable
 dryer noun
+dualism noun
 ducat noun
 duchess noun
 duchy noun
@@ -543,6 +546,7 @@ duct noun
 due noun
 duel noun
 duet noun
+dugout noun
 duke noun
 dummy noun
 dump noun
@@ -551,6 +555,7 @@ dune noun
 dungarees noun pl_only
 dungeon noun
 duo noun
+duodenum noun pl=duodena|duodenums
 duplicate noun
 duplication noun
 durability noun pl=- note=uncountable

@@ -7,12 +7,14 @@ vagabond noun
 vagrant noun
 vale          noun
 valentine noun
+valerate noun conf=90 note=chemistry: salt or ester of valeric acid
 valet noun
 validation    noun
 validity      noun pl=- note=uncountable
 valise noun
 valley        noun
 valor noun gb=valour pl=- note=uncountable
+valproate noun
 valuable      noun
 valuation     noun
 value         noun

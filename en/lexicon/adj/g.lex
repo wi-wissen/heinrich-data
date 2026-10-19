@@ -28,6 +28,7 @@ geologic adj
 geological     adj adv=geologically
 geometric      adj adv=geometrically
 geometrical adj adv=geometrically
+geophysical adj
 geopolitical adj
 Georgian       adj
 German         adj
@@ -41,6 +42,7 @@ gigantic       adj
 gilded         adj
 gilt adj
 ginger adj
+gingerly adj
 ginormous adj style=colloquial
 girlish adj
 glacial adj
@@ -71,6 +73,7 @@ grassroots     adj
 grassy adj cmp=er
 grateful       adj cmp=more adv=gratefully
 grave          adj cmp=er adv=gravely
+graven adj note=old participle of grave, as in graven image
 gravitational adj
 gray           adj cmp=er gb=grey
 greasy adj cmp=er
@@ -78,6 +81,7 @@ great          adj cmp=er adv=greatly
 greedy adj cmp=er adv=greedily
 Greek          adj
 green          adj cmp=er
+gregarious adj cmp=more adv=gregariously
 grievous adj
 grim           adj cmp=er adv=grimly
 grimy adj cmp=er

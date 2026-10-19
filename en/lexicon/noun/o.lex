@@ -59,6 +59,7 @@ oldie noun style=colloquial
 oligarch noun pl=oligarchs
 oligarchy noun
 olive         noun
+olivine noun pl=- note=uncountable
 Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
@@ -83,6 +84,7 @@ opera         noun
 operation     noun
 operative     noun
 operator      noun
+operculum noun pl=opercula
 opinion       noun
 opioid noun
 opium noun pl=- note=uncountable
@@ -110,6 +112,7 @@ orchid noun
 ordeal noun
 order         noun
 orderly       noun
+ordinal noun
 ordinance     noun
 ordination noun
 ordnance noun pl=- note=uncountable

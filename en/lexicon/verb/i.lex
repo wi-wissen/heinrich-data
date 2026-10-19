@@ -7,6 +7,7 @@ illuminate     verb
 illumine verb style=archaic
 illustrate     verb
 imagine        verb
+imbibe verb
 imitate verb
 immerse verb
 immigrate verb
@@ -43,6 +44,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indent verb
 index          verb
 indicate       verb
 indict verb
@@ -137,5 +139,6 @@ irritate       verb
 isolate        verb
 issue verb
 italicize verb gb=italicise|italicize
+itch verb
 itemize verb gb=itemise|itemize
 iterate verb

@@ -2,6 +2,7 @@ ubiquitous adj cmp=more adv=ubiquitously
 ugly           adj cmp=er
 Ukrainian      adj
 ultimate       adj adv=ultimately
+ultralight adj
 ultraviolet adj
 unabated adj
 unable         adj pred_only
@@ -13,7 +14,9 @@ unadjusted adj
 unaffected adj
 unaffiliated adj
 unanimous      adj adv=unanimously
+unanswerable adj
 unanswered adj
+unapproved adj
 unarmed adj
 unattractive adj cmp=more
 unauthorized   adj gb=unauthorised|unauthorized
@@ -36,6 +39,7 @@ uncomfortable  adj cmp=more adv=uncomfortably
 uncommon       adj cmp=more adv=uncommonly
 uncompromising adj adv=uncompromisingly
 unconditional adj adv=unconditionally
+unconfirmed adj
 unconscious    adj adv=unconsciously
 unconstitutional adj
 uncontrollable adj adv=uncontrollably
@@ -60,6 +64,7 @@ understandable adj adv=understandably
 understanding  adj
 underwater     adj
 underway       adj
+undeserved adj
 undesirable adj
 undetected adj
 undeveloped adj
@@ -74,6 +79,7 @@ unearthly adj
 uneasy         adj cmp=er adv=uneasily
 unemployable adj
 unemployed     adj
+unendurable adj
 unenforceable adj
 unequal        adj adv=unequally
 unequivocal adj adv=unequivocally
@@ -111,6 +117,7 @@ uninsured adj
 unintelligible adj
 unintended     adj
 unintentional adj adv=unintentionally
+uninterested adj
 uninteresting adj cmp=more
 uninterrupted adj adv=uninterruptedly
 unionist       adj
@@ -121,6 +128,7 @@ unjust         adj adv=unjustly
 unjustifiable adj adv=unjustifiably
 unjustified adj
 unkind adj cmp=er adv=unkindly
+unknowing adj adv=unknowingly
 unknown        adj
 unlawful       adj adv=unlawfully
 unlicensed adj
@@ -146,6 +154,7 @@ unopposed adj
 unorganized    adj gb=unorganised|unorganized
 unpaid         adj
 unparalleled adj
+unpaved adj
 unplanned adj
 unpleasant     adj cmp=more adv=unpleasantly
 unpopular      adj
@@ -198,6 +207,7 @@ untold adj
 untouched adj
 untreated adj
 untrue adj
+unturned adj
 unused         adj
 unusual        adj cmp=more adv=unusually
 unutterable adj
@@ -215,10 +225,12 @@ upcoming       adj
 upland adj
 upper          adj attr_only
 uppermost adj
+upraised adj
 upright        adj
 upscale adj
 upset          adj
 upstairs       adj
+upstate adj region=US
 upstream       adj
 uptown adj
 upturned adj
@@ -230,5 +242,6 @@ usable adj
 useful         adj cmp=more adv=usefully
 useless        adj adv=uselessly
 usual          adj adv=usually
+utilitarian adj
 utmost         adj attr_only
 utter          adj attr_only adv=utterly

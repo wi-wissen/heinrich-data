@@ -31,6 +31,7 @@ caller noun
 calm noun
 calmness noun pl=- note=uncountable
 calorie noun
+calumny noun
 cam noun
 Cambodian noun
 camel noun
@@ -127,6 +128,7 @@ carrot noun
 carry noun
 cart noun
 cartel noun
+cartographer noun
 carton noun
 cartoon noun
 cartoonist noun
@@ -239,6 +241,7 @@ chairman noun pl=chairmen
 chairmanship noun
 chairperson noun pl=chairpersons|chairpeople[rare]
 chairwoman noun pl=chairwomen
+chalet noun
 chalk noun
 chalkboard noun
 challenge noun
@@ -257,6 +260,7 @@ chancery noun
 chandelier noun
 chandler noun
 change noun
+changer noun
 channel noun
 chant noun
 chaos noun pl=- note=uncountable
@@ -270,6 +274,7 @@ characterization noun gb=characterisation|characterization
 charcoal noun pl=- note=uncountable
 charge noun
 chargeback noun
+chargepoint noun region=GB conf=90 note=charging station for electric vehicles; also written charge point
 charger noun
 chariot noun
 charity noun
@@ -314,6 +319,7 @@ chestnut noun
 chevalier noun
 Cheyenne noun pl=Cheyenne|Cheyennes note=the people; also the city
 chi noun conf=90 note=Greek letter; vital energy (also qi)
+chic noun pl=- note=uncountable
 chick noun
 Chickasaw noun pl=Chickasaw|Chickasaws
 chicken noun
@@ -380,6 +386,7 @@ cinnamon noun pl=- note=uncountable
 cipher noun gb=cipher|cypher
 circle noun
 circuit noun
+circuitry noun pl=- note=uncountable
 circular noun
 circulation noun
 circumference noun
@@ -429,6 +436,7 @@ cleaning noun
 cleanliness noun pl=- note=uncountable
 cleanup noun
 clearance noun
+clearinghouse noun note=also written clearing house
 clearness noun pl=- note=uncountable
 cleavage noun
 cleft noun
@@ -464,6 +472,7 @@ cloth noun
 clothes noun pl_only
 clothing noun pl=- note=uncountable
 cloud noun
+clout noun
 clover noun
 clown noun
 club noun
@@ -553,8 +562,10 @@ coma noun
 comb noun
 combat noun
 combatant noun
+combe noun conf=85 region=GB note=a short valley; also in place names
 combination noun
 combine noun
+combo noun pl=combos
 combustion noun
 comeback noun
 comedian noun
@@ -637,6 +648,7 @@ component noun
 composer noun
 composite noun
 composition noun
+compost noun
 composure noun pl=- note=uncountable
 compound noun
 comprehension noun
@@ -1065,6 +1077,7 @@ cult noun
 cultivar noun
 cultivation noun
 culture noun
+cumulus noun pl=cumuli
 cunning noun
 cup noun
 cupboard noun
@@ -1112,6 +1125,8 @@ cynic noun
 cynicism noun pl=- note=uncountable
 cypress noun
 Cypriot noun
+cyst noun
+cystoscope noun
 cytochrome noun
 czar noun conf=90 note=tsar is a separate entry
 Czech noun pl=Czechs note=a person; the language

@@ -29,12 +29,14 @@ temporary adj adv=temporarily
 tender adj cmp=er adv=tenderly
 tense adj cmp=er
 tentative adj adv=tentatively
+tenuous adj cmp=more adv=tenuously
 terminal adj adv=terminally
 terrestrial adj
 terrible adj adv=terribly
 terrific adj
 territorial adj
 tertiary adj
+testy adj cmp=er adv=testily
 Texan adj
 textual adj adv=textually
 Thai adj
@@ -68,6 +70,7 @@ timeless adj
 timely adj cmp=er|more
 timid adj cmp=er|more adv=timidly
 tiny adj cmp=er
+tipsy adj cmp=er
 tired adj cmp=more
 tireless adj adv=tirelessly
 tiresome adj
@@ -114,6 +117,7 @@ triangular adj
 tribal adj
 tricky adj cmp=er
 trifling adj
+tripartite adj
 triple adj
 triumphant adj adv=triumphantly
 trivial adj

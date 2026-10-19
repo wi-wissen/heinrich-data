@@ -126,6 +126,7 @@ transform verb
 transit verb
 transition verb
 translate verb
+transliterate verb
 transmit verb double
 transplant verb
 transport verb

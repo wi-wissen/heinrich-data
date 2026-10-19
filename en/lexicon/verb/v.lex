@@ -36,6 +36,7 @@ volley verb
 volunteer     verb
 vomit verb note=stress on the first syllable: vomited
 vote          verb
+vouch verb
 vouchsafe verb
 vow           verb
 voyage        verb

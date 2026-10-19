@@ -105,6 +105,7 @@ redouble verb
 redraft verb
 redress verb
 reduce verb
+reek verb
 reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
 ref verb style=colloquial double conf=80 note=to referee
@@ -352,3 +353,4 @@ rupture verb
 rush verb
 rust verb
 rustle verb
+rut verb

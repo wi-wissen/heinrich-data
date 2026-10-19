@@ -7,6 +7,7 @@ abbreviation noun
 abdication noun
 abdomen noun
 abduction noun
+aberration noun
 abeyance noun pl=- note=uncountable
 ability noun
 abnormality noun
@@ -86,6 +87,7 @@ activity noun
 actor noun
 actress noun
 actuary noun
+actuator noun
 acuity noun
 ad noun
 adaptability noun pl=- note=uncountable
@@ -218,6 +220,7 @@ alacrity noun pl=- note=uncountable
 alarm noun
 Albanian noun
 album noun
+alcalde noun conf=85 note=Spanish and historical: mayor, magistrate
 alcohol noun
 alcoholic noun
 alcoholism noun pl=- note=uncountable
@@ -229,6 +232,7 @@ algebra noun
 Algerian noun
 algorithm noun
 alias noun
+alibi noun
 alien noun
 alienation noun
 alignment noun
@@ -358,6 +362,7 @@ antic noun note=mostly plural antics
 anticipation noun
 antidote noun
 antiquarian noun
+antiquary noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
@@ -440,6 +445,7 @@ archway noun
 ardor noun gb=ardour
 area noun
 arena noun
+argent noun conf=90 note=heraldry: silver; also poetic adjective
 Argentine noun
 argon noun pl=- note=uncountable
 argument noun
@@ -454,6 +460,7 @@ armchair noun
 Armenian noun
 armistice noun
 armor noun gb=armour
+armory noun gb=armoury
 armpit noun
 army noun
 aromatic noun
@@ -491,6 +498,7 @@ Asian noun
 asp noun
 asparagus noun pl=- note=uncountable
 aspect noun
+aspen noun
 asphalt noun pl=- note=uncountable
 aspiration noun
 ass noun

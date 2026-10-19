@@ -21,6 +21,7 @@ gambling       noun pl=- note=uncountable; the verb form comes from gamble
 game           noun
 gamelan noun
 gameplay       noun pl=- note=uncountable
+gamer noun
 gamete noun
 gaming         noun pl=- note=uncountable
 gamma noun
@@ -42,7 +43,9 @@ garrison       noun
 gas            noun pl=gases
 gasoline       noun pl=- note=uncountable
 gasp           noun
+gastropod noun
 gate           noun
+gatehouse noun
 gatekeeper noun
 gateway        noun
 gathering      noun
@@ -78,10 +81,12 @@ genre          noun
 gent noun
 gentleman      noun pl=gentlemen
 gentleness noun
+gentrification noun pl=- note=uncountable
 gentry noun pl=- note=collective
 genus          noun pl=genera
 geographer noun
 geography      noun
+geolocation noun
 geologist noun
 geology        noun
 geometry       noun
@@ -193,6 +198,7 @@ gram noun gb=gramme|gram
 grammar        noun
 gramps noun style=colloquial pl=- note=grandfather
 gran noun style=colloquial
+granary noun
 grand          noun
 grandad noun note=spelling variant of granddad, common in British English
 grandchild     noun pl=grandchildren
@@ -245,6 +251,7 @@ greenhouse     noun
 greeter noun
 greeting       noun
 grenade noun
+grenadier noun
 greyhound noun
 grid           noun
 gridlock noun

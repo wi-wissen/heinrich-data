@@ -70,6 +70,7 @@ rash noun
 raspberry noun
 rat noun
 rate noun
+ratepayer noun
 ratification noun
 rating noun
 ratio noun pl=ratios
@@ -99,6 +100,7 @@ realization noun gb=realisation|realization
 reallocation noun
 realm noun
 realtor noun conf=90 note=chiefly American; British estate agent
+realty noun pl=- region=US note=real estate; uncountable
 rear noun
 reason noun
 reasonableness noun pl=- note=uncountable
@@ -177,6 +179,7 @@ redundancy noun
 redwood noun
 reed noun
 reef noun pl=reefs
+reek noun
 reel noun
 reentry noun note=re-entry is the usual British spelling
 ref noun style=colloquial note=referee; reference
@@ -232,6 +235,7 @@ reindeer noun pl=reindeer
 reinforcement noun
 reinstatement noun
 reinsurance noun pl=- note=uncountable
+reintegration noun pl=- note=uncountable
 reintroduction noun
 reinvestment noun
 reissue noun
@@ -325,6 +329,7 @@ reproduction noun
 reptile noun
 republic noun
 republican noun
+repudiation noun
 reputation noun
 repute noun pl=- note=uncountable: of good repute
 request noun
@@ -359,6 +364,7 @@ resilience noun pl=- note=uncountable
 resiliency noun pl=- note=uncountable
 resin noun
 resistance noun
+resistivity noun
 resolution noun
 resolve noun pl=- note=uncountable
 resonance noun
@@ -501,6 +507,7 @@ rocker noun
 rocket noun
 rod noun
 rodent noun
+roebuck noun pl=roebuck|roebucks
 rogue noun
 ROI noun abbr pl=- note=return on investment
 role noun
@@ -530,6 +537,7 @@ rota noun region=GB note=US roster, schedule
 rotary noun
 rotation noun
 rotor noun
+rotunda noun
 rouge noun
 rough noun
 roughness noun
@@ -544,6 +552,7 @@ rover noun
 roving noun conf=90 note=wool fibre prepared for spinning; also roving reporter (verb form)
 row noun
 rowan noun
+rowboat noun region=US note=GB rowing boat
 rower noun
 rowing noun pl=- note=uncountable
 royal noun
@@ -587,5 +596,6 @@ rush noun
 Russian noun note=demonym or religious name, capitalized
 rust noun
 rustle noun
+rut noun
 rye noun
 résumé noun conf=85 note=also written resume

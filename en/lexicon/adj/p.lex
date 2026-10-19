@@ -11,6 +11,7 @@ pancreatic adj
 pandemic adj
 papal adj
 paperless adj
+parabolic adj
 parallel adj
 Paralympic adj
 paramilitary adj
@@ -97,6 +98,7 @@ phytosanitary adj
 pictorial adj
 picturesque adj cmp=more
 piecemeal adj
+pied adj
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously
@@ -229,6 +231,7 @@ projective adj
 prolific adj cmp=more
 prominent adj cmp=more adv=prominently
 promising adj cmp=more adv=promisingly
+promissory adj
 promotional adj
 prompt adj cmp=er adv=promptly
 prone adj
@@ -251,6 +254,7 @@ provident adj cmp=more adv=providently
 provincial adj
 provisional adj adv=provisionally
 provocative adj adv=provocatively
+proximate adj adv=proximately
 prudent adj cmp=more adv=prudently
 Prussian adj note=demonym or religious name, capitalized
 psychedelic adj

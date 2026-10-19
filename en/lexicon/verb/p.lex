@@ -11,6 +11,7 @@ pair verb
 pale verb
 pall verb
 pan verb
+panel verb
 panic verb
 pant verb
 paper verb
@@ -24,6 +25,7 @@ parch verb
 pardon verb
 parent verb
 park verb
+parley verb
 parody verb
 parole verb
 parrot verb

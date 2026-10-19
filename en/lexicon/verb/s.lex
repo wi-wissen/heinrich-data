@@ -52,6 +52,7 @@ scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
 sculpture verb
 scuttle verb
+scythe verb
 seal verb
 seam verb
 search verb
@@ -62,6 +63,7 @@ second verb
 secrete verb
 secure verb
 securitize verb gb=securitise|securitize conf=85
+sedate verb
 seduce verb
 see verb past=saw pp=seen
 seed verb
@@ -76,6 +78,7 @@ sense verb
 sentence verb
 separate verb
 sequester verb
+serenade verb
 serve verb
 service verb
 set verb past=set pp=set
@@ -267,6 +270,7 @@ spit verb past=spat|spit pp=spat|spit conf=90 note=spit as past is chiefly Ameri
 splash verb
 splinter verb
 split verb past=split pp=split
+splutter verb
 spoil verb past=spoiled|spoilt[GB] pp=spoiled|spoilt[GB]
 sponge verb
 sponsor verb
@@ -341,6 +345,7 @@ stockpile verb
 stomp verb
 stoop verb
 stop verb
+stopper verb
 store verb
 storm verb
 stow verb
@@ -406,6 +411,7 @@ suffocate verb
 suggest verb
 suit verb
 sulk verb
+sully verb
 sum verb
 summarize verb gb=summarise|summarize
 summon verb
@@ -457,3 +463,4 @@ sync verb
 synchronize verb gb=synchronise|synchronize
 syndicate verb
 synthesize verb gb=synthesise|synthesize
+syringe verb

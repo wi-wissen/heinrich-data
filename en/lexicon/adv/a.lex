@@ -22,6 +22,7 @@ alright adv conf=80 note=informal spelling of all right
 altogether adv type=degree
 always adv type=frequency
 amiss adv
+anciently adv
 anew adv
 anon adv style=archaic note=soon
 anyhow adv type=conj

@@ -91,6 +91,7 @@ telegraphy noun pl=- note=uncountable
 telehealth noun pl=- note=uncountable
 telemarketing noun pl=- note=uncountable
 telemedicine noun pl=- note=uncountable
+telemetry noun pl=- note=uncountable
 telephone noun
 telephonist noun region=GB
 telephony noun pl=- note=uncountable
@@ -189,6 +190,7 @@ thrift noun
 thrill noun
 thriller noun
 throat noun
+throe noun note=mostly plural, as in in the throes of
 throne noun
 throng noun
 throttle noun
@@ -325,12 +327,14 @@ township noun
 townsite noun
 townspeople noun pl_only
 toxicity noun
+toxicology noun pl=- note=uncountable
 toxin noun
 toy noun
 trace noun
 traceability noun pl=- note=uncountable
 trachea noun pl=tracheae|tracheas
 track noun
+trackage noun pl=- note=uncountable
 tracker noun
 trackpad noun
 tracksuit noun
@@ -357,6 +361,7 @@ tramp noun
 trampoline noun
 tramway noun
 trance noun
+tranche noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
 transcript noun
@@ -425,6 +430,7 @@ trinity noun
 trio noun
 trip noun
 triplicate noun pl=- note=in triplicate
+tripod noun
 triumph noun
 Trojan noun
 trolley noun

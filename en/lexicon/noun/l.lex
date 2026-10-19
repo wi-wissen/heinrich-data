@@ -54,6 +54,7 @@ larva         noun pl=larvae
 lasagna noun gb=lasagne|lasagna
 laser         noun
 lass noun
+lasso noun pl=lassos|lassoes
 latch noun
 latency noun
 lateness noun pl=- note=uncountable
@@ -111,6 +112,7 @@ lee noun
 leek noun
 left          noun
 leftist noun
+leftover noun
 lefty noun style=colloquial
 leg           noun
 legacy        noun
@@ -191,6 +193,7 @@ lighting      noun
 lightness noun pl=- note=uncountable
 lightning     noun note=plural lightnings is literary
 lightweight noun
+lignite noun pl=- note=uncountable
 like          noun
 likelihood    noun
 likeness      noun
@@ -238,6 +241,7 @@ litigant noun
 litigation    noun
 litigator noun
 litter        noun
+littoral noun
 liturgy noun
 livelihood    noun
 liver         noun
@@ -338,5 +342,6 @@ luxury        noun
 lyceum noun
 lychee noun
 lymph noun pl=- note=uncountable
+lynching noun
 lyric         noun
 lyricist noun

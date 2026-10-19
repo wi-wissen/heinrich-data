@@ -1,5 +1,6 @@
 nacho noun pl=nachos
 nail          noun
+naloxone noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
@@ -114,6 +115,7 @@ nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
 nonimmigrant  noun
+nonmetal noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
 nonproliferation noun pl=- note=uncountable

@@ -21,6 +21,7 @@ basal adj
 basic adj adv=basically
 Basque adj
 Bavarian adj
+beaded adj
 bearded adj
 beastly adj cmp=er
 beautiful adj cmp=more adv=beautifully
@@ -44,6 +45,7 @@ biannual adj adv=biannually
 biblical adj
 biennial adj
 big adj cmp=er
+bigoted adj cmp=more
 bilateral adj adv=bilaterally
 bilingual adj
 billable adj
@@ -80,6 +82,8 @@ bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
+bonnie adj conf=85 note=Scots spelling of bonny
+bonny adj cmp=er
 bony adj cmp=er
 bored adj cmp=more
 boring adj cmp=more adv=boringly
@@ -105,6 +109,7 @@ brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
+broken-hearted adj note=hearted is not a word of its own
 brown adj cmp=er
 brutal adj cmp=more adv=brutally
 bubbly adj cmp=er

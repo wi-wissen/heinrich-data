@@ -47,6 +47,7 @@ scrumptious adj
 scrupulous adj cmp=more adv=scrupulously
 seamless adj adv=seamlessly
 searchable adj
+searching adj cmp=more adv=searchingly
 seasick adj
 seasonal adj adv=seasonally
 seaward adj
@@ -57,6 +58,7 @@ sectarian adj
 sectoral adj
 secular adj
 secure adj cmp=more|er adv=securely
+sedate adj cmp=more adv=sedately
 sedentary adj cmp=more
 sedimentary adj
 seductive adj cmp=more adv=seductively
@@ -78,6 +80,7 @@ sensory adj
 sensual adj cmp=more adv=sensually
 sensuous adj cmp=more adv=sensuously
 sentimental adj cmp=more
+separable adj
 separate adj adv=separately
 separatist adj
 sequential adj adv=sequentially
@@ -149,6 +152,7 @@ slim adj cmp=er
 slimy adj cmp=er
 slippery adj cmp=er|more
 Slovak adj
+slovenly adj cmp=er|more
 slow adj cmp=er adv=slowly
 sluggish adj cmp=more
 sly adj cmp=slyer|slier sup=slyest|sliest adv=slyly
@@ -175,6 +179,7 @@ solid adj cmp=er|more adv=solidly
 solitary adj
 solo adj
 soluble adj cmp=more
+solvable adj
 solvent adj
 Somali adj
 somber adj cmp=more gb=sombre adv=somberly
@@ -183,6 +188,7 @@ soothing adj cmp=more adv=soothingly
 sophisticated adj cmp=more
 sordid adj
 sore adj cmp=er
+sorrel adj
 sorrowful adj adv=sorrowfully
 sorry adj cmp=er
 sound adj cmp=er adv=soundly
@@ -263,6 +269,7 @@ stinky adj cmp=er
 stochastic adj
 stocky adj cmp=er
 stodgy adj cmp=er
+stoic adj cmp=more adv=stoically
 stony adj cmp=er
 stormy adj cmp=er
 stout adj cmp=er adv=stoutly
@@ -354,6 +361,8 @@ sweet adj cmp=er adv=sweetly
 sweltering adj
 swift adj cmp=er adv=swiftly
 Swiss adj
+sylvan adj
+symbiotic adj adv=symbiotically
 symbolic adj adv=symbolically
 symmetric adj
 symmetrical adj adv=symmetrically

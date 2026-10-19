@@ -2,6 +2,7 @@ MA             noun abbr note=Master of Arts; also Massachusetts
 ma             noun style=colloquial note=mother
 ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
+mace noun
 Macedonian noun
 machine        noun
 machinery      noun pl=- note=uncountable
@@ -56,6 +57,7 @@ Malaysian      noun
 male           noun
 malfunction noun
 malice         noun pl=- note=uncountable
+malignity noun
 mall           noun
 mallet noun
 malnutrition noun pl=- note=uncountable
@@ -64,6 +66,7 @@ malware noun pl=- note=uncountable
 mama noun
 mamma          noun style=archaic note=mother
 mammal         noun
+mammogram noun
 mammoth noun
 mammy noun
 man            noun pl=men
@@ -108,6 +111,7 @@ maple          noun
 marathon       noun
 marble         noun
 march          noun
+marcher noun
 mare noun
 margarine noun pl=- note=uncountable
 margin         noun
@@ -126,6 +130,7 @@ marketplace    noun
 marking        noun
 markup noun
 marmalade noun pl=- note=uncountable
+marque noun
 marquess noun
 marquis        noun pl=marquises|marquis
 marriage       noun
@@ -151,6 +156,7 @@ master         noun
 masterclass noun
 masterpiece noun
 mastery noun pl=- note=uncountable
+mastiff noun pl=mastiffs
 mat noun
 match          noun
 mate           noun
@@ -307,6 +313,7 @@ mill           noun
 millennium     noun pl=millennia|millenniums
 miller noun
 millimeter noun gb=millimetre
+milliner noun
 millionaire noun
 millipede noun
 mimic noun
@@ -469,6 +476,7 @@ motif noun note=plural motifs
 motion         noun
 motivation     noun
 motive         noun
+motley noun
 motor          noun
 motorbike noun
 motorcycle     noun
@@ -486,6 +494,7 @@ mouse          noun pl=mice
 mouth          noun
 move           noun
 movement       noun
+mover noun
 movie          noun
 MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
@@ -495,6 +504,7 @@ muddle noun
 muffin noun
 mug noun
 Mughal noun
+mujahideen noun pl_only note=Islamic guerrilla fighters; spelling varies (mujahedin, mujahidin)
 mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
 mulberry noun
 mule           noun
@@ -524,7 +534,9 @@ music          noun pl=- note=uncountable
 musical        noun
 musician       noun
 musicologist noun
+musk noun pl=- note=uncountable
 musket noun
+musketeer noun
 musketry noun pl=- note=uncountable
 Muslim         noun
 muslin noun

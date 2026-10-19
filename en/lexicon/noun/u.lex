@@ -1,11 +1,13 @@
 Ukrainian     noun
 ultimatum noun pl=ultimatums|ultimata[rare]
 ultra noun conf=90 note=an extremist; also used as a prefix
+ultralight noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
 unanimity noun pl=- note=uncountable
+unbelief noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
@@ -31,6 +33,7 @@ underworld noun
 underwriter noun
 underwriting noun pl=- note=uncountable
 undocumented noun conf=90 note=the undocumented: people without papers; usually plural sense
+undulation noun
 uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unfairness noun
@@ -62,6 +65,7 @@ upright       noun
 uprising      noun
 uproar noun
 upset         noun
+upshot noun
 upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
 uptake        noun
@@ -86,6 +90,7 @@ username noun
 usher noun
 usurper noun
 utensil noun
+utilitarian noun
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)
