@@ -41,6 +41,7 @@ neonatal adj
 nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
+nether adj attr_only
 neural adj
 neurological adj
 neuter adj

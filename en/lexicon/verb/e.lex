@@ -8,6 +8,7 @@ echo verb
 eclipse verb
 eddy verb
 edge verb
+edify verb
 edit verb
 educate verb
 efface verb
@@ -51,6 +52,7 @@ emulate verb
 enable verb
 enact verb
 encamp verb
+encapsulate verb
 encase verb
 enchant verb
 encircle verb
@@ -103,6 +105,7 @@ entrance verb note=to enchant (entranced)
 entreat verb
 entrench verb
 entrust verb
+entwine verb
 enumerate verb
 envelop verb
 envisage verb
@@ -121,6 +124,7 @@ escalate verb
 escape verb
 escort verb
 espouse verb
+espy verb
 essay verb note=to attempt
 establish verb
 esteem verb
@@ -191,6 +195,7 @@ extend verb
 exterminate verb
 extinguish verb
 extirpate verb
+extol verb double
 extract verb
 extradite verb
 extricate verb

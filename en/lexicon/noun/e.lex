@@ -13,8 +13,10 @@ earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
+earshot noun pl=- note=uncountable
 eartag noun conf=90 note=agricultural spelling of ear tag
 earth noun
+earthenware noun pl=- note=uncountable
 earthquake noun
 earthwork noun
 earthworm noun
@@ -49,6 +51,7 @@ edifice noun
 edition noun
 editor noun
 editorial noun
+editorship noun
 education noun
 educator noun
 eel noun
@@ -59,6 +62,8 @@ efficiency noun
 effigy noun
 effluent noun
 effort noun
+effusion noun
+egalitarian noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
@@ -66,6 +71,7 @@ egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
+eigenvalue noun
 EIS noun abbr note=environmental impact statement
 ejaculation noun
 ejection noun
@@ -124,6 +130,7 @@ emigration noun
 eminence noun
 emissary noun
 emission noun
+emitter noun
 emoji noun pl=emojis|emoji
 emolument noun
 emoticon noun
@@ -132,6 +139,7 @@ empathy noun
 emperor noun
 emphasis noun pl=emphases
 empire noun
+employability noun pl=- note=uncountable
 employee noun
 employer noun
 employment noun
@@ -327,6 +335,7 @@ examiner noun
 example noun
 exasperation noun pl=- note=uncountable
 excavation noun
+exceedance noun conf=90 note=technical: an instance of exceeding a limit
 excellence noun
 excellency noun
 exception noun
@@ -364,6 +373,7 @@ exodus noun
 exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
+expansionist noun
 expatriate noun
 expectancy noun
 expectation noun

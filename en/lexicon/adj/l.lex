@@ -6,6 +6,7 @@ languid adj cmp=more adv=languidly
 Lankan adj note=only in Sri Lankan
 Lao adj
 large         adj cmp=er adv=largely
+largemouth adj conf=85 note=as in largemouth bass
 larval adj
 lasting       adj
 late          adj cmp=er
@@ -35,6 +36,7 @@ lee adj attr_only
 leeward adj
 left          adj attr_only
 leftist adj
+leftover adj
 legal         adj adv=legally
 legendary     adj
 legible adj
@@ -77,6 +79,7 @@ literate adj cmp=more
 lithe adj cmp=er
 Lithuanian    adj
 little        adj cmp=littler sup=littlest conf=85 note=less/least (quantity sense) are in closed/
+littoral adj
 liturgical adj
 live          adj attr_only
 lively        adj cmp=er
@@ -110,6 +113,7 @@ lowercase adj
 lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
 lucid adj cmp=more adv=lucidly
+luckless adj
 lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously

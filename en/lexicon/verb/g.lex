@@ -20,6 +20,7 @@ gear           verb
 gel verb
 generalize verb gb=generalise|generalize
 generate       verb
+gesticulate verb
 gesture        verb
 get            verb past=got pp=got|gotten[US]
 giggle verb

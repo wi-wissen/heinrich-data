@@ -1,6 +1,7 @@
 Kazakh adj
 keen           adj cmp=er adv=keenly
 key            adj attr_only
+khaki adj
 Khmer adj
 kind           adj cmp=er adv=kindly
 kind-hearted adj cmp=more adv=kind-heartedly note=hearted is not a word on its own

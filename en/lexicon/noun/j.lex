@@ -1,5 +1,6 @@
 jab noun
 jack noun
+jackal noun
 jacket         noun
 Jacobite noun
 jade noun pl=- note=the stone; also the colour

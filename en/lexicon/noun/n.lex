@@ -1,6 +1,7 @@
 nacho noun pl=nachos
 nail          noun
 nakedness noun pl=- note=uncountable
+naloxone noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
@@ -139,6 +140,7 @@ noncompliance noun pl=- note=uncountable
 nondiscrimination noun pl=- conf=90 note=uncountable; also non-discrimination
 nonfiction noun pl=- note=uncountable
 nonimmigrant  noun
+nonmetal noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
 nonproliferation noun pl=- note=uncountable

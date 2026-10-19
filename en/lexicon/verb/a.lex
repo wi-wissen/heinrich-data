@@ -12,6 +12,7 @@ abort verb
 abound verb
 abridge verb
 abseil verb region=GB
+absolve verb
 absorb verb
 abstain verb
 abstract verb

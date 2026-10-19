@@ -47,6 +47,7 @@ gigantic       adj
 gilded         adj
 gilt adj
 ginger adj
+gingerly adj
 ginormous adj style=colloquial
 girlish adj
 glacial adj
@@ -85,6 +86,7 @@ grassy adj cmp=er
 grateful       adj cmp=more adv=gratefully
 gratuitous adj adv=gratuitously
 grave          adj cmp=er adv=gravely
+graven adj note=old participle of grave, as in graven image
 gravitational adj
 gray           adj cmp=er gb=grey
 greasy adj cmp=er
@@ -93,6 +95,7 @@ greedy adj cmp=er adv=greedily
 Greek          adj
 green          adj cmp=er
 greenish adj
+gregarious adj cmp=more adv=gregariously
 grievous adj adv=grievously
 grim           adj cmp=er adv=grimly
 grimy adj cmp=er

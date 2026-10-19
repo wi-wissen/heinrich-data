@@ -29,6 +29,7 @@ keypad noun
 keystone noun
 keystroke noun
 keyword noun
+khaki noun pl=khakis
 Khmer noun pl=Khmer
 kibbutz noun pl=kibbutzim|kibbutzes
 kick           noun

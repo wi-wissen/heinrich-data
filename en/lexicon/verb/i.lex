@@ -9,6 +9,7 @@ illumine verb style=archaic
 illustrate     verb
 imagine        verb
 imbed verb double conf=90 note=variant spelling of embed
+imbibe verb
 imbue verb
 imitate verb
 immerse verb
@@ -50,6 +51,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indent verb
 indenture verb
 index          verb
 indicate       verb
@@ -153,5 +155,6 @@ irritate       verb
 isolate        verb
 issue verb
 italicize verb gb=italicise|italicize
+itch verb
 itemize verb gb=itemise|itemize
 iterate verb

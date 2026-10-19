@@ -51,6 +51,7 @@ samurai noun pl=samurai
 sanction noun
 sanctity noun pl=- note=uncountable
 sanctuary noun
+sanctum noun pl=sanctums|sancta
 sand noun
 sandal noun
 sandbox noun region=US note=British sandpit
@@ -94,6 +95,7 @@ savor noun gb=savour
 savvy noun pl=- note=uncountable
 saw noun
 sawmill noun
+sax noun
 Saxon noun
 saxophone noun
 saxophonist noun
@@ -129,6 +131,7 @@ school noun
 schoolbag noun
 schoolboy noun
 schoolchild noun pl=schoolchildren
+schoolgirl noun
 schoolhouse noun
 schooling noun pl=- note=uncountable
 schoolmaster noun
@@ -144,6 +147,7 @@ scion noun
 scissors noun pl_only
 sclerosis noun
 scolding noun
+scoliosis noun pl=- note=uncountable
 scone noun
 scoop noun
 scooter noun
@@ -188,6 +192,7 @@ sculptor noun
 sculpture noun
 scuttle noun
 scutum noun pl=scuta note=anatomical plate (insects, reptiles)
+scythe noun
 sea noun
 seabed noun
 seaboard noun
@@ -201,6 +206,7 @@ seahorse noun
 seal noun
 seam noun
 seaman noun pl=seamen
+seamanship noun pl=- note=uncountable
 seaplane noun
 seaport noun
 search noun
@@ -243,6 +249,7 @@ seigneur noun conf=90 note=historical feudal title
 seizure noun
 selection noun
 selectman noun pl=selectmen
+selector noun
 self noun pl=selves
 selfie noun
 selfishness noun pl=- note=uncountable
@@ -285,8 +292,10 @@ sequence noun
 sequencing noun
 sequestration noun
 Serb noun
+serenade noun
 serenity noun pl=- note=uncountable
 serf noun note=plural serfs
+serge noun
 sergeant noun
 serial noun
 series noun pl=series
@@ -331,8 +340,10 @@ sham noun
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
 shamrock noun
+shank noun
 shanty noun
 shape noun
+shard noun
 share noun
 shareholder noun
 shareholding noun
@@ -366,6 +377,7 @@ shingle noun
 shinpad noun
 ship noun
 shipbuilding noun pl=- note=uncountable
+shipmate noun
 shipment noun
 shipper noun
 shipping noun pl=- note=uncountable
@@ -420,6 +432,7 @@ shudder noun
 shunt noun
 shutdown noun
 shutoff noun
+shutout noun
 shutter noun
 shuttle noun
 shyness noun pl=- note=uncountable
@@ -430,6 +443,7 @@ sickness noun
 side noun
 sidebar noun
 sideboard noun
+sidekick noun
 sideline noun
 sidenote noun conf=85 note=a side note; also written as two words
 sidewalk noun region=US note=GB pavement
@@ -657,6 +671,7 @@ soprano noun note=plural sopranos
 sorbet noun
 sorcerer noun
 sorcery noun pl=- note=uncountable
+sorrel noun
 sorrow noun
 sort noun
 sorter noun
@@ -755,6 +770,7 @@ splash noun
 spleen noun
 splendor noun gb=splendour
 splinter noun
+splutter noun
 spokesman noun pl=spokesmen
 spokesperson noun pl=spokespersons|spokespeople
 spokeswoman noun pl=spokeswomen
@@ -934,12 +950,15 @@ stockholder noun
 stocking noun
 stockpile noun
 stocktaking noun pl=- note=uncountable
+stoic noun
 stomach noun pl=stomachs
 stomachache noun
 stone noun
 stool noun
 stop noun
+stopover noun
 stoppage noun
+stopper noun
 storage noun pl=- note=uncountable
 store noun
 storefront noun
@@ -1042,6 +1061,7 @@ subparagraph noun
 subpart noun
 subpoena noun
 subpopulation noun
+subregion noun
 subscriber noun
 subscription noun
 subsection noun
@@ -1234,5 +1254,6 @@ synthesis noun pl=syntheses
 synthesizer noun gb=synthesiser|synthesizer
 syphilis noun pl=- note=uncountable
 Syrian noun
+syringe noun
 syrup noun
 system noun

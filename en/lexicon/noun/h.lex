@@ -42,6 +42,7 @@ handcuff noun
 handful        noun
 handheld noun
 handicap noun
+handicraft noun
 handiwork noun pl=- note=uncountable
 handkerchief   noun note=plural handkerchiefs
 handle         noun
@@ -65,6 +66,7 @@ hardihood noun pl=- note=uncountable
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
+hardtop noun
 hardware       noun pl=- note=uncountable
 hardwood noun
 hare noun
@@ -112,6 +114,7 @@ headband noun
 headcount noun
 headdress noun
 header noun
+headgear noun pl=- note=uncountable
 headhunter noun
 headhunting noun pl=- note=uncountable
 heading        noun
@@ -122,6 +125,7 @@ headmaster noun
 headmistress noun
 headphone noun
 headquarters   noun pl=headquarters note=singular and plural have the same form
+headroom noun pl=- note=uncountable
 headset noun
 headstone noun
 headteacher noun region=GB
@@ -229,6 +233,7 @@ hilt noun
 hind noun note=female deer
 Hindi noun pl=- note=the language
 hindrance noun
+hindsight noun pl=- note=uncountable
 Hindu          noun
 Hinduism noun pl=- note=uncountable
 hinge noun
@@ -288,6 +293,7 @@ honeymoon noun
 honeysuckle noun
 honor          noun gb=honour
 honorarium noun pl=honoraria|honorariums
+honoree noun
 honorific noun
 hood           noun
 hoodie noun
@@ -347,6 +353,7 @@ hovel noun
 howl noun
 HQ noun abbr note=headquarters
 hub            noun
+hubbub noun
 hubby noun style=colloquial
 hue            noun
 hug noun
@@ -384,6 +391,7 @@ hurt           noun
 husband        noun
 husbandry noun pl=- note=uncountable
 hush           noun
+husk noun
 husky noun note=the dog
 hussar noun
 hustle noun
@@ -406,6 +414,7 @@ hyperlink noun
 hypertension noun pl=- note=uncountable
 hypocrisy noun
 hypocrite noun
+hypotension noun pl=- note=uncountable
 hypothesis     noun pl=hypotheses
 hypothyroidism noun pl=- note=uncountable
 hysteria noun pl=- note=uncountable

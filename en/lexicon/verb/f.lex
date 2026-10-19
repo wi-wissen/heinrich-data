@@ -33,6 +33,7 @@ federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
 feign verb
+feint verb
 fell           verb note=to fell a tree
 fence          verb
 fend verb

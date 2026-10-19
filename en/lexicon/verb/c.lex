@@ -17,6 +17,7 @@ cant verb
 canter verb
 cap verb
 capitalize verb gb=capitalise|capitalize
+capitulate verb
 captain verb
 caption verb
 captivate verb
@@ -139,6 +140,7 @@ close verb
 closet verb
 clothe verb past=clothed|clad pp=clothed|clad note=clad is literary or technical
 cloud verb
+clout verb
 clown verb
 club verb
 clue verb ing=clueing|cluing
@@ -179,6 +181,7 @@ combine verb
 come verb past=came pp=come
 comfort verb
 command verb
+commandeer verb
 commemorate verb
 commence verb
 commend verb
@@ -201,6 +204,7 @@ complicate verb
 compliment verb
 comply verb
 compose verb
+compost verb
 compound verb
 comprehend verb
 compress verb
@@ -214,6 +218,7 @@ concede verb
 conceive verb
 concentrate verb
 concern verb
+conciliate verb
 conclude verb
 concur verb double
 condemn verb

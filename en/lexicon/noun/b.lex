@@ -279,6 +279,7 @@ biopic noun
 biopsy noun
 biosecurity noun pl=- note=uncountable
 biosimilar noun
+biosphere noun
 biotechnology noun
 biplane noun
 birch noun
@@ -335,6 +336,7 @@ blizzard noun
 bloc noun
 block noun
 blockade noun
+blockage noun
 blockbuster noun
 blockchain noun
 blocker noun
@@ -642,6 +644,7 @@ businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen
 bust noun
 bustle noun
+butane noun pl=- note=uncountable
 butcher noun
 butler noun
 butt noun

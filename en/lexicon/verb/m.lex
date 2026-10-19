@@ -52,6 +52,7 @@ meditate verb
 meet          verb past=met pp=met
 mellow verb
 melt          verb
+memorialize verb gb=memorialise|memorialize
 memorize verb gb=memorise|memorize
 menace verb
 mend verb
@@ -81,6 +82,7 @@ mint verb
 minute verb
 mire verb
 mirror        verb
+misclassify verb
 misinterpret verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
@@ -114,6 +116,7 @@ monetize verb gb=monetise|monetize
 monitor       verb
 moo verb
 moor          verb
+moot verb
 mop verb
 mortgage      verb
 mortify verb

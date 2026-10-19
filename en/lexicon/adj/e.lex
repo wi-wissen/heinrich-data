@@ -28,6 +28,7 @@ effectual adj adv=effectually
 effeminate adj
 efficacious adj cmp=more adv=efficaciously
 efficient adj cmp=more adv=efficiently
+egalitarian adj
 egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
@@ -146,6 +147,7 @@ existential adj adv=existentially
 exogamous adj
 exorbitant adj adv=exorbitantly
 exotic adj
+expansionist adj
 expansive adj
 expectant adj
 expedient adj
@@ -172,6 +174,7 @@ extinct adj
 extra adj
 extracellular adj
 extracurricular adj
+extraneous adj adv=extraneously
 extraordinary adj adv=extraordinarily
 extraterrestrial adj
 extratropical adj

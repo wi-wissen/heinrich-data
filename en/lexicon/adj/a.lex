@@ -234,7 +234,9 @@ artificial adj adv=artificially
 artistic adj adv=artistically
 arty adj cmp=er
 ascetic adj cmp=more adv=ascetically
+asexual adj adv=asexually
 ashamed adj pred_only
+ashen adj
 Ashkenazi adj
 Asian adj
 Asiatic adj
@@ -292,6 +294,7 @@ autumnal adj
 auxiliary adj
 available adj
 avant-garde adj
+avaricious adj cmp=more adv=avariciously
 average adj
 averse adj pred_only
 avian adj

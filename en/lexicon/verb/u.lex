@@ -40,6 +40,7 @@ unmute verb
 unpack verb prefix=un
 unplug verb prefix=un
 unravel verb prefix=un
+unseal verb
 unsubscribe verb prefix=un
 untie verb prefix=un
 unveil        verb

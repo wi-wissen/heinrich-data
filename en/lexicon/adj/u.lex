@@ -3,6 +3,7 @@ ugly           adj cmp=er
 Ukrainian      adj
 ulterior adj attr_only
 ultimate       adj adv=ultimately
+ultralight adj
 ultraviolet adj
 unabated adj
 unable         adj pred_only
@@ -20,8 +21,10 @@ unaltered adj
 unambiguous adj adv=unambiguously
 unanimous      adj adv=unanimously
 unannounced adj
+unanswerable adj
 unanswered adj
 unanticipated adj
+unapproved adj
 unarmed adj
 unassociated adj
 unattainable adj
@@ -60,6 +63,7 @@ uncommon       adj cmp=more adv=uncommonly
 uncompromising adj adv=uncompromisingly
 unconcerned adj
 unconditional adj adv=unconditionally
+unconfirmed adj
 unconnected adj
 unconquerable adj
 unconscionable adj adv=unconscionably
@@ -93,6 +97,7 @@ understandable adj adv=understandably
 understanding  adj
 underwater     adj
 underway       adj
+undeserved adj
 undesirable adj
 undetected adj
 undetermined adj
@@ -114,6 +119,7 @@ uneducated adj
 unelected adj
 unemployable adj
 unemployed     adj
+unendurable adj
 unenforceable adj
 unequal        adj adv=unequally
 unequivocal adj adv=unequivocally
@@ -166,6 +172,7 @@ uninsured adj
 unintelligible adj
 unintended     adj
 unintentional adj adv=unintentionally
+uninterested adj
 uninteresting adj cmp=more
 uninterrupted adj adv=uninterruptedly
 unionist       adj
@@ -177,6 +184,7 @@ unjustifiable adj adv=unjustifiably
 unjustified adj
 unkempt adj
 unkind adj cmp=er adv=unkindly
+unknowing adj adv=unknowingly
 unknown        adj
 unlawful       adj adv=unlawfully
 unlicensed adj
@@ -210,6 +218,7 @@ unorthodox adj
 unpaid         adj
 unparalleled adj
 unpardonable adj
+unpaved adj
 unplanned adj
 unpleasant     adj cmp=more adv=unpleasantly
 unpopular      adj
@@ -283,6 +292,7 @@ untoward adj
 untrained adj
 untreated adj
 untrue adj
+unturned adj
 unusable adj
 unused         adj
 unusual        adj cmp=more adv=unusually
@@ -307,6 +317,7 @@ uphill adj
 upland adj
 upper          adj attr_only
 uppermost adj
+upraised adj
 upright        adj
 upscale adj
 upset          adj
@@ -324,6 +335,7 @@ useful         adj cmp=more adv=usefully
 useless        adj adv=uselessly
 usual          adj adv=usually
 uterine adj
+utilitarian adj
 utmost         adj attr_only
 utopian adj
 utter          adj attr_only adv=utterly

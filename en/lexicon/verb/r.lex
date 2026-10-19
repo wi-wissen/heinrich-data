@@ -114,6 +114,7 @@ redouble verb
 redraft verb
 redress verb
 reduce verb
+reek verb
 reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
 reevaluate verb note=also written re-evaluate
@@ -373,3 +374,4 @@ rupture verb
 rush verb
 rust verb
 rustle verb
+rut verb

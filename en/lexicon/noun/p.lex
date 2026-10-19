@@ -1,6 +1,7 @@
 pa noun style=colloquial note=father
 pace noun
 pacemaker noun
+pacification noun
 pacifier noun region=US note=British dummy
 pacifist noun
 pack noun
@@ -174,6 +175,7 @@ patience noun pl=- note=uncountable
 patient noun
 patio noun pl=patios
 patriarch noun pl=patriarchs
+patriarchate noun
 patrician noun
 patrimony noun
 patriot noun
@@ -264,6 +266,8 @@ penny noun pl=pennies|pence
 pension noun
 pensioner noun
 pentagon noun
+pentathlon noun
+penthouse noun
 people noun note=plural peoples means nations; people as plural of person is in the person entry
 pepper noun
 peptide noun
@@ -273,6 +277,7 @@ percentile noun
 perception noun
 perch noun
 percussion noun pl=- note=uncountable
+perdition noun pl=- note=uncountable
 perennial noun
 perfection noun note=plural perfections: excellent qualities
 performance noun
@@ -346,6 +351,7 @@ philanthropist noun
 philanthropy noun
 philharmonic noun note=orchestra
 philologist noun
+philology noun pl=- note=uncountable
 philosopher noun
 philosophy noun
 phishing noun pl=- note=uncountable
@@ -371,6 +377,7 @@ phylum noun pl=phyla
 physician noun
 physicist noun
 physics noun pl=- note=uncountable
+physiognomy noun
 physiologist noun
 physiology noun
 pianist noun
@@ -560,6 +567,7 @@ pollock noun pl=pollock|pollocks gb=pollack|pollock
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
+polyethylene noun pl=- note=uncountable
 polygamy noun pl=- note=uncountable
 polymer noun
 polymerase noun
@@ -569,6 +577,7 @@ pomegranate noun
 pomp noun pl=- note=uncountable
 poncho noun pl=ponchos
 pond noun
+pontoon noun
 pony noun
 ponytail noun
 poofter noun style=offensive note=homophobic slur
@@ -603,6 +612,7 @@ portico noun pl=porticoes|porticos
 portion noun
 portmanteau noun pl=portmanteaus|portmanteaux
 portrait noun
+portraiture noun pl=- note=uncountable
 portrayal noun
 Portuguese noun pl=Portuguese note=demonym or religious name, capitalized
 pose noun
@@ -731,9 +741,11 @@ press noun
 pressure noun
 prestige noun pl=- note=uncountable
 presumption noun
+pretender noun
 pretense noun gb=pretence
 pretension noun
 pretext noun
+prettiness noun pl=- note=uncountable
 pretzel noun
 prevalence noun pl=- note=uncountable
 preventative noun
@@ -830,6 +842,7 @@ projection noun
 projector noun
 proliferation noun
 prologue noun
+prolongation noun
 promenade noun
 prominence noun note=plural prominences: solar prominences, projections
 promise noun
@@ -855,6 +868,7 @@ propensity noun
 property noun
 prophecy noun
 prophet noun
+propionyl noun conf=90 note=chemistry: the acyl group of propionic acid
 proponent noun
 proportion noun
 proportionality noun pl=- note=uncountable
@@ -929,6 +943,7 @@ pub noun
 puberty noun pl=- note=uncountable
 public noun pl=- note=the public; collective
 publication noun
+publicist noun
 publicity noun pl=- note=uncountable
 publisher noun
 puck noun
@@ -969,6 +984,7 @@ purple noun
 purport noun pl=- note=meaning, gist
 purpose noun
 purse noun
+purser noun
 pursuance noun pl=- note=uncountable
 pursuer noun
 pursuit noun

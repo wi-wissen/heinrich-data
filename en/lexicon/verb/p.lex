@@ -11,6 +11,7 @@ pair verb
 pale verb
 pall verb
 pan verb
+panel verb
 panhandle verb
 panic verb
 pant verb

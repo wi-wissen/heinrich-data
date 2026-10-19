@@ -16,6 +16,7 @@ pandemic adj
 panoramic adj
 papal adj
 paperless adj
+parabolic adj
 paradoxical adj adv=paradoxically
 parallel adj
 Paralympic adj
@@ -115,6 +116,7 @@ phytosanitary adj
 pictorial adj
 picturesque adj cmp=more
 piecemeal adj
+pied adj
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously
@@ -276,6 +278,7 @@ prolific adj cmp=more
 prominent adj cmp=more adv=prominently
 promiscuous adj cmp=more adv=promiscuously
 promising adj cmp=more adv=promisingly
+promissory adj
 promotional adj
 prompt adj cmp=er adv=promptly
 prone adj
@@ -304,6 +307,7 @@ provincial adj
 provisional adj adv=provisionally
 provocative adj adv=provocatively
 proximal adj
+proximate adj adv=proximately
 prudent adj cmp=more adv=prudently
 prudential adj
 Prussian adj note=demonym or religious name, capitalized

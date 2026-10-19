@@ -201,6 +201,8 @@ dismay verb
 dismiss verb
 dismount verb
 disobey verb
+disown verb
+disparage verb
 dispatch verb gb=dispatch|despatch
 dispel verb double
 dispense verb
@@ -209,6 +211,7 @@ displace verb
 display verb
 displease verb
 dispose verb
+dispossess verb
 dispute verb
 disqualify verb
 disquiet verb

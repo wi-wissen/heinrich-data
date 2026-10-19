@@ -45,6 +45,7 @@ weld verb
 wet verb past=wet|wetted pp=wet|wetted
 whale verb
 wheel verb
+whiff verb
 while verb
 whimper verb
 whine verb

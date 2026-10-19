@@ -74,6 +74,7 @@ cheery adj cmp=er adv=cheerily
 cheesy adj cmp=er
 chemical adj adv=chemically
 chewy adj cmp=er
+chic adj cmp=chicer sup=chicest note=generator would double the c (chiccer); also compared with more
 chief adj
 childish adj cmp=more adv=childishly
 childless adj
@@ -91,6 +92,7 @@ chromatic adj
 chronic adj adv=chronically
 chronological adj adv=chronologically
 chubby adj cmp=er
+chunky adj cmp=er
 cinematic adj
 circadian adj
 circuitous adj
@@ -134,6 +136,7 @@ cognitive adj adv=cognitively
 cognizant adj gb=cognisant|cognizant
 coherent adj cmp=more adv=coherently
 cohesive adj cmp=more
+coincident adj
 cold adj cmp=er adv=coldly
 collaborative adj adv=collaboratively
 collateral adj
@@ -186,6 +189,7 @@ composed adj cmp=more adv=composedly
 composite adj
 compositional adj
 compound adj
+comprehensible adj cmp=more adv=comprehensibly
 comprehensive adj adv=comprehensively
 compulsory adj adv=compulsorily
 computational adj adv=computationally
@@ -210,7 +214,7 @@ confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
 confirmatory adj
 conflicting adj
-confused adj cmp=more
+confused adj cmp=more adv=confusedly
 confusing adj cmp=more
 congenial adj cmp=more
 congenital adj adv=congenitally
@@ -372,4 +376,5 @@ cyclical adj adv=cyclically
 cylindrical adj
 cynical adj cmp=more adv=cynically
 Cypriot adj
+cystic adj
 Czech adj

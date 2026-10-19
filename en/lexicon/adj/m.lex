@@ -151,15 +151,19 @@ modest        adj cmp=more adv=modestly
 modular       adj
 moist         adj cmp=er
 molar adj
+moldy adj cmp=er gb=mouldy
 molecular     adj
 molten adj
 momentary     adj adv=momentarily
 momentous adj
+monarchical adj
 monastic      adj
 monetary      adj
 Mongol adj
 mono adj
 monochrome adj
+monoclonal adj
+monolithic adj
 monotone adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
@@ -168,6 +172,7 @@ monumental adj adv=monumentally
 moody adj cmp=er adv=moodily
 moonlit adj
 Moorish       adj
+moot adj
 moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
@@ -216,6 +221,7 @@ myriad adj
 mysterious    adj cmp=more adv=mysteriously
 mystic adj
 mystical adj adv=mystically
+mythic adj
 mythical adj
 mythological adj
 Māori         adj

@@ -2,6 +2,7 @@ daily adj
 dainty adj cmp=er adv=daintily
 dairy adj
 damn adj
+damnable adj adv=damnably
 damned adj
 damp adj cmp=er adv=damply
 dandy adj cmp=er
@@ -72,6 +73,7 @@ depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
 derelict adj
+derisive adj cmp=more adv=derisively
 derivative adj
 dermal adj
 derogatory adj
@@ -110,6 +112,7 @@ diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
 diagonal adj adv=diagonally
+dialectical adj adv=dialectically
 dictatorial adj
 didactic adj cmp=more adv=didactically
 dielectric adj
@@ -146,6 +149,7 @@ disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
 disconsolate adj adv=disconsolately
 discontented adj
+discontinuous adj adv=discontinuously
 discordant adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
@@ -157,14 +161,17 @@ disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
 dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
+dishonorable adj gb=dishonourable adv=dishonorably
 disillusioned adj cmp=more
 disinterested adj
 disjoint adj
 disjointed adj cmp=more adv=disjointedly
 dismal adj adv=dismally
+dismissive adj cmp=more adv=dismissively
 disordered adj cmp=more
 disorderly adj
 disorganized adj gb=disorganised|disorganized
+disparaging adj cmp=more adv=disparagingly
 disparate adj cmp=more
 disposable adj
 dispositive adj conf=90 note=legal register
@@ -187,6 +194,7 @@ distraught adj
 distressed adj cmp=more
 distributional adj
 distributive adj
+distrustful adj cmp=more adv=distrustfully
 disused adj
 diurnal adj
 divergent adj

@@ -1,3 +1,4 @@
+rabbinic adj
 racial adj adv=racially
 racist adj
 radial adj
@@ -37,12 +38,15 @@ recessive adj
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
+recombinant adj
 recordable adj
 recoverable adj
 recreational adj
 rectangular adj
 recurrent adj adv=recurrently
+recursive adj adv=recursively
 red adj cmp=er
+red-haired adj note=haired is not a word of its own
 reddish adj
 redundant adj
 referable adj
@@ -79,6 +83,7 @@ remarkable adj cmp=more adv=remarkably
 remastered adj
 remedial adj
 reminiscent adj
+remorseful adj cmp=more adv=remorsefully
 remote adj cmp=er adv=remotely
 removable adj
 renal adj

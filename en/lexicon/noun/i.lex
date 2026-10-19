@@ -109,6 +109,7 @@ incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
+incineration noun pl=- note=uncountable
 incinerator noun
 incitement noun
 inclination    noun
@@ -117,6 +118,7 @@ inclusion      noun
 income         noun
 incompatibility noun
 incompetence noun
+incongruity noun
 inconsistency noun
 inconvenience noun
 incorporation  noun
@@ -129,6 +131,7 @@ incursion noun
 indebtedness noun pl=- note=uncountable
 indecision noun pl=- note=uncountable
 indemnity noun
+indent noun
 indenture noun
 independence   noun
 independent    noun
@@ -159,6 +162,7 @@ industrialization noun gb=industrialisation|industrialization
 industry       noun
 inefficiency noun
 inequality     noun
+inequity noun
 inertia noun pl=- note=uncountable
 inexperience noun pl=- note=uncountable
 infamy noun
@@ -182,6 +186,7 @@ inflammation   noun
 inflatable noun
 inflation      noun
 inflection noun gb=inflection|inflexion
+infliction noun
 inflow noun
 influence      noun
 influenza      noun pl=- note=uncountable
@@ -407,6 +412,7 @@ issuer         noun
 isthmus noun pl=isthmuses
 Italian        noun
 italic noun
+itch noun
 item           noun
 iteration noun
 itinerant noun
