@@ -1,5 +1,6 @@
 T-shirt noun note=also tee shirt
 tab noun
+tabernacle noun
 table noun
 tablecloth noun
 tablespoon noun
@@ -91,6 +92,7 @@ telemarketing noun pl=- note=uncountable
 telemedicine noun pl=- note=uncountable
 telephone noun
 telephonist noun region=GB
+telephony noun pl=- note=uncountable
 telescope noun
 television noun
 teleworking noun pl=- note=uncountable
@@ -130,6 +132,7 @@ termite noun
 tern noun
 terrace noun
 terrain noun
+terrier noun
 territory noun
 terror noun
 terrorism noun

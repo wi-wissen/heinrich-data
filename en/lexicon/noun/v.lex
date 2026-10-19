@@ -19,6 +19,7 @@ valve         noun
 vampire noun
 van           noun
 vandalism noun pl=- note=uncountable
+vane noun
 vanguard noun
 vanilla noun pl=- note=uncountable
 vanity        noun
@@ -63,11 +64,13 @@ verdict       noun
 verdure noun pl=- note=literary
 verge         noun
 verification  noun
+vermilion noun pl=- note=uncountable as a color
 vernacular noun
 verse         noun
 version       noun
 vertebrate noun
 vertex noun pl=vertices|vertexes conf=90 note=vertexes rare
+vertigo noun pl=vertigoes|vertigos
 vessel        noun
 vest          noun
 vestibule noun

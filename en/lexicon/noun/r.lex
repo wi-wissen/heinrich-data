@@ -2,6 +2,7 @@ rabbi noun
 rabbit noun
 raccoon noun
 race noun
+racecourse noun
 racehorse noun
 racer noun
 racing noun pl=- note=uncountable
@@ -17,6 +18,7 @@ radiator noun
 radical noun
 radio noun pl=radios
 radioisotope noun
+radiopharmaceutical noun
 radish noun
 radius noun pl=radii|radiuses
 raft noun
@@ -132,6 +134,7 @@ recklessness noun pl=- note=uncountable
 reclamation noun
 reclassification noun
 recognition noun
+recoil noun
 recollection noun
 recommendation noun
 reconciliation noun
@@ -168,6 +171,7 @@ redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
 redundancy noun
+redwood noun
 reed noun
 reef noun pl=reefs
 reel noun
@@ -409,6 +413,7 @@ reversion noun
 review noun
 reviewer noun
 revision noun
+revitalization noun gb=revitalisation|revitalization
 revival noun
 revocation noun
 revolt noun

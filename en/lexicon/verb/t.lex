@@ -33,6 +33,7 @@ tee verb
 telecast verb past=telecast|telecasted pp=telecast|telecasted conf=90 note=like broadcast; telecasted also occurs
 telecommute verb
 telegraph verb
+telephone verb
 televise verb
 telework verb
 tell verb past=told pp=told
@@ -52,6 +53,7 @@ text verb
 thank verb
 thatch verb
 thaw verb
+thicken verb
 thin verb
 think verb past=thought pp=thought
 thrash verb
@@ -115,6 +117,7 @@ train verb
 tramp verb
 trample verb
 transact verb
+transcend verb
 transcribe verb
 transfer verb double
 transform verb
@@ -130,6 +133,7 @@ travel verb
 traverse verb
 trawl verb
 tread verb past=trod pp=trodden|trod
+treasure verb
 treat verb
 treble verb
 trek verb

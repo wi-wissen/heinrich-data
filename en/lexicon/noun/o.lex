@@ -127,6 +127,7 @@ ornament      noun
 orphan noun
 orthography noun
 OS            noun abbr note=operating system
+oscillation noun
 ostrich noun
 otter noun
 Ottoman noun note=plural Ottomans

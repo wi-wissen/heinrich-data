@@ -6,12 +6,15 @@ bad adj cmp=worse sup=worst adv=badly
 baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
+balmy adj cmp=er adv=balmily
 Baltic adj
 bankable adj
 bankrupt adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
 bare adj cmp=er
+barefoot adj
+barefooted adj
 baroque adj
 barren adj cmp=more
 basal adj

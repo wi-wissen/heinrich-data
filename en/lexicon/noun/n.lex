@@ -49,6 +49,7 @@ negro         noun pl=negroes style=archaic|offensive alt=Black_person note=hist
 Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
+nemesis noun pl=nemeses
 neoliberal noun
 nephew        noun
 nerve         noun
@@ -68,6 +69,7 @@ newcomer noun
 news          noun pl=- note=uncountable, singular agreement
 newsagent noun region=GB
 newscast noun
+newsdesk noun
 newsletter noun
 newspaper     noun
 newton        noun note=SI unit of force
@@ -172,3 +174,4 @@ nut           noun
 nutmeg noun
 nutrient noun
 nutrition     noun pl=- note=uncountable
+nymph noun

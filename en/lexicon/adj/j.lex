@@ -15,6 +15,7 @@ judicious adj adv=judiciously
 juicy adj cmp=er
 junior         adj
 Jurassic adj
+jurisdictional adj
 just           adj cmp=er|more adv=justly
 justifiable adj adv=justifiably
 juvenile       adj

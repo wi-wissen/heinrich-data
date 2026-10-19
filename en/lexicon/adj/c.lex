@@ -171,6 +171,7 @@ confused adj cmp=more
 confusing adj cmp=more
 congenial adj cmp=more
 congenital adj adv=congenitally
+congregational adj
 congressional adj
 conical adj
 conscientious adj cmp=more adv=conscientiously
@@ -288,6 +289,7 @@ curious adj cmp=more adv=curiously
 curly adj cmp=er
 current adj cmp=more adv=currently
 cursed adj
+curt adj cmp=er adv=curtly
 curved adj
 custodial adj
 custom adj

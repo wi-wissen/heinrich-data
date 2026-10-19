@@ -83,10 +83,12 @@ settle verb
 sever verb
 sew verb past=sewed pp=sewn|sewed
 shade verb
+shadow verb
 shake verb past=shook pp=shaken
 shame verb
 shape verb
 share verb
+sharpen verb
 shatter verb
 shave verb
 shear verb past=sheared pp=sheared|shorn
@@ -190,7 +192,9 @@ slur verb
 slurp verb
 smack verb
 smash verb
+smear verb
 smell verb past=smelled|smelt pp=smelled|smelt
+smelt verb
 smile verb
 smite verb past=smote pp=smitten|smote conf=90 note=archaic or elevated; smitten also adjectival
 smoke verb
@@ -407,6 +411,7 @@ sunburn verb past=sunburned|sunburnt pp=sunburned|sunburnt conf=90
 sup verb note=to eat supper; to sip
 supersede verb
 supervise verb
+supplant verb
 supplement verb
 supply verb
 support verb

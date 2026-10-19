@@ -12,6 +12,7 @@ ken noun pl=- note=beyond one's ken
 kennel noun
 kernel noun
 kerosene noun pl=- note=uncountable
+ketch noun
 ketchup noun pl=- note=uncountable
 kettle noun
 key            noun
