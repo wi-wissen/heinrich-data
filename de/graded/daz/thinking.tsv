@@ -8,12 +8,9 @@ Auskunft                 noun   cefr=A2 topic=thinking|traffic|authorities role=
 Ding                     noun   cefr=A2 topic=thinking role=prod conf=75 src=ai
 einverstanden            adj    cefr=A2 topic=thinking role=prod conf=75 src=ai
 Erfolg                   noun   cefr=A2 topic=thinking role=prod conf=60 src=ai
-Ergebnis                 noun   cefr=A2 topic=thinking role=prod conf=55 src=ai
+Gegenteil                noun   cefr=A2 topic=thinking role=prod conf=65 src=ai|rev
 Hinweis                  noun   cefr=A2 topic=thinking role=rec conf=55 src=ai
 Kleinigkeit              noun   cefr=A2 topic=thinking role=prod conf=55 src=ai
 Meinung                  noun   cefr=A2 topic=thinking role=prod conf=88 src=ai
-Nachteil                 noun   cefr=A2 topic=thinking role=prod conf=70 src=ai
 Sache                    noun   cefr=A2 topic=thinking role=prod conf=75 src=ai
-Situation                noun   cefr=A2 topic=thinking role=prod conf=60 src=ai
 Sorte                    noun   cefr=A2 topic=thinking|shopping role=prod conf=60 src=ai
-Vorteil                  noun   cefr=A2 topic=thinking role=prod conf=70 src=ai

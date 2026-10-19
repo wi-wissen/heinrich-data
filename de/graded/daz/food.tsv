@@ -17,6 +17,7 @@ Birne                    noun   cefr=A1 topic=food role=prod conf=80 src=ai
 Bohne                    noun   cefr=A2 topic=food role=prod conf=65 src=ai
 Bonbon                   noun   cefr=A2 topic=food role=prod conf=55 src=ai
 Bratwurst                noun   cefr=A2 topic=food role=prod conf=55 src=ai
+Brezel                   noun   cefr=A2 topic=food role=prod conf=60 src=ai|rev
 Brot                     noun   cefr=A1 topic=food role=prod conf=97 src=ai
 Brötchen                 noun   cefr=A1 topic=food role=prod conf=92 src=ai
 Butter                   noun   cefr=A1 topic=food role=prod conf=88 src=ai
@@ -28,7 +29,6 @@ Durst                    noun   cefr=A1 topic=food role=prod conf=90 src=ai
 Döner                    noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Ei                       noun   cefr=A1 topic=food role=prod conf=92 src=ai
 Eis                      noun   cefr=A1 topic=food role=prod conf=85 src=ai
-Erbse                    noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Erdbeere                 noun   cefr=A2 topic=food role=prod conf=70 src=ai
 Essen                    noun   cefr=A1 topic=food role=prod conf=97 src=ai
 essen                    verb   cefr=A1 topic=food role=prod conf=99 src=ai
@@ -40,13 +40,15 @@ frisch                   adj    cefr=A1 topic=food role=prod conf=75 src=ai
 Frühstück                noun   cefr=A1 topic=food role=prod conf=95 src=ai
 frühstücken              verb   cefr=A1 topic=food role=prod conf=85 src=ai
 Gemüse                   noun   cefr=A1 topic=food role=prod conf=95 src=ai
-Gericht                  noun   cefr=A2 topic=food role=prod conf=60 src=ai
+Gericht:dish             noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Geschmack                noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Getränk                  noun   cefr=A1 topic=food role=prod conf=85 src=ai
 Gewürz                   noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Gramm                    noun   cefr=A1 topic=food|shopping role=prod conf=85 src=ai
 Gurke                    noun   cefr=A1 topic=food role=prod conf=85 src=ai
+Hackfleisch              noun   cefr=A2 topic=food role=prod conf=65 src=ai
 Hamburger                noun   cefr=A2 topic=food role=prod conf=55 src=ai
+Hauptgericht             noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Honig                    noun   cefr=A2 topic=food role=prod conf=65 src=ai
 Huhn                     noun   cefr=A2 topic=food|animals role=prod conf=65 src=ai
 Hunger                   noun   cefr=A1 topic=food role=prod conf=90 src=ai
@@ -66,8 +68,6 @@ kochen                   verb   cefr=A1 topic=food|home role=prod conf=95 src=ai
 Kohl                     noun   cefr=A2 topic=food role=prod conf=55 src=ai
 Kuchen                   noun   cefr=A1 topic=food role=prod conf=90 src=ai
 Käse                     noun   cefr=A1 topic=food role=prod conf=92 src=ai
-Kürbis                   noun   cefr=A2 topic=food role=prod conf=55 src=ai
-Lachs                    noun   cefr=A2 topic=food role=prod conf=55 src=ai
 Lamm                     noun   cefr=A2 topic=food|animals role=prod conf=55 src=ai
 Lebensmittel             noun   cefr=A2 topic=food|shopping role=prod conf=80 src=ai
 lecker                   adj    cefr=A1 topic=food role=prod conf=92 src=ai
@@ -86,6 +86,8 @@ Milch                    noun   cefr=A1 topic=food role=prod conf=97 src=ai
 Mittagessen              noun   cefr=A1 topic=food role=prod conf=92 src=ai
 Möhre                    noun   cefr=A2 topic=food role=prod conf=65 src=ai
 Müsli                    noun   cefr=A2 topic=food role=prod conf=65 src=ai
+Nachspeise               noun   cefr=A2 topic=food role=prod conf=60 src=ai
+Nachtisch                noun   cefr=A2 topic=food role=prod conf=70 src=ai
 Nudel                    noun   cefr=A1 topic=food role=prod conf=85 src=ai
 Nuss                     noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Obst                     noun   cefr=A1 topic=food role=prod conf=95 src=ai
@@ -94,7 +96,6 @@ Packung                  noun   cefr=A1 topic=food|shopping role=prod conf=75 sr
 Paprika                  noun   cefr=A1 topic=food role=prod conf=75 src=ai
 Pfeffer                  noun   cefr=A2 topic=food role=prod conf=70 src=ai
 Pfirsich                 noun   cefr=A2 topic=food role=prod conf=60 src=ai
-Pflaume                  noun   cefr=A2 topic=food role=prod conf=55 src=ai
 Pilz                     noun   cefr=A2 topic=food role=prod conf=60 src=ai
 Pizza                    noun   cefr=A1 topic=food role=prod conf=85 src=ai
 Pommes                   noun   cefr=A1 topic=food role=prod conf=75 src=ai
@@ -104,7 +105,6 @@ Reis                     noun   cefr=A1 topic=food role=prod conf=90 src=ai
 Restaurant               noun   cefr=A1 topic=food|town role=prod conf=92 src=ai
 Saft                     noun   cefr=A1 topic=food role=prod conf=90 src=ai
 Sahne                    noun   cefr=A2 topic=food role=prod conf=70 src=ai
-Salami                   noun   cefr=A2 topic=food role=prod conf=55 src=ai
 Salat                    noun   cefr=A1 topic=food role=prod conf=90 src=ai
 Salz                     noun   cefr=A1 topic=food role=prod conf=85 src=ai
 scharf                   adj    cefr=A1 topic=food role=prod conf=65 src=ai
@@ -133,6 +133,7 @@ trinken                  verb   cefr=A1 topic=food role=prod conf=99 src=ai
 vegan                    adj    cefr=A2 topic=food role=prod conf=55 src=ai
 Vegetarier               noun   cefr=A2 topic=food role=prod conf=60 src=ai
 vegetarisch              adj    cefr=A2 topic=food role=prod conf=70 src=ai
+Vorspeise                noun   cefr=A2 topic=food role=prod conf=65 src=ai
 Wasser                   noun   cefr=A1 topic=food role=prod conf=99 src=ai
 Wein                     noun   cefr=A1 topic=food role=prod conf=85 src=ai
 Wurst                    noun   cefr=A1 topic=food role=prod conf=88 src=ai

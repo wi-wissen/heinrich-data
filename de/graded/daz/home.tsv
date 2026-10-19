@@ -2,23 +2,34 @@
 # Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
 # lemma[:sense]  pos  fields
 
+# grade None · function.adverb
+zuhause                  adv    cefr=A1 topic=function.adverb|home role=prod conf=75 src=ai|rev
+
 # grade None · home
+abstellen                verb   cefr=A2 topic=home role=prod conf=60 src=ai|rev
+aufbewahren              verb   cefr=A2 topic=home role=rec conf=55 src=ai|rev
 aufräumen                verb   cefr=A1 topic=home role=prod conf=70 src=ai
 Backofen                 noun   cefr=A2 topic=home role=prod conf=60 src=ai
 Bad                      noun   cefr=A1 topic=home role=prod conf=95 src=ai
 Badewanne                noun   cefr=A2 topic=home role=prod conf=85 src=ai
 Badezimmer               noun   cefr=A1 topic=home role=prod conf=85 src=ai
 Balkon                   noun   cefr=A1 topic=home|housing role=prod conf=85 src=ai
+Batterie                 noun   cefr=A2 topic=home role=prod conf=65 src=ai|rev
+Besen                    noun   cefr=A2 topic=home role=prod conf=55 src=ai|rev
 Besteck                  noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Bett                     noun   cefr=A1 topic=home role=prod conf=97 src=ai
 Bild                     noun   cefr=A1 topic=home role=prod conf=88 src=ai
 Boden                    noun   cefr=A2 topic=home role=prod conf=75 src=ai
+Briefkasten              noun   cefr=A2 topic=home|media role=prod conf=80 src=ai
+Bügeleisen               noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Decke                    noun   cefr=A2 topic=home role=prod conf=75 src=ai
 Dusche                   noun   cefr=A1 topic=home role=prod conf=85 src=ai
 duschen                  verb   cefr=A1 topic=home role=prod conf=80 src=ai
+Eimer                    noun   cefr=A2 topic=home role=prod conf=55 src=ai|rev
 Fenster                  noun   cefr=A1 topic=home role=prod conf=92 src=ai
 Fernseher                noun   cefr=A1 topic=home|media role=prod conf=88 src=ai
 Flur:hall                noun   cefr=A1 topic=home role=prod conf=75 src=ai
+Fußboden                 noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Gabel                    noun   cefr=A1 topic=home|food role=prod conf=80 src=ai
 Garage                   noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Gardine                  noun   cefr=A2 topic=home role=prod conf=55 src=ai
@@ -28,19 +39,27 @@ Geschirrspüler           noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Glas                     noun   cefr=A1 topic=home|food role=prod conf=88 src=ai
 Handtuch                 noun   cefr=A1 topic=home role=prod conf=70 src=ai|rev
 Haus                     noun   cefr=A1 topic=home role=prod conf=99 src=ai
+Hausarbeit               noun   cefr=A2 topic=home role=prod conf=60 src=ai
 Haushalt                 noun   cefr=A2 topic=home role=prod conf=65 src=ai
+Haustür                  noun   cefr=A2 topic=home role=prod conf=75 src=ai
+heizen                   verb   cefr=A2 topic=home role=prod conf=60 src=ai|rev
 Herd                     noun   cefr=A1 topic=home role=prod conf=80 src=ai
 Hof                      noun   cefr=A2 topic=home role=prod conf=70 src=ai
+Kabel                    noun   cefr=A2 topic=home role=prod conf=60 src=ai|rev
+Kaffeemaschine           noun   cefr=A2 topic=home role=prod conf=70 src=ai
 Kanne                    noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Keller                   noun   cefr=A1 topic=home role=prod conf=70 src=ai
 Kinderzimmer             noun   cefr=A1 topic=home role=prod conf=85 src=ai
 Kissen                   noun   cefr=A2 topic=home role=prod conf=70 src=ai
+Kleiderschrank           noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Klingel                  noun   cefr=A2 topic=home role=prod conf=65 src=ai
+Kopfkissen               noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Küche                    noun   cefr=A1 topic=home role=prod conf=97 src=ai
 Kühlschrank              noun   cefr=A1 topic=home role=prod conf=88 src=ai
 Lampe                    noun   cefr=A1 topic=home role=prod conf=88 src=ai
 Licht                    noun   cefr=A1 topic=home role=prod conf=75 src=ai
 Löffel                   noun   cefr=A1 topic=home|food role=prod conf=80 src=ai
+lüften                   verb   cefr=A2 topic=home role=prod conf=60 src=ai|rev
 Messer                   noun   cefr=A1 topic=home|food role=prod conf=80 src=ai
 Mikrowelle               noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Möbel                    noun   cefr=A1 topic=home role=prod conf=85 src=ai
@@ -49,9 +68,11 @@ Pfanne                   noun   cefr=A2 topic=home|food role=prod conf=70 src=ai
 putzen                   verb   cefr=A1 topic=home role=prod conf=75 src=ai
 Raum                     noun   cefr=A2 topic=home role=prod conf=75 src=ai
 Regal                    noun   cefr=A1 topic=home role=prod conf=85 src=ai
+reinigen                 verb   cefr=A2 topic=home role=rec conf=55 src=ai|rev
 Schlafzimmer             noun   cefr=A1 topic=home role=prod conf=90 src=ai
 Schlüssel                noun   cefr=A1 topic=home role=prod conf=85 src=ai
 Schrank                  noun   cefr=A1 topic=home role=prod conf=92 src=ai
+Schreibtisch             noun   cefr=A2 topic=home role=prod conf=80 src=ai
 Schublade                noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Schüssel                 noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Seife                    noun   cefr=A1 topic=home role=prod conf=70 src=ai|rev
@@ -76,10 +97,14 @@ Tür                      noun   cefr=A1 topic=home role=prod conf=92 src=ai
 Uhr                      noun   cefr=A1 topic=home|time.clock role=prod conf=97 src=ai
 Vorhang                  noun   cefr=A2 topic=home role=prod conf=65 src=ai
 Wand                     noun   cefr=A2 topic=home role=prod conf=75 src=ai
+Waschbecken              noun   cefr=A2 topic=home role=prod conf=70 src=ai
 waschen                  verb   cefr=A1 topic=home role=prod conf=75 src=ai
 Waschmaschine            noun   cefr=A1 topic=home role=prod conf=80 src=ai
+Waschmittel              noun   cefr=A2 topic=home role=prod conf=55 src=ai
+Wasserhahn               noun   cefr=A2 topic=home role=prod conf=55 src=ai
 Wasserkocher             noun   cefr=A2 topic=home role=prod conf=60 src=ai
 WC                       noun   cefr=A1 topic=home role=rec conf=75 src=ai
+wischen                  verb   cefr=A2 topic=home role=prod conf=55 src=ai|rev
 wohnen                   verb   cefr=A1 topic=home|self role=prod conf=99 src=ai
 Wohnung                  noun   cefr=A1 topic=home|housing role=prod conf=99 src=ai
 Wohnzimmer               noun   cefr=A1 topic=home role=prod conf=90 src=ai
@@ -87,4 +112,4 @@ Wäsche                   noun   cefr=A2 topic=home role=prod conf=75 src=ai
 Zahnbürste               noun   cefr=A1 topic=home role=prod conf=65 src=ai|rev
 Zahnpasta                noun   cefr=A2 topic=home role=prod conf=70 src=ai
 Zimmer                   noun   cefr=A1 topic=home|housing role=prod conf=98 src=ai
-Zuhause                  noun   cefr=A2 topic=home role=prod conf=65 src=ai
+Zuhause                  noun   cefr=A1 topic=home role=prod conf=65 src=ai|rev

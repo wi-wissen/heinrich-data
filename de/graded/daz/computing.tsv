@@ -1,0 +1,9 @@
+# German as a second language (DaZ) graded vocabulary, domain `computing` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · computing.devices
+tippen                   verb   cefr=A2 topic=computing.devices role=prod conf=60 src=ai|rev
+
+# grade None · computing.internet
+anklicken                verb   cefr=A2 topic=computing.internet role=prod conf=60 src=ai|rev

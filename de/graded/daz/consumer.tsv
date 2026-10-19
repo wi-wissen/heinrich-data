@@ -5,7 +5,7 @@
 # grade None · consumer
 Beschwerde               noun   cefr=A2 topic=consumer role=prod conf=65 src=ai
 Garantie                 noun   cefr=A2 topic=consumer role=prod conf=70 src=ai
-Reklamation              noun   cefr=A2 topic=consumer role=prod conf=70 src=ai
+Reklamation              noun   cefr=A2 topic=consumer role=rec conf=70 src=ai|rev
 Umtausch                 noun   cefr=A2 topic=consumer role=prod conf=60 src=ai
 umtauschen               verb   cefr=A2 topic=consumer|shopping role=prod conf=85 src=ai
 Vertrag                  noun   cefr=A2 topic=consumer|housing|banking role=prod conf=80 src=ai

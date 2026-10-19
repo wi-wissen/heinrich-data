@@ -4,8 +4,6 @@
 
 # grade None · environment
 Abfall                   noun   cefr=A2 topic=environment role=prod conf=60 src=ai
-Energie                  noun   cefr=A2 topic=environment role=prod conf=60 src=ai
 Luft                     noun   cefr=A2 topic=environment|nature role=prod conf=70 src=ai
 Plastik:plastic          noun   cefr=A2 topic=environment role=prod conf=60 src=ai
-schützen                 verb   cefr=A2 topic=environment role=prod conf=55 src=ai
 Umwelt                   noun   cefr=A2 topic=environment role=prod conf=70 src=ai

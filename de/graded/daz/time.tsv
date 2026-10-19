@@ -53,6 +53,7 @@ Tag                      noun   cefr=A1 topic=time.calendar role=prod conf=99 sr
 Werktag                  noun   cefr=A2 topic=time.calendar role=rec conf=55 src=ai
 Winter                   noun   cefr=A1 topic=time.calendar|weather role=prod conf=92 src=ai
 Woche                    noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Wochentag                noun   cefr=A2 topic=time.calendar role=prod conf=65 src=ai
 
 # grade None · time.clock
 Abend                    noun   cefr=A1 topic=time.clock role=prod conf=95 src=ai
@@ -89,26 +90,29 @@ Viertel                  noun   cefr=A1 topic=time.clock role=prod conf=85 src=a
 Viertelstunde            noun   cefr=A2 topic=time.clock role=prod conf=65 src=ai
 Vormittag                noun   cefr=A1 topic=time.clock role=prod conf=85 src=ai
 vormittags               adv    cefr=A1 topic=time.clock role=prod conf=75 src=ai
+Wecker                   noun   cefr=A2 topic=time.clock role=prod conf=75 src=ai|rev
 
 # grade None · time.relations
 Anfang                   noun   cefr=A1 topic=time.relations role=prod conf=70 src=ai|rev
 Augenblick               noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
 Beginn                   noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+bisher                   adv    cefr=A2 topic=time.relations role=prod conf=65 src=ai|rev
 Dauer                    noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
 Ende                     noun   cefr=A1 topic=time.relations role=prod conf=75 src=ai|rev
-Frist                    noun   cefr=A2 topic=time.relations|authorities role=rec conf=60 src=ai
 Geschichte               noun   cefr=A2 topic=time.relations role=prod conf=75 src=ai
+inzwischen               adv    cefr=A2 topic=time.relations role=prod conf=60 src=ai|rev
 Jahrhundert              noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
 jährlich                 adj    cefr=A2 topic=time.relations role=prod conf=55 src=ai
 Mal                      noun   cefr=A2 topic=time.relations role=prod conf=85 src=ai
 Mitte                    noun   cefr=A2 topic=time.relations|space role=prod conf=75 src=ai
 monatlich                adj    cefr=A2 topic=time.relations role=prod conf=65 src=ai
+neulich                  adv    cefr=A2 topic=time.relations role=prod conf=60 src=ai|rev
 pünktlich                adj    cefr=A2 topic=time.relations role=prod conf=88 src=ai
 rechtzeitig              adj    cefr=A2 topic=time.relations role=prod conf=60 src=ai
 Schluss                  noun   cefr=A2 topic=time.relations role=prod conf=65 src=ai
 täglich                  adj    cefr=A2 topic=time.relations role=prod conf=75 src=ai
-Vergangenheit            noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
 Verspätung               noun   cefr=A2 topic=time.relations|traffic role=prod conf=85 src=ai
 vorbei                   adv    cefr=A2 topic=time.relations role=prod conf=70 src=ai
+vorhin                   adv    cefr=A2 topic=time.relations role=prod conf=60 src=ai|rev
 wöchentlich              adj    cefr=A2 topic=time.relations role=prod conf=60 src=ai
 Zukunft                  noun   cefr=A2 topic=time.relations role=prod conf=70 src=ai

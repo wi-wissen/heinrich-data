@@ -6,7 +6,6 @@
 Bekannte                 noun   cefr=A2 topic=people role=prod conf=70 src=ai
 Besuch                   noun   cefr=A2 topic=people role=prod conf=80 src=ai
 besuchen                 verb   cefr=A1 topic=people role=prod conf=85 src=ai
-Beziehung                noun   cefr=A2 topic=people role=prod conf=65 src=ai
 Dame                     noun   cefr=A2 topic=people role=prod conf=65 src=ai
 Ehe                      noun   cefr=A2 topic=people|family role=prod conf=60 src=ai
 einladen                 verb   cefr=A1 topic=people|celebrations role=prod conf=75 src=ai
@@ -16,11 +15,13 @@ Freund                   noun   cefr=A1 topic=people role=prod conf=97 src=ai
 Freundin                 noun   cefr=A1 topic=people role=prod conf=95 src=ai
 Freundschaft             noun   cefr=A2 topic=people role=prod conf=70 src=ai
 Gefallen:favor           noun   cefr=A2 topic=people role=prod conf=55 src=ai
+gemeinsam                adj    cefr=A2 topic=people role=prod conf=70 src=ai|rev
 Gruppe                   noun   cefr=A2 topic=people role=prod conf=75 src=ai
 heiraten                 verb   cefr=A1 topic=people|family role=prod conf=70 src=ai|rev
 Jugendliche              noun   cefr=A2 topic=people role=prod conf=70 src=ai
 kennenlernen             verb   cefr=A1 topic=people role=prod conf=80 src=ai|rev
 Kontakt                  noun   cefr=A2 topic=people role=prod conf=70 src=ai
+Kuss                     noun   cefr=A2 topic=people role=prod conf=60 src=ai|rev
 lachen                   verb   cefr=A1 topic=people|feelings role=prod conf=65 src=ai|rev
 Leute                    noun   cefr=A1 topic=people role=prod conf=85 src=ai
 Mensch                   noun   cefr=A1 topic=people role=prod conf=80 src=ai
@@ -29,7 +30,6 @@ mitkommen                verb   cefr=A1 topic=people role=prod conf=70 src=ai|re
 mitnehmen                verb   cefr=A1 topic=people role=prod conf=65 src=ai|rev
 Nachbar                  noun   cefr=A1 topic=people|housing role=prod conf=80 src=ai
 Nachbarin                noun   cefr=A1 topic=people|housing role=prod conf=80 src=ai
-Scheidung                noun   cefr=A2 topic=people|family role=prod conf=55 src=ai
 schenken                 verb   cefr=A1 topic=people|celebrations role=prod conf=70 src=ai|rev
 Streit                   noun   cefr=A2 topic=people role=prod conf=65 src=ai
 treffen                  verb   cefr=A1 topic=people|play role=prod conf=85 src=ai

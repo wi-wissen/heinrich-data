@@ -10,6 +10,7 @@ tun                      verb   cefr=A1 topic=actions role=prod conf=75 src=ai
 warten                   verb   cefr=A1 topic=actions role=prod conf=85 src=ai
 
 # grade None · actions.change
+abnehmen                 verb   cefr=A2 topic=actions.change role=prod conf=70 src=ai|rev
 aufhören                 verb   cefr=A2 topic=actions.change role=prod conf=85 src=ai
 brechen                  verb   cefr=A2 topic=actions.change|health role=prod conf=65 src=ai
 brennen                  verb   cefr=A2 topic=actions.change|emergency role=prod conf=65 src=ai
@@ -22,11 +23,13 @@ klappen                  verb   cefr=A2 topic=actions.change role=prod conf=70 s
 passieren                verb   cefr=A2 topic=actions.change role=prod conf=88 src=ai
 schaffen:manage          verb   cefr=A2 topic=actions.change role=prod conf=75 src=ai
 sterben                  verb   cefr=A2 topic=actions.change role=prod conf=75 src=ai
+verbessern               verb   cefr=A2 topic=actions.change role=prod conf=60 src=ai|rev
 verbringen               verb   cefr=A2 topic=actions.change|travel role=prod conf=70 src=ai
 verpassen                verb   cefr=A2 topic=actions.change|traffic role=prod conf=80 src=ai
 verschwinden             verb   cefr=A2 topic=actions.change role=prod conf=55 src=ai
 verspäten                verb   cefr=A2 topic=actions.change|traffic role=prod conf=70 src=ai
 wachsen                  verb   cefr=A2 topic=actions.change role=prod conf=70 src=ai
+zunehmen                 verb   cefr=A2 topic=actions.change role=prod conf=65 src=ai|rev
 
 # grade None · actions.handling
 abgeben                  verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
@@ -34,15 +37,20 @@ abholen                  verb   cefr=A1 topic=actions.handling role=prod conf=75
 abschließen              verb   cefr=A2 topic=actions.handling|home role=prod conf=75 src=ai
 abwaschen                verb   cefr=A2 topic=actions.handling|home role=prod conf=60 src=ai
 anmachen                 verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
+aufgeben                 verb   cefr=A2 topic=actions.handling role=prod conf=65 src=ai|rev
 aufmachen                verb   cefr=A1 topic=actions.handling role=prod conf=75 src=ai
+aufnehmen                verb   cefr=A2 topic=actions.handling role=prod conf=60 src=ai|rev
 aufpassen                verb   cefr=A2 topic=actions.handling role=prod conf=80 src=ai
+aufschreiben             verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai|rev
 ausdrucken               verb   cefr=A2 topic=actions.handling|computing.devices role=prod conf=75 src=ai
 ausleihen                verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 ausmachen                verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
 auspacken                verb   cefr=A2 topic=actions.handling role=prod conf=65 src=ai
+ausprobieren             verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai|rev
 ausschalten              verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 backen                   verb   cefr=A2 topic=actions.handling|food role=prod conf=80 src=ai
 bauen                    verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
+behalten                 verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai|rev
 bekommen                 verb   cefr=A1 topic=actions.handling role=prod conf=80 src=ai
 benutzen                 verb   cefr=A2 topic=actions.handling role=prod conf=85 src=ai
 besorgen                 verb   cefr=A2 topic=actions.handling role=prod conf=60 src=ai
@@ -62,6 +70,7 @@ grillen                  verb   cefr=A2 topic=actions.handling|food|play role=pr
 holen                    verb   cefr=A1 topic=actions.handling role=prod conf=75 src=ai
 hängen:intransitive      verb   cefr=A2 topic=actions.handling role=prod conf=80 src=ai
 hängen:transitive        verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
+kleben                   verb   cefr=A2 topic=actions.handling role=prod conf=55 src=ai|rev
 klingeln                 verb   cefr=A2 topic=actions.handling|home role=prod conf=75 src=ai
 klopfen                  verb   cefr=A2 topic=actions.handling role=prod conf=60 src=ai
 kontrollieren            verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
@@ -70,6 +79,7 @@ legen                    verb   cefr=A2 topic=actions.handling role=prod conf=85
 leihen                   verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 malen                    verb   cefr=A2 topic=actions.handling|play role=prod conf=70 src=ai
 mischen                  verb   cefr=A2 topic=actions.handling|food role=prod conf=55 src=ai
+mitmachen                verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai|rev
 nehmen                   verb   cefr=A1 topic=actions.handling role=prod conf=92 src=ai
 packen                   verb   cefr=A2 topic=actions.handling|travel role=prod conf=75 src=ai
 prüfen                   verb   cefr=A2 topic=actions.handling role=prod conf=60 src=ai
@@ -81,12 +91,15 @@ schälen                  verb   cefr=A2 topic=actions.handling|food role=prod c
 senden                   verb   cefr=A2 topic=actions.handling|media role=prod conf=65 src=ai
 setzen                   verb   cefr=A2 topic=actions.handling role=prod conf=80 src=ai
 spülen                   verb   cefr=A2 topic=actions.handling|home role=prod conf=70 src=ai
+staubsaugen              verb   cefr=A2 topic=actions.handling|home role=prod conf=60 src=ai
 stecken                  verb   cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 stellen                  verb   cefr=A2 topic=actions.handling role=prod conf=85 src=ai
 stören                   verb   cefr=A2 topic=actions.handling|housing role=prod conf=75 src=ai
 tauschen                 verb   cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 teilen                   verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai
+teilnehmen               verb   cefr=A2 topic=actions.handling role=prod conf=70 src=ai|rev
 verlieren                verb   cefr=A2 topic=actions.handling role=prod conf=85 src=ai
+verwenden                verb   cefr=A2 topic=actions.handling role=prod conf=60 src=ai|rev
 vorbereiten              verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
 wegwerfen                verb   cefr=A2 topic=actions.handling role=prod conf=75 src=ai
 werfen                   verb   cefr=A2 topic=actions.handling role=prod conf=65 src=ai
@@ -125,8 +138,7 @@ zurückkommen             verb   cefr=A2 topic=actions.motion role=prod conf=80 
 # grade None · actions.perception
 anschauen                verb   cefr=A2 topic=actions.perception role=prod conf=80 src=ai
 ansehen                  verb   cefr=A2 topic=actions.perception role=prod conf=75 src=ai
-bemerken                 verb   cefr=A2 topic=actions.perception role=prod conf=55 src=ai
-beobachten               verb   cefr=A2 topic=actions.perception role=prod conf=60 src=ai
+erkennen                 verb   cefr=A2 topic=actions.perception role=prod conf=65 src=ai|rev
 fühlen                   verb   cefr=A2 topic=actions.perception|feelings role=prod conf=80 src=ai
 gucken                   verb   cefr=A2 topic=actions.perception role=prod conf=65 src=ai
 hören                    verb   cefr=A1 topic=actions.perception role=prod conf=99 src=ai
@@ -141,12 +153,13 @@ zuschauen                verb   cefr=A2 topic=actions.perception role=prod conf=
 
 # grade None · actions.speaking
 absagen                  verb   cefr=A2 topic=actions.speaking|time role=prod conf=85 src=ai
+anbieten                 verb   cefr=A2 topic=actions.speaking role=prod conf=75 src=ai|rev
 Antwort                  noun   cefr=A1 topic=actions.speaking role=prod conf=85 src=ai
 antworten                verb   cefr=A1 topic=actions.speaking role=prod conf=92 src=ai
 ausrichten               verb   cefr=A2 topic=actions.speaking|media role=prod conf=60 src=ai
 beantworten              verb   cefr=A2 topic=actions.speaking role=prod conf=85 src=ai
 bedanken                 verb   cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
-berichten                verb   cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
+begrüßen                 verb   cefr=A2 topic=actions.speaking role=prod conf=70 src=ai|rev
 Bescheid                 noun   cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
 beschreiben              verb   cefr=A2 topic=actions.speaking role=prod conf=85 src=ai
 beschweren               verb   cefr=A2 topic=actions.speaking|consumer role=prod conf=75 src=ai
@@ -154,9 +167,9 @@ Bitte                    noun   cefr=A2 topic=actions.speaking role=prod conf=70
 bitten                   verb   cefr=A2 topic=actions.speaking role=prod conf=80 src=ai
 buchstabieren            verb   cefr=A1 topic=actions.speaking role=prod conf=85 src=ai
 danken                   verb   cefr=A2 topic=actions.speaking role=prod conf=80 src=ai
-diskutieren              verb   cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
 empfehlen                verb   cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
 erinnern                 verb   cefr=A2 topic=actions.speaking|actions.thinking role=prod conf=75 src=ai
+erkundigen               verb   cefr=A2 topic=actions.speaking role=prod conf=60 src=ai|rev
 erzählen                 verb   cefr=A2 topic=actions.speaking role=prod conf=92 src=ai
 Frage                    noun   cefr=A1 topic=actions.speaking role=prod conf=92 src=ai
 fragen                   verb   cefr=A1 topic=actions.speaking role=prod conf=97 src=ai
@@ -168,6 +181,8 @@ lügen                    verb   cefr=A2 topic=actions.speaking role=prod conf=5
 meinen                   verb   cefr=A2 topic=actions.speaking|thinking role=prod conf=85 src=ai
 melden                   verb   cefr=A2 topic=actions.speaking|media role=prod conf=75 src=ai
 mitteilen                verb   cefr=A2 topic=actions.speaking role=prod conf=60 src=ai
+nachfragen               verb   cefr=A2 topic=actions.speaking role=prod conf=65 src=ai|rev
+nennen                   verb   cefr=A2 topic=actions.speaking role=prod conf=70 src=ai|rev
 reden                    verb   cefr=A2 topic=actions.speaking role=prod conf=80 src=ai
 reklamieren              verb   cefr=A2 topic=actions.speaking|consumer role=prod conf=65 src=ai
 rufen                    verb   cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
@@ -176,6 +191,7 @@ schreiben                verb   cefr=A1 topic=actions.speaking role=prod conf=99
 schreien                 verb   cefr=A2 topic=actions.speaking role=prod conf=60 src=ai
 sprechen                 verb   cefr=A1 topic=actions.speaking role=prod conf=99 src=ai
 streiten                 verb   cefr=A2 topic=actions.speaking|people role=prod conf=65 src=ai
+Tipp                     noun   cefr=A2 topic=actions.speaking role=prod conf=70 src=ai|rev
 unterhalten              verb   cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
 vereinbaren              verb   cefr=A2 topic=actions.speaking|time role=prod conf=70 src=ai
 verschieben              verb   cefr=A2 topic=actions.speaking|time role=prod conf=70 src=ai
@@ -188,13 +204,15 @@ zusagen                  verb   cefr=A2 topic=actions.speaking role=prod conf=65
 
 # grade None · actions.thinking
 Ahnung                   noun   cefr=A2 topic=actions.thinking role=prod conf=60 src=ai
+annehmen                 verb   cefr=A2 topic=actions.thinking role=prod conf=70 src=ai|rev
 aussehen                 verb   cefr=A1 topic=actions.thinking role=prod conf=65 src=ai|rev
 aussuchen                verb   cefr=A2 topic=actions.thinking role=prod conf=65 src=ai
+bedeuten                 verb   cefr=A2 topic=actions.thinking role=prod conf=85 src=ai|rev
 brauchen                 verb   cefr=A1 topic=actions.thinking role=prod conf=97 src=ai
 denken                   verb   cefr=A1 topic=actions.thinking role=prod conf=65 src=ai
 entscheiden              verb   cefr=A2 topic=actions.thinking role=prod conf=75 src=ai
-Entscheidung             noun   cefr=A2 topic=actions.thinking role=prod conf=65 src=ai
 Erfahrung                noun   cefr=A2 topic=actions.thinking|job_search role=prod conf=75 src=ai
+erwarten                 verb   cefr=A2 topic=actions.thinking role=prod conf=65 src=ai|rev
 finden                   verb   cefr=A1 topic=actions.thinking role=prod conf=95 src=ai
 gehören                  verb   cefr=A2 topic=actions.thinking role=prod conf=85 src=ai
 gewöhnen                 verb   cefr=A2 topic=actions.thinking|integration role=prod conf=60 src=ai
@@ -209,6 +227,7 @@ kennen                   verb   cefr=A1 topic=actions.thinking role=prod conf=90
 kümmern                  verb   cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
 Lösung                   noun   cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
 Möglichkeit              noun   cefr=A2 topic=actions.thinking role=prod conf=75 src=ai
+nachdenken               verb   cefr=A2 topic=actions.thinking role=prod conf=70 src=ai|rev
 Plan                     noun   cefr=A2 topic=actions.thinking role=prod conf=75 src=ai
 planen                   verb   cefr=A2 topic=actions.thinking role=prod conf=75 src=ai
 Problem                  noun   cefr=A2 topic=actions.thinking role=prod conf=90 src=ai
@@ -219,7 +238,9 @@ suchen                   verb   cefr=A1 topic=actions.thinking role=prod conf=92
 Traum                    noun   cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
 träumen                  verb   cefr=A2 topic=actions.thinking role=prod conf=65 src=ai
 vergessen                verb   cefr=A1 topic=actions.thinking role=prod conf=70 src=ai|rev
+vergleichen              verb   cefr=A2 topic=actions.thinking role=prod conf=65 src=ai|rev
 verstehen                verb   cefr=A1 topic=actions.thinking role=prod conf=97 src=ai
+versuchen                verb   cefr=A2 topic=actions.thinking role=prod conf=80 src=ai|rev
 vorhaben                 verb   cefr=A2 topic=actions.thinking role=prod conf=75 src=ai
 wissen                   verb   cefr=A1 topic=actions.thinking role=prod conf=92 src=ai
 Wunsch                   noun   cefr=A2 topic=actions.thinking role=prod conf=80 src=ai

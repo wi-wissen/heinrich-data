@@ -90,6 +90,17 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
+## Follow-up message (verbatim)
+
+    Orchestrator: a checker (another AI agent, own knowledge only, no word lists) reviewed your A2 list: /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/de-daz-a2/check.tsv and check.md. Decide every remark by your own judgement — accept or keep with a one-line reason:
+    - `missing` → add if you agree (`src=ai|rev`);
+    - `too_early` → if you agree, remove and list under "for B1" in decisions.md;
+    - `too_late` (Zuhause/zuhause → A1) → if you agree, remove from A2 and list under "for A1" (the orchestrator moves it);
+    - `not_a2` → remove if you agree; `role` → adjust if you agree.
+    Also: the lexicon now has many of the words from your missing.tsv (the lemma index at the same path is regenerated in a moment; check `heinrich-data` worktree entries). After the index note below, add the ones you still want at A2 (`src=ai`).
+    Note on ordinals: German ordinals (erste, zehnte …) are `adj` lexemes in our lexicon, not `num` — the orchestrator has corrected that in the merged files; write `adj` for them.
+    Append a "Checker round" section to decisions.md (counts accepted/rejected, reasons). Re-run the checker script (track daz) to 0 errors and report counts. Never delete files other than your own output. Same clean-room rules.
+
 ## Checker run (faster model, own knowledge only): prompt (verbatim)
 
     # Checker run `de-daz-a2-check`
@@ -180,3 +191,82 @@ The agent received a one-line message pointing to this file, with the instructio
   möbliert. Verbs: staubsaugen, kaputtgehen, wohlfühlen.
 - Because of these gaps the doctor, job_search, banking and authorities files are smaller than the situations warrant;
   they should grow once the lexicon adds the compounds.
+
+## Checker round
+
+The checker made 270 remarks (missing 144, too_early 88, not_a2 28, role 8, too_late 2). I decided each one myself.
+Lines added or changed because of a remark carry `src=ai|rev`. After this round the list has 1,399 lexemes
+(1,358 prod, 41 rec; 125 lines `ai|rev`). Arithmetic: 1,233 − 67 (B1) − 18 (not A2) − 2 (A1) + 120 (checker missing)
++ 133 (lexicon gaps now filled) = 1,399.
+
+### too_early: 67 accepted (moved out, see "For B1"), 21 rejected
+- Rejected (kept at A2), one reason each:
+  - Arbeitgeber: needed in the job-search situation (who pays, who signs the contract).
+  - Gericht: entered as `Gericht:dish` (the index now has the sense); the checker read it as "court".
+  - Kultur: integration courses talk about one's own and German culture from the start.
+  - Bedeutung: "Was ist die Bedeutung von …?" is a core course question.
+  - wofür, worauf, worüber: A2 introduces verbs with fixed prepositions (sich freuen auf, sich interessieren für,
+    sprechen über) and the matching questions; the rarer wo-compounds went to B1.
+  - irgendwann, unbedingt: frequent in everyday plans and invitations.
+  - verbieten: pair of erlauben, needed for house rules and signs.
+  - Verletzung: accidents and the doctor are A2 situations.
+  - typisch, kompliziert, ähnlich: simple evaluations that A2 learners use when they compare their country with Germany.
+  - öffentlich: "öffentliche Verkehrsmittel" is a fixed A2 phrase.
+  - gültig: tickets and ID documents.
+  - unterhalten, organisieren, versprechen, informieren, entscheiden: frequent everyday verbs (talk to, organise a party,
+    promise, inform oneself about a course, decide on a flat).
+
+### not_a2: 18 accepted, 10 rejected
+- Accepted (removed): Islam, Gott, Witwe, Hüfte, Wange, Ellenbogen, Erbse, Kürbis, Lachs, Salami, Pflaume, Zwilling,
+  Kaninchen, Schaf, Kuh, Bauer:farmer, Weste, Lektion.
+- Rejected: Daumen (pain and injury at the doctor); Ananas, Aubergine, Mandarine, Pfirsich, Melone (common fruit and
+  vegetables at the market, and staples in many learners' cooking); Lamm, Huhn (common meats, especially for learners
+  who do not eat pork); Schwager, Schwägerin (extended family is central to many learners' lives).
+
+### role: 5 accepted, 1 rejected, 2 moot
+- Changed to rec: Kündigung, Reklamation, Behörde, Bescheinigung, Schwangerschaft.
+- Bescheid kept prod: "Bescheid sagen/geben" is an everyday phrase, not only the official letter.
+- Kredit moved to B1; Anschluss was already rec.
+
+### too_late: 2 accepted
+- Zuhause, zuhause removed from A2 (see "For A1").
+
+### missing: 120 accepted, 24 rejected
+- Accepted: nearly all everyday verbs (nennen, anbieten, annehmen, abnehmen, bedeuten, versuchen, vergleichen,
+  teilnehmen, nachdenken …), adverbs and conjunctions (kaum, weniger, bisher, inzwischen, neulich, vorhin, woanders,
+  nirgends, falls, solange), traffic (Panne, Fahrkartenautomat, Zebrastreifen, Kreisverkehr), household, clothing,
+  symptoms and office words. Some were entered as rec (Fahrzeug, Abmeldung, Einbahnstraße, Erlaubnis, Wohnfläche,
+  aufbewahren, einlösen, reinigen, beraten). Verband was entered as `Verband:bandage`.
+- Rejected:
+  - Semmel (regional variant of Brötchen); Pyjama (Schlafanzug suffices); saugen (staubsaugen is in).
+  - Lehrling (dated; Ausbildung/Azubi talk); Zeuge, einreichen, benachrichtigen, lauten, ersetzen, allgemein,
+    Geschwindigkeit, Ausnahme (formal or abstract, B1).
+  - abschleppen, überholen, Vorfahrt (driving-licence vocabulary, not general A2).
+  - zwar, sobald, sodass (B1 connectors).
+  - Tablett, Kapuze, Deckel, Dachboden, Spülmittel, Reinigung (low priority; cut to stay inside the 1,400 target).
+
+### Lexicon gaps filled
+- The regenerated lemma index now has 133 of my 141 `missing.tsv` entries (including `Tor:goal`). All of them went in
+  with their original topics, roles and confidence (`src=ai`), together with the pain compounds, EC-Karte, hell-/dunkelblau,
+  Wohnungsanzeige and Einkaufsliste. `missing.tsv` now has 8 lines: geboren, gestreift, getrennt, möbliert, verboten,
+  verletzt (participle adjectives), kaputtgehen, wohlfühlen.
+
+### Ordinals
+- The orchestrator says ordinals are `adj` in the lexicon. The current lemma index and `closed/numerals.lex` still list
+  dreizehnte … einunddreißigste as `num type=ord`, and the checker rejects them as `adj`. I kept `num` so the self-check
+  passes; the merge step can convert them to `adj`.
+
+### For B1 (removed from A2 in this round)
+Zinsen, Kredit, Schulden, Frist, brutto, netto, Entzündung, Scheidung, Asyl, Integration, Arbeitnehmer, Unternehmen,
+Betrieb, Staat, Bürger, Grenze, Qualität, Energie, Klima, Tradition, Vergangenheit, Gewohnheit, Hoffnung, Beziehung,
+Projekt, Situation, Ergebnis, Behandlung, Strafe, Verbot, Rechtsanwalt, Botschaft, Pflicht, Entscheidung, Kenntnis,
+Entfernung, woran, womit, wovon, wozu, entweder, erstens, zweitens, sowieso, schließlich, zuordnen, versichern,
+diskutieren, obwohl, trotz, seitdem, nachdem, Vorteil, Nachteil, Unterstützung, notwendig, zuverlässig, hilfsbereit,
+erreichbar, unterschiedlich, ausländisch, beobachten, unterstützen, schützen, berichten, bemerken, erziehen.
+
+### For A1 (removed from A2 in this round)
+Zuhause (noun), zuhause (adv).
+
+### Files
+Three new small files came in this round because of the first topics of added words: computing (2), sports (1, Tor:goal),
+space (1, verlaufen).

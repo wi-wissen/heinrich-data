@@ -3,13 +3,14 @@
 # lemma[:sense]  pos  fields
 
 # grade None · jobs
+Altenpfleger             noun   cefr=A2 topic=jobs role=prod conf=60 src=ai
 Anwalt                   noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
 Apotheker                noun   cefr=A2 topic=jobs role=prod conf=60 src=ai
 Arbeit                   noun   cefr=A1 topic=jobs role=prod conf=98 src=ai
 arbeiten                 verb   cefr=A1 topic=jobs role=prod conf=99 src=ai
 Arbeiter                 noun   cefr=A1 topic=jobs role=prod conf=65 src=ai|rev
 arbeitslos               adj    cefr=A1 topic=jobs role=prod conf=65 src=ai
-Bauer:farmer             noun   cefr=A2 topic=jobs role=prod conf=60 src=ai
+Arzthelferin             noun   cefr=A2 topic=jobs|doctor role=prod conf=60 src=ai
 Beruf                    noun   cefr=A1 topic=jobs role=prod conf=97 src=ai
 Busfahrer                noun   cefr=A2 topic=jobs role=prod conf=65 src=ai
 Bäcker                   noun   cefr=A1 topic=jobs role=prod conf=65 src=ai|rev
@@ -25,6 +26,7 @@ Fotograf                 noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
 Friseur                  noun   cefr=A1 topic=jobs role=prod conf=75 src=ai
 Friseurin                noun   cefr=A1 topic=jobs role=prod conf=70 src=ai
 Gärtner                  noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
+Hausmann                 noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
 Ingenieur                noun   cefr=A1 topic=jobs role=prod conf=65 src=ai|rev
 Job                      noun   cefr=A1 topic=jobs role=prod conf=80 src=ai
 Kassierer                noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
@@ -34,6 +36,7 @@ Koch                     noun   cefr=A1 topic=jobs role=prod conf=80 src=ai
 Kollege                  noun   cefr=A1 topic=jobs|workplace role=prod conf=85 src=ai
 Kollegin                 noun   cefr=A1 topic=jobs|workplace role=prod conf=85 src=ai
 Krankenpfleger           noun   cefr=A1 topic=jobs|doctor role=prod conf=60 src=ai|rev
+Krankenpflegerin         noun   cefr=A2 topic=jobs role=prod conf=60 src=ai
 Krankenschwester         noun   cefr=A1 topic=jobs|doctor role=prod conf=70 src=ai
 Köchin                   noun   cefr=A1 topic=jobs role=prod conf=75 src=ai
 Künstler                 noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
@@ -46,7 +49,8 @@ Pfleger                  noun   cefr=A2 topic=jobs role=prod conf=60 src=ai
 Polizist                 noun   cefr=A1 topic=jobs role=prod conf=70 src=ai
 Polizistin               noun   cefr=A2 topic=jobs role=prod conf=65 src=ai
 Programmierer            noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
-Rechtsanwalt             noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
+Putzfrau                 noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
+Reinigungskraft          noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
 Schauspieler             noun   cefr=A2 topic=jobs role=prod conf=55 src=ai
 Schüler                  noun   cefr=A1 topic=jobs|school role=prod conf=85 src=ai
 Schülerin                noun   cefr=A1 topic=jobs|school role=prod conf=85 src=ai

@@ -33,7 +33,6 @@ drüben                   adv    cefr=A2 topic=function.adverb|space role=prod c
 eigentlich               adv    cefr=A2 topic=function.adverb role=prod conf=80 src=ai
 endlich                  adv    cefr=A2 topic=function.adverb role=prod conf=85 src=ai
 erst                     adv    cefr=A1 topic=function.adverb role=prod conf=65 src=ai
-erstens                  adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai
 etwa                     adv    cefr=A2 topic=function.adverb role=prod conf=65 src=ai
 fast                     adv    cefr=A2 topic=function.adverb role=prod conf=85 src=ai
 freitags                 adv    cefr=A2 topic=function.adverb|time.calendar role=prod conf=70 src=ai
@@ -56,6 +55,7 @@ innen                    adv    cefr=A2 topic=function.adverb|space role=prod co
 irgendwann               adv    cefr=A2 topic=function.adverb role=prod conf=65 src=ai
 irgendwie                adv    cefr=A2 topic=function.adverb role=prod conf=55 src=ai
 irgendwo                 adv    cefr=A2 topic=function.adverb role=prod conf=65 src=ai
+kaum                     adv    cefr=A2 topic=function.adverb role=prod conf=65 src=ai|rev
 lange                    adv    cefr=A1 topic=function.adverb|time role=prod conf=75 src=ai|rev
 leider                   adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
 manchmal                 adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
@@ -68,6 +68,7 @@ nachher                  adv    cefr=A2 topic=function.adverb|time.relations rol
 natürlich                adj    cefr=A1 topic=function.adverb role=prod conf=80 src=ai
 nebenan                  adv    cefr=A2 topic=function.adverb|housing role=prod conf=70 src=ai
 nie                      adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
+nirgends                 adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai|rev
 noch                     adv    cefr=A1 topic=function.adverb role=prod conf=92 src=ai
 nochmal                  adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai
 nun                      adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai
@@ -75,7 +76,6 @@ nur                      adv    cefr=A1 topic=function.adverb role=prod conf=92 
 oft                      adv    cefr=A1 topic=function.adverb role=prod conf=88 src=ai
 plötzlich                adj    cefr=A2 topic=function.adverb role=prod conf=80 src=ai
 samstags                 adv    cefr=A2 topic=function.adverb|time.calendar role=prod conf=70 src=ai
-schließlich              adv    cefr=A2 topic=function.adverb role=prod conf=70 src=ai
 schon                    adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
 sehr                     adv    cefr=A1 topic=function.adverb role=prod conf=97 src=ai
 selten                   adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai
@@ -83,7 +83,6 @@ so                       adv    cefr=A1 topic=function.adverb role=prod conf=85 
 sogar                    adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai
 sonntags                 adv    cefr=A2 topic=function.adverb|time.calendar role=prod conf=70 src=ai
 sonst                    adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai
-sowieso                  adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai
 später                   adv    cefr=A1 topic=function.adverb role=prod conf=75 src=ai
 spätestens               adv    cefr=A2 topic=function.adverb|time.relations role=prod conf=65 src=ai
 tagsüber                 adv    cefr=A2 topic=function.adverb|time.clock role=prod conf=55 src=ai
@@ -95,16 +94,16 @@ vielleicht               adv    cefr=A1 topic=function.adverb role=prod conf=80 
 vorgestern               adv    cefr=A2 topic=function.adverb|time.relations role=prod conf=85 src=ai
 vorher                   adv    cefr=A2 topic=function.adverb|time.relations role=prod conf=80 src=ai
 weg                      adv    cefr=A2 topic=function.adverb|space role=prod conf=80 src=ai
+weniger                  adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai|rev
 werktags                 adv    cefr=A2 topic=function.adverb|time.calendar role=rec conf=55 src=ai
 wieder                   adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
 wirklich                 adj    cefr=A2 topic=function.adverb role=prod conf=85 src=ai
+woanders                 adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai|rev
 ziemlich                 adv    cefr=A2 topic=function.adverb role=prod conf=75 src=ai
 zuerst                   adv    cefr=A1 topic=function.adverb role=prod conf=75 src=ai
-zuhause                  adv    cefr=A2 topic=function.adverb|home role=prod conf=75 src=ai
 zuletzt                  adv    cefr=A2 topic=function.adverb role=prod conf=70 src=ai
 zusammen                 adv    cefr=A1 topic=function.adverb role=prod conf=85 src=ai
 zweimal                  num    cefr=A2 topic=function.adverb role=prod conf=80 src=ai
-zweitens                 adv    cefr=A2 topic=function.adverb role=prod conf=60 src=ai
 überall                  adv    cefr=A2 topic=function.adverb role=prod conf=80 src=ai
 übermorgen               adv    cefr=A2 topic=function.adverb|time.relations role=prod conf=85 src=ai
 übrigens                 adv    cefr=A2 topic=function.adverb role=prod conf=70 src=ai
@@ -134,13 +133,11 @@ bis                      sconj  cefr=A2 topic=function.conjunction role=prod con
 damit                    sconj  cefr=A2 topic=function.conjunction role=prod conf=70 src=ai
 dass                     sconj  cefr=A2 topic=function.conjunction role=prod conf=95 src=ai
 denn                     cconj  cefr=A2 topic=function.conjunction role=prod conf=90 src=ai
-entweder                 cconj  cefr=A2 topic=function.conjunction role=prod conf=65 src=ai
-nachdem                  sconj  cefr=A2 topic=function.conjunction role=prod conf=70 src=ai
+falls                    sconj  cefr=A2 topic=function.conjunction role=prod conf=65 src=ai|rev
 ob                       sconj  cefr=A2 topic=function.conjunction role=prod conf=90 src=ai
-obwohl                   sconj  cefr=A2 topic=function.conjunction role=prod conf=65 src=ai
 oder                     cconj  cefr=A1 topic=function.conjunction role=prod conf=98 src=ai
 seit                     sconj  cefr=A2 topic=function.conjunction role=prod conf=65 src=ai
-seitdem                  sconj  cefr=A2 topic=function.conjunction role=prod conf=60 src=ai
+solange                  sconj  cefr=A2 topic=function.conjunction role=prod conf=60 src=ai|rev
 sondern                  cconj  cefr=A2 topic=function.conjunction role=prod conf=85 src=ai
 und                      cconj  cefr=A1 topic=function.conjunction role=prod conf=99 src=ai
 weil                     sconj  cefr=A2 topic=function.conjunction role=prod conf=97 src=ai
@@ -198,7 +195,6 @@ neben                    adp    cefr=A1 topic=function.preposition role=prod con
 ohne                     adp    cefr=A1 topic=function.preposition role=prod conf=80 src=ai
 pro                      adp    cefr=A2 topic=function.preposition role=prod conf=70 src=ai
 seit                     adp    cefr=A1 topic=function.preposition role=prod conf=65 src=ai
-trotz                    adp    cefr=A2 topic=function.preposition role=prod conf=55 src=ai
 um                       adp    cefr=A1 topic=function.preposition role=prod conf=95 src=ai
 unter                    adp    cefr=A1 topic=function.preposition role=prod conf=80 src=ai
 vom                      adp    cefr=A1 topic=function.preposition role=prod conf=90 src=ai
@@ -264,9 +260,5 @@ wo                       adv    cefr=A1 topic=function.question role=prod conf=9
 wofür                    adv    cefr=A2 topic=function.question role=prod conf=65 src=ai
 woher                    adv    cefr=A1 topic=function.question role=prod conf=97 src=ai
 wohin                    adv    cefr=A1 topic=function.question role=prod conf=90 src=ai
-womit                    adv    cefr=A2 topic=function.question role=prod conf=60 src=ai
-woran                    adv    cefr=A2 topic=function.question role=prod conf=55 src=ai
 worauf                   adv    cefr=A2 topic=function.question role=prod conf=60 src=ai
 worüber                  adv    cefr=A2 topic=function.question role=prod conf=65 src=ai
-wovon                    adv    cefr=A2 topic=function.question role=prod conf=60 src=ai
-wozu                     adv    cefr=A2 topic=function.question role=prod conf=60 src=ai

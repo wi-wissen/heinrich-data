@@ -3,12 +3,15 @@
 # lemma[:sense]  pos  fields
 
 # grade None · media
+abschicken               verb   cefr=A2 topic=media role=prod conf=70 src=ai|rev
 Akku                     noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+aktuell                  adj    cefr=A2 topic=media role=prod conf=60 src=ai|rev
 Anruf                    noun   cefr=A2 topic=media role=prod conf=88 src=ai
 Anrufbeantworter         noun   cefr=A2 topic=media role=prod conf=65 src=ai
 anrufen                  verb   cefr=A1 topic=media role=prod conf=85 src=ai
 App                      noun   cefr=A2 topic=media|computing.devices role=prod conf=70 src=ai
 aufladen                 verb   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+auflegen                 verb   cefr=A2 topic=media role=prod conf=60 src=ai|rev
 Bildschirm               noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
 Brief                    noun   cefr=A1 topic=media role=prod conf=85 src=ai
 Chat                     noun   cefr=A2 topic=media|computing.internet role=prod conf=55 src=ai
@@ -16,7 +19,6 @@ chatten                  verb   cefr=A2 topic=media|computing.internet role=prod
 Computer                 noun   cefr=A1 topic=media role=prod conf=90 src=ai
 Datei                    noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
 eingeben                 verb   cefr=A2 topic=media|computing.devices role=prod conf=65 src=ai
-erreichbar               adj    cefr=A2 topic=media role=prod conf=55 src=ai
 Fernsehen                noun   cefr=A2 topic=media role=prod conf=75 src=ai
 Handy                    noun   cefr=A1 topic=media role=prod conf=97 src=ai
 herunterladen            verb   cefr=A2 topic=media|computing.internet role=prod conf=60 src=ai
@@ -28,6 +30,7 @@ Ladegerät                noun   cefr=A2 topic=media|computing.devices role=prod
 Laptop                   noun   cefr=A2 topic=media|computing.devices role=prod conf=70 src=ai
 Link                     noun   cefr=A2 topic=media|computing.internet role=prod conf=55 src=ai
 löschen                  verb   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Mailbox                  noun   cefr=A2 topic=media role=prod conf=60 src=ai
 Nachricht                noun   cefr=A1 topic=media role=prod conf=80 src=ai
 online                   adj    cefr=A2 topic=media|computing.internet role=prod conf=75 src=ai
 Passwort                 noun   cefr=A2 topic=media|computing.safety role=prod conf=75 src=ai
@@ -43,6 +46,7 @@ Telefonat                noun   cefr=A2 topic=media role=prod conf=55 src=ai
 telefonieren             verb   cefr=A1 topic=media role=prod conf=90 src=ai
 Verbindung               noun   cefr=A2 topic=media role=prod conf=65 src=ai
 Video                    noun   cefr=A2 topic=media role=prod conf=70 src=ai
+Vorwahl                  noun   cefr=A2 topic=media role=prod conf=55 src=ai
 Webseite                 noun   cefr=A2 topic=media|computing.internet role=prod conf=65 src=ai
 Werbung                  noun   cefr=A2 topic=media role=prod conf=70 src=ai
 WLAN                     noun   cefr=A2 topic=media|computing.internet role=prod conf=75 src=ai

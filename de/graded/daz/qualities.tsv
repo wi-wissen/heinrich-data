@@ -24,11 +24,12 @@ ernst                    adj    cefr=A2 topic=qualities.character role=prod conf
 faul                     adj    cefr=A2 topic=qualities.character role=prod conf=65 src=ai
 fleißig                  adj    cefr=A2 topic=qualities.character role=prod conf=70 src=ai
 freundlich               adj    cefr=A1 topic=qualities.character role=prod conf=80 src=ai
+Geduld                   noun   cefr=A2 topic=qualities.character role=prod conf=60 src=ai|rev
 geduldig                 adj    cefr=A2 topic=qualities.character role=prod conf=60 src=ai
-hilfsbereit              adj    cefr=A2 topic=qualities.character role=prod conf=65 src=ai
 höflich                  adj    cefr=A2 topic=qualities.character role=prod conf=70 src=ai
 intelligent              adj    cefr=A2 topic=qualities.character role=prod conf=65 src=ai
 klug                     adj    cefr=A2 topic=qualities.character role=prod conf=70 src=ai
+mutig                    adj    cefr=A2 topic=qualities.character role=prod conf=65 src=ai|rev
 nervös                   adj    cefr=A2 topic=qualities.character|feelings role=prod conf=70 src=ai
 nett                     adj    cefr=A1 topic=qualities.character role=prod conf=88 src=ai
 neugierig                adj    cefr=A2 topic=qualities.character role=prod conf=60 src=ai
@@ -43,18 +44,20 @@ unfreundlich             adj    cefr=A2 topic=qualities.character role=prod conf
 ungeduldig               adj    cefr=A2 topic=qualities.character role=prod conf=55 src=ai
 unhöflich                adj    cefr=A2 topic=qualities.character role=prod conf=55 src=ai
 unsympathisch            adj    cefr=A2 topic=qualities.character role=prod conf=55 src=ai
-zuverlässig              adj    cefr=A2 topic=qualities.character|workplace role=prod conf=60 src=ai
+vorsichtig               adj    cefr=A2 topic=qualities.character role=prod conf=70 src=ai|rev
 
 # grade None · qualities.colour
 beige                    adj    cefr=A2 topic=qualities.colour role=prod conf=55 src=ai
 blau                     adj    cefr=A1 topic=qualities.colour role=prod conf=97 src=ai
 braun                    adj    cefr=A1 topic=qualities.colour role=prod conf=90 src=ai
 bunt                     adj    cefr=A2 topic=qualities.colour role=prod conf=88 src=ai
+dunkelblau               adj    cefr=A2 topic=qualities.colour role=prod conf=70 src=ai
 Farbe                    noun   cefr=A1 topic=qualities.colour role=prod conf=92 src=ai
 gelb                     adj    cefr=A1 topic=qualities.colour role=prod conf=95 src=ai
 golden                   adj    cefr=A2 topic=qualities.colour role=prod conf=55 src=ai
 grau                     adj    cefr=A1 topic=qualities.colour role=prod conf=90 src=ai
 grün                     adj    cefr=A1 topic=qualities.colour role=prod conf=97 src=ai
+hellblau                 adj    cefr=A2 topic=qualities.colour role=prod conf=70 src=ai
 lila                     adj    cefr=A1 topic=qualities.colour role=prod conf=70 src=ai
 orange                   adj    cefr=A1 topic=qualities.colour role=prod conf=80 src=ai
 rosa                     adj    cefr=A1 topic=qualities.colour role=prod conf=75 src=ai
@@ -71,6 +74,7 @@ beliebt                  adj    cefr=A2 topic=qualities.judgement role=prod conf
 bereit                   adj    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
 berühmt                  adj    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
 defekt                   adj    cefr=A2 topic=qualities.judgement|consumer role=prod conf=60 src=ai
+dringend                 adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai|rev
 echt                     adj    cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
 egal                     adj    cefr=A2 topic=qualities.judgement role=prod conf=80 src=ai
 einfach                  adj    cefr=A1 topic=qualities.judgement role=prod conf=80 src=ai
@@ -96,13 +100,14 @@ leicht                   adj    cefr=A1 topic=qualities.judgement role=prod conf
 modern                   adj    cefr=A2 topic=qualities.judgement role=prod conf=80 src=ai
 möglich                  adj    cefr=A2 topic=qualities.judgement role=prod conf=80 src=ai
 normal                   adj    cefr=A2 topic=qualities.judgement role=prod conf=80 src=ai
-notwendig                adj    cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
 nötig                    adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
+nützlich                 adj    cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai|rev
 ordentlich               adj    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
 perfekt                  adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
 praktisch                adj    cefr=A2 topic=qualities.judgement role=prod conf=75 src=ai
 preiswert                adj    cefr=A2 topic=qualities.judgement|shopping role=prod conf=75 src=ai
 prima                    adj    cefr=A1 topic=qualities.judgement role=prod conf=65 src=ai|rev
+privat                   adj    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai|rev
 recht                    adj    cefr=A2 topic=qualities.judgement role=prod conf=55 src=ai
 richtig                  adj    cefr=A1 topic=qualities.judgement role=prod conf=92 src=ai
 schade                   adj    cefr=A2 topic=qualities.judgement role=prod conf=80 src=ai
@@ -120,12 +125,12 @@ toll                     adj    cefr=A1 topic=qualities.judgement role=prod conf
 typisch                  adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
 umsonst                  adv    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
 unmöglich                adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
-unterschiedlich          adj    cefr=A2 topic=qualities.judgement role=prod conf=55 src=ai
 verschieden              adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
 wahrscheinlich           adj    cefr=A2 topic=qualities.judgement|function.adverb role=prod conf=75 src=ai
 wichtig                  adj    cefr=A1 topic=qualities.judgement role=prod conf=65 src=ai
 witzig                   adj    cefr=A2 topic=qualities.judgement role=prod conf=60 src=ai
 wunderbar                adj    cefr=A2 topic=qualities.judgement role=prod conf=75 src=ai
+wunderschön              adj    cefr=A2 topic=qualities.judgement role=prod conf=70 src=ai
 ähnlich                  adj    cefr=A2 topic=qualities.judgement role=prod conf=65 src=ai
 
 # grade None · qualities.senses
@@ -134,6 +139,7 @@ bequem                   adj    cefr=A2 topic=qualities.senses|clothing role=pro
 bitter                   adj    cefr=A2 topic=qualities.senses|food role=prod conf=55 src=ai
 dreckig                  adj    cefr=A2 topic=qualities.senses role=prod conf=55 src=ai
 dunkel                   adj    cefr=A1 topic=qualities.senses role=prod conf=80 src=ai
+glatt                    adj    cefr=A2 topic=qualities.senses role=prod conf=60 src=ai|rev
 hart                     adj    cefr=A2 topic=qualities.senses role=prod conf=70 src=ai
 hell                     adj    cefr=A1 topic=qualities.senses role=prod conf=80 src=ai
 kühl                     adj    cefr=A2 topic=qualities.senses|weather role=prod conf=70 src=ai
@@ -141,11 +147,13 @@ laut                     adj    cefr=A1 topic=qualities.senses role=prod conf=80
 leise                    adj    cefr=A1 topic=qualities.senses role=prod conf=70 src=ai
 nass                     adj    cefr=A2 topic=qualities.senses|weather role=prod conf=75 src=ai
 ruhig                    adj    cefr=A1 topic=qualities.senses role=prod conf=75 src=ai
+rutschig                 adj    cefr=A2 topic=qualities.senses role=prod conf=55 src=ai|rev
 salzig                   adj    cefr=A2 topic=qualities.senses|food role=prod conf=65 src=ai
 sauer                    adj    cefr=A2 topic=qualities.senses|food|feelings role=prod conf=75 src=ai
 schmutzig                adj    cefr=A2 topic=qualities.senses role=prod conf=80 src=ai
 still                    adj    cefr=A2 topic=qualities.senses role=prod conf=65 src=ai
 trocken                  adj    cefr=A2 topic=qualities.senses|weather role=prod conf=75 src=ai
+unbequem                 adj    cefr=A2 topic=qualities.senses|clothing role=prod conf=60 src=ai
 weich                    adj    cefr=A2 topic=qualities.senses role=prod conf=70 src=ai
 
 # grade None · qualities.size

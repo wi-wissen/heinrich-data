@@ -12,7 +12,9 @@ Bücherei                 noun   cefr=A2 topic=town role=prod conf=55 src=ai
 Dorf                     noun   cefr=A1 topic=town role=prod conf=80 src=ai
 Ecke                     noun   cefr=A1 topic=town|space role=prod conf=70 src=ai|rev
 Eingang                  noun   cefr=A1 topic=town|shopping role=rec conf=80 src=ai
+Fitnessstudio            noun   cefr=A2 topic=town|sports.fitness role=prod conf=70 src=ai
 Friedhof                 noun   cefr=A2 topic=town role=prod conf=55 src=ai
+Fußgängerzone            noun   cefr=A2 topic=town role=prod conf=70 src=ai|rev
 Gebäude                  noun   cefr=A2 topic=town role=prod conf=70 src=ai
 Gegend                   noun   cefr=A2 topic=town role=prod conf=65 src=ai
 Großstadt                noun   cefr=A2 topic=town role=prod conf=65 src=ai

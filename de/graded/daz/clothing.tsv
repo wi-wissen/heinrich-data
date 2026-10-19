@@ -15,6 +15,8 @@ gefallen                 verb   cefr=A1 topic=clothing|qualities.judgement role=
 Größe                    noun   cefr=A1 topic=clothing|shopping role=prod conf=80 src=ai
 Gürtel                   noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
 Handschuh                noun   cefr=A2 topic=clothing role=prod conf=75 src=ai
+Handtasche               noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Hausschuh                noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
 Hemd                     noun   cefr=A1 topic=clothing role=prod conf=90 src=ai
 Hose                     noun   cefr=A1 topic=clothing role=prod conf=95 src=ai
 Hut:hat                  noun   cefr=A2 topic=clothing role=prod conf=70 src=ai
@@ -25,14 +27,19 @@ kariert                  adj    cefr=A2 topic=clothing role=prod conf=55 src=ai
 Kette                    noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
 Kleid                    noun   cefr=A1 topic=clothing role=prod conf=88 src=ai
 Kleidung                 noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
+Knopf                    noun   cefr=A2 topic=clothing role=prod conf=60 src=ai|rev
 Krawatte                 noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
 Leder                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
 Mantel                   noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
 Mode                     noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
 Muster                   noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
 Mütze                    noun   cefr=A1 topic=clothing role=prod conf=75 src=ai
+nähen                    verb   cefr=A2 topic=clothing role=prod conf=55 src=ai|rev
+Ohrring                  noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
 passen                   verb   cefr=A1 topic=clothing|shopping role=prod conf=80 src=ai
 Pullover                 noun   cefr=A1 topic=clothing role=prod conf=90 src=ai
+Regenjacke               noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Reißverschluss           noun   cefr=A2 topic=clothing role=prod conf=55 src=ai|rev
 Ring                     noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
 Rock:skirt               noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
 Sandale                  noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
@@ -51,5 +58,6 @@ Tasche                   noun   cefr=A1 topic=clothing|shopping role=prod conf=8
 tragen                   verb   cefr=A1 topic=clothing role=prod conf=75 src=ai
 Turnschuh                noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
 Unterhose                noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
-Weste                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Unterwäsche              noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
 Wolle                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Ärmel                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai|rev

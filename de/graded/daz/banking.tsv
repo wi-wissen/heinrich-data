@@ -4,16 +4,23 @@
 
 # grade None · banking
 abheben                  verb   cefr=A2 topic=banking role=prod conf=80 src=ai
+Bankkarte                noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+Bankkonto                noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+Dauerauftrag             noun   cefr=A2 topic=banking role=rec conf=55 src=ai
+EC-Karte                 noun   cefr=A2 topic=banking|shopping role=prod conf=70 src=ai
 einzahlen                verb   cefr=A2 topic=banking role=prod conf=65 src=ai
 Filiale                  noun   cefr=A2 topic=banking role=prod conf=55 src=ai
+Geheimzahl               noun   cefr=A2 topic=banking role=prod conf=55 src=ai
 Geldautomat              noun   cefr=A2 topic=banking role=prod conf=85 src=ai
+Girokonto                noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+Haftpflichtversicherung  noun   cefr=A2 topic=banking role=rec conf=55 src=ai
 IBAN                     noun   cefr=A2 topic=banking role=prod conf=70 src=ai
 Konto                    noun   cefr=A2 topic=banking role=prod conf=92 src=ai
+Kontoauszug              noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+Kontonummer              noun   cefr=A2 topic=banking role=prod conf=70 src=ai
 Krankenversicherung      noun   cefr=A2 topic=banking|doctor role=prod conf=70 src=ai
-Kredit                   noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+PIN                      noun   cefr=A2 topic=banking role=prod conf=65 src=ai
 Schalter                 noun   cefr=A2 topic=banking|authorities role=prod conf=65 src=ai
-Schulden                 noun   cefr=A2 topic=banking role=prod conf=55 src=ai
-versichern               verb   cefr=A2 topic=banking role=prod conf=55 src=ai
+Sparkasse                noun   cefr=A2 topic=banking role=prod conf=60 src=ai
 Versicherung             noun   cefr=A2 topic=banking role=prod conf=85 src=ai
-Zinsen                   noun   cefr=A2 topic=banking role=rec conf=55 src=ai
 überweisen               verb   cefr=A2 topic=banking role=prod conf=80 src=ai

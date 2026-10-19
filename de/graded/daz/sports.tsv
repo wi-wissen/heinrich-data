@@ -8,3 +8,4 @@ Sport                    noun   cefr=A1 topic=sports role=prod conf=95 src=ai
 
 # grade None · sports.games
 Fußball                  noun   cefr=A1 topic=sports.games role=prod conf=92 src=ai
+Tor:goal                 noun   cefr=A2 topic=sports.games|play role=prod conf=60 src=ai

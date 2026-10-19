@@ -14,6 +14,7 @@ Grundschule              noun   cefr=A2 topic=childcare|school role=prod conf=85
 Gymnasium                noun   cefr=A2 topic=childcare|school role=prod conf=70 src=ai
 Hauptschule              noun   cefr=A2 topic=childcare|school role=prod conf=55 src=ai
 Kindergarten             noun   cefr=A1 topic=childcare role=prod conf=80 src=ai
+Kinderwagen              noun   cefr=A2 topic=childcare role=prod conf=60 src=ai
 Kita                     noun   cefr=A2 topic=childcare role=prod conf=88 src=ai
 Klassenfahrt             noun   cefr=A2 topic=childcare|school role=prod conf=65 src=ai
 Klassenlehrer            noun   cefr=A2 topic=childcare|school role=prod conf=70 src=ai
@@ -22,6 +23,7 @@ Krippe                   noun   cefr=A2 topic=childcare role=prod conf=65 src=ai
 Mathe                    noun   cefr=A2 topic=childcare|school role=prod conf=70 src=ai
 Note                     noun   cefr=A2 topic=childcare|school role=prod conf=75 src=ai
 Realschule               noun   cefr=A2 topic=childcare|school role=prod conf=60 src=ai
+Rucksack                 noun   cefr=A2 topic=childcare|travel role=prod conf=70 src=ai
 Schuljahr                noun   cefr=A2 topic=childcare|school role=prod conf=60 src=ai
 Schulleiter              noun   cefr=A2 topic=childcare|school role=prod conf=55 src=ai
 Sekretariat              noun   cefr=A2 topic=childcare|school role=prod conf=55 src=ai
@@ -29,4 +31,6 @@ Sommerferien             noun   cefr=A2 topic=childcare|school|travel role=prod 
 Spielplatz               noun   cefr=A1 topic=childcare role=prod conf=70 src=ai|rev
 Spielzeug                noun   cefr=A2 topic=childcare|play role=prod conf=70 src=ai
 Stundenplan              noun   cefr=A2 topic=childcare|school role=prod conf=75 src=ai
+Tagesmutter              noun   cefr=A2 topic=childcare role=prod conf=60 src=ai
 Turnhalle                noun   cefr=A2 topic=childcare|sports role=prod conf=55 src=ai
+Windel                   noun   cefr=A2 topic=childcare role=prod conf=60 src=ai

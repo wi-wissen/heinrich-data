@@ -10,7 +10,6 @@ Bein                     noun   cefr=A1 topic=body role=prod conf=95 src=ai
 Blut                     noun   cefr=A2 topic=body|health role=prod conf=70 src=ai
 Brust                    noun   cefr=A2 topic=body role=prod conf=70 src=ai
 Daumen                   noun   cefr=A2 topic=body role=prod conf=60 src=ai
-Ellenbogen               noun   cefr=A2 topic=body role=prod conf=55 src=ai
 Finger                   noun   cefr=A1 topic=body role=prod conf=85 src=ai
 Fuß                      noun   cefr=A1 topic=body role=prod conf=95 src=ai
 Gesicht                  noun   cefr=A1 topic=body role=prod conf=80 src=ai
@@ -19,7 +18,6 @@ Hals                     noun   cefr=A1 topic=body role=prod conf=90 src=ai
 Hand                     noun   cefr=A1 topic=body role=prod conf=97 src=ai
 Haut                     noun   cefr=A2 topic=body role=prod conf=70 src=ai
 Herz                     noun   cefr=A1 topic=body role=prod conf=75 src=ai|rev
-Hüfte                    noun   cefr=A2 topic=body role=prod conf=55 src=ai
 Knie                     noun   cefr=A1 topic=body role=prod conf=80 src=ai
 Knochen                  noun   cefr=A2 topic=body role=prod conf=65 src=ai
 Kopf                     noun   cefr=A1 topic=body role=prod conf=97 src=ai
@@ -34,8 +32,8 @@ Nase                     noun   cefr=A1 topic=body role=prod conf=92 src=ai
 Ohr                      noun   cefr=A1 topic=body role=prod conf=92 src=ai
 Rücken                   noun   cefr=A1 topic=body role=prod conf=90 src=ai
 Schulter                 noun   cefr=A1 topic=body role=prod conf=70 src=ai|rev
+Stimme                   noun   cefr=A2 topic=body role=prod conf=65 src=ai|rev
 Stirn                    noun   cefr=A2 topic=body role=prod conf=55 src=ai
-Wange                    noun   cefr=A2 topic=body role=prod conf=55 src=ai
 Zahn                     noun   cefr=A1 topic=body role=prod conf=92 src=ai
 Zeh                      noun   cefr=A2 topic=body role=prod conf=60 src=ai
 Zunge                    noun   cefr=A2 topic=body role=prod conf=60 src=ai

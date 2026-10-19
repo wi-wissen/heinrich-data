@@ -15,7 +15,7 @@ Ehepaar                  noun   cefr=A2 topic=family role=prod conf=60 src=ai
 Eltern                   noun   cefr=A1 topic=family role=prod conf=97 src=ai
 Enkel                    noun   cefr=A2 topic=family role=prod conf=70 src=ai
 Enkelin                  noun   cefr=A2 topic=family role=prod conf=65 src=ai
-erziehen                 verb   cefr=A2 topic=family|childcare role=prod conf=55 src=ai
+Enkelkind                noun   cefr=A2 topic=family role=prod conf=60 src=ai
 Familie                  noun   cefr=A1 topic=family role=prod conf=99 src=ai
 Geburt                   noun   cefr=A2 topic=family|self role=prod conf=65 src=ai
 Geschwister              noun   cefr=A1 topic=family role=prod conf=85 src=ai
@@ -38,11 +38,11 @@ Partner                  noun   cefr=A1 topic=family|people role=prod conf=70 sr
 Partnerin                noun   cefr=A1 topic=family|people role=prod conf=70 src=ai
 Schwager                 noun   cefr=A2 topic=family role=prod conf=55 src=ai
 Schwester                noun   cefr=A1 topic=family role=prod conf=98 src=ai
+Schwiegermutter          noun   cefr=A2 topic=family role=prod conf=60 src=ai
+Schwiegervater           noun   cefr=A2 topic=family role=prod conf=55 src=ai
 Schwägerin               noun   cefr=A2 topic=family role=prod conf=55 src=ai
 Sohn                     noun   cefr=A1 topic=family role=prod conf=97 src=ai
 Tante                    noun   cefr=A1 topic=family role=prod conf=80 src=ai
 Tochter                  noun   cefr=A1 topic=family role=prod conf=97 src=ai
 Vater                    noun   cefr=A1 topic=family role=prod conf=98 src=ai
 Verwandte                noun   cefr=A2 topic=family role=prod conf=75 src=ai
-Witwe                    noun   cefr=A2 topic=family role=prod conf=55 src=ai
-Zwilling                 noun   cefr=A2 topic=family role=prod conf=55 src=ai

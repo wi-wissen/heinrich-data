@@ -18,6 +18,7 @@ rechts                   adv    cefr=A1 topic=space role=prod conf=92 src=ai
 sitzen                   verb   cefr=A1 topic=space role=prod conf=80 src=ai
 stehen                   verb   cefr=A1 topic=space role=prod conf=80 src=ai
 unten                    adv    cefr=A1 topic=space role=prod conf=80 src=ai
+verlaufen                verb   cefr=A2 topic=space role=prod conf=65 src=ai|rev
 vorne                    adv    cefr=A1 topic=space role=prod conf=70 src=ai
 weit                     adj    cefr=A1 topic=space role=prod conf=80 src=ai
 zurück                   adv    cefr=A1 topic=space role=prod conf=70 src=ai

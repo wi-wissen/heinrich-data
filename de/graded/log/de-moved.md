@@ -15,3 +15,9 @@ band stays (merge rule: earliest band).
 ## Ordinals
 
 German ordinals are `adj` lexemes in our lexicon; the orchestrator corrected 23 lines written as `num` (L1 and DaZ).
+
+## DaZ (`de-daz-moved`)
+
+The A2 author judged `Zuhause`/`zuhause` to be A1 (checker remark `too_late`); the orchestrator copied the lines with
+`cefr=A1` and `src=…|rev`. Ordinals written as `num` (the closed-class file lists them so; the built lexicon has them
+as `adj` lexemes) were corrected to `adj`.

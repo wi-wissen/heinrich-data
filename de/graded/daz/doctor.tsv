@@ -5,11 +5,19 @@
 # grade None · doctor
 Apotheke                 noun   cefr=A1 topic=doctor|town role=prod conf=90 src=ai
 Arzt                     noun   cefr=A1 topic=doctor|health role=prod conf=98 src=ai
+Asthma                   noun   cefr=A2 topic=doctor role=prod conf=55 src=ai|rev
+Augenarzt                noun   cefr=A2 topic=doctor role=prod conf=55 src=ai
 behandeln                verb   cefr=A2 topic=doctor role=prod conf=60 src=ai
-Behandlung               noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+Blutdruck                noun   cefr=A2 topic=doctor role=prod conf=55 src=ai
 einnehmen                verb   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Frauenarzt               noun   cefr=A2 topic=doctor role=prod conf=55 src=ai
+Gesundheitskarte         noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Gips                     noun   cefr=A2 topic=doctor role=prod conf=55 src=ai|rev
+Hausarzt                 noun   cefr=A2 topic=doctor role=prod conf=85 src=ai
 impfen                   verb   cefr=A2 topic=doctor role=prod conf=60 src=ai
 Impfung                  noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Kinderarzt               noun   cefr=A2 topic=doctor|childcare role=prod conf=75 src=ai
+Kopfweh                  noun   cefr=A2 topic=doctor role=prod conf=60 src=ai|rev
 Krankenhaus              noun   cefr=A1 topic=doctor|town role=prod conf=92 src=ai
 Krankenkasse             noun   cefr=A2 topic=doctor|banking role=prod conf=88 src=ai
 Krankmeldung             noun   cefr=A2 topic=doctor|workplace role=rec conf=65 src=ai
@@ -17,12 +25,14 @@ Krankschreibung          noun   cefr=A2 topic=doctor|workplace role=rec conf=60 
 Medikament               noun   cefr=A1 topic=doctor role=prod conf=85 src=ai
 Medizin                  noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
 Operation                noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+operieren                verb   cefr=A2 topic=doctor role=prod conf=60 src=ai|rev
 Patient                  noun   cefr=A2 topic=doctor role=prod conf=75 src=ai
 Patientin                noun   cefr=A2 topic=doctor role=prod conf=70 src=ai
 Pflaster                 noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
 Praxis                   noun   cefr=A1 topic=doctor role=prod conf=80 src=ai
 Rezept                   noun   cefr=A1 topic=doctor role=rec conf=75 src=ai|rev
 Salbe                    noun   cefr=A2 topic=doctor role=prod conf=55 src=ai
+Schwindel                noun   cefr=A2 topic=doctor role=prod conf=55 src=ai|rev
 Sprechstunde             noun   cefr=A2 topic=doctor role=prod conf=75 src=ai
 Spritze                  noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
 Tablette                 noun   cefr=A1 topic=doctor role=prod conf=85 src=ai
@@ -30,6 +40,7 @@ Termin                   noun   cefr=A1 topic=doctor|time role=prod conf=95 src=
 Tropfen                  noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
 untersuchen              verb   cefr=A2 topic=doctor role=prod conf=75 src=ai
 Untersuchung             noun   cefr=A2 topic=doctor role=prod conf=70 src=ai
+Verband:bandage          noun   cefr=A2 topic=doctor role=prod conf=55 src=ai|rev
 verschreiben             verb   cefr=A2 topic=doctor role=rec conf=60 src=ai
 Ärztin                   noun   cefr=A1 topic=doctor|health role=prod conf=95 src=ai
 Überweisung              noun   cefr=A2 topic=doctor|banking role=prod conf=80 src=ai

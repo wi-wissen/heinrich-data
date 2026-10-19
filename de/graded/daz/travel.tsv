@@ -4,10 +4,13 @@
 
 # grade None · travel
 Abreise                  noun   cefr=A2 topic=travel role=rec conf=55 src=ai
+Anreise                  noun   cefr=A2 topic=travel role=rec conf=55 src=ai
 Berg                     noun   cefr=A2 topic=travel|nature role=prod conf=80 src=ai
 buchen                   verb   cefr=A2 topic=travel role=prod conf=80 src=ai
 Buchung                  noun   cefr=A2 topic=travel role=prod conf=55 src=ai
 Campingplatz             noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Doppelzimmer             noun   cefr=A2 topic=travel role=prod conf=70 src=ai
+Einzelzimmer             noun   cefr=A2 topic=travel role=prod conf=70 src=ai
 erholen                  verb   cefr=A2 topic=travel|health role=prod conf=70 src=ai
 Fluss                    noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
 Gast                     noun   cefr=A2 topic=travel|celebrations role=prod conf=75 src=ai
@@ -23,6 +26,7 @@ Natur                    noun   cefr=A2 topic=travel|nature role=prod conf=75 sr
 Pension                  noun   cefr=A2 topic=travel role=prod conf=55 src=ai
 Postkarte                noun   cefr=A2 topic=travel role=prod conf=60 src=ai
 Reise                    noun   cefr=A1 topic=travel role=prod conf=75 src=ai
+Reisebüro                noun   cefr=A2 topic=travel role=prod conf=65 src=ai
 reisen                   verb   cefr=A1 topic=travel role=prod conf=80 src=ai
 reservieren              verb   cefr=A2 topic=travel|food role=prod conf=80 src=ai
 Reservierung             noun   cefr=A2 topic=travel role=prod conf=65 src=ai

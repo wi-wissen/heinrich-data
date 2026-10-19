@@ -6,6 +6,7 @@
 Basketball               noun   cefr=A2 topic=play|sports.games role=prod conf=55 src=ai
 Disco                    noun   cefr=A2 topic=play role=prod conf=55 src=ai
 Eintritt                 noun   cefr=A2 topic=play role=prod conf=70 src=ai
+Eintrittskarte           noun   cefr=A2 topic=play role=prod conf=65 src=ai
 fernsehen                verb   cefr=A1 topic=play|media role=prod conf=85 src=ai
 Film                     noun   cefr=A1 topic=play|media role=prod conf=88 src=ai
 Foto                     noun   cefr=A1 topic=play|media role=prod conf=85 src=ai

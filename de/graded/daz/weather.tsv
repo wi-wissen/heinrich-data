@@ -13,12 +13,12 @@ heiß                     adj    cefr=A1 topic=weather|qualities.senses role=pro
 Himmel                   noun   cefr=A2 topic=weather|nature role=prod conf=70 src=ai
 Hitze                    noun   cefr=A2 topic=weather role=prod conf=70 src=ai
 kalt                     adj    cefr=A1 topic=weather|qualities.senses role=prod conf=95 src=ai
-Klima                    noun   cefr=A2 topic=weather role=prod conf=60 src=ai
 Kälte                    noun   cefr=A2 topic=weather role=prod conf=65 src=ai
 mild                     adj    cefr=A2 topic=weather role=prod conf=55 src=ai
 Nebel                    noun   cefr=A2 topic=weather role=prod conf=65 src=ai
 neblig                   adj    cefr=A2 topic=weather role=prod conf=60 src=ai
 Regen                    noun   cefr=A1 topic=weather role=prod conf=90 src=ai
+Regenschirm              noun   cefr=A2 topic=weather role=prod conf=75 src=ai
 regnen                   verb   cefr=A1 topic=weather role=prod conf=85 src=ai
 regnerisch               adj    cefr=A2 topic=weather role=prod conf=55 src=ai
 scheinen                 verb   cefr=A1 topic=weather role=prod conf=75 src=ai|rev

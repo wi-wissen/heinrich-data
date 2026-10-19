@@ -4,12 +4,20 @@
 
 # grade None · emergency
 Achtung                  noun   cefr=A2 topic=emergency role=prod conf=70 src=ai
+Alarm                    noun   cefr=A2 topic=emergency role=prod conf=55 src=ai|rev
+anzeigen                 verb   cefr=A2 topic=emergency role=prod conf=55 src=ai|rev
 Dieb                     noun   cefr=A2 topic=emergency role=prod conf=65 src=ai
 Diebstahl                noun   cefr=A2 topic=emergency role=rec conf=55 src=ai
+Einbruch                 noun   cefr=A2 topic=emergency role=prod conf=55 src=ai|rev
 Feuer                    noun   cefr=A1 topic=emergency role=rec conf=70 src=ai|rev
 Feuerwehr                noun   cefr=A1 topic=emergency role=rec conf=75 src=ai
 Gefahr                   noun   cefr=A2 topic=emergency role=prod conf=65 src=ai
 Hilfe                    noun   cefr=A1 topic=emergency role=prod conf=90 src=ai
+Krankenwagen             noun   cefr=A2 topic=emergency|doctor role=prod conf=85 src=ai
+Notarzt                  noun   cefr=A2 topic=emergency|doctor role=prod conf=60 src=ai
+Notaufnahme              noun   cefr=A2 topic=emergency|doctor role=rec conf=60 src=ai
+Notfall                  noun   cefr=A2 topic=emergency role=prod conf=85 src=ai
+Notruf                   noun   cefr=A2 topic=emergency role=prod conf=75 src=ai
 Polizei                  noun   cefr=A1 topic=emergency|town role=prod conf=90 src=ai
 retten                   verb   cefr=A2 topic=emergency role=prod conf=55 src=ai
 Rettungswagen            noun   cefr=A2 topic=emergency role=prod conf=55 src=ai
