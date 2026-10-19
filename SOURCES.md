@@ -69,10 +69,12 @@ German grammar; they contain only lemmas of our lexicon.
 
 ## Name lists (`de/names/`)
 
-`given_names.tsv` (about 2,600 given names with gender m/f/u) and `surnames.tsv` (about 2,500
-common surnames in Germany, Austria and Switzerland) are our own data, written clean-room from
-general knowledge of names in German-speaking schools and families. No third-party name list,
-register statistic, directory or web source was consulted. Format and use: `de/names/README.md`.
+`given_names.tsv` (about 2,600 given names with gender m/f/u), `surnames.tsv` (about 2,500
+common surnames in Germany, Austria and Switzerland) and `places.tsv` (about 2,200 place names in
+their German form: countries, states and cantons, cities, rivers, mountains, regions, islands,
+waters) are our own data, written clean-room from general knowledge of names in German-speaking
+schools and families and of school geography. No third-party name list, gazetteer, register
+statistic, directory or web source was consulted. Format and use: `de/names/README.md`.
 
 ## English lexicon (`en/lexicon/`)
 
