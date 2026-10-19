@@ -6,16 +6,20 @@ Lächeln noun g=n gen=Lächelns pl=- note=nominalised infinitive with own sense;
 Lachen noun g=n gen=Lachens pl=- note=no plural (mass or abstract noun)
 Lachs noun g=m gen=Lachses pl=Lachse
 Lack noun g=m gen=Lacks|Lackes pl=Lacke
+Ladegerät noun g=n gen=Ladegeräts|Ladegerätes pl=Ladegeräte note=graded
+Ladekabel noun g=n gen=Ladekabels pl=Ladekabel note=graded
 Laden noun g=m gen=Ladens pl=Läden
 Ladung noun g=f gen=Ladung pl=Ladungen
 Lady noun g=f gen=Lady pl=Ladys|Ladies
 Lage noun g=f gen=Lage pl=Lagen
+Lageplan noun g=m gen=Lageplans|Lageplanes pl=Lagepläne note=graded
 Lager noun g=n gen=Lagers pl=Lager|Läger[rare]
 Lagerist noun g=m gen=Lageristen pl=Lageristen
 Lageristin noun g=f gen=Lageristin pl=Lageristinnen
 Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Lagune noun g=f gen=Lagune pl=Lagunen
 Lähmung noun g=f gen=Lähmung pl=Lähmungen
+Laich noun g=m gen=Laichs|Laiches pl=Laiche conf=80 note=graded; mostly mass noun, plural rare
 Laie noun g=m gen=Laien pl=Laien
 Lakai noun g=m gen=Lakaien pl=Lakaien
 Laken noun g=n gen=Lakens pl=Laken
@@ -27,20 +31,24 @@ Lametta noun g=n gen=Lamettas pl=- note=no plural (mass or abstract noun)
 Laminat noun g=n gen=Laminats|Laminates pl=Laminate
 Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
 Lämmchen noun g=n gen=Lämmchens pl=Lämmchen
+Lämpchen noun g=n gen=Lämpchens pl=Lämpchen note=graded
 Lampe noun g=f gen=Lampe pl=Lampen
 LAN noun g=n gen=LAN|LANs pl=LANs
 Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
 Ländereien noun g=pl note=landholdings
+Landeshauptstadt noun g=f gen=Landeshauptstadt pl=Landeshauptstädte note=graded
 Landkarte noun g=f gen=Landkarte pl=Landkarten
 Landkreis noun g=m gen=Landkreises pl=Landkreise
 Landrat noun g=m gen=Landrats|Landrates pl=Landräte
 Landschaft noun g=f gen=Landschaft pl=Landschaften
+Landschaftsbild noun g=n gen=Landschaftsbildes|Landschaftsbilds pl=Landschaftsbilder note=graded
 Landstreicher noun g=m gen=Landstreichers pl=Landstreicher
 Landtag noun g=m gen=Landtags|Landtages pl=Landtage
 Landung noun g=f gen=Landung pl=Landungen
 Landwirt noun g=m gen=Landwirts pl=Landwirte
 Landwirtin noun g=f gen=Landwirtin pl=Landwirtinnen
 Landwirtschaft noun g=f gen=Landwirtschaft pl=Landwirtschaften
+Langbank noun g=f gen=Langbank pl=Langbänke note=graded
 Länge noun g=f gen=Länge pl=Längen
 Langeweile noun g=f gen=Langeweile pl=- note=abstract noun
 Langlauf noun g=m gen=Langlaufs|Langlaufes pl=Langläufe
@@ -62,12 +70,14 @@ Laser noun g=m gen=Lasers pl=Laser
 Last noun g=f gen=Last pl=Lasten
 Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
+Lastwagen noun g=m gen=Lastwagens pl=Lastwagen|Lastwägen[AT] note=graded
 Latein noun g=n gen=Lateins pl=- note=the language
 Laterne noun g=f gen=Laterne pl=Laternen
 Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
 Latz noun g=m gen=Latzes pl=Lätze
 Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
+Laubbaum noun g=m gen=Laubbaumes|Laubbaums pl=Laubbäume note=graded
 Laubfrosch noun g=m gen=Laubfrosches pl=Laubfrösche
 Lauch noun g=m gen=Lauchs pl=- note=no plural
 Laudatio noun g=f gen=Laudatio pl=Laudationes|Laudatios conf=80 note=plural: Latin Laudationes and German Laudatios both in use
@@ -79,7 +89,9 @@ Laune noun g=f gen=Laune pl=Launen
 Laus noun g=f gen=Laus pl=Läuse
 Lauscher noun g=m gen=Lauschers pl=Lauscher
 Laut noun g=m gen=Lauts|Lautes pl=Laute
+Lautgebärde noun g=f gen=Lautgebärde pl=Lautgebärden note=graded
 Lautsprecher noun g=m gen=Lautsprechers pl=Lautsprecher
+Lautstärke noun g=f gen=Lautstärke pl=Lautstärken note=graded
 Lava noun g=f gen=Lava pl=Laven
 Lavendel noun g=m gen=Lavendels pl=Lavendel
 Lawine noun g=f gen=Lawine pl=Lawinen
@@ -152,6 +164,7 @@ Leistung noun g=f gen=Leistung pl=Leistungen
 Leistungserbringer noun g=m gen=Leistungserbringers pl=Leistungserbringer
 Leiter noun g=f gen=Leiter pl=Leitern sense=ladder
 Leiter noun g=m gen=Leiters pl=Leiter sense=person
+Leiter noun g=m gen=Leiters pl=Leiter sense=conductor note=graded; electrical or heat conductor
 Leiterin noun g=f gen=Leiterin pl=Leiterinnen
 Leitlinie noun g=f gen=Leitlinie pl=Leitlinien
 Leitplanke noun g=f gen=Leitplanke pl=Leitplanken
@@ -166,9 +179,14 @@ Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
 Lerche noun g=f gen=Lerche pl=Lerchen
+Lernwort noun g=n gen=Lernwortes|Lernworts[rare] pl=Lernwörter note=graded
 Lesbe noun g=f gen=Lesbe pl=Lesben
+Lesebuch noun g=n gen=Lesebuches|Lesebuchs pl=Lesebücher note=graded
+Leseprobe noun g=f gen=Leseprobe pl=Leseproben note=graded
 Leser noun g=m gen=Lesers pl=Leser
+Leserbrief noun g=m gen=Leserbriefes|Leserbriefs pl=Leserbriefe note=graded
 Leserin noun g=f gen=Leserin pl=Leserinnen
+Lesetagebuch noun g=n gen=Lesetagebuches|Lesetagebuchs pl=Lesetagebücher note=graded
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
 Letter noun g=f gen=Letter pl=Lettern note=printing type
@@ -191,6 +209,8 @@ Libido noun g=f gen=Libido pl=- note=mass noun
 Librettist noun g=m gen=Librettisten pl=Librettisten
 Libretto noun g=n gen=Librettos pl=Libretti|Librettos
 Licht noun g=n gen=Lichtes|Lichts pl=Lichter|Lichte
+Lichtquelle noun g=f gen=Lichtquelle pl=Lichtquellen note=graded
+Lichtstrahl noun g=m gen=Lichtstrahls|Lichtstrahles pl=Lichtstrahlen note=graded
 Lichtung noun g=f gen=Lichtung pl=Lichtungen
 Lichtverschmutzung noun g=f gen=Lichtverschmutzung pl=- note=no plural
 Lid noun g=n gen=Lids|Lides pl=Lider
@@ -204,6 +224,7 @@ Lieblingsfach noun g=n gen=Lieblingsfachs|Lieblingsfaches pl=Lieblingsfächer
 Lied noun g=n gen=Liedes|Lieds pl=Lieder
 Liedchen noun g=n gen=Liedchens pl=Liedchen
 Liedermacher noun g=m gen=Liedermachers pl=Liedermacher
+Liedtext noun g=m gen=Liedtextes|Liedtexts pl=Liedtexte note=graded
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
@@ -222,6 +243,7 @@ Limonade noun g=f gen=Limonade pl=Limonaden
 Limousine noun g=f gen=Limousine pl=Limousinen
 Linde noun g=f gen=Linde pl=Linden
 Lineal noun g=n gen=Lineals pl=Lineale
+Lineatur noun g=f gen=Lineatur pl=Lineaturen note=graded
 Linguist noun g=m gen=Linguisten pl=Linguisten
 Linguistik noun g=f gen=Linguistik pl=- note=no plural
 Linie noun g=f gen=Linie pl=Linien
@@ -270,6 +292,7 @@ Lohn noun g=m gen=Lohnes|Lohns pl=Löhne
 Loipe noun g=f gen=Loipe pl=Loipen
 Lok noun g=f gen=Lok pl=Loks note=Lokomotive
 Lokal noun g=n gen=Lokals|Lokales pl=Lokale
+Lokführer noun g=m gen=Lokführers pl=Lokführer note=graded
 Lokomotive noun g=f gen=Lokomotive pl=Lokomotiven
 Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the indeclinable adjective
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren
@@ -280,9 +303,11 @@ Losbude noun g=f gen=Losbude pl=Losbuden
 Löschung noun g=f gen=Löschung pl=Löschungen
 Losung noun g=f gen=Losung pl=Losungen
 Lösung noun g=f gen=Lösung pl=Lösungen
+Lösungsweg noun g=m gen=Lösungsweges|Lösungswegs pl=Lösungswege note=graded
 Lotse noun g=m gen=Lotsen pl=Lotsen
 Lotterie noun g=f gen=Lotterie pl=Lotterien
 Löwe noun g=m gen=Löwen pl=Löwen
+Löwenzahn noun g=m gen=Löwenzahns|Löwenzahnes pl=Löwenzähne conf=85 note=graded; plant name, plural rare
 Loyalität noun g=f gen=Loyalität pl=Loyalitäten
 LP noun g=f gen=LP pl=LPs note=Langspielplatte
 LPG noun g=f gen=LPG pl=LPG|LPGs conf=85 note=Landwirtschaftliche Produktionsgenossenschaft (GDR); plural unsure
@@ -292,9 +317,12 @@ Lücke noun g=f gen=Lücke pl=Lücken
 Lückentext noun g=m gen=Lückentexts|Lückentextes pl=Lückentexte
 Luft noun g=f gen=Luft pl=Lüfte
 Luftballon noun g=m gen=Luftballons pl=Luftballons|Luftballone
+Luftbild noun g=n gen=Luftbildes|Luftbilds pl=Luftbilder note=graded
 Luftbrücke noun g=f gen=Luftbrücke pl=Luftbrücken
+Luftdruck noun g=m gen=Luftdrucks|Luftdruckes pl=- note=graded; physical quantity, mass noun
 Luftpumpe noun g=f gen=Luftpumpe pl=Luftpumpen
 Luftverschmutzung noun g=f gen=Luftverschmutzung pl=- note=no plural
+Luftwiderstand noun g=m gen=Luftwiderstandes|Luftwiderstands pl=Luftwiderstände note=graded
 Lüge noun g=f gen=Lüge pl=Lügen
 Lügner noun g=m gen=Lügners pl=Lügner
 Lügnerin noun g=f gen=Lügnerin pl=Lügnerinnen
@@ -303,6 +331,7 @@ Lump noun g=m gen=Lumpen pl=Lumpen note=scoundrel
 Lumpen noun g=m gen=Lumpens pl=Lumpen note=rag
 Lunge noun g=f gen=Lunge pl=Lungen
 Lupe noun g=f gen=Lupe pl=Lupen
+Lurch noun g=m gen=Lurchs|Lurches pl=Lurche note=graded
 Lust noun g=f gen=Lust pl=Lüste
 Lustspiel noun g=n gen=Lustspiels|Lustspieles pl=Lustspiele
 Lutheraner noun g=m gen=Lutheraners pl=Lutheraner

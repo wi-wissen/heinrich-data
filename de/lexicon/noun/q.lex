@@ -2,6 +2,7 @@ Quader noun g=m gen=Quaders pl=Quader
 Quadrat noun g=n gen=Quadrats|Quadrates pl=Quadrate
 Quadratkilometer noun g=m gen=Quadratkilometers pl=Quadratkilometer
 Quadratmeter noun g=m|n gen=Quadratmeters pl=Quadratmeter
+Quadratzahl noun g=f gen=Quadratzahl pl=Quadratzahlen note=graded
 Qual noun g=f gen=Qual pl=Qualen
 Qualifikation noun g=f gen=Qualifikation pl=Qualifikationen
 Qualifizierung noun g=f gen=Qualifizierung pl=Qualifizierungen

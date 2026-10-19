@@ -78,6 +78,7 @@ relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
 reliant adj
+relieved adj cmp=more note=graded
 religious adj cmp=more adv=religiously
 reluctant adj cmp=more adv=reluctantly
 remarkable adj cmp=more adv=remarkably
@@ -95,6 +96,7 @@ rental adj
 repellent adj
 repetitive adj adv=repetitively
 reportable adj
+reported adj note=graded; grammar: reported speech
 reprehensible adj adv=reprehensibly
 representative adj
 repressive adj cmp=more

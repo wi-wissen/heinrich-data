@@ -7,6 +7,7 @@ Jaguar noun g=m gen=Jaguars pl=Jaguare
 Jahr noun g=n gen=Jahres|Jahrs[rare] pl=Jahre
 Jahreszeit noun g=f gen=Jahreszeit pl=Jahreszeiten
 Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
+Jahrmarkt noun g=m gen=Jahrmarktes|Jahrmarkts pl=Jahrmärkte note=graded
 Jahrtausend noun g=n gen=Jahrtausends pl=Jahrtausende
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
 Jalousie noun g=f gen=Jalousie pl=Jalousien
@@ -56,6 +57,7 @@ Jünger noun g=m gen=Jüngers pl=Jünger
 Jungfer noun g=f gen=Jungfer pl=Jungfern
 Jungfrau noun g=f gen=Jungfrau pl=Jungfrauen
 Jüngling noun g=m gen=Jünglings pl=Jünglinge
+Jungtier noun g=n gen=Jungtieres|Jungtiers pl=Jungtiere note=graded
 Juni noun g=m sg=Juni,Juni|Junis,Juni,Juni pl=- note=month name; plural not used
 Junior noun g=m gen=Juniors pl=Junioren
 Junker noun g=m gen=Junkers pl=Junker

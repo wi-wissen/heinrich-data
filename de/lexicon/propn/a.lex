@@ -1,5 +1,6 @@
 Aachen        propn g=n gen=Aachens pl=- demonym=Aachener note=proper name; no plural
 Aargau propn g=m gen=Aargaus pl=- note=Swiss canton (der Aargau)
+Abraham propn g=m gen=Abrahams pl=- note=graded; biblical figure (religion subject term)
 Adelaide propn g=n gen=Adelaides pl=- conf=80 note=city in Australia; gender uncertain
 AfD           propn g=f gen=AfD pl=- note=proper name; no plural
 Afghanistan   propn g=n gen=Afghanistans pl=- note=proper name; no plural

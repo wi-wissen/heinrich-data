@@ -70,6 +70,7 @@ praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
 präventiv adj
 präzise adj cmp=präziser sup=präzisesten
+preiswert adj cmp=preiswerter sup=preiswertesten note=graded
 prekär adj cmp=prekärer sup=prekärsten
 preußisch adj
 prim adj

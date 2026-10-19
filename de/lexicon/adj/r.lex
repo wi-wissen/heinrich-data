@@ -73,6 +73,8 @@ rötlich adj
 royal adj
 rückgängig adj
 rückläufig adj
+rücksichtslos adj cmp=rücksichtsloser sup=rücksichtslosesten note=graded
+rücksichtsvoll adj cmp=rücksichtsvoller sup=rücksichtsvollsten note=graded
 rückwärtig adj
 rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex

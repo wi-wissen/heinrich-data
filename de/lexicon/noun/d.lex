@@ -1,4 +1,5 @@
 Dach          noun g=n gen=Daches|Dachs pl=Dächer
+Dachboden noun g=m gen=Dachbodens pl=Dachböden note=graded
 Dachdecker noun g=m gen=Dachdeckers pl=Dachdecker
 Dachdeckerin noun g=f gen=Dachdeckerin pl=Dachdeckerinnen
 Dachrinne noun g=f gen=Dachrinne pl=Dachrinnen
@@ -12,6 +13,7 @@ Dämmung noun g=f gen=Dämmung pl=Dämmungen
 Dämon noun g=m gen=Dämons pl=Dämonen
 Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
+Dampflok noun g=f gen=Dampflok pl=Dampfloks note=graded
 Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
 Däne noun g=m gen=Dänen pl=Dänen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
@@ -29,6 +31,7 @@ Darts noun g=n gen=Darts pl=- conf=80 note=the game; plural form, used as singul
 Dasein noun g=n gen=Daseins pl=- note=no plural
 Date noun g=n gen=Dates pl=Dates
 Datei         noun g=f gen=Datei pl=Dateien
+Daten noun g=pl note=graded; data, collected values (plurale tantum in this sense); also the plural of Datum
 Datenschutz noun g=m gen=Datenschutzes pl=- note=no plural
 Dativ noun g=m gen=Dativs pl=Dative
 Dattel noun g=f gen=Dattel pl=Datteln
@@ -46,11 +49,13 @@ Debüt noun g=n gen=Debüts pl=Debüts
 Deck noun g=n gen=Decks|Deckes pl=Decks|Decke[rare]
 Decke noun g=f gen=Decke pl=Decken
 Deckel noun g=m gen=Deckels pl=Deckel
+Deckfarbe noun g=f gen=Deckfarbe pl=Deckfarben note=graded
 Deckung noun g=f gen=Deckung pl=Deckungen
 Deeskalation noun g=f gen=Deeskalation pl=Deeskalationen
 Definition noun g=f gen=Definition pl=Definitionen
 Defizit noun g=n gen=Defizits pl=Defizite
 Degen noun g=m gen=Degens pl=Degen
+Dehnungs-h noun g=n gen=Dehnungs-h pl=Dehnungs-h conf=80 note=graded; lengthening h; letter names take no ending
 Deich noun g=m gen=Deichs|Deiches pl=Deiche
 Dekade noun g=f gen=Dekade pl=Dekaden
 Dekan noun g=m gen=Dekans pl=Dekane
@@ -217,6 +222,7 @@ Diwan noun g=m gen=Diwans pl=Diwane
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
+Docht noun g=m gen=Dochtes|Dochts pl=Dochte note=graded
 Dock noun g=n gen=Docks pl=Docks
 Docke noun g=f gen=Docke pl=Docken
 Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
@@ -249,6 +255,9 @@ Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Doping noun g=n gen=Dopings pl=- note=no plural
 Doppel noun g=n gen=Doppels pl=Doppel
 Doppelklick noun g=m gen=Doppelklicks pl=Doppelklicks
+Doppelkonsonant noun g=m gen=Doppelkonsonanten pl=Doppelkonsonanten note=graded
+Doppellaut noun g=m gen=Doppellauts|Doppellautes pl=Doppellaute note=graded
+Doppelpunkt noun g=m gen=Doppelpunktes|Doppelpunkts pl=Doppelpunkte note=graded
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
 Dörfchen noun g=n gen=Dörfchens pl=Dörfchen
 Dörfler noun g=m gen=Dörflers pl=Dörfler
@@ -279,6 +288,7 @@ Dreh noun g=m gen=Drehs pl=Drehs
 Drehung noun g=f gen=Drehung pl=Drehungen
 Dreieck noun g=n gen=Dreiecks|Dreieckes[rare] pl=Dreiecke
 Dreifaltigkeit noun g=f gen=Dreifaltigkeit pl=- note=no plural
+Dreikönigstag noun g=m gen=Dreikönigstages|Dreikönigstags pl=Dreikönigstage note=graded
 Dreirad noun g=n gen=Dreirads|Dreirades pl=Dreiräder
 Dreisatz noun g=m gen=Dreisatzes pl=- note=no plural
 Dreisprung noun g=m gen=Dreisprungs|Dreisprunges pl=Dreisprünge
@@ -300,6 +310,7 @@ Druck         noun g=m gen=Drucks|Druckes pl=Drucke sense=print
 Drucker noun g=m gen=Druckers pl=Drucker
 Druckerei noun g=f gen=Druckerei pl=Druckereien
 Druckerin noun g=f gen=Druckerin pl=Druckerinnen
+Druckschrift noun g=f gen=Druckschrift pl=Druckschriften note=graded
 Drüse noun g=f gen=Drüse pl=Drüsen
 Dschungel noun g=m gen=Dschungels pl=Dschungel
 DSGVO noun g=f gen=DSGVO pl=- note=Datenschutz-Grundverordnung

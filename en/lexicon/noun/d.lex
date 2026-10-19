@@ -538,6 +538,7 @@ dose noun
 dossier noun
 dot noun
 double noun
+double-decker noun note=graded; decker is not a word of its own
 doublet noun
 doubt noun
 dough noun

@@ -11,6 +11,7 @@ Echse noun g=f gen=Echse pl=Echsen
 Echtheit noun g=f gen=Echtheit pl=- note=no plural
 Eck noun g=n gen=Ecks|Eckes pl=Ecke
 Ecke noun g=f gen=Ecke pl=Ecken
+Eckzahn noun g=m gen=Eckzahns|Eckzahnes pl=Eckzähne note=graded
 Edelmann noun g=m gen=Edelmanns|Edelmannes pl=Edelleute
 Edikt noun g=n gen=Edikts|Ediktes pl=Edikte
 Edition noun g=f gen=Edition pl=Editionen
@@ -30,6 +31,7 @@ Eheschließung noun g=f gen=Eheschließung pl=Eheschließungen
 Ehre noun g=f gen=Ehre pl=Ehren
 Ehrenamt noun g=n gen=Ehrenamts|Ehrenamtes pl=Ehrenämter
 Ehrenamtliche noun g=m|f decl=adj
+Ehrenurkunde noun g=f gen=Ehrenurkunde pl=Ehrenurkunden note=graded
 Ehrerbietung noun g=f gen=Ehrerbietung pl=- note=mass noun
 Ehrfurcht noun g=f gen=Ehrfurcht pl=- note=no plural
 Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
@@ -45,6 +47,7 @@ Eifer noun g=m gen=Eifers pl=- note=no plural
 Eifersucht noun g=f gen=Eifersucht pl=- note=no plural
 Eigennutz noun g=m gen=Eigennutzes pl=- note=mass noun
 Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
+Eigenschaftswort noun g=n gen=Eigenschaftswortes|Eigenschaftsworts[rare] pl=Eigenschaftswörter note=graded
 Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly no plural
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
 Eigentümerin noun g=f gen=Eigentümerin pl=Eigentümerinnen
@@ -95,7 +98,10 @@ Einigung noun g=f gen=Einigung pl=Einigungen
 Einkauf noun g=m gen=Einkaufs|Einkaufes pl=Einkäufe
 Einkäufer noun g=m gen=Einkäufers pl=Einkäufer
 Einkäuferin noun g=f gen=Einkäuferin pl=Einkäuferinnen
+Einkaufsliste noun g=f gen=Einkaufsliste pl=Einkaufslisten note=graded
+Einkaufswagen noun g=m gen=Einkaufswagens pl=Einkaufswagen|Einkaufswägen[AT] note=graded
 Einkaufszentrum noun g=n gen=Einkaufszentrums pl=Einkaufszentren
+Einkaufszettel noun g=m gen=Einkaufszettels pl=Einkaufszettel note=graded
 Einklang noun g=m gen=Einklangs|Einklanges pl=- note=no plural
 Einkommen noun g=n gen=Einkommens pl=Einkommen
 Einkünfte noun g=pl
@@ -105,6 +111,7 @@ Einleger noun g=m gen=Einlegers pl=Einleger
 Einlegung noun g=f gen=Einlegung pl=Einlegungen
 Einleitung noun g=f gen=Einleitung pl=Einleitungen
 Einlösung noun g=f gen=Einlösung pl=Einlösungen
+Einmaleins noun g=n gen=Einmaleins pl=- note=graded; das kleine Einmaleins, des Einmaleins (bare genitive); no plural
 Einmarsch noun g=m gen=Einmarschs|Einmarsches pl=Einmärsche
 Einmündung noun g=f gen=Einmündung pl=Einmündungen
 Einnahme noun g=f gen=Einnahme pl=Einnahmen
@@ -194,6 +201,7 @@ Element noun g=n gen=Elements|Elementes pl=Elemente
 Elend noun g=n gen=Elends pl=- note=no plural
 Elf noun g=m gen=Elfen pl=Elfen sense=creature note=der Elf (mythical being)
 Elf noun g=f gen=Elf pl=Elfen sense=team note=die Elf (football team)
+Elfchen noun g=n gen=Elfchens pl=Elfchen note=graded; eleven-word poem
 Elfe noun g=f gen=Elfe pl=Elfen
 Elfenbein noun g=n gen=Elfenbeins pl=- note=mass noun
 Elfmeter noun g=m gen=Elfmeters pl=Elfmeter
@@ -315,15 +323,19 @@ Erbrechen noun g=n gen=Erbrechens pl=- note=mass noun
 Erbringung noun g=f gen=Erbringung pl=- note=no plural
 Erbschaft noun g=f gen=Erbschaft pl=Erbschaften
 Erbse noun g=f gen=Erbse pl=Erbsen
+Erdachse noun g=f gen=Erdachse pl=Erdachsen note=graded
 Erdbeben noun g=n gen=Erdbebens pl=Erdbeben
+Erdbeere noun g=f gen=Erdbeere pl=Erdbeeren note=graded
 Erde noun g=f gen=Erde pl=Erden
 Erdgas noun g=n gen=Erdgases pl=- note=no plural
 Erdgeschoss noun g=n gen=Erdgeschosses pl=Erdgeschosse
 Erdkruste noun g=f gen=Erdkruste pl=- note=no plural
+Erdkugel noun g=f gen=Erdkugel pl=Erdkugeln note=graded
 Erdkunde noun g=f gen=Erdkunde pl=- note=no plural
 Erdnuss noun g=f gen=Erdnuss pl=Erdnüsse
 Erdöl noun g=n gen=Erdöls pl=- note=no plural
 Erdrutsch noun g=m gen=Erdrutschs|Erdrutsches pl=Erdrutsche
+Erdteil noun g=m gen=Erdteils|Erdteiles pl=Erdteile note=graded
 Ereignis noun g=n gen=Ereignisses pl=Ereignisse
 Eremitage noun g=f gen=Eremitage pl=Eremitagen
 Erfahrung noun g=f gen=Erfahrung pl=Erfahrungen
@@ -358,6 +370,7 @@ Erlaubnis noun g=f gen=Erlaubnis pl=Erlaubnisse
 Erläuterung noun g=f gen=Erläuterung pl=Erläuterungen
 Erle noun g=f gen=Erle pl=Erlen
 Erlebnis noun g=n gen=Erlebnisses pl=Erlebnisse
+Erlebniserzählung noun g=f gen=Erlebniserzählung pl=Erlebniserzählungen note=graded
 Erledigung noun g=f gen=Erledigung pl=Erledigungen
 Erleichterung noun g=f gen=Erleichterung pl=Erleichterungen
 Erlös noun g=m gen=Erlöses pl=Erlöse
@@ -373,10 +386,14 @@ Ermittlerin noun g=f gen=Ermittlerin pl=Ermittlerinnen
 Ermittlung noun g=f gen=Ermittlung pl=Ermittlungen
 Ermordung noun g=f gen=Ermordung pl=Ermordungen
 Ernährung noun g=f gen=Ernährung pl=- note=mass noun
+Ernährungskreis noun g=m gen=Ernährungskreises pl=Ernährungskreise note=graded
+Ernährungspyramide noun g=f gen=Ernährungspyramide pl=Ernährungspyramiden note=graded
 Ernennung noun g=f gen=Ernennung pl=Ernennungen
 Erneuerung noun g=f gen=Erneuerung pl=Erneuerungen
 Ernst noun g=m gen=Ernstes|Ernsts pl=- note=der Ernst: seriousness
 Ernte noun g=f gen=Ernte pl=Ernten
+Erntedank noun g=m gen=Erntedankes|Erntedanks pl=- conf=85 note=graded; harvest festival (zu Erntedank); no plural; gender after Dank
+Erntedankfest noun g=n gen=Erntedankfestes|Erntedankfests pl=Erntedankfeste note=graded
 Eroberer noun g=m gen=Eroberers pl=Eroberer
 Eroberung noun g=f gen=Eroberung pl=Eroberungen
 Eröffnung noun g=f gen=Eröffnung pl=Eröffnungen
@@ -392,6 +409,7 @@ Erreichung noun g=f gen=Erreichung pl=- note=no plural
 Errichtung noun g=f gen=Errichtung pl=- note=no plural in use
 Errungenschaft noun g=f gen=Errungenschaft pl=Errungenschaften
 Ersatz noun g=m gen=Ersatzes pl=- note=no plural in use
+Ersatzprobe noun g=f gen=Ersatzprobe pl=Ersatzproben note=graded
 Erscheinung noun g=f gen=Erscheinung pl=Erscheinungen
 Erschließung noun g=f gen=Erschließung pl=- note=no plural
 Erschöpfung noun g=f gen=Erschöpfung pl=- note=no plural
@@ -403,6 +421,7 @@ Erstaunen noun g=n gen=Erstaunens pl=- note=no plural
 Erstausstrahlung noun g=f gen=Erstausstrahlung pl=Erstausstrahlungen
 Erstbeschreibung noun g=f gen=Erstbeschreibung pl=Erstbeschreibungen
 Erstellung noun g=f gen=Erstellung pl=- note=no plural
+Erstkommunion noun g=f gen=Erstkommunion pl=Erstkommunionen note=graded
 Erstligist noun g=m gen=Erstligisten pl=Erstligisten
 Erststimme noun g=f gen=Erststimme pl=Erststimmen
 Ersuchen noun g=n gen=Ersuchens pl=Ersuchen
@@ -424,6 +443,7 @@ Erz noun g=n gen=Erzes pl=Erze
 Erzähler noun g=m gen=Erzählers pl=Erzähler
 Erzählerin noun g=f gen=Erzählerin pl=Erzählerinnen
 Erzählhaltung noun g=f gen=Erzählhaltung pl=Erzählhaltungen
+Erzählkreis noun g=m gen=Erzählkreises pl=Erzählkreise note=graded
 Erzählung noun g=f gen=Erzählung pl=Erzählungen
 Erzbischof noun g=m gen=Erzbischofs|Erzbischofes pl=Erzbischöfe
 Erzbistum noun g=n gen=Erzbistums pl=Erzbistümer

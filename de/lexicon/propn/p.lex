@@ -20,7 +20,7 @@ Philadelphia propn g=n gen=Philadelphias pl=- note=proper name; no plural
 Philippinen propn g=pl
 Piräus propn g=m gen=Piräus pl=- note=der Piräus, port of Athens
 Pittsburgh propn g=n gen=Pittsburghs pl=- note=proper name; no plural
-Po propn g=m gen=Po|Pos pl=- note=river
+Po propn g=m gen=Po|Pos pl=- sense=river note=river
 Polen propn g=n gen=Polens pl=- note=proper name, no plural
 Pommern propn g=n gen=Pommerns pl=- note=proper name, no plural
 Pompeji propn g=n gen=Pompejis pl=- note=ancient city

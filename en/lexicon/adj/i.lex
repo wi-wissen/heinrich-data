@@ -66,6 +66,7 @@ impious adj
 implacable adj adv=implacably
 implantable adj
 implicit adj adv=implicitly
+impolite adj cmp=more adv=impolitely note=graded
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
 impotent adj

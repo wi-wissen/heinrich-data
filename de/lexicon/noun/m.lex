@@ -21,8 +21,11 @@ Magistrat noun g=m gen=Magistrats|Magistrates pl=Magistrate
 Magma noun g=n gen=Magmas pl=Magmen
 Magnesium noun g=n gen=Magnesiums pl=- note=chemical element
 Magnet noun g=m gen=Magnets|Magnetes pl=Magnete
+Magnetfeld noun g=n gen=Magnetfeldes|Magnetfelds pl=Magnetfelder note=graded
+Magnetismus noun g=m gen=Magnetismus pl=- note=graded; no plural
 Magnum noun g=f gen=Magnum pl=Magnums conf=70 note=1.5-litre wine bottle; plural unsure
 Maharadscha noun g=m gen=Maharadschas pl=Maharadschas
+Mähdrescher noun g=m gen=Mähdreschers pl=Mähdrescher note=graded
 Mahl noun g=n gen=Mahles|Mahls pl=Mähler|Mahle conf=85 note=plural variants Mähler or Mahle
 Mahlzeit noun g=f gen=Mahlzeit pl=Mahlzeiten
 Mähne noun g=f gen=Mähne pl=Mähnen
@@ -44,10 +47,14 @@ Makler noun g=m gen=Maklers pl=Makler
 Maklerin noun g=f gen=Maklerin pl=Maklerinnen
 Mal noun g=n gen=Mals|Males pl=Male
 Malaria noun g=f gen=Malaria pl=- note=disease
+Malaufgabe noun g=f gen=Malaufgabe pl=Malaufgaben note=graded
 Maler noun g=m gen=Malers pl=Maler
 Malerei noun g=f gen=Malerei pl=Malereien
 Malerin noun g=f gen=Malerin pl=Malerinnen
+Malkasten noun g=m gen=Malkastens pl=Malkästen note=graded
+Malreihe noun g=f gen=Malreihe pl=Malreihen note=graded
 Mama noun g=f gen=Mama pl=Mamas
+Mammut noun g=n gen=Mammuts pl=Mammuts|Mammute note=graded
 Mamsell noun g=f gen=Mamsell pl=Mamsellen|Mamsells conf=80 note=old-fashioned; plural uncertain between -en and -s
 Management noun g=n gen=Managements pl=Managements
 Manager noun g=m gen=Managers pl=Manager
@@ -79,6 +86,7 @@ Mappe noun g=f gen=Mappe pl=Mappen
 Mär noun g=f gen=Mär pl=Mären
 Marathon noun g=m gen=Marathons pl=Marathons
 Märchen noun g=n gen=Märchens pl=Märchen
+Märchenfigur noun g=f gen=Märchenfigur pl=Märchenfiguren note=graded
 Marder noun g=m gen=Marders pl=Marder
 Mare noun g=n gen=Mare pl=Maria conf=70 note=lunar mare, Latin plural Maria; many hits are names (Mare Nostrum)
 Margarine noun g=f gen=Margarine pl=- note=no plural
@@ -94,6 +102,7 @@ Marketing noun g=n gen=Marketings pl=- note=mass noun
 Markgraf noun g=m gen=Markgrafen pl=Markgrafen
 Markierung noun g=f gen=Markierung pl=Markierungen
 Markt noun g=m gen=Marktes|Markts pl=Märkte
+Marktplatz noun g=m gen=Marktplatzes pl=Marktplätze note=graded
 Marktschreier noun g=m gen=Marktschreiers pl=Marktschreier
 Marktwirtschaft noun g=f gen=Marktwirtschaft pl=- note=no plural
 Marmelade noun g=f gen=Marmelade pl=Marmeladen
@@ -122,6 +131,7 @@ Maß noun g=n gen=Maßes pl=Maße
 Massaker noun g=n gen=Massakers pl=Massaker
 Maßband noun g=n gen=Maßbands|Maßbandes pl=Maßbänder
 Masse noun g=f gen=Masse pl=Massen
+Maßeinheit noun g=f gen=Maßeinheit pl=Maßeinheiten note=graded
 Massentierhaltung noun g=f gen=Massentierhaltung pl=- note=no plural
 Maßgabe noun g=f gen=Maßgabe pl=Maßgaben note=chiefly nach Maßgabe
 Maßnahme noun g=f gen=Maßnahme pl=Maßnahmen
@@ -146,6 +156,7 @@ Matte noun g=f gen=Matte pl=Matten
 Matura noun g=f gen=Matura pl=- region=AT|CH note=school-leaving examination (Abitur)
 Mauer noun g=f gen=Mauer pl=Mauern
 Maul noun g=n gen=Mauls|Maules pl=Mäuler
+Maulwurf noun g=m gen=Maulwurfs|Maulwurfes pl=Maulwürfe note=graded
 Maurer noun g=m gen=Maurers pl=Maurer
 Maurerin noun g=f gen=Maurerin pl=Maurerinnen
 Maus noun g=f gen=Maus pl=Mäuse
@@ -204,6 +215,7 @@ Memo noun g=n gen=Memos pl=Memos
 Memoiren noun g=pl note=memoirs
 Memorandum noun g=n gen=Memorandums pl=Memoranden|Memoranda
 Menge noun g=f gen=Menge pl=Mengen
+Menora noun g=f gen=Menora pl=Menoras conf=70 note=graded; seven-branched candelabrum; plural rare and unsure
 Mensa noun g=f gen=Mensa pl=Mensas|Mensen
 Mensch noun g=m gen=Menschen pl=Menschen
 Menschenbild noun g=n gen=Menschenbilds|Menschenbildes pl=Menschenbilder
@@ -218,6 +230,8 @@ Mentoring noun g=n gen=Mentorings pl=Mentorings
 Menü noun g=n gen=Menüs pl=Menüs
 Meridian noun g=m gen=Meridians pl=Meridiane
 Merkmal noun g=n gen=Merkmals|Merkmales pl=Merkmale
+Merkwort noun g=n gen=Merkwortes|Merkworts pl=Merkwörter note=graded
+Messbecher noun g=m gen=Messbechers pl=Messbecher note=graded
 Messe noun g=f gen=Messe pl=Messen
 Messenger noun g=m gen=Messengers pl=Messenger
 Messer noun g=n gen=Messers pl=Messer
@@ -264,20 +278,24 @@ Migration noun g=f gen=Migration pl=Migrationen
 Mikro noun g=n gen=Mikros pl=Mikros style=colloquial note=Mikrofon
 Mikrofon noun g=n gen=Mikrofons|Mikrofones pl=Mikrofone
 Mikroskop noun g=n gen=Mikroskops pl=Mikroskope
+Mikrowelle noun g=f gen=Mikrowelle pl=Mikrowellen note=graded
 Milan noun g=m gen=Milans pl=Milane
 Milch        noun g=f gen=Milch pl=- note=plural Milche only in technical use
 Milchling noun g=m gen=Milchlings pl=Milchlinge note=mushroom genus
+Milchzahn noun g=m gen=Milchzahns|Milchzahnes pl=Milchzähne note=graded
 Milde noun g=f gen=Milde pl=- note=abstract noun
 Milieu noun g=n gen=Milieus pl=Milieus
 Militär noun g=n gen=Militärs pl=- sense=forces note=das Militär
 Militär noun g=m gen=Militärs pl=Militärs sense=officer note=ein hoher Militär
 Miliz noun g=f gen=Miliz pl=Milizen
 Milliarde noun g=f gen=Milliarde pl=Milliarden
+Milliliter noun g=m|n gen=Milliliters pl=Milliliter note=graded; gender as Liter
 Millimeter noun g=m|n gen=Millimeters pl=Millimeter
 Million noun g=f gen=Million pl=Millionen
 Millionär noun g=m gen=Millionärs pl=Millionäre
 Millionärin noun g=f gen=Millionärin pl=Millionärinnen
 Milz noun g=f gen=Milz pl=Milzen
+Minarett noun g=n gen=Minaretts|Minarettes pl=Minarette note=graded
 Minderheit noun g=f gen=Minderheit pl=Minderheiten
 Minderjährige noun g=m|f decl=adj
 Minderung noun g=f gen=Minderung pl=Minderungen
@@ -288,6 +306,7 @@ Mine noun g=f gen=Mine pl=Minen
 Mineral noun g=n gen=Minerals pl=Minerale|Mineralien
 Mineraloge noun g=m gen=Mineralogen pl=Mineralogen
 Mineralogie noun g=f gen=Mineralogie pl=- note=field of study
+Mineralstoff noun g=m gen=Mineralstoffes|Mineralstoffs pl=Mineralstoffe note=graded
 Mini noun g=m gen=Minis pl=Minis conf=75 note=miniskirt, small car; also first part of compounds (Mini-Job)
 Miniatur noun g=f gen=Miniatur pl=Miniaturen
 Minimum noun g=n gen=Minimums pl=Minima
@@ -296,10 +315,15 @@ Ministerialbeamte noun g=m decl=adj
 Ministerialrat noun g=m gen=Ministerialrats|Ministerialrates pl=Ministerialräte
 Ministerin noun g=f gen=Ministerin pl=Ministerinnen
 Ministerium noun g=n gen=Ministeriums pl=Ministerien
+Minus noun g=n gen=Minus pl=- conf=80 note=graded; minus sign, deficit; bare genitive (des Minus); plural hardly used
+Minusaufgabe noun g=f gen=Minusaufgabe pl=Minusaufgaben note=graded
+Minuspol noun g=m gen=Minuspols pl=Minuspole note=graded
 Minuszeichen noun g=n gen=Minuszeichens pl=Minuszeichen
 Minute noun g=f gen=Minute pl=Minuten
+Minutenzeiger noun g=m gen=Minutenzeigers pl=Minutenzeiger note=graded
 Minze noun g=f gen=Minze pl=Minzen
 Miozän noun g=n gen=Miozäns pl=- note=geological epoch
+Mischfarbe noun g=f gen=Mischfarbe pl=Mischfarben note=graded
 Mischling noun g=m gen=Mischlings pl=Mischlinge
 Mischung noun g=f gen=Mischung pl=Mischungen
 Misere noun g=f gen=Misere pl=Miseren
@@ -326,6 +350,7 @@ Mitgefühl noun g=n gen=Mitgefühls|Mitgefühles pl=- note=no plural
 Mitglied noun g=n gen=Mitglieds|Mitgliedes pl=Mitglieder
 Mitgliedschaft noun g=f gen=Mitgliedschaft pl=Mitgliedschaften
 Mitkonsekrator noun g=m gen=Mitkonsekrators pl=Mitkonsekratoren
+Mitlaut noun g=m gen=Mitlauts|Mitlautes pl=Mitlaute note=graded; consonant (school term)
 Mitleid noun g=n gen=Mitleids|Mitleides pl=- note=no plural
 Mitnahme noun g=f gen=Mitnahme pl=Mitnahmen
 Mitschnitt noun g=m gen=Mitschnitts|Mitschnittes pl=Mitschnitte
@@ -337,10 +362,13 @@ Mitspielerin noun g=f gen=Mitspielerin pl=Mitspielerinnen
 Mitstreiter noun g=m gen=Mitstreiters pl=Mitstreiter
 Mitstreiterin noun g=f gen=Mitstreiterin pl=Mitstreiterinnen
 Mittag noun g=m gen=Mittags|Mittages pl=Mittage
+Mittagessen noun g=n gen=Mittagessens pl=Mittagessen note=graded
 Mitte noun g=f gen=Mitte pl=- note=plural not used
 Mitteilung noun g=f gen=Mitteilung pl=Mitteilungen
 Mittel noun g=n gen=Mittels pl=Mittel
 Mittelalter noun g=n gen=Mittelalters pl=- note=no plural
+Mittelgebirge noun g=n gen=Mittelgebirges pl=Mittelgebirge note=graded
+Mittelpunkt noun g=m gen=Mittelpunktes|Mittelpunkts pl=Mittelpunkte note=graded
 Mittelstand noun g=m gen=Mittelstands|Mittelstandes pl=- note=no plural
 Mittelständler noun g=m gen=Mittelständlers pl=Mittelständler
 Mittelstufe noun g=f gen=Mittelstufe pl=Mittelstufen
@@ -393,6 +421,8 @@ Monarchie noun g=f gen=Monarchie pl=Monarchien
 Monat noun g=m gen=Monats|Monates pl=Monate
 Mönch noun g=m gen=Mönchs|Mönches pl=Mönche
 Mond noun g=m gen=Mondes|Monds pl=Monde
+Mondfinsternis noun g=f gen=Mondfinsternis pl=Mondfinsternisse note=graded
+Mondphase noun g=f gen=Mondphase pl=Mondphasen note=graded
 Mongole noun g=m gen=Mongolen pl=Mongolen
 Monitor noun g=m gen=Monitors pl=Monitore|Monitoren
 Monitoring noun g=n gen=Monitorings pl=- note=mass noun
@@ -408,6 +438,7 @@ Montag noun g=m gen=Montags|Montag pl=Montage
 Monument noun g=n gen=Monuments|Monumentes pl=Monumente
 Moor noun g=n gen=Moores|Moors pl=Moore
 Moos noun g=n gen=Mooses pl=Moose
+Moosschicht noun g=f gen=Moosschicht pl=Moosschichten note=graded
 Moped noun g=n gen=Mopeds pl=Mopeds
 Mopp noun g=m gen=Mopps pl=Mopps
 Moral noun g=f gen=Moral pl=Moralen[rare]
@@ -477,6 +508,8 @@ Münze noun g=f gen=Münze pl=Münzen
 Murmel noun g=f gen=Murmel pl=Murmeln
 Muschel noun g=f gen=Muschel pl=Muscheln
 Muse noun g=f gen=Muse pl=Musen
+Muskelkater noun g=m gen=Muskelkaters pl=Muskelkater note=graded
+Muslima noun g=f gen=Muslima pl=Muslimas conf=85 note=graded; plural Muslimas seen in our counts; Musliminnen is the plural of Muslimin
 Muße noun g=f gen=Muße pl=- note=mass noun
 Museum       noun g=n gen=Museums pl=Museen
 Musical noun g=n gen=Musicals pl=Musicals
@@ -501,6 +534,8 @@ Mutation noun g=f gen=Mutation pl=Mutationen
 Mutter       noun g=f gen=Mutter pl=Mütter sense=parent
 Mutter       noun g=f gen=Mutter pl=Muttern sense=nut note=Schraubenmutter
 Mütterchen noun g=n gen=Mütterchens pl=Mütterchen
+Muttersprache noun g=f gen=Muttersprache pl=Muttersprachen note=graded
+Muttertag noun g=m gen=Muttertages|Muttertags pl=Muttertage note=graded
 Mutti noun g=f gen=Mutti pl=Muttis
 Mütze noun g=f gen=Mütze pl=Mützen
 Mysterium noun g=n gen=Mysteriums pl=Mysterien

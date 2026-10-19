@@ -2,12 +2,17 @@ Nabel noun g=m gen=Nabels pl=Nabel
 Nachahmer noun g=m gen=Nachahmers pl=Nachahmer
 Nachahmung noun g=f gen=Nachahmung pl=Nachahmungen
 Nachbar noun g=m gen=Nachbarn|Nachbars pl=Nachbarn
+Nachbaraufgabe noun g=f gen=Nachbaraufgabe pl=Nachbaraufgaben note=graded
 Nachbarin noun g=f gen=Nachbarin pl=Nachbarinnen
+Nachbarland noun g=n gen=Nachbarlandes|Nachbarlands pl=Nachbarländer note=graded
+Nachbarort noun g=m gen=Nachbarortes|Nachbarorts pl=Nachbarorte note=graded
 Nachbarschaft noun g=f gen=Nachbarschaft pl=Nachbarschaften
+Nachbarzahl noun g=f gen=Nachbarzahl pl=Nachbarzahlen note=graded
 Nachbesserung noun g=f gen=Nachbesserung pl=Nachbesserungen
 Nachdruck noun g=m gen=Nachdrucks|Nachdruckes pl=Nachdrucke note=emphasis (no plural) and reprint (plural Nachdrucke)
 Nachen noun g=m gen=Nachens pl=Nachen note=small boat, elevated
 Nacherfüllung noun g=f gen=Nacherfüllung pl=Nacherfüllungen
+Nacherzählung noun g=f gen=Nacherzählung pl=Nacherzählungen note=graded
 Nachfolge noun g=f gen=Nachfolge pl=- note=no plural
 Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
 Nachfolgerin noun g=f gen=Nachfolgerin pl=Nachfolgerinnen
@@ -20,6 +25,7 @@ Nachhinein noun g=n gen=Nachhinein|Nachhineins pl=- conf=80 note=only in the fix
 Nachkomme noun g=m gen=Nachkommen pl=Nachkommen
 Nachlass noun g=m gen=Nachlasses pl=Nachlässe|Nachlasse[rare]
 Nachmittag noun g=m gen=Nachmittags|Nachmittages pl=Nachmittage
+Nachname noun g=m gen=Nachnamens pl=Nachnamen note=graded
 Nachricht noun g=f gen=Nachricht pl=Nachrichten
 Nachrichtensendung noun g=f gen=Nachrichtensendung pl=Nachrichtensendungen
 Nachschlagewerk noun g=n gen=Nachschlagewerks|Nachschlagewerkes pl=Nachschlagewerke
@@ -37,6 +43,7 @@ Nachwuchs noun g=m gen=Nachwuchses pl=- note=no plural
 Nachzahlung noun g=f gen=Nachzahlung pl=Nachzahlungen
 Nacken noun g=m gen=Nackens pl=Nacken
 Nadel noun g=f gen=Nadel pl=Nadeln
+Nadelbaum noun g=m gen=Nadelbaums|Nadelbaumes pl=Nadelbäume note=graded
 Nadelöhr noun g=n gen=Nadelöhrs|Nadelöhres pl=Nadelöhre
 Nagel noun g=m gen=Nagels pl=Nägel
 Nagellack noun g=m gen=Nagellacks|Nagellackes pl=Nagellacke
@@ -44,11 +51,13 @@ Nager noun g=m gen=Nagers pl=Nager
 Nähe noun g=f gen=Nähe pl=- note=plural not used
 Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
+Nahrungskette noun g=f gen=Nahrungskette pl=Nahrungsketten note=graded
 Naht noun g=f gen=Naht pl=Nähte
 Nahverkehr noun g=m gen=Nahverkehrs pl=- note=no plural (mass or abstract noun)
 Naivität noun g=f gen=Naivität pl=- note=mass noun
 Name         noun g=m gen=Namens pl=Namen
 Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
+Namenwort noun g=n gen=Namenwortes|Namenworts pl=Namenwörter note=graded; noun (primary-school term)
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
 Narkose noun g=f gen=Narkose pl=Narkosen
@@ -69,12 +78,15 @@ Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
 Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temperaments/characters
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
 Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
+Naturschutz noun g=m gen=Naturschutzes pl=- note=graded; mass noun
+Naturschutzgebiet noun g=n gen=Naturschutzgebiets|Naturschutzgebietes pl=Naturschutzgebiete note=graded
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Navigation noun g=f gen=Navigation pl=- note=mass noun
 Nazi noun g=m gen=Nazis pl=Nazis
 Nebel noun g=m gen=Nebels pl=Nebel
 Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
+Nebenfluss noun g=m gen=Nebenflusses pl=Nebenflüsse note=graded
 Nebenhandlung noun g=f gen=Nebenhandlung pl=Nebenhandlungen
 Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
 Nebenstraße noun g=f gen=Nebenstraße pl=Nebenstraßen
@@ -101,6 +113,7 @@ Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nest noun g=n gen=Nests|Nestes pl=Nester
 Networking noun g=n gen=Networkings pl=- note=mass noun
 Netz noun g=n gen=Netzes pl=Netze
+Netzhaut noun g=f gen=Netzhaut pl=Netzhäute note=graded
 Neubau noun g=m gen=Neubaus pl=Neubauten
 Neuerung noun g=f gen=Neuerung pl=Neuerungen
 Neugier noun g=f gen=Neugier pl=- note=abstract noun
@@ -108,6 +121,7 @@ Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
 Neujahr noun g=n gen=Neujahrs pl=Neujahre
 Neuling noun g=m gen=Neulings pl=Neulinge
+Neumond noun g=m gen=Neumondes|Neumonds pl=Neumonde note=graded
 Neurologe noun g=m gen=Neurologen pl=Neurologen
 Neurologie noun g=f gen=Neurologie pl=- note=field of medicine
 Neurologin noun g=f gen=Neurologin pl=Neurologinnen
@@ -120,6 +134,8 @@ NGO noun g=f gen=NGO pl=NGOs
 Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die Nibelungen
 Nichte noun g=f gen=Nichte pl=Nichten
 Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
+Nichtleiter noun g=m gen=Nichtleiters pl=Nichtleiter note=graded
+Nichtschwimmer noun g=m gen=Nichtschwimmers pl=Nichtschwimmer note=graded
 Nichtstun noun g=n gen=Nichtstuns pl=- note=mass noun
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
@@ -146,7 +162,10 @@ Nominierung noun g=f gen=Nominierung pl=Nominierungen
 Nonne noun g=f gen=Nonne pl=Nonnen
 Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in compass and compounds; plural not used
 Norden noun g=m gen=Nordens pl=- note=plural not used
+Nordosten noun g=m gen=Nordostens pl=- note=graded; compass direction
+Nordpol noun g=m gen=Nordpols pl=Nordpole sense=magnet note=graded; north pole of a magnet
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
+Nordwesten noun g=m gen=Nordwestens pl=- note=graded; compass direction
 Norm noun g=f gen=Norm pl=Normen
 Normalität noun g=f gen=Normalität pl=- note=no plural
 Normanne noun g=m gen=Normannen pl=Normannen
@@ -159,6 +178,8 @@ Notarin noun g=f gen=Notarin pl=Notarinnen
 Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
 Noten noun g=pl
+Notenlinie noun g=f gen=Notenlinie pl=Notenlinien note=graded
+Notenschlüssel noun g=m gen=Notenschlüssels pl=Notenschlüssel note=graded
 Notifizierung noun g=f gen=Notifizierung pl=Notifizierungen
 Notiz noun g=f gen=Notiz pl=Notizen
 Notizbuch noun g=n gen=Notizbuchs|Notizbuches pl=Notizbücher
@@ -185,5 +206,6 @@ Nutella noun g=n gen=Nutellas pl=-  note=brand name used as common noun
 Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer
 Nutzerin noun g=f gen=Nutzerin pl=Nutzerinnen
+Nutztier noun g=n gen=Nutztieres|Nutztiers pl=Nutztiere note=graded
 Nutzung noun g=f gen=Nutzung pl=Nutzungen
 Nymphe noun g=f gen=Nymphe pl=Nymphen

@@ -58,6 +58,7 @@ uneingeschränkt adj
 unendlich adj
 unentbehrlich adj
 unentgeltlich adj
+unentschieden adj note=graded; drawn (game), undecided; not compared
 unerbittlich adj cmp=unerbittlicher sup=unerbittlichsten
 unerlässlich adj
 unerledigt adj
@@ -68,6 +69,7 @@ unerwartet adj cmp=unerwarteter sup=unerwartetsten
 unfähig adj cmp=unfähiger sup=unfähigsten
 unfair adj cmp=unfairer sup=unfairsten
 unfrei adj
+unfreundlich adj cmp=unfreundlicher sup=unfreundlichsten note=graded
 ungarisch adj
 ungeduldig adj
 ungeeignet adj cmp=ungeeigneter sup=ungeeignetsten
@@ -83,6 +85,7 @@ ungerade adj
 ungerecht adj cmp=ungerechter sup=ungerechtesten
 ungestört adj
 ungestüm adj cmp=ungestümer sup=ungestümsten
+ungesund adj cmp=ungesünder|ungesunder sup=ungesündesten|ungesundesten note=graded; comparison as for gesund
 ungewöhnlich adj
 ungewollt adj
 ungezogen adj cmp=ungezogener sup=ungezogensten
@@ -153,6 +156,7 @@ unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
 unweigerlich adj
+unwichtig adj cmp=unwichtiger sup=unwichtigsten note=graded
 unwiderruflich adj
 unwiderstehlich adj cmp=unwiderstehlicher sup=unwiderstehlichsten
 unwiederbringlich adj

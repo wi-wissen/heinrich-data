@@ -5,6 +5,7 @@ Pacht noun g=f gen=Pacht pl=Pachten
 Pächter noun g=m gen=Pächters pl=Pächter
 Pächterin noun g=f gen=Pächterin pl=Pächterinnen
 Päckchen noun g=n gen=Päckchens pl=Päckchen
+Packung noun g=f gen=Packung pl=Packungen note=graded
 Pädagoge noun g=m gen=Pädagogen pl=Pädagogen
 Pädagogik noun g=f gen=Pädagogik pl=- note=mass noun
 Pädagogin noun g=f gen=Pädagogin pl=Pädagoginnen
@@ -22,6 +23,7 @@ Palästinenser noun g=m gen=Palästinensers pl=Palästinenser
 Palazzo noun g=m gen=Palazzos pl=Palazzi|Palazzos
 Palette noun g=f gen=Palette pl=Paletten
 Palme noun g=f gen=Palme pl=Palmen
+Palmsonntag noun g=m gen=Palmsonntags pl=Palmsonntage note=graded
 Pampelmuse noun g=f gen=Pampelmuse pl=Pampelmusen
 Panda noun g=m gen=Pandas pl=Pandas
 Pandemie noun g=f gen=Pandemie pl=Pandemien
@@ -31,6 +33,8 @@ Panorama noun g=n gen=Panoramas pl=Panoramen
 Panther noun g=m gen=Panthers pl=Panther
 Pantine noun g=f gen=Pantine pl=Pantinen
 Pantoffel noun g=m gen=Pantoffels pl=Pantoffeln
+Pantomime noun g=f gen=Pantomime pl=Pantomimen sense=art note=graded; die Pantomime: the art form or a mimed scene
+Pantomime noun g=m gen=Pantomimen pl=Pantomimen sense=artist note=graded; der Pantomime: mime artist, weak masculine
 Panzer noun g=m gen=Panzers pl=Panzer
 Panzerung noun g=f gen=Panzerung pl=Panzerungen
 Papa noun g=m gen=Papas pl=Papas
@@ -65,6 +69,8 @@ Parität noun g=f gen=Parität pl=Paritäten
 Park noun g=m gen=Parks|Parkes[archaic] pl=Parks|Parke[rare]
 Parka noun g=m gen=Parkas pl=Parkas
 Parkett noun g=n gen=Parketts|Parkettes pl=Parkette|Parketts
+Parkhaus noun g=n gen=Parkhauses pl=Parkhäuser note=graded
+Parkplatz noun g=m gen=Parkplatzes pl=Parkplätze note=graded
 Parlament noun g=n gen=Parlaments|Parlamentes pl=Parlamente
 Parlamentarier noun g=m gen=Parlamentariers pl=Parlamentarier
 Parlamentarierin noun g=f gen=Parlamentarierin pl=Parlamentarierinnen
@@ -80,6 +86,8 @@ Partitur noun g=f gen=Partitur pl=Partituren
 Partizip noun g=n gen=Partizips pl=Partizipien
 Partizipation noun g=f gen=Partizipation pl=Partizipationen
 Partner noun g=m gen=Partners pl=Partner
+Partnerarbeit noun g=f gen=Partnerarbeit pl=Partnerarbeiten note=graded
+Partnerdiktat noun g=n gen=Partnerdiktats|Partnerdiktates pl=Partnerdiktate note=graded
 Partnerin noun g=f gen=Partnerin pl=Partnerinnen
 Partnerschaft noun g=f gen=Partnerschaft pl=Partnerschaften
 Party noun g=f gen=Party pl=Partys|Parties
@@ -119,6 +127,7 @@ Patrone noun g=f gen=Patrone pl=Patronen note=cartridge (ink, ammunition)
 Patrouille noun g=f gen=Patrouille pl=Patrouillen
 Patrozinium noun g=n gen=Patroziniums pl=Patrozinien
 Patsch noun g=m gen=Patsch|Patschs|Patsches pl=Patsche
+Pauke noun g=f gen=Pauke pl=Pauken note=graded
 Pauschale noun g=f gen=Pauschale pl=Pauschalen
 Pauschbetrag noun g=m gen=Pauschbetrags|Pauschbetrages pl=Pauschbeträge
 Pause noun g=f gen=Pause pl=Pausen
@@ -156,6 +165,9 @@ Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals|Personales[rare] pl=Personale[rare] note=mass noun (staff); plural rare
 Personaler noun g=m gen=Personalers pl=Personaler
 Personalerin noun g=f gen=Personalerin pl=Personalerinnen
+Personalform noun g=f gen=Personalform pl=Personalformen note=graded
+Personalpronomen noun g=n gen=Personalpronomens pl=Personalpronomen|Personalpronomina note=graded
+Personenbeschreibung noun g=f gen=Personenbeschreibung pl=Personenbeschreibungen note=graded
 Personifikation noun g=f gen=Personifikation pl=Personifikationen
 Persönlichkeit noun g=f gen=Persönlichkeit pl=Persönlichkeiten
 Perspektive noun g=f gen=Perspektive pl=Perspektiven
@@ -168,6 +180,7 @@ Petent noun g=m gen=Petenten pl=Petenten
 Petersilie noun g=f gen=Petersilie pl=- note=no plural
 Petition noun g=f gen=Petition pl=Petitionen
 Petroleum noun g=n gen=Petroleums pl=- note=mass noun
+Petroleumlampe noun g=f gen=Petroleumlampe pl=Petroleumlampen note=graded
 Petze noun g=f gen=Petze pl=Petzen style=colloquial
 Pfad noun g=m gen=Pfades|Pfads pl=Pfade
 Pfadfinder noun g=m gen=Pfadfinders pl=Pfadfinder
@@ -293,6 +306,7 @@ Planer noun g=m gen=Planers pl=Planer
 Planerin noun g=f gen=Planerin pl=Planerinnen
 Planet noun g=m gen=Planeten pl=Planeten
 Planke noun g=f gen=Planke pl=Planken
+Planquadrat noun g=n gen=Planquadrats|Planquadrates pl=Planquadrate note=graded
 Planung noun g=f gen=Planung pl=Planungen
 Plasma noun g=n gen=Plasmas pl=Plasmen
 Plastik noun g=n gen=Plastiks pl=- sense=plastic note=material; mass noun
@@ -301,11 +315,14 @@ Plastikmüll noun g=m gen=Plastikmülls pl=- note=no plural
 Plastiktüte noun g=f gen=Plastiktüte pl=Plastiktüten
 Plateau noun g=n gen=Plateaus pl=Plateaus
 Platin noun g=n gen=Platins pl=- note=mass noun
+Plättchen noun g=n gen=Plättchens pl=Plättchen note=graded
 Platte noun g=f gen=Platte pl=Platten
 Plattform noun g=f gen=Plattform pl=Plattformen
 Platz noun g=m gen=Platzes pl=Plätze
 Plätzchen noun g=n gen=Plätzchens pl=Plätzchen
+Platzhalter noun g=m gen=Platzhalters pl=Platzhalter note=graded
 Platzierung noun g=f gen=Platzierung pl=Platzierungen
+Platzverweis noun g=m gen=Platzverweises pl=Platzverweise note=graded
 Plausibilität noun g=f gen=Plausibilität pl=Plausibilitäten
 Playback noun g=n gen=Playbacks pl=Playbacks
 Playlist noun g=f gen=Playlist pl=Playlists
@@ -316,9 +333,12 @@ Plug-in noun g=n gen=Plug-ins pl=Plug-ins
 Plugin noun g=n gen=Plugins pl=Plugins note=variant spelling of Plug-in
 Plural noun g=m gen=Plurals pl=Plurale
 Plus noun g=n gen=Plus pl=- note=das Plus; des Plus (bare genitive); mostly singular
+Plusaufgabe noun g=f gen=Plusaufgabe pl=Plusaufgaben note=graded
 Plüschtier noun g=n gen=Plüschtiers|Plüschtieres pl=Plüschtiere
+Pluspol noun g=m gen=Pluspols pl=Pluspole note=graded
 Plusquamperfekt noun g=n gen=Plusquamperfekts pl=Plusquamperfekte
 PLZ noun g=f gen=PLZ pl=PLZ|PLZs note=Postleitzahl
+Po noun g=m gen=Pos pl=Pos sense=bottom note=graded; der Po: buttocks (child language, colloquial-neutral)
 Pöbel noun g=m gen=Pöbels pl=- note=no plural
 Pocken noun g=pl note=smallpox; plurale tantum
 Podcast noun g=m gen=Podcasts pl=Podcasts
@@ -391,11 +411,14 @@ Positiv noun g=m gen=Positivs pl=Positive
 Posse noun g=f gen=Posse pl=Possen
 Possessivpronomen noun g=n gen=Possessivpronomens pl=Possessivpronomen|Possessivpronomina
 Post noun g=f gen=Post pl=- note=mass noun
+Postbote noun g=m gen=Postboten pl=Postboten note=graded
 Postbotin noun g=f gen=Postbotin pl=Postbotinnen
 Posteingang noun g=m gen=Posteingangs|Posteinganges pl=Posteingänge
 Posten noun g=m gen=Postens pl=Posten
 Poster noun g=n gen=Posters pl=Poster|Posters
 Postfach noun g=n gen=Postfachs|Postfaches pl=Postfächer
+Postkarte noun g=f gen=Postkarte pl=Postkarten note=graded
+Postleitzahl noun g=f gen=Postleitzahl pl=Postleitzahlen note=graded
 Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzial
 Potenz noun g=f gen=Potenz pl=Potenzen
 Potenzial noun g=n gen=Potenzials pl=Potenziale
@@ -577,6 +600,7 @@ Puls noun g=m gen=Pulses pl=Pulse
 Pult noun g=n gen=Pults|Pultes pl=Pulte
 Pulver noun g=n gen=Pulvers pl=Pulver
 Puma noun g=m gen=Pumas pl=Pumas
+Pumpe noun g=f gen=Pumpe pl=Pumpen note=graded
 Pumps noun g=pl
 Punk noun g=m gen=Punks pl=Punks
 Punkt noun g=m gen=Punktes|Punkts pl=Punkte
@@ -584,7 +608,9 @@ Pünktlichkeit noun g=f gen=Pünktlichkeit pl=- note=no plural (mass or abstract
 Punsch noun g=m gen=Punsches|Punschs pl=Punsche
 Pupille noun g=f gen=Pupille pl=Pupillen
 Puppe noun g=f gen=Puppe pl=Puppen
+Puppentheater noun g=n gen=Puppentheaters pl=Puppentheater note=graded
 Purpur noun g=m gen=Purpurs pl=- note=mass noun (colour, dye)
+Purzelbaum noun g=m gen=Purzelbaums|Purzelbaumes pl=Purzelbäume note=graded
 Puschel noun g=m gen=Puschels pl=Puschel
 Pustel noun g=f gen=Pustel pl=Pusteln
 Pute noun g=f gen=Pute pl=Puten

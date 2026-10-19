@@ -81,6 +81,7 @@ besiegt adj
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
+bestimmt adj cmp=bestimmter sup=bestimmtesten note=graded; der bestimmte Artikel, ein bestimmter Tag (certain); decisive (comparable)
 bestimmungsgemäß adj
 bestmöglich adj
 bestplatziert adj
@@ -98,6 +99,7 @@ bewusst       adj cmp=bewusster sup=bewusstesten
 bezahlbar adj cmp=bezahlbarer sup=bezahlbarsten
 bezaubernd adj cmp=bezaubernder sup=bezauberndsten
 biblisch adj
+biegsam adj cmp=biegsamer sup=biegsamsten note=graded
 bilateral adj
 bildlich adj cmp=bildlicher sup=bildlichsten
 billig adj cmp=billiger sup=billigsten

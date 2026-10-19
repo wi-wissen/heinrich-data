@@ -1,5 +1,6 @@
 IBAN noun g=f gen=IBAN pl=IBANs note=International Bank Account Number
 ICE noun g=m gen=ICEs pl=ICEs
+Ich-Erzähler noun g=m gen=Ich-Erzählers pl=Ich-Erzähler note=graded
 Icon noun g=n gen=Icons pl=Icons
 Ideal noun g=n gen=Ideals pl=Ideale
 Idealismus noun g=m gen=Idealismus pl=- note=abstract noun; -ismus genitive
@@ -77,6 +78,7 @@ Inhaber noun g=m gen=Inhabers pl=Inhaber
 Inhaberin noun g=f gen=Inhaberin pl=Inhaberinnen
 Inhalt noun g=m gen=Inhalts|Inhaltes pl=Inhalte
 Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
+Inhaltsverzeichnis noun g=n gen=Inhaltsverzeichnisses pl=Inhaltsverzeichnisse note=graded
 Initiale noun g=f gen=Initiale pl=Initialen
 Initiative noun g=f gen=Initiative pl=Initiativen
 Initiator noun g=m gen=Initiators pl=Initiatoren
@@ -87,8 +89,10 @@ Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkraftsetzung noun g=f gen=Inkraftsetzung pl=- note=nominalisation in legal language
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
 Inland noun g=n gen=Inlands|Inlandes pl=- note=plural not used
+Inlaut noun g=m gen=Inlauts|Inlautes pl=Inlaute note=graded
 Inliner noun g=m gen=Inliners pl=Inliner
 Inlineskates noun g=pl
+Innenstadt noun g=f gen=Innenstadt pl=Innenstädte note=graded
 Innenwelt noun g=f gen=Innenwelt pl=Innenwelten
 Innere noun g=n sg=Innere,Inneren|Innern,Inneren|Innern,Innere pl=- note=das Innere (adjectival noun); the variant Innern is common
 Innovation noun g=f gen=Innovation pl=Innovationen
@@ -173,6 +177,7 @@ ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
 Islamismus noun g=m gen=Islamismus pl=- note=mass noun
 Isolation noun g=f gen=Isolation pl=Isolationen
+Isolator noun g=m gen=Isolators pl=Isolatoren note=graded
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 Israelit noun g=m gen=Israeliten pl=Israeliten
 IT noun g=f gen=IT pl=- note=Informationstechnik

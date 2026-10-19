@@ -12,6 +12,7 @@ lasting       adj
 late          adj cmp=er
 latent adj
 lateral       adj adv=laterally
+latest adj note=graded; most recent: the latest news; also the superlative of late
 Latin         adj note=capitalized: language and culture
 Latino        adj
 latter        adj attr_only

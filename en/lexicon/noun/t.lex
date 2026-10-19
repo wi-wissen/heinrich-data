@@ -398,6 +398,7 @@ trailer noun
 train noun
 trainee noun
 trainer noun
+training noun pl=- note=graded; uncountable
 trait noun
 traitor noun
 trajectory noun

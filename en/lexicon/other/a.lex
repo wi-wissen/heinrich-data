@@ -1,3 +1,4 @@
+a.m. x abbr note=graded; ante meridiem, before noon
 AA x abbr conf=90 note=Alcoholics Anonymous; battery size
 AAA x abbr conf=90 note=American Automobile Association; battery size; credit rating
 absentia x foreign note=Latin; only in in absentia

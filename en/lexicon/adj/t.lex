@@ -44,6 +44,7 @@ terminal adj adv=terminally
 terrestrial adj
 terrible adj adv=terribly
 terrific adj
+terrified adj cmp=more note=graded
 territorial adj
 tertiary adj
 testy adj cmp=er adv=testily

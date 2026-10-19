@@ -27,6 +27,7 @@ Nordeuropa propn g=n gen=Nordeuropas pl=- note=proper name; no plural
 Nordirland propn g=n gen=Nordirlands pl=- note=proper name; no plural
 Norditalien propn g=n gen=Norditaliens pl=- note=proper name; no plural
 Nordkorea propn g=n gen=Nordkoreas pl=- note=proper name; no plural
+Nordpol propn g=m gen=Nordpols pl=- sense=geo note=graded; the geographic North Pole (der Nordpol)
 Nordrhein-Westfalen propn g=n gen=Nordrhein-Westfalens pl=- note=proper name; no plural
 Nordsyrien propn g=n gen=Nordsyriens pl=- note=proper name; no plural
 Normandie propn g=f gen=Normandie pl=- note=die Normandie

@@ -25,6 +25,7 @@ pflastern verb class=weak pp=gepflastert perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 pflücken verb class=weak pp=gepflückt perf=haben
 pflügen verb class=weak pp=gepflügt perf=haben
+philosophieren verb class=weak pp=philosophiert perf=haben note=graded
 pieksen verb class=weak pp=gepiekst perf=haben style=colloquial
 piepen verb class=weak pp=gepiept perf=haben
 piepsen verb class=weak pp=gepiepst perf=haben
@@ -61,6 +62,7 @@ prasseln verb class=weak pp=geprasselt perf=haben|sein
 präzisieren verb class=weak pp=präzisiert perf=haben
 predigen verb class=weak pp=gepredigt perf=haben
 preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=haben
+prellen verb class=weak pp=geprellt perf=haben note=graded
 pressen verb class=weak pp=gepresst perf=haben
 priorisieren verb class=weak pp=priorisiert perf=haben
 privatisieren verb class=weak pp=privatisiert perf=haben

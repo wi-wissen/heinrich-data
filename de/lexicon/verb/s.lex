@@ -16,6 +16,7 @@ saugen verb class=weak past=saugte|sog[rare] subj2=saugte|söge[rare] pp=gesaugt
 säugen verb class=weak pp=gesäugt perf=haben
 säumen verb class=weak pp=gesäumt perf=haben
 säuseln verb class=weak pp=gesäuselt perf=haben
+sausen verb class=weak pp=gesaust perf=haben|sein note=graded; sein for motion (er ist um die Ecke gesaust), haben for the sound (der Wind hat gesaust)
 scannen verb class=weak pp=gescannt perf=haben
 schaden verb class=weak pp=geschadet perf=haben
 schädigen verb class=weak pp=geschädigt perf=haben
@@ -114,6 +115,7 @@ schnurren verb class=weak pp=geschnurrt perf=haben
 schockieren verb class=weak pp=schockiert perf=haben
 schonen verb class=weak pp=geschont perf=haben
 schöpfen verb class=weak pp=geschöpft perf=haben
+schraffieren verb class=weak pp=schraffiert perf=haben note=graded
 schrauben verb class=weak pp=geschraubt perf=haben
 schreddern verb class=weak pp=geschreddert perf=haben
 schreiben verb class=strong 3sg=schreibt past=schrieb pp=geschrieben subj2=schriebe perf=haben
@@ -128,6 +130,7 @@ schummeln verb class=weak pp=geschummelt perf=haben
 schunkeln verb class=weak pp=geschunkelt perf=haben
 schüren verb class=weak pp=geschürt perf=haben
 schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
+schütten verb class=weak pp=geschüttet perf=haben note=graded
 schützen verb class=weak pp=geschützt perf=haben refl=acc
 schwächen verb class=weak pp=geschwächt perf=haben
 schwanken verb class=weak pp=geschwankt perf=haben|sein
@@ -161,6 +164,7 @@ shoppen verb class=weak pp=geshoppt perf=haben
 sichern verb class=weak pp=gesichert perf=haben refl=acc
 sicherstellen verb class=weak sep=sicher pp=sichergestellt perf=haben
 sichten verb class=weak pp=gesichtet perf=haben
+sieben verb class=weak pp=gesiebt perf=haben note=graded; to sieve; homograph of the numeral sieben
 siechen verb class=weak pp=gesiecht perf=haben conf=85 note=mostly dahinsiechen
 siegeln verb class=weak pp=gesiegelt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
@@ -223,6 +227,7 @@ stammen verb class=weak pp=gestammt perf=haben
 stampfen verb class=weak pp=gestampft perf=haben|sein
 standardisieren verb class=weak pp=standardisiert perf=haben
 standhalten verb class=strong sep=stand 3sg=standhält past=standhielt pp=standgehalten subj2=standhielte perf=haben
+stapeln verb class=weak pp=gestapelt perf=haben note=graded
 stapfen verb class=weak pp=gestapft perf=sein
 stärken verb class=weak pp=gestärkt perf=haben
 starren verb class=weak pp=gestarrt perf=haben
@@ -243,6 +248,7 @@ stemmen verb class=weak pp=gestemmt perf=haben
 stempeln verb class=weak pp=gestempelt perf=haben
 sterben verb class=strong 3sg=stirbt past=starb pp=gestorben subj2=stürbe perf=sein
 steuern verb class=weak pp=gesteuert perf=haben
+sticken verb class=weak pp=gestickt perf=haben note=graded
 stiften verb class=weak pp=gestiftet perf=haben
 stilisieren verb class=weak pp=stilisiert perf=haben
 stillen verb class=weak pp=gestillt perf=haben

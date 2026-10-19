@@ -17,6 +17,7 @@ satt adj cmp=satter sup=sattesten
 satzungsgemäß adj
 sauber adj cmp=sauberer sup=saubersten
 sauer adj cmp=saurer sup=sauersten
+saugfähig adj cmp=saugfähiger sup=saugfähigsten note=graded
 säumig adj
 schäbig adj cmp=schäbiger sup=schäbigsten
 schade adj pred_only note=predicative only (es ist schade, wie schade)
@@ -59,6 +60,7 @@ schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
 schriftlich adj
 schriftstellerisch adj
+schrill adj cmp=schriller sup=schrillsten note=graded
 schroff adj cmp=schroffer sup=schroffsten
 schüchtern adj cmp=schüchterner sup=schüchternsten
 schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld

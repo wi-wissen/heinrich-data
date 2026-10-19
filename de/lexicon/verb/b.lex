@@ -1,5 +1,6 @@
 backen verb class=strong 3sg=bäckt|backt past=backte|buk[archaic] pp=gebacken subj2=backte|büke[archaic] perf=haben
 baden verb class=weak pp=gebadet perf=haben refl=acc
+balancieren verb class=weak pp=balanciert perf=haben|sein note=graded; haben with an object, sein for movement (über den Balken balanciert)
 balgen verb class=weak pp=gebalgt perf=haben refl=acc
 ballen verb class=weak pp=geballt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben

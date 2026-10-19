@@ -13,6 +13,7 @@ nachdrängen verb class=weak sep=nach pp=nachgedrängt perf=sein
 nachdrucken verb class=weak sep=nach pp=nachgedruckt perf=haben
 nachdunkeln verb class=weak sep=nach pp=nachgedunkelt perf=haben
 nacheifern verb class=weak sep=nach pp=nachgeeifert perf=haben
+nacherzählen verb class=weak sep=nach pp=nacherzählt perf=haben note=graded; no ge- because of the inseparable er-
 nachfahren verb class=strong sep=nach 3sg=nachfährt past=nachfuhr subj2=nachführe pp=nachgefahren perf=sein
 nachfärben verb class=weak sep=nach pp=nachgefärbt perf=haben
 nachfliegen verb class=strong sep=nach 3sg=nachfliegt past=nachflog subj2=nachflöge pp=nachgeflogen perf=sein

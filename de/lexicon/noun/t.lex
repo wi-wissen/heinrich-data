@@ -14,8 +14,10 @@ Taekwondo noun g=n gen=Taekwondos pl=- note=no plural (mass or abstract noun)
 Tafel noun g=f gen=Tafel pl=Tafeln
 Tafelanschrieb noun g=m gen=Tafelanschriebs|Tafelanschriebes pl=Tafelanschriebe
 Tag          noun g=m gen=Tages|Tags pl=Tage
+Tagebuch noun g=n gen=Tagebuches|Tagebuchs pl=Tagebücher note=graded
 Tagelöhner noun g=m gen=Tagelöhners pl=Tagelöhner
 Tagesanbruch noun g=m gen=Tagesanbruchs|Tagesanbruches pl=- note=no plural
+Tagesordnung noun g=f gen=Tagesordnung pl=Tagesordnungen note=graded
 Taifun noun g=m gen=Taifuns pl=Taifune
 Taille noun g=f gen=Taille pl=Taillen
 Takt noun g=m gen=Takts|Taktes pl=Takte
@@ -26,10 +28,14 @@ Taler noun g=m gen=Talers pl=Taler
 Taliban noun g=m gen=Taliban pl=Taliban note=collective; usually die Taliban
 Talkshow noun g=f gen=Talkshow pl=Talkshows
 Tambourin noun g=n gen=Tambourins pl=Tambourine
+Tamburin noun g=n gen=Tamburins pl=Tamburine note=graded
 Tampon noun g=m gen=Tampons pl=Tampons
+Tangram noun g=n gen=Tangrams pl=Tangrams conf=85 note=graded; Chinese puzzle of seven pieces; plural rare
 Tank noun g=m gen=Tanks pl=Tanks|Tanke[rare]
 Tanker noun g=m gen=Tankers pl=Tanker
+Tankstelle noun g=f gen=Tankstelle pl=Tankstellen note=graded
 Tanne noun g=f gen=Tanne pl=Tannen
+Tannenbaum noun g=m gen=Tannenbaums|Tannenbaumes pl=Tannenbäume note=graded
 Tante noun g=f gen=Tante pl=Tanten
 Tanz noun g=m gen=Tanzes pl=Tänze
 Tänzer noun g=m gen=Tänzers pl=Tänzer
@@ -45,8 +51,11 @@ Taschenrechner noun g=m gen=Taschenrechners pl=Taschenrechner
 Taskleiste noun g=f gen=Taskleiste pl=Taskleisten
 Tasse noun g=f gen=Tasse pl=Tassen
 Tastatur noun g=f gen=Tastatur pl=Tastaturen
+Taste noun g=f gen=Taste pl=Tasten note=graded
+Tasteninstrument noun g=n gen=Tasteninstruments|Tasteninstrumentes pl=Tasteninstrumente note=graded
 Tastenkombination noun g=f gen=Tastenkombination pl=Tastenkombinationen
 Tastenkürzel noun g=n gen=Tastenkürzels pl=Tastenkürzel
+Tastsinn noun g=m gen=Tastsinnes|Tastsinns pl=- note=graded; plural not used
 Tat noun g=f gen=Tat pl=Taten
 Tatar noun g=m gen=Tataren pl=Tataren
 Täter noun g=m gen=Täters pl=Täter
@@ -64,9 +73,11 @@ Taufe noun g=f gen=Taufe pl=Taufen
 Täufer noun g=m gen=Täufers pl=Täufer
 Tauglichkeit noun g=f gen=Tauglichkeit pl=- note=no plural
 Tausch noun g=m gen=Tauschs|Tausches pl=Tausche
+Tauschaufgabe noun g=f gen=Tauschaufgabe pl=Tauschaufgaben note=graded
 Täuschung noun g=f gen=Täuschung pl=Täuschungen
 Tausend noun g=n gen=Tausends pl=Tausende note=das Tausend; nominal use of the numeral
 Tausender noun g=m gen=Tausenders pl=Tausender
+Tausenderwürfel noun g=m gen=Tausenderwürfels pl=Tausenderwürfel note=graded
 Tausendfüßler noun g=m gen=Tausendfüßlers pl=Tausendfüßler
 Taxi noun g=n gen=Taxis pl=Taxis
 Taxon noun g=n gen=Taxons pl=Taxa
@@ -98,6 +109,7 @@ Teilung noun g=f gen=Teilung pl=Teilungen
 Teint noun g=m gen=Teints pl=Teints
 Telefon noun g=n gen=Telefons pl=Telefone
 Telefonat noun g=n gen=Telefonats|Telefonates pl=Telefonate
+Telefonnummer noun g=f gen=Telefonnummer pl=Telefonnummern note=graded
 Telekommunikation noun g=f gen=Telekommunikation pl=- note=mass noun
 Teleskop noun g=n gen=Teleskops pl=Teleskope
 Teller noun g=m gen=Tellers pl=Teller
@@ -177,7 +189,12 @@ Ticket noun g=n gen=Tickets pl=Tickets
 Tief noun g=n gen=Tiefs pl=Tiefs
 Tiefe noun g=f gen=Tiefe pl=Tiefen
 Tiefkühltruhe noun g=f gen=Tiefkühltruhe pl=Tiefkühltruhen
+Tiefland noun g=n gen=Tieflandes|Tieflands pl=Tieflande|Tiefländer note=graded; both plurals seen in our counts
 Tier noun g=n gen=Tieres|Tiers pl=Tiere
+Tierart noun g=f gen=Tierart pl=Tierarten note=graded
+Tierarzt noun g=m gen=Tierarztes pl=Tierärzte note=graded
+Tierärztin noun g=f gen=Tierärztin pl=Tierärztinnen note=graded
+Tierbeschreibung noun g=f gen=Tierbeschreibung pl=Tierbeschreibungen note=graded
 Tierchen noun g=n gen=Tierchens pl=Tierchen
 Tierpflegerin noun g=f gen=Tierpflegerin pl=Tierpflegerinnen
 Tierquälerei noun g=f gen=Tierquälerei pl=- note=mass noun
@@ -188,11 +205,13 @@ Tilgung noun g=f gen=Tilgung pl=Tilgungen
 Timeline noun g=f gen=Timeline pl=Timelines
 Tinte noun g=f gen=Tinte pl=Tinten
 Tintenfisch noun g=m gen=Tintenfisches pl=Tintenfische
+Tipp noun g=m gen=Tipps pl=Tipps note=graded
 Tiroler noun g=m gen=Tirolers pl=Tiroler
 Tisch noun g=m gen=Tisches|Tischs pl=Tische
 Tischchen noun g=n gen=Tischchens pl=Tischchen
 Tischler noun g=m gen=Tischlers pl=Tischler
 Tischlerin noun g=f gen=Tischlerin pl=Tischlerinnen
+Tischtennis noun g=n gen=Tischtennis pl=- note=graded; game name, bare genitive, no plural
 Titel noun g=m gen=Titels pl=Titel
 Titularbischof noun g=m gen=Titularbischofs pl=Titularbischöfe
 To-do-Liste noun g=f gen=To-do-Liste pl=To-do-Listen
@@ -214,7 +233,9 @@ Tombola noun g=f gen=Tombola pl=Tombolas|Tombolen
 Ton noun g=m gen=Tones|Tons pl=Töne sense=sound
 Ton noun g=m gen=Tones|Tons pl=Tone[rare] sense=clay
 Toner noun g=m gen=Toners pl=Toner
+Tonleiter noun g=f gen=Tonleiter pl=Tonleitern note=graded
 Tonne noun g=f gen=Tonne pl=Tonnen
+Tonpapier noun g=n gen=Tonpapiers|Tonpapieres pl=Tonpapiere note=graded
 Tool noun g=n gen=Tools pl=Tools
 Top noun g=n gen=Tops pl=Tops
 Topf noun g=m gen=Topfs|Topfes pl=Töpfe
@@ -224,6 +245,7 @@ Topographie noun g=f gen=Topographie pl=Topographien note=variant spelling Topog
 Topologie noun g=f gen=Topologie pl=Topologien
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
 Tor noun g=m gen=Toren pl=Toren sense=fool note=der Tor, weak masculine
+Tora noun g=f gen=Tora pl=- note=graded; the Torah; plural not used (old spelling Thora)
 Torf noun g=m gen=Torfs|Torfes pl=- note=no plural
 Torheit noun g=f gen=Torheit pl=Torheiten
 Torhüter noun g=m gen=Torhüters pl=Torhüter
@@ -233,6 +255,7 @@ Torpedo noun g=m gen=Torpedos pl=Torpedos
 Torte noun g=f gen=Torte pl=Torten
 Tortellini noun g=pl
 Torwart noun g=m gen=Torwarts|Torwartes pl=Torwarte
+Torwartin noun g=f gen=Torwartin pl=Torwartinnen note=graded
 Totalität noun g=f gen=Totalität pl=Totalitäten
 Tote noun g=m|f decl=adj
 Totemismus noun g=m gen=Totemismus pl=- note=mass noun
@@ -335,6 +358,7 @@ Trog noun g=m gen=Troges|Trogs pl=Tröge
 Trojaner noun g=m gen=Trojaners pl=Trojaner
 Troll noun g=m gen=Trolls|Trolles pl=Trolle
 Trommel noun g=f gen=Trommel pl=Trommeln
+Trommelfell noun g=n gen=Trommelfells|Trommelfelles pl=Trommelfelle note=graded
 Trompete noun g=f gen=Trompete pl=Trompeten
 Trompeter noun g=m gen=Trompeters pl=Trompeter
 Trompeterin noun g=f gen=Trompeterin pl=Trompeterinnen
@@ -371,6 +395,7 @@ Tumult noun g=m gen=Tumults|Tumultes pl=Tumulte
 Tundra noun g=f gen=Tundra pl=Tundren
 Tunnel noun g=m gen=Tunnels pl=Tunnel|Tunnels
 Tunte noun g=f gen=Tunte pl=Tunten style=offensive note=homophobic slur
+Tunwort noun g=n gen=Tunwortes|Tunworts pl=Tunwörter note=graded; verb (primary-school term)
 Tür noun g=f gen=Tür pl=Türen
 Turban noun g=m gen=Turbans pl=Turbane
 Turbine noun g=f gen=Turbine pl=Turbinen
@@ -389,6 +414,7 @@ Turnier noun g=n gen=Turniers|Turnieres pl=Turniere
 Turnschuh noun g=m gen=Turnschuhs|Turnschuhes pl=Turnschuhe
 Tussi noun g=f gen=Tussi pl=Tussis style=colloquial
 Tüte noun g=f gen=Tüte pl=Tüten
+Tuwort noun g=n gen=Tuwortes|Tuworts pl=Tuwörter note=graded; verb (primary-school term, variant of Tunwort)
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
 Typ noun g=m gen=Typs pl=Typen
 Type noun g=f gen=Type pl=Typen conf=85 note=printing type; colloquial: eine komische Type

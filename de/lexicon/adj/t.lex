@@ -12,6 +12,7 @@ tauglich adj cmp=tauglicher sup=tauglichsten
 tausendfach adj
 technisch adj
 technologisch adj
+teilbar adj note=graded; divisible; not compared
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
 telefonisch adj
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten

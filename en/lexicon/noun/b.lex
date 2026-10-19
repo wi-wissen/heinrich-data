@@ -19,6 +19,7 @@ backing noun
 backlash noun
 backlog noun
 backpack noun
+backpacker noun note=graded
 backslash noun
 backstop noun
 backstory noun
@@ -33,6 +34,7 @@ badminton noun pl=- note=uncountable
 bag noun
 bagel noun
 baggage noun pl=- note=uncountable
+bagpipe noun note=graded; mostly plural: the bagpipes
 baguette noun
 baht noun pl=baht
 bail noun
@@ -622,6 +624,7 @@ bullhead noun
 bullion noun pl=- note=uncountable
 bullock noun
 bully noun
+bullying noun pl=- note=graded; uncountable
 bulwark noun
 bum noun style=colloquial note=buttocks (British); a lazy person (American)
 bumblebee noun

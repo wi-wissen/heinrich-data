@@ -13,6 +13,7 @@ nieder adv
 nimmer adv
 nimmermehr adv type=time style=archaic
 nirgend adv type=place style=archaic note=older variant of nirgends
+nochmal adv note=graded; once more, colloquial-neutral short form of noch einmal (also written noch mal)
 nochmals adv
 nordwärts adv type=direction
 normalerweise adv

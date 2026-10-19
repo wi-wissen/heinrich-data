@@ -11,6 +11,7 @@ Raclette noun g=n gen=Raclettes pl=Raclettes
 Rad noun g=n gen=Rads|Rades pl=Räder
 Radar noun g=m|n gen=Radars pl=Radare
 Radau noun g=m gen=Radaus pl=- note=mass noun; colloquial
+Radfahren noun g=n gen=Radfahrens pl=- note=graded; the verb is written Rad fahren, so the noun has no verb to derive from (like Seilspringen)
 Radfahrer noun g=m gen=Radfahrers pl=Radfahrer
 Radfahrerin noun g=f gen=Radfahrerin pl=Radfahrerinnen
 Radierer noun g=m gen=Radierers pl=Radierer
@@ -21,6 +22,7 @@ Radio noun g=n gen=Radios pl=Radios
 Radioaktivität noun g=f gen=Radioaktivität pl=- note=no plural
 Radius noun g=m gen=Radius pl=Radien
 Radon noun g=n gen=Radons pl=- note=chemical element
+Radweg noun g=m gen=Radweges|Radwegs pl=Radwege note=graded
 Raffinerie noun g=f gen=Raffinerie pl=Raffinerien
 Rahmen noun g=m gen=Rahmens pl=Rahmen
 Rahmenhandlung noun g=f gen=Rahmenhandlung pl=Rahmenhandlungen
@@ -45,11 +47,13 @@ Raserei noun g=f gen=Raserei pl=Rasereien
 Rasierer noun g=m gen=Rasierers pl=Rasierer
 Rasierschaum noun g=m gen=Rasierschaums|Rasierschaumes pl=Rasierschäume
 Rasse noun g=f gen=Rasse pl=Rassen
+Rassel noun g=f gen=Rassel pl=Rasseln note=graded
 Rassismus noun g=m gen=Rassismus pl=- note=mass noun
 Rast noun g=f gen=Rast pl=- note=mass noun
 Raster noun g=n|m gen=Rasters pl=Raster note=das Raster (grid); der Raster in printing and in AT/CH
 Rat noun g=m gen=Rates|Rats pl=Räte
 Rate noun g=f gen=Rate pl=Raten
+Rathaus noun g=n gen=Rathauses pl=Rathäuser note=graded
 Ratifikation noun g=f gen=Ratifikation pl=Ratifikationen
 Ratifizierung noun g=f gen=Ratifizierung pl=Ratifizierungen
 Rätin noun g=f gen=Rätin pl=Rätinnen note=member of a council (Stadträtin, Betriebsrätin)
@@ -87,7 +91,13 @@ Rebhuhn noun g=n gen=Rebhuhns pl=Rebhühner
 Rechen noun g=m gen=Rechens pl=Rechen
 Rechenart noun g=f gen=Rechenart pl=Rechenarten
 Rechenaufgabe noun g=f gen=Rechenaufgabe pl=Rechenaufgaben
+Rechendreieck noun g=n gen=Rechendreiecks pl=Rechendreiecke note=graded
+Rechengeschichte noun g=f gen=Rechengeschichte pl=Rechengeschichten note=graded
+Rechenkette noun g=f gen=Rechenkette pl=Rechenketten note=graded
+Rechenrahmen noun g=m gen=Rechenrahmens pl=Rechenrahmen note=graded
 Rechenschaft noun g=f gen=Rechenschaft pl=- note=mass noun; Rechenschaft ablegen
+Rechenvorteil noun g=m gen=Rechenvorteils pl=Rechenvorteile note=graded
+Rechenweg noun g=m gen=Rechenweges|Rechenwegs pl=Rechenwege note=graded
 Rechenzeichen noun g=n gen=Rechenzeichens pl=Rechenzeichen
 Recherche noun g=f gen=Recherche pl=Recherchen
 Rechner noun g=m gen=Rechners pl=Rechner
@@ -99,6 +109,7 @@ Rechteck noun g=n gen=Rechtecks|Rechteckes pl=Rechtecke
 Rechtfertigung noun g=f gen=Rechtfertigung pl=Rechtfertigungen
 Rechtmäßigkeit noun g=f gen=Rechtmäßigkeit pl=- note=mass noun
 Rechtsanwalt noun g=m gen=Rechtsanwalts|Rechtsanwaltes pl=Rechtsanwälte
+Rechtschreibfehler noun g=m gen=Rechtschreibfehlers pl=Rechtschreibfehler note=graded
 Rechtschreibung noun g=f gen=Rechtschreibung pl=Rechtschreibungen
 Rechtsextremismus noun g=m gen=Rechtsextremismus pl=- note=mass noun
 Rechtsklick noun g=m gen=Rechtsklicks pl=Rechtsklicks
@@ -116,6 +127,7 @@ Redaktion noun g=f gen=Redaktion pl=Redaktionen
 Rede noun g=f gen=Rede pl=Reden
 Redensart noun g=f gen=Redensart pl=Redensarten
 Redewendung noun g=f gen=Redewendung pl=Redewendungen
+Redezeichen noun g=n gen=Redezeichens pl=Redezeichen note=graded; quotation marks (primary-school term)
 Redner noun g=m gen=Redners pl=Redner
 Rednerin noun g=f gen=Rednerin pl=Rednerinnen
 Reduktion noun g=f gen=Reduktion pl=Reduktionen
@@ -144,10 +156,13 @@ Regal noun g=n gen=Regals pl=Regale
 Regel noun g=f gen=Regel pl=Regeln
 Regelung noun g=f gen=Regelung pl=Regelungen
 Regen noun g=m gen=Regens pl=- note=mass noun; Regenfälle for the plural
+Regenbogen noun g=m gen=Regenbogens pl=Regenbogen|Regenbögen note=graded
 Regeneration noun g=f gen=Regeneration pl=Regenerationen
+Regenmesser noun g=m gen=Regenmessers pl=Regenmesser note=graded
 Regent noun g=m gen=Regenten pl=Regenten
 Regentin noun g=f gen=Regentin pl=Regentinnen
 Regentschaft noun g=f gen=Regentschaft pl=Regentschaften
+Regenwurm noun g=m gen=Regenwurms|Regenwurmes pl=Regenwürmer note=graded
 Regie noun g=f gen=Regie pl=- note=mass noun
 Regierung noun g=f gen=Regierung pl=Regierungen
 Regime noun g=n gen=Regimes pl=Regime
@@ -182,6 +197,7 @@ Reihe noun g=f gen=Reihe pl=Reihen
 Reiher noun g=m gen=Reihers pl=Reiher
 Reim noun g=m gen=Reims|Reimes pl=Reime
 Reimschema noun g=n gen=Reimschemas pl=Reimschemata|Reimschemas
+Reimwort noun g=n gen=Reimwortes|Reimworts pl=Reimwörter note=graded
 Reinette noun g=f gen=Reinette pl=Reinetten
 Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
@@ -196,6 +212,7 @@ Reißzwecke noun g=f gen=Reißzwecke pl=Reißzwecken note=the analyser would tak
 Reiter noun g=m gen=Reiters pl=Reiter
 Reiterin noun g=f gen=Reiterin pl=Reiterinnen
 Reiz noun g=m gen=Reizes pl=Reize
+Reizwortgeschichte noun g=f gen=Reizwortgeschichte pl=Reizwortgeschichten note=graded
 Reklamation noun g=f gen=Reklamation pl=Reklamationen
 Reklame noun g=f gen=Reklame pl=Reklamen
 Rekonstruktion noun g=f gen=Rekonstruktion pl=Rekonstruktionen
@@ -280,6 +297,8 @@ Retter noun g=m gen=Retters pl=Retter
 Retterin noun g=f gen=Retterin pl=Retterinnen
 Rettich noun g=m gen=Rettichs pl=Rettiche
 Rettung noun g=f gen=Rettung pl=Rettungen
+Rettungsschwimmer noun g=m gen=Rettungsschwimmers pl=Rettungsschwimmer note=graded
+Rettungswagen noun g=m gen=Rettungswagens pl=Rettungswagen note=graded
 Reue noun g=f gen=Reue pl=- note=mass noun
 Revier noun g=n gen=Reviers pl=Reviere
 Revision noun g=f gen=Revision pl=Revisionen
@@ -343,9 +362,11 @@ Rohstoff noun g=m gen=Rohstoffs|Rohstoffes pl=Rohstoffe
 Rokoko noun g=n gen=Rokoko|Rokokos pl=- note=style period
 Rollator noun g=m gen=Rollators pl=Rollatoren
 Rolle noun g=f gen=Rolle pl=Rollen
+Rollenspiel noun g=n gen=Rollenspiels|Rollenspieles pl=Rollenspiele note=graded
 Roller noun g=m gen=Rollers pl=Roller
 Rollladen noun g=m gen=Rollladens pl=Rollläden|Rollladen note=compound not split correctly by the analyser
 Rollo noun g=n gen=Rollos pl=Rollos
+Rollschuh noun g=m gen=Rollschuhs|Rollschuhes pl=Rollschuhe note=graded
 Rolltreppe noun g=f gen=Rolltreppe pl=Rolltreppen
 Rom noun g=m gen=Rom|Roms pl=Roma sense=person conf=70 note=singular of Roma (ein Rom); rare
 Roma noun g=pl note=ethnic group, plural only (die Roma)
@@ -356,6 +377,7 @@ Romantik noun g=f gen=Romantik pl=- note=mass noun; epoch
 Romanze noun g=f gen=Romanze pl=Romanzen
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
+Rondell noun g=n gen=Rondells pl=Rondelle note=graded; poem form (and round flower bed)
 Röntgenbild noun g=n gen=Röntgenbild|Röntgenbilds|Röntgenbildes pl=Röntgenbilder
 Rosa noun g=n gen=Rosa|Rosas pl=Rosa|Rosas conf=85 note=colour name (das Rosa)
 Rose noun g=f gen=Rose pl=Rosen
@@ -364,6 +386,8 @@ Rosette noun g=f gen=Rosette pl=Rosetten
 Rosine noun g=f gen=Rosine pl=Rosinen
 Rosmarin noun g=m gen=Rosmarins pl=- note=no plural
 Ross noun g=n gen=Rosses pl=Rosse|Rösser style=archaic note=elevated word for horse
+Rost noun g=m gen=Rostes|Rosts pl=- sense=rust note=graded; corrosion of iron, mass noun
+Rost noun g=m gen=Rostes|Rosts pl=Roste sense=grate note=graded; grate, grill
 Rotation noun g=f gen=Rotation pl=Rotationen
 Röte noun g=f gen=Röte pl=- note=no plural
 Röteln noun g=pl
@@ -379,16 +403,19 @@ Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
 Rücken noun g=m gen=Rückens pl=Rücken
+Rückenschwimmen noun g=n gen=Rückenschwimmens pl=- note=graded; swimming style; no verb rückenschwimmen in standard use
 Rückfahrt noun g=f gen=Rückfahrt pl=Rückfahrten
 Rückgabe noun g=f gen=Rückgabe pl=Rückgaben
 Rückgabefrist noun g=f gen=Rückgabefrist pl=Rückgabefristen note=compound analysis does not accept the modifier Rückgabe-
 Rückgaberecht noun g=n gen=Rückgaberechts|Rückgaberechtes pl=Rückgaberechte note=compound analysis does not accept the modifier Rückgabe-
 Rückgang noun g=m gen=Rückgangs|Rückganges pl=Rückgänge
+Rückgeld noun g=n gen=Rückgeldes|Rückgelds pl=- note=graded; mass noun
 Rückgrat noun g=n gen=Rückgrats|Rückgrates pl=Rückgrate
 Rückkehr noun g=f gen=Rückkehr pl=- note=no plural
 Rückkehrer noun g=m gen=Rückkehrers pl=Rückkehrer
 Rücklage noun g=f gen=Rücklage pl=Rücklagen
 Rücklicht noun g=n gen=Rücklichts|Rücklichtes pl=Rücklichter
+Rückmeldung noun g=f gen=Rückmeldung pl=Rückmeldungen note=graded
 Rücknahme noun g=f gen=Rücknahme pl=Rücknahmen
 Rückreise noun g=f gen=Rückreise pl=Rückreisen
 Rückseite noun g=f gen=Rückseite pl=Rückseiten
@@ -396,6 +423,7 @@ Rücksicht noun g=f gen=Rücksicht pl=Rücksichten
 Rücksichtnahme noun g=f gen=Rücksichtnahme pl=- note=abstract noun, no plural
 Rücktritt noun g=m gen=Rücktritts|Rücktrittes pl=Rücktritte
 Rückverfolgbarkeit noun g=f gen=Rückverfolgbarkeit pl=- note=traceability; no plural
+Rückwärtsrolle noun g=f gen=Rückwärtsrolle pl=Rückwärtsrollen note=graded
 Rückzug noun g=m gen=Rückzugs|Rückzuges pl=Rückzüge
 Rudel noun g=n gen=Rudels pl=Rudel
 Ruder noun g=n gen=Ruders pl=Ruder

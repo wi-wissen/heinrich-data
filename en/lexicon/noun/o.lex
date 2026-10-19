@@ -158,6 +158,7 @@ Ottoman noun note=plural Ottomans
 ottoman       noun note=furniture
 ounce noun
 outage noun
+outback noun pl=- note=graded; the Australian outback; uncountable
 outboard noun
 outbox noun
 outbreak      noun

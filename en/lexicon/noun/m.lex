@@ -229,6 +229,7 @@ mechanism      noun
 medal          noun
 medalist       noun gb=medallist
 medallion noun
+media noun pl=- conf=90 note=graded; the mass media, social media, collective (with singular or plural verb); also the plural of medium
 median         noun
 mediation noun
 mediator noun

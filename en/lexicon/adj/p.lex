@@ -1,5 +1,6 @@
 pacific adj note=peaceful; the ocean is Pacific propn
 pagan adj
+paid adj note=graded; paid work, a paid holiday
 painful adj cmp=more adv=painfully
 painstaking adj adv=painstakingly
 pairwise adj
@@ -33,6 +34,7 @@ parietal adj
 Parisian adj
 parliamentary adj
 parochial adj cmp=more
+part-time adj note=graded; also used as an adverb: she works part-time
 partial adj adv=partially
 participatory adj
 particular adj cmp=more adv=particularly
@@ -144,6 +146,7 @@ plausible adj cmp=more adv=plausibly
 playable adj
 playful adj adv=playfully
 pleasant adj cmp=er|more adv=pleasantly
+pleased adj cmp=more note=graded
 pleasing adj cmp=more
 pleasurable adj cmp=more adv=pleasurably
 plebeian adj
@@ -171,6 +174,7 @@ Polish adj note=demonym or religious name, capitalized
 polite adj cmp=er adv=politely
 politic adj note=prudent: it is not politic to
 political adj cmp=more adv=politically
+polluted adj cmp=more note=graded
 polynomial adj
 pompous adj cmp=more adv=pompously
 ponderous adj adv=ponderously

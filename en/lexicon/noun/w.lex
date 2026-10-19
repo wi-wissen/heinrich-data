@@ -40,6 +40,7 @@ warfare noun pl=- note=uncountable
 warfighting noun pl=- conf=90 note=military jargon, uncountable
 warhead noun
 warlord noun
+warming noun pl=- note=graded; global warming; uncountable
 warmth noun pl=- note=uncountable
 warning noun
 warp noun

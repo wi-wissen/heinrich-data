@@ -156,6 +156,7 @@ passive noun
 passphrase noun
 passport noun
 password noun
+past noun note=graded; the past, in the past
 pasta noun
 paste noun
 pastime noun
@@ -283,6 +284,7 @@ perch noun
 percussion noun pl=- note=uncountable
 perdition noun pl=- note=uncountable
 perennial noun
+perfect noun note=graded; grammar: the present perfect, the past perfect
 perfection noun note=plural perfections: excellent qualities
 performance noun
 performer noun
@@ -736,6 +738,7 @@ preparation noun
 preparedness noun pl=- note=uncountable
 prepayment noun
 preponderance noun
+preposition noun note=graded
 prequel noun
 prerequisite noun
 prerogative noun
