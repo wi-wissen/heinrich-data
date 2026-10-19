@@ -40,6 +40,7 @@ mate          verb
 materialize verb gb=materialise|materialize
 matter        verb
 mature        verb
+maul verb
 max verb
 maximize      verb gb=maximise|maximize
 mean          verb past=meant pp=meant
@@ -94,6 +95,7 @@ mistrust verb
 mistype verb
 misunderstand verb prefix=mis past=misunderstood pp=misunderstood
 misuse        verb
+misvalue verb conf=90 note=chiefly financial and government jargon
 mitigate      verb
 mix           verb
 moan verb

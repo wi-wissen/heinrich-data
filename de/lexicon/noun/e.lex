@@ -68,6 +68,7 @@ Einer noun g=m gen=Einers pl=Einer
 Einfachheit noun g=f gen=Einfachheit pl=- note=no plural
 Einfahrt noun g=f gen=Einfahrt pl=Einfahrten
 Einfall noun g=m gen=Einfalls|Einfalles pl=Einfälle
+Einfalt noun g=f gen=Einfalt pl=- note=mass noun
 Einfamilienhaus noun g=n gen=Einfamilienhauses pl=Einfamilienhäuser
 Einfluss noun g=m gen=Einflusses pl=Einflüsse
 Einflussnahme noun g=f gen=Einflussnahme pl=Einflussnahmen
@@ -77,6 +78,7 @@ Eingabe noun g=f gen=Eingabe pl=Eingaben
 Eingabetaste noun g=f gen=Eingabetaste pl=Eingabetasten
 Eingang noun g=m gen=Eingangs|Einganges pl=Eingänge
 Eingeborene noun g=m|f decl=adj
+Eingeborne noun g=m|f decl=adj style=archaic note=older elided variant of Eingeborene (die Eingebornen)
 Eingemeindung noun g=f gen=Eingemeindung pl=Eingemeindungen
 Eingeweide noun g=pl
 Eingliederung noun g=f gen=Eingliederung pl=- note=no plural
@@ -187,6 +189,7 @@ Elend noun g=n gen=Elends pl=- note=no plural
 Elf noun g=m gen=Elfen pl=Elfen sense=creature note=der Elf (mythical being)
 Elf noun g=f gen=Elf pl=Elfen sense=team note=die Elf (football team)
 Elfe noun g=f gen=Elfe pl=Elfen
+Elfenbein noun g=n gen=Elfenbeins pl=- note=mass noun
 Elfmeter noun g=m gen=Elfmeters pl=Elfmeter
 Elite noun g=f gen=Elite pl=Eliten
 Ellbogen noun g=m gen=Ellbogens pl=Ellbogen
@@ -252,6 +255,7 @@ Enthaltung noun g=f gen=Enthaltung pl=Enthaltungen
 Enthusiasmus noun g=m gen=Enthusiasmus pl=- note=no plural
 Entlassung noun g=f gen=Entlassung pl=Entlassungen
 Entlastung noun g=f gen=Entlastung pl=Entlastungen
+Entlohnung noun g=f gen=Entlohnung pl=Entlohnungen
 Entnahme noun g=f gen=Entnahme pl=Entnahmen
 Entomologe noun g=m gen=Entomologen pl=Entomologen
 Entrichtung noun g=f gen=Entrichtung pl=Entrichtungen
@@ -283,11 +287,13 @@ Epik noun g=f gen=Epik pl=- note=no plural
 Epilog noun g=m gen=Epilogs pl=Epiloge
 Episode noun g=f gen=Episode pl=Episoden
 Epitaph noun g=n gen=Epitaphs pl=Epitaphe
+Epitheton noun g=n gen=Epithetons pl=Epitheta
 Epoche noun g=f gen=Epoche pl=Epochen
 Epos noun g=n gen=Epos pl=Epen note=Latin loanword; genitive without -es
 Erachten noun g=n gen=Erachtens pl=- note=only in meines Erachtens
 Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
+Erbauer noun g=m gen=Erbauers pl=Erbauer
 Erbauung noun g=f gen=Erbauung pl=- note=no plural
 Erbe noun g=m gen=Erben pl=Erben sense=heir note=der Erbe
 Erbe noun g=n gen=Erbes pl=- sense=inheritance note=das Erbe
@@ -329,6 +335,7 @@ Erkältung noun g=f gen=Erkältung pl=Erkältungen
 Erkenntnis noun g=f gen=Erkenntnis pl=Erkenntnisse
 Erkenntniß noun g=f gen=Erkenntniß pl=Erkenntnisse spelling=old style=archaic note=old spelling of Erkenntnis
 Erkennung noun g=f gen=Erkennung pl=Erkennungen
+Erker noun g=m gen=Erkers pl=Erker
 Erklärung noun g=f gen=Erklärung pl=Erklärungen
 Erkrankung noun g=f gen=Erkrankung pl=Erkrankungen
 Erkundung noun g=f gen=Erkundung pl=Erkundungen
@@ -468,6 +475,7 @@ Experiment noun g=n gen=Experiments|Experimentes pl=Experimente
 Experte noun g=m gen=Experten pl=Experten
 Expertise noun g=f gen=Expertise pl=Expertisen
 Explosion noun g=f gen=Explosion pl=Explosionen
+Exponat noun g=n gen=Exponats|Exponates pl=Exponate
 Exponent noun g=m gen=Exponenten pl=Exponenten
 Export noun g=m gen=Exports|Exportes pl=Exporte
 Exporteur noun g=m gen=Exporteurs pl=Exporteure
@@ -475,5 +483,6 @@ Exporteurin noun g=f gen=Exporteurin pl=Exporteurinnen
 Exposition noun g=f gen=Exposition pl=Expositionen
 Expressionismus noun g=m gen=Expressionismus pl=- note=no plural
 Extremismus noun g=m gen=Extremismus pl=- note=no plural
+Extremist noun g=m gen=Extremisten pl=Extremisten
 Extremität noun g=f gen=Extremität pl=Extremitäten
 Exzellenz noun g=f gen=Exzellenz pl=Exzellenzen

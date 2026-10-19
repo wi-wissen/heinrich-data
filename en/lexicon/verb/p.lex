@@ -41,6 +41,7 @@ patch verb
 patent verb
 patrol verb double
 patronize verb gb=patronise|patronize
+patter verb
 pattern verb
 pause verb
 pave verb
@@ -193,6 +194,7 @@ prefer verb double
 prejudice verb
 preload verb
 premiere verb
+prep verb
 prepare verb
 prepay verb prefix=pre past=prepaid pp=prepaid
 prerecord verb
@@ -246,6 +248,7 @@ prophesy verb
 propose verb
 propound verb
 prorate verb conf=85
+prorogue verb
 proscribe verb
 prosecute verb
 prospect verb

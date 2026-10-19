@@ -9,7 +9,9 @@ beiseite adv
 beispielsweise adv
 bekanntermaßen adv type=modal
 bekanntlich adv
+bergab adv
 bergauf adv type=direction
+bestenfalls adv
 bestens adv
 bisweilen adv
 brutto adv note=2000 Euro brutto

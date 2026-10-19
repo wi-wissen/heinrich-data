@@ -47,6 +47,7 @@ bespoke adj
 bestselling adj
 biannual adj adv=biannually
 biblical adj
+bicentennial adj
 biennial adj
 big adj cmp=er
 bilateral adj adv=bilaterally
@@ -69,9 +70,11 @@ bitter adj cmp=er|more adv=bitterly
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
+bladed adj
 blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
 blank adj adv=blankly
+blasphemous adj cmp=more adv=blasphemously
 blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
@@ -89,6 +92,7 @@ bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
+bonny adj cmp=er region=GB
 bony adj cmp=er
 bored adj cmp=more
 boring adj cmp=more adv=boringly

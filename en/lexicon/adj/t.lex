@@ -136,6 +136,7 @@ triumphal adj
 triumphant adj adv=triumphantly
 trivial adj
 Trojan adj
+trophic adj
 tropical adj
 troublesome adj
 true adj cmp=er adv=truly

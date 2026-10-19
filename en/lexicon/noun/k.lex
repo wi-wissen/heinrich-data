@@ -23,6 +23,7 @@ key            noun
 keyboard       noun
 keyboardist noun
 keycard noun conf=85
+keyhole noun
 keynote noun
 keypad noun
 keystone noun

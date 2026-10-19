@@ -29,11 +29,14 @@ anymore adv type=time note=British usually any more
 anytime adv type=time
 anyway adv type=conj
 anywhere adv type=place
+apace adv type=manner
 apart adv type=place
 apiece adv
 aright adv type=manner style=archaic
 ashore adv type=place
 aside adv type=place
+askance adv type=manner
+askew adv type=manner
 astern adv type=place
 astray adv
 asunder adv

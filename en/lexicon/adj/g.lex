@@ -51,12 +51,14 @@ glacial adj
 glad           adj cmp=er adv=gladly
 glamorous adj cmp=more adv=glamorously
 glassy adj cmp=er
+gleeful adj cmp=more adv=gleefully
 glittery adj
 global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
 glossy adj cmp=er
 gloved adj
+gnarled adj
 godlike adj
 golden         adj
 good           adj cmp=better sup=best adv=well

@@ -110,6 +110,7 @@ krankmelden verb class=weak sep=krank pp=krankgemeldet perf=haben refl=acc note=
 krankschreiben verb class=strong sep=krank 3sg=krankschreibt past=krankschrieb pp=krankgeschrieben subj2=krankschriebe perf=haben note=also written krank schreiben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kraulen verb class=weak pp=gekrault perf=haben
+kreieren verb class=weak pp=kreiert perf=haben
 kreischen verb class=weak pp=gekreischt perf=haben
 kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
@@ -122,9 +123,11 @@ krönen verb class=weak pp=gekrönt perf=haben
 krümmen verb class=weak pp=gekrümmt perf=haben refl=acc
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
+kultivieren verb class=weak pp=kultiviert perf=haben pp_cmp note=ein kultivierter Mensch
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
 kupieren verb class=weak pp=kupiert perf=haben
+küren verb class=weak pp=gekürt perf=haben
 kurieren verb class=weak pp=kuriert perf=haben
 kurven verb class=weak pp=gekurvt perf=sein
 kürzen verb class=weak pp=gekürzt perf=haben

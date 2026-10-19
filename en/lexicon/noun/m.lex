@@ -21,6 +21,7 @@ magazine       noun
 magic          noun pl=- note=uncountable
 magician noun
 magistrate     noun
+magma noun
 magnanimity noun pl=- note=uncountable
 magnate noun
 magnesium noun pl=- note=uncountable
@@ -37,6 +38,7 @@ maiden         noun
 mail           noun
 mailbox noun region=US
 mailing        noun
+mailpiece noun conf=90 note=postal jargon
 mailroom noun
 main           noun
 mainframe noun
@@ -98,6 +100,7 @@ mankind        noun pl=- note=uncountable
 manliness noun pl=- note=uncountable
 mannequin noun
 manner         noun
+mannerism noun
 manor          noun
 manpower noun pl=- note=uncountable
 manse noun
@@ -170,6 +173,8 @@ mate           noun
 mater noun note=mainly in alma mater, dura mater; dated British for mother
 material       noun
 materialism noun pl=- note=uncountable
+materiality noun
+materiel noun pl=- conf=90 note=uncountable; also written matériel
 maternity      noun pl=- note=uncountable
 math           noun pl=- region=US note=British maths
 mathematician  noun
@@ -181,6 +186,7 @@ matron noun
 matter         noun
 mattress noun
 maturity       noun
+maul noun
 mausoleum noun pl=mausoleums|mausolea
 max noun style=colloquial note=to the max; short for maximum
 maxim noun
@@ -228,6 +234,7 @@ megabyte noun
 megawatt noun
 melancholy     noun pl=- note=uncountable
 melanoma noun
+melee noun conf=90 note=also written mêlée
 melodrama noun
 melody         noun
 melon noun
@@ -271,6 +278,8 @@ metamorphosis noun pl=metamorphoses
 metaphor noun
 metaphysics noun pl=- note=takes a singular verb
 meteor noun
+meteorite noun
+meteorology noun pl=- note=uncountable
 meter          noun gb=metre sense=unit
 meter          noun sense=device
 methane        noun pl=- note=uncountable
@@ -282,6 +291,7 @@ methylation noun
 metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
+mettle noun pl=- note=uncountable
 Mexican        noun
 microbe noun
 microchip noun
@@ -304,6 +314,7 @@ midfielder     noun
 midland noun note=the middle region of a country; the Midlands (England)
 midnight       noun
 midpoint noun
+midrash noun pl=midrashim|midrashes conf=80 note=Hebrew loanword; plural forms unsure
 midshipman noun pl=midshipmen
 midst          noun pl=- note=only singular (in the midst of)
 midsummer noun pl=- note=uncountable
@@ -319,9 +330,11 @@ mil noun conf=90 note=thousandth of an inch; colloquially a million
 mile           noun
 mileage noun
 milestone      noun
+milieu noun pl=milieus|milieux
 militant noun
 military       noun
 militia        noun
+militiaman noun pl=militiamen
 milk           noun
 milkshake noun
 mill           noun
@@ -348,6 +361,7 @@ minion noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
+mink noun pl=mink|minks
 minke noun
 minor          noun
 minority       noun
@@ -396,6 +410,7 @@ mite noun
 mitigation     noun
 mitochondrion noun pl=mitochondria
 mitten noun
+mitzvah noun pl=mitzvot|mitzvahs conf=80 note=Hebrew loanword; plural forms unsure
 mix            noun
 mixer noun
 mixture        noun
@@ -406,6 +421,7 @@ mob            noun
 mobile         noun
 mobility       noun
 mobilization noun gb=mobilisation|mobilization
+mobster noun
 moccasin noun
 mockery noun
 mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
@@ -452,6 +468,7 @@ monograph noun
 monologue noun
 monopile noun
 monoplane      noun
+monopole noun
 monopoly       noun
 monotony noun pl=- note=uncountable
 monoxide noun
@@ -474,8 +491,10 @@ moraine noun
 moral          noun
 morale noun pl=- note=uncountable
 morality       noun
+morass noun
 moratorium     noun pl=moratoria|moratoriums
 moray noun
+morbidity noun
 Mormon noun
 morn noun style=archaic note=poetic for morning
 morning        noun

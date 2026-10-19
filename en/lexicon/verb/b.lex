@@ -45,6 +45,7 @@ become verb prefix=be past=became pp=become
 bed verb
 beef verb
 befall verb prefix=be past=befell pp=befallen
+befit verb double
 befriend verb
 beg verb
 begin verb past=began pp=begun double
@@ -55,6 +56,7 @@ behold verb prefix=be past=beheld pp=beheld
 believe verb
 bellow verb
 belong verb
+belt verb
 benchmark verb
 bend verb past=bent pp=bent
 benefit verb past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
@@ -164,6 +166,7 @@ brim verb
 brine verb
 bring verb past=brought pp=brought
 bristle verb
+broach verb
 broadcast verb past=broadcast pp=broadcast
 broaden verb
 broker verb
@@ -175,6 +178,7 @@ brush verb
 bubble verb
 buckle verb
 bud verb
+budge verb
 budget verb
 buff verb
 buffet verb

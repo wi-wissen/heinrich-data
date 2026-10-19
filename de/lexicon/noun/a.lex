@@ -56,6 +56,7 @@ Abonnement noun g=n gen=Abonnements pl=Abonnements
 Abonnent noun g=m gen=Abonnenten pl=Abonnenten
 Abonnentin noun g=f gen=Abonnentin pl=Abonnentinnen
 Abordnung noun g=f gen=Abordnung pl=Abordnungen
+Aborigine noun g=m gen=Aborigine|Aborigines pl=Aborigines conf=75 note=loanword; mostly the plural die Aborigines
 Abpfiff noun g=m gen=Abpfiffs|Abpfiffes pl=Abpfiffe
 Abrechnung noun g=f gen=Abrechnung pl=Abrechnungen
 Abreise noun g=f gen=Abreise pl=Abreisen
@@ -125,6 +126,7 @@ Acker noun g=m gen=Ackers pl=Äcker
 Ackerbau noun g=m gen=Ackerbaus|Ackerbaues pl=- note=no plural
 Action noun g=f gen=Action pl=- note=English loan; no plural
 Adapter noun g=m gen=Adapters pl=Adapter
+Adaption noun g=f gen=Adaption pl=Adaptionen
 Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
 Adel noun g=m gen=Adels pl=- note=mass noun
@@ -158,6 +160,7 @@ Advokatin noun g=f gen=Advokatin pl=Advokatinnen
 Aerobic noun g=n gen=Aerobics pl=- note=no plural (mass or abstract noun)
 Affäre noun g=f gen=Affäre pl=Affären
 Affe noun g=m gen=Affen pl=Affen
+Affekt noun g=m gen=Affekts|Affektes pl=Affekte
 Afrikameisterschaft noun g=f gen=Afrikameisterschaft pl=Afrikameisterschaften note=listed because a proper-name modifier is not derived by the compound analysis
 Afrikanerin noun g=f gen=Afrikanerin pl=Afrikanerinnen
 Afroamerikaner noun g=m gen=Afroamerikaners pl=Afroamerikaner
@@ -169,6 +172,8 @@ Agent noun g=m gen=Agenten pl=Agenten
 Agentin noun g=f gen=Agentin pl=Agentinnen
 Agentur noun g=f gen=Agentur pl=Agenturen
 Aggregatzustand noun g=m gen=Aggregatzustands|Aggregatzustandes pl=Aggregatzustände
+Aggression noun g=f gen=Aggression pl=Aggressionen
+Agitation noun g=f gen=Agitation pl=Agitationen
 Agrarpolitik noun g=f gen=Agrarpolitik pl=- note=no plural
 Ägypter noun g=m gen=Ägypters pl=Ägypter
 Ägypterin noun g=f gen=Ägypterin pl=Ägypterinnen
@@ -186,6 +191,7 @@ Akademiker noun g=m gen=Akademikers pl=Akademiker
 Akademikerin noun g=f gen=Akademikerin pl=Akademikerinnen
 Akkord noun g=m gen=Akkords|Akkordes pl=Akkorde
 Akkordeon noun g=n gen=Akkordeons pl=Akkordeons
+Akkreditierung noun g=f gen=Akkreditierung pl=Akkreditierungen
 Akku noun g=m gen=Akkus pl=Akkus
 Akkusativ noun g=m gen=Akkusativs pl=Akkusative
 Akquise noun g=f gen=Akquise pl=Akquisen
@@ -236,6 +242,7 @@ Allradantrieb noun g=m gen=Allradantriebs|Allradantriebes pl=Allradantriebe
 Alltag noun g=m gen=Alltags|Alltages pl=- note=mass noun
 Alm noun g=f gen=Alm pl=Almen
 Almosen noun g=n gen=Almosens pl=Almosen
+Aloe noun g=f gen=Aloe pl=Aloen
 Alpaka noun g=n gen=Alpakas pl=Alpakas
 Alpha noun g=n gen=Alphas pl=Alphas
 Alphabet noun g=n gen=Alphabets pl=Alphabete
@@ -252,11 +259,13 @@ Alterssicherung noun g=f gen=Alterssicherung pl=- note=no plural
 Altersversorgung noun g=f gen=Altersversorgung pl=- note=mass noun
 Altersvorsorge noun g=f gen=Altersvorsorge pl=- note=mass noun
 Altertum noun g=n gen=Altertums pl=Altertümer note=the ancient world; plural for antiquities
+Ältestenrat noun g=m gen=Ältestenrats|Ältestenrates pl=Ältestenräte
 Altstadt noun g=f gen=Altstadt pl=Altstädte
 Alufolie noun g=f gen=Alufolie pl=Alufolien
 Aluminium noun g=n gen=Aluminiums pl=- note=mass noun
 Amateur noun g=m gen=Amateurs pl=Amateure
 Amateurin noun g=f gen=Amateurin pl=Amateurinnen
+Ambition noun g=f gen=Ambition pl=Ambitionen
 Ameise noun g=f gen=Ameise pl=Ameisen
 Amen noun g=n gen=Amens pl=Amen
 Amerikaner noun g=m gen=Amerikaners pl=Amerikaner
@@ -280,6 +289,7 @@ Analytik noun g=f gen=Analytik pl=- note=mass noun
 Ananas noun g=f gen=Ananas pl=Ananas|Ananasse
 Anapäst noun g=m gen=Anapästs|Anapästes pl=Anapäste
 Anapher noun g=f gen=Anapher pl=Anaphern
+Anarchist noun g=m gen=Anarchisten pl=Anarchisten
 Anatomie noun g=f gen=Anatomie pl=Anatomien
 Anbau noun g=m gen=Anbaus|Anbaues pl=Anbauten note=cultivation (mass) and extension of a building (Anbauten)
 Anberaumung noun g=f gen=Anberaumung pl=Anberaumungen
@@ -298,6 +308,7 @@ Anerbieten noun g=n gen=Anerbietens pl=Anerbieten note=lexicalised: offer (eleva
 Anerkennung   noun g=f gen=Anerkennung pl=Anerkennungen
 Anfall noun g=m gen=Anfalls|Anfalles pl=Anfälle
 Anfang        noun g=m gen=Anfangs|Anfanges pl=Anfänge
+Anfänger noun g=m gen=Anfängers pl=Anfänger
 Anfechtung noun g=f gen=Anfechtung pl=Anfechtungen
 Anfertigung noun g=f gen=Anfertigung pl=Anfertigungen
 Anforderung   noun g=f gen=Anforderung pl=Anforderungen
@@ -360,6 +371,7 @@ Annäherung noun g=f gen=Annäherung pl=Annäherungen
 Annahme       noun g=f gen=Annahme pl=Annahmen
 Annalen noun g=pl
 Annexion noun g=f gen=Annexion pl=Annexionen
+Anomalie noun g=f gen=Anomalie pl=Anomalien
 Anorak noun g=m gen=Anoraks pl=Anoraks
 Anordnung     noun g=f gen=Anordnung pl=Anordnungen
 Anpassung     noun g=f gen=Anpassung pl=Anpassungen
@@ -403,6 +415,7 @@ Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
 Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
+Antiqua noun g=f gen=Antiqua pl=- note=typeface
 Antisemitismus noun g=m gen=Antisemitismus pl=- note=mass noun
 Antithese noun g=f gen=Antithese pl=Antithesen
 Antlitz noun g=n gen=Antlitzes pl=Antlitze note=elevated
@@ -453,6 +466,7 @@ Aprikose noun g=f gen=Aprikose pl=Aprikosen
 April         noun g=m gen=April|Aprils pl=- note=month name
 Apsis noun g=f gen=Apsis pl=Apsiden
 Aquädukt noun g=m|n gen=Aquädukts|Aquäduktes pl=Aquädukte
+Aquarell noun g=n gen=Aquarells pl=Aquarelle
 Aquarium noun g=n gen=Aquariums pl=Aquarien
 Äquator noun g=m gen=Äquators pl=- note=no plural
 Äquivalent noun g=n gen=Äquivalents|Äquivalentes pl=Äquivalente
@@ -469,6 +483,7 @@ Arbeitnehmerin noun g=f gen=Arbeitnehmerin pl=Arbeitnehmerinnen
 Arbeitsblatt noun g=n gen=Arbeitsblatts|Arbeitsblattes pl=Arbeitsblätter
 Arbeitslose noun g=m|f decl=adj
 Arbeitslosigkeit noun g=f gen=Arbeitslosigkeit pl=- note=mass noun
+Arbeitsuchende noun g=m|f decl=adj note=also Arbeitssuchende
 Archäologe noun g=m gen=Archäologen pl=Archäologen
 Archäologie noun g=f gen=Archäologie pl=- note=no plural
 Archäologin noun g=f gen=Archäologin pl=Archäologinnen
@@ -522,10 +537,12 @@ Aschenbrödel noun g=n gen=Aschenbrödels pl=Aschenbrödel
 Aschermittwoch noun g=m gen=Aschermittwochs pl=Aschermittwoche
 Asiat noun g=m gen=Asiaten pl=Asiaten
 Asiatin noun g=f gen=Asiatin pl=Asiatinnen
+Asienmeisterschaft noun g=f gen=Asienmeisterschaft pl=Asienmeisterschaften note=compound with a proper name as first part
 Aspekt noun g=m gen=Aspekts|Aspektes pl=Aspekte
 Asphalt noun g=m gen=Asphalts|Asphaltes pl=Asphalte
 Assel noun g=f gen=Assel pl=Asseln
 Assessment-Center noun g=n gen=Assessment-Centers pl=Assessment-Center
+Assessor noun g=m gen=Assessors pl=Assessoren
 Assistent noun g=m gen=Assistenten pl=Assistenten
 Assistentin noun g=f gen=Assistentin pl=Assistentinnen
 Assistenz noun g=f gen=Assistenz pl=Assistenzen
@@ -703,6 +720,7 @@ Außerirdische noun g=m|f decl=adj
 Äußerung noun g=f gen=Äußerung pl=Äußerungen
 Aussetzung noun g=f gen=Aussetzung pl=Aussetzungen
 Aussicht      noun g=f gen=Aussicht pl=Aussichten
+Aussöhnung noun g=f gen=Aussöhnung pl=Aussöhnungen
 Aussprache    noun g=f gen=Aussprache pl=Aussprachen
 Ausspruch noun g=m gen=Ausspruchs|Ausspruches pl=Aussprüche
 Ausstattung   noun g=f gen=Ausstattung pl=Ausstattungen
@@ -721,6 +739,7 @@ Australierin noun g=f gen=Australierin pl=Australierinnen
 Austritt noun g=m gen=Austritts|Austrittes pl=Austritte
 Ausübung      noun g=f gen=Ausübung pl=- note=no regular plural
 Auswahl       noun g=f gen=Auswahl pl=- note=no regular plural
+Auswärtsspiel noun g=n gen=Auswärtsspiels|Auswärtsspieles pl=Auswärtsspiele note=adverb as first part, not analysed
 Ausweg noun g=m gen=Auswegs|Ausweges pl=Auswege
 Ausweis noun g=m gen=Ausweises pl=Ausweise
 Ausweisung noun g=f gen=Ausweisung pl=Ausweisungen

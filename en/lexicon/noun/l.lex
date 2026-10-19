@@ -39,6 +39,7 @@ landing       noun
 landlady noun
 landlord      noun
 landmark      noun
+landmass noun
 landowner     noun
 landscape     noun
 landslide noun
@@ -47,6 +48,7 @@ language      noun
 languor noun pl=- note=usually uncountable
 Lankan noun note=only in Sri Lankan
 lantern       noun
+lanthorn noun style=archaic note=archaic form of lantern
 lanyard noun
 Lao noun pl=Lao
 lap           noun
@@ -80,6 +82,7 @@ lava noun
 lavatory noun
 lavender noun
 law           noun
+lawlessness noun pl=- note=uncountable
 lawmaker noun
 lawn          noun
 lawnmower noun
@@ -148,6 +151,7 @@ lesion noun
 lessee        noun
 lesson        noun
 lessor noun
+lethargy noun pl=- note=uncountable
 letter        noun
 letterbox noun region=GB
 letterhead noun
@@ -170,6 +174,7 @@ liberalism noun pl=- note=uncountable
 liberality noun
 liberalization noun gb=liberalisation|liberalization
 liberation    noun
+liberator noun
 libertarian noun
 liberty       noun
 librarian noun
@@ -282,6 +287,7 @@ loch          noun pl=lochs note=Scottish lake
 lock          noun
 lockdown      noun
 locker noun
+locket noun
 locksmith noun
 locomotion noun pl=- note=uncountable
 locomotive    noun
@@ -292,6 +298,7 @@ lodger noun
 lodging       noun
 loft noun
 log           noun
+logarithm noun
 logbook noun
 logic         noun
 login noun
@@ -331,6 +338,7 @@ love          noun
 loveliness noun
 lover         noun
 low           noun
+lowercase noun pl=- note=uncountable
 lowland noun
 loyalist noun
 loyalty       noun

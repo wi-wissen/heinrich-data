@@ -3,6 +3,7 @@ yak noun
 Yank noun style=colloquial note=an American
 yank noun
 Yankee noun note=demonym or religious name, capitalized
+yap noun
 yard noun
 yarn noun
 yawn noun
@@ -12,6 +13,7 @@ yearning noun
 yeast noun
 yell noun
 yellow noun
+yeoman noun pl=yeomen
 yesterday noun
 yid noun style=offensive note=antisemitic slur
 yield noun

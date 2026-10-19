@@ -29,6 +29,7 @@ Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
 headless adj
+headstrong adj cmp=more
 healthful adj cmp=more
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
@@ -116,6 +117,7 @@ hydrologic adj
 hydrophobic adj
 hyperbaric adj
 hyperbolic adj
+hypnotic adj adv=hypnotically
 hypocritical adj cmp=more adv=hypocritically
 hypothetical   adj adv=hypothetically
 hysterical adj adv=hysterically

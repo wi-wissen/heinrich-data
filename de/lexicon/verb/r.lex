@@ -100,6 +100,7 @@ reizen verb class=weak pp=gereizt perf=haben
 reklamieren verb class=weak pp=reklamiert perf=haben
 rekonstruieren verb class=weak pp=rekonstruiert perf=haben
 rekrutieren verb class=weak pp=rekrutiert perf=haben
+relativieren verb class=weak pp=relativiert perf=haben
 relaxen verb class=weak pp=gerelaxt perf=haben
 rempeln verb class=weak pp=gerempelt perf=haben
 rennen verb class=mixed 3sg=rennt past=rannte pp=gerannt subj2=rennte perf=sein|haben
@@ -108,6 +109,7 @@ reparieren verb class=weak pp=repariert perf=haben
 repräsentieren verb class=weak pp=repräsentiert perf=haben
 reservieren verb class=weak pp=reserviert perf=haben
 resetten verb class=weak pp=resettet perf=haben conf=80 note=IT jargon; participle resettet without ge- (stress on the second syllable)
+residieren verb class=weak pp=residiert perf=haben
 respektieren verb class=weak pp=respektiert perf=haben
 restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben

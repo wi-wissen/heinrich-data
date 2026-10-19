@@ -3,6 +3,7 @@ lachen verb class=weak pp=gelacht perf=haben
 lackieren verb class=weak pp=lackiert perf=haben
 laden verb class=strong 3sg=lädt past=lud pp=geladen subj2=lüde perf=haben
 lagern verb class=weak pp=gelagert perf=haben
+lähmen verb class=weak pp=gelähmt perf=haben
 lamentieren verb class=weak pp=lamentiert perf=haben
 laminieren verb class=weak pp=laminiert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
@@ -38,6 +39,7 @@ lichten verb class=weak pp=gelichtet perf=haben refl=acc note=Anker lichten; der
 lieben verb class=weak pp=geliebt perf=haben
 liefern verb class=weak pp=geliefert perf=haben
 liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|sein note=perf with sein in southern Germany/AT/CH
+liieren verb class=weak pp=liiert perf=haben refl=acc note=mit jemandem liiert sein
 liken verb class=weak pp=gelikt perf=haben
 lindern verb class=weak pp=gelindert perf=haben
 linsen verb class=weak pp=gelinst perf=haben

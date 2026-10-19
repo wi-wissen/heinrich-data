@@ -152,6 +152,7 @@ trespass verb
 trial verb
 trick verb
 trickle verb
+trifle verb
 trigger verb
 trim verb
 trip verb

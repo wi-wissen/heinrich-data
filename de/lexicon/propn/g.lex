@@ -21,6 +21,7 @@ Granada propn g=n gen=Granadas pl=- note=city in Spain
 Graubünden propn g=n gen=Graubündens pl=- demonym=Bündner note=Swiss canton
 Graz propn g=n gen=Graz pl=- demonym=Grazer note=proper name; no plural
 Greifswald propn g=n gen=Greifswalds pl=- note=city in Mecklenburg-Western Pomerania
+Greiz propn g=n gen=Greiz pl=- note=town in Thuringia; s-sound, bare genitive
 Griechenland propn g=n gen=Griechenlands pl=- note=place name; no plural
 Groningen propn g=n gen=Groningens pl=- note=city in the Netherlands
 Großbritannien propn g=n gen=Großbritanniens pl=- note=place name; no plural

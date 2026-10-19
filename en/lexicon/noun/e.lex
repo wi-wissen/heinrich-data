@@ -95,6 +95,7 @@ elk noun pl=elk|elks
 ellipse noun
 ellipsoid noun
 elm noun
+elongation noun
 eloquence noun pl=- note=uncountable
 em noun
 email noun
@@ -179,11 +180,13 @@ enlargement noun
 enlightenment noun
 enlistment noun
 enmity noun
+ennui noun pl=- note=uncountable
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
 ensemble noun
 ensign noun
+enslavement noun pl=- note=uncountable
 entanglement noun
 enterprise noun
 entertainer noun
@@ -230,6 +233,7 @@ equation noun
 equator noun
 equilibrium noun pl=equilibria|equilibriums
 equine noun
+equinox noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
@@ -279,9 +283,11 @@ ethic noun
 Ethiopian noun
 ethnicity noun
 ethos noun pl=- note=uncountable
+ethylene noun pl=- note=uncountable
 etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
+eugenics noun pl=- note=uncountable, singular agreement
 eukaryote noun
 eulogy noun
 eunuch noun pl=eunuchs
@@ -305,6 +311,7 @@ evil noun
 evolution noun
 ewe noun
 ex noun conf=90 note=former partner
+exactness noun pl=- note=uncountable
 exaggeration noun
 exaltation noun
 exam noun
@@ -407,3 +414,4 @@ eyebrow noun
 eyelash noun
 eyelid noun
 eyesight noun pl=- note=uncountable
+eyewitness noun

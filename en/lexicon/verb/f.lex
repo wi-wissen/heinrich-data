@@ -74,6 +74,7 @@ flavor         verb gb=flavour
 flee           verb past=fled pp=fled
 fleece verb
 flesh verb
+flex verb
 flicker verb
 fling          verb past=flung pp=flung
 flip verb
@@ -112,6 +113,7 @@ foreclose verb
 forego verb prefix=fore past=forewent pp=foregone note=also a spelling of forgo
 foreground verb
 foresee verb prefix=fore past=foresaw pp=foreseen
+foreshadow verb
 foretell verb prefix=fore past=foretold pp=foretold
 forfeit verb
 forge          verb
@@ -148,6 +150,7 @@ fringe verb
 frolic verb
 front          verb
 frost          verb
+froth verb
 frown          verb
 frustrate      verb
 fry verb

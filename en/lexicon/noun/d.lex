@@ -13,6 +13,7 @@ dam noun
 damage noun
 damask noun
 dame noun
+damnation noun pl=- note=uncountable
 damp noun
 damsel noun
 dan noun conf=80 note=grade in martial arts
@@ -91,6 +92,7 @@ deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
 deconstruction noun
+decontamination noun pl=- note=uncountable
 decoration noun
 decrease noun
 decree noun
@@ -110,6 +112,7 @@ defection noun
 defendant noun
 defender noun
 defense noun gb=defence
+defenseman noun pl=defensemen gb=defenceman conf=90 note=ice hockey term, chiefly North American; British spelling assumed from defence
 defensive noun note=on the defensive
 deference noun pl=- note=uncountable
 deferment noun
@@ -166,6 +169,7 @@ demonstrator noun
 demotion noun
 den noun
 denial noun
+denim noun
 denomination noun
 denominator noun
 density noun
@@ -200,12 +204,14 @@ deprivation noun
 depth noun
 deputation noun
 deputy noun
+derailment noun
 derby noun
 deregulation noun pl=- note=uncountable
 derelict noun
 derision noun pl=- note=uncountable
 derivation noun
 derivative noun
+derogation noun
 descendant noun
 descent noun
 description noun
@@ -272,6 +278,7 @@ diagonal noun
 diagram noun
 dial noun
 dialect noun
+dialectic noun
 dialogue noun us=dialog|dialogue conf=90 note=dialog is an American variant, mostly in computing
 dialysis noun pl=dialyses
 diameter noun
@@ -347,6 +354,7 @@ disbelief noun pl=- note=uncountable
 disbursement noun
 disc noun
 discard noun
+discernment noun pl=- note=uncountable
 discharge noun
 disciple noun
 discipline noun
@@ -358,6 +366,7 @@ discomfort noun
 discontent noun
 discontinuance noun
 discontinuation noun
+discontinuity noun
 discord noun
 discount noun
 discourse noun
@@ -385,6 +394,7 @@ disinvestment noun
 disk noun
 dislike noun
 dislocation noun
+disloyalty noun
 dismay noun
 dismissal noun
 disobedience noun pl=- note=uncountable
@@ -491,6 +501,7 @@ donkey noun
 donor noun
 doodle noun
 doom noun
+doomsday noun
 door noun
 doorbell noun
 doorknob noun
@@ -568,6 +579,7 @@ dropdown noun conf=85 note=also drop-down
 droplet noun
 drought noun
 drove noun note=herd or crowd, usually in droves
+drudgery noun pl=- note=uncountable
 drug noun
 drum noun
 drummer noun
@@ -616,5 +628,6 @@ dynamism noun pl=- note=uncountable
 dynamite noun pl=- note=uncountable
 dynamo noun pl=dynamos
 dynasty noun
+dysentery noun pl=- note=uncountable
 dysfunction noun
 dysphoria noun

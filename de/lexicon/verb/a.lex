@@ -395,6 +395,7 @@ archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
 arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
+asphaltieren verb class=weak pp=asphaltiert perf=haben
 assistieren verb class=weak pp=assistiert perf=haben
 assoziieren verb class=weak pp=assoziiert perf=haben
 atmen         verb class=weak pp=geatmet perf=haben
@@ -547,6 +548,7 @@ aufzwingen verb class=strong sep=auf 3sg=aufzwingt past=aufzwang subj2=aufzwäng
 ausarbeiten verb class=weak sep=aus pp=ausgearbeitet perf=haben
 ausbauen verb class=weak sep=aus pp=ausgebaut perf=haben
 ausbessern verb class=weak sep=aus pp=ausgebessert perf=haben
+ausbeuten verb class=weak sep=aus pp=ausgebeutet perf=haben
 ausbezahlen verb class=weak sep=aus pp=ausbezahlt perf=haben
 ausbilden verb class=weak sep=aus pp=ausgebildet perf=haben
 ausblasen verb class=strong sep=aus 3sg=ausbläst past=ausblies pp=ausgeblasen subj2=ausbliese perf=haben
