@@ -191,6 +191,7 @@ predominate verb
 preempt verb note=British texts mostly hyphenate (pre-empt)
 preface verb
 prefer verb double
+prefix verb
 prejudice verb
 preload verb
 premiere verb
@@ -216,6 +217,7 @@ pride verb note=reflexive: pride oneself on
 prime verb
 print verb
 prioritize verb gb=prioritise|prioritize
+privatize verb gb=privatise|privatize
 privilege verb
 prize verb
 probe verb

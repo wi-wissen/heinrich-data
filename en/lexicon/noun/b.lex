@@ -81,6 +81,7 @@ bar noun
 barb noun
 barbarian noun
 barbarism noun
+barbarity noun
 barbecue noun
 barber noun
 barcode noun
@@ -216,6 +217,7 @@ benefit noun
 benevolence noun pl=- note=uncountable
 Bengali noun
 benzene noun pl=- note=uncountable
+benzodiazepine noun
 bequest noun
 Berber noun
 bereavement noun
@@ -232,6 +234,7 @@ bey noun conf=90 note=Ottoman title, usually capitalized after a name
 bias noun
 bib noun
 bible noun
+bibliography noun
 bicentennial noun
 bicycle noun
 bid noun
@@ -289,6 +292,7 @@ bitcoin noun
 bite noun
 bitrate noun conf=80
 bitterness noun pl=- note=uncountable
+bivouac noun
 black noun
 blackberry noun
 blackbird noun
@@ -356,6 +360,7 @@ boardroom noun
 boardwalk noun
 boast noun
 boat noun
+boater noun
 boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
@@ -526,6 +531,7 @@ broccoli noun pl=- note=uncountable
 brochure noun
 broker noun
 brokerage noun
+bromide noun
 bronze noun
 brooch noun
 brood noun
@@ -578,6 +584,7 @@ bulkhead noun
 bull noun
 bullet noun
 bulletin noun
+bullhead noun
 bullion noun pl=- note=uncountable
 bullock noun
 bully noun
@@ -614,9 +621,11 @@ burp noun
 burrito noun pl=burritos
 burrow noun
 burst noun
+burthen noun style=archaic note=archaic spelling of burden
 bus noun
 bush noun
 bushel noun
+bushido noun pl=- note=uncountable
 business noun
 businessman noun pl=businessmen
 businessperson noun pl=businesspeople|businesspersons
@@ -636,6 +645,7 @@ buyback noun
 buyer noun
 buyout noun
 buzz noun
+buzzard noun
 bycatch noun pl=- note=uncountable
 bye noun note=in sport: a free pass to the next round
 byelaw noun region=GB conf=85 note=also bylaw

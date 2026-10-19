@@ -59,6 +59,7 @@ democratic adj cmp=more adv=democratically
 demographic adj
 demonstrable adj adv=demonstrably
 demonstrative adj adv=demonstratively
+demure adj cmp=er adv=demurely
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
@@ -70,6 +71,7 @@ depressed adj cmp=more
 depressive adj
 derelict adj
 derivative adj
+dermal adj
 derogatory adj
 descriptive adj
 designate adj note=the minister designate
@@ -107,6 +109,7 @@ diagonal adj adv=diagonally
 dielectric adj
 dietary adj
 different adj cmp=more adv=differently
+differentiable adj
 differential adj
 difficult adj cmp=more
 diffuse adj cmp=more
@@ -141,9 +144,11 @@ discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
 discretionary adj
 discriminatory adj
+disdainful adj cmp=more adv=disdainfully
 diseased adj
 disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
+dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
 disillusioned adj cmp=more
 disinterested adj
@@ -152,6 +157,7 @@ disjointed adj cmp=more adv=disjointedly
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
+disorganized adj gb=disorganised|disorganized
 disparate adj cmp=more
 disposable adj
 dispositive adj conf=90 note=legal register
@@ -194,6 +200,7 @@ dormant adj
 dorsal adj
 double adj
 doubtful adj cmp=more adv=doubtfully
+doughty adj cmp=er|more
 downcast adj
 downhill adj
 downloadable adj
@@ -205,6 +212,7 @@ downward adj
 downwind adj
 downy adj cmp=er
 drab adj cmp=er adv=drably
+draconian adj
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully

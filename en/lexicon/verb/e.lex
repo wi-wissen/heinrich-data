@@ -80,6 +80,7 @@ enjoy verb
 enlarge verb
 enlighten verb
 enlist verb
+enliven verb
 enrage verb
 enrich verb
 enroll verb gb=enrol double
@@ -156,6 +157,7 @@ exert verb
 exhaust verb
 exhibit verb
 exhilarate verb
+exhort verb
 exhume verb
 exile verb
 exist verb

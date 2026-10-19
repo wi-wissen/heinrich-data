@@ -58,6 +58,7 @@ harangue noun
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
 hardcover noun
+hardihood noun pl=- note=uncountable
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
@@ -67,10 +68,12 @@ hare noun
 harem noun
 harm           noun
 harmonica noun
+harmonization noun gb=harmonisation|harmonization
 harmony        noun
 harness        noun
 harp noun
 harpsichord noun
+harrier noun
 harshness noun pl=- note=uncountable
 hart noun
 harvest        noun
@@ -90,6 +93,7 @@ haunch noun
 haunt          noun
 haven          noun
 havoc noun pl=- note=uncountable
+haw noun note=hawthorn berry
 Hawaiian       noun
 hawk           noun
 hawthorn noun
@@ -125,8 +129,11 @@ heap           noun
 hearer noun
 hearing        noun
 hearsay noun pl=- note=uncountable
+hearse noun
 heart          noun
+heartache noun
 hearth         noun
+heartland noun
 heat           noun
 heater         noun
 heath noun
@@ -139,6 +146,7 @@ Hebrew         noun
 hectare        noun
 hedge          noun
 hedgehog noun
+hedgerow noun
 heed           noun
 heel           noun
 hegemony noun
@@ -167,6 +175,7 @@ hepatitis noun pl=- note=uncountable
 herald         noun
 heraldry noun pl=- note=uncountable
 herb noun
+herbage noun pl=- note=uncountable
 herd           noun
 heredity noun pl=- note=uncountable
 heresy noun
@@ -200,6 +209,7 @@ hijack noun
 hijacker noun
 hike           noun
 hiker noun
+hilarity noun pl=- note=uncountable
 hill           noun
 hillock noun
 hillside       noun
@@ -258,6 +268,7 @@ homework noun pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
 homology noun
+homophobia noun pl=- note=uncountable
 homosexual noun
 homosexuality noun
 honesty        noun pl=- note=uncountable
@@ -266,6 +277,7 @@ honeymoon noun
 honeysuckle noun
 honor          noun gb=honour
 honorarium noun pl=honoraria|honorariums
+honorific noun
 hood           noun
 hoodie noun
 hoof noun pl=hooves|hoofs
@@ -334,6 +346,7 @@ human          noun note=plural humans (not -men)
 humanist noun
 humanitarian   noun
 humanity       noun
+humankind noun pl=- note=uncountable
 humanoid noun
 humbug noun
 humidity       noun pl=- note=uncountable
@@ -343,6 +356,7 @@ hummingbird noun
 hummus noun pl=- note=uncountable
 humor          noun gb=humour
 humorist noun gb=humourist|humorist
+hump noun
 humpback noun
 hunchback noun
 Hungarian      noun
@@ -364,9 +378,12 @@ hustle noun
 hut            noun
 hutch noun
 hybrid         noun
+hydrangea noun
+hydrazine noun pl=- note=uncountable
 hydrocarbon noun
 hydrogen       noun pl=- note=uncountable
 hydrology noun pl=- note=uncountable
+hydrolysis noun pl=hydrolyses
 hydropower noun pl=- note=uncountable
 hydroxyl noun
 hyena noun

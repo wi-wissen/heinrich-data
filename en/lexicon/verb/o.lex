@@ -75,6 +75,7 @@ overrun verb prefix=over past=overran pp=overrun
 oversee       verb prefix=over past=oversaw pp=overseen
 overshadow verb
 overspend verb prefix=over past=overspent pp=overspent
+overspread verb prefix=over past=overspread pp=overspread
 overstaff verb
 overstate verb prefix=over
 overtake verb prefix=over past=overtook pp=overtaken

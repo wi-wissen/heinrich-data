@@ -23,6 +23,7 @@ observation   noun
 observatory   noun
 observer      noun
 obsession noun
+obsessive noun
 obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
@@ -105,6 +106,7 @@ orange        noun
 orangutan noun
 oration noun
 orator noun
+oratorio noun pl=oratorios
 oratory noun
 orb noun
 orbit         noun
@@ -125,11 +127,13 @@ organism      noun
 organist noun
 organization  noun gb=organisation|organization
 organizer noun gb=organiser|organizer
+oriel noun
 orientation   noun
 orifice noun
 origin        noun
 original      noun
 originality noun pl=- note=uncountable
+origination noun
 originator noun
 ornament      noun
 ornamentation noun
@@ -192,6 +196,7 @@ overhead      noun
 overlap       noun
 overlay noun
 overload noun
+overpass noun
 overpayment noun
 overpressurization noun gb=overpressurisation|overpressurization conf=85 note=technical register
 override noun

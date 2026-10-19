@@ -1,3 +1,4 @@
+pairwise adv type=manner
 partly adv
 patiently adv
 perchance adv style=archaic

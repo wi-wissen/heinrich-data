@@ -61,6 +61,7 @@ imperfection noun
 imperialism noun pl=- note=uncountable
 impersonation noun
 impertinence noun
+impetuosity noun pl=- note=uncountable
 impetus noun
 implant noun
 implantation noun
@@ -192,6 +193,7 @@ ingenuity      noun pl=- note=uncountable
 ingestion noun
 ingratitude noun pl=- note=uncountable
 ingredient     noun
+ingress noun
 inhabitant     noun
 inhalation noun
 inheritance    noun
@@ -257,6 +259,7 @@ instruction    noun
 instructor     noun
 instrument     noun
 instrumentation noun pl=- note=uncountable
+insubordination noun pl=- note=uncountable
 insufficiency noun
 insulation noun
 insulin noun pl=- note=uncountable
@@ -294,6 +297,7 @@ interlude noun
 intermediary   noun
 intermediate   noun
 interment noun
+intermission noun
 intern noun
 international  noun
 internet       noun pl=- note=usually with the; also capitalized Internet
@@ -302,12 +306,14 @@ internship noun
 interoperability noun pl=- note=uncountable
 interplay noun
 interpolation noun
+interposition noun
 interpretation noun
 interpreter    noun
 interrogation noun
 interruption   noun
 intersection   noun
 interstate     noun region=US
+interurban noun note=interurban railway
 interval       noun
 intervenor noun conf=90 note=legal spelling; also intervener
 intervention   noun
@@ -328,6 +334,7 @@ intro noun pl=intros note=clipping of introduction
 introduction   noun
 intruder noun
 intrusion      noun
+intubation noun
 intuition noun
 Inuit noun pl=Inuit
 inundation noun
@@ -346,6 +353,7 @@ investigator   noun
 investment     noun
 investor       noun
 invitation     noun
+invitational noun
 invite         noun note=colloquial: an invitation
 invocation noun
 invoice        noun
@@ -358,6 +366,7 @@ IPO            noun abbr note=initial public offering
 IRA            noun abbr note=individual retirement account (US); also the Irish Republican Army
 Iranian        noun
 Iraqi          noun
+ire noun pl=- note=uncountable
 IRF noun abbr note=inpatient rehabilitation facility (US)
 iris noun pl=irises
 Irish          noun pl=- note=the language; the Irish as a people
@@ -369,6 +378,7 @@ Iroquois noun pl=Iroquois
 irregularity noun
 irresponsibility noun pl=- note=uncountable
 irrigation     noun
+irritability noun pl=- note=uncountable
 irritation     noun
 ISA noun abbr note=individual savings account (UK)
 Islamist noun

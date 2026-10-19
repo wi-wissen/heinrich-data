@@ -9,6 +9,7 @@ gal noun style=colloquial
 gala noun
 galaxy         noun
 gale           noun
+galena noun pl=- note=uncountable
 gall noun
 gallantry noun
 gallery        noun
@@ -51,6 +52,7 @@ gateway        noun
 gathering      noun
 gauge          noun
 gauntlet noun
+gauze noun
 gay            noun
 gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
 gaze           noun
@@ -121,6 +123,7 @@ girl           noun
 girlfriend     noun
 girlhood noun
 git noun style=colloquial region=GB
+glaciation noun
 glacier noun
 glade noun
 gladness noun pl=- note=uncountable
@@ -129,6 +132,7 @@ glance         noun
 gland noun
 glare          noun
 glass          noun
+glassware noun pl=- note=uncountable
 glaucoma noun pl=- note=uncountable
 gleam          noun
 glee noun pl=- note=uncountable
@@ -167,6 +171,7 @@ goldfish noun pl=goldfish
 golf           noun pl=- note=uncountable
 golfer         noun
 golliwog noun style=offensive note=racist caricature doll; older children's books
+gondola noun
 gong noun
 good           noun note=plural goods: merchandise
 good-bye noun note=older spelling of goodbye
@@ -249,6 +254,7 @@ gratuity noun
 grave          noun
 gravel         noun
 graveyard noun
+gravitation noun pl=- note=uncountable
 gravity        noun
 gravy noun pl=- note=uncountable
 gray           noun gb=grey

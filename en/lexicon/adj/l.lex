@@ -97,6 +97,7 @@ longstanding  adj
 longtime      adj attr_only
 loose         adj cmp=er adv=loosely
 lordly adj cmp=er|more
+loth adj pred_only conf=90 note=variant spelling of loath
 loud          adj cmp=er adv=loudly
 lovable adj cmp=more
 lovely        adj cmp=er

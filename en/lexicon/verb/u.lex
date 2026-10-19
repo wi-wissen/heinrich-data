@@ -16,6 +16,7 @@ underpin verb prefix=under
 underscore verb
 underspend verb prefix=under past=underspent pp=underspent
 understand    verb prefix=under past=understood pp=understood
+understate verb prefix=under
 undertake     verb prefix=under past=undertook pp=undertaken
 undervalue verb
 underwrite verb prefix=under past=underwrote pp=underwritten

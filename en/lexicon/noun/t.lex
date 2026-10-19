@@ -32,6 +32,7 @@ talk noun
 talker noun
 tallow noun
 tally noun
+talon noun
 Tamil noun
 tan noun
 tandem noun
@@ -51,6 +52,8 @@ target noun
 tariff noun
 tarsus noun pl=tarsi
 tart noun
+tartar noun pl=- note=dental deposit; cream of tartar
+Tartar noun note=historical variant of Tatar
 task noun
 taskforce noun
 taste noun
@@ -72,6 +75,7 @@ teacher noun
 teaching noun
 team noun
 teammate noun
+teamster noun
 teamwork noun pl=- note=uncountable
 teapot noun
 tear noun sense=drop
@@ -105,6 +109,7 @@ telescope noun
 television noun
 teleworking noun pl=- note=uncountable
 teller noun
+telltale noun
 temp noun style=colloquial note=temporary worker; also short for temperature
 temper noun
 temperament noun
@@ -142,6 +147,7 @@ terminus noun pl=termini|terminuses[rare]
 termite noun
 tern noun
 terrace noun
+terracotta noun pl=- note=uncountable
 terrain noun
 terrier noun
 territory noun
@@ -155,6 +161,7 @@ testimonial noun
 testimony noun
 testosterone noun pl=- note=uncountable
 tether noun
+tetrapod noun
 Texan noun
 text noun
 textbook noun
@@ -192,6 +199,7 @@ thorn noun
 thoroughbred noun
 thoroughfare noun
 thought noun
+thoughtfulness noun pl=- note=uncountable
 thrash noun
 thread noun
 threat noun
@@ -314,6 +322,7 @@ tornado noun pl=tornadoes
 torpedo noun pl=torpedoes
 torque noun
 torrent noun
+torsion noun pl=- note=uncountable
 torso noun note=plural torsos
 tort noun
 tortilla noun
@@ -399,6 +408,7 @@ transit noun
 transition noun
 translation noun
 translator noun
+transliteration noun
 transmission noun
 transmittal noun
 transmitter noun
@@ -429,6 +439,7 @@ treatise noun
 treatment noun
 treaty noun
 treble noun
+trebuchet noun
 tree noun
 trek noun
 tremor noun
@@ -489,6 +500,7 @@ tsunami noun
 TTY noun abbr note=teletypewriter
 tub noun
 tube noun
+tuber noun
 tuberculosis noun pl=- note=uncountable
 tubing noun pl=- note=uncountable material; also the -ing form of tube
 tuft noun

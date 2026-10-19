@@ -13,6 +13,7 @@ earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
+eartag noun conf=90 note=agricultural spelling of ear tag
 earth noun
 earthquake noun
 earthwork noun
@@ -35,6 +36,7 @@ ecommerce noun pl=- conf=85 note=also e-commerce
 economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
+ecoregion noun
 ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
@@ -59,10 +61,12 @@ effort noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
+egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
+ejaculation noun
 elaboration noun
 elastic noun
 elasticity noun
@@ -93,6 +97,7 @@ elk noun pl=elk|elks
 ellipse noun
 ellipsoid noun
 elm noun
+elocutionist noun
 elongation noun
 eloquence noun pl=- note=uncountable
 em noun
@@ -171,12 +176,14 @@ Englishman noun pl=Englishmen
 engraver noun
 engraving noun
 enhancement noun
+enigma noun
 enjoyment noun
 enlargement noun
 enlightenment noun
 enlistment noun
 enmity noun
 ennui noun pl=- note=uncountable
+enormity noun
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
@@ -229,6 +236,7 @@ equator noun
 equilibrium noun pl=equilibria|equilibriums
 equine noun
 equinox noun
+equipage noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
@@ -275,6 +283,7 @@ ether noun
 ethic noun
 Ethiopian noun
 ethnicity noun
+ethnology noun pl=- note=uncountable
 ethos noun pl=- note=uncountable
 ethylene noun pl=- note=uncountable
 etiquette noun
@@ -285,6 +294,8 @@ eulogy noun
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
+eurozone noun pl=- note=also capitalized Eurozone
+euthanasia noun pl=- note=uncountable
 EV noun abbr note=electric vehicle
 evacuation noun
 evaluation noun
@@ -326,6 +337,7 @@ exclusivity noun
 excommunication noun
 excursion noun
 excuse noun
+executable noun
 execution noun
 executioner noun
 executive noun
@@ -338,6 +350,7 @@ exhaustion noun pl=- note=uncountable
 exhibit noun
 exhibition noun
 exhibitor noun
+exhilaration noun pl=- note=uncountable
 exile noun
 existence noun
 exit noun

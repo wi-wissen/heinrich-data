@@ -42,3 +42,4 @@ astray adv
 asunder adv
 away adv type=place
 awhile adv type=time
+awry adv type=manner

@@ -14,6 +14,8 @@ abnormality noun
 abode noun
 abolition noun
 abolitionist noun
+aborigine noun
+Aborigine noun note=indigenous Australian
 abortion noun
 abrasive noun
 absence noun
@@ -202,6 +204,7 @@ aggression noun
 agility noun pl=- note=uncountable
 agitation noun
 AGM noun abbr note=annual general meeting
+agnostic noun
 agonist noun
 agony noun
 agreement noun
@@ -228,10 +231,12 @@ airplay noun pl=- note=uncountable
 airport noun
 airship noun
 airspace noun
+airspeed noun
 airstrike noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
+alabaster noun pl=- note=uncountable
 alacrity noun pl=- note=uncountable
 alarm noun
 Albanian noun
@@ -243,6 +248,7 @@ alder noun
 alderman noun pl=aldermen
 ale noun
 alert noun
+alertness noun pl=- note=uncountable
 alfalfa noun pl=- note=uncountable
 alga noun pl=algae
 algebra noun
@@ -330,6 +336,7 @@ anchor noun
 anchorage noun
 anchovy noun
 ancient noun note=the ancients
+androgen noun
 anecdote noun
 anemia noun gb=anaemia pl=- note=uncountable
 anesthesia noun gb=anaesthesia pl=- note=uncountable
@@ -376,6 +383,7 @@ antelope noun pl=antelope|antelopes
 antenna noun pl=antennas|antennae
 anthem noun
 anthology noun
+anthracite noun pl=- note=uncountable
 anthrax noun pl=- note=uncountable
 anthropologist noun
 anthropology noun
@@ -463,11 +471,13 @@ arcade noun
 arch noun
 archaeologist noun us=archeologist|archaeologist conf=90 note=archeologist is a rarer American spelling
 archaeology noun pl=- us=archeology|archaeology conf=90 note=uncountable; archeology is a rarer American spelling
+archangel noun
 archbishop noun
 archdeacon noun
 archdiocese noun
 archer noun
 archery noun pl=- note=uncountable
+archetype noun
 archipelago noun pl=archipelagos|archipelagoes
 architect noun
 architecture noun
@@ -524,6 +534,7 @@ artist noun
 artwork noun
 asbestos noun pl=- note=uncountable
 ascendancy noun
+ascendency noun pl=- conf=90 note=variant spelling of ascendancy
 ascension noun
 ascent noun
 ascetic noun
@@ -571,6 +582,7 @@ astronaut noun
 astronomer noun
 astronomy noun pl=- note=uncountable
 asylum noun
+atheism noun pl=- note=uncountable
 atheist noun
 Athenian noun
 athlete noun
@@ -658,6 +670,7 @@ aviation noun pl=- note=uncountable
 aviator noun
 avocado noun pl=avocados
 avoidance noun pl=- note=uncountable
+avowal noun
 award noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable

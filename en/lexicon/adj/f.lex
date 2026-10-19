@@ -39,6 +39,7 @@ feasible       adj
 federal        adj adv=federally
 federalist adj
 feeble         adj cmp=er adv=feebly
+feline adj
 fellow         adj attr_only
 female         adj
 feminine       adj
@@ -78,6 +79,7 @@ fixed          adj adv=fixedly
 fizzy adj cmp=er
 flagrant adj adv=flagrantly
 flammable adj
+flashy adj cmp=er
 flat           adj cmp=er adv=flatly
 flawed adj
 fledged adj
@@ -176,4 +178,5 @@ furtive adj adv=furtively
 fussy adj cmp=er
 futile adj
 future         adj attr_only
+futuristic adj
 fuzzy adj cmp=er adv=fuzzily

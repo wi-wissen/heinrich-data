@@ -46,6 +46,7 @@ deduce verb
 deduct verb
 deem verb
 deepen verb
+deface verb
 defame verb
 default verb
 defeat verb
@@ -72,6 +73,7 @@ deluge verb
 demand verb
 demolish verb
 demonstrate verb
+demoralize verb gb=demoralise|demoralize
 demote verb
 denote verb
 denounce verb
@@ -184,6 +186,7 @@ dishearten verb
 dishonor verb gb=dishonour
 disintegrate verb
 dislike verb
+dislocate verb
 dislodge verb
 dismantle verb
 dismay verb
@@ -210,6 +213,7 @@ dissipate verb
 dissolve verb
 dissuade verb
 distance verb
+distend verb
 distill verb gb=distil conf=90 note=distill US, distil GB; distilled, distilling shared
 distinguish verb
 distort verb

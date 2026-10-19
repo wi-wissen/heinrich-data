@@ -121,6 +121,7 @@ motion        verb
 motivate      verb
 motor verb
 motorize verb gb=motorise|motorize
+moulder verb us=moulder|molder conf=90 note=corpus has mouldering also in US texts
 mount         verb
 mourn         verb
 mouth         verb
@@ -140,6 +141,7 @@ murmur        verb
 muse verb
 mushroom verb
 muster verb
+mutate verb
 mute verb
 mutilate verb
 mutiny verb

@@ -3,6 +3,7 @@ name          verb
 nap verb
 narrate       verb
 narrow        verb
+nationalize verb gb=nationalise|nationalize
 naturalize verb gb=naturalise|naturalize
 navigate      verb
 near          verb
@@ -17,6 +18,8 @@ nestle verb
 net           verb
 nettle verb
 network       verb
+neuter verb
+neutralize verb gb=neutralise|neutralize
 nibble verb
 nickname      verb
 nod           verb

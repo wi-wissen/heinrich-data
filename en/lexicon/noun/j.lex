@@ -5,7 +5,8 @@ Jacobite noun
 jade noun pl=- note=the stone; also the colour
 jag noun conf=90 note=a sharp point; a spell of activity (a crying jag)
 jaguar noun
-jail           noun
+jail           noun gb=jail|gaol
+jailer noun gb=jailer|gaoler
 jam noun
 Jamaican noun
 janitor noun
@@ -40,6 +41,7 @@ jihad noun
 jingle noun
 job            noun
 jobcentre noun region=GB
+jobholder noun
 joblessness noun pl=- note=uncountable
 jobseeker noun conf=85 note=also job seeker
 jockey noun
@@ -67,6 +69,7 @@ junction       noun
 juncture noun
 jungle         noun
 junior         noun
+juniper noun
 junk noun
 junta noun
 jurisdiction   noun
