@@ -192,6 +192,8 @@ abzocken verb class=weak sep=ab pp=abgezockt perf=haben
 abzwacken verb class=weak sep=ab pp=abgezwackt perf=haben
 abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 achten verb class=weak pp=geachtet perf=haben
+ächten verb class=weak pp=geächtet perf=haben
+ächzen verb class=weak pp=geächzt perf=haben
 addieren verb class=weak pp=addiert perf=haben
 administrieren verb class=weak pp=administriert perf=haben
 adoptieren verb class=weak pp=adoptiert perf=haben
@@ -208,6 +210,7 @@ akzeptieren verb class=weak pp=akzeptiert perf=haben
 altern verb class=weak pp=gealtert perf=haben|sein
 amputieren verb class=weak pp=amputiert perf=haben
 amtieren verb class=weak pp=amtiert perf=haben
+amüsieren verb class=weak pp=amüsiert perf=haben refl=acc
 analysieren verb class=weak pp=analysiert perf=haben
 anbaggern verb class=weak sep=an pp=angebaggert perf=haben style=colloquial
 anbauen verb class=weak sep=an pp=angebaut perf=haben
@@ -297,6 +300,7 @@ anmelden verb class=weak sep=an refl=acc pp=angemeldet perf=haben
 anmerken verb class=weak sep=an pp=angemerkt perf=haben
 annähern verb class=weak sep=an refl=acc pp=angenähert perf=haben
 annehmen      verb class=strong sep=an 3sg=annimmt past=annahm pp=angenommen subj2=annähme perf=haben
+annullieren verb class=weak pp=annulliert perf=haben
 anordnen      verb class=weak sep=an pp=angeordnet perf=haben
 anpacken verb class=weak sep=an pp=angepackt perf=haben
 anpassen verb class=weak sep=an refl=acc pp=angepasst perf=haben

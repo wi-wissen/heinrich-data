@@ -8,6 +8,7 @@ karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
 katastrophal adj
 katholisch adj
+käuflich adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
 keltisch adj
@@ -62,6 +63,8 @@ konventionell adj cmp=konventioneller sup=konventionellsten
 konzentriert adj cmp=konzentrierter sup=konzentriertesten
 körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
+korrupt adj cmp=korrupter sup=korruptesten
+kosmisch adj
 kostbar adj cmp=kostbarer sup=kostbarsten
 kostenlos adj
 kostenpflichtig adj
@@ -84,6 +87,7 @@ krümelig adj cmp=krümeliger sup=krümeligsten
 krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
 kubanisch adj
 kubisch adj
+kugelig adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
 kulant adj cmp=kulanter sup=kulantesten

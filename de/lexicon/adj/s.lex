@@ -38,6 +38,7 @@ schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
 schlüssig adj cmp=schlüssiger sup=schlüssigsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
+schmalkaldisch adj note=der Schmalkaldische Bund
 schmerzhaft adj cmp=schmerzhafter sup=schmerzhaftesten
 schmerzlich adj cmp=schmerzlicher sup=schmerzlichsten
 schmutzig adj cmp=schmutziger sup=schmutzigsten
@@ -76,6 +77,7 @@ schwül adj cmp=schwüler sup=schwülsten
 seelisch adj
 sehenswert adj
 sehnlich adj
+seicht adj cmp=seichter sup=seichtesten
 seiden adj
 seitlich adj
 sekundär adj
@@ -83,6 +85,7 @@ selbständig adj cmp=selbständiger sup=selbständigsten
 selbstbestimmt adj
 selbstständig adj cmp=selbstständiger sup=selbstständigsten
 selbstverständlich adj
+selektiv adj cmp=selektiver sup=selektivsten
 selig adj cmp=seliger sup=seligsten
 selten adj attr=seltene|seltne[rare] cmp=seltener sup=seltensten
 seltsam adj cmp=seltsamer sup=seltsamsten
@@ -96,6 +99,7 @@ sexuell adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
 sichtbar adj cmp=sichtbarer sup=sichtbarsten
 sichtlich adj
+siebziger adj indecl note=die siebziger Jahre
 siegreich adj
 signifikant adj cmp=signifikanter sup=signifikantesten
 silbern adj
@@ -120,6 +124,7 @@ sonderlich adj
 sonnig adj cmp=sonniger sup=sonnigsten
 sonstig adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
+sorglich adj
 sorglos adj cmp=sorgloser sup=sorglosesten
 sorgsam adj cmp=sorgsamer sup=sorgsamsten
 souverän adj
@@ -168,6 +173,7 @@ stichhaltig adj cmp=stichhaltiger sup=stichhaltigsten
 stickig adj cmp=stickiger sup=stickigsten
 stilistisch adj
 still adj cmp=stiller sup=stillsten
+stimmig adj cmp=stimmiger sup=stimmigsten
 stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
@@ -186,6 +192,7 @@ stumpf adj cmp=stumpfer sup=stumpfsten
 stündlich adj
 stur adj cmp=sturer sup=stursten|sturesten
 stürmisch adj cmp=stürmischer sup=stürmischsten
+stutzig adj note=stutzig werden, stutzig machen
 subjektiv adj
 subsidiär adj
 substanziell adj

@@ -51,6 +51,7 @@ Degen noun g=m gen=Degens pl=Degen
 Deich noun g=m gen=Deichs|Deiches pl=Deiche
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
+Deklaration noun g=f gen=Deklaration pl=Deklarationen
 Deklination noun g=f gen=Deklination pl=Deklinationen
 Dekoration noun g=f gen=Dekoration pl=Dekorationen
 Dekret noun g=n gen=Dekrets|Dekretes[rare] pl=Dekrete
@@ -89,6 +90,7 @@ Designerin noun g=f gen=Designerin pl=Designerinnen
 Desinfektionsmittel noun g=n gen=Desinfektionsmittels pl=Desinfektionsmittel
 Desinformation noun g=f gen=Desinformation pl=Desinformationen
 Desktop noun g=m gen=Desktops pl=Desktops
+Despot noun g=m gen=Despoten pl=Despoten
 Dessert noun g=n gen=Desserts pl=Desserts
 Detail noun g=n gen=Details pl=Details
 Detektiv noun g=m gen=Detektivs pl=Detektive
@@ -114,6 +116,8 @@ Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
 Diamant noun g=m gen=Diamanten pl=Diamanten
+Diarrhö noun g=f gen=Diarrhö pl=Diarrhöen note=also spelled Diarrhöe
+Diarrhöe noun g=f gen=Diarrhöe pl=Diarrhöen note=also spelled Diarrhö
 Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter
@@ -129,12 +133,15 @@ Diener        noun g=m gen=Dieners pl=Diener
 Dienerin noun g=f gen=Dienerin pl=Dienerinnen
 Dienst        noun g=m gen=Dienstes|Diensts pl=Dienste
 Dienstag noun g=m gen=Dienstags|Dienstages pl=Dienstage
+Dienstbarkeit noun g=f gen=Dienstbarkeit pl=Dienstbarkeiten
 Dienstleister noun g=m gen=Dienstleisters pl=Dienstleister
 Dienstleisterin noun g=f gen=Dienstleisterin pl=Dienstleisterinnen
 Dienstleistung noun g=f gen=Dienstleistung pl=Dienstleistungen
 Diesel noun g=m gen=Diesels pl=Diesel
 Dietrich noun g=m gen=Dietrichs pl=Dietriche
+Differential noun g=n gen=Differentials pl=Differentiale note=also spelled Differenzial
 Differenz noun g=f gen=Differenz pl=Differenzen
+Differenzial noun g=n gen=Differenzials pl=Differenziale note=also spelled Differential
 Differenzierung noun g=f gen=Differenzierung pl=Differenzierungen
 Digitalisat noun g=n gen=Digitalisats|Digitalisates pl=Digitalisate
 Digitalisierung noun g=f gen=Digitalisierung pl=- note=no plural
@@ -177,6 +184,7 @@ Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
 Dividende noun g=f gen=Dividende pl=Dividenden
 Division      noun g=f gen=Division pl=Divisionen
+Diwan noun g=m gen=Diwans pl=Diwane
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure
@@ -185,6 +193,7 @@ Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
 Doge noun g=m gen=Dogen pl=Dogen
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
+Doktorand noun g=m gen=Doktoranden pl=Doktoranden
 Doktorin noun g=f gen=Doktorin pl=Doktorinnen
 Dokument noun g=n gen=Dokuments|Dokumentes pl=Dokumente
 Dokumentarfilm noun g=m gen=Dokumentarfilms|Dokumentarfilmes pl=Dokumentarfilme
@@ -223,6 +232,7 @@ Drama noun g=n gen=Dramas pl=Dramen
 Dramatik noun g=f gen=Dramatik pl=- note=no plural
 Dramatiker noun g=m gen=Dramatikers pl=Dramatiker
 Dramatikerin noun g=f gen=Dramatikerin pl=Dramatikerinnen
+Dramaturgie noun g=f gen=Dramaturgie pl=Dramaturgien
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
@@ -284,5 +294,6 @@ Düsseldorfer noun g=m gen=Düsseldorfers pl=Düsseldorfer
 Dutzend noun g=n gen=Dutzends|Dutzend pl=Dutzende|Dutzend note=genitive/plural also unchanged after numerals
 DVD noun g=f gen=DVD pl=DVDs
 Dynamik noun g=f gen=Dynamik pl=- note=no plural
+Dynamisierung noun g=f gen=Dynamisierung pl=Dynamisierungen
 Dynamo noun g=m gen=Dynamos pl=Dynamos conf=85 note=Dynamo as generator or sports club name; gender m
 Dynastie noun g=f gen=Dynastie pl=Dynastien

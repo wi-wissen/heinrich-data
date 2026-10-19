@@ -8,6 +8,7 @@ Paraguay propn g=n gen=Paraguays pl=- note=proper name; no plural
 Paris propn g=n gen=Paris pl=- note=proper name, no plural; genitive written Paris' or with von
 Parma propn g=n gen=Parmas pl=- note=proper name; no plural
 Passau propn g=n gen=Passaus pl=- note=proper name; no plural
+Paulskirche propn g=f gen=Paulskirche pl=- note=die Frankfurter Paulskirche
 Pazifik propn g=m gen=Pazifiks|Pazifik pl=- note=der Pazifik
 Peking propn g=n gen=Pekings pl=- note=proper name; no plural
 Pennsylvania propn g=n gen=Pennsylvanias pl=- note=proper name; no plural

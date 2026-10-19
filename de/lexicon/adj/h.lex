@@ -28,6 +28,7 @@ hell adj cmp=heller sup=hellsten
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
 herkömmlich adj
+heroisch adj cmp=heroischer sup=heroischsten
 herrlich adj cmp=herrlicher sup=herrlichsten
 herzlich adj cmp=herzlicher sup=herzlichsten
 hessisch adj
@@ -51,6 +52,7 @@ höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten
 hold adj cmp=holder sup=holdesten style=archaic
 holländisch adj
+höllisch adj
 hölzern adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten

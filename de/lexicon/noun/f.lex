@@ -12,6 +12,7 @@ Faden noun g=m gen=Fadens pl=Fäden
 Fähigkeit noun g=f gen=Fähigkeit pl=Fähigkeiten
 Fahndung noun g=f gen=Fahndung pl=Fahndungen
 Fahne noun g=f gen=Fahne pl=Fahnen
+Fähnlein noun g=n gen=Fähnleins pl=Fähnlein
 Fähnrich noun g=m gen=Fähnrichs pl=Fähnriche
 Fahrbahn noun g=f gen=Fahrbahn pl=Fahrbahnen
 Fähre noun g=f gen=Fähre pl=Fähren
@@ -71,6 +72,7 @@ Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
 Fastenzeit noun g=f gen=Fastenzeit pl=Fastenzeiten
 Fastnacht noun g=f gen=Fastnacht pl=- note=no plural (mass or abstract noun)
+Fatimide noun g=m gen=Fatimiden pl=Fatimiden note=member of the Fatimid dynasty
 Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
@@ -141,6 +143,7 @@ Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
 Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
+Feuersbrunst noun g=f gen=Feuersbrunst pl=Feuersbrünste
 Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Fichte noun g=f gen=Fichte pl=Fichten
@@ -165,6 +168,7 @@ Fink noun g=m gen=Finken pl=Finken
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
 Firewall noun g=f gen=Firewall pl=Firewalls
 Firma        noun g=f gen=Firma pl=Firmen
+Firmament noun g=n gen=Firmaments|Firmamentes pl=Firmamente
 Firmung noun g=f gen=Firmung pl=Firmungen
 Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
@@ -201,6 +205,7 @@ Flip-Flops noun g=pl
 Flipchart noun g=n|m gen=Flipcharts pl=Flipcharts
 Flirt noun g=m gen=Flirts pl=Flirts
 Flitterwochen noun g=pl
+Flocke noun g=f gen=Flocke pl=Flocken
 Floh noun g=m gen=Flohes|Flohs pl=Flöhe
 Flohmarkt noun g=m gen=Flohmarkts pl=Flohmärkte
 Flora noun g=f gen=Flora pl=Floren|Floras
@@ -221,6 +226,7 @@ Flugzeug noun g=n gen=Flugzeugs|Flugzeuges pl=Flugzeuge
 Flur noun g=m gen=Flurs|Flures pl=Flure sense=hall note=der Flur: corridor
 Flur noun g=f gen=Flur pl=Fluren sense=field note=die Flur: farmland
 Fluss noun g=m gen=Flusses pl=Flüsse
+Flüsschen noun g=n gen=Flüsschens pl=Flüsschen
 Flüssigkeit noun g=f gen=Flüssigkeit pl=Flüssigkeiten
 Flut noun g=f gen=Flut pl=Fluten
 Flyer noun g=m gen=Flyers pl=Flyer
@@ -235,6 +241,7 @@ Follower noun g=m gen=Followers pl=Follower
 Followerin noun g=f gen=Followerin pl=Followerinnen
 Folter noun g=f gen=Folter pl=Foltern
 Fön noun g=m gen=Föns pl=Föne
+Fond noun g=m gen=Fonds pl=Fonds note=back seat, background, meat stock (not Fonds = fund)
 Fonds noun g=m gen=Fonds pl=Fonds note=des Fonds; spoken without s
 Fondue noun g=n gen=Fondues pl=Fondues
 Förde noun g=f gen=Förde pl=Förden

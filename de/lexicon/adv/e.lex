@@ -5,6 +5,7 @@ ehemals adv type=time
 eher adv
 eigens adv
 eigentlich adv
+eilends adv
 einher adv
 einigermaßen adv
 einstweilen adv type=time

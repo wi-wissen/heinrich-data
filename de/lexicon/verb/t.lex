@@ -51,6 +51,7 @@ transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben
 trauen verb class=weak pp=getraut perf=haben refl=acc
 trauern verb class=weak pp=getrauert perf=haben
+traumatisieren verb class=weak pp=traumatisiert perf=haben
 träumen verb class=weak pp=geträumt perf=haben
 treffen verb class=strong 3sg=trifft past=traf pp=getroffen subj2=träfe perf=haben|sein refl=acc
 treiben verb class=strong 3sg=treibt past=trieb pp=getrieben subj2=triebe perf=haben|sein

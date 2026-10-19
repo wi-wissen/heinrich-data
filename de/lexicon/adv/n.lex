@@ -1,4 +1,5 @@
 nachweislich adv
+näherungsweise adv
 nahezu adv
 namentlich adv
 naturgemäß adv type=modal

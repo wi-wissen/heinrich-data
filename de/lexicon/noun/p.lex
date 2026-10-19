@@ -13,6 +13,8 @@ Paketshop noun g=m gen=Paketshops pl=Paketshops
 Pakt noun g=m gen=Pakts|Paktes pl=Pakte
 Palais noun g=n gen=Palais pl=Palais note=des Palais (silent s)
 Paläontologe noun g=m gen=Paläontologen pl=Paläontologen
+Paläontologie noun g=f gen=Paläontologie pl=- note=science, no plural
+Palas noun g=m gen=Palas pl=Palase conf=70 note=main hall building of a castle; des Palas; plural Palase uncertain
 Palast noun g=m gen=Palastes|Palasts pl=Paläste
 Palästinenser noun g=m gen=Palästinensers pl=Palästinenser
 Palazzo noun g=m gen=Palazzos pl=Palazzi|Palazzos
@@ -49,6 +51,7 @@ Parallelismus noun g=m gen=Parallelismus pl=Parallelismen
 Parallelogramm noun g=n gen=Parallelogramms pl=Parallelogramme
 Parameter noun g=m gen=Parameters pl=Parameter
 Paraphe noun g=f gen=Paraphe pl=Paraphen
+Pärchen noun g=n gen=Pärchens pl=Pärchen
 Parcours noun g=m gen=Parcours pl=- note=no genitive ending
 Parfüm noun g=n gen=Parfüms|Parfümes pl=Parfüme|Parfüms
 Pariser noun g=m gen=Parisers pl=Pariser note=inhabitant of Paris; also the indeclinable adjective
@@ -86,6 +89,7 @@ Patchworkfamilie noun g=f gen=Patchworkfamilie pl=Patchworkfamilien
 Pate noun g=m gen=Paten pl=Paten
 Patent noun g=n gen=Patents|Patentes pl=Patente
 Pater noun g=m gen=Paters pl=Patres|Pater
+Pathologe noun g=m gen=Pathologen pl=Pathologen
 Patient noun g=m gen=Patienten pl=Patienten
 Patientin noun g=f gen=Patientin pl=Patientinnen
 Patin noun g=f gen=Patin pl=Patinnen
@@ -139,6 +143,7 @@ Pfadfinder noun g=m gen=Pfadfinders pl=Pfadfinder
 Pfadfinderin noun g=f gen=Pfadfinderin pl=Pfadfinderinnen
 Pfahl noun g=m gen=Pfahls|Pfahles pl=Pfähle
 Pfalzgraf noun g=m gen=Pfalzgrafen pl=Pfalzgrafen
+Pfalzgrafschaft noun g=f gen=Pfalzgrafschaft pl=Pfalzgrafschaften
 Pfand noun g=n gen=Pfands|Pfandes pl=Pfänder
 Pfändung noun g=f gen=Pfändung pl=Pfändungen
 Pfanne noun g=f gen=Pfanne pl=Pfannen
@@ -187,6 +192,7 @@ Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
 Phase noun g=f gen=Phase pl=Phasen
+Philanthrop noun g=m gen=Philanthropen pl=Philanthropen
 Philologe noun g=m gen=Philologen pl=Philologen
 Philologie noun g=f gen=Philologie pl=Philologien
 Philologin noun g=f gen=Philologin pl=Philologinnen
@@ -238,6 +244,7 @@ Plakat noun g=n gen=Plakats|Plakates pl=Plakate
 Plakette noun g=f gen=Plakette pl=Plaketten
 Plan noun g=m gen=Plans|Planes pl=Pläne
 Planet noun g=m gen=Planeten pl=Planeten
+Planke noun g=f gen=Planke pl=Planken
 Planung noun g=f gen=Planung pl=Planungen
 Plasma noun g=n gen=Plasmas pl=Plasmen
 Plastik noun g=n gen=Plastiks pl=- sense=plastic note=material; mass noun
@@ -263,15 +270,18 @@ Plüschtier noun g=n gen=Plüschtiers|Plüschtieres pl=Plüschtiere
 Plusquamperfekt noun g=n gen=Plusquamperfekts pl=Plusquamperfekte
 PLZ noun g=f gen=PLZ pl=PLZ|PLZs note=Postleitzahl
 Pöbel noun g=m gen=Pöbels pl=- note=no plural
+Pocken noun g=pl note=smallpox; plurale tantum
 Podcast noun g=m gen=Podcasts pl=Podcasts
 Podest noun g=n gen=Podests|Podestes pl=Podeste
 Podium noun g=n gen=Podiums pl=Podien
 Poesie noun g=f gen=Poesie pl=Poesien
 Poet noun g=m gen=Poeten pl=Poeten
+Poetik noun g=f gen=Poetik pl=Poetiken
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
 Pol noun g=m gen=Pols pl=Pole
 Polacke noun g=m gen=Polacken pl=Polacken style=offensive note=slur for Poles
+Polarisierung noun g=f gen=Polarisierung pl=Polarisierungen
 Polarkreis noun g=m gen=Polarkreises pl=Polarkreise
 Pole noun g=m gen=Polen pl=Polen note=inhabitant of Poland
 Police noun g=f gen=Police pl=Policen
@@ -279,13 +289,16 @@ Polis noun g=f gen=Polis pl=Poleis
 Politik noun g=f gen=Politik pl=- note=mass noun; Politiken is very rare
 Politiker noun g=m gen=Politikers pl=Politiker
 Politikerin noun g=f gen=Politikerin pl=Politikerinnen
+Politologe noun g=m gen=Politologen pl=Politologen
 Polizei noun g=f gen=Polizei pl=Polizeien
 Polizist noun g=m gen=Polizisten pl=Polizisten
 Polizistin noun g=f gen=Polizistin pl=Polizistinnen
 Polkappe noun g=f gen=Polkappe pl=Polkappen
 Pollen noun g=m gen=Pollens pl=Pollen
 Polster noun g=n gen=Polsters pl=Polster
+Polytechnikum noun g=n gen=Polytechnikums pl=Polytechniken|Polytechnika
 Pommes noun g=pl
+Pomp noun g=m gen=Pomps|Pompes pl=- note=mass noun
 Poncho noun g=m gen=Ponchos pl=Ponchos
 Pony noun g=m gen=Ponys pl=Ponys sense=fringe note=der Pony: hairstyle
 Pony noun g=n gen=Ponys pl=Ponys sense=horse note=das Pony: small horse
@@ -306,6 +319,7 @@ Portal noun g=n gen=Portals pl=Portale
 Portemonnaie noun g=n gen=Portemonnaies pl=Portemonnaies
 Portier noun g=m gen=Portiers pl=Portiers
 Portierin noun g=f gen=Portierin pl=Portierinnen
+Portikus noun g=m gen=Portikus pl=Portikus|Portiken conf=80 note=des Portikus; also feminine (die Portikus)
 Portion noun g=f gen=Portion pl=Portionen
 Porto noun g=n gen=Portos pl=Portos|Porti
 Porträt noun g=n gen=Porträts pl=Porträts|Porträte[rare]
@@ -421,11 +435,13 @@ Propst noun g=m gen=Propstes|Propsts pl=Pröpste
 Prosa noun g=f gen=Prosa pl=- note=mass noun
 Prosit noun g=n gen=Prosit pl=- note=no genitive ending
 Prospekt noun g=m gen=Prospekts|Prospektes pl=Prospekte
+Prosperität noun g=f gen=Prosperität pl=- note=abstract noun, no plural
 Prostituierte noun g=m|f decl=adj
 Prostitution noun g=f gen=Prostitution pl=- note=mass noun
 Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
 Protein noun g=n gen=Proteins pl=Proteine
+Protektionismus noun g=m gen=Protektionismus pl=- note=no plural
 Protest noun g=m gen=Protests|Protestes pl=Proteste
 Protestant noun g=m gen=Protestanten pl=Protestanten
 Protestantin noun g=f gen=Protestantin pl=Protestantinnen
@@ -438,6 +454,7 @@ Prototyp noun g=m gen=Prototyps pl=Prototypen
 Proviant noun g=m gen=Proviants pl=Proviante
 Provinz noun g=f gen=Provinz pl=Provinzen
 Provision noun g=f gen=Provision pl=Provisionen
+Prozedur noun g=f gen=Prozedur pl=Prozeduren
 Prozent noun g=n gen=Prozents|Prozentes pl=Prozent|Prozente
 Prozess noun g=m gen=Prozesses pl=Prozesse
 Prozession noun g=f gen=Prozession pl=Prozessionen
@@ -479,8 +496,11 @@ Pünktlichkeit noun g=f gen=Pünktlichkeit pl=- note=no plural (mass or abstract
 Pupille noun g=f gen=Pupille pl=Pupillen
 Puppe noun g=f gen=Puppe pl=Puppen
 Puschel noun g=m gen=Puschels pl=Puschel
+Pustel noun g=f gen=Pustel pl=Pusteln
 Pute noun g=f gen=Pute pl=Puten
 Putsch noun g=m gen=Putsches|Putschs pl=Putsche
+Putte noun g=f gen=Putte pl=Putten
+Putto noun g=m gen=Puttos pl=Putten|Putti
 Putz noun g=m gen=Putzes pl=- note=plaster; mass noun
 Puzzle noun g=n gen=Puzzles pl=Puzzles|Puzzle
 Pyjama noun g=m gen=Pyjamas pl=Pyjamas

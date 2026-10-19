@@ -2,6 +2,7 @@ pädagogisch adj
 palästinensisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
+paraguayisch adj
 parallel adj attr=parallele
 parlamentarisch adj
 partiell adj
@@ -12,6 +13,7 @@ pazifisch adj
 peinlich adj cmp=peinlicher sup=peinlichsten
 perfekt adj
 periodisch adj
+peripher adj
 permanent adj
 persisch adj
 personell adj
@@ -42,6 +44,7 @@ polar adj
 politisch adj
 polizeilich adj
 polnisch adj
+pommersch adj
 populär adj cmp=populärer sup=populärsten
 populistisch adj
 portugiesisch adj
@@ -74,4 +77,5 @@ psychiatrisch adj
 psychisch adj
 psychologisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten
+punktuell adj
 putzig adj cmp=putziger sup=putzigsten

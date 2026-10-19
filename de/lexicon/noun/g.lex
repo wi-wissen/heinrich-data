@@ -47,6 +47,7 @@ Gauner noun g=m gen=Gauners pl=Gauner
 Gazelle noun g=f gen=Gazelle pl=Gazellen
 Geäst noun g=n gen=Geästes|Geästs pl=- note=no plural
 Gebäck noun g=n gen=Gebäcks|Gebäckes pl=Gebäcke
+Gebälk noun g=n gen=Gebälks|Gebälkes pl=Gebälke
 Gebärde noun g=f gen=Gebärde pl=Gebärden
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
 Gebein noun g=n gen=Gebeins|Gebeines pl=Gebeine note=mostly plural (die Gebeine)
@@ -78,6 +79,7 @@ Gefahr noun g=f gen=Gefahr pl=Gefahren
 Gefährder noun g=m gen=Gefährders pl=Gefährder
 Gefährderin noun g=f gen=Gefährderin pl=Gefährderinnen
 Gefährdung noun g=f gen=Gefährdung pl=Gefährdungen
+Gefährt noun g=n gen=Gefährts|Gefährtes pl=Gefährte
 Gefährte noun g=m gen=Gefährten pl=Gefährten
 Gefälle noun g=n gen=Gefälles pl=Gefälle
 Gefallen noun g=m gen=Gefallens pl=Gefallen sense=favor note=einen Gefallen tun
@@ -92,6 +94,7 @@ Gefieder noun g=n gen=Gefieders pl=Gefieder
 Geflüchtete noun g=m|f decl=adj
 Geflügel noun g=n gen=Geflügels pl=- note=no plural
 Gefolge noun g=n gen=Gefolges pl=Gefolge
+Gefolgschaft noun g=f gen=Gefolgschaft pl=Gefolgschaften
 Gefrierschrank noun g=m gen=Gefrierschranks|Gefrierschrankes pl=Gefrierschränke
 Gefühl noun g=n gen=Gefühls|Gefühles[rare] pl=Gefühle
 Gegebenheit noun g=f gen=Gegebenheit pl=Gegebenheiten
@@ -113,6 +116,7 @@ Gehege noun g=n gen=Geheges pl=Gehege
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
 Geheimniß noun g=n gen=Geheimnißes pl=Geheimnisse spelling=old style=archaic note=old spelling of Geheimnis
 Geheimrat noun g=m gen=Geheimrats|Geheimrates pl=Geheimräte
+Geher noun g=m gen=Gehers pl=Geher
 Gehilfe noun g=m gen=Gehilfen pl=Gehilfen
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehirnerschütterung noun g=f gen=Gehirnerschütterung pl=Gehirnerschütterungen
@@ -165,6 +169,7 @@ Gemeinschaft noun g=f gen=Gemeinschaft pl=Gemeinschaften
 Gemeinschaftskunde noun g=f gen=Gemeinschaftskunde pl=- note=no plural
 Gemengelage noun g=f gen=Gemengelage pl=Gemengelagen
 Gemisch noun g=n gen=Gemischs|Gemisches pl=Gemische
+Gemischtwarenhändler noun g=m gen=Gemischtwarenhändlers pl=Gemischtwarenhändler
 Gemüse noun g=n gen=Gemüses pl=Gemüse
 Gemüt noun g=n gen=Gemüts|Gemütes pl=Gemüter
 Gemüth noun g=n gen=Gemüths|Gemüthes pl=Gemüther spelling=old
@@ -212,6 +217,7 @@ Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte
 Gerichtsbarkeit noun g=f gen=Gerichtsbarkeit pl=Gerichtsbarkeiten
 Gerichtsvollzieher noun g=m gen=Gerichtsvollziehers pl=Gerichtsvollzieher
 Gerichtsvollzieherin noun g=f gen=Gerichtsvollzieherin pl=Gerichtsvollzieherinnen
+Gerippe noun g=n gen=Gerippes pl=Gerippe
 Germane noun g=m gen=Germanen pl=Germanen
 Germanist noun g=m gen=Germanisten pl=Germanisten
 Germanistik noun g=f gen=Germanistik pl=- note=academic subject
@@ -233,6 +239,7 @@ Geschehen noun g=n gen=Geschehens pl=- note=lexicalised nominal infinitive (das 
 Geschehnis noun g=n gen=Geschehnisses pl=Geschehnisse
 Geschenk noun g=n gen=Geschenks|Geschenkes pl=Geschenke
 Geschichte noun g=f gen=Geschichte pl=Geschichten
+Geschichtschreiber noun g=m gen=Geschichtschreibers pl=Geschichtschreiber note=variant of Geschichtsschreiber
 Geschick noun g=n gen=Geschicks|Geschickes pl=Geschicke note=skill (no plural) or fate (rare plural)
 Geschicklichkeit noun g=f gen=Geschicklichkeit pl=- note=no plural in practice
 Geschirr noun g=n gen=Geschirrs|Geschirres pl=Geschirre
@@ -262,6 +269,7 @@ Gesindel noun g=n gen=Gesindels pl=- note=no plural
 Gesinnung noun g=f gen=Gesinnung pl=Gesinnungen
 Gespenst noun g=n gen=Gespenstes|Gespensts pl=Gespenster
 Gespräch noun g=n gen=Gespräches|Gesprächs pl=Gespräche
+Gespür noun g=n gen=Gespürs pl=- note=no plural
 Gestalt noun g=f gen=Gestalt pl=Gestalten
 Gestaltung noun g=f gen=Gestaltung pl=Gestaltungen
 Geständnis noun g=n gen=Geständnisses pl=Geständnisse
@@ -358,6 +366,7 @@ Gleichgültigkeit noun g=f gen=Gleichgültigkeit pl=- note=no plural in practice
 Gleichheit noun g=f gen=Gleichheit pl=- note=mass noun
 Gleichnis noun g=n gen=Gleichnisses pl=Gleichnisse
 Gleichschaltung noun g=f gen=Gleichschaltung pl=Gleichschaltungen
+Gleichsetzung noun g=f gen=Gleichsetzung pl=Gleichsetzungen
 Gleichstellung noun g=f gen=Gleichstellung pl=- note=no plural
 Gleichung noun g=f gen=Gleichung pl=Gleichungen
 Gleichwertigkeit noun g=f gen=Gleichwertigkeit pl=- note=no plural in practice
@@ -372,6 +381,7 @@ Globus noun g=m gen=Globus|Globusses pl=Globen|Globusse
 Glocke noun g=f gen=Glocke pl=Glocken
 Glöckner noun g=m gen=Glöckners pl=Glöckner
 Glöcknerin noun g=f gen=Glöcknerin pl=Glöcknerinnen
+Glorie noun g=f gen=Glorie pl=Glorien
 Glossar noun g=n gen=Glossars pl=Glossare
 Glosse noun g=f gen=Glosse pl=Glossen
 Glück noun g=n gen=Glücks|Glückes pl=- note=no plural in use
@@ -481,6 +491,7 @@ Gummibärchen noun g=n gen=Gummibärchens pl=Gummibärchen
 Gummistiefel noun g=m gen=Gummistiefels pl=Gummistiefel
 Gunst noun g=f gen=Gunst pl=- note=mass noun
 Gunsten noun g=pl conf=80 note=only in zu Gunsten, the separate spelling of zugunsten
+Günstling noun g=m gen=Günstlings pl=Günstlinge
 Gurke noun g=f gen=Gurke pl=Gurken
 Gurt noun g=m gen=Gurts|Gurtes pl=Gurte
 Gürtel noun g=m gen=Gürtels pl=Gürtel
@@ -494,3 +505,4 @@ Guthaben noun g=n gen=Guthabens pl=Guthaben
 Gutschein noun g=m gen=Gutscheins|Gutscheines pl=Gutscheine
 Gymnasium noun g=n gen=Gymnasiums pl=Gymnasien
 Gymnastik noun g=f gen=Gymnastik pl=- note=no plural (mass or abstract noun)
+Gynäkologie noun g=f gen=Gynäkologie pl=- note=medical field, no plural

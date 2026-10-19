@@ -38,8 +38,10 @@ diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
 divers adj
+dominikanisch adj
 doof adj cmp=doofer sup=doofsten
 doppelt adj
+dörflich adj
 dornig adj cmp=dorniger sup=dornigsten
 dortig        adj note=only attributive (die dortigen Verhältnisse)
 drahtlos adj

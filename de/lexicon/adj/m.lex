@@ -2,6 +2,7 @@ mächtig adj cmp=mächtiger sup=mächtigsten
 mager adj cmp=magerer sup=magersten
 magisch adj
 magnetisch adj
+majestätisch adj cmp=majestätischer sup=majestätischsten
 malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
@@ -9,6 +10,7 @@ männlich adj
 manuell adj
 maritim adj
 markant adj cmp=markanter sup=markantesten
+märkisch adj
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -33,6 +35,7 @@ merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
 metaphorisch adj
 methodisch adj
+metrisch adj
 mexikanisch adj
 mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
@@ -63,6 +66,7 @@ monatlich adj
 monumental adj
 moralisch adj cmp=moralischer sup=moralischsten
 morgig adj attr_only
+morphologisch adj
 morsch adj cmp=morscher sup=morschesten
 motiviert adj cmp=motivierter sup=motiviertesten
 müde adj cmp=müder sup=müdesten
@@ -72,6 +76,7 @@ mühsam adj cmp=mühsamer sup=mühsamsten
 mulmig adj cmp=mulmiger sup=mulmigsten
 multilateral adj
 multimedial adj
+multipel adj note=die Multiple Sklerose
 mündig adj
 mündlich adj
 munter adj cmp=munterer sup=muntersten

@@ -7,6 +7,7 @@ NDR propn g=m gen=NDR pl=- note=der NDR
 Neapel propn g=n gen=Neapels pl=- note=proper name; no plural
 Neckar propn g=m gen=Neckars|Neckar pl=- note=river
 Nepal propn g=n gen=Nepals pl=- note=proper name; no plural
+Neukaledonien propn g=n gen=Neukaledoniens pl=- note=proper name; no plural
 Neuseeland propn g=n gen=Neuseelands pl=- note=proper name; no plural
 Nevada propn g=n gen=Nevadas pl=- note=proper name; no plural
 Niederlande propn g=pl
@@ -20,6 +21,7 @@ Nizza propn g=n gen=Nizzas pl=- note=proper name; no plural
 Nordafrika propn g=n gen=Nordafrikas pl=- note=proper name; no plural
 Nordamerika propn g=n gen=Nordamerikas pl=- note=proper name; no plural
 Nordirland propn g=n gen=Nordirlands pl=- note=proper name; no plural
+Norditalien propn g=n gen=Norditaliens pl=- note=proper name; no plural
 Nordkorea propn g=n gen=Nordkoreas pl=- note=proper name; no plural
 Nordrhein-Westfalen propn g=n gen=Nordrhein-Westfalens pl=- note=proper name; no plural
 Normandie propn g=f gen=Normandie pl=- note=die Normandie

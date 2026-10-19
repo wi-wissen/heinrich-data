@@ -59,7 +59,9 @@ rosig adj cmp=rosiger sup=rosigsten
 rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj
 rötlich adj
+royal adj
 rückgängig adj
+rückwärtig adj
 rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj

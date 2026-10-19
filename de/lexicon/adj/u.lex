@@ -23,6 +23,7 @@ umstritten adj cmp=umstrittener sup=umstrittensten
 unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
+unangetastet adj
 unartig adj cmp=unartiger sup=unartigsten
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
@@ -136,11 +137,13 @@ unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
 unwiderruflich adj
+unwiederbringlich adj
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj
 unwürdig adj cmp=unwürdiger sup=unwürdigsten
 unzählig adj
+unzertrennlich adj
 unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj

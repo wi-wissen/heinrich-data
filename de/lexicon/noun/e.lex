@@ -94,6 +94,7 @@ Einkommen noun g=n gen=Einkommens pl=Einkommen
 Einkünfte noun g=pl
 Einladung noun g=f gen=Einladung pl=Einladungen
 Einlage noun g=f gen=Einlage pl=Einlagen
+Einleger noun g=m gen=Einlegers pl=Einleger
 Einlegung noun g=f gen=Einlegung pl=Einlegungen
 Einleitung noun g=f gen=Einleitung pl=Einleitungen
 Einlösung noun g=f gen=Einlösung pl=Einlösungen
@@ -166,6 +167,7 @@ Eitelkeit noun g=f gen=Eitelkeit pl=Eitelkeiten
 Eiweiß noun g=n gen=Eiweißes pl=Eiweiße
 Ekel noun g=m gen=Ekels pl=- sense=disgust note=no plural
 Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
+Ekliptik noun g=f gen=Ekliptik pl=- note=astronomical term, no plural
 Elch noun g=m gen=Elches|Elchs pl=Elche
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Eleganz noun g=f gen=Eleganz pl=- note=no plural
@@ -232,6 +234,7 @@ Enteignung noun g=f gen=Enteignung pl=Enteignungen
 Entertainment noun g=n gen=Entertainments pl=- conf=85 note=loanword; no plural
 Entfaltung noun g=f gen=Entfaltung pl=- note=no plural
 Entfernung noun g=f gen=Entfernung pl=Entfernungen
+Entflechtung noun g=f gen=Entflechtung pl=Entflechtungen
 Entfristung noun g=f gen=Entfristung pl=Entfristungen
 Entführung noun g=f gen=Entführung pl=Entführungen
 Entgegennahme noun g=f gen=Entgegennahme pl=- note=no plural
@@ -244,6 +247,7 @@ Entnahme noun g=f gen=Entnahme pl=Entnahmen
 Entrichtung noun g=f gen=Entrichtung pl=Entrichtungen
 Entrüstung noun g=f gen=Entrüstung pl=- note=no plural
 Entschädigung noun g=f gen=Entschädigung pl=Entschädigungen
+Entscheid noun g=m gen=Entscheids|Entscheides pl=Entscheide
 Entscheidung noun g=f gen=Entscheidung pl=Entscheidungen
 Entschließung noun g=f gen=Entschließung pl=Entschließungen
 Entschlossenheit noun g=f gen=Entschlossenheit pl=- note=no plural
@@ -342,6 +346,7 @@ Eroberung noun g=f gen=Eroberung pl=Eroberungen
 Eröffnung noun g=f gen=Eröffnung pl=Eröffnungen
 Erörterung noun g=f gen=Erörterung pl=Erörterungen
 Erosion noun g=f gen=Erosion pl=Erosionen
+Erotik noun g=f gen=Erotik pl=- note=abstract noun, no plural
 Erpressung noun g=f gen=Erpressung pl=Erpressungen
 Erprobung noun g=f gen=Erprobung pl=Erprobungen
 Erreger noun g=m gen=Erregers pl=Erreger
@@ -356,6 +361,7 @@ Erschließung noun g=f gen=Erschließung pl=- note=no plural
 Erschöpfung noun g=f gen=Erschöpfung pl=- note=no plural
 Erschütterung noun g=f gen=Erschütterung pl=Erschütterungen
 Ersetzung noun g=f gen=Ersetzung pl=Ersetzungen
+Ersparnis noun g=f gen=Ersparnis pl=Ersparnisse
 Erstattung noun g=f gen=Erstattung pl=Erstattungen
 Erstaunen noun g=n gen=Erstaunens pl=- note=no plural
 Erstausstrahlung noun g=f gen=Erstausstrahlung pl=Erstausstrahlungen

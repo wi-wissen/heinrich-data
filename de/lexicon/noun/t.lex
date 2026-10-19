@@ -36,6 +36,7 @@ Tapete noun g=f gen=Tapete pl=Tapeten
 Tapferkeit noun g=f gen=Tapferkeit pl=- note=no plural
 Tarif noun g=m gen=Tarifs|Tarifes pl=Tarife
 Tarifvertrag noun g=m gen=Tarifvertrags|Tarifvertrages pl=Tarifverträge
+Tarnung noun g=f gen=Tarnung pl=Tarnungen
 Tasche noun g=f gen=Tasche pl=Taschen
 Taschengeld noun g=n gen=Taschengelds|Taschengeldes pl=Taschengelder
 Taschenrechner noun g=m gen=Taschenrechners pl=Taschenrechner
@@ -76,6 +77,7 @@ Tee noun g=m gen=Tees pl=Tees
 Teekanne noun g=f gen=Teekanne pl=Teekannen
 Teenager noun g=m gen=Teenagers pl=Teenager
 Teenagerin noun g=f gen=Teenagerin pl=Teenagerinnen
+Teer noun g=m gen=Teers|Teeres pl=Teere
 Teich noun g=m gen=Teichs|Teiches pl=Teiche
 Teig noun g=m gen=Teiges|Teigs pl=Teige
 Teil         noun g=m gen=Teils|Teiles pl=Teile sense=portion note=der Teil: part of a whole
@@ -137,6 +139,7 @@ Thematik noun g=f gen=Thematik pl=Thematiken
 Theologe noun g=m gen=Theologen pl=Theologen
 Theologie noun g=f gen=Theologie pl=Theologien
 Theologin noun g=f gen=Theologin pl=Theologinnen
+Theoretiker noun g=m gen=Theoretikers pl=Theoretiker
 Theorie noun g=f gen=Theorie pl=Theorien
 Therapie noun g=f gen=Therapie pl=Therapien
 Thermalquelle noun g=f gen=Thermalquelle pl=Thermalquellen
@@ -252,6 +255,7 @@ Trauer noun g=f gen=Trauer pl=- note=no plural
 Trauerspiel noun g=n gen=Trauerspiels|Trauerspieles pl=Trauerspiele
 Traum noun g=m gen=Traums|Traumes pl=Träume
 Träumer noun g=m gen=Träumers pl=Träumer
+Träumerei noun g=f gen=Träumerei pl=Träumereien
 Träumerin noun g=f gen=Träumerin pl=Träumerinnen
 Traurigkeit noun g=f gen=Traurigkeit pl=- note=no plural
 Trauung noun g=f gen=Trauung pl=Trauungen
@@ -297,6 +301,7 @@ Trost noun g=m gen=Trostes|Trosts pl=- note=no plural
 Truhe noun g=f gen=Truhe pl=Truhen
 Trümmer noun g=pl
 Trümmerfrau noun g=f gen=Trümmerfrau pl=Trümmerfrauen
+Trumpf noun g=m gen=Trumpfs|Trumpfes pl=Trümpfe
 Trunk noun g=m gen=Trunks|Trunkes pl=Trünke[rare] note=drink, draught
 Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
@@ -307,6 +312,7 @@ Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
 Tuberkulose noun g=f gen=Tuberkulose pl=- note=disease name; no plural
 Tuch noun g=n gen=Tuches|Tuchs pl=Tücher|Tuche
+Tücke noun g=f gen=Tücke pl=Tücken
 Tugend noun g=f gen=Tugend pl=Tugenden
 Tukan noun g=m gen=Tukans pl=Tukane
 Tulpe noun g=f gen=Tulpe pl=Tulpen

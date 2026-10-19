@@ -9,10 +9,12 @@ ehemalig adj
 ehrenamtlich adj
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
+eidgenössisch adj
 eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
 eiförmig adj
 eifrig adj cmp=eifriger sup=eifrigsten
 eigen adj sup=eigensten
+eigensinnig adj cmp=eigensinniger sup=eigensinnigsten
 eigenständig adj cmp=eigenständiger sup=eigenständigsten
 eigentlich adj note=die eigentliche Frage; the particle is in closed/
 eigentümlich adj cmp=eigentümlicher sup=eigentümlichsten
@@ -21,6 +23,7 @@ eindeutig adj cmp=eindeutiger sup=eindeutigsten
 eindringlich adj cmp=eindringlicher sup=eindringlichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
+einfältig adj cmp=einfältiger sup=einfältigsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingeschnappt adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
@@ -29,7 +32,7 @@ einjährig adj
 einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
-einschlägig adj attr_only
+einschlägig adj note=also predicative in legal use (die Vorschrift ist einschlägig)
 einseitig adj
 einstig adj attr_only
 einstimmig adj
@@ -86,6 +89,7 @@ erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
 erkennbar adj
+erklärlich adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
 erneuerbar adj
 erneut adj

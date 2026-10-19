@@ -3,6 +3,7 @@ baden verb class=weak pp=gebadet perf=haben refl=acc
 balgen verb class=weak pp=gebalgt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
+bändigen verb class=weak pp=gebändigt perf=haben
 basieren verb class=weak pp=basiert perf=haben
 basteln verb class=weak pp=gebastelt perf=haben
 bauen         verb class=weak pp=gebaut perf=haben
@@ -43,6 +44,7 @@ befassen verb class=weak refl=acc pp=befasst perf=haben
 befehlen verb class=strong 3sg=befiehlt past=befahl pp=befohlen subj2=beföhle|befähle perf=haben
 befehligen verb class=weak pp=befehligt perf=haben
 befestigen verb class=weak pp=befestigt perf=haben
+befeuern verb class=weak pp=befeuert perf=haben
 befinden      verb class=strong refl=acc 3sg=befindet past=befand pp=befunden subj2=befände perf=haben
 befolgen verb class=weak pp=befolgt perf=haben
 befördern     verb class=weak pp=befördert perf=haben
@@ -135,6 +137,7 @@ belügen verb class=strong 3sg=belügt past=belog subj2=belöge pp=belogen perf=
 bemächtigen verb class=weak pp=bemächtigt perf=haben refl=acc note=sich einer Sache bemächtigen (genitive object)
 bemalen verb class=weak pp=bemalt perf=haben
 bemängeln verb class=weak pp=bemängelt perf=haben
+bemannen verb class=weak pp=bemannt perf=haben
 bemerken verb class=weak pp=bemerkt perf=haben
 bemessen verb class=strong 3sg=bemisst past=bemaß pp=bemessen subj2=bemäße perf=haben
 bemitleiden verb class=weak pp=bemitleidet perf=haben
@@ -157,6 +160,7 @@ berechtigen   verb class=weak pp=berechtigt perf=haben
 bereichern verb class=weak pp=bereichert perf=haben refl=acc
 bereinigen verb class=weak pp=bereinigt perf=haben
 bereisen verb class=weak pp=bereist perf=haben
+bereithalten verb class=strong sep=bereit 3sg=bereithält past=bereithielt pp=bereitgehalten subj2=bereithielte perf=haben
 bereitstellen verb class=weak sep=bereit pp=bereitgestellt perf=haben
 bereuen verb class=weak pp=bereut perf=haben
 bergen verb class=strong 3sg=birgt past=barg pp=geborgen subj2=bärge|bürge[rare] perf=haben
@@ -286,6 +290,7 @@ bezeugen verb class=weak pp=bezeugt perf=haben
 bezichtigen verb class=weak pp=bezichtigt perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben
 beziffern verb class=weak pp=beziffert perf=haben
+bezuschlagen verb class=weak pp=bezuschlagt perf=haben note=procurement law: to award the contract
 bezuschussen verb class=weak pp=bezuschusst perf=haben
 bezwecken verb class=weak pp=bezweckt perf=haben
 bezweifeln verb class=weak pp=bezweifelt perf=haben
@@ -295,6 +300,7 @@ biegen verb class=strong 3sg=biegt past=bog pp=gebogen subj2=böge perf=haben|se
 bieten        verb class=strong 3sg=bietet past=bot pp=geboten subj2=böte perf=haben
 bilanzieren verb class=weak pp=bilanziert perf=haben
 bilden verb class=weak pp=gebildet perf=haben refl=acc
+billigen verb class=weak pp=gebilligt perf=haben
 binden verb class=strong 3sg=bindet past=band pp=gebunden subj2=bände perf=haben refl=acc
 bitten        verb class=strong 3sg=bittet past=bat pp=gebeten subj2=bäte perf=haben
 blamieren verb class=weak pp=blamiert perf=haben refl=acc
@@ -324,6 +330,7 @@ brabbeln verb class=weak pp=gebrabbelt perf=haben
 branden verb class=weak pp=gebrandet perf=haben|sein
 braten verb class=strong 3sg=brät past=briet pp=gebraten subj2=briete perf=haben
 brauchen      verb class=weak subj2=brauchte|bräuchte pp=gebraucht perf=haben note=with zu used like a modal verb (du brauchst nicht zu kommen)
+brauen verb class=weak pp=gebraut perf=haben
 bräunen verb class=weak pp=gebräunt perf=haben
 brechen       verb class=strong 3sg=bricht past=brach pp=gebrochen subj2=bräche perf=haben|sein
 breiten verb class=weak pp=gebreitet perf=haben

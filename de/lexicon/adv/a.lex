@@ -5,6 +5,7 @@ alleine adv
 allemal adv
 allenfalls adv
 allesamt adv
+allzeit adv
 alsbald adv
 alsdann adv
 anbei adv note=in letters: anbei erhalten Sie

@@ -42,6 +42,7 @@ Indianer noun g=m gen=Indianers pl=Indianer
 Indianerin noun g=f gen=Indianerin pl=Indianerinnen
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
+Individualverkehr noun g=m gen=Individualverkehrs pl=- note=mass noun
 Individuum noun g=n gen=Individuums pl=Individuen
 Indiz noun g=n gen=Indizes pl=Indizien
 Industrialisierung noun g=f gen=Industrialisierung pl=- note=no plural in practice
@@ -49,6 +50,7 @@ Industrie noun g=f gen=Industrie pl=Industrien
 Infanterie noun g=f gen=Infanterie pl=- note=mass noun
 Infarkt noun g=m gen=Infarkts|Infarktes pl=Infarkte
 Infektion noun g=f gen=Infektion pl=Infektionen
+Inferno noun g=n gen=Infernos pl=Infernos
 Infinitiv noun g=m gen=Infinitivs pl=Infinitive
 Inflation noun g=f gen=Inflation pl=Inflationen
 Influencer noun g=m gen=Influencers pl=Influencer
@@ -118,6 +120,7 @@ Intercity noun g=m gen=Intercitys pl=Intercitys
 Interesse noun g=n gen=Interesses pl=Interessen
 Interjektion noun g=f gen=Interjektion pl=Interjektionen
 Internat noun g=n gen=Internats pl=Internate
+Internationalisierung noun g=f gen=Internationalisierung pl=Internationalisierungen
 Internet noun g=n gen=Internets pl=- note=plural not used
 Internetseite noun g=f gen=Internetseite pl=Internetseiten
 Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
@@ -133,9 +136,11 @@ Inventur noun g=f gen=Inventur pl=Inventuren
 Inversion noun g=f gen=Inversion pl=Inversionen
 Inverzugsetzung noun g=f gen=Inverzugsetzung pl=Inverzugsetzungen
 Investition noun g=f gen=Investition pl=Investitionen
+Investment noun g=n gen=Investments pl=Investments
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
 Ion noun g=n gen=Ions pl=Ionen
+Irakkrieg noun g=m gen=Irakkriegs|Irakkrieges pl=Irakkriege
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure
 Ironie noun g=f gen=Ironie pl=- note=no plural in practice
 Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare

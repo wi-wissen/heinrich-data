@@ -1,5 +1,7 @@
 vage adj cmp=vager sup=vagesten
+valide adj cmp=valider sup=validesten
 variabel adj cmp=variabler sup=variabelsten
+vaterländisch adj
 väterlich adj
 vegan adj
 vegetarisch adj
@@ -7,6 +9,7 @@ vehement adj cmp=vehementer sup=vehementesten
 venezianisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
+veränderlich adj
 verängstigt adj cmp=verängstigter sup=verängstigtesten
 verantwortlich adj
 verantwortungsvoll adj
@@ -14,6 +17,7 @@ verärgert adj
 verbeult adj cmp=verbeulter sup=verbeultesten
 verbindlich adj
 verbittert adj cmp=verbitterter sup=verbittertsten
+verbrecherisch adj
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
@@ -44,6 +48,7 @@ vermutlich adj
 vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
 verrückt adj cmp=verrückter sup=verrücktesten
+verschämt adj cmp=verschämter sup=verschämtesten
 verschieden adj cmp=verschiedener sup=verschiedensten
 verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
@@ -58,11 +63,13 @@ verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
 vertikal adj
 vertraglich adj
+verträglich adj cmp=verträglicher sup=verträglichsten
 vertragsgemäß adj
 vertragswidrig adj
 vertraulich adj cmp=vertraulicher sup=vertraulichsten
 verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
+verwerflich adj cmp=verwerflicher sup=verwerflichsten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
 verwitwet adj
 verwunderlich adj
@@ -73,10 +80,12 @@ verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
+viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 viral adj
 virtuell adj
 visuell adj
 völkerrechtlich adj
+völkisch adj
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj

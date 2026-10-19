@@ -4,6 +4,7 @@ nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nachrangig adj
+nachsichtig adj cmp=nachsichtiger sup=nachsichtigsten
 nächstgelegen adj note=der nächstgelegene Ort; already a superlative, not compared
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
@@ -15,6 +16,7 @@ nackt adj cmp=nackter sup=nacktesten
 nah          adj cmp=näher sup=nächsten
 naiv adj cmp=naiver sup=naivsten
 namentlich adj
+namhaft adj cmp=namhafter sup=namhaftesten
 nämlich adj attr_only style=archaic note=der nämliche = derselbe
 narbig adj
 nass adj cmp=nasser|nässer sup=nassesten|nässesten

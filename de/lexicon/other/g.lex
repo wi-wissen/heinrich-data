@@ -1,5 +1,6 @@
 GBl. x note=Gesetzblatt
 geb. x note=geboren
+Gebr. x note=Gebrüder
 gelt intj style=colloquial conf=80 note=regional tag question (gelt?), southern German and Austrian
 gem. x note=gemäß
 gest. x note=gestorben

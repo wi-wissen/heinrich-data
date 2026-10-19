@@ -14,6 +14,7 @@ Vase noun g=f gen=Vase pl=Vasen
 Vater noun g=m gen=Vaters pl=Väter
 Vaterland noun g=n gen=Vaterlands|Vaterlandes pl=Vaterländer
 Vaterschaft noun g=f gen=Vaterschaft pl=- note=no plural
+Vaterunser noun g=n gen=Vaterunsers pl=Vaterunser
 Vati noun g=m gen=Vatis pl=Vatis
 Veganer noun g=m gen=Veganers pl=Veganer
 Veganerin noun g=f gen=Veganerin pl=Veganerinnen
@@ -82,6 +83,7 @@ Verfall noun g=m gen=Verfalls|Verfalles pl=- note=no plural
 Verfasser noun g=m gen=Verfassers pl=Verfasser
 Verfasserin noun g=f gen=Verfasserin pl=Verfasserinnen
 Verfassung noun g=f gen=Verfassung pl=Verfassungen
+Verfassungsmäßigkeit noun g=f gen=Verfassungsmäßigkeit pl=- note=abstract noun, no plural
 Verfechter noun g=m gen=Verfechters pl=Verfechter
 Verfechterin noun g=f gen=Verfechterin pl=Verfechterinnen
 Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
@@ -228,6 +230,7 @@ Verstärkung noun g=f gen=Verstärkung pl=Verstärkungen
 Verstauchung noun g=f gen=Verstauchung pl=Verstauchungen
 Versteck noun g=n gen=Verstecks|Versteckes pl=Verstecke
 Versteigerung noun g=f gen=Versteigerung pl=Versteigerungen
+Verstetigung noun g=f gen=Verstetigung pl=Verstetigungen
 Verstopfung noun g=f gen=Verstopfung pl=Verstopfungen
 Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
@@ -258,6 +261,7 @@ Verwandlung noun g=f gen=Verwandlung pl=Verwandlungen
 Verwandte noun g=m|f decl=adj note=relative
 Verwandtschaft noun g=f gen=Verwandtschaft pl=Verwandtschaften
 Verwechslung noun g=f gen=Verwechslung pl=Verwechslungen
+Verweigerer noun g=m gen=Verweigerers pl=Verweigerer
 Verweis noun g=m gen=Verweises pl=Verweise
 Verwendung noun g=f gen=Verwendung pl=Verwendungen
 Verwertung noun g=f gen=Verwertung pl=Verwertungen
@@ -265,6 +269,7 @@ Verwirklichung noun g=f gen=Verwirklichung pl=- note=no plural in practice
 Verwirrung noun g=f gen=Verwirrung pl=Verwirrungen
 Verwunderung noun g=f gen=Verwunderung pl=- note=no plural
 Verwundung noun g=f gen=Verwundung pl=Verwundungen
+Verwünschung noun g=f gen=Verwünschung pl=Verwünschungen
 Verzeichnis noun g=n gen=Verzeichnisses pl=Verzeichnisse
 Verzeihung noun g=f gen=Verzeihung pl=- note=no plural
 Verzicht noun g=m gen=Verzichts|Verzichtes pl=Verzichte
@@ -272,7 +277,10 @@ Verzinsung noun g=f gen=Verzinsung pl=- note=no plural in practice
 Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
 Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
+Vesper noun g=f gen=Vesper pl=Vespern sense=prayer note=evening prayer (die Vesper)
+Vesper noun g=n gen=Vespers pl=Vesper sense=snack conf=80 note=southern German snack (das Vesper); also feminine in this sense
 Vetter noun g=m gen=Vetters pl=Vettern
+Vibration noun g=f gen=Vibration pl=Vibrationen
 Video noun g=n gen=Videos pl=Videos
 Videocall noun g=m gen=Videocalls pl=Videocalls
 Videokonferenz noun g=f gen=Videokonferenz pl=Videokonferenzen
@@ -314,6 +322,7 @@ Vokal noun g=m gen=Vokals pl=Vokale
 Volk noun g=n gen=Volkes|Volks pl=Völker
 Völkermord noun g=m gen=Völkermords|Völkermordes pl=Völkermorde
 Volksentscheid noun g=m gen=Volksentscheids|Volksentscheides pl=Volksentscheide
+Volkskundler noun g=m gen=Volkskundlers pl=Volkskundler
 Volkswagen noun g=m gen=Volkswagens pl=Volkswagen note=brand and company; also the car
 Vollendung noun g=f gen=Vollendung pl=- note=no plural
 Volleyball noun g=m gen=Volleyballs pl=Volleybälle

@@ -132,6 +132,7 @@ Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
 Wert noun g=m gen=Wertes|Werts pl=Werte
+Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
 Wertung noun g=f gen=Wertung pl=Wertungen
 Wesen noun g=n gen=Wesens pl=Wesen
@@ -148,6 +149,7 @@ Wetterfrosch noun g=m gen=Wetterfrosches pl=Wetterfrösche
 Wettkampf noun g=m gen=Wettkampfs|Wettkampfes pl=Wettkämpfe
 WG noun g=f gen=WG pl=WGs note=abbreviation of Wohngemeinschaft
 Whisky noun g=m gen=Whiskys pl=Whiskys
+Whistleblower noun g=m gen=Whistleblowers pl=Whistleblower
 Whiteboard noun g=n gen=Whiteboards pl=Whiteboards
 Wichtel noun g=m gen=Wichtels pl=Wichtel
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
@@ -236,6 +238,7 @@ Wohnort noun g=m gen=Wohnorts|Wohnortes pl=Wohnorte
 Wohnraum noun g=m gen=Wohnraums|Wohnraumes pl=Wohnräume
 Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
+Wohnungslosigkeit noun g=f gen=Wohnungslosigkeit pl=- note=abstract noun, no plural
 Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
@@ -245,6 +248,7 @@ Wolfsrudel noun g=n gen=Wolfsrudels pl=Wolfsrudel
 Wolke noun g=f gen=Wolke pl=Wolken
 Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
+Won noun g=m gen=Won|Wons pl=Won note=Korean currency; des Won
 Wonne noun g=f gen=Wonne pl=Wonnen
 Workflow noun g=m gen=Workflows pl=Workflows
 Workshop noun g=m gen=Workshops pl=Workshops

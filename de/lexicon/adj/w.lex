@@ -38,6 +38,7 @@ wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
 widerruflich adj
 widersprüchlich adj
+widerwärtig adj cmp=widerwärtiger sup=widerwärtigsten
 wild adj cmp=wilder sup=wildesten
 willig adj cmp=williger sup=willigsten
 willkommen adj
@@ -51,11 +52,13 @@ wirtschaftlich adj cmp=wirtschaftlicher sup=wirtschaftlichsten
 wissenschaftlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
+wohlfeil adj cmp=wohlfeiler sup=wohlfeilsten
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
 wohlriechend adj
 wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
 wohnhaft adj note=wohnhaft in Berlin
 wolkig adj cmp=wolkiger sup=wolkigsten
+wollen adj note=made of wool (wollene Strümpfe)
 wörtlich adj
 wund adj cmp=wunder sup=wundesten
 wunderbar adj cmp=wunderbarer sup=wunderbarsten

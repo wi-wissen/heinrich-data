@@ -106,6 +106,7 @@ zumachen verb class=weak sep=zu pp=zugemacht perf=haben
 zumauern verb class=weak sep=zu pp=zugemauert perf=haben
 zumuten verb class=weak sep=zu pp=zugemutet perf=haben
 zunähen verb class=weak sep=zu pp=zugenäht perf=haben
+zünden verb class=weak pp=gezündet perf=haben
 zunehmen verb class=strong sep=zu 3sg=zunimmt past=zunahm pp=zugenommen subj2=zunähme perf=haben
 zunicken verb class=weak sep=zu pp=zugenickt perf=haben
 zuordnen verb class=weak sep=zu pp=zugeordnet perf=haben

@@ -170,12 +170,14 @@ einzementieren verb class=weak sep=ein pp=einzementiert perf=haben
 einziehen verb class=strong sep=ein 3sg=einzieht past=einzog pp=eingezogen subj2=einzöge perf=sein|haben
 einzwängen verb class=weak sep=ein pp=eingezwängt perf=haben
 ekeln verb class=weak pp=geekelt perf=haben refl=acc
+eliminieren verb class=weak pp=eliminiert perf=haben
 emigrieren verb class=weak pp=emigriert perf=sein
 empfangen verb class=strong 3sg=empfängt past=empfing pp=empfangen subj2=empfinge perf=haben
 empfehlen verb class=strong 3sg=empfiehlt past=empfahl pp=empfohlen subj2=empföhle|empfähle perf=haben refl=acc
 empfinden verb class=strong 3sg=empfindet past=empfand pp=empfunden subj2=empfände perf=haben
 empören verb class=weak pp=empört perf=haben refl=acc
 enden verb class=weak pp=geendet perf=haben
+endigen verb class=weak pp=geendigt perf=haben style=archaic note=older form of enden
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
 entbehren verb class=weak pp=entbehrt perf=haben
 entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbände perf=haben
@@ -228,6 +230,7 @@ entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
 entpacken verb class=weak pp=entpackt perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
+entrinnen verb class=strong 3sg=entrinnt past=entrann pp=entronnen subj2=entränne|entrönne[rare] perf=sein
 entrümpeln verb class=weak pp=entrümpelt perf=haben
 entrüsten verb class=weak pp=entrüstet perf=haben refl=acc
 entsaften verb class=weak pp=entsaftet perf=haben
@@ -295,6 +298,7 @@ ergattern verb class=weak pp=ergattert perf=haben
 ergeben verb class=strong 3sg=ergibt past=ergab pp=ergeben subj2=ergäbe perf=haben refl=acc
 ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=sein
 ergetzen verb class=weak pp=ergetzt perf=haben refl=acc style=archaic
+ergötzen verb class=weak pp=ergötzt perf=haben refl=acc
 ergrauen verb class=weak pp=ergraut perf=sein
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben
 ergrimmen verb class=weak pp=ergrimmt perf=haben
@@ -360,6 +364,7 @@ eröffnen verb class=weak pp=eröffnet perf=haben
 erörtern verb class=weak pp=erörtert perf=haben
 erpressen verb class=weak pp=erpresst perf=haben
 erproben verb class=weak pp=erprobt perf=haben
+erquicken verb class=weak pp=erquickt perf=haben
 erraten verb class=strong 3sg=errät past=erriet pp=erraten subj2=erriete perf=haben
 errechnen verb class=weak pp=errechnet perf=haben
 erregen verb class=weak pp=erregt perf=haben
@@ -444,4 +449,5 @@ evaluieren verb class=weak pp=evaluiert perf=haben
 existieren verb class=weak pp=existiert perf=haben
 experimentieren verb class=weak pp=experimentiert perf=haben
 explodieren verb class=weak pp=explodiert perf=sein
+exponieren verb class=weak pp=exponiert perf=haben pp_cmp note=die exponierteste Lage
 exportieren verb class=weak pp=exportiert perf=haben

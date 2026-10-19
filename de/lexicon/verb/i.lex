@@ -4,9 +4,11 @@ illustrieren verb class=weak pp=illustriert perf=haben
 immatrikulieren verb class=weak pp=immatrikuliert perf=haben refl=acc
 impfen verb class=weak pp=geimpft perf=haben
 implementieren verb class=weak pp=implementiert perf=haben
+implizieren verb class=weak pp=impliziert perf=haben
 implodieren verb class=weak pp=implodiert perf=sein
 imponieren verb class=weak pp=imponiert perf=haben
 importieren verb class=weak pp=importiert perf=haben
+indizieren verb class=weak pp=indiziert perf=haben
 infizieren verb class=weak pp=infiziert perf=haben refl=acc
 informieren verb class=weak pp=informiert perf=haben refl=acc
 inhaftieren verb class=weak pp=inhaftiert perf=haben

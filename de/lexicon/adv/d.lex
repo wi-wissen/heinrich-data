@@ -1,4 +1,5 @@
 dahin         adv type=direction
+dahinten adv
 dannen adv style=archaic note=von dannen
 daraufhin     adv type=conj
 darein adv type=pronominal style=archaic
