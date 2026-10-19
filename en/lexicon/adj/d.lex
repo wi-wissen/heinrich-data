@@ -9,6 +9,7 @@ Danish adj
 daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
 darling adj
+dastardly adj cmp=more
 daunting adj cmp=more adv=dauntingly
 day-to-day adj
 dazzling adj cmp=more adv=dazzlingly
@@ -52,6 +53,7 @@ departmental adj
 dependable adj cmp=more
 dependent adj cmp=more
 deplorable adj cmp=more adv=deplorably
+depraved adj cmp=more
 depressed adj cmp=more
 derelict adj
 derivative adj
@@ -68,6 +70,7 @@ destined adj
 destitute adj
 destructive adj cmp=more adv=destructively
 detached adj
+determinate adj
 determined adj cmp=more adv=determinedly
 deterministic adj
 deterrent adj
@@ -80,6 +83,7 @@ devoid adj pred_only
 devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
+dexterous adj cmp=more adv=dexterously
 diabetic adj
 diagnostic adj
 diagonal adj adv=diagonally
@@ -153,6 +157,7 @@ divisive adj cmp=more
 dizzy adj cmp=er
 doctoral adj
 documentary adj
+dodgy adj cmp=er region=GB
 dogged adj cmp=more adv=doggedly
 domestic adj adv=domestically
 dominant adj adv=dominantly
@@ -169,6 +174,7 @@ downstairs adj
 downstream adj
 downtown adj
 downward adj
+downwind adj
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
@@ -196,3 +202,4 @@ Dutch adj
 dutiful adj adv=dutifully
 dynamic adj adv=dynamically
 dynastic adj
+dystopian adj

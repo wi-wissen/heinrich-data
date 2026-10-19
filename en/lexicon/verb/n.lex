@@ -8,6 +8,7 @@ navigate      verb
 near          verb
 necessitate verb
 need          verb
+negate verb
 neglect       verb
 negotiate     verb
 neigh verb

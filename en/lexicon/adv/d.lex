@@ -19,5 +19,6 @@ downstream adv
 downtown adv
 downward adv
 downwards adv note=more frequent in British English
+downwind adv type=place
 dually adv
 duly adv

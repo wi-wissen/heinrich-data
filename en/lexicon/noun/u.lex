@@ -1,4 +1,5 @@
 Ukrainian     noun
+ulcer noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
@@ -44,6 +45,7 @@ unity         noun note=plural unities: the dramatic unities
 universe      noun
 university    noun
 unknown       noun
+unreality noun pl=- note=uncountable
 unrest        noun pl=- note=uncountable
 unwillingness noun pl=- note=uncountable
 upbringing noun

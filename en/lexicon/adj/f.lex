@@ -1,3 +1,4 @@
+fabled adj
 fabulous adj adv=fabulously
 facial         adj
 factual        adj adv=factually
@@ -9,6 +10,7 @@ false          adj cmp=er|more adv=falsely
 famed adj
 familial adj
 familiar       adj cmp=more adv=familiarly
+famished adj
 famous         adj cmp=more adv=famously
 fanatical adj cmp=more adv=fanatically
 fanciful adj
@@ -22,6 +24,7 @@ fast           adj cmp=er
 fastidious adj cmp=more adv=fastidiously
 fat            adj cmp=er
 fatal          adj adv=fatally
+fatherly adj
 fatty adj cmp=er
 faulty adj cmp=er|more
 favorable      adj gb=favourable adv=favorably
@@ -47,6 +50,7 @@ feverish adj cmp=more adv=feverishly
 fictional      adj
 fictitious adj
 fiduciary adj
+fiendish adj cmp=more adv=fiendishly
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
 Filipino       adj
@@ -125,6 +129,7 @@ French         adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+fricative adj
 friendly       adj cmp=er
 frightened adj cmp=more
 frightful      adj adv=frightfully

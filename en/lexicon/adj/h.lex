@@ -24,6 +24,7 @@ haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
+headstrong adj cmp=more
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
 heartbroken adj
@@ -101,5 +102,6 @@ hydraulic      adj
 hydroelectric adj
 hydrologic adj
 hyperbolic adj
+hypnotic adj adv=hypnotically
 hypothetical   adj adv=hypothetically
 hysterical adj adv=hysterically

@@ -16,9 +16,11 @@ radiance noun pl=- note=uncountable
 radiation noun note=plural radiations: kinds of radiation; adaptive radiations
 radiator noun
 radical noun
+radicalization noun gb=radicalisation|radicalization
 radio noun pl=radios
 radioisotope noun
 radiopharmaceutical noun
+radiotherapy noun pl=- note=uncountable
 radish noun
 radius noun pl=radii|radiuses
 raft noun
@@ -126,6 +128,7 @@ receptionist noun
 receptor noun
 recess noun
 recession noun
+recharge noun
 recipe noun
 recipient noun
 reciprocity noun pl=- note=uncountable
@@ -156,17 +159,20 @@ recruitment noun pl=- note=uncountable
 rectangle noun
 rectification noun
 rector noun
+rectory noun
 recurrence noun
 recusal noun
 recycling noun pl=- note=uncountable
 red noun
 redcurrant noun
+rededication noun
 redemption noun
 redeployment noun
 redesign noun
 redevelopment noun
 redirect noun
 redistribution noun
+redox noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
@@ -176,6 +182,7 @@ reed noun
 reef noun pl=reefs
 reel noun
 ref noun style=colloquial note=referee; reference
+refectory noun
 referee noun
 reference noun
 referendum noun pl=referendums|referenda
@@ -187,6 +194,7 @@ reflex noun
 reform noun
 reformation noun note=the historical Reformation is a separate propn
 reformer noun
+refraction noun
 refrain noun
 refreshment noun
 refrigerant noun
@@ -217,6 +225,7 @@ regular noun
 regularity noun
 regulation noun
 regulator noun
+rehab noun
 rehabilitation noun pl=- note=uncountable
 rehearing noun
 rehearsal noun
@@ -230,6 +239,7 @@ reinsurance noun pl=- note=uncountable
 reinvestment noun
 reissue noun
 rejection noun
+rejoinder noun
 relapse noun
 relation noun
 relationship noun
@@ -289,6 +299,7 @@ repatriation noun
 repayment noun
 repeal noun
 repeat noun
+repellent noun
 repentance noun pl=- note=uncountable
 repertoire noun
 repetition noun
@@ -368,6 +379,7 @@ restaurant noun
 restitution noun pl=- note=uncountable
 restlessness noun pl=- note=uncountable
 restoration noun
+restorative noun
 restraint noun
 restriction noun
 restroom noun
@@ -402,6 +414,7 @@ reuse noun
 revaluation noun
 revel noun
 revelation noun
+revelry noun
 revenge noun note=plural revenges is literary
 revenue noun
 reverence noun note=plural reverences: bows (archaic)
@@ -454,6 +467,7 @@ rigidity noun
 rigor noun gb=rigour
 rim noun
 ring noun
+ringlet noun
 ringtone noun
 rink noun
 riot noun
@@ -467,6 +481,7 @@ ritual noun
 rival noun
 rivalry noun
 river noun
+riverfront noun
 riverside noun
 rivet noun
 rivulet noun
@@ -504,11 +519,13 @@ romantic noun
 roof noun pl=roofs
 roofing noun pl=- note=material
 rook noun
+rookery noun
 rookie noun
 room noun
 rooster noun
 root noun
 rope noun
+rosary noun
 rose noun
 rosemary noun pl=- note=uncountable
 roster noun

@@ -79,11 +79,13 @@ element noun
 elephant noun
 elevation noun
 elevator noun
+elf noun pl=elves
 eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
 elk noun pl=elk|elks
 elm noun
+elongation noun
 eloquence noun pl=- note=uncountable
 em noun
 email noun
@@ -128,6 +130,7 @@ enchantment noun
 enclave noun
 enclosure noun
 encoder noun
+encore noun
 encounter noun
 encouragement noun
 encryption noun
@@ -158,11 +161,13 @@ enjoyment noun
 enlargement noun
 enlightenment noun
 enmity noun
+ennui noun pl=- note=uncountable
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
 ensemble noun
 ensign noun
+enslavement noun pl=- note=uncountable
 enterprise noun
 entertainer noun
 entertainment noun
@@ -199,6 +204,7 @@ equation noun
 equator noun
 equilibrium noun pl=equilibria|equilibriums
 equine noun
+equinox noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
@@ -242,9 +248,11 @@ ether noun
 ethic noun
 Ethiopian noun
 ethnicity noun
+ethylene noun pl=- note=uncountable
 etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
+eugenics noun pl=- note=uncountable, singular agreement
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
@@ -265,6 +273,7 @@ evil noun
 evolution noun
 ewe noun
 ex noun conf=90 note=former partner
+exactness noun pl=- note=uncountable
 exaggeration noun
 exam noun
 examination noun
@@ -360,3 +369,4 @@ eyebrow noun
 eyelash noun
 eyelid noun
 eyesight noun pl=- note=uncountable
+eyewitness noun

@@ -120,6 +120,7 @@ noodle noun
 nook noun
 noon          noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
+norepinephrine noun pl=- note=uncountable
 norm          noun
 Norman        noun note=plural Normans (not -men)
 norovirus     noun

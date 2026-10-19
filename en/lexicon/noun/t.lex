@@ -14,6 +14,7 @@ taco noun pl=tacos
 tact noun pl=- note=uncountable
 tactic noun
 tadpole noun
+taekwondo noun pl=- note=uncountable
 tag noun
 tagline noun
 tail noun
@@ -44,6 +45,7 @@ tar noun
 tarantula noun
 target noun
 tariff noun
+tarsus noun pl=tarsi
 tart noun
 task noun
 taskforce noun
@@ -74,6 +76,7 @@ teatime noun
 tech noun pl=techs note=colloquial: technology; technician
 technician noun
 technique noun
+techno noun pl=- note=uncountable
 technology noun
 teddy noun
 teen noun
@@ -112,6 +115,7 @@ tenant noun
 tendency noun
 tender noun
 tenderness noun
+tendon noun
 tenement noun
 tenet noun
 tennis noun pl=- note=uncountable
@@ -213,6 +217,7 @@ tights noun pl_only
 tile noun
 tilt noun
 timber noun
+timbre noun
 time noun
 timecard noun
 timeframe noun
@@ -265,6 +270,7 @@ tomorrow noun note=plural tomorrows is literary (better tomorrows)
 ton noun
 tone noun
 toner noun
+tongs noun pl_only
 tongue noun
 tonic noun
 tonight noun pl=- note=no plural: deictic time noun
@@ -274,6 +280,7 @@ tonsillitis noun pl=- note=uncountable
 tool noun
 toolbar noun
 toolkit noun
+toon noun style=colloquial conf=80 note=short for cartoon
 tooth noun pl=teeth
 toothache noun
 toothbrush noun
@@ -305,6 +312,7 @@ touchdown noun
 touchpad noun
 touchpoint noun
 touchscreen noun
+toughness noun pl=- note=uncountable
 tour noun
 tourism noun pl=- note=uncountable
 tourist noun
@@ -323,6 +331,7 @@ toxin noun
 toy noun
 trace noun
 traceability noun pl=- note=uncountable
+tracery noun
 track noun
 tracker noun
 trackpad noun
@@ -368,6 +377,7 @@ transition noun
 translation noun
 translator noun
 transmission noun
+transmittal noun
 transmitter noun
 transparency noun
 transplant noun
@@ -443,6 +453,7 @@ trustee noun
 trusteeship noun
 trustworthiness noun pl=- note=uncountable
 truth noun
+truthfulness noun pl=- note=uncountable
 try noun
 tsar noun note=czar is a separate entry
 tsunami noun
@@ -459,6 +470,7 @@ tumor noun gb=tumour
 tumult noun
 tuna noun pl=tuna|tunas
 tune noun
+tungsten noun pl=- note=uncountable
 tunic noun
 tunnel noun
 turbine noun
@@ -482,6 +494,7 @@ tutor noun
 tutorial noun
 TV noun abbr note=television
 tweet noun
+twelvemonth noun style=archaic
 twig noun
 twilight noun
 twin noun
@@ -489,6 +502,7 @@ twine noun
 twinkle noun
 twist noun
 twitch noun
+tycoon noun
 type noun
 typewriter noun
 typhoon noun

@@ -51,6 +51,7 @@ whisk verb
 whisper verb
 whistle verb
 whitelist verb
+whiten verb
 whitewash verb
 whittle verb
 whizz verb
@@ -85,6 +86,7 @@ worsen verb
 worship verb past=worshiped[US]|worshipped pp=worshiped[US]|worshipped ing=worshiping[US]|worshipping
 worst verb note=to defeat; worsted
 wound verb
+wrangle verb
 wrap verb
 wreak verb
 wreck verb

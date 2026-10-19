@@ -10,6 +10,7 @@ handle         verb
 hang           verb past=hanged pp=hanged sense=execute note=put to death by hanging
 hang           verb past=hung pp=hung sense=suspend
 happen         verb
+harangue verb
 harass verb
 harbor         verb gb=harbour
 harden         verb

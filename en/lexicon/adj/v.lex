@@ -14,15 +14,18 @@ vehement adj adv=vehemently
 venerable     adj
 Venetian      adj
 Venezuelan adj
+vengeful adj cmp=more adv=vengefully
 venomous adj cmp=more
 venous adj
 ventral adj adv=ventrally
 verbal        adj adv=verbally
+verdant adj
 verifiable adj adv=verifiably
 veritable adj
 vermilion adj
 vernacular adj
 versatile adj cmp=more
+vertebral adj
 vertical      adj adv=vertically
 vested        adj attr_only
 veterinary    adj

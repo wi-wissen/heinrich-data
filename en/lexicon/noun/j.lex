@@ -24,6 +24,7 @@ jeopardy noun
 jerk noun
 jersey         noun
 jest           noun
+jester noun
 Jesuit         noun
 jet            noun
 Jew            noun
@@ -72,3 +73,4 @@ justice        noun
 justification  noun
 jute noun pl=- note=uncountable
 juvenile       noun
+juxtaposition noun

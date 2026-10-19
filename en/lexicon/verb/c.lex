@@ -74,6 +74,7 @@ chatter verb
 chauffeur verb
 cheat verb
 check verb
+checkmate verb
 cheer verb
 cherish verb
 chew verb
@@ -82,6 +83,7 @@ chill verb
 chime verb
 chip verb
 chirp verb
+chloroform verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -286,6 +288,7 @@ correspond verb
 corroborate verb
 corrupt verb
 cost verb past=cost pp=cost
+costume verb
 couch verb
 cough verb
 counsel verb
@@ -293,6 +296,7 @@ count verb
 countenance verb
 counter verb
 counteract verb
+counterbalance verb
 counterfeit verb
 countersign verb
 couple verb
@@ -301,6 +305,7 @@ covenant verb
 cover verb
 covet verb
 cow verb
+cower verb
 crack verb
 crackle verb
 cradle verb

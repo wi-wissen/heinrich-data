@@ -42,6 +42,7 @@ reappoint verb
 rear verb
 rearrange verb
 reason verb
+reassert verb
 reassign verb
 reassure verb
 rebalance verb
@@ -59,6 +60,7 @@ recapture verb
 recede verb
 receive verb
 recess verb
+recharge verb
 reciprocate verb
 recite verb
 reckon verb
@@ -130,6 +132,7 @@ regulate verb
 rehabilitate verb
 rehearse verb
 reheat verb
+rehire verb
 reign verb
 reimburse verb
 rein verb
@@ -187,6 +190,7 @@ renumber verb
 reoffend verb
 reopen verb prefix=re
 reorganize verb gb=reorganise|reorganize
+repaint verb
 repair verb
 repatriate verb
 repay verb prefix=re past=repaid pp=repaid
@@ -212,6 +216,7 @@ reproach verb
 reprocess verb
 reproduce verb
 reprogram verb double
+reprove verb
 republish verb
 repudiate verb
 repulse verb

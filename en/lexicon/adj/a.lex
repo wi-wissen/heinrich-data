@@ -141,6 +141,7 @@ Antarctic adj
 anterior adj
 anthropogenic adj
 anti-aircraft adj
+antiaircraft adj
 antidumping adj
 antiquarian adj
 antiquated adj
@@ -149,6 +150,7 @@ antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 antitrust adj
 anxious adj cmp=more adv=anxiously
+apocalyptic adj cmp=more adv=apocalyptically
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
@@ -186,6 +188,7 @@ armored adj gb=armoured
 aromatic adj cmp=more
 arrogant adj cmp=more adv=arrogantly
 arterial adj
+artful adj cmp=more adv=artfully
 articular adj
 articulate adj adv=articulately
 artificial adj adv=artificially
@@ -195,6 +198,7 @@ ashamed adj pred_only
 Ashkenazi adj
 Asian adj
 Asiatic adj
+askew adj pred_only
 asleep adj pred_only
 assertive adj cmp=more adv=assertively
 assignable adj

@@ -87,6 +87,7 @@ tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 trans adj note=transgender; also chemistry (trans isomer)
 transatlantic adj
+transcendental adj
 transcontinental adj
 transferable adj
 transformational adj
@@ -113,6 +114,7 @@ triple adj
 triumphant adj adv=triumphantly
 trivial adj
 Trojan adj
+trophic adj
 tropical adj
 troublesome adj
 true adj cmp=er adv=truly

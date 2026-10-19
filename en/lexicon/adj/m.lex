@@ -42,6 +42,7 @@ mass          adj attr_only
 massive       adj cmp=more adv=massively
 masterful adj cmp=more adv=masterfully
 matching      adj
+matchless adj
 material      adj adv=materially
 maternal      adj
 mathematical  adj adv=mathematically
@@ -80,6 +81,7 @@ merry         adj cmp=er adv=merrily
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
+metamorphic adj
 metaphysical adj
 meteorological adj
 methodical adj cmp=more adv=methodically
@@ -87,6 +89,7 @@ Methodist     adj
 methodological adj adv=methodologically
 meticulous adj cmp=more adv=meticulously
 metric        adj
+metrical adj
 metropolitan  adj
 Mexican       adj
 microbial adj
@@ -164,9 +167,11 @@ multilingual adj
 multinational adj
 multiplayer adj
 multiple      adj
+multiplicative adj
 multipurpose adj
 municipal     adj
 murderous adj
+murky adj cmp=er adv=murkily
 muscular      adj
 mushy adj cmp=er
 musical       adj adv=musically

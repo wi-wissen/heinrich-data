@@ -15,6 +15,7 @@ Latin         adj note=capitalized: language and culture
 Latino        adj
 latter        adj attr_only
 Latvian adj
+laughable adj adv=laughably
 lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
@@ -71,6 +72,7 @@ live          adj attr_only
 lively        adj cmp=er
 local         adj adv=locally
 lofty         adj cmp=er
+logarithmic adj adv=logarithmically
 logical       adj cmp=more adv=logically
 logistical adj
 Lombard adj
@@ -87,6 +89,7 @@ lovely        adj cmp=er
 lovesick adj
 loving        adj adv=lovingly
 low           adj cmp=er
+lowercase adj
 lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
 lucky         adj cmp=er adv=luckily
@@ -96,6 +99,7 @@ luminous adj
 lumpy adj cmp=er
 lunar         adj
 lurid adj cmp=more adv=luridly
+lusty adj cmp=er adv=lustily
 Lutheran      adj
 luxuriant adj
 luxurious     adj adv=luxuriously

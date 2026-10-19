@@ -14,6 +14,7 @@ veil          verb
 vend verb
 venerate verb
 vent          verb
+ventilate verb
 venture       verb
 verge         verb
 verify        verb

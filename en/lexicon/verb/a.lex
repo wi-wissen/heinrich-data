@@ -115,6 +115,7 @@ announce verb
 annoy verb
 annualize verb gb=annualise|annualize
 annul verb double
+anoint verb
 anonymize verb gb=anonymise|anonymize
 answer verb
 ante verb past=anted|anteed pp=anted|anteed ing=anteing conf=80 note=as in ante up; past forms vary

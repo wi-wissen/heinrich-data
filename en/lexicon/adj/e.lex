@@ -3,6 +3,7 @@ early adj cmp=er
 earnest adj adv=earnestly
 earthen adj
 earthly adj
+earthy adj cmp=er
 east adj
 eastbound adj
 easterly adj
@@ -22,6 +23,7 @@ educational adj adv=educationally
 eerie adj cmp=er adv=eerily
 effective adj cmp=more adv=effectively
 effectual adj adv=effectually
+efficacious adj cmp=more adv=efficaciously
 efficient adj cmp=more adv=efficiently
 egregious adj cmp=more adv=egregiously
 Egyptian adj
@@ -50,6 +52,7 @@ emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
 employable adj cmp=more
 empty adj cmp=er
+enamored adj gb=enamoured
 endemic adj
 endless adj adv=endlessly
 energetic adj adv=energetically
@@ -68,6 +71,7 @@ environmental adj adv=environmentally
 epic adj
 Episcopal adj
 episcopal adj
+epithelial adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
@@ -106,6 +110,7 @@ exceeding adj adv=exceedingly
 excellent adj adv=excellently
 exceptional adj adv=exceptionally
 excessive adj adv=excessively
+excitable adj cmp=more
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively

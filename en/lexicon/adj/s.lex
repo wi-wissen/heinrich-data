@@ -20,6 +20,7 @@ satisfying adj
 Saudi adj
 savage adj cmp=more adv=savagely
 savory adj gb=savoury
+savvy adj cmp=er
 Saxon adj note=demonym, capitalized
 scalable adj
 scalar adj
@@ -31,6 +32,7 @@ scarce adj cmp=er
 scared adj cmp=more
 scarlet adj
 scary adj cmp=er
+scathing adj cmp=more adv=scathingly
 scenic adj cmp=more
 scented adj
 scholarly adj
@@ -75,14 +77,17 @@ sensual adj cmp=more adv=sensually
 sentimental adj cmp=more
 separate adj adv=separately
 separatist adj
+septic adj
 sequential adj adv=sequentially
 Serbian adj
 serene adj cmp=er|more adv=serenely
 serial adj
 serious adj cmp=more adv=seriously
+serpentine adj
 serviceable adj
 severe adj cmp=er|more adv=severely
 sexual adj adv=sexually
+sexy adj cmp=er adv=sexily
 shabby adj cmp=er
 shadowy adj cmp=more
 shady adj cmp=er
@@ -92,18 +97,20 @@ shameful adj cmp=more adv=shamefully
 sharp adj cmp=er adv=sharply
 sheer adj cmp=er
 shiny adj cmp=er
+shipboard adj
 shocking adj cmp=more adv=shockingly
 short adj cmp=er adv=shortly
 showery adj
 showy adj cmp=er
 shrewd adj cmp=er
-shrill adj cmp=er
+shrill adj cmp=er adv=shrilly
 shy adj cmp=shyer|shier sup=shyest|shiest adv=shyly
 Siberian adj
 Sicilian adj
 sick adj cmp=er
 sickening adj
 sickly adj cmp=er
+sidelong adj
 sideways adj
 significant adj cmp=more adv=significantly
 Sikh adj
@@ -278,6 +285,8 @@ stupid adj cmp=er|more
 sturdy adj cmp=er
 stylish adj cmp=more adv=stylishly
 stylistic adj
+suave adj cmp=er|more adv=suavely
+subconscious adj adv=subconsciously
 subject adj note=subject to
 subjective adj adv=subjectively
 sublime adj cmp=er|more
@@ -333,6 +342,7 @@ surrogate adj
 susceptible adj
 suspicious adj cmp=more adv=suspiciously
 sustainable adj adv=sustainably
+sutural adj
 swampy adj cmp=er
 swarthy adj cmp=er
 sweaty adj cmp=er
@@ -342,6 +352,7 @@ sweet adj cmp=er adv=sweetly
 sweltering adj
 swift adj cmp=er adv=swiftly
 Swiss adj
+sylvan adj
 symbolic adj adv=symbolically
 symmetric adj
 symmetrical adj adv=symmetrically
