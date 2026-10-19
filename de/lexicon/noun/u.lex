@@ -110,6 +110,7 @@ Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
 Unmut noun g=m gen=Unmuts|Unmutes pl=- note=no plural
 Unordnung noun g=f gen=Unordnung pl=- note=no plural
+Unparteiische noun g=m|f decl=adj note=referee; lexicalised
 Unrat noun g=m gen=Unrats|Unrates pl=- note=no plural
 Unrecht noun g=n gen=Unrechts|Unrechtes pl=- note=no plural
 Unruhe noun g=f gen=Unruhe pl=Unruhen
@@ -117,6 +118,7 @@ Unschuld noun g=f gen=Unschuld pl=- note=no plural
 Unsicherheit noun g=f gen=Unsicherheit pl=Unsicherheiten
 Unsinn noun g=m gen=Unsinns|Unsinnes pl=- note=no plural
 Unsterblichkeit noun g=f gen=Unsterblichkeit pl=- note=no plural
+Unstimmigkeit noun g=f gen=Unstimmigkeit pl=Unstimmigkeiten
 Unterbrechung noun g=f gen=Unterbrechung pl=Unterbrechungen
 Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen
@@ -151,6 +153,7 @@ Untertitel noun g=m gen=Untertitels pl=Untertitel
 Unterweisung noun g=f gen=Unterweisung pl=Unterweisungen
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen
+Unverletzlichkeit noun g=f gen=Unverletzlichkeit pl=- note=mass noun
 Unverschämtheit noun g=f gen=Unverschämtheit pl=Unverschämtheiten
 Unversehrtheit noun g=f gen=Unversehrtheit pl=- note=no plural
 Unwissenheit noun g=f gen=Unwissenheit pl=- note=no plural

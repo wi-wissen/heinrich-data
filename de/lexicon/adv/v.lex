@@ -4,6 +4,7 @@ vorab adv
 voran adv
 voraus adv
 vorbei adv
+vordem adv type=time
 vorerst adv type=time
 vormals adv type=time
 vornehmlich adv

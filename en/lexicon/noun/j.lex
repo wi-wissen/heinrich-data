@@ -8,6 +8,7 @@ jaguar noun
 jail           noun
 jam noun
 Jamaican noun
+janitor noun
 Jap noun style=offensive note=slur for Japanese people
 Japanese       noun pl=Japanese
 jar noun
@@ -18,6 +19,7 @@ jay noun
 jazz           noun pl=- note=uncountable
 jealousy       noun
 jeans noun pl_only
+jeep noun conf=90 note=originally a trademark (Jeep)
 jelly noun
 jellyfish noun pl=jellyfish|jellyfishes
 jeopardy noun
@@ -31,8 +33,10 @@ Jew            noun
 jewel          noun
 jeweler noun gb=jeweller
 jewelry noun gb=jewellery pl=- note=uncountable
+jig noun
 jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
+jihad noun
 jingle noun
 job            noun
 jobcentre noun region=GB
@@ -42,6 +46,7 @@ jockey noun
 joey noun note=young kangaroo
 joint          noun
 joke           noun
+joker noun
 jotter noun region=GB
 journal        noun
 journalism     noun pl=- note=uncountable

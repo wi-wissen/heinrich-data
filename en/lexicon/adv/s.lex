@@ -4,6 +4,7 @@ seldom adv type=frequency
 severally adv note=legal register: jointly and severally
 sidelong adv type=manner
 sideways adv
+smilingly adv type=manner
 somehow adv type=manner
 sometime adv type=time
 sometimes adv type=frequency

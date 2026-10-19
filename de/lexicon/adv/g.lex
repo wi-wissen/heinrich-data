@@ -1,4 +1,5 @@
 gänzlich adv
+gemeiniglich adv style=archaic note=commonly, usually
 geradeaus adv type=direction
 geradezu adv
 gern         adv cmp=lieber sup=liebsten

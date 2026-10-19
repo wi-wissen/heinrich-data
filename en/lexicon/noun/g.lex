@@ -6,6 +6,7 @@ gaiety noun
 gain           noun
 gait noun
 gal noun style=colloquial
+gala noun
 galaxy         noun
 gale           noun
 gall noun
@@ -25,7 +26,9 @@ gamete noun
 gaming         noun pl=- note=uncountable
 gamma noun
 gang           noun
+ganglion noun pl=ganglia|ganglions
 gangster noun
+gangway noun
 gap            noun
 garage         noun
 garb noun
@@ -35,7 +38,9 @@ gardener       noun
 garland        noun
 garlic noun pl=- note=uncountable
 garment        noun
+garnet noun
 garnishment noun
+garret noun
 garrison       noun
 gas            noun pl=gases
 gasoline       noun pl=- note=uncountable
@@ -47,15 +52,18 @@ gathering      noun
 gauge          noun
 gauntlet noun
 gay            noun
+gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
 gaze           noun
 gazelle noun
 gazette        noun
 GDP            noun abbr note=gross domestic product
 gear           noun
+gearbox noun
 gearing noun pl=- region=GB note=uncountable; US leverage
 gecko noun pl=geckos
 gel noun
 gem noun
+gemmule noun
 gender         noun
 gene           noun
 genealogy noun
@@ -65,7 +73,7 @@ generalization noun gb=generalisation|generalization
 generation     noun
 generator      noun
 generosity     noun note=plural generosities: acts of generosity
-geneticist noun
+genesis noun pl=geneses
 genetics noun pl=- note=uncountable
 genie noun pl=genies|genii
 genital noun
@@ -89,6 +97,7 @@ Georgian       noun
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
+gestation noun
 gesture        noun
 ghetto noun pl=ghettos|ghettoes
 ghost          noun
@@ -109,6 +118,7 @@ giraffe noun pl=giraffes
 girdle noun
 girl           noun
 girlfriend     noun
+girlhood noun
 git noun style=colloquial region=GB
 glacier noun
 glade noun
@@ -140,9 +150,11 @@ go             noun pl=goes note=an attempt, have a go
 goal           noun
 goalie noun
 goalkeeper     noun
+goalscorer noun
 goaltender noun
 goat           noun
 goblet noun
+goblin noun
 god            noun
 godchild noun pl=godchildren
 goddess        noun
@@ -171,11 +183,14 @@ gospel         noun
 gossip         noun
 Goth noun
 gouache noun
+gourd noun
 gout noun pl=- note=uncountable
 governance     noun pl=- note=uncountable
 governess      noun
 government     noun
 governor       noun
+governorate noun
+governorship noun
 gown           noun
 GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
@@ -206,6 +221,7 @@ grandmother    noun
 grandpa noun
 grandparent    noun
 grandson       noun
+grandstand noun
 grange         noun
 granite        noun
 granny noun
@@ -255,6 +271,8 @@ grille noun
 grin           noun
 grind          noun
 grip           noun
+grist noun pl=- note=uncountable
+gristmill noun
 grit noun
 grizzly        noun
 groan          noun
@@ -268,6 +286,7 @@ groundwater    noun pl=- note=uncountable
 groundwork noun
 group          noun
 grouping       noun
+grouse noun pl=grouse|grouses note=grouse for the bird, grouses for complaints
 grove          noun
 grower noun
 growl          noun
@@ -294,6 +313,7 @@ guinea         noun
 guise noun
 guitar         noun
 guitarist      noun
+gulch noun
 gulf           noun note=plural gulfs
 gull noun
 gully noun
@@ -306,6 +326,7 @@ gunman noun pl=gunmen
 gunner noun
 gunpowder noun
 gunshot noun
+gunwale noun
 gurgle noun
 guru noun
 gush noun

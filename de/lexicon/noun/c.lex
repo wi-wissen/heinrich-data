@@ -34,6 +34,7 @@ Chance        noun g=f gen=Chance pl=Chancen
 Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
+Charge noun g=f gen=Charge pl=Chargen
 Charme noun g=m gen=Charmes pl=- note=no plural
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
@@ -63,8 +64,10 @@ Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Chor          noun g=m gen=Chores|Chors pl=Chöre
 Christ noun g=m gen=Christen pl=Christen
+Christenheit noun g=f gen=Christenheit pl=- note=collective noun
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christin noun g=f gen=Christin pl=Christinnen
+Chrom noun g=n gen=Chroms pl=- note=mass noun
 Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
@@ -78,6 +81,7 @@ Cloud noun g=f gen=Cloud pl=Clouds
 Clown noun g=m gen=Clowns pl=Clowns
 Clownin noun g=f gen=Clownin pl=Clowninnen
 Club          noun g=m gen=Clubs pl=Clubs
+Cluster noun g=m gen=Clusters pl=Cluster
 Coach noun g=m gen=Coachs|Coaches pl=Coachs|Coaches
 Coaching noun g=n gen=Coachings pl=Coachings
 Cocktail noun g=m gen=Cocktails pl=Cocktails

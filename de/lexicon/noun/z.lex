@@ -76,6 +76,7 @@ Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziehharmonika noun g=f gen=Ziehharmonika pl=Ziehharmonikas|Ziehharmoniken
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
+Zierde noun g=f gen=Zierde pl=Zierden
 Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
@@ -96,6 +97,7 @@ Zinsen noun g=pl
 Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirkel noun g=m gen=Zirkels pl=Zirkel
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
+Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
 Zitrone noun g=f gen=Zitrone pl=Zitronen
 Zivi noun g=m gen=Zivis pl=Zivis
@@ -205,6 +207,7 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps

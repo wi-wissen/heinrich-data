@@ -9,7 +9,7 @@ identical      adj adv=identically
 identifiable   adj
 ideological    adj adv=ideologically
 idle           adj cmp=er adv=idly
-idyllic adj adv=idyllically
+igneous adj
 ignoble adj
 ignorant       adj
 ill            adj
@@ -19,6 +19,7 @@ illegible adj adv=illegibly
 illegitimate   adj
 illicit        adj adv=illicitly
 illiterate adj
+illogical adj adv=illogically
 illustrative adj
 illustrious    adj
 imaginable adj
@@ -51,7 +52,7 @@ imperious adj cmp=more adv=imperiously
 impersonal adj adv=impersonally
 impertinent adj
 impetuous adj cmp=more
-implantable adj
+implacable adj adv=implacably
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
@@ -61,7 +62,9 @@ impractical adj
 impregnable adj
 impressive     adj adv=impressively
 improbable     adj adv=improbably
+impromptu adj
 improper       adj adv=improperly
+imprudent adj cmp=more adv=imprudently
 impudent adj cmp=more
 impulsive adj adv=impulsively
 inaccessible adj
@@ -69,9 +72,11 @@ inaccurate     adj adv=inaccurately
 inactive       adj
 inadequate     adj adv=inadequately
 inadvertent    adj adv=inadvertently
+inalienable adj
 inanimate adj
 inapplicable adj
 inappropriate  adj adv=inappropriately
+inarticulate adj adv=inarticulately
 inaudible adj
 inaugural      adj
 inbound adj
@@ -92,6 +97,7 @@ incomplete     adj
 incomprehensible adj
 inconceivable adj
 inconclusive adj adv=inconclusively
+incongruous adj adv=incongruously
 inconsistent   adj adv=inconsistently
 inconvenient adj
 incorrect      adj adv=incorrectly
@@ -100,11 +106,15 @@ incredible     adj adv=incredibly
 incredulous adj cmp=more adv=incredulously
 incremental    adj adv=incrementally
 incumbent      adj
+incurable adj
 indebted adj
 indecent adj
+indefatigable adj adv=indefatigably
+indefensible adj
 indefinite     adj adv=indefinitely
 independent    adj adv=independently
 indescribable adj
+indeterminate adj
 Indian         adj
 indicative     adj
 indie adj
@@ -112,6 +122,7 @@ indifferent    adj adv=indifferently
 indigenous     adj
 indignant      adj adv=indignantly
 indirect       adj adv=indirectly
+indiscreet adj
 indiscriminate adj adv=indiscriminately
 indispensable  adj
 indisposed adj pred_only
@@ -123,27 +134,39 @@ indolent adj
 indomitable adj
 Indonesian     adj
 indoor         adj attr_only
+inductive adj adv=inductively
 indulgent adj cmp=more
 industrial     adj adv=industrially
 industrious adj
+ineffable adj adv=ineffably
 ineffective    adj adv=ineffectively
 ineffectual adj
 inefficient adj adv=inefficiently
 ineligible     adj
 inert adj
+inestimable adj
 inevitable     adj adv=inevitably
+inexcusable adj adv=inexcusably
 inexhaustible adj
+inexorable adj adv=inexorably
 inexpensive adj
 inexperienced adj
 inexplicable adj
 inexpressible adj adv=inexpressibly
 inextricable adj adv=inextricably
+infallible adj adv=infallibly
 infamous       adj
+infatuated adj
+infeasible adj
 infectious     adj
 inferior       adj
 infernal adj
 infinite       adj adv=infinitely
+infinitesimal adj adv=infinitesimally
+infirm adj
 inflammatory adj
+inflatable adj
+inflationary adj
 inflexible adj adv=inflexibly
 influential    adj
 informal       adj adv=informally
@@ -153,15 +176,19 @@ informed       adj cmp=more
 infrared adj
 infrequent adj adv=infrequently
 ingenious      adj adv=ingeniously
+ingenuous adj adv=ingenuously
 inherent       adj adv=inherently
+inhospitable adj
 inhuman adj
-inimitable adj adv=inimitably
+inhumane adj adv=inhumanely
 initial        adj adv=initially
 injured        adj
 injurious adj
 inland         adj
+inmost adj
 innate adj
 inner          adj attr_only
+innermost adj
 innocent       adj adv=innocently
 innovative     adj
 innumerable    adj
@@ -176,9 +203,11 @@ inscrutable adj
 insecure adj
 insensible adj
 inseparable adj
+inshore adj
 insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
+insistent adj cmp=more adv=insistently
 insolent adj adv=insolently
 insolvent adj
 inspirational adj
@@ -190,6 +219,8 @@ instructional adj
 instructive adj
 instrumental   adj
 insufficient   adj adv=insufficiently
+insular adj cmp=more
+insurmountable adj
 intact         adj
 intangible adj
 integral       adj adv=integrally
@@ -207,6 +238,7 @@ intercity adj
 intercollegiate adj
 intercontinental adj
 interdepartmental adj
+interdependent adj
 interdisciplinary adj
 interested     adj cmp=more
 interesting    adj cmp=more adv=interestingly
@@ -218,16 +250,20 @@ interminable adj adv=interminably
 intermittent adj adv=intermittently
 internal       adj adv=internally
 international  adj adv=internationally
+interoperable adj
 interpersonal adj
 interpretive adj
+intersex adj
 interstate     adj
 interstellar adj
+interwar adj
 intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
 intractable adj cmp=more adv=intractably
 intrastate adj
-intrepid adj cmp=more adv=intrepidly
+intravenous adj adv=intravenously
+intrepid adj adv=intrepidly
 intricate adj cmp=more adv=intricately
 intrinsic adj adv=intrinsically
 introductory   adj
@@ -248,22 +284,30 @@ invincible adj
 invisible      adj adv=invisibly
 involuntary adj adv=involuntarily
 inward         adj
+Ionic adj note=the order of architecture and the Greek dialect
+ionic adj note=chemistry
 Iranian        adj
 Iraqi          adj
 Irish          adj
+irksome adj cmp=more
+ironclad adj
 ironic adj adv=ironically
+ironical adj note=adverb ironically comes from ironic
 Iroquois adj
 irrational adj adv=irrationally
 irreducible adj
 irregular      adj adv=irregularly
 irrelevant adj
+irreparable adj adv=irreparably
+irreplaceable adj
+irrepressible adj
 irresistible   adj adv=irresistibly
 irresolute adj cmp=more adv=irresolutely
 irrespective   adj note=only in irrespective of
 irresponsible  adj adv=irresponsibly
 irreversible adj
 irrevocable adj adv=irrevocably
-irritable adj cmp=more
+irritable adj cmp=more adv=irritably
 Islamic        adj
 Islamist adj
 isomorphic adj
@@ -271,3 +315,5 @@ Israeli        adj
 Italian        adj
 italic adj
 itchy adj cmp=er
+iterative adj
+itinerant adj

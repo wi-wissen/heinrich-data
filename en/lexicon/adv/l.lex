@@ -2,6 +2,7 @@ lastly        adv
 late          adv type=time cmp=er
 lately        adv type=time
 latterly adv type=time
+laughingly adv type=manner
 left          adv
 leisurely     adv
 likely        adv

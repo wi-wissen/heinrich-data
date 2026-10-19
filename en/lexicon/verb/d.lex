@@ -18,6 +18,7 @@ dazzle verb
 deactivate verb
 deal verb past=dealt pp=dealt
 debate verb
+debilitate verb
 debit verb
 debrief verb
 debug verb double
@@ -74,6 +75,7 @@ demonstrate verb
 demote verb
 denote verb
 denounce verb
+dent verb
 deny verb
 depart verb
 depend verb
@@ -91,9 +93,11 @@ depress verb
 deprive verb
 derail verb
 deregulate verb
+deride verb
 derive verb
 descend verb
 describe verb
+descry verb
 desert verb
 deserve verb
 design verb
@@ -171,10 +175,14 @@ discuss verb
 disdain verb
 disembark verb
 disengage verb
+disfigure verb
 disgrace verb
 disguise verb
 disgust verb
 dish verb
+dishearten verb
+dishonor verb gb=dishonour
+disintegrate verb
 dislike verb
 dislodge verb
 dismantle verb
@@ -225,6 +233,7 @@ doctor verb
 document verb
 dodge verb
 dog verb
+dole verb
 domesticate verb
 domicile verb
 dominate verb

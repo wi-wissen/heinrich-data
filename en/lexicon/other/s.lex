@@ -12,7 +12,9 @@ Sgt. x abbr note=Sergeant
 shh intj
 sic x foreign note=Latin, marks a quotation as original
 Signor x foreign note=Italian title
+signore x foreign conf=90 note=Italian form of address
 Sinn x foreign note=in Sinn Féin
+situ x foreign note=only in in situ
 sq. x abbr note=square
 Sr. x abbr note=Senior
 ss. x abbr note=sections
