@@ -125,6 +125,7 @@ Adapter noun g=m gen=Adapters pl=Adapter
 Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
 Adel noun g=m gen=Adels pl=- note=mass noun
+Adelige noun g=m|f decl=adj note=variant of Adlige
 Adelsfamilie noun g=f gen=Adelsfamilie pl=Adelsfamilien
 Adelsgeschlecht noun g=n gen=Adelsgeschlechts|Adelsgeschlechtes pl=Adelsgeschlechter
 Ader noun g=f gen=Ader pl=Adern
@@ -377,6 +378,7 @@ Antagonist noun g=m gen=Antagonisten pl=Antagonisten
 Anteil        noun g=m gen=Anteils|Anteiles pl=Anteile
 Antenne noun g=f gen=Antenne pl=Antennen
 Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
+Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
 Antisemitismus noun g=m gen=Antisemitismus pl=- note=mass noun

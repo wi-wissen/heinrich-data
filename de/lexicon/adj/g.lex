@@ -1,5 +1,6 @@
 gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
+ganzheitlich adj
 ganzjährig adj
 gar adj
 gasförmig adj
@@ -47,8 +48,10 @@ genial adj cmp=genialer sup=genialsten
 geografisch adj
 geographisch adj
 geologisch adj
+geometrisch adj
 gepunktet adj
 gerade adj cmp=gerader sup=geradesten
+geraum adj attr_only note=only in geraume Zeit, seit geraumer Zeit
 geräumig adj cmp=geräumiger sup=geräumigsten
 gerecht adj cmp=gerechter sup=gerechtesten
 gereizt adj cmp=gereizter sup=gereiztesten
@@ -67,6 +70,7 @@ geschwind adj cmp=geschwinder sup=geschwindesten
 gesellschaftlich adj
 gesetzlich adj
 gesetzwidrig adj
+gesinnt adj note=mostly with an adverb: freundlich gesinnt, die gleich gesinnten
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestresst adj cmp=gestresster sup=gestresstesten
@@ -108,6 +112,7 @@ gnädig adj cmp=gnädiger sup=gnädigsten
 golden adj
 gotisch adj
 göttlich adj
+grafisch adj
 gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is separate
 grammatikalisch adj
 grammatisch adj
@@ -116,6 +121,7 @@ gratis adj indecl
 grau adj cmp=grauer sup=grauesten
 grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten
+gravierend adj cmp=gravierender sup=gravierendsten note=serious (gravierende Mängel); not the participle of gravieren (engrave)
 grell adj cmp=greller sup=grellsten
 grenzüberschreitend adj
 greulich adj cmp=greulicher sup=greulichsten

@@ -78,7 +78,9 @@ kondolieren verb class=weak pp=kondoliert perf=haben
 konfigurieren verb class=weak pp=konfiguriert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konkretisieren verb class=weak pp=konkretisiert perf=haben
+konkurrieren verb class=weak pp=konkurriert perf=haben
 konsolidieren verb class=weak pp=konsolidiert perf=haben
+konstatieren verb class=weak pp=konstatiert perf=haben
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
 kontaktieren verb class=weak pp=kontaktiert perf=haben

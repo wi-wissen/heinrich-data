@@ -1,5 +1,6 @@
 taff adj cmp=taffer sup=taffsten
 täglich adj
+taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
 tapfer adj cmp=tapferer sup=tapfersten
 tariflich adj
@@ -14,6 +15,7 @@ tendenziös adj
 termingemäß adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
+thailändisch adj
 thematisch adj
 theologisch adj
 theoretisch adj
@@ -28,6 +30,7 @@ töricht adj
 tot adj
 total adj
 totalitär adj
+touristisch adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten

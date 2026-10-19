@@ -20,6 +20,7 @@ KfW propn g=f gen=KfW pl=- note=Kreditanstalt für Wiederaufbau
 Kiel propn g=n gen=Kiels pl=- demonym=Kieler note=proper name; no plural
 Kiew propn g=n gen=Kiews pl=- note=proper name; no plural
 Klagenfurt propn g=n gen=Klagenfurts pl=- note=city in Carinthia
+Kleinasien propn g=n gen=Kleinasiens pl=- note=proper name; no plural
 Kleve propn g=n gen=Kleves pl=- note=city in North Rhine-Westphalia
 Koblenz propn g=n gen=Koblenz pl=- note=proper name; no plural
 Köln propn g=n gen=Kölns pl=- demonym=Kölner note=proper name; no plural
