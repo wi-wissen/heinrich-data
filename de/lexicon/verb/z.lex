@@ -63,6 +63,7 @@ zerzausen verb class=weak pp=zerzaust perf=haben
 zeugen verb class=weak pp=gezeugt perf=haben
 ziehen verb class=strong 3sg=zieht past=zog pp=gezogen subj2=zöge perf=haben|sein
 zielen verb class=weak pp=gezielt perf=haben
+ziemen verb class=weak pp=geziemt perf=haben refl=acc note=es ziemt sich (nicht); elevated
 zieren verb class=weak pp=geziert perf=haben refl=acc note=stem zier-; not an -ieren verb
 zirpen verb class=weak pp=gezirpt perf=haben
 zischeln verb class=weak pp=gezischelt perf=haben
@@ -92,6 +93,7 @@ zugehören verb class=weak sep=zu pp=zugehört perf=haben
 zugestehen verb class=strong sep=zu 3sg=zugesteht past=zugestand pp=zugestanden subj2=zugestände|zugestünde perf=haben
 zugreifen verb class=strong sep=zu 3sg=zugreift past=zugriff pp=zugegriffen subj2=zugriffe perf=haben
 zugucken verb class=weak sep=zu pp=zugeguckt perf=haben
+zugutekommen verb class=strong sep=zugute 3sg=zugutekommt past=zugutekam pp=zugutegekommen subj2=zugutekäme perf=sein
 zuhören verb class=weak sep=zu pp=zugehört perf=haben
 zujubeln verb class=weak sep=zu pp=zugejubelt perf=haben
 zuklappen verb class=weak sep=zu pp=zugeklappt perf=haben|sein

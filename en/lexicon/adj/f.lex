@@ -5,6 +5,7 @@ factual        adj adv=factually
 faint          adj cmp=er adv=faintly
 fair           adj cmp=er adv=fairly
 faithful       adj adv=faithfully
+faithless adj
 fake           adj
 false          adj cmp=er|more adv=falsely
 famed adj
@@ -24,8 +25,11 @@ fast           adj cmp=er
 fastidious adj cmp=more adv=fastidiously
 fat            adj cmp=er
 fatal          adj adv=fatally
+fated adj
+fateful adj adv=fatefully
 fatty adj cmp=er
 faulty adj cmp=er|more
+faunal adj
 favorable      adj gb=favourable adv=favorably
 favorite       adj gb=favourite
 fearful        adj adv=fearfully
@@ -54,6 +58,7 @@ fiduciary adj
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
 figurative adj adv=figuratively
+filial adj
 Filipino       adj
 filthy adj cmp=er
 final          adj adv=finally
@@ -67,17 +72,19 @@ fiscal         adj adv=fiscally
 fit            adj cmp=er
 fitful adj adv=fitfully
 fitting        adj adv=fittingly
-fixed          adj
+fixed          adj adv=fixedly
 fizzy adj cmp=er
 flagrant adj adv=flagrantly
 flammable adj
 flat           adj cmp=er adv=flatly
 flawed adj
 flawless adj adv=flawlessly
+fledged adj
 fledgling adj attr_only
 fleecy adj cmp=er
 fleeting adj
 Flemish        adj
+fleshy adj cmp=er
 flexible       adj cmp=more adv=flexibly
 flimsy adj cmp=er
 floppy adj cmp=er
@@ -125,6 +132,7 @@ Franciscan adj
 frank          adj cmp=er adv=frankly
 Frankish       adj
 frantic adj cmp=more adv=frantically
+fraternal adj adv=fraternally
 fraudulent     adj adv=fraudulently
 fraught adj cmp=more
 freaky adj cmp=er style=colloquial
@@ -132,18 +140,24 @@ freckled adj
 free           adj cmp=er adv=freely
 freeborn adj
 freelance adj
+freestanding adj
 French         adj
+frenzied adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+frictionless adj
+friendless adj
 friendly       adj cmp=er
 frightened adj cmp=more
 frightful      adj adv=frightfully
+frigid adj cmp=more adv=frigidly
 frivolous adj
 front          adj attr_only
 frontal adj
 frontline      adj attr_only
 frosty adj cmp=er
+frugal adj adv=frugally
 fruitful adj
 fruitless adj
 fruity adj cmp=er

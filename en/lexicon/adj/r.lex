@@ -12,21 +12,27 @@ rampant adj adv=rampantly
 random adj adv=randomly
 rank adj cmp=er
 rapid adj cmp=more adv=rapidly
+rapt adj adv=raptly
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
 ratable adj gb=rateable
 rational adj cmp=more adv=rationally
 raw adj cmp=er
+reactionary adj
 reactive adj
+readable adj cmp=more
 ready adj cmp=er adv=readily
 real adj cmp=more adv=really
+realist adj
 realistic adj cmp=more adv=realistically
+realizable adj gb=realisable|realizable
 rear adj attr_only
 reasonable adj cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
 receivable adj
 recent adj cmp=more adv=recently
 receptive adj cmp=more
+recessive adj
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
@@ -42,6 +48,8 @@ referable adj
 reflective adj cmp=more adv=reflectively
 reflex adj
 reformed adj
+reformist adj
+refractive adj
 refractory adj
 refreshing adj adv=refreshingly
 refundable adj
@@ -79,10 +87,12 @@ repressive adj cmp=more
 reproachful adj adv=reproachfully
 reproductive adj
 republican adj
+repugnant adj
 repulsive adj cmp=more
 reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
+resentful adj cmp=more adv=resentfully
 resident adj
 residential adj
 residual adj
@@ -90,19 +100,23 @@ resilient adj cmp=more
 resistant adj cmp=more
 resistless adj style=archaic
 resolute adj adv=resolutely
+resonant adj cmp=more adv=resonantly
 resourceful adj cmp=more adv=resourcefully
 respectable adj cmp=more adv=respectably
 respectful adj cmp=more adv=respectfully
 respective adj adv=respectively
 respiratory adj
+resplendent adj
 responsible adj cmp=more adv=responsibly
 responsive adj cmp=more
 restless adj cmp=more adv=restlessly
 restrictive adj cmp=more
 resultant adj
 retail adj
+reticent adj
 retinal adj
 retroactive adj adv=retroactively
+retrograde adj
 retrospective adj adv=retrospectively
 reusable adj
 reverend adj
@@ -122,6 +136,8 @@ righteous adj adv=righteously
 rightful adj adv=rightfully
 rigid adj cmp=more adv=rigidly
 rigorous adj cmp=more adv=rigorously
+riotous adj
+riparian adj
 ripe adj cmp=er
 risky adj cmp=er adv=riskily
 ritual adj
@@ -138,6 +154,7 @@ Romani adj
 Romanian adj note=demonym or religious name, capitalized
 romantic adj cmp=more adv=romantically
 roomy adj cmp=er
+rostral adj
 rosy adj cmp=er
 rotary adj
 rotational adj adv=rotationally
@@ -151,6 +168,7 @@ royal adj cmp=more adv=royally
 ruddy adj cmp=er
 rude adj cmp=er adv=rudely
 rudimentary adj
+rueful adj adv=ruefully
 rugged adj cmp=more
 ruinous adj cmp=more adv=ruinously
 runaway adj attr_only

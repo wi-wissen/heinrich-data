@@ -1,3 +1,4 @@
+kath. x note=katholisch
 kg x note=Kilogramm
 kHz x note=Kilohertz
 km x note=Kilometer

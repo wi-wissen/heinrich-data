@@ -22,6 +22,7 @@ undo verb prefix=un 3sg=undoes past=undid pp=undone
 undress verb prefix=un
 undulate verb
 unearth verb prefix=un
+unfasten verb
 unfold verb
 unfollow verb prefix=un
 unfriend verb prefix=un
@@ -51,6 +52,7 @@ uphold        verb prefix=up past=upheld pp=upheld
 upholster verb
 uplift        verb
 upload verb
+uproot verb
 upsell verb prefix=up past=upsold pp=upsold conf=85
 upset         verb prefix=up past=upset pp=upset
 upskill verb conf=85

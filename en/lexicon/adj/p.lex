@@ -1,7 +1,9 @@
 pacific adj note=peaceful; the ocean is Pacific propn
 pagan adj
 painful adj cmp=more adv=painfully
+painstaking adj adv=painstakingly
 Pakistani adj note=demonym or religious name, capitalized
+palatable adj
 pale adj cmp=er
 Palestinian adj note=demonym or religious name, capitalized
 palliative adj
@@ -14,6 +16,7 @@ papal adj
 paperless adj
 parallel adj
 Paralympic adj
+parametric adj
 paramilitary adj
 paramount adj
 paranormal adj
@@ -36,6 +39,8 @@ patent adj
 patentable adj
 paternal adj
 pathetic adj cmp=more adv=pathetically
+pathogenic adj
+pathological adj adv=pathologically
 patient adj cmp=more adv=patiently
 patriarchal adj
 patrician adj
@@ -56,6 +61,7 @@ peninsular adj
 penitent adj
 penniless adj
 pensionable adj
+pensive adj cmp=more adv=pensively
 penultimate adj
 peppery adj
 perceptible adj adv=perceptibly
@@ -93,6 +99,7 @@ Philippine adj note=demonym or religious name, capitalized
 philosophic adj adv=philosophically
 philosophical adj adv=philosophically
 phonetic adj adv=phonetically
+phonological adj
 phony adj cmp=er gb=phoney|phony
 photographic adj
 photovoltaic adj
@@ -109,6 +116,7 @@ pious adj cmp=more adv=piously
 piteous adj cmp=more adv=piteously
 pitiful adj cmp=more adv=pitifully
 pitiless adj adv=pitilessly
+pituitary adj
 pivotal adj
 placid adj adv=placidly
 plain adj cmp=er adv=plainly
@@ -123,7 +131,10 @@ playable adj
 playful adj adv=playfully
 pleasant adj cmp=er|more adv=pleasantly
 pleasing adj cmp=more
+pleasurable adj cmp=more adv=pleasurably
+plebeian adj
 Pleistocene adj
+plenary adj
 plenipotentiary adj
 plentiful adj adv=plentifully
 plumb adj
@@ -133,6 +144,7 @@ pneumatic adj
 poetic adj cmp=more adv=poetically
 poetical adj
 poignant adj adv=poignantly
+pointed adj cmp=more adv=pointedly
 pointless adj adv=pointlessly
 poised adj
 poisonous adj
@@ -151,8 +163,11 @@ popular adj cmp=more adv=popularly
 populist adj
 populous adj
 pornographic adj
+porous adj cmp=more
 portable adj
+portentous adj adv=portentously
 Portuguese adj note=demonym or religious name, capitalized
+positional adj
 positive adj cmp=more adv=positively
 possessive adj adv=possessively
 possible adj cmp=more adv=possibly
@@ -160,6 +175,7 @@ postal adj
 posterior adj
 postgraduate adj
 posthumous adj
+postsecondary adj
 postwar adj
 potent adj cmp=more
 potential adj adv=potentially
@@ -185,6 +201,7 @@ pregnant adj
 prehistoric adj
 prejudicial adj cmp=more adv=prejudicially
 preliminary adj
+premarket adj
 premature adj adv=prematurely
 premeditated adj
 premier adj
@@ -208,6 +225,7 @@ previous adj adv=previously
 priceless adj
 prickly adj cmp=er
 priestly adj
+prim adj cmp=er
 primal adj
 primary adj adv=primarily
 prime adj
@@ -223,6 +241,7 @@ private adj cmp=more adv=privately
 privileged adj cmp=more
 privy adj
 proactive adj cmp=more adv=proactively
+probabilistic adj
 probable adj adv=probably
 probationary adj
 problematic adj cmp=more
@@ -235,8 +254,10 @@ proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
 profligate adj
 profound adj cmp=er|more adv=profoundly
+profuse adj adv=profusely
 programmatic adj
 progressive adj adv=progressively
+prohibitive adj adv=prohibitively
 projective adj
 prolific adj cmp=more
 prominent adj cmp=more adv=prominently
@@ -249,6 +270,7 @@ proper adj cmp=more adv=properly
 prophetic adj
 proportional adj adv=proportionally
 proportionate adj adv=proportionately
+proportioned adj
 proprietary adj
 prosaic adj cmp=more
 prospective adj
@@ -260,6 +282,7 @@ Protestant adj note=demonym or religious name, capitalized
 protracted adj
 protuberant adj
 proud adj cmp=er adv=proudly
+proverbial adj adv=proverbially
 provident adj cmp=more adv=providently
 provincial adj
 provisional adj adv=provisionally

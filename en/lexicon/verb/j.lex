@@ -9,6 +9,7 @@ jerk verb
 jest           verb
 jew verb style=offensive note=antisemitic verb (to haggle); the noun is Jew
 jewel verb
+jig verb
 jingle verb
 jog verb
 join           verb

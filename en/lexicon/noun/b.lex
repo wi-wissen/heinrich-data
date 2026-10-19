@@ -33,6 +33,7 @@ bag noun
 bagel noun
 baggage noun pl=- note=uncountable
 baguette noun
+baht noun pl=baht
 bail noun
 bailiff noun
 bailout noun
@@ -54,6 +55,7 @@ ballpark noun
 ballroom noun
 balm noun
 balsam noun
+balustrade noun
 bamboo noun
 ban noun
 banana noun
@@ -74,6 +76,7 @@ bankruptcy noun
 banner noun
 banquet noun
 bantam noun
+banter noun pl=- note=uncountable
 baptism noun
 Baptist noun
 bar noun
@@ -90,11 +93,13 @@ baritone noun
 bark noun
 barley noun pl=- note=uncountable
 barn noun
+barometer noun
 baron noun
 baroness noun
 baronet noun
 baronetcy noun
 barony noun
+barque noun
 barrack noun note=usually plural barracks, which is its own entry
 barracks noun pl=barracks note=singular and plural: a barracks
 barrage noun
@@ -122,6 +127,7 @@ Basque noun
 bass noun
 bassist noun
 bassoon noun
+bastard noun
 bastion noun
 bat noun
 batch noun
@@ -168,6 +174,7 @@ bedding noun pl=- note=uncountable
 bedrock noun pl=- note=uncountable
 bedroom noun
 bedside noun
+bedstead noun
 bedtime noun
 bee noun
 beech noun
@@ -202,6 +209,7 @@ bencher noun region=GB conf=90 note=member of an Inn of Court; also in backbench
 benchmark noun
 bend noun
 Benedictine noun
+benediction noun
 benefactor noun
 beneficiary noun
 benefit noun
@@ -232,17 +240,21 @@ bight noun
 bigotry noun pl=- note=uncountable
 bike noun
 bikini noun
+bile noun pl=- note=uncountable
 bilirubin noun pl=- note=uncountable
 bill noun
 billboard noun
 billiard noun note=attributive (billiard table); plural billiards is the game
 billionaire noun
+billow noun
 bin noun
 binary noun
 binder noun
 binding noun
-bingo noun pl=- note=the game
+bingo noun pl=- note=uncountable
 binoculars noun pl_only
+binomial noun
+bint noun style=offensive note=British slang, derogatory for a woman
 biochemist noun
 biochemistry noun pl=- note=uncountable
 biodiesel noun pl=- note=uncountable
@@ -259,6 +271,7 @@ biomass noun pl=- note=uncountable
 biopic noun
 biopsy noun
 bioremediation noun pl=- note=uncountable
+biosecurity noun pl=- note=uncountable
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -267,6 +280,7 @@ bird noun
 birth noun
 birthday noun
 birthplace noun
+birthright noun
 biscuit noun
 bisexual noun
 bishop noun
@@ -335,6 +349,7 @@ bluebell noun
 blueberry noun
 bluegrass noun pl=- note=uncountable
 blueprint noun
+bluetongue noun pl=- note=livestock disease, uncountable
 bluff noun
 blunder noun
 blur noun
@@ -356,6 +371,7 @@ body noun
 bodybuilder noun
 bodybuilding noun pl=- note=uncountable
 bodyguard noun
+bodywork noun pl=- note=uncountable
 Boer noun
 bog noun
 Bohemian noun
@@ -368,6 +384,7 @@ bombardier noun
 bombardment noun
 bomber noun
 bombing noun
+bonanza noun
 bond noun
 bondage noun pl=- note=uncountable
 bondholder noun
@@ -381,6 +398,7 @@ bookcase noun
 bookkeeper noun
 bookkeeping noun pl=- note=uncountable
 booklet noun
+bookmaker noun
 bookmark noun
 bookseller noun
 bookshelf noun pl=bookshelves
@@ -397,6 +415,7 @@ booty noun pl=- note=plunder; uncountable
 border noun
 bore noun
 boredom noun pl=- note=uncountable
+boron noun pl=- note=chemical element, uncountable
 borough noun
 borrower noun
 Bosnian noun
@@ -408,7 +427,9 @@ botany noun pl=- note=uncountable
 botnet noun
 bottle noun
 bottleneck noun
+bottlenose noun
 bottom noun
+boudoir noun
 bough noun
 boulder noun
 boulevard noun
@@ -419,6 +440,7 @@ bounty noun
 bouquet noun
 bourbon noun
 bourgeois noun pl=bourgeois
+bourgeoisie noun
 bout noun
 bow noun
 bowel noun
@@ -436,6 +458,7 @@ brace noun
 bracelet noun
 bracket noun
 braid noun
+braille noun pl=- note=usually capitalized
 brain noun
 brainstorming noun pl=- note=uncountable
 brake noun
@@ -453,6 +476,7 @@ bread noun
 breadth noun
 breadwinner noun
 break noun
+breakaway noun
 breakdown noun
 breaker noun
 breakeven noun conf=80 note=also break-even
@@ -462,6 +486,7 @@ breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
 breast noun
+breaststroke noun
 breath noun
 breech noun
 breed noun
@@ -515,7 +540,9 @@ brothel noun
 brother noun pl=brothers|brethren note=brethren in religious and fraternal use
 brother-in-law noun pl=brothers-in-law
 brotherhood noun
+brougham noun
 brow noun
+brownfield noun
 brownie noun
 browser noun
 bruise noun
@@ -539,6 +566,7 @@ buddy noun
 budgerigar noun
 budget noun
 budgie noun
+buff noun
 buffalo noun pl=buffalo|buffaloes|buffalos
 buffer noun
 bug noun
@@ -547,6 +575,7 @@ bugle noun
 build noun
 builder noun
 building noun
+buildup noun conf=90 note=also build-up
 bulb noun
 Bulgarian noun
 bulge noun
@@ -555,6 +584,7 @@ bull noun
 bulldog noun
 bullet noun
 bulletin noun
+bullion noun pl=- note=uncountable
 bullock noun
 bully noun
 bulwark noun
@@ -570,6 +600,7 @@ bunk noun
 bunker noun
 bunny noun
 buoyancy noun pl=- note=uncountable
+buprenorphine noun pl=- note=uncountable
 burden noun
 bureau noun pl=bureaus|bureaux
 bureaucracy noun
@@ -595,6 +626,7 @@ bush noun
 bushel noun
 business noun
 businessman noun pl=businessmen
+businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen
 bust noun
 bustle noun
@@ -611,6 +643,7 @@ buyback noun
 buyer noun
 buyout noun
 buzz noun
+bycatch noun pl=- note=uncountable
 bye noun note=in sport: a free pass to the next round
 byelaw noun region=GB conf=85 note=also bylaw
 bylaw noun conf=90 note=British also byelaw

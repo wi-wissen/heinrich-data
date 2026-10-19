@@ -14,6 +14,7 @@ ram verb
 ramble verb
 ramp verb
 ranch verb
+randomize verb gb=randomise|randomize
 range verb
 rank verb
 ransom verb
@@ -75,6 +76,7 @@ recommit verb prefix=re double
 recompense verb
 reconcile verb
 reconfigure verb
+reconfirm verb
 reconnoitre verb us=reconnoiter|reconnoitre
 reconsider verb prefix=re
 reconstitute verb
@@ -108,6 +110,7 @@ redress verb
 reduce verb
 reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
+reexport verb
 ref verb style=colloquial double conf=80 note=to referee
 refer verb double
 referee verb
@@ -223,6 +226,7 @@ reprogram verb double
 republish verb
 repudiate verb
 repulse verb
+repurchase verb
 repurpose verb
 request verb
 require verb

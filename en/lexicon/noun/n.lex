@@ -34,10 +34,12 @@ navy          noun
 naysayer noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+neatness noun pl=- note=uncountable
 necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
 necklace      noun
+necktie noun
 nectar noun pl=- note=uncountable
 nectarine noun
 need          noun
@@ -54,6 +56,7 @@ neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
 neo-Nazi noun
 neoliberal noun
+neon noun pl=- note=uncountable
 nephew        noun
 nerve         noun
 nervousness noun pl=- note=uncountable
@@ -77,6 +80,7 @@ newscast noun
 newsdesk noun
 newsletter noun
 newspaper     noun
+newsroom noun
 newton        noun note=SI unit of force
 NGO noun abbr note=non-governmental organization
 nibble noun
@@ -95,6 +99,7 @@ nightfall noun pl=- note=uncountable
 nightgown noun
 nightie noun
 nightingale noun
+nightlife noun pl=- note=uncountable
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
@@ -117,6 +122,8 @@ nominative noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
+nondiscrimination noun pl=- conf=90 note=uncountable; also non-discrimination
+nonfiction noun pl=- note=uncountable
 nonimmigrant  noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
@@ -126,6 +133,7 @@ nonsense      noun pl=- note=uncountable
 noodle noun
 nook noun
 noon          noun
+noose noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norm          noun
 Norman        noun note=plural Normans (not -men)
@@ -136,6 +144,7 @@ northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
 nosebleed noun
+nostalgia noun pl=- note=uncountable
 nostril       noun
 notable       noun
 notarization noun gb=notarisation|notarization conf=85
@@ -166,6 +175,7 @@ nuance noun
 nucleotide noun
 nucleus       noun pl=nuclei
 nude noun
+nudity noun pl=- note=uncountable
 nugget noun
 nuisance      noun
 nullity noun

@@ -6,6 +6,7 @@ saddle verb
 safeguard verb
 sail verb
 sally verb
+salt verb
 salute verb
 salvage verb
 sample verb
@@ -25,6 +26,7 @@ scar verb
 scare verb
 scatter verb
 schedule verb
+school verb
 scoff verb
 scold verb
 scoop verb
@@ -45,11 +47,13 @@ screen verb
 screenshot verb double conf=90 note=screenshotted, screenshotting
 screw verb
 scribble verb
+script verb
 scroll verb
 scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+sculpt verb
 sculpture verb
 scuttle verb
 seal verb
@@ -76,6 +80,7 @@ sense verb
 sentence verb
 separate verb
 sequester verb
+serialize verb gb=serialise|serialize
 serve verb
 service verb
 set verb past=set pp=set
@@ -91,7 +96,7 @@ shape verb
 share verb
 sharpen verb
 shatter verb
-shave verb
+shave verb past=shaved pp=shaved|shaven
 shear verb past=sheared pp=sheared|shorn
 shed verb past=shed pp=shed
 shell verb
@@ -106,12 +111,14 @@ shine verb past=shone|shined pp=shone|shined note=shined mainly transitive (shin
 shingle verb
 ship verb
 shipwreck verb
+shirk verb
 shit verb past=shit|shat pp=shit|shat style=colloquial
 shiver verb
 shock verb
 shoe verb past=shod|shoed pp=shod|shoed
 shoot verb past=shot pp=shot
 shop verb
+shoplift verb
 shore verb
 shorten verb
 shortlist verb
@@ -134,6 +141,7 @@ shut verb past=shut pp=shut
 shutter verb
 shuttle verb
 shy verb note=of a horse: to start aside; shy away
+sicken verb
 side verb
 sideline verb
 sieve verb
@@ -145,6 +153,7 @@ signal verb
 signify verb
 signpost verb
 silence verb
+silt verb
 simmer verb
 simplify verb
 simulate verb
@@ -171,6 +180,7 @@ skirmish verb
 skirt verb
 skyrocket verb
 slack verb
+slacken verb
 slam verb
 slander verb
 slant verb
@@ -204,6 +214,7 @@ smelt verb
 smile verb
 smite verb past=smote pp=smitten|smote conf=90 note=archaic or elevated; smitten also adjectival
 smoke verb
+smolder verb gb=smoulder
 smooth verb
 smother verb
 smudge verb
@@ -274,6 +285,7 @@ split verb past=split pp=split
 spoil verb past=spoiled|spoilt[GB] pp=spoiled|spoilt[GB]
 sponge verb
 sponsor verb
+spoof verb
 spool verb
 spot verb
 spotlight verb past=spotlighted|spotlit pp=spotlighted|spotlit conf=90 note=spotlit less common
@@ -289,6 +301,7 @@ spruce verb
 spur verb
 spy verb
 squall verb
+squander verb
 square verb
 squash verb
 squat verb
@@ -331,6 +344,7 @@ steer verb
 stem verb
 step verb
 stereotype verb
+sterilize verb gb=sterilise|sterilize
 stew verb
 stick verb past=stuck pp=stuck
 stiffen verb
@@ -381,6 +395,7 @@ stuff verb
 stumble verb
 stun verb
 stunt verb
+stupefy verb
 style verb
 stylize verb gb=stylise|stylize
 subcontract verb
@@ -409,6 +424,7 @@ sue verb
 suffer verb nodouble
 suffice verb
 suffocate verb
+suffuse verb
 suggest verb
 suit verb
 sulk verb

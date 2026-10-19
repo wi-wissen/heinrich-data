@@ -45,6 +45,7 @@ niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
 nigerianisch adj
 nobel adj cmp=nobler sup=noblesten
+nominell adj
 nordisch adj
 nördlich adj cmp=nördlicher sup=nördlichsten note=also a genitive preposition (closed/prepositions.lex)
 normal adj cmp=normaler sup=normalsten

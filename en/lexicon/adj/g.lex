@@ -3,6 +3,7 @@ gallant        adj adv=gallantly
 garlicky adj
 garrulous adj
 gaseous adj
+gastric adj
 gastrointestinal adj
 gaudy adj cmp=er
 gaunt adj cmp=er
@@ -11,6 +12,7 @@ geeky adj cmp=er
 genealogical adj
 general        adj adv=generally
 generational adj
+generative adj
 generic        adj adv=generically
 generous       adj cmp=more adv=generously
 genetic        adj adv=genetically
@@ -31,6 +33,7 @@ geometric      adj adv=geometrically
 geometrical adj adv=geometrically
 geopolitical adj
 Georgian       adj
+geothermal adj
 German         adj
 Germanic       adj
 ghastly        adj cmp=er|more
@@ -53,6 +56,7 @@ global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
 glossy adj cmp=er
+gloved adj
 godlike adj
 golden         adj
 good           adj cmp=better sup=best adv=well
@@ -61,6 +65,7 @@ goodly adj cmp=er
 gooey adj
 gorgeous       adj adv=gorgeously
 Gothic         adj
+gothic adj note=lowercase in gothic fiction, gothic type; Gothic for the people, language and architecture
 governmental   adj
 graceful       adj adv=gracefully
 gracious       adj adv=graciously
@@ -81,9 +86,11 @@ great          adj cmp=er adv=greatly
 greedy adj cmp=er adv=greedily
 Greek          adj
 green          adj cmp=er
-grievous adj
+greenish adj
+grievous adj adv=grievously
 grim           adj cmp=er adv=grimly
 grimy adj cmp=er
+grizzled adj
 grizzly        adj
 gross          adj cmp=er adv=grossly
 grotesque      adj

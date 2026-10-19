@@ -40,6 +40,7 @@ Wand noun g=f gen=Wand pl=Wände
 Wandel noun g=m gen=Wandels pl=- note=change; plural not used
 Wanderer noun g=m gen=Wanderers pl=Wanderer
 Wanderin noun g=f gen=Wanderin pl=Wanderinnen
+Wanderschaft noun g=f gen=Wanderschaft pl=- note=auf Wanderschaft; no plural in use
 Wanderschuhe noun g=pl
 Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
@@ -125,6 +126,7 @@ Wende noun g=f gen=Wende pl=Wenden
 Wendung noun g=f gen=Wendung pl=Wendungen
 Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen
+Werdegang noun g=m gen=Werdegangs|Werdeganges pl=Werdegänge
 Werder noun g=m gen=Werders pl=Werder note=river island
 Werft noun g=f gen=Werft pl=Werften
 Werk noun g=n gen=Werkes|Werks pl=Werke
@@ -152,7 +154,9 @@ Whiteboard noun g=n gen=Whiteboards pl=Whiteboards
 Wichtel noun g=m gen=Wichtels pl=Wichtel
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
 Widder noun g=m gen=Widders pl=Widder
+Widerhall noun g=m gen=Widerhalls|Widerhalles pl=Widerhalle
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
+Widersacher noun g=m gen=Widersachers pl=Widersacher
 Widerspruch noun g=m gen=Widerspruchs|Widerspruches[rare] pl=Widersprüche
 Widerstand noun g=m gen=Widerstandes|Widerstands pl=Widerstände
 Widerstandskämpfer noun g=m gen=Widerstandskämpfers pl=Widerstandskämpfer
@@ -198,6 +202,7 @@ Wirbel noun g=m gen=Wirbels pl=Wirbel
 Wirbelsäule noun g=f gen=Wirbelsäule pl=Wirbelsäulen
 Wirbelsturm noun g=m gen=Wirbelsturms pl=Wirbelstürme
 Wirbeltier noun g=n gen=Wirbeltiers|Wirbeltieres pl=Wirbeltiere
+Wirken noun g=n gen=Wirkens pl=- note=lexicalised: activity, life's work (sein Wirken als Arzt)
 Wirklichkeit noun g=f gen=Wirklichkeit pl=Wirklichkeiten
 Wirklichkeitsform noun g=f gen=Wirklichkeitsform pl=Wirklichkeitsformen
 Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
@@ -239,9 +244,11 @@ Wohnung noun g=f gen=Wohnung pl=Wohnungen
 Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
+Wölbung noun g=f gen=Wölbung pl=Wölbungen
 Wolf noun g=m gen=Wolfes|Wolfs[rare] pl=Wölfe
 Wolfram noun g=m gen=Wolframs pl=- note=chemical element; no plural
 Wolfsrudel noun g=n gen=Wolfsrudels pl=Wolfsrudel
+Wölkchen noun g=n gen=Wölkchens pl=Wölkchen
 Wolke noun g=f gen=Wolke pl=Wolken
 Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
@@ -250,6 +257,7 @@ Workflow noun g=m gen=Workflows pl=Workflows
 Workshop noun g=m gen=Workshops pl=Workshops
 Workspace noun g=m gen=Workspace|Workspaces pl=Workspaces
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
+Wörtchen noun g=n gen=Wörtchens pl=Wörtchen
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke

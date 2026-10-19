@@ -6,6 +6,7 @@ kangaroo noun
 karate noun pl=- note=uncountable
 karma noun pl=- note=uncountable
 karst noun
+kava noun
 Kazakh noun
 kebab noun
 keel noun
@@ -61,6 +62,7 @@ kitten noun
 kitty noun
 kiwi noun
 knack noun
+knapsack noun
 knave noun
 knee           noun
 kneecap noun

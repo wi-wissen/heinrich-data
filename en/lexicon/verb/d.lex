@@ -70,6 +70,7 @@ delight verb
 delineate verb
 delist verb
 deliver verb
+deluge verb
 demand verb
 demolish verb
 demonstrate verb
@@ -93,9 +94,11 @@ depress verb
 deprive verb
 derail verb
 deregulate verb
+deride verb
 derive verb
 descend verb
 describe verb
+descry verb
 desert verb
 deserve verb
 design verb
@@ -173,11 +176,14 @@ discuss verb
 disdain verb
 disembark verb
 disengage verb
+disfigure verb
 disgrace verb
 disguise verb
 disgust verb
 dish verb
+dishearten verb
 dishonor verb gb=dishonour
+disintegrate verb
 dislike verb
 dislodge verb
 dismantle verb
@@ -230,6 +236,7 @@ doctor verb
 document verb
 dodge verb
 dog verb
+dole verb
 domesticate verb
 domicile verb
 dominate verb

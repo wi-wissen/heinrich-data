@@ -35,6 +35,7 @@ handbag noun
 handball noun
 handbook noun
 handful        noun
+handheld noun
 handicap noun
 handkerchief   noun note=plural handkerchiefs
 handle         noun
@@ -46,11 +47,13 @@ handshake noun
 handwriting    noun
 hangar noun
 hanger noun
+hanging noun
 haplogroup noun
 happening noun
 happiness      noun pl=- note=uncountable
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
+hardcover noun
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
@@ -65,6 +68,7 @@ harmony        noun
 harness        noun
 harp noun
 harpoon noun
+harshness noun pl=- note=uncountable
 hart noun
 harvest        noun
 hash noun
@@ -76,11 +80,13 @@ hatchet noun
 hate           noun
 hatred         noun
 haul           noun
+haunch noun
 haunt          noun
 haven          noun
 havoc noun pl=- note=uncountable
 Hawaiian       noun
 hawk           noun
+hawthorn noun
 hay            noun pl=- note=uncountable
 hazard         noun
 haze           noun
@@ -145,7 +151,10 @@ helper noun
 helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
+heme noun pl=- gb=haem note=uncountable
 hemisphere noun
+hemorrhage noun gb=haemorrhage
+hemp noun pl=- note=uncountable
 hen noun
 hepatitis noun pl=- note=uncountable
 herald         noun
@@ -158,6 +167,7 @@ heritage       noun
 hermeneutics noun pl=- note=uncountable
 hermit noun
 hermitage noun
+hernia noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
 heroine noun
@@ -166,6 +176,7 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+heyday noun
 hiatus noun pl=hiatuses|hiatus
 hibernation noun pl=- note=uncountable
 hiccup noun
@@ -258,6 +269,7 @@ hoover noun region=GB note=vacuum cleaner, from the trademark Hoover
 hop            noun
 hope           noun
 hopeful        noun
+hopelessness noun pl=- note=uncountable
 hopper noun
 hopscotch noun pl=- note=uncountable
 horde noun
@@ -294,6 +306,7 @@ household      noun
 householder    noun
 housekeeper    noun
 housekeeping noun pl=- note=uncountable
+housemaid noun
 housemate noun
 housewife noun pl=housewives
 housework noun pl=- note=uncountable
@@ -315,6 +328,7 @@ human          noun note=plural humans (not -men)
 humanist noun
 humanitarian   noun
 humanity       noun
+humanoid noun
 humbug noun
 humidity       noun pl=- note=uncountable
 humiliation    noun
@@ -329,6 +343,7 @@ Hungarian      noun
 hunger         noun
 hunt           noun
 hunter         noun
+huntsman noun pl=huntsmen
 hurdle noun
 hurrah noun note=a last hurrah
 hurricane      noun
@@ -338,6 +353,7 @@ husband        noun
 husbandry noun pl=- note=uncountable
 hush           noun
 husky noun note=the dog
+hussar noun
 hustle noun
 hut            noun
 hutch noun
@@ -356,4 +372,5 @@ hypocrisy noun
 hypocrite noun
 hypothesis     noun pl=hypotheses
 hypothyroidism noun pl=- note=uncountable
+hysteria noun pl=- note=uncountable
 hysterics noun pl_only

@@ -19,9 +19,11 @@ laugh         verb
 launch        verb
 launder       verb
 lave verb style=archaic note=to wash
+lavish verb
 lay           verb past=laid pp=laid
 layer verb
 laze verb
+leach verb
 lead          verb past=led pp=led sense=guide
 lead          verb sense=metal note=to cover or weight with lead: leaded
 leaf          verb

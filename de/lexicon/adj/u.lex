@@ -1,5 +1,6 @@
 übel adj attr=üble cmp=übler sup=übelsten
 überbetrieblich adj
+überdrüssig adj note=einer Sache überdrüssig sein
 überfällig adj
 überflüssig adj
 überlegen adj cmp=überlegener sup=überlegensten sense=superior
@@ -24,6 +25,7 @@ unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
 unartig adj cmp=unartiger sup=unartigsten
+unaufhaltsam adj
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
 unbefangen adj
@@ -32,6 +34,7 @@ unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
 unbegründet adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
+unbekümmert adj cmp=unbekümmerter sup=unbekümmertsten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
 unbemerkt adj
 unberücksichtigt adj
@@ -72,6 +75,7 @@ ungenügend adj
 ungerade adj
 ungerecht adj cmp=ungerechter sup=ungerechtesten
 ungestört adj
+ungestüm adj cmp=ungestümer sup=ungestümsten
 ungewöhnlich adj
 ungezogen adj cmp=ungezogener sup=ungezogensten
 ungläubig adj
@@ -97,6 +101,7 @@ unmotiviert adj cmp=unmotivierter sup=unmotiviertesten
 unnötig adj cmp=unnötiger sup=unnötigsten
 unnütz adj cmp=unnützer sup=unnützesten
 unordentlich adj cmp=unordentlicher sup=unordentlichsten
+unparteiisch adj cmp=unparteiischer sup=unparteiischsten
 unpünktlich adj cmp=unpünktlicher sup=unpünktlichsten
 unrecht adj
 unregelmäßig adj
@@ -111,7 +116,9 @@ unsicher adj cmp=unsicherer sup=unsichersten
 unsichtbar adj
 unsinnig adj
 unsterblich adj
+unstreitig adj
 unsympathisch adj cmp=unsympathischer sup=unsympathischsten
+untauglich adj
 untenstehend adj conf=80 note=also written unten stehend
 unter adj attr_only sup=untersten note=der untere Stock, der unterste; positional, no comparative; the preposition is in closed/
 unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
@@ -136,6 +143,7 @@ unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
 unwiderruflich adj
+unwiderstehlich adj cmp=unwiderstehlicher sup=unwiderstehlichsten
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj

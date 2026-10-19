@@ -42,6 +42,7 @@ oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
 outfit        verb prefix=out
+outgrow verb prefix=out past=outgrew pp=outgrown
 outlaw        verb
 outline       verb
 outlive verb prefix=out
@@ -56,6 +57,7 @@ overcome      verb prefix=over past=overcame pp=overcome
 overdose verb
 overdraw verb prefix=over past=overdrew pp=overdrawn
 overestimate verb prefix=over
+overfish verb prefix=over
 overflow verb
 overhang verb prefix=over past=overhung pp=overhung
 overhaul verb
