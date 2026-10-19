@@ -100,7 +100,7 @@ philosophic adj adv=philosophically
 philosophical adj adv=philosophically
 phonetic adj adv=phonetically
 phonological adj
-phony adj cmp=er gb=phoney|phony
+phony adj cmp=phonier sup=phoniest gb=phoney|phony note=phoney also takes phonier, phoniest
 photographic adj
 photovoltaic adj
 phylogenetic adj adv=phylogenetically
