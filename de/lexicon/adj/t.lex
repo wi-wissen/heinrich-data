@@ -44,6 +44,7 @@ touristisch adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
+trans adj indecl conf=80 note=trans Personen; uninflected
 transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
