@@ -78,6 +78,7 @@ melancholy    adj
 mellow adj cmp=er
 melodic adj
 melodious adj cmp=more adv=melodiously
+melodramatic adj adv=melodramatically
 membranous adj
 memorable     adj
 memorial      adj
@@ -98,6 +99,7 @@ meta adj conf=85 note=self-referential; informal
 metabolic adj
 metallic      adj
 metamorphic adj
+metaphorical adj adv=metaphorically
 metaphysical adj
 meteorological adj
 methodical adj cmp=more adv=methodically
@@ -154,31 +156,40 @@ modest        adj cmp=more adv=modestly
 modular       adj
 moist         adj cmp=er
 molar adj
+moldy adj cmp=er gb=mouldy
 molecular     adj
 molten adj
 momentary     adj adv=momentarily
 momentous adj
+monarchical adj
 monastic      adj
 monetary      adj
 Mongol adj
 mono adj
+monochrome adj
+monoclonal adj
+monolithic adj
+monotone adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
-moody adj cmp=er
+moody adj cmp=er adv=moodily
 moonlit adj
 Moorish       adj
+moot adj
 moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
 Moroccan adj
+morose adj adv=morosely
 morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
 mossy adj cmp=er
 motherly adj cmp=more
 motionless    adj
+motivational adj
 motley adj
 mottled adj
 mountainous   adj
@@ -188,6 +199,7 @@ mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
+multicultural adj
 multidisciplinary adj
 multifamily adj
 multilateral  adj
@@ -210,12 +222,14 @@ Muslim        adj
 musty adj cmp=er
 mutant adj
 mute adj adv=mutely
+mutinous adj
 mutual        adj adv=mutually
 myocardial adj
 myriad adj
 mysterious    adj cmp=more adv=mysteriously
 mystic adj
 mystical adj adv=mystically
+mythic adj
 mythical adj
 mythological adj
 Māori         adj

@@ -22,6 +22,7 @@ ziemlich adj note=attributive use (mit ziemlicher Sicherheit); the degree adverb
 zierig adj conf=75 note=rare
 zierlich adj cmp=zierlicher sup=zierlichsten
 zivil adj
+zögerlich adj cmp=zögerlicher sup=zögerlichsten
 zögernd adj cmp=zögernder sup=zögerndsten
 zornig adj cmp=zorniger sup=zornigsten
 zottelig adj cmp=zotteliger sup=zotteligsten
@@ -54,6 +55,7 @@ zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweigeschossig adj
 zweigleisig adj
+zweistellig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
 zwischenzeitlich adj

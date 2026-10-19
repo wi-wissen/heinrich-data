@@ -20,6 +20,7 @@ namhaft adj cmp=namhafter sup=namhaftesten
 nämlich adj attr_only style=archaic note=der nämliche = derselbe
 napoleonisch adj
 narbig adj
+närrisch adj cmp=närrischer sup=närrischsten
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
 nationalistisch adj

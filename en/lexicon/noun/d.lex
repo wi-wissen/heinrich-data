@@ -39,6 +39,7 @@ data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
 date noun
+dative noun
 datum noun pl=data
 daughter noun
 dauphin noun
@@ -52,6 +53,8 @@ deacon noun
 deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
+deadlock noun
+deafness noun pl=- note=uncountable
 deal noun
 dealer noun
 dealership noun
@@ -94,6 +97,7 @@ decompression noun
 deconstruction noun
 decontamination noun pl=- note=uncountable
 decoration noun
+decoy noun
 decrease noun
 decree noun
 decryption noun pl=- note=uncountable
@@ -154,6 +158,7 @@ delta noun
 deluge noun
 delusion noun
 demand noun
+demarcation noun
 demeanor noun gb=demeanour
 dementia noun
 demise noun
@@ -168,6 +173,7 @@ demonstration noun
 demonstrator noun
 demotion noun
 den noun
+dengue noun pl=- note=uncountable
 denial noun
 denim noun
 denomination noun
@@ -232,6 +238,7 @@ desolation noun
 despair noun
 desperation noun pl=- note=uncountable
 despondency noun pl=- note=uncountable
+despot noun
 despotism noun
 dessert noun
 destination noun
@@ -256,6 +263,7 @@ detonation noun
 detour noun
 detractor noun
 detriment noun
+detritus noun pl=- note=uncountable
 deuce noun
 devaluation noun
 devastation noun pl=- note=uncountable
@@ -290,6 +298,7 @@ diary noun
 diaspora noun
 dice noun pl=dice
 dictate noun
+dictation noun
 dictator noun
 dictatorship noun
 diction noun pl=- note=uncountable
@@ -301,6 +310,7 @@ difference noun
 differential noun
 differentiation noun
 difficulty noun
+diffidence noun pl=- note=uncountable
 diffraction noun
 diffusion noun
 dig noun
@@ -317,8 +327,10 @@ dilution noun
 dime noun
 dimension noun
 diminution noun
+dimness noun pl=- note=uncountable
 din noun
 diner noun
+dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
@@ -348,6 +360,7 @@ disappearance noun
 disappointment noun
 disapproval noun
 disarmament noun
+disarray noun pl=- note=uncountable
 disaster noun
 disbarment noun
 disbelief noun pl=- note=uncountable
@@ -369,6 +382,7 @@ discontinuation noun
 discontinuity noun
 discord noun
 discount noun
+discouragement noun
 discourse noun
 discoverer noun
 discovery noun
@@ -376,6 +390,7 @@ discredit noun pl=- note=uncountable
 discrepancy noun
 discretion noun pl=- note=uncountable
 discrimination noun
+discus noun
 discussion noun
 disdain noun
 disease noun
@@ -429,6 +444,8 @@ dissociation noun
 dissolution noun
 distance noun
 distaste noun
+distillate noun
+distillation noun
 distillery noun
 distinction noun
 distinctness noun pl=- note=uncountable
@@ -458,6 +475,7 @@ divination noun
 divinity noun
 division noun
 divorce noun
+dizziness noun pl=- note=uncountable
 DJ noun abbr note=disc jockey
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
@@ -472,6 +490,7 @@ doctrine noun
 document noun
 documentary noun
 documentation noun pl=- note=uncountable
+dodecahedron noun pl=dodecahedra|dodecahedrons
 dodge noun
 dodger noun
 doe noun
@@ -562,9 +581,11 @@ drawl noun
 dread noun
 dream noun
 dreamer noun
+dregs noun pl_only
 dress noun
 dresser noun
 dressing noun
+dressmaker noun
 drift noun
 drill noun
 drilling noun
@@ -577,8 +598,10 @@ drone noun
 drop noun
 dropdown noun conf=85 note=also drop-down
 droplet noun
+dropout noun
 drought noun
 drove noun note=herd or crowd, usually in droves
+drowsiness noun pl=- note=uncountable
 drudgery noun pl=- note=uncountable
 drug noun
 drum noun
@@ -587,6 +610,9 @@ drunk noun
 drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
+dryness noun pl=- note=uncountable
+dualism noun
+duality noun
 ducat noun
 duchess noun
 duchy noun
@@ -596,6 +622,7 @@ duct noun
 due noun
 duel noun
 duet noun
+dugout noun
 duke noun
 dulness noun pl=- style=archaic note=old spelling of dullness
 dummy noun
@@ -605,8 +632,10 @@ dune noun
 dungarees noun pl_only
 dungeon noun
 duo noun
+duodenum noun pl=duodena|duodenums
 duplicate noun
 duplication noun
+duplicity noun pl=- note=uncountable
 durability noun pl=- note=uncountable
 duration noun
 dusk noun

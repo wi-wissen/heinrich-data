@@ -28,10 +28,13 @@ unartig adj cmp=unartiger sup=unartigsten
 unaufhaltsam adj
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
+unaussprechlich adj
+unbarmherzig adj cmp=unbarmherziger sup=unbarmherzigsten
 unbefangen adj
 unbefristet adj
 unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
 unbegründet adj
+unbehelligt adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
 unbekümmert adj cmp=unbekümmerter sup=unbekümmertsten
@@ -80,6 +83,7 @@ ungerecht adj cmp=ungerechter sup=ungerechtesten
 ungestört adj
 ungestüm adj cmp=ungestümer sup=ungestümsten
 ungewöhnlich adj
+ungewollt adj
 ungezogen adj cmp=ungezogener sup=ungezogensten
 ungläubig adj
 unglaublich adj
@@ -91,6 +95,7 @@ unheimlich adj
 unhöflich adj cmp=unhöflicher sup=unhöflichsten
 uninteressant adj cmp=uninteressanter sup=uninteressantesten
 universell adj
+universitär adj
 unklar adj cmp=unklarer sup=unklarsten
 unkonzentriert adj cmp=unkonzentrierter sup=unkonzentriertesten
 unleserlich adj
@@ -146,16 +151,20 @@ unverzüglich adj
 unvollständig adj
 unvorsichtig adj cmp=unvorsichtiger sup=unvorsichtigsten
 unwahrscheinlich adj cmp=unwahrscheinlicher sup=unwahrscheinlichsten
+unweigerlich adj
 unwiderruflich adj
 unwiderstehlich adj cmp=unwiderstehlicher sup=unwiderstehlichsten
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj
+unwissend adj cmp=unwissender sup=unwissendsten
+unwohl adj
 unwürdig adj cmp=unwürdiger sup=unwürdigsten
 unzählig adj
 unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj
+unzutreffend adj
 unzweifelhaft adj
 üppig adj cmp=üppiger sup=üppigsten
 uralt adj

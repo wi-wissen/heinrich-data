@@ -2,6 +2,7 @@ fabled adj
 fabulous adj adv=fabulously
 facetious adj adv=facetiously
 facial         adj
+facile adj cmp=more adv=facilely
 factual        adj adv=factually
 faint          adj cmp=er adv=faintly
 fair           adj cmp=er adv=fairly
@@ -31,16 +32,20 @@ fated adj
 fateful adj adv=fatefully
 fatherly adj
 fatty adj cmp=er
+faultless adj adv=faultlessly
 faulty adj cmp=er|more
 faunal adj
 favorable      adj gb=favourable adv=favorably
 favorite       adj gb=favourite
 fearful        adj adv=fearfully
 fearless adj adv=fearlessly
+fearsome adj
 feasible       adj
+feathery adj
 federal        adj adv=federally
 federalist adj
 feeble         adj cmp=er adv=feebly
+feline adj
 fellow         adj attr_only
 female         adj
 feminine       adj
@@ -73,13 +78,16 @@ Finnish        adj
 firm           adj cmp=er adv=firmly
 firsthand adj
 fiscal         adj adv=fiscally
+fissile adj
 fit            adj cmp=er
 fitful adj adv=fitfully
 fitting        adj adv=fittingly
 fixed          adj adv=fixedly
 fizzy adj cmp=er
 flagrant adj adv=flagrantly
+flamboyant adj adv=flamboyantly
 flammable adj
+flashy adj cmp=er
 flat           adj cmp=er adv=flatly
 flawed adj
 flawless adj adv=flawlessly
@@ -93,6 +101,7 @@ flexible       adj cmp=more adv=flexibly
 flimsy adj cmp=er
 floppy adj cmp=er
 floral adj
+florid adj
 flowery adj cmp=more
 fluent adj adv=fluently
 fluffy adj cmp=er
@@ -150,6 +159,7 @@ frenzied adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+fretful adj adv=fretfully
 fricative adj
 frictionless adj
 friendless adj
@@ -174,6 +184,7 @@ functional     adj adv=functionally
 fundamental    adj adv=fundamentally
 fundamentalist adj
 funerary       adj
+funereal adj adv=funereally
 fungal adj
 funny          adj cmp=er
 furious        adj adv=furiously
@@ -182,4 +193,5 @@ furtive adj adv=furtively
 fussy adj cmp=er
 futile adj
 future         adj attr_only
+futuristic adj
 fuzzy adj cmp=er adv=fuzzily

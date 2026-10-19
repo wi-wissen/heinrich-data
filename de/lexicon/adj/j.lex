@@ -1,6 +1,7 @@
 jäh adj cmp=jäher sup=jähesten
 jährig adj attr_only note=only as second part of compounds (einjährig, 5-jährige)
 jährlich adj
+jamaikanisch adj
 jämmerlich adj cmp=jämmerlicher sup=jämmerlichsten
 japanisch adj
 jenseitig adj

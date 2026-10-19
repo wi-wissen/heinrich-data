@@ -13,12 +13,14 @@ Manchester propn g=n gen=Manchesters pl=- note=proper name; no plural
 Manhattan propn g=n gen=Manhattans pl=- note=proper name; no plural
 Manila propn g=n gen=Manilas pl=- note=proper name; no plural
 Mannheim propn g=n gen=Mannheims pl=- note=proper name; no plural
+Mansfeld propn g=n gen=Mansfelds pl=- demonym=Mansfelder note=proper name; no plural
 Mantua propn g=n gen=Mantuas pl=- note=proper name; no plural
 Marburg propn g=n gen=Marburgs pl=- note=proper name; no plural
 Marokko propn g=n gen=Marokkos pl=- note=proper name; no plural
 Mars propn g=m gen=Mars pl=- note=planet, god; bare genitive
 Marseille propn g=n gen=Marseilles pl=- note=proper name; no plural
 Maryland propn g=n gen=Marylands pl=- note=proper name; no plural
+Masowien propn g=n gen=Masowiens pl=- note=region in Poland; no plural
 Massachusetts propn g=n gen=Massachusetts pl=- note=US state; bare genitive
 Mazedonien propn g=n gen=Mazedoniens pl=- note=proper name; no plural
 Mecklenburg propn g=n gen=Mecklenburgs pl=- note=proper name; no plural
@@ -39,9 +41,12 @@ Mississippi propn g=m gen=Mississippi|Mississippis pl=- note=river; the US state
 Missouri propn g=m gen=Missouri|Missouris pl=- note=proper name; no plural
 Mitteleuropa propn g=n gen=Mitteleuropas pl=- note=proper name; no plural
 Mittelmeer propn g=n gen=Mittelmeers|Mittelmeeres pl=- note=proper name; no plural
+Mittelrhein propn g=m gen=Mittelrheins pl=- note=der Mittelrhein; river section
+Mogadischu propn g=n gen=Mogadischus pl=- note=proper name; no plural
 Moldau propn g=f gen=Moldau pl=- note=die Moldau (river)
 Monaco propn g=n gen=Monacos pl=- note=proper name; no plural
 Mongolei propn g=f gen=Mongolei pl=- note=die Mongolei
+Montabaur propn g=n gen=Montabaurs pl=- note=proper name; no plural
 Montenegro propn g=n gen=Montenegros pl=- note=proper name; no plural
 Montreal propn g=n gen=Montreals pl=- note=proper name; no plural
 Moskau propn g=n gen=Moskaus pl=- note=proper name; no plural

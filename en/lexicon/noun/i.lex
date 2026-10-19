@@ -21,6 +21,7 @@ ideology       noun
 idiom noun
 idiot noun
 idleness noun
+idler noun
 idol           noun
 idolatry noun
 ignition noun
@@ -40,6 +41,7 @@ imagination    noun
 imaging        noun pl=- note=uncountable
 imam noun
 imbalance noun
+imbecile noun
 imitation      noun
 immensity noun
 immersion noun
@@ -63,6 +65,7 @@ imperfection noun
 imperialism noun pl=- note=uncountable
 impersonation noun
 impertinence noun
+impetuosity noun pl=- note=uncountable
 impetus noun
 implant noun
 implantation noun
@@ -89,6 +92,7 @@ impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
 impurity noun
+imputation noun
 inability      noun
 inaccuracy noun
 inaction noun pl=- note=uncountable
@@ -108,9 +112,11 @@ incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
+incineration noun pl=- note=uncountable
 incinerator noun
 incision noun
 incisor noun
+incitement noun
 inclination    noun
 incline        noun
 inclusion      noun
@@ -118,6 +124,7 @@ inclusivity noun pl=- note=uncountable
 income         noun
 incompatibility noun
 incompetence noun
+incongruity noun
 inconsistency noun
 inconvenience noun
 incorporation  noun
@@ -131,6 +138,7 @@ incursion noun
 indebtedness noun pl=- note=uncountable
 indecision noun pl=- note=uncountable
 indemnity noun
+indent noun
 indenture noun
 independence   noun
 independent    noun
@@ -161,6 +169,7 @@ industrialization noun gb=industrialisation|industrialization
 industry       noun
 inefficiency noun
 inequality     noun
+inequity noun
 inertia noun pl=- note=uncountable
 inexperience noun pl=- note=uncountable
 infamy noun
@@ -185,6 +194,7 @@ inflammation   noun
 inflatable noun
 inflation      noun
 inflection noun gb=inflection|inflexion
+infliction noun
 inflow noun
 influence      noun
 influenza      noun pl=- note=uncountable
@@ -200,6 +210,7 @@ ingenuity      noun pl=- note=uncountable
 ingestion noun
 ingratitude noun pl=- note=uncountable
 ingredient     noun
+ingress noun
 inhabitant     noun
 inhalation noun
 inheritance    noun
@@ -245,9 +256,11 @@ insertion noun
 insider noun
 insight        noun
 insignia noun pl=insignia|insignias
+insignificance noun pl=- note=uncountable
 insistence noun
 insolence noun
 insolvency     noun
+insomnia noun pl=- note=uncountable
 inspection     noun
 inspector      noun
 inspectorate   noun
@@ -268,6 +281,7 @@ instrument     noun
 instrumentalist noun
 instrumentality noun
 instrumentation noun pl=- note=uncountable
+insubordination noun pl=- note=uncountable
 insufficiency noun
 insulation noun
 insulin noun pl=- note=uncountable
@@ -286,12 +300,14 @@ integrity      noun pl=- note=uncountable
 intellect      noun
 intellectual   noun
 intelligence   noun note=plural intelligences: kinds of intelligence, agencies
+intensification noun
 intensity      noun
 intent         noun
 intention      noun
 interaction    noun
 interception noun
 interceptor noun
+intercession noun
 interchange    noun
 interconnection noun
 intercourse    noun pl=- note=uncountable
@@ -307,6 +323,7 @@ interlude noun
 intermediary   noun
 intermediate   noun
 interment noun
+intermission noun
 intern noun
 international  noun
 internet       noun pl=- note=usually with the; also capitalized Internet
@@ -315,12 +332,14 @@ internship noun
 interoperability noun pl=- note=uncountable
 interplay noun
 interpolation noun
+interposition noun
 interpretation noun
 interpreter    noun
 interrogation noun
 interruption   noun
 intersection   noun
 interstate     noun region=US
+interurban noun note=interurban railway
 interval       noun
 intervenor noun conf=90 note=legal spelling; also intervener
 intervention   noun
@@ -342,6 +361,7 @@ intro noun pl=intros note=clipping of introduction
 introduction   noun
 intruder noun
 intrusion      noun
+intubation noun
 intuition noun
 Inuit noun pl=Inuit
 inundation noun
@@ -361,6 +381,7 @@ investigator   noun
 investment     noun
 investor       noun
 invitation     noun
+invitational noun
 invite         noun note=colloquial: an invitation
 invocation noun
 invoice        noun
@@ -373,6 +394,7 @@ IPO            noun abbr note=initial public offering
 IRA            noun abbr note=individual retirement account (US); also the Irish Republican Army
 Iranian        noun
 Iraqi          noun
+ire noun pl=- note=uncountable
 IRF noun abbr note=inpatient rehabilitation facility (US)
 iris noun pl=irises
 Irish          noun pl=- note=the language; the Irish as a people
@@ -384,6 +406,7 @@ Iroquois noun pl=Iroquois
 irregularity noun
 irresponsibility noun pl=- note=uncountable
 irrigation     noun
+irritability noun pl=- note=uncountable
 irritation     noun
 ISA noun abbr note=individual savings account (UK)
 Islamist noun
@@ -404,6 +427,7 @@ issuer         noun
 isthmus noun pl=isthmuses
 Italian        noun
 italic noun
+itch noun
 item           noun
 iteration noun
 itinerant noun

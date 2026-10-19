@@ -16,7 +16,9 @@ dawn verb
 daze verb
 dazzle verb
 deactivate verb
+deadlock verb
 deal verb past=dealt pp=dealt
+debar verb double
 debase verb
 debate verb
 debilitate verb
@@ -39,6 +41,7 @@ decode verb
 decommission verb
 decompose verb
 decorate verb
+decoy verb
 decrease verb
 decree verb
 decrypt verb
@@ -48,6 +51,7 @@ deduct verb
 deed verb
 deem verb
 deepen verb
+deface verb
 defame verb
 default verb
 defeat verb
@@ -58,6 +62,7 @@ defile verb
 define verb
 deflect verb
 defraud verb
+defray verb
 defrost verb
 defy verb
 degenerate verb
@@ -71,11 +76,14 @@ delight verb
 delineate verb
 delist verb
 deliver verb
+delude verb
 deluge verb
 demand verb
 demolish verb
 demonstrate verb
+demoralize verb gb=demoralise|demoralize
 demote verb
+denominate verb
 denote verb
 denounce verb
 dent verb
@@ -120,6 +128,7 @@ deteriorate verb
 determine verb
 detest verb
 detonate verb
+detract verb
 devalue verb
 devastate verb
 develop verb
@@ -179,6 +188,7 @@ discriminate verb
 discuss verb
 disdain verb
 disembark verb
+disenfranchise verb
 disengage verb
 disfigure verb
 disgrace verb
@@ -189,12 +199,15 @@ dishearten verb
 dishonor verb gb=dishonour
 disintegrate verb
 dislike verb
+dislocate verb
 dislodge verb
 dismantle verb
 dismay verb
 dismiss verb
 dismount verb
 disobey verb
+disown verb
+disparage verb
 dispatch verb gb=dispatch|despatch
 dispel verb double
 dispense verb
@@ -203,6 +216,7 @@ displace verb
 display verb
 displease verb
 dispose verb
+dispossess verb
 disprove verb past=disproved pp=disproved|disproven
 dispute verb
 disqualify verb
@@ -217,6 +231,7 @@ dissipate verb
 dissolve verb
 dissuade verb
 distance verb
+distend verb
 distill verb gb=distil conf=90 note=distill US, distil GB; distilled, distilling shared
 distinguish verb
 distort verb

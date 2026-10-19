@@ -30,6 +30,7 @@ Heathrow       propn
 Heidelberg propn
 Helsinki       propn
 Hereford propn
+Hermitage propn note=the museum in Saint Petersburg
 Hertford propn
 Hertfordshire propn
 Herzegovina    propn note=as in Bosnia and Herzegovina

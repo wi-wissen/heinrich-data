@@ -49,6 +49,7 @@ debütieren verb class=weak pp=debütiert perf=haben
 deckeln verb class=weak pp=gedeckelt perf=haben note=Kosten deckeln (cap)
 decken verb class=weak pp=gedeckt perf=haben refl=acc
 definieren verb class=weak pp=definiert perf=haben
+degradieren verb class=weak pp=degradiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
 deinstallieren verb class=weak pp=deinstalliert perf=haben
 deklarieren verb class=weak pp=deklariert perf=haben
@@ -105,7 +106,7 @@ duften verb class=weak pp=geduftet perf=haben
 dulden verb class=weak pp=geduldet perf=haben
 düngen verb class=weak pp=gedüngt perf=haben
 dunkeln verb class=weak pp=gedunkelt perf=haben note=mostly impersonal (es dunkelt)
-dünken verb class=weak past=dünkte|deuchte[archaic] pp=gedünkt|gedeucht[archaic] perf=haben style=archaic conf=80 note=mich dünkt; the preterite deuchte is rare
+dünken verb class=weak 3sg=dünkt|deucht[archaic] past=dünkte|deuchte[archaic] pp=gedünkt|gedeucht[archaic] perf=haben style=archaic conf=80 note=mich dünkt; the preterite deuchte is rare
 dünsten verb class=weak pp=gedünstet perf=haben
 durchblättern verb class=weak sep=durch pp=durchgeblättert perf=haben
 durchblicken verb class=weak sep=durch pp=durchgeblickt perf=haben

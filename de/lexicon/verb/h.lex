@@ -12,6 +12,7 @@ hängen verb class=strong 3sg=hängt past=hing pp=gehangen subj2=hinge perf=habe
 hängen verb class=weak pp=gehängt perf=haben sense=transitive note=er hängte das Bild an die Wand
 hänseln verb class=weak pp=gehänselt perf=haben
 harken verb class=weak pp=geharkt perf=haben
+harmonisieren verb class=weak pp=harmonisiert perf=haben
 harren verb class=weak pp=geharrt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 hasten verb class=weak pp=gehastet perf=sein
@@ -220,6 +221,7 @@ herzeigen verb class=weak sep=her pp=hergezeigt perf=haben
 herziehen verb class=strong sep=her 3sg=herzieht past=herzog subj2=herzöge pp=hergezogen perf=haben|sein
 hetzen verb class=weak pp=gehetzt perf=haben|sein
 heucheln verb class=weak pp=geheuchelt perf=haben
+heuern verb class=weak pp=geheuert perf=haben
 heulen verb class=weak pp=geheult perf=haben
 hierbleiben verb class=strong sep=hier 3sg=hierbleibt past=hierblieb pp=hiergeblieben subj2=hierbliebe perf=sein
 hinaufblicken verb class=weak sep=hinauf pp=hinaufgeblickt perf=haben
@@ -397,5 +399,6 @@ humpeln verb class=weak pp=gehumpelt perf=haben|sein
 hungern verb class=weak pp=gehungert perf=haben
 hupen verb class=weak pp=gehupt perf=haben
 hüpfen verb class=weak pp=gehüpft perf=sein
+huschen verb class=weak pp=gehuscht perf=sein
 husten verb class=weak pp=gehustet perf=haben
 hüten verb class=weak pp=gehütet perf=haben

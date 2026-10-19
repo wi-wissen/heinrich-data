@@ -41,6 +41,7 @@ oscillate verb
 oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
+outcompete verb prefix=out
 outfit        verb prefix=out
 outgrow verb prefix=out past=outgrew pp=outgrown
 outlaw        verb
@@ -77,6 +78,7 @@ overrun verb prefix=over past=overran pp=overrun
 oversee       verb prefix=over past=oversaw pp=overseen
 overshadow verb
 overspend verb prefix=over past=overspent pp=overspent
+overspread verb prefix=over past=overspread pp=overspread
 overstaff verb
 overstate verb prefix=over
 overtake verb prefix=over past=overtook pp=overtaken

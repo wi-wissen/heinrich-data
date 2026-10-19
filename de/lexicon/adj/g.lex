@@ -2,6 +2,7 @@ gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
 ganzheitlich adj
 ganzjährig adj
+gänzlich adj note=attributive use; the adverb has its own entry
 gar adj
 gasförmig adj
 gebeugt adj
@@ -36,6 +37,8 @@ geläufig adj
 gelb adj cmp=gelber sup=gelbsten
 gelblich adj cmp=gelblicher sup=gelblichsten
 gelegentlich adj
+gelinde adj cmp=gelinder sup=gelindesten note=gelinde gesagt
+gemächlich adj cmp=gemächlicher sup=gemächlichsten
 gemäßigt adj cmp=gemäßigter sup=gemäßigtsten
 gemein adj cmp=gemeiner sup=gemeinsten
 gemeinnützig adj
@@ -55,6 +58,7 @@ georgisch adj
 gepfarrt adj conf=85 note=assigned to a parish (nach X gepfarrt)
 gepunktet adj
 gerade adj cmp=gerader sup=geradesten
+geradlinig adj cmp=geradliniger sup=geradlinigsten
 geraum adj attr_only note=only in geraume Zeit, seit geraumer Zeit
 geräumig adj cmp=geräumiger sup=geräumigsten
 gerecht adj cmp=gerechter sup=gerechtesten

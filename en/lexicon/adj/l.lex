@@ -6,6 +6,7 @@ languid adj cmp=more adv=languidly
 Lankan adj note=only in Sri Lankan
 Lao adj
 large         adj cmp=er adv=largely
+largemouth adj conf=85 note=as in largemouth bass
 larval adj
 lasting       adj
 late          adj cmp=er
@@ -35,6 +36,7 @@ lee adj attr_only
 leeward adj
 left          adj attr_only
 leftist adj
+leftover adj
 legal         adj adv=legally
 legendary     adj
 legible adj
@@ -48,6 +50,7 @@ lesbian       adj
 lesser        adj attr_only
 lethal        adj
 level         adj cmp=more
+lexical adj adv=lexically
 LGBT          adj abbr note=lesbian, gay, bisexual and transgender
 LGBTQ         adj abbr note=lesbian, gay, bisexual, transgender and queer
 liable        adj pred_only
@@ -72,9 +75,11 @@ liquid        adj
 listless adj adv=listlessly
 literal       adj adv=literally
 literary      adj
+literate adj cmp=more
 lithe adj cmp=er
 Lithuanian    adj
 little        adj cmp=littler sup=littlest conf=85 note=less/least (quantity sense) are in closed/
+littoral adj
 liturgical adj
 live          adj attr_only
 lively        adj cmp=er
@@ -97,6 +102,7 @@ longstanding  adj
 longtime      adj attr_only
 loose         adj cmp=er adv=loosely
 lordly adj cmp=er|more
+loth adj pred_only conf=90 note=variant spelling of loath
 loud          adj cmp=er adv=loudly
 lovable adj cmp=more
 lovely        adj cmp=er
@@ -107,10 +113,12 @@ lowercase adj
 lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
 lucid adj cmp=more adv=lucidly
+luckless adj
 lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
 lukewarm adj
+lumbar adj
 luminous adj
 lumpy adj cmp=er
 lunar         adj

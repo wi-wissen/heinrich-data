@@ -14,6 +14,7 @@ Quark noun g=m gen=Quarks pl=- note=no plural
 Quartal noun g=n gen=Quartals pl=Quartale
 Quartett noun g=n gen=Quartetts|Quartettes pl=Quartette
 Quartier noun g=n gen=Quartiers pl=Quartiere
+Quarz noun g=m gen=Quarzes pl=Quarze
 Quatsch noun g=m gen=Quatsches|Quatschs pl=- note=mass noun; colloquial
 Quecksilber noun g=n gen=Quecksilbers pl=- note=mass noun
 Quell noun g=m gen=Quells|Quelles pl=- conf=85 note=poetic variant of Quelle; plural not attested

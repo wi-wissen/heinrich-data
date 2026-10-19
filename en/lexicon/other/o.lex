@@ -1,5 +1,6 @@
 obscura x foreign note=only in camera obscura
 Oct.          x abbr note=October
+officio x foreign note=only in ex officio
 oh            intj
 OK intj abbr note=variant of okay
 okay          intj

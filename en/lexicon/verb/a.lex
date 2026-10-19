@@ -12,6 +12,7 @@ abort verb
 abound verb
 abridge verb
 abseil verb region=GB
+absolve verb
 absorb verb
 abstain verb
 abstract verb
@@ -19,6 +20,7 @@ abuse verb
 abut verb double
 accede verb
 accelerate verb
+accentuate verb
 accept verb
 access verb
 acclaim verb
@@ -50,6 +52,7 @@ adduce verb
 adhere verb
 adjoin verb
 adjourn verb
+adjudge verb
 adjudicate verb
 adjust verb
 administer verb
@@ -142,6 +145,7 @@ apportion verb
 appraise verb
 appreciate verb
 apprehend verb
+apprentice verb
 apprise verb
 approach verb
 appropriate verb
@@ -165,6 +169,7 @@ ascertain verb
 ascribe verb
 ask verb
 asphalt verb
+aspirate verb
 aspire verb
 assail verb
 assassinate verb
@@ -189,6 +194,7 @@ attack verb
 attain verb
 attempt verb
 attend verb
+attenuate verb
 attest verb
 attire verb
 attract verb
@@ -204,6 +210,7 @@ autograph verb
 automate verb
 avail verb
 avenge verb
+aver verb double
 average verb
 avert verb
 avoid verb

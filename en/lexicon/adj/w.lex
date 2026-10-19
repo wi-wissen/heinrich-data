@@ -63,6 +63,7 @@ wonderful adj cmp=more adv=wonderfully
 wondering adj adv=wonderingly
 wondrous adj
 wont adj pred_only note=archaic: accustomed
+wonted adj attr_only
 wooded adj
 wooden adj
 woody adj cmp=er

@@ -14,6 +14,7 @@ walisisch adj
 warm adj cmp=wärmer sup=wärmsten
 wechselseitig adj
 wehmütig adj cmp=wehmütiger sup=wehmütigsten
+wehrpflichtig adj
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten

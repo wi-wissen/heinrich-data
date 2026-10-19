@@ -55,6 +55,7 @@ treffend adj cmp=treffender sup=treffendsten
 trefflich adj cmp=trefflicher sup=trefflichsten
 trennbar adj
 treu adj cmp=treuer sup=treuesten
+treuherzig adj cmp=treuherziger sup=treuherzigsten
 treulich adj style=archaic
 treuwidrig adj
 trocken adj cmp=trockener sup=trockensten
@@ -65,6 +66,7 @@ trunken adj cmp=trunkener sup=trunkensten
 tschechisch adj
 tschechoslowakisch adj
 tüchtig adj cmp=tüchtiger sup=tüchtigsten
+tunesisch adj
 türkis adj indecl
 türkisch adj
 typisch adj cmp=typischer sup=typischsten

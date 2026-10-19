@@ -18,6 +18,8 @@ nestle verb
 net           verb
 nettle verb
 network       verb
+neuter verb
+neutralize verb gb=neutralise|neutralize
 nibble verb
 nickname      verb
 nod           verb
@@ -32,6 +34,7 @@ notify        verb
 nourish verb
 nuance verb
 nullify verb
+numb verb
 number        verb
 nurse         verb
 nurture verb

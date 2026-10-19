@@ -31,7 +31,9 @@ barricade verb
 barter verb
 base verb
 bash verb
+bask verb
 bat verb
+batch verb
 bathe verb
 batter verb
 battle verb
@@ -66,6 +68,7 @@ beset verb past=beset pp=beset double
 besiege verb
 bestow verb
 bet verb past=bet pp=bet
+betake verb prefix=be past=betook pp=betaken style=archaic
 bethink verb prefix=be past=bethought pp=bethought style=archaic
 betray verb
 betroth verb
@@ -74,6 +77,7 @@ beware verb defective note=defective: only the base form (imperative, infinitive
 bewilder verb
 bewitch verb
 bias verb
+bicker verb
 bid verb past=bid|bade pp=bid|bidden
 bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
@@ -81,7 +85,9 @@ bill verb
 billow verb
 bind verb past=bound pp=bound
 bisect verb
+bitch verb style=colloquial
 bite verb past=bit pp=bitten
+bivouac verb past=bivouacked pp=bivouacked ing=bivouacking
 black verb
 blacken verb
 blacklist verb
@@ -100,6 +106,7 @@ blindfold verb
 blink verb
 blister verb
 blitz verb
+bloat verb
 block verb
 blockade verb
 blog verb
@@ -111,6 +118,7 @@ bluff verb
 blunder verb
 blunt verb
 blur verb
+blurt verb
 blush verb
 bluster verb
 board verb
@@ -131,6 +139,7 @@ boot verb
 border verb
 bore verb
 borrow verb
+botch verb
 bother verb
 bottle verb
 bounce verb

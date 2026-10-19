@@ -8,6 +8,7 @@ echo verb
 eclipse verb
 eddy verb
 edge verb
+edify verb
 edit verb
 educate verb
 efface verb
@@ -35,6 +36,8 @@ embezzle verb
 embitter verb
 emblazon verb
 embody verb
+embolden verb
+emboss verb
 embrace verb
 embroider verb
 embroil verb
@@ -49,6 +52,7 @@ emulate verb
 enable verb
 enact verb
 encamp verb
+encapsulate verb
 encase verb
 enchant verb
 encircle verb
@@ -70,6 +74,7 @@ endow verb
 endure verb
 enforce verb
 engage verb
+engender verb
 engineer verb
 engrave verb
 engross verb
@@ -80,6 +85,7 @@ enjoy verb
 enlarge verb
 enlighten verb
 enlist verb
+enliven verb
 enrage verb
 enrich verb
 enroll verb gb=enrol double
@@ -92,6 +98,7 @@ entail verb
 entangle verb
 enter verb
 entertain verb
+enthrone verb
 entice verb
 entitle verb
 entrance verb note=to enchant (entranced)
@@ -99,6 +106,7 @@ entrap verb double
 entreat verb
 entrench verb
 entrust verb
+entwine verb
 enumerate verb
 envelop verb
 envisage verb
@@ -117,6 +125,8 @@ escalate verb
 escape verb
 escort verb
 espouse verb
+espy verb
+essay verb note=to attempt
 establish verb
 esteem verb
 estimate verb
@@ -157,6 +167,7 @@ exert verb
 exhaust verb
 exhibit verb
 exhilarate verb
+exhort verb
 exhume verb
 exile verb
 exist verb
@@ -185,6 +196,7 @@ extend verb
 exterminate verb
 extinguish verb
 extirpate verb
+extol verb double
 extract verb
 extradite verb
 extricate verb

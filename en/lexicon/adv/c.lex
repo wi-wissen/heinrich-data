@@ -4,6 +4,7 @@ chiefly adv
 clean adv
 clinically adv
 clockwise adv type=manner
+coastwise adv
 commercially adv
 comparatively adv
 concurrently adv

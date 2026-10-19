@@ -31,6 +31,7 @@ war noun
 warbler noun
 ward noun
 warden noun
+warder noun
 wardrobe noun
 ware noun
 warehouse noun
@@ -67,6 +68,7 @@ watercourse noun
 waterfall noun
 waterfowl noun pl=waterfowl
 waterfront noun
+waterline noun
 watermelon noun
 watershed noun
 waterway noun
@@ -89,6 +91,7 @@ weasel noun
 weather noun note=plural weathers: in all weathers
 weaver noun
 web noun
+webbing noun pl=- note=material; also the -ing form of web
 webcam noun
 webcast noun
 webinar noun
@@ -117,11 +120,13 @@ wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
 welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
+welterweight noun
 wench noun
 werewolf noun pl=werewolves
 west noun pl=- note=uncountable
 westerly noun
 western noun
+westerner noun
 wetback noun style=offensive note=slur for Mexican immigrants
 wetland noun
 wetsuit noun
@@ -133,6 +138,7 @@ wheelbarrow noun
 wheelbase noun
 wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
+whiff noun
 Whig noun
 whim noun
 whin noun conf=90 note=gorse
@@ -154,6 +160,7 @@ whiteboard noun
 whitelist noun
 whiteness noun pl=- note=uncountable
 whitewash noun
+whitewater noun pl=- note=uncountable
 whitey noun style=offensive note=derogatory term for white people
 whole noun
 wholesale noun pl=- note=uncountable
@@ -194,6 +201,7 @@ windowsill noun
 windshield noun region=US note=British windscreen
 windward noun pl=- note=uncountable
 wine noun
+winery noun
 wing noun
 winger noun
 wingspan noun
@@ -205,6 +213,7 @@ wipe noun
 wire noun
 wireframe noun
 wireless noun pl=- note=uncountable
+wireline noun conf=85 note=oil industry and telecommunications: a wire-based line
 wisdom noun pl=- note=uncountable
 wish noun
 wit noun
@@ -222,8 +231,10 @@ womanhood noun pl=- note=uncountable
 womb noun
 wonder noun
 wonderland noun
+wonderment noun pl=- note=uncountable
 wont noun pl=- note=uncountable
 wood noun
+woodbine noun
 woodcock noun pl=woodcocks|woodcock
 woodland noun
 woodpecker noun

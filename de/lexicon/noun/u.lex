@@ -3,7 +3,9 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übel noun g=n gen=Übels pl=Übel
 Übelkeit noun g=f gen=Übelkeit pl=- note=mass noun
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
+Überbleibsel noun g=n gen=Überbleibsels pl=Überbleibsel
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
+Überbrückung noun g=f gen=Überbrückung pl=Überbrückungen
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
 Übereinkunft noun g=f gen=Übereinkunft pl=Übereinkünfte
 Übereinstimmung noun g=f gen=Übereinstimmung pl=Übereinstimmungen
@@ -50,6 +52,8 @@ Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhu noun g=m gen=Uhus pl=Uhus
 Ulme noun g=f gen=Ulme pl=Ulmen
+Ultimatum noun g=n gen=Ultimatums pl=Ultimaten|Ultimatums conf=85 note=plural Ultimaten common, Ultimatums also used
+Ultra noun g=m gen=Ultras pl=Ultras conf=90 note=radical (football) fan or political extremist
 Umarmung noun g=f gen=Umarmung pl=Umarmungen
 Umbau noun g=m gen=Umbaus|Umbaues pl=Umbauten
 Umbenennung noun g=f gen=Umbenennung pl=Umbenennungen
@@ -90,6 +94,7 @@ Umweltschützerin noun g=f gen=Umweltschützerin pl=Umweltschützerinnen
 Umweltverschmutzung noun g=f gen=Umweltverschmutzung pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
+Unannehmlichkeit noun g=f gen=Unannehmlichkeit pl=Unannehmlichkeiten
 Unbekannte noun g=m|f decl=adj
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
@@ -99,6 +104,7 @@ Ungarin noun g=f gen=Ungarin pl=Ungarinnen
 Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
+Ungestüm noun g=n gen=Ungestüms pl=- note=mass noun
 Ungeziefer noun g=n gen=Ungeziefers pl=- note=collective noun
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
 Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
@@ -185,3 +191,4 @@ Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural
+Utopie noun g=f gen=Utopie pl=Utopien

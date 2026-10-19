@@ -58,6 +58,7 @@ Verbraucherin noun g=f gen=Verbraucherin pl=Verbraucherinnen
 Verbrechen noun g=n gen=Verbrechens pl=Verbrechen
 Verbrecher noun g=m gen=Verbrechers pl=Verbrecher
 Verbrecherin noun g=f gen=Verbrecherin pl=Verbrecherinnen
+Verbreiterung noun g=f gen=Verbreiterung pl=Verbreiterungen
 Verbreitung noun g=f gen=Verbreitung pl=- note=no plural
 Verbreitungsgebiet noun g=n gen=Verbreitungsgebiets|Verbreitungsgebietes pl=Verbreitungsgebiete
 Verbrennung noun g=f gen=Verbrennung pl=Verbrennungen
@@ -71,6 +72,7 @@ Verdiener noun g=m gen=Verdieners pl=Verdiener
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
 Verdrängung noun g=f gen=Verdrängung pl=- note=no plural in practice
 Verdruss noun g=m gen=Verdrusses pl=- note=no plural
+Veredelung noun g=f gen=Veredelung pl=Veredelungen
 Verehrer noun g=m gen=Verehrers pl=Verehrer
 Verehrerin noun g=f gen=Verehrerin pl=Verehrerinnen
 Verehrung noun g=f gen=Verehrung pl=- note=no plural
@@ -94,6 +96,8 @@ Verfolger noun g=m gen=Verfolgers pl=Verfolger
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
 Verfügbarkeit noun g=f gen=Verfügbarkeit pl=- note=no plural
 Verfügung noun g=f gen=Verfügung pl=Verfügungen
+Verführer noun g=m gen=Verführers pl=Verführer
+Verführerin noun g=f gen=Verführerin pl=Verführerinnen
 Verführung noun g=f gen=Verführung pl=Verführungen
 Vergabe noun g=f gen=Vergabe pl=Vergaben
 Vergangenheit noun g=f gen=Vergangenheit pl=Vergangenheiten[rare]
@@ -118,6 +122,7 @@ Verhältnismäßigkeit noun g=f gen=Verhältnismäßigkeit pl=- note=no plural
 Verhandlung noun g=f gen=Verhandlung pl=Verhandlungen
 Verheißung noun g=f gen=Verheißung pl=Verheißungen
 Verhängnis noun g=n gen=Verhängnisses pl=Verhängnisse
+Verhetzung noun g=f gen=Verhetzung pl=- note=mass noun
 Verhinderung noun g=f gen=Verhinderung pl=- note=no plural
 Verhör noun g=n gen=Verhörs|Verhöres pl=Verhöre
 Verhütung noun g=f gen=Verhütung pl=- note=no plural
@@ -139,6 +144,7 @@ Verlag noun g=m gen=Verlags|Verlages pl=Verlage
 Verlagerung noun g=f gen=Verlagerung pl=Verlagerungen
 Verlangen noun g=n gen=Verlangens pl=- note=mass noun
 Verlängerung noun g=f gen=Verlängerung pl=Verlängerungen
+Verlassenheit noun g=f gen=Verlassenheit pl=- note=abstract noun, no plural
 Verlässlichkeit noun g=f gen=Verlässlichkeit pl=- note=no plural
 Verlaub noun g=m gen=Verlaubs pl=- note=only in mit Verlaub
 Verlauf noun g=m gen=Verlaufs|Verlaufes[rare] pl=Verläufe
@@ -214,6 +220,8 @@ Verschuldung noun g=f gen=Verschuldung pl=- note=no plural
 Verschwender noun g=m gen=Verschwenders pl=Verschwender
 Verschwendung noun g=f gen=Verschwendung pl=Verschwendungen
 Verschwiegenheit noun g=f gen=Verschwiegenheit pl=- note=mass noun
+Verschwörer noun g=m gen=Verschwörers pl=Verschwörer
+Verschwörerin noun g=f gen=Verschwörerin pl=Verschwörerinnen
 Verschwörung noun g=f gen=Verschwörung pl=Verschwörungen
 Versender noun g=m gen=Versenders pl=Versender
 Versetzung noun g=f gen=Versetzung pl=Versetzungen
@@ -227,6 +235,7 @@ Versicherungsunternehmen noun g=n gen=Versicherungsunternehmens pl=Versicherungs
 Version noun g=f gen=Version pl=Versionen
 Versionierung noun g=f gen=Versionierung pl=Versionierungen
 Versöhnung noun g=f gen=Versöhnung pl=Versöhnungen
+Versorger noun g=m gen=Versorgers pl=Versorger
 Versorgung noun g=f gen=Versorgung pl=Versorgungen[rare]
 Verspätung noun g=f gen=Verspätung pl=Verspätungen
 Versprechen noun g=n gen=Versprechens pl=Versprechen note=lexicalised nominal infinitive: promise
@@ -257,6 +266,7 @@ Vertrag noun g=m gen=Vertrages|Vertrags pl=Verträge
 Verträglichkeit noun g=f gen=Verträglichkeit pl=- note=no plural in practice
 Vertrauen noun g=n gen=Vertrauens pl=- note=mass noun
 Vertraulichkeit noun g=f gen=Vertraulichkeit pl=- note=no plural in practice
+Vertreiber noun g=m gen=Vertreibers pl=Vertreiber
 Vertreibung noun g=f gen=Vertreibung pl=Vertreibungen
 Vertreter noun g=m gen=Vertreters pl=Vertreter
 Vertreterin noun g=f gen=Vertreterin pl=Vertreterinnen
@@ -264,6 +274,7 @@ Vertretung noun g=f gen=Vertretung pl=Vertretungen
 Vertrieb noun g=m gen=Vertriebs|Vertriebes pl=Vertriebe
 Verursacher noun g=m gen=Verursachers pl=Verursacher
 Verurteilung noun g=f gen=Verurteilung pl=Verurteilungen
+Verve noun g=f gen=Verve pl=- note=mass noun
 Vervielfältigung noun g=f gen=Vervielfältigung pl=Vervielfältigungen
 Verwahrung noun g=f gen=Verwahrung pl=- note=no plural
 Verwalter noun g=m gen=Verwalters pl=Verwalter
@@ -278,6 +289,7 @@ Verwendung noun g=f gen=Verwendung pl=Verwendungen
 Verwertung noun g=f gen=Verwertung pl=Verwertungen
 Verwirklichung noun g=f gen=Verwirklichung pl=- note=no plural in practice
 Verwirrung noun g=f gen=Verwirrung pl=Verwirrungen
+Verwitterung noun g=f gen=Verwitterung pl=Verwitterungen
 Verwunderung noun g=f gen=Verwunderung pl=- note=no plural
 Verwundung noun g=f gen=Verwundung pl=Verwundungen
 Verzahnung noun g=f gen=Verzahnung pl=Verzahnungen
@@ -293,6 +305,7 @@ Veteran noun g=m gen=Veteranen pl=Veteranen
 Veterinär noun g=m gen=Veterinärs pl=Veterinäre
 Veto noun g=n gen=Vetos pl=Vetos
 Vetter noun g=m gen=Vetters pl=Vettern
+Viadukt noun g=m|n gen=Viadukts|Viaduktes pl=Viadukte
 Video noun g=n gen=Videos pl=Videos
 Videocall noun g=m gen=Videocalls pl=Videocalls
 Videokonferenz noun g=f gen=Videokonferenz pl=Videokonferenzen
@@ -305,6 +318,7 @@ Vielseitigkeit noun g=f gen=Vielseitigkeit pl=- note=mass noun
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
 Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
+Vierung noun g=f gen=Vierung pl=Vierungen
 Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Vikar noun g=m gen=Vikars pl=Vikare
 Vikariat noun g=n gen=Vikariats|Vikariates pl=Vikariate
@@ -325,6 +339,7 @@ Vizekönig noun g=m gen=Vizekönigs pl=Vizekönige
 Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister
 Vizepräsident noun g=m gen=Vizepräsidenten pl=Vizepräsidenten
 Vizepräsidentin noun g=f gen=Vizepräsidentin pl=Vizepräsidentinnen
+Vlies noun g=n gen=Vlieses pl=Vliese
 Vlog noun g=m|n gen=Vlogs pl=Vlogs
 Vogel noun g=m gen=Vogels pl=Vögel
 Vögelchen noun g=n gen=Vögelchens pl=Vögelchen
@@ -347,6 +362,7 @@ Volljährigkeit noun g=f gen=Volljährigkeit pl=- note=mass noun
 Vollkommenheit noun g=f gen=Vollkommenheit pl=- note=no plural
 Vollmacht noun g=f gen=Vollmacht pl=Vollmachten
 Vollständigkeit noun g=f gen=Vollständigkeit pl=- note=no plural
+Vollstrecker noun g=m gen=Vollstreckers pl=Vollstrecker
 Vollstreckung noun g=f gen=Vollstreckung pl=Vollstreckungen
 Vollzeit noun g=f gen=Vollzeit pl=- note=no plural
 Vollzug noun g=m gen=Vollzugs|Vollzuges pl=- note=no plural

@@ -24,6 +24,7 @@ Belgrad propn g=n gen=Belgrads pl=- note=proper name; no plural
 Berchtesgaden propn g=n gen=Berchtesgadens pl=- note=proper name; no plural
 Berlin        propn g=n gen=Berlins pl=- demonym=Berliner note=proper name; no plural
 Bern propn g=n gen=Berns pl=- demonym=Berner note=proper name; no plural
+Bethanien propn g=n gen=Bethaniens pl=- note=biblical place name; also name of hospitals and institutions
 BGB propn g=n gen=BGB|BGBs pl=- note=Bürgerliches Gesetzbuch (das BGB)
 Bielefeld propn g=n gen=Bielefelds pl=- demonym=Bielefelder note=proper name; no plural
 Birmingham propn g=n gen=Birminghams pl=- note=proper name; no plural
@@ -53,6 +54,7 @@ Bremen        propn g=n gen=Bremens pl=- demonym=Bremer note=proper name; no plu
 Bremerhaven propn g=n gen=Bremerhavens pl=- note=proper name; no plural
 Breslau propn g=n gen=Breslaus pl=- note=proper name; no plural
 Bretagne propn g=f gen=Bretagne pl=- note=proper name; no plural
+Brieg propn g=n gen=Briegs pl=- note=proper name; German name of Brzeg
 Bristol propn g=n gen=Bristols pl=- note=proper name; no plural
 Brünn propn g=n gen=Brünns pl=- note=proper name; no plural
 Brüssel       propn g=n gen=Brüssels pl=- note=proper name; no plural

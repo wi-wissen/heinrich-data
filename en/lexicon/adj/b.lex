@@ -10,6 +10,7 @@ balmy adj cmp=er adv=balmily
 Baltic adj
 bankable adj
 bankrupt adj
+baptismal adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
 barbed adj
@@ -21,9 +22,11 @@ baronial adj
 baroque adj
 barren adj cmp=more
 basal adj
+bashful adj adv=bashfully
 basic adj adv=basically
 Basque adj
 Bavarian adj
+beaded adj
 beaked adj
 bearded adj
 beastly adj cmp=er
@@ -32,6 +35,7 @@ behavioral adj gb=behavioural
 beige adj
 Belarusian adj
 belated adj adv=belatedly
+beleaguered adj
 Belgian adj
 belligerent adj adv=belligerently cmp=more
 beloved adj
@@ -41,8 +45,10 @@ beneficial adj adv=beneficially
 benevolent adj cmp=more adv=benevolently
 Bengali adj
 benign adj adv=benignly
+benthic adj
 Berber adj
 bereaved adj
+bereft adj pred_only
 bespoke adj
 bestselling adj
 biannual adj adv=biannually
@@ -50,6 +56,7 @@ biblical adj
 bicentennial adj
 biennial adj
 big adj cmp=er
+bigoted adj cmp=more
 bilateral adj adv=bilaterally
 bilingual adj
 billable adj
@@ -67,6 +74,7 @@ bipartisan adj
 bipolar adj
 bisexual adj
 bitter adj cmp=er|more adv=bitterly
+bituminous adj
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
@@ -79,19 +87,25 @@ blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
+blissful adj adv=blissfully
 blithe adj adv=blithely
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
+blooded adj note=mostly in compounds: cold-blooded, warm-blooded, blue-blooded
 bloodless adj adv=bloodlessly
+bloodthirsty adj cmp=er|more
 bloody adj cmp=er
 blue adj cmp=er
+bluish adj
 blunt adj cmp=er adv=bluntly
 blustery adj
+bodied adj note=mostly in compounds: able-bodied, full-bodied
 bodily adj
 bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
+bonnie adj conf=85 note=Scots spelling of bonny
 bonny adj cmp=er region=GB
 bony adj cmp=er
 bored adj cmp=more
@@ -121,7 +135,10 @@ brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
+broken-hearted adj note=hearted is not a word of its own
+brotherly adj
 brown adj cmp=er
+brownish adj
 brutal adj cmp=more adv=brutally
 bubbly adj cmp=er
 Buddhist adj

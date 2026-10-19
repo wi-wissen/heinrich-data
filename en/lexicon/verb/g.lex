@@ -15,10 +15,12 @@ gather         verb
 gauge          verb
 gawp verb region=GB style=colloquial
 gaze           verb
+gazette verb note=to announce officially (gazetted)
 gear           verb
 gel verb
 generalize verb gb=generalise|generalize
 generate       verb
+gesticulate verb
 gesture        verb
 get            verb past=got pp=got|gotten[US]
 giggle verb
@@ -32,6 +34,7 @@ glean verb
 glide          verb
 glimmer verb
 glimpse        verb
+glint verb
 glisten verb
 glitter        verb
 glorify verb
@@ -64,6 +67,7 @@ greet          verb
 gridlock verb
 grieve verb
 grill verb
+grimace verb
 grin           verb
 grind          verb past=ground pp=ground
 grip           verb

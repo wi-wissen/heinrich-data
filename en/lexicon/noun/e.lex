@@ -14,11 +14,15 @@ earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
+earshot noun pl=- note=uncountable
+eartag noun conf=90 note=agricultural spelling of ear tag
 earth noun
+earthenware noun pl=- note=uncountable
 earthquake noun
 earthwork noun
 earthworm noun
 ease noun
+easel noun
 easement noun
 east noun
 easterly noun
@@ -36,6 +40,7 @@ ecommerce noun pl=- conf=85 note=also e-commerce
 economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
+ecoregion noun
 ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
@@ -47,6 +52,7 @@ edifice noun
 edition noun
 editor noun
 editorial noun
+editorship noun
 education noun
 educator noun
 eel noun
@@ -58,13 +64,19 @@ effigy noun
 effluent noun
 effort noun
 effrontery noun pl=- note=uncountable
+effusion noun
+egalitarian noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
+egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
+eigenvalue noun
 EIS noun abbr note=environmental impact statement
+ejaculation noun
+ejection noun
 elaboration noun
 elastic noun
 elasticity noun
@@ -95,6 +107,7 @@ elk noun pl=elk|elks
 ellipse noun
 ellipsoid noun
 elm noun
+elocutionist noun
 elongation noun
 eloquence noun pl=- note=uncountable
 em noun
@@ -121,6 +134,7 @@ eminence noun
 emirate noun
 emissary noun
 emission noun
+emitter noun
 emoji noun pl=emojis|emoji
 emolument noun
 emoticon noun
@@ -129,6 +143,7 @@ empathy noun
 emperor noun
 emphasis noun pl=emphases
 empire noun
+employability noun pl=- note=uncountable
 employee noun
 employer noun
 employment noun
@@ -175,12 +190,14 @@ Englishman noun pl=Englishmen
 engraver noun
 engraving noun
 enhancement noun
+enigma noun
 enjoyment noun
 enlargement noun
 enlightenment noun
 enlistment noun
 enmity noun
 ennui noun pl=- note=uncountable
+enormity noun
 enrichment noun
 enrollee noun
 enrollment noun gb=enrolment
@@ -205,6 +222,7 @@ entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
 entry noun
+enumeration noun
 envelope noun
 environment noun
 environmentalist noun
@@ -223,6 +241,7 @@ epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
 epitaph noun
+epithelium noun pl=epithelia
 epithet noun
 epitome noun
 epoch noun pl=epochs
@@ -234,6 +253,7 @@ equator noun
 equilibrium noun pl=equilibria|equilibriums
 equine noun
 equinox noun
+equipage noun
 equipment noun pl=- note=uncountable
 equity noun
 equivalence noun
@@ -250,6 +270,7 @@ ermine noun pl=ermine|ermines
 erosion noun pl=- note=uncountable
 errand noun
 error noun
+erudition noun pl=- note=uncountable
 eruption noun
 escalation noun
 escape noun
@@ -282,6 +303,7 @@ ether noun
 ethic noun
 Ethiopian noun
 ethnicity noun
+ethnology noun pl=- note=uncountable
 ethos noun pl=- note=uncountable
 ethylene noun pl=- note=uncountable
 etiquette noun
@@ -294,6 +316,8 @@ eunuch noun pl=eunuchs
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
+eurozone noun pl=- note=also capitalized Eurozone
+euthanasia noun pl=- note=uncountable
 EV noun abbr note=electric vehicle
 evacuation noun
 evaluation noun
@@ -318,7 +342,9 @@ exam noun
 examination noun
 examiner noun
 example noun
+exasperation noun pl=- note=uncountable
 excavation noun
+exceedance noun conf=90 note=technical: an instance of exceeding a limit
 excellence noun
 excellency noun
 exception noun
@@ -335,6 +361,7 @@ exclusivity noun
 excommunication noun
 excursion noun
 excuse noun
+executable noun
 execution noun
 executioner noun
 executive noun
@@ -347,6 +374,7 @@ exhaustion noun pl=- note=uncountable
 exhibit noun
 exhibition noun
 exhibitor noun
+exhilaration noun pl=- note=uncountable
 exigency noun
 exile noun
 existence noun
@@ -355,6 +383,7 @@ exodus noun
 exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
+expansionist noun
 expatriate noun
 expectancy noun
 expectation noun
@@ -402,11 +431,13 @@ extract noun
 extraction noun
 extradition noun
 extranet noun
+extraterrestrial noun
 extravagance noun
 extreme noun
 extremism noun pl=- note=uncountable
 extremist noun
 extremity noun
+exuberance noun pl=- note=uncountable
 exultation noun
 eye noun
 eyeball noun

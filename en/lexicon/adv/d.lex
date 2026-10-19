@@ -8,6 +8,7 @@ differently adv
 digitally adv
 disproportionately adv
 distinctly adv
+ditto adv
 domestically adv
 double adv
 doubly adv

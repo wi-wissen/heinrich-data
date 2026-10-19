@@ -10,8 +10,10 @@ kava noun
 Kazakh noun
 kebab noun
 keel noun
+keenness noun pl=- note=uncountable
 keep           noun
 keeper         noun
+kelp noun pl=- note=uncountable
 ken noun pl=- note=beyond one's ken
 kennel noun
 kernel noun
@@ -29,9 +31,11 @@ keypad noun
 keystone noun
 keystroke noun
 keyword noun
+khaki noun pl=khakis
 Khmer noun pl=Khmer
 kibbutz noun pl=kibbutzim|kibbutzes
 kick           noun
+kicker noun
 kickoff noun conf=90 note=also kick-off
 kid            noun
 kidney         noun
@@ -45,8 +49,10 @@ kilogram noun
 kilometer      noun gb=kilometre
 kilowatt noun
 kin            noun pl=- note=collective
+kinase noun
 kind           noun
 kindergarten   noun
+kindliness noun pl=- note=uncountable
 kindness       noun
 king           noun
 kingdom        noun

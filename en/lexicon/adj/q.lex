@@ -1,8 +1,10 @@
 quadratic adj
+quadric adj
 quadruple adj
 quaint        adj cmp=er adv=quaintly
 Quaker        adj
 qualitative adj adv=qualitatively
+quantifiable adj
 quantitative  adj adv=quantitatively
 quantum       adj attr_only
 quarterly     adj

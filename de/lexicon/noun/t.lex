@@ -14,6 +14,7 @@ Taekwondo noun g=n gen=Taekwondos pl=- note=no plural (mass or abstract noun)
 Tafel noun g=f gen=Tafel pl=Tafeln
 Tafelanschrieb noun g=m gen=Tafelanschriebs|Tafelanschriebes pl=Tafelanschriebe
 Tag          noun g=m gen=Tages|Tags pl=Tage
+Tagelöhner noun g=m gen=Tagelöhners pl=Tagelöhner
 Tagesanbruch noun g=m gen=Tagesanbruchs|Tagesanbruches pl=- note=no plural
 Taifun noun g=m gen=Taifuns pl=Taifune
 Taille noun g=f gen=Taille pl=Taillen
@@ -130,6 +131,8 @@ Teufe noun g=f gen=Teufe pl=Teufen note=mining: depth
 Teufel noun g=m gen=Teufels pl=Teufel
 Text noun g=m gen=Textes|Texts pl=Texte
 Textaufgabe noun g=f gen=Textaufgabe pl=Textaufgaben
+Texter noun g=m gen=Texters pl=Texter
+Texterin noun g=f gen=Texterin pl=Texterinnen
 Textil noun g=n gen=Textils pl=Textilien note=mostly plural die Textilien
 Textilien noun g=pl
 Textmarker noun g=m gen=Textmarkers pl=Textmarker
@@ -146,13 +149,19 @@ Thematik noun g=f gen=Thematik pl=Thematiken
 Theologe noun g=m gen=Theologen pl=Theologen
 Theologie noun g=f gen=Theologie pl=Theologien
 Theologin noun g=f gen=Theologin pl=Theologinnen
+Theoretiker noun g=m gen=Theoretikers pl=Theoretiker
+Theoretikerin noun g=f gen=Theoretikerin pl=Theoretikerinnen
 Theorie noun g=f gen=Theorie pl=Theorien
+Therapeut noun g=m gen=Therapeuten pl=Therapeuten
+Therapeutin noun g=f gen=Therapeutin pl=Therapeutinnen
 Therapie noun g=f gen=Therapie pl=Therapien
+Theremin noun g=n gen=Theremins pl=Theremins
 Thermalquelle noun g=f gen=Thermalquelle pl=Thermalquellen
 Thermometer noun g=n gen=Thermometers pl=Thermometer
 Thermoskanne noun g=f gen=Thermoskanne pl=Thermoskannen
 Thermostat noun g=m gen=Thermostats|Thermostates pl=Thermostate
 These noun g=f gen=These pl=Thesen
+Thesis noun g=f gen=Thesis pl=Thesen conf=80 note=philosophy (Thesis, Antithesis, Synthesis) and academic thesis
 Thier noun g=n gen=Thieres|Thiers pl=Thiere spelling=old note=old spelling of Tier
 Thread noun g=m gen=Threads pl=Threads
 Thriller noun g=m gen=Thrillers pl=Thriller
@@ -167,6 +176,7 @@ Tief noun g=n gen=Tiefs pl=Tiefs
 Tiefe noun g=f gen=Tiefe pl=Tiefen
 Tiefkühltruhe noun g=f gen=Tiefkühltruhe pl=Tiefkühltruhen
 Tier noun g=n gen=Tieres|Tiers pl=Tiere
+Tierchen noun g=n gen=Tierchens pl=Tierchen
 Tierpflegerin noun g=f gen=Tierpflegerin pl=Tierpflegerinnen
 Tierquälerei noun g=f gen=Tierquälerei pl=- note=mass noun
 Tierschutz noun g=m gen=Tierschutzes pl=- note=no plural
@@ -188,6 +198,7 @@ Toast noun g=m gen=Toastes|Toasts pl=Toaste|Toasts
 Toaster noun g=m gen=Toasters pl=Toaster
 Tochter noun g=f gen=Tochter pl=Töchter
 Töchterchen noun g=n gen=Töchterchens pl=Töchterchen
+Töchterlein noun g=n gen=Töchterleins pl=Töchterlein
 Tod noun g=m gen=Todes|Tods pl=Tode conf=85 note=plural Tode is rare
 Todesstrafe noun g=f gen=Todesstrafe pl=Todesstrafen
 Tofu noun g=m gen=Tofus pl=- note=no plural
@@ -238,6 +249,7 @@ Träger noun g=m gen=Trägers pl=Träger
 Trägerin noun g=f gen=Trägerin pl=Trägerinnen
 Trägerschaft noun g=f gen=Trägerschaft pl=Trägerschaften
 Trägheit noun g=f gen=Trägheit pl=- note=no plural
+Tragik noun g=f gen=Tragik pl=- note=mass noun
 Tragödie noun g=f gen=Tragödie pl=Tragödien
 Tragweite noun g=f gen=Tragweite pl=- note=no plural in practice
 Trailer noun g=m gen=Trailers pl=Trailer
@@ -301,10 +313,13 @@ Triathlon noun g=m|n gen=Triathlons pl=Triathlons
 Tribunal noun g=n gen=Tribunals pl=Tribunale
 Tribüne noun g=f gen=Tribüne pl=Tribünen
 Tribut noun g=m gen=Tributs|Tributes pl=Tribute
+Trichter noun g=m gen=Trichters pl=Trichter
 Trick noun g=m gen=Tricks pl=Tricks
 Trieb noun g=m gen=Triebs|Triebes pl=Triebe
 Trikot noun g=n gen=Trikots pl=Trikots
 Trilogie noun g=f gen=Trilogie pl=Trilogien
+Trinker noun g=m gen=Trinkers pl=Trinker
+Trinkerin noun g=f gen=Trinkerin pl=Trinkerinnen
 Trinkwasser noun g=n gen=Trinkwassers pl=- note=no plural
 Trio noun g=n gen=Trios pl=Trios
 Tritt noun g=m gen=Tritts|Trittes pl=Tritte

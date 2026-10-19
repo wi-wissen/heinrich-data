@@ -23,6 +23,7 @@ observation   noun
 observatory   noun
 observer      noun
 obsession noun
+obsessive noun
 obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
@@ -63,6 +64,7 @@ oldie noun style=colloquial
 oligarch noun pl=oligarchs
 oligarchy noun
 olive         noun
+olivine noun pl=- note=uncountable
 Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
@@ -89,6 +91,7 @@ opera         noun
 operation     noun
 operative     noun
 operator      noun
+operculum noun pl=opercula
 opinion       noun
 opioid noun
 opium noun pl=- note=uncountable
@@ -108,6 +111,7 @@ orange        noun
 orangutan noun
 oration noun
 orator noun
+oratorio noun pl=oratorios
 oratory noun
 orb noun
 orbit         noun
@@ -118,6 +122,7 @@ orchid noun
 ordeal noun
 order         noun
 orderly       noun
+ordinal noun
 ordinance     noun
 ordination noun
 ordnance noun pl=- note=uncountable
@@ -128,14 +133,18 @@ organism      noun
 organist noun
 organization  noun gb=organisation|organization
 organizer noun gb=organiser|organizer
+oriel noun
 orientation   noun
 orifice noun
+origami noun pl=- note=uncountable
 origin        noun
 original      noun
 originality noun pl=- note=uncountable
+origination noun
 originator noun
 ornament      noun
 ornamentation noun
+ornithologist noun
 orphan noun
 orphanage noun
 orthodoxy noun
@@ -152,6 +161,7 @@ outage noun
 outboard noun
 outbox noun
 outbreak      noun
+outbuilding noun
 outburst noun
 outcast noun
 outcome       noun
@@ -162,6 +172,7 @@ outfield noun
 outfielder noun
 outfit        noun
 outflow noun
+outgrowth noun
 outlaw        noun
 outlay noun
 outlet        noun
@@ -197,6 +208,7 @@ overlap       noun
 overlay noun
 overload noun
 overlord noun
+overpass noun
 overpayment noun
 overpressurization noun gb=overpressurisation|overpressurization conf=85 note=technical register
 override noun
@@ -214,6 +226,7 @@ owner         noun
 ownership     noun
 ox noun pl=oxen
 oxalis noun
+oxidase noun
 oxidation noun
 oxide         noun
 oxygen        noun pl=- note=uncountable

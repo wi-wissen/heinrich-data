@@ -8,6 +8,7 @@ nightly adv
 nonstop adv
 north         adv
 northeast     adv
+northeastward adv type=place
 northward     adv
 northwards adv type=place
 northwest     adv

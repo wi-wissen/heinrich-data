@@ -12,7 +12,9 @@ variegated adj
 various       adj adv=variously
 vascular adj
 vast          adj cmp=er adv=vastly
+vegan adj
 vegetarian adj
+vegetative adj
 vehement adj adv=vehemently
 vehicular adj
 venerable     adj
@@ -24,6 +26,7 @@ venous adj
 ventral adj adv=ventrally
 ventricular adj
 verbal        adj adv=verbally
+verbatim adj
 verdant adj
 verifiable adj adv=verifiably
 veritable adj
@@ -69,8 +72,11 @@ voiceless adj
 void          adj
 volatile      adj cmp=more
 volcanic      adj
+voluble adj adv=volubly
 volumetric adj
 voluminous adj cmp=more
 voluntary     adj adv=voluntarily
+voluptuous adj
+votive adj
 vulgar        adj cmp=more adv=vulgarly
 vulnerable    adj cmp=more

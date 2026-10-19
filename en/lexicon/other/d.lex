@@ -9,4 +9,5 @@ dept. x abbr note=department
 der x foreign note=German article in names and phrases
 des x foreign note=French article in names and phrases
 diem x foreign note=only in per diem
+donna x foreign conf=85 note=Italian lady; mainly in prima donna
 du x foreign note=French article in names and phrases

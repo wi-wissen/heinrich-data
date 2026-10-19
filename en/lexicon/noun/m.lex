@@ -4,6 +4,7 @@ ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
 mace noun
 Macedonian noun
+machination noun
 machine        noun
 machinery      noun pl=- note=uncountable
 mackerel noun pl=mackerel|mackerels
@@ -45,6 +46,7 @@ mainframe noun
 mainland       noun
 mainline noun
 mainmast noun
+mainsail noun
 mainstay noun
 mainstream     noun
 maintenance    noun pl=- note=uncountable
@@ -63,6 +65,7 @@ Malaysian      noun
 male           noun
 malfunction noun
 malice         noun pl=- note=uncountable
+malignity noun
 mall           noun
 mallard noun
 mallet noun
@@ -72,9 +75,11 @@ malware noun pl=- note=uncountable
 mama noun
 mamma          noun style=archaic note=mother
 mammal         noun
+mammogram noun
 mammoth noun
 mammy noun
 man            noun pl=men
+mana noun pl=- conf=90 note=uncountable
 management     noun
 manager        noun
 manatee noun
@@ -120,6 +125,7 @@ maple          noun
 marathon       noun
 marble         noun
 march          noun
+marcher noun
 mare noun
 margarine noun pl=- note=uncountable
 margin         noun
@@ -140,6 +146,7 @@ marksman noun pl=marksmen
 marksmanship noun pl=- note=uncountable
 markup noun
 marmalade noun pl=- note=uncountable
+marque noun
 marquess noun
 marquis        noun pl=marquises|marquis
 marriage       noun
@@ -157,6 +164,7 @@ mash noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
+masque noun
 masquerade noun
 mass           noun
 massacre       noun
@@ -167,6 +175,7 @@ masterclass noun
 masterpiece noun
 mastery noun pl=- note=uncountable
 masthead noun
+mastiff noun pl=mastiffs
 mat noun
 match          noun
 mate           noun
@@ -185,9 +194,11 @@ matrix         noun pl=matrices|matrixes
 matron noun
 matter         noun
 mattress noun
+maturation noun pl=- note=uncountable
 maturity       noun
 maul noun
 mausoleum noun pl=mausoleums|mausolea
+maverick noun
 max noun style=colloquial note=to the max; short for maximum
 maxim noun
 maximum        noun pl=maxima|maximums
@@ -198,6 +209,7 @@ MB             noun abbr pl=MB note=megabyte(s)
 MBA noun abbr note=Master of Business Administration
 MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
+mead noun
 meadow         noun
 meal           noun
 mealtime noun
@@ -227,6 +239,7 @@ mediocrity noun
 meditation noun
 medium         noun pl=media|mediums
 medley noun
+meekness noun pl=- note=uncountable
 meerkat noun
 meet           noun
 meeting        noun
@@ -238,6 +251,7 @@ melee noun conf=90 note=also written mêlée
 melodrama noun
 melody         noun
 melon noun
+meltdown noun
 member         noun
 membership     noun
 membrane       noun
@@ -249,6 +263,7 @@ memorial       noun
 memory         noun
 menace noun
 meningitis noun pl=- note=uncountable
+menopause noun pl=- note=uncountable
 mentality noun
 mentee noun
 mention        noun
@@ -263,6 +278,7 @@ mercy          noun
 merger         noun
 meridian       noun
 merit          noun
+mermaid noun
 merriment noun pl=- note=uncountable
 mesa noun
 mesh noun
@@ -282,7 +298,9 @@ meteorite noun
 meteorology noun pl=- note=uncountable
 meter          noun gb=metre sense=unit
 meter          noun sense=device
+methamphetamine noun pl=- note=uncountable
 methane        noun pl=- note=uncountable
+methanol noun pl=- note=uncountable
 method         noun
 Methodist      noun
 methodology    noun
@@ -341,8 +359,10 @@ mill           noun
 millennium     noun pl=millennia|millenniums
 miller noun
 millimeter noun gb=millimetre
+milliner noun
 millionaire noun
 millipede noun
+millisecond noun
 millstone noun
 mimic noun
 minaret noun
@@ -397,6 +417,7 @@ miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
+missus noun style=colloquial
 missy noun style=colloquial
 mist           noun
 mistake        noun
@@ -413,6 +434,7 @@ mitten noun
 mitzvah noun pl=mitzvot|mitzvahs conf=80 note=Hebrew loanword; plural forms unsure
 mix            noun
 mixer noun
+mixtape noun
 mixture        noun
 mo noun style=colloquial conf=90 note=moment (half a mo)
 moan noun
@@ -434,6 +456,7 @@ moderate       noun
 moderation noun pl=- note=uncountable
 moderator noun
 modernist noun
+modernity noun
 modernization noun gb=modernisation|modernization
 modesty        noun pl=- note=uncountable
 modification   noun
@@ -443,6 +466,7 @@ module         noun
 Mohawk noun
 moisture       noun pl=- note=uncountable
 molar noun
+molasses noun pl=- note=uncountable; the lemma ends in -s
 mold           noun gb=mould
 mole noun
 molecule       noun
@@ -464,12 +488,14 @@ moniker noun
 monitor        noun
 monk           noun
 monkey         noun
+monochrome noun
 monograph noun
 monologue noun
 monopile noun
 monoplane      noun
 monopole noun
 monopoly       noun
+monotone noun
 monotony noun pl=- note=uncountable
 monoxide noun
 monsieur       noun pl=messieurs
@@ -524,6 +550,7 @@ motif noun note=plural motifs
 motion         noun
 motivation     noun
 motive         noun
+motley noun
 motor          noun
 motorbike noun
 motorcycle     noun
@@ -545,15 +572,19 @@ mouthful noun
 mouthpiece noun
 move           noun
 movement       noun
+mover noun
 movie          noun
 MP             noun abbr note=Member of Parliament; military police
+mpox noun pl=- note=uncountable
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
 MS             noun abbr pl=MSS note=manuscript (plural MSS); multiple sclerosis
+mucosa noun pl=mucosae|mucosas
 mud            noun pl=- note=uncountable
 muddle noun
 muffin noun
 mug noun
 Mughal noun
+mujahideen noun pl_only note=Islamic guerrilla fighters; spelling varies (mujahedin, mujahidin)
 mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
 mulberry noun
 mule           noun
@@ -563,6 +594,7 @@ multinational  noun
 multiple       noun
 multiplex noun
 multiplication noun
+multiplicity noun
 multiplier noun
 multitasking noun pl=- note=uncountable
 multitude      noun
@@ -583,7 +615,9 @@ music          noun pl=- note=uncountable
 musical        noun
 musician       noun
 musicologist noun
+musk noun pl=- note=uncountable
 musket noun
+musketeer noun
 musketry noun pl=- note=uncountable
 Muslim         noun
 muslin noun

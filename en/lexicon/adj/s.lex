@@ -14,11 +14,15 @@ saltwater adj
 salty adj cmp=er
 salutary adj
 same adj
+sanctionable adj
 sandy adj cmp=er
 sane adj cmp=er
+sanguinary adj
 sanguine adj
 sanitary adj
 sarcastic adj adv=sarcastically
+sardonic adj adv=sardonically
+satanic adj
 satirical adj
 satisfactory adj adv=satisfactorily
 satisfying adj
@@ -53,8 +57,11 @@ Scottish adj
 scruffy adj cmp=er
 scrumptious adj
 scrupulous adj cmp=more adv=scrupulously
+sculptural adj
+seafaring adj
 seamless adj adv=seamlessly
 searchable adj
+searching adj cmp=more adv=searchingly
 seasick adj
 seasonal adj adv=seasonally
 seaward adj
@@ -67,6 +74,7 @@ sectional adj
 sectoral adj
 secular adj
 secure adj cmp=more|er adv=securely
+sedate adj cmp=more adv=sedately
 sedentary adj cmp=more
 sedimentary adj
 seductive adj cmp=more adv=seductively
@@ -79,7 +87,10 @@ selfless adj adv=selflessly
 semantic adj adv=semantically
 semi-arid adj
 semiannual adj conf=85
+semicircular adj
 seminal adj
+Semitic adj
+senatorial adj
 senior adj
 sensational adj cmp=more adv=sensationally
 senseless adj
@@ -90,6 +101,7 @@ sensual adj cmp=more adv=sensually
 sensuous adj cmp=more adv=sensuously
 sentient adj
 sentimental adj cmp=more
+separable adj
 separate adj adv=separately
 separatist adj
 septic adj
@@ -100,8 +112,11 @@ serene adj cmp=er|more adv=serenely
 serial adj
 serious adj cmp=more adv=seriously
 serpentine adj
+serrated adj
 serviceable adj
 servile adj
+sessile adj
+severable adj
 severe adj cmp=er|more adv=severely
 sexual adj adv=sexually
 sexy adj cmp=er adv=sexily
@@ -174,6 +189,7 @@ slim adj cmp=er
 slimy adj cmp=er
 slippery adj cmp=er|more
 Slovak adj
+slovenly adj cmp=er|more
 slow adj cmp=er adv=slowly
 sluggish adj cmp=more
 sly adj cmp=slyer|slier sup=slyest|sliest adv=slyly
@@ -201,6 +217,7 @@ solid adj cmp=er|more adv=solidly
 solitary adj
 solo adj
 soluble adj cmp=more
+solvable adj
 solvent adj
 Somali adj
 somber adj cmp=more gb=sombre adv=somberly
@@ -210,6 +227,7 @@ soothing adj cmp=more adv=soothingly
 sophisticated adj cmp=more
 sordid adj
 sore adj cmp=er
+sorrel adj
 sorrowful adj adv=sorrowfully
 sorry adj cmp=er
 sound adj cmp=er adv=soundly
@@ -228,6 +246,7 @@ Soviet adj
 spacious adj cmp=more
 Spanish adj
 spare adj cmp=er|more
+sparing adj adv=sparingly
 sparkling adj
 sparkly adj
 sparse adj cmp=er adv=sparsely
@@ -236,6 +255,7 @@ spasmodic adj adv=spasmodically
 spatial adj adv=spatially
 special adj adv=specially
 specific adj adv=specifically
+speckled adj
 spectacular adj cmp=more adv=spectacularly
 spectral adj
 speculative adj
@@ -245,8 +265,10 @@ spherical adj
 spicy adj cmp=er
 spiky adj cmp=er
 spinal adj
+spiny adj cmp=er
 spirited adj
 spiritual adj adv=spiritually
+spiteful adj adv=spitefully
 splendid adj cmp=more adv=splendidly
 spontaneous adj cmp=more adv=spontaneously
 spooky adj cmp=er
@@ -255,6 +277,7 @@ sporting adj
 sporty adj cmp=er
 spotless adj adv=spotlessly
 spotty adj cmp=er
+sprightly adj cmp=er|more
 spurious adj adv=spuriously
 squalid adj cmp=more adv=squalidly
 square adj cmp=er|more
@@ -267,6 +290,7 @@ stale adj cmp=er
 stalwart adj
 standalone adj
 standard adj
+standout adj
 stark adj cmp=er
 starry adj cmp=er
 startling adj
@@ -293,6 +317,7 @@ stinky adj cmp=er
 stochastic adj
 stocky adj cmp=er
 stodgy adj cmp=er
+stoic adj cmp=more adv=stoically
 stolid adj adv=stolidly
 stoned adj
 stony adj cmp=er
@@ -306,6 +331,7 @@ strategic adj adv=strategically
 stray adj
 strenuous adj adv=strenuously
 stressful adj cmp=more adv=stressfully
+striated adj
 stricken adj
 strict adj cmp=er adv=strictly
 striking adj cmp=more adv=strikingly
@@ -331,6 +357,8 @@ sublime adj cmp=er|more
 submissive adj cmp=more adv=submissively
 subordinate adj
 subsequent adj adv=subsequently
+subservient adj
+substandard adj
 substantial adj adv=substantially
 substantive adj adv=substantively
 subsurface adj
@@ -341,7 +369,7 @@ suburban adj
 subversive adj cmp=more adv=subversively
 successful adj cmp=more adv=successfully
 successive adj adv=successively
-succinct adj adv=succinctly
+succinct adj cmp=er|more adv=succinctly
 succulent adj
 Sudanese adj
 sudden adj adv=suddenly
@@ -351,7 +379,7 @@ suggestive adj
 suicidal adj
 suitable adj cmp=more adv=suitably
 sulfuric adj gb=sulphuric
-sulky adj cmp=er
+sulky adj cmp=er adv=sulkily
 sullen adj cmp=more adv=sullenly
 sultry adj cmp=er
 Sumerian adj
@@ -380,12 +408,13 @@ supportive adj cmp=more
 supposed adj adv=supposedly
 supreme adj adv=supremely
 sure adj cmp=er adv=surely
-surgical adj
+surgical adj adv=surgically
 surly adj cmp=er
 surprised adj cmp=more
 surprising adj cmp=more adv=surprisingly
 surreal adj
 surrealist adj
+surreptitious adj adv=surreptitiously
 surrogate adj
 susceptible adj
 suspicious adj cmp=more adv=suspiciously
@@ -401,6 +430,7 @@ sweltering adj
 swift adj cmp=er adv=swiftly
 Swiss adj
 sylvan adj
+symbiotic adj adv=symbiotically
 symbolic adj adv=symbolically
 symmetric adj
 symmetrical adj adv=symmetrically
@@ -410,6 +440,7 @@ symptomatic adj
 synchronous adj adv=synchronously
 syncytial adj
 synonymous adj
+syntactic adj
 synthetic adj
 Syrian adj
 systematic adj adv=systematically

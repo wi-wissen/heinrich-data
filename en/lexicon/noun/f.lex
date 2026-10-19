@@ -13,6 +13,7 @@ facsimile noun
 fact           noun
 faction        noun
 factor         noun
+factorization noun gb=factorisation|factorization
 factory        noun
 faculty        noun
 faery noun style=archaic
@@ -20,6 +21,7 @@ fail           noun
 failing noun
 failure        noun
 fair           noun
+fairground noun
 fairness       noun pl=- note=uncountable
 fairy          noun
 fairyland noun
@@ -72,14 +74,17 @@ fault          noun
 fauna          noun
 favor          noun gb=favour
 favorite       noun gb=favourite
+fawn noun
 fax            noun
 façade noun note=spelling with cedilla of facade
+fealty noun pl=- note=uncountable
 fear           noun
 feasibility    noun pl=- note=uncountable
 feast          noun
 feat           noun
 feather        noun
 feature        noun
+feces noun pl_only gb=faeces
 federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
@@ -91,7 +96,9 @@ feeder noun
 feedstock noun
 feel           noun
 feeling        noun
+feint noun
 felicity noun
+feline noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -135,6 +142,7 @@ fiasco noun pl=fiascos|fiascoes
 fiat noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
+fibrillation noun
 fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
@@ -150,6 +158,8 @@ fig            noun
 fight          noun
 fighter        noun
 figure         noun
+figurehead noun
+figurine noun
 filament noun
 file           noun
 filename noun
@@ -179,6 +189,7 @@ find           noun
 finder noun
 finding        noun
 fine           noun
+fineness noun pl=- note=uncountable
 finery noun pl=- note=uncountable
 finger         noun
 fingernail noun
@@ -223,6 +234,7 @@ fixation noun
 fixture noun
 fjord noun
 flag           noun
+flagellum noun pl=flagella
 flagship       noun
 flake noun
 flame          noun
@@ -238,9 +250,11 @@ flash          noun
 flashback noun
 flask noun
 flat           noun
+flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)
 flattery noun
 flavor         noun gb=flavour
 flaw noun
+flax noun pl=- note=uncountable
 flea noun
 fledgling noun
 fleece noun
@@ -250,6 +264,7 @@ flex noun
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
+flier noun note=variant spelling of flyer
 flight         noun
 fling          noun
 flint noun
@@ -263,9 +278,12 @@ floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
+floodway noun
 floor          noun
 flop noun
 flora          noun
+florin noun
+flotation noun note=floatation is a rare variant
 flotilla noun
 flounder noun pl=flounder|flounders
 flour          noun
@@ -285,6 +303,7 @@ flute          noun
 flutter noun
 flux           noun
 fly            noun
+flycatcher noun
 flyer noun conf=90 note=also flier
 flywheel noun
 foal noun
@@ -300,6 +319,7 @@ foliage        noun pl=- note=uncountable
 folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
+folklorist noun
 follicle noun
 follow-up      noun
 follower       noun
@@ -307,6 +327,7 @@ folly          noun
 fondness noun
 font noun
 food           noun
+foodstuff noun
 fool           noun
 foolishness noun pl=- note=uncountable
 foot           noun pl=feet
@@ -344,6 +365,7 @@ foreground noun
 forehead       noun
 foreigner      noun
 foreman noun pl=foremen
+foremast noun
 forenoon noun style=archaic
 forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
@@ -437,12 +459,14 @@ fright         noun
 fringe         noun
 frisbee noun
 fritillary noun
+frivolity noun
 frock noun
 frog noun
 frolic noun
 front          noun
 frontage noun
 frontier       noun
+frontiersman noun pl=frontiersmen
 frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
@@ -466,6 +490,7 @@ fun            noun pl=- note=uncountable
 function       noun
 functionality  noun
 functionary noun
+functor noun
 fund           noun
 fundamental    noun
 fundamentalist noun
@@ -490,4 +515,5 @@ fuselage       noun
 fusion         noun
 fuss           noun
 futility noun pl=- note=uncountable
+futsal noun pl=- note=uncountable
 future         noun

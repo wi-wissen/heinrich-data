@@ -2,6 +2,7 @@ daily adj
 dainty adj cmp=er adv=daintily
 dairy adj
 damn adj
+damnable adj adv=damnably
 damned adj
 damp adj cmp=er adv=damply
 dandy adj cmp=er
@@ -11,6 +12,7 @@ daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
 darling adj
 dastardly adj cmp=more
+dative adj
 daunting adj cmp=more adv=dauntingly
 day-to-day adj
 dazzling adj cmp=more adv=dazzlingly
@@ -37,6 +39,7 @@ deductive adj adv=deductively
 deep adj cmp=er adv=deeply
 defective adj
 defenseless adj gb=defenceless
+defensible adj
 defensive adj adv=defensively
 deferential adj adv=deferentially
 defiant adj adv=defiantly
@@ -62,6 +65,7 @@ democratic adj cmp=more adv=democratically
 demographic adj
 demonstrable adj adv=demonstrably
 demonstrative adj adv=demonstratively
+demure adj cmp=er adv=demurely
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
@@ -73,8 +77,9 @@ depressed adj cmp=more
 depressive adj
 deranged adj
 derelict adj
-derisive adj adv=derisively
+derisive adj cmp=more adv=derisively
 derivative adj
+dermal adj
 derogatory adj
 descriptive adj
 designate adj note=the minister designate
@@ -83,6 +88,7 @@ desirous adj
 desolate adj adv=desolately
 desperate adj cmp=more adv=desperately
 despicable adj cmp=more adv=despicably
+despondent adj adv=despondently
 despotic adj
 destined adj
 destitute adj
@@ -99,6 +105,7 @@ detrimental adj adv=detrimentally
 devastating adj cmp=more adv=devastatingly
 developmental adj adv=developmentally
 devilish adj
+devious adj cmp=more adv=deviously
 devoid adj pred_only
 devoted adj cmp=more adv=devotedly
 devotional adj
@@ -109,9 +116,13 @@ diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
 diagonal adj adv=diagonally
+dialectical adj adv=dialectically
+dictatorial adj
+didactic adj cmp=more adv=didactically
 dielectric adj
 dietary adj
 different adj cmp=more adv=differently
+differentiable adj
 differential adj
 difficult adj cmp=more
 diffuse adj cmp=more
@@ -133,6 +144,7 @@ directional adj
 directorial adj
 dirty adj cmp=er adv=dirtily
 disadvantaged adj cmp=more
+disaffected adj
 disagreeable adj adv=disagreeably
 disappointed adj cmp=more
 disastrous adj adv=disastrously
@@ -141,34 +153,43 @@ disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
 disconsolate adj adv=disconsolately
 discontented adj
+discontinuous adj adv=discontinuously
 discordant adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
 discretionary adj
 discriminatory adj
+disdainful adj cmp=more adv=disdainfully
 diseased adj
 disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
+dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
+dishonorable adj gb=dishonourable adv=dishonorably
 disillusioned adj cmp=more
 disinterested adj
 disjoint adj
 disjointed adj cmp=more adv=disjointedly
 disloyal adj
 dismal adj adv=dismally
+dismissive adj cmp=more adv=dismissively
 disordered adj cmp=more
 disorderly adj
+disorganized adj gb=disorganised|disorganized
+disparaging adj cmp=more adv=disparagingly
 disparate adj cmp=more
 disposable adj
 dispositive adj conf=90 note=legal register
 disproportionate adj adv=disproportionately
 disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
+disrespectful adj adv=disrespectfully
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
 dissimilar adj cmp=more
 dissolute adj
+distal adj
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
 distinct adj cmp=more adv=distinctly
@@ -177,11 +198,14 @@ distinguishable adj
 distinguished adj cmp=more
 distraught adj
 distressed adj cmp=more
+distributional adj
 distributive adj
+distrustful adj cmp=more adv=distrustfully
 disused adj
 diurnal adj
 divergent adj
 diverse adj cmp=more adv=diversely
+diversionary adj
 divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more
@@ -194,6 +218,7 @@ dodgy adj cmp=er region=GB
 dogged adj cmp=more adv=doggedly
 dogmatic adj
 doleful adj
+domed adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
 domineering adj
@@ -202,7 +227,7 @@ dormant adj
 dorsal adj
 double adj
 doubtful adj cmp=more adv=doubtfully
-doughty adj
+doughty adj cmp=er|more
 downcast adj
 downhill adj
 downloadable adj
@@ -214,6 +239,7 @@ downward adj
 downwind adj
 downy adj cmp=er
 drab adj cmp=er adv=drably
+draconian adj
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully

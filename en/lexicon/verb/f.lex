@@ -7,6 +7,7 @@ fail           verb
 faint          verb
 fake           verb
 fall           verb past=fell pp=fallen
+falsify verb
 falter         verb
 fan            verb
 fancy          verb
@@ -22,6 +23,7 @@ fathom verb
 fatigue verb
 fault          verb
 favor          verb gb=favour
+fawn verb
 fax            verb
 fear           verb
 feast          verb
@@ -31,6 +33,7 @@ federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
 feign verb
+feint verb
 fell           verb note=to fell a tree
 fence          verb
 fend verb

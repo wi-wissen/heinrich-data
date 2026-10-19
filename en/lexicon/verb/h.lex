@@ -6,6 +6,7 @@ halve verb
 hammer         verb
 hamper verb
 hand           verb
+handcuff verb
 handicap verb double
 handle         verb
 hang           verb past=hanged pp=hanged sense=execute note=put to death by hanging
@@ -27,6 +28,7 @@ hatch verb
 hate           verb
 haul           verb
 haunt          verb
+haw verb note=in hem and haw
 head           verb
 headhunt verb
 headline verb
@@ -62,6 +64,7 @@ hitch verb
 hive verb
 hoard verb
 hoax verb
+hobble verb
 hoist verb
 hold           verb past=held pp=held
 holiday        verb
@@ -90,6 +93,7 @@ hum            verb
 humble         verb
 humiliate verb
 humor          verb gb=humour
+hump verb
 hunger         verb
 hunt           verb
 hurl           verb

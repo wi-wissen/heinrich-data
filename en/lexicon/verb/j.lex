@@ -1,6 +1,6 @@
 jab verb
 jack verb
-jail           verb
+jail           verb gb=jail|gaol
 jam verb
 jar verb
 jazz verb
