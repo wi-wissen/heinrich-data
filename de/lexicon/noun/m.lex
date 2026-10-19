@@ -305,7 +305,10 @@ Mofa noun g=n gen=Mofas pl=Mofas
 Möglichkeit noun g=f gen=Möglichkeit pl=Möglichkeiten
 Möglichkeitsform noun g=f gen=Möglichkeitsform pl=Möglichkeitsformen
 Mohn noun g=m gen=Mohnes|Mohns pl=- note=no plural
+Mohr noun g=m gen=Mohren pl=Mohren style=archaic|offensive note=historical term for Black people; older literature (Othello, Schiller)
 Möhre noun g=f gen=Möhre pl=Möhren
+Mohrenkopf noun g=m gen=Mohrenkopfes|Mohrenkopfs pl=Mohrenköpfe style=offensive alt=Schokokuss
+Mohrin noun g=f gen=Mohrin pl=Mohrinnen style=archaic|offensive note=historical term; older literature
 Molch noun g=m gen=Molchs|Molches pl=Molche
 Molekül noun g=n gen=Moleküls pl=Moleküle
 Moll noun g=n gen=Molls pl=- note=minor key
@@ -352,6 +355,8 @@ Muffin noun g=m gen=Muffins pl=Muffins
 Mufflon noun g=m gen=Mufflons pl=Mufflons
 Mühe noun g=f gen=Mühe pl=Mühen
 Mühle noun g=f gen=Mühle pl=Mühlen
+Mulatte noun g=m gen=Mulatten pl=Mulatten style=offensive note=racist term for people with one Black and one white parent; older literature
+Mulattin noun g=f gen=Mulattin pl=Mulattinnen style=offensive
 Mulde noun g=f gen=Mulde pl=Mulden
 Müll noun g=m gen=Mülls|Mülles pl=- note=no plural
 Müllabfuhr noun g=f gen=Müllabfuhr pl=- note=mass noun

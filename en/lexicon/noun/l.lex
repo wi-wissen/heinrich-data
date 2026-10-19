@@ -130,6 +130,7 @@ lens          noun
 lentil noun
 leopard       noun
 lesbian       noun
+lesbo noun style=offensive note=homophobic slur
 lesion noun
 lessee        noun
 lesson        noun

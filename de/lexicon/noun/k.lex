@@ -37,8 +37,10 @@ Kampagne noun g=f gen=Kampagne pl=Kampagnen
 Kampf noun g=m gen=Kampfes|Kampfs pl=Kämpfe
 Kämpfer noun g=m gen=Kämpfers pl=Kämpfer
 Kämpferin noun g=f gen=Kämpferin pl=Kämpferinnen
+Kampflesbe noun g=f gen=Kampflesbe pl=Kampflesben style=offensive note=homophobic slur
 Kanadier noun g=m gen=Kanadiers pl=Kanadier
 Kanadierin noun g=f gen=Kanadierin pl=Kanadierinnen
+Kanake noun g=m gen=Kanaken pl=Kanaken style=offensive note=racist slur for people from Southern Europe, Turkey and the Middle East
 Kanal noun g=m gen=Kanals pl=Kanäle
 Kanarienvogel noun g=m gen=Kanarienvogels pl=Kanarienvögel
 Kandidat noun g=m gen=Kandidaten pl=Kandidaten
@@ -424,6 +426,7 @@ Koordinierung noun g=f gen=Koordinierung pl=- note=no plural in practice
 Kopf noun g=m gen=Kopfes|Kopfs pl=Köpfe
 Köpfchen noun g=n gen=Köpfchens pl=Köpfchen
 Kopfhörer noun g=m gen=Kopfhörers pl=Kopfhörer
+Kopftuchmädchen noun g=n gen=Kopftuchmädchens pl=Kopftuchmädchen style=offensive note=derogatory term for Muslim girls and women
 Kopfweh noun g=n gen=Kopfwehs pl=- note=mass noun
 Kopie noun g=f gen=Kopie pl=Kopien
 Kopierer noun g=m gen=Kopierers pl=Kopierer
@@ -516,6 +519,7 @@ Kröte noun g=f gen=Kröte pl=Kröten
 Krücke noun g=f gen=Krücke pl=Krücken
 Krug noun g=m gen=Kruges|Krugs pl=Krüge
 Krümel noun g=m gen=Krümels pl=Krümel
+Krüppel noun g=m gen=Krüppels pl=Krüppel style=offensive alt=Mensch_mit_Behinderung note=ableist; older literature
 Kruste noun g=f gen=Kruste pl=Krusten
 Kubikmeter noun g=m|n gen=Kubikmeters pl=Kubikmeter
 Küche noun g=f gen=Küche pl=Küchen
@@ -536,6 +540,7 @@ Kulisse noun g=f gen=Kulisse pl=Kulissen
 Kultur noun g=f gen=Kultur pl=Kulturen
 Kultusminister noun g=m gen=Kultusministers pl=Kultusminister
 Kümmel noun g=m gen=Kümmels pl=- note=no plural
+Kümmeltürke noun g=m gen=Kümmeltürken pl=Kümmeltürken style=offensive note=slur for Turks
 Kummer noun g=m gen=Kummers pl=- note=no plural
 Kumpel noun g=m gen=Kumpels pl=Kumpel|Kumpels
 Kündbarkeit noun g=f gen=Kündbarkeit pl=- note=mass noun

@@ -23,6 +23,7 @@ raft noun
 rafter noun
 rag noun
 rage noun
+raghead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 raid noun
 raider noun
 rail noun
@@ -163,6 +164,7 @@ redevelopment noun
 redirect noun
 redistribution noun
 redress noun pl=- note=uncountable
+redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
 redundancy noun
 reed noun

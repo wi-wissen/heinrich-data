@@ -146,12 +146,14 @@ gold           noun
 goldfish noun pl=goldfish
 golf           noun pl=- note=uncountable
 golfer         noun
+golliwog noun style=offensive note=racist caricature doll; older children's books
 gong noun
 good           noun note=plural goods: merchandise
 good-bye noun note=older spelling of goodbye
 goodbye noun
 goodness       noun pl=- note=uncountable
 goodwill noun pl=- note=uncountable
+gook noun style=offensive note=racist slur for East and Southeast Asians
 goose noun pl=geese
 gooseberry noun
 gore noun
@@ -300,4 +302,5 @@ gym noun
 gymnasium noun pl=gymnasiums|gymnasia
 gymnast noun
 gymnastics noun pl=- note=uncountable
-Gypsy          noun note=also gypsy
+Gypsy          noun note=neutral capitalized use (also a self-designation); lowercase gypsy is a separate entry marked offensive
+gypsy noun style=offensive alt=Roma note=lowercase use is derogatory; capitalized Gypsy is a separate neutral entry

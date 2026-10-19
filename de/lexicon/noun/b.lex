@@ -169,6 +169,7 @@ Behelf noun g=m gen=Behelfs|Behelfes pl=Behelfe note=makeshift; legal: Rechtsbeh
 Beherrschung noun g=f gen=Beherrschung pl=- note=no plural
 Behinderte noun g=m|f decl=adj
 Behinderung noun g=f gen=Behinderung pl=Behinderungen
+Behindi noun g=m gen=Behindis pl=Behindis style=offensive note=ableist slur
 Behörde       noun g=f gen=Behörde pl=Behörden
 Beibehaltung noun g=f gen=Beibehaltung pl=- note=no plural
 Beibringung noun g=f gen=Beibringung pl=Beibringungen
@@ -407,6 +408,7 @@ Bildschirmschoner noun g=m gen=Bildschirmschoners pl=Bildschirmschoner
 Bildung       noun g=f gen=Bildung pl=Bildungen
 Billigkeit noun g=f gen=Billigkeit pl=- note=legal: equity (aus Billigkeitsgründen); also cheapness
 Billion noun g=f gen=Billion pl=Billionen
+Bimbo noun g=m gen=Bimbos pl=Bimbos style=offensive note=racist slur for Black people
 Binder noun g=m gen=Binders pl=Binder note=tie, binder
 Bindung noun g=f gen=Bindung pl=Bindungen
 Binnenhandlung noun g=f gen=Binnenhandlung pl=Binnenhandlungen

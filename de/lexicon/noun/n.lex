@@ -71,7 +71,9 @@ Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
 Nebenstraße noun g=f gen=Nebenstraße pl=Nebenstraßen
 Neffe noun g=m gen=Neffen pl=Neffen
 Negation noun g=f gen=Negation pl=Negationen
-Neger noun g=m gen=Negers pl=Neger style=archaic note=offensive today; seen in older literature
+Neger noun g=m gen=Negers pl=Neger style=archaic|offensive alt=Schwarze_Menschen note=offensive today; seen in older literature
+Negerin noun g=f gen=Negerin pl=Negerinnen style=archaic|offensive alt=Schwarze_Frau note=offensive today; older literature
+Negerkuss noun g=m gen=Negerkusses pl=Negerküsse style=offensive alt=Schokokuss
 Neid noun g=m gen=Neides|Neids pl=- note=no plural
 Neigung noun g=f gen=Neigung pl=Neigungen
 Nektar noun g=m gen=Nektars pl=Nektare
@@ -107,6 +109,7 @@ Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
+Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
 Nische noun g=f gen=Nische pl=Nischen

@@ -263,6 +263,7 @@ Poesie noun g=f gen=Poesie pl=Poesien
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
 Pol noun g=m gen=Pols pl=Pole
+Polacke noun g=m gen=Polacken pl=Polacken style=offensive note=slur for Poles
 Polarkreis noun g=m gen=Polarkreises pl=Polarkreise
 Pole noun g=m gen=Polen pl=Polen note=inhabitant of Poland
 Police noun g=f gen=Police pl=Policen

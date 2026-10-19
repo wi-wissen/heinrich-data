@@ -80,6 +80,10 @@ Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
 Zigarre noun g=f gen=Zigarre pl=Zigarren
+Zigeuner noun g=m gen=Zigeuners pl=Zigeuner style=offensive alt=Sinti_und_Roma note=derogatory exonym for Sinti and Roma; frequent in older literature
+Zigeunerin noun g=f gen=Zigeunerin pl=Zigeunerinnen style=offensive alt=Sinti_und_Roma
+Zigeunerschnitzel noun g=n gen=Zigeunerschnitzels pl=Zigeunerschnitzel style=offensive alt=Paprikaschnitzel
+Zigeunersoße noun g=f gen=Zigeunersoße pl=Zigeunersoßen style=offensive alt=Paprikasoße
 Zikade noun g=f gen=Zikade pl=Zikaden
 Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]

@@ -282,6 +282,7 @@ Hotelfachmann noun g=m gen=Hotelfachmanns|Hotelfachmannes pl=Hotelfachleute
 Hotfix noun g=m gen=Hotfixes|Hotfix pl=Hotfixes conf=80 note=software patch
 Hotline noun g=f gen=Hotline pl=Hotlines
 Hotspot noun g=m gen=Hotspots pl=Hotspots
+Hottentotte noun g=m gen=Hottentotten pl=Hottentotten style=archaic|offensive alt=Khoikhoi note=colonial term for the Khoikhoi; older literature
 Hub noun g=m gen=Hubs|Hubes pl=Hübe conf=85 note=stroke (Hubraum)
 Hubschrauber noun g=m gen=Hubschraubers pl=Hubschrauber
 Huf noun g=m gen=Hufs|Hufes pl=Hufe

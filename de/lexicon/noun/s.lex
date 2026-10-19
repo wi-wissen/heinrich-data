@@ -181,6 +181,7 @@ Schließung noun g=f gen=Schließung pl=Schließungen
 Schlips noun g=m gen=Schlipses pl=Schlipse
 Schlitten noun g=m gen=Schlittens pl=Schlitten
 Schlittschuh noun g=m gen=Schlittschuhs pl=Schlittschuhe
+Schlitzauge noun g=n gen=Schlitzauges pl=Schlitzaugen style=offensive note=racist slur for East Asians
 Schloss noun g=n gen=Schlosses pl=Schlösser
 Schlosser noun g=m gen=Schlossers pl=Schlosser
 Schlosserin noun g=f gen=Schlosserin pl=Schlosserinnen
@@ -340,6 +341,7 @@ Schwimmhalle noun g=f gen=Schwimmhalle pl=Schwimmhallen
 Schwimmring noun g=m gen=Schwimmrings|Schwimmringes pl=Schwimmringe
 Schwindel noun g=m gen=Schwindels pl=- note=mass noun
 Schwingung noun g=f gen=Schwingung pl=Schwingungen
+Schwuchtel noun g=f gen=Schwuchtel pl=Schwuchteln style=offensive note=homophobic slur
 Schwüle noun g=f gen=Schwüle pl=- note=no plural
 Schwung noun g=m gen=Schwungs|Schwunges pl=Schwünge
 Schwur noun g=m gen=Schwurs|Schwures pl=Schwüre
@@ -540,6 +542,7 @@ Soziologie noun g=f gen=Soziologie pl=- note=mass noun
 Soziologin noun g=f gen=Soziologin pl=Soziologinnen
 Spagat noun g=m gen=Spagats|Spagates pl=Spagate
 Spaghetti noun g=pl
+Spaghettifresser noun g=m gen=Spaghettifressers pl=Spaghettifresser style=offensive note=slur for Italians
 Spalt noun g=m gen=Spalts|Spaltes pl=Spalte
 Spalte noun g=f gen=Spalte pl=Spalten
 Spaltung noun g=f gen=Spaltung pl=Spaltungen
@@ -555,6 +558,8 @@ Sparer noun g=m gen=Sparers pl=Sparer
 Sparerin noun g=f gen=Sparerin pl=Sparerinnen
 Spargel noun g=m gen=Spargels pl=Spargel
 Spaß noun g=m gen=Spaßes pl=Späße
+Spast noun g=m gen=Spasten pl=Spasten style=offensive note=ableist slur
+Spasti noun g=m gen=Spastis pl=Spastis style=offensive note=ableist slur
 Spaten noun g=m gen=Spatens pl=Spaten
 Spatz noun g=m gen=Spatzes pl=Spatzen
 Spätzle noun g=pl

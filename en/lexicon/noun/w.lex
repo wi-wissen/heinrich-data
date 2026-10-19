@@ -110,6 +110,7 @@ Welsh noun pl=- note=the language; the Welsh = the people
 west noun pl=- note=uncountable
 westerly noun
 western noun
+wetback noun style=offensive note=slur for Mexican immigrants
 wetland noun
 wetsuit noun
 whale noun
@@ -136,6 +137,7 @@ whiteboard noun
 whitelist noun
 whiteness noun pl=- note=uncountable
 whitewash noun
+whitey noun style=offensive note=derogatory term for white people
 whole noun
 wholesale noun pl=- note=uncountable
 wholesaler noun
@@ -188,6 +190,7 @@ withholding noun
 witness noun
 wizard noun
 woe noun
+wog noun style=offensive note=racist slur
 wolf noun pl=wolves
 woman noun pl=women
 womanhood noun pl=- note=uncountable
@@ -199,6 +202,7 @@ woodland noun
 woodpecker noun
 wool noun
 woolen noun gb=woollen note=mostly plural: woolens, woollens
+wop noun style=offensive note=slur for Italians
 word noun
 wording noun
 work noun

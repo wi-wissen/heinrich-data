@@ -140,6 +140,7 @@ beak noun
 beam noun
 bean noun
 beanbag noun
+beaner noun style=offensive note=slur for Mexicans and Latin Americans
 beanie noun
 beansprout noun
 bear noun
