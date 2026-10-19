@@ -36,6 +36,7 @@ heathen        adj
 heavenly       adj cmp=more
 heavy          adj cmp=er adv=heavily
 Hebrew         adj
+heedless adj
 heinous adj
 Hellenistic adj
 helpful        adj cmp=more adv=helpfully
@@ -104,6 +105,7 @@ hybrid         adj
 hydraulic      adj
 hydroelectric adj
 hydrologic adj
+hyperbaric adj
 hyperbolic adj
 hypocritical adj cmp=more adv=hypocritically
 hypothetical   adj adv=hypothetically

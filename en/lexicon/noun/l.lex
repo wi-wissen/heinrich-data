@@ -57,6 +57,7 @@ lass noun
 latch noun
 latency noun
 lateness noun pl=- note=uncountable
+latex noun
 lathe noun
 Latin         noun
 Latino        noun note=plural Latinos
@@ -195,6 +196,7 @@ like          noun
 likelihood    noun
 likeness      noun
 liking        noun
+lilac noun
 lily          noun
 limb          noun
 lime noun
@@ -288,8 +290,10 @@ lollipop noun
 Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
+longfin noun conf=90 note=fish name modifier, as in longfin tuna
 longing       noun
 longitude noun
+longline noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
 lookout noun
@@ -338,5 +342,7 @@ luxury        noun
 lyceum noun
 lychee noun
 lymph noun pl=- note=uncountable
+lymphoma noun pl=lymphomas|lymphomata
+lyre noun
 lyric         noun
 lyricist noun

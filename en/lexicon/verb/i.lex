@@ -7,6 +7,7 @@ illuminate     verb
 illumine verb style=archaic
 illustrate     verb
 imagine        verb
+imbed verb double conf=90 note=variant spelling of embed
 imitate verb
 immerse verb
 immigrate verb
@@ -31,11 +32,13 @@ improve        verb
 improvise verb
 impute verb
 inaugurate     verb
+incapacitate verb
 incarcerate verb
 incentivize verb gb=incentivise|incentivize
 inch           verb
 incite verb
 incline        verb
+inclose verb style=archaic note=old spelling of enclose
 include        verb
 inconvenience verb
 incorporate    verb
@@ -43,6 +46,7 @@ increase       verb
 increment verb
 incur          verb double
 indemnify verb
+indenture verb
 index          verb
 indicate       verb
 indict verb

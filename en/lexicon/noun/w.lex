@@ -111,6 +111,7 @@ wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
 welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
+wench noun
 west noun pl=- note=uncountable
 westerly noun
 western noun
@@ -122,6 +123,7 @@ wharf noun pl=wharves|wharfs
 wheat noun pl=- note=uncountable
 wheel noun
 wheelbarrow noun
+wheelbase noun
 wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
 Whig noun
@@ -138,6 +140,7 @@ whisper noun
 whistle noun
 whistleblower noun
 whistleblowing noun pl=- note=uncountable
+whit noun
 white noun
 whiteboard noun
 whitelist noun
@@ -224,6 +227,7 @@ worker noun
 workflow noun
 workforce noun
 workgroup noun
+workhouse noun
 working noun note=workings (mechanism)
 workload noun
 workman noun pl=workmen

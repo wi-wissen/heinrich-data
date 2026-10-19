@@ -1,8 +1,10 @@
 Macedonian adj
+macroeconomic adj
 mad           adj cmp=er adv=madly
 maddening adj cmp=more adv=maddeningly
 magic         adj
 magical       adj adv=magically
+magnanimous adj cmp=more adv=magnanimously
 magnetic      adj
 magnificent   adj cmp=more adv=magnificently
 maiden        adj attr_only
@@ -14,6 +16,7 @@ major         adj
 Malay         adj
 Malaysian     adj
 male          adj
+malevolent adj adv=malevolently
 malicious     adj adv=maliciously
 malign adj cmp=more
 malignant adj
@@ -26,6 +29,7 @@ manifest      adj adv=manifestly
 manifold adj
 manipulative adj
 manly         adj cmp=er
+manmade adj note=also written man-made
 manual        adj adv=manually
 Manx adj
 marginal      adj adv=marginally
@@ -72,13 +76,16 @@ melodic adj
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
+menial adj
 mental        adj adv=mentally
 mercantile adj
 mercenary adj
 merciful adj cmp=more adv=mercifully
 merciless adj cmp=more adv=mercilessly
 mere          adj attr_only adv=merely
+meritorious adj
 merry         adj cmp=er adv=merrily
+messianic adj
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
@@ -98,6 +105,7 @@ microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
 middle        adj attr_only
 midland adj attr_only
+Midwestern adj
 mighty        adj cmp=er adv=mightily
 migratory     adj
 mild          adj cmp=er adv=mildly
@@ -171,6 +179,8 @@ multinational adj
 multiplayer adj
 multiple      adj
 multipurpose adj
+multiracial adj
+mundane adj
 municipal     adj
 murderous adj
 muscular      adj

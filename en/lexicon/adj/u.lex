@@ -12,8 +12,12 @@ unaccustomed adj
 unadjusted adj
 unaffected adj
 unaffiliated adj
+unaffordable adj
+unaided adj
+unambiguous adj adv=unambiguously
 unanimous      adj adv=unanimously
 unanswered adj
+unanticipated adj
 unarmed adj
 unattractive adj cmp=more
 unauthorized   adj gb=unauthorised|unauthorized
@@ -35,6 +39,7 @@ unclear        adj cmp=more
 uncomfortable  adj cmp=more adv=uncomfortably
 uncommon       adj cmp=more adv=uncommonly
 uncompromising adj adv=uncompromisingly
+unconcerned adj
 unconditional adj adv=unconditionally
 unconscious    adj adv=unconsciously
 unconstitutional adj
@@ -45,6 +50,7 @@ uncouth adj cmp=more
 uncredited     adj
 uncrewed adj
 undecided adj
+undeclared adj
 undefeated adj
 undefined adj
 undeniable adj adv=undeniably
@@ -93,6 +99,7 @@ unfounded adj
 unfriendly adj cmp=er|more
 unfunded adj
 ungrateful adj
+unguarded adj
 unhappy        adj cmp=er adv=unhappily
 unharmed adj
 unhealthy adj cmp=er
@@ -144,6 +151,7 @@ unoccupied adj
 unofficial     adj adv=unofficially
 unopposed adj
 unorganized    adj gb=unorganised|unorganized
+unorthodox adj
 unpaid         adj
 unparalleled adj
 unplanned adj
@@ -167,6 +175,7 @@ unregulated adj
 unrelated      adj
 unreleased adj
 unreliable adj
+unreported adj
 unresolved adj
 unrestrained adj
 unrestricted adj
@@ -180,6 +189,7 @@ unsigned adj
 unskilled adj
 unsolicited adj
 unsolved adj
+unsound adj
 unspeakable adj
 unspecified adj
 unspoken adj
@@ -193,9 +203,11 @@ unsuspected adj
 unsuspecting adj adv=unsuspectingly
 unsustainable adj
 untenable adj
+untidy adj cmp=er
 untimely adj
 untold adj
 untouched adj
+untrained adj
 untreated adj
 untrue adj
 unused         adj
@@ -210,6 +222,7 @@ unwilling      adj adv=unwillingly
 unwise adj cmp=more
 unwonted adj style=archaic
 unworthy       adj cmp=more
+unwritten adj
 unyielding adj
 upcoming       adj
 upland adj
@@ -232,3 +245,4 @@ useless        adj adv=uselessly
 usual          adj adv=usually
 utmost         adj attr_only
 utter          adj attr_only adv=utterly
+uttermost adj

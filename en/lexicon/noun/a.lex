@@ -8,12 +8,14 @@ abdication noun
 abdomen noun
 abduction noun
 abeyance noun pl=- note=uncountable
+abhorrence noun pl=- note=uncountable
 ability noun
 abnormality noun
 abode noun
 abolition noun
 abolitionist noun
 abortion noun
+abrasive noun
 absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
@@ -60,7 +62,9 @@ accrual noun
 accumulation noun
 accuracy noun
 accusation noun
+accusative noun
 ace noun
+acetate noun
 ache noun
 achievement noun
 achiever noun
@@ -85,6 +89,7 @@ activist noun
 activity noun
 actor noun
 actress noun
+actuality noun
 actuary noun
 acuity noun
 ad noun
@@ -124,6 +129,7 @@ admission noun
 admittance noun pl=- note=uncountable
 admixture noun
 admonition noun
+ado noun pl=- note=uncountable
 adobe noun
 adolescence noun
 adolescent noun
@@ -203,6 +209,7 @@ airfare noun
 airfield noun
 airflow noun
 airgun noun
+airlift noun
 airline noun
 airliner noun
 airplane noun gb=aeroplane conf=90 note=British aeroplane; airplane is rare in British texts
@@ -224,6 +231,7 @@ alcoholism noun pl=- note=uncountable
 alderman noun pl=aldermen
 ale noun
 alert noun
+alfalfa noun pl=- note=uncountable
 alga noun pl=algae
 algebra noun
 Algerian noun
@@ -239,6 +247,7 @@ allegiance noun
 allegory noun
 allele noun
 allergy noun
+alleviation noun pl=- note=uncountable
 alley noun
 alliance noun
 alligator noun
@@ -276,6 +285,7 @@ ambush noun
 amendment noun
 amenity noun
 American noun
+Americana noun pl=- note=uncountable
 amity noun pl=- note=uncountable
 ammonia noun pl=- note=uncountable
 ammonium noun pl=- note=uncountable
@@ -290,6 +300,7 @@ amphitheater noun gb=amphitheatre
 amplifier noun
 amplitude noun
 amusement noun
+amygdala noun pl=amygdalae|amygdalas
 analogue noun us=analog|analogue conf=90 note=analog is American only; analogue is used in both (chemistry, biology)
 analogy noun
 analysis noun pl=analyses
@@ -357,12 +368,14 @@ antibody noun
 antic noun note=mostly plural antics
 anticipation noun
 antidote noun
+antipathy noun
 antiquarian noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
 antivirus noun
 antler noun
+anus noun
 anxiety noun
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartheid noun pl=- note=uncountable
@@ -385,6 +398,7 @@ appearance noun
 appellant noun
 appellation noun
 appendage noun
+appendicitis noun pl=- note=uncountable
 appendix noun pl=appendices|appendixes
 appetite noun
 appetizer noun gb=appetiser|appetizer
@@ -493,6 +507,7 @@ asparagus noun pl=- note=uncountable
 aspect noun
 asphalt noun pl=- note=uncountable
 aspiration noun
+aspirin noun
 ass noun
 assailant noun
 assassin noun
@@ -588,8 +603,10 @@ autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
 autocorrect noun pl=- note=uncountable
+autograph noun
 automaker noun
 automation noun pl=- note=uncountable
+automaton noun pl=automata|automatons
 automobile noun
 autonomy noun
 autopsy noun

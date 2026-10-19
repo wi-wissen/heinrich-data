@@ -27,12 +27,14 @@ eccentricity noun
 ecclesiastic noun
 echo noun pl=echoes
 eclipse noun
+ecliptic noun
 ecology noun
 ecommerce noun pl=- conf=85 note=also e-commerce
 economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
 ecosystem noun
+ecotourism noun pl=- note=uncountable
 ecstasy noun
 eddy noun
 edema noun gb=oedema
@@ -81,10 +83,12 @@ element noun
 elephant noun
 elevation noun
 elevator noun
+elf noun pl=elves
 eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
 elk noun pl=elk|elks
+ellipse noun
 elm noun
 eloquence noun pl=- note=uncountable
 em noun
@@ -123,6 +127,7 @@ employment noun
 empowerment noun
 empress noun
 emptiness noun pl=- note=uncountable
+emu noun
 emulation noun
 enabler noun
 enactment noun
@@ -140,6 +145,7 @@ encumbrance noun
 encyclopedia noun gb=encyclopaedia|encyclopedia
 end noun
 endeavor noun gb=endeavour
+endgame noun
 ending noun
 endometriosis noun pl=- note=uncountable
 endorsement noun
@@ -157,6 +163,7 @@ engineer noun
 engineering noun pl=- note=uncountable
 English noun note=the language; plural Englishes for varieties of English
 Englishman noun pl=Englishmen
+engraver noun
 engraving noun
 enhancement noun
 enjoyment noun
@@ -178,6 +185,7 @@ enthusiast noun
 entirety noun pl=- note=uncountable
 entitlement noun
 entity noun
+entomologist noun
 entourage noun
 entrance noun
 entrant noun
@@ -195,6 +203,7 @@ enzyme noun
 EP noun abbr note=extended play record
 epic noun
 epidemic noun
+epidemiology noun pl=- note=uncountable
 epidermis noun pl=- note=usually uncountable
 epigram noun
 epilepsy noun pl=- note=uncountable
@@ -296,6 +305,7 @@ excitation noun
 excitement noun
 exclamation noun
 exclusion noun
+exclusivity noun
 excommunication noun
 excursion noun
 excuse noun
@@ -315,6 +325,7 @@ exile noun
 existence noun
 exit noun
 exodus noun
+exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
 expatriate noun

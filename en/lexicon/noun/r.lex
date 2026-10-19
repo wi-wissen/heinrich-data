@@ -48,6 +48,7 @@ ramble noun
 ramification noun
 ramp noun
 rampart noun
+ramus noun pl=rami
 ranch noun
 rancher noun
 rand noun pl=rand|rands note=South African currency
@@ -99,6 +100,7 @@ realization noun gb=realisation|realization
 reallocation noun
 realm noun
 realtor noun conf=90 note=chiefly American; British estate agent
+reappearance noun
 rear noun
 reason noun
 reasonableness noun pl=- note=uncountable
@@ -124,6 +126,7 @@ receptacle noun
 reception noun
 receptionist noun
 receptor noun
+recertification noun
 recess noun
 recession noun
 recipe noun
@@ -162,10 +165,12 @@ recurrence noun
 recusal noun
 recycling noun pl=- note=uncountable
 red noun
+redaction noun
 redcurrant noun
 redemption noun
 redeployment noun
 redesign noun
+redetermination noun
 redevelopment noun
 redirect noun
 redistribution noun
@@ -191,6 +196,7 @@ reflex noun
 reform noun
 reformation noun note=the historical Reformation is a separate propn
 reformer noun
+reformist noun
 refrain noun
 refreshment noun
 refrigerant noun
@@ -240,6 +246,7 @@ relapse noun
 relation noun
 relationship noun
 relative noun
+relativism noun pl=- note=uncountable
 relativity noun pl=- note=uncountable
 relaxation noun
 relay noun
@@ -296,9 +303,11 @@ repatriation noun
 repayment noun
 repeal noun
 repeat noun
+repeatability noun pl=- note=uncountable
 repentance noun pl=- note=uncountable
 repercussion noun
 repertoire noun
+repertory noun
 repetition noun
 replacement noun
 replay noun
@@ -325,6 +334,9 @@ reproduction noun
 reptile noun
 republic noun
 republican noun
+repugnance noun
+repulsion noun
+repurchase noun
 reputation noun
 repute noun pl=- note=uncountable: of good repute
 request noun
@@ -388,6 +400,7 @@ resume noun conf=85 note=US for curriculum vitae; also written résumé
 resumption noun
 resurgence noun
 resurrection noun
+resuscitation noun
 retail noun pl=- note=uncountable
 retailer noun
 retainer noun
@@ -397,6 +410,7 @@ retention noun pl=- note=uncountable
 rethink noun
 reticence noun pl=- note=uncountable
 retina noun pl=retinas|retinae
+retinopathy noun
 retinue noun
 retiree noun
 retirement noun
@@ -469,6 +483,7 @@ ring noun
 ringtone noun
 rink noun
 riot noun
+rioter noun
 rip noun
 ripple noun
 rise noun

@@ -32,6 +32,7 @@ bag noun
 bagel noun
 baggage noun pl=- note=uncountable
 baguette noun
+baht noun pl=baht
 bail noun
 bailiff noun
 bailout noun
@@ -71,6 +72,7 @@ bankroll noun
 bankruptcy noun
 banner noun
 banquet noun
+banter noun pl=- note=uncountable
 baptism noun
 Baptist noun
 bar noun
@@ -91,6 +93,7 @@ baron noun
 baroness noun
 baronet noun
 barony noun
+barque noun
 barracks noun pl=barracks note=singular and plural: a barracks
 barrage noun
 barrel noun
@@ -115,6 +118,7 @@ basketball noun
 Basque noun
 bass noun
 bassist noun
+bastard noun
 bastion noun
 bat noun
 batch noun
@@ -161,6 +165,7 @@ bedding noun pl=- note=uncountable
 bedrock noun pl=- note=uncountable
 bedroom noun
 bedside noun
+bedstead noun
 bedtime noun
 bee noun
 beech noun
@@ -232,6 +237,9 @@ bin noun
 binary noun
 binder noun
 binding noun
+bingo noun pl=- note=uncountable
+binomial noun
+bint noun style=offensive note=British slang, derogatory for a woman
 biochemist noun
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
@@ -254,6 +262,7 @@ bird noun
 birth noun
 birthday noun
 birthplace noun
+birthright noun
 biscuit noun
 bisexual noun
 bishop noun
@@ -319,6 +328,7 @@ bluebell noun
 blueberry noun
 bluegrass noun pl=- note=uncountable
 blueprint noun
+bluetongue noun pl=- note=livestock disease, uncountable
 bluff noun
 blunder noun
 blur noun
@@ -339,6 +349,7 @@ body noun
 bodybuilder noun
 bodybuilding noun pl=- note=uncountable
 bodyguard noun
+bodywork noun pl=- note=uncountable
 Boer noun
 bog noun
 Bohemian noun
@@ -351,6 +362,7 @@ bombardier noun
 bombardment noun
 bomber noun
 bombing noun
+bonanza noun
 bond noun
 bondage noun pl=- note=uncountable
 bondholder noun
@@ -364,6 +376,7 @@ bookcase noun
 bookkeeper noun
 bookkeeping noun pl=- note=uncountable
 booklet noun
+bookmaker noun
 bookmark noun
 bookseller noun
 bookshelf noun pl=bookshelves
@@ -380,6 +393,7 @@ booty noun pl=- note=plunder; uncountable
 border noun
 bore noun
 boredom noun pl=- note=uncountable
+boron noun pl=- note=chemical element, uncountable
 borough noun
 borrower noun
 Bosnian noun
@@ -390,6 +404,7 @@ botany noun pl=- note=uncountable
 botnet noun
 bottle noun
 bottleneck noun
+bottlenose noun
 bottom noun
 bough noun
 boulder noun
@@ -401,6 +416,7 @@ bounty noun
 bouquet noun
 bourbon noun
 bourgeois noun pl=bourgeois
+bourgeoisie noun
 bout noun
 bow noun
 bowel noun
@@ -418,6 +434,7 @@ brace noun
 bracelet noun
 bracket noun
 braid noun
+braille noun pl=- note=usually capitalized
 brain noun
 brainstorming noun pl=- note=uncountable
 brake noun
@@ -435,6 +452,7 @@ bread noun
 breadth noun
 breadwinner noun
 break noun
+breakaway noun
 breakdown noun
 breaker noun
 breakeven noun conf=80 note=also break-even
@@ -444,6 +462,7 @@ breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
 breast noun
+breaststroke noun
 breath noun
 breech noun
 breed noun
@@ -495,6 +514,7 @@ brothel noun
 brother noun pl=brothers|brethren note=brethren in religious and fraternal use
 brother-in-law noun pl=brothers-in-law
 brotherhood noun
+brougham noun
 brow noun
 brownie noun
 browser noun
@@ -517,6 +537,7 @@ buddy noun
 budgerigar noun
 budget noun
 budgie noun
+buff noun
 buffalo noun pl=buffalo|buffaloes|buffalos
 buffer noun
 bug noun
@@ -547,6 +568,7 @@ bunk noun
 bunker noun
 bunny noun
 buoyancy noun pl=- note=uncountable
+buprenorphine noun pl=- note=uncountable
 burden noun
 bureau noun pl=bureaus|bureaux
 bureaucracy noun
@@ -571,6 +593,7 @@ bush noun
 bushel noun
 business noun
 businessman noun pl=businessmen
+businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen
 bust noun
 bustle noun

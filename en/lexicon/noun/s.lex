@@ -173,6 +173,7 @@ sea noun
 seabed noun
 seaboard noun
 seafarer noun
+seafloor noun
 seafood noun pl=- note=uncountable
 seagull noun
 seahorse noun
@@ -183,10 +184,12 @@ seaplane noun
 seaport noun
 search noun
 seashell noun
+seashore noun
 seaside noun
 season noun
 seat noun
 seawater noun pl=- note=uncountable
+sec noun note=informal short form of second
 secession noun
 seclusion noun pl=- note=uncountable
 second noun note=unit of time; the ordinal is a numeral
@@ -220,6 +223,7 @@ seller noun
 semantics noun pl=- note=takes a singular verb
 semblance noun
 semester noun
+semi noun
 semi-final noun note=GB mostly hyphenated, US mostly semifinal
 semiconductor noun
 semifinal noun note=US mostly closed, GB mostly semi-final
@@ -303,6 +307,7 @@ sharpness noun pl=- note=uncountable
 shawl noun
 sheath noun
 shed noun
+sheen noun
 sheep noun pl=sheep
 sheet noun
 sheik noun note=spelling variant of sheikh
@@ -399,11 +404,14 @@ signatory noun
 signature noun
 signboard noun
 significance noun
+signification noun
+signorina noun pl=signorinas|signorine conf=85 note=Italian loanword; plural forms unsure
 Sikh noun
 silence noun
 silhouette noun
 silica noun pl=- note=uncountable
 silicon noun pl=- note=chemical element
+silicone noun
 silk noun
 sill noun
 silo noun note=plural silos
@@ -421,6 +429,7 @@ sinew noun
 singer noun
 single noun
 singleton noun
+singularity noun
 sink noun
 sinner noun
 Sioux noun pl=Sioux
@@ -442,12 +451,14 @@ skepticism noun gb=scepticism pl=- note=uncountable
 sketch noun
 ski noun
 skier noun
+skiff noun
 skill noun
 skillset noun conf=80 note=also skill set
 skin noun
 skip noun
 skipper noun
 skirmish noun
+skirmisher noun
 skirt noun
 skull noun
 sky noun
@@ -568,6 +579,7 @@ solicitor noun
 solicitude noun pl=- note=uncountable
 solid noun
 solidarity noun pl=- note=uncountable
+solidity noun pl=- note=uncountable
 solitude noun
 solo noun pl=solos
 soloist noun
@@ -583,6 +595,7 @@ song noun
 songwriter noun
 songwriting noun pl=- note=uncountable
 sonnet noun
+soot noun pl=- note=uncountable
 sophistication noun
 sophomore noun
 soprano noun note=plural sopranos
@@ -612,6 +625,7 @@ sow noun note=female pig
 spa noun
 space noun
 spacecraft noun pl=spacecraft
+spaceflight noun
 spacing noun
 spade noun
 spadefoot noun
@@ -683,6 +697,7 @@ spokeswoman noun pl=spokeswomen
 sponge noun
 sponsor noun
 sponsorship noun
+spoof noun pl=spoofs
 spool noun
 spoon noun
 spore noun
@@ -691,6 +706,7 @@ sportsman noun pl=sportsmen
 sportswear noun pl=- note=uncountable
 spot noun
 spotlight noun
+spotter noun
 spouse noun
 sprawl noun pl=- note=uncountable (urban sprawl)
 spray noun
@@ -803,6 +819,7 @@ sterility noun pl=- note=uncountable
 sterilization noun gb=sterilisation|sterilization
 sterling noun pl=- note=British currency
 stern noun
+sternum noun pl=sternums|sterna
 steroid noun
 stew noun
 steward noun
@@ -812,6 +829,7 @@ stick noun
 sticker noun
 stiffness noun
 stigma noun pl=stigmas|stigmata
+stile noun
 stillness noun
 stimulant noun
 stimulation noun
@@ -902,6 +920,7 @@ sub noun
 sub-paragraph noun
 subarea noun
 subcategory noun
+subchannel noun
 subchapter noun
 subcommittee noun
 subcontinent noun
@@ -916,6 +935,7 @@ subgroup noun
 subheading noun
 subject noun
 subjection noun pl=- note=uncountable
+subjugation noun pl=- note=uncountable
 sublease noun
 submarine noun
 submission noun
@@ -923,6 +943,7 @@ submittal noun
 submitter noun
 subnet noun
 subordinate noun
+subordination noun pl=- note=uncountable
 subparagraph noun
 subpart noun
 subpoena noun
@@ -1039,6 +1060,7 @@ suspense noun pl=- note=uncountable
 suspension noun
 suspicion noun
 sustainability noun pl=- note=uncountable
+sustenance noun pl=- note=uncountable
 suture noun
 swain noun
 swallow noun
@@ -1078,6 +1100,7 @@ sympathy noun
 symphony noun
 symptom noun
 synagogue noun
+synchronization noun gb=synchronisation|synchronization
 syndicate noun
 syndication noun
 syndrome noun
@@ -1087,6 +1110,7 @@ synonym noun
 syntax noun
 synthesis noun pl=syntheses
 synthesizer noun gb=synthesiser|synthesizer
+syphilis noun pl=- note=uncountable
 Syrian noun
 syrup noun
 system noun

@@ -174,6 +174,7 @@ concrete adj adv=concretely
 concurrent adj adv=concurrently
 conditional adj adv=conditionally
 conducive adj
+conductive adj
 Confederate adj note=of the Confederate States (American Civil War)
 confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
@@ -225,6 +226,7 @@ contrived adj cmp=more
 controversial adj cmp=more adv=controversially
 convenient adj cmp=more adv=conveniently
 conventional adj cmp=more adv=conventionally
+convergent adj
 conversational adj adv=conversationally
 converse adj adv=conversely
 convertible adj
@@ -247,6 +249,7 @@ correctional adj
 corrective adj
 corresponding adj adv=correspondingly
 corrosive adj cmp=more
+corrugated adj
 corrupt adj cmp=more adv=corruptly
 cosmic adj
 cosmopolitan adj
@@ -273,6 +276,7 @@ creative adj cmp=more adv=creatively
 credible adj cmp=more adv=credibly
 creditable adj
 creditworthy adj
+credulous adj
 creepy adj cmp=er
 Creole adj
 Crimean adj

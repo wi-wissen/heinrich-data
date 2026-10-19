@@ -89,6 +89,7 @@ manifesto      noun pl=manifestos|manifestoes
 manifold noun
 manipulation   noun
 mankind        noun pl=- note=uncountable
+manliness noun pl=- note=uncountable
 mannequin noun
 manner         noun
 manor          noun
@@ -264,6 +265,7 @@ metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
 Mexican        noun
+microbe noun
 microchip noun
 microfinance noun pl=- note=uncountable
 microloan noun
@@ -272,6 +274,7 @@ microorganism noun
 microphone noun
 microprocessor noun
 microscope noun
+microscopy noun pl=- note=uncountable
 microwave noun
 midday noun
 middle         noun
@@ -349,6 +352,7 @@ mishap noun
 misinformation noun pl=- note=uncountable
 mismanagement noun pl=- note=uncountable
 mismatch noun
+misogyny noun pl=- note=uncountable
 misprint noun
 miss           noun note=title and young woman
 missile        noun
@@ -432,6 +436,7 @@ monument       noun
 mood           noun
 moon           noun
 moonlight      noun pl=- note=uncountable
+moonshine noun pl=- note=uncountable
 moor           noun
 moorland noun
 moose noun pl=moose
@@ -445,6 +450,7 @@ Mormon noun
 morn noun style=archaic note=poetic for morning
 morning        noun
 Moroccan noun
+morphine noun pl=- note=uncountable
 morphology noun
 morrow         noun pl=- style=archaic note=the following day
 morsel noun
@@ -530,6 +536,7 @@ Muslim         noun
 muslin noun
 mussel noun
 mustache noun gb=moustache|mustache conf=90 note=moustache is also frequent in American texts
+mustang noun
 mustard noun
 muster noun
 mutant noun

@@ -40,17 +40,20 @@ imitation      noun
 immersion noun
 immigrant      noun
 immigration    noun
+immorality noun
 immortal       noun
 immortality noun pl=- note=uncountable
 immunity       noun
 impact         noun
 impairment     noun
 impartiality noun
+impasse noun
 impatience     noun pl=- note=uncountable
 impeachment noun
 impedance noun
 impediment     noun
 imperative     noun
+imperfection noun
 imperialism noun pl=- note=uncountable
 impertinence noun
 impetus noun
@@ -94,6 +97,7 @@ incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
+incinerator noun
 inclination    noun
 incline        noun
 inclusion      noun
@@ -107,8 +111,10 @@ increment noun
 incubation noun
 incumbent      noun
 incursion noun
+indebtedness noun pl=- note=uncountable
 indecision noun pl=- note=uncountable
 indemnity noun
+indenture noun
 independence   noun
 independent    noun
 index          noun pl=indexes|indices
@@ -121,6 +127,7 @@ indie noun
 indifference   noun
 indignation    noun
 indigo noun pl=indigos
+indiscretion noun
 individual     noun
 individuality noun
 Indo-European noun pl=- note=the language family
@@ -140,10 +147,12 @@ infamy noun
 infancy        noun
 infant         noun
 infantry       noun pl=- note=collective
+infatuation noun
 infection      noun
 inference      noun
 inferior       noun
 inferiority noun pl=- note=uncountable
+infertility noun pl=- note=uncountable
 infidel noun
 infidelity noun
 infield noun
@@ -229,6 +238,7 @@ instruction    noun
 instructor     noun
 instrument     noun
 instrumentation noun pl=- note=uncountable
+insufficiency noun
 insulation noun
 insulin noun pl=- note=uncountable
 insult         noun
@@ -254,6 +264,7 @@ interchange    noun
 interconnection noun
 intercourse    noun pl=- note=uncountable
 interdict noun
+interdiction noun
 interest       noun
 interface      noun
 interference   noun
@@ -262,12 +273,14 @@ interior       noun
 interlude noun
 intermediary   noun
 intermediate   noun
+interment noun
 intern noun
 international  noun
 internet       noun pl=- note=usually with the; also capitalized Internet
 internment noun
 internship noun
 interoperability noun pl=- note=uncountable
+interplay noun
 interpretation noun
 interpreter    noun
 interrogation noun
@@ -275,6 +288,7 @@ interruption   noun
 intersection   noun
 interstate     noun region=US
 interval       noun
+intervenor noun conf=90 note=legal spelling; also intervener
 intervention   noun
 interview      noun
 interviewee noun
@@ -289,6 +303,7 @@ intonation noun
 intoxication noun
 intranet noun
 intrigue noun
+intro noun pl=intros note=clipping of introduction
 introduction   noun
 intruder noun
 intrusion      noun
@@ -326,6 +341,7 @@ iris noun pl=irises
 Irish          noun pl=- note=the language; the Irish as a people
 Irishman noun pl=Irishmen
 iron           noun
+ironclad noun
 irony          noun
 Iroquois noun pl=Iroquois
 irregularity noun
@@ -340,6 +356,7 @@ isle           noun
 islet noun
 isolation      noun
 isomer noun
+isomorphism noun
 isopleth noun
 isotope        noun
 Israeli        noun

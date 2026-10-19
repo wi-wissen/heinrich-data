@@ -15,6 +15,7 @@ barbarous adj cmp=more adv=barbarously
 bare adj cmp=er
 barefoot adj
 barefooted adj
+bareheaded adj
 baroque adj
 barren adj cmp=more
 basal adj
@@ -49,6 +50,8 @@ bilingual adj
 billable adj
 binary adj
 binding adj
+binomial adj
+biochemical adj
 biographical adj
 biological adj adv=biologically
 biomedical adj
@@ -63,7 +66,7 @@ bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
 blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
-blank adj
+blank adj adv=blankly
 blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
@@ -90,10 +93,12 @@ boundless adj adv=boundlessly
 bourgeois adj
 bovine adj
 boyish adj cmp=more adv=boyishly
+brackish adj
 brainy adj cmp=er
 brave adj cmp=er adv=bravely
 brazen adj cmp=more adv=brazenly
 Brazilian adj
+breakaway adj
 breathless adj adv=breathlessly
 breezy adj cmp=er
 Breton adj
@@ -123,4 +128,5 @@ Burmese adj
 bushy adj cmp=er
 businesslike adj cmp=more
 busy adj cmp=er adv=busily
+bygone adj
 Byzantine adj

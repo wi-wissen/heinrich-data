@@ -41,6 +41,7 @@ oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
 outfit        verb prefix=out
+outgrow verb prefix=out past=outgrew pp=outgrown
 outlaw        verb
 outline       verb
 outlive verb prefix=out

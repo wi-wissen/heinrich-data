@@ -8,6 +8,8 @@ abnormal adj cmp=more adv=abnormally
 abolitionist adj
 abominable adj adv=abominably
 aboriginal adj
+abortive adj
+abrasive adj
 abrupt adj cmp=more adv=abruptly
 absent adj adv=absently
 absolute adj adv=absolutely
@@ -23,6 +25,7 @@ accidental adj adv=accidentally
 accountable adj cmp=more
 accurate adj cmp=more adv=accurately
 accursed adj
+accusative adj
 achievable adj
 achy adj cmp=er
 acidic adj cmp=more
@@ -32,6 +35,7 @@ active adj cmp=more adv=actively
 actual adj adv=actually
 actuarial adj
 acute adj cmp=er|more adv=acutely
+adamant adj adv=adamantly
 adaptable adj cmp=more
 adaptive adj
 addicted adj
@@ -56,6 +60,7 @@ adverse adj cmp=more adv=adversely
 advisable adj
 advisory adj
 aerial adj
+aerobic adj
 aerodynamic adj adv=aerodynamically
 aeronautical adj
 aesthetic adj us=esthetic|aesthetic adv=aesthetically conf=90 note=esthetic is a rarer American spelling
@@ -113,6 +118,7 @@ ambiguous adj cmp=more adv=ambiguously
 ambitious adj cmp=more adv=ambitiously
 ambulatory adj
 amenable adj
+amendatory adj
 American adj
 amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
@@ -131,6 +137,7 @@ anatomical adj adv=anatomically
 ancestral adj
 ancient adj cmp=more
 ancillary adj
+anecdotal adj adv=anecdotally
 anesthetic adj gb=anaesthetic
 angelic adj
 Anglican adj
@@ -212,6 +219,7 @@ associate adj
 assured adj adv=assuredly
 Assyrian adj
 astronomical adj adv=astronomically
+asymptomatic adj
 Athenian adj
 athletic adj
 Atlantic adj
@@ -238,6 +246,7 @@ authoritarian adj cmp=more
 authoritative adj cmp=more adv=authoritatively
 autistic adj
 autobiographical adj
+autocratic adj
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously

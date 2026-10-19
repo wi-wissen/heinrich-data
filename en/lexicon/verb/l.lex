@@ -17,6 +17,7 @@ laud verb
 laugh         verb
 launch        verb
 launder       verb
+lavish verb
 lay           verb past=laid pp=laid
 layer verb
 laze verb

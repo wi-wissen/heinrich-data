@@ -66,6 +66,7 @@ verdure noun pl=- note=literary
 verge         noun
 verification  noun
 vermilion noun pl=- note=uncountable as a color
+vermin noun pl=vermin
 vernacular noun
 versatility noun pl=- note=uncountable
 verse         noun
@@ -93,10 +94,12 @@ vicarage noun
 vice          noun
 viceroy noun
 vicinity      noun
+vicissitude noun
 victim        noun
 victor        noun
 Victorian     noun
 victory       noun
+victual noun
 video         noun
 videoconference noun
 Vietnamese    noun pl=Vietnamese
@@ -157,6 +160,7 @@ voivodeship noun note=Polish province
 volatility noun
 volcano       noun pl=volcanoes|volcanos
 vole noun
+volition noun pl=- note=uncountable
 volley noun
 volleyball    noun
 volt noun
