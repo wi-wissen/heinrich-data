@@ -13,6 +13,7 @@ damage noun
 dame noun
 damp noun
 damsel noun
+dan noun conf=80 note=grade in martial arts
 dance noun
 dancer noun
 dandelion noun
@@ -94,6 +95,7 @@ default noun
 defaulter noun
 defeat noun
 defect noun
+defection noun
 defendant noun
 defender noun
 defense noun gb=defence
@@ -153,6 +155,7 @@ denominator noun
 density noun
 dentist noun
 dentistry noun pl=- note=uncountable
+denunciation noun
 deodorant noun
 department noun
 departure noun
@@ -253,6 +256,7 @@ dice noun pl=dice
 dictate noun
 dictator noun
 dictatorship noun
+diction noun pl=- note=uncountable
 dictionary noun
 diesel noun
 diet noun
@@ -350,6 +354,7 @@ dispatch noun gb=dispatch|despatch
 dispatcher noun
 dispenser noun
 dispersal noun
+dispersant noun
 dispersion noun
 displacement noun
 display noun
@@ -454,6 +459,7 @@ doubt noun
 dough noun
 doughnut noun us=donut|doughnut conf=90 note=donut is an informal American spelling
 dove noun note=the bird
+dowager noun
 down noun note=soft feathers; the Downs (hills)
 downfall noun
 downhill noun
@@ -509,6 +515,7 @@ drum noun
 drummer noun
 drunk noun
 dryer noun
+ducat noun
 duchess noun
 duchy noun
 duck noun

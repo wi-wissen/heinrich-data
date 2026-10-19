@@ -86,7 +86,7 @@ outright       adj
 outspoken adj
 outstanding    adj adv=outstandingly
 outstretched adj
-outward        adj
+outward        adj adv=outwardly
 oval           adj
 ovarian adj
 overall        adj

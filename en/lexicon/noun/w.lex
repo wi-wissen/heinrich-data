@@ -97,6 +97,8 @@ weekday noun
 weekend noun
 weekly noun
 weight noun
+weightlifter noun
+weightlifting noun pl=- note=uncountable
 weir noun
 welcome noun
 welding noun pl=- note=uncountable
@@ -143,7 +145,9 @@ wholesale noun pl=- note=uncountable
 wholesaler noun
 whoop noun
 Wi-Fi noun pl=- conf=80 note=from a trademark; also written wifi, especially in British texts
+wick noun
 wickedness noun pl=- note=uncountable
+wicker noun pl=- note=material
 wicket noun
 widget noun
 widow noun

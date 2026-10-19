@@ -21,6 +21,7 @@ undersigned noun pl=- conf=90 note=the undersigned, used for one or more signato
 understanding noun
 undertaker    noun
 undertaking   noun
+undertone noun
 undervaluation noun
 underwear noun pl=- note=uncountable
 underworld noun

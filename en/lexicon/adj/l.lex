@@ -1,6 +1,7 @@
 laborious adj
 laden         adj
 lame adj cmp=er adv=lamely
+lamentable adj adv=lamentably
 languid adj
 Lankan adj note=only in Sri Lankan
 Lao adj
@@ -19,6 +20,7 @@ lawful        adj adv=lawfully
 lawless adj
 lay           adj attr_only
 lazy          adj cmp=er adv=lazily
+leaden adj
 leading       adj attr_only
 leafy adj cmp=er
 lean          adj cmp=er

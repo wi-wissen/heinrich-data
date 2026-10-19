@@ -22,6 +22,7 @@ Parisian adj
 parliamentary adj
 parochial adj cmp=more
 partial adj adv=partially
+participatory adj
 particular adj cmp=more adv=particularly
 particulate adj
 partisan adj
@@ -73,6 +74,7 @@ pertinent adj
 Peruvian adj note=demonym or religious name, capitalized
 pervasive adj cmp=more adv=pervasively
 perverse adj adv=perversely
+petite adj note=of a woman: small and slim
 petty adj cmp=er
 phantom adj attr_only
 pharmaceutical adj
@@ -87,6 +89,7 @@ photographic adj
 phylogenetic adj adv=phylogenetically
 physical adj adv=physically
 physiological adj
+phytosanitary adj
 pictorial adj
 picturesque adj cmp=more
 piecemeal adj
@@ -156,6 +159,7 @@ precipitous adj adv=precipitously
 precise adj cmp=more adv=precisely
 predatory adj
 predictable adj cmp=more adv=predictably
+predictive adj
 predominant adj adv=predominantly
 preexisting adj note=also spelled pre-existing
 preferable adj adv=preferably
@@ -181,6 +185,8 @@ preventable adj
 preventative adj
 preventive adj
 previous adj adv=previously
+priceless adj
+priestly adj
 primal adj
 primary adj adv=primarily
 prime adj

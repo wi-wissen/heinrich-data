@@ -51,6 +51,7 @@ secluded adj
 secondary adj
 secret adj adv=secretly
 sectarian adj
+sectoral adj
 secular adj
 secure adj cmp=more|er adv=securely
 sedentary adj cmp=more
@@ -147,7 +148,7 @@ smoky adj cmp=er
 smooth adj cmp=er adv=smoothly
 snowy adj cmp=er
 snug adj cmp=er
-sober adj cmp=er|more
+sober adj cmp=er|more adv=soberly
 sociable adj cmp=more
 social adj adv=socially
 socialist adj
@@ -166,6 +167,7 @@ solvent adj
 Somali adj
 somber adj cmp=more gb=sombre adv=somberly
 sonic adj
+soothing adj cmp=more adv=soothingly
 sophisticated adj cmp=more
 sordid adj
 sore adj cmp=er
@@ -281,6 +283,7 @@ subordinate adj
 subsequent adj adv=subsequently
 substantial adj adv=substantially
 substantive adj
+subsurface adj
 subterranean adj
 subtle adj cmp=er adv=subtly
 subtropical adj
@@ -327,6 +330,7 @@ surrogate adj
 susceptible adj
 suspicious adj cmp=more adv=suspiciously
 sustainable adj adv=sustainably
+swampy adj cmp=er
 swarthy adj cmp=er
 sweaty adj cmp=er
 Swedish adj

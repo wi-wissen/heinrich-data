@@ -1,3 +1,4 @@
+madden verb
 magnify verb
 mail          verb
 maintain      verb
@@ -100,6 +101,7 @@ modernize verb gb=modernise|modernize
 modify        verb
 modulate verb
 mold          verb gb=mould
+molest verb
 monetize verb gb=monetise|monetize
 monitor       verb
 moo verb

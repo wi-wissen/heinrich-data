@@ -61,6 +61,7 @@ thrill verb
 thrive verb past=thrived|throve pp=thrived|thriven
 throb verb
 throng verb
+throttle verb
 throw verb past=threw pp=thrown
 thrust verb past=thrust pp=thrust
 thump verb
@@ -113,9 +114,11 @@ trail verb
 train verb
 tramp verb
 trample verb
+transact verb
 transcribe verb
 transfer verb double
 transform verb
+transit verb
 transition verb
 translate verb
 transmit verb double
@@ -139,6 +142,7 @@ trigger verb
 trim verb
 trip verb
 triple verb
+triumph verb
 troll verb
 trot verb
 trouble verb

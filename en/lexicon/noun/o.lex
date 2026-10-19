@@ -1,5 +1,6 @@
 oak           noun
 oar           noun
+oasis noun pl=oases
 oat noun
 oath          noun
 OBE           noun abbr note=Officer of the Order of the British Empire
@@ -52,12 +53,16 @@ offset        noun
 offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
+oldie noun style=colloquial
+oligarch noun pl=oligarchs
+oligarchy noun
 olive         noun
 Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
 omelette noun us=omelet|omelette
 omen noun
+omicron noun
 omission      noun
 omnibus noun pl=omnibuses
 onboarding noun pl=- note=uncountable

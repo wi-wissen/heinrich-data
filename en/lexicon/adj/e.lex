@@ -14,6 +14,7 @@ ecclesiastical adj
 ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
+ecumenical adj
 edible adj
 editable adj
 editorial adj
@@ -55,6 +56,7 @@ energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
 English adj
+enigmatic adj adv=enigmatically
 enjoyable adj
 enormous adj adv=enormously
 enterprising adj cmp=more
@@ -110,6 +112,7 @@ exclusive adj adv=exclusively
 executive adj
 exemplary adj
 exempt adj
+exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
@@ -138,6 +141,7 @@ extinct adj
 extra adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
+extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj

@@ -5,3 +5,4 @@ inland         adv type=place
 insofar adv note=only in insofar as
 inward         adv type=place
 inwardly adv
+inwards adv type=place note=more frequent in British English
