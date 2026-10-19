@@ -93,6 +93,61 @@ The agent received a one-line message pointing to this file, with the instructio
     the adjective interferes with a grammar rule); use other words if you need them. Re-run the checker to 0
     errors, append a "Revision" note to `decisions.md`, and report new counts. Same clean-room rules as before.
 
+## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
+
+Message:
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-en.md (you: band 7-8; output directory .../graded/runs/en-efl-7-8/).
+    
+    Second message (verbatim): Orchestrator addition to revision round 1: the 5-6 author moved some words out of 5-6 and lists them under "for 7-8" in the "Revision round 1" section of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-5-6/decisions.md (hippo, kangaroo, panda, turtle, unicorn, yo-yo, eagle, budgie, notice, wonder, belong, appear, cover, except, nearby, typical). Read only that section. For each word you judge to be introduced in 7-8, add a line with your own level/topic/role/conf (`src=ai|rev`); words you judge not to be school vocabulary at all, list in decisions.md. Re-run the checker and report briefly.
+
+Feedback file referred to:
+
+    # Revision round 1 (English EFL), feedback from the internal reviewer — patterns only
+    
+    The reviewer compared the merged layer (bands 3-4, 5-6, 7-8; A1–B1) statistically with one CEFR-levelled reference
+    outside the repositories. You receive only aggregate numbers and patterns in the reviewer's own words; you never receive
+    reference entries, and you must not try to guess them. Revise **whole topics from your own knowledge**.
+    This is round 1 of at most 2 against this reference.
+    
+    ## Numbers
+    | reference level | covered | exact (covered) | ±1 (covered) | ours later | ours earlier | mean shift (ours − ref) |
+    |---|---:|---:|---:|---:|---:|---:|
+    | A1 | 84.9 % | 80.1 % | 99.1 % | 181 | 0 | +0.21 |
+    | A2 | **59.4 %** | 66.8 % | 100 % | 96 | 154 | −0.08 |
+    | B1 | 28.9 % (layer ends at grade 8; partly expected) | 28.0 % | 89.5 % | 0 | 467 | −0.82 |
+    Confusion (rows reference, columns ours): A1→A1 730 / A2 173 / B1 8; A2→A1 154 / A2 504 / B1 96; B1→A1 68 / A2 399 / B1 182.
+    Function words: 90.9 % of the reference's A1 function words are covered, only 74.2 % of them in band 3-4.
+    Topics with the largest shift (levels, negative = ours earlier): **animals −0.95** (only 68 % within ±1), **toys −0.81**
+    (76 %), clothes −0.56, food −0.54, health −0.53, academic −0.53, anglophone −0.51, fantasy −0.51, friends −0.49.
+    Well calibrated: time, function, numbers, family, communication, thinking, music_arts, town.
+    
+    ## Patterns (reviewer's own words)
+    1. A1 is good, A2 thin, B1 structurally thin. The layer covers 85 % of the reference's A1 but only 59 % of its A2:
+       grades 5–6 lack the most.
+    2. Two opposite shifts. About every fifth reference-A1 word is only on A2 with us (mostly band 5-6), while 72 % of
+       reference-B1 words are already on A2 or A1 with us. The layer compresses the scale towards the middle: basic
+       vocabulary rather too late, more demanding vocabulary rather too early.
+    3. Animals and toys clearly too early: typically words for rarer or more exotic animals and for more specific toys that we
+       put on A1 like core vocabulary. Similar but weaker: clothes, food, health, fantasy, friendship (about half a level early).
+    4. Well calibrated: time, function words, numbers, family, communication, thinking, music/arts.
+    5. Function words: 9 % of the reference's A1 function words are missing, and another sixth are only after band 3-4.
+    6. Cultural and country words overlap little with the reference — a property of the reference, not an error of the layer.
+    7. Lexicon: about 10 % of the reference could not be mapped to a lemma of our English lexicon; part of it are gaps in the
+       lexicon itself (report candidates in `missing.tsv`).
+    
+    ## What to do (per band author)
+    - **3-4 (A1):** add the core A1 vocabulary you left for 5-6 (basic vocabulary rather too late); include the remaining
+      frequent function words; move rarer animals and specific toys/clothes/food words out of A1 (to 5-6/A2 or 7-8 by your
+      judgement, i.e. remove them from your list and note them for that band in `decisions.md`).
+    - **5-6 (A1/A2):** expand A2 substantially across all topics (the biggest gap), plus the basic words that are A1 but
+      typically met first in grades 5-6; move overly specific animal/toy/clothes/food words later where appropriate.
+    - **7-8 (A2/B1):** re-check level assignments: more demanding, abstract or formal words belong on B1 rather than A2;
+      add B1 vocabulary for the 7-8 themes.
+    For every line you add or change, set `src=ai|rev` (keep `freq` if present). Re-run the checker to 0 errors, append a
+    "Revision round 1" section to `decisions.md`, report counts (added, level changed, removed/moved). Same clean-room rules
+    (no web, no word lists, never the held-out repository). Missing lemmas to `missing.tsv`.
+
 ## Decisions log (written by the author)
 
 # Decisions log – author run `en-efl-7-8`
@@ -190,3 +245,49 @@ The agent received a one-line message pointing to this file, with the instructio
 - The total is now 1,261, slightly above the 900–1200 target. I kept it like this rather than cutting
   further, because the added words are core 7-8 vocabulary (feelings adjectives and grammar terms).
 - The checker reports 0 errors and 0 warnings. Totals: 930 A2 / 331 B1; 1,034 prod / 227 rec.
+
+## Revision round 1 (reviewer feedback: patterns only)
+- The feedback for band 7-8 was to put more demanding, abstract or formal words on B1 instead of A2, and
+  to add B1 vocabulary for the 7-8 themes. I re-read my whole A2 list topic by topic and judged each word
+  from my own knowledge only. I did not try to guess any reference entries.
+- **Level changes (73 lines, A2 → B1):** words that are abstract, formal or mostly met in texts rather
+  than used by pupils of this age. Examples: nouns for abstract concepts (*emotion, courage, freedom,
+  community, government, possibility, statement, effect, generation, protection, punishment*), formal
+  verbs (*communicate, inform, arrange, contain, prove*), text-work terms (*definition, structure,
+  source, research, questionnaire, mediation*), formal adjectives (*available, valuable, equal,
+  responsible, generous, loyal, wise, attractive*), technical words (*data, device, electronic,
+  gadget, clause, participle*) and place or position words (*region, location, position, surface*).
+  Concrete, everyday or emotionally central words for the themes stayed on A2.
+- **Added (137 lines, mostly B1, many `role=rec`):** B1 words for each 7-8 theme:
+  - feelings: *anxiety, confidence, furious, awkward, cope, encourage*
+  - friendship: *conflict, misunderstanding, loyalty, rumor, influence*
+  - media: *access, content, platform, virtual, addictive, anonymous*
+  - jobs: *employment, candidate, skilled, flexible, teamwork, deadline*
+  - health: *prevent, condition, lifestyle, habit, heal*
+  - environment: *global, atmosphere, extinction, threat, protest, campaign*
+  - adventures and stories: *challenge, risky, mission, suspense, twist*
+  - English-speaking places: *landmark, settlement, heritage, rural, urban, election, vote*
+  - opinions and reasons: *agreement, debate, issue, benefit, drawback, nevertheless, consequently,
+    aware*
+  - general: *various, specific, effort, progress, achievement, require, involve*
+- Removed or moved to another band: none. The reviewer named animals/toys/clothes/food as too early.
+  These concern the lower bands; my 7-8 list has only a handful of such words, all on A2 at 7-8.
+- All added or changed lines carry `src=ai|rev`. `missing.tsv` gained 3 candidates (*cyberbullying*,
+  *qualified*, *experienced*), so it now has 7 entries.
+- The size is now 1,398 lexemes (858 A2 / 540 B1; 1,088 prod / 310 rec). This is above the original
+  900–1200 target, because the review asked specifically for more B1 vocabulary at this band. The
+  checker reports 0 errors and 0 warnings.
+
+### Revision round 1, addition: words handed over by the 5-6 author
+- I read only the "Revision round 1" section of the 5-6 decisions log, as instructed.
+- **Added (7 lines, `src=ai|rev`):** each with my own level, topic, role and confidence.
+  - At A2 prod: *hippo, panda, turtle, eagle* (animals), *kangaroo* (anglophone.commonwealth|animals)
+    and *cover* (verb, actions.handling).
+  - *budgie* at A2 rec, conf 55, as a minor pet word.
+  - My first draft already had *eagle, kangaroo* and *cover*. I had removed them only because I thought
+    they were learned earlier. Now that the earlier bands have dropped them, 7-8 is the right band.
+- **Already on my list (7-8, A2), left unchanged:** *notice, wonder, belong, appear, except, nearby,
+  typical*.
+- **Judged not to be school vocabulary (not added):** *unicorn* and *yo-yo*. Both are niche words that
+  are not taught on purpose in English lessons, so pupils meet them by chance.
+- New size: 1,405 lexemes (865 A2 / 540 B1; 311 rec). The checker reports 0 errors and 0 warnings.

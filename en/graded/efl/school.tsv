@@ -39,21 +39,34 @@ word                     noun   grade=3-4 cefr=A1 topic=school|language role=pro
 
 # grade 5-6 · school
 assembly                 noun   grade=5-6 cefr=A2 topic=school|anglophone.uk role=rec conf=60 src=ai
+biology                  noun   grade=5-6 cefr=A2 topic=school role=prod conf=70 src=ai|rev
 calculator               noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
 canteen                  noun   grade=5-6 cefr=A2 topic=school role=prod conf=70 src=ai
+chemistry                noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai|rev
+corridor                 noun   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai|rev
 detention                noun   grade=5-6 cefr=A2 topic=school|anglophone.uk role=prod conf=60 src=ai
 drama                    noun   grade=5-6 cefr=A2 topic=school|music_arts role=prod conf=65 src=ai
+exam                     noun   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai|rev
 folder                   noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
 geography                noun   grade=5-6 cefr=A1 topic=school role=prod conf=80 src=ai
+grade                    noun   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai|rev
 gym                      noun   grade=5-6 cefr=A1 topic=school|sports role=prod conf=70 src=ai
 headteacher              noun   grade=5-6 cefr=A1 topic=school|anglophone.uk role=prod conf=70 src=ai
 history                  noun   grade=5-6 cefr=A1 topic=school|history role=prod conf=80 src=ai
+lab                      noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai|rev
 Latin                    noun   grade=5-6 cefr=A2 topic=school|language role=prod conf=60 src=ai|freq
 library                  noun   grade=5-6 cefr=A1 topic=school|town role=prod conf=75 src=ai
 locker                   noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
+notebook                 noun   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai|rev
+physics                  noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai|rev
 playground               noun   grade=5-6 cefr=A1 topic=school role=prod conf=60 src=ai
 primary                  adj    grade=5-6 cefr=A2 topic=school role=rec conf=60 src=ai|freq
+principal                noun   grade=5-6 cefr=A2 topic=school|anglophone.us role=rec conf=55 src=ai|rev
+quiz                     noun   grade=5-6 cefr=A2 topic=school|media role=prod conf=65 src=ai|rev
 reading                  noun   grade=5-6 cefr=A2 topic=school|free_time|classroom role=rec conf=60 src=ai|freq
+religion                 noun   grade=5-6 cefr=A2 topic=school role=prod conf=65 src=ai|rev
+report                   noun   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai|rev
+result                   noun   grade=5-6 cefr=A2 topic=school|sports role=prod conf=60 src=ai|rev
 science                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=80 src=ai
 student                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=70 src=ai
 study                    verb   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai

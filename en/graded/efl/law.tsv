@@ -3,11 +3,11 @@
 # lemma[:sense]  pos  fields
 
 # grade 7-8 · law
-arrest                   verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+arrest                   verb   grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai|rev
 burglar                  noun   grade=7-8 cefr=A2 topic=law role=prod conf=60 src=ai
 court                    noun   grade=7-8 cefr=B1 topic=law role=rec conf=65 src=ai
 crime                    noun   grade=7-8 cefr=A2 topic=law role=prod conf=70 src=ai
-criminal                 noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+criminal                 noun   grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai|rev
 gun                      noun   grade=7-8 cefr=B1 topic=law|anglophone.us role=rec conf=50 src=ai|freq
 illegal                  adj    grade=7-8 cefr=A2 topic=law role=prod conf=70 src=ai
 judge                    noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
@@ -15,7 +15,7 @@ law                      noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 sr
 legal                    adj    grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai
 prison                   noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
 punish                   verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
-punishment               noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
+punishment               noun   grade=7-8 cefr=B1 topic=law role=prod conf=65 src=ai|rev
 rob                      verb   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
 robbery                  noun   grade=7-8 cefr=A2 topic=law role=prod conf=65 src=ai
 steal                    verb   grade=7-8 cefr=A2 topic=law role=prod conf=60 src=ai

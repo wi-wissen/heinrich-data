@@ -3,10 +3,14 @@
 # lemma[:sense]  pos  fields
 
 # grade 7-8 · environment
+activist                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai|rev
+atmosphere               noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai|rev
+campaign                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai|rev
 carbon                   noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
 chemical                 adj    grade=7-8 cefr=B1 topic=environment role=prod conf=60 src=ai
 chemical                 noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
 coal                     noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+conservation             noun   grade=7-8 cefr=B1 topic=environment role=rec conf=55 src=ai|rev
 consume                  verb   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
 consumption              noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
 disaster                 noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
@@ -14,20 +18,23 @@ eco-friendly             adj    grade=7-8 cefr=A2 topic=environment role=prod co
 emission                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
 environment              noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
 environmental            adj    grade=7-8 cefr=B1 topic=environment role=prod conf=70 src=ai
+environmentalist         noun   grade=7-8 cefr=B1 topic=environment role=rec conf=55 src=ai|rev
 environmentally          adv    grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+extinction               noun   grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai|rev
 garbage                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
 gas                      noun   grade=7-8 cefr=A2 topic=environment|science|anglophone.us role=rec conf=55 src=ai|freq
-generation               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
-global                   adj    grade=7-8 cefr=B1 topic=environment role=rec conf=55 src=ai|freq
+generation               noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai|rev
+global                   adj    grade=7-8 cefr=B1 topic=environment role=prod conf=70 src=ai|rev
 greenhouse               noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
 habitat                  noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
 harm                     noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
 harm                     verb   grade=7-8 cefr=B1 topic=environment role=prod conf=60 src=ai
 harmful                  adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
+landfill                 noun   grade=7-8 cefr=B1 topic=environment role=rec conf=55 src=ai|rev
 litter                   noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
 melt                     verb   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
 nuclear                  adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
-organic                  adj    grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
+organic                  adj    grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai|rev
 packaging                noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai
 plastic                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
 pollute                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
@@ -35,7 +42,9 @@ polluted                 adj    grade=7-8 cefr=A2 topic=environment role=prod co
 pollution                noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
 power                    noun   grade=7-8 cefr=B1 topic=environment|technology role=rec conf=65 src=ai|freq
 protect                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
-protection               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
+protection               noun   grade=7-8 cefr=B1 topic=environment role=prod conf=70 src=ai|rev
+protest                  noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai|rev
+protest                  verb   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai|rev
 rainforest               noun   grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
 recycle                  verb   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
 recycling                noun   grade=7-8 cefr=A2 topic=environment role=prod conf=75 src=ai
@@ -45,6 +54,8 @@ reuse                    verb   grade=7-8 cefr=A2 topic=environment role=prod co
 rubbish                  noun   grade=7-8 cefr=A2 topic=environment role=prod conf=65 src=ai
 solar                    adj    grade=7-8 cefr=A2 topic=environment role=prod conf=70 src=ai
 sustainable              adj    grade=7-8 cefr=B1 topic=environment role=rec conf=60 src=ai
+threat                   noun   grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai|rev
+threaten                 verb   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai|rev
 toxic                    adj    grade=7-8 cefr=B1 topic=environment role=rec conf=65 src=ai
 trash                    noun   grade=7-8 cefr=A2 topic=environment role=prod conf=60 src=ai
 warming                  noun   grade=7-8 cefr=B1 topic=environment role=prod conf=65 src=ai

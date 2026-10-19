@@ -3,13 +3,16 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · actions
-get                      verb   grade=3-4 cefr=A1 topic=actions|actions.change|actions.motion role=prod conf=90 src=ai
+get                      verb   grade=3-4 cefr=A1 topic=actions|actions.motion|actions.change role=prod conf=90 src=ai
 let                      verb   grade=3-4 cefr=A1 topic=actions|actions.handling role=prod conf=75 src=ai
 stay                     verb   grade=3-4 cefr=A1 topic=actions|actions.motion|travel role=prod conf=60 src=ai
 visit                    verb   grade=3-4 cefr=A1 topic=actions|actions.motion|travel role=prod conf=60 src=ai
 
 # grade 3-4 · actions.change
+begin                    verb   grade=3-4 cefr=A1 topic=actions.change role=prod conf=60 src=ai|rev
+change                   verb   grade=3-4 cefr=A1 topic=actions.change role=prod conf=60 src=ai|rev
 grow                     verb   grade=3-4 cefr=A1 topic=actions.change|plants role=prod conf=65 src=ai
+happen                   verb   grade=3-4 cefr=A1 topic=actions.change role=prod conf=60 src=ai|rev
 lose                     verb   grade=3-4 cefr=A1 topic=actions.change|sports role=prod conf=60 src=ai
 
 # grade 3-4 · actions.handling
@@ -17,7 +20,7 @@ bring                    verb   grade=3-4 cefr=A1 topic=actions.handling role=pr
 brush                    verb   grade=3-4 cefr=A1 topic=actions.handling|time.clock role=prod conf=80 src=ai
 build                    verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=70 src=ai
 carry                    verb   grade=3-4 cefr=A1 topic=actions.handling|actions.motion role=prod conf=65 src=ai
-clap                     verb   grade=3-4 cefr=A1 topic=actions.handling role=rec conf=75 src=ai
+clap                     verb   grade=3-4 cefr=A1 topic=actions.handling|music_arts role=prod conf=75 src=ai
 clean                    verb   grade=3-4 cefr=A1 topic=actions.handling|home role=prod conf=75 src=ai
 give                     verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=85 src=ai
 hold                     verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=65 src=ai
@@ -26,6 +29,7 @@ pull                     verb   grade=3-4 cefr=A1 topic=actions.handling|actions
 push                     verb   grade=3-4 cefr=A1 topic=actions.handling|actions.motion role=prod conf=65 src=ai
 put                      verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=85 src=ai
 take                     verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=85 src=ai
+use                      verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=60 src=ai|rev
 wash                     verb   grade=3-4 cefr=A1 topic=actions.handling|time.clock role=prod conf=80 src=ai
 wave                     verb   grade=3-4 cefr=A1 topic=actions.handling role=prod conf=70 src=ai
 
@@ -54,25 +58,31 @@ talk                     verb   grade=3-4 cefr=A1 topic=actions.speaking role=pr
 tell                     verb   grade=3-4 cefr=A1 topic=actions.speaking role=prod conf=75 src=ai
 
 # grade 3-4 · actions.thinking
+choose                   verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=60 src=ai|rev
 find                     verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=85 src=ai
+forget                   verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=65 src=ai|rev
 guess                    verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=70 src=ai
 know                     verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=85 src=ai
 need                     verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=75 src=ai
+remember                 verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=65 src=ai|rev
 think                    verb   grade=3-4 cefr=A1 topic=actions.thinking role=rec conf=75 src=ai
 want                     verb   grade=3-4 cefr=A1 topic=actions.thinking role=prod conf=92 src=ai
 
 # grade 5-6 · actions.change
 alive                    adj    grade=5-6 cefr=A2 topic=actions.change role=prod conf=65 src=ai
-appear                   verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=55 src=ai
 become                   verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=65 src=ai
-begin                    verb   grade=5-6 cefr=A1 topic=actions.change role=prod conf=70 src=ai
-belong                   verb   grade=5-6 cefr=A2 topic=actions.change role=rec conf=55 src=ai
-change                   verb   grade=5-6 cefr=A1 topic=actions.change role=prod conf=70 src=ai
+continue                 verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=60 src=ai|rev
 dead                     adj    grade=5-6 cefr=A2 topic=actions.change role=prod conf=65 src=ai
 die                      verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=65 src=ai
+disappear                verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=60 src=ai|rev
+fail                     verb   grade=5-6 cefr=A2 topic=actions.change|school role=prod conf=55 src=ai|rev
 finish                   verb   grade=5-6 cefr=A1 topic=actions.change role=prod conf=75 src=ai
-happen                   verb   grade=5-6 cefr=A1 topic=actions.change role=prod conf=80 src=ai
+freeze                   verb   grade=5-6 cefr=A2 topic=actions.change|weather role=prod conf=60 src=ai|rev
 hurt                     verb   grade=5-6 cefr=A1 topic=actions.change|health role=prod conf=75 src=ai
+kill                     verb   grade=5-6 cefr=A2 topic=actions.change role=prod conf=55 src=ai|rev
+marry                    verb   grade=5-6 cefr=A2 topic=actions.change|family role=prod conf=60 src=ai|rev
+melt                     verb   grade=5-6 cefr=A2 topic=actions.change|weather role=prod conf=60 src=ai|rev
+rest                     verb   grade=5-6 cefr=A2 topic=actions.change|health role=prod conf=60 src=ai|rev
 wake                     verb   grade=5-6 cefr=A1 topic=actions.change|time.clock role=prod conf=80 src=ai
 win                      verb   grade=5-6 cefr=A1 topic=actions.change|sports role=prod conf=75 src=ai
 
@@ -80,16 +90,20 @@ win                      verb   grade=5-6 cefr=A1 topic=actions.change|sports ro
 add                      verb   grade=5-6 cefr=A1 topic=actions.handling|food role=prod conf=70 src=ai
 allow                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
 bake                     verb   grade=5-6 cefr=A1 topic=actions.handling|food role=prod conf=70 src=ai
+beat                     verb   grade=5-6 cefr=A2 topic=actions.handling|sports role=prod conf=60 src=ai|rev
+behave                   verb   grade=5-6 cefr=A2 topic=actions.handling|school role=prod conf=60 src=ai|rev
 bite                     verb   grade=5-6 cefr=A2 topic=actions.handling|animals role=prod conf=60 src=ai
 boil                     verb   grade=5-6 cefr=A2 topic=actions.handling|food role=rec conf=55 src=ai
+book                     verb   grade=5-6 cefr=A2 topic=actions.handling|travel role=prod conf=60 src=ai|rev
 borrow                   verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 break                    verb   grade=5-6 cefr=A1 topic=actions.handling role=prod conf=70 src=ai
 burn                     verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=55 src=ai
+camp                     verb   grade=5-6 cefr=A2 topic=actions.handling|travel role=prod conf=60 src=ai|rev
 catch                    verb   grade=5-6 cefr=A1 topic=actions.handling|sports|transport role=prod conf=65 src=ai
 collect                  verb   grade=5-6 cefr=A1 topic=actions.handling|free_time role=prod conf=80 src=ai
 cook                     verb   grade=5-6 cefr=A1 topic=actions.handling|food role=prod conf=70 src=ai
-cover                    verb   grade=5-6 cefr=A2 topic=actions.handling role=rec conf=55 src=ai
 cut                      verb   grade=5-6 cefr=A1 topic=actions.handling role=prod conf=65 src=ai
+dig                      verb   grade=5-6 cefr=A2 topic=actions.handling role=rec conf=55 src=ai|rev
 dress                    verb   grade=5-6 cefr=A1 topic=actions.handling|time.clock|clothes role=prod conf=70 src=ai
 feed                     verb   grade=5-6 cefr=A1 topic=actions.handling|animals role=prod conf=75 src=ai
 fight                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
@@ -98,49 +112,75 @@ fix                      verb   grade=5-6 cefr=A2 topic=actions.handling role=pr
 fry                      verb   grade=5-6 cefr=A2 topic=actions.handling|food role=rec conf=55 src=ai
 hang:suspend             verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
 hit                      verb   grade=5-6 cefr=A1 topic=actions.handling|sports role=prod conf=65 src=ai
+hug                      verb   grade=5-6 cefr=A2 topic=actions.handling|friends role=prod conf=60 src=ai|rev
 keep                     verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 kick                     verb   grade=5-6 cefr=A1 topic=actions.handling|sports role=prod conf=65 src=ai
+kiss                     verb   grade=5-6 cefr=A2 topic=actions.handling|friends role=rec conf=55 src=ai|rev
 knock                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=55 src=ai
 lay                      verb   grade=5-6 cefr=A2 topic=actions.handling|home role=rec conf=55 src=ai
 lend                     verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
+lock                     verb   grade=5-6 cefr=A2 topic=actions.handling|home role=prod conf=60 src=ai|rev
 mix                      verb   grade=5-6 cefr=A2 topic=actions.handling|food role=prod conf=60 src=ai
+offer                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai|rev
+own                      verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=55 src=ai|rev
 pack                     verb   grade=5-6 cefr=A1 topic=actions.handling|travel role=prod conf=75 src=ai
+park                     verb   grade=5-6 cefr=A2 topic=actions.handling|transport role=prod conf=60 src=ai|rev
 pick                     verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
+plant                    verb   grade=5-6 cefr=A2 topic=actions.handling|plants role=prod conf=60 src=ai|rev
 point                    verb   grade=5-6 cefr=A2 topic=actions.handling|classroom role=prod conf=60 src=ai
 prepare                  verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
+press                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=55 src=ai|rev
+recycle                  verb   grade=5-6 cefr=A2 topic=actions.handling|environment role=prod conf=60 src=ai|rev
+rent                     verb   grade=5-6 cefr=A2 topic=actions.handling|travel role=rec conf=55 src=ai|rev
+repair                   verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai|rev
 rescue                   verb   grade=5-6 cefr=A2 topic=actions.handling|fantasy role=rec conf=55 src=ai
 save                     verb   grade=5-6 cefr=A2 topic=actions.handling|shopping role=prod conf=65 src=ai
 search                   verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
 send                     verb   grade=5-6 cefr=A1 topic=actions.handling role=prod conf=70 src=ai
+serve                    verb   grade=5-6 cefr=A2 topic=actions.handling|food role=rec conf=55 src=ai|rev
 set                      verb   grade=5-6 cefr=A2 topic=actions.handling|home role=prod conf=60 src=ai
 shake                    verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=55 src=ai
 share                    verb   grade=5-6 cefr=A1 topic=actions.handling|friends role=prod conf=70 src=ai
 show                     verb   grade=5-6 cefr=A1 topic=actions.handling role=prod conf=65 src=ai
 shut                     verb   grade=5-6 cefr=A2 topic=actions.handling role=prod conf=60 src=ai
 steal                    verb   grade=5-6 cefr=A2 topic=actions.handling role=rec conf=60 src=ai
+switch                   verb   grade=5-6 cefr=A2 topic=actions.handling|technology role=prod conf=60 src=ai|rev
 throw                    verb   grade=5-6 cefr=A1 topic=actions.handling|sports role=prod conf=60 src=ai
 tidy                     verb   grade=5-6 cefr=A2 topic=actions.handling|home role=prod conf=70 src=ai
-use                      verb   grade=5-6 cefr=A1 topic=actions.handling role=prod conf=70 src=ai
+tie                      verb   grade=5-6 cefr=A2 topic=actions.handling|clothes role=prod conf=60 src=ai|rev
+unpack                   verb   grade=5-6 cefr=A2 topic=actions.handling|travel role=prod conf=60 src=ai|rev
+waste                    verb   grade=5-6 cefr=A2 topic=actions.handling|environment role=prod conf=55 src=ai|rev
+water                    verb   grade=5-6 cefr=A2 topic=actions.handling|plants role=prod conf=60 src=ai|rev
 wrap                     verb   grade=5-6 cefr=A2 topic=actions.handling|celebrations role=prod conf=60 src=ai
 
 # grade 5-6 · actions.motion
 arrive                   verb   grade=5-6 cefr=A1 topic=actions.motion|travel role=prod conf=80 src=ai
 chase                    verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=60 src=ai
 climb                    verb   grade=5-6 cefr=A1 topic=actions.motion role=prod conf=70 src=ai
+crash                    verb   grade=5-6 cefr=A2 topic=actions.motion|transport role=prod conf=60 src=ai|rev
 cross                    verb   grade=5-6 cefr=A1 topic=actions.motion|town role=prod conf=75 src=ai
+dive                     verb   grade=5-6 cefr=A2 topic=actions.motion|sports role=prod conf=60 src=ai|rev
 drive                    verb   grade=5-6 cefr=A1 topic=actions.motion|transport role=prod conf=65 src=ai
 drop                     verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 enter                    verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=55 src=ai
 escape                   verb   grade=5-6 cefr=A2 topic=actions.motion|fantasy role=prod conf=60 src=ai
+exercise                 verb   grade=5-6 cefr=A2 topic=actions.motion|health role=prod conf=60 src=ai|rev
+explore                  verb   grade=5-6 cefr=A2 topic=actions.motion|travel role=prod conf=55 src=ai|rev
 follow                   verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=70 src=ai
 hide                     verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=70 src=ai
 hurry                    verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=70 src=ai
+jog                      verb   grade=5-6 cefr=A2 topic=actions.motion|sports role=prod conf=60 src=ai|rev
+land                     verb   grade=5-6 cefr=A2 topic=actions.motion|transport role=prod conf=60 src=ai|rev
 leave                    verb   grade=5-6 cefr=A1 topic=actions.motion role=prod conf=80 src=ai
 lie:recline              verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=60 src=ai
 miss                     verb   grade=5-6 cefr=A1 topic=actions.motion|transport role=prod conf=70 src=ai
 pass                     verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=60 src=ai
 return                   verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=60 src=ai
+roll                     verb   grade=5-6 cefr=A2 topic=actions.motion role=rec conf=55 src=ai|rev
+rush                     verb   grade=5-6 cefr=A2 topic=actions.motion role=prod conf=55 src=ai|rev
+sail                     verb   grade=5-6 cefr=A2 topic=actions.motion|sports role=prod conf=60 src=ai|rev
 stop                     verb   grade=5-6 cefr=A1 topic=actions.motion role=prod conf=65 src=ai
+surf                     verb   grade=5-6 cefr=A2 topic=actions.motion|sports role=prod conf=60 src=ai|rev
 travel                   verb   grade=5-6 cefr=A1 topic=actions.motion|travel role=prod conf=75 src=ai
 turn                     verb   grade=5-6 cefr=A1 topic=actions.motion|town role=prod conf=75 src=ai
 wait                     verb   grade=5-6 cefr=A1 topic=actions.motion role=prod conf=70 src=ai
@@ -148,12 +188,14 @@ wait                     verb   grade=5-6 cefr=A1 topic=actions.motion role=prod
 # grade 5-6 · actions.perception
 check                    verb   grade=5-6 cefr=A1 topic=actions.perception|classroom role=prod conf=65 src=ai
 feel                     verb   grade=5-6 cefr=A1 topic=actions.perception|feelings role=prod conf=70 src=ai
-notice                   verb   grade=5-6 cefr=A2 topic=actions.perception role=prod conf=50 src=ai
 sound                    verb   grade=5-6 cefr=A2 topic=actions.perception role=prod conf=60 src=ai
 
 # grade 5-6 · actions.speaking
 agree                    verb   grade=5-6 cefr=A2 topic=actions.speaking|thinking role=prod conf=65 src=ai
+apologize                verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=60 src=ai|rev
 chat                     verb   grade=5-6 cefr=A2 topic=actions.speaking|friends role=prod conf=65 src=ai
+cheer                    verb   grade=5-6 cefr=A2 topic=actions.speaking|sports role=prod conf=55 src=ai|rev
+complain                 verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=55 src=ai|rev
 cry                      verb   grade=5-6 cefr=A1 topic=actions.speaking|feelings role=prod conf=65 src=ai
 describe                 verb   grade=5-6 cefr=A2 topic=actions.speaking|classroom role=prod conf=75 src=ai
 explain                  verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
@@ -164,55 +206,63 @@ mean                     verb   grade=5-6 cefr=A1 topic=actions.speaking|classro
 order                    verb   grade=5-6 cefr=A2 topic=actions.speaking|food role=prod conf=70 src=ai
 phone                    verb   grade=5-6 cefr=A1 topic=actions.speaking role=prod conf=60 src=ai
 promise                  verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
+reply                    verb   grade=5-6 cefr=A2 topic=actions.speaking|communication role=prod conf=60 src=ai|rev
 scream                   verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=60 src=ai
 thank                    verb   grade=5-6 cefr=A1 topic=actions.speaking|communication role=prod conf=65 src=ai
 whisper                  verb   grade=5-6 cefr=A2 topic=actions.speaking role=prod conf=60 src=ai
 
 # grade 5-6 · actions.thinking
 believe                  verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=65 src=ai
-choose                   verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
+care                     verb   grade=5-6 cefr=A2 topic=actions.thinking role=rec conf=55 src=ai|rev
+compare                  verb   grade=5-6 cefr=A2 topic=actions.thinking|classroom role=prod conf=60 src=ai|rev
 decide                   verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
+discover                 verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=55 src=ai|rev
+dislike                  verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=60 src=ai|rev
 dream                    verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=60 src=ai
 enjoy                    verb   grade=5-6 cefr=A1 topic=actions.thinking|free_time role=prod conf=75 src=ai
-forget                   verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=75 src=ai
 hate                     verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=65 src=ai
 hope                     verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=70 src=ai
 imagine                  verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=60 src=ai
+invent                   verb   grade=5-6 cefr=A2 topic=actions.thinking role=rec conf=55 src=ai|rev
 mind                     verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=55 src=ai
 plan                     verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=70 src=ai
 prefer                   verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
-remember                 verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=75 src=ai
 try                      verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=70 src=ai
 understand               verb   grade=5-6 cefr=A1 topic=actions.thinking role=prod conf=60 src=ai
 wish                     verb   grade=5-6 cefr=A2 topic=actions.thinking|celebrations role=prod conf=65 src=ai
-wonder                   verb   grade=5-6 cefr=A2 topic=actions.thinking role=prod conf=55 src=ai
 worry                    verb   grade=5-6 cefr=A2 topic=actions.thinking|feelings role=prod conf=70 src=ai
 
 # grade 7-8 · actions.change
+achievement              noun   grade=7-8 cefr=B1 topic=actions.change role=prod conf=65 src=ai|rev
 affect                   verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=70 src=ai
+appear                   verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 cause                    verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
-continue                 verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 decrease                 verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=65 src=ai
 depend                   verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 develop                  verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
-disappear                verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
+effort                   noun   grade=7-8 cefr=B1 topic=actions.change role=prod conf=65 src=ai|rev
 exist                    verb   grade=7-8 cefr=B1 topic=actions.change role=prod conf=70 src=ai
-fail                     verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 improve                  verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=75 src=ai
+improvement              noun   grade=7-8 cefr=B1 topic=actions.change role=prod conf=65 src=ai|rev
+increase                 noun   grade=7-8 cefr=B1 topic=actions.change role=prod conf=60 src=ai|rev
 increase                 verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
+involve                  verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=60 src=ai|rev
 occur                    verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=65 src=ai
+progress                 noun   grade=7-8 cefr=B1 topic=actions.change role=prod conf=65 src=ai|rev
 reduce                   verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 remain                   verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=70 src=ai
+require                  verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=60 src=ai|rev
 result                   verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=60 src=ai
 rise                     verb   grade=7-8 cefr=A2 topic=actions.change role=prod conf=70 src=ai
 spread                   verb   grade=7-8 cefr=B1 topic=actions.change role=rec conf=70 src=ai
 succeed                  verb   grade=7-8 cefr=B1 topic=actions.change role=prod conf=70 src=ai
 
 # grade 7-8 · actions.handling
-arrange                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
+arrange                  verb   grade=7-8 cefr=B1 topic=actions.handling role=prod conf=65 src=ai|rev
 attach                   verb   grade=7-8 cefr=B1 topic=actions.handling role=rec conf=65 src=ai
 connect                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
-contain                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
+contain                  verb   grade=7-8 cefr=B1 topic=actions.handling role=prod conf=70 src=ai|rev
+cover                    verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai|rev
 create                   verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 damage                   verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 deliver                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
@@ -225,59 +275,52 @@ include                  verb   grade=7-8 cefr=A2 topic=actions.handling|friends
 lift                     verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 material                 noun   grade=7-8 cefr=B1 topic=actions.handling|environment role=rec conf=55 src=ai|freq
 measure                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
-own                      verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 pour                     verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 produce                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 provide                  verb   grade=7-8 cefr=B1 topic=actions.handling role=rec conf=70 src=ai
 remove                   verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
-repair                   verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 replace                  verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=70 src=ai
 separate                 verb   grade=7-8 cefr=B1 topic=actions.handling role=prod conf=65 src=ai
 stick                    verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 supply                   verb   grade=7-8 cefr=B1 topic=actions.handling role=rec conf=60 src=ai
 tear                     verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
-tie                      verb   grade=7-8 cefr=A2 topic=actions.handling role=prod conf=65 src=ai
 
 # grade 7-8 · actions.motion
 approach                 verb   grade=7-8 cefr=B1 topic=actions.motion role=rec conf=65 src=ai
 crawl                    verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
-dive                     verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 float                    verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 lead:guide               verb   grade=7-8 cefr=B1 topic=actions.motion role=rec conf=55 src=ai|freq
 reach                    verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=70 src=ai
-rush                     verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 sink                     verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 slip                     verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 step                     verb   grade=7-8 cefr=A2 topic=actions.motion role=prod conf=65 src=ai
 wander                   verb   grade=7-8 cefr=B1 topic=actions.motion role=rec conf=65 src=ai
 
 # grade 7-8 · actions.perception
+notice                   verb   grade=7-8 cefr=A2 topic=actions.perception role=prod conf=75 src=ai
 observe                  verb   grade=7-8 cefr=B1 topic=actions.perception role=rec conf=65 src=ai
-sense                    noun   grade=7-8 cefr=A2 topic=actions.perception role=prod conf=65 src=ai
-stare                    verb   grade=7-8 cefr=A2 topic=actions.perception role=prod conf=65 src=ai
+sense                    noun   grade=7-8 cefr=B1 topic=actions.perception role=prod conf=65 src=ai|rev
+stare                    verb   grade=7-8 cefr=B1 topic=actions.perception role=prod conf=65 src=ai|rev
 
 # grade 7-8 · actions.speaking
 advise                   verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=70 src=ai
 announce                 verb   grade=7-8 cefr=B1 topic=actions.speaking role=rec conf=70 src=ai
-apologize                verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=80 src=ai
 argue                    verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
 beg                      verb   grade=7-8 cefr=B1 topic=actions.speaking role=rec conf=65 src=ai
 claim                    verb   grade=7-8 cefr=B1 topic=actions.speaking role=rec conf=65 src=ai
-communicate              verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
-complain                 verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
+communicate              verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=70 src=ai|rev
 convince                 verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=70 src=ai
 deny                     verb   grade=7-8 cefr=B1 topic=actions.speaking role=rec conf=65 src=ai
 discuss                  verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
 express                  verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=65 src=ai
 greet                    verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
-inform                   verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
+inform                   verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=70 src=ai|rev
 insist                   verb   grade=7-8 cefr=B1 topic=actions.speaking role=rec conf=65 src=ai
 interrupt                verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
 mention                  verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
 persuade                 verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=70 src=ai
 pronounce                verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=65 src=ai
 recommend                verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
-reply                    verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
 report                   verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=70 src=ai
 respond                  verb   grade=7-8 cefr=B1 topic=actions.speaking role=prod conf=65 src=ai
 suggest                  verb   grade=7-8 cefr=A2 topic=actions.speaking role=prod conf=75 src=ai
@@ -314,3 +357,4 @@ seem                     verb   grade=7-8 cefr=A2 topic=actions.thinking role=pr
 suppose                  verb   grade=7-8 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
 suspect                  verb   grade=7-8 cefr=B1 topic=actions.thinking role=rec conf=65 src=ai
 trust                    verb   grade=7-8 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai
+wonder                   verb   grade=7-8 cefr=A2 topic=actions.thinking role=prod conf=70 src=ai

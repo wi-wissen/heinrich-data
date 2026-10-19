@@ -7,25 +7,31 @@ friend                   noun   grade=3-4 cefr=A1 topic=friends role=prod conf=9
 meet                     verb   grade=3-4 cefr=A1 topic=friends role=prod conf=65 src=ai
 
 # grade 5-6 · friends
+boyfriend                noun   grade=5-6 cefr=A2 topic=friends role=prod conf=65 src=ai|rev
 classmate                noun   grade=5-6 cefr=A2 topic=friends|school role=prod conf=65 src=ai
+girlfriend               noun   grade=5-6 cefr=A2 topic=friends role=prod conf=65 src=ai|rev
 guest                    noun   grade=5-6 cefr=A1 topic=friends|celebrations role=prod conf=70 src=ai
 neighbor                 noun   grade=5-6 cefr=A1 topic=friends|home role=prod conf=70 src=ai
 penfriend                noun   grade=5-6 cefr=A2 topic=friends|communication role=rec conf=55 src=ai
 sleepover                noun   grade=5-6 cefr=A2 topic=friends|free_time role=prod conf=55 src=ai
+stranger                 noun   grade=5-6 cefr=A2 topic=friends role=prod conf=55 src=ai|rev
+visitor                  noun   grade=5-6 cefr=A2 topic=friends|travel role=prod conf=60 src=ai|rev
 
 # grade 7-8 · friends
 accept                   verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
+acquaintance             noun   grade=7-8 cefr=B1 topic=friends role=rec conf=55 src=ai|rev
 adult                    noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 advice                   noun   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 belong                   verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 betray                   verb   grade=7-8 cefr=B1 topic=friends role=rec conf=60 src=ai
 blame                    verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
-boyfriend                noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 bully                    noun   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 bully                    verb   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 bullying                 noun   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 care                     verb   grade=7-8 cefr=A2 topic=friends role=prod conf=60 src=ai
 cheat                    verb   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
+conflict                 noun   grade=7-8 cefr=B1 topic=friends role=prod conf=65 src=ai|rev
+considerate              adj    grade=7-8 cefr=B1 topic=friends role=rec conf=55 src=ai|rev
 couple                   noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 crush                    noun   grade=7-8 cefr=A2 topic=friends role=prod conf=60 src=ai
 divorced                 adj    grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
@@ -33,18 +39,21 @@ exclude                  verb   grade=7-8 cefr=B1 topic=friends role=rec conf=60
 fight                    noun   grade=7-8 cefr=A2 topic=friends role=prod conf=60 src=ai
 friendship               noun   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 gang                     noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
-girlfriend               noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 gossip                   noun   grade=7-8 cefr=B1 topic=friends role=rec conf=65 src=ai
 gossip                   verb   grade=7-8 cefr=B1 topic=friends role=rec conf=65 src=ai
 guy                      noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 ignore                   verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
+influence                noun   grade=7-8 cefr=B1 topic=friends role=prod conf=65 src=ai|rev
+influence                verb   grade=7-8 cefr=B1 topic=friends role=prod conf=65 src=ai|rev
 invitation               noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 liar                     noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 lie                      noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 lie:untruth              verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
+loyalty                  noun   grade=7-8 cefr=B1 topic=friends role=rec conf=65 src=ai|rev
 married                  adj    grade=7-8 cefr=A2 topic=friends role=prod conf=60 src=ai
 marry                    verb   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 mate                     noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
+misunderstanding         noun   grade=7-8 cefr=B1 topic=friends role=prod conf=65 src=ai|rev
 partner                  noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 peer                     noun   grade=7-8 cefr=B1 topic=friends role=rec conf=65 src=ai
 quarrel                  noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
@@ -52,10 +61,12 @@ quarrel                  verb   grade=7-8 cefr=A2 topic=friends role=prod conf=6
 relationship             noun   grade=7-8 cefr=A2 topic=friends role=prod conf=75 src=ai
 respect                  noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 respect                  verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
-stranger                 noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
+respectful               adj    grade=7-8 cefr=B1 topic=friends role=prod conf=60 src=ai|rev
+reunite                  verb   grade=7-8 cefr=B1 topic=friends role=rec conf=50 src=ai|rev
+rumor                    noun   grade=7-8 cefr=B1 topic=friends role=prod conf=65 src=ai|rev
 support                  noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 support                  verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
-tease                    verb   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
+tease                    verb   grade=7-8 cefr=B1 topic=friends role=prod conf=70 src=ai|rev
 teen                     noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai
 teenager                 noun   grade=7-8 cefr=A2 topic=friends role=prod conf=70 src=ai
 trouble                  noun   grade=7-8 cefr=A2 topic=friends role=prod conf=65 src=ai

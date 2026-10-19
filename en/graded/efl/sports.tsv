@@ -22,8 +22,9 @@ throw                    verb   grade=3-4 cefr=A1 topic=sports|actions.handling 
 win                      verb   grade=3-4 cefr=A1 topic=sports role=rec conf=70 src=ai
 
 # grade 5-6 · sports
+athletics                noun   grade=5-6 cefr=A2 topic=sports role=rec conf=55 src=ai|rev
 badminton                noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
-baseball                 noun   grade=5-6 cefr=A2 topic=sports|anglophone.us role=rec conf=60 src=ai|freq
+baseball                 noun   grade=5-6 cefr=A2 topic=sports|anglophone.us role=rec conf=55 src=ai|rev
 captain                  noun   grade=5-6 cefr=A2 topic=sports|jobs|fantasy role=rec conf=60 src=ai|freq
 coach                    noun   grade=5-6 cefr=A2 topic=sports role=rec conf=55 src=ai
 competition              noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
@@ -31,17 +32,23 @@ cricket                  noun   grade=5-6 cefr=A2 topic=sports|anglophone.uk rol
 fan                      noun   grade=5-6 cefr=A2 topic=sports|music_arts role=prod conf=65 src=ai
 field                    noun   grade=5-6 cefr=A1 topic=sports|nature role=prod conf=65 src=ai
 goal                     noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
+golf                     noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
+gymnastics               noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
+helmet                   noun   grade=5-6 cefr=A2 topic=sports|transport role=prod conf=60 src=ai|rev
 hockey                   noun   grade=5-6 cefr=A1 topic=sports role=prod conf=65 src=ai
 match                    noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
-net                      noun   grade=5-6 cefr=A2 topic=sports|animals role=rec conf=55 src=ai|freq
+net                      noun   grade=5-6 cefr=A2 topic=sports|animals role=rec conf=55 src=ai|rev
 player                   noun   grade=5-6 cefr=A1 topic=sports role=prod conf=75 src=ai
+point                    noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 prize                    noun   grade=5-6 cefr=A2 topic=sports|celebrations role=prod conf=65 src=ai
 race                     noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
+racket                   noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 rugby                    noun   grade=5-6 cefr=A2 topic=sports|anglophone.uk role=prod conf=65 src=ai
 score                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
 stadium                  noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
 train                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
 volleyball               noun   grade=5-6 cefr=A1 topic=sports role=prod conf=60 src=ai
+winner                   noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai|rev
 
 # grade 7-8 · sports
 athlete                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai

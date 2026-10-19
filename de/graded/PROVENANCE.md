@@ -38,3 +38,10 @@ repositories and their own scratch directory.
 | 2026-10-19 | The orchestrator's lemma index for authors missed lexemes the generator derives (`adv=` adverbs in English, `demonym=` adjectives). | Index regenerated; authors re-checked their work lists (follow-up messages in the run logs). |
 | 2026-10-19 | Authors of neighbouring bands each left out seam words, assuming the other band had them (`Ende`, `Welt`, `bleiben`; `thing`, `question`). | Found with our own frequency list; seam runs `de-seam`, `en-seam`. |
 | 2026-10-19 | New separable verbs with an adjective particle (`kleinschreiben`, `kaputtgehen`) blocked the agreement rule for a missing adjective ending. | Entries removed before merge; rule finding reported to the engine side. |
+
+## Reviewer rounds and revisions
+
+| date | step | topics / runs | input to authors | result |
+|---|---|---|---|---|
+| 2026-10-19 | reviewer round 1 (separate session; references outside the repos, deleted afterwards) | whole layer | – | aggregate statistics and patterns only (verbatim log handed to the project owner) |
+| 2026-10-19 | revision round 1 | `de-l1-core-1-2`, `de-l1-core-3-4`, `de-moved` | patterns and per-topic numbers (verbatim in the run logs) | +104 verbs in 1-2, 25 words moved 1-2 → 3-4, +311 lines in 3-4 (`src=…\|rev`); layer: 3,577 lexemes, `graded validate` 0 errors, 0 warnings |

@@ -3,6 +3,7 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · self
+age                      noun   grade=3-4 cefr=A1 topic=self role=prod conf=65 src=ai|rev
 baby                     noun   grade=3-4 cefr=A1 topic=self|family role=prod conf=88 src=ai
 boy                      noun   grade=3-4 cefr=A1 topic=self role=prod conf=98 src=ai
 Britain                  propn  grade=3-4 cefr=A1 topic=self|countries role=rec conf=65 src=ai
@@ -15,25 +16,28 @@ live                     verb   grade=3-4 cefr=A1 topic=self|home role=prod conf
 man                      noun   grade=3-4 cefr=A1 topic=self role=prod conf=85 src=ai
 name                     noun   grade=3-4 cefr=A1 topic=self role=prod conf=98 src=ai
 people                   noun   grade=3-4 cefr=A1 topic=self role=prod conf=75 src=ai
+person                   noun   grade=3-4 cefr=A1 topic=self role=prod conf=65 src=ai|rev
 woman                    noun   grade=3-4 cefr=A1 topic=self role=prod conf=85 src=ai
 
 # grade 5-6 · self
 address                  noun   grade=5-6 cefr=A1 topic=self role=prod conf=75 src=ai
 adult                    noun   grade=5-6 cefr=A2 topic=self role=rec conf=55 src=ai
-age                      noun   grade=5-6 cefr=A1 topic=self role=prod conf=70 src=ai
 birth                    noun   grade=5-6 cefr=A2 topic=self|family role=rec conf=55 src=ai|freq
 born                     adj    grade=5-6 cefr=A1 topic=self role=prod conf=75 src=ai
+height                   noun   grade=5-6 cefr=A2 topic=self|qualities.size role=prod conf=60 src=ai|rev
 kid                      noun   grade=5-6 cefr=A1 topic=self role=prod conf=60 src=ai
 life                     noun   grade=5-6 cefr=A1 topic=self role=prod conf=65 src=ai
-person                   noun   grade=5-6 cefr=A1 topic=self role=prod conf=70 src=ai
+nationality              noun   grade=5-6 cefr=A2 topic=self|countries role=prod conf=55 src=ai|rev
+nickname                 noun   grade=5-6 cefr=A2 topic=self role=prod conf=60 src=ai|rev
 surname                  noun   grade=5-6 cefr=A2 topic=self role=prod conf=70 src=ai
 teenager                 noun   grade=5-6 cefr=A2 topic=self|identity role=prod conf=65 src=ai
+weight                   noun   grade=5-6 cefr=A2 topic=self|qualities.size role=rec conf=55 src=ai|rev
 
 # grade 7-8 · self
-aim                      noun   grade=7-8 cefr=A2 topic=self role=prod conf=65 src=ai
+aim                      noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai|rev
 ambition                 noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai
 appearance               noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai
-attractive               adj    grade=7-8 cefr=A2 topic=self role=prod conf=65 src=ai
+attractive               adj    grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai|rev
 background               noun   grade=7-8 cefr=B1 topic=self role=prod conf=60 src=ai
 childhood                noun   grade=7-8 cefr=A2 topic=self role=prod conf=70 src=ai
 female                   adj    grade=7-8 cefr=B1 topic=self|animals role=rec conf=55 src=ai|freq
@@ -43,7 +47,6 @@ good-looking             adj    grade=7-8 cefr=A2 topic=self role=prod conf=65 s
 identity                 noun   grade=7-8 cefr=B1 topic=self role=rec conf=60 src=ai
 interest                 noun   grade=7-8 cefr=A2 topic=self role=prod conf=65 src=ai
 male                     adj    grade=7-8 cefr=B1 topic=self|animals role=rec conf=55 src=ai|freq
-nationality              noun   grade=7-8 cefr=A2 topic=self|countries role=prod conf=70 src=ai
 personal                 adj    grade=7-8 cefr=B1 topic=self role=rec conf=60 src=ai|freq
-religion                 noun   grade=7-8 cefr=A2 topic=self role=prod conf=65 src=ai
-youth                    noun   grade=7-8 cefr=A2 topic=self role=prod conf=65 src=ai
+religion                 noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai|rev
+youth                    noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai|rev

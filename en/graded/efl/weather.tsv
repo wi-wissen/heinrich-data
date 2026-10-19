@@ -29,7 +29,9 @@ air                      noun   grade=5-6 cefr=A2 topic=weather|nature|environme
 degree                   noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
 fog                      noun   grade=5-6 cefr=A2 topic=weather role=prod conf=60 src=ai
 forecast                 noun   grade=5-6 cefr=A2 topic=weather role=prod conf=55 src=ai
+heat                     noun   grade=5-6 cefr=A2 topic=weather role=rec conf=55 src=ai|rev
 ice                      noun   grade=5-6 cefr=A1 topic=weather role=prod conf=65 src=ai
+icy                      adj    grade=5-6 cefr=A2 topic=weather role=prod conf=60 src=ai|rev
 lightning                noun   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
 shine                    verb   grade=5-6 cefr=A2 topic=weather role=prod conf=65 src=ai
 sunshine                 noun   grade=5-6 cefr=A2 topic=weather role=prod conf=60 src=ai
@@ -40,6 +42,5 @@ thunder                  noun   grade=5-6 cefr=A2 topic=weather role=prod conf=6
 climate                  noun   grade=7-8 cefr=A2 topic=weather role=prod conf=70 src=ai
 drought                  noun   grade=7-8 cefr=B1 topic=weather role=prod conf=65 src=ai
 flood                    noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai
-heat                     noun   grade=7-8 cefr=A2 topic=weather role=rec conf=55 src=ai|freq
 hurricane                noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai
 tornado                  noun   grade=7-8 cefr=A2 topic=weather role=prod conf=65 src=ai

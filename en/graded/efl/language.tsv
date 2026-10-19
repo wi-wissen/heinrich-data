@@ -10,7 +10,7 @@ abbreviation             noun   grade=7-8 cefr=B1 topic=language role=rec conf=6
 active                   adj    grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai
 adverb                   noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
 apostrophe               noun   grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai
-clause                   noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
+clause                   noun   grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 conditional              adj    grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
 conjunction              noun   grade=7-8 cefr=B1 topic=language role=prod conf=60 src=ai
 direct                   adj    grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai
@@ -19,7 +19,7 @@ gerund                   noun   grade=7-8 cefr=A2 topic=language role=prod conf=
 indirect                 adj    grade=7-8 cefr=B1 topic=language role=prod conf=60 src=ai
 infinitive               noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
 object                   noun   grade=7-8 cefr=B1 topic=language role=rec conf=50 src=ai|freq
-participle               noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
+participle               noun   grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 passive                  adj    grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
 passive                  noun   grade=7-8 cefr=A2 topic=language role=prod conf=70 src=ai
 perfect                  noun   grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai

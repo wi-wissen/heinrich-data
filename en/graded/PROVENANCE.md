@@ -28,3 +28,10 @@ repositories and their own scratch directory.
 | 2026-10-19 | `en-seam` | efl / 3-4 to 7-8 | AI author | same, plus the lemmas among the 3,000 most frequent forms of our own frequency list not yet in the layer (`src=ai\|freq`) | 191 rows; 677 lemma/POS pairs judged later or not school vocabulary | 0 errors | – |
 | 2026-10-19 | `lex-en` | lexicon (not the layer) | AI lexicon author (clean-room lexicon protocol) | the authors' work list | 77 lexicon entries (`note=graded`, heinrich-data#73) | `validate` 0 errors | – |
 | 2026-10-19 | merge (orchestrator) | efl | mechanical | the runs above | 48 files, 2,888 rows, 2,823 lexemes; duplicates resolved to the earliest band and lowest level | `graded validate` 0 errors, 0 warnings | – |
+
+## Reviewer rounds and revisions
+
+| date | step | topics / runs | input to authors | result |
+|---|---|---|---|---|
+| 2026-10-19 | reviewer round 1 (separate session; one reference outside the repos, deleted afterwards) | whole layer | – | aggregate statistics and patterns only (verbatim log handed to the project owner) |
+| 2026-10-19 | revision round 1 | `en-efl-3-4`, `en-efl-5-6`, `en-efl-7-8` | patterns and per-topic numbers (verbatim in the run logs) | 3-4: rarer animals/toys/food moved out of A1, core A1 and function words added; 5-6: A2 460 → 890 lines; 7-8: 73 lines A2 → B1, +144 lines; layer: 3,169 lexemes, `graded validate` 0 errors, 0 warnings |

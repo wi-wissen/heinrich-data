@@ -8,8 +8,7 @@ grass                    noun   grade=3-4 cefr=A1 topic=plants role=rec conf=80 
 leaf                     noun   grade=3-4 cefr=A1 topic=plants role=prod conf=75 src=ai
 
 # grade 5-6 · plants
+branch                   noun   grade=5-6 cefr=A2 topic=plants|nature role=prod conf=60 src=ai|rev
+bush                     noun   grade=5-6 cefr=A2 topic=plants role=prod conf=60 src=ai|rev
 plant                    noun   grade=5-6 cefr=A1 topic=plants role=prod conf=65 src=ai
-rose                     noun   grade=5-6 cefr=A2 topic=plants role=prod conf=60 src=ai|freq
-
-# grade 7-8 · plants
-branch                   noun   grade=7-8 cefr=B1 topic=plants|nature role=rec conf=50 src=ai|freq
+rose                     noun   grade=5-6 cefr=A2 topic=plants role=prod conf=60 src=ai|rev

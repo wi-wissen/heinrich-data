@@ -3,11 +3,13 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · classroom
+answer                   noun   grade=3-4 cefr=A1 topic=classroom role=prod conf=75 src=ai|rev
 circle                   verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=70 src=ai
 close                    verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=90 src=ai
 come                     verb   grade=3-4 cefr=A1 topic=classroom|actions.motion role=prod conf=95 src=ai
 cut                      verb   grade=3-4 cefr=A1 topic=classroom|actions.handling role=prod conf=85 src=ai
 draw                     verb   grade=3-4 cefr=A1 topic=classroom|music_arts role=prod conf=92 src=ai
+example                  noun   grade=3-4 cefr=A1 topic=classroom role=prod conf=60 src=ai|rev
 finish                   verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=70 src=ai
 glue                     verb   grade=3-4 cefr=A1 topic=classroom|actions.handling role=rec conf=75 src=ai
 group                    noun   grade=3-4 cefr=A1 topic=classroom role=prod conf=70 src=ai
@@ -16,14 +18,16 @@ learn                    verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=
 listen                   verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=95 src=ai
 look                     verb   grade=3-4 cefr=A1 topic=classroom|actions.perception role=prod conf=98 src=ai
 match                    verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=80 src=ai
+mean                     verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=70 src=ai|rev
 open                     verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=92 src=ai
 paint                    verb   grade=3-4 cefr=A1 topic=classroom|music_arts role=prod conf=85 src=ai
 partner                  noun   grade=3-4 cefr=A1 topic=classroom role=rec conf=65 src=ai
 point                    verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=85 src=ai
-question                 noun   grade=3-4 cefr=A1 topic=classroom role=prod conf=90 src=ai|freq
+question                 noun   grade=3-4 cefr=A1 topic=classroom role=prod conf=80 src=ai|rev
 read                     verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=92 src=ai
 ready                    adj    grade=3-4 cefr=A1 topic=classroom role=prod conf=80 src=ai
 repeat                   verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=85 src=ai
+sentence                 noun   grade=3-4 cefr=A1 topic=classroom|language role=prod conf=60 src=ai|rev
 show                     verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=85 src=ai
 sit                      verb   grade=3-4 cefr=A1 topic=classroom|actions.motion role=prod conf=95 src=ai
 spell                    verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=70 src=ai
@@ -40,36 +44,42 @@ work                     verb   grade=3-4 cefr=A1 topic=classroom role=rec conf=
 write                    verb   grade=3-4 cefr=A1 topic=classroom role=prod conf=92 src=ai
 
 # grade 5-6 · classroom
-answer                   noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=60 src=ai
+act                      verb   grade=5-6 cefr=A2 topic=classroom|music_arts role=prod conf=60 src=ai|rev
 complete                 verb   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
 copy                     verb   grade=5-6 cefr=A1 topic=classroom role=prod conf=65 src=ai
 correct                  verb   grade=5-6 cefr=A2 topic=classroom role=rec conf=55 src=ai
 design                   verb   grade=5-6 cefr=A2 topic=classroom|music_arts role=rec conf=60 src=ai|freq
 dialogue                 noun   grade=5-6 cefr=A2 topic=classroom role=rec conf=60 src=ai
 dictionary               noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
-example                  noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=75 src=ai
 exercise                 noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
 grammar                  noun   grade=5-6 cefr=A2 topic=classroom|language role=rec conf=60 src=ai
 homework                 noun   grade=5-6 cefr=A1 topic=classroom|school role=prod conf=75 src=ai
+information              noun   grade=5-6 cefr=A2 topic=classroom|communication role=prod conf=65 src=ai|rev
 line                     noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=65 src=ai
 list                     noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
 mark                     noun   grade=5-6 cefr=A2 topic=classroom|school role=prod conf=65 src=ai
-meaning                  noun   grade=5-6 cefr=A2 topic=classroom|language role=prod conf=65 src=ai|freq
+meaning                  noun   grade=5-6 cefr=A2 topic=classroom|language role=prod conf=65 src=ai|rev
 mistake                  noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=75 src=ai
 note                     noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=65 src=ai
+order                    noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai|rev
 part                     noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=65 src=ai
 poster                   noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=65 src=ai
 practice                 verb   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
+presentation             noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai|rev
 project                  noun   grade=5-6 cefr=A2 topic=classroom|school role=prod conf=65 src=ai
+pronounce                verb   grade=5-6 cefr=A2 topic=classroom role=rec conf=55 src=ai|rev
 raise                    verb   grade=5-6 cefr=A2 topic=classroom role=rec conf=55 src=ai|freq
+revise                   verb   grade=5-6 cefr=A2 topic=classroom|anglophone.uk role=rec conf=55 src=ai|rev
 rule                     noun   grade=5-6 cefr=A2 topic=classroom|school role=prod conf=65 src=ai
-sentence                 noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=75 src=ai
 sort                     verb   grade=5-6 cefr=A2 topic=classroom role=rec conf=55 src=ai|freq
+spelling                 noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai|rev
 task                     noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai
 test                     noun   grade=5-6 cefr=A1 topic=classroom|school role=prod conf=70 src=ai
 text                     noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
-title                    noun   grade=5-6 cefr=A2 topic=classroom|literature role=prod conf=65 src=ai|freq
+title                    noun   grade=5-6 cefr=A2 topic=classroom|literature role=prod conf=60 src=ai|rev
+topic                    noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai|rev
 translate                verb   grade=5-6 cefr=A2 topic=classroom role=prod conf=65 src=ai
+translation              noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=60 src=ai|rev
 underline                verb   grade=5-6 cefr=A2 topic=classroom role=rec conf=60 src=ai
 unit                     noun   grade=5-6 cefr=A1 topic=classroom|school role=rec conf=65 src=ai|freq
 vocabulary               noun   grade=5-6 cefr=A2 topic=classroom role=prod conf=70 src=ai

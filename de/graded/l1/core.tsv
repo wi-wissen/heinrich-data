@@ -5,7 +5,7 @@
 # grade 1-2 · actions.change
 anfangen                 verb   grade=1-2 topic=actions.change role=prod conf=82 src=ai
 aufhören                 verb   grade=1-2 topic=actions.change role=prod conf=80 src=ai
-beginnen                 verb   grade=1-2 topic=actions.change role=prod conf=80 src=ai|freq
+beginnen                 verb   grade=1-2 topic=actions.change role=prod conf=70 src=ai|rev
 bleiben                  verb   grade=1-2 topic=actions.change role=prod conf=90 src=ai|freq
 gehören                  verb   grade=1-2 topic=actions.change role=prod conf=75 src=ai
 los                      adj    grade=1-2 topic=actions.change role=prod conf=85 src=ai|freq
@@ -14,86 +14,138 @@ reichen                  verb   grade=1-2 topic=actions.change role=prod conf=70
 sterben                  verb   grade=1-2 topic=actions.change role=prod conf=75 src=ai|freq
 
 # grade 1-2 · actions.handling
+abholen                  verb   grade=1-2 topic=actions.handling role=prod conf=80 src=ai|rev
+anfassen                 verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
 arbeiten                 verb   grade=1-2 topic=actions.handling role=prod conf=85 src=ai
+aufbauen                 verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai|rev
+aufblasen                verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai|rev
+aufheben                 verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
 aufmachen                verb   grade=1-2 topic=actions.handling role=prod conf=85 src=ai
+auspacken                verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai|rev
 bauen                    verb   grade=1-2 topic=actions.handling role=prod conf=90 src=ai
 bekommen                 verb   grade=1-2 topic=actions.handling role=prod conf=88 src=ai
 brauchen                 verb   grade=1-2 topic=actions.handling role=prod conf=88 src=ai
 bringen                  verb   grade=1-2 topic=actions.handling role=prod conf=88 src=ai
+drehen                   verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai|rev
 drücken                  verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai
 einkaufen                verb   grade=1-2 topic=actions.handling role=prod conf=80 src=ai
+einpacken                verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
+falten                   verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai|rev
+festhalten               verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
+füllen                   verb   grade=1-2 topic=actions.handling role=prod conf=70 src=ai|rev
 geben                    verb   grade=1-2 topic=actions.handling role=prod conf=95 src=ai
 halten                   verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai
 helfen                   verb   grade=1-2 topic=actions.handling role=prod conf=95 src=ai
+hochheben                verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai|rev
 holen                    verb   grade=1-2 topic=actions.handling role=prod conf=88 src=ai
+hängen:transitive        verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
 kaufen                   verb   grade=1-2 topic=actions.handling role=prod conf=92 src=ai
+klingeln                 verb   grade=1-2 topic=actions.handling role=prod conf=80 src=ai|rev
+klopfen                  verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
 lassen                   verb   grade=1-2 topic=actions.handling role=prod conf=85 src=ai|freq
 legen                    verb   grade=1-2 topic=actions.handling role=prod conf=85 src=ai
+leihen                   verb   grade=1-2 topic=actions.handling|money role=prod conf=72 src=ai|rev
+loslassen                verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai|rev
 machen                   verb   grade=1-2 topic=actions.handling role=prod conf=99 src=ai
+mischen                  verb   grade=1-2 topic=actions.handling role=prod conf=70 src=ai|rev
 mitnehmen                verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai
 nehmen                   verb   grade=1-2 topic=actions.handling role=prod conf=92 src=ai
+packen                   verb   grade=1-2 topic=actions.handling role=prod conf=70 src=ai|rev
+pusten                   verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai|rev
+rollen                   verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai|rev
+sammeln                  verb   grade=1-2 topic=actions.handling role=prod conf=80 src=ai|rev
 schaffen:manage          verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai|freq
+schließen                verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai|rev
+schütteln                verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai|rev
 setzen                   verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai
+stecken                  verb   grade=1-2 topic=actions.handling role=prod conf=78 src=ai|rev
 stellen                  verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai
+tauschen                 verb   grade=1-2 topic=actions.handling|money role=prod conf=75 src=ai|rev
 teilen                   verb   grade=1-2 topic=actions.handling role=prod conf=75 src=ai
 tun                      verb   grade=1-2 topic=actions.handling role=prod conf=88 src=ai
+wegwerfen                verb   grade=1-2 topic=actions.handling|environment role=prod conf=78 src=ai|rev
 ziehen                   verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai
 zumachen                 verb   grade=1-2 topic=actions.handling role=prod conf=82 src=ai
 öffnen                   verb   grade=1-2 topic=actions.handling role=prod conf=72 src=ai
 
 # grade 1-2 · actions.motion
 ankommen                 verb   grade=1-2 topic=actions.motion role=prod conf=75 src=ai
+aussteigen               verb   grade=1-2 topic=actions.motion|traffic role=prod conf=78 src=ai|rev
+einsteigen               verb   grade=1-2 topic=actions.motion|traffic role=prod conf=78 src=ai|rev
 fahren                   verb   grade=1-2 topic=actions.motion role=prod conf=95 src=ai
 fallen                   verb   grade=1-2 topic=actions.motion role=prod conf=88 src=ai
 gehen                    verb   grade=1-2 topic=actions.motion role=prod conf=99 src=ai
+hinfallen                verb   grade=1-2 topic=actions.motion role=prod conf=85 src=ai|rev
+hinsetzen                verb   grade=1-2 topic=actions.motion role=prod conf=80 src=ai|rev
 hüpfen                   verb   grade=1-2 topic=actions.motion role=prod conf=82 src=ai
 klettern                 verb   grade=1-2 topic=actions.motion role=prod conf=85 src=ai
 kommen                   verb   grade=1-2 topic=actions.motion role=prod conf=99 src=ai
 laufen                   verb   grade=1-2 topic=actions.motion role=prod conf=97 src=ai
 liegen                   verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
+losgehen                 verb   grade=1-2 topic=actions.motion role=prod conf=78 src=ai|rev
 mitkommen                verb   grade=1-2 topic=actions.motion role=prod conf=75 src=ai
 rennen                   verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
+runterfallen             verb   grade=1-2 topic=actions.motion role=prod conf=72 src=ai|rev
 Schritt                  noun   grade=1-2 topic=actions.motion role=prod conf=75 src=ai|freq
 schwimmen                verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
 sitzen                   verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
 springen                 verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
 stehen                   verb   grade=1-2 topic=actions.motion role=prod conf=92 src=ai
+umfallen                 verb   grade=1-2 topic=actions.motion role=prod conf=78 src=ai|rev
+weglaufen                verb   grade=1-2 topic=actions.motion role=prod conf=80 src=ai|rev
+winken                   verb   grade=1-2 topic=actions.motion role=prod conf=75 src=ai|rev
 
 # grade 1-2 · actions.perception
+anschauen                verb   grade=1-2 topic=actions.perception role=prod conf=80 src=ai|rev
+ansehen                  verb   grade=1-2 topic=actions.perception role=prod conf=80 src=ai|rev
 fühlen                   verb   grade=1-2 topic=actions.perception role=prod conf=82 src=ai
 gucken                   verb   grade=1-2 topic=actions.perception role=prod conf=80 src=ai
 hören                    verb   grade=1-2 topic=actions.perception role=prod conf=97 src=ai
 riechen                  verb   grade=1-2 topic=actions.perception role=prod conf=85 src=ai
 schauen                  verb   grade=1-2 topic=actions.perception role=prod conf=88 src=ai
 sehen                    verb   grade=1-2 topic=actions.perception role=prod conf=98 src=ai
+zuhören                  verb   grade=1-2 topic=actions.perception role=prod conf=88 src=ai|rev
+zuschauen                verb   grade=1-2 topic=actions.perception role=prod conf=80 src=ai|rev
 
 # grade 1-2 · actions.speaking
 anrufen                  verb   grade=1-2 topic=actions.speaking role=prod conf=75 src=ai
 antworten                verb   grade=1-2 topic=actions.speaking role=prod conf=88 src=ai
+bitten                   verb   grade=1-2 topic=actions.speaking role=prod conf=78 src=ai|rev
+danken                   verb   grade=1-2 topic=actions.speaking role=prod conf=75 src=ai|rev
 erzählen                 verb   grade=1-2 topic=actions.speaking role=prod conf=92 src=ai
 fragen                   verb   grade=1-2 topic=actions.speaking role=prod conf=95 src=ai
+grüßen                   verb   grade=1-2 topic=actions.speaking role=prod conf=72 src=ai|rev
+lügen                    verb   grade=1-2 topic=actions.speaking role=prod conf=78 src=ai|rev
 reden                    verb   grade=1-2 topic=actions.speaking role=prod conf=82 src=ai
 rufen                    verb   grade=1-2 topic=actions.speaking role=prod conf=88 src=ai
 sagen                    verb   grade=1-2 topic=actions.speaking role=prod conf=98 src=ai
+schimpfen                verb   grade=1-2 topic=actions.speaking role=prod conf=78 src=ai|rev
 schreien                 verb   grade=1-2 topic=actions.speaking role=prod conf=82 src=ai
 sprechen                 verb   grade=1-2 topic=actions.speaking role=prod conf=90 src=ai
 stimmen                  verb   grade=1-2 topic=actions.speaking role=prod conf=80 src=ai|freq
+vorlesen                 verb   grade=1-2 topic=actions.speaking role=prod conf=85 src=ai|rev
 zeigen                   verb   grade=1-2 topic=actions.speaking role=prod conf=90 src=ai
 
 # grade 1-2 · actions.thinking
+aufpassen                verb   grade=1-2 topic=actions.thinking role=prod conf=88 src=ai|rev
 denken                   verb   grade=1-2 topic=actions.thinking role=prod conf=88 src=ai
+gefallen                 verb   grade=1-2 topic=actions.thinking|feelings role=prod conf=78 src=ai|rev
 glauben                  verb   grade=1-2 topic=actions.thinking role=prod conf=85 src=ai
 Idee                     noun   grade=1-2 topic=actions.thinking role=prod conf=80 src=ai|freq
 kennen                   verb   grade=1-2 topic=actions.thinking role=prod conf=90 src=ai
+merken                   verb   grade=1-2 topic=actions.thinking|thinking role=prod conf=72 src=ai|rev
+raten                    verb   grade=1-2 topic=actions.thinking role=prod conf=75 src=ai|rev
+träumen                  verb   grade=1-2 topic=actions.thinking role=prod conf=85 src=ai|rev
 vergessen                verb   grade=1-2 topic=actions.thinking role=prod conf=85 src=ai
 verstehen                verb   grade=1-2 topic=actions.thinking role=prod conf=85 src=ai
-versuchen                verb   grade=1-2 topic=actions.thinking role=prod conf=82 src=ai|freq
+versuchen                verb   grade=1-2 topic=actions.thinking role=prod conf=78 src=ai|rev
 wissen                   verb   grade=1-2 topic=actions.thinking role=prod conf=95 src=ai
 
 # grade 1-2 · animals
 Affe                     noun   grade=1-2 topic=animals role=prod conf=90 src=ai
 Ameise                   noun   grade=1-2 topic=animals role=prod conf=82 src=ai
 Bauernhof                noun   grade=1-2 topic=animals role=prod conf=85 src=ai
+beißen                   verb   grade=1-2 topic=animals role=prod conf=82 src=ai|rev
 bellen                   verb   grade=1-2 topic=animals role=prod conf=80 src=ai
 Biene                    noun   grade=1-2 topic=animals role=prod conf=88 src=ai
 Bär                      noun   grade=1-2 topic=animals role=prod conf=92 src=ai
@@ -140,6 +192,7 @@ Schnecke                 noun   grade=1-2 topic=animals role=prod conf=85 src=ai
 Schwanz                  noun   grade=1-2 topic=animals role=prod conf=80 src=ai
 Schwein                  noun   grade=1-2 topic=animals role=prod conf=92 src=ai
 Spinne                   noun   grade=1-2 topic=animals role=prod conf=85 src=ai
+streicheln               verb   grade=1-2 topic=animals role=prod conf=80 src=ai|rev
 Tier                     noun   grade=1-2 topic=animals role=prod conf=98 src=ai
 Tiger                    noun   grade=1-2 topic=animals role=prod conf=88 src=ai
 Vogel                    noun   grade=1-2 topic=animals role=prod conf=95 src=ai
@@ -150,6 +203,7 @@ Ziege                    noun   grade=1-2 topic=animals role=prod conf=85 src=ai
 Zoo                      noun   grade=1-2 topic=animals role=prod conf=90 src=ai
 
 # grade 1-2 · body
+abtrocknen               verb   grade=1-2 topic=body|home role=prod conf=80 src=ai|rev
 Arm                      noun   grade=1-2 topic=body role=prod conf=95 src=ai
 Auge                     noun   grade=1-2 topic=body role=prod conf=97 src=ai
 Bauch                    noun   grade=1-2 topic=body role=prod conf=92 src=ai
@@ -165,6 +219,8 @@ Hand                     noun   grade=1-2 topic=body role=prod conf=97 src=ai
 Herz                     noun   grade=1-2 topic=body role=prod conf=85 src=ai
 Knie                     noun   grade=1-2 topic=body role=prod conf=85 src=ai
 Kopf                     noun   grade=1-2 topic=body role=prod conf=97 src=ai
+kratzen                  verb   grade=1-2 topic=body role=prod conf=72 src=ai|rev
+kämmen                   verb   grade=1-2 topic=body role=prod conf=82 src=ai|rev
 Körper                   noun   grade=1-2 topic=body role=prod conf=85 src=ai
 Lippe                    noun   grade=1-2 topic=body role=prod conf=72 src=ai
 Mund                     noun   grade=1-2 topic=body role=prod conf=97 src=ai
@@ -173,6 +229,7 @@ Ohr                      noun   grade=1-2 topic=body role=prod conf=95 src=ai
 Po:bottom                noun   grade=1-2 topic=body role=prod conf=70 src=ai
 Rücken                   noun   grade=1-2 topic=body role=prod conf=82 src=ai
 Schulter                 noun   grade=1-2 topic=body role=prod conf=78 src=ai
+schwitzen                verb   grade=1-2 topic=body role=prod conf=70 src=ai|rev
 Zahn                     noun   grade=1-2 topic=body role=prod conf=95 src=ai
 Zunge                    noun   grade=1-2 topic=body role=prod conf=85 src=ai
 
@@ -202,6 +259,7 @@ Wunsch                   noun   grade=1-2 topic=celebrations role=prod conf=80 s
 wünschen                 verb   grade=1-2 topic=celebrations role=prod conf=85 src=ai
 
 # grade 1-2 · clothing
+anhaben                  verb   grade=1-2 topic=clothing role=prod conf=70 src=ai|rev
 anziehen                 verb   grade=1-2 topic=clothing role=prod conf=92 src=ai
 ausziehen                verb   grade=1-2 topic=clothing role=prod conf=88 src=ai
 Badehose                 noun   grade=1-2 topic=clothing role=prod conf=70 src=ai
@@ -225,6 +283,7 @@ Schuh                    noun   grade=1-2 topic=clothing role=prod conf=95 src=a
 Socke                    noun   grade=1-2 topic=clothing role=prod conf=85 src=ai
 Stiefel                  noun   grade=1-2 topic=clothing role=prod conf=85 src=ai
 tragen                   verb   grade=1-2 topic=clothing role=prod conf=85 src=ai
+umziehen                 verb   grade=1-2 topic=clothing|town role=prod conf=68 src=ai|rev
 Unterhose                noun   grade=1-2 topic=clothing role=prod conf=72 src=ai
 
 # grade 1-2 · family
@@ -249,12 +308,10 @@ Vater                    noun   grade=1-2 topic=family role=prod conf=97 src=ai
 
 # grade 1-2 · feelings
 Angst                    noun   grade=1-2 topic=feelings role=prod conf=90 src=ai
-aufgeregt                adj    grade=1-2 topic=feelings role=prod conf=72 src=ai
 Freude                   noun   grade=1-2 topic=feelings role=prod conf=82 src=ai
 freuen                   verb   grade=1-2 topic=feelings role=prod conf=85 src=ai
 froh                     adj    grade=1-2 topic=feelings role=prod conf=85 src=ai
 fröhlich                 adj    grade=1-2 topic=feelings role=prod conf=82 src=ai
-gefallen                 verb   grade=1-2 topic=feelings role=prod conf=85 src=ai|freq
 gemein                   adj    grade=1-2 topic=feelings role=prod conf=72 src=ai
 Glück                    noun   grade=1-2 topic=feelings role=prod conf=75 src=ai
 glücklich                adj    grade=1-2 topic=feelings role=prod conf=82 src=ai
@@ -263,7 +320,6 @@ langweilig               adj    grade=1-2 topic=feelings role=prod conf=80 src=a
 Liebe                    noun   grade=1-2 topic=feelings role=prod conf=80 src=ai|freq
 lieben                   verb   grade=1-2 topic=feelings role=prod conf=85 src=ai
 Lust                     noun   grade=1-2 topic=feelings role=prod conf=85 src=ai|freq
-lächeln                  verb   grade=1-2 topic=feelings role=prod conf=75 src=ai
 müde                     adj    grade=1-2 topic=feelings role=prod conf=92 src=ai
 Streit                   noun   grade=1-2 topic=feelings role=prod conf=75 src=ai
 streiten                 verb   grade=1-2 topic=feelings role=prod conf=78 src=ai
@@ -272,13 +328,14 @@ traurig                  adj    grade=1-2 topic=feelings role=prod conf=92 src=a
 weinen                   verb   grade=1-2 topic=feelings role=prod conf=90 src=ai
 Wut                      noun   grade=1-2 topic=feelings role=prod conf=72 src=ai
 wütend                   adj    grade=1-2 topic=feelings role=prod conf=85 src=ai
-ängstlich                adj    grade=1-2 topic=feelings role=prod conf=72 src=ai
 ärgern                   verb   grade=1-2 topic=feelings role=prod conf=75 src=ai
 
 # grade 1-2 · food
 Abendessen               noun   grade=1-2 topic=food role=prod conf=80 src=ai
 Apfel                    noun   grade=1-2 topic=food role=prod conf=97 src=ai
 Apfelsaft                noun   grade=1-2 topic=food role=prod conf=75 src=ai
+aufessen                 verb   grade=1-2 topic=food role=prod conf=80 src=ai|rev
+austrinken               verb   grade=1-2 topic=food role=prod conf=75 src=ai|rev
 Banane                   noun   grade=1-2 topic=food role=prod conf=92 src=ai
 Birne                    noun   grade=1-2 topic=food role=prod conf=90 src=ai
 Bonbon                   noun   grade=1-2 topic=food role=prod conf=80 src=ai
@@ -303,6 +360,7 @@ hungrig                  adj    grade=1-2 topic=food role=prod conf=72 src=ai
 Kakao                    noun   grade=1-2 topic=food role=prod conf=82 src=ai
 Karotte                  noun   grade=1-2 topic=food role=prod conf=75 src=ai
 Kartoffel                noun   grade=1-2 topic=food role=prod conf=88 src=ai
+kauen                    verb   grade=1-2 topic=food role=prod conf=75 src=ai|rev
 Keks                     noun   grade=1-2 topic=food role=prod conf=85 src=ai
 Kirsche                  noun   grade=1-2 topic=food role=prod conf=85 src=ai
 Kuchen                   noun   grade=1-2 topic=food role=prod conf=95 src=ai
@@ -317,12 +375,16 @@ Obst                     noun   grade=1-2 topic=food role=prod conf=88 src=ai
 Orange:fruit             noun   grade=1-2 topic=food role=prod conf=80 src=ai
 Pizza                    noun   grade=1-2 topic=food role=prod conf=85 src=ai
 Reis                     noun   grade=1-2 topic=food role=prod conf=80 src=ai
+rühren                   verb   grade=1-2 topic=food role=prod conf=68 src=ai|rev
 Saft                     noun   grade=1-2 topic=food role=prod conf=88 src=ai
 Salat                    noun   grade=1-2 topic=food role=prod conf=82 src=ai
 Salz                     noun   grade=1-2 topic=food role=prod conf=78 src=ai
 satt                     adj    grade=1-2 topic=food role=prod conf=78 src=ai
+schlucken                verb   grade=1-2 topic=food role=prod conf=72 src=ai|rev
 schmecken                verb   grade=1-2 topic=food role=prod conf=88 src=ai
+schmieren                verb   grade=1-2 topic=food role=prod conf=70 src=ai|rev
 Schokolade               noun   grade=1-2 topic=food role=prod conf=90 src=ai
+schälen                  verb   grade=1-2 topic=food role=prod conf=68 src=ai|rev
 Suppe                    noun   grade=1-2 topic=food role=prod conf=85 src=ai
 Tee                      noun   grade=1-2 topic=food role=prod conf=85 src=ai
 Tomate                   noun   grade=1-2 topic=food role=prod conf=85 src=ai
@@ -338,13 +400,8 @@ also                     adv    grade=1-2 topic=function.adverb role=prod conf=7
 anders                   adv    grade=1-2 topic=function.adverb role=prod conf=70 src=ai
 auch                     adv    grade=1-2 topic=function.adverb role=prod conf=98 src=ai
 besonders                adv    grade=1-2 topic=function.adverb role=prod conf=80 src=ai|freq
-dabei                    adv    grade=1-2 topic=function.adverb role=prod conf=65 src=ai
-dafür                    adv    grade=1-2 topic=function.adverb role=prod conf=65 src=ai
-damit                    adv    grade=1-2 topic=function.adverb role=prod conf=62 src=ai
 darauf                   adv    grade=1-2 topic=function.adverb role=prod conf=70 src=ai|freq
-darum                    adv    grade=1-2 topic=function.adverb|thinking role=prod conf=70 src=ai
 davon                    adv    grade=1-2 topic=function.adverb role=prod conf=72 src=ai|freq
-dazu                     adv    grade=1-2 topic=function.adverb role=prod conf=65 src=ai
 fast                     adv    grade=1-2 topic=function.adverb role=prod conf=72 src=ai
 ganz                     adv    grade=1-2 topic=function.adverb role=prod conf=85 src=ai
 genau                    adj    grade=1-2 topic=function.adverb role=prod conf=78 src=ai
@@ -353,12 +410,10 @@ gern                     adv    grade=1-2 topic=function.adverb role=prod conf=9
 gerne                    adv    grade=1-2 topic=function.adverb role=prod conf=85 src=ai
 leider                   adv    grade=1-2 topic=function.adverb role=prod conf=75 src=ai
 natürlich                adj    grade=1-2 topic=function.adverb role=prod conf=75 src=ai
-nun                      adv    grade=1-2 topic=function.adverb role=prod conf=65 src=ai
 nur                      adv    grade=1-2 topic=function.adverb role=prod conf=92 src=ai
 sehr                     adv    grade=1-2 topic=function.adverb role=prod conf=95 src=ai
 selbst                   adv    grade=1-2 topic=function.adverb|function.pronoun role=prod conf=70 src=ai
 so                       adv    grade=1-2 topic=function.adverb role=prod conf=92 src=ai
-sonst                    adv    grade=1-2 topic=function.adverb|thinking role=prod conf=65 src=ai
 vielleicht               adv    grade=1-2 topic=function.adverb role=prod conf=85 src=ai
 weh                      adv    grade=1-2 topic=function.adverb role=prod conf=85 src=ai
 weiter                   adv    grade=1-2 topic=function.adverb role=prod conf=80 src=ai
@@ -406,12 +461,11 @@ schon                    part   grade=1-2 topic=function.particle role=prod conf
 zu                       part   grade=1-2 topic=function.particle role=prod conf=85 src=ai
 
 # grade 1-2 · function.preposition
-ab                       adp    grade=1-2 topic=function.preposition role=prod conf=70 src=ai
 am                       adp    grade=1-2 topic=function.preposition role=prod conf=92 src=ai
 an                       adp    grade=1-2 topic=function.preposition role=prod conf=95 src=ai
 ans                      adp    grade=1-2 topic=function.preposition role=prod conf=80 src=ai
 auf                      adp    grade=1-2 topic=function.preposition role=prod conf=97 src=ai
-aufs                     adp    grade=1-2 topic=function.preposition role=prod conf=75 src=ai|freq
+aufs                     adp    grade=1-2 topic=function.preposition role=prod conf=75 src=ai|rev
 aus                      adp    grade=1-2 topic=function.preposition role=prod conf=95 src=ai
 bei                      adp    grade=1-2 topic=function.preposition role=prod conf=92 src=ai
 beim                     adp    grade=1-2 topic=function.preposition role=prod conf=88 src=ai
@@ -427,7 +481,6 @@ mit                      adp    grade=1-2 topic=function.preposition role=prod c
 nach                     adp    grade=1-2 topic=function.preposition role=prod conf=95 src=ai
 neben                    adp    grade=1-2 topic=function.preposition role=prod conf=88 src=ai
 ohne                     adp    grade=1-2 topic=function.preposition role=prod conf=85 src=ai
-seit                     adp    grade=1-2 topic=function.preposition role=prod conf=70 src=ai
 um                       adp    grade=1-2 topic=function.preposition role=prod conf=88 src=ai
 unter                    adp    grade=1-2 topic=function.preposition role=prod conf=90 src=ai
 vom                      adp    grade=1-2 topic=function.preposition role=prod conf=90 src=ai
@@ -461,7 +514,6 @@ kein                     det    grade=1-2 topic=function.pronoun role=prod conf=
 man                      pron   grade=1-2 topic=function.pronoun role=prod conf=85 src=ai
 mein                     det    grade=1-2 topic=function.pronoun role=prod conf=97 src=ai
 nichts                   pron   grade=1-2 topic=function.pronoun role=prod conf=88 src=ai
-niemand                  pron   grade=1-2 topic=function.pronoun role=prod conf=72 src=ai
 paar                     det    grade=1-2 topic=function.pronoun role=prod conf=85 src=ai
 sein                     det    grade=1-2 topic=function.pronoun role=prod conf=95 src=ai
 sich                     pron   grade=1-2 topic=function.pronoun role=prod conf=85 src=ai
@@ -489,23 +541,34 @@ wohin                    adv    grade=1-2 topic=function.question role=prod conf
 # grade 1-2 · health
 Arzt                     noun   grade=1-2 topic=health role=prod conf=90 src=ai
 baden                    verb   grade=1-2 topic=health role=prod conf=82 src=ai
+bluten                   verb   grade=1-2 topic=health role=prod conf=72 src=ai|rev
 Doktor                   noun   grade=1-2 topic=health role=prod conf=75 src=ai|freq
 duschen                  verb   grade=1-2 topic=health role=prod conf=80 src=ai
 Fieber                   noun   grade=1-2 topic=health role=prod conf=75 src=ai
 gesund                   adj    grade=1-2 topic=health role=prod conf=88 src=ai
 Handtuch                 noun   grade=1-2 topic=health role=prod conf=72 src=ai
 Husten                   noun   grade=1-2 topic=health role=prod conf=75 src=ai
+husten                   verb   grade=1-2 topic=health role=prod conf=75 src=ai|rev
 krank                    adj    grade=1-2 topic=health role=prod conf=92 src=ai
+niesen                   verb   grade=1-2 topic=health role=prod conf=70 src=ai|rev
 Pflaster                 noun   grade=1-2 topic=health role=prod conf=75 src=ai
 Schnupfen                noun   grade=1-2 topic=health role=prod conf=70 src=ai
 Seife                    noun   grade=1-2 topic=health role=prod conf=75 src=ai
+verletzen                verb   grade=1-2 topic=health role=prod conf=70 src=ai|rev
 waschen                  verb   grade=1-2 topic=health role=prod conf=90 src=ai
 wehtun                   verb   grade=1-2 topic=health role=prod conf=80 src=ai
 Zahnbürste               noun   grade=1-2 topic=health role=prod conf=82 src=ai
 Ärztin                   noun   grade=1-2 topic=health role=prod conf=75 src=ai
 
 # grade 1-2 · home
+abräumen                 verb   grade=1-2 topic=home role=prod conf=68 src=ai|rev
+abschließen              verb   grade=1-2 topic=home role=prod conf=65 src=ai|rev
+abwaschen                verb   grade=1-2 topic=home role=prod conf=70 src=ai|rev
+anmachen                 verb   grade=1-2 topic=home role=prod conf=75 src=ai|rev
 aufräumen                verb   grade=1-2 topic=home role=prod conf=85 src=ai
+aufwecken                verb   grade=1-2 topic=home role=prod conf=72 src=ai|rev
+ausmachen                verb   grade=1-2 topic=home role=prod conf=75 src=ai|rev
+ausschlafen              verb   grade=1-2 topic=home role=prod conf=70 src=ai|rev
 backen                   verb   grade=1-2 topic=home role=prod conf=85 src=ai
 Bad                      noun   grade=1-2 topic=home role=prod conf=85 src=ai
 Badezimmer               noun   grade=1-2 topic=home role=prod conf=75 src=ai
@@ -514,7 +577,10 @@ Bild                     noun   grade=1-2 topic=home role=prod conf=92 src=ai
 Boden                    noun   grade=1-2 topic=home role=prod conf=80 src=ai
 Dach                     noun   grade=1-2 topic=home role=prod conf=85 src=ai
 Decke                    noun   grade=1-2 topic=home role=prod conf=80 src=ai
+decken                   verb   grade=1-2 topic=home role=prod conf=70 src=ai|rev
 Ding                     noun   grade=1-2 topic=home role=prod conf=82 src=ai
+einschlafen              verb   grade=1-2 topic=home role=prod conf=85 src=ai|rev
+fegen                    verb   grade=1-2 topic=home role=prod conf=70 src=ai|rev
 Fenster                  noun   grade=1-2 topic=home role=prod conf=95 src=ai
 Fernseher                noun   grade=1-2 topic=home|media role=prod conf=80 src=ai
 Gabel                    noun   grade=1-2 topic=home role=prod conf=88 src=ai
@@ -528,17 +594,17 @@ kochen                   verb   grade=1-2 topic=home role=prod conf=88 src=ai
 Küche                    noun   grade=1-2 topic=home role=prod conf=90 src=ai
 Kühlschrank              noun   grade=1-2 topic=home role=prod conf=78 src=ai
 Lampe                    noun   grade=1-2 topic=home role=prod conf=88 src=ai
-Leiter:ladder            noun   grade=1-2 topic=home role=prod conf=75 src=ai|freq
+Leiter:ladder            noun   grade=1-2 topic=home role=prod conf=75 src=ai|rev
 Licht                    noun   grade=1-2 topic=home role=prod conf=85 src=ai
 Löffel                   noun   grade=1-2 topic=home role=prod conf=88 src=ai
 Messer                   noun   grade=1-2 topic=home role=prod conf=88 src=ai
-Ordnung                  noun   grade=1-2 topic=home|school role=prod conf=72 src=ai|freq
 putzen                   verb   grade=1-2 topic=home role=prod conf=85 src=ai
 Sache                    noun   grade=1-2 topic=home role=prod conf=78 src=ai
 Schlafzimmer             noun   grade=1-2 topic=home role=prod conf=75 src=ai
 Schlüssel                noun   grade=1-2 topic=home role=prod conf=80 src=ai
 Schrank                  noun   grade=1-2 topic=home role=prod conf=88 src=ai
 Sofa                     noun   grade=1-2 topic=home role=prod conf=82 src=ai
+spülen                   verb   grade=1-2 topic=home role=prod conf=72 src=ai|rev
 Stuhl                    noun   grade=1-2 topic=home role=prod conf=95 src=ai
 Stück                    noun   grade=1-2 topic=home role=prod conf=75 src=ai
 Tasse                    noun   grade=1-2 topic=home role=prod conf=85 src=ai
@@ -550,9 +616,13 @@ Topf                     noun   grade=1-2 topic=home role=prod conf=78 src=ai
 Treppe                   noun   grade=1-2 topic=home role=prod conf=82 src=ai
 Tür                      noun   grade=1-2 topic=home role=prod conf=95 src=ai
 Wand                     noun   grade=1-2 topic=home role=prod conf=82 src=ai
+wecken                   verb   grade=1-2 topic=home role=prod conf=80 src=ai|rev
+wegräumen                verb   grade=1-2 topic=home role=prod conf=75 src=ai|rev
+wischen                  verb   grade=1-2 topic=home role=prod conf=78 src=ai|rev
 Wohnung                  noun   grade=1-2 topic=home role=prod conf=85 src=ai
 Wohnzimmer               noun   grade=1-2 topic=home role=prod conf=82 src=ai
 Zimmer                   noun   grade=1-2 topic=home role=prod conf=92 src=ai
+zudecken                 verb   grade=1-2 topic=home role=prod conf=70 src=ai|rev
 
 # grade 1-2 · jobs
 Arbeit                   noun   grade=1-2 topic=jobs role=prod conf=88 src=ai|freq
@@ -564,10 +634,12 @@ Polizist                 noun   grade=1-2 topic=jobs role=prod conf=78 src=ai
 Film                     noun   grade=1-2 topic=media role=prod conf=88 src=ai|freq
 
 # grade 1-2 · money
+bezahlen                 verb   grade=1-2 topic=money role=prod conf=75 src=ai|rev
 Euro                     noun   grade=1-2 topic=money role=prod conf=80 src=ai
 Geld                     noun   grade=1-2 topic=money role=prod conf=90 src=ai
 kosten                   verb   grade=1-2 topic=money role=prod conf=72 src=ai
 reich                    adj    grade=1-2 topic=money role=prod conf=80 src=ai|freq
+verkaufen                verb   grade=1-2 topic=money role=prod conf=70 src=ai|rev
 zahlen                   verb   grade=1-2 topic=money|shopping role=prod conf=78 src=ai|freq
 
 # grade 1-2 · nature
@@ -652,11 +724,14 @@ Freundin                 noun   grade=1-2 topic=people role=prod conf=95 src=ai
 hallo                    intj   grade=1-2 topic=people role=prod conf=95 src=ai
 Herr                     noun   grade=1-2 topic=people role=prod conf=85 src=ai|freq
 Hilfe                    noun   grade=1-2 topic=people role=prod conf=85 src=ai|freq
+kitzeln                  verb   grade=1-2 topic=people role=prod conf=70 src=ai|rev
+küssen                   verb   grade=1-2 topic=people role=prod conf=78 src=ai|rev
 Leute                    noun   grade=1-2 topic=people role=prod conf=82 src=ai
 Mann                     noun   grade=1-2 topic=people role=prod conf=95 src=ai
 Mensch                   noun   grade=1-2 topic=people role=prod conf=90 src=ai
 treffen                  verb   grade=1-2 topic=people role=prod conf=72 src=ai
 tschüss                  intj   grade=1-2 topic=people role=prod conf=90 src=ai
+umarmen                  verb   grade=1-2 topic=people role=prod conf=75 src=ai|rev
 warten                   verb   grade=1-2 topic=people role=prod conf=88 src=ai
 
 # grade 1-2 · plants
@@ -687,14 +762,19 @@ Fußball                  noun   grade=1-2 topic=play role=prod conf=90 src=ai
 Geist                    noun   grade=1-2 topic=play role=prod conf=75 src=ai|freq
 gewinnen                 verb   grade=1-2 topic=play role=prod conf=80 src=ai
 Hexe                     noun   grade=1-2 topic=play role=prod conf=80 src=ai
+klatschen                verb   grade=1-2 topic=play role=prod conf=72 src=ai|rev
 König                    noun   grade=1-2 topic=play role=prod conf=85 src=ai
 Königin                  noun   grade=1-2 topic=play role=prod conf=80 src=ai
 Lied                     noun   grade=1-2 topic=play role=prod conf=88 src=ai
+mitmachen                verb   grade=1-2 topic=play role=prod conf=80 src=ai|rev
+mitspielen               verb   grade=1-2 topic=play role=prod conf=88 src=ai|rev
 Musik                    noun   grade=1-2 topic=play role=prod conf=82 src=ai
 Märchen                  noun   grade=1-2 topic=play role=prod conf=85 src=ai
 Prinz                    noun   grade=1-2 topic=play role=prod conf=80 src=ai|freq
 Prinzessin               noun   grade=1-2 topic=play role=prod conf=80 src=ai
 Puppe                    noun   grade=1-2 topic=play role=prod conf=88 src=ai
+reiten                   verb   grade=1-2 topic=play role=prod conf=78 src=ai|rev
+rodeln                   verb   grade=1-2 topic=play role=prod conf=68 src=ai|rev
 Roller                   noun   grade=1-2 topic=play role=prod conf=75 src=ai
 Rutsche                  noun   grade=1-2 topic=play role=prod conf=78 src=ai
 rutschen                 verb   grade=1-2 topic=play role=prod conf=72 src=ai
@@ -711,17 +791,17 @@ suchen                   verb   grade=1-2 topic=play role=prod conf=92 src=ai
 tanzen                   verb   grade=1-2 topic=play role=prod conf=85 src=ai
 Teddy                    noun   grade=1-2 topic=play role=prod conf=80 src=ai
 Tor:gate                 noun   grade=1-2 topic=play role=prod conf=72 src=ai
+turnen                   verb   grade=1-2 topic=play role=prod conf=82 src=ai|rev
 verlieren                verb   grade=1-2 topic=play role=prod conf=80 src=ai
 verstecken               verb   grade=1-2 topic=play role=prod conf=85 src=ai
 werfen                   verb   grade=1-2 topic=play role=prod conf=88 src=ai
 Würfel                   noun   grade=1-2 topic=play role=prod conf=78 src=ai
+zaubern                  verb   grade=1-2 topic=play role=prod conf=78 src=ai|rev
 
 # grade 1-2 · qualities.character
 brav                     adj    grade=1-2 topic=qualities.character role=prod conf=75 src=ai
 böse                     adj    grade=1-2 topic=qualities.character role=prod conf=88 src=ai
 dumm                     adj    grade=1-2 topic=qualities.character role=prod conf=75 src=ai
-faul                     adj    grade=1-2 topic=qualities.character role=prod conf=72 src=ai
-fleißig                  adj    grade=1-2 topic=qualities.character role=prod conf=72 src=ai
 frech                    adj    grade=1-2 topic=qualities.character role=prod conf=82 src=ai
 freundlich               adj    grade=1-2 topic=qualities.character role=prod conf=85 src=ai|freq
 klug                     adj    grade=1-2 topic=qualities.character role=prod conf=75 src=ai
@@ -757,7 +837,6 @@ falsch                   adj    grade=1-2 topic=qualities.judgement role=prod co
 fertig                   adj    grade=1-2 topic=qualities.judgement role=prod conf=88 src=ai
 frei                     adj    grade=1-2 topic=qualities.judgement role=prod conf=80 src=ai|freq
 ganz                     adj    grade=1-2 topic=qualities.judgement role=prod conf=80 src=ai
-gefährlich               adj    grade=1-2 topic=qualities.judgement role=prod conf=68 src=ai
 gleich                   adj    grade=1-2 topic=qualities.judgement role=prod conf=80 src=ai
 gut                      adj    grade=1-2 topic=qualities.judgement role=prod conf=99 src=ai
 hässlich                 adj    grade=1-2 topic=qualities.judgement role=prod conf=75 src=ai
@@ -818,8 +897,13 @@ tief                     adj    grade=1-2 topic=qualities.size role=prod conf=80
 voll                     adj    grade=1-2 topic=qualities.size role=prod conf=88 src=ai
 
 # grade 1-2 · school
+abschreiben              verb   grade=1-2 topic=school role=prod conf=82 src=ai|rev
+anmalen                  verb   grade=1-2 topic=school role=prod conf=85 src=ai|rev
 Antwort                  noun   grade=1-2 topic=school role=prod conf=85 src=ai
 Aufgabe                  noun   grade=1-2 topic=school role=prod conf=82 src=ai
+aufschreiben             verb   grade=1-2 topic=school role=prod conf=80 src=ai|rev
+ausmalen                 verb   grade=1-2 topic=school role=prod conf=85 src=ai|rev
+ausschneiden             verb   grade=1-2 topic=school role=prod conf=85 src=ai|rev
 basteln                  verb   grade=1-2 topic=school role=prod conf=88 src=ai
 Blatt                    noun   grade=1-2 topic=school role=prod conf=85 src=ai
 Bleistift                noun   grade=1-2 topic=school role=prod conf=90 src=ai
@@ -847,6 +931,7 @@ lernen                   verb   grade=1-2 topic=school role=prod conf=97 src=ai
 lesen                    verb   grade=1-2 topic=school role=prod conf=98 src=ai
 Lineal                   noun   grade=1-2 topic=school role=prod conf=80 src=ai
 malen                    verb   grade=1-2 topic=school role=prod conf=95 src=ai
+Ordnung                  noun   grade=1-2 topic=school|home role=prod conf=72 src=ai|rev
 Papier                   noun   grade=1-2 topic=school role=prod conf=85 src=ai
 Pause                    noun   grade=1-2 topic=school role=prod conf=92 src=ai
 Radiergummi              noun   grade=1-2 topic=school role=prod conf=82 src=ai
@@ -885,22 +970,17 @@ wohnen                   verb   grade=1-2 topic=self role=prod conf=92 src=ai
 Markt                    noun   grade=1-2 topic=shopping role=prod conf=80 src=ai|freq
 
 # grade 1-2 · space
-außen                    adv    grade=1-2 topic=space role=prod conf=70 src=ai
 da                       adv    grade=1-2 topic=space role=prod conf=95 src=ai
 dahin                    adv    grade=1-2 topic=space role=prod conf=70 src=ai|freq
 dort                     adv    grade=1-2 topic=space role=prod conf=90 src=ai
 draußen                  adv    grade=1-2 topic=space role=prod conf=85 src=ai
 drinnen                  adv    grade=1-2 topic=space|function.adverb role=prod conf=80 src=ai
 Ecke                     noun   grade=1-2 topic=space role=prod conf=80 src=ai
-heim                     adv    grade=1-2 topic=space role=prod conf=70 src=ai
 her                      adv    grade=1-2 topic=space role=prod conf=75 src=ai
-heraus                   adv    grade=1-2 topic=space role=prod conf=70 src=ai
 herum                    adv    grade=1-2 topic=space role=prod conf=75 src=ai|freq
 hier                     adv    grade=1-2 topic=space role=prod conf=98 src=ai
 hin                      adv    grade=1-2 topic=space role=prod conf=75 src=ai
-hinein                   adv    grade=1-2 topic=space role=prod conf=70 src=ai
 hinten                   adv    grade=1-2 topic=space role=prod conf=85 src=ai
-innen                    adv    grade=1-2 topic=space role=prod conf=70 src=ai
 links                    adv    grade=1-2 topic=space role=prod conf=88 src=ai
 Mitte                    noun   grade=1-2 topic=space role=prod conf=75 src=ai
 nah                      adj    grade=1-2 topic=space role=prod conf=75 src=ai
@@ -1007,7 +1087,6 @@ vorgestern               adv    grade=1-2 topic=time.relations role=prod conf=65
 vorher                   adv    grade=1-2 topic=time.relations role=prod conf=75 src=ai
 wieder                   adv    grade=1-2 topic=time.relations role=prod conf=92 src=ai
 zuerst                   adv    grade=1-2 topic=time.relations role=prod conf=82 src=ai
-zuletzt                  adv    grade=1-2 topic=time.relations role=prod conf=72 src=ai
 übermorgen               adv    grade=1-2 topic=time.relations role=prod conf=65 src=ai
 
 # grade 1-2 · town
@@ -1039,7 +1118,6 @@ Donner                   noun   grade=1-2 topic=weather role=prod conf=78 src=ai
 frieren                  verb   grade=1-2 topic=weather role=prod conf=75 src=ai
 Gewitter                 noun   grade=1-2 topic=weather role=prod conf=80 src=ai
 Luft                     noun   grade=1-2 topic=weather|nature role=prod conf=85 src=ai|freq
-Nebel                    noun   grade=1-2 topic=weather role=prod conf=72 src=ai
 Regen                    noun   grade=1-2 topic=weather role=prod conf=95 src=ai
 Regenbogen               noun   grade=1-2 topic=weather role=prod conf=82 src=ai
 regnen                   verb   grade=1-2 topic=weather role=prod conf=92 src=ai
@@ -1048,10 +1126,8 @@ Schnee                   noun   grade=1-2 topic=weather role=prod conf=95 src=ai
 Schneemann               noun   grade=1-2 topic=weather role=prod conf=82 src=ai
 schneien                 verb   grade=1-2 topic=weather role=prod conf=88 src=ai
 sonnig                   adj    grade=1-2 topic=weather role=prod conf=75 src=ai
-Sturm                    noun   grade=1-2 topic=weather role=prod conf=78 src=ai
 Wetter                   noun   grade=1-2 topic=weather role=prod conf=95 src=ai
 Wind                     noun   grade=1-2 topic=weather role=prod conf=92 src=ai
-windig                   adj    grade=1-2 topic=weather role=prod conf=70 src=ai
 Wolke                    noun   grade=1-2 topic=weather role=prod conf=90 src=ai
 
 # grade 3-4 · actions.change
@@ -1068,31 +1144,106 @@ zerbrechen               verb   grade=3-4 topic=actions.change role=prod conf=75
 ändern                   verb   grade=3-4 topic=actions.change role=prod conf=75 src=ai|freq
 
 # grade 3-4 · actions.handling
+abdecken                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abdrehen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abgeben                  verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abhängen:transitive      verb   grade=3-4 topic=actions.handling role=rec conf=70 src=ai|rev
+abnehmen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abreißen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abschneiden              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+absetzen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abstellen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+abwischen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+anbraten                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ankleben                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+anprobieren              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+anzünden                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufbewahren              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufdrehen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+auffüllen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufhängen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufklappen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufladen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufpumpen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufschließen             verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufschneiden             verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufstellen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufwischen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+aufwärmen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausblasen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausgießen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausleeren                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausleihen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+auspusten                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausrechnen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausreißen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+ausräumen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+befestigen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+bekleben                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+bemalen                  verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+benutzen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+berühren                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+beschriften              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 bilden                   verb   grade=3-4 topic=actions.handling role=rec conf=62 src=ai|freq
-falten                   verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
-füllen                   verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
-mischen                  verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
+binden                   verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+einräumen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+einschenken              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+einstecken               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+einwickeln               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+erledigen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+festkleben               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+gebrauchen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+herausnehmen             verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+knoten                   verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+mitbringen               verb   grade=3-4 topic=actions.handling role=prod conf=60 src=ai|rev
+nachfüllen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 nutzen                   verb   grade=3-4 topic=actions.handling role=prod conf=60 src=ai|freq
 nähen                    verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
 ordnen                   verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
 reißen                   verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
-schließen                verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai|freq
 schütten                 verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
 sortieren                verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
 stapeln                  verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
+umblättern               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+umkippen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+umrühren                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+umwerfen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 verbinden                verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
-verwenden                verb   grade=3-4 topic=actions.handling role=rec conf=60 src=ai|freq
+verbrauchen              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+verrühren                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+verschütten              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+verwenden                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+vorbereiten              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+weglegen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 wiegen:weigh             verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
+zerdrücken               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zerkleinern              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zerknüllen               verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zerschneiden             verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zerstören                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zudrehen                 verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zuklappen                verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zurückgeben              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zurücklegen              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 zusammenbauen            verb   grade=3-4 topic=actions.handling role=prod conf=75 src=ai
+zusammenfalten           verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zusammenkleben           verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zuschließen              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
+zuschrauben              verb   grade=3-4 topic=actions.handling role=prod conf=70 src=ai|rev
 
 # grade 3-4 · actions.motion
+absteigen                verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+aufspringen              verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+aufsteigen               verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 auftauchen               verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 ausrutschen              verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 balancieren              verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 betreten                 verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 Bewegung                 noun   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 bücken                   verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
+davonlaufen              verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 eilen                    verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
+entgegenkommen           verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 entkommen                verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 erscheinen               verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 fliehen                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
@@ -1100,13 +1251,17 @@ flitzen                  verb   grade=3-4 topic=actions.motion role=prod conf=75
 folgen                   verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|freq
 führen                   verb   grade=3-4 topic=actions.motion role=prod conf=72 src=ai|freq
 heben                    verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
+heraufklettern           verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+herunterfallen           verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+hinaufsteigen            verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+hinterherlaufen          verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+hinuntersteigen          verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 hocken                   verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 humpeln                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 knien                    verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 kriechen                 verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 lehnen                   verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 losfahren                verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
-losgehen                 verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 marschieren              verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 paddeln                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 rudern                   verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
@@ -1129,10 +1284,13 @@ umkehren                 verb   grade=3-4 topic=actions.motion role=prod conf=75
 verfolgen                verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 verlassen                verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 verschwinden             verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
+vorbeifahren             verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
+vorbeigehen              verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 wackeln                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 wandern                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 zappeln                  verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
 zurückkehren             verb   grade=3-4 topic=actions.motion role=prod conf=75 src=ai
+zurücklaufen             verb   grade=3-4 topic=actions.motion role=prod conf=70 src=ai|rev
 
 # grade 3-4 · actions.perception
 bemerken                 verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
@@ -1152,6 +1310,8 @@ knistern                 verb   grade=3-4 topic=actions.perception role=prod con
 lauschen                 verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 leuchten                 verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 Lärm                     noun   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
+nachschauen              verb   grade=3-4 topic=actions.perception role=prod conf=70 src=ai|rev
+nachsehen                verb   grade=3-4 topic=actions.perception role=prod conf=70 src=ai|rev
 rascheln                 verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 rauschen                 verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 sichtbar                 adj    grade=3-4 topic=actions.perception role=prod conf=75 src=ai
@@ -1162,8 +1322,10 @@ stinken                  verb   grade=3-4 topic=actions.perception role=prod con
 tasten                   verb   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 Ton:sound                noun   grade=3-4 topic=actions.perception role=prod conf=75 src=ai
 unsichtbar               adj    grade=3-4 topic=actions.perception role=prod conf=75 src=ai
+zusehen                  verb   grade=3-4 topic=actions.perception role=prod conf=70 src=ai|rev
 
 # grade 3-4 · actions.speaking
+abfragen                 verb   grade=3-4 topic=actions.speaking role=prod conf=70 src=ai|rev
 aufzählen                verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 Ausrede                  noun   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 beantworten              verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
@@ -1190,10 +1352,11 @@ loben                    verb   grade=3-4 topic=actions.speaking role=prod conf=
 meinen                   verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 melden                   verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 murmeln                  verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
+nacherzählen             verb   grade=3-4 topic=actions.speaking role=prod conf=80 src=ai|rev
+nachmachen               verb   grade=3-4 topic=actions.speaking role=prod conf=70 src=ai|rev
 nennen                   verb   grade=3-4 topic=actions.speaking role=prod conf=65 src=ai
 prahlen                  verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 Rat                      noun   grade=3-4 topic=actions.speaking|society role=prod conf=65 src=ai|freq
-schimpfen                verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 stottern                 verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 unterhalten              verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 Unterhaltung             noun   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
@@ -1202,9 +1365,11 @@ verlangen                verb   grade=3-4 topic=actions.speaking role=prod conf=
 verraten                 verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 Versprechen              noun   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 versprechen              verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
+vormachen                verb   grade=3-4 topic=actions.speaking role=prod conf=70 src=ai|rev
 Vortrag                  noun   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 warnen                   verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 Warnung                  noun   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
+weitererzählen           verb   grade=3-4 topic=actions.speaking role=prod conf=70 src=ai|rev
 widersprechen            verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 wiederholen              verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
 zugeben                  verb   grade=3-4 topic=actions.speaking role=prod conf=75 src=ai
@@ -1214,16 +1379,25 @@ zustimmen                verb   grade=3-4 topic=actions.speaking role=prod conf=
 vermutlich               adj    grade=3-4 topic=actions.thinking role=prod conf=60 src=ai|freq
 
 # grade 3-4 · body
+abspülen                 verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
+aufknöpfen               verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 Augenbraue               noun   grade=3-4 topic=body role=prod conf=75 src=ai
+ausspülen                verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 Brust                    noun   grade=3-4 topic=body role=prod conf=72 src=ai|freq
+eincremen                verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
+einseifen                verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 Ellbogen                 noun   grade=3-4 topic=body role=prod conf=75 src=ai
+föhnen                   verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 Handgelenk               noun   grade=3-4 topic=body role=prod conf=75 src=ai
 Haut                     noun   grade=3-4 topic=body role=prod conf=75 src=ai
 Kinn                     noun   grade=3-4 topic=body role=prod conf=75 src=ai
 Knochen                  noun   grade=3-4 topic=body role=prod conf=75 src=ai
 Knöchel                  noun   grade=3-4 topic=body role=prod conf=75 src=ai
+rasieren                 verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 Stirn                    noun   grade=3-4 topic=body role=prod conf=75 src=ai
 Wange                    noun   grade=3-4 topic=body role=prod conf=75 src=ai
+zubinden                 verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
+zuknöpfen                verb   grade=3-4 topic=body role=prod conf=70 src=ai|rev
 
 # grade 3-4 · celebrations
 Advent                   noun   grade=3-4 topic=celebrations role=prod conf=75 src=ai
@@ -1280,11 +1454,12 @@ Umweltschutz             noun   grade=3-4 topic=environment role=prod conf=75 sr
 Verpackung               noun   grade=3-4 topic=environment role=prod conf=75 src=ai
 verschmutzen             verb   grade=3-4 topic=environment role=prod conf=75 src=ai
 Verschmutzung            noun   grade=3-4 topic=environment role=prod conf=75 src=ai
-wegwerfen                verb   grade=3-4 topic=environment role=prod conf=75 src=ai
 
 # grade 3-4 · feelings
+aufgeregt                adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 Aufregung                noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 beleidigt                adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
+Belohnung                noun   grade=3-4 topic=feelings role=prod conf=70 src=ai|rev
 dankbar                  adj    grade=3-4 topic=feelings role=prod conf=70 src=ai|freq
 Eifersucht               noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 eifersüchtig             adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
@@ -1306,8 +1481,10 @@ hoffen                   verb   grade=3-4 topic=feelings role=prod conf=75 src=a
 Hoffnung                 noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 Langeweile               noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 leidtun                  verb   grade=3-4 topic=feelings role=prod conf=75 src=ai
+lächeln                  verb   grade=3-4 topic=feelings role=prod conf=65 src=ai
 Mitleid                  noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 Mut                      noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
+Müdigkeit                noun   grade=3-4 topic=feelings role=prod conf=70 src=ai|rev
 neidisch                 adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 nervös                   adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 Pech                     noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
@@ -1318,14 +1495,17 @@ Sehnsucht                noun   grade=3-4 topic=feelings role=prod conf=75 src=a
 seufzen                  verb   grade=3-4 topic=feelings role=prod conf=75 src=ai
 Sorge                    noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 sorgen                   verb   grade=3-4 topic=feelings role=prod conf=75 src=ai
+Spannung                 noun   grade=3-4 topic=feelings role=prod conf=70 src=ai|rev
 staunen                  verb   grade=3-4 topic=feelings role=prod conf=75 src=ai
 stolz                    adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 Stolz                    noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
+Traurigkeit              noun   grade=3-4 topic=feelings role=prod conf=70 src=ai|rev
 Träne                    noun   grade=3-4 topic=feelings role=prod conf=75 src=ai
 unzufrieden              adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 verliebt                 adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 zittern                  verb   grade=3-4 topic=feelings role=prod conf=75 src=ai
 zufrieden                adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
+ängstlich                adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 überrascht               adj    grade=3-4 topic=feelings role=prod conf=75 src=ai
 
 # grade 3-4 · food
@@ -1336,8 +1516,6 @@ Gewürz                   noun   grade=3-4 topic=food role=prod conf=75 src=ai
 Mehl                     noun   grade=3-4 topic=food role=prod conf=75 src=ai
 Portion                  noun   grade=3-4 topic=food role=prod conf=75 src=ai
 Rezept                   noun   grade=3-4 topic=food role=prod conf=75 src=ai
-rühren                   verb   grade=3-4 topic=food role=prod conf=75 src=ai
-schälen                  verb   grade=3-4 topic=food role=prod conf=75 src=ai
 Teig                     noun   grade=3-4 topic=food role=prod conf=75 src=ai
 Vollkorn                 noun   grade=3-4 topic=food role=rec conf=75 src=ai
 Wein                     noun   grade=3-4 topic=food role=prod conf=65 src=ai|freq
@@ -1348,11 +1526,15 @@ Zutat                    noun   grade=3-4 topic=food role=prod conf=75 src=ai
 # grade 3-4 · function.adverb
 außerdem                 adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 beinahe                  adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
+dabei                    adv    grade=3-4 topic=function.adverb role=prod conf=65 src=ai|rev
+dafür                    adv    grade=3-4 topic=function.adverb role=prod conf=65 src=ai|rev
 dagegen                  adv    grade=3-4 topic=function.adverb role=prod conf=72 src=ai|freq
+damit                    adv    grade=3-4 topic=function.adverb role=prod conf=62 src=ai|rev
 daran                    adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai|freq
 daraus                   adv    grade=3-4 topic=function.adverb role=prod conf=65 src=ai|freq
 darin                    adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai|freq
 darüber                  adv    grade=3-4 topic=function.adverb role=prod conf=72 src=ai|freq
+dazu                     adv    grade=3-4 topic=function.adverb role=prod conf=65 src=ai|rev
 ebenfalls                adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 eher                     adv    grade=3-4 topic=function.adverb role=prod conf=62 src=ai|freq
 eigentlich               adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
@@ -1369,6 +1551,7 @@ mindestens               adv    grade=3-4 topic=function.adverb role=prod conf=7
 nebenan                  adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 nirgends                 adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 nirgendwo                adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
+nun                      adv    grade=3-4 topic=function.adverb role=prod conf=65 src=ai|rev
 rückwärts                adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 selbstverständlich       adj    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
 sogar                    adv    grade=3-4 topic=function.adverb role=prod conf=70 src=ai
@@ -1395,31 +1578,66 @@ eben                     part   grade=3-4 topic=function.particle role=rec conf=
 wohl                     part   grade=3-4 topic=function.particle role=rec conf=60 src=ai|freq
 
 # grade 3-4 · function.preposition
+ab                       adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+abseits                  adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
 anstatt                  adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
 außer                    adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
 außerhalb                adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+dank                     adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+diesseits                adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+durchs                   adp    grade=3-4 topic=function.preposition role=prod conf=65 src=ai|rev
 entlang                  adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+fürs                     adp    grade=3-4 topic=function.preposition role=prod conf=65 src=ai|rev
 gegenüber                adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+inmitten                 adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
 innerhalb                adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+jenseits                 adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+laut                     adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+mithilfe                 adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+nahe                     adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
 oberhalb                 adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai
+per                      adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
 pro                      adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+samt                     adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai|rev
+seit                     adp    grade=3-4 topic=function.preposition role=prod conf=65 src=ai|rev
 statt                    adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai
+ums                      adp    grade=3-4 topic=function.preposition role=prod conf=65 src=ai|rev
 unterhalb                adp    grade=3-4 topic=function.preposition role=rec conf=70 src=ai
+zuliebe                  adp    grade=3-4 topic=function.preposition role=prod conf=70 src=ai|rev
+übers                    adp    grade=3-4 topic=function.preposition role=prod conf=65 src=ai|rev
 
 # grade 3-4 · function.pronoun
+allerlei                 det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
 der:rel                  pron   grade=3-4 topic=function.pronoun role=rec conf=60 src=ai
+derjenige                pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai|rev
+derselbe                 det    grade=3-4 topic=function.pronoun role=rec conf=65 src=ai|rev
 derselbe                 pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai
 einander                 pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai
-einige                   det    grade=3-4 topic=function.pronoun|numbers role=prod conf=75 src=ai|freq
+einige                   det    grade=3-4 topic=function.pronoun|numbers role=prod conf=65 src=ai|rev
 einige                   pron   grade=3-4 topic=function.pronoun|numbers role=prod conf=72 src=ai|freq
+etliche                  pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai|rev
 gegenseitig              adj    grade=3-4 topic=function.pronoun role=prod conf=70 src=ai
 Ihr                      det    grade=3-4 topic=function.pronoun role=prod conf=72 src=ai|freq
 Ihr                      pron   grade=3-4 topic=function.pronoun role=rec conf=60 src=ai|freq
+irgendein                det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
+irgendein                pron   grade=3-4 topic=function.pronoun role=prod conf=70 src=ai|rev
+irgendetwas              pron   grade=3-4 topic=function.pronoun role=prod conf=70 src=ai|rev
 irgendjemand             pron   grade=3-4 topic=function.pronoun role=prod conf=70 src=ai
+irgendwelcher            det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
+irgendwer                pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai|rev
+jener                    det    grade=3-4 topic=function.pronoun role=rec conf=65 src=ai|rev
 jener                    pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai
+manch                    det    grade=3-4 topic=function.pronoun role=rec conf=65 src=ai|rev
+mancher                  det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
+mancher                  pron   grade=3-4 topic=function.pronoun role=prod conf=70 src=ai|rev
+mehrere                  det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
+niemand                  pron   grade=3-4 topic=function.pronoun role=prod conf=65 src=ai
 selber                   adv    grade=3-4 topic=function.pronoun role=prod conf=70 src=ai
+solch                    det    grade=3-4 topic=function.pronoun role=rec conf=65 src=ai|rev
+solcher                  det    grade=3-4 topic=function.pronoun role=prod conf=65 src=ai|rev
 solcher                  pron   grade=3-4 topic=function.pronoun role=rec conf=70 src=ai
-wenige                   det    grade=3-4 topic=function.pronoun|numbers role=prod conf=72 src=ai|freq
+was:rel                  pron   grade=3-4 topic=function.pronoun role=rec conf=60 src=ai|rev
+wenige                   det    grade=3-4 topic=function.pronoun|numbers role=prod conf=65 src=ai|rev
 wenige                   pron   grade=3-4 topic=function.pronoun|numbers role=prod conf=70 src=ai|freq
 
 # grade 3-4 · function.question
@@ -1435,36 +1653,78 @@ wozu                     adv    grade=3-4 topic=function.question role=prod conf
 
 # grade 3-4 · health
 ausruhen                 verb   grade=3-4 topic=health role=prod conf=75 src=ai
+Behandlung               noun   grade=3-4 topic=health role=prod conf=70 src=ai|rev
 erholen                  verb   grade=3-4 topic=health role=prod conf=75 src=ai
 Erkältung                noun   grade=3-4 topic=health role=prod conf=75 src=ai
 Gesundheit               noun   grade=3-4 topic=health role=prod conf=75 src=ai
 Grippe                   noun   grade=3-4 topic=health role=prod conf=75 src=ai
+Heilung                  noun   grade=3-4 topic=health role=prod conf=70 src=ai|rev
 Krankheit                noun   grade=3-4 topic=health role=prod conf=75 src=ai
 Medikament               noun   grade=3-4 topic=health role=prod conf=75 src=ai
+Pflege                   noun   grade=3-4 topic=health role=prod conf=70 src=ai|rev
 Praxis                   noun   grade=3-4 topic=health role=prod conf=65 src=ai|freq
+Rettung                  noun   grade=3-4 topic=health role=prod conf=70 src=ai|rev
 Schmerz                  noun   grade=3-4 topic=health role=prod conf=75 src=ai
 Tablette                 noun   grade=3-4 topic=health role=prod conf=75 src=ai
 ungesund                 adj    grade=3-4 topic=health role=prod conf=75 src=ai
-verletzen                verb   grade=3-4 topic=health role=prod conf=75 src=ai
+Untersuchung             noun   grade=3-4 topic=health role=prod conf=70 src=ai|rev
 Verletzung               noun   grade=3-4 topic=health role=prod conf=75 src=ai
 Wunde                    noun   grade=3-4 topic=health role=prod conf=75 src=ai
 
 # grade 3-4 · home
-abtrocknen               verb   grade=3-4 topic=home role=prod conf=75 src=ai
-abwaschen                verb   grade=3-4 topic=home role=prod conf=75 src=ai
+Batterie                 noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Besen                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 bügeln                   verb   grade=3-4 topic=home role=prod conf=75 src=ai
+Bürste                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 Dachboden                noun   grade=3-4 topic=home role=prod conf=75 src=ai
+Deckel                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Draht                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Eimer                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Einrichtung              noun   grade=3-4 topic=home role=rec conf=70 src=ai|rev
 Flur:hall                noun   grade=3-4 topic=home role=prod conf=65 src=ai
-Gegenstand               noun   grade=3-4 topic=home role=prod conf=65 src=ai|freq
+Föhn                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Gegenstand               noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Gießkanne                noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Glühbirne                noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Griff                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Harke                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 Haushalt                 noun   grade=3-4 topic=home role=prod conf=75 src=ai
+Heizung                  noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Henkel                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kabel                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kamm                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kanne                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Keller                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kette                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kissen                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Kiste                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Korb                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Krug                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Mauer                    noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 Mikrowelle               noun   grade=3-4 topic=home role=prod conf=75 src=ai
 Möbel                    noun   grade=3-4 topic=home role=prod conf=75 src=ai
 Rahmen                   noun   grade=3-4 topic=home role=prod conf=62 src=ai|freq
-spülen                   verb   grade=3-4 topic=home role=prod conf=75 src=ai
+Rechen                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Sauberkeit               noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schachtel                noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schaufel                 noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schnur                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schubkarre               noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schublade                noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schwamm                  noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Schüssel                 noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Seil                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Shampoo                  noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Spiegel                  noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 Staubsauger              noun   grade=3-4 topic=home role=prod conf=75 src=ai
 Steckdose                noun   grade=3-4 topic=home role=prod conf=75 src=ai
+Tablett                  noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Waschlappen              noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 Waschmaschine            noun   grade=3-4 topic=home role=prod conf=75 src=ai
 Wäsche                   noun   grade=3-4 topic=home role=prod conf=75 src=ai
+Zahnpasta                noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Zaun                     noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
+Ziegel                   noun   grade=3-4 topic=home role=prod conf=70 src=ai|rev
 
 # grade 3-4 · jobs
 Arbeiter                 noun   grade=3-4 topic=jobs role=prod conf=75 src=ai
@@ -1574,7 +1834,6 @@ Geldbeutel               noun   grade=3-4 topic=money role=prod conf=65 src=ai
 Geldbörse                noun   grade=3-4 topic=money role=prod conf=75 src=ai
 Geldschein               noun   grade=3-4 topic=money role=prod conf=75 src=ai
 Kosten                   noun   grade=3-4 topic=money role=prod conf=65 src=ai|freq
-leihen                   verb   grade=3-4 topic=money role=prod conf=75 src=ai
 Münze                    noun   grade=3-4 topic=money role=prod conf=75 src=ai
 Portemonnaie             noun   grade=3-4 topic=money role=prod conf=75 src=ai
 Schein                   noun   grade=3-4 topic=money role=prod conf=70 src=ai
@@ -1585,7 +1844,6 @@ Spende                   noun   grade=3-4 topic=money role=prod conf=75 src=ai
 spenden                  verb   grade=3-4 topic=money role=prod conf=75 src=ai
 Summe                    noun   grade=3-4 topic=money role=prod conf=75 src=ai
 Taschengeld              noun   grade=3-4 topic=money role=prod conf=85 src=ai
-tauschen                 verb   grade=3-4 topic=money role=prod conf=65 src=ai
 verdienen                verb   grade=3-4 topic=money role=prod conf=75 src=ai
 Wechselgeld              noun   grade=3-4 topic=money role=prod conf=75 src=ai
 wechseln                 verb   grade=3-4 topic=money role=prod conf=75 src=ai
@@ -1593,47 +1851,115 @@ Wert                     noun   grade=3-4 topic=money role=prod conf=75 src=ai
 wertvoll                 adj    grade=3-4 topic=money role=prod conf=75 src=ai
 
 # grade 3-4 · nature
+Amsel                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Ast                      noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Bach                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Beere                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 beobachten               verb   grade=3-4 topic=nature role=prod conf=75 src=ai
 Beobachtung              noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Blüte                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Brombeere                noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Dachs                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Damm                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Deich                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Dorn                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Dunkelheit               noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Ebbe                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Eiche                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Eichel                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Eiszapfen                noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Ergebnis                 noun   grade=3-4 topic=nature|thinking role=prod conf=75 src=ai
+Ernte                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Experiment               noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Felsen                   noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Feuchtigkeit             noun   grade=3-4 topic=nature role=rec conf=70 src=ai|rev
+Finsternis               noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Flut                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Flügel                   noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Flüssigkeit              noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Frucht                   noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Getreide                 noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Graben                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Halm                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Hang                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Haselnuss                noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Hecke                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Heide:heath              noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Heidelbeere              noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Heu                      noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Himbeere                 noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Hirsch                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Hummel                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Höhle                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Hügel                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Insekt                   noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Kastanie                 noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Kiefer:pine              noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Knospe                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Krebs                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Krone                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Krähe                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Kröte                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Landschaft               noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Laub                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Laubbaum                 noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Lebensraum               noun   grade=3-4 topic=nature role=rec conf=70 src=ai
+Lehm                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Libelle                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Lichtung                 noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Mais                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Matsch                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Maulwurf                 noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Meise                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Moor                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Moos                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Muschel                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Möwe                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Mücke                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Nadelbaum                noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Nahrung                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Natur                    noun   grade=3-4 topic=nature role=prod conf=80 src=ai|freq
+Qualle                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Rinde                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Robbe                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Samen                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Scheune                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Schlamm                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Schlucht                 noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Schneeflocke             noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Schwalbe                 noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Schwan                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Spatz                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Specht                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Spur                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Stall                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Stamm                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Storch                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Strauch                  noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Stroh                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Strömung                 noun   grade=3-4 topic=nature role=rec conf=70 src=ai|rev
+Stängel                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Sumpf                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Tal                      noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Tanne                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Teich                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Tropfen                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Ufer                     noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Versuch                  noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Walnuss                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Weide                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Welle                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Wespe                    noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Wetterbericht            noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Wildnis                  noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Wildschwein              noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Winterschlaf             noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Wurzel                   noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Zapfen                   noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 Zugvogel                 noun   grade=3-4 topic=nature role=prod conf=75 src=ai
 Zweig                    noun   grade=3-4 topic=nature role=prod conf=75 src=ai
+Ähre                     noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
+Überschwemmung           noun   grade=3-4 topic=nature role=prod conf=70 src=ai|rev
 
 # grade 3-4 · people
 Bekannte                 noun   grade=3-4 topic=people role=prod conf=75 src=ai
@@ -1669,7 +1995,6 @@ Niederlage               noun   grade=3-4 topic=play role=prod conf=75 src=ai
 Pokal                    noun   grade=3-4 topic=play role=prod conf=75 src=ai
 Rennen                   noun   grade=3-4 topic=play|sports role=prod conf=70 src=ai|freq
 Runde                    noun   grade=3-4 topic=play role=prod conf=72 src=ai|freq
-Sammlung                 noun   grade=3-4 topic=play role=prod conf=70 src=ai|freq
 Schiedsrichter           noun   grade=3-4 topic=play role=prod conf=75 src=ai
 schummeln                verb   grade=3-4 topic=play role=prod conf=75 src=ai
 Sieg                     noun   grade=3-4 topic=play role=prod conf=75 src=ai
@@ -1689,20 +2014,34 @@ angeben                  verb   grade=3-4 topic=qualities.character role=prod co
 Angeber                  noun   grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 aufmerksam               adj    grade=3-4 topic=qualities.character role=prod conf=68 src=ai|freq
 bereit                   adj    grade=3-4 topic=qualities.character role=prod conf=70 src=ai|freq
+Dummheit                 noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 egoistisch               adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 ehrlich                  adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Ehrlichkeit              noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 Eigenschaft              noun   grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 ernst                    adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+faul                     adj    grade=3-4 topic=qualities.character role=prod conf=72 src=ai|rev
+Faulheit                 noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 feige                    adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+fleißig                  adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Frechheit                noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
+Freundlichkeit           noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
+Fähigkeit                noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 Geduld                   noun   grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 geduldig                 adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 geizig                   adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Gemeinheit               noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
+Gewohnheit               noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 gierig                   adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 großzügig                adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 hilfsbereit              adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Hilfsbereitschaft        noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 höflich                  adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Höflichkeit              noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
+Klugheit                 noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 neugierig                adj    grade=3-4 topic=qualities.character role=prod conf=70 src=ai
 ordentlich               adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
+Pünktlichkeit            noun   grade=3-4 topic=qualities.character role=prod conf=70 src=ai|rev
 rücksichtslos            adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
 schlau                   adj    grade=3-4 topic=qualities.character role=prod conf=65 src=ai
 schüchtern               adj    grade=3-4 topic=qualities.character role=prod conf=75 src=ai
@@ -1727,6 +2066,7 @@ beliebt                  adj    grade=3-4 topic=qualities.judgement role=prod co
 berühmt                  adj    grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
 fremd                    adj    grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
 furchtbar                adj    grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
+gefährlich               adj    grade=3-4 topic=qualities.judgement role=prod conf=68 src=ai|rev
 geheim                   adj    grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
 Geheimnis                noun   grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
 großartig                adj    grade=3-4 topic=qualities.judgement role=prod conf=75 src=ai
@@ -1799,7 +2139,6 @@ ungefähr                 adv    grade=3-4 topic=qualities.size role=prod conf=7
 winzig                   adj    grade=3-4 topic=qualities.size role=prod conf=75 src=ai
 
 # grade 3-4 · school
-abschreiben              verb   grade=3-4 topic=school role=prod conf=80 src=ai
 AG                       noun   grade=3-4 topic=school role=prod conf=55 src=ai|freq
 ankreuzen                verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Arbeitsblatt             noun   grade=3-4 topic=school role=prod conf=80 src=ai
@@ -1808,13 +2147,14 @@ Aufsatz                  noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Auftrag                  noun   grade=3-4 topic=school role=rec conf=60 src=ai|freq
 ausfüllen                verb   grade=3-4 topic=school role=prod conf=80 src=ai
 ausreichend              adj    grade=3-4 topic=school role=rec conf=60 src=ai|freq
-ausschneiden             verb   grade=3-4 topic=school role=prod conf=80 src=ai
 auswendig                adv    grade=3-4 topic=school role=prod conf=80 src=ai
 bedeuten                 verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Bedeutung                noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Beispiel                 noun   grade=3-4 topic=school role=prod conf=65 src=ai
+Beschreibung             noun   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 Diktat                   noun   grade=3-4 topic=school role=prod conf=80 src=ai
 einsetzen                verb   grade=3-4 topic=school role=prod conf=62 src=ai|freq
+Erzählung                noun   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 Fach                     noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Ganztag                  noun   grade=3-4 topic=school role=rec conf=80 src=ai
 Gruppenarbeit            noun   grade=3-4 topic=school role=prod conf=80 src=ai
@@ -1826,12 +2166,15 @@ Klassenkamerad           noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Klassenlehrer            noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Klassenlehrerin          noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Klebstoff                noun   grade=3-4 topic=school role=prod conf=80 src=ai
+kontrollieren            verb   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 korrigieren              verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Kugelschreiber           noun   grade=3-4 topic=school role=prod conf=80 src=ai
 markieren                verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Mitschüler               noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Mitschülerin             noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Mühe                     noun   grade=3-4 topic=school role=prod conf=68 src=ai|freq
+Nacherzählung            noun   grade=3-4 topic=school role=prod conf=80 src=ai|rev
+nachrechnen              verb   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 nachschlagen             verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Note                     noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Ordner                   noun   grade=3-4 topic=school role=prod conf=80 src=ai
@@ -1853,14 +2196,18 @@ Test                     noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Thema                    noun   grade=3-4 topic=school role=prod conf=78 src=ai|freq
 Turnbeutel               noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Universität              noun   grade=3-4 topic=school|jobs role=rec conf=60 src=ai|freq
+Unordnung                noun   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 Unterricht               noun   grade=3-4 topic=school role=prod conf=80 src=ai
 unterstreichen           verb   grade=3-4 topic=school role=prod conf=80 src=ai
 Wandertag                noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Wissen                   noun   grade=3-4 topic=school role=prod conf=68 src=ai|freq
 Wochenplan               noun   grade=3-4 topic=school role=prod conf=80 src=ai
+Zeichnung                noun   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 Zeile                    noun   grade=3-4 topic=school role=prod conf=80 src=ai
 Zeugnis                  noun   grade=3-4 topic=school role=prod conf=70 src=ai
+überprüfen               verb   grade=3-4 topic=school role=prod conf=75 src=ai|rev
 Überschrift              noun   grade=3-4 topic=school role=prod conf=80 src=ai
+Übersicht                noun   grade=3-4 topic=school role=rec conf=75 src=ai|rev
 
 # grade 3-4 · self
 Alter                    noun   grade=3-4 topic=self role=prod conf=75 src=ai
@@ -1884,11 +2231,14 @@ Wohnort                  noun   grade=3-4 topic=self role=prod conf=75 src=ai
 
 # grade 3-4 · shopping
 Angebot                  noun   grade=3-4 topic=shopping role=prod conf=75 src=ai
+Ausstellung              noun   grade=3-4 topic=shopping role=prod conf=70 src=ai|rev
 aussuchen                verb   grade=3-4 topic=shopping role=prod conf=75 src=ai
 Auswahl                  noun   grade=3-4 topic=shopping role=prod conf=75 src=ai
 auswählen                verb   grade=3-4 topic=shopping role=prod conf=75 src=ai
+Bedienung                noun   grade=3-4 topic=shopping role=prod conf=70 src=ai|rev
 besorgen                 verb   grade=3-4 topic=shopping role=prod conf=75 src=ai
 bestellen                verb   grade=3-4 topic=shopping role=prod conf=75 src=ai
+Bestellung               noun   grade=3-4 topic=shopping role=prod conf=70 src=ai|rev
 billig                   adj    grade=3-4 topic=shopping role=prod conf=65 src=ai
 Einkauf                  noun   grade=3-4 topic=shopping role=prod conf=75 src=ai
 Einkaufswagen            noun   grade=3-4 topic=shopping role=prod conf=75 src=ai
@@ -1910,6 +2260,7 @@ Preis                    noun   grade=3-4 topic=shopping|money role=prod conf=78
 preiswert                adj    grade=3-4 topic=shopping role=prod conf=75 src=ai
 Rechnung                 noun   grade=3-4 topic=shopping role=prod conf=70 src=ai
 Regal                    noun   grade=3-4 topic=shopping role=prod conf=65 src=ai
+Sammlung                 noun   grade=3-4 topic=shopping|play role=prod conf=70 src=ai|rev
 Sonderangebot            noun   grade=3-4 topic=shopping role=prod conf=75 src=ai
 Tüte                     noun   grade=3-4 topic=shopping role=prod conf=65 src=ai
 umtauschen               verb   grade=3-4 topic=shopping role=prod conf=75 src=ai
@@ -1922,14 +2273,19 @@ abstimmen                verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Abstimmung               noun   grade=3-4 topic=society role=prod conf=75 src=ai
 bestrafen                verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Dieb                     noun   grade=3-4 topic=society role=prod conf=75 src=ai
+Einladung                noun   grade=3-4 topic=society role=prod conf=65 src=ai|rev
 erlauben                 verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Erlaubnis                noun   grade=3-4 topic=society role=prod conf=75 src=ai
 fair                     adj    grade=3-4 topic=society role=prod conf=75 src=ai
+Freiheit                 noun   grade=3-4 topic=society role=prod conf=70 src=ai|rev
 Freundschaft             noun   grade=3-4 topic=society role=prod conf=75 src=ai
 Frieden                  noun   grade=3-4 topic=society role=prod conf=72 src=ai|freq
+Gefängnis                noun   grade=3-4 topic=society role=prod conf=70 src=ai|rev
 gemeinsam                adj    grade=3-4 topic=society role=prod conf=75 src=ai
 Gemeinschaft             noun   grade=3-4 topic=society role=prod conf=75 src=ai
 gerecht                  adj    grade=3-4 topic=society role=prod conf=75 src=ai
+Gerechtigkeit            noun   grade=3-4 topic=society role=rec conf=70 src=ai|rev
+Gesellschaft             noun   grade=3-4 topic=society role=rec conf=70 src=ai|rev
 Kinderrecht              noun   grade=3-4 topic=society role=rec conf=75 src=ai
 Klassenrat               noun   grade=3-4 topic=society role=prod conf=85 src=ai
 Klassensprecher          noun   grade=3-4 topic=society role=prod conf=85 src=ai
@@ -1947,9 +2303,11 @@ stehlen                  verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Strafe                   noun   grade=3-4 topic=society role=prod conf=75 src=ai
 unfair                   adj    grade=3-4 topic=society role=prod conf=75 src=ai
 ungerecht                adj    grade=3-4 topic=society role=prod conf=75 src=ai
+Verabredung              noun   grade=3-4 topic=society role=prod conf=70 src=ai|rev
 verbieten                verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Verbot                   noun   grade=3-4 topic=society role=prod conf=75 src=ai
 Verhalten                noun   grade=3-4 topic=society role=prod conf=62 src=ai|freq
+Versammlung              noun   grade=3-4 topic=society role=prod conf=70 src=ai|rev
 versöhnen                verb   grade=3-4 topic=society role=prod conf=75 src=ai
 vertragen                verb   grade=3-4 topic=society role=prod conf=75 src=ai
 Vertrauen                noun   grade=3-4 topic=society role=prod conf=75 src=ai
@@ -1963,6 +2321,7 @@ wählen                   verb   grade=3-4 topic=society role=prod conf=70 src=a
 # grade 3-4 · space
 Abstand                  noun   grade=3-4 topic=space role=prod conf=75 src=ai
 Ausland                  noun   grade=3-4 topic=space role=prod conf=75 src=ai
+außen                    adv    grade=3-4 topic=space role=prod conf=70 src=ai|rev
 Bundesland               noun   grade=3-4 topic=space role=prod conf=75 src=ai
 darunter                 adv    grade=3-4 topic=space role=prod conf=70 src=ai|freq
 direkt                   adj    grade=3-4 topic=space role=prod conf=72 src=ai|freq
@@ -1971,9 +2330,13 @@ Entfernung               noun   grade=3-4 topic=space role=prod conf=75 src=ai
 fort                     adv    grade=3-4 topic=space role=prod conf=60 src=ai|freq
 Gegend                   noun   grade=3-4 topic=space role=prod conf=75 src=ai
 Grenze                   noun   grade=3-4 topic=space role=prod conf=75 src=ai
+heim                     adv    grade=3-4 topic=space role=prod conf=70 src=ai|rev
+heraus                   adv    grade=3-4 topic=space role=prod conf=70 src=ai|rev
 Himmelsrichtung          noun   grade=3-4 topic=space role=prod conf=75 src=ai
 hinauf                   adv    grade=3-4 topic=space role=prod conf=70 src=ai|freq
 hinaus                   adv    grade=3-4 topic=space role=prod conf=72 src=ai|freq
+hinein                   adv    grade=3-4 topic=space role=prod conf=70 src=ai|rev
+innen                    adv    grade=3-4 topic=space role=prod conf=70 src=ai|rev
 Kompass                  noun   grade=3-4 topic=space role=prod conf=75 src=ai
 Landkarte                noun   grade=3-4 topic=space role=prod conf=75 src=ai
 mitten                   adv    grade=3-4 topic=space role=prod conf=72 src=ai|freq
@@ -1995,40 +2358,53 @@ westlich                 adj    grade=3-4 topic=space role=prod conf=75 src=ai
 Absicht                  noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 absichtlich              adj    grade=3-4 topic=thinking role=prod conf=75 src=ai
 achten                   verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Aufmerksamkeit           noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 Ausnahme                 noun   grade=3-4 topic=thinking role=prod conf=62 src=ai|freq
 beachten                 verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Bedürfnis                noun   grade=3-4 topic=thinking role=rec conf=70 src=ai|rev
 begründen                verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Begründung               noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 bestimmt                 adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
 dadurch                  adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
 daher                    adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
 damit                    sconj  grade=3-4 topic=thinking role=prod conf=75 src=ai
+darum                    adv    grade=3-4 topic=thinking|function.adverb role=prod conf=65 src=ai
 deshalb                  adv    grade=3-4 topic=thinking role=prod conf=70 src=ai
 deswegen                 adv    grade=3-4 topic=thinking role=prod conf=70 src=ai
+Entdeckung               noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 entscheiden              verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Entscheidung             noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Erfahrung                noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
+Erfindung                noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 erinnern                 verb   grade=3-4 topic=thinking role=prod conf=65 src=ai
 Erinnerung               noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 erkennen                 verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Erklärung                noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 falls                    sconj  grade=3-4 topic=thinking role=prod conf=75 src=ai
 Folge                    noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Gedächtnis               noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 Gegensatz                noun   grade=3-4 topic=thinking role=rec conf=62 src=ai|freq
+Gelegenheit              noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 gelingen                 verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Grund                    noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Hindernis                noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 hoffentlich              adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
 interessieren            verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Kleinigkeit              noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 konzentrieren            verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 lösen                    verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
-merken                   verb   grade=3-4 topic=thinking role=prod conf=65 src=ai
+Möglichkeit              noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 nachdenken               verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Neuigkeit                noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 nämlich                  adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
 obwohl                   sconj  grade=3-4 topic=thinking role=prod conf=80 src=ai
 Plan                     noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 planen                   verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 probieren                verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Problem                  noun   grade=3-4 topic=thinking role=prod conf=72 src=ai|freq
+Schwierigkeit            noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 sodass                   sconj  grade=3-4 topic=thinking role=prod conf=75 src=ai
+sonst                    adv    grade=3-4 topic=thinking|function.adverb role=prod conf=75 src=ai
 Tipp                     noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 trotz                    adp    grade=3-4 topic=thinking role=prod conf=75 src=ai
 trotzdem                 adv    grade=3-4 topic=thinking role=prod conf=75 src=ai
@@ -2040,8 +2416,10 @@ vermuten                 verb   grade=3-4 topic=thinking role=prod conf=75 src=a
 Vermutung                noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 Versehen                 noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
 versehentlich            adj    grade=3-4 topic=thinking role=prod conf=75 src=ai
+Verständnis              noun   grade=3-4 topic=thinking role=rec conf=70 src=ai|rev
 verursachen              verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
 vorstellen               verb   grade=3-4 topic=thinking role=prod conf=75 src=ai
+Vorstellung              noun   grade=3-4 topic=thinking role=prod conf=70 src=ai|rev
 wahrscheinlich           adj    grade=3-4 topic=thinking role=prod conf=75 src=ai
 wegen                    adp    grade=3-4 topic=thinking role=prod conf=75 src=ai
 Ziel                     noun   grade=3-4 topic=thinking role=prod conf=75 src=ai
@@ -2068,6 +2446,7 @@ dauernd                  adj    grade=3-4 topic=time.relations role=prod conf=75
 Ereignis                 noun   grade=3-4 topic=time.relations role=prod conf=75 src=ai
 erleben                  verb   grade=3-4 topic=time.relations role=prod conf=75 src=ai
 Erlebnis                 noun   grade=3-4 topic=time.relations role=prod conf=75 src=ai
+Ewigkeit                 noun   grade=3-4 topic=time.relations role=prod conf=70 src=ai|rev
 Gegenwart                noun   grade=3-4 topic=time.relations role=rec conf=75 src=ai
 gleichzeitig             adj    grade=3-4 topic=time.relations role=prod conf=65 src=ai|freq
 häufig                   adj    grade=3-4 topic=time.relations role=prod conf=75 src=ai
@@ -2076,6 +2455,7 @@ Jahrhundert              noun   grade=3-4 topic=time.relations role=prod conf=75
 Jahrzehnt                noun   grade=3-4 topic=time.relations role=prod conf=75 src=ai
 jemals                   adv    grade=3-4 topic=time.relations role=prod conf=75 src=ai
 jährlich                 adj    grade=3-4 topic=time.relations role=prod conf=75 src=ai
+Kindheit                 noun   grade=3-4 topic=time.relations role=prod conf=70 src=ai|rev
 kürzlich                 adv    grade=3-4 topic=time.relations role=prod conf=75 src=ai
 längst                   adv    grade=3-4 topic=time.relations role=prod conf=60 src=ai|freq
 meistens                 adv    grade=3-4 topic=time.relations role=prod conf=65 src=ai
@@ -2108,6 +2488,7 @@ während                  adp    grade=3-4 topic=time.relations role=prod conf=7
 während                  sconj  grade=3-4 topic=time.relations role=prod conf=75 src=ai
 wöchentlich              adj    grade=3-4 topic=time.relations role=prod conf=75 src=ai
 Zukunft                  noun   grade=3-4 topic=time.relations role=prod conf=75 src=ai
+zuletzt                  adv    grade=3-4 topic=time.relations role=prod conf=75 src=ai
 zunächst                 adv    grade=3-4 topic=time.relations role=prod conf=75 src=ai
 
 # grade 3-4 · town
@@ -2144,13 +2525,13 @@ Ort                      noun   grade=3-4 topic=town role=prod conf=80 src=ai|fr
 Parkhaus                 noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Parkplatz                noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Rathaus                  noun   grade=3-4 topic=town role=prod conf=85 src=ai
+Siedlung                 noun   grade=3-4 topic=town role=prod conf=70 src=ai|rev
 Stadtplan                noun   grade=3-4 topic=town role=prod conf=85 src=ai
 Stadtrand                noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Stadtteil                noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Stadtviertel             noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Tankstelle               noun   grade=3-4 topic=town role=prod conf=75 src=ai
 Umgebung                 noun   grade=3-4 topic=town role=prod conf=75 src=ai
-umziehen                 verb   grade=3-4 topic=town role=prod conf=70 src=ai
 Umzug                    noun   grade=3-4 topic=town|celebrations role=prod conf=70 src=ai
 Zentrum                  noun   grade=3-4 topic=town role=prod conf=68 src=ai|freq
 
@@ -2160,7 +2541,6 @@ Abfahrt                  noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 anhalten                 verb   grade=3-4 topic=traffic role=prod conf=70 src=ai
 Ankunft                  noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 anschnallen              verb   grade=3-4 topic=traffic role=prod conf=80 src=ai
-aussteigen               verb   grade=3-4 topic=traffic role=prod conf=65 src=ai
 ausweichen               verb   grade=3-4 topic=traffic role=prod conf=80 src=ai
 Autobahn                 noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 Bahnsteig                noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
@@ -2168,7 +2548,6 @@ Bremse                   noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 bremsen                  verb   grade=3-4 topic=traffic role=prod conf=80 src=ai
 Bushaltestelle           noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 Einbahnstraße            noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
-einsteigen               verb   grade=3-4 topic=traffic role=prod conf=65 src=ai
 Fahrbahn                 noun   grade=3-4 topic=traffic role=prod conf=80 src=ai
 Fahrer                   noun   grade=3-4 topic=traffic role=prod conf=70 src=ai
 Fahrgast                 noun   grade=3-4 topic=traffic role=rec conf=70 src=ai
@@ -2252,3 +2631,8 @@ Reise                    noun   grade=3-4 topic=travel role=prod conf=75 src=ai
 reisen                   verb   grade=3-4 topic=travel role=prod conf=75 src=ai
 Sehenswürdigkeit         noun   grade=3-4 topic=travel role=prod conf=75 src=ai
 zelten                   verb   grade=3-4 topic=travel role=prod conf=75 src=ai
+
+# grade 3-4 · weather
+Nebel                    noun   grade=3-4 topic=weather role=prod conf=72 src=ai|rev
+Sturm                    noun   grade=3-4 topic=weather role=prod conf=78 src=ai|rev
+windig                   adj    grade=3-4 topic=weather role=prod conf=70 src=ai|rev

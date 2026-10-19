@@ -89,6 +89,56 @@ The agent received a one-line message pointing to this file, with the instructio
     the adjective interferes with a grammar rule); use other words if you need them. Re-run the checker to 0
     errors, append a "Revision" note to `decisions.md`, and report new counts. Same clean-room rules as before.
 
+## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
+
+Message:
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-de.md (you: band 3-4, area core; output directory .../graded/runs/de-l1-core-3-4/). The 1-2 author is revising in parallel and will move some abstract words, function words and weather/space/feeling words from 1-2 to 3-4; they list them in their decisions.md under "moved to 3-4" (/tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/de-l1-core-1-2/decisions.md). You need not add those yourself — the orchestrator merges. Focus on patterns 3 and 4 (verbs with prefix/particle, concrete nouns of 3-4, -ung/-heit/-keit nouns) and pattern 5.
+
+Feedback file referred to:
+
+    # Revision round 1 (German L1), feedback from the internal reviewer — patterns only
+    
+    The reviewer compared the merged layer (bands 1-2 and 3-4) statistically with reference material outside the
+    repositories. You receive only aggregate numbers and patterns in the reviewer's own words; you never receive
+    reference entries, and you must not try to guess them. Revise **whole topics from your own knowledge**.
+    This is round 1 of at most 2 against this reference.
+    
+    Important context: the reference orders words by **spelling difficulty** (model words for spelling
+    phenomena), not by when children learn a word. Our band means "introduced / typically learned and used".
+    So part of "ours earlier" is expected and is no reason to move words blindly. Re-judge each word you touch
+    by our own definition.
+    
+    ## Numbers (whole layer)
+    - Coverage of the reference: 81.7 % (band 1-2 of the reference 88.6 %, band 3-4 74.6 %).
+    - By part of speech: nouns 80.4 %, **verbs 72.8 %**, adjectives 85.5 %, adverbs 94.3 %, closed classes 97–100 %.
+    - By word formation: simple nouns 80.5 %, nouns in -ung/-heit/-keit/-nis 73.3 %, compounds 88.1 %, simple verbs 76.8 %,
+      **verbs with a prefix or particle 69.6 %**, derived adjectives 86.3 %.
+    - Band agreement on shared words: exact 70.8 %; ours earlier 26.6 %, ours later 2.6 %.
+    - Function words: 96.6 % covered; those the reference puts in 3-4 are almost all in 1-2 with us.
+    - Largest mean shift (negative = ours earlier, in bands): weather −0.53, function.adverb −0.52, qualities.character −0.50,
+      function.pronoun −0.48, feelings −0.42, space −0.41, qualities.judgement −0.41, function.preposition −0.38.
+      Well calibrated: time.calendar, family, qualities.colour, self, function.auxiliary, body, actions.motion, animals, numbers.
+    
+    ## Patterns (reviewer's own words)
+    1. We start systematically too early, almost only in one direction. Most affected are more abstract words:
+       evaluative and character adjectives, feeling words, place and direction words, weather words, on average about half
+       a band too early. Concrete words of children's everyday life (body, family, calendar, colours, animals) fit well.
+    2. Function words of stage 3-4 almost all land in 1-2 with us, mainly adverbs, pronouns and prepositions. Check whether
+       rarer or longer members of these classes (manner adverbs, more formal prepositions) really belong to the first two years.
+    3. Verbs are the largest gap, especially verbs with a prefix or separable particle. The `actions.*` topics should be
+       extended with compound everyday verbs (type: verbs of handling things and of personal hygiene with a separable particle).
+    4. Simple concrete nouns of stage 3-4 are missing more often than in 1-2, mainly object and nature words that are not part
+       of the core topics of the first years; nouns in -ung/-heit/-keit are also below average.
+    5. Function words slightly below target: few missing lemmas, only among determiners/pronouns and prepositions.
+    
+    ## What to do
+    Work in your own output directory as before; only your own bands and areas. For every line you add or whose band you
+    change, set `src=ai|rev` (keep `freq` if it was there). Do not remove words just because they might not be in a
+    reference. Re-run the checker to 0 errors, append a "Revision round 1" section to `decisions.md` (what you changed per
+    topic and why, in your own reasoning), report counts (added, moved 1-2 → 3-4, moved 3-4 → 1-2). Same clean-room rules
+    as before (no web, no word lists, never the held-out repository). Words not in the lexicon go to `missing.tsv` again.
+
 ## Decisions log (written by the author)
 
 # Decisions log – author run `de-l1-core-3-4`
@@ -162,3 +212,44 @@ graded 3-4.
 - `missing.tsv` keeps the 6 rows still absent: geöffnet, Kräuter, Medien, verspätet, geschieden,
   kaputtgehen (not added because of a grammar-rule conflict; zerbrechen already covers the meaning).
 - Checker: 0 errors, 0 warnings.
+
+## Revision round 1 (reviewer patterns 3, 4 and 5)
+Worked from my own knowledge only; reviewer feedback was aggregate numbers and patterns. I did not try to
+reconstruct any reference. Every new line has `src=ai|rev`. No band changes: 0 lines moved from 1-2 to 3-4 or
+from 3-4 to 1-2 by me (the 1-2 author moves their own abstract/function words; the orchestrator merges).
+Before adding a word I checked the 1-2 author's current `core.tsv` and skipped words already graded there
+(about 40 everyday particle verbs and objects such as anfassen, aufräumen-type verbs, Seife, Handtuch), so
+the merge does not get conflicting bands.
+
+- **actions.handling (+75)**: pattern 3. Separable and prefixed verbs pupils need for instructions,
+  experiments, crafts, cooking and household jobs, and in process descriptions (a 3-4 text type): putting
+  things away and in, opening and closing with a key or by screwing, cutting and gluing, filling and
+  emptying, wrapping, tidying, lending and returning, zer- verbs of destroying, plus benutzen/verwenden/
+  gebrauchen/erledigen/vorbereiten.
+- **body (+9)**: personal hygiene verbs with a particle or reflexive use (eincremen, einseifen, föhnen,
+  ausspülen, zuknöpfen …), typical of 3-4 texts about the daily routine and health.
+- **actions.motion (+13), perception (+3), speaking (+5), school (+10)**: direction-particle verbs
+  (aufsteigen, absteigen, herunterfallen, vorbeigehen …), looking verbs (zusehen, nachsehen), retelling
+  verbs (nacherzählen, weitererzählen, vormachen) and the school nouns Nacherzählung, Beschreibung,
+  Erzählung, Zeichnung, Ordnung.
+- **home (+43), nature (+68)**: pattern 4. Concrete object words outside the first-years core (containers,
+  strings and wires, tools for garden and house, bathroom objects, batteries and cables, ladder sense of
+  Leiter) and nature-walk and seaside words (water, mud and ice phenomena, shore animals, berries and
+  nuts, parts of plants and trees, farm buildings, landscape forms such as Deich, Moor, Schlucht). I also
+  re-added several tree/bird/insect words I had cut in the first run for size; on reflection they are
+  typical of 3-4 nature lessons and not 1-2 words.
+- **-ung/-heit/-keit/-nis nouns (spread over feelings, character, society, thinking, health, shopping,
+  time, home)**: nouns derived from adjectives and verbs pupils already know, which appear in 3-4 when
+  they write reports and reasons (Ehrlichkeit, Pünktlichkeit, Gewohnheit, Möglichkeit, Schwierigkeit,
+  Entdeckung, Erfindung, Untersuchung, Belohnung, Verabredung, Kindheit, Dunkelheit, Hindernis …). Very
+  abstract ones are `role=rec` (Gesellschaft, Verständnis, Bedürfnis, Gerechtigkeit).
+- **function words (+36)**: pattern 5. Determiner uses of einige, mehrere, manch(er), solch(er), jener,
+  derselbe, irgendein, irgendwelcher, allerlei, wenige; relative was (rec); the preposition seit (I had
+  cut it in the first run as possibly 1-2, but the 1-2 list does not contain it); contracted forms aufs,
+  fürs, durchs, übers, ums; formal prepositions jenseits, diesseits, abseits, laut, dank, samt, mithilfe,
+  inmitten, nahe, per as `role=rec`, zuliebe as prod.
+- Not added: dessen/deren (no own lemma; covered by relative der), sämtlich (5-6).
+- 15 wanted words not in the lexicon went to `missing.tsv` (mostly compounds like the word for a
+  flashlight or a forest edge, and a few derived nouns).
+
+Totals after round 1: 1,340 lexemes (311 added), `missing.tsv` 21 rows; checker 0 errors.

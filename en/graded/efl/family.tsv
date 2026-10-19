@@ -8,6 +8,7 @@ brother                  noun   grade=3-4 cefr=A1 topic=family role=prod conf=95
 cousin                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=70 src=ai
 dad                      noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
 daddy                    noun   grade=3-4 cefr=A1 topic=family role=rec conf=70 src=ai
+daughter                 noun   grade=3-4 cefr=A1 topic=family role=prod conf=60 src=ai|rev
 family                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=98 src=ai
 father                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
 grandfather              noun   grade=3-4 cefr=A1 topic=family role=rec conf=80 src=ai
@@ -22,17 +23,21 @@ mum                      noun   grade=3-4 cefr=A1 topic=family role=prod conf=95
 mummy                    noun   grade=3-4 cefr=A1 topic=family role=rec conf=70 src=ai
 parent                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=75 src=ai
 sister                   noun   grade=3-4 cefr=A1 topic=family role=prod conf=95 src=ai
+son                      noun   grade=3-4 cefr=A1 topic=family role=prod conf=60 src=ai|rev
 twin                     noun   grade=3-4 cefr=A1 topic=family role=prod conf=65 src=ai
 uncle                    noun   grade=3-4 cefr=A1 topic=family role=prod conf=80 src=ai
 
 # grade 5-6 · family
-daughter                 noun   grade=5-6 cefr=A1 topic=family role=prod conf=70 src=ai
+grandchild               noun   grade=5-6 cefr=A2 topic=family role=prod conf=60 src=ai|rev
+granddaughter            noun   grade=5-6 cefr=A2 topic=family role=rec conf=55 src=ai|rev
 grandparent              noun   grade=5-6 cefr=A1 topic=family role=prod conf=65 src=ai
+grandson                 noun   grade=5-6 cefr=A2 topic=family role=rec conf=55 src=ai|rev
 husband                  noun   grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
 lady                     noun   grade=5-6 cefr=A1 topic=family|self role=prod conf=70 src=ai|freq
 married                  adj    grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
+nephew                   noun   grade=5-6 cefr=A2 topic=family role=rec conf=55 src=ai|rev
+niece                    noun   grade=5-6 cefr=A2 topic=family role=rec conf=55 src=ai|rev
 single                   adj    grade=5-6 cefr=A2 topic=family|travel role=rec conf=60 src=ai|freq
-son                      noun   grade=5-6 cefr=A1 topic=family role=prod conf=70 src=ai
 wife                     noun   grade=5-6 cefr=A2 topic=family role=prod conf=65 src=ai
 
 # grade 7-8 · family

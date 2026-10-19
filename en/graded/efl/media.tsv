@@ -2,20 +2,30 @@
 # Own data, written clean-room by AI authors; runs and prompts in en/graded/PROVENANCE.md.
 # lemma[:sense]  pos  fields
 
+# grade 3-4 · media
+film                     noun   grade=3-4 cefr=A1 topic=media|music_arts role=prod conf=70 src=ai|rev
+phone                    noun   grade=3-4 cefr=A1 topic=media|technology role=prod conf=75 src=ai|rev
+photo                    noun   grade=3-4 cefr=A1 topic=media role=rec conf=75 src=ai|rev
+
 # grade 5-6 · media
-film                     noun   grade=5-6 cefr=A1 topic=media|music_arts role=prod conf=70 src=ai
+cartoon                  noun   grade=5-6 cefr=A2 topic=media role=prod conf=60 src=ai|rev
 newspaper                noun   grade=5-6 cefr=A1 topic=media role=prod conf=65 src=ai
 online                   adv    grade=5-6 cefr=A2 topic=media|technology role=rec conf=55 src=ai
 program                  noun   grade=5-6 cefr=A1 topic=media role=prod conf=60 src=ai
 radio                    noun   grade=5-6 cefr=A2 topic=media role=prod conf=70 src=ai|freq
-video                    noun   grade=5-6 cefr=A2 topic=media|technology role=prod conf=75 src=ai|freq
+video                    noun   grade=5-6 cefr=A1 topic=media|technology role=prod conf=60 src=ai|rev
 
 # grade 7-8 · media
+access                   noun   grade=7-8 cefr=B1 topic=media role=prod conf=65 src=ai|rev
+access                   verb   grade=7-8 cefr=B1 topic=media role=prod conf=60 src=ai|rev
 ad                       noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
+addictive                adj    grade=7-8 cefr=B1 topic=media role=prod conf=60 src=ai|rev
 advert                   noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
+advertise                verb   grade=7-8 cefr=B1 topic=media role=prod conf=65 src=ai|rev
 advertisement            noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
 advertising              noun   grade=7-8 cefr=B1 topic=media role=prod conf=65 src=ai
-audience                 noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
+anonymous                adj    grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai|rev
+audience                 noun   grade=7-8 cefr=B1 topic=media role=prod conf=70 src=ai|rev
 blog                     noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 blogger                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 broadcast                noun   grade=7-8 cefr=B1 topic=media role=rec conf=65 src=ai
@@ -23,6 +33,7 @@ celebrity                noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 
 channel                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 comment                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 comment                  verb   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
+content                  noun   grade=7-8 cefr=B1 topic=media role=rec conf=65 src=ai|rev
 documentary              noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
 episode                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 fame                     noun   grade=7-8 cefr=B1 topic=media role=prod conf=65 src=ai
@@ -30,16 +41,18 @@ follower                 noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 
 hashtag                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
 host                     noun   grade=7-8 cefr=A2 topic=media|travel role=prod conf=60 src=ai
 image                    noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
+inappropriate            adj    grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai|rev
 influencer               noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 interview                noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 interview                verb   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 journalist               noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
 listener                 noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 media                    noun   grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
+platform                 noun   grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai|rev
 podcast                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 post                     noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
 post                     verb   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
-presenter                noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
+presenter                noun   grade=7-8 cefr=B1 topic=media role=prod conf=65 src=ai|rev
 press                    noun   grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai
 profile                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 public                   adj    grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
@@ -52,11 +65,13 @@ screenshot               noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 
 selfie                   noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
 series                   noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 social                   adj    grade=7-8 cefr=A2 topic=media role=prod conf=70 src=ai
+spam                     noun   grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai|rev
 studio                   noun   grade=7-8 cefr=A2 topic=media|music_arts role=rec conf=55 src=ai|freq
 subscribe                verb   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 subscriber               noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
 trend                    noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 viewer                   noun   grade=7-8 cefr=A2 topic=media role=prod conf=65 src=ai
 viral                    adj    grade=7-8 cefr=B1 topic=media role=rec conf=60 src=ai
+virtual                  adj    grade=7-8 cefr=B1 topic=media role=rec conf=65 src=ai|rev
 vlog                     noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai
 vlogger                  noun   grade=7-8 cefr=A2 topic=media role=prod conf=60 src=ai

@@ -41,7 +41,9 @@ yesterday                adv    grade=3-4 cefr=A1 topic=time.calendar|time.relat
 afternoon                noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=90 src=ai
 early                    adj    grade=3-4 cefr=A1 topic=time.clock role=prod conf=65 src=ai
 evening                  noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=88 src=ai
+hour                     noun   grade=3-4 cefr=A1 topic=time.clock role=prod conf=60 src=ai|rev
 late                     adj    grade=3-4 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+minute                   noun   grade=3-4 cefr=A1 topic=time.clock role=prod conf=65 src=ai|rev
 morning                  noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=95 src=ai
 night                    noun   grade=3-4 cefr=A1 topic=time.clock|communication role=prod conf=92 src=ai
 o'clock                  adv    grade=3-4 cefr=A1 topic=time.clock role=prod conf=90 src=ai
@@ -51,6 +53,7 @@ watch                    noun   grade=3-4 cefr=A1 topic=time.clock role=prod con
 
 # grade 5-6 · time.calendar
 calendar                 noun   grade=5-6 cefr=A2 topic=time.calendar role=rec conf=55 src=ai
+century                  noun   grade=5-6 cefr=A2 topic=time.calendar|history|time.relations role=prod conf=60 src=ai|rev
 date                     noun   grade=5-6 cefr=A1 topic=time.calendar role=prod conf=70 src=ai
 diary                    noun   grade=5-6 cefr=A2 topic=time.calendar role=prod conf=60 src=ai
 fortnight                noun   grade=5-6 cefr=A2 topic=time.calendar|anglophone.uk role=rec conf=55 src=ai
@@ -61,10 +64,10 @@ weekday                  noun   grade=5-6 cefr=A2 topic=time.calendar role=rec c
 a.m.                     x      grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
 alarm                    noun   grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
 early                    adv    grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
-hour                     noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
 late                     adv    grade=5-6 cefr=A1 topic=time.clock role=prod conf=70 src=ai
+midday                   noun   grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai|rev
 midnight                 noun   grade=5-6 cefr=A2 topic=time.clock role=prod conf=65 src=ai
-minute                   noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=75 src=ai
+noon                     noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf=55 src=ai|rev
 p.m.                     x      grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
 quarter                  noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=80 src=ai
 routine                  noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf=60 src=ai
@@ -72,6 +75,7 @@ routine                  noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf
 # grade 5-6 · time.relations
 afterwards               adv    grade=5-6 cefr=A2 topic=time.relations role=prod conf=65 src=ai
 beginning                noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=65 src=ai
+daily                    adv    grade=5-6 cefr=A2 topic=time.relations role=rec conf=55 src=ai|rev
 end                      noun   grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
 future                   noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
 last                     num    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
@@ -81,11 +85,11 @@ past                     noun   grade=5-6 cefr=A2 topic=time.relations role=prod
 start                    noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
 till                     adp    grade=5-6 cefr=A2 topic=time.relations role=prod conf=60 src=ai|freq
 tonight                  adv    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
+weekly                   adv    grade=5-6 cefr=A2 topic=time.relations role=rec conf=55 src=ai|rev
 
 # grade 7-8 · time.relations
 ancient                  adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
 annual                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
-century                  noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
 current                  adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=70 src=ai
 daily                    adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
 decade                   noun   grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai

@@ -15,22 +15,32 @@ sea                      noun   grade=3-4 cefr=A1 topic=nature role=prod conf=80
 tree                     noun   grade=3-4 cefr=A1 topic=nature|plants role=prod conf=95 src=ai
 
 # grade 5-6 · nature
+air                      noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
 cave                     noun   grade=5-6 cefr=A2 topic=nature|fantasy role=prod conf=60 src=ai
 coast                    noun   grade=5-6 cefr=A2 topic=nature role=prod conf=65 src=ai
 countryside              noun   grade=5-6 cefr=A2 topic=nature|anglophone.uk role=prod conf=65 src=ai
-earth                    noun   grade=5-6 cefr=A2 topic=nature|science|environment role=prod conf=70 src=ai|freq
+desert                   noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
+earth                    noun   grade=5-6 cefr=A2 topic=nature|science|environment role=prod conf=60 src=ai|rev
 ground                   noun   grade=5-6 cefr=A2 topic=nature|space role=prod conf=60 src=ai|freq
 hill                     noun   grade=5-6 cefr=A1 topic=nature role=prod conf=70 src=ai
 island                   noun   grade=5-6 cefr=A1 topic=nature|travel role=prod conf=75 src=ai
-land                     noun   grade=5-6 cefr=A2 topic=nature|travel role=prod conf=65 src=ai|freq
+jungle                   noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
+land                     noun   grade=5-6 cefr=A2 topic=nature|travel role=prod conf=55 src=ai|rev
+mud                      noun   grade=5-6 cefr=A2 topic=nature role=prod conf=55 src=ai|rev
 nature                   noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
+ocean                    noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
 path                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
+planet                   noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
+pond                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
 rock                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai
 sand                     noun   grade=5-6 cefr=A1 topic=nature role=prod conf=60 src=ai
+shell                    noun   grade=5-6 cefr=A2 topic=nature role=prod conf=60 src=ai|rev
 stone                    noun   grade=5-6 cefr=A1 topic=nature role=prod conf=60 src=ai
+sunset                   noun   grade=5-6 cefr=A2 topic=nature role=rec conf=55 src=ai|rev
 view                     noun   grade=5-6 cefr=A2 topic=nature|travel role=prod conf=65 src=ai
+waterfall                noun   grade=5-6 cefr=A2 topic=nature role=prod conf=55 src=ai|rev
 wave                     noun   grade=5-6 cefr=A2 topic=nature role=prod conf=65 src=ai
-wood                     noun   grade=5-6 cefr=A2 topic=nature|plants|actions.handling role=prod conf=65 src=ai|freq
+wood                     noun   grade=5-6 cefr=A2 topic=nature|plants|actions.handling role=prod conf=60 src=ai|rev
 
 # grade 7-8 · nature
 Atlantic                 adj    grade=7-8 cefr=A2 topic=nature|anglophone role=rec conf=55 src=ai|freq
@@ -39,12 +49,11 @@ canyon                   noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65
 cliff                    noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 continent                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 earthquake               noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai
-landscape                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai
+landscape                noun   grade=7-8 cefr=B1 topic=nature role=prod conf=70 src=ai|rev
 natural                  adj    grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 reef                     noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 scenery                  noun   grade=7-8 cefr=B1 topic=nature role=prod conf=65 src=ai
 soil                     noun   grade=7-8 cefr=B1 topic=nature role=prod conf=65 src=ai
 valley                   noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 volcano                  noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
-waterfall                noun   grade=7-8 cefr=A2 topic=nature role=prod conf=60 src=ai
-wildlife                 noun   grade=7-8 cefr=A2 topic=nature role=prod conf=70 src=ai
+wildlife                 noun   grade=7-8 cefr=B1 topic=nature role=prod conf=70 src=ai|rev

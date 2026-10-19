@@ -3,7 +3,6 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · clothes
-blouse                   noun   grade=3-4 cefr=A1 topic=clothes role=rec conf=70 src=ai
 boot                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
 cap                      noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
 clothes                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
@@ -14,18 +13,13 @@ hat                      noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=9
 jacket                   noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
 jeans                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
 jumper                   noun   grade=3-4 cefr=A1 topic=clothes|anglophone.uk role=prod conf=88 src=ai
-pajamas                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
-pullover                 noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
 scarf                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
 shirt                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=85 src=ai
 shoe                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=95 src=ai
 shorts                   noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
 skirt                    noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
 sock                     noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=92 src=ai
-sunglasses               noun   grade=3-4 cefr=A1 topic=clothes|travel role=prod conf=65 src=ai
-sweater                  noun   grade=3-4 cefr=A1 topic=clothes role=rec conf=70 src=ai
 T-shirt                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=95 src=ai
-trainer                  noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=80 src=ai
 trousers                 noun   grade=3-4 cefr=A1 topic=clothes role=prod conf=90 src=ai
 wear                     verb   grade=3-4 cefr=A1 topic=clothes role=prod conf=88 src=ai
 
@@ -33,18 +27,39 @@ wear                     verb   grade=3-4 cefr=A1 topic=clothes role=prod conf=8
 backpack                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=prod conf=60 src=ai
 belt                     noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai
 blazer                   noun   grade=5-6 cefr=A2 topic=clothes|school|anglophone.uk role=prod conf=70 src=ai
+blouse                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+button                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+cardigan                 noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
+cotton                   noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
+earring                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+fashion                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
 fit                      verb   grade=5-6 cefr=A2 topic=clothes|shopping role=rec conf=55 src=ai
+handbag                  noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
 hoodie                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai
+jewelry                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+necklace                 noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+pajamas                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=55 src=ai|rev
 pocket                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
-ring                     noun   grade=5-6 cefr=A2 topic=clothes|fantasy role=rec conf=55 src=ai|freq
+pullover                 noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+raincoat                 noun   grade=5-6 cefr=A2 topic=clothes|weather role=prod conf=60 src=ai|rev
+ring                     noun   grade=5-6 cefr=A2 topic=clothes|fantasy role=prod conf=60 src=ai|rev
 rucksack                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=rec conf=60 src=ai
+sandal                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+slipper                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+sneaker                  noun   grade=5-6 cefr=A2 topic=clothes|anglophone.us role=prod conf=60 src=ai|rev
+suit                     noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+sunglasses               noun   grade=5-6 cefr=A2 topic=clothes|travel role=prod conf=65 src=ai
+sweater                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
 sweatshirt               noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
 swimsuit                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=rec conf=55 src=ai
 tie                      noun   grade=5-6 cefr=A1 topic=clothes|school role=prod conf=75 src=ai
+trainer                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=70 src=ai|rev
 umbrella                 noun   grade=5-6 cefr=A1 topic=clothes|weather role=prod conf=65 src=ai
 uniform                  noun   grade=5-6 cefr=A1 topic=clothes|school|anglophone.uk role=prod conf=85 src=ai
+wallet                   noun   grade=5-6 cefr=A2 topic=clothes|shopping role=prod conf=60 src=ai|rev
+wool                     noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
+zipper                   noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
 
 # grade 7-8 · clothes
-fashion                  noun   grade=7-8 cefr=A2 topic=clothes role=rec conf=55 src=ai|freq
 makeup                   noun   grade=7-8 cefr=A2 topic=clothes|self role=rec conf=55 src=ai|freq
 style                    noun   grade=7-8 cefr=A2 topic=clothes|music_arts role=rec conf=55 src=ai|freq

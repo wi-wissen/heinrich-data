@@ -3,11 +3,11 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · transport
-bicycle                  noun   grade=3-4 cefr=A1 topic=transport role=rec conf=75 src=ai
+bicycle                  noun   grade=3-4 cefr=A1 topic=transport role=prod conf=75 src=ai
 boat                     noun   grade=3-4 cefr=A1 topic=transport role=prod conf=90 src=ai
 bus                      noun   grade=3-4 cefr=A1 topic=transport role=prod conf=95 src=ai
 drive                    verb   grade=3-4 cefr=A1 topic=transport role=rec conf=60 src=ai
-helicopter               noun   grade=3-4 cefr=A1 topic=transport role=rec conf=75 src=ai
+helicopter               noun   grade=3-4 cefr=A1 topic=transport role=prod conf=75 src=ai
 plane                    noun   grade=3-4 cefr=A1 topic=transport role=prod conf=90 src=ai
 rocket                   noun   grade=3-4 cefr=A1 topic=transport role=rec conf=70 src=ai
 ship                     noun   grade=3-4 cefr=A1 topic=transport role=prod conf=85 src=ai
@@ -16,10 +16,12 @@ tractor                  noun   grade=3-4 cefr=A1 topic=transport role=rec conf=
 train                    noun   grade=3-4 cefr=A1 topic=transport role=prod conf=95 src=ai
 
 # grade 5-6 · transport
+arrival                  noun   grade=5-6 cefr=A2 topic=transport role=rec conf=55 src=ai|rev
 double-decker            noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=70 src=ai
 driver                   noun   grade=5-6 cefr=A1 topic=transport|jobs role=prod conf=70 src=ai
 ferry                    noun   grade=5-6 cefr=A2 topic=transport|travel role=prod conf=65 src=ai
 flight                   noun   grade=5-6 cefr=A2 topic=transport|travel role=prod conf=65 src=ai
+harbor                   noun   grade=5-6 cefr=A2 topic=transport|nature role=rec conf=55 src=ai|rev
 journey                  noun   grade=5-6 cefr=A2 topic=transport|travel role=prod conf=65 src=ai
 land                     verb   grade=5-6 cefr=A2 topic=transport|travel role=prod conf=65 src=ai|freq
 lorry                    noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=rec conf=55 src=ai
@@ -27,14 +29,19 @@ luggage                  noun   grade=5-6 cefr=A2 topic=transport|travel role=re
 motorbike                noun   grade=5-6 cefr=A2 topic=transport role=prod conf=65 src=ai
 passenger                noun   grade=5-6 cefr=A2 topic=transport role=rec conf=60 src=ai
 platform                 noun   grade=5-6 cefr=A2 topic=transport role=prod conf=70 src=ai
-railway                  noun   grade=5-6 cefr=A2 topic=transport role=rec conf=60 src=ai|freq
+railway                  noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
+return                   noun   grade=5-6 cefr=A2 topic=transport role=rec conf=55 src=ai|rev
 seat                     noun   grade=5-6 cefr=A1 topic=transport role=prod conf=65 src=ai
 stop                     noun   grade=5-6 cefr=A1 topic=transport role=prod conf=70 src=ai
+subway                   noun   grade=5-6 cefr=A2 topic=transport|anglophone.us role=prod conf=60 src=ai|rev
 ticket                   noun   grade=5-6 cefr=A1 topic=transport|travel role=prod conf=80 src=ai
-transport                noun   grade=5-6 cefr=A2 topic=transport role=prod conf=70 src=ai|freq
+tire:wheel               noun   grade=5-6 cefr=A2 topic=transport role=rec conf=55 src=ai|rev
+tram                     noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
+transport                noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
 tube                     noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=70 src=ai
-underground              noun   grade=5-6 cefr=A1 topic=transport|anglophone.uk role=prod conf=75 src=ai
+underground              noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=75 src=ai|rev
 van                      noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai
+wheel                    noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
 
 # grade 7-8 · transport
 engine                   noun   grade=7-8 cefr=A2 topic=transport|technology role=rec conf=55 src=ai|freq
@@ -47,5 +54,4 @@ railroad                 noun   grade=7-8 cefr=A2 topic=transport|anglophone.us 
 route                    noun   grade=7-8 cefr=A2 topic=transport|travel role=rec conf=55 src=ai|freq
 sidewalk                 noun   grade=7-8 cefr=A2 topic=transport role=prod conf=60 src=ai
 speed                    noun   grade=7-8 cefr=A2 topic=transport|sports role=rec conf=55 src=ai|freq
-subway                   noun   grade=7-8 cefr=A2 topic=transport role=prod conf=60 src=ai
 vehicle                  noun   grade=7-8 cefr=B1 topic=transport role=prod conf=65 src=ai

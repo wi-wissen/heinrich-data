@@ -3,19 +3,28 @@
 # lemma[:sense]  pos  fields
 
 # grade 5-6 · travel
-camp                     noun   grade=5-6 cefr=A2 topic=travel|free_time role=prod conf=60 src=ai|freq
+bucket                   noun   grade=5-6 cefr=A2 topic=travel role=rec conf=55 src=ai|rev
+camp                     noun   grade=5-6 cefr=A2 topic=travel|free_time role=prod conf=60 src=ai|rev
 camp                     verb   grade=5-6 cefr=A2 topic=travel|free_time role=prod conf=55 src=ai|freq
 campsite                 noun   grade=5-6 cefr=A2 topic=travel role=prod conf=65 src=ai
+caravan                  noun   grade=5-6 cefr=A2 topic=travel|anglophone.uk role=rec conf=55 src=ai|rev
+guide                    noun   grade=5-6 cefr=A2 topic=travel|jobs role=prod conf=60 src=ai|rev
 holiday                  noun   grade=5-6 cefr=A1 topic=travel role=prod conf=75 src=ai
+hostel                   noun   grade=5-6 cefr=A2 topic=travel role=prod conf=55 src=ai|rev
 passport                 noun   grade=5-6 cefr=A2 topic=travel role=prod conf=65 src=ai
-sight                    noun   grade=5-6 cefr=A2 topic=travel|town role=rec conf=55 src=ai|freq
+sandcastle               noun   grade=5-6 cefr=A2 topic=travel role=rec conf=55 src=ai|rev
+seaside                  noun   grade=5-6 cefr=A2 topic=travel|anglophone.uk role=prod conf=60 src=ai|rev
+sight                    noun   grade=5-6 cefr=A2 topic=travel|town role=prod conf=60 src=ai|rev
 sightseeing              noun   grade=5-6 cefr=A2 topic=travel|anglophone.uk role=rec conf=60 src=ai
 suitcase                 noun   grade=5-6 cefr=A2 topic=travel role=prod conf=70 src=ai
+sunscreen                noun   grade=5-6 cefr=A2 topic=travel role=rec conf=55 src=ai|rev
 tent                     noun   grade=5-6 cefr=A1 topic=travel role=prod conf=70 src=ai
 torch                    noun   grade=5-6 cefr=A2 topic=travel|anglophone.uk role=rec conf=55 src=ai
-tour                     noun   grade=5-6 cefr=A2 topic=travel|town role=prod conf=60 src=ai|freq
+tour                     noun   grade=5-6 cefr=A2 topic=travel|town role=prod conf=60 src=ai|rev
 tourist                  noun   grade=5-6 cefr=A2 topic=travel role=prod conf=65 src=ai
+traveler                 noun   grade=5-6 cefr=A2 topic=travel role=rec conf=55 src=ai|rev
 trip                     noun   grade=5-6 cefr=A1 topic=travel|school role=prod conf=75 src=ai
+vacation                 noun   grade=5-6 cefr=A2 topic=travel|anglophone.us role=prod conf=60 src=ai|rev
 
 # grade 7-8 · travel
 accommodation            noun   grade=7-8 cefr=B1 topic=travel role=prod conf=65 src=ai
@@ -30,7 +39,6 @@ destination              noun   grade=7-8 cefr=B1 topic=travel role=prod conf=65
 exchange                 noun   grade=7-8 cefr=A2 topic=travel role=prod conf=70 src=ai
 foreign                  adj    grade=7-8 cefr=A2 topic=travel|countries role=prod conf=65 src=ai
 foreigner                noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai
-hostel                   noun   grade=7-8 cefr=A2 topic=travel role=prod conf=60 src=ai
 port                     noun   grade=7-8 cefr=B1 topic=travel|transport role=rec conf=50 src=ai|freq
 reservation              noun   grade=7-8 cefr=B1 topic=travel|anglophone.us role=prod conf=65 src=ai
 tour                     verb   grade=7-8 cefr=B1 topic=travel role=rec conf=50 src=ai|freq

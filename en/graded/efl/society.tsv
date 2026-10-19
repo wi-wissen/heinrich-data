@@ -4,14 +4,16 @@
 
 # grade 7-8 · society
 charity                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
-community                noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+community                noun   grade=7-8 cefr=B1 topic=society role=prod conf=70 src=ai|rev
 cultural                 adj    grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
 culture                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+democracy                noun   grade=7-8 cefr=B1 topic=society role=rec conf=55 src=ai|rev
 donate                   verb   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
 donation                 noun   grade=7-8 cefr=B1 topic=society role=rec conf=65 src=ai
+election                 noun   grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai|rev
 equality                 noun   grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai
-freedom                  noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
-government               noun   grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
+freedom                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=70 src=ai|rev
+government               noun   grade=7-8 cefr=B1 topic=society role=prod conf=70 src=ai|rev
 homeless                 adj    grade=7-8 cefr=A2 topic=society role=prod conf=70 src=ai
 human                    noun   grade=7-8 cefr=B1 topic=society role=rec conf=55 src=ai|freq
 leader                   noun   grade=7-8 cefr=A2 topic=society|politics role=rec conf=55 src=ai|freq
@@ -22,4 +24,8 @@ racism                   noun   grade=7-8 cefr=B1 topic=society role=rec conf=60
 refugee                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
 religious                adj    grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
 right                    noun   grade=7-8 cefr=A2 topic=society role=prod conf=60 src=ai
+rural                    adj    grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai|rev
 society                  noun   grade=7-8 cefr=B1 topic=society role=prod conf=65 src=ai
+urban                    adj    grade=7-8 cefr=B1 topic=society role=rec conf=60 src=ai|rev
+vote                     noun   grade=7-8 cefr=B1 topic=society role=prod conf=60 src=ai|rev
+vote                     verb   grade=7-8 cefr=B1 topic=society role=prod conf=60 src=ai|rev

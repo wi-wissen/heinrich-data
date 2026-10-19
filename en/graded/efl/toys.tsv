@@ -8,23 +8,21 @@ balloon                  noun   grade=3-4 cefr=A1 topic=toys|celebrations role=p
 bike                     noun   grade=3-4 cefr=A1 topic=toys|transport role=prod conf=92 src=ai
 car                      noun   grade=3-4 cefr=A1 topic=toys|transport role=prod conf=98 src=ai
 card                     noun   grade=3-4 cefr=A1 topic=toys|celebrations role=prod conf=85 src=ai
-dice                     noun   grade=3-4 cefr=A1 topic=toys role=rec conf=70 src=ai
 doll                     noun   grade=3-4 cefr=A1 topic=toys role=prod conf=92 src=ai
 game                     noun   grade=3-4 cefr=A1 topic=toys|free_time role=prod conf=92 src=ai
 hide                     verb   grade=3-4 cefr=A1 topic=toys role=rec conf=75 src=ai
-hide-and-seek            noun   grade=3-4 cefr=A1 topic=toys|free_time role=rec conf=75 src=ai
-kite                     noun   grade=3-4 cefr=A1 topic=toys role=prod conf=85 src=ai
 playground               noun   grade=3-4 cefr=A1 topic=toys|town role=prod conf=80 src=ai
 puzzle                   noun   grade=3-4 cefr=A1 topic=toys role=prod conf=80 src=ai
 robot                    noun   grade=3-4 cefr=A1 topic=toys role=prod conf=85 src=ai
-scooter                  noun   grade=3-4 cefr=A1 topic=toys|transport role=rec conf=75 src=ai
-skateboard               noun   grade=3-4 cefr=A1 topic=toys|sports role=rec conf=75 src=ai
-slide                    noun   grade=3-4 cefr=A1 topic=toys role=rec conf=65 src=ai
-swing                    noun   grade=3-4 cefr=A1 topic=toys role=rec conf=65 src=ai
 teddy                    noun   grade=3-4 cefr=A1 topic=toys role=prod conf=90 src=ai
 toy                      noun   grade=3-4 cefr=A1 topic=toys role=prod conf=95 src=ai
-yo-yo                    noun   grade=3-4 cefr=A1 topic=toys role=rec conf=65 src=ai
 
 # grade 5-6 · toys
+dice                     noun   grade=5-6 cefr=A2 topic=toys|free_time role=prod conf=60 src=ai|rev
+hide-and-seek            noun   grade=5-6 cefr=A2 topic=toys role=rec conf=55 src=ai|rev
+kite                     noun   grade=5-6 cefr=A2 topic=toys role=prod conf=60 src=ai|rev
 level                    noun   grade=5-6 cefr=A2 topic=toys|technology role=rec conf=60 src=ai|freq
 model                    noun   grade=5-6 cefr=A2 topic=toys|music_arts|jobs role=rec conf=60 src=ai|freq
+scooter                  noun   grade=5-6 cefr=A2 topic=toys|transport role=prod conf=60 src=ai|rev
+slide                    noun   grade=5-6 cefr=A2 topic=toys role=rec conf=55 src=ai|rev
+swing                    noun   grade=5-6 cefr=A2 topic=toys role=rec conf=55 src=ai|rev

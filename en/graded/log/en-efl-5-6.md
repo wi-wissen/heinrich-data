@@ -93,6 +93,61 @@ The agent received a one-line message pointing to this file, with the instructio
     the adjective interferes with a grammar rule); use other words if you need them. Re-run the checker to 0
     errors, append a "Revision" note to `decisions.md`, and report new counts. Same clean-room rules as before.
 
+## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
+
+Message:
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-en.md (you: band 5-6; output directory .../graded/runs/en-efl-5-6/).
+    
+    Second message (verbatim): Orchestrator addition to revision round 1: the 3-4 author removed 73 words from A1 (rarer animals, specific toys/clothes/food, fantasy words, a few qualities) and suggested later bands for them in the "Revision round 1" section of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-3-4/decisions.md. Read that section; for each word you judge to be introduced in 5-6, add it to your files with your own level judgement (`src=ai|rev`); list the ones you judge to belong to 7-8 or later in your decisions.md under "for 7-8". Include this in your report.
+
+Feedback file referred to:
+
+    # Revision round 1 (English EFL), feedback from the internal reviewer — patterns only
+    
+    The reviewer compared the merged layer (bands 3-4, 5-6, 7-8; A1–B1) statistically with one CEFR-levelled reference
+    outside the repositories. You receive only aggregate numbers and patterns in the reviewer's own words; you never receive
+    reference entries, and you must not try to guess them. Revise **whole topics from your own knowledge**.
+    This is round 1 of at most 2 against this reference.
+    
+    ## Numbers
+    | reference level | covered | exact (covered) | ±1 (covered) | ours later | ours earlier | mean shift (ours − ref) |
+    |---|---:|---:|---:|---:|---:|---:|
+    | A1 | 84.9 % | 80.1 % | 99.1 % | 181 | 0 | +0.21 |
+    | A2 | **59.4 %** | 66.8 % | 100 % | 96 | 154 | −0.08 |
+    | B1 | 28.9 % (layer ends at grade 8; partly expected) | 28.0 % | 89.5 % | 0 | 467 | −0.82 |
+    Confusion (rows reference, columns ours): A1→A1 730 / A2 173 / B1 8; A2→A1 154 / A2 504 / B1 96; B1→A1 68 / A2 399 / B1 182.
+    Function words: 90.9 % of the reference's A1 function words are covered, only 74.2 % of them in band 3-4.
+    Topics with the largest shift (levels, negative = ours earlier): **animals −0.95** (only 68 % within ±1), **toys −0.81**
+    (76 %), clothes −0.56, food −0.54, health −0.53, academic −0.53, anglophone −0.51, fantasy −0.51, friends −0.49.
+    Well calibrated: time, function, numbers, family, communication, thinking, music_arts, town.
+    
+    ## Patterns (reviewer's own words)
+    1. A1 is good, A2 thin, B1 structurally thin. The layer covers 85 % of the reference's A1 but only 59 % of its A2:
+       grades 5–6 lack the most.
+    2. Two opposite shifts. About every fifth reference-A1 word is only on A2 with us (mostly band 5-6), while 72 % of
+       reference-B1 words are already on A2 or A1 with us. The layer compresses the scale towards the middle: basic
+       vocabulary rather too late, more demanding vocabulary rather too early.
+    3. Animals and toys clearly too early: typically words for rarer or more exotic animals and for more specific toys that we
+       put on A1 like core vocabulary. Similar but weaker: clothes, food, health, fantasy, friendship (about half a level early).
+    4. Well calibrated: time, function words, numbers, family, communication, thinking, music/arts.
+    5. Function words: 9 % of the reference's A1 function words are missing, and another sixth are only after band 3-4.
+    6. Cultural and country words overlap little with the reference — a property of the reference, not an error of the layer.
+    7. Lexicon: about 10 % of the reference could not be mapped to a lemma of our English lexicon; part of it are gaps in the
+       lexicon itself (report candidates in `missing.tsv`).
+    
+    ## What to do (per band author)
+    - **3-4 (A1):** add the core A1 vocabulary you left for 5-6 (basic vocabulary rather too late); include the remaining
+      frequent function words; move rarer animals and specific toys/clothes/food words out of A1 (to 5-6/A2 or 7-8 by your
+      judgement, i.e. remove them from your list and note them for that band in `decisions.md`).
+    - **5-6 (A1/A2):** expand A2 substantially across all topics (the biggest gap), plus the basic words that are A1 but
+      typically met first in grades 5-6; move overly specific animal/toy/clothes/food words later where appropriate.
+    - **7-8 (A2/B1):** re-check level assignments: more demanding, abstract or formal words belong on B1 rather than A2;
+      add B1 vocabulary for the 7-8 themes.
+    For every line you add or change, set `src=ai|rev` (keep `freq` if present). Re-run the checker to 0 errors, append a
+    "Revision round 1" section to `decisions.md`, report counts (added, level changed, removed/moved). Same clean-room rules
+    (no web, no word lists, never the held-out repository). Missing lemmas to `missing.tsv`.
+
 ## Decisions log (written by the author)
 
 # Decisions log: author run `en-efl-5-6`
@@ -197,3 +252,76 @@ using the same criteria as in the original run, and added it to the file for its
 `missing.tsv` now keeps only the 5 lexemes that are still absent: guinea pig, Big Ben, Bonfire Night,
 Buckingham Palace and Tower Bridge. New total: 985 lines (525 A1, 460 A2; 866 prod, 119 rec).
 The checker reports 0 errors.
+
+## Revision round 1
+
+Feedback (aggregate numbers and patterns only, no reference entries): A2 is thin, and band 5-6 lacks the
+most. Animal, toy, clothes and food words sit too early. Some reference-B1 words are already on A2 with us.
+I revised whole topics from my own knowledge and did not try to guess reference entries. Every added or
+changed line carries `src=ai|rev`.
+
+**Added: 425 lines.**
+- *Words removed from 3-4 that I judge to be introduced in 5-6 (42).* I read the 3-4 author's "Revision
+  round 1" section and added these, all at A2:
+  - animals: crocodile, donkey, giraffe, goat, hen, penguin, zebra, bat (rec), dinosaur, snail, worm,
+    ladybug (the lexicon lemma for "ladybird"; rec)
+  - toys: kite, dice, slide (rec), swing (rec), scooter, hide-and-seek (rec)
+  - clothes: blouse, pullover, sweater
+  - food: cookie, popcorn, cornflakes, pineapple, plum (rec), melon, peach (rec), honey, jam
+  - fantasy: dragon, giant, fairy (rec), wizard, pirate, treasure, magic
+  - qualities: scary
+  - Already on my list: owl, fox, tail, feed, hedgehog, squirrel, ant, tortoise, parrot, shark, whale,
+    dolphin, wolf, skateboard, sunglasses, pajamas, trainer, cucumber, onion, pea, bean, ham, crisp,
+    burger, pancake, cola, brave, naughty, cute. I set those still on A1 to A2 (see "Level changed").
+- *A2 expansion across all topics (383), plus a few A1 words met first in 5-6* (thanks, video, the pronoun
+  `all`):
+  - function words: probably, actually, even, anyway, indoors/outdoors, abroad, beside, `as` (adp and
+    sconj), both/each as pronouns
+  - home and bathroom items: towel, toothbrush, kettle, drawer, furniture ...
+  - food in more detail: cherry, corn, muffin, jar, tin, mug, bill ...
+  - clothes and accessories: suit, sandal, button, jewelry, ring, wallet ...
+  - school subjects and items: biology, religion, exam, quiz, grade, notebook ...
+  - everyday technology: laptop, app, website, password, download ...
+  - health: cold, cough, flu, fever, medicine, sore ...
+  - extended family and friends: grandchild, niece, boyfriend, visitor ...
+  - town, transport and travel: store, post, tram, railway, seaside, camp ...
+  - simple jobs: firefighter, hairdresser, chef, nurse ...
+  - nature: ocean, desert, pond, planet ...
+  - A2 verbs: apologize, behave, book, continue, disappear, hug, lock, recycle, repair, unpack, freeze ...
+  - adjectives: large/medium, messy, tidy, wooden, striped, pleased, relaxed, honest ...
+  - a few more countries: Greece, China, Russia, Japan, Portugal and their adjectives where common
+
+  Most of these are `conf` 55-60. Rarer or regional words are `rec`.
+
+**Level changed: 18 lines, A1 → A2.** These are words that are too specific for A1: fox, dolphin,
+goldfish, chess, ketchup, pancake, ham, cola, yogurt, crisp, burger, bean, pajamas, trainer, cute,
+headache, dentist, underground.
+
+**Removed: 10 lines (judged to be introduced in 7-8 or later).**
+- Rarer animals: eagle, budgie.
+- Words that are more B1 than A2, and that I had placed too early: notice, wonder, belong, appear, cover,
+  except (adp), nearby, typical.
+
+**For 7-8 (from the 3-4 removals, not added by me):**
+- hippo, kangaroo (Australia unit), panda, turtle: rarer or exotic animals.
+- unicorn: a niche fantasy word.
+- yo-yo: a niche toy, probably not taught explicitly at all.
+
+Plus my own removals listed above: eagle, budgie, notice, wonder, belong, appear, cover, except, nearby,
+typical.
+
+**Overlap with 3-4.** The 3-4 author added about 65 core words to A1 that I had listed for 5-6 (for
+example anything, everything, someone, nobody, if, than, until, through, without, soon, maybe, still,
+tonight, sentence, example, photo, town, city, hospital, minute, hour, euro, pound, cheap, expensive,
+happen, remember, forget, enjoy, different, boring, difficult, delicious, healthy). I kept my lines.
+Where both bands list a word, the merge should keep the earlier band. I did not remove them myself so as
+not to lose coverage if the 3-4 lines change again.
+
+**missing.tsv:** I added 12 rows:
+- activity nouns in -ing: shopping, swimming, fishing, cycling, skating, sailing, climbing, jogging
+- shampoo
+- adjectives broken and lost
+- hot dog
+
+New totals: 1400 lines (510 A1, 890 A2; 1182 prod, 218 rec), 40 files. This is above the original target
+because the revision asked for substantial A2 expansion. The checker reports 0 errors.

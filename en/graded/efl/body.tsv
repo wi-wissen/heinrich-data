@@ -28,26 +28,28 @@ tummy                    noun   grade=3-4 cefr=A1 topic=body role=prod conf=85 s
 
 # grade 5-6 · body
 beard                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=65 src=ai
+bone                     noun   grade=5-6 cefr=A2 topic=body role=prod conf=60 src=ai|rev
+brain                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=55 src=ai|rev
 curly                    adj    grade=5-6 cefr=A1 topic=body role=prod conf=80 src=ai
+elbow                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=55 src=ai|rev
 glasses                  noun   grade=5-6 cefr=A1 topic=body|self role=prod conf=70 src=ai
 good-looking             adj    grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
 heart                    noun   grade=5-6 cefr=A2 topic=body role=prod conf=60 src=ai
+lip                      noun   grade=5-6 cefr=A2 topic=body role=prod conf=60 src=ai|rev
 mustache                 noun   grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
 skin                     noun   grade=5-6 cefr=A2 topic=body role=rec conf=55 src=ai
 stomach                  noun   grade=5-6 cefr=A2 topic=body|health role=prod conf=65 src=ai
 straight                 adj    grade=5-6 cefr=A1 topic=body|space role=prod conf=70 src=ai
+throat                   noun   grade=5-6 cefr=A2 topic=body|health role=prod conf=60 src=ai|rev
 
 # grade 7-8 · body
 ankle                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
-brain                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
 chest                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
-elbow                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
 hip                      noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
 human                    adj    grade=7-8 cefr=B1 topic=body|society role=rec conf=60 src=ai|freq
 liver                    noun   grade=7-8 cefr=B1 topic=body role=rec conf=60 src=ai
 lung                     noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
 muscle                   noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
 skeleton                 noun   grade=7-8 cefr=A2 topic=body role=rec conf=60 src=ai
-throat                   noun   grade=7-8 cefr=A2 topic=body role=prod conf=65 src=ai
 thumb                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=60 src=ai
 wrist                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai

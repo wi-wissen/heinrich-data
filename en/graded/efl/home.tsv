@@ -42,24 +42,55 @@ wardrobe                 noun   grade=3-4 cefr=A1 topic=home role=prod conf=75 s
 window                   noun   grade=3-4 cefr=A1 topic=home role=prod conf=92 src=ai
 
 # grade 5-6 · home
+apartment                noun   grade=5-6 cefr=A2 topic=home|anglophone.us role=prod conf=60 src=ai|rev
 armchair                 noun   grade=5-6 cefr=A1 topic=home role=prod conf=60 src=ai
 attic                    noun   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai
 balcony                  noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+basement                 noun   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai|rev
+bell                     noun   grade=5-6 cefr=A2 topic=home|school role=prod conf=60 src=ai|rev
 bin                      noun   grade=5-6 cefr=A2 topic=home|environment role=prod conf=60 src=ai
+blanket                  noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+bookcase                 noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+brush                    noun   grade=5-6 cefr=A2 topic=home|time.clock role=prod conf=60 src=ai|rev
 carpet                   noun   grade=5-6 cefr=A1 topic=home role=prod conf=65 src=ai
 cellar                   noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
 clear                    verb   grade=5-6 cefr=A2 topic=home role=rec conf=60 src=ai|freq
+comb                     noun   grade=5-6 cefr=A2 topic=home|time.clock role=rec conf=55 src=ai|rev
 cooker                   noun   grade=5-6 cefr=A1 topic=home|food role=prod conf=65 src=ai
 curtain                  noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+cushion                  noun   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai|rev
 dish                     noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai
 dishwasher               noun   grade=5-6 cefr=A2 topic=home role=rec conf=60 src=ai
+doorbell                 noun   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai|rev
+drawer                   noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+elevator                 noun   grade=5-6 cefr=A2 topic=home|anglophone.us role=rec conf=55 src=ai|rev
+fence                    noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+freezer                  noun   grade=5-6 cefr=A2 topic=home|food role=rec conf=55 src=ai|rev
+furniture                noun   grade=5-6 cefr=A2 topic=home role=prod conf=65 src=ai|rev
+gate                     noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+ground                   noun   grade=5-6 cefr=A2 topic=home|nature role=prod conf=60 src=ai|rev
 hoover                   verb   grade=5-6 cefr=A2 topic=home|anglophone.uk role=rec conf=55 src=ai
 housework                noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai
+kettle                   noun   grade=5-6 cefr=A2 topic=home|anglophone.uk role=prod conf=60 src=ai|rev
 key                      noun   grade=5-6 cefr=A1 topic=home role=prod conf=65 src=ai
+lift                     noun   grade=5-6 cefr=A2 topic=home|anglophone.uk role=prod conf=60 src=ai|rev
 light                    noun   grade=5-6 cefr=A1 topic=home role=prod conf=60 src=ai
 mess                     noun   grade=5-6 cefr=A2 topic=home role=prod conf=65 src=ai
+microwave                noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai|rev
 oven                     noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai
+pan                      noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai|rev
+pillow                   noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+pot                      noun   grade=5-6 cefr=A2 topic=home|food role=prod conf=60 src=ai|rev
 rubbish                  noun   grade=5-6 cefr=A2 topic=home|environment role=prod conf=65 src=ai
+sink                     noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+soap                     noun   grade=5-6 cefr=A2 topic=home|time.clock role=prod conf=60 src=ai|rev
+step                     noun   grade=5-6 cefr=A2 topic=home role=prod conf=60 src=ai|rev
+tap                      noun   grade=5-6 cefr=A2 topic=home|anglophone.uk role=rec conf=55 src=ai|rev
+toaster                  noun   grade=5-6 cefr=A2 topic=home|food role=rec conf=55 src=ai|rev
+toothbrush               noun   grade=5-6 cefr=A2 topic=home|time.clock role=prod conf=65 src=ai|rev
+toothpaste               noun   grade=5-6 cefr=A2 topic=home|time.clock role=prod conf=60 src=ai|rev
+towel                    noun   grade=5-6 cefr=A2 topic=home|time.clock role=prod conf=65 src=ai|rev
+vacuum                   verb   grade=5-6 cefr=A2 topic=home role=rec conf=55 src=ai|rev
 
 # grade 7-8 · home
 household                noun   grade=7-8 cefr=B1 topic=home role=rec conf=55 src=ai|freq

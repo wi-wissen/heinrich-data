@@ -28,10 +28,13 @@ yum                      intj   grade=3-4 cefr=A1 topic=communication role=rec c
 alright                  adv    grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai
 call                     noun   grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai
 cheers                   intj   grade=5-6 cefr=A2 topic=communication|anglophone.uk role=rec conf=55 src=ai
+conversation             noun   grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
 course                   noun   grade=5-6 cefr=A1 topic=communication role=prod conf=70 src=ai
 email                    noun   grade=5-6 cefr=A1 topic=communication|technology role=prod conf=70 src=ai
+greeting                 noun   grade=5-6 cefr=A2 topic=communication role=rec conf=55 src=ai|rev
 information              noun   grade=5-6 cefr=A2 topic=communication|media role=prod conf=80 src=ai|freq
 joke                     noun   grade=5-6 cefr=A2 topic=communication|free_time role=prod conf=65 src=ai
+mail                     noun   grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
 message                  noun   grade=5-6 cefr=A1 topic=communication|technology role=prod conf=70 src=ai
 mobile                   noun   grade=5-6 cefr=A1 topic=communication|technology role=prod conf=60 src=ai
 news                     noun   grade=5-6 cefr=A2 topic=communication|media role=prod conf=60 src=ai
@@ -42,16 +45,17 @@ postcard                 noun   grade=5-6 cefr=A1 topic=communication|travel rol
 ring:sound               verb   grade=5-6 cefr=A2 topic=communication|school role=rec conf=60 src=ai|freq
 secret                   noun   grade=5-6 cefr=A2 topic=communication|friends role=prod conf=65 src=ai
 sir                      noun   grade=5-6 cefr=A2 topic=communication|school role=rec conf=65 src=ai|freq
+telephone                noun   grade=5-6 cefr=A2 topic=communication|technology role=prod conf=60 src=ai|rev
+welcome                  adj    grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
 well                     intj   grade=5-6 cefr=A1 topic=communication role=prod conf=65 src=ai
 
 # grade 7-8 · communication
 announcement             noun   grade=7-8 cefr=B1 topic=communication role=rec conf=65 src=ai
 apology                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
-communication            noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
+communication            noun   grade=7-8 cefr=B1 topic=communication role=prod conf=70 src=ai|rev
 complaint                noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
-compliment               noun   grade=7-8 cefr=A2 topic=communication role=prod conf=65 src=ai
+compliment               noun   grade=7-8 cefr=B1 topic=communication role=prod conf=65 src=ai|rev
 contact                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
-conversation             noun   grade=7-8 cefr=A2 topic=communication role=prod conf=65 src=ai
 description              noun   grade=7-8 cefr=A2 topic=communication role=prod conf=65 src=ai
 discussion               noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
 excuse                   noun   grade=7-8 cefr=A2 topic=communication role=prod conf=65 src=ai
@@ -63,7 +67,7 @@ pardon                   intj   grade=7-8 cefr=A2 topic=communication role=prod 
 permission               noun   grade=7-8 cefr=B1 topic=communication|school role=rec conf=55 src=ai|freq
 pleasure                 noun   grade=7-8 cefr=B1 topic=communication role=rec conf=55 src=ai|freq
 promise                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
-reaction                 noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
+reaction                 noun   grade=7-8 cefr=B1 topic=communication role=prod conf=70 src=ai|rev
 receive                  verb   grade=7-8 cefr=B1 topic=communication role=rec conf=60 src=ai|freq
 regard                   noun   grade=7-8 cefr=B1 topic=communication role=rec conf=50 src=ai|freq
 request                  noun   grade=7-8 cefr=B1 topic=communication role=prod conf=65 src=ai
