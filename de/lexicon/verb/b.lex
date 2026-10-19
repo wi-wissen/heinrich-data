@@ -1,5 +1,8 @@
 backen verb class=strong 3sg=bäckt|backt past=backte|buk[archaic] pp=gebacken subj2=backte|büke[archaic] perf=haben
 baden verb class=weak pp=gebadet perf=haben refl=acc
+baggern verb class=weak pp=gebaggert perf=haben
+bahnen verb class=weak pp=gebahnt perf=haben refl=dat note=sich einen Weg bahnen
+balancieren verb class=weak pp=balanciert perf=haben|sein note=über einen Balken balancieren (sein); einen Ball balancieren (haben)
 balgen verb class=weak pp=gebalgt perf=haben refl=acc
 ballen verb class=weak pp=geballt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
@@ -96,6 +99,7 @@ beibehalten verb class=strong sep=bei 3sg=beibehält past=beibehielt pp=beibehal
 beibringen verb class=mixed sep=bei 3sg=beibringt past=beibrachte pp=beigebracht subj2=beibrächte perf=haben
 beichten verb class=weak pp=gebeichtet perf=haben
 beifügen verb class=weak sep=bei pp=beigefügt perf=haben
+beikommen verb class=strong sep=bei 3sg=beikommt|beikömmt[old] past=beikam pp=beigekommen subj2=beikäme perf=sein note=einem Problem beikommen
 beilegen verb class=weak sep=bei pp=beigelegt perf=haben
 beiliegen verb class=strong sep=bei 3sg=beiliegt past=beilag pp=beigelegen subj2=beiläge perf=haben note=die Unterlagen liegen dem Schreiben bei
 beimessen verb class=strong sep=bei 3sg=beimisst past=beimaß subj2=beimäße pp=beigemessen perf=haben
@@ -172,6 +176,7 @@ bereichern verb class=weak pp=bereichert perf=haben refl=acc
 bereinigen verb class=weak pp=bereinigt perf=haben
 bereisen verb class=weak pp=bereist perf=haben
 bereithalten verb class=strong sep=bereit 3sg=bereithält past=bereithielt pp=bereitgehalten subj2=bereithielte perf=haben
+bereitstehen verb class=strong sep=bereit 3sg=bereitsteht past=bereitstand pp=bereitgestanden subj2=bereitstünde|bereitstände perf=haben|sein note=perf with sein in southern Germany like stehen
 bereitstellen verb class=weak sep=bereit pp=bereitgestellt perf=haben
 bereuen verb class=weak pp=bereut perf=haben
 bergen verb class=strong 3sg=birgt past=barg pp=geborgen subj2=bärge|bürge[rare] perf=haben
@@ -270,6 +275,7 @@ betrinken verb class=strong 3sg=betrinkt past=betrank subj2=betränke pp=betrunk
 betrüben verb class=weak pp=betrübt perf=haben
 betrügen verb class=strong 3sg=betrügt past=betrog pp=betrogen subj2=betröge perf=haben
 betteln verb class=weak pp=gebettelt perf=haben
+betten verb class=weak pp=gebettet perf=haben refl=acc
 beugen verb class=weak pp=gebeugt perf=haben
 beunruhigen verb class=weak pp=beunruhigt perf=haben pp_cmp part1_cmp
 beurkunden verb class=weak pp=beurkundet perf=haben
@@ -322,6 +328,7 @@ bilden verb class=weak pp=gebildet perf=haben refl=acc
 billigen verb class=weak pp=gebilligt perf=haben
 binden verb class=strong 3sg=bindet past=band pp=gebunden subj2=bände perf=haben refl=acc
 bitten        verb class=strong 3sg=bittet past=bat pp=gebeten subj2=bäte perf=haben
+blähen verb class=weak pp=gebläht perf=haben refl=acc
 blamieren verb class=weak pp=blamiert perf=haben refl=acc
 blasen verb class=strong 3sg=bläst past=blies pp=geblasen subj2=bliese perf=haben
 blättern verb class=weak pp=geblättert perf=haben

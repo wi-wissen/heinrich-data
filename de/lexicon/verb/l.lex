@@ -11,6 +11,7 @@ langen verb class=weak pp=gelangt perf=haben note=to reach, to suffice
 langweilen verb class=weak pp=gelangweilt perf=haben refl=acc
 lärmen verb class=weak pp=gelärmt perf=haben
 lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe perf=haben note=also causative auxiliary (ich lasse ihn kommen); Ersatzinfinitiv hat kommen lassen
+lasten verb class=weak pp=gelastet perf=haben note=auf jemandem lasten
 lästern verb class=weak pp=gelästert perf=haben
 lauern verb class=weak pp=gelauert perf=haben
 laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf=sein
@@ -61,6 +62,7 @@ losbinden verb class=strong sep=los 3sg=losbindet past=losband subj2=losbände p
 losbrechen verb class=strong sep=los 3sg=losbricht past=losbrach subj2=losbräche pp=losgebrochen perf=sein
 löschen verb class=weak pp=gelöscht perf=haben
 loseisen verb class=weak sep=los pp=losgeeist perf=haben
+losen verb class=weak pp=gelost perf=haben note=um etwas losen (draw lots)
 lösen verb class=weak pp=gelöst perf=haben refl=acc
 losfahren verb class=strong sep=los 3sg=losfährt past=losfuhr pp=losgefahren subj2=losführe perf=sein
 losfliegen verb class=strong sep=los 3sg=losfliegt past=losflog subj2=losflöge pp=losgeflogen perf=sein

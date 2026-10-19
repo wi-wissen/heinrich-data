@@ -23,6 +23,7 @@ meckern verb class=weak pp=gemeckert perf=haben style=colloquial
 mehren verb class=weak pp=gemehrt perf=haben refl=acc
 meiden verb class=strong 3sg=meidet past=mied pp=gemieden subj2=miede perf=haben
 meinen verb class=weak pp=gemeint perf=haben
+meißeln verb class=weak pp=gemeißelt perf=haben
 meistern verb class=weak pp=gemeistert perf=haben
 melden verb class=weak pp=gemeldet perf=haben refl=acc
 melken verb class=weak past=melkte pp=gemolken|gemelkt perf=haben
@@ -44,17 +45,23 @@ misstrauen verb class=weak pp=misstraut perf=haben
 missverstehen verb class=strong 3sg=missversteht past=missverstand subj2=missverstände|missverstünde pp=missverstanden perf=haben
 mitarbeiten verb class=weak sep=mit pp=mitgearbeitet perf=haben
 mitbekommen verb class=strong sep=mit 3sg=mitbekommt past=mitbekam pp=mitbekommen subj2=mitbekäme perf=haben
+mitberücksichtigen verb class=weak sep=mit pp=mitberücksichtigt perf=haben conf=90 note=also written mit berücksichtigen
 mitbestimmen verb class=weak sep=mit pp=mitbestimmt perf=haben
 mitbringen verb class=mixed sep=mit 3sg=mitbringt past=mitbrachte pp=mitgebracht subj2=mitbrächte perf=haben
 mitdenken verb class=mixed sep=mit 3sg=mitdenkt past=mitdachte subj2=mitdächte pp=mitgedacht perf=haben
+mitentscheiden verb class=strong sep=mit 3sg=mitentscheidet past=mitentschied pp=mitentschieden subj2=mitentschiede perf=haben
 miterleben verb class=weak sep=mit pp=miterlebt perf=haben
 mitessen verb class=strong sep=mit 3sg=mitisst past=mitaß pp=mitgegessen subj2=mitäße perf=haben
 mitfahren verb class=strong sep=mit 3sg=mitfährt past=mitfuhr subj2=mitführe pp=mitgefahren perf=sein
 mitfeiern verb class=weak sep=mit pp=mitgefeiert perf=haben
+mitfinanzieren verb class=weak sep=mit pp=mitfinanziert perf=haben
 mitfliegen verb class=strong sep=mit 3sg=mitfliegt past=mitflog subj2=mitflöge pp=mitgeflogen perf=sein
 mitfühlen verb class=weak sep=mit pp=mitgefühlt perf=haben
+mitführen verb class=weak sep=mit pp=mitgeführt perf=haben
 mitgeben verb class=strong sep=mit 3sg=mitgibt past=mitgab subj2=mitgäbe pp=mitgegeben perf=haben
 mitgehen verb class=strong sep=mit 3sg=mitgeht past=mitging|mitgieng[old] subj2=mitginge pp=mitgegangen perf=sein
+mitgestalten verb class=weak sep=mit pp=mitgestaltet perf=haben
+mithalten verb class=strong sep=mit 3sg=mithält past=mithielt pp=mitgehalten subj2=mithielte perf=haben
 mithelfen verb class=strong sep=mit 3sg=mithilft past=mithalf pp=mitgeholfen subj2=mithülfe|mithälfe[rare] perf=haben
 mithören verb class=weak sep=mit pp=mitgehört perf=haben
 mitklatschen verb class=weak sep=mit pp=mitgeklatscht perf=haben
@@ -68,6 +75,7 @@ mitnehmen verb class=strong sep=mit 3sg=mitnimmt past=mitnahm pp=mitgenommen sub
 mitraten verb class=strong sep=mit 3sg=miträt past=mitriet subj2=mitriete pp=mitgeraten perf=haben
 mitrechnen verb class=weak sep=mit pp=mitgerechnet perf=haben
 mitreden verb class=weak sep=mit pp=mitgeredet perf=haben
+mitregieren verb class=weak sep=mit pp=mitregiert perf=haben
 mitreisen verb class=weak sep=mit pp=mitgereist perf=sein
 mitreißen verb class=strong sep=mit 3sg=mitreißt past=mitriss subj2=mitrisse pp=mitgerissen perf=haben
 mitrennen verb class=mixed sep=mit 3sg=mitrennt past=mitrannte subj2=mitrennte pp=mitgerannt perf=sein

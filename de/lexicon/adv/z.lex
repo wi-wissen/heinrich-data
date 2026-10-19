@@ -11,6 +11,7 @@ zuhause adv type=place
 zumeist adv
 zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv
+zuschulden adv note=sich etwas zuschulden kommen lassen; also written zu Schulden
 zusehends adv
 zustande adv note=only in zustande kommen/bringen
 zustatten adv note=zustatten kommen
