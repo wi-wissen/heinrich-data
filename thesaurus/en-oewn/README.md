@@ -9,9 +9,10 @@
 | `english-wordnet-2025.xml.gz` sha256 | `9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe` (11,363,503 bytes) |
 | uncompressed XML sha256 | `6f49adeec174ab3092169fb25cf4a925226b63975a5d29a691a5dff88f0673b2` |
 | Contents | 135,969 lexical entries, 107,519 synsets, 107,524 definitions, 49,596 examples |
-| Licence | **Creative Commons Attribution 4.0 International** (`LICENSE-CC-BY-4.0.txt`; stated in the file as `license="https://creativecommons.org/licenses/by/4.0"`) |
+| Licence | **Creative Commons Attribution 4.0 International** (`LICENSE-CC-BY-4.0.txt`; stated in the file as `license="https://creativecommons.org/licenses/by/4.0"`). The OEWN repository's `LICENSE.md` and `WNDB_License.txt` (Princeton WordNet licence, which still applies to the underlying data) are kept as `LICENSE-OEWN.md` and `WNDB_License.txt`, fetched 2026-10-19 from the `main` branch of the GitHub repository, unchanged |
 
 Used for `en-thes.pack` (synonym groups, part of speech, sense order, usage markings) and `en-gloss.pack`
 (definitions and examples; built and kept, not shown yet). Both packs carry the attribution (`ATTR`), the
-licence text (`LICN`) and a note that the data was changed. Princeton WordNet 3.0, on which OEWN is based, is
-under the WordNet 3.0 licence (BSD-like); its notice is reproduced in Heinrich's `NOTICE`.
+licence text (`LICN`) and a note that the data was changed. Attribution must name both Princeton WordNet and the
+Open English WordNet team; the Princeton notice (`WNDB_License.txt`, BSD-like, permissive) must appear on all
+copies: it is embedded in the packs (`LICN`) and reproduced in Heinrich's `NOTICE`.
