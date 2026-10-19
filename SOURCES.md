@@ -64,7 +64,7 @@ Work lists in `de/lexicon/worklists/` are derived only from our lexicon and our 
 (`de/frequency/forms.tsv`) by `heinrich-lexicon next-batch`.
 
 Lexeme classes in `de/lexicon/classes/` (time nouns, verbs of saying, directed motion verbs,
-valency, perfect auxiliary by use) are our own lists, written clean-room from general knowledge of
+valency, perfect auxiliary by use, mass nouns) are our own lists, written clean-room from general knowledge of
 German grammar; they contain only lemmas of our lexicon.
 
 ## Name lists (`de/names/`)
