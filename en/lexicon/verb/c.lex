@@ -37,6 +37,7 @@ cascade verb
 case verb
 cash verb
 cast verb past=cast pp=cast
+castle verb note=chess move
 catalog verb gb=catalogue|catalog
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize

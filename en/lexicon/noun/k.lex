@@ -11,6 +11,7 @@ keel noun
 keenness noun pl=- note=uncountable
 keep           noun
 keeper         noun
+kelp noun pl=- note=uncountable
 ken noun pl=- note=beyond one's ken
 kennel noun
 kernel noun
@@ -45,6 +46,7 @@ kilogram noun
 kilometer      noun gb=kilometre
 kilowatt noun
 kin            noun pl=- note=collective
+kinase noun
 kind           noun
 kindergarten   noun
 kindliness noun pl=- note=uncountable

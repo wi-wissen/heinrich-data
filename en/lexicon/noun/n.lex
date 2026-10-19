@@ -13,12 +13,15 @@ narcotic noun
 narration noun
 narrative     noun
 narrator      noun
+narrowness noun pl=- note=uncountable
 nation        noun
 national      noun
 nationalism   noun
 nationalist   noun
 nationality   noun
+nationalization noun gb=nationalisation|nationalization
 native        noun
+nativity noun
 naturalist    noun
 naturalization noun gb=naturalisation|naturalization
 nature        noun
@@ -42,10 +45,12 @@ necessity     noun
 neck          noun
 necklace      noun
 necktie noun
+necropolis noun
 nectar noun pl=- note=uncountable
 nectarine noun
 need          noun
 needle        noun
+needlework noun pl=- note=uncountable
 negative      noun
 neglect       noun
 negligence    noun pl=- note=uncountable
@@ -69,6 +74,7 @@ netball noun pl=- note=uncountable
 nettle noun
 network       noun
 networking noun pl=- note=uncountable
+neurologist noun
 neuron noun gb=neuron|neurone
 neuroscience noun pl=- note=uncountable
 neutral       noun
@@ -86,6 +92,7 @@ newspaper     noun
 newsroom noun
 newt noun
 newton        noun note=SI unit of force
+nexus noun pl=nexus|nexuses
 NGO noun abbr note=non-governmental organization
 nibble noun
 niche noun
@@ -115,6 +122,7 @@ no noun pl=noes conf=80 note=a negative answer or vote (the ayes and the noes)
 nobility      noun
 noble         noun
 nobleman      noun pl=noblemen
+nobleness noun pl=- note=uncountable
 noblewoman noun pl=noblewomen
 nod           noun
 node          noun
@@ -139,10 +147,12 @@ nonsense      noun pl=- note=uncountable
 noodle noun
 nook noun
 noon          noun
+noonday noun pl=- note=uncountable
 noose noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norepinephrine noun pl=- note=uncountable
 norm          noun
+normalization noun gb=normalisation|normalization
 Norman        noun note=plural Normans (not -men)
 norovirus     noun
 north         noun pl=- note=the direction has no plural

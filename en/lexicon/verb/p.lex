@@ -69,6 +69,7 @@ pepper verb
 perceive verb
 perch verb
 perfect verb
+perforate verb
 perform verb
 perfume verb
 perish verb
@@ -170,6 +171,7 @@ post verb
 postmark verb
 postpone verb
 postulate verb
+posture verb
 potter verb
 pound verb
 pour verb
@@ -275,6 +277,7 @@ punch verb
 punctuate verb
 puncture verb
 punish verb
+punt verb
 purchase verb
 purge verb
 purify verb

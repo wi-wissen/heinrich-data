@@ -61,6 +61,7 @@ cancer noun
 candidacy noun
 candidate noun
 candidature noun
+candidiasis noun pl=- note=uncountable
 candle noun
 candlestick noun
 candor noun gb=candour pl=- note=uncountable
@@ -69,8 +70,10 @@ cane noun
 canine noun
 cannabis noun pl=- note=uncountable
 cannibal noun
+cannibalism noun pl=- note=uncountable
 cannon noun pl=cannons|cannon
 cannonade noun
+cannonball noun
 canoe noun
 canoeist noun
 canon noun
@@ -78,6 +81,7 @@ canopy noun
 cant noun
 canteen noun
 canter noun
+canto noun pl=cantos
 canton noun
 cantor noun
 canvas noun pl=canvases|canvasses
@@ -93,6 +97,7 @@ capital noun
 capitalism noun pl=- note=uncountable
 capitalist noun
 capitalization noun gb=capitalisation|capitalization
+capitol noun
 capitulation noun
 cappuccino noun pl=cappuccinos
 caprice noun
@@ -115,6 +120,7 @@ carbonate noun
 carbuncle noun
 carburetor noun gb=carburettor
 carcass noun
+carcinoma noun pl=carcinomas|carcinomata
 card noun
 cardboard noun pl=- note=uncountable
 cardigan noun
@@ -149,6 +155,7 @@ carrot noun
 carry noun
 cart noun
 cartel noun
+cartilage noun
 carton noun
 cartoon noun
 cartoonist noun
@@ -159,6 +166,7 @@ carving noun
 cascade noun
 case noun
 caseload noun
+casement noun
 casework noun pl=- note=uncountable
 caseworker noun
 cash noun
@@ -270,6 +278,7 @@ chairman noun pl=chairmen
 chairmanship noun
 chairperson noun pl=chairpersons|chairpeople[rare]
 chairwoman noun pl=chairwomen
+chaise noun
 chalk noun
 chalkboard noun
 challenge noun
@@ -427,6 +436,7 @@ circuit noun
 circular noun
 circulation noun
 circumference noun
+circumnavigation noun
 circumstance noun
 circumvention noun pl=- note=uncountable
 circus noun
@@ -506,6 +516,7 @@ cloister noun
 clone noun
 close noun
 closeness noun pl=- note=uncountable
+closeout noun
 closet noun
 closure noun
 cloth noun
@@ -514,6 +525,7 @@ clothing noun pl=- note=uncountable
 cloud noun
 clover noun
 clown noun
+clozapine noun pl=- note=uncountable
 club noun
 clubhouse noun
 clue noun
@@ -846,6 +858,7 @@ consumer noun
 consummation noun
 consumption noun pl=- note=uncountable
 contact noun
+contagion noun
 container noun
 containment noun pl=- note=uncountable
 contaminant noun
@@ -880,6 +893,7 @@ contrast noun
 contravention noun
 contribution noun
 contributor noun
+contrition noun pl=- note=uncountable
 contrivance noun
 control noun
 controller noun
@@ -927,6 +941,7 @@ copay noun conf=85 note=chiefly American
 copayment noun conf=85
 copier noun
 copper noun
+copra noun pl=- note=uncountable
 copse noun
 copy noun
 copying noun pl=- note=uncountable
@@ -949,6 +964,7 @@ cornerstone noun
 cornet noun
 cornice noun
 Cornish noun pl=- note=the language
+corolla noun
 corollary noun
 corona noun
 coronary noun
@@ -977,6 +993,7 @@ corvette noun
 cosmetic noun
 cosmology noun
 cosmopolitan noun
+cosmos noun pl=- conf=90 note=the universe; the flower has plural cosmos
 cost noun
 costume noun
 cot noun
@@ -993,6 +1010,7 @@ councilwoman noun pl=councilwomen
 counsel noun
 counselor noun gb=counsellor
 count noun
+countdown noun
 countenance noun
 counter noun
 counteraction noun
@@ -1004,6 +1022,7 @@ countermeasure noun
 counteroffer noun conf=85 note=also counter-offer
 counterpart noun
 counterparty noun
+counterpoint noun
 countersignature noun
 counterterrorism noun pl=- gb=counter-terrorism|counterterrorism conf=90 note=uncountable; British texts mostly hyphenate
 counterweight noun
@@ -1034,6 +1053,7 @@ covenant noun
 cover noun
 coverage noun
 covering noun
+covert noun
 covid noun pl=- note=COVID-19; usually written COVID or Covid
 cow noun
 coward noun
@@ -1041,6 +1061,7 @@ cowardice noun pl=- note=uncountable
 cowboy noun
 coworker noun conf=90 note=also co-worker
 coworking noun pl=- conf=85 note=also co-working
+coxswain noun
 coyote noun
 CPI noun abbr note=consumer price index
 CPR noun abbr pl=- note=cardiopulmonary resuscitation
@@ -1054,6 +1075,7 @@ crackle noun
 cradle noun
 craft noun
 craftsman noun pl=craftsmen
+craftsmanship noun pl=- note=uncountable
 crag noun
 cranberry noun
 crane noun
@@ -1078,6 +1100,7 @@ creative noun
 creativity noun pl=- note=uncountable
 creator noun
 creature noun
+credence noun pl=- note=uncountable
 credential noun
 credibility noun pl=- note=uncountable
 credit noun
@@ -1117,6 +1140,7 @@ croissant noun
 crony noun
 crook noun
 crop noun
+croquet noun pl=- note=uncountable
 cross noun
 cross-heading noun
 crossing noun
@@ -1160,6 +1184,7 @@ cube noun
 cubicle noun
 cuckoo noun
 cucumber noun
+cud noun
 cuddle noun
 cue noun
 cuff noun
@@ -1172,10 +1197,13 @@ cult noun
 cultivar noun
 cultivation noun
 culture noun
+cuneiform noun pl=- note=the script
 cunning noun
 cup noun
 cupboard noun
 cupcake noun
+cupola noun
+cur noun
 curate noun
 curator noun
 curb noun
@@ -1192,6 +1220,7 @@ curriculum noun pl=curricula|curriculums
 curry noun
 curse noun
 cursor noun
+curtailment noun
 curtain noun
 curvature noun
 curve noun

@@ -10,6 +10,7 @@ handheld adj
 handsome       adj cmp=er|more adv=handsomely
 handwritten adj
 handy adj cmp=er
+haphazard adj adv=haphazardly
 hapless adj
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
@@ -75,15 +76,18 @@ holy           adj cmp=er
 homegrown adj
 homeless       adj
 homely adj cmp=er|more
+homemade adj
 homesick adj
 homeward adj
 homogeneous adj
 homologous adj
+homophobic adj
 homosexual adj
 honest         adj cmp=more adv=honestly
 honorable      adj gb=honourable adv=honorably
 honorary       adj
 honorific adj
+hooded adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally

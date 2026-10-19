@@ -90,6 +90,7 @@ weasel noun
 weather noun note=plural weathers: in all weathers
 weaver noun
 web noun
+webbing noun pl=- note=material; also the -ing form of web
 webcam noun
 webcast noun
 webinar noun
@@ -118,6 +119,7 @@ wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
 welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
+welterweight noun
 wench noun
 west noun pl=- note=uncountable
 westerly noun
@@ -196,6 +198,7 @@ windowsill noun
 windshield noun region=US note=British windscreen
 windward noun pl=- note=uncountable
 wine noun
+winery noun
 wing noun
 winger noun
 wingspan noun

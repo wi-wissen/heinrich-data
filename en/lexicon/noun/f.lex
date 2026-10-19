@@ -13,12 +13,14 @@ facsimile noun
 fact           noun
 faction        noun
 factor         noun
+factorization noun gb=factorisation|factorization
 factory        noun
 faculty        noun
 fail           noun
 failing noun
 failure        noun
 fair           noun
+fairground noun
 fairness       noun pl=- note=uncountable
 fairy          noun
 fairyland noun
@@ -70,6 +72,7 @@ fault          noun
 fauna          noun
 favor          noun gb=favour
 favorite       noun gb=favourite
+fawn noun
 fax            noun
 façade noun note=spelling with cedilla of facade
 fealty noun pl=- note=uncountable
@@ -79,6 +82,7 @@ feast          noun
 feat           noun
 feather        noun
 feature        noun
+feces noun pl_only gb=faeces
 federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
@@ -241,6 +245,7 @@ flat           noun
 flattery noun
 flavor         noun gb=flavour
 flaw noun
+flax noun pl=- note=uncountable
 flea noun
 fledgling noun
 fleece noun
@@ -263,6 +268,7 @@ floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
+floodway noun
 floor          noun
 flop noun
 flora          noun
@@ -443,6 +449,7 @@ frolic noun
 front          noun
 frontage noun
 frontier       noun
+frontiersman noun pl=frontiersmen
 frontispiece noun
 frontline      noun
 frontman noun pl=frontmen

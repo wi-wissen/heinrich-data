@@ -43,6 +43,7 @@ impactful adj cmp=more
 impartial      adj adv=impartially
 impassable adj
 impassioned adj
+impassive adj adv=impassively
 impatient      adj cmp=more adv=impatiently
 impending      adj attr_only
 impenetrable adj
@@ -54,6 +55,7 @@ imperious adj cmp=more adv=imperiously
 impermissible adj
 impersonal adj adv=impersonally
 impertinent adj
+impervious adj
 impetuous adj cmp=more
 impious adj
 implacable adj adv=implacably
@@ -72,6 +74,7 @@ improper       adj adv=improperly
 imprudent adj cmp=more adv=imprudently
 impudent adj cmp=more
 impulsive adj adv=impulsively
+impure adj cmp=more
 inaccessible adj
 inaccurate     adj adv=inaccurately
 inactive       adj
@@ -87,11 +90,13 @@ inaudible adj
 inaugural      adj
 inbound adj
 incalculable adj
+incandescent adj
 incapable      adj
 incendiary adj
 incensed adj
 incessant adj adv=incessantly
 incidental     adj adv=incidentally
+incipient adj
 inclement adj
 inclined       adj
 inclusive      adj adv=inclusively
@@ -105,6 +110,7 @@ incomprehensible adj
 inconceivable adj
 inconclusive adj adv=inconclusively
 incongruous adj adv=incongruously
+inconsequential adj
 inconsiderable adj
 inconsiderate adj cmp=more adv=inconsiderately
 inconsistent   adj adv=inconsistently
@@ -120,6 +126,7 @@ indebted adj
 indecent adj
 indefatigable adj adv=indefatigably
 indefensible adj
+indefinable adj
 indefinite     adj adv=indefinitely
 indelible adj adv=indelibly
 independent    adj adv=independently
@@ -137,9 +144,11 @@ indiscreet adj
 indiscriminate adj adv=indiscriminately
 indispensable  adj
 indisposed adj pred_only
+indisputable adj adv=indisputably
 indistinct adj adv=indistinctly
 indistinguishable adj
 individual     adj adv=individually
+indivisible adj
 Indo-European adj
 indolent adj
 indomitable adj
@@ -192,11 +201,13 @@ inherent       adj adv=inherently
 inhospitable adj
 inhuman adj
 inhumane adj adv=inhumanely
+inimical adj
 inimitable adj adv=inimitably
 initial        adj adv=initially
 injured        adj
 injurious adj
 inland         adj
+inline adj
 inmost adj
 innate adj
 inner          adj attr_only
@@ -212,6 +223,7 @@ inpatient      adj attr_only
 inquiring adj adv=inquiringly
 inquisitive adj cmp=more adv=inquisitively
 insane         adj cmp=more adv=insanely
+insatiable adj adv=insatiably
 inscrutable adj
 insecure adj
 insensible adj adv=insensibly
@@ -222,6 +234,7 @@ insightful adj cmp=more adv=insightfully
 insignificant  adj
 insistent adj cmp=more adv=insistently
 insolent adj adv=insolently
+insoluble adj
 insolvent adj
 inspirational adj
 instant        adj adv=instantly
@@ -277,6 +290,7 @@ interwar adj
 intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
+intolerant adj
 intracellular adj
 intractable adj cmp=more adv=intractably
 intrastate adj

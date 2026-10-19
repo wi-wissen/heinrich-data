@@ -23,6 +23,7 @@ halibut        noun pl=halibut|halibuts
 hall           noun
 hallelujah noun
 hallmark noun
+hallucination noun
 hallway noun
 halo noun pl=haloes|halos
 halt           noun
@@ -37,6 +38,7 @@ hand           noun
 handbag noun
 handball noun
 handbook noun
+handcuff noun
 handful        noun
 handheld noun
 handicap noun
@@ -52,6 +54,7 @@ handwriting    noun
 hangar noun
 hanger noun
 hanging noun
+hansom noun
 happening noun
 happiness      noun pl=- note=uncountable
 harangue noun
@@ -89,6 +92,7 @@ hate           noun
 hatred         noun
 hatter noun
 haul           noun
+haulage noun pl=- note=uncountable
 haunch noun
 haunt          noun
 haven          noun
@@ -132,6 +136,7 @@ hearsay noun pl=- note=uncountable
 hearse noun
 heart          noun
 heartache noun
+heartbreak noun
 hearth         noun
 heartland noun
 heat           noun
@@ -156,6 +161,7 @@ heiress        noun
 heirloom noun
 helicopter     noun
 helium noun pl=- note=uncountable
+helix noun pl=helices|helixes
 hell           noun
 helm           noun
 helmet         noun
@@ -167,6 +173,8 @@ helpline noun
 hem noun
 heme noun pl=- gb=haem note=uncountable
 hemisphere noun
+hemlock noun
+hemoglobin noun pl=- gb=haemoglobin note=uncountable
 hemorrhage noun gb=haemorrhage
 hemp noun pl=- note=uncountable
 hen noun
@@ -182,6 +190,7 @@ heresy noun
 heretic noun
 heritage       noun
 hermit noun
+hermitage noun
 hernia noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
@@ -191,12 +200,14 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+hexameter noun
 heyday noun
 hiatus noun pl=hiatuses|hiatus
 hiccup noun
 hickory noun
 hide           noun
 hierarchy      noun
+hieroglyphic noun
 high           noun
 highchair noun
 highland       noun
@@ -321,6 +332,7 @@ Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the K
 hound          noun
 hour           noun
 house          noun
+housebuilding noun pl=- note=uncountable
 household      noun
 householder    noun
 housekeeper    noun
@@ -385,6 +397,7 @@ hydrogen       noun pl=- note=uncountable
 hydrology noun pl=- note=uncountable
 hydrolysis noun pl=hydrolyses
 hydropower noun pl=- note=uncountable
+hydroxide noun
 hydroxyl noun
 hyena noun
 hygiene noun pl=- note=uncountable

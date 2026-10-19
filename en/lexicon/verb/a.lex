@@ -51,6 +51,7 @@ adduce verb
 adhere verb
 adjoin verb
 adjourn verb
+adjudge verb
 adjudicate verb
 adjust verb
 administer verb
@@ -142,6 +143,7 @@ apportion verb
 appraise verb
 appreciate verb
 apprehend verb
+apprentice verb
 apprise verb
 approach verb
 appropriate verb

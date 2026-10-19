@@ -4,6 +4,7 @@ painstaking adj adv=painstakingly
 pairwise adj
 Pakistani adj note=demonym or religious name, capitalized
 palatable adj
+palatial adj
 pale adj cmp=er
 Palestinian adj note=demonym or religious name, capitalized
 palliative adj
@@ -12,6 +13,7 @@ palpable adj adv=palpably
 paltry adj cmp=er|more
 pancreatic adj
 pandemic adj
+panoramic adj
 papal adj
 paperless adj
 paradoxical adj adv=paradoxically
@@ -90,10 +92,12 @@ pertinent adj
 Peruvian adj note=demonym or religious name, capitalized
 pervasive adj cmp=more adv=pervasively
 perverse adj adv=perversely
+pessimistic adj adv=pessimistically
 petite adj note=of a woman: small and slim
 petty adj cmp=er
 phantom adj attr_only
 pharmaceutical adj
+pharmacological adj
 phenomenal adj cmp=more adv=phenomenally
 philanthropic adj
 philharmonic adj
@@ -168,6 +172,7 @@ pornographic adj
 porous adj cmp=more
 portable adj
 portentous adj adv=portentously
+portly adj cmp=er
 Portuguese adj note=demonym or religious name, capitalized
 positional adj
 positive adj cmp=more adv=positively
@@ -176,6 +181,7 @@ postal adj
 posterior adj
 postgraduate adj
 posthumous adj
+postoperative adj
 postsecondary adj
 postwar adj
 potable adj
@@ -252,6 +258,7 @@ probable adj adv=probably
 probationary adj
 problematic adj cmp=more
 procedural adj adv=procedurally
+prodigal adj
 prodigious adj adv=prodigiously
 productive adj cmp=more adv=productively
 profane adj cmp=more
@@ -275,6 +282,7 @@ prone adj
 proof adj
 proper adj cmp=more adv=properly
 prophetic adj
+propitious adj
 proportional adj adv=proportionally
 proportionate adj adv=proportionately
 proportioned adj
@@ -283,6 +291,7 @@ prosaic adj cmp=more
 prospective adj
 prosperous adj cmp=more
 prostate adj conf=80 note=attributive use (prostate cancer) is often analysed as a noun
+prosthetic adj
 prostrate adj
 protectionist adj
 protective adj cmp=more adv=protectively
@@ -316,5 +325,7 @@ pure adj cmp=er adv=purely
 puritan adj
 purple adj
 purported adj adv=purportedly
+purposeful adj adv=purposefully
 pursuant adj note=only in pursuant to
+putative adj adv=putatively
 pyramidal adj

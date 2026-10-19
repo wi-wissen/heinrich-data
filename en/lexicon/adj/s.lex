@@ -14,12 +14,14 @@ saltwater adj
 salty adj cmp=er
 salutary adj
 same adj
+sanctionable adj
 sandy adj cmp=er
 sane adj cmp=er
 sanguinary adj
 sanguine adj
 sanitary adj
 sarcastic adj adv=sarcastically
+sardonic adj adv=sardonically
 satanic adj
 satirical adj
 satisfactory adj adv=satisfactorily
@@ -55,6 +57,7 @@ Scottish adj
 scruffy adj cmp=er
 scrumptious adj
 scrupulous adj cmp=more adv=scrupulously
+sculptural adj
 seafaring adj
 seamless adj adv=seamlessly
 searchable adj
@@ -82,8 +85,10 @@ selfless adj adv=selflessly
 semantic adj adv=semantically
 semi-arid adj
 semiannual adj conf=85
+semicircular adj
 seminal adj
 Semitic adj
+senatorial adj
 senior adj
 sensational adj cmp=more adv=sensationally
 senseless adj
@@ -106,6 +111,7 @@ serpentine adj
 serrated adj
 serviceable adj
 servile adj
+sessile adj
 severable adj
 severe adj cmp=er|more adv=severely
 sexual adj adv=sexually
@@ -231,6 +237,7 @@ Soviet adj
 spacious adj cmp=more
 Spanish adj
 spare adj cmp=er|more
+sparing adj adv=sparingly
 sparkling adj
 sparkly adj
 sparse adj cmp=er adv=sparsely
@@ -248,8 +255,10 @@ spherical adj
 spicy adj cmp=er
 spiky adj cmp=er
 spinal adj
+spiny adj cmp=er
 spirited adj
 spiritual adj adv=spiritually
+spiteful adj adv=spitefully
 splendid adj cmp=more adv=splendidly
 spontaneous adj cmp=more adv=spontaneously
 spooky adj cmp=er
@@ -335,6 +344,8 @@ sublime adj cmp=er|more
 submissive adj cmp=more adv=submissively
 subordinate adj
 subsequent adj adv=subsequently
+subservient adj
+substandard adj
 substantial adj adv=substantially
 substantive adj adv=substantively
 subsurface adj

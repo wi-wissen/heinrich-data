@@ -130,6 +130,7 @@ organizer noun gb=organiser|organizer
 oriel noun
 orientation   noun
 orifice noun
+origami noun pl=- note=uncountable
 origin        noun
 original      noun
 originality noun pl=- note=uncountable
@@ -137,6 +138,7 @@ origination noun
 originator noun
 ornament      noun
 ornamentation noun
+ornithologist noun
 orphan noun
 orphanage noun
 orthodoxy noun
@@ -153,6 +155,7 @@ outage noun
 outboard noun
 outbox noun
 outbreak      noun
+outbuilding noun
 outburst noun
 outcast noun
 outcome       noun
@@ -163,6 +166,7 @@ outfield noun
 outfielder noun
 outfit        noun
 outflow noun
+outgrowth noun
 outlaw        noun
 outlay noun
 outlet        noun
@@ -213,6 +217,7 @@ owl           noun
 owner         noun
 ownership     noun
 ox noun pl=oxen
+oxidase noun
 oxidation noun
 oxide         noun
 oxygen        noun pl=- note=uncountable

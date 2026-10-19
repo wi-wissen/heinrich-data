@@ -60,6 +60,7 @@ regimental adj
 regional adj adv=regionally
 registrable adj
 regressive adj
+regretful adj adv=regretfully
 regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
@@ -115,6 +116,7 @@ respiratory adj
 resplendent adj
 responsible adj cmp=more adv=responsibly
 responsive adj cmp=more
+restful adj
 restless adj cmp=more adv=restlessly
 restorative adj
 restrictive adj cmp=more
@@ -123,6 +125,7 @@ retail adj
 retaliatory adj
 reticent adj
 retinal adj
+retractable adj
 retroactive adj adv=retroactively
 retrograde adj
 retrospective adj adv=retrospectively
@@ -134,6 +137,7 @@ reversible adj
 reviewable adj
 revolutionary adj
 rhetorical adj adv=rhetorically
+rheumatic adj
 rhythmic adj adv=rhythmically
 Rican adj note=in Puerto Rican, Costa Rican
 rich adj cmp=er adv=richly
