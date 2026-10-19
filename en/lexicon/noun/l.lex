@@ -3,6 +3,8 @@ label         noun
 labor         noun gb=labour
 laboratory    noun
 laborer noun gb=labourer
+labrum noun pl=labra|labrums conf=80 note=anatomy; labra in technical use
+labyrinth noun
 lace          noun
 lack          noun
 lacrosse noun pl=- note=uncountable
@@ -20,6 +22,7 @@ laird noun
 lake          noun
 lamb          noun
 lament noun
+lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
 land          noun
@@ -46,8 +49,11 @@ lark noun
 larva         noun pl=larvae
 lasagna noun gb=lasagne|lasagna
 laser         noun
+lass noun
+latch noun
 latency noun
 lateness noun pl=- note=uncountable
+lathe noun
 Latin         noun
 Latino        noun note=plural Latinos
 latitude      noun
@@ -57,6 +63,7 @@ Latvian noun
 laugh         noun
 laughter      noun pl=- note=uncountable
 launch        noun
+launcher noun
 laundering    noun pl=- note=uncountable
 laundry noun
 laureate noun
@@ -96,8 +103,10 @@ lecture       noun
 lecturer      noun
 ledge         noun
 ledger noun
+lee noun
 leek noun
 left          noun
+leftist noun
 lefty noun style=colloquial
 leg           noun
 legacy        noun
@@ -128,7 +137,9 @@ lessor noun
 letter        noun
 letterbox noun region=GB
 letterhead noun
+lettering noun pl=- note=uncountable
 lettuce noun
+levee noun
 level         noun
 lever noun
 leverage      noun
@@ -139,11 +150,14 @@ liar noun
 lib           noun style=colloquial conf=85 note=liberation (women's lib)
 libel noun
 liberal       noun
+liberalism noun pl=- note=uncountable
+liberality noun
 liberation    noun
 libertarian noun
 liberty       noun
 librarian noun
 library       noun
+libretto noun pl=librettos|libretti
 Libyan        noun
 license       noun gb=licence
 licensee      noun
@@ -160,11 +174,14 @@ lifespan noun
 lifestyle     noun
 lifetime      noun
 lift          noun
+ligament noun
+ligand noun
 light         noun
 lighter       noun note=device for lighting
 lighthouse    noun
 lighting      noun
-lightning     noun pl=- note=uncountable
+lightness noun pl=- note=uncountable
+lightning     noun note=plural lightnings is literary
 lightweight noun
 like          noun
 likelihood    noun
@@ -181,15 +198,19 @@ linden        noun
 line          noun
 lineage       noun
 linebacker noun
+lineman noun pl=linemen
 linen         noun
 liner         noun
 lineup        noun
 linguist noun
+linguistics noun pl=- note=the field, with a singular verb
 lining        noun
 link          noun
+linkage noun
 lion          noun
 lioness noun
 lip           noun
+lipid noun
 lipstick noun
 liquid        noun
 liquidation   noun
@@ -202,11 +223,13 @@ listing       noun
 liter noun gb=litre
 literacy      noun pl=- note=uncountable
 literature    noun
+lithium noun pl=- note=chemical element
 Lithuanian    noun
 litigant noun
 litigation    noun
 litigator noun
 litter        noun
+liturgy noun
 livelihood    noun
 liver         noun
 livery        noun
@@ -224,8 +247,10 @@ loaf noun pl=loaves
 loan          noun
 lobby         noun
 lobbyist noun
+lobe noun
 lobster noun
 local         noun
+locale noun
 localism      noun
 locality      noun
 location      noun
@@ -235,6 +260,7 @@ lockdown      noun
 locker noun
 locksmith noun
 locomotive    noun
+locust noun
 lodge         noun
 lodger noun
 lodging       noun
@@ -259,10 +285,12 @@ lookout noun
 lookup noun
 loop          noun
 loophole      noun
+loot noun pl=- note=uncountable
 lord          noun
 lordship      noun
 lore noun
 lorry noun region=GB note=US truck
+loser noun
 loss          noun
 lot           noun
 lottery       noun
@@ -273,11 +301,13 @@ loveliness noun
 lover         noun
 low           noun
 lowland noun
+loyalist noun
 loyalty       noun
 LP            noun abbr note=long-playing record; limited partnership
 LPA           noun abbr conf=80 note=lasting power of attorney; local planning authority (UK)
 luck          noun pl=- note=uncountable
 luggage       noun pl=- note=uncountable
+lull noun
 lumber        noun pl=- note=uncountable (timber)
 lump          noun
 lunatic noun
@@ -293,3 +323,4 @@ Lutheran      noun
 luxury        noun
 lychee noun
 lyric         noun
+lyricist noun

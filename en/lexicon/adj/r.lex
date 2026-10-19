@@ -10,7 +10,7 @@ rainy adj cmp=er
 rambling adj cmp=more
 rampant adj adv=rampantly
 random adj adv=randomly
-rank adj
+rank adj cmp=er
 rapid adj cmp=more adv=rapidly
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly

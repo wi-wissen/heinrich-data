@@ -2,6 +2,7 @@ IBAN noun abbr note=international bank account number
 IBR noun abbr note=incorporation by reference (US regulations)
 IC noun abbr note=integrated circuit
 ice            noun
+iceberg noun
 Icelandic      noun pl=- note=the language
 icon           noun
 ICU noun abbr note=intensive care unit
@@ -9,6 +10,7 @@ ID             noun abbr note=identification, identity document
 id noun conf=90 note=psychoanalysis; the form Id in legal texts (Id. = idem) is not covered
 idea           noun
 ideal          noun
+idealism noun pl=- note=uncountable
 identification noun
 identifier     noun
 identity       noun
@@ -21,6 +23,7 @@ ignorance      noun
 iguana noun
 ill            noun
 illegal        noun
+illiterate noun
 illness        noun
 illumination noun
 illusion       noun
@@ -30,7 +33,9 @@ image          noun
 imagery        noun pl=- note=uncountable
 imagination    noun
 imaging        noun pl=- note=uncountable
+imbalance noun
 imitation      noun
+immersion noun
 immigrant      noun
 immigration    noun
 immortal       noun
@@ -41,9 +46,12 @@ impairment     noun
 impartiality noun
 impatience     noun pl=- note=uncountable
 impeachment noun
+impedance noun
 impediment     noun
 imperative     noun
+impertinence noun
 impetus noun
+implant noun
 implement      noun
 implementation noun
 implication    noun
@@ -53,24 +61,31 @@ importation    noun
 importer       noun
 imposition     noun
 impossibility noun
+impostor noun
+impoundment noun
 impression     noun
 imprint noun
 imprisonment   noun
 improvement    noun
+impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
 inability      noun
 inaccuracy noun
 inaction noun pl=- note=uncountable
 inactivity noun
+inadequacy noun
 inauguration noun
 inbox noun
 Inca           noun
+incantation noun
 incapacity noun
+incarceration noun
 incarnation    noun
 incense noun
 incentive      noun
 inception      noun
+incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
@@ -85,6 +100,8 @@ incorporation  noun
 increase       noun
 increment noun
 incumbent      noun
+incursion noun
+indecision noun pl=- note=uncountable
 indemnity noun
 independence   noun
 independent    noun
@@ -101,34 +118,46 @@ individual     noun
 individuality noun
 Indo-European noun pl=- note=the language family
 Indonesian     noun
+inductee noun
 induction      noun
 indulgence noun
 industrialist noun
+industrialization noun gb=industrialisation|industrialization
 industry       noun
 inefficiency noun
 inequality     noun
+inertia noun pl=- note=uncountable
 infancy        noun
 infant         noun
 infantry       noun pl=- note=collective
 infection      noun
 inference      noun
 inferior       noun
+inferiority noun pl=- note=uncountable
+infidel noun
+infidelity noun
 infinity noun
 inflammation   noun
 inflation      noun
 influence      noun
 influenza      noun pl=- note=uncountable
 influx         noun
+info noun pl=- style=colloquial note=information
+informant noun
 information    noun pl=- note=uncountable
 infraction noun
 infrastructure noun
 infringement   noun
+infusion noun
 ingenuity      noun pl=- note=uncountable
 ingestion noun
 ingredient     noun
 inhabitant     noun
+inhalation noun
 inheritance    noun
 inhibition noun
+inhibitor noun
+iniquity noun
 initial        noun
 initiate       noun
 initiation     noun
@@ -144,6 +173,7 @@ inmate         noun
 inn            noun
 inning         noun note=baseball
 innings        noun pl=innings note=cricket; singular and plural have the same form
+innkeeper noun
 innocence      noun pl=- note=uncountable
 innocent       noun
 innovation     noun
@@ -159,6 +189,7 @@ insect         noun
 insecurity     noun
 insert         noun
 insertion noun
+insider noun
 insight        noun
 insignia noun pl=insignia|insignias
 insistence noun
@@ -185,15 +216,17 @@ insulin noun pl=- note=uncountable
 insult         noun
 insurance      noun
 insurer noun
+insurgency noun
 insurgent noun
 insurrection noun
 intake         noun
+intangible noun
 integer        noun
 integration    noun
 integrity      noun pl=- note=uncountable
 intellect      noun
 intellectual   noun
-intelligence   noun pl=- note=uncountable
+intelligence   noun note=plural intelligences: kinds of intelligence, agencies
 intensity      noun
 intent         noun
 intention      noun
@@ -207,11 +240,13 @@ interface      noun
 interference   noun
 interim        noun
 interior       noun
+interlude noun
 intermediary   noun
 intermediate   noun
 intern noun
 international  noun
 internet       noun pl=- note=usually with the; also capitalized Internet
+internment noun
 internship noun
 interoperability noun pl=- note=uncountable
 interpretation noun
@@ -226,9 +261,12 @@ interview      noun
 interviewee noun
 interviewer noun
 intestacy noun pl=- note=uncountable
+intestine noun
 intimacy       noun
+intimation noun
 intimidation   noun
 intolerance noun
+intoxication noun
 intranet noun
 intrigue noun
 introduction   noun
@@ -238,6 +276,7 @@ intuition noun
 Inuit noun pl=Inuit
 invader noun
 invalid        noun
+invariant noun
 invasion       noun
 invention      noun
 inventor       noun
@@ -275,7 +314,10 @@ Islamist noun
 island         noun
 islander       noun
 isle           noun
+islet noun
 isolation      noun
+isomer noun
+isopleth noun
 isotope        noun
 Israeli        noun
 Israelite noun

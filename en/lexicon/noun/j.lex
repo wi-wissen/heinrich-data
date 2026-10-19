@@ -1,6 +1,9 @@
+jab noun
 jack noun
 jacket         noun
 Jacobite noun
+jade noun pl=- note=the stone; also the colour
+jag noun conf=90 note=a sharp point; a spell of activity (a crying jag)
 jaguar noun
 jail           noun
 jam noun
@@ -8,6 +11,7 @@ Jamaican noun
 Japanese       noun pl=Japanese
 jar noun
 jargon noun pl=- note=uncountable
+javelin noun
 jaw            noun
 jay noun
 jazz           noun pl=- note=uncountable
@@ -25,6 +29,7 @@ Jew            noun
 jewel          noun
 jewelry noun gb=jewellery pl=- note=uncountable
 jigsaw noun
+jingle noun
 job            noun
 joblessness noun pl=- note=uncountable
 jobseeker noun conf=85 note=also job seeker
@@ -53,7 +58,9 @@ juncture noun
 jungle         noun
 junior         noun
 junk noun
+junta noun
 jurisdiction   noun
+jurisprudence noun pl=- note=uncountable
 jurist noun
 juror noun
 jury           noun

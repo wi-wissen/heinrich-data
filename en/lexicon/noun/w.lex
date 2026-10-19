@@ -79,7 +79,7 @@ wear noun pl=- note=uncountable
 wearer noun
 weariness noun pl=- note=uncountable
 weasel noun
-weather noun pl=- note=uncountable
+weather noun note=plural weathers: in all weathers
 weaver noun
 web noun
 webcam noun

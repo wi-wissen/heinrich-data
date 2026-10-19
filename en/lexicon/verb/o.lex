@@ -39,7 +39,7 @@ ornament      verb
 orphan verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
-outfit        verb
+outfit        verb prefix=out
 outlaw        verb
 outline       verb
 outlive verb prefix=out

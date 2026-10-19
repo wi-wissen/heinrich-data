@@ -3,11 +3,16 @@ earmark verb
 earn verb
 ease verb
 eat verb past=ate pp=eaten
+ebb verb
 echo verb
+eclipse verb
+eddy verb
 edge verb
 edit verb
 educate verb
+efface verb
 effect verb
+effectuate verb
 ejaculate verb
 eject verb
 elaborate verb
@@ -17,7 +22,9 @@ electrify verb
 elevate verb
 eliminate verb
 elongate verb
+elude verb
 email verb
+emanate verb
 embark verb
 embarrass verb
 embed verb double
@@ -43,9 +50,11 @@ encode verb
 encompass verb
 encounter verb
 encourage verb
+encroach verb
 encrypt verb
 end verb
 endanger verb
+endear verb
 endeavor verb gb=endeavour
 endorse verb
 endow verb
@@ -54,6 +63,7 @@ enforce verb
 engage verb
 engineer verb
 engrave verb
+engross verb
 enhance verb
 enjoy verb
 enlarge verb
@@ -70,7 +80,9 @@ entail verb
 entangle verb
 enter verb
 entertain verb
+entice verb
 entitle verb
+entrance verb note=to enchant (entranced)
 entreat verb
 entrench verb
 entrust verb
@@ -80,6 +92,7 @@ envisage verb
 envision verb
 envy verb
 equal verb
+equate verb
 equip verb double
 eradicate verb
 erase verb
@@ -89,24 +102,31 @@ erupt verb
 escalate verb
 escape verb
 escort verb
+espouse verb
 establish verb
 esteem verb
 estimate verb
 estrange verb
+etch verb
 evacuate verb
 evade verb
 evaluate verb
+evaporate verb
 evict verb
 evidence verb
+evince verb
+evoke verb
 evolve verb
 exacerbate verb
 exaggerate verb
 exalt verb
 examine verb
+exasperate verb
 excavate verb
 exceed verb
 excel verb double
 except verb
+excerpt verb
 exchange verb
 excise verb
 excite verb
@@ -124,6 +144,7 @@ exile verb
 exist verb
 exit verb
 expand verb
+expatriate verb
 expect verb
 expedite verb
 expel verb double
@@ -141,7 +162,9 @@ expose verb
 express verb
 expropriate verb
 extend verb
+exterminate verb
 extinguish verb
 extract verb
 extradite verb
+extricate verb
 eye verb

@@ -12,7 +12,7 @@ racket noun
 racquet noun note=variant spelling of racket (sports)
 radar noun
 radiance noun pl=- note=uncountable
-radiation noun pl=- note=uncountable
+radiation noun note=plural radiations: kinds of radiation; adaptive radiations
 radiator noun
 radical noun
 radio noun pl=radios
@@ -392,9 +392,9 @@ reuse noun
 revaluation noun
 revel noun
 revelation noun
-revenge noun pl=- note=uncountable
+revenge noun note=plural revenges is literary
 revenue noun
-reverence noun pl=- note=uncountable
+reverence noun note=plural reverences: bows (archaic)
 reverend noun
 reverie noun
 reversal noun
@@ -486,7 +486,7 @@ rollout noun
 rollover noun
 Roman noun pl=Romans note=demonym, capitalized
 romance noun
-Romani noun
+Romani noun pl=- conf=85 note=the language; the people are the Roma
 Romanian noun note=demonym or religious name, capitalized
 romantic noun
 roof noun pl=roofs

@@ -5,6 +5,7 @@ languid adj
 Lankan adj note=only in Sri Lankan
 Lao adj
 large         adj cmp=er adv=largely
+larval adj
 lasting       adj
 late          adj cmp=er
 latent adj
@@ -13,16 +14,20 @@ Latin         adj note=capitalized: language and culture
 Latino        adj
 latter        adj attr_only
 Latvian adj
-lavish adj adv=lavishly
+lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
 lay           adj attr_only
 lazy          adj cmp=er adv=lazily
 leading       adj attr_only
+leafy adj cmp=er
 lean          adj cmp=er
 learned       adj cmp=more note=scholarly
+leathern adj style=archaic
 Lebanese      adj
+lee adj attr_only
 left          adj attr_only
+leftist adj
 legal         adj adv=legally
 legendary     adj
 legible adj
@@ -31,10 +36,11 @@ legitimate    adj adv=legitimately
 leisurely     adj
 lemony adj
 lengthy       adj cmp=er|more
+lenient adj cmp=more adv=leniently
 lesbian       adj
 lesser        adj attr_only
 lethal        adj
-level         adj
+level         adj cmp=more
 LGBT          adj abbr note=lesbian, gay, bisexual and transgender
 LGBTQ         adj abbr note=lesbian, gay, bisexual, transgender and queer
 liable        adj pred_only
@@ -68,6 +74,7 @@ logistical adj
 Lombard adj
 lone          adj attr_only
 lonely        adj cmp=er
+lonesome adj cmp=more
 long          adj cmp=er
 longitudinal  adj adv=longitudinally
 longstanding  adj
@@ -78,6 +85,7 @@ lovely        adj cmp=er
 lovesick adj
 loving        adj adv=lovingly
 low           adj cmp=er
+lowly adj cmp=er
 loyal         adj cmp=more adv=loyally
 lucky         adj cmp=er adv=luckily
 lucrative adj cmp=more
@@ -85,7 +93,9 @@ ludicrous adj cmp=more adv=ludicrously
 luminous adj
 lumpy adj cmp=er
 lunar         adj
+lurid adj cmp=more adv=luridly
 Lutheran      adj
+luxuriant adj
 luxurious     adj adv=luxuriously
 lyric         adj
 lyrical adj

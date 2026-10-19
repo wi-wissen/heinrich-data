@@ -47,7 +47,7 @@ wireless adj
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily
-womanly adj
+womanly adj cmp=more
 wonderful adj cmp=more adv=wonderfully
 wondrous adj
 wont adj pred_only note=archaic: accustomed

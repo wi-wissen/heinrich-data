@@ -14,7 +14,7 @@ Malay         adj
 Malaysian     adj
 male          adj
 malicious     adj adv=maliciously
-malign adj
+malign adj cmp=more
 malignant adj
 mammoth adj
 manageable adj cmp=more
@@ -45,7 +45,7 @@ material      adj adv=materially
 maternal      adj
 mathematical  adj adv=mathematically
 matrimonial adj
-mature        adj cmp=more
+mature        adj cmp=er|more
 maximal adj
 maximum       adj
 mayoral       adj
@@ -108,7 +108,7 @@ minimum       adj
 ministerial   adj
 minor         adj
 minty adj
-minute        adj note=tiny
+minute        adj cmp=er|more note=tiny
 miraculous adj cmp=more adv=miraculously
 miscellaneous adj
 mischievous adj cmp=more adv=mischievously

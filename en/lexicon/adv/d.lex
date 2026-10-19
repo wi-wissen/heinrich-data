@@ -12,6 +12,8 @@ domestically adv
 double adv
 doubly adv
 doubtless adv
+downhill adv type=place
+downright adv type=degree
 downstairs adv
 downstream adv
 downtown adv

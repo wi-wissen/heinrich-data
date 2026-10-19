@@ -526,7 +526,7 @@ softness noun pl=- note=uncountable
 software noun pl=- note=uncountable
 soil noun
 sojourn noun
-solace noun pl=- note=uncountable
+solace noun note=plural solaces: comforts
 soldier noun
 soldiery noun pl=- note=collective
 sole noun
@@ -597,7 +597,7 @@ spear noun
 spearhead noun
 special noun
 specialist noun
-specialty noun note=British usually speciality
+specialty noun gb=speciality|specialty note=British texts use both spellings
 species noun pl=species
 specific noun note=specifics (details)
 specification noun
@@ -904,7 +904,7 @@ sufferer noun
 suffering noun
 sufficiency noun
 suffix noun
-suffrage noun pl=- note=uncountable
+suffrage noun note=plural suffrages: votes; intercessory prayers
 sugar noun
 suggestion noun
 suicide noun

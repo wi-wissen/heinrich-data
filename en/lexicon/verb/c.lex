@@ -3,6 +3,7 @@ cache verb
 cage verb
 cake verb
 calculate verb
+calibrate verb
 call verb
 calm verb
 camp verb
@@ -10,12 +11,18 @@ campaign verb
 cancel verb past=canceled[US]|cancelled pp=canceled[US]|cancelled ing=canceling[US]|cancelling note=cancelled and cancelling are also frequent in American English (own counts)
 cane verb
 canoe verb
+canter verb
 cap verb
 capitalize verb gb=capitalise|capitalize
 captain verb
+caption verb
+captivate verb
 capture verb
+carbonate verb
 care verb
 career verb
+caress verb
+caricature verb
 carol verb
 carp verb
 carpet verb
@@ -24,6 +31,7 @@ cart verb
 cartwheel verb
 carve verb
 cascade verb
+case verb
 cash verb
 cast verb past=cast pp=cast
 catalog verb gb=catalogue|catalog
@@ -38,10 +46,14 @@ cease verb
 cede verb
 celebrate verb
 cement verb
+censor verb
 censure verb
 center verb gb=centre
 centralize verb gb=centralise|centralize
+centrifuge verb
 certify verb
+chafe verb
+chagrin verb
 chain verb
 chair verb
 chalk verb
@@ -67,12 +79,14 @@ cherish verb
 chew verb
 chicken verb
 chill verb
+chime verb
 chip verb
 chirp verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
 chop verb
+choreograph verb
 chorus verb
 chronicle verb
 chuck verb
@@ -80,11 +94,15 @@ chuckle verb
 cipher verb
 circle verb
 circulate verb
+circumvent verb
 cite verb
 civilize verb gb=civilise|civilize
 claim verb
 clam verb
 clamber verb
+clamor verb gb=clamour
+clamp verb
+clang verb
 clap verb
 clarify verb
 clash verb
@@ -96,18 +114,22 @@ claw verb
 clean verb
 cleanse verb
 clear verb
+cleave verb past=cleaved|cleft|clove pp=cleaved|cleft|cloven conf=90 note=split: clove, cloven are literary; cling: cleaved
 clench verb
 click verb
 climax verb
 climb verb
+clinch verb
 cling verb past=clung pp=clung
 clip verb
 cloak verb
 clock verb
+clone verb
 close verb
 closet verb
 clothe verb past=clothed|clad pp=clothed|clad note=clad is literary or technical
 cloud verb
+clown verb
 club verb
 clue verb ing=clueing|cluing
 clump verb
@@ -121,9 +143,12 @@ coach verb
 coast verb
 coat verb
 coauthor verb conf=80 note=also co-author
+coax verb
 cock verb
 code verb
+codename verb
 codify verb
+coerce verb
 cohabit verb
 coil verb
 coin verb
@@ -134,6 +159,7 @@ collate verb
 collateralize verb gb=collateralise|collateralize conf=80
 collect verb
 collide verb
+colonize verb gb=colonise|colonize
 color verb gb=colour
 comb verb
 combat verb
@@ -177,6 +203,7 @@ conceive verb
 concentrate verb
 concern verb
 conclude verb
+concur verb double
 condemn verb
 condense verb
 condition verb
@@ -193,9 +220,14 @@ conform verb
 confound verb
 confront verb
 confuse verb
+congest verb
 congratulate verb
+congregate verb
 conjecture verb
+conjugate verb
+conjure verb
 connect verb
+connote verb
 conquer verb
 consecrate verb
 consent verb
@@ -205,12 +237,14 @@ consist verb
 console verb
 consolidate verb
 consort verb
+conspire verb
 constitute verb
 constrain verb
 construct verb
 construe verb
 consult verb
 consume verb
+consummate verb
 contact verb
 contain verb
 contaminate verb
@@ -222,10 +256,12 @@ continue verb
 contract verb
 contradict verb
 contrast verb
+contravene verb
 contribute verb
 contrive verb
 control verb double
 convene verb
+converge verb
 converse verb
 convert verb
 convey verb
@@ -235,6 +271,7 @@ cook verb
 cool verb
 cooperate verb gb=cooperate|co-operate
 coordinate verb gb=coordinate|co-ordinate
+cop verb
 cope verb
 copy verb
 copyright verb
@@ -242,6 +279,7 @@ corner verb
 correct verb
 correlate verb
 correspond verb
+corroborate verb
 corrupt verb
 cost verb past=cost pp=cost
 couch verb
@@ -250,30 +288,41 @@ counsel verb
 count verb
 countenance verb
 counter verb
+counteract verb
 counterfeit verb
 countersign verb
 couple verb
 court verb
 covenant verb
 cover verb
+covet verb
 cow verb
 crack verb
+crackle verb
 cradle verb
 craft verb
 cram verb
 crane verb
+crank verb
 crash verb
+crate verb
+crave verb
 crawl verb
+creak verb
 cream verb
 crease verb
 create verb
 credit verb
 creep verb past=crept pp=crept
+cremate verb
 crew verb
+criminalize verb gb=criminalise|criminalize
 crinkle verb
 cripple verb
 criticize verb gb=criticise|criticize
 critique verb
+croak verb
+crook verb
 crop verb
 cross verb
 crouch verb
@@ -289,8 +338,11 @@ crunch verb
 crusade verb
 crush verb
 cry verb
+cube verb
 cuddle verb
 cue verb ing=cueing|cuing
+cuff verb
+cull verb
 culminate verb
 cultivate verb
 cup verb
@@ -300,6 +352,7 @@ cure verb
 curl verb
 curry verb
 curse verb
+curtail verb
 curve verb
 cushion verb
 customize verb gb=customise|customize

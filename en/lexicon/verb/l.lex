@@ -6,16 +6,21 @@ lag verb
 lament verb
 laminate verb
 land          verb
+landscape verb
+languish verb
 lap           verb
 lapse         verb
 lash verb
 last          verb
+latch verb
 laugh         verb
 launch        verb
 launder       verb
 lay           verb past=laid pp=laid
+layer verb
 laze verb
-lead          verb past=led pp=led
+lead          verb past=led pp=led sense=guide
+lead          verb sense=metal note=to cover or weight with lead: leaded
 leaf          verb
 leak          verb
 lean          verb past=leaned|leant[GB] pp=leaned|leant[GB]
@@ -24,11 +29,13 @@ learn         verb past=learned|learnt[GB] pp=learned|learnt[GB]
 lease         verb
 leave         verb past=left pp=left
 lecture       verb
+legalize verb gb=legalise|legalize
 legislate     verb
 lend          verb past=lent pp=lent
 lengthen verb
 lessen verb
 let           verb past=let pp=let
+letter verb
 level         verb
 leverage      verb
 levy          verb
@@ -57,6 +64,7 @@ live          verb
 livestream verb
 load          verb
 loan          verb
+loathe verb
 lobby         verb
 localize verb gb=localise|localize
 locate        verb
@@ -69,9 +77,12 @@ loom verb
 loop          verb
 loose         verb
 loosen verb
+loot verb
 lose          verb past=lost pp=lost
+lounge verb
 love          verb
 lower         verb
+lull verb
 lumber        verb
 lump          verb
 lunch         verb

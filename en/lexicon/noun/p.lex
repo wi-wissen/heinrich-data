@@ -134,7 +134,7 @@ pathway noun
 patience noun pl=- note=uncountable
 patient noun
 patio noun pl=patios
-patriarch noun
+patriarch noun pl=patriarchs
 patrician noun
 patrimony noun
 patriot noun
@@ -226,7 +226,7 @@ perception noun
 perch noun
 percussion noun pl=- note=uncountable
 perennial noun
-perfection noun pl=- note=uncountable
+perfection noun note=plural perfections: excellent qualities
 performance noun
 performer noun
 perfume noun
@@ -385,7 +385,7 @@ plant noun
 plantation noun
 planter noun
 plaque noun
-plasma noun pl=- note=uncountable
+plasma noun note=plural plasmas in physics
 plaster noun
 plastic noun
 plat noun
@@ -461,7 +461,7 @@ politician noun
 politics noun pl=- note=singular or plural agreement
 polity noun
 poll noun
-pollen noun pl=- note=uncountable
+pollen noun note=plural pollens: kinds of pollen
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
@@ -549,7 +549,7 @@ practice noun
 practitioner noun
 pragmatism noun pl=- note=uncountable
 prairie noun
-praise noun pl=- note=uncountable
+praise noun note=plural praises: sing someone's praises
 pram noun region=GB note=US baby carriage
 prank noun
 prawn noun
@@ -625,7 +625,7 @@ prey noun pl=- note=uncountable
 price noun
 pricing noun pl=- note=uncountable
 prick noun
-pride noun pl=- note=uncountable
+pride noun note=plural prides: a pride of lions
 priest noun
 priestess noun
 priesthood noun
@@ -670,7 +670,7 @@ procession noun
 processor noun
 proclamation noun
 procrastination noun pl=- note=uncountable
-procurement noun pl=- note=uncountable
+procurement noun note=plural procurements: individual purchases
 produce noun pl=- note=uncountable
 producer noun
 product noun
@@ -702,7 +702,7 @@ projector noun
 proliferation noun
 prologue noun
 promenade noun
-prominence noun pl=- note=uncountable
+prominence noun note=plural prominences: solar prominences, projections
 promise noun
 promontory noun
 promoter noun
