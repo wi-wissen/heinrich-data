@@ -1,25 +1,37 @@
 # German name lists (`de/names/`)
 
-Two switchable data files with person names that occur in school texts. They are **not** part of
-the lexicon shards (policy: no person names in `de/lexicon/`); the engine loads them as optional
-name lists, default on.
+Three switchable data files with person and place names that occur in school and office texts.
+They are **not** part of the lexicon shards (policy: no person names in `de/lexicon/`); the engine
+loads them as optional name lists (one `names` pack), default on.
 
 | file | content | columns |
 |---|---|---|
 | `given_names.tsv` | about 2,600 given names used in German-speaking schools: traditional and modern German names, names common in Turkish, Kurdish, Arabic, Persian, Albanian, Balkan, Slavic, Romance, Vietnamese and other migrant families | `name<TAB>gender` |
 | `surnames.tsv` | about 2,500 common surnames in Germany, Austria and Switzerland, including frequent names of migrant families (Turkish, Polish, Russian, South-Slavic, Albanian, Arabic, Vietnamese, Italian, Greek, ...) | `name<TAB>u` |
+| `places.tsv` | about 2,200 place names in their German form: continents, all countries (and historical states and regions often named in history lessons), German federal states, Austrian states, Swiss cantons and their usual sub-regions, about 700 cities and towns of Germany and ~200 of Austria, Switzerland, Luxembourg, Liechtenstein and South Tyrol, ~320 world cities (with German exonyms: `Mailand`, `Breslau`, `Lüttich`), rivers, mountains and ranges, landscapes and regions, islands, seas and lakes | `name<TAB>gender<TAB>kind` |
 
-Format rules (both files): UTF-8, LF line endings, tab separated, one name per line, sorted by
+Format rules (all files): UTF-8, LF line endings, tab separated, one name per line, sorted by
 name (accents folded), no header, no comment lines, each name once. `gender` is `m`, `f` or `u`
-(unisex or unknown); surnames always carry `u`, so both files can be read by the same parser.
+(unisex or unknown); surnames always carry `u`, so all files can be read by the same parser.
+In `places.tsv` the gender is the grammatical gender of the name (`m` der Rhein, `f` die
+Schweiz, `n` das Saarland, `u` plural or unclear: die Alpen, die USA); the pack stores `n` as
+unspecified. `kind` is one of `continent`, `country`, `historic`, `state`, `city`, `river`,
+`mountain`, `region`, `island`, `water` and is documentation only (the parser ignores it).
+Multi-word names are listed by their parts that are not ordinary words (`Janeiro`, `Aires`,
+`Gallen`; not `Bad`, `San`, `New`). Parts that would hide a capitalisation or old-spelling error
+when accepted as names are left out (`Weil` der Stadt, `Kamen`, `Leer`, `Riß`, `Nahe` for a misspelt `Nähe`).
 A name that is also a common noun or adjective (`Müller`, `Koch`, `Klein`, `Weiß`) is listed
 as well: the engine only uses the lists to accept capitalized words.
 
-The engine derives the inflected forms; they are not stored: genitive `-s` (`Tims`, `Lenas`),
-the apostrophe genitive after s-sounds (`Max'`, `Hans'`), and the plural of surnames (`die
-Müllers`).
+The engine derives the inflected forms; they are not stored: genitive `-s` (`Tims`, `Lenas`,
+`Ulms`), the apostrophe genitive after s-sounds (`Max'`, `Hans'`), and the plural of surnames
+(`die Müllers`). The lexicon tools (`heinrich-lexicon classify --names de/names`) also use the
+lists, with place demonyms (`Kieler`, `Münchner`), to keep names off the authoring work lists.
 
-Both lists were written from the author's own knowledge of names in German-speaking schools and
-families. No name list, telephone directory, civil-register statistic, Wikipedia/Wiktionary list or
+Geographic names that rules need with their gender may *additionally* have a `propn` entry in
+the lexicon (`AUTHORING.md` §4.5); the place list only makes them known words.
+
+All lists were written from the author's own knowledge of names in German-speaking schools and
+families and, for `places.tsv`, of geography as taught in German-speaking schools. No name list, telephone directory, civil-register statistic, Wikipedia/Wiktionary list or
 any other third-party data was read, on disk or on the web (see `SOURCES.md`). They are own data,
 released under the licence of this repository.
