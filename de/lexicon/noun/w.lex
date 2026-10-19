@@ -1,4 +1,5 @@
 Waage noun g=f gen=Waage pl=Waagen
+Wabe noun g=f gen=Wabe pl=Waben note=graded
 Wache noun g=f gen=Wache pl=Wachen
 Wachs noun g=n gen=Wachses pl=Wachse
 Wachsmalkreide noun g=f gen=Wachsmalkreide pl=Wachsmalkreiden note=graded
@@ -33,6 +34,7 @@ Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wäldchen noun g=n gen=Wäldchens pl=Wäldchen
 Waldkauz noun g=m gen=Waldkauzes pl=Waldkäuze
 Waldlichtung noun g=f gen=Waldlichtung pl=Waldlichtungen
+Waldrand noun g=m gen=Waldrandes|Waldrands pl=Waldränder note=graded
 Wall noun g=m gen=Walles|Walls pl=Wälle
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
@@ -56,21 +58,29 @@ Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
 Wärmedämmung noun g=f gen=Wärmedämmung pl=Wärmedämmungen
 Wärmepumpe noun g=f gen=Wärmepumpe pl=Wärmepumpen
+Warmmiete noun g=f gen=Warmmiete pl=Warmmieten note=graded
 Warnschild noun g=n gen=Warnschilds|Warnschildes pl=Warnschilder
 Warnung noun g=f gen=Warnung pl=Warnungen
 Warnweste noun g=f gen=Warnweste pl=Warnwesten note=graded
 Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
+Wartenummer noun g=f gen=Wartenummer pl=Wartenummern note=graded
 Wärter noun g=m gen=Wärters pl=Wärter
 Wärterin noun g=f gen=Wärterin pl=Wärterinnen
+Wartezeit noun g=f gen=Wartezeit pl=Wartezeiten note=graded
+Wartezimmer noun g=n gen=Wartezimmers pl=Wartezimmer note=graded
 Wartung noun g=f gen=Wartung pl=Wartungen
+Waschbecken noun g=n gen=Waschbeckens pl=Waschbecken note=graded
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
 Waschlappen noun g=m gen=Waschlappens pl=Waschlappen
 Waschmaschine noun g=f gen=Waschmaschine pl=Waschmaschinen note=graded
+Waschmittel noun g=n gen=Waschmittels pl=Waschmittel note=graded
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
 Wasserbecher noun g=m gen=Wasserbechers pl=Wasserbecher note=graded
 Wasserdampf noun g=m gen=Wasserdampfes|Wasserdampfs pl=Wasserdämpfe note=graded; plural technical
+Wasserfall noun g=m gen=Wasserfalls|Wasserfalles pl=Wasserfälle note=graded
 Wasserfarbe noun g=f gen=Wasserfarbe pl=Wasserfarben note=graded
+Wasserhahn noun g=m gen=Wasserhahns|Wasserhahnes pl=Wasserhähne note=graded
 Wasserknappheit noun g=f gen=Wasserknappheit pl=- note=no plural
 Wasserkocher noun g=m gen=Wasserkochers pl=Wasserkocher
 Wasserkreislauf noun g=m gen=Wasserkreislaufs|Wasserkreislaufes pl=Wasserkreisläufe note=graded
@@ -122,6 +132,7 @@ Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
 Wein noun g=m gen=Weines|Weins pl=Weine
+Weintraube noun g=f gen=Weintraube pl=Weintrauben note=graded
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Weisheit noun g=f gen=Weisheit pl=Weisheiten
 Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
@@ -156,10 +167,12 @@ Werdegang noun g=m gen=Werdegangs|Werdeganges pl=Werdegänge
 Werder noun g=m gen=Werders pl=Werder note=river island
 Werft noun g=f gen=Werft pl=Werften
 Werk noun g=n gen=Werkes|Werks pl=Werke
+Werkbank noun g=f gen=Werkbank pl=Werkbänke note=graded
 Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werktag noun g=m gen=Werktages|Werktags pl=Werktage note=graded
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
+Werkzeugkasten noun g=m gen=Werkzeugkastens pl=Werkzeugkästen note=graded
 Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
@@ -225,6 +238,7 @@ Willkür noun g=f gen=Willkür pl=- note=no plural
 Wimper noun g=f gen=Wimper pl=Wimpern
 Wimperntusche noun g=f gen=Wimperntusche pl=Wimperntuschen
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
+Windel noun g=f gen=Windel pl=Windeln note=graded
 Windmesser noun g=m gen=Windmessers pl=Windmesser note=graded
 Windmühle noun g=f gen=Windmühle pl=Windmühlen note=graded
 Windpocken noun g=pl
@@ -275,6 +289,7 @@ Woche noun g=f gen=Woche pl=Wochen
 Wochenende noun g=n gen=Wochenendes pl=Wochenenden
 Wochenmarkt noun g=m gen=Wochenmarktes|Wochenmarkts pl=Wochenmärkte note=graded
 Wochenplan noun g=m gen=Wochenplans|Wochenplanes pl=Wochenpläne note=graded
+Wochentag noun g=m gen=Wochentages|Wochentags pl=Wochentage note=graded
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
@@ -283,12 +298,16 @@ Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
 Wohnblock noun g=m gen=Wohnblocks pl=Wohnblöcke|Wohnblocks
 Wohnfläche noun g=f gen=Wohnfläche pl=Wohnflächen
 Wohngebiet noun g=n gen=Wohngebiets|Wohngebietes pl=Wohngebiete
+Wohngeld noun g=n gen=Wohngeldes|Wohngelds pl=- note=graded; mass noun
+Wohngemeinschaft noun g=f gen=Wohngemeinschaft pl=Wohngemeinschaften note=graded
 Wohnhaus noun g=n gen=Wohnhauses pl=Wohnhäuser
+Wohnheim noun g=n gen=Wohnheims|Wohnheimes pl=Wohnheime note=graded
 Wohnmobil noun g=n gen=Wohnmobils pl=Wohnmobile note=the analyser would take the adjective mobil as head
 Wohnort noun g=m gen=Wohnorts|Wohnortes pl=Wohnorte
 Wohnraum noun g=m gen=Wohnraums|Wohnraumes pl=Wohnräume
 Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
+Wohnungsanzeige noun g=f gen=Wohnungsanzeige pl=Wohnungsanzeigen note=graded
 Wohnungslosigkeit noun g=f gen=Wohnungslosigkeit pl=- note=abstract noun, no plural
 Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
 Wohnzimmer noun g=n gen=Wohnzimmers pl=Wohnzimmer note=graded
@@ -300,6 +319,7 @@ Wolfram noun g=m gen=Wolframs pl=- note=chemical element; no plural
 Wolfsrudel noun g=n gen=Wolfsrudels pl=Wolfsrudel
 Wölkchen noun g=n gen=Wölkchens pl=Wölkchen
 Wolke noun g=f gen=Wolke pl=Wolken
+Wolldecke noun g=f gen=Wolldecke pl=Wolldecken note=graded
 Wolle noun g=f gen=Wolle pl=Wollen
 Wollust noun g=f gen=Wollust pl=Wollüste
 Won noun g=m gen=Won|Wons pl=Won note=Korean currency; des Won

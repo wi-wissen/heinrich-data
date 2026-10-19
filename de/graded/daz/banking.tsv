@@ -1,0 +1,19 @@
+# German as a second language (DaZ) graded vocabulary, domain `banking` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · banking
+abheben                  verb   cefr=A2 topic=banking role=prod conf=80 src=ai
+einzahlen                verb   cefr=A2 topic=banking role=prod conf=65 src=ai
+Filiale                  noun   cefr=A2 topic=banking role=prod conf=55 src=ai
+Geldautomat              noun   cefr=A2 topic=banking role=prod conf=85 src=ai
+IBAN                     noun   cefr=A2 topic=banking role=prod conf=70 src=ai
+Konto                    noun   cefr=A2 topic=banking role=prod conf=92 src=ai
+Krankenversicherung      noun   cefr=A2 topic=banking|doctor role=prod conf=70 src=ai
+Kredit                   noun   cefr=A2 topic=banking role=prod conf=60 src=ai
+Schalter                 noun   cefr=A2 topic=banking|authorities role=prod conf=65 src=ai
+Schulden                 noun   cefr=A2 topic=banking role=prod conf=55 src=ai
+versichern               verb   cefr=A2 topic=banking role=prod conf=55 src=ai
+Versicherung             noun   cefr=A2 topic=banking role=prod conf=85 src=ai
+Zinsen                   noun   cefr=A2 topic=banking role=rec conf=55 src=ai
+überweisen               verb   cefr=A2 topic=banking role=prod conf=80 src=ai

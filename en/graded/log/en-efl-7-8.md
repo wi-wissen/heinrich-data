@@ -1,6 +1,6 @@
 # Run `en-efl-7-8`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,11 +77,11 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim)
+## Follow-up message (verbatim)
 
     Orchestrator: the lemma index was incomplete — adverbs the lexicon derives via `adv=` on adjectives (actually, probably, carefully …) are own `adv` lexemes and are now listed in the regenerated index (same path). Please re-check your `missing.tsv` against the new index: every entry that now exists, add as a normal line (band 7-8, your own judgement), remove it from `missing.tsv`, re-run the checker to 0 errors, append a short note to `decisions.md`, and report the new counts. Also note: might/could/would/should are forms (past) of the modal lemmas may/can/will/shall in our lexicon, so they are covered by those lemmas — drop them from `missing.tsv`. Additionally please split your output into one file per top-level topic id of each line's first topic (e.g. `health.tsv`, `function.tsv`, `anglophone.tsv`) instead of the three block files. Same clean-room rules as before.
 
-## Follow-up message 2 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path
@@ -95,13 +95,11 @@ The agent received a one-line message pointing to this file, with the instructio
 
 ## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
 
-Message:
-
     Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-en.md (you: band 7-8; output directory .../graded/runs/en-efl-7-8/).
     
     Second message (verbatim): Orchestrator addition to revision round 1: the 5-6 author moved some words out of 5-6 and lists them under "for 7-8" in the "Revision round 1" section of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-5-6/decisions.md (hippo, kangaroo, panda, turtle, unicorn, yo-yo, eagle, budgie, notice, wonder, belong, appear, cover, except, nearby, typical). Read only that section. For each word you judge to be introduced in 7-8, add a line with your own level/topic/role/conf (`src=ai|rev`); words you judge not to be school vocabulary at all, list in decisions.md. Re-run the checker and report briefly.
 
-Feedback file referred to:
+Feedback file:
 
     # Revision round 1 (English EFL), feedback from the internal reviewer — patterns only
     
@@ -147,6 +145,38 @@ Feedback file referred to:
     For every line you add or change, set `src=ai|rev` (keep `freq` if present). Re-run the checker to 0 errors, append a
     "Revision round 1" section to `decisions.md`, report counts (added, level changed, removed/moved). Same clean-room rules
     (no web, no word lists, never the held-out repository). Missing lemmas to `missing.tsv`.
+
+## Reviewer round 2 feedback, final (verbatim; aggregate numbers and patterns only)
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev2-en.md (you: band 7-8; output directory .../graded/runs/en-efl-7-8/).
+    
+    Earlier messages (after the 9-10 checker round): (1) Orchestrator: the 9-10 author and a checker found words that belong to lower bands. They are listed under "for lower bands" (with a proposed band) in the "Checker round" section and in an earlier "Earlier-band gaps" note of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-9-10/decisions.md. Read only those parts. For every word with proposed band 7-8, decide by your own judgement whether it is introduced in 7-8; if yes, add it (`src=ai|rev`, your own level/topic/role/conf). Words you judge to be earlier or later, list in your decisions.md under "handed on" with the band. Re-run the checker script and report counts briefly. Same clean-room rules. (2) Orchestrator: in addition, the 5-6 author handed on some of those words to 7-8 (fear verb, so "so that", sneeze, tip, tune; cost, record, care, need, tool, use; close, neat, bossy, grumpy, dumb, adorable, uncomfortable; sadly, safely, secretly, rudely, gladly; Canada, India, Africa; zombie) — see "handed on" in the "Checker round" section of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-5-6/decisions.md. Decide them the same way (add if 7-8 by your judgement; words you judge to be 9-10 or later, list as handed on).
+
+Feedback file:
+
+    # Revision round 2 (final) — English EFL, patterns from the second statistical measurement
+    
+    This is the **last** revision against this reference; there will be no further measurement against it. Same rules as
+    round 1: only aggregate numbers and patterns; revise from your own knowledge; never guess reference entries.
+    
+    Numbers after round 1 (before → after): coverage A1 84.9 → 88.6 %, A2 59.4 → 66.4 %, B1 28.9 → 34.6 %. Reference-A1
+    words that are A2 with us: 173 → 211 (exact A1 agreement 80.1 → 76.8 %). B1: exact 28 → 36 %, shift −0.82 → −0.71.
+    Overall Spearman 0.61 → 0.63. A1 function words in band 3-4: 74.2 → 81.1 %. Nouns 47.3 → 55.1 %, verbs 51.2 → 54.7 %
+    (verb shift unchanged −0.26). Better: animals −0.95 → −0.70, toys −0.81 → −0.45, clothes, health, food. Worse:
+    celebrations (±1 82.4 → 75.0 %), weather (−0.35 → −0.42), thinking (+0.09 → +0.17).
+    
+    Patterns (reviewer's own words):
+    1. Keep extending A2 for grades 5–6, above all verbs and adverbs.
+    2. Re-check this round's moves from A1 to A2: what is needed in the first two years of English belongs on A1 / 3-4.
+    3. The B1 assignment works, but 64 % of the shared B1 words are still on A2 or A1 with us.
+    4. Animals remain the topic with the largest shift.
+    5. Newly added words in celebrations and weather are rather placed too early.
+    6. Bring the remaining A1 function words from band 5-6 to 3-4.
+    
+    What to do: 3-4 author — patterns 2, 4, 6 (and 5 for your band). 5-6 author — patterns 1, 2 (words you moved from A1
+    to A2: re-judge; words needed in the first two years: list under "for 3-4"), 5, 6 (list A1 function words that
+    belong to 3-4 under "for 3-4" and remove them). 7-8 author — pattern 3 (A2 → B1 where more demanding), 5.
+    `src=ai|rev`, checker to 0 errors, append "Revision round 2" to decisions.md, report counts.
 
 ## Decisions log (written by the author)
 
@@ -291,3 +321,57 @@ Feedback file referred to:
 - **Judged not to be school vocabulary (not added):** *unicorn* and *yo-yo*. Both are niche words that
   are not taught on purpose in English lessons, so pupils meet them by chance.
 - New size: 1,405 lexemes (865 A2 / 540 B1; 311 rec). The checker reports 0 errors and 0 warnings.
+
+### Revision round 1, addition: words handed down by the 9-10 author and checker
+- I read only the "For lower bands" list and the "earlier-band gaps" note in the 9-10 decisions log, as
+  instructed.
+- **Added (109 lines, `src=ai|rev`; my own level, topic, role and confidence):**
+  - Most words with proposed band 7-8, for example: manner adverbs (*bravely, calmly, gently, proudly,
+    terribly, perfectly, normally*, plus *thirdly*), travel (*attraction, brochure, departure,
+    baggage, resort*), transport (*crash, cyclist, fare, motorway, pedestrian*), clothes and fashion
+    (*outfit, trendy, stylish, fashionable*), the step-family words and *relative*, *marriage*,
+    media and technology (*scroll, google, upload* (noun), *offline* (adj), *trailer, live*), science
+    (*telescope, universe, galaxy*), qualities (*gentle, strength, weakness, imagination, humor*), and
+    feelings (*panic, shock, shame*).
+  - School-maths words (*sum, average, total* (noun) at A2; *fraction, decimal, multiply* at B1 rec,
+    conf 50–55): bilingual or cross-curricular use.
+  - From the unbanded "earlier-band gaps" note, I judged these to be 7-8 and added them: *sadly,
+    safely, secretly, rudely* (manner adverbs, like the others), *uncomfortable*, and *bossy, grumpy*
+    (A2 rec).
+- **Handed on (not added):**
+  - to 5-6: *crown* (fairy-tale and royal word), *rhyme* (verb), *spell* (noun, magic), *wifi*
+  - to 3-4 or 5-6: *help, sleep, score, form, play* (nouns), *test, end* (verbs), *online* (adj), *trick,
+    machine*
+  - see the next subsection for the words the 5-6 author handed on to 7-8
+- New size: 1,514 lexemes. The checker reports 0 errors and 0 warnings.
+
+### Revision round 1, addition: words the 5-6 author handed on to 7-8
+- I read only the "handed on" part of the 5-6 author's "Checker round" section, as instructed.
+- **Added (16 lines, `src=ai|rev`), all at A2:**
+  - *fear* (verb), *so* (sconj, "so that"), *sneeze* (noun), *tip* (noun, as in advice), *tune* (noun, rec)
+  - the nouns *cost, record, care, need, tool, use*
+  - the adjectives *close* ("a close friend") and *neat* (rec)
+  - *Canada, India* (the wider English-speaking world) and *Africa*
+  - Already added in the previous step: *bossy, grumpy, uncomfortable, sadly, safely, secretly, rudely*.
+- **Handed on to 9-10:** *gladly, adorable*.
+- **Not school vocabulary:** *dumb* (slang, can offend) and *zombie* (met by chance in media, not taught).
+- New size: 1,530 lexemes. The checker reports 0 errors and 0 warnings.
+
+## Revision round 2 (final; reviewer patterns 3 and 5 for band 7-8)
+- I re-read the whole A2 list topic by topic and judged each word from my own knowledge only. I did not
+  try to guess any reference entries.
+- **Pattern 3 (shared B1 words still on A2): 42 lines moved A2 → B1.** These are words that need more
+  abstract thinking, a more formal register or more precise meaning than everyday A2 use, for example:
+  - verbs: *cause, develop, reduce, divide, produce, replace, avoid, suppose, refuse, recommend,
+    interrupt, afford, rush, slip*
+  - nouns: *complaint, legend, shipwreck, joy, quarrel, colleague, trend, survey, period, equipment,
+    fare, pharmacist*
+  - adjectives: *ancient, pale, rough, bitter, enormous, helpless, adventurous, wicked*
+  - Core productive vocabulary of the 7-8 themes (feelings, friendship, media, jobs, health) stayed on
+    A2.
+- **Pattern 5 (new celebrations and weather words placed too early):** I moved *hurricane, tornado,
+  hail, forecast, climate* and *parade* to B1. *Ceremony, occasion* and *custom* were already B1.
+  *Tradition* and *traditional* stay on A2, and so do *flood, frost* and *lightning*.
+- No lines were added or removed in this round. Every changed line carries `src=ai|rev`.
+- Totals: 1,530 lexemes (911 A2 / 619 B1; 1,188 prod / 342 rec), 44 files. `missing.tsv` has 7 entries.
+  The checker reports 0 errors and 0 warnings.

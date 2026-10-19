@@ -33,6 +33,7 @@ Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
 Lämmchen noun g=n gen=Lämmchens pl=Lämmchen
 Lämpchen noun g=n gen=Lämpchens pl=Lämpchen note=graded
 Lampe noun g=f gen=Lampe pl=Lampen
+Lampion noun g=m gen=Lampions pl=Lampions note=graded
 LAN noun g=n gen=LAN|LANs pl=LANs
 Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
 Ländereien noun g=pl note=landholdings
@@ -101,6 +102,7 @@ Leben noun g=n gen=Lebens pl=Leben
 Lebensbedingung noun g=f gen=Lebensbedingung pl=Lebensbedingungen note=compound not split by the analyser
 Lebensdauer noun g=f gen=Lebensdauer pl=- note=compound not split by the analyser; plural not used
 Lebensjahr noun g=n gen=Lebensjahrs|Lebensjahres pl=Lebensjahre
+Lebenslauf noun g=m gen=Lebenslaufs|Lebenslaufes pl=Lebensläufe note=graded
 Lebensmittel noun g=n gen=Lebensmittels pl=Lebensmittel
 Lebenspartner noun g=m gen=Lebenspartners pl=Lebenspartner
 Lebenspartnerin noun g=f gen=Lebenspartnerin pl=Lebenspartnerinnen
@@ -228,6 +230,7 @@ Liedtext noun g=m gen=Liedtextes|Liedtexts pl=Liedtexte note=graded
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
+Lieferwagen noun g=m gen=Lieferwagens pl=Lieferwagen note=graded
 Liegenschaft noun g=f gen=Liegenschaft pl=Liegenschaften
 Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
@@ -321,6 +324,7 @@ Luftbild noun g=n gen=Luftbildes|Luftbilds pl=Luftbilder note=graded
 Luftbrücke noun g=f gen=Luftbrücke pl=Luftbrücken
 Luftdruck noun g=m gen=Luftdrucks|Luftdruckes pl=- note=graded; physical quantity, mass noun
 Luftpumpe noun g=f gen=Luftpumpe pl=Luftpumpen
+Luftschlange noun g=f gen=Luftschlange pl=Luftschlangen note=graded
 Luftverschmutzung noun g=f gen=Luftverschmutzung pl=- note=no plural
 Luftwiderstand noun g=m gen=Luftwiderstandes|Luftwiderstands pl=Luftwiderstände note=graded
 Lüge noun g=f gen=Lüge pl=Lügen

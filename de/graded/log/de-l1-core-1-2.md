@@ -1,6 +1,6 @@
 # Run `de-l1-core-1-2`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,7 +77,7 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path
@@ -91,11 +91,9 @@ The agent received a one-line message pointing to this file, with the instructio
 
 ## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
 
-Message:
-
     Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-de.md (you: band 1-2, area core; output directory .../graded/runs/de-l1-core-1-2/). Coordinate implicitly: words you judge to be introduced only in 3-4 you remove from your file and list in decisions.md under "moved to 3-4" — the 3-4 author is told the same in the other direction.
 
-Feedback file referred to:
+Feedback file:
 
     # Revision round 1 (German L1), feedback from the internal reviewer — patterns only
     
@@ -138,6 +136,39 @@ Feedback file referred to:
     reference. Re-run the checker to 0 errors, append a "Revision round 1" section to `decisions.md` (what you changed per
     topic and why, in your own reasoning), report counts (added, moved 1-2 → 3-4, moved 3-4 → 1-2). Same clean-room rules
     as before (no web, no word lists, never the held-out repository). Words not in the lexicon go to `missing.tsv` again.
+
+## Reviewer round 2 feedback, final (verbatim; aggregate numbers and patterns only)
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev2-de.md (you: band 1-2, area core; output directory .../graded/runs/de-l1-core-1-2/).
+
+Feedback file:
+
+    # Revision round 2 (final) — German L1, patterns from the second statistical measurement
+    
+    This is the **last** revision against this reference; there will be no further measurement against it. Same rules as
+    round 1: you get only aggregate numbers and patterns; revise from your own knowledge; never guess reference entries.
+    
+    Numbers after round 1 (before → after): coverage 81.7 → 85.6 % (band 1-2 88.6 → 91.9 %, band 3-4 74.6 → 79.0 %);
+    verbs 72.8 → 81.7 %, verbs with prefix/particle 69.6 → 78.3 %, nouns 80.4 → 84.0 %, adjectives 85.5 % (unchanged),
+    -ung/-heit/-keit/-nis nouns 73.3 → 90.0 %; function words 96.6 → 98.3 % (target reached). Band: exact 70.8 → 70.0 %,
+    ours earlier 26.6 → 26.4 %, ours later 2.6 → 3.6 %. Topic actions: exact 79.5 → 71.0 %; actions.handling shift
+    −0.25 → −0.41, actions.speaking −0.13 → −0.26. Slightly better: weather, function adverbs/pronouns, feelings, space.
+    New "ours later" in home (1 → 6) and nature (3 → 7).
+    
+    Patterns (reviewer's own words):
+    1. Gaps are closing. Most is still missing among simple concrete nouns of stage 3-4, verbs with prefix or particle,
+       and adjectives.
+    2. Added verbs are often one band too early. Rule of thumb: place a compound or specialised verb one band after its
+       base verb.
+    3. The general tendency "too early" persists almost unchanged.
+    4. When moving words to 3-4, do not take along the everyday words of the first years in home and nature.
+    5. Function words have reached the target.
+    
+    What to do: 1-2 author — re-check the verbs you added in round 1 (move compound/specialised ones to 3-4, list them
+    under "moved to 3-4"), and check that no early everyday home/nature words were moved out. 3-4 author — add adjectives
+    and simple concrete nouns of stage 3-4 by topic, re-check that your added verbs are not 5-6 material, and re-check
+    home/nature words you hold that are really 1-2 (list them under "for 1-2"). `src=ai|rev`, checker to 0 errors,
+    append "Revision round 2" to decisions.md, report counts.
 
 ## Decisions log (written by the author)
 
@@ -305,3 +336,38 @@ Borderline verbs got conf 65-72: abräumen, schälen, rühren, rodeln, umziehen,
 
 Size is now 961 lexemes, above the original 600-850 target. The additions are basic verbs whose absence
 the reviewer named as the largest gap. I preferred covering them over keeping the target size.
+
+## Revision round 2 (final; reviewer patterns, own re-judgement)
+
+### Re-check of the verbs added in round 1
+I re-judged each of the 104 verbs I added in round 1. I kept a verb in 1-2 only if I am confident that
+children of six to eight use it actively in their own routine, in class or at play. Examples of verbs
+that stay: hinfallen, einschlafen, aufpassen, zuhören, vorlesen, mitspielen, auspacken, ausschneiden,
+anmalen, ausmalen, abschreiben, aufessen, wegwerfen, aufheben, einsteigen, aussteigen, abtrocknen,
+kämmen. The reviewer's rule of thumb, one band after the base verb, I used as a check, not as an
+automatic rule.
+
+### Moved to 3-4 (38 verbs; removed from this file)
+- **Household tasks:** abräumen, abwaschen, fegen, decken, zudecken, ausschlafen, abschließen, aufwecken.
+  These are household chores that children of this age do not yet name themselves.
+- **Kitchen and food:** schälen, rühren, schmieren, austrinken. These are kitchen-procedure verbs.
+- **Handling verbs:** hochheben, loslassen, aufblasen, aufbauen, packen, falten, schütteln, leihen, füllen,
+  mischen. Each one specialises a simple verb that stays in 1-2 (heben/halten/bauen/geben …).
+- **Clothing:** anhaben, umziehen.
+- **Movement:** runterfallen, losgehen. The plain fallen and gehen, and hinfallen, stay.
+- **Seeing and writing:** anschauen, aufschreiben. Schauen, ansehen and schreiben stay.
+- **Speaking and thinking:** grüßen, merken, beginnen. Anfangen covers beginnen at 1-2. Merken in the
+  sense of noticing or remembering is a 3-4 word.
+- **Body and health:** verletzen, kratzen, schwitzen.
+- **Money:** verkaufen. Buying and paying stay.
+- **Play:** kitzeln, rodeln, klatschen.
+
+### Home and nature
+None of my round-1 moves concerned home or nature; only three weather words went then. I checked again
+and kept every home and nature word. I also re-added five everyday words that I had cut in the first
+run only for size and that I judge introduced in 1-2: Kissen, Spiegel (home), Teich, Luft (nature),
+Ast (plants). They have conf 70-75 and `src=ai|rev`.
+
+### Result
+- Moved 1-2 → 3-4: 38. Added: 5. Moved 3-4 → 1-2: none received.
+- Size: 928 lexemes. The checker reports 0 errors.

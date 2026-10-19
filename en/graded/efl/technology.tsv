@@ -10,6 +10,8 @@ headphone                noun   grade=5-6 cefr=A2 topic=technology role=prod con
 internet                 noun   grade=5-6 cefr=A2 topic=technology role=prod conf=65 src=ai|rev
 keyboard                 noun   grade=5-6 cefr=A2 topic=technology|music_arts role=prod conf=60 src=ai|rev
 laptop                   noun   grade=5-6 cefr=A2 topic=technology|school role=prod conf=60 src=ai|rev
+machine                  noun   grade=5-6 cefr=A2 topic=technology|home role=prod conf=55 src=ai|rev
+online                   adj    grade=5-6 cefr=A2 topic=technology|media role=rec conf=55 src=ai|rev
 password                 noun   grade=5-6 cefr=A2 topic=technology role=prod conf=60 src=ai|rev
 print                    verb   grade=5-6 cefr=A2 topic=technology|classroom role=prod conf=60 src=ai|rev
 printer                  noun   grade=5-6 cefr=A2 topic=technology role=rec conf=55 src=ai|rev
@@ -38,6 +40,7 @@ data                     noun   grade=7-8 cefr=B1 topic=technology role=prod con
 delete                   verb   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
 device                   noun   grade=7-8 cefr=B1 topic=technology role=prod conf=70 src=ai|rev
 digital                  adj    grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
+document                 noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai|rev
 download                 noun   grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
 electric                 adj    grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
 electricity              noun   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
@@ -47,6 +50,7 @@ file                     noun   grade=7-8 cefr=A2 topic=technology role=prod con
 gadget                   noun   grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
 gamer                    noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai
 gaming                   noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai
+google                   verb   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai|rev
 hack                     verb   grade=7-8 cefr=B1 topic=technology role=rec conf=65 src=ai
 hacker                   noun   grade=7-8 cefr=B1 topic=technology role=rec conf=65 src=ai
 install                  verb   grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
@@ -57,11 +61,13 @@ link                     noun   grade=7-8 cefr=A2 topic=technology role=prod con
 microphone               noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai
 network                  noun   grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai
 notification             noun   grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
+offline                  adj    grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai|rev
 offline                  adv    grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
 privacy                  noun   grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai
 private                  adj    grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
 program                  noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai
 program                  verb   grade=7-8 cefr=B1 topic=technology role=prod conf=60 src=ai
+scroll                   verb   grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai|rev
 search                   noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai
 secure                   adj    grade=7-8 cefr=B1 topic=technology role=prod conf=60 src=ai
 security                 noun   grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai
@@ -73,8 +79,58 @@ stream                   verb   grade=7-8 cefr=A2 topic=technology role=prod con
 streaming                noun   grade=7-8 cefr=A2 topic=technology role=prod conf=65 src=ai
 technical                adj    grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai
 technology               noun   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
+tool                     noun   grade=7-8 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
 update                   noun   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
 update                   verb   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
+upload                   noun   grade=7-8 cefr=A2 topic=technology role=prod conf=60 src=ai|rev
 upload                   verb   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
 user                     noun   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
 virus                    noun   grade=7-8 cefr=A2 topic=technology role=prod conf=70 src=ai
+
+# grade 9-10 · technology
+automation               noun   grade=9-10 cefr=B2 topic=technology|economy role=rec conf=60 src=ai
+block                    verb   grade=9-10 cefr=B1 topic=technology|friends role=prod conf=70 src=ai
+browse                   verb   grade=9-10 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
+code                     verb   grade=9-10 cefr=B1 topic=technology|jobs role=prod conf=70 src=ai
+cybercrime               noun   grade=9-10 cefr=B2 topic=technology|law role=rec conf=60 src=ai
+database                 noun   grade=9-10 cefr=B1 topic=technology role=prod conf=70 src=ai
+engineering              noun   grade=9-10 cefr=B1 topic=technology|jobs role=prod conf=70 src=ai
+function                 noun   grade=9-10 cefr=B1 topic=technology role=prod conf=75 src=ai
+hardware                 noun   grade=9-10 cefr=B1 topic=technology role=prod conf=70 src=ai
+innovation               noun   grade=9-10 cefr=B1 topic=technology|science role=prod conf=70 src=ai
+intelligence             noun   grade=9-10 cefr=B1 topic=technology|science role=prod conf=75 src=ai
+interactive              adj    grade=9-10 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
+interface                noun   grade=9-10 cefr=B2 topic=technology role=rec conf=60 src=ai
+phishing                 noun   grade=9-10 cefr=B2 topic=technology role=rec conf=65 src=ai|rev
+scam                     noun   grade=9-10 cefr=B1 topic=technology|media role=prod conf=65 src=ai|rev
+server                   noun   grade=9-10 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
+store                    verb   grade=9-10 cefr=B1 topic=technology|actions.handling role=prod conf=75 src=ai
+surveillance             noun   grade=9-10 cefr=B2 topic=technology|law role=rec conf=60 src=ai
+swipe                    verb   grade=9-10 cefr=B1 topic=technology role=prod conf=70 src=ai
+technological            adj    grade=9-10 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
+username                 noun   grade=9-10 cefr=B1 topic=technology role=prod conf=65 src=ai|rev
+wireless                 adj    grade=9-10 cefr=B1 topic=technology role=prod conf=70 src=ai
+
+# grade 11-13 · technology
+aerospace                noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+chatbot                  noun   grade=11-13 cefr=B2 topic=technology role=prod conf=65 src=ai|rev
+computing                noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+cyber                    adj    grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+cybersecurity            noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+defect                   noun   grade=11-13 cefr=B2 topic=technology role=rec conf=65 src=ai|rev
+deploy                   verb   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+digitally                adv    grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+drone                    noun   grade=11-13 cefr=B2 topic=technology role=prod conf=65 src=ai|rev
+encryption               noun   grade=11-13 cefr=B2 topic=technology role=rec conf=65 src=ai|rev
+grid                     noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+machinery                noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+malware                  noun   grade=11-13 cefr=B2 topic=technology role=rec conf=65 src=ai|rev
+monitor                  noun   grade=11-13 cefr=B2 topic=technology role=prod conf=65 src=ai|rev
+navigation               noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+pipeline                 noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+portable                 adj    grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+portal                   noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+protocol                 noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+proxy                    noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+sensor                   noun   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai
+transmit                 verb   grade=11-13 cefr=B2 topic=technology role=prod conf=70 src=ai

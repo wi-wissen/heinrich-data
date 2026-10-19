@@ -1,3 +1,4 @@
+iambic adj attr_only note=graded
 Iberian adj
 Icelandic      adj
 icky adj style=colloquial
@@ -55,6 +56,7 @@ imperative     adj
 imperceptible adj adv=imperceptibly
 imperfect      adj adv=imperfectly
 imperial       adj
+imperialist adj note=graded
 imperious adj cmp=more adv=imperiously
 impermissible adj
 impersonal adj adv=impersonally
@@ -65,11 +67,13 @@ impetuous adj cmp=more
 impious adj
 implacable adj adv=implacably
 implantable adj
+implausible adj cmp=more adv=implausibly note=graded
 implicit adj adv=implicitly
 impolite adj cmp=more adv=impolitely note=graded
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
 impotent adj
+impoverished adj cmp=more note=graded
 impracticable  adj
 impractical adj
 impregnable adj
@@ -82,6 +86,7 @@ imprudent adj cmp=more adv=imprudently
 impudent adj cmp=more
 impulsive adj adv=impulsively
 impure adj cmp=more
+in-vitro adj note=graded; hyphenated compound; also two words: in vitro
 inaccessible adj
 inaccurate     adj adv=inaccurately
 inactive       adj
@@ -107,6 +112,7 @@ incidental     adj adv=incidentally
 incipient adj
 inclement adj
 inclined       adj
+included adj note=graded
 inclusive      adj adv=inclusively
 incoherent adj adv=incoherently
 incoming       adj attr_only
@@ -122,6 +128,7 @@ inconsequential adj
 inconsiderable adj
 inconsiderate adj cmp=more adv=inconsiderately
 inconsistent   adj adv=inconsistently
+incontrovertible adj adv=incontrovertibly note=graded
 inconvenient adj
 incorrect      adj adv=incorrectly
 increasing     adj adv=increasingly
@@ -157,6 +164,8 @@ indisputable adj adv=indisputably
 indistinct adj adv=indistinctly
 indistinguishable adj
 individual     adj adv=individually
+individualist adj note=graded
+individualistic adj cmp=more adv=individualistically note=graded
 indivisible adj
 Indo-European adj
 indolent adj
@@ -166,6 +175,7 @@ indoor         adj attr_only
 inductive adj adv=inductively
 indulgent adj cmp=more
 industrial     adj adv=industrially
+industrialized adj gb=industrialised note=graded
 industrious adj adv=industriously
 ineffable adj adv=ineffably
 ineffective    adj adv=ineffectively
@@ -223,6 +233,7 @@ inline adj
 inmost adj
 innate adj
 inner          adj attr_only
+inner-city adj attr_only note=graded; hyphenated compound
 innermost adj
 innocent       adj adv=innocently
 innovative     adj
@@ -251,6 +262,7 @@ insolent adj adv=insolently
 insoluble adj
 insolvent adj
 inspirational adj
+inspiring adj cmp=more adv=inspiringly note=graded
 instant        adj adv=instantly
 instantaneous  adj adv=instantaneously
 instinctive    adj adv=instinctively
@@ -278,7 +290,9 @@ interagency adj
 interchangeable adj adv=interchangeably
 intercity adj
 intercollegiate adj
+interconnected adj cmp=more note=graded
 intercontinental adj
+intercultural adj note=graded
 interdepartmental adj
 interdependent adj
 interdisciplinary adj
@@ -301,6 +315,7 @@ intersex adj
 interstate     adj
 interstellar adj
 interstitial adj
+intertextual adj adv=intertextually note=graded
 interurban adj
 interwar adj
 intestinal adj
@@ -336,6 +351,7 @@ invincible adj
 invisible      adj adv=invisibly
 invitational adj
 involuntary adj adv=involuntarily
+involved adj cmp=more note=graded
 inward         adj
 Ionic adj note=the order of architecture and the Greek dialect
 ionic adj note=chemistry
@@ -350,6 +366,7 @@ Iroquois adj
 irrational adj adv=irrationally
 irreconcilable adj
 irreducible adj
+irrefutable adj adv=irrefutably note=graded
 irregular      adj adv=irregularly
 irrelevant adj
 irreparable adj adv=irreparably
@@ -363,8 +380,12 @@ irreverent adj cmp=more adv=irreverently
 irreversible adj
 irrevocable adj adv=irrevocably
 irritable adj cmp=more adv=irritably
+irritated adj cmp=more note=graded
+irritating adj cmp=more adv=irritatingly note=graded
 Islamic        adj
 Islamist adj
+isolated adj cmp=more note=graded
+isolationist adj note=graded
 isomorphic adj
 Israeli        adj
 Italian        adj

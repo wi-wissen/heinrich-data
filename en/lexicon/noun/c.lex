@@ -11,6 +11,7 @@ cadence noun
 cadet noun
 cadmium noun pl=- note=uncountable
 cadre noun
+caesura noun pl=caesuras|caesurae note=graded
 cafe noun conf=90 note=also written café
 cafeteria noun
 caffeine noun pl=- note=uncountable
@@ -217,6 +218,7 @@ caterer noun
 catering noun pl=- note=uncountable
 caterpillar noun
 catfish noun pl=catfish|catfishes
+catharsis noun pl=catharses note=graded
 cathedral noun
 catheter noun
 cathode noun
@@ -377,6 +379,7 @@ chevalier noun
 chevron noun
 Cheyenne noun pl=Cheyenne|Cheyennes note=the people; also the city
 chi noun conf=90 note=Greek letter; vital energy (also qi)
+chiasmus noun pl=chiasmi conf=90 note=graded
 chic noun pl=- note=uncountable
 chick noun
 Chickasaw noun pl=Chickasaw|Chickasaws
@@ -470,6 +473,7 @@ citizenship noun
 citrate noun
 citrus noun
 city noun
+civics noun pl=- note=graded; singular agreement
 civilian noun
 civility noun
 civilization noun gb=civilisation|civilization
@@ -518,13 +522,16 @@ clerk noun
 cleverness noun pl=- note=uncountable
 clew noun
 click noun
+clickbait noun pl=- note=graded; uncountable
 client noun
 clientele noun pl=- note=collective
 cliff noun
+cliffhanger noun note=graded
 climate noun
 climax noun
 climb noun
 climber noun
+climbing noun pl=- note=graded; uncountable; the sport
 clime noun
 clinic noun
 clinician noun
@@ -537,6 +544,7 @@ clock noun
 clog noun
 cloister noun
 clone noun
+cloning noun pl=- note=graded; uncountable
 close noun
 closeness noun pl=- note=uncountable
 closeout noun
@@ -637,6 +645,7 @@ collie noun
 collier noun
 colliery noun
 collision noun
+collocation noun note=graded
 collusion noun pl=- note=uncountable
 cologne noun
 Colombian noun
@@ -645,6 +654,7 @@ colonel noun
 colonialism noun pl=- note=uncountable
 colonist noun
 colonization noun gb=colonisation|colonization
+colonizer noun gb=coloniser note=graded
 colonnade noun
 colony noun
 color noun gb=colour
@@ -668,6 +678,7 @@ comer noun
 comet noun
 comfort noun
 comic noun
+coming-of-age noun note=graded; hyphenated compound; also a coming-of-age story
 comma noun
 command noun
 commandant noun
@@ -791,6 +802,7 @@ condensation noun
 condensin noun
 condescension noun pl=- note=uncountable
 condition noun
+conditional noun note=graded; grammar: the first conditional
 conditioner noun
 conditioning noun pl=- note=uncountable
 condolence noun
@@ -824,6 +836,7 @@ conflict noun
 confluence noun
 conformance noun pl=- note=uncountable
 conformation noun
+conformist noun note=graded
 conformity noun pl=- note=uncountable
 confrontation noun
 confusion noun
@@ -870,6 +883,7 @@ consolidation noun
 consonant noun
 consort noun
 consortium noun pl=consortia|consortiums
+conspiracist noun note=graded
 conspiracy noun
 conspirator noun
 constable noun
@@ -893,6 +907,7 @@ consultant noun
 consultation noun
 consultee noun
 consumer noun
+consumerism noun pl=- note=graded; uncountable
 consummation noun
 consumption noun pl=- note=uncountable
 contact noun
@@ -1051,12 +1066,14 @@ councilman noun pl=councilmen
 councilor noun gb=councillor
 councilwoman noun pl=councilwomen
 counsel noun
+counseling noun gb=counselling pl=- note=graded; uncountable
 counselor noun gb=counsellor
 count noun
 countdown noun
 countenance noun
 counter noun
 counteraction noun
+counterargument noun note=graded
 counterattack noun
 counterbalance noun
 counterculture noun
@@ -1077,6 +1094,7 @@ county noun
 coup noun
 coupe noun
 couple noun
+couplet noun note=graded
 coupon noun
 courage noun pl=- note=uncountable
 courgette noun region=GB note=US zucchini
@@ -1291,10 +1309,13 @@ CV noun abbr note=curriculum vitae
 CVD noun abbr conf=90 note=countervailing duty; cardiovascular disease
 cyanide noun
 cyberattack noun
+cyberbullying noun pl=- note=graded; uncountable
 cybercrime noun
 cybersecurity noun pl=- note=uncountable
 cyberspace noun pl=- note=uncountable
+cyborg noun note=graded
 cycle noun
+cycling noun pl=- note=graded; uncountable; the sport
 cyclist noun
 cyclone noun
 cylinder noun

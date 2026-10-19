@@ -133,7 +133,7 @@ belasten verb class=weak pp=belastet perf=haben
 belästigen verb class=weak pp=belästigt perf=haben
 belaufen verb class=strong 3sg=beläuft past=belief pp=belaufen subj2=beliefe perf=haben refl=acc note=sich belaufen auf
 belauschen verb class=weak pp=belauscht perf=haben
-beleben verb class=weak pp=belebt perf=haben
+beleben verb class=weak pp=belebt perf=haben pp_cmp note=graded: Partizip II is a gradable adjective
 belegen       verb class=weak pp=belegt perf=haben
 belehnen verb class=weak pp=belehnt perf=haben
 belehren verb class=weak pp=belehrt perf=haben

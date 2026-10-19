@@ -25,6 +25,7 @@ concert                  noun   grade=5-6 cefr=A2 topic=music_arts role=prod con
 dancer                   noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=60 src=ai
 instrument               noun   grade=5-6 cefr=A1 topic=music_arts role=prod conf=75 src=ai
 musician                 noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=60 src=ai|rev
+play                     noun   grade=5-6 cefr=A2 topic=music_arts|school role=prod conf=60 src=ai|rev
 poem                     noun   grade=5-6 cefr=A2 topic=music_arts|literature role=prod conf=60 src=ai|rev
 singer                   noun   grade=5-6 cefr=A1 topic=music_arts role=prod conf=70 src=ai
 stage                    noun   grade=5-6 cefr=A2 topic=music_arts role=prod conf=55 src=ai|rev
@@ -47,3 +48,34 @@ role                     noun   grade=7-8 cefr=B1 topic=music_arts|classroom rol
 scene                    noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
 script                   noun   grade=7-8 cefr=B1 topic=music_arts role=rec conf=60 src=ai
 talent                   noun   grade=7-8 cefr=A2 topic=music_arts role=prod conf=65 src=ai
+tune                     noun   grade=7-8 cefr=A2 topic=music_arts role=rec conf=60 src=ai|rev
+
+# grade 9-10 · music_arts
+animation                noun   grade=9-10 cefr=B1 topic=music_arts|technology role=prod conf=70 src=ai
+artistic                 adj    grade=9-10 cefr=B1 topic=music_arts|qualities.character role=prod conf=70 src=ai
+artwork                  noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+cast                     noun   grade=9-10 cefr=B1 topic=music_arts|literature role=prod conf=75 src=ai
+compose                  verb   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+composer                 noun   grade=9-10 cefr=B1 topic=music_arts|jobs role=prod conf=70 src=ai
+creativity               noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+direct                   verb   grade=9-10 cefr=B1 topic=music_arts|jobs role=prod conf=70 src=ai
+film                     verb   grade=9-10 cefr=B1 topic=music_arts|media role=prod conf=70 src=ai
+idol                     noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=65 src=ai|rev
+inspiration              noun   grade=9-10 cefr=B1 topic=music_arts|feelings role=prod conf=70 src=ai
+masterpiece              noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+melody                   noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+musical                  adj    grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+opera                    noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+orchestra                noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+pattern                  noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+performer                noun   grade=9-10 cefr=B1 topic=music_arts|jobs role=prod conf=70 src=ai
+photography              noun   grade=9-10 cefr=B1 topic=music_arts|free_time role=prod conf=70 src=ai
+portrait                 noun   grade=9-10 cefr=B1 topic=music_arts|literature role=prod conf=70 src=ai
+screenplay               noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+sculpt                   verb   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+sculptor                 noun   grade=9-10 cefr=B1 topic=music_arts|jobs role=prod conf=70 src=ai
+sculpture                noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+soundtrack               noun   grade=9-10 cefr=B1 topic=music_arts role=prod conf=70 src=ai
+
+# grade 11-13 · music_arts
+aesthetic                noun   grade=11-13 cefr=B2 topic=music_arts role=rec conf=65 src=ai|rev

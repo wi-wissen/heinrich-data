@@ -1,0 +1,55 @@
+# German as a second language (DaZ) graded vocabulary, domain `clothing` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · clothing
+anziehen                 verb   cefr=A1 topic=clothing role=prod conf=80 src=ai
+Anzug                    noun   cefr=A2 topic=clothing role=prod conf=70 src=ai
+ausziehen                verb   cefr=A1 topic=clothing role=prod conf=70 src=ai
+Badeanzug                noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Badehose                 noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Baumwolle                noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Bluse                    noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
+Brille                   noun   cefr=A1 topic=clothing role=prod conf=80 src=ai
+gefallen                 verb   cefr=A1 topic=clothing|qualities.judgement role=prod conf=90 src=ai
+Größe                    noun   cefr=A1 topic=clothing|shopping role=prod conf=80 src=ai
+Gürtel                   noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
+Handschuh                noun   cefr=A2 topic=clothing role=prod conf=75 src=ai
+Hemd                     noun   cefr=A1 topic=clothing role=prod conf=90 src=ai
+Hose                     noun   cefr=A1 topic=clothing role=prod conf=95 src=ai
+Hut:hat                  noun   cefr=A2 topic=clothing role=prod conf=70 src=ai
+Jacke                    noun   cefr=A1 topic=clothing role=prod conf=92 src=ai
+Jeans                    noun   cefr=A1 topic=clothing role=prod conf=80 src=ai|rev
+Kappe                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+kariert                  adj    cefr=A2 topic=clothing role=prod conf=55 src=ai
+Kette                    noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Kleid                    noun   cefr=A1 topic=clothing role=prod conf=88 src=ai
+Kleidung                 noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
+Krawatte                 noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Leder                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Mantel                   noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
+Mode                     noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Muster                   noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Mütze                    noun   cefr=A1 topic=clothing role=prod conf=75 src=ai
+passen                   verb   cefr=A1 topic=clothing|shopping role=prod conf=80 src=ai
+Pullover                 noun   cefr=A1 topic=clothing role=prod conf=90 src=ai
+Ring                     noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
+Rock:skirt               noun   cefr=A1 topic=clothing role=prod conf=85 src=ai
+Sandale                  noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Schal                    noun   cefr=A1 topic=clothing role=prod conf=75 src=ai
+Schlafanzug              noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Schmuck                  noun   cefr=A2 topic=clothing role=prod conf=60 src=ai
+Schuh                    noun   cefr=A1 topic=clothing role=prod conf=95 src=ai
+Shorts                   noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Socke                    noun   cefr=A1 topic=clothing role=prod conf=80 src=ai
+Stiefel                  noun   cefr=A2 topic=clothing role=prod conf=75 src=ai
+Stoff                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Strumpf                  noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Strumpfhose              noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+T-Shirt                  noun   cefr=A1 topic=clothing role=prod conf=92 src=ai
+Tasche                   noun   cefr=A1 topic=clothing|shopping role=prod conf=85 src=ai
+tragen                   verb   cefr=A1 topic=clothing role=prod conf=75 src=ai
+Turnschuh                noun   cefr=A2 topic=clothing role=prod conf=65 src=ai
+Unterhose                noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Weste                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai
+Wolle                    noun   cefr=A2 topic=clothing role=prod conf=55 src=ai

@@ -33,7 +33,9 @@ manly         adj cmp=er
 manmade adj note=also written man-made
 manual        adj adv=manually
 Manx adj
+Maori adj note=graded
 marginal      adj adv=marginally
+marginalized adj gb=marginalised cmp=more note=graded
 marine        adj
 marital adj
 maritime      adj
@@ -52,6 +54,7 @@ masterly adj
 matching      adj
 matchless adj
 material      adj adv=materially
+materialistic adj cmp=more adv=materialistically note=graded
 maternal      adj
 mathematical  adj adv=mathematically
 matrimonial adj
@@ -92,6 +95,7 @@ mercenary adj
 merciful adj cmp=more adv=mercifully
 merciless adj cmp=more adv=mercilessly
 mere          adj attr_only adv=merely
+meritocratic adj adv=meritocratically note=graded
 meritorious adj
 merry         adj cmp=er adv=merrily
 messianic adj
@@ -117,6 +121,7 @@ micropolitan  adj note=US census term
 microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
 middle        adj attr_only
+middle-class adj cmp=more note=graded; hyphenated compound
 middling adj
 midland adj attr_only
 Midwestern adj
@@ -143,17 +148,21 @@ mischievous adj cmp=more adv=mischievously
 miserable     adj cmp=more adv=miserably
 misguided adj adv=misguidedly
 misleading    adj adv=misleadingly
+misogynist adj note=graded
 missing       adj
 missionary    adj
 misty adj cmp=er
 mitochondrial adj
+mixed adj cmp=more note=graded
 mobile        adj
 mock          adj attr_only
 mod adj style=colloquial note=1960s fashion
 modal adj
 moderate      adj adv=moderately
 modern        adj cmp=more
+modernist adj note=graded
 modest        adj cmp=more adv=modestly
+modified adj note=graded
 modular       adj
 moist         adj cmp=er
 molar adj
@@ -190,6 +199,7 @@ mortuary adj
 mossy adj cmp=er
 motherly adj cmp=more
 motionless    adj
+motivated adj cmp=more note=graded
 motivational adj
 motley adj
 mottled adj

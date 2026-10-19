@@ -103,8 +103,10 @@ elf noun pl=elves
 eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
+Elizabethan noun note=graded; a person of the Elizabethan age
 elk noun pl=elk|elks
 ellipse noun
+ellipsis noun pl=ellipses note=graded
 ellipsoid noun
 elm noun
 elocutionist noun
@@ -187,10 +189,12 @@ engineer noun
 engineering noun pl=- note=uncountable
 English noun note=the language; plural Englishes for varieties of English
 Englishman noun pl=Englishmen
+Englishness noun pl=- note=graded; uncountable
 engraver noun
 engraving noun
 enhancement noun
 enigma noun
+enjambment noun note=graded
 enjoyment noun
 enlargement noun
 enlightenment noun
@@ -238,6 +242,8 @@ epidemiology noun pl=- note=uncountable
 epidermis noun pl=- note=usually uncountable
 epigram noun
 epilepsy noun pl=- note=uncountable
+epiphany noun note=graded
+epiphora noun pl=epiphoras conf=85 note=graded; the rhetorical term, plural unsure
 episode noun
 epistle noun
 epitaph noun
@@ -301,6 +307,7 @@ ETF noun abbr note=exchange-traded fund
 ethanol noun pl=- note=uncountable
 ether noun
 ethic noun
+ethics noun pl=- note=graded; singular or plural agreement
 Ethiopian noun
 ethnicity noun
 ethnology noun pl=- note=uncountable
@@ -313,9 +320,12 @@ eugenics noun pl=- note=uncountable, singular agreement
 eukaryote noun
 eulogy noun
 eunuch noun pl=eunuchs
+euphemism noun note=graded
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
+Euroskeptic noun gb=Eurosceptic note=graded
+Euroskepticism noun gb=Euroscepticism pl=- note=graded; uncountable
 eurozone noun pl=- note=also capitalized Eurozone
 euthanasia noun pl=- note=uncountable
 EV noun abbr note=electric vehicle
@@ -348,6 +358,7 @@ exceedance noun conf=90 note=technical: an instance of exceeding a limit
 excellence noun
 excellency noun
 exception noun
+exceptionalism noun pl=- note=graded; uncountable
 excerpt noun
 excess noun
 exchange noun
@@ -384,6 +395,7 @@ exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
 expansionist noun
+expat noun note=graded
 expatriate noun
 expectancy noun
 expectation noun

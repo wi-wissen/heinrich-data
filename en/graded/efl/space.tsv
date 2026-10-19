@@ -4,26 +4,23 @@
 
 # grade 3-4 · space
 left                     adj    grade=3-4 cefr=A1 topic=space role=prod conf=70 src=ai|rev
+near                     adj    grade=3-4 cefr=A1 topic=space role=prod conf=60 src=ai
 place                    noun   grade=3-4 cefr=A1 topic=space role=prod conf=60 src=ai|rev
 
 # grade 5-6 · space
 bottom                   noun   grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
 corner                   noun   grade=5-6 cefr=A1 topic=space|town role=prod conf=75 src=ai
 direction                noun   grade=5-6 cefr=A2 topic=space|town role=prod conf=65 src=ai
-downstairs               adv    grade=5-6 cefr=A1 topic=space|home role=prod conf=75 src=ai
 east                     noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
 far                      adj    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 forward                  adv    grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai|freq
 front                    noun   grade=5-6 cefr=A1 topic=space role=prod conf=70 src=ai
-inside                   adv    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 left                     adv    grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
 left                     noun   grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 map                      noun   grade=5-6 cefr=A1 topic=space|travel role=prod conf=65 src=ai
 middle                   noun   grade=5-6 cefr=A1 topic=space role=prod conf=70 src=ai
-near                     adj    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 north                    noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
 northern                 adj    grade=5-6 cefr=A2 topic=space role=prod conf=55 src=ai|rev
-outside                  adv    grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 right                    adv    grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
 right                    noun   grade=5-6 cefr=A1 topic=space role=prod conf=60 src=ai
 row                      noun   grade=5-6 cefr=A2 topic=space|classroom role=prod conf=60 src=ai|rev
@@ -33,7 +30,6 @@ southern                 adj    grade=5-6 cefr=A2 topic=space role=prod conf=55 
 space                    noun   grade=5-6 cefr=A2 topic=space|science role=rec conf=60 src=ai|freq
 straight                 adv    grade=5-6 cefr=A1 topic=space|town role=prod conf=80 src=ai
 top                      noun   grade=5-6 cefr=A1 topic=space role=prod conf=65 src=ai
-upstairs                 adv    grade=5-6 cefr=A1 topic=space|home role=prod conf=75 src=ai
 way                      noun   grade=5-6 cefr=A1 topic=space|town role=prod conf=75 src=ai
 west                     noun   grade=5-6 cefr=A2 topic=space role=prod conf=65 src=ai
 
@@ -46,12 +42,41 @@ edge                     noun   grade=7-8 cefr=A2 topic=space role=prod conf=70 
 local                    adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
 location                 noun   grade=7-8 cefr=B1 topic=space role=prod conf=70 src=ai|rev
 nearby                   adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+nearby                   adv    grade=7-8 cefr=A2 topic=space role=prod conf=65 src=ai|rev
 overseas                 adv    grade=7-8 cefr=B1 topic=space role=rec conf=60 src=ai
 position                 noun   grade=7-8 cefr=B1 topic=space role=prod conf=70 src=ai|rev
 region                   noun   grade=7-8 cefr=B1 topic=space role=prod conf=70 src=ai|rev
 remote                   adj    grade=7-8 cefr=B1 topic=space role=rec conf=65 src=ai
+steep                    adj    grade=7-8 cefr=A2 topic=space role=prod conf=60 src=ai|rev
 surface                  noun   grade=7-8 cefr=B1 topic=space role=prod conf=70 src=ai|rev
 toward                   adp    grade=7-8 cefr=B1 topic=space|anglophone.us role=rec conf=50 src=ai|freq
 underground              adj    grade=7-8 cefr=A2 topic=space role=prod conf=65 src=ai
 upper                    adj    grade=7-8 cefr=B1 topic=space role=rec conf=50 src=ai|freq
 western                  adj    grade=7-8 cefr=A2 topic=space role=prod conf=70 src=ai
+
+# grade 9-10 · space
+boundary                 noun   grade=9-10 cefr=B1 topic=space role=prod conf=70 src=ai
+horizon                  noun   grade=9-10 cefr=B1 topic=space role=prod conf=65 src=ai|rev
+mainland                 noun   grade=9-10 cefr=B1 topic=space role=prod conf=65 src=ai|rev
+surroundings             noun   grade=9-10 cefr=B1 topic=space|nature role=prod conf=70 src=ai
+zone                     noun   grade=9-10 cefr=B1 topic=space role=prod conf=75 src=ai
+
+# grade 11-13 · space
+continental              adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+downward                 adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+downward                 adv    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+eastward                 adv    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+geographic               adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+geographical             adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+inland                   adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+inland                   adv    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+interstate               adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+inward                   adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+lateral                  adj    grade=11-13 cefr=B2 topic=space role=prod conf=55 src=ai
+nationwide               adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+nationwide               adv    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+northward                adv    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+outward                  adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+provincial               adj    grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai
+upward                   adv    grade=11-13 cefr=B2 topic=space role=prod conf=60 src=ai
+vicinity                 noun   grade=11-13 cefr=B2 topic=space role=prod conf=70 src=ai

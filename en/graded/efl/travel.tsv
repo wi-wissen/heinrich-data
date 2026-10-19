@@ -29,18 +29,29 @@ vacation                 noun   grade=5-6 cefr=A2 topic=travel|anglophone.us rol
 # grade 7-8 · travel
 accommodation            noun   grade=7-8 cefr=B1 topic=travel role=prod conf=65 src=ai
 arrival                  noun   grade=7-8 cefr=B1 topic=travel role=rec conf=50 src=ai|freq
+attraction               noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai|rev
 backpacker               noun   grade=7-8 cefr=A2 topic=travel role=prod conf=60 src=ai
+baggage                  noun   grade=7-8 cefr=A2 topic=travel role=rec conf=60 src=ai|rev
 booking                  noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai
+brochure                 noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai|rev
 crew                     noun   grade=7-8 cefr=B1 topic=travel|fantasy role=rec conf=50 src=ai|freq
 customs                  noun   grade=7-8 cefr=B1 topic=travel role=rec conf=60 src=ai
 delay                    noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai
 delay                    verb   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai
+departure                noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai|rev
 destination              noun   grade=7-8 cefr=B1 topic=travel role=prod conf=65 src=ai
 exchange                 noun   grade=7-8 cefr=A2 topic=travel role=prod conf=70 src=ai
 foreign                  adj    grade=7-8 cefr=A2 topic=travel|countries role=prod conf=65 src=ai
 foreigner                noun   grade=7-8 cefr=A2 topic=travel role=prod conf=65 src=ai
 port                     noun   grade=7-8 cefr=B1 topic=travel|transport role=rec conf=50 src=ai|freq
 reservation              noun   grade=7-8 cefr=B1 topic=travel|anglophone.us role=prod conf=65 src=ai
+resort                   noun   grade=7-8 cefr=B1 topic=travel role=rec conf=60 src=ai|rev
 tour                     verb   grade=7-8 cefr=B1 topic=travel role=rec conf=50 src=ai|freq
 tourism                  noun   grade=7-8 cefr=B1 topic=travel role=prod conf=65 src=ai
 visa                     noun   grade=7-8 cefr=B1 topic=travel role=rec conf=60 src=ai
+
+# grade 9-10 · travel
+domestic                 adj    grade=9-10 cefr=B1 topic=travel|countries role=prod conf=75 src=ai
+excursion                noun   grade=9-10 cefr=B1 topic=travel|school role=prod conf=70 src=ai
+itinerary                noun   grade=9-10 cefr=B1 topic=travel role=prod conf=70 src=ai
+reserve                  verb   grade=9-10 cefr=B1 topic=travel role=prod conf=70 src=ai

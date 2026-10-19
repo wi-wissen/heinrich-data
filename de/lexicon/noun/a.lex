@@ -273,6 +273,7 @@ Altar noun g=m gen=Altars pl=Altäre
 Altbau noun g=m gen=Altbaus pl=Altbauten
 Altenheim noun g=n gen=Altenheims|Altenheimes pl=Altenheime
 Altenpflege noun g=f gen=Altenpflege pl=- note=no plural
+Altenpfleger noun g=m gen=Altenpflegers pl=Altenpfleger note=graded
 Alter         noun g=n gen=Alters pl=Alter
 Alternative noun g=f gen=Alternative pl=Alternativen
 Altersarmut noun g=f gen=Altersarmut pl=- note=mass noun
@@ -292,6 +293,7 @@ Amateur noun g=m gen=Amateurs pl=Amateure
 Amateurin noun g=f gen=Amateurin pl=Amateurinnen
 Ambition noun g=f gen=Ambition pl=Ambitionen
 Ameise noun g=f gen=Ameise pl=Ameisen
+Ameisenhaufen noun g=m gen=Ameisenhaufens pl=Ameisenhaufen note=graded
 Amen noun g=n gen=Amens pl=Amen
 Amerikaner noun g=m gen=Amerikaners pl=Amerikaner
 Amerikanerin noun g=f gen=Amerikanerin pl=Amerikanerinnen
@@ -414,6 +416,7 @@ Anpfiff noun g=m gen=Anpfiffs|Anpfiffes pl=Anpfiffe
 Anrechnung noun g=f gen=Anrechnung pl=Anrechnungen
 Anrede noun g=f gen=Anrede pl=Anreden
 Anregung noun g=f gen=Anregung pl=Anregungen
+Anreise noun g=f gen=Anreise pl=Anreisen note=graded
 Anreiz noun g=m gen=Anreizes pl=Anreize
 Anruf noun g=m gen=Anrufs|Anrufes pl=Anrufe
 Anrufbeantworter noun g=m gen=Anrufbeantworters pl=Anrufbeantworter
@@ -424,6 +427,7 @@ Anschauung noun g=f gen=Anschauung pl=Anschauungen
 Anschein noun g=m gen=Anscheins pl=- note=mass noun; den Anschein haben
 Anschlag noun g=m gen=Anschlags|Anschlages pl=Anschläge
 Anschluss     noun g=m gen=Anschlusses pl=Anschlüsse
+Anschreiben noun g=n gen=Anschreibens pl=Anschreiben note=graded; cover letter
 Anschrift     noun g=f gen=Anschrift pl=Anschriften
 Ansehen noun g=n gen=Ansehens pl=- note=lexicalised: reputation (hohes Ansehen)
 Ansehung noun g=f gen=Ansehung pl=- note=only in legal/elevated phrases (in Ansehung)
@@ -512,6 +516,7 @@ Aquarium noun g=n gen=Aquariums pl=Aquarien
 Ära noun g=f gen=Ära pl=Ären
 Araber noun g=m gen=Arabers pl=Araber
 Araberin noun g=f gen=Araberin pl=Araberinnen
+Arabisch noun g=n gen=Arabisch|Arabischs pl=- conf=80 note=graded; the Arabic language; genitive normally avoided (des Arabischen)
 Arbeit        noun g=f gen=Arbeit pl=Arbeiten
 Arbeiter      noun g=m gen=Arbeiters pl=Arbeiter
 Arbeiterin noun g=f gen=Arbeiterin pl=Arbeiterinnen
@@ -519,11 +524,15 @@ Arbeitgeber   noun g=m gen=Arbeitgebers pl=Arbeitgeber
 Arbeitgeberin noun g=f gen=Arbeitgeberin pl=Arbeitgeberinnen
 Arbeitnehmer  noun g=m gen=Arbeitnehmers pl=Arbeitnehmer
 Arbeitnehmerin noun g=f gen=Arbeitnehmerin pl=Arbeitnehmerinnen
+Arbeitsagentur noun g=f gen=Arbeitsagentur pl=Arbeitsagenturen note=graded
 Arbeitsblatt noun g=n gen=Arbeitsblatts|Arbeitsblattes pl=Arbeitsblätter
 Arbeitslose noun g=m|f decl=adj
 Arbeitslosigkeit noun g=f gen=Arbeitslosigkeit pl=- note=mass noun
 Arbeitsplatz noun g=m gen=Arbeitsplatzes pl=Arbeitsplätze note=graded
+Arbeitsstelle noun g=f gen=Arbeitsstelle pl=Arbeitsstellen note=graded
+Arbeitstag noun g=m gen=Arbeitstages|Arbeitstags pl=Arbeitstage note=graded
 Arbeitsuchende noun g=m|f decl=adj note=also Arbeitssuchende
+Arbeitsvertrag noun g=m gen=Arbeitsvertrages|Arbeitsvertrags pl=Arbeitsverträge note=graded
 Arbeitszeit noun g=f gen=Arbeitszeit pl=Arbeitszeiten note=graded
 Archäologe noun g=m gen=Archäologen pl=Archäologen
 Archäologie noun g=f gen=Archäologie pl=- note=no plural
@@ -576,6 +585,7 @@ Artistin noun g=f gen=Artistin pl=Artistinnen
 Arznei noun g=f gen=Arznei pl=Arzneien
 Arzneimittel noun g=n gen=Arzneimittels pl=Arzneimittel
 Arzt          noun g=m gen=Arztes pl=Ärzte
+Arzthelferin noun g=f gen=Arzthelferin pl=Arzthelferinnen note=graded
 Ärztin noun g=f gen=Ärztin pl=Ärztinnen
 Asche noun g=f gen=Asche pl=- note=mass noun; Aschen only technical
 Aschenbrödel noun g=n gen=Aschenbrödels pl=Aschenbrödel
@@ -644,6 +654,8 @@ Aufbereitung noun g=f gen=Aufbereitung pl=Aufbereitungen
 Aufbewahrung noun g=f gen=Aufbewahrung pl=- note=mass noun
 Aufbruch noun g=m gen=Aufbruchs|Aufbruches pl=Aufbrüche
 Aufenthalt    noun g=m gen=Aufenthalts|Aufenthaltes pl=Aufenthalte
+Aufenthaltserlaubnis noun g=f gen=Aufenthaltserlaubnis pl=Aufenthaltserlaubnisse note=graded
+Aufenthaltstitel noun g=m gen=Aufenthaltstitels pl=Aufenthaltstitel note=graded
 Auferstehung noun g=f gen=Auferstehung pl=Auferstehungen
 Auffassung    noun g=f gen=Auffassung pl=Auffassungen
 Aufforderung noun g=f gen=Aufforderung pl=Aufforderungen
@@ -659,6 +671,7 @@ Aufklärung    noun g=f gen=Aufklärung pl=Aufklärungen[rare]
 Aufkleber noun g=m gen=Aufklebers pl=Aufkleber
 Aufkommen noun g=n gen=Aufkommens pl=- note=lexicalised (Steueraufkommen); no plural
 Auflage       noun g=f gen=Auflage pl=Auflagen
+Auflauf noun g=m gen=Auflaufs|Auflaufes pl=Aufläufe note=graded; baked dish
 Auflistung noun g=f gen=Auflistung pl=Auflistungen
 Auflösung     noun g=f gen=Auflösung pl=Auflösungen
 Aufmerksamkeit noun g=f gen=Aufmerksamkeit pl=Aufmerksamkeiten
@@ -702,6 +715,7 @@ Aufzählung noun g=f gen=Aufzählung pl=Aufzählungen
 Aufzeichnung noun g=f gen=Aufzeichnung pl=Aufzeichnungen
 Aufzug noun g=m gen=Aufzugs|Aufzuges pl=Aufzüge
 Auge          noun g=n gen=Auges pl=Augen
+Augenarzt noun g=m gen=Augenarztes|Augenarzts pl=Augenärzte note=graded
 Augenblick    noun g=m gen=Augenblicks|Augenblickes pl=Augenblicke
 Augenbraue noun g=f gen=Augenbraue pl=Augenbrauen note=graded
 Augenmerk noun g=n gen=Augenmerks|Augenmerkes pl=- note=no plural
@@ -744,6 +758,7 @@ Auslage noun g=f gen=Auslage pl=Auslagen
 Auslagerung noun g=f gen=Auslagerung pl=Auslagerungen
 Ausland       noun g=n gen=Auslands|Auslandes pl=- note=no plural
 Ausländer noun g=m gen=Ausländers pl=Ausländer
+Ausländerbehörde noun g=f gen=Ausländerbehörde pl=Ausländerbehörden note=graded
 Ausländerin noun g=f gen=Ausländerin pl=Ausländerinnen
 Auslastung noun g=f gen=Auslastung pl=Auslastungen
 Ausläufer noun g=m gen=Ausläufers pl=Ausläufer

@@ -152,6 +152,7 @@ segeln verb class=weak pp=gesegelt perf=haben|sein
 segnen verb class=weak pp=gesegnet perf=haben
 sehen verb class=strong 3sg=sieht past=sah,sahst|sahest[archaic],sah,sahen,saht,sahen pp=gesehen subj2=sähe perf=haben refl=acc imp=sieh|siehe,seht note=siehe (siehe oben) is the long imperative
 sehnen verb class=weak pp=gesehnt perf=haben refl=acc
+seilspringen verb class=strong sep=seil 3sg=seilspringt past=seilsprang pp=seilgesprungen subj2=seilspränge perf=sein|haben conf=70 note=graded; separable-noun-particle verb, perfect forms uncertain (seilgesprungen vs. ist Seil gesprungen)
 senden verb class=weak past=sendete|sandte pp=gesendet|gesandt perf=haben note=send; also the broadcast sense
 sengen verb class=weak pp=gesengt perf=haben part1_cmp
 senken verb class=weak pp=gesenkt perf=haben refl=acc
@@ -191,7 +192,7 @@ sorgen verb class=weak pp=gesorgt perf=haben refl=acc
 sortieren verb class=weak pp=sortiert perf=haben
 spähen verb class=weak pp=gespäht perf=haben
 spalten verb class=strong 3sg=spaltet past=spaltete pp=gespalten subj2=spaltete perf=haben note=weak preterite spaltete, strong Partizip II; gespaltet (rare) not expressible
-spannen verb class=weak pp=gespannt perf=haben refl=acc part1_cmp
+spannen verb class=weak pp=gespannt perf=haben refl=acc part1_cmp pp_cmp note=graded: Partizip II is a gradable adjective
 sparen verb class=weak pp=gespart perf=haben
 spaßen verb class=weak pp=gespaßt perf=haben
 spazieren verb class=weak pp=spaziert perf=sein
@@ -235,6 +236,7 @@ starten verb class=weak pp=gestartet perf=haben|sein
 stationieren verb class=weak pp=stationiert perf=haben
 stattfinden verb class=strong sep=statt 3sg=stattfindet past=stattfand pp=stattgefunden subj2=stattfände perf=haben
 stattgeben verb class=strong sep=statt 3sg=stattgibt past=stattgab pp=stattgegeben subj2=stattgäbe perf=haben note=einem Antrag stattgeben
+staubsaugen verb class=weak pp=gestaubsaugt perf=haben conf=70 note=graded; usually treated as inseparable (ich staubsauge, habe gestaubsaugt); separable use (sauge Staub) not modelled
 staubwischen verb class=weak pp=gestaubwischt perf=haben
 staunen verb class=weak pp=gestaunt perf=haben
 stechen verb class=strong 3sg=sticht past=stach pp=gestochen subj2=stäche perf=haben

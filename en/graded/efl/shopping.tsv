@@ -38,9 +38,31 @@ store                    noun   grade=5-6 cefr=A2 topic=shopping|anglophone.us r
 # grade 7-8 · shopping
 brand                    noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai
 chain                    noun   grade=7-8 cefr=B1 topic=shopping|environment role=rec conf=50 src=ai|freq
+cost                     noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=60 src=ai|rev
 credit                   noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=60 src=ai
 deal                     noun   grade=7-8 cefr=B1 topic=shopping role=rec conf=55 src=ai|freq
+delivery                 noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai|rev
 discount                 noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai
+label                    noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=60 src=ai|rev
 opening                  noun   grade=7-8 cefr=B1 topic=shopping|town role=rec conf=50 src=ai|freq
 product                  noun   grade=7-8 cefr=B1 topic=shopping|environment role=rec conf=55 src=ai|freq
 receipt                  noun   grade=7-8 cefr=A2 topic=shopping role=prod conf=65 src=ai
+
+# grade 9-10 · shopping
+checkout                 noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+coupon                   noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+debit                    noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+expense                  noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+guarantee                noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+insurance                noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=65 src=ai|rev
+luxury                   noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=65 src=ai|rev
+millionaire              noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=65 src=ai|rev
+payment                  noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=65 src=ai|rev
+property                 noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=75 src=ai
+purchase                 noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=75 src=ai
+purchase                 verb   grade=9-10 cefr=B1 topic=shopping role=prod conf=75 src=ai
+refund                   noun   grade=9-10 cefr=B1 topic=shopping|law role=prod conf=70 src=ai
+refund                   verb   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+voucher                  noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai
+warranty                 noun   grade=9-10 cefr=B1 topic=shopping|law role=prod conf=70 src=ai
+worth                    noun   grade=9-10 cefr=B1 topic=shopping role=prod conf=70 src=ai

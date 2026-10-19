@@ -1,0 +1,16 @@
+# German as a second language (DaZ) graded vocabulary, domain `animals` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · animals
+Hase                     noun   cefr=A2 topic=animals role=prod conf=55 src=ai
+Hund                     noun   cefr=A1 topic=animals role=prod conf=85 src=ai|rev
+Kaninchen                noun   cefr=A2 topic=animals role=prod conf=55 src=ai
+Katze                    noun   cefr=A1 topic=animals role=prod conf=85 src=ai|rev
+Kuh                      noun   cefr=A2 topic=animals role=prod conf=60 src=ai
+Maus                     noun   cefr=A2 topic=animals role=prod conf=55 src=ai
+Pferd                    noun   cefr=A2 topic=animals role=prod conf=65 src=ai
+Schaf                    noun   cefr=A2 topic=animals role=prod conf=55 src=ai
+Schwein                  noun   cefr=A2 topic=animals role=prod conf=60 src=ai
+Tier                     noun   cefr=A1 topic=animals role=prod conf=80 src=ai|rev
+Vogel                    noun   cefr=A1 topic=animals role=prod conf=65 src=ai|rev

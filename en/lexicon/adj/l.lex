@@ -20,6 +20,7 @@ Latvian adj
 laudable adj adv=laudably
 laughable adj adv=laughably
 lavish adj cmp=more adv=lavishly
+law-abiding adj cmp=more note=graded; hyphenated compound
 lawful        adj adv=lawfully
 lawless adj
 lax adj cmp=er adv=laxly
@@ -36,6 +37,7 @@ Lebanese      adj
 lee adj attr_only
 leeward adj
 left          adj attr_only
+left-wing adj note=graded; hyphenated compound; compared as more left-wing
 leftist adj
 leftover adj
 legal         adj adv=legally
@@ -85,6 +87,7 @@ liturgical adj
 live          adj attr_only
 lively        adj cmp=er
 livid adj
+loaded adj cmp=more note=graded
 loath adj pred_only
 loathsome adj cmp=more
 local         adj adv=locally
@@ -103,6 +106,7 @@ longstanding  adj
 longtime      adj attr_only
 loose         adj cmp=er adv=loosely
 lordly adj cmp=er|more
+lost adj cmp=more note=graded; participle of lose
 loth adj pred_only conf=90 note=variant spelling of loath
 loud          adj cmp=er adv=loudly
 lovable adj cmp=more

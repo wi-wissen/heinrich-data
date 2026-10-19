@@ -8,6 +8,7 @@ Pantheon propn note=the temple in Rome
 Papua propn note=Papua New Guinea; Indonesian region
 Paraguay propn
 Paris propn
+Parliament propn note=graded
 Parma propn
 Pasadena propn
 Paso propn note=only in El Paso
@@ -16,6 +17,7 @@ PBS propn abbr note=Public Broadcasting Service
 PCAOB propn abbr note=Public Company Accounting Oversight Board (US)
 Pembrokeshire propn
 Pennsylvania propn
+Pentagon propn note=graded; US defense headquarters
 Persia propn
 Perth propn
 Peru propn

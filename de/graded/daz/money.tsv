@@ -1,0 +1,21 @@
+# German as a second language (DaZ) graded vocabulary, domain `money` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · money
+ausgeben                 verb   cefr=A2 topic=money role=prod conf=70 src=ai
+bar                      adj    cefr=A1 topic=money|shopping role=prod conf=75 src=ai|rev
+Cent                     noun   cefr=A1 topic=money role=prod conf=95 src=ai
+Euro                     noun   cefr=A1 topic=money role=prod conf=99 src=ai
+Gebühr                   noun   cefr=A2 topic=money|banking|authorities role=prod conf=70 src=ai
+Geld                     noun   cefr=A1 topic=money role=prod conf=97 src=ai
+Geldbeutel               noun   cefr=A2 topic=money role=prod conf=55 src=ai
+Geldbörse                noun   cefr=A2 topic=money role=prod conf=60 src=ai
+Geldschein               noun   cefr=A2 topic=money role=prod conf=60 src=ai
+Kosten                   noun   cefr=A2 topic=money role=prod conf=75 src=ai
+Münze                    noun   cefr=A2 topic=money role=prod conf=65 src=ai
+Portemonnaie             noun   cefr=A2 topic=money role=prod conf=60 src=ai
+Schein                   noun   cefr=A2 topic=money role=prod conf=55 src=ai
+sparen                   verb   cefr=A2 topic=money|banking role=prod conf=75 src=ai
+Wechselgeld              noun   cefr=A2 topic=money role=prod conf=55 src=ai
+wechseln                 verb   cefr=A2 topic=money role=prod conf=70 src=ai

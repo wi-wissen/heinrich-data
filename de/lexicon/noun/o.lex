@@ -45,6 +45,7 @@ Ohnmacht noun g=f gen=Ohnmacht pl=Ohnmachten
 Ohr noun g=n gen=Ohrs|Ohres pl=Ohren
 Ohrenschützer noun g=m gen=Ohrenschützers pl=Ohrenschützer
 Ohrläppchen noun g=n gen=Ohrläppchens pl=Ohrläppchen
+Ohrring noun g=m gen=Ohrrings|Ohrringes pl=Ohrringe note=graded
 Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökologie noun g=f gen=Ökologie pl=- note=mass noun
 Ökonom noun g=m gen=Ökonomen pl=Ökonomen
@@ -86,6 +87,7 @@ Option noun g=f gen=Option pl=Optionen
 Orakel noun g=n gen=Orakels pl=Orakel
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
+Orangensaft noun g=m gen=Orangensafts|Orangensaftes pl=Orangensäfte note=graded
 Orangerie noun g=f gen=Orangerie pl=Orangerien
 Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen

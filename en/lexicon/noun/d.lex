@@ -39,6 +39,7 @@ data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
 date noun
+dating noun pl=- note=graded; uncountable
 dative noun
 datum noun pl=data
 daughter noun
@@ -92,6 +93,7 @@ deckchair noun
 declaration noun
 decline noun
 deco noun pl=- conf=85 note=mostly in Art Deco
+decolonization noun gb=decolonisation pl=- note=graded; uncountable
 decomposition noun
 decompression noun
 deconstruction noun
@@ -106,6 +108,7 @@ deductible noun
 deduction noun
 deed noun
 deep noun
+deepfake noun note=graded
 deer noun pl=deer
 defamation noun pl=- note=uncountable
 default noun
@@ -134,6 +137,7 @@ deformity noun
 degeneration noun
 degradation noun
 degree noun
+dehumanization noun gb=dehumanisation pl=- note=graded; uncountable
 dehydration noun pl=- note=uncountable
 dehydrogenase noun
 deity noun
@@ -157,10 +161,14 @@ dell noun
 delta noun
 deluge noun
 delusion noun
+demagogue noun note=graded
+demagoguery noun pl=- note=graded; uncountable
+demagogy noun pl=- note=graded; uncountable
 demand noun
 demarcation noun
 demeanor noun gb=demeanour
 dementia noun
+demerit noun note=graded
 demise noun
 demo noun pl=demos note=short for demonstration
 democracy noun
@@ -178,12 +186,15 @@ denial noun
 denim noun
 denomination noun
 denominator noun
+denotation noun note=graded
+denouement noun note=graded; also dénouement
 density noun
 dent noun
 dentist noun
 dentistry noun pl=- note=uncountable
 denunciation noun
 deodorant noun
+deontology noun pl=- note=graded; uncountable
 department noun
 departure noun
 dependence noun
@@ -225,6 +236,7 @@ descriptor noun
 desegregation noun pl=- note=uncountable
 desert noun
 deserter noun
+desertification noun pl=- note=graded; uncountable
 desertion noun
 design noun
 designation noun
@@ -297,6 +309,7 @@ diarrhea noun gb=diarrhoea pl=- note=uncountable
 diary noun
 diaspora noun
 dice noun pl=dice
+dichotomy noun note=graded
 dictate noun
 dictation noun
 dictator noun
@@ -317,6 +330,7 @@ dig noun
 digest noun
 digestion noun
 digit noun
+digitalization noun gb=digitalisation pl=- note=graded; uncountable
 digitization noun gb=digitisation|digitization
 dignitary noun
 dignity noun
@@ -402,6 +416,8 @@ dish noun
 dishonesty noun pl=- note=uncountable
 dishonor noun gb=dishonour
 dishwasher noun
+disillusion noun pl=- note=graded; uncountable
+disillusionment noun pl=- note=graded; uncountable
 disincentive noun
 disinformation noun pl=- note=uncountable
 disintegration noun
@@ -530,6 +546,7 @@ doorstep noun
 doorway noun
 dopamine noun pl=- note=uncountable
 dope noun
+doping noun pl=- note=graded; uncountable
 dorm noun note=short for dormitory
 dormer noun
 dormitory noun
@@ -540,6 +557,7 @@ dot noun
 double noun
 double-decker noun note=graded; decker is not a word of its own
 doublet noun
+doublethink noun pl=- note=graded; uncountable
 doubt noun
 dough noun
 doughnut noun us=donut|doughnut conf=90 note=donut is an informal American spelling
@@ -549,6 +567,7 @@ down noun note=soft feathers; the Downs (hills)
 downfall noun
 downhill noun
 download noun
+downside noun note=graded
 downsizing noun pl=- note=uncountable
 downstairs noun pl=- note=the downstairs
 downtime noun pl=- note=uncountable
@@ -661,3 +680,4 @@ dynasty noun
 dysentery noun pl=- note=uncountable
 dysfunction noun
 dysphoria noun
+dystopia noun note=graded

@@ -1,0 +1,40 @@
+# German as a second language (DaZ) graded vocabulary, domain `health` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · health
+Alkohol                  noun   cefr=A2 topic=health|food role=prod conf=65 src=ai
+Allergie                 noun   cefr=A2 topic=health|doctor role=prod conf=70 src=ai
+Besserung                noun   cefr=A1 topic=health role=prod conf=80 src=ai
+Bewegung                 noun   cefr=A2 topic=health|sports.fitness role=prod conf=65 src=ai
+bluten                   verb   cefr=A2 topic=health role=prod conf=60 src=ai
+Entzündung               noun   cefr=A2 topic=health|doctor role=prod conf=55 src=ai
+Erkältung                noun   cefr=A2 topic=health|doctor role=prod conf=92 src=ai
+Ernährung                noun   cefr=A2 topic=health|food role=prod conf=60 src=ai
+fehlen                   verb   cefr=A1 topic=health role=rec conf=60 src=ai
+Fieber                   noun   cefr=A1 topic=health role=prod conf=85 src=ai
+gesund                   adj    cefr=A1 topic=health role=prod conf=90 src=ai
+Gesundheit               noun   cefr=A2 topic=health role=prod conf=80 src=ai
+Grippe                   noun   cefr=A2 topic=health|doctor role=prod conf=80 src=ai
+Husten                   noun   cefr=A1 topic=health role=prod conf=80 src=ai
+husten                   verb   cefr=A2 topic=health role=prod conf=70 src=ai
+krank                    adj    cefr=A1 topic=health role=prod conf=98 src=ai
+Krankheit                noun   cefr=A2 topic=health role=prod conf=85 src=ai
+müde                     adj    cefr=A1 topic=health|qualities role=prod conf=90 src=ai
+niesen                   verb   cefr=A2 topic=health role=prod conf=55 src=ai
+rauchen                  verb   cefr=A2 topic=health role=prod conf=75 src=ai
+Schmerz                  noun   cefr=A1 topic=health role=prod conf=85 src=ai
+Schnupfen                noun   cefr=A2 topic=health|doctor role=prod conf=85 src=ai
+schwanger                adj    cefr=A2 topic=health|doctor role=prod conf=70 src=ai
+Schwangerschaft          noun   cefr=A2 topic=health|doctor role=prod conf=55 src=ai
+schwindlig               adj    cefr=A2 topic=health role=prod conf=65 src=ai
+ungesund                 adj    cefr=A2 topic=health|food role=prod conf=70 src=ai
+verletzen                verb   cefr=A2 topic=health|emergency role=prod conf=75 src=ai
+Verletzung               noun   cefr=A2 topic=health|doctor role=prod conf=70 src=ai
+Virus                    noun   cefr=A2 topic=health role=prod conf=60 src=ai
+Vitamin                  noun   cefr=A2 topic=health|food role=prod conf=55 src=ai
+wehtun                   verb   cefr=A1 topic=health role=prod conf=85 src=ai
+Wunde                    noun   cefr=A2 topic=health role=prod conf=60 src=ai
+Zigarette                noun   cefr=A2 topic=health role=prod conf=60 src=ai
+übel                     adj    cefr=A2 topic=health role=prod conf=65 src=ai
+Übelkeit                 noun   cefr=A2 topic=health|doctor role=prod conf=60 src=ai

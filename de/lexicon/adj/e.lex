@@ -29,11 +29,13 @@ eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 einfältig adj cmp=einfältiger sup=einfältigsten
+einfarbig adj note=graded
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
 eingeschossig adj
 eingleisig adj
+einheimisch adj note=graded
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
@@ -50,8 +52,10 @@ einvernehmlich adj
 einverstanden adj indecl note=only predicative (einverstanden sein)
 einzeln adj
 einzig adj
+einzigartig adj note=graded
 eisern adj
 eisig adj cmp=eisiger sup=eisigsten
+eiskalt adj note=graded
 eitel adj cmp=eitler sup=eitelsten
 ekelhaft adj cmp=ekelhafter sup=ekelhaftesten
 eklig adj cmp=ekliger sup=ekligsten
@@ -121,6 +125,7 @@ erwachsen adj
 erwähnenswert adj
 erwünscht adj
 erzählend adj
+essbar adj note=graded
 essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell
 estnisch adj
 ethisch adj

@@ -213,6 +213,7 @@ aggregator noun
 aggression noun
 aggressor noun
 agility noun pl=- note=uncountable
+aging noun pl=- note=graded; uncountable; the process of growing old; also an adjective in aging population
 agitation noun
 AGM noun abbr note=annual general meeting
 agnostic noun
@@ -283,6 +284,7 @@ alleviation noun pl=- note=uncountable
 alley noun
 alliance noun
 alligator noun
+alliteration noun note=graded
 allocation noun
 allotment noun
 allowance noun
@@ -314,12 +316,14 @@ ambassador noun
 amber noun
 ambiguity noun
 ambition noun
+ambivalence noun pl=- note=graded; uncountable
 ambulance noun
 ambush noun
 amendment noun
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
+americanization noun gb=americanisation pl=- note=graded; uncountable; also capitalized Americanization
 amiability noun pl=- note=uncountable
 amine noun
 amity noun pl=- note=uncountable
@@ -344,6 +348,7 @@ analysis noun pl=analyses
 analyst noun
 analytics noun pl_only conf=90 note=construed as singular or plural
 analyzer noun gb=analyser
+anaphora noun note=graded; plural anaphoras
 anarchist noun
 anarchy noun pl=- note=uncountable
 anatomy noun
@@ -410,8 +415,10 @@ antibiotic noun
 antibody noun
 antic noun note=mostly plural antics
 anticipation noun
+anticlimax noun note=graded
 antidote noun
 antigen noun
+antihero noun note=graded
 antimicrobial noun
 antipathy noun
 antiquarian noun
@@ -419,8 +426,10 @@ antiquary noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
+antithesis noun pl=antitheses note=graded
 antivirus noun
 antler noun
+antonym noun note=graded
 anus noun
 anvil noun
 anxiety noun
@@ -493,6 +502,7 @@ arcade noun
 arch noun
 archaeologist noun us=archeologist|archaeologist conf=90 note=archeologist is a rarer American spelling
 archaeology noun pl=- us=archeology|archaeology conf=90 note=uncountable; archeology is a rarer American spelling
+archaism noun note=graded
 archangel noun
 archbishop noun
 archdeacon noun
@@ -513,6 +523,7 @@ argent noun conf=90 note=heraldry: silver; also poetic adjective
 Argentine noun
 argon noun pl=- note=uncountable
 argument noun
+argumentation noun pl=- note=graded; uncountable
 aristocracy noun
 aristocrat noun
 arithmetic noun pl=- note=uncountable
@@ -565,6 +576,7 @@ ascetic noun
 ash noun
 Ashkenazi noun pl=Ashkenazim|Ashkenazis
 Asian noun
+aside noun note=graded; an aside in a play
 asp noun
 asparagus noun pl=- note=uncountable
 aspect noun
@@ -593,6 +605,7 @@ assistance noun pl=- note=uncountable
 assistant noun
 associate noun
 association noun
+assonance noun pl=- note=graded; uncountable
 assortment noun
 assumption noun
 assurance noun
@@ -607,6 +620,7 @@ astronaut noun
 astronomer noun
 astronomy noun pl=- note=uncountable
 asylum noun
+asyndeton noun pl=asyndeta|asyndetons conf=85 note=graded; the Greek plural asyndeta is unsure
 atheism noun pl=- note=uncountable
 atheist noun
 Athenian noun
@@ -665,6 +679,7 @@ authentication noun
 authenticity noun pl=- note=uncountable
 author noun
 authoritarian noun
+authoritarianism noun pl=- note=graded; uncountable
 authority noun
 authorization noun gb=authorisation|authorization
 authorship noun

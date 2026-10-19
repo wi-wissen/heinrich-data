@@ -210,6 +210,7 @@ press verb
 pressure verb
 pressurize verb gb=pressurise|pressurize
 presume verb
+presuppose verb note=graded
 pretend verb
 prevail verb
 prevent verb
@@ -238,6 +239,7 @@ program verb double
 progress verb
 prohibit verb
 project verb
+proliferate verb note=graded
 prolong verb
 promise verb
 promote verb

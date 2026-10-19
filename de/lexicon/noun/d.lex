@@ -37,6 +37,7 @@ Dativ noun g=m gen=Dativs pl=Dative
 Dattel noun g=f gen=Dattel pl=Datteln
 Datum         noun g=n gen=Datums pl=Daten
 Dauer         noun g=f gen=Dauer pl=- note=no plural
+Dauerauftrag noun g=m gen=Dauerauftrags|Dauerauftrages pl=Daueraufträge note=graded
 Daumen noun g=m gen=Daumens pl=Daumen
 Daune noun g=f gen=Daune pl=Daunen
 Daunenjacke noun g=f gen=Daunenjacke pl=Daunenjacken
@@ -119,6 +120,7 @@ Detektivin noun g=f gen=Detektivin pl=Detektivinnen
 Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
 Deutsche      noun g=m|f decl=adj
+Deutschkurs noun g=m gen=Deutschkurses pl=Deutschkurse note=graded
 Deutung noun g=f gen=Deutung pl=Deutungen
 Devise noun g=f gen=Devise pl=Devisen
 Devisen noun g=pl note=foreign currency
@@ -258,6 +260,7 @@ Doppelklick noun g=m gen=Doppelklicks pl=Doppelklicks
 Doppelkonsonant noun g=m gen=Doppelkonsonanten pl=Doppelkonsonanten note=graded
 Doppellaut noun g=m gen=Doppellauts|Doppellautes pl=Doppellaute note=graded
 Doppelpunkt noun g=m gen=Doppelpunktes|Doppelpunkts pl=Doppelpunkte note=graded
+Doppelzimmer noun g=n gen=Doppelzimmers pl=Doppelzimmer note=graded
 Dorf          noun g=n gen=Dorfes|Dorfs pl=Dörfer
 Dörfchen noun g=n gen=Dörfchens pl=Dörfchen
 Dörfler noun g=m gen=Dörflers pl=Dörfler
@@ -331,6 +334,7 @@ Dunkelheit noun g=f gen=Dunkelheit pl=- note=no plural
 Dunst noun g=m gen=Dunstes|Dunsts pl=Dünste
 Duo noun g=n gen=Duos pl=Duos
 Durchbruch noun g=m gen=Durchbruchs|Durchbruches pl=Durchbrüche
+Durchfall noun g=m gen=Durchfalls|Durchfalles pl=Durchfälle note=graded
 Durchführung  noun g=f gen=Durchführung pl=- note=no regular plural
 Durchgang noun g=m gen=Durchgangs|Durchganges pl=Durchgänge
 Durchlässigkeit noun g=f gen=Durchlässigkeit pl=- note=mass noun

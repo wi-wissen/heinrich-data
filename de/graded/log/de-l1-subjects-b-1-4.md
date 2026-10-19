@@ -1,6 +1,6 @@
 # Run `de-l1-subjects-b-1-4`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,7 +77,7 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path

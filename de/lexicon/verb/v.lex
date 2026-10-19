@@ -36,7 +36,7 @@ verbilligen verb class=weak pp=verbilligt perf=haben
 verbinden verb class=strong 3sg=verbindet past=verband pp=verbunden subj2=verbände perf=haben
 verblassen verb class=weak pp=verblasst perf=sein
 verbleiben verb class=strong 3sg=verbleibt past=verblieb pp=verblieben subj2=verbliebe perf=sein
-verblüffen verb class=weak pp=verblüfft perf=haben
+verblüffen verb class=weak pp=verblüfft perf=haben pp_cmp note=graded: Partizip II is a gradable adjective
 verblühen verb class=weak pp=verblüht perf=sein
 verbluten verb class=weak pp=verblutet perf=sein
 verbohren verb class=weak pp=verbohrt perf=haben refl=acc
@@ -292,7 +292,7 @@ verschlucken verb class=weak pp=verschluckt perf=haben refl=acc
 verschlüsseln verb class=weak pp=verschlüsselt perf=haben
 verschmähen verb class=weak pp=verschmäht perf=haben
 verschmelzen verb class=strong 3sg=verschmilzt past=verschmolz pp=verschmolzen subj2=verschmölze perf=haben|sein
-verschmutzen verb class=weak pp=verschmutzt perf=haben
+verschmutzen verb class=weak pp=verschmutzt perf=haben pp_cmp note=graded: Partizip II is a gradable adjective
 verschnaufen verb class=weak pp=verschnauft perf=haben
 verschneien verb class=weak pp=verschneit perf=sein
 verschnüren verb class=weak pp=verschnürt perf=haben
@@ -409,7 +409,7 @@ verwirken verb class=weak pp=verwirkt perf=haben
 verwirklichen verb class=weak pp=verwirklicht perf=haben
 verwirren verb class=weak pp=verwirrt perf=haben part1_cmp
 verwischen verb class=weak pp=verwischt perf=haben
-verwöhnen verb class=weak pp=verwöhnt perf=haben refl=acc
+verwöhnen verb class=weak pp=verwöhnt perf=haben refl=acc pp_cmp note=graded: Partizip II is a gradable adjective
 verwunden verb class=weak pp=verwundet perf=haben
 verwundern verb class=weak pp=verwundert perf=haben
 verwünschen verb class=weak pp=verwünscht perf=haben

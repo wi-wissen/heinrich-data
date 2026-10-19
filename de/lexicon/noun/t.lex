@@ -16,7 +16,10 @@ Tafelanschrieb noun g=m gen=Tafelanschriebs|Tafelanschriebes pl=Tafelanschriebe
 Tag          noun g=m gen=Tages|Tags pl=Tage
 Tagebuch noun g=n gen=Tagebuches|Tagebuchs pl=Tagebücher note=graded
 Tagelöhner noun g=m gen=Tagelöhners pl=Tagelöhner
+Tagesablauf noun g=m gen=Tagesablaufs|Tagesablaufes pl=Tagesabläufe note=graded
 Tagesanbruch noun g=m gen=Tagesanbruchs|Tagesanbruches pl=- note=no plural
+Tageskarte noun g=f gen=Tageskarte pl=Tageskarten note=graded
+Tagesmutter noun g=f gen=Tagesmutter pl=Tagesmütter note=graded
 Tagesordnung noun g=f gen=Tagesordnung pl=Tagesordnungen note=graded
 Taifun noun g=m gen=Taifuns pl=Taifune
 Taille noun g=f gen=Taille pl=Taillen
@@ -47,6 +50,7 @@ Tarifvertrag noun g=m gen=Tarifvertrags|Tarifvertrages pl=Tarifverträge
 Tarnung noun g=f gen=Tarnung pl=Tarnungen
 Tasche noun g=f gen=Tasche pl=Taschen
 Taschengeld noun g=n gen=Taschengelds|Taschengeldes pl=Taschengelder
+Taschenlampe noun g=f gen=Taschenlampe pl=Taschenlampen note=graded
 Taschenrechner noun g=m gen=Taschenrechners pl=Taschenrechner
 Taskleiste noun g=f gen=Taskleiste pl=Taskleisten
 Tasse noun g=f gen=Tasse pl=Tassen
@@ -80,6 +84,7 @@ Tausender noun g=m gen=Tausenders pl=Tausender
 Tausenderwürfel noun g=m gen=Tausenderwürfels pl=Tausenderwürfel note=graded
 Tausendfüßler noun g=m gen=Tausendfüßlers pl=Tausendfüßler
 Taxi noun g=n gen=Taxis pl=Taxis
+Taxifahrer noun g=m gen=Taxifahrers pl=Taxifahrer note=graded
 Taxon noun g=n gen=Taxons pl=Taxa
 Team noun g=n gen=Teams pl=Teams
 Teamwork noun g=f|n gen=Teamwork pl=- conf=80 note=die/das Teamwork; mass noun
@@ -106,6 +111,7 @@ Teilnahme noun g=f gen=Teilnahme pl=Teilnahmen[rare]
 Teilnehmer noun g=m gen=Teilnehmers pl=Teilnehmer
 Teilnehmerin noun g=f gen=Teilnehmerin pl=Teilnehmerinnen
 Teilung noun g=f gen=Teilung pl=Teilungen
+Teilzeit noun g=f gen=Teilzeit pl=- note=graded; mass noun
 Teint noun g=m gen=Teints pl=Teints
 Telefon noun g=n gen=Telefons pl=Telefone
 Telefonat noun g=n gen=Telefonats|Telefonates pl=Telefonate
@@ -245,6 +251,7 @@ Topographie noun g=f gen=Topographie pl=Topographien note=variant spelling Topog
 Topologie noun g=f gen=Topologie pl=Topologien
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
 Tor noun g=m gen=Toren pl=Toren sense=fool note=der Tor, weak masculine
+Tor noun g=n gen=Tores|Tors pl=Tore sense=goal note=graded; football goal, scored goal
 Tora noun g=f gen=Tora pl=- note=graded; the Torah; plural not used (old spelling Thora)
 Torf noun g=m gen=Torfs|Torfes pl=- note=no plural
 Torheit noun g=f gen=Torheit pl=Torheiten
@@ -327,6 +334,7 @@ Trend noun g=m gen=Trends pl=Trends
 Trennung noun g=f gen=Trennung pl=Trennungen
 Treppchen noun g=n gen=Treppchens pl=Treppchen
 Treppe noun g=f gen=Treppe pl=Treppen
+Treppenhaus noun g=n gen=Treppenhauses pl=Treppenhäuser note=graded
 Tresor noun g=m gen=Tresors pl=Tresore
 Tretroller noun g=m gen=Tretrollers pl=Tretroller
 Treue noun g=f gen=Treue pl=- note=no plural
@@ -346,6 +354,7 @@ Trikot noun g=n gen=Trikots pl=Trikots
 Trilogie noun g=f gen=Trilogie pl=Trilogien
 Trinker noun g=m gen=Trinkers pl=Trinker
 Trinkerin noun g=f gen=Trinkerin pl=Trinkerinnen
+Trinkgeld noun g=n gen=Trinkgeldes|Trinkgelds pl=Trinkgelder note=graded
 Trinkwasser noun g=n gen=Trinkwassers pl=- note=no plural
 Trio noun g=n gen=Trios pl=Trios
 Tritt noun g=m gen=Tritts|Trittes pl=Tritte
@@ -382,6 +391,7 @@ Tscheche noun g=m gen=Tschechen pl=Tschechen
 Tschusch noun g=m gen=Tschuschen pl=Tschuschen region=AT style=offensive note=Austrian slur for people from the Balkans and Eastern Europe
 Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
+Tube noun g=f gen=Tube pl=Tuben note=graded
 Tuberkulose noun g=f gen=Tuberkulose pl=- note=disease name; no plural
 Tuch noun g=n gen=Tuches|Tuchs pl=Tücher|Tuche
 Tücke noun g=f gen=Tücke pl=Tücken

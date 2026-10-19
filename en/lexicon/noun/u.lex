@@ -17,6 +17,7 @@ uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
 unconsciousness noun pl=- note=uncountable
 underbrush noun pl=- note=uncountable
+underclass noun note=graded
 undercut noun
 underestimate noun
 undergraduate noun
@@ -30,6 +31,7 @@ underscore noun
 underside noun
 undersigned noun pl=- conf=90 note=the undersigned, used for one or more signatories
 understanding noun
+understatement noun note=graded
 undertaker    noun
 undertaking   noun
 undertone noun
@@ -104,6 +106,7 @@ usurper noun
 utensil noun
 uterus noun pl=uteri|uteruses
 utilitarian noun
+utilitarianism noun pl=- note=graded; uncountable
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)

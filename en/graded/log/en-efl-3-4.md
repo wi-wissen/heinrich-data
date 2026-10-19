@@ -1,6 +1,6 @@
 # Run `en-efl-3-4`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,11 +77,11 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim)
+## Follow-up message (verbatim)
 
     Orchestrator: the lemma index was incomplete — adverbs the lexicon derives via `adv=` on adjectives (really, usually, well …) are own `adv` lexemes and are now listed in the regenerated index (same path). Please re-check your `missing.tsv` against the new index: every entry that now exists, add as a normal line to the right topic file (same rules as before: band 3-4, A1, your own judgement), remove it from `missing.tsv`, re-run the checker to 0 errors, append a short note to `decisions.md`, and report the new counts. Same clean-room rules as before.
 
-## Follow-up message 2 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path
@@ -95,11 +95,9 @@ The agent received a one-line message pointing to this file, with the instructio
 
 ## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
 
-Message:
-
     Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-en.md (you: band 3-4; output directory .../graded/runs/en-efl-3-4/).
 
-Feedback file referred to:
+Feedback file:
 
     # Revision round 1 (English EFL), feedback from the internal reviewer — patterns only
     
@@ -145,6 +143,36 @@ Feedback file referred to:
     For every line you add or change, set `src=ai|rev` (keep `freq` if present). Re-run the checker to 0 errors, append a
     "Revision round 1" section to `decisions.md`, report counts (added, level changed, removed/moved). Same clean-room rules
     (no web, no word lists, never the held-out repository). Missing lemmas to `missing.tsv`.
+
+## Reviewer round 2 feedback, final (verbatim; aggregate numbers and patterns only)
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev2-en.md (you: band 3-4; output directory .../graded/runs/en-efl-3-4/). The 5-6 author works in parallel and lists words "for 3-4"; the orchestrator will pass them to you afterwards.
+
+Feedback file:
+
+    # Revision round 2 (final) — English EFL, patterns from the second statistical measurement
+    
+    This is the **last** revision against this reference; there will be no further measurement against it. Same rules as
+    round 1: only aggregate numbers and patterns; revise from your own knowledge; never guess reference entries.
+    
+    Numbers after round 1 (before → after): coverage A1 84.9 → 88.6 %, A2 59.4 → 66.4 %, B1 28.9 → 34.6 %. Reference-A1
+    words that are A2 with us: 173 → 211 (exact A1 agreement 80.1 → 76.8 %). B1: exact 28 → 36 %, shift −0.82 → −0.71.
+    Overall Spearman 0.61 → 0.63. A1 function words in band 3-4: 74.2 → 81.1 %. Nouns 47.3 → 55.1 %, verbs 51.2 → 54.7 %
+    (verb shift unchanged −0.26). Better: animals −0.95 → −0.70, toys −0.81 → −0.45, clothes, health, food. Worse:
+    celebrations (±1 82.4 → 75.0 %), weather (−0.35 → −0.42), thinking (+0.09 → +0.17).
+    
+    Patterns (reviewer's own words):
+    1. Keep extending A2 for grades 5–6, above all verbs and adverbs.
+    2. Re-check this round's moves from A1 to A2: what is needed in the first two years of English belongs on A1 / 3-4.
+    3. The B1 assignment works, but 64 % of the shared B1 words are still on A2 or A1 with us.
+    4. Animals remain the topic with the largest shift.
+    5. Newly added words in celebrations and weather are rather placed too early.
+    6. Bring the remaining A1 function words from band 5-6 to 3-4.
+    
+    What to do: 3-4 author — patterns 2, 4, 6 (and 5 for your band). 5-6 author — patterns 1, 2 (words you moved from A1
+    to A2: re-judge; words needed in the first two years: list under "for 3-4"), 5, 6 (list A1 function words that
+    belong to 3-4 under "for 3-4" and remove them). 7-8 author — pattern 3 (A2 → B1 where more demanding), 5.
+    `src=ai|rev`, checker to 0 errors, append "Revision round 2" to decisions.md, report counts.
 
 ## Decisions log (written by the author)
 
@@ -243,3 +271,22 @@ interesting, boring, difficult, sure, true, free, delicious, healthy, full, empt
 could/would/should are recorded in the lexicon as past forms of can/will/shall, so they are covered.
 
 **Level changes:** none (band 3-4 is A1 throughout). New totals: 801 lines (486 prod, 315 rec).
+
+## Revision round 2 (final)
+Patterns addressed for band 3-4: 2 (re-check round-1 moves), 4 (animals still too early), 5 (celebrations
+and weather too early), 6 (remaining A1 function words into 3-4). Own judgement only; new lines `src=ai|rev`.
+
+- **Pattern 2:** re-judged my 73 round-1 removals. None is needed for the first two years of English
+  beyond what is still on the list (core pets, farm and zoo animals, basic clothes and food), so none
+  was restored. The 5-6 author's "for 3-4" list will be handled when the orchestrator passes it on.
+- **Pattern 4, removed (6):** hamster, bee, butterfly, spider, frog, snake → 5-6, A2 (picture-book
+  animals, but not core). Kept: animal, pet, dog, cat, mouse, rabbit, bird, fish, horse, cow, pig,
+  sheep, duck, chicken, farm, zoo, lion, tiger, elephant, monkey, bear.
+- **Pattern 5, removed (8):** foggy, stormy, storm, snowy → 5-6 weather, A2; costume, candle, pumpkin,
+  Santa → 5-6 festivals, A2. Kept: Christmas, Easter, Halloween, birthday, party, present, witch, ghost,
+  and sun/rain/snow/wind/cloud with sunny, rainy, windy, cloudy, hot, cold, warm.
+- **Pattern 6, added (31):** pronouns some, any, all, both, many, much, other, which, myself, yourself;
+  determiners most, little, few; shall; after and before as conjunctions; across, along; adverbs ago,
+  already, ever, yet, almost, else, early, late, far, right, left; once, twice. Mostly rec (55–70):
+  primary pupils hear them in teacher talk and stories; right/left (directions, body sides) are prod.
+- **Level changes:** none (all A1). Totals: 818 lines (479 prod, 339 rec); removed 14, added 31.

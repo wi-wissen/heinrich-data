@@ -1,0 +1,20 @@
+# German as a second language (DaZ) graded vocabulary, domain `celebrations` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · celebrations
+Einladung                noun   cefr=A2 topic=celebrations|people role=prod conf=92 src=ai
+Fasching                 noun   cefr=A2 topic=celebrations role=prod conf=55 src=ai
+Feier                    noun   cefr=A2 topic=celebrations role=prod conf=80 src=ai
+feiern                   verb   cefr=A1 topic=celebrations role=prod conf=80 src=ai
+Feiertag                 noun   cefr=A1 topic=celebrations role=rec conf=70 src=ai|rev
+Fest                     noun   cefr=A1 topic=celebrations role=prod conf=70 src=ai
+Geschenk                 noun   cefr=A1 topic=celebrations role=prod conf=75 src=ai|rev
+Hochzeit                 noun   cefr=A2 topic=celebrations|family role=prod conf=85 src=ai
+Karneval                 noun   cefr=A2 topic=celebrations role=prod conf=55 src=ai
+Kerze                    noun   cefr=A2 topic=celebrations role=prod conf=60 src=ai
+Ostern                   noun   cefr=A1 topic=celebrations role=rec conf=65 src=ai|rev
+Ramadan                  noun   cefr=A2 topic=celebrations role=prod conf=60 src=ai
+Torte                    noun   cefr=A2 topic=celebrations|food role=prod conf=65 src=ai
+Weihnachten              noun   cefr=A1 topic=celebrations role=prod conf=75 src=ai|rev
+Zuckerfest               noun   cefr=A2 topic=celebrations role=prod conf=55 src=ai

@@ -16,6 +16,7 @@ Mannheim propn g=n gen=Mannheims pl=- note=proper name; no plural
 Mansfeld propn g=n gen=Mansfelds pl=- demonym=Mansfelder note=proper name; no plural
 Mantua propn g=n gen=Mantuas pl=- note=proper name; no plural
 Marburg propn g=n gen=Marburgs pl=- note=proper name; no plural
+Maria propn g=f gen=Maria pl=- note=graded; biblical figure (religion subject term)
 Marokko propn g=n gen=Marokkos pl=- note=proper name; no plural
 Mars propn g=m gen=Mars pl=- note=planet, god; bare genitive
 Marseille propn g=n gen=Marseilles pl=- note=proper name; no plural
@@ -43,12 +44,14 @@ Mitteleuropa propn g=n gen=Mitteleuropas pl=- note=proper name; no plural
 Mittelmeer propn g=n gen=Mittelmeers|Mittelmeeres pl=- note=proper name; no plural
 Mittelrhein propn g=m gen=Mittelrheins pl=- note=der Mittelrhein; river section
 Mogadischu propn g=n gen=Mogadischus pl=- note=proper name; no plural
+Mohammed propn g=m gen=Mohammeds pl=- note=graded; religion subject term (islam)
 Moldau propn g=f gen=Moldau pl=- note=die Moldau (river)
 Monaco propn g=n gen=Monacos pl=- note=proper name; no plural
 Mongolei propn g=f gen=Mongolei pl=- note=die Mongolei
 Montabaur propn g=n gen=Montabaurs pl=- note=proper name; no plural
 Montenegro propn g=n gen=Montenegros pl=- note=proper name; no plural
 Montreal propn g=n gen=Montreals pl=- note=proper name; no plural
+Mose propn g=m gen=Moses pl=- note=graded; biblical figure (religion subject term)
 Moskau propn g=n gen=Moskaus pl=- note=proper name; no plural
 München propn g=n gen=Münchens pl=- demonym=Münchner|Münchener[rare] note=proper name; no plural
 Münster propn g=n gen=Münsters pl=- demonym=Münsteraner note=proper name; no plural

@@ -12,4 +12,5 @@ northeastward adv type=place
 northward     adv
 northwards adv type=place
 northwest     adv
+notwithstanding adv note=graded; formal: the rules still apply notwithstanding
 nowadays      adv type=time

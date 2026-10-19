@@ -1,6 +1,6 @@
 # Run `de-l1-core-3-4`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,7 +77,7 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path
@@ -91,11 +91,9 @@ The agent received a one-line message pointing to this file, with the instructio
 
 ## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
 
-Message:
-
     Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-de.md (you: band 3-4, area core; output directory .../graded/runs/de-l1-core-3-4/). The 1-2 author is revising in parallel and will move some abstract words, function words and weather/space/feeling words from 1-2 to 3-4; they list them in their decisions.md under "moved to 3-4" (/tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/de-l1-core-1-2/decisions.md). You need not add those yourself — the orchestrator merges. Focus on patterns 3 and 4 (verbs with prefix/particle, concrete nouns of 3-4, -ung/-heit/-keit nouns) and pattern 5.
 
-Feedback file referred to:
+Feedback file:
 
     # Revision round 1 (German L1), feedback from the internal reviewer — patterns only
     
@@ -138,6 +136,39 @@ Feedback file referred to:
     reference. Re-run the checker to 0 errors, append a "Revision round 1" section to `decisions.md` (what you changed per
     topic and why, in your own reasoning), report counts (added, moved 1-2 → 3-4, moved 3-4 → 1-2). Same clean-room rules
     as before (no web, no word lists, never the held-out repository). Words not in the lexicon go to `missing.tsv` again.
+
+## Reviewer round 2 feedback, final (verbatim; aggregate numbers and patterns only)
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev2-de.md (you: band 3-4, area core; output directory .../graded/runs/de-l1-core-3-4/). The 1-2 author works in parallel; words they move to 3-4 the orchestrator merges.
+
+Feedback file:
+
+    # Revision round 2 (final) — German L1, patterns from the second statistical measurement
+    
+    This is the **last** revision against this reference; there will be no further measurement against it. Same rules as
+    round 1: you get only aggregate numbers and patterns; revise from your own knowledge; never guess reference entries.
+    
+    Numbers after round 1 (before → after): coverage 81.7 → 85.6 % (band 1-2 88.6 → 91.9 %, band 3-4 74.6 → 79.0 %);
+    verbs 72.8 → 81.7 %, verbs with prefix/particle 69.6 → 78.3 %, nouns 80.4 → 84.0 %, adjectives 85.5 % (unchanged),
+    -ung/-heit/-keit/-nis nouns 73.3 → 90.0 %; function words 96.6 → 98.3 % (target reached). Band: exact 70.8 → 70.0 %,
+    ours earlier 26.6 → 26.4 %, ours later 2.6 → 3.6 %. Topic actions: exact 79.5 → 71.0 %; actions.handling shift
+    −0.25 → −0.41, actions.speaking −0.13 → −0.26. Slightly better: weather, function adverbs/pronouns, feelings, space.
+    New "ours later" in home (1 → 6) and nature (3 → 7).
+    
+    Patterns (reviewer's own words):
+    1. Gaps are closing. Most is still missing among simple concrete nouns of stage 3-4, verbs with prefix or particle,
+       and adjectives.
+    2. Added verbs are often one band too early. Rule of thumb: place a compound or specialised verb one band after its
+       base verb.
+    3. The general tendency "too early" persists almost unchanged.
+    4. When moving words to 3-4, do not take along the everyday words of the first years in home and nature.
+    5. Function words have reached the target.
+    
+    What to do: 1-2 author — re-check the verbs you added in round 1 (move compound/specialised ones to 3-4, list them
+    under "moved to 3-4"), and check that no early everyday home/nature words were moved out. 3-4 author — add adjectives
+    and simple concrete nouns of stage 3-4 by topic, re-check that your added verbs are not 5-6 material, and re-check
+    home/nature words you hold that are really 1-2 (list them under "for 1-2"). `src=ai|rev`, checker to 0 errors,
+    append "Revision round 2" to decisions.md, report counts.
 
 ## Decisions log (written by the author)
 
@@ -253,3 +284,42 @@ the merge does not get conflicting bands.
   flashlight or a forest edge, and a few derived nouns).
 
 Totals after round 1: 1,340 lexemes (311 added), `missing.tsv` 21 rows; checker 0 errors.
+
+## Revision round 2 (final round against this reference)
+Again only from my own knowledge; reviewer gave aggregate numbers and patterns. All changed or new lines have
+`src=ai|rev`. As in round 1, I skipped candidates that the 1-2 author already grades (16 words this time, e.g.
+some weather and food words), so the merge gets no conflicting bands.
+
+**Added (309: 129 adjectives, 180 nouns), by topic:** nature 40, food 35, qualities.senses 35,
+qualities.judgement 26, qualities.character 20, traffic 18, home 17, play 16, town 16, school 14, clothing 12,
+time.relations 11, weather 10, feelings 8, space 8, shopping 7, celebrations 5, jobs 5, health 3,
+environment 2, money 1.
+- Adjectives (patterns 1 and 3): words pupils need when they write descriptions in grades 3-4: texture,
+  taste, material and pattern (zart, knusprig, hölzern, kariert), shape words that come with geometry
+  (rechteckig, quadratisch, oval), weather-report adjectives (bewölkt, neblig, regnerisch, stürmisch),
+  finer character and feeling adjectives for stories (vergesslich, geschickt, misstrauisch, verwirrt,
+  begeistert, dankbar), evaluative ones (gemütlich, angenehm, lästig, gruselig, abenteuerlich), space and
+  time adjectives (senkrecht, waagerecht, damalig, gleichzeitig), and environment adjectives (schädlich,
+  künstlich).
+- Simple concrete nouns (pattern 1): vehicles and car parts (Traktor, Bagger, Kran, Motor, Schranke),
+  objects in town (Mülltonne, Kiosk, Aufzug, Statue, Glocke), plant and animal parts (Geweih, Flosse,
+  Schuppe, Blütenblatt, Stiel, Kern), wildflowers and plants (Distel, Efeu, Schilf, Veilchen), house
+  fittings (Stecker, Klinke, Spüle, Fliese, Stockwerk), less basic food (Zwiebel, Lauch, Aprikose, Brühe),
+  clothing parts (Reißverschluss, Kragen, Ärmel, Kapuze), gym and play equipment (Reck, Barren, Matte,
+  Kreisel), and school supplies (Atlas, Globus, Locher, Tacker).
+- 90 wanted words not in the lexicon went to `missing.tsv`. Many are participles used as adjectives
+  (verboten, besetzt, gestreift), marked as such, plus compounds and a few simple adjectives.
+
+**Moved 3-4 → 5-6 (8 verbs, pattern 2):** I re-checked the prefix and particle verbs I added in round 1
+with the rule of thumb "one band after the base verb". Most have a base verb that pupils already know from
+grades 1-2, so 3-4 stays right. These eight are specialised (cooking or technical use, or formal), and
+pupils would only use them later: zerkleinern, verrühren, anbraten, beschriften, aufbewahren, aufladen,
+zuschrauben, entgegenkommen. They stay in `core.tsv` with `grade=5-6`.
+
+**For 1-2 (17 words removed from my file, pattern 4):** these home and nature words from round 1 are
+everyday words of the first school years, so they do not belong to band 3-4. The 1-2 layer should hold
+them (home: Eimer, Besen, Kissen, Spiegel, Kamm, Korb, Kiste, Schaufel, Gießkanne; nature: Muschel,
+Himbeere, Heidelbeere, Stall, Matsch, Schneeflocke, Mücke, Wespe).
+
+Moved 1-2 → 3-4 by me: 0. Totals: 1,632 lines (1,624 grade 3-4, 8 grade 5-6; 55 `role=rec`);
+`missing.tsv` 111 rows; checker 0 errors.

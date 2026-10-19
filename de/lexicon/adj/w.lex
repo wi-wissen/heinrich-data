@@ -1,6 +1,7 @@
 waagerecht adj
 wach adj cmp=wacher sup=wachsten
 wachsam adj cmp=wachsamer sup=wachsamsten
+wackelig adj cmp=wackeliger sup=wackeligsten note=graded
 wacker adj cmp=wackerer sup=wackersten
 waghalsig adj cmp=waghalsiger sup=waghalsigsten
 wählerisch adj cmp=wählerischer sup=wählerischsten
@@ -33,6 +34,7 @@ wenig adj cmp=weniger sup=wenigsten cmp_indecl note=the indefinite determiner we
 werdend adj attr_only note=die werdende Mutter; participle of werden
 wert adj
 werth adj spelling=old note=old spelling of wert
+wertlos adj cmp=wertloser sup=wertlosesten note=graded
 wertvoll adj cmp=wertvoller sup=wertvollsten
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
 westfälisch adj
@@ -65,10 +67,12 @@ wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
 wohnhaft adj note=wohnhaft in Berlin
 wolkig adj cmp=wolkiger sup=wolkigsten
 wollen adj note=made of wool (wollene Strümpfe)
+wollig adj cmp=wolliger sup=wolligsten note=graded
 wörtlich adj
 wund adj cmp=wunder sup=wundesten
 wunderbar adj cmp=wunderbarer sup=wunderbarsten
 wunderlich adj cmp=wunderlicher sup=wunderlichsten
+wunderschön adj cmp=wunderschöner sup=wunderschönsten note=graded
 wünschenswert adj
 würdevoll adj
 würdig adj cmp=würdiger sup=würdigsten

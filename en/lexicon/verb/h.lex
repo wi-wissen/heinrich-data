@@ -61,6 +61,7 @@ hire           verb
 hiss verb
 hit            verb past=hit pp=hit
 hitch verb
+hitchhike verb note=graded
 hive verb
 hoard verb
 hoax verb

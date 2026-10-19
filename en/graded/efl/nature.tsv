@@ -57,3 +57,28 @@ soil                     noun   grade=7-8 cefr=B1 topic=nature role=prod conf=65
 valley                   noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 volcano                  noun   grade=7-8 cefr=A2 topic=nature role=prod conf=65 src=ai
 wildlife                 noun   grade=7-8 cefr=B1 topic=nature role=prod conf=70 src=ai|rev
+
+# grade 9-10 · nature
+ash                      noun   grade=9-10 cefr=B1 topic=nature role=prod conf=65 src=ai|rev
+avalanche                noun   grade=9-10 cefr=B1 topic=nature|weather role=prod conf=70 src=ai
+coastline                noun   grade=9-10 cefr=B1 topic=nature role=prod conf=70 src=ai
+crater                   noun   grade=9-10 cefr=B2 topic=nature role=rec conf=65 src=ai|rev
+eruption                 noun   grade=9-10 cefr=B1 topic=nature role=prod conf=65 src=ai|rev
+landslide                noun   grade=9-10 cefr=B1 topic=nature|weather role=prod conf=70 src=ai
+lava                     noun   grade=9-10 cefr=B1 topic=nature role=prod conf=65 src=ai|rev
+marsh                    noun   grade=9-10 cefr=B1 topic=nature role=prod conf=70 src=ai
+mineral                  noun   grade=9-10 cefr=B1 topic=nature|science role=prod conf=70 src=ai
+reserve                  noun   grade=9-10 cefr=B1 topic=nature role=prod conf=65 src=ai|rev
+scenic                   adj    grade=9-10 cefr=B1 topic=nature|travel role=prod conf=70 src=ai
+swamp                    noun   grade=9-10 cefr=B1 topic=nature role=prod conf=70 src=ai
+tremor                   noun   grade=9-10 cefr=B2 topic=nature role=rec conf=65 src=ai|rev
+tsunami                  noun   grade=9-10 cefr=B1 topic=nature|weather role=prod conf=70 src=ai
+
+# grade 11-13 · nature
+aquatic                  adj    grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai
+canopy                   noun   grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai
+gulf                     noun   grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai
+meadow                   noun   grade=11-13 cefr=B2 topic=nature role=prod conf=60 src=ai
+terrain                  noun   grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai
+tidal                    adj    grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai
+volcanic                 adj    grade=11-13 cefr=B2 topic=nature role=prod conf=70 src=ai

@@ -97,3 +97,6 @@ household                noun   grade=7-8 cefr=B1 topic=home role=rec conf=55 sr
 iron                     noun   grade=7-8 cefr=B1 topic=home role=rec conf=50 src=ai|freq
 iron                     verb   grade=7-8 cefr=B1 topic=home role=rec conf=50 src=ai|freq
 yard                     noun   grade=7-8 cefr=A2 topic=home role=prod conf=60 src=ai
+
+# grade 9-10 · home
+rent                     noun   grade=9-10 cefr=B1 topic=home role=prod conf=65 src=ai|rev

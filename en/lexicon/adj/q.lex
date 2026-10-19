@@ -3,6 +3,7 @@ quadric adj
 quadruple adj
 quaint        adj cmp=er adv=quaintly
 Quaker        adj
+qualified adj cmp=more note=graded
 qualitative adj adv=qualitatively
 quantifiable adj
 quantitative  adj adv=quantitatively

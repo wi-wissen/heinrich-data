@@ -53,7 +53,19 @@ traffic                  noun   grade=5-6 cefr=A2 topic=town|transport role=prod
 crowd                    noun   grade=7-8 cefr=B1 topic=town|sports role=rec conf=50 src=ai|freq
 downtown                 adv    grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
 downtown                 noun   grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
+entrance                 noun   grade=7-8 cefr=A2 topic=town role=prod conf=65 src=ai|rev
 mayor                    noun   grade=7-8 cefr=B1 topic=town|politics role=rec conf=50 src=ai|freq
 neighborhood             noun   grade=7-8 cefr=A2 topic=town role=prod conf=65 src=ai
 parking                  noun   grade=7-8 cefr=A2 topic=town role=prod conf=60 src=ai
 skyscraper               noun   grade=7-8 cefr=A2 topic=town role=prod conf=65 src=ai
+
+# grade 9-10 · town
+district                 noun   grade=9-10 cefr=B1 topic=town|politics role=prod conf=75 src=ai
+estate                   noun   grade=9-10 cefr=B1 topic=town|home role=prod conf=75 src=ai
+facility                 noun   grade=9-10 cefr=B1 topic=town|economy role=prod conf=75 src=ai
+housing                  noun   grade=9-10 cefr=B1 topic=town|home role=prod conf=75 src=ai
+infrastructure           noun   grade=9-10 cefr=B1 topic=town|economy role=prod conf=60 src=ai
+inhabitant               noun   grade=9-10 cefr=B1 topic=town|society role=prod conf=70 src=ai
+outskirts                noun   grade=9-10 cefr=B1 topic=town role=prod conf=70 src=ai
+resident                 noun   grade=9-10 cefr=B1 topic=town|society role=prod conf=70 src=ai
+suburb                   noun   grade=9-10 cefr=B1 topic=town|anglophone role=prod conf=70 src=ai

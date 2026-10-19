@@ -116,6 +116,7 @@ welcome noun
 welding noun pl=- note=uncountable
 welfare noun pl=- note=uncountable
 well noun
+well-being noun pl=- note=graded; hyphenated spelling of wellbeing
 wellbeing noun pl=- note=also spelled well-being
 wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
@@ -128,6 +129,7 @@ west noun pl=- note=uncountable
 westerly noun
 western noun
 westerner noun
+westernization noun gb=westernisation pl=- note=graded; uncountable
 wetback noun style=offensive note=slur for Mexican immigrants
 wetland noun
 wetsuit noun
@@ -245,6 +247,7 @@ woolen noun gb=woollen note=mostly plural: woolens, woollens
 wop noun style=offensive note=slur for Italians
 word noun
 wording noun
+wordplay noun pl=- note=graded; uncountable
 woreda noun conf=85 note=administrative district in Ethiopia
 work noun
 workaholic noun
@@ -261,6 +264,7 @@ workload noun
 workman noun pl=workmen
 workmanship noun pl=- note=uncountable
 workmate noun region=GB conf=90
+workout noun note=graded
 workplace noun
 workroom noun
 worksheet noun

@@ -10,6 +10,7 @@ Quaker        noun
 qualification noun
 qualifier noun
 quality       noun
+quango noun pl=quangos note=graded; British
 quantification noun
 quantity      noun
 quantum       noun pl=quanta
@@ -25,6 +26,7 @@ quarterly     noun
 quartermaster noun
 quartet noun
 quartz noun
+quatrain noun note=graded
 quay noun
 queen         noun
 queer         noun

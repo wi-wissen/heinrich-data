@@ -13,6 +13,7 @@ Tamil adj
 tan adj note=the colour
 tangible adj
 tardy adj cmp=er adv=tardily
+targeted adj note=graded
 tasteless adj cmp=more
 tasty adj cmp=er
 tattered adj
@@ -62,6 +63,7 @@ thermal adj
 thermodynamic adj adv=thermodynamically
 thick adj cmp=er adv=thickly
 thin adj cmp=er adv=thinly
+third-person adj note=graded; hyphenated compound
 thirsty adj cmp=er
 thoracic adj
 thorny adj cmp=er
@@ -70,6 +72,7 @@ thoroughbred adj
 thoughtful adj cmp=more adv=thoughtfully
 thoughtless adj cmp=more adv=thoughtlessly
 threadbare adj
+threatening adj cmp=more adv=threateningly note=graded
 threefold adj
 thrifty adj cmp=er adv=thriftily
 thrilled adj
@@ -109,6 +112,7 @@ total adj adv=totally
 totalitarian adj
 totemic adj
 tough adj cmp=er
+touristy adj cmp=more note=graded; informal
 towering adj
 toxic adj
 traceable adj

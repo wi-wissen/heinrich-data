@@ -23,6 +23,7 @@ deafblind adj
 deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
 deathly adj
+debatable adj adv=debatably note=graded
 deceased adj
 deceitful adj cmp=more adv=deceitfully
 decennial adj
@@ -50,6 +51,7 @@ deformed adj
 deft adj cmp=er adv=deftly
 defunct adj
 degenerate adj
+dehumanizing adj gb=dehumanising cmp=more note=graded
 dejected adj adv=dejectedly
 deleterious adj
 deliberate adj adv=deliberately
@@ -60,6 +62,7 @@ delightful adj adv=delightfully
 delinquent adj
 delirious adj
 deluxe adj
+demanding adj cmp=more note=graded
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
@@ -75,6 +78,7 @@ deplorable adj cmp=more adv=deplorably
 depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
+deprived adj cmp=more note=graded
 deranged adj
 derelict adj
 derisive adj cmp=more adv=derisively
@@ -95,6 +99,7 @@ destitute adj
 destructive adj cmp=more adv=destructively
 desultory adj
 detached adj
+detailed adj cmp=more note=graded
 detectable adj
 determinate adj
 determined adj cmp=more adv=determinedly
@@ -102,11 +107,15 @@ deterministic adj
 deterrent adj
 detestable adj
 detrimental adj adv=detrimentally
+devastated adj cmp=more note=graded
 devastating adj cmp=more adv=devastatingly
+developed adj note=graded; a developed country
+developing adj attr_only note=graded; a developing country
 developmental adj adv=developmentally
 devilish adj
 devious adj cmp=more adv=deviously
 devoid adj pred_only
+devolved adj attr_only note=graded; devolved government
 devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
@@ -145,6 +154,7 @@ directorial adj
 dirty adj cmp=er adv=dirtily
 disabled adj note=graded
 disadvantaged adj cmp=more
+disadvantageous adj cmp=more adv=disadvantageously note=graded
 disaffected adj
 disagreeable adj adv=disagreeably
 disappointed adj cmp=more
@@ -180,9 +190,11 @@ disorderly adj
 disorganized adj gb=disorganised|disorganized
 disparaging adj cmp=more adv=disparagingly
 disparate adj cmp=more
+displaced adj note=graded
 disposable adj
 dispositive adj conf=90 note=legal register
 disproportionate adj adv=disproportionately
+disputed adj note=graded
 disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
 disrespectful adj adv=disrespectfully
@@ -198,6 +210,7 @@ distinct adj cmp=more adv=distinctly
 distinctive adj cmp=more adv=distinctively
 distinguishable adj
 distinguished adj cmp=more
+distracted adj cmp=more note=graded
 distraught adj
 distressed adj cmp=more
 distributional adj
@@ -208,6 +221,7 @@ diurnal adj
 divergent adj
 diverse adj cmp=more adv=diversely
 diversionary adj
+divided adj cmp=more note=graded
 divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more

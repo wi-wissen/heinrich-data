@@ -53,3 +53,11 @@ muscle                   noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 s
 skeleton                 noun   grade=7-8 cefr=A2 topic=body role=rec conf=60 src=ai
 thumb                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=60 src=ai
 wrist                    noun   grade=7-8 cefr=A2 topic=body role=prod conf=70 src=ai
+
+# grade 9-10 · body
+kidney                   noun   grade=9-10 cefr=B1 topic=body role=prod conf=70 src=ai
+naked                    adj    grade=9-10 cefr=B1 topic=body role=prod conf=65 src=ai|rev
+nerve                    noun   grade=9-10 cefr=B1 topic=body|health role=prod conf=70 src=ai
+organ                    noun   grade=9-10 cefr=B1 topic=body role=prod conf=70 src=ai
+spine                    noun   grade=9-10 cefr=B1 topic=body|health role=prod conf=70 src=ai
+vein                     noun   grade=9-10 cefr=B1 topic=body|health role=prod conf=70 src=ai

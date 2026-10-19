@@ -78,8 +78,10 @@ Colombo propn
 Colorado propn
 Columbia propn note=District of Columbia, British Columbia, the Columbia River
 Columbus propn note=the city in Ohio
+Commonwealth propn note=graded; the Commonwealth of Nations
 Concord propn note=the capital of New Hampshire; also the town in Massachusetts
 Congo propn
+Congress propn note=graded; US legislature
 Connecticut propn
 Constantinople propn
 Copenhagen propn
@@ -92,6 +94,7 @@ Coventry propn
 CPSC propn abbr note=Consumer Product Safety Commission
 Crete propn
 Crimea propn
+CRISPR propn abbr note=graded; gene-editing technique
 Croatia propn
 Crossrail propn
 Croydon propn

@@ -95,6 +95,7 @@ perplexed adj cmp=more
 Persian adj note=demonym or religious name, capitalized
 persistent adj cmp=more adv=persistently
 personal adj cmp=more adv=personally
+personalized adj gb=personalised note=graded
 persuasive adj adv=persuasively
 pertinent adj
 Peruvian adj note=demonym or religious name, capitalized
@@ -170,6 +171,8 @@ poised adj
 poisonous adj
 poky adj cmp=er
 polar adj
+polarized adj gb=polarised cmp=more note=graded
+polarizing adj gb=polarising cmp=more note=graded
 Polish adj note=demonym or religious name, capitalized
 polite adj cmp=er adv=politely
 politic adj note=prudent: it is not politic to
@@ -193,10 +196,14 @@ positional adj
 positive adj cmp=more adv=positively
 possessive adj adv=possessively
 possible adj cmp=more adv=possibly
+post-truth adj note=graded; hyphenated compound
 postal adj
+postcolonial adj note=graded
 posterior adj
 postgraduate adj
+posthuman adj note=graded
 posthumous adj
+postmodern adj cmp=more note=graded
 postoperative adj
 postsecondary adj
 postwar adj
@@ -227,6 +234,7 @@ preferable adj adv=preferably
 preferential adj
 pregnant adj
 prehistoric adj
+prejudiced adj cmp=more note=graded
 prejudicial adj cmp=more adv=prejudicially
 preliminary adj
 premarket adj
@@ -344,9 +352,11 @@ punitive adj
 puny adj cmp=er
 pure adj cmp=er adv=purely
 puritan adj
+puritanical adj cmp=more adv=puritanically note=graded
 purple adj
 purported adj adv=purportedly
 purposeful adj adv=purposefully
 pursuant adj note=only in pursuant to
+pushy adj cmp=er adv=pushily note=graded
 putative adj adv=putatively
 pyramidal adj

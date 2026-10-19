@@ -38,6 +38,7 @@ declare verb
 decline verb
 declutter verb
 decode verb
+decolonize verb gb=decolonise note=graded
 decommission verb
 decompose verb
 decorate verb
@@ -67,6 +68,7 @@ defrost verb
 defy verb
 degenerate verb
 degrade verb
+dehumanize verb gb=dehumanise note=graded
 deign verb
 delay verb
 delegate verb
@@ -277,6 +279,7 @@ draft verb
 drag verb
 dragoon verb
 drain verb
+dramatize verb gb=dramatise note=graded
 drape verb
 draw verb past=drew pp=drawn
 drawl verb

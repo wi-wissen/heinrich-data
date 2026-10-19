@@ -30,6 +30,7 @@ unfollow verb prefix=un
 unfriend verb prefix=un
 unify         verb
 uninstall verb
+unionize verb gb=unionise note=graded
 unite         verb
 unitize verb gb=unitise|unitize
 unlace verb prefix=un

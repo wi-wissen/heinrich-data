@@ -1,0 +1,18 @@
+# German as a second language (DaZ) graded vocabulary, domain `emergency` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · emergency
+Achtung                  noun   cefr=A2 topic=emergency role=prod conf=70 src=ai
+Dieb                     noun   cefr=A2 topic=emergency role=prod conf=65 src=ai
+Diebstahl                noun   cefr=A2 topic=emergency role=rec conf=55 src=ai
+Feuer                    noun   cefr=A1 topic=emergency role=rec conf=70 src=ai|rev
+Feuerwehr                noun   cefr=A1 topic=emergency role=rec conf=75 src=ai
+Gefahr                   noun   cefr=A2 topic=emergency role=prod conf=65 src=ai
+Hilfe                    noun   cefr=A1 topic=emergency role=prod conf=90 src=ai
+Polizei                  noun   cefr=A1 topic=emergency|town role=prod conf=90 src=ai
+retten                   verb   cefr=A2 topic=emergency role=prod conf=55 src=ai
+Rettungswagen            noun   cefr=A2 topic=emergency role=prod conf=55 src=ai
+stehlen                  verb   cefr=A2 topic=emergency role=prod conf=70 src=ai
+Unfall                   noun   cefr=A1 topic=emergency role=rec conf=70 src=ai|rev
+Vorsicht                 noun   cefr=A2 topic=emergency role=prod conf=75 src=ai

@@ -1,5 +1,6 @@
 RAF propn abbr note=Royal Air Force
 Rainier propn note=Mount Rainier (Washington)
+Raj propn note=graded; British rule in India
 Raleigh propn
 Ramadan propn
 RCRA propn abbr note=Resource Conservation and Recovery Act (US)

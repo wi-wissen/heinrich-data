@@ -4,3 +4,48 @@
 
 # grade 7-8 · identity
 pressure                 noun   grade=7-8 cefr=B1 topic=identity role=prod conf=65 src=ai
+
+# grade 9-10 · identity
+admire                   verb   grade=9-10 cefr=B1 topic=identity|feelings role=prod conf=70 src=ai
+adolescence              noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+adolescent               adj    grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+adolescent               noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+adult                    adj    grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+adulthood                noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+alienation               noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+allowance                noun   grade=9-10 cefr=B1 topic=identity|shopping role=prod conf=70 src=ai
+autonomy                 noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+being                    noun   grade=9-10 cefr=B1 topic=identity role=prod conf=75 src=ai
+commitment               noun   grade=9-10 cefr=B1 topic=identity|friends role=prod conf=60 src=ai
+conform                  verb   grade=9-10 cefr=B1 topic=identity|society role=prod conf=70 src=ai
+conformity               noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+curfew                   noun   grade=9-10 cefr=B1 topic=identity|family role=prod conf=70 src=ai
+expectation              noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+gap                      noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+identify                 verb   grade=9-10 cefr=B1 topic=identity|thinking role=prod conf=75 src=ai
+immature                 adj    grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+individual               adj    grade=9-10 cefr=B1 topic=identity role=prod conf=75 src=ai
+individuality            noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+insecurity               noun   grade=9-10 cefr=B1 topic=identity|feelings role=prod conf=70 src=ai
+irresponsible            adj    grade=9-10 cefr=B1 topic=identity|qualities.character role=prod conf=70 src=ai
+mature                   verb   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+maturity                 noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+mentality                noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+milestone                noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+overcome                 verb   grade=9-10 cefr=B1 topic=identity|feelings role=prod conf=70 src=ai
+phase                    noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+puberty                  noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+rebel                    verb   grade=9-10 cefr=B1 topic=identity|society role=prod conf=70 src=ai
+rebellion                noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+rebellious               adj    grade=9-10 cefr=B1 topic=identity|qualities.character role=prod conf=70 src=ai
+rite                     noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+romance                  noun   grade=9-10 cefr=B1 topic=identity|friends role=prod conf=70 src=ai
+self                     noun   grade=9-10 cefr=B1 topic=identity role=prod conf=70 src=ai
+stereotype               noun   grade=9-10 cefr=B2 topic=identity|society role=rec conf=60 src=ai
+struggle                 verb   grade=9-10 cefr=B1 topic=identity|feelings role=prod conf=70 src=ai
+tattoo                   noun   grade=9-10 cefr=B1 topic=identity|body role=prod conf=70 src=ai
+transition               noun   grade=9-10 cefr=B2 topic=identity role=rec conf=60 src=ai
+unique                   adj    grade=9-10 cefr=B1 topic=identity|qualities.judgement role=prod conf=75 src=ai
+upbringing               noun   grade=9-10 cefr=B2 topic=identity|family role=rec conf=60 src=ai
+value                    noun   grade=9-10 cefr=B1 topic=identity|society role=prod conf=75 src=ai
+vulnerable               adj    grade=9-10 cefr=B2 topic=identity|feelings role=rec conf=60 src=ai

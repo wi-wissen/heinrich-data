@@ -1,0 +1,19 @@
+# German as a second language (DaZ) graded vocabulary, domain `thinking` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · thinking
+Art                      noun   cefr=A2 topic=thinking role=prod conf=65 src=ai
+Auskunft                 noun   cefr=A2 topic=thinking|traffic|authorities role=prod conf=65 src=ai
+Ding                     noun   cefr=A2 topic=thinking role=prod conf=75 src=ai
+einverstanden            adj    cefr=A2 topic=thinking role=prod conf=75 src=ai
+Erfolg                   noun   cefr=A2 topic=thinking role=prod conf=60 src=ai
+Ergebnis                 noun   cefr=A2 topic=thinking role=prod conf=55 src=ai
+Hinweis                  noun   cefr=A2 topic=thinking role=rec conf=55 src=ai
+Kleinigkeit              noun   cefr=A2 topic=thinking role=prod conf=55 src=ai
+Meinung                  noun   cefr=A2 topic=thinking role=prod conf=88 src=ai
+Nachteil                 noun   cefr=A2 topic=thinking role=prod conf=70 src=ai
+Sache                    noun   cefr=A2 topic=thinking role=prod conf=75 src=ai
+Situation                noun   cefr=A2 topic=thinking role=prod conf=60 src=ai
+Sorte                    noun   cefr=A2 topic=thinking|shopping role=prod conf=60 src=ai
+Vorteil                  noun   cefr=A2 topic=thinking role=prod conf=70 src=ai

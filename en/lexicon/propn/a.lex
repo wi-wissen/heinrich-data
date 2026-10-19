@@ -46,6 +46,7 @@ Annapolis propn
 ANSI propn abbr note=American National Standards Institute
 Antarctic propn
 Antarctica propn
+Anthropocene propn note=graded; geological epoch
 Antioch propn
 Antrim propn
 Antwerp propn

@@ -16,6 +16,7 @@ keeper         noun
 kelp noun pl=- note=uncountable
 ken noun pl=- note=beyond one's ken
 kennel noun
+Kenyan noun note=graded
 kernel noun
 kerosene noun pl=- note=uncountable
 ketch noun

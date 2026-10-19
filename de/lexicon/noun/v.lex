@@ -44,7 +44,8 @@ Verarbeiter noun g=m gen=Verarbeiters pl=Verarbeiter
 Verarbeitung noun g=f gen=Verarbeitung pl=Verarbeitungen
 Veräußerung noun g=f gen=Veräußerung pl=Veräußerungen
 Verb noun g=n gen=Verbs pl=Verben
-Verband noun g=m gen=Verbandes|Verbands pl=Verbände
+Verband noun g=m gen=Verbandes|Verbands pl=Verbände sense=association note=association, federation
+Verband noun g=m gen=Verbandes|Verbands pl=Verbände sense=bandage note=graded; dressing, first aid
 Verbeamtung noun g=f gen=Verbeamtung pl=Verbeamtungen
 Verbesserung noun g=f gen=Verbesserung pl=Verbesserungen
 Verbeugung noun g=f gen=Verbeugung pl=Verbeugungen
@@ -458,16 +459,19 @@ Vorsitz noun g=m gen=Vorsitzes pl=- note=no plural
 Vorsitzende noun g=m|f decl=adj
 Vorsorge noun g=f gen=Vorsorge pl=- note=no plural
 Vorspann noun g=m gen=Vorspanns|Vorspannes pl=Vorspanne
+Vorspeise noun g=f gen=Vorspeise pl=Vorspeisen note=graded
 Vorsprung noun g=m gen=Vorsprungs|Vorsprunges pl=Vorsprünge
 Vorstadt noun g=f gen=Vorstadt pl=Vorstädte
 Vorstand noun g=m gen=Vorstands|Vorstandes pl=Vorstände
 Vorsteher noun g=m gen=Vorstehers pl=Vorsteher
 Vorstellung noun g=f gen=Vorstellung pl=Vorstellungen
+Vorstellungsgespräch noun g=n gen=Vorstellungsgespräches|Vorstellungsgesprächs pl=Vorstellungsgespräche note=graded
 Vorstoß noun g=m gen=Vorstoßes pl=Vorstöße
 Vorteil noun g=m gen=Vorteils|Vorteiles[rare] pl=Vorteile
 Vortheil noun g=m gen=Vortheils|Vortheiles pl=Vortheile spelling=old note=old spelling of Vorteil
 Vortrag noun g=m gen=Vortrags|Vortrages pl=Vorträge
 Vorurteil noun g=n gen=Vorurteils|Vorurteiles pl=Vorurteile
+Vorwahl noun g=f gen=Vorwahl pl=Vorwahlen note=graded
 Vorwand noun g=m gen=Vorwands|Vorwandes pl=Vorwände
 Vorwärtsrolle noun g=f gen=Vorwärtsrolle pl=Vorwärtsrollen note=graded
 Vorwerk noun g=n gen=Vorwerks|Vorwerkes pl=Vorwerke

@@ -1,0 +1,54 @@
+# German as a second language (DaZ) graded vocabulary, domain `shopping` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · shopping
+Angebot                  noun   cefr=A2 topic=shopping role=prod conf=92 src=ai
+anprobieren              verb   cefr=A2 topic=shopping|clothing role=prod conf=88 src=ai
+Becher                   noun   cefr=A2 topic=shopping|food role=prod conf=55 src=ai
+Bestellung               noun   cefr=A2 topic=shopping|food role=prod conf=70 src=ai
+bezahlen                 verb   cefr=A1 topic=shopping|money role=prod conf=92 src=ai
+billig                   adj    cefr=A1 topic=shopping|money role=prod conf=92 src=ai
+Bon                      noun   cefr=A2 topic=shopping role=prod conf=55 src=ai
+Bäckerei                 noun   cefr=A1 topic=shopping|town role=prod conf=85 src=ai
+Dose                     noun   cefr=A2 topic=shopping|food role=prod conf=70 src=ai
+Drogerie                 noun   cefr=A2 topic=shopping|town role=prod conf=70 src=ai
+Einkauf                  noun   cefr=A2 topic=shopping role=prod conf=70 src=ai
+einkaufen                verb   cefr=A1 topic=shopping role=prod conf=95 src=ai
+Einkaufswagen            noun   cefr=A2 topic=shopping role=prod conf=60 src=ai
+Einkaufszentrum          noun   cefr=A2 topic=shopping|town role=prod conf=70 src=ai
+Flohmarkt                noun   cefr=A2 topic=shopping role=prod conf=65 src=ai
+Geschäft                 noun   cefr=A1 topic=shopping|town role=prod conf=80 src=ai
+Kabine                   noun   cefr=A2 topic=shopping|clothing role=prod conf=55 src=ai
+Karte                    noun   cefr=A1 topic=shopping|money role=prod conf=80 src=ai
+Kasse                    noun   cefr=A1 topic=shopping role=prod conf=85 src=ai
+kaufen                   verb   cefr=A1 topic=shopping role=prod conf=99 src=ai
+Kaufhaus                 noun   cefr=A2 topic=shopping|town role=prod conf=70 src=ai
+Kiosk                    noun   cefr=A2 topic=shopping|town role=prod conf=65 src=ai
+Kiste                    noun   cefr=A2 topic=shopping role=prod conf=55 src=ai
+Korb                     noun   cefr=A2 topic=shopping role=prod conf=60 src=ai
+kosten                   verb   cefr=A1 topic=shopping|money role=prod conf=97 src=ai
+Laden                    noun   cefr=A1 topic=shopping|town role=prod conf=75 src=ai
+Lieferung                noun   cefr=A2 topic=shopping role=prod conf=65 src=ai
+Marke                    noun   cefr=A2 topic=shopping role=prod conf=60 src=ai
+Markt                    noun   cefr=A1 topic=shopping|town role=prod conf=85 src=ai
+Metzgerei                noun   cefr=A2 topic=shopping|food|town role=prod conf=80 src=ai
+offen                    adj    cefr=A1 topic=shopping role=prod conf=80 src=ai
+Pfand                    noun   cefr=A2 topic=shopping role=prod conf=65 src=ai
+Pfund                    noun   cefr=A2 topic=shopping role=prod conf=55 src=ai
+Portion                  noun   cefr=A2 topic=shopping|food role=prod conf=60 src=ai
+Preis                    noun   cefr=A1 topic=shopping|money role=prod conf=90 src=ai
+Qualität                 noun   cefr=A2 topic=shopping role=prod conf=65 src=ai
+Quittung                 noun   cefr=A2 topic=shopping role=prod conf=70 src=ai
+Rabatt                   noun   cefr=A2 topic=shopping role=prod conf=60 src=ai
+Schachtel                noun   cefr=A2 topic=shopping role=prod conf=55 src=ai
+Sonderangebot            noun   cefr=A2 topic=shopping role=prod conf=70 src=ai
+Supermarkt               noun   cefr=A1 topic=shopping|town role=prod conf=95 src=ai
+teuer                    adj    cefr=A1 topic=shopping|money role=prod conf=97 src=ai
+Tüte                     noun   cefr=A1 topic=shopping role=prod conf=70 src=ai
+verkaufen                verb   cefr=A1 topic=shopping role=prod conf=75 src=ai
+Verkäufer                noun   cefr=A1 topic=shopping|jobs role=prod conf=85 src=ai
+Verkäuferin              noun   cefr=A1 topic=shopping|jobs role=prod conf=85 src=ai
+Ware                     noun   cefr=A2 topic=shopping role=prod conf=55 src=ai
+zahlen                   verb   cefr=A1 topic=shopping|money role=prod conf=80 src=ai
+Öffnungszeit             noun   cefr=A1 topic=shopping role=rec conf=75 src=ai

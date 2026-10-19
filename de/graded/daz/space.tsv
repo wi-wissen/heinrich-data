@@ -1,0 +1,23 @@
+# German as a second language (DaZ) graded vocabulary, domain `space` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · space
+da                       adv    cefr=A1 topic=space role=prod conf=92 src=ai
+dort                     adv    cefr=A1 topic=space role=prod conf=92 src=ai
+draußen                  adv    cefr=A1 topic=space role=prod conf=65 src=ai
+geradeaus                adv    cefr=A1 topic=space role=prod conf=92 src=ai
+hier                     adv    cefr=A1 topic=space role=prod conf=98 src=ai
+hinten                   adv    cefr=A1 topic=space role=prod conf=70 src=ai
+liegen                   verb   cefr=A1 topic=space role=prod conf=80 src=ai
+links                    adv    cefr=A1 topic=space role=prod conf=92 src=ai
+nah                      adj    cefr=A1 topic=space role=prod conf=75 src=ai
+Nähe                     noun   cefr=A1 topic=space role=prod conf=70 src=ai
+oben                     adv    cefr=A1 topic=space role=prod conf=80 src=ai
+rechts                   adv    cefr=A1 topic=space role=prod conf=92 src=ai
+sitzen                   verb   cefr=A1 topic=space role=prod conf=80 src=ai
+stehen                   verb   cefr=A1 topic=space role=prod conf=80 src=ai
+unten                    adv    cefr=A1 topic=space role=prod conf=80 src=ai
+vorne                    adv    cefr=A1 topic=space role=prod conf=70 src=ai
+weit                     adj    cefr=A1 topic=space role=prod conf=80 src=ai
+zurück                   adv    cefr=A1 topic=space role=prod conf=70 src=ai

@@ -110,9 +110,12 @@ Georgian       noun
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
+germline noun note=graded
+gerrymandering noun pl=- note=graded; uncountable
 gerund noun note=graded
 gestation noun
 gesture        noun
+Ghanaian noun note=graded
 ghetto noun pl=ghettos|ghettoes
 ghost          noun
 GI             noun abbr note=US soldier
@@ -277,6 +280,7 @@ gravity        noun
 gravy noun pl=- note=uncountable
 gray           noun gb=grey
 grease noun
+great-grandparent noun note=graded; hyphenated compound
 greatness      noun pl=- note=uncountable
 greed noun pl=- note=uncountable
 Greek          noun
@@ -336,6 +340,7 @@ guess          noun
 guest          noun
 guidance       noun pl=- note=uncountable
 guide          noun
+guidebook noun note=graded
 guideline      noun
 guild          noun
 guilt          noun pl=- note=uncountable

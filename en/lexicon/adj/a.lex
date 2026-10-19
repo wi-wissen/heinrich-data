@@ -22,12 +22,14 @@ abusive adj cmp=more adv=abusively
 academic adj cmp=more adv=academically
 Acadian adj
 acceptable adj cmp=more adv=acceptably
+accepted adj note=graded
 accessible adj cmp=more adv=accessibly
 accidental adj adv=accidentally
 accountable adj cmp=more
 accurate adj cmp=more adv=accurately
 accursed adj
 accusative adj
+accustomed adj pred_only note=graded; accustomed to
 achievable adj
 achy adj cmp=er
 acidic adj cmp=more
@@ -55,6 +57,7 @@ admirable adj adv=admirably
 admiring adj adv=admiringly
 admissible adj
 adolescent adj
+adopted adj note=graded
 adoptive adj
 adorable adj cmp=more adv=adorably
 adrenal adj
@@ -138,6 +141,7 @@ amber adj
 ambient adj
 ambiguous adj cmp=more adv=ambiguously
 ambitious adj cmp=more adv=ambitiously
+ambivalent adj cmp=more adv=ambivalently note=graded
 ambulatory adj
 amenable adj
 amendatory adj
@@ -146,6 +150,7 @@ amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
 amino adj attr_only note=as in amino acid
 amiss adj pred_only
+amoral adj adv=amorally note=graded
 amorous adj adv=amorously
 amorphous adj
 amphibious adj
@@ -194,6 +199,7 @@ antitrust adj
 anxious adj cmp=more adv=anxiously
 apocalyptic adj cmp=more adv=apocalyptically
 apocryphal adj
+apolitical adj note=graded
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
@@ -228,6 +234,7 @@ ardent adj adv=ardently
 arduous adj cmp=more adv=arduously
 Argentine adj
 arguable adj adv=arguably
+argumentative adj cmp=more adv=argumentatively note=graded
 arid adj cmp=more
 aristocratic adj
 Armenian adj
@@ -254,6 +261,7 @@ asleep adj pred_only
 assertive adj cmp=more adv=assertively
 assiduous adj cmp=more adv=assiduously
 assignable adj
+assisted adj note=graded
 assistive adj
 associate adj
 associative adj
@@ -261,6 +269,7 @@ assorted adj
 assured adj adv=assuredly
 Assyrian adj
 astir adj pred_only
+astonished adj cmp=more note=graded
 astonishing adj adv=astonishingly
 astronomical adj adv=astronomically
 astute adj cmp=more adv=astutely
@@ -292,12 +301,14 @@ austere adj cmp=more adv=austerely
 Australian adj
 Austrian adj
 authentic adj cmp=more adv=authentically
+authorial adj note=graded
 authoritarian adj cmp=more
 authoritative adj cmp=more adv=authoritatively
 autistic adj
 autobiographical adj
 autocratic adj
 autoimmune adj
+automated adj note=graded
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously

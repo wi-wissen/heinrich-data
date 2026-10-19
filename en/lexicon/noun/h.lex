@@ -15,8 +15,10 @@ hairdryer noun
 hairspray noun
 Haitian noun
 half-breed noun style=offensive note=derogatory term for people of mixed descent
+half-brother noun note=graded; hyphenated compound
 half-caste noun style=offensive note=derogatory term for people of mixed descent
 half-life      noun pl=half-lives
+half-sister noun note=graded; hyphenated compound
 halfback noun
 halftime noun
 halibut        noun pl=halibut|halibuts
@@ -211,6 +213,7 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+heuristic noun note=graded
 hexameter noun
 heyday noun
 hiatus noun pl=hiatuses|hiatus
@@ -287,11 +290,13 @@ homeownership noun pl=- note=uncountable
 homepage noun
 homeroom noun region=US
 homesickness noun pl=- note=uncountable
+homestay noun note=graded
 homestead noun
 hometown       noun
 homework noun pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
+homogenization noun gb=homogenisation pl=- note=graded; uncountable
 homology noun
 homomorphism noun
 homophobia noun pl=- note=uncountable
@@ -367,6 +372,7 @@ HQ noun abbr note=headquarters
 hub            noun
 hubbub noun
 hubby noun style=colloquial
+hubris noun pl=- note=graded; uncountable
 hue            noun
 huff noun
 hug noun
@@ -395,6 +401,7 @@ Hungarian      noun
 hunger         noun
 hunt           noun
 hunter         noun
+hunting noun pl=- note=graded; uncountable
 huntsman noun pl=huntsmen
 hurdle noun
 hurrah noun note=a last hurrah
@@ -425,8 +432,10 @@ hyena noun
 hygiene noun pl=- note=uncountable
 hymn           noun
 hyperactivity noun pl=- note=uncountable
+hyperbole noun note=graded
 hyperlink noun
 hypertension noun pl=- note=uncountable
+hyphen noun note=graded
 hypocrisy noun
 hypocrite noun
 hypotension noun pl=- note=uncountable

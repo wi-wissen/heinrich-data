@@ -195,11 +195,13 @@ volt noun
 voltage       noun
 volume        noun
 volunteer     noun
+volunteering noun pl=- note=graded; uncountable
 vomit noun pl=- note=uncountable
 VOR           noun abbr conf=80 note=VHF omnidirectional range (aviation beacon)
 vortex noun pl=vortices|vortexes
 vote          noun
 voter         noun
+voting noun pl=- note=graded; uncountable
 voucher       noun
 vow           noun
 vowel         noun

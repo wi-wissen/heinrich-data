@@ -5,9 +5,7 @@
 # grade 3-4 · animals
 animal                   noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
 bear                     noun   grade=3-4 cefr=A1 topic=animals role=prod conf=92 src=ai
-bee                      noun   grade=3-4 cefr=A1 topic=animals role=prod conf=85 src=ai
 bird                     noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
-butterfly                noun   grade=3-4 cefr=A1 topic=animals role=prod conf=88 src=ai
 cat                      noun   grade=3-4 cefr=A1 topic=animals role=prod conf=98 src=ai
 chicken                  noun   grade=3-4 cefr=A1 topic=animals|food role=prod conf=90 src=ai
 cow                      noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
@@ -16,8 +14,6 @@ duck                     noun   grade=3-4 cefr=A1 topic=animals role=prod conf=9
 elephant                 noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
 farm                     noun   grade=3-4 cefr=A1 topic=animals|nature role=rec conf=75 src=ai
 fish                     noun   grade=3-4 cefr=A1 topic=animals|food role=prod conf=95 src=ai
-frog                     noun   grade=3-4 cefr=A1 topic=animals role=prod conf=90 src=ai
-hamster                  noun   grade=3-4 cefr=A1 topic=animals role=prod conf=85 src=ai
 horse                    noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
 lion                     noun   grade=3-4 cefr=A1 topic=animals role=prod conf=92 src=ai
 monkey                   noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
@@ -26,8 +22,6 @@ pet                      noun   grade=3-4 cefr=A1 topic=animals role=prod conf=9
 pig                      noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
 rabbit                   noun   grade=3-4 cefr=A1 topic=animals role=prod conf=95 src=ai
 sheep                    noun   grade=3-4 cefr=A1 topic=animals role=prod conf=92 src=ai
-snake                    noun   grade=3-4 cefr=A1 topic=animals role=prod conf=90 src=ai
-spider                   noun   grade=3-4 cefr=A1 topic=animals role=prod conf=88 src=ai
 tiger                    noun   grade=3-4 cefr=A1 topic=animals role=prod conf=92 src=ai
 zoo                      noun   grade=3-4 cefr=A1 topic=animals|town role=prod conf=85 src=ai
 
@@ -35,6 +29,8 @@ zoo                      noun   grade=3-4 cefr=A1 topic=animals|town role=prod c
 ant                      noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai
 bark                     verb   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 bat                      noun   grade=5-6 cefr=A2 topic=animals role=rec conf=55 src=ai|rev
+bee                      noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
+butterfly                noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 cage                     noun   grade=5-6 cefr=A2 topic=animals role=prod conf=65 src=ai
 crocodile                noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 deer                     noun   grade=5-6 cefr=A2 topic=animals role=prod conf=65 src=ai
@@ -42,10 +38,12 @@ dinosaur                 noun   grade=5-6 cefr=A2 topic=animals role=prod conf=6
 dolphin                  noun   grade=5-6 cefr=A2 topic=animals role=prod conf=65 src=ai|rev
 donkey                   noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 fox                      noun   grade=5-6 cefr=A2 topic=animals role=prod conf=70 src=ai|rev
+frog                     noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 fur                      noun   grade=5-6 cefr=A2 topic=animals role=rec conf=60 src=ai
 giraffe                  noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 goat                     noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
-goldfish                 noun   grade=5-6 cefr=A2 topic=animals role=prod conf=70 src=ai|rev
+goldfish                 noun   grade=5-6 cefr=A1 topic=animals role=prod conf=70 src=ai|rev
+hamster                  noun   grade=5-6 cefr=A2 topic=animals role=prod conf=75 src=ai|rev
 hedgehog                 noun   grade=5-6 cefr=A2 topic=animals role=prod conf=70 src=ai
 hen                      noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 hunt                     verb   grade=5-6 cefr=A2 topic=animals role=rec conf=55 src=ai|rev
@@ -59,6 +57,8 @@ penguin                  noun   grade=5-6 cefr=A2 topic=animals role=prod conf=6
 puppy                    noun   grade=5-6 cefr=A2 topic=animals role=prod conf=65 src=ai|rev
 shark                    noun   grade=5-6 cefr=A2 topic=animals role=prod conf=65 src=ai
 snail                    noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
+snake                    noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
+spider                   noun   grade=5-6 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 squirrel                 noun   grade=5-6 cefr=A2 topic=animals role=prod conf=70 src=ai
 tail                     noun   grade=5-6 cefr=A1 topic=animals|body role=prod conf=70 src=ai
 tortoise                 noun   grade=5-6 cefr=A2 topic=animals role=rec conf=60 src=ai
@@ -75,8 +75,20 @@ eagle                    noun   grade=7-8 cefr=A2 topic=animals role=prod conf=6
 endangered               adj    grade=7-8 cefr=A2 topic=animals role=prod conf=70 src=ai
 extinct                  adj    grade=7-8 cefr=A2 topic=animals role=prod conf=70 src=ai
 hippo                    noun   grade=7-8 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
+mammal                   noun   grade=7-8 cefr=B1 topic=animals role=rec conf=60 src=ai|rev
 owner                    noun   grade=7-8 cefr=A2 topic=animals|home role=rec conf=55 src=ai|freq
 panda                    noun   grade=7-8 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
 rare                     adj    grade=7-8 cefr=B1 topic=animals|nature role=rec conf=50 src=ai|freq
+reptile                  noun   grade=7-8 cefr=B1 topic=animals role=rec conf=60 src=ai|rev
 species                  noun   grade=7-8 cefr=B1 topic=animals role=prod conf=65 src=ai
 turtle                   noun   grade=7-8 cefr=A2 topic=animals role=prod conf=60 src=ai|rev
+
+# grade 9-10 · animals
+breed                    noun   grade=9-10 cefr=B1 topic=animals role=prod conf=70 src=ai
+breed                    verb   grade=9-10 cefr=B1 topic=animals role=prod conf=70 src=ai
+captivity                noun   grade=9-10 cefr=B1 topic=animals|environment role=prod conf=70 src=ai
+cruelty                  noun   grade=9-10 cefr=B1 topic=animals|qualities.character role=prod conf=70 src=ai
+livestock                noun   grade=9-10 cefr=B1 topic=animals|food role=prod conf=70 src=ai
+poacher                  noun   grade=9-10 cefr=B1 topic=animals|law role=prod conf=70 src=ai
+predator                 noun   grade=9-10 cefr=B1 topic=animals role=prod conf=70 src=ai
+prey                     noun   grade=9-10 cefr=B1 topic=animals role=prod conf=70 src=ai

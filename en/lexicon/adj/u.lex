@@ -18,6 +18,7 @@ unaffiliated adj
 unaffordable adj
 unafraid adj
 unaided adj
+unalienable adj note=graded; as in the US Declaration of Independence
 unaltered adj
 unambiguous adj adv=unambiguously
 unanimous      adj adv=unanimously
@@ -74,6 +75,7 @@ unconstitutional adj
 uncontrollable adj adv=uncontrollably
 uncontrolled adj
 unconventional adj
+unconvincing adj cmp=more adv=unconvincingly note=graded
 uncouth adj cmp=more
 uncredited     adj
 uncrewed adj
@@ -92,6 +94,7 @@ underdeveloped adj
 undergraduate  adj
 underground    adj
 underlying     adj attr_only
+underprivileged adj cmp=more note=graded
 underrepresented adj
 undersea adj
 underserved    adj
@@ -100,6 +103,7 @@ understandable adj adv=understandably
 understanding  adj
 underwater     adj
 underway       adj
+underweight adj note=graded
 undeserved adj
 undesirable adj
 undetected adj
@@ -331,6 +335,7 @@ upcoming       adj
 uphill adj
 upland adj
 upper          adj attr_only
+upper-class adj cmp=more note=graded; hyphenated compound
 uppermost adj
 upraised adj
 upright        adj

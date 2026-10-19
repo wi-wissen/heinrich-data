@@ -71,6 +71,7 @@ woody adj cmp=er
 woolen adj gb=woollen
 woolly adj cmp=er
 workable adj
+working-class adj cmp=more note=graded; hyphenated compound
 worldly adj cmp=more
 worldwide adj
 worried adj cmp=more adv=worriedly
@@ -78,6 +79,7 @@ worth adj pred_only
 worthless adj
 worthwhile adj cmp=more
 worthy adj cmp=er
+wounded adj cmp=more note=graded
 wrathful adj cmp=more adv=wrathfully
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er

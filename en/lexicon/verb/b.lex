@@ -153,6 +153,7 @@ bracket verb
 brag verb
 braid verb
 brainstorm verb
+brainwash verb note=graded
 brake verb
 branch verb
 brand verb

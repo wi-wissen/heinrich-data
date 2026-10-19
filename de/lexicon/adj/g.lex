@@ -26,6 +26,7 @@ gegenwärtig adj
 gegnerisch adj
 gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
+geheimnisvoll adj cmp=geheimnisvoller sup=geheimnisvollsten note=graded
 gehörig adj
 gehorsam adj cmp=gehorsamer sup=gehorsamsten
 geil adj style=colloquial cmp=geiler sup=geilsten

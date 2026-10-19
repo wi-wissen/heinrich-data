@@ -3,7 +3,9 @@ naked           adj adv=nakedly
 nameless adj
 Napoleonic      adj
 narcotic adj
+narrative adj note=graded; narrative poetry
 narrow          adj cmp=er adv=narrowly
+narrow-minded adj cmp=more adv=narrow-mindedly note=graded; hyphenated compound
 nasal           adj
 nascent adj
 nasty           adj cmp=er adv=nastily
@@ -12,6 +14,7 @@ nationalist     adj
 nationalistic adj
 nationwide      adj
 native          adj
+nativist adj note=graded
 natural         adj adv=naturally
 naturalistic adj
 naughty adj cmp=er adv=naughtily
@@ -67,8 +70,10 @@ noisy           adj cmp=er adv=noisily
 nomadic adj
 nominal         adj adv=nominally
 nominative adj
+non-governmental adj note=graded; hyphenated compound
 nonbinding adj conf=80 note=also non-binding
 noncompliant adj
+nonconformist adj cmp=more note=graded
 nongovernmental adj
 nonimmigrant    adj
 nonlinear adj adv=nonlinearly
@@ -77,6 +82,7 @@ nonprescription adj
 nonprofit       adj
 nonquantitative adj
 nonrefundable adj conf=85 note=also non-refundable
+nonrenewable adj note=graded
 nonsensical adj
 nonstop adj
 nonverbal adj adv=nonverbally conf=90 note=also non-verbal

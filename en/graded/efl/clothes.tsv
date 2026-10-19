@@ -38,7 +38,7 @@ handbag                  noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55
 hoodie                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai
 jewelry                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
 necklace                 noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
-pajamas                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=55 src=ai|rev
+pajamas                  noun   grade=5-6 cefr=A1 topic=clothes role=prod conf=55 src=ai|rev
 pocket                   noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
 pullover                 noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
 raincoat                 noun   grade=5-6 cefr=A2 topic=clothes|weather role=prod conf=60 src=ai|rev
@@ -53,7 +53,7 @@ sweater                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=6
 sweatshirt               noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=65 src=ai
 swimsuit                 noun   grade=5-6 cefr=A2 topic=clothes|travel role=rec conf=55 src=ai
 tie                      noun   grade=5-6 cefr=A1 topic=clothes|school role=prod conf=75 src=ai
-trainer                  noun   grade=5-6 cefr=A2 topic=clothes role=prod conf=70 src=ai|rev
+trainer                  noun   grade=5-6 cefr=A1 topic=clothes role=prod conf=70 src=ai|rev
 umbrella                 noun   grade=5-6 cefr=A1 topic=clothes|weather role=prod conf=65 src=ai
 uniform                  noun   grade=5-6 cefr=A1 topic=clothes|school|anglophone.uk role=prod conf=85 src=ai
 wallet                   noun   grade=5-6 cefr=A2 topic=clothes|shopping role=prod conf=60 src=ai|rev
@@ -61,5 +61,9 @@ wool                     noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55
 zipper                   noun   grade=5-6 cefr=A2 topic=clothes role=rec conf=55 src=ai|rev
 
 # grade 7-8 · clothes
+fashionable              adj    grade=7-8 cefr=A2 topic=clothes role=prod conf=65 src=ai|rev
 makeup                   noun   grade=7-8 cefr=A2 topic=clothes|self role=rec conf=55 src=ai|freq
+outfit                   noun   grade=7-8 cefr=A2 topic=clothes role=prod conf=65 src=ai|rev
 style                    noun   grade=7-8 cefr=A2 topic=clothes|music_arts role=rec conf=55 src=ai|freq
+stylish                  adj    grade=7-8 cefr=A2 topic=clothes role=prod conf=60 src=ai|rev
+trendy                   adj    grade=7-8 cefr=A2 topic=clothes role=prod conf=65 src=ai|rev

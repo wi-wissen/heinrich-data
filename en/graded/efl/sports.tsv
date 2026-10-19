@@ -44,6 +44,7 @@ prize                    noun   grade=5-6 cefr=A2 topic=sports|celebrations role
 race                     noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
 racket                   noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 rugby                    noun   grade=5-6 cefr=A2 topic=sports|anglophone.uk role=prod conf=65 src=ai
+score                    noun   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 score                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
 stadium                  noun   grade=5-6 cefr=A2 topic=sports role=prod conf=65 src=ai
 train                    verb   grade=5-6 cefr=A2 topic=sports role=prod conf=60 src=ai
@@ -57,15 +58,23 @@ championship             noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65
 coach                    verb   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
 compete                  verb   grade=7-8 cefr=B1 topic=sports role=prod conf=65 src=ai
 defeat                   noun   grade=7-8 cefr=B1 topic=sports role=rec conf=65 src=ai
-equipment                noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
+draw                     noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
+equipment                noun   grade=7-8 cefr=B1 topic=sports role=prod conf=65 src=ai|rev
 league                   noun   grade=7-8 cefr=A2 topic=sports role=rec conf=55 src=ai|freq
+medal                    noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 Olympic                  adj    grade=7-8 cefr=A2 topic=sports role=rec conf=55 src=ai|freq
 opponent                 noun   grade=7-8 cefr=B1 topic=sports role=rec conf=65 src=ai
 penalty                  noun   grade=7-8 cefr=B1 topic=sports role=rec conf=50 src=ai|freq
+record                   noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 referee                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
 surf                     verb   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
 surfer                   noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
 surfing                  noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai
 tournament               noun   grade=7-8 cefr=A2 topic=sports role=prod conf=65 src=ai
 track                    noun   grade=7-8 cefr=A2 topic=sports|music_arts role=rec conf=55 src=ai|freq
+trophy                   noun   grade=7-8 cefr=A2 topic=sports role=prod conf=60 src=ai|rev
 victory                  noun   grade=7-8 cefr=B1 topic=sports role=prod conf=65 src=ai
+
+# grade 9-10 · sports
+spectator                noun   grade=9-10 cefr=B1 topic=sports role=prod conf=70 src=ai
+technique                noun   grade=9-10 cefr=B1 topic=sports role=prod conf=70 src=ai

@@ -57,6 +57,7 @@ dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreidimensional adj
+dreieckig adj note=graded
 dreifach adj
 dreischiffig adj note=architecture: with three naves
 dreiseitig adj
@@ -70,12 +71,14 @@ duftend adj
 dumm adj cmp=dümmer sup=dümmsten
 dumpf adj cmp=dumpfer sup=dumpfsten
 dunkel        adj cmp=dunkler sup=dunkelsten
+dunkelblau adj note=graded
 dunkelhaarig adj
 dünn adj cmp=dünner sup=dünnsten
 durchgängig adj
 durchschnittlich adj
 durchsichtig adj cmp=durchsichtiger sup=durchsichtigsten
 dürftig adj
+dürr adj cmp=dürrer sup=dürrsten note=graded
 durstig adj cmp=durstiger sup=durstigsten
 düster adj cmp=düsterer sup=düstersten
 dynamisch adj cmp=dynamischer sup=dynamischsten

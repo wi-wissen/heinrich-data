@@ -20,4 +20,5 @@ Jurassic adj
 jurisdictional adj
 just           adj cmp=er|more adv=justly
 justifiable adj adv=justifiably
+justified adj cmp=more note=graded
 juvenile       adj

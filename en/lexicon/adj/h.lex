@@ -15,6 +15,7 @@ haphazard adj adv=haphazardly
 hapless adj
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
+hard-working adj cmp=more note=graded; hyphenated spelling of hardworking
 hardcore adj
 hardworking adj cmp=more note=also written hard-working
 hardy          adj cmp=er
@@ -61,10 +62,12 @@ hesitant adj cmp=more adv=hesitantly
 hesitating adj adv=hesitatingly
 heterogeneous adj
 heterosexual adj
+heuristic adj adv=heuristically note=graded
 hexagonal adj
 hideous        adj adv=hideously
 hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
+high-tech adj cmp=more note=graded; hyphenated compound
 hilarious adj cmp=more adv=hilariously
 hilly adj cmp=er
 hind adj attr_only
@@ -102,6 +105,7 @@ horrendous adj
 horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
+horrified adj cmp=more note=graded
 horticultural adj
 hospitable adj cmp=more adv=hospitably
 hostile        adj
@@ -115,6 +119,7 @@ humanitarian   adj
 humanoid adj
 humble         adj cmp=er adv=humbly
 humid          adj
+humiliated adj cmp=more note=graded
 humongous adj style=colloquial
 humorous       adj adv=humorously
 Hungarian      adj

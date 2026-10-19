@@ -1,6 +1,7 @@
 fabricate verb
 face           verb
 facilitate     verb
+fact-check verb note=graded; hyphenated compound
 factor         verb
 fade           verb
 fail           verb
@@ -50,6 +51,7 @@ field          verb
 fight          verb past=fought pp=fought
 figure         verb
 file           verb
+filibuster verb note=graded
 fill           verb
 film           verb
 filter         verb

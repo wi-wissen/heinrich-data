@@ -16,6 +16,7 @@ tractor                  noun   grade=3-4 cefr=A1 topic=transport role=rec conf=
 train                    noun   grade=3-4 cefr=A1 topic=transport role=prod conf=95 src=ai
 
 # grade 5-6 · transport
+airplane                 noun   grade=5-6 cefr=A2 topic=transport role=prod conf=65 src=ai|rev
 arrival                  noun   grade=5-6 cefr=A2 topic=transport role=rec conf=55 src=ai|rev
 double-decker            noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=70 src=ai
 driver                   noun   grade=5-6 cefr=A1 topic=transport|jobs role=prod conf=70 src=ai
@@ -39,19 +40,39 @@ tire:wheel               noun   grade=5-6 cefr=A2 topic=transport role=rec conf=
 tram                     noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
 transport                noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
 tube                     noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=70 src=ai
-underground              noun   grade=5-6 cefr=A2 topic=transport|anglophone.uk role=prod conf=75 src=ai|rev
+underground              noun   grade=5-6 cefr=A1 topic=transport|anglophone.uk role=prod conf=75 src=ai|rev
 van                      noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai
 wheel                    noun   grade=5-6 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
 
 # grade 7-8 · transport
+crash                    noun   grade=7-8 cefr=A2 topic=transport role=prod conf=65 src=ai|rev
+cyclist                  noun   grade=7-8 cefr=A2 topic=transport role=prod conf=65 src=ai|rev
 engine                   noun   grade=7-8 cefr=A2 topic=transport|technology role=rec conf=55 src=ai|freq
+fare                     noun   grade=7-8 cefr=B1 topic=transport role=rec conf=60 src=ai|rev
 freeway                  noun   grade=7-8 cefr=A2 topic=transport role=rec conf=55 src=ai
 fuel                     noun   grade=7-8 cefr=B1 topic=transport role=prod conf=65 src=ai
 highway                  noun   grade=7-8 cefr=A2 topic=transport role=prod conf=65 src=ai
 limit                    noun   grade=7-8 cefr=B1 topic=transport role=rec conf=50 src=ai|freq
+motorway                 noun   grade=7-8 cefr=A2 topic=transport role=prod conf=60 src=ai|rev
+pedestrian               noun   grade=7-8 cefr=B1 topic=transport role=rec conf=60 src=ai|rev
 petrol                   noun   grade=7-8 cefr=A2 topic=transport role=prod conf=60 src=ai
 railroad                 noun   grade=7-8 cefr=A2 topic=transport|anglophone.us role=rec conf=50 src=ai|freq
 route                    noun   grade=7-8 cefr=A2 topic=transport|travel role=rec conf=55 src=ai|freq
 sidewalk                 noun   grade=7-8 cefr=A2 topic=transport role=prod conf=60 src=ai
 speed                    noun   grade=7-8 cefr=A2 topic=transport|sports role=rec conf=55 src=ai|freq
 vehicle                  noun   grade=7-8 cefr=B1 topic=transport role=prod conf=65 src=ai
+
+# grade 9-10 · transport
+accelerate               verb   grade=9-10 cefr=B1 topic=transport role=prod conf=70 src=ai
+aircraft                 noun   grade=9-10 cefr=B1 topic=transport role=prod conf=65 src=ai|rev
+brake                    verb   grade=9-10 cefr=B1 topic=transport role=prod conf=70 src=ai
+commuter                 noun   grade=9-10 cefr=B1 topic=transport|jobs role=prod conf=70 src=ai
+congestion               noun   grade=9-10 cefr=B1 topic=transport|environment role=prod conf=70 src=ai
+lane                     noun   grade=9-10 cefr=B1 topic=transport role=prod conf=70 src=ai
+license                  noun   grade=9-10 cefr=B1 topic=transport role=prod conf=70 src=ai
+overtake                 verb   grade=9-10 cefr=B1 topic=transport role=prod conf=70 src=ai
+transport                verb   grade=9-10 cefr=B1 topic=transport role=prod conf=75 src=ai
+transportation           noun   grade=9-10 cefr=B1 topic=transport|anglophone.us role=prod conf=70 src=ai
+
+# grade 11-13 · transport
+aviation                 noun   grade=11-13 cefr=B2 topic=transport role=rec conf=65 src=ai

@@ -14,6 +14,7 @@ obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
 observational adj
+obsessed adj cmp=more note=graded
 obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
@@ -45,8 +46,10 @@ Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
 omnipotent adj
+omniscient adj adv=omnisciently note=graded
 onboard adj
 oncoming adj attr_only
+one-sided adj cmp=more note=graded; hyphenated compound
 onerous adj cmp=more adv=onerously
 ongoing        adj
 online         adj
@@ -66,6 +69,8 @@ ophthalmic adj
 opioid adj
 opportune adj
 opportunistic adj adv=opportunistically
+opposed adj pred_only note=graded; opposed to
+opposite adj note=graded
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
@@ -83,6 +88,7 @@ ordinal adj
 ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
+organized adj gb=organised cmp=more note=graded
 Oriental       adj note=dated; offensive when used of people
 oriental adj
 original       adj adv=originally
@@ -90,6 +96,7 @@ ornamental     adj
 ornate adj cmp=more adv=ornately
 orthodox       adj
 orthogonal adj adv=orthogonally
+Orwellian adj note=graded; also lowercase orwellian
 ostensible adj adv=ostensibly
 ostentatious adj cmp=more adv=ostentatiously
 Ottoman        adj
@@ -117,6 +124,7 @@ overall        adj
 overarching adj
 overbearing adj
 overcast adj
+overconfident adj cmp=more adv=overconfidently note=graded
 overcrowded adj
 overdrawn adj
 overdue adj
@@ -131,6 +139,7 @@ overseas       adj
 oversized adj
 overt adj cmp=more adv=overtly
 overweight adj
+overwhelmed adj cmp=more note=graded
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj

@@ -120,6 +120,7 @@ manufacturer   noun
 manufacturing  noun
 manure noun
 manuscript     noun
+Maori noun pl=Maori|Maoris note=graded; the people and the language
 map            noun
 maple          noun
 marathon       noun
@@ -129,6 +130,7 @@ marcher noun
 mare noun
 margarine noun pl=- note=uncountable
 margin         noun
+marginalization noun gb=marginalisation pl=- note=graded; uncountable
 margrave noun
 marijuana noun pl=- note=uncountable
 marina         noun
@@ -209,6 +211,7 @@ MB             noun abbr pl=MB note=megabyte(s)
 MBA noun abbr note=Master of Business Administration
 MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
+McDonaldization noun gb=McDonaldisation pl=- conf=85 note=graded; sociology term; the worklist form is lowercase
 mead noun
 meadow         noun
 meal           noun
@@ -271,6 +274,7 @@ mention        noun
 mentor         noun
 mentorship noun
 menu           noun
+mercantilism noun pl=- note=graded; uncountable
 mercenary noun
 merchandise    noun pl=- note=uncountable
 merchant       noun
@@ -279,6 +283,7 @@ mercy          noun
 merger         noun
 meridian       noun
 merit          noun
+meritocracy noun note=graded
 mermaid noun
 merriment noun pl=- note=uncountable
 mesa noun
@@ -290,6 +295,7 @@ meta-analysis noun pl=meta-analyses
 metabolism noun
 metabolite noun
 metadata noun pl=- note=uncountable
+metafiction noun pl=- note=graded; uncountable
 metal          noun
 metamorphosis noun pl=metamorphoses
 metaphor noun
@@ -307,6 +313,7 @@ Methodist      noun
 methodology    noun
 methyl noun
 methylation noun
+metonymy noun note=graded
 metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
@@ -395,6 +402,7 @@ mirage noun
 mire noun
 mirror         noun
 mirth noun pl=- note=uncountable
+misandry noun pl=- note=graded; uncountable
 miscalculation noun
 miscarriage noun
 mischief       noun pl=- note=uncountable
@@ -411,6 +419,7 @@ mishap noun
 misinformation noun pl=- note=uncountable
 mismanagement noun pl=- note=uncountable
 mismatch noun
+misogynist noun note=graded
 misogyny noun pl=- note=uncountable
 misprint noun
 misrepresentation noun
@@ -456,6 +465,7 @@ modem noun
 moderate       noun
 moderation noun pl=- note=uncountable
 moderator noun
+modernism noun pl=- note=graded; uncountable
 modernist noun
 modernity noun
 modernization noun gb=modernisation|modernization
@@ -590,6 +600,7 @@ mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term f
 mulberry noun
 mule           noun
 multicast noun
+multiculturalism noun pl=- note=graded; uncountable
 multimedia noun pl=- note=uncountable
 multinational  noun
 multiple       noun

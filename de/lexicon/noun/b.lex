@@ -32,6 +32,7 @@ Baguette noun g=f gen=Baguette pl=Baguettes
 Bahn          noun g=f gen=Bahn pl=Bahnen
 Bahnhof noun g=m gen=Bahnhofs|Bahnhofes pl=Bahnhöfe
 Bahnsteig noun g=m gen=Bahnsteigs|Bahnsteiges pl=Bahnsteige
+Bahnübergang noun g=m gen=Bahnübergangs|Bahnübergangs pl=Bahnübergänge note=graded
 Bahre noun g=f gen=Bahre pl=Bahren
 Bakterie noun g=f gen=Bakterie pl=Bakterien
 Balance noun g=f gen=Balance pl=Balancen
@@ -66,6 +67,8 @@ Bank          noun g=f gen=Bank pl=Banken sense=financial
 Bankautomat noun g=m gen=Bankautomaten pl=Bankautomaten
 Bankier noun g=m gen=Bankiers pl=Bankiers
 Bankierin noun g=f gen=Bankierin pl=Bankierinnen
+Bankkarte noun g=f gen=Bankkarte pl=Bankkarten note=graded
+Bankkonto noun g=n gen=Bankkontos pl=Bankkonten|Bankkontos[rare] note=graded
 Banknote noun g=f gen=Banknote pl=Banknoten note=graded
 Bann noun g=m gen=Banns|Bannes pl=- note=no plural in current use
 Banner noun g=n gen=Banners pl=Banner
@@ -75,6 +78,7 @@ Baptistin noun g=f gen=Baptistin pl=Baptistinnen
 Bar noun g=f gen=Bar pl=Bars sense=pub note=die Bar: pub, counter
 Bär noun g=m gen=Bären pl=Bären
 Baracke noun g=f gen=Baracke pl=Baracken
+Bargeld noun g=n gen=Bargeldes|Bargelds pl=- note=graded; mass noun
 Bariton noun g=m gen=Baritons pl=Baritone
 Barke noun g=f gen=Barke pl=Barken
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
@@ -108,6 +112,7 @@ Batterie noun g=f gen=Batterie pl=Batterien
 Bau           noun g=m gen=Baues|Baus pl=Bauten|Baue[rare]
 Bauch noun g=m gen=Bauchs|Bauches pl=Bäuche
 Bauchnabel noun g=m gen=Bauchnabels pl=Bauchnabel
+Bauchschmerzen noun g=pl note=graded; plural only (stomach ache)
 Bauchweh noun g=n gen=Bauchwehs pl=- note=no plural (mass or abstract noun)
 Bauer         noun g=m gen=Bauern pl=Bauern sense=farmer note=farmer; also chess pawn
 Bauer noun g=n gen=Bauers pl=Bauer sense=cage note=das Bauer: bird cage (Vogelbauer)
@@ -118,6 +123,7 @@ Baum          noun g=m gen=Baumes|Baums pl=Bäume
 Baumkrone noun g=f gen=Baumkrone pl=Baumkronen note=graded
 Baumpflanzung noun g=f gen=Baumpflanzung pl=Baumpflanzungen
 Baumschicht noun g=f gen=Baumschicht pl=Baumschichten note=graded
+Baumstamm noun g=m gen=Baumstammes|Baumstamms pl=Baumstämme note=graded
 Baumstumpf noun g=m gen=Baumstumpfs pl=Baumstümpfe
 Baumwipfel noun g=m gen=Baumwipfels pl=Baumwipfel
 Baumwolle noun g=f gen=Baumwolle pl=- note=no plural
@@ -201,6 +207,7 @@ Begriff       noun g=m gen=Begriffs|Begriffes pl=Begriffe
 Begründer noun g=m gen=Begründers pl=Begründer
 Begründerin noun g=f gen=Begründerin pl=Begründerinnen
 Begründung    noun g=f gen=Begründung pl=Begründungen
+Begrüßung noun g=f gen=Begrüßung pl=Begrüßungen note=graded
 Begutachtung noun g=f gen=Begutachtung pl=Begutachtungen
 Behagen noun g=n gen=Behagens pl=- note=no plural
 Behälter noun g=m gen=Behälters pl=Behälter
@@ -320,6 +327,7 @@ Berücksichtigung noun g=f gen=Berücksichtigung pl=- note=no plural
 Beruf         noun g=m gen=Berufs|Berufes pl=Berufe
 Berufseinsteiger noun g=m gen=Berufseinsteigers pl=Berufseinsteiger
 Berufseinsteigerin noun g=f gen=Berufseinsteigerin pl=Berufseinsteigerinnen
+Berufserfahrung noun g=f gen=Berufserfahrung pl=Berufserfahrungen note=graded
 Berufsgenossenschaft noun g=f gen=Berufsgenossenschaft pl=Berufsgenossenschaften
 Berufsschule noun g=f gen=Berufsschule pl=Berufsschulen
 Berufung noun g=f gen=Berufung pl=Berufungen
@@ -422,6 +430,7 @@ Betrüger noun g=m gen=Betrügers pl=Betrüger
 Betrügerin noun g=f gen=Betrügerin pl=Betrügerinnen
 Bett          noun g=n gen=Bettes|Betts pl=Betten
 Bettchen noun g=n gen=Bettchens pl=Bettchen
+Bettdecke noun g=f gen=Bettdecke pl=Bettdecken note=graded
 Bettler noun g=m gen=Bettlers pl=Bettler
 Bettlerin noun g=f gen=Bettlerin pl=Bettlerinnen
 Beule noun g=f gen=Beule pl=Beulen
@@ -556,8 +565,10 @@ Bluetooth noun g=n gen=Bluetooth pl=- note=technology name
 Bluff noun g=m gen=Bluffs pl=Bluffs
 Blume         noun g=f gen=Blume pl=Blumen
 Blumenbeet noun g=n gen=Blumenbeets pl=Blumenbeete
+Blumenkohl noun g=m gen=Blumenkohls pl=- note=graded; mass noun
 Bluse noun g=f gen=Bluse pl=Blusen
 Blut          noun g=n gen=Blutes|Bluts pl=- note=mass noun
+Blutdruck noun g=m gen=Blutdruckes|Blutdrucks pl=- note=graded; mass noun
 Blüte noun g=f gen=Blüte pl=Blüten
 Blütenblatt noun g=n gen=Blütenblattes|Blütenblatts pl=Blütenblätter note=graded
 Blütenstaub noun g=m gen=Blütenstaubs|Blütenstaubes pl=- note=graded; no plural
@@ -655,6 +666,7 @@ Brezel noun g=f gen=Brezel pl=Brezeln
 Brief         noun g=m gen=Briefes|Briefs pl=Briefe
 Briefchen noun g=n gen=Briefchens pl=Briefchen
 Briefing noun g=n gen=Briefings pl=Briefings
+Briefkasten noun g=m gen=Briefkastens pl=Briefkästen note=graded
 Briefmarke noun g=f gen=Briefmarke pl=Briefmarken note=graded
 Briefträger noun g=m gen=Briefträgers pl=Briefträger note=graded
 Briefträgerin noun g=f gen=Briefträgerin pl=Briefträgerinnen
@@ -717,6 +729,7 @@ Büffel noun g=m gen=Büffels pl=Büffel
 Buffet noun g=n gen=Buffets pl=Buffets
 Bug noun g=m gen=Bugs|Buges pl=Buge conf=80 note=ship's bow
 Bügel noun g=m gen=Bügels pl=Bügel
+Bügeleisen noun g=n gen=Bügeleisens pl=Bügeleisen note=graded
 Bühne         noun g=f gen=Bühne pl=Bühnen
 Bühnenbildner noun g=m gen=Bühnenbildners pl=Bühnenbildner
 Bulette noun g=f gen=Bulette pl=Buletten
@@ -747,6 +760,8 @@ Burg          noun g=f gen=Burg pl=Burgen
 Bürge noun g=m gen=Bürgen pl=Bürgen note=guarantor
 Burger noun g=m gen=Burgers pl=Burger
 Bürger        noun g=m gen=Bürgers pl=Bürger
+Bürgeramt noun g=n gen=Bürgeramtes|Bürgeramts pl=Bürgerämter note=graded
+Bürgergeld noun g=n gen=Bürgergeldes|Bürgergelds pl=- note=graded; mass noun
 Bürgerin      noun g=f gen=Bürgerin pl=Bürgerinnen
 Bürgerinitiative noun g=f gen=Bürgerinitiative pl=Bürgerinitiativen
 Bürgermeister noun g=m gen=Bürgermeisters pl=Bürgermeister
@@ -760,6 +775,7 @@ Burgherr noun g=m gen=Burgherrn pl=Burgherren
 Bürgin noun g=f gen=Bürgin pl=Bürginnen
 Bürgschaft noun g=f gen=Bürgschaft pl=Bürgschaften
 Büro noun g=n gen=Büros pl=Büros
+Büroklammer noun g=f gen=Büroklammer pl=Büroklammern note=graded
 Bürokratie noun g=f gen=Bürokratie pl=Bürokratien
 Bursch noun g=m gen=Burschen pl=Burschen conf=85 note=variant of Bursche (older, literary)
 Bursche noun g=m gen=Burschen pl=Burschen

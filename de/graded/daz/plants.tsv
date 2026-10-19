@@ -1,0 +1,10 @@
+# German as a second language (DaZ) graded vocabulary, domain `plants` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · plants
+Baum                     noun   cefr=A2 topic=plants|nature role=prod conf=75 src=ai
+Blatt                    noun   cefr=A2 topic=plants role=prod conf=60 src=ai
+Blume                    noun   cefr=A2 topic=plants role=prod conf=80 src=ai
+Gras                     noun   cefr=A2 topic=plants|nature role=prod conf=60 src=ai
+Pflanze                  noun   cefr=A2 topic=plants role=prod conf=75 src=ai

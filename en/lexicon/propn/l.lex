@@ -1,4 +1,5 @@
 LA            propn abbr note=Los Angeles; also Louisiana
+Labour propn note=graded; British political party
 Labrador propn
 Lagos propn
 Lahore propn

@@ -62,6 +62,7 @@ pantry noun
 pants noun pl_only
 papa noun
 papacy noun
+paparazzo noun pl=paparazzi note=graded; singular of paparazzi
 papaya noun
 paper noun
 paperback noun
@@ -94,6 +95,7 @@ paranoia noun pl=- note=uncountable
 paranoid noun
 parapet noun
 paraphernalia noun pl=- note=uncountable
+paraphrase noun note=graded
 parasite noun
 parasol noun
 paratrooper noun
@@ -105,6 +107,7 @@ parent noun
 parentage noun pl=- note=uncountable
 parenthesis noun pl=parentheses
 parenthood noun pl=- note=uncountable
+parenting noun pl=- note=graded; uncountable
 parish noun
 parishioner noun
 Parisian noun
@@ -180,6 +183,7 @@ patient noun
 patio noun pl=patios
 patriarch noun pl=patriarchs
 patriarchate noun
+patriarchy noun note=graded
 patrician noun
 patrimony noun
 patriot noun
@@ -271,6 +275,7 @@ penny noun pl=pennies|pence
 pension noun
 pensioner noun
 pentagon noun
+pentameter noun note=graded
 pentathlon noun
 penthouse noun
 people noun note=plural peoples means nations; people as plural of person is in the person entry
@@ -402,6 +407,7 @@ picturesqueness noun pl=- note=uncountable
 pie noun
 piece noun
 pier noun
+piercing noun note=graded; body piercing
 piety noun pl=- note=uncountable
 pig noun
 pigeon noun
@@ -507,6 +513,7 @@ pleading noun
 pleasantry noun
 pleasure noun
 plebeian noun
+plebiscite noun note=graded
 pledge noun
 plenary noun
 plenipotentiary noun
@@ -532,12 +539,14 @@ plural noun
 pluralism noun
 plurality noun
 plush noun
+plutocracy noun note=graded
 plutonium noun pl=- note=uncountable
 ply noun
 plywood noun pl=- note=uncountable
 PM noun abbr note=Prime Minister
 pneumonia noun pl=- note=uncountable
 poacher noun
+poaching noun pl=- note=graded; uncountable
 pocket noun
 pocketbook noun
 pod noun
@@ -560,6 +569,7 @@ pole noun
 police noun pl_only note=takes plural agreement: the police are
 policeman noun pl=policemen
 policewoman noun pl=policewomen
+policing noun pl=- note=graded; uncountable
 policy noun
 policyholder noun
 policymaker noun
@@ -576,7 +586,9 @@ polka noun
 poll noun
 pollen noun note=plural pollens: kinds of pollen
 pollinator noun
+polling noun pl=- note=graded; uncountable
 pollock noun pl=pollock|pollocks gb=pollack|pollock
+pollster noun note=graded
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
@@ -586,6 +598,7 @@ polygon noun
 polymer noun
 polymerase noun
 polynomial noun
+polysyndeton noun pl=polysyndeta|polysyndetons conf=85 note=graded; plural unsure
 polytechnic noun
 pomegranate noun
 pomp noun pl=- note=uncountable
@@ -606,6 +619,7 @@ poppy noun
 populace noun
 popularity noun pl=- note=uncountable
 population noun
+populism noun pl=- note=graded; uncountable
 populist noun
 popup noun conf=85 note=also pop-up
 porcelain noun
@@ -653,6 +667,7 @@ postgraduate noun
 postman noun pl=postmen
 postmark noun
 postmaster noun
+postmodernism noun pl=- note=graded; uncountable
 postponement noun
 postseason noun region=US
 postulate noun
@@ -695,6 +710,7 @@ pre-K noun pl=- region=US conf=85 note=pre-kindergarten; also written Pre-K
 preacher noun
 preamble noun
 preauthorization noun gb=preauthorisation|preauthorization
+precarity noun pl=- note=graded; uncountable
 precaution noun
 precedence noun pl=- note=uncountable
 precedent noun
@@ -880,6 +896,7 @@ proofreader noun
 proofreading noun pl=- note=uncountable
 prop noun
 propaganda noun pl=- note=uncountable
+propagandist noun note=graded
 propagation noun pl=- note=uncountable
 propane noun pl=- note=uncountable
 propellant noun

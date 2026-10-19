@@ -97,5 +97,6 @@ funktional adj
 funktionell adj
 furchtbar adj cmp=furchtbarer sup=furchtbarsten
 fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
+furchtlos adj cmp=furchtloser sup=furchtlosesten note=graded
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten
 fürstlich adj

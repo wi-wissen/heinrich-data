@@ -3,40 +3,50 @@
 # lemma[:sense]  pos  fields
 
 # grade 3-4 · celebrations
-candle                   noun   grade=3-4 cefr=A1 topic=celebrations role=prod conf=80 src=ai
 Christmas                propn  grade=3-4 cefr=A1 topic=celebrations role=prod conf=95 src=ai
-costume                  noun   grade=3-4 cefr=A1 topic=celebrations role=prod conf=60 src=ai
 Easter                   propn  grade=3-4 cefr=A1 topic=celebrations role=prod conf=92 src=ai
 ghost                    noun   grade=3-4 cefr=A1 topic=celebrations|fantasy role=prod conf=85 src=ai
 Halloween                propn  grade=3-4 cefr=A1 topic=celebrations role=prod conf=92 src=ai
 party                    noun   grade=3-4 cefr=A1 topic=celebrations role=prod conf=92 src=ai
 present                  noun   grade=3-4 cefr=A1 topic=celebrations role=prod conf=92 src=ai
-pumpkin                  noun   grade=3-4 cefr=A1 topic=celebrations role=prod conf=80 src=ai
-Santa                    propn  grade=3-4 cefr=A1 topic=celebrations role=rec conf=75 src=ai
+Santa                    propn  grade=3-4 cefr=A1 topic=celebrations role=rec conf=75 src=ai|rev
 witch                    noun   grade=3-4 cefr=A1 topic=celebrations|fantasy role=prod conf=85 src=ai
 
 # grade 5-6 · celebrations
 blow                     verb   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai
 bonfire                  noun   grade=5-6 cefr=A2 topic=celebrations|anglophone.uk role=rec conf=60 src=ai
-carnival                 noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
+candle                   noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=70 src=ai|rev
 celebrate                verb   grade=5-6 cefr=A1 topic=celebrations role=prod conf=75 src=ai
 celebration              noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=65 src=ai
 congratulations          intj   grade=5-6 cefr=A2 topic=celebrations|communication role=prod conf=65 src=ai
+costume                  noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
 decorate                 verb   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
-decoration               noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
 festival                 noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=65 src=ai
 firework                 noun   grade=5-6 cefr=A2 topic=celebrations|anglophone.uk role=prod conf=65 src=ai
 gift                     noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
 invitation               noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=75 src=ai
-mask                     noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=55 src=ai|rev
-parade                   noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=55 src=ai|rev
+pumpkin                  noun   grade=5-6 cefr=A2 topic=celebrations|food role=rec conf=55 src=ai|rev
 surprise                 noun   grade=5-6 cefr=A2 topic=celebrations role=prod conf=65 src=ai
+trick                    noun   grade=5-6 cefr=A2 topic=celebrations|fantasy role=prod conf=55 src=ai|rev
 wedding                  noun   grade=5-6 cefr=A2 topic=celebrations role=rec conf=55 src=ai
 
 # grade 7-8 · celebrations
+carnival                 noun   grade=7-8 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
+ceremony                 noun   grade=7-8 cefr=B1 topic=celebrations role=prod conf=60 src=ai|rev
 Christian                adj    grade=7-8 cefr=B1 topic=celebrations role=rec conf=50 src=ai|freq
 Christian                noun   grade=7-8 cefr=B1 topic=celebrations role=rec conf=50 src=ai|freq
 custom                   noun   grade=7-8 cefr=B1 topic=celebrations role=prod conf=65 src=ai|rev
+decoration               noun   grade=7-8 cefr=A2 topic=celebrations role=prod conf=60 src=ai|rev
+mask                     noun   grade=7-8 cefr=A2 topic=celebrations role=prod conf=55 src=ai|rev
+occasion                 noun   grade=7-8 cefr=B1 topic=celebrations role=rec conf=60 src=ai|rev
+parade                   noun   grade=7-8 cefr=A2 topic=celebrations role=prod conf=65 src=ai|rev
 resolution               noun   grade=7-8 cefr=B1 topic=celebrations role=rec conf=50 src=ai|freq
 tradition                noun   grade=7-8 cefr=A2 topic=celebrations role=prod conf=70 src=ai
 traditional              adj    grade=7-8 cefr=A2 topic=celebrations role=prod conf=70 src=ai
+
+# grade 9-10 · celebrations
+anniversary              noun   grade=9-10 cefr=B1 topic=celebrations|family role=prod conf=70 src=ai
+arrangement              noun   grade=9-10 cefr=B1 topic=celebrations role=prod conf=60 src=ai
+feast                    noun   grade=9-10 cefr=B1 topic=celebrations|food role=prod conf=70 src=ai
+heaven                   noun   grade=9-10 cefr=B1 topic=celebrations role=prod conf=65 src=ai|rev
+ritual                   noun   grade=9-10 cefr=B1 topic=celebrations role=prod conf=70 src=ai

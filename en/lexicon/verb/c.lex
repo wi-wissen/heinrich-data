@@ -278,6 +278,7 @@ contemplate verb
 contend verb
 content verb
 contest verb
+contextualize verb gb=contextualise note=graded
 continue verb
 contract verb
 contradict verb

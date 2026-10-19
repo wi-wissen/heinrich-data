@@ -11,6 +11,7 @@ UL            propn abbr note=Underwriters Laboratories
 Ulster        propn
 UN            propn abbr note=United Nations
 UNESCO        propn abbr note=United Nations Educational, Scientific and Cultural Organization
+UNICEF propn abbr note=graded
 Uruguay       propn
 USA           propn abbr note=United States of America
 USACE propn abbr note=US Army Corps of Engineers

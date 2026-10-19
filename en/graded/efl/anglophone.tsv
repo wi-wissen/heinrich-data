@@ -24,8 +24,10 @@ Australia                propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth 
 Australian               adj    grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=65 src=ai
 Australian               noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=60 src=ai
 boomerang                noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
+Canada                   propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=65 src=ai|rev
 Canadian                 adj    grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=60 src=ai
 Canberra                 propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
+India                    propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=prod conf=65 src=ai|rev
 kangaroo                 noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth|animals role=prod conf=65 src=ai|rev
 Melbourne                propn  grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=60 src=ai
 outback                  noun   grade=7-8 cefr=A2 topic=anglophone.commonwealth role=rec conf=65 src=ai
@@ -85,3 +87,50 @@ Thanksgiving             propn  grade=7-8 cefr=A2 topic=anglophone.us role=prod 
 tribe                    noun   grade=7-8 cefr=B1 topic=anglophone.us role=rec conf=65 src=ai
 vacation                 noun   grade=7-8 cefr=A2 topic=anglophone.us role=prod conf=60 src=ai
 Washington               propn  grade=7-8 cefr=A2 topic=anglophone.us role=rec conf=60 src=ai
+
+# grade 9-10 · anglophone
+Victorian                adj    grade=9-10 cefr=B1 topic=anglophone|history role=prod conf=70 src=ai
+
+# grade 9-10 · anglophone.commonwealth
+Delhi                    propn  grade=9-10 cefr=B1 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Johannesburg             propn  grade=9-10 cefr=B1 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Lagos                    propn  grade=9-10 cefr=B1 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Mumbai                   propn  grade=9-10 cefr=B1 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Ottawa                   propn  grade=9-10 cefr=B1 topic=anglophone.commonwealth role=prod conf=70 src=ai
+
+# grade 9-10 · anglophone.uk
+BBC                      propn  grade=9-10 cefr=B1 topic=anglophone.uk|media role=prod conf=70 src=ai
+borough                  noun   grade=9-10 cefr=B1 topic=anglophone.uk role=prod conf=60 src=ai
+NHS                      propn  grade=9-10 cefr=B1 topic=anglophone.uk role=prod conf=70 src=ai
+Tudor                    propn  grade=9-10 cefr=B1 topic=anglophone.uk|history role=prod conf=70 src=ai
+Westminster              propn  grade=9-10 cefr=B1 topic=anglophone.uk role=prod conf=70 src=ai
+
+# grade 9-10 · anglophone.us
+prairie                  noun   grade=9-10 cefr=B1 topic=anglophone.us role=prod conf=70 src=ai
+sheriff                  noun   grade=9-10 cefr=B1 topic=anglophone.us role=prod conf=70 src=ai
+
+# grade 11-13 · anglophone.commonwealth
+Caribbean                adj    grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Caribbean                propn  grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+commonwealth             noun   grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+dominion                 noun   grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Inuit                    adj    grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Inuit                    noun   grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Jamaican                 adj    grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+Nigerian                 adj    grade=11-13 cefr=B2 topic=anglophone.commonwealth role=prod conf=70 src=ai
+
+# grade 11-13 · anglophone.us
+affluence                noun   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+aspiration               noun   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+aspire                   verb   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+Capitol                  propn  grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+destiny                  noun   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+disillusioned            adj    grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+inalienable              adj    grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+individualism            noun   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+manifest                 adj    grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+pursuit                  noun   grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+riches                   noun   grade=11-13 cefr=B2 topic=anglophone.us role=rec conf=65 src=ai|rev
+tenement                 noun   grade=11-13 cefr=B2 topic=anglophone.us role=rec conf=65 src=ai|rev
+tribal                   adj    grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai
+upward                   adj    grade=11-13 cefr=B2 topic=anglophone.us role=prod conf=70 src=ai

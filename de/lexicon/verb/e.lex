@@ -180,7 +180,7 @@ emigrieren verb class=weak pp=emigriert perf=sein
 empfangen verb class=strong 3sg=empfängt past=empfing pp=empfangen subj2=empfinge perf=haben
 empfehlen verb class=strong 3sg=empfiehlt past=empfahl pp=empfohlen subj2=empföhle|empfähle perf=haben refl=acc
 empfinden verb class=strong 3sg=empfindet past=empfand pp=empfunden subj2=empfände perf=haben
-empören verb class=weak pp=empört perf=haben refl=acc
+empören verb class=weak pp=empört perf=haben refl=acc pp_cmp note=graded: Partizip II is a gradable adjective
 enden verb class=weak pp=geendet perf=haben
 endigen verb class=weak pp=geendigt perf=haben style=archaic note=older form of enden
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
@@ -259,7 +259,7 @@ entschlüsseln verb class=weak pp=entschlüsselt perf=haben
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entschwinden verb class=strong 3sg=entschwindet past=entschwand pp=entschwunden subj2=entschwände perf=sein
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
-entsetzen verb class=weak pp=entsetzt perf=haben
+entsetzen verb class=weak pp=entsetzt perf=haben pp_cmp note=graded: Partizip II is a gradable adjective
 entsorgen verb class=weak pp=entsorgt perf=haben
 entspannen verb class=weak pp=entspannt perf=haben refl=acc part1_cmp pp_cmp
 entsperren verb class=weak pp=entsperrt perf=haben

@@ -1,0 +1,35 @@
+# German as a second language (DaZ) graded vocabulary, domain `doctor` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · doctor
+Apotheke                 noun   cefr=A1 topic=doctor|town role=prod conf=90 src=ai
+Arzt                     noun   cefr=A1 topic=doctor|health role=prod conf=98 src=ai
+behandeln                verb   cefr=A2 topic=doctor role=prod conf=60 src=ai
+Behandlung               noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+einnehmen                verb   cefr=A2 topic=doctor role=prod conf=65 src=ai
+impfen                   verb   cefr=A2 topic=doctor role=prod conf=60 src=ai
+Impfung                  noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Krankenhaus              noun   cefr=A1 topic=doctor|town role=prod conf=92 src=ai
+Krankenkasse             noun   cefr=A2 topic=doctor|banking role=prod conf=88 src=ai
+Krankmeldung             noun   cefr=A2 topic=doctor|workplace role=rec conf=65 src=ai
+Krankschreibung          noun   cefr=A2 topic=doctor|workplace role=rec conf=60 src=ai
+Medikament               noun   cefr=A1 topic=doctor role=prod conf=85 src=ai
+Medizin                  noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Operation                noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+Patient                  noun   cefr=A2 topic=doctor role=prod conf=75 src=ai
+Patientin                noun   cefr=A2 topic=doctor role=prod conf=70 src=ai
+Pflaster                 noun   cefr=A2 topic=doctor role=prod conf=65 src=ai
+Praxis                   noun   cefr=A1 topic=doctor role=prod conf=80 src=ai
+Rezept                   noun   cefr=A1 topic=doctor role=rec conf=75 src=ai|rev
+Salbe                    noun   cefr=A2 topic=doctor role=prod conf=55 src=ai
+Sprechstunde             noun   cefr=A2 topic=doctor role=prod conf=75 src=ai
+Spritze                  noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+Tablette                 noun   cefr=A1 topic=doctor role=prod conf=85 src=ai
+Termin                   noun   cefr=A1 topic=doctor|time role=prod conf=95 src=ai
+Tropfen                  noun   cefr=A2 topic=doctor role=prod conf=60 src=ai
+untersuchen              verb   cefr=A2 topic=doctor role=prod conf=75 src=ai
+Untersuchung             noun   cefr=A2 topic=doctor role=prod conf=70 src=ai
+verschreiben             verb   cefr=A2 topic=doctor role=rec conf=60 src=ai
+Ärztin                   noun   cefr=A1 topic=doctor|health role=prod conf=95 src=ai
+Überweisung              noun   cefr=A2 topic=doctor|banking role=prod conf=80 src=ai

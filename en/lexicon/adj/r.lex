@@ -7,6 +7,7 @@ radical adj adv=radically
 radioactive adj
 radiological adj
 ragged adj cmp=more
+rags-to-riches adj attr_only note=graded; hyphenated compound
 rainy adj cmp=er
 rambling adj cmp=more
 rampant adj adv=rampantly
@@ -46,6 +47,7 @@ recreational adj
 rectangular adj
 recurrent adj adv=recurrently
 recursive adj adv=recursively
+recyclable adj note=graded
 red adj cmp=er
 red-haired adj note=haired is not a word of its own
 reddish adj
@@ -74,6 +76,7 @@ relational adj
 relative adj adv=relatively
 relativistic adj
 relaxed adj cmp=more
+relaxing adj cmp=more adv=relaxingly note=graded
 relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
@@ -130,6 +133,7 @@ restless adj cmp=more adv=restlessly
 restorative adj
 restrictive adj cmp=more
 resultant adj
+resulting adj attr_only note=graded
 retail adj
 retaliatory adj
 reticent adj
@@ -145,6 +149,7 @@ reverse adj
 reversible adj
 reviewable adj
 revolutionary adj
+rewarding adj cmp=more adv=rewardingly note=graded
 rhetorical adj adv=rhetorically
 rheumatic adj
 rhythmic adj adv=rhythmically
@@ -154,6 +159,7 @@ rickety adj cmp=more
 ridiculous adj cmp=more adv=ridiculously
 rife adj
 right adj adv=rightly
+right-wing adj note=graded; hyphenated compound; compared as more right-wing
 righteous adj adv=righteously
 rightful adj adv=rightfully
 rigid adj cmp=more adv=rigidly
@@ -175,6 +181,7 @@ Romanesque adj
 Romani adj
 Romanian adj note=demonym or religious name, capitalized
 romantic adj cmp=more adv=romantically
+Romantic adj note=graded; of the Romantic movement; the lowercase adjective romantic is a separate common word
 roomy adj cmp=er
 rostral adj
 rosy adj cmp=er

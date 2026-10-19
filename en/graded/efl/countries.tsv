@@ -43,6 +43,7 @@ Turkish                  adj    grade=5-6 cefr=A1 topic=countries role=prod conf
 
 # grade 7-8 · countries
 accent                   noun   grade=7-8 cefr=A2 topic=countries role=prod conf=70 src=ai
+Africa                   propn  grade=7-8 cefr=A2 topic=countries role=prod conf=60 src=ai|rev
 African                  adj    grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=60 src=ai|freq
 African                  noun   grade=7-8 cefr=A2 topic=countries|anglophone.commonwealth role=rec conf=55 src=ai|freq
 Asian                    adj    grade=7-8 cefr=A2 topic=countries role=rec conf=55 src=ai|freq
@@ -62,3 +63,8 @@ Japanese                 noun   grade=7-8 cefr=A2 topic=countries|language role=
 official                 adj    grade=7-8 cefr=B1 topic=countries role=rec conf=65 src=ai
 population               noun   grade=7-8 cefr=B1 topic=countries role=prod conf=70 src=ai|rev
 Russian                  noun   grade=7-8 cefr=A2 topic=countries role=rec conf=50 src=ai|freq
+worldwide                adj    grade=7-8 cefr=B1 topic=countries role=prod conf=60 src=ai|rev
+worldwide                adv    grade=7-8 cefr=B1 topic=countries role=prod conf=60 src=ai|rev
+
+# grade 9-10 · countries
+territory                noun   grade=9-10 cefr=B1 topic=countries role=prod conf=60 src=ai

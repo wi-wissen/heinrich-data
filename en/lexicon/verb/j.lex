@@ -22,3 +22,4 @@ jumble verb
 jump           verb
 justify        verb
 jut verb
+juxtapose verb note=graded

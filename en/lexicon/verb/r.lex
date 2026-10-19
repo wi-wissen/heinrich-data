@@ -1,6 +1,7 @@
 race verb
 rack verb
 radiate verb
+radicalize verb gb=radicalise note=graded
 radio verb
 rage verb
 raid verb

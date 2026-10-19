@@ -79,6 +79,7 @@ Geburt noun g=f gen=Geburt pl=Geburten
 Geburtsdatum noun g=n gen=Geburtsdatums pl=Geburtsdaten note=graded
 Geburtsort noun g=m gen=Geburtsortes|Geburtsorts pl=Geburtsorte note=graded
 Geburtstag noun g=m gen=Geburtstags|Geburtstages pl=Geburtstage
+Geburtsurkunde noun g=f gen=Geburtsurkunde pl=Geburtsurkunden note=graded
 Gebüsch noun g=n gen=Gebüsches|Gebüschs[rare] pl=Gebüsche
 Gecko noun g=m gen=Geckos pl=Geckos
 Gedächtnis noun g=n gen=Gedächtnisses pl=Gedächtnisse
@@ -135,6 +136,7 @@ Gehege noun g=n gen=Geheges pl=Gehege
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
 Geheimniß noun g=n gen=Geheimnißes pl=Geheimnisse spelling=old style=archaic note=old spelling of Geheimnis
 Geheimrat noun g=m gen=Geheimrats|Geheimrates pl=Geheimräte
+Geheimzahl noun g=f gen=Geheimzahl pl=Geheimzahlen note=graded
 Geheiß noun g=n gen=Geheißes pl=- note=auf jemandes Geheiß; no plural
 Geher noun g=m gen=Gehers pl=Geher
 Geheul noun g=n gen=Geheuls|Geheules pl=- note=mass noun
@@ -254,7 +256,8 @@ Gerät noun g=n gen=Geräts|Gerätes pl=Geräte
 Geräusch noun g=n gen=Geräuschs|Geräusches pl=Geräusche
 Gerechtigkeit noun g=f gen=Gerechtigkeit pl=- note=no plural in use
 Gerede noun g=n gen=Geredes pl=- note=no plural
-Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte
+Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte sense=court note=court of law
+Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte sense=dish note=graded; meal
 Gerichtsbarkeit noun g=f gen=Gerichtsbarkeit pl=Gerichtsbarkeiten
 Gerichtsvollzieher noun g=m gen=Gerichtsvollziehers pl=Gerichtsvollzieher
 Gerichtsvollzieherin noun g=f gen=Gerichtsvollzieherin pl=Gerichtsvollzieherinnen
@@ -331,6 +334,7 @@ Gestirn noun g=n gen=Gestirns|Gestirnes pl=Gestirne
 Gestrüpp noun g=n gen=Gestrüpps pl=Gestrüppe
 Gesuch noun g=n gen=Gesuchs|Gesuches pl=Gesuche
 Gesundheit noun g=f gen=Gesundheit pl=- note=mass noun
+Gesundheitskarte noun g=f gen=Gesundheitskarte pl=Gesundheitskarten note=graded
 Geteiltaufgabe noun g=f gen=Geteiltaufgabe pl=Geteiltaufgaben note=graded
 Getöse noun g=n gen=Getöses pl=- note=no plural
 Getränk noun g=n gen=Getränks|Getränkes pl=Getränke
@@ -403,6 +407,7 @@ Gips noun g=m gen=Gipses pl=Gipse
 Giraffe noun g=f gen=Giraffe pl=Giraffen
 Girlande noun g=f gen=Girlande pl=Girlanden
 Giro noun g=n gen=Giros pl=Giros
+Girokonto noun g=n gen=Girokontos pl=Girokonten|Girokontos[rare] note=graded
 Gitarre noun g=f gen=Gitarre pl=Gitarren
 Gitarrist noun g=m gen=Gitarristen pl=Gitarristen
 Gitarristin noun g=f gen=Gitarristin pl=Gitarristinnen
@@ -537,6 +542,7 @@ Gros noun g=n gen=Gros pl=- note=das Gros: the majority; bare genitive
 Groschen noun g=m gen=Groschens pl=Groschen
 Großbuchstabe noun g=m gen=Großbuchstabens pl=Großbuchstaben note=graded
 Größe noun g=f gen=Größe pl=Größen
+Großeltern noun g=pl note=graded
 Großmutter noun g=f gen=Großmutter pl=Großmütter note=graded
 Großschreibung noun g=f gen=Großschreibung pl=- note=no plural
 Großstadt noun g=f gen=Großstadt pl=Großstädte

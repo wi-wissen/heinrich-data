@@ -1,0 +1,44 @@
+# German as a second language (DaZ) graded vocabulary, domain `authorities` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · authorities
+abmelden                 verb   cefr=A2 topic=authorities role=prod conf=70 src=ai
+Absender                 noun   cefr=A2 topic=authorities|media role=prod conf=70 src=ai
+Amt                      noun   cefr=A1 topic=authorities role=rec conf=60 src=ai
+Angabe                   noun   cefr=A2 topic=authorities role=prod conf=60 src=ai
+ankreuzen                verb   cefr=A1 topic=authorities role=rec conf=70 src=ai
+anmelden                 verb   cefr=A2 topic=authorities|school role=prod conf=90 src=ai
+Anmeldung                noun   cefr=A2 topic=authorities role=prod conf=92 src=ai
+Antrag                   noun   cefr=A2 topic=authorities role=prod conf=88 src=ai
+ausfüllen                verb   cefr=A1 topic=authorities role=prod conf=85 src=ai
+Ausweis                  noun   cefr=A1 topic=authorities role=prod conf=80 src=ai
+beantragen               verb   cefr=A2 topic=authorities role=prod conf=80 src=ai
+Behörde                  noun   cefr=A2 topic=authorities role=prod conf=75 src=ai
+Bescheinigung            noun   cefr=A2 topic=authorities role=prod conf=65 src=ai
+Bestätigung              noun   cefr=A2 topic=authorities role=prod conf=65 src=ai
+Briefmarke               noun   cefr=A2 topic=authorities|media role=prod conf=88 src=ai
+Briefträger              noun   cefr=A2 topic=authorities|media role=prod conf=60 src=ai
+Briefumschlag            noun   cefr=A2 topic=authorities|media role=prod conf=65 src=ai
+Dokument                 noun   cefr=A2 topic=authorities role=prod conf=75 src=ai
+Einschreiben             noun   cefr=A2 topic=authorities|media role=rec conf=55 src=ai
+Empfänger                noun   cefr=A2 topic=authorities|media role=prod conf=65 src=ai
+erlauben                 verb   cefr=A2 topic=authorities|society role=prod conf=75 src=ai
+Feld                     noun   cefr=A2 topic=authorities role=prod conf=55 src=ai
+Formular                 noun   cefr=A1 topic=authorities role=rec conf=85 src=ai
+Kindergeld               noun   cefr=A2 topic=authorities|childcare role=prod conf=70 src=ai
+Ordnung                  noun   cefr=A2 topic=authorities|society role=prod conf=75 src=ai
+Original                 noun   cefr=A2 topic=authorities role=prod conf=55 src=ai
+Paket                    noun   cefr=A2 topic=authorities|media role=prod conf=88 src=ai
+Pass                     noun   cefr=A1 topic=authorities role=prod conf=75 src=ai
+Pflicht                  noun   cefr=A2 topic=authorities|society role=prod conf=55 src=ai
+Päckchen                 noun   cefr=A2 topic=authorities|media role=prod conf=65 src=ai
+Regel                    noun   cefr=A2 topic=authorities|society role=prod conf=75 src=ai
+Umschlag                 noun   cefr=A2 topic=authorities|media role=prod conf=60 src=ai
+unterschreiben           verb   cefr=A1 topic=authorities role=prod conf=70 src=ai
+Unterstützung            noun   cefr=A2 topic=authorities role=prod conf=60 src=ai
+verbieten                verb   cefr=A2 topic=authorities|society role=prod conf=70 src=ai
+Verbot                   noun   cefr=A2 topic=authorities|society role=rec conf=55 src=ai
+verwitwet                adj    cefr=A2 topic=authorities|self role=rec conf=55 src=ai
+Visum                    noun   cefr=A2 topic=authorities|integration|travel role=prod conf=70 src=ai
+Wohnsitz                 noun   cefr=A2 topic=authorities role=rec conf=60 src=ai

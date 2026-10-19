@@ -35,3 +35,7 @@ repositories and their own scratch directory.
 |---|---|---|---|---|
 | 2026-10-19 | reviewer round 1 (separate session; one reference outside the repos, deleted afterwards) | whole layer | – | aggregate statistics and patterns only (verbatim log handed to the project owner) |
 | 2026-10-19 | revision round 1 | `en-efl-3-4`, `en-efl-5-6`, `en-efl-7-8` | patterns and per-topic numbers (verbatim in the run logs) | 3-4: rarer animals/toys/food moved out of A1, core A1 and function words added; 5-6: A2 460 → 890 lines; 7-8: 73 lines A2 → B1, +144 lines; layer: 3,169 lexemes, `graded validate` 0 errors, 0 warnings |
+| 2026-10-19 | revision round 2 (final; no further measurement against these references) | `en-efl-3-4`, `en-efl-5-6`, `en-efl-7-8`, `en-moved` | patterns and numbers of the second measurement (verbatim in the run logs) | see run logs |
+| 2026-10-19 | sequential bands with a checker | `en-efl-9-10` (B1/B2), `en-efl-11-13` (B2, receptive C1), `en-lower` | lower bands as "already introduced"; a checker (faster model, own knowledge only) reviewed each band, the author accepted or rejected each remark with a reason | 9-10: 1,800 lines; 11-13: 2,740 lines; 142 lines handed to lower bands |
+| 2026-10-19 | lexicon round 2 | `lex-en-2` (faster model) | the authors' remaining work lists | 416 lexicon entries (`note=graded`), `validate` 0 errors |
+| 2026-10-19 | merge | efl | mechanical | 50 files, 8,152 rows, 8,003 lexemes (3-4: 823, 5-6: 1,160, 7-8: 1,379, 9-10: 1,894, 11-13: 2,747); `graded validate` 0 errors, 0 warnings |

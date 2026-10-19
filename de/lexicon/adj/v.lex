@@ -46,6 +46,7 @@ verklärt adj
 verklebt adj cmp=verklebter sup=verklebtesten
 verknittert adj
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
+verlegen adj cmp=verlegener sup=verlegensten note=graded; embarrassed (verb verlegen is separate)
 verliebt adj cmp=verliebter sup=verliebtesten
 verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
@@ -64,6 +65,7 @@ verschneit adj
 verschnupft adj
 verschollen adj
 verschuldet adj
+verschwenderisch adj cmp=verschwenderischer sup=verschwenderischsten note=graded
 verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
 versehentlich adj
@@ -94,6 +96,7 @@ viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
 vielseitig adj cmp=vielseitiger sup=vielseitigsten
+viereckig adj note=graded
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 violett adj
 viral adj
@@ -121,6 +124,7 @@ vorhanden adj
 vorherig adj
 vorig adj
 vorläufig adj
+vorlaut adj cmp=vorlauter sup=vorlautesten note=graded
 vorletzt adj attr_only
 vormalig adj attr_only
 vornehm adj cmp=vornehmer sup=vornehmsten

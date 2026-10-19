@@ -1,0 +1,47 @@
+# German as a second language (DaZ) graded vocabulary, domain `feelings` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · feelings
+Angst                    noun   cefr=A2 topic=feelings role=prod conf=88 src=ai
+aufgeregt                adj    cefr=A2 topic=feelings role=prod conf=65 src=ai
+aufregen                 verb   cefr=A2 topic=feelings role=prod conf=60 src=ai
+böse                     adj    cefr=A2 topic=feelings role=prod conf=70 src=ai
+durstig                  adj    cefr=A2 topic=feelings|food role=prod conf=55 src=ai
+einsam                   adj    cefr=A2 topic=feelings role=prod conf=65 src=ai
+enttäuscht               adj    cefr=A2 topic=feelings role=prod conf=65 src=ai
+fit                      adj    cefr=A2 topic=feelings|health role=prod conf=70 src=ai
+Freude                   noun   cefr=A2 topic=feelings role=prod conf=75 src=ai
+froh                     adj    cefr=A1 topic=feelings role=prod conf=70 src=ai
+Gefühl                   noun   cefr=A2 topic=feelings role=prod conf=75 src=ai
+gestresst                adj    cefr=A2 topic=feelings role=prod conf=65 src=ai
+Glück                    noun   cefr=A2 topic=feelings role=prod conf=85 src=ai
+glücklich                adj    cefr=A1 topic=feelings role=prod conf=70 src=ai
+Heimweh                  noun   cefr=A2 topic=feelings|integration role=prod conf=70 src=ai
+Hoffnung                 noun   cefr=A2 topic=feelings role=prod conf=60 src=ai
+hungrig                  adj    cefr=A2 topic=feelings|food role=prod conf=60 src=ai
+langweilen               verb   cefr=A2 topic=feelings role=prod conf=55 src=ai
+Laune                    noun   cefr=A2 topic=feelings role=prod conf=65 src=ai
+Liebe                    noun   cefr=A2 topic=feelings role=prod conf=75 src=ai
+lieben                   verb   cefr=A1 topic=feelings role=prod conf=75 src=ai
+Lust                     noun   cefr=A1 topic=feelings role=prod conf=65 src=ai
+lustig                   adj    cefr=A1 topic=feelings role=prod conf=65 src=ai|rev
+lächeln                  verb   cefr=A2 topic=feelings role=prod conf=65 src=ai
+Pech                     noun   cefr=A2 topic=feelings role=prod conf=65 src=ai
+satt                     adj    cefr=A2 topic=feelings|food role=prod conf=75 src=ai
+Sorge                    noun   cefr=A2 topic=feelings role=prod conf=75 src=ai
+Spaß                     noun   cefr=A1 topic=feelings role=prod conf=75 src=ai|rev
+Stress                   noun   cefr=A2 topic=feelings role=prod conf=80 src=ai
+traurig                  adj    cefr=A1 topic=feelings role=prod conf=70 src=ai|rev
+unzufrieden              adj    cefr=A2 topic=feelings role=prod conf=60 src=ai
+verlieben                verb   cefr=A2 topic=feelings|people role=prod conf=70 src=ai
+verliebt                 adj    cefr=A2 topic=feelings role=prod conf=70 src=ai
+vermissen                verb   cefr=A2 topic=feelings|integration role=prod conf=75 src=ai
+weinen                   verb   cefr=A2 topic=feelings role=prod conf=75 src=ai
+Witz                     noun   cefr=A2 topic=feelings role=prod conf=60 src=ai
+wütend                   adj    cefr=A2 topic=feelings role=prod conf=70 src=ai
+zufrieden                adj    cefr=A2 topic=feelings role=prod conf=75 src=ai
+Ärger                    noun   cefr=A2 topic=feelings role=prod conf=65 src=ai
+ärgern                   verb   cefr=A2 topic=feelings role=prod conf=75 src=ai
+überrascht               adj    cefr=A2 topic=feelings role=prod conf=65 src=ai
+Überraschung             noun   cefr=A2 topic=feelings role=prod conf=70 src=ai

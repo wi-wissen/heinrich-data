@@ -20,6 +20,7 @@ gear           verb
 gel verb
 generalize verb gb=generalise|generalize
 generate       verb
+gentrify verb note=graded
 gesticulate verb
 gesture        verb
 get            verb past=got pp=got|gotten[US]
@@ -37,6 +38,7 @@ glimpse        verb
 glint verb
 glisten verb
 glitter        verb
+globalize verb gb=globalise note=graded
 glorify verb
 glory          verb
 gloss verb

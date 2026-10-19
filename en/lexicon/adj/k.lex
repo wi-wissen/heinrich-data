@@ -1,5 +1,6 @@
 Kazakh adj
 keen           adj cmp=er adv=keenly
+Kenyan adj note=graded
 key            adj attr_only
 khaki adj
 Khmer adj

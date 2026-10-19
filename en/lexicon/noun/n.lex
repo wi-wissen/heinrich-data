@@ -7,6 +7,7 @@ nameplate noun
 namesake      noun
 nan noun region=GB style=colloquial note=grandmother; also naan bread
 nana noun style=colloquial note=grandmother
+nanotechnology noun pl=- note=graded; uncountable
 nap noun
 napkin noun
 nappy noun region=GB note=US diaper
@@ -22,6 +23,8 @@ nationalist   noun
 nationality   noun
 nationalization noun gb=nationalisation|nationalization
 native        noun
+nativism noun pl=- note=graded; uncountable
+nativist noun note=graded
 nativity noun
 naturalist    noun
 naturalization noun gb=naturalisation|naturalization
@@ -65,8 +68,10 @@ neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
 neo-Nazi noun
+neocolonialism noun pl=- note=graded; uncountable
 neoliberal noun
 neoliberalism noun pl=- note=uncountable
+neologism noun note=graded
 neon noun pl=- note=uncountable
 nephew        noun
 nerve         noun
@@ -93,6 +98,7 @@ newscast noun
 newsdesk noun
 newsletter noun
 newspaper     noun
+newspeak noun pl=- note=graded; uncountable; from Orwell, also capitalized Newspeak
 newsroom noun
 newt noun
 newton        noun note=SI unit of force
@@ -139,8 +145,10 @@ nomenclature noun
 nomination    noun
 nominative noun
 nominee       noun
+non-fiction noun pl=- note=graded; hyphenated spelling of nonfiction
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
+nonconformist noun note=graded
 nondiscrimination noun pl=- conf=90 note=uncountable; also non-discrimination
 nonfiction noun pl=- note=uncountable
 nonimmigrant  noun

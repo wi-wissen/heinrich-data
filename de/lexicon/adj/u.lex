@@ -21,6 +21,7 @@ umliegend adj attr_only note=die umliegenden Dörfer
 umseitig adj
 umständlich adj cmp=umständlicher sup=umständlichsten
 umstritten adj cmp=umstrittener sup=umstrittensten
+umweltfreundlich adj cmp=umweltfreundlicher sup=umweltfreundlichsten note=graded
 unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
@@ -42,6 +43,7 @@ unbekümmert adj cmp=unbekümmerter sup=unbekümmertsten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
 unbemannt adj
 unbemerkt adj
+unbequem adj cmp=unbequemer sup=unbequemsten note=graded
 unberücksichtigt adj
 unberührt adj
 unbeschreiblich adj
@@ -74,6 +76,7 @@ ungarisch adj
 ungeduldig adj
 ungeeignet adj cmp=ungeeigneter sup=ungeeignetsten
 ungefähr adj
+ungefährlich adj cmp=ungefährlicher sup=ungefährlichsten note=graded
 ungeheuer adj attr=ungeheure cmp=ungeheurer sup=ungeheuersten
 ungehindert adj
 ungeklärt adj
@@ -83,6 +86,7 @@ ungenau adj
 ungenügend adj
 ungerade adj
 ungerecht adj cmp=ungerechter sup=ungerechtesten
+ungeschickt adj cmp=ungeschickter sup=ungeschicktesten note=graded
 ungestört adj
 ungestüm adj cmp=ungestümer sup=ungestümsten
 ungesund adj cmp=ungesünder|ungesunder sup=ungesündesten|ungesundesten note=graded; comparison as for gesund
@@ -117,6 +121,7 @@ unparteiisch adj cmp=unparteiischer sup=unparteiischsten
 unpünktlich adj cmp=unpünktlicher sup=unpünktlichsten
 unrecht adj
 unregelmäßig adj
+unreif adj cmp=unreifer sup=unreifsten note=graded
 unrentabel adj
 unrichtig adj
 unruhig adj
@@ -172,6 +177,7 @@ unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj
 unzutreffend adj
+unzuverlässig adj cmp=unzuverlässiger sup=unzuverlässigsten note=graded
 unzweifelhaft adj
 üppig adj cmp=üppiger sup=üppigsten
 uralt adj

@@ -128,6 +128,7 @@ Insulin noun g=n gen=Insulins pl=- note=mass noun
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
 Integral noun g=n gen=Integrals pl=Integrale
 Integration noun g=f gen=Integration pl=- note=plural not used
+Integrationskurs noun g=m gen=Integrationskurses pl=Integrationskurse note=graded
 Integrität noun g=f gen=Integrität pl=- note=mass noun
 Intellektuelle noun g=m|f decl=adj
 Intelligenz noun g=f gen=Intelligenz pl=- note=also Intelligenzen (types) rare

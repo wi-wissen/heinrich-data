@@ -50,6 +50,7 @@ joblessness noun pl=- note=uncountable
 jobseeker noun conf=85 note=also job seeker
 jockey noun
 joey noun note=young kangaroo
+jogging noun pl=- note=graded; uncountable
 joint          noun
 joke           noun
 joker noun

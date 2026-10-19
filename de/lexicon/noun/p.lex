@@ -160,9 +160,11 @@ Peripherie noun g=f gen=Peripherie pl=Peripherien
 Perkussion noun g=f gen=Perkussion pl=Perkussionen
 Perle noun g=f gen=Perle pl=Perlen
 Perser noun g=m gen=Persers pl=Perser
+Persisch noun g=n gen=Persisch|Persischs pl=- conf=80 note=graded; the Persian language; genitive normally avoided (des Persischen)
 Perso noun g=m gen=Persos pl=Persos style=colloquial note=Personalausweis
 Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals|Personales[rare] pl=Personale[rare] note=mass noun (staff); plural rare
+Personalausweis noun g=m gen=Personalausweises pl=Personalausweise note=graded
 Personaler noun g=m gen=Personalers pl=Personaler
 Personalerin noun g=f gen=Personalerin pl=Personalerinnen
 Personalform noun g=f gen=Personalform pl=Personalformen note=graded
@@ -281,6 +283,7 @@ Pilot noun g=m gen=Piloten pl=Piloten
 Pilotin noun g=f gen=Pilotin pl=Pilotinnen
 Pilz noun g=m gen=Pilzes pl=Pilze
 Pilzsammler noun g=m gen=Pilzsammlers pl=Pilzsammler
+PIN noun g=f gen=PIN pl=PINs note=graded; Persönliche Identifikationsnummer (die PIN)
 Pinguin noun g=m gen=Pinguins pl=Pinguine
 Pinnwand noun g=f gen=Pinnwand pl=Pinnwände
 Pinsel noun g=m gen=Pinsels pl=Pinsel
@@ -367,6 +370,7 @@ Polizist noun g=m gen=Polizisten pl=Polizisten
 Polizistin noun g=f gen=Polizistin pl=Polizistinnen
 Polkappe noun g=f gen=Polkappe pl=Polkappen
 Pollen noun g=m gen=Pollens pl=Pollen
+Polnisch noun g=n gen=Polnisch|Polnischs pl=- conf=80 note=graded; the Polish language; genitive normally avoided (des Polnischen)
 Polster noun g=n gen=Polsters pl=Polster
 Polytechnikum noun g=n gen=Polytechnikums pl=Polytechniken|Polytechnika
 Pommes noun g=pl
@@ -495,6 +499,7 @@ Proband noun g=m gen=Probanden pl=Probanden
 Probandin noun g=f gen=Probandin pl=Probandinnen
 Probe noun g=f gen=Probe pl=Proben
 Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling); Nahme is not a word
+Probezeit noun g=f gen=Probezeit pl=Probezeiten note=graded
 Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
@@ -618,6 +623,7 @@ Putsch noun g=m gen=Putsches|Putschs pl=Putsche
 Putte noun g=f gen=Putte pl=Putten
 Putto noun g=m gen=Puttos pl=Putten|Putti
 Putz noun g=m gen=Putzes pl=- note=plaster; mass noun
+Putzfrau noun g=f gen=Putzfrau pl=Putzfrauen note=graded
 Puzzle noun g=n gen=Puzzles pl=Puzzles|Puzzle
 Pyjama noun g=m gen=Pyjamas pl=Pyjamas
 Pyramide noun g=f gen=Pyramide pl=Pyramiden

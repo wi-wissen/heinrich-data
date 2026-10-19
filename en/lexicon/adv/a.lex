@@ -1,6 +1,7 @@
 aback adv type=manner note=taken aback
 abreast adv
 abroad adv type=place
+admittedly adv type=degree note=graded; sentence adverb
 afar adv
 afield adv type=place
 afloat adv

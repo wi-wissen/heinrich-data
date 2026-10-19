@@ -21,6 +21,7 @@ Niederschlesien propn g=n gen=Niederschlesiens pl=- note=proper name; no plural
 Niger propn g=m gen=Niger|Nigers pl=- note=der Niger (river, country)
 Nigeria propn g=n gen=Nigerias pl=- note=proper name; no plural
 Nizza propn g=n gen=Nizzas pl=- note=proper name; no plural
+Noah propn g=m gen=Noahs pl=- note=graded; biblical figure (religion subject term)
 Nordafrika propn g=n gen=Nordafrikas pl=- note=proper name; no plural
 Nordamerika propn g=n gen=Nordamerikas pl=- note=proper name; no plural
 Nordeuropa propn g=n gen=Nordeuropas pl=- note=proper name; no plural

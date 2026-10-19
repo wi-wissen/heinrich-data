@@ -71,6 +71,7 @@ noon                     noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf
 p.m.                     x      grade=5-6 cefr=A2 topic=time.clock role=prod conf=60 src=ai
 quarter                  noun   grade=5-6 cefr=A1 topic=time.clock role=prod conf=80 src=ai
 routine                  noun   grade=5-6 cefr=A2 topic=time.clock role=rec conf=60 src=ai
+sleep                    noun   grade=5-6 cefr=A2 topic=time.clock|health role=prod conf=55 src=ai|rev
 
 # grade 5-6 · time.relations
 afterwards               adv    grade=5-6 cefr=A2 topic=time.relations role=prod conf=65 src=ai
@@ -79,16 +80,14 @@ daily                    adv    grade=5-6 cefr=A2 topic=time.relations role=rec 
 end                      noun   grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
 future                   noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
 last                     num    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
-later                    adv    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
 moment                   noun   grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
 past                     noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=60 src=ai
 start                    noun   grade=5-6 cefr=A2 topic=time.relations role=prod conf=55 src=ai
 till                     adp    grade=5-6 cefr=A2 topic=time.relations role=prod conf=60 src=ai|freq
-tonight                  adv    grade=5-6 cefr=A1 topic=time.relations role=prod conf=70 src=ai
 weekly                   adv    grade=5-6 cefr=A2 topic=time.relations role=rec conf=55 src=ai|rev
 
 # grade 7-8 · time.relations
-ancient                  adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+ancient                  adj    grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai|rev
 annual                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
 current                  adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=70 src=ai
 daily                    adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
@@ -101,7 +100,7 @@ immediate                adj    grade=7-8 cefr=B1 topic=time.relations role=rec 
 latest                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
 modern                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=65 src=ai
 monthly                  adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
-period                   noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+period                   noun   grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai|rev
 permanent                adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
 present                  noun   grade=7-8 cefr=A2 topic=time.relations role=prod conf=60 src=ai
 previous                 adj    grade=7-8 cefr=B1 topic=time.relations role=prod conf=70 src=ai
@@ -109,3 +108,38 @@ recent                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod
 sudden                   adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=50 src=ai|freq
 temporary                adj    grade=7-8 cefr=B1 topic=time.relations role=rec conf=65 src=ai
 weekly                   adj    grade=7-8 cefr=A2 topic=time.relations role=prod conf=70 src=ai
+yearly                   adj    grade=7-8 cefr=B1 topic=time.relations role=prod conf=65 src=ai|rev
+
+# grade 9-10 · time
+postpone                 verb   grade=9-10 cefr=B1 topic=time role=prod conf=65 src=ai|rev
+
+# grade 9-10 · time.relations
+circumstance             noun   grade=9-10 cefr=B2 topic=time.relations role=rec conf=65 src=ai
+duration                 noun   grade=9-10 cefr=B1 topic=time.relations|numbers role=prod conf=70 src=ai
+halfway                  adv    grade=9-10 cefr=B1 topic=time.relations role=prod conf=65 src=ai|rev
+latter                   adj    grade=9-10 cefr=B1 topic=time.relations|academic role=prod conf=60 src=ai
+lifetime                 noun   grade=9-10 cefr=B1 topic=time.relations|identity role=prod conf=70 src=ai
+occasional               adj    grade=9-10 cefr=B1 topic=time.relations role=prod conf=70 src=ai
+prior                    adj    grade=9-10 cefr=B1 topic=time.relations|academic role=prod conf=60 src=ai
+sequence                 noun   grade=9-10 cefr=B1 topic=time.relations role=prod conf=70 src=ai
+simultaneous             adj    grade=9-10 cefr=B1 topic=time.relations role=prod conf=70 src=ai
+subsequent               adj    grade=9-10 cefr=B1 topic=time.relations|academic role=prod conf=60 src=ai
+timeline                 noun   grade=9-10 cefr=B1 topic=time.relations|history role=prod conf=70 src=ai
+
+# grade 11-13 · time
+eternity                 noun   grade=11-13 cefr=B2 topic=time role=rec conf=65 src=ai|rev
+
+# grade 11-13 · time.relations
+afar                     adv    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+beforehand               adv    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+concurrent               adj    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+contingency              noun   grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+halfway                  adj    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+hiatus                   noun   grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+inception                noun   grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+instantaneous            adj    grade=11-13 cefr=B2 topic=time.relations role=prod conf=55 src=ai
+interruption             noun   grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+midway                   adv    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+precede                  verb   grade=11-13 cefr=B2 topic=time.relations role=prod conf=65 src=ai|rev
+untimely                 adj    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai
+voluntarily              adv    grade=11-13 cefr=B2 topic=time.relations role=prod conf=70 src=ai

@@ -1,0 +1,35 @@
+# German as a second language (DaZ) graded vocabulary, domain `workplace` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · workplace
+Abteilung                noun   cefr=A2 topic=workplace role=prod conf=60 src=ai
+Arbeitszeit              noun   cefr=A2 topic=workplace role=prod conf=80 src=ai
+Baustelle                noun   cefr=A2 topic=workplace|traffic role=prod conf=70 src=ai
+bedienen                 verb   cefr=A2 topic=workplace role=prod conf=55 src=ai
+Besprechung              noun   cefr=A2 topic=workplace role=prod conf=65 src=ai
+Betrieb                  noun   cefr=A2 topic=workplace role=prod conf=70 src=ai
+brutto                   adv    cefr=A2 topic=workplace|money role=rec conf=55 src=ai
+Drucker                  noun   cefr=A2 topic=workplace|computing.devices role=prod conf=65 src=ai
+Fabrik                   noun   cefr=A2 topic=workplace role=prod conf=75 src=ai
+Gehalt:salary            noun   cefr=A2 topic=workplace|money role=prod conf=85 src=ai
+Gerät                    noun   cefr=A2 topic=workplace role=prod conf=70 src=ai
+Kunde                    noun   cefr=A2 topic=workplace|shopping role=prod conf=85 src=ai
+Kundin                   noun   cefr=A2 topic=workplace|shopping role=prod conf=75 src=ai
+Lager                    noun   cefr=A2 topic=workplace role=prod conf=60 src=ai
+liefern                  verb   cefr=A2 topic=workplace|shopping role=prod conf=65 src=ai
+Lohn                     noun   cefr=A2 topic=workplace|money role=prod conf=85 src=ai
+Maschine                 noun   cefr=A2 topic=workplace role=prod conf=75 src=ai
+netto                    adv    cefr=A2 topic=workplace|money role=rec conf=55 src=ai
+organisieren             verb   cefr=A2 topic=workplace role=prod conf=65 src=ai
+Projekt                  noun   cefr=A2 topic=workplace role=prod conf=60 src=ai
+Rente                    noun   cefr=A2 topic=workplace|banking role=prod conf=70 src=ai
+Rentner                  noun   cefr=A2 topic=workplace|people role=prod conf=70 src=ai
+Rentnerin                noun   cefr=A2 topic=workplace|people role=prod conf=60 src=ai
+Schicht                  noun   cefr=A2 topic=workplace role=prod conf=88 src=ai
+Steuer:tax               noun   cefr=A2 topic=workplace|authorities role=prod conf=65 src=ai
+Team                     noun   cefr=A2 topic=workplace role=prod conf=70 src=ai
+Unternehmen              noun   cefr=A2 topic=workplace role=prod conf=60 src=ai
+unterstützen             verb   cefr=A2 topic=workplace role=prod conf=60 src=ai
+Werkstatt                noun   cefr=A2 topic=workplace role=prod conf=70 src=ai
+Überstunde               noun   cefr=A2 topic=workplace role=prod conf=75 src=ai

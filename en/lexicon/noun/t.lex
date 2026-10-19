@@ -166,6 +166,7 @@ testament noun
 testator noun
 testimonial noun
 testimony noun
+testing noun pl=- note=graded; uncountable
 testosterone noun pl=- note=uncountable
 tether noun
 tetrapod noun
@@ -206,6 +207,7 @@ thorn noun
 thoroughbred noun
 thoroughfare noun
 thought noun
+thoughtcrime noun note=graded; from Orwell
 thoughtfulness noun pl=- note=uncountable
 thrash noun
 thread noun
@@ -344,6 +346,7 @@ torus noun pl=tori|toruses
 Tory noun
 tot noun
 total noun
+totalitarianism noun pl=- note=graded; uncountable
 totality noun
 totem noun
 totemism noun pl=- note=uncountable
@@ -380,6 +383,7 @@ trachea noun pl=tracheae|tracheas
 track noun
 trackage noun pl=- note=uncountable
 tracker noun
+tracking noun pl=- note=graded; uncountable
 trackpad noun
 tracksuit noun
 tract noun
@@ -392,7 +396,9 @@ tradesman noun pl=tradesmen
 tradition noun
 traffic noun pl=- note=uncountable
 trafficker noun
+trafficking noun pl=- note=graded; uncountable
 tragedy noun
+tragicomedy noun note=graded
 trail noun
 trailer noun
 train noun
@@ -421,6 +427,7 @@ transformation noun
 transformer noun
 transfusion noun
 transgression noun
+transhumanism noun pl=- note=graded; uncountable
 transient noun
 transistor noun
 transit noun
@@ -493,7 +500,9 @@ triplicate noun pl=- note=in triplicate
 tripod noun
 triumph noun
 Trojan noun
+troll noun note=graded; internet troll; also the mythical creature
 trolley noun
+trolling noun pl=- note=graded; uncountable
 trombone noun
 troop noun
 trooper noun

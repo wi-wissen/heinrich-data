@@ -158,7 +158,9 @@ Regelung noun g=f gen=Regelung pl=Regelungen
 Regen noun g=m gen=Regens pl=- note=mass noun; Regenfälle for the plural
 Regenbogen noun g=m gen=Regenbogens pl=Regenbogen|Regenbögen note=graded
 Regeneration noun g=f gen=Regeneration pl=Regenerationen
+Regenjacke noun g=f gen=Regenjacke pl=Regenjacken note=graded
 Regenmesser noun g=m gen=Regenmessers pl=Regenmesser note=graded
+Regenschirm noun g=m gen=Regenschirms|Regenschirmes pl=Regenschirme note=graded
 Regent noun g=m gen=Regenten pl=Regenten
 Regentin noun g=f gen=Regentin pl=Regentinnen
 Regentschaft noun g=f gen=Regentschaft pl=Regentschaften
@@ -202,10 +204,13 @@ Reinette noun g=f gen=Reinette pl=Reinetten
 Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
 Reinigung noun g=f gen=Reinigung pl=Reinigungen
+Reinigungskraft noun g=f gen=Reinigungskraft pl=Reinigungskräfte note=graded
 Reinlichkeit noun g=f gen=Reinlichkeit pl=- note=mass noun
 Reis noun g=m gen=Reises pl=- note=rice; mass noun
 Reise noun g=f gen=Reise pl=Reisen
+Reisebüro noun g=n gen=Reisebüros pl=Reisebüros note=graded
 Reisende noun g=m|f decl=adj note=der/die Reisende
+Reisepass noun g=m gen=Reisepasses pl=Reisepässe note=graded
 Reisig noun g=n gen=Reisigs pl=- note=mass noun, no plural
 Reißverschluss noun g=m gen=Reißverschlusses pl=Reißverschlüsse
 Reißzwecke noun g=f gen=Reißzwecke pl=Reißzwecken note=the analyser would take Zweck as head
@@ -331,6 +336,7 @@ Riese noun g=m gen=Riesen pl=Riesen
 Riff noun g=n gen=Riffes|Riffs pl=Riffe
 Rind noun g=n gen=Rindes|Rinds pl=Rinder
 Rinde noun g=f gen=Rinde pl=Rinden
+Rindfleisch noun g=n gen=Rindfleisches|Rindfleischs pl=- note=graded; mass noun
 Ring noun g=m gen=Ringes|Rings pl=Ringe
 Ringelnatter noun g=f gen=Ringelnatter pl=Ringelnattern
 Ringer noun g=m gen=Ringers pl=Ringer
@@ -403,6 +409,7 @@ Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
 Rücken noun g=m gen=Rückens pl=Rücken
+Rückenschmerzen noun g=pl note=graded; plural only (back pain)
 Rückenschwimmen noun g=n gen=Rückenschwimmens pl=- note=graded; swimming style; no verb rückenschwimmen in standard use
 Rückfahrt noun g=f gen=Rückfahrt pl=Rückfahrten
 Rückgabe noun g=f gen=Rückgabe pl=Rückgaben
@@ -418,6 +425,7 @@ Rücklicht noun g=n gen=Rücklichts|Rücklichtes pl=Rücklichter
 Rückmeldung noun g=f gen=Rückmeldung pl=Rückmeldungen note=graded
 Rücknahme noun g=f gen=Rücknahme pl=Rücknahmen
 Rückreise noun g=f gen=Rückreise pl=Rückreisen
+Rucksack noun g=m gen=Rucksacks|Rucksackes pl=Rucksäcke note=graded
 Rückseite noun g=f gen=Rückseite pl=Rückseiten
 Rücksicht noun g=f gen=Rücksicht pl=Rücksichten
 Rücksichtnahme noun g=f gen=Rücksichtnahme pl=- note=abstract noun, no plural

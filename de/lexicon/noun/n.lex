@@ -31,11 +31,14 @@ Nachrichtensendung noun g=f gen=Nachrichtensendung pl=Nachrichtensendungen
 Nachschlagewerk noun g=n gen=Nachschlagewerks|Nachschlagewerkes pl=Nachschlagewerke
 Nachschub noun g=m gen=Nachschubs|Nachschubes pl=Nachschübe
 Nachsilbe noun g=f gen=Nachsilbe pl=Nachsilben
+Nachspeise noun g=f gen=Nachspeise pl=Nachspeisen note=graded
 Nächstenliebe noun g=f gen=Nächstenliebe pl=- note=no plural
 Nacht noun g=f gen=Nacht pl=Nächte
 Nachteil noun g=m gen=Nachteils|Nachteiles pl=Nachteile
 Nachtigall noun g=f gen=Nachtigall pl=Nachtigallen
+Nachtisch noun g=m gen=Nachtischs|Nachtisches pl=Nachtische note=graded
 Nachtrag noun g=m gen=Nachtrags|Nachtrages pl=Nachträge
+Nachtschicht noun g=f gen=Nachtschicht pl=Nachtschichten note=graded
 Nachverfolgung noun g=f gen=Nachverfolgung pl=Nachverfolgungen
 Nachweis noun g=m gen=Nachweises pl=Nachweise
 Nachwort noun g=n gen=Nachworts|Nachwortes pl=Nachworte
@@ -88,6 +91,7 @@ Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
 Nebenfluss noun g=m gen=Nebenflusses pl=Nebenflüsse note=graded
 Nebenhandlung noun g=f gen=Nebenhandlung pl=Nebenhandlungen
+Nebenkosten noun g=pl note=graded; plural only
 Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
 Nebenstraße noun g=f gen=Nebenstraße pl=Nebenstraßen
 Neffe noun g=m gen=Neffen pl=Neffen
@@ -175,14 +179,18 @@ Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Not noun g=f gen=Not pl=Nöte
 Notar noun g=m gen=Notars pl=Notare
 Notarin noun g=f gen=Notarin pl=Notarinnen
+Notarzt noun g=m gen=Notarztes|Notarzts pl=Notärzte note=graded
+Notaufnahme noun g=f gen=Notaufnahme pl=Notaufnahmen note=graded
 Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
 Noten noun g=pl
 Notenlinie noun g=f gen=Notenlinie pl=Notenlinien note=graded
 Notenschlüssel noun g=m gen=Notenschlüssels pl=Notenschlüssel note=graded
+Notfall noun g=m gen=Notfalls|Notfalles pl=Notfälle note=graded
 Notifizierung noun g=f gen=Notifizierung pl=Notifizierungen
 Notiz noun g=f gen=Notiz pl=Notizen
 Notizbuch noun g=n gen=Notizbuchs|Notizbuches pl=Notizbücher
+Notruf noun g=m gen=Notrufs|Notrufes pl=Notrufe note=graded
 Notwendigkeit noun g=f gen=Notwendigkeit pl=Notwendigkeiten
 Nougat noun g=m|n gen=Nougats pl=Nougats
 Novelle noun g=f gen=Novelle pl=Novellen

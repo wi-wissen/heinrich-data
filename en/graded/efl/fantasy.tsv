@@ -24,16 +24,19 @@ magic                    adj    grade=5-6 cefr=A2 topic=fantasy role=prod conf=5
 magic                    noun   grade=5-6 cefr=A2 topic=fantasy role=prod conf=60 src=ai|rev
 pirate                   noun   grade=5-6 cefr=A2 topic=fantasy role=prod conf=60 src=ai|rev
 shadow                   noun   grade=5-6 cefr=A2 topic=fantasy|nature role=rec conf=55 src=ai|freq
+superhero                noun   grade=5-6 cefr=A2 topic=fantasy|media role=rec conf=55 src=ai|rev
 thief                    noun   grade=5-6 cefr=A2 topic=fantasy|law role=prod conf=60 src=ai|rev
 treasure                 noun   grade=5-6 cefr=A2 topic=fantasy role=prod conf=65 src=ai|rev
+vampire                  noun   grade=5-6 cefr=A2 topic=fantasy|celebrations role=rec conf=55 src=ai|rev
 wizard                   noun   grade=5-6 cefr=A2 topic=fantasy role=prod conf=60 src=ai|rev
 
 # grade 7-8 · fantasy
-adventurous              adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
+adventurous              adj    grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 alive                    adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 attack                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 attack                   verb   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 battle                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
+beast                    noun   grade=7-8 cefr=A2 topic=fantasy role=rec conf=60 src=ai|rev
 biography                noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=65 src=ai
 bravery                  noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=60 src=ai|rev
 campfire                 noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=60 src=ai
@@ -66,10 +69,13 @@ grave                    noun   grade=7-8 cefr=B1 topic=fantasy|celebrations rol
 haunted                  adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 heroine                  noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 horror                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
+hunter                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=60 src=ai|rev
+imagination              noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 incident                 noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
+invisible                adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai|rev
 journey                  noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 kill                     verb   grade=7-8 cefr=A2 topic=fantasy|law role=rec conf=55 src=ai|freq
-legend                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
+legend                   noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 missing                  adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 mission                  noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=60 src=ai|rev
 mysterious               adj    grade=7-8 cefr=A2 topic=fantasy role=prod conf=70 src=ai
@@ -85,10 +91,11 @@ rescue                   noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=7
 rescue                   verb   grade=7-8 cefr=A2 topic=fantasy role=prod conf=70 src=ai
 risky                    adj    grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 rope                     noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=60 src=ai
-shipwreck                noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=60 src=ai
+shipwreck                noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=60 src=ai|rev
 survival                 noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai
 survivor                 noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 suspense                 noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
+sword                    noun   grade=7-8 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
 tale                     noun   grade=7-8 cefr=A2 topic=fantasy role=prod conf=65 src=ai
 tension                  noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
 thrill                   noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
@@ -100,5 +107,17 @@ trap                     verb   grade=7-8 cefr=A2 topic=fantasy role=prod conf=6
 twist                    noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
 villain                  noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=65 src=ai
 voyage                   noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=60 src=ai
+wicked                   adj    grade=7-8 cefr=B1 topic=fantasy role=rec conf=55 src=ai|rev
 wilderness               noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=60 src=ai
 wreck                    noun   grade=7-8 cefr=B1 topic=fantasy role=rec conf=60 src=ai
+
+# grade 9-10 · fantasy
+curse                    noun   grade=9-10 cefr=B1 topic=fantasy|actions.speaking role=prod conf=70 src=ai
+disguise                 noun   grade=9-10 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
+disguise                 verb   grade=9-10 cefr=B1 topic=fantasy role=prod conf=65 src=ai|rev
+prophecy                 noun   grade=9-10 cefr=B1 topic=fantasy role=prod conf=70 src=ai
+revenge                  noun   grade=9-10 cefr=B1 topic=fantasy role=prod conf=70 src=ai
+superpower               noun   grade=9-10 cefr=B1 topic=fantasy|music_arts role=prod conf=70 src=ai
+
+# grade 11-13 · fantasy
+alien                    adj    grade=11-13 cefr=B2 topic=fantasy role=prod conf=70 src=ai

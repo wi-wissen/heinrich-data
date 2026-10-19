@@ -1,0 +1,31 @@
+# German as a second language (DaZ) graded vocabulary, domain `integration` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · integration
+Asyl                     noun   cefr=A2 topic=integration role=rec conf=55 src=ai
+Ausland                  noun   cefr=A2 topic=integration|travel role=prod conf=75 src=ai
+Ausländer                noun   cefr=A2 topic=integration role=prod conf=70 src=ai
+Ausländerin              noun   cefr=A2 topic=integration role=prod conf=55 src=ai
+ausländisch              adj    cefr=A2 topic=integration role=prod conf=55 src=ai
+beten                    verb   cefr=A2 topic=integration|society role=prod conf=55 src=ai
+Botschaft                noun   cefr=A2 topic=integration role=prod conf=55 src=ai
+Bürger                   noun   cefr=A2 topic=integration|society role=prod conf=60 src=ai
+Einwohner                noun   cefr=A2 topic=integration|town role=prod conf=65 src=ai
+Flüchtling               noun   cefr=A2 topic=integration role=prod conf=65 src=ai
+Fremdsprache             noun   cefr=A2 topic=integration|school role=prod conf=70 src=ai
+Gewohnheit               noun   cefr=A2 topic=integration role=prod conf=55 src=ai
+Gott                     noun   cefr=A2 topic=integration|society role=prod conf=60 src=ai
+Grenze                   noun   cefr=A2 topic=integration role=prod conf=60 src=ai
+Heimat                   noun   cefr=A1 topic=integration role=prod conf=60 src=ai|rev
+Herkunft                 noun   cefr=A2 topic=integration role=prod conf=70 src=ai
+Integration              noun   cefr=A2 topic=integration role=prod conf=60 src=ai
+Islam                    noun   cefr=A2 topic=integration|society role=prod conf=55 src=ai
+Kultur                   noun   cefr=A2 topic=integration role=prod conf=70 src=ai
+Leben                    noun   cefr=A2 topic=integration|self role=prod conf=80 src=ai
+Muslim                   noun   cefr=A2 topic=integration|society role=prod conf=55 src=ai
+Muttersprache            noun   cefr=A1 topic=integration|self role=prod conf=75 src=ai|rev
+Religion                 noun   cefr=A2 topic=integration role=prod conf=70 src=ai
+Staat                    noun   cefr=A2 topic=integration|politics.state role=prod conf=60 src=ai
+Tradition                noun   cefr=A2 topic=integration role=prod conf=60 src=ai
+Unterschied              noun   cefr=A2 topic=integration role=prod conf=70 src=ai

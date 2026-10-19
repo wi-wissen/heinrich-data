@@ -32,6 +32,7 @@ conversation             noun   grade=5-6 cefr=A2 topic=communication role=prod 
 course                   noun   grade=5-6 cefr=A1 topic=communication role=prod conf=70 src=ai
 email                    noun   grade=5-6 cefr=A1 topic=communication|technology role=prod conf=70 src=ai
 greeting                 noun   grade=5-6 cefr=A2 topic=communication role=rec conf=55 src=ai|rev
+help                     noun   grade=5-6 cefr=A1 topic=communication role=prod conf=60 src=ai|rev
 information              noun   grade=5-6 cefr=A2 topic=communication|media role=prod conf=80 src=ai|freq
 joke                     noun   grade=5-6 cefr=A2 topic=communication|free_time role=prod conf=65 src=ai
 mail                     noun   grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
@@ -42,6 +43,7 @@ parcel                   noun   grade=5-6 cefr=A2 topic=communication|anglophone
 pardon                   noun   grade=5-6 cefr=A2 topic=communication role=rec conf=55 src=ai
 phone                    noun   grade=5-6 cefr=A1 topic=communication|technology role=prod conf=60 src=ai
 postcard                 noun   grade=5-6 cefr=A1 topic=communication|travel role=prod conf=75 src=ai
+reply                    noun   grade=5-6 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
 ring:sound               verb   grade=5-6 cefr=A2 topic=communication|school role=rec conf=60 src=ai|freq
 secret                   noun   grade=5-6 cefr=A2 topic=communication|friends role=prod conf=65 src=ai
 sir                      noun   grade=5-6 cefr=A2 topic=communication|school role=rec conf=65 src=ai|freq
@@ -53,7 +55,7 @@ well                     intj   grade=5-6 cefr=A1 topic=communication role=prod 
 announcement             noun   grade=7-8 cefr=B1 topic=communication role=rec conf=65 src=ai
 apology                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
 communication            noun   grade=7-8 cefr=B1 topic=communication role=prod conf=70 src=ai|rev
-complaint                noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
+complaint                noun   grade=7-8 cefr=B1 topic=communication role=prod conf=70 src=ai|rev
 compliment               noun   grade=7-8 cefr=B1 topic=communication role=prod conf=65 src=ai|rev
 contact                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
 description              noun   grade=7-8 cefr=A2 topic=communication role=prod conf=65 src=ai
@@ -73,4 +75,14 @@ regard                   noun   grade=7-8 cefr=B1 topic=communication role=rec c
 request                  noun   grade=7-8 cefr=B1 topic=communication role=prod conf=65 src=ai
 response                 noun   grade=7-8 cefr=B1 topic=communication role=prod conf=65 src=ai
 suggestion               noun   grade=7-8 cefr=A2 topic=communication role=prod conf=75 src=ai
+tip                      noun   grade=7-8 cefr=A2 topic=communication role=prod conf=60 src=ai|rev
 warning                  noun   grade=7-8 cefr=A2 topic=communication role=prod conf=70 src=ai
+
+# grade 9-10 · communication
+compliment               verb   grade=9-10 cefr=B1 topic=communication|friends role=prod conf=70 src=ai
+gesture                  noun   grade=9-10 cefr=B1 topic=communication|body role=prod conf=70 src=ai
+mumble                   verb   grade=9-10 cefr=B1 topic=communication|actions.speaking role=prod conf=70 src=ai
+negotiation              noun   grade=9-10 cefr=B1 topic=communication|jobs role=prod conf=70 src=ai
+recommendation           noun   grade=9-10 cefr=B1 topic=communication role=prod conf=70 src=ai
+remark                   noun   grade=9-10 cefr=B1 topic=communication role=prod conf=70 src=ai
+remark                   verb   grade=9-10 cefr=B1 topic=communication role=prod conf=70 src=ai

@@ -91,6 +91,7 @@ mitziehen verb class=strong sep=mit 3sg=mitzieht past=mitzog subj2=mitzöge pp=m
 mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
 mobilisieren verb class=weak pp=mobilisiert perf=haben
+möblieren verb class=weak pp=möbliert perf=haben note=graded
 modellieren verb class=weak pp=modelliert perf=haben
 modeln verb class=weak pp=gemodelt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben

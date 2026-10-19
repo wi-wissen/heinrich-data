@@ -42,3 +42,25 @@ wife                     noun   grade=5-6 cefr=A2 topic=family role=prod conf=65
 
 # grade 7-8 · family
 ground                   verb   grade=7-8 cefr=B1 topic=family role=rec conf=50 src=ai|freq
+marriage                 noun   grade=7-8 cefr=B1 topic=family role=prod conf=60 src=ai|rev
+relative                 noun   grade=7-8 cefr=A2 topic=family role=prod conf=65 src=ai|rev
+stepbrother              noun   grade=7-8 cefr=A2 topic=family role=prod conf=60 src=ai|rev
+stepfather               noun   grade=7-8 cefr=A2 topic=family role=prod conf=60 src=ai|rev
+stepmother               noun   grade=7-8 cefr=A2 topic=family role=prod conf=60 src=ai|rev
+stepsister               noun   grade=7-8 cefr=A2 topic=family role=prod conf=60 src=ai|rev
+
+# grade 9-10 · family
+adopt                    verb   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+adoption                 noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+divorce                  noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+divorce                  verb   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+fiancé                   noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+fiancée                  noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+inherit                  verb   grade=9-10 cefr=B1 topic=family|economy role=prod conf=70 src=ai
+orphan                   noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+parenthood               noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+separation               noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+sibling                  noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+spouse                   noun   grade=9-10 cefr=B1 topic=family role=prod conf=60 src=ai
+widow                    noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai
+widower                  noun   grade=9-10 cefr=B1 topic=family role=prod conf=70 src=ai

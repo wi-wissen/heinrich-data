@@ -3,6 +3,7 @@ backstage adj
 backward adj
 bacterial adj
 bad adj cmp=worse sup=worst adv=badly
+badly-paid adj note=graded; compared as worse-paid, worst-paid (not written); hyphenated compound
 baggy adj cmp=er
 balanced adj cmp=more note=graded
 bald adj cmp=er
@@ -52,7 +53,9 @@ bereaved adj
 bereft adj pred_only
 bespoke adj
 bestselling adj
+bewildered adj cmp=more note=graded
 biannual adj adv=biannually
+biased adj cmp=more note=graded
 biblical adj
 bicentennial adj
 biennial adj
@@ -138,6 +141,7 @@ brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
+broken adj cmp=more note=graded; the participle of break
 broken-hearted adj note=hearted is not a word of its own
 brotherly adj
 brown adj cmp=er

@@ -32,7 +32,9 @@ Mähne noun g=f gen=Mähne pl=Mähnen
 Mahnung noun g=f gen=Mahnung pl=Mahnungen
 Mai noun g=m gen=Mai|Mais pl=Maie[rare]|Maien[archaic] note=month name; plural rare (die Maien archaic)
 Maid noun g=f gen=Maid pl=Maiden style=archaic
+Maiglöckchen noun g=n gen=Maiglöckchens pl=Maiglöckchen note=graded
 Mail noun g=f gen=Mail pl=Mails
+Mailbox noun g=f gen=Mailbox pl=Mailboxen note=graded
 Mailing noun g=n gen=Mailings pl=Mailings
 Mailingliste noun g=f gen=Mailingliste pl=Mailinglisten
 Mainstream noun g=m gen=Mainstreams pl=- note=mass noun
@@ -205,6 +207,7 @@ Meister noun g=m gen=Meisters pl=Meister
 Meisterin noun g=f gen=Meisterin pl=Meisterinnen
 Meisterschaft noun g=f gen=Meisterschaft pl=Meisterschaften
 Melancholie noun g=f gen=Melancholie pl=- note=mass noun
+Meldebescheinigung noun g=f gen=Meldebescheinigung pl=Meldebescheinigungen note=graded
 Meldung noun g=f gen=Meldung pl=Meldungen
 Melkmaschine noun g=f gen=Melkmaschine pl=Melkmaschinen
 Melodie noun g=f gen=Melodie pl=Melodien
@@ -269,6 +272,7 @@ Mieter noun g=m gen=Mieters pl=Mieter
 Mieterin noun g=f gen=Mieterin pl=Mieterinnen
 Mietpreisbremse noun g=f gen=Mietpreisbremse pl=Mietpreisbremsen
 Mietshaus noun g=n gen=Mietshauses pl=Mietshäuser
+Mietvertrag noun g=m gen=Mietvertrages|Mietvertrags pl=Mietverträge note=graded
 Mietwagen noun g=m gen=Mietwagens pl=Mietwagen
 Miezchen noun g=n gen=Miezchens pl=Miezchen note=diminutive of Mieze (kitten; term of endearment)
 Migräne noun g=f gen=Migräne pl=Migränen
@@ -307,8 +311,10 @@ Mineral noun g=n gen=Minerals pl=Minerale|Mineralien
 Mineraloge noun g=m gen=Mineralogen pl=Mineralogen
 Mineralogie noun g=f gen=Mineralogie pl=- note=field of study
 Mineralstoff noun g=m gen=Mineralstoffes|Mineralstoffs pl=Mineralstoffe note=graded
+Mineralwasser noun g=n gen=Mineralwassers pl=Mineralwässer|Mineralwasser note=graded
 Mini noun g=m gen=Minis pl=Minis conf=75 note=miniskirt, small car; also first part of compounds (Mini-Job)
 Miniatur noun g=f gen=Miniatur pl=Miniaturen
+Minijob noun g=m gen=Minijobs pl=Minijobs note=graded
 Minimum noun g=n gen=Minimums pl=Minima
 Minister noun g=m gen=Ministers pl=Minister
 Ministerialbeamte noun g=m decl=adj
@@ -419,6 +425,7 @@ Monade noun g=f gen=Monade pl=Monaden
 Monarch noun g=m gen=Monarchen pl=Monarchen
 Monarchie noun g=f gen=Monarchie pl=Monarchien
 Monat noun g=m gen=Monats|Monates pl=Monate
+Monatskarte noun g=f gen=Monatskarte pl=Monatskarten note=graded
 Mönch noun g=m gen=Mönchs|Mönches pl=Mönche
 Mond noun g=m gen=Mondes|Monds pl=Monde
 Mondfinsternis noun g=f gen=Mondfinsternis pl=Mondfinsternisse note=graded
@@ -464,6 +471,7 @@ Most noun g=m gen=Mostes|Mosts pl=Moste
 Motiv noun g=n gen=Motivs|Motives pl=Motive
 Motivation noun g=f gen=Motivation pl=Motivationen
 Motor noun g=m gen=Motors pl=Motoren
+Motorrad noun g=n gen=Motorrads|Motorrades pl=Motorräder note=graded
 Motte noun g=f gen=Motte pl=Motten
 Motto noun g=n gen=Mottos pl=Mottos
 Mountainbike noun g=n gen=Mountainbikes pl=Mountainbikes

@@ -62,6 +62,7 @@ Falter noun g=m gen=Falters pl=Falter
 Familie noun g=f gen=Familie pl=Familien
 Familienname noun g=m gen=Familiennamens pl=Familiennamen note=graded
 Familienstammbaum noun g=m gen=Familienstammbaumes|Familienstammbaums pl=Familienstammbäume note=graded
+Familienstand noun g=m gen=Familienstandes|Familienstands pl=- note=graded; plural practically unused
 Fan noun g=m gen=Fans pl=Fans
 Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
@@ -129,6 +130,7 @@ Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
 Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
+Feldweg noun g=m gen=Feldweges|Feldwegs pl=Feldwege note=graded
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
@@ -136,8 +138,10 @@ Feminismus noun g=m gen=Feminismus pl=- note=mass noun
 Feministin noun g=f gen=Feministin pl=Feministinnen
 Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
+Fensterbank noun g=f gen=Fensterbank pl=Fensterbänke note=graded
 Ferien noun g=pl
 Ferkel noun g=n gen=Ferkels pl=Ferkel
+Fernbedienung noun g=f gen=Fernbedienung pl=Fernbedienungen note=graded
 Ferne noun g=f gen=Ferne pl=Fernen
 Fernglas noun g=n gen=Fernglases pl=Ferngläser
 Fernrohr noun g=n gen=Fernrohrs|Fernrohres pl=Fernrohre
@@ -178,6 +182,7 @@ Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical 
 Feuerwache noun g=f gen=Feuerwache pl=Feuerwachen note=graded
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Feuerwerk noun g=n gen=Feuerwerkes|Feuerwerks pl=Feuerwerke note=graded
+Feuerzeug noun g=n gen=Feuerzeuges|Feuerzeugs pl=Feuerzeuge note=graded
 Fibel noun g=f gen=Fibel pl=Fibeln note=graded
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
@@ -213,6 +218,7 @@ Fischerei noun g=f gen=Fischerei pl=Fischereien
 Fischerin noun g=f gen=Fischerin pl=Fischerinnen
 Fiskus noun g=m gen=Fiskus pl=Fiskusse|Fisken conf=80 note=des Fiskus; plural rarely used, both forms unsure
 Fitness noun g=f gen=Fitness pl=- note=mass noun
+Fitnessstudio noun g=n gen=Fitnessstudios pl=Fitnessstudios note=graded
 Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
 Flächeninhalt noun g=m gen=Flächeninhalts|Flächeninhaltes pl=Flächeninhalte note=graded
@@ -265,6 +271,7 @@ Flüchtling noun g=m gen=Flüchtlings pl=Flüchtlinge
 Flug noun g=m gen=Fluges|Flugs pl=Flüge
 Flugbegleiterin noun g=f gen=Flugbegleiterin pl=Flugbegleiterinnen
 Flügel noun g=m gen=Flügels pl=Flügel
+Flughafen noun g=m gen=Flughafens pl=Flughäfen note=graded
 Fluglotse noun g=m gen=Fluglotsen pl=Fluglotsen
 Flugzeug noun g=n gen=Flugzeugs|Flugzeuges pl=Flugzeuge
 Flur noun g=m gen=Flurs|Flures pl=Flure sense=hall note=der Flur: corridor
@@ -346,6 +353,7 @@ Franzose noun g=m gen=Franzosen pl=Franzosen
 Französin noun g=f gen=Französin pl=Französinnen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
 Frau         noun g=f gen=Frau pl=Frauen
+Frauenarzt noun g=m gen=Frauenarztes|Frauenarzts pl=Frauenärzte note=graded
 Frauenrechtler noun g=m gen=Frauenrechtlers pl=Frauenrechtler
 Frauenrechtlerin noun g=f gen=Frauenrechtlerin pl=Frauenrechtlerinnen
 Frauenzimmer noun g=n gen=Frauenzimmers pl=Frauenzimmer style=archaic
@@ -396,6 +404,7 @@ Frisörin noun g=f gen=Frisörin pl=Frisörinnen
 Frist noun g=f gen=Frist pl=Fristen
 Fristsetzung noun g=f gen=Fristsetzung pl=Fristsetzungen
 Frisur noun g=f gen=Frisur pl=Frisuren
+Fröhlichkeit noun g=f gen=Fröhlichkeit pl=- note=graded; mass noun
 Frömmigkeit noun g=f gen=Frömmigkeit pl=- note=no plural
 Fronleichnam noun g=m gen=Fronleichnams pl=- note=no plural (mass or abstract noun)
 Front noun g=f gen=Front pl=Fronten
@@ -417,6 +426,7 @@ Fuge noun g=f gen=Fuge pl=Fugen
 Fühler noun g=m gen=Fühlers pl=Fühler
 Führer noun g=m gen=Führers pl=Führer
 Führerin noun g=f gen=Führerin pl=Führerinnen
+Führerschein noun g=m gen=Führerscheins|Führerscheines pl=Führerscheine note=graded
 Fuhrmann noun g=m gen=Fuhrmanns|Fuhrmannes pl=Fuhrleute|Fuhrmänner[rare]
 Fuhrpark noun g=m gen=Fuhrparks pl=Fuhrparks
 Führung noun g=f gen=Führung pl=Führungen
@@ -442,6 +452,7 @@ Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
 Furt noun g=f gen=Furt pl=Furten
 Fürwort noun g=n gen=Fürwortes|Fürworts[rare] pl=Fürwörter note=graded
+Fußboden noun g=m gen=Fußbodens pl=Fußböden note=graded
 Füßchen noun g=n gen=Füßchens pl=Füßchen
 Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße

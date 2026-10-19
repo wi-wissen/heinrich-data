@@ -35,6 +35,7 @@ OSCE          propn abbr note=Organization for Security and Co-operation in Euro
 OSHA          propn abbr note=Occupational Safety and Health Administration (US)
 Oslo          propn
 Ottawa        propn
+Oxbridge propn note=graded; Oxford and Cambridge universities
 Oxford        propn
 Oxfordshire propn
 Oz propn style=colloquial conf=90 note=Australia; also the Land of Oz

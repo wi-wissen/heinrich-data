@@ -63,29 +63,29 @@ water                    noun   grade=3-4 cefr=A1 topic=food|nature role=prod co
 
 # grade 5-6 · food
 bacon                    noun   grade=5-6 cefr=A2 topic=food|anglophone.uk role=prod conf=70 src=ai
-bean                     noun   grade=5-6 cefr=A2 topic=food|anglophone.uk role=prod conf=70 src=ai|rev
+bean                     noun   grade=5-6 cefr=A1 topic=food|anglophone.uk role=prod conf=70 src=ai|rev
 beef                     noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
 bill                     noun   grade=5-6 cefr=A2 topic=food|shopping role=prod conf=60 src=ai|rev
 bottle                   noun   grade=5-6 cefr=A1 topic=food role=prod conf=65 src=ai
-burger                   noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai|rev
+burger                   noun   grade=5-6 cefr=A1 topic=food role=prod conf=65 src=ai|rev
 cabbage                  noun   grade=5-6 cefr=A2 topic=food role=rec conf=55 src=ai|rev
 candy                    noun   grade=5-6 cefr=A2 topic=food|anglophone.us role=prod conf=60 src=ai|rev
 cereal                   noun   grade=5-6 cefr=A1 topic=food role=prod conf=75 src=ai
-cola                     noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
+cola                     noun   grade=5-6 cefr=A1 topic=food role=prod conf=60 src=ai|rev
 cookie                   noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 corn                     noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 cornflakes               noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 cream                    noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
-crisp                    noun   grade=5-6 cefr=A2 topic=food|anglophone.uk role=prod conf=75 src=ai|rev
+crisp                    noun   grade=5-6 cefr=A1 topic=food|anglophone.uk role=prod conf=75 src=ai|rev
 cucumber                 noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai
 dessert                  noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
 doughnut                 noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 flour                    noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
-ham                      noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai|rev
+ham                      noun   grade=5-6 cefr=A1 topic=food role=prod conf=65 src=ai|rev
 honey                    noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 jam                      noun   grade=5-6 cefr=A2 topic=food|anglophone.uk role=prod conf=60 src=ai|rev
 jar                      noun   grade=5-6 cefr=A2 topic=food|shopping role=prod conf=60 src=ai|rev
-ketchup                  noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
+ketchup                  noun   grade=5-6 cefr=A1 topic=food role=prod conf=60 src=ai|rev
 lettuce                  noun   grade=5-6 cefr=A2 topic=food role=rec conf=55 src=ai
 meal                     noun   grade=5-6 cefr=A1 topic=food role=prod conf=75 src=ai
 melon                    noun   grade=5-6 cefr=A2 topic=food role=prod conf=60 src=ai|rev
@@ -99,7 +99,7 @@ oil                      noun   grade=5-6 cefr=A2 topic=food|environment role=pr
 omelette                 noun   grade=5-6 cefr=A2 topic=food role=rec conf=55 src=ai|rev
 onion                    noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
 packet                   noun   grade=5-6 cefr=A2 topic=food|shopping role=prod conf=65 src=ai
-pancake                  noun   grade=5-6 cefr=A2 topic=food|celebrations role=prod conf=65 src=ai|rev
+pancake                  noun   grade=5-6 cefr=A1 topic=food|celebrations role=prod conf=65 src=ai|rev
 pea                      noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
 peach                    noun   grade=5-6 cefr=A2 topic=food role=rec conf=55 src=ai|rev
 pepper                   noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
@@ -121,10 +121,20 @@ tin                      noun   grade=5-6 cefr=A2 topic=food|shopping|anglophone
 toast                    noun   grade=5-6 cefr=A1 topic=food|anglophone.uk role=prod conf=70 src=ai
 turkey                   noun   grade=5-6 cefr=A2 topic=food|celebrations role=prod conf=60 src=ai|rev
 vegetarian               adj    grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai
-yogurt                   noun   grade=5-6 cefr=A2 topic=food role=prod conf=65 src=ai|rev
+yogurt                   noun   grade=5-6 cefr=A1 topic=food role=prod conf=65 src=ai|rev
 
 # grade 7-8 · food
+beer                     noun   grade=7-8 cefr=A2 topic=food role=prod conf=55 src=ai|rev
 heat                     verb   grade=7-8 cefr=A2 topic=food role=rec conf=50 src=ai|freq
 ingredient               noun   grade=7-8 cefr=A2 topic=food role=prod conf=70 src=ai
 junk                     noun   grade=7-8 cefr=A2 topic=food|health role=prod conf=60 src=ai
+mixture                  noun   grade=7-8 cefr=B1 topic=food role=rec conf=60 src=ai|rev
+raw                      adj    grade=7-8 cefr=A2 topic=food role=prod conf=60 src=ai|rev
 serve                    verb   grade=7-8 cefr=B1 topic=food|sports role=rec conf=55 src=ai|freq
+wine                     noun   grade=7-8 cefr=A2 topic=food role=prod conf=55 src=ai|rev
+
+# grade 9-10 · food
+appetite                 noun   grade=9-10 cefr=B1 topic=food role=prod conf=65 src=ai|rev
+coral                    noun   grade=9-10 cefr=B2 topic=food|animals role=rec conf=65 src=ai|rev
+dairy                    noun   grade=9-10 cefr=B2 topic=food|animals role=rec conf=65 src=ai|rev
+ivory                    noun   grade=9-10 cefr=B2 topic=food|animals role=rec conf=65 src=ai|rev

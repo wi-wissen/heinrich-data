@@ -244,6 +244,7 @@ refund noun
 refurbishment noun
 refusal noun
 refuse noun pl=- note=rubbish
+refutation noun note=graded
 reg noun style=colloquial note=short for regulation, mainly plural regs
 regard noun
 regency noun
@@ -363,6 +364,7 @@ reply noun
 repo noun conf=85 note=short for repository
 report noun
 reporter noun
+reporting noun pl=- note=graded; uncountable
 repose noun pl=- note=uncountable
 repository noun
 representation noun
@@ -596,6 +598,7 @@ romance noun
 Romani noun pl=- conf=85 note=the language; the people are the Roma
 Romanian noun note=demonym or religious name, capitalized
 romantic noun
+romanticism noun pl=- note=graded; uncountable
 roof noun pl=roofs
 roofing noun pl=- note=material
 rooftop noun

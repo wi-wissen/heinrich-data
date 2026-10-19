@@ -40,6 +40,7 @@ appearance               noun   grade=7-8 cefr=B1 topic=self role=prod conf=65 s
 attractive               adj    grade=7-8 cefr=B1 topic=self role=prod conf=65 src=ai|rev
 background               noun   grade=7-8 cefr=B1 topic=self role=prod conf=60 src=ai
 childhood                noun   grade=7-8 cefr=A2 topic=self role=prod conf=70 src=ai
+elderly                  adj    grade=7-8 cefr=B1 topic=self role=prod conf=60 src=ai|rev
 female                   adj    grade=7-8 cefr=B1 topic=self|animals role=rec conf=55 src=ai|freq
 gender                   noun   grade=7-8 cefr=B1 topic=self role=rec conf=55 src=ai
 goal                     noun   grade=7-8 cefr=A2 topic=self role=prod conf=70 src=ai

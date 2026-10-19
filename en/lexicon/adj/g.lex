@@ -39,6 +39,7 @@ Georgian       adj
 geothermal adj
 German         adj
 Germanic       adj
+Ghanaian adj note=graded
 ghastly        adj cmp=er|more
 ghostly adj cmp=er|more
 giant          adj attr_only
@@ -58,6 +59,7 @@ glassy adj cmp=er
 gleeful adj cmp=more adv=gleefully
 glittery adj
 global         adj adv=globally
+globalized adj gb=globalised cmp=more note=graded
 globular adj
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
@@ -117,4 +119,5 @@ grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
 guileless adj
 guilty         adj cmp=er|more adv=guiltily
+gullible adj cmp=more adv=gullibly note=graded
 guttural adj

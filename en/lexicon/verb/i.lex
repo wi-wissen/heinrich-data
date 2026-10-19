@@ -57,6 +57,7 @@ index          verb
 indicate       verb
 indict verb
 individualize verb gb=individualise|individualize
+indoctrinate verb note=graded
 induce         verb
 induct         verb
 indulge        verb

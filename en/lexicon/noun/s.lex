@@ -22,6 +22,7 @@ sage noun
 sahib noun
 sail noun
 sailboat noun
+sailing noun pl=- note=graded; uncountable
 sailor noun
 saint noun
 sake noun
@@ -220,6 +221,7 @@ seashore noun
 seaside noun
 season noun
 seat noun
+seatbelt noun note=graded; also seat belt
 seawater noun pl=- note=uncountable
 seaweed noun
 sec noun note=informal short form of second
@@ -237,6 +239,7 @@ sectarian noun
 section noun
 sectional noun
 sector noun
+secularism noun pl=- note=graded; uncountable
 security noun
 sedan noun
 sedge noun
@@ -256,6 +259,10 @@ selection noun
 selectman noun pl=selectmen
 selector noun
 self noun pl=selves
+self-confidence noun pl=- note=graded; hyphenated compound; uncountable
+self-esteem noun pl=- note=graded; hyphenated compound; uncountable
+self-image noun note=graded; hyphenated compound
+self-reliance noun pl=- note=graded; hyphenated compound; uncountable
 selfie noun
 selfishness noun pl=- note=uncountable
 seller noun
@@ -276,6 +283,8 @@ sender noun
 senior noun
 seniority noun pl=- note=uncountable
 sensation noun
+sensationalism noun pl=- note=graded; uncountable
+sensationalist noun note=graded
 sense noun
 sensibility noun
 sensitiveness noun pl=- note=uncountable
@@ -283,6 +292,7 @@ sensitivity noun
 sensor noun
 sentence noun
 sentencing noun pl=- note=uncountable
+sentience noun pl=- note=graded; uncountable
 sentiment noun
 sentimentality noun pl=- note=uncountable
 sentinel noun
@@ -332,6 +342,8 @@ sewage noun pl=- note=uncountable
 sewer noun
 sewerage noun pl=- note=uncountable
 sex noun
+sexism noun pl=- note=graded; uncountable
+sexist noun note=graded
 sexuality noun
 shack noun
 shackle noun
@@ -346,6 +358,7 @@ shallow noun
 sham noun
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
+shampoo noun note=graded
 shamrock noun
 shank noun
 shanty noun
@@ -404,7 +417,9 @@ shooting noun
 shootout noun
 shop noun
 shopkeeper noun
+shoplifting noun pl=- note=graded; uncountable
 shopper noun
+shopping noun pl=- note=graded; uncountable
 shore noun
 shoreline noun
 shortage noun
@@ -517,6 +532,7 @@ sixpence noun
 size noun
 skateboard noun
 skater noun
+skating noun pl=- note=graded; uncountable
 skeleton noun
 skepticism noun gb=scepticism pl=- note=uncountable
 sketch noun
@@ -596,6 +612,7 @@ smear noun
 smell noun
 smelter noun
 smile noun
+smog noun pl=- note=graded; uncountable
 smoke noun
 smoker noun
 smoking noun pl=- note=graded; uncountable
@@ -659,6 +676,7 @@ solicitude noun pl=- note=uncountable
 solid noun
 solidarity noun pl=- note=uncountable
 solidity noun pl=- note=uncountable
+soliloquy noun note=graded
 solitude noun
 solo noun pl=solos
 soloist noun
@@ -892,6 +910,7 @@ statehood noun pl=- note=uncountable
 statement noun
 statesman noun pl=statesmen
 statesmanship noun pl=- note=uncountable
+stateswoman noun pl=stateswomen note=graded
 station noun
 stationer noun
 stationery noun pl=- note=uncountable
@@ -920,6 +939,7 @@ steelworks noun pl=steelworks note=singular and plural: a steelworks
 steeple noun
 steerage noun pl=- note=uncountable
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
+stem noun note=graded; science: stem cells; plant stem
 stench noun
 stenographer noun
 stenosis noun pl=stenoses
@@ -927,6 +947,7 @@ step noun
 stepbrother noun
 stepchild noun pl=stepchildren
 stepdaughter noun
+stepfamily noun note=graded
 stepfather noun
 stepmother noun
 steppe noun
@@ -934,6 +955,7 @@ stepsister noun
 stepson noun
 stereo noun
 stereotype noun
+stereotyping noun pl=- note=graded; uncountable
 sterility noun pl=- note=uncountable
 sterilization noun gb=sterilisation|sterilization
 sterling noun pl=- note=British currency
@@ -1069,6 +1091,7 @@ subgroup noun
 subheading noun
 subject noun
 subjection noun pl=- note=uncountable
+subjectivity noun pl=- note=graded; uncountable
 subjugation noun pl=- note=uncountable
 sublease noun
 sublimity noun
@@ -1081,6 +1104,7 @@ subordinate noun
 subordination noun pl=- note=uncountable
 subparagraph noun
 subpart noun
+subplot noun note=graded
 subpoena noun
 subpopulation noun
 subregion noun
@@ -1128,6 +1152,7 @@ sufficiency noun
 suffix noun
 suffocation noun pl=- note=uncountable
 suffrage noun note=plural suffrages: votes; intercessory prayers
+suffragette noun note=graded
 suffragist noun
 sugar noun
 sugarcane noun pl=- note=uncountable
@@ -1238,6 +1263,7 @@ sweat noun
 sweatband noun
 sweater noun
 sweatshirt noun
+sweatshop noun note=graded
 Swede noun
 swede noun region=GB note=the vegetable; US rutabaga
 Swedish noun pl=- note=the language
@@ -1250,6 +1276,7 @@ swelling noun
 swiftness noun pl=- note=uncountable
 swim noun
 swimmer noun
+swimming noun pl=- note=graded; uncountable
 swimsuit noun
 swimwear noun pl=- note=uncountable
 swine noun pl=swine
@@ -1276,9 +1303,11 @@ synchronization noun gb=synchronisation|synchronization
 syndicate noun
 syndication noun
 syndrome noun
+synecdoche noun note=graded
 synergy noun
 synod noun
 synonym noun
+synopsis noun pl=synopses note=graded
 syntax noun
 synth noun
 synthesis noun pl=syntheses

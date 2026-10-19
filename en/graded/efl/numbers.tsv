@@ -17,7 +17,7 @@ four                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=9
 fourteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
 half                     num    grade=3-4 cefr=A1 topic=numbers|time.clock role=prod conf=60 src=ai|rev
 hundred                  num    grade=3-4 cefr=A1 topic=numbers role=rec conf=75 src=ai
-lot                      noun   grade=3-4 cefr=A1 topic=numbers role=prod conf=70 src=ai
+lot                      noun   grade=3-4 cefr=A1 topic=numbers role=rec conf=70 src=ai
 minus                    adp    grade=3-4 cefr=A1 topic=numbers|weather role=prod conf=70 src=ai
 nine                     num    grade=3-4 cefr=A1 topic=numbers role=prod conf=98 src=ai
 nineteen                 num    grade=3-4 cefr=A1 topic=numbers role=prod conf=90 src=ai
@@ -79,9 +79,33 @@ twentieth                num    grade=5-6 cefr=A1 topic=numbers|time.calendar ro
 twice                    num    grade=5-6 cefr=A2 topic=numbers role=prod conf=65 src=ai
 
 # grade 7-8 · numbers
+average                  noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=65 src=ai|rev
 billion                  num    grade=7-8 cefr=A2 topic=numbers role=prod conf=70 src=ai
+decimal                  noun   grade=7-8 cefr=B1 topic=numbers role=rec conf=50 src=ai|rev
+fraction                 noun   grade=7-8 cefr=B1 topic=numbers role=prod conf=50 src=ai|rev
 majority                 noun   grade=7-8 cefr=B1 topic=numbers role=rec conf=70 src=ai
 minority                 noun   grade=7-8 cefr=B1 topic=numbers role=rec conf=65 src=ai
+multiply                 verb   grade=7-8 cefr=B1 topic=numbers role=rec conf=55 src=ai|rev
 percent                  noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=75 src=ai
 percentage               noun   grade=7-8 cefr=B1 topic=numbers role=prod conf=70 src=ai
 plenty                   noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=65 src=ai
+sum                      noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=60 src=ai|rev
+total                    noun   grade=7-8 cefr=A2 topic=numbers role=prod conf=60 src=ai|rev
+
+# grade 9-10 · numbers
+calculation              noun   grade=9-10 cefr=B1 topic=numbers|school role=prod conf=70 src=ai
+capacity                 noun   grade=9-10 cefr=B2 topic=numbers role=rec conf=60 src=ai|rev
+estimate                 noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+extent                   noun   grade=9-10 cefr=B2 topic=numbers role=rec conf=60 src=ai|rev
+lack                     noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+measurement              noun   grade=9-10 cefr=B1 topic=numbers|science role=prod conf=70 src=ai
+quantity                 noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=70 src=ai
+range                    noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+rate                     noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+reduction                noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+scale                    noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+statistic                noun   grade=9-10 cefr=B1 topic=numbers|academic role=prod conf=70 src=ai
+volume                   noun   grade=9-10 cefr=B1 topic=numbers role=prod conf=75 src=ai
+
+# grade 11-13 · numbers
+trillion                 num    grade=11-13 cefr=B2 topic=numbers role=prod conf=65 src=ai|rev

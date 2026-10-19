@@ -63,6 +63,7 @@ oil           noun
 oldie noun style=colloquial
 oligarch noun pl=oligarchs
 oligarchy noun
+oligopoly noun note=graded
 olive         noun
 olivine noun pl=- note=uncountable
 Olympian noun
@@ -78,6 +79,7 @@ oncology noun pl=- note=uncountable
 onesie noun
 onion noun
 onlooker noun
+onomatopoeia noun note=graded
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
@@ -98,8 +100,10 @@ opium noun pl=- note=uncountable
 opossum noun
 opponent      noun
 opportunity   noun
+opposite noun note=graded; the opposite of
 opposition    noun
 oppression    noun
+oppressor noun note=graded
 optic noun
 optimism      noun pl=- note=uncountable
 optimization noun gb=optimisation|optimization
@@ -216,6 +220,7 @@ override noun
 overrun noun
 overseer noun
 oversight     noun
+oversimplification noun note=graded
 overthrow     noun
 overtime      noun pl=- note=uncountable
 overture noun
@@ -231,5 +236,6 @@ oxidase noun
 oxidation noun
 oxide         noun
 oxygen        noun pl=- note=uncountable
+oxymoron noun pl=oxymora|oxymorons note=graded
 oyster noun
 ozone         noun pl=- note=uncountable

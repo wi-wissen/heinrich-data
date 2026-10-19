@@ -1,6 +1,6 @@
 # Run `en-efl-5-6`
 
-Author: an AI agent (the project's stronger model; identifier not recorded, CLAUDE.md rule 8). Date: 2026-10-19.
+Author: an AI agent (identifier not recorded, CLAUDE.md rule 8; lexicon round 2 and checkers: the faster model, the rest: the stronger model). Date: 2026-10-19.
 
 ## Prompt (verbatim)
 
@@ -77,11 +77,11 @@ The agent received a one-line message pointing to this file, with the instructio
     5–10 line summary of your decisions. Do not commit or push anything; write only into your output
     directory.
 
-## Follow-up message 1 (verbatim)
+## Follow-up message (verbatim)
 
     Orchestrator note: the lemma index has just been regenerated (same path). It now also lists the adverbs the lexicon derives via `adv=` on adjectives (really, usually, carefully …) as `adv` lemmas. Before you finish, re-check any adverbs you put into `missing.tsv` against the new index and add those that now exist. Modal past forms (could, might, would, should) are forms of can/may/will/shall, not missing lemmas. Output: one file per top-level topic id of each line's first topic.
 
-## Follow-up message 2 (verbatim; the agent received a one-line pointer to this text)
+## Follow-up: lexicon entries added (verbatim; one-line pointer to this text)
 
     Orchestrator follow-up (logged as part of your run): lexicon authors have now written entries for most
     words of your `missing.tsv` (clean-room, following the lexicon protocol). The lemma index at the same path
@@ -95,13 +95,11 @@ The agent received a one-line message pointing to this file, with the instructio
 
 ## Reviewer round 1 feedback (verbatim; aggregate numbers and patterns only)
 
-Message:
-
     Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev1-en.md (you: band 5-6; output directory .../graded/runs/en-efl-5-6/).
     
     Second message (verbatim): Orchestrator addition to revision round 1: the 3-4 author removed 73 words from A1 (rarer animals, specific toys/clothes/food, fantasy words, a few qualities) and suggested later bands for them in the "Revision round 1" section of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-3-4/decisions.md. Read that section; for each word you judge to be introduced in 5-6, add it to your files with your own level judgement (`src=ai|rev`); list the ones you judge to belong to 7-8 or later in your decisions.md under "for 7-8". Include this in your report.
 
-Feedback file referred to:
+Feedback file:
 
     # Revision round 1 (English EFL), feedback from the internal reviewer — patterns only
     
@@ -147,6 +145,40 @@ Feedback file referred to:
     For every line you add or change, set `src=ai|rev` (keep `freq` if present). Re-run the checker to 0 errors, append a
     "Revision round 1" section to `decisions.md`, report counts (added, level changed, removed/moved). Same clean-room rules
     (no web, no word lists, never the held-out repository). Missing lemmas to `missing.tsv`.
+
+## Reviewer round 2 feedback, final (verbatim; aggregate numbers and patterns only)
+
+    Read and follow /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/prompts/rev2-en.md (you: band 5-6; output directory .../graded/runs/en-efl-5-6/).
+    
+    Second message: Orchestrator addition to round 2: the 3-4 author removed 14 words and suggests 5-6/A2 for them: hamster, bee, butterfly, spider, frog, snake, foggy, stormy, storm, snowy, costume, candle, pumpkin, Santa. Decide each by your own judgement (add with `src=ai|rev` if 5-6; otherwise note the band in decisions.md). Include it in your report.
+    
+    Earlier message (after the 9-10 checker round): Orchestrator: the 9-10 author and a checker found words that belong to lower bands. They are listed under "for lower bands" (with a proposed band) in the "Checker round" section and in an earlier "Earlier-band gaps" note of /tmp/claude-0/-home-user/f393a887-adce-5573-8b38-fc8fe73d6f1a/scratchpad/graded/runs/en-efl-9-10/decisions.md. Read only those parts. For every word with proposed band 5-6 (or 3-4), decide by your own judgement whether it is introduced in 5-6; if yes, add it (`src=ai|rev`, your own level/topic/role/conf). Words you judge to be 3-4 or 7-8, list in your decisions.md under "handed on" with the band. Re-run the checker script and report counts briefly. Same clean-room rules.
+
+Feedback file:
+
+    # Revision round 2 (final) — English EFL, patterns from the second statistical measurement
+    
+    This is the **last** revision against this reference; there will be no further measurement against it. Same rules as
+    round 1: only aggregate numbers and patterns; revise from your own knowledge; never guess reference entries.
+    
+    Numbers after round 1 (before → after): coverage A1 84.9 → 88.6 %, A2 59.4 → 66.4 %, B1 28.9 → 34.6 %. Reference-A1
+    words that are A2 with us: 173 → 211 (exact A1 agreement 80.1 → 76.8 %). B1: exact 28 → 36 %, shift −0.82 → −0.71.
+    Overall Spearman 0.61 → 0.63. A1 function words in band 3-4: 74.2 → 81.1 %. Nouns 47.3 → 55.1 %, verbs 51.2 → 54.7 %
+    (verb shift unchanged −0.26). Better: animals −0.95 → −0.70, toys −0.81 → −0.45, clothes, health, food. Worse:
+    celebrations (±1 82.4 → 75.0 %), weather (−0.35 → −0.42), thinking (+0.09 → +0.17).
+    
+    Patterns (reviewer's own words):
+    1. Keep extending A2 for grades 5–6, above all verbs and adverbs.
+    2. Re-check this round's moves from A1 to A2: what is needed in the first two years of English belongs on A1 / 3-4.
+    3. The B1 assignment works, but 64 % of the shared B1 words are still on A2 or A1 with us.
+    4. Animals remain the topic with the largest shift.
+    5. Newly added words in celebrations and weather are rather placed too early.
+    6. Bring the remaining A1 function words from band 5-6 to 3-4.
+    
+    What to do: 3-4 author — patterns 2, 4, 6 (and 5 for your band). 5-6 author — patterns 1, 2 (words you moved from A1
+    to A2: re-judge; words needed in the first two years: list under "for 3-4"), 5, 6 (list A1 function words that
+    belong to 3-4 under "for 3-4" and remove them). 7-8 author — pattern 3 (A2 → B1 where more demanding), 5.
+    `src=ai|rev`, checker to 0 errors, append "Revision round 2" to decisions.md, report counts.
 
 ## Decisions log (written by the author)
 
@@ -325,3 +357,85 @@ not to lose coverage if the 3-4 lines change again.
 
 New totals: 1400 lines (510 A1, 890 A2; 1182 prod, 218 rec), 40 files. This is above the original target
 because the revision asked for substantial A2 expansion. The checker reports 0 errors.
+
+## Checker round (words proposed by the 9-10 author and checker for lower bands)
+
+I read only the "For lower bands" list and the earlier-band gaps note in the 9-10 decisions log. Then I
+decided each item from my own judgement.
+
+**Added to 5-6 (14 lines, `src=ai|rev`):** absent adj (A2, rec), reply noun (A2), help noun (A1),
+sleep noun (A2), score noun (A2), form noun (A2, rec), play noun (theatre, A2), online adj (A2, rec),
+test verb (A2, rec), end verb (A2), trick noun (A2), machine noun (A2), vampire noun (A2, rec),
+superhero noun (A2, rec).
+
+**Handed on:**
+- To 7-8, from the items proposed for 5-6:
+  - fear (verb)
+  - so (sconj, "so that")
+  - sneeze (noun)
+  - tip (noun; the senses are ambiguous)
+  - tune (noun)
+- To 7-8, from the gaps that came without a proposed band:
+  - nouns: cost, record, care, need, tool, use
+  - adjectives: close, neat, bossy, grumpy, dumb, adorable, uncomfortable
+  - adverbs: sadly, safely, secretly, rudely, gladly
+  - names: Canada, India, Africa (the wider English-speaking world is a 7-8 theme)
+  - zombie
+- To 9-10 or not taught: bloody (a swear word).
+- The items the 9-10 author proposed for 7-8 I left to the 7-8 author.
+
+New totals: 1414 lines (511 A1, 903 A2; 1190 prod, 224 rec). The checker reports 0 errors.
+
+## Revision round 2 (final)
+
+Feedback: patterns only. I revised from my own judgement. Every changed or added line carries
+`src=ai|rev`.
+
+**Pattern 2: re-judging my round-1 moves from A1 to A2.**
+- In round 1 I moved 18 words from A1 to A2. I re-judged them and moved 16 back to A1, keeping them in
+  band 5-6: burger, ketchup, pancake, yogurt, cola, ham, bean, crisp, pajamas, trainer, chess, headache,
+  dentist, goldfish, underground, cute. These are basic words of the first secondary units. They are A1
+  in level, but they are not needed in the first two years of English.
+- fox and dolphin stay on A2, because animals are still the topic with the largest shift.
+- For 3-4: I judged none of the 18 to be primary core vocabulary.
+
+**Pattern 6: A1 function words for 3-4, removed from 5-6 (43 lines).**
+- **For 3-4** (core of the first two years: possessive determiners, basic quantifiers, place
+  prepositions, question words, `do`-questions, everyday adverbs and the some/any/every/no compounds):
+  - determiners: our, their, every, other, much
+  - pronouns: anything, everybody, everyone, everything, nothing, somebody, someone, something
+  - prepositions: between, up, down, near
+  - conjunctions: if, than
+  - question words: when (adv), why (adv)
+  - auxiliary: do (aux)
+  - adverbs: together, too, really, maybe, soon, more
+  - noun: lot (in "a lot (of)")
+- **Removed as duplicates of the 3-4 author's own additions:**
+  - nobody, each (det), enough (det), until (adp), through, may
+  - later, still, quite, tonight, upstairs, downstairs, inside (adv), outside (adv)
+
+  Keeping them in both bands would only contradict the earlier band.
+
+**Pattern 5: celebrations and weather words placed too early.**
+- Removed 7 lines and handed them on **for 7-8**: decoration, parade, carnival, mask (celebrations);
+  icy, heat, forecast (weather).
+- Raised to A2: candle, foggy, storm. hamster is raised to A2 as well, for pattern 4 (animals).
+
+**Words the 3-4 author removed in this round:**
+- Added to 5-6 at A2: bee, butterfly, spider, frog, snake (all prod, conf 60) and pumpkin (rec).
+- Already on my list: hamster (now A2), foggy and storm (now A2), stormy, snowy, costume, candle (now A2).
+- Not added: Santa. I judge it to be 3-4 (the Christmas topic of primary English), so I hand it back
+  **for 3-4**.
+
+**Pattern 1: more A2 verbs and adverbs (71 lines).**
+- 52 verbs, including: cycle, dry, earn, improve, lift, measure, organize, post, pour, pretend, remind,
+  ring:sound, sign, stick, surprise, disagree, divide, lie:untruth, breathe, and receptive kitchen and
+  household verbs (chop, peel, stir, sweep, iron, wipe).
+- 19 adverbs: correctly, aloud, hard, politely, fortunately, hopefully, seriously, mostly, properly,
+  clearly, backwards, forward, ahead, heavily, angrily, nicely, beautifully; plus fast and well (adverb,
+  A1).
+
+**Counts for this round:** 77 lines added (6 from the 3-4 removals, 71 verbs and adverbs); 20 lines with
+a level change (16 back to A1, 4 to A2); 50 lines removed (43 for 3-4, 7 for 7-8).
+
+New totals: 1441 lines (490 A1, 951 A2; 1176 prod, 265 rec), 39 files. The checker reports 0 errors.

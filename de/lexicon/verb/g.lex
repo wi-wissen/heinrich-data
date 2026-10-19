@@ -14,7 +14,7 @@ gebrauchen verb class=weak pp=gebraucht perf=haben
 gebühren verb class=weak pp=gebührt perf=haben
 gedeihen verb class=strong 3sg=gedeiht past=gedieh pp=gediehen subj2=gediehe perf=sein
 gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte perf=haben note=mit Genitiv (gedenkt der Toten)
-gefährden verb class=weak pp=gefährdet perf=haben
+gefährden verb class=weak pp=gefährdet perf=haben pp_cmp note=graded: Partizip II is a gradable adjective
 gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele perf=haben
 gefrieren verb class=strong 3sg=gefriert past=gefror pp=gefroren subj2=gefröre perf=sein
 gegenlesen verb class=strong sep=gegen 3sg=gegenliest past=gegenlas pp=gegengelesen subj2=gegenläse perf=haben

@@ -83,6 +83,11 @@ seeming adj adv=seemingly
 seismic adj
 select adj
 selective adj cmp=more adv=selectively
+self-centered adj gb=self-centred cmp=more note=graded; hyphenated compound
+self-confident adj cmp=more adv=self-confidently note=graded; hyphenated compound
+self-conscious adj cmp=more adv=self-consciously note=graded; hyphenated compound
+self-made adj attr_only note=graded; hyphenated compound
+self-reliant adj cmp=more note=graded; hyphenated compound
 selfish adj cmp=more adv=selfishly
 selfless adj adv=selflessly
 semantic adj adv=semantically
@@ -94,6 +99,7 @@ Semitic adj
 senatorial adj
 senior adj
 sensational adj cmp=more adv=sensationally
+sensationalist adj note=graded
 senseless adj
 sensible adj cmp=more adv=sensibly
 sensitive adj cmp=more adv=sensitively
@@ -104,6 +110,7 @@ sentient adj
 sentimental adj cmp=more
 separable adj
 separate adj adv=separately
+separated adj note=graded
 separatist adj
 septic adj
 sepulchral adj
@@ -119,12 +126,14 @@ servile adj
 sessile adj
 severable adj
 severe adj cmp=er|more adv=severely
+sexist adj cmp=more note=graded
 sexual adj adv=sexually
 sexy adj cmp=er adv=sexily
 shabby adj cmp=er
 shadowy adj cmp=more
 shady adj cmp=er
 shaggy adj cmp=er
+Shakespearean adj note=graded
 shaky adj cmp=er adv=shakily
 shallow adj cmp=er
 shameful adj cmp=more adv=shamefully
@@ -167,6 +176,7 @@ simultaneous adj adv=simultaneously
 sincere adj cmp=er|more adv=sincerely
 sinful adj
 single adj adv=singly
+single-sex adj attr_only note=graded; hyphenated compound
 singular adj adv=singularly
 sinister adj
 sinuous adj
@@ -258,6 +268,7 @@ spasmodic adj adv=spasmodically
 spatial adj adv=spatially
 special adj adv=specially
 specific adj adv=specifically
+specious adj adv=speciously note=graded
 speckled adj
 spectacular adj cmp=more adv=spectacularly
 spectral adj
@@ -273,6 +284,8 @@ spirited adj
 spiritual adj adv=spiritually
 spiteful adj adv=spitefully
 splendid adj cmp=more adv=splendidly
+spoiled adj cmp=more gb=spoilt|spoiled note=graded; spoilt is the British spelling
+sponsored adj note=graded
 spontaneous adj cmp=more adv=spontaneously
 spooky adj cmp=er
 sporadic adj adv=sporadically
@@ -297,6 +310,7 @@ standout adj
 stark adj cmp=er
 starry adj cmp=er
 startling adj
+stateless adj note=graded
 stately adj cmp=er|more
 statewide adj
 static adj
@@ -344,6 +358,7 @@ striped adj
 stripy adj
 strong adj cmp=er adv=strongly
 structural adj adv=structurally
+structured adj cmp=more note=graded
 stubborn adj cmp=er|more adv=stubbornly
 studious adj adv=studiously
 stuffy adj cmp=er
@@ -421,6 +436,7 @@ surrealist adj
 surreptitious adj adv=surreptitiously
 surrogate adj
 susceptible adj
+suspenseful adj cmp=more adv=suspensefully note=graded
 suspicious adj cmp=more adv=suspiciously
 sustainable adj adv=sustainably
 sutural adj

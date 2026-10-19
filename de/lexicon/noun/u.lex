@@ -54,6 +54,7 @@ Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhrzeit noun g=f gen=Uhrzeit pl=Uhrzeiten note=graded
 Uhu noun g=m gen=Uhus pl=Uhus
+Ukrainisch noun g=n gen=Ukrainisch|Ukrainischs pl=- conf=80 note=graded; the Ukrainian language; genitive normally avoided (des Ukrainischen)
 Ulme noun g=f gen=Ulme pl=Ulmen
 Ultimatum noun g=n gen=Ultimatums pl=Ultimaten|Ultimatums conf=85 note=plural Ultimaten common, Ultimatums also used
 Ultra noun g=m gen=Ultras pl=Ultras conf=90 note=radical (football) fan or political extremist
@@ -171,6 +172,7 @@ Unterstützung noun g=f gen=Unterstützung pl=Unterstützungen
 Untersuchung noun g=f gen=Untersuchung pl=Untersuchungen
 Untertan noun g=m gen=Untertans|Untertanen pl=Untertanen
 Untertitel noun g=m gen=Untertitels pl=Untertitel
+Unterwäsche noun g=f gen=Unterwäsche pl=- note=graded; mass noun
 Unterweisung noun g=f gen=Unterweisung pl=Unterweisungen
 Unterwerfung noun g=f gen=Unterwerfung pl=- note=no plural
 Unterzeichnung noun g=f gen=Unterzeichnung pl=Unterzeichnungen

@@ -3,7 +3,11 @@
 # lemma[:sense]  pos  fields
 
 # grade 5-6 · language
+noun                     noun   grade=5-6 cefr=A2 topic=language role=prod conf=65 src=ai|rev
+plural                   adj    grade=5-6 cefr=A2 topic=language role=prod conf=65 src=ai|rev
+plural                   noun   grade=5-6 cefr=A2 topic=language role=prod conf=65 src=ai|rev
 regular                  adj    grade=5-6 cefr=A2 topic=language|time role=rec conf=60 src=ai|freq
+verb                     noun   grade=5-6 cefr=A2 topic=language role=prod conf=65 src=ai|rev
 
 # grade 7-8 · language
 abbreviation             noun   grade=7-8 cefr=B1 topic=language role=rec conf=60 src=ai
@@ -13,11 +17,13 @@ apostrophe               noun   grade=7-8 cefr=A2 topic=language role=prod conf=
 clause                   noun   grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 conditional              adj    grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
 conjunction              noun   grade=7-8 cefr=B1 topic=language role=prod conf=60 src=ai
+continuous               adj    grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 direct                   adj    grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai
 expression               noun   grade=7-8 cefr=B1 topic=language|communication role=rec conf=50 src=ai|freq
 gerund                   noun   grade=7-8 cefr=A2 topic=language role=prod conf=70 src=ai
 indirect                 adj    grade=7-8 cefr=B1 topic=language role=prod conf=60 src=ai
 infinitive               noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
+irregular                adj    grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 object                   noun   grade=7-8 cefr=B1 topic=language role=rec conf=50 src=ai|freq
 participle               noun   grade=7-8 cefr=B1 topic=language role=prod conf=65 src=ai|rev
 passive                  adj    grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
@@ -31,3 +37,45 @@ reported                 adj    grade=7-8 cefr=A2 topic=language role=prod conf=
 slang                    noun   grade=7-8 cefr=B1 topic=language role=rec conf=65 src=ai
 speech                   noun   grade=7-8 cefr=A2 topic=language role=prod conf=60 src=ai
 tense                    noun   grade=7-8 cefr=A2 topic=language role=prod conf=65 src=ai
+
+# grade 9-10 · language
+adjective                noun   grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+auxiliary                noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+bilingual                adj    grade=9-10 cefr=B1 topic=language|countries role=prod conf=70 src=ai
+bracket                  noun   grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+colloquial               adj    grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+comma                    noun   grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+fluent                   adj    grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+idiom                    noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+modal                    noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+multilingual             adj    grade=9-10 cefr=B1 topic=language|countries role=prod conf=70 src=ai
+phrase                   noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+prefix                   noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+pronoun                  noun   grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+punctuation              noun   grade=9-10 cefr=B1 topic=language|school role=prod conf=70 src=ai
+standard                 adj    grade=9-10 cefr=B1 topic=language role=prod conf=75 src=ai
+suffix                   noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+synonym                  noun   grade=9-10 cefr=B1 topic=language role=prod conf=70 src=ai
+
+# grade 11-13 · language
+archaic                  adj    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+diction                  noun   grade=11-13 cefr=C1 topic=language role=rec conf=60 src=ai
+enumeration              noun   grade=11-13 cefr=C1 topic=language role=rec conf=60 src=ai
+ethos                    noun   grade=11-13 cefr=B2 topic=language role=rec conf=65 src=ai|rev
+imperative               noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+ironically               adv    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+jargon                   noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+lexical                  adj    grade=11-13 cefr=C1 topic=language role=rec conf=60 src=ai
+metaphorical             adj    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+paradox                  noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+paradoxical              adj    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+parallelism              noun   grade=11-13 cefr=C1 topic=language role=rec conf=60 src=ai
+pathos                   noun   grade=11-13 cefr=B2 topic=language role=rec conf=65 src=ai|rev
+personification          noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+personify                verb   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+rhetorical               adj    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+sarcasm                  noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+stylistic                adj    grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+syntactic                adj    grade=11-13 cefr=C1 topic=language role=rec conf=60 src=ai
+syntax                   noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai
+vernacular               noun   grade=11-13 cefr=B2 topic=language role=prod conf=70 src=ai

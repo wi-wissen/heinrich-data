@@ -2,6 +2,7 @@ NAAQS          propn abbr note=National Ambient Air Quality Standards (US)
 Nadu propn note=only in Tamil Nadu
 NAGPRA propn abbr note=Native American Graves Protection and Repatriation Act (US)
 NAICS          propn abbr note=North American Industry Classification System
+Nairobi propn note=graded
 Namibia propn
 Nanjing propn
 Naples         propn

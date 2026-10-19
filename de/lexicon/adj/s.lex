@@ -28,11 +28,13 @@ schattig adj cmp=schattiger sup=schattigsten
 schaurig adj cmp=schauriger sup=schaurigsten
 scheinbar adj
 scheu adj cmp=scheuer sup=scheuesten
+scheußlich adj cmp=scheußlicher sup=scheußlichsten note=graded
 schick adj cmp=schicker sup=schicksten
 schief adj cmp=schiefer sup=schiefsten
 schimmelig adj cmp=schimmeliger sup=schimmeligsten
 schläfrig adj cmp=schläfriger sup=schläfrigsten
 schlaftrunken adj
+schlammig adj cmp=schlammiger sup=schlammigsten note=graded
 schlank adj cmp=schlanker sup=schlanksten
 schlapp adj cmp=schlapper sup=schlappsten
 schlau adj cmp=schlauer sup=schlausten|schlauesten
@@ -168,6 +170,7 @@ sporadisch adj
 sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
 sprachlich adj
+sprachlos adj note=graded
 spröde adj cmp=spröder sup=sprödesten
 staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
@@ -182,6 +185,7 @@ statisch adj
 statistisch adj
 statthaft adj
 stattlich adj cmp=stattlicher sup=stattlichsten
+staubig adj cmp=staubiger sup=staubigsten note=graded
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
 steinern adj

@@ -6,6 +6,7 @@ E-Scooter noun g=m gen=E-Scooters pl=E-Scooter
 Ebbe noun g=f gen=Ebbe pl=Ebben
 Ebene noun g=f gen=Ebene pl=Ebenen
 Eber noun g=m gen=Ebers pl=Eber
+EC-Karte noun g=f gen=EC-Karte pl=EC-Karten note=graded
 Echo noun g=n gen=Echos pl=Echos
 Echse noun g=f gen=Echse pl=Echsen
 Echtheit noun g=f gen=Echtheit pl=- note=no plural
@@ -99,6 +100,7 @@ Einkauf noun g=m gen=Einkaufs|Einkaufes pl=Einkäufe
 Einkäufer noun g=m gen=Einkäufers pl=Einkäufer
 Einkäuferin noun g=f gen=Einkäuferin pl=Einkäuferinnen
 Einkaufsliste noun g=f gen=Einkaufsliste pl=Einkaufslisten note=graded
+Einkaufstasche noun g=f gen=Einkaufstasche pl=Einkaufstaschen note=graded
 Einkaufswagen noun g=m gen=Einkaufswagens pl=Einkaufswagen|Einkaufswägen[AT] note=graded
 Einkaufszentrum noun g=n gen=Einkaufszentrums pl=Einkaufszentren
 Einkaufszettel noun g=m gen=Einkaufszettels pl=Einkaufszettel note=graded
@@ -137,10 +139,12 @@ Einstellung noun g=f gen=Einstellung pl=Einstellungen
 Einstieg noun g=m gen=Einstiegs|Einstieges pl=Einstiege
 Einstufung noun g=f gen=Einstufung pl=Einstufungen
 Einteilung noun g=f gen=Einteilung pl=Einteilungen
+Eintopf noun g=m gen=Eintopfs|Eintopfes pl=Eintöpfe note=graded
 Eintracht noun g=f gen=Eintracht pl=- note=no plural
 Eintrag noun g=m gen=Eintrags|Eintrages pl=Einträge
 Eintragung noun g=f gen=Eintragung pl=Eintragungen
 Eintritt noun g=m gen=Eintritts|Eintrittes pl=Eintritte
+Eintrittskarte noun g=f gen=Eintrittskarte pl=Eintrittskarten note=graded
 Einvernehmen noun g=n gen=Einvernehmens pl=- note=no plural in use
 Einverständnis noun g=n gen=Einverständnisses pl=- note=no plural
 Einwand noun g=m gen=Einwands|Einwandes pl=Einwände
@@ -162,6 +166,7 @@ Einzelgängerin noun g=f gen=Einzelgängerin pl=Einzelgängerinnen
 Einzelhandel noun g=m gen=Einzelhandels pl=- note=no plural
 Einzelheit noun g=f gen=Einzelheit pl=Einzelheiten
 Einzelperson noun g=f gen=Einzelperson pl=Einzelpersonen
+Einzelzimmer noun g=n gen=Einzelzimmers pl=Einzelzimmer note=graded
 Einziehung noun g=f gen=Einziehung pl=Einziehungen
 Einzug noun g=m gen=Einzugs|Einzuges pl=Einzüge
 Eis noun g=n gen=Eises pl=Eise[rare]|Eis[colloquial] note=ice; ice cream (zwei Eis, colloquial plural)
@@ -212,6 +217,7 @@ Ellipse noun g=f gen=Ellipse pl=Ellipsen
 Elster noun g=f gen=Elster pl=Elstern
 Eltern       noun g=pl
 Elternabend noun g=m gen=Elternabends pl=Elternabende
+Elterngeld noun g=n gen=Elterngeldes|Elterngelds pl=- note=graded; mass noun
 Elternteil noun g=m gen=Elternteils|Elternteiles pl=Elternteile
 EM noun g=f gen=EM pl=- note=Europameisterschaft; no plural
 Emanzipation noun g=f gen=Emanzipation pl=Emanzipationen
@@ -250,6 +256,7 @@ Englisch noun g=n gen=Englisch|Englischs pl=- conf=80 note=the English language;
 Enjambement noun g=n gen=Enjambements pl=Enjambements
 Enkel noun g=m gen=Enkels pl=Enkel
 Enkelin noun g=f gen=Enkelin pl=Enkelinnen
+Enkelkind noun g=n gen=Enkelkindes|Enkelkinds pl=Enkelkinder note=graded
 Ensemble noun g=n gen=Ensembles pl=Ensembles
 Entartung noun g=f gen=Entartung pl=Entartungen
 Entbürokratisierung noun g=f gen=Entbürokratisierung pl=- note=mass noun

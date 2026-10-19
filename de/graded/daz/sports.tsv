@@ -1,0 +1,10 @@
+# German as a second language (DaZ) graded vocabulary, domain `sports` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · sports
+schwimmen                verb   cefr=A1 topic=sports role=prod conf=90 src=ai
+Sport                    noun   cefr=A1 topic=sports role=prod conf=95 src=ai
+
+# grade None · sports.games
+Fußball                  noun   cefr=A1 topic=sports.games role=prod conf=92 src=ai

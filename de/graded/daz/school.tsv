@@ -1,0 +1,58 @@
+# German as a second language (DaZ) graded vocabulary, domain `school` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · school
+Abitur                   noun   cefr=A2 topic=school role=prod conf=55 src=ai
+Aufgabe                  noun   cefr=A1 topic=school role=rec conf=70 src=ai
+Bedeutung                noun   cefr=A2 topic=school role=prod conf=70 src=ai
+Beispiel                 noun   cefr=A1 topic=school role=rec conf=70 src=ai
+bestehen                 verb   cefr=A2 topic=school role=prod conf=75 src=ai
+Buch                     noun   cefr=A1 topic=school role=prod conf=95 src=ai
+Buchstabe                noun   cefr=A1 topic=school role=prod conf=75 src=ai|rev
+Dolmetscher              noun   cefr=A2 topic=school|authorities role=prod conf=60 src=ai
+ergänzen                 verb   cefr=A1 topic=school role=rec conf=70 src=ai|rev
+erklären                 verb   cefr=A1 topic=school|actions.speaking role=prod conf=75 src=ai|rev
+Fehler                   noun   cefr=A2 topic=school role=prod conf=88 src=ai
+Grammatik                noun   cefr=A2 topic=school role=prod conf=70 src=ai
+Hausaufgabe              noun   cefr=A1 topic=school role=prod conf=70 src=ai
+Heft                     noun   cefr=A1 topic=school role=prod conf=85 src=ai
+Information              noun   cefr=A2 topic=school role=prod conf=80 src=ai
+Klasse                   noun   cefr=A1 topic=school role=prod conf=75 src=ai|rev
+korrigieren              verb   cefr=A2 topic=school role=prod conf=65 src=ai
+Kugelschreiber           noun   cefr=A1 topic=school role=prod conf=85 src=ai
+Lektion                  noun   cefr=A2 topic=school role=prod conf=60 src=ai
+lernen                   verb   cefr=A1 topic=school role=prod conf=99 src=ai
+Liste                    noun   cefr=A2 topic=school role=prod conf=65 src=ai
+markieren                verb   cefr=A2 topic=school role=prod conf=55 src=ai
+notieren                 verb   cefr=A2 topic=school role=prod conf=60 src=ai
+Notiz                    noun   cefr=A2 topic=school role=prod conf=60 src=ai
+Papier                   noun   cefr=A1 topic=school role=prod conf=80 src=ai
+Prüfung                  noun   cefr=A1 topic=school role=rec conf=65 src=ai
+Punkt                    noun   cefr=A2 topic=school role=prod conf=65 src=ai
+Satz                     noun   cefr=A1 topic=school role=prod conf=80 src=ai
+Schild:sign              noun   cefr=A2 topic=school|town role=prod conf=65 src=ai
+Schule                   noun   cefr=A1 topic=school role=prod conf=97 src=ai
+Seite                    noun   cefr=A1 topic=school role=prod conf=80 src=ai
+Stift                    noun   cefr=A1 topic=school role=prod conf=85 src=ai
+studieren                verb   cefr=A1 topic=school|jobs role=prod conf=85 src=ai
+Studium                  noun   cefr=A2 topic=school role=prod conf=70 src=ai
+Tafel                    noun   cefr=A1 topic=school role=prod conf=70 src=ai|rev
+Teilnehmer               noun   cefr=A2 topic=school role=prod conf=70 src=ai
+Teilnehmerin             noun   cefr=A2 topic=school role=prod conf=65 src=ai
+Test                     noun   cefr=A1 topic=school role=rec conf=70 src=ai|rev
+Text                     noun   cefr=A1 topic=school role=prod conf=80 src=ai
+Thema                    noun   cefr=A2 topic=school role=prod conf=70 src=ai
+Universität              noun   cefr=A1 topic=school role=prod conf=80 src=ai
+Unterricht               noun   cefr=A1 topic=school role=prod conf=75 src=ai|rev
+verbinden                verb   cefr=A2 topic=school role=prod conf=60 src=ai
+Vokabel                  noun   cefr=A2 topic=school role=prod conf=65 src=ai
+Wort                     noun   cefr=A1 topic=school role=prod conf=90 src=ai
+Wörterbuch               noun   cefr=A1 topic=school role=prod conf=75 src=ai|rev
+Zertifikat               noun   cefr=A2 topic=school role=prod conf=65 src=ai
+Zettel                   noun   cefr=A2 topic=school role=prod conf=70 src=ai
+zuhören                  verb   cefr=A1 topic=school role=rec conf=75 src=ai|rev
+zuordnen                 verb   cefr=A2 topic=school role=rec conf=55 src=ai
+üben                     verb   cefr=A1 topic=school role=prod conf=75 src=ai|rev
+Übersetzung              noun   cefr=A2 topic=school role=prod conf=60 src=ai
+Übung                    noun   cefr=A1 topic=school role=rec conf=70 src=ai|rev

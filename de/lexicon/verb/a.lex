@@ -91,6 +91,7 @@ abpflücken verb class=weak pp=abgepflückt perf=haben sep=ab
 abplagen verb class=weak sep=ab pp=abgeplagt perf=haben refl=acc
 abprallen verb class=weak sep=ab pp=abgeprallt perf=sein
 abpumpen verb class=weak sep=ab pp=abgepumpt perf=haben
+abputzen verb class=weak sep=ab pp=abgeputzt perf=haben note=graded
 abrackern verb class=weak sep=ab pp=abgerackert perf=haben refl=acc
 abradieren verb class=weak sep=ab pp=abradiert perf=haben
 abraten verb class=strong sep=ab 3sg=abrät past=abriet pp=abgeraten subj2=abriete perf=haben
@@ -507,6 +508,7 @@ aufschlüsseln verb class=weak sep=auf pp=aufgeschlüsselt perf=haben
 aufschnappen verb class=weak sep=auf pp=aufgeschnappt perf=haben
 aufschneiden verb class=strong sep=auf 3sg=aufschneidet past=aufschnitt pp=aufgeschnitten subj2=aufschnitte perf=haben
 aufschnüren verb class=weak sep=auf pp=aufgeschnürt perf=haben
+aufschrauben verb class=weak sep=auf pp=aufgeschraubt perf=haben note=graded
 aufschrecken verb class=weak sep=auf 3sg=aufschreckt|aufschrickt past=aufschreckte|aufschrak pp=aufgeschreckt perf=haben|sein conf=85 note=intransitive (ist aufgeschreckt, schrak auf) or transitive (hat aufgeschreckt)
 aufschreiben verb class=strong sep=auf 3sg=aufschreibt past=aufschrieb pp=aufgeschrieben subj2=aufschriebe perf=haben
 aufschreien verb class=strong sep=auf 3sg=aufschreit past=aufschrie subj2=aufschriee pp=aufgeschrien perf=haben
@@ -709,6 +711,7 @@ ausweisen verb class=strong sep=aus refl=acc 3sg=ausweist past=auswies pp=ausgew
 ausweiten verb class=weak sep=aus pp=ausgeweitet perf=haben
 auswerfen verb class=strong sep=aus 3sg=auswirft past=auswarf subj2=auswürfe pp=ausgeworfen perf=haben
 auswerten verb class=weak sep=aus pp=ausgewertet perf=haben
+auswickeln verb class=weak sep=aus pp=ausgewickelt perf=haben note=graded
 auswirken verb class=weak sep=aus pp=ausgewirkt perf=haben refl=acc
 auswischen verb class=weak sep=aus pp=ausgewischt perf=haben
 auszahlen verb class=weak sep=aus pp=ausgezahlt perf=haben

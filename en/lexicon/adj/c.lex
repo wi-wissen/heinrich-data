@@ -13,6 +13,7 @@ capital adj
 capitalist adj
 capricious adj cmp=more adv=capriciously
 captive adj
+carbon-neutral adj note=graded; hyphenated compound
 cardiac adj
 cardinal adj
 cardiovascular adj
@@ -110,6 +111,7 @@ clandestine adj adv=clandestinely
 classic adj
 classical adj adv=classically
 classified adj
+classless adj note=graded
 clean adj cmp=er adv=cleanly
 clear adj cmp=er adv=clearly
 cleft adj attr_only
@@ -133,6 +135,7 @@ coaxial adj
 Cockney adj
 coeducational adj
 coercive adj
+cogent adj adv=cogently note=graded
 cognate adj
 cognitive adj adv=cognitively
 cognizant adj gb=cognisant|cognizant
@@ -161,6 +164,7 @@ comfortable adj cmp=more adv=comfortably
 comfy adj cmp=er style=colloquial
 comic adj
 comical adj adv=comically
+coming-of-age adj note=graded; hyphenated compound
 commemorative adj
 commendable adj adv=commendably
 commensurate adj
@@ -207,6 +211,7 @@ concerned adj cmp=more
 concerted adj
 conciliatory adj
 concise adj cmp=er|more adv=concisely
+concluding adj attr_only note=graded; the concluding chapter
 conclusive adj adv=conclusively
 concrete adj adv=concretely
 concurrent adj adv=concurrently
@@ -219,6 +224,7 @@ confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
 confirmatory adj
 conflicting adj
+conformist adj cmp=more note=graded
 confused adj cmp=more adv=confusedly
 confusing adj cmp=more
 congenial adj cmp=more
@@ -246,6 +252,7 @@ constitutional adj adv=constitutionally
 constructive adj cmp=more adv=constructively
 consular adj
 consultative adj
+consumerist adj note=graded
 consummate adj adv=consummately
 contactless adj
 contagious adj cmp=more adv=contagiously

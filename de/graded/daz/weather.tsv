@@ -1,0 +1,39 @@
+# German as a second language (DaZ) graded vocabulary, domain `weather` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · weather
+bewölkt                  adj    cefr=A2 topic=weather role=prod conf=75 src=ai
+Blitz                    noun   cefr=A2 topic=weather role=prod conf=60 src=ai
+Donner                   noun   cefr=A2 topic=weather role=prod conf=55 src=ai
+feucht                   adj    cefr=A2 topic=weather role=prod conf=55 src=ai
+Gewitter                 noun   cefr=A2 topic=weather role=prod conf=75 src=ai
+Grad                     noun   cefr=A1 topic=weather|numbers role=prod conf=75 src=ai
+heiß                     adj    cefr=A1 topic=weather|qualities.senses role=prod conf=90 src=ai
+Himmel                   noun   cefr=A2 topic=weather|nature role=prod conf=70 src=ai
+Hitze                    noun   cefr=A2 topic=weather role=prod conf=70 src=ai
+kalt                     adj    cefr=A1 topic=weather|qualities.senses role=prod conf=95 src=ai
+Klima                    noun   cefr=A2 topic=weather role=prod conf=60 src=ai
+Kälte                    noun   cefr=A2 topic=weather role=prod conf=65 src=ai
+mild                     adj    cefr=A2 topic=weather role=prod conf=55 src=ai
+Nebel                    noun   cefr=A2 topic=weather role=prod conf=65 src=ai
+neblig                   adj    cefr=A2 topic=weather role=prod conf=60 src=ai
+Regen                    noun   cefr=A1 topic=weather role=prod conf=90 src=ai
+regnen                   verb   cefr=A1 topic=weather role=prod conf=85 src=ai
+regnerisch               adj    cefr=A2 topic=weather role=prod conf=55 src=ai
+scheinen                 verb   cefr=A1 topic=weather role=prod conf=75 src=ai|rev
+Schirm                   noun   cefr=A2 topic=weather role=prod conf=60 src=ai
+Schnee                   noun   cefr=A1 topic=weather role=prod conf=85 src=ai
+schneien                 verb   cefr=A1 topic=weather role=prod conf=75 src=ai
+Sonne                    noun   cefr=A1 topic=weather role=prod conf=95 src=ai
+sonnig                   adj    cefr=A1 topic=weather role=prod conf=80 src=ai
+Sturm                    noun   cefr=A2 topic=weather role=prod conf=70 src=ai
+Temperatur               noun   cefr=A2 topic=weather role=prod conf=80 src=ai
+warm                     adj    cefr=A1 topic=weather|qualities.senses role=prod conf=95 src=ai
+Wetter                   noun   cefr=A1 topic=weather role=prod conf=97 src=ai
+Wetterbericht            noun   cefr=A2 topic=weather role=prod conf=65 src=ai
+Wettervorhersage         noun   cefr=A2 topic=weather role=prod conf=55 src=ai
+Wind                     noun   cefr=A1 topic=weather role=prod conf=80 src=ai
+windig                   adj    cefr=A1 topic=weather role=prod conf=70 src=ai
+Wolke                    noun   cefr=A1 topic=weather role=prod conf=65 src=ai|rev
+wolkig                   adj    cefr=A2 topic=weather role=prod conf=55 src=ai

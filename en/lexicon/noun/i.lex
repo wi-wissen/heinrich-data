@@ -63,6 +63,7 @@ impediment     noun
 imperative     noun
 imperfection noun
 imperialism noun pl=- note=uncountable
+imperialist noun note=graded
 impersonation noun
 impertinence noun
 impetuosity noun pl=- note=uncountable
@@ -93,6 +94,7 @@ impulse        noun
 impunity noun pl=- note=uncountable
 impurity noun
 imputation noun
+in-law noun note=graded; hyphenated compound; usually plural: in-laws
 inability      noun
 inaccuracy noun
 inaction noun pl=- note=uncountable
@@ -156,8 +158,10 @@ indigo noun pl=indigos
 indiscretion noun
 individual     noun
 individualism noun pl=- note=uncountable
+individualist noun note=graded
 individuality noun
 Indo-European noun pl=- note=the language family
+indoctrination noun pl=- note=graded; uncountable
 indolence noun pl=- note=uncountable
 Indonesian     noun
 inducement noun
@@ -204,6 +208,7 @@ influx         noun
 info noun pl=- style=colloquial note=information
 informant noun
 information    noun pl=- note=uncountable
+infotainment noun pl=- note=graded; uncountable
 infraction noun
 infrastructure noun
 infringement   noun
@@ -311,6 +316,7 @@ interception noun
 interceptor noun
 intercession noun
 interchange    noun
+interconnectedness noun pl=- note=graded; uncountable
 interconnection noun
 intercourse    noun pl=- note=uncountable
 interdependence noun pl=- note=uncountable
@@ -340,7 +346,9 @@ interpreter    noun
 interrogation noun
 interruption   noun
 intersection   noun
+intersectionality noun pl=- note=graded; uncountable
 interstate     noun region=US
+intertextuality noun pl=- note=graded; uncountable
 interurban noun note=interurban railway
 interval       noun
 intervenor noun conf=90 note=legal spelling; also intervener
@@ -417,6 +425,8 @@ islander       noun
 isle           noun
 islet noun
 isolation      noun
+isolationism noun pl=- note=graded; uncountable
+isolationist noun note=graded
 isomer noun
 isomorphism noun
 isopleth noun
@@ -434,6 +444,7 @@ item           noun
 iteration noun
 itinerant noun
 itinerary noun
+IVF noun abbr pl=- note=graded; in vitro fertilization; uncountable
 ivory          noun
 ivy noun
 iwi noun pl=iwi conf=80 note=Maori loanword used in New Zealand English; plural unsure

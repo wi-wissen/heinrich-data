@@ -56,6 +56,7 @@ licht adj cmp=lichter sup=lichtesten
 lieb adj cmp=lieber sup=liebsten
 liebenswert adj cmp=liebenswerter sup=liebenswertesten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
+liebevoll adj cmp=liebevoller sup=liebevollsten note=graded
 lieblich adj cmp=lieblicher sup=lieblichsten
 lila         adj indecl
 linear adj
@@ -74,6 +75,7 @@ logistisch adj
 lokal adj
 los adj note=predicative, e.g. etwas los sein
 lösbar adj
+lose adj cmp=loser sup=losesten note=graded; loose, not tight
 löslich adj
 lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
 luftig adj cmp=luftiger sup=luftigsten

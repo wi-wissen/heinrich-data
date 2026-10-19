@@ -38,6 +38,7 @@ thing                    noun   grade=3-4 cefr=A1 topic=school|thinking role=pro
 word                     noun   grade=3-4 cefr=A1 topic=school|language role=prod conf=85 src=ai
 
 # grade 5-6 · school
+absent                   adj    grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai|rev
 assembly                 noun   grade=5-6 cefr=A2 topic=school|anglophone.uk role=rec conf=60 src=ai
 biology                  noun   grade=5-6 cefr=A2 topic=school role=prod conf=70 src=ai|rev
 calculator               noun   grade=5-6 cefr=A2 topic=school role=rec conf=55 src=ai
@@ -72,11 +73,58 @@ student                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=70
 study                    verb   grade=5-6 cefr=A2 topic=school role=prod conf=60 src=ai
 subject                  noun   grade=5-6 cefr=A1 topic=school role=prod conf=85 src=ai
 teach                    verb   grade=5-6 cefr=A1 topic=school role=prod conf=70 src=ai
+test                     verb   grade=5-6 cefr=A2 topic=school|classroom role=rec conf=55 src=ai|rev
 timetable                noun   grade=5-6 cefr=A1 topic=school|transport role=prod conf=85 src=ai
 writing                  noun   grade=5-6 cefr=A2 topic=school|classroom role=rec conf=60 src=ai|freq
 
 # grade 7-8 · school
 college                  noun   grade=7-8 cefr=A2 topic=school|anglophone.us role=rec conf=60 src=ai|freq
 education                noun   grade=7-8 cefr=B1 topic=school role=rec conf=55 src=ai|freq
+error                    noun   grade=7-8 cefr=B1 topic=school role=prod conf=65 src=ai|rev
+instruction              noun   grade=7-8 cefr=B1 topic=school role=prod conf=65 src=ai|rev
 secondary                adj    grade=7-8 cefr=B1 topic=school role=rec conf=50 src=ai|freq
 university               noun   grade=7-8 cefr=A2 topic=school|jobs role=rec conf=60 src=ai|freq
+
+# grade 9-10 · school
+ability                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=75 src=ai
+absence                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=75 src=ai
+academy                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+admission                noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+attendance               noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+campus                   noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+competence               noun   grade=9-10 cefr=B2 topic=school role=rec conf=65 src=ai
+comprehensive            noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+compulsory               adj    grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+curriculum               noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+discipline               noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+dormitory                noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+educational              adj    grade=9-10 cefr=B1 topic=school role=prod conf=75 src=ai
+examination              noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+expel                    verb   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+expulsion                noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+failure                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=75 src=ai
+fee                      noun   grade=9-10 cefr=B1 topic=school|shopping role=prod conf=75 src=ai
+guidance                 noun   grade=9-10 cefr=B1 topic=school role=prod conf=75 src=ai
+headmaster               noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+headmistress             noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+lecture                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+lecturer                 noun   grade=9-10 cefr=B1 topic=school|jobs role=prod conf=70 src=ai
+memorize                 verb   grade=9-10 cefr=B1 topic=school|academic role=prod conf=70 src=ai
+optional                 adj    grade=9-10 cefr=B1 topic=school|thinking role=prod conf=70 src=ai
+practice                 noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+prerequisite             noun   grade=9-10 cefr=B2 topic=school role=rec conf=60 src=ai
+primary                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=60 src=ai
+professor                noun   grade=9-10 cefr=B1 topic=school|jobs role=prod conf=70 src=ai
+reward                   noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+scholarship              noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+selection                noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+semester                 noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+seminar                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+session                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+suspend                  verb   grade=9-10 cefr=B1 topic=school|law role=prod conf=70 src=ai
+suspension               noun   grade=9-10 cefr=B1 topic=school|law role=prod conf=70 src=ai
+tuition                  noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+tutor                    noun   grade=9-10 cefr=B1 topic=school role=prod conf=70 src=ai
+
+# grade 11-13 · school
+attainment               noun   grade=11-13 cefr=B2 topic=school role=prod conf=70 src=ai

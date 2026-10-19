@@ -10,6 +10,7 @@ Kadett noun g=m gen=Kadetten pl=Kadetten
 Käfer noun g=m gen=Käfers pl=Käfer
 Kaffee noun g=m gen=Kaffees pl=Kaffees
 Kaffeeklatsch noun g=m gen=Kaffeeklatsches pl=- note=no plural (mass or abstract noun)
+Kaffeemaschine noun g=f gen=Kaffeemaschine pl=Kaffeemaschinen note=graded
 Käfig noun g=m gen=Käfigs pl=Käfige
 Kahn noun g=m gen=Kahns|Kahnes pl=Kähne
 Kaiser noun g=m gen=Kaisers pl=Kaiser
@@ -31,6 +32,7 @@ Kalkül noun g=n|m gen=Kalküls pl=Kalküle
 Kalkulation noun g=f gen=Kalkulation pl=Kalkulationen
 Kalorie noun g=f gen=Kalorie pl=Kalorien
 Kälte noun g=f gen=Kälte pl=- note=mass noun
+Kaltmiete noun g=f gen=Kaltmiete pl=Kaltmieten note=graded
 Kamel noun g=n gen=Kamels pl=Kamele
 Kamera noun g=f gen=Kamera pl=Kameras
 Kamerad noun g=m gen=Kameraden pl=Kameraden
@@ -132,6 +134,7 @@ Kasse noun g=f gen=Kasse pl=Kassen
 Kassenbon noun g=m gen=Kassenbons pl=Kassenbons note=graded
 Kassenwart noun g=m gen=Kassenwarts|Kassenwartes pl=Kassenwarte
 Kassenwartin noun g=f gen=Kassenwartin pl=Kassenwartinnen
+Kassenzettel noun g=m gen=Kassenzettels pl=Kassenzettel note=graded
 Kasserolle noun g=f gen=Kasserolle pl=Kasserollen
 Kassette noun g=f gen=Kassette pl=Kassetten
 Kassierer noun g=m gen=Kassierers pl=Kassierer
@@ -194,6 +197,7 @@ Kennerin noun g=f gen=Kennerin pl=Kennerinnen
 Kenntnis noun g=f gen=Kenntnis pl=Kenntnisse
 Kenntnisnahme noun g=f gen=Kenntnisnahme pl=- note=zur Kenntnisnahme
 Kennung noun g=f gen=Kennung pl=Kennungen
+Kennzeichen noun g=n gen=Kennzeichens pl=Kennzeichen note=graded
 Kennzeichnung noun g=f gen=Kennzeichnung pl=Kennzeichnungen
 Keramik noun g=f gen=Keramik pl=Keramiken
 Kerker noun g=m gen=Kerkers pl=Kerker
@@ -220,12 +224,14 @@ Kieler noun g=m gen=Kielers pl=Kieler note=inhabitant of Kiel; also the indeclin
 Kiellegung noun g=f gen=Kiellegung pl=Kiellegungen
 Kieme noun g=f gen=Kieme pl=Kiemen note=graded
 Kies noun g=m gen=Kieses pl=- note=no plural
+Kiesel noun g=m gen=Kiesels pl=Kiesel note=graded
 Kilo noun g=n gen=Kilos pl=Kilos
 Kilogramm noun g=n gen=Kilogramms pl=Kilogramm|Kilogramme[rare]
 Kilometer noun g=m gen=Kilometers pl=Kilometer
 Kilowatt noun g=n gen=Kilowatts pl=Kilowatt|Kilowatts
 Kind         noun g=n gen=Kindes|Kinds pl=Kinder
 Kindchen noun g=n gen=Kindchens pl=Kindchen
+Kinderarzt noun g=m gen=Kinderarztes|Kinderarzts pl=Kinderärzte note=graded
 Kinderbuch noun g=n gen=Kinderbuches|Kinderbuchs pl=Kinderbücher note=graded
 Kindergarten noun g=m gen=Kindergartens pl=Kindergärten
 Kindergeld noun g=n gen=Kindergelds|Kindergeldes pl=- note=no plural
@@ -236,6 +242,7 @@ Kinderrecht noun g=n gen=Kinderrechts|Kinderrechtes pl=Kinderrechte note=graded
 Kinderschutz noun g=m gen=Kinderschutzes pl=- note=graded; no plural
 Kindersitz noun g=m gen=Kindersitzes pl=Kindersitze note=graded
 Kindersuchmaschine noun g=f gen=Kindersuchmaschine pl=Kindersuchmaschinen note=graded
+Kinderwagen noun g=m gen=Kinderwagens pl=Kinderwagen note=graded
 Kinderzimmer noun g=n gen=Kinderzimmers pl=Kinderzimmer note=graded
 Kindheit noun g=f gen=Kindheit pl=- note=plural practically not used
 Kindlein noun g=n gen=Kindleins pl=Kindlein
@@ -299,8 +306,10 @@ Klebstoff noun g=m gen=Klebstoffs|Klebstoffes pl=Klebstoffe
 Klee noun g=m gen=Klees pl=- note=no plural
 Kleiber noun g=m gen=Kleibers pl=Kleiber
 Kleid noun g=n gen=Kleids|Kleides pl=Kleider
+Kleiderschrank noun g=m gen=Kleiderschranks|Kleiderschrankes pl=Kleiderschränke note=graded
 Kleidung noun g=f gen=Kleidung pl=- note=mass noun
 Kleinbuchstabe noun g=m gen=Kleinbuchstabens pl=Kleinbuchstaben note=graded
+Kleingeld noun g=n gen=Kleingeldes|Kleingelds pl=- note=graded; mass noun
 Kleinigkeit noun g=f gen=Kleinigkeit pl=Kleinigkeiten
 Kleinod noun g=n gen=Kleinods|Kleinodes pl=Kleinode|Kleinodien
 Kleinschreibung noun g=f gen=Kleinschreibung pl=- note=no plural
@@ -368,6 +377,7 @@ Köchin noun g=f gen=Köchin pl=Köchinnen
 Köder noun g=m gen=Köders pl=Köder
 Kodex noun g=m gen=Kodex|Kodexes pl=Kodexe|Kodizes note=des Kodex(es)
 Koffer noun g=m gen=Koffers pl=Koffer
+Kofferraum noun g=m gen=Kofferraums|Kofferraumes pl=Kofferräume note=graded
 Kohärenz noun g=f gen=Kohärenz pl=- note=mass noun
 Kohl noun g=m gen=Kohls|Kohles pl=- note=cabbage; plural not used
 Kohle noun g=f gen=Kohle pl=Kohlen
@@ -527,6 +537,8 @@ Kontinentalplatte noun g=f gen=Kontinentalplatte pl=Kontinentalplatten
 Kontingent noun g=n gen=Kontingents|Kontingentes pl=Kontingente
 Kontinuität noun g=f gen=Kontinuität pl=- note=no plural in practice
 Konto noun g=n gen=Kontos pl=Konten|Kontos[rare]|Konti[rare]
+Kontoauszug noun g=m gen=Kontoauszugs|Kontoauszuges pl=Kontoauszüge note=graded
+Kontonummer noun g=f gen=Kontonummer pl=Kontonummern note=graded
 Kontor noun g=n gen=Kontors pl=Kontore
 Kontrabass noun g=m gen=Kontrabasses pl=Kontrabässe
 Kontrahent noun g=m gen=Kontrahenten pl=Kontrahenten
@@ -560,7 +572,9 @@ Kopf noun g=m gen=Kopfes|Kopfs pl=Köpfe
 Kopfbedeckung noun g=f gen=Kopfbedeckung pl=Kopfbedeckungen
 Köpfchen noun g=n gen=Köpfchens pl=Köpfchen
 Kopfhörer noun g=m gen=Kopfhörers pl=Kopfhörer
+Kopfkissen noun g=n gen=Kopfkissens pl=Kopfkissen note=graded
 Kopfrechnen noun g=n gen=Kopfrechnens pl=- note=graded; mental arithmetic (school subject term); no plural
+Kopfschmerzen noun g=pl note=graded; plural only (headache)
 Kopfsprung noun g=m gen=Kopfsprungs|Kopfsprunges pl=Kopfsprünge note=graded
 Kopfstand noun g=m gen=Kopfstandes|Kopfstands pl=Kopfstände note=graded
 Kopftuchmädchen noun g=n gen=Kopftuchmädchens pl=Kopftuchmädchen style=offensive note=derogatory term for Muslim girls and women
@@ -622,8 +636,10 @@ Kranke noun g=m|f decl=adj
 Krankenhaus noun g=n gen=Krankenhauses pl=Krankenhäuser
 Krankenkasse noun g=f gen=Krankenkasse pl=Krankenkassen
 Krankenpfleger noun g=m gen=Krankenpflegers pl=Krankenpfleger note=graded
+Krankenpflegerin noun g=f gen=Krankenpflegerin pl=Krankenpflegerinnen note=graded
 Krankenschwester noun g=f gen=Krankenschwester pl=Krankenschwestern note=graded
 Krankenversicherung noun g=f gen=Krankenversicherung pl=Krankenversicherungen
+Krankenwagen noun g=m gen=Krankenwagens pl=Krankenwagen note=graded
 Krankheit noun g=f gen=Krankheit pl=Krankheiten
 Krankmeldung noun g=f gen=Krankmeldung pl=Krankmeldungen
 Krankschreibung noun g=f gen=Krankschreibung pl=Krankschreibungen
@@ -641,6 +657,7 @@ Kreativität noun g=f gen=Kreativität pl=- note=abstract noun
 Kreatur noun g=f gen=Kreatur pl=Kreaturen
 Krebs noun g=m gen=Krebses pl=Krebse
 Kredit noun g=m gen=Kredits|Kredites pl=Kredite
+Kreditkarte noun g=f gen=Kreditkarte pl=Kreditkarten note=graded
 Kreditnehmer noun g=m gen=Kreditnehmers pl=Kreditnehmer
 Kreditor noun g=m gen=Kreditors pl=Kreditoren
 Kreditwürdigkeit noun g=f gen=Kreditwürdigkeit pl=- note=mass noun
@@ -743,6 +760,8 @@ Kurie noun g=f gen=Kurie pl=Kurien
 Kurier noun g=m gen=Kuriers pl=Kuriere
 Kurs noun g=m gen=Kurses pl=Kurse
 Kursivdruck noun g=m gen=Kursivdrucks|Kursivdruckes pl=- note=plural not used
+Kursleiter noun g=m gen=Kursleiters pl=Kursleiter note=graded
+Kursleiterin noun g=f gen=Kursleiterin pl=Kursleiterinnen note=graded
 Kurve noun g=f gen=Kurve pl=Kurven
 Kürze noun g=f gen=Kürze pl=- note=no plural
 Kürzel noun g=n gen=Kürzels pl=Kürzel

@@ -73,6 +73,7 @@ endorse verb
 endow verb
 endure verb
 enforce verb
+enfranchise verb note=graded; spelled -ise in both varieties
 engage verb
 engender verb
 engineer verb

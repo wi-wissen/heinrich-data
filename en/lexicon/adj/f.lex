@@ -9,6 +9,7 @@ fair           adj cmp=er adv=fairly
 faithful       adj adv=faithfully
 faithless adj
 fake           adj
+fallacious adj adv=fallaciously note=graded
 false          adj cmp=er|more adv=falsely
 famed adj
 familial adj
@@ -76,6 +77,8 @@ fine           adj cmp=er adv=finely
 finite         adj adv=finitely
 Finnish        adj
 firm           adj cmp=er adv=firmly
+first-past-the-post adj attr_only note=graded; hyphenated compound
+first-person adj note=graded; hyphenated compound
 firsthand adj
 fiscal         adj adv=fiscally
 fissile adj

@@ -1,0 +1,47 @@
+# German as a second language (DaZ) graded vocabulary, domain `play` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · play
+Basketball               noun   cefr=A2 topic=play|sports.games role=prod conf=55 src=ai
+Disco                    noun   cefr=A2 topic=play role=prod conf=55 src=ai
+Eintritt                 noun   cefr=A2 topic=play role=prod conf=70 src=ai
+fernsehen                verb   cefr=A1 topic=play|media role=prod conf=85 src=ai
+Film                     noun   cefr=A1 topic=play|media role=prod conf=88 src=ai
+Foto                     noun   cefr=A1 topic=play|media role=prod conf=85 src=ai
+fotografieren            verb   cefr=A1 topic=play role=prod conf=70 src=ai
+Freizeit                 noun   cefr=A1 topic=play role=prod conf=90 src=ai
+gewinnen                 verb   cefr=A2 topic=play|sports.games role=prod conf=75 src=ai
+Gitarre                  noun   cefr=A2 topic=play role=prod conf=60 src=ai
+Hobby                    noun   cefr=A1 topic=play role=prod conf=92 src=ai
+Instrument               noun   cefr=A2 topic=play role=prod conf=60 src=ai
+joggen                   verb   cefr=A2 topic=play|sports.fitness role=prod conf=70 src=ai
+Klavier                  noun   cefr=A2 topic=play role=prod conf=60 src=ai
+Lied                     noun   cefr=A2 topic=play role=prod conf=70 src=ai
+Mannschaft               noun   cefr=A2 topic=play|sports.games role=prod conf=65 src=ai
+Mitglied                 noun   cefr=A2 topic=play role=prod conf=70 src=ai
+Musik                    noun   cefr=A1 topic=play role=prod conf=95 src=ai
+Party                    noun   cefr=A1 topic=play|celebrations role=prod conf=85 src=ai
+Picknick                 noun   cefr=A2 topic=play role=prod conf=55 src=ai
+Programm                 noun   cefr=A2 topic=play|media role=prod conf=65 src=ai
+Roman                    noun   cefr=A2 topic=play role=prod conf=55 src=ai
+Sendung                  noun   cefr=A2 topic=play|media role=prod conf=65 src=ai
+Serie                    noun   cefr=A2 topic=play|media role=prod conf=65 src=ai
+singen                   verb   cefr=A1 topic=play role=prod conf=80 src=ai
+Ski                      noun   cefr=A2 topic=play|sports role=prod conf=55 src=ai
+spazieren                verb   cefr=A1 topic=play role=prod conf=70 src=ai
+Spiel                    noun   cefr=A1 topic=play role=prod conf=80 src=ai
+spielen                  verb   cefr=A1 topic=play role=prod conf=98 src=ai
+Spieler                  noun   cefr=A2 topic=play|sports.games role=prod conf=60 src=ai
+Tanz                     noun   cefr=A2 topic=play role=prod conf=55 src=ai
+tanzen                   verb   cefr=A1 topic=play role=prod conf=85 src=ai
+Tennis                   noun   cefr=A2 topic=play|sports.games role=prod conf=60 src=ai
+trainieren               verb   cefr=A2 topic=play|sports.fitness role=prod conf=70 src=ai
+Training                 noun   cefr=A2 topic=play|sports.fitness role=prod conf=65 src=ai
+Treffen                  noun   cefr=A2 topic=play|people role=prod conf=65 src=ai
+verabreden               verb   cefr=A2 topic=play|people role=prod conf=75 src=ai
+Verabredung              noun   cefr=A2 topic=play|people role=prod conf=70 src=ai
+Verein                   noun   cefr=A2 topic=play|society role=prod conf=75 src=ai
+Volleyball               noun   cefr=A2 topic=play|sports.games role=prod conf=55 src=ai
+Wanderung                noun   cefr=A2 topic=play role=prod conf=60 src=ai
+Zeitschrift              noun   cefr=A2 topic=play|media role=prod conf=70 src=ai

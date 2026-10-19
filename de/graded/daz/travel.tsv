@@ -1,0 +1,42 @@
+# German as a second language (DaZ) graded vocabulary, domain `travel` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · travel
+Abreise                  noun   cefr=A2 topic=travel role=rec conf=55 src=ai
+Berg                     noun   cefr=A2 topic=travel|nature role=prod conf=80 src=ai
+buchen                   verb   cefr=A2 topic=travel role=prod conf=80 src=ai
+Buchung                  noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Campingplatz             noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+erholen                  verb   cefr=A2 topic=travel|health role=prod conf=70 src=ai
+Fluss                    noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
+Gast                     noun   cefr=A2 topic=travel|celebrations role=prod conf=75 src=ai
+Hotel                    noun   cefr=A1 topic=travel|town role=prod conf=85 src=ai
+Insel                    noun   cefr=A2 topic=travel|nature role=prod conf=65 src=ai
+Jugendherberge           noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Kamera                   noun   cefr=A2 topic=travel|media role=prod conf=60 src=ai
+Koffer                   noun   cefr=A1 topic=travel role=prod conf=75 src=ai
+Landkarte                noun   cefr=A2 topic=travel role=prod conf=60 src=ai
+Landschaft               noun   cefr=A2 topic=travel|nature role=prod conf=60 src=ai
+Meer                     noun   cefr=A2 topic=travel|nature role=prod conf=80 src=ai
+Natur                    noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
+Pension                  noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Postkarte                noun   cefr=A2 topic=travel role=prod conf=60 src=ai
+Reise                    noun   cefr=A1 topic=travel role=prod conf=75 src=ai
+reisen                   verb   cefr=A1 topic=travel role=prod conf=80 src=ai
+reservieren              verb   cefr=A2 topic=travel|food role=prod conf=80 src=ai
+Reservierung             noun   cefr=A2 topic=travel role=prod conf=65 src=ai
+Rezeption                noun   cefr=A2 topic=travel role=prod conf=65 src=ai
+See:lake                 noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
+Sehenswürdigkeit         noun   cefr=A2 topic=travel role=prod conf=70 src=ai
+Souvenir                 noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Stadtplan                noun   cefr=A2 topic=travel|town role=prod conf=88 src=ai
+Strand                   noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
+Tourist                  noun   cefr=A2 topic=travel role=prod conf=65 src=ai
+Touristin                noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Unterkunft               noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+Urlaub                   noun   cefr=A1 topic=travel role=prod conf=85 src=ai
+Wald                     noun   cefr=A2 topic=travel|nature role=prod conf=75 src=ai
+Zelt                     noun   cefr=A2 topic=travel role=prod conf=55 src=ai
+übernachten              verb   cefr=A2 topic=travel role=prod conf=75 src=ai
+Übernachtung             noun   cefr=A2 topic=travel role=prod conf=65 src=ai

@@ -1,0 +1,21 @@
+# German as a second language (DaZ) graded vocabulary, domain `job_search` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · job_search
+Abschluss                noun   cefr=A2 topic=job_search|school role=prod conf=70 src=ai
+Arbeitgeber              noun   cefr=A2 topic=job_search role=prod conf=75 src=ai
+Arbeitnehmer             noun   cefr=A2 topic=job_search role=prod conf=60 src=ai
+Arbeitsplatz             noun   cefr=A2 topic=job_search|workplace role=prod conf=80 src=ai
+Ausbildung               noun   cefr=A2 topic=job_search|school role=prod conf=85 src=ai
+bewerben                 verb   cefr=A2 topic=job_search role=prod conf=92 src=ai
+Bewerbung                noun   cefr=A2 topic=job_search role=prod conf=92 src=ai
+Jobcenter                noun   cefr=A2 topic=job_search|authorities role=prod conf=85 src=ai
+Kenntnis                 noun   cefr=A2 topic=job_search role=prod conf=60 src=ai
+Kopie                    noun   cefr=A2 topic=job_search|authorities role=prod conf=75 src=ai
+Praktikum                noun   cefr=A2 topic=job_search role=prod conf=80 src=ai
+Stelle                   noun   cefr=A2 topic=job_search|space role=prod conf=85 src=ai
+Unterlage                noun   cefr=A2 topic=job_search|authorities role=prod conf=70 src=ai
+verdienen                verb   cefr=A2 topic=job_search|money role=prod conf=85 src=ai
+Vollzeit                 noun   cefr=A2 topic=job_search role=prod conf=75 src=ai
+Zeugnis                  noun   cefr=A2 topic=job_search|childcare role=prod conf=75 src=ai

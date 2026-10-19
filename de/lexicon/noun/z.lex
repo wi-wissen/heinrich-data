@@ -11,12 +11,14 @@ Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
 Zahlwort noun g=n gen=Zahlworts|Zahlwortes pl=Zahlwörter
 Zahn noun g=m gen=Zahns|Zahnes pl=Zähne
+Zahnarzt noun g=m gen=Zahnarztes|Zahnarzts pl=Zahnärzte note=graded
 Zahnbürste noun g=f gen=Zahnbürste pl=Zahnbürsten note=graded
 Zahnfleisch noun g=n gen=Zahnfleisches|Zahnfleischs[rare] pl=- note=graded; mass noun
 Zahnpasta noun g=f gen=Zahnpasta pl=Zahnpasten
 Zahnpflege noun g=f gen=Zahnpflege pl=- note=graded; mass noun
 Zahnrad noun g=n gen=Zahnrades|Zahnrads pl=Zahnräder note=graded
 Zahnschmelz noun g=m gen=Zahnschmelzes pl=- note=graded; mass noun
+Zahnschmerzen noun g=pl note=graded; plural only (toothache)
 Zahnspange noun g=f gen=Zahnspange pl=Zahnspangen
 Zange noun g=f gen=Zange pl=Zangen
 Zank noun g=m gen=Zanks|Zankes pl=- note=no plural (mass or abstract noun)
@@ -45,6 +47,7 @@ Zehnerübergang noun g=m gen=Zehnerübergangs|Zehnerüberganges pl=Zehnerüberg�
 Zehntausender noun g=m gen=Zehntausenders pl=Zehntausender note=graded
 Zehntel noun g=n gen=Zehntels pl=Zehntel
 Zeichen noun g=n gen=Zeichens pl=Zeichen
+Zeichenblock noun g=m gen=Zeichenblocks|Zeichenblockes pl=Zeichenblöcke|Zeichenblocks note=graded
 Zeichensetzung noun g=f gen=Zeichensetzung pl=- note=no plural
 Zeichentrick noun g=m gen=Zeichentricks pl=- note=animated cartoon technique; Zeichentrickfilm
 Zeichentrickfilm noun g=m gen=Zeichentrickfilms|Zeichentrickfilmes pl=Zeichentrickfilme

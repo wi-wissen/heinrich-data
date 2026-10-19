@@ -11,6 +11,8 @@ facilitator noun
 facility       noun
 facsimile noun
 fact           noun
+fact-checker noun note=graded; hyphenated compound
+fact-checking noun pl=- note=graded; hyphenated compound; uncountable
 faction        noun
 factor         noun
 factorization noun gb=factorisation|factorization
@@ -23,6 +25,7 @@ failure        noun
 fair           noun
 fairground noun
 fairness       noun pl=- note=uncountable
+fairtrade noun pl=- conf=85 note=graded; also adjective: fairtrade coffee; also written fair trade
 fairy          noun
 fairyland noun
 faith          noun
@@ -165,6 +168,7 @@ file           noun
 filename noun
 filer noun
 filesystem noun conf=85 note=also file system
+filibuster noun note=graded
 filing         noun
 Filipino       noun note=plural Filipinos
 fill           noun
@@ -222,6 +226,7 @@ fishcake noun
 fisher noun
 fisherman      noun pl=fishermen
 fishery        noun
+fishing noun pl=- note=graded; uncountable
 fishmonger noun
 fission noun
 fissure noun
@@ -247,11 +252,13 @@ flap noun
 flapjack noun
 flare noun
 flash          noun
+flash-forward noun note=graded; hyphenated compound
 flashback noun
 flashlight noun region=US note=graded; British torch
 flask noun
 flat           noun
 flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)
+flatmate noun region=GB note=graded; US roommate
 flattery noun
 flavor         noun gb=flavour
 flaw noun
@@ -278,6 +285,7 @@ float          noun
 floatplane noun
 flock          noun
 flood          noun
+flooding noun pl=- note=graded; uncountable
 floodplain     noun
 floodway noun
 floor          noun
@@ -309,6 +317,8 @@ flyer noun conf=90 note=also flier
 flywheel noun
 foal noun
 foam           noun
+focalization noun gb=focalisation pl=- note=graded; uncountable
+focalizer noun gb=focaliser note=graded
 focus          noun pl=focuses|foci
 fodder noun pl=- note=uncountable
 foe            noun
@@ -370,6 +380,7 @@ foremast noun
 forenoon noun style=archaic
 forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
+foreshadowing noun pl=- note=graded; uncountable
 foresight noun
 forest         noun
 forester noun
@@ -416,6 +427,7 @@ fragmentation noun
 fragrance noun
 frame          noun
 framework      noun
+framing noun note=graded
 franc          noun
 franchise      noun
 Franciscan noun

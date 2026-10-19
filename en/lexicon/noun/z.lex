@@ -4,6 +4,7 @@ zee noun note=American name of the letter z
 zenith noun
 zephyr noun
 zest noun
+zeugma noun pl=zeugmas|zeugmata conf=85 note=graded
 zinc noun pl=- note=uncountable
 Zionist noun
 ZIP noun abbr note=US postal code, in ZIP code

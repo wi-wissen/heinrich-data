@@ -144,6 +144,7 @@ legislator    noun
 legislature   noun
 legitimacy    noun pl=- note=uncountable
 leisure       noun pl=- note=uncountable
+leitmotif noun gb=leitmotiv|leitmotif conf=85 note=graded; the spelling leitmotiv is also found in both varieties
 lemma noun pl=lemmas|lemmata
 lemon noun
 lemonade noun
@@ -272,6 +273,7 @@ Lithuanian    noun
 litigant noun
 litigation    noun
 litigator noun
+litotes noun pl=litotes note=graded; same form in the plural
 litter        noun
 littoral noun
 liturgy noun
@@ -294,6 +296,7 @@ loam noun pl=- note=uncountable
 loan          noun
 loanword noun
 lobby         noun
+lobbying noun pl=- note=graded; uncountable
 lobbyist noun
 lobe noun
 lobster noun
@@ -326,6 +329,7 @@ login noun
 logistics     noun pl=- note=uncountable
 logo          noun note=plural logos
 logon noun
+logos noun pl=- note=graded; uncountable; rhetoric: appeal to reason
 logout noun
 loin noun
 lollipop noun

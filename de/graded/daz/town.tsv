@@ -1,0 +1,44 @@
+# German as a second language (DaZ) graded vocabulary, domain `town` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · town
+Ausgang                  noun   cefr=A1 topic=town|shopping role=rec conf=80 src=ai
+Ausstellung              noun   cefr=A2 topic=town|play role=prod conf=60 src=ai
+Bank:financial           noun   cefr=A1 topic=town|banking role=prod conf=85 src=ai
+Bar:pub                  noun   cefr=A2 topic=town|food role=prod conf=55 src=ai
+Bibliothek               noun   cefr=A1 topic=town role=rec conf=65 src=ai|rev
+Bücherei                 noun   cefr=A2 topic=town role=prod conf=55 src=ai
+Dorf                     noun   cefr=A1 topic=town role=prod conf=80 src=ai
+Ecke                     noun   cefr=A1 topic=town|space role=prod conf=70 src=ai|rev
+Eingang                  noun   cefr=A1 topic=town|shopping role=rec conf=80 src=ai
+Friedhof                 noun   cefr=A2 topic=town role=prod conf=55 src=ai
+Gebäude                  noun   cefr=A2 topic=town role=prod conf=70 src=ai
+Gegend                   noun   cefr=A2 topic=town role=prod conf=65 src=ai
+Großstadt                noun   cefr=A2 topic=town role=prod conf=65 src=ai
+Imbiss                   noun   cefr=A2 topic=town|food role=prod conf=65 src=ai
+Innenstadt               noun   cefr=A2 topic=town role=prod conf=75 src=ai
+Kino                     noun   cefr=A1 topic=town|play role=prod conf=90 src=ai
+Kirche                   noun   cefr=A1 topic=town role=prod conf=80 src=ai
+Kleinstadt               noun   cefr=A2 topic=town role=prod conf=55 src=ai
+Kneipe                   noun   cefr=A2 topic=town|food role=prod conf=60 src=ai
+Konzert                  noun   cefr=A2 topic=town|play role=prod conf=75 src=ai
+Kreuzung                 noun   cefr=A1 topic=town|traffic role=prod conf=70 src=ai|rev
+Marktplatz               noun   cefr=A2 topic=town role=prod conf=60 src=ai
+Moschee                  noun   cefr=A1 topic=town role=prod conf=60 src=ai
+Museum                   noun   cefr=A1 topic=town|play role=prod conf=80 src=ai
+Ort                      noun   cefr=A1 topic=town|self role=prod conf=75 src=ai|rev
+Park                     noun   cefr=A1 topic=town role=prod conf=85 src=ai
+Parkplatz                noun   cefr=A1 topic=town|traffic role=prod conf=70 src=ai|rev
+Platz                    noun   cefr=A1 topic=town role=prod conf=85 src=ai
+Post                     noun   cefr=A1 topic=town|media role=prod conf=85 src=ai
+Rathaus                  noun   cefr=A1 topic=town|authorities role=prod conf=75 src=ai
+Schwimmbad               noun   cefr=A1 topic=town|sports role=prod conf=80 src=ai
+Stadion                  noun   cefr=A2 topic=town|sports role=prod conf=60 src=ai
+Stadt                    noun   cefr=A1 topic=town role=prod conf=98 src=ai
+Stadtteil                noun   cefr=A2 topic=town role=prod conf=70 src=ai
+Theater                  noun   cefr=A2 topic=town|play role=prod conf=75 src=ai
+Turm                     noun   cefr=A2 topic=town role=prod conf=60 src=ai
+Umgebung                 noun   cefr=A2 topic=town role=prod conf=60 src=ai
+Zentrum                  noun   cefr=A1 topic=town role=prod conf=80 src=ai
+Zoo                      noun   cefr=A2 topic=town|play role=prod conf=65 src=ai

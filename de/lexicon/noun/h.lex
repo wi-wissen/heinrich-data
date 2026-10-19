@@ -10,13 +10,16 @@ Habitus noun g=m gen=Habitus pl=- note=genitive without ending; plural not in co
 Habsburger noun g=m gen=Habsburgers pl=Habsburger
 Hacker noun g=m gen=Hackers pl=Hacker
 Hackerin noun g=f gen=Hackerin pl=Hackerinnen
+Hackfleisch noun g=n gen=Hackfleisches|Hackfleischs pl=- note=graded; mass noun
 Hafen noun g=m gen=Hafens pl=Häfen
 Hafer noun g=m gen=Hafers pl=- note=no plural
 Haferflocke noun g=f gen=Haferflocke pl=Haferflocken
 Haff noun g=n gen=Haffs|Haffes pl=Haffe|Haffs
 Haft noun g=f gen=Haft pl=- note=mass noun
 Häftling noun g=m gen=Häftlings pl=Häftlinge
+Haftpflichtversicherung noun g=f gen=Haftpflichtversicherung pl=Haftpflichtversicherungen note=graded
 Haftung noun g=f gen=Haftung pl=Haftungen
+Hagebutte noun g=f gen=Hagebutte pl=Hagebutten note=graded
 Hagel noun g=m gen=Hagels pl=- note=no plural
 Hagelkorn noun g=n gen=Hagelkorns pl=Hagelkörner
 Hahn noun g=m gen=Hahns|Hahnes pl=Hähne|Hahnen[rare]
@@ -39,6 +42,7 @@ Hallenbad noun g=n gen=Hallenbades|Hallenbads pl=Hallenbäder note=graded
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
 Halm noun g=m gen=Halmes|Halms pl=Halme
 Hals noun g=m gen=Halses pl=Hälse
+Halsschmerzen noun g=pl note=graded; plural only (sore throat)
 Halt noun g=m gen=Halts|Haltes pl=- note=hold, stop; plural not used
 Halter noun g=m gen=Halters pl=Halter
 Haltestelle noun g=f gen=Haltestelle pl=Haltestellen note=graded
@@ -64,12 +68,14 @@ Handpuppe noun g=f gen=Handpuppe pl=Handpuppen note=graded
 Handschellen noun g=pl
 Handschuh noun g=m gen=Handschuhs|Handschuhes pl=Handschuhe note=graded
 Handstand noun g=m gen=Handstandes|Handstands pl=Handstände note=graded
+Handtasche noun g=f gen=Handtasche pl=Handtaschen note=graded
 Handtuch noun g=n gen=Handtuches|Handtuchs pl=Handtücher note=graded
 Handvoll noun g=f gen=Handvoll pl=- note=eine Handvoll Leute; plural not used
 Handwerk noun g=n gen=Handwerks|Handwerkes pl=Handwerke
 Handwerker noun g=m gen=Handwerkers pl=Handwerker
 Handwerkerin noun g=f gen=Handwerkerin pl=Handwerkerinnen
 Handy noun g=n gen=Handys pl=Handys
+Handynummer noun g=f gen=Handynummer pl=Handynummern note=graded
 Hanf noun g=m gen=Hanfs|Hanfes pl=- note=mass noun
 Hang noun g=m gen=Hangs|Hanges pl=Hänge
 Hängematte noun g=f gen=Hängematte pl=Hängematten note=compound not split correctly by the analyser
@@ -104,8 +110,10 @@ Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
 Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
 Häuflein noun g=n gen=Häufleins pl=Häuflein
 Häufung noun g=f gen=Häufung pl=Häufungen
+Hauptbahnhof noun g=m gen=Hauptbahnhofs|Hauptbahnhofes pl=Hauptbahnhöfe note=graded
 Hauptdarstellerin noun g=f gen=Hauptdarstellerin pl=Hauptdarstellerinnen
 Hauptfigur noun g=f gen=Hauptfigur pl=Hauptfiguren
+Hauptgericht noun g=n gen=Hauptgerichts|Hauptgerichtes pl=Hauptgerichte note=graded
 Haupthandlung noun g=f gen=Haupthandlung pl=Haupthandlungen
 Häuptling noun g=m gen=Häuptlings pl=Häuptlinge
 Hauptmann noun g=m gen=Hauptmanns|Hauptmannes pl=Hauptleute
@@ -116,16 +124,23 @@ Hauptstadt noun g=f gen=Hauptstadt pl=Hauptstädte
 Hauptteil noun g=m gen=Hauptteils|Hauptteiles pl=Hauptteile note=graded
 Hauptwort noun g=n gen=Hauptwortes|Hauptworts[rare] pl=Hauptwörter note=graded
 Haus         noun g=n sg=Haus,Hauses,Haus|Hause,Haus pl=Häuser note=dative Hause is standard in zu/nach Hause
+Hausarbeit noun g=f gen=Hausarbeit pl=Hausarbeiten note=graded
+Hausarzt noun g=m gen=Hausarztes|Hausarzts pl=Hausärzte note=graded
 Hausaufgabe noun g=f gen=Hausaufgabe pl=Hausaufgaben
 Häuschen noun g=n gen=Häuschens pl=Häuschen
+Hausfrau noun g=f gen=Hausfrau pl=Hausfrauen note=graded
 Haushalt noun g=m gen=Haushalts|Haushaltes pl=Haushalte
 Haushälter noun g=m gen=Haushälters pl=Haushälter note=also gov. jargon: budget politician
 Haushälterin noun g=f gen=Haushälterin pl=Haushälterinnen
 Häuslebauer noun g=m gen=Häuslebauers pl=Häuslebauer
+Hausmann noun g=m gen=Hausmannes|Hausmanns pl=Hausmänner note=graded
 Hausmeister noun g=m gen=Hausmeisters pl=Hausmeister
 Hausmeisterin noun g=f gen=Hausmeisterin pl=Hausmeisterinnen
 Hausnummer noun g=f gen=Hausnummer pl=Hausnummern note=graded
+Hausordnung noun g=f gen=Hausordnung pl=Hausordnungen note=graded
+Hausschuh noun g=m gen=Hausschuhs|Hausschuhes pl=Hausschuhe note=graded
 Haustier noun g=n gen=Haustieres|Haustiers pl=Haustiere note=graded
+Haustür noun g=f gen=Haustür pl=Haustüren note=graded
 Hauswart noun g=m gen=Hauswarts|Hauswartes pl=Hauswarte
 Hauswirtschaft noun g=f gen=Hauswirtschaft pl=- note=no plural
 Haut noun g=f gen=Haut pl=Häute
@@ -159,6 +174,7 @@ Heilung noun g=f gen=Heilung pl=Heilungen
 Heim noun g=n gen=Heims|Heimes pl=Heime
 Heimat noun g=f gen=Heimat pl=- note=Heimaten is very rare
 Heimath noun g=f gen=Heimath pl=- spelling=old note=old spelling of Heimat
+Heimatland noun g=n gen=Heimatlandes|Heimatlands pl=Heimatländer note=graded
 Heimatmuseum noun g=n gen=Heimatmuseums pl=Heimatmuseen note=graded
 Heimkehr noun g=f gen=Heimkehr pl=- note=no plural
 Heimreise noun g=f gen=Heimreise pl=Heimreisen
@@ -203,6 +219,7 @@ Herd noun g=m gen=Herds|Herdes pl=Herde
 Herde noun g=f gen=Herde pl=Herden
 Hering noun g=m gen=Herings pl=Heringe
 Herkunft noun g=f gen=Herkunft pl=- note=Herkünfte is very rare
+Herkunftsland noun g=n gen=Herkunftslandes|Herkunftslands pl=Herkunftsländer note=graded
 Herr         noun g=m gen=Herrn pl=Herren
 Herrgott noun g=m gen=Herrgotts pl=- note=no plural
 Herrin noun g=f gen=Herrin pl=Herrinnen
@@ -268,6 +285,7 @@ Historismus noun g=m gen=Historismus pl=- note=style period
 Hit noun g=m gen=Hits pl=Hits
 Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]
+Hobel noun g=m gen=Hobels pl=Hobel note=graded
 Hoch noun g=n gen=Hochs pl=Hochs note=weather high; cheer
 Hochbeet noun g=n gen=Hochbeets pl=Hochbeete
 Hochgebirge noun g=n gen=Hochgebirges pl=Hochgebirge note=graded

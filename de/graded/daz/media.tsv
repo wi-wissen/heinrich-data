@@ -1,0 +1,49 @@
+# German as a second language (DaZ) graded vocabulary, domain `media` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · media
+Akku                     noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Anruf                    noun   cefr=A2 topic=media role=prod conf=88 src=ai
+Anrufbeantworter         noun   cefr=A2 topic=media role=prod conf=65 src=ai
+anrufen                  verb   cefr=A1 topic=media role=prod conf=85 src=ai
+App                      noun   cefr=A2 topic=media|computing.devices role=prod conf=70 src=ai
+aufladen                 verb   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Bildschirm               noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Brief                    noun   cefr=A1 topic=media role=prod conf=85 src=ai
+Chat                     noun   cefr=A2 topic=media|computing.internet role=prod conf=55 src=ai
+chatten                  verb   cefr=A2 topic=media|computing.internet role=prod conf=65 src=ai
+Computer                 noun   cefr=A1 topic=media role=prod conf=90 src=ai
+Datei                    noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+eingeben                 verb   cefr=A2 topic=media|computing.devices role=prod conf=65 src=ai
+erreichbar               adj    cefr=A2 topic=media role=prod conf=55 src=ai
+Fernsehen                noun   cefr=A2 topic=media role=prod conf=75 src=ai
+Handy                    noun   cefr=A1 topic=media role=prod conf=97 src=ai
+herunterladen            verb   cefr=A2 topic=media|computing.internet role=prod conf=60 src=ai
+Internet                 noun   cefr=A1 topic=media role=prod conf=85 src=ai
+Internetseite            noun   cefr=A2 topic=media|computing.internet role=prod conf=60 src=ai
+klicken                  verb   cefr=A2 topic=media|computing.devices role=prod conf=65 src=ai
+Kopfhörer                noun   cefr=A2 topic=media|computing.devices role=prod conf=55 src=ai
+Ladegerät                noun   cefr=A2 topic=media|computing.devices role=prod conf=55 src=ai
+Laptop                   noun   cefr=A2 topic=media|computing.devices role=prod conf=70 src=ai
+Link                     noun   cefr=A2 topic=media|computing.internet role=prod conf=55 src=ai
+löschen                  verb   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Nachricht                noun   cefr=A1 topic=media role=prod conf=80 src=ai
+online                   adj    cefr=A2 topic=media|computing.internet role=prod conf=75 src=ai
+Passwort                 noun   cefr=A2 topic=media|computing.safety role=prod conf=75 src=ai
+Radio                    noun   cefr=A1 topic=media role=prod conf=75 src=ai|rev
+schicken                 verb   cefr=A1 topic=media role=prod conf=80 src=ai
+Smartphone               noun   cefr=A2 topic=media|computing.devices role=prod conf=70 src=ai
+SMS                      noun   cefr=A1 topic=media role=prod conf=75 src=ai
+speichern                verb   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Tablet                   noun   cefr=A2 topic=media|computing.devices role=prod conf=60 src=ai
+Tastatur                 noun   cefr=A2 topic=media|computing.devices role=prod conf=55 src=ai
+Telefon                  noun   cefr=A1 topic=media role=prod conf=92 src=ai
+Telefonat                noun   cefr=A2 topic=media role=prod conf=55 src=ai
+telefonieren             verb   cefr=A1 topic=media role=prod conf=90 src=ai
+Verbindung               noun   cefr=A2 topic=media role=prod conf=65 src=ai
+Video                    noun   cefr=A2 topic=media role=prod conf=70 src=ai
+Webseite                 noun   cefr=A2 topic=media|computing.internet role=prod conf=65 src=ai
+Werbung                  noun   cefr=A2 topic=media role=prod conf=70 src=ai
+WLAN                     noun   cefr=A2 topic=media|computing.internet role=prod conf=75 src=ai
+Zeitung                  noun   cefr=A1 topic=media role=prod conf=75 src=ai|rev

@@ -13,7 +13,7 @@ activity                 noun   grade=5-6 cefr=A2 topic=free_time role=prod conf
 camera                   noun   grade=5-6 cefr=A1 topic=free_time|technology role=prod conf=70 src=ai
 camping                  noun   grade=5-6 cefr=A1 topic=free_time|travel role=prod conf=70 src=ai
 card                     noun   grade=5-6 cefr=A1 topic=free_time|celebrations role=prod conf=65 src=ai
-chess                    noun   grade=5-6 cefr=A2 topic=free_time|toys role=prod conf=65 src=ai|rev
+chess                    noun   grade=5-6 cefr=A1 topic=free_time|toys role=prod conf=65 src=ai|rev
 circus                   noun   grade=5-6 cefr=A2 topic=free_time role=prod conf=60 src=ai|rev
 club                     noun   grade=5-6 cefr=A1 topic=free_time role=prod conf=80 src=ai
 collection               noun   grade=5-6 cefr=A2 topic=free_time role=prod conf=65 src=ai

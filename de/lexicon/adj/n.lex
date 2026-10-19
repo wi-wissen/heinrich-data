@@ -7,6 +7,7 @@ nachrangig adj
 nachsichtig adj cmp=nachsichtiger sup=nachsichtigsten
 nächstgelegen adj note=der nächstgelegene Ort; already a superlative, not compared
 nächsthöher adj attr_only note=die nächsthöhere Stufe
+nachtaktiv adj note=graded
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
 nachträglich adj

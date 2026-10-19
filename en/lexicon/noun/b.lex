@@ -10,6 +10,7 @@ bachelor noun
 back noun
 backache noun
 backbench noun region=GB
+backbencher noun note=graded
 backbone noun
 backdrop noun
 backend noun conf=90 note=also back end, back-end
@@ -140,6 +141,7 @@ bat noun
 batch noun
 bath noun
 bathmat noun
+bathos noun pl=- note=graded; uncountable
 bathrobe noun
 bathroom noun
 bathtub noun
@@ -258,6 +260,7 @@ bight noun
 bigotry noun pl=- note=uncountable
 bike noun
 bikini noun
+bildungsroman noun pl=bildungsromane|bildungsromans conf=85 note=graded; German loanword, plural unsure
 bile noun pl=- note=uncountable
 bilirubin noun pl=- note=uncountable
 bill noun
@@ -277,6 +280,7 @@ biochemist noun
 biochemistry noun pl=- note=uncountable
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
+bioethics noun pl=- note=graded; uncountable, singular agreement
 biofilm noun
 biofuel noun
 biogas noun pl=- note=uncountable
@@ -492,6 +496,7 @@ braid noun
 braille noun pl=- note=usually capitalized
 brain noun
 brainstorming noun pl=- note=uncountable
+brainwashing noun pl=- note=graded; uncountable
 brake noun
 bramble noun
 branch noun
@@ -508,6 +513,7 @@ bread noun
 breadth noun
 breadwinner noun
 break noun
+break-up noun note=graded; hyphenated spelling of breakup
 breakaway noun
 breakdown noun
 breaker noun
@@ -554,10 +560,12 @@ brim noun
 brine noun
 brink noun
 bristle noun
+Britishness noun pl=- note=graded; uncountable
 Briton noun
 broadband noun pl=- note=uncountable
 broadcast noun
 broadcaster noun
+broadsheet noun note=graded
 broadside noun
 brocade noun
 broccoli noun pl=- note=uncountable
@@ -614,6 +622,7 @@ buildup noun conf=90 note=also build-up
 bulb noun
 Bulgarian noun
 bulge noun
+bulimia noun pl=- note=graded; uncountable
 bulk noun pl=- note=uncountable
 bulkhead noun
 bull noun

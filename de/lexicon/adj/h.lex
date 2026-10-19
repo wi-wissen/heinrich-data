@@ -2,6 +2,7 @@ haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 habsburgisch adj
 halb         adj note=not compared; ein halber Liter
+haltbar adj cmp=haltbarer sup=haltbarsten note=graded
 hamburgisch adj
 hannoversch adj
 hansisch adj
@@ -29,6 +30,7 @@ heiß adj cmp=heißer sup=heißesten
 heiter adj cmp=heiterer sup=heitersten
 hektisch adj cmp=hektischer sup=hektischsten
 hell adj cmp=heller sup=hellsten
+hellblau adj note=graded
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
 herkömmlich adj
@@ -54,6 +56,7 @@ hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochgradig adj
 hochmütig adj cmp=hochmütiger sup=hochmütigsten
+hochnäsig adj cmp=hochnäsiger sup=hochnäsigsten note=graded
 hochrangig adj cmp=hochrangiger sup=hochrangigsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höfisch adj

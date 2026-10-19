@@ -7,6 +7,8 @@ Sabbatical noun g=n gen=Sabbaticals pl=Sabbaticals
 Säbel noun g=m gen=Säbels pl=Säbel
 Sabotage noun g=f gen=Sabotage pl=Sabotagen
 Sachaufgabe noun g=f gen=Sachaufgabe pl=Sachaufgaben note=graded
+Sachbearbeiter noun g=m gen=Sachbearbeiters pl=Sachbearbeiter note=graded
+Sachbearbeiterin noun g=f gen=Sachbearbeiterin pl=Sachbearbeiterinnen note=graded
 Sachbuch noun g=n gen=Sachbuches|Sachbuchs pl=Sachbücher note=graded
 Sache noun g=f gen=Sache pl=Sachen
 Sachtext noun g=m gen=Sachtextes|Sachtexts pl=Sachtexte note=graded
@@ -142,6 +144,7 @@ Schau noun g=f gen=Schau pl=Schauen
 Schaubild noun g=n gen=Schaubildes|Schaubilds pl=Schaubilder note=graded
 Schauer noun g=m gen=Schauers pl=Schauer
 Schaufel noun g=f gen=Schaufel pl=Schaufeln
+Schaufenster noun g=n gen=Schaufensters pl=Schaufenster note=graded
 Schaufensterbummel noun g=m gen=Schaufensterbummels pl=Schaufensterbummel
 Schaukel noun g=f gen=Schaukel pl=Schaukeln
 Schaum noun g=m gen=Schaums|Schaumes pl=Schäume
@@ -318,6 +321,7 @@ Schreiberin noun g=f gen=Schreiberin pl=Schreiberinnen
 Schreibkonferenz noun g=f gen=Schreibkonferenz pl=Schreibkonferenzen note=graded
 Schreibplan noun g=m gen=Schreibplans|Schreibplanes pl=Schreibpläne note=graded
 Schreibschrift noun g=f gen=Schreibschrift pl=Schreibschriften note=graded
+Schreibtisch noun g=m gen=Schreibtischs|Schreibtisches pl=Schreibtische note=graded
 Schreibung noun g=f gen=Schreibung pl=Schreibungen
 Schrein noun g=m gen=Schreins|Schreines pl=Schreine
 Schreiner noun g=m gen=Schreiners pl=Schreiner
@@ -400,6 +404,7 @@ Schwärmerei noun g=f gen=Schwärmerei pl=Schwärmereien
 Schweif noun g=m gen=Schweifs|Schweifes pl=Schweife
 Schweigen noun g=n gen=Schweigens pl=- note=lexicalised nominal infinitive: silence
 Schwein noun g=n gen=Schweins|Schweines pl=Schweine
+Schweinefleisch noun g=n gen=Schweinefleisches|Schweinefleischs pl=- note=graded; mass noun
 Schweiß noun g=m gen=Schweißes pl=- note=mass noun
 Schweizer noun g=m gen=Schweizers pl=Schweizer
 Schweizerin noun g=f gen=Schweizerin pl=Schweizerinnen
@@ -409,7 +414,9 @@ Schwerpunkt noun g=m gen=Schwerpunktes|Schwerpunkts pl=Schwerpunkte
 Schwert noun g=n gen=Schwerts|Schwertes pl=Schwerter
 Schwester noun g=f gen=Schwester pl=Schwestern
 Schwesterchen noun g=n gen=Schwesterchens pl=Schwesterchen
+Schwiegermutter noun g=f gen=Schwiegermutter pl=Schwiegermütter note=graded
 Schwiegersohn noun g=m gen=Schwiegersohns|Schwiegersohnes pl=Schwiegersöhne
+Schwiegervater noun g=m gen=Schwiegervaters pl=Schwiegerväter note=graded
 Schwierigkeit noun g=f gen=Schwierigkeit pl=Schwierigkeiten
 Schwimmabzeichen noun g=n gen=Schwimmabzeichens pl=Schwimmabzeichen note=graded
 Schwimmbad noun g=n gen=Schwimmbads|Schwimmbades pl=Schwimmbäder
@@ -441,6 +448,8 @@ Seelsorger noun g=m gen=Seelsorgers pl=Seelsorger
 Seemann noun g=m gen=Seemanns|Seemannes pl=Seeleute|Seemänner
 Seenot noun g=f gen=Seenot pl=- note=no plural
 Seepferdchen noun g=n gen=Seepferdchens pl=Seepferdchen
+Seerose noun g=f gen=Seerose pl=Seerosen note=graded
+Seestern noun g=m gen=Seesterns|Seesternes pl=Seesterne note=graded
 Segel noun g=n gen=Segels pl=Segel
 Segen noun g=m gen=Segens pl=Segen
 Segler noun g=m gen=Seglers pl=Segler
@@ -671,6 +680,7 @@ Souvenir noun g=n gen=Souvenirs pl=Souvenirs
 Souveränität noun g=f gen=Souveränität pl=- note=mass noun
 Sowjet noun g=m gen=Sowjets pl=Sowjets
 Sozi noun g=m gen=Sozis pl=Sozis style=colloquial
+Sozialamt noun g=n gen=Sozialamtes|Sozialamts pl=Sozialämter note=graded
 Sozialdemokrat noun g=m gen=Sozialdemokraten pl=Sozialdemokraten
 Sozialdemokratin noun g=f gen=Sozialdemokratin pl=Sozialdemokratinnen
 Sozialismus noun g=m gen=Sozialismus pl=- note=mass noun
@@ -699,6 +709,7 @@ Spannung noun g=f gen=Spannung pl=Spannungen
 Sparer noun g=m gen=Sparers pl=Sparer
 Sparerin noun g=f gen=Sparerin pl=Sparerinnen
 Spargel noun g=m gen=Spargels pl=Spargel
+Sparkasse noun g=f gen=Sparkasse pl=Sparkassen note=graded
 Sparschwein noun g=n gen=Sparschweins|Sparschweines pl=Sparschweine note=graded
 Spaß noun g=m gen=Spaßes pl=Späße
 Spast noun g=m gen=Spasten pl=Spasten style=offensive note=ableist slur
@@ -718,6 +729,7 @@ Speichel noun g=m gen=Speichels pl=- note=no plural
 Speicher noun g=m gen=Speichers pl=Speicher
 Speicherung noun g=f gen=Speicherung pl=Speicherungen
 Speise noun g=f gen=Speise pl=Speisen
+Speisekarte noun g=f gen=Speisekarte pl=Speisekarten note=graded
 Speiseröhre noun g=f gen=Speiseröhre pl=Speiseröhren note=graded
 Spektakel noun g=m|n gen=Spektakels pl=Spektakel note=der Spektakel (noise) / das Spektakel (show)
 Spektrum noun g=n gen=Spektrums pl=Spektren|Spektra[rare]
@@ -748,6 +760,7 @@ Spielchen noun g=n gen=Spielchens pl=Spielchen
 Spieler noun g=m gen=Spielers pl=Spieler
 Spielerin noun g=f gen=Spielerin pl=Spielerinnen
 Spielfeld noun g=n gen=Spielfeldes|Spielfelds pl=Spielfelder note=graded
+Spielfigur noun g=f gen=Spielfigur pl=Spielfiguren note=graded
 Spielkonsole noun g=f gen=Spielkonsole pl=Spielkonsolen
 Spielplatz noun g=m gen=Spielplatzes pl=Spielplätze
 Spielregel noun g=f gen=Spielregel pl=Spielregeln note=graded
@@ -789,6 +802,7 @@ Sportverein noun g=m gen=Sportvereins pl=Sportvereine note=graded
 Sportzeug noun g=n gen=Sportzeugs|Sportzeuges pl=- note=graded; sports kit, mass noun
 Spott noun g=m gen=Spotts|Spottes pl=- note=mass noun
 Sprache noun g=f gen=Sprache pl=Sprachen
+Sprachkurs noun g=m gen=Sprachkurses pl=Sprachkurse note=graded
 Sprechblase noun g=f gen=Sprechblase pl=Sprechblasen note=graded
 Sprecher noun g=m gen=Sprechers pl=Sprecher
 Sprecherin noun g=f gen=Sprecherin pl=Sprecherinnen
@@ -859,6 +873,7 @@ Standardsprache noun g=f gen=Standardsprache pl=Standardsprachen
 Standarte noun g=f gen=Standarte pl=Standarten
 Ständchen noun g=n gen=Ständchens pl=Ständchen
 Ständer noun g=m gen=Ständers pl=Ständer
+Standesamt noun g=n gen=Standesamtes|Standesamts pl=Standesämter note=graded
 Standort noun g=m gen=Standortes|Standorts pl=Standorte
 Standpunkt noun g=m gen=Standpunkts|Standpunktes pl=Standpunkte
 Standvogel noun g=m gen=Standvogels pl=Standvögel note=graded
@@ -907,6 +922,7 @@ Steinmetz noun g=m gen=Steinmetzes pl=Steinmetze
 Steinzeit noun g=f gen=Steinzeit pl=- note=no plural
 Stele noun g=f gen=Stele pl=Stelen
 Stelle noun g=f gen=Stelle pl=Stellen
+Stellenanzeige noun g=f gen=Stellenanzeige pl=Stellenanzeigen note=graded
 Stellenwert noun g=m gen=Stellenwertes|Stellenwerts pl=Stellenwerte note=graded
 Stellenwerttafel noun g=f gen=Stellenwerttafel pl=Stellenwerttafeln note=graded
 Stellung noun g=f gen=Stellung pl=Stellungen
@@ -1008,6 +1024,7 @@ Streberin noun g=f gen=Streberin pl=Streberinnen
 Strecke noun g=f gen=Strecke pl=Strecken
 Streich noun g=m gen=Streichs|Streiches pl=Streiche
 Streicher noun g=m gen=Streichers pl=Streicher
+Streichholz noun g=n gen=Streichholzes pl=Streichhölzer note=graded
 Streichinstrument noun g=n gen=Streichinstruments|Streichinstrumentes pl=Streichinstrumente note=graded
 Streichung noun g=f gen=Streichung pl=Streichungen
 Streife noun g=f gen=Streife pl=Streifen
@@ -1058,6 +1075,7 @@ Stuhlkreis noun g=m gen=Stuhlkreises pl=Stuhlkreise note=graded
 Stummschaltung noun g=f gen=Stummschaltung pl=Stummschaltungen
 Stündchen noun g=n gen=Stündchens pl=Stündchen
 Stunde noun g=f gen=Stunde pl=Stunden
+Stundenlohn noun g=m gen=Stundenlohns|Stundenlohnes pl=Stundenlöhne note=graded
 Stundenplan noun g=m gen=Stundenplans|Stundenplanes pl=Stundenpläne
 Stundenzeiger noun g=m gen=Stundenzeigers pl=Stundenzeiger note=graded
 Stundung noun g=f gen=Stundung pl=Stundungen note=deferral of payment

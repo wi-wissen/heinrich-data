@@ -52,6 +52,7 @@ design                   verb   grade=5-6 cefr=A2 topic=classroom|music_arts rol
 dialogue                 noun   grade=5-6 cefr=A2 topic=classroom role=rec conf=60 src=ai
 dictionary               noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
 exercise                 noun   grade=5-6 cefr=A1 topic=classroom role=prod conf=70 src=ai
+form                     noun   grade=5-6 cefr=A2 topic=classroom role=rec conf=55 src=ai|rev
 grammar                  noun   grade=5-6 cefr=A2 topic=classroom|language role=rec conf=60 src=ai
 homework                 noun   grade=5-6 cefr=A1 topic=classroom|school role=prod conf=75 src=ai
 information              noun   grade=5-6 cefr=A2 topic=classroom|communication role=prod conf=65 src=ai|rev

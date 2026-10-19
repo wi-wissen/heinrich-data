@@ -7,6 +7,7 @@ rasch adj cmp=rascher sup=raschesten
 rassistisch adj
 rational adj
 rationell adj cmp=rationeller sup=rationellsten
+ratlos adj note=graded
 rätselhaft adj cmp=rätselhafter sup=rätselhaftesten
 rau adj cmp=rauer sup=rauesten|raustesten
 räuberisch adj

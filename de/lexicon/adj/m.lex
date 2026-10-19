@@ -22,6 +22,7 @@ massenhaft adj
 massiv adj cmp=massiver sup=massivsten
 materiell adj
 mathematisch adj
+matschig adj cmp=matschiger sup=matschigsten note=graded
 matt adj cmp=matter sup=mattesten
 mausetot adj
 mautpflichtig adj

@@ -10,6 +10,7 @@ easterly adj
 eastern adj
 easternmost adj
 easy adj cmp=er adv=easily
+easy-going adj cmp=more note=graded; hyphenated spelling of easygoing
 easygoing adj cmp=more note=graded; the hyphenated easy-going is at least as common and is accepted as a compound
 eccentric adj
 ecclesiastical adj
@@ -49,6 +50,8 @@ elemental adj
 elementary adj
 eligible adj
 elite adj
+elitist adj cmp=more note=graded
+Elizabethan adj note=graded; of the age of Elizabeth I
 elliptic adj
 elliptical adj adv=elliptically
 eloquent adj adv=eloquently
@@ -62,9 +65,11 @@ emergent adj
 emeritus adj
 eminent adj adv=eminently
 emotional adj adv=emotionally
+emotive adj cmp=more note=graded
 emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
 employable adj cmp=more
+employed adj note=graded
 empty adj cmp=er
 enamored adj gb=enamoured
 endangered adj cmp=more note=graded; the most endangered species
@@ -75,11 +80,14 @@ endogenous adj
 endothelial adj
 energetic adj adv=energetically
 enforceable adj
+engaged adj cmp=more note=graded
 engaging adj cmp=more
 English adj
+English-speaking adj note=graded; hyphenated compound
 enigmatic adj adv=enigmatically
 enjoyable adj
 enormous adj adv=enormously
+enslaved adj note=graded
 enterprising adj cmp=more
 enthusiastic adj cmp=more adv=enthusiastically
 entire adj adv=entirely
@@ -120,8 +128,10 @@ Ethiopian adj
 ethnic adj adv=ethnically
 ethnographic adj
 eukaryotic adj
+euphemistic adj cmp=more adv=euphemistically note=graded
 Eurasian adj
 European adj
+Euroskeptic adj gb=Eurosceptic note=graded
 evangelical adj
 evasive adj adv=evasively
 even adj adv=evenly
@@ -136,6 +146,7 @@ evil adj cmp=more
 evolutionary adj
 exact adj cmp=more adv=exactly
 exacting adj cmp=more
+exaggerated adj cmp=more note=graded
 exceeding adj adv=exceedingly
 excellent adj adv=excellently
 exceptional adj adv=exceptionally
@@ -143,6 +154,7 @@ excessive adj adv=excessively
 excitable adj cmp=more
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
+excluded adj note=graded
 exclusive adj adv=exclusively
 excruciating adj adv=excruciatingly
 executable adj
@@ -152,19 +164,23 @@ exempt adj
 exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
 exhausted adj cmp=more note=graded
+exhausting adj cmp=more adv=exhaustingly note=graded
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
+existing adj attr_only note=graded
 exogamous adj
 exorbitant adj adv=exorbitantly
 exotic adj
 expansionist adj
 expansive adj
 expectant adj
+expected adj note=graded
 expedient adj
 expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively
+experienced adj cmp=more note=graded
 experimental adj adv=experimentally
 expert adj adv=expertly
 explanatory adj

@@ -1,0 +1,114 @@
+# German as a second language (DaZ) graded vocabulary, domain `time` (format: Heinrich/docs/GRADED_VOCAB.md).
+# Own data, written clean-room by AI authors; runs and prompts in de/graded/PROVENANCE.md.
+# lemma[:sense]  pos  fields
+
+# grade None · time
+anfangen                 verb   cefr=A1 topic=time role=prod conf=80 src=ai
+bald                     adv    cefr=A1 topic=time role=prod conf=70 src=ai
+beginnen                 verb   cefr=A1 topic=time role=prod conf=75 src=ai
+dauern                   verb   cefr=A1 topic=time role=prod conf=75 src=ai
+früh                     adj    cefr=A1 topic=time role=prod conf=88 src=ai
+gestern                  adv    cefr=A1 topic=time role=prod conf=92 src=ai
+gleich                   adv    cefr=A1 topic=time role=prod conf=70 src=ai
+heute                    adv    cefr=A1 topic=time role=prod conf=98 src=ai
+jetzt                    adv    cefr=A1 topic=time role=prod conf=97 src=ai
+letzt                    adj    cefr=A1 topic=time role=prod conf=75 src=ai
+Moment                   noun   cefr=A1 topic=time role=prod conf=70 src=ai
+morgen                   adv    cefr=A1 topic=time role=prod conf=97 src=ai
+sofort                   adv    cefr=A1 topic=time role=prod conf=65 src=ai
+spät                     adj    cefr=A1 topic=time role=prod conf=90 src=ai
+Wochenende               noun   cefr=A1 topic=time|play role=prod conf=95 src=ai
+Zeit                     noun   cefr=A1 topic=time role=prod conf=95 src=ai
+
+# grade None · time.calendar
+April                    noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+August                   noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Datum                    noun   cefr=A1 topic=time.calendar role=prod conf=85 src=ai
+Dezember                 noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Dienstag                 noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Donnerstag               noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Februar                  noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Freitag                  noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Frühling                 noun   cefr=A1 topic=time.calendar|weather role=prod conf=85 src=ai
+Herbst                   noun   cefr=A1 topic=time.calendar|weather role=prod conf=88 src=ai
+Jahreszeit               noun   cefr=A2 topic=time.calendar|weather role=prod conf=88 src=ai
+Januar                   noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Juli                     noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Juni                     noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Kalender                 noun   cefr=A1 topic=time.calendar role=prod conf=70 src=ai|rev
+Mai                      noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Mittwoch                 noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Monat                    noun   cefr=A1 topic=time.calendar role=prod conf=97 src=ai
+Montag                   noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+März                     noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Neujahr                  noun   cefr=A2 topic=time.calendar|celebrations role=prod conf=65 src=ai
+November                 noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Oktober                  noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Samstag                  noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+September                noun   cefr=A1 topic=time.calendar role=prod conf=95 src=ai
+Silvester                noun   cefr=A2 topic=time.calendar|celebrations role=prod conf=75 src=ai
+Sommer                   noun   cefr=A1 topic=time.calendar|weather role=prod conf=92 src=ai
+Sonntag                  noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+Tag                      noun   cefr=A1 topic=time.calendar role=prod conf=99 src=ai
+Werktag                  noun   cefr=A2 topic=time.calendar role=rec conf=55 src=ai
+Winter                   noun   cefr=A1 topic=time.calendar|weather role=prod conf=92 src=ai
+Woche                    noun   cefr=A1 topic=time.calendar role=prod conf=98 src=ai
+
+# grade None · time.clock
+Abend                    noun   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+abends                   adv    cefr=A1 topic=time.clock role=prod conf=85 src=ai
+Alltag                   noun   cefr=A2 topic=time.clock role=prod conf=70 src=ai
+aufstehen                verb   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+aufwachen                verb   cefr=A2 topic=time.clock role=prod conf=80 src=ai
+ausruhen                 verb   cefr=A2 topic=time.clock|health role=prod conf=65 src=ai
+ausschlafen              verb   cefr=A2 topic=time.clock role=prod conf=60 src=ai
+baden                    verb   cefr=A2 topic=time.clock role=prod conf=65 src=ai
+beeilen                  verb   cefr=A2 topic=time.clock role=prod conf=75 src=ai
+einschlafen              verb   cefr=A2 topic=time.clock role=prod conf=75 src=ai
+Feierabend               noun   cefr=A2 topic=time.clock|workplace role=prod conf=80 src=ai
+halb                     adj    cefr=A1 topic=time.clock role=prod conf=90 src=ai
+kämmen                   verb   cefr=A2 topic=time.clock role=prod conf=55 src=ai
+Minute                   noun   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+Mittag                   noun   cefr=A1 topic=time.clock role=prod conf=88 src=ai
+mittags                  adv    cefr=A1 topic=time.clock role=prod conf=80 src=ai
+Mitternacht              noun   cefr=A2 topic=time.clock role=prod conf=65 src=ai
+Morgen:daytime           noun   cefr=A1 topic=time.clock role=prod conf=92 src=ai
+morgens                  adv    cefr=A1 topic=time.clock role=prod conf=85 src=ai
+Nachmittag               noun   cefr=A1 topic=time.clock role=prod conf=88 src=ai
+nachmittags              adv    cefr=A1 topic=time.clock role=prod conf=80 src=ai
+Nacht                    noun   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+nachts                   adv    cefr=A1 topic=time.clock role=prod conf=80 src=ai
+Pause                    noun   cefr=A1 topic=time.clock role=prod conf=85 src=ai
+rasieren                 verb   cefr=A2 topic=time.clock role=prod conf=60 src=ai
+schlafen                 verb   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+schminken                verb   cefr=A2 topic=time.clock role=prod conf=55 src=ai
+Sekunde                  noun   cefr=A2 topic=time.clock role=prod conf=70 src=ai
+Stunde                   noun   cefr=A1 topic=time.clock role=prod conf=95 src=ai
+Uhrzeit                  noun   cefr=A1 topic=time.clock role=prod conf=85 src=ai
+Viertel                  noun   cefr=A1 topic=time.clock role=prod conf=85 src=ai
+Viertelstunde            noun   cefr=A2 topic=time.clock role=prod conf=65 src=ai
+Vormittag                noun   cefr=A1 topic=time.clock role=prod conf=85 src=ai
+vormittags               adv    cefr=A1 topic=time.clock role=prod conf=75 src=ai
+
+# grade None · time.relations
+Anfang                   noun   cefr=A1 topic=time.relations role=prod conf=70 src=ai|rev
+Augenblick               noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Beginn                   noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Dauer                    noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Ende                     noun   cefr=A1 topic=time.relations role=prod conf=75 src=ai|rev
+Frist                    noun   cefr=A2 topic=time.relations|authorities role=rec conf=60 src=ai
+Geschichte               noun   cefr=A2 topic=time.relations role=prod conf=75 src=ai
+Jahrhundert              noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+jährlich                 adj    cefr=A2 topic=time.relations role=prod conf=55 src=ai
+Mal                      noun   cefr=A2 topic=time.relations role=prod conf=85 src=ai
+Mitte                    noun   cefr=A2 topic=time.relations|space role=prod conf=75 src=ai
+monatlich                adj    cefr=A2 topic=time.relations role=prod conf=65 src=ai
+pünktlich                adj    cefr=A2 topic=time.relations role=prod conf=88 src=ai
+rechtzeitig              adj    cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Schluss                  noun   cefr=A2 topic=time.relations role=prod conf=65 src=ai
+täglich                  adj    cefr=A2 topic=time.relations role=prod conf=75 src=ai
+Vergangenheit            noun   cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Verspätung               noun   cefr=A2 topic=time.relations|traffic role=prod conf=85 src=ai
+vorbei                   adv    cefr=A2 topic=time.relations role=prod conf=70 src=ai
+wöchentlich              adj    cefr=A2 topic=time.relations role=prod conf=60 src=ai
+Zukunft                  noun   cefr=A2 topic=time.relations role=prod conf=70 src=ai
