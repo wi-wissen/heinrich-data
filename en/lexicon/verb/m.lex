@@ -79,6 +79,7 @@ mirror        verb
 mislead       verb prefix=mis past=misled pp=misled
 mismatch verb
 misplace verb
+misrepresent verb
 miss          verb
 misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb

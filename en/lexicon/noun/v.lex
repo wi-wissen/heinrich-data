@@ -62,6 +62,7 @@ verb          noun
 verdict       noun
 verge         noun
 verification  noun
+vermilion noun pl=- note=uncountable as a color
 vernacular noun
 verse         noun
 version       noun

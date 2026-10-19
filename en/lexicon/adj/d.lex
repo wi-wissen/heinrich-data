@@ -19,6 +19,7 @@ deceased adj
 decennial adj
 decent adj cmp=more adv=decently
 deceptive adj
+deciduous adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
@@ -42,6 +43,7 @@ delinquent adj
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
+demonstrable adj adv=demonstrably
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
@@ -118,12 +120,15 @@ disgusted adj cmp=more
 dishonest adj adv=dishonestly
 disillusioned adj cmp=more
 disinterested adj
+disjoint adj
+disjointed adj adv=disjointedly
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
 disparate adj cmp=more
 disposable adj
 disproportionate adj adv=disproportionately
+disquieting adj adv=disquietingly
 disreputable adj cmp=more
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more

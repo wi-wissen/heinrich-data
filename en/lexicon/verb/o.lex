@@ -45,6 +45,7 @@ outline       verb
 outlive verb prefix=out
 outnumber verb
 outperform verb
+outpoll verb
 outrage       verb
 outsource verb
 outweigh verb

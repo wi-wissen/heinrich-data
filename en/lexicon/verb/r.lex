@@ -65,6 +65,7 @@ reclaim verb
 reclassify verb
 recline verb
 recognize verb gb=recognise|recognize
+recoil verb
 recollect verb
 recommend verb
 reconcile verb
@@ -84,6 +85,7 @@ recur verb double
 recuse verb
 recycle verb
 redact verb
+redden verb
 redeem verb
 redefine verb
 redeploy verb
@@ -91,6 +93,7 @@ redesign verb
 redesignate verb
 redevelop verb
 redirect verb
+rediscover verb
 redistribute verb
 redo verb prefix=re 3sg=redoes past=redid pp=redone
 redouble verb
@@ -211,6 +214,7 @@ reprogram verb double
 republish verb
 repudiate verb
 repulse verb
+repurpose verb
 request verb
 require verb
 requisition verb
@@ -247,6 +251,7 @@ resubmit verb double
 result verb
 resume verb
 resurface verb
+resurrect verb
 retail verb
 retain verb
 retake verb prefix=re past=retook pp=retaken
@@ -297,6 +302,7 @@ ring verb sense=encircle
 rinse verb
 riot verb
 rip verb
+ripen verb
 ripple verb
 rise verb past=rose pp=risen
 risk verb

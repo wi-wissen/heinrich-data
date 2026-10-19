@@ -125,6 +125,7 @@ marriage       noun
 marrow noun
 marsh          noun
 marshal        noun
+mart noun
 martyr         noun
 martyrdom noun
 marvel         noun
@@ -209,6 +210,7 @@ membership     noun
 membrane       noun
 memo noun pl=memos
 memoir         noun
+memorabilia noun pl_only
 memorandum     noun pl=memoranda|memorandums
 memorial       noun
 memory         noun
@@ -318,6 +320,8 @@ mirror         noun
 mirth noun pl=- note=uncountable
 miscarriage noun
 mischief       noun pl=- note=uncountable
+misclassification noun
+misconception noun
 misconduct     noun pl=- note=uncountable
 misdemeanor noun gb=misdemeanour
 misery         noun
@@ -356,6 +360,7 @@ moccasin noun
 mockery noun
 mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
 modal noun
+modality noun
 mode           noun
 model          noun
 modem noun
@@ -470,6 +475,7 @@ muffin noun
 mug noun
 Mughal noun
 mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
+mulberry noun
 mule           noun
 multimedia noun pl=- note=uncountable
 multinational  noun

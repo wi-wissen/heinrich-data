@@ -114,6 +114,7 @@ intoxicate verb
 intrigue verb
 introduce      verb
 intrude verb
+intrust verb style=archaic note=variant of entrust
 inundate verb
 invade         verb
 invalidate verb

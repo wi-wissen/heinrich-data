@@ -245,12 +245,14 @@ horse          noun
 horseback      noun
 horseman       noun pl=horsemen
 horsepower noun pl=horsepower
+horseshoe noun
 horticulture noun pl=- note=uncountable
 hose noun
 hospice        noun
 hospital       noun
 hospitality    noun pl=- note=uncountable
 hospitalization noun gb=hospitalisation|hospitalization
+hoss noun style=colloquial note=dialect for horse
 host           noun
 hostage        noun
 hostel noun
@@ -282,6 +284,7 @@ Huguenot noun
 hull           noun
 hum            noun
 human          noun note=plural humans (not -men)
+humanist noun
 humanitarian   noun
 humanity       noun
 humidity       noun pl=- note=uncountable

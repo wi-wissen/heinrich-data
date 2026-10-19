@@ -150,6 +150,7 @@ codename verb
 codify verb
 coerce verb
 cohabit verb
+cohabitate verb note=US variant of cohabit
 coil verb
 coin verb
 coincide verb
@@ -206,6 +207,7 @@ conclude verb
 concur verb double
 condemn verb
 condense verb
+condescend verb
 condition verb
 conduct verb
 confer verb double

@@ -40,6 +40,7 @@ uncontrolled adj
 unconventional adj
 uncouth adj cmp=more
 uncredited     adj
+uncrewed adj
 undecided adj
 undefeated adj
 undefined adj
@@ -60,6 +61,7 @@ undeveloped adj
 undisclosed adj
 undisputed adj
 undisturbed adj
+undivided adj
 undocumented adj
 undoubted      adj adv=undoubtedly
 undue          adj attr_only adv=unduly
@@ -170,6 +172,8 @@ unsuccessful   adj adv=unsuccessfully
 unsuitable     adj
 unsupported adj
 unsure adj
+unsuspected adj
+unsuspecting adj adv=unsuspectingly
 unsustainable adj
 untenable adj
 untimely adj

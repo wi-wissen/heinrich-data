@@ -49,6 +49,7 @@ upbringing noun
 update        noun
 upgrade       noun
 upheaval noun
+upholstery noun pl=- note=uncountable
 upkeep noun pl=- note=uncountable
 upland noun
 uplift        noun
@@ -63,6 +64,7 @@ uptake        noun
 uptime noun pl=- note=uncountable
 upturn noun
 uranium       noun pl=- note=uncountable
+urbanization noun gb=urbanisation
 urchin noun
 urge          noun
 urgency       noun pl=- note=uncountable

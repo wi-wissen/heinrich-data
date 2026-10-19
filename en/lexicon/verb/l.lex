@@ -13,6 +13,7 @@ lapse         verb
 lash verb
 last          verb
 latch verb
+laud verb
 laugh         verb
 launch        verb
 launder       verb
@@ -48,6 +49,7 @@ lie           verb past=lay pp=lain sense=recline
 lie           verb sense=untruth
 lift          verb
 light         verb past=lit|lighted pp=lit|lighted
+lighten verb
 like          verb
 liken verb
 limit         verb nodouble
@@ -71,6 +73,7 @@ locate        verb
 lock          verb
 lodge         verb
 log           verb
+loiter verb
 long          verb
 look          verb
 loom verb

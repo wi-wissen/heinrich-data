@@ -22,6 +22,7 @@ laird noun
 lake          noun
 lamb          noun
 lament noun
+lamentation noun
 lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
@@ -162,6 +163,7 @@ libretto noun pl=librettos|libretti
 Libyan        noun
 license       noun gb=licence
 licensee      noun
+licensure noun pl=- note=uncountable
 lid           noun
 lie           noun
 lien noun

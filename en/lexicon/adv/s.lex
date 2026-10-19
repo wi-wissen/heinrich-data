@@ -11,6 +11,7 @@ soon adv type=time cmp=er
 sorely adv
 south adv type=place
 southward adv type=place
+southwards adv
 squarely adv
 stiffly adv
 straight adv type=manner

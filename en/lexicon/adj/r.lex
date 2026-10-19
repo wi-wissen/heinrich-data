@@ -98,6 +98,7 @@ retail adj
 retinal adj
 retroactive adj adv=retroactively
 retrospective adj adv=retrospectively
+reusable adj
 reverend adj
 reverse adj
 reversible adj

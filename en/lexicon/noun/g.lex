@@ -93,6 +93,7 @@ GI             noun abbr note=US soldier
 giant          noun
 gift           noun
 gig            noun
+gigabit noun
 gigabyte noun
 giggle noun
 gill noun
@@ -174,6 +175,7 @@ GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
 grab           noun
 grace          noun
+gradation noun
 grade          noun
 gradient noun
 graduate       noun
