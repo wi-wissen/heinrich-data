@@ -5,6 +5,7 @@ eichen verb class=weak pp=geeicht perf=haben
 eignen verb class=weak refl=acc pp=geeignet perf=haben
 eilen verb class=weak pp=geeilt perf=sein|haben
 einarbeiten verb class=weak sep=ein pp=eingearbeitet perf=haben
+einatmen verb class=weak sep=ein pp=eingeatmet perf=haben note=graded
 einbauen verb class=weak sep=ein pp=eingebaut perf=haben
 einberufen verb class=strong sep=ein 3sg=einberuft past=einberief pp=einberufen subj2=einberiefe perf=haben
 einbetten verb class=weak sep=ein pp=eingebettet perf=haben
@@ -408,7 +409,7 @@ erschlaffen verb class=weak pp=erschlafft perf=sein
 erschlagen verb class=strong 3sg=erschlägt past=erschlug pp=erschlagen subj2=erschlüge perf=haben
 erschleichen verb class=strong 3sg=erschleicht past=erschlich subj2=erschliche pp=erschlichen perf=sein
 erschließen verb class=strong 3sg=erschließt past=erschloss pp=erschlossen subj2=erschlösse perf=haben
-erschöpfen verb class=weak pp=erschöpft perf=haben
+erschöpfen verb class=weak pp=erschöpft perf=haben pp_cmp note=graded: Partizip II erschöpft is a gradable adjective (erschöpfter, am erschöpftesten)
 erschrecken verb class=strong 3sg=erschrickt past=erschrak pp=erschrocken subj2=erschräke perf=sein sense=intransitive note=er erschrak (got a fright)
 erschrecken verb class=weak pp=erschreckt perf=haben sense=transitive note=er erschreckte ihn (frightened him)
 erschüttern verb class=weak pp=erschüttert perf=haben

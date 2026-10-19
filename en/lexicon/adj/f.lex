@@ -112,6 +112,7 @@ fluted adj
 focal          adj
 foggy adj cmp=er
 folk           adj attr_only
+following adj note=graded; the following day
 fond           adj cmp=er adv=fondly
 foolish        adj cmp=more adv=foolishly
 forceful adj cmp=more adv=forcefully
@@ -154,6 +155,7 @@ free           adj cmp=er adv=freely
 freeborn adj
 freelance adj
 freestanding adj
+freezing adj note=graded; very cold: it is freezing outside
 French         adj
 frenzied adj
 frequent       adj cmp=more adv=frequently
@@ -165,6 +167,7 @@ frictionless adj
 friendless adj
 friendly       adj cmp=er
 frightened adj cmp=more
+frightening adj cmp=more adv=frighteningly note=graded
 frightful      adj adv=frightfully
 frigid adj cmp=more adv=frigidly
 frivolous adj
@@ -176,9 +179,11 @@ frugal adj adv=frugally
 fruitful adj
 fruitless adj
 fruity adj cmp=er
+frustrated adj cmp=more note=graded
 fugitive       adj
 fulfilling adj cmp=more
 full           adj cmp=er adv=fully
+full-time adj note=graded; also used as an adverb: he works full-time
 fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally
 fundamental    adj adv=fundamentally

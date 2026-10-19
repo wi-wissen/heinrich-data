@@ -14,3 +14,4 @@ forward        adv
 forwards       adv
 fourthly adv type=conj
 fro            adv note=only in to and fro
+further adv type=degree note=graded; to a greater extent, more: discuss it further; also the comparative of far

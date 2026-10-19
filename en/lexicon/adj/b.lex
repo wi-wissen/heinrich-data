@@ -4,6 +4,7 @@ backward adj
 bacterial adj
 bad adj cmp=worse sup=worst adv=badly
 baggy adj cmp=er
+balanced adj cmp=more note=graded
 bald adj cmp=er
 ballistic adj
 balmy adj cmp=er adv=balmily
@@ -103,6 +104,7 @@ bodied adj note=mostly in compounds: able-bodied, full-bodied
 bodily adj
 bogus adj
 Bohemian adj
+boiling adj note=graded; very hot: it is boiling today
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
 bonnie adj conf=85 note=Scots spelling of bonny
@@ -110,6 +112,7 @@ bonny adj cmp=er region=GB
 bony adj cmp=er
 bored adj cmp=more
 boring adj cmp=more adv=boringly
+born adj note=graded; a born leader; in he was born the form is the participle of bear
 Bosnian adj
 bossy adj cmp=er
 botanical adj

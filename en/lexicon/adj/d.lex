@@ -143,6 +143,7 @@ direct adj cmp=more adv=directly
 directional adj
 directorial adj
 dirty adj cmp=er adv=dirtily
+disabled adj note=graded
 disadvantaged adj cmp=more
 disaffected adj
 disagreeable adj adv=disagreeably
@@ -163,6 +164,7 @@ disdainful adj cmp=more adv=disdainfully
 diseased adj
 disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
+disgusting adj cmp=more adv=disgustingly note=graded
 dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
 dishonorable adj gb=dishonourable adv=dishonorably
@@ -209,6 +211,7 @@ diversionary adj
 divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more
+divorced adj note=graded
 dizzy adj cmp=er
 docile adj
 doctoral adj

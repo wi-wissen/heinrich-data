@@ -7,6 +7,7 @@ Camp noun g=n gen=Camps pl=Camps
 Camper noun g=m gen=Campers pl=Camper
 Camperin noun g=f gen=Camperin pl=Camperinnen
 Camping noun g=n gen=Campings pl=- note=mass noun
+Campingplatz noun g=m gen=Campingplatzes pl=Campingplätze note=graded
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Canyon noun g=m gen=Canyons pl=Canyons
@@ -33,6 +34,7 @@ Champignon noun g=m gen=Champignons pl=Champignons
 Champion noun g=m gen=Champions pl=Champions
 Chance        noun g=f gen=Chance pl=Chancen
 Chanson noun g=n gen=Chansons pl=Chansons
+Chanukka noun g=n gen=Chanukka|Chanukkas pl=- conf=70 note=graded; Jewish festival; gender unsure (das, also die); no plural
 Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
@@ -43,6 +45,7 @@ Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
 Chatbot noun g=m gen=Chatbots pl=Chatbots
+Chatgruppe noun g=f gen=Chatgruppe pl=Chatgruppen note=graded
 Chatroom noun g=m gen=Chatrooms pl=Chatrooms
 Chauffeur noun g=m gen=Chauffeurs pl=Chauffeure
 Chauffeurin noun g=f gen=Chauffeurin pl=Chauffeurinnen
@@ -75,6 +78,7 @@ Christenheit noun g=f gen=Christenheit pl=- note=collective noun
 Christentum noun g=n gen=Christentums pl=- note=no plural
 Christianisierung noun g=f gen=Christianisierung pl=- note=mass noun
 Christin noun g=f gen=Christin pl=Christinnen
+Christkind noun g=n gen=Christkindes|Christkinds pl=Christkinder[rare] note=graded; gift bringer; plural only for figures
 Chrom noun g=n gen=Chroms pl=- note=mass noun
 Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
@@ -97,6 +101,7 @@ Cocktail noun g=m gen=Cocktails pl=Cocktails
 Code noun g=m gen=Codes pl=Codes
 Codex noun g=m gen=Codex|Codexes pl=Codices|Codizes[rare]
 Cola noun g=f gen=Cola pl=Colas
+Collage noun g=f gen=Collage pl=Collagen note=graded
 Collegeblock noun g=m gen=Collegeblocks|Collegeblockes pl=Collegeblöcke|Collegeblocks
 Comeback noun g=n gen=Comebacks pl=Comebacks
 Comedian noun g=m gen=Comedians pl=Comedians
@@ -106,6 +111,7 @@ Commonwealth noun g=n gen=Commonwealth|Commonwealths pl=- conf=70 note=gender un
 Community noun g=f gen=Community pl=Communitys|Communities conf=75 note=English loanword; plural unsure
 Compliance noun g=f gen=Compliance pl=- note=mass noun
 Computer noun g=m gen=Computers pl=Computer
+Computerspiel noun g=n gen=Computerspiels|Computerspieles pl=Computerspiele note=graded
 Consultant noun g=m gen=Consultants pl=Consultants
 Consulting noun g=n gen=Consultings pl=- note=mass noun
 Container noun g=m gen=Containers pl=Container

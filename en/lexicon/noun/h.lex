@@ -218,6 +218,7 @@ hibernation noun pl=- note=uncountable
 hiccup noun
 hickory noun
 hide           noun
+hide-and-seek noun pl=- note=graded; the children's game; uncountable
 hierarchy      noun
 hieroglyphic noun
 high           noun

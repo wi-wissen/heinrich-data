@@ -182,6 +182,16 @@ Compounds are decomposed by the engine (`Haustür` = `Haus` + `Tür`), so:
   `compound` means the analyser accepts the form – check that its split is the real one
   (`Aufgaben` is not *auf* + *gaben*: write `Aufgabe`; `angesprochen` is a form of the verb
   `ansprechen`: write the verb).
+- **Exception: compounds needed by the graded vocabulary layer** (`de/graded/`,
+  `Heinrich/docs/GRADED_VOCAB.md`). The layer attaches grade bands to lexemes, so a compound that
+  schools teach as a word of its own (`Einmaleins`, `Stromkreis`, `Zebrastreifen`, `Wohnzimmer`)
+  needs an entry even when it is transparent. Such entries come only from the graded work list
+  (compounds named by graded authors), carry `note=graded` and follow every other rule of this
+  protocol (own knowledge, gender and plural from the head checked with `dump`).
+  The same exception covers names of figures that religion lessons teach as words of their own
+  (`Abraham`, `Josef`, `David`, like the existing `Jesus` and `Allah`), as `propn`. A separable verb
+  whose particle is an adjective (`kleinschreiben`, `kaputtgehen`) is **not** added for the layer:
+  the particle reading of the adjective blocks the agreement rule for a missing adjective ending.
 
 ### 4.5 Proper names
 

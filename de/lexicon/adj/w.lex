@@ -12,6 +12,7 @@ wahrheitsgemäß adj
 wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 walisisch adj
 warm adj cmp=wärmer sup=wärmsten
+wasserdicht adj cmp=wasserdichter sup=wasserdichtesten conf=85 note=graded; comparison rare
 wechselseitig adj
 wehmütig adj cmp=wehmütiger sup=wehmütigsten
 wehrpflichtig adj

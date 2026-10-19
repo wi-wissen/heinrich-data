@@ -15,6 +15,7 @@ absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abwesend adj
+achsensymmetrisch adj note=graded
 achtsam adj cmp=achtsamer sup=achtsamsten
 achtziger adj indecl note=die achtziger Jahre
 adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
@@ -115,6 +116,7 @@ arm           adj cmp=ärmer sup=ärmsten
 armenisch adj
 ärmlich adj cmp=ärmlicher sup=ärmlichsten
 arrogant adj cmp=arroganter sup=arrogantesten
+artgerecht adj cmp=artgerechter sup=artgerechtesten note=graded
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
 aserbaidschanisch adj

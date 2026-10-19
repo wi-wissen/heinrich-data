@@ -5,7 +5,10 @@ Abberufung noun g=f gen=Abberufung pl=Abberufungen
 Abbildung noun g=f gen=Abbildung pl=Abbildungen
 Abbruch noun g=m gen=Abbruchs|Abbruches pl=Abbrüche
 Abbuchung noun g=f gen=Abbuchung pl=Abbuchungen
+ABC noun g=n gen=ABC|ABCs pl=- note=graded; alphabet; genitive often without ending; no plural
 Abend         noun g=m gen=Abends pl=Abende
+Abendessen noun g=n gen=Abendessens pl=Abendessen note=graded
+Abendmahl noun g=n gen=Abendmahles|Abendmahls pl=Abendmahle note=graded
 Abenteuer noun g=n gen=Abenteuers pl=Abenteuer
 Abenteurer noun g=m gen=Abenteurers pl=Abenteurer
 Aberglaube noun g=m gen=Aberglaubens pl=- note=no plural; Aberglauben is the dative/accusative form
@@ -90,6 +93,7 @@ Absolventin noun g=f gen=Absolventin pl=Absolventinnen
 Abspaltung noun g=f gen=Abspaltung pl=Abspaltungen
 Abspann noun g=m gen=Abspanns|Abspannes pl=Abspänne
 Absprache noun g=f gen=Absprache pl=Absprachen
+Absprung noun g=m gen=Absprungs|Absprunges pl=Absprünge note=graded
 Abstammung noun g=f gen=Abstammung pl=- note=mass noun
 Abstand       noun g=m gen=Abstands|Abstandes pl=Abstände
 Abstecher noun g=m gen=Abstechers pl=Abstecher
@@ -116,6 +120,7 @@ Abweichung noun g=f gen=Abweichung pl=Abweichungen
 Abwerbung noun g=f gen=Abwerbung pl=Abwerbungen
 Abwesenheit noun g=f gen=Abwesenheit pl=Abwesenheiten
 Abwicklung noun g=f gen=Abwicklung pl=Abwicklungen
+Abzählreim noun g=m gen=Abzählreims|Abzählreimes pl=Abzählreime note=graded
 Abzug noun g=m gen=Abzugs|Abzuges pl=Abzüge
 Abzweig noun g=m gen=Abzweigs|Abzweiges pl=Abzweige conf=85 note=Abzweigung is more common
 Abzweigung noun g=f gen=Abzweigung pl=Abzweigungen
@@ -123,6 +128,8 @@ Account noun g=m gen=Accounts pl=Accounts
 Achse noun g=f gen=Achse pl=Achsen
 Achsel noun g=f gen=Achsel pl=Achseln
 Acht noun g=f gen=Acht pl=Achten note=die Acht (digit); also in Acht nehmen, Acht geben
+Achteck noun g=n gen=Achtecks|Achteckes pl=Achtecke note=graded
+Achtelnote noun g=f gen=Achtelnote pl=Achtelnoten note=graded
 Achter noun g=m gen=Achters pl=Achter note=rowing boat; figure eight
 Achtung noun g=f gen=Achtung pl=- note=mass noun
 Ächtung noun g=f gen=Ächtung pl=Ächtungen
@@ -156,6 +163,8 @@ Adressat noun g=m gen=Adressaten pl=Adressaten
 Adressatin noun g=f gen=Adressatin pl=Adressatinnen
 Adresse noun g=f gen=Adresse pl=Adressen
 Advent noun g=m gen=Advents pl=- note=no plural
+Adventskalender noun g=m gen=Adventskalenders pl=Adventskalender note=graded
+Adventskranz noun g=m gen=Adventskranzes pl=Adventskränze note=graded
 Adverb noun g=n gen=Adverbs pl=Adverbien
 Adverbialbestimmung noun g=f gen=Adverbialbestimmung pl=Adverbialbestimmungen
 Adverbiale noun g=n gen=Adverbiales pl=Adverbialien|Adverbiale
@@ -203,6 +212,7 @@ Akku noun g=m gen=Akkus pl=Akkus
 Akkusativ noun g=m gen=Akkusativs pl=Akkusative
 Akquise noun g=f gen=Akquise pl=Akquisen
 Akronym noun g=n gen=Akronyms pl=Akronyme
+Akrostichon noun g=n gen=Akrostichons pl=Akrosticha|Akrostichen conf=75 note=graded; plural variants unsure
 Akt noun g=m gen=Akts|Aktes pl=Akte
 Akte noun g=f gen=Akte pl=Akten
 Aktenvernichter noun g=m gen=Aktenvernichters pl=Aktenvernichter
@@ -266,12 +276,15 @@ Altenpflege noun g=f gen=Altenpflege pl=- note=no plural
 Alter         noun g=n gen=Alters pl=Alter
 Alternative noun g=f gen=Alternative pl=Alternativen
 Altersarmut noun g=f gen=Altersarmut pl=- note=mass noun
+Altersfreigabe noun g=f gen=Altersfreigabe pl=Altersfreigaben note=graded
 Altersgrenze noun g=f gen=Altersgrenze pl=Altersgrenzen
 Alterssicherung noun g=f gen=Alterssicherung pl=- note=no plural
 Altersversorgung noun g=f gen=Altersversorgung pl=- note=mass noun
 Altersvorsorge noun g=f gen=Altersvorsorge pl=- note=mass noun
 Altertum noun g=n gen=Altertums pl=Altertümer note=the ancient world; plural for antiquities
 Ältestenrat noun g=m gen=Ältestenrats|Ältestenrates pl=Ältestenräte
+Altglas noun g=n gen=Altglases pl=- note=graded; mass noun
+Altpapier noun g=n gen=Altpapiers|Altpapieres pl=- note=graded; mass noun
 Altstadt noun g=f gen=Altstadt pl=Altstädte
 Alufolie noun g=f gen=Alufolie pl=Alufolien
 Aluminium noun g=n gen=Aluminiums pl=- note=mass noun
@@ -329,6 +342,7 @@ Anforderung   noun g=f gen=Anforderung pl=Anforderungen
 Anfrage noun g=f gen=Anfrage pl=Anfragen
 Anführer noun g=m gen=Anführers pl=Anführer
 Anführerin noun g=f gen=Anführerin pl=Anführerinnen
+Anführungszeichen noun g=n gen=Anführungszeichens pl=Anführungszeichen note=graded
 Angabe        noun g=f gen=Angabe pl=Angaben
 Angeber noun g=m gen=Angebers pl=Angeber
 Angeberin noun g=f gen=Angeberin pl=Angeberinnen
@@ -371,6 +385,8 @@ Ankunft noun g=f gen=Ankunft pl=Ankünfte
 Anlage        noun g=f gen=Anlage pl=Anlagen
 Anlass        noun g=m gen=Anlasses pl=Anlässe
 Anlauf noun g=m gen=Anlaufs|Anlaufes pl=Anläufe
+Anlaut noun g=m gen=Anlauts|Anlautes pl=Anlaute note=graded
+Anlauttabelle noun g=f gen=Anlauttabelle pl=Anlauttabellen note=graded
 Anleger noun g=m gen=Anlegers pl=Anleger
 Anlegerin noun g=f gen=Anlegerin pl=Anlegerinnen
 Anlehnung noun g=f gen=Anlehnung pl=Anlehnungen
@@ -466,8 +482,10 @@ Anzeichen noun g=n gen=Anzeichens pl=Anzeichen
 Anzeige       noun g=f gen=Anzeige pl=Anzeigen
 Anzeiger noun g=m gen=Anzeigers pl=Anzeiger
 Anziehung noun g=f gen=Anziehung pl=Anziehungen
+Anziehungskraft noun g=f gen=Anziehungskraft pl=Anziehungskräfte note=graded
 Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Apfel noun g=m gen=Apfels pl=Äpfel
+Apfelsaft noun g=m gen=Apfelsafts|Apfelsaftes pl=Apfelsäfte note=graded
 Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
 Apokalypse noun g=f gen=Apokalypse pl=Apokalypsen
 Apostel noun g=m gen=Apostels pl=Apostel
@@ -504,7 +522,9 @@ Arbeitnehmerin noun g=f gen=Arbeitnehmerin pl=Arbeitnehmerinnen
 Arbeitsblatt noun g=n gen=Arbeitsblatts|Arbeitsblattes pl=Arbeitsblätter
 Arbeitslose noun g=m|f decl=adj
 Arbeitslosigkeit noun g=f gen=Arbeitslosigkeit pl=- note=mass noun
+Arbeitsplatz noun g=m gen=Arbeitsplatzes pl=Arbeitsplätze note=graded
 Arbeitsuchende noun g=m|f decl=adj note=also Arbeitssuchende
+Arbeitszeit noun g=f gen=Arbeitszeit pl=Arbeitszeiten note=graded
 Archäologe noun g=m gen=Archäologen pl=Archäologen
 Archäologie noun g=f gen=Archäologie pl=- note=no plural
 Archäologin noun g=f gen=Archäologin pl=Archäologinnen
@@ -627,6 +647,7 @@ Aufenthalt    noun g=m gen=Aufenthalts|Aufenthaltes pl=Aufenthalte
 Auferstehung noun g=f gen=Auferstehung pl=Auferstehungen
 Auffassung    noun g=f gen=Auffassung pl=Auffassungen
 Aufforderung noun g=f gen=Aufforderung pl=Aufforderungen
+Aufforderungssatz noun g=m gen=Aufforderungssatzes pl=Aufforderungssätze note=graded
 Aufforstung noun g=f gen=Aufforstung pl=Aufforstungen
 Aufführung noun g=f gen=Aufführung pl=Aufführungen
 Aufgabe       noun g=f gen=Aufgabe pl=Aufgaben
@@ -682,6 +703,7 @@ Aufzeichnung noun g=f gen=Aufzeichnung pl=Aufzeichnungen
 Aufzug noun g=m gen=Aufzugs|Aufzuges pl=Aufzüge
 Auge          noun g=n gen=Auges pl=Augen
 Augenblick    noun g=m gen=Augenblicks|Augenblickes pl=Augenblicke
+Augenbraue noun g=f gen=Augenbraue pl=Augenbrauen note=graded
 Augenmerk noun g=n gen=Augenmerks|Augenmerkes pl=- note=no plural
 Augsburger noun g=m gen=Augsburgers pl=Augsburger note=inhabitant of Augsburg
 August        noun g=m gen=August|Augusts pl=- note=month name
@@ -698,6 +720,7 @@ Ausblick noun g=m gen=Ausblicks|Ausblickes pl=Ausblicke
 Ausbreitung noun g=f gen=Ausbreitung pl=- note=mass noun
 Ausbruch noun g=m gen=Ausbruchs|Ausbruches pl=Ausbrüche
 Ausdauer noun g=f gen=Ausdauer pl=- note=no plural
+Ausdauerlauf noun g=m gen=Ausdauerlaufes|Ausdauerlaufs pl=Ausdauerläufe note=graded
 Ausdehnung noun g=f gen=Ausdehnung pl=Ausdehnungen
 Ausdruck      noun g=m gen=Ausdrucks|Ausdruckes pl=Ausdrücke|Ausdrucke note=Ausdrucke: printouts
 Auseinandersetzung noun g=f gen=Auseinandersetzung pl=Auseinandersetzungen
@@ -724,6 +747,7 @@ Ausländer noun g=m gen=Ausländers pl=Ausländer
 Ausländerin noun g=f gen=Ausländerin pl=Ausländerinnen
 Auslastung noun g=f gen=Auslastung pl=Auslastungen
 Ausläufer noun g=m gen=Ausläufers pl=Ausläufer
+Auslaut noun g=m gen=Auslauts|Auslautes pl=Auslaute note=graded
 Auslegung noun g=f gen=Auslegung pl=Auslegungen
 Auslese noun g=f gen=Auslese pl=Auslesen
 Auslieferung noun g=f gen=Auslieferung pl=Auslieferungen
@@ -733,11 +757,15 @@ Ausmaß noun g=n gen=Ausmaßes pl=Ausmaße
 Ausnahme      noun g=f gen=Ausnahme pl=Ausnahmen
 Ausnahmefall noun g=m gen=Ausnahmefalls|Ausnahmefalles pl=Ausnahmefälle
 Ausprägung noun g=f gen=Ausprägung pl=Ausprägungen
+Ausrede noun g=f gen=Ausrede pl=Ausreden note=graded
 Ausreise noun g=f gen=Ausreise pl=Ausreisen
 Ausrichtung noun g=f gen=Ausrichtung pl=Ausrichtungen
+Ausrufesatz noun g=m gen=Ausrufesatzes pl=Ausrufesätze note=graded
+Ausrufezeichen noun g=n gen=Ausrufezeichens pl=Ausrufezeichen note=graded
 Ausrüster noun g=m gen=Ausrüsters pl=Ausrüster
 Ausrüstung noun g=f gen=Ausrüstung pl=Ausrüstungen
 Aussage       noun g=f gen=Aussage pl=Aussagen
+Aussagesatz noun g=m gen=Aussagesatzes pl=Aussagesätze note=graded
 Ausscheiden noun g=n gen=Ausscheidens pl=- note=lexicalised nominal infinitive: leaving office, elimination
 Ausschlag noun g=m gen=Ausschlags|Ausschlages pl=Ausschläge
 Ausschluss noun g=m gen=Ausschlusses pl=Ausschlüsse

@@ -25,6 +25,7 @@ sardonic adj adv=sardonically
 satanic adj
 satirical adj
 satisfactory adj adv=satisfactorily
+satisfied adj cmp=more note=graded
 satisfying adj
 saucy adj cmp=er
 Saudi adj
@@ -135,6 +136,7 @@ shaven adj
 sheer adj cmp=er
 shiny adj cmp=er
 shipboard adj
+shocked adj cmp=more note=graded
 shocking adj cmp=more adv=shockingly
 short adj cmp=er adv=shortly
 showery adj
@@ -155,6 +157,7 @@ silent adj cmp=more adv=silently
 silken adj
 silky adj cmp=er
 silly adj cmp=er
+silver adj note=graded; colour and material: a silver ring
 silvery adj
 similar adj cmp=more adv=similarly
 simple adj cmp=er adv=simply
@@ -330,6 +333,7 @@ strange adj cmp=er adv=strangely
 strategic adj adv=strategically
 stray adj
 strenuous adj adv=strenuously
+stressed adj cmp=more note=graded; under stress; also a stressed syllable
 stressful adj cmp=more adv=stressfully
 striated adj
 stricken adj
@@ -429,6 +433,7 @@ sweet adj cmp=er adv=sweetly
 sweltering adj
 swift adj cmp=er adv=swiftly
 Swiss adj
+swollen adj cmp=more note=graded
 sylvan adj
 symbiotic adj adv=symbiotically
 symbolic adj adv=symbolically

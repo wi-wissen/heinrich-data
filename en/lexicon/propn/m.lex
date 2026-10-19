@@ -53,6 +53,7 @@ Ming propn note=Chinese dynasty
 Minneapolis   propn
 Minnesota     propn
 MIPS          propn abbr conf=80 note=Merit-based Incentive Payment System (US)
+Miss propn note=graded; title and form of address, Miss Smith
 Mississippi   propn
 Missouri      propn
 MIT           propn abbr note=Massachusetts Institute of Technology

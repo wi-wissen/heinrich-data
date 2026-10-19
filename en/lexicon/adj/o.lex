@@ -57,6 +57,7 @@ onstage adj
 onward         adj
 opaque adj cmp=more adv=opaquely
 open           adj cmp=more adv=openly
+open-minded adj cmp=more note=graded; lexicalised compound
 operatic adj
 operational    adj adv=operationally
 operative      adj

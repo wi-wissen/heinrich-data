@@ -1,12 +1,22 @@
 Zacken noun g=m gen=Zackens pl=Zacken
 Zahl noun g=f gen=Zahl pl=Zahlen
+Zahlenhaus noun g=n gen=Zahlenhauses pl=Zahlenhäuser note=graded
+Zahlenmauer noun g=f gen=Zahlenmauer pl=Zahlenmauern note=graded
+Zahlenraum noun g=m gen=Zahlenraums|Zahlenraumes pl=Zahlenräume note=graded
+Zahlenreihe noun g=f gen=Zahlenreihe pl=Zahlenreihen note=graded
+Zahlenstrahl noun g=m gen=Zahlenstrahls|Zahlenstrahles pl=Zahlenstrahlen note=graded
 Zahler noun g=m gen=Zahlers pl=Zahler
 Zähler noun g=m gen=Zählers pl=Zähler
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
 Zählung noun g=f gen=Zählung pl=Zählungen
 Zahlwort noun g=n gen=Zahlworts|Zahlwortes pl=Zahlwörter
 Zahn noun g=m gen=Zahns|Zahnes pl=Zähne
+Zahnbürste noun g=f gen=Zahnbürste pl=Zahnbürsten note=graded
+Zahnfleisch noun g=n gen=Zahnfleisches|Zahnfleischs[rare] pl=- note=graded; mass noun
 Zahnpasta noun g=f gen=Zahnpasta pl=Zahnpasten
+Zahnpflege noun g=f gen=Zahnpflege pl=- note=graded; mass noun
+Zahnrad noun g=n gen=Zahnrades|Zahnrads pl=Zahnräder note=graded
+Zahnschmelz noun g=m gen=Zahnschmelzes pl=- note=graded; mass noun
 Zahnspange noun g=f gen=Zahnspange pl=Zahnspangen
 Zange noun g=f gen=Zange pl=Zangen
 Zank noun g=m gen=Zanks|Zankes pl=- note=no plural (mass or abstract noun)
@@ -23,12 +33,16 @@ Zaumzeug noun g=n gen=Zaumzeugs|Zaumzeuges pl=Zaumzeuge
 Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
 ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
 Zebra noun g=n gen=Zebras pl=Zebras
+Zebrastreifen noun g=m gen=Zebrastreifens pl=Zebrastreifen note=graded
 Zeche noun g=f gen=Zeche pl=Zechen
 Zecke noun g=f gen=Zecke pl=Zecken
 Zeder noun g=f gen=Zeder pl=Zedern
 Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zehner noun g=m gen=Zehners pl=Zehner
+Zehnerstange noun g=f gen=Zehnerstange pl=Zehnerstangen note=graded
+Zehnerübergang noun g=m gen=Zehnerübergangs|Zehnerüberganges pl=Zehnerübergänge note=graded
+Zehntausender noun g=m gen=Zehntausenders pl=Zehntausender note=graded
 Zehntel noun g=n gen=Zehntels pl=Zehntel
 Zeichen noun g=n gen=Zeichens pl=Zeichen
 Zeichensetzung noun g=f gen=Zeichensetzung pl=- note=no plural
@@ -42,15 +56,21 @@ Zeile noun g=f gen=Zeile pl=Zeilen
 Zeisig noun g=m gen=Zeisigs pl=Zeisige
 Zeit noun g=f gen=Zeit pl=Zeiten
 Zeitalter noun g=n gen=Zeitalters pl=Zeitalter
+Zeitform noun g=f gen=Zeitform pl=Zeitformen note=graded
 Zeitgeist noun g=m gen=Zeitgeists|Zeitgeistes pl=- note=no plural
 Zeitgenosse noun g=m gen=Zeitgenossen pl=Zeitgenossen
+Zeitleiste noun g=f gen=Zeitleiste pl=Zeitleisten note=graded
 Zeitpunkt noun g=m gen=Zeitpunkts|Zeitpunktes pl=Zeitpunkte
 Zeitraum noun g=m gen=Zeitraums|Zeitraumes pl=Zeiträume
+Zeitreise noun g=f gen=Zeitreise pl=Zeitreisen note=graded
 Zeitschrift noun g=f gen=Zeitschrift pl=Zeitschriften
+Zeitspanne noun g=f gen=Zeitspanne pl=Zeitspannen note=graded
+Zeitstrahl noun g=m gen=Zeitstrahls|Zeitstrahles pl=Zeitstrahlen note=graded
 Zeitung noun g=f gen=Zeitung pl=Zeitungen
 Zeitungsausträger noun g=m gen=Zeitungsausträgers pl=Zeitungsausträger
 Zeitungsausträgerin noun g=f gen=Zeitungsausträgerin pl=Zeitungsausträgerinnen
 Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
+Zeitwort noun g=n gen=Zeitwortes|Zeitworts pl=Zeitwörter note=graded; verb (traditional term)
 Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
@@ -123,6 +143,7 @@ Zofe noun g=f gen=Zofe pl=Zofen
 Zögling noun g=m gen=Zöglings pl=Zöglinge
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
+Zollstock noun g=m gen=Zollstocks|Zollstockes pl=Zollstöcke note=graded
 Zombie noun g=m gen=Zombies pl=Zombies
 Zone noun g=f gen=Zone pl=Zonen
 Zoo noun g=m gen=Zoos pl=Zoos
@@ -141,6 +162,7 @@ Züchter noun g=m gen=Züchters pl=Züchter
 Züchterin noun g=f gen=Züchterin pl=Züchterinnen
 Züchtigung noun g=f gen=Züchtigung pl=Züchtigungen
 Zucker noun g=m gen=Zuckers pl=Zucker
+Zuckerfest noun g=n gen=Zuckerfestes|Zuckerfests pl=Zuckerfeste note=graded; festival at the end of Ramadan
 Zuckerwatte noun g=f gen=Zuckerwatte pl=- note=no plural (mass or abstract noun)
 Zufall noun g=m gen=Zufalls pl=Zufälle
 Zuflucht noun g=f gen=Zuflucht pl=- note=no plural
@@ -150,10 +172,12 @@ Zufuhr noun g=f gen=Zufuhr pl=Zufuhren
 Zug noun g=m gen=Zuges|Zugs[rare] pl=Züge
 Zugabe noun g=f gen=Zugabe pl=Zugaben
 Zugang noun g=m gen=Zugangs|Zuganges[rare] pl=Zugänge
+Zugbrücke noun g=f gen=Zugbrücke pl=Zugbrücken note=graded
 Zugehörigkeit noun g=f gen=Zugehörigkeit pl=- note=no plural
 Zügel noun g=m gen=Zügels pl=Zügel
 Zugriff noun g=m gen=Zugriffs|Zugriffes pl=Zugriffe
 Zugrundelegung noun g=f gen=Zugrundelegung pl=- note=no plural
+Zugvogel noun g=m gen=Zugvogels pl=Zugvögel note=graded
 Zuhause noun g=n gen=Zuhauses pl=- note=no plural
 Zuhilfenahme noun g=f gen=Zuhilfenahme pl=- note=unter Zuhilfenahme; no plural
 Zuhörer noun g=m gen=Zuhörers pl=Zuhörer
@@ -213,6 +237,7 @@ Zuwiderhandlung noun g=f gen=Zuwiderhandlung pl=Zuwiderhandlungen
 Zuzug noun g=m gen=Zuzugs|Zuzuges pl=Zuzüge
 Zwang noun g=m gen=Zwangs|Zwanges pl=Zwänge
 Zwangsvollstreckung noun g=f gen=Zwangsvollstreckung pl=Zwangsvollstreckungen
+Zwanzigerfeld noun g=n gen=Zwanzigerfeldes|Zwanzigerfelds pl=Zwanzigerfelder note=graded
 Zweck noun g=m gen=Zwecks|Zweckes pl=Zwecke
 Zwei noun g=f gen=Zwei pl=Zweien note=die Zwei: the digit, a grade, a bus line
 Zweier noun g=m gen=Zweiers pl=Zweier note=two-person boat; grade 2; two-euro coin
@@ -226,6 +251,7 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwielaut noun g=m gen=Zwielauts|Zwielautes pl=Zwielaute note=graded; diphthong (school term)
 Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwietracht noun g=f gen=Zwietracht pl=- note=mass noun
 Zwilling noun g=m gen=Zwillings pl=Zwillinge

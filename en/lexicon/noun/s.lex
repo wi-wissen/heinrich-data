@@ -598,6 +598,7 @@ smelter noun
 smile noun
 smoke noun
 smoker noun
+smoking noun pl=- note=graded; uncountable
 smoothie noun
 smoothness noun pl=- note=uncountable
 SMS noun abbr pl=SMS|SMSes conf=85 note=plural use unsure
@@ -881,6 +882,7 @@ stare noun
 starfish noun pl=starfish|starfishes
 starlight noun pl=- note=uncountable
 starling noun
+start noun note=graded
 starter noun
 startup noun
 starvation noun
@@ -1009,6 +1011,7 @@ strawberry noun
 streak noun
 stream noun
 streamer noun
+streaming noun pl=- note=graded; uncountable
 street noun
 streetcar noun
 strength noun
@@ -1193,6 +1196,8 @@ surcharge noun
 surety noun
 surface noun
 surfboard noun
+surfer noun note=graded
+surfing noun pl=- note=graded; uncountable
 surge noun
 surgeon noun
 surgery noun

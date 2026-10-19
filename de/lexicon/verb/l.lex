@@ -17,6 +17,7 @@ laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf
 lauschen verb class=weak pp=gelauscht perf=haben
 lauten verb class=weak pp=gelautet perf=haben
 läuten verb class=weak pp=geläutet perf=haben
+lautieren verb class=weak pp=lautiert perf=haben note=graded
 leasen verb class=weak pp=geleast perf=haben
 leben verb class=weak pp=gelebt perf=haben
 lecken verb class=weak pp=geleckt perf=haben
@@ -26,6 +27,7 @@ legitimieren verb class=weak pp=legitimiert perf=haben refl=acc
 lehnen verb class=weak pp=gelehnt perf=haben
 lehren verb class=weak pp=gelehrt perf=haben
 leiden verb class=strong 3sg=leidet past=litt pp=gelitten subj2=litte perf=haben
+leidtun verb class=strong sep=leid pres=leidtue,leidtust,leidtut,leidtun,leidtut,leidtun past=leidtat pp=leidgetan subj2=leidtäte perf=haben note=graded; es tut mir leid
 leiern verb class=weak pp=geleiert perf=haben
 leihen verb class=strong 3sg=leiht past=lieh pp=geliehen subj2=liehe perf=haben
 leisten verb class=weak pp=geleistet perf=haben

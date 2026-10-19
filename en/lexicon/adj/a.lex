@@ -9,6 +9,7 @@ abnormal adj cmp=more adv=abnormally
 abolitionist adj
 abominable adj adv=abominably
 aboriginal adj
+Aboriginal adj note=graded; of Aboriginal Australians; lowercase aboriginal is the general sense
 abortive adj
 abrasive adj
 abrupt adj cmp=more adv=abruptly

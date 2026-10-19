@@ -27,6 +27,10 @@ Fahrlässigkeit noun g=f gen=Fahrlässigkeit pl=- note=no plural
 Fahrlehrer noun g=m gen=Fahrlehrers pl=Fahrlehrer
 Fahrplan noun g=m gen=Fahrplans|Fahrplanes pl=Fahrpläne
 Fahrrad noun g=n gen=Fahrrads|Fahrrades pl=Fahrräder
+Fahrradführerschein noun g=m gen=Fahrradführerscheins|Fahrradführerscheines pl=Fahrradführerscheine note=graded
+Fahrradhelm noun g=m gen=Fahrradhelms|Fahrradhelmes pl=Fahrradhelme note=graded
+Fahrradprüfung noun g=f gen=Fahrradprüfung pl=Fahrradprüfungen note=graded
+Fahrradweg noun g=m gen=Fahrradweges|Fahrradwegs pl=Fahrradwege note=graded
 Fahrschein noun g=m gen=Fahrscheins|Fahrscheines pl=Fahrscheine
 Fahrschule noun g=f gen=Fahrschule pl=Fahrschulen
 Fahrstuhl noun g=m gen=Fahrstuhls|Fahrstuhles pl=Fahrstühle
@@ -34,6 +38,7 @@ Fahrt noun g=f gen=Fahrt pl=Fahrten
 Fährte noun g=f gen=Fährte pl=Fährten
 Fahrzeug noun g=n gen=Fahrzeugs|Fahrzeuges pl=Fahrzeuge
 Fairness noun g=f gen=Fairness pl=- note=no plural
+Fairplay noun g=n gen=Fairplay|Fairplays pl=- note=graded; no plural; genitive often without ending
 Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
 Faksimile noun g=n gen=Faksimiles pl=Faksimiles
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
@@ -48,21 +53,28 @@ Falkner noun g=m gen=Falkners pl=Falkner
 Fall noun g=m gen=Falles|Falls pl=Fälle
 Falle noun g=f gen=Falle pl=Fallen
 Fälligkeit noun g=f gen=Fälligkeit pl=Fälligkeiten
+Fallschirm noun g=m gen=Fallschirms|Fallschirmes pl=Fallschirme note=graded
 Falschparker noun g=m gen=Falschparkers pl=Falschparker
 Falschparkerin noun g=f gen=Falschparkerin pl=Falschparkerinnen
 Fälschung noun g=f gen=Fälschung pl=Fälschungen
 Falte noun g=f gen=Falte pl=Falten
 Falter noun g=m gen=Falters pl=Falter
 Familie noun g=f gen=Familie pl=Familien
+Familienname noun g=m gen=Familiennamens pl=Familiennamen note=graded
+Familienstammbaum noun g=m gen=Familienstammbaumes|Familienstammbaums pl=Familienstammbäume note=graded
 Fan noun g=m gen=Fans pl=Fans
 Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
+Fangspiel noun g=n gen=Fangspiels|Fangspieles pl=Fangspiele note=graded
 Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
+Fantasiegeschichte noun g=f gen=Fantasiegeschichte pl=Fantasiegeschichten note=graded
 Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
 Farbgebung noun g=f gen=Farbgebung pl=Farbgebungen
+Farbkasten noun g=m gen=Farbkastens pl=Farbkästen note=graded
+Farbton noun g=m gen=Farbtones|Farbtons pl=Farbtöne note=graded
 Färbung noun g=f gen=Färbung pl=Färbungen
 Farm noun g=f gen=Farm pl=Farmen
 Farmer noun g=m gen=Farmers pl=Farmer
@@ -85,6 +97,7 @@ Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
+Faustkeil noun g=m gen=Faustkeils|Faustkeiles pl=Faustkeile note=graded
 Favorit noun g=m gen=Favoriten pl=Favoriten
 Fax noun g=n gen=Faxes pl=Faxe
 Fazit noun g=n gen=Fazits pl=Fazits|Fazite
@@ -107,9 +120,11 @@ Fehlerquelle noun g=f gen=Fehlerquelle pl=Fehlerquellen
 Feier noun g=f gen=Feier pl=Feiern
 Feierabend noun g=m gen=Feierabends pl=Feierabende
 Feierlichkeit noun g=f gen=Feierlichkeit pl=Feierlichkeiten
+Feiertag noun g=m gen=Feiertages|Feiertags pl=Feiertage note=graded
 Feige noun g=f gen=Feige pl=Feigen
 Feigheit noun g=f gen=Feigheit pl=- note=mass noun
 Feigling noun g=m gen=Feiglings pl=Feiglinge
+Feile noun g=f gen=Feile pl=Feilen note=graded
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
@@ -146,6 +161,8 @@ Festnahme noun g=f gen=Festnahme pl=Festnahmen
 Festplatte noun g=f gen=Festplatte pl=Festplatten
 Festsetzung noun g=f gen=Festsetzung pl=Festsetzungen
 Feststellung noun g=f gen=Feststellung pl=Feststellungen
+Feststoff noun g=m gen=Feststoffes|Feststoffs pl=Feststoffe note=graded
+Festtag noun g=m gen=Festtages|Festtags pl=Festtage note=graded
 Festung noun g=f gen=Festung pl=Festungen
 Fete noun g=f gen=Fete pl=Feten
 Fett noun g=n gen=Fetts|Fettes pl=Fette
@@ -158,7 +175,10 @@ Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
 Feuersbrunst noun g=f gen=Feuersbrunst pl=Feuersbrünste
 Feuerung noun g=f gen=Feuerung pl=Feuerungen
 Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
+Feuerwache noun g=f gen=Feuerwache pl=Feuerwachen note=graded
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
+Feuerwerk noun g=n gen=Feuerwerkes|Feuerwerks pl=Feuerwerke note=graded
+Fibel noun g=f gen=Fibel pl=Fibeln note=graded
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Figur noun g=f gen=Figur pl=Figuren
@@ -195,6 +215,7 @@ Fiskus noun g=m gen=Fiskus pl=Fiskusse|Fisken conf=80 note=des Fiskus; plural ra
 Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
+Flächeninhalt noun g=m gen=Flächeninhalts|Flächeninhaltes pl=Flächeninhalte note=graded
 Flagge noun g=f gen=Flagge pl=Flaggen
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
@@ -202,6 +223,7 @@ Flanke noun g=f gen=Flanke pl=Flanken
 Fläschchen noun g=n gen=Fläschchens pl=Fläschchen
 Flasche noun g=f gen=Flasche pl=Flaschen
 Flaschenöffner noun g=m gen=Flaschenöffners pl=Flaschenöffner
+Flaschenzug noun g=m gen=Flaschenzuges|Flaschenzugs[rare] pl=Flaschenzüge note=graded
 Flatrate noun g=f gen=Flatrate pl=Flatrates
 Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
@@ -310,6 +332,8 @@ Frachter noun g=m gen=Frachters pl=Frachter
 Frack noun g=m gen=Fracks|Frackes pl=Fräcke|Fracks
 Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
+Fragesatz noun g=m gen=Fragesatzes pl=Fragesätze note=graded
+Fragezeichen noun g=n gen=Fragezeichens pl=Fragezeichen note=graded
 Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
 Fraktion noun g=f gen=Fraktion pl=Fraktionen
 Fraktur noun g=f gen=Fraktur pl=Frakturen
@@ -340,6 +364,7 @@ Freiherr noun g=m gen=Freiherrn pl=Freiherren
 Freiin noun g=f gen=Freiin pl=Freiinnen
 Freilassung noun g=f gen=Freilassung pl=Freilassungen
 Freischaltung noun g=f gen=Freischaltung pl=Freischaltungen
+Freischwimmer noun g=m gen=Freischwimmers pl=Freischwimmer note=graded
 Freisetzung noun g=f gen=Freisetzung pl=Freisetzungen
 Freitag noun g=m gen=Freitags|Freitages pl=Freitage
 Freiwillige noun g=m|f decl=adj
@@ -347,6 +372,7 @@ Freizeit noun g=f gen=Freizeit pl=Freizeiten
 Freizügigkeit noun g=f gen=Freizügigkeit pl=- note=no plural
 Fremde noun g=m|f decl=adj
 Fremdling noun g=m gen=Fremdlings pl=Fremdlinge
+Fremdsprache noun g=f gen=Fremdsprache pl=Fremdsprachen note=graded
 Frequenz noun g=f gen=Frequenz pl=Frequenzen
 Fresko noun g=n gen=Freskos pl=Fresken|Freskos
 Freude noun g=f gen=Freude pl=Freuden
@@ -378,6 +404,7 @@ Frost noun g=m gen=Frostes|Frosts pl=Fröste
 Frucht noun g=f gen=Frucht pl=Früchte
 Fruchtbarkeit noun g=f gen=Fruchtbarkeit pl=- note=no plural
 Frühaufsteher noun g=m gen=Frühaufstehers pl=Frühaufsteher
+Frühblüher noun g=m gen=Frühblühers pl=Frühblüher note=graded
 Frühe noun g=f gen=Frühe pl=- note=in der Frühe; no plural
 Frühjahr noun g=n gen=Frühjahrs|Frühjahres[rare] pl=Frühjahre
 Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
@@ -399,6 +426,7 @@ Füller noun g=m gen=Füllers pl=Füller
 Füllung noun g=f gen=Füllung pl=Füllungen
 Fund noun g=m gen=Fundes|Funds pl=Funde
 Fundament noun g=n gen=Fundaments|Fundamentes pl=Fundamente
+Fünfeck noun g=n gen=Fünfecks|Fünfeckes pl=Fünfecke note=graded
 Fünftel noun g=n gen=Fünftels pl=Fünftel
 Funk noun g=m gen=Funks pl=- note=no plural
 Funke noun g=m gen=Funkens pl=Funken
@@ -413,6 +441,7 @@ Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
 Furt noun g=f gen=Furt pl=Furten
+Fürwort noun g=n gen=Fürwortes|Fürworts[rare] pl=Fürwörter note=graded
 Füßchen noun g=n gen=Füßchens pl=Füßchen
 Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße

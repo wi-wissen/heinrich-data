@@ -1,6 +1,8 @@
 Waage noun g=f gen=Waage pl=Waagen
 Wache noun g=f gen=Wache pl=Wachen
 Wachs noun g=n gen=Wachses pl=Wachse
+Wachsmalkreide noun g=f gen=Wachsmalkreide pl=Wachsmalkreiden note=graded
+Wachsmalstift noun g=m gen=Wachsmalstifts|Wachsmalstiftes pl=Wachsmalstifte note=graded
 Wachstum noun g=n gen=Wachstums pl=- note=mass noun
 Wachtel noun g=f gen=Wachtel pl=Wachteln
 Wächter noun g=m gen=Wächters pl=Wächter
@@ -56,6 +58,7 @@ Wärmedämmung noun g=f gen=Wärmedämmung pl=Wärmedämmungen
 Wärmepumpe noun g=f gen=Wärmepumpe pl=Wärmepumpen
 Warnschild noun g=n gen=Warnschilds|Warnschildes pl=Warnschilder
 Warnung noun g=f gen=Warnung pl=Warnungen
+Warnweste noun g=f gen=Warnweste pl=Warnwesten note=graded
 Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
 Wärter noun g=m gen=Wärters pl=Wärter
 Wärterin noun g=f gen=Wärterin pl=Wärterinnen
@@ -63,13 +66,21 @@ Wartung noun g=f gen=Wartung pl=Wartungen
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
 Waschlappen noun g=m gen=Waschlappens pl=Waschlappen
+Waschmaschine noun g=f gen=Waschmaschine pl=Waschmaschinen note=graded
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
+Wasserbecher noun g=m gen=Wasserbechers pl=Wasserbecher note=graded
+Wasserdampf noun g=m gen=Wasserdampfes|Wasserdampfs pl=Wasserdämpfe note=graded; plural technical
+Wasserfarbe noun g=f gen=Wasserfarbe pl=Wasserfarben note=graded
 Wasserknappheit noun g=f gen=Wasserknappheit pl=- note=no plural
 Wasserkocher noun g=m gen=Wasserkochers pl=Wasserkocher
+Wasserkreislauf noun g=m gen=Wasserkreislaufs|Wasserkreislaufes pl=Wasserkreisläufe note=graded
+Wasserrad noun g=n gen=Wasserrades|Wasserrads pl=Wasserräder note=graded
 Wasserstoff noun g=m gen=Wasserstoffs|Wasserstoffes pl=- note=no plural
 Wasserstrudel noun g=m gen=Wasserstrudels pl=Wasserstrudel
+Wasserwerk noun g=n gen=Wasserwerkes|Wasserwerks pl=Wasserwerke note=graded
 Watt noun g=n gen=Watts|Wattes pl=Watten sense=mudflat note=das Watt: tidal flat
 Watt noun g=n gen=Watt|Watts pl=Watt sense=unit note=physical unit; des Watt(s)
+Wattenmeer noun g=n gen=Wattenmeeres|Wattenmeers pl=- note=graded; mostly the North Sea mud flats; plural not used
 WC noun g=n gen=WC|WCs pl=WCs note=abbreviation of Wasserklosett
 WDR noun g=m gen=WDR|WDRs pl=- note=Westdeutscher Rundfunk; der WDR
 Web noun g=n gen=Web|Webs pl=- note=das Web (World Wide Web)
@@ -80,10 +91,14 @@ Webinar noun g=n gen=Webinars pl=Webinare
 Webseite noun g=f gen=Webseite pl=Webseiten
 Webshop noun g=m gen=Webshops pl=Webshops
 Website noun g=f gen=Website pl=Websites
+Webstuhl noun g=m gen=Webstuhls|Webstuhles pl=Webstühle note=graded
 Wechsel noun g=m gen=Wechsels pl=Wechsel
+Wechselgeld noun g=n gen=Wechselgeldes|Wechselgelds pl=- note=graded; mass noun
 Wecker noun g=m gen=Weckers pl=Wecker
 Weg noun g=m gen=Weges|Wegs pl=Wege
+Wegbeschreibung noun g=f gen=Wegbeschreibung pl=Wegbeschreibungen note=graded
 Wegfall noun g=m gen=Wegfalls|Wegfalles pl=- note=no plural
+Weglassprobe noun g=f gen=Weglassprobe pl=Weglassproben note=graded
 Wehr noun g=n gen=Wehrs|Wehres pl=Wehre sense=weir
 Wehr noun g=f gen=Wehr pl=Wehren sense=defence note=sich zur Wehr setzen
 Wehrmacht noun g=f gen=Wehrmacht pl=- note=no plural
@@ -118,6 +133,7 @@ Weiterentwicklung noun g=f gen=Weiterentwicklung pl=Weiterentwicklungen
 Weitergabe noun g=f gen=Weitergabe pl=- note=no plural
 Weiterleitung noun g=f gen=Weiterleitung pl=Weiterleitungen
 Weitsprung noun g=m gen=Weitsprungs|Weitsprunges pl=Weitsprünge
+Weitwurf noun g=m gen=Weitwurfs|Weitwurfes pl=Weitwürfe note=graded
 Weizen noun g=m gen=Weizens pl=- note=no plural
 Welle noun g=f gen=Welle pl=Wellen
 Wellensittich noun g=m gen=Wellensittichs|Wellensittiches pl=Wellensittiche
@@ -127,9 +143,12 @@ Weltall noun g=n gen=Weltalls pl=- note=no plural
 Weltbild noun g=n gen=Weltbilds|Weltbildes pl=Weltbilder
 Weltcup noun g=m gen=Weltcups pl=Weltcups
 Weltergewicht noun g=n gen=Weltergewichts pl=- note=boxing weight class
+Weltraum noun g=m gen=Weltraums|Weltraumes pl=- note=graded; no plural
+Weltreligion noun g=f gen=Weltreligion pl=Weltreligionen note=graded
 Weltschmerz noun g=m gen=Weltschmerzes pl=- note=no plural
 Wende noun g=f gen=Wende pl=Wenden
 Wendel noun g=f gen=Wendel pl=Wendeln
+Wendeplättchen noun g=n gen=Wendeplättchens pl=Wendeplättchen note=graded
 Wendung noun g=f gen=Wendung pl=Wendungen
 Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen
@@ -139,6 +158,7 @@ Werft noun g=f gen=Werft pl=Werften
 Werk noun g=n gen=Werkes|Werks pl=Werke
 Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
+Werktag noun g=m gen=Werktages|Werktags pl=Werktage note=graded
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
 Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
@@ -154,8 +174,13 @@ Wettbewerber noun g=m gen=Wettbewerbers pl=Wettbewerber
 Wettbewerberin noun g=f gen=Wettbewerberin pl=Wettbewerberinnen
 Wette noun g=f gen=Wette pl=Wetten
 Wetter noun g=n gen=Wetters pl=Wetter
+Wetterbericht noun g=m gen=Wetterberichts|Wetterberichtes pl=Wetterberichte note=graded
+Wetterfahne noun g=f gen=Wetterfahne pl=Wetterfahnen note=graded
 Wetterfrosch noun g=m gen=Wetterfrosches pl=Wetterfrösche
+Wetterstation noun g=f gen=Wetterstation pl=Wetterstationen note=graded
+Wettervorhersage noun g=f gen=Wettervorhersage pl=Wettervorhersagen note=graded
 Wettkampf noun g=m gen=Wettkampfs|Wettkampfes pl=Wettkämpfe
+Wettlauf noun g=m gen=Wettlaufes|Wettlaufs pl=Wettläufe note=graded
 WG noun g=f gen=WG pl=WGs note=abbreviation of Wohngemeinschaft
 Whisky noun g=m gen=Whiskys pl=Whiskys
 Whistleblower noun g=m gen=Whistleblowers pl=Whistleblower
@@ -185,11 +210,14 @@ Wiege noun g=f gen=Wiege pl=Wiegen
 Wiener noun g=m gen=Wieners pl=Wiener note=inhabitant of Vienna
 Wiese noun g=f gen=Wiese pl=Wiesen
 Wiesel noun g=n gen=Wiesels pl=Wiesel
+Wiewort noun g=n gen=Wiewortes|Wieworts pl=Wiewörter note=graded; adjective (primary-school term)
 Wiki noun g=n gen=Wikis pl=Wikis
 Wikinger noun g=m gen=Wikingers pl=Wikinger
 Wild noun g=n gen=Wilds|Wildes pl=- note=game (animals)
 Wildkraut noun g=n gen=Wildkrauts pl=Wildkräuter
 Wildnis noun g=f gen=Wildnis pl=Wildnisse
+Wildschwein noun g=n gen=Wildschweins|Wildschweines pl=Wildschweine note=graded
+Wildtier noun g=n gen=Wildtieres|Wildtiers pl=Wildtiere note=graded
 Wildwuchs noun g=m gen=Wildwuchses pl=- note=no plural
 Wille noun g=m gen=Willens pl=Willen
 Willkomm noun g=m gen=Willkomms|Willkommes pl=Willkomme style=archaic conf=70 note=archaic for Willkommen; many gov hits are probably a surname
@@ -197,12 +225,20 @@ Willkür noun g=f gen=Willkür pl=- note=no plural
 Wimper noun g=f gen=Wimper pl=Wimpern
 Wimperntusche noun g=f gen=Wimperntusche pl=Wimperntuschen
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
+Windmesser noun g=m gen=Windmessers pl=Windmesser note=graded
+Windmühle noun g=f gen=Windmühle pl=Windmühlen note=graded
 Windpocken noun g=pl
 Windrad noun g=n gen=Windrads|Windrades pl=Windräder
+Windrichtung noun g=f gen=Windrichtung pl=Windrichtungen note=graded
+Windrose noun g=f gen=Windrose pl=Windrosen note=graded
+Windstärke noun g=f gen=Windstärke pl=Windstärken note=graded
 Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
 Winterferien noun g=pl
+Winterruhe noun g=f gen=Winterruhe pl=- note=graded; no plural
+Winterschlaf noun g=m gen=Winterschlafs|Winterschlafes pl=- note=graded; no plural
+Winterstarre noun g=f gen=Winterstarre pl=- note=graded; no plural
 Winzer noun g=m gen=Winzers pl=Winzer
 Winzerin noun g=f gen=Winzerin pl=Winzerinnen
 Wipfel noun g=m gen=Wipfels pl=Wipfel
@@ -237,6 +273,8 @@ WLAN noun g=n gen=WLAN|WLANs pl=WLANs|WLAN
 WM noun g=f gen=WM pl=WMs note=Weltmeisterschaft; die WM
 Woche noun g=f gen=Woche pl=Wochen
 Wochenende noun g=n gen=Wochenendes pl=Wochenenden
+Wochenmarkt noun g=m gen=Wochenmarktes|Wochenmarkts pl=Wochenmärkte note=graded
+Wochenplan noun g=m gen=Wochenplans|Wochenplanes pl=Wochenpläne note=graded
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
@@ -253,6 +291,7 @@ Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
 Wohnungslosigkeit noun g=f gen=Wohnungslosigkeit pl=- note=abstract noun, no plural
 Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
+Wohnzimmer noun g=n gen=Wohnzimmers pl=Wohnzimmer note=graded
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
 Wölbung noun g=f gen=Wölbung pl=Wölbungen
@@ -269,9 +308,16 @@ Workflow noun g=m gen=Workflows pl=Workflows
 Workshop noun g=m gen=Workshops pl=Workshops
 Workspace noun g=m gen=Workspace|Workspaces pl=Workspaces
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
+Wortart noun g=f gen=Wortart pl=Wortarten note=graded
+Wortbaustein noun g=m gen=Wortbausteins|Wortbausteines pl=Wortbausteine note=graded
+Wortbildung noun g=f gen=Wortbildung pl=Wortbildungen note=graded
 Wörtchen noun g=n gen=Wörtchens pl=Wörtchen
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
+Wortfamilie noun g=f gen=Wortfamilie pl=Wortfamilien note=graded
+Wortfeld noun g=n gen=Wortfeldes|Wortfelds pl=Wortfelder note=graded
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
+Wortstamm noun g=m gen=Wortstamms|Wortstammes pl=Wortstämme note=graded
+Wortwahl noun g=f gen=Wortwahl pl=- note=graded; no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
@@ -284,7 +330,10 @@ Wunsch noun g=m gen=Wunsches|Wunschs[rare] pl=Wünsche
 Würde noun g=f gen=Würde pl=Würden
 Würdigung noun g=f gen=Würdigung pl=Würdigungen
 Wurf noun g=m gen=Wurfs|Wurfes pl=Würfe
+Wurfball noun g=m gen=Wurfballs|Wurfballes pl=Wurfbälle note=graded
 Würfel noun g=m gen=Würfels pl=Würfel
+Würfelgebäude noun g=n gen=Würfelgebäudes pl=Würfelgebäude note=graded
+Würfelnetz noun g=n gen=Würfelnetzes pl=Würfelnetze note=graded
 Wurm noun g=m gen=Wurms|Wurmes pl=Würmer
 Wurst noun g=f gen=Wurst pl=Würste
 Würstchen noun g=n gen=Würstchens pl=Würstchen

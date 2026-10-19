@@ -162,6 +162,7 @@ advantage noun
 advent noun
 adventure noun
 adventurer noun
+adverb noun note=graded
 adversary noun
 adversity noun
 advert noun region=GB note=advertisement
@@ -435,6 +436,7 @@ API noun abbr note=application programming interface
 apocalypse noun
 apology noun
 apostle noun
+apostrophe noun note=graded
 apothecary noun
 app noun
 apparatus noun pl=apparatus|apparatuses

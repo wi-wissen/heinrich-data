@@ -22,6 +22,7 @@ weighty adj cmp=er
 weird adj cmp=er adv=weirdly
 welcome adj
 well adj pred_only cmp=better sup=best conf=90 note=in good health; the adverb well comes from good adv=well
+well-paid adj note=graded; compared as better-paid, best-paid (generator gap: a superlative must end in -st, so not written)
 Welsh adj note=demonym or religious name, capitalized
 Wesleyan adj
 west adj attr_only

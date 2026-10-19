@@ -48,6 +48,7 @@ kilobyte noun
 kilogram noun
 kilometer      noun gb=kilometre
 kilowatt noun
+kilt noun note=graded
 kin            noun pl=- note=collective
 kinase noun
 kind           noun

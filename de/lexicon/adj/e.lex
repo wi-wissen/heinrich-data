@@ -6,6 +6,7 @@ edel adj cmp=edler sup=edelsten
 effektiv adj cmp=effektiver sup=effektivsten
 effizient adj cmp=effizienter sup=effizientesten
 egal adj indecl note=only predicative
+egoistisch adj cmp=egoistischer sup=egoistischsten note=graded
 ehemalig adj
 ehrenamtlich adj
 ehrerbietig adj cmp=ehrerbietiger sup=ehrerbietigsten

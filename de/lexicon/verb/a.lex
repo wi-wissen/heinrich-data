@@ -555,6 +555,7 @@ aufzeigen verb class=weak sep=auf pp=aufgezeigt perf=haben
 aufziehen verb class=strong sep=auf 3sg=aufzieht past=aufzog pp=aufgezogen subj2=aufzöge perf=haben|sein
 aufzwingen verb class=strong sep=auf 3sg=aufzwingt past=aufzwang subj2=aufzwänge pp=aufgezwungen perf=haben
 ausarbeiten verb class=weak sep=aus pp=ausgearbeitet perf=haben
+ausatmen verb class=weak sep=aus pp=ausgeatmet perf=haben note=graded
 ausbauen verb class=weak sep=aus pp=ausgebaut perf=haben
 ausbessern verb class=weak sep=aus pp=ausgebessert perf=haben
 ausbeuten verb class=weak sep=aus pp=ausgebeutet perf=haben

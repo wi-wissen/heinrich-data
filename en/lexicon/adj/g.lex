@@ -67,8 +67,10 @@ glycidic adj conf=90 note=chemistry (glycidic ester)
 gnarled adj
 godlike adj
 godly adj cmp=er|more
+gold adj note=graded; colour and material: a gold medal, gold paint
 golden         adj
 good           adj cmp=better sup=best adv=well
+good-looking adj note=graded; lexicalised compound; compared as better-looking, best-looking (generator gap: a superlative must end in -st, so not written)
 good-natured adj cmp=more adv=good-naturedly
 goodly adj cmp=er
 gooey adj

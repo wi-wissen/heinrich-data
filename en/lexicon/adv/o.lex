@@ -12,6 +12,7 @@ onward        adv
 onwards       adv
 outdoors adv
 outright      adv
+outside adv type=place note=graded; play outside
 outward       adv
 outwards adv type=place
 overall       adv

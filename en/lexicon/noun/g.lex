@@ -110,6 +110,7 @@ Georgian       noun
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
+gerund noun note=graded
 gestation noun
 gesture        noun
 ghetto noun pl=ghettos|ghettoes
@@ -143,6 +144,7 @@ glance         noun
 gland noun
 glare          noun
 glass          noun
+glasses noun pl_only note=graded; spectacles; also the plural of glass
 glassware noun pl=- note=uncountable
 glaucoma noun pl=- note=uncountable
 gleam          noun

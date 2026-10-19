@@ -25,6 +25,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überprüfung noun g=f gen=Überprüfung pl=Überprüfungen
 Überraschung noun g=f gen=Überraschung pl=Überraschungen
 Überrest noun g=m gen=Überrests|Überrestes pl=Überreste
+Überschlag noun g=m gen=Überschlags|Überschlages pl=Überschläge note=graded; estimate (math); also somersault
 Überschreitung noun g=f gen=Überschreitung pl=Überschreitungen
 Überschrift noun g=f gen=Überschrift pl=Überschriften
 Überschuldung noun g=f gen=Überschuldung pl=- note=no plural
@@ -36,6 +37,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Übersetzung noun g=f gen=Übersetzung pl=Übersetzungen
 Übersicht noun g=f gen=Übersicht pl=Übersichten
 Überstunde noun g=f gen=Überstunde pl=Überstunden
+Übertrag noun g=m gen=Übertrags|Übertrages pl=Überträge note=graded
 Übertragung noun g=f gen=Übertragung pl=Übertragungen
 Übertritt noun g=m gen=Übertritts|Übertrittes pl=Übertritte
 Überwachung noun g=f gen=Überwachung pl=Überwachungen[rare]
@@ -50,6 +52,7 @@ Uhr noun g=f gen=Uhr pl=Uhren
 Uhrmacher noun g=m gen=Uhrmachers pl=Uhrmacher
 Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
+Uhrzeit noun g=f gen=Uhrzeit pl=Uhrzeiten note=graded
 Uhu noun g=m gen=Uhus pl=Uhus
 Ulme noun g=f gen=Ulme pl=Ulmen
 Ultimatum noun g=n gen=Ultimatums pl=Ultimaten|Ultimatums conf=85 note=plural Ultimaten common, Ultimatums also used
@@ -68,12 +71,14 @@ Umgegend noun g=f gen=Umgegend pl=- note=no plural
 Umgehung noun g=f gen=Umgehung pl=Umgehungen
 Umgestaltung noun g=f gen=Umgestaltung pl=Umgestaltungen
 Umkehr noun g=f gen=Umkehr pl=- note=mass noun
+Umkehraufgabe noun g=f gen=Umkehraufgabe pl=Umkehraufgaben note=graded
 Umkleide noun g=f gen=Umkleide pl=Umkleiden
 Umkleidekabine noun g=f gen=Umkleidekabine pl=Umkleidekabinen
 Umkreis noun g=m gen=Umkreises pl=Umkreise
 Umlage noun g=f gen=Umlage pl=Umlagen
 Umland noun g=n gen=Umlands|Umlandes pl=- note=no plural
 Umlauf noun g=m gen=Umlaufs|Umlaufes pl=Umläufe
+Umlaufbahn noun g=f gen=Umlaufbahn pl=Umlaufbahnen note=graded
 Umlaut noun g=m gen=Umlauts|Umlautes pl=Umlaute
 Umleitung noun g=f gen=Umleitung pl=Umleitungen
 Ummeldung noun g=f gen=Ummeldung pl=Ummeldungen
@@ -83,6 +88,7 @@ Umschlag noun g=m gen=Umschlags|Umschlages pl=Umschläge
 Umschrift noun g=f gen=Umschrift pl=Umschriften
 Umsetzung noun g=f gen=Umsetzung pl=Umsetzungen
 Umstand noun g=m gen=Umstandes|Umstands pl=Umstände
+Umstellprobe noun g=f gen=Umstellprobe pl=Umstellproben note=graded
 Umstellung noun g=f gen=Umstellung pl=Umstellungen
 Umstrukturierung noun g=f gen=Umstrukturierung pl=Umstrukturierungen
 Umtausch noun g=m gen=Umtauschs|Umtausches pl=Umtausche
@@ -139,6 +145,7 @@ Untergebene noun g=m|f decl=adj
 Untergrund noun g=m gen=Untergrunds|Untergrundes pl=Untergründe
 Unterhalt noun g=m gen=Unterhalts|Unterhaltes pl=- note=maintenance, support
 Unterhaltung noun g=f gen=Unterhaltung pl=Unterhaltungen
+Unterhose noun g=f gen=Unterhose pl=Unterhosen note=graded
 Unterkunft noun g=f gen=Unterkunft pl=Unterkünfte
 Unterlage noun g=f gen=Unterlage pl=Unterlagen
 Unterlassung noun g=f gen=Unterlassung pl=Unterlassungen
@@ -180,6 +187,9 @@ Uran noun g=n gen=Urans pl=- note=chemical element
 Uraufführung noun g=f gen=Uraufführung pl=Uraufführungen
 Ureinwohner noun g=m gen=Ureinwohners pl=Ureinwohner
 Ureinwohnerin noun g=f gen=Ureinwohnerin pl=Ureinwohnerinnen
+Urgroßeltern noun g=pl note=graded
+Urgroßmutter noun g=f gen=Urgroßmutter pl=Urgroßmütter note=graded
+Urgroßvater noun g=m gen=Urgroßvaters pl=Urgroßväter note=graded
 Urheber noun g=m gen=Urhebers pl=Urheber
 Urheberin noun g=f gen=Urheberin pl=Urheberinnen
 Urin noun g=m gen=Urins pl=Urine
@@ -187,6 +197,7 @@ Urkunde noun g=f gen=Urkunde pl=Urkunden
 Urlaub noun g=m gen=Urlaubs|Urlaubes pl=Urlaube
 Urlauber noun g=m gen=Urlaubers pl=Urlauber
 Urlauberin noun g=f gen=Urlauberin pl=Urlauberinnen
+Urmensch noun g=m gen=Urmenschen pl=Urmenschen note=graded; weak masculine
 Urne noun g=f gen=Urne pl=Urnen
 Ursache noun g=f gen=Ursache pl=Ursachen
 Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge

@@ -71,8 +71,10 @@ Verdauung noun g=f gen=Verdauung pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
 Verdiener noun g=m gen=Verdieners pl=Verdiener
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
+Verdopplung noun g=f gen=Verdopplung pl=Verdopplungen note=graded
 Verdrängung noun g=f gen=Verdrängung pl=- note=no plural in practice
 Verdruss noun g=m gen=Verdrusses pl=- note=no plural
+Verdunstung noun g=f gen=Verdunstung pl=- note=graded; process noun, plural not used
 Veredelung noun g=f gen=Veredelung pl=Veredelungen
 Verehrer noun g=m gen=Verehrers pl=Verehrer
 Verehrerin noun g=f gen=Verehrerin pl=Verehrerinnen
@@ -110,6 +112,7 @@ Vergeltung noun g=f gen=Vergeltung pl=- note=no plural
 Vergessenheit noun g=f gen=Vergessenheit pl=- note=no plural
 Vergewaltigung noun g=f gen=Vergewaltigung pl=Vergewaltigungen
 Vergleich noun g=m gen=Vergleichs|Vergleiches[rare] pl=Vergleiche
+Vergleichsstufe noun g=f gen=Vergleichsstufe pl=Vergleichsstufen note=graded
 Vergleichung noun g=f gen=Vergleichung pl=Vergleichungen conf=85 note=rare variant of Vergleich
 Vergnügen noun g=n gen=Vergnügens pl=Vergnügen
 Vergnügung noun g=f gen=Vergnügung pl=Vergnügungen
@@ -121,6 +124,7 @@ Verhalten noun g=n gen=Verhaltens pl=- note=mass noun
 Verhaltensweise noun g=f gen=Verhaltensweise pl=Verhaltensweisen
 Verhältnis noun g=n gen=Verhältnisses pl=Verhältnisse
 Verhältnismäßigkeit noun g=f gen=Verhältnismäßigkeit pl=- note=no plural
+Verhältniswort noun g=n gen=Verhältniswortes|Verhältnisworts pl=Verhältniswörter note=graded; preposition (school term)
 Verhandlung noun g=f gen=Verhandlung pl=Verhandlungen
 Verheißung noun g=f gen=Verheißung pl=Verheißungen
 Verhängnis noun g=n gen=Verhängnisses pl=Verhängnisse
@@ -136,8 +140,12 @@ Verkäuferin noun g=f gen=Verkäuferin pl=Verkäuferinnen
 Verkehr noun g=m gen=Verkehrs|Verkehres[rare] pl=Verkehre[rare] note=mostly mass noun; plural Verkehre in technical use (traffic flows)
 Verkehrsberuhigung noun g=f gen=Verkehrsberuhigung pl=Verkehrsberuhigungen
 Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
+Verkehrsregel noun g=f gen=Verkehrsregel pl=Verkehrsregeln note=graded
+Verkehrsschild noun g=n gen=Verkehrsschildes|Verkehrsschilds pl=Verkehrsschilder note=graded
+Verkehrszeichen noun g=n gen=Verkehrszeichens pl=Verkehrszeichen note=graded
 Verklärung noun g=f gen=Verklärung pl=Verklärungen
 Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
+Verkleinerungsform noun g=f gen=Verkleinerungsform pl=Verkleinerungsformen note=graded
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkündigung noun g=f gen=Verkündigung pl=Verkündigungen
 Verkündung noun g=f gen=Verkündung pl=Verkündungen
@@ -225,6 +233,7 @@ Verschwiegenheit noun g=f gen=Verschwiegenheit pl=- note=mass noun
 Verschwörer noun g=m gen=Verschwörers pl=Verschwörer
 Verschwörerin noun g=f gen=Verschwörerin pl=Verschwörerinnen
 Verschwörung noun g=f gen=Verschwörung pl=Verschwörungen
+Versehen noun g=n gen=Versehens pl=Versehen note=graded; das Versehen (aus Versehen): lexicalised, not only the nominalized infinitive of versehen
 Versender noun g=m gen=Versenders pl=Versender
 Versetzung noun g=f gen=Versetzung pl=Versetzungen
 Versfuß noun g=m gen=Versfußes pl=Versfüße
@@ -257,6 +266,8 @@ Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
 Verstromung noun g=f gen=Verstromung pl=- note=mass noun
 Versuch noun g=m gen=Versuchs|Versuches[rare] pl=Versuche
+Versuchsaufbau noun g=m gen=Versuchsaufbaus|Versuchsaufbaues pl=Versuchsaufbauten note=graded
+Versuchsprotokoll noun g=n gen=Versuchsprotokolls pl=Versuchsprotokolle note=graded
 Versuchung noun g=f gen=Versuchung pl=Versuchungen
 Vertagung noun g=f gen=Vertagung pl=Vertagungen
 Verteidiger noun g=m gen=Verteidigers pl=Verteidiger
@@ -317,6 +328,7 @@ Vibration noun g=f gen=Vibration pl=Vibrationen
 Video noun g=n gen=Videos pl=Videos
 Videocall noun g=m gen=Videocalls pl=Videocalls
 Videokonferenz noun g=f gen=Videokonferenz pl=Videokonferenzen
+Videospiel noun g=n gen=Videospiels|Videospieles pl=Videospiele note=graded
 Vieh noun g=n gen=Viehs|Viehes pl=- note=no plural
 Viehzucht noun g=f gen=Viehzucht pl=- note=no plural
 Vielfache noun g=n decl=adj
@@ -326,6 +338,8 @@ Vielseitigkeit noun g=f gen=Vielseitigkeit pl=- note=mass noun
 Vielzahl noun g=f gen=Vielzahl pl=- note=collective noun
 Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
+Viertelnote noun g=f gen=Viertelnote pl=Viertelnoten note=graded
+Viertelstunde noun g=f gen=Viertelstunde pl=Viertelstunden note=graded
 Vierung noun g=f gen=Vierung pl=Vierungen
 Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Vikar noun g=m gen=Vikars pl=Vikare
@@ -360,6 +374,7 @@ Vokabeltest noun g=m gen=Vokabeltests|Vokabeltestes pl=Vokabeltests
 Vokabular noun g=n gen=Vokabulars pl=Vokabulare
 Vokal noun g=m gen=Vokals pl=Vokale
 Volk noun g=n gen=Volkes|Volks pl=Völker
+Völkerball noun g=m gen=Völkerballs pl=- note=graded; game name, no plural
 Völkermord noun g=m gen=Völkermords|Völkermordes pl=Völkermorde
 Volksentscheid noun g=m gen=Volksentscheids|Volksentscheides pl=Volksentscheide
 Volkskundler noun g=m gen=Volkskundlers pl=Volkskundler
@@ -369,7 +384,9 @@ Volleyball noun g=m gen=Volleyballs pl=Volleybälle
 Volljährige noun g=m|f decl=adj
 Volljährigkeit noun g=f gen=Volljährigkeit pl=- note=mass noun
 Vollkommenheit noun g=f gen=Vollkommenheit pl=- note=no plural
+Vollkorn noun g=n gen=Vollkorns|Vollkornes pl=- note=graded; mass noun, mostly in compounds (Vollkornbrot)
 Vollmacht noun g=f gen=Vollmacht pl=Vollmachten
+Vollmond noun g=m gen=Vollmondes|Vollmonds pl=Vollmonde note=graded
 Vollständigkeit noun g=f gen=Vollständigkeit pl=- note=no plural
 Vollstrecker noun g=m gen=Vollstreckers pl=Vollstrecker
 Vollstreckung noun g=f gen=Vollstreckung pl=Vollstreckungen
@@ -397,6 +414,7 @@ Vorgabe noun g=f gen=Vorgabe pl=Vorgaben
 Vorgang noun g=m gen=Vorgangs|Vorganges pl=Vorgänge
 Vorgänger noun g=m gen=Vorgängers pl=Vorgänger
 Vorgängerin noun g=f gen=Vorgängerin pl=Vorgängerinnen
+Vorgangsbeschreibung noun g=f gen=Vorgangsbeschreibung pl=Vorgangsbeschreibungen note=graded
 Vorgehen noun g=n gen=Vorgehens pl=- note=lexicalised nominal infinitive: procedure
 Vorgehensweise noun g=f gen=Vorgehensweise pl=Vorgehensweisen
 Vorgeschichte noun g=f gen=Vorgeschichte pl=Vorgeschichten
@@ -451,6 +469,7 @@ Vortheil noun g=m gen=Vortheils|Vortheiles pl=Vortheile spelling=old note=old sp
 Vortrag noun g=m gen=Vortrags|Vortrages pl=Vorträge
 Vorurteil noun g=n gen=Vorurteils|Vorurteiles pl=Vorurteile
 Vorwand noun g=m gen=Vorwands|Vorwandes pl=Vorwände
+Vorwärtsrolle noun g=f gen=Vorwärtsrolle pl=Vorwärtsrollen note=graded
 Vorwerk noun g=n gen=Vorwerks|Vorwerkes pl=Vorwerke
 Vorwort noun g=n gen=Vorworts|Vorwortes pl=Vorworte
 Vorwurf noun g=m gen=Vorwurfs|Vorwurfes pl=Vorwürfe

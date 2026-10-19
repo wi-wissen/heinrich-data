@@ -61,6 +61,7 @@ Brünn propn g=n gen=Brünns pl=- note=proper name; no plural
 Brüssel       propn g=n gen=Brüssels pl=- note=proper name; no plural
 Buchenwald propn g=m gen=Buchenwalds pl=- note=proper name; no plural
 Budapest propn g=n gen=Budapests pl=- note=proper name; no plural
+Buddha propn g=m gen=Buddhas pl=Buddhas note=graded; founder of Buddhism; plural for statues or enlightened ones
 Bukarest propn g=n gen=Bukarests pl=- note=proper name; no plural
 Bulgarien propn g=n gen=Bulgariens pl=- note=proper name; no plural
 Bundesliga    propn g=f gen=Bundesliga pl=- note=proper name; no plural

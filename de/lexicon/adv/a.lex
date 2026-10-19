@@ -22,3 +22,4 @@ apropos adv
 aufwärts adv
 ausnahmsweise adv
 auswärts adv
+auswendig adv type=manner note=graded; by heart

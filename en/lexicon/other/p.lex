@@ -1,5 +1,6 @@
 p.a. x abbr note=per annum
 p.m. x abbr note=post meridiem, after noon
+pardon intj note=graded; asking for repetition: Pardon?
 parte x foreign note=only in ex parte
 pas x foreign note=only in faux pas, pas de deux
 Pax x foreign note=Latin "peace": Pax Romana, Pax Americana

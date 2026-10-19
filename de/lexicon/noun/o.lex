@@ -21,6 +21,7 @@ Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Obrist noun g=m gen=Obristen pl=Obristen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
+Obstplantage noun g=f gen=Obstplantage pl=Obstplantagen note=graded
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
 Odem noun g=m gen=Odems pl=- style=archaic note=poetic: breath
@@ -36,6 +37,7 @@ Offizier noun g=m gen=Offiziers pl=Offiziere
 Offizierin noun g=f gen=Offizierin pl=Offizierinnen
 Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
+Öffnungszeit noun g=f gen=Öffnungszeit pl=Öffnungszeiten note=graded
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
 OHG noun g=f gen=OHG pl=OHGs note=offene Handelsgesellschaft
 Ohm noun g=n gen=Ohm|Ohms pl=Ohm sense=unit note=physical unit
@@ -72,6 +74,7 @@ Operation noun g=f gen=Operation pl=Operationen
 Operator noun g=m gen=Operators pl=Operatoren
 Operette noun g=f gen=Operette pl=Operetten
 Opfer noun g=n gen=Opfers pl=Opfer
+Opferfest noun g=n gen=Opferfestes|Opferfests pl=Opferfeste note=graded
 Opi noun g=m gen=Opis pl=Opis
 Opium noun g=n gen=Opiums pl=- note=mass noun
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
@@ -106,6 +109,7 @@ Orgel noun g=f gen=Orgel pl=Orgeln
 Orient noun g=m gen=Orients pl=- note=the Orient
 Orientalist noun g=m gen=Orientalisten pl=Orientalisten
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
+Origami noun g=n gen=Origami|Origamis pl=- conf=85 note=graded; paper folding, mass noun; genitive rare
 Original noun g=n gen=Originals pl=Originale
 Originalität noun g=f gen=Originalität pl=- note=mass noun
 Orkan noun g=m gen=Orkans pl=Orkane
@@ -116,6 +120,7 @@ Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
 Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
+Ortsgeschichte noun g=f gen=Ortsgeschichte pl=Ortsgeschichten note=graded
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen

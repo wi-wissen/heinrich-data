@@ -120,6 +120,9 @@ same spelling are different parts of speech and need no sense (`practice noun` /
   is not a word, the plural is not on the last part (`passers-by`), or it is lexicalised
   (`check-in`).
 - Open compounds (`ice cream`): no entry; make sure the parts exist.
+- The graded vocabulary layer (`en/graded/`) can only grade lexemes, so open compounds are not
+  graded (known limitation, `Heinrich/docs/GRADED_VOCAB.md`); closed compounds it needs
+  (`classroom`, `homework`) are ordinary entries anyway.
 
 ### 4.5 Proper names
 

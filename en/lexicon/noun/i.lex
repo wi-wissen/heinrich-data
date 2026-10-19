@@ -187,6 +187,7 @@ infidelity noun
 infield noun
 infielder noun
 infiltration noun
+infinitive noun note=graded
 infinity noun
 infirmary noun
 infirmity noun
@@ -197,6 +198,7 @@ inflection noun gb=inflection|inflexion
 infliction noun
 inflow noun
 influence      noun
+influencer noun note=graded
 influenza      noun pl=- note=uncountable
 influx         noun
 info noun pl=- style=colloquial note=information

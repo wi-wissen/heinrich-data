@@ -51,6 +51,7 @@ camp noun
 campaign noun
 campaigner noun
 camper noun
+campfire noun note=graded
 campground noun
 camping noun pl=- note=uncountable
 campsite noun
@@ -1002,6 +1003,7 @@ cornerback noun
 cornerstone noun
 cornet noun
 cornfield noun
+cornflakes noun pl_only conf=90 note=graded; breakfast cereal; a singular cornflake is rare
 cornice noun
 Cornish noun pl=- note=the language
 corolla noun
@@ -1279,6 +1281,7 @@ custody noun pl=- note=uncountable
 custom noun
 customer noun
 customization noun gb=customisation|customization
+customs noun pl_only note=graded; border control; also the plural of custom
 cut noun
 cutback noun
 cutoff noun

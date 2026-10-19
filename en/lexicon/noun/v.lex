@@ -172,6 +172,7 @@ vivacity noun pl=- note=uncountable
 vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
+vlogger noun note=graded
 vocabulary    noun
 vocal         noun
 vocalist      noun

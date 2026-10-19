@@ -29,16 +29,19 @@ Häkelnadel noun g=f gen=Häkelnadel pl=Häkelnadeln
 Haken noun g=m gen=Hakens pl=Haken
 Halbinsel noun g=f gen=Halbinsel pl=Halbinseln
 Halbjahr noun g=n gen=Halbjahrs|Halbjahres pl=Halbjahre
+Halbmond noun g=m gen=Halbmondes|Halbmonds pl=Halbmonde note=graded
 Halbzeit noun g=f gen=Halbzeit pl=Halbzeiten
 Halde noun g=f gen=Halde pl=Halden
 Halfpipe noun g=f gen=Halfpipe pl=Halfpipes
 Hälfte noun g=f gen=Hälfte pl=Hälften
 Halle noun g=f gen=Halle pl=Hallen sense=building
+Hallenbad noun g=n gen=Hallenbades|Hallenbads pl=Hallenbäder note=graded
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
 Halm noun g=m gen=Halmes|Halms pl=Halme
 Hals noun g=m gen=Halses pl=Hälse
 Halt noun g=m gen=Halts|Haltes pl=- note=hold, stop; plural not used
 Halter noun g=m gen=Halters pl=Halter
+Haltestelle noun g=f gen=Haltestelle pl=Haltestellen note=graded
 Haltung noun g=f gen=Haltung pl=Haltungen
 Hamburger noun g=m gen=Hamburgers pl=Hamburger note=inhabitant of Hamburg; also the food
 Hammer noun g=m gen=Hammers pl=Hämmer
@@ -51,12 +54,17 @@ Handeln noun g=n gen=Handelns pl=- note=nominalised infinitive (das Handeln), le
 Handelskammer noun g=f gen=Handelskammer pl=Handelskammern
 Handelsregister noun g=n gen=Handelsregisters pl=Handelsregister
 Handfeger noun g=m gen=Handfegers pl=Handfeger
+Handgelenk noun g=n gen=Handgelenks|Handgelenkes pl=Handgelenke note=graded
 Handhabung noun g=f gen=Handhabung pl=- note=no plural in practice
 Händler noun g=m gen=Händlers pl=Händler
 Händlerin noun g=f gen=Händlerin pl=Händlerinnen
 Handlung noun g=f gen=Handlung pl=Handlungen
 Handout noun g=n gen=Handouts pl=Handouts
+Handpuppe noun g=f gen=Handpuppe pl=Handpuppen note=graded
 Handschellen noun g=pl
+Handschuh noun g=m gen=Handschuhs|Handschuhes pl=Handschuhe note=graded
+Handstand noun g=m gen=Handstandes|Handstands pl=Handstände note=graded
+Handtuch noun g=n gen=Handtuches|Handtuchs pl=Handtücher note=graded
 Handvoll noun g=f gen=Handvoll pl=- note=eine Handvoll Leute; plural not used
 Handwerk noun g=n gen=Handwerks|Handwerkes pl=Handwerke
 Handwerker noun g=m gen=Handwerkers pl=Handwerker
@@ -105,6 +113,8 @@ Hauptperson noun g=f gen=Hauptperson pl=Hauptpersonen
 Hauptrolle noun g=f gen=Hauptrolle pl=Hauptrollen
 Hauptschule noun g=f gen=Hauptschule pl=Hauptschulen
 Hauptstadt noun g=f gen=Hauptstadt pl=Hauptstädte
+Hauptteil noun g=m gen=Hauptteils|Hauptteiles pl=Hauptteile note=graded
+Hauptwort noun g=n gen=Hauptwortes|Hauptworts[rare] pl=Hauptwörter note=graded
 Haus         noun g=n sg=Haus,Hauses,Haus|Hause,Haus pl=Häuser note=dative Hause is standard in zu/nach Hause
 Hausaufgabe noun g=f gen=Hausaufgabe pl=Hausaufgaben
 Häuschen noun g=n gen=Häuschens pl=Häuschen
@@ -114,6 +124,8 @@ Haushälterin noun g=f gen=Haushälterin pl=Haushälterinnen
 Häuslebauer noun g=m gen=Häuslebauers pl=Häuslebauer
 Hausmeister noun g=m gen=Hausmeisters pl=Hausmeister
 Hausmeisterin noun g=f gen=Hausmeisterin pl=Hausmeisterinnen
+Hausnummer noun g=f gen=Hausnummer pl=Hausnummern note=graded
+Haustier noun g=n gen=Haustieres|Haustiers pl=Haustiere note=graded
 Hauswart noun g=m gen=Hauswarts|Hauswartes pl=Hauswarte
 Hauswirtschaft noun g=f gen=Hauswirtschaft pl=- note=no plural
 Haut noun g=f gen=Haut pl=Häute
@@ -147,6 +159,7 @@ Heilung noun g=f gen=Heilung pl=Heilungen
 Heim noun g=n gen=Heims|Heimes pl=Heime
 Heimat noun g=f gen=Heimat pl=- note=Heimaten is very rare
 Heimath noun g=f gen=Heimath pl=- spelling=old note=old spelling of Heimat
+Heimatmuseum noun g=n gen=Heimatmuseums pl=Heimatmuseen note=graded
 Heimkehr noun g=f gen=Heimkehr pl=- note=no plural
 Heimreise noun g=f gen=Heimreise pl=Heimreisen
 Heimweh noun g=n gen=Heimwehs pl=- note=mass noun
@@ -223,6 +236,7 @@ Hieroglyphe noun g=f gen=Hieroglyphe pl=Hieroglyphen
 Highscore noun g=m gen=Highscores pl=Highscores
 Hilfe noun g=f gen=Hilfe pl=Hilfen
 Hilfeleistung noun g=f gen=Hilfeleistung pl=Hilfeleistungen
+Hilfestellung noun g=f gen=Hilfestellung pl=Hilfestellungen note=graded
 Hilfsbereitschaft noun g=f gen=Hilfsbereitschaft pl=- note=no plural
 Hilfsmittel noun g=n gen=Hilfsmittels pl=Hilfsmittel
 Himbeere noun g=f gen=Himbeere pl=Himbeeren
@@ -256,10 +270,13 @@ Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]
 Hoch noun g=n gen=Hochs pl=Hochs note=weather high; cheer
 Hochbeet noun g=n gen=Hochbeets pl=Hochbeete
+Hochgebirge noun g=n gen=Hochgebirges pl=Hochgebirge note=graded
+Hochhaus noun g=n gen=Hochhauses pl=Hochhäuser note=graded
 Hochrechnung noun g=f gen=Hochrechnung pl=Hochrechnungen
 Hochschule noun g=f gen=Hochschule pl=Hochschulen
 Hochschulreife noun g=f gen=Hochschulreife pl=- note=no plural
 Hochsprache noun g=f gen=Hochsprache pl=Hochsprachen
+Hochsprung noun g=m gen=Hochsprungs|Hochsprunges pl=Hochsprünge note=graded
 Höchstgeschwindigkeit noun g=f gen=Höchstgeschwindigkeit pl=Höchstgeschwindigkeiten
 Hochstift noun g=n gen=Hochstifts|Hochstiftes pl=Hochstifte
 Höchststufe noun g=f gen=Höchststufe pl=Höchststufen
@@ -278,6 +295,8 @@ Höhe noun g=f gen=Höhe pl=Höhen
 Hoheit noun g=f gen=Hoheit pl=Hoheiten
 Höhepunkt noun g=m gen=Höhepunkts|Höhepunktes pl=Höhepunkte
 Höhle noun g=f gen=Höhle pl=Höhlen
+Höhlenmalerei noun g=f gen=Höhlenmalerei pl=Höhlenmalereien note=graded
+Hohlmaß noun g=n gen=Hohlmaßes pl=Hohlmaße note=graded
 Höhlung noun g=f gen=Höhlung pl=Höhlungen
 Hohn noun g=m gen=Hohns|Hohnes pl=- note=no plural
 Holding noun g=f gen=Holding pl=Holdings
@@ -310,6 +329,8 @@ Horizont noun g=m gen=Horizonts|Horizontes pl=Horizonte
 Horn noun g=n gen=Horns|Hornes pl=Hörner
 Hornisse noun g=f gen=Hornisse pl=Hornissen
 Horror noun g=m gen=Horrors pl=- note=mass noun
+Hörsinn noun g=m gen=Hörsinnes|Hörsinns pl=Hörsinne note=graded
+Hörspiel noun g=n gen=Hörspiels|Hörspieles pl=Hörspiele note=graded
 Horst noun g=m gen=Horsts|Horstes pl=Horste note=eyrie; also a first name
 Hort noun g=m gen=Hortes|Horts pl=Horte
 Hose noun g=f gen=Hose pl=Hosen
@@ -344,12 +365,17 @@ Hummel noun g=f gen=Hummel pl=Hummeln
 Hummer noun g=m gen=Hummers pl=Hummer
 Hummus noun g=m gen=Hummus pl=- note=no plural
 Humor noun g=m gen=Humors pl=- note=mass noun
+Humus noun g=m gen=Humus pl=- note=graded; mass noun; genitive without ending
 Hund noun g=m gen=Hundes|Hunds pl=Hunde
 Hündchen noun g=n gen=Hündchens pl=Hündchen
 Hundekot noun g=m gen=Hundekots|Hundekotes pl=- note=mass noun
 Hundert noun g=n gen=Hunderts pl=Hunderte note=das Hundert; Hunderte von Menschen
 Hunderter noun g=m gen=Hunderters pl=Hunderter
+Hunderterfeld noun g=n gen=Hunderterfeldes|Hunderterfelds[rare] pl=Hunderterfelder note=graded
+Hunderterplatte noun g=f gen=Hunderterplatte pl=Hunderterplatten note=graded
+Hundertertafel noun g=f gen=Hundertertafel pl=Hundertertafeln note=graded
 Hundertstel noun g=n gen=Hundertstels pl=Hundertstel
+Hunderttausender noun g=m gen=Hunderttausenders pl=Hunderttausender note=graded
 Hündin noun g=f gen=Hündin pl=Hündinnen
 Hunger noun g=m gen=Hungers pl=- note=mass noun
 Hungersnot noun g=f gen=Hungersnot pl=Hungersnöte

@@ -279,6 +279,7 @@ conversational adj adv=conversationally
 converse adj adv=conversely
 convertible adj
 convex adj
+convinced adj cmp=more note=graded
 convincing adj cmp=more adv=convincingly
 convulsive adj adv=convulsively
 cool adj cmp=er adv=coolly

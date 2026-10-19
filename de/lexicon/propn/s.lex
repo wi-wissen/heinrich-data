@@ -18,6 +18,7 @@ Schleswig-Holstein propn g=n gen=Schleswig-Holsteins pl=- note=federal state
 Schmalkalden propn g=n gen=Schmalkaldens pl=- note=proper name; no plural
 Schottland propn g=n gen=Schottlands pl=- note=proper name, no plural
 Schwaben propn g=n gen=Schwabens pl=- note=region; proper name, no plural
+Schwarzwald propn g=m gen=Schwarzwaldes|Schwarzwalds pl=- demonym=Schwarzwälder note=graded; mountain range (der Schwarzwald)
 Schweden propn g=n gen=Schwedens pl=- note=proper name, no plural
 Schweinfurt propn g=n gen=Schweinfurts pl=- note=city
 Schweiz propn g=f gen=Schweiz pl=- demonym=Schweizer note=proper name, no plural
@@ -65,6 +66,7 @@ Süditalien propn g=n gen=Süditaliens pl=- note=region
 Südkorea propn g=n gen=Südkoreas pl=- note=proper name, no plural
 Südostasien propn g=n gen=Südostasiens pl=- note=proper name; no plural
 Südosteuropa propn g=n gen=Südosteuropas pl=- note=region; no plural
+Südpol propn g=m gen=Südpols pl=- sense=geo note=graded; the geographic South Pole (der Südpol)
 Südsudan propn g=m gen=Südsudan|Südsudans pl=- note=country; der Südsudan
 Südtirol propn g=n gen=Südtirols pl=- note=region
 Sumatra propn g=n gen=Sumatras pl=- note=island

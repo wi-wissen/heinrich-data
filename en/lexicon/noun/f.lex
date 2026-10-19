@@ -248,6 +248,7 @@ flapjack noun
 flare noun
 flash          noun
 flashback noun
+flashlight noun region=US note=graded; British torch
 flask noun
 flat           noun
 flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)

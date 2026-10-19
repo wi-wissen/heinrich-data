@@ -11,6 +11,8 @@ Ghana propn g=n gen=Ghanas pl=- note=country
 Gießen propn g=n gen=Gießens pl=- note=city in Hesse
 Glasgow propn g=n gen=Glasgows pl=- note=proper name; no plural
 Glatz propn g=n gen=Glatz pl=- note=place name (Kłodzko); bare genitive on an s-sound
+Goliat propn g=m gen=Goliats pl=- note=graded; biblical figure; current Bible spelling, see Goliath
+Goliath propn g=m gen=Goliaths pl=- note=graded; traditional spelling of Goliat, more frequent in our counts
 Google propn g=n gen=Googles|Google pl=- conf=70 note=company; gender unsure
 Görlitz propn g=n gen=Görlitz pl=- note=city in Saxony; bare genitive after s-sound
 Görz propn g=n gen=Görz pl=- note=proper name; German name of Gorizia; bare genitive (sibilant)

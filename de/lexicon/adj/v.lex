@@ -31,6 +31,7 @@ verfassungsrechtlich adj
 verfassungswidrig adj
 verfeindet adj
 verfügbar adj
+vergangen adj note=graded; past, previous (die vergangene Woche); lexicalised participle of vergehen; not compared
 vergänglich adj
 vergeblich adj
 vergesslich adj cmp=vergesslicher sup=vergesslichsten
@@ -39,6 +40,7 @@ vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verhängnisvoll adj cmp=verhängnisvoller sup=verhängnisvollsten
 verheerend adj cmp=verheerender sup=verheerendsten
+verheiratet adj note=graded; marital status adjective (lexicalised participle of verheiraten, like ledig, geschieden); not compared
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verklärt adj
 verklebt adj cmp=verklebter sup=verklebtesten

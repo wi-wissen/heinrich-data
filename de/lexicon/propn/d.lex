@@ -5,6 +5,7 @@ Dänemark      propn g=n gen=Dänemarks pl=- note=proper name; no plural
 Danzig propn g=n gen=Danzigs pl=- note=proper name; no plural
 Darfur propn g=n gen=Darfurs pl=- note=region; no plural
 Darmstadt propn g=n gen=Darmstadts pl=- note=proper name; no plural
+David propn g=m gen=Davids pl=- note=graded; biblical figure (religion subject term)
 Davos propn g=n gen=Davos pl=- note=Swiss town; no plural
 DB propn g=f gen=DB pl=- note=Deutsche Bahn
 DDR           propn g=f gen=DDR pl=- note=proper name; no plural

@@ -27,6 +27,7 @@ harsh          adj cmp=er adv=harshly
 hasty          adj cmp=er adv=hastily
 hateful adj cmp=more adv=hatefully
 haughty        adj cmp=er adv=haughtily
+haunted adj note=graded
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er

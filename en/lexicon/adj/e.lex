@@ -10,9 +10,11 @@ easterly adj
 eastern adj
 easternmost adj
 easy adj cmp=er adv=easily
+easygoing adj cmp=more note=graded; the hyphenated easy-going is at least as common and is accepted as a compound
 eccentric adj
 ecclesiastical adj
 eclectic adj cmp=more adv=eclectically
+eco-friendly adj cmp=more note=graded; eco is not a word of its own
 ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
@@ -53,6 +55,7 @@ eloquent adj adv=eloquently
 elusive adj cmp=more
 emaciated adj
 embarrassed adj cmp=more
+embarrassing adj cmp=more adv=embarrassingly note=graded
 emblematic adj
 embryonic adj
 emergent adj
@@ -64,6 +67,7 @@ empirical adj adv=empirically
 employable adj cmp=more
 empty adj cmp=er
 enamored adj gb=enamoured
+endangered adj cmp=more note=graded; the most endangered species
 endemic adj
 endless adj adv=endlessly
 endocrine adj
@@ -147,6 +151,7 @@ exemplary adj
 exempt adj
 exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
+exhausted adj cmp=more note=graded
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
 exogamous adj
