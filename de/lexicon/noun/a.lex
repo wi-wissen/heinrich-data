@@ -105,6 +105,7 @@ Abteilung     noun g=f gen=Abteilung pl=Abteilungen
 Abtreibung noun g=f gen=Abtreibung pl=Abtreibungen
 Abtretung noun g=f gen=Abtretung pl=Abtretungen
 Abwägung noun g=f gen=Abwägung pl=Abwägungen
+Abwandlung noun g=f gen=Abwandlung pl=Abwandlungen
 Abwasch noun g=m gen=Abwaschs|Abwasches pl=- note=mass noun
 Abwasser noun g=n gen=Abwassers pl=Abwässer
 Abwechslung noun g=f gen=Abwechslung pl=Abwechslungen
@@ -346,6 +347,7 @@ Anhieb noun g=m gen=Anhieb|Anhiebs pl=- note=only in auf Anhieb
 Anhöhe noun g=f gen=Anhöhe pl=Anhöhen
 Anhörung      noun g=f gen=Anhörung pl=Anhörungen
 Animation noun g=f gen=Animation pl=Animationen
+Anion noun g=n gen=Anions pl=Anionen
 Anker noun g=m gen=Ankers pl=Anker
 Anklage noun g=f gen=Anklage pl=Anklagen
 Ankündigung noun g=f gen=Ankündigung pl=Ankündigungen
@@ -571,6 +573,7 @@ Atmung noun g=f gen=Atmung pl=- note=no plural
 Atom noun g=n gen=Atoms pl=Atome
 Atomkraft noun g=f gen=Atomkraft pl=- note=no plural
 Atommüll noun g=m gen=Atommülls pl=- note=no plural
+Atrium noun g=n gen=Atriums pl=Atrien
 Attacke noun g=f gen=Attacke pl=Attacken
 Attentat noun g=n gen=Attentats|Attentates pl=Attentate
 Attentäter noun g=m gen=Attentäters pl=Attentäter
@@ -601,6 +604,7 @@ Aufforstung noun g=f gen=Aufforstung pl=Aufforstungen
 Aufführung noun g=f gen=Aufführung pl=Aufführungen
 Aufgabe       noun g=f gen=Aufgabe pl=Aufgaben
 Aufgebot noun g=n gen=Aufgebots|Aufgebotes pl=Aufgebote
+Aufguss noun g=m gen=Aufgusses pl=Aufgüsse
 Aufhebung     noun g=f gen=Aufhebung pl=Aufhebungen
 Aufklärer noun g=m gen=Aufklärers pl=Aufklärer
 Aufklärung    noun g=f gen=Aufklärung pl=Aufklärungen[rare]
@@ -704,6 +708,7 @@ Ausnahmefall noun g=m gen=Ausnahmefalls|Ausnahmefalles pl=Ausnahmefälle
 Ausprägung noun g=f gen=Ausprägung pl=Ausprägungen
 Ausreise noun g=f gen=Ausreise pl=Ausreisen
 Ausrichtung noun g=f gen=Ausrichtung pl=Ausrichtungen
+Ausrüster noun g=m gen=Ausrüsters pl=Ausrüster
 Ausrüstung noun g=f gen=Ausrüstung pl=Ausrüstungen
 Aussage       noun g=f gen=Aussage pl=Aussagen
 Ausscheiden noun g=n gen=Ausscheidens pl=- note=lexicalised nominal infinitive: leaving office, elimination

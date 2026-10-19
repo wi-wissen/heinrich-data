@@ -210,6 +210,7 @@ spuken verb class=weak pp=gespukt perf=haben
 spülen verb class=weak pp=gespült perf=haben
 spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben
+staffeln verb class=weak pp=gestaffelt perf=haben
 stalken verb class=weak pp=gestalkt perf=haben
 stammeln verb class=weak pp=gestammelt perf=haben
 stammen verb class=weak pp=gestammt perf=haben
@@ -281,6 +282,7 @@ subventionieren verb class=weak pp=subventioniert perf=haben
 suchen verb class=weak pp=gesucht perf=haben
 suggerieren verb class=weak pp=suggeriert perf=haben
 summen verb class=weak pp=gesummt perf=haben
+sündigen verb class=weak pp=gesündigt perf=haben
 surfen verb class=weak pp=gesurft perf=haben|sein
 surren verb class=weak pp=gesurrt perf=haben
 süßen verb class=weak pp=gesüßt perf=haben

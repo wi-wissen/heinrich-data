@@ -107,6 +107,7 @@ Wein noun g=m gen=Weines|Weins pl=Weine
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Weisheit noun g=f gen=Weisheit pl=Weisheiten
 Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
+Weissagung noun g=f gen=Weissagung pl=Weissagungen
 Weisung noun g=f gen=Weisung pl=Weisungen
 Weite noun g=f gen=Weite pl=Weiten
 Weiterbildung noun g=f gen=Weiterbildung pl=Weiterbildungen[rare]

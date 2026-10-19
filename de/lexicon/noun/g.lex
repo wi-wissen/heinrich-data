@@ -96,6 +96,7 @@ Gefängnis noun g=n gen=Gefängnisses pl=Gefängnisse
 Gefäß noun g=n gen=Gefäßes pl=Gefäße
 Gefecht noun g=n gen=Gefechts|Gefechtes pl=Gefechte
 Gefieder noun g=n gen=Gefieders pl=Gefieder
+Geflecht noun g=n gen=Geflechts|Geflechtes pl=Geflechte
 Geflüchtete noun g=m|f decl=adj
 Geflügel noun g=n gen=Geflügels pl=- note=no plural
 Gefolge noun g=n gen=Gefolges pl=Gefolge
@@ -162,6 +163,7 @@ Gelehrte noun g=m|f decl=adj note=scholar
 Geleit noun g=n gen=Geleits|Geleites pl=Geleite
 Gelenk noun g=n gen=Gelenks|Gelenkes pl=Gelenke
 Geliebte noun g=m|f decl=adj note=lover, sweetheart
+Gelöbnis noun g=n gen=Gelöbnisses pl=Gelöbnisse
 Gelse noun g=f gen=Gelse pl=Gelsen region=AT
 Geltendmachung noun g=f gen=Geltendmachung pl=- note=nominalisation (die Geltendmachung von Ansprüchen)
 Geltung noun g=f gen=Geltung pl=- note=no plural in use
@@ -192,6 +194,7 @@ Gender noun g=n gen=Genders pl=- conf=75 note=loanword, mostly in compounds (Gen
 Genehmigung noun g=f gen=Genehmigung pl=Genehmigungen
 General noun g=m gen=Generals|Generales[rare] pl=Generale|Generäle
 Generaldirektion noun g=f gen=Generaldirektion pl=Generaldirektionen
+Generalin noun g=f gen=Generalin pl=Generalinnen
 Generation noun g=f gen=Generation pl=Generationen
 Generator noun g=m gen=Generators pl=Generatoren
 Genesung noun g=f gen=Genesung pl=- note=no plural in practice

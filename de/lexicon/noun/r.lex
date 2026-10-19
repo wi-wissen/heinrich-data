@@ -24,6 +24,8 @@ Rahmen noun g=m gen=Rahmens pl=Rahmen
 Rahmenhandlung noun g=f gen=Rahmenhandlung pl=Rahmenhandlungen
 Rajon noun g=m gen=Rajons pl=Rajone conf=85 note=Russian/Ukrainian administrative district
 Rakete noun g=f gen=Rakete pl=Raketen
+Rally noun g=f gen=Rally pl=Rallys conf=80 note=variant spelling of Rallye
+Rallye noun g=f gen=Rallye pl=Rallyes
 Ramadan noun g=m gen=Ramadans pl=- note=no plural
 Rampe noun g=f gen=Rampe pl=Rampen
 Rampenlicht noun g=n gen=Rampenlichts|Rampenlichtes pl=Rampenlichter
@@ -176,6 +178,7 @@ Reinlichkeit noun g=f gen=Reinlichkeit pl=- note=mass noun
 Reis noun g=m gen=Reises pl=- note=rice; mass noun
 Reise noun g=f gen=Reise pl=Reisen
 Reisende noun g=m|f decl=adj note=der/die Reisende
+Reisig noun g=n gen=Reisigs pl=- note=mass noun, no plural
 Reißverschluss noun g=m gen=Reißverschlusses pl=Reißverschlüsse
 Reißzwecke noun g=f gen=Reißzwecke pl=Reißzwecken note=the analyser would take Zweck as head
 Reiter noun g=m gen=Reiters pl=Reiter
@@ -271,8 +274,10 @@ Rezept noun g=n gen=Rezepts|Rezeptes pl=Rezepte
 Rezeption noun g=f gen=Rezeption pl=Rezeptionen
 Rezeptionist noun g=m gen=Rezeptionisten pl=Rezeptionisten
 Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
+Rezeptor noun g=m gen=Rezeptors pl=Rezeptoren
 Rezession noun g=f gen=Rezession pl=Rezessionen
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
+Rheinbrücke noun g=f gen=Rheinbrücke pl=Rheinbrücken note=bridge over the Rhine; the compound analysis does not use proper names as first part
 Rheinufer noun g=n gen=Rheinufers pl=Rheinufer note=listed because a proper-name modifier is not derived by the compound analysis
 Rhetorik noun g=f gen=Rhetorik pl=- note=mass noun
 Rhythmus noun g=m gen=Rhythmus pl=Rhythmen note=genitive without ending (like -ismus)
@@ -368,6 +373,7 @@ Rückreise noun g=f gen=Rückreise pl=Rückreisen
 Rückseite noun g=f gen=Rückseite pl=Rückseiten
 Rücksicht noun g=f gen=Rücksicht pl=Rücksichten
 Rücktritt noun g=m gen=Rücktritts|Rücktrittes pl=Rücktritte
+Rückverfolgbarkeit noun g=f gen=Rückverfolgbarkeit pl=- note=traceability; no plural
 Rückzug noun g=m gen=Rückzugs|Rückzuges pl=Rückzüge
 Rudel noun g=n gen=Rudels pl=Rudel
 Ruder noun g=n gen=Ruders pl=Ruder

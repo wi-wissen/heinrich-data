@@ -2,6 +2,7 @@ rächen verb class=weak pp=gerächt perf=haben
 radeln verb class=weak pp=geradelt perf=sein
 radieren verb class=weak pp=radiert perf=haben
 räkeln verb class=weak pp=geräkelt perf=haben refl=acc
+rangieren verb class=weak pp=rangiert perf=haben
 ranken verb class=weak pp=gerankt perf=haben refl=acc
 rappen verb class=weak pp=gerappt perf=haben
 rascheln verb class=weak pp=geraschelt perf=haben

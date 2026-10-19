@@ -49,6 +49,7 @@ polar adj
 politisch adj
 polizeilich adj
 polnisch adj
+polytechnisch adj
 populär adj cmp=populärer sup=populärsten
 populistisch adj
 portugiesisch adj
@@ -58,6 +59,7 @@ potentiell adj note=variant spelling of potenziell
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
 pragmatisch adj cmp=pragmatischer sup=pragmatischsten
+prähistorisch adj
 praktikabel adj cmp=praktikabler sup=praktikabelsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten

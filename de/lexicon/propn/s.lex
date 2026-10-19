@@ -7,6 +7,7 @@ Sachsen-Anhalt propn g=n gen=Sachsen-Anhalts pl=- note=federal state
 Sahara propn g=f gen=Sahara pl=- note=desert
 Sahelzone propn g=f gen=Sahelzone pl=- note=die Sahelzone
 Salzburg propn g=n gen=Salzburgs pl=- demonym=Salzburger note=proper name, no plural
+Salzwedel propn g=n gen=Salzwedels pl=- note=town in Saxony-Anhalt; no plural
 Santiago propn g=n gen=Santiagos pl=- note=proper name, no plural
 Sardinien propn g=n gen=Sardiniens pl=- note=proper name, no plural
 Saudi-Arabien propn g=n gen=Saudi-Arabiens pl=- note=proper name, no plural
