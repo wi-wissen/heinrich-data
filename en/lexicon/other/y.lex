@@ -1,4 +1,5 @@
 yay intj
+yea intj style=archaic
 yeah intj style=colloquial
 yep intj style=colloquial
 yes intj

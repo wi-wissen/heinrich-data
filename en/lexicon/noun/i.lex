@@ -71,6 +71,7 @@ imprint noun
 imprisonment   noun
 impropriety noun
 improvement    noun
+improvisation noun
 impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
@@ -328,6 +329,7 @@ iron           noun
 irony          noun
 Iroquois noun pl=Iroquois
 irregularity noun
+irresponsibility noun pl=- note=uncountable
 irrigation     noun
 irritation     noun
 ISA noun abbr note=individual savings account (UK)

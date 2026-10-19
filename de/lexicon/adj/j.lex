@@ -5,6 +5,7 @@ jämmerlich adj cmp=jämmerlicher sup=jämmerlichsten
 japanisch adj
 jetzig adj attr_only
 jeweilig adj note=attributive only
+journalistisch adj
 jüdisch adj
 jugendfrei adj
 jugendlich adj cmp=jugendlicher sup=jugendlichsten

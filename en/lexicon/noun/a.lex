@@ -9,6 +9,7 @@ abdomen noun
 abduction noun
 abeyance noun pl=- note=uncountable
 ability noun
+abnormality noun
 abode noun
 abolition noun
 abolitionist noun
@@ -372,6 +373,7 @@ ape noun
 aperture noun
 apex noun pl=apexes|apices
 API noun abbr note=application programming interface
+apocalypse noun
 apology noun
 apostle noun
 app noun

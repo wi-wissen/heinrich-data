@@ -37,6 +37,7 @@ jigsaw noun
 jihad noun
 jingle noun
 job            noun
+jobcentre noun region=GB
 joblessness noun pl=- note=uncountable
 jobseeker noun conf=85 note=also job seeker
 jockey noun

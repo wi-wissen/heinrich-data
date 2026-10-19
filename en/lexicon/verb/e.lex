@@ -72,6 +72,7 @@ engrave verb
 engross verb
 engulf verb
 enhance verb
+enjoin verb
 enjoy verb
 enlarge verb
 enlighten verb
@@ -106,6 +107,7 @@ eradicate verb
 erase verb
 erect verb
 erode verb
+err verb
 erupt verb
 escalate verb
 escape verb
@@ -126,6 +128,7 @@ evince verb
 evoke verb
 evolve verb
 exacerbate verb
+exact verb
 exaggerate verb
 exalt verb
 examine verb

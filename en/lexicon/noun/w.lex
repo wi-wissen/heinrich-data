@@ -38,6 +38,7 @@ warhead noun
 warlord noun
 warmth noun pl=- note=uncountable
 warning noun
+warp noun
 warrant noun
 warranty noun
 warrior noun
@@ -166,6 +167,7 @@ wilderness noun
 wildfire noun
 wildlife noun pl=- note=uncountable
 wildness noun pl=- note=uncountable
+wile noun
 will noun
 willingness noun pl=- note=uncountable
 willow noun
@@ -173,6 +175,7 @@ win noun
 wince noun
 wind noun
 windfall noun
+winding noun
 windmill noun
 window noun
 windowsill noun
@@ -238,6 +241,7 @@ worm noun
 worry noun
 worship noun pl=- note=uncountable
 worshipper noun us=worshiper|worshipper
+worsted noun pl=- note=a woolen fabric; uncountable
 worth noun pl=- note=uncountable
 worthy noun
 wound noun

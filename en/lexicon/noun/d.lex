@@ -45,6 +45,7 @@ daylight noun
 daytime noun
 dazzle noun
 deacon noun
+deactivation noun pl=- note=uncountable
 dead noun pl=- note=the dead; in the dead of night
 deadline noun
 deal noun
@@ -129,6 +130,7 @@ deli noun
 deliberation noun
 delicacy noun
 delight noun
+delineation noun
 delinquency noun
 delinquent noun
 delirium noun pl=- note=uncountable
@@ -374,6 +376,7 @@ disposal noun
 disposition noun
 dispute noun
 disqualification noun
+disquiet noun pl=- note=uncountable
 disregard noun
 disrepair noun pl=- note=uncountable
 disrespect noun pl=- note=uncountable
@@ -529,6 +532,7 @@ drug noun
 drum noun
 drummer noun
 drunk noun
+drunkenness noun pl=- note=uncountable
 dryer noun
 ducat noun
 duchess noun
@@ -566,6 +570,7 @@ dye noun
 dyer noun
 dynamic noun
 dynamics noun pl=- note=the field, with a singular verb; the plural dynamics comes from dynamic
+dynamism noun pl=- note=uncountable
 dynamite noun pl=- note=uncountable
 dynamo noun pl=dynamos
 dynasty noun

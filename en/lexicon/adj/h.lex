@@ -1,3 +1,4 @@
+habitable adj cmp=more
 habitual       adj adv=habitually
 haggard adj
 hairy adj cmp=er
@@ -75,6 +76,8 @@ honorary       adj
 hopeful        adj cmp=more adv=hopefully
 hopeless       adj adv=hopelessly
 horizontal     adj adv=horizontally
+horned adj
+horny adj cmp=er
 horrendous adj
 horrible       adj adv=horribly
 horrid         adj

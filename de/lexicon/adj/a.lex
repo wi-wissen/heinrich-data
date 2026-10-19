@@ -7,6 +7,7 @@ abhängig      adj cmp=abhängiger sup=abhängigsten
 abhold adj pred_only style=archaic note=jemandem abhold sein (averse to)
 ablenkend adj
 abrechenbar adj
+abscheulich adj cmp=abscheulicher sup=abscheulichsten
 absehbar adj
 absichtlich adj
 absolut adj
@@ -14,7 +15,10 @@ abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
+adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
+adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
+administrativ adj
 afghanisch adj
 afrikanisch adj
 aggressiv adj cmp=aggressiver sup=aggressivsten
@@ -24,11 +28,14 @@ akademisch adj
 aktenkundig adj
 aktiv         adj cmp=aktiver sup=aktivsten
 aktuell       adj cmp=aktueller sup=aktuellsten
+akustisch adj
 akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
+albanisch adj
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
 alleinig adj
+allererst adj
 allergisch adj
 allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
@@ -41,11 +48,13 @@ alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
 altmodisch adj cmp=altmodischer sup=altmodischsten
+ambitioniert adj cmp=ambitionierter sup=ambitioniertesten
 ambulant adj
 amerikanisch adj
 amtierend adj
 amtlich adj
 analog adj
+analytisch adj
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
 anfänglich adj
@@ -70,6 +79,7 @@ anstrengend adj cmp=anstrengender sup=anstrengendsten
 antarktisch adj
 anteilig adj
 antik adj
+antisemitisch adj
 antragsgemäß adj
 anwendbar adj
 anwesend adj
@@ -81,6 +91,7 @@ approbiert adj
 arabisch adj
 arbeitslos adj
 archäologisch adj
+architektonisch adj
 arg adj cmp=ärger sup=ärgsten
 argentinisch adj
 ärgerlich adj cmp=ärgerlicher sup=ärgerlichsten
@@ -88,11 +99,14 @@ argumentativ adj
 arithmetisch adj
 arktisch adj
 arm           adj cmp=ärmer sup=ärmsten
+armenisch adj
+ärmlich adj cmp=ärmlicher sup=ärmlichsten
 arrogant adj cmp=arroganter sup=arrogantesten
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
 asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
+astronomisch adj
 atheistisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten

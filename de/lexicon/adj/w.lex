@@ -1,6 +1,7 @@
 waagerecht adj
 wach adj cmp=wacher sup=wachsten
 wachsam adj cmp=wachsamer sup=wachsamsten
+wacker adj cmp=wackerer sup=wackersten
 waghalsig adj cmp=waghalsiger sup=waghalsigsten
 wählerisch adj cmp=wählerischer sup=wählerischsten
 wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten
@@ -9,7 +10,9 @@ wahrhaft adj
 wahrhaftig adj
 wahrheitsgemäß adj
 wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
+walisisch adj
 warm adj cmp=wärmer sup=wärmsten
+wechselseitig adj
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten
@@ -17,6 +20,7 @@ weiß adj cmp=weißer sup=weißesten
 weisungsgemäß adj
 weit adj cmp=weiter sup=weitesten
 weitgehend adj
+weitläufig adj cmp=weitläufiger sup=weitläufigsten
 weitreichend adj cmp=weitreichender sup=weitreichendsten
 welk adj
 weltlich adj
@@ -28,7 +32,8 @@ wert adj
 werth adj spelling=old note=old spelling of wert
 wertvoll adj cmp=wertvoller sup=wertvollsten
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
-westlich adj note=also a genitive preposition (closed/prepositions.lex)
+westfälisch adj
+westlich adj cmp=westlicher sup=westlichsten note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
 widerruflich adj

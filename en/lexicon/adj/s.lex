@@ -82,7 +82,7 @@ separate adj adv=separately
 separatist adj
 sequential adj adv=sequentially
 Serbian adj
-serene adj cmp=er|more
+serene adj cmp=er|more adv=serenely
 serial adj
 serious adj cmp=more adv=seriously
 serviceable adj
@@ -124,7 +124,7 @@ simple adj cmp=er adv=simply
 simultaneous adj adv=simultaneously
 sincere adj cmp=er|more adv=sincerely
 sinful adj
-single adj
+single adj adv=singly
 singular adj adv=singularly
 sinister adj
 situated adj
@@ -143,8 +143,10 @@ sleek adj cmp=er
 sleepless adj adv=sleeplessly
 sleepy adj cmp=er
 slender adj cmp=er
+slick adj cmp=er adv=slickly
 slight adj cmp=er adv=slightly
 slim adj cmp=er
+slimy adj cmp=er
 slippery adj cmp=er|more
 Slovak adj
 slow adj cmp=er adv=slowly
@@ -270,6 +272,7 @@ strange adj cmp=er adv=strangely
 strategic adj adv=strategically
 stray adj
 strenuous adj adv=strenuously
+stressful adj cmp=more adv=stressfully
 stricken adj
 strict adj cmp=er adv=strictly
 striking adj cmp=more adv=strikingly
@@ -293,7 +296,7 @@ submissive adj cmp=more adv=submissively
 subordinate adj
 subsequent adj adv=subsequently
 substantial adj adv=substantially
-substantive adj
+substantive adj adv=substantively
 subsurface adj
 subterranean adj
 subtle adj cmp=er adv=subtly

@@ -160,6 +160,7 @@ scripture noun
 scroll noun
 scrollbar noun
 scrub noun
+scrubber noun
 scrum noun
 scrunchie noun
 scruple noun
@@ -282,6 +283,7 @@ sewerage noun pl=- note=uncountable
 sex noun
 sexuality noun
 shack noun
+shad noun pl=shad|shads
 shade noun
 shadow noun
 shaft noun
@@ -464,6 +466,7 @@ slate noun
 slaughter noun
 slave noun
 slavery noun pl=- note=uncountable
+slayer noun
 sled noun
 sledge noun region=GB note=US sled
 sleep noun
@@ -476,6 +479,7 @@ slice noun
 slide noun
 slider noun
 slideshow noun
+slime noun pl=- note=uncountable in general use
 sling noun
 slip noun
 slipper noun
@@ -500,7 +504,9 @@ smartphone noun
 smartwatch noun
 smash noun
 SME noun abbr note=small and medium-sized enterprise
+smear noun
 smell noun
+smelter noun
 smile noun
 smoke noun
 smoker noun
@@ -511,6 +517,7 @@ smuggler noun
 snack noun
 snail noun
 snake noun
+snapper noun
 snapshot noun
 snare noun
 sneaker noun region=US note=British trainer
@@ -580,6 +587,8 @@ sophistication noun
 sophomore noun
 soprano noun note=plural sopranos
 sorbet noun
+sorcerer noun
+sorcery noun pl=- note=uncountable
 sorrow noun
 sort noun
 sorter noun
@@ -605,6 +614,7 @@ space noun
 spacecraft noun pl=spacecraft
 spacing noun
 spade noun
+spadefoot noun
 spaghetti noun pl=- note=uncountable
 spam noun pl=- note=unwanted e-mail; uncountable
 span noun
@@ -920,6 +930,7 @@ subscriber noun
 subscription noun
 subsection noun
 subset noun
+subsidence noun pl=- note=uncountable
 subsidiary noun
 subsidy noun
 subsistence noun
@@ -933,6 +944,7 @@ subsurface noun pl=- note=uncountable
 subtitle noun
 subtlety noun
 subtotal noun
+subtype noun
 subunit noun
 suburb noun
 subway noun

@@ -110,6 +110,7 @@ detect verb
 deter verb double
 deteriorate verb
 determine verb
+detest verb
 detonate verb
 devalue verb
 devastate verb
@@ -188,6 +189,7 @@ displease verb
 dispose verb
 dispute verb
 disqualify verb
+disquiet verb
 disregard verb
 disrespect verb
 disrupt verb

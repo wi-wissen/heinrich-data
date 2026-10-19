@@ -77,6 +77,7 @@ fleeting adj
 Flemish        adj
 flexible       adj cmp=more adv=flexibly
 flimsy adj cmp=er
+floppy adj cmp=er
 floral adj
 flowery adj cmp=more
 fluent adj adv=fluently
@@ -148,6 +149,7 @@ fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally
 fundamental    adj adv=fundamentally
 funerary       adj
+fungal adj
 funny          adj cmp=er
 furious        adj adv=furiously
 furry adj cmp=er

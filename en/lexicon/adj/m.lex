@@ -164,6 +164,7 @@ muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
 multidisciplinary adj
+multifamily adj
 multilateral  adj
 multilingual adj
 multinational adj

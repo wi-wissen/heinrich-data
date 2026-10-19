@@ -40,6 +40,7 @@ widespread adj
 wild adj cmp=er adv=wildly
 willful adj cmp=more gb=wilful adv=willfully
 willing adj cmp=more adv=willingly
+wily adj cmp=er adv=wilily
 win-win adj conf=85
 windy adj cmp=er
 winged adj

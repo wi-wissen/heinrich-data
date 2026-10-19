@@ -115,11 +115,13 @@ ambulatory adj
 amenable adj
 American adj
 amiable adj cmp=more adv=amiably
+amicable adj cmp=more adv=amicably
 amino adj attr_only note=as in amino acid
 amiss adj pred_only
 amphibious adj
 ample adj cmp=er adv=amply
 amusing adj cmp=more adv=amusingly
+anaerobic adj adv=anaerobically
 anal adj
 analog adj gb=analogue conf=90 note=the noun is often analogue in American texts too
 analogous adj

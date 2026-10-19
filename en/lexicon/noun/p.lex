@@ -79,6 +79,7 @@ parchment noun
 pardon noun
 parent noun
 parentage noun pl=- note=uncountable
+parenthesis noun pl=parentheses
 parenthood noun pl=- note=uncountable
 parish noun
 parishioner noun
@@ -476,6 +477,7 @@ politics noun pl=- note=singular or plural agreement
 polity noun
 poll noun
 pollen noun note=plural pollens: kinds of pollen
+pollock noun pl=pollock|pollocks gb=pollack|pollock
 pollutant noun
 pollution noun pl=- note=uncountable
 polo noun pl=- note=the sport
@@ -493,6 +495,7 @@ pool noun
 pop noun
 popcorn noun pl=- note=uncountable
 pope noun
+poplar noun
 poppy noun
 populace noun
 popularity noun pl=- note=uncountable
@@ -618,6 +621,7 @@ prerequisite noun
 prerogative noun
 Presbyterian noun note=demonym or religious name, capitalized
 preschool noun
+prescriber noun
 prescription noun
 presence noun
 present noun
@@ -670,6 +674,7 @@ prisoner noun
 privacy noun pl=- note=uncountable
 private noun
 privateer noun
+privation noun
 privatization noun gb=privatisation|privatization
 privilege noun
 privy noun
@@ -739,6 +744,7 @@ proofreading noun pl=- note=uncountable
 prop noun
 propaganda noun pl=- note=uncountable
 propagation noun pl=- note=uncountable
+propellant noun
 propeller noun
 propensity noun
 property noun
@@ -767,11 +773,13 @@ protagonist noun
 protection noun
 protectionism noun pl=- note=uncountable
 protector noun
+protectorate noun
 protein noun
 protest noun
 Protestant noun note=demonym or religious name, capitalized
 Protestantism noun pl=- note=uncountable
 protester noun
+protestor noun note=variant of protester; chiefly US
 protocol noun
 proton noun
 prototype noun
@@ -792,6 +800,7 @@ psalm noun
 pseudonym noun
 pseudonymization noun gb=pseudonymisation|pseudonymization conf=90
 psoriasis noun pl=- note=uncountable
+psyche noun
 psychiatrist noun
 psychiatry noun pl=- note=uncountable
 psychic noun

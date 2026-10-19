@@ -139,6 +139,7 @@ poach verb
 pocket verb
 podcast verb
 point verb
+poise verb
 poison verb
 poke verb
 polarize verb gb=polarise|polarize

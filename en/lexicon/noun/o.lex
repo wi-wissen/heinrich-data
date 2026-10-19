@@ -132,6 +132,7 @@ orphan noun
 orphanage noun
 orthography noun
 OS            noun abbr note=operating system
+oscillation noun
 oscillator noun
 ostrich noun
 otter noun

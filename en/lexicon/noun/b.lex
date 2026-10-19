@@ -50,6 +50,7 @@ balloon noun
 ballot noun
 ballpark noun
 ballroom noun
+balm noun
 balsam noun
 bamboo noun
 ban noun
@@ -58,6 +59,7 @@ band noun
 bandage noun
 bandit noun
 bandleader noun
+bandmate noun
 bandwidth noun
 bang noun
 banishment noun
@@ -151,6 +153,7 @@ bearer noun
 bearing noun
 beast noun
 beat noun
+beau noun pl=beaux|beaus
 beauty noun
 beaver noun
 bed noun
@@ -333,6 +336,8 @@ boatman noun pl=boatmen
 boatswain noun
 bob noun
 body noun
+bodybuilder noun
+bodybuilding noun pl=- note=uncountable
 bodyguard noun
 Boer noun
 bog noun
