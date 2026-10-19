@@ -65,6 +65,7 @@ ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
 Oriental       adj note=dated; offensive when used of people
+oriental adj
 original       adj adv=originally
 ornamental     adj
 ornate adj cmp=more adv=ornately
@@ -91,6 +92,7 @@ oval           adj
 ovarian adj
 overall        adj
 overarching adj
+overbearing adj
 overcast adj
 overcrowded adj
 overdrawn adj

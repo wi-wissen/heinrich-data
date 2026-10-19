@@ -12,6 +12,7 @@ nationalist     adj
 nationwide      adj
 native          adj
 natural         adj adv=naturally
+naturalistic adj
 naughty adj cmp=er adv=naughtily
 nautical adj adv=nautically
 Navajo          adj
@@ -48,6 +49,7 @@ Nigerian        adj
 nightly adj
 nimble adj cmp=er adv=nimbly
 nippy adj cmp=er
+nitrous adj
 noble           adj cmp=er adv=nobly
 nocturnal adj
 noiseless adj adv=noiselessly
@@ -65,6 +67,7 @@ nonstop adj
 Nordic          adj
 normal          adj adv=normally
 Norman          adj
+normative adj
 Norse           adj
 north           adj
 northbound adj

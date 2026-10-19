@@ -38,6 +38,7 @@ heed           verb
 heighten       verb
 help           verb
 hem verb
+hemorrhage verb gb=haemorrhage
 herald         verb
 herd           verb
 hesitate       verb

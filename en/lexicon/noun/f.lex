@@ -21,6 +21,7 @@ fairness       noun pl=- note=uncountable
 fairy          noun
 faith          noun
 faithful       noun
+faithfulness noun pl=- note=uncountable
 fake           noun
 falcon noun
 fall           noun
@@ -34,6 +35,7 @@ famine         noun
 fan            noun
 fanatic noun
 fancy          noun
+fanfare noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
 farce noun
@@ -101,12 +103,14 @@ fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
+fetish noun
 fetter noun
 feud noun
 fever          noun
 fiancé noun
 fiancée noun
 fiber          noun gb=fibre
+fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
 fidelity       noun pl=- note=uncountable
@@ -114,6 +118,7 @@ fiduciary noun
 field          noun
 fielder noun
 fiend noun
+fierceness noun pl=- note=uncountable
 fig            noun
 fight          noun
 fighter        noun
@@ -141,6 +146,7 @@ financials noun pl_only conf=85 note=financial statements
 financier noun
 finch noun
 find           noun
+finder noun
 finding        noun
 fine           noun
 finger         noun
@@ -216,6 +222,7 @@ flipchart noun
 flipper noun
 flirt noun
 float          noun
+floatplane noun
 flock          noun
 flood          noun
 floodplain     noun
@@ -231,7 +238,9 @@ flower         noun
 flu            noun pl=- note=influenza
 fluctuation noun
 flue noun
+fluency noun pl=- note=uncountable
 fluid          noun
+flurry noun
 flush          noun
 flute          noun
 flutter noun
@@ -295,7 +304,9 @@ forenoon noun style=archaic
 forerunner noun
 foresight noun
 forest         noun
+forester noun
 forestry       noun pl=- note=uncountable
+forethought noun pl=- note=uncountable
 forex noun pl=- note=foreign exchange
 forfeit noun
 forfeiture     noun
@@ -328,6 +339,7 @@ fowl           noun pl=fowl|fowls
 fox            noun
 fraction       noun
 fracture noun
+fragility noun pl=- note=uncountable
 fragment       noun
 fragmentation noun
 fragrance noun

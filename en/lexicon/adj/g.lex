@@ -2,6 +2,7 @@ Gaelic         adj
 gallant        adj adv=gallantly
 garlicky adj
 gaseous adj
+gastric adj
 gastrointestinal adj
 gaudy adj cmp=er
 gaunt adj cmp=er
@@ -48,6 +49,7 @@ global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
 glossy adj cmp=er
+gloved adj
 golden         adj
 good           adj cmp=better sup=best adv=well
 good-natured adj cmp=more adv=good-naturedly
@@ -75,7 +77,7 @@ great          adj cmp=er adv=greatly
 greedy adj cmp=er adv=greedily
 Greek          adj
 green          adj cmp=er
-grievous adj
+grievous adj adv=grievously
 grim           adj cmp=er adv=grimly
 grizzly        adj
 gross          adj cmp=er adv=grossly

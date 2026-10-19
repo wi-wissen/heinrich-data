@@ -63,6 +63,7 @@ chance verb
 change verb
 channel verb
 chant verb
+char verb
 characterize verb gb=characterise|characterize
 charge verb
 charm verb
@@ -82,6 +83,7 @@ chill verb
 chime verb
 chip verb
 chirp verb
+chisel verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen

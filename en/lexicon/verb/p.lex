@@ -24,6 +24,7 @@ parch verb
 pardon verb
 parent verb
 park verb
+parley verb
 parody verb
 parole verb
 parrot verb
@@ -101,6 +102,7 @@ pilot verb
 pin verb
 pinch verb
 pine verb
+ping verb
 pioneer verb
 pipe verb
 pique verb
@@ -190,6 +192,7 @@ preserve verb
 preside verb
 press verb
 pressure verb
+pressurize verb gb=pressurise|pressurize
 presume verb
 pretend verb
 prevail verb
@@ -254,6 +257,7 @@ pulse verb
 pump verb
 pun verb
 punch verb
+punctuate verb
 puncture verb
 punish verb
 purchase verb

@@ -155,6 +155,7 @@ fundraise verb conf=85
 funnel verb
 furlough verb
 furnish        verb
+furrow verb
 further        verb note=to further a cause
 fuse verb
 fuss           verb

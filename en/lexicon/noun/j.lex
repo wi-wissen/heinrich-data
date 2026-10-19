@@ -40,6 +40,7 @@ jockey noun
 joey noun note=young kangaroo
 joint          noun
 joke           noun
+joker noun
 jotter noun region=GB
 journal        noun
 journalism     noun pl=- note=uncountable

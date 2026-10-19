@@ -3,6 +3,7 @@ ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
+unavailability noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
@@ -38,6 +39,7 @@ uniform       noun
 uniformity noun
 union         noun
 unionist      noun
+uniqueness noun pl=- note=uncountable
 unison noun
 unit          noun
 unity         noun note=plural unities: the dramatic unities

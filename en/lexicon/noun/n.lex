@@ -36,6 +36,7 @@ NDA           noun abbr note=non-disclosure agreement; new drug application (US)
 necessity     noun
 neck          noun
 necklace      noun
+necktie noun
 nectar noun pl=- note=uncountable
 nectarine noun
 need          noun
@@ -88,6 +89,7 @@ nightfall noun pl=- note=uncountable
 nightgown noun
 nightie noun
 nightingale noun
+nightlife noun pl=- note=uncountable
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
@@ -108,6 +110,7 @@ nomination    noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
+nonfiction noun pl=- note=uncountable
 nonimmigrant  noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
@@ -127,6 +130,7 @@ northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
 nosebleed noun
+nostalgia noun pl=- note=uncountable
 nostril       noun
 notable       noun
 notarization noun gb=notarisation|notarization conf=85

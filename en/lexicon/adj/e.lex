@@ -42,6 +42,7 @@ eligible adj
 elite adj
 eloquent adj adv=eloquently
 elusive adj cmp=more
+emaciated adj
 embarrassed adj cmp=more
 emeritus adj
 eminent adj adv=eminently
@@ -52,6 +53,7 @@ employable adj cmp=more
 empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
+endogenous adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -66,8 +68,10 @@ entrepreneurial adj
 envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
 epic adj
+epidemiological adj
 Episcopal adj
 episcopal adj
+episodic adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
@@ -90,6 +94,7 @@ ethnic adj adv=ethnically
 Eurasian adj
 European adj
 evangelical adj
+evasive adj adv=evasively
 even adj adv=evenly
 eventful adj cmp=more
 eventual adj adv=eventually
@@ -121,6 +126,7 @@ exotic adj
 expansive adj
 expectant adj
 expedient adj
+expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively
@@ -139,6 +145,7 @@ exterior adj
 external adj adv=externally
 extinct adj
 extra adj
+extracellular adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
 extratropical adj

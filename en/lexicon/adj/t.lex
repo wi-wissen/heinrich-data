@@ -26,6 +26,7 @@ temporal adj
 temporary adj adv=temporarily
 tender adj cmp=er adv=tenderly
 tense adj cmp=er
+tensile adj
 tentative adj adv=tentatively
 terminal adj
 terrestrial adj
@@ -52,6 +53,7 @@ thoracic adj
 thorough adj cmp=more adv=thoroughly
 thoughtful adj cmp=more adv=thoughtfully
 thoughtless adj cmp=more adv=thoughtlessly
+threefold adj
 thrifty adj cmp=er adv=thriftily
 thrilled adj
 thrilling adj
@@ -78,6 +80,7 @@ top adj
 topical adj
 topmost adj
 topological adj adv=topologically
+tortuous adj
 total adj adv=totally
 tough adj cmp=er
 towering adj
@@ -87,6 +90,7 @@ tragic adj adv=tragically
 tranquil adj cmp=more adv=tranquilly
 trans adj note=transgender; also chemistry (trans isomer)
 transatlantic adj
+transcendental adj
 transcontinental adj
 transferable adj
 transformational adj

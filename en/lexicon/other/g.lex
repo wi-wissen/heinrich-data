@@ -7,3 +7,5 @@ good-bye intj note=older spelling of goodbye
 goodbye intj
 Gov.           x abbr note=Governor, title
 GPS            x abbr note=Global Positioning System
+grande x foreign note=only in grande dame, Rio Grande
+Gras x foreign note=only in Mardi Gras

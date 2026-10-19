@@ -4,3 +4,4 @@ midway adv
 mistakenly adv
 monthly       adv
 mostly        adv
+musingly adv type=manner

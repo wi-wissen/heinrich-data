@@ -10,12 +10,14 @@ bake verb
 balance verb
 bale verb
 ballast verb
+ballot verb
 ban verb
 band verb
 bandage verb
 bang verb
 banish verb
 bank verb
+banter verb
 baptize verb gb=baptise|baptize
 bar verb
 barbecue verb
@@ -66,6 +68,7 @@ bewilder verb
 bewitch verb
 bias verb
 bid verb past=bid|bade pp=bid|bidden
+bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
 bill verb
 bind verb past=bound pp=bound
@@ -76,6 +79,7 @@ blacken verb
 blacklist verb
 blackmail verb
 blame verb
+blanch verb
 blast verb
 blaze verb
 bleach verb
@@ -153,6 +157,7 @@ bristle verb
 broadcast verb past=broadcast pp=broadcast
 broaden verb
 broker verb
+bronze verb
 brood verb
 browse verb
 bruise verb
@@ -161,6 +166,7 @@ bubble verb
 buckle verb
 bud verb
 budget verb
+buff verb
 buffet verb
 bug verb
 build verb past=built pp=built

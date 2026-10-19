@@ -59,6 +59,7 @@ harmonica noun
 harmony        noun
 harness        noun
 harp noun
+harshness noun pl=- note=uncountable
 hart noun
 harvest        noun
 hash noun
@@ -69,6 +70,7 @@ hatch noun
 hate           noun
 hatred         noun
 haul           noun
+haunch noun
 haunt          noun
 haven          noun
 havoc noun pl=- note=uncountable
@@ -134,7 +136,9 @@ helpdesk noun conf=90 note=also help desk
 helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
+heme noun pl=- gb=haem note=uncountable
 hemisphere noun
+hemorrhage noun gb=haemorrhage
 hen noun
 hepatitis noun pl=- note=uncountable
 herald         noun
@@ -298,6 +302,7 @@ Hungarian      noun
 hunger         noun
 hunt           noun
 hunter         noun
+huntsman noun pl=huntsmen
 hurdle noun
 hurrah noun note=a last hurrah
 hurricane      noun
@@ -306,6 +311,7 @@ hurt           noun
 husband        noun
 hush           noun
 husky noun note=the dog
+hussar noun
 hustle noun
 hut            noun
 hutch noun

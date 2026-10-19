@@ -3,6 +3,7 @@ keep           verb past=kept pp=kept
 key            verb
 keynote verb
 kick           verb
+kickstart verb
 kid            verb
 kidnap         verb double
 kill           verb

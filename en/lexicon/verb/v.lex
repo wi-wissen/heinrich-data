@@ -22,6 +22,7 @@ vet verb
 veto          verb
 vex           verb
 vibrate verb
+victual verb
 video         verb
 videotape verb
 vie verb

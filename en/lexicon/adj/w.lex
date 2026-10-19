@@ -29,6 +29,7 @@ wet adj cmp=er
 wheeled adj
 whimsical adj cmp=more adv=whimsically
 white adj cmp=er
+whitish adj
 whole adj adv=wholly
 wholehearted adj adv=wholeheartedly
 wholesale adj
@@ -44,6 +45,7 @@ windy adj cmp=er
 winged adj
 wintry adj cmp=er
 wireless adj
+wiry adj cmp=er
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily

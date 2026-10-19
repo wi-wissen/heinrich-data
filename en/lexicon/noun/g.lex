@@ -35,6 +35,7 @@ gardener       noun
 garland        noun
 garlic noun pl=- note=uncountable
 garment        noun
+garnet noun
 garnishment noun
 garrison       noun
 gas            noun pl=gases
@@ -55,6 +56,7 @@ gearing noun pl=- region=GB note=uncountable; US leverage
 gecko noun pl=geckos
 gel noun
 gem noun
+gemmule noun
 gender         noun
 gene           noun
 genealogy noun
@@ -64,6 +66,7 @@ generalization noun gb=generalisation|generalization
 generation     noun
 generator      noun
 generosity     noun note=plural generosities: acts of generosity
+genesis noun pl=geneses
 genetics noun pl=- note=uncountable
 genital noun
 genitive noun
@@ -167,6 +170,7 @@ gospel         noun
 gossip         noun
 Goth noun
 gouache noun
+gourd noun
 gout noun pl=- note=uncountable
 governance     noun pl=- note=uncountable
 governess      noun
@@ -201,6 +205,7 @@ grandmother    noun
 grandpa noun
 grandparent    noun
 grandson       noun
+grandstand noun
 grange         noun
 granite        noun
 granny noun
@@ -286,6 +291,7 @@ guinea         noun
 guise noun
 guitar         noun
 guitarist      noun
+gulch noun
 gulf           noun note=plural gulfs
 gull noun
 gully noun
@@ -294,9 +300,11 @@ gumboot noun
 gun            noun
 gunboat noun
 gunfire noun pl=- note=uncountable
+gunman noun pl=gunmen
 gunner noun
 gunpowder noun
 gunshot noun
+gunwale noun
 gurgle noun
 guru noun
 gush noun

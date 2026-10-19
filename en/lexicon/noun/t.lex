@@ -7,6 +7,7 @@ tablet noun
 tabletop noun
 tabloid noun
 taboo noun
+tachycardia noun
 tack noun
 tackle noun
 taco noun pl=tacos
@@ -24,8 +25,10 @@ takeover noun
 taker noun
 tale noun
 talent noun
+talisman noun pl=talismans note=not a -man compound
 talk noun
 talker noun
+tallow noun
 tally noun
 Tamil noun
 tan noun
@@ -35,6 +38,7 @@ tangerine noun
 tangle noun
 tank noun
 tanker noun
+tannery noun
 tap noun
 tape noun
 taper noun
@@ -147,6 +151,7 @@ textbook noun
 textile noun
 texture noun
 Thai noun note=the language; a Thai person
+thankfulness noun pl=- note=uncountable
 thatch noun
 THC noun abbr pl=- note=tetrahydrocannabinol
 theater noun gb=theatre
@@ -186,13 +191,16 @@ throat noun
 throne noun
 throng noun
 throttle noun
+thrower noun
 thrush noun
 thrust noun
+thug noun
 thumb noun
 thumbnail noun
 thumbtack noun region=US note=British drawing pin
 thump noun
 thunder noun
+thunderbolt noun
 thunderstorm noun
 thyme noun pl=- note=uncountable
 thyroid noun
@@ -230,6 +238,7 @@ tinge noun
 tingle noun
 tinker noun
 tinkle noun
+tinnitus noun pl=- note=uncountable
 tint noun
 tip noun
 tire noun gb=tyre sense=wheel
@@ -349,6 +358,7 @@ tramway noun
 trance noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
+transcriber noun
 transcript noun
 transcription noun
 transept noun
@@ -374,6 +384,7 @@ transportation noun
 transporter noun
 trap noun
 trapper noun
+trappings noun pl_only
 trash noun pl=- note=uncountable
 trauma noun
 traveler noun gb=traveller
@@ -397,9 +408,11 @@ tremor noun
 trench noun
 trend noun
 trespass noun
+triad noun
 trial noun
 triangle noun
 tribe noun
+tribesman noun pl=tribesmen
 tribunal noun
 tribune noun
 tributary noun

@@ -162,6 +162,7 @@ outsider noun
 outskirts     noun pl_only
 outsourcing noun pl=- note=uncountable
 oval          noun
+ovation noun
 oven          noun
 over noun note=cricket: a set of six balls
 overall       noun

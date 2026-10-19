@@ -15,6 +15,7 @@ dazzling adj cmp=more adv=dazzlingly
 dead adj cmp=er|more
 deadly adj cmp=er|more
 deaf adj cmp=er
+deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
 deceased adj
 decennial adj
@@ -23,6 +24,7 @@ deceptive adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
+decorous adj
 deductible adj
 deep adj cmp=er adv=deeply
 defective adj
@@ -34,16 +36,19 @@ definitive adj adv=definitively
 deformed adj
 defunct adj
 degenerate adj
+deleterious adj
 deliberate adj adv=deliberately
 delicate adj cmp=more adv=delicately
 delicious adj cmp=more adv=deliciously
 delighted adj cmp=more
 delightful adj adv=delightfully
 delinquent adj
+delirious adj
 deluxe adj
 Democratic adj note=of the Democratic Party
 democratic adj cmp=more adv=democratically
 demographic adj
+demonstrative adj adv=demonstratively
 dense adj cmp=er adv=densely
 dental adj
 departmental adj
@@ -65,6 +70,7 @@ despotic adj
 destined adj
 destitute adj
 destructive adj cmp=more adv=destructively
+desultory adj
 detached adj
 determined adj cmp=more adv=determinedly
 deterministic adj
@@ -78,9 +84,11 @@ devoid adj pred_only
 devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
+dewy adj cmp=er
 diabetic adj
 diagnostic adj
 diagonal adj adv=diagonally
+dielectric adj
 dietary adj
 different adj cmp=more adv=differently
 differential adj
@@ -110,6 +118,7 @@ disastrous adj adv=disastrously
 discernible adj
 disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
+disconsolate adj adv=disconsolately
 discontented adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
@@ -146,9 +155,12 @@ divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more
 dizzy adj cmp=er
+docile adj
 doctoral adj
 documentary adj
 dogged adj cmp=more adv=doggedly
+dogmatic adj
+doleful adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
 Dominican adj
@@ -164,6 +176,7 @@ downstairs adj
 downstream adj
 downtown adj
 downward adj
+downy adj cmp=er
 dramatic adj cmp=more adv=dramatically
 drastic adj adv=drastically
 dreadful adj adv=dreadfully
@@ -175,7 +188,7 @@ drunk adj cmp=er|more
 drunken adj adv=drunkenly
 dry adj cmp=er adv=dryly|drily
 dual adj
-dubious adj
+dubious adj adv=dubiously
 ducal adj
 due adj
 dull adj cmp=er adv=dully

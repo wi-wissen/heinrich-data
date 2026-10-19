@@ -43,6 +43,7 @@ activate verb
 adapt verb
 add verb
 address verb
+adduce verb
 adhere verb
 adjoin verb
 adjourn verb
@@ -51,6 +52,7 @@ adjust verb
 administer verb
 admire verb
 admit verb double
+admix verb
 adopt verb
 adore verb
 adorn verb
@@ -77,6 +79,7 @@ aid verb
 ail verb
 aim verb
 air verb
+airlift verb
 alarm verb
 alert verb
 alienate verb
@@ -190,6 +193,7 @@ augment verb
 authenticate verb
 author verb
 authorize verb gb=authorise|authorize
+autograph verb
 automate verb
 avail verb
 avenge verb
