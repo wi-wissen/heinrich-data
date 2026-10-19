@@ -59,6 +59,7 @@ impediment     noun
 imperative     noun
 imperfection noun
 imperialism noun pl=- note=uncountable
+impersonation noun
 impertinence noun
 impetus noun
 implant noun
@@ -176,6 +177,7 @@ inflammation   noun
 inflatable noun
 inflation      noun
 inflection noun gb=inflection|inflexion
+inflow noun
 influence      noun
 influenza      noun pl=- note=uncountable
 influx         noun
@@ -299,6 +301,7 @@ internment noun
 internship noun
 interoperability noun pl=- note=uncountable
 interplay noun
+interpolation noun
 interpretation noun
 interpreter    noun
 interrogation noun

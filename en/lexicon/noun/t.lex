@@ -351,6 +351,7 @@ toxin noun
 toy noun
 trace noun
 traceability noun pl=- note=uncountable
+tracery noun
 trachea noun pl=tracheae|tracheas
 track noun
 tracker noun

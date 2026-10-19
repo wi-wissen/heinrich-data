@@ -88,6 +88,7 @@ chime verb
 chip verb
 chirp verb
 chisel verb
+chloroform verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -303,6 +304,7 @@ countenance verb
 counter verb
 counteract verb
 counterattack verb
+counterbalance verb
 counterfeit verb
 countersign verb
 couple verb

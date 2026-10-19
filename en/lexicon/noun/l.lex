@@ -80,6 +80,7 @@ lava noun
 lavatory noun
 lavender noun
 law           noun
+lawlessness noun pl=- note=uncountable
 lawmaker noun
 lawn          noun
 lawnmower noun

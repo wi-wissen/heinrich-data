@@ -195,6 +195,7 @@ catering noun pl=- note=uncountable
 caterpillar noun
 catfish noun pl=catfish|catfishes
 cathedral noun
+catheter noun
 cathode noun
 Catholic noun
 cattle noun pl_only
@@ -374,6 +375,7 @@ chivalry noun pl=- note=uncountable
 chive noun
 chloride noun
 chlorine noun pl=- note=uncountable
+chloroform noun pl=- note=uncountable
 chocolate noun
 Choctaw noun pl=Choctaw|Choctaws
 choice noun
@@ -911,6 +913,7 @@ copy noun
 copying noun pl=- note=uncountable
 copyright noun
 copywriter noun
+coquetry noun
 coquette noun
 coral noun
 cord noun
@@ -974,6 +977,7 @@ countenance noun
 counter noun
 counteraction noun
 counterattack noun
+counterbalance noun
 counterfeit noun
 countermeasure noun
 counteroffer noun conf=85 note=also counter-offer
@@ -1033,6 +1037,7 @@ cranberry noun
 crane noun
 crank noun
 crankshaft noun
+crape noun conf=90 note=older spelling of crepe, the fabric
 crash noun
 crate noun
 crater noun

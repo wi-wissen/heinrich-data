@@ -450,6 +450,7 @@ fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun
+fullness noun pl=- note=uncountable
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

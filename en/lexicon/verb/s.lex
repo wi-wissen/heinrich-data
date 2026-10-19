@@ -55,6 +55,7 @@ scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+scud verb
 sculpt verb
 sculpture verb
 scuttle verb

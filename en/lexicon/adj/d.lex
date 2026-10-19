@@ -85,6 +85,7 @@ destructive adj cmp=more adv=destructively
 desultory adj
 detached adj
 detectable adj
+determinate adj
 determined adj cmp=more adv=determinedly
 deterministic adj
 deterrent adj
@@ -98,6 +99,7 @@ devoted adj cmp=more adv=devotedly
 devotional adj
 devout adj cmp=more adv=devoutly
 dewy adj cmp=er
+dexterous adj cmp=more adv=dexterously
 diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
@@ -200,6 +202,7 @@ downstairs adj
 downstream adj
 downtown adj
 downward adj
+downwind adj
 downy adj cmp=er
 drab adj cmp=er adv=drably
 dramatic adj cmp=more adv=dramatically
@@ -231,3 +234,4 @@ dutiful adj adv=dutifully
 dynamic adj adv=dynamically
 dynastic adj
 dysfunctional adj
+dystopian adj

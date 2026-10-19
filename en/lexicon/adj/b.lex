@@ -67,9 +67,11 @@ bitter adj cmp=er|more adv=bitterly
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
 black adj cmp=er
+bladed adj
 blameless adj adv=blamelessly
 bland adj cmp=er adv=blandly
 blank adj adv=blankly
+blasphemous adj cmp=more adv=blasphemously
 blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj

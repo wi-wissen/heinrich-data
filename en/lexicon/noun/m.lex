@@ -19,6 +19,7 @@ magazine       noun
 magic          noun pl=- note=uncountable
 magician noun
 magistrate     noun
+magma noun
 magnanimity noun pl=- note=uncountable
 magnate noun
 magnesium noun pl=- note=uncountable
@@ -163,6 +164,8 @@ mate           noun
 mater noun note=mainly in alma mater, dura mater; dated British for mother
 material       noun
 materialism noun pl=- note=uncountable
+materiality noun
+materiel noun pl=- conf=90 note=uncountable; also written matériel
 maternity      noun pl=- note=uncountable
 math           noun pl=- region=US note=British maths
 mathematician  noun
@@ -298,6 +301,7 @@ midfielder     noun
 midland noun note=the middle region of a country; the Midlands (England)
 midnight       noun
 midpoint noun
+midrash noun pl=midrashim|midrashes conf=80 note=Hebrew loanword; plural forms unsure
 midshipman noun pl=midshipmen
 midst          noun pl=- note=only singular (in the midst of)
 midsummer noun pl=- note=uncountable
@@ -341,6 +345,7 @@ mining         noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
+mink noun pl=mink|minks
 minke noun
 minor          noun
 minority       noun

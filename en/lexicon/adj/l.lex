@@ -16,6 +16,7 @@ Latino        adj
 latter        adj attr_only
 Latvian adj
 laudable adj adv=laudably
+laughable adj adv=laughably
 lavish adj cmp=more adv=lavishly
 lawful        adj adv=lawfully
 lawless adj
@@ -116,7 +117,7 @@ lunar         adj
 lurid adj cmp=more adv=luridly
 lush adj cmp=er
 lustrous adj
-lusty adj cmp=er
+lusty adj cmp=er adv=lustily
 Lutheran      adj
 luxuriant adj
 luxurious     adj adv=luxuriously

@@ -20,6 +20,7 @@ careful adj cmp=more adv=carefully
 careless adj cmp=more adv=carelessly
 Caribbean adj
 carinal adj conf=90 note=zoology: of the carina (barnacle plates)
+carpal adj
 carsick adj
 case-by-case adj
 Castilian adj
@@ -32,6 +33,7 @@ categorical adj adv=categorically
 Catholic adj
 caudal adj
 causal adj adv=causally
+causative adj
 caustic adj cmp=more adv=caustically
 cautious adj cmp=more adv=cautiously
 cavalier adj

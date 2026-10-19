@@ -52,6 +52,7 @@ peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
 pediatric adj gb=paediatric
+peevish adj cmp=more adv=peevishly
 pelagic adj
 pelvic adj
 penal adj

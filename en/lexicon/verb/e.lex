@@ -33,6 +33,7 @@ embed verb double
 embellish verb
 embezzle verb
 embitter verb
+emblazon verb
 embody verb
 embrace verb
 embroider verb
@@ -155,6 +156,7 @@ exert verb
 exhaust verb
 exhibit verb
 exhilarate verb
+exhume verb
 exile verb
 exist verb
 exit verb

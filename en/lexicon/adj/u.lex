@@ -52,6 +52,7 @@ uncompromising adj adv=uncompromisingly
 unconcerned adj
 unconditional adj adv=unconditionally
 unconnected adj
+unconscionable adj adv=unconscionably
 unconscious    adj adv=unconsciously
 unconstitutional adj
 uncontrollable adj adv=uncontrollably
@@ -161,6 +162,7 @@ unmarried      adj
 unmatched adj
 unmet adj
 unmistakable adj adv=unmistakably
+unmixed adj
 unmolested adj
 unmoved adj
 unnamed        adj
@@ -205,6 +207,8 @@ unreported adj
 unresolved adj
 unrestrained adj
 unrestricted adj
+unreviewed adj
+unruffled adj
 unruly adj cmp=er|more
 unsafe         adj cmp=more
 unsatisfactory adj adv=unsatisfactorily
@@ -216,6 +220,7 @@ unsigned adj
 unskilled adj
 unsolicited adj
 unsolved adj
+unsophisticated adj cmp=more
 unsound adj
 unspeakable adj
 unspecified adj

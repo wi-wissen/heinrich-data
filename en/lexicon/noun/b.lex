@@ -104,6 +104,7 @@ barricade noun
 barrier noun
 barrister noun
 barrow noun
+bartender noun
 barter noun pl=- note=uncountable
 basalt noun
 base noun

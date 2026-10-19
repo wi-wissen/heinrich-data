@@ -115,6 +115,7 @@ restorative adj
 restrictive adj cmp=more
 resultant adj
 retail adj
+retaliatory adj
 reticent adj
 retinal adj
 retroactive adj adv=retroactively

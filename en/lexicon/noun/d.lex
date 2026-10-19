@@ -359,6 +359,7 @@ discomfort noun
 discontent noun
 discontinuance noun
 discontinuation noun
+discontinuity noun
 discord noun
 discount noun
 discourse noun

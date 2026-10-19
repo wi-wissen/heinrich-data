@@ -31,6 +31,7 @@ vermilion adj
 vernacular adj
 versatile adj cmp=more
 versed adj pred_only note=well versed in
+vertebral adj
 vertical      adj adv=vertically
 vested        adj attr_only
 veterinary    adj

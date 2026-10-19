@@ -182,6 +182,7 @@ enrollee noun
 enrollment noun gb=enrolment
 ensemble noun
 ensign noun
+enslavement noun pl=- note=uncountable
 entanglement noun
 enterprise noun
 entertainer noun
@@ -275,9 +276,11 @@ ethic noun
 Ethiopian noun
 ethnicity noun
 ethos noun pl=- note=uncountable
+ethylene noun pl=- note=uncountable
 etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
+eugenics noun pl=- note=uncountable, singular agreement
 eulogy noun
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts

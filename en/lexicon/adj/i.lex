@@ -9,6 +9,7 @@ identical      adj adv=identically
 identifiable   adj
 ideological    adj adv=ideologically
 idle           adj cmp=er adv=idly
+idyllic adj adv=idyllically
 igneous adj
 ignoble adj
 ignorant       adj
@@ -53,6 +54,7 @@ impersonal adj adv=impersonally
 impertinent adj
 impetuous adj cmp=more
 implacable adj adv=implacably
+implantable adj
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
 impossible     adj adv=impossibly
@@ -181,6 +183,7 @@ inherent       adj adv=inherently
 inhospitable adj
 inhuman adj
 inhumane adj adv=inhumanely
+inimitable adj adv=inimitably
 initial        adj adv=initially
 injured        adj
 injurious adj

@@ -190,6 +190,7 @@ redevelopment noun
 redirect noun
 redistribution noun
 redistricting noun pl=- note=uncountable
+redox noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
@@ -214,6 +215,7 @@ reform noun
 reformation noun note=the historical Reformation is a separate propn
 reformer noun
 reformist noun
+refraction noun
 refrain noun
 refreshment noun
 refrigerant noun
@@ -324,6 +326,7 @@ repayment noun
 repeal noun
 repeat noun
 repeatability noun pl=- note=uncountable
+repellent noun
 repentance noun pl=- note=uncountable
 repercussion noun
 repertoire noun

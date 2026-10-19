@@ -30,6 +30,7 @@ Pakistani noun note=demonym or religious name, capitalized
 pal noun style=colloquial
 palace noun
 palate noun
+palaver noun
 paleontologist noun gb=palaeontologist
 Palestinian noun note=demonym or religious name, capitalized
 palette noun
@@ -217,6 +218,7 @@ peddler noun gb=pedlar|peddler
 pedestal noun
 pedestrian noun
 pedigree noun
+pediment noun
 peduncle noun
 peel noun
 peeler noun
@@ -404,6 +406,7 @@ pita noun gb=pitta|pita
 pitch noun
 pitcher noun
 pitchfork noun
+pitfall noun
 pituitary noun
 pity noun
 pivot noun
@@ -463,6 +466,7 @@ pledge noun
 plenary noun
 plenty noun pl=- note=uncountable
 plethora noun
+plexus noun pl=plexuses|plexus
 plight noun
 plot noun
 plow noun gb=plough

@@ -83,6 +83,7 @@ epidemiological adj
 Episcopal adj
 episcopal adj
 episodic adj
+epithelial adj
 eponymous adj
 equal adj adv=equally
 equatorial adj

@@ -70,6 +70,7 @@ harmonica noun
 harmony        noun
 harness        noun
 harp noun
+harpsichord noun
 harshness noun pl=- note=uncountable
 hart noun
 harvest        noun
@@ -78,6 +79,8 @@ hashtag noun
 haste          noun pl=- note=uncountable
 hat            noun
 hatch noun
+hatchback noun
+hatchery noun
 hatchet noun
 hate           noun
 hatred         noun
@@ -254,6 +257,7 @@ hometown       noun
 homework noun pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
+homology noun
 homosexual noun
 homosexuality noun
 honesty        noun pl=- note=uncountable

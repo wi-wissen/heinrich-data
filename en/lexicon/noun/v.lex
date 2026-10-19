@@ -153,6 +153,7 @@ visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
 vivacity noun pl=- note=uncountable
+vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
 vocabulary    noun

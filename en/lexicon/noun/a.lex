@@ -85,6 +85,7 @@ acquittal noun
 acre noun
 acreage noun
 acronym noun
+acropolis noun
 acrylamide noun pl=- note=uncountable
 act noun
 action noun
@@ -297,6 +298,8 @@ amendment noun
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
+amiability noun pl=- note=uncountable
+amine noun
 amity noun pl=- note=uncountable
 ammonia noun pl=- note=uncountable
 ammonium noun pl=- note=uncountable
@@ -382,6 +385,7 @@ antibody noun
 antic noun note=mostly plural antics
 anticipation noun
 antidote noun
+antigen noun
 antimicrobial noun
 antipathy noun
 antiquarian noun
@@ -452,6 +456,7 @@ Arab noun
 Arabic noun pl=- note=the language
 arbitration noun
 arbitrator noun
+arbor noun gb=arbour
 arboretum noun pl=arboreta|arboretums
 arc noun
 arcade noun
@@ -613,6 +618,7 @@ augmentation noun
 aunt noun
 auntie noun
 aunty noun conf=90 note=also auntie
+aura noun
 aurora noun pl=auroras|aurorae
 auspices noun pl_only
 austerity noun

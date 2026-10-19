@@ -313,6 +313,7 @@ shallow noun
 sham noun
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
+shamrock noun
 shanty noun
 shape noun
 share noun
@@ -621,6 +622,7 @@ songwriter noun
 songwriting noun pl=- note=uncountable
 sonnet noun
 soot noun pl=- note=uncountable
+sooth noun pl=- style=archaic note=archaic, chiefly in in sooth
 sophistication noun
 sophomore noun
 soprano noun note=plural sopranos
@@ -641,6 +643,7 @@ source noun
 south noun pl=- note=compass point
 southeast noun pl=- note=compass point
 southerner noun
+southpaw noun
 southwest noun pl=- note=compass point
 souvenir noun
 sovereign noun
@@ -651,6 +654,7 @@ spa noun
 space noun
 spacecraft noun pl=spacecraft
 spaceflight noun
+spaceship noun
 spacing noun
 spade noun
 spadefoot noun
@@ -822,6 +826,7 @@ station noun
 stationer noun
 stationery noun pl=- note=uncountable
 statistic noun
+statistician noun
 statuary noun pl=- note=uncountable
 statue noun
 stature noun
@@ -858,6 +863,7 @@ sterility noun pl=- note=uncountable
 sterilization noun gb=sterilisation|sterilization
 sterling noun pl=- note=British currency
 stern noun
+sternness noun pl=- note=uncountable
 sternum noun pl=sternums|sterna
 steroid noun
 stew noun
@@ -869,6 +875,7 @@ sticker noun
 stiffness noun
 stigma noun pl=stigmas|stigmata
 stile noun
+stiletto noun pl=stilettos|stilettoes
 stillness noun
 stimulant noun
 stimulation noun
@@ -1115,6 +1122,7 @@ suspension noun
 suspicion noun
 sustainability noun pl=- note=uncountable
 sustenance noun pl=- note=uncountable
+sutra noun
 suture noun
 swain noun
 swallow noun

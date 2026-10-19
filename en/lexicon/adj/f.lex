@@ -27,6 +27,7 @@ fat            adj cmp=er
 fatal          adj adv=fatally
 fated adj
 fateful adj adv=fatefully
+fatherly adj
 fatty adj cmp=er
 faulty adj cmp=er|more
 faunal adj
@@ -144,6 +145,7 @@ frenzied adj
 frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
+fricative adj
 frictionless adj
 friendless adj
 friendly       adj cmp=er

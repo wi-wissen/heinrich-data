@@ -74,6 +74,7 @@ generation     noun
 generator      noun
 generosity     noun note=plural generosities: acts of generosity
 genesis noun pl=geneses
+geneticist noun
 genetics noun pl=- note=uncountable
 genie noun pl=genies|genii
 genital noun

@@ -123,7 +123,7 @@ short adj cmp=er adv=shortly
 showery adj
 showy adj cmp=er
 shrewd adj cmp=er adv=shrewdly
-shrill adj cmp=er
+shrill adj cmp=er adv=shrilly
 shy adj cmp=shyer|shier sup=shyest|shiest adv=shyly
 Siberian adj
 Sicilian adj
