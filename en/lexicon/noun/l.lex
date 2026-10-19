@@ -20,6 +20,7 @@ lag noun
 lagoon        noun
 lair noun
 laird noun
+laity noun pl=- note=collective noun
 lake          noun
 lakeside noun
 lamb          noun
@@ -29,6 +30,7 @@ lamentation noun
 lamina noun pl=laminae|laminas
 lamp          noun
 lance noun
+lancer noun
 land          noun
 lander noun
 landfall      noun
@@ -126,6 +128,8 @@ lefty noun style=colloquial
 leg           noun
 legacy        noun
 legality noun
+legate noun
+legation noun
 legend        noun
 leggings noun pl_only
 legion        noun
@@ -159,6 +163,7 @@ letterhead noun
 lettering noun pl=- note=uncountable
 lettuce noun
 leukemia noun gb=leukaemia pl=- note=uncountable
+leukoplakia noun pl=- note=uncountable
 levee noun
 level         noun
 lever noun
@@ -275,6 +280,7 @@ LNG           noun abbr pl=- note=liquefied natural gas
 LOA           noun abbr conf=85 note=letter of authorization
 load          noun
 loaf noun pl=loaves
+loam noun pl=- note=uncountable
 loan          noun
 loanword noun
 lobby         noun
@@ -304,6 +310,7 @@ loft noun
 log           noun
 logarithm noun
 logbook noun
+loggia noun
 logic         noun
 login noun
 logistics     noun pl=- note=uncountable
@@ -320,6 +327,7 @@ longitude noun
 longline noun
 loo noun region=GB style=colloquial note=toilet
 look          noun
+look-alike noun note=also written lookalike
 lookback noun conf=85 note=mostly attributive: lookback period
 lookout noun
 lookup noun
@@ -352,6 +360,7 @@ luggage       noun pl=- note=uncountable
 lugger noun
 lull noun
 lumber        noun pl=- note=uncountable (timber)
+lumberman noun pl=lumbermen
 luminosity noun
 lump          noun
 lunatic noun

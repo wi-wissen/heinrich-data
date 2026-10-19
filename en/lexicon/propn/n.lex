@@ -11,6 +11,7 @@ NASCAR         propn abbr note=US stock car racing association
 Nasdaq         propn note=US stock exchange
 Nashville      propn
 Nassau         propn
+Nativity propn note=the birth of Jesus
 NATO           propn abbr note=North Atlantic Treaty Organization
 Navarre propn
 NBA            propn abbr note=National Basketball Association

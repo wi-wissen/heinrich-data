@@ -5,6 +5,7 @@ garlicky adj
 gaseous adj
 gastric adj
 gastrointestinal adj
+gated adj
 gaudy adj cmp=er
 gaunt adj cmp=er
 gay            adj cmp=er
@@ -31,6 +32,7 @@ geologic adj
 geological     adj adv=geologically
 geometric      adj adv=geometrically
 geometrical adj adv=geometrically
+geophysical adj
 geopolitical adj
 Georgian       adj
 geothermal adj
@@ -60,6 +62,7 @@ glossy adj cmp=er
 gloved adj
 glycidic adj conf=90 note=chemistry (glycidic ester)
 gnarled adj
+godly adj cmp=er|more
 golden         adj
 good           adj cmp=better sup=best adv=well
 good-natured adj cmp=more adv=good-naturedly
@@ -80,6 +83,7 @@ graphical adj
 grassroots     adj
 grassy adj cmp=er
 grateful       adj cmp=more adv=gratefully
+gratuitous adj adv=gratuitously
 grave          adj cmp=er adv=gravely
 gravitational adj
 gray           adj cmp=er gb=grey

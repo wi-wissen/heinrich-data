@@ -45,6 +45,7 @@ maximize      verb gb=maximise|maximize
 mean          verb past=meant pp=meant
 meander verb
 measure       verb
+mechanize verb gb=mechanise|mechanize
 meddle verb
 mediate verb
 meditate verb

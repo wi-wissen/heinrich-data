@@ -27,6 +27,7 @@ imply          verb
 import         verb
 impose         verb
 impoverish verb
+impregnate verb
 impress        verb
 imprint verb
 imprison       verb
@@ -113,6 +114,7 @@ interdict verb
 interest       verb
 interfere      verb
 interlock verb
+intermingle verb
 intern verb
 interpose      verb
 interpret      verb

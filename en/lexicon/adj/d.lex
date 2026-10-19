@@ -11,6 +11,7 @@ daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
 darling adj
 dastardly adj cmp=more
+dative adj
 daunting adj cmp=more adv=dauntingly
 day-to-day adj
 dazzling adj cmp=more adv=dazzlingly
@@ -35,6 +36,7 @@ deductive adj adv=deductively
 deep adj cmp=er adv=deeply
 defective adj
 defenseless adj gb=defenceless
+defensible adj
 defensive adj adv=defensively
 defiant adj adv=defiantly
 deficient adj
@@ -80,6 +82,7 @@ desirous adj
 desolate adj adv=desolately
 desperate adj cmp=more adv=desperately
 despicable adj cmp=more adv=despicably
+despondent adj adv=despondently
 despotic adj
 destined adj
 destitute adj
@@ -96,6 +99,7 @@ detrimental adj adv=detrimentally
 devastating adj cmp=more adv=devastatingly
 developmental adj adv=developmentally
 devilish adj
+devious adj cmp=more adv=deviously
 devoid adj pred_only
 devoted adj cmp=more adv=devotedly
 devotional adj
@@ -106,6 +110,8 @@ diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
 diagonal adj adv=diagonally
+dictatorial adj
+didactic adj cmp=more adv=didactically
 dielectric adj
 dietary adj
 different adj cmp=more adv=differently
@@ -131,6 +137,7 @@ directional adj
 directorial adj
 dirty adj cmp=er adv=dirtily
 disadvantaged adj cmp=more
+disaffected adj
 disagreeable adj adv=disagreeably
 disappointed adj cmp=more
 disastrous adj adv=disastrously
@@ -164,10 +171,12 @@ dispositive adj conf=90 note=legal register
 disproportionate adj adv=disproportionately
 disquieting adj cmp=more adv=disquietingly
 disreputable adj cmp=more
+disrespectful adj adv=disrespectfully
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
 dissimilar adj cmp=more
+distal adj
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
 distinct adj cmp=more adv=distinctly
@@ -176,11 +185,13 @@ distinguishable adj
 distinguished adj cmp=more
 distraught adj
 distressed adj cmp=more
+distributional adj
 distributive adj
 disused adj
 diurnal adj
 divergent adj
 diverse adj cmp=more adv=diversely
+diversionary adj
 divine adj cmp=more adv=divinely
 divisional adj
 divisive adj cmp=more
@@ -193,6 +204,7 @@ dodgy adj cmp=er region=GB
 dogged adj cmp=more adv=doggedly
 dogmatic adj
 doleful adj
+domed adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
 Dominican adj

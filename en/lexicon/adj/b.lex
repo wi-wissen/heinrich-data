@@ -10,6 +10,7 @@ balmy adj cmp=er adv=balmily
 Baltic adj
 bankable adj
 bankrupt adj
+baptismal adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
 barbed adj
@@ -20,6 +21,7 @@ bareheaded adj
 baroque adj
 barren adj cmp=more
 basal adj
+bashful adj adv=bashfully
 basic adj adv=basically
 Basque adj
 Bavarian adj
@@ -31,6 +33,7 @@ behavioral adj gb=behavioural
 beige adj
 Belarusian adj
 belated adj adv=belatedly
+beleaguered adj
 Belgian adj
 belligerent adj adv=belligerently cmp=more
 beloved adj
@@ -79,8 +82,10 @@ blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
+blissful adj adv=blissfully
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
+blooded adj note=mostly in compounds: cold-blooded, warm-blooded, blue-blooded
 bloodless adj adv=bloodlessly
 bloodthirsty adj cmp=er|more
 bloody adj cmp=er
@@ -88,6 +93,7 @@ blue adj cmp=er
 bluish adj
 blunt adj cmp=er adv=bluntly
 blustery adj
+bodied adj note=mostly in compounds: able-bodied, full-bodied
 bodily adj
 bogus adj
 Bohemian adj
@@ -121,7 +127,9 @@ brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
+brotherly adj
 brown adj cmp=er
+brownish adj
 brutal adj cmp=more adv=brutally
 bubbly adj cmp=er
 Buddhist adj

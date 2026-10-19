@@ -7,6 +7,7 @@ fail           verb
 faint          verb
 fake           verb
 fall           verb past=fell pp=fallen
+falsify verb
 falter         verb
 fan            verb
 fancy          verb
@@ -22,6 +23,7 @@ fathom verb
 fatigue verb
 fault          verb
 favor          verb gb=favour
+fawn verb
 fax            verb
 fear           verb
 feast          verb

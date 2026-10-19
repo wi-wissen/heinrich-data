@@ -6,6 +6,7 @@ halve verb
 hammer         verb
 hamper verb
 hand           verb
+handcuff verb
 handicap verb double
 handle         verb
 hang           verb past=hanged pp=hanged sense=execute note=put to death by hanging
@@ -61,6 +62,7 @@ hitch verb
 hive verb
 hoard verb
 hoax verb
+hobble verb
 hoist verb
 hold           verb past=held pp=held
 holiday        verb

@@ -55,6 +55,7 @@ wiry adj cmp=er
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily
+woeful adj adv=woefully
 womanly adj cmp=more
 wonderful adj cmp=more adv=wonderfully
 wondering adj adv=wonderingly

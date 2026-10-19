@@ -16,6 +16,7 @@ Co. x abbr note=company
 Col. x abbr note=colonel
 coli x foreign note=only in E. coli
 comme x foreign note=only in comme il faut
+comte x foreign note=French title (count)
 condita x foreign note=only in ab urbe condita
 Copa x foreign conf=90 note=in Copa América, Copa del Rey
 Corp. x abbr note=corporation

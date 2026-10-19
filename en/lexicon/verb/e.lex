@@ -35,6 +35,8 @@ embezzle verb
 embitter verb
 emblazon verb
 embody verb
+embolden verb
+emboss verb
 embrace verb
 embroider verb
 embroil verb
@@ -70,6 +72,7 @@ endow verb
 endure verb
 enforce verb
 engage verb
+engender verb
 engineer verb
 engrave verb
 engross verb
@@ -93,6 +96,7 @@ entail verb
 entangle verb
 enter verb
 entertain verb
+enthrone verb
 entice verb
 entitle verb
 entrance verb note=to enchant (entranced)
@@ -117,6 +121,7 @@ escalate verb
 escape verb
 escort verb
 espouse verb
+essay verb note=to attempt
 establish verb
 esteem verb
 estimate verb

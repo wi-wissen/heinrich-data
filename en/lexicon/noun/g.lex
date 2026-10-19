@@ -43,7 +43,9 @@ garnet noun
 garnishment noun
 garret noun
 garrison       noun
+garter noun
 gas            noun pl=gases
+gasification noun pl=- note=uncountable
 gasoline       noun pl=- note=uncountable
 gasp           noun
 gate           noun
@@ -51,6 +53,7 @@ gatekeeper noun
 gateway        noun
 gathering      noun
 gauge          noun
+gauger noun
 gauntlet noun
 gauze noun
 gay            noun
@@ -80,11 +83,13 @@ geneticist noun
 genetics noun pl=- note=uncountable
 genie noun pl=genies|genii
 genital noun
+genitalia noun pl_only
 genitive noun
 genius         noun pl=geniuses
 genocide       noun
 Genoese noun pl=Genoese
 genome         noun
+genotype noun
 genre          noun
 gent noun
 gentleman      noun pl=gentlemen
@@ -140,6 +145,7 @@ glen           noun
 glider noun
 glimmer noun
 glimpse        noun
+glint noun
 glitch noun
 glitter        noun
 globalization noun gb=globalisation|globalization
@@ -184,6 +190,7 @@ gooseberry noun
 gore noun
 gorge          noun
 gorilla noun
+gorse noun pl=- note=uncountable
 gosling noun
 gospel         noun
 gossip         noun
@@ -223,6 +230,7 @@ grandeur       noun pl=- note=uncountable
 grandfather    noun
 grandkid noun style=colloquial
 grandma noun
+grandmaster noun
 grandmother    noun
 grandpa noun
 grandparent    noun
@@ -275,6 +283,7 @@ gridlock noun
 grief          noun note=plural griefs
 grievance      noun
 grille noun
+grimace noun
 grin           noun
 grind          noun
 grip           noun
@@ -287,6 +296,7 @@ grocer noun
 grocery        noun
 groom noun
 groove noun
+grotto noun pl=grottoes|grottos
 ground         noun
 groundfish noun pl=groundfish
 groundwater    noun pl=- note=uncountable
@@ -331,6 +341,7 @@ gunboat noun
 gunfire noun pl=- note=uncountable
 gunman noun pl=gunmen
 gunner noun
+gunnery noun pl=- note=uncountable
 gunpowder noun
 gunshot noun
 gunwale noun

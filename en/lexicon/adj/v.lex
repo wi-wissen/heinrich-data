@@ -14,6 +14,7 @@ vascular adj
 vast          adj cmp=er adv=vastly
 vegan adj
 vegetarian adj
+vegetative adj
 vehement adj adv=vehemently
 vehicular adj
 venerable     adj
@@ -75,5 +76,6 @@ volumetric adj
 voluminous adj cmp=more
 voluntary     adj adv=voluntarily
 voluptuous adj
+votive adj
 vulgar        adj cmp=more adv=vulgarly
 vulnerable    adj cmp=more

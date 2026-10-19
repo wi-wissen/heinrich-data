@@ -101,6 +101,7 @@ actuality noun
 actuary noun
 acuity noun
 acumen noun pl=- note=uncountable
+acuteness noun pl=- note=uncountable
 ad noun
 adaptability noun pl=- note=uncountable
 adaptation noun
@@ -147,6 +148,7 @@ adolescent noun
 adopter noun
 adoption noun
 adoration noun pl=- note=uncountable
+adornment noun
 adult noun
 adultery noun pl=- note=uncountable
 adulthood noun pl=- note=uncountable
@@ -193,6 +195,7 @@ African noun
 afterlife noun pl=afterlives
 aftermath noun
 afternoon noun
+afterthought noun
 age noun
 agency noun
 agenda noun
@@ -201,6 +204,7 @@ aggregate noun
 aggregation noun
 aggregator noun
 aggression noun
+aggressor noun
 agility noun pl=- note=uncountable
 agitation noun
 AGM noun abbr note=annual general meeting
@@ -233,6 +237,7 @@ airship noun
 airspace noun
 airspeed noun
 airstrike noun
+airstrip noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
@@ -403,6 +408,7 @@ antisemitism noun pl=- note=uncountable
 antivirus noun
 antler noun
 anus noun
+anvil noun
 anxiety noun
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartheid noun pl=- note=uncountable
@@ -462,6 +468,7 @@ aqueduct noun
 aquifer noun
 Arab noun
 Arabic noun pl=- note=the language
+arbiter noun
 arbitration noun
 arbitrator noun
 arbor noun gb=arbour
@@ -495,6 +502,7 @@ aristocrat noun
 arithmetic noun pl=- note=uncountable
 ark noun
 arm noun
+armada noun
 armadillo noun pl=armadillos
 armament noun
 armchair noun
@@ -668,10 +676,12 @@ average noun
 aversion noun
 aviation noun pl=- note=uncountable
 aviator noun
+avionics noun pl=- note=uncountable
 avocado noun pl=avocados
 avoidance noun pl=- note=uncountable
 avowal noun
 award noun
+awardee noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable
 awkwardness noun

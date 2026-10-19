@@ -5,7 +5,9 @@ severally adv note=legal register: jointly and severally
 sidelong adv type=manner
 sideways adv
 smilingly adv type=manner
+someday adv type=time
 somehow adv type=manner
+someplace adv type=place
 sometime adv type=time
 sometimes adv type=frequency
 somewhat adv type=degree

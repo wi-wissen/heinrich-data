@@ -34,6 +34,7 @@ notify        verb
 nourish verb
 nuance verb
 nullify verb
+numb verb
 number        verb
 nurse         verb
 nurture verb

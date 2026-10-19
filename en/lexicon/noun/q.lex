@@ -36,6 +36,7 @@ queue noun
 quickness noun pl=- note=uncountable
 quid noun pl=quid|quids note=quid (money) has plural quid, quids for tobacco
 quiet         noun pl=- note=uncountable
+quietness noun pl=- note=uncountable
 quill noun
 quilt noun
 quinone noun

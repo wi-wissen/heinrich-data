@@ -126,6 +126,7 @@ villa         noun
 village       noun
 villager      noun
 villain       noun
+vindication noun
 vine          noun
 vinegar noun
 vineyard noun
