@@ -107,6 +107,7 @@ Abteilung     noun g=f gen=Abteilung pl=Abteilungen
 Abtreibung noun g=f gen=Abtreibung pl=Abtreibungen
 Abtretung noun g=f gen=Abtretung pl=Abtretungen
 Abwägung noun g=f gen=Abwägung pl=Abwägungen
+Abwandlung noun g=f gen=Abwandlung pl=Abwandlungen
 Abwasch noun g=m gen=Abwaschs|Abwasches pl=- note=mass noun
 Abwasser noun g=n gen=Abwassers pl=Abwässer
 Abwechslung noun g=f gen=Abwechslung pl=Abwechslungen
@@ -124,6 +125,7 @@ Achsel noun g=f gen=Achsel pl=Achseln
 Acht noun g=f gen=Acht pl=Achten note=die Acht (digit); also in Acht nehmen, Acht geben
 Achter noun g=m gen=Achters pl=Achter note=rowing boat; figure eight
 Achtung noun g=f gen=Achtung pl=- note=mass noun
+Ächtung noun g=f gen=Ächtung pl=Ächtungen
 Acker noun g=m gen=Ackers pl=Äcker
 Ackerbau noun g=m gen=Ackerbaus|Ackerbaues pl=- note=no plural
 Action noun g=f gen=Action pl=- note=English loan; no plural
@@ -219,9 +221,12 @@ Aktivistin noun g=f gen=Aktivistin pl=Aktivistinnen
 Aktivität     noun g=f gen=Aktivität pl=Aktivitäten
 Aktualisierung noun g=f gen=Aktualisierung pl=Aktualisierungen
 Aktualität noun g=f gen=Aktualität pl=Aktualitäten
+Akustik noun g=f gen=Akustik pl=- note=mass noun
 Akzent noun g=m gen=Akzents|Akzentes pl=Akzente
 Akzeptanz noun g=f gen=Akzeptanz pl=- note=mass noun
 Alarm noun g=m gen=Alarms|Alarmes pl=Alarme
+Albaner noun g=m gen=Albaners pl=Albaner
+Albanerin noun g=f gen=Albanerin pl=Albanerinnen
 Albatros noun g=m gen=Albatrosses pl=Albatrosse
 Albedo noun g=f gen=Albedo pl=- note=physics term
 Albtraum noun g=m gen=Albtraums|Albtraumes pl=Albträume
@@ -297,6 +302,7 @@ Analytik noun g=f gen=Analytik pl=- note=mass noun
 Ananas noun g=f gen=Ananas pl=Ananas|Ananasse
 Anapäst noun g=m gen=Anapästs|Anapästes pl=Anapäste
 Anapher noun g=f gen=Anapher pl=Anaphern
+Anarchie noun g=f gen=Anarchie pl=Anarchien
 Anarchist noun g=m gen=Anarchisten pl=Anarchisten
 Anatomie noun g=f gen=Anatomie pl=Anatomien
 Anbau noun g=m gen=Anbaus|Anbaues pl=Anbauten note=cultivation (mass) and extension of a building (Anbauten)
@@ -339,6 +345,7 @@ Angleichung noun g=f gen=Angleichung pl=Angleichungen
 Angler noun g=m gen=Anglers pl=Angler
 Anglerin noun g=f gen=Anglerin pl=Anglerinnen
 Anglist noun g=m gen=Anglisten pl=Anglisten
+Anglistik noun g=f gen=Anglistik pl=- note=academic discipline
 Anglizismus noun g=m gen=Anglizismus pl=Anglizismen note=no genitive ending
 Angreifer noun g=m gen=Angreifers pl=Angreifer
 Angreiferin noun g=f gen=Angreiferin pl=Angreiferinnen
@@ -356,6 +363,7 @@ Anhieb noun g=m gen=Anhieb|Anhiebs pl=- note=only in auf Anhieb
 Anhöhe noun g=f gen=Anhöhe pl=Anhöhen
 Anhörung      noun g=f gen=Anhörung pl=Anhörungen
 Animation noun g=f gen=Animation pl=Animationen
+Anion noun g=n gen=Anions pl=Anionen
 Anker noun g=m gen=Ankers pl=Anker
 Anklage noun g=f gen=Anklage pl=Anklagen
 Ankündigung noun g=f gen=Ankündigung pl=Ankündigungen
@@ -382,6 +390,7 @@ Annahme       noun g=f gen=Annahme pl=Annahmen
 Annalen noun g=pl
 Annexion noun g=f gen=Annexion pl=Annexionen
 Anomalie noun g=f gen=Anomalie pl=Anomalien
+Anonymität noun g=f gen=Anonymität pl=- note=mass noun
 Anorak noun g=m gen=Anoraks pl=Anoraks
 Anordnung     noun g=f gen=Anordnung pl=Anordnungen
 Anpassung     noun g=f gen=Anpassung pl=Anpassungen
@@ -499,6 +508,7 @@ Arbeitsuchende noun g=m|f decl=adj note=also Arbeitssuchende
 Archäologe noun g=m gen=Archäologen pl=Archäologen
 Archäologie noun g=f gen=Archäologie pl=- note=no plural
 Archäologin noun g=f gen=Archäologin pl=Archäologinnen
+Arche noun g=f gen=Arche pl=Archen
 Archipel noun g=m gen=Archipels pl=Archipele
 Architekt     noun g=m gen=Architekten pl=Architekten
 Architektin noun g=f gen=Architektin pl=Architektinnen
@@ -515,7 +525,9 @@ Argument noun g=n gen=Arguments|Argumentes pl=Argumente
 Argumentation noun g=f gen=Argumentation pl=Argumentationen
 Argwohn noun g=m gen=Argwohns pl=- note=no plural
 Arie noun g=f gen=Arie pl=Arien
+Aristokrat noun g=m gen=Aristokraten pl=Aristokraten
 Aristokratie noun g=f gen=Aristokratie pl=Aristokratien
+Aristokratin noun g=f gen=Aristokratin pl=Aristokratinnen
 Arithmetik noun g=f gen=Arithmetik pl=- note=no plural
 Arkade noun g=f gen=Arkade pl=Arkaden
 Arktis noun g=f gen=Arktis pl=- note=no plural
@@ -551,8 +563,10 @@ Aschermittwoch noun g=m gen=Aschermittwochs pl=Aschermittwoche
 Asiat noun g=m gen=Asiaten pl=Asiaten
 Asiatin noun g=f gen=Asiatin pl=Asiatinnen
 Asienmeisterschaft noun g=f gen=Asienmeisterschaft pl=Asienmeisterschaften note=compound with a proper name as first part
+Asienspiele noun g=pl note=Asian Games; plurale tantum
 Aspekt noun g=m gen=Aspekts|Aspektes pl=Aspekte
 Asphalt noun g=m gen=Asphalts|Asphaltes pl=Asphalte
+Ass noun g=n gen=Asses pl=Asse
 Assel noun g=f gen=Assel pl=Asseln
 Assessment-Center noun g=n gen=Assessment-Centers pl=Assessment-Center
 Assessor noun g=m gen=Assessors pl=Assessoren
@@ -581,9 +595,11 @@ Athletin noun g=f gen=Athletin pl=Athletinnen
 Atlas noun g=m gen=Atlas|Atlasses pl=Atlanten|Atlasse
 Atmosphäre noun g=f gen=Atmosphäre pl=Atmosphären
 Atmung noun g=f gen=Atmung pl=- note=no plural
+Atoll noun g=n gen=Atolls pl=Atolle
 Atom noun g=n gen=Atoms pl=Atome
 Atomkraft noun g=f gen=Atomkraft pl=- note=no plural
 Atommüll noun g=m gen=Atommülls pl=- note=no plural
+Atrium noun g=n gen=Atriums pl=Atrien
 Attacke noun g=f gen=Attacke pl=Attacken
 Attentat noun g=n gen=Attentats|Attentates pl=Attentate
 Attentäter noun g=m gen=Attentäters pl=Attentäter
@@ -598,6 +614,7 @@ Audienz noun g=f gen=Audienz pl=Audienzen
 Audit noun g=n|m gen=Audits pl=Audits
 Auditor noun g=m gen=Auditors pl=Auditoren
 Auditorin noun g=f gen=Auditorin pl=Auditorinnen
+Auditorium noun g=n gen=Auditoriums pl=Auditorien
 Aue noun g=f gen=Aue pl=Auen
 Auerhahn noun g=m gen=Auerhahns pl=Auerhähne
 Auerochse noun g=m gen=Auerochsen pl=Auerochsen
@@ -614,6 +631,7 @@ Aufforstung noun g=f gen=Aufforstung pl=Aufforstungen
 Aufführung noun g=f gen=Aufführung pl=Aufführungen
 Aufgabe       noun g=f gen=Aufgabe pl=Aufgaben
 Aufgebot noun g=n gen=Aufgebots|Aufgebotes pl=Aufgebote
+Aufguss noun g=m gen=Aufgusses pl=Aufgüsse
 Aufhebung     noun g=f gen=Aufhebung pl=Aufhebungen
 Aufklärer noun g=m gen=Aufklärers pl=Aufklärer
 Aufklärung    noun g=f gen=Aufklärung pl=Aufklärungen[rare]
@@ -717,6 +735,7 @@ Ausnahmefall noun g=m gen=Ausnahmefalls|Ausnahmefalles pl=Ausnahmefälle
 Ausprägung noun g=f gen=Ausprägung pl=Ausprägungen
 Ausreise noun g=f gen=Ausreise pl=Ausreisen
 Ausrichtung noun g=f gen=Ausrichtung pl=Ausrichtungen
+Ausrüster noun g=m gen=Ausrüsters pl=Ausrüster
 Ausrüstung noun g=f gen=Ausrüstung pl=Ausrüstungen
 Aussage       noun g=f gen=Aussage pl=Aussagen
 Ausscheiden noun g=n gen=Ausscheidens pl=- note=lexicalised nominal infinitive: leaving office, elimination
@@ -771,6 +790,7 @@ Autobahn noun g=f gen=Autobahn pl=Autobahnen
 Autodidakt noun g=m gen=Autodidakten pl=Autodidakten
 Automat noun g=m gen=Automaten pl=Automaten
 Automatisierung noun g=f gen=Automatisierung pl=Automatisierungen
+Automatismus noun g=m gen=Automatismus pl=Automatismen note=no genitive ending
 Automobil noun g=n gen=Automobils pl=Automobile
 Autonomie noun g=f gen=Autonomie pl=Autonomien
 Autor         noun g=m gen=Autors pl=Autoren

@@ -5,6 +5,7 @@ eagle noun
 ear noun
 earache noun
 earl noun
+earldom noun
 earlobe noun
 earmark noun
 earmuff noun
@@ -13,8 +14,10 @@ earnestness noun pl=- note=uncountable
 earnings noun pl_only
 earphone noun
 earring noun
+earshot noun pl=- note=uncountable
 eartag noun conf=90 note=agricultural spelling of ear tag
 earth noun
+earthenware noun pl=- note=uncountable
 earthquake noun
 earthwork noun
 earthworm noun
@@ -49,6 +52,7 @@ edifice noun
 edition noun
 editor noun
 editorial noun
+editorship noun
 education noun
 educator noun
 eel noun
@@ -59,6 +63,9 @@ efficiency noun
 effigy noun
 effluent noun
 effort noun
+effrontery noun pl=- note=uncountable
+effusion noun
+egalitarian noun
 egg noun
 eggplant noun region=US note=British aubergine
 ego noun pl=egos
@@ -66,6 +73,7 @@ egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
+eigenvalue noun
 EIS noun abbr note=environmental impact statement
 ejaculation noun
 ejection noun
@@ -107,6 +115,7 @@ email noun
 emancipation noun
 embankment noun
 embargo noun pl=embargoes
+embarkation noun
 embarrassment noun
 embassy noun
 ember noun
@@ -122,8 +131,10 @@ emergency noun
 emigrant noun
 emigration noun
 eminence noun
+emirate noun
 emissary noun
 emission noun
+emitter noun
 emoji noun pl=emojis|emoji
 emolument noun
 emoticon noun
@@ -132,6 +143,7 @@ empathy noun
 emperor noun
 emphasis noun pl=emphases
 empire noun
+employability noun pl=- note=uncountable
 employee noun
 employer noun
 employment noun
@@ -231,6 +243,7 @@ epistle noun
 epitaph noun
 epithelium noun pl=epithelia
 epithet noun
+epitome noun
 epoch noun pl=epochs
 equal noun
 equality noun
@@ -253,6 +266,7 @@ eraser noun
 erasure noun
 erection noun
 ergonomics noun pl_only conf=90 note=construed as singular
+ermine noun pl=ermine|ermines
 erosion noun pl=- note=uncountable
 errand noun
 error noun
@@ -278,6 +292,7 @@ estimate noun
 estimation noun
 Estonian noun
 estradiol noun pl=- note=a hormone; British also oestradiol
+estrangement noun
 estrogen noun gb=oestrogen conf=90 note=oestrogen is the British spelling; estrogen also occurs in British texts
 estuary noun
 etching noun
@@ -295,7 +310,9 @@ etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
 eugenics noun pl=- note=uncountable, singular agreement
+eukaryote noun
 eulogy noun
+eunuch noun pl=eunuchs
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun
@@ -327,6 +344,7 @@ examiner noun
 example noun
 exasperation noun pl=- note=uncountable
 excavation noun
+exceedance noun conf=90 note=technical: an instance of exceeding a limit
 excellence noun
 excellency noun
 exception noun
@@ -357,6 +375,7 @@ exhibit noun
 exhibition noun
 exhibitor noun
 exhilaration noun pl=- note=uncountable
+exigency noun
 exile noun
 existence noun
 exit noun
@@ -364,6 +383,7 @@ exodus noun
 exogamy noun pl=- note=uncountable
 expanse noun
 expansion noun
+expansionist noun
 expatriate noun
 expectancy noun
 expectation noun
@@ -404,6 +424,7 @@ exterior noun
 extermination noun
 externality noun
 extinction noun
+extinguishment noun
 extortion noun pl=- note=uncountable
 extra noun
 extract noun

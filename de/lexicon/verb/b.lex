@@ -1,6 +1,7 @@
 backen verb class=strong 3sg=bäckt|backt past=backte|buk[archaic] pp=gebacken subj2=backte|büke[archaic] perf=haben
 baden verb class=weak pp=gebadet perf=haben refl=acc
 balgen verb class=weak pp=gebalgt perf=haben refl=acc
+ballen verb class=weak pp=geballt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
 bändigen verb class=weak pp=gebändigt perf=haben
@@ -37,6 +38,7 @@ beeindrucken verb class=weak pp=beeindruckt perf=haben part1_cmp
 beeinflussen verb class=weak pp=beeinflusst perf=haben
 beeinträchtigen verb class=weak pp=beeinträchtigt perf=haben
 beenden       verb class=weak pp=beendet perf=haben
+beendigen verb class=weak pp=beendigt perf=haben
 beerdigen verb class=weak pp=beerdigt perf=haben
 befähigen verb class=weak pp=befähigt perf=haben
 befahren verb class=strong 3sg=befährt past=befuhr pp=befahren subj2=beführe perf=haben
@@ -51,6 +53,7 @@ befolgen verb class=weak pp=befolgt perf=haben
 befördern     verb class=weak pp=befördert perf=haben
 befragen verb class=weak pp=befragt perf=haben
 befreien verb class=weak refl=acc pp=befreit perf=haben
+befremden verb class=weak pp=befremdet perf=haben
 befreunden verb class=weak refl=acc pp=befreundet perf=haben
 befriedigen verb class=weak pp=befriedigt perf=haben
 befristen verb class=weak pp=befristet perf=haben
@@ -81,6 +84,7 @@ begutachten verb class=weak pp=begutachtet perf=haben
 behagen verb class=weak pp=behagt perf=haben
 behalten      verb class=strong 3sg=behält past=behielt pp=behalten subj2=behielte perf=haben
 behandeln     verb class=weak pp=behandelt perf=haben
+beharren verb class=weak pp=beharrt perf=haben
 behaupten     verb class=weak pp=behauptet perf=haben
 beheben verb class=strong 3sg=behebt past=behob pp=behoben subj2=behöbe perf=haben
 beheimaten verb class=weak pp=beheimatet perf=haben
@@ -220,6 +224,7 @@ besingen verb class=strong 3sg=besingt past=besang subj2=besänge pp=besungen pe
 besinnen verb class=strong 3sg=besinnt past=besann pp=besonnen subj2=besänne|besönne perf=haben refl=acc
 besitzen      verb class=strong 3sg=besitzt past=besaß pp=besessen subj2=besäße perf=haben
 besorgen verb class=weak pp=besorgt perf=haben
+bespannen verb class=weak pp=bespannt perf=haben
 bespitzeln verb class=weak pp=bespitzelt perf=haben
 besprechen verb class=strong 3sg=bespricht past=besprach pp=besprochen subj2=bespräche perf=haben
 bespritzen verb class=weak pp=bespritzt perf=haben
@@ -229,6 +234,7 @@ bestätigen    verb class=weak pp=bestätigt perf=haben
 bestatten verb class=weak pp=bestattet perf=haben
 bestäuben verb class=weak pp=bestäubt perf=haben
 bestaunen verb class=weak pp=bestaunt perf=haben
+bestechen verb class=strong 3sg=besticht past=bestach pp=bestochen subj2=bestäche perf=haben
 bestehen      verb class=strong 3sg=besteht past=bestand pp=bestanden subj2=bestünde|bestände perf=haben
 bestehlen verb class=strong 3sg=bestiehlt past=bestahl pp=bestohlen subj2=bestähle|bestöhle perf=haben
 besteigen verb class=strong 3sg=besteigt past=bestieg pp=bestiegen subj2=bestiege perf=haben

@@ -1,10 +1,12 @@
 Oberhausen propn g=n gen=Oberhausens pl=- note=proper name; no plural
+Oberitalien propn g=n gen=Oberitaliens pl=- note=proper name; no plural
 Oberösterreich propn g=n gen=Oberösterreichs pl=- note=proper name; no plural
 Oberpfalz propn g=f gen=Oberpfalz pl=- demonym=Oberpfälzer note=die Oberpfalz
 Oberrhein propn g=m gen=Oberrheins pl=- note=proper name, no plural
 Oberschlesien propn g=n gen=Oberschlesiens pl=- note=proper name; no plural
 OECD propn g=f gen=OECD pl=- note=die OECD
 Ohio propn g=n gen=Ohios pl=- note=proper name; no plural
+Ohligs propn g=n gen=Ohligs pl=- note=proper name; part of Solingen; bare genitive
 Oklahoma propn g=n gen=Oklahomas pl=- note=proper name; no plural
 Oldenburg propn g=n gen=Oldenburgs pl=- note=proper name; no plural
 Olpe propn g=n gen=Olpes pl=- note=proper name; no plural

@@ -1,6 +1,8 @@
 fabled adj
 fabulous adj adv=fabulously
+facetious adj adv=facetiously
 facial         adj
+facile adj cmp=more adv=facilely
 factual        adj adv=factually
 faint          adj cmp=er adv=faintly
 fair           adj cmp=er adv=fairly
@@ -17,6 +19,7 @@ fanatical adj cmp=more adv=fanatically
 fanciful adj
 fancy          adj cmp=er
 fantastic      adj adv=fantastically
+fantastical adj
 far            adj cmp=farther|further sup=farthest|furthest
 fascinating    adj cmp=more adv=fascinatingly
 fascist adj
@@ -70,7 +73,7 @@ filthy adj cmp=er
 final          adj adv=finally
 financial      adj adv=financially
 fine           adj cmp=er adv=finely
-finite         adj
+finite         adj adv=finitely
 Finnish        adj
 firm           adj cmp=er adv=firmly
 firsthand adj
@@ -87,6 +90,7 @@ flammable adj
 flashy adj cmp=er
 flat           adj cmp=er adv=flatly
 flawed adj
+flawless adj adv=flawlessly
 fledged adj
 fledgling adj attr_only
 fleecy adj cmp=er
@@ -104,6 +108,7 @@ fluffy adj cmp=er
 fluid          adj
 fluorescent adj
 flush          adj
+fluted adj
 focal          adj
 foggy adj cmp=er
 folk           adj attr_only
@@ -146,6 +151,7 @@ fraught adj cmp=more
 freaky adj cmp=er style=colloquial
 freckled adj
 free           adj cmp=er adv=freely
+freeborn adj
 freelance adj
 freestanding adj
 French         adj
@@ -176,7 +182,9 @@ full           adj cmp=er adv=fully
 fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally
 fundamental    adj adv=fundamentally
+fundamentalist adj
 funerary       adj
+funereal adj adv=funereally
 fungal adj
 funny          adj cmp=er
 furious        adj adv=furiously

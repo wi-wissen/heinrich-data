@@ -75,6 +75,7 @@ waterway noun
 watt noun
 wattle noun
 wave noun
+waveform noun
 wavelength noun
 wax noun
 way noun
@@ -121,6 +122,7 @@ welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
 welterweight noun
 wench noun
+werewolf noun pl=werewolves
 west noun pl=- note=uncountable
 westerly noun
 western noun
@@ -136,6 +138,7 @@ wheelbarrow noun
 wheelbase noun
 wheelchair noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
+whiff noun
 Whig noun
 whim noun
 whin noun conf=90 note=gorse
@@ -210,6 +213,7 @@ wipe noun
 wire noun
 wireframe noun
 wireless noun pl=- note=uncountable
+wireline noun conf=85 note=oil industry and telecommunications: a wire-based line
 wisdom noun pl=- note=uncountable
 wish noun
 wit noun
@@ -227,6 +231,7 @@ womanhood noun pl=- note=uncountable
 womb noun
 wonder noun
 wonderland noun
+wonderment noun pl=- note=uncountable
 wont noun pl=- note=uncountable
 wood noun
 woodbine noun

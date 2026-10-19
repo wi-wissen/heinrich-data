@@ -52,11 +52,13 @@ schnell adj cmp=schneller sup=schnellsten
 schnellstmöglich adj
 schnippisch adj cmp=schnippischer sup=schnippischsten
 schön adj cmp=schöner sup=schönsten
+schonungslos adj cmp=schonungsloser sup=schonungslosesten
 schöpferisch adj
 schottisch adj
 schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
 schriftlich adj
+schriftstellerisch adj
 schroff adj cmp=schroffer sup=schroffsten
 schüchtern adj cmp=schüchterner sup=schüchternsten
 schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld
@@ -71,6 +73,7 @@ schwachsinnig adj cmp=schwachsinniger sup=schwachsinnigsten
 schwanger adj
 schwarz adj cmp=schwärzer|schwarzer[rare] sup=schwärzesten|schwarzesten[rare]
 schwarzhaarig adj
+schwärzlich adj
 schwarzweiß adj indecl
 schwedisch adj
 schweigsam adj cmp=schweigsamer sup=schweigsamsten
@@ -80,6 +83,7 @@ schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
+sechziger adj indecl note=die sechziger Jahre
 seelisch adj
 sehenswert adj
 sehnlich adj
@@ -133,6 +137,7 @@ sonderbar adj cmp=sonderbarer sup=sonderbarsten
 sonderlich adj
 sonnig adj cmp=sonniger sup=sonnigsten
 sonstig adj
+sorbisch adj
 sorgfältig adj cmp=sorgfältiger sup=sorgfältigsten
 sorglich adj
 sorglos adj cmp=sorgloser sup=sorglosesten
@@ -161,6 +166,7 @@ sporadisch adj
 sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
 sprachlich adj
+spröde adj cmp=spröder sup=sprödesten
 staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
 stachelig adj cmp=stacheliger sup=stacheligsten
@@ -172,6 +178,7 @@ starr adj cmp=starrer sup=starrsten
 stationär adj
 statisch adj
 statistisch adj
+statthaft adj
 stattlich adj cmp=stattlicher sup=stattlichsten
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
@@ -194,6 +201,7 @@ stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
+stramm adj cmp=strammer sup=strammsten
 strategisch adj
 strebsam adj cmp=strebsamer sup=strebsamsten
 streitig adj note=jemandem etwas streitig machen
@@ -224,6 +232,7 @@ südöstlich adj
 südwestlich adj
 sukzessiv adj
 sumpfig adj cmp=sumpfiger sup=sumpfigsten
+sündig adj cmp=sündiger sup=sündigsten
 super adj indecl style=colloquial note=colloquial intensifier
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten

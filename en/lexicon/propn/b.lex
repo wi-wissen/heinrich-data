@@ -1,3 +1,4 @@
+Babel propn note=Tower of Babel
 Babylon propn
 BAFTA propn abbr note=British Academy of Film and Television Arts
 Baghdad propn

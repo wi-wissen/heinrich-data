@@ -1,14 +1,17 @@
 ugliness noun pl=- note=uncountable
+ukiyo-e noun pl=- conf=90 note=Japanese woodblock print genre
 Ukrainian     noun
 ulcer noun
 ultimatum noun pl=ultimatums|ultimata[rare]
 ultra noun conf=90 note=an extremist; also used as a prefix
+ultralight noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
 unanimity noun pl=- note=uncountable
 unavailability noun pl=- note=uncountable
+unbelief noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
@@ -36,6 +39,7 @@ underworld noun
 underwriter noun
 underwriting noun pl=- note=uncountable
 undocumented noun conf=90 note=the undocumented: people without papers; usually plural sense
+undulation noun
 uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unfairness noun
@@ -71,8 +75,10 @@ upright       noun
 uprising      noun
 uproar noun
 upset         noun
+upshot noun
 upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
+upstart noun
 uptake        noun
 uptime noun pl=- note=uncountable
 uptown noun pl=- note=the upper part of a city; uncountable
@@ -97,6 +103,7 @@ usurpation noun
 usurper noun
 utensil noun
 uterus noun pl=uteri|uteruses
+utilitarian noun
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)

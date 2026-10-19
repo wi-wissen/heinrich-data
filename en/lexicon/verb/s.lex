@@ -60,6 +60,7 @@ scuffle verb
 sculpt verb
 sculpture verb
 scuttle verb
+scythe verb
 seal verb
 seam verb
 search verb
@@ -70,6 +71,7 @@ second verb
 secrete verb
 secure verb
 securitize verb gb=securitise|securitize conf=85
+sedate verb
 seduce verb
 see verb past=saw pp=seen
 seed verb
@@ -87,6 +89,7 @@ sentence verb
 separate verb
 sequence verb
 sequester verb
+serenade verb
 serialize verb gb=serialise|serialize
 serve verb
 service verb
@@ -94,6 +97,7 @@ set verb past=set pp=set
 settle verb
 sever verb
 sew verb past=sewed pp=sewn|sewed
+shackle verb
 shade verb
 shadow verb
 shake verb past=shook pp=shaken
@@ -118,8 +122,10 @@ shingle verb
 ship verb
 shipwreck verb
 shirk verb
+shit verb past=shit|shat pp=shit|shat style=colloquial
 shiver verb
 shock verb
+shoe verb past=shod|shoed pp=shod|shoed
 shoot verb past=shot pp=shot
 shop verb
 shoplift verb
@@ -212,6 +218,7 @@ slope verb
 slow verb
 slug verb
 slumber verb
+slump verb
 slur verb
 slurp verb
 smack verb
@@ -290,6 +297,7 @@ spit verb past=spat|spit pp=spat|spit conf=90 note=spit as past is chiefly Ameri
 splash verb
 splinter verb
 split verb past=split pp=split
+splutter verb
 spoil verb past=spoiled|spoilt[GB] pp=spoiled|spoilt[GB]
 sponge verb
 sponsor verb
@@ -297,6 +305,7 @@ spoof verb
 spool verb
 spot verb
 spotlight verb past=spotlighted|spotlit pp=spotlighted|spotlit conf=90 note=spotlit less common
+spout verb
 sprawl verb
 spray verb
 spread verb past=spread pp=spread
@@ -370,6 +379,7 @@ stockpile verb
 stomp verb
 stoop verb
 stop verb
+stopper verb
 store verb
 storm verb
 stow verb
@@ -440,6 +450,7 @@ suffuse verb
 suggest verb
 suit verb
 sulk verb
+sully verb
 sum verb
 summarize verb gb=summarise|summarize
 summon verb
@@ -484,15 +495,18 @@ sweat verb
 sweep verb past=swept pp=swept
 sweeten verb
 swell verb past=swelled pp=swollen|swelled
+swerve verb
 swim verb past=swam pp=swum
 swing verb past=swung pp=swung
 swipe verb
 swirl verb
 switch verb
 swoon verb
+swoop verb
 symbolize verb gb=symbolise|symbolize
 sympathize verb gb=sympathise|sympathize
 sync verb
 synchronize verb gb=synchronise|synchronize
 syndicate verb
 synthesize verb gb=synthesise|synthesize
+syringe verb

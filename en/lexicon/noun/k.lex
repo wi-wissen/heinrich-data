@@ -1,9 +1,11 @@
+kaiju noun pl=kaiju conf=90 note=Japanese loanword, giant monster
 kaiser noun
 kale noun pl=- note=uncountable
 kanban noun pl=- note=uncountable
 kangaroo noun
 karate noun pl=- note=uncountable
 karma noun pl=- note=uncountable
+karst noun
 kava noun
 Kazakh noun
 kebab noun
@@ -29,6 +31,7 @@ keypad noun
 keystone noun
 keystroke noun
 keyword noun
+khaki noun pl=khakis
 Khmer noun pl=Khmer
 kibbutz noun pl=kibbutzim|kibbutzes
 kick           noun

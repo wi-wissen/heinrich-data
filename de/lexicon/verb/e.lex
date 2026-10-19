@@ -183,6 +183,7 @@ empören verb class=weak pp=empört perf=haben refl=acc
 enden verb class=weak pp=geendet perf=haben
 endigen verb class=weak pp=geendigt perf=haben style=archaic note=older form of enden
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
+entarten verb class=weak pp=entartet perf=sein
 entbehren verb class=weak pp=entbehrt perf=haben
 entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbände perf=haben
 entblößen verb class=weak pp=entblößt perf=haben refl=acc
@@ -229,15 +230,18 @@ enthüllen verb class=weak pp=enthüllt perf=haben
 entkernen verb class=weak pp=entkernt perf=haben
 entkommen verb class=strong 3sg=entkommt past=entkam pp=entkommen subj2=entkäme perf=sein
 entkorken verb class=weak pp=entkorkt perf=haben
+entkräften verb class=weak pp=entkräftet perf=haben
 entlarven verb class=weak pp=entlarvt perf=haben
 entlassen verb class=strong 3sg=entlässt past=entließ pp=entlassen subj2=entließe perf=haben
 entlasten verb class=weak pp=entlastet perf=haben
 entlaufen verb class=strong 3sg=entläuft past=entlief pp=entlaufen subj2=entliefe perf=sein
 entlehnen verb class=weak pp=entlehnt perf=haben
 entleihen verb class=strong 3sg=entleiht past=entlieh pp=entliehen subj2=entliehe perf=haben
+entlohnen verb class=weak pp=entlohnt perf=haben
 entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
 entpacken verb class=weak pp=entpackt perf=haben
+entpuppen verb class=weak pp=entpuppt perf=haben refl=acc
 entreißen verb class=strong 3sg=entreißt past=entriss pp=entrissen subj2=entrisse perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
 entrinnen verb class=strong 3sg=entrinnt past=entrann pp=entronnen subj2=entränne|entrönne[rare] perf=sein
@@ -252,6 +256,7 @@ entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen
 entschlüpfen verb class=weak pp=entschlüpft perf=sein
 entschlüsseln verb class=weak pp=entschlüsselt perf=haben
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
+entschwinden verb class=strong 3sg=entschwindet past=entschwand pp=entschwunden subj2=entschwände perf=sein
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
 entsorgen verb class=weak pp=entsorgt perf=haben
@@ -285,6 +290,7 @@ erbauen verb class=weak pp=erbaut perf=haben
 erbeben verb class=weak pp=erbebt perf=haben
 erben verb class=weak pp=geerbt perf=haben
 erbeuten verb class=weak pp=erbeutet perf=haben
+erbieten verb class=strong 3sg=erbietet past=erbot pp=erboten subj2=erböte perf=haben refl=acc style=archaic note=sich erbieten, etwas zu tun
 erbitten verb class=strong 3sg=erbittet past=erbat subj2=erbäte pp=erbeten perf=haben
 erblassen verb class=weak pp=erblasst perf=sein
 erblicken verb class=weak pp=erblickt perf=haben
@@ -293,6 +299,7 @@ erblühen verb class=weak pp=erblüht perf=sein
 erbosen verb class=weak pp=erbost perf=haben refl=acc
 erbrechen verb class=strong 3sg=erbricht past=erbrach pp=erbrochen subj2=erbräche perf=haben refl=acc
 erbringen verb class=mixed 3sg=erbringt past=erbrachte pp=erbracht subj2=erbrächte perf=haben
+erdenken verb class=mixed 3sg=erdenkt past=erdachte pp=erdacht subj2=erdächte perf=haben
 erdolchen verb class=weak pp=erdolcht perf=haben
 erdrosseln verb class=weak pp=erdrosselt perf=haben
 erdulden verb class=weak pp=erduldet perf=haben
@@ -313,6 +320,7 @@ ergattern verb class=weak pp=ergattert perf=haben
 ergeben verb class=strong 3sg=ergibt past=ergab pp=ergeben subj2=ergäbe perf=haben refl=acc
 ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=sein
 ergetzen verb class=weak pp=ergetzt perf=haben refl=acc style=archaic
+ergießen verb class=strong 3sg=ergießt past=ergoss pp=ergossen subj2=ergösse perf=haben refl=acc
 ergötzen verb class=weak pp=ergötzt perf=haben refl=acc
 ergrauen verb class=weak pp=ergraut perf=sein
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben

@@ -1,5 +1,6 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
+habsburgisch adj
 halb         adj note=not compared; ein halber Liter
 hamburgisch adj
 hannoversch adj
@@ -55,6 +56,7 @@ hochgradig adj
 hochmütig adj cmp=hochmütiger sup=hochmütigsten
 hochrangig adj cmp=hochrangiger sup=hochrangigsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
+höfisch adj
 höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten
 höhnisch adj cmp=höhnischer sup=höhnischsten
@@ -71,6 +73,7 @@ humanistisch adj
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten
+hurtig adj cmp=hurtiger sup=hurtigsten
 hybrid adj
 hydraulisch adj
 hygienisch adj

@@ -38,6 +38,7 @@ Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
 Faksimile noun g=n gen=Faksimiles pl=Faksimiles
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
 Faktor noun g=m gen=Faktors pl=Faktoren
+Faktum noun g=n gen=Faktums pl=Fakten|Fakta
 Faktura noun g=f gen=Faktura pl=Fakturen
 Fakturierung noun g=f gen=Fakturierung pl=Fakturierungen
 Fakultät noun g=f gen=Fakultät pl=Fakultäten
@@ -78,6 +79,7 @@ Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
 Fastenzeit noun g=f gen=Fastenzeit pl=Fastenzeiten
 Fastnacht noun g=f gen=Fastnacht pl=- note=no plural (mass or abstract noun)
+Faszination noun g=f gen=Faszination pl=Faszinationen
 Fatimide noun g=m gen=Fatimiden pl=Fatimiden note=member of the Fatimid dynasty
 Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Faultier noun g=n gen=Faultiers pl=Faultiere
@@ -115,6 +117,7 @@ Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
+Feminismus noun g=m gen=Feminismus pl=- note=mass noun
 Feministin noun g=f gen=Feministin pl=Feministinnen
 Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
@@ -147,6 +150,7 @@ Festung noun g=f gen=Festung pl=Festungen
 Fete noun g=f gen=Fete pl=Feten
 Fett noun g=n gen=Fetts|Fettes pl=Fette
 Fetzen noun g=m gen=Fetzens pl=Fetzen
+Feuchte noun g=f gen=Feuchte pl=- note=moisture; mass noun
 Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
@@ -230,6 +234,7 @@ Floskel noun g=f gen=Floskel pl=Floskeln
 Flosse noun g=f gen=Flosse pl=Flossen
 Flöte noun g=f gen=Flöte pl=Flöten
 Flotte noun g=f gen=Flotte pl=Flotten
+Flottille noun g=f gen=Flottille pl=Flottillen
 Fluch noun g=m gen=Fluchs|Fluches pl=Flüche
 Flucht noun g=f gen=Flucht pl=Fluchten
 Flüchtigkeit noun g=f gen=Flüchtigkeit pl=- note=no plural
@@ -276,6 +281,7 @@ Formatierung noun g=f gen=Formatierung pl=Formatierungen
 Formation noun g=f gen=Formation pl=Formationen
 Förmchen noun g=n gen=Förmchens pl=Förmchen
 Formel noun g=f gen=Formel pl=Formeln
+Formgebung noun g=f gen=Formgebung pl=Formgebungen
 Formular noun g=n gen=Formulars pl=Formulare
 Formulierung noun g=f gen=Formulierung pl=Formulierungen
 Forscher noun g=m gen=Forschers pl=Forscher
@@ -300,6 +306,7 @@ Fotografin noun g=f gen=Fotografin pl=Fotografinnen
 Fotosynthese noun g=f gen=Fotosynthese pl=- note=no plural
 Foul noun g=n gen=Fouls pl=Fouls
 Fracht noun g=f gen=Fracht pl=Frachten
+Frachter noun g=m gen=Frachters pl=Frachter
 Frack noun g=m gen=Fracks|Frackes pl=Fräcke|Fracks
 Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
@@ -406,6 +413,7 @@ Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen
 Furt noun g=f gen=Furt pl=Furten
+Füßchen noun g=n gen=Füßchens pl=Füßchen
 Fusion noun g=f gen=Fusion pl=Fusionen
 Fuß noun g=m gen=Fußes pl=Füße
 Fußball noun g=m gen=Fußballs|Fußballes[rare] pl=Fußbälle

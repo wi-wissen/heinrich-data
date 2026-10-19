@@ -10,6 +10,7 @@ vape verb
 varnish verb
 vary          verb
 vault         verb
+veer verb
 veil          verb
 vend verb
 venerate verb
@@ -38,6 +39,7 @@ volley verb
 volunteer     verb
 vomit verb note=stress on the first syllable: vomited
 vote          verb
+vouch verb
 vouchsafe verb
 vow           verb
 voyage        verb

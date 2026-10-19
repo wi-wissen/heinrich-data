@@ -79,10 +79,12 @@ mellow adj cmp=er
 melodic adj
 melodious adj cmp=more adv=melodiously
 melodramatic adj adv=melodramatically
+membranous adj
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
 menial adj
+menstrual adj
 mental        adj adv=mentally
 mercantile adj
 mercenary adj
@@ -93,6 +95,7 @@ meritorious adj
 merry         adj cmp=er adv=merrily
 messianic adj
 messy adj cmp=er adv=messily
+meta adj conf=85 note=self-referential; informal
 metabolic adj
 metallic      adj
 metamorphic adj
@@ -113,6 +116,7 @@ micropolitan  adj note=US census term
 microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
 middle        adj attr_only
+middling adj
 midland adj attr_only
 Midwestern adj
 mighty        adj cmp=er adv=mightily
@@ -126,6 +130,7 @@ mindful       adj pred_only
 mini          adj
 miniature     adj
 minimal       adj adv=minimally
+minimalist adj
 minimum       adj
 ministerial   adj
 minor         adj
@@ -151,15 +156,19 @@ modest        adj cmp=more adv=modestly
 modular       adj
 moist         adj cmp=er
 molar adj
+moldy adj cmp=er gb=mouldy
 molecular     adj
 molten adj
 momentary     adj adv=momentarily
 momentous adj
+monarchical adj
 monastic      adj
 monetary      adj
 Mongol adj
 mono adj
 monochrome adj
+monoclonal adj
+monolithic adj
 monotone adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
@@ -168,6 +177,7 @@ monumental adj adv=monumentally
 moody adj cmp=er adv=moodily
 moonlit adj
 Moorish       adj
+moot adj
 moral         adj adv=morally
 morbid adj adv=morbidly
 Mormon adj
@@ -200,6 +210,7 @@ multiple      adj
 multiplicative adj
 multipurpose adj
 multiracial adj
+multitudinous adj
 mundane adj
 municipal     adj
 murderous adj
@@ -208,14 +219,17 @@ muscular      adj
 mushy adj cmp=er
 musical       adj adv=musically
 Muslim        adj
+musty adj cmp=er
 mutant adj
 mute adj adv=mutely
 mutinous adj
 mutual        adj adv=mutually
+myocardial adj
 myriad adj
 mysterious    adj cmp=more adv=mysteriously
 mystic adj
 mystical adj adv=mystically
+mythic adj
 mythical adj
 mythological adj
 Māori         adj

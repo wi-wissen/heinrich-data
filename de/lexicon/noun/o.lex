@@ -16,12 +16,14 @@ Objektivität noun g=f gen=Objektivität pl=- note=abstract noun, no plural
 Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russia, Ukraine, Belarus; plural also Oblasti
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
 Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
+Oboe noun g=f gen=Oboe pl=Oboen
 Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Obrist noun g=m gen=Obristen pl=Obristen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
+Odem noun g=m gen=Odems pl=- style=archaic note=poetic: breath
 Odyssee noun g=f gen=Odyssee pl=Odysseen
 Ofen noun g=m gen=Ofens pl=Öfen
 Offenbarung noun g=f gen=Offenbarung pl=Offenbarungen
@@ -48,6 +50,7 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Oktober noun g=m gen=Oktobers pl=Oktober
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
+Oligarch noun g=m gen=Oligarchen pl=Oligarchen
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olympiade noun g=f gen=Olympiade pl=Olympiaden
@@ -66,6 +69,7 @@ Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
 Oper noun g=f gen=Oper pl=Opern
 Operation noun g=f gen=Operation pl=Operationen
+Operator noun g=m gen=Operators pl=Operatoren
 Operette noun g=f gen=Operette pl=Operetten
 Opfer noun g=n gen=Opfers pl=Opfer
 Opi noun g=m gen=Opis pl=Opis
@@ -133,6 +137,7 @@ Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
 Output noun g=m|n gen=Outputs pl=Outputs
 Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
+Ouvertüre noun g=f gen=Ouvertüre pl=Ouvertüren
 Oval noun g=n gen=Ovals pl=Ovale
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren

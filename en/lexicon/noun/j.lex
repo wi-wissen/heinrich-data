@@ -1,5 +1,6 @@
 jab noun
 jack noun
+jackal noun
 jacket         noun
 Jacobite noun
 jade noun pl=- note=the stone; also the colour
@@ -66,6 +67,7 @@ judiciary      noun
 judo noun pl=- note=uncountable
 jug noun
 juice          noun
+jumble noun
 jump           noun
 jumper noun
 junction       noun

@@ -18,6 +18,7 @@ bare adj cmp=er
 barefoot adj
 barefooted adj
 bareheaded adj
+baronial adj
 baroque adj
 barren adj cmp=more
 basal adj
@@ -25,6 +26,7 @@ bashful adj adv=bashfully
 basic adj adv=basically
 Basque adj
 Bavarian adj
+beaded adj
 beaked adj
 bearded adj
 beastly adj cmp=er
@@ -48,11 +50,13 @@ Berber adj
 bereaved adj
 bereft adj pred_only
 bespoke adj
+bestselling adj
 biannual adj adv=biannually
 biblical adj
 bicentennial adj
 biennial adj
 big adj cmp=er
+bigoted adj cmp=more
 bilateral adj adv=bilaterally
 bilingual adj
 billable adj
@@ -60,6 +64,7 @@ binary adj
 binding adj
 binomial adj
 biochemical adj
+biodegradable adj
 biographical adj
 biological adj adv=biologically
 biomedical adj
@@ -83,6 +88,7 @@ bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
 blissful adj adv=blissfully
+blithe adj adv=blithely
 blond adj cmp=er note=blonde is also used, especially of women
 blonde adj cmp=er
 blooded adj note=mostly in compounds: cold-blooded, warm-blooded, blue-blooded
@@ -99,6 +105,7 @@ bogus adj
 Bohemian adj
 boisterous adj cmp=more
 bold adj cmp=er adv=boldly
+bonnie adj conf=85 note=Scots spelling of bonny
 bonny adj cmp=er region=GB
 bony adj cmp=er
 bored adj cmp=more
@@ -107,6 +114,7 @@ Bosnian adj
 bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
+bountiful adj
 bourgeois adj
 bovine adj
 boyish adj cmp=more adv=boyishly
@@ -127,6 +135,7 @@ brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
 broad adj cmp=er adv=broadly
+broken-hearted adj note=hearted is not a word of its own
 brotherly adj
 brown adj cmp=er
 brownish adj

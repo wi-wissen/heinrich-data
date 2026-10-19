@@ -1,4 +1,5 @@
 oaken adj
+obdurate adj cmp=more adv=obdurately
 obedient adj cmp=more adv=obediently
 obese adj cmp=more
 objectionable adj cmp=more
@@ -17,8 +18,10 @@ obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obstructive adj
+obtainable adj
 obvious        adj cmp=more adv=obviously
 occasional     adj adv=occasionally
+occludent adj conf=80 note=rare, occluding
 occult adj
 occupational   adj
 oceanic        adj
@@ -37,14 +40,17 @@ okay           adj
 old adj cmp=older|elder sup=oldest|eldest
 olden adj attr_only
 ole            adj style=colloquial note=old
+olfactory adj
 Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
+omnipotent adj
 onboard adj
 oncoming adj attr_only
 onerous adj cmp=more adv=onerously
 ongoing        adj
 online         adj
+onscreen adj
 onshore        adj
 onsite adj
 onstage adj
@@ -72,6 +78,7 @@ orange         adj
 orbital        adj
 orchestral     adj
 orderly        adj
+ordinal adj
 ordinary       adj cmp=more adv=ordinarily
 organic        adj adv=organically
 organizational adj gb=organisational|organizational
@@ -99,6 +106,7 @@ outpatient     adj
 outrageous     adj adv=outrageously
 outright       adj
 outspoken adj
+outspread adj
 outstanding    adj adv=outstandingly
 outstretched adj
 outward        adj adv=outwardly

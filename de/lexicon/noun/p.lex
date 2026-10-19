@@ -76,6 +76,7 @@ Parterre noun g=n gen=Parterres pl=Parterres
 Partie noun g=f gen=Partie pl=Partien
 Partikel noun g=f gen=Partikel pl=Partikeln
 Partisan noun g=m gen=Partisanen pl=Partisanen
+Partitur noun g=f gen=Partitur pl=Partituren
 Partizip noun g=n gen=Partizips pl=Partizipien
 Partizipation noun g=f gen=Partizipation pl=Partizipationen
 Partner noun g=m gen=Partners pl=Partner
@@ -92,6 +93,7 @@ Passant noun g=m gen=Passanten pl=Passanten
 Passantin noun g=f gen=Passantin pl=Passantinnen
 Passion noun g=f gen=Passion pl=Passionen
 Passiv noun g=n gen=Passivs pl=Passive
+Passus noun g=m gen=Passus pl=Passus note=no genitive ending
 Passwort noun g=n gen=Passworts|Passwortes pl=Passwörter|Passworte
 Pastor noun g=m gen=Pastors pl=Pastoren|Pastore[rare]
 Pastorin noun g=f gen=Pastorin pl=Pastorinnen
@@ -222,6 +224,8 @@ Phänomen noun g=n gen=Phänomens pl=Phänomene
 Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
+Pharma noun g=f gen=Pharma pl=- conf=80 note=short for Pharmaindustrie; mass noun
+Pharmakologie noun g=f gen=Pharmakologie pl=- note=academic discipline
 Pharmazie noun g=f gen=Pharmazie pl=- note=mass noun
 Phase noun g=f gen=Phase pl=Phasen
 Philanthrop noun g=m gen=Philanthropen pl=Philanthropen
@@ -286,6 +290,7 @@ Plakat noun g=n gen=Plakats|Plakates pl=Plakate
 Plakette noun g=f gen=Plakette pl=Plaketten
 Plan noun g=m gen=Plans|Planes pl=Pläne
 Planer noun g=m gen=Planers pl=Planer
+Planerin noun g=f gen=Planerin pl=Planerinnen
 Planet noun g=m gen=Planeten pl=Planeten
 Planke noun g=f gen=Planke pl=Planken
 Planung noun g=f gen=Planung pl=Planungen
@@ -301,6 +306,7 @@ Plattform noun g=f gen=Plattform pl=Plattformen
 Platz noun g=m gen=Platzes pl=Plätze
 Plätzchen noun g=n gen=Plätzchens pl=Plätzchen
 Platzierung noun g=f gen=Platzierung pl=Platzierungen
+Plausibilität noun g=f gen=Plausibilität pl=Plausibilitäten
 Playback noun g=n gen=Playbacks pl=Playbacks
 Playlist noun g=f gen=Playlist pl=Playlists
 Playoff noun g=n gen=Playoffs pl=Playoffs conf=90 note=usually plural (die Playoffs); gender n assumed
@@ -350,9 +356,11 @@ Pony noun g=m gen=Ponys pl=Ponys sense=fringe note=der Pony: hairstyle
 Pony noun g=n gen=Ponys pl=Ponys sense=horse note=das Pony: small horse
 Pony noun g=n gen=Ponys pl=Ponys
 Pool noun g=m gen=Pools pl=Pools
+Poolbillard noun g=n gen=Poolbillards pl=- note=the game
 Pop noun g=m gen=Pop|Pops pl=- note=music genre; des Pop(s)
 Pop-up noun g=n gen=Pop-ups pl=Pop-ups
 Popcorn noun g=n gen=Popcorns pl=- note=no plural (mass or abstract noun)
+Pope noun g=m gen=Popen pl=Popen note=Orthodox priest
 Popo noun g=m gen=Popos pl=Popos style=colloquial
 Popularität noun g=f gen=Popularität pl=- note=mass noun
 Population noun g=f gen=Population pl=Populationen
@@ -394,6 +402,7 @@ Potenzial noun g=n gen=Potenzials pl=Potenziale
 Potsdamer noun g=m gen=Potsdamers pl=Potsdamer note=inhabitant of Potsdam
 Powerbank noun g=f gen=Powerbank pl=Powerbanks
 Powiat noun g=m gen=Powiats pl=Powiate conf=85 note=Polish administrative district
+Präambel noun g=f gen=Präambel pl=Präambeln
 Pracht noun g=f gen=Pracht pl=- note=mass noun
 Prädikat noun g=n gen=Prädikats|Prädikates pl=Prädikate
 Prädikativ noun g=n gen=Prädikativs pl=Prädikative
@@ -405,6 +414,8 @@ Prägung noun g=f gen=Prägung pl=Prägungen
 Praktik noun g=f gen=Praktik pl=Praktiken
 Praktikant noun g=m gen=Praktikanten pl=Praktikanten
 Praktikantin noun g=f gen=Praktikantin pl=Praktikantinnen
+Praktiker noun g=m gen=Praktikers pl=Praktiker
+Praktikerin noun g=f gen=Praktikerin pl=Praktikerinnen
 Praktikum noun g=n gen=Praktikums pl=Praktika|Praktiken
 Prälat noun g=m gen=Prälaten pl=Prälaten
 Praline noun g=f gen=Praline pl=Pralinen
@@ -438,6 +449,8 @@ Presse noun g=f gen=Presse pl=Pressen
 Pressefreiheit noun g=f gen=Pressefreiheit pl=- note=mass noun
 Priester noun g=m gen=Priesters pl=Priester
 Priesterin noun g=f gen=Priesterin pl=Priesterinnen
+Primat noun g=m|n gen=Primats|Primates pl=Primate sense=primacy note=der/das Primat: priority
+Primat noun g=m gen=Primaten pl=Primaten sense=animal note=der Primat: primate
 Primus noun g=m gen=Primus pl=Primusse|Primi note=des Primus
 Primzahl noun g=f gen=Primzahl pl=Primzahlen
 Printe noun g=f gen=Printe pl=Printen
@@ -445,13 +458,18 @@ Prinz noun g=m gen=Prinzen pl=Prinzen note=weak masculine
 Prinzess noun g=f gen=Prinzess pl=Prinzessen style=archaic conf=80 note=older short form of Prinzessin
 Prinzessin noun g=f gen=Prinzessin pl=Prinzessinnen
 Prinzip noun g=n gen=Prinzips|Prinzipes pl=Prinzipien
+Prinzipal noun g=m gen=Prinzipals pl=Prinzipale
 Prior noun g=m gen=Priors pl=Prioren
 Priorität noun g=f gen=Priorität pl=Prioritäten
 Prioritätenliste noun g=f gen=Prioritätenliste pl=Prioritätenlisten
+Prise noun g=f gen=Prise pl=Prisen
 Prisma noun g=n gen=Prismas pl=Prismen
 Privatisierung noun g=f gen=Privatisierung pl=Privatisierungen
 Privatschule noun g=f gen=Privatschule pl=Privatschulen
 Privileg noun g=n gen=Privilegs|Privileges pl=Privilegien
+Privilegierung noun g=f gen=Privilegierung pl=Privilegierungen
+Proband noun g=m gen=Probanden pl=Probanden
+Probandin noun g=f gen=Probandin pl=Probandinnen
 Probe noun g=f gen=Probe pl=Proben
 Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling); Nahme is not a word
 Problem noun g=n gen=Problems pl=Probleme
@@ -477,12 +495,14 @@ Progression noun g=f gen=Progression pl=Progressionen
 Projekt noun g=n gen=Projekts|Projektes pl=Projekte
 Projektion noun g=f gen=Projektion pl=Projektionen
 Projektor noun g=m gen=Projektors pl=Projektoren
+Proklamation noun g=f gen=Proklamation pl=Proklamationen
 Prokopfeinkommen noun g=n gen=Prokopfeinkommens pl=Prokopfeinkommen note=also written Pro-Kopf-Einkommen
 Prokura noun g=f gen=Prokura pl=Prokuren
 Prokurist noun g=m gen=Prokuristen pl=Prokuristen
 Prokuristin noun g=f gen=Prokuristin pl=Prokuristinnen
 Prolog noun g=m gen=Prologs pl=Prologe
 Promenade noun g=f gen=Promenade pl=Promenaden
+Promille noun g=n gen=Promilles|Promille pl=Promille,Promille,Promille,Promille note=dative plural without -n (mit zwei Promille)
 Prominente noun g=m|f decl=adj note=celebrity
 Promotion noun g=f gen=Promotion pl=Promotionen
 Pronomen noun g=n gen=Pronomens pl=Pronomen|Pronomina
@@ -527,6 +547,7 @@ Prüfer noun g=m gen=Prüfers pl=Prüfer
 Prüferin noun g=f gen=Prüferin pl=Prüferinnen
 Prüfling noun g=m gen=Prüflings pl=Prüflinge
 Prüfung noun g=f gen=Prüfung pl=Prüfungen
+Prunk noun g=m gen=Prunks|Prunkes pl=- note=mass noun
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
 Psalm noun g=m gen=Psalms pl=Psalmen
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
@@ -549,6 +570,7 @@ Publizistik noun g=f gen=Publizistik pl=- note=field of study
 Publizistin noun g=f gen=Publizistin pl=Publizistinnen
 Pudding noun g=m gen=Puddings pl=Puddinge|Puddings
 Pudel noun g=m gen=Pudels pl=Pudel
+Puffer noun g=m gen=Puffers pl=Puffer
 Pulli noun g=m gen=Pullis pl=Pullis
 Pullover noun g=m gen=Pullovers pl=Pullover
 Puls noun g=m gen=Pulses pl=Pulse

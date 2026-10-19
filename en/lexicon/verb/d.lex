@@ -19,6 +19,7 @@ deactivate verb
 deadlock verb
 deal verb past=dealt pp=dealt
 debar verb double
+debase verb
 debate verb
 debilitate verb
 debit verb
@@ -47,6 +48,7 @@ decrypt verb
 dedicate verb
 deduce verb
 deduct verb
+deed verb
 deem verb
 deepen verb
 deface verb
@@ -65,6 +67,7 @@ defrost verb
 defy verb
 degenerate verb
 degrade verb
+deign verb
 delay verb
 delegate verb
 delete verb
@@ -158,6 +161,7 @@ dis verb 3sg=disses style=colloquial conf=80 note=to disrespect; also spelled di
 disable verb
 disadvantage verb
 disagree verb
+disallow verb
 disappear verb
 disapply verb region=GB note=legal register
 disappoint verb
@@ -170,6 +174,7 @@ discard verb
 discern verb
 discharge verb
 discipline verb
+disclaim verb
 disclose verb
 discomfit verb
 disconcert verb
@@ -201,6 +206,8 @@ dismay verb
 dismiss verb
 dismount verb
 disobey verb
+disown verb
+disparage verb
 dispatch verb gb=dispatch|despatch
 dispel verb double
 dispense verb
@@ -209,12 +216,15 @@ displace verb
 display verb
 displease verb
 dispose verb
+dispossess verb
+disprove verb past=disproved pp=disproved|disproven
 dispute verb
 disqualify verb
 disquiet verb
 disregard verb
 disrespect verb
 disrupt verb
+dissect verb
 disseminate verb
 dissent verb
 dissipate verb

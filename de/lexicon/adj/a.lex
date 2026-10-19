@@ -16,6 +16,7 @@ abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
+achtziger adj indecl note=die achtziger Jahre
 adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
 adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
@@ -99,6 +100,7 @@ apostolisch adj
 appellativ adj
 appetitlich adj cmp=appetitlicher sup=appetitlichsten
 approbiert adj
+äquivalent adj
 arabisch adj
 arbeitslos adj
 archäologisch adj
@@ -115,6 +117,7 @@ armenisch adj
 arrogant adj cmp=arroganter sup=arrogantesten
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
+aserbaidschanisch adj
 asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
 astronomisch adj
@@ -142,6 +145,7 @@ augenscheinlich adj
 ausdrücklich  adj cmp=ausdrücklicher sup=ausdrücklichsten
 außerdienstlich adj
 außergerichtlich adj
+außeruniversitär adj
 ausführlich adj cmp=ausführlicher sup=ausführlichsten
 ausgedehnt adj cmp=ausgedehnter sup=ausgedehntesten
 ausgeglichen adj cmp=ausgeglichener sup=ausgeglichensten

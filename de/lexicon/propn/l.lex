@@ -15,6 +15,7 @@ Lissabon propn g=n gen=Lissabons pl=- note=proper name; no plural
 Litauen propn g=n gen=Litauens pl=- note=proper name; no plural
 Liverpool propn g=n gen=Liverpools pl=- note=proper name; no plural
 London propn g=n gen=Londons pl=- note=proper name; no plural
+Lorsch propn g=n gen=Lorsch pl=- demonym=Lorscher note=proper name; bare genitive (sibilant)
 Lothringen propn g=n gen=Lothringens pl=- note=proper name; no plural
 Louisiana propn g=n gen=Louisianas pl=- note=proper name; no plural
 Lübeck propn g=n gen=Lübecks pl=- demonym=Lübecker note=proper name; no plural

@@ -27,6 +27,7 @@ bedrohlich adj cmp=bedrohlicher sup=bedrohlichsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befangen adj
 befindlich adj
+befremdlich adj cmp=befremdlicher sup=befremdlichsten
 befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
 begabt adj cmp=begabter sup=begabtesten
@@ -35,10 +36,12 @@ begeistert adj cmp=begeisterter sup=begeistertsten
 begierig adj cmp=begieriger sup=begierigsten
 begreiflich adj cmp=begreiflicher sup=begreiflichsten
 begrüßenswert adj
+begütert adj
 behaart adj
 behaftet adj note=mit etwas behaftet
 behaglich adj cmp=behaglicher sup=behaglichsten
 beharrlich adj
+beherzt adj cmp=beherzter sup=beherztesten
 behilflich adj
 behördlich adj
 behutsam adj cmp=behutsamer sup=behutsamsten
@@ -80,6 +83,7 @@ besorgt adj cmp=besorgter sup=besorgtesten
 beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
 bestmöglich adj
+bestplatziert adj
 bestrebt adj note=bestrebt sein, etwas zu tun
 bestürzt adj cmp=bestürzter sup=bestürztesten
 beträchtlich adj cmp=beträchtlicher sup=beträchtlichsten
@@ -121,8 +125,10 @@ blutig adj cmp=blutiger sup=blutigsten
 bockig adj cmp=bockiger sup=bockigsten
 böhmisch adj
 böig adj
+bolivianisch adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
+bosnisch adj
 botanisch adj
 brandenburgisch adj
 brasilianisch adj
@@ -130,8 +136,10 @@ braun         adj cmp=brauner sup=braunsten
 bräunlich adj
 brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
+bremisch adj
 brennbar adj
 britisch adj
+bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj

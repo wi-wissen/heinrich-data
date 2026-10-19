@@ -12,6 +12,7 @@ Westeuropa propn g=n gen=Westeuropas pl=- note=proper name; no plural
 Westfalen propn g=n gen=Westfalens pl=- note=proper name, no plural
 Westjordanland propn g=n gen=Westjordanlands|Westjordanlandes pl=- note=proper name; no plural
 Westminster propn g=n gen=Westminsters pl=- note=proper name; no plural
+Westpommern propn g=n gen=Westpommerns pl=- note=proper name; no plural
 Westsahara propn g=f gen=Westsahara pl=- note=die Westsahara
 Wetzlar propn g=n gen=Wetzlars pl=- note=proper name, no plural
 WHO propn g=f gen=WHO pl=- note=die WHO
@@ -26,6 +27,7 @@ Wolfsburg propn g=n gen=Wolfsburgs pl=- note=proper name; no plural
 Worms propn g=n gen=Worms pl=- note=proper name, no plural; genitive unmarked
 Wörth propn g=n gen=Wörths pl=- note=town name (several)
 Wümme propn g=f gen=Wümme pl=- note=river
+Wunsiedel propn g=n gen=Wunsiedels pl=- note=proper name; no plural
 Wuppertal propn g=n gen=Wuppertals pl=- demonym=Wuppertaler note=proper name; no plural
 Württemberg propn g=n gen=Württembergs pl=- note=proper name, no plural
 Würzburg propn g=n gen=Würzburgs pl=- note=proper name, no plural

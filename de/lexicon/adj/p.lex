@@ -7,6 +7,7 @@ panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 paraguayisch adj
 parallel adj attr=parallele
+paritätisch adj
 parlamentarisch adj
 partiell adj
 passiv adj cmp=passiver sup=passivsten
@@ -16,6 +17,7 @@ pauschal adj
 pazifisch adj
 peinlich adj cmp=peinlicher sup=peinlichsten
 perfekt adj
+perfide adj cmp=perfider sup=perfidesten
 periodisch adj
 peripher adj
 permanent adj
@@ -51,6 +53,7 @@ polar adj
 politisch adj
 polizeilich adj
 polnisch adj
+polytechnisch adj
 pommersch adj
 populär adj cmp=populärer sup=populärsten
 populistisch adj
@@ -61,6 +64,7 @@ potentiell adj note=variant spelling of potenziell
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
 pragmatisch adj cmp=pragmatischer sup=pragmatischsten
+prähistorisch adj
 praktikabel adj cmp=praktikabler sup=praktikabelsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
@@ -78,6 +82,7 @@ problematisch adj cmp=problematischer sup=problematischsten
 produktiv adj cmp=produktiver sup=produktivsten
 professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
+progressiv adj cmp=progressiver sup=progressivsten
 prominent adj cmp=prominenter sup=prominentesten
 proportional adj
 protestantisch adj

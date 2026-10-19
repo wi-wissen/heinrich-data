@@ -33,6 +33,7 @@ federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
 feign verb
+feint verb
 fell           verb note=to fell a tree
 fence          verb
 fend verb
@@ -111,6 +112,7 @@ forbid         verb prefix=for past=forbade|forbad pp=forbidden
 force          verb
 ford verb
 forecast       verb past=forecast|forecasted pp=forecast|forecasted
+foreclose verb
 forego verb prefix=fore past=forewent pp=foregone note=also a spelling of forgo
 foreground verb
 foresee verb prefix=fore past=foresaw pp=foreseen
@@ -155,6 +157,7 @@ froth verb
 frown          verb
 frustrate      verb
 fry verb
+fudge verb
 fuel           verb
 fulfill        verb gb=fulfil
 fumble verb

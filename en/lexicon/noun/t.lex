@@ -34,6 +34,7 @@ talker noun
 tallow noun
 tally noun
 talon noun
+tam noun conf=85 note=Scottish cap (tam-o'-shanter)
 tambourine noun
 Tamil noun
 tan noun
@@ -41,6 +42,7 @@ tandem noun
 tangent noun
 tangerine noun
 tangle noun
+tango noun pl=tangos
 tank noun
 tanker noun
 tannery noun
@@ -59,6 +61,7 @@ tartar noun pl=- note=dental deposit; cream of tartar
 Tartar noun note=historical variant of Tatar
 task noun
 taskforce noun
+tassel noun
 taste noun
 tatter noun note=mostly plural: in tatters
 tattoo noun
@@ -105,6 +108,7 @@ telegraphy noun pl=- note=uncountable
 telehealth noun pl=- note=uncountable
 telemarketing noun pl=- note=uncountable
 telemedicine noun pl=- note=uncountable
+telemetry noun pl=- note=uncountable
 telephone noun
 telephonist noun region=GB
 telephony noun pl=- note=uncountable
@@ -211,6 +215,7 @@ thrift noun
 thrill noun
 thriller noun
 throat noun
+throe noun note=mostly plural, as in in the throes of
 throne noun
 throng noun
 throttle noun
@@ -240,6 +245,7 @@ tie noun
 tier noun
 tiger noun
 tights noun pl_only
+tiki noun
 tile noun
 tilefish noun pl=tilefish|tilefishes
 tiller noun
@@ -256,6 +262,7 @@ timer noun
 timescale noun
 timeshare noun
 timesheet noun
+timeslot noun
 timestamp noun
 timetable noun
 timidity noun pl=- note=uncountable
@@ -287,6 +294,7 @@ toenail noun
 toffee noun
 toil noun
 toilet noun
+toiletry noun
 token noun
 tolerance noun
 toleration noun pl=- note=uncountable
@@ -356,10 +364,13 @@ towel noun
 towelhead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 tower noun
 town noun
+townhouse noun
+townland noun note=Irish land division
 township noun
 townsite noun
 townspeople noun pl_only
 toxicity noun
+toxicology noun pl=- note=uncountable
 toxin noun
 toy noun
 trace noun
@@ -367,6 +378,7 @@ traceability noun pl=- note=uncountable
 tracery noun
 trachea noun pl=tracheae|tracheas
 track noun
+trackage noun pl=- note=uncountable
 tracker noun
 trackpad noun
 tracksuit noun
@@ -394,6 +406,7 @@ tramp noun
 trampoline noun
 tramway noun
 trance noun
+tranche noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
 transcriber noun
@@ -406,6 +419,7 @@ transferor noun
 transformation noun
 transformer noun
 transfusion noun
+transgression noun
 transient noun
 transistor noun
 transit noun
@@ -457,6 +471,7 @@ trial noun
 triangle noun
 tribe noun
 tribesman noun pl=tribesmen
+tribulation noun
 tribunal noun
 tribune noun
 tributary noun
@@ -465,13 +480,16 @@ trick noun
 trickery noun pl=- note=uncountable
 trickle noun
 tricolor noun gb=tricolour
+triennial noun
 trifle noun
 trilogy noun
 trinity noun
 trinket noun
 trio noun
 trip noun
+triplane noun
 triplicate noun pl=- note=in triplicate
+tripod noun
 triumph noun
 Trojan noun
 trolley noun
@@ -480,6 +498,7 @@ troop noun
 trooper noun
 trophy noun
 tropic noun
+troposphere noun
 trot noun
 trouble noun
 troubleshooter noun
@@ -519,6 +538,7 @@ tummy noun
 tumor noun gb=tumour
 tumult noun
 tuna noun pl=tuna|tunas
+tundra noun
 tune noun
 tungsten noun pl=- note=uncountable
 tunic noun

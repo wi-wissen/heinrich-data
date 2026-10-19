@@ -12,6 +12,7 @@ länglich adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
 langwierig adj cmp=langwieriger sup=langwierigsten
+lanzettlich adj
 lässig adj cmp=lässiger sup=lässigsten
 lästig adj cmp=lästiger sup=lästigsten
 lateinamerikanisch adj
@@ -47,6 +48,7 @@ leserlich adj cmp=leserlicher sup=leserlichsten
 lettisch adj
 letzt adj note=not compared; attributive and nominal
 letzter adj attr_only note=der letztere (the latter); cf. letzt
+letztmalig adj
 libanesisch adj
 liberal adj cmp=liberaler sup=liberalsten
 libysch adj
@@ -62,6 +64,7 @@ liquide adj cmp=liquider sup=liquidesten
 listig adj cmp=listiger sup=listigsten
 litauisch adj
 literarisch adj
+liturgisch adj
 live adj indecl
 löchrig adj cmp=löchriger sup=löchrigsten
 locker adj cmp=lockerer sup=lockersten

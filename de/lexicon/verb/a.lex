@@ -167,6 +167,7 @@ abtrocknen verb class=weak sep=ab pp=abgetrocknet perf=haben|sein refl=acc
 abtropfen verb class=weak sep=ab pp=abgetropft perf=haben|sein
 abtupfen verb class=weak sep=ab pp=abgetupft perf=haben
 abwägen verb class=weak sep=ab pp=abgewogen|abgewägt perf=haben
+abwandeln verb class=weak sep=ab pp=abgewandelt perf=haben
 abwarten verb class=weak sep=ab pp=abgewartet perf=haben
 abwaschen verb class=strong sep=ab 3sg=abwäscht past=abwusch pp=abgewaschen subj2=abwüsche perf=haben refl=acc
 abwechseln verb class=weak sep=ab refl=acc pp=abgewechselt perf=haben
@@ -210,6 +211,8 @@ akquirieren verb class=weak pp=akquiriert perf=haben
 aktivieren verb class=weak pp=aktiviert perf=haben
 aktualisieren verb class=weak pp=aktualisiert perf=haben
 akzeptieren verb class=weak pp=akzeptiert perf=haben
+alarmieren verb class=weak pp=alarmiert perf=haben
+alleinlassen verb class=strong sep=allein 3sg=alleinlässt past=alleinließ pp=alleingelassen subj2=alleinließe perf=haben
 altern verb class=weak pp=gealtert perf=haben|sein
 amputieren verb class=weak pp=amputiert perf=haben
 amtieren verb class=weak pp=amtiert perf=haben
@@ -269,6 +272,7 @@ anhängen verb class=weak sep=an pp=angehängt perf=haben sense=attach
 anhäufen verb class=weak sep=an pp=angehäuft perf=haben
 anheben verb class=strong sep=an 3sg=anhebt past=anhob pp=angehoben subj2=anhöbe perf=haben
 anheizen verb class=weak sep=an pp=angeheizt perf=haben
+anheuern verb class=weak sep=an pp=angeheuert perf=haben
 anhimmeln verb class=weak sep=an pp=angehimmelt perf=haben
 anhören verb class=weak sep=an pp=angehört perf=haben refl=dat
 anhupen verb class=weak sep=an pp=angehupt perf=haben
@@ -305,6 +309,7 @@ annähern verb class=weak sep=an refl=acc pp=angenähert perf=haben
 annehmen      verb class=strong sep=an 3sg=annimmt past=annahm pp=angenommen subj2=annähme perf=haben
 annektieren verb class=weak pp=annektiert perf=haben
 annullieren verb class=weak pp=annulliert perf=haben
+anonymisieren verb class=weak pp=anonymisiert perf=haben
 anordnen      verb class=weak sep=an pp=angeordnet perf=haben
 anpacken verb class=weak sep=an pp=angepackt perf=haben
 anpassen verb class=weak sep=an refl=acc pp=angepasst perf=haben
@@ -502,6 +507,7 @@ aufschlüsseln verb class=weak sep=auf pp=aufgeschlüsselt perf=haben
 aufschnappen verb class=weak sep=auf pp=aufgeschnappt perf=haben
 aufschneiden verb class=strong sep=auf 3sg=aufschneidet past=aufschnitt pp=aufgeschnitten subj2=aufschnitte perf=haben
 aufschnüren verb class=weak sep=auf pp=aufgeschnürt perf=haben
+aufschrecken verb class=weak sep=auf 3sg=aufschreckt|aufschrickt past=aufschreckte|aufschrak pp=aufgeschreckt perf=haben|sein conf=85 note=intransitive (ist aufgeschreckt, schrak auf) or transitive (hat aufgeschreckt)
 aufschreiben verb class=strong sep=auf 3sg=aufschreibt past=aufschrieb pp=aufgeschrieben subj2=aufschriebe perf=haben
 aufschreien verb class=strong sep=auf 3sg=aufschreit past=aufschrie subj2=aufschriee pp=aufgeschrien perf=haben
 aufschütteln verb class=weak sep=auf pp=aufgeschüttelt perf=haben
@@ -588,6 +594,7 @@ aushandeln verb class=weak sep=aus pp=ausgehandelt perf=haben
 aushändigen verb class=weak sep=aus pp=ausgehändigt perf=haben
 aushängen verb class=strong sep=aus 3sg=aushängt past=aushing pp=ausgehangen subj2=aushinge perf=haben sense=intransitive note=der Plan hängt aus (is posted)
 aushängen verb class=weak sep=aus pp=ausgehängt perf=haben sense=transitive note=einen Plan aushängen; eine Tür aushängen
+aushebeln verb class=weak sep=aus pp=ausgehebelt perf=haben
 aushecken verb class=weak sep=aus pp=ausgeheckt perf=haben
 aushelfen verb class=strong sep=aus 3sg=aushilft past=aushalf subj2=aushülfe|aushälfe[rare] pp=ausgeholfen perf=haben
 aushöhlen verb class=weak sep=aus pp=ausgehöhlt perf=haben

@@ -9,6 +9,7 @@ nascent adj
 nasty           adj cmp=er adv=nastily
 national        adj adv=nationally
 nationalist     adj
+nationalistic adj
 nationwide      adj
 native          adj
 natural         adj adv=naturally
@@ -34,6 +35,7 @@ negligent adj cmp=more adv=negligently
 negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
+neo-Nazi adj
 neoclassical adj
 neoliberal adj
 Neolithic adj
@@ -41,8 +43,10 @@ neonatal adj
 nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
+nether adj attr_only
 neural adj
 neurological adj
+neuronal adj
 neuter adj
 neutral         adj adv=neutrally
 new             adj cmp=er adv=newly

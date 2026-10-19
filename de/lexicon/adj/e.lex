@@ -1,4 +1,5 @@
 eben adj cmp=ebener sup=ebensten note=flat (eine ebene Fläche)
+ebenbürtig adj
 echt adj cmp=echter sup=echtesten
 eckig adj cmp=eckiger sup=eckigsten
 edel adj cmp=edler sup=edelsten
@@ -30,6 +31,7 @@ einfältig adj cmp=einfältiger sup=einfältigsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
+eingeschossig adj
 eingleisig adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
@@ -93,6 +95,7 @@ erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
 erfreulich adj cmp=erfreulicher sup=erfreulichsten
+ergonomisch adj
 erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
@@ -114,6 +117,7 @@ erstbeschrieben adj conf=90 note=biology: first described (participle of erstbes
 erstmalig adj
 erträglich adj cmp=erträglicher sup=erträglichsten
 erwachsen adj
+erwähnenswert adj
 erwünscht adj
 erzählend adj
 essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell

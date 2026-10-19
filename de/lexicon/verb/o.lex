@@ -5,6 +5,7 @@ offenlegen verb class=weak sep=offen pp=offengelegt perf=haben
 operieren verb class=weak pp=operiert perf=haben
 opfern verb class=weak pp=geopfert perf=haben refl=acc
 optimieren verb class=weak pp=optimiert perf=haben
+ordinieren verb class=weak pp=ordiniert perf=haben
 ordnen verb class=weak pp=geordnet perf=haben
 organisieren verb class=weak pp=organisiert perf=haben
 orientieren verb class=weak pp=orientiert perf=haben refl=acc

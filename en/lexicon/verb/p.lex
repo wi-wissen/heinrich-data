@@ -11,6 +11,7 @@ pair verb
 pale verb
 pall verb
 pan verb
+panel verb
 panhandle verb
 panic verb
 pant verb
@@ -200,6 +201,7 @@ premiere verb
 prep verb
 prepare verb
 prepay verb prefix=pre past=prepaid pp=prepaid
+prerecord verb
 prescribe verb
 present verb
 preserve verb
@@ -249,6 +251,7 @@ propagate verb
 propel verb double
 prophesy verb
 propose verb
+propound verb
 prorate verb conf=85
 prorogue verb
 proscribe verb
@@ -282,6 +285,7 @@ purchase verb
 purge verb
 purify verb
 purport verb
+purpose verb
 purr verb
 pursue verb
 push verb

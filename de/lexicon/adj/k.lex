@@ -2,15 +2,21 @@ kabellos adj
 kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
 kalifornisch adj
+kalkulatorisch adj
 kalt adj cmp=kälter sup=kältesten
+kaltblütig adj cmp=kaltblütiger sup=kaltblütigsten
+kamerunisch adj
 kanadisch adj
 kanarisch adj
 kantonal adj
+kapitalistisch adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
 kasachisch adj
+katalanisch adj
 katastrophal adj
+kategorisch adj
 katholisch adj
 käuflich adj
 kaufmännisch adj
@@ -55,6 +61,7 @@ kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
+konfessionell adj
 konform adj note=mit etwas konform gehen; base of datenschutzkonform, gesetzeskonform
 kongruent adj
 königlich adj
@@ -84,6 +91,7 @@ kostspielig adj cmp=kostspieliger sup=kostspieligsten
 kräftig adj cmp=kräftiger sup=kräftigsten
 krampfhaft adj
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
+krankhaft adj cmp=krankhafter sup=krankhaftesten
 kränklich adj cmp=kränklicher sup=kränklichsten
 krass adj cmp=krasser sup=krassesten
 kraus adj cmp=krauser sup=krausesten
@@ -104,6 +112,7 @@ kühn adj cmp=kühner sup=kühnsten
 kulant adj cmp=kulanter sup=kulantesten
 kulturell adj
 kündbar adj
+kundig adj cmp=kundiger sup=kundigsten
 künftig adj
 künstlerisch adj
 künstlich adj cmp=künstlicher sup=künstlichsten

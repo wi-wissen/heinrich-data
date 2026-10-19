@@ -2,6 +2,7 @@ MA             noun abbr note=Master of Arts; also Massachusetts
 ma             noun style=colloquial note=mother
 ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
+mace noun
 Macedonian noun
 machination noun
 machine        noun
@@ -15,6 +16,7 @@ mademoiselle   noun pl=mesdemoiselles|mademoiselles
 madman noun pl=madmen
 madness        noun pl=- note=uncountable
 madonna        noun
+maestro noun pl=maestros|maestri
 mafia noun
 magazine       noun
 magic          noun pl=- note=uncountable
@@ -43,6 +45,7 @@ main           noun
 mainframe noun
 mainland       noun
 mainline noun
+mainmast noun
 mainsail noun
 mainstay noun
 mainstream     noun
@@ -62,7 +65,9 @@ Malaysian      noun
 male           noun
 malfunction noun
 malice         noun pl=- note=uncountable
+malignity noun
 mall           noun
+mallard noun
 mallet noun
 malnutrition noun pl=- note=uncountable
 malpractice noun
@@ -70,6 +75,7 @@ malware noun pl=- note=uncountable
 mama noun
 mamma          noun style=archaic note=mother
 mammal         noun
+mammogram noun
 mammoth noun
 mammy noun
 man            noun pl=men
@@ -102,10 +108,12 @@ manner         noun
 mannerism noun
 manor          noun
 manpower noun pl=- note=uncountable
+manse noun
 mansion        noun
 manslaughter noun pl=- note=uncountable
 mantelpiece noun
 mantle         noun
+mantra noun
 manual         noun
 manufacture    noun
 manufacturer   noun
@@ -117,6 +125,7 @@ maple          noun
 marathon       noun
 marble         noun
 march          noun
+marcher noun
 mare noun
 margarine noun pl=- note=uncountable
 margin         noun
@@ -133,9 +142,11 @@ marketer noun
 marketing      noun pl=- note=uncountable
 marketplace    noun
 marking        noun
+marksman noun pl=marksmen
 marksmanship noun pl=- note=uncountable
 markup noun
 marmalade noun pl=- note=uncountable
+marque noun
 marquess noun
 marquis        noun pl=marquises|marquis
 marriage       noun
@@ -149,6 +160,7 @@ marvel         noun
 Marxist noun
 mascot         noun
 masculinity noun
+mash noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
@@ -162,6 +174,8 @@ master         noun
 masterclass noun
 masterpiece noun
 mastery noun pl=- note=uncountable
+masthead noun
+mastiff noun pl=mastiffs
 mat noun
 match          noun
 mate           noun
@@ -214,12 +228,14 @@ mechanic       noun
 mechanism      noun
 medal          noun
 medalist       noun gb=medallist
+medallion noun
 median         noun
 mediation noun
 mediator noun
 medic noun
 medication     noun
 medicine       noun
+mediocrity noun
 meditation noun
 medium         noun pl=media|mediums
 medley noun
@@ -230,6 +246,7 @@ meeting        noun
 megabyte noun
 megawatt noun
 melancholy     noun pl=- note=uncountable
+melanoma noun
 melee noun conf=90 note=also written mêlée
 melodrama noun
 melody         noun
@@ -288,6 +305,7 @@ method         noun
 Methodist      noun
 methodology    noun
 methyl noun
+methylation noun
 metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
@@ -341,11 +359,13 @@ mill           noun
 millennium     noun pl=millennia|millenniums
 miller noun
 millimeter noun gb=millimetre
+milliner noun
 millionaire noun
 millipede noun
 millisecond noun
 millstone noun
 mimic noun
+minaret noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
 mindset noun
@@ -354,8 +374,10 @@ miner          noun
 mineral        noun
 mini           noun
 miniature      noun
+minimalist noun
 minimum        noun pl=minima|minimums
 mining         noun
+minion noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
@@ -372,6 +394,7 @@ mirage noun
 mire noun
 mirror         noun
 mirth noun pl=- note=uncountable
+miscalculation noun
 miscarriage noun
 mischief       noun pl=- note=uncountable
 misclassification noun
@@ -447,6 +470,7 @@ molasses noun pl=- note=uncountable; the lemma ends in -s
 mold           noun gb=mould
 mole noun
 molecule       noun
+molestation noun
 mollusk noun gb=mollusc
 mom            noun region=US note=British mum
 moment         noun
@@ -495,6 +519,7 @@ morale noun pl=- note=uncountable
 morality       noun
 morass noun
 moratorium     noun pl=moratoria|moratoriums
+moray noun
 morbidity noun
 Mormon noun
 morn noun style=archaic note=poetic for morning
@@ -525,6 +550,7 @@ motif noun note=plural motifs
 motion         noun
 motivation     noun
 motive         noun
+motley noun
 motor          noun
 motorbike noun
 motorcycle     noun
@@ -537,13 +563,16 @@ mount          noun
 mountain       noun
 mountaineer noun
 mountaineering noun pl=- note=uncountable (the sport)
+mountainside noun
 mourner noun
 mourning       noun pl=- note=uncountable
 mouse          noun pl=mice
 mouth          noun
 mouthful noun
+mouthpiece noun
 move           noun
 movement       noun
+mover noun
 movie          noun
 MP             noun abbr note=Member of Parliament; military police
 mpox noun pl=- note=uncountable
@@ -555,6 +584,7 @@ muddle noun
 muffin noun
 mug noun
 Mughal noun
+mujahideen noun pl_only note=Islamic guerrilla fighters; spelling varies (mujahedin, mujahidin)
 mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
 mulberry noun
 mule           noun
@@ -585,7 +615,9 @@ music          noun pl=- note=uncountable
 musical        noun
 musician       noun
 musicologist noun
+musk noun pl=- note=uncountable
 musket noun
+musketeer noun
 musketry noun pl=- note=uncountable
 Muslim         noun
 muslin noun

@@ -12,6 +12,7 @@ abort verb
 abound verb
 abridge verb
 abseil verb region=GB
+absolve verb
 absorb verb
 abstain verb
 abstract verb
@@ -107,6 +108,7 @@ amalgamate verb
 amass verb
 amaze verb
 ambush verb
+ameliorate verb
 amend verb
 amortize verb gb=amortise|amortize
 amount verb

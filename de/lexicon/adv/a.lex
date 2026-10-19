@@ -13,6 +13,8 @@ alsbald adv
 alsdann adv
 alters adv note=seit alters, von alters her
 anbei adv note=in letters: anbei erhalten Sie
+anderenfalls adv type=conj
+andernorts adv type=place
 anderwärts adv type=place
 anno adv note=anno 1900
 anscheinend adv

@@ -16,6 +16,7 @@ factor         noun
 factorization noun gb=factorisation|factorization
 factory        noun
 faculty        noun
+faery noun style=archaic
 fail           noun
 failing noun
 failure        noun
@@ -65,6 +66,7 @@ fatality       noun
 fate           noun
 father         noun
 fatherhood noun pl=- note=uncountable
+fatherland noun
 fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
@@ -94,6 +96,7 @@ feeder noun
 feedstock noun
 feel           noun
 feeling        noun
+feint noun
 felicity noun
 feline noun
 fell           noun note=hill in northern England
@@ -104,9 +107,11 @@ felon noun
 felony noun
 felt           noun note=the fabric
 female         noun
+femininity noun pl=- note=uncountable
 feminism noun pl=- note=uncountable
 feminist       noun
 femme noun conf=80 note=loanword, chiefly in femme fatale
+femur noun pl=femurs|femora
 fen noun
 fence          noun
 fencer noun
@@ -137,6 +142,7 @@ fiasco noun pl=fiascos|fiascoes
 fiat noun
 fiber          noun gb=fibre
 fiberglass noun gb=fibreglass pl=- note=uncountable
+fibrillation noun
 fibrosis noun pl=fibroses
 fiction        noun
 fiddle noun
@@ -152,6 +158,7 @@ fig            noun
 fight          noun
 fighter        noun
 figure         noun
+figurehead noun
 figurine noun
 filament noun
 file           noun
@@ -162,6 +169,7 @@ filing         noun
 Filipino       noun note=plural Filipinos
 fill           noun
 filler noun
+filly noun
 film           noun
 filmmaker      noun
 filmmaking noun pl=- note=uncountable
@@ -242,6 +250,7 @@ flash          noun
 flashback noun
 flask noun
 flat           noun
+flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)
 flattery noun
 flavor         noun gb=flavour
 flaw noun
@@ -255,6 +264,7 @@ flex noun
 flexibility    noun
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
+flier noun note=variant spelling of flyer
 flight         noun
 fling          noun
 flint noun
@@ -273,6 +283,7 @@ floor          noun
 flop noun
 flora          noun
 florin noun
+flotation noun note=floatation is a rare variant
 flotilla noun
 flounder noun pl=flounder|flounders
 flour          noun
@@ -285,12 +296,14 @@ fluctuation noun
 flue noun
 fluency noun pl=- note=uncountable
 fluid          noun
+fluoride noun
 flurry noun
 flush          noun
 flute          noun
 flutter noun
 flux           noun
 fly            noun
+flycatcher noun
 flyer noun conf=90 note=also flier
 flywheel noun
 foal noun
@@ -307,6 +320,7 @@ folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
 folklorist noun
+follicle noun
 follow-up      noun
 follower       noun
 folly          noun
@@ -351,6 +365,7 @@ foreground noun
 forehead       noun
 foreigner      noun
 foreman noun pl=foremen
+foremast noun
 forenoon noun style=archaic
 forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
@@ -376,6 +391,7 @@ formula        noun pl=formulas|formulae
 formulary noun
 formulation    noun
 fort           noun
+forte noun
 fortification  noun
 fortitude noun
 fortnight      noun region=GB
@@ -443,6 +459,7 @@ fright         noun
 fringe         noun
 frisbee noun
 fritillary noun
+frivolity noun
 frock noun
 frog noun
 frolic noun
@@ -461,6 +478,7 @@ fruition noun
 frustration    noun
 FTA            noun abbr note=free trade agreement
 FTE noun abbr note=full-time equivalent
+fudge noun
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
@@ -472,8 +490,10 @@ fun            noun pl=- note=uncountable
 function       noun
 functionality  noun
 functionary noun
+functor noun
 fund           noun
 fundamental    noun
+fundamentalist noun
 funding        noun pl=- note=uncountable; the verb form funding comes from fund
 fundraiser noun
 fundraising    noun pl=- note=uncountable
@@ -489,9 +509,11 @@ furniture      noun pl=- note=uncountable
 furrow noun
 furtherance    noun pl=- note=uncountable
 fury           noun
+furze noun pl=- note=uncountable
 fuse noun
 fuselage       noun
 fusion         noun
 fuss           noun
 futility noun pl=- note=uncountable
+futsal noun pl=- note=uncountable
 future         noun

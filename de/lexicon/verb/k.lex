@@ -88,6 +88,7 @@ konstituieren verb class=weak pp=konstituiert perf=haben refl=acc
 konstruieren verb class=weak pp=konstruiert perf=haben
 konsumieren verb class=weak pp=konsumiert perf=haben
 kontaktieren verb class=weak pp=kontaktiert perf=haben
+konterkarieren verb class=weak pp=konterkariert perf=haben
 kontieren verb class=weak pp=kontiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
 konvertieren verb class=weak pp=konvertiert perf=haben|sein note=sein for a change of religion (er ist konvertiert), haben for data

@@ -2,6 +2,7 @@ B-side noun
 BA noun abbr note=Bachelor of Arts
 babble noun
 babe noun
+babel noun
 baboon noun
 baby noun
 Babylonian noun
@@ -47,6 +48,7 @@ bale noun
 ball noun
 ballad noun
 ballast noun pl=- note=uncountable
+ballerina noun
 ballet noun
 balloon noun
 ballot noun
@@ -74,6 +76,7 @@ bankroll noun
 bankruptcy noun
 banner noun
 banquet noun
+bantam noun
 banter noun pl=- note=uncountable
 baptism noun
 Baptist noun
@@ -96,8 +99,10 @@ barometer noun
 baron noun
 baroness noun
 baronet noun
+baronetcy noun
 barony noun
 barque noun
+barrack noun note=usually plural barracks, which is its own entry
 barracks noun pl=barracks note=singular and plural: a barracks
 barrage noun
 barrel noun
@@ -115,6 +120,7 @@ baseline noun
 baseman noun pl=basemen
 basement noun
 baseness noun pl=- note=uncountable
+bash noun
 basic noun note=the basics
 basil noun pl=- note=uncountable
 basilica noun
@@ -125,6 +131,7 @@ basketball noun
 Basque noun
 bass noun
 bassist noun
+bassoon noun
 bastard noun
 bastion noun
 bat noun
@@ -245,10 +252,12 @@ bicycle noun
 bid noun
 bidder noun
 biennial noun
+bight noun
 bigotry noun pl=- note=uncountable
 bike noun
 bikini noun
 bile noun pl=- note=uncountable
+bilirubin noun pl=- note=uncountable
 bill noun
 billboard noun
 billiard noun note=attributive (billiard table); plural billiards is the game
@@ -259,9 +268,11 @@ binary noun
 binder noun
 binding noun
 bingo noun pl=- note=uncountable
+binoculars noun pl_only
 binomial noun
 bint noun style=offensive note=British slang, derogatory for a woman
 biochemist noun
+biochemistry noun pl=- note=uncountable
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
@@ -277,8 +288,10 @@ biomass noun pl=- note=uncountable
 biometrics noun pl=- note=uncountable, the field; biometric is the adjective
 biopic noun
 biopsy noun
+bioremediation noun pl=- note=uncountable
 biosecurity noun pl=- note=uncountable
 biosimilar noun
+biosphere noun
 biotechnology noun
 biplane noun
 birch noun
@@ -324,9 +337,11 @@ bleach noun
 bleacher noun note=mostly plural bleachers (stadium seating)
 blend noun
 blender noun
+blendstock noun conf=90 note=fuel industry term
 blessing noun
 blight noun
 blind noun
+blindfold noun
 blindness noun pl=- note=uncountable
 bliss noun pl=- note=uncountable
 blister noun
@@ -335,9 +350,11 @@ blizzard noun
 bloc noun
 block noun
 blockade noun
+blockage noun
 blockbuster noun
 blockchain noun
 blocker noun
+blockhouse noun
 blog noun
 blogger noun
 blond noun
@@ -370,6 +387,7 @@ boardwalk noun
 boast noun
 boat noun
 boater noun
+boathouse noun
 boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
@@ -431,6 +449,7 @@ borrowing noun
 Bosnian noun
 bosom noun
 boss noun
+bot noun
 botanist noun
 botany noun pl=- note=uncountable
 botnet noun
@@ -524,6 +543,7 @@ briefing noun
 brig noun
 brigade noun
 brigadier noun
+brigand noun
 brigantine noun
 brightness noun
 brilliance noun pl=- note=uncountable
@@ -537,6 +557,7 @@ broadband noun pl=- note=uncountable
 broadcast noun
 broadcaster noun
 broadside noun
+brocade noun
 broccoli noun pl=- note=uncountable
 brochure noun
 broker noun
@@ -569,6 +590,8 @@ bubble noun
 buck noun
 bucket noun
 buckle noun
+buckskin noun
+buckwheat noun pl=- note=uncountable
 bud noun
 Buddhism noun pl=- note=uncountable
 Buddhist noun
@@ -592,6 +615,7 @@ bulge noun
 bulk noun pl=- note=uncountable
 bulkhead noun
 bull noun
+bulldog noun
 bullet noun
 bulletin noun
 bullhead noun
@@ -630,6 +654,7 @@ burnout noun
 burp noun
 burrito noun pl=burritos
 burrow noun
+bursary noun
 burst noun
 burthen noun style=archaic note=archaic spelling of burden
 bus noun
@@ -642,6 +667,7 @@ businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen
 bust noun
 bustle noun
+butane noun pl=- note=uncountable
 butcher noun
 butler noun
 butt noun

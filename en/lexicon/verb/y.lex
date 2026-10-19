@@ -1,3 +1,4 @@
+yank verb
 yap verb
 yaw verb
 yawn verb

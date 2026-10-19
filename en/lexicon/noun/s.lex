@@ -51,6 +51,7 @@ samurai noun pl=samurai
 sanction noun
 sanctity noun pl=- note=uncountable
 sanctuary noun
+sanctum noun pl=sanctums|sancta
 sand noun
 sandal noun
 sandbox noun region=US note=British sandpit
@@ -93,11 +94,14 @@ savior noun gb=saviour
 savor noun gb=savour
 savvy noun pl=- note=uncountable
 saw noun
+sawdust noun pl=- note=uncountable
 sawmill noun
+sax noun
 Saxon noun
 saxophone noun
 saxophonist noun
 saying noun
+scabbard noun
 scaffold noun
 scaffolding noun pl=- note=uncountable (the structure)
 scalability noun pl=- note=uncountable
@@ -105,6 +109,7 @@ scalar noun
 scale noun
 scalp noun
 scam noun
+scamp noun
 scan noun
 scandal noun
 scanner noun
@@ -129,6 +134,7 @@ school noun
 schoolbag noun
 schoolboy noun
 schoolchild noun pl=schoolchildren
+schoolgirl noun
 schoolhouse noun
 schooling noun pl=- note=uncountable
 schoolmaster noun
@@ -144,6 +150,7 @@ scion noun
 scissors noun pl_only
 sclerosis noun
 scolding noun
+scoliosis noun pl=- note=uncountable
 scone noun
 scoop noun
 scooter noun
@@ -186,8 +193,10 @@ scud noun
 scuffle noun
 sculptor noun
 sculpture noun
+scum noun pl=- note=uncountable
 scuttle noun
 scutum noun pl=scuta note=anatomical plate (insects, reptiles)
+scythe noun
 sea noun
 seabed noun
 seaboard noun
@@ -201,6 +210,8 @@ seahorse noun
 seal noun
 seam noun
 seaman noun pl=seamen
+seamanship noun pl=- note=uncountable
+seamstress noun
 seaplane noun
 seaport noun
 search noun
@@ -243,6 +254,7 @@ seigneur noun conf=90 note=historical feudal title
 seizure noun
 selection noun
 selectman noun pl=selectmen
+selector noun
 self noun pl=selves
 selfie noun
 selfishness noun pl=- note=uncountable
@@ -277,6 +289,7 @@ sentinel noun
 sentry noun
 separation noun
 separatist noun
+separator noun
 sepsis noun pl=- note=uncountable
 septum noun pl=septa
 sepulchre noun us=sepulcher|sepulchre
@@ -285,8 +298,10 @@ sequence noun
 sequencing noun
 sequestration noun
 Serb noun
+serenade noun
 serenity noun pl=- note=uncountable
 serf noun note=plural serfs
+serge noun
 sergeant noun
 serial noun
 series noun pl=series
@@ -319,6 +334,7 @@ sewerage noun pl=- note=uncountable
 sex noun
 sexuality noun
 shack noun
+shackle noun
 shad noun pl=shad|shads
 shade noun
 shadow noun
@@ -331,8 +347,10 @@ sham noun
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
 shamrock noun
+shank noun
 shanty noun
 shape noun
+shard noun
 share noun
 shareholder noun
 shareholding noun
@@ -366,6 +384,7 @@ shingle noun
 shinpad noun
 ship noun
 shipbuilding noun pl=- note=uncountable
+shipmate noun
 shipment noun
 shipper noun
 shipping noun pl=- note=uncountable
@@ -373,6 +392,7 @@ shipwreck noun
 shipyard noun
 shire noun
 shirt noun
+shit noun style=colloquial
 shiver noun
 shoal noun
 shock noun
@@ -420,6 +440,7 @@ shudder noun
 shunt noun
 shutdown noun
 shutoff noun
+shutout noun
 shutter noun
 shuttle noun
 shyness noun pl=- note=uncountable
@@ -430,6 +451,7 @@ sickness noun
 side noun
 sidebar noun
 sideboard noun
+sidekick noun
 sideline noun
 sidenote noun conf=85 note=a side note; also written as two words
 sidewalk noun region=US note=GB pavement
@@ -446,6 +468,7 @@ signal noun
 signatory noun
 signature noun
 signboard noun
+signer noun
 significance noun
 signification noun
 signorina noun pl=signorinas|signorine conf=85 note=Italian loanword; plural forms unsure
@@ -509,7 +532,9 @@ skirmish noun
 skirmisher noun
 skirt noun
 skull noun
+skunk noun
 sky noun
+skylight noun
 skyline noun
 skyscraper noun
 SLA noun abbr note=service-level agreement
@@ -558,6 +583,7 @@ slugger noun
 sluice noun
 slum noun
 slumber noun
+slump noun
 slur noun
 slurry noun
 smallholder noun
@@ -657,6 +683,7 @@ soprano noun note=plural sopranos
 sorbet noun
 sorcerer noun
 sorcery noun pl=- note=uncountable
+sorrel noun
 sorrow noun
 sort noun
 sorter noun
@@ -678,11 +705,13 @@ sovereign noun
 sovereignty noun
 Soviet noun
 sow noun note=female pig
+soy noun pl=- note=uncountable
 spa noun
 space noun
 spacecraft noun pl=spacecraft
 spaceflight noun
 spaceship noun
+spacetime noun pl=- note=uncountable
 spacing noun
 spade noun
 spadefoot noun
@@ -755,6 +784,7 @@ splash noun
 spleen noun
 splendor noun gb=splendour
 splinter noun
+splutter noun
 spokesman noun pl=spokesmen
 spokesperson noun pl=spokespersons|spokespeople
 spokeswoman noun pl=spokeswomen
@@ -773,6 +803,7 @@ spot noun
 spotlight noun
 spotter noun
 spouse noun
+spout noun
 sprawl noun pl=- note=uncountable (urban sprawl)
 spray noun
 spreadsheet noun
@@ -883,10 +914,13 @@ steel noun
 steelhead noun pl=steelhead conf=85 note=plural steelheads unsure
 steelmaking noun pl=- note=uncountable
 steelworker noun
+steelworks noun pl=steelworks note=singular and plural: a steelworks
 steeple noun
 steerage noun pl=- note=uncountable
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
+stench noun
 stenographer noun
+stenosis noun pl=stenoses
 step noun
 stepbrother noun
 stepchild noun pl=stepchildren
@@ -934,12 +968,15 @@ stockholder noun
 stocking noun
 stockpile noun
 stocktaking noun pl=- note=uncountable
+stoic noun
 stomach noun pl=stomachs
 stomachache noun
 stone noun
 stool noun
 stop noun
+stopover noun
 stoppage noun
+stopper noun
 storage noun pl=- note=uncountable
 store noun
 storefront noun
@@ -951,6 +988,7 @@ stormwater noun pl=- note=uncountable
 story noun sense=floor gb=storey
 story noun sense=tale
 storyline noun
+storyteller noun
 storytelling noun pl=- note=uncountable
 stove noun
 straddle noun
@@ -1042,6 +1080,7 @@ subparagraph noun
 subpart noun
 subpoena noun
 subpopulation noun
+subregion noun
 subscriber noun
 subscription noun
 subsection noun
@@ -1058,6 +1097,7 @@ substitute noun
 substitution noun
 substrate noun
 subsurface noun pl=- note=uncountable
+subterfuge noun
 subtitle noun
 subtlety noun
 subtotal noun
@@ -1072,8 +1112,10 @@ success noun
 succession noun
 successor noun
 succor noun gb=succour
+succulent noun
 suck noun style=colloquial conf=85 note=rare noun use
 sucker noun
+suction noun pl=- note=uncountable
 Sudanese noun pl=Sudanese
 suddenness noun pl=- note=uncountable
 sudoku noun
@@ -1137,6 +1179,7 @@ supervision noun
 supervisor noun
 supper noun
 supplement noun
+supplementation noun
 supplication noun
 supplier noun
 supply noun
@@ -1157,6 +1200,7 @@ surmise noun
 surname noun
 surplus noun
 surprise noun
+surrealist noun
 surrender noun
 surrogate noun
 surroundings noun pl_only
@@ -1209,6 +1253,7 @@ swirl noun
 switch noun
 switchboard noun
 swoon noun
+swoop noun
 sword noun
 sycamore noun
 syllable noun
@@ -1230,9 +1275,11 @@ synergy noun
 synod noun
 synonym noun
 syntax noun
+synth noun
 synthesis noun pl=syntheses
 synthesizer noun gb=synthesiser|synthesizer
 syphilis noun pl=- note=uncountable
 Syrian noun
+syringe noun
 syrup noun
 system noun

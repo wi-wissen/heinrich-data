@@ -7,6 +7,7 @@ abbreviation noun
 abdication noun
 abdomen noun
 abduction noun
+aberration noun
 abeyance noun pl=- note=uncountable
 abhorrence noun pl=- note=uncountable
 ability noun
@@ -14,6 +15,7 @@ abnormality noun
 abode noun
 abolition noun
 abolitionist noun
+abomination noun
 aborigine noun
 Aborigine noun note=indigenous Australian
 abortion noun
@@ -61,6 +63,7 @@ accountability noun pl=- note=uncountable
 accountancy noun pl=- note=uncountable
 accountant noun
 accounting noun pl=- note=uncountable
+accoutrement noun
 accreditation noun
 accretion noun
 accrual noun
@@ -99,6 +102,7 @@ actor noun
 actress noun
 actuality noun
 actuary noun
+actuator noun
 acuity noun
 acumen noun pl=- note=uncountable
 acuteness noun pl=- note=uncountable
@@ -173,6 +177,7 @@ advocate noun
 adware noun pl=- note=uncountable
 aerial noun
 aerodrome noun
+aerodynamics noun pl=- note=uncountable
 aeronautics noun pl=- note=singular in use
 aerosol noun
 aerospace noun pl=- note=uncountable
@@ -200,6 +205,7 @@ age noun
 agency noun
 agenda noun
 agent noun
+agglomeration noun
 aggregate noun
 aggregation noun
 aggregator noun
@@ -246,6 +252,7 @@ alacrity noun pl=- note=uncountable
 alarm noun
 Albanian noun
 album noun
+alcalde noun conf=85 note=Spanish and historical: mayor, magistrate
 alcohol noun
 alcoholic noun
 alcoholism noun pl=- note=uncountable
@@ -260,6 +267,7 @@ algebra noun
 Algerian noun
 algorithm noun
 alias noun
+alibi noun
 alien noun
 alienation noun
 alignment noun
@@ -290,9 +298,11 @@ altar noun
 alteration noun
 altercation noun
 alternate noun
+alternation noun
 alternative noun
 altitude noun
 alto noun pl=altos
+alumina noun pl=- note=uncountable
 aluminum noun gb=aluminium pl=- note=uncountable
 alumna noun pl=alumnae
 alumnus noun pl=alumni
@@ -332,6 +342,7 @@ analogy noun
 analysis noun pl=analyses
 analyst noun
 analytics noun pl_only conf=90 note=construed as singular or plural
+analyzer noun gb=analyser
 anarchist noun
 anarchy noun pl=- note=uncountable
 anatomy noun
@@ -366,6 +377,7 @@ annex noun gb=annexe|annex conf=90 note=British annexe for an added building
 annexation noun
 annihilation noun
 anniversary noun
+annotation noun
 announcement noun
 announcer noun
 annoyance noun
@@ -402,6 +414,7 @@ antigen noun
 antimicrobial noun
 antipathy noun
 antiquarian noun
+antiquary noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
@@ -494,6 +507,7 @@ archway noun
 ardor noun gb=ardour
 area noun
 arena noun
+argent noun conf=90 note=heraldry: silver; also poetic adjective
 Argentine noun
 argon noun pl=- note=uncountable
 argument noun
@@ -581,6 +595,7 @@ assortment noun
 assumption noun
 assurance noun
 Assyrian noun
+asterisk noun
 asteroid noun
 asthma noun pl=- note=uncountable
 astonishment noun pl=- note=uncountable
@@ -655,6 +670,7 @@ autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
 autocorrect noun pl=- note=uncountable
+autocracy noun
 autograph noun
 automaker noun
 automation noun pl=- note=uncountable
@@ -685,6 +701,7 @@ awardee noun
 awareness noun pl=- note=uncountable
 awe noun pl=- note=uncountable
 awkwardness noun
+awning noun
 axe noun us=ax|axe
 axiom noun
 axis noun pl=axes

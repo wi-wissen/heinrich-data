@@ -9,6 +9,7 @@ mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 mannigfaltig adj cmp=mannigfaltiger sup=mannigfaltigsten
 männlich adj
 manuell adj
+marin adj
 maritim adj
 markant adj cmp=markanter sup=markantesten
 märkisch adj
@@ -23,7 +24,9 @@ materiell adj
 mathematisch adj
 matt adj cmp=matter sup=mattesten
 mausetot adj
+mautpflichtig adj
 maximal adj
+mazedonisch adj
 mechanisch adj
 mecklenburgisch adj
 medial adj
@@ -39,6 +42,7 @@ merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
 metallisch adj
 metaphorisch adj
+metaphysisch adj
 methodisch adj
 metrisch adj
 mexikanisch adj
@@ -62,6 +66,7 @@ mittelständisch adj
 mittig adj
 mittler adj attr_only sup=mittelsten note=die mittlere Reife, der mittelste Platz; no comparative
 mobil adj cmp=mobiler sup=mobilsten
+moderat adj cmp=moderater sup=moderatesten
 modern adj cmp=moderner sup=modernsten
 modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten

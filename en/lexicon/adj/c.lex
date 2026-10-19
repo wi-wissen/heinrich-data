@@ -67,6 +67,7 @@ chartered adj
 chaste adj cmp=er|more adv=chastely
 chatty adj cmp=er
 cheap adj cmp=er adv=cheaply
+checkered adj gb=chequered
 cheeky adj cmp=er adv=cheekily
 cheerful adj cmp=more adv=cheerfully
 cheerless adj
@@ -74,6 +75,7 @@ cheery adj cmp=er adv=cheerily
 cheesy adj cmp=er
 chemical adj adv=chemically
 chewy adj cmp=er
+chic adj cmp=chicer sup=chicest note=generator would double the c (chiccer); also compared with more
 chief adj
 childish adj cmp=more adv=childishly
 childless adj
@@ -91,6 +93,7 @@ chromatic adj
 chronic adj adv=chronically
 chronological adj adv=chronologically
 chubby adj cmp=er
+chunky adj cmp=er
 cinematic adj
 circadian adj
 circuitous adj
@@ -126,6 +129,7 @@ cluttered adj cmp=more
 coal-fired adj
 coarse adj cmp=er adv=coarsely
 coastal adj
+coaxial adj
 Cockney adj
 coeducational adj
 coercive adj
@@ -134,9 +138,13 @@ cognitive adj adv=cognitively
 cognizant adj gb=cognisant|cognizant
 coherent adj cmp=more adv=coherently
 cohesive adj cmp=more
+coincident adj
+coincidental adj adv=coincidentally
 cold adj cmp=er adv=coldly
 collaborative adj adv=collaboratively
 collateral adj
+collectable adj
+collectible adj
 collective adj adv=collectively
 collegiate adj
 colloquial adj cmp=more adv=colloquially
@@ -186,6 +194,7 @@ composed adj cmp=more adv=composedly
 composite adj
 compositional adj
 compound adj
+comprehensible adj cmp=more adv=comprehensibly
 comprehensive adj adv=comprehensively
 compulsory adj adv=compulsorily
 computational adj adv=computationally
@@ -210,7 +219,7 @@ confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
 confirmatory adj
 conflicting adj
-confused adj cmp=more
+confused adj cmp=more adv=confusedly
 confusing adj cmp=more
 congenial adj cmp=more
 congenital adj adv=congenitally
@@ -241,7 +250,7 @@ consummate adj adv=consummately
 contactless adj
 contagious adj cmp=more adv=contagiously
 contemplative adj
-contemporaneous adj
+contemporaneous adj adv=contemporaneously
 contemporary adj
 contemptible adj cmp=more
 contemptuous adj cmp=more adv=contemptuously
@@ -279,6 +288,7 @@ Coptic adj
 coral adj
 cordial adj adv=cordially
 core adj
+corneal adj
 Cornish adj
 coronary adj
 corporal adj
@@ -355,11 +365,13 @@ cultured adj cmp=more
 cumbersome adj cmp=more
 cumulative adj adv=cumulatively
 cunning adj cmp=more adv=cunningly
+curative adj
 curious adj cmp=more adv=curiously
 curly adj cmp=er
 current adj cmp=more adv=currently
 cursed adj
 curt adj cmp=er adv=curtly
+curtained adj
 curved adj
 custodial adj
 custom adj
@@ -372,4 +384,5 @@ cyclical adj adv=cyclically
 cylindrical adj
 cynical adj cmp=more adv=cynically
 Cypriot adj
+cystic adj
 Czech adj

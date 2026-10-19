@@ -7,6 +7,7 @@ Haitian adj
 hale adj
 halfway        adj attr_only
 handheld adj
+handmade adj
 handsome       adj cmp=er|more adv=handsomely
 handwritten adj
 handy adj cmp=er
@@ -29,6 +30,7 @@ haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
+headless adj
 headstrong adj cmp=more
 healthful adj cmp=more
 healthy        adj cmp=er adv=healthily
@@ -48,6 +50,7 @@ helpful        adj cmp=more adv=helpfully
 helpless       adj adv=helplessly
 hemorrhagic adj gb=haemorrhagic
 heraldic adj
+herbaceous adj
 herbal adj
 hereditary     adj
 heretical adj
@@ -99,7 +102,7 @@ horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
 horticultural adj
-hospitable adj cmp=more
+hospitable adj cmp=more adv=hospitably
 hostile        adj
 hot            adj cmp=er adv=hotly
 hourly         adj
@@ -120,7 +123,9 @@ husky adj cmp=er adv=huskily
 hybrid         adj
 hydraulic      adj
 hydroelectric adj
+hydrographic adj
 hydrologic adj
+hydrophobic adj
 hyperbaric adj
 hyperbolic adj
 hypnotic adj adv=hypnotically

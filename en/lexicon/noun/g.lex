@@ -23,6 +23,7 @@ gambling       noun pl=- note=uncountable; the verb form comes from gamble
 game           noun
 gamelan noun
 gameplay       noun pl=- note=uncountable
+gamer noun
 gamete noun
 gaming         noun pl=- note=uncountable
 gamma noun
@@ -48,7 +49,9 @@ gas            noun pl=gases
 gasification noun pl=- note=uncountable
 gasoline       noun pl=- note=uncountable
 gasp           noun
+gastropod noun
 gate           noun
+gatehouse noun
 gatekeeper noun
 gateway        noun
 gathering      noun
@@ -94,10 +97,12 @@ genre          noun
 gent noun
 gentleman      noun pl=gentlemen
 gentleness noun
+gentrification noun pl=- note=uncountable
 gentry noun pl=- note=collective
 genus          noun pl=genera
 geographer noun
 geography      noun
+geolocation noun
 geologist noun
 geology        noun
 geometry       noun
@@ -128,6 +133,7 @@ girl           noun
 girlfriend     noun
 girlhood noun
 git noun style=colloquial region=GB
+giver noun
 glaciation noun
 glacier noun
 glade noun
@@ -209,6 +215,7 @@ GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
 grab           noun
 grace          noun
+graciousness noun pl=- note=uncountable
 gradation noun
 grade          noun
 gradient noun
@@ -221,6 +228,7 @@ gram noun gb=gramme|gram
 grammar        noun
 gramps noun style=colloquial pl=- note=grandfather
 gran noun style=colloquial
+granary noun
 grand          noun
 grandad noun note=spelling variant of granddad, common in British English
 grandchild     noun pl=grandchildren
@@ -276,6 +284,7 @@ greenhouse     noun
 greeter noun
 greeting       noun
 grenade noun
+grenadier noun
 greyhound noun
 grid           noun
 gridiron noun
@@ -294,6 +303,8 @@ grizzly        noun
 groan          noun
 grocer noun
 grocery        noun
+grog noun pl=- note=uncountable
+groin noun
 groom noun
 groove noun
 grotto noun pl=grottoes|grottos
@@ -342,6 +353,7 @@ gunfire noun pl=- note=uncountable
 gunman noun pl=gunmen
 gunner noun
 gunnery noun pl=- note=uncountable
+gunpoint noun pl=- note=only in at gunpoint
 gunpowder noun
 gunshot noun
 gunwale noun

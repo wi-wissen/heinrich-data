@@ -2,6 +2,7 @@ daily adj
 dainty adj cmp=er adv=daintily
 dairy adj
 damn adj
+damnable adj adv=damnably
 damned adj
 damp adj cmp=er adv=damply
 dandy adj cmp=er
@@ -21,6 +22,7 @@ deaf adj cmp=er
 deafblind adj
 deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
+deathly adj
 deceased adj
 deceitful adj cmp=more adv=deceitfully
 decennial adj
@@ -31,6 +33,7 @@ decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
 decorous adj
+decrepit adj
 deductible adj
 deductive adj adv=deductively
 deep adj cmp=er adv=deeply
@@ -38,6 +41,7 @@ defective adj
 defenseless adj gb=defenceless
 defensible adj
 defensive adj adv=defensively
+deferential adj adv=deferentially
 defiant adj adv=defiantly
 deficient adj
 definite adj adv=definitely
@@ -71,7 +75,9 @@ deplorable adj cmp=more adv=deplorably
 depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
+deranged adj
 derelict adj
+derisive adj cmp=more adv=derisively
 derivative adj
 dermal adj
 derogatory adj
@@ -110,6 +116,7 @@ diabetic adj
 diabolical adj adv=diabolically
 diagnostic adj
 diagonal adj adv=diagonally
+dialectical adj adv=dialectically
 dictatorial adj
 didactic adj cmp=more adv=didactically
 dielectric adj
@@ -146,6 +153,7 @@ disciplinary adj
 disconcerting adj cmp=more adv=disconcertingly
 disconsolate adj adv=disconsolately
 discontented adj
+discontinuous adj adv=discontinuously
 discordant adj
 discreet adj cmp=more adv=discreetly
 discrete adj adv=discretely
@@ -157,14 +165,18 @@ disgraceful adj cmp=more adv=disgracefully
 disgusted adj cmp=more
 dishevelled adj us=dishevelled|disheveled
 dishonest adj adv=dishonestly
+dishonorable adj gb=dishonourable adv=dishonorably
 disillusioned adj cmp=more
 disinterested adj
 disjoint adj
 disjointed adj cmp=more adv=disjointedly
+disloyal adj
 dismal adj adv=dismally
+dismissive adj cmp=more adv=dismissively
 disordered adj cmp=more
 disorderly adj
 disorganized adj gb=disorganised|disorganized
+disparaging adj cmp=more adv=disparagingly
 disparate adj cmp=more
 disposable adj
 dispositive adj conf=90 note=legal register
@@ -176,6 +188,7 @@ disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
 dissimilar adj cmp=more
+dissolute adj
 distal adj
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
@@ -187,6 +200,7 @@ distraught adj
 distressed adj cmp=more
 distributional adj
 distributive adj
+distrustful adj cmp=more adv=distrustfully
 disused adj
 diurnal adj
 divergent adj
@@ -207,6 +221,7 @@ doleful adj
 domed adj
 domestic adj adv=domestically
 dominant adj adv=dominantly
+domineering adj
 Dominican adj
 dormant adj
 dorsal adj

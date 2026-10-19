@@ -1,3 +1,4 @@
+pacific adj note=peaceful; the ocean is Pacific propn
 pagan adj
 painful adj cmp=more adv=painfully
 painstaking adj adv=painstakingly
@@ -16,6 +17,7 @@ pandemic adj
 panoramic adj
 papal adj
 paperless adj
+parabolic adj
 paradoxical adj adv=paradoxically
 parallel adj
 Paralympic adj
@@ -23,6 +25,7 @@ parametric adj
 paramilitary adj
 paramount adj
 paranoid adj cmp=more
+paranormal adj
 parasitic adj
 parched adj
 parental adj
@@ -51,6 +54,7 @@ patriotic adj cmp=more adv=patriotically
 payable adj
 peaceable adj cmp=more adv=peaceably
 peaceful adj cmp=more adv=peacefully
+pearly adj cmp=er
 peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
@@ -69,6 +73,7 @@ pensive adj cmp=more adv=pensively
 penultimate adj
 peppery adj
 perceptible adj adv=perceptibly
+percutaneous adj
 peremptory adj adv=peremptorily
 perennial adj adv=perennially
 perfect adj cmp=more adv=perfectly
@@ -80,6 +85,7 @@ peripheral adj
 perishable adj
 permanent adj adv=permanently
 permissible adj
+permissive adj
 pernicious adj adv=perniciously
 perpendicular adj
 perpetual adj adv=perpetually
@@ -106,6 +112,7 @@ philosophic adj adv=philosophically
 philosophical adj adv=philosophically
 phonetic adj adv=phonetically
 phonological adj
+phony adj cmp=phonier sup=phoniest gb=phoney|phony note=phoney also takes phonier, phoniest
 photographic adj
 photovoltaic adj
 phylogenetic adj adv=phylogenetically
@@ -115,6 +122,7 @@ phytosanitary adj
 pictorial adj
 picturesque adj cmp=more
 piecemeal adj
+pied adj
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously
@@ -130,6 +138,8 @@ plaintive adj cmp=more adv=plaintively
 planar adj
 planetary adj
 plastic adj
+Platonic adj note=relating to Plato
+platonic adj note=platonic love
 plausible adj cmp=more adv=plausibly
 playable adj
 playful adj adv=playfully
@@ -139,6 +149,7 @@ pleasurable adj cmp=more adv=pleasurably
 plebeian adj
 Pleistocene adj
 plenary adj
+plenipotentiary adj
 plentiful adj adv=plentifully
 plucky adj cmp=er
 plumb adj
@@ -176,6 +187,7 @@ portly adj cmp=er
 Portuguese adj note=demonym or religious name, capitalized
 positional adj
 positive adj cmp=more adv=positively
+possessive adj adv=possessively
 possible adj cmp=more adv=possibly
 postal adj
 posterior adj
@@ -215,6 +227,7 @@ prejudicial adj cmp=more adv=prejudicially
 preliminary adj
 premarket adj
 premature adj adv=prematurely
+premeditated adj
 premier adj
 preoccupied adj
 preparatory adj
@@ -265,6 +278,7 @@ profane adj cmp=more
 professional adj cmp=more adv=professionally
 proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
+profligate adj
 profound adj cmp=er|more adv=profoundly
 profuse adj adv=profusely
 programmable adj
@@ -276,6 +290,7 @@ prolific adj cmp=more
 prominent adj cmp=more adv=prominently
 promiscuous adj cmp=more adv=promiscuously
 promising adj cmp=more adv=promisingly
+promissory adj
 promotional adj
 prompt adj cmp=er adv=promptly
 prone adj
@@ -297,6 +312,7 @@ protectionist adj
 protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
 protracted adj
+protuberant adj
 proud adj cmp=er adv=proudly
 proverbial adj adv=proverbially
 provident adj cmp=more adv=providently
@@ -304,6 +320,7 @@ provincial adj
 provisional adj adv=provisionally
 provocative adj adv=provocatively
 proximal adj
+proximate adj adv=proximately
 prudent adj cmp=more adv=prudently
 prudential adj
 Prussian adj note=demonym or religious name, capitalized

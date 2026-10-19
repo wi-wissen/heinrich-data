@@ -14,6 +14,7 @@ tamp verb
 tamper verb
 tan verb
 tangle verb
+tango verb
 tap verb
 tape verb
 taper verb
@@ -99,6 +100,7 @@ toil verb
 tolerate verb
 toll verb
 tone verb
+tool verb
 top verb
 topple verb
 torment verb
@@ -126,10 +128,13 @@ transact verb
 transcend verb
 transcribe verb
 transfer verb double
+transfigure verb
+transfix verb
 transform verb
 transit verb
 transition verb
 translate verb
+transliterate verb
 transmit verb double
 transpire verb
 transplant verb
@@ -147,6 +152,7 @@ trek verb
 tremble verb
 trend verb
 trespass verb
+trial verb
 trick verb
 trickle verb
 trifle verb

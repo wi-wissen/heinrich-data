@@ -28,6 +28,7 @@ effectual adj adv=effectually
 effeminate adj
 efficacious adj cmp=more adv=efficaciously
 efficient adj cmp=more adv=efficiently
+egalitarian adj
 egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
@@ -65,6 +66,7 @@ empty adj cmp=er
 enamored adj gb=enamoured
 endemic adj
 endless adj adv=endlessly
+endocrine adj
 endogenous adj
 endothelial adj
 energetic adj adv=energetically
@@ -101,15 +103,18 @@ erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
 erstwhile adj attr_only
+esophageal adj gb=oesophageal
 esoteric adj cmp=more adv=esoterically
 especial adj
 essential adj adv=essentially
+estimable adj
 Estonian adj
 eternal adj adv=eternally
 ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
+ethnographic adj
 eukaryotic adj
 Eurasian adj
 European adj
@@ -135,6 +140,7 @@ excitable adj cmp=more
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
+excruciating adj adv=excruciatingly
 executable adj
 executive adj
 exemplary adj
@@ -146,6 +152,7 @@ existential adj adv=existentially
 exogamous adj
 exorbitant adj adv=exorbitantly
 exotic adj
+expansionist adj
 expansive adj
 expectant adj
 expedient adj
@@ -172,6 +179,7 @@ extinct adj
 extra adj
 extracellular adj
 extracurricular adj
+extraneous adj adv=extraneously
 extraordinary adj adv=extraordinarily
 extraterrestrial adj
 extratropical adj

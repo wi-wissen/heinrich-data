@@ -7,15 +7,18 @@ vagabond noun
 vagary noun
 vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
+vagueness noun pl=- note=uncountable
 vale          noun
 valence noun
 valentine noun
+valerate noun conf=90 note=chemistry: salt or ester of valeric acid
 valet noun
 validation    noun
 validity      noun pl=- note=uncountable
 valise noun
 valley        noun
 valor noun gb=valour pl=- note=uncountable
+valproate noun
 valuable      noun
 valuation     noun
 value         noun
@@ -38,9 +41,11 @@ variation     noun
 variety       noun
 varnish noun
 varsity noun
+vas noun pl=vasa conf=85 note=anatomy, mostly in vas deferens
 vase noun
 vasectomy noun
 vassal noun
+vastness noun
 VAT           noun abbr pl=- note=value-added tax
 vaudeville noun pl=- note=uncountable
 vault         noun
@@ -117,9 +122,11 @@ videoconferencing noun pl=- note=uncountable
 Vietnamese    noun pl=Vietnamese
 view          noun
 viewer        noun
+viewership noun
 viewpoint noun
 vigil noun
 vigilance noun pl=- note=uncountable
+vigilante noun
 vigor         noun gb=vigour pl=- note=uncountable
 Viking        noun
 villa         noun
@@ -143,6 +150,8 @@ virgin        noun
 virginity noun
 virtualization noun gb=virtualisation|virtualization
 virtue        noun
+virtuoso noun pl=virtuosos|virtuosi
+virulence noun pl=- note=uncountable
 virus         noun
 visa          noun
 visage noun
@@ -156,6 +165,7 @@ visitation noun
 visitor       noun
 vista         noun
 visual        noun
+visualization noun gb=visualisation|visualization
 vitality noun pl=- note=uncountable
 vitamin noun
 vivacity noun pl=- note=uncountable
@@ -193,6 +203,7 @@ voucher       noun
 vow           noun
 vowel         noun
 voyage        noun
+voyageur noun
 VP noun abbr note=vice president
 VPN noun abbr note=virtual private network
 vulgarity noun

@@ -15,8 +15,11 @@ canoe verb
 canonize verb gb=canonise|canonize
 cant verb
 canter verb
+canvass verb
 cap verb
 capitalize verb gb=capitalise|capitalize
+capitulate verb
+capsize verb
 captain verb
 caption verb
 captivate verb
@@ -39,6 +42,7 @@ cash verb
 cast verb past=cast pp=cast
 castle verb note=chess move
 catalog verb gb=catalogue|catalog
+catapult verb
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
 cater verb
@@ -86,6 +90,7 @@ chew verb
 chicken verb
 chill verb
 chime verb
+chink verb
 chip verb
 chirp verb
 chisel verb
@@ -134,11 +139,13 @@ cling verb past=clung pp=clung
 clip verb
 cloak verb
 clock verb
+clog verb
 clone verb
 close verb
 closet verb
 clothe verb past=clothed|clad pp=clothed|clad note=clad is literary or technical
 cloud verb
+clout verb
 clown verb
 club verb
 clue verb ing=clueing|cluing
@@ -174,11 +181,12 @@ collide verb
 colonize verb gb=colonise|colonize
 color verb gb=colour
 comb verb
-combat verb
+combat verb past=combated|combatted pp=combated|combatted ing=combating|combatting note=the doubled forms are commoner in British English
 combine verb
 come verb past=came pp=come
 comfort verb
 command verb
+commandeer verb
 commemorate verb
 commence verb
 commend verb
@@ -201,6 +209,7 @@ complicate verb
 compliment verb
 comply verb
 compose verb
+compost verb
 compound verb
 comprehend verb
 compress verb
@@ -214,6 +223,7 @@ concede verb
 conceive verb
 concentrate verb
 concern verb
+conciliate verb
 conclude verb
 concur verb double
 condemn verb
@@ -228,6 +238,7 @@ configure verb
 confine verb
 confirm verb
 confiscate verb
+conflate verb
 conflict verb
 conform verb
 confound verb
@@ -242,6 +253,7 @@ conjure verb
 connect verb
 connote verb
 conquer verb
+conscript verb
 consecrate verb
 consent verb
 conserve verb
@@ -376,8 +388,11 @@ curl verb
 curry verb
 curse verb
 curtail verb
+curtsey verb
+curtsy verb
 curve verb
 cushion verb
+cuss verb style=colloquial
 customize verb gb=customise|customize
 cut verb past=cut pp=cut
 cycle verb

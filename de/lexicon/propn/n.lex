@@ -10,6 +10,7 @@ Nepal propn g=n gen=Nepals pl=- note=proper name; no plural
 Neukaledonien propn g=n gen=Neukaledoniens pl=- note=proper name; no plural
 Neukölln propn g=n gen=Neuköllns pl=- note=district of Berlin
 Neuseeland propn g=n gen=Neuseelands pl=- note=proper name; no plural
+Neuspanien propn g=n gen=Neuspaniens pl=- note=proper name; historical colony
 Nevada propn g=n gen=Nevadas pl=- note=proper name; no plural
 Nidda propn g=f gen=Nidda pl=- note=river (also a town)
 Niederlande propn g=pl
@@ -22,10 +23,12 @@ Nigeria propn g=n gen=Nigerias pl=- note=proper name; no plural
 Nizza propn g=n gen=Nizzas pl=- note=proper name; no plural
 Nordafrika propn g=n gen=Nordafrikas pl=- note=proper name; no plural
 Nordamerika propn g=n gen=Nordamerikas pl=- note=proper name; no plural
+Nordeuropa propn g=n gen=Nordeuropas pl=- note=proper name; no plural
 Nordirland propn g=n gen=Nordirlands pl=- note=proper name; no plural
 Norditalien propn g=n gen=Norditaliens pl=- note=proper name; no plural
 Nordkorea propn g=n gen=Nordkoreas pl=- note=proper name; no plural
 Nordrhein-Westfalen propn g=n gen=Nordrhein-Westfalens pl=- note=proper name; no plural
+Nordsyrien propn g=n gen=Nordsyriens pl=- note=proper name; no plural
 Normandie propn g=f gen=Normandie pl=- note=die Normandie
 Norwegen propn g=n gen=Norwegens pl=- note=proper name; no plural
 Nowgorod propn g=n gen=Nowgorods pl=- note=city in Russia

@@ -11,6 +11,7 @@ daisy noun
 dale noun
 dam noun
 damage noun
+damask noun
 dame noun
 damnation noun pl=- note=uncountable
 damp noun
@@ -61,8 +62,10 @@ dealing noun
 dean noun
 deanery noun
 dear noun
+dearie noun
 death noun
 deathbed noun
+debacle noun
 debarment noun
 debate noun
 debenture noun
@@ -91,6 +94,7 @@ decline noun
 deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
+deconstruction noun
 decontamination noun pl=- note=uncountable
 decoration noun
 decoy noun
@@ -188,6 +192,7 @@ dependent noun gb=dependant|dependent note=the noun (a person who depends on ano
 depiction noun
 depletion noun
 deployment noun
+depopulation noun pl=- note=uncountable
 deportation noun
 deportment noun pl=- note=uncountable
 deposit noun
@@ -197,6 +202,7 @@ depository noun
 depot noun
 depravity noun
 depreciation noun
+depredation noun
 depression noun
 depressive noun
 depressor noun
@@ -255,7 +261,9 @@ deterrence noun pl=- note=uncountable
 deterrent noun
 detonation noun
 detour noun
+detractor noun
 detriment noun
+detritus noun pl=- note=uncountable
 deuce noun
 devaluation noun
 devastation noun pl=- note=uncountable
@@ -394,6 +402,7 @@ dish noun
 dishonesty noun pl=- note=uncountable
 dishonor noun gb=dishonour
 dishwasher noun
+disincentive noun
 disinformation noun pl=- note=uncountable
 disintegration noun
 disinvestment noun
@@ -481,6 +490,7 @@ doctrine noun
 document noun
 documentary noun
 documentation noun pl=- note=uncountable
+dodecahedron noun pl=dodecahedra|dodecahedrons
 dodge noun
 dodger noun
 doe noun
@@ -553,6 +563,7 @@ dragoon noun
 drain noun
 drainage noun pl=- note=uncountable
 drake noun
+dram noun
 drama noun
 dramatist noun
 drape noun
@@ -589,6 +600,7 @@ dropdown noun conf=85 note=also drop-down
 droplet noun
 dropout noun
 drought noun
+drove noun note=herd or crowd, usually in droves
 drowsiness noun pl=- note=uncountable
 drudgery noun pl=- note=uncountable
 drug noun
@@ -599,6 +611,7 @@ drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
 dryness noun pl=- note=uncountable
+dualism noun
 duality noun
 ducat noun
 duchess noun
@@ -609,6 +622,7 @@ duct noun
 due noun
 duel noun
 duet noun
+dugout noun
 duke noun
 dulness noun pl=- style=archaic note=old spelling of dullness
 dummy noun
@@ -618,6 +632,7 @@ dune noun
 dungarees noun pl_only
 dungeon noun
 duo noun
+duodenum noun pl=duodena|duodenums
 duplicate noun
 duplication noun
 duplicity noun pl=- note=uncountable

@@ -15,6 +15,7 @@ doubly adv
 doubtless adv
 downhill adv type=place
 downright adv type=degree
+downriver adv
 downstairs adv
 downstream adv
 downtown adv

@@ -53,6 +53,8 @@ office        noun
 officer       noun
 official      noun
 officialdom noun pl=- note=uncountable
+offing noun note=in the offing
+offseason noun
 offset        noun
 offshoot noun
 offsite noun conf=85 note=meeting held away from the office
@@ -62,6 +64,7 @@ oldie noun style=colloquial
 oligarch noun pl=oligarchs
 oligarchy noun
 olive         noun
+olivine noun pl=- note=uncountable
 Olympian noun
 ombudsman     noun pl=ombudsmen
 omega noun
@@ -74,6 +77,7 @@ onboarding noun pl=- note=uncountable
 oncology noun pl=- note=uncountable
 onesie noun
 onion noun
+onlooker noun
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
@@ -87,6 +91,7 @@ opera         noun
 operation     noun
 operative     noun
 operator      noun
+operculum noun pl=opercula
 opinion       noun
 opioid noun
 opium noun pl=- note=uncountable
@@ -117,6 +122,7 @@ orchid noun
 ordeal noun
 order         noun
 orderly       noun
+ordinal noun
 ordinance     noun
 ordination noun
 ordnance noun pl=- note=uncountable
@@ -175,6 +181,7 @@ outline       noun
 outlook       noun
 outpatient    noun
 outpost noun
+outpouring noun
 output        noun
 outrage       noun
 outreach      noun pl=- note=uncountable
@@ -200,6 +207,7 @@ overhead      noun
 overlap       noun
 overlay noun
 overload noun
+overlord noun
 overpass noun
 overpayment noun
 overpressurization noun gb=overpressurisation|overpressurization conf=85 note=technical register
@@ -217,6 +225,7 @@ owl           noun
 owner         noun
 ownership     noun
 ox noun pl=oxen
+oxalis noun
 oxidase noun
 oxidation noun
 oxide         noun

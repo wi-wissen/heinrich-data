@@ -1,3 +1,4 @@
+rabbinic adj
 racial adj adv=racially
 racist adj
 radial adj
@@ -16,6 +17,7 @@ rapt adj adv=raptly
 rapturous adj adv=rapturously
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
+ratable adj gb=rateable
 rational adj cmp=more adv=rationally
 raw adj cmp=er
 reactionary adj
@@ -37,12 +39,15 @@ recessive adj
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
+recombinant adj
 recordable adj
 recoverable adj
 recreational adj
 rectangular adj
 recurrent adj adv=recurrently
+recursive adj adv=recursively
 red adj cmp=er
+red-haired adj note=haired is not a word of its own
 reddish adj
 redundant adj
 referable adj
@@ -79,6 +84,7 @@ remarkable adj cmp=more adv=remarkably
 remastered adj
 remedial adj
 reminiscent adj
+remorseful adj cmp=more adv=remorsefully
 remote adj cmp=er adv=remotely
 removable adj
 renal adj
@@ -106,6 +112,7 @@ residential adj
 residual adj
 resilient adj cmp=more
 resistant adj cmp=more
+resistless adj style=archaic
 resolute adj adv=resolutely
 resonant adj cmp=more adv=resonantly
 resourceful adj cmp=more adv=resourcefully
@@ -176,6 +183,7 @@ rough adj cmp=er adv=roughly
 round adj cmp=er
 roundabout adj
 routine adj adv=routinely
+rowdy adj cmp=er
 royal adj cmp=more adv=royally
 ruddy adj cmp=er
 rude adj cmp=er adv=rudely
