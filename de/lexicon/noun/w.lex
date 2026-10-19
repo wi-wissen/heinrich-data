@@ -30,6 +30,7 @@ Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wäldchen noun g=n gen=Wäldchens pl=Wäldchen
 Waldkauz noun g=m gen=Waldkauzes pl=Waldkäuze
 Waldlichtung noun g=f gen=Waldlichtung pl=Waldlichtungen
+Wall noun g=m gen=Walles|Walls pl=Wälle
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
@@ -179,6 +180,7 @@ Wildkraut noun g=n gen=Wildkrauts pl=Wildkräuter
 Wildnis noun g=f gen=Wildnis pl=Wildnisse
 Wildwuchs noun g=m gen=Wildwuchses pl=- note=no plural
 Wille noun g=m gen=Willens pl=Willen
+Willkomm noun g=m gen=Willkomms|Willkommes pl=Willkomme style=archaic conf=70 note=archaic for Willkommen; many gov hits are probably a surname
 Willkür noun g=f gen=Willkür pl=- note=no plural
 Wimper noun g=f gen=Wimper pl=Wimpern
 Wimperntusche noun g=f gen=Wimperntusche pl=Wimperntuschen
@@ -255,6 +257,7 @@ Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
+Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
 Wunde noun g=f gen=Wunde pl=Wunden

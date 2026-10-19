@@ -46,6 +46,7 @@ up verb style=colloquial note=to increase: upped the price
 update        verb
 upgrade       verb
 uphold        verb prefix=up past=upheld pp=upheld
+upholster verb
 uplift        verb
 upload verb
 upsell verb prefix=up past=upsold pp=upsold conf=85
@@ -55,5 +56,6 @@ urbanize verb gb=urbanise|urbanize
 urge          verb
 use           verb
 usher verb
+usurp verb
 utilize       verb gb=utilise|utilize
 utter         verb

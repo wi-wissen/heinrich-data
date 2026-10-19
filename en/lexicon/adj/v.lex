@@ -20,6 +20,7 @@ ventral adj adv=ventrally
 verbal        adj adv=verbally
 verifiable adj adv=verifiably
 veritable adj
+vermilion adj
 vernacular adj
 versatile adj cmp=more
 vertical      adj adv=vertically

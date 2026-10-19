@@ -131,6 +131,7 @@ helm           noun
 helmet         noun
 help           noun
 helpdesk noun conf=90 note=also help desk
+helper noun
 helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
@@ -246,12 +247,14 @@ horse          noun
 horseback      noun
 horseman       noun pl=horsemen
 horsepower noun pl=horsepower
+horseshoe noun
 horticulture noun pl=- note=uncountable
 hose noun
 hospice        noun
 hospital       noun
 hospitality    noun pl=- note=uncountable
 hospitalization noun gb=hospitalisation|hospitalization
+hoss noun style=colloquial note=dialect for horse
 host           noun
 hostage        noun
 hostel noun
@@ -284,6 +287,7 @@ hulk noun
 hull           noun
 hum            noun
 human          noun note=plural humans (not -men)
+humanist noun
 humanitarian   noun
 humanity       noun
 humidity       noun pl=- note=uncountable

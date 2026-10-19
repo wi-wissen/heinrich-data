@@ -34,6 +34,7 @@ Ballon noun g=m gen=Ballons pl=Ballons|Ballone
 Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
 Bambus noun g=m gen=Bambus|Bambusses pl=Bambusse
+Ban noun g=m gen=Bans pl=Bane conf=70 note=historical title of the Croatian viceroy (also Banus); many hits are the name Ban Ki-moon
 Banane noun g=f gen=Banane pl=Bananen
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume
 Band          noun g=n gen=Bandes|Bands pl=Bänder|Bande[rare] sense=ribbon
@@ -57,6 +58,7 @@ Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
 Baron         noun g=m gen=Barons pl=Barone
 Baronin noun g=f gen=Baronin pl=Baroninnen
 Barren noun g=m gen=Barrens pl=Barren
+Barriere noun g=f gen=Barriere pl=Barrieren
 Barrierefreiheit noun g=f gen=Barrierefreiheit pl=- note=no plural
 Barsch noun g=m gen=Barschs|Barsches pl=Barsche
 Bart noun g=m gen=Barts|Bartes pl=Bärte
@@ -164,6 +166,7 @@ Begründung    noun g=f gen=Begründung pl=Begründungen
 Begutachtung noun g=f gen=Begutachtung pl=Begutachtungen
 Behagen noun g=n gen=Behagens pl=- note=no plural
 Behälter noun g=m gen=Behälters pl=Behälter
+Behältnis noun g=n gen=Behältnisses pl=Behältnisse
 Behandlung    noun g=f gen=Behandlung pl=Behandlungen
 Behang noun g=m gen=Behangs|Behanges pl=Behänge
 Behauptung noun g=f gen=Behauptung pl=Behauptungen
@@ -316,6 +319,7 @@ Bestattung noun g=f gen=Bestattung pl=Bestattungen
 Bestäubung noun g=f gen=Bestäubung pl=Bestäubungen
 Bestechung noun g=f gen=Bestechung pl=Bestechungen
 Besteck noun g=n gen=Bestecks|Besteckes pl=Bestecke
+Bestehen noun g=n gen=Bestehens pl=- note=nominalised infinitive (das Bestehen), lexicalised
 Besteller noun g=m gen=Bestellers pl=Besteller
 Bestellerin noun g=f gen=Bestellerin pl=Bestellerinnen
 Bestellung noun g=f gen=Bestellung pl=Bestellungen
@@ -332,6 +336,7 @@ Besuch        noun g=m gen=Besuchs|Besuches pl=Besuche
 Besucher noun g=m gen=Besuchers pl=Besucher
 Besucherin noun g=f gen=Besucherin pl=Besucherinnen
 Betätigung noun g=f gen=Betätigung pl=Betätigungen
+Betäubung noun g=f gen=Betäubung pl=Betäubungen
 Beteiligte    noun g=m|f decl=adj
 Beteiligung   noun g=f gen=Beteiligung pl=Beteiligungen
 Beton noun g=m gen=Betons pl=- note=mass noun; Betone only technical
@@ -385,6 +390,7 @@ Bewunderung noun g=f gen=Bewunderung pl=- note=mass noun
 Bewusstsein noun g=n gen=Bewusstseins pl=- note=mass noun
 Bezahlung noun g=f gen=Bezahlung pl=Bezahlungen
 Bezeichnung   noun g=f gen=Bezeichnung pl=Bezeichnungen
+Bezieher noun g=m gen=Beziehers pl=Bezieher
 Beziehung     noun g=f gen=Beziehung pl=Beziehungen
 Bezirk        noun g=m gen=Bezirks|Bezirkes pl=Bezirke
 Bezug         noun g=m gen=Bezugs|Bezuges pl=Bezüge

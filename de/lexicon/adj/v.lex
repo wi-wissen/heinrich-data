@@ -6,6 +6,7 @@ vatikanisch adj
 vegan adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
+venezianisch adj
 verächtlich adj cmp=verächtlicher sup=verächtlichsten
 veraltet adj cmp=veralteter sup=veraltetsten
 verängstigt adj cmp=verängstigter sup=verängstigtesten
@@ -31,6 +32,7 @@ vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
+verheerend adj cmp=verheerender sup=verheerendsten
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verklärt adj
 verklebt adj cmp=verklebter sup=verklebtesten
@@ -79,6 +81,7 @@ vielfältig adj
 violett adj
 viral adj
 virtuell adj
+visuell adj
 völkerrechtlich adj
 volkstümlich adj cmp=volkstümlicher sup=volkstümlichsten
 voll adj cmp=voller sup=vollsten
@@ -100,6 +103,7 @@ vorherig adj
 vorig adj
 vorläufig adj
 vorletzt adj attr_only
+vormalig adj attr_only
 vornehm adj cmp=vornehmer sup=vornehmsten
 vorrangig adj
 vorrätig adj
@@ -111,3 +115,4 @@ vortrefflich adj
 vorwiegend adj
 vorzeitig adj
 vorzüglich adj
+vulkanisch adj

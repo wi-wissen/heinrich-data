@@ -89,6 +89,7 @@ verfehlen verb class=weak pp=verfehlt perf=haben
 verfeinden verb class=weak pp=verfeindet perf=haben refl=acc
 verfilmen verb class=weak pp=verfilmt perf=haben
 verfließen verb class=strong 3sg=verfließt past=verfloss pp=verflossen subj2=verflösse perf=sein
+verfluchen verb class=weak pp=verflucht perf=haben
 verflüchtigen verb class=weak pp=verflüchtigt perf=haben refl=acc
 verfolgen verb class=weak pp=verfolgt perf=haben
 verformen verb class=weak pp=verformt perf=haben refl=acc
@@ -272,6 +273,7 @@ verschlingen verb class=strong 3sg=verschlingt past=verschlang pp=verschlungen s
 verschlucken verb class=weak pp=verschluckt perf=haben refl=acc
 verschlüsseln verb class=weak pp=verschlüsselt perf=haben
 verschmähen verb class=weak pp=verschmäht perf=haben
+verschmelzen verb class=strong 3sg=verschmilzt past=verschmolz pp=verschmolzen subj2=verschmölze perf=haben|sein
 verschmutzen verb class=weak pp=verschmutzt perf=haben
 verschnaufen verb class=weak pp=verschnauft perf=haben
 verschneien verb class=weak pp=verschneit perf=sein
@@ -324,11 +326,14 @@ versteigern verb class=weak pp=versteigert perf=haben
 versteinern verb class=weak pp=versteinert perf=haben|sein
 verstellen verb class=weak pp=verstellt perf=haben
 versterben verb class=strong 3sg=verstirbt past=verstarb pp=verstorben subj2=verstürbe perf=sein
+verstetigen verb class=weak pp=verstetigt perf=haben refl=acc
 versteuern verb class=weak pp=versteuert perf=haben
 verstimmen verb class=weak pp=verstimmt perf=haben
 verstopfen verb class=weak pp=verstopft perf=haben|sein
 verstören verb class=weak pp=verstört perf=haben
 verstoßen verb class=strong 3sg=verstößt past=verstieß pp=verstoßen subj2=verstieße perf=haben
+verstreichen verb class=strong 3sg=verstreicht past=verstrich pp=verstrichen subj2=verstriche perf=haben|sein
+verstreuen verb class=weak pp=verstreut perf=haben
 verstricken verb class=weak pp=verstrickt perf=haben
 verstümmeln verb class=weak pp=verstümmelt perf=haben
 verstummen verb class=weak pp=verstummt perf=sein

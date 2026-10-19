@@ -4,6 +4,7 @@ nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nachrangig adj
+nächstgelegen adj note=der nächstgelegene Ort; already a superlative, not compared
 nächsthöher adj attr_only note=die nächsthöhere Stufe
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
@@ -21,6 +22,7 @@ napoleonisch adj
 narbig adj
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
+nationalistisch adj
 nationalsozialistisch adj
 naturalistisch adj
 naturgemäß adj
@@ -34,6 +36,7 @@ nervig adj cmp=nerviger sup=nervigsten
 nervös adj cmp=nervöser sup=nervösesten
 nett adj cmp=netter sup=nettesten
 neu adj cmp=neuer sup=neuesten
+neuerlich adj
 neugierig adj cmp=neugieriger sup=neugierigsten
 neuseeländisch adj
 neutral adj cmp=neutraler sup=neutralsten
@@ -43,9 +46,10 @@ nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separ
 niederländisch adj
 niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
+nigerianisch adj
 nobel adj cmp=nobler sup=noblesten
 nordisch adj
-nördlich adj note=also a genitive preposition (closed/prepositions.lex)
+nördlich adj cmp=nördlicher sup=nördlichsten note=also a genitive preposition (closed/prepositions.lex)
 nordrhein-westfälisch adj
 normal adj cmp=normaler sup=normalsten
 norwegisch adj

@@ -11,7 +11,9 @@ Oberstleutnant noun g=m gen=Oberstleutnants pl=Oberstleutnants|Oberstleutnante
 Oberstufe noun g=f gen=Oberstufe pl=Oberstufen
 Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
+Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russia, Ukraine, Belarus; plural also Oblasti
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
+Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
@@ -83,6 +85,7 @@ Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
 Organigramm noun g=n gen=Organigramms|Organigrammes pl=Organigramme
 Organisation noun g=f gen=Organisation pl=Organisationen
+Organisator noun g=m gen=Organisators pl=Organisatoren
 Organismus noun g=m gen=Organismus pl=Organismen
 Organist noun g=m gen=Organisten pl=Organisten
 Organistin noun g=f gen=Organistin pl=Organistinnen
@@ -102,6 +105,7 @@ Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
 Oscar noun g=m gen=Oscars pl=Oscars note=film award
+Osmane noun g=m gen=Osmanen pl=Osmanen
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
 Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier

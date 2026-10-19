@@ -9,5 +9,6 @@ beispielsweise adv
 bekanntlich adv
 bergab adv
 bestenfalls adv
+bestens adv
 bisweilen adv
 brutto adv note=2000 Euro brutto

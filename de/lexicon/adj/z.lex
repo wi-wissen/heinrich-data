@@ -17,6 +17,7 @@ zerstritten adj
 zickig adj cmp=zickiger sup=zickigsten
 zielführend adj cmp=zielführender sup=zielführendsten
 zielgerichtet adj
+ziemlich adj note=attributive use (mit ziemlicher Sicherheit); the degree adverb ziemlich is in closed/
 zierig adj conf=75 note=rare
 zierlich adj cmp=zierlicher sup=zierlichsten
 zivil adj
@@ -46,8 +47,11 @@ zweckdienlich adj
 zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
 zweckwidrig adj
 zweierlei adj indecl
+zweifach adj
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
+zweigeschossig adj
+zweigleisig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
 zwischenzeitlich adj

@@ -121,6 +121,7 @@ exotic adj
 expansive adj
 expectant adj
 expedient adj
+expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively

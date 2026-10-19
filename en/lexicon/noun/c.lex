@@ -23,6 +23,7 @@ calf noun pl=calves
 caliber noun gb=calibre
 calibration noun
 caliph noun
+caliphate noun
 call noun
 callback noun
 caller noun
@@ -32,6 +33,7 @@ calorie noun
 cam noun
 Cambodian noun
 camel noun
+camellia noun
 cameo noun
 camera noun
 camp noun
@@ -127,6 +129,7 @@ cartoonist noun
 cartridge noun
 cartwheel noun
 carver noun
+carving noun
 cascade noun
 case noun
 caseload noun
@@ -203,6 +206,7 @@ cent noun
 centenary noun
 centennial noun
 center noun gb=centre
+centerline noun gb=centreline
 centerpiece noun gb=centrepiece
 centipede noun
 centrifuge noun
@@ -436,6 +440,7 @@ clinic noun
 clinician noun
 clip noun
 clipboard noun
+clipping noun
 cloak noun
 clock noun
 cloister noun
@@ -650,12 +655,14 @@ concourse noun
 concrete noun
 concurrence noun
 concurrency noun
+concussion noun
 condemnation noun
 condensation noun
 condition noun
 conditioner noun
 conditioning noun pl=- note=uncountable
 condolence noun
+condominium noun
 condor noun
 conduct noun
 conduction noun pl=- note=uncountable
@@ -925,6 +932,7 @@ cracker noun
 crackle noun
 cradle noun
 craft noun
+craftsman noun pl=craftsmen
 crag noun
 cranberry noun
 crane noun

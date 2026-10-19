@@ -94,6 +94,7 @@ transformative adj
 transgender adj
 transient adj
 transitional adj
+transitive adj adv=transitively
 transitory adj
 transnational adj
 transparent adj cmp=more

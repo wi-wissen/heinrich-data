@@ -321,6 +321,7 @@ erinnern verb class=weak pp=erinnert perf=haben refl=acc
 erkalten verb class=weak pp=erkaltet perf=sein
 erkälten verb class=weak pp=erkältet perf=haben refl=acc
 erkämpfen verb class=weak pp=erkämpft perf=haben
+erkaufen verb class=weak pp=erkauft perf=haben
 erkennen verb class=mixed 3sg=erkennt past=erkannte pp=erkannt subj2=erkennte perf=haben
 erklären verb class=weak pp=erklärt perf=haben
 erklimmen verb class=strong 3sg=erklimmt past=erklomm pp=erklommen subj2=erklömme perf=haben

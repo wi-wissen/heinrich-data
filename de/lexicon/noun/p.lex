@@ -16,6 +16,7 @@ Pakt noun g=m gen=Pakts|Paktes pl=Pakte
 Palais noun g=n gen=Palais pl=Palais note=des Palais (silent s)
 Paläontologe noun g=m gen=Paläontologen pl=Paläontologen
 Palast noun g=m gen=Palastes|Palasts pl=Paläste
+Palästinenser noun g=m gen=Palästinensers pl=Palästinenser
 Palazzo noun g=m gen=Palazzos pl=Palazzi|Palazzos
 Palette noun g=f gen=Palette pl=Paletten
 Palme noun g=f gen=Palme pl=Palmen
@@ -61,6 +62,7 @@ Parlament noun g=n gen=Parlaments|Parlamentes pl=Parlamente
 Parlamentarier noun g=m gen=Parlamentariers pl=Parlamentarier
 Parlamentarierin noun g=f gen=Parlamentarierin pl=Parlamentarierinnen
 Parodie noun g=f gen=Parodie pl=Parodien
+Parole noun g=f gen=Parole pl=Parolen
 Partei noun g=f gen=Partei pl=Parteien
 Partie noun g=f gen=Partie pl=Partien
 Partikel noun g=f gen=Partikel pl=Partikeln
@@ -93,6 +95,7 @@ Patient noun g=m gen=Patienten pl=Patienten
 Patientin noun g=f gen=Patientin pl=Patientinnen
 Patin noun g=f gen=Patin pl=Patinnen
 Patriarch noun g=m gen=Patriarchen pl=Patriarchen
+Patriot noun g=m gen=Patrioten pl=Patrioten
 Patron noun g=m gen=Patrons pl=Patrone
 Patrone noun g=f gen=Patrone pl=Patronen note=cartridge (ink, ammunition)
 Patrouille noun g=f gen=Patrouille pl=Patrouillen
@@ -108,6 +111,7 @@ PDF noun g=n gen=PDF|PDFs pl=PDFs note=das PDF (file); also die PDF-Datei
 Pech noun g=n gen=Pechs|Peches pl=- note=bad luck; pitch (rare plural)
 Pedal noun g=n gen=Pedals pl=Pedale
 Pedelec noun g=n gen=Pedelecs pl=Pedelecs
+Pein noun g=f gen=Pein pl=- note=mass noun
 Peitsche noun g=f gen=Peitsche pl=Peitschen
 Pelikan noun g=m gen=Pelikans pl=Pelikane
 Pelz noun g=m gen=Pelzes pl=Pelze
@@ -143,6 +147,7 @@ Pfadfinder noun g=m gen=Pfadfinders pl=Pfadfinder
 Pfadfinderin noun g=f gen=Pfadfinderin pl=Pfadfinderinnen
 Pfaffe noun g=m gen=Pfaffen pl=Pfaffen note=pejorative for a clergyman
 Pfahl noun g=m gen=Pfahls|Pfahles pl=Pfähle
+Pfalzgraf noun g=m gen=Pfalzgrafen pl=Pfalzgrafen
 Pfand noun g=n gen=Pfands|Pfandes pl=Pfänder
 Pfändung noun g=f gen=Pfändung pl=Pfändungen
 Pfanne noun g=f gen=Pfanne pl=Pfannen
@@ -202,6 +207,7 @@ Phishing noun g=n gen=Phishings pl=- note=no plural
 Photographie noun g=f gen=Photographie pl=Photographien note=variant spelling of Fotografie
 Photosynthese noun g=f gen=Photosynthese pl=- note=no plural
 Photovoltaik noun g=f gen=Photovoltaik pl=- note=no plural
+Phrase noun g=f gen=Phrase pl=Phrasen
 Physik noun g=f gen=Physik pl=- note=mass noun
 Physiker noun g=m gen=Physikers pl=Physiker
 Physikerin noun g=f gen=Physikerin pl=Physikerinnen
@@ -227,6 +233,7 @@ Pinnwand noun g=f gen=Pinnwand pl=Pinnwände
 Pinsel noun g=m gen=Pinsels pl=Pinsel
 Pionier noun g=m gen=Pioniers pl=Pioniere
 Pionierin noun g=f gen=Pionierin pl=Pionierinnen
+Pipeline noun g=f gen=Pipeline pl=Pipelines
 Pipette noun g=f gen=Pipette pl=Pipetten
 Pirat noun g=m gen=Piraten pl=Piraten
 Piraterie noun g=f gen=Piraterie pl=- note=no plural
@@ -272,6 +279,7 @@ Podcast noun g=m gen=Podcasts pl=Podcasts
 Podest noun g=n gen=Podests|Podestes pl=Podeste
 Podium noun g=n gen=Podiums pl=Podien
 Poesie noun g=f gen=Poesie pl=Poesien
+Poet noun g=m gen=Poeten pl=Poeten
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
 Pol noun g=m gen=Pols pl=Pole
@@ -347,6 +355,7 @@ Praktik noun g=f gen=Praktik pl=Praktiken
 Praktikant noun g=m gen=Praktikanten pl=Praktikanten
 Praktikantin noun g=f gen=Praktikantin pl=Praktikantinnen
 Praktikum noun g=n gen=Praktikums pl=Praktika|Praktiken
+Prälat noun g=m gen=Prälaten pl=Prälaten
 Praline noun g=f gen=Praline pl=Pralinen
 Prämie noun g=f gen=Prämie pl=Prämien
 Prämisse noun g=f gen=Prämisse pl=Prämissen
@@ -390,6 +399,7 @@ Privatisierung noun g=f gen=Privatisierung pl=Privatisierungen
 Privatschule noun g=f gen=Privatschule pl=Privatschulen
 Privileg noun g=n gen=Privilegs|Privileges pl=Privilegien
 Probe noun g=f gen=Probe pl=Proben
+Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling); Nahme is not a word
 Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
@@ -402,6 +412,7 @@ Professorin noun g=f gen=Professorin pl=Professorinnen
 Professur noun g=f gen=Professur pl=Professuren
 Profi noun g=m gen=Profis pl=Profis
 Profil noun g=n gen=Profils pl=Profile
+Profit noun g=m gen=Profits|Profites pl=Profite
 Prognose noun g=f gen=Prognose pl=Prognosen
 Programm noun g=n gen=Programms|Programmes pl=Programme
 Programmierer noun g=m gen=Programmierers pl=Programmierer
@@ -412,6 +423,7 @@ Progression noun g=f gen=Progression pl=Progressionen
 Projekt noun g=n gen=Projekts|Projektes pl=Projekte
 Projektion noun g=f gen=Projektion pl=Projektionen
 Projektor noun g=m gen=Projektors pl=Projektoren
+Prokopfeinkommen noun g=n gen=Prokopfeinkommens pl=Prokopfeinkommen note=also written Pro-Kopf-Einkommen
 Prokura noun g=f gen=Prokura pl=Prokuren
 Prokurist noun g=m gen=Prokuristen pl=Prokuristen
 Prokuristin noun g=f gen=Prokuristin pl=Prokuristinnen
@@ -426,9 +438,11 @@ Propst noun g=m gen=Propstes|Propsts pl=Pröpste
 Prosa noun g=f gen=Prosa pl=- note=mass noun
 Prosit noun g=n gen=Prosit pl=- note=no genitive ending
 Prospekt noun g=m gen=Prospekts|Prospektes pl=Prospekte
+Prostituierte noun g=m|f decl=adj
 Prostitution noun g=f gen=Prostitution pl=- note=mass noun
 Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
+Protein noun g=n gen=Proteins pl=Proteine
 Protest noun g=m gen=Protests|Protestes pl=Proteste
 Protestant noun g=m gen=Protestanten pl=Protestanten
 Protestantin noun g=f gen=Protestantin pl=Protestantinnen
@@ -445,6 +459,7 @@ Provision noun g=f gen=Provision pl=Provisionen
 Prozent noun g=n gen=Prozents|Prozentes pl=Prozent|Prozente
 Prozess noun g=m gen=Prozesses pl=Prozesse
 Prozession noun g=f gen=Prozession pl=Prozessionen
+Prozessor noun g=m gen=Prozessors pl=Prozessoren
 Prüfer noun g=m gen=Prüfers pl=Prüfer
 Prüferin noun g=f gen=Prüferin pl=Prüferinnen
 Prüfling noun g=m gen=Prüflings pl=Prüflinge
@@ -452,6 +467,7 @@ Prüfung noun g=f gen=Prüfung pl=Prüfungen
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
 Psalm noun g=m gen=Psalms pl=Psalmen
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
+Psyche noun g=f gen=Psyche pl=Psychen
 Psychiater noun g=m gen=Psychiaters pl=Psychiater
 Psychiaterin noun g=f gen=Psychiaterin pl=Psychiaterinnen
 Psychiatrie noun g=f gen=Psychiatrie pl=Psychiatrien
@@ -459,6 +475,7 @@ Psychoanalyse noun g=f gen=Psychoanalyse pl=Psychoanalysen
 Psychologe noun g=m gen=Psychologen pl=Psychologen
 Psychologie noun g=f gen=Psychologie pl=- note=mass noun
 Psychologin noun g=f gen=Psychologin pl=Psychologinnen
+Psychotherapeut noun g=m gen=Psychotherapeuten pl=Psychotherapeuten
 Psychotherapie noun g=f gen=Psychotherapie pl=Psychotherapien
 Pubertät noun g=f gen=Pubertät pl=- note=no plural
 Publikation noun g=f gen=Publikation pl=Publikationen

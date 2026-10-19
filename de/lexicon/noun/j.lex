@@ -29,6 +29,7 @@ Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
 Joint noun g=m gen=Joints pl=Joints
 Journal noun g=n gen=Journals pl=Journale
+Journalismus noun g=m gen=Journalismus pl=- note=no plural
 Journalist noun g=m gen=Journalisten pl=Journalisten
 Journalistin noun g=f gen=Journalistin pl=Journalistinnen
 Jubel noun g=m gen=Jubels pl=- note=no plural

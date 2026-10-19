@@ -13,6 +13,7 @@ tätigen verb class=weak pp=getätigt perf=haben
 tauchen verb class=weak pp=getaucht perf=haben|sein
 tauen verb class=weak pp=getaut perf=haben|sein
 taufen verb class=weak pp=getauft perf=haben
+taugen verb class=weak pp=getaugt perf=haben
 taumeln verb class=weak pp=getaumelt perf=sein
 tauschen verb class=weak pp=getauscht perf=haben
 täuschen verb class=weak pp=getäuscht perf=haben refl=acc
@@ -37,6 +38,7 @@ töpfern verb class=weak pp=getöpfert perf=haben
 torkeln verb class=weak pp=getorkelt perf=haben|sein
 tosen verb class=weak pp=getost perf=haben
 töten verb class=weak pp=getötet perf=haben
+touren verb class=weak pp=getourt perf=haben|sein
 traben verb class=weak pp=getrabt perf=haben|sein
 trachten verb class=weak pp=getrachtet perf=haben
 tragen verb class=strong 3sg=trägt past=trug pp=getragen subj2=trüge perf=haben

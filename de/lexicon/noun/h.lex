@@ -44,6 +44,7 @@ Hand         noun g=f gen=Hand pl=Hände
 Handball noun g=m gen=Handballs pl=- note=sport; plural not used
 Händchen noun g=n gen=Händchens pl=Händchen
 Handel noun g=m gen=Handels pl=Händel[archaic] note=trade; the plural Händel (quarrels) is archaic
+Handeln noun g=n gen=Handelns pl=- note=nominalised infinitive (das Handeln), lexicalised
 Handelskammer noun g=f gen=Handelskammer pl=Handelskammern
 Handelsregister noun g=n gen=Handelsregisters pl=Handelsregister
 Handfeger noun g=m gen=Handfegers pl=Handfeger
@@ -111,6 +112,7 @@ Headhunter noun g=m gen=Headhunters pl=Headhunter
 Headset noun g=n gen=Headsets pl=Headsets
 Hebamme noun g=f gen=Hebamme pl=Hebammen
 Hebel noun g=m gen=Hebels pl=Hebel
+Hebräisch noun g=n gen=Hebräisch|Hebräischs pl=- conf=80 note=the Hebrew language; genitive normally avoided (des Hebräischen)
 Hebung noun g=f gen=Hebung pl=Hebungen
 Hecht noun g=m gen=Hechtes|Hechts pl=Hechte
 Heck noun g=n gen=Hecks|Heckes pl=Hecke|Hecks
@@ -273,6 +275,7 @@ Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare
 Hoodie noun g=m gen=Hoodies pl=Hoodies
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
+Horde noun g=f gen=Horde pl=Horden
 Hörer noun g=m gen=Hörers pl=Hörer
 Hörerin noun g=f gen=Hörerin pl=Hörerinnen
 Horizont noun g=m gen=Horizonts|Horizontes pl=Horizonte
@@ -304,6 +307,7 @@ Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
 Hülle noun g=f gen=Hülle pl=Hüllen
 Hülse noun g=f gen=Hülse pl=Hülsen
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
+Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
 Hummel noun g=f gen=Hummel pl=Hummeln
 Hummer noun g=m gen=Hummers pl=Hummer

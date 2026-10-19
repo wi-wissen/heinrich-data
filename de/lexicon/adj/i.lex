@@ -1,15 +1,19 @@
+ideal adj cmp=idealer sup=idealsten
 identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+immens adj
 immergrün adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
+indianisch adj
 indigen adj
 indirekt adj
 indisch adj
 individuell adj cmp=individueller sup=individuellsten
+indonesisch adj
 industriell adj
 informativ adj
 inhaltlich adj
@@ -20,8 +24,11 @@ innerlich adj
 innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
+institutionell adj
 intakt adj
 integrativ adj
+intellektuell adj cmp=intellektueller sup=intellektuellsten
+intelligent adj cmp=intelligenter sup=intelligentesten
 intensiv adj cmp=intensiver sup=intensivsten
 interaktiv adj
 interdisziplinär adj
@@ -42,6 +49,7 @@ irrational adj
 irre adj cmp=irrer sup=irrsten
 islamisch adj
 islamistisch adj
+isländisch adj
 isolierend adj
 israelisch adj
 italienisch adj

@@ -105,6 +105,7 @@ emergency noun
 emigrant noun
 emigration noun
 eminence noun
+emissary noun
 emission noun
 emoji noun pl=emojis|emoji
 emolument noun
@@ -172,6 +173,7 @@ entitlement noun
 entity noun
 entrance noun
 entrant noun
+entreaty noun
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
@@ -185,6 +187,7 @@ enzyme noun
 EP noun abbr note=extended play record
 epic noun
 epidemic noun
+epigram noun
 epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
@@ -241,6 +244,7 @@ Ethiopian noun
 ethnicity noun
 etiquette noun
 etymology noun
+eucalyptus noun pl=eucalyptuses|eucalypti
 Eurasian noun
 euro noun pl=euros|euro conf=90 note=the currency; the plural euro is used in official texts
 European noun

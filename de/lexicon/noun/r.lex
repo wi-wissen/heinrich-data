@@ -21,6 +21,7 @@ Rahmenhandlung noun g=f gen=Rahmenhandlung pl=Rahmenhandlungen
 Rajon noun g=m gen=Rajons pl=Rajone conf=85 note=Russian/Ukrainian administrative district
 Rakete noun g=f gen=Rakete pl=Raketen
 Ramadan noun g=m gen=Ramadans pl=- note=no plural
+Rampe noun g=f gen=Rampe pl=Rampen
 Rampenlicht noun g=n gen=Rampenlichts|Rampenlichtes pl=Rampenlichter
 Ranch noun g=f gen=Ranch pl=Ranches|Ranchen conf=75 note=plural uncertain
 Rand noun g=m gen=Randes|Rands pl=Ränder
@@ -84,6 +85,7 @@ Recht noun g=n gen=Rechts|Rechtes pl=Rechte
 Rechte noun g=m|f decl=adj note=der Rechte (right-wing), die Rechte (right hand / political right)
 Rechteck noun g=n gen=Rechtecks|Rechteckes pl=Rechtecke
 Rechtfertigung noun g=f gen=Rechtfertigung pl=Rechtfertigungen
+Rechtmäßigkeit noun g=f gen=Rechtmäßigkeit pl=- note=mass noun
 Rechtsanwalt noun g=m gen=Rechtsanwalts|Rechtsanwaltes pl=Rechtsanwälte
 Rechtschreibung noun g=f gen=Rechtschreibung pl=Rechtschreibungen
 Rechtsextremismus noun g=m gen=Rechtsextremismus pl=- note=mass noun
@@ -140,6 +142,7 @@ Register noun g=n gen=Registers pl=Register
 Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
+Regung noun g=f gen=Regung pl=Regungen
 Reh noun g=n gen=Rehes|Rehs pl=Rehe
 Rehabilitation noun g=f gen=Rehabilitation pl=- note=mass noun; Rehabilitationen is rare
 Rehbock noun g=m gen=Rehbocks pl=Rehböcke
@@ -207,6 +210,7 @@ Repräsentant noun g=m gen=Repräsentanten pl=Repräsentanten
 Repräsentantenhaus noun g=n gen=Repräsentantenhauses pl=Repräsentantenhäuser
 Repräsentantin noun g=f gen=Repräsentantin pl=Repräsentantinnen
 Repräsentation noun g=f gen=Repräsentation pl=Repräsentationen
+Repression noun g=f gen=Repression pl=Repressionen
 Reptil noun g=n gen=Reptils pl=Reptilien|Reptile
 Republik noun g=f gen=Republik pl=Republiken
 Republikaner noun g=m gen=Republikaners pl=Republikaner
@@ -275,6 +279,7 @@ Ritter noun g=m gen=Ritters pl=Ritter
 Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
 Rittmeister noun g=m gen=Rittmeisters pl=Rittmeister note=cavalry captain
 Ritual noun g=n gen=Rituals pl=Rituale
+Rivale noun g=m gen=Rivalen pl=Rivalen
 Roadmap noun g=f gen=Roadmap pl=Roadmaps
 Robbe noun g=f gen=Robbe pl=Robben
 Roboter noun g=m gen=Roboters pl=Roboter

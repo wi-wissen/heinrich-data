@@ -15,6 +15,7 @@ Gans noun g=f gen=Gans pl=Gänse
 Gänseblümchen noun g=n gen=Gänseblümchens pl=Gänseblümchen
 Gänsebraten noun g=m gen=Gänsebratens pl=Gänsebraten note=compound; the analyser would take braten as head
 Gänsehaut noun g=f gen=Gänsehaut pl=- note=no plural (mass or abstract noun)
+Gänze noun g=f gen=Gänze pl=- conf=85 note=only in the fixed phrase zur Gänze
 Ganzschrift noun g=f gen=Ganzschrift pl=Ganzschriften
 Ganztagsschule noun g=f gen=Ganztagsschule pl=Ganztagsschulen
 Garage noun g=f gen=Garage pl=Garagen
@@ -48,6 +49,7 @@ Geäst noun g=n gen=Geästes|Geästs pl=- note=no plural
 Gebäck noun g=n gen=Gebäcks|Gebäckes pl=Gebäcke
 Gebärde noun g=f gen=Gebärde pl=Gebärden
 Gebäude noun g=n gen=Gebäudes pl=Gebäude
+Gebein noun g=n gen=Gebeins|Gebeines pl=Gebeine note=mostly plural (die Gebeine)
 Gebell noun g=n gen=Gebells pl=- note=no plural
 Geber noun g=m gen=Gebers pl=Geber
 Geberin noun g=f gen=Geberin pl=Geberinnen
@@ -116,6 +118,7 @@ Gehilfe noun g=m gen=Gehilfen pl=Gehilfen
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehirnerschütterung noun g=f gen=Gehirnerschütterung pl=Gehirnerschütterungen
 Gehöft noun g=n gen=Gehöfts|Gehöftes pl=Gehöfte
+Gehölz noun g=n gen=Gehölzes pl=Gehölze
 Gehör noun g=n gen=Gehörs|Gehöres pl=- note=sense of hearing; mass noun
 Gehorsam noun g=m gen=Gehorsams pl=- note=no plural
 Gehsteig noun g=m gen=Gehsteigs|Gehsteiges pl=Gehsteige
@@ -231,6 +234,7 @@ Geschäft noun g=n gen=Geschäfts|Geschäftes[rare] pl=Geschäfte
 Geschäftsführerin noun g=f gen=Geschäftsführerin pl=Geschäftsführerinnen
 Geschäftsmann noun g=m gen=Geschäftsmannes|Geschäftsmanns pl=Geschäftsleute|Geschäftsmänner
 Geschehen noun g=n gen=Geschehens pl=- note=lexicalised nominal infinitive (das Geschehen = events); plural not used
+Geschehnis noun g=n gen=Geschehnisses pl=Geschehnisse
 Geschenk noun g=n gen=Geschenks|Geschenkes pl=Geschenke
 Geschichte noun g=f gen=Geschichte pl=Geschichten
 Geschick noun g=n gen=Geschicks|Geschickes pl=Geschicke note=skill (no plural) or fate (rare plural)
@@ -419,6 +423,8 @@ Grafschaft noun g=f gen=Grafschaft pl=Grafschaften
 Gram noun g=m gen=Grams|Grames pl=- conf=80 note=literary: grief (vor Gram); no plural
 Gramm noun g=n gen=Gramms pl=Gramm|Gramme
 Grammatik noun g=f gen=Grammatik pl=Grammatiken
+Gran noun g=n gen=Grans|Granes pl=Grane conf=80 note=old unit of weight (kein Gran Wahrheit); many hits are names (Gran Canaria)
+Granate noun g=f gen=Granate pl=Granaten
 Granit noun g=m gen=Granits|Granites pl=Granite
 Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen
@@ -465,6 +471,7 @@ Grundrechenart noun g=f gen=Grundrechenart pl=Grundrechenarten
 Grundrecht noun g=n gen=Grundrechts|Grundrechtes pl=Grundrechte
 Grundriss noun g=m gen=Grundrisses pl=Grundrisse
 Grundschule noun g=f gen=Grundschule pl=Grundschulen
+Grundsteinlegung noun g=f gen=Grundsteinlegung pl=Grundsteinlegungen
 Grundstufe noun g=f gen=Grundstufe pl=Grundstufen
 Gründung noun g=f gen=Gründung pl=Gründungen
 Grüne noun g=m|f decl=adj note=die Grünen: Green party members
@@ -481,6 +488,7 @@ Gummiband noun g=n gen=Gummibands|Gummibandes pl=Gummibänder
 Gummibärchen noun g=n gen=Gummibärchens pl=Gummibärchen
 Gummistiefel noun g=m gen=Gummistiefels pl=Gummistiefel
 Gunst noun g=f gen=Gunst pl=- note=mass noun
+Gunsten noun g=pl conf=80 note=only in zu Gunsten, the separate spelling of zugunsten
 Gurke noun g=f gen=Gurke pl=Gurken
 Gurt noun g=m gen=Gurts|Gurtes pl=Gurte
 Gürtel noun g=m gen=Gürtels pl=Gürtel

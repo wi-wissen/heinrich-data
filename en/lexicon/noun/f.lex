@@ -34,6 +34,7 @@ famine         noun
 fan            noun
 fanatic noun
 fancy          noun
+fang noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
 farce noun
@@ -75,6 +76,7 @@ fee            noun
 feed           noun
 feedback       noun pl=- note=uncountable
 feeder noun
+feedstock noun
 feel           noun
 feeling        noun
 fell           noun note=hill in northern England
@@ -97,6 +99,7 @@ ferocity noun
 ferret noun
 ferry          noun
 fertility      noun pl=- note=uncountable
+fertilization noun gb=fertilisation|fertilization
 fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
@@ -215,11 +218,13 @@ flip noun
 flipchart noun
 flipper noun
 flirt noun
+flirtation noun
 float          noun
 flock          noun
 flood          noun
 floodplain     noun
 floor          noun
+flop noun
 flora          noun
 flotilla noun
 flounder noun pl=flounder|flounders

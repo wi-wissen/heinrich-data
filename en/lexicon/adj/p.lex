@@ -47,6 +47,7 @@ pediatric adj gb=paediatric
 pelvic adj
 penal adj
 pending adj note=also used as a preposition: pending review
+peninsular adj
 penitent adj
 penniless adj
 pensionable adj
@@ -166,6 +167,7 @@ preferable adj adv=preferably
 preferential adj
 pregnant adj
 prehistoric adj
+prejudicial adj cmp=more adv=prejudicially
 preliminary adj
 premature adj adv=prematurely
 premier adj
@@ -197,6 +199,7 @@ princely adj
 principal adj adv=principally
 principled adj cmp=more
 prior adj note=mainly in prior to
+pristine adj cmp=more
 private adj cmp=more adv=privately
 privileged adj cmp=more
 privy adj
@@ -236,6 +239,7 @@ protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
 protracted adj
 proud adj cmp=er adv=proudly
+provident adj cmp=more adv=providently
 provincial adj
 provisional adj adv=provisionally
 provocative adj adv=provocatively

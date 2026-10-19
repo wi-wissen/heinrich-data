@@ -13,6 +13,7 @@ Dämon noun g=m gen=Dämons pl=Dämonen
 Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
 Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
+Däne noun g=m gen=Dänen pl=Dänen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
 Dankeschön noun g=n gen=Dankeschöns pl=Dankeschöns
@@ -69,6 +70,7 @@ Demonstrantin noun g=f gen=Demonstrantin pl=Demonstrantinnen
 Demonstration noun g=f gen=Demonstration pl=Demonstrationen
 Demonstrativpronomen noun g=n gen=Demonstrativpronomens pl=Demonstrativpronomen|Demonstrativpronomina
 Demut noun g=f gen=Demut pl=- note=no plural
+Denken noun g=n gen=Denkens pl=- note=lexicalised: thought, way of thinking (das Denken der Aufklärung); mass noun
 Denker noun g=m gen=Denkers pl=Denker
 Denkerin noun g=f gen=Denkerin pl=Denkerinnen
 Denkmal noun g=n gen=Denkmals|Denkmales pl=Denkmäler|Denkmale[rare]
@@ -76,11 +78,13 @@ Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
+Depesche noun g=f gen=Depesche pl=Depeschen
 Deponie noun g=f gen=Deponie pl=Deponien
 Deportation noun g=f gen=Deportation pl=Deportationen
 Depot noun g=n gen=Depots pl=Depots
 Depression noun g=f gen=Depression pl=Depressionen
 Derby noun g=n gen=Derbys pl=Derbys
+Derivat noun g=n gen=Derivats|Derivates pl=Derivate
 Desaster noun g=n gen=Desasters pl=Desaster
 Design noun g=n gen=Designs pl=Designs
 Designer noun g=m gen=Designers pl=Designer
@@ -114,6 +118,7 @@ Diakon noun g=m gen=Diakons pl=Diakone|Diakonen[rare]
 Dialekt noun g=m gen=Dialekts|Dialektes pl=Dialekte
 Dialektik noun g=f gen=Dialektik pl=- note=no plural
 Dialog noun g=m gen=Dialogs|Dialoges pl=Dialoge
+Diamant noun g=m gen=Diamanten pl=Diamanten
 Diät noun g=f gen=Diät pl=Diäten
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter
