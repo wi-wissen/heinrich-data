@@ -29,6 +29,7 @@ saleswoman noun pl=saleswomen
 salient noun
 saline noun
 salinity noun
+saliva noun pl=- note=uncountable
 sally noun
 salmon noun pl=salmon
 salon noun
@@ -59,6 +60,7 @@ sap noun
 sapling noun
 sapphire noun
 sarcasm noun
+sarcophagus noun pl=sarcophagi|sarcophaguses
 sardine noun
 sash noun
 satchel noun
@@ -76,6 +78,8 @@ sauna noun
 saunter noun
 sausage noun
 savage noun
+savagery noun
+savanna noun
 saving noun
 savior noun gb=saviour
 saw noun
@@ -116,6 +120,7 @@ schoolhouse noun
 schooling noun pl=- note=uncountable
 schoolmaster noun
 schoolmate noun
+schoolteacher noun
 schoolwork noun pl=- note=uncountable
 schoolyard noun
 schooner noun
@@ -232,6 +237,7 @@ sensor noun
 sentence noun
 sentencing noun pl=- note=uncountable
 sentiment noun
+sentimentality noun pl=- note=uncountable
 sentinel noun
 sentry noun
 separation noun
@@ -275,12 +281,14 @@ sewer noun
 sewerage noun pl=- note=uncountable
 sex noun
 sexuality noun
+shack noun
 shade noun
 shadow noun
 shaft noun
 shah noun
 shale noun
 sham noun
+shambles noun pl=shambles note=singular in form: a shambles
 shame noun
 shape noun
 share noun
@@ -289,6 +297,7 @@ shareholding noun
 shareware noun pl=- note=uncountable
 shark noun
 sharpener noun
+sharpness noun pl=- note=uncountable
 shawl noun
 sheath noun
 shed noun
@@ -303,6 +312,7 @@ shelter noun
 shemale noun style=offensive note=transphobic slur
 shepherd noun
 sheriff noun
+sherry noun
 shield noun
 shift noun
 shilling noun
@@ -359,6 +369,7 @@ shrubbery noun
 shudder noun
 shunt noun
 shutdown noun
+shutoff noun
 shutter noun
 shuttle noun
 shyness noun pl=- note=uncountable
@@ -388,9 +399,11 @@ signboard noun
 significance noun
 Sikh noun
 silence noun
+silhouette noun
 silica noun pl=- note=uncountable
 silicon noun pl=- note=chemical element
 silk noun
+sill noun
 silo noun note=plural silos
 silver noun
 similarity noun
@@ -405,6 +418,7 @@ sine noun
 sinew noun
 singer noun
 single noun
+singleton noun
 sink noun
 sinner noun
 Sioux noun pl=Sioux
@@ -491,6 +505,7 @@ smile noun
 smoke noun
 smoker noun
 smoothie noun
+smoothness noun pl=- note=uncountable
 SMS noun abbr pl=SMS|SMSes conf=85 note=plural use unsure
 smuggler noun
 snack noun
@@ -517,6 +532,7 @@ snub noun
 snuff noun
 soap noun
 sob noun
+sobriety noun pl=- note=uncountable
 soccer noun pl=- note=uncountable
 socialism noun pl=- note=uncountable
 socialist noun
@@ -577,6 +593,7 @@ soup noun
 source noun
 south noun pl=- note=compass point
 southeast noun pl=- note=compass point
+southerner noun
 southwest noun pl=- note=compass point
 souvenir noun
 sovereign noun
@@ -608,6 +625,7 @@ spear noun
 spearhead noun
 special noun
 specialist noun
+specialization noun gb=specialisation|specialization
 specialty noun gb=speciality|specialty note=British texts use both spellings
 species noun pl=species
 specific noun note=specifics (details)
@@ -707,6 +725,8 @@ stalk noun
 stall noun
 stallion noun
 stalwart noun
+stamen noun
+stamina noun pl=- note=uncountable
 stammer noun
 stamp noun
 stampede noun
@@ -738,6 +758,7 @@ station noun
 stationer noun
 stationery noun pl=- note=uncountable
 statistic noun
+statuary noun pl=- note=uncountable
 statue noun
 stature noun
 status noun
@@ -755,6 +776,7 @@ steed noun
 steel noun
 steelhead noun pl=steelhead conf=85 note=plural steelheads unsure
 steeple noun
+steerage noun pl=- note=uncountable
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
 step noun
 stepbrother noun
@@ -803,6 +825,7 @@ stomachache noun
 stone noun
 stool noun
 stop noun
+stoppage noun
 storage noun pl=- note=uncountable
 store noun
 storefront noun
@@ -825,6 +848,7 @@ stranger noun
 strap noun
 strategist noun
 strategy noun
+stratification noun
 stratum noun pl=strata
 straw noun
 strawberry noun
@@ -861,10 +885,12 @@ stuff noun pl=- note=uncountable
 stump noun
 stunt noun
 stupidity noun
+stupor noun
 sturgeon noun pl=sturgeon|sturgeons
 style noun
 sub noun
 sub-paragraph noun
+subarea noun
 subcategory noun
 subchapter noun
 subcommittee noun
@@ -1002,6 +1028,7 @@ suspension noun
 suspicion noun
 sustainability noun pl=- note=uncountable
 suture noun
+swain noun
 swallow noun
 swamp noun
 swan noun

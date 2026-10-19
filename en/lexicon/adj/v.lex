@@ -49,6 +49,7 @@ visible       adj cmp=more adv=visibly
 visionary adj
 visual        adj adv=visually
 vital         adj adv=vitally
+vivacious adj cmp=more
 vivid         adj cmp=more adv=vividly
 vocal         adj adv=vocally
 vocational    adj

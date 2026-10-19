@@ -50,6 +50,7 @@ balloon noun
 ballot noun
 ballpark noun
 ballroom noun
+balsam noun
 bamboo noun
 ban noun
 banana noun
@@ -95,6 +96,7 @@ barricade noun
 barrier noun
 barrister noun
 barrow noun
+barter noun pl=- note=uncountable
 basalt noun
 base noun
 baseball noun
@@ -171,6 +173,7 @@ behavior noun gb=behaviour
 behest noun pl=- note=at the behest of
 being noun
 Belarusian noun
+belfry noun
 Belgian noun
 belief noun pl=beliefs
 believer noun
@@ -207,6 +210,7 @@ beta noun
 betrayal noun
 beverage noun
 bewilderment noun pl=- note=uncountable
+bey noun conf=90 note=Ottoman title, usually capitalized after a name
 bias noun
 bib noun
 bible noun
@@ -225,6 +229,7 @@ bin noun
 binary noun
 binder noun
 binding noun
+biochemist noun
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
@@ -236,6 +241,8 @@ biologist noun
 biology noun pl=- note=uncountable
 biomarker noun
 biomass noun pl=- note=uncountable
+biopic noun
+biopsy noun
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -250,6 +257,7 @@ bishop noun
 bishopric noun
 bison noun pl=bison|bisons
 bit noun
+bitch noun
 bitcoin noun
 bite noun
 bitrate noun conf=80
@@ -260,6 +268,7 @@ blackbird noun
 blackboard noun
 blackcurrant noun
 blackface noun pl=- note=uncountable
+blackguard noun
 blacklist noun
 blackmail noun pl=- note=uncountable
 blackness noun pl=- note=uncountable
@@ -270,6 +279,7 @@ blade noun
 blame noun pl=- note=uncountable
 blank noun
 blanket noun
+blasphemy noun
 blast noun
 blaze noun
 blazer noun
@@ -283,6 +293,7 @@ blindness noun pl=- note=uncountable
 bliss noun pl=- note=uncountable
 blister noun
 blitz noun
+blizzard noun
 bloc noun
 block noun
 blockade noun
@@ -516,6 +527,7 @@ bulk noun pl=- note=uncountable
 bull noun
 bullet noun
 bulletin noun
+bullock noun
 bully noun
 bulwark noun
 bum noun style=colloquial note=buttocks (British); a lazy person (American)
@@ -577,3 +589,4 @@ bypass noun
 byproduct noun conf=90 note=also by-product
 bystander noun
 byte noun
+byway noun

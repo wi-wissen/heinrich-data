@@ -55,6 +55,7 @@ limp verb
 line          verb
 linger        verb
 link          verb
+liquefy verb note=liquify is a variant spelling
 liquidate verb
 list          verb
 listen        verb

@@ -1,5 +1,6 @@
 tabloid adj
 taboo adj
+tacit adj adv=tacitly
 tactful adj cmp=more adv=tactfully
 tactical adj adv=tactically
 Taiwanese adj
@@ -18,6 +19,7 @@ taxable adj
 taxpaying adj conf=80
 technical adj adv=technically
 technological adj adv=technologically
+tectonic adj
 tedious adj cmp=more adv=tediously
 teenage adj
 teeny adj style=colloquial
@@ -27,7 +29,7 @@ temporary adj adv=temporarily
 tender adj cmp=er adv=tenderly
 tense adj cmp=er
 tentative adj adv=tentatively
-terminal adj
+terminal adj adv=terminally
 terrestrial adj
 terrible adj adv=terribly
 terrific adj
@@ -62,6 +64,7 @@ tidal adj
 tidy adj cmp=er adv=tidily
 tiered adj
 tight adj cmp=er adv=tightly
+timeless adj
 timely adj cmp=er|more
 timid adj cmp=er|more adv=timidly
 tiny adj cmp=er
@@ -73,6 +76,7 @@ titular adj
 tolerable adj adv=tolerably
 tolerant adj cmp=more
 tonic adj
+toothed adj
 toothless adj
 top adj
 topical adj
@@ -104,6 +108,7 @@ treble adj
 tremendous adj adv=tremendously
 tremulous adj
 trendy adj cmp=er
+triable adj
 triangular adj
 tribal adj
 tricky adj cmp=er
@@ -124,6 +129,7 @@ turbulent adj
 Turkic adj
 Turkish adj
 turquoise adj
+twofold adj
 typical adj adv=typically
 typographical adj
 tyrannical adj cmp=more

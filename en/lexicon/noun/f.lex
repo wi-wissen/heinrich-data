@@ -88,6 +88,7 @@ female         noun
 feminist       noun
 fen noun
 fence          noun
+fencer noun
 fender noun
 fentanyl noun pl=- note=uncountable
 ferment noun
@@ -102,15 +103,19 @@ fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
 fetter noun
+fetus noun gb=foetus|fetus
 feud noun
 fever          noun
 fiancé noun
 fiancée noun
 fiber          noun gb=fibre
+fiberglass noun gb=fibreglass pl=- note=uncountable
 fiction        noun
 fiddle noun
+fiddler noun
 fidelity       noun pl=- note=uncountable
 fiduciary noun
+fief noun pl=fiefs
 field          noun
 fielder noun
 fiend noun
@@ -130,6 +135,7 @@ filler noun
 film           noun
 filmmaker      noun
 filter         noun
+filth noun pl=- note=uncountable
 filtration noun
 fin            noun
 final          noun
@@ -165,6 +171,7 @@ firewall noun
 firewood noun pl=- note=uncountable
 firework       noun
 firm           noun
+firmament noun
 firmness noun
 firmware noun pl=- note=uncountable
 fish           noun pl=fish|fishes
@@ -180,6 +187,7 @@ fit            noun
 fitness        noun pl=- note=uncountable
 fitting        noun
 fix            noun
+fixation noun
 fixture noun
 fjord noun
 flag           noun
@@ -353,6 +361,7 @@ freeway        noun region=US
 freeze         noun
 freezer noun
 freight        noun
+freighter noun
 French         noun pl=- note=the language; the French as a people
 Frenchman      noun pl=Frenchmen
 frenzy noun
@@ -374,8 +383,10 @@ frisbee noun
 fritillary noun
 frock noun
 frog noun
+frolic noun
 front          noun
 frontier       noun
+frontispiece noun
 frontline      noun
 frontman noun pl=frontmen
 frost          noun
@@ -388,6 +399,7 @@ FTE noun abbr note=full-time equivalent
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
+fullback noun
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
 fun            noun pl=- note=uncountable

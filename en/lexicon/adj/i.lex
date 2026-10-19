@@ -62,6 +62,7 @@ inaccurate     adj adv=inaccurately
 inactive       adj
 inadequate     adj adv=inadequately
 inadvertent    adj adv=inadvertently
+inalienable adj
 inanimate adj
 inapplicable adj
 inappropriate  adj adv=inappropriately
@@ -83,6 +84,7 @@ incomplete     adj
 incomprehensible adj
 inconceivable adj
 inconclusive adj adv=inconclusively
+incongruous adj adv=incongruously
 inconsistent   adj adv=inconsistently
 inconvenient adj
 incorrect      adj adv=incorrectly
@@ -93,6 +95,7 @@ incremental    adj adv=incrementally
 incumbent      adj
 indebted adj
 indecent adj
+indefatigable adj adv=indefatigably
 indefinite     adj adv=indefinitely
 independent    adj adv=independently
 indescribable adj
@@ -122,6 +125,7 @@ inefficient adj adv=inefficiently
 ineligible     adj
 inert adj
 inevitable     adj adv=inevitably
+inexcusable adj adv=inexcusably
 inexhaustible adj
 inexpensive adj
 inexperienced adj
@@ -129,11 +133,13 @@ inexplicable adj
 inexpressible adj adv=inexpressibly
 inextricable adj adv=inextricably
 infamous       adj
+infeasible adj
 infectious     adj
 inferior       adj
 infernal adj
 infinite       adj adv=infinitely
 inflammatory adj
+inflationary adj
 inflexible adj adv=inflexibly
 influential    adj
 informal       adj adv=informally
@@ -143,14 +149,18 @@ informed       adj cmp=more
 infrared adj
 infrequent adj adv=infrequently
 ingenious      adj adv=ingeniously
+ingenuous adj adv=ingenuously
 inherent       adj adv=inherently
+inhospitable adj
 inhuman adj
+inhumane adj adv=inhumanely
 initial        adj adv=initially
 injured        adj
 injurious adj
 inland         adj
 innate adj
 inner          adj attr_only
+innermost adj
 innocent       adj adv=innocently
 innovative     adj
 innumerable    adj
@@ -165,6 +175,7 @@ inseparable adj
 insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
+insistent adj cmp=more adv=insistently
 insolent adj adv=insolently
 insolvent adj
 inspirational adj
@@ -176,6 +187,7 @@ instructional adj
 instructive adj
 instrumental   adj
 insufficient   adj adv=insufficiently
+insular adj cmp=more
 intact         adj
 intangible adj
 integral       adj adv=integrally
@@ -234,11 +246,13 @@ Iranian        adj
 Iraqi          adj
 Irish          adj
 ironic adj adv=ironically
+ironical adj note=adverb ironically comes from ironic
 Iroquois adj
 irrational adj adv=irrationally
 irreducible adj
 irregular      adj adv=irregularly
 irrelevant adj
+irreplaceable adj
 irresistible   adj adv=irresistibly
 irrespective   adj note=only in irrespective of
 irresponsible  adj adv=irresponsibly
@@ -252,3 +266,4 @@ Israeli        adj
 Italian        adj
 italic adj
 itchy adj cmp=er
+iterative adj

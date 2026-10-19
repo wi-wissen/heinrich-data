@@ -44,11 +44,14 @@ festive adj
 fetal adj gb=foetal|fetal
 feudal         adj
 feverish adj cmp=more adv=feverishly
+fibrous adj
+fickle adj cmp=more
 fictional      adj
 fictitious adj
 fiduciary adj
 fierce         adj cmp=er adv=fiercely
 fiery          adj cmp=er
+figurative adj adv=figuratively
 Filipino       adj
 filthy adj cmp=er
 final          adj adv=finally
@@ -60,6 +63,7 @@ firm           adj cmp=er adv=firmly
 firsthand adj
 fiscal         adj adv=fiscally
 fit            adj cmp=er
+fitful adj adv=fitfully
 fitting        adj adv=fittingly
 fixed          adj
 fizzy adj cmp=er
@@ -72,11 +76,13 @@ fleecy adj cmp=er
 fleeting adj
 Flemish        adj
 flexible       adj cmp=more adv=flexibly
+flimsy adj cmp=er
 floral adj
 flowery adj cmp=more
 fluent adj adv=fluently
 fluffy adj cmp=er
 fluid          adj
+fluorescent adj
 flush          adj
 focal          adj
 foggy adj cmp=er

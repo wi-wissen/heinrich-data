@@ -25,6 +25,7 @@ reasonable adj cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
 receivable adj
 recent adj cmp=more adv=recently
+receptive adj cmp=more
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
@@ -40,6 +41,7 @@ referable adj
 reflective adj cmp=more adv=reflectively
 reflex adj
 reformed adj
+refractory adj
 refreshing adj adv=refreshingly
 refundable adj
 regal adj adv=regally
@@ -50,6 +52,7 @@ regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
 reimbursable adj
+relational adj
 relative adj adv=relatively
 relaxed adj cmp=more
 relentless adj adv=relentlessly
@@ -108,6 +111,7 @@ rhetorical adj adv=rhetorically
 rhythmic adj adv=rhythmically
 Rican adj note=in Puerto Rican, Costa Rican
 rich adj cmp=er adv=richly
+rickety adj cmp=more
 ridiculous adj cmp=more adv=ridiculously
 rife adj
 right adj adv=rightly

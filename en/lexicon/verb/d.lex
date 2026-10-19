@@ -18,6 +18,7 @@ dazzle verb
 deactivate verb
 deal verb past=dealt pp=dealt
 debate verb
+debilitate verb
 debit verb
 debrief verb
 debug verb double
@@ -72,6 +73,7 @@ demonstrate verb
 demote verb
 denote verb
 denounce verb
+dent verb
 deny verb
 depart verb
 depend verb

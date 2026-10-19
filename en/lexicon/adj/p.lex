@@ -7,6 +7,7 @@ palliative adj
 pallid adj cmp=more
 palpable adj adv=palpably
 paltry adj cmp=er|more
+pancreatic adj
 pandemic adj
 papal adj
 paperless adj
@@ -44,6 +45,7 @@ peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
 pediatric adj gb=paediatric
+pelagic adj
 pelvic adj
 penal adj
 pending adj note=also used as a preposition: pending review
@@ -86,6 +88,7 @@ philosophic adj adv=philosophically
 philosophical adj adv=philosophically
 phonetic adj adv=phonetically
 photographic adj
+photovoltaic adj
 phylogenetic adj adv=phylogenetically
 physical adj adv=physically
 physiological adj
@@ -103,6 +106,7 @@ pivotal adj
 placid adj adv=placidly
 plain adj cmp=er adv=plainly
 plaintive adj cmp=more adv=plaintively
+planar adj
 planetary adj
 plastic adj
 plausible adj cmp=more adv=plausibly
@@ -119,6 +123,7 @@ pneumatic adj
 poetic adj cmp=more adv=poetically
 poetical adj
 poignant adj adv=poignantly
+pointless adj adv=pointlessly
 poised adj
 poisonous adj
 poky adj cmp=er
@@ -130,6 +135,7 @@ political adj cmp=more adv=politically
 polynomial adj
 pompous adj cmp=more adv=pompously
 ponderous adj adv=ponderously
+pontifical adj
 poor adj cmp=er adv=poorly
 popular adj cmp=more adv=popularly
 populist adj
@@ -179,6 +185,7 @@ present adj adv=presently
 presidential adj adv=presidentially
 prestigious adj cmp=more
 presumptive adj
+pretentious adj cmp=more adv=pretentiously
 pretty adj cmp=er adv=prettily
 prevalent adj
 preventable adj
@@ -186,6 +193,7 @@ preventative adj
 preventive adj
 previous adj adv=previously
 priceless adj
+prickly adj cmp=er
 priestly adj
 primal adj
 primary adj adv=primarily
@@ -249,6 +257,7 @@ psychological adj adv=psychologically
 public adj cmp=more adv=publicly
 pulmonary adj
 punctual adj cmp=more adv=punctually
+pungent adj cmp=more
 punishable adj
 punitive adj
 pure adj cmp=er adv=purely

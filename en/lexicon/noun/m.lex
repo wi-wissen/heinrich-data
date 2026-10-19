@@ -19,6 +19,7 @@ magazine       noun
 magic          noun pl=- note=uncountable
 magician noun
 magistrate     noun
+magnanimity noun pl=- note=uncountable
 magnate noun
 magnesium noun pl=- note=uncountable
 magnet noun
@@ -46,6 +47,7 @@ majority       noun
 make           noun
 maker          noun
 makeup         noun gb=make-up|makeup
+maladministration noun pl=- note=uncountable
 malady noun
 malaria noun pl=- note=uncountable
 Malay          noun
@@ -66,6 +68,7 @@ mammy noun
 man            noun pl=men
 management     noun
 manager        noun
+manatee noun
 Mandarin noun pl=- note=the Chinese language
 mandarin noun
 mandate        noun
@@ -78,12 +81,14 @@ manganese noun pl=- note=uncountable
 mango noun pl=mangoes|mangos
 mangrove noun
 manhood        noun pl=- note=uncountable
+mania noun
 manifest       noun
 manifestation noun
 manifesto      noun pl=manifestos|manifestoes
 manifold noun
 manipulation   noun
 mankind        noun pl=- note=uncountable
+mannequin noun
 manner         noun
 manor          noun
 manpower noun pl=- note=uncountable
@@ -131,6 +136,7 @@ martyrdom noun
 marvel         noun
 Marxist noun
 mascot         noun
+masculinity noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
@@ -148,6 +154,7 @@ match          noun
 mate           noun
 mater noun note=mainly in alma mater, dura mater; dated British for mother
 material       noun
+materialism noun pl=- note=uncountable
 maternity      noun pl=- note=uncountable
 math           noun pl=- region=US note=British maths
 mathematician  noun
@@ -215,6 +222,7 @@ memorandum     noun pl=memoranda|memorandums
 memorial       noun
 memory         noun
 menace noun
+meningitis noun pl=- note=uncountable
 mentality noun
 mentee noun
 mention        noun
@@ -266,12 +274,15 @@ midday noun
 middle         noun
 middleman noun pl=middlemen
 middleware noun pl=- note=uncountable
+middleweight noun
 midfield noun
 midfielder     noun
 midland noun note=the middle region of a country; the Midlands (England)
 midnight       noun
 midpoint noun
+midshipman noun pl=midshipmen
 midst          noun pl=- note=only singular (in the midst of)
+midsummer noun pl=- note=uncountable
 midterm noun
 midtown noun region=US
 midway noun region=US note=area of a fair with amusements
@@ -309,6 +320,7 @@ mining         noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
+minke noun
 minor          noun
 minority       noun
 minstrel noun
@@ -322,7 +334,9 @@ mirth noun pl=- note=uncountable
 miscarriage noun
 mischief       noun pl=- note=uncountable
 misconduct     noun pl=- note=uncountable
+misdeed noun
 misdemeanor noun gb=misdemeanour
+miser noun
 misery         noun
 misfortune     noun
 misgiving noun
@@ -344,6 +358,7 @@ mistrust noun pl=- note=uncountable
 misunderstanding noun
 misuse         noun
 mitigation     noun
+mitochondrion noun pl=mitochondria
 mitten noun
 mix            noun
 mixer noun
@@ -412,6 +427,7 @@ mood           noun
 moon           noun
 moonlight      noun pl=- note=uncountable
 moor           noun
+moorland noun
 moose noun pl=moose
 mop noun
 moraine noun
@@ -475,6 +491,7 @@ mug noun
 Mughal noun
 mulatto noun pl=mulattoes|mulattos style=offensive note=dated, derogatory term for people of mixed Black and white descent
 mule           noun
+multicast noun
 multimedia noun pl=- note=uncountable
 multinational  noun
 multiple       noun
@@ -512,6 +529,7 @@ mutant noun
 mutation       noun
 mute noun
 mutilation noun
+mutineer noun
 mutiny noun
 mutter         noun
 mutton noun pl=- note=uncountable

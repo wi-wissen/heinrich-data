@@ -50,6 +50,7 @@ operative      adj
 opercular adj
 ophthalmic adj
 opioid adj
+opportunistic adj adv=opportunistically
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
@@ -103,6 +104,7 @@ overpowering adj cmp=more adv=overpoweringly
 overqualified adj
 overseas       adj
 overt adj cmp=more adv=overtly
+overweight adj
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj

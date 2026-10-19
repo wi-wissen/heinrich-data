@@ -56,6 +56,7 @@ rebut verb double
 recall verb
 recap verb double
 recapture verb
+recast verb prefix=re past=recast pp=recast
 recede verb
 receive verb
 recess verb
@@ -68,10 +69,13 @@ recline verb
 recognize verb gb=recognise|recognize
 recollect verb
 recommend verb
+recommit verb prefix=re double
+recompense verb
 reconcile verb
 reconfigure verb
 reconnoitre verb us=reconnoiter|reconnoitre
 reconsider verb prefix=re
+reconstitute verb
 reconstruct verb
 reconvene verb
 record verb
@@ -130,6 +134,7 @@ reheat verb
 reign verb
 reimburse verb
 rein verb
+reincorporate verb
 reinforce verb
 reinstall verb
 reinstate verb
@@ -254,6 +259,7 @@ retake verb prefix=re past=retook pp=retaken
 retaliate verb
 rethink verb prefix=re past=rethought pp=rethought
 retire verb
+retitle verb
 retort verb
 retrace verb
 retract verb

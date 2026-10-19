@@ -13,6 +13,7 @@ joyous         adj adv=joyously
 judicial       adj adv=judicially
 judicious adj adv=judiciously
 juicy adj cmp=er
+Julian adj note=of Julius Caesar: the Julian calendar
 junior         adj
 Jurassic adj
 just           adj cmp=er|more adv=justly

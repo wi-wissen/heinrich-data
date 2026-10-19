@@ -1,8 +1,11 @@
 Ukrainian     noun
+ultimatum noun pl=ultimatums|ultimata[rare]
+ultra noun conf=90 note=an extremist; also used as a prefix
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umbrella      noun
 umpire noun
+unanimity noun pl=- note=uncountable
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
