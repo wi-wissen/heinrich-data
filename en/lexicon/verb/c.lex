@@ -21,11 +21,12 @@ carp verb
 carpet verb
 carry verb
 cart verb
+cartwheel verb
 carve verb
 cascade verb
 cash verb
 cast verb past=cast pp=cast
-catalog verb conf=90 note=British catalogue, catalogued, cataloguing not written: the generator gives catalogueing for the variety lemma (gap)
+catalog verb gb=catalogue|catalog
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
 cater verb
@@ -67,7 +68,9 @@ chew verb
 chicken verb
 chill verb
 chip verb
+chirp verb
 choke verb
+chomp verb
 choose verb past=chose pp=chosen
 chop verb
 chorus verb
@@ -81,6 +84,7 @@ cite verb
 civilize verb gb=civilise|civilize
 claim verb
 clam verb
+clamber verb
 clap verb
 clarify verb
 clash verb
@@ -204,7 +208,7 @@ consort verb
 constitute verb
 constrain verb
 construct verb
-construe verb ing=construing note=ing written: generator keeps the e after u
+construe verb
 consult verb
 consume verb
 contact verb
@@ -214,7 +218,7 @@ contemplate verb
 contend verb
 content verb
 contest verb
-continue verb ing=continuing note=ing written: generator keeps the e after u
+continue verb
 contract verb
 contradict verb
 contrast verb
@@ -261,10 +265,12 @@ crane verb
 crash verb
 crawl verb
 cream verb
+crease verb
 create verb
 credit verb
 creep verb past=crept pp=crept
 crew verb
+crinkle verb
 cripple verb
 criticize verb gb=criticise|criticize
 critique verb
@@ -278,9 +284,12 @@ crowdsource verb
 crown verb
 cruise verb
 crumble verb
+crumple verb
+crunch verb
 crusade verb
 crush verb
 cry verb
+cuddle verb
 cue verb ing=cueing|cuing
 culminate verb
 cultivate verb

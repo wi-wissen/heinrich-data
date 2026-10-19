@@ -37,12 +37,14 @@ help           verb
 herald         verb
 herd           verb
 hesitate       verb
+hiccup verb past=hiccuped|hiccupped pp=hiccuped|hiccupped ing=hiccuping|hiccupping
 hide           verb past=hid pp=hidden
 highlight      verb
 hike           verb
 hinder         verb
 hint           verb
 hire           verb
+hiss verb
 hit            verb past=hit pp=hit
 hoist verb
 hold           verb past=held pp=held
@@ -51,15 +53,18 @@ holler verb style=colloquial
 home           verb
 honor          verb gb=honour
 hook           verb
+hoover verb region=GB note=to vacuum
 hop            verb
 hope           verb
 horrify verb
+hose verb
 host           verb
 hound          verb
 house          verb
 hover verb
 howl verb
 huddle verb
+hug verb
 hum            verb
 humble         verb
 humiliate verb

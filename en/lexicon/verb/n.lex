@@ -1,5 +1,6 @@
 nail          verb
 name          verb
+nap verb
 narrate       verb
 narrow        verb
 naturalize verb gb=naturalise|naturalize
@@ -9,9 +10,11 @@ necessitate verb
 need          verb
 neglect       verb
 negotiate     verb
+neigh verb
 nest          verb
 net           verb
 network       verb
+nibble verb
 nickname      verb
 nod           verb
 nominate      verb
@@ -23,3 +26,4 @@ notify        verb
 nullify verb
 number        verb
 nurse         verb
+nuzzle verb

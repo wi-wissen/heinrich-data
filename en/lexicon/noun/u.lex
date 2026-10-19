@@ -17,12 +17,14 @@ understanding noun
 undertaker    noun
 undertaking   noun
 undervaluation noun
+underwear noun pl=- note=uncountable
 underworld noun
 underwriter noun
 underwriting noun pl=- note=uncountable
 uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unhappiness noun pl=- note=uncountable
+unicorn noun
 unification noun
 uniform       noun
 uniformity noun
@@ -55,7 +57,7 @@ urine         noun pl=- note=uncountable
 URL noun abbr note=web address
 usability noun pl=- note=uncountable
 usage         noun
-USB noun abbr pl=- note=Universal Serial Bus
+USB noun abbr note=universal serial bus
 use           noun
 usefulness noun pl=- note=uncountable
 user          noun

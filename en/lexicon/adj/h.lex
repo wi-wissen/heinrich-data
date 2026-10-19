@@ -9,7 +9,7 @@ handy adj cmp=er
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
 hardcore adj
-hardworking adj cmp=more conf=85 note=also hard-working
+hardworking adj cmp=more note=also written hard-working
 hardy          adj cmp=er
 harmful        adj
 harmless       adj adv=harmlessly
@@ -22,8 +22,10 @@ hateful adj cmp=more adv=hatefully
 haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
+hazy adj cmp=er
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
+heartbroken adj
 heartfelt adj
 heartless adj
 hearty         adj cmp=er adv=heartily
@@ -40,6 +42,7 @@ heroic         adj adv=heroically
 hideous        adj adv=hideously
 hierarchical adj adv=hierarchically
 high           adj cmp=er adv=highly
+hilarious adj cmp=more adv=hilariously
 hilly adj cmp=er
 hind adj attr_only
 Hindu          adj
@@ -52,6 +55,7 @@ hollow         adj cmp=er
 holy           adj cmp=er
 homeless       adj
 homely adj cmp=er|more
+homesick adj
 homeward adj
 homogeneous adj
 homosexual adj
@@ -75,6 +79,7 @@ humane adj cmp=more adv=humanely
 humanitarian   adj
 humble         adj cmp=er adv=humbly
 humid          adj
+humongous adj style=colloquial
 humorous       adj adv=humorously
 Hungarian      adj
 hungry         adj cmp=er adv=hungrily

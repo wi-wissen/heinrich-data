@@ -17,6 +17,7 @@ valve         noun
 vampire noun
 van           noun
 vanguard noun
+vanilla noun pl=- note=uncountable
 vanity        noun
 vapor         noun gb=vapour
 variability   noun
@@ -87,6 +88,7 @@ village       noun
 villager      noun
 villain       noun
 vine          noun
+vinegar noun
 vineyard noun
 vintage noun
 vinyl         noun
@@ -96,6 +98,7 @@ violence      noun pl=- note=uncountable
 violet        noun
 violin        noun
 violinist noun
+viper noun
 virgin        noun
 virtualization noun gb=virtualisation|virtualization
 virtue        noun
@@ -112,6 +115,7 @@ vista         noun
 visual        noun
 vitality noun pl=- note=uncountable
 vitamin noun
+vlog noun
 vocabulary    noun
 vocal         noun
 vocalist      noun
@@ -123,6 +127,7 @@ void          noun
 VoIP noun abbr pl=- note=Voice over IP
 volatility noun
 volcano       noun pl=volcanoes|volcanos
+vole noun
 volley noun
 volleyball    noun
 voltage       noun
@@ -139,3 +144,4 @@ voyage        noun
 VP noun abbr note=vice president
 VPN noun abbr note=virtual private network
 vulnerability noun
+vulture noun

@@ -131,6 +131,7 @@ drastic adj adv=drastically
 dreadful adj adv=dreadfully
 dreamy adj cmp=er
 dreary adj cmp=er adv=drearily
+drizzly adj
 drowsy adj cmp=er
 drunk adj cmp=er|more
 drunken adj adv=drunkenly

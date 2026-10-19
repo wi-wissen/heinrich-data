@@ -37,10 +37,14 @@ patrol verb double
 pattern verb
 pause verb
 pave verb
+paw verb
 pawn verb
 pay verb past=paid pp=paid
 peak verb
+peck verb
 pedal verb
+peek verb
+peel verb
 peep verb
 peer verb
 peg verb
@@ -89,6 +93,7 @@ pitch verb
 pity verb
 pivot verb
 place verb
+plagiarize verb gb=plagiarise|plagiarize
 plague verb
 plan verb
 plant verb
@@ -98,6 +103,7 @@ play verb
 plead verb past=pleaded|pled[US] pp=pleaded|pled[US]
 please verb
 pledge verb
+plod verb
 plot verb
 plow verb gb=plough
 pluck verb
@@ -109,6 +115,7 @@ pocket verb
 podcast verb
 point verb
 poison verb
+poke verb
 police verb
 polish verb
 poll verb
@@ -127,6 +134,7 @@ postpone verb
 potter verb
 pound verb
 pour verb
+pout verb
 power verb
 practice verb gb=practise
 praise verb
@@ -197,6 +205,7 @@ protest verb
 prove verb past=proved pp=proved|proven
 provide verb
 provoke verb
+prune verb
 publicize verb gb=publicise|publicize
 publish verb
 pull verb
@@ -207,7 +216,8 @@ punish verb
 purchase verb
 purge verb
 purport verb
-pursue verb ing=pursuing note=generator keeps e after u (pursueing); -ing written
+purr verb
+pursue verb
 push verb
 put verb past=put pp=put
 puzzle verb

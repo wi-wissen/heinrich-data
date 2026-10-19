@@ -8,10 +8,14 @@ lack          noun
 lacrosse noun pl=- note=uncountable
 lad           noun
 ladder        noun
+ladle noun
 lady          noun
+ladybird noun region=GB note=US ladybug
+ladybug noun region=US note=British ladybird
 ladyship noun
 lag noun
 lagoon        noun
+lair noun
 laird noun
 lake          noun
 lamb          noun
@@ -38,13 +42,16 @@ Lao noun pl=Lao
 lap           noun
 lapse         noun
 laptop noun
+lark noun
 larva         noun pl=larvae
+lasagna noun gb=lasagne|lasagna
 laser         noun
 latency noun
 lateness noun pl=- note=uncountable
 Latin         noun
 Latino        noun note=plural Latinos
 latitude      noun
+latte noun
 lattice       noun
 Latvian noun
 laugh         noun
@@ -55,8 +62,11 @@ laundry noun
 laureate noun
 laurel        noun
 lava noun
+lavatory noun
+lavender noun
 law           noun
 lawn          noun
+lawnmower noun
 lawsuit       noun
 lawyer        noun
 layer         noun
@@ -86,12 +96,14 @@ lecture       noun
 lecturer      noun
 ledge         noun
 ledger noun
+leek noun
 left          noun
 lefty noun style=colloquial
 leg           noun
 legacy        noun
 legality noun
 legend        noun
+leggings noun pl_only
 legion        noun
 legislation   noun pl=- note=uncountable
 legislator    noun
@@ -99,10 +111,14 @@ legislature   noun
 legitimacy    noun pl=- note=uncountable
 leisure       noun pl=- note=uncountable
 lemma noun pl=lemmas|lemmata
+lemon noun
+lemonade noun
+lemur noun
 Lenape noun pl=Lenape
 lender        noun
 length        noun
 lens          noun
+lentil noun
 leopard       noun
 lesbian       noun
 lesion noun
@@ -110,7 +126,9 @@ lessee        noun
 lesson        noun
 lessor noun
 letter        noun
+letterbox noun region=GB
 letterhead noun
+lettuce noun
 level         noun
 lever noun
 leverage      noun
@@ -136,6 +154,7 @@ lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
 life          noun pl=lives
 lifecycle noun
+lifeguard noun
 lifeline noun
 lifespan noun
 lifestyle     noun
@@ -169,7 +188,9 @@ linguist noun
 lining        noun
 link          noun
 lion          noun
+lioness noun
 lip           noun
+lipstick noun
 liquid        noun
 liquidation   noun
 liquidator noun
@@ -192,6 +213,8 @@ livery        noun
 livestock     noun pl=- note=uncountable
 livestream noun
 living        noun
+lizard noun
+llama noun
 LLC           noun abbr note=limited liability company
 LLP noun abbr note=limited liability partnership
 LNG           noun abbr pl=- note=liquefied natural gas
@@ -201,6 +224,7 @@ loaf noun pl=loaves
 loan          noun
 lobby         noun
 lobbyist noun
+lobster noun
 local         noun
 localism      noun
 locality      noun
@@ -214,6 +238,7 @@ locomotive    noun
 lodge         noun
 lodger noun
 lodging       noun
+loft noun
 log           noun
 logbook noun
 logic         noun
@@ -222,11 +247,13 @@ logistics     noun pl=- note=uncountable
 logo          noun note=plural logos
 logon noun
 logout noun
+lollipop noun
 Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
 longing       noun
 longitude noun
+loo noun region=GB style=colloquial note=toilet
 look          noun
 lookout noun
 lookup noun
@@ -255,11 +282,14 @@ lumber        noun pl=- note=uncountable (timber)
 lump          noun
 lunatic noun
 lunch         noun
+lunchbox noun
 luncheon      noun
+lunchtime noun
 lung          noun
 lure noun
 lust noun
 luster noun gb=lustre
 Lutheran      noun
 luxury        noun
+lychee noun
 lyric         noun

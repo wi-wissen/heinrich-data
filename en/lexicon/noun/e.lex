@@ -3,12 +3,18 @@ e-mail noun note=hyphenated spelling of email
 eagerness noun pl=- note=uncountable
 eagle noun
 ear noun
+earache noun
 earl noun
+earlobe noun
 earmark noun
+earmuff noun
 earnestness noun pl=- note=uncountable
 earnings noun pl_only
+earphone noun
+earring noun
 earth noun
 earthquake noun
+earthworm noun
 ease noun
 easement noun
 east noun
@@ -36,6 +42,7 @@ efficiency noun
 effluent noun
 effort noun
 egg noun
+eggplant noun region=US note=British aubergine
 EGU noun abbr note=electric generating unit
 Egyptian noun
 EIS noun abbr note=environmental impact statement
@@ -48,6 +55,7 @@ electioneering noun pl=- note=uncountable
 elective noun
 elector noun
 electorate noun
+electrician noun
 electricity noun pl=- note=uncountable
 electrification noun
 electrode noun
@@ -166,6 +174,7 @@ equivalence noun
 equivalent noun
 ERA noun abbr conf=80 note=earned run average; Equal Rights Amendment
 era noun
+eraser noun
 erasure noun
 erection noun
 ergonomics noun pl_only conf=90 note=construed as singular
@@ -179,6 +188,7 @@ escort noun
 escrow noun
 ESP noun abbr pl=- note=extrasensory perception
 espionage noun pl=- note=uncountable
+espresso noun pl=espressos
 essay noun
 essayist noun
 essence noun
@@ -215,6 +225,7 @@ eviction noun
 evidence noun pl=- note=uncountable
 evil noun
 evolution noun
+ewe noun
 ex noun conf=90 note=former partner
 exaggeration noun
 exam noun
@@ -297,5 +308,8 @@ extremist noun
 extremity noun
 exultation noun
 eye noun
+eyeball noun
 eyebrow noun
+eyelash noun
 eyelid noun
+eyesight noun pl=- note=uncountable

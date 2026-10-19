@@ -6,6 +6,7 @@ wary adj cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
 watchful adj cmp=more
+wavy adj cmp=er
 weak adj cmp=er adv=weakly
 wealthy adj cmp=er
 weary adj cmp=er adv=wearily
@@ -35,6 +36,7 @@ willing adj cmp=more adv=willingly
 win-win adj conf=85
 windy adj cmp=er
 winged adj
+wintry adj cmp=er
 wireless adj
 wise adj cmp=er adv=wisely
 wistful adj adv=wistfully
@@ -49,9 +51,11 @@ woody adj cmp=er
 workable adj
 worldly adj cmp=more
 worldwide adj
+worried adj cmp=more adv=worriedly
 worth adj pred_only
 worthless adj
 worthy adj cmp=er
 wretched adj cmp=more adv=wretchedly
+wrinkly adj cmp=er
 wrong adj cmp=more adv=wrongly
 wrought adj note=archaic past of work; wrought iron

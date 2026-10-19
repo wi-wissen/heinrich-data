@@ -18,6 +18,7 @@ idleness noun
 idol           noun
 ignition noun
 ignorance      noun
+iguana noun
 ill            noun
 illegal        noun
 illness        noun

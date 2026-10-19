@@ -3,6 +3,7 @@ AAA x abbr conf=90 note=American Automobile Association; battery size; credit ra
 AD x abbr note=anno Domini
 adieu intj
 ah intj
+aha intj
 aka x abbr note=also known as
 AL x abbr conf=90 note=Alabama; American League
 al. x abbr note=only in et al.

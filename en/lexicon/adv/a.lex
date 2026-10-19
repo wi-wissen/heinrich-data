@@ -15,6 +15,7 @@ aloft adv type=place
 alone adv type=focus
 aloud adv type=manner
 already adv type=time
+alright adv conf=80 note=informal spelling of all right
 altogether adv type=degree
 always adv type=frequency
 amiss adv

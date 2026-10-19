@@ -23,6 +23,7 @@ videotape verb
 view          verb
 violate       verb
 visit         verb
+vlog verb
 voice         verb
 void          verb
 volley verb

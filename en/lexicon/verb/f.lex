@@ -12,6 +12,7 @@ fan            verb
 fancy          verb
 fare           verb
 farm           verb
+fart verb style=colloquial
 fascinate      verb
 fashion        verb
 fast           verb
@@ -33,6 +34,7 @@ ferry          verb
 fetch          verb
 feud verb
 fiddle verb
+fidget verb
 field          verb
 fight          verb past=fought pp=fought
 figure         verb

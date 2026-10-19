@@ -22,6 +22,7 @@ accountable adj cmp=more
 accurate adj cmp=more adv=accurately
 accursed adj
 achievable adj
+achy adj cmp=er
 acoustic adj adv=acoustically
 actionable adj
 active adj cmp=more adv=actively
@@ -38,6 +39,7 @@ adjustable adj
 administrative adj adv=administratively
 admirable adj adv=admirably
 admissible adj
+adorable adj cmp=more adv=adorably
 adult adj
 advanced adj cmp=more
 advantageous adj cmp=more adv=advantageously
@@ -64,6 +66,7 @@ agile adj cmp=more adv=agilely
 agreeable adj cmp=more adv=agreeably
 agricultural adj adv=agriculturally
 airborne adj
+airsick adj
 airy adj cmp=er adv=airily
 akin adj pred_only
 alarming adj cmp=more adv=alarmingly
@@ -82,9 +85,11 @@ almighty adj
 alone adj pred_only
 aloof adj cmp=more
 alpine adj
+alright adj conf=80 note=informal spelling of all right
 alternate adj adv=alternately
 alternative adj adv=alternatively
 amateur adj
+amazed adj cmp=more
 amazing adj cmp=more adv=amazingly
 amber adj
 ambient adj
@@ -108,6 +113,8 @@ Anglican adj
 Anglo-Saxon adj
 angry adj cmp=er adv=angrily
 angular adj
+annoyed adj cmp=more
+annoying adj cmp=more adv=annoyingly
 annual adj adv=annually
 anonymous adj adv=anonymously
 Antarctic adj
@@ -154,6 +161,7 @@ articular adj
 articulate adj adv=articulately
 artificial adj adv=artificially
 artistic adj adv=artistically
+arty adj cmp=er
 ashamed adj pred_only
 Ashkenazi adj
 Asian adj
@@ -186,6 +194,7 @@ authoritative adj cmp=more adv=authoritatively
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously
+autumnal adj
 auxiliary adj
 available adj
 avant-garde adj
@@ -193,6 +202,7 @@ average adj
 avowed adj
 awake adj pred_only
 aware adj cmp=more
+awesome adj cmp=more
 awful adj cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
 Azerbaijani adj

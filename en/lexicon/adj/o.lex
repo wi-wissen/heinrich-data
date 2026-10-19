@@ -18,6 +18,7 @@ official       adj adv=officially
 offline adj
 offshore       adj
 offsite adj
+oily adj cmp=er
 OK adj abbr note=variant of okay
 okay           adj
 old adj cmp=older|elder sup=oldest|eldest
@@ -74,6 +75,7 @@ outward        adj
 oval           adj
 overall        adj
 overarching adj
+overcast adj
 overcrowded adj
 overdrawn adj
 overdue adj

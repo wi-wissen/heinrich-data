@@ -23,11 +23,12 @@ magnet noun
 magnificence noun pl=- note=uncountable
 magnitude      noun
 magnolia noun
+magpie noun
 mahogany noun
 maid           noun
 maiden         noun
 mail           noun
-mailbox noun
+mailbox noun region=US
 mailing        noun
 mailroom noun
 main           noun
@@ -64,6 +65,7 @@ mandate        noun
 mane noun
 maneuver noun gb=manoeuvre
 manga          noun pl=manga|mangas conf=90 note=plural usage varies
+mango noun pl=mangoes|mangos
 manhood        noun pl=- note=uncountable
 manifest       noun
 manifestation noun
@@ -88,6 +90,7 @@ marathon       noun
 marble         noun
 march          noun
 mare noun
+margarine noun pl=- note=uncountable
 margin         noun
 margrave noun
 marijuana noun pl=- note=uncountable
@@ -103,6 +106,7 @@ marketing      noun pl=- note=uncountable
 marketplace    noun
 marking        noun
 markup noun
+marmalade noun pl=- note=uncountable
 marquess noun
 marquis        noun pl=marquises|marquis
 marriage       noun
@@ -134,8 +138,10 @@ mathematics    noun pl=- note=uncountable, singular agreement
 maths noun pl=- region=GB note=mathematics; takes a singular verb; US math
 matrix         noun pl=matrices|matrixes
 matter         noun
+mattress noun
 maturity       noun
 maximum        noun pl=maxima|maximums
+mayonnaise noun pl=- note=uncountable
 mayor          noun
 maze noun
 MB             noun abbr pl=MB note=megabyte(s)
@@ -144,6 +150,7 @@ MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
 meadow         noun
 meal           noun
+mealtime noun
 mean           noun
 meaning        noun
 means          noun pl=means
@@ -152,6 +159,7 @@ measles noun pl=- note=uncountable; takes a singular verb
 measure        noun
 measurement    noun
 meat           noun
+meatball noun
 mechanic       noun
 mechanism      noun
 medal          noun
@@ -164,11 +172,13 @@ medicine       noun
 meditation noun
 medium         noun pl=media|mediums
 medley noun
+meerkat noun
 meet           noun
 meeting        noun
 megabyte noun
 melancholy     noun pl=- note=uncountable
 melody         noun
+melon noun
 member         noun
 membership     noun
 membrane       noun
@@ -218,6 +228,7 @@ microfinance noun pl=- note=uncountable
 microloan noun
 micromanagement noun pl=- note=uncountable
 microphone noun
+microwave noun
 midday noun
 middle         noun
 middleman noun pl=middlemen
@@ -237,10 +248,13 @@ militant noun
 military       noun
 militia        noun
 milk           noun
+milkshake noun
 mill           noun
 millennium     noun pl=millennia|millenniums
 millionaire noun
+millipede noun
 mimic noun
+mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
 mine           noun
 miner          noun
@@ -280,7 +294,9 @@ mistress       noun
 misunderstanding noun
 misuse         noun
 mitigation     noun
+mitten noun
 mix            noun
+mixer noun
 mixture        noun
 mo noun style=colloquial conf=90 note=moment (half a mo)
 moan noun
@@ -308,6 +324,7 @@ molecule       noun
 mom            noun region=US note=British mum
 moment         noun
 momentum       noun pl=momenta note=plural mainly in physics
+mommy noun region=US note=British mummy
 monarch        noun pl=monarchs
 monarchy       noun
 monastery      noun
@@ -332,6 +349,7 @@ moon           noun
 moonlight      noun pl=- note=uncountable
 moor           noun
 moose noun pl=moose
+mop noun
 moral          noun
 morale noun pl=- note=uncountable
 morality       noun
@@ -352,6 +370,7 @@ mosaic         noun
 mosque         noun
 mosquito noun pl=mosquitoes|mosquitos
 moss           noun
+motel noun
 moth           noun
 mother         noun
 motherboard noun
@@ -361,6 +380,7 @@ motion         noun
 motivation     noun
 motive         noun
 motor          noun
+motorbike noun
 motorcycle     noun
 motorist noun
 motorway       noun region=GB note=US freeway, highway
@@ -378,6 +398,8 @@ MP             noun abbr note=Member of Parliament; military police
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul
 MS             noun abbr note=multiple sclerosis; manuscript
 mud            noun pl=- note=uncountable
+muffin noun
+mug noun
 Mughal noun
 mule           noun
 multimedia noun pl=- note=uncountable
@@ -388,6 +410,8 @@ multiplier noun
 multitasking noun pl=- note=uncountable
 multitude      noun
 mum noun region=GB note=mother; US mom
+mummy noun note=mother (British); also an embalmed body
+mumps noun pl=- note=the illness; uncountable, singular verb
 municipality   noun
 munition       noun
 mural noun
@@ -397,12 +421,15 @@ murmur         noun
 muscle         noun
 muse noun
 museum         noun
+mushroom noun
 music          noun pl=- note=uncountable
 musical        noun
 musician       noun
 musket noun
 Muslim         noun
+mussel noun
 mustache noun gb=moustache|mustache conf=90 note=moustache is also frequent in American texts
+mustard noun
 muster noun
 mutation       noun
 mute noun

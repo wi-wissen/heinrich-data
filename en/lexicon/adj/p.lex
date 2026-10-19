@@ -37,6 +37,7 @@ penal adj
 pending adj note=also used as a preposition: pending review
 penniless adj
 pensionable adj
+peppery adj
 perceptible adj adv=perceptibly
 perennial adj adv=perennially
 perfect adj adv=perfectly
@@ -91,6 +92,7 @@ poetical adj
 poignant adj adv=poignantly
 poised adj
 poisonous adj
+poky adj cmp=er
 polar adj
 Polish adj note=demonym or religious name, capitalized
 polite adj cmp=er adv=politely

@@ -14,6 +14,7 @@ cardiovascular adj
 careful adj cmp=more adv=carefully
 careless adj cmp=more adv=carelessly
 Caribbean adj
+carsick adj
 case-by-case adj
 Castilian adj
 casual adj cmp=more adv=casually
@@ -43,10 +44,14 @@ chargeable adj
 charitable adj adv=charitably
 charming adj cmp=more adv=charmingly
 chartered adj
+chatty adj cmp=er
 cheap adj cmp=er adv=cheaply
+cheeky adj cmp=er adv=cheekily
 cheerful adj cmp=more adv=cheerfully
 cheery adj cmp=er adv=cheerily
+cheesy adj cmp=er
 chemical adj adv=chemically
+chewy adj cmp=er
 chief adj
 childish adj cmp=more adv=childishly
 childless adj
@@ -54,10 +59,12 @@ Chilean adj
 chill adj
 chilly adj cmp=er
 Chinese adj
+chocolatey adj note=also spelled chocolaty
 choral adj
 Christian adj
 chronic adj adv=chronically
 chronological adj adv=chronologically
+chubby adj cmp=er
 circular adj
 civic adj
 civil adj adv=civilly
@@ -77,6 +84,7 @@ clinical adj adv=clinically
 close adj cmp=er adv=closely
 cloudy adj cmp=er
 clumsy adj cmp=er adv=clumsily
+cluttered adj cmp=more
 coal-fired adj
 coarse adj cmp=er adv=coarsely
 coastal adj
@@ -95,6 +103,7 @@ colorful adj gb=colourful cmp=more adv=colorfully
 colossal adj adv=colossally
 comedic adj
 comfortable adj cmp=more adv=comfortably
+comfy adj cmp=er style=colloquial
 comic adj
 comical adj adv=comically
 commemorative adj
@@ -138,6 +147,7 @@ Confederate adj note=of the Confederate States (American Civil War)
 confident adj cmp=more adv=confidently
 confidential adj adv=confidentially
 conflicting adj
+confused adj cmp=more
 confusing adj cmp=more
 congenital adj adv=congenitally
 congressional adj
@@ -204,17 +214,22 @@ courageous adj cmp=more adv=courageously
 courteous adj cmp=more adv=courteously
 covert adj adv=covertly
 cowardly adj cmp=more
+cozy adj cmp=er gb=cosy adv=cozily
 cramped adj cmp=more
+cranky adj cmp=er
 craven adj adv=cravenly
 crazy adj cmp=er adv=crazily
+creamy adj cmp=er
 creative adj cmp=more adv=creatively
 credible adj cmp=more adv=credibly
 creditworthy adj
+creepy adj cmp=er
 Creole adj
 Crimean adj
 criminal adj adv=criminally
 crimson adj
 crisp adj cmp=er adv=crisply
+crispy adj cmp=er
 critical adj cmp=more adv=critically
 Croatian adj
 crooked adj cmp=more adv=crookedly
@@ -225,13 +240,16 @@ crowned adj
 crucial adj adv=crucially
 crude adj cmp=er adv=crudely
 cruel adj cmp=er|more adv=cruelly
+crunchy adj cmp=er
 crystalline adj
 Cuban adj
 cubic adj
+cuddly adj cmp=er
 cultural adj adv=culturally
 cumulative adj adv=cumulatively
 cunning adj adv=cunningly
 curious adj cmp=more adv=curiously
+curly adj cmp=er
 current adj cmp=more adv=currently
 cursed adj
 curved adj
@@ -239,6 +257,7 @@ custodial adj
 custom adj
 customary adj adv=customarily
 customizable adj gb=customisable|customizable
+cute adj cmp=er
 cyber adj note=cyber attacks; mostly as the prefix in cybersecurity
 cyclic adj
 cylindrical adj

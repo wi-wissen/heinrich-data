@@ -4,7 +4,7 @@ damn verb
 damp verb
 dance verb
 dare verb
-daresay verb conf=70 note=defective verb, almost only in I daresay; the format cannot suppress the generated daresays, daresayed, daresaying (gap)
+daresay verb defective note=defective verb, almost only in I daresay
 darken verb
 dart verb
 dash verb
@@ -26,6 +26,7 @@ decimate verb
 deck verb
 declare verb
 decline verb
+declutter verb
 decode verb
 decommission verb
 decorate verb
@@ -43,6 +44,7 @@ defect verb
 defend verb
 defer verb double
 define verb
+defrost verb
 defy verb
 degenerate verb
 degrade verb
@@ -128,7 +130,7 @@ discharge verb
 discipline verb
 disclose verb
 disconnect verb
-discontinue verb ing=discontinuing note=ing written: generator keeps the e after u
+discontinue verb
 discount verb
 discourage verb
 discover verb
@@ -185,6 +187,7 @@ domesticate verb
 dominate verb
 don verb
 donate verb
+doodle verb
 doom verb
 dose verb
 dot verb
@@ -201,11 +204,13 @@ draw verb past=drew pp=drawn
 dread verb
 dream verb past=dreamed|dreamt pp=dreamed|dreamt note=dreamt is more frequent in British English
 dress verb
+dribble verb
 drift verb
 drill verb
 drink verb past=drank pp=drunk
 drip verb
 drive verb past=drove pp=driven
+drizzle verb
 drone verb
 droop verb
 drop verb
@@ -218,6 +223,7 @@ duck verb
 duel verb
 dull verb
 dump verb
+dunk verb
 duplicate verb
 dust verb
 dwarf verb

@@ -1,3 +1,4 @@
+gadget noun
 Gaelic         noun pl=- note=the language
 gag noun
 gaiety noun
@@ -41,10 +42,12 @@ gathering      noun
 gauge          noun
 gay            noun
 gaze           noun
+gazelle noun
 gazette        noun
 GDP            noun abbr note=gross domestic product
 gear           noun
 gearing noun pl=- region=GB note=uncountable; US leverage
+gecko noun pl=geckos
 gem noun
 gender         noun
 gene           noun
@@ -69,6 +72,7 @@ geologist noun
 geology        noun
 geometry       noun
 Georgian       noun
+gerbil noun
 German         noun note=demonym, plural Germans (not -men)
 gesture        noun
 ghost          noun
@@ -77,8 +81,11 @@ giant          noun
 gift           noun
 gig            noun
 gigabyte noun
+giggle noun
 gill noun
 gin noun
+ginger noun
+giraffe noun pl=giraffes
 girdle noun
 girl           noun
 girlfriend     noun
@@ -106,12 +113,18 @@ glucose noun pl=- note=uncountable
 glue noun
 go             noun pl=goes note=an attempt, have a go
 goal           noun
+goalie noun
 goalkeeper     noun
 goaltender noun
 goat           noun
 god            noun
+godchild noun pl=godchildren
 goddess        noun
+godfather noun
+godmother noun
+goggles noun pl_only
 gold           noun
+goldfish noun pl=goldfish
 golf           noun pl=- note=uncountable
 golfer         noun
 good           noun note=plural goods: merchandise
@@ -120,8 +133,11 @@ goodbye noun
 goodness       noun pl=- note=uncountable
 goodwill noun pl=- note=uncountable
 goose noun pl=geese
+gooseberry noun
 gore noun
 gorge          noun
+gorilla noun
+gosling noun
 gospel         noun
 gossip         noun
 Goth noun
@@ -142,39 +158,51 @@ graduation     noun
 grain          noun
 gram noun gb=gramme|gram
 grammar        noun
+gramps noun style=colloquial pl=- note=grandfather
 gran noun style=colloquial
 grand          noun
+grandad noun note=spelling variant of granddad, common in British English
 grandchild     noun pl=grandchildren
+granddad noun
 granddaughter  noun
 grandeur       noun pl=- note=uncountable
 grandfather    noun
+grandkid noun style=colloquial
+grandma noun
 grandmother    noun
+grandpa noun
 grandparent    noun
 grandson       noun
 grange         noun
 granite        noun
+granny noun
 grant          noun
 grantee        noun
 grantor noun
 grape          noun
+grapefruit noun pl=grapefruit|grapefruits
 graph          noun
 graphene noun pl=- note=uncountable
 graphic        noun
 grasp          noun
 grass          noun
+grasshopper noun
 grassland noun
 grassroots     noun pl_only
+grater noun
 gratification noun
 gratitude      noun pl=- note=uncountable
 grave          noun
 gravel         noun
 graveyard noun
 gravity        noun
+gravy noun pl=- note=uncountable
 gray           noun gb=grey
 greatness      noun pl=- note=uncountable
 greed noun pl=- note=uncountable
 Greek          noun
 green          noun
+greengrocer noun
 greenhouse     noun
 greeter noun
 greeting       noun
@@ -187,6 +215,7 @@ grind          noun
 grip           noun
 grizzly        noun
 groan          noun
+grocer noun
 grocery        noun
 groom noun
 ground         noun
@@ -217,7 +246,9 @@ guise noun
 guitar         noun
 guitarist      noun
 gulf           noun note=plural gulfs
+gull noun
 gum            noun
+gumboot noun
 gun            noun
 gunboat noun
 gunpowder noun

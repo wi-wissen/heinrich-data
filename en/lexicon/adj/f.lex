@@ -56,16 +56,20 @@ fiscal         adj adv=fiscally
 fit            adj cmp=er
 fitting        adj adv=fittingly
 fixed          adj
+fizzy adj cmp=er
 flammable adj
 flat           adj cmp=er adv=flatly
 flawed adj
 fleeting adj
 Flemish        adj
 flexible       adj cmp=more adv=flexibly
+flowery adj cmp=more
 fluent adj adv=fluently
+fluffy adj cmp=er
 fluid          adj
 flush          adj
 focal          adj
+foggy adj cmp=er
 folk           adj attr_only
 fond           adj cmp=er adv=fondly
 foolish        adj cmp=more adv=foolishly
@@ -77,6 +81,7 @@ foremost       adj
 forensic       adj adv=forensically
 foreseeable    adj
 forested adj
+forgetful adj cmp=more adv=forgetfully
 forlorn adj
 formal         adj adv=formally
 former         adj attr_only adv=formerly
@@ -97,6 +102,8 @@ frank          adj cmp=er adv=frankly
 Frankish       adj
 frantic adj cmp=more adv=frantically
 fraudulent     adj adv=fraudulently
+freaky adj cmp=er style=colloquial
+freckled adj
 free           adj cmp=er adv=freely
 freelance adj
 French         adj
@@ -104,13 +111,16 @@ frequent       adj cmp=more adv=frequently
 fresh          adj cmp=er adv=freshly
 freshwater     adj
 friendly       adj cmp=er
+frightened adj cmp=more
 frightful      adj adv=frightfully
 frivolous adj
 front          adj attr_only
 frontal adj
 frontline      adj attr_only
+frosty adj cmp=er
 fruitful adj
 fruitless adj
+fruity adj cmp=er
 fugitive       adj
 fulfilling adj cmp=more
 full           adj cmp=er adv=fully
@@ -120,5 +130,7 @@ fundamental    adj adv=fundamentally
 funerary       adj
 funny          adj cmp=er
 furious        adj adv=furiously
+furry adj cmp=er
+fussy adj cmp=er
 futile adj
 future         adj attr_only

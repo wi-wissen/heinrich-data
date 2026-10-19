@@ -101,6 +101,8 @@ regard verb
 register verb
 regret verb double
 regulate verb
+rehearse verb
+reheat verb
 reign verb
 reimburse verb
 rein verb
@@ -176,7 +178,7 @@ requisition verb
 reroute verb
 reschedule verb
 rescind verb
-rescue verb ing=rescuing note=generator keeps e after u (rescueing); -ing written
+rescue verb
 research verb
 resemble verb
 resent verb
@@ -236,6 +238,7 @@ rig verb
 right verb
 ring verb past=rang pp=rung sense=sound
 ring verb sense=encircle
+rinse verb
 riot verb
 rip verb
 ripple verb
@@ -248,6 +251,7 @@ rob verb
 rock verb
 rocket verb
 roll verb
+rollerblade verb
 root verb
 rope verb
 roster verb conf=85

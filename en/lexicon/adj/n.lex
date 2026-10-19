@@ -28,6 +28,7 @@ negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
 Neolithic adj
+nerdy adj cmp=er
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
 neural adj
@@ -39,6 +40,7 @@ next            adj
 nice            adj cmp=er adv=nicely
 Nigerian        adj
 nightly adj
+nippy adj cmp=er
 noble           adj cmp=er adv=nobly
 nocturnal adj
 noiseless adj adv=noiselessly
@@ -66,6 +68,7 @@ northward       adj
 northwest       adj
 northwestern    adj
 Norwegian       adj
+nosy adj cmp=er
 notable         adj cmp=more adv=notably
 noteworthy adj
 noticeable      adj adv=noticeably
@@ -78,4 +81,5 @@ nude adj
 numerate adj region=GB
 numerical       adj adv=numerically
 numerous        adj cmp=more
+nutty adj cmp=er
 née             adj note=born (introducing a maiden name)

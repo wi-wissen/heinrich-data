@@ -87,7 +87,7 @@ intervene      verb
 interview      verb
 intimate       verb
 intoxicate verb
-intrigue verb ing=intriguing note=generator gives intrigueing for -ue verbs (gap)
+intrigue verb
 introduce      verb
 invade         verb
 invent         verb
@@ -101,7 +101,7 @@ involve        verb
 iron           verb
 irritate       verb
 isolate        verb
-issue          verb ing=issuing note=ing= needed: generator keeps the e after u (issueing)
+issue verb
 italicize verb gb=italicise|italicize
 itemize verb gb=itemise|itemize
 iterate verb

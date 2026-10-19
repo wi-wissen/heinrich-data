@@ -2,6 +2,7 @@ Babylonian adj
 backward adj
 bacterial adj
 bad adj cmp=worse sup=worst adv=badly
+baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
 Baltic adj
@@ -20,6 +21,7 @@ bearded adj
 beastly adj cmp=er
 beautiful adj cmp=more adv=beautifully
 behavioral adj gb=behavioural
+beige adj
 Belarusian adj
 belated adj adv=belatedly
 Belgian adj
@@ -55,21 +57,29 @@ blank adj
 bleak adj cmp=er adv=bleakly
 blessed adj
 blind adj cmp=er adv=blindly
+blond adj cmp=er note=blonde is also used, especially of women
+blonde adj cmp=er
 bloody adj cmp=er
 blue adj cmp=er
 blunt adj cmp=er adv=bluntly
+blustery adj
 bodily adj
 Bohemian adj
 bold adj cmp=er adv=boldly
 bony adj cmp=er
+bored adj cmp=more
+boring adj cmp=more adv=boringly
 Bosnian adj
+bossy adj cmp=er
 botanical adj
 boundless adj adv=boundlessly
 boyish adj cmp=more adv=boyishly
+brainy adj cmp=er
 brave adj cmp=er adv=bravely
 brazen adj cmp=more adv=brazenly
 Brazilian adj
 breathless adj adv=breathlessly
+breezy adj cmp=er
 Breton adj
 bridal adj
 brief adj cmp=er adv=briefly
@@ -80,10 +90,12 @@ British adj
 broad adj cmp=er adv=broadly
 brown adj cmp=er
 brutal adj cmp=more adv=brutally
+bubbly adj cmp=er
 Buddhist adj
 budgetary adj
 buggy adj cmp=er
 Bulgarian adj
+bumpy adj cmp=er
 buoyant adj adv=buoyantly
 burdensome adj
 bureaucratic adj cmp=more adv=bureaucratically

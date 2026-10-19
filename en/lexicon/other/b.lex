@@ -7,3 +7,4 @@ boo intj
 BP x abbr conf=90 note=blood pressure; the oil company
 bravo intj
 Bros. x abbr note=Brothers, in company names
+bye intj

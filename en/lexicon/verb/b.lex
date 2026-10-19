@@ -1,3 +1,4 @@
+babysit verb prefix=baby past=babysat pp=babysat
 back verb
 backdate verb
 baffle verb
@@ -11,6 +12,7 @@ banish verb
 bank verb
 baptize verb gb=baptise|baptize
 bar verb
+barbecue verb
 bargain verb
 barge verb
 bark verb
@@ -42,7 +44,7 @@ bestow verb
 bet verb past=bet pp=bet
 betray verb
 betroth verb
-beware verb conf=70 note=defective: only the base form is in use; the generated forms are rare
+beware verb defective note=defective: only the base form (imperative, infinitive) is in use
 bewilder verb
 bias verb
 bid verb past=bid|bade pp=bid|bidden
@@ -60,6 +62,7 @@ blend verb
 bless verb past=blessed|blest[archaic] pp=blessed|blest[archaic]
 blight verb
 blind verb
+blink verb
 blitz verb
 block verb
 blog verb
@@ -101,6 +104,7 @@ brand verb
 brave verb
 breach verb
 break verb past=broke pp=broken
+breastfeed verb prefix=breast past=breastfed pp=breastfed
 breathe verb
 breed verb past=bred pp=bred
 brew verb
@@ -118,16 +122,19 @@ brush verb
 buckle verb
 bud verb
 budget verb
+bug verb
 build verb past=built pp=built
 bully verb
 bump verb
 bundle verb
 burden verb
 burn verb past=burned|burnt pp=burned|burnt
+burp verb
 burst verb past=burst pp=burst
 bury verb
 bustle verb
 butcher verb
 butt verb
 buy verb past=bought pp=bought
+buzz verb
 bypass verb

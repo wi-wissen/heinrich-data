@@ -11,6 +11,7 @@ talk verb
 tally verb
 tame verb
 tamp verb
+tan verb
 tangle verb
 tap verb
 taper verb
@@ -22,6 +23,7 @@ tax verb
 teach verb past=taught pp=taught
 team verb
 tear verb past=tore pp=torn
+tease verb
 tee verb
 telecommute verb
 telegraph verb
@@ -38,6 +40,7 @@ test verb
 testify verb
 text verb
 thank verb
+thaw verb
 think verb past=thought pp=thought
 thread verb
 threaten verb
@@ -50,6 +53,7 @@ thrust verb past=thrust pp=thrust
 thunder verb
 thwart verb
 tick verb
+tickle verb
 tidy verb
 tie verb
 tighten verb
@@ -58,9 +62,11 @@ time verb
 timestamp verb conf=70
 tint verb
 tip verb
+tiptoe verb
 tire verb
 title verb
 toast verb
+toboggan verb
 toggle verb
 toil verb
 tolerate verb
@@ -70,6 +76,7 @@ torment verb
 torture verb
 toss verb
 total verb
+totter verb
 touch verb
 tour verb
 tow verb
@@ -105,6 +112,7 @@ trip verb
 trot verb
 trouble verb
 troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
+trudge verb
 truncate verb
 trust verb
 try verb

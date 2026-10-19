@@ -18,20 +18,24 @@ undertake     verb prefix=under past=undertook pp=undertaken
 undervalue verb
 underwrite verb prefix=under past=underwrote pp=underwritten
 undo verb prefix=un 3sg=undoes past=undid pp=undone
+undress verb prefix=un
 unfold verb
-unfollow verb
-unfriend verb
+unfollow verb prefix=un
+unfriend verb prefix=un
 unify         verb
 uninstall verb
 unite         verb
+unlace verb prefix=un
 unleash verb
 unlink verb
 unlock        verb
 unmute verb
-unpack verb
+unpack verb prefix=un
 unplug verb prefix=un
-unsubscribe verb
+unsubscribe verb prefix=un
+untie verb prefix=un
 unveil        verb
+unwind verb prefix=un past=unwound pp=unwound
 unzip verb prefix=un
 update        verb
 upgrade       verb
