@@ -1,5 +1,6 @@
 pädagogisch adj
 palästinensisch adj
+palliativ adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele

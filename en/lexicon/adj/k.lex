@@ -4,6 +4,7 @@ key            adj attr_only
 khaki adj
 Khmer adj
 kind           adj cmp=er adv=kindly
+kind-hearted adj cmp=more adv=kind-heartedly note=hearted is not a word on its own
 kindred adj
 kinetic adj
 knowing        adj adv=knowingly

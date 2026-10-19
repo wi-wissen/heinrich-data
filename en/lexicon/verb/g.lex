@@ -1,3 +1,4 @@
+gad verb
 gag verb
 gain           verb
 gall verb
@@ -73,6 +74,7 @@ grope verb
 gross          verb
 ground         verb
 group          verb
+grouse verb
 grow           verb past=grew pp=grown
 growl          verb
 grub verb

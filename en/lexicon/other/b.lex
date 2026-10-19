@@ -2,6 +2,7 @@ bah intj
 BC x abbr note=before Christ
 bcc x abbr note=blind carbon copy
 BCE x abbr note=before the Common Era
+bingo intj
 Blvd. x abbr note=Boulevard
 bona x foreign note=only in bona fide
 bono x foreign note=only in pro bono

@@ -13,6 +13,7 @@ wahrscheinlich adj cmp=wahrscheinlicher sup=wahrscheinlichsten
 walisisch adj
 warm adj cmp=wärmer sup=wärmsten
 wechselseitig adj
+wehmütig adj cmp=wehmütiger sup=wehmütigsten
 weiblich adj
 weich adj cmp=weicher sup=weichsten
 weise adj cmp=weiser sup=weisesten

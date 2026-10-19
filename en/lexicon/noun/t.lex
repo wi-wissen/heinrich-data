@@ -8,6 +8,7 @@ tablet noun
 tabletop noun
 tabloid noun
 taboo noun
+tachycardia noun
 tack noun
 tackle noun
 taco noun pl=tacos
@@ -25,8 +26,10 @@ takeover noun
 taker noun
 tale noun
 talent noun
+talisman noun pl=talismans note=not a -man compound
 talk noun
 talker noun
+tallow noun
 tally noun
 Tamil noun
 tan noun
@@ -36,6 +39,7 @@ tangerine noun
 tangle noun
 tank noun
 tanker noun
+tannery noun
 tap noun
 tape noun
 taper noun
@@ -123,6 +127,7 @@ tense noun
 tension noun
 tensor noun
 tent noun
+tentacle noun
 tenure noun
 terabyte noun
 tergum noun pl=terga note=dorsal plate of an arthropod segment
@@ -153,6 +158,7 @@ textbook noun
 textile noun
 texture noun
 Thai noun note=the language; a Thai person
+thankfulness noun pl=- note=uncountable
 thanksgiving noun
 thatch noun
 THC noun abbr pl=- note=tetrahydrocannabinol
@@ -180,6 +186,7 @@ thirst noun
 thistle noun
 thorax noun pl=thoraxes|thoraces conf=90 note=plural rarely used
 thorn noun
+thoroughbred noun
 thoroughfare noun
 thought noun
 thrash noun
@@ -194,13 +201,18 @@ throe noun note=mostly plural, as in in the throes of
 throne noun
 throng noun
 throttle noun
+throughput noun
+thrower noun
 thrush noun
 thrust noun
+thud noun
+thug noun
 thumb noun
 thumbnail noun
 thumbtack noun region=US note=British drawing pin
 thump noun
 thunder noun
+thunderbolt noun
 thunderstorm noun
 thyme noun pl=- note=uncountable
 thyroid noun
@@ -240,6 +252,7 @@ tinge noun
 tingle noun
 tinker noun
 tinkle noun
+tinnitus noun pl=- note=uncountable
 tint noun
 tip noun
 tire noun gb=tyre sense=wheel
@@ -301,6 +314,7 @@ tort noun
 tortilla noun
 tortoise noun
 torture noun
+torus noun pl=tori|toruses
 Tory noun
 tot noun
 total noun
@@ -344,6 +358,7 @@ tractor noun
 trade noun
 trademark noun
 trader noun
+tradesman noun pl=tradesmen
 tradition noun
 traffic noun pl=- note=uncountable
 trafficker noun
@@ -364,6 +379,7 @@ trance noun
 tranche noun
 tranquillity noun us=tranquility|tranquillity pl=- note=tranquillity is also common in American English
 transaction noun
+transcriber noun
 transcript noun
 transcription noun
 transept noun
@@ -387,8 +403,10 @@ transplantation noun
 transport noun
 transportation noun
 transporter noun
+transposition noun
 trap noun
 trapper noun
+trappings noun pl_only
 trash noun pl=- note=uncountable
 trauma noun
 traveler noun gb=traveller
@@ -417,6 +435,7 @@ triad noun
 trial noun
 triangle noun
 tribe noun
+tribesman noun pl=tribesmen
 tribunal noun
 tribune noun
 tributary noun
@@ -471,6 +490,7 @@ tuft noun
 tug noun
 tuition noun pl=- note=uncountable
 tulip noun
+tumbler noun
 tummy noun
 tumor noun gb=tumour
 tumult noun
@@ -481,6 +501,7 @@ tunnel noun
 turban noun
 turbine noun
 turbo noun note=plural turbos
+turboprop noun
 turbulence noun
 turf noun pl=turfs|turves[rare]
 Turk noun
@@ -510,6 +531,7 @@ twist noun
 twitch noun
 type noun
 typewriter noun
+typhoid noun pl=- note=uncountable
 typhoon noun
 typist noun
 typo noun pl=typos

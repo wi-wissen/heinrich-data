@@ -33,6 +33,7 @@ mildern verb class=weak pp=gemildert perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
 minimieren verb class=weak pp=minimiert perf=haben
 mischen verb class=weak pp=gemischt perf=haben refl=acc
+missachten verb class=weak pp=missachtet perf=haben
 missbrauchen verb class=weak pp=missbraucht perf=haben
 missfallen verb class=strong 3sg=missfällt past=missfiel subj2=missfiele pp=missfallen perf=haben
 misshandeln verb class=weak pp=misshandelt perf=haben

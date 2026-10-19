@@ -27,6 +27,7 @@ anew adv
 anon adv style=archaic note=soon
 anyhow adv type=conj
 anymore adv type=time note=British usually any more
+anytime adv type=time
 anyway adv type=conj
 anywhere adv type=place
 apart adv type=place

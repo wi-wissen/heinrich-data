@@ -24,6 +24,7 @@ magnanimity noun pl=- note=uncountable
 magnate noun
 magnesium noun pl=- note=uncountable
 magnet noun
+magnetism noun pl=- note=uncountable
 magnificence noun pl=- note=uncountable
 magnitude      noun
 magnolia noun
@@ -40,6 +41,7 @@ main           noun
 mainframe noun
 mainland       noun
 mainline noun
+mainstay noun
 mainstream     noun
 maintenance    noun pl=- note=uncountable
 maize noun pl=- note=uncountable
@@ -92,6 +94,7 @@ manifesto      noun pl=manifestos|manifestoes
 manifold noun
 manipulation   noun
 mankind        noun pl=- note=uncountable
+manliness noun pl=- note=uncountable
 mannequin noun
 manner         noun
 manor          noun
@@ -128,6 +131,7 @@ marketer noun
 marketing      noun pl=- note=uncountable
 marketplace    noun
 marking        noun
+marksmanship noun pl=- note=uncountable
 markup noun
 marmalade noun pl=- note=uncountable
 marque noun
@@ -252,10 +256,12 @@ mesh noun
 mess           noun
 message        noun
 messenger      noun
+meta-analysis noun pl=meta-analyses
 metabolism noun
 metabolite noun
 metadata noun pl=- note=uncountable
 metal          noun
+metamorphosis noun pl=metamorphoses
 metaphor noun
 metaphysics noun pl=- note=takes a singular verb
 meteor noun
@@ -270,6 +276,7 @@ metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
 Mexican        noun
+microbe noun
 microchip noun
 microfinance noun pl=- note=uncountable
 microloan noun
@@ -278,6 +285,7 @@ microorganism noun
 microphone noun
 microprocessor noun
 microscope noun
+microscopy noun pl=- note=uncountable
 microwave noun
 midday noun
 middle         noun
@@ -316,6 +324,7 @@ millimeter noun gb=millimetre
 milliner noun
 millionaire noun
 millipede noun
+millstone noun
 mimic noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
@@ -333,6 +342,7 @@ ministry       noun
 minke noun
 minor          noun
 minority       noun
+minster noun
 minstrel noun
 mint noun
 minute         noun
@@ -356,11 +366,14 @@ mishap noun
 misinformation noun pl=- note=uncountable
 mismanagement noun pl=- note=uncountable
 mismatch noun
+misogyny noun pl=- note=uncountable
 misprint noun
+misrepresentation noun
 miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
+missy noun style=colloquial
 mist           noun
 mistake        noun
 mister         noun
@@ -369,6 +382,7 @@ mistress       noun
 mistrust noun pl=- note=uncountable
 misunderstanding noun
 misuse         noun
+mite noun
 mitigation     noun
 mitochondrion noun pl=mitochondria
 mitten noun
@@ -439,7 +453,9 @@ monument       noun
 mood           noun
 moon           noun
 moonlight      noun pl=- note=uncountable
+moonshine noun pl=- note=uncountable
 moor           noun
+mooring noun
 moorland noun
 moose noun pl=moose
 mop noun
@@ -452,6 +468,7 @@ Mormon noun
 morn noun style=archaic note=poetic for morning
 morning        noun
 Moroccan noun
+morphine noun pl=- note=uncountable
 morphology noun
 morrow         noun pl=- style=archaic note=the following day
 morsel noun
@@ -481,6 +498,7 @@ motor          noun
 motorbike noun
 motorcycle     noun
 motorist noun
+motorsport noun
 motorway       noun region=GB note=US freeway, highway
 motto          noun pl=mottoes|mottos
 mound          noun
@@ -492,6 +510,7 @@ mourner noun
 mourning       noun pl=- note=uncountable
 mouse          noun pl=mice
 mouth          noun
+mouthful noun
 move           noun
 movement       noun
 mover noun
@@ -542,6 +561,7 @@ Muslim         noun
 muslin noun
 mussel noun
 mustache noun gb=moustache|mustache conf=90 note=moustache is also frequent in American texts
+mustang noun
 mustard noun
 muster noun
 mutant noun
@@ -558,6 +578,7 @@ myriad noun
 myrtle noun
 mystery        noun
 mystic noun
+mysticism noun pl=- note=uncountable
 myth           noun
 mythology      noun
 Māori          noun pl=Māori conf=90 note=also spelled Maori

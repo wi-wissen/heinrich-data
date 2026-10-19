@@ -30,6 +30,7 @@ feature        verb
 federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
+feign verb
 feint verb
 fell           verb note=to fell a tree
 fence          verb
@@ -40,6 +41,7 @@ fertilize verb gb=fertilise|fertilize
 fetch          verb
 fetter verb
 feud verb
+fictionalize verb gb=fictionalise|fictionalize
 fiddle verb
 fidget verb
 field          verb
@@ -159,6 +161,7 @@ fundraise verb conf=85
 funnel verb
 furlough verb
 furnish        verb
+furrow verb
 further        verb note=to further a cause
 fuse verb
 fuss           verb

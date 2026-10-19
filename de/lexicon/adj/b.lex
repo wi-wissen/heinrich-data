@@ -11,6 +11,7 @@ bäuerisch adj
 bäuerlich adj
 baulich adj
 bayerisch adj
+bayrisch adj note=variant of bayerisch
 beachtlich adj cmp=beachtlicher sup=beachtlichsten
 bedacht adj note=bedacht auf etwas; participle of bedenken with own meaning
 bedauerlich adj cmp=bedauerlicher sup=bedauerlichsten
@@ -38,12 +39,14 @@ behutsam adj cmp=behutsamer sup=behutsamsten
 beiderseitig adj
 beidseitig adj
 beige adj
+beiläufig adj
 beispielhaft adj cmp=beispielhafter sup=beispielhaftesten
 beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
 bekloppt adj cmp=bekloppter sup=beklopptesten
 belarussisch adj
+belegen adj note=legal: situated (das im Bezirk belegene Grundstück); the verb belegen is separate
 beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
 beliebig adj
@@ -90,6 +93,7 @@ bisherig adj
 bissfest adj
 bissig adj cmp=bissiger sup=bissigsten
 bitter adj cmp=bitterer sup=bittersten
+bitterlich adj note=bitterlich weinen; mostly adverbial
 blank adj cmp=blanker sup=blankesten
 blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten

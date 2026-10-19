@@ -20,3 +20,4 @@ quit          verb past=quit|quitted[archaic] pp=quit|quitted[archaic]
 quiver        verb
 quiz verb double
 quote         verb
+quoth verb defective style=archaic conf=70 note=archaic past tense of say (quoth he); only the past is real, the lemma readings are a generator artefact

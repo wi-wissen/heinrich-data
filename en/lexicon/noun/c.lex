@@ -1,4 +1,5 @@
 cab noun
+cabaret noun
 cabbage noun
 cabin noun
 cabinet noun
@@ -23,6 +24,7 @@ calendar noun
 calf noun pl=calves
 caliber noun gb=calibre
 calibration noun
+calico noun pl=calicoes|calicos
 caliph noun
 caliphate noun
 call noun
@@ -38,6 +40,7 @@ camel noun
 camellia noun
 cameo noun
 camera noun
+camouflage noun
 camp noun
 campaign noun
 campaigner noun
@@ -53,6 +56,7 @@ cancellation noun
 cancer noun
 candidacy noun
 candidate noun
+candidature noun
 candle noun
 candor noun gb=candour pl=- note=uncountable
 candy noun
@@ -62,8 +66,10 @@ cannabis noun pl=- note=uncountable
 cannibal noun
 cannon noun pl=cannons|cannon
 canoe noun
+canoeist noun
 canon noun
 canopy noun
+cant noun
 canteen noun
 canter noun
 canton noun
@@ -71,6 +77,7 @@ canvas noun pl=canvases|canvasses
 canyon noun
 cap noun
 capability noun
+capacitance noun pl=- note=uncountable
 capacitor noun
 capacity noun
 cape noun
@@ -84,6 +91,7 @@ cappuccino noun pl=cappuccinos
 caprice noun
 capsule noun
 captain noun
+captaincy noun
 caption noun
 captive noun
 captivity noun pl=- note=uncountable
@@ -112,6 +120,7 @@ caress noun
 caretaker noun
 cargo noun pl=cargoes|cargos
 caricature noun
+carnage noun pl=- note=uncountable
 carnival noun
 carol noun
 carp noun pl=carp|carps
@@ -152,6 +161,7 @@ casing noun
 casino noun note=plural casinos
 cask noun
 casket noun
+cassava noun
 casserole noun
 cassette noun
 cast noun
@@ -171,12 +181,14 @@ catch noun
 catch-up noun
 catcher noun
 catchment noun
+categorization noun gb=categorisation|categorization
 category noun
 caterer noun
 catering noun pl=- note=uncountable
 caterpillar noun
 catfish noun pl=catfish|catfishes
 cathedral noun
+cathode noun
 Catholic noun
 cattle noun pl_only
 caucus noun
@@ -185,6 +197,7 @@ causation noun pl=- note=uncountable
 cause noun
 causeway noun
 caution noun
+cavalcade noun
 cavalier noun
 cavalry noun
 cave noun
@@ -198,6 +211,7 @@ ceiling noun
 celebration noun
 celebrity noun
 celery noun pl=- note=uncountable
+celibacy noun pl=- note=uncountable
 cell noun
 cellar noun
 cellist noun
@@ -287,6 +301,7 @@ chassis noun pl=chassis
 chastity noun pl=- note=uncountable
 chat noun
 chatbot noun
+chateau noun pl=chateaux|chateaus conf=90 note=also written château
 chatter noun
 chauffeur noun
 cheat noun
@@ -347,9 +362,11 @@ Chinook noun conf=90 note=the people; also wind and helicopter
 chip noun
 Chippewa noun pl=Chippewa|Chippewas
 chipset noun
+chisel noun
 chivalry noun pl=- note=uncountable
 chive noun
 chloride noun
+chlorine noun pl=- note=uncountable
 chocolate noun
 Choctaw noun pl=Choctaw|Choctaws
 choice noun
@@ -361,10 +378,12 @@ chop noun
 chopstick noun
 chord noun
 choreographer noun
+choreography noun
 chorus noun
 chowder noun
 christening noun
 Christian noun
+chrome noun pl=- note=uncountable
 chromium noun pl=- note=uncountable
 chromosome noun
 chronicle noun
@@ -380,8 +399,10 @@ château noun pl=châteaux|châteaus
 cider noun
 cigar noun
 cigarette noun
+cilium noun pl=cilia
 cinema noun
 cinematographer noun
+cinematography noun pl=- note=uncountable
 cinnamon noun pl=- note=uncountable
 cipher noun gb=cipher|cypher
 circle noun
@@ -447,6 +468,7 @@ clergyman noun pl=clergymen
 cleric noun
 clerk noun
 cleverness noun pl=- note=uncountable
+clew noun
 click noun
 client noun
 clientele noun pl=- note=collective
@@ -491,6 +513,7 @@ coalfield noun
 coalition noun
 coast noun
 coaster noun
+coastguard noun
 coastline noun
 coat noun
 coating noun
@@ -512,6 +535,7 @@ codec noun
 codename noun
 codex noun pl=codices
 codicil noun
+codification noun
 coding noun
 coefficient noun
 coercion noun pl=- note=uncountable
@@ -550,11 +574,14 @@ collision noun
 collusion noun pl=- note=uncountable
 cologne noun
 Colombian noun
+colon noun
 colonel noun
+colonialism noun pl=- note=uncountable
 colonist noun
 colonization noun gb=colonisation|colonization
 colony noun
 color noun gb=colour
+coloration noun gb=colouration|coloration
 colt noun
 column noun
 columnist noun
@@ -574,6 +601,7 @@ comer noun
 comet noun
 comfort noun
 comic noun
+comma noun
 command noun
 commandant noun
 commander noun
@@ -687,6 +715,8 @@ concurrency noun
 concussion noun
 condemnation noun
 condensation noun
+condensin noun
+condescension noun pl=- note=uncountable
 condition noun
 conditioner noun
 conditioning noun pl=- note=uncountable
@@ -706,6 +736,7 @@ confederation noun
 conference noun
 conferencing noun pl=- note=uncountable
 confession noun
+confessor noun
 confidant noun
 confidence noun
 confidentiality noun pl=- note=uncountable
@@ -713,9 +744,11 @@ configuration noun
 confinement noun
 confirmation noun
 confiscation noun
+conflagration noun
 conflict noun
 confluence noun
 conformance noun pl=- note=uncountable
+conformation noun
 conformity noun pl=- note=uncountable
 confrontation noun
 confusion noun
@@ -751,6 +784,7 @@ conservatory noun
 consideration noun
 consignee noun
 consignment noun
+consignor noun
 consistency noun
 consolation noun
 console noun
@@ -780,6 +814,7 @@ consultancy noun
 consultant noun
 consultation noun
 consumer noun
+consummation noun
 consumption noun pl=- note=uncountable
 contact noun
 container noun
@@ -845,6 +880,8 @@ cool noun
 cooler noun
 coolie noun style=offensive note=derogatory term for Asian labourers
 coolness noun pl=- note=uncountable
+coon noun sense=raccoon style=colloquial note=short for raccoon
+coon noun sense=slur style=offensive note=racial slur
 cooper noun
 cooperation noun gb=cooperation|co-operation
 cooperative noun gb=cooperative|co-operative
@@ -865,6 +902,7 @@ coral noun
 cord noun
 cordiality noun pl=- note=uncountable
 core noun
+corium noun
 cork noun
 corkscrew noun
 corn noun
@@ -878,11 +916,13 @@ coronary noun
 coronation noun
 coronavirus noun
 coroner noun
+coronet noun
 corporal noun
 corporation noun
 corps noun pl=corps
 corpse noun
 corpus noun pl=corpora|corpuses
+corral noun
 correction noun
 corrective noun
 correctness noun pl=- note=uncountable
@@ -894,7 +934,9 @@ corrosion noun pl=- note=uncountable
 corruption noun
 corset noun
 cortex noun pl=cortices|cortexes
+corvette noun
 cosmetic noun
+cosmology noun
 cosmopolitan noun
 cost noun
 costume noun
@@ -916,6 +958,7 @@ counter noun
 counteraction noun
 counterattack noun
 counterfeit noun
+countermeasure noun
 counteroffer noun conf=85 note=also counter-offer
 counterpart noun
 counterparty noun
@@ -972,6 +1015,7 @@ crag noun
 cranberry noun
 crane noun
 crank noun
+crankshaft noun
 crash noun
 crate noun
 crater noun
@@ -1014,6 +1058,7 @@ crisis noun pl=crises
 crisp noun
 criterion noun pl=criteria
 critic noun
+criticality noun
 criticism noun
 critique noun
 croak noun
@@ -1037,6 +1082,7 @@ crowd noun
 crowdfunding noun pl=- note=uncountable
 crown noun
 crucifix noun
+crucifixion noun
 crude noun note=crude oil
 cruelty noun
 cruise noun
@@ -1048,6 +1094,7 @@ crusade noun
 crusader noun
 crush noun
 crust noun
+crustacean noun
 crutch noun
 cry noun
 crypt noun
@@ -1088,6 +1135,7 @@ curb noun
 curb noun gb=kerb sense=edge conf=90 note=edge of the pavement; British kerb
 curb noun sense=restraint
 cure noun
+curfew noun
 curiosity noun
 curl noun
 currency noun
@@ -1117,10 +1165,12 @@ cyanide noun
 cyberattack noun
 cybercrime noun
 cybersecurity noun pl=- note=uncountable
+cyberspace noun pl=- note=uncountable
 cycle noun
 cyclist noun
 cyclone noun
 cylinder noun
+cymbal noun
 cynic noun
 cynicism noun pl=- note=uncountable
 cypress noun

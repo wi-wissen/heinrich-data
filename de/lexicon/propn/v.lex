@@ -5,7 +5,7 @@ Venedig propn g=n gen=Venedigs pl=- note=place name
 Venezuela propn g=n gen=Venezuelas pl=- note=proper name, no plural
 Venus propn g=f gen=Venus pl=- note=planet, goddess; genitive unmarked
 Verona propn g=n gen=Veronas pl=- note=proper name; no plural
-Versailles propn g=n gen=Versailles pl=- note=proper name; bare genitive
+Versailles propn g=n gen=Versailles pl=- demonym=Versailler note=proper name; bare genitive
 VfB propn g=m gen=VfB pl=- note=Verein für Bewegungsspiele (der VfB)
 VfL propn g=m gen=VfL pl=- note=Verein für Leibesübungen (der VfL)
 Vietnam propn g=n gen=Vietnams pl=- note=proper name; no plural
