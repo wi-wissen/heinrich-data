@@ -9,6 +9,7 @@ tanzen       verb class=weak pp=getanzt perf=haben
 tapezieren verb class=weak pp=tapeziert perf=haben
 tappen verb class=weak pp=getappt perf=sein
 tapsen verb class=weak pp=getapst perf=sein
+tarieren verb class=weak pp=tariert perf=haben
 tasten verb class=weak pp=getastet perf=haben
 tätigen verb class=weak pp=getätigt perf=haben
 tauchen verb class=weak pp=getaucht perf=haben|sein
@@ -25,6 +26,7 @@ telefonieren verb class=weak pp=telefoniert perf=haben
 terminieren verb class=weak pp=terminiert perf=haben
 testen verb class=weak pp=getestet perf=haben
 testieren verb class=weak pp=testiert perf=haben
+teufen verb class=weak pp=geteuft perf=haben conf=90 note=mining: einen Schacht teufen (to sink); mostly abteufen
 texten verb class=weak pp=getextet perf=haben
 thematisieren verb class=weak pp=thematisiert perf=haben
 thronen verb class=weak pp=gethront perf=haben
@@ -83,6 +85,7 @@ trügen verb class=strong 3sg=trügt past=trog pp=getrogen subj2=tröge perf=hab
 tuckern verb class=weak pp=getuckert perf=haben|sein
 tüfteln verb class=weak pp=getüftelt perf=haben
 tun          verb class=strong pres=tue,tust,tut,tun,tut,tun past=tat pp=getan subj2=täte perf=haben
+tünchen verb class=weak pp=getüncht perf=haben
 turnen verb class=weak pp=geturnt perf=haben|sein
 tuscheln verb class=weak pp=getuschelt perf=haben
 twittern verb class=weak pp=getwittert perf=haben

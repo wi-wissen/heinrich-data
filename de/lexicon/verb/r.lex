@@ -28,6 +28,7 @@ rausfahren verb class=strong sep=raus 3sg=rausfährt past=rausfuhr subj2=rausfü
 rausfinden verb class=strong sep=raus 3sg=rausfindet past=rausfand subj2=rausfände pp=rausgefunden perf=haben
 rausfliegen verb class=strong sep=raus 3sg=rausfliegt past=rausflog subj2=rausflöge pp=rausgeflogen perf=sein
 rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial
+raushalten verb class=strong sep=raus 3sg=raushält past=raushielt pp=rausgehalten subj2=raushielte perf=haben refl=acc note=colloquial for heraushalten
 rausholen verb class=weak sep=raus pp=rausgeholt perf=haben
 rausklettern verb class=weak sep=raus pp=rausgeklettert perf=sein
 rauskommen verb class=strong sep=raus 3sg=rauskommt|rauskömmt[old] past=rauskam subj2=rauskäme pp=rausgekommen perf=sein
@@ -69,6 +70,7 @@ rehabilitieren verb class=weak pp=rehabilitiert perf=haben
 reiben verb class=strong 3sg=reibt past=rieb pp=gerieben subj2=riebe perf=haben refl=acc
 reichen verb class=weak pp=gereicht perf=haben
 reifen verb class=weak pp=gereift perf=sein|haben
+reihen verb class=weak pp=gereiht perf=haben refl=acc note=Perlen reihen; sich an etwas reihen
 reimen verb class=weak pp=gereimt perf=haben
 reinbringen verb class=mixed sep=rein 3sg=reinbringt past=reinbrachte subj2=reinbrächte pp=reingebracht perf=haben
 reinfahren verb class=strong sep=rein 3sg=reinfährt past=reinfuhr subj2=reinführe pp=reingefahren perf=haben|sein
@@ -127,6 +129,7 @@ rieseln verb class=weak pp=gerieselt perf=sein
 ringen verb class=strong 3sg=ringt past=rang pp=gerungen subj2=ränge perf=haben
 rinnen verb class=strong 3sg=rinnt past=rann pp=geronnen subj2=ränne|rönne[rare] perf=sein
 riskieren verb class=weak pp=riskiert perf=haben
+ritzen verb class=weak pp=geritzt perf=haben
 robben verb class=weak pp=gerobbt perf=sein
 röcheln verb class=weak pp=geröchelt perf=haben
 rodeln verb class=weak pp=gerodelt perf=haben|sein

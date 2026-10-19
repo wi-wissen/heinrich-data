@@ -162,6 +162,12 @@ principal parts, then follow the checklist in LEXICON_FORMAT §9. Typical cases:
   `gewandt`).
 - Prefixed and particle verbs always need their own entries (`ansprechen`, `verstehen`); the
   compound analysis does not create verbs.
+- Adjective + verb (`kaputtmachen`, `kaputtgehen`, `freihalten`): write the joined separable verb
+  (`sep=kaputt`). Known format gap: the format cannot say whether the separate spelling is also
+  correct (resultative *kaputt machen* / *kaputtmachen*: both) or wrong (*kaputtgehen*: joined
+  only). Say it in `note=`. Proposal for a later format version: a field such as
+  `spelling_split=both|joined` (default `both`), stored as a lexeme attribute for the rules on
+  separate and joined spelling.
 
 ### 4.3 Homographs and senses
 

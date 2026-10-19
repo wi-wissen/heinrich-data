@@ -29,9 +29,13 @@ wecken verb class=weak pp=geweckt perf=haben
 wedeln verb class=weak pp=gewedelt perf=haben
 wegblasen verb class=strong sep=weg 3sg=wegbläst past=wegblies subj2=wegbliese pp=weggeblasen perf=haben
 wegbleiben verb class=strong sep=weg 3sg=wegbleibt past=wegblieb subj2=wegbliebe pp=weggeblieben perf=sein
+wegbrechen verb class=strong sep=weg 3sg=wegbricht past=wegbrach pp=weggebrochen subj2=wegbräche perf=haben|sein note=die Einnahmen sind weggebrochen (sein); einen Ast wegbrechen (haben)
 wegbringen verb class=mixed sep=weg 3sg=wegbringt past=wegbrachte pp=weggebracht subj2=wegbrächte perf=haben
+wegdenken verb class=mixed sep=weg 3sg=wegdenkt past=wegdachte pp=weggedacht subj2=wegdächte perf=haben note=nicht wegzudenken
+wegdiskutieren verb class=weak sep=weg pp=wegdiskutiert perf=haben
 wegdrehen verb class=weak sep=weg pp=weggedreht perf=haben
 wegdrücken verb class=weak sep=weg pp=weggedrückt perf=haben
+wegducken verb class=weak sep=weg pp=weggeduckt perf=haben refl=acc note=sich wegducken
 wegessen verb class=strong sep=weg 3sg=wegisst past=wegaß subj2=wegäße pp=weggegessen perf=haben
 wegfahren verb class=strong sep=weg 3sg=wegfährt past=wegfuhr subj2=wegführe pp=weggefahren perf=sein
 wegfallen verb class=strong sep=weg 3sg=wegfällt past=wegfiel pp=weggefallen subj2=wegfiele perf=sein
@@ -77,6 +81,7 @@ wegtauchen verb class=weak sep=weg pp=weggetaucht perf=sein
 wegtragen verb class=strong sep=weg 3sg=wegträgt past=wegtrug subj2=wegtrüge pp=weggetragen perf=haben
 wegtreten verb class=strong sep=weg 3sg=wegtritt past=wegtrat subj2=wegträte pp=weggetreten perf=sein
 wegwehen verb class=weak sep=weg pp=weggeweht perf=haben|sein
+wegweisen verb class=strong sep=weg 3sg=wegweist past=wegwies pp=weggewiesen subj2=wegwiese perf=haben
 wegwerfen verb class=strong sep=weg 3sg=wegwirft past=wegwarf pp=weggeworfen subj2=wegwürfe perf=haben
 wegwischen verb class=weak sep=weg pp=weggewischt perf=haben
 wegziehen verb class=strong sep=weg 3sg=wegzieht past=wegzog pp=weggezogen subj2=wegzöge perf=haben|sein
@@ -99,6 +104,7 @@ weiterbeschäftigen verb class=weak sep=weiter pp=weitergebeschäftigt perf=habe
 weiterbestehen verb class=strong sep=weiter 3sg=weiterbesteht past=weiterbestand subj2=weiterbestünde|weiterbestände pp=weiterbestanden perf=haben
 weiterbilden verb class=weak sep=weiter pp=weitergebildet perf=haben
 weiterblättern verb class=weak sep=weiter pp=weitergeblättert perf=haben
+weiterbringen verb class=mixed sep=weiter 3sg=weiterbringt past=weiterbrachte pp=weitergebracht subj2=weiterbrächte perf=haben
 weiterdenken verb class=mixed sep=weiter 3sg=weiterdenkt past=weiterdachte subj2=weiterdächte pp=weitergedacht perf=haben
 weiterentwickeln verb class=weak sep=weiter pp=weiterentwickelt perf=haben
 weitererzählen verb class=weak sep=weiter pp=weitergeerzählt perf=haben
@@ -132,10 +138,13 @@ weiterschwimmen verb class=strong sep=weiter 3sg=weiterschwimmt past=weiterschwa
 weitersenden verb class=weak sep=weiter past=weitersendete|weitersandte pp=weitergesendet|weitergesandt perf=haben
 weitersingen verb class=strong sep=weiter 3sg=weitersingt past=weitersang subj2=weitersänge pp=weitergesungen perf=haben
 weiterspielen verb class=weak sep=weiter pp=weitergespielt perf=haben
+weitersprechen verb class=strong sep=weiter 3sg=weiterspricht past=weitersprach pp=weitergesprochen subj2=weiterspräche perf=haben
 weiterspringen verb class=strong sep=weiter 3sg=weiterspringt past=weitersprang subj2=weiterspränge pp=weitergesprungen perf=sein
 weitersuchen verb class=weak sep=weiter pp=weitergesucht perf=haben
 weitertanzen verb class=weak sep=weiter pp=weitergetanzt perf=haben
+weitertragen verb class=strong sep=weiter 3sg=weiterträgt past=weitertrug pp=weitergetragen subj2=weitertrüge perf=haben
 weiterträumen verb class=weak sep=weiter pp=weitergeträumt perf=haben
+weiterverarbeiten verb class=weak sep=weiter pp=weiterverarbeitet perf=haben
 weiterverfolgen verb class=weak sep=weiter pp=weitergeverfolgt perf=haben
 weiterverkaufen verb class=weak sep=weiter pp=weiterverkauft perf=haben
 weiterverwenden verb class=weak sep=weiter pp=weitergeverwendet perf=haben
@@ -163,26 +172,30 @@ widerspiegeln verb class=weak sep=wider pp=widergespiegelt perf=haben
 widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersprochen subj2=widerspräche perf=haben
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
 widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
+widerstreben verb class=weak pp=widerstrebt perf=haben note=es widerstrebt mir
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederaufbauen verb class=weak sep=wiederauf pp=wiederaufgebaut perf=haben
 wiederbekommen verb class=strong sep=wieder 3sg=wiederbekommt past=wiederbekam subj2=wiederbekäme pp=wiederbekommen perf=haben
-wiederbeleben verb class=weak pp=wiederbelebt perf=haben
+wiederbeleben verb class=weak sep=wieder pp=wiederbelebt perf=haben
 wiederbeschaffen verb class=weak sep=wieder pp=wiederbeschafft perf=haben
 wiedereinführen verb class=weak sep=wiederein pp=wiedereingeführt perf=haben
 wiedereinsetzen verb class=weak sep=wiederein pp=wiedereingesetzt perf=haben
 wiedereinstellen verb class=weak sep=wiederein pp=wiedereingestellt perf=haben
 wiederentdecken verb class=weak sep=wieder pp=wiederentdeckt perf=haben
 wiedererkennen verb class=mixed sep=wieder 3sg=wiedererkennt past=wiedererkannte subj2=wiedererkennte pp=wiedererkannt perf=haben
+wiedererlangen verb class=weak sep=wieder pp=wiedererlangt perf=haben
 wiedereröffnen verb class=weak sep=wieder pp=wiedereröffnet perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc
 wiedergeben verb class=strong sep=wieder 3sg=wiedergibt past=wiedergab pp=wiedergegeben subj2=wiedergäbe perf=haben
 wiedergewinnen verb class=strong sep=wieder 3sg=wiedergewinnt past=wiedergewann subj2=wiedergewönne|wiedergewänne pp=wiedergewonnen perf=haben
 wiedergutmachen verb class=weak sep=wiedergut pp=wiedergutgemacht perf=haben
+wiederhaben verb class=mixed sep=wieder 3sg=wiederhat past=wiederhatte pp=wiedergehabt subj2=wiederhätte perf=haben
 wiederherstellen verb class=weak sep=wiederher pp=wiederhergestellt perf=haben
 wiederholen verb class=weak pp=wiederholt perf=haben
 wiederkehren verb class=weak sep=wieder pp=wiedergekehrt perf=sein
 wiederkommen verb class=strong sep=wieder 3sg=wiederkommt|wiederkömmt[old] past=wiederkam subj2=wiederkäme pp=wiedergekommen perf=sein
 wiedersehen verb class=strong sep=wieder 3sg=wiedersieht past=wiedersah pp=wiedergesehen subj2=wiedersähe perf=haben refl=acc
+wiedervereinigen verb class=weak sep=wieder pp=wiedervereinigt perf=haben
 wiederveröffentlichen verb class=weak sep=wieder pp=wiederveröffentlicht perf=haben conf=80 note=separable (veröffentlichte es wieder); also written as two words
 wiederverwenden verb class=weak pp=wiederverwendet perf=haben sep=wieder
 wiederverwerten verb class=weak pp=wiederverwertet perf=haben sep=wieder
@@ -194,7 +207,7 @@ wildern verb class=weak pp=gewildert perf=haben
 wimmeln verb class=weak pp=gewimmelt perf=haben
 wimmern verb class=weak pp=gewimmert perf=haben
 winden verb class=strong 3sg=windet past=wand pp=gewunden subj2=wände perf=haben refl=acc
-winken verb class=weak pp=gewinkt perf=haben
+winken verb class=weak pp=gewinkt|gewunken[colloquial] perf=haben
 winseln verb class=weak pp=gewinselt perf=haben
 wippen verb class=weak pp=gewippt perf=haben
 wirbeln verb class=weak pp=gewirbelt perf=haben|sein

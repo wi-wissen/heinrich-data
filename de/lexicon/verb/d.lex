@@ -1,11 +1,17 @@
 dabeibleiben verb class=strong sep=dabei 3sg=dabeibleibt past=dabeiblieb subj2=dabeibliebe pp=dabeigeblieben perf=sein
 dabeisitzen verb class=strong sep=dabei 3sg=dabeisitzt past=dabeisaß subj2=dabeisäße pp=dabeigesessen perf=haben|sein
 dabeistehen verb class=strong sep=dabei 3sg=dabeisteht past=dabeistand subj2=dabeistünde|dabeistände pp=dabeigestanden perf=haben|sein
+dableiben verb class=strong sep=da 3sg=dableibt past=dablieb pp=dageblieben subj2=dabliebe perf=sein
 daddeln verb class=weak pp=gedaddelt perf=haben
+daherkommen verb class=strong sep=daher 3sg=daherkommt|daherkömmt[old] past=daherkam pp=dahergekommen subj2=daherkäme perf=sein
 dämmen verb class=weak pp=gedämmt perf=haben
 dämmern verb class=weak pp=gedämmert perf=haben
 dämpfen verb class=weak pp=gedämpft perf=haben
 danken        verb class=weak pp=gedankt perf=haben
+darangehen verb class=strong sep=daran 3sg=darangeht past=daranging|darangieng[old] pp=darangegangen subj2=daranginge perf=sein note=an eine Arbeit darangehen
+daransetzen verb class=weak sep=daran pp=darangesetzt perf=haben note=alles daransetzen
+darbieten verb class=strong sep=dar 3sg=darbietet past=darbot pp=dargeboten subj2=darböte perf=haben
+darbringen verb class=mixed sep=dar 3sg=darbringt past=darbrachte pp=dargebracht subj2=darbrächte perf=haben
 darlegen verb class=weak sep=dar pp=dargelegt perf=haben
 darstellen    verb class=weak sep=dar pp=dargestellt perf=haben
 dastehen verb class=strong sep=da 3sg=dasteht past=dastand pp=dagestanden subj2=dastünde|dastände perf=haben|sein
@@ -38,6 +44,7 @@ dazukommen verb class=strong sep=dazu 3sg=dazukommt|dazukömmt[old] past=dazukam
 dazulegen verb class=weak sep=dazu pp=dazugelegt perf=haben
 dazulernen verb class=weak sep=dazu pp=dazugelernt perf=haben
 dazurechnen verb class=weak sep=dazu pp=dazugerechnet perf=haben
+dazusagen verb class=weak sep=dazu pp=dazugesagt perf=haben
 dazuschalten verb class=weak sep=dazu pp=dazugeschaltet perf=haben
 dazuschreiben verb class=strong sep=dazu 3sg=dazuschreibt past=dazuschrieb subj2=dazuschriebe pp=dazugeschrieben perf=haben
 dazusetzen verb class=weak sep=dazu pp=dazugesetzt perf=haben refl=acc
@@ -80,6 +87,7 @@ disponieren verb class=weak pp=disponiert perf=haben
 disqualifizieren verb class=weak pp=disqualifiziert perf=haben
 distanzieren verb class=weak pp=distanziert perf=haben refl=acc pp_cmp note=distanziert also a gradable adjective (distanzierter)
 dividieren verb class=weak pp=dividiert perf=haben
+docken verb class=weak pp=gedockt perf=haben
 dokumentieren verb class=weak pp=dokumentiert perf=haben
 dominieren verb class=weak pp=dominiert perf=haben
 donnern verb class=weak pp=gedonnert perf=haben
@@ -108,6 +116,7 @@ düngen verb class=weak pp=gedüngt perf=haben
 dunkeln verb class=weak pp=gedunkelt perf=haben note=mostly impersonal (es dunkelt)
 dünken verb class=weak 3sg=dünkt|deucht[archaic] past=dünkte|deuchte[archaic] pp=gedünkt|gedeucht[archaic] perf=haben style=archaic conf=80 note=mich dünkt; the preterite deuchte is rare
 dünsten verb class=weak pp=gedünstet perf=haben
+durcharbeiten verb class=weak sep=durch pp=durchgearbeitet perf=haben refl=acc note=sich durch etwas durcharbeiten
 durchblättern verb class=weak sep=durch pp=durchgeblättert perf=haben
 durchblicken verb class=weak sep=durch pp=durchgeblickt perf=haben
 durchbohren verb class=weak sep=durch pp=durchgebohrt perf=haben sense=separable note=stressed prefix (separable)
@@ -122,16 +131,20 @@ durchdringen verb class=strong 3sg=durchdringt past=durchdrang subj2=durchdräng
 durchfahren verb class=strong sep=durch 3sg=durchfährt past=durchfuhr subj2=durchführe pp=durchgefahren perf=sein sense=separable note=stressed prefix (separable)
 durchfahren verb class=strong 3sg=durchfährt past=durchfuhr subj2=durchführe pp=durchfahren perf=haben sense=inseparable note=unstressed prefix (inseparable)
 durchfallen verb class=strong sep=durch 3sg=durchfällt past=durchfiel pp=durchgefallen subj2=durchfiele perf=sein
+durchfliegen verb class=strong sep=durch 3sg=durchfliegt past=durchflog pp=durchgeflogen subj2=durchflöge perf=sein sense=fail conf=90 note=bei der Prüfung durchfliegen (colloquial); ohne Zwischenstopp durchfliegen
+durchfliegen verb class=strong 3sg=durchfliegt past=durchflog pp=durchflogen subj2=durchflöge perf=haben sense=fly_through conf=90 note=eine Wolke durchfliegen; einen Text durchfliegen
 durchfließen verb class=strong 3sg=durchfließt past=durchfloss pp=durchflossen subj2=durchflösse perf=haben
 durchfragen verb class=weak sep=durch past=durchfragte|durchfrug[archaic] subj2=durchfragte|durchfrüge[archaic] pp=durchgefragt perf=haben refl=acc
 durchführen   verb class=weak sep=durch pp=durchgeführt perf=haben
 durchgehen verb class=strong sep=durch 3sg=durchgeht past=durchging pp=durchgegangen subj2=durchginge perf=sein
+durchgreifen verb class=strong sep=durch 3sg=durchgreift past=durchgriff pp=durchgegriffen subj2=durchgriffe perf=haben
 durchhalten verb class=strong sep=durch 3sg=durchhält past=durchhielt subj2=durchhielte pp=durchgehalten perf=haben
 durchkauen verb class=weak sep=durch pp=durchgekaut perf=haben
 durchklicken verb class=weak sep=durch pp=durchgeklickt perf=haben note=sich durch ein Menü durchklicken
 durchklingeln verb class=weak sep=durch pp=durchgeklingelt perf=haben
 durchkommen verb class=strong sep=durch 3sg=durchkommt|durchkömmt[old] past=durchkam subj2=durchkäme pp=durchgekommen perf=sein
 durchkreuzen verb class=weak pp=durchkreuzt perf=haben
+durchlassen verb class=strong sep=durch 3sg=durchlässt past=durchließ pp=durchgelassen subj2=durchließe perf=haben
 durchlaufen verb class=strong sep=durch 3sg=durchläuft past=durchlief pp=durchgelaufen subj2=durchliefe perf=sein sense=run_through note=die Zeit läuft durch; stress on durch
 durchlaufen verb class=strong 3sg=durchläuft past=durchlief pp=durchlaufen subj2=durchliefe perf=haben sense=pass_through note=eine Ausbildung durchlaufen; stress on laufen
 durchleben verb class=weak pp=durchlebt perf=haben
@@ -140,16 +153,20 @@ durchleuchten verb class=weak sep=durch pp=durchgeleuchtet perf=haben sense=sepa
 durchleuchten verb class=weak pp=durchleuchtet perf=haben sense=inseparable note=unstressed prefix (inseparable)
 durchlöchern verb class=weak pp=durchlöchert perf=haben
 durchmachen verb class=weak sep=durch pp=durchgemacht perf=haben
+durchmessen verb class=strong 3sg=durchmisst past=durchmaß pp=durchmessen subj2=durchmäße perf=haben conf=90 note=elevated: einen Raum durchmessen
 durchmischen verb class=weak pp=durchmischt perf=haben
 durchnässen verb class=weak pp=durchnässt perf=haben
+durchnummerieren verb class=weak sep=durch pp=durchnummeriert perf=haben
 durchprobieren verb class=weak sep=durch pp=durchprobiert perf=haben
 durchqueren verb class=weak pp=durchquert perf=haben
 durchrechnen verb class=weak sep=durch pp=durchgerechnet perf=haben
 durchrennen verb class=mixed sep=durch 3sg=durchrennt past=durchrannte subj2=durchrennte pp=durchgerannt perf=sein
+durchringen verb class=strong sep=durch 3sg=durchringt past=durchrang pp=durchgerungen subj2=durchränge perf=haben refl=acc note=sich zu etwas durchringen
 durchrutschen verb class=weak sep=durch pp=durchgerutscht perf=sein
 durchsagen verb class=weak sep=durch pp=durchgesagt perf=haben
 durchschauen verb class=weak sep=durch pp=durchgeschaut perf=haben sense=separable note=stressed prefix (separable)
 durchschauen verb class=weak pp=durchschaut perf=haben sense=inseparable note=unstressed prefix (inseparable)
+durchscheinen verb class=strong sep=durch 3sg=durchscheint past=durchschien pp=durchgeschienen subj2=durchschiene perf=haben
 durchschlafen verb class=strong sep=durch 3sg=durchschläft past=durchschlief subj2=durchschliefe pp=durchgeschlafen perf=haben
 durchschlagen verb class=strong sep=durch 3sg=durchschlägt past=durchschlug subj2=durchschlüge pp=durchgeschlagen perf=haben|sein sense=separable note=stressed prefix (separable)
 durchschlagen verb class=strong 3sg=durchschlägt past=durchschlug subj2=durchschlüge pp=durchschlagen perf=haben sense=inseparable note=unstressed prefix (inseparable)
@@ -158,18 +175,29 @@ durchschleusen verb class=weak pp=durchschleust perf=haben sense=inseparable not
 durchschlüpfen verb class=weak sep=durch pp=durchgeschlüpft perf=sein
 durchschneiden verb class=strong sep=durch 3sg=durchschneidet past=durchschnitt subj2=durchschnitte pp=durchgeschnitten perf=haben sense=separable note=stressed prefix (separable)
 durchschneiden verb class=strong 3sg=durchschneidet past=durchschnitt subj2=durchschnitte pp=durchschnitten perf=haben sense=inseparable note=unstressed prefix (inseparable)
+durchschreiten verb class=strong 3sg=durchschreitet past=durchschritt pp=durchschritten subj2=durchschritte perf=haben note=einen Saal durchschreiten
 durchschwimmen verb class=strong sep=durch 3sg=durchschwimmt past=durchschwamm subj2=durchschwömme|durchschwämme pp=durchgeschwommen perf=sein sense=separable note=stressed prefix (separable)
 durchschwimmen verb class=strong 3sg=durchschwimmt past=durchschwamm subj2=durchschwömme|durchschwämme pp=durchschwommen perf=haben sense=inseparable note=unstressed prefix (inseparable)
 durchsehen verb class=strong sep=durch 3sg=durchsieht past=durchsah,durchsahst|durchsahest[archaic],durchsah,durchsahen,durchsaht,durchsahen subj2=durchsähe pp=durchgesehen perf=haben
 durchsetzen verb class=weak sep=durch pp=durchgesetzt perf=haben
 durchsickern verb class=weak sep=durch pp=durchgesickert perf=sein
 durchspielen verb class=weak sep=durch pp=durchgespielt perf=haben
+durchstechen verb class=strong 3sg=durchsticht past=durchstach pp=durchstochen subj2=durchstäche perf=haben sense=pierce conf=90 note=stress on stechen: etwas mit einer Nadel durchstechen
+durchstechen verb class=strong sep=durch 3sg=durchsticht past=durchstach pp=durchgestochen subj2=durchstäche perf=haben sense=through conf=80 note=stress on durch: mit der Nadel durchstechen; leak (durchgestochen)
 durchstehen verb class=strong sep=durch 3sg=durchsteht past=durchstand subj2=durchstünde|durchstände pp=durchgestanden perf=haben
+durchstoßen verb class=strong sep=durch 3sg=durchstößt past=durchstieß pp=durchgestoßen subj2=durchstieße perf=haben|sein sense=push_through conf=90 note=stress on durch: er ist zum Ziel durchgestoßen
+durchstoßen verb class=strong 3sg=durchstößt past=durchstieß pp=durchstoßen subj2=durchstieße perf=haben sense=pierce conf=90 note=stress on stoßen: die Wolkendecke durchstoßen
 durchstreichen verb class=strong sep=durch 3sg=durchstreicht past=durchstrich subj2=durchstriche pp=durchgestrichen perf=haben
+durchstreifen verb class=weak pp=durchstreift perf=haben note=den Wald durchstreifen
+durchströmen verb class=weak pp=durchströmt perf=haben note=stress on strömen: ein Gefühl durchströmt ihn
 durchsuchen verb class=weak pp=durchsucht perf=haben
 durchtanzen verb class=weak sep=durch pp=durchgetanzt perf=haben sense=separable note=stressed prefix (separable)
 durchtanzen verb class=weak pp=durchtanzt perf=haben sense=inseparable note=unstressed prefix (inseparable)
 durchtelefonieren verb class=weak sep=durch pp=durchtelefoniert perf=haben
+durchwachsen verb class=strong 3sg=durchwächst past=durchwuchs pp=durchwachsen subj2=durchwüchse perf=haben conf=80 sense=intergrow note=mostly the participle (durchwachsener Speck, durchwachsenes Wetter)
+durchwachsen verb class=strong sep=durch 3sg=durchwächst past=durchwuchs pp=durchgewachsen subj2=durchwüchse perf=sein sense=grow_through conf=80 note=stress on durch: die Wurzeln sind durchgewachsen
+durchwandern verb class=weak pp=durchwandert perf=haben note=ein Land durchwandern
+durchwinken verb class=weak sep=durch pp=durchgewinkt|durchgewunken[colloquial] perf=haben
 durchwühlen verb class=weak pp=durchwühlt perf=haben
 durchzählen verb class=weak sep=durch pp=durchgezählt perf=haben
 durchziehen verb class=strong sep=durch 3sg=durchzieht past=durchzog pp=durchgezogen subj2=durchzöge perf=haben|sein sense=carry_out note=etwas durchziehen; stress on durch

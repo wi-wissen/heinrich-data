@@ -442,10 +442,12 @@ voranbringen verb class=mixed sep=voran 3sg=voranbringt past=voranbrachte pp=vor
 vorangehen verb class=strong sep=voran 3sg=vorangeht past=voranging pp=vorangegangen subj2=vorangeginge perf=sein
 vorankommen verb class=strong sep=voran 3sg=vorankommt past=vorankam pp=vorangekommen subj2=vorankäme perf=sein
 voranschreiten verb class=strong sep=voran 3sg=voranschreitet past=voranschritt pp=vorangeschritten subj2=voranschritte perf=sein
+voranstellen verb class=weak sep=voran pp=vorangestellt perf=haben
 vorantreiben verb class=strong sep=voran 3sg=vorantreibt past=vorantrieb pp=vorangetrieben subj2=vorantriebe perf=haben
 vorarbeiten verb class=weak sep=vor pp=vorgearbeitet perf=haben
 vorausgehen verb class=strong sep=voraus 3sg=vorausgeht past=vorausging pp=vorausgegangen subj2=vorausginge perf=sein
 voraussagen verb class=weak sep=voraus pp=vorausgesagt perf=haben
+vorausschicken verb class=weak sep=voraus pp=vorausgeschickt perf=haben
 voraussehen verb class=strong sep=voraus 3sg=voraussieht past=voraussah pp=vorausgesehen subj2=voraussähe perf=haben
 voraussetzen verb class=weak sep=voraus pp=vorausgesetzt perf=haben
 vorbauen verb class=weak sep=vor pp=vorgebaut perf=haben
@@ -469,6 +471,7 @@ vorbereiten verb class=weak sep=vor pp=vorbereitet perf=haben
 vorbestellen verb class=weak pp=vorbestellt perf=haben sep=vor
 vorbeten verb class=weak sep=vor pp=vorgebetet perf=haben
 vorbeugen verb class=weak sep=vor pp=vorgebeugt perf=haben refl=acc
+vorbringen verb class=mixed sep=vor 3sg=vorbringt past=vorbrachte pp=vorgebracht subj2=vorbrächte perf=haben
 vordrängeln verb class=weak sep=vor pp=vorgedrängelt perf=haben refl=acc
 vordringen verb class=strong sep=vor 3sg=vordringt past=vordrang subj2=vordränge pp=vorgedrungen perf=sein
 vorenthalten verb class=strong sep=vor 3sg=vorenthält past=vorenthielt pp=vorenthalten subj2=vorenthielte perf=haben
@@ -477,19 +480,24 @@ vorfallen verb class=strong sep=vor 3sg=vorfällt past=vorfiel pp=vorgefallen su
 vorfinanzieren verb class=weak sep=vor pp=vorfinanziert perf=haben
 vorfinden verb class=strong sep=vor 3sg=vorfindet past=vorfand pp=vorgefunden subj2=vorfände perf=haben
 vorführen verb class=weak sep=vor pp=vorgeführt perf=haben
+vorgaukeln verb class=weak sep=vor pp=vorgegaukelt perf=haben note=jemandem etwas vorgaukeln
 vorgeben verb class=strong sep=vor 3sg=vorgibt past=vorgab pp=vorgegeben subj2=vorgäbe perf=haben
 vorgehen verb class=strong sep=vor 3sg=vorgeht past=vorging pp=vorgegangen subj2=vorginge perf=sein
+vorgreifen verb class=strong sep=vor 3sg=vorgreift past=vorgriff pp=vorgegriffen subj2=vorgriffe perf=haben
 vorgucken verb class=weak sep=vor pp=vorgeguckt perf=haben
 vorhaben verb class=mixed sep=vor 3sg=vorhat past=vorhatte pp=vorgehabt subj2=vorhätte perf=haben
 vorhalten verb class=strong sep=vor 3sg=vorhält past=vorhielt pp=vorgehalten subj2=vorhielte perf=haben
 vorhergehen verb class=strong sep=vorher 3sg=vorhergeht past=vorherging pp=vorhergegangen subj2=vorherginge perf=sein
+vorherrschen verb class=weak sep=vor pp=vorgeherrscht perf=haben
 vorhersagen verb class=weak sep=vorher pp=vorhergesagt perf=haben
+vorhersehen verb class=strong sep=vorher 3sg=vorhersieht past=vorhersah,vorhersahst|vorhersahest[archaic],vorhersah,vorhersahen,vorhersaht,vorhersahen pp=vorhergesehen subj2=vorhersähe perf=haben
 vorjammern verb class=weak sep=vor pp=vorgejammert perf=haben
 vorkochen verb class=weak sep=vor pp=vorgekocht perf=haben
 vorkommen verb class=strong sep=vor 3sg=vorkommt past=vorkam pp=vorgekommen subj2=vorkäme perf=sein
 vorladen verb class=strong sep=vor 3sg=vorlädt past=vorlud pp=vorgeladen subj2=vorlüde perf=haben
 vorlassen verb class=strong sep=vor 3sg=vorlässt past=vorließ subj2=vorließe pp=vorgelassen perf=haben
 vorlaufen verb class=strong sep=vor 3sg=vorläuft past=vorlief subj2=vorliefe pp=vorgelaufen perf=sein
+vorleben verb class=weak sep=vor pp=vorgelebt perf=haben
 vorlegen verb class=weak sep=vor pp=vorgelegt perf=haben
 vorlesen verb class=strong sep=vor 3sg=vorliest past=vorlas pp=vorgelesen subj2=vorläse perf=haben
 vorliegen verb class=strong sep=vor 3sg=vorliegt past=vorlag pp=vorgelegen subj2=vorläge perf=haben
@@ -501,10 +509,13 @@ vorrechnen verb class=weak sep=vor pp=vorgerechnet perf=haben
 vorrücken verb class=weak sep=vor pp=vorgerückt perf=sein
 vorsagen verb class=weak sep=vor pp=vorgesagt perf=haben
 vorschicken verb class=weak sep=vor pp=vorgeschickt perf=haben
+vorschieben verb class=strong sep=vor 3sg=vorschiebt past=vorschob pp=vorgeschoben subj2=vorschöbe perf=haben
 vorschießen verb class=strong sep=vor 3sg=vorschießt past=vorschoss subj2=vorschösse pp=vorgeschossen perf=haben|sein
 vorschlagen verb class=strong sep=vor 3sg=vorschlägt past=vorschlug pp=vorgeschlagen subj2=vorschlüge perf=haben
+vorschnellen verb class=weak sep=vor pp=vorgeschnellt perf=sein
 vorschreiben verb class=strong sep=vor 3sg=vorschreibt past=vorschrieb pp=vorgeschrieben subj2=vorschriebe perf=haben
 vorschwärmen verb class=weak sep=vor pp=vorgeschwärmt perf=haben
+vorschweben verb class=weak sep=vor pp=vorgeschwebt perf=haben note=mir schwebt etwas vor
 vorschwimmen verb class=strong sep=vor 3sg=vorschwimmt past=vorschwamm subj2=vorschwömme|vorschwämme pp=vorgeschwommen perf=sein
 vorsehen verb class=strong sep=vor 3sg=vorsieht past=vorsah pp=vorgesehen subj2=vorsähe perf=haben
 vorsetzen verb class=weak sep=vor pp=vorgesetzt perf=haben
@@ -516,6 +527,7 @@ vorspringen verb class=strong sep=vor 3sg=vorspringt past=vorsprang subj2=vorspr
 vorspulen verb class=weak sep=vor pp=vorgespult perf=haben
 vorstehen verb class=strong sep=vor 3sg=vorsteht past=vorstand pp=vorgestanden subj2=vorstünde|vorstände perf=haben
 vorstellen verb class=weak sep=vor pp=vorgestellt perf=haben refl=acc
+vorstoßen verb class=strong sep=vor 3sg=vorstößt past=vorstieß pp=vorgestoßen subj2=vorstieße perf=sein note=in neue Bereiche vorstoßen
 vorstrecken verb class=weak sep=vor pp=vorgestreckt perf=haben
 vorstürmen verb class=weak sep=vor pp=vorgestürmt perf=sein
 vortanzen verb class=weak sep=vor pp=vorgetanzt perf=haben
@@ -524,7 +536,10 @@ vortragen verb class=strong sep=vor 3sg=vorträgt past=vortrug pp=vorgetragen su
 vortreten verb class=strong sep=vor 3sg=vortritt past=vortrat subj2=vorträte pp=vorgetreten perf=sein
 vorturnen verb class=weak sep=vor pp=vorgeturnt perf=haben
 vorübergehen verb class=strong sep=vorüber 3sg=vorübergeht past=vorüberging pp=vorübergegangen subj2=vorüberginge perf=sein
+vorüberziehen verb class=strong sep=vorüber 3sg=vorüberzieht past=vorüberzog pp=vorübergezogen subj2=vorüberzöge perf=sein
 vorwarnen verb class=weak sep=vor pp=vorgewarnt perf=haben
+vorwegnehmen verb class=strong sep=vorweg 3sg=vorwegnimmt past=vorwegnahm pp=vorweggenommen subj2=vorwegnähme perf=haben
+vorwegschicken verb class=weak sep=vorweg pp=vorweggeschickt perf=haben conf=90 note=rare variant of vorausschicken
 vorweisen verb class=strong sep=vor 3sg=vorweist past=vorwies pp=vorgewiesen subj2=vorwiese perf=haben
 vorwerfen verb class=strong sep=vor 3sg=vorwirft past=vorwarf pp=vorgeworfen subj2=vorwürfe perf=haben
 vorzählen verb class=weak sep=vor pp=vorgezählt perf=haben

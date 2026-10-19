@@ -4,6 +4,8 @@ kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
 kapieren verb class=weak pp=kapiert perf=haben
+kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
+kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
 kassieren verb class=weak pp=kassiert perf=haben
 kauen verb class=weak pp=gekaut perf=haben
 kauern verb class=weak pp=gekauert perf=haben refl=acc
@@ -17,6 +19,7 @@ kennen verb class=mixed 3sg=kennt past=kannte pp=gekannt subj2=kennte perf=haben
 kennenlernen verb class=weak sep=kennen pp=kennengelernt perf=haben
 kennzeichnen verb class=weak pp=gekennzeichnet perf=haben
 kentern verb class=weak pp=gekentert perf=sein
+ketten verb class=weak pp=gekettet perf=haben
 keuchen verb class=weak pp=gekeucht perf=haben
 kichern verb class=weak pp=gekichert perf=haben
 kicken verb class=weak pp=gekickt perf=haben
@@ -24,6 +27,7 @@ kippen verb class=weak pp=gekippt perf=haben|sein
 kitzeln verb class=weak pp=gekitzelt perf=haben
 kläffen verb class=weak pp=gekläfft perf=haben
 klagen verb class=weak pp=geklagt perf=haben
+klammern verb class=weak pp=geklammert perf=haben refl=acc note=sich an etwas klammern
 klappen verb class=weak pp=geklappt perf=haben|sein note=haben in both senses (es hat geklappt); sein for something folding over is regional
 klappern verb class=weak pp=geklappert perf=haben
 klären verb class=weak pp=geklärt perf=haben refl=acc
@@ -52,6 +56,7 @@ knarren verb class=weak pp=geknarrt perf=haben
 knattern verb class=weak pp=geknattert perf=haben
 kneifen verb class=strong 3sg=kneift past=kniff pp=gekniffen subj2=kniffe perf=haben
 kneten verb class=weak pp=geknetet perf=haben
+knicken verb class=weak pp=geknickt perf=haben|sein note=einen Zweig knicken (haben); der Halm ist geknickt (sein)
 knien verb class=mixed pres=knie,kniest,kniet,knien,kniet,knien past=kniete pp=gekniet subj2=kniete imp=knie,kniet perf=haben|sein note=stem knie- (ich knie, kniete)
 knipsen verb class=weak pp=geknipst perf=haben
 knirschen verb class=weak pp=geknirscht perf=haben

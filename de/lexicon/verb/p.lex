@@ -20,6 +20,7 @@ petzen verb class=weak pp=gepetzt perf=haben style=colloquial
 pfänden verb class=weak pp=gepfändet perf=haben
 pfeffern verb class=weak pp=gepfeffert perf=haben
 pfeifen verb class=strong 3sg=pfeift past=pfiff pp=gepfiffen subj2=pfiffe perf=haben
+pferchen verb class=weak pp=gepfercht perf=haben
 pflanzen verb class=weak pp=gepflanzt perf=haben
 pflastern verb class=weak pp=gepflastert perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
@@ -61,6 +62,7 @@ prasseln verb class=weak pp=geprasselt perf=haben|sein
 präzisieren verb class=weak pp=präzisiert perf=haben
 predigen verb class=weak pp=gepredigt perf=haben
 preisen verb class=strong 3sg=preist past=pries pp=gepriesen subj2=priese perf=haben
+preisgeben verb class=strong sep=preis 3sg=preisgibt past=preisgab pp=preisgegeben subj2=preisgäbe perf=haben
 pressen verb class=weak pp=gepresst perf=haben
 priorisieren verb class=weak pp=priorisiert perf=haben
 privatisieren verb class=weak pp=privatisiert perf=haben

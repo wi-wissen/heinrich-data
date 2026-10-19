@@ -7,6 +7,7 @@ garen verb class=weak pp=gegart perf=haben
 garnieren verb class=weak pp=garniert perf=haben
 gärtnern verb class=weak pp=gegärtnert perf=haben
 gastieren verb class=weak pp=gastiert perf=haben
+gaukeln verb class=weak pp=gegaukelt perf=haben|sein note=der Falter gaukelt (sein with a direction)
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
 gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben
@@ -79,6 +80,7 @@ grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
 grauen verb class=weak pp=gegraut perf=haben note=es graut mir vor; der Morgen graut
 graulen verb class=weak pp=gegrault perf=haben refl=acc note=sich graulen; jemanden herausgraulen
+gravieren verb class=weak pp=graviert perf=haben
 greifen verb class=strong 3sg=greift past=griff pp=gegriffen subj2=griffe perf=haben
 grenzen verb class=weak pp=gegrenzt perf=haben
 grillen verb class=weak pp=gegrillt perf=haben
@@ -94,5 +96,6 @@ grüßen verb class=weak pp=gegrüßt perf=haben
 gucken verb class=weak pp=geguckt perf=haben
 gurgeln verb class=weak pp=gegurgelt perf=haben
 gurren verb class=weak pp=gegurrt perf=haben
+gürten verb class=weak pp=gegürtet perf=haben refl=acc
 gutheißen verb class=strong sep=gut 3sg=gutheißt past=guthieß pp=gutgeheißen subj2=guthieße perf=haben
 gutschreiben verb class=strong sep=gut 3sg=gutschreibt past=gutschrieb pp=gutgeschrieben subj2=gutschriebe perf=haben
