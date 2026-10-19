@@ -11,9 +11,11 @@ easternmost adj
 easy adj cmp=er adv=easily
 eccentric adj
 ecclesiastical adj
+eclectic adj cmp=more adv=eclectically
 ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
+ecstatic adj cmp=more adv=ecstatically
 ecumenical adj
 edible adj
 editable adj
@@ -28,6 +30,7 @@ egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
 elastic adj
+elated adj cmp=more
 elderly adj
 elective adj
 electoral adj
@@ -41,9 +44,15 @@ elemental adj
 elementary adj
 eligible adj
 elite adj
+elliptic adj
+elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
+emaciated adj
 embarrassed adj cmp=more
+emblematic adj
+embryonic adj
+emergent adj
 emeritus adj
 eminent adj adv=eminently
 emotional adj adv=emotionally
@@ -53,6 +62,7 @@ employable adj cmp=more
 empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
+endogenous adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -69,31 +79,36 @@ envious adj cmp=more adv=enviously
 environmental adj adv=environmentally
 ephemeral adj cmp=more
 epic adj
+epidemiological adj
 Episcopal adj
 episcopal adj
+episodic adj
 eponymous adj
 equal adj adv=equally
 equatorial adj
 equestrian adj
 equine adj
 equitable adj adv=equitably
-equivalent adj
+equivalent adj adv=equivalently
 erect adj
 ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
 erstwhile adj attr_only
+esoteric adj cmp=more adv=esoterically
 especial adj
 essential adj adv=essentially
 Estonian adj
 eternal adj adv=eternally
+ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
 Eurasian adj
 European adj
 evangelical adj
+evasive adj adv=evasively
 even adj adv=evenly
 eventful adj cmp=more
 eventual adj adv=eventually
@@ -121,6 +136,7 @@ exercisable adj
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
 exogamous adj
+exorbitant adj adv=exorbitantly
 exotic adj
 expansive adj
 expectant adj
@@ -133,6 +149,7 @@ experimental adj adv=experimentally
 expert adj adv=expertly
 explanatory adj
 explicit adj adv=explicitly
+exploitative adj
 explosive adj
 exponential adj adv=exponentially
 express adj adv=expressly
@@ -144,6 +161,7 @@ exterior adj
 external adj adv=externally
 extinct adj
 extra adj
+extracellular adj
 extracurricular adj
 extraordinary adj adv=extraordinarily
 extraterrestrial adj
@@ -151,4 +169,5 @@ extratropical adj
 extravagant adj
 extreme adj cmp=more adv=extremely
 extremist adj
+exuberant adj cmp=more adv=exuberantly
 exultant adj adv=exultantly

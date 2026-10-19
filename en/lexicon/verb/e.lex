@@ -26,15 +26,19 @@ elongate verb
 elude verb
 email verb
 emanate verb
+emancipate verb
 embark verb
 embarrass verb
 embed verb double
+embellish verb
 embezzle verb
+embitter verb
 embody verb
 embolden verb
 emboss verb
 embrace verb
 embroider verb
+embroil verb
 emerge verb
 emigrate verb
 emit verb double
@@ -46,6 +50,7 @@ emulate verb
 enable verb
 enact verb
 encamp verb
+encase verb
 enchant verb
 encircle verb
 enclose verb
@@ -55,6 +60,7 @@ encounter verb
 encourage verb
 encroach verb
 encrypt verb
+encumber verb
 end verb
 endanger verb
 endear verb
@@ -68,6 +74,7 @@ engender verb
 engineer verb
 engrave verb
 engross verb
+engulf verb
 enhance verb
 enjoin verb
 enjoy verb
@@ -79,6 +86,7 @@ enrich verb
 enroll verb gb=enrol double
 enshrine verb
 enslave verb
+ensonify verb conf=85 note=acoustics: to fill with sound (sonar surveys)
 ensue verb
 ensure verb
 entail verb
@@ -141,6 +149,7 @@ excise verb
 excite verb
 exclaim verb
 exclude verb
+excommunicate verb
 excuse verb
 execute verb
 exemplify verb
@@ -149,6 +158,7 @@ exercise verb
 exert verb
 exhaust verb
 exhibit verb
+exhilarate verb
 exile verb
 exist verb
 exit verb

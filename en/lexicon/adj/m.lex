@@ -1,8 +1,10 @@
 Macedonian adj
+macroeconomic adj
 mad           adj cmp=er adv=madly
 maddening adj cmp=more adv=maddeningly
 magic         adj
 magical       adj adv=magically
+magnanimous adj cmp=more adv=magnanimously
 magnetic      adj
 magnificent   adj cmp=more adv=magnificently
 maiden        adj attr_only
@@ -11,12 +13,15 @@ mainline adj
 mainstream    adj
 majestic      adj
 major         adj
+makeshift adj
 Malay         adj
 Malaysian     adj
 male          adj
+malevolent adj adv=malevolently
 malicious     adj adv=maliciously
 malign adj cmp=more
 malignant adj
+mammalian adj
 mammoth adj
 manageable adj cmp=more
 managerial adj
@@ -25,6 +30,7 @@ manifest      adj adv=manifestly
 manifold adj
 manipulative adj
 manly         adj cmp=er
+manmade adj note=also written man-made
 manual        adj adv=manually
 Manx adj
 marginal      adj adv=marginally
@@ -41,6 +47,7 @@ masculine     adj
 mass          adj attr_only
 massive       adj cmp=more adv=massively
 masterful adj cmp=more adv=masterfully
+masterly adj
 matching      adj
 material      adj adv=materially
 maternal      adj
@@ -61,23 +68,29 @@ median        adj
 medical       adj adv=medically
 medicinal     adj
 medieval      adj gb=medieval|mediaeval
+mediocre adj cmp=more
+meditative adj
 Mediterranean adj
 medium        adj
 meek adj cmp=er adv=meekly
 melancholy    adj
 mellow adj cmp=er
 melodic adj
+melodious adj cmp=more adv=melodiously
 melodramatic adj adv=melodramatically
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
+menial adj
 mental        adj adv=mentally
 mercantile adj
 mercenary adj
 merciful adj cmp=more adv=mercifully
 merciless adj cmp=more adv=mercilessly
 mere          adj attr_only adv=merely
+meritorious adj
 merry         adj cmp=er adv=merrily
+messianic adj
 messy adj cmp=er adv=messily
 metabolic adj
 metallic      adj
@@ -90,17 +103,20 @@ meticulous adj cmp=more adv=meticulously
 metric        adj
 metropolitan  adj
 Mexican       adj
+micro adj conf=85 note=informal: very small; also a prefix
 microbial adj
 micropolitan  adj note=US census term
 microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
 middle        adj attr_only
 midland adj attr_only
+Midwestern adj
 mighty        adj cmp=er adv=mightily
 migratory     adj
 mild          adj cmp=er adv=mildly
 militant adj
 military      adj adv=militarily
+milky adj cmp=er
 minded        adj pred_only
 mindful       adj pred_only
 mini          adj
@@ -110,7 +126,7 @@ minimum       adj
 ministerial   adj
 minor         adj
 minty adj
-minute        adj cmp=er|more note=tiny
+minute        adj cmp=er|more adv=minutely note=tiny
 miraculous adj cmp=more adv=miraculously
 miscellaneous adj
 mischievous adj cmp=more adv=mischievously
@@ -144,6 +160,7 @@ monstrous     adj adv=monstrously
 monthly       adj
 monumental adj adv=monumentally
 moody adj cmp=er
+moonlit adj
 Moorish       adj
 moral         adj adv=morally
 morbid adj adv=morbidly
@@ -153,15 +170,20 @@ morose adj adv=morosely
 morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
+mossy adj cmp=er
+motherly adj cmp=more
 motionless    adj
+motley adj
+mottled adj
 mountainous   adj
 mournful adj adv=mournfully
-movable adj
+movable adj gb=moveable|movable conf=90 note=moveable is the more frequent British spelling
 mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er
 Mughal adj
 multicultural adj
+multidisciplinary adj
 multifamily adj
 multilateral  adj
 multilingual adj
@@ -169,6 +191,8 @@ multinational adj
 multiplayer adj
 multiple      adj
 multipurpose adj
+multiracial adj
+mundane adj
 municipal     adj
 murderous adj
 muscular      adj

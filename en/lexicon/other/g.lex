@@ -8,4 +8,6 @@ goodbye intj
 gosh intj
 Gov.           x abbr note=Governor, title
 GPS            x abbr note=Global Positioning System
+grande x foreign note=only in grande dame, Rio Grande
+Gras x foreign note=only in Mardi Gras
 guerre x foreign note=in nom de guerre, croix de guerre

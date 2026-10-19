@@ -8,6 +8,7 @@ aka x abbr note=also known as
 AL x abbr conf=90 note=Alabama; American League
 al. x abbr note=only in et al.
 alas intj
+alia x foreign note=only in inter alia
 amen intj
 Anno x foreign note=only in Anno Domini
 annum x foreign note=only in per annum

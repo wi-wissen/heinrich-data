@@ -36,9 +36,12 @@ navigator noun
 navy          noun
 Nazi          noun
 NDA           noun abbr note=non-disclosure agreement; new drug application (US)
+neatness noun pl=- note=uncountable
+necessary noun note=chiefly plural: necessaries
 necessity     noun
 neck          noun
 necklace      noun
+necktie noun
 necropolis noun
 nectar noun pl=- note=uncountable
 nectarine noun
@@ -56,6 +59,7 @@ neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
 neoliberal noun
+neon noun pl=- note=uncountable
 nephew        noun
 nerve         noun
 nervousness noun pl=- note=uncountable
@@ -67,7 +71,7 @@ network       noun
 networking noun pl=- note=uncountable
 neurologist noun
 neuron noun gb=neuron|neurone
-neuroscience noun
+neuroscience noun pl=- note=uncountable
 neutral       noun
 neutrality    noun pl=- note=uncountable
 neutron noun
@@ -79,6 +83,7 @@ newscast noun
 newsdesk noun
 newsletter noun
 newspaper     noun
+newsroom noun
 newton        noun note=SI unit of force
 nexus noun pl=nexus|nexuses
 NGO noun abbr note=non-governmental organization
@@ -98,6 +103,7 @@ nightfall noun pl=- note=uncountable
 nightgown noun
 nightie noun
 nightingale noun
+nightlife noun pl=- note=uncountable
 nightmare noun
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
@@ -116,9 +122,12 @@ noise         noun
 nomad noun
 nomenclature noun
 nomination    noun
+nominative noun
 nominee       noun
 nonattainment noun pl=- note=uncountable (US air quality)
 noncompliance noun pl=- note=uncountable
+nondiscrimination noun pl=- conf=90 note=uncountable; also non-discrimination
+nonfiction noun pl=- note=uncountable
 nonimmigrant  noun
 nonpayment noun pl=- conf=85 note=also non-payment
 nonprofit     noun
@@ -129,6 +138,7 @@ noodle noun
 nook noun
 noon          noun
 noonday noun pl=- note=uncountable
+noose noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norm          noun
 normalization noun gb=normalisation|normalization
@@ -140,6 +150,7 @@ northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
 nosebleed noun
+nostalgia noun pl=- note=uncountable
 nostril       noun
 notable       noun
 notarization noun gb=notarisation|notarization conf=85
@@ -170,6 +181,7 @@ nuance noun
 nucleotide noun
 nucleus       noun pl=nuclei
 nude noun
+nudity noun pl=- note=uncountable
 nugget noun
 nuisance      noun
 nullity noun
