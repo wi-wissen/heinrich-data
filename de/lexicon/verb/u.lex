@@ -25,6 +25,7 @@
 überhören verb class=weak pp=überhört perf=haben
 überkochen verb class=weak sep=über pp=übergekocht perf=sein
 überlassen verb class=strong 3sg=überlässt past=überließ pp=überlassen subj2=überließe perf=haben
+überlasten verb class=weak pp=überlastet perf=haben
 überlaufen verb class=strong sep=über 3sg=überläuft past=überlief pp=übergelaufen subj2=überliefe perf=sein
 überleben verb class=weak pp=überlebt perf=haben
 überlegen verb class=weak pp=überlegt perf=haben sense=think note=inseparable: ich überlege
@@ -113,6 +114,7 @@ ummelden verb class=weak sep=um pp=umgemeldet perf=haben
 umpacken verb class=weak sep=um pp=umgepackt perf=haben
 umpflanzen verb class=weak pp=umgepflanzt perf=haben sep=um
 umquartieren verb class=weak sep=um pp=umquartiert perf=haben
+umrahmen verb class=weak pp=umrahmt perf=haben
 umrechnen verb class=weak sep=um pp=umgerechnet perf=haben
 umringen verb class=weak pp=umringt perf=haben
 umrühren verb class=weak sep=um pp=umgerührt perf=haben

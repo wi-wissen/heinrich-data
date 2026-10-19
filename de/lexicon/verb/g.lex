@@ -6,6 +6,7 @@ garantieren verb class=weak pp=garantiert perf=haben
 garen verb class=weak pp=gegart perf=haben
 garnieren verb class=weak pp=garniert perf=haben
 gärtnern verb class=weak pp=gegärtnert perf=haben
+gastieren verb class=weak pp=gastiert perf=haben
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
 gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben

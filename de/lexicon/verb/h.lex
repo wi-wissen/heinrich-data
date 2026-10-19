@@ -14,7 +14,9 @@ harken verb class=weak pp=geharkt perf=haben
 harren verb class=weak pp=geharrt perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 hasten verb class=weak pp=gehastet perf=sein
+hauchen verb class=weak pp=gehaucht perf=haben
 hauen verb class=strong 3sg=haut past=haute|hieb[archaic] pp=gehauen subj2=haute|hiebe[archaic] perf=haben|sein
+häufen verb class=weak pp=gehäuft perf=haben refl=acc
 hausen verb class=weak pp=gehaust perf=haben
 häuten verb class=weak pp=gehäutet perf=haben refl=acc
 heben verb class=strong 3sg=hebt past=hob|hub[archaic] pp=gehoben subj2=höbe|hübe[archaic] perf=haben

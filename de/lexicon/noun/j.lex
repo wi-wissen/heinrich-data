@@ -58,4 +58,5 @@ Jura noun g=n gen=Jura pl=- note=Jura studieren; used without article
 Jurist noun g=m gen=Juristen pl=Juristen
 Juristin noun g=f gen=Juristin pl=Juristinnen
 Jury noun g=f gen=Jury pl=Jurys|Juries
+Jus noun g=n gen=Jus pl=- conf=80 note=law as a field of study (Jus studieren) or meat juice; gender of the sauce sense varies
 Justiz noun g=f gen=Justiz pl=- note=plural not used

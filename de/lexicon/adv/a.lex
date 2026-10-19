@@ -1,4 +1,5 @@
 abermals adv
+abhanden adv note=abhanden kommen
 abwärts adv
 alias adv note=Latin; also called
 alleine adv
@@ -8,6 +9,7 @@ allesamt adv
 alsbald adv
 alsdann adv
 anbei adv note=in letters: anbei erhalten Sie
+anno adv note=anno 1900
 anscheinend adv
 aufwärts adv
 ausnahmsweise adv

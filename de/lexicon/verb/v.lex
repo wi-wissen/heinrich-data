@@ -41,6 +41,7 @@ verbluten verb class=weak pp=verblutet perf=sein
 verbohren verb class=weak pp=verbohrt perf=haben refl=acc
 verbrauchen verb class=weak pp=verbraucht perf=haben
 verbreiten verb class=weak pp=verbreitet perf=haben
+verbreitern verb class=weak pp=verbreitert perf=haben refl=acc
 verbrennen verb class=mixed 3sg=verbrennt past=verbrannte pp=verbrannt subj2=verbrennte perf=haben|sein
 verbringen verb class=mixed 3sg=verbringt past=verbrachte pp=verbracht subj2=verbrächte perf=haben
 verbrüdern verb class=weak pp=verbrüdert perf=haben refl=acc
@@ -347,6 +348,7 @@ vertreiben verb class=strong 3sg=vertreibt past=vertrieb pp=vertrieben subj2=ver
 vertreten verb class=strong 3sg=vertritt past=vertrat pp=vertreten subj2=verträte perf=haben
 vertrocknen verb class=weak pp=vertrocknet perf=sein
 vertrösten verb class=weak pp=vertröstet perf=haben
+vertun verb class=strong pres=vertue,vertust,vertut,vertun,vertut,vertun past=vertat pp=vertan subj2=vertäte perf=haben refl=acc
 vertuschen verb class=weak pp=vertuscht perf=haben
 verübeln verb class=weak pp=verübelt perf=haben
 verüben verb class=weak pp=verübt perf=haben

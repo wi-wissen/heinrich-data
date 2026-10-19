@@ -45,6 +45,7 @@ irisch adj
 ironisch adj cmp=ironischer sup=ironischsten
 irrational adj
 irre adj cmp=irrer sup=irrsten
+irrtümlich adj
 islamisch adj
 islamistisch adj
 isländisch adj

@@ -2,6 +2,7 @@ zeitlebens adv type=time
 zeitweise adv
 zirka adv type=degree
 zuallererst adv type=time
+zugegebenermaßen adv type=modal
 zugegen adv type=place note=zugegen sein
 zugleich adv
 zugrunde adv note=zugrunde legen, zugrunde liegen
@@ -14,3 +15,5 @@ zutage adv type=modal note=zutage treten, zutage fördern
 zuteil adv type=modal note=zuteil werden
 zutiefst adv type=degree
 zuweilen adv
+zweifelsohne adv type=modal
+zwischendurch adv type=time

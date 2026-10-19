@@ -1,6 +1,7 @@
 Taiwan propn g=n gen=Taiwans pl=- note=proper name, no plural
 Tallinn propn g=n gen=Tallinns pl=- note=proper name; no plural
 Tansania propn g=n gen=Tansanias pl=- note=proper name; no plural
+Tarent propn g=n gen=Tarents pl=- note=city in Italy (Taranto)
 Tauber propn g=f gen=Tauber pl=- conf=80 note=river (die Tauber); no plural
 Teheran propn g=n gen=Teherans pl=- note=proper name; no plural
 Telekom propn g=f gen=Telekom pl=- note=die Telekom; company name
@@ -22,6 +23,7 @@ Trier propn g=n gen=Triers pl=- note=proper name, no plural
 Triest propn g=n gen=Triests pl=- note=proper name; no plural
 Tschechien propn g=n gen=Tschechiens pl=- note=proper name, no plural
 Tschechoslowakei propn g=f gen=Tschechoslowakei pl=- note=proper name, no plural
+Tschernobyl propn g=n gen=Tschernobyls pl=- note=place name; no plural
 TSG propn g=f gen=TSG pl=- note=Turn- und Sportgemeinschaft (die TSG)
 TTIP propn g=n gen=TTIP|TTIPs pl=- conf=70 note=gender unsure (das Abkommen TTIP)
 Tübingen propn g=n gen=Tübingens pl=- note=proper name, no plural
