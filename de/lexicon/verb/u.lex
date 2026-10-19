@@ -42,6 +42,7 @@
 überreden verb class=weak pp=überredet perf=haben
 überreichen verb class=weak pp=überreicht perf=haben
 überrumpeln verb class=weak pp=überrumpelt perf=haben
+überschatten verb class=weak pp=überschattet perf=haben
 überschätzen verb class=weak pp=überschätzt perf=haben
 überschlagen verb class=strong 3sg=überschlägt past=überschlug subj2=überschlüge pp=überschlagen perf=haben
 überschreiben verb class=strong 3sg=überschreibt past=überschrieb pp=überschrieben subj2=überschriebe perf=haben
@@ -122,6 +123,7 @@ umschalten verb class=weak sep=um pp=umgeschaltet perf=haben
 umschauen verb class=weak sep=um pp=umgeschaut perf=haben refl=acc
 umschlagen verb class=strong sep=um 3sg=umschlägt past=umschlug subj2=umschlüge pp=umgeschlagen perf=haben|sein
 umschließen verb class=strong 3sg=umschließt past=umschloss pp=umschlossen subj2=umschlösse perf=haben
+umschlingen verb class=strong 3sg=umschlingt past=umschlang pp=umschlungen subj2=umschlänge perf=haben
 umschreiben verb class=strong sep=um 3sg=umschreibt past=umschrieb subj2=umschriebe pp=umgeschrieben perf=haben sense=separable note=stressed prefix (separable)
 umschreiben verb class=strong 3sg=umschreibt past=umschrieb subj2=umschriebe pp=umschrieben perf=haben sense=inseparable note=unstressed prefix (inseparable)
 umschulen verb class=weak sep=um pp=umgeschult perf=haben

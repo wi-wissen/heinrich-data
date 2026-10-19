@@ -1,3 +1,4 @@
+Zacken noun g=m gen=Zackens pl=Zacken
 Zahl noun g=f gen=Zahl pl=Zahlen
 Zähler noun g=m gen=Zählers pl=Zähler
 Zahlung noun g=f gen=Zahlung pl=Zahlungen
@@ -15,6 +16,7 @@ Zäsur noun g=f gen=Zäsur pl=Zäsuren
 Zauber noun g=m gen=Zaubers pl=Zauber
 Zauberer noun g=m gen=Zauberers pl=Zauberer
 Zaubererin noun g=f gen=Zaubererin pl=Zaubererinnen
+Zaum noun g=m gen=Zaums|Zaumes pl=Zäume
 Zaumzeug noun g=n gen=Zaumzeugs|Zaumzeuges pl=Zaumzeuge
 Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
 ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
@@ -32,6 +34,7 @@ Zeichentrickfilm noun g=m gen=Zeichentrickfilms|Zeichentrickfilmes pl=Zeichentri
 Zeichner noun g=m gen=Zeichners pl=Zeichner
 Zeichnerin noun g=f gen=Zeichnerin pl=Zeichnerinnen
 Zeichnung noun g=f gen=Zeichnung pl=Zeichnungen
+Zeiger noun g=m gen=Zeigers pl=Zeiger
 Zeile noun g=f gen=Zeile pl=Zeilen
 Zeisig noun g=m gen=Zeisigs pl=Zeisige
 Zeit noun g=f gen=Zeit pl=Zeiten
@@ -107,6 +110,7 @@ Zivilist noun g=m gen=Zivilisten pl=Zivilisten
 Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
 Zocker noun g=m gen=Zockers pl=Zocker
+Zofe noun g=f gen=Zofe pl=Zofen
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length
 Zombie noun g=m gen=Zombies pl=Zombies
@@ -139,6 +143,7 @@ Zügel noun g=m gen=Zügels pl=Zügel
 Zugriff noun g=m gen=Zugriffs|Zugriffes pl=Zugriffe
 Zugrundelegung noun g=f gen=Zugrundelegung pl=- note=no plural
 Zuhause noun g=n gen=Zuhauses pl=- note=no plural
+Zuhilfenahme noun g=f gen=Zuhilfenahme pl=- note=unter Zuhilfenahme; no plural
 Zuhörer noun g=m gen=Zuhörers pl=Zuhörer
 Zuhörerin noun g=f gen=Zuhörerin pl=Zuhörerinnen
 Zukunft noun g=f gen=Zukunft pl=Zukünfte[rare]
@@ -208,5 +213,6 @@ Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
+Zwist noun g=m gen=Zwists|Zwistes pl=Zwiste
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder

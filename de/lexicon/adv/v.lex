@@ -1,4 +1,5 @@
 vergleichsweise adv
+vollauf adv type=degree
 vollends adv
 vorab adv
 voran adv

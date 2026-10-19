@@ -217,6 +217,7 @@ zusammenrücken verb class=weak sep=zusammen pp=zusammengerückt perf=sein
 zusammenrufen verb class=strong sep=zusammen 3sg=zusammenruft past=zusammenrief subj2=zusammenriefe pp=zusammengerufen perf=haben
 zusammenschlagen verb class=strong sep=zusammen 3sg=zusammenschlägt past=zusammenschlug subj2=zusammenschlüge pp=zusammengeschlagen perf=haben
 zusammenschließen verb class=strong sep=zusammen 3sg=zusammenschließt past=zusammenschloss pp=zusammengeschlossen subj2=zusammenschlösse perf=haben
+zusammenschrecken verb class=weak sep=zusammen 3sg=zusammenschreckt|zusammenschrickt past=zusammenschreckte|zusammenschrak pp=zusammengeschreckt perf=sein conf=85 note=preterite zusammenschrak is common in literature
 zusammenschreiben verb class=strong sep=zusammen 3sg=zusammenschreibt past=zusammenschrieb subj2=zusammenschriebe pp=zusammengeschrieben perf=haben
 zusammenschrumpfen verb class=weak sep=zusammen pp=zusammengeschrumpft perf=sein
 zusammensetzen verb class=weak sep=zusammen pp=zusammengesetzt perf=haben

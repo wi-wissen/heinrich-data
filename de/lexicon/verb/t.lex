@@ -32,6 +32,7 @@ tippen verb class=weak pp=getippt perf=haben
 tischlern verb class=weak pp=getischlert perf=haben
 toasten verb class=weak pp=getoastet perf=haben
 toben verb class=weak pp=getobt perf=haben|sein
+tolerieren verb class=weak pp=toleriert perf=haben
 tollen verb class=weak pp=getollt perf=haben|sein
 tönen verb class=weak pp=getönt perf=haben
 töpfern verb class=weak pp=getöpfert perf=haben

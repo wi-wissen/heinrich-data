@@ -8,6 +8,7 @@ Darmstadt propn g=n gen=Darmstadts pl=- note=proper name; no plural
 Davos propn g=n gen=Davos pl=- note=Swiss town; no plural
 DB propn g=f gen=DB pl=- note=Deutsche Bahn
 DDR           propn g=f gen=DDR pl=- note=proper name; no plural
+Delitzsch propn g=n gen=Delitzsch pl=- note=proper name; no plural; bare genitive (sibilant)
 Dessau propn g=n gen=Dessaus pl=- note=city; no plural
 Detroit propn g=n gen=Detroits pl=- note=US city; no plural
 Deutschland   propn g=n gen=Deutschlands pl=- note=proper name; no plural

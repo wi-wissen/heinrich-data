@@ -14,16 +14,19 @@ Algerien propn g=n gen=Algeriens pl=- note=proper name; no plural
 Allah propn g=m gen=Allahs pl=- note=proper name; no plural
 Alpen propn g=pl
 Altenburg propn g=n gen=Altenburgs pl=- note=proper name; no plural
+Altenkirchen propn g=n gen=Altenkirchens pl=- note=proper name; no plural
 Altona propn g=n gen=Altonas pl=- note=proper name; no plural
 Altötting propn g=n gen=Altöttings pl=- note=proper name; no plural
 Amerika       propn g=n gen=Amerikas pl=- note=proper name; no plural
 Amsterdam propn g=n gen=Amsterdams pl=- note=proper name; no plural
 Anden propn g=pl
 Ankara propn g=n gen=Ankaras pl=- note=proper name; no plural
+Anklam propn g=n gen=Anklams pl=- note=proper name; no plural
 Ansbach propn g=n gen=Ansbachs pl=- note=proper name; no plural
 Antarktis propn g=f gen=Antarktis pl=- note=proper name; no plural
 Antwerpen propn g=n gen=Antwerpens pl=- note=proper name; no plural
 Apollo propn g=m gen=Apollos pl=- note=proper name; no plural
+Aragonien propn g=n gen=Aragoniens pl=- note=proper name; no plural
 ARD propn g=f gen=ARD pl=- note=Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten
 Argentinien propn g=n gen=Argentiniens pl=- note=proper name; no plural
 Arizona propn g=n gen=Arizonas pl=- note=proper name; no plural

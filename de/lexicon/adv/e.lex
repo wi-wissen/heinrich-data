@@ -1,5 +1,6 @@
 eben adv type=time note=eben erst, eben noch; the modal particle is in closed/particles.lex
 ebenda adv
+ebendort adv type=place
 ebensowenig adv type=degree
 ehemals adv type=time
 eher adv

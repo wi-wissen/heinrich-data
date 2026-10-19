@@ -32,6 +32,7 @@ Landkarte noun g=f gen=Landkarte pl=Landkarten
 Landkreis noun g=m gen=Landkreises pl=Landkreise
 Landrat noun g=m gen=Landrats|Landrates pl=Landräte
 Landschaft noun g=f gen=Landschaft pl=Landschaften
+Landstreicher noun g=m gen=Landstreichers pl=Landstreicher
 Landtag noun g=m gen=Landtags|Landtages pl=Landtage
 Landung noun g=f gen=Landung pl=Landungen
 Landwirt noun g=m gen=Landwirts pl=Landwirte
@@ -42,6 +43,7 @@ Langeweile noun g=f gen=Langeweile pl=- note=abstract noun
 Langlauf noun g=m gen=Langlaufs|Langlaufes pl=Langläufe
 Langläufer noun g=m gen=Langläufers pl=Langläufer
 Langläuferin noun g=f gen=Langläuferin pl=Langläuferinnen
+Langobarde noun g=m gen=Langobarden pl=Langobarden
 Langschläfer noun g=m gen=Langschläfers pl=Langschläfer
 Langschläferin noun g=f gen=Langschläferin pl=Langschläferinnen
 Languste noun g=f gen=Languste pl=Langusten
@@ -70,6 +72,7 @@ Läuferin noun g=f gen=Läuferin pl=Läuferinnen
 Lauge noun g=f gen=Lauge pl=Laugen
 Laune noun g=f gen=Laune pl=Launen
 Laus noun g=f gen=Laus pl=Läuse
+Lauscher noun g=m gen=Lauschers pl=Lauscher
 Laut noun g=m gen=Lauts|Lautes pl=Laute
 Lautsprecher noun g=m gen=Lautsprechers pl=Lautsprecher
 Lava noun g=f gen=Lava pl=Laven
@@ -99,6 +102,9 @@ Leck noun g=n gen=Lecks pl=Lecks
 Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
 Leertaste noun g=f gen=Leertaste pl=Leertasten
+Legat noun g=m gen=Legaten pl=Legaten sense=envoy note=der Legat: papal envoy
+Legat noun g=n gen=Legats|Legates pl=Legate sense=bequest note=das Legat: legacy
+Legation noun g=f gen=Legation pl=Legationen
 Legende noun g=f gen=Legende pl=Legenden
 Leggings noun g=f gen=Leggings pl=Leggings
 Legierung noun g=f gen=Legierung pl=Legierungen
@@ -142,6 +148,7 @@ Leiterin noun g=f gen=Leiterin pl=Leiterinnen
 Leitlinie noun g=f gen=Leitlinie pl=Leitlinien
 Leitplanke noun g=f gen=Leitplanke pl=Leitplanken
 Leitung noun g=f gen=Leitung pl=Leitungen
+Lektion noun g=f gen=Lektion pl=Lektionen
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemming noun g=m gen=Lemmings pl=Lemminge
 Lenker noun g=m gen=Lenkers pl=Lenker
@@ -172,9 +179,11 @@ Liebe noun g=f gen=Liebe pl=- note=Lieben very rare
 Liebenswürdigkeit noun g=f gen=Liebenswürdigkeit pl=Liebenswürdigkeiten
 Liebhaber noun g=m gen=Liebhabers pl=Liebhaber
 Liebhaberin noun g=f gen=Liebhaberin pl=Liebhaberinnen
+Liebkosung noun g=f gen=Liebkosung pl=Liebkosungen
 Liebling noun g=m gen=Lieblings pl=Lieblinge
 Lieblingsfach noun g=n gen=Lieblingsfachs|Lieblingsfaches pl=Lieblingsfächer
 Lied noun g=n gen=Liedes|Lieds pl=Lieder
+Liedchen noun g=n gen=Liedchens pl=Liedchen
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
@@ -240,6 +249,7 @@ Lord noun g=m gen=Lords pl=Lords
 Los noun g=n gen=Loses pl=Lose
 Losbude noun g=f gen=Losbude pl=Losbuden
 Löschung noun g=f gen=Löschung pl=Löschungen
+Losung noun g=f gen=Losung pl=Losungen
 Lösung noun g=f gen=Lösung pl=Lösungen
 Lotterie noun g=f gen=Lotterie pl=Lotterien
 Löwe noun g=m gen=Löwen pl=Löwen

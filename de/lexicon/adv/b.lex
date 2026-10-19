@@ -9,4 +9,5 @@ beispielsweise adv
 bekanntlich adv
 bestens adv
 bisweilen adv
+blindlings adv type=manner
 brutto adv note=2000 Euro brutto

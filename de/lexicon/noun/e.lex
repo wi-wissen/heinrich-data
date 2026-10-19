@@ -27,6 +27,7 @@ Eheschließung noun g=f gen=Eheschließung pl=Eheschließungen
 Ehre noun g=f gen=Ehre pl=Ehren
 Ehrenamt noun g=n gen=Ehrenamts|Ehrenamtes pl=Ehrenämter
 Ehrenamtliche noun g=m|f decl=adj
+Ehrerbietung noun g=f gen=Ehrerbietung pl=- note=mass noun
 Ehrfurcht noun g=f gen=Ehrfurcht pl=- note=no plural
 Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
 Ehrlichkeit noun g=f gen=Ehrlichkeit pl=- note=no plural
@@ -39,6 +40,7 @@ Eid noun g=m gen=Eides|Eids pl=Eide
 Eidechse noun g=f gen=Eidechse pl=Eidechsen
 Eifer noun g=m gen=Eifers pl=- note=no plural
 Eifersucht noun g=f gen=Eifersucht pl=- note=no plural
+Eigennutz noun g=m gen=Eigennutzes pl=- note=mass noun
 Eigenschaft noun g=f gen=Eigenschaft pl=Eigenschaften
 Eigentum noun g=n gen=Eigentums|Eigentumes[rare] pl=Eigentume[rare] note=mostly no plural
 Eigentümer noun g=m gen=Eigentümers pl=Eigentümer
@@ -166,6 +168,7 @@ Eitelkeit noun g=f gen=Eitelkeit pl=Eitelkeiten
 Eiweiß noun g=n gen=Eiweißes pl=Eiweiße
 Ekel noun g=m gen=Ekels pl=- sense=disgust note=no plural
 Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
+Ekstase noun g=f gen=Ekstase pl=Ekstasen
 Elch noun g=m gen=Elches|Elchs pl=Elche
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Eleganz noun g=f gen=Eleganz pl=- note=no plural
@@ -174,6 +177,7 @@ Elektrifizierung noun g=f gen=Elektrifizierung pl=- note=no plural
 Elektriker noun g=m gen=Elektrikers pl=Elektriker
 Elektrikerin noun g=f gen=Elektrikerin pl=Elektrikerinnen
 Elektrizität noun g=f gen=Elektrizität pl=- note=no plural
+Elektrode noun g=f gen=Elektrode pl=Elektroden
 Elektron noun g=n gen=Elektrons pl=Elektronen
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
 Elektroroller noun g=m gen=Elektrorollers pl=Elektroroller
@@ -243,6 +247,7 @@ Entlastung noun g=f gen=Entlastung pl=Entlastungen
 Entnahme noun g=f gen=Entnahme pl=Entnahmen
 Entrichtung noun g=f gen=Entrichtung pl=Entrichtungen
 Entrüstung noun g=f gen=Entrüstung pl=- note=no plural
+Entsagung noun g=f gen=Entsagung pl=Entsagungen
 Entschädigung noun g=f gen=Entschädigung pl=Entschädigungen
 Entscheidung noun g=f gen=Entscheidung pl=Entscheidungen
 Entschließung noun g=f gen=Entschließung pl=Entschließungen
@@ -266,11 +271,13 @@ Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
 Enzym noun g=n gen=Enzyms pl=Enzyme
 Epidemie noun g=f gen=Epidemie pl=Epidemien
 Epik noun g=f gen=Epik pl=- note=no plural
+Epilepsie noun g=f gen=Epilepsie pl=Epilepsien
 Epilog noun g=m gen=Epilogs pl=Epiloge
 Episode noun g=f gen=Episode pl=Episoden
 Epitaph noun g=n gen=Epitaphs pl=Epitaphe
 Epoche noun g=f gen=Epoche pl=Epochen
 Epos noun g=n gen=Epos pl=Epen note=Latin loanword; genitive without -es
+Equipage noun g=f gen=Equipage pl=Equipagen
 Erachten noun g=n gen=Erachtens pl=- note=only in meines Erachtens
 Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
@@ -292,6 +299,7 @@ Erdnuss noun g=f gen=Erdnuss pl=Erdnüsse
 Erdöl noun g=n gen=Erdöls pl=- note=no plural
 Erdrutsch noun g=m gen=Erdrutschs|Erdrutsches pl=Erdrutsche
 Ereignis noun g=n gen=Ereignisses pl=Ereignisse
+Eremitage noun g=f gen=Eremitage pl=Eremitagen
 Erfahrung noun g=f gen=Erfahrung pl=Erfahrungen
 Erfassung noun g=f gen=Erfassung pl=- note=no plural
 Erfinder noun g=m gen=Erfinders pl=Erfinder
@@ -406,6 +414,7 @@ Etat noun g=m gen=Etats pl=Etats
 Ethanol noun g=n gen=Ethanols pl=- note=no plural
 Ethik noun g=f gen=Ethik pl=- note=no plural
 Ethnie noun g=f gen=Ethnie pl=Ethnien
+Ethnologie noun g=f gen=Ethnologie pl=- note=academic discipline
 Etikett noun g=n gen=Etiketts pl=Etikette|Etiketten|Etiketts
 Eule noun g=f gen=Eule pl=Eulen
 Euphemismus noun g=m gen=Euphemismus pl=Euphemismen

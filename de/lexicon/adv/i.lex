@@ -1,4 +1,5 @@
 ihrerseits adv
+immerdar adv type=time style=archaic
 immerfort adv
 infrage adv
 inne adv

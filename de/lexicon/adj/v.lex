@@ -29,6 +29,7 @@ vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
+verhängnisvoll adj cmp=verhängnisvoller sup=verhängnisvollsten
 verheerend adj cmp=verheerender sup=verheerendsten
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verklärt adj
@@ -45,6 +46,7 @@ vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschlagen adj cmp=verschlagener sup=verschlagensten note=cunning
 verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
 verschnupft adj
@@ -54,6 +56,7 @@ verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
 versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
+verständig adj cmp=verständiger sup=verständigsten
 verständlich adj cmp=verständlicher sup=verständlichsten
 versunken adj
 vertikal adj
@@ -65,6 +68,7 @@ verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
 verwitwet adj
+verworren adj cmp=verworrener sup=verworrensten
 verwunderlich adj
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj

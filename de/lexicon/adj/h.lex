@@ -1,6 +1,8 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
+habsburgisch adj
 halb         adj note=not compared; ein halber Liter
+hannoversch adj
 hären adj conf=80 note=rare, hären = of hair
 harmlos adj cmp=harmloser sup=harmlosesten
 harmonisch adj
@@ -47,6 +49,7 @@ historisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
+höfisch adj
 höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten
 hold adj cmp=holder sup=holdesten style=archaic

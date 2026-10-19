@@ -28,6 +28,7 @@ gehören verb class=weak pp=gehört perf=haben
 geigen verb class=weak pp=gegeigt perf=haben
 geizen verb class=weak pp=geizt perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
+geleiten verb class=weak pp=geleitet perf=haben
 gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein pp_cmp
 gelten verb class=strong 3sg=gilt past=galt pp=gegolten subj2=gälte|gölte perf=haben
 genehmigen verb class=weak pp=genehmigt perf=haben
@@ -49,6 +50,7 @@ gewichten verb class=weak pp=gewichtet perf=haben
 gewinnen verb class=strong 3sg=gewinnt past=gewann pp=gewonnen subj2=gewönne|gewänne perf=haben
 gewittern verb class=weak pp=gewittert perf=haben
 gewöhnen verb class=weak pp=gewöhnt perf=haben refl=acc
+geziemen verb class=weak pp=geziemt perf=haben refl=acc style=archaic note=es geziemt sich
 gießen verb class=strong 3sg=gießt past=goss pp=gegossen subj2=gösse perf=haben
 glänzen verb class=weak pp=geglänzt perf=haben
 glasieren verb class=weak pp=glasiert perf=haben

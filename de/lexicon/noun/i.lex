@@ -30,6 +30,7 @@ Implementierung noun g=f gen=Implementierung pl=Implementierungen
 Import noun g=m gen=Imports pl=Importe
 Importeur noun g=m gen=Importeurs pl=Importeure
 Importeurin noun g=f gen=Importeurin pl=Importeurinnen
+Impressionismus noun g=m gen=Impressionismus pl=- note=mass noun
 Impressum noun g=n gen=Impressums pl=Impressen
 Impuls noun g=m gen=Impulses pl=Impulse
 Inanspruchnahme noun g=f gen=Inanspruchnahme pl=- note=mass noun
@@ -40,6 +41,7 @@ Inderin noun g=f gen=Inderin pl=Inderinnen
 Index noun g=m gen=Index|Indexes pl=Indizes|Indexe
 Indianer noun g=m gen=Indianers pl=Indianer
 Indianerin noun g=f gen=Indianerin pl=Indianerinnen
+Indigo noun g=m|n gen=Indigos pl=Indigos conf=85 note=dye; der/das Indigo, plural rare
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
 Individuum noun g=n gen=Individuums pl=Individuen
@@ -69,6 +71,7 @@ Inhaltsangabe noun g=f gen=Inhaltsangabe pl=Inhaltsangaben
 Initiative noun g=f gen=Initiative pl=Initiativen
 Initiator noun g=m gen=Initiators pl=Initiatoren
 Initiatorin noun g=f gen=Initiatorin pl=Initiatorinnen
+Injektion noun g=f gen=Injektion pl=Injektionen
 Inkasso noun g=n gen=Inkassos pl=Inkassos|Inkassi
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
@@ -88,6 +91,7 @@ Insektizid noun g=n gen=Insektizids pl=Insektizide
 Insel noun g=f gen=Insel pl=Inseln
 Insolenz noun g=f gen=Insolenz pl=Insolenzen
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
+Inspekteur noun g=m gen=Inspekteurs pl=Inspekteure
 Inspektion noun g=f gen=Inspektion pl=Inspektionen
 Inspektor noun g=m gen=Inspektors pl=Inspektoren
 Inspektorin noun g=f gen=Inspektorin pl=Inspektorinnen
@@ -120,6 +124,8 @@ Interjektion noun g=f gen=Interjektion pl=Interjektionen
 Internat noun g=n gen=Internats pl=Internate
 Internet noun g=n gen=Internets pl=- note=plural not used
 Internetseite noun g=f gen=Internetseite pl=Internetseiten
+Internist noun g=m gen=Internisten pl=Internisten
+Internistin noun g=f gen=Internistin pl=Internistinnen
 Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
 Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen
@@ -144,6 +150,7 @@ ISBN noun g=f gen=ISBN pl=- note=Internationale Standardbuchnummer
 Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
 Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
+Israelit noun g=m gen=Israeliten pl=Israeliten
 IT noun g=f gen=IT pl=- note=Informationstechnik
 Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians
 Italiener noun g=m gen=Italieners pl=Italiener

@@ -62,6 +62,7 @@ regieren verb class=weak pp=regiert perf=haben
 registrieren verb class=weak pp=registriert perf=haben refl=acc
 regnen verb class=weak pp=geregnet perf=haben
 regulieren verb class=weak pp=reguliert perf=haben
+rehabilitieren verb class=weak pp=rehabilitiert perf=haben
 reiben verb class=strong 3sg=reibt past=rieb pp=gerieben subj2=riebe perf=haben refl=acc
 reichen verb class=weak pp=gereicht perf=haben
 reifen verb class=weak pp=gereift perf=sein|haben
@@ -113,6 +114,7 @@ resultieren verb class=weak pp=resultiert perf=haben
 retten verb class=weak pp=gerettet perf=haben
 revidieren verb class=weak pp=revidiert perf=haben
 revoltieren verb class=weak pp=revoltiert perf=haben
+rezipieren verb class=weak pp=rezipiert perf=haben
 rezitieren verb class=weak pp=rezitiert perf=haben
 richten verb class=weak pp=gerichtet perf=haben refl=acc
 riechen verb class=strong 3sg=riecht past=roch pp=gerochen subj2=röche perf=haben

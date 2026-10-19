@@ -64,6 +64,7 @@ Hansestadt noun g=f gen=Hansestadt pl=Hansestädte
 Hantel noun g=f gen=Hantel pl=Hanteln
 Hanukka noun g=n gen=Hanukkas pl=- note=no plural (mass or abstract noun)
 Hardware noun g=f gen=Hardware pl=- note=mass noun
+Harem noun g=m gen=Harems pl=Harems
 Harfe noun g=f gen=Harfe pl=Harfen
 Harke noun g=f gen=Harke pl=Harken
 Harmonie noun g=f gen=Harmonie pl=Harmonien
@@ -83,6 +84,8 @@ Hauch noun g=m gen=Hauchs|Hauches pl=Hauche
 Hauer noun g=m gen=Hauers pl=Hauer
 Haufen noun g=m gen=Haufens pl=Haufen
 Häufigkeit noun g=f gen=Häufigkeit pl=Häufigkeiten
+Häuflein noun g=n gen=Häufleins pl=Häuflein
+Häufung noun g=f gen=Häufung pl=Häufungen
 Haupt noun g=n gen=Hauptes|Haupts pl=Häupter
 Hauptdarstellerin noun g=f gen=Hauptdarstellerin pl=Hauptdarstellerinnen
 Hauptfigur noun g=f gen=Hauptfigur pl=Hauptfiguren
@@ -123,6 +126,7 @@ Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
 Heidelbeere noun g=f gen=Heidelbeere pl=Heidelbeeren
 Heidelberger noun g=m gen=Heidelbergers pl=Heidelberger note=inhabitant of Heidelberg; also the indeclinable adjective
+Heidentum noun g=n gen=Heidentums pl=- note=mass noun
 Heil noun g=n gen=Heils|Heiles pl=- note=salvation; plural not used
 Heiland noun g=m gen=Heiland|Heilands pl=Heilande note=mostly der Heiland (Christ)
 Heiligabend noun g=m gen=Heiligabends pl=Heiligabende
@@ -139,9 +143,11 @@ Heimweh noun g=n gen=Heimwehs pl=- note=mass noun
 Heirat noun g=f gen=Heirat pl=Heiraten
 Heißluftballon noun g=m gen=Heißluftballons pl=Heißluftballons|Heißluftballone
 Heiterkeit noun g=f gen=Heiterkeit pl=- note=mass noun
+Heizer noun g=m gen=Heizers pl=Heizer
 Heizkörper noun g=m gen=Heizkörpers pl=Heizkörper
 Heizung noun g=f gen=Heizung pl=Heizungen
 Hektar noun g=m|n gen=Hektars pl=Hektar|Hektare
+Hektoliter noun g=m|n gen=Hektoliters pl=Hektoliter
 Held noun g=m gen=Helden pl=Helden
 Heldin noun g=f gen=Heldin pl=Heldinnen
 Helfer noun g=m gen=Helfers pl=Helfer
@@ -180,6 +186,7 @@ Hersteller noun g=m gen=Herstellers pl=Hersteller
 Herstellerin noun g=f gen=Herstellerin pl=Herstellerinnen
 Herstellung noun g=f gen=Herstellung pl=Herstellungen
 Herz noun g=n sg=Herz,Herzens,Herzen|Herze[archaic],Herz pl=Herzen
+Herzchen noun g=n gen=Herzchens pl=Herzchen
 Herzinfarkt noun g=m gen=Herzinfarkts|Herzinfarktes pl=Herzinfarkte
 Herzklopfen noun g=n gen=Herzklopfens pl=- note=no plural (mass or abstract noun)
 Herzog noun g=m sg=Herzog,Herzogs,Herzog|Herzoge[archaic],Herzog pl=Herzöge
@@ -240,6 +247,7 @@ Hochzeit noun g=f gen=Hochzeit pl=Hochzeiten
 Hochzeitsreise noun g=f gen=Hochzeitsreise pl=Hochzeitsreisen note=compound; the analyser would take Reis as head
 Hocker noun g=m gen=Hockers pl=Hocker
 Hockey noun g=n gen=Hockeys pl=- note=sport; mass noun
+Hodscha noun g=m gen=Hodschas pl=Hodschas conf=80 note=Islamic teacher; plural uncertain
 Hof noun g=m gen=Hofes|Hofs pl=Höfe
 Hoffnung noun g=f gen=Hoffnung pl=Hoffnungen
 Höflichkeit noun g=f gen=Höflichkeit pl=Höflichkeiten
@@ -292,6 +300,7 @@ Huf noun g=m gen=Hufs|Hufes pl=Hufe
 Hufeisen noun g=n gen=Hufeisens pl=Hufeisen note=compound; the analyser would take Eis as head
 Hüfte noun g=f gen=Hüfte pl=Hüften
 Hügel noun g=m gen=Hügels pl=Hügel
+Hugenotte noun g=m gen=Hugenotten pl=Hugenotten
 Huhn noun g=n gen=Huhns|Huhnes pl=Hühner
 Hühnchen noun g=n gen=Hühnchens pl=Hühnchen
 Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
@@ -299,6 +308,7 @@ Hülle noun g=f gen=Hülle pl=Hüllen
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
 Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
+Humanmedizin noun g=f gen=Humanmedizin pl=- note=mass noun
 Hummel noun g=f gen=Hummel pl=Hummeln
 Hummer noun g=m gen=Hummers pl=Hummer
 Hummus noun g=m gen=Hummus pl=- note=no plural
@@ -315,6 +325,7 @@ Hungersnot noun g=f gen=Hungersnot pl=Hungersnöte
 Hupe noun g=f gen=Hupe pl=Hupen
 Hüpfseil noun g=n gen=Hüpfseils|Hüpfseiles pl=Hüpfseile
 Hürde noun g=f gen=Hürde pl=Hürden
+Hure noun g=f gen=Hure pl=Huren
 Hurrikan noun g=m gen=Hurrikans pl=Hurrikane|Hurrikans
 Husten noun g=m gen=Hustens pl=- note=cough; no plural in practice
 Hut noun g=m gen=Hutes|Huts pl=Hüte sense=hat

@@ -8,6 +8,7 @@ malen verb class=weak pp=gemalt perf=haben
 mampfen verb class=weak pp=gemampft perf=haben style=colloquial
 managen verb class=weak pp=gemanagt perf=haben
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
+manifestieren verb class=weak pp=manifestiert perf=haben refl=acc
 manipulieren verb class=weak pp=manipuliert perf=haben
 marinieren verb class=weak pp=mariniert perf=haben
 markieren verb class=weak pp=markiert perf=haben
@@ -34,6 +35,7 @@ mindern verb class=weak pp=gemindert perf=haben refl=acc
 minimieren verb class=weak pp=minimiert perf=haben
 mischen verb class=weak pp=gemischt perf=haben refl=acc
 missbrauchen verb class=weak pp=missbraucht perf=haben
+missen verb class=weak pp=gemisst perf=haben
 missfallen verb class=strong 3sg=missfällt past=missfiel subj2=missfiele pp=missfallen perf=haben
 misshandeln verb class=weak pp=misshandelt perf=haben
 misslingen verb class=strong 3sg=misslingt past=misslang pp=misslungen subj2=misslänge perf=sein
@@ -88,6 +90,7 @@ mitziehen verb class=strong sep=mit 3sg=mitzieht past=mitzog subj2=mitzöge pp=m
 mixen verb class=weak pp=gemixt perf=haben
 mobben verb class=weak pp=gemobbt perf=haben
 mobilisieren verb class=weak pp=mobilisiert perf=haben
+modellieren verb class=weak pp=modelliert perf=haben
 modeln verb class=weak pp=gemodelt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben

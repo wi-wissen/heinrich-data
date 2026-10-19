@@ -17,6 +17,7 @@ naiv adj cmp=naiver sup=naivsten
 namentlich adj
 nämlich adj attr_only style=archaic note=der nämliche = derselbe
 narbig adj
+närrisch adj cmp=närrischer sup=närrischsten
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
 nationalistisch adj

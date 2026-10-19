@@ -1,4 +1,5 @@
 eben adj cmp=ebener sup=ebensten note=flat (eine ebene Fläche)
+ebenbürtig adj
 echt adj cmp=echter sup=echtesten
 eckig adj cmp=eckiger sup=eckigsten
 edel adj cmp=edler sup=edelsten
@@ -23,6 +24,7 @@ einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingeschnappt adj
+eingeschossig adj
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
@@ -82,6 +84,7 @@ erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
 erfreulich adj cmp=erfreulicher sup=erfreulichsten
+ergonomisch adj
 erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
@@ -99,6 +102,7 @@ erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstaunt adj cmp=erstaunter sup=erstauntesten
 erstmalig adj
 erwachsen adj
+erwähnenswert adj
 erwünscht adj
 erzählend adj
 estnisch adj

@@ -62,8 +62,10 @@ Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Chor          noun g=m gen=Chores|Chors pl=Chöre
+Chorus noun g=m gen=Chorus pl=Chorusse conf=80 note=jazz chorus; plural uncertain
 Christ noun g=m gen=Christen pl=Christen
 Christentum noun g=n gen=Christentums pl=- note=no plural
+Christianisierung noun g=f gen=Christianisierung pl=- note=mass noun
 Christin noun g=f gen=Christin pl=Christinnen
 Chromosom noun g=n gen=Chromosoms pl=Chromosomen
 Chronik noun g=f gen=Chronik pl=Chroniken
@@ -113,6 +115,7 @@ Cover noun g=n gen=Covers pl=Covers
 Covid noun g=n gen=Covid|Covids pl=- conf=60 note=COVID-19; gender fluctuates
 Cowboy noun g=m gen=Cowboys pl=Cowboys
 Coworking noun g=n gen=Coworkings pl=- note=mass noun
+Credo noun g=n gen=Credos pl=Credos
 Creme noun g=f gen=Creme pl=Cremes|Cremen
 Crêpe noun g=m|f gen=Crêpe pl=Crêpes
 Crew noun g=f gen=Crew pl=Crews
@@ -125,3 +128,4 @@ Currywurst noun g=f gen=Currywurst pl=Currywürste
 Cursor noun g=m gen=Cursors pl=Cursor|Cursors
 Cyberangriff noun g=m gen=Cyberangriffs|Cyberangriffes pl=Cyberangriffe
 Cybermobbing noun g=n gen=Cybermobbings pl=- note=no plural
+Cybersicherheit noun g=f gen=Cybersicherheit pl=- note=mass noun

@@ -78,6 +78,7 @@ Negerin noun g=f gen=Negerin pl=Negerinnen style=archaic|offensive alt=Schwarze_
 Negerkuss noun g=m gen=Negerkusses pl=Negerküsse style=offensive alt=Schokokuss
 Neid noun g=m gen=Neides|Neids pl=- note=no plural
 Neigung noun g=f gen=Neigung pl=Neigungen
+Nekropole noun g=f gen=Nekropole pl=Nekropolen
 Nektar noun g=m gen=Nektars pl=Nektare
 Nektarine noun g=f gen=Nektarine pl=Nektarinen
 Nelke noun g=f gen=Nelke pl=Nelken
@@ -97,6 +98,8 @@ Neugier noun g=f gen=Neugier pl=- note=abstract noun
 Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
 Neujahr noun g=n gen=Neujahrs pl=Neujahre
+Neurologe noun g=m gen=Neurologen pl=Neurologen
+Neurologin noun g=f gen=Neurologin pl=Neurologinnen
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutron noun g=n gen=Neutrons pl=Neutronen
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
@@ -104,6 +107,7 @@ Newsletter noun g=m gen=Newsletters pl=Newsletter
 NGO noun g=f gen=NGO pl=NGOs
 Nichte noun g=f gen=Nichte pl=Nichten
 Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
+Nichtstun noun g=n gen=Nichtstuns pl=- note=mass noun
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
@@ -114,11 +118,13 @@ Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
+Nimbus noun g=m gen=Nimbus pl=Nimbusse note=no genitive ending
 Nische noun g=f gen=Nische pl=Nischen
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
 Nomenklatur noun g=f gen=Nomenklatur pl=Nomenklaturen
+Nominatform noun g=f gen=Nominatform pl=Nominatformen note=biology
 Nominativ noun g=m gen=Nominativs pl=Nominative
 Nominierung noun g=f gen=Nominierung pl=Nominierungen
 Nonne noun g=f gen=Nonne pl=Nonnen

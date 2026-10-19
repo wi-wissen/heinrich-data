@@ -33,6 +33,7 @@ schlank adj cmp=schlanker sup=schlanksten
 schlapp adj cmp=schlapper sup=schlappsten
 schlau adj cmp=schlauer sup=schlausten|schlauesten
 schlecht adj cmp=schlechter sup=schlechtesten
+schleswig-holsteinisch adj
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
@@ -46,10 +47,12 @@ schnell adj cmp=schneller sup=schnellsten
 schnellstmöglich adj
 schnippisch adj cmp=schnippischer sup=schnippischsten
 schön adj cmp=schöner sup=schönsten
+schonungslos adj cmp=schonungsloser sup=schonungslosesten
 schottisch adj
 schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
 schriftlich adj
+schriftstellerisch adj
 schroff adj cmp=schroffer sup=schroffsten
 schüchtern adj cmp=schüchterner sup=schüchternsten
 schuld adj pred_only note=predicative only (er ist schuld, schuld sein an); the noun is Schuld
@@ -64,6 +67,7 @@ schwachsinnig adj cmp=schwachsinniger sup=schwachsinnigsten
 schwanger adj
 schwarz adj cmp=schwärzer|schwarzer[rare] sup=schwärzesten|schwarzesten[rare]
 schwarzhaarig adj
+schwärzlich adj
 schwarzweiß adj indecl
 schwedisch adj
 schweigsam adj cmp=schweigsamer sup=schweigsamsten
@@ -73,6 +77,7 @@ schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
+sechziger adj indecl note=die sechziger Jahre
 seelisch adj
 sehenswert adj
 sehnlich adj
@@ -143,6 +148,7 @@ sporadisch adj
 sportlich adj cmp=sportlicher sup=sportlichsten
 spöttisch adj cmp=spöttischer sup=spöttischsten
 sprachlich adj
+spröde adj cmp=spröder sup=sprödesten
 staatlich adj
 stabil adj cmp=stabiler sup=stabilsten
 stachelig adj cmp=stacheliger sup=stacheligsten
@@ -154,6 +160,7 @@ starr adj cmp=starrer sup=starrsten
 stationär adj
 statisch adj
 statistisch adj
+statthaft adj
 stattlich adj cmp=stattlicher sup=stattlichsten
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
@@ -172,6 +179,7 @@ stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
+stramm adj cmp=strammer sup=strammsten
 strategisch adj
 strebsam adj cmp=strebsamer sup=strebsamsten
 streng adj cmp=strenger sup=strengsten

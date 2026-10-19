@@ -45,6 +45,8 @@ posten verb class=weak pp=gepostet perf=haben
 prägen verb class=weak pp=geprägt perf=haben
 prahlen verb class=weak pp=geprahlt perf=haben
 praktizieren verb class=weak pp=praktiziert perf=haben
+prämieren verb class=weak pp=prämiert perf=haben
+prämiieren verb class=weak pp=prämiiert perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 prasseln verb class=weak pp=geprasselt perf=haben|sein
 präzisieren verb class=weak pp=präzisiert perf=haben

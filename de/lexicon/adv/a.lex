@@ -8,6 +8,8 @@ allesamt adv
 alsbald adv
 alsdann adv
 anbei adv note=in letters: anbei erhalten Sie
+anderenfalls adv type=conj
+andernorts adv type=place
 anscheinend adv
 aufwärts adv
 ausnahmsweise adv

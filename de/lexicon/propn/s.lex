@@ -13,6 +13,7 @@ Savoyen propn g=n gen=Savoyens pl=- note=proper name, no plural
 Schlesien propn g=n gen=Schlesiens pl=- note=proper name, no plural
 Schleswig propn g=n gen=Schleswigs pl=- note=city and region
 Schleswig-Holstein propn g=n gen=Schleswig-Holsteins pl=- note=federal state
+Schmalkalden propn g=n gen=Schmalkaldens pl=- note=proper name; no plural
 Schottland propn g=n gen=Schottlands pl=- note=proper name, no plural
 Schwaben propn g=n gen=Schwabens pl=- note=region; proper name, no plural
 Schweden propn g=n gen=Schwedens pl=- note=proper name, no plural

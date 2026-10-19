@@ -19,6 +19,7 @@ Japanerin noun g=f gen=Japanerin pl=Japanerinnen
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
+Jesuskind noun g=n gen=Jesuskinds|Jesuskindes pl=- note=das Jesuskind; lexicalised religious term
 Jetlag noun g=m gen=Jetlags pl=Jetlags
 Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
@@ -54,6 +55,7 @@ Jüngling noun g=m gen=Jünglings pl=Jünglinge
 Juni noun g=m sg=Juni,Juni|Junis,Juni,Juni pl=- note=month name; plural not used
 Junior noun g=m gen=Juniors pl=Junioren
 Junker noun g=m gen=Junkers pl=Junker
+Junta noun g=f gen=Junta pl=Junten|Juntas
 Jura noun g=n gen=Jura pl=- note=Jura studieren; used without article
 Jurist noun g=m gen=Juristen pl=Juristen
 Juristin noun g=f gen=Juristin pl=Juristinnen
