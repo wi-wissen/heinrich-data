@@ -17,6 +17,7 @@ cant verb
 canter verb
 cap verb
 capitalize verb gb=capitalise|capitalize
+capitulate verb
 captain verb
 caption verb
 captivate verb
@@ -37,6 +38,7 @@ cascade verb
 case verb
 cash verb
 cast verb past=cast pp=cast
+castle verb note=chess move
 catalog verb gb=catalogue|catalog
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
@@ -78,6 +80,7 @@ chatter verb
 chauffeur verb
 cheat verb
 check verb
+checkmate verb
 cheer verb
 cherish verb
 chew verb
@@ -87,6 +90,7 @@ chime verb
 chip verb
 chirp verb
 chisel verb
+chloroform verb
 choke verb
 chomp verb
 choose verb past=chose pp=chosen
@@ -100,6 +104,7 @@ chuckle verb
 cipher verb
 circle verb
 circulate verb
+circumscribe verb
 circumvent verb
 cite verb
 civilize verb gb=civilise|civilize
@@ -135,6 +140,7 @@ close verb
 closet verb
 clothe verb past=clothed|clad pp=clothed|clad note=clad is literary or technical
 cloud verb
+clout verb
 clown verb
 club verb
 clue verb ing=clueing|cluing
@@ -155,6 +161,7 @@ code verb
 codename verb
 codify verb
 coerce verb
+coexist verb
 cohabit verb
 cohabitate verb note=US variant of cohabit
 coil verb
@@ -174,6 +181,7 @@ combine verb
 come verb past=came pp=come
 comfort verb
 command verb
+commandeer verb
 commemorate verb
 commence verb
 commend verb
@@ -196,6 +204,7 @@ complicate verb
 compliment verb
 comply verb
 compose verb
+compost verb
 compound verb
 comprehend verb
 compress verb
@@ -209,6 +218,7 @@ concede verb
 conceive verb
 concentrate verb
 concern verb
+conciliate verb
 conclude verb
 concur verb double
 condemn verb
@@ -285,14 +295,17 @@ cop verb
 cope verb
 copy verb
 copyright verb
+cordon verb
 corner verb
 corral verb double
 correct verb
 correlate verb
 correspond verb
 corroborate verb
+corrode verb
 corrupt verb
 cost verb past=cost pp=cost
+costume verb
 couch verb
 cough verb
 counsel verb
@@ -301,6 +314,7 @@ countenance verb
 counter verb
 counteract verb
 counterattack verb
+counterbalance verb
 counterfeit verb
 countersign verb
 couple verb
@@ -309,6 +323,7 @@ covenant verb
 cover verb
 covet verb
 cow verb
+cower verb
 crack verb
 crackle verb
 cradle verb

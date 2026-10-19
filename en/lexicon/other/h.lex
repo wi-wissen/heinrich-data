@@ -1,4 +1,6 @@
 ha             intj
+habeas x foreign note=only in habeas corpus
+hallelujah intj
 HD             x abbr note=high definition
 hello          intj
 Herr x foreign note=German title Mr.

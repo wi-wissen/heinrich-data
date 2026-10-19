@@ -221,6 +221,7 @@ herzeigen verb class=weak sep=her pp=hergezeigt perf=haben
 herziehen verb class=strong sep=her 3sg=herzieht past=herzog subj2=herzöge pp=hergezogen perf=haben|sein
 hetzen verb class=weak pp=gehetzt perf=haben|sein
 heucheln verb class=weak pp=geheuchelt perf=haben
+heuern verb class=weak pp=geheuert perf=haben
 heulen verb class=weak pp=geheult perf=haben
 hierbleiben verb class=strong sep=hier 3sg=hierbleibt past=hierblieb pp=hiergeblieben subj2=hierbliebe perf=sein
 hinaufblicken verb class=weak sep=hinauf pp=hinaufgeblickt perf=haben

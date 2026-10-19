@@ -60,6 +60,7 @@ kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
+konfessionell adj
 konform adj note=mit etwas konform gehen; base of datenschutzkonform, gesetzeskonform
 kongruent adj
 königlich adj

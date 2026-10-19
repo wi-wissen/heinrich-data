@@ -6,6 +6,7 @@ race noun
 racecourse noun
 racehorse noun
 racer noun
+racetrack noun
 racing noun pl=- note=uncountable
 racism noun pl=- note=uncountable
 racist noun
@@ -17,9 +18,11 @@ radiance noun pl=- note=uncountable
 radiation noun note=plural radiations: kinds of radiation; adaptive radiations
 radiator noun
 radical noun
+radicalization noun gb=radicalisation|radicalization
 radio noun pl=radios
 radioisotope noun
 radiopharmaceutical noun
+radiotherapy noun pl=- note=uncountable
 radish noun
 radius noun pl=radii|radiuses
 raft noun
@@ -40,6 +43,7 @@ raincoat noun
 raindrop noun
 rainfall noun
 rainforest noun
+rainwater noun pl=- note=uncountable
 raise noun
 raisin noun
 raja noun conf=90 note=also spelled rajah
@@ -75,6 +79,7 @@ rash noun
 raspberry noun
 rat noun
 rate noun
+ratepayer noun
 ratification noun
 rating noun
 ratio noun pl=ratios
@@ -94,8 +99,11 @@ re-release noun
 reach noun
 reaction noun
 reactionary noun
+reactivity noun
 reactor noun
+readability noun pl=- note=uncountable
 reader noun
+readership noun
 readiness noun pl=- note=uncountable
 reading noun
 reagent noun
@@ -107,6 +115,7 @@ realization noun gb=realisation|realization
 reallocation noun
 realm noun
 realtor noun conf=90 note=chiefly American; British estate agent
+realty noun pl=- region=US note=real estate; uncountable
 reappearance noun
 reappointment noun
 rear noun
@@ -122,6 +131,7 @@ rebellion noun
 rebirth noun
 reboot noun
 rebound noun
+rebuff noun
 rebuke noun
 rebuttal noun
 recall noun
@@ -138,6 +148,7 @@ receptor noun
 recertification noun
 recess noun
 recession noun
+recharge noun
 recipe noun
 recipient noun
 reciprocity noun pl=- note=uncountable
@@ -146,9 +157,11 @@ recitation noun
 recklessness noun pl=- note=uncountable
 reclamation noun
 reclassification noun
+recluse noun
 recognition noun
 recoil noun
 recollection noun
+recombination noun
 recommendation noun
 recompense noun pl=- note=uncountable
 reconciliation noun
@@ -177,6 +190,8 @@ recycling noun pl=- note=uncountable
 red noun
 redaction noun
 redcurrant noun
+rededication noun
+redeemer noun
 redemption noun
 redeployment noun
 redesign noun
@@ -186,6 +201,7 @@ redevelopment noun
 redirect noun
 redistribution noun
 redistricting noun pl=- note=uncountable
+redox noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
@@ -193,10 +209,12 @@ redundancy noun
 redwood noun
 reed noun
 reef noun pl=reefs
+reek noun
 reel noun
 reentry noun note=re-entry is the usual British spelling
 reevaluation noun conf=90 note=also re-evaluation
 ref noun style=colloquial note=referee; reference
+refectory noun
 referee noun
 reference noun
 referendum noun pl=referendums|referenda
@@ -209,7 +227,9 @@ reform noun
 reformation noun note=the historical Reformation is a separate propn
 reformer noun
 reformist noun
+refraction noun
 refrain noun
+refresher noun
 refreshment noun
 refrigerant noun
 refrigeration noun pl=- note=uncountable
@@ -241,6 +261,7 @@ regular noun
 regularity noun
 regulation noun
 regulator noun
+rehab noun
 rehabilitation noun pl=- note=uncountable
 rehearing noun
 rehearsal noun
@@ -251,10 +272,12 @@ reindeer noun pl=reindeer
 reinforcement noun
 reinstatement noun
 reinsurance noun pl=- note=uncountable
+reintegration noun pl=- note=uncountable
 reintroduction noun
 reinvestment noun
 reissue noun
 rejection noun
+rejoinder noun
 relapse noun
 relation noun
 relationship noun
@@ -294,12 +317,15 @@ remonstrance noun
 remorse noun pl=- note=uncountable
 remortgage noun region=GB
 remote noun note=remote control
+remoteness noun pl=- note=uncountable
 removable noun conf=80 note=a removable part; rare as a noun
 removal noun
 remuneration noun
 renaissance noun
 rendezvous noun pl=rendezvous
 rendition noun
+renegade noun
+renegotiation noun
 renewable noun
 renewal noun
 renovation noun
@@ -317,6 +343,7 @@ repayment noun
 repeal noun
 repeat noun
 repeatability noun pl=- note=uncountable
+repellent noun
 repentance noun pl=- note=uncountable
 repercussion noun
 repertoire noun
@@ -348,6 +375,7 @@ reproof noun note=plural reproofs
 reptile noun
 republic noun
 republican noun
+repudiation noun
 repugnance noun
 repulsion noun
 repurchase noun
@@ -376,6 +404,7 @@ reservist noun
 reservoir noun
 reset noun
 resettlement noun
+reshuffle noun
 residence noun
 residency noun
 resident noun
@@ -386,9 +415,11 @@ resilience noun pl=- note=uncountable
 resiliency noun pl=- note=uncountable
 resin noun
 resistance noun
+resistivity noun
 resolution noun
 resolve noun pl=- note=uncountable
 resonance noun
+resonator noun
 resort noun
 resource noun
 respect noun
@@ -406,6 +437,7 @@ restaurant noun
 restitution noun pl=- note=uncountable
 restlessness noun pl=- note=uncountable
 restoration noun
+restorative noun
 restraint noun
 restriction noun
 restroom noun
@@ -421,6 +453,7 @@ retailer noun
 retainer noun
 retake noun
 retaliation noun pl=- note=uncountable
+retelling noun
 retention noun pl=- note=uncountable
 rethink noun
 reticence noun pl=- note=uncountable
@@ -443,6 +476,7 @@ reuse noun
 revaluation noun
 revel noun
 revelation noun
+revelry noun
 revenge noun note=plural revenges is literary
 revenue noun
 reverence noun note=plural reverences: bows (archaic)
@@ -466,6 +500,7 @@ revulsion noun pl=- note=uncountable
 reward noun
 rewrite noun
 RFI noun abbr note=request for information
+rhapsody noun
 rhetoric noun pl=- note=uncountable
 rheumatism noun
 rhino noun pl=rhinos
@@ -488,6 +523,7 @@ ridge noun
 ridicule noun pl=- note=uncountable
 riff noun
 rifle noun
+rifleman noun pl=riflemen
 rift noun
 rig noun
 rigging noun
@@ -498,6 +534,8 @@ rigidity noun
 rigor noun gb=rigour
 rim noun
 ring noun
+ringette noun pl=- note=uncountable; sport
+ringlet noun
 ringtone noun
 rink noun
 riot noun
@@ -512,6 +550,7 @@ ritual noun
 rival noun
 rivalry noun
 river noun
+riverfront noun
 riverside noun
 rivet noun
 rivulet noun
@@ -529,6 +568,7 @@ robe noun
 robin noun
 robot noun
 robotics noun pl=- note=uncountable
+robustness noun pl=- note=uncountable
 rock noun
 rocker noun
 rocket noun
@@ -536,6 +576,7 @@ rockfish noun pl=rockfish|rockfishes
 rod noun
 rodent noun
 rodeo noun
+roebuck noun pl=roebuck|roebucks
 rogue noun
 ROI noun abbr pl=- note=return on investment
 role noun
@@ -550,13 +591,18 @@ Romanian noun note=demonym or religious name, capitalized
 romantic noun
 roof noun pl=roofs
 roofing noun pl=- note=material
+rooftop noun
 rook noun
+rookery noun
 rookie noun
 room noun
+roommate noun
 rooster noun
 root noun
 rope noun
+rosary noun
 rose noun
+rosebud noun
 rosemary noun pl=- note=uncountable
 roster noun
 rostrum noun
@@ -564,7 +610,10 @@ rot noun
 rota noun region=GB note=US roster, schedule
 rotary noun
 rotation noun
+rotavirus noun
 rotor noun
+rotorcraft noun pl=rotorcraft
+rotunda noun
 rouge noun
 rough noun
 roughness noun
@@ -579,6 +628,7 @@ rover noun
 roving noun conf=90 note=wool fibre prepared for spinning; also roving reporter (verb form)
 row noun
 rowan noun
+rowboat noun region=US note=GB rowing boat
 rower noun
 rowing noun pl=- note=uncountable
 royal noun
@@ -596,6 +646,7 @@ rucksack noun
 rudder noun
 rudeness noun pl=- note=uncountable
 rue noun note=herb
+ruff noun
 ruffian noun
 ruffle noun
 rug noun
@@ -616,11 +667,14 @@ runner-up noun pl=runners-up
 runoff noun
 runtime noun
 runway noun
+rupee noun
 rupture noun
 ruse noun
 rush noun
+russet noun
 Russian noun note=demonym or religious name, capitalized
 rust noun
 rustle noun
+rut noun
 rye noun
 résumé noun conf=85 note=also written resume

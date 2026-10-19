@@ -40,6 +40,7 @@ adamant adj adv=adamantly
 adaptable adj cmp=more
 adaptive adj
 addicted adj
+addictive adj cmp=more
 additional adj adv=additionally
 adept adj cmp=more adv=adeptly
 adequate adj adv=adequately
@@ -54,6 +55,7 @@ admissible adj
 adolescent adj
 adoptive adj
 adorable adj cmp=more adv=adorably
+adrenal adj
 adrift adj pred_only
 adult adj
 advanced adj cmp=more
@@ -63,11 +65,14 @@ adverse adj cmp=more adv=adversely
 advisable adj
 advisory adj
 aerial adj
+aerobatic adj
 aerobic adj
 aerodynamic adj adv=aerodynamically
 aeronautical adj
 aesthetic adj us=esthetic|aesthetic adv=aesthetically conf=90 note=esthetic is a rarer American spelling
+affable adj adv=affably
 affectionate adj cmp=more adv=affectionately
+affine adj
 affirmative adj adv=affirmatively
 affluent adj cmp=more
 affordable adj cmp=more
@@ -83,6 +88,7 @@ aggressive adj cmp=more adv=aggressively
 aggrieved adj cmp=more
 aghast adj pred_only
 agile adj cmp=more adv=agilely
+agnostic adj
 agrarian adj
 agreeable adj cmp=more adv=agreeably
 agricultural adj adv=agriculturally
@@ -132,6 +138,8 @@ amiable adj cmp=more adv=amiably
 amicable adj cmp=more adv=amicably
 amino adj attr_only note=as in amino acid
 amiss adj pred_only
+amorous adj adv=amorously
+amorphous adj
 amphibious adj
 ample adj cmp=er adv=amply
 amusing adj cmp=more adv=amusingly
@@ -163,8 +171,10 @@ Antarctic adj
 antebellum adj
 anterior adj
 anthropogenic adj
+anthropological adj
 anthropomorphic adj
 anti-aircraft adj
+antiaircraft adj
 antidumping adj
 antimicrobial adj
 antiquarian adj
@@ -174,6 +184,8 @@ antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 antitrust adj
 anxious adj cmp=more adv=anxiously
+apocalyptic adj cmp=more adv=apocalyptically
+apocryphal adj
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
@@ -187,9 +199,11 @@ appreciative adj cmp=more adv=appreciatively
 apprehensive adj cmp=more
 approachable adj cmp=more
 appropriate adj adv=appropriately
+approvable adj
 approving adj adv=approvingly
 approximate adj adv=approximately
 apt adj cmp=er|more adv=aptly
+aqua adj
 aquatic adj
 aqueous adj
 Arab adj
@@ -220,10 +234,13 @@ artificial adj adv=artificially
 artistic adj adv=artistically
 arty adj cmp=er
 ascetic adj cmp=more adv=ascetically
+asexual adj adv=asexually
 ashamed adj pred_only
+ashen adj
 Ashkenazi adj
 Asian adj
 Asiatic adj
+askew adj pred_only
 asleep adj pred_only
 assertive adj cmp=more adv=assertively
 assiduous adj cmp=more adv=assiduously
@@ -233,6 +250,7 @@ associate adj
 assorted adj
 assured adj adv=assuredly
 Assyrian adj
+astir adj pred_only
 astronomical adj adv=astronomically
 astute adj cmp=more adv=astutely
 asymmetric adj
@@ -242,6 +260,7 @@ athletic adj
 Atlantic adj
 atmospheric adj
 atomic adj
+atrial adj
 atrocious adj adv=atrociously
 attainable adj
 attentive adj cmp=more adv=attentively
@@ -256,6 +275,7 @@ auditable adj
 auditory adj
 august adj note=dignified (an august body)
 auld adj note=Scots: old (auld lang syne)
+auspicious adj
 austere adj cmp=more adv=austerely
 Australian adj
 Austrian adj
@@ -265,13 +285,16 @@ authoritative adj cmp=more adv=authoritatively
 autistic adj
 autobiographical adj
 autocratic adj
+autoimmune adj
 automatic adj adv=automatically
 automotive adj
 autonomous adj adv=autonomously
+autosomal adj
 autumnal adj
 auxiliary adj
 available adj
 avant-garde adj
+avaricious adj cmp=more adv=avariciously
 average adj
 averse adj pred_only
 avian adj
@@ -283,6 +306,7 @@ aware adj cmp=more
 awesome adj cmp=more
 awful adj cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
+awry adj pred_only
 axial adj
 Azerbaijani adj
 Aztec adj

@@ -96,12 +96,14 @@ Karies noun g=f gen=Karies pl=- note=mass noun
 Karikatur noun g=f gen=Karikatur pl=Karikaturen
 Karikaturist noun g=m gen=Karikaturisten pl=Karikaturisten
 Karlsruher noun g=m gen=Karlsruhers pl=Karlsruher note=inhabitant of Karlsruhe; also the indeclinable adjective
+Karma noun g=n gen=Karmas pl=- note=mass noun, no plural
 Karneval noun g=m gen=Karnevals pl=Karnevale|Karnevals
 Karnickel noun g=n gen=Karnickels pl=Karnickel
 Kärntner noun g=m gen=Kärntners pl=Kärntner note=inhabitant of Carinthia; also the indeclinable adjective
 Karosserie noun g=f gen=Karosserie pl=Karosserien
 Karotte noun g=f gen=Karotte pl=Karotten
 Karpfen noun g=m gen=Karpfens pl=Karpfen
+Karre noun g=f gen=Karre pl=Karren note=variant of der Karren
 Karren noun g=m gen=Karrens pl=Karren
 Karriere noun g=f gen=Karriere pl=Karrieren
 Karte noun g=f gen=Karte pl=Karten
@@ -377,6 +379,8 @@ Kommentar noun g=m gen=Kommentars pl=Kommentare
 Kommentator noun g=m gen=Kommentators pl=Kommentatoren
 Kommentatorin noun g=f gen=Kommentatorin pl=Kommentatorinnen
 Kommerzienrat noun g=m gen=Kommerzienrats|Kommerzienrates pl=Kommerzienräte
+Kommilitone noun g=m gen=Kommilitonen pl=Kommilitonen
+Kommilitonin noun g=f gen=Kommilitonin pl=Kommilitoninnen
 Kommissar noun g=m gen=Kommissars pl=Kommissare
 Kommissarin noun g=f gen=Kommissarin pl=Kommissarinnen
 Kommission noun g=f gen=Kommission pl=Kommissionen
@@ -447,6 +451,7 @@ Konservatorium noun g=n gen=Konservatoriums pl=Konservatorien
 Konservierung noun g=f gen=Konservierung pl=Konservierungen
 Konsistenz noun g=f gen=Konsistenz pl=Konsistenzen
 Konsistorium noun g=n gen=Konsistoriums pl=Konsistorien
+Konskription noun g=f gen=Konskription pl=Konskriptionen
 Konsole noun g=f gen=Konsole pl=Konsolen
 Konsolidierung noun g=f gen=Konsolidierung pl=Konsolidierungen
 Konsonant noun g=m gen=Konsonanten pl=Konsonanten
@@ -599,6 +604,7 @@ Kriminalität noun g=f gen=Kriminalität pl=- note=no plural
 Kriminologie noun g=f gen=Kriminologie pl=- note=field of study
 Krippe noun g=f gen=Krippe pl=Krippen
 Krise noun g=f gen=Krise pl=Krisen
+Krisis noun g=f gen=Krisis pl=Krisen style=archaic note=older form of Krise
 Kristall noun g=m gen=Kristalls pl=Kristalle
 Kriterium noun g=n gen=Kriteriums pl=Kriterien
 Kritik noun g=f gen=Kritik pl=Kritiken
@@ -663,6 +669,7 @@ Kür noun g=f gen=Kür pl=Küren
 Kurator noun g=m gen=Kurators pl=Kuratoren
 Kuratorin noun g=f gen=Kuratorin pl=Kuratorinnen
 Kuratorium noun g=n gen=Kuratoriums pl=Kuratorien
+Kurbel noun g=f gen=Kurbel pl=Kurbeln
 Kürbis noun g=m gen=Kürbisses pl=Kürbisse
 Kurde noun g=m gen=Kurden pl=Kurden
 Kurfürst noun g=m gen=Kurfürsten pl=Kurfürsten

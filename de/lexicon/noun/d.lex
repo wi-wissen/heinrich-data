@@ -116,6 +116,7 @@ Deutung noun g=f gen=Deutung pl=Deutungen
 Devise noun g=f gen=Devise pl=Devisen
 Devisen noun g=pl note=foreign currency
 Dezember noun g=m gen=Dezember|Dezembers pl=Dezember[rare] note=month name; plural rare (die Dezember)
+Dezentralisierung noun g=f gen=Dezentralisierung pl=Dezentralisierungen
 Dezernat noun g=n gen=Dezernats|Dezernates pl=Dezernate
 Dezernent noun g=m gen=Dezernenten pl=Dezernenten
 Dezernentin noun g=f gen=Dezernentin pl=Dezernentinnen
@@ -200,10 +201,12 @@ Distanz noun g=f gen=Distanz pl=Distanzen
 Distel noun g=f gen=Distel pl=Disteln
 Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
+Divan noun g=m gen=Divans pl=Divane conf=80 note=older spelling of Diwan (Goethe, West-östlicher Divan)
 Diversität noun g=f gen=Diversität pl=- note=mass noun
 Diversity noun g=f gen=Diversity pl=- conf=85 note=English loanword; gender uncertain
 Dividende noun g=f gen=Dividende pl=Dividenden
 Division      noun g=f gen=Division pl=Divisionen
+Diwan noun g=m gen=Diwans pl=Diwane
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
 DNA noun g=f gen=DNA pl=- note=Desoxyribonukleinsäure

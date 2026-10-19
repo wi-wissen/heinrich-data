@@ -29,7 +29,9 @@ barrage verb
 barricade verb
 barter verb
 base verb
+bask verb
 bat verb
+batch verb
 bathe verb
 batter verb
 battle verb
@@ -42,6 +44,7 @@ become verb prefix=be past=became pp=become
 bed verb
 beef verb
 befall verb prefix=be past=befell pp=befallen
+befit verb double
 befriend verb
 beg verb
 begin verb past=began pp=begun double
@@ -52,6 +55,7 @@ behold verb prefix=be past=beheld pp=beheld
 believe verb
 bellow verb
 belong verb
+belt verb
 benchmark verb
 bend verb past=bent pp=bent
 benefit verb past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
@@ -61,6 +65,7 @@ beset verb past=beset pp=beset double
 besiege verb
 bestow verb
 bet verb past=bet pp=bet
+betake verb prefix=be past=betook pp=betaken style=archaic
 bethink verb prefix=be past=bethought pp=bethought style=archaic
 betray verb
 betroth verb
@@ -69,6 +74,7 @@ beware verb defective note=defective: only the base form (imperative, infinitive
 bewilder verb
 bewitch verb
 bias verb
+bicker verb
 bid verb past=bid|bade pp=bid|bidden
 bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
@@ -76,7 +82,9 @@ bill verb
 billow verb
 bind verb past=bound pp=bound
 bisect verb
+bitch verb style=colloquial
 bite verb past=bit pp=bitten
+bivouac verb past=bivouacked pp=bivouacked ing=bivouacking
 black verb
 blacken verb
 blacklist verb
@@ -94,6 +102,7 @@ blind verb
 blink verb
 blister verb
 blitz verb
+bloat verb
 block verb
 blog verb
 bloom verb
@@ -103,6 +112,7 @@ blow verb past=blew pp=blown
 bluff verb
 blunder verb
 blur verb
+blurt verb
 blush verb
 bluster verb
 board verb
@@ -122,6 +132,7 @@ boot verb
 border verb
 bore verb
 borrow verb
+botch verb
 bother verb
 bottle verb
 bounce verb
@@ -157,6 +168,7 @@ brim verb
 brine verb
 bring verb past=brought pp=brought
 bristle verb
+broach verb
 broadcast verb past=broadcast pp=broadcast
 broaden verb
 broker verb
@@ -168,6 +180,7 @@ brush verb
 bubble verb
 buckle verb
 bud verb
+budge verb
 budget verb
 buff verb
 buffet verb

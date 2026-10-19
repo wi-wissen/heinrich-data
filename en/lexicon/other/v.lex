@@ -1,9 +1,12 @@
+valorem x foreign note=only in ad valorem
 var. x abbr note=varietas, botanical variety
 versa x foreign note=only in vice versa
 Vicomte x foreign note=French title
 vitro x foreign note=only in in vitro
+vivo x foreign note=only in in vivo, ex vivo
 viz.          x abbr note=namely
 Vol. x abbr note=Volume
 vol.          x abbr note=volume
 vols. x abbr note=volumes
 vs.           x abbr note=versus
+vulgaris x foreign note=Latin, in species names

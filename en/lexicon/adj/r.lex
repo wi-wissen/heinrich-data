@@ -1,3 +1,4 @@
+rabbinic adj
 racial adj adv=racially
 racist adj
 radial adj
@@ -13,6 +14,7 @@ random adj adv=randomly
 rank adj cmp=er
 rapid adj cmp=more adv=rapidly
 rapt adj adv=raptly
+rapturous adj adv=rapturously
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
 rational adj cmp=more adv=rationally
@@ -28,6 +30,7 @@ realizable adj gb=realisable|realizable
 rear adj attr_only
 reasonable adj cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
+reborn adj
 receivable adj
 recent adj cmp=more adv=recently
 receptive adj cmp=more
@@ -35,12 +38,15 @@ recessive adj
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
+recombinant adj
 recordable adj
 recoverable adj
 recreational adj
 rectangular adj
 recurrent adj adv=recurrently
+recursive adj adv=recursively
 red adj cmp=er
+red-haired adj note=haired is not a word of its own
 reddish adj
 redundant adj
 referable adj
@@ -53,15 +59,19 @@ refractory adj
 refreshing adj adv=refreshingly
 refundable adj
 regal adj adv=regally
+regenerative adj
 regimental adj
 regional adj adv=regionally
 registrable adj
+regressive adj
+regretful adj adv=regretfully
 regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
 reimbursable adj
 relational adj
 relative adj adv=relatively
+relativistic adj
 relaxed adj cmp=more
 relentless adj adv=relentlessly
 relevant adj cmp=more adv=relevantly
@@ -73,14 +83,18 @@ remarkable adj cmp=more adv=remarkably
 remastered adj
 remedial adj
 reminiscent adj
+remorseful adj cmp=more adv=remorsefully
 remote adj cmp=er adv=remotely
 removable adj
 renal adj
+renegade adj
 renewable adj
 renowned adj
 rental adj
+repellent adj
 repetitive adj adv=repetitively
 reportable adj
+reprehensible adj adv=reprehensibly
 representative adj
 repressive adj cmp=more
 reproachful adj adv=reproachfully
@@ -107,12 +121,16 @@ respiratory adj
 resplendent adj
 responsible adj cmp=more adv=responsibly
 responsive adj cmp=more
+restful adj
 restless adj cmp=more adv=restlessly
+restorative adj
 restrictive adj cmp=more
 resultant adj
 retail adj
+retaliatory adj
 reticent adj
 retinal adj
+retractable adj
 retroactive adj adv=retroactively
 retrograde adj
 retrospective adj adv=retrospectively
@@ -121,8 +139,10 @@ reverend adj
 reverent adj adv=reverently
 reverse adj
 reversible adj
+reviewable adj
 revolutionary adj
 rhetorical adj adv=rhetorically
+rheumatic adj
 rhythmic adj adv=rhythmically
 Rican adj note=in Puerto Rican, Costa Rican
 rich adj cmp=er adv=richly
@@ -171,6 +191,7 @@ ruinous adj cmp=more adv=ruinously
 runaway adj attr_only
 runny adj cmp=er
 rural adj
+russet adj
 Russian adj note=demonym or religious name, capitalized
 rustic adj
 rusty adj cmp=er

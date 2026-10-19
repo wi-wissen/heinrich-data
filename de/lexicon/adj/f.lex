@@ -89,6 +89,8 @@ früh adj cmp=früher sup=frühesten
 frühlingshaft adj cmp=frühlingshafter sup=frühlingshaftesten
 frühzeitig adj
 fundamental adj
+fünfzählig adj
+fünfziger adj indecl note=die fünfziger Jahre
 funkelnd adj cmp=funkelnder sup=funkelndsten
 funktional adj
 funktionell adj

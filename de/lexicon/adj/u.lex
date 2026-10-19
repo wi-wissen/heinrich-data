@@ -164,6 +164,7 @@ unzählig adj
 unzufrieden adj cmp=unzufriedener sup=unzufriedensten
 unzulässig adj
 unzureichend adj
+unzutreffend adj
 unzweifelhaft adj
 üppig adj cmp=üppiger sup=üppigsten
 uralt adj

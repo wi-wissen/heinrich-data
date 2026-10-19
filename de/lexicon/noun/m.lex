@@ -21,6 +21,7 @@ Magistrat noun g=m gen=Magistrats|Magistrates pl=Magistrate
 Magma noun g=n gen=Magmas pl=Magmen
 Magnesium noun g=n gen=Magnesiums pl=- note=chemical element
 Magnet noun g=m gen=Magnets|Magnetes pl=Magnete
+Magnum noun g=f gen=Magnum pl=Magnums conf=70 note=1.5-litre wine bottle; plural unsure
 Maharadscha noun g=m gen=Maharadschas pl=Maharadschas
 Mahl noun g=n gen=Mahles|Mahls pl=Mähler|Mahle conf=85 note=plural variants Mähler or Mahle
 Mahlzeit noun g=f gen=Mahlzeit pl=Mahlzeiten
@@ -102,6 +103,7 @@ Marquis noun g=m gen=Marquis pl=Marquis note=French title
 Marquise noun g=f gen=Marquise pl=Marquisen
 Marsch noun g=m gen=Marsches pl=Märsche sense=march
 Marschall noun g=m gen=Marschalls pl=Marschälle
+Marstall noun g=m gen=Marstalls|Marstalles pl=Marställe
 Martinstag noun g=m gen=Martinstags|Martinstages pl=Martinstage
 Märtyrer noun g=m gen=Märtyrers pl=Märtyrer
 Märtyrerin noun g=f gen=Märtyrerin pl=Märtyrerinnen

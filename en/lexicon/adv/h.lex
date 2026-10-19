@@ -2,6 +2,7 @@ halfway        adv
 hard           adv cmp=er type=manner
 headlong adv type=manner
 henceforth     adv type=time
+hereabouts adv type=place
 hereafter      adv type=time
 hereby         adv
 herein         adv
@@ -13,4 +14,5 @@ hither         adv type=place
 hitherto       adv type=time
 home           adv type=place
 homeward adv type=place
+homewards adv type=place
 hourly         adv type=frequency
