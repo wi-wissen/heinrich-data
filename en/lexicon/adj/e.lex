@@ -11,9 +11,11 @@ easternmost adj
 easy adj cmp=er adv=easily
 eccentric adj
 ecclesiastical adj
+eclectic adj cmp=more adv=eclectically
 ecological adj adv=ecologically
 economic adj adv=economically
 economical adj cmp=more
+ecstatic adj cmp=more adv=ecstatically
 ecumenical adj
 edible adj
 editable adj
@@ -27,6 +29,7 @@ egregious adj cmp=more adv=egregiously
 Egyptian adj
 elaborate adj adv=elaborately
 elastic adj
+elated adj cmp=more
 elderly adj
 elective adj
 electoral adj
@@ -40,9 +43,12 @@ elemental adj
 elementary adj
 eligible adj
 elite adj
+elliptic adj
+elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
 embarrassed adj cmp=more
+embryonic adj
 emeritus adj
 eminent adj adv=eminently
 emotional adj adv=emotionally
@@ -80,10 +86,12 @@ ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
+esoteric adj cmp=more adv=esoterically
 especial adj
 essential adj adv=essentially
 Estonian adj
 eternal adj adv=eternally
+ethereal adj cmp=more adv=ethereally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically

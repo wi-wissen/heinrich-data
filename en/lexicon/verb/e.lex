@@ -53,6 +53,7 @@ encounter verb
 encourage verb
 encroach verb
 encrypt verb
+encumber verb
 end verb
 endanger verb
 endear verb

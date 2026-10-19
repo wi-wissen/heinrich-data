@@ -1,3 +1,4 @@
+tenfold adv
 thence adv type=place|time style=archaic
 thereafter adv type=time
 thereby adv type=manner

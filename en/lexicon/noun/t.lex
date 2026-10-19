@@ -118,6 +118,7 @@ tense noun
 tension noun
 tensor noun
 tent noun
+tentacle noun
 tenure noun
 terabyte noun
 tergum noun pl=terga note=dorsal plate of an arthropod segment
@@ -173,6 +174,7 @@ thirst noun
 thistle noun
 thorax noun pl=thoraxes|thoraces conf=90 note=plural rarely used
 thorn noun
+thoroughbred noun
 thoroughfare noun
 thought noun
 thrash noun
@@ -186,8 +188,10 @@ throat noun
 throne noun
 throng noun
 throttle noun
+throughput noun
 thrush noun
 thrust noun
+thud noun
 thumb noun
 thumbnail noun
 thumbtack noun region=US note=British drawing pin
@@ -291,6 +295,7 @@ tort noun
 tortilla noun
 tortoise noun
 torture noun
+torus noun pl=tori|toruses
 Tory noun
 tot noun
 total noun
@@ -330,6 +335,7 @@ tractor noun
 trade noun
 trademark noun
 trader noun
+tradesman noun pl=tradesmen
 tradition noun
 traffic noun pl=- note=uncountable
 trafficker noun
@@ -372,6 +378,7 @@ transplantation noun
 transport noun
 transportation noun
 transporter noun
+transposition noun
 trap noun
 trapper noun
 trash noun pl=- note=uncountable
@@ -451,6 +458,7 @@ tuft noun
 tug noun
 tuition noun pl=- note=uncountable
 tulip noun
+tumbler noun
 tummy noun
 tumor noun gb=tumour
 tumult noun
@@ -460,6 +468,7 @@ tunic noun
 tunnel noun
 turbine noun
 turbo noun note=plural turbos
+turboprop noun
 turbulence noun
 turf noun pl=turfs|turves[rare]
 Turk noun
@@ -488,6 +497,7 @@ twist noun
 twitch noun
 type noun
 typewriter noun
+typhoid noun pl=- note=uncountable
 typhoon noun
 typist noun
 typo noun pl=typos

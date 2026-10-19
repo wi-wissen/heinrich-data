@@ -1,3 +1,4 @@
+wad verb
 wade verb
 wag verb
 wage verb

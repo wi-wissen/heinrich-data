@@ -21,7 +21,9 @@ ease noun
 easement noun
 east noun
 easterly noun
+eaves noun pl_only
 ebb noun
+ebony noun
 eccentric noun
 eccentricity noun
 ecclesiastic noun
@@ -83,6 +85,7 @@ eligibility noun pl=- note=uncountable
 elimination noun
 elite noun
 elk noun pl=elk|elks
+ellipsoid noun
 elm noun
 eloquence noun pl=- note=uncountable
 em noun
@@ -129,6 +132,7 @@ enclosure noun
 encoder noun
 encounter noun
 encouragement noun
+encroachment noun
 encryption noun
 encumbrance noun
 encyclopedia noun gb=encyclopaedia|encyclopedia
@@ -179,15 +183,18 @@ entry noun
 envelope noun
 environment noun
 environmentalist noun
+environs noun pl_only
 envoy noun
 envy noun pl=- note=uncountable
 enzyme noun
 EP noun abbr note=extended play record
 epic noun
 epidemic noun
+epidemiologist noun
 epilepsy noun pl=- note=uncountable
 episode noun
 epistle noun
+epitaph noun
 epithet noun
 epoch noun pl=epochs
 equal noun
@@ -213,6 +220,7 @@ error noun
 eruption noun
 escalation noun
 escape noun
+escarpment noun
 escort noun
 escrow noun
 ESP noun abbr pl=- note=extrasensory perception
@@ -230,6 +238,7 @@ estimate noun
 estimation noun
 Estonian noun
 estradiol noun pl=- note=a hormone; British also oestradiol
+estrogen noun gb=oestrogen conf=90 note=oestrogen is the British spelling; estrogen also occurs in British texts
 estuary noun
 etching noun
 eternity noun
@@ -262,6 +271,7 @@ evolution noun
 ewe noun
 ex noun conf=90 note=former partner
 exaggeration noun
+exaltation noun
 exam noun
 examination noun
 examiner noun
@@ -339,6 +349,7 @@ exterior noun
 extermination noun
 externality noun
 extinction noun
+extortion noun pl=- note=uncountable
 extra noun
 extract noun
 extraction noun

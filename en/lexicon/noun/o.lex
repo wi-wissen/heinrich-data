@@ -11,6 +11,7 @@ obituary noun
 object        noun
 objection     noun
 objective     noun
+objectivity noun pl=- note=uncountable
 oblast        noun
 obligation    noun
 oblivion noun pl=- note=uncountable
@@ -73,6 +74,7 @@ onset         noun
 onslaught noun
 onus noun pl=- note=singular only
 op noun style=colloquial note=short for operation: photo op, special ops
+opacity noun
 opener noun
 opening       noun
 openness      noun pl=- note=uncountable
@@ -91,6 +93,7 @@ oppression    noun
 optic noun
 optimism      noun pl=- note=uncountable
 optimization noun gb=optimisation|optimization
+optimum noun pl=optima|optimums
 option        noun
 opus noun pl=opuses|opera[rare]
 oracle noun
@@ -103,6 +106,7 @@ orb noun
 orbit         noun
 orchard noun
 orchestra     noun
+orchestration noun
 orchid noun
 ordeal noun
 order         noun
@@ -125,6 +129,7 @@ originality noun pl=- note=uncountable
 originator noun
 ornament      noun
 orphan noun
+orthodoxy noun
 orthography noun
 OS            noun abbr note=operating system
 ostrich noun
@@ -179,6 +184,7 @@ overlap       noun
 overlay noun
 overload noun
 overpayment noun
+overpressurization noun gb=overpressurisation|overpressurization conf=85 note=technical register
 override noun
 overrun noun
 overseer noun

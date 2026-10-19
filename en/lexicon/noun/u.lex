@@ -1,3 +1,4 @@
+ugliness noun pl=- note=uncountable
 Ukrainian     noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
@@ -11,6 +12,7 @@ undercut noun
 underestimate noun
 undergraduate noun
 underground   noun
+undergrowth noun pl=- note=uncountable
 underline noun
 underpayment noun
 underperformance noun pl=- note=uncountable
@@ -80,6 +82,7 @@ username noun
 usher noun
 usurper noun
 utensil noun
+uterus noun pl=uteri|uteruses
 utility       noun
 utilization   noun gb=utilisation|utilization
 utmost        noun pl=- note=only singular (do one's utmost)

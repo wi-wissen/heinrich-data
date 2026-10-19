@@ -1,3 +1,4 @@
+wad noun
 wafer noun
 waffle noun
 wage noun
@@ -56,6 +57,7 @@ wastewater noun pl=- note=uncountable
 watch noun
 watchdog noun
 watcher noun
+watchman noun pl=watchmen
 water noun
 watercourse noun
 waterfall noun
@@ -126,6 +128,7 @@ Whig noun
 whim noun
 whip noun
 whirl noun
+whirlwind noun
 whisk noun
 whisker noun
 whiskey noun note=Irish and American spelling; see whisky
@@ -159,6 +162,7 @@ wig noun
 wigwam noun
 wiki noun
 wild noun
+wildcat noun
 wilderness noun
 wildfire noun
 wildlife noun pl=- note=uncountable
@@ -173,9 +177,12 @@ windfall noun
 windmill noun
 window noun
 windowsill noun
+windshield noun region=US note=British windscreen
+windward noun pl=- note=uncountable
 wine noun
 wing noun
 winger noun
+wingspan noun
 wink noun
 winner noun
 winning noun note=mostly plural: winnings
@@ -198,17 +205,20 @@ wog noun style=offensive note=racist slur
 wolf noun pl=wolves
 woman noun pl=women
 womanhood noun pl=- note=uncountable
+womb noun
 wonder noun
 wonderland noun
 wont noun pl=- note=uncountable
 wood noun
 woodland noun
 woodpecker noun
+woodwork noun pl=- note=uncountable
 wool noun
 woolen noun gb=woollen note=mostly plural: woolens, woollens
 wop noun style=offensive note=slur for Italians
 word noun
 wording noun
+woreda noun conf=85 note=administrative district in Ethiopia
 work noun
 workaholic noun
 workaround noun

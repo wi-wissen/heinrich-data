@@ -30,14 +30,17 @@ feature        verb
 federate verb
 feed           verb past=fed pp=fed
 feel           verb past=felt pp=felt
+feign verb
 fell           verb note=to fell a tree
 fence          verb
 fend verb
 ferment verb
 ferry          verb
+fertilize verb gb=fertilise|fertilize
 fetch          verb
 fetter verb
 feud verb
+fictionalize verb gb=fictionalise|fictionalize
 fiddle verb
 fidget verb
 field          verb

@@ -66,6 +66,7 @@ delight verb
 delineate verb
 delist verb
 deliver verb
+deluge verb
 demand verb
 demolish verb
 demonstrate verb
@@ -88,6 +89,7 @@ depress verb
 deprive verb
 derail verb
 deregulate verb
+deride verb
 derive verb
 descend verb
 describe verb
@@ -169,6 +171,7 @@ disgrace verb
 disguise verb
 disgust verb
 dish verb
+disintegrate verb
 dislike verb
 dislodge verb
 dismantle verb

@@ -33,6 +33,7 @@ patent adj
 patentable adj
 paternal adj
 pathetic adj cmp=more adv=pathetically
+pathological adj adv=pathologically
 patient adj cmp=more adv=patiently
 patriarchal adj
 patrician adj
@@ -50,6 +51,7 @@ pending adj note=also used as a preposition: pending review
 penitent adj
 penniless adj
 pensionable adj
+pensive adj cmp=more adv=pensively
 penultimate adj
 peppery adj
 perceptible adj adv=perceptibly
@@ -99,6 +101,7 @@ pious adj cmp=more adv=piously
 piteous adj cmp=more adv=piteously
 pitiful adj cmp=more adv=pitifully
 pitiless adj adv=pitilessly
+pituitary adj
 pivotal adj
 placid adj adv=placidly
 plain adj cmp=er adv=plainly
@@ -110,7 +113,9 @@ playable adj
 playful adj adv=playfully
 pleasant adj cmp=er|more adv=pleasantly
 pleasing adj cmp=more
+pleasurable adj cmp=more adv=pleasurably
 Pleistocene adj
+plenary adj
 plentiful adj adv=plentifully
 plumb adj
 plump adj cmp=er
@@ -135,6 +140,7 @@ popular adj cmp=more adv=popularly
 populist adj
 populous adj
 pornographic adj
+porous adj cmp=more
 portable adj
 Portuguese adj note=demonym or religious name, capitalized
 positive adj cmp=more adv=positively

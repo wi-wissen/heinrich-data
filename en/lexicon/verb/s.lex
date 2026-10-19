@@ -45,11 +45,13 @@ screen verb
 screenshot verb double conf=90 note=screenshotted, screenshotting
 screw verb
 scribble verb
+script verb
 scroll verb
 scrub verb
 scrunch verb
 scruple verb note=mainly negative: not scruple to do
 scrutinize verb gb=scrutinise|scrutinize
+sculpt verb
 sculpture verb
 scuttle verb
 seal verb
@@ -76,6 +78,7 @@ sense verb
 sentence verb
 separate verb
 sequester verb
+serialize verb gb=serialise|serialize
 serve verb
 service verb
 set verb past=set pp=set
@@ -138,6 +141,7 @@ signal verb
 signify verb
 signpost verb
 silence verb
+silt verb
 simmer verb
 simplify verb
 simulate verb
@@ -390,6 +394,7 @@ substitute verb
 subtitle verb
 subtract verb
 succeed verb
+succor verb gb=succour
 succumb verb
 suck verb
 sue verb

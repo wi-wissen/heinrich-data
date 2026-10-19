@@ -11,6 +11,7 @@ mainline adj
 mainstream    adj
 majestic      adj
 major         adj
+makeshift adj
 Malay         adj
 Malaysian     adj
 male          adj
@@ -41,6 +42,7 @@ masculine     adj
 mass          adj attr_only
 massive       adj cmp=more adv=massively
 masterful adj cmp=more adv=masterfully
+masterly adj
 matching      adj
 material      adj adv=materially
 maternal      adj
@@ -61,12 +63,14 @@ median        adj
 medical       adj adv=medically
 medicinal     adj
 medieval      adj gb=medieval|mediaeval
+mediocre adj cmp=more
 Mediterranean adj
 medium        adj
 meek adj cmp=er adv=meekly
 melancholy    adj
 mellow adj cmp=er
 melodic adj
+melodious adj cmp=more adv=melodiously
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
@@ -89,6 +93,7 @@ meticulous adj cmp=more adv=meticulously
 metric        adj
 metropolitan  adj
 Mexican       adj
+micro adj conf=85 note=also a noun (microcomputer) and an informal short form
 microbial adj
 micropolitan  adj note=US census term
 microscopic adj
@@ -100,6 +105,7 @@ migratory     adj
 mild          adj cmp=er adv=mildly
 militant adj
 military      adj adv=militarily
+milky adj cmp=er
 minded        adj pred_only
 mindful       adj pred_only
 mini          adj
@@ -109,7 +115,7 @@ minimum       adj
 ministerial   adj
 minor         adj
 minty adj
-minute        adj cmp=er|more note=tiny
+minute        adj cmp=er|more adv=minutely note=tiny
 miraculous adj cmp=more adv=miraculously
 miscellaneous adj
 mischievous adj cmp=more adv=mischievously
@@ -137,6 +143,7 @@ momentous adj
 monastic      adj
 monetary      adj
 Mongol adj
+mono adj
 monotonous adj cmp=more adv=monotonously
 monstrous     adj adv=monstrously
 monthly       adj
@@ -150,10 +157,13 @@ Moroccan adj
 morphological adj adv=morphologically
 mortal        adj adv=mortally
 mortuary adj
+mossy adj cmp=er
+motherly adj cmp=more
 motionless    adj
+mottled adj
 mountainous   adj
 mournful adj adv=mournfully
-movable adj
+movable adj gb=moveable|movable conf=90 note=moveable is the more frequent British spelling
 mucky adj cmp=er
 muddy         adj cmp=er
 muggy adj cmp=er

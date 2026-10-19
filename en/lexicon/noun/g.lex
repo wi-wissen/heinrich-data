@@ -6,6 +6,7 @@ gaiety noun
 gain           noun
 gait noun
 gal noun style=colloquial
+gala noun
 galaxy         noun
 gale           noun
 gall noun
@@ -36,6 +37,7 @@ garland        noun
 garlic noun pl=- note=uncountable
 garment        noun
 garnishment noun
+garret noun
 garrison       noun
 gas            noun pl=gases
 gasoline       noun pl=- note=uncountable
@@ -46,6 +48,7 @@ gateway        noun
 gathering      noun
 gauge          noun
 gay            noun
+gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
 gaze           noun
 gazelle noun
 gazette        noun
@@ -86,6 +89,7 @@ Georgian       noun
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
+gestation noun
 gesture        noun
 ghetto noun pl=ghettos|ghettoes
 ghost          noun
@@ -105,6 +109,7 @@ giraffe noun pl=giraffes
 girdle noun
 girl           noun
 girlfriend     noun
+girlhood noun
 git noun style=colloquial region=GB
 glacier noun
 glade noun
@@ -136,9 +141,11 @@ go             noun pl=goes note=an attempt, have a go
 goal           noun
 goalie noun
 goalkeeper     noun
+goalscorer noun
 goaltender noun
 goat           noun
 goblet noun
+goblin noun
 god            noun
 godchild noun pl=godchildren
 goddess        noun
@@ -172,6 +179,8 @@ governance     noun pl=- note=uncountable
 governess      noun
 government     noun
 governor       noun
+governorate noun
+governorship noun
 gown           noun
 GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
@@ -249,6 +258,7 @@ grille noun
 grin           noun
 grind          noun
 grip           noun
+grist noun pl=- note=uncountable
 grit noun
 grizzly        noun
 groan          noun
@@ -262,6 +272,7 @@ groundwater    noun pl=- note=uncountable
 groundwork noun
 group          noun
 grouping       noun
+grouse noun pl=grouse|grouses note=grouse for the bird, grouses for complaints
 grove          noun
 grower noun
 growl          noun

@@ -11,6 +11,7 @@ obscene adj cmp=more adv=obscenely
 obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
+observational adj
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obvious        adj cmp=more adv=obviously
@@ -55,6 +56,7 @@ optic adj
 optical        adj
 optimal        adj adv=optimally
 optimistic     adj cmp=more adv=optimistically
+optimum adj
 optional       adj adv=optionally
 oral           adj adv=orally
 orange         adj
@@ -106,3 +108,4 @@ overt adj cmp=more adv=overtly
 overwhelming   adj adv=overwhelmingly
 overworked adj
 own            adj
+oxidative adj

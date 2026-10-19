@@ -5,6 +5,7 @@ ice            noun
 iceberg noun
 Icelandic      noun pl=- note=the language
 icon           noun
+iconography noun
 ICU noun abbr note=intensive care unit
 ID             noun abbr note=identification, identity document
 id noun conf=90 note=psychoanalysis; the form Id in legal texts (Id. = idem) is not covered
@@ -19,6 +20,7 @@ idiom noun
 idiot noun
 idleness noun
 idol           noun
+idolatry noun
 ignition noun
 ignorance      noun
 iguana noun
@@ -71,6 +73,7 @@ improvement    noun
 impudence noun pl=- note=uncountable
 impulse        noun
 impunity noun pl=- note=uncountable
+impurity noun
 inability      noun
 inaccuracy noun
 inaction noun pl=- note=uncountable
@@ -99,6 +102,7 @@ inconsistency noun
 inconvenience noun
 incorporation  noun
 increase       noun
+incredulity noun pl=- note=uncountable
 increment noun
 incumbent      noun
 incursion noun
@@ -115,9 +119,12 @@ indictment     noun
 indie noun
 indifference   noun
 indignation    noun
+indignity noun
 individual     noun
+individualism noun pl=- note=uncountable
 individuality noun
 Indo-European noun pl=- note=the language family
+indolence noun pl=- note=uncountable
 Indonesian     noun
 inducement noun
 inductee noun
@@ -144,6 +151,7 @@ infielder noun
 infinity noun
 infirmity noun
 inflammation   noun
+inflatable noun
 inflation      noun
 influence      noun
 influenza      noun pl=- note=uncountable
@@ -175,6 +183,7 @@ injury         noun
 injustice      noun
 ink            noun
 inkjet noun
+inlay noun
 inlet          noun
 inmate         noun
 inn            noun
@@ -336,6 +345,7 @@ Italian        noun
 italic noun
 item           noun
 iteration noun
+itinerant noun
 itinerary noun
 ivory          noun
 ivy noun

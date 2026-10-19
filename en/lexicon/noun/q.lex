@@ -1,6 +1,7 @@
 QPAM          noun abbr conf=85 note=qualified professional asset manager (US)
 quad noun
 quadrangle noun
+quadratic noun
 quadruped noun
 quail noun pl=quail|quails note=the bird
 Quaker        noun
@@ -34,6 +35,7 @@ quickness noun pl=- note=uncountable
 quiet         noun pl=- note=uncountable
 quill noun
 quilt noun
+quinone noun
 quintet noun
 quiver        noun
 quiz noun

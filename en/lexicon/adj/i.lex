@@ -54,7 +54,9 @@ impractical adj
 impregnable adj
 impressive     adj adv=impressively
 improbable     adj adv=improbably
+impromptu adj
 improper       adj adv=improperly
+imprudent adj cmp=more adv=imprudently
 impudent adj cmp=more
 impulsive adj adv=impulsively
 inaccessible adj
@@ -65,6 +67,7 @@ inadvertent    adj adv=inadvertently
 inanimate adj
 inapplicable adj
 inappropriate  adj adv=inappropriately
+inarticulate adj adv=inarticulately
 inaudible adj
 inaugural      adj
 incalculable adj
@@ -96,6 +99,7 @@ indecent adj
 indefinite     adj adv=indefinitely
 independent    adj adv=independently
 indescribable adj
+indeterminate adj
 Indian         adj
 indicative     adj
 indie adj
@@ -113,9 +117,11 @@ indolent adj
 indomitable adj
 Indonesian     adj
 indoor         adj attr_only
+inductive adj adv=inductively
 indulgent adj cmp=more
 industrial     adj adv=industrially
 industrious adj
+ineffable adj adv=ineffably
 ineffective    adj adv=ineffectively
 ineffectual adj
 inefficient adj adv=inefficiently
@@ -123,17 +129,22 @@ ineligible     adj
 inert adj
 inevitable     adj adv=inevitably
 inexhaustible adj
+inexorable adj adv=inexorably
 inexpensive adj
 inexperienced adj
 inexplicable adj
 inexpressible adj adv=inexpressibly
 inextricable adj adv=inextricably
+infallible adj adv=infallibly
 infamous       adj
 infectious     adj
 inferior       adj
 infernal adj
 infinite       adj adv=infinitely
+infinitesimal adj adv=infinitesimally
+infirm adj
 inflammatory adj
+inflatable adj
 inflexible adj adv=inflexibly
 influential    adj
 informal       adj adv=informally
@@ -162,6 +173,7 @@ inscrutable adj
 insecure adj
 insensible adj
 inseparable adj
+inshore adj
 insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
@@ -192,6 +204,7 @@ interchangeable adj adv=interchangeably
 intercity adj
 intercontinental adj
 interdepartmental adj
+interdependent adj
 interdisciplinary adj
 interested     adj cmp=more
 interesting    adj cmp=more adv=interestingly
@@ -211,6 +224,7 @@ intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
 intrastate adj
+intravenous adj adv=intravenously
 intricate adj cmp=more adv=intricately
 intrinsic adj adv=intrinsically
 introductory   adj
@@ -230,6 +244,8 @@ invincible adj
 invisible      adj adv=invisibly
 involuntary adj adv=involuntarily
 inward         adj
+Ionic adj note=the order of architecture and the Greek dialect
+ionic adj note=chemistry
 Iranian        adj
 Iraqi          adj
 Irish          adj
@@ -252,3 +268,4 @@ Israeli        adj
 Italian        adj
 italic adj
 itchy adj cmp=er
+itinerant adj

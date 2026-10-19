@@ -68,6 +68,7 @@ bias verb
 bid verb past=bid|bade pp=bid|bidden
 bike verb
 bill verb
+billow verb
 bind verb past=bound pp=bound
 bisect verb
 bite verb past=bit pp=bitten
@@ -170,6 +171,7 @@ bump verb
 bundle verb
 buoy verb
 burden verb
+burgeon verb
 burlesque verb
 burn verb past=burned|burnt pp=burned|burnt
 burp verb
@@ -180,6 +182,7 @@ bustle verb
 busy verb
 butcher verb
 butt verb
+button verb
 buttress verb
 buy verb past=bought pp=bought
 buzz verb

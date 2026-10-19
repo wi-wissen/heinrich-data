@@ -8,6 +8,7 @@ facial         noun
 facilitation noun pl=- note=uncountable
 facilitator noun
 facility       noun
+facsimile noun
 fact           noun
 faction        noun
 factor         noun
@@ -26,6 +27,7 @@ falcon noun
 fall           noun
 fallacy noun
 fallback noun
+fallout noun
 falsehood noun
 fame           noun pl=- note=uncountable
 familiarity    noun
@@ -33,6 +35,7 @@ family         noun
 famine         noun
 fan            noun
 fanatic noun
+fanaticism noun pl=- note=uncountable
 fancy          noun
 fantasy        noun
 FAQ noun abbr note=frequently asked question
@@ -44,6 +47,7 @@ farmer         noun
 farmhouse noun
 farmland       noun
 fart noun style=colloquial
+farthing noun
 fascination    noun
 fascism noun
 fascist noun
@@ -77,6 +81,7 @@ feedback       noun pl=- note=uncountable
 feeder noun
 feel           noun
 feeling        noun
+felicity noun
 fell           noun note=hill in northern England
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
@@ -85,6 +90,7 @@ felon noun
 felony noun
 felt           noun note=the fabric
 female         noun
+feminism noun pl=- note=uncountable
 feminist       noun
 fen noun
 fence          noun
@@ -104,6 +110,7 @@ festivity noun
 fetter noun
 feud noun
 fever          noun
+fez noun pl=fezzes|fezes
 fiancé noun
 fiancée noun
 fiber          noun gb=fibre
@@ -129,6 +136,7 @@ fill           noun
 filler noun
 film           noun
 filmmaker      noun
+filmmaking noun pl=- note=uncountable
 filter         noun
 filtration noun
 fin            noun
@@ -143,6 +151,7 @@ finch noun
 find           noun
 finding        noun
 fine           noun
+finery noun pl=- note=uncountable
 finger         noun
 fingernail noun
 fingerprint noun
@@ -241,6 +250,7 @@ flyer noun conf=90 note=also flier
 foal noun
 foam           noun
 focus          noun pl=focuses|foci
+fodder noun pl=- note=uncountable
 foe            noun
 fog            noun
 foil noun
@@ -262,7 +272,9 @@ foot           noun pl=feet
 footage        noun pl=- note=uncountable
 football       noun
 footballer     noun
+footbridge noun
 footer noun
+footfall noun
 foothill noun
 foothold noun
 footman noun pl=footmen
@@ -292,15 +304,18 @@ forehead       noun
 foreigner      noun
 foreman noun pl=foremen
 forenoon noun style=archaic
+forensics noun pl=- note=the science; takes a singular verb
 forerunner noun
 foresight noun
 forest         noun
 forestry       noun pl=- note=uncountable
+foreword noun
 forex noun pl=- note=foreign exchange
 forfeit noun
 forfeiture     noun
 forge          noun
 forgery noun
+forgetfulness noun pl=- note=uncountable
 forgiveness    noun pl=- note=uncountable
 fork           noun
 form           noun
@@ -339,9 +354,11 @@ Franciscan noun
 frankness noun
 fraternity noun
 fraud          noun
+fraudster noun
 fray noun
 freak noun
 freckle noun
+freedman noun pl=freedmen
 freedom        noun
 freehold       noun
 freeholder noun
@@ -367,6 +384,7 @@ fridge noun
 friend         noun
 friendliness noun pl=- note=uncountable
 friendship     noun
+frieze noun
 frigate        noun
 fright         noun
 fringe         noun
@@ -375,6 +393,7 @@ fritillary noun
 frock noun
 frog noun
 front          noun
+frontage noun
 frontier       noun
 frontline      noun
 frontman noun pl=frontmen

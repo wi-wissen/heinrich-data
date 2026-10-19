@@ -11,6 +11,7 @@ bankable adj
 bankrupt adj
 barbaric adj cmp=more
 barbarous adj cmp=more adv=barbarously
+barbed adj
 bare adj cmp=er
 baroque adj
 barren adj cmp=more
@@ -18,6 +19,7 @@ basal adj
 basic adj adv=basically
 Basque adj
 Bavarian adj
+beaked adj
 bearded adj
 beastly adj cmp=er
 beautiful adj cmp=more adv=beautifully

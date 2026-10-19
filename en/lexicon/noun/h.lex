@@ -33,6 +33,7 @@ handbag noun
 handball noun
 handbook noun
 handful        noun
+handheld noun
 handicap noun
 handkerchief   noun note=plural handkerchiefs
 handle         noun
@@ -44,9 +45,11 @@ handshake noun
 handwriting    noun
 hangar noun
 hanger noun
+hanging noun
 happiness      noun pl=- note=uncountable
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
+hardcover noun
 hardiness noun pl=- note=uncountable
 hardness noun
 hardship       noun
@@ -74,6 +77,7 @@ haven          noun
 havoc noun pl=- note=uncountable
 Hawaiian       noun
 hawk           noun
+hawthorn noun
 hay            noun pl=- note=uncountable
 hazard         noun
 haze           noun
@@ -135,6 +139,7 @@ helplessness noun pl=- note=uncountable
 helpline noun
 hem noun
 hemisphere noun
+hemp noun pl=- note=uncountable
 hen noun
 hepatitis noun pl=- note=uncountable
 herald         noun
@@ -144,6 +149,7 @@ heresy noun
 heretic noun
 heritage       noun
 hermit noun
+hernia noun
 hero           noun pl=heroes
 heroin noun pl=- note=uncountable
 heroine noun
@@ -152,6 +158,7 @@ heron noun
 herring noun pl=herring|herrings
 hesitation     noun
 heterosexual noun
+heyday noun
 hiatus noun pl=hiatuses|hiatus
 hiccup noun
 hickory noun
@@ -234,6 +241,7 @@ hoover noun region=GB note=vacuum cleaner, from the trademark Hoover
 hop            noun
 hope           noun
 hopeful        noun
+hopelessness noun pl=- note=uncountable
 hopper noun
 hopscotch noun pl=- note=uncountable
 horde noun
@@ -246,6 +254,7 @@ horse          noun
 horseback      noun
 horseman       noun pl=horsemen
 horsepower noun pl=horsepower
+horseshoe noun
 horticulture noun pl=- note=uncountable
 hose noun
 hospice        noun
@@ -268,6 +277,7 @@ household      noun
 householder    noun
 housekeeper    noun
 housekeeping noun pl=- note=uncountable
+housemaid noun
 housemate noun
 housewife noun pl=housewives
 housework noun pl=- note=uncountable
@@ -286,6 +296,7 @@ hum            noun
 human          noun note=plural humans (not -men)
 humanitarian   noun
 humanity       noun
+humanoid noun
 humidity       noun pl=- note=uncountable
 humiliation    noun
 humility       noun pl=- note=uncountable
@@ -321,3 +332,4 @@ hypertension noun pl=- note=uncountable
 hypocrisy noun
 hypocrite noun
 hypothesis     noun pl=hypotheses
+hysteria noun pl=- note=uncountable
