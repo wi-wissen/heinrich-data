@@ -14,6 +14,7 @@ rank adj cmp=er
 rapid adj cmp=more adv=rapidly
 rare adj cmp=er adv=rarely
 rash adj cmp=er adv=rashly
+ratable adj gb=rateable
 rational adj cmp=more adv=rationally
 raw adj cmp=er
 reactive adj
@@ -87,6 +88,7 @@ residential adj
 residual adj
 resilient adj cmp=more
 resistant adj cmp=more
+resistless adj style=archaic
 resolute adj adv=resolutely
 resourceful adj cmp=more adv=resourcefully
 respectable adj cmp=more adv=respectably
@@ -144,6 +146,7 @@ rough adj cmp=er adv=roughly
 round adj cmp=er
 roundabout adj
 routine adj adv=routinely
+rowdy adj cmp=er
 royal adj cmp=more adv=royally
 ruddy adj cmp=er
 rude adj cmp=er adv=rudely

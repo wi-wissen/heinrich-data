@@ -11,6 +11,7 @@ hoc x foreign note=only in ad hoc
 Hon.           x abbr note=Honourable, title; also lowercase hon. in the hon. Member
 hon.           x abbr note=honourable, as in the hon. Member
 hooray intj
+hors x foreign note=only in hors d'oeuvre, hors de combat
 hp x abbr note=horsepower
 hr             x abbr note=hour(s)
 huh intj

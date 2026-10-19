@@ -12,6 +12,7 @@ Jericho propn
 Jersey         propn
 Jerusalem      propn
 Jesus          propn
+Jobcentre propn region=GB pl=Jobcentres note=UK public employment office
 Johannesburg propn
 Johnstown propn
 Jordan         propn note=country and river

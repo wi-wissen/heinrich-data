@@ -11,6 +11,7 @@ id noun conf=90 note=psychoanalysis; the form Id in legal texts (Id. = idem) is 
 idea           noun
 ideal          noun
 idealism noun pl=- note=uncountable
+idealist noun
 identification noun
 identifier     noun
 identity       noun
@@ -37,6 +38,7 @@ imaging        noun pl=- note=uncountable
 imam noun
 imbalance noun
 imitation      noun
+immensity noun
 immersion noun
 immigrant      noun
 immigration    noun
@@ -65,6 +67,7 @@ importer       noun
 imposition     noun
 impossibility noun
 impostor noun
+impotence noun pl=- note=uncountable
 impoundment noun
 impression     noun
 imprint noun
@@ -94,9 +97,12 @@ incest noun pl=- note=uncountable
 inch           noun
 incidence      noun
 incident       noun
+incision noun
+incisor noun
 inclination    noun
 incline        noun
 inclusion      noun
+inclusivity noun pl=- note=uncountable
 income         noun
 incompetence noun
 inconsistency noun
@@ -105,6 +111,7 @@ incorporation  noun
 increase       noun
 increment noun
 incubation noun
+incubator noun
 incumbent      noun
 incursion noun
 indecision noun pl=- note=uncountable
@@ -150,6 +157,7 @@ infield noun
 infielder noun
 infiltration noun
 infinity noun
+infirmary noun
 infirmity noun
 inflammation   noun
 inflation      noun
@@ -204,6 +212,7 @@ insanity noun
 inscription    noun
 insect         noun
 insecurity     noun
+insensibility noun pl=- note=uncountable
 insert         noun
 insertion noun
 insider noun
@@ -228,6 +237,8 @@ institution    noun
 instruction    noun
 instructor     noun
 instrument     noun
+instrumentalist noun
+instrumentality noun
 instrumentation noun pl=- note=uncountable
 insulation noun
 insulin noun pl=- note=uncountable
@@ -250,9 +261,11 @@ intent         noun
 intention      noun
 interaction    noun
 interception noun
+interceptor noun
 interchange    noun
 interconnection noun
 intercourse    noun pl=- note=uncountable
+interdependence noun pl=- note=uncountable
 interdict noun
 interest       noun
 interface      noun
@@ -288,6 +301,7 @@ intolerance noun
 intonation noun
 intoxication noun
 intranet noun
+intricacy noun
 intrigue noun
 introduction   noun
 intruder noun
@@ -305,6 +319,7 @@ inventory      noun
 inverse noun
 inversion noun
 invertebrate noun
+inverter noun
 investigation  noun
 investigator   noun
 investment     noun

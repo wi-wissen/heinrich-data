@@ -5,6 +5,7 @@ hairy adj cmp=er
 Haitian adj
 hale adj
 halfway        adj attr_only
+handmade adj
 handsome       adj cmp=er|more adv=handsomely
 handwritten adj
 handy adj cmp=er
@@ -25,6 +26,7 @@ haughty        adj cmp=er adv=haughtily
 Hawaiian       adj
 hazardous      adj
 hazy adj cmp=er
+headless adj
 healthful adj cmp=more
 healthy        adj cmp=er adv=healthily
 heartbreaking adj
@@ -104,6 +106,7 @@ hybrid         adj
 hydraulic      adj
 hydroelectric adj
 hydrologic adj
+hydrophobic adj
 hyperbolic adj
 hypocritical adj cmp=more adv=hypocritically
 hypothetical   adj adv=hypothetically

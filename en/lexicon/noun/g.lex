@@ -110,6 +110,7 @@ girdle noun
 girl           noun
 girlfriend     noun
 git noun style=colloquial region=GB
+giver noun
 glacier noun
 glade noun
 gladness noun pl=- note=uncountable
@@ -143,6 +144,7 @@ goalkeeper     noun
 goaltender noun
 goat           noun
 goblet noun
+goblin noun
 god            noun
 godchild noun pl=godchildren
 goddess        noun
@@ -181,6 +183,7 @@ GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
 grab           noun
 grace          noun
+graciousness noun pl=- note=uncountable
 gradation noun
 grade          noun
 gradient noun
@@ -260,6 +263,8 @@ grizzly        noun
 groan          noun
 grocer noun
 grocery        noun
+grog noun pl=- note=uncountable
+groin noun
 groom noun
 groove noun
 ground         noun
@@ -302,6 +307,7 @@ gun            noun
 gunboat noun
 gunfire noun pl=- note=uncountable
 gunner noun
+gunpoint noun pl=- note=only in at gunpoint
 gunpowder noun
 gunshot noun
 gurgle noun

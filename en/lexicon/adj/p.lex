@@ -1,3 +1,4 @@
+pacific adj note=peaceful; the ocean is Pacific propn
 pagan adj
 painful adj cmp=more adv=painfully
 Pakistani adj note=demonym or religious name, capitalized
@@ -15,6 +16,7 @@ parallel adj
 Paralympic adj
 paramilitary adj
 paramount adj
+paranormal adj
 parasitic adj
 parched adj
 parental adj
@@ -41,6 +43,7 @@ patriotic adj cmp=more adv=patriotically
 payable adj
 peaceable adj cmp=more adv=peaceably
 peaceful adj cmp=more adv=peacefully
+pearly adj cmp=er
 peculiar adj cmp=more adv=peculiarly
 pecuniary adj
 pedestrian adj
@@ -56,6 +59,7 @@ pensionable adj
 penultimate adj
 peppery adj
 perceptible adj adv=perceptibly
+percutaneous adj
 peremptory adj adv=peremptorily
 perennial adj adv=perennially
 perfect adj cmp=more adv=perfectly
@@ -65,6 +69,7 @@ periodical adj
 peripheral adj
 permanent adj adv=permanently
 permissible adj
+permissive adj
 pernicious adj adv=perniciously
 perpendicular adj
 perpetual adj adv=perpetually
@@ -88,6 +93,7 @@ Philippine adj note=demonym or religious name, capitalized
 philosophic adj adv=philosophically
 philosophical adj adv=philosophically
 phonetic adj adv=phonetically
+phony adj cmp=er gb=phoney|phony
 photographic adj
 photovoltaic adj
 phylogenetic adj adv=phylogenetically
@@ -110,12 +116,15 @@ plaintive adj cmp=more adv=plaintively
 planar adj
 planetary adj
 plastic adj
+Platonic adj note=relating to Plato
+platonic adj note=platonic love
 plausible adj cmp=more adv=plausibly
 playable adj
 playful adj adv=playfully
 pleasant adj cmp=er|more adv=pleasantly
 pleasing adj cmp=more
 Pleistocene adj
+plenipotentiary adj
 plentiful adj adv=plentifully
 plumb adj
 plump adj cmp=er
@@ -145,6 +154,7 @@ pornographic adj
 portable adj
 Portuguese adj note=demonym or religious name, capitalized
 positive adj cmp=more adv=positively
+possessive adj adv=possessively
 possible adj cmp=more adv=possibly
 postal adj
 posterior adj
@@ -176,6 +186,7 @@ prehistoric adj
 prejudicial adj cmp=more adv=prejudicially
 preliminary adj
 premature adj adv=prematurely
+premeditated adj
 premier adj
 preoccupied adj
 preparatory adj
@@ -222,6 +233,7 @@ profane adj cmp=more
 professional adj cmp=more adv=professionally
 proficient adj cmp=more adv=proficiently
 profitable adj cmp=more adv=profitably
+profligate adj
 profound adj cmp=er|more adv=profoundly
 programmatic adj
 progressive adj adv=progressively
@@ -246,6 +258,7 @@ prostrate adj
 protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
 protracted adj
+protuberant adj
 proud adj cmp=er adv=proudly
 provident adj cmp=more adv=providently
 provincial adj

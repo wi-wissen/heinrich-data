@@ -42,6 +42,7 @@ reappoint verb
 rear verb
 rearrange verb
 reason verb
+reassess verb
 reassign verb
 reassure verb
 rebalance verb
@@ -115,6 +116,7 @@ refinance verb
 refine verb
 refit verb prefix=re
 reflect verb
+refocus verb
 reform verb
 reformat verb double
 refrain verb
@@ -181,6 +183,7 @@ remortgage verb region=GB
 remove verb
 remunerate verb
 rename verb
+rend verb past=rent pp=rent
 render verb
 rendezvous verb
 renegotiate verb
@@ -256,6 +259,7 @@ restructure verb
 resubmit verb double
 result verb
 resume verb
+resupply verb
 resurface verb
 resurrect verb
 retail verb
@@ -290,6 +294,7 @@ revitalize verb gb=revitalise|revitalize
 revive verb
 revoke verb
 revolt verb
+revolutionize verb gb=revolutionise|revolutionize
 revolve verb
 reward verb
 reword verb

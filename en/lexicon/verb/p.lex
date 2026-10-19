@@ -189,6 +189,7 @@ preload verb
 premiere verb
 prepare verb
 prepay verb prefix=pre past=prepaid pp=prepaid
+prerecord verb
 prescribe verb
 present verb
 preserve verb
@@ -236,6 +237,7 @@ propagate verb
 propel verb double
 prophesy verb
 propose verb
+propound verb
 prorate verb conf=85
 proscribe verb
 prosecute verb
@@ -265,6 +267,7 @@ purchase verb
 purge verb
 purify verb
 purport verb
+purpose verb
 purr verb
 pursue verb
 push verb

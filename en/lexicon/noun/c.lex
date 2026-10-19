@@ -6,6 +6,7 @@ cable noun
 cache noun
 cactus noun pl=cacti|cactuses
 cadet noun
+cadmium noun pl=- note=uncountable
 cadre noun
 cafe noun conf=90 note=also written café
 cafeteria noun
@@ -31,6 +32,7 @@ caller noun
 calm noun
 calmness noun pl=- note=uncountable
 calorie noun
+calyx noun pl=calyces|calyxes
 cam noun
 Cambodian noun
 camel noun
@@ -44,6 +46,7 @@ campground noun
 camping noun pl=- note=uncountable
 campsite noun
 campus noun
+camshaft noun
 can noun note=container
 Canadian noun
 canal noun
@@ -67,6 +70,7 @@ canteen noun
 canter noun
 canton noun
 canvas noun pl=canvases|canvasses
+canvass noun
 canyon noun
 cap noun
 capability noun
@@ -111,8 +115,10 @@ caress noun
 caretaker noun
 cargo noun pl=cargoes|cargos
 caricature noun
+carnet noun
 carnival noun
 carol noun
+carousel noun
 carp noun pl=carp|carps
 carpenter noun
 carpet noun
@@ -163,12 +169,14 @@ cat noun
 Catalan noun
 catalog noun gb=catalogue|catalog
 catalyst noun
+catapult noun
 cataract noun
 catastrophe noun
 catch noun
 catch-up noun
 catcher noun
 catchment noun
+catchphrase noun
 category noun
 caterer noun
 catering noun pl=- note=uncountable
@@ -185,7 +193,9 @@ causeway noun
 caution noun
 cavalier noun
 cavalry noun
+cavalryman noun pl=cavalrymen
 cave noun
+caveat noun
 cavern noun
 cavity noun
 CBE noun abbr note=Commander of the Order of the British Empire
@@ -201,6 +211,7 @@ cellar noun
 cellist noun
 cello noun note=plural cellos
 cellphone noun region=US note=British mobile phone
+cellulose noun pl=- note=uncountable
 cement noun
 cemetery noun
 censor noun
@@ -337,6 +348,7 @@ china noun pl=- note=porcelain
 Chinaman noun pl=Chinamen style=offensive note=dated, derogatory term for Chinese people
 Chinatown noun
 Chinese noun pl=Chinese note=a person; the language
+chink noun note=narrow opening; also a slur (Chink), not marked because of the neutral sense
 Chinook noun conf=90 note=the people; also wind and helicopter
 chip noun
 Chippewa noun pl=Chippewa|Chippewas
@@ -382,6 +394,7 @@ circle noun
 circuit noun
 circular noun
 circulation noun
+circumcision noun
 circumference noun
 circumstance noun
 circumvention noun pl=- note=uncountable
@@ -454,6 +467,7 @@ clipboard noun
 clipping noun
 cloak noun
 clock noun
+clog noun
 cloister noun
 clone noun
 close noun
@@ -485,6 +499,7 @@ coaster noun
 coastline noun
 coat noun
 coating noun
+cobbler noun
 cobra noun
 coca noun pl=- note=uncountable
 cocaine noun pl=- note=uncountable
@@ -507,6 +522,7 @@ coding noun
 coefficient noun
 coercion noun pl=- note=uncountable
 coffee noun
+coffer noun
 coffin noun
 cofounder noun conf=85 note=also co-founder
 cognate noun
@@ -528,10 +544,13 @@ coldness noun pl=- note=uncountable
 coliseum noun
 collaboration noun
 collaborator noun
+collage noun
 collapse noun
 collar noun
 collateral noun
 colleague noun
+collectable noun
+collectible noun
 collection noun
 collective noun
 collector noun
@@ -544,6 +563,7 @@ Colombian noun
 colonel noun
 colonist noun
 colonization noun gb=colonisation|colonization
+colonnade noun
 colony noun
 color noun gb=colour
 colt noun
@@ -652,6 +672,7 @@ computation noun
 computer noun
 computing noun pl=- note=uncountable
 comrade noun
+comradeship noun pl=- note=uncountable
 con noun
 concealment noun pl=- note=uncountable
 conceit noun
@@ -666,6 +687,7 @@ concession noun
 conch noun pl=conchs|conches
 conciliation noun
 conciseness noun pl=- note=uncountable
+conclave noun
 conclusion noun
 concord noun
 concourse noun
@@ -722,11 +744,13 @@ connectivity noun pl=- note=uncountable
 connector noun
 connexion noun style=archaic conf=90 note=old British spelling of connection
 connivance noun pl=- note=uncountable
+connoisseur noun
 connotation noun
 conqueror noun
 conquest noun
 conscience noun
 consciousness noun
+conscript noun
 conscription noun pl=- note=uncountable
 consecration noun
 consensus noun
@@ -767,6 +791,7 @@ consulship noun
 consultancy noun
 consultant noun
 consultation noun
+consultee noun
 consumer noun
 consumption noun pl=- note=uncountable
 contact noun
@@ -808,6 +833,7 @@ contrivance noun
 control noun
 controller noun
 controversy noun
+convalescence noun
 convection noun pl=- note=uncountable
 convenience noun
 convent noun
@@ -856,9 +882,11 @@ core noun
 cork noun
 corkscrew noun
 corn noun
+cornea noun
 corner noun
 cornerback noun
 cornerstone noun
+cornfield noun
 cornice noun
 Cornish noun pl=- note=the language
 corona noun
@@ -882,6 +910,7 @@ corrosion noun pl=- note=uncountable
 corruption noun
 corset noun
 cortex noun pl=cortices|cortexes
+cosine noun
 cosmetic noun
 cosmopolitan noun
 cost noun
@@ -991,6 +1020,7 @@ crescent noun
 crest noun
 crevice noun
 crew noun
+crewmember noun
 crib noun
 cricket noun
 cricketer noun
@@ -1044,6 +1074,7 @@ cryptoasset noun
 cryptocurrency noun
 cryptography noun pl=- note=uncountable
 crystal noun
+crystallization noun gb=crystallisation|crystallization
 CT noun abbr conf=90 note=computed tomography; Connecticut
 CTA noun abbr conf=85 note=call to action; Chicago Transit Authority
 CTO noun abbr note=chief technology officer
@@ -1069,6 +1100,7 @@ cunning noun
 cup noun
 cupboard noun
 cupcake noun
+cupidity noun pl=- note=uncountable
 curate noun
 curator noun
 curb noun
@@ -1084,9 +1116,12 @@ curry noun
 curse noun
 cursor noun
 curtain noun
+curtsey noun
+curtsy noun
 curvature noun
 curve noun
 cushion noun
+cuss noun style=colloquial
 custard noun
 custodian noun
 custody noun pl=- note=uncountable
@@ -1112,6 +1147,7 @@ cynic noun
 cynicism noun pl=- note=uncountable
 cypress noun
 Cypriot noun
+cystoscope noun
 cytochrome noun
 czar noun conf=90 note=tsar is a separate entry
 Czech noun pl=Czechs note=a person; the language

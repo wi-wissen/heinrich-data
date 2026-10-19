@@ -46,6 +46,7 @@ viral         adj
 virgin        adj
 virtual       adj adv=virtually
 virtuous      adj adv=virtuously
+virulent adj adv=virulently
 visible       adj cmp=more adv=visibly
 visionary adj
 visual        adj adv=visually

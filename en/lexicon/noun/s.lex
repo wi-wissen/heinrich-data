@@ -83,11 +83,13 @@ savanna noun
 saving noun
 savior noun gb=saviour
 saw noun
+sawdust noun pl=- note=uncountable
 sawmill noun
 Saxon noun
 saxophone noun
 saxophonist noun
 saying noun
+scabbard noun
 scaffold noun
 scaffolding noun pl=- note=uncountable (the structure)
 scalability noun pl=- note=uncountable
@@ -95,6 +97,7 @@ scalar noun
 scale noun
 scalp noun
 scam noun
+scamp noun
 scan noun
 scandal noun
 scanner noun
@@ -167,6 +170,7 @@ scruple noun
 scrutiny noun pl=- note=uncountable
 sculptor noun
 sculpture noun
+scum noun pl=- note=uncountable
 scuttle noun
 scutum noun pl=scuta note=anatomical plate (insects, reptiles)
 sea noun
@@ -179,6 +183,7 @@ seahorse noun
 seal noun
 seam noun
 seaman noun pl=seamen
+seamstress noun
 seaplane noun
 seaport noun
 search noun
@@ -243,6 +248,7 @@ sentinel noun
 sentry noun
 separation noun
 separatist noun
+separator noun
 septum noun pl=septa
 sepulchre noun us=sepulcher|sepulchre
 sequel noun
@@ -283,6 +289,7 @@ sewerage noun pl=- note=uncountable
 sex noun
 sexuality noun
 shack noun
+shackle noun
 shad noun pl=shad|shads
 shade noun
 shadow noun
@@ -330,6 +337,7 @@ shipwreck noun
 shipyard noun
 shire noun
 shirt noun
+shit noun style=colloquial
 shiver noun
 shoal noun
 shock noun
@@ -398,6 +406,7 @@ signal noun
 signatory noun
 signature noun
 signboard noun
+signer noun
 significance noun
 Sikh noun
 silence noun
@@ -450,7 +459,9 @@ skipper noun
 skirmish noun
 skirt noun
 skull noun
+skunk noun
 sky noun
+skylight noun
 skyline noun
 skyscraper noun
 SLA noun abbr note=service-level agreement
@@ -496,6 +507,7 @@ slug noun
 sluice noun
 slum noun
 slumber noun
+slump noun
 slur noun
 slurry noun
 smallholder noun
@@ -609,9 +621,11 @@ sovereign noun
 sovereignty noun
 Soviet noun
 sow noun note=female pig
+soy noun pl=- note=uncountable
 spa noun
 space noun
 spacecraft noun pl=spacecraft
+spacetime noun pl=- note=uncountable
 spacing noun
 spade noun
 spadefoot noun
@@ -692,6 +706,7 @@ sportswear noun pl=- note=uncountable
 spot noun
 spotlight noun
 spouse noun
+spout noun
 sprawl noun pl=- note=uncountable (urban sprawl)
 spray noun
 spreadsheet noun
@@ -756,6 +771,7 @@ starboard noun pl=- note=uncountable
 starch noun
 stare noun
 starfish noun pl=starfish|starfishes
+starlight noun pl=- note=uncountable
 starling noun
 starter noun
 startup noun
@@ -785,9 +801,12 @@ steamship noun
 steed noun
 steel noun
 steelhead noun pl=steelhead conf=85 note=plural steelheads unsure
+steelworks noun pl=steelworks note=singular and plural: a steelworks
 steeple noun
 steerage noun pl=- note=uncountable
 STEM noun abbr pl=- note=science, technology, engineering and mathematics
+stench noun
+stenosis noun pl=stenoses
 step noun
 stepbrother noun
 stepchild noun pl=stepchildren
@@ -846,6 +865,7 @@ storm noun
 story noun sense=floor gb=storey
 story noun sense=tale
 storyline noun
+storyteller noun
 storytelling noun pl=- note=uncountable
 stove noun
 straddle noun
@@ -941,6 +961,7 @@ substitute noun
 substitution noun
 substrate noun
 subsurface noun pl=- note=uncountable
+subterfuge noun
 subtitle noun
 subtlety noun
 subtotal noun
@@ -951,8 +972,11 @@ subway noun
 success noun
 succession noun
 successor noun
+succor noun gb=succour pl=- note=uncountable
+succulent noun
 suck noun style=colloquial conf=85 note=rare noun use
 sucker noun
+suction noun pl=- note=uncountable
 Sudanese noun pl=Sudanese
 sudoku noun
 sufferer noun
@@ -999,6 +1023,7 @@ superior noun
 superiority noun
 supermarket noun
 superpower noun
+superstar noun
 superstition noun
 superstructure noun
 superuser noun
@@ -1006,6 +1031,7 @@ supervision noun
 supervisor noun
 supper noun
 supplement noun
+supplementation noun
 supplier noun
 supply noun
 support noun
@@ -1024,6 +1050,7 @@ surmise noun
 surname noun
 surplus noun
 surprise noun
+surrealist noun
 surrender noun
 surrogate noun
 surroundings noun pl_only
@@ -1069,6 +1096,7 @@ swine noun pl=swine
 swing noun
 swirl noun
 switch noun
+swoop noun
 sword noun
 syllable noun
 symbol noun
@@ -1076,6 +1104,7 @@ symbolism noun
 symmetry noun
 sympathy noun
 symphony noun
+symposium noun pl=symposia|symposiums
 symptom noun
 synagogue noun
 syndicate noun
@@ -1085,6 +1114,7 @@ synergy noun
 synod noun
 synonym noun
 syntax noun
+synth noun
 synthesis noun pl=syntheses
 synthesizer noun gb=synthesiser|synthesizer
 Syrian noun

@@ -25,6 +25,7 @@ Neptune propn note=planet; Roman god
 NERC           propn abbr note=North American Electric Reliability Corporation
 Netflix propn
 Netherlands    propn
+Neva propn note=river in St Petersburg
 Nevada         propn
 Newark         propn
 Newcastle      propn

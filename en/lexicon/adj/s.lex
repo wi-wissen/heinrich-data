@@ -80,6 +80,7 @@ sensuous adj cmp=more adv=sensuously
 sentimental adj cmp=more
 separate adj adv=separately
 separatist adj
+sepulchral adj
 sequential adj adv=sequentially
 Serbian adj
 serene adj cmp=er|more adv=serenely
@@ -97,6 +98,7 @@ shallow adj cmp=er
 shameful adj cmp=more adv=shamefully
 shameless adj adv=shamelessly
 sharp adj cmp=er adv=sharply
+shaven adj
 sheer adj cmp=er
 shiny adj cmp=er
 shocking adj cmp=more adv=shockingly
@@ -141,7 +143,7 @@ slack adj cmp=er adv=slackly
 Slavic adj
 sleek adj cmp=er
 sleepless adj adv=sleeplessly
-sleepy adj cmp=er
+sleepy adj cmp=er adv=sleepily
 slender adj cmp=er
 slick adj cmp=er adv=slickly
 slight adj cmp=er adv=slightly
@@ -166,6 +168,7 @@ socialist adj
 societal adj
 socioeconomic adj
 sociological adj adv=sociologically
+sodden adj
 soft adj cmp=er adv=softly
 soggy adj cmp=er
 solar adj
@@ -205,7 +208,8 @@ sparkling adj
 sparkly adj
 sparse adj cmp=er adv=sparsely
 Spartan adj
-spatial adj
+spasmodic adj adv=spasmodically
+spatial adj adv=spatially
 special adj adv=specially
 specific adj adv=specifically
 spectacular adj cmp=more adv=spectacularly
@@ -263,7 +267,9 @@ stinky adj cmp=er
 stochastic adj
 stocky adj cmp=er
 stodgy adj cmp=er
+stoned adj
 stony adj cmp=er
+storied adj
 stormy adj cmp=er
 stout adj cmp=er adv=stoutly
 straight adj cmp=er
@@ -304,6 +310,8 @@ subtropical adj
 suburban adj
 successful adj cmp=more adv=successfully
 successive adj adv=successively
+succinct adj adv=succinctly
+succulent adj
 Sudanese adj
 sudden adj adv=suddenly
 sufficient adj adv=sufficiently
@@ -323,6 +331,7 @@ Sunni adj
 sunny adj cmp=er
 super adj
 superb adj adv=superbly
+supercilious adj
 superficial adj cmp=more adv=superficially
 superfluous adj
 superhuman adj
@@ -341,6 +350,7 @@ surgical adj
 surly adj cmp=er
 surprised adj cmp=more
 surprising adj cmp=more adv=surprisingly
+surrealist adj
 surrogate adj
 susceptible adj
 suspicious adj cmp=more adv=suspiciously
@@ -360,6 +370,7 @@ symmetrical adj adv=symmetrically
 sympathetic adj cmp=more adv=sympathetically
 symphonic adj
 symptomatic adj
+syncytial adj
 synonymous adj
 synthetic adj
 Syrian adj

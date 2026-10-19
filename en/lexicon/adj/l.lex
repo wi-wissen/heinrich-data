@@ -75,7 +75,7 @@ live          adj attr_only
 lively        adj cmp=er
 loathsome adj cmp=more
 local         adj adv=locally
-lofty         adj cmp=er
+lofty         adj cmp=er adv=loftily
 logical       adj cmp=more adv=logically
 logistical adj
 Lombard adj

@@ -23,14 +23,17 @@ bare verb
 bargain verb
 barge verb
 bark verb
+barrack verb region=GB conf=85 note=to jeer or heckle (British, Australian)
 barrage verb
 barricade verb
 barter verb
 base verb
+bash verb
 bat verb
 bathe verb
 batter verb
 battle verb
+bawl verb
 beam verb
 bear verb past=bore pp=borne|born note=born only in the sense of birth: he was born
 beat verb past=beat pp=beaten
@@ -86,10 +89,12 @@ blend verb
 bless verb past=blessed|blest[archaic] pp=blessed|blest[archaic]
 blight verb
 blind verb
+blindfold verb
 blink verb
 blister verb
 blitz verb
 block verb
+blockade verb
 blog verb
 bloom verb
 blossom verb
@@ -97,12 +102,14 @@ blot verb
 blow verb past=blew pp=blown
 bluff verb
 blunder verb
+blunt verb
 blur verb
 blush verb
 bluster verb
 board verb
 boast verb
 bob verb
+bog verb
 boil verb
 bolster verb
 bolt verb
@@ -179,6 +186,7 @@ burp verb
 burrow verb
 burst verb past=burst pp=burst
 bury verb
+bust verb past=busted|bust pp=busted|bust
 bustle verb
 busy verb
 butcher verb

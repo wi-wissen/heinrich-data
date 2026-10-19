@@ -2,6 +2,7 @@ B-side noun
 BA noun abbr note=Bachelor of Arts
 babble noun
 babe noun
+babel noun
 baboon noun
 baby noun
 Babylonian noun
@@ -45,6 +46,7 @@ bale noun
 ball noun
 ballad noun
 ballast noun pl=- note=uncountable
+ballerina noun
 ballet noun
 balloon noun
 ballot noun
@@ -71,6 +73,7 @@ bankroll noun
 bankruptcy noun
 banner noun
 banquet noun
+bantam noun
 baptism noun
 Baptist noun
 bar noun
@@ -90,7 +93,9 @@ barn noun
 baron noun
 baroness noun
 baronet noun
+baronetcy noun
 barony noun
+barrack noun note=usually plural barracks, which is its own entry
 barracks noun pl=barracks note=singular and plural: a barracks
 barrage noun
 barrel noun
@@ -105,6 +110,7 @@ baseball noun
 baseline noun
 baseman noun pl=basemen
 basement noun
+bash noun
 basic noun note=the basics
 basil noun pl=- note=uncountable
 basilica noun
@@ -115,6 +121,7 @@ basketball noun
 Basque noun
 bass noun
 bassist noun
+bassoon noun
 bastion noun
 bat noun
 batch noun
@@ -221,9 +228,11 @@ bicycle noun
 bid noun
 bidder noun
 biennial noun
+bight noun
 bigotry noun pl=- note=uncountable
 bike noun
 bikini noun
+bilirubin noun pl=- note=uncountable
 bill noun
 billboard noun
 billiard noun note=attributive (billiard table); plural billiards is the game
@@ -232,7 +241,10 @@ bin noun
 binary noun
 binder noun
 binding noun
+bingo noun pl=- note=the game
+binoculars noun pl_only
 biochemist noun
+biochemistry noun pl=- note=uncountable
 biodiesel noun pl=- note=uncountable
 biodiversity noun pl=- note=uncountable
 biofilm noun
@@ -246,6 +258,7 @@ biomarker noun
 biomass noun pl=- note=uncountable
 biopic noun
 biopsy noun
+bioremediation noun pl=- note=uncountable
 biosimilar noun
 biotechnology noun
 biplane noun
@@ -289,9 +302,11 @@ blazer noun
 bleach noun
 blend noun
 blender noun
+blendstock noun conf=90 note=fuel industry term
 blessing noun
 blight noun
 blind noun
+blindfold noun
 blindness noun pl=- note=uncountable
 bliss noun pl=- note=uncountable
 blister noun
@@ -302,6 +317,7 @@ block noun
 blockade noun
 blockchain noun
 blocker noun
+blockhouse noun
 blog noun
 blogger noun
 blond noun
@@ -331,6 +347,7 @@ boardroom noun
 boardwalk noun
 boast noun
 boat noun
+boathouse noun
 boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
@@ -385,6 +402,7 @@ borrower noun
 Bosnian noun
 bosom noun
 boss noun
+bot noun
 botanist noun
 botany noun pl=- note=uncountable
 botnet noun
@@ -468,6 +486,7 @@ briefing noun
 brig noun
 brigade noun
 brigadier noun
+brigand noun
 brigantine noun
 brightness noun
 brilliance noun pl=- note=uncountable
@@ -481,6 +500,7 @@ broadband noun pl=- note=uncountable
 broadcast noun
 broadcaster noun
 broadside noun
+brocade noun
 broccoli noun pl=- note=uncountable
 brochure noun
 broker noun
@@ -510,6 +530,8 @@ bubble noun
 buck noun
 bucket noun
 buckle noun
+buckskin noun
+buckwheat noun pl=- note=uncountable
 bud noun
 Buddhism noun pl=- note=uncountable
 Buddhist noun
@@ -530,6 +552,7 @@ Bulgarian noun
 bulge noun
 bulk noun pl=- note=uncountable
 bull noun
+bulldog noun
 bullet noun
 bulletin noun
 bullock noun
@@ -565,6 +588,7 @@ burnout noun
 burp noun
 burrito noun pl=burritos
 burrow noun
+bursary noun
 burst noun
 bus noun
 bush noun

@@ -12,8 +12,10 @@ cancel verb past=canceled[US]|cancelled pp=canceled[US]|cancelled ing=canceling[
 cane verb
 canoe verb
 canter verb
+canvass verb
 cap verb
 capitalize verb gb=capitalise|capitalize
+capsize verb
 captain verb
 caption verb
 captivate verb
@@ -35,6 +37,7 @@ case verb
 cash verb
 cast verb past=cast pp=cast
 catalog verb gb=catalogue|catalog
+catapult verb
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
 cater verb
@@ -80,6 +83,7 @@ chew verb
 chicken verb
 chill verb
 chime verb
+chink verb
 chip verb
 chirp verb
 choke verb
@@ -125,6 +129,7 @@ cling verb past=clung pp=clung
 clip verb
 cloak verb
 clock verb
+clog verb
 clone verb
 close verb
 closet verb
@@ -164,7 +169,7 @@ collide verb
 colonize verb gb=colonise|colonize
 color verb gb=colour
 comb verb
-combat verb
+combat verb past=combated|combatted pp=combated|combatted ing=combating|combatting note=the doubled forms are commoner in British English
 combine verb
 come verb past=came pp=come
 comfort verb
@@ -218,6 +223,7 @@ configure verb
 confine verb
 confirm verb
 confiscate verb
+conflate verb
 conflict verb
 conform verb
 confound verb
@@ -232,6 +238,7 @@ conjure verb
 connect verb
 connote verb
 conquer verb
+conscript verb
 consecrate verb
 consent verb
 conserve verb
@@ -360,8 +367,11 @@ curl verb
 curry verb
 curse verb
 curtail verb
+curtsey verb
+curtsy verb
 curve verb
 cushion verb
+cuss verb style=colloquial
 customize verb gb=customise|customize
 cut verb past=cut pp=cut
 cycle verb

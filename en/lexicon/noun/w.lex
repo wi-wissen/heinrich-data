@@ -69,6 +69,7 @@ waterway noun
 watt noun
 wattle noun
 wave noun
+waveform noun
 wavelength noun
 wax noun
 way noun
@@ -111,6 +112,7 @@ wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
 welly noun pl=wellies region=GB style=colloquial note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
+werewolf noun pl=werewolves
 west noun pl=- note=uncountable
 westerly noun
 western noun

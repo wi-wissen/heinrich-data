@@ -2,6 +2,7 @@ label         verb
 labor         verb gb=labour
 lace          verb
 lack          verb
+lacquer verb
 lag verb
 lament verb
 laminate verb
@@ -17,6 +18,7 @@ laud verb
 laugh         verb
 launch        verb
 launder       verb
+lave verb style=archaic note=to wash
 lay           verb past=laid pp=laid
 layer verb
 laze verb
@@ -30,6 +32,7 @@ learn         verb past=learned|learnt[GB] pp=learned|learnt[GB]
 lease         verb
 leave         verb past=left pp=left
 lecture       verb
+leer verb
 legalize verb gb=legalise|legalize
 legislate     verb
 lend          verb past=lent pp=lent

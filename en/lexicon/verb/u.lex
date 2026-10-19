@@ -28,6 +28,7 @@ unfriend verb prefix=un
 unify         verb
 uninstall verb
 unite         verb
+unitize verb gb=unitise|unitize
 unlace verb prefix=un
 unleash verb
 unlink verb
@@ -37,6 +38,7 @@ unmute verb
 unpack verb prefix=un
 unplug verb prefix=un
 unravel verb prefix=un
+unroll verb
 unsubscribe verb prefix=un
 untie verb prefix=un
 unveil        verb

@@ -10,6 +10,7 @@ daisy noun
 dale noun
 dam noun
 damage noun
+damask noun
 dame noun
 damp noun
 damsel noun
@@ -55,8 +56,10 @@ dealing noun
 dean noun
 deanery noun
 dear noun
+dearie noun
 death noun
 deathbed noun
+debacle noun
 debarment noun
 debate noun
 debenture noun
@@ -84,6 +87,7 @@ declaration noun
 decline noun
 decomposition noun
 decompression noun
+deconstruction noun
 decoration noun
 decrease noun
 decree noun
@@ -172,6 +176,7 @@ dependent noun gb=dependant|dependent note=the noun (a person who depends on ano
 depiction noun
 depletion noun
 deployment noun
+depopulation noun pl=- note=uncountable
 deportation noun
 deportment noun pl=- note=uncountable
 deposit noun
@@ -180,6 +185,7 @@ depositor noun
 depository noun
 depot noun
 depreciation noun
+depredation noun
 depression noun
 depressive noun
 deprivation noun
@@ -232,6 +238,7 @@ deterrence noun pl=- note=uncountable
 deterrent noun
 detonation noun
 detour noun
+detractor noun
 detriment noun
 deuce noun
 devaluation noun
@@ -351,7 +358,9 @@ disguise noun
 disgust noun
 dish noun
 dishonesty noun pl=- note=uncountable
+dishonor noun gb=dishonour
 dishwasher noun
+disincentive noun
 disinformation noun pl=- note=uncountable
 disintegration noun
 disinvestment noun
@@ -495,6 +504,7 @@ dragoon noun
 drain noun
 drainage noun pl=- note=uncountable
 drake noun
+dram noun
 drama noun
 dramatist noun
 drape noun
@@ -528,6 +538,7 @@ drop noun
 dropdown noun conf=85 note=also drop-down
 droplet noun
 drought noun
+drove noun note=herd or crowd, usually in droves
 drug noun
 drum noun
 drummer noun

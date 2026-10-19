@@ -1,3 +1,4 @@
+ukiyo-e noun pl=- conf=90 note=Japanese woodblock print genre
 Ukrainian     noun
 ultimatum noun pl=ultimatums|ultimata[rare]
 ultra noun conf=90 note=an extremist; also used as a prefix
@@ -64,6 +65,7 @@ uproar noun
 upset         noun
 upside noun
 upstairs      noun pl=- note=only singular (the upstairs)
+upstart noun
 uptake        noun
 uptime noun pl=- note=uncountable
 uptown noun pl=- note=the upper part of a city; uncountable

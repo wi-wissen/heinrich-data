@@ -28,12 +28,15 @@ talent noun
 talk noun
 talker noun
 tally noun
+talon noun
+tam noun conf=85 note=Scottish cap (tam-o'-shanter)
 Tamil noun
 tan noun
 tandem noun
 tangent noun
 tangerine noun
 tangle noun
+tango noun pl=tangos
 tank noun
 tanker noun
 tap noun
@@ -47,6 +50,7 @@ tariff noun
 tart noun
 task noun
 taskforce noun
+tassel noun
 taste noun
 tatter noun note=mostly plural: in tatters
 tattoo noun
@@ -213,6 +217,7 @@ tie noun
 tier noun
 tiger noun
 tights noun pl_only
+tiki noun
 tile noun
 tilefish noun pl=tilefish|tilefishes
 tiller noun
@@ -228,6 +233,7 @@ timer noun
 timescale noun
 timeshare noun
 timesheet noun
+timeslot noun
 timestamp noun
 timetable noun
 timidity noun pl=- note=uncountable
@@ -258,6 +264,7 @@ toenail noun
 toffee noun
 toil noun
 toilet noun
+toiletry noun
 token noun
 tolerance noun
 toleration noun pl=- note=uncountable
@@ -321,6 +328,8 @@ towel noun
 towelhead noun style=offensive note=slur for Muslims, Sikhs and Arabs
 tower noun
 town noun
+townhouse noun
+townland noun note=Irish land division
 township noun
 townsite noun
 townspeople noun pl_only
@@ -368,6 +377,7 @@ transferor noun
 transformation noun
 transformer noun
 transfusion noun
+transgression noun
 transient noun
 transistor noun
 transit noun
@@ -412,6 +422,7 @@ triad noun
 trial noun
 triangle noun
 tribe noun
+tribulation noun
 tribunal noun
 tribune noun
 tributary noun
@@ -419,11 +430,13 @@ tribute noun
 trick noun
 trickery noun pl=- note=uncountable
 trickle noun
+triennial noun
 trifle noun
 trilogy noun
 trinity noun
 trio noun
 trip noun
+triplane noun
 triplicate noun pl=- note=in triplicate
 triumph noun
 Trojan noun
@@ -433,6 +446,7 @@ troop noun
 trooper noun
 trophy noun
 tropic noun
+troposphere noun
 trot noun
 trouble noun
 troubleshooter noun
@@ -469,6 +483,7 @@ tummy noun
 tumor noun gb=tumour
 tumult noun
 tuna noun pl=tuna|tunas
+tundra noun
 tune noun
 tunic noun
 tunnel noun

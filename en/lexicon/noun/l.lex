@@ -7,6 +7,7 @@ labrum noun pl=labra|labrums conf=80 note=anatomy; labra in technical use
 labyrinth noun
 lace          noun
 lack          noun
+lacquer noun
 lacrosse noun pl=- note=uncountable
 lactose noun pl=- note=uncountable
 lad           noun
@@ -26,6 +27,7 @@ lament noun
 lamentation noun
 lamina noun pl=laminae|laminas
 lamp          noun
+lamplight noun pl=- note=uncountable
 lance noun
 land          noun
 lander noun
@@ -92,6 +94,7 @@ leaflet noun
 league        noun
 leak          noun
 leakage noun
+leaning noun
 leap          noun
 learner noun
 learning      noun
@@ -109,6 +112,7 @@ ledge         noun
 ledger noun
 lee noun
 leek noun
+leer noun
 left          noun
 leftist noun
 lefty noun style=colloquial
@@ -133,6 +137,7 @@ length        noun
 lens          noun
 lentil noun
 leopard       noun
+leper noun
 lesbian       noun
 lesbo noun style=offensive note=homophobic slur
 lesion noun
@@ -158,6 +163,7 @@ libel noun
 liberal       noun
 liberalism noun pl=- note=uncountable
 liberality noun
+liberalization noun gb=liberalisation|liberalization
 liberation    noun
 libertarian noun
 liberty       noun
@@ -284,6 +290,7 @@ logistics     noun pl=- note=uncountable
 logo          noun note=plural logos
 logon noun
 logout noun
+loin noun
 lollipop noun
 Lombard noun
 loneliness    noun pl=- note=uncountable

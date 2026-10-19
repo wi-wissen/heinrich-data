@@ -92,6 +92,7 @@ entertain verb
 entice verb
 entitle verb
 entrance verb note=to enchant (entranced)
+entrap verb double
 entreat verb
 entrench verb
 entrust verb
@@ -181,4 +182,4 @@ extract verb
 extradite verb
 extricate verb
 exult verb
-eye verb
+eye verb ing=eyeing|eying

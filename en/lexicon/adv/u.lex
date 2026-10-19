@@ -8,3 +8,4 @@ upstream      adv
 uptown adv type=place
 upward        adv
 upwards       adv
+upwind adv

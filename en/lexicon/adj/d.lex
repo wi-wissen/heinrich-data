@@ -17,6 +17,7 @@ deadly adj cmp=er|more
 deaf adj cmp=er
 deafblind adj
 dear adj cmp=er adv=dearly
+deathly adj
 deceased adj
 decennial adj
 decent adj cmp=more adv=decently
@@ -25,11 +26,13 @@ deciduous adj
 decimal adj
 decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
+decrepit adj
 deductible adj
 deep adj cmp=er adv=deeply
 defective adj
 defenseless adj gb=defenceless
 defensive adj adv=defensively
+deferential adj adv=deferentially
 defiant adj adv=defiantly
 deficient adj
 definite adj adv=definitely
@@ -58,7 +61,9 @@ dependent adj cmp=more
 deplorable adj cmp=more adv=deplorably
 depressed adj cmp=more
 depressive adj
+deranged adj
 derelict adj
+derisive adj adv=derisively
 derivative adj
 derogatory adj
 descriptive adj
@@ -132,6 +137,7 @@ disillusioned adj cmp=more
 disinterested adj
 disjoint adj
 disjointed adj cmp=more adv=disjointedly
+disloyal adj
 dismal adj adv=dismally
 disordered adj cmp=more
 disorderly adj
@@ -143,6 +149,7 @@ disreputable adj cmp=more
 disruptive adj cmp=more adv=disruptively
 dissatisfied adj cmp=more
 dissident adj
+dissolute adj
 distant adj cmp=more adv=distantly
 distasteful adj cmp=more
 distinct adj cmp=more adv=distinctly
@@ -163,11 +170,13 @@ documentary adj
 dogged adj cmp=more adv=doggedly
 domestic adj adv=domestically
 dominant adj adv=dominantly
+domineering adj
 Dominican adj
 dormant adj
 dorsal adj
 double adj
 doubtful adj cmp=more adv=doubtfully
+doughty adj
 downcast adj
 downhill adj
 downloadable adj

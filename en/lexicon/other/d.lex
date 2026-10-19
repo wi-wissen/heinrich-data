@@ -1,3 +1,4 @@
+d'Alene x foreign note=only in Coeur d'Alene (Idaho)
 d'Ivoire x foreign note=only in Côte d'Ivoire
 da x foreign note=Italian/Portuguese particle in names (Leonardo da Vinci)
 damn intj

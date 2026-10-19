@@ -16,7 +16,9 @@ radiance noun pl=- note=uncountable
 radiation noun note=plural radiations: kinds of radiation; adaptive radiations
 radiator noun
 radical noun
+radicalism noun pl=- note=uncountable
 radio noun pl=radios
+radiocarbon noun pl=- note=uncountable
 radioisotope noun
 radiopharmaceutical noun
 radish noun
@@ -157,6 +159,7 @@ recruiter noun
 recruitment noun pl=- note=uncountable
 rectangle noun
 rectification noun
+rectifier noun
 rector noun
 recurrence noun
 recusal noun
@@ -170,6 +173,7 @@ redevelopment noun
 redirect noun
 redistribution noun
 redistricting noun pl=- note=uncountable
+redness noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
 reduction noun
@@ -286,6 +290,7 @@ renovation noun
 renown noun pl=- note=uncountable
 rent noun
 rental noun
+rentcharge noun conf=90 note=English property law term
 renter noun
 renunciation noun
 reorganization noun gb=reorganisation|reorganization
@@ -327,6 +332,7 @@ republic noun
 republican noun
 reputation noun
 repute noun pl=- note=uncountable: of good repute
+requalification noun
 request noun
 requester noun
 requestor noun note=also spelled requester
@@ -386,6 +392,7 @@ restructuring noun
 result noun
 resume noun conf=85 note=US for curriculum vitae; also written résumé
 resumption noun
+resupply noun
 resurgence noun
 resurrection noun
 retail noun pl=- note=uncountable
@@ -466,6 +473,7 @@ rigidity noun
 rigor noun gb=rigour
 rim noun
 ring noun
+ringette noun pl=- note=a team sport (Canada)
 ringtone noun
 rink noun
 riot noun
@@ -544,6 +552,7 @@ rover noun
 roving noun conf=90 note=wool fibre prepared for spinning; also roving reporter (verb form)
 row noun
 rowan noun
+rowdy noun
 rower noun
 rowing noun pl=- note=uncountable
 royal noun
@@ -556,6 +565,7 @@ rub noun
 rubber noun
 rubbish noun pl=- note=uncountable
 rubble noun pl=- note=uncountable
+ruble noun gb=rouble|ruble
 ruby noun
 rucksack noun
 rudder noun
@@ -574,6 +584,7 @@ ruling noun
 rum noun
 rumble noun
 rumor noun gb=rumour
+rump noun
 run noun
 runaway noun
 runner noun

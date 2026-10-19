@@ -50,6 +50,8 @@ office        noun
 officer       noun
 official      noun
 officialdom noun pl=- note=uncountable
+offing noun note=in the offing
+offseason noun
 offset        noun
 offshoot noun
 offsite noun conf=85 note=meeting held away from the office
@@ -71,6 +73,7 @@ onboarding noun pl=- note=uncountable
 oncology noun pl=- note=uncountable
 onesie noun
 onion noun
+onlooker noun
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
@@ -161,6 +164,7 @@ outline       noun
 outlook       noun
 outpatient    noun
 outpost noun
+outpouring noun
 output        noun
 outrage       noun
 outreach      noun pl=- note=uncountable
@@ -185,6 +189,7 @@ overhead      noun
 overlap       noun
 overlay noun
 overload noun
+overlord noun
 overpayment noun
 override noun
 overrun noun
@@ -199,6 +204,7 @@ owl           noun
 owner         noun
 ownership     noun
 ox noun pl=oxen
+oxalis noun
 oxidation noun
 oxide         noun
 oxygen        noun pl=- note=uncountable

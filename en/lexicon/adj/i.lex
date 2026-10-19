@@ -9,6 +9,7 @@ identifiable   adj
 ideological    adj adv=ideologically
 idle           adj cmp=er adv=idly
 ignoble adj
+ignominious adj adv=ignominiously
 ignorant       adj
 ill            adj
 illegal        adj adv=illegally
@@ -28,11 +29,14 @@ immeasurable adj adv=immeasurably
 immediate      adj adv=immediately
 immemorial adj
 immense        adj adv=immensely
+immersive adj
 imminent       adj
 immoral adj
 immortal       adj
 immovable adj
 immune         adj
+immunocompromised adj
+immutable adj adv=immutably
 impactful adj cmp=more
 impartial      adj adv=impartially
 impassable adj
@@ -47,6 +51,7 @@ imperial       adj
 imperious adj cmp=more adv=imperiously
 impersonal adj adv=impersonally
 impertinent adj
+imperturbable adj
 impetuous adj cmp=more
 implicit adj adv=implicitly
 important      adj cmp=more adv=importantly
@@ -58,6 +63,7 @@ impregnable adj
 impressive     adj adv=impressively
 improbable     adj adv=improbably
 improper       adj adv=improperly
+improvisational adj
 impudent adj cmp=more
 impulsive adj adv=impulsively
 inaccessible adj
@@ -73,6 +79,7 @@ inaudible adj
 inaugural      adj
 incalculable adj
 incapable      adj
+incarnate adj
 incendiary adj
 incensed adj
 incessant adj adv=incessantly
@@ -103,6 +110,7 @@ indefatigable adj adv=indefatigably
 indefinite     adj adv=indefinitely
 independent    adj adv=independently
 indescribable adj
+indestructible adj
 Indian         adj
 indicative     adj
 indie adj
@@ -122,7 +130,7 @@ Indonesian     adj
 indoor         adj attr_only
 indulgent adj cmp=more
 industrial     adj adv=industrially
-industrious adj
+industrious adj adv=industriously
 ineffective    adj adv=ineffectively
 ineffectual adj
 inefficient adj adv=inefficiently
@@ -137,6 +145,7 @@ inexplicable adj
 inexpressible adj adv=inexpressibly
 inextricable adj adv=inextricably
 infamous       adj
+infantile adj
 infeasible adj
 infectious     adj
 inferior       adj
@@ -154,6 +163,7 @@ infrared adj
 infrequent adj adv=infrequently
 ingenious      adj adv=ingeniously
 ingenuous adj adv=ingenuously
+ingrained adj
 inherent       adj adv=inherently
 inhospitable adj
 inhuman adj
@@ -180,6 +190,7 @@ inseparable adj
 insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
+insincere adj adv=insincerely
 insistent adj cmp=more adv=insistently
 insolent adj adv=insolently
 insolvent adj
@@ -193,6 +204,7 @@ instructive adj
 instrumental   adj
 insufficient   adj adv=insufficiently
 insular adj cmp=more
+insupportable adj
 intact         adj
 intangible adj
 integral       adj adv=integrally
@@ -225,9 +237,11 @@ interpersonal adj
 interpretive adj
 interstate     adj
 interstellar adj
+interstitial adj
 intestinal adj
 intimate       adj adv=intimately
 intolerable    adj adv=intolerably
+intransitive adj
 intrastate adj
 intricate adj cmp=more adv=intricately
 intrinsic adj adv=intrinsically

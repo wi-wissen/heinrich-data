@@ -69,9 +69,11 @@ meek adj cmp=er adv=meekly
 melancholy    adj
 mellow adj cmp=er
 melodic adj
+membranous adj
 memorable     adj
 memorial      adj
 menacing adj adv=menacingly
+menstrual adj
 mental        adj adv=mentally
 mercantile adj
 mercenary adj
@@ -80,6 +82,7 @@ merciless adj cmp=more adv=mercilessly
 mere          adj attr_only adv=merely
 merry         adj cmp=er adv=merrily
 messy adj cmp=er adv=messily
+meta adj conf=85 note=self-referential; informal
 metabolic adj
 metallic      adj
 metaphysical adj
@@ -97,6 +100,7 @@ micropolitan  adj note=US census term
 microscopic adj
 mid           adj attr_only note=also used as a prefix (mid-June)
 middle        adj attr_only
+middling adj
 midland adj attr_only
 mighty        adj cmp=er adv=mightily
 migratory     adj
@@ -108,6 +112,7 @@ mindful       adj pred_only
 mini          adj
 miniature     adj
 minimal       adj adv=minimally
+minimalist adj
 minimum       adj
 ministerial   adj
 minor         adj
@@ -171,15 +176,18 @@ multinational adj
 multiplayer adj
 multiple      adj
 multipurpose adj
+multitudinous adj
 municipal     adj
 murderous adj
 muscular      adj
 mushy adj cmp=er
 musical       adj adv=musically
 Muslim        adj
+musty adj cmp=er
 mutant adj
 mute adj adv=mutely
 mutual        adj adv=mutually
+myocardial adj
 myriad adj
 mysterious    adj cmp=more adv=mysteriously
 mystic adj

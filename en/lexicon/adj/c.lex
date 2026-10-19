@@ -54,6 +54,7 @@ chartered adj
 chaste adj cmp=er|more adv=chastely
 chatty adj cmp=er
 cheap adj cmp=er adv=cheaply
+checkered adj gb=chequered
 cheeky adj cmp=er adv=cheekily
 cheerful adj cmp=more adv=cheerfully
 cheery adj cmp=er adv=cheerily
@@ -107,15 +108,19 @@ cluttered adj cmp=more
 coal-fired adj
 coarse adj cmp=er adv=coarsely
 coastal adj
+coaxial adj
 coeducational adj
 coercive adj
 cognate adj
 cognitive adj adv=cognitively
 coherent adj cmp=more adv=coherently
 cohesive adj cmp=more
+coincidental adj adv=coincidentally
 cold adj cmp=er adv=coldly
 collaborative adj adv=collaboratively
 collateral adj
+collectable adj
+collectible adj
 collective adj adv=collectively
 collegiate adj
 colloquial adj cmp=more adv=colloquially
@@ -204,7 +209,7 @@ constructive adj cmp=more adv=constructively
 consular adj
 consummate adj adv=consummately
 contemplative adj
-contemporaneous adj
+contemporaneous adj adv=contemporaneously
 contemporary adj
 contemptible adj cmp=more
 contemptuous adj cmp=more adv=contemptuously
@@ -238,6 +243,7 @@ Coptic adj
 coral adj
 cordial adj adv=cordially
 core adj
+corneal adj
 Cornish adj
 coronary adj
 corporal adj
@@ -303,11 +309,13 @@ cultured adj cmp=more
 cumbersome adj cmp=more
 cumulative adj adv=cumulatively
 cunning adj cmp=more adv=cunningly
+curative adj
 curious adj cmp=more adv=curiously
 curly adj cmp=er
 current adj cmp=more adv=currently
 cursed adj
 curt adj cmp=er adv=curtly
+curtained adj
 curved adj
 custodial adj
 custom adj

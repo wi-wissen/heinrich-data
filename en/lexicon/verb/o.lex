@@ -37,6 +37,7 @@ orient verb
 originate     verb
 ornament      verb
 orphan verb
+oscillate verb
 oust verb
 out verb style=colloquial note=to reveal someone's secret, e.g. sexual orientation
 outbid verb prefix=out past=outbid pp=outbid
@@ -59,6 +60,7 @@ overflow verb
 overhang verb prefix=over past=overhung pp=overhung
 overhaul verb
 overhear verb prefix=over past=overheard pp=overheard
+overheat verb
 overlap       verb prefix=over
 overlay verb prefix=over past=overlaid pp=overlaid
 overlie verb prefix=over past=overlay pp=overlain ing=overlying

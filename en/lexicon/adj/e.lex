@@ -54,6 +54,7 @@ employable adj cmp=more
 empty adj cmp=er
 endemic adj
 endless adj adv=endlessly
+endocrine adj
 energetic adj adv=energetically
 enforceable adj
 engaging adj cmp=more
@@ -82,16 +83,20 @@ ergonomic adj adv=ergonomically
 erotic adj
 erratic adj adv=erratically
 erroneous adj adv=erroneously
+esophageal adj gb=oesophageal
 especial adj
 essential adj adv=essentially
+estimable adj
 Estonian adj
 eternal adj adv=eternally
 ethical adj adv=ethically
 Ethiopian adj
 ethnic adj adv=ethnically
+ethnographic adj
 Eurasian adj
 European adj
 evangelical adj
+evasive adj adv=evasively
 even adj adv=evenly
 eventful adj cmp=more
 eventual adj adv=eventually
@@ -111,6 +116,7 @@ excessive adj adv=excessively
 excited adj adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
+excruciating adj adv=excruciatingly
 executive adj
 exemplary adj
 exempt adj

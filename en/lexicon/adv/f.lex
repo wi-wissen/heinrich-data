@@ -6,6 +6,7 @@ firsthand adv type=manner
 firstly adv
 foremost       adv
 forever        adv type=time
+forsooth adv style=archaic
 forth          adv type=place|time
 forthwith      adv type=time
 fortnightly adv region=GB

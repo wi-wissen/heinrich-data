@@ -1,6 +1,7 @@
 Gaelic         adj
 gallant        adj adv=gallantly
 garlicky adj
+garrulous adj
 gaseous adj
 gastrointestinal adj
 gaudy adj cmp=er
@@ -45,12 +46,14 @@ ginormous adj style=colloquial
 girlish adj
 glacial adj
 glad           adj cmp=er adv=gladly
+glamorous adj cmp=more adv=glamorously
 glassy adj cmp=er
 glittery adj
 global         adj adv=globally
 gloomy         adj cmp=er adv=gloomily
 glorious       adj adv=gloriously
 glossy adj cmp=er
+godlike adj
 golden         adj
 good           adj cmp=better sup=best adv=well
 good-natured adj cmp=more adv=good-naturedly
@@ -85,8 +88,11 @@ grizzly        adj
 gross          adj cmp=er adv=grossly
 grotesque      adj
 groundbreaking adj
+groundless adj
 grubby adj cmp=er
 gruff adj cmp=er adv=gruffly
 grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
+guileless adj
 guilty         adj cmp=er|more adv=guiltily
+guttural adj

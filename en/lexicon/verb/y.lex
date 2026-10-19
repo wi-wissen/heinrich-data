@@ -1,3 +1,4 @@
+yank verb
 yawn verb
 yearn verb
 yell verb

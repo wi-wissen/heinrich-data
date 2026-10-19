@@ -13,6 +13,7 @@ faction        noun
 factor         noun
 factory        noun
 faculty        noun
+faery noun style=archaic
 fail           noun
 failing noun
 failure        noun
@@ -54,6 +55,7 @@ fat            noun
 fatality       noun
 fate           noun
 father         noun
+fatherland noun
 fathom noun
 fatigue        noun
 faucet noun region=US note=British tap
@@ -87,7 +89,9 @@ felon noun
 felony noun
 felt           noun note=the fabric
 female         noun
+femininity noun pl=- note=uncountable
 feminist       noun
+femur noun pl=femurs|femora
 fen noun
 fence          noun
 fencer noun
@@ -135,6 +139,7 @@ filing         noun
 Filipino       noun note=plural Filipinos
 fill           noun
 filler noun
+filly noun
 film           noun
 filmmaker      noun
 filter         noun
@@ -245,6 +250,7 @@ flu            noun pl=- note=influenza
 fluctuation noun
 flue noun
 fluid          noun
+fluoride noun
 flush          noun
 flute          noun
 flutter noun
@@ -263,6 +269,7 @@ foliage        noun pl=- note=uncountable
 folio noun
 folk           noun pl=folk|folks
 folklore       noun pl=- note=uncountable
+follicle noun
 follow-up      noun
 follower       noun
 folly          noun
@@ -324,6 +331,7 @@ formula        noun pl=formulas|formulae
 formulary noun
 formulation    noun
 fort           noun
+forte noun
 fortification  noun
 fortitude noun
 fortnight      noun region=GB
@@ -401,6 +409,7 @@ fruition noun
 frustration    noun
 FTA            noun abbr note=free trade agreement
 FTE noun abbr note=full-time equivalent
+fudge noun
 fuel           noun
 fugitive       noun
 fulfillment noun gb=fulfilment
@@ -413,6 +422,7 @@ functionality  noun
 functionary noun
 fund           noun
 fundamental    noun
+fundamentalist noun
 funding        noun pl=- note=uncountable; the verb form funding comes from fund
 fundraiser noun
 fundraising    noun pl=- note=uncountable
@@ -428,6 +438,7 @@ furniture      noun pl=- note=uncountable
 furrow noun
 furtherance    noun pl=- note=uncountable
 fury           noun
+furze noun pl=- note=uncountable
 fuse noun
 fuselage       noun
 fusion         noun

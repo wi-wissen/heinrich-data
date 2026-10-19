@@ -27,6 +27,7 @@ glance         verb
 glare          verb
 glaze verb
 gleam          verb
+glean verb
 glide          verb
 glimmer verb
 glimpse        verb
@@ -39,6 +40,7 @@ glow           verb
 glue verb ing=gluing|glueing[rare]
 gnaw verb
 go             verb 3sg=goes past=went pp=gone
+goad verb
 gobble verb
 google verb
 gore verb

@@ -13,8 +13,10 @@ observable adj
 observant adj cmp=more
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
+obtainable adj
 obvious        adj cmp=more adv=obviously
 occasional     adj adv=occasionally
+occludent adj conf=80 note=rare, occluding
 occult adj
 occupational   adj
 oceanic        adj
@@ -34,10 +36,12 @@ ole            adj style=colloquial note=old
 Olympian adj
 Olympic        adj
 ominous adj cmp=more adv=ominously
+omnipotent adj
 onboard adj
 onerous adj cmp=more adv=onerously
 ongoing        adj
 online         adj
+onscreen adj
 onshore        adj
 onsite adj
 onstage adj

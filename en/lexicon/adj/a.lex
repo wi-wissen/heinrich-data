@@ -27,6 +27,7 @@ achievable adj
 achy adj cmp=er
 acidic adj cmp=more
 acoustic adj adv=acoustically
+acrobatic adj adv=acrobatically
 actionable adj
 active adj cmp=more adv=actively
 actual adj adv=actually
@@ -64,6 +65,8 @@ affirmative adj adv=affirmatively
 affluent adj cmp=more
 affordable adj cmp=more
 Afghan adj
+afire adj pred_only
+aflame adj pred_only
 afloat adj pred_only
 afoot adj pred_only
 aforementioned adj attr_only
@@ -87,19 +90,23 @@ alarming adj cmp=more adv=alarmingly
 Albanian adj
 alcoholic adj
 alert adj adv=alertly
+algal adj
 algebraic adj
 Algerian adj
+algorithmic adj adv=algorithmically
 alien adj
 alight adj pred_only
 alike adj pred_only
 alive adj pred_only
 alleged adj attr_only adv=allegedly
+allosteric adj
 allowable adj
 alluvial adj
 almighty adj
 alone adj pred_only
 aloof adj cmp=more
 alphabetical adj adv=alphabetically
+alphanumeric adj
 alpine adj
 alright adj conf=80 note=informal spelling of all right
 alternate adj adv=alternately
@@ -199,6 +206,7 @@ articular adj
 articulate adj adv=articulately
 artificial adj adv=artificially
 artistic adj adv=artistically
+artless adj adv=artlessly
 arty adj cmp=er
 ashamed adj pred_only
 Ashkenazi adj
@@ -209,9 +217,12 @@ assertive adj cmp=more adv=assertively
 assignable adj
 assistive adj
 associate adj
+associative adj
 assured adj adv=assuredly
 Assyrian adj
+astonishing adj adv=astonishingly
 astronomical adj adv=astronomically
+asymmetrical adj
 Athenian adj
 athletic adj
 Atlantic adj

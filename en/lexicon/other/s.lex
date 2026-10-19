@@ -13,6 +13,7 @@ shh intj
 sic x foreign note=Latin, marks a quotation as original
 Signor x foreign note=Italian title
 Sinn x foreign note=in Sinn Féin
+sous x foreign note=only in sous-chef, sous vide
 sq. x abbr note=square
 Sr. x abbr note=Senior
 ss. x abbr note=sections

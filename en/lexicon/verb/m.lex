@@ -26,6 +26,7 @@ marry         verb
 marshal       verb
 martyr        verb
 marvel        verb
+mash verb
 mask          verb
 masquerade verb
 mass          verb

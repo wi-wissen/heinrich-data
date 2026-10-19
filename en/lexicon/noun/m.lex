@@ -2,6 +2,7 @@ MA             noun abbr note=Master of Arts; also Massachusetts
 ma             noun style=colloquial note=mother
 ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
+mace noun
 Macedonian noun
 machine        noun
 machinery      noun pl=- note=uncountable
@@ -14,6 +15,7 @@ mademoiselle   noun pl=mesdemoiselles|mademoiselles
 madman noun pl=madmen
 madness        noun pl=- note=uncountable
 madonna        noun
+maestro noun pl=maestros|maestri
 mafia noun
 magazine       noun
 magic          noun pl=- note=uncountable
@@ -39,6 +41,7 @@ main           noun
 mainframe noun
 mainland       noun
 mainline noun
+mainmast noun
 mainstream     noun
 maintenance    noun pl=- note=uncountable
 maize noun pl=- note=uncountable
@@ -57,6 +60,7 @@ male           noun
 malfunction noun
 malice         noun pl=- note=uncountable
 mall           noun
+mallard noun
 mallet noun
 malnutrition noun pl=- note=uncountable
 malpractice noun
@@ -93,10 +97,12 @@ mannequin noun
 manner         noun
 manor          noun
 manpower noun pl=- note=uncountable
+manse noun
 mansion        noun
 manslaughter noun pl=- note=uncountable
 mantelpiece noun
 mantle         noun
+mantra noun
 manual         noun
 manufacture    noun
 manufacturer   noun
@@ -124,6 +130,7 @@ marketer noun
 marketing      noun pl=- note=uncountable
 marketplace    noun
 marking        noun
+marksman noun pl=marksmen
 markup noun
 marmalade noun pl=- note=uncountable
 marquess noun
@@ -139,6 +146,7 @@ marvel         noun
 Marxist noun
 mascot         noun
 masculinity noun
+mash noun
 mask           noun
 mason          noun
 masonry noun pl=- note=uncountable
@@ -151,6 +159,7 @@ master         noun
 masterclass noun
 masterpiece noun
 mastery noun pl=- note=uncountable
+masthead noun
 mat noun
 match          noun
 mate           noun
@@ -197,12 +206,14 @@ mechanic       noun
 mechanism      noun
 medal          noun
 medalist       noun gb=medallist
+medallion noun
 median         noun
 mediation noun
 mediator noun
 medic noun
 medication     noun
 medicine       noun
+mediocrity noun
 meditation noun
 medium         noun pl=media|mediums
 medley noun
@@ -212,6 +223,7 @@ meeting        noun
 megabyte noun
 megawatt noun
 melancholy     noun pl=- note=uncountable
+melanoma noun
 melodrama noun
 melody         noun
 melon noun
@@ -260,6 +272,7 @@ method         noun
 Methodist      noun
 methodology    noun
 methyl noun
+methylation noun
 metric         noun
 metro          noun note=plural metros
 metropolis noun pl=metropolises
@@ -310,6 +323,7 @@ millimeter noun gb=millimetre
 millionaire noun
 millipede noun
 mimic noun
+minaret noun
 mince noun pl=- note=minced meat, chiefly British; uncountable
 mind           noun
 mindset noun
@@ -318,8 +332,10 @@ miner          noun
 mineral        noun
 mini           noun
 miniature      noun
+minimalist noun
 minimum        noun pl=minima|minimums
 mining         noun
+minion noun
 miniseries     noun pl=miniseries
 minister       noun
 ministry       noun
@@ -334,6 +350,7 @@ mirage noun
 mire noun
 mirror         noun
 mirth noun pl=- note=uncountable
+miscalculation noun
 miscarriage noun
 mischief       noun pl=- note=uncountable
 misclassification noun
@@ -399,6 +416,7 @@ molar noun
 mold           noun gb=mould
 mole noun
 molecule       noun
+molestation noun
 mollusk noun gb=mollusc
 mom            noun region=US note=British mum
 moment         noun
@@ -441,6 +459,7 @@ moral          noun
 morale noun pl=- note=uncountable
 morality       noun
 moratorium     noun pl=moratoria|moratoriums
+moray noun
 Mormon noun
 morn noun style=archaic note=poetic for morning
 morning        noun
@@ -473,6 +492,7 @@ motor          noun
 motorbike noun
 motorcycle     noun
 motorist noun
+motorsport noun
 motorway       noun region=GB note=US freeway, highway
 motto          noun pl=mottoes|mottos
 mound          noun
@@ -480,10 +500,12 @@ mount          noun
 mountain       noun
 mountaineer noun
 mountaineering noun pl=- note=uncountable (the sport)
+mountainside noun
 mourner noun
 mourning       noun pl=- note=uncountable
 mouse          noun pl=mice
 mouth          noun
+mouthpiece noun
 move           noun
 movement       noun
 movie          noun
