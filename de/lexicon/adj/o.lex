@@ -14,6 +14,7 @@ offensichtlich adj
 öffentlich adj
 offiziell adj
 offline adj indecl
+öfter adj note=attributive: bei öfterem Besuch; des Öfteren
 ohnmächtig adj
 okay adj indecl
 ökologisch adj
@@ -31,6 +32,7 @@ ordnungswidrig adj
 organisatorisch adj
 organisch adj
 original adj
+originell adj cmp=origineller sup=originellsten
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 örtlich adj
 osmanisch adj

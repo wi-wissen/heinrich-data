@@ -4,6 +4,7 @@ nachfolgend adj
 nachhaltig adj cmp=nachhaltiger sup=nachhaltigsten
 nachlässig adj cmp=nachlässiger sup=nachlässigsten
 nachrangig adj
+nächsthöher adj attr_only note=die nächsthöhere Stufe
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
 nachträglich adj
@@ -14,7 +15,9 @@ nackt adj cmp=nackter sup=nacktesten
 nah          adj cmp=näher sup=nächsten
 naiv adj cmp=naiver sup=naivsten
 namentlich adj
+namhaft adj cmp=namhafter sup=namhaftesten
 nämlich adj attr_only style=archaic note=der nämliche = derselbe
+napoleonisch adj
 narbig adj
 nass adj cmp=nasser|nässer sup=nassesten|nässesten
 national adj
@@ -43,6 +46,7 @@ niedrig adj cmp=niedriger sup=niedrigsten
 nobel adj cmp=nobler sup=noblesten
 nordisch adj
 nördlich adj note=also a genitive preposition (closed/prepositions.lex)
+nordrhein-westfälisch adj
 normal adj cmp=normaler sup=normalsten
 norwegisch adj
 notariell adj
@@ -50,5 +54,6 @@ nötig adj cmp=nötiger sup=nötigsten
 notwendig adj cmp=notwendiger sup=notwendigsten
 nüchtern adj cmp=nüchterner sup=nüchternsten
 nuklear adj
+numerisch adj
 nützlich adj cmp=nützlicher sup=nützlichsten
 nutzlos adj cmp=nutzloser sup=nutzlosesten

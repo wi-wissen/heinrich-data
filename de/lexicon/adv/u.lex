@@ -3,6 +3,8 @@
 üblicherweise adv
 übrigens adv
 umher adv type=direction
+umhin adv note=nicht umhin können
 unbedingt adv
 ungern adv type=manner
 unterdessen adv type=time
+unversehens adv

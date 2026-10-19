@@ -54,6 +54,7 @@ Nase noun g=f gen=Nase pl=Nasen
 Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
 Nation noun g=f gen=Nation pl=Nationen
 Nationalismus noun g=m gen=Nationalismus pl=Nationalismen note=bare genitive
+Nationalist noun g=m gen=Nationalisten pl=Nationalisten
 Nationalität noun g=f gen=Nationalität pl=Nationalitäten
 Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
 Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
@@ -147,6 +148,7 @@ Nuggets noun g=pl
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Nummer noun g=f gen=Nummer pl=Nummern
+Nuntius noun g=m gen=Nuntius pl=Nuntien note=papal envoy; bare genitive
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
 Nussknacker noun g=m gen=Nussknackers pl=Nussknacker

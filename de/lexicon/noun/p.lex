@@ -1,5 +1,6 @@
 Paar noun g=n gen=Paares|Paars pl=Paare note=das Paar (a pair); ein paar (a few) is a determiner in closed/
 Paarreim noun g=m gen=Paarreims|Paarreimes pl=Paarreime
+Paarung noun g=f gen=Paarung pl=Paarungen
 Pacht noun g=f gen=Pacht pl=Pachten
 Pächter noun g=m gen=Pächters pl=Pächter
 Pächterin noun g=f gen=Pächterin pl=Pächterinnen
@@ -8,6 +9,7 @@ Pädagoge noun g=m gen=Pädagogen pl=Pädagogen
 Pädagogik noun g=f gen=Pädagogik pl=- note=mass noun
 Pädagogin noun g=f gen=Pädagogin pl=Pädagoginnen
 Paddel noun g=n gen=Paddels pl=Paddel
+Padischah noun g=m gen=Padischahs pl=Padischahs
 Paket noun g=n gen=Pakets|Paketes pl=Pakete
 Paketshop noun g=m gen=Paketshops pl=Paketshops
 Pakt noun g=m gen=Pakts|Paktes pl=Pakte
@@ -62,6 +64,7 @@ Parodie noun g=f gen=Parodie pl=Parodien
 Partei noun g=f gen=Partei pl=Parteien
 Partie noun g=f gen=Partie pl=Partien
 Partikel noun g=f gen=Partikel pl=Partikeln
+Partisan noun g=m gen=Partisanen pl=Partisanen
 Partizip noun g=n gen=Partizips pl=Partizipien
 Partner noun g=m gen=Partners pl=Partner
 Partnerin noun g=f gen=Partnerin pl=Partnerinnen
@@ -84,12 +87,16 @@ Patchworkfamilie noun g=f gen=Patchworkfamilie pl=Patchworkfamilien
 Pate noun g=m gen=Paten pl=Paten
 Patent noun g=n gen=Patents|Patentes pl=Patente
 Pater noun g=m gen=Paters pl=Patres|Pater
+Pathologie noun g=f gen=Pathologie pl=Pathologien
+Pathos noun g=n gen=Pathos pl=- note=bare genitive; mass noun
 Patient noun g=m gen=Patienten pl=Patienten
 Patientin noun g=f gen=Patientin pl=Patientinnen
 Patin noun g=f gen=Patin pl=Patinnen
 Patriarch noun g=m gen=Patriarchen pl=Patriarchen
 Patron noun g=m gen=Patrons pl=Patrone
 Patrone noun g=f gen=Patrone pl=Patronen note=cartridge (ink, ammunition)
+Patrouille noun g=f gen=Patrouille pl=Patrouillen
+Patrozinium noun g=n gen=Patroziniums pl=Patrozinien
 Patsch noun g=m gen=Patsch|Patschs|Patsches pl=Patsche
 Pauschale noun g=f gen=Pauschale pl=Pauschalen
 Pauschbetrag noun g=m gen=Pauschbetrags|Pauschbetrages pl=Pauschbeträge
@@ -104,6 +111,7 @@ Pedelec noun g=n gen=Pedelecs pl=Pedelecs
 Peitsche noun g=f gen=Peitsche pl=Peitschen
 Pelikan noun g=m gen=Pelikans pl=Pelikane
 Pelz noun g=m gen=Pelzes pl=Pelze
+Pendant noun g=n gen=Pendants pl=Pendants
 Pendler noun g=m gen=Pendlers pl=Pendler
 Pendlerin noun g=f gen=Pendlerin pl=Pendlerinnen
 Pension noun g=f gen=Pension pl=Pensionen
@@ -133,6 +141,7 @@ Petze noun g=f gen=Petze pl=Petzen style=colloquial
 Pfad noun g=m gen=Pfades|Pfads pl=Pfade
 Pfadfinder noun g=m gen=Pfadfinders pl=Pfadfinder
 Pfadfinderin noun g=f gen=Pfadfinderin pl=Pfadfinderinnen
+Pfaffe noun g=m gen=Pfaffen pl=Pfaffen note=pejorative for a clergyman
 Pfahl noun g=m gen=Pfahls|Pfahles pl=Pfähle
 Pfand noun g=n gen=Pfands|Pfandes pl=Pfänder
 Pfändung noun g=f gen=Pfändung pl=Pfändungen
@@ -182,6 +191,7 @@ Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
 Phase noun g=f gen=Phase pl=Phasen
+Philharmonie noun g=f gen=Philharmonie pl=Philharmonien
 Philologe noun g=m gen=Philologen pl=Philologen
 Philologie noun g=f gen=Philologie pl=Philologien
 Philologin noun g=f gen=Philologin pl=Philologinnen
@@ -203,6 +213,7 @@ Piaster noun g=m gen=Piasters pl=Piaster
 Pickel noun g=m gen=Pickels pl=Pickel
 Picknick noun g=n gen=Picknicks pl=Picknicks
 Piercing noun g=n gen=Piercings pl=Piercings
+Pilaster noun g=m gen=Pilasters pl=Pilaster
 Pilates noun g=n gen=Pilates pl=- note=no genitive ending
 Pilger noun g=m gen=Pilgers pl=Pilger
 Pilgerin noun g=f gen=Pilgerin pl=Pilgerinnen
@@ -223,6 +234,7 @@ Piratin noun g=f gen=Piratin pl=Piratinnen
 Pistazie noun g=f gen=Pistazie pl=Pistazien
 Piste noun g=f gen=Piste pl=Pisten
 Pistole noun g=f gen=Pistole pl=Pistolen
+Pixel noun g=n|m gen=Pixels pl=Pixel
 Pizza        noun g=f gen=Pizza pl=Pizzas|Pizzen
 Pizzeria noun g=f gen=Pizzeria pl=Pizzerien|Pizzerias
 Pkw noun g=m gen=Pkw|Pkws pl=Pkw|Pkws
@@ -266,6 +278,7 @@ Pol noun g=m gen=Pols pl=Pole
 Polacke noun g=m gen=Polacken pl=Polacken style=offensive note=slur for Poles
 Polarkreis noun g=m gen=Polarkreises pl=Polarkreise
 Pole noun g=m gen=Polen pl=Polen note=inhabitant of Poland
+Polemik noun g=f gen=Polemik pl=Polemiken
 Police noun g=f gen=Police pl=Policen
 Polis noun g=f gen=Polis pl=Poleis
 Politik noun g=f gen=Politik pl=- note=mass noun; Politiken is very rare
@@ -296,10 +309,12 @@ Porsche noun g=m gen=Porsches pl=Porsche|Porsches conf=85 note=car brand; also a
 Port noun g=m gen=Ports|Portes pl=Porte|Ports conf=80 note=harbour (elevated); computer port (Ports)
 Portal noun g=n gen=Portals pl=Portale
 Portemonnaie noun g=n gen=Portemonnaies pl=Portemonnaies
+Portfolio noun g=n gen=Portfolios pl=Portfolios
 Portier noun g=m gen=Portiers pl=Portiers
 Portierin noun g=f gen=Portierin pl=Portierinnen
 Portion noun g=f gen=Portion pl=Portionen
 Porto noun g=n gen=Portos pl=Portos|Porti
+Portrait noun g=n gen=Portraits pl=Portraits note=variant spelling of Porträt
 Porträt noun g=n gen=Porträts pl=Porträts|Porträte[rare]
 Portugiese noun g=m gen=Portugiesen pl=Portugiesen
 Porzellan noun g=n gen=Porzellans pl=Porzellane
@@ -334,6 +349,7 @@ Praktikantin noun g=f gen=Praktikantin pl=Praktikantinnen
 Praktikum noun g=n gen=Praktikums pl=Praktika|Praktiken
 Praline noun g=f gen=Praline pl=Pralinen
 Prämie noun g=f gen=Prämie pl=Prämien
+Prämisse noun g=f gen=Prämisse pl=Prämissen
 Pranke noun g=f gen=Pranke pl=Pranken
 Präparat noun g=n gen=Präparats|Präparates pl=Präparate
 Präposition noun g=f gen=Präposition pl=Präpositionen
@@ -363,6 +379,7 @@ Priesterin noun g=f gen=Priesterin pl=Priesterinnen
 Primzahl noun g=f gen=Primzahl pl=Primzahlen
 Printe noun g=f gen=Printe pl=Printen
 Prinz noun g=m gen=Prinzen pl=Prinzen note=weak masculine
+Prinzess noun g=f gen=Prinzess pl=Prinzessen style=archaic conf=80 note=older short form of Prinzessin
 Prinzessin noun g=f gen=Prinzessin pl=Prinzessinnen
 Prinzip noun g=n gen=Prinzips|Prinzipes pl=Prinzipien
 Prior noun g=m gen=Priors pl=Prioren
@@ -415,6 +432,7 @@ Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
 Protest noun g=m gen=Protests|Protestes pl=Proteste
 Protestant noun g=m gen=Protestanten pl=Protestanten
 Protestantin noun g=f gen=Protestantin pl=Protestantinnen
+Protestantismus noun g=m gen=Protestantismus pl=- note=-ismus genitive
 Protokoll noun g=n gen=Protokolls pl=Protokolle
 Protokollant noun g=m gen=Protokollanten pl=Protokollanten
 Protokollantin noun g=f gen=Protokollantin pl=Protokollantinnen

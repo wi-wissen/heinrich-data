@@ -28,12 +28,15 @@ wert adj
 werth adj spelling=old note=old spelling of wert
 wertvoll adj cmp=wertvoller sup=wertvollsten
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
+westfälisch adj
 westlich adj note=also a genitive preposition (closed/prepositions.lex)
 wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
 widerruflich adj
 widersprüchlich adj
+widrig adj cmp=widriger sup=widrigsten
 wild adj cmp=wilder sup=wildesten
+willens adj pred_only note=willens sein, etwas zu tun
 willig adj cmp=williger sup=willigsten
 willkommen adj
 willkürlich adj

@@ -9,6 +9,7 @@ zugute adv type=modal note=zugute kommen, zugute halten
 zuhause adv type=place
 zumeist adv
 zurecht adv
+zusehends adv
 zustande adv note=only in zustande kommen/bringen
 zutage adv type=modal note=zutage treten, zutage fördern
 zuteil adv type=modal note=zuteil werden

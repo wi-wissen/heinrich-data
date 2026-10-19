@@ -66,6 +66,7 @@ Fasching noun g=m gen=Faschings pl=- note=mass noun; regional (carnival)
 Faschismus noun g=m gen=Faschismus pl=- note=no plural
 Faser noun g=f gen=Faser pl=Fasern
 Fasnacht noun g=f gen=Fasnacht pl=- note=no plural (mass or abstract noun)
+Fass noun g=n gen=Fasses pl=Fässer
 Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
 Fastenzeit noun g=f gen=Fastenzeit pl=Fastenzeiten
@@ -89,6 +90,7 @@ Federmappe noun g=f gen=Federmappe pl=Federmappen
 Fee noun g=f gen=Fee pl=Feen
 Feed noun g=m|n gen=Feeds pl=Feeds
 Feedback noun g=n gen=Feedbacks pl=Feedbacks
+Feger noun g=m gen=Fegers pl=Feger conf=85 note=sweeper (person or broom)
 Fehde noun g=f gen=Fehde pl=Fehden
 Fehler noun g=m gen=Fehlers pl=Fehler
 Fehlerquelle noun g=f gen=Fehlerquelle pl=Fehlerquellen
@@ -139,11 +141,13 @@ Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
 Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
+Feuerung noun g=f gen=Feuerung pl=Feuerungen
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Figur noun g=f gen=Figur pl=Figuren
 Figurenkonstellation noun g=f gen=Figurenkonstellation pl=Figurenkonstellationen
+Fiktion noun g=f gen=Fiktion pl=Fiktionen
 Filiale noun g=f gen=Filiale pl=Filialen
 Filialkirche noun g=f gen=Filialkirche pl=Filialkirchen
 Film noun g=m gen=Films|Filmes pl=Filme
@@ -158,6 +162,8 @@ Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
 Findung noun g=f gen=Findung pl=Findungen note=mostly in compounds (Terminfindung, Entscheidungsfindung)
 Finger noun g=m gen=Fingers pl=Finger
 Fink noun g=m gen=Finken pl=Finken
+Finne noun g=m gen=Finnen pl=Finnen sense=person note=inhabitant of Finland
+Finne noun g=f gen=Finne pl=Finnen sense=fin note=die Finne: fin; also a larval stage of tapeworms
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
 Firewall noun g=f gen=Firewall pl=Firewalls
 Firma        noun g=f gen=Firma pl=Firmen
@@ -185,6 +191,7 @@ Fleischerei noun g=f gen=Fleischerei pl=Fleischereien
 Fleischerin noun g=f gen=Fleischerin pl=Fleischerinnen
 Fleischfresser noun g=m gen=Fleischfressers pl=Fleischfresser
 Fleiß noun g=m gen=Fleißes pl=- note=no plural
+Flexibilisierung noun g=f gen=Flexibilisierung pl=Flexibilisierungen
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Flickzeug noun g=n gen=Flickzeugs|Flickzeuges pl=- note=no plural (mass or abstract noun)
 Flieder noun g=m gen=Flieders pl=Flieder
@@ -200,6 +207,7 @@ Flitterwochen noun g=pl
 Floh noun g=m gen=Flohes|Flohs pl=Flöhe
 Flohmarkt noun g=m gen=Flohmarkts pl=Flohmärkte
 Flora noun g=f gen=Flora pl=Floren|Floras
+Florentiner noun g=m gen=Florentiners pl=Florentiner note=inhabitant of Florence; also an almond biscuit
 Floskel noun g=f gen=Floskel pl=Floskeln
 Flosse noun g=f gen=Flosse pl=Flossen
 Flöte noun g=f gen=Flöte pl=Flöten
@@ -273,6 +281,7 @@ Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
 Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
 Fraktion noun g=f gen=Fraktion pl=Fraktionen
+Franc noun g=m gen=Franc|Francs pl=Francs note=currency
 Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
 Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
@@ -356,6 +365,7 @@ Funken noun g=m gen=Funkens pl=Funken
 Funktion noun g=f gen=Funktion pl=Funktionen
 Funktionär noun g=m gen=Funktionärs pl=Funktionäre
 Funktionärin noun g=f gen=Funktionärin pl=Funktionärinnen
+Furche noun g=f gen=Furche pl=Furchen
 Furcht noun g=f gen=Furcht pl=- note=no plural in use
 Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer

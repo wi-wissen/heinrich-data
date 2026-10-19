@@ -33,9 +33,11 @@ unbegründet adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
 unbekannt adj cmp=unbekannter sup=unbekanntesten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
+unbemannt adj
 unbemerkt adj
 unberücksichtigt adj
 unberührt adj
+unbeschreiblich adj
 unbestimmt adj cmp=unbestimmter sup=unbestimmtesten
 unbestritten adj
 unbeweglich adj cmp=unbeweglicher sup=unbeweglichsten
@@ -49,6 +51,7 @@ uneingeschränkt adj
 unendlich adj
 unentbehrlich adj
 unentgeltlich adj
+unerbittlich adj cmp=unerbittlicher sup=unerbittlichsten
 unerlässlich adj
 unerledigt adj
 unermüdlich adj
@@ -125,6 +128,7 @@ unverantwortlich adj cmp=unverantwortlicher sup=unverantwortlichsten
 unverhältnismäßig adj
 unvermeidlich adj
 unverschämt adj cmp=unverschämter sup=unverschämtesten
+unversehrt adj
 unverständlich adj cmp=unverständlicher sup=unverständlichsten
 unverzichtbar adj
 unverzüglich adj

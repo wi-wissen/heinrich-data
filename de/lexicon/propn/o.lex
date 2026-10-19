@@ -1,6 +1,7 @@
 Oberhausen propn g=n gen=Oberhausens pl=- note=proper name; no plural
 Oberösterreich propn g=n gen=Oberösterreichs pl=- note=proper name; no plural
 Oberpfalz propn g=f gen=Oberpfalz pl=- note=die Oberpfalz
+Oberschlesien propn g=n gen=Oberschlesiens pl=- note=proper name; no plural
 OECD propn g=f gen=OECD pl=- note=die OECD
 Ohio propn g=n gen=Ohios pl=- note=proper name; no plural
 Oklahoma propn g=n gen=Oklahomas pl=- note=proper name; no plural
@@ -14,6 +15,7 @@ Orleans propn g=n gen=Orleans pl=- note=proper name; no plural; bare genitive
 Osaka propn g=n gen=Osakas pl=- note=proper name; no plural
 Oslo propn g=n gen=Oslos pl=- note=proper name; no plural
 Osnabrück propn g=n gen=Osnabrücks pl=- note=proper name; no plural
+Ostasien propn g=n gen=Ostasiens pl=- note=proper name; no plural
 Ostdeutschland propn g=n gen=Ostdeutschlands pl=- note=proper name; no plural
 Österreich propn g=n gen=Österreichs pl=- note=proper name, no plural
 Osteuropa propn g=n gen=Osteuropas pl=- note=proper name; no plural

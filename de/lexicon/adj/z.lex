@@ -49,5 +49,7 @@ zweierlei adj indecl
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
+zweitklassig adj
 zwischenzeitlich adj
+zylindrisch adj
 zynisch adj cmp=zynischer sup=zynischsten

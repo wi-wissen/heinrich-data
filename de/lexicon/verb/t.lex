@@ -38,12 +38,14 @@ torkeln verb class=weak pp=getorkelt perf=haben|sein
 tosen verb class=weak pp=getost perf=haben
 töten verb class=weak pp=getötet perf=haben
 traben verb class=weak pp=getrabt perf=haben|sein
+trachten verb class=weak pp=getrachtet perf=haben
 tragen verb class=strong 3sg=trägt past=trug pp=getragen subj2=trüge perf=haben
 trainieren verb class=weak pp=trainiert perf=haben refl=acc
 trällern verb class=weak pp=geträllert perf=haben
 trampeln verb class=weak pp=getrampelt perf=haben|sein
 trampen verb class=weak pp=getrampt perf=sein
 tränken verb class=weak pp=getränkt perf=haben
+transferieren verb class=weak pp=transferiert perf=haben
 transpirieren verb class=weak pp=transpiriert perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben

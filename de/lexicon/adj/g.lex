@@ -16,6 +16,7 @@ geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
 gefälscht adj
+geflügelt adj note=geflügelte Worte; winged
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
 gegenwärtig adj
@@ -47,6 +48,7 @@ genial adj cmp=genialer sup=genialsten
 geografisch adj
 geographisch adj
 geologisch adj
+gepfarrt adj conf=85 note=assigned to a parish (nach X gepfarrt)
 gepunktet adj
 gerade adj cmp=gerader sup=geradesten
 geräumig adj cmp=geräumiger sup=geräumigsten
@@ -69,6 +71,8 @@ gesetzlich adj
 gesetzwidrig adj
 gesondert adj
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
+gestalterisch adj
+gestielt adj note=botany: having a stalk
 gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
@@ -80,6 +84,8 @@ gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
 gewerblich adj
+gewichtig adj cmp=gewichtiger sup=gewichtigsten
+gewillt adj note=gewillt sein, etwas zu tun
 gewiss adj cmp=gewisser sup=gewissesten
 gewissenhaft adj cmp=gewissenhafter sup=gewissenhaftesten
 gewittrig adj
@@ -112,6 +118,7 @@ gram adj pred_only note=jemandem gram sein (bear a grudge); the noun Gram is sep
 grammatikalisch adj
 grammatisch adj
 grasig adj cmp=grasiger sup=grasigsten
+grässlich adj cmp=grässlicher sup=grässlichsten
 gratis adj indecl
 grau adj cmp=grauer sup=grauesten
 grauhaarig adj
@@ -136,3 +143,4 @@ günstig adj cmp=günstiger sup=günstigsten
 gut          adj cmp=besser sup=besten
 gütig adj cmp=gütiger sup=gütigsten
 gutmütig adj
+gymnasial adj

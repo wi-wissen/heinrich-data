@@ -22,6 +22,8 @@ Anden propn g=pl
 Ankara propn g=n gen=Ankaras pl=- note=proper name; no plural
 Ansbach propn g=n gen=Ansbachs pl=- note=proper name; no plural
 Antarktis propn g=f gen=Antarktis pl=- note=proper name; no plural
+Antillen propn g=pl
+Antiochia propn g=n gen=Antiochias pl=- note=proper name; ancient city
 Antwerpen propn g=n gen=Antwerpens pl=- note=proper name; no plural
 Apollo propn g=m gen=Apollos pl=- note=proper name; no plural
 ARD propn g=f gen=ARD pl=- note=Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten

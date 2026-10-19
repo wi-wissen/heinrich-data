@@ -28,6 +28,7 @@ akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albern adj cmp=alberner sup=albernsten
 allegorisch adj
+alleinerziehend adj
 alleinig adj
 allergisch adj
 allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
@@ -35,8 +36,10 @@ allgemein     adj cmp=allgemeiner sup=allgemeinsten
 alliiert adj
 alljährlich adj
 allmählich adj
+allmälig adj spelling=old note=old spelling of allmählich
 allmonatlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
+alphabetisch adj
 alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
@@ -46,6 +49,7 @@ amerikanisch adj
 amtierend adj
 amtlich adj
 analog adj
+anatomisch adj
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
 anfänglich adj
@@ -94,6 +98,8 @@ artig adj cmp=artiger sup=artigsten
 asiatisch adj
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
 atheistisch adj
+äthiopisch adj
+atmosphärisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
 ätzend adj

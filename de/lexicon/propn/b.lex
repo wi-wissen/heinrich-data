@@ -4,6 +4,7 @@ Baden-Baden propn g=n gen=Baden-Badens pl=- note=proper name; no plural
 BaFin propn g=f gen=BaFin pl=- note=Bundesanstalt für Finanzdienstleistungsaufsicht
 Bagdad propn g=n gen=Bagdads pl=- note=proper name; no plural
 Balkan propn g=m gen=Balkans pl=- note=proper name; no plural
+Baltikum propn g=n gen=Baltikums pl=- note=proper name; no plural
 Baltimore propn g=n gen=Baltimores pl=- note=proper name; no plural
 Bamberg propn g=n gen=Bambergs pl=- note=proper name; no plural
 BAMF propn g=n gen=BAMF|BAMFs pl=- note=Bundesamt für Migration und Flüchtlinge (das BAMF)

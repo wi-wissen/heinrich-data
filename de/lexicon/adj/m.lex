@@ -5,6 +5,7 @@ mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 männlich adj
 manuell adj
 maritim adj
+marokkanisch adj
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
@@ -32,6 +33,8 @@ mies adj cmp=mieser sup=miesesten
 mild adj cmp=milder sup=mildesten
 militärisch adj
 minderjährig adj
+mindest adj attr_only note=nicht die mindeste Ahnung; das Mindeste, zum Mindesten
+minütig adj note=mostly in compounds with numerals (zehnminütig, 90-minütige)
 miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
@@ -65,7 +68,9 @@ mündig adj
 mündlich adj
 munter adj cmp=munterer sup=muntersten
 mürrisch adj cmp=mürrischer sup=mürrischsten
+müßig adj cmp=müßiger sup=müßigsten
 musikalisch adj
 muslimisch adj
 mutig adj cmp=mutiger sup=mutigsten
 mysteriös adj cmp=mysteriöser sup=mysteriösesten
+mythologisch adj

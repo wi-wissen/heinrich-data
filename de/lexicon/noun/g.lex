@@ -77,6 +77,7 @@ Gefährder noun g=m gen=Gefährders pl=Gefährder
 Gefährderin noun g=f gen=Gefährderin pl=Gefährderinnen
 Gefährdung noun g=f gen=Gefährdung pl=Gefährdungen
 Gefährte noun g=m gen=Gefährten pl=Gefährten
+Gefährtin noun g=f gen=Gefährtin pl=Gefährtinnen
 Gefälle noun g=n gen=Gefälles pl=Gefälle
 Gefallen noun g=m gen=Gefallens pl=Gefallen sense=favor note=einen Gefallen tun
 Gefallen noun g=n gen=Gefallens pl=- sense=pleasure note=Gefallen finden an
@@ -111,12 +112,14 @@ Gehege noun g=n gen=Geheges pl=Gehege
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
 Geheimniß noun g=n gen=Geheimnißes pl=Geheimnisse spelling=old style=archaic note=old spelling of Geheimnis
 Geheimrat noun g=m gen=Geheimrats|Geheimrates pl=Geheimräte
+Gehilfe noun g=m gen=Gehilfen pl=Gehilfen
 Gehirn noun g=n gen=Gehirns|Gehirnes pl=Gehirne
 Gehirnerschütterung noun g=f gen=Gehirnerschütterung pl=Gehirnerschütterungen
 Gehöft noun g=n gen=Gehöfts|Gehöftes pl=Gehöfte
 Gehör noun g=n gen=Gehörs|Gehöres pl=- note=sense of hearing; mass noun
 Gehorsam noun g=m gen=Gehorsams pl=- note=no plural
 Gehsteig noun g=m gen=Gehsteigs|Gehsteiges pl=Gehsteige
+Gehülfe noun g=m gen=Gehülfen pl=Gehülfen style=archaic note=older form of Gehilfe
 Gehweg noun g=m gen=Gehwegs|Gehweges pl=Gehwege
 Geier noun g=m gen=Geiers pl=Geier
 Geige noun g=f gen=Geige pl=Geigen
@@ -140,6 +143,7 @@ Gelee noun g=n|m gen=Gelees pl=Gelees
 Gelegenheit noun g=f gen=Gelegenheit pl=Gelegenheiten
 Gelehrsamkeit noun g=f gen=Gelehrsamkeit pl=- note=no plural
 Gelehrte noun g=m|f decl=adj note=scholar
+Geleit noun g=n gen=Geleits|Geleites pl=Geleite
 Gelenk noun g=n gen=Gelenks|Gelenkes pl=Gelenke
 Geliebte noun g=m|f decl=adj note=lover, sweetheart
 Gelse noun g=f gen=Gelse pl=Gelsen region=AT
@@ -167,6 +171,7 @@ Gemüth noun g=n gen=Gemüths|Gemüthes pl=Gemüther spelling=old
 Gemütlichkeit noun g=f gen=Gemütlichkeit pl=- note=mass noun
 Gen noun g=n gen=Gens pl=Gene
 Genauigkeit noun g=f gen=Genauigkeit pl=Genauigkeiten
+Gender noun g=n gen=Genders pl=- conf=75 note=loanword, mostly in compounds (Gender-Mainstreaming)
 Genehmigung noun g=f gen=Genehmigung pl=Genehmigungen
 General noun g=m gen=Generals|Generales[rare] pl=Generale|Generäle
 Generaldirektion noun g=f gen=Generaldirektion pl=Generaldirektionen
@@ -273,6 +278,7 @@ Getreide noun g=n gen=Getreides pl=- note=collective; plural not used
 Getrenntschreibung noun g=f gen=Getrenntschreibung pl=- note=no plural
 Getriebe noun g=n gen=Getriebes pl=Getriebe
 Getümmel noun g=n gen=Getümmels pl=- note=no plural
+Gewächs noun g=n gen=Gewächses pl=Gewächse
 Gewächshaus noun g=n gen=Gewächshauses pl=Gewächshäuser
 Gewähr noun g=f gen=Gewähr pl=- note=no plural (Gewähr leisten)
 Gewährleistung noun g=f gen=Gewährleistung pl=Gewährleistungen
@@ -292,6 +298,7 @@ Gewerbegebiet noun g=n gen=Gewerbegebiets|Gewerbegebietes pl=Gewerbegebiete
 Gewerbeordnung noun g=f gen=Gewerbeordnung pl=Gewerbeordnungen
 Gewerbesteuer noun g=f gen=Gewerbesteuer pl=Gewerbesteuern
 Gewerbetreibende noun g=m|f decl=adj
+Gewerk noun g=n gen=Gewerks|Gewerkes pl=Gewerke
 Gewerkschaft noun g=f gen=Gewerkschaft pl=Gewerkschaften
 Gewerkschafter noun g=m gen=Gewerkschafters pl=Gewerkschafter
 Gewerkschafterin noun g=f gen=Gewerkschafterin pl=Gewerkschafterinnen
@@ -392,6 +399,7 @@ Gönner noun g=m gen=Gönners pl=Gönner
 Gönnerin noun g=f gen=Gönnerin pl=Gönnerinnen
 Gorilla noun g=m gen=Gorillas pl=Gorillas
 Gote noun g=m gen=Goten pl=Goten
+Gotik noun g=f gen=Gotik pl=- note=style period
 Gott noun g=m gen=Gottes|Gotts[archaic] pl=Götter
 Gottheit noun g=f gen=Gottheit pl=Gottheiten
 Göttin noun g=f gen=Göttin pl=Göttinnen
@@ -437,6 +445,7 @@ Grimm noun g=m gen=Grimms|Grimmes pl=- conf=85 note=literary: fury; also a surna
 Grippe noun g=f gen=Grippe pl=Grippen
 GroKo noun g=f gen=GroKo pl=GroKos note=Grosse Koalition, colloquial abbreviation
 Groll noun g=m gen=Grolls|Groll pl=- note=no plural
+Gros noun g=n gen=Gros pl=- note=das Gros: the majority; bare genitive
 Groschen noun g=m gen=Groschens pl=Groschen
 Größe noun g=f gen=Größe pl=Größen
 Großschreibung noun g=f gen=Großschreibung pl=- note=no plural

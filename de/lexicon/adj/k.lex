@@ -1,15 +1,18 @@
 kabellos adj
 kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
+kalifornisch adj
 kalt adj cmp=kälter sup=kältesten
 kanadisch adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
+kasachisch adj
 katastrophal adj
 katholisch adj
 kaufmännisch adj
 keck adj cmp=kecker sup=kecksten
+kenianisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kennzeichnungspflichtig adj
 kinderlos adj
@@ -30,8 +33,10 @@ knallig adj cmp=knalliger sup=knalligsten
 knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
+kognitiv adj
 kollaborativ adj
 kollektiv adj
+kolonial adj
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
 kommissarisch adj
@@ -56,6 +61,7 @@ kontraproduktiv adj
 kontrovers adj
 konventionell adj cmp=konventioneller sup=konventionellsten
 konzentriert adj cmp=konzentrierter sup=konzentriertesten
+kooperativ adj cmp=kooperativer sup=kooperativsten
 körperlich adj
 korrekt adj cmp=korrekter sup=korrektesten
 kostbar adj cmp=kostbarer sup=kostbarsten

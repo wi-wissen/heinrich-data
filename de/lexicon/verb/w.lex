@@ -159,20 +159,20 @@ widersprechen verb class=strong 3sg=widerspricht past=widersprach pp=widersproch
 widerstehen verb class=strong 3sg=widersteht past=widerstand pp=widerstanden subj2=widerstände|widerstünde perf=haben
 widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
-wiederaufbauen verb class=weak sep=wieder pp=wiedergeaufbaut perf=haben
+wiederaufbauen verb class=weak sep=wiederauf pp=wiederaufgebaut perf=haben
 wiederbekommen verb class=strong sep=wieder 3sg=wiederbekommt past=wiederbekam subj2=wiederbekäme pp=wiederbekommen perf=haben
 wiederbeleben verb class=weak pp=wiederbelebt perf=haben
-wiederbeschaffen verb class=weak sep=wieder pp=wiedergebeschafft perf=haben
-wiedereinführen verb class=weak sep=wieder pp=wiedergeeinführt perf=haben
-wiedereinsetzen verb class=weak sep=wieder pp=wiedergeeinsetzt perf=haben
-wiedereinstellen verb class=weak sep=wieder pp=wiedergeeinstellt perf=haben
-wiederentdecken verb class=weak sep=wieder pp=wiedergeentdeckt perf=haben
+wiederbeschaffen verb class=weak sep=wieder pp=wiederbeschafft perf=haben
+wiedereinführen verb class=weak sep=wiederein pp=wiedereingeführt perf=haben
+wiedereinsetzen verb class=weak sep=wiederein pp=wiedereingesetzt perf=haben
+wiedereinstellen verb class=weak sep=wiederein pp=wiedereingestellt perf=haben
+wiederentdecken verb class=weak sep=wieder pp=wiederentdeckt perf=haben
 wiedererkennen verb class=mixed sep=wieder 3sg=wiedererkennt past=wiedererkannte subj2=wiedererkennte pp=wiedererkannt perf=haben
-wiedereröffnen verb class=weak sep=wieder pp=wiedergeeröffnet perf=haben
+wiedereröffnen verb class=weak sep=wieder pp=wiedereröffnet perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc
 wiedergeben verb class=strong sep=wieder 3sg=wiedergibt past=wiedergab pp=wiedergegeben subj2=wiedergäbe perf=haben
 wiedergewinnen verb class=strong sep=wieder 3sg=wiedergewinnt past=wiedergewann subj2=wiedergewönne|wiedergewänne pp=wiedergewonnen perf=haben
-wiedergutmachen verb class=weak sep=wieder pp=wiedergegutmacht perf=haben
+wiedergutmachen verb class=weak sep=wiedergut pp=wiedergutgemacht perf=haben
 wiederherstellen verb class=weak sep=wiederher pp=wiederhergestellt perf=haben
 wiederholen verb class=weak pp=wiederholt perf=haben
 wiederkehren verb class=weak sep=wieder pp=wiedergekehrt perf=sein
@@ -185,6 +185,7 @@ wiegen verb class=strong 3sg=wiegt past=wog pp=gewogen subj2=wöge perf=haben se
 wiegen verb class=weak pp=gewiegt perf=haben refl=acc sense=rock note=wiegen: to rock (ein Kind wiegen)
 wiehern verb class=weak pp=gewiehert perf=haben
 wildern verb class=weak pp=gewildert perf=haben
+wimmeln verb class=weak pp=gewimmelt perf=haben
 wimmern verb class=weak pp=gewimmert perf=haben
 winden verb class=strong 3sg=windet past=wand pp=gewunden subj2=wände perf=haben refl=acc
 winken verb class=weak pp=gewinkt perf=haben

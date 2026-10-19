@@ -31,6 +31,7 @@ schlank adj cmp=schlanker sup=schlanksten
 schlapp adj cmp=schlapper sup=schlappsten
 schlau adj cmp=schlauer sup=schlausten|schlauesten
 schlecht adj cmp=schlechter sup=schlechtesten
+schlesisch adj
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
@@ -44,6 +45,7 @@ schnell adj cmp=schneller sup=schnellsten
 schnellstmöglich adj
 schnippisch adj cmp=schnippischer sup=schnippischsten
 schön adj cmp=schöner sup=schönsten
+schöpferisch adj
 schottisch adj
 schräg adj cmp=schräger sup=schrägsten
 schrecklich adj cmp=schrecklicher sup=schrecklichsten
@@ -97,6 +99,8 @@ sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
 sittenwidrig adj
 sittlich adj cmp=sittlicher sup=sittlichsten
+situativ adj
+skandinavisch adj
 skeptisch adj cmp=skeptischer sup=skeptischsten
 slawisch adj
 slowakisch adj
@@ -126,9 +130,11 @@ spärlich adj cmp=spärlicher sup=spärlichsten
 sparsam adj cmp=sparsamer sup=sparsamsten
 spaßig adj cmp=spaßiger sup=spaßigsten
 spät adj cmp=später sup=spätesten
+spektakulär adj cmp=spektakulärer sup=spektakulärsten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
 spießbürgerlich adj
+spirituell adj cmp=spiritueller sup=spirituellsten
 spitz adj cmp=spitzer sup=spitzesten
 spitze adj indecl
 spontan adj
@@ -153,6 +159,8 @@ steinern adj
 steinig adj cmp=steiniger sup=steinigsten
 steinzeitlich adj
 stenografisch adj
+sterblich adj
+stet adj note=stete Tropfen; not compared
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
 steuerpflichtig adj
@@ -166,6 +174,7 @@ störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
 strategisch adj
 strebsam adj cmp=strebsamer sup=strebsamsten
+streitig adj note=jemandem etwas streitig machen
 streng adj cmp=strenger sup=strengsten
 strikt adj cmp=strikter sup=striktesten
 strittig adj
@@ -184,7 +193,7 @@ süchtig adj cmp=süchtiger sup=süchtigsten
 südafrikanisch adj
 süddeutsch adj
 südkoreanisch adj
-südlich adj note=also a genitive preposition (closed/prepositions.lex)
+südlich adj cmp=südlicher sup=südlichsten note=also a genitive preposition (closed/prepositions.lex)
 südöstlich adj
 südwestlich adj
 sukzessiv adj
@@ -194,5 +203,6 @@ süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj
 sympathisch adj cmp=sympathischer sup=sympathischsten
+synonym adj
 syrisch adj
 systematisch adj cmp=systematischer sup=systematischsten

@@ -1,6 +1,8 @@
 vage adj cmp=vager sup=vagesten
+vakant adj
 variabel adj cmp=variabler sup=variabelsten
 väterlich adj
+vatikanisch adj
 vegan adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
@@ -16,6 +18,7 @@ verbittert adj cmp=verbitterter sup=verbittertsten
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
+verdrießlich adj cmp=verdrießlicher sup=verdrießlichsten
 vereinzelt adj
 verfassungsgemäß adj
 verfassungsrechtlich adj
@@ -43,6 +46,7 @@ vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
 verrückt adj cmp=verrückter sup=verrücktesten
 verschieden adj cmp=verschiedener sup=verschiedensten
+verschiedentlich adj
 verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
 verschnupft adj
@@ -50,6 +54,7 @@ verschollen adj
 verschuldet adj
 verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
+versehentlich adj
 versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständlich adj cmp=verständlicher sup=verständlichsten
@@ -71,15 +76,18 @@ verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
+violett adj
 viral adj
 virtuell adj
 völkerrechtlich adj
+volkstümlich adj cmp=volkstümlicher sup=volkstümlichsten
 voll adj cmp=voller sup=vollsten
 vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
 volljährig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
 vollständig adj
+vollumfänglich adj
 vollwertig adj
 vollziehbar adj
 voraussichtlich adj

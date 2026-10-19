@@ -1,6 +1,8 @@
 schätzungsweise adv
 schier adv
+schlechterdings adv
 schlechthin adv
+schleunigst adv
 schlichtweg adv type=degree
 schnellstens adv
 schwerlich adv type=degree

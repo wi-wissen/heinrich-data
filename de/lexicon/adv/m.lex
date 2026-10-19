@@ -7,3 +7,4 @@ mitten adv
 mittendrin adv type=place
 mitunter adv
 möglichst adv
+mütterlicherseits adv

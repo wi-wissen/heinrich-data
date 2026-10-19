@@ -1,6 +1,8 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 halb         adj note=not compared; ein halber Liter
+hamburgisch adj
+hansisch adj
 hären adj conf=80 note=rare, hären = of hair
 harmlos adj cmp=harmloser sup=harmlosesten
 harmonisch adj
@@ -11,6 +13,7 @@ hastig adj cmp=hastiger sup=hastigsten
 häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
 häuslich adj cmp=häuslicher sup=häuslichsten
+hebräisch adj
 heftig adj cmp=heftiger sup=heftigsten
 heikel adj attr=heikle cmp=heikler sup=heikelsten
 heil adj
@@ -43,15 +46,20 @@ hinterlistig adj cmp=hinterlistiger sup=hinterlistigsten
 historisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
+hochrangig adj cmp=hochrangiger sup=hochrangigsten
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höflich adj cmp=höflicher sup=höflichsten
 hohl adj cmp=hohler sup=hohlsten
+höhnisch adj cmp=höhnischer sup=höhnischsten
 hold adj cmp=holder sup=holdesten style=archaic
 holländisch adj
 hölzern adj
+homogen adj cmp=homogener sup=homogensten
+homosexuell adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 hügelig adj cmp=hügeliger sup=hügeligsten
 humanitär adj
 humorvoll adj cmp=humorvoller sup=humorvollsten
 hungrig adj cmp=hungriger sup=hungrigsten
+hybrid adj

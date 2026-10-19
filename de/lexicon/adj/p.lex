@@ -1,8 +1,10 @@
+panamerikanisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 parallel adj attr=parallele
 parlamentarisch adj
 passiv adj cmp=passiver sup=passivsten
+patriotisch adj cmp=patriotischer sup=patriotischsten
 patzig adj cmp=patziger sup=patzigsten
 pauschal adj
 pazifisch adj
@@ -12,6 +14,7 @@ permanent adj
 persisch adj
 personell adj
 persönlich adj
+perspektivisch adj
 pessimistisch adj cmp=pessimistischer sup=pessimistischsten
 pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
@@ -37,6 +40,7 @@ positiv adj cmp=positiver sup=positivsten
 postalisch adj
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
+pragmatisch adj cmp=pragmatischer sup=pragmatischsten
 praktisch adj
 präsent adj cmp=präsenter sup=präsentesten
 präzise adj cmp=präziser sup=präzisesten
@@ -44,6 +48,7 @@ preußisch adj
 prim adj
 prima adj indecl
 primär adj
+primitiv adj cmp=primitiver sup=primitivsten
 prinzipiell adj
 privat adj
 problematisch adj cmp=problematischer sup=problematischsten
@@ -52,8 +57,13 @@ professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
 proportional adj
 protestantisch adj
+prozentig adj note=mostly in compounds with numerals (5-prozentig, zehnprozentige)
 prozentual adj
 psychisch adj
+psychoanalytisch adj
 psychologisch adj
+psychosozial adj
+psychotherapeutisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten
 putzig adj cmp=putziger sup=putzigsten
+pyrotechnisch adj

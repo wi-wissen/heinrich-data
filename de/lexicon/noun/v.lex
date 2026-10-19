@@ -22,6 +22,7 @@ Vegetation noun g=f gen=Vegetation pl=Vegetationen
 Veilchen noun g=n gen=Veilchens pl=Veilchen
 Vektor noun g=m gen=Vektors pl=Vektoren
 Vene noun g=f gen=Vene pl=Venen
+Ventil noun g=n gen=Ventils pl=Ventile
 Verabredung noun g=f gen=Verabredung pl=Verabredungen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
@@ -268,6 +269,7 @@ Verzinsung noun g=f gen=Verzinsung pl=- note=no plural in practice
 Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
 Verzug noun g=m gen=Verzugs|Verzuges pl=- note=no plural
 Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
+Veteran noun g=m gen=Veteranen pl=Veteranen
 Vetter noun g=m gen=Vetters pl=Vettern
 Video noun g=n gen=Videos pl=Videos
 Videocall noun g=m gen=Videocalls pl=Videocalls
@@ -323,6 +325,7 @@ Vollzug noun g=m gen=Vollzugs|Vollzuges pl=- note=no plural
 Volontär noun g=m gen=Volontärs pl=Volontäre
 Volontariat noun g=n gen=Volontariats|Volontariates pl=Volontariate
 Volontärin noun g=f gen=Volontärin pl=Volontärinnen
+Volt noun g=n gen=Volt|Volts pl=Volt note=unit
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
 Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen
@@ -352,6 +355,7 @@ Vorhang noun g=m gen=Vorhangs|Vorhanges pl=Vorhänge
 Vorjahr noun g=n gen=Vorjahres|Vorjahrs pl=Vorjahre
 Vorkehrung noun g=f gen=Vorkehrung pl=Vorkehrungen
 Vorkommen noun g=n gen=Vorkommens pl=Vorkommen note=lexicalised nominal infinitive: occurrence, deposit
+Vorkommnis noun g=n gen=Vorkommnisses pl=Vorkommnisse
 Vorladung noun g=f gen=Vorladung pl=Vorladungen
 Vorlage noun g=f gen=Vorlage pl=Vorlagen
 Vorlauf noun g=m gen=Vorlaufs|Vorlaufes pl=Vorläufe

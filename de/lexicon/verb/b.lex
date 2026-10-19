@@ -3,6 +3,7 @@ baden verb class=weak pp=gebadet perf=haben refl=acc
 balgen verb class=weak pp=gebalgt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
+bannen verb class=weak pp=gebannt perf=haben
 basieren verb class=weak pp=basiert perf=haben
 basteln verb class=weak pp=gebastelt perf=haben
 bauen         verb class=weak pp=gebaut perf=haben
@@ -112,6 +113,7 @@ bekleiden verb class=weak pp=bekleidet perf=haben
 bekommen      verb class=strong 3sg=bekommt past=bekam pp=bekommen subj2=bekäme perf=haben
 beköstigen verb class=weak pp=beköstigt perf=haben
 bekräftigen verb class=weak pp=bekräftigt perf=haben
+bekrönen verb class=weak pp=bekrönt perf=haben
 beladen verb class=strong 3sg=belädt past=belud pp=beladen subj2=belüde perf=haben
 belagern verb class=weak pp=belagert perf=haben
 belassen verb class=strong 3sg=belässt past=beließ pp=belassen subj2=beließe perf=haben
@@ -171,6 +173,7 @@ bescheiden verb class=strong refl=acc 3sg=bescheidet past=beschied pp=beschieden
 bescheinigen verb class=weak pp=bescheinigt perf=haben
 beschenken verb class=weak pp=beschenkt perf=haben
 bescheren verb class=weak pp=beschert perf=haben
+beschießen verb class=strong 3sg=beschießt past=beschoss pp=beschossen subj2=beschösse perf=haben
 beschimpfen verb class=weak pp=beschimpft perf=haben
 beschlagen verb class=strong 3sg=beschlägt past=beschlug pp=beschlagen subj2=beschlüge perf=haben|sein
 beschlagnahmen verb class=weak pp=beschlagnahmt perf=haben

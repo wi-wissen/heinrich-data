@@ -25,6 +25,7 @@ Rampenlicht noun g=n gen=Rampenlichts|Rampenlichtes pl=Rampenlichter
 Ranch noun g=f gen=Ranch pl=Ranches|Ranchen conf=75 note=plural uncertain
 Rand noun g=m gen=Randes|Rands pl=Ränder
 Rang noun g=m gen=Ranges|Rangs pl=Ränge
+Ranking noun g=n gen=Rankings pl=Rankings
 Ranzen noun g=m gen=Ranzens pl=Ranzen
 Rapper noun g=m gen=Rappers pl=Rapper
 Rapperin noun g=f gen=Rapperin pl=Rapperinnen
@@ -40,6 +41,8 @@ Rat noun g=m gen=Rates|Rats pl=Räte
 Rate noun g=f gen=Rate pl=Raten
 Ratifizierung noun g=f gen=Ratifizierung pl=Ratifizierungen
 Rätin noun g=f gen=Rätin pl=Rätinnen note=member of a council (Stadträtin, Betriebsrätin)
+Rating noun g=n gen=Ratings pl=Ratings
+Ratio noun g=f gen=Ratio pl=- note=reason (philosophy)
 Rationalist noun g=m gen=Rationalisten pl=Rationalisten
 Rätsel noun g=n gen=Rätsels pl=Rätsel
 Ratte noun g=f gen=Ratte pl=Ratten
@@ -51,12 +54,14 @@ Räucherlachs noun g=m gen=Räucherlachses pl=Räucherlachse
 Rauchmelder noun g=m gen=Rauchmelders pl=Rauchmelder
 Raum noun g=m gen=Raums|Raumes pl=Räume
 Räumlichkeit noun g=f gen=Räumlichkeit pl=Räumlichkeiten
+Räumung noun g=f gen=Räumung pl=Räumungen
 Raupe noun g=f gen=Raupe pl=Raupen
 Rausch noun g=m gen=Rauschs|Rausches pl=Räusche
 Raute noun g=f gen=Raute pl=Rauten
 Ravioli noun g=pl
 Reagenzglas noun g=n gen=Reagenzglases pl=Reagenzgläser
 Reaktion noun g=f gen=Reaktion pl=Reaktionen
+Reaktivierung noun g=f gen=Reaktivierung pl=Reaktivierungen
 Reaktor noun g=m gen=Reaktors pl=Reaktoren
 Realisierung noun g=f gen=Realisierung pl=Realisierungen
 Realismus noun g=m gen=Realismus pl=- note=mass noun
@@ -115,6 +120,7 @@ Reflektor noun g=m gen=Reflektors pl=Reflektoren
 Reflexion noun g=f gen=Reflexion pl=Reflexionen
 Reform noun g=f gen=Reform pl=Reformen
 Reformation noun g=f gen=Reformation pl=- note=mostly the historical Reformation; Reformationen is rare
+Reformator noun g=m gen=Reformators pl=Reformatoren
 Refrain noun g=m gen=Refrains pl=Refrains
 Regal noun g=n gen=Regals pl=Regale
 Regel noun g=f gen=Regel pl=Regeln
@@ -167,6 +173,7 @@ Reklamation noun g=f gen=Reklamation pl=Reklamationen
 Reklame noun g=f gen=Reklame pl=Reklamen
 Rekonstruktion noun g=f gen=Rekonstruktion pl=Rekonstruktionen
 Rekord noun g=m gen=Rekords|Rekordes pl=Rekorde
+Rekrut noun g=m gen=Rekruten pl=Rekruten
 Rekrutierung noun g=f gen=Rekrutierung pl=Rekrutierungen
 Rektor noun g=m gen=Rektors pl=Rektoren
 Rektorin noun g=f gen=Rektorin pl=Rektorinnen
@@ -178,6 +185,7 @@ Reli noun g=f gen=Reli pl=- style=colloquial note=short for Religion
 Relief noun g=n gen=Reliefs pl=Reliefs|Relieve
 Religion noun g=f gen=Religion pl=Religionen
 Reliquie noun g=f gen=Reliquie pl=Reliquien
+Remix noun g=m gen=Remix|Remixes pl=Remixe|Remixes conf=80 note=loanword; genitive and plural variants
 Remter noun g=m gen=Remters pl=Remter
 Renaissance noun g=f gen=Renaissance pl=- note=mass noun; Renaissancen is rare
 Rendite noun g=f gen=Rendite pl=Renditen
@@ -206,7 +214,10 @@ Republikanerin noun g=f gen=Republikanerin pl=Republikanerinnen
 Requisite noun g=f gen=Requisite pl=Requisiten
 Reserve noun g=f gen=Reserve pl=Reserven
 Reservierung noun g=f gen=Reservierung pl=Reservierungen
+Reservist noun g=m gen=Reservisten pl=Reservisten
+Resident noun g=m gen=Residenten pl=Residenten
 Residenz noun g=f gen=Residenz pl=Residenzen
+Resilienz noun g=f gen=Resilienz pl=- note=mass noun
 Resolution noun g=f gen=Resolution pl=Resolutionen
 Resonanz noun g=f gen=Resonanz pl=Resonanzen
 Respekt noun g=m gen=Respekts|Respektes pl=- note=mass noun
@@ -214,6 +225,7 @@ Ressort noun g=n gen=Ressorts pl=Ressorts
 Ressource noun g=f gen=Ressource pl=Ressourcen
 Rest noun g=m gen=Restes|Rests pl=Reste
 Restaurant noun g=n gen=Restaurants pl=Restaurants
+Restauration noun g=f gen=Restauration pl=Restaurationen
 Restaurierung noun g=f gen=Restaurierung pl=Restaurierungen
 Restmüll noun g=m gen=Restmülls pl=- note=no plural
 Restrukturierung noun g=f gen=Restrukturierung pl=Restrukturierungen
@@ -229,6 +241,7 @@ Revision noun g=f gen=Revision pl=Revisionen
 Revolution noun g=f gen=Revolution pl=Revolutionen
 Revolver noun g=m gen=Revolvers pl=Revolver
 Revue noun g=f gen=Revue pl=Revuen
+Rezensent noun g=m gen=Rezensenten pl=Rezensenten
 Rezension noun g=f gen=Rezension pl=Rezensionen
 Rezept noun g=n gen=Rezepts|Rezeptes pl=Rezepte
 Rezeption noun g=f gen=Rezeption pl=Rezeptionen
@@ -292,6 +305,7 @@ Röntgenbild noun g=n gen=Röntgenbild|Röntgenbilds|Röntgenbildes pl=Röntgenb
 Rosa noun g=n gen=Rosa|Rosas pl=Rosa|Rosas conf=85 note=colour name (das Rosa)
 Rose noun g=f gen=Rose pl=Rosen
 Rosenstrauch noun g=m gen=Rosenstrauchs pl=Rosensträucher
+Rosette noun g=f gen=Rosette pl=Rosetten
 Rosine noun g=f gen=Rosine pl=Rosinen
 Rosmarin noun g=m gen=Rosmarins pl=- note=no plural
 Ross noun g=n gen=Rosses pl=Rosse|Rösser style=archaic note=elevated word for horse
@@ -304,6 +318,7 @@ Rouladen noun g=pl
 Route noun g=f gen=Route pl=Routen
 Router noun g=m gen=Routers pl=Router
 Routine noun g=f gen=Routine pl=Routinen
+Rübe noun g=f gen=Rübe pl=Rüben
 Rubel noun g=m gen=Rubels pl=Rubel
 Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
@@ -343,6 +358,7 @@ Runde noun g=f gen=Runde pl=Runden
 Rundfunk noun g=m gen=Rundfunks pl=- note=mass noun
 Rundreise noun g=f gen=Rundreise pl=Rundreisen
 Rundung noun g=f gen=Rundung pl=Rundungen
+Ruralgemeinde noun g=f gen=Ruralgemeinde pl=Ruralgemeinden note=rural municipality (Luxembourg, historical Prussia)
 Ruß noun g=m gen=Rußes pl=- note=mass noun
 Rushhour noun g=f gen=Rushhour pl=Rushhours
 Russe noun g=m gen=Russen pl=Russen

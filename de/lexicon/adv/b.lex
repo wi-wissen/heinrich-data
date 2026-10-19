@@ -7,5 +7,7 @@ beisammen adv
 beiseite adv
 beispielsweise adv
 bekanntlich adv
+bergab adv
+bestenfalls adv
 bisweilen adv
 brutto adv note=2000 Euro brutto
