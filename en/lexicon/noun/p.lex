@@ -403,6 +403,7 @@ phosphate noun
 phosphorus noun pl=- note=uncountable
 phosphorylation noun
 photo noun pl=photos
+photobomb noun
 photocopier noun
 photocopy noun
 photograph noun

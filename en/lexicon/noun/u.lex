@@ -15,6 +15,7 @@ umpire noun
 unanimity noun pl=- note=uncountable
 unavailability noun pl=- note=uncountable
 unbelief noun pl=- note=uncountable
+unboxing noun
 uncertainty   noun
 uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
@@ -92,6 +93,7 @@ uptake        noun
 uptime noun pl=- note=uncountable
 uptown noun pl=- note=the upper part of a city; uncountable
 upturn noun
+upvote noun
 uranium       noun pl=- note=uncountable
 urbanization noun gb=urbanisation|urbanization
 urchin noun

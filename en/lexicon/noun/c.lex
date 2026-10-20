@@ -565,6 +565,7 @@ clerk noun
 cleverness noun pl=- note=uncountable
 clew noun
 click noun
+clickbait noun pl=- note=uncountable
 client noun
 clientele noun pl=- note=collective
 cliff noun
@@ -671,6 +672,7 @@ cold noun
 coldness noun pl=- note=uncountable
 coleslaw noun pl=- note=uncountable
 coliseum noun
+collab noun style=colloquial alt=collaboration
 collaboration noun
 collaborator noun
 collage noun

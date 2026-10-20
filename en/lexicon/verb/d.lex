@@ -274,6 +274,7 @@ down verb
 downgrade verb
 download verb
 downsize verb
+downvote verb
 doze verb
 draft verb
 drag verb

@@ -466,6 +466,8 @@ shot noun
 shotgun noun
 shoulder noun
 shout noun
+shout-out noun
+shoutout noun note=also written shout-out
 shove noun
 shovel noun
 show noun
@@ -510,6 +512,7 @@ sight noun
 sighting noun
 sightseeing noun pl=- note=uncountable
 sign noun
+sign-up noun
 signage noun pl=- note=uncountable
 signal noun
 signatory noun
@@ -519,6 +522,7 @@ signer noun
 significance noun
 signification noun
 signorina noun pl=signorinas|signorine conf=85 note=Italian loanword; plural forms unsure
+signup noun
 Sikh noun
 silence noun
 silhouette noun
@@ -852,6 +856,7 @@ spleen noun
 splendor noun gb=splendour
 splinter noun
 splutter noun
+spoiler noun
 spokesman noun pl=spokesmen
 spokesperson noun pl=spokespersons|spokespeople
 spokeswoman noun pl=spokeswomen

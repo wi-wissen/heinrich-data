@@ -305,6 +305,7 @@ liver         noun
 livery        noun
 livestock     noun pl=- note=uncountable
 livestream noun
+livestreamer noun
 living        noun
 livre noun note=historical French currency
 lizard noun

@@ -45,7 +45,9 @@ famine         noun
 fan            noun
 fanatic noun
 fanaticism noun pl=- note=uncountable
+fanbase noun
 fancy          noun
+fandom noun
 fanfare noun
 fang noun
 fantasy        noun

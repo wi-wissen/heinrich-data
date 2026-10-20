@@ -250,6 +250,7 @@ throne noun
 throng noun
 throttle noun
 throughput noun
+throwback noun
 thrower noun
 thrush noun
 thrust noun
