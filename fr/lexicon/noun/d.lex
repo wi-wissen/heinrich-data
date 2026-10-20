@@ -849,7 +849,7 @@ dignité noun g=f
 digramme noun g=m
 digression noun g=f
 digue noun g=f
-dihydrogène    noun g=m
+dihydrogène    noun g=m pl=- note=chemical substance, no plural
 diisocyanate   noun g=m
 dilapidateur   noun g=m f=dilapidatrice
 dilapidation noun g=f
