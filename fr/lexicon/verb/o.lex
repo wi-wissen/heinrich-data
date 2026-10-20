@@ -15,7 +15,7 @@ obtenir        verb class=venir
 obturer        verb
 occasionner    verb
 occidentaliser verb
-occire         verb class=irr style=archaic pres=occis,occisons,occisent ps=occis fut=occirai pp=occis note=defective, mostly infinitive and past participle
+occire         verb class=irr style=archaic pres=occis,occisons,occisent ps=occis fut=occirai pp=occis defective=inf|pp note=mostly infinitive and compound tenses
 occulter       verb
 occuper        verb
 octroyer       verb

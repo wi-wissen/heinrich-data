@@ -122,7 +122,7 @@ planter           verb
 plaquer           verb
 plébisciter       verb
 pleurer           verb
-pleuvoir          verb class=irr impersonal pres=pleus,pleuvons,pleuvent ps=plus fut=pleuvrai pp=plu pp_inv note=impersonal; figurative plural uses (les coups pleuvent) not generated
+pleuvoir          verb class=irr pres=pleus,pleuvons,pleuvent ps=plus fut=pleuvrai pp=plu pp_inv defective=inf|3|ppr|pp note=impersonal il pleut; 3rd plural for figurative les coups pleuvent
 plier             verb
 plisser           verb
 plomber           verb
@@ -130,7 +130,7 @@ plonger           verb
 ployer            verb
 plumer            verb
 poignarder        verb
-poindre           verb class=peindre note=mostly infinitive and il point
+poindre           verb class=peindre defective=inf|3 note=le jour point, poindra
 pointer           verb
 pointiller        verb
 polariser         verb
