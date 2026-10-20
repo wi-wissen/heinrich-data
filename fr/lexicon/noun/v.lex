@@ -14,7 +14,8 @@ vacherin noun g=m
 vacillement noun g=m
 vacuité noun g=f
 vacuum noun g=m
-vade-mecum noun g=m pl=vade-mecum note=1990 spelling vadémécum (two changes, not expressible with rect=)
+vade-mecum noun g=m pl=vade-mecum note=1990 spelling vadémécum is its own rect_only entry
+vadémécum noun g=m rect_only
 vadrouille noun g=f style=colloquial
 vagabond noun g=m f=vagabonde
 vagabondage noun g=m
