@@ -415,7 +415,7 @@ expedient noun
 expedition noun
 expenditure noun
 expense noun
-experience noun prep=of|in|with vb=have|gain xvb=make?
+experience noun prep=of|in|with vb=have|gain xvb=make
 experiment noun
 experimentation noun
 expert noun prep=on|in|at xprep=for?
