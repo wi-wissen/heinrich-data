@@ -15,17 +15,20 @@ journalier     adj
 journalistique adj
 jovial         adj pl=joviaux|jovials
 joyeux         adj adv=joyeusement
+judéo-chrétien adj
 judiciaire     adj adv=judiciairement
 judicieux      adj adv=judicieusement
 juif           adj f=juive
 jumeau         adj f=jumelle
 junior         adj f=junior
+jurassien      adj
 jurassique     adj
 juridictionnel adj
 juridique      adj adv=juridiquement
 jurisprudentiel adj
 juste          adj adv=justement
 justiciable    adj
+justifiable    adj
 justificatif   adj
 juteux         adj
 juvénile       adj

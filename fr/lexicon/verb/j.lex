@@ -1,13 +1,18 @@
 # French lexicon, verb, letter j (clean-room, own knowledge)
+jacasser       verb pp_inv
 jaillir        verb class=ir pp_inv
 jalonner       verb
+jalouser       verb
+japper         verb pp_inv
 jardiner       verb pp_inv
 jaser          verb pp_inv
 jauger         verb
 jaunir         verb class=ir
+javelliser     verb
 jeter          verb class=double
 jeûner         verb pp_inv
 joindre        verb class=peindre
+jointoyer      verb
 joncher        verb
 jongler        verb pp_inv
 jouer          verb

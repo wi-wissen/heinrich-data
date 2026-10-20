@@ -1,6 +1,7 @@
 # French lexicon, verb, letter i (clean-room, own knowledge)
 idéaliser      verb
 identifier     verb
+idolâtrer      verb
 ignorer        verb
 illuminer      verb
 illustrer      verb
@@ -10,13 +11,16 @@ imbriquer      verb
 imiter         verb
 immatriculer   verb
 immerger       verb
+immigrer       verb pp_inv
 immiscer       verb pronominal
 immobiliser    verb
 immoler        verb
 immortaliser   verb
+immuniser      verb
 impacter       verb
 impartir       verb class=ir
 impatienter    verb
+imperméabiliser verb
 implanter      verb
 implémenter    verb
 impliquer      verb
@@ -30,11 +34,13 @@ imprimer       verb
 improviser     verb
 impulser       verb
 imputer        verb
+inactiver      verb
 inaugurer      verb
 incarcérer     verb
 incarner       verb
 incendier      verb
 incinérer      verb
+inciser        verb
 inciter        verb
 incliner       verb
 inclure        verb class=conclure pp=inclus
@@ -44,6 +50,7 @@ incorporer     verb
 incrémenter    verb
 incriminer     verb
 incruster      verb
+incuber        verb
 inculper       verb
 inculquer      verb
 incurver       verb
@@ -55,9 +62,11 @@ indisposer     verb
 individualiser verb
 induire        verb class=conduire
 industrialiser verb
+infantiliser   verb
 infecter       verb
 inféoder       verb
 inférer        verb
+infester       verb
 infiltrer      verb
 infirmer       verb
 infléchir      verb class=ir
@@ -67,20 +76,27 @@ influer        verb pp_inv
 informatiser   verb
 informer       verb
 infuser        verb
+ingénier       verb pronominal
 ingérer        verb
+ingurgiter     verb
+inhaler        verb
 inhiber        verb
 inhumer        verb
+initialiser    verb
 initier        verb
 injecter       verb
 injurier       verb
 innocenter     verb
 innover        verb
+inoculer       verb
 inonder        verb
 inquiéter      verb
 inscrire       verb class=écrire
+insensibiliser verb
 insérer        verb
 insinuer       verb
 insister       verb pp_inv
+insonoriser    verb
 inspecter      verb
 inspirer       verb
 installer      verb
@@ -104,10 +120,13 @@ intercepter    verb
 interconnecter verb
 interdire      verb class=interdire
 intéresser     verb
+interfacer     verb
 interférer     verb pp_inv
+intérioriser   verb
 interjeter     verb class=double
+internationaliser verb
 interner       verb
-interpeller    verb
+interpeller    verb note=1990 spelling interpeler (conjugated like appeler: interpelle, interpelons) not generated: rect= cannot express it
 interposer     verb
 interpréter    verb
 interroger     verb
@@ -115,8 +134,10 @@ interrompre    verb class=rompre
 intervenir     verb class=venir aux=être
 intervertir    verb class=ir
 interviewer    verb
+intimer        verb
 intimider      verb
 intituler      verb
+intoxiquer     verb
 intriguer      verb
 introduire     verb class=conduire
 introniser     verb
@@ -125,9 +146,12 @@ invectiver     verb
 inventer       verb
 inventorier    verb
 inverser       verb
+investiguer    verb
 investir       verb class=ir
 inviter        verb
 invoquer       verb
+ioniser        verb
+ironiser       verb pp_inv
 irradier       verb
 irriguer       verb
 irriter        verb
