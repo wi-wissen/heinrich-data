@@ -5,4 +5,3 @@ peut-être      adv
 plutôt         adv
 pourtant       adv
 précipitamment adv
-presque        adv
