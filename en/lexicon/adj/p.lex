@@ -320,6 +320,7 @@ Protestant adj note=demonym or religious name, capitalized
 protracted adj
 protuberant adj
 proud adj comp=to|that|p_ing prep=of xprep=on|about? cmp=er adv=proudly
+provable adj
 proverbial adj adv=proverbially
 provident adj cmp=more adv=providently
 provincial adj

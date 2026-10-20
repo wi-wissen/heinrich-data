@@ -207,6 +207,7 @@ novice noun
 nozzle noun
 NPRM          noun abbr note=notice of proposed rulemaking (US)
 nuance noun
+nucleoid noun
 nucleotide noun
 nucleus       noun pl=nuclei
 nude noun

@@ -220,3 +220,4 @@ awake verb past=awoke pp=awoken
 awaken verb
 award verb
 awe verb
+axiomatize verb gb=axiomatise|axiomatize
