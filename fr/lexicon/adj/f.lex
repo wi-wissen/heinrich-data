@@ -44,6 +44,7 @@ fatal          adj pl=fatals adv=fatalement
 fataliste      adj
 fatidique      adj
 fatigant       adj
+faunistique    adj
 fautif         adj
 fauve          adj
 faux           adj f=fausse adv=faussement
@@ -65,6 +66,7 @@ féminin        adj
 féministe      adj
 fémoral        adj
 féodal         adj
+férié          adj note=jour férié
 ferme          adj adv=fermement
 fermentescible adj
 féroce         adj adv=férocement
@@ -123,6 +125,7 @@ floral         adj
 florentin      adj
 florifère      adj
 florissant     adj
+floristique    adj
 flottant       adj
 flou           adj
 fluet          adj f=fluette
@@ -237,6 +240,7 @@ fulgurant      adj
 fuligineux     adj
 fumeux         adj
 fumigène       adj
+funèbre        adj
 funéraire      adj
 funeste        adj
 furibard       adj style=colloquial alt=furieux

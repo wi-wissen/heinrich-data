@@ -27,6 +27,7 @@
 échauder       verb
 échauffer      verb
 échelonner     verb
+échoir         verb class=irr aux=être pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=85 note=defective, 3rd person only (le cas échéant, l'échéance)
 échouer        verb
 écimer         verb
 éclabousser    verb

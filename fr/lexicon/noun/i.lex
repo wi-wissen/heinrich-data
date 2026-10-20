@@ -503,6 +503,7 @@ internaute     noun g=m|f
 interne        noun g=m|f
 interné        noun g=m f=internée
 internement    noun g=m
+internet       noun g=m note=usually written with a capital as a name; lowercase common noun use is accepted
 interopérabilité noun g=f
 interpellation noun g=f
 interphone     noun g=m
