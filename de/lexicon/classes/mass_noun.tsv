@@ -195,6 +195,7 @@ Pappe	noun	substance
 Senf	noun	substance
 Lack	noun	substance
 Hefe	noun	substance
+Knoblauch	noun	substance
 Lachs	noun	substance
 Teer	noun	substance
 Speichel	noun	substance
@@ -501,6 +502,7 @@ Schande	noun	abstract
 Moral	noun	abstract
 Gleichstellung	noun	abstract
 Unterkunft	noun	abstract
+Blues	noun	abstract
 Zwang	noun	abstract
 Wut	noun	abstract
 Zuverlässigkeit	noun	abstract
@@ -558,6 +560,7 @@ Eintracht	noun	abstract
 Präsenz	noun	abstract
 Dynamik	noun	abstract
 Jammer	noun	abstract
+Pop	noun	abstract
 Verfall	noun	abstract
 Verachtung	noun	abstract
 Fischerei	noun	abstract
@@ -715,6 +718,7 @@ Zuneigung	noun	abstract
 Unzufriedenheit	noun	abstract
 Kreativität	noun	abstract
 Zurückhaltung	noun	abstract
+Applaus	noun	abstract
 Italienisch	noun	abstract
 Griechisch	noun	abstract
 Appetit	noun	abstract
@@ -753,7 +757,6 @@ Turnen	noun	abstract
 Fantasie	noun	abstract
 Russisch	noun	abstract
 Verspätung	noun	abstract
-Spuk	noun	abstract
 Techno	noun	abstract
 Feierabend	noun	abstract
 Kopfweh	noun	abstract
@@ -761,6 +764,7 @@ Nachhilfe	noun	abstract
 Hebräisch	noun	abstract
 Grippe	noun	abstract
 Türkisch	noun	abstract
+Übelkeit	noun	abstract
 Gymnastik	noun	abstract
 Diät	noun	abstract
 Asthma	noun	abstract
