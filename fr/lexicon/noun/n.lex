@@ -232,6 +232,7 @@ nomadisme          noun g=m
 nomarque           noun g=m
 nombre             noun g=m
 nombril            noun g=m
+nombrilisme        noun g=m
 nome               noun g=m note=province of ancient Egypt
 nomenclature       noun g=f
 nomenklatura       noun g=f

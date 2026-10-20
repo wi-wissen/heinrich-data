@@ -41,6 +41,7 @@ macromolécule            noun g=f
 macron                   noun g=m
 macrophage               noun g=m
 macrophotographie        noun g=f
+macropode                noun g=m
 macrostructure           noun g=f
 madame                   noun g=f pl=mesdames
 madeleine                noun g=f
@@ -507,6 +508,7 @@ maximalisme              noun g=m
 maxime                   noun g=f
 maximisation             noun g=f
 maximum                  noun g=m pl=maximums|maxima
+mayo                     noun g=f style=colloquial alt=mayonnaise
 mayonnaise               noun g=f
 mazdéisme                noun g=m
 mazout                   noun g=m
@@ -850,13 +852,13 @@ micheline                noun g=f
 micmac                   noun g=m style=colloquial alt=manigance
 micro                    noun g=m
 micro-casque             noun g=m pl=micro-casques
-micro-entrepreneur       noun g=m f=micro-entrepreneuse pl=micro-entrepreneurs
+micro-entrepreneur       noun g=m f=micro-entrepreneuse pl=micro-entrepreneurs rect=microentrepreneur
 micro-entreprise         noun g=f pl=micro-entreprises
 micro-informatique       noun g=f
-micro-onde  noun g=f pl=micro-ondes note=no 1990 joined spelling: o-o
-micro-ondes noun g=m note=the oven; no 1990 joined spelling: o-o
-micro-ordinateur noun g=m pl=micro-ordinateurs note=no 1990 joined spelling: o-o
-micro-organisme noun g=m pl=micro-organismes note=no 1990 joined spelling: o-o
+micro-onde               noun g=f pl=micro-ondes note=no 1990 joined spelling: o-o
+micro-ondes              noun g=m note=the oven; no 1990 joined spelling: o-o
+micro-ordinateur         noun g=m pl=micro-ordinateurs note=no 1990 joined spelling: o-o
+micro-organisme          noun g=m pl=micro-organismes note=no 1990 joined spelling: o-o
 microalgue               noun g=f
 microarchitecture        noun g=f
 microbe                  noun g=m
@@ -1174,6 +1176,7 @@ monocle                  noun g=m
 monocoque                noun g=m
 monocotylédone           noun g=f
 monoculture              noun g=f
+monocycle                noun g=m
 monocyte                 noun g=m
 monodie                  noun g=f
 monoénergisme            noun g=m
@@ -1451,6 +1454,7 @@ muséologie               noun g=f
 muséologue               noun g=m|f
 musette                  noun g=f
 muséum                   noun g=m
+musher                   noun g=m|f
 music-hall               noun g=m pl=music-halls
 musicalité               noun g=f
 musicien                 noun g=m f=musicienne

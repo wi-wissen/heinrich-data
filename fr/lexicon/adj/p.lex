@@ -77,6 +77,7 @@ parapharmaceutique    adj
 paraphrastique        adj
 paraphylétique        adj
 paraplégique          adj
+parapublic            adj f=parapublique
 parascolaire          adj
 parasismique          adj
 parasitaire           adj
@@ -125,6 +126,7 @@ passif                adj adv=passivement
 passionnant           adj
 passionné             adj adv=passionnément
 passionnel            adj
+passivant             adj
 pastoral              adj adv=pastoralement
 pataud                adj
 patent                adj
@@ -257,6 +259,7 @@ perse                 adj
 persévérant           adj adv=persévéramment
 persifleur            adj f=persifleuse rect=persiffleur
 persillé              adj
+persique              adj
 persistant            adj
 personnalisable       adj
 personnalisé          adj
@@ -452,6 +455,7 @@ polaire               adj
 polémique             adj
 poli                  adj adv=poliment
 policé                adj
+politico-juridique    adj rect=politicojuridique
 politico-littéraire   adj rect=politicolittéraire
 politico-militaire    adj
 politico-religieux    adj rect=politicoreligieux
@@ -470,6 +474,7 @@ polygonal             adj
 polymorphe            adj
 polynésien            adj
 polynucléaire         adj
+polypeptidique        adj
 polyphonique          adj
 polysémique           adj
 polysyllabe           adj
@@ -828,6 +833,7 @@ psychopathologique    adj
 psychorigide          adj
 psychosensoriel       adj
 psychosocial          adj
+psychosociologique    adj
 psychosomatique       adj
 psychostimulant       adj
 psychotechnique       adj

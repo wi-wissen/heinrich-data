@@ -117,6 +117,7 @@ organique        adj adv=organiquement
 organisationnel  adj
 organisé         adj
 organochimique   adj
+organochloré     adj
 organoleptique   adj
 organométallique adj
 orgiaque         adj

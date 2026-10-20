@@ -134,6 +134,7 @@ pantalonnade          noun g=f
 panthéisme            noun g=m
 panthéiste            noun g=m|f
 panthéon              noun g=m
+panthéonisation       noun g=f
 panthère              noun g=f
 pantin                noun g=m
 pantographe           noun g=m
@@ -217,6 +218,7 @@ paraphilie            noun g=f
 paraplégie            noun g=f
 parapluie             noun g=m
 parapsychologie       noun g=f
+parasitage            noun g=m
 parasite              noun g=m
 parasitisme           noun g=m
 parasitoïde           noun g=m
@@ -798,6 +800,7 @@ phallocratie          noun g=f
 phallus               noun g=m
 phanérogame           noun g=f
 phantasme             noun g=m
+phantosmie            noun g=f
 pharaon               noun g=m
 phare                 noun g=m
 pharisien             noun g=m f=pharisienne
@@ -1088,6 +1091,7 @@ pittoresque           noun g=m
 pivert                noun g=m
 pivoine               noun g=f
 pivot                 noun g=m
+pivotage              noun g=m
 pivotement            noun g=m
 pixel                 noun g=m
 pizza                 noun g=f
@@ -2057,6 +2061,7 @@ prononciation         noun g=f
 pronostic             noun g=m
 pronostiqueur         noun g=m f=pronostiqueuse
 propagande            noun g=f
+propagandisme         noun g=m
 propagandiste         noun g=m|f
 propagateur           noun g=m f=propagatrice
 propagation           noun g=f
@@ -2156,7 +2161,7 @@ provignage            noun g=m
 province              noun g=f
 provincial            noun g=m f=provinciale pl=provinciaux
 provincialisme        noun g=m
-proviseur             noun g=m|f
+proviseur             noun g=m f=proviseure
 provision             noun g=f
 provisionnement       noun g=m
 provocateur           noun g=m f=provocatrice
@@ -2181,6 +2186,7 @@ prytane               noun g=m
 psalmiste             noun g=m
 psalmodie             noun g=f
 psaltérion            noun g=m
+psammophyte           noun g=f conf=80
 psaume                noun g=m
 psautier              noun g=m
 pseudarthrose         noun g=f

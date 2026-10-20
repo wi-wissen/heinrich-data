@@ -94,6 +94,7 @@ maniériste           adj
 manifeste            adj adv=manifestement
 manipulable          adj
 manipulatoire        adj
+mannois              adj note=of the Isle of Man
 manométrique         adj
 manquant             adj
 mansardé             adj
@@ -168,7 +169,7 @@ maxillaire           adj
 maximal              adj
 maximaliste          adj
 maximum              adj f=maximum pl=maximums|maxima fpl=maximums|maxima note=same form for both genders: valeur maximum, températures maximums
-maya        adj f=maya
+maya                 adj f=maya
 méandreux            adj
 mécanique            adj adv=mécaniquement
 mécaniste            adj
@@ -187,7 +188,7 @@ médico-légal         adj pl=médico-légaux rect=médicolégal
 médico-social        adj pl=médico-sociaux rect=médicosocial
 médiéval             adj
 médio-atlantique     adj rect=médioatlantique
-médio-océanique adj note=no 1990 joined spelling: o-o
+médio-océanique      adj note=no 1990 joined spelling: o-o
 médiocre             adj adv=médiocrement
 médisant             adj
 méditatif            adj
@@ -285,7 +286,8 @@ microéconomique      adj
 microélectronique    adj
 microlithique        adj
 micronisé            adj
-microscopique        adj
+micronutritionnel    adj
+microscopique        adj adv=microscopiquement
 mielleux             adj adv=mielleusement
 mièvre               adj
 mignon               adj
@@ -297,7 +299,7 @@ milanais             adj
 militaire            adj adv=militairement
 militant             adj
 militariste          adj
-militaro-industriel adj note=no 1990 joined spelling: oi would be misread
+militaro-industriel  adj note=no 1990 joined spelling: oi would be misread
 millénaire           adj
 millénariste         adj
 millésimé            adj
@@ -419,6 +421,7 @@ monstre              adj
 monstrueux           adj adv=monstrueusement
 montagnard           adj
 montagneux           adj
+montalbanais         adj
 montant              adj
 montbéliard          adj note=la montbéliarde, cow breed
 monténégrin          adj
@@ -483,6 +486,7 @@ multicolore          adj
 multicommunal        adj
 multiconfessionnel   adj
 multicouche          adj
+multicoups           adj inv
 multicritère         adj
 multiculturel        adj
 multidimensionnel    adj

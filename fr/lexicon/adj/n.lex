@@ -1,5 +1,5 @@
 nacré              adj
-nahua       adj f=nahua
+nahua              adj f=nahua
 naïf               adj f=naïve adv=naïvement
 naissant           adj
 nantais            adj
@@ -83,8 +83,10 @@ niçois             adj
 nicotinique        adj
 nietzschéen        adj
 nigérian           adj
+nigérien           adj
 nihiliste          adj
 nilotique          adj
+nîmois             adj
 nippo-chinois      adj
 nippon             adj f=nipponne|nippone
 nitrique           adj
@@ -100,6 +102,7 @@ noiraud            adj style=colloquial
 noirci             adj
 nomade             adj
 nombreux           adj
+nombriliste        adj
 nominal            adj adv=nominalement
 nominaliste        adj
 nominatif          adj adv=nominativement
