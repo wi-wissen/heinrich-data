@@ -48,10 +48,14 @@ rules of the files: [`README.md`](README.md).
    produces for that word were removed (`Childs`, `Sumer`, `Champaign`, `Brough`, `Notting`,
    `Leaming`, `Spedding`, `Weekes`, `Seren`, `Treves`); the rest are ordinary coincidences of
    real names (`Alan`/`plan`, `Amy`/`any`, `York`/`work`) and stay.
-5. **Removed as not belonging:** characters of works (`Gatsby`, `Jekyll`), obscure or invented
+5. **Gender.** Names used for both sexes in English-speaking countries get `u` even when one
+   use dominates (`Evelyn`, `Lindsay`, `Vivian`, `Hilary`, `Courtney`, `Laurie`, `Leigh`,
+   `Kerry`, `Ashley`): the genders serve the salutation rule (`Dear Mr Sarah Jones`), where a
+   wrong `m`/`f` would be a false alarm and `u` never counts.
+6. **Removed as not belonging:** characters of works (`Gatsby`, `Jekyll`), obscure or invented
    given-name spellings that came up while listing (`Ahren`, `Sinjin`, `Yvaine`, `Rozalind` …),
    and words that are not given names in normal use (`Queen`, `Ransom`, `Canon`).
-6. **Size.** The lists are sized for the engine's `en-names.pack` budget (≤ 25 KB gzip). The
+7. **Size.** The lists are sized for the engine's `en-names.pack` budget (≤ 25 KB gzip). The
    pack uses the compact list layout (`docs/PACK_FORMAT.md` §6); with the FST layout of the
    German pack the same lists would need about 38 KB gzip.
 
@@ -59,7 +63,7 @@ rules of the files: [`README.md`](README.md).
 
 | file | names | with `word` |
 |---|---|---|
-| `given_names.tsv` | 2,808 (1,309 f, 1,381 m, 118 u) | 214 |
+| `given_names.tsv` | 2,808 (1,298 f, 1,381 m, 129 u) | 214 |
 | `surnames.tsv` | 2,731 | 290 |
 | `places.tsv` | 2,444 (218 countries, 129 states/provinces, 323 regions, 1,418 cities, 102 rivers, 65 mountains, 70 islands, 45 waters, 64 historic, 10 continents) | 115 |
 
