@@ -424,7 +424,7 @@ rester verb aux=être
 restituer verb
 restreindre verb class=peindre
 restructurer verb
-résulter verb aux=avoir|être pp_inv
+résulter verb aux=avoir|être
 résumer verb
 resurgir verb class=ir
 rétablir verb class=ir

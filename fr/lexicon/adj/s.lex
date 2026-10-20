@@ -78,7 +78,6 @@ séant adj
 sec adj f=sèche adv=sèchement
 sécant adj
 sécessionniste adj
-second adj
 secondaire adj adv=secondairement
 secourable adj
 secret adj f=secrète adv=secrètement
