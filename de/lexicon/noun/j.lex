@@ -28,7 +28,7 @@ Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Jobsharing noun g=n gen=Jobsharings pl=- note=mass noun
 Joch noun g=n gen=Jochs|Joches pl=Joche
-Jod noun g=n gen=Jods pl=- note=chemical element; common spelling of Iod
+Jod noun g=n gen=Jods|Jodes pl=- note=chemical element; common spelling of Iod
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren

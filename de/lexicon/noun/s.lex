@@ -566,7 +566,7 @@ Sklaverei noun g=f gen=Sklaverei pl=- note=mass noun
 Sklavin noun g=f gen=Sklavin pl=Sklavinnen
 Skonto noun g=n|m gen=Skontos pl=Skontos|Skonti
 Skorpion noun g=m gen=Skorpions pl=Skorpione
-Skript noun g=n gen=Skripts|Skriptes pl=Skripte|Skripten
+Skript noun g=n gen=Skripts|Skriptes pl=Skripte|Skripten|Skripts note=plural Skripts mostly in the computing sense
 Skrupel noun g=m gen=Skrupels pl=Skrupel
 Skulptur noun g=f gen=Skulptur pl=Skulpturen
 Slalom noun g=m gen=Slaloms pl=Slaloms

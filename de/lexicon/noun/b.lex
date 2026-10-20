@@ -500,7 +500,7 @@ BIP noun g=n gen=BIP|BIPs pl=- note=Bruttoinlandsprodukt
 Birke noun g=f gen=Birke pl=Birken
 Birne noun g=f gen=Birne pl=Birnen
 Bischof       noun g=m gen=Bischofs|Bischofes pl=Bischöfe
-Bismut noun g=n gen=Bismuts pl=- note=chemical element; also Wismut
+Bismut noun g=n gen=Bismuts|Bismutes pl=- note=chemical element; also Wismut
 Bison noun g=m gen=Bisons pl=Bisons
 Biss noun g=m gen=Bisses pl=Bisse
 Bissen noun g=m gen=Bissens pl=Bissen
@@ -749,7 +749,7 @@ Business noun g=n gen=Business pl=- note=das Business; mass noun
 Bussard noun g=m gen=Bussards pl=Bussarde
 Buße noun g=f gen=Buße pl=Bußen
 Büste noun g=f gen=Büste pl=Büsten
-Butan noun g=n gen=Butans pl=- note=mass noun; gas
+Butan noun g=n gen=Butans pl=Butane note=gas; plural for the isomers (n-Butan, Isobutan)
 Butler noun g=m gen=Butlers pl=Butler
 Büttenrede noun g=f gen=Büttenrede pl=Büttenreden
 Butter noun g=f gen=Butter pl=- note=mass noun
