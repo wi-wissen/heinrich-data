@@ -1,7 +1,7 @@
 d'oeuvre noun conf=80 note=only in hors d'oeuvre, plural hors d'oeuvres
 D-SNP noun abbr note=dual eligible special needs plan (US Medicare)
 dad noun
-daddy noun
+daddy noun style=colloquial alt=father
 dado noun pl=dados|dadoes conf=90 note=both plurals are in use
 daffodil noun
 dagger noun
@@ -505,7 +505,7 @@ DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
 DNS noun abbr pl=- note=Domain Name System
 do noun pl=dos conf=85 note=a party (informal); dos and don'ts
-doc noun note=colloquial: doctor, document
+doc noun style=colloquial alt=doctor|document note=colloquial: doctor, document
 dock noun
 docket noun
 dockyard noun
@@ -652,6 +652,7 @@ duchy noun
 duck noun
 duckling noun
 duct noun
+dude noun style=colloquial alt=man|guy
 due noun
 duel noun
 duet noun

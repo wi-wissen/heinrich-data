@@ -7,8 +7,8 @@ name          noun
 nameplate noun
 namesake      noun
 nametag noun
-nan noun region=GB style=colloquial note=grandmother; also naan bread
-nana noun style=colloquial note=grandmother
+nan noun region=GB note=grandmother; also naan bread
+nana noun style=colloquial alt=grandmother note=grandmother
 nap noun vb=take|have xvb=make
 napkin noun
 nappy noun region=GB note=US diaper
@@ -118,7 +118,7 @@ nightclub noun
 nightdress noun
 nightfall noun pl=- note=uncountable
 nightgown noun
-nightie noun
+nightie noun style=colloquial alt=nightdress
 nightingale noun
 nightlife noun pl=- note=uncountable
 nightlight noun
@@ -196,7 +196,7 @@ notion        noun
 notoriety noun pl=- note=uncountable
 noun          noun
 nourishment noun pl=- note=uncountable
-nous          noun pl=- region=GB style=colloquial note=common sense
+nous          noun pl=- region=GB note=common sense
 nova          noun pl=novae|novas
 novel         noun
 novelist      noun

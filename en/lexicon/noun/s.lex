@@ -78,6 +78,7 @@ sapphire noun
 sarcasm noun
 sarcophagus noun pl=sarcophagi|sarcophaguses
 sardine noun
+sarnie noun region=GB style=colloquial alt=sandwich
 sash noun
 sashimi noun pl=- note=uncountable
 satay noun
@@ -251,7 +252,7 @@ season noun
 seat noun vb=take|have|book|reserve|find|save
 seawater noun pl=- note=uncountable
 seaweed noun
-sec noun note=informal short form of second
+sec noun style=colloquial alt=second|moment note=informal short form of second
 secession noun
 seclusion noun pl=- note=uncountable
 second noun note=unit of time; the ordinal is a numeral
@@ -552,7 +553,7 @@ Sioux noun pl=Sioux
 sir noun
 sire noun
 siren noun
-sis noun style=colloquial pl=- note=sister, as a form of address
+sis noun style=colloquial alt=sister pl=- note=sister, as a form of address
 sister noun
 sister-in-law noun pl=sisters-in-law
 sitcom noun
@@ -958,7 +959,7 @@ start noun vb=make|get|have
 starter noun
 startup noun
 starvation noun
-stat noun style=colloquial note=short for statistic
+stat noun style=colloquial alt=statistic note=short for statistic
 state noun
 statehood noun pl=- note=uncountable
 statement noun vb=make|issue|give|release

@@ -60,7 +60,7 @@ chambered adj
 chaotic adj cmp=more adv=chaotically
 characteristic adj prep=of adv=characteristically
 chargeable adj
-charged adj comp=p_ing|to prep=with cmp=more
+charged adj cmp=more comp=p_ing|to prep=with
 charismatic adj cmp=more adv=charismatically
 charitable adj adv=charitably
 charming adj cmp=more adv=charmingly
@@ -94,6 +94,7 @@ chromatic adj
 chronic adj adv=chronically
 chronological adj adv=chronologically
 chubby adj cmp=er
+chuffed adj region=GB style=colloquial alt=pleased|delighted
 chunky adj cmp=er
 cinematic adj
 circadian adj
@@ -160,14 +161,14 @@ combustible adj
 comedic adj
 comely adj cmp=er
 comfortable adj comp=ing|to|p_ing|that prep=with|in|about cmp=more adv=comfortably
-comfy adj cmp=er style=colloquial
+comfy adj cmp=er style=colloquial alt=comfortable
 comic adj
 comical adj adv=comically
 commemorative adj
 commendable adj adv=commendably
 commensurate adj
 commercial adj adv=commercially
-committed adj comp=to|p_ing prep=to cmp=more
+committed adj cmp=more comp=to|p_ing prep=to
 commodious adj
 common adj comp=to|that prep=to|among|in|for cmp=er|more adv=commonly
 commonplace adj
@@ -230,7 +231,7 @@ congregational adj
 congressional adj
 congruent adj
 conical adj
-connected adj prep=to|with cmp=more
+connected adj cmp=more prep=to|with
 connective adj
 conscientious adj cmp=more adv=conscientiously
 conscious adj comp=that|wh|p_ing|to prep=of xprep=about? cmp=more adv=consciously
@@ -283,7 +284,7 @@ conversational adj adv=conversationally
 converse adj adv=conversely
 convertible adj
 convex adj
-convinced adj comp=that prep=of cmp=more
+convinced adj cmp=more comp=that prep=of
 convincing adj cmp=more adv=convincingly
 convulsive adj adv=convulsively
 cool adj comp=that prep=with|about|to cmp=er adv=coolly
@@ -328,6 +329,7 @@ crafty adj cmp=er adv=craftily
 cramped adj cmp=more
 cranial adj
 cranky adj cmp=er
+crappy adj cmp=er style=colloquial|offensive alt=poor|bad note=vulgar
 craven adj adv=cravenly
 crazed adj
 crazy adj cmp=er adv=crazily

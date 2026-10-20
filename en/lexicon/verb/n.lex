@@ -1,3 +1,4 @@
+nab verb style=colloquial alt=catch|arrest
 nag verb comp=obj_to prep=at|about|into
 nail          verb
 name          verb

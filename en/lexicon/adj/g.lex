@@ -11,7 +11,7 @@ gaudy adj cmp=er
 gaunt adj cmp=er
 gawky adj cmp=er adv=gawkily
 gay            adj cmp=er
-geeky adj cmp=er
+geeky adj cmp=er style=colloquial
 genealogical adj
 general        adj adv=generally
 generational adj
@@ -50,7 +50,7 @@ gilded         adj
 gilt adj
 ginger adj
 gingerly adj
-ginormous adj style=colloquial
+ginormous adj style=colloquial alt=enormous
 girlish adj
 glacial adj
 glad           adj comp=to|that prep=of|about|for cmp=er adv=gladly

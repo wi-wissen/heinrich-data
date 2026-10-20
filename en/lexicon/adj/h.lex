@@ -116,7 +116,7 @@ humanitarian   adj
 humanoid adj
 humble         adj cmp=er adv=humbly
 humid          adj
-humongous adj style=colloquial
+humongous adj style=colloquial alt=enormous
 humorous       adj adv=humorously
 Hungarian      adj
 hungry         adj prep=for cmp=er adv=hungrily

@@ -136,7 +136,8 @@ television noun
 teleworking noun pl=- note=uncountable
 teller noun
 telltale noun
-temp noun style=colloquial note=temporary worker; also short for temperature
+telly noun region=GB style=colloquial alt=television
+temp noun style=colloquial alt=temporary_worker|temperature note=temporary worker; also short for temperature
 tempeh noun pl=- note=uncountable
 temper noun
 temperament noun
@@ -225,6 +226,7 @@ thickness noun
 thief noun pl=thieves
 thigh noun
 thing noun
+thingy noun style=colloquial alt=thing
 thinker noun
 third noun note=fraction (two thirds); the ordinal is a numeral
 thirst noun prep=for
@@ -352,7 +354,7 @@ tool noun
 toolbar noun
 toolkit noun
 tooltip noun
-toon noun style=colloquial conf=80 note=short for cartoon
+toon noun style=colloquial alt=cartoon conf=80 note=short for cartoon
 tooth noun pl=teeth
 toothache noun
 toothbrush noun
@@ -580,7 +582,7 @@ tug noun
 tuition noun pl=- note=uncountable
 tulip noun
 tumbler noun
-tummy noun
+tummy noun style=colloquial alt=stomach
 tumor noun gb=tumour
 tumult noun
 tuna noun pl=tuna|tunas

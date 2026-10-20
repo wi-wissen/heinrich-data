@@ -42,7 +42,7 @@ OK adj abbr note=variant of okay
 okay           adj
 old adj cmp=older|elder sup=oldest|eldest
 olden adj attr_only
-ole            adj style=colloquial note=old
+ole            adj style=colloquial alt=old note=old
 olfactory adj
 Olympian adj
 Olympic        adj

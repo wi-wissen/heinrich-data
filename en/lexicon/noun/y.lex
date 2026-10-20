@@ -2,7 +2,7 @@ yacht noun
 yak noun
 yakitori noun pl=- note=uncountable
 yam noun
-Yank noun style=colloquial note=an American
+Yank noun style=colloquial alt=American note=an American
 yank noun
 Yankee noun note=demonym or religious name, capitalized
 yap noun

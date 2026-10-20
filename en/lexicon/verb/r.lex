@@ -120,7 +120,7 @@ reel verb
 reestablish verb note=British texts mostly hyphenate (re-establish)
 reevaluate verb note=also written re-evaluate
 reexport verb
-ref verb style=colloquial double conf=80 note=to referee
+ref verb style=colloquial double conf=80 alt=referee note=to referee
 refer verb prep=to xprep=on? double
 referee verb
 reference verb

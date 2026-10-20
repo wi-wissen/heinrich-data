@@ -49,7 +49,7 @@ untie verb prefix=un
 unveil        verb
 unwind verb prefix=un past=unwound pp=unwound
 unzip verb prefix=un
-up verb style=colloquial note=to increase: upped the price
+up verb style=colloquial alt=increase|raise note=to increase: upped the price
 update        verb prep=on|with
 upgrade       verb
 uphold        verb prefix=up past=upheld pp=upheld

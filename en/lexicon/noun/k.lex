@@ -41,6 +41,7 @@ kick           noun
 kicker noun
 kickoff noun conf=90 note=also kick-off
 kid            noun
+kiddo noun pl=kiddos style=colloquial alt=child
 kidney         noun
 kielbasa noun
 kike noun style=offensive note=antisemitic slur

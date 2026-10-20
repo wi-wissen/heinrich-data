@@ -131,7 +131,7 @@ aloof adj cmp=more
 alphabetical adj adv=alphabetically
 alphanumeric adj
 alpine adj
-alright adj conf=80 note=informal spelling of all right
+alright adj style=colloquial alt=all_right conf=80 note=informal spelling of all right
 alternate adj adv=alternately
 alternative adj adv=alternatively
 alveolar adj

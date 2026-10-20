@@ -204,7 +204,7 @@ influence      noun prep=on|over|upon|with xprep=to?
 influencer noun
 influenza      noun pl=- note=uncountable
 influx         noun
-info noun pl=- style=colloquial note=information
+info noun pl=- style=colloquial alt=information note=information
 informant noun
 information    noun prep=on|about|regarding|concerning pl=- note=uncountable
 infraction noun

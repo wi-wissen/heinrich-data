@@ -6,6 +6,7 @@ hello          intj
 Herr x foreign note=German title Mr.
 hey            intj
 hi             intj
+hiya intj style=colloquial alt=hello
 HM             x abbr note=His/Her Majesty('s)
 HMS            x abbr note=His/Her Majesty's Ship
 ho intj

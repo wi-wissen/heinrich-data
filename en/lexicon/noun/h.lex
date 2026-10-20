@@ -63,6 +63,7 @@ handwriting    noun
 hangar noun
 hanger noun
 hanging noun
+hanky noun style=colloquial alt=handkerchief
 hansom noun
 haplogroup noun
 happening noun
@@ -359,7 +360,7 @@ hospice        noun
 hospital       noun
 hospitality    noun pl=- note=uncountable
 hospitalization noun gb=hospitalisation|hospitalization
-hoss noun style=colloquial note=dialect for horse
+hoss noun style=colloquial alt=horse note=dialect for horse
 host           noun
 hostage        noun
 hostel noun
@@ -395,7 +396,7 @@ HTTP noun abbr pl=- note=Hypertext Transfer Protocol
 HTTPS noun abbr pl=- note=HTTP over a secure connection
 hub            noun
 hubbub noun
-hubby noun style=colloquial
+hubby noun style=colloquial alt=husband
 huckleberry noun
 hue            noun
 huff noun

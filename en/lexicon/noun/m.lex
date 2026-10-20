@@ -1,5 +1,5 @@
 MA             noun abbr note=Master of Arts; also Massachusetts
-ma             noun style=colloquial note=mother
+ma             noun style=colloquial alt=mother note=mother
 ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
 macadamia noun
@@ -215,7 +215,7 @@ maturity       noun
 maul noun
 mausoleum noun pl=mausoleums|mausolea
 maverick noun
-max noun style=colloquial note=to the max; short for maximum
+max noun style=colloquial alt=maximum note=to the max; short for maximum
 maxim noun
 maximum        noun pl=maxima|maximums
 mayo noun pl=- note=uncountable; short for mayonnaise
@@ -371,7 +371,7 @@ midwife noun pl=midwives
 mien noun
 migrant        noun
 migration      noun
-mike noun style=colloquial note=short for microphone
+mike noun style=colloquial alt=microphone note=short for microphone
 mil noun conf=90 note=thousandth of an inch; colloquially a million
 mile           noun
 mileage noun
@@ -448,7 +448,7 @@ miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
-missus noun style=colloquial
+missus noun style=colloquial alt=wife|Mrs
 missy noun style=colloquial
 mist           noun
 mistake        noun vb=make xvb=do
@@ -467,7 +467,7 @@ mix            noun
 mixer noun
 mixtape noun
 mixture        noun
-mo noun style=colloquial conf=90 note=moment (half a mo)
+mo noun style=colloquial alt=moment conf=90 note=moment (half a mo)
 moan noun
 moat noun
 mob            noun
@@ -479,7 +479,7 @@ moccasin noun
 mocha noun
 mochi noun pl=- note=uncountable
 mockery noun
-mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
+mod noun note=modification (games, vehicles); also 1960s British subculture
 modal noun
 modality noun
 mode           noun
@@ -510,7 +510,7 @@ mollusk noun gb=mollusc
 mom            noun region=US note=British mum
 moment         noun
 momentum       noun pl=momenta note=plural mainly in physics
-mommy noun region=US note=British mummy
+mommy noun region=US style=colloquial alt=mother note=British mummy
 monarch        noun pl=monarchs
 monarchy       noun
 monastery      noun

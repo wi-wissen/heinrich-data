@@ -40,7 +40,7 @@ telephone verb xprep=to?
 televise verb
 telework verb
 tell verb comp=obj_to|obj_that|that|wh past=told pp=told
-temp verb style=colloquial note=to work as a temporary employee
+temp verb style=colloquial alt=work_temporarily note=to work as a temporary employee
 temper verb
 tempt verb comp=obj_to prep=into
 tend verb comp=to prep=to|toward|towards

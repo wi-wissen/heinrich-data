@@ -150,7 +150,7 @@ misty adj cmp=er
 mitochondrial adj
 mobile        adj
 mock          adj attr_only
-mod adj style=colloquial note=1960s fashion
+mod adj note=1960s fashion
 modal adj
 moderate      adj adv=moderately
 modern        adj cmp=more

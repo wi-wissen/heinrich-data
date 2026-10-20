@@ -252,6 +252,7 @@ congregate verb
 conjecture verb
 conjugate verb
 conjure verb
+conk verb style=colloquial note=conk out: break down, fail (engine phrase table)
 connect verb prep=with|to
 connote verb
 conquer verb
@@ -394,7 +395,7 @@ curtsey verb
 curtsy verb
 curve verb
 cushion verb
-cuss verb style=colloquial
+cuss verb style=colloquial alt=curse|swear
 customize verb gb=customise|customize
 cut verb past=cut pp=cut
 cycle verb

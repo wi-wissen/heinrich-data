@@ -22,6 +22,7 @@ baptize verb gb=baptise|baptize
 bar verb
 barbecue verb
 bare verb
+barf verb style=colloquial alt=vomit
 bargain verb prep=for|with|over|on
 barge verb
 bark verb
@@ -88,6 +89,7 @@ bisect verb
 bitch verb style=colloquial
 bite verb past=bit pp=bitten
 bivouac verb past=bivouacked pp=bivouacked ing=bivouacking
+blab verb style=colloquial alt=reveal|chatter
 black verb
 blacken verb
 blacklist verb

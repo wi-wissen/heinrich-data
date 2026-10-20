@@ -5,7 +5,7 @@ gag noun
 gaiety noun
 gain           noun vb=make
 gait noun
-gal noun style=colloquial
+gal noun style=colloquial alt=woman|girl
 gala noun
 galangal noun pl=- note=uncountable
 galaxy         noun
@@ -144,7 +144,7 @@ girdle noun
 girl           noun
 girlfriend     noun
 girlhood noun
-git noun style=colloquial region=GB
+git noun region=GB
 giver noun
 glaciation noun
 glacier noun
@@ -247,8 +247,8 @@ graft noun
 grain          noun
 gram noun gb=gramme|gram
 grammar        noun
-gramps noun style=colloquial pl=- note=grandfather
-gran noun style=colloquial
+gramps noun style=colloquial alt=grandfather pl=- note=grandfather
+gran noun style=colloquial alt=grandmother
 granary noun
 grand          noun
 grandad noun note=spelling variant of granddad, common in British English
@@ -257,18 +257,18 @@ granddad noun
 granddaughter  noun
 grandeur       noun pl=- note=uncountable
 grandfather    noun
-grandkid noun style=colloquial
-grandma noun
+grandkid noun style=colloquial alt=grandchild
+grandma noun style=colloquial alt=grandmother
 grandmaster noun
 grandmother    noun
-grandpa noun
+grandpa noun style=colloquial alt=grandfather
 grandparent    noun
 grandson       noun
 grandstand noun
 grange         noun
 granita noun
 granite        noun
-granny noun
+granny noun style=colloquial alt=grandmother
 granola noun pl=- note=uncountable
 grant          noun
 grantee        noun

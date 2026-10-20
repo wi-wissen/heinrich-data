@@ -68,7 +68,7 @@ hobble verb
 hoist verb
 hold           verb past=held pp=held
 holiday        verb
-holler verb style=colloquial
+holler verb style=colloquial alt=shout
 hollow verb
 home           verb
 honeycomb verb

@@ -150,7 +150,7 @@ frantic adj cmp=more adv=frantically
 fraternal adj adv=fraternally
 fraudulent     adj adv=fraudulently
 fraught adj cmp=more
-freaky adj cmp=er style=colloquial
+freaky adj cmp=er style=colloquial alt=strange|frightening
 freckled adj
 free           adj comp=to prep=of|from|for|with cmp=er adv=freely
 freeborn adj
