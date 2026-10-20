@@ -44,7 +44,7 @@ acute adj cmp=er|more adv=acutely
 adamant adj adv=adamantly
 adaptable adj cmp=more
 adaptive adj
-addicted adj comp=p_ing prep=to xprep=from?|on
+addicted adj comp=p_ing prep=to xprep=from|on
 addictive adj cmp=more
 additional adj adv=additionally
 adept adj comp=p_ing prep=at|in|with cmp=more adv=adeptly
@@ -88,7 +88,7 @@ afloat adj pred_only
 afoot adj pred_only
 aforementioned adj attr_only
 aforesaid adj
-afraid adj comp=to|that|p_ing prep=of|for xprep=from?|before? pred_only cmp=more
+afraid adj comp=to|that|p_ing prep=of|for xprep=from|before? pred_only cmp=more
 African adj
 aggregate adj
 aggressive adj prep=towards|toward|to|with|in cmp=more adv=aggressively

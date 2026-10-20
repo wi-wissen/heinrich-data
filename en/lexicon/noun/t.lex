@@ -564,7 +564,7 @@ trust noun prep=in
 trustee noun
 trusteeship noun
 trustworthiness noun pl=- note=uncountable
-truth noun vb=tell|know|speak|find xvb=say?
+truth noun vb=tell|know|speak|find xvb=say
 truthfulness noun pl=- note=uncountable
 try noun
 tsar noun note=czar is a separate entry

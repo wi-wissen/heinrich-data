@@ -214,7 +214,7 @@ license       noun gb=licence
 licensee      noun
 licensure noun pl=- note=uncountable
 lid           noun
-lie           noun vb=tell xvb=say?
+lie           noun vb=tell xvb=say
 lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun

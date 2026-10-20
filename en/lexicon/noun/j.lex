@@ -57,7 +57,7 @@ jockey noun
 joey noun note=young kangaroo
 joint          noun
 joist noun
-joke           noun vb=tell|make|crack xvb=say?
+joke           noun vb=tell|make|crack xvb=say
 joker noun
 jotter noun region=GB
 journal        noun

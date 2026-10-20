@@ -22,7 +22,7 @@ radical noun
 radicalism noun pl=- note=uncountable
 radicalization noun gb=radicalisation|radicalization
 radicchio noun pl=- note=uncountable
-radio noun vb=turn_on|turn_off|switch_on|switch_off xvb=open>turn_on?|close>turn_off pl=radios
+radio noun vb=turn_on|turn_off|switch_on|switch_off xvb=open>turn_on|close>turn_off pl=radios
 radiocarbon noun pl=- note=uncountable
 radioisotope noun
 radiopharmaceutical noun

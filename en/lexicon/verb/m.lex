@@ -23,7 +23,7 @@ marginalize verb gb=marginalise|marginalize
 marinate verb
 mark          verb
 market        verb
-marry         verb xprep=with?
+marry         verb xprep=with
 marshal       verb
 martyr        verb
 marvel        verb comp=that|wh prep=at|over

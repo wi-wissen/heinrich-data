@@ -89,7 +89,7 @@ denounce verb
 dent verb
 deny verb comp=ing|that
 depart verb
-depend verb prep=on|upon xprep=of|from?
+depend verb prep=on|upon xprep=of|from
 depict verb comp=obj_ing|wh
 deplete verb
 deplore verb comp=ing|obj_ing|that
