@@ -754,7 +754,7 @@ essorage       noun g=m
 essoreuse      noun g=f
 essoufflement  noun g=m
 essuie-glace   noun g=m pl=essuie-glaces
-essuie-mains   noun g=m pl=essuie-mains note=1990 spelling singular essuie-main not generated (rect= would also rewrite the plural)
+essuie-mains   noun g=m rect=essuie-main rect_pl=essuie-mains
 essuie-tout    noun g=m pl=essuie-tout
 essuyage       noun g=m
 estacade       noun g=f

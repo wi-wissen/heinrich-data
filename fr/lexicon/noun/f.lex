@@ -565,7 +565,7 @@ frontispice    noun g=m
 fronton        noun g=m
 frottement     noun g=m
 frottis        noun g=m
-frou-frou      noun g=m pl=frous-frous conf=85 note=1990 spelling froufrou
+frou-frou      noun g=m pl=frous-frous rect=froufrou rect_pl=froufrous conf=85
 frousse        noun g=f style=colloquial alt=peur
 fructidor      noun g=m note=month of the republican calendar
 fructification noun g=f

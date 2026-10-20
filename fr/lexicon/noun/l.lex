@@ -74,12 +74,12 @@ lampiste       noun g=m|f
 lampisterie    noun g=f
 lamproie       noun g=f
 lance          noun g=f
-lance-flammes  noun g=m rect=lance-flamme pl=lance-flammes[trad]|lance-flammes[rect]
-lance-grenades noun g=m rect=lance-grenade pl=lance-grenades[trad]|lance-grenades[rect]
-lance-missiles noun g=m rect=lance-missile pl=lance-missiles[trad]|lance-missiles[rect]
-lance-pierres  noun g=m rect=lance-pierre pl=lance-pierres[trad]|lance-pierres[rect]
-lance-roquettes noun g=m rect=lance-roquette pl=lance-roquettes[trad]|lance-roquettes[rect]
-lance-torpilles noun g=m rect=lance-torpille pl=lance-torpilles[trad]|lance-torpilles[rect]
+lance-flammes  noun g=m rect=lance-flamme rect_pl=lance-flammes
+lance-grenades noun g=m rect=lance-grenade rect_pl=lance-grenades
+lance-missiles noun g=m rect=lance-missile rect_pl=lance-missiles
+lance-pierres  noun g=m rect=lance-pierre rect_pl=lance-pierres
+lance-roquettes noun g=m rect=lance-roquette rect_pl=lance-roquettes
+lance-torpilles noun g=m rect=lance-torpille rect_pl=lance-torpilles
 lancée         noun g=f note=sur sa lancée
 lancement      noun g=m
 lancer         noun g=m
@@ -304,7 +304,7 @@ lierre         noun g=m
 liesse         noun g=f
 lieu           noun g=m sense=place
 lieu           noun g=m sense=fish pl=lieus
-lieu-dit       noun g=m pl=lieux-dits
+lieu-dit       noun g=m pl=lieux-dits rect=lieudit rect_pl=lieudits
 lieue          noun g=f
 lieutenance    noun g=f
 lieutenant     noun g=m f=lieutenante conf=85 note=feminine increasingly used, le lieutenant also for women
@@ -430,7 +430,7 @@ locataire      noun g=m|f
 location       noun g=f
 location-vente noun g=f pl=locations-ventes
 loch           noun g=m
-lock-out       noun g=m rect=lockout pl=lock-out[trad]|lockouts[rect] conf=85
+lock-out       noun g=m pl=lock-out rect=lockout rect_pl=lockouts conf=85
 locomotion     noun g=f
 locomotive     noun g=f
 locotracteur   noun g=m

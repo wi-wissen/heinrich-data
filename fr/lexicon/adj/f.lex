@@ -150,7 +150,7 @@ fracassant     adj
 fractal        adj pl=fractals
 fragile        adj
 fragmentaire   adj
-frais          adj f=fraîche[trad]|fraiche[rect] note=adverb fraîchement not generated: adv= gives no 1990 variant fraichement
+frais          adj f=fraîche[trad]|fraiche[rect] adv=fraîchement
 franc          adj f=franche adv=franchement note=frank; the Frankish sense (franque) is not covered
 franc-comtois  adj f=franc-comtoise fpl=franc-comtoises conf=85
 français       adj
