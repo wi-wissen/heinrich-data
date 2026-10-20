@@ -1,13 +1,18 @@
 # French lexicon, verb, letter e (clean-room, own knowledge)
+ébahir         verb class=ir
 ébarber        verb
 ébattre        verb class=battre pronominal
 ébaucher       verb
 ébavurer       verb
 éblouir        verb class=ir
+éborgner       verb
 ébouillanter   verb
+ébourgeonner   verb
 ébouriffer     verb
+ébrancher      verb
 ébranler       verb
 ébrécher       verb
+ébrouer        verb pronominal
 ébruiter       verb
 écailler       verb
 écaler         verb
@@ -17,11 +22,13 @@
 échafauder     verb
 échancrer      verb
 échanger       verb
+échantillonner verb
 échapper       verb
 échauder       verb
 échauffer      verb
 échelonner     verb
 échouer        verb
+écimer         verb
 éclabousser    verb
 éclaircir      verb class=ir
 éclairer       verb
@@ -31,25 +38,31 @@
 écœurer        verb
 éconduire      verb class=conduire
 économiser     verb
+écoper         verb
+écorcer        verb
 écorcher       verb
 écorner        verb
 écosser        verb
 écouler        verb
 écourter       verb
 écouter        verb
+écrabouiller   verb style=colloquial alt=écraser
 écraser        verb
 écrémer        verb
 écrier         verb pronominal
 écrire         verb class=écrire
 écrouer        verb
+écrouir        verb class=ir
 écrouler       verb pronominal
 écumer         verb
 édenter        verb
 édicter        verb
 édifier        verb
 éditer         verb
+édulcorer      verb
 éduquer        verb
 effacer        verb
+effarer        verb
 effaroucher    verb
 effectuer      verb
 effeuiller     verb
@@ -75,7 +88,10 @@ effriter       verb
 élancer        verb
 élargir        verb class=ir
 électrifier    verb
+électriser     verb
+électrocuter   verb
 élever         verb
+élimer         verb
 éliminer       verb
 élire          verb class=lire
 éloigner       verb
@@ -84,6 +100,8 @@ effriter       verb
 émailler       verb
 émanciper      verb
 émaner         verb pp_inv
+émarger        verb
+émasculer      verb
 emballer       verb
 embarquer      verb
 embarrasser    verb
@@ -91,11 +109,17 @@ embaucher      verb
 embaumer       verb
 embellir       verb class=ir
 embêter        verb style=colloquial alt=ennuyer|importuner
+embobiner      verb style=colloquial alt=duper|tromper
 emboîter       verb rect=emboiter
+embourber      verb
+emboutir       verb class=ir
 embraser       verb
 embrasser      verb
 embrayer       verb
+embrigader     verb
 embrouiller    verb
+embrumer       verb
+embuer         verb
 embusquer      verb
 émerger        verb pp_inv
 émerveiller    verb
@@ -104,21 +128,28 @@ embusquer      verb
 émigrer        verb
 émincer        verb
 emmagasiner    verb
+emmailloter    verb
 emmêler        verb
 emménager      verb
 emmener        verb
+emmerder       verb style=vulgar alt=ennuyer|importuner
+emmitoufler    verb
+emmurer        verb
 émonder        verb
 émousser       verb
 émoustiller    verb
 émouvoir       verb class=mouvoir
 empailler      verb
 empaler        verb
+empaqueter     verb class=double_trad
 emparer        verb pronominal
 empâter        verb
 empêcher       verb
 empester       verb
 empêtrer       verb
+empierrer      verb
 empiéter       verb pp_inv
+empiffrer      verb pronominal style=colloquial alt=se_gaver
 empiler        verb
 empirer        verb
 emplir         verb class=ir
@@ -129,32 +160,40 @@ empoisonner    verb
 emporter       verb
 empoter        verb
 empourprer     verb
+empoussiérer   verb
 empresser      verb pronominal
 emprisonner    verb
 emprunter      verb
+émuler         verb
 émulsionner    verb
 encadrer       verb
 encaisser      verb
 encanailler    verb
 encapsuler     verb
 encastrer      verb
+encaustiquer   verb
 encenser       verb
 encercler      verb
 enchaîner      verb rect=enchainer
 enchanter      verb
 enchâsser      verb
+enchérir       verb class=ir
 enchevêtrer    verb
 enclaver       verb
 enclencher     verb
+encoder        verb
+encoller       verb
 encombrer      verb
 encorner       verb
 encourager     verb
 encourir       verb class=courir
 encrasser      verb
+encrer         verb
 endetter       verb
 endeuiller     verb
 endiguer       verb
 endimancher    verb
+endoctriner    verb
 endolorir      verb class=ir
 endommager     verb
 endormir       verb class=partir
@@ -181,6 +220,7 @@ engager        verb
 engendrer      verb
 englober       verb
 engloutir      verb class=ir
+engluer        verb
 engoncer       verb
 engorger       verb
 engouffrer     verb
@@ -201,6 +241,7 @@ enlaidir       verb class=ir
 enlever        verb
 enliser        verb
 enluminer      verb
+enneiger       verb
 ennoblir       verb class=ir
 ennuager       verb
 ennuyer        verb
@@ -217,7 +258,9 @@ enrhumer       verb
 enrichir       verb class=ir
 enrober        verb
 enrôler        verb
+enrouer        verb
 enrouler       verb
+enrubanner     verb
 ensabler       verb
 ensacher       verb
 ensanglanter   verb
@@ -225,6 +268,7 @@ enseigner      verb
 ensemencer     verb
 enserrer       verb
 ensevelir      verb class=ir
+ensiler        verb
 ensoleiller    verb
 ensorceler     verb class=double_trad
 ensuivre       verb class=suivre pronominal note=mostly 3rd person: il s'ensuit
@@ -336,6 +380,7 @@ essorer        verb
 essoucher      verb
 essouffler     verb
 essuyer        verb
+estamper       verb
 estampiller    verb
 estimer        verb
 estomaquer     verb
@@ -452,4 +497,5 @@ extrader       verb
 extraire       verb class=traire
 extrapoler     verb
 extravaguer    verb pp_inv
+extruder       verb
 exulter        verb pp_inv

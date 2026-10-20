@@ -6,7 +6,10 @@
 ecclésial      adj
 ecclésiastique adj
 écervelé       adj
+échangeable    adj
 échevelé       adj
+échographique  adj
+éclair         adj inv note=visite éclair, guerre éclair
 éclairant      adj
 éclatant       adj
 éclectique     adj
@@ -18,12 +21,14 @@ ecclésiastique adj
 écossais       adj
 écosystémique  adj
 écrasant       adj
+écru           adj
 écumant        adj
 écumeux        adj
 édenté         adj
 édifiant       adj
 éditorial      adj
 éducatif       adj
+effaçable      adj
 effarant       adj
 effaré         adj
 effectif       adj adv=effectivement
@@ -41,7 +46,7 @@ effroyable     adj adv=effroyablement
 égalisateur    adj f=égalisatrice
 égalitaire     adj
 égocentrique   adj
-égoïste        adj
+égoïste        adj adv=égoïstement
 égrillard      adj
 égyptien       adj
 éhonté         adj
@@ -50,6 +55,7 @@ effroyable     adj adv=effroyablement
 électoral      adj
 électoraliste  adj
 électrique     adj adv=électriquement
+électrisant    adj
 électrochimique adj
 électrogène    adj
 électrolytique adj
@@ -65,11 +71,13 @@ effroyable     adj adv=effroyablement
 elfique        adj
 éligible       adj
 éliminatoire   adj
+élisabéthain   adj
 élitiste       adj
 elliptique     adj
 élogieux       adj
 éloquent       adj adv=éloquemment
 émancipateur   adj f=émancipatrice
+embarrassant   adj
 emblématique   adj
 embryonnaire   adj
 éméché         adj style=colloquial alt=ivre|gris
@@ -82,13 +90,18 @@ embryonnaire   adj
 émotif         adj
 émotionnel     adj adv=émotionnellement
 émouvant       adj
+empathique     adj
 emphatique     adj
 emphytéotique  adj
+empilable      adj
 empirique      adj adv=empiriquement
+employable     adj
 empreint       adj
 empressé       adj
+encaissable    adj
 encastrable    adj
 enceinte       adj f=enceinte conf=90 note=used in the feminine only (femme enceinte); masculine cells are not real
+encéphalique   adj
 enchanteur     adj f=enchanteresse
 enclin         adj
 encombrant     adj
@@ -96,12 +109,15 @@ encourageant   adj
 encyclopédique adj
 endémique      adj
 endiablé       adj
+endocrine      adj
 endocrinien    adj
 endogène       adj
 endolori       adj
 endoplasmique  adj
 endormant      adj
-énergétique    adj
+endoscopique   adj
+endurant       adj
+énergétique    adj adv=énergétiquement
 énergique      adj adv=énergiquement
 énergisant     adj
 énergivore     adj
@@ -109,7 +125,7 @@ endormant      adj
 enfantin       adj
 engageant      adj
 énième         adj
-énigmatique    adj
+énigmatique    adj adv=énigmatiquement
 enivrant       adj
 enjôleur       adj f=enjôleuse
 enjoué         adj
@@ -117,9 +133,11 @@ ennemi         adj
 ennuyeux       adj
 énorme         adj adv=énormément
 enragé         adj
+enregistrable  adj
 enrichissant   adj
 enroué         adj
 ensoleillé     adj
+ensorcelant    adj
 entêtant       adj
 entêté         adj
 enthousiasmant adj
@@ -127,6 +145,7 @@ enthousiaste   adj
 entier         adj adv=entièrement
 entomologique  adj
 entraînant     adj rect=entrainant
+entreprenant   adj
 entrepreneurial adj
 envahissant    adj
 enveloppant    adj
@@ -135,9 +154,11 @@ envieux        adj
 environnant    adj
 environnemental adj
 envisageable   adj
+envoûtant      adj rect=envoutant
 enzymatique    adj
 éolien         adj
 épais          adj f=épaisse
+épanouissant   adj
 épars          adj
 épatant        adj style=colloquial alt=excellent|formidable
 éperdu         adj adv=éperdument
@@ -165,6 +186,7 @@ enzymatique    adj
 épouvantable   adj adv=épouvantablement
 époxy          adj inv
 éprouvant      adj
+épuisant       adj
 équatorial     adj
 équatorien     adj
 équestre       adj
@@ -190,7 +212,7 @@ esclavagiste   adj
 espagnol       adj
 espiègle       adj
 essentiel      adj adv=essentiellement
-esthétique     adj
+esthétique     adj adv=esthétiquement
 estimable      adj
 estimatif      adj
 estival        adj
@@ -198,11 +220,13 @@ estonien       adj
 estudiantin    adj
 étanche        adj
 étatique       adj
+étatiste       adj
+états-unien    adj
 éternel        adj adv=éternellement
 éthéré         adj
 éthiopien      adj
-éthique        adj
-ethnique       adj
+éthique        adj adv=éthiquement
+ethnique       adj adv=ethniquement
 ethnographique adj
 ethnologique   adj
 éthylique      adj
@@ -212,19 +236,25 @@ ethnologique   adj
 étonnant       adj adv=étonnamment
 étouffant      adj
 étourdi        adj adv=étourdiment
+étourdissant   adj
 étrange        adj adv=étrangement
 étranger       adj
 étriqué        adj
 étroit         adj adv=étroitement
 étrusque       adj
-étymologique   adj
+étudiant       adj
+étymologique   adj adv=étymologiquement
 eucaryote      adj
 eucharistique  adj
 euclidien      adj
+euphorique     adj
 eurasiatique   adj
+eurasien       adj
 européen       adj
 eurosceptique  adj
+évaluable      adj
 évaluatif      adj
+évanescent     adj
 évangélique    adj
 évasif         adj adv=évasivement
 événementiel   adj rect=évènementiel
@@ -235,6 +265,7 @@ eurosceptique  adj
 évolutif       adj
 évolutionniste adj
 exact          adj adv=exactement
+exaltant       adj
 exaspérant     adj
 excédentaire   adj
 excellent      adj adv=excellemment
@@ -244,18 +275,23 @@ exceptionnel   adj adv=exceptionnellement
 excessif       adj adv=excessivement
 excitant       adj
 exclusif       adj adv=exclusivement
+excréteur      adj f=excrétrice
 excusable      adj
 exécrable      adj
 exécutable     adj
 exécutif       adj
 exécutoire     adj
+exemplaire     adj
 exempt         adj
-exhaustif      adj
+exhaustif      adj adv=exhaustivement
+exhibitionniste adj
 exigeant       adj
 exigible       adj
 exigu          adj
 existant       adj
+existentialiste adj
 existentiel    adj
+exocrine       adj
 exogène        adj
 exorbitant     adj
 exotique       adj
@@ -275,14 +311,17 @@ exploratoire   adj
 explosible     adj
 explosif       adj
 exponentiel    adj adv=exponentiellement
+exportable     adj
 exprès         adj f=expresse adv=expressément
-expressif      adj
+expressif      adj adv=expressivement
 expressionniste adj
+exprimable     adj
 exquis         adj
 exsangue       adj
 extatique      adj
 extensible     adj
 extensif       adj
+exténuant      adj
 extérieur      adj f=extérieure adv=extérieurement
 exterminateur  adj f=exterminatrice
 externe        adj
@@ -298,6 +337,7 @@ extraparlementaire adj
 extrascolaire  adj
 extraterrestre adj
 extravagant    adj
+extraverti     adj
 extrême        adj adv=extrêmement
 extrémiste     adj
 exubérant      adj
