@@ -81,7 +81,6 @@ Altdorf	n	city
 Altena	n	city
 Altenburg	n	city
 Altiplano	m	region
-Altkönig	m	mountain
 Altmark	f	region
 Altmühl	f	river
 Altötting	n	city
@@ -167,7 +166,6 @@ Arosa	n	city
 Artland	n	region
 Aruba	f	island
 Aschaffenburg	n	city
-Aschgabat	n	city
 Ascona	n	city
 Aserbaidschan	n	country
 Asien	n	continent
@@ -256,7 +254,6 @@ Baselland	n	state
 Basilikata	f	region
 Baskenland	n	region
 Basra	n	city
-Basseterre	n	city
 Bath	n	city
 Batschka	f	region
 Baunach	f	river
@@ -267,8 +264,6 @@ Bayerwald	m	mountain
 Bayreuth	n	city
 Beckum	n	city
 Bedburg	n	city
-Beerberg	m	mountain
-Begawan	u	city
 Beijing	n	city
 Beirut	n	city
 Belarus	n	country
@@ -279,14 +274,12 @@ Belgien	n	country
 Belgrad	n	city
 Belize	n	country
 Bellinzona	n	city
-Belmopan	n	city
 Belo	u	city
 Belt	m	water
 Benares	n	city
 Bendorf	n	city
 Bengalen	n	region
 Bengaluru	n	city
-Benghasi	n	city
 Benin	n	country
 Bensheim	n	city
 Berchtesgaden	n	city
@@ -415,7 +408,6 @@ Bretten	n	city
 Bridgetown	n	city
 Brienzersee	m	water
 Brig	n	city
-Brigach	f	river
 Brighton	n	city
 Brilon	n	city
 Brindisi	n	city
@@ -521,11 +513,11 @@ Chile	n	country
 Chimborazo	m	mountain
 China	n	country
 Chisinau	n	city
-Chişinău	n	city
 Chongqing	n	city
 Christchurch	n	city
 Chur	n	city
 Cincinnati	n	city
+Clairvaux	n	city
 Clausthal	n	city
 Clausthal-Zellerfeld	n	city
 Clerf	n	city
@@ -574,7 +566,6 @@ Dachau	n	city
 Dachstein	m	mountain
 Dagestan	n	country
 Dagö	f	island
-Dahme	f	river
 Dakar	n	city
 Dakien	n	historic
 Dakota	u	state
@@ -609,7 +600,6 @@ Delphi	n	city
 Delsberg	n	city
 Demmin	n	city
 Denali	m	mountain
-Denpasar	n	city
 Denver	n	city
 Derry	n	city
 Dessau	n	city
@@ -672,7 +662,6 @@ Dosse	f	river
 Doubs	m	river
 Dover	n	city
 Drachenfels	m	mountain
-Drakensberge	u	region
 Drau	f	river
 Dreieich	n	city
 Dreisam	f	river
@@ -683,7 +672,6 @@ Drina	f	river
 Drolshagen	n	city
 Dschibuti	n	country
 Dschidda	n	city
-Dschuba	n	city
 Dubai	n	city
 Dübendorf	n	city
 Dublin	n	city
@@ -724,7 +712,6 @@ Ehingen	n	city
 Eichsfeld	n	region
 Eichstätt	n	city
 Eider	f	river
-Eidgenossenschaft	f	region
 Eifel	f	mountain
 Eiger	m	mountain
 Eilenburg	n	city
@@ -778,7 +765,6 @@ Ephesos	n	city
 Epirus	n	region
 Eppan	n	city
 Erbach	n	city
-Erbeskopf	m	mountain
 Erbil	n	city
 Erding	n	city
 Erft	f	river
@@ -915,6 +901,7 @@ Gallen	n	state
 Gallien	n	historic
 Galway	n	city
 Gambia	n	country
+Gandersheim	n	city
 Ganges	m	river
 Gänserndorf	n	city
 Garbsen	n	city
@@ -975,7 +962,6 @@ Glasgow	n	city
 Glauchau	n	city
 Gleisdorf	n	city
 Gleiwitz	n	city
-Glockner	m	mountain
 Glogau	n	city
 Glurns	n	city
 Gmünd	n	city
@@ -983,7 +969,6 @@ Gmunden	n	city
 Goa	n	state
 Gobi	f	region
 Goch	n	city
-Goitzschesee	m	water
 Golan	m	region
 Golfstrom	m	water
 Golgatha	m	mountain
@@ -993,7 +978,6 @@ Gomera	f	island
 Goms	n	region
 Göppingen	n	city
 Görlitz	n	city
-Gornergrat	m	mountain
 Goslar	n	city
 Gossau	n	city
 Göteborg	n	city
@@ -1051,14 +1035,13 @@ Gütersloh	n	city
 Guyana	n	country
 Győr	n	city
 Haag	n	city
-Haan	n	city
 Haardt	f	mountain
 Haarlem	n	city
 Habichtswald	m	region
 Habsburg	n	historic
 Hadeln	n	region
-Hafelekar	m	mountain
 Hagen	n	city
+Hagenau	n	city
 Hagenow	n	city
 Haifa	n	city
 Hainan	f	island
@@ -1090,7 +1073,6 @@ Harare	n	city
 Harbin	n	city
 Harsewinkel	n	city
 Hartberg	n	city
-Harvard	n	city
 Harz	m	mountain
 Harzburg	n	city
 Hase	f	river
@@ -1118,7 +1100,7 @@ Helgoland	n	island
 Helikon	m	mountain
 Hellas	n	historic
 Hellenthal	n	city
-Hellweg	m	river
+Hellweg	m	region
 Helmstedt	n	city
 Helsinki	n	city
 Helvetien	n	historic
@@ -1127,7 +1109,6 @@ Hemmingen	n	city
 Hennef	n	city
 Hennigsdorf	n	city
 Heppenheim	n	city
-Heraklion	n	city
 Herat	n	city
 Herborn	n	city
 Herbrechtingen	n	city
@@ -1146,11 +1127,9 @@ Herten	n	city
 Herzegowina	n	country
 Herzogenaurach	n	city
 Herzogenrath	n	city
-Herzogstand	m	mountain
 Hesselberg	m	mountain
 Hessen	n	state
 Hessen-Nassau	n	historic
-Hethiterreich	n	historic
 Heubach	n	city
 Hiddensee	n	island
 Hierro	f	island
@@ -1170,11 +1149,9 @@ Hispaniola	f	island
 Ho-Chi-Minh-Stadt	n	city
 Hobart	n	city
 Hochdorf	n	city
-Hochgrat	m	mountain
 Hochkönig	m	mountain
 Hochrhein	m	region
 Hochschwab	m	mountain
-Hochvogel	m	mountain
 Hochwald	m	mountain
 Hockenheim	n	city
 Hof	n	city
@@ -1186,11 +1163,9 @@ Hohenneuffen	m	mountain
 Hohenstaufen	m	mountain
 Hohentwiel	m	mountain
 Hohenzollern	m	mountain
-Hoherodskopf	m	mountain
 Hokkaido	n	island
 Hollabrunn	n	city
 Holland	n	country
-Holledau	f	region
 Hollywood	n	city
 Holstein	n	state
 Holtemme	f	river
@@ -1229,7 +1204,6 @@ Hürth	n	city
 Hüsten	n	city
 Husum	n	city
 Hvar	f	island
-Hwangho	m	river
 Hyderabad	n	city
 Iași	n	city
 Ibadan	n	city
@@ -1347,7 +1321,6 @@ Kahlenberg	m	mountain
 Kairo	n	city
 Kaiserslautern	n	city
 Kaiserstuhl	m	mountain
-Kakanien	n	historic
 Kalabrien	n	region
 Kalahari	f	region
 Kalifornien	n	region
@@ -1433,7 +1406,6 @@ Kielkanal	m	water
 Kierspe	n	city
 Kiew	n	city
 Kigali	n	city
-Kilauea	m	mountain
 Kilimandscharo	m	mountain
 Kilimanjaro	m	mountain
 Kingston	n	city
@@ -1446,8 +1418,6 @@ Kirgisistan	n	country
 Kiribati	n	country
 Kirkuk	n	city
 Kiruna	n	city
-Kisangani	n	city
-Kischinau	n	city
 Kissingen	n	city
 Kitts	u	country
 Kitzbühel	n	city
@@ -1463,7 +1433,6 @@ Klosterneuburg	n	city
 Kloten	n	city
 Knittelfeld	n	city
 Koblenz	n	city
-Kochelsee	m	water
 Kocher	m	river
 Kolkata	n	city
 Köln	n	city
@@ -1478,7 +1447,6 @@ Königswinter	n	city
 Köniz	n	city
 Konstantinopel	n	city
 Konstanz	n	city
-Konstanza	n	city
 Konya	n	city
 Kopenhagen	n	city
 Korallenmeer	n	water
@@ -1497,7 +1465,6 @@ Kos	n	island
 Košice	n	city
 Kosovo	m	country
 Köthen	n	city
-Kraich	f	river
 Kraichgau	m	region
 Krain	n	region
 Krakau	n	city
@@ -1517,11 +1484,11 @@ Kroatien	n	country
 Kronach	n	city
 Kronberg	n	city
 Kronstadt	n	city
-Krottenkopf	m	mountain
 Krumbach	n	city
 Kuala	u	city
 Kuba	n	country
 Kuban	m	region
+Kues	n	city
 Kufstein	n	city
 Kühlungsborn	n	city
 Kulmbach	n	city
@@ -1594,7 +1561,6 @@ Leeds	n	city
 Leibnitz	n	city
 Leicester	n	city
 Leichlingen	n	city
-Leifers	n	city
 Leimen	n	city
 Leine	f	river
 Leinfelden-Echterdingen	n	city
@@ -1738,7 +1704,6 @@ Mähren	n	historic
 Mailand	n	city
 Main	m	river
 Mainau	f	island
-Maine	n	state
 Mainz	n	city
 Makedonien	n	historic
 Malabo	n	city
@@ -1809,9 +1774,7 @@ Mauretanien	n	country
 Mauritius	n	country
 Mayen	n	city
 Mayrhofen	n	city
-Mazar-i-Sharif	n	city
 Mazedonien	n	country
-Mbabane	n	city
 McKinley	m	mountain
 Mechernich	n	city
 Meckenheim	n	city
@@ -1861,6 +1824,7 @@ Michigansee	m	water
 Midlands	u	region
 Miesbach	n	city
 Mikronesien	n	country
+Milet	n	historic
 Milseburg	m	mountain
 Miltenberg	n	city
 Milwaukee	n	city
@@ -1869,6 +1833,7 @@ Minden	n	city
 Minneapolis	n	city
 Minnesota	n	state
 Minsk	n	city
+Mirandola	n	city
 Misox	n	region
 Mississippi	m	river
 Missouri	m	river
@@ -1901,7 +1866,6 @@ Monheim	n	city
 Monrovia	n	city
 Mons	n	city
 Monschau	n	city
-Mont	u	mountain
 Montafon	n	mountain
 Montana	n	state
 Montblanc	m	mountain
@@ -1950,7 +1914,6 @@ Murcia	n	city
 Murg	f	river
 Muri	n	city
 Müritz	f	water
-Müritzsee	m	water
 Murmansk	n	city
 Murnau	n	city
 Mürren	n	city
@@ -1960,6 +1923,7 @@ Myanmar	n	country
 Mykene	n	city
 Mykolajiw	n	city
 Mykonos	f	island
+Myra	n	historic
 Naab	f	river
 Nachitschewan	n	region
 Nagasaki	n	city
@@ -1986,7 +1950,6 @@ Navarra	n	historic
 Naxos	n	island
 Naypyidaw	n	city
 Nazareth	n	city
-Ndjamena	n	city
 Neapel	n	city
 Nebo	m	mountain
 Nebraska	n	state
@@ -2073,7 +2036,6 @@ Nordpfalz	f	region
 Nordpolarmeer	n	water
 Nordrhein	n	state
 Nordrhein-Westfalen	n	state
-Nordschweiz	f	region
 Nordsee	f	water
 Nordstrand	f	island
 Nordtirol	n	state
@@ -2093,6 +2055,7 @@ Numidien	n	historic
 Nunavut	n	state
 Nürburg	m	mountain
 Nürnberg	n	city
+Nursia	n	historic
 Nürtingen	n	city
 Nuthe	f	river
 Nyon	n	city
@@ -2166,7 +2129,6 @@ Orleans	n	city
 Orléans	n	city
 Ortenau	f	region
 Ortler	m	mountain
-Örtze	f	river
 Osaka	n	city
 Ösel	f	island
 Oslo	n	city
@@ -2183,7 +2145,6 @@ Osterode	n	city
 Ostfildern	n	city
 Ostfranken	n	historic
 Ostfriesland	n	state
-Ostjordanland	n	region
 Ostpreußen	n	historic
 Ostrau	n	city
 Ostrava	n	city
@@ -2300,7 +2261,6 @@ Pittsburgh	n	city
 Pitztal	n	region
 Piz	u	mountain
 Pjöngjang	n	city
-Plansee	m	water
 Plattensee	m	water
 Plauen	n	city
 Pleiße	f	river
@@ -2323,7 +2283,6 @@ Pommern	n	region
 Pompeji	n	city
 Pongau	m	region
 Pontresina	n	city
-Popocatépetl	m	mountain
 Porrentruy	n	city
 Port-au-Prince	n	city
 Porta	n	city
@@ -2358,7 +2317,6 @@ Puebla	n	city
 Puerto	u	country
 Pula	n	city
 Pulheim	n	city
-Pulvermaar	m	water
 Pune	n	city
 Punjab	n	state
 Puschlav	n	region
@@ -2433,13 +2391,11 @@ Rheda-Wiedenbrück	n	city
 Rhede	n	city
 Rheiderland	n	region
 Rhein	m	river
-Rhein-Main-Donau-Kanal	m	water
 Rheinbach	n	city
 Rheinberg	n	city
 Rheine	n	city
 Rheinfelden	n	city
 Rheingau	m	region
-Rheingraben	m	region
 Rheinhessen	n	state
 Rheinland	n	state
 Rheinland-Pfalz	n	state
@@ -2460,7 +2416,6 @@ Rico	n	country
 Ried	n	city
 Riedlingen	n	city
 Riehen	n	city
-Rienz	f	river
 Riesa	n	city
 Riesengebirge	n	mountain
 Rietberg	n	city
@@ -2535,7 +2490,6 @@ Sacramento	n	city
 Sahara	f	region
 Sahel	m	region
 Saigon	n	city
-Saimaa	u	water
 Salamanca	n	city
 Salerno	n	city
 Salomonen	u	country
@@ -2610,7 +2564,6 @@ Schmallenberg	n	city
 Schneeberg	m	mountain
 Schneekopf	m	mountain
 Schneifel	f	mountain
-Schondra	f	river
 Schönebeck	n	city
 Schonen	n	region
 Schopfheim	n	city
@@ -2707,7 +2660,6 @@ Sizilien	n	region
 Skagerrak	m	water
 Skandinavien	n	region
 Skopje	n	city
-Skutarisee	m	water
 Skye	f	island
 Slawonien	n	region
 Slowakei	f	country
@@ -2754,10 +2706,8 @@ Stadthagen	n	city
 Staffelsee	m	water
 Stalingrad	n	city
 Stans	n	city
-Stanserhorn	m	mountain
 Starnberg	n	city
 Stavanger	n	city
-Stechlinsee	m	water
 Stecknitz	f	river
 Steffisburg	n	city
 Steiermark	f	state
@@ -2837,7 +2787,6 @@ Tarent	n	city
 Tartu	n	city
 Taschkent	n	city
 Tasmanien	n	island
-Tasmanmeer	n	water
 Tatarstan	n	country
 Tauber	f	river
 Tauberbischofsheim	n	city
@@ -2892,7 +2841,6 @@ Tilburg	n	city
 Timbuktu	n	city
 Timișoara	n	city
 Timor	f	island
-Timorsee	f	water
 Tirana	n	city
 Tirol	n	state
 Tirschenreuth	n	city
@@ -2974,10 +2922,8 @@ Uelzen	n	city
 Uganda	n	country
 Ukraine	f	country
 Ulaanbaatar	n	city
-Ulan-Bator	n	city
 Ulm	n	city
 Ulster	n	region
-Uluru	m	mountain
 Umbrien	n	region
 Ungarn	n	country
 Unna	n	city
@@ -3111,7 +3057,6 @@ Wartburg	m	mountain
 Warthe	f	river
 Washington	n	city
 Wassenberg	n	city
-Wasserburg	n	city
 Wasserkuppe	f	mountain
 Wattenmeer	n	water
 Wattwil	n	city
@@ -3124,7 +3069,6 @@ Weiden	n	city
 Weilburg	n	city
 Weilheim	n	city
 Weimar	n	city
-Weingarten	n	city
 Weinheim	n	city
 Weinstadt	n	city
 Weinviertel	n	region
@@ -3144,7 +3088,6 @@ Wendland	n	region
 Wendlingen	n	city
 Werbellinsee	m	water
 Werdau	n	city
-Werdenfels	u	region
 Werdohl	n	city
 Werl	n	city
 Wermelskirchen	n	city
@@ -3254,8 +3197,6 @@ Wyoming	n	state
 Xanten	n	city
 Xian	n	city
 Xinjiang	n	region
-Yale	n	city
-Yamoussoukro	n	city
 Yangon	n	city
 Yaoundé	n	city
 Ybbs	f	river

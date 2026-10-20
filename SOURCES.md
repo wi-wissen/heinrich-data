@@ -70,8 +70,8 @@ German grammar; they contain only lemmas of our lexicon.
 ## Name lists (`de/names/`)
 
 `given_names.tsv` (about 2,750 given names with gender m/f/u), `surnames.tsv` (about 2,500
-common surnames in Germany, Austria and Switzerland and about 2,200 names of persons of the school
-and general-education canon) and `places.tsv` (about 3,300 place names in their German form:
+common surnames in Germany, Austria and Switzerland and about 1,950 names of persons of the school
+and general-education canon) and `places.tsv` (about 3,250 place names in their German form:
 countries, states and cantons, cities, rivers, mountains, regions, islands, waters) are our own
 data, written clean-room from general knowledge of names in German-speaking schools and families,
 of the school canon (literature, philosophy, religion, music, art, science, history, politics)

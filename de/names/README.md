@@ -7,8 +7,8 @@ loads them as optional name lists (one `names` pack), default on.
 | file | content | columns |
 |---|---|---|
 | `given_names.tsv` | about 2,750 given names used in German-speaking schools: traditional and modern German names, names common in Turkish, Kurdish, Arabic, Persian, Albanian, Balkan, Slavic, Romance, Vietnamese and other migrant families; biblical, saints' and historical given names taught in religion and history (`Jesaja`, `Petrus`, `Theoderich`, `Nofretete`) | `name<TAB>gender` |
-| `surnames.tsv` | about 4,700 surnames: about 2,500 common surnames in Germany, Austria and Switzerland, including frequent names of migrant families (Turkish, Polish, Russian, South-Slavic, Albanian, Arabic, Vietnamese, Italian, Greek, ...), and about 2,200 names of persons of the school and general-education canon (see below) | `name<TAB>u` |
-| `places.tsv` | about 3,300 place names in their German form: continents, all countries (and historical states and regions often named in history lessons), German federal states, Austrian states, Swiss cantons, US states, Canadian provinces and other often named sub-national regions, about 900 cities and towns of Germany and ~250 of Austria, Switzerland, Luxembourg, Liechtenstein and South Tyrol, ~750 world cities (the capitals and large cities; with German exonyms: `Mailand`, `Breslau`, `Lüttich`), rivers, mountains and ranges, landscapes and regions, islands, seas and lakes | `name<TAB>gender<TAB>kind` |
+| `surnames.tsv` | about 4,450 surnames: about 2,500 common surnames in Germany, Austria and Switzerland, including frequent names of migrant families (Turkish, Polish, Russian, South-Slavic, Albanian, Arabic, Vietnamese, Italian, Greek, ...), and about 1,950 names of persons of the school and general-education canon (see below) | `name<TAB>u` |
+| `places.tsv` | about 3,250 place names in their German form: continents, all countries (and historical states and regions often named in history lessons), German federal states, Austrian states, Swiss cantons, US states, Canadian provinces and other often named sub-national regions, about 900 cities and towns of Germany and ~250 of Austria, Switzerland, Luxembourg, Liechtenstein and South Tyrol, ~750 world cities (the capitals and large cities; with German exonyms: `Mailand`, `Breslau`, `Lüttich`), rivers, mountains and ranges, landscapes and regions, islands, seas and lakes | `name<TAB>gender<TAB>kind` |
 
 Format rules (all files): UTF-8, LF line endings, tab separated, one name per line, sorted by
 name (accents folded), no header, no comment lines, each name once. `gender` is `m`, `f` or `u`
@@ -39,10 +39,14 @@ listed by the part that is not an ordinary word, usually the surname (`Goethe`, 
 `Locke`, `Wilde`; places `Leer`, `Lehrte`, `Giengen`, `Pfarrkirchen`, `Regen`) is not listed: the
 format cannot mark a name as "also a common word", and the lexicon already knows the form. Also
 left out: names one typical pupil error away from a frequent word (`Gluck`/`Glück`, `Loos`/`Los`,
-`Glass`/`Glas`, `Begin`/`Beginn`, `Kamp`/`Kampf`), names of one or two letters (`Li`, `Oz`, `Ur`),
+`Glass`/`Glas`, `Begin`/`Beginn`, `Kamp`/`Kampf`, `Grass`/`Gras`, `Brod`/`Brot`, `Schweitzer`/`Schweizer`), names of one or two letters (`Li`, `Oz`, `Ur`),
 English words (`Field`, `Cash`, `Truth`), adjectival parts of names (`Starnberger`, `Thüringer`,
 `Schwarzes`: demonyms and adjectives are not part of the format), acronyms (`DDR`), names with an
-apostrophe (`D'Annunzio`) and characters of works (no list kind for them).
+apostrophe (`D'Annunzio`), name particles (`Ibn`, `Saint`), deities, characters of works and
+legends (`Eulenspiegel`, `Tell`; they belong in the user or class dictionary), institutions
+(`Harvard`), and canon names without a single occurrence (also as genitive) in our frequency list
+`de/frequency/forms.tsv`. Places known from bynames (`Franz von Assisi`, `Benedikt von Nursia`)
+are in `places.tsv`, not in `surnames.tsv`.
 
 **Possible later extensions** (not planned now; owner decision 2026-10-20: the lists grow only
 selectively, and work titles and characters belong in the user or class dictionary):
