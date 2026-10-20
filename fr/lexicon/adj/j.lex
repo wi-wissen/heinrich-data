@@ -1,11 +1,17 @@
 # French lexicon, adj, letter j (clean-room, own knowledge)
 jaloux         adj f=jalouse adv=jalousement
+jamaïcain      adj
 japonais       adj
 jaunâtre       adj
 jaune          adj
+jetable        adj
 jeune          adj place=pre
+joignable      adj
 joli           adj place=pre adv=joliment
+jouable        adj
 journalier     adj
+journalistique adj
+jovial         adj pl=joviaux|jovials
 joyeux         adj adv=joyeusement
 judiciaire     adj adv=judiciairement
 judicieux      adj adv=judicieusement
