@@ -357,6 +357,7 @@ blocker noun
 blockhouse noun
 blog noun
 blogger noun
+bloke noun region=GB style=colloquial alt=man
 blond noun
 blonde noun
 blood noun
@@ -439,6 +440,7 @@ booster noun
 boot noun
 booth noun
 booty noun pl=- note=plunder; uncountable
+booze noun pl=- style=colloquial alt=alcohol note=uncountable
 border noun
 bore noun
 boredom noun pl=- note=uncountable
@@ -523,6 +525,7 @@ breech noun
 breed noun
 breeder noun
 breeze noun
+brekkie noun region=GB style=colloquial alt=breakfast
 Breton noun
 breviary noun
 brevity noun pl=- note=uncountable
@@ -562,6 +565,7 @@ broccoli noun pl=- note=uncountable
 brochure noun
 broker noun
 brokerage noun
+brolly noun region=GB style=colloquial alt=umbrella
 bromide noun
 bronze noun
 brooch noun
@@ -623,7 +627,7 @@ bullion noun pl=- note=uncountable
 bullock noun
 bully noun
 bulwark noun
-bum noun style=colloquial note=buttocks (British); a lazy person (American)
+bum noun style=colloquial alt=buttocks|tramp|idler note=buttocks (British); a lazy person (American)
 bumblebee noun
 bump noun
 bumper noun

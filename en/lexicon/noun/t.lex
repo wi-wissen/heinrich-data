@@ -117,6 +117,7 @@ television noun
 teleworking noun pl=- note=uncountable
 teller noun
 telltale noun
+telly noun region=GB style=colloquial alt=television
 temp noun style=colloquial alt=temporary_worker|temperature note=temporary worker; also short for temperature
 temper noun
 temperament noun
@@ -197,6 +198,7 @@ thickness noun
 thief noun pl=thieves
 thigh noun
 thing noun
+thingy noun style=colloquial alt=thing
 thinker noun
 third noun note=fraction (two thirds); the ordinal is a numeral
 thirst noun
@@ -534,7 +536,7 @@ tug noun
 tuition noun pl=- note=uncountable
 tulip noun
 tumbler noun
-tummy noun
+tummy noun style=colloquial alt=stomach
 tumor noun gb=tumour
 tumult noun
 tuna noun pl=tuna|tunas

@@ -5,7 +5,7 @@ naloxone noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
-nan noun region=GB style=colloquial note=grandmother; also naan bread
+nan noun region=GB note=grandmother; also naan bread
 nana noun style=colloquial alt=grandmother note=grandmother
 nap noun
 napkin noun
@@ -112,7 +112,7 @@ nightclub noun
 nightdress noun
 nightfall noun pl=- note=uncountable
 nightgown noun
-nightie noun
+nightie noun style=colloquial alt=nightdress
 nightingale noun
 nightlife noun pl=- note=uncountable
 nightmare noun
@@ -186,7 +186,7 @@ notion        noun
 notoriety noun pl=- note=uncountable
 noun          noun
 nourishment noun pl=- note=uncountable
-nous          noun pl=- region=GB style=colloquial note=common sense
+nous          noun pl=- region=GB note=common sense
 nova          noun pl=novae|novas
 novel         noun
 novelist      noun

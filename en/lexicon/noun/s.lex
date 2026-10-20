@@ -68,6 +68,7 @@ sapphire noun
 sarcasm noun
 sarcophagus noun pl=sarcophagi|sarcophaguses
 sardine noun
+sarnie noun region=GB style=colloquial alt=sandwich
 sash noun
 satchel noun
 satellite noun
@@ -222,7 +223,7 @@ season noun
 seat noun
 seawater noun pl=- note=uncountable
 seaweed noun
-sec noun note=informal short form of second
+sec noun style=colloquial alt=second|moment note=informal short form of second
 secession noun
 seclusion noun pl=- note=uncountable
 second noun note=unit of time; the ordinal is a numeral

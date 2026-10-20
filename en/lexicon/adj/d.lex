@@ -214,7 +214,7 @@ docile adj
 doctoral adj
 doctrinal adj adv=doctrinally
 documentary adj
-dodgy adj cmp=er region=GB
+dodgy adj cmp=er region=GB style=colloquial alt=dubious|unreliable
 dogged adj cmp=more adv=doggedly
 dogmatic adj
 doleful adj

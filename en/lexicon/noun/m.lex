@@ -199,7 +199,7 @@ maturity       noun
 maul noun
 mausoleum noun pl=mausoleums|mausolea
 maverick noun
-max noun style=colloquial note=to the max; short for maximum
+max noun style=colloquial alt=maximum note=to the max; short for maximum
 maxim noun
 maximum        noun pl=maxima|maximums
 mayonnaise noun pl=- note=uncountable
@@ -417,7 +417,7 @@ miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
-missus noun style=colloquial alt=wife
+missus noun style=colloquial alt=wife|Mrs
 missy noun style=colloquial
 mist           noun
 mistake        noun
@@ -446,7 +446,7 @@ mobilization noun gb=mobilisation|mobilization
 mobster noun
 moccasin noun
 mockery noun
-mod noun style=colloquial note=modification (games, vehicles); also 1960s British subculture
+mod noun note=modification (games, vehicles); also 1960s British subculture
 modal noun
 modality noun
 mode           noun
@@ -475,7 +475,7 @@ mollusk noun gb=mollusc
 mom            noun region=US note=British mum
 moment         noun
 momentum       noun pl=momenta note=plural mainly in physics
-mommy noun region=US note=British mummy
+mommy noun region=US style=colloquial alt=mother note=British mummy
 monarch        noun pl=monarchs
 monarchy       noun
 monastery      noun

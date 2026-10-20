@@ -11,6 +11,7 @@ ideological    adj adv=ideologically
 idiotic adj cmp=more adv=idiotically
 idle           adj cmp=er adv=idly
 idyllic adj adv=idyllically
+iffy adj cmp=er style=colloquial alt=doubtful|uncertain
 igneous adj
 ignoble adj
 ignominious adj adv=ignominiously

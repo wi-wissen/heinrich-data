@@ -46,6 +46,7 @@ gnaw verb
 go             verb 3sg=goes past=went pp=gone
 goad verb
 gobble verb
+goof verb style=colloquial alt=blunder
 google verb
 gore verb
 gorge          verb
@@ -71,6 +72,7 @@ grimace verb
 grin           verb
 grind          verb past=ground pp=ground
 grip           verb
+gripe verb style=colloquial alt=complain
 grit verb
 groan          verb
 groom verb

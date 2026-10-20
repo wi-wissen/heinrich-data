@@ -56,6 +56,7 @@ handwriting    noun
 hangar noun
 hanger noun
 hanging noun
+hanky noun style=colloquial alt=handkerchief
 hansom noun
 haplogroup noun
 happening noun

@@ -443,6 +443,7 @@ château noun pl=châteaux|châteaus
 cider noun
 cigar noun
 cigarette noun
+ciggie noun style=colloquial alt=cigarette
 cilium noun pl=cilia
 cinema noun
 cinematographer noun
@@ -966,7 +967,7 @@ coolant noun
 cooler noun
 coolie noun style=offensive note=derogatory term for Asian labourers
 coolness noun pl=- note=uncountable
-coon noun sense=raccoon style=colloquial note=short for raccoon
+coon noun sense=raccoon style=colloquial alt=raccoon note=short for raccoon
 coon noun sense=slur style=offensive note=racial slur
 cooper noun
 cooperation noun gb=cooperation|co-operation
@@ -1122,6 +1123,7 @@ cranberry noun
 crane noun
 crank noun
 crankshaft noun
+crap noun pl=- style=colloquial|offensive alt=nonsense|rubbish note=vulgar
 crape noun conf=90 note=older spelling of crepe, the fabric
 crash noun
 crate noun
@@ -1247,6 +1249,7 @@ cupboard noun
 cupcake noun
 cupidity noun pl=- note=uncountable
 cupola noun
+cuppa noun region=GB style=colloquial alt=cup_of_tea
 cur noun
 curate noun
 curator noun
@@ -1272,7 +1275,7 @@ curvature noun
 curve noun
 cushion noun
 cusp noun
-cuss noun style=colloquial alt=curse
+cuss noun style=colloquial alt=curse|fellow
 custard noun
 custodian noun
 custody noun pl=- note=uncountable

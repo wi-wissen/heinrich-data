@@ -100,6 +100,7 @@ feint noun
 felicity noun
 feline noun
 fell           noun note=hill in northern England
+fella noun style=colloquial alt=man|fellow
 feller noun note=one who fells trees; also dialect spelling of fellow
 fellow         noun
 fellowship     noun
@@ -425,6 +426,7 @@ fraudster noun
 fray noun
 freak noun
 freckle noun
+freebie noun style=colloquial alt=free_gift
 freedman noun pl=freedmen
 freedom        noun
 freehold       noun

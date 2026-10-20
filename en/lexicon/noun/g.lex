@@ -132,7 +132,7 @@ girdle noun
 girl           noun
 girlfriend     noun
 girlhood noun
-git noun style=colloquial region=GB
+git noun region=GB
 giver noun
 glaciation noun
 glacier noun
@@ -237,16 +237,16 @@ granddaughter  noun
 grandeur       noun pl=- note=uncountable
 grandfather    noun
 grandkid noun style=colloquial alt=grandchild
-grandma noun
+grandma noun style=colloquial alt=grandmother
 grandmaster noun
 grandmother    noun
-grandpa noun
+grandpa noun style=colloquial alt=grandfather
 grandparent    noun
 grandson       noun
 grandstand noun
 grange         noun
 granite        noun
-granny noun
+granny noun style=colloquial alt=grandmother
 grant          noun
 grantee        noun
 grantor noun

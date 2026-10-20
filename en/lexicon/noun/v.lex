@@ -54,6 +54,7 @@ vegan noun
 vegetable     noun
 vegetarian noun
 vegetation    noun pl=- note=uncountable
+veggie noun style=colloquial alt=vegetarian|vegetable
 vehemence noun pl=- note=uncountable
 vehicle       noun
 veil          noun

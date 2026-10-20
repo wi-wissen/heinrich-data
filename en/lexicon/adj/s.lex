@@ -177,6 +177,7 @@ skeptical adj cmp=more gb=sceptical adv=skeptically
 skilled adj
 skillful adj cmp=more gb=skilful adv=skillfully
 skinny adj cmp=er
+skint adj region=GB style=colloquial alt=penniless
 slack adj cmp=er adv=slackly
 Slavic adj
 sleek adj cmp=er
@@ -421,6 +422,7 @@ suspicious adj cmp=more adv=suspiciously
 sustainable adj adv=sustainably
 sutural adj
 swampy adj cmp=er
+swanky adj cmp=er style=colloquial alt=luxurious|elegant
 swarthy adj cmp=er
 sweaty adj cmp=er
 Swedish adj

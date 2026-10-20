@@ -130,7 +130,7 @@ leeward noun pl=- note=uncountable
 left          noun
 leftist noun
 leftover noun
-lefty noun style=colloquial
+lefty noun style=colloquial alt=left-hander|left-winger
 leg           noun
 legacy        noun
 legality noun

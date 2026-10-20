@@ -246,6 +246,7 @@ snicker verb
 sniff verb
 sniffle verb
 snigger verb region=GB
+snog verb region=GB style=colloquial alt=kiss
 snooze verb
 snore verb
 snorkel verb

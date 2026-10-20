@@ -10,7 +10,7 @@ gated adj
 gaudy adj cmp=er
 gaunt adj cmp=er
 gay            adj cmp=er
-geeky adj cmp=er
+geeky adj cmp=er style=colloquial
 genealogical adj
 general        adj adv=generally
 generational adj

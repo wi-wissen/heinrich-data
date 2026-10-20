@@ -244,7 +244,7 @@ refund noun
 refurbishment noun
 refusal noun
 refuse noun pl=- note=rubbish
-reg noun style=colloquial alt=regulation note=short for regulation, mainly plural regs
+reg noun style=colloquial alt=regulation|registration note=short for regulation, mainly plural regs
 regard noun
 regency noun
 regeneration noun pl=- note=uncountable

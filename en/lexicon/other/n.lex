@@ -1,3 +1,4 @@
+nah intj style=colloquial alt=no
 nay           intj style=archaic
 NE            x abbr note=northeast
 nervosa x foreign note=only in anorexia nervosa

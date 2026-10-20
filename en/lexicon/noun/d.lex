@@ -1,6 +1,6 @@
 D-SNP noun abbr note=dual eligible special needs plan (US Medicare)
 dad noun
-daddy noun
+daddy noun style=colloquial alt=father
 daffodil noun
 dagger noun
 dago noun pl=dagos|dagoes style=offensive note=slur for Italians, Spaniards and Portuguese
@@ -480,7 +480,7 @@ DJ noun abbr note=disc jockey
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
 do noun pl=dos conf=85 note=a party (informal); dos and don'ts
-doc noun note=colloquial: doctor, document
+doc noun style=colloquial alt=doctor|document note=colloquial: doctor, document
 dock noun
 docket noun
 dockyard noun
@@ -619,6 +619,7 @@ duchy noun
 duck noun
 duckling noun
 duct noun
+dude noun style=colloquial alt=man|guy
 due noun
 duel noun
 duet noun

@@ -60,7 +60,7 @@ offshoot noun
 offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
-oldie noun style=colloquial
+oldie noun style=colloquial alt=old_favourite|old_person
 oligarch noun pl=oligarchs
 oligarchy noun
 olive         noun
@@ -81,7 +81,7 @@ onlooker noun
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
-op noun style=colloquial alt=operation note=short for operation: photo op, special ops
+op noun note=short for operation: photo op, special ops
 opacity noun
 opal noun
 opener noun

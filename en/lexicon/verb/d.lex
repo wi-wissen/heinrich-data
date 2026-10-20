@@ -224,6 +224,7 @@ disquiet verb
 disregard verb
 disrespect verb
 disrupt verb
+diss verb style=colloquial alt=disrespect note=spelling variant of dis
 dissect verb
 disseminate verb
 dissent verb

@@ -594,7 +594,7 @@ pony noun
 ponytail noun
 poofter noun style=offensive note=homophobic slur
 pool noun
-poop noun
+poop noun style=colloquial alt=excrement
 pop noun
 popcorn noun pl=- note=uncountable
 pope noun
@@ -611,7 +611,7 @@ porch noun
 porcupine noun
 pore noun
 pork noun pl=- note=uncountable
-porn noun pl=- style=colloquial note=uncountable
+porn noun pl=- style=colloquial alt=pornography note=uncountable
 pornography noun pl=- note=uncountable
 porpoise noun
 porridge noun pl=- note=uncountable
@@ -829,6 +829,7 @@ producer noun
 product noun
 production noun
 productivity noun pl=- note=uncountable
+prof noun pl=profs style=colloquial alt=professor
 profanity noun
 profession noun
 professional noun
