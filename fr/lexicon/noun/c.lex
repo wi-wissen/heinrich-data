@@ -1893,7 +1893,8 @@ coudrier           noun g=m
 couenne            noun g=f
 couette            noun g=f
 couffin            noun g=m
-cougar             noun g=m note=the animal (puma); colloquial for an older woman seeking younger men
+cougar             noun g=m sense=animal note=the animal (puma)
+cougar             noun g=f sense=woman style=colloquial note=an older woman seeking younger men
 couille            noun g=f style=vulgar alt=testicule
 couillon           noun g=m f=couillonne style=vulgar alt=imbécile
 coulage            noun g=m
