@@ -168,7 +168,7 @@ maxillaire           adj
 maximal              adj
 maximaliste          adj
 maximum              adj f=maximum pl=maximums|maxima fpl=maximums|maxima note=same form for both genders: valeur maximum, températures maximums
-maya                 adj
+maya        adj f=maya
 méandreux            adj
 mécanique            adj adv=mécaniquement
 mécaniste            adj
@@ -187,7 +187,7 @@ médico-légal         adj pl=médico-légaux rect=médicolégal
 médico-social        adj pl=médico-sociaux rect=médicosocial
 médiéval             adj
 médio-atlantique     adj rect=médioatlantique
-médio-océanique      adj rect=médioocéanique
+médio-océanique adj note=no 1990 joined spelling: o-o
 médiocre             adj adv=médiocrement
 médisant             adj
 méditatif            adj
@@ -297,7 +297,7 @@ milanais             adj
 militaire            adj adv=militairement
 militant             adj
 militariste          adj
-militaro-industriel  adj rect=militaroindustriel
+militaro-industriel adj note=no 1990 joined spelling: oi would be misread
 millénaire           adj
 millénariste         adj
 millésimé            adj

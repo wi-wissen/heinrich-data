@@ -853,10 +853,10 @@ micro-casque             noun g=m pl=micro-casques
 micro-entrepreneur       noun g=m f=micro-entrepreneuse pl=micro-entrepreneurs
 micro-entreprise         noun g=f pl=micro-entreprises
 micro-informatique       noun g=f
-micro-onde               noun g=f pl=micro-ondes rect=microonde
-micro-ondes              noun g=m rect=microondes note=the oven
-micro-ordinateur         noun g=m pl=micro-ordinateurs rect=microordinateur
-micro-organisme          noun g=m pl=micro-organismes rect=microorganisme
+micro-onde  noun g=f pl=micro-ondes note=no 1990 joined spelling: o-o
+micro-ondes noun g=m note=the oven; no 1990 joined spelling: o-o
+micro-ordinateur noun g=m pl=micro-ordinateurs note=no 1990 joined spelling: o-o
+micro-organisme noun g=m pl=micro-organismes note=no 1990 joined spelling: o-o
 microalgue               noun g=f
 microarchitecture        noun g=f
 microbe                  noun g=m

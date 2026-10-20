@@ -1,5 +1,5 @@
 nacré              adj
-nahua              adj
+nahua       adj f=nahua
 naïf               adj f=naïve adv=naïvement
 naissant           adj
 nantais            adj
