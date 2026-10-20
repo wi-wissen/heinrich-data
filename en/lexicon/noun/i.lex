@@ -428,6 +428,7 @@ isomer noun
 isomorphism noun
 isopleth noun
 isotope        noun
+ISP noun abbr note=internet service provider
 Israeli        noun
 Israelite noun
 issuance       noun

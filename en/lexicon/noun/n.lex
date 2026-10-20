@@ -217,7 +217,7 @@ number        noun
 numbskull noun conf=90 note=also numskull
 numeral noun
 numerator noun
-numpad noun conf=90
+numpad noun conf=90 note=computing jargon; also number pad
 numskull noun conf=90 note=also numbskull
 nun noun
 nurse         noun

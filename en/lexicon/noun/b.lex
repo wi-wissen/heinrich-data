@@ -40,6 +40,7 @@ baht noun pl=baht
 bail noun
 bailiff noun
 bailout noun
+bain-marie noun pl=bains-marie|bain-maries conf=80 note=unsure which plural is more usual in English
 bait noun
 baker noun
 bakery noun
@@ -580,7 +581,7 @@ bridegroom noun
 bridge noun
 bridle noun
 bridleway noun region=GB
-brie noun pl=- note=uncountable; also capitalized Brie
+brie noun note=countable for a whole cheese or a variety, also a mass noun; also capitalized Brie
 brief noun pl=briefs
 briefcase noun
 briefing noun
@@ -652,7 +653,7 @@ buff noun
 buffalo noun pl=buffalo|buffaloes|buffalos
 buffer noun
 bug noun
-bugfix noun conf=90
+bugfix noun conf=90 note=also written bug fix
 buggy noun
 bugle noun
 build noun
@@ -705,7 +706,7 @@ burn noun
 burner noun
 burnout noun
 burp noun
-burrata noun pl=- note=uncountable
+burrata noun note=countable for a whole cheese or a variety, also a mass noun
 burrito noun pl=burritos
 burrow noun
 bursary noun

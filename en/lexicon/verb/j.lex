@@ -18,6 +18,7 @@ jot verb
 journey        verb
 judge          verb
 juggle verb
+julienne verb
 jumble verb
 jump           verb
 justify        verb

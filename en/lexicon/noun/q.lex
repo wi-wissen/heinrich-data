@@ -1,4 +1,5 @@
 QPAM          noun abbr conf=85 note=qualified professional asset manager (US)
+QR noun abbr pl=- note=in QR code
 quad noun
 quadrangle noun
 quadrant noun

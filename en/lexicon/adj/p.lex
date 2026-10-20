@@ -124,7 +124,7 @@ pictorial adj
 picturesque adj cmp=more
 piecemeal adj
 pied adj
-pig-headed adj
+pig-headed adj cmp=more adv=pig-headedly
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously

@@ -53,10 +53,10 @@ pancetta noun pl=- note=uncountable
 panda noun
 pandemic noun
 pane noun
-paneer noun pl=- note=uncountable
+paneer noun note=countable for a whole cheese or a variety, also a mass noun
 panel noun
 panelist noun gb=panellist
-panettone noun pl=panettones|panettoni conf=90
+panettone noun pl=panettones|panettoni conf=90 note=unsure how common the Italian plural panettoni is
 pang noun
 panhandle noun
 panic noun
@@ -131,7 +131,7 @@ parley noun
 parliament noun
 parliamentarian noun
 parlor noun gb=parlour
-parmesan noun pl=- note=uncountable; also capitalized Parmesan
+parmesan noun note=countable for a whole cheese or a variety, also a mass noun; also capitalized Parmesan
 parody noun
 parole noun
 paroxysm noun
@@ -175,7 +175,7 @@ password noun
 pasta noun
 paste noun
 pastime noun
-pastis noun pl=- note=uncountable
+pastis noun pl=pastis note=countable for a glass or a variety, also a mass noun
 pastor noun
 pastrami noun pl=- note=uncountable
 pastry noun
@@ -184,6 +184,7 @@ pasty noun note=a filled pastry; Cornish pasty
 pat noun
 patch noun
 patchwork noun
+pate noun conf=80 note=without accent for pâté; also an old word for the top of the head
 patent noun
 paternity noun pl=- note=uncountable
 path noun
@@ -229,7 +230,7 @@ payoff noun
 payout noun
 payroll noun
 payslip noun region=GB conf=90 note=US pay stub
-paystub noun region=US conf=90
+paystub noun region=US conf=90 note=also written pay stub
 paywall noun
 PC noun abbr note=personal computer
 PCB noun abbr note=polychlorinated biphenyl; printed circuit board
@@ -252,7 +253,7 @@ peasantry noun pl=- note=uncountable
 peat noun
 pebble noun
 pecan noun
-pecorino noun pl=- note=uncountable
+pecorino noun note=countable for a whole cheese or a variety, also a mass noun
 peculiarity noun
 pedal noun
 peddler noun gb=pedlar|peddler
@@ -447,7 +448,7 @@ pike noun
 pikey noun style=offensive note=slur for Travellers and Roma
 pilaf noun pl=pilafs
 pilaster noun
-pilau noun region=GB conf=90 note=also pilaf
+pilau noun conf=90 note=also pilaf; unsure how common pilau is outside Britain and South Asia
 pile noun
 pilgrim noun
 pilgrimage noun
@@ -582,6 +583,7 @@ ply noun
 plywood noun pl=- note=uncountable
 PM noun abbr note=Prime Minister
 pneumonia noun pl=- note=uncountable
+PNG noun abbr note=an image file format
 poacher noun
 poblano noun pl=poblanos
 pocket noun
@@ -724,8 +726,7 @@ potter noun
 pottery noun
 potty noun
 pouch noun
-pouf noun pl=poufs
-pouffe noun pl=pouffes region=GB
+pouf noun pl=poufs gb=pouffe|pouf note=pouffe is the usual British spelling
 poultry noun pl=- note=uncountable
 pound noun
 pounder noun
@@ -994,7 +995,7 @@ provider noun
 province noun
 provision noun
 provocation noun
-provolone noun pl=- note=uncountable
+provolone noun note=countable for a whole cheese or a variety, also a mass noun
 provost noun
 prow noun
 prowess noun pl=- note=uncountable
@@ -1057,6 +1058,7 @@ puppet noun
 puppy noun
 purchase noun
 purchaser noun
+puree noun conf=90 note=also written purée
 purgatory noun
 purge noun
 purification noun
@@ -1072,6 +1074,7 @@ pursuance noun pl=- note=uncountable
 pursuer noun
 pursuit noun
 purview noun
+purée noun conf=90 note=also written puree
 push noun
 pushchair noun region=GB note=US stroller
 pushpin noun

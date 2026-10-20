@@ -9,7 +9,7 @@ gastrointestinal adj
 gated adj
 gaudy adj cmp=er
 gaunt adj cmp=er
-gawky adj cmp=er
+gawky adj cmp=er adv=gawkily
 gay            adj cmp=er
 geeky adj cmp=er
 genealogical adj
@@ -70,7 +70,7 @@ godlike adj
 godly adj cmp=er|more
 golden         adj
 good           adj cmp=better sup=best adv=well
-good-hearted adj
+good-hearted adj cmp=more adv=good-heartedly
 good-natured adj cmp=more adv=good-naturedly
 goodly adj cmp=er
 gooey adj
@@ -116,7 +116,7 @@ gruesome adj cmp=er|more adv=gruesomely
 gruff adj cmp=er adv=gruffly
 grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
-guileful adj
+guileful adj cmp=more adv=guilefully
 guileless adj
 guilty         adj cmp=er|more adv=guiltily
 guttural adj

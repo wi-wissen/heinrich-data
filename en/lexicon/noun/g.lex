@@ -114,7 +114,7 @@ geologist noun
 geology        noun
 geometry       noun
 Georgian       noun
-geotag noun conf=90
+geotag noun conf=90 note=new word; also written geo-tag
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
@@ -210,7 +210,7 @@ goose noun pl=geese
 gooseberry noun
 gore noun
 gorge          noun
-gorgonzola noun pl=- note=uncountable
+gorgonzola noun note=countable for a whole cheese or a variety, also a mass noun
 gorilla noun
 gorse noun pl=- note=uncountable
 gosling noun
@@ -266,6 +266,7 @@ grandparent    noun
 grandson       noun
 grandstand noun
 grange         noun
+granita noun
 granite        noun
 granny noun
 granola noun pl=- note=uncountable
@@ -278,7 +279,7 @@ graph          noun
 graphene noun pl=- note=uncountable
 graphic        noun
 graphite noun pl=- note=uncountable
-grappa noun pl=- note=uncountable
+grappa noun note=countable for a glass or a variety, also a mass noun
 grasp          noun
 grass          noun
 grasshopper noun
@@ -351,8 +352,8 @@ growl          noun
 growth         noun
 grub noun
 grudge noun
-gruyere noun pl=- conf=90 note=uncountable; also written gruyère
-gruyère noun pl=- conf=90 note=uncountable; also written gruyere
+gruyere noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyère
+gruyère noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyere
 guacamole noun pl=- note=uncountable
 guano noun pl=- note=uncountable
 guarantee      noun
@@ -408,4 +409,4 @@ gypsum noun pl=- note=uncountable
 Gypsy          noun note=neutral capitalized use (also a self-designation); lowercase gypsy is a separate entry marked offensive
 gypsy noun style=offensive alt=Roma note=lowercase use is derogatory; capitalized Gypsy is a separate neutral entry
 gyro noun pl=gyros
-gâteau noun pl=gâteaux conf=90 note=also written gateau
+gâteau noun pl=gâteaux|gâteaus conf=90 note=also written gateau

@@ -36,4 +36,4 @@ youth noun
 yuan noun pl=yuan note=Chinese currency
 yucca noun
 Yugoslav noun note=demonym or religious name, capitalized
-yuzu noun conf=90
+yuzu noun conf=90 note=unsure whether the plural yuzus or an unchanged plural is more usual

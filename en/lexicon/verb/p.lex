@@ -124,7 +124,7 @@ pit verb
 pitch verb
 pity verb
 pivot verb
-pixelate verb gb=pixellate|pixelate conf=80 note=pixellated is also common in British texts
+pixelate verb
 place verb
 plagiarize verb gb=plagiarise|plagiarize
 plague verb
@@ -288,12 +288,14 @@ puncture verb
 punish verb
 punt verb
 purchase verb
+puree verb past=pureed pp=pureed ing=pureeing conf=90 note=also written purée
 purge verb
 purify verb
 purport verb
 purpose verb
 purr verb
 pursue verb
+purée verb past=puréed pp=puréed ing=puréeing conf=90 note=also written puree
 push verb
 put verb past=put pp=put
 puzzle verb

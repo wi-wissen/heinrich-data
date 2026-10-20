@@ -12,7 +12,7 @@ racism noun pl=- note=uncountable
 racist noun
 rack noun
 racket noun
-raclette noun pl=- note=uncountable
+raclette noun note=countable for a whole cheese or a variety, also a mass noun
 racquet noun note=variant spelling of racket (sports)
 radar noun
 radiance noun pl=- note=uncountable
@@ -334,7 +334,7 @@ remorse noun pl=- note=uncountable
 remortgage noun region=GB
 remote noun note=remote control
 remoteness noun pl=- note=uncountable
-remoulade noun pl=- conf=90 note=uncountable
+remoulade noun pl=- conf=90 note=uncountable; also written rémoulade
 removable noun conf=80 note=a removable part; rare as a noun
 removal noun
 remover noun
@@ -543,7 +543,7 @@ rice noun pl=- note=uncountable
 ricer noun
 riches noun pl_only
 richness noun pl=- note=uncountable
-ricotta noun pl=- note=uncountable
+ricotta noun note=countable for a whole cheese or a variety, also a mass noun
 riddle noun
 ride noun
 rider noun
@@ -616,6 +616,7 @@ roll noun
 roller noun
 rollout noun
 rollover noun
+ROM noun abbr note=read-only memory; a game image
 Roman noun pl=Romans note=demonym, capitalized
 romance noun
 romanesco noun pl=- note=uncountable
@@ -635,7 +636,7 @@ rooster noun
 root noun
 rootkit noun
 rope noun
-roquefort noun pl=- conf=90 note=uncountable; also capitalized Roquefort
+roquefort noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Roquefort
 rosary noun
 rose noun
 rosebud noun

@@ -12,5 +12,7 @@ boo intj
 BP x abbr conf=90 note=blood pressure; the oil company
 bravo intj
 Bros. x abbr note=Brothers, in company names
+brulee x foreign conf=90 note=only in creme brulee; also written brûlée
+brûlée x foreign conf=90 note=only in crème brûlée; also written brulee
 buco x foreign note=only in osso buco
 bye intj

@@ -1,7 +1,7 @@
 gad verb
 gag verb
 gain           verb
-gainsay verb prefix=gain 3sg=gainsays past=gainsaid pp=gainsaid
+gainsay verb prefix=gain past=gainsaid pp=gainsaid
 gall verb
 gallop         verb
 gamble         verb
@@ -21,7 +21,7 @@ gear           verb
 gel verb
 generalize verb gb=generalise|generalize
 generate       verb
-geotag verb double conf=90
+geotag verb double conf=90 note=new word; doubling as in tag, tagged
 gesticulate verb
 gesture        verb
 get            verb past=got pp=got|gotten[US]

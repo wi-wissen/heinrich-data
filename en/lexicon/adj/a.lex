@@ -13,7 +13,7 @@ abortive adj
 abrasive adj
 abrupt adj cmp=more adv=abruptly
 absent adj adv=absently
-absentminded adj conf=90 note=also absent-minded
+absentminded adj cmp=more adv=absentmindedly conf=90 note=also absent-minded
 absolute adj adv=absolutely
 abstract adj cmp=more adv=abstractly
 absurd adj cmp=more adv=absurdly

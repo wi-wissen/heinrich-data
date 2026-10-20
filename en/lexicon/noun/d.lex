@@ -1,7 +1,8 @@
+d'oeuvre noun conf=80 note=only in hors d'oeuvre, plural hors d'oeuvres
 D-SNP noun abbr note=dual eligible special needs plan (US Medicare)
 dad noun
 daddy noun
-dado noun pl=dados
+dado noun pl=dados|dadoes conf=90 note=both plurals are in use
 daffodil noun
 dagger noun
 dago noun pl=dagos|dagoes style=offensive note=slur for Italians, Spaniards and Portuguese
@@ -526,7 +527,7 @@ dole noun
 doll noun
 dollar noun
 dolly noun
-dolma noun pl=dolmas|dolmades conf=80
+dolma noun pl=dolmas|dolmades conf=80 note=dolmades is the Greek plural; both are used in English menus
 dolphin noun
 domain noun
 dome noun
@@ -540,6 +541,7 @@ dominion noun
 domino noun pl=dominoes|dominos
 donation noun
 donee noun
+doner noun note=doner kebab; also döner
 dongle noun
 donkey noun
 donor noun
@@ -640,6 +642,7 @@ drunkenness noun pl=- note=uncountable
 dryer noun
 dryness noun pl=- note=uncountable
 drywall noun pl=- region=US note=uncountable; British plasterboard
+DSL noun abbr pl=- note=digital subscriber line
 DSLR noun abbr note=digital single-lens reflex camera
 dualism noun
 duality noun

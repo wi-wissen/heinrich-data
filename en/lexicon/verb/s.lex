@@ -17,6 +17,8 @@ sap verb
 satisfy verb
 saturate verb
 saunter verb
+saute verb past=sauteed pp=sauteed ing=sauteing conf=90 note=also written sauté
+sauté verb past=sautéed|sautéd pp=sautéed|sautéd ing=sautéing conf=80 note=also written saute; unsure how common sautéd is
 save verb
 savor verb gb=savour
 say verb 3sg=says|saith[archaic] past=said pp=said

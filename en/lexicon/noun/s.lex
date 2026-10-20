@@ -52,7 +52,7 @@ salute noun
 salvage noun pl=- note=uncountable
 salvation noun
 sambal noun pl=- note=uncountable
-sambuca noun pl=- note=uncountable
+sambuca noun note=countable for a glass or a variety, also a mass noun
 samosa noun
 sample noun
 samurai noun pl=samurai
@@ -99,6 +99,8 @@ sauerkraut noun pl=- note=uncountable
 sauna noun
 saunter noun
 sausage noun
+saute noun conf=90 note=also written sauté
+sauté noun conf=90 note=also written saute
 sauvignon noun conf=90 note=often capitalized Sauvignon
 savage noun
 savagery noun
@@ -375,7 +377,7 @@ shadow noun
 shaft noun
 shah noun
 shaker noun
-shakshuka noun pl=- conf=90 note=uncountable
+shakshuka noun pl=- conf=90 note=uncountable; also written shakshouka
 shale noun
 shallot noun
 shallow noun
@@ -418,7 +420,7 @@ sheriff noun
 sherry noun
 shield noun
 shift noun
-shiitake noun pl=shiitake|shiitakes conf=90
+shiitake noun pl=shiitake|shiitakes conf=90 note=unsure which plural is more usual
 shilling noun
 shin noun
 shingle noun
@@ -743,6 +745,8 @@ sort noun
 sorter noun
 sortie noun
 sot noun
+souffle noun conf=90 note=also written soufflé
+soufflé noun conf=90 note=also written souffle
 soul noun
 sound noun
 soundbar noun
@@ -750,7 +754,7 @@ soundness noun pl=- note=uncountable
 soundtrack noun
 soup noun
 source noun
-sourdough noun pl=- note=uncountable
+sourdough noun note=countable for a loaf (two sourdoughs), also used as a mass noun
 south noun pl=- note=compass point
 southeast noun pl=- note=compass point
 southerner noun
@@ -1019,7 +1023,7 @@ stigma noun pl=stigmas|stigmata
 stile noun
 stiletto noun pl=stilettos|stilettoes
 stillness noun
-stilton noun pl=- conf=90 note=uncountable; also capitalized Stilton
+stilton noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Stilton
 stimulant noun
 stimulation noun
 stimulus noun pl=stimuli

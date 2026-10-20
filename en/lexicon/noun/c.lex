@@ -44,7 +44,7 @@ calorie noun
 calumet noun conf=90 note=a ceremonial pipe
 calumny noun
 calyx noun pl=calyces|calyxes
-calzone noun pl=calzones|calzoni conf=90
+calzone noun pl=calzones|calzoni conf=90 note=unsure how common the Italian plural calzoni is
 cam noun
 Cambodian noun
 camcorder noun
@@ -259,6 +259,7 @@ caveat noun
 cavern noun
 cavity noun
 CBE noun abbr note=Commander of the Order of the British Empire
+CD noun abbr note=compact disc
 CDP noun abbr note=census-designated place
 ceasefire noun
 cedar noun

@@ -90,7 +90,7 @@ mana noun pl=- conf=90 note=uncountable
 management     noun
 manager        noun
 manatee noun
-manchego noun pl=- conf=90 note=uncountable; also capitalized Manchego
+manchego noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Manchego
 Mandarin noun pl=- note=the Chinese language
 mandarin noun
 mandate        noun
@@ -171,7 +171,7 @@ martyrdom noun
 marvel         noun
 Marxist noun
 masala noun
-mascarpone noun pl=- note=uncountable
+mascarpone noun note=countable for a whole cheese or a variety, also a mass noun
 mascot         noun
 masculinity noun
 mash noun
@@ -296,7 +296,7 @@ merchant       noun
 mercury        noun pl=- note=the metal; the planet Mercury is the capitalized form
 mercy          noun
 merger         noun
-merguez noun pl=merguez conf=90
+merguez noun pl=merguez conf=90 note=unsure whether an -es plural is also used
 meridian       noun
 meringue noun
 merit          noun
@@ -335,13 +335,13 @@ metro          noun note=plural metros
 metropolis noun pl=metropolises
 mettle noun pl=- note=uncountable
 Mexican        noun
-mezcal noun pl=- note=uncountable
+mezcal noun note=countable for a glass or a variety, also a mass noun
 meze noun pl=meze|mezes conf=80 note=also mezze
 mezze noun pl=mezze|mezzes conf=80 note=also meze
 microbe noun
 microchip noun
 microfinance noun pl=- note=uncountable
-microgreens noun pl_only conf=80
+microgreens noun pl_only conf=80 note=the singular microgreen is rare; unsure whether it deserves an entry
 microloan noun
 micromanagement noun pl=- note=uncountable
 microorganism noun
@@ -567,6 +567,7 @@ morphine noun pl=- note=uncountable
 morphology noun
 morrow         noun pl=- style=archaic note=the following day
 morsel noun
+mortadella noun note=countable for a whole sausage, also a mass noun
 mortal         noun
 mortality      noun
 mortar noun
@@ -576,7 +577,7 @@ mortgagor noun
 mortification noun
 mortuary noun
 mosaic         noun
-moscato noun pl=- conf=90 note=uncountable
+moscato noun conf=90 note=countable for a glass or a variety, also a mass noun
 mosque         noun
 mosquito noun pl=mosquitoes|mosquitos
 moss           noun
@@ -617,7 +618,7 @@ move           noun
 movement       noun
 mover noun
 movie          noun
-mozzarella noun pl=- note=uncountable
+mozzarella noun note=countable for a whole cheese or a variety, also a mass noun
 MP             noun abbr note=Member of Parliament; military police
 mpox noun pl=- note=uncountable
 MRO            noun abbr conf=80 note=maintenance, repair and overhaul

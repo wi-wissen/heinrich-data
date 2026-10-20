@@ -26,7 +26,7 @@ halibut        noun pl=halibut|halibuts
 hall           noun
 hallelujah noun
 hallmark noun
-halloumi noun pl=- note=uncountable
+halloumi noun note=countable for a whole cheese or a variety, also a mass noun
 hallucination noun
 hallway noun
 halo noun pl=haloes|halos
@@ -371,7 +371,6 @@ hotfix noun
 hotline noun
 hotspot noun
 Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the Khoikhoi; older literature
-houmous noun pl=- region=GB conf=80 note=British spelling variant of hummus
 hound          noun
 hour           noun
 house          noun
@@ -390,6 +389,9 @@ hovel noun
 howitzer noun
 howl noun
 HQ noun abbr note=headquarters
+HTML noun abbr pl=- note=Hypertext Markup Language
+HTTP noun abbr pl=- note=Hypertext Transfer Protocol
+HTTPS noun abbr pl=- note=HTTP over a secure connection
 hub            noun
 hubbub noun
 hubby noun style=colloquial
@@ -413,7 +415,7 @@ humidity       noun pl=- note=uncountable
 humiliation    noun
 humility       noun pl=- note=uncountable
 hummingbird noun
-hummus noun pl=- note=uncountable
+hummus noun pl=- gb=houmous|hummus note=uncountable; houmous is a British variant
 humor          noun gb=humour
 humorist noun gb=humourist|humorist
 hump noun

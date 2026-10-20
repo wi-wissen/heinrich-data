@@ -138,7 +138,7 @@ fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
 festoon noun
-feta noun pl=- note=uncountable
+feta noun note=countable for a whole cheese or a variety, also a mass noun
 fetish noun
 fetter noun
 fettuccine noun pl=- conf=90 note=uncountable pasta name; also fettuccini
@@ -349,7 +349,7 @@ folly          noun
 fondness noun
 fondue noun
 font noun
-fontina noun pl=- note=uncountable
+fontina noun note=countable for a whole cheese or a variety, also a mass noun
 food           noun
 foodstuff noun
 fool           noun
@@ -513,7 +513,7 @@ FTA            noun abbr note=free trade agreement
 FTE noun abbr note=full-time equivalent
 fudge noun
 fuel           noun
-fufu noun pl=- conf=90 note=uncountable
+fufu noun pl=- conf=90 note=uncountable; unsure about the spelling foofoo
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun

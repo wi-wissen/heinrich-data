@@ -1,5 +1,6 @@
 udon noun pl=- note=uncountable
 ugliness noun pl=- note=uncountable
+UI noun abbr note=user interface
 ukiyo-e noun pl=- conf=90 note=Japanese woodblock print genre
 Ukrainian     noun
 ulcer noun
@@ -118,3 +119,4 @@ utmost        noun pl=- note=only singular (do one's utmost)
 utopia noun
 utopian noun
 utterance     noun
+UX noun abbr pl=- note=user experience

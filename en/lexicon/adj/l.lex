@@ -1,6 +1,6 @@
 laborious adj adv=laboriously
 laden         adj
-laggy adj cmp=er conf=90
+laggy adj cmp=er conf=90 note=informal computing word; unsure about the comparison
 lame adj cmp=er adv=lamely
 lamentable adj adv=lamentably
 languid adj cmp=more adv=languidly

@@ -66,6 +66,7 @@ journalist     noun
 journey        noun
 joy            noun
 joystick noun
+JPEG noun abbr note=an image file format
 jubilee        noun
 judge          noun
 judgment       noun gb=judgement|judgment
@@ -74,6 +75,7 @@ judo noun pl=- note=uncountable
 jug noun
 juice          noun
 juicer noun
+julienne noun
 jumble noun
 jump           noun
 jumper noun

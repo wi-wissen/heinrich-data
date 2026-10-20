@@ -50,7 +50,7 @@ ecoregion noun
 ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
-edam noun pl=- conf=90 note=uncountable; also capitalized Edam
+edam noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Edam
 edamame noun pl=- note=uncountable
 eddy noun
 edema noun gb=oedema
@@ -147,7 +147,7 @@ emirate noun
 emissary noun
 emission noun
 emitter noun
-emmental noun pl=- conf=90 note=uncountable; also capitalized Emmental
+emmental noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Emmental
 emoji noun pl=emojis|emoji
 emolument noun
 emoticon noun
@@ -237,10 +237,12 @@ entourage noun
 entrance noun
 entrant noun
 entreaty noun
+entree noun conf=90 note=also written entrée
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
 entry noun
+entrée noun conf=90 note=also written entree
 enumeration noun
 envelope noun
 environment noun

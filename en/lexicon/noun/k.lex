@@ -68,7 +68,7 @@ kinship noun
 kinsman noun pl=kinsmen
 kiosk noun
 kipper noun
-kirsch noun pl=- note=uncountable
+kirsch noun conf=90 note=countable for a glass or a variety, also a mass noun; unsure whether the plural kirsches is used
 kiss           noun
 kit            noun
 kitchen        noun
@@ -100,7 +100,7 @@ knowledge      noun pl=- note=uncountable
 knuckle noun
 koala noun
 kofta noun
-kohlrabi noun pl=kohlrabi|kohlrabis conf=90
+kohlrabi noun pl=kohlrabi|kohlrabies conf=90 note=unsure which plural is more usual; kohlrabi is also used as a mass noun
 kombucha noun pl=- note=uncountable
 Korean         noun
 korma noun

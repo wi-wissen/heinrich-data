@@ -24,7 +24,7 @@ absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
 absentmindedness noun pl=- note=uncountable
-absinthe noun pl=- note=uncountable
+absinthe noun note=countable for a glass or a variety, also a mass noun
 absolution noun
 absorption noun
 abstinence noun pl=- note=uncountable
@@ -254,7 +254,7 @@ airstrip noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
-akvavit noun pl=- conf=90 note=uncountable; also aquavit
+akvavit noun conf=90 note=countable for a glass or a variety, also a mass noun; also aquavit
 alabaster noun pl=- note=uncountable
 alacrity noun pl=- note=uncountable
 alarm noun
@@ -427,7 +427,7 @@ anticipation noun
 antidote noun
 antigen noun
 antimicrobial noun
-antipasto noun pl=antipasti|antipastos conf=90
+antipasto noun pl=antipasti|antipastos conf=90 note=unsure how common the English plural antipastos is
 antipathy noun
 antiperspirant noun
 antiquarian noun
@@ -495,7 +495,7 @@ apse noun
 aptitude noun
 aquaculture noun pl=- note=uncountable
 aquarium noun pl=aquariums|aquaria
-aquavit noun pl=- conf=90 note=uncountable; also akvavit
+aquavit noun conf=90 note=countable for a glass or a variety, also a mass noun; also akvavit
 aqueduct noun
 aquifer noun
 Arab noun

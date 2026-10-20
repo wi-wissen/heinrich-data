@@ -36,6 +36,7 @@ laminator noun
 lamp          noun
 lamplight noun pl=- note=uncountable
 lampshade noun
+LAN noun abbr note=local area network
 lance noun
 lancer noun
 land          noun
@@ -132,6 +133,7 @@ leaver noun
 Lebanese      noun pl=Lebanese
 lecture       noun
 lecturer      noun
+LED noun abbr note=light-emitting diode
 ledge         noun
 ledger noun
 lee noun
@@ -252,7 +254,7 @@ limerick noun
 limestone     noun
 limit         noun
 limitation    noun
-limoncello noun pl=- note=uncountable
+limoncello noun note=countable for a glass or a variety, also a mass noun
 linden        noun
 line          noun
 lineage       noun
