@@ -28,7 +28,7 @@ gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
 gehörig adj
 gehorsam adj cmp=gehorsamer sup=gehorsamsten
-geil adj style=colloquial alt=großartig cmp=geiler sup=geilsten
+geil adj style=colloquial alt=großartig|hervorragend cmp=geiler sup=geilsten
 geistig adj
 geistlich adj
 geizig adj cmp=geiziger sup=geizigsten

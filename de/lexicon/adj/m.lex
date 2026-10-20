@@ -31,7 +31,7 @@ mechanisch adj
 mecklenburgisch adj
 medial adj
 medizinisch adj
-mega adj indecl style=colloquial alt=großartig note=colloquial intensifier and predicate (mega gut, das war mega)
+mega adj indecl style=colloquial alt=großartig|sehr_gut note=colloquial intensifier and predicate (mega gut, das war mega)
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj

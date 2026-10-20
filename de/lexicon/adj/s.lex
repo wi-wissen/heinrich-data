@@ -233,7 +233,7 @@ südwestlich adj
 sukzessiv adj
 sumpfig adj cmp=sumpfiger sup=sumpfigsten
 sündig adj cmp=sündiger sup=sündigsten
-super adj indecl style=colloquial alt=sehr_gut|großartig note=colloquial intensifier
+super adj indecl style=colloquial alt=ausgezeichnet|großartig note=colloquial intensifier
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj

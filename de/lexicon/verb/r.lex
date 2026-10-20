@@ -28,7 +28,7 @@ rauschen verb class=weak pp=gerauscht perf=haben|sein
 rausfahren verb class=strong sep=raus 3sg=rausfährt past=rausfuhr subj2=rausführe pp=rausgefahren perf=haben|sein
 rausfinden verb class=strong sep=raus 3sg=rausfindet past=rausfand subj2=rausfände pp=rausgefunden perf=haben
 rausfliegen verb class=strong sep=raus 3sg=rausfliegt past=rausflog subj2=rausflöge pp=rausgeflogen perf=sein
-rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial alt=hinausgehen
+rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial alt=hinausgehen|herausgehen
 raushalten verb class=strong sep=raus 3sg=raushält past=raushielt pp=rausgehalten subj2=raushielte perf=haben refl=acc note=colloquial for heraushalten
 rausholen verb class=weak sep=raus pp=rausgeholt perf=haben
 rausklettern verb class=weak sep=raus pp=rausgeklettert perf=sein

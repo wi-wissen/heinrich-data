@@ -205,6 +205,7 @@ Kfz noun g=n gen=Kfz|Kfzs pl=Kfz|Kfzs note=Kraftfahrzeug
 KG noun g=f gen=KG pl=KGs note=Kommanditgesellschaft
 KI noun g=f gen=KI pl=- note=abbreviation of Künstliche Intelligenz
 Kick-off noun g=m|n gen=Kick-offs pl=Kick-offs
+Kids noun g=pl style=colloquial alt=Kinder note=English loan, plural only
 Kiefer noun g=m gen=Kiefers pl=Kiefer sense=jaw
 Kiefer noun g=f gen=Kiefer pl=Kiefern sense=pine
 Kieler noun g=m gen=Kielers pl=Kieler note=inhabitant of Kiel; also the indeclinable adjective
@@ -240,7 +241,7 @@ Kläger noun g=m gen=Klägers pl=Kläger
 Klägerin noun g=f gen=Klägerin pl=Klägerinnen
 Klamm noun g=f gen=Klamm pl=Klammen
 Klammer noun g=f gen=Klammer pl=Klammern
-Klamotte noun g=f gen=Klamotte pl=Klamotten style=colloquial alt=Kleidung note=mostly plural (Klamotten): clothes
+Klamotte noun g=f gen=Klamotte pl=Klamotten style=colloquial alt=Kleidungsstück|Kleidung note=mostly plural (Klamotten): clothes
 Klang noun g=m gen=Klangs|Klanges pl=Klänge
 Klappentext noun g=m gen=Klappentexts|Klappentextes pl=Klappentexte
 Klapperschlange noun g=f gen=Klapperschlange pl=Klapperschlangen
