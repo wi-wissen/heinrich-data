@@ -407,6 +407,7 @@ cheetah noun
 chef noun note=plural chefs
 chelate noun
 chelation noun pl=- note=uncountable
+chelator noun
 chemical noun
 chemist noun
 chemistry noun
@@ -534,6 +535,7 @@ civilization noun gb=civilisation|civilization
 cladding noun pl=- note=uncountable
 clade noun
 cladistics noun pl=- note=uncountable
+cladogram noun
 clafoutis noun pl=clafoutis
 claim noun prep=to|for|on|of|against vb=make|file|lodge|submit|reject|deny|support|stake
 claimant noun
@@ -1031,6 +1033,7 @@ conveyance noun
 conveyancing noun pl=- region=GB note=uncountable
 convict noun
 conviction noun
+convocation noun
 convoy noun
 convulsion noun
 COO noun abbr note=chief operating officer
