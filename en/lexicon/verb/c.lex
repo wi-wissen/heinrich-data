@@ -75,7 +75,7 @@ channel verb
 chant verb
 char verb
 characterize verb gb=characterise|characterize
-charge verb comp=obj_to|p_ing|to prep=with|for
+charge verb comp=obj_to|p_ing|to|that prep=with|for
 charm verb
 chart verb
 charter verb
@@ -184,7 +184,7 @@ colonize verb gb=colonise|colonize
 color verb gb=colour
 comb verb
 combat verb past=combated|combatted pp=combated|combatted ing=combating|combatting note=the doubled forms are commoner in British English
-combine verb comp=to prep=with|into
+combine verb comp=to|ing prep=with|into
 come verb comp=to|ing|bare prep=to|from|into|across|for|with|upon|by|on|at|in|of past=came pp=come
 comfort verb
 command verb comp=obj_to|that
@@ -234,7 +234,7 @@ condescend verb
 condition verb
 conduct verb
 confer verb double
-confess verb comp=that|ing|p_ing|wh prep=to
+confess verb comp=that|ing|p_ing|wh|obj_to prep=to
 confide verb comp=that prep=in|to
 configure verb
 confine verb prep=to

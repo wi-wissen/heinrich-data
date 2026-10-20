@@ -66,7 +66,7 @@ lifesaving adj
 light         adj cmp=er adv=lightly
 lightweight adj
 likely        adj comp=to|that cmp=er|more
-limited       adj prep=to|by|in
+limited       adj comp=p_ing|to prep=to|by|in
 limitless adj adv=limitlessly
 limp adj cmp=er
 lineal        adj
@@ -117,7 +117,7 @@ lowly adj cmp=er
 loyal         adj prep=to|towards|toward cmp=more adv=loyally
 lucid adj cmp=more adv=lucidly
 luckless adj
-lucky         adj comp=to|that prep=with|in|at cmp=er adv=luckily
+lucky         adj comp=to|that|ing prep=with|in|at cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
 lukewarm adj

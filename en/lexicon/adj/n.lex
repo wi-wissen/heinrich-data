@@ -31,7 +31,7 @@ needless adj adv=needlessly
 needy adj cmp=er
 nefarious adj
 negative        adj adv=negatively
-negligent adj prep=in|of|about cmp=more adv=negligently
+negligent adj comp=p_ing|to prep=in|of|about cmp=more adv=negligently
 negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
@@ -53,7 +53,7 @@ new             adj prep=to|at cmp=er adv=newly
 newborn adj
 newfound adj attr_only
 next            adj
-nice            adj comp=to|that prep=to|of|about|with cmp=er adv=nicely
+nice            adj comp=to|that|ing prep=to|of|about|with cmp=er adv=nicely
 Nigerian        adj
 nightly adj
 nimble adj cmp=er adv=nimbly
@@ -106,7 +106,7 @@ noteworthy adj
 noticeable      adj adv=noticeably
 notifiable adj
 notional adj adv=notionally
-notorious       adj prep=for|as adv=notoriously
+notorious       adj comp=p_ing|to prep=for|as adv=notoriously
 novel           adj
 noxious adj cmp=more
 nuanced adj cmp=more

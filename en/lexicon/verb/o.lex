@@ -1,5 +1,5 @@
 obey          verb xprep=to
-object        verb comp=that|p_ing|to prep=to xprep=against?
+object        verb comp=that|p_ing prep=to xprep=against?
 obligate verb
 oblige        verb comp=obj_to prep=with
 obliterate verb

@@ -181,7 +181,7 @@ rely verb comp=p_ing prep=on|upon xprep=of|from|at
 remain verb comp=to|ing|that|bare
 remake verb prefix=re past=remade pp=remade
 remand verb
-remark verb comp=that|wh|obj_to prep=on|upon
+remark verb comp=that|wh prep=on|upon
 remarry verb
 remaster verb
 rematch verb

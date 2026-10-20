@@ -1,6 +1,6 @@
 Macedonian adj
 macroeconomic adj
-mad           adj comp=to prep=at|about|with|on cmp=er adv=madly
+mad           adj comp=to|that prep=at|about|with|on cmp=er adv=madly
 maddening adj cmp=more adv=maddeningly
 magic         adj
 magical       adj adv=magically

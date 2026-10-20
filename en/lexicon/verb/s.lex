@@ -294,7 +294,7 @@ speculate verb
 speed verb past=sped|speeded pp=sped|speeded
 spell verb past=spelled|spelt[GB] pp=spelled|spelt[GB]
 spellcheck verb
-spend verb prep=on|in past=spent pp=spent
+spend verb comp=obj_ing prep=on|in past=spent pp=spent
 spike verb
 spill verb past=spilled|spilt pp=spilled|spilt
 spin verb past=spun pp=spun

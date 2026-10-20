@@ -77,7 +77,7 @@ perceptible adj adv=perceptibly
 percutaneous adj
 peremptory adj adv=peremptorily
 perennial adj adv=perennially
-perfect adj prep=for cmp=more adv=perfectly
+perfect adj comp=p_ing|to prep=for cmp=more adv=perfectly
 perilous adj cmp=more adv=perilously
 periodic adj adv=periodically
 periodical adj
@@ -145,7 +145,7 @@ platonic adj note=platonic love
 plausible adj cmp=more adv=plausibly
 playable adj
 playful adj adv=playfully
-pleasant adj comp=to|that prep=to|for|with cmp=er|more adv=pleasantly
+pleasant adj comp=to|that|ing prep=to|for|with cmp=er|more adv=pleasantly
 pleased adj comp=to|that prep=with|about|by|at|for cmp=more
 pleasing adj cmp=more
 pleasurable adj cmp=more adv=pleasurably
@@ -233,7 +233,7 @@ premarket adj
 premature adj adv=prematurely
 premeditated adj
 premier adj
-preoccupied adj prep=with|by
+preoccupied adj comp=p_ing|to prep=with|by
 preparatory adj
 prepared adj comp=to prep=for
 preposterous adj cmp=more adv=preposterously
@@ -298,7 +298,7 @@ promising adj cmp=more adv=promisingly
 promissory adj
 promotional adj
 prompt adj cmp=er adv=promptly
-prone adj comp=to prep=to
+prone adj comp=to|p_ing prep=to
 proof adj
 proper adj comp=to|that prep=for|to cmp=more adv=properly
 prophetic adj
@@ -318,7 +318,7 @@ protective adj cmp=more adv=protectively
 Protestant adj note=demonym or religious name, capitalized
 protracted adj
 protuberant adj
-proud adj comp=to|that|p_ing prep=of xprep=on|about? cmp=er adv=proudly
+proud adj comp=to|that|p_ing prep=of xprep=on?|about? cmp=er adv=proudly
 proverbial adj adv=proverbially
 provident adj cmp=more adv=providently
 provincial adj

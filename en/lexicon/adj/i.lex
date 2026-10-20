@@ -14,7 +14,7 @@ idyllic adj adv=idyllically
 igneous adj
 ignoble adj
 ignominious adj adv=ignominiously
-ignorant       adj comp=wh prep=of|about
+ignorant       adj comp=wh|that prep=of|about
 ill            adj prep=with
 ill-natured adj cmp=more note=natured is not a word on its own
 illegal        adj adv=illegally
@@ -67,7 +67,7 @@ implacable adj adv=implacably
 implantable adj
 implicit adj adv=implicitly
 impolite adj comp=to prep=to|of cmp=more
-important      adj comp=to|that prep=to|for cmp=more adv=importantly
+important      adj comp=to|that|wh prep=to|for cmp=more adv=importantly
 impossible     adj adv=impossibly
 impotent adj
 impracticable  adj
@@ -225,7 +225,7 @@ inmost adj
 innate adj
 inner          adj attr_only
 innermost adj
-innocent       adj prep=of adv=innocently
+innocent       adj comp=p_ing|to prep=of adv=innocently
 innovative     adj
 innumerable    adj
 inoffensive adj
@@ -338,7 +338,7 @@ invincible adj
 invisible      adj adv=invisibly
 invitational adj
 involuntary adj adv=involuntarily
-involved adj prep=in|with cmp=more
+involved adj comp=p_ing|to prep=in|with cmp=more
 inward         adj
 Ionic adj note=the order of architecture and the Greek dialect
 ionic adj note=chemistry
@@ -354,7 +354,7 @@ irrational adj adv=irrationally
 irreconcilable adj
 irreducible adj
 irregular      adj adv=irregularly
-irrelevant adj prep=to|for
+irrelevant adj comp=that prep=to|for
 irreparable adj adv=irreparably
 irreplaceable adj
 irrepressible adj

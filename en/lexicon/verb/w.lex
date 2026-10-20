@@ -22,7 +22,7 @@ warn verb comp=to|that|obj_to|obj_that|p_ing prep=against|of|about
 warp verb
 warrant verb comp=that|ing
 wash verb
-waste verb prep=on
+waste verb comp=obj_ing prep=on
 watch verb comp=obj_bare|obj_ing|wh|that prep=for|over
 water verb
 wave verb

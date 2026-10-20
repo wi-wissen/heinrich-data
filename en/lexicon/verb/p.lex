@@ -237,7 +237,7 @@ proclaim verb comp=that|wh|obj_to
 procure verb
 prod verb comp=obj_to prep=at|into
 produce verb
-profess verb comp=to|that
+profess verb comp=to|that|obj_to
 proffer verb note=stress on the first syllable: proffered
 profile verb
 profit verb prep=from|by xprep=of?

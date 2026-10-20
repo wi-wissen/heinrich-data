@@ -1,5 +1,5 @@
 Kazakh adj
-keen           adj comp=to|p_ing prep=on xprep=of? cmp=er adv=keenly
+keen           adj comp=to|p_ing|that prep=on xprep=of? cmp=er adv=keenly
 key            adj attr_only
 khaki adj
 Khmer adj
@@ -11,6 +11,6 @@ kingly adj cmp=er|more
 knightly adj
 knowing        adj adv=knowingly
 knowledgeable adj cmp=more adv=knowledgeably
-known adj comp=to|that prep=for|as|to|by
+known adj comp=to|that|wh prep=for|as|to|by
 Korean         adj
 Kurdish adj

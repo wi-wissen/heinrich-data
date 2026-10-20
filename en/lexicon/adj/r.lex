@@ -77,13 +77,13 @@ relative adj adv=relatively
 relativistic adj
 relaxed adj cmp=more
 relentless adj adv=relentlessly
-relevant adj prep=to|for cmp=more adv=relevantly
+relevant adj comp=that prep=to|for cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
 reliant adj prep=on|upon xprep=of?
 relieved adj comp=to|that prep=at|about|by|of cmp=more
 religious adj cmp=more adv=religiously
 reluctant adj comp=to cmp=more adv=reluctantly
-remarkable adj comp=that|to prep=for cmp=more adv=remarkably
+remarkable adj comp=that|to|wh prep=for cmp=more adv=remarkably
 remastered adj
 remedial adj
 reminiscent adj prep=of xprep=to?
@@ -99,7 +99,7 @@ repellent adj
 repetitive adj adv=repetitively
 reportable adj
 reprehensible adj adv=reprehensibly
-representative adj prep=of xprep=for?
+representative adj prep=of
 repressive adj cmp=more
 reproachful adj adv=reproachfully
 reproductive adj
@@ -109,7 +109,7 @@ repulsive adj cmp=more
 reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
-resentful adj comp=that prep=of|at|about|towards|toward cmp=more adv=resentfully
+resentful adj comp=that|p_ing|to prep=of|at|about|towards|toward cmp=more adv=resentfully
 resident adj
 residential adj
 residual adj
@@ -124,7 +124,7 @@ respectful adj prep=of|to|towards|toward cmp=more adv=respectfully
 respective adj adv=respectively
 respiratory adj
 resplendent adj
-responsible adj prep=for|to xprep=of cmp=more adv=responsibly
+responsible adj comp=p_ing|to prep=for|to|of cmp=more adv=responsibly
 responsive adj cmp=more
 restful adj
 restless adj cmp=more adv=restlessly

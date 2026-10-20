@@ -24,7 +24,7 @@ generate       verb
 geotag verb double conf=90 note=new word; doubling as in tag, tagged
 gesticulate verb
 gesture        verb
-get            verb comp=to|ing|obj_to|obj_ing|bare past=got pp=got|gotten[US]
+get            verb comp=to|ing|obj_to|obj_ing|bare|that past=got pp=got|gotten[US]
 giggle verb
 gild           verb
 give           verb past=gave pp=given
@@ -88,7 +88,7 @@ growl          verb
 grub verb
 grumble verb prep=about|at|over
 grunt verb
-guarantee      verb comp=that|to
+guarantee      verb comp=that|to|obj_that
 guard          verb prep=against|from
 guess          verb comp=that|wh|obj_to
 guide          verb

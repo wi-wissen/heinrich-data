@@ -36,7 +36,7 @@ vlog verb
 voice         verb
 void          verb
 volley verb
-volunteer     verb comp=to|that prep=for|as
+volunteer     verb comp=to|that|obj_to prep=for|as
 vomit verb note=stress on the first syllable: vomited
 vote          verb comp=to|that prep=for|against|on
 vouch verb

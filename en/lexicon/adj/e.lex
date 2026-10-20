@@ -9,7 +9,7 @@ eastbound adj
 easterly adj
 eastern adj
 easternmost adj
-easy adj comp=to prep=for|on|with cmp=er adv=easily
+easy adj comp=to|ing prep=for|on|with cmp=er adv=easily
 eccentric adj cmp=more adv=eccentrically
 ecclesiastical adj
 eclectic adj cmp=more adv=eclectically
@@ -52,7 +52,7 @@ elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
 emaciated adj
-embarrassed adj comp=to|that prep=about|by|at|for cmp=more
+embarrassed adj comp=to|that|p_ing prep=about|by|at|for cmp=more
 emblematic adj
 embryonic adj
 emergent adj
@@ -98,7 +98,7 @@ equatorial adj
 equestrian adj
 equine adj
 equitable adj adv=equitably
-equivalent adj prep=to adv=equivalently
+equivalent adj comp=p_ing|to prep=to adv=equivalently
 erect adj
 ergonomic adj adv=ergonomically
 erotic adj
@@ -139,14 +139,14 @@ excellent adj adv=excellently
 exceptional adj adv=exceptionally
 excessive adj adv=excessively
 excitable adj cmp=more
-excited adj comp=to|that|wh prep=about|by|at|for|over xprep=on? adv=excitedly
+excited adj comp=to|that|wh|p_ing prep=about|by|at|for|over xprep=on? adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
 excruciating adj adv=excruciatingly
 executable adj
 executive adj
 exemplary adj
-exempt adj prep=from xprep=of?
+exempt adj comp=p_ing|to prep=from xprep=of?
 exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
 exhaustive adj adv=exhaustively
@@ -164,7 +164,7 @@ expendable adj
 expensive adj cmp=more adv=expensively
 experienced adj comp=p_ing prep=in|at|with cmp=more
 experimental adj adv=experimentally
-expert adj prep=at|in|on adv=expertly
+expert adj comp=p_ing|to prep=at|in|on adv=expertly
 explanatory adj
 explicit adj adv=explicitly
 exploitative adj

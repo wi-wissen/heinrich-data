@@ -127,7 +127,7 @@ escort verb
 espouse verb
 espy verb
 essay verb note=to attempt
-establish verb comp=that|wh
+establish verb comp=that|wh|obj_to
 esteem verb
 estimate verb comp=that|wh|obj_to
 estrange verb

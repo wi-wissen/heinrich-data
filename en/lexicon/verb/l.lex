@@ -33,7 +33,7 @@ lean          verb prep=on|against|over|toward|towards past=leaned|leant[GB] pp=
 leap          verb past=leaped|leapt pp=leaped|leapt
 learn         verb comp=to|ing|wh|that prep=about|of|from past=learned|learnt[GB] pp=learned|learnt[GB]
 lease         verb
-leave         verb comp=obj_to|obj_ing prep=for|to past=left pp=left
+leave         verb comp=obj_to|obj_ing|obj_bare prep=for|to past=left pp=left
 lecture       verb
 leech verb
 leer verb
@@ -71,7 +71,7 @@ list          verb
 listen        verb prep=to|for
 litigate verb
 litter        verb
-live          verb comp=to prep=on|with|for|by|off|through|in
+live          verb comp=to|ing prep=on|with|for|by|off|through|in
 livestream verb
 load          verb
 loan          verb

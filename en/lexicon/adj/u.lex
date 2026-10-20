@@ -350,7 +350,7 @@ urgent         adj cmp=more adv=urgently
 urinary adj
 usable adj
 used adj comp=to|p_ing prep=to
-useful         adj comp=to prep=for|to cmp=more adv=usefully
+useful         adj comp=to|ing|that prep=for|to cmp=more adv=usefully
 useless        adj adv=uselessly
 usual          adj adv=usually
 uterine adj

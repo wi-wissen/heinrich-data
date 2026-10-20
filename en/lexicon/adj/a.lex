@@ -37,14 +37,14 @@ acoustic adj adv=acoustically
 acquainted adj prep=with
 acrobatic adj adv=acrobatically
 actionable adj
-active adj prep=in|on cmp=more adv=actively
+active adj comp=p_ing|to prep=in|on cmp=more adv=actively
 actual adj adv=actually
 actuarial adj
 acute adj cmp=er|more adv=acutely
 adamant adj adv=adamantly
 adaptable adj cmp=more
 adaptive adj
-addicted adj comp=p_ing prep=to xprep=from|on
+addicted adj comp=p_ing prep=to xprep=from?|on
 addictive adj cmp=more
 additional adj adv=additionally
 adept adj comp=p_ing prep=at|in|with cmp=more adv=adeptly
@@ -88,7 +88,7 @@ afloat adj pred_only
 afoot adj pred_only
 aforementioned adj attr_only
 aforesaid adj
-afraid adj comp=to|that|p_ing prep=of|for xprep=from|before? pred_only cmp=more
+afraid adj comp=to|that|p_ing prep=of|for xprep=from?|before? pred_only cmp=more
 African adj
 aggregate adj
 aggressive adj prep=towards|toward|to|with|in cmp=more adv=aggressively
@@ -204,13 +204,13 @@ apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
 appalling adj cmp=more adv=appallingly
-apparent adj comp=that prep=to|from|in adv=apparently
+apparent adj comp=that|wh prep=to|from|in adv=apparently
 appealing adj cmp=more adv=appealingly
 appellate adj attr_only
 applicable adj
 appreciable adj adv=appreciably
 appreciative adj prep=of cmp=more adv=appreciatively
-apprehensive adj comp=that|wh prep=about|of cmp=more
+apprehensive adj comp=that|wh|p_ing|to prep=about|of cmp=more
 approachable adj cmp=more
 appropriate adj comp=to|that prep=for|to adv=appropriately
 approvable adj
@@ -324,7 +324,7 @@ avowed adj
 awake adj pred_only
 aware adj comp=that|wh prep=of xprep=about? cmp=more
 awesome adj cmp=more
-awful adj comp=to|that prep=at|to|about cmp=more adv=awfully
+awful adj comp=to|that|ing prep=at|to|about cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
 awry adj pred_only
 axial adj

@@ -14,7 +14,7 @@ famed adj
 familial adj
 familiar       adj prep=with|to cmp=more adv=familiarly
 famished adj
-famous         adj prep=for|as|with xprep=of? cmp=more adv=famously
+famous         adj comp=p_ing|to prep=for|as|with xprep=of? cmp=more adv=famously
 fanatical adj cmp=more adv=fanatically
 fanciful adj
 fancy          adj cmp=er
@@ -166,7 +166,7 @@ fricative adj
 frictionless adj
 friendless adj
 friendly       adj prep=with|to|towards|toward cmp=er
-frightened adj comp=to|that prep=of|by|for xprep=from?|before? cmp=more
+frightened adj comp=to|that|p_ing prep=of|by|for xprep=from?|before? cmp=more
 frightful      adj adv=frightfully
 frigid adj cmp=more adv=frigidly
 frivolous adj

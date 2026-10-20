@@ -21,7 +21,7 @@ obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obstructive adj
 obtainable adj
-obvious        adj comp=that prep=to|from cmp=more adv=obviously
+obvious        adj comp=that|wh prep=to|from cmp=more adv=obviously
 occasional     adj adv=occasionally
 occludent adj conf=80 note=rare, occluding
 occult adj
@@ -59,7 +59,7 @@ onsite adj
 onstage adj
 onward         adj
 opaque adj cmp=more adv=opaquely
-open           adj prep=to|with|about|for cmp=more adv=openly
+open           adj comp=p_ing|to prep=to|with|about|for cmp=more adv=openly
 operatic adj
 operational    adj adv=operationally
 operative      adj
@@ -73,7 +73,7 @@ oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
 optimal        adj adv=optimally
-optimistic     adj comp=that prep=about cmp=more adv=optimistically
+optimistic     adj comp=that|p_ing|to prep=about cmp=more adv=optimistically
 optimum adj
 optional       adj adv=optionally
 opulent adj

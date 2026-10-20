@@ -14,7 +14,7 @@ waiter noun
 waitress noun
 waiver noun
 wake noun
-walk noun vb=take|have xvb=make
+walk noun vb=take|have xvb=make?
 walker noun
 walkie-talkie noun
 walkthrough noun

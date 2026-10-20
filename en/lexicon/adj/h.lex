@@ -10,11 +10,11 @@ handheld adj
 handmade adj
 handsome       adj cmp=er|more adv=handsomely
 handwritten adj
-handy adj comp=to prep=for|with|at cmp=er
+handy adj comp=to|that prep=for|with|at cmp=er
 haphazard adj adv=haphazardly
 hapless adj
-happy          adj comp=to|that prep=with|about|for cmp=er adv=happily
-hard           adj comp=to prep=on|for|at cmp=er
+happy          adj comp=to|that|ing prep=with|about|for cmp=er adv=happily
+hard           adj comp=to|ing prep=on|for|at cmp=er
 hard-hearted adj cmp=more adv=hard-heartedly
 hardcore adj
 hardworking adj cmp=more note=also written hard-working

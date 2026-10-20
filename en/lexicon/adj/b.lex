@@ -47,7 +47,7 @@ beneficial adj comp=to prep=to|for adv=beneficially
 benevolent adj cmp=more adv=benevolently
 Bengali adj
 benign adj adv=benignly
-bent adj prep=on|upon
+bent adj comp=p_ing|to prep=on|upon
 benthic adj
 Berber adj
 bereaved adj
@@ -137,7 +137,7 @@ Breton adj
 bridal adj
 brief adj cmp=er adv=briefly
 bright adj cmp=er adv=brightly
-brilliant adj comp=to|p_ing prep=at|with|in cmp=more adv=brilliantly
+brilliant adj comp=to|p_ing|that prep=at|with|in cmp=more adv=brilliantly
 brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more

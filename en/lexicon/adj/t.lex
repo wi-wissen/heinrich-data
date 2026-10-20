@@ -42,7 +42,7 @@ tentative adj adv=tentatively
 tenuous adj cmp=more adv=tenuously
 terminal adj adv=terminally
 terrestrial adj
-terrible adj comp=to prep=at|for|to adv=terribly
+terrible adj comp=to|ing|that prep=at|for|to adv=terribly
 terrific adj
 terrified adj comp=to|that|p_ing prep=of|at xprep=from?|before? cmp=more
 territorial adj
@@ -169,6 +169,6 @@ Turkic adj
 Turkish adj
 turquoise adj
 twofold adj
-typical adj prep=of xprep=for? adv=typically
+typical adj comp=that prep=of xprep=for? adv=typically
 typographical adj
 tyrannical adj cmp=more

@@ -1,7 +1,7 @@
 sable adj
 sacred adj cmp=more
 sacrificial adj
-sad adj comp=to|that prep=about|for cmp=er adv=sadly
+sad adj comp=to|that|ing|wh prep=about|for cmp=er adv=sadly
 safe adj comp=to prep=from|for cmp=er adv=safely
 sagacious adj cmp=more adv=sagaciously
 sage adj
@@ -111,7 +111,7 @@ sequential adj adv=sequentially
 Serbian adj
 serene adj cmp=er|more adv=serenely
 serial adj
-serious adj prep=about cmp=more adv=seriously
+serious adj comp=p_ing|to prep=about cmp=more adv=seriously
 serpentine adj
 serrated adj
 serviceable adj
@@ -143,7 +143,7 @@ showery adj
 showy adj cmp=er
 shrewd adj cmp=er adv=shrewdly
 shrill adj cmp=er adv=shrilly
-shy adj prep=of|about|with|around cmp=shyer|shier sup=shyest|shiest adv=shyly
+shy adj comp=p_ing|to prep=of|about|with|around cmp=shyer|shier sup=shyest|shiest adv=shyly
 Siberian adj
 Sicilian adj
 sick adj comp=p_ing|to prep=of|with cmp=er
@@ -175,8 +175,8 @@ sizable adj
 sizeable adj note=spelling variant of sizable, used in both varieties
 sized adj
 skeletal adj
-skeptical adj prep=about|of cmp=more gb=sceptical adv=skeptically
-skilled adj comp=p_ing prep=in|at|with
+skeptical adj comp=that prep=about|of cmp=more gb=sceptical adv=skeptically
+skilled adj comp=p_ing|to prep=in|at|with
 skillful adj comp=p_ing prep=at|in|with cmp=more gb=skilful adv=skillfully
 skinny adj cmp=er
 slack adj cmp=er adv=slackly
@@ -192,7 +192,7 @@ slimy adj cmp=er
 slippery adj cmp=er|more
 Slovak adj
 slovenly adj cmp=er|more
-slow adj comp=to prep=in|at|with cmp=er adv=slowly
+slow adj comp=to|p_ing prep=in|at|with cmp=er adv=slowly
 sluggish adj cmp=more
 sly adj cmp=slyer|slier sup=slyest|sliest adv=slyly
 small adj cmp=er
@@ -256,7 +256,7 @@ Spartan adj
 spasmodic adj adv=spasmodically
 spatial adj adv=spatially
 special adj adv=specially
-specialized adj prep=in xprep=on? gb=specialised|specialized
+specialized adj comp=p_ing|to prep=in xprep=on? gb=specialised|specialized
 specific adj adv=specifically
 speckled adj
 spectacular adj cmp=more adv=spectacularly
@@ -344,12 +344,12 @@ stripy adj
 strong adj cmp=er adv=strongly
 structural adj adv=structurally
 stubborn adj cmp=er|more adv=stubbornly
-stuck adj prep=with|in|on|at
+stuck adj comp=ing|to prep=with|in|on|at
 studious adj adv=studiously
 stuffy adj cmp=er
 stunning adj cmp=more adv=stunningly
 stupendous adj cmp=more adv=stupendously
-stupid adj comp=to cmp=er|more adv=stupidly
+stupid adj comp=to|that cmp=er|more adv=stupidly
 sturdy adj cmp=er
 stylish adj cmp=more adv=stylishly
 stylistic adj
@@ -371,7 +371,7 @@ subtle adj cmp=er adv=subtly
 subtropical adj
 suburban adj
 subversive adj cmp=more adv=subversively
-successful adj prep=in|at|with cmp=more adv=successfully
+successful adj comp=p_ing|to prep=in|at|with cmp=more adv=successfully
 successive adj adv=successively
 succinct adj cmp=er|more adv=succinctly
 succulent adj
@@ -381,7 +381,7 @@ sufficient adj adv=sufficiently
 sugary adj
 suggestive adj
 suicidal adj
-suitable adj prep=for cmp=more adv=suitably
+suitable adj comp=p_ing|to prep=for cmp=more adv=suitably
 sulfuric adj gb=sulphuric
 sulky adj cmp=er adv=sulkily
 sullen adj cmp=more adv=sullenly
@@ -414,14 +414,14 @@ supreme adj adv=supremely
 sure adj comp=to|that|wh|p_ing prep=of|about cmp=er adv=surely
 surgical adj adv=surgically
 surly adj cmp=er
-surprised adj comp=to|that prep=at|by|about cmp=more
+surprised adj comp=to|that|wh prep=at|by|about cmp=more
 surprising adj cmp=more adv=surprisingly
 surreal adj
 surrealist adj
 surreptitious adj adv=surreptitiously
 surrogate adj
 susceptible adj prep=to
-suspicious adj prep=of|about cmp=more adv=suspiciously
+suspicious adj comp=that prep=of|about cmp=more adv=suspiciously
 sustainable adj adv=sustainably
 sutural adj
 swampy adj cmp=er

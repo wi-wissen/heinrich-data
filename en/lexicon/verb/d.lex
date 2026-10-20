@@ -89,7 +89,7 @@ denounce verb
 dent verb
 deny verb comp=ing|that
 depart verb
-depend verb prep=on|upon xprep=of|from
+depend verb prep=on|upon xprep=of|from?
 depict verb comp=obj_ing|wh
 deplete verb
 deplore verb comp=ing|obj_ing|that
@@ -282,7 +282,7 @@ drape verb
 draw verb past=drew pp=drawn
 drawl verb
 dread verb comp=ing|to|obj_ing|that
-dream verb comp=that|p_ing|wh prep=of|about xprep=from past=dreamed|dreamt pp=dreamed|dreamt note=dreamt is more frequent in British English
+dream verb comp=that|p_ing|wh prep=of|about xprep=from? past=dreamed|dreamt pp=dreamed|dreamt note=dreamt is more frequent in British English
 dredge verb
 drench verb
 dress verb prep=in|for|as

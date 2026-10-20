@@ -88,7 +88,7 @@ graphic        adj adv=graphically
 graphical adj
 grassroots     adj
 grassy adj cmp=er
-grateful       adj comp=to|that prep=for|to cmp=more adv=gratefully
+grateful       adj comp=to|that|p_ing prep=for|to cmp=more adv=gratefully
 gratuitous adj adv=gratuitously
 grave          adj cmp=er adv=gravely
 graven adj note=old participle of grave, as in graven image
@@ -118,5 +118,5 @@ grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
 guileful adj cmp=more adv=guilefully
 guileless adj
-guilty         adj comp=to|p_ing|ing prep=of|about|for cmp=er|more adv=guiltily
+guilty         adj comp=to|p_ing|ing|that prep=of|about|for cmp=er|more adv=guiltily
 guttural adj

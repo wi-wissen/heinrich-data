@@ -6,7 +6,7 @@ damnable adj adv=damnably
 damned adj
 damp adj cmp=er adv=damply
 dandy adj cmp=er
-dangerous adj comp=to prep=to|for cmp=more adv=dangerously
+dangerous adj comp=to|ing prep=to|for cmp=more adv=dangerously
 Danish adj
 daring adj cmp=more adv=daringly
 dark adj cmp=er adv=darkly
@@ -73,7 +73,7 @@ dense adj cmp=er adv=densely
 dental adj
 departmental adj
 dependable adj cmp=more
-dependent adj prep=on|upon xprep=from?|of? cmp=more
+dependent adj comp=p_ing|to prep=on|upon xprep=from? cmp=more
 deplorable adj cmp=more adv=deplorably
 depraved adj cmp=more
 depressed adj cmp=more
@@ -90,7 +90,7 @@ designate adj note=the minister designate
 desirable adj cmp=more
 desirous adj
 desolate adj adv=desolately
-desperate adj comp=to prep=for|about cmp=more adv=desperately
+desperate adj comp=to|that prep=for|about cmp=more adv=desperately
 despicable adj cmp=more adv=despicably
 despondent adj adv=despondently
 despotic adj
@@ -128,7 +128,7 @@ dietary adj
 different adj prep=from|to|than|in xprep=of cmp=more adv=differently
 differentiable adj
 differential adj
-difficult adj comp=to prep=for cmp=more
+difficult adj comp=to|ing prep=for cmp=more
 diffuse adj cmp=more
 digestive adj
 digital adj adv=digitally

@@ -956,7 +956,7 @@ consultee noun
 consumer noun
 consummation noun
 consumption noun pl=- note=uncountable
-contact noun prep=with|between xprep=to? vb=make|have|keep|maintain|lose|establish xvb=take>make
+contact noun prep=with|between xprep=to? vb=make|have|keep|maintain|lose|establish xvb=take>make?
 contagion noun
 container noun
 containment noun pl=- note=uncountable

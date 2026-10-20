@@ -281,7 +281,7 @@ biennial noun
 bight noun
 bigotry noun pl=- note=uncountable
 bijou noun pl=bijoux conf=90 note=a jewel or trinket
-bike noun vb=ride|park|get_on xvb=drive
+bike noun vb=ride|park|get_on xvb=drive?
 bikini noun
 bilberry noun
 bile noun pl=- note=uncountable

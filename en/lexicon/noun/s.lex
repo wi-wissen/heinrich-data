@@ -1050,7 +1050,7 @@ stomach noun pl=stomachs
 stomachache noun
 stone noun
 stool noun
-stop noun vb=make|put|bring
+stop noun vb=make|put
 stopover noun
 stoppage noun
 stopper noun

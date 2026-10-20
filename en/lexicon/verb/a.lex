@@ -73,7 +73,7 @@ affiliate verb
 affirm verb
 affix verb
 afflict verb
-afford verb comp=to
+afford verb comp=to|ing
 affront verb
 age verb ing=aging[US]|ageing[GB]
 aggravate verb
@@ -165,7 +165,7 @@ arrest verb
 arrive verb prep=at|in|on xprep=to?
 articulate verb
 ascend verb
-ascertain verb comp=that|wh
+ascertain verb comp=that|wh|obj_to
 ascribe verb
 ask verb comp=to|obj_to|that|wh prep=for|about|after|of
 asphalt verb
@@ -192,7 +192,7 @@ atrophy verb
 attach verb prep=to
 attack verb xprep=on?
 attain verb
-attempt verb comp=to
+attempt verb comp=to|ing
 attend verb prep=to
 attenuate verb
 attest verb
@@ -205,7 +205,7 @@ audition verb
 augment verb
 authenticate verb
 author verb
-authorize verb comp=obj_to gb=authorise|authorize
+authorize verb comp=obj_to|that gb=authorise|authorize
 autocomplete verb
 autograph verb
 automate verb

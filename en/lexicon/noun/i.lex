@@ -350,7 +350,7 @@ interurban noun note=interurban railway
 interval       noun
 intervenor noun conf=90 note=legal spelling; also intervener
 intervention   noun
-interview      noun vb=give|have|conduct|do xvb=make?
+interview      noun vb=do|have|give|conduct xvb=make?
 interviewee noun
 interviewer noun
 intestacy noun pl=- note=uncountable

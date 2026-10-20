@@ -4,7 +4,7 @@ wanton adj adv=wantonly
 warlike adj
 warm adj cmp=er adv=warmly
 warm-hearted adj cmp=more note=hearted is not a word on its own
-wary adj prep=of|about cmp=er|more adv=warily
+wary adj comp=p_ing|to prep=of|about cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
 watchful adj cmp=more
@@ -73,7 +73,7 @@ woolly adj cmp=er
 workable adj
 worldly adj cmp=more
 worldwide adj
-worried adj comp=to|that|p_ing prep=about|by|for cmp=more adv=worriedly
+worried adj comp=to|that|p_ing|wh prep=about|by|for cmp=more adv=worriedly
 worth adj comp=ing pred_only
 worthless adj
 worthwhile adj cmp=more

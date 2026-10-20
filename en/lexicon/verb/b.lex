@@ -39,7 +39,7 @@ batter verb
 battle verb
 bawl verb
 beam verb
-bear verb comp=to|ing|obj_to|obj_ing past=bore pp=borne|born note=born only in the sense of birth: he was born
+bear verb comp=to|ing|obj_to|obj_ing|that past=bore pp=borne|born note=born only in the sense of birth: he was born
 beat verb past=beat pp=beaten
 beatify verb
 beckon verb
