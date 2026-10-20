@@ -11,4 +11,5 @@ trimestriellement adv
 triomphalement adv
 triplement adv
 trivialement adv
+troisièmement adv
 tyranniquement adv

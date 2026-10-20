@@ -3,6 +3,7 @@ rabais noun g=m
 rabat noun g=m
 rabat-joie noun g=m|f pl=rabat-joie[trad]|rabat-joies[rect]
 rabatteur noun g=m f=rabatteuse
+rabbi noun g=m
 rabbin noun g=m
 râble noun g=m
 rabot noun g=m
@@ -155,7 +156,7 @@ rasage noun g=m
 rasoir noun g=m
 rassasiement noun g=m
 rassemblement noun g=m
-rat noun g=m
+rat noun g=m f=rate conf=90
 ratage noun g=m
 ratatouille noun g=f
 rate noun g=f
@@ -172,7 +173,8 @@ rationalisme noun g=m
 rationalité noun g=f
 rationnement noun g=m
 ratissage noun g=m
-raton noun g=m
+raton noun g=m sense=animal
+raton noun g=m sense=slur style=offensive alt=maghrébin
 rattachement noun g=m
 rattrapage noun g=m
 rature noun g=f
@@ -183,7 +185,7 @@ rave noun g=f
 ravelin noun g=m
 ravin noun g=m
 ravine noun g=f
-ravioli noun g=m
+ravioli noun g=m pl=raviolis|ravioli[trad]
 ravissement noun g=m
 ravisseur noun g=m f=ravisseuse
 ravitaillement noun g=m
@@ -245,7 +247,7 @@ recapitalisation noun g=f
 récapitulatif noun g=m
 récapitulation noun g=f
 recel noun g=m
-receleur noun g=m f=receleuse
+receleur noun g=m f=receleuse rect=recéleur
 recensement noun g=m
 recentrage noun g=m
 récépissé noun g=m
@@ -311,6 +313,7 @@ recordman noun g=m pl=recordmans|recordmen f=recordwoman
 recoupement noun g=m
 recours noun g=m
 recouvrement noun g=m
+récré noun g=f style=colloquial alt=récréation
 recréation noun g=f
 récréation noun g=f
 récrimination noun g=f
@@ -549,6 +552,7 @@ renard noun g=m f=renarde
 renardeau noun g=m
 renationalisation noun g=f
 renaturation noun g=f
+rencard noun g=m style=colloquial alt=rendez-vous note=variant spelling of rancard
 renchérissement noun g=m
 rencontre noun g=f
 rendement noun g=m
@@ -571,7 +575,7 @@ renoncement noun g=m
 renonciation noun g=f
 renoncule noun g=f
 renouveau noun g=m
-renouvellement noun g=m
+renouvellement noun g=m rect=renouvèlement
 rénovation noun g=f
 renseignement noun g=m
 rentabilité noun g=f
@@ -612,7 +616,7 @@ repli noun g=m
 réplication noun g=f
 repliement noun g=m
 réplique noun g=f
-répondant noun g=m
+répondant noun g=m f=répondante
 répondeur noun g=m
 répons noun g=m
 réponse noun g=f
@@ -647,7 +651,7 @@ réputation noun g=f
 requalification noun g=f
 requérant noun g=m f=requérante
 requête noun g=f
-requiem noun g=m
+requiem noun g=m pl=requiem[trad]|requiems[rect]
 requin noun g=m
 réquisition noun g=f
 réquisitoire noun g=m
@@ -700,11 +704,13 @@ ressortissant noun g=m f=ressortissante
 ressource noun g=f
 ressourcerie noun g=f
 restant noun g=m
+restau noun g=m style=colloquial alt=restaurant
 restaurant noun g=m
 restaurateur noun g=m f=restauratrice
 restauration noun g=f
 reste noun g=m
 restitution noun g=f
+resto noun g=m style=colloquial alt=restaurant
 restoroute noun g=m
 restriction noun g=f
 restructuration noun g=f
@@ -747,7 +753,7 @@ rétrocession noun g=f
 rétroéclairage noun g=m
 rétroprojecteur noun g=m
 rétrospective noun g=f
-retrouvailles noun g=f pl_only
+retrouvaille noun g=f note=mostly plural (retrouvailles)
 rétrovirus noun g=m
 rétroviseur noun g=m
 réunification noun g=f
@@ -783,14 +789,14 @@ revirement noun g=m
 réviseur noun g=m f=réviseuse
 révision noun g=f
 revitalisation noun g=f
-revival noun g=m
+revival noun g=m pl=revivals
 révocabilité noun g=f
 révocation noun g=f
 révolte noun g=f
 révolté noun g=m f=révoltée
 révolution noun g=f
 révolutionnaire noun g=m|f
-revolver noun g=m
+revolver noun g=m rect=révolver
 revoyure noun g=f style=colloquial note=only in à la revoyure
 revue noun g=f
 rez-de-chaussée noun g=m pl=rez-de-chaussée
@@ -835,6 +841,7 @@ rinçage noun g=m
 rinceau noun g=m
 rinçure noun g=f
 ring noun g=m
+rink noun g=m
 ripaille noun g=f
 riposte noun g=f
 rire noun g=m
@@ -843,7 +850,7 @@ risette noun g=f
 risotto noun g=m
 risque noun g=m
 ristourne noun g=f
-rital noun g=m f=ritale style=offensive alt=italien
+rital noun g=m f=ritale pl=ritals style=offensive alt=italien
 rite noun g=m
 ritournelle noun g=f
 rituel noun g=m
@@ -899,7 +906,7 @@ romarin noun g=m
 rombière noun g=f style=colloquial
 romsteck noun g=m
 ronce noun g=f
-rond-point noun g=m pl=ronds-points
+rond-point noun g=m pl=ronds-points rect=rondpoint rect_pl=rondpoints conf=90
 ronde noun g=f
 rondelle noun g=f
 rondeur noun g=f
@@ -911,10 +918,11 @@ ronron noun g=m
 ronronnement noun g=m
 roquefort noun g=m
 roquette noun g=f
-rorqual noun g=m
+rorqual noun g=m pl=rorquals
 rosace noun g=f
 rosaire noun g=m
-rosbif noun g=m
+rosbif noun g=m sense=roast
+rosbif noun g=m|f sense=english style=colloquial|offensive alt=anglais
 rose noun g=f sense=flower
 rose noun g=m sense=colour
 rosé noun g=m
@@ -930,6 +938,7 @@ rot noun g=m style=colloquial
 rotation noun g=f
 rotative noun g=f
 rôti noun g=m
+rotin noun g=m
 rôtisserie noun g=f
 rôtisseur noun g=m f=rôtisseuse
 rôtissoire noun g=f
@@ -939,6 +948,7 @@ rotule noun g=f
 roture noun g=f
 roturier noun g=m f=roturière
 rouage noun g=m
+rouble noun g=m
 roue noun g=f
 rouerie noun g=f
 rouet noun g=m
@@ -959,6 +969,7 @@ rouleur noun g=m
 roulier noun g=m
 roulis noun g=m
 roulotte noun g=f
+round noun g=m
 roupie noun g=f
 rouquin noun g=m f=rouquine style=colloquial
 rousseur noun g=f
@@ -991,7 +1002,7 @@ rugissement noun g=m
 ruine noun g=f
 ruisseau noun g=m
 ruisselet noun g=m
-ruissellement noun g=m
+ruissellement noun g=m rect=ruissèlement
 rumba noun g=f
 rumeur noun g=f
 ruminant noun g=m

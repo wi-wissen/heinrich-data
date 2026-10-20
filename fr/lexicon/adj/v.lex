@@ -9,7 +9,7 @@ vaillant adj adv=vaillamment
 vain adj adv=vainement
 vaincu adj
 valable adj adv=valablement
-valaisan adj
+valaisan adj f=valaisanne
 valdôtain adj
 valeureux adj
 valide adj
@@ -89,8 +89,9 @@ vexatoire adj
 viable adj
 viager adj
 vibrant adj
+vicelard adj style=colloquial alt=vicieux
 vicié adj
-vicieux adj
+vicieux adj adv=vicieusement
 vicinal adj
 victorien adj
 victorieux adj adv=victorieusement
@@ -146,7 +147,7 @@ volubile adj
 volumineux adj
 volumique adj
 voluptueux adj
-vorace adj
+vorace adj adv=voracement
 vosgien adj
 votant adj
 votif adj

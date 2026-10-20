@@ -13,6 +13,7 @@ zip noun g=m
 zizanie noun g=f
 zizi noun g=m style=colloquial
 zodiaque noun g=m
+zombi noun g=m note=variant spelling of zombie
 zombie noun g=m
 zona noun g=m
 zonage noun g=m

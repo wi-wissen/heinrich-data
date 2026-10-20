@@ -20,6 +20,7 @@ radiophonique adj
 radioscopique adj
 raffiné adj
 rafraîchissant adj rect=rafraichissant
+rageur adj f=rageuse adv=rageusement
 raide adj
 railleur adj f=railleuse
 raisonnable adj adv=raisonnablement
@@ -30,6 +31,7 @@ rampant adj
 rance adj
 rancunier adj
 rapace adj
+râpeux adj
 rapide adj adv=rapidement
 rapporteur adj f=rapporteuse
 rare adj adv=rarement
@@ -63,6 +65,7 @@ réceptif adj
 récessif adj
 recevable adj
 rechargeable adj
+rêche adj
 recherché adj
 récidiviste adj
 réciproque adj adv=réciproquement
@@ -92,7 +95,7 @@ rédempteur adj f=rédemptrice
 redevable adj
 redistributif adj
 redondant adj
-redoutable adj
+redoutable adj adv=redoutablement
 réducteur adj f=réductrice
 réductible adj
 réduit adj
@@ -115,6 +118,7 @@ régionaliste adj
 réglable adj
 réglé adj
 réglementaire adj rect=règlementaire
+réglo adj f=réglo style=colloquial alt=régulier
 régnant adj
 régressif adj
 regrettable adj
@@ -231,11 +235,12 @@ rieur adj f=rieuse
 rigide adj
 rigolo adj f=rigolote style=colloquial alt=drôle
 rigoureux adj adv=rigoureusement
+rikiki adj inv style=colloquial
 rimbaldien adj
 ringard adj style=colloquial alt=démodé
 risible adj
 risqué adj
-rituel adj
+rituel adj adv=rituellement
 rival adj
 riverain adj
 robotique adj
@@ -250,7 +255,7 @@ roman adj
 romanche adj
 romand adj
 romanesque adj
-romantique adj
+romantique adj adv=romantiquement
 rompu adj
 ronchon adj f=ronchonne style=colloquial
 rond adj

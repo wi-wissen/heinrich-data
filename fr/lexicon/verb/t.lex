@@ -3,6 +3,7 @@ tabasser verb style=colloquial alt=frapper
 tabler verb pp_inv
 tacher verb
 tâcher verb
+tacheter verb class=double_trad
 tacler verb
 taguer verb
 taillader verb
@@ -44,6 +45,7 @@ télescoper verb
 téléviser verb
 témoigner verb
 tempérer verb
+tempêter verb pp_inv
 temporiser verb
 tenailler verb
 tendre verb class=rendre
@@ -80,6 +82,7 @@ tondre verb class=rendre
 tonifier verb
 tonner verb
 toper verb pp_inv
+torcher verb style=colloquial
 tordre verb class=rendre
 torpiller verb
 torréfier verb
@@ -121,7 +124,7 @@ translater verb
 translittérer verb
 transmettre verb class=mettre
 transmuer verb
-transparaître verb class=connaître
+transparaître verb class=connaître pp_inv
 transpercer verb
 transpirer verb pp_inv
 transplanter verb
@@ -142,12 +145,13 @@ trémousser verb pronominal
 tremper verb
 trépasser verb aux=avoir|être style=literary
 trépigner verb pp_inv
-tressaillir verb class=assaillir
+tressaillir verb class=assaillir pp_inv
 tressauter verb pp_inv
 tresser verb
 tricher verb pp_inv
 tricoter verb
 trier verb
+trimbaler verb style=colloquial alt=transporter note=variant spelling of trimballer
 trimballer verb style=colloquial alt=transporter
 trimer verb pp_inv style=colloquial alt=travailler
 tringler verb style=vulgar

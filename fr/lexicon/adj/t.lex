@@ -81,7 +81,7 @@ texan adj
 textile adj
 textuel adj adv=textuellement
 thaï adj
-théâtral adj
+théâtral adj adv=théâtralement
 thématique adj
 théocratique adj
 théologique adj
@@ -114,6 +114,7 @@ tordant adj style=colloquial alt=drôle
 tordu adj
 torrentiel adj
 torride adj
+tors adj f=torse
 tortueux adj
 toscan adj
 total adj adv=totalement
@@ -136,7 +137,7 @@ tragi-comique adj
 tragique adj adv=tragiquement
 traînard adj rect=trainard
 traitant adj
-traître adj f=traîtresse rect=traitre
+traître adj f=traîtresse rect=traitre adv=traîtreusement
 tranchant adj
 tranquille adj adv=tranquillement
 transactionnel adj

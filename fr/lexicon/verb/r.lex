@@ -3,6 +3,7 @@ rabâcher verb
 rabaisser verb
 rabattre verb class=battre
 raboter verb
+rabrouer verb
 raccommoder verb
 raccompagner verb
 raccorder verb
@@ -13,6 +14,7 @@ racketter verb
 racler verb
 racoler verb
 raconter verb
+racornir verb class=ir
 radicaliser verb
 radier verb
 radiographier verb
@@ -33,7 +35,7 @@ rajeunir verb class=ir
 rajouter verb
 rajuster verb
 ralentir verb class=ir
-râler verb style=colloquial alt=protester
+râler verb pp_inv style=colloquial alt=protester
 rallier verb
 rallonger verb
 rallumer verb
@@ -52,9 +54,10 @@ râper verb
 rapetisser verb
 rapiécer verb
 rappeler verb class=double
-rappliquer verb style=colloquial alt=arriver
+rappliquer verb pp_inv style=colloquial alt=arriver
 rapporter verb
 rapprocher verb
+raquer verb style=colloquial alt=payer
 raser verb
 rassasier verb
 rassembler verb
@@ -101,6 +104,7 @@ rebaptiser verb
 rebâtir verb class=ir
 rebattre verb class=battre
 rebeller verb pronominal
+rebiffer verb pronominal style=colloquial
 reboiser verb
 rebondir verb class=ir pp_inv
 reboucher verb
@@ -114,7 +118,7 @@ recalibrer verb
 recapitaliser verb
 récapituler verb
 recaser verb
-receler verb note=è like geler
+receler verb rect=recéler note=è like geler
 recenser verb
 recentraliser verb
 recentrer verb
@@ -164,7 +168,7 @@ récrier verb pronominal
 récriminer verb pp_inv
 récrire verb class=écrire
 recroiser verb
-recroqueviller verb
+recroqueviller verb pronominal
 recruter verb
 rectifier verb
 recueillir verb class=cueillir
@@ -330,6 +334,7 @@ renfoncer verb
 renforcer verb
 renfrogner verb pronominal
 rengager verb
+rengorger verb pronominal
 renier verb
 renifler verb
 renommer verb
@@ -422,7 +427,7 @@ ressortir verb class=partir aux=avoir|être
 ressouder verb
 ressourcer verb
 ressouvenir verb class=venir pronominal style=literary
-ressurgir verb class=ir
+ressurgir verb class=ir pp_inv
 ressusciter verb aux=avoir|être
 restaurer verb
 rester verb aux=être
@@ -431,9 +436,10 @@ restreindre verb class=peindre
 restructurer verb
 résulter verb aux=avoir|être
 résumer verb
-resurgir verb class=ir
+resurgir verb class=ir pp_inv
 rétablir verb class=ir
 retaper verb
+retapisser verb
 retarder verb
 retéléphoner verb pp_inv
 retendre verb class=rendre
@@ -520,6 +526,7 @@ ronfler verb pp_inv
 ronger verb
 ronronner verb pp_inv
 roser verb
+rosir verb class=ir
 rosser verb style=colloquial
 roter verb pp_inv style=colloquial
 rôtir verb class=ir

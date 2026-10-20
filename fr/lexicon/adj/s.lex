@@ -4,7 +4,7 @@ sableux adj
 sablonneux adj
 saccadé adj
 sacerdotal adj
-sacré adj
+sacré adj adv=sacrément
 sacrificiel adj
 sacrifié adj
 sadique adj
@@ -39,9 +39,11 @@ sanguinaire adj
 sanguinolent adj
 sanitaire adj
 saoudien adj
+saoul adj f=saoule note=variant spelling of soûl
 sarcastique adj
 sarde adj
 sardonique adj
+satané adj style=colloquial
 satanique adj
 satellitaire adj
 satiné adj
@@ -60,7 +62,7 @@ savoyard adj
 saxon adj
 scabreux adj
 scalaire adj
-scandaleux adj
+scandaleux adj adv=scandaleusement
 scandinave adj
 scélérat adj
 scénique adj
@@ -118,9 +120,9 @@ sensé adj
 sensible adj adv=sensiblement
 sensitif adj
 sensoriel adj
-sensuel adj
-sentencieux adj
-sentimental adj
+sensuel adj adv=sensuellement
+sentencieux adj adv=sentencieusement
+sentimental adj adv=sentimentalement
 séparable adj
 séparatif adj
 séparatiste adj
@@ -166,7 +168,7 @@ simpliste adj
 simultané adj adv=simultanément
 sincère adj adv=sincèrement
 singulier adj adv=singulièrement
-sinistre adj
+sinistre adj adv=sinistrement
 sinistré adj
 sinueux adj
 sinusal adj
@@ -183,11 +185,12 @@ social adj adv=socialement
 social-démocrate adj pl=sociaux-démocrates fpl=sociales-démocrates f=sociale-démocrate
 socialiste adj
 sociétal adj
-socio-économique adj
+socio-économique adj rect=socioéconomique
 socioculturel adj
 sociologique adj
 socioprofessionnel adj
 socratique adj
+soi-disant adj inv
 soignant adj
 soigné adj
 soigneux adj adv=soigneusement
@@ -200,7 +203,7 @@ soluble adj
 solvable adj
 somalien adj
 somatique adj
-sombre adj
+sombre adj adv=sombrement
 sommaire adj adv=sommairement
 sommital adj
 somptuaire adj
@@ -217,10 +220,10 @@ soudain adj adv=soudainement
 soudanais adj
 souffrant adj
 souhaitable adj
-soûl adj f=soûle note=also spelled saoul
+soûl adj f=soûle rect=soul note=also spelled saoul
 soumis adj
 soupçonneux adj
-souple adj
+souple adj adv=souplement
 sourcilleux adj
 sourd adj
 souriant adj
@@ -242,7 +245,7 @@ soviétique adj
 soyeux adj
 spacieux adj
 spartiate adj
-spasmodique adj
+spasmodique adj adv=spasmodiquement
 spatial adj
 spécial adj adv=spécialement
 spécialisé adj
@@ -251,6 +254,7 @@ spécifique adj adv=spécifiquement
 spectaculaire adj
 spectral adj
 spéculatif adj
+speed adj inv style=colloquial
 sphérique adj
 spiritualiste adj
 spirituel adj adv=spirituellement
@@ -265,7 +269,8 @@ squelettique adj
 stabilisateur adj f=stabilisatrice
 stable adj
 stagnant adj
-standard adj
+stalinien adj
+standard adj f=standard pl=standards|standard fpl=standards|standard note=invariable in gender; plural varies
 stationnaire adj
 statique adj
 statistique adj adv=statistiquement
@@ -277,6 +282,7 @@ stimulant adj
 stochastique adj
 stoïcien adj
 stoïque adj
+stone adj inv style=colloquial
 stratégique adj
 stratifié adj
 stressant adj
@@ -304,7 +310,7 @@ sublime adj
 subordonné adj
 subrogé adj
 subsaharien adj
-subséquent adj
+subséquent adj adv=subséquemment
 subsidiaire adj
 subsonique adj
 substantiel adj adv=substantiellement
@@ -340,7 +346,7 @@ superficiel adj adv=superficiellement
 superflu adj
 supérieur adj f=supérieure
 supersonique adj
-superstitieux adj
+superstitieux adj adv=superstitieusement
 suppléant adj
 supplémentaire adj
 supplétif adj
@@ -350,6 +356,7 @@ supposé adj
 supranational adj
 suprême adj adv=suprêmement
 sûr adj adv=sûrement
+suraigu adj
 suranné adj
 surbaissé adj
 surdimensionné adj

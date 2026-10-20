@@ -21,7 +21,8 @@ vagabondage noun g=m
 vagin noun g=m
 vaginite noun g=f
 vagissement noun g=m
-vague noun g=f
+vague noun g=f sense=wave
+vague noun g=m sense=vagueness
 vaguelette noun g=f
 vaguemestre noun g=m
 vahiné noun g=f
@@ -40,6 +41,7 @@ validité noun g=f
 valise noun g=f
 vallée noun g=f
 vallon noun g=m
+valoche noun g=f style=colloquial alt=valise
 valorisation noun g=f
 valse noun g=f
 valseur noun g=m f=valseuse
@@ -56,6 +58,7 @@ vannerie noun g=f
 vantail noun g=m pl=vantaux
 vantard noun g=m f=vantarde
 vantardise noun g=f
+vape noun g=f style=colloquial note=mostly in dans les vapes
 vapeur noun g=f
 vapeur noun g=m sense=steamship
 vapeur noun g=f sense=steam
@@ -129,7 +132,7 @@ vendeur noun g=m f=vendeuse
 vendredi noun g=m
 venelle noun g=f
 vénération noun g=f
-vénerie noun g=f
+vénerie noun g=f rect=vènerie
 veneur noun g=m
 vengeance noun g=f
 vengeur noun g=m f=vengeresse
@@ -209,10 +212,10 @@ vestibule noun g=m
 vestige noun g=m
 veston noun g=m
 vêtement noun g=m
-vétéran noun g=m
+vétéran noun g=m f=vétérane
 vétérinaire noun g=m|f
 vétille noun g=f
-veto noun g=m rect=véto conf=90 note=traditional plural also invariable (des veto)
+veto noun g=m pl=veto rect=véto rect_pl=vétos
 vêture noun g=f
 vétusté noun g=f
 veuf noun g=m f=veuve
@@ -281,7 +284,7 @@ viguerie noun g=f
 vigueur noun g=f
 vilain noun g=m f=vilaine
 vilebrequin noun g=m
-vilenie noun g=f
+vilenie noun g=f rect=vilénie conf=80
 villa noun g=f
 village noun g=m
 villageois noun g=m f=villageoise
@@ -307,6 +310,7 @@ violoncelle noun g=m
 violoncelliste noun g=m|f
 violoneux noun g=m
 violoniste noun g=m|f
+vioque noun g=m|f style=colloquial alt=vieillard
 vipère noun g=f
 virage noun g=m
 virago noun g=f
@@ -355,7 +359,7 @@ vitiligo noun g=m
 vitrage noun g=m
 vitrail noun g=m pl=vitraux
 vitre noun g=f
-vitrier noun g=m
+vitrier noun g=m f=vitrière
 vitrification noun g=f
 vitrine noun g=f
 vitriol noun g=m
@@ -414,7 +418,7 @@ volt noun g=m
 voltage noun g=m
 volte noun g=f
 volte-face noun g=f pl=volte-face[trad]|volte-faces[rect]
-voltigeur noun g=m
+voltigeur noun g=m f=voltigeuse
 voltmètre noun g=m
 volubilité noun g=f
 volume noun g=m
@@ -423,9 +427,11 @@ volute noun g=f
 vomissement noun g=m
 vomitif noun g=m
 voracité noun g=f
+vortex noun g=m
 votant noun g=m f=votante
 votation noun g=f
 vote noun g=m
+vouivre noun g=f
 voûte noun g=f rect=voute
 vouvoiement noun g=m
 voyage noun g=m
@@ -437,7 +443,7 @@ voyelle noun g=f
 voyeur noun g=m f=voyeuse
 voyeurisme noun g=m
 voyou noun g=m note=plural voyous
-vrac noun g=m note=only in en vrac
+vrac noun g=m pl=- note=mostly in en vrac, no plural
 vraisemblance noun g=f
 vraquier noun g=m
 vrille noun g=f

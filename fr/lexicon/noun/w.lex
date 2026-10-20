@@ -6,11 +6,11 @@ wagon-restaurant noun g=m pl=wagons-restaurants
 wagonnet noun g=m
 wapiti noun g=m
 warrant noun g=m
-water-polo noun g=m pl=- note=no plural
+water-polo noun g=m pl=- rect=waterpolo note=no plural
 waters noun g=m pl_only style=colloquial alt=toilettes
 watt noun g=m
 wattmètre noun g=m
-web noun g=m
+web noun g=m pl=- note=no plural
 webcam noun g=f
 week-end noun g=m rect=weekend
 welter noun g=m

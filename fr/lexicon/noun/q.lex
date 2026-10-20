@@ -59,7 +59,7 @@ quiz noun g=m
 quolibet noun g=m
 quorum noun g=m
 quota noun g=m
-quote-part noun g=f pl=quotes-parts
+quote-part noun g=f pl=quotes-parts rect=quotepart rect_pl=quoteparts
 quotidien noun g=m
 quotidienneté noun g=f
 quotient noun g=m

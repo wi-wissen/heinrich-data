@@ -98,6 +98,7 @@ siroter verb
 situer verb
 skier verb pp_inv
 slalomer verb pp_inv
+sniffer verb style=colloquial
 snober verb
 socialiser verb
 sodomiser verb
@@ -125,7 +126,7 @@ souffrir verb class=ouvrir
 souhaiter verb
 souiller verb
 soulager verb
-soûler verb note=also spelled saouler
+soûler verb rect=souler note=also spelled saouler
 soulever verb
 souligner verb
 soumettre verb class=mettre
@@ -135,6 +136,7 @@ souper verb pp_inv
 soupeser verb
 soupirer verb
 sourciller verb pp_inv
+sourdre verb class=rendre defective=inf|3|ppr style=literary
 sourire verb class=rire
 sous-entendre verb class=rendre
 sous-estimer verb
@@ -170,6 +172,7 @@ stocker verb
 stopper verb
 stresser verb
 striduler verb pp_inv
+strier verb
 structurer verb
 stupéfier verb
 styliser verb
@@ -213,13 +216,13 @@ surcharger verb
 surchauffer verb
 surclasser verb
 surélever verb
-surenchérir verb class=ir
+surenchérir verb class=ir pp_inv
 surestimer verb
 surévaluer verb
 surexploiter verb
 surfer verb
 surgeler verb note=è like geler
-surgir verb class=ir
+surgir verb class=ir pp_inv
 surligner verb
 surmener verb
 surmonter verb

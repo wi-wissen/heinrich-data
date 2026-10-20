@@ -33,7 +33,7 @@ safran noun g=m
 saga noun g=f
 sagacité noun g=f
 sagaie noun g=f
-sage-femme noun g=f pl=sages-femmes
+sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=85
 sagesse noun g=f
 sagouin noun g=m style=colloquial
 saignée noun g=f
@@ -80,6 +80,7 @@ salonnard noun g=m style=colloquial
 saloon noun g=m
 salopard noun g=m f=saloparde style=vulgar
 salope noun g=f style=vulgar|offensive alt=garce
+saloperie noun g=f style=vulgar
 salopette noun g=f
 salpêtre noun g=m
 salsa noun g=f
@@ -90,8 +91,10 @@ salut noun g=m
 salutation noun g=f
 salve noun g=f
 samaritain noun g=m f=samaritaine
+samba noun g=f
 samedi noun g=m
 samouraï noun g=m
+samovar noun g=m
 sanatorium noun g=m
 sanctification noun g=f
 sanction noun g=f
@@ -141,7 +144,7 @@ satiété noun g=f
 satin noun g=m
 satire noun g=f
 satisfaction noun g=f
-satisfecit noun g=m rect=satisfécit conf=85 note=traditional plural also invariable
+satisfecit noun g=m pl=satisfecit rect=satisfécit rect_pl=satisfécits
 satrape noun g=m
 saturateur noun g=m
 saturation noun g=f
@@ -170,8 +173,8 @@ sauvageon noun g=m f=sauvageonne
 sauvagerie noun g=f
 sauvegarde noun g=f
 sauvetage noun g=m
-sauveteur noun g=m
-sauvette noun g=f note=only in à la sauvette
+sauveteur noun g=m f=sauveteuse
+sauvette noun g=f pl=- note=only in à la sauvette
 sauveur noun g=m
 savane noun g=f
 savant noun g=m f=savante
@@ -179,7 +182,7 @@ savate noun g=f
 savetier noun g=m
 saveur noun g=f
 savoir noun g=m
-savoir-faire noun g=m
+savoir-faire noun g=m pl=savoir-faire
 savoir-vivre noun g=m pl=- note=no plural
 savon noun g=m
 savonnette noun g=f
@@ -223,6 +226,7 @@ scientifique noun g=m|f
 scierie noun g=f
 scintigraphie noun g=f
 scintillation noun g=f
+scintillement noun g=m
 scission noun g=f
 sciure noun g=f
 sclérodermie noun g=f
@@ -335,10 +339,9 @@ sénateur noun g=m f=sénatrice
 sénéchal noun g=m
 sénéchaussée noun g=f
 sénescence noun g=f
-sénevé noun g=m
+sénevé noun g=m rect=sènevé
 sénilité noun g=f
-senior noun g=m|f
-sénior noun g=m|f
+senior noun g=m|f rect=sénior
 sens noun g=m
 sensation noun g=f
 senseur noun g=m
@@ -377,7 +380,8 @@ sérail noun g=m note=plural sérails
 sérénade noun g=f
 sérénité noun g=f
 serf noun g=m f=serve
-sergent noun g=m
+serge noun g=f
+sergent noun g=m f=sergente
 sérial noun g=m pl=sérials
 sériciculture noun g=f
 série noun g=f
@@ -436,17 +440,19 @@ shérif noun g=m
 shilling noun g=m
 shogun noun g=m
 shogunat noun g=m
+shoot noun g=m style=colloquial
 shopping noun g=m
 short noun g=m
 show noun g=m
 showroom noun g=m
 siamois noun g=m f=siamoise
-sida noun g=m
+sida noun g=m pl=- note=disease name, no plural
 sidérurgie noun g=f
 sidérurgiste noun g=m|f
 siècle noun g=m
 siège noun g=m
 sien noun g=m note=only in les siens (one's family); the pronoun is a closed-class entry
+sierra noun g=f
 sieste noun g=f
 sieur noun g=m style=archaic
 sifflement noun g=m
@@ -567,9 +573,10 @@ soja noun g=m
 sol noun g=m
 solaire noun g=m
 solarium noun g=m
-soldat noun g=m
+soldat noun g=m f=soldate
 soldatesque noun g=f
-solde noun g=m
+solde noun g=m sense=balance
+solde noun g=f sense=pay
 soldeur noun g=m f=soldeuse
 sole noun g=f
 solécisme noun g=m
@@ -670,8 +677,8 @@ souillon noun g=f
 souillure noun g=f
 souk noun g=m
 soulagement noun g=m
-soûlard noun g=m f=soûlarde style=colloquial alt=ivrogne
-soûlerie noun g=f
+soûlard noun g=m f=soûlarde rect=soulard style=colloquial alt=ivrogne
+soûlerie noun g=f rect=soulerie
 soulèvement noun g=m
 soulier noun g=m
 soulte noun g=f
@@ -685,7 +692,7 @@ souper noun g=m
 soupière noun g=f
 soupir noun g=m
 soupirail noun g=m pl=soupiraux
-soupirant noun g=m
+soupirant noun g=m f=soupirante
 souplesse noun g=f
 souplex noun g=m
 sourate noun g=f
@@ -719,13 +726,14 @@ sous-famille noun g=f pl=sous-familles
 sous-genre noun g=m pl=sous-genres
 sous-groupe noun g=m pl=sous-groupes
 sous-homme noun g=m pl=sous-hommes
-sous-lieutenant noun g=m pl=sous-lieutenants
+sous-lieutenant noun g=m f=sous-lieutenante pl=sous-lieutenants fpl=sous-lieutenantes
 sous-locataire noun g=m|f pl=sous-locataires
 sous-location noun g=f pl=sous-locations
-sous-main noun g=m pl=sous-mains
+sous-main noun g=m pl=sous-main[trad]|sous-mains[rect]
 sous-marin noun g=m pl=sous-marins
 sous-multiple noun g=m pl=sous-multiples
-sous-officier noun g=m pl=sous-officiers
+sous-off noun g=m pl=sous-offs style=colloquial alt=sous-officier
+sous-officier noun g=m f=sous-officière pl=sous-officiers fpl=sous-officières
 sous-pied noun g=m pl=sous-pieds
 sous-préfecture noun g=f pl=sous-préfectures
 sous-préfet noun g=m f=sous-préfète pl=sous-préfets fpl=sous-préfètes
@@ -734,10 +742,11 @@ sous-programme noun g=m pl=sous-programmes
 sous-pull noun g=m pl=sous-pulls
 sous-section noun g=f pl=sous-sections
 sous-sol noun g=m pl=sous-sols
+sous-titrage noun g=m pl=sous-titrages
 sous-titre noun g=m pl=sous-titres
 sous-total noun g=m pl=sous-totaux
 sous-traitance noun g=f pl=sous-traitances
-sous-traitant noun g=m pl=sous-traitants
+sous-traitant noun g=m f=sous-traitante pl=sous-traitants fpl=sous-traitantes
 sous-verre noun g=m pl=sous-verre[trad]|sous-verres[rect]
 sous-vêtement noun g=m pl=sous-vêtements
 souscripteur noun g=m f=souscriptrice
@@ -756,6 +765,7 @@ soutirage noun g=m
 souvenance noun g=f style=literary
 souvenir noun g=m
 souveraineté noun g=f
+soviet noun g=m
 spaghetti noun g=m pl=spaghettis|spaghetti[trad]
 spahi noun g=m
 spam noun g=m
@@ -959,7 +969,7 @@ subversion noun g=f
 suc noun g=m
 succédané noun g=m
 succès noun g=m
-successeur noun g=m
+successeur noun g=m f=successeure conf=80
 succession noun g=f
 succion noun g=f
 succursale noun g=f
@@ -968,7 +978,7 @@ suçon noun g=m
 sucre noun g=m
 sucrerie noun g=f
 sucrier noun g=m
-sud noun g=m
+sud noun g=m pl=- note=compass point, no plural
 sud-est noun g=m pl=- note=compass point, no plural
 sud-ouest noun g=m pl=- note=compass point, no plural
 sudation noun g=f
@@ -987,7 +997,8 @@ suintement noun g=m
 suite noun g=f
 suiveur noun g=m f=suiveuse
 suivi noun g=m
-sujet noun g=m
+sujet noun g=m sense=topic
+sujet noun g=m f=sujette sense=person
 sujétion noun g=f
 sulfamide noun g=m
 sulfate noun g=m
@@ -1059,7 +1070,7 @@ surélévation noun g=f
 surenchère noun g=f
 surendettement noun g=m
 surestimation noun g=f
-sûreté noun g=f
+sûreté noun g=f rect=sureté conf=80
 surexcitation noun g=f
 surexploitation noun g=f
 surexposition noun g=f
@@ -1072,6 +1083,7 @@ surgelé noun g=m
 surhomme noun g=m
 surimi noun g=m
 surimpression noun g=f
+surin noun g=m style=colloquial alt=couteau
 surintendance noun g=f
 surintendant noun g=m f=surintendante
 surlendemain noun g=m
@@ -1124,7 +1136,7 @@ suture noun g=f
 suzerain noun g=m f=suzeraine
 suzeraineté noun g=f
 sweat noun g=m style=colloquial alt=sweat-shirt
-sweat-shirt noun g=m pl=sweat-shirts
+sweat-shirt noun g=m pl=sweat-shirts rect=sweatshirt
 sybarite noun g=m|f
 sycomore noun g=m
 syllabaire noun g=m

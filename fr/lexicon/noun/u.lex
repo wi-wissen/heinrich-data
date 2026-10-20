@@ -10,7 +10,7 @@ ultra noun g=m|f
 ultrafiltration noun g=f
 ultrariche noun g=m|f
 ultrason noun g=m
-ululement noun g=m
+ululement noun g=m aspirate conf=80 note=elision varies
 unanimité noun g=f
 unicité noun g=f
 unification noun g=f
@@ -25,6 +25,7 @@ universalisme noun g=m
 universalité noun g=f
 universitaire noun g=m|f
 université noun g=f
+untel noun g=m f=unetelle conf=70 note=usually capitalised (Untel)
 uppercut noun g=m
 uranium noun g=m
 urbanisation noun g=f

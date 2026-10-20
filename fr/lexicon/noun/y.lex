@@ -6,10 +6,11 @@ yatagan noun g=m
 yen noun g=m
 yéti noun g=m
 yeuse noun g=f elide
-yiddish noun g=m
-yo-yo noun g=m rect=yoyo conf=90
+yiddish noun g=m pl=- note=language name, no plural
+yo-yo noun g=m pl=yo-yo rect=yoyo rect_pl=yoyos
 yod noun g=m
 yoga noun g=m
 yogourt noun g=m note=variant of yaourt
+yourte noun g=f
 youyou noun g=m pl=youyous
 ypérite noun g=f elide

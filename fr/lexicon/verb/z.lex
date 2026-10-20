@@ -7,3 +7,4 @@ zigzaguer verb pp_inv
 zipper verb
 zoomer verb
 zozoter verb pp_inv style=colloquial
+zyeuter verb style=colloquial alt=regarder note=variant spelling of zieuter

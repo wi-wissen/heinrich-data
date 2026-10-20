@@ -1,4 +1,5 @@
 # French lexicon: noun entries in t (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
+t-shirt noun g=m note=short form of tee-shirt
 tabac noun g=m
 tabagie noun g=f
 tabagisme noun g=m
@@ -33,14 +34,15 @@ taïga noun g=f
 taille noun g=f
 taille-crayon noun g=m pl=taille-crayon[trad]|taille-crayons[rect]
 taille-douce noun g=f pl=tailles-douces
-tailleur noun g=m
+tailleur noun g=m f=tailleuse
 taillis noun g=m
 tain noun g=m
 talc noun g=m
 talent noun g=m
-taliban noun g=m
+taliban noun g=m f=talibane conf=80
+talion noun g=m
 talisman noun g=m
-talkie-walkie noun g=m pl=talkies-walkies
+talkie-walkie noun g=m pl=talkies-walkies rect=talkiewalkie rect_pl=talkiewalkies
 taloche noun g=f
 talon noun g=m
 talonneur noun g=m
@@ -72,7 +74,8 @@ taoïsme noun g=m
 taon noun g=m
 tapage noun g=m
 tape noun g=f
-tapette noun g=f
+tapette noun g=f sense=swatter
+tapette noun g=f sense=slur style=offensive alt=homosexuel
 tapin noun g=m style=colloquial
 tapioca noun g=m
 tapis noun g=m
@@ -90,6 +93,7 @@ tarier noun g=m
 tarière noun g=f
 tarif noun g=m
 tarification noun g=f
+tarin noun g=m
 tarissement noun g=m
 tarot noun g=m
 tartan noun g=m
@@ -112,6 +116,7 @@ tatoueur noun g=m f=tatoueuse
 taudis noun g=m
 taulard noun g=m f=taularde style=colloquial alt=détenu
 taule noun g=f style=colloquial alt=prison
+taulier noun g=m f=taulière style=colloquial alt=patron
 taupe noun g=f
 taupinière noun g=f
 taureau noun g=m
@@ -126,6 +131,7 @@ taxidermiste noun g=m|f
 taximètre noun g=m
 taxon noun g=m
 taxonomie noun g=f
+team noun g=f style=colloquial alt=équipe
 technicien noun g=m f=technicienne
 technicité noun g=f
 technique noun g=f
@@ -138,7 +144,7 @@ teck noun g=m
 teckel noun g=m
 tectonique noun g=f
 tee noun g=m
-tee-shirt noun g=m note=also t-shirt
+tee-shirt noun g=m rect=teeshirt
 téflon noun g=m
 tégument noun g=m
 teigne noun g=f
@@ -216,7 +222,7 @@ ténacité noun g=f
 tenaille noun g=f
 tenailles noun g=f pl_only
 tenancier noun g=m f=tenancière
-tenant noun g=m
+tenant noun g=m f=tenante
 tendance noun g=f
 tender noun g=m
 tendeur noun g=m
@@ -241,7 +247,7 @@ tenture noun g=f
 tenue noun g=f
 tercet noun g=m
 térébenthine noun g=f
-tergal noun g=m
+tergal noun g=m pl=tergals
 tergiversation noun g=f
 terme noun g=m
 terminaison noun g=f
@@ -256,7 +262,7 @@ terrassement noun g=m
 terrassier noun g=m
 terre noun g=f
 terre-neuve noun g=m pl=terre-neuve[trad]|terre-neuves[rect]
-terre-plein noun g=m pl=terre-pleins
+terre-plein noun g=m pl=terre-pleins rect=terreplein
 terreau noun g=m
 terreur noun g=f
 terrien noun g=m f=terrienne
@@ -343,7 +349,7 @@ ticket-restaurant noun g=m pl=tickets-restaurants
 tiédeur noun g=f
 tiercé noun g=m
 tiers noun g=m
-tifs noun g=m pl_only style=colloquial alt=cheveux
+tif noun g=m style=colloquial alt=cheveu
 tige noun g=f
 tignasse noun g=f
 tigre noun g=m f=tigresse
@@ -353,7 +359,7 @@ timbre noun g=m
 timbre-poste noun g=m pl=timbres-poste
 timidité noun g=f
 timon noun g=m
-timonier noun g=m
+timonier noun g=m f=timonière
 tintamarre noun g=m
 tintement noun g=m
 tique noun g=f
@@ -381,6 +387,7 @@ tisseur noun g=m f=tisseuse
 tissu noun g=m
 titan noun g=m
 titane noun g=m
+titi noun g=m style=colloquial
 titrage noun g=m
 titre noun g=m
 titrisation noun g=f
@@ -418,6 +425,7 @@ tomme noun g=f
 tomographie noun g=f
 ton noun g=m
 tonalité noun g=f
+tondeur noun g=m f=tondeuse
 tondeuse noun g=f
 tonicité noun g=f
 tonnage noun g=m
@@ -473,6 +481,7 @@ totalisation noun g=f
 totalitarisme noun g=m
 totalité noun g=f
 totem noun g=m
+toubib noun g=m|f style=colloquial alt=médecin
 toucan noun g=m
 touche noun g=f
 touche-à-tout noun g=m|f pl=touche-à-tout
@@ -626,11 +635,11 @@ travail noun g=m pl=travaux
 travailleur noun g=m f=travailleuse
 travailliste noun g=m|f
 travée noun g=f
-travelling noun g=m
+travelling noun g=m rect=traveling conf=80
 travers noun g=m
 traversée noun g=f
 traversin noun g=m
-travesti noun g=m
+travesti noun g=m f=travestie conf=80
 travestissement noun g=m
 trébuchet noun g=m
 tréfilerie noun g=f
@@ -645,7 +654,7 @@ trémolo noun g=m
 trempe noun g=f
 trempette noun g=f
 tremplin noun g=m
-trench-coat noun g=m pl=trench-coats
+trench-coat noun g=m pl=trench-coats rect=trenchcoat
 trentaine noun g=f
 trentenaire noun g=m|f
 trépanation noun g=f
@@ -692,6 +701,7 @@ trinôme noun g=m
 trio noun g=m
 triomphateur noun g=m f=triomphatrice
 triomphe noun g=m
+trip noun g=m style=colloquial
 tripatouillage noun g=m style=colloquial
 tripe noun g=f
 triplé noun g=m
@@ -732,6 +742,7 @@ trop-plein noun g=m pl=trop-pleins
 trophée noun g=m
 tropique noun g=m
 troposphère noun g=f
+troquet noun g=m style=colloquial alt=café
 trot noun g=m
 trotskiste noun g=m|f
 trotteuse noun g=f
@@ -760,7 +771,7 @@ truquage noun g=m
 trust noun g=m
 tsar noun g=m
 tsarine noun g=f
-tsé-tsé noun g=f pl=tsé-tsé
+tsé-tsé noun g=f pl=tsé-tsé rect=tsétsé rect_pl=tsétsés
 tsigane noun g=m|f
 tsunami noun g=m
 tuba noun g=m
@@ -771,7 +782,7 @@ tubéreuse noun g=f
 tuerie noun g=f
 tueur noun g=m f=tueuse
 tuf noun g=m
-tuffeau noun g=m
+tuffeau noun g=m rect=tufeau conf=75
 tuile noun g=f
 tuilier noun g=m
 tulipe noun g=f
@@ -785,6 +796,7 @@ tunique noun g=f
 tunnel noun g=m
 tunnelier noun g=m
 turban noun g=m
+turbin noun g=m style=colloquial alt=travail
 turbine noun g=f
 turbocompresseur noun g=m
 turboréacteur noun g=m
