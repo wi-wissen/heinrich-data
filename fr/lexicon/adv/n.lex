@@ -1,3 +1,8 @@
-naguère     adv
-néanmoins   adv
-notamment   adv
+naguère       adv
+néanmoins     adv
+négligemment  adv
+nommément     adv
+nonchalamment adv
+notamment     adv
+nuitamment    adv
+numériquement adv
