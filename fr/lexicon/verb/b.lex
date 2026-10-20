@@ -39,7 +39,7 @@ batifoler      verb pp_inv
 bâtir          verb class=ir
 battre         verb class=battre
 bavarder       verb pp_inv
-bavasser       verb style=colloquial alt=bavarder
+bavasser       verb pp_inv style=colloquial alt=bavarder
 baver          verb
 bayer          verb note=bayer aux corneilles
 bazarder       verb style=colloquial
