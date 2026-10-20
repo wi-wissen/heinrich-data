@@ -78,9 +78,9 @@ The clean-room reviewer reported only "disputed" and "missing" items and statist
   `Coulthard`), the acronym `USSR` (names in capitals are now dropped by the assembly), the place
   names `Bletchley` and `Brompton` from the surnames, the characters `Heathcliff` and `Tybalt` and
   the surnames `Calloway`, `Danforth`, `Rigby`, `Wolfe`, `Fitz` from the given names (they stay
-  surnames). 41 given names used for both sexes moved to `u` (`Andrea`, `Jess`, `Nicola`, `Toni`,
+  surnames). 42 given names used for both sexes moved to `u` (`Andrea`, `Jess`, `Nicola`, `Toni`,
   `Robbie`, `Shea`, `Kiran`, `Chen` …); `Frances` is `f`. `word` marker removed from `Lesbos`,
-  added to 29 names whose lowercase form is an ordinary word (`Randy`, `Josh`, `Jimmy`, `Toby`,
+  added to 27 names whose lowercase form is an ordinary word (`Randy`, `Josh`, `Jimmy`, `Toby`,
   `Turner`, `Wright`, `Carter`, `Cox`, `Chad`, `Java`, `Bordeaux`, `Troy`, `Oxford`, `Ben` …).
   README: sorting described as it is (case-insensitive, accents folded).
 - **Missing, added in the reviewer's priority until the 25 KB budget was reached:** country
