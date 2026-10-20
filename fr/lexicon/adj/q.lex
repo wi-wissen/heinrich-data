@@ -6,8 +6,10 @@ qualifiant adj
 qualificatif adj
 qualifié adj
 qualitatif adj adv=qualitativement
+quantifiable adj
 quantique adj
 quantitatif adj adv=quantitativement
+quarantenaire adj
 québécois adj
 queer adj inv
 quelconque adj

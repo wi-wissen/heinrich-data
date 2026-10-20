@@ -5,7 +5,9 @@ unifier verb
 uniformiser verb
 unir verb class=ir
 urbaniser verb
+urger verb impersonal pp_inv style=colloquial
 uriner verb
 user verb
+usiner verb
 usurper verb
 utiliser verb

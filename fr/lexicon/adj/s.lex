@@ -5,10 +5,13 @@ sablonneux adj
 saccadé adj
 sacerdotal adj
 sacré adj
+sacrificiel adj
 sacrifié adj
 sadique adj
+safran adj inv
 sagace adj
 sage adj adv=sagement
+saharien adj
 sahraoui adj
 saignant adj
 saillant adj
@@ -22,14 +25,17 @@ salant adj
 salarial adj
 sale adj
 salé adj
+salésien adj
 salique adj
 salissant adj
 salivaire adj
 salubre adj
 salutaire adj
+salvateur adj f=salvatrice
 sanglant adj
 sanguin adj
 sanguinaire adj
+sanguinolent adj
 sanitaire adj
 saoudien adj
 sarcastique adj
@@ -37,6 +43,7 @@ sarde adj
 sardonique adj
 satanique adj
 satellitaire adj
+satiné adj
 satirique adj
 satisfaisant adj
 satisfait adj
@@ -44,6 +51,7 @@ sauf adj f=sauve
 saugrenu adj
 saumâtre adj
 saumon adj inv
+saur adj inv note=only in hareng saur
 sauvage adj adv=sauvagement
 savant adj adv=savamment
 savoureux adj
@@ -58,13 +66,17 @@ scénique adj
 sceptique adj
 schématique adj
 schismatique adj
+schizophrène adj
+sciatique adj
 scientifique adj adv=scientifiquement
 scolaire adj
 scolastique adj
 scrupuleux adj adv=scrupuleusement
+scrutateur adj f=scrutatrice
 sculptural adj
 séant adj
 sec adj f=sèche adv=sèchement
+sécant adj
 sécessionniste adj
 second adj
 secondaire adj adv=secondairement
@@ -82,11 +94,15 @@ séducteur adj f=séductrice
 séduisant adj
 séfarade adj
 seigneurial adj
+sélect adj style=colloquial
 sélectif adj
 sémantique adj
 semblable adj
 semestriel adj
+sémillant adj
+séminal adj
 sémitique adj
+sempiternel adj
 sénatorial adj
 sénégalais adj
 sénile adj
@@ -96,17 +112,21 @@ sensible adj adv=sensiblement
 sensitif adj
 sensoriel adj
 sensuel adj
+sentencieux adj
 sentimental adj
 séparatif adj
 séparatiste adj
 séparé adj adv=séparément
+sépia adj inv
 septentrional adj
+septique adj
 sépulcral adj
 séquentiel adj
 serbe adj
 serein adj adv=sereinement
 sériel adj
 sérieux adj adv=sérieusement
+séropositif adj
 serviable adj
 servile adj
 seul adj f=seule adv=seulement
@@ -117,7 +137,9 @@ sexuel adj adv=sexuellement
 sexy adj inv style=colloquial
 siamois adj
 sibérien adj
+sibyllin adj
 sicilien adj
+sidéral adj
 sidérurgique adj
 significatif adj adv=significativement
 sikh adj
@@ -125,6 +147,8 @@ silencieux adj adv=silencieusement
 siliceux adj
 similaire adj
 simple adj adv=simplement
+simplet adj f=simplette
+simplissime adj style=colloquial
 simpliste adj
 simultané adj adv=simultanément
 sincère adj adv=sincèrement
@@ -149,6 +173,7 @@ socio-économique adj
 socioculturel adj
 sociologique adj
 socioprofessionnel adj
+socratique adj
 soigné adj
 soigneux adj adv=soigneusement
 solaire adj
@@ -168,6 +193,7 @@ somptueux adj
 songeur adj f=songeuse
 sonore adj
 sophistiqué adj
+soporifique adj
 sordide adj
 sortant adj
 sot adj f=sotte adv=sottement
@@ -193,10 +219,12 @@ soutenable adj
 soutenu adj
 souterrain adj
 souverain adj adv=souverainement
+souverainiste adj
 soviétique adj
 soyeux adj
 spacieux adj
 spartiate adj
+spasmodique adj
 spatial adj
 spécial adj adv=spécialement
 spécialisé adj
@@ -209,7 +237,9 @@ sphérique adj
 spiritualiste adj
 spirituel adj adv=spirituellement
 splendide adj adv=splendidement
+spolié adj
 spongieux adj
+spongiforme adj
 spontané adj adv=spontanément
 sporadique adj
 sportif adj adv=sportivement
@@ -230,6 +260,7 @@ stochastique adj
 stoïcien adj
 stoïque adj
 stratégique adj
+stratifié adj
 stressant adj
 strict adj adv=strictement
 strident adj
@@ -246,6 +277,7 @@ stylistique adj
 suave adj
 subalterne adj
 subaquatique adj
+subconscient adj
 subit adj adv=subitement
 subjectif adj adv=subjectivement
 sublime adj
@@ -253,9 +285,11 @@ subordonné adj
 subsaharien adj
 subséquent adj
 subsidiaire adj
+subsonique adj
 substantiel adj adv=substantiellement
 subtil adj adv=subtilement
 subtropical adj
+suburbain adj
 subversif adj
 successif adj adv=successivement
 successoral adj
@@ -272,6 +306,7 @@ suggestif adj
 suicidaire adj
 suisse adj
 suivant adj
+suiveur adj f=suiveuse
 suivi adj
 sujet adj f=sujette
 sulfureux adj
@@ -289,10 +324,12 @@ supplétif adj
 suppliant adj
 supportable adj
 supposé adj
+supranational adj
 suprême adj adv=suprêmement
 sûr adj adv=sûrement
 suranné adj
 surbaissé adj
+surdimensionné adj
 surdoué adj
 surendetté adj
 surexcité adj
@@ -304,6 +341,7 @@ surnuméraire adj
 surpeuplé adj
 surprenant adj
 surréaliste adj
+survivant adj
 susceptible adj
 susmentionné adj
 suspect adj
@@ -330,3 +368,4 @@ syriaque adj
 syrien adj
 systématique adj adv=systématiquement
 systémique adj
+systolique adj

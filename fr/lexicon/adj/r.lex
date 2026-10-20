@@ -1,8 +1,10 @@
 # French lexicon: adj entries in r (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
+rabattable adj
 rabbinique adj
 rabougri adj
 racial adj
 raciste adj
+racoleur adj f=racoleuse
 radical adj adv=radicalement
 radieux adj
 radin adj style=colloquial alt=avare
@@ -19,12 +21,16 @@ raisonnable adj adv=raisonnablement
 raisonneur adj f=raisonneuse
 râleur adj f=râleuse style=colloquial
 rampant adj
+rance adj
 rancunier adj
 rapace adj
 rapide adj adv=rapidement
 rare adj adv=rarement
 rarissime adj
 ras adj f=rase
+rasant adj style=colloquial alt=ennuyeux
+rassembleur adj f=rassembleuse
+rassis adj f=rassise
 rassurant adj
 rasta adj f=rasta style=colloquial
 rationaliste adj
@@ -40,6 +46,7 @@ réactionnaire adj
 réactionnel adj
 réalisable adj
 réaliste adj
+rébarbatif adj
 rebelle adj
 récalcitrant adj
 récapitulatif adj
@@ -60,6 +67,7 @@ reconnu adj
 récréatif adj
 récréotouristique adj
 rectangulaire adj
+rectifiable adj
 rectificatif adj
 rectiligne adj
 reculé adj
@@ -73,6 +81,7 @@ redistributif adj
 redondant adj
 redoutable adj
 réducteur adj f=réductrice
+réductible adj
 réduit adj
 réel adj adv=réellement
 rééligible adj
@@ -95,10 +104,12 @@ regrettable adj
 régulateur adj f=régulatrice
 régulier adj adv=régulièrement
 réjouissant adj
+relaps adj f=relapse
 relatif adj adv=relativement
 relationnel adj
 relativiste adj
 religieux adj adv=religieusement
+reluisant adj
 remarquable adj adv=remarquablement
 remboursable adj
 remplaçable adj
@@ -116,7 +127,9 @@ répandu adj
 réparable adj
 réparateur adj f=réparatrice
 réparti adj
+repentant adj
 répétitif adj
+replet adj f=replète
 reposant adj
 repoussant adj
 répréhensible adj
@@ -124,9 +137,12 @@ représentatif adj
 répressif adj
 réprobateur adj f=réprobatrice
 reproducteur adj f=reproductrice
+reproductible adj
+reproductif adj
 repu adj
 républicain adj
 répugnant adj
+répulsif adj
 réputé adj
 requérant adj
 réservataire adj
@@ -149,8 +165,11 @@ ressemblant adj
 restauratif adj
 restreint adj
 restrictif adj
+retardateur adj f=retardatrice
+retardé adj
 retentissant adj
 réticent adj
+rétif adj
 retiré adj
 retors adj f=retorse
 rétractable adj
@@ -165,6 +184,7 @@ revanchard adj
 revêche adj
 révélateur adj f=révélatrice
 revendicatif adj
+révérencieux adj
 réversible adj
 rêveur adj f=rêveuse
 révisable adj
@@ -175,6 +195,7 @@ révolu adj
 révolutionnaire adj
 rhénan adj
 riant adj
+ricaneur adj f=ricaneuse
 riche adj
 richissime adj
 ridicule adj
@@ -182,6 +203,7 @@ rieur adj f=rieuse
 rigide adj
 rigolo adj f=rigolote style=colloquial alt=drôle
 rigoureux adj adv=rigoureusement
+ringard adj style=colloquial alt=démodé
 risible adj
 risqué adj
 rituel adj
@@ -202,17 +224,24 @@ romantique adj
 rompu adj
 ronchon adj f=ronchonne style=colloquial
 rond adj
+rondelet adj f=rondelette
+rosâtre adj
 rosé adj
 rotatif adj
+rotationnel adj
+rotatoire adj
 roturier adj
 roublard adj style=colloquial
 roué adj
 rouge adj
 rougeâtre adj
+rougeaud adj
 rouille adj inv
 rouillé adj
 roulant adj
+roulé adj
 roumain adj
+rouquin adj style=colloquial alt=roux
 roussâtre adj
 routier adj f=routière
 routinier adj
@@ -224,7 +253,9 @@ rudimentaire adj
 rugueux adj
 ruineux adj
 ruisselant adj
+ruminant adj
 rupestre adj
+rupin adj style=colloquial alt=riche
 rural adj
 rusé adj
 russe adj

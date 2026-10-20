@@ -1,5 +1,6 @@
 # French lexicon: adv entries in s (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 saintement adv
+salement adv
 schématiquement adv
 sciemment adv
 secondement adv
@@ -8,13 +9,21 @@ sitôt adv
 somptueusement adv
 soudain adv
 sourdement adv
+souterrainement adv
 souvent adv
+spatialement adv
+spectaculairement adv
 sporadiquement adv
+statiquement adv
 statutairement adv
+stoïquement adv
 stratégiquement adv
+suavement adv
 subrepticement adv
 succinctement adv
 supérieurement adv
 supposément adv
+surabondamment adv
 surtout adv
 symétriquement adv
+sympathiquement adv

@@ -8,19 +8,29 @@ vacation noun g=f
 vaccin noun g=m
 vaccination noun g=f
 vache noun g=f
+vacherie noun g=f style=colloquial
+vacherin noun g=m
+vacillement noun g=m
 vacuité noun g=f
+vacuum noun g=m
+vade-mecum noun g=m pl=vade-mecum note=1990 spelling vadémécum (two changes, not expressible with rect=)
 vadrouille noun g=f style=colloquial
 vagabond noun g=m f=vagabonde
 vagabondage noun g=m
 vagin noun g=m
+vagissement noun g=m
 vague noun g=f
 vaguelette noun g=f
+vaguemestre noun g=m
+vahiné noun g=f
 vaillance noun g=f
 vaincu noun g=m f=vaincue
 vainqueur noun g=m
+vairon noun g=m
 vaisseau noun g=m
 vaisselle noun g=f
 val noun g=m pl=vals|vaux[archaic]
+valériane noun g=f
 valet noun g=m
 valeur noun g=f
 validation noun g=f
@@ -30,19 +40,25 @@ vallée noun g=f
 vallon noun g=m
 valorisation noun g=f
 valse noun g=f
+valseur noun g=m f=valseuse
 valve noun g=f
+vamp noun g=f
 vampire noun g=m
 vandale noun g=m|f
 vandalisme noun g=m
 vanille noun g=f
 vanité noun g=f
 vanne noun g=f
+vanneau noun g=m
 vannerie noun g=f
 vantail noun g=m pl=vantaux
+vantard noun g=m f=vantarde
 vantardise noun g=f
 vapeur noun g=f
 vapeur noun g=m sense=steamship
+vapoteuse noun g=f
 varappe noun g=f
+varappeur noun g=m f=varappeuse
 varech noun g=m
 vareuse noun g=f
 variabilité noun g=f
@@ -50,13 +66,17 @@ variance noun g=f
 variant noun g=m
 variante noun g=f
 variation noun g=f
+varice noun g=f
 varicelle noun g=f
 variété noun g=f
 variole noun g=f
+varlope noun g=f
 vase noun g=m sense=vessel
 vase noun g=f sense=mud
+vasistas noun g=m
 vasque noun g=f
 vassal noun g=m f=vassale
+vassalité noun g=f
 vaudeville noun g=m
 vaudou noun g=m note=plural vaudous
 vaurien noun g=m f=vaurienne
@@ -64,10 +84,13 @@ vautour noun g=m
 veau noun g=m
 vecteur noun g=m
 vécu noun g=m
+vedettariat noun g=m
 vedette noun g=f
 végétal noun g=m
+végétalien noun g=m f=végétalienne
 végétalisation noun g=f
 végétarien noun g=m f=végétarienne
+végétarisme noun g=m
 végétation noun g=f
 véhémence noun g=f
 véhicule noun g=m
@@ -75,10 +98,12 @@ veille noun g=f
 veillée noun g=f
 veilleur noun g=m f=veilleuse
 veilleuse noun g=f
+veinard noun g=m f=veinarde style=colloquial
 veine noun g=f
 vélin noun g=m
 velléité noun g=f
 vélo noun g=m
+vélocipède noun g=m
 vélocité noun g=f
 vélodrome noun g=m
 vélomoteur noun g=m
@@ -87,9 +112,11 @@ velouté noun g=m
 venaison noun g=f
 vénalité noun g=f
 vendange noun g=f
+vendangeur noun g=m f=vendangeuse
 vendémiaire noun g=m
 vendeur noun g=m f=vendeuse
 vendredi noun g=m
+venelle noun g=f
 vénération noun g=f
 vénerie noun g=f
 veneur noun g=m
@@ -100,16 +127,19 @@ vent noun g=m
 vente noun g=f
 ventilateur noun g=m
 ventilation noun g=f
+ventilo noun g=m style=colloquial alt=ventilateur
 ventôse noun g=m
 ventouse noun g=f
 ventre noun g=m
 ventricule noun g=m
 ventriloque noun g=m|f
+ventriloquie noun g=f
 venue noun g=f
 vêpres noun g=f pl_only
 ver noun g=m
 véracité noun g=f
 véranda noun g=f
+verbalisation noun g=f
 verbe noun g=m
 verbiage noun g=m
 verdeur noun g=f
@@ -118,21 +148,29 @@ verdissement noun g=m
 verdure noun g=f
 verge noun g=f
 verger noun g=m
+vergeture noun g=f
 verglas noun g=m
 vergogne noun g=f note=only in sans vergogne
 vergue noun g=f
 vérificateur noun g=m f=vérificatrice
 vérification noun g=f
+vérin noun g=m
 vérité noun g=f
+vermicelle noun g=m
+vermifuge noun g=m
 vermillon noun g=m
 vermine noun g=f
+vermouth noun g=m
 vernis noun g=m
 vernissage noun g=m
 vérole noun g=f
+véronique noun g=f
 verre noun g=m
 verrerie noun g=f
 verrier noun g=m
 verrière noun g=f
+verrine noun g=f
+verroterie noun g=f
 verrou noun g=m note=plural verrous
 verrouillage noun g=m
 verrue noun g=f
@@ -164,10 +202,13 @@ vétéran noun g=m
 vétérinaire noun g=m|f
 vétille noun g=f
 veto noun g=m rect=véto conf=90 note=traditional plural also invariable (des veto)
+vêture noun g=f
 vétusté noun g=f
 veuf noun g=m f=veuve
+veulerie noun g=f
 veuvage noun g=m
 vexation noun g=f
+viabilisation noun g=f
 viabilité noun g=f
 viaduc noun g=m
 viager noun g=m
@@ -175,30 +216,41 @@ viande noun g=f
 viatique noun g=m
 vibraphone noun g=m
 vibration noun g=f
+vibrato noun g=m
+vibromasseur noun g=m
 vicaire noun g=m
 vicariat noun g=m
 vice noun g=m
 vice-amiral noun g=m pl=vice-amiraux
+vice-champion noun g=m f=vice-championne pl=vice-champions fpl=vice-championnes
 vice-président noun g=m f=vice-présidente pl=vice-présidents
 vice-roi noun g=m pl=vice-rois
+vichy noun g=m
 vicissitude noun g=f
 vicomte noun g=m f=vicomtesse
 vicomté noun g=f
 victime noun g=f
+victimisation noun g=f
 victoire noun g=f
 victuailles noun g=f pl_only
 vidame noun g=m
 vidange noun g=f
+vide-grenier noun g=m pl=vide-greniers
+vide-ordures noun g=m
 vidéaste noun g=m|f
 vidéo noun g=f
 vidéoclip noun g=m
 vidéoprotection noun g=f
 vidéosurveillance noun g=f
+vidéothèque noun g=f
+videur noun g=m f=videuse
 vie noun g=f
 vieillard noun g=m
+vieillerie noun g=f
 vieillesse noun g=f
 vieillissement noun g=m
 vielle noun g=f
+viennoiserie noun g=f
 vierge noun g=f
 vif noun g=m
 vigie noun g=f
@@ -208,6 +260,7 @@ vigne noun g=f
 vigneron noun g=m f=vigneronne
 vignette noun g=f
 vignoble noun g=m
+vigogne noun g=f
 viguerie noun g=f
 vigueur noun g=f
 vilain noun g=m f=vilaine
@@ -221,6 +274,7 @@ villégiature noun g=f
 vin noun g=m
 vinaigre noun g=m
 vinaigrette noun g=f
+vinasse noun g=f style=colloquial
 vindicte noun g=f
 vingtaine noun g=f
 vinification noun g=f
@@ -235,14 +289,19 @@ violeur noun g=m f=violeuse
 violon noun g=m
 violoncelle noun g=m
 violoncelliste noun g=m|f
+violoneux noun g=m
 violoniste noun g=m|f
 vipère noun g=f
 virage noun g=m
+virago noun g=f
 virée noun g=f style=colloquial
 virement noun g=m
 virginité noun g=f
 virgule noun g=f
 virilité noun g=f
+virologie noun g=f
+virologue noun g=m|f
+virtualisation noun g=f
 virtuose noun g=m|f
 virtuosité noun g=f
 virus noun g=m
@@ -250,6 +309,7 @@ vis noun g=f
 visa noun g=m
 visage noun g=m
 viscère noun g=m
+viscose noun g=f
 viscosité noun g=f
 visée noun g=f
 viseur noun g=m
@@ -257,6 +317,8 @@ visibilité noun g=f
 visière noun g=f
 visioconférence noun g=f
 vision noun g=f
+visionneuse noun g=f
+visiophonie noun g=f
 visite noun g=f
 visiteur noun g=m f=visiteuse
 visualisation noun g=f
@@ -268,21 +330,29 @@ viticulture noun g=f
 vitrage noun g=m
 vitrail noun g=m pl=vitraux
 vitre noun g=f
+vitrier noun g=m
+vitrification noun g=f
 vitrine noun g=f
 vitriol noun g=m
 vivacité noun g=f
+vivandière noun g=f
+vivarium noun g=m
 viveur noun g=m
 vivier noun g=m
+vivisection noun g=f
 vivres noun g=m pl_only
 vizir noun g=m
 vocable noun g=m
 vocabulaire noun g=m
+vocalise noun g=f
 vocaliste noun g=m|f
 vocation noun g=f
+vocifération noun g=f
 vodka noun g=f
 vœu noun g=m
 vogue noun g=f
 voie noun g=f
+voilage noun g=m
 voile noun g=m sense=veil
 voile noun g=f sense=sail
 voilette noun g=f
@@ -302,18 +372,21 @@ volant noun g=m
 volatile noun g=m
 volatilité noun g=f
 volcan noun g=m
+volcanologue noun g=m|f
 volée noun g=f
 volet noun g=m
 voleur noun g=m f=voleuse
 volière noun g=f
 volley noun g=m
 volley-ball noun g=m rect=volleyball pl=volley-balls note=plural rare
+volleyeur noun g=m f=volleyeuse
 volontaire noun g=m|f
 volontariat noun g=m
 volontarisme noun g=m
 volonté noun g=f
 volt noun g=m
 voltage noun g=m
+volte noun g=f
 volte-face noun g=f pl=volte-face[trad]|volte-faces[rect]
 voltigeur noun g=m
 volubilité noun g=f
@@ -329,15 +402,21 @@ voûte noun g=f rect=voute
 vouvoiement noun g=m
 voyage noun g=m
 voyageur noun g=m f=voyageuse
+voyagiste noun g=m|f
 voyance noun g=f
 voyant noun g=m f=voyante
 voyelle noun g=f
+voyeur noun g=m f=voyeuse
+voyeurisme noun g=m
 voyou noun g=m note=plural voyous
 vrac noun g=m note=only in en vrac
 vraisemblance noun g=f
+vraquier noun g=m
 vrille noun g=f
 vrombissement noun g=m
 vue noun g=f
+vulcanologue noun g=m|f
 vulgarisation noun g=f
 vulgarité noun g=f
 vulnérabilité noun g=f
+vulnéraire noun g=f

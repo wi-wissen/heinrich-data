@@ -2,6 +2,7 @@
 vacant adj
 vaccinal adj
 vacillant adj
+vagabond adj
 vaginal adj
 vague adj adv=vaguement
 vaillant adj adv=vaillamment
@@ -19,9 +20,11 @@ vaporeux adj
 variable adj
 varié adj
 vasculaire adj
+vaseux adj
 vaste adj
 vatican adj
 vaudois adj
+vaurien adj
 vectoriel adj
 végétal adj
 végétalien adj
@@ -30,6 +33,7 @@ végétatif adj
 véhément adj adv=véhémentement
 veinard adj style=colloquial alt=chanceux
 veiné adj
+veineux adj
 velouté adj
 velu adj
 vénal adj
@@ -40,12 +44,15 @@ vénérable adj
 vénérien adj
 vénézuélien adj
 vengeur adj f=vengeresse
+véniel adj
 venimeux adj
 vénitien adj
+venteux adj
 ventral adj
 ventru adj
 venu adj
 verbal adj adv=verbalement
+verbeux adj
 verdâtre adj
 verdoyant adj
 véreux adj
@@ -57,6 +64,7 @@ vermillon adj inv
 vermoulu adj
 vernaculaire adj
 verni adj
+vernissé adj
 versatile adj
 versé adj
 vert adj
@@ -67,10 +75,13 @@ vertigineux adj
 vertueux adj adv=vertueusement
 vestimentaire adj
 vétérinaire adj
+vétilleux adj
 vêtu adj
 vétuste adj
 veuf adj f=veuve
+veule adj
 vexant adj
+vexatoire adj
 viable adj
 viager adj
 vibrant adj
@@ -101,6 +112,7 @@ virginal adj
 viril adj
 virtuel adj adv=virtuellement
 virulent adj
+viscéral adj
 visible adj
 visionnaire adj
 visqueux adj
@@ -109,6 +121,7 @@ vital adj
 viticole adj
 vitré adj
 vitreux adj
+vivable adj
 vivace adj
 vivant adj
 vivifiant adj
@@ -123,6 +136,7 @@ volatil adj
 volcanique adj
 volontaire adj adv=volontairement
 volontariste adj
+voltairien adj
 volubile adj
 volumineux adj
 volumique adj
@@ -134,5 +148,6 @@ voûté adj rect=vouté
 voyant adj
 vrai adj adv=vraiment
 vraisemblable adj adv=vraisemblablement
+vrillé adj
 vulgaire adj adv=vulgairement
 vulnérable adj

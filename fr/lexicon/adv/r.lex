@@ -3,6 +3,7 @@ rageusement adv
 réglementairement adv rect=règlementairement
 rétroactivement adv
 rétrospectivement adv
+rêveusement adv
 richement adv
 ridiculement adv
 rondement adv

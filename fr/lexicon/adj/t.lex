@@ -6,10 +6,12 @@ taciturne adj
 tactile adj
 tactique adj
 tahitien adj
+taiseux adj
 talentueux adj
 tamoul adj f=tamoule
 tangent adj
 tangible adj
+tantrique adj
 tapageur adj f=tapageuse
 tape-à-l'œil adj inv
 tapi adj
@@ -17,6 +19,11 @@ taquin adj
 tardif adj adv=tardivement
 taré adj style=colloquial alt=fou
 tarifaire adj
+tartare adj
+tatillon adj
+tâtonnant adj
+taurin adj
+tavelé adj
 taxable adj
 taxonomique adj
 tchadien adj
@@ -26,24 +33,32 @@ tchétchène adj
 technique adj adv=techniquement
 technocratique adj
 technologique adj
+technophile adj
 tectonique adj
+teigneux adj
 téléchargeable adj
+télégénique adj
 télégraphique adj
 téléphonique adj
 télescopique adj
 télévisé adj
 télévisuel adj
+tellurique adj
 téméraire adj
+tempérant adj
 tempéré adj
+tempétueux adj
 temporaire adj adv=temporairement
 temporal adj
 temporel adj
 tenable adj
 tenace adj
 tendanciel adj
+tendancieux adj
 tendre adj adv=tendrement
 tendu adj
 ténébreux adj
+tennistique adj
 tentaculaire adj
 tentant adj
 tentateur adj f=tentatrice
@@ -59,7 +74,9 @@ territorial adj adv=territorialement
 terroriste adj
 tertiaire adj
 testamentaire adj
+tétraplégique adj
 têtu adj
+texan adj
 textile adj
 textuel adj adv=textuellement
 thaï adj
@@ -105,10 +122,13 @@ toulousain adj
 touristique adj
 tournant adj
 tout-puissant adj f=toute-puissante pl=tout-puissants fpl=toutes-puissantes
+toxicologique adj
 toxique adj
 traditionaliste adj
 traditionnel adj adv=traditionnellement
+traduisible adj
 tragique adj adv=tragiquement
+traînard adj rect=trainard
 traitant adj
 traître adj f=traîtresse rect=traitre
 tranchant adj
@@ -118,6 +138,7 @@ transcendantal adj
 transcontinental adj
 transfrontalier adj
 transfrontière adj
+transgénique adj
 transgenre adj
 transi adj
 transitif adj
@@ -139,24 +160,31 @@ travailliste adj
 traversier adj
 tremblant adj
 tremblotant adj
+trentenaire adj
 trépidant adj
 triangulaire adj
 tribal adj
 tributaire adj
 tricolore adj
 triennal adj
+trilingue adj
 trimestriel adj
 triomphal adj
 triomphant adj
 tripartite adj
+triphasé adj
 triple adj
+trisomique adj
 triste adj adv=tristement
 trivial adj
 trompeur adj f=trompeuse
 tropical adj
+trotskiste adj
 troublant adj
 trouillard adj style=colloquial alt=peureux
+truculent adj
 tsariste adj
+tsigane adj
 tubulaire adj
 tuméfié adj
 tumultueux adj
@@ -168,3 +196,4 @@ tutélaire adj
 typique adj adv=typiquement
 typographique adj
 tyrannique adj
+tyrolien adj

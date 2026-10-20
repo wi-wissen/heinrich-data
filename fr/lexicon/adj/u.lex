@@ -4,10 +4,15 @@ ukrainien adj
 ultérieur adj f=ultérieure adv=ultérieurement
 ultime adj
 ultramarin adj
+ultramoderne adj
 ultrapériphérique adj
+ultrasensible adj
+ultrasonique adj
 ultraviolet adj f=ultraviolette
 unanime adj adv=unanimement
 uni adj
+unidirectionnel adj
+unificateur adj f=unificatrice
 uniforme adj adv=uniformément
 unijambiste adj
 unilatéral adj adv=unilatéralement
@@ -34,3 +39,4 @@ utile adj adv=utilement
 utilisable adj
 utilitaire adj
 utopique adj
+utopiste adj
