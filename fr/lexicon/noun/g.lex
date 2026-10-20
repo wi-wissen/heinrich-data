@@ -9,6 +9,7 @@ gâchis         noun g=m
 gadget         noun g=m
 gadoue         noun g=f
 gaffe          noun g=f
+gaffeur        noun g=m f=gaffeuse style=colloquial alt=maladroit
 gag            noun g=m
 gage           noun g=m
 gageure        noun g=f
@@ -22,6 +23,7 @@ gaine          noun g=f
 gaîté          noun g=f rect=gaité note=spelling variant of gaieté
 gala           noun g=m
 galanterie     noun g=f
+galantine      noun g=f
 galaxie        noun g=f
 galbe          noun g=m
 gale           noun g=f
@@ -39,6 +41,7 @@ gallon         noun g=m
 galoche        noun g=f
 galon          noun g=m
 galop          noun g=m
+galopade       noun g=f
 galopin        noun g=m
 galvanisation  noun g=f
 gambade        noun g=f
@@ -64,6 +67,7 @@ garçonnet      noun g=m
 garçonnière    noun g=f
 garde          noun g=f sense=watch note=la garde: guarding, custody, the guard as a body
 garde          noun g=m sense=guard note=le garde: a person who guards (garde forestier); une garde is also used for a woman
+garde-à-vous   noun g=m pl=garde-à-vous
 garde-barrière noun g=m|f pl=gardes-barrières
 garde-boue     noun g=m pl=garde-boue[trad]|garde-boues[rect]
 garde-champêtre noun g=m pl=gardes-champêtres
@@ -84,7 +88,9 @@ gardon         noun g=m
 gare           noun g=f
 garenne        noun g=f
 gargarisme     noun g=m
+gargote        noun g=f
 gargouille     noun g=f
+gargouillement noun g=m
 garnement      noun g=m
 garnison       noun g=f
 garniture      noun g=f
@@ -101,23 +107,28 @@ gastro-entérologie noun g=f
 gastro-entérologue noun g=m|f pl=gastro-entérologues
 gastronome     noun g=m|f
 gastronomie    noun g=f
+gastroscopie   noun g=f
 gâteau         noun g=m
 gâterie        noun g=f
 gauche         noun g=f note=la gauche: left side, political left
 gaucher        noun g=m f=gauchère
 gaucherie      noun g=f
 gauchisme      noun g=m
+gauchissement  noun g=m
 gauchiste      noun g=m|f
+gaufrage       noun g=m
 gaufre         noun g=f
 gaufrette      noun g=f
 gaufrier       noun g=m
 gaule          noun g=f
 gaullisme      noun g=m
 gaulliste      noun g=m|f
+gauloiserie    noun g=f
 gavage         noun g=m
 gay            noun g=m
 gaz            noun g=m
 gaze           noun g=f
+gazéification  noun g=f
 gazelle        noun g=f
 gazette        noun g=f
 gazinière      noun g=f
@@ -126,12 +137,15 @@ gazole         noun g=m
 gazomètre      noun g=m
 gazon          noun g=m
 gazouillement  noun g=m
+gazouillis     noun g=m
 geai           noun g=m
 géant          noun g=m f=géante
 gecko          noun g=m
 gel            noun g=m
 gélatine       noun g=f
 gelée          noun g=f
+gélification   noun g=f
+gélinotte      noun g=f
 gélose         noun g=f
 gélule         noun g=f
 gemme          noun g=f
@@ -157,6 +171,7 @@ genèse         noun g=f
 genêt          noun g=m
 généticien     noun g=m f=généticienne
 génétique      noun g=f
+genette        noun g=f
 gêneur         noun g=m f=gêneuse
 genévrier      noun g=m
 génie          noun g=m
@@ -178,7 +193,9 @@ gentilhomme    noun g=m pl=gentilshommes
 gentilhommière noun g=f
 gentillesse    noun g=f
 gentleman      noun g=m pl=gentlemen
+gentrification noun g=f
 génuflexion    noun g=f
+géocodage      noun g=m
 géodésie       noun g=f
 géodynamique   noun g=f
 géographe      noun g=m|f
@@ -188,12 +205,16 @@ geôlier        noun g=m f=geôlière
 géolocalisation noun g=f
 géologie       noun g=f
 géologue       noun g=m|f
+géomatique     noun g=f
 géomètre       noun g=m|f
+géomètre-expert noun g=m|f pl=géomètres-experts
 géométrie      noun g=f
 géomorphologie noun g=f
 géophysicien   noun g=m f=géophysicienne
 géophysique    noun g=f
+géopoliticien  noun g=m f=géopoliticienne
 géopolitique   noun g=f
+géostratégie   noun g=f
 géothermie     noun g=f
 gérance        noun g=f
 géranium       noun g=m
@@ -203,9 +224,11 @@ gerboise       noun g=f
 gerçure        noun g=f
 gériatre       noun g=m|f
 gériatrie      noun g=f
+germanisation  noun g=f
 germaniste     noun g=m|f
 germe          noun g=m
 germination    noun g=f
+gérontocratie  noun g=f
 gérontologie   noun g=f
 gérontologue   noun g=m|f
 gestation      noun g=f
@@ -226,22 +249,27 @@ gigahertz      noun g=m
 gigantisme     noun g=m
 gigaoctet      noun g=m
 gigawatt       noun g=m
+gigolo         noun g=m style=colloquial
 gigot          noun g=m
 gigue          noun g=f
 gilet          noun g=m
 gin            noun g=m
 gingembre      noun g=m
 gingivite      noun g=f
+ginkgo         noun g=m
+ginseng        noun g=m
 girafe         noun g=f
 girandole      noun g=f
 girofle        noun g=m
 giroflée       noun g=f
+giroflier      noun g=m
 girolle        noun g=f
 giron          noun g=m
 girouette      noun g=f
 gisement       noun g=m
 gitan          noun g=m f=gitane
 gîte           noun g=m rect=gite
+givrage        noun g=m
 givre          noun g=m
 glaçage        noun g=m
 glace          noun g=f
@@ -259,13 +287,16 @@ glaise         noun g=f
 glaive         noun g=m
 gland          noun g=m
 glande         noun g=f
+glandeur       noun g=m f=glandeuse style=colloquial alt=fainéant|paresseux
 glaneur        noun g=m f=glaneuse
+glapissement   noun g=m
 glas           noun g=m
 glaucome       noun g=m
 glèbe          noun g=f
 glissade       noun g=f
 glisse         noun g=f note=sports de glisse
 glissement     noun g=m
+glisser-déposer noun g=m pl=- note=IT: drag and drop
 glissière      noun g=f
 globalisation  noun g=f
 globalité      noun g=f
@@ -278,7 +309,9 @@ gloriole       noun g=f
 glose          noun g=f
 glossaire      noun g=m
 glotte         noun g=f
+gloussement    noun g=m
 glouton        noun g=m f=gloutonne
+gloutonnerie   noun g=f
 glu            noun g=f
 glucide        noun g=m
 glucose        noun g=m
@@ -292,16 +325,23 @@ glyphosate     noun g=m
 gneiss         noun g=m
 gnome          noun g=m
 gnomon         noun g=m
+gnose          noun g=f
+gnosticisme    noun g=m
 gnostique      noun g=m|f
 gnou           noun g=m note=plural gnous
 goal           noun g=m
+gobe-mouches   noun g=m rect=gobe-mouche rect_pl=gobe-mouches
 gobelet        noun g=m
 godasse        noun g=f style=colloquial alt=chaussure
 godet          noun g=m
+godille        noun g=f
+godillot       noun g=m
 goéland        noun g=m
 goélette       noun g=f
+goémon         noun g=m
 goguette       noun g=f
 goinfre        noun g=m|f style=colloquial alt=glouton
+goinfrerie     noun g=f
 goitre         noun g=m
 golf           noun g=m
 golfe          noun g=m
@@ -323,6 +363,7 @@ gorille        noun g=m
 gosier         noun g=m
 gospel         noun g=m
 gosse          noun g=m|f style=colloquial alt=enfant
+gothique       noun g=m note=le gothique: the style
 gouache        noun g=f
 goudron        noun g=m
 goudronnage    noun g=m
@@ -334,16 +375,19 @@ goulag         noun g=m
 goulet         noun g=m
 goulot         noun g=m
 goupille       noun g=f
+goupillon      noun g=m
 gourde         noun g=f
 gourdin        noun g=m
 gourmand       noun g=m f=gourmande
 gourmandise    noun g=f
 gourmet        noun g=m
+gourmette      noun g=f
 gourou         noun g=m note=plural gourous
 gousse         noun g=f
 gousset        noun g=m
 goût           noun g=m rect=gout
 goûter         noun g=m rect=gouter note=afternoon snack
+goûteur        noun g=m f=goûteuse rect=gouteur
 goutte         noun g=f
 gouttelette    noun g=f
 gouttière      noun g=f
@@ -359,12 +403,14 @@ grabat         noun g=m
 grabataire     noun g=m|f
 grabuge        noun g=m style=colloquial alt=désordre|dispute
 grâce          noun g=f
+gracieuseté    noun g=f
 gradation      noun g=f
 grade          noun g=m
 gradé          noun g=m f=gradée
 gradient       noun g=m
 gradin         noun g=m
 graduation     noun g=f
+graffeur       noun g=m f=graffeuse
 graffiti       noun g=m pl=graffiti[trad]|graffitis[rect] conf=85 note=traditionally the plural of graffito
 grain          noun g=m
 graine         noun g=f
@@ -379,6 +425,7 @@ grand-angle    noun g=m pl=grands-angles
 grand-croix    noun g=f pl=grands-croix note=la grand-croix (dignity); un grand-croix (holder) is also used
 grand-duc      noun g=m pl=grands-ducs
 grand-duché    noun g=m pl=grands-duchés
+grand-livre    noun g=m pl=grands-livres
 grand-maître   noun g=m pl=grands-maîtres rect=grand-maitre
 grand-maman    noun g=f pl=grands-mamans|grand-mamans style=colloquial alt=grand-mère
 grand-mère     noun g=f pl=grands-mères
@@ -398,6 +445,7 @@ grandeur       noun g=f
 grange         noun g=f
 granit         noun g=m
 granite        noun g=m note=variant of granit, common in geology
+granité        noun g=m
 granularité    noun g=f
 granulat       noun g=m
 granulé        noun g=m
@@ -413,12 +461,14 @@ graphite       noun g=m
 graphologie    noun g=f
 graphologue    noun g=m|f
 grappe         noun g=f
+grappillage    noun g=m
 grappin        noun g=m
 gratification  noun g=f
 gratin         noun g=m
 gratitude      noun g=f
 grattage       noun g=m
 gratte-ciel    noun g=m pl=gratte-ciel[trad]|gratte-ciels[rect]
+gratte-dos     noun g=m pl=gratte-dos
 gratte-papier  noun g=m pl=gratte-papier[trad]|gratte-papiers[rect]
 grattoir       noun g=m
 gratuité       noun g=f
@@ -432,12 +482,14 @@ gravitation    noun g=f
 gravité        noun g=f
 gravure        noun g=f
 gré            noun g=m pl=- note=only in set phrases: de bon gré, au gré de, savoir gré
+grèbe          noun g=m
 grec           noun g=m note=the Greek language; the person is the propn Grec
 gredin         noun g=m f=gredine
 gréement       noun g=m
 greffage       noun g=m
 greffe         noun g=f sense=graft
 greffe         noun g=m sense=registry note=le greffe: court registry office
+greffeur       noun g=m f=greffeuse
 greffier       noun g=m f=greffière
 greffon        noun g=m
 grêle          noun g=f
@@ -446,6 +498,7 @@ grelot         noun g=m
 grenade        noun g=f
 grenadier      noun g=m
 grenadine      noun g=f
+grenaille      noun g=f
 grenat         noun g=m
 grenier        noun g=m
 grenouille     noun g=f
@@ -472,6 +525,7 @@ grimace        noun g=f
 grimoire       noun g=m
 grimpeur       noun g=m f=grimpeuse
 grincement     noun g=m
+grincheux      noun g=m f=grincheuse
 gringalet      noun g=m
 griotte        noun g=f
 grippe         noun g=f
@@ -481,13 +535,17 @@ griserie       noun g=f
 grisette       noun g=f
 grisou         noun g=m note=plural grisous
 grive          noun g=f
+grivoiserie    noun g=f
 grizzly        noun g=m
 grog           noun g=m
+grognard       noun g=m
 grogne         noun g=f
 grognement     noun g=m
+groin          noun g=m
 grondement     noun g=m
 grondin        noun g=m
 groom          noun g=m
+gros-bec       noun g=m pl=gros-becs
 gros-porteur   noun g=m pl=gros-porteurs
 groseille      noun g=f
 groseillier    noun g=m
@@ -515,6 +573,7 @@ guenon         noun g=f
 guépard        noun g=m
 guêpe          noun g=f
 guêpier        noun g=m
+guêpière       noun g=f
 guéridon       noun g=m
 guérilla       noun g=f
 guérillero     noun g=m
@@ -528,6 +587,7 @@ guet-apens     noun g=m pl=guets-apens
 guêtre         noun g=f
 guetteur       noun g=m f=guetteuse
 gueule         noun g=f
+gueule-de-loup noun g=f pl=gueules-de-loup
 gueuleton      noun g=m style=colloquial alt=festin|repas
 gueux          noun g=m f=gueuse
 gui            noun g=m
@@ -552,9 +612,11 @@ guitariste     noun g=m|f
 gymnase        noun g=m
 gymnaste       noun g=m|f
 gymnastique    noun g=f
+gymnosperme    noun g=f
 gynécée        noun g=m
 gynécologie    noun g=f
 gynécologue    noun g=m|f
+gypaète        noun g=m
 gypse          noun g=m
 gyrophare      noun g=m
 gyroscope      noun g=m
