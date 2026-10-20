@@ -24,6 +24,8 @@ build scripts and finished language packs.
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
   protocol: `en/lexicon/AUTHORING.md`
+- `en/names/` – English given names, surnames and place names (own lists, with a marker for names
+  that are also ordinary words; `en/names/README.md`)
 - `de/phon/` – pronunciation exceptions
 - `thesaurus/` – third-party thesauri (OpenThesaurus CC BY-SA 4.0, Open English WordNet CC BY 4.0), unchanged,
   for the optional thesaurus packs only; lexicon authors must not read it (`thesaurus/README.md`)
