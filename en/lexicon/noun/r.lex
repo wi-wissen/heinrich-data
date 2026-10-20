@@ -217,7 +217,7 @@ reek noun
 reel noun
 reentry noun note=re-entry is the usual British spelling
 reevaluation noun conf=90 note=also re-evaluation
-ref noun style=colloquial note=referee; reference
+ref noun style=colloquial alt=referee|reference note=referee; reference
 refectory noun
 referee noun
 reference noun
@@ -244,7 +244,7 @@ refund noun
 refurbishment noun
 refusal noun
 refuse noun pl=- note=rubbish
-reg noun style=colloquial note=short for regulation, mainly plural regs
+reg noun style=colloquial alt=regulation note=short for regulation, mainly plural regs
 regard noun
 regency noun
 regeneration noun pl=- note=uncountable

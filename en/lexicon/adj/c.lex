@@ -158,7 +158,7 @@ combustible adj
 comedic adj
 comely adj cmp=er
 comfortable adj cmp=more adv=comfortably
-comfy adj cmp=er style=colloquial
+comfy adj cmp=er style=colloquial alt=comfortable
 comic adj
 comical adj adv=comically
 commemorative adj

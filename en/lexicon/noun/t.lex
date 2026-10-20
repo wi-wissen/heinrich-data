@@ -117,7 +117,7 @@ television noun
 teleworking noun pl=- note=uncountable
 teller noun
 telltale noun
-temp noun style=colloquial note=temporary worker; also short for temperature
+temp noun style=colloquial alt=temporary_worker|temperature note=temporary worker; also short for temperature
 temper noun
 temperament noun
 temperance noun pl=- note=uncountable
@@ -318,7 +318,7 @@ tonsillitis noun pl=- note=uncountable
 tool noun
 toolbar noun
 toolkit noun
-toon noun style=colloquial conf=80 note=short for cartoon
+toon noun style=colloquial alt=cartoon conf=80 note=short for cartoon
 tooth noun pl=teeth
 toothache noun
 toothbrush noun

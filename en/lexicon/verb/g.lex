@@ -13,7 +13,7 @@ gas            verb
 gasp           verb
 gather         verb
 gauge          verb
-gawp verb region=GB style=colloquial
+gawp verb region=GB style=colloquial alt=stare
 gaze           verb
 gazette verb note=to announce officially (gazetted)
 gear           verb

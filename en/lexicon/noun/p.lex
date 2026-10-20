@@ -1,4 +1,4 @@
-pa noun style=colloquial note=father
+pa noun style=colloquial alt=father note=father
 pace noun
 pacemaker noun
 pacification noun
@@ -30,7 +30,7 @@ paisley noun
 pajamas noun pl_only gb=pyjamas
 Paki noun style=offensive note=slur for South Asians, especially Pakistanis
 Pakistani noun note=demonym or religious name, capitalized
-pal noun style=colloquial
+pal noun style=colloquial alt=friend
 palace noun
 palate noun
 palaver noun

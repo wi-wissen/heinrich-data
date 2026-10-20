@@ -1,5 +1,5 @@
 MA             noun abbr note=Master of Arts; also Massachusetts
-ma             noun style=colloquial note=mother
+ma             noun style=colloquial alt=mother note=mother
 ma'am          noun note=contraction of madam, form of address
 mac            noun conf=80 note=raincoat (GB, short for mackintosh); also short for Macintosh computer
 mace noun
@@ -343,7 +343,7 @@ midwife noun pl=midwives
 mien noun
 migrant        noun
 migration      noun
-mike noun style=colloquial note=short for microphone
+mike noun style=colloquial alt=microphone note=short for microphone
 mil noun conf=90 note=thousandth of an inch; colloquially a million
 mile           noun
 mileage noun
@@ -417,7 +417,7 @@ miss           noun note=title and young woman
 missile        noun
 mission        noun
 missionary     noun
-missus noun style=colloquial
+missus noun style=colloquial alt=wife
 missy noun style=colloquial
 mist           noun
 mistake        noun
@@ -436,7 +436,7 @@ mix            noun
 mixer noun
 mixtape noun
 mixture        noun
-mo noun style=colloquial conf=90 note=moment (half a mo)
+mo noun style=colloquial alt=moment conf=90 note=moment (half a mo)
 moan noun
 moat noun
 mob            noun

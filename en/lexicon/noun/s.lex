@@ -505,7 +505,7 @@ Sioux noun pl=Sioux
 sir noun
 sire noun
 siren noun
-sis noun style=colloquial pl=- note=sister, as a form of address
+sis noun style=colloquial alt=sister pl=- note=sister, as a form of address
 sister noun
 sister-in-law noun pl=sisters-in-law
 sitcom noun
@@ -884,7 +884,7 @@ starling noun
 starter noun
 startup noun
 starvation noun
-stat noun style=colloquial note=short for statistic
+stat noun style=colloquial alt=statistic note=short for statistic
 state noun
 statehood noun pl=- note=uncountable
 statement noun

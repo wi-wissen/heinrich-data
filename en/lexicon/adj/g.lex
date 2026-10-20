@@ -49,7 +49,7 @@ gilded         adj
 gilt adj
 ginger adj
 gingerly adj
-ginormous adj style=colloquial
+ginormous adj style=colloquial alt=enormous
 girlish adj
 glacial adj
 glad           adj cmp=er adv=gladly

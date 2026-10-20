@@ -336,7 +336,7 @@ longfin noun conf=90 note=fish name modifier, as in longfin tuna
 longing       noun
 longitude noun
 longline noun
-loo noun region=GB style=colloquial note=toilet
+loo noun region=GB style=colloquial alt=toilet note=toilet
 look          noun
 look-alike noun note=also written lookalike
 lookback noun conf=85 note=mostly attributive: lookback period

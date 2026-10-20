@@ -335,7 +335,7 @@ hospice        noun
 hospital       noun
 hospitality    noun pl=- note=uncountable
 hospitalization noun gb=hospitalisation|hospitalization
-hoss noun style=colloquial note=dialect for horse
+hoss noun style=colloquial alt=horse note=dialect for horse
 host           noun
 hostage        noun
 hostel noun
@@ -365,7 +365,7 @@ howl noun
 HQ noun abbr note=headquarters
 hub            noun
 hubbub noun
-hubby noun style=colloquial
+hubby noun style=colloquial alt=husband
 hue            noun
 huff noun
 hug noun

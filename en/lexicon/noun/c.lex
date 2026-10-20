@@ -1272,7 +1272,7 @@ curvature noun
 curve noun
 cushion noun
 cusp noun
-cuss noun style=colloquial
+cuss noun style=colloquial alt=curse
 custard noun
 custodian noun
 custody noun pl=- note=uncountable

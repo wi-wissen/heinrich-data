@@ -1,6 +1,6 @@
 Iberian adj
 Icelandic      adj
-icky adj style=colloquial
+icky adj style=colloquial alt=unpleasant
 iconic         adj
 icy adj cmp=er adv=icily
 ideal          adj adv=ideally

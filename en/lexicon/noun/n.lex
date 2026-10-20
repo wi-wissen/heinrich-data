@@ -6,7 +6,7 @@ name          noun
 nameplate noun
 namesake      noun
 nan noun region=GB style=colloquial note=grandmother; also naan bread
-nana noun style=colloquial note=grandmother
+nana noun style=colloquial alt=grandmother note=grandmother
 nap noun
 napkin noun
 nappy noun region=GB note=US diaper

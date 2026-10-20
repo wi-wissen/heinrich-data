@@ -157,7 +157,7 @@ dine verb
 dip verb
 direct verb
 dirty verb
-dis verb 3sg=disses style=colloquial conf=80 note=to disrespect; also spelled diss
+dis verb 3sg=disses style=colloquial alt=disrespect conf=80 note=to disrespect; also spelled diss
 disable verb
 disadvantage verb
 disagree verb

@@ -233,7 +233,7 @@ bereavement noun
 berry noun
 berth noun
 besieger noun
-bestie noun style=colloquial
+bestie noun style=colloquial alt=best_friend
 bestseller noun
 bet noun
 beta noun

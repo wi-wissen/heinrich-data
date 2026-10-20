@@ -392,7 +392,7 @@ curtsey verb
 curtsy verb
 curve verb
 cushion verb
-cuss verb style=colloquial
+cuss verb style=colloquial alt=curse
 customize verb gb=customise|customize
 cut verb past=cut pp=cut
 cycle verb

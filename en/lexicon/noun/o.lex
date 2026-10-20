@@ -81,7 +81,7 @@ onlooker noun
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
-op noun style=colloquial note=short for operation: photo op, special ops
+op noun style=colloquial alt=operation note=short for operation: photo op, special ops
 opacity noun
 opal noun
 opener noun
