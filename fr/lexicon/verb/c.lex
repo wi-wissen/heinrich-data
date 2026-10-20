@@ -408,6 +408,7 @@ coupler         verb
 courber         verb
 courir          verb class=courir
 couronner       verb
+courre verb class=irr defective=inf note=only in chasse à courre, laisser courre
 courroucer      verb
 courser         verb
 court-circuiter verb
@@ -453,7 +454,7 @@ croasser        verb pp_inv
 crocheter       verb note=è like acheter
 croire          verb class=croire
 croiser         verb
-croître         verb class=irr pres=croîs,croîs,croît,croissons,croissez,croissent ps=crûs,crûs,crût,crûmes,crûtes,crûrent subj_impf=crûsse,crûsses,crût,crûssions,crûssiez,crûssent fut=croîtrai pp=crû,crue,crus,crues
+croître         verb class=irr inf=croître[trad]|croitre[rect] pres=croîs,croîs,croît,croissons,croissez,croissent ps=crûs,crûs,crût,crûmes,crûtes,crûrent subj_impf=crûsse,crûsses,crût,crûssions,crûssiez,crûssent fut=croîtrai[trad]|croitrai[rect] pp=crû,crue,crus,crues
 croquer         verb
 crotter         verb
 crouler         verb
