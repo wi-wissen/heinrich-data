@@ -5,6 +5,9 @@ ultime adj
 ultramarin adj
 unanime adj adv=unanimement
 uniforme adj
+unilatéral adj adv=unilatéralement
+uninominal adj
+unipersonnel adj
 unique adj adv=uniquement
 unitaire adj
 universel adj
@@ -12,3 +15,5 @@ universitaire adj
 urbain adj
 urgent adj
 utile adj adv=utilement
+utilisable adj
+utilitaire adj

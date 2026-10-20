@@ -1,24 +1,37 @@
 # French lexicon: noun entries in r (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
+rabais noun g=m
+rabot noun g=m
 raccordement noun g=m
 race noun g=f
 rachat noun g=m
 racine noun g=f
 racisme noun g=m
+raciste noun g=m|f
 radar noun g=m
+rade noun g=f
 radiation noun g=f
 radio noun g=f
+radiodiffusion noun g=f
+radon noun g=m
+rafale noun g=f
+raffinerie noun g=f
 rage noun g=f
+raie noun g=f
 rail noun g=m note=plural rails
 raison noun g=f
 raisonnement noun g=m
+râle noun g=m
+ralliement noun g=m
 rallye noun g=m
 rame noun g=f
 rameau noun g=m
 rampe noun g=f
+ranch noun g=m pl=ranchs|ranches
 rancune noun g=f
 randonnée noun g=f
 rang noun g=m
 rap noun g=m
+rapatriement noun g=m
 rapidité noun g=f
 rappel noun g=m
 rappeur noun g=m f=rappeuse
@@ -27,28 +40,46 @@ rapporteur noun g=m f=rapporteure|rapporteuse
 rapprochement noun g=m
 rassemblement noun g=m
 rat noun g=m
+rate noun g=f
+raté noun g=m
 ratification noun g=f
+ratio noun g=m
+ravage noun g=m
+ravin noun g=m
+ravissement noun g=m
 ravitaillement noun g=m
 rayon noun g=m
 rayonnement noun g=m
 réacteur noun g=m
+réactif noun g=m
 réaction noun g=f
+réadaptation noun g=f
 réalisateur noun g=m f=réalisatrice
 réalisation noun g=f
 réalisme noun g=m
 réalité noun g=f
+réaménagement noun g=m
 réassurance noun g=f
 rebelle noun g=m|f
 rébellion noun g=f
+reboisement noun g=m
 rebond noun g=m
+rebord noun g=m
+récapitulatif noun g=m
 recensement noun g=m
 récépissé noun g=m
+récepteur noun g=m
 réception noun g=f
 recette noun g=f
+recevabilité noun g=f
 receveur noun g=m f=receveuse
+rechange noun g=m
 réchauffement noun g=m
 recherche noun g=f
 récidive noun g=f
+récif noun g=m
+récipiendaire noun g=m|f
+récipient noun g=m
 récit noun g=m
 réclamation noun g=f
 reclassement noun g=m
@@ -61,10 +92,15 @@ reconstruction noun g=f
 record noun g=m
 recours noun g=m
 recouvrement noun g=m
+récréation noun g=f
+recrue noun g=f
 recrutement noun g=m
+rectangle noun g=m
 recteur noun g=m f=rectrice
 rectification noun g=f
+recto noun g=m
 recueil noun g=m
+recueillement noun g=m
 recul noun g=m
 récupération noun g=f
 recyclage noun g=m
@@ -73,31 +109,45 @@ rédaction noun g=f
 redécoupage noun g=m
 redevance noun g=f
 redingote noun g=f
+redistribution noun g=f
+redoublement noun g=m
 redressement noun g=m
 réduction noun g=f
+réécriture noun g=f
 réédition noun g=f
+réélection noun g=f
+rééquilibrage noun g=m
+réévaluation noun g=f
+réfection noun g=f
+réfectoire noun g=m
 référence noun g=f
 référendum noun g=m
 référent noun g=m f=référente
 référentiel noun g=m
 reflet noun g=m
+réflexe noun g=m
 réflexion noun g=f
 refondation noun g=f
 refonte noun g=f
+réformateur noun g=m f=réformatrice
 réforme noun g=f
+réfractaire noun g=m|f
 refrain noun g=m
 refroidissement noun g=m
 refuge noun g=m
 réfugié noun g=m f=réfugiée
 refus noun g=m
+regain noun g=m
 regard noun g=m
 régence noun g=f
 régent noun g=m f=régente
+reggae noun g=m
 régie noun g=f
 régime noun g=m
 régiment noun g=m
 région noun g=f
 registre noun g=m
+réglage noun g=m
 règle noun g=f
 règlement noun g=m
 réglementation noun g=f rect=règlementation
@@ -105,10 +155,10 @@ règne noun g=m
 regret noun g=m
 regroupement noun g=m
 régularité noun g=f
+régulateur noun g=m
 régulation noun g=f
 réhabilitation noun g=f
 rein noun g=m
-reine noun g=f note=also generated as the feminine of roi; kept for chess and bee senses
 réinsertion noun g=f
 réintégration noun g=f
 rejet noun g=m
@@ -116,24 +166,34 @@ relâche noun g=f
 relais noun g=m
 relance noun g=f
 relation noun g=f
+relativité noun g=f
 relégation noun g=f
 relèvement noun g=m
 relief noun g=m
 religion noun g=f
 relique noun g=f
+relocalisation noun g=f
+relogement noun g=m
+remaniement noun g=m
 remarque noun g=f
 remboursement noun g=m
 remède noun g=m
+remerciement noun g=m
 remix noun g=m
+remontrance noun g=f
 remords noun g=m
+remous noun g=m
 rempart noun g=m
+remplaçant noun g=m f=remplaçante
 remplacement noun g=m
+remplissage noun g=m
 rémunération noun g=f
 renaissance noun g=f
 renard noun g=m f=renarde
 rencontre noun g=f
 rendement noun g=m
 rendez-vous noun g=m
+rêne noun g=f
 renforcement noun g=m
 renfort noun g=m
 renommée noun g=f
@@ -146,17 +206,24 @@ rentabilité noun g=f
 rente noun g=f
 renvoi noun g=m
 réorganisation noun g=f
+réorientation noun g=f
+repaire noun g=m
+réparateur noun g=m f=réparatrice
 réparation noun g=f
 répartition noun g=f
 repas noun g=m
 repentir noun g=m
+repérage noun g=m
 répertoire noun g=m
 répétition noun g=f
+répit noun g=m
 repli noun g=m
 réplique noun g=f
 réponse noun g=f
 report noun g=m
+reportage noun g=m
 repos noun g=m
+repreneur noun g=m f=repreneuse
 représailles noun g=f pl_only
 représentant noun g=m f=représentante
 représentation noun g=f
@@ -166,20 +233,27 @@ reproche noun g=m
 reproduction noun g=f
 république noun g=f
 réputation noun g=f
+requalification noun g=f
 requête noun g=f
+requiem noun g=m
+requin noun g=m
 réquisition noun g=f
 réseau noun g=m
 réserve noun g=f
+réserviste noun g=m|f
 réservoir noun g=m
 résidence noun g=f
 résident noun g=m f=résidente
 résignation noun g=f
 résiliation noun g=f
+résine noun g=f
 résistance noun g=f
 résistant noun g=m f=résistante
 résolution noun g=f
+résonance noun g=f
 respect noun g=m
 respiration noun g=f
+responsabilisation noun g=f
 responsabilité noun g=f
 responsable noun g=m|f
 ressemblance noun g=f
@@ -188,6 +262,7 @@ ressortissant noun g=m f=ressortissante
 ressource noun g=f
 restant noun g=m
 restaurant noun g=m
+restaurateur noun g=m f=restauratrice
 restauration noun g=f
 reste noun g=m
 restitution noun g=f
@@ -198,35 +273,49 @@ résurrection noun g=f
 rétablissement noun g=m
 retard noun g=m
 rétention noun g=f
+retentissement noun g=m
+réticence noun g=f
 retour noun g=m
 retrait noun g=m
 retraite noun g=f
 retraité noun g=m f=retraitée
+réunification noun g=f
 réunion noun g=f
 réussite noun g=f
 revalorisation noun g=f
 revanche noun g=f
 rêve noun g=m
 réveil noun g=m
+révélateur noun g=m
 révélation noun g=f
 revendication noun g=f
 revenu noun g=m
 rêverie noun g=f
 revers noun g=m
+revêtement noun g=m
+rêveur noun g=m f=rêveuse
 révision noun g=f
 révocation noun g=f
 révolte noun g=f
+révolté noun g=m f=révoltée
 révolution noun g=f
 revue noun g=f
 rez-de-chaussée noun g=m pl=rez-de-chaussée
 rhétorique noun g=f
+rhinocéros noun g=m
+rhume noun g=m
 richesse noun g=f
+ride noun g=f
 rideau noun g=m
+rigidité noun g=f
 rigueur noun g=f
+rime noun g=f
 ring noun g=m
+riposte noun g=f
 rire noun g=m
 risque noun g=m
 rite noun g=m
+rituel noun g=m
 rivage noun g=m
 rival noun g=m f=rivale
 rivalité noun g=f
@@ -235,32 +324,51 @@ riverain noun g=m f=riveraine
 rivière noun g=f
 riz noun g=m
 robe noun g=f
+robinet noun g=m
+robot noun g=m
+rocade noun g=f
 roche noun g=f
 rocher noun g=m
 rock noun g=m
 roi noun g=m f=reine
 rôle noun g=m
+rôle-titre noun g=m pl=rôles-titres
 roman noun g=m
 romancier noun g=m f=romancière
+romantisme noun g=m
+rond-point noun g=m pl=ronds-points
 ronde noun g=f
+rongeur noun g=m
+rosaire noun g=m
 rose noun g=f sense=flower
 rose noun g=m sense=colour
+rosé noun g=m
+roseau noun g=m
 rosée noun g=f
 rosette noun g=f
+rosier noun g=m
 rossignol noun g=m
 rotation noun g=f
+rotonde noun g=f
 roue noun g=f
+rougeur noun g=f
+rouille noun g=f
 roulement noun g=m
 route noun g=f
 routier noun g=m
+routine noun g=f
 royaliste noun g=m|f
 royaume noun g=m
 ruban noun g=m
 rubrique noun g=f
+ruche noun g=f
+rudesse noun g=f
 rue noun g=f
+ruelle noun g=f
 rugby noun g=m
 ruine noun g=f
 ruisseau noun g=m
+ruissellement noun g=m
 rumeur noun g=f
 rupture noun g=f
 ruralité noun g=f
