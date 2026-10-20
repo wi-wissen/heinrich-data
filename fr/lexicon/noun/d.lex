@@ -1,17 +1,23 @@
 # French lexicon, noun, letter d (clean-room, own knowledge)
+dactyle noun g=m
+dactylo noun g=m|f note=typist (une dactylo); also short for dactylographie
+dactylographie noun g=f
 dada noun g=m
+dadaïsme noun g=m
 dague noun g=f
 dahlia noun g=m
 daim noun g=m f=daine
 dais noun g=m
 dallage noun g=m
 dalle noun g=f
+daltonien noun g=m f=daltonienne
 damas noun g=m
 dame noun g=f
 damier noun g=m
 damnation noun g=f
 damoiseau noun g=m f=damoiselle
 dancing noun g=m
+dandinement noun g=m
 dandy noun g=m
 dandysme noun g=m
 danger noun g=m
@@ -20,14 +26,18 @@ danois noun g=m f=danoise note=lowercase common noun: the language; inhabitants 
 danse noun g=f
 danseur noun g=m f=danseuse
 dard noun g=m
+darse noun g=f
 darwinisme noun g=m
 datation noun g=f
+datcha noun g=f
 date noun g=f
 datif noun g=m
 dation noun g=f
 datte noun g=f
 dattier noun g=m
+datura noun g=m
 dauphin noun g=m f=dauphine
+daurade noun g=f note=also spelt dorade
 dé noun g=m
 déambulatoire noun g=m
 débâcle noun g=f
@@ -55,12 +65,16 @@ débroussaillement noun g=m
 débudgétisation noun g=f
 début noun g=m
 débutant noun g=m f=débutante
+déca noun g=m style=colloquial alt=décaféiné
 décade noun g=f
 décadence noun g=f
+décaféiné noun g=m
 décalage noun g=m
+décalcomanie noun g=f
 décantation noun g=f
 décapage noun g=m
 décapitation noun g=f
+décapotable noun g=f
 décarbonation noun g=f
 décathlon noun g=m
 décélération noun g=f
@@ -76,18 +90,22 @@ déchargement noun g=m
 déchéance noun g=f
 déchet noun g=m
 déchetterie noun g=f note=also spelt déchèterie
+déchiffrage noun g=m
 déchiffrement noun g=m
 déchirement noun g=m
 déchirure noun g=f
 décibel noun g=m
 décideur noun g=m f=décideuse
 décile noun g=m
+décimale noun g=f
 décime noun g=m
+décimètre noun g=m
 décision noun g=f
 déclamation noun g=f
 déclarant noun g=m f=déclarante
 déclaration noun g=f
 déclassement noun g=m
+déclassification noun g=f
 déclenchement noun g=m
 déclencheur noun g=m
 déclic noun g=m
@@ -99,10 +117,14 @@ déco noun g=f style=colloquial alt=décoration
 décoction noun g=f
 décodage noun g=m
 décodeur noun g=m
+décoffrage noun g=m
 décollage noun g=m
+décollation noun g=f
 décollement noun g=m
 décolletage noun g=m
+décolleté noun g=m
 décolonisation noun g=f
+décoloration noun g=f
 décombres noun g=m pl_only
 décomposition noun g=f
 décompression noun g=f
@@ -114,6 +136,7 @@ déconnexion noun g=f
 déconsidération noun g=f
 déconstruction noun g=f
 décontamination noun g=f
+décontraction noun g=f
 déconvenue noun g=f
 décor noun g=m
 décorateur noun g=m f=décoratrice
@@ -130,6 +153,7 @@ découverte noun g=f
 découvreur noun g=m f=découvreuse
 décret noun g=m
 décret-loi noun g=m pl=décrets-lois
+décriminalisation noun g=f
 décrochage noun g=m
 décroissance noun g=f
 décryptage noun g=m
@@ -144,9 +168,12 @@ déductibilité noun g=f
 déduction noun g=f
 défaillance noun g=f
 défaite noun g=f
+défaitisme noun g=m
+défaitiste noun g=m|f
 défausse noun g=f
 défaut noun g=m
 défaveur noun g=f
+défécation noun g=f
 défection noun g=f
 défectuosité noun g=f
 défendeur noun g=m f=défenderesse
@@ -159,6 +186,7 @@ défiance noun g=f
 défibrillateur noun g=m
 déficience noun g=f
 déficit noun g=m
+défiguration noun g=f
 défilé noun g=m
 défilement noun g=m
 définition noun g=f
@@ -175,20 +203,25 @@ dégât noun g=m
 dégazage noun g=m
 dégel noun g=m
 dégénérescence noun g=f
+dégivrage noun g=m
 déglutition noun g=f
 dégoût noun g=m rect=dégout
 dégradation noun g=f
+dégraissage noun g=m
 degré noun g=m
 dégressivité noun g=f
 dégrèvement noun g=m
 dégringolade noun g=f
 déguisement noun g=m
+dégustateur noun g=m f=dégustatrice
 dégustation noun g=f
+déhanchement noun g=m
 dehors noun g=m
 déification noun g=f
 déisme noun g=m
 déiste noun g=m|f
 déité noun g=f
+déjà-vu noun g=m pl=déjà-vu
 déjection noun g=f
 déjeuner noun g=m
 délabrement noun g=m
@@ -215,8 +248,12 @@ délitement noun g=m
 délivrance noun g=f
 délocalisation noun g=f
 delta noun g=m
+deltaplane noun g=m
+deltoïde noun g=m
 déluge noun g=m
+démago noun g=m|f style=colloquial alt=démagogue
 démagogie noun g=f
+démagogue noun g=m|f
 demande noun g=f
 demandeur noun g=m f=demandeuse|demanderesse note=demanderesse in law
 démangeaison noun g=f
@@ -235,8 +272,10 @@ dément noun g=m f=démente
 démenti noun g=m
 demeure noun g=f
 demi noun g=m note=glass of beer; half-back; la demie = half hour
+demi-bouteille noun g=f pl=demi-bouteilles
 demi-brigade noun g=f pl=demi-brigades
 demi-cercle noun g=m pl=demi-cercles
+demi-deuil noun g=m pl=demi-deuils
 demi-dieu noun g=m pl=demi-dieux
 demi-douzaine noun g=f pl=demi-douzaines
 demi-finale noun g=f pl=demi-finales
@@ -247,16 +286,21 @@ demi-heure noun g=f pl=demi-heures
 demi-jour noun g=m pl=demi-jours
 demi-journée noun g=f pl=demi-journées
 demi-lieue noun g=f pl=demi-lieues
+demi-litre noun g=m pl=demi-litres
 demi-lune noun g=f pl=demi-lunes
 demi-mesure noun g=f pl=demi-mesures
+demi-monde noun g=m pl=demi-mondes
 demi-mot noun g=m pl=demi-mots
 demi-obscurité noun g=f pl=demi-obscurités
 demi-part noun g=f pl=demi-parts
+demi-pension noun g=f pl=demi-pensions
+demi-pensionnaire noun g=m|f pl=demi-pensionnaires
 demi-saison noun g=f pl=demi-saisons
 demi-seconde noun g=f pl=demi-secondes
 demi-siècle noun g=m pl=demi-siècles
 demi-sœur noun g=f pl=demi-sœurs
 demi-solde noun g=m pl=demi-soldes note=a half-pay officer (le demi-solde); la demi-solde = the pay
+demi-sphère noun g=f pl=demi-sphères
 demi-teinte noun g=f pl=demi-teintes
 demi-tour noun g=m pl=demi-tours
 demi-vie noun g=f pl=demi-vies
@@ -280,8 +324,11 @@ démonstrateur noun g=m f=démonstratrice
 démonstration noun g=f
 démontage noun g=m
 démoralisation noun g=f
+démotivation noun g=f
 démultiplication noun g=f
 dénaturation noun g=f
+dénazification noun g=f
+dendrochronologie noun g=f
 dénégation noun g=f
 déneigement noun g=m
 dengue noun g=f
@@ -301,15 +348,21 @@ densification noun g=f
 densité noun g=f
 dent noun g=f
 dentelle noun g=f
+dentellière noun g=f
 dentelure noun g=f
+dentier noun g=m
 dentifrice noun g=m
 dentiste noun g=m|f
+dentisterie noun g=f
 dentition noun g=f
 denture noun g=f
 dénuement noun g=m
+dénutrition noun g=f
+déodorant noun g=m
 déontologie noun g=f
 déontologue noun g=m|f
 dépannage noun g=m
+dépanneur noun g=m f=dépanneuse note=la dépanneuse is also the tow truck
 départ noun g=m
 département noun g=m
 départementalisation noun g=f
@@ -337,12 +390,16 @@ dépositaire noun g=m|f
 déposition noun g=f
 dépossession noun g=f
 dépôt noun g=m
+dépôt-vente noun g=m pl=dépôts-ventes
+dépotoir noun g=m
 dépouille noun g=f
 dépouillement noun g=m
+dépoussiérage noun g=m
 dépravation noun g=f
 dépréciation noun g=f
 déprédation noun g=f
 dépression noun g=f
+déprime noun g=f style=colloquial alt=dépression
 députation noun g=f
 député noun g=m f=députée
 déracinement noun g=m
@@ -350,6 +407,7 @@ déraillement noun g=m
 dérailleur noun g=m
 dérangement noun g=m
 dérapage noun g=m
+dératisation noun g=f
 derby noun g=m
 dérèglement noun g=m
 déréglementation noun g=f
@@ -359,11 +417,16 @@ déresponsabilisation noun g=f
 dérision noun g=f
 dérivation noun g=f
 dérive noun g=f
+dérivé noun g=m
+dérivée noun g=f
+dériveur noun g=m
 dermatite noun g=f
 dermatologie noun g=f
 dermatologue noun g=m|f
+dermatose noun g=f
 derme noun g=m
 dernier-né noun g=m f=dernière-née pl=derniers-nés fpl=dernières-nées
+dérobade noun g=f
 dérogation noun g=f
 déroulement noun g=m
 déroute noun g=f
@@ -393,6 +456,7 @@ désenchantement noun g=m
 désenclavement noun g=m
 désendettement noun g=m
 désengagement noun g=m
+désengorgement noun g=m
 désensibilisation noun g=f
 déséquilibre noun g=m
 désert noun g=m
@@ -413,6 +477,7 @@ désignation noun g=f
 désillusion noun g=f
 désindustrialisation noun g=f
 désinence noun g=f
+désinfectant noun g=m
 désinfection noun g=f
 désinformation noun g=f
 désintégration noun g=f
@@ -424,6 +489,7 @@ désinvolture noun g=f
 désir noun g=m
 désistement noun g=m
 désobéissance noun g=f
+désodorisant noun g=m
 désœuvrement noun g=m
 désolation noun g=f
 désordre noun g=m
@@ -435,6 +501,7 @@ dessaisissement noun g=m
 dessalement noun g=m
 dessèchement noun g=m
 dessein noun g=m
+desserrement noun g=m
 dessert noun g=m
 desserte noun g=f
 dessiccation noun g=f
@@ -457,6 +524,8 @@ désunion noun g=f
 détachement noun g=m
 détail noun g=m note=plural détails
 détaillant noun g=m f=détaillante
+détartrage noun g=m
+détaxation noun g=f
 détaxe noun g=f
 détecteur noun g=m
 détection noun g=f
@@ -484,6 +553,7 @@ détritus noun g=m
 détroit noun g=m
 dette noun g=f
 deuil noun g=m
+deux-pièces noun g=m pl=deux-pièces
 deux-roues noun g=m
 dévaluation noun g=f
 devancier noun g=m f=devancière
@@ -500,6 +570,7 @@ déversoir noun g=m
 déviance noun g=f
 déviation noun g=f
 devin noun g=m f=devineresse
+devinette noun g=f
 devis noun g=m
 devise noun g=f
 dévitalisation noun g=f
@@ -513,6 +584,10 @@ dextérité noun g=f
 diabète noun g=m
 diabétique noun g=m|f
 diable noun g=m f=diablesse
+diablerie noun g=f
+diablotin noun g=m
+diabolisation noun g=f
+diaconat noun g=m
 diacre noun g=m
 diacritique noun g=m
 diadème noun g=m
@@ -522,35 +597,45 @@ diagnostic noun g=m
 diagonale noun g=f
 diagramme noun g=m
 dialecte noun g=m
+dialecticien noun g=m f=dialecticienne
 dialectique noun g=f
 dialogue noun g=m
 dialoguiste noun g=m|f
 dialyse noun g=f
 diamant noun g=m
+diamantaire noun g=m|f
 diamètre noun g=m
 diapason noun g=m
 diaphragme noun g=m
+diaporama noun g=m
 diapositive noun g=f
+diariste noun g=m|f
 diarrhée noun g=f
 diaspora noun g=f
 diatribe noun g=f
+dicastère noun g=m
 dichotomie noun g=f
+dico noun g=m style=colloquial alt=dictionnaire
+dictame noun g=m
 dictateur noun g=m f=dictatrice
 dictature noun g=f
 dictée noun g=f
 diction noun g=f
 dictionnaire noun g=m
 dicton noun g=m
+dièdre noun g=m
 dièse noun g=m
 diesel noun g=m
 diète noun g=f
 diététicien noun g=m f=diététicienne
 diététique noun g=f
 dieu noun g=m f=déesse note=Dieu (monotheism) is a proper noun
+diffamateur noun g=m f=diffamatrice
 diffamation noun g=f
 différence noun g=f
 différenciation noun g=f
 différend noun g=m
+différentiation noun g=f
 différentiel noun g=m
 difficulté noun g=f
 difformité noun g=f
@@ -562,10 +647,13 @@ digestif noun g=m
 digestion noun g=f
 digicode noun g=m
 digitalisation noun g=f
+diglossie noun g=f
 dignitaire noun g=m|f
 dignité noun g=f
+digramme noun g=m
 digression noun g=f
 digue noun g=f
+dilapidation noun g=f
 dilatation noun g=f
 dilemme noun g=m
 dilettante noun g=m|f
@@ -583,13 +671,16 @@ dinar noun g=m
 dinde noun g=f
 dindon noun g=m
 dîner noun g=m rect=diner
+dînette noun g=f rect=dinette
 dîneur noun g=m f=dîneuse rect=dineur
 dinosaure noun g=m
 diocèse noun g=m
 diode noun g=f
+diorama noun g=m
 dioxyde noun g=m
 dioxygène noun g=m
 diphtérie noun g=f
+diphtongue noun g=f
 diplomate noun g=m|f
 diplomatie noun g=f
 diplôme noun g=m
@@ -621,6 +712,7 @@ discussion noun g=f
 disette noun g=f
 diseur noun g=m f=diseuse
 disgrâce noun g=f
+disjoncteur noun g=m
 disjonction noun g=f
 dislocation noun g=f
 disparité noun g=f
@@ -667,6 +759,7 @@ distributeur noun g=m note=machine or company; a person in trade (une distributr
 distribution noun g=f
 district noun g=m
 dithyrambe noun g=m
+diurétique noun g=m
 diva noun g=f
 divagation noun g=f
 divan noun g=m
@@ -677,6 +770,7 @@ diversité noun g=f
 divertissement noun g=m
 dividende noun g=m
 divination noun g=f
+divinisation noun g=f
 divinité noun g=f
 diviseur noun g=m
 division noun g=f
@@ -684,6 +778,7 @@ divisionnaire noun g=m|f
 divorce noun g=m
 divorcé noun g=m f=divorcée
 divulgation noun g=f
+dizain noun g=m
 dizaine noun g=f
 djebel noun g=m
 djihad noun g=m
@@ -711,7 +806,10 @@ doigté noun g=m
 dojo noun g=m
 doléances noun g=f pl_only
 dollar noun g=m
+dolman noun g=m
 dolmen noun g=m
+dolomie noun g=f
+dolomite noun g=f
 domaine noun g=m
 domanialité noun g=f
 dôme noun g=m
@@ -737,6 +835,9 @@ donjon noun g=m
 donnée noun g=f
 donneur noun g=m f=donneuse
 dopage noun g=m
+dorade noun g=f note=also spelt daurade
+doreur noun g=m f=doreuse
+dormance noun g=f
 dormeur noun g=m f=dormeuse
 dorsale noun g=f
 dortoir noun g=m
@@ -744,6 +845,7 @@ dorure noun g=f
 dos noun g=m
 dosage noun g=m
 dose noun g=f
+dosimétrie noun g=f
 dossard noun g=m
 dossier noun g=m
 dot noun g=f
@@ -754,6 +856,7 @@ douane noun g=f
 douanier noun g=m f=douanière
 doublage noun g=m
 double noun g=m
+double-clic noun g=m pl=doubles-clics
 doubleau noun g=m
 doublement noun g=m
 doublet noun g=m
@@ -762,11 +865,15 @@ doublon noun g=m
 doublure noun g=f
 douceur noun g=f
 douche noun g=f
+doudou noun g=m style=colloquial alt=peluche note=plural doudous
 douille noun g=f
 douleur noun g=f
 doute noun g=m
 douve noun g=f
+douzain noun g=m
 douzaine noun g=f
+doxa noun g=f
+doxologie noun g=f
 doyen noun g=m f=doyenne
 doyenné noun g=m
 drachme noun g=f
@@ -778,6 +885,7 @@ drague noun g=f
 dragueur noun g=m
 drain noun g=m
 drainage noun g=m
+draisienne noun g=f
 dramaturge noun g=m|f
 dramaturgie noun g=f
 drame noun g=m
@@ -792,26 +900,34 @@ dressoir noun g=m
 dribble noun g=m
 drogman noun g=m
 drogue noun g=f
+drogué noun g=m f=droguée
+droguerie noun g=f
 droguiste noun g=m|f
 droit noun g=m
 droite noun g=f
 droitier noun g=m f=droitière
 droiture noun g=f
 drôlerie noun g=f
+dromadaire noun g=m
 drone noun g=m
 drosophile noun g=f
 druide noun g=m f=druidesse
 druidisme noun g=m
+drupe noun g=f
 dualisme noun g=m
 dualité noun g=f
+duathlon noun g=m
 duc noun g=m f=duchesse
 ducat noun g=m
 duché noun g=m
+ductilité noun g=f
 duègne noun g=f
 duel noun g=m
+duelliste noun g=m|f
 dune noun g=f
 dunette noun g=f
 duo noun g=m
+duodénum noun g=m
 dupe noun g=f note=être la dupe de; also adj (il n'est pas dupe)
 duperie noun g=f
 duplex noun g=m
@@ -819,17 +935,25 @@ duplicata noun g=m pl=duplicata[trad]|duplicatas[rect]
 duplication noun g=f
 duplicité noun g=f
 durabilité noun g=f
+duralumin noun g=m
 durcissement noun g=m
 durée noun g=f
 dureté noun g=f
+durite noun g=f
 duvet noun g=m
+dyarchie noun g=f
+dynamique noun g=f
 dynamisation noun g=f
 dynamisme noun g=m
 dynamite noun g=f
+dynamo noun g=f
 dynastie noun g=f
 dysenterie noun g=f
 dysfonction noun g=f
 dysfonctionnement noun g=m
+dysgraphie noun g=f
 dyslexie noun g=f
 dysplasie noun g=f
+dyspnée noun g=f
+dystopie noun g=f
 dystrophie noun g=f

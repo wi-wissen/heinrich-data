@@ -12,6 +12,7 @@ face           noun g=f
 face-à-face    noun g=m pl=face-à-face
 facétie        noun g=f
 facette        noun g=f
+fâcherie       noun g=f
 faciès         noun g=m
 facilitateur   noun g=m f=facilitatrice
 facilitation   noun g=f
@@ -21,6 +22,7 @@ faconde        noun g=f
 façonnage      noun g=m
 facteur        noun g=m f=factrice note=postman (f=factrice) and 'factor' (masculine only)
 faction        noun g=f
+factorielle    noun g=f
 factorisation  noun g=f
 factotum       noun g=m
 facturation    noun g=f
@@ -75,6 +77,7 @@ farce          noun g=f
 farceur        noun g=m f=farceuse
 fard           noun g=m
 fardeau        noun g=m
+farfadet       noun g=m
 farine         noun g=f
 fascicule      noun g=m
 fascination    noun g=f
@@ -87,6 +90,7 @@ fatigue        noun g=f
 fatras         noun g=m
 fatuité        noun g=f
 faubourg       noun g=m
+faucheur       noun g=m f=faucheuse
 faucille       noun g=f
 faucon         noun g=m
 fauconnier     noun g=m f=fauconnière
@@ -119,15 +123,19 @@ féerie         noun g=f rect=féérie
 feinte         noun g=f
 feld-maréchal  noun g=m pl=feld-maréchaux
 félicitation   noun g=f note=mostly plural (félicitations)
+félicité       noun g=f
 félin          noun g=m
 félonie        noun g=f
+fêlure         noun g=f
 femelle        noun g=f
 féminisme      noun g=m
 féministe      noun g=m|f
 féminité       noun g=f
 femme          noun g=f
 fémur          noun g=m
+fenaison       noun g=f
 fenêtre        noun g=f
+fenil          noun g=m
 fenouil        noun g=m
 fente          noun g=f
 féodalité      noun g=f
@@ -143,6 +151,7 @@ férocité       noun g=f
 ferraille      noun g=f
 ferrailleur    noun g=m
 ferronnerie    noun g=f
+ferronnier     noun g=m f=ferronnière
 ferry          noun g=m pl=ferrys|ferries note=ferrys is the French plural (1990), ferries the English one
 fertilisant    noun g=m
 fertilisation  noun g=f
@@ -150,14 +159,17 @@ fertilité      noun g=f
 férule         noun g=f
 ferveur        noun g=f
 fesse          noun g=f
+fessée         noun g=f
 festin         noun g=m
 festival       noun g=m pl=festivals
 festivalier    noun g=m f=festivalière
 festivité      noun g=f
 feston         noun g=m
+fêtard         noun g=m f=fêtarde style=colloquial alt=noceur
 fête           noun g=f
 fétiche        noun g=m
 fétichisme     noun g=m
+fétichiste     noun g=m|f
 fétu           noun g=m
 feu            noun g=m
 feuillage      noun g=m
@@ -165,7 +177,9 @@ feuille        noun g=f
 feuillée       noun g=f
 feuillet       noun g=m
 feuilleton     noun g=m
+feuillu        noun g=m
 feutre         noun g=m
+feutrine       noun g=f
 fève           noun g=f
 février        noun g=m
 fiabilité      noun g=f
@@ -174,7 +188,11 @@ fiançailles    noun g=f pl_only
 fiancé         noun g=m f=fiancée
 fiasco         noun g=m
 fibre          noun g=f
+fibrillation   noun g=f
+fibrome        noun g=m
 fibromyalgie   noun g=f
+fibroscopie    noun g=f
+fibrose        noun g=f
 ficelle        noun g=f
 fichage        noun g=m
 fiche          noun g=f
@@ -186,6 +204,7 @@ fidélité       noun g=f
 fiducie        noun g=f
 fief           noun g=m
 fiel           noun g=m
+fiente         noun g=f
 fierté         noun g=f
 fièvre         noun g=f
 fifre          noun g=m
@@ -197,6 +216,7 @@ figure         noun g=f
 figurine       noun g=f
 fil            noun g=m
 filament       noun g=m
+filasse        noun g=f
 filature       noun g=f
 file           noun g=f
 filet          noun g=m
@@ -211,8 +231,10 @@ filleul        noun g=m f=filleule
 film           noun g=m
 filmographie   noun g=f
 filon          noun g=m
+filou          noun g=m pl=filous style=colloquial alt=escroc
 fils           noun g=m
 filtrage       noun g=m
+filtration     noun g=f
 filtre         noun g=m
 fin            noun g=f
 finage         noun g=m
@@ -228,6 +250,7 @@ financier      noun g=m f=financière
 finesse        noun g=f
 finition       noun g=f
 fiole          noun g=f
+fioriture      noun g=f
 fioul          noun g=m
 firmament      noun g=m
 firme          noun g=f
@@ -239,13 +262,18 @@ fission        noun g=f
 fissuration    noun g=f
 fissure        noun g=f
 fitness        noun g=m
+fixateur       noun g=m
 fixation       noun g=f
 fixité         noun g=f
 fjord          noun g=m
 flacon         noun g=m
 flagellation   noun g=f
+flagornerie    noun g=f
+flagorneur     noun g=m f=flagorneuse
 flair          noun g=m
 flamand        noun g=m note=the language; inhabitants are capitalised (propn)
+flamant        noun g=m
+flambage       noun g=m
 flambeau       noun g=m
 flambée        noun g=f
 flamboiement   noun g=m
@@ -255,9 +283,11 @@ flan           noun g=m
 flanc          noun g=m
 flanelle       noun g=f
 flânerie       noun g=f
+flâneur        noun g=m f=flâneuse
 flaque         noun g=f
 flash          noun g=m pl=flashs|flashes note=flashs is the French plural (1990), flashes the English one
 flatterie      noun g=f
+flatulence     noun g=f
 fléau          noun g=m
 fléchage       noun g=m
 flèche         noun g=f
@@ -265,6 +295,7 @@ fléchette      noun g=f
 flegme         noun g=m
 flemmard       noun g=m f=flemmarde style=colloquial alt=paresseux
 flemme         noun g=f style=colloquial alt=paresse
+flétan         noun g=m
 flétrissure    noun g=f
 fleur          noun g=f
 fleuret        noun g=m
@@ -303,6 +334,7 @@ flûte          noun g=f rect=flute
 flûtiste       noun g=m|f rect=flutiste
 flux           noun g=m
 fluxion        noun g=f
+foc            noun g=m
 focale         noun g=f
 focalisation   noun g=f
 fœtus          noun g=m
@@ -311,6 +343,7 @@ foie           noun g=m
 foin           noun g=m
 foire          noun g=f
 fois           noun g=f
+foison         noun g=f note=only in à foison
 foisonnement   noun g=m
 folie          noun g=f
 folio          noun g=m
@@ -319,13 +352,16 @@ folk           noun g=m
 folklore       noun g=m
 folkloriste    noun g=m|f
 follicule      noun g=m
+foncteur       noun g=m
 fonction       noun g=f
 fonctionnaire  noun g=m|f
 fonctionnalité noun g=f
+fonctionnariat noun g=m
 fonctionnement noun g=m
 fond           noun g=m
 fondamentalisme noun g=m
 fondamentaliste noun g=m|f
+fondant        noun g=m
 fondateur      noun g=m f=fondatrice
 fondation      noun g=f
 fondement      noun g=m
@@ -333,15 +369,18 @@ fonderie       noun g=f
 fondeur        noun g=m
 fondrière      noun g=f
 fonds          noun g=m
+fondue         noun g=f
 fongibilité    noun g=f
 fongicide      noun g=m
 fontaine       noun g=f
+fontanelle     noun g=f
 fonte          noun g=f
 foot           noun g=m style=colloquial alt=football
 football       noun g=m
 footballeur    noun g=m f=footballeuse
 forage         noun g=m
 forain         noun g=m f=foraine
+forban         noun g=m
 forçage        noun g=m
 forçat         noun g=m
 force          noun g=f
@@ -349,25 +388,33 @@ forcené        noun g=m f=forcenée
 forceps        noun g=m
 forclusion     noun g=f
 foresterie     noun g=f
+forestier      noun g=m f=forestière
 foret          noun g=m
 forêt          noun g=f
 forfait        noun g=m
 forfaiture     noun g=f
 forfanterie    noun g=f
 forge          noun g=f
+forgeage       noun g=m
 forgeron       noun g=m f=forgeronne conf=80 note=feminine rare
 formaldéhyde   noun g=m
+formalisation  noun g=f
+formalisme     noun g=m
+formaliste     noun g=m|f
 formalité      noun g=f
 format         noun g=m
 formatage      noun g=m
 formateur      noun g=m f=formatrice
 formation      noun g=f
 forme          noun g=f
+formol         noun g=m
 formulaire     noun g=m
 formulation    noun g=f
 formule        noun g=f
+fornication    noun g=f
 fort           noun g=m
 forteresse     noun g=f
+fortifiant     noun g=m
 fortification  noun g=f
 fortin         noun g=m
 fortune        noun g=f
@@ -380,6 +427,7 @@ fossoyeur      noun g=m f=fossoyeuse conf=80 note=feminine rare
 fou            noun g=m f=folle pl=fous
 foudre         noun g=f
 fouet          noun g=m
+fougasse       noun g=f
 fougère        noun g=f
 fougue         noun g=f
 fouille        noun g=f
@@ -409,6 +457,7 @@ fourragère     noun g=f
 fourré         noun g=m
 fourre-tout    noun g=m pl=fourre-tout
 fourreau       noun g=m
+fourreur       noun g=m f=fourreuse
 fourrier       noun g=m
 fourrière      noun g=f
 fourrure       noun g=f
@@ -425,12 +474,17 @@ fragilité      noun g=f
 fragment       noun g=m
 fraîcheur      noun g=f rect=fraicheur
 frais          noun g=m pl_only note=expenses (les frais); the adjective is a separate entry
+fraisage       noun g=m
 fraise         noun g=f
+fraiseuse      noun g=f
+fraisier       noun g=m
 framboise      noun g=f
+framboisier    noun g=m
 franc          noun g=m note=currency
 franc-maçon    noun g=m f=franc-maçonne pl=francs-maçons fpl=franc-maçonnes conf=70 note=feminine plural unsure
 franc-maçonnerie noun g=f pl=franc-maçonneries
 franc-parler   noun g=m pl=- note=no plural in use
+franc-tireur   noun g=m pl=francs-tireurs
 français       noun g=m note=the language; inhabitants are capitalised (propn)
 franchise      noun g=f
 franchiseur    noun g=m
@@ -440,13 +494,18 @@ franciscain    noun g=m f=franciscaine
 francophone    noun g=m|f
 francophonie   noun g=f
 frange         noun g=f
+frangin        noun g=m f=frangine style=colloquial alt=frère
+frangipane     noun g=f
 franquisme     noun g=m
+fraternisation noun g=f
 fraternité     noun g=f
 fratricide     noun g=m
 fratrie        noun g=f
 fraude         noun g=f
 fraudeur       noun g=m f=fraudeuse
+frayère        noun g=f
 frayeur        noun g=f
+fredaine       noun g=f
 frégate        noun g=f
 frein          noun g=m
 freinage       noun g=m
@@ -462,21 +521,29 @@ fret           noun g=m
 frette         noun g=f
 friandise      noun g=f
 fric           noun g=m style=colloquial alt=argent
+fricassée      noun g=f
 fricative      noun g=f
 friche         noun g=f
 friction       noun g=f
+frigidité      noun g=f
 frigo          noun g=m style=colloquial alt=réfrigérateur
 frilosité      noun g=f
 frimaire       noun g=m note=month of the republican calendar
 frimas         noun g=m
+frime          noun g=f style=colloquial alt=esbroufe
+frimeur        noun g=m f=frimeuse style=colloquial alt=vantard
 frimousse      noun g=f
 fringale       noun g=f
 fringues       noun g=f pl_only style=colloquial alt=vêtements
+friperie       noun g=f
+fripier        noun g=m f=fripière
 fripon         noun g=m f=friponne
 friponnerie    noun g=f
 frise          noun g=f
 frisson        noun g=m
 frite          noun g=f
+friteuse       noun g=f
+frittage       noun g=m
 friture        noun g=f
 frivolité      noun g=f
 froid          noun g=m
@@ -487,6 +554,7 @@ fromage        noun g=m
 fromager       noun g=m f=fromagère
 fromagerie     noun g=f
 froment        noun g=m
+fronce         noun g=f
 frondaison     noun g=f
 fronde         noun g=f
 frondeur       noun g=m f=frondeuse
@@ -497,29 +565,38 @@ frontispice    noun g=m
 fronton        noun g=m
 frottement     noun g=m
 frottis        noun g=m
+frou-frou      noun g=m pl=frous-frous conf=85 note=1990 spelling froufrou
 frousse        noun g=f style=colloquial alt=peur
 fructidor      noun g=m note=month of the republican calendar
 fructification noun g=f
+fructose       noun g=m
 frugalité      noun g=f
 fruit          noun g=m
+fruiterie      noun g=f
 fruitier       noun g=m
+frusques       noun g=f pl_only style=colloquial alt=vêtements
 frustration    noun g=f
 fugitif        noun g=m f=fugitive
 fugue          noun g=f
 fuite          noun g=f
 fumée          noun g=f
+fumerolle      noun g=f
 fumet          noun g=m
 fumeur         noun g=m f=fumeuse
 fumier         noun g=m
+fumigation     noun g=f
 fumigène       noun g=m
 fumiste        noun g=m|f
 fumoir         noun g=m
+fumure         noun g=f
+funambule      noun g=m|f
 funérailles    noun g=f pl_only
 funiculaire    noun g=m
 fur            noun g=m note=only in au fur et à mesure
 furet          noun g=m
 fureur         noun g=f
 furie          noun g=f
+furoncle       noun g=m
 fusain         noun g=m
 fuseau         noun g=m
 fusée          noun g=f
@@ -529,8 +606,11 @@ fusil          noun g=m
 fusilier       noun g=m
 fusillade      noun g=f
 fusion         noun g=f
+fusionnement   noun g=m
 fût            noun g=m rect=fut conf=85 note=1990 spelling drops the circumflex (homograph of the verb form fut)
 futaie         noun g=f
+futaille       noun g=f
+futilité       noun g=f
 futur          noun g=m
 futurisme      noun g=m
 fuyard         noun g=m f=fuyarde
