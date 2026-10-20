@@ -198,6 +198,7 @@ mélodramatique       adj
 membranaire          adj
 membraneux           adj
 membru               adj
+même                 adj note=le même, les mêmes; other uses of même are in closed/
 mémorable            adj
 mémoriel             adj
 mémorisable          adj

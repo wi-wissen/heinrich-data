@@ -117,7 +117,7 @@ nucléaire          adj
 nucléique          adj
 nucléophile        adj
 nuisible           adj
-nul                adj f=nulle adv=nullement
+nul                adj f=nulle
 numérique          adj
 nuptial            adj
 nutritif           adj
