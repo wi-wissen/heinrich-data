@@ -110,6 +110,7 @@ traiter verb
 tramer verb
 trancher verb
 tranquilliser verb
+transborder verb
 transcender verb
 transcrire verb class=écrire
 transférer verb

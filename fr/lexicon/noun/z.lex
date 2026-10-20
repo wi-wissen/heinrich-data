@@ -7,9 +7,11 @@ zèle noun g=m
 zénith noun g=m
 zéphyr noun g=m
 zeste noun g=m
+zibeline noun g=f
 zigzag noun g=m
 zinc noun g=m
 zip noun g=m
+zirconium noun g=m
 zizanie noun g=f
 zizi noun g=m style=colloquial
 zodiaque noun g=m
@@ -26,5 +28,7 @@ zoom noun g=m
 zoonose noun g=f
 zoophilie noun g=f
 zooplancton noun g=m
+zoroastrisme noun g=m
 zouave noun g=m
+zoulou noun g=m f=zouloue note=plural zoulous
 zygote noun g=m

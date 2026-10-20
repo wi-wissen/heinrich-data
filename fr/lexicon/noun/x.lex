@@ -2,4 +2,5 @@
 xénon noun g=m
 xénophobie noun g=f
 xérès noun g=m
+xylologie noun g=f
 xylophone noun g=m

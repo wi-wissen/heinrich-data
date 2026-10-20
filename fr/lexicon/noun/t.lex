@@ -67,10 +67,12 @@ tanin noun g=m
 tank noun g=m
 tanker noun g=m
 tannage noun g=m
+tannaïte noun g=m
 tannerie noun g=f
 tanneur noun g=m f=tanneuse
 tante noun g=f
 taoïsme noun g=m
+taoïste noun g=m|f
 taon noun g=m
 tapage noun g=m
 tape noun g=f
@@ -129,8 +131,11 @@ taxi noun g=m
 taxidermie noun g=f
 taxidermiste noun g=m|f
 taximètre noun g=m
+taxinomie noun g=f
 taxon noun g=m
 taxonomie noun g=f
+taxonomiste noun g=m|f
+taylorisme noun g=m
 team noun g=f style=colloquial alt=équipe
 technicien noun g=m f=technicienne
 technicité noun g=f
@@ -143,8 +148,10 @@ technopole noun g=f
 teck noun g=m
 teckel noun g=m
 tectonique noun g=f
+tectosilicate noun g=m
 tee noun g=m
 tee-shirt noun g=m rect=teeshirt
+teff noun g=m
 téflon noun g=m
 tégument noun g=m
 teigne noun g=f
@@ -204,6 +211,7 @@ télétravailleur noun g=m f=télétravailleuse
 télévente noun g=f
 téléviseur noun g=m
 télévision noun g=f
+tellure noun g=m
 témérité noun g=f
 témoignage noun g=m
 témoin noun g=m
@@ -237,6 +245,8 @@ tennisman noun g=m pl=tennismans|tennismen
 tenon noun g=m
 ténor noun g=m
 tenseur noun g=m
+tensioactif noun g=m
+tensiomètre noun g=m
 tension noun g=f
 tentacule noun g=m
 tentateur noun g=m f=tentatrice
@@ -245,6 +255,8 @@ tentative noun g=f
 tente noun g=f
 tenture noun g=f
 tenue noun g=f
+tequila noun g=f
+téraoctet noun g=m
 tercet noun g=m
 térébenthine noun g=f
 tergal noun g=m pl=tergals
@@ -277,6 +289,7 @@ terrorisme noun g=m
 terroriste noun g=m|f
 tertiaire noun g=m
 tertre noun g=m
+tesselle noun g=f
 tessiture noun g=f
 tesson noun g=m
 test noun g=m
@@ -295,6 +308,8 @@ têtière noun g=f
 tétine noun g=f
 téton noun g=m
 tétraèdre noun g=m
+tétragone noun g=m
+tétrasyllabe noun g=m
 texte noun g=m
 textile noun g=m
 texto noun g=m
@@ -306,28 +321,36 @@ thanatopracteur noun g=m f=thanatopractrice
 thaumaturge noun g=m|f
 thé noun g=m
 théâtre noun g=m
+thébaine noun g=f
 théière noun g=f
 thématique noun g=f
 thème noun g=m
+théobromine noun g=f
 théocratie noun g=f
 théodicée noun g=f
 théologie noun g=f
 théologien noun g=m f=théologienne
+théonyme noun g=m
+théophylline noun g=f
 théorème noun g=m
 théoricien noun g=m f=théoricienne
 théorie noun g=f
+théorisation noun g=f
 thérapeute noun g=m|f
 thérapeutique noun g=f
 thérapie noun g=f
+thérémine noun g=m|f conf=80 note=gender varies in use
 thermalisme noun g=m
 thermes noun g=m pl_only
 thermocouple noun g=m
 thermodynamique noun g=f
 thermographie noun g=f
 thermomètre noun g=m
+thermométrie noun g=f
 thermorégulation noun g=f
 thermos noun g=m|f
 thermostat noun g=m
+théropode noun g=m
 thésard noun g=m f=thésarde style=colloquial
 thèse noun g=f
 thomisme noun g=m
@@ -335,6 +358,7 @@ thon noun g=m
 thorax noun g=m
 thorium noun g=m
 thriller noun g=m
+thrombocyte noun g=m
 thrombose noun g=f
 thune noun g=f style=colloquial alt=argent
 thuya noun g=m
@@ -353,6 +377,7 @@ tif noun g=m style=colloquial alt=cheveu
 tige noun g=f
 tignasse noun g=f
 tigre noun g=m f=tigresse
+tilde noun g=m
 tilleul noun g=m
 timbale noun g=f
 timbre noun g=m
@@ -481,6 +506,7 @@ totalisation noun g=f
 totalitarisme noun g=m
 totalité noun g=f
 totem noun g=m
+totémisme noun g=m
 toubib noun g=m|f style=colloquial alt=médecin
 toucan noun g=m
 touche noun g=f
@@ -540,14 +566,17 @@ traceur noun g=m
 trachée noun g=f
 trachéite noun g=f
 trachéotomie noun g=f
+trachyte noun g=m
 tract noun g=m
 tractation noun g=f
 tracteur noun g=m
 traction noun g=f
+tractus noun g=m
 trader noun g=m|f
 tradition noun g=f
 traducteur noun g=m f=traductrice
 traduction noun g=f
+traductique noun g=f
 trafic noun g=m
 trafiquant noun g=m f=trafiquante
 tragédie noun g=f
@@ -588,6 +617,7 @@ transcendance noun g=f
 transcodage noun g=m
 transcription noun g=f
 transducteur noun g=m
+transduction noun g=f
 transe noun g=f
 transept noun g=m
 transfèrement noun g=m
@@ -598,10 +628,12 @@ transformateur noun g=m
 transformation noun g=f
 transfuge noun g=m|f
 transfusion noun g=f
+transgenèse noun g=f
 transgenre noun g=m|f
 transgression noun g=f
 transhumance noun g=f
 transhumanisme noun g=m
+transidentité noun g=f
 transistor noun g=m
 transit noun g=m
 transition noun g=f
@@ -618,6 +650,8 @@ transpondeur noun g=m
 transport noun g=m
 transporteur noun g=m
 transposition noun g=f
+transsubstantiation noun g=f
+transsudation noun g=f
 transvasement noun g=m
 transversalité noun g=f
 trapèze noun g=m
@@ -690,8 +724,11 @@ tricorne noun g=m
 tricot noun g=m
 tricotage noun g=m
 tricycle noun g=m
+triéthylamine noun g=f
+triglycéride noun g=m
 trigonométrie noun g=f
 trille noun g=m
+trilobe noun g=m
 trilogie noun g=f
 trilogue noun g=m
 trimaran noun g=m
@@ -702,8 +739,10 @@ trio noun g=m
 triomphateur noun g=m f=triomphatrice
 triomphe noun g=m
 trip noun g=m style=colloquial
+tripartition noun g=f
 tripatouillage noun g=m style=colloquial
 tripe noun g=f
+triphosphate noun g=m
 triplé noun g=m
 triplement noun g=m
 triplet noun g=m
@@ -713,6 +752,7 @@ trique noun g=f
 trisaïeul noun g=m f=trisaïeule
 trisomie noun g=f
 tristesse noun g=f
+tritium noun g=m
 triton noun g=m
 triumvirat noun g=m
 trivialité noun g=f
@@ -739,16 +779,19 @@ tronçonnage noun g=m
 tronçonneuse noun g=f
 trône noun g=m
 trop-plein noun g=m pl=trop-pleins
+trope noun g=m
 trophée noun g=m
 tropique noun g=m
 troposphère noun g=f
 troquet noun g=m style=colloquial alt=café
 trot noun g=m
+trotskisme noun g=m
 trotskiste noun g=m|f
 trotteuse noun g=f
 trottinette noun g=f
 trottoir noun g=m
 trou noun g=m note=plural trous
+troubadour noun g=m
 trouble noun g=m
 trouille noun g=f style=colloquial alt=peur
 troupe noun g=f
@@ -770,6 +813,7 @@ trumeau noun g=m
 truquage noun g=m
 trust noun g=m
 tsar noun g=m
+tsarat noun g=m
 tsarine noun g=f
 tsé-tsé noun g=f pl=tsé-tsé rect=tsétsé rect_pl=tsétsés
 tsigane noun g=m|f
@@ -789,7 +833,7 @@ tulipe noun g=f
 tulle noun g=m
 tumeur noun g=f
 tumulte noun g=m
-tumulus noun g=m
+tumulus noun g=m pl=tumulus|tumuli[literary]
 tuner noun g=m
 tungstène noun g=m
 tunique noun g=f
@@ -824,6 +868,7 @@ type noun g=m
 typhoïde noun g=f
 typhon noun g=m
 typhus noun g=m
+typicité noun g=f
 typo noun g=f style=colloquial
 typographe noun g=m|f
 typographie noun g=f

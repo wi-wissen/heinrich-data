@@ -11,6 +11,7 @@ vaincu adj
 valable adj adv=valablement
 valaisan adj f=valaisanne
 valdôtain adj
+valencien adj
 valeureux adj adv=valeureusement
 valide adj adv=validement
 vallonné adj
@@ -20,19 +21,26 @@ vaniteux adj adv=vaniteusement
 vantard adj
 vaporeux adj adv=vaporeusement
 variable adj adv=variablement
+variationnel adj
 varié adj
+varisque adj
+varsovien adj
 vasculaire adj
+vascularisé adj
 vaseux adj
+vasoconstricteur adj f=vasoconstrictrice
 vaste adj
 vatican adj
 vaudois adj
 vaurien adj
 vectoriel adj
+védique adj
 végétal adj
 végétalien adj
 végétarien adj
 végétatif adj
 véhément adj adv=véhémentement
+véhiculaire adj
 veinard adj style=colloquial alt=chanceux
 veiné adj
 veineux adj
@@ -54,6 +62,7 @@ ventral adj
 ventriculaire adj
 ventru adj
 venu adj
+vénusien adj
 verbal adj adv=verbalement
 verbeux adj adv=verbeusement
 verdâtre adj
@@ -89,6 +98,7 @@ vexatoire adj
 viable adj
 viager adj
 vibrant adj
+vibratoire adj
 vicelard adj style=colloquial alt=vicieux
 vicié adj
 vicieux adj adv=vicieusement
@@ -105,6 +115,7 @@ vieux adj f=vieille mv=vieil place=pre
 vif adj adv=vivement
 vigilant adj adv=vigilamment
 vigoureux adj adv=vigoureusement
+viking adj f=viking
 vil adj adv=vilement
 vilain adj adv=vilainement
 vindicatif adj adv=vindicativement
@@ -119,11 +130,13 @@ viril adj adv=virilement
 virtuel adj adv=virtuellement
 virulent adj adv=virulemment
 viscéral adj adv=viscéralement
+visco-élastique adj
 visible adj adv=visiblement
 visionnaire adj
 visqueux adj
 visuel adj adv=visuellement
 vital adj adv=vitalement
+vitaliste adj
 viticole adj
 vitré adj
 vitreux adj
@@ -132,6 +145,7 @@ vivace adj adv=vivacement
 vivant adj
 vivifiant adj
 vivipare adj
+vivrier adj
 vocal adj adv=vocalement
 vocalique adj
 voilé adj
@@ -144,6 +158,7 @@ volontaire adj adv=volontairement
 volontariste adj
 voltairien adj
 volubile adj adv=volubilement
+volumétrique adj
 volumineux adj
 volumique adj
 voluptueux adj adv=voluptueusement

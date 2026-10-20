@@ -5,11 +5,13 @@ ultérieur adj f=ultérieure adv=ultérieurement
 ultime adj adv=ultimement
 ultramarin adj
 ultramoderne adj
+ultranationaliste adj
 ultrapériphérique adj
 ultrasensible adj
 ultrasonique adj
 ultraviolet adj f=ultraviolette
 unanime adj adv=unanimement
+underground adj inv
 uni adj adv=uniment
 unidirectionnel adj
 unificateur adj f=unificatrice
@@ -20,7 +22,9 @@ uninominal adj
 unioniste adj
 unipersonnel adj
 unique adj adv=uniquement
+uniséminé adj
 unitaire adj adv=unitairement
+unitarien adj
 universaliste adj
 universel adj adv=universellement
 universitaire adj

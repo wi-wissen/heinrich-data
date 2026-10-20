@@ -58,6 +58,7 @@ rappliquer verb pp_inv style=colloquial alt=arriver
 rapporter verb
 rapprocher verb
 raquer verb style=colloquial alt=payer
+raréfier verb
 raser verb
 rassasier verb
 rassembler verb
@@ -91,6 +92,7 @@ réaffecter verb
 réaffirmer verb
 réagir verb class=ir pp_inv
 réajuster verb
+réalimenter verb
 réaliser verb
 réaménager verb
 réanimer verb
@@ -207,6 +209,7 @@ réélire verb class=lire
 réentendre verb class=rendre
 rééquilibrer verb
 réessayer verb
+réétudier verb
 réévaluer verb
 réexaminer verb
 réexpédier verb
@@ -256,6 +259,7 @@ réhabiliter verb
 rehausser verb
 réimporter verb
 réimprimer verb
+réincarner verb
 réinitialiser verb
 réinjecter verb
 réinscrire verb class=écrire
@@ -291,6 +295,7 @@ remanier verb
 remarier verb
 remarquer verb
 remballer verb
+rembarquer verb
 rembarrer verb style=colloquial
 remblayer verb
 rembobiner verb
@@ -393,6 +398,7 @@ reprocher verb
 reproduire verb class=conduire
 reprogrammer verb
 réprouver verb
+republier verb
 répudier verb
 répugner verb pp_inv
 réputer verb
@@ -493,6 +499,7 @@ réviser verb
 revisiter verb
 revisser verb
 revitaliser verb
+revivifier verb
 revivre verb class=vivre
 revoir verb class=voir
 révolter verb

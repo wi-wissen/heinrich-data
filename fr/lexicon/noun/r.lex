@@ -42,6 +42,8 @@ radicalité noun g=f
 radiesthésie noun g=f
 radio noun g=f
 radioactivité noun g=f
+radioamateur noun g=m|f
+radioastronomie noun g=f
 radiocassette noun g=f
 radiocommande noun g=f
 radiocommunication noun g=f
@@ -51,6 +53,7 @@ radiodiffusion noun g=f
 radiofréquence noun g=f
 radiographie noun g=f
 radioguidage noun g=m
+radioisotope noun g=m
 radiologie noun g=f
 radiologue noun g=m|f
 radiométrie noun g=f
@@ -58,9 +61,12 @@ radionucléide noun g=m
 radiopathologie noun g=f
 radioprotection noun g=f
 radioscopie noun g=f
+radiotélégraphiste noun g=m|f
+radiotélescope noun g=m
 radiothérapie noun g=f
 radis noun g=m
 radium noun g=m
+radius noun g=m
 radon noun g=m
 radoteur noun g=m f=radoteuse
 rafale noun g=f
@@ -85,10 +91,13 @@ raifort noun g=m
 rail noun g=m note=plural rails
 raillerie noun g=f
 rainure noun g=f
+raïs noun g=m
 raisin noun g=m
 raisiné noun g=m
 raison noun g=f
 raisonnement noun g=m
+raja noun g=m note=variant spelling of rajah
+rajah noun g=m note=also spelled raja, râja
 rajeunissement noun g=m
 rajout noun g=m
 rajustement noun g=m
@@ -122,6 +131,7 @@ rampement noun g=m
 ramure noun g=f
 rancard noun g=m style=colloquial alt=rendez-vous
 ranch noun g=m pl=ranchs|ranches
+rancio noun g=m
 rancœur noun g=f
 rançon noun g=f
 rancune noun g=f
@@ -136,6 +146,7 @@ rapace noun g=m
 rapacité noun g=f
 rapatriement noun g=m
 râpe noun g=f
+raphé noun g=m
 raphia noun g=m
 rapidité noun g=f
 rapiéçage noun g=m
@@ -156,6 +167,7 @@ rasage noun g=m
 rasoir noun g=m
 rassasiement noun g=m
 rassemblement noun g=m
+rastafari noun g=m|f
 rat noun g=m f=rate conf=90
 ratage noun g=m
 ratatouille noun g=f
@@ -173,6 +185,7 @@ rationalisme noun g=m
 rationalité noun g=f
 rationnement noun g=m
 ratissage noun g=m
+ratite noun g=m
 raton noun g=m sense=animal
 raton noun g=m sense=slur style=offensive alt=maghrébin
 rattachement noun g=m
@@ -194,6 +207,7 @@ rayon noun g=m
 rayonnage noun g=m
 rayonnement noun g=m
 rayure noun g=f
+raz noun g=m
 raz-de-marée noun g=m pl=raz-de-marée
 razzia noun g=f
 réabonnement noun g=m
@@ -250,6 +264,7 @@ recel noun g=m
 receleur noun g=m f=receleuse rect=recéleur
 recensement noun g=m
 recentrage noun g=m
+recentrement noun g=m
 récépissé noun g=m
 réceptacle noun g=m
 récepteur noun g=m
@@ -268,6 +283,7 @@ réchaud noun g=m
 réchauffage noun g=m
 réchauffement noun g=m
 recherche noun g=f
+rechristianisation noun g=f
 rechute noun g=f
 récidive noun g=f
 récidiviste noun g=m|f
@@ -292,6 +308,7 @@ récolement noun g=m
 recollage noun g=m
 récoltant noun g=m f=récoltante
 récolte noun g=f
+recombinaison noun g=f
 recommandation noun g=f
 recommandé noun g=m
 recommencement noun g=m
@@ -349,6 +366,7 @@ redécouverte noun g=f
 redéfinition noun g=f
 redémarrage noun g=m
 rédemption noun g=f
+rédemptoriste noun g=m|f
 redéploiement noun g=m
 redevable noun g=m|f
 redevance noun g=f
@@ -403,6 +421,7 @@ reforestation noun g=f
 réformateur noun g=m f=réformatrice
 réformation noun g=f
 réforme noun g=f
+réformisme noun g=m
 réformiste noun g=m|f
 reformulation noun g=f
 refoulement noun g=m
@@ -416,6 +435,7 @@ refroidisseur noun g=m
 refuge noun g=m
 réfugié noun g=m f=réfugiée
 refus noun g=m
+réfutabilité noun g=f
 réfutation noun g=f
 regain noun g=m
 régal noun g=m pl=régals
@@ -570,6 +590,7 @@ rengaine noun g=f
 reniement noun g=m
 renne noun g=m
 renom noun g=m
+renommage noun g=m
 renommée noun g=f
 renoncement noun g=m
 renonciation noun g=f
@@ -680,6 +701,7 @@ résipiscence noun g=f
 résistance noun g=f
 résistant noun g=m f=résistante
 résistivité noun g=f
+résistor noun g=m
 résolution noun g=f
 résonance noun g=f
 résonateur noun g=m
@@ -730,6 +752,9 @@ retentissement noun g=m
 retenue noun g=f
 rétiaire noun g=m
 réticence noun g=f
+réticulation noun g=f
+réticuline noun g=f
+réticulum noun g=m
 rétine noun g=f
 rétinopathie noun g=f
 retombée noun g=f
@@ -738,6 +763,7 @@ retoucheur noun g=m f=retoucheuse
 retour noun g=m
 retournement noun g=m
 rétractation noun g=f
+rétraction noun g=f
 retrait noun g=m
 retraite noun g=f
 retraité noun g=m f=retraitée
@@ -750,9 +776,11 @@ rétribution noun g=f
 rétroaction noun g=f
 rétroactivité noun g=f
 rétrocession noun g=f
+rétrocontrôle noun g=m
 rétroéclairage noun g=m
 rétroprojecteur noun g=m
 rétrospective noun g=f
+rétrotransposon noun g=m
 retrouvaille noun g=f note=mostly plural (retrouvailles)
 rétrovirus noun g=m
 rétroviseur noun g=m
@@ -788,6 +816,7 @@ rêveur noun g=m f=rêveuse
 revirement noun g=m
 réviseur noun g=m f=réviseuse
 révision noun g=f
+révisionnisme noun g=m
 revitalisation noun g=f
 revival noun g=m pl=revivals
 révocabilité noun g=f
@@ -802,12 +831,15 @@ revue noun g=f
 rez-de-chaussée noun g=m pl=rez-de-chaussée
 rhéologie noun g=f
 rhéostat noun g=m
+rhésus noun g=m
 rhéteur noun g=m
 rhétorique noun g=f
+rhétoriqueur noun g=m
 rhinite noun g=f
 rhinocéros noun g=m
 rhinopharyngite noun g=f
 rhizome noun g=m
+rhizosphère noun g=f
 rhododendron noun g=m
 rhubarbe noun g=f
 rhum noun g=m
@@ -815,6 +847,9 @@ rhumatisme noun g=m
 rhumatologie noun g=f
 rhumatologue noun g=m|f
 rhume noun g=m
+rhyolite noun g=f
+ribose noun g=m
+ribovirus noun g=m
 ricanement noun g=m
 ricaneur noun g=m f=ricaneuse
 richard noun g=m style=colloquial
@@ -864,8 +899,11 @@ rivet noun g=m
 rivetage noun g=m
 rivière noun g=f
 rixe noun g=f
+riyal noun g=m pl=riyals
 riz noun g=m
+riziculture noun g=f
 rizière noun g=f
+roadie noun g=m|f
 robe noun g=f
 robinet noun g=m
 robinetterie noun g=f
@@ -882,6 +920,7 @@ rocher noun g=m
 rock noun g=m
 rock'n'roll noun g=m
 rocker noun g=m|f
+rockeur noun g=m f=rockeuse
 rodage noun g=m
 rodéo noun g=m
 rôdeur noun g=m f=rôdeuse
@@ -891,6 +930,7 @@ roi noun g=m f=reine
 roitelet noun g=m
 rôle noun g=m
 rôle-titre noun g=m pl=rôles-titres
+roller noun g=m
 romaine noun g=f
 roman noun g=m
 roman-feuilleton noun g=m pl=romans-feuilletons
@@ -979,6 +1019,7 @@ route noun g=f
 routeur noun g=m
 routier noun g=m
 routine noun g=f
+rover noun g=m
 royalisme noun g=m
 royaliste noun g=m|f
 royalties noun g=f pl_only
@@ -1010,8 +1051,11 @@ rupture noun g=f
 rural noun g=m
 ruralité noun g=f
 ruse noun g=f
+russification noun g=f
 rusticité noun g=f
 rustine noun g=f
 rustre noun g=m
 rut noun g=m
+rutherfordium noun g=m
+rutile noun g=m
 rythme noun g=m

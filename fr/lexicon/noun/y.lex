@@ -1,6 +1,7 @@
 # French lexicon: noun entries in y (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 yacht noun g=m
 yack noun g=m
+yakuza noun g=m
 yaourt noun g=m
 yatagan noun g=m
 yen noun g=m
