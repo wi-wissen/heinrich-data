@@ -1,5 +1,6 @@
 T-shirt noun note=also tee shirt
 tab noun
+tabbouleh noun pl=- conf=90 note=uncountable; also tabouleh
 tabernacle noun
 table noun
 tableau noun pl=tableaux|tableaus
@@ -7,6 +8,7 @@ tablecloth noun
 tablespoon noun
 tablet noun
 tabletop noun
+tableware noun pl=- note=uncountable
 tabloid noun
 taboo noun
 tachycardia noun
@@ -18,7 +20,10 @@ tactic noun
 tadpole noun
 taekwondo noun pl=- note=uncountable
 tag noun
+tagine noun
+tagliatelle noun pl=- note=uncountable pasta name, already plural in Italian
 tagline noun
+tahini noun pl=- note=uncountable
 tail noun
 tailor noun
 takeaway noun region=GB note=US takeout
@@ -31,35 +36,46 @@ talent noun
 talisman noun pl=talismans note=not a -man compound
 talk noun
 talker noun
+tallboy noun
 tallow noun
 tally noun
 talon noun
 tam noun conf=85 note=Scottish cap (tam-o'-shanter)
+tamale noun
+tamari noun pl=- note=uncountable
 tambourine noun
 Tamil noun
+tampon noun
 tan noun
 tandem noun
+tandoori noun pl=- note=uncountable
 tangent noun
 tangerine noun
 tangle noun
 tango noun pl=tangos
 tank noun
+tankard noun
 tanker noun
 tannery noun
 tap noun
+tapa noun pl=tapas
 tape noun
 taper noun
 tapestry noun
+tapioca noun pl=- note=uncountable
 tar noun
+taramasalata noun pl=- note=uncountable
 tarantula noun
 target noun
 tariff noun
+tarragon noun pl=- note=uncountable
 tarsus noun pl=tarsi
 tart noun
 tartan noun
 tartar noun pl=- note=dental deposit; cream of tartar
 Tartar noun note=historical variant of Tatar
 task noun
+taskbar noun
 taskforce noun
 tassel noun
 taste noun
@@ -77,8 +93,11 @@ taxonomy noun
 taxpayer noun
 TB noun abbr pl=- note=tuberculosis
 tea noun
+teabag noun
+teacake noun
 teacher noun
 teaching noun
+teacup noun
 team noun
 teammate noun
 teamster noun
@@ -118,6 +137,7 @@ teleworking noun pl=- note=uncountable
 teller noun
 telltale noun
 temp noun style=colloquial note=temporary worker; also short for temperature
+tempeh noun pl=- note=uncountable
 temper noun
 temperament noun
 temperance noun pl=- note=uncountable
@@ -127,6 +147,7 @@ template noun
 temple noun
 tempo noun pl=tempos|tempi
 temptation noun
+tempura noun pl=- note=uncountable
 tenacity noun pl=- note=uncountable
 tenancy noun
 tenant noun
@@ -144,8 +165,10 @@ tensor noun
 tent noun
 tentacle noun
 tenure noun
+tequila noun
 terabyte noun
 tergum noun pl=terga note=dorsal plate of an arthropod segment
+teriyaki noun pl=- note=uncountable
 term noun
 terminal noun
 termination noun
@@ -157,6 +180,7 @@ terrace noun
 terracotta noun pl=- note=uncountable
 terrain noun
 terrier noun
+terrine noun
 territory noun
 terror noun
 terrorism noun
@@ -176,6 +200,7 @@ textile noun
 texture noun
 Thai noun note=the language; a Thai person
 thankfulness noun pl=- note=uncountable
+thanklessness noun pl=- note=uncountable
 thanksgiving noun
 thatch noun
 THC noun abbr pl=- note=tetrahydrocannabinol
@@ -191,6 +216,9 @@ therapist noun
 therapy noun
 thermodynamics noun pl=- note=uncountable
 thermometer noun
+thermos noun conf=90 note=from a trademark
+thermostat noun
+thesaurus noun pl=thesauri|thesauruses
 thesis noun pl=theses
 thicket noun
 thickness noun
@@ -242,10 +270,12 @@ ticketing noun pl=- note=uncountable
 tide noun
 tidings noun pl_only
 tie noun
+tieback noun
 tier noun
 tiger noun
 tights noun pl_only
 tiki noun
+tikka noun pl=- note=uncountable; chicken tikka
 tile noun
 tilefish noun pl=tilefish|tilefishes
 tiller noun
@@ -269,6 +299,7 @@ timidity noun pl=- note=uncountable
 timing noun
 timpani noun pl=- note=a set of kettledrums; takes singular or plural agreement
 tin noun
+tinfoil noun pl=- note=uncountable
 tinge noun
 tingle noun
 tinker noun
@@ -276,6 +307,7 @@ tinkle noun
 tinnitus noun pl=- note=uncountable
 tint noun
 tip noun
+tiramisu noun
 tire noun gb=tyre sense=wheel
 tiredness noun pl=- note=uncountable
 tissue noun
@@ -292,6 +324,7 @@ toddler noun
 toe noun
 toenail noun
 toffee noun
+tofu noun pl=- note=uncountable
 toil noun
 toilet noun
 toiletry noun
@@ -318,6 +351,7 @@ tonsillitis noun pl=- note=uncountable
 tool noun
 toolbar noun
 toolkit noun
+tooltip noun
 toon noun style=colloquial conf=80 note=short for cartoon
 tooth noun pl=teeth
 toothache noun
@@ -327,6 +361,7 @@ top noun
 topic noun
 topography noun
 topology noun
+topper noun
 tor noun note=rocky hill
 torch noun
 torment noun
@@ -337,11 +372,13 @@ torrent noun
 torsion noun pl=- note=uncountable
 torso noun note=plural torsos
 tort noun
+tortellini noun pl=- note=already plural in Italian; used as a mass noun
 tortilla noun
 tortoise noun
 torture noun
 torus noun pl=tori|toruses
 Tory noun
+tostada noun
 tot noun
 total noun
 totality noun
@@ -379,6 +416,7 @@ tracery noun
 trachea noun pl=tracheae|tracheas
 track noun
 trackage noun pl=- note=uncountable
+trackball noun
 tracker noun
 trackpad noun
 tracksuit noun
@@ -441,6 +479,7 @@ trap noun
 trapper noun
 trappings noun pl_only
 trash noun pl=- note=uncountable
+trashcan noun region=US conf=80 note=usually written trash can
 trauma noun
 traveler noun gb=traveller
 trawl noun
@@ -483,6 +522,7 @@ tricolor noun gb=tricolour
 triennial noun
 trifle noun
 trilogy noun
+trimester noun
 trinity noun
 trinket noun
 trio noun
@@ -491,7 +531,9 @@ triplane noun
 triplicate noun pl=- note=in triplicate
 tripod noun
 triumph noun
+trivet noun
 Trojan noun
+trojan noun note=malware disguised as harmless software
 trolley noun
 trombone noun
 troop noun
@@ -507,11 +549,15 @@ trough noun
 troupe noun
 trousers noun pl_only
 trout noun pl=trout
+truancy noun pl=- note=uncountable
+truant noun
 truce noun
 truck noun
+truffle noun
 trump noun note=trump card
 trumpet noun
 trumpeter noun
+trundle noun
 trunk noun
 truss noun
 trust noun
@@ -548,10 +594,12 @@ turbine noun
 turbo noun note=plural turbos
 turboprop noun
 turbulence noun
+tureen noun
 turf noun pl=turfs|turves[rare]
 Turk noun
 turkey noun
 Turkish noun pl=- note=the language
+turmeric noun pl=- note=uncountable
 turmoil noun
 turn noun
 turnaround noun
@@ -559,6 +607,7 @@ turnip noun
 turnout noun
 turnover noun
 turnpike noun
+turntable noun
 turpentine noun pl=- note=uncountable
 turret noun
 turtle noun
@@ -569,6 +618,7 @@ tutorial noun
 TV noun abbr note=television
 tweed noun
 tweet noun
+tweezers noun pl_only
 twelvemonth noun style=archaic
 twig noun
 twilight noun
@@ -586,3 +636,4 @@ typist noun
 typo noun pl=typos
 tyranny noun
 tyrant noun
+tzatziki noun pl=- note=uncountable

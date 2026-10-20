@@ -88,6 +88,7 @@ anarchist           noun  human
 ancestor            noun  human
 anchor              noun  mixed
 ancient             noun  mixed
+android             noun  mixed
 angel               noun  mixed
 angler              noun  human
 Anglican            noun  human
@@ -190,6 +191,7 @@ Baptist             noun  human
 barbarian           noun  human
 barber              noun  human
 bard                noun  human
+barista             noun  human
 baron               noun  human
 baroness            noun  human
 baronet             noun  human
@@ -451,6 +453,7 @@ cobbler             noun  mixed
 cobra               noun  animal
 cockatoo            noun  animal
 cockerel            noun  animal
+cockle              noun  animal
 Cockney             noun  human
 cockroach           noun  animal
 cod                 noun  animal
@@ -545,6 +548,7 @@ cooper              noun  human
 cooperative         noun  group
 coordinator         noun  human
 cop                 noun  human
+coppersmith         noun  human
 copywriter          noun  human
 coquette            noun  human
 cornerback          noun  human
@@ -579,6 +583,7 @@ coxswain            noun  human
 coyote              noun  animal
 crab                noun  animal
 craftsman           noun  human
+crawfish            noun  animal
 crayfish            noun  animal
 creative            noun  human
 creator             noun  human
@@ -601,6 +606,7 @@ crowd               noun  group
 crusader            noun  human
 crush               noun  mixed
 crustacean          noun  animal
+crybaby             noun  human
 cub                 noun  animal
 Cuban               noun  human
 cuckoo              noun  animal
@@ -730,6 +736,7 @@ eagle               noun  animal
 earl                noun  human
 earner              noun  human
 earthworm           noun  animal
+earwig              noun  animal
 eccentric           noun  human
 ecclesiastic        noun  human
 economist           noun  human
@@ -958,6 +965,7 @@ governess           noun  human
 government          noun  group
 governor            noun  human
 GP                  noun  human
+grad                noun  human
 graduate            noun  human
 gramps              noun  human
 gran                noun  human
@@ -1008,6 +1016,7 @@ hacker              noun  human
 hag                 noun  human
 hairdresser         noun  human
 Haitian             noun  human
+hake                noun  animal
 half-breed          noun  human
 half-caste          noun  human
 halfback            noun  human
@@ -1122,6 +1131,7 @@ infantry            noun  group
 inferior            noun  human
 infidel             noun  human
 infielder           noun  human
+influencer          noun  human
 informant           noun  human
 inhabitant          noun  human
 initiate            noun  human
@@ -1157,6 +1167,7 @@ inventor            noun  human
 invertebrate        noun  animal
 investigator        noun  human
 investor            noun  mixed
+invigilator         noun  human
 Iranian             noun  human
 Iraqi               noun  human
 Irish               noun  mixed
@@ -1215,6 +1226,7 @@ kingfisher          noun  animal
 kinsman             noun  human
 kitten              noun  animal
 kitty               noun  animal
+knacker             noun  human
 knave               noun  human
 knight              noun  mixed
 knighthood          noun  group
@@ -1236,6 +1248,7 @@ landholder          noun  human
 landlady            noun  human
 landlord            noun  mixed
 landowner           noun  human
+langoustine         noun  animal
 Lankan              noun  human
 lark                noun  animal
 larva               noun  animal
@@ -1427,6 +1440,7 @@ mongrel             noun  animal
 monitor             noun  mixed
 monk                noun  human
 monkey              noun  animal
+monkfish            noun  animal
 monsieur            noun  human
 monster             noun  mixed
 moose               noun  animal
@@ -1485,6 +1499,7 @@ neo-Nazi            noun  human
 neoliberal          noun  human
 nephew              noun  human
 neurologist         noun  human
+newbie              noun  human
 newborn             noun  human
 newcomer            noun  human
 newsagent           noun  mixed
@@ -1506,12 +1521,15 @@ nominee             noun  human
 nonimmigrant        noun  human
 nonprofit           noun  group
 nonresident         noun  human
+noob                noun  human
 Norman              noun  human
 Norwegian           noun  mixed
 notable             noun  human
 notary              noun  human
 novelist            noun  human
 novice              noun  human
+numbskull           noun  human
+numskull            noun  human
 nun                 noun  human
 nurse               noun  human
 nymph               noun  mixed
@@ -1648,6 +1666,7 @@ philharmonic        noun  group
 philologist         noun  human
 philosopher         noun  human
 photographer        noun  human
+phrenologist        noun  human
 physician           noun  human
 physicist           noun  human
 physiologist        noun  human
@@ -1677,6 +1696,7 @@ plenipotentiary     noun  human
 plumber             noun  human
 PM                  noun  mixed
 poacher             noun  human
+podcaster           noun  human
 poet                noun  human
 Polack              noun  human
 Pole                noun  mixed
@@ -1700,6 +1720,7 @@ Portuguese          noun  mixed
 posse               noun  group
 possessor           noun  human
 possum              noun  animal
+postgrad            noun  human
 postgraduate        noun  human
 postman             noun  human
 postmaster          noun  human
@@ -1896,6 +1917,7 @@ salesman            noun  human
 salesperson         noun  human
 saleswoman          noun  human
 salmon              noun  animal
+salutatorian        noun  human
 samurai             noun  human
 sardine             noun  animal
 satirist            noun  human
@@ -1905,12 +1927,14 @@ savage              noun  human
 savior              noun  human
 Saxon               noun  human
 saxophonist         noun  human
+scallop             noun  animal
 scamp               noun  human
 scholar             noun  human
 school              noun  group
 schoolboy           noun  human
 schoolchild         noun  human
 schoolgirl          noun  human
+schoolkid           noun  human
 schoolmaster        noun  human
 schoolmate          noun  human
 schoolteacher       noun  human
@@ -2019,12 +2043,14 @@ songwriter          noun  human
 sophomore           noun  human
 soprano             noun  mixed
 sorcerer            noun  human
+sorority            noun  group
 sort                noun  mixed
 soul                noun  mixed
 southerner          noun  human
 southpaw            noun  human
 sovereign           noun  mixed
 sow                 noun  animal
+spammer             noun  human
 Spaniard            noun  human
 spaniel             noun  animal
 Spanish             noun  mixed
@@ -2035,6 +2061,7 @@ speaker             noun  mixed
 specialist          noun  human
 spectator           noun  human
 speculator          noun  human
+speedrunner         noun  human
 spic                noun  human
 spider              noun  animal
 spinster            noun  human
@@ -2219,6 +2246,7 @@ trooper             noun  human
 troubleshooter      noun  human
 troupe              noun  group
 trout               noun  animal
+truant              noun  human
 trumpeter           noun  human
 trustee             noun  mixed
 tsar                noun  human
@@ -2235,6 +2263,7 @@ tyrant              noun  human
 Ukrainian           noun  mixed
 umpire              noun  human
 uncle               noun  human
+undergrad           noun  human
 undergraduate       noun  human
 undersigned         noun  human
 undertaker          noun  human
@@ -2249,6 +2278,7 @@ utilitarian         noun  human
 utopian             noun  human
 vagabond            noun  human
 vagrant             noun  human
+valedictorian       noun  human
 valet               noun  human
 vampire             noun  mixed
 vandal              noun  human
@@ -2282,6 +2312,7 @@ viscount            noun  human
 visionary           noun  human
 visitor             noun  human
 vizier              noun  human
+vlogger             noun  human
 vocalist            noun  human
 vole                noun  animal
 volunteer           noun  human
@@ -2315,6 +2346,7 @@ wench               noun  human
 westerner           noun  human
 wetback             noun  human
 whale               noun  animal
+whelk               noun  animal
 Whig                noun  human
 whistleblower       noun  human
 whitey              noun  human

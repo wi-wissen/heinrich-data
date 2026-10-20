@@ -21,6 +21,7 @@ fancy          adj cmp=er
 fantastic      adj adv=fantastically
 fantastical adj
 far            adj cmp=farther|further sup=farthest|furthest
+farinaceous adj
 fascinating    adj cmp=more adv=fascinatingly
 fascist adj
 fashionable    adj cmp=more adv=fashionably

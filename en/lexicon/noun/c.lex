@@ -1,6 +1,7 @@
 cab noun
 cabaret noun
 cabbage noun
+cabernet noun conf=90 note=often capitalized Cabernet
 cabin noun
 cabinet noun
 cable noun
@@ -13,11 +14,14 @@ cadmium noun pl=- note=uncountable
 cadre noun
 cafe noun conf=90 note=also written café
 cafeteria noun
+cafetiere noun region=GB conf=90 note=also written cafetière; US French press
+cafetière noun region=GB conf=90 note=also written cafetiere; US French press
 caffeine noun pl=- note=uncountable
 café noun conf=90 note=also written cafe
 cage noun
 cairn noun
 cake noun
+calamari noun pl=- note=used as a mass noun
 calamity noun
 calcium noun pl=- note=uncountable
 calculation noun
@@ -40,10 +44,13 @@ calorie noun
 calumet noun conf=90 note=a ceremonial pipe
 calumny noun
 calyx noun pl=calyces|calyxes
+calzone noun pl=calzones|calzoni conf=90 note=unsure how common the Italian plural calzoni is
 cam noun
 Cambodian noun
+camcorder noun
 camel noun
 camellia noun
+camembert noun note=also capitalized Camembert
 cameo noun
 camera noun
 camouflage noun
@@ -59,6 +66,8 @@ camshaft noun
 can noun note=container
 Canadian noun
 canal noun
+canape noun conf=90 note=also written canapé
+canapé noun conf=90 note=also written canape
 canary noun
 cancellation noun
 cancer noun
@@ -73,8 +82,10 @@ candy noun
 cane noun
 canine noun
 cannabis noun pl=- note=uncountable
+cannelloni noun pl=- note=uncountable pasta name, already plural in Italian
 cannibal noun
 cannibalism noun pl=- note=uncountable
+cannoli noun pl=- conf=80 note=used as singular and plural
 cannon noun pl=cannons|cannon
 cannonade noun
 cannonball noun
@@ -83,6 +94,7 @@ canoeist noun
 canon noun
 canopy noun
 cant noun
+cantaloupe noun
 canteen noun
 canter noun
 canto noun pl=cantos
@@ -109,18 +121,22 @@ caprice noun
 capsule noun
 captain noun
 captaincy noun
+captcha noun conf=90 note=also CAPTCHA
 caption noun
 captive noun
 captivity noun pl=- note=uncountable
 captor noun
 capture noun
 car noun
+carafe noun pl=carafes
+carambola noun
 caramel noun
 carapace noun
 caravan noun
 carbine noun
 carbohydrate noun
 carbon noun
+carbonara noun pl=- note=uncountable
 carbonate noun
 carbuncle noun
 carburetor noun gb=carburettor
@@ -147,6 +163,7 @@ carnival noun
 carol noun
 carousel noun
 carp noun pl=carp|carps
+carpaccio noun pl=carpaccios
 carpal noun
 carpenter noun
 carpentry noun pl=- note=uncountable
@@ -191,6 +208,7 @@ casket noun
 cassava noun
 casserole noun
 cassette noun
+cassoulet noun
 cast noun
 caste noun
 Castilian noun
@@ -220,14 +238,18 @@ cathedral noun
 catheter noun
 cathode noun
 Catholic noun
+catsup noun pl=- region=US conf=90 note=uncountable; variant of ketchup
 cattle noun pl_only
 caucus noun
 cauliflower noun
+caulk noun pl=- note=uncountable
 causality noun
 causation noun pl=- note=uncountable
 cause noun
 causeway noun
 caution noun
+cautiousness noun pl=- note=uncountable
+cava noun
 cavalcade noun
 cavalier noun
 cavalry noun
@@ -237,12 +259,14 @@ caveat noun
 cavern noun
 cavity noun
 CBE noun abbr note=Commander of the Order of the British Empire
+CD noun abbr note=compact disc
 CDP noun abbr note=census-designated place
 ceasefire noun
 cedar noun
 ceiling noun
 celebration noun
 celebrity noun
+celeriac noun pl=- note=uncountable
 celery noun pl=- note=uncountable
 celibacy noun pl=- note=uncountable
 cell noun
@@ -281,10 +305,12 @@ certification noun
 cessation noun
 cession noun
 cetacean noun
+ceviche noun pl=- note=uncountable
 CFC noun abbr note=chlorofluorocarbon
 CFO noun abbr note=chief financial officer
 chaff noun pl=- note=uncountable
 chagrin noun pl=- note=uncountable
+chai noun
 chain noun
 chair noun
 chairman noun pl=chairmen
@@ -300,6 +326,7 @@ challenger noun
 chamber noun
 chamberlain noun
 chameleon noun
+chamomile noun pl=- gb=camomile|chamomile note=uncountable
 champ noun
 champagne noun
 champion noun
@@ -314,9 +341,11 @@ change noun
 changer noun
 channel noun
 chant noun
+chanterelle noun
 chaos noun pl=- note=uncountable
 chap noun
 chaparral noun
+chapati noun
 chapel noun
 chaperon noun conf=90 note=variant spelling of chaperone
 chaperone noun
@@ -326,6 +355,9 @@ character noun
 characteristic noun
 characterization noun gb=characterisation|characterization
 charcoal noun pl=- note=uncountable
+charcuterie noun pl=- note=uncountable
+chard noun pl=- note=uncountable
+chardonnay noun
 charge noun
 chargeback noun
 chargepoint noun region=GB conf=90 note=charging station for electric vehicles; also written charge point
@@ -355,11 +387,13 @@ checkmate noun
 checkout noun
 checkpoint noun
 checksum noun
+cheddar noun note=also capitalized Cheddar
 cheek noun
 cheer noun
 cheerfulness noun pl=- note=uncountable
 cheese noun
 cheeseburger noun
+cheesecake noun
 cheetah noun
 chef noun note=plural chefs
 chemical noun
@@ -369,6 +403,7 @@ chemotherapy noun pl=- note=uncountable
 chequebook noun region=GB conf=90 note=US checkbook
 Cherokee noun conf=80 note=Cherokee: the people and the language
 cherry noun
+chervil noun pl=- note=uncountable
 chess noun pl=- note=the game
 chest noun
 chestnut noun
@@ -376,12 +411,14 @@ chevalier noun
 chevron noun
 Cheyenne noun pl=Cheyenne|Cheyennes note=the people; also the city
 chi noun conf=90 note=Greek letter; vital energy (also qi)
+chia noun pl=- note=uncountable
 chic noun pl=- note=uncountable
 chick noun
 Chickasaw noun pl=Chickasaw|Chickasaws
 chicken noun
 chickenpox noun pl=- note=uncountable
 chickpea noun
+chicory noun
 chief noun note=plural chiefs
 chieftain noun
 child noun pl=children
@@ -392,6 +429,7 @@ Chilean noun
 chili noun pl=chilies|chilis gb=chilli|chili conf=90 note=chilli, chillies are the usual British spellings
 chill noun
 chime noun
+chimichanga noun
 chimney noun
 chimp noun
 chimpanzee noun
@@ -403,6 +441,7 @@ Chinese noun pl=Chinese note=a person; the language
 chink noun note=narrow opening; also a slur (Chink), not marked because of the neutral sense
 Chinook noun conf=90 note=the people; also wind and helicopter
 chip noun
+chipotle noun
 Chippewa noun pl=Chippewa|Chippewas
 chipset noun
 chisel noun
@@ -423,6 +462,7 @@ chopstick noun
 chord noun
 choreographer noun
 choreography noun
+chorizo noun pl=chorizos
 chorus noun
 chowder noun
 christening noun
@@ -439,10 +479,14 @@ chum noun
 chunk noun
 church noun
 churchyard noun
+churro noun pl=churros
+chutney noun
 château noun pl=châteaux|châteaus
+ciabatta noun
 cider noun
 cigar noun
 cigarette noun
+cilantro noun pl=- region=US note=uncountable; British coriander
 cilium noun pl=cilia
 cinema noun
 cinematographer noun
@@ -462,6 +506,7 @@ circumvention noun pl=- note=uncountable
 circus noun
 cirripede noun note=barnacle (zoology)
 cirrus noun pl=cirri
+cistern noun
 citadel noun
 citation noun
 citizen noun
@@ -474,6 +519,7 @@ civility noun
 civilization noun gb=civilisation|civilization
 cladding noun pl=- note=uncountable
 clade noun
+clafoutis noun pl=clafoutis
 claim noun
 claimant noun
 clam noun
@@ -507,6 +553,7 @@ clearance noun
 clearinghouse noun note=also written clearing house
 clearness noun pl=- note=uncountable
 cleavage noun
+cleaver noun
 cleft noun
 clemency noun pl=- note=uncountable
 clementine noun
@@ -525,6 +572,7 @@ climax noun
 climb noun
 climber noun
 clime noun
+clingfilm noun pl=- region=GB conf=90 note=uncountable; also cling film; US plastic wrap
 clinic noun
 clinician noun
 clip noun
@@ -543,6 +591,8 @@ closet noun
 closure noun
 cloth noun
 clothes noun pl_only
+clothesline noun
+clothespin noun region=US note=British clothes peg
 clothing noun pl=- note=uncountable
 cloud noun
 clout noun
@@ -578,6 +628,7 @@ cocaine noun pl=- note=uncountable
 cock noun
 cockatoo noun
 cockerel noun
+cockle noun
 Cockney noun
 cockpit noun
 cockroach noun
@@ -617,6 +668,7 @@ cola noun
 colander noun
 cold noun
 coldness noun pl=- note=uncountable
+coleslaw noun pl=- note=uncountable
 coliseum noun
 collaboration noun
 collaborator noun
@@ -666,6 +718,7 @@ comedy noun
 comer noun
 comet noun
 comfort noun
+comforter noun
 comic noun
 comma noun
 command noun
@@ -746,6 +799,7 @@ composer noun
 composite noun
 composition noun
 compost noun
+composter noun
 composure noun pl=- note=uncountable
 compound noun
 comprehension noun
@@ -789,6 +843,7 @@ condemnation noun
 condensation noun
 condensin noun
 condescension noun pl=- note=uncountable
+condiment noun
 condition noun
 conditioner noun
 conditioning noun pl=- note=uncountable
@@ -814,10 +869,12 @@ confessor noun
 confidant noun
 confidence noun
 confidentiality noun pl=- note=uncountable
+config noun conf=90 note=short for configuration
 configuration noun
 confinement noun
 confirmation noun
 confiscation noun
+confit noun
 conflagration noun
 conflict noun
 confluence noun
@@ -826,6 +883,7 @@ conformation noun
 conformity noun pl=- note=uncountable
 confrontation noun
 confusion noun
+congee noun pl=- note=uncountable
 congestion noun pl=- note=uncountable
 conglomerate noun
 congratulation noun
@@ -866,9 +924,12 @@ consistency noun
 consolation noun
 console noun
 consolidation noun
+consomme noun conf=90 note=also written consommé
+consommé noun conf=90 note=also written consomme
 consonant noun
 consort noun
 consortium noun pl=consortia|consortiums
+conspicuousness noun pl=- note=uncountable
 conspiracy noun
 conspirator noun
 constable noun
@@ -961,6 +1022,7 @@ cookbook noun
 cooker noun
 cookery noun pl=- note=uncountable
 cookie noun
+cooktop noun region=US
 cool noun
 coolant noun
 cooler noun
@@ -979,6 +1041,7 @@ copay noun conf=85 note=chiefly American
 copayment noun conf=85
 copier noun
 copper noun
+coppersmith noun
 copra noun pl=- note=uncountable
 copse noun
 copy noun
@@ -992,16 +1055,21 @@ cord noun
 cordiality noun pl=- note=uncountable
 cordon noun
 core noun
+corer noun
+coriander noun pl=- note=uncountable
 corium noun
 cork noun
+corkboard noun
 corkscrew noun
 corn noun
+cornbread noun pl=- note=uncountable
 cornea noun
 corner noun
 cornerback noun
 cornerstone noun
 cornet noun
 cornfield noun
+cornflake noun
 cornice noun
 Cornish noun pl=- note=the language
 corolla noun
@@ -1028,6 +1096,7 @@ corridor noun
 corrosion noun pl=- note=uncountable
 corruption noun
 corset noun
+cortado noun pl=cortados
 cortex noun pl=cortices|cortexes
 corvette noun
 cosine noun
@@ -1066,6 +1135,7 @@ counterparty noun
 counterpoint noun
 countersignature noun
 counterterrorism noun pl=- gb=counter-terrorism|counterterrorism conf=90 note=uncountable; British texts mostly hyphenate
+countertop noun region=US
 counterweight noun
 countess noun
 country noun
@@ -1088,12 +1158,14 @@ courtier noun
 courtroom noun
 courtship noun
 courtyard noun
+couscous noun pl=- note=uncountable
 cousin noun
 cove noun
 covenant noun
 cover noun
 coverage noun
 covering noun
+coverlet noun
 covert noun
 covid noun pl=- note=COVID-19; usually written COVID or Covid
 cow noun
@@ -1128,6 +1200,7 @@ crate noun
 crater noun
 cravat noun
 craving noun
+crawfish noun pl=crawfish|crawfishes region=US
 crawl noun
 crayfish noun pl=crayfish|crayfishes
 crayon noun
@@ -1153,6 +1226,7 @@ creek noun
 creep noun
 cremation noun
 Creole noun
+crepe noun conf=90 note=also written crêpe
 crescent noun
 crest noun
 crevice noun
@@ -1167,6 +1241,7 @@ criminality noun pl=- note=uncountable
 crimson noun
 crisis noun pl=crises
 crisp noun
+crispbread noun
 criterion noun pl=criteria
 critic noun
 criticality noun
@@ -1183,6 +1258,7 @@ crony noun
 crook noun
 crop noun
 croquet noun pl=- note=uncountable
+croquette noun
 cross noun
 cross-heading noun
 crossing noun
@@ -1190,6 +1266,7 @@ crossover noun
 crossroads noun pl=crossroads
 crosswalk noun region=US note=British pedestrian crossing
 crossword noun
+crouton noun
 crow noun
 crowd noun
 crowdfunding noun pl=- note=uncountable
@@ -1197,6 +1274,8 @@ crown noun
 crucifix noun
 crucifixion noun
 crude noun note=crude oil
+crudites noun pl_only conf=90 note=also written crudités
+crudités noun pl_only conf=90 note=also written crudites
 cruelty noun
 cruise noun
 cruiser noun
@@ -1210,6 +1289,7 @@ crust noun
 crustacean noun
 crutch noun
 cry noun
+crybaby noun
 crypt noun
 crypto noun note=cryptocurrency
 cryptoasset noun
@@ -1217,6 +1297,7 @@ cryptocurrency noun
 cryptography noun pl=- note=uncountable
 crystal noun
 crystallization noun gb=crystallisation|crystallization
+crêpe noun conf=90 note=also written crepe
 CT noun abbr conf=90 note=computed tomography; Connecticut
 CTA noun abbr conf=85 note=call to action; Chicago Transit Authority
 CTO noun abbr note=chief technology officer
@@ -1281,6 +1362,7 @@ customer noun
 customization noun gb=customisation|customization
 cut noun
 cutback noun
+cutlery noun pl=- note=uncountable
 cutoff noun
 cutter noun
 cutting noun

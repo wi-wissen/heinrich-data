@@ -144,6 +144,7 @@ invent         verb
 invert verb
 invest         verb
 investigate    verb
+invigilate verb region=GB
 invite         verb
 invoice        verb
 invoke         verb

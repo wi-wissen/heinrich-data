@@ -1,5 +1,6 @@
 Magna x foreign note=only in Magna Carta
 Mar.          x abbr note=March
+mein x foreign note=only in chow mein, lo mein
 mellitus x foreign note=only in diabetes mellitus
 mg            x abbr note=milligram(s)
 MHz           x abbr note=megahertz

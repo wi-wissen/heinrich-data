@@ -3,6 +3,7 @@ oar           noun
 oasis noun pl=oases
 oat noun
 oath          noun
+oatmeal noun pl=- note=uncountable
 OBE           noun abbr note=Officer of the Order of the British Empire
 obedience     noun pl=- note=uncountable
 obelisk noun
@@ -27,6 +28,7 @@ obsessive noun
 obstacle      noun
 obstinacy noun pl=- note=uncountable
 obstruction   noun
+obtuseness noun pl=- note=uncountable
 obverse noun
 occasion      noun
 occult noun note=the occult
@@ -60,7 +62,9 @@ offshoot noun
 offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
+okra noun pl=- note=uncountable
 oldie noun style=colloquial
+OLED noun abbr note=organic light-emitting diode
 oligarch noun pl=oligarchs
 oligarchy noun
 olive         noun
@@ -76,11 +80,13 @@ omnibus noun pl=omnibuses
 onboarding noun pl=- note=uncountable
 oncology noun pl=- note=uncountable
 onesie noun
+onigiri noun pl=- note=used as singular and plural
 onion noun
 onlooker noun
 onset         noun
 onslaught noun
 onus noun pl=- note=singular only
+oolong noun pl=- note=uncountable
 op noun style=colloquial note=short for operation: photo op, special ops
 opacity noun
 opal noun
@@ -127,6 +133,7 @@ ordinance     noun
 ordination noun
 ordnance noun pl=- note=uncountable
 ore           noun
+orecchiette noun pl=- note=uncountable pasta name, already plural in Italian
 oregano noun pl=- note=uncountable
 organ         noun
 organism      noun
@@ -149,6 +156,7 @@ orphan noun
 orphanage noun
 orthodoxy noun
 orthography noun
+orzo noun pl=- note=uncountable
 OS            noun abbr note=operating system
 oscillation noun
 oscillator noun
@@ -184,11 +192,13 @@ outpost noun
 outpouring noun
 output        noun
 outrage       noun
+outrageousness noun pl=- note=uncountable
 outreach      noun pl=- note=uncountable
 outset        noun pl=- note=only singular (at the outset)
 outsider noun
 outskirts     noun pl_only
 outsourcing noun pl=- note=uncountable
+ouzo noun pl=ouzos
 oval          noun
 ovation noun
 oven          noun

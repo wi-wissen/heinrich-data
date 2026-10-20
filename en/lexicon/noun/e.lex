@@ -1,9 +1,12 @@
+e-book noun
 e-commerce noun pl=- note=uncountable
 e-mail noun note=hyphenated spelling of email
+e-reader noun
 eagerness noun pl=- note=uncountable
 eagle noun
 ear noun
 earache noun
+earbud noun
 earl noun
 earldom noun
 earlobe noun
@@ -21,6 +24,7 @@ earthenware noun pl=- note=uncountable
 earthquake noun
 earthwork noun
 earthworm noun
+earwig noun
 ease noun
 easel noun
 easement noun
@@ -29,10 +33,12 @@ easterly noun
 eaves noun pl_only
 ebb noun
 ebony noun
+ebook noun conf=90 note=also written e-book
 eccentric noun
 eccentricity noun
 ecclesiastic noun
 echo noun pl=echoes
+eclair noun conf=90 note=also written éclair
 eclipse noun
 ecliptic noun
 ecology noun
@@ -44,6 +50,8 @@ ecoregion noun
 ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
+edam noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Edam
+edamame noun pl=- note=uncountable
 eddy noun
 edema noun gb=oedema
 edge noun
@@ -73,6 +81,7 @@ egotism noun pl=- note=uncountable
 egress noun
 EGU noun abbr note=electric generating unit
 Egyptian noun
+eiderdown noun
 eigenvalue noun
 EIS noun abbr note=environmental impact statement
 ejaculation noun
@@ -82,6 +91,8 @@ elastic noun
 elasticity noun
 elbow noun
 elder noun
+elderberry noun
+elderflower noun
 election noun
 electioneering noun pl=- note=uncountable
 elective noun
@@ -128,6 +139,7 @@ embryo noun pl=embryos
 emerald noun
 emergence noun pl=- note=uncountable
 emergency noun
+emery noun pl=- note=uncountable
 emigrant noun
 emigration noun
 eminence noun
@@ -135,10 +147,12 @@ emirate noun
 emissary noun
 emission noun
 emitter noun
+emmental noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Emmental
 emoji noun pl=emojis|emoji
 emolument noun
 emoticon noun
 emotion noun
+empanada noun
 empathy noun
 emperor noun
 emphasis noun pl=emphases
@@ -152,11 +166,14 @@ empress noun
 emptiness noun pl=- note=uncountable
 emu noun
 emulation noun
+emulator noun
+emulsion noun
 enabler noun
 enactment noun
 enamel noun
 encampment noun
 enchantment noun
+enchilada noun
 enclave noun
 enclosure noun
 encoder noun
@@ -171,6 +188,7 @@ end noun
 endeavor noun gb=endeavour
 endgame noun
 ending noun
+endive noun
 endometriosis noun pl=- note=uncountable
 endorsement noun
 endowment noun
@@ -197,6 +215,7 @@ enlightenment noun
 enlistment noun
 enmity noun
 ennui noun pl=- note=uncountable
+enoki noun pl=- note=uncountable
 enormity noun
 enrichment noun
 enrollee noun
@@ -218,10 +237,12 @@ entourage noun
 entrance noun
 entrant noun
 entreaty noun
+entree noun conf=90 note=also written entrée
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
 entry noun
+entrée noun conf=90 note=also written entree
 enumeration noun
 envelope noun
 environment noun
@@ -264,6 +285,7 @@ era noun
 eradication noun pl=- note=uncountable
 eraser noun
 erasure noun
+ereader noun conf=80 note=usually written e-reader
 erection noun
 ergonomics noun pl_only conf=90 note=construed as singular
 ermine noun pl=ermine|ermines
@@ -279,6 +301,7 @@ escort noun
 escrow noun
 ESP noun abbr pl=- note=extrasensory perception
 espionage noun pl=- note=uncountable
+esports noun pl=- conf=90 note=uncountable; also e-sports
 espresso noun pl=espressos
 essay noun
 essayist noun
@@ -418,6 +441,7 @@ expression noun
 expressway noun
 expropriation noun
 expulsion noun
+extender noun
 extension noun
 extent noun
 exterior noun
@@ -429,6 +453,7 @@ extortion noun pl=- note=uncountable
 extra noun
 extract noun
 extraction noun
+extractor noun
 extradition noun
 extranet noun
 extraterrestrial noun
@@ -446,3 +471,4 @@ eyelash noun
 eyelid noun
 eyesight noun pl=- note=uncountable
 eyewitness noun
+éclair noun conf=90 note=also written eclair

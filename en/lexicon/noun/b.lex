@@ -6,6 +6,7 @@ babel noun
 baboon noun
 baby noun
 Babylonian noun
+baccalaureate noun
 bachelor noun
 back noun
 backache noun
@@ -20,6 +21,7 @@ backlash noun
 backlog noun
 backpack noun
 backslash noun
+backsplash noun region=US
 backstop noun
 backstory noun
 backstroke noun pl=- note=the swimming stroke
@@ -38,9 +40,11 @@ baht noun pl=baht
 bail noun
 bailiff noun
 bailout noun
+bain-marie noun pl=bains-marie|bain-maries conf=80 note=unsure which plural is more usual in English
 bait noun
 baker noun
 bakery noun
+baklava noun pl=- note=uncountable
 balaclava noun
 balance noun
 balcony noun
@@ -53,9 +57,12 @@ ballet noun
 balloon noun
 ballot noun
 ballpark noun
+ballpoint noun
 ballroom noun
 balm noun
 balsam noun
+balsamic noun pl=- note=uncountable; balsamic vinegar
+balti noun
 balustrade noun
 bamboo noun
 ban noun
@@ -67,7 +74,9 @@ bandleader noun
 bandmate noun
 bandwidth noun
 bang noun
+banger noun region=GB note=a sausage; an old car; a firework
 banishment noun
+banister noun conf=90 note=also bannister
 banjo noun pl=banjos|banjoes
 bank noun
 banker noun
@@ -75,9 +84,11 @@ banknote noun
 bankroll noun
 bankruptcy noun
 banner noun
+bannister noun conf=90 note=also banister
 banquet noun
 bantam noun
 banter noun pl=- note=uncountable
+bao noun pl=- conf=80 note=used as singular and plural
 baptism noun
 Baptist noun
 bar noun
@@ -91,6 +102,7 @@ barcode noun
 bard noun
 bargain noun
 barge noun
+barista noun
 baritone noun
 bark noun
 barley noun pl=- note=uncountable
@@ -116,6 +128,7 @@ barter noun pl=- note=uncountable
 basalt noun
 base noun
 baseball noun
+baseboard noun region=US note=British skirting board
 baseline noun
 baseman noun pl=basemen
 basement noun
@@ -128,8 +141,10 @@ basin noun
 basis noun pl=bases
 basket noun
 basketball noun
+basmati noun pl=- note=uncountable
 Basque noun
 bass noun
+bassinet noun
 bassist noun
 bassoon noun
 bastard noun
@@ -155,6 +170,7 @@ bay noun
 bayonet noun
 bayou noun
 bazaar noun
+BBQ noun abbr note=barbecue
 beach noun
 beacon noun
 bead noun
@@ -169,6 +185,7 @@ bear noun
 beard noun
 bearer noun
 bearing noun
+bearnaise noun pl=- conf=90 note=uncountable; also written béarnaise
 beast noun
 beat noun
 beating noun
@@ -176,12 +193,15 @@ beau noun pl=beaux|beaus
 beauty noun
 beaver noun
 bebop noun pl=- note=uncountable
+bechamel noun pl=- conf=90 note=uncountable; also written béchamel
 bed noun
 bedchamber noun
 bedding noun pl=- note=uncountable
+bedpost noun
 bedrock noun pl=- note=uncountable
 bedroom noun
 bedside noun
+bedspread noun
 bedstead noun
 bedtime noun
 bee noun
@@ -198,6 +218,7 @@ behalf noun pl=- note=on behalf of
 behavior noun gb=behaviour
 behest noun pl=- note=at the behest of
 beholder noun
+beignet noun
 being noun
 Belarusian noun
 belfry noun
@@ -208,6 +229,7 @@ bell noun
 belle noun
 bellhop noun
 belligerent noun
+bellini noun conf=90 note=also capitalized Bellini
 bellow noun
 belly noun
 belongings noun pl_only
@@ -225,6 +247,7 @@ beneficiary noun
 benefit noun
 benevolence noun pl=- note=uncountable
 Bengali noun
+bento noun pl=bentos
 benzene noun pl=- note=uncountable
 benzodiazepine noun
 bequest noun
@@ -243,19 +266,24 @@ betterment noun pl=- note=uncountable
 beverage noun
 bewilderment noun pl=- note=uncountable
 bey noun conf=90 note=Ottoman title, usually capitalized after a name
+bhaji noun
 bias noun
 bib noun
+bibimbap noun pl=- note=uncountable
 bible noun
 bibliography noun
 bicentennial noun
 bicycle noun
 bid noun
 bidder noun
+bidet noun
 biennial noun
 bight noun
 bigotry noun pl=- note=uncountable
+bijou noun pl=bijoux conf=90 note=a jewel or trinket
 bike noun
 bikini noun
+bilberry noun
 bile noun pl=- note=uncountable
 bilirubin noun pl=- note=uncountable
 bill noun
@@ -265,6 +293,7 @@ billionaire noun
 billow noun
 bin noun
 binary noun
+binbag noun region=GB conf=80 note=also bin bag
 binder noun
 binding noun
 bingo noun pl=- note=uncountable
@@ -289,6 +318,7 @@ biometrics noun pl=- note=uncountable, the field; biometric is the adjective
 biopic noun
 biopsy noun
 bioremediation noun pl=- note=uncountable
+BIOS noun abbr pl=- note=basic input/output system
 biosecurity noun pl=- note=uncountable
 biosimilar noun
 biosphere noun
@@ -296,10 +326,13 @@ biotechnology noun
 biplane noun
 birch noun
 bird noun
+biro noun pl=biros region=GB note=from a trademark
 birth noun
 birthday noun
 birthplace noun
 birthright noun
+biryani noun
+biscotti noun pl=- conf=90 note=already plural in Italian; used as singular and plural
 biscuit noun
 bisexual noun
 bishop noun
@@ -327,6 +360,8 @@ blacksmith noun
 bladder noun
 blade noun
 blame noun pl=- note=uncountable
+blamelessness noun pl=- note=uncountable
+blancmange noun
 blank noun
 blanket noun
 blasphemy noun
@@ -343,6 +378,7 @@ blight noun
 blind noun
 blindfold noun
 blindness noun pl=- note=uncountable
+blini noun pl=blini|blinis conf=80 note=used as singular and plural
 bliss noun pl=- note=uncountable
 blister noun
 blitz noun
@@ -403,7 +439,9 @@ bog noun
 Bohemian noun
 boiler noun
 boilerplate noun pl=- note=uncountable
+boisterousness noun pl=- note=uncountable
 boldness noun pl=- note=uncountable
+bolognese noun pl=- note=uncountable; the sauce
 bolt noun
 bomb noun
 bombardier noun
@@ -438,6 +476,7 @@ boost noun
 booster noun
 boot noun
 booth noun
+bootloader noun
 booty noun pl=- note=plunder; uncountable
 border noun
 bore noun
@@ -446,6 +485,7 @@ boron noun pl=- note=chemical element, uncountable
 borough noun
 borrower noun
 borrowing noun
+borscht noun pl=- note=uncountable
 Bosnian noun
 bosom noun
 boss noun
@@ -459,6 +499,7 @@ bottlenose noun
 bottom noun
 boudoir noun
 bough noun
+bouillabaisse noun pl=- note=uncountable
 boulder noun
 boulevard noun
 bounce noun
@@ -482,6 +523,7 @@ boy noun
 boycott noun
 boyfriend noun
 boyhood noun
+boysenberry noun
 bra noun
 brace noun
 bracelet noun
@@ -497,6 +539,7 @@ brand noun
 branding noun pl=- note=uncountable
 brandy noun
 brass noun
+bratwurst noun
 bravado noun pl=- note=uncountable
 bravery noun pl=- note=uncountable
 brawl noun
@@ -512,6 +555,7 @@ breaker noun
 breakeven noun conf=80 note=also break-even
 breakfast noun
 breakout noun
+breakroom noun region=US
 breakthrough noun
 breaktime noun region=GB note=school break
 breakup noun
@@ -537,6 +581,7 @@ bridegroom noun
 bridge noun
 bridle noun
 bridleway noun region=GB
+brie noun note=countable for a whole cheese or a variety, also a mass noun; also capitalized Brie
 brief noun pl=briefs
 briefcase noun
 briefing noun
@@ -551,6 +596,8 @@ brilliancy noun
 brim noun
 brine noun
 brink noun
+brioche noun
+brisket noun
 bristle noun
 Briton noun
 broadband noun pl=- note=uncountable
@@ -559,6 +606,7 @@ broadcaster noun
 broadside noun
 brocade noun
 broccoli noun pl=- note=uncountable
+broccolini noun pl=- note=uncountable
 brochure noun
 broker noun
 brokerage noun
@@ -582,11 +630,13 @@ bruise noun
 brunch noun
 brunette noun
 brunt noun pl=- note=only in bear the brunt
+bruschetta noun
 brush noun
 brushwood noun pl=- note=uncountable
 brutality noun
 brute noun
 bubble noun
+bucatini noun pl=- note=uncountable pasta name, already plural in Italian
 buck noun
 bucket noun
 buckle noun
@@ -603,6 +653,7 @@ buff noun
 buffalo noun pl=buffalo|buffaloes|buffalos
 buffer noun
 bug noun
+bugfix noun conf=90 note=also written bug fix
 buggy noun
 bugle noun
 build noun
@@ -612,6 +663,9 @@ buildup noun conf=90 note=also build-up
 bulb noun
 Bulgarian noun
 bulge noun
+bulghur noun pl=- conf=90 note=uncountable; also bulgur
+bulgogi noun pl=- note=uncountable
+bulgur noun pl=- note=uncountable
 bulk noun pl=- note=uncountable
 bulkhead noun
 bull noun
@@ -652,6 +706,7 @@ burn noun
 burner noun
 burnout noun
 burp noun
+burrata noun note=countable for a whole cheese or a variety, also a mass noun
 burrito noun pl=burritos
 burrow noun
 bursary noun
@@ -675,6 +730,7 @@ butte noun
 butter noun
 buttercup noun
 butterfly noun
+butternut noun
 button noun
 buttress noun
 buyback noun
@@ -691,3 +747,5 @@ byproduct noun conf=90 note=also by-product
 bystander noun
 byte noun
 byway noun
+béarnaise noun pl=- conf=90 note=uncountable; also written bearnaise
+béchamel noun pl=- conf=90 note=uncountable; also written bechamel

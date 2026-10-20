@@ -14,6 +14,7 @@ wavy adj cmp=er
 wayward adj cmp=more
 weak adj cmp=er adv=weakly
 wealthy adj cmp=er
+wearable adj
 wearisome adj cmp=more
 weary adj cmp=er adv=wearily
 wee adj

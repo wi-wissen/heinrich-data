@@ -1,13 +1,18 @@
+d'oeuvre noun conf=80 note=only in hors d'oeuvre, plural hors d'oeuvres
 D-SNP noun abbr note=dual eligible special needs plan (US Medicare)
 dad noun
 daddy noun
+dado noun pl=dados|dadoes conf=90 note=both plurals are in use
 daffodil noun
 dagger noun
 dago noun pl=dagos|dagoes style=offensive note=slur for Italians, Spaniards and Portuguese
+dahl noun conf=80 note=also dal, dhal
 daily noun
+daiquiri noun
 dairy noun
 dais noun
 daisy noun
+dal noun conf=90 note=also dhal, dahl
 dale noun
 dam noun
 damage noun
@@ -16,6 +21,7 @@ dame noun
 damnation noun pl=- note=uncountable
 damp noun
 damsel noun
+damson noun
 dan noun conf=80 note=grade in martial arts
 dance noun
 dancer noun
@@ -35,6 +41,8 @@ dart noun
 darter noun
 dash noun
 dashboard noun
+dashcam noun
+dashi noun pl=- note=uncountable
 data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
@@ -45,6 +53,7 @@ daughter noun
 dauphin noun
 dawn noun
 day noun
+daybed noun
 daybreak noun
 daylight noun
 daytime noun
@@ -78,6 +87,8 @@ debtor noun
 debugger noun
 debut noun
 decade noun
+decaf noun pl=decafs
+decanter noun
 decarbonization noun gb=decarbonisation|decarbonization pl=- note=uncountable process noun
 decay noun
 deceased noun pl=- note=the deceased
@@ -134,6 +145,7 @@ deformity noun
 degeneration noun
 degradation noun
 degree noun
+dehumidifier noun
 dehydration noun pl=- note=uncountable
 dehydrogenase noun
 deity noun
@@ -172,6 +184,7 @@ demon noun
 demonstration noun
 demonstrator noun
 demotion noun
+demureness noun pl=- note=uncountable
 den noun
 dengue noun pl=- note=uncountable
 denial noun
@@ -218,6 +231,7 @@ derision noun pl=- note=uncountable
 derivation noun
 derivative noun
 derogation noun
+descaler noun
 descendant noun
 descent noun
 description noun
@@ -253,6 +267,7 @@ detection noun
 detective noun
 detector noun
 detention noun
+detergent noun
 deterioration noun
 determinant noun
 determination noun
@@ -277,6 +292,7 @@ devotee noun
 devotion noun
 dew noun
 dexterity noun pl=- note=uncountable
+dhal noun conf=90 note=also dal, dahl
 dharma noun pl=- note=uncountable
 diabetes noun pl=- note=uncountable
 diabetic noun
@@ -323,10 +339,12 @@ dignity noun
 dike noun gb=dyke|dike conf=85 note=embankment; dyke is the usual British spelling
 dilemma noun
 diligence noun pl=- note=uncountable
+dill noun pl=- note=uncountable
 dilution noun
 dime noun
 dimension noun
 diminution noun
+dimmer noun
 dimness noun pl=- note=uncountable
 din noun
 diner noun
@@ -334,6 +352,7 @@ dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
 dinner noun
+dinnerware noun pl=- note=uncountable
 dinosaur noun
 dint noun note=chiefly in "by dint of"
 diocese noun
@@ -399,10 +418,14 @@ disgrace noun
 disguise noun
 disgust noun
 dish noun
+dishcloth noun
 dishonesty noun pl=- note=uncountable
 dishonor noun gb=dishonour
+dishrag noun region=US
 dishwasher noun
+dishwashing noun pl=- note=uncountable
 disincentive noun
+disinfectant noun
 disinformation noun pl=- note=uncountable
 disintegration noun
 disinvestment noun
@@ -471,6 +494,7 @@ divestiture noun
 divestment noun
 divide noun
 dividend noun
+divider noun
 divination noun
 divinity noun
 division noun
@@ -479,6 +503,7 @@ dizziness noun pl=- note=uncountable
 DJ noun abbr note=disc jockey
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
+DNS noun abbr pl=- note=Domain Name System
 do noun pl=dos conf=85 note=a party (informal); dos and don'ts
 doc noun note=colloquial: doctor, document
 dock noun
@@ -502,6 +527,7 @@ dole noun
 doll noun
 dollar noun
 dolly noun
+dolma noun pl=dolmas|dolmades conf=80 note=dolmades is the Greek plural; both are used in English menus
 dolphin noun
 domain noun
 dome noun
@@ -515,6 +541,7 @@ dominion noun
 domino noun pl=dominoes|dominos
 donation noun
 donee noun
+doner noun note=doner kebab; also döner
 dongle noun
 donkey noun
 donor noun
@@ -533,6 +560,7 @@ dope noun
 dorm noun note=short for dormitory
 dormer noun
 dormitory noun
+dosa noun
 dosage noun
 dose noun
 dossier noun
@@ -547,6 +575,7 @@ dowager noun
 down noun note=soft feathers; the Downs (hills)
 downfall noun
 downhill noun
+downlight noun
 download noun
 downsizing noun pl=- note=uncountable
 downstairs noun pl=- note=the downstairs
@@ -559,6 +588,7 @@ drag noun
 dragoman noun pl=dragomans|dragomen
 dragon noun
 dragonfly noun
+dragonfruit noun pl=dragonfruit|dragonfruits conf=90 note=also dragon fruit
 dragoon noun
 drain noun
 drainage noun pl=- note=uncountable
@@ -611,6 +641,9 @@ drunkard noun
 drunkenness noun pl=- note=uncountable
 dryer noun
 dryness noun pl=- note=uncountable
+drywall noun pl=- region=US note=uncountable; British plasterboard
+DSL noun abbr pl=- note=digital subscriber line
+DSLR noun abbr note=digital single-lens reflex camera
 dualism noun
 duality noun
 ducat noun
@@ -638,9 +671,11 @@ duplication noun
 duplicity noun pl=- note=uncountable
 durability noun pl=- note=uncountable
 duration noun
+durian noun
 dusk noun
 dust noun
 dustbin noun region=GB note=US trash can
+duster noun
 dustpan noun
 Dutch noun pl=- note=the language; the Dutch (people)
 duty noun

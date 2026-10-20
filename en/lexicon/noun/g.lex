@@ -7,9 +7,11 @@ gain           noun
 gait noun
 gal noun style=colloquial
 gala noun
+galangal noun pl=- note=uncountable
 galaxy         noun
 gale           noun
 galena noun pl=- note=uncountable
+galette noun
 gall noun
 gallantry noun
 gallery        noun
@@ -22,6 +24,7 @@ gambler noun
 gambling       noun pl=- note=uncountable; the verb form comes from gamble
 game           noun
 gamelan noun
+gamepad noun
 gameplay       noun pl=- note=uncountable
 gamer noun
 gamete noun
@@ -51,6 +54,7 @@ gasoline       noun pl=- note=uncountable
 gasp           noun
 gastropod noun
 gate           noun
+gateau noun pl=gateaux|gateaus conf=90 note=also written gâteau
 gatehouse noun
 gatekeeper noun
 gateway        noun
@@ -64,12 +68,15 @@ gayety noun style=archaic conf=90 note=older, less common spelling of gaiety
 gaze           noun
 gazelle noun
 gazette        noun
+gazpacho noun pl=gazpachos
+GCSE noun abbr region=GB note=General Certificate of Secondary Education
 GDP            noun abbr note=gross domestic product
 gear           noun
 gearbox noun
 gearing noun pl=- region=GB note=uncountable; US leverage
 gecko noun pl=geckos
 gel noun
+gelato noun pl=gelatos|gelati conf=90 note=gelati is the Italian plural, also used in English
 gem noun
 gemmule noun
 gender         noun
@@ -107,21 +114,26 @@ geologist noun
 geology        noun
 geometry       noun
 Georgian       noun
+geotag noun conf=90 note=new word; also written geo-tag
 gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
 gestation noun
 gesture        noun
+ghee noun pl=- note=uncountable
 ghetto noun pl=ghettos|ghettoes
 ghost          noun
 GI             noun abbr note=US soldier
 giant          noun
+GIF noun abbr note=graphics interchange format; an animated image
 gift           noun
 gig            noun
 gigabit noun
 gigabyte noun
+gigahertz noun pl=gigahertz
 giggle noun
 gill noun
+gimbal noun
 gimmick noun
 gin noun
 ginger noun
@@ -163,6 +175,7 @@ glove          noun
 glow           noun
 glucose noun pl=- note=uncountable
 glue noun
+gnocchi noun pl=- note=already plural in Italian; used as a mass noun
 go             noun pl=goes note=an attempt, have a go
 goal           noun
 goalie noun
@@ -172,6 +185,7 @@ goaltender noun
 goat           noun
 goblet noun
 goblin noun
+gochujang noun pl=- note=uncountable
 god            noun
 godchild noun pl=godchildren
 goddess        noun
@@ -187,6 +201,7 @@ gondola noun
 gong noun
 good           noun note=plural goods: merchandise
 good-bye noun note=older spelling of goodbye
+good-heartedness noun pl=- note=uncountable
 goodbye noun
 goodness       noun pl=- note=uncountable
 goodwill noun pl=- note=uncountable
@@ -195,6 +210,7 @@ goose noun pl=geese
 gooseberry noun
 gore noun
 gorge          noun
+gorgonzola noun note=countable for a whole cheese or a variety, also a mass noun
 gorilla noun
 gorse noun pl=- note=uncountable
 gosling noun
@@ -202,6 +218,8 @@ gospel         noun
 gossip         noun
 Goth noun
 gouache noun
+gouda noun note=also capitalized Gouda
+goulash noun
 gourd noun
 gout noun pl=- note=uncountable
 governance     noun pl=- note=uncountable
@@ -213,9 +231,12 @@ governorship noun
 gown           noun
 GP             noun abbr note=general practitioner
 GPA noun abbr note=grade point average
+GPS noun abbr pl=- note=Global Positioning System
+GPU noun abbr note=graphics processing unit
 grab           noun
 grace          noun
 graciousness noun pl=- note=uncountable
+grad noun
 gradation noun
 grade          noun
 gradient noun
@@ -245,8 +266,10 @@ grandparent    noun
 grandson       noun
 grandstand noun
 grange         noun
+granita noun
 granite        noun
 granny noun
+granola noun pl=- note=uncountable
 grant          noun
 grantee        noun
 grantor noun
@@ -256,6 +279,7 @@ graph          noun
 graphene noun pl=- note=uncountable
 graphic        noun
 graphite noun pl=- note=uncountable
+grappa noun note=countable for a glass or a variety, also a mass noun
 grasp          noun
 grass          noun
 grasshopper noun
@@ -264,6 +288,7 @@ grassroots     noun pl_only
 grate noun
 grater noun
 gratification noun
+gratin noun
 grating noun
 gratitude      noun pl=- note=uncountable
 gratuity noun
@@ -272,6 +297,7 @@ gravel         noun
 graveyard noun
 gravitation noun pl=- note=uncountable
 gravity        noun
+gravlax noun pl=- note=uncountable
 gravy noun pl=- note=uncountable
 gray           noun gb=grey
 grease noun
@@ -279,6 +305,7 @@ greatness      noun pl=- note=uncountable
 greed noun pl=- note=uncountable
 Greek          noun
 green          noun
+greengage noun
 greengrocer noun
 greenhouse     noun
 greeter noun
@@ -287,6 +314,7 @@ grenade noun
 grenadier noun
 greyhound noun
 grid           noun
+griddle noun
 gridiron noun
 gridlock noun
 grief          noun note=plural griefs
@@ -295,7 +323,9 @@ grille noun
 grimace noun
 grin           noun
 grind          noun
+grinder noun
 grip           noun
+grissini noun pl=- conf=90 note=already plural in Italian; used as singular and plural
 grist noun pl=- note=uncountable
 gristmill noun
 grit noun
@@ -315,12 +345,16 @@ groundwork noun
 group          noun
 grouping       noun
 grouse noun pl=grouse|grouses note=grouse for the bird, grouses for complaints
+grout noun pl=- note=uncountable
 grove          noun
 grower noun
 growl          noun
 growth         noun
 grub noun
 grudge noun
+gruyere noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyère
+gruyère noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyere
+guacamole noun pl=- note=uncountable
 guano noun pl=- note=uncountable
 guarantee      noun
 guarantor noun
@@ -328,6 +362,7 @@ guaranty noun
 guard          noun
 guardian       noun
 guardianship noun
+guava noun
 guerilla noun conf=90 note=variant spelling of guerrilla
 guerrilla noun
 guess          noun
@@ -336,6 +371,7 @@ guidance       noun pl=- note=uncountable
 guide          noun
 guideline      noun
 guild          noun
+guile noun pl=- note=uncountable
 guilt          noun pl=- note=uncountable
 guinea         noun
 guise noun
@@ -368,6 +404,9 @@ gym noun
 gymnasium noun pl=gymnasiums|gymnasia
 gymnast noun
 gymnastics noun pl=- note=uncountable
+gyoza noun pl=- note=used as singular and plural
 gypsum noun pl=- note=uncountable
 Gypsy          noun note=neutral capitalized use (also a self-designation); lowercase gypsy is a separate entry marked offensive
 gypsy noun style=offensive alt=Roma note=lowercase use is derogatory; capitalized Gypsy is a separate neutral entry
+gyro noun pl=gyros
+gâteau noun pl=gâteaux|gâteaus conf=90 note=also written gateau

@@ -1,6 +1,7 @@
 umpire verb
 unbind verb prefix=un past=unbound pp=unbound
 unblock verb
+uncoil verb
 uncover       verb
 undercharge verb
 undercut verb prefix=under past=undercut pp=undercut

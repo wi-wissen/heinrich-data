@@ -48,6 +48,7 @@ Blackpool propn
 BLM propn abbr conf=90 note=Bureau of Land Management; Black Lives Matter
 Bloomberg propn note=media company
 BLS propn abbr note=Bureau of Labor Statistics
+Bluetooth propn note=trademark
 BMW propn abbr note=car manufacturer
 Boeing propn note=aircraft manufacturer
 BOEM propn abbr note=Bureau of Ocean Energy Management

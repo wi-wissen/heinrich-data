@@ -10,6 +10,7 @@ Serie x foreign note=in Serie A (Italian football league)
 Señor x foreign note=Spanish title
 Sgt. x abbr note=Sergeant
 shh intj
+shish x foreign note=only in shish kebab
 sic x foreign note=Latin, marks a quotation as original
 Signor x foreign note=Italian title
 signore x foreign conf=90 note=Italian form of address

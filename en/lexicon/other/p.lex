@@ -1,5 +1,7 @@
 p.a. x abbr note=per annum
 p.m. x abbr note=post meridiem, after noon
+pak x foreign note=only in pak choi
+panna x foreign note=only in panna cotta
 parte x foreign note=only in ex parte
 pas x foreign note=only in faux pas, pas de deux
 Pax x foreign note=Latin "peace": Pax Romana, Pax Americana

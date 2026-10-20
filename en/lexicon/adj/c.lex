@@ -141,6 +141,7 @@ cohesive adj cmp=more
 coincident adj
 coincidental adj adv=coincidentally
 cold adj cmp=er adv=coldly
+colicky adj
 collaborative adj adv=collaboratively
 collateral adj
 collectable adj
@@ -287,6 +288,7 @@ copious adj adv=copiously
 Coptic adj
 coral adj
 cordial adj adv=cordially
+cordless adj
 core adj
 corneal adj
 Cornish adj

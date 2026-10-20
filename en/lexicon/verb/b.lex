@@ -190,6 +190,7 @@ bud verb
 budge verb
 budget verb
 buff verb
+buffer verb nodouble note=stress on the first syllable; nodouble only silences the stress lint
 buffet verb
 bug verb
 build verb past=built pp=built
