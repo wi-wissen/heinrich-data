@@ -36,7 +36,7 @@ decisive adj cmp=more adv=decisively
 decorative adj adv=decoratively
 decorous adj
 decrepit adj
-dedicated adj cmp=more comp=p_ing prep=to
+dedicated adj comp=p_ing prep=to cmp=more
 deductible adj
 deductive adj adv=deductively
 deep adj cmp=er adv=deeply
@@ -78,7 +78,7 @@ deplorable adj cmp=more adv=deplorably
 depraved adj cmp=more
 depressed adj cmp=more
 depressive adj
-deprived adj cmp=more prep=of
+deprived adj prep=of cmp=more
 deranged adj
 derelict adj
 derisive adj cmp=more adv=derisively

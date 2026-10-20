@@ -210,7 +210,7 @@ patter noun
 pattern noun
 patty noun
 pauper noun
-pause noun vb=take
+pause noun vb=take xvb=make?
 pavement noun
 pavilion noun
 pavlova noun
@@ -805,7 +805,7 @@ prescription noun
 preseason noun
 presence noun
 present noun vb=give|buy|get|receive|open|wrap|make
-presentation noun
+presentation noun prep=on|of|to|about vb=give|make|do|deliver xvb=hold>give
 presenter noun
 presentiment noun
 preservation noun pl=- note=uncountable

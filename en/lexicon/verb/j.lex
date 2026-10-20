@@ -12,7 +12,7 @@ jewel verb
 jig verb
 jingle verb
 jog verb
-join           verb
+join           verb xprep=with?
 joke           verb comp=that prep=about|with
 jot verb
 journey        verb

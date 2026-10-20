@@ -132,7 +132,7 @@ ream noun
 reappearance noun
 reappointment noun
 rear noun
-reason noun prep=for|behind vb=give|have|find|see
+reason noun prep=for|behind xprep=of? vb=give|have|find|see
 reasonableness noun pl=- note=uncountable
 reasoning noun
 reassessment noun

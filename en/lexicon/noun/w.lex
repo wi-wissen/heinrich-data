@@ -56,7 +56,7 @@ wash noun
 washbasin noun
 washcloth noun region=US note=British flannel
 washer noun
-washing noun pl=- vb=do|hang_out xvb=make>do? note=laundry
+washing noun vb=do|hang_out xvb=make>do? pl=- note=laundry
 wasp noun
 wastage noun pl=- note=uncountable
 waste noun

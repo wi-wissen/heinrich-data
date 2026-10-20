@@ -536,7 +536,7 @@ clarion noun
 clarity noun pl=- note=uncountable
 clash noun
 clasp noun
-class noun
+class noun vb=attend|take|teach xvb=visit>attend?
 classic noun
 classification noun
 classmate noun
@@ -794,7 +794,7 @@ complexity noun
 compliance noun prep=with pl=- note=uncountable
 complication noun
 complicity noun pl=- note=uncountable
-compliment noun vb=pay|give|receive|take|return
+compliment noun vb=pay|give|receive|take|return xvb=make>pay?
 component noun
 composer noun
 composite noun
@@ -1150,7 +1150,7 @@ coupon noun
 courage noun pl=- note=uncountable
 courgette noun region=GB note=US zucchini
 courier noun
-course noun vb=take|do|attend|complete|teach|run|follow|pass xvb=visit>take?|make>take?
+course noun vb=take|do|attend|complete|teach|run|follow|pass xvb=visit>attend?|make>take?
 coursework noun pl=- note=uncountable
 court noun
 courtesy noun

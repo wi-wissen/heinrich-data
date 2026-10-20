@@ -30,7 +30,7 @@ rave verb
 raze verb
 re-elect verb us=reelect|re-elect
 re-release verb
-reach verb
+reach verb xprep=to?
 react verb prep=to|against|with xprep=on?
 reactivate verb
 read verb prep=about|of|to|from past=read pp=read

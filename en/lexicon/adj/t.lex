@@ -44,7 +44,7 @@ terminal adj adv=terminally
 terrestrial adj
 terrible adj comp=to prep=at|for|to adv=terribly
 terrific adj
-terrified adj cmp=more comp=to|that|p_ing prep=of|at xprep=from?|before?
+terrified adj comp=to|that|p_ing prep=of|at xprep=from?|before? cmp=more
 territorial adj
 tertiary adj
 testy adj cmp=er adv=testily

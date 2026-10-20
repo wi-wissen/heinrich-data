@@ -66,14 +66,14 @@ impious adj
 implacable adj adv=implacably
 implantable adj
 implicit adj adv=implicitly
-impolite adj cmp=more comp=to prep=to|of
+impolite adj comp=to prep=to|of cmp=more
 important      adj comp=to|that prep=to|for cmp=more adv=importantly
 impossible     adj adv=impossibly
 impotent adj
 impracticable  adj
 impractical adj
 impregnable adj
-impressed adj cmp=more comp=to|that prep=by|with xprep=of?|from?
+impressed adj comp=to|that prep=by|with xprep=of?|from? cmp=more
 impressive     adj adv=impressively
 improbable     adj adv=improbably
 impromptu adj
@@ -252,7 +252,7 @@ insolent adj adv=insolently
 insoluble adj
 insolvent adj
 inspirational adj
-inspired adj cmp=more comp=to prep=by|with
+inspired adj comp=to prep=by|with cmp=more
 instant        adj adv=instantly
 instantaneous  adj adv=instantaneously
 instinctive    adj adv=instinctively
@@ -338,7 +338,7 @@ invincible adj
 invisible      adj adv=invisibly
 invitational adj
 involuntary adj adv=involuntarily
-involved adj cmp=more prep=in|with
+involved adj prep=in|with cmp=more
 inward         adj
 Ionic adj note=the order of architecture and the Greek dialect
 ionic adj note=chemistry
@@ -366,7 +366,7 @@ irreverent adj cmp=more adv=irreverently
 irreversible adj
 irrevocable adj adv=irrevocably
 irritable adj cmp=more adv=irritably
-irritated adj cmp=more comp=to|that prep=by|at|with|about
+irritated adj comp=to|that prep=by|at|with|about cmp=more
 Islamic        adj
 Islamist adj
 isomorphic adj

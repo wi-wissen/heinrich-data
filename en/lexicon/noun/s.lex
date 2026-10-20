@@ -469,7 +469,7 @@ shove noun
 shovel noun
 show noun
 showcase noun
-shower noun vb=take|have
+shower noun vb=take|have xvb=make>take
 showerhead noun
 shrapnel noun pl=- note=uncountable
 shred noun

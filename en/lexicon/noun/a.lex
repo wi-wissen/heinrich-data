@@ -327,7 +327,7 @@ ambition noun
 ambulance noun
 ambush noun
 amendment noun
-amends noun pl_only vb=make
+amends noun vb=make pl_only
 amenity noun
 American noun
 Americana noun pl=- note=uncountable

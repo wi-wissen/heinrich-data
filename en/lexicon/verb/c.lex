@@ -204,7 +204,7 @@ compel verb comp=obj_to double
 compensate verb prep=for
 compete verb comp=to prep=with|against|for|in
 compile verb
-complain verb comp=that|p_ing prep=about|of|to
+complain verb comp=that|p_ing prep=about|of|to xprep=over?
 complement verb
 complete verb
 complicate verb

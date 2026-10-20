@@ -39,7 +39,7 @@ marital adj
 maritime      adj
 marked adj cmp=more adv=markedly
 marketable adj cmp=more
-married adj cmp=more prep=to|into
+married adj prep=to|into cmp=more
 marshy adj cmp=er
 martial       adj
 marvelous     adj gb=marvellous adv=marvelously

@@ -361,10 +361,10 @@ ex noun conf=90 note=former partner
 exactness noun pl=- note=uncountable
 exaggeration noun
 exaltation noun
-exam noun vb=take|sit|pass|fail|do|write xvb=make?
+exam noun vb=take|sit|pass|fail|do|write xvb=make>take?
 examination noun vb=take|sit|pass|carry_out
 examiner noun
-example noun prep=of|for|to
+example noun prep=of|for|to vb=give|set|provide|cite|follow xvb=make>give?
 exasperation noun pl=- note=uncountable
 excavation noun
 exceedance noun conf=90 note=technical: an instance of exceeding a limit

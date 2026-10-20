@@ -80,7 +80,7 @@ relentless adj adv=relentlessly
 relevant adj prep=to|for cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
 reliant adj prep=on|upon xprep=of?
-relieved adj cmp=more comp=to|that prep=at|about|by|of
+relieved adj comp=to|that prep=at|about|by|of cmp=more
 religious adj cmp=more adv=religiously
 reluctant adj comp=to cmp=more adv=reluctantly
 remarkable adj comp=that|to prep=for cmp=more adv=remarkably

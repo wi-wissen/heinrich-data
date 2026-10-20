@@ -29,7 +29,7 @@ barrack verb region=GB conf=85 note=to jeer or heckle (British, Australian)
 barrage verb
 barricade verb
 barter verb
-base verb prep=on|upon
+base verb prep=on|upon xprep=of
 bash verb
 bask verb
 bat verb
@@ -55,7 +55,7 @@ beguile verb
 behave verb
 behead verb
 behold verb prefix=be past=beheld pp=beheld
-believe verb comp=that|obj_to|wh prep=in
+believe verb comp=that|obj_to|wh prep=in xprep=on?
 bellow verb
 belong verb prep=to|in|with
 belt verb

@@ -449,7 +449,7 @@ succor verb gb=succour
 succumb verb
 suck verb
 sue verb comp=to prep=for
-suffer verb comp=obj_to prep=from xprep=of nodouble
+suffer verb comp=obj_to prep=from xprep=of|under? nodouble
 suffice verb
 suffocate verb
 suffuse verb

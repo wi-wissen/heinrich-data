@@ -25,7 +25,7 @@ sardonic adj adv=sardonically
 satanic adj
 satirical adj
 satisfactory adj adv=satisfactorily
-satisfied adj cmp=more comp=to|that prep=with|by xprep=from|of?
+satisfied adj comp=to|that prep=with|by xprep=from|of? cmp=more
 satisfying adj
 saucy adj cmp=er
 Saudi adj
@@ -136,7 +136,7 @@ shaven adj
 sheer adj cmp=er
 shiny adj cmp=er
 shipboard adj
-shocked adj cmp=more comp=to|that prep=at|by
+shocked adj comp=to|that prep=at|by cmp=more
 shocking adj cmp=more adv=shockingly
 short adj prep=of|on cmp=er adv=shortly
 showery adj

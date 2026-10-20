@@ -15,7 +15,7 @@ abrupt adj cmp=more adv=abruptly
 absent adj prep=from adv=absently
 absentminded adj cmp=more adv=absentmindedly conf=90 note=also absent-minded
 absolute adj adv=absolutely
-absorbed adj cmp=more comp=p_ing prep=in|by|into
+absorbed adj comp=p_ing prep=in|by|into cmp=more
 abstract adj cmp=more adv=abstractly
 absurd adj cmp=more adv=absurdly
 abundant adj cmp=more adv=abundantly
@@ -29,7 +29,7 @@ accountable adj cmp=more
 accurate adj cmp=more adv=accurately
 accursed adj
 accusative adj
-accustomed adj cmp=more comp=to|p_ing prep=to
+accustomed adj comp=to|p_ing prep=to cmp=more
 achievable adj
 achy adj cmp=er
 acidic adj cmp=more
@@ -105,7 +105,7 @@ airsick adj
 airy adj cmp=er adv=airily
 ajar adj pred_only
 akin adj pred_only
-alarmed adj cmp=more comp=to|that prep=by|at|about
+alarmed adj comp=to|that prep=by|at|about cmp=more
 alarming adj cmp=more adv=alarmingly
 Albanian adj
 alcoholic adj
@@ -154,7 +154,7 @@ amorous adj adv=amorously
 amorphous adj
 amphibious adj
 ample adj cmp=er adv=amply
-amused adj cmp=more comp=to|that prep=by|at|with
+amused adj comp=to|that prep=by|at|with cmp=more
 amusing adj cmp=more adv=amusingly
 anaerobic adj adv=anaerobically
 anal adj
@@ -267,7 +267,7 @@ assorted adj
 assured adj adv=assuredly
 Assyrian adj
 astir adj pred_only
-astonished adj cmp=more comp=to|that|wh prep=at|by
+astonished adj comp=to|that|wh prep=at|by cmp=more
 astonishing adj adv=astonishingly
 astronomical adj adv=astronomically
 astute adj cmp=more adv=astutely
@@ -281,7 +281,7 @@ atmospheric adj
 atomic adj
 atrial adj
 atrocious adj adv=atrociously
-attached adj cmp=more prep=to
+attached adj prep=to cmp=more
 attainable adj
 attentive adj prep=to cmp=more adv=attentively
 attractive adj prep=to cmp=more adv=attractively

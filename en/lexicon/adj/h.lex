@@ -102,7 +102,7 @@ horrendous adj
 horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
-horrified adj cmp=more comp=to|that prep=by|at
+horrified adj comp=to|that prep=by|at cmp=more
 horticultural adj
 hospitable adj cmp=more adv=hospitably
 hostile        adj prep=to|towards|toward xprep=against?

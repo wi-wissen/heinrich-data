@@ -64,7 +64,7 @@ empirical adj adv=empirically
 employable adj cmp=more
 empty adj prep=of cmp=er
 enamored adj gb=enamoured
-encouraged adj cmp=more comp=to|that prep=by
+encouraged adj comp=to|that prep=by cmp=more
 endemic adj
 endless adj adv=endlessly
 endocrine adj
@@ -162,7 +162,7 @@ expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively
-experienced adj cmp=more comp=p_ing prep=in|at|with
+experienced adj comp=p_ing prep=in|at|with cmp=more
 experimental adj adv=experimentally
 expert adj prep=at|in|on adv=expertly
 explanatory adj
@@ -171,7 +171,7 @@ exploitative adj
 exploratory adj
 explosive adj
 exponential adj adv=exponentially
-exposed adj cmp=more prep=to
+exposed adj prep=to cmp=more
 express adj adv=expressly
 expressive adj
 exquisite adj adv=exquisitely

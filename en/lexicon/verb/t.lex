@@ -59,7 +59,7 @@ thaw verb
 theorize verb gb=theorise|theorize
 thicken verb
 thin verb
-think verb comp=that|wh|to|obj_to|p_ing prep=of|about|over past=thought pp=thought
+think verb comp=that|wh|to|obj_to|p_ing prep=of|about|over xprep=on? past=thought pp=thought
 thrash verb
 thread verb
 threaten verb comp=to|that|bare prep=with

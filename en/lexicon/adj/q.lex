@@ -3,7 +3,7 @@ quadric adj
 quadruple adj
 quaint        adj cmp=er adv=quaintly
 Quaker        adj
-qualified adj cmp=more comp=to prep=for|in|as
+qualified adj comp=to prep=for|in|as cmp=more
 qualitative adj adv=qualitatively
 quantifiable adj
 quantitative  adj adv=quantitatively

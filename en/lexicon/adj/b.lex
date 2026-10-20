@@ -23,6 +23,7 @@ baronial adj
 baroque adj
 barren adj cmp=more
 basal adj
+based adj prep=on|upon|in|at|around xprep=of
 bashful adj adv=bashfully
 basic adj adv=basically
 Basque adj

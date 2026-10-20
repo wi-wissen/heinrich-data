@@ -146,7 +146,7 @@ plausible adj cmp=more adv=plausibly
 playable adj
 playful adj adv=playfully
 pleasant adj comp=to|that prep=to|for|with cmp=er|more adv=pleasantly
-pleased adj cmp=more comp=to|that prep=with|about|by|at|for
+pleased adj comp=to|that prep=with|about|by|at|for cmp=more
 pleasing adj cmp=more
 pleasurable adj cmp=more adv=pleasurably
 plebeian adj
@@ -226,7 +226,7 @@ preferable adj comp=to|that prep=to xprep=than? adv=preferably
 preferential adj
 pregnant adj
 prehistoric adj
-prejudiced adj cmp=more prep=against|towards|toward
+prejudiced adj prep=against|towards|toward cmp=more
 prejudicial adj cmp=more adv=prejudicially
 preliminary adj
 premarket adj

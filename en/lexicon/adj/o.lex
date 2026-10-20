@@ -15,7 +15,7 @@ obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
 observational adj
-obsessed adj cmp=more comp=p_ing prep=with|by|about
+obsessed adj comp=p_ing prep=with|by|about cmp=more
 obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
@@ -68,7 +68,7 @@ ophthalmic adj
 opioid adj
 opportune adj
 opportunistic adj adv=opportunistically
-opposed adj cmp=more comp=p_ing prep=to xprep=against?
+opposed adj comp=p_ing prep=to xprep=against? cmp=more
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj

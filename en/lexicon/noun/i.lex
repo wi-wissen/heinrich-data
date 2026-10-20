@@ -200,7 +200,7 @@ inflation      noun
 inflection noun gb=inflection|inflexion
 infliction noun
 inflow noun
-influence      noun prep=on|over|upon|with
+influence      noun prep=on|over|upon|with xprep=to?
 influencer noun
 influenza      noun pl=- note=uncountable
 influx         noun

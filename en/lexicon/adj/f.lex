@@ -22,7 +22,7 @@ fantastic      adj adv=fantastically
 fantastical adj
 far            adj cmp=farther|further sup=farthest|furthest
 farinaceous adj
-fascinated adj cmp=more comp=to|that|wh prep=by|with xprep=of
+fascinated adj comp=to|that|wh prep=by|with xprep=of cmp=more
 fascinating    adj cmp=more adv=fascinatingly
 fascist adj
 fashionable    adj cmp=more adv=fashionably
