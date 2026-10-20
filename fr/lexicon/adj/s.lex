@@ -13,6 +13,7 @@ safran adj inv
 sagace adj adv=sagacement
 sage adj adv=sagement
 saharien adj
+sahélien adj
 sahélo-saharien adj
 sahraoui adj
 saignant adj
@@ -75,6 +76,7 @@ scabreux adj
 scalaire adj
 scandaleux adj adv=scandaleusement
 scandinave adj
+scarieux adj
 scélérat adj
 scénique adj
 sceptique adj adv=sceptiquement
@@ -168,6 +170,7 @@ servile adj adv=servilement
 séthien adj
 seul adj f=seule adv=seulement
 sévère adj adv=sévèrement
+sévillan adj
 sexiste adj
 sexué adj
 sexuel adj adv=sexuellement
@@ -204,6 +207,7 @@ sino-népalais adj
 sino-tibétain adj
 sinueux adj adv=sinueusement
 sinusal adj
+sinusoïdal adj
 sioniste adj
 siouan adj
 sismique adj
@@ -453,6 +457,7 @@ symétrique adj adv=symétriquement
 sympa adj f=sympa style=colloquial alt=sympathique
 sympathique adj adv=sympathiquement
 symphonique adj
+sympodial adj
 symptomatique adj adv=symptomatiquement
 synchrone adj
 syncopé adj

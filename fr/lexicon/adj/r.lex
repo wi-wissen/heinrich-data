@@ -13,6 +13,7 @@ raciste adj
 racoleur adj f=racoleuse
 radial adj
 radical adj adv=radicalement
+radicant adj
 radieux adj adv=radieusement
 radin adj style=colloquial alt=avare
 radioactif adj
@@ -69,6 +70,7 @@ récent adj adv=récemment
 réceptif adj
 récessif adj
 recevable adj
+recevant adj
 rechargeable adj
 rêche adj
 recherché adj
@@ -137,6 +139,7 @@ relaps adj f=relapse
 relatif adj adv=relativement
 relationnel adj
 relativiste adj
+relégable adj
 religieux adj adv=religieusement
 reluisant adj
 remarquable adj adv=remarquablement
@@ -251,6 +254,7 @@ rigolo adj f=rigolote style=colloquial alt=drôle
 rigoureux adj adv=rigoureusement
 rikiki adj inv style=colloquial
 rimbaldien adj
+rimouskois adj
 ringard adj style=colloquial alt=démodé
 riparien adj
 risible adj adv=risiblement

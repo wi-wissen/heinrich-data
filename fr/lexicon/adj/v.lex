@@ -154,6 +154,7 @@ volage adj
 volant adj
 volatil adj
 volcanique adj
+volitif adj
 volontaire adj adv=volontairement
 volontariste adj
 voltairien adj

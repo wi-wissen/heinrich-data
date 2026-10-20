@@ -35,7 +35,9 @@ sagacité noun g=f
 sagaie noun g=f
 sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=85
 sagesse noun g=f
+sagou noun g=m note=plural sagous
 sagouin noun g=m style=colloquial
+sagoutier noun g=m
 saignée noun g=f
 saignement noun g=m
 saillance noun g=f
@@ -280,6 +282,7 @@ sécheresse noun g=f rect=sècheresse
 séchoir noun g=m
 second noun g=m
 secondaire noun g=m
+secondant noun g=m f=secondante
 seconde noun g=f
 secourisme noun g=m
 secouriste noun g=m|f
@@ -357,6 +360,7 @@ sénescence noun g=f
 sénevé noun g=m rect=sènevé
 sénilité noun g=f
 senior noun g=m|f rect=sénior
+séniorité noun g=f
 sens noun g=m
 sensation noun g=f
 senseur noun g=m
@@ -567,7 +571,9 @@ slogan noun g=m
 slovaquisation noun g=f
 smartphone noun g=m
 smash noun g=m pl=smashs|smashes
+smog noun g=m
 smoking noun g=m
+smoothie noun g=m
 snack noun g=m
 sniper noun g=m
 snob noun g=m|f
@@ -916,6 +922,7 @@ sténographie noun g=f
 sténose noun g=f
 steppe noun g=f
 stéréo noun g=f
+stéréoisomère noun g=m
 stéréoscopie noun g=f
 stéréotype noun g=m
 stérilet noun g=m
@@ -1088,6 +1095,7 @@ superpuissance noun g=f
 superstar noun g=f
 superstition noun g=f
 superstructure noun g=f
+supertanker noun g=m
 superviseur noun g=m f=superviseuse
 supervision noun g=f
 supin noun g=m
@@ -1141,6 +1149,7 @@ surgélation noun g=f
 surgelé noun g=m
 surhomme noun g=m
 surimi noun g=m
+surimposition noun g=f
 surimpression noun g=f
 surin noun g=m style=colloquial alt=couteau
 surintendance noun g=f

@@ -10,6 +10,7 @@ zéro noun g=m note=des zéros; the numeral is in closed/numerals.lex
 zeste noun g=m
 zibeline noun g=f
 zigzag noun g=m
+zika noun g=m
 zinc noun g=m
 zip noun g=m
 zirconium noun g=m

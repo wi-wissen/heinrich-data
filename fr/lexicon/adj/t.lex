@@ -19,6 +19,7 @@ taoïste adj
 tapageur adj f=tapageuse adv=tapageusement
 tape-à-l'œil adj inv
 tapi adj
+tapissant adj
 taquin adj
 tardif adj adv=tardivement
 taré adj style=colloquial alt=fou
@@ -47,6 +48,7 @@ téléchargeable adj
 télégénique adj
 télégraphique adj
 télématique adj
+téléologique adj
 téléphonique adj
 télescopique adj
 télévisé adj
@@ -84,6 +86,7 @@ territorial adj adv=territorialement
 terroriste adj
 tertiaire adj
 testamentaire adj
+tétanique adj
 tétraplégique adj
 têtu adj
 teutonique adj
@@ -146,6 +149,7 @@ totonaque adj
 touchant adj
 toucouleur adj f=toucouleur
 touffu adj
+toulonnais adj
 toulousain adj
 toungouse adj
 tourbillonnaire adj
@@ -176,6 +180,7 @@ transcanadien adj
 transcendant adj
 transcendantal adj
 transcontinental adj
+transculturel adj
 transformable adj
 transformiste adj
 transfrontalier adj
@@ -245,6 +250,7 @@ tumultueux adj adv=tumultueusement
 tunisien adj
 turbulent adj
 turc adj f=turque
+turco-syrien adj f=turco-syrienne
 turkmène adj
 turquoise adj inv
 tutélaire adj

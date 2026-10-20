@@ -97,6 +97,7 @@ réaliser verb
 réaménager verb
 réanimer verb
 réapparaître verb class=connaître aux=avoir|être
+réappareiller verb
 réapprendre verb class=prendre
 réapprovisionner verb
 réarmer verb
@@ -107,11 +108,13 @@ rebâtir verb class=ir
 rebattre verb class=battre
 rebeller verb pronominal
 rebiffer verb pronominal style=colloquial
+rebloquer verb
 reboiser verb
 rebondir verb class=ir pp_inv
 reboucher verb
 rebrancher verb
 rebrousser verb
+rebudgétiser verb
 rebuter verb
 recadrer verb
 recalculer verb
@@ -185,6 +188,7 @@ redéfinir verb class=ir
 redemander verb
 redémarrer verb
 redéployer verb
+redéposer verb
 redescendre verb class=rendre aux=avoir|être
 redessiner verb
 redevenir verb class=venir aux=être
@@ -258,6 +262,7 @@ réguler verb
 réhabiliter verb
 rehausser verb
 réimporter verb
+réimposer verb
 réimprimer verb
 réincarner verb
 réinitialiser verb
@@ -266,6 +271,7 @@ réinscrire verb class=écrire
 réinsérer verb
 réinstaller verb
 réintégrer verb
+réinternaliser verb
 réinterpréter verb
 réintroduire verb class=conduire
 réinventer verb
@@ -326,6 +332,7 @@ remuer verb
 rémunérer verb
 renâcler verb pp_inv
 renaître verb class=naître aux=être
+renaturer verb
 renchérir verb class=ir pp_inv
 rencogner verb pronominal
 rencontrer verb

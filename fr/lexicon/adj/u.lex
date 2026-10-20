@@ -13,6 +13,7 @@ ultraviolet adj f=ultraviolette
 unanime adj adv=unanimement
 underground adj inv
 uni adj adv=uniment
+unidimensionnel adj
 unidirectionnel adj
 unificateur adj f=unificatrice
 uniforme adj adv=uniformément
