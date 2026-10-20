@@ -12,5 +12,6 @@ désormais adv
 dessous adv
 dessus adv
 deuxièmement adv
+diablement adv
 dorénavant adv
 dûment adv rect=dument
