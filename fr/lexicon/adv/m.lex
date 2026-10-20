@@ -1,4 +1,3 @@
-magistralement     adv
 magnétiquement     adv
 maigrement         adv
 maintenant         adv

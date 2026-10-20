@@ -15,7 +15,7 @@ mafieux              adj
 magdalénien          adj
 maghrébin            adj
 magique              adj
-magistral            adj
+magistral            adj adv=magistralement
 magmatique           adj
 magnanime            adj
 magnésien            adj
@@ -55,7 +55,7 @@ malgracieux          adj style=literary
 malhabile            adj
 malheureux           adj adv=malheureusement
 malhonnête           adj
-malicieux            adj
+malicieux            adj adv=malicieusement
 malien               adj
 malin                adj f=maligne
 malingre             adj
@@ -104,7 +104,7 @@ marbré               adj
 marchand             adj
 marécageux           adj
 marémoteur           adj f=marémotrice
-marginal             adj
+marginal             adj adv=marginalement
 marginaliste         adj
 marial               adj
 marié                adj
