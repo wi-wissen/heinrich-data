@@ -349,6 +349,7 @@ follicle noun
 follow-up      noun
 follower       noun
 folly          noun
+FOMO noun abbr pl=- note=fear of missing out
 fondness noun
 fondue noun
 font noun

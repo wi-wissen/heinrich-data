@@ -426,6 +426,7 @@ reservist noun
 reservoir noun
 reset noun
 resettlement noun
+reshare noun
 reshuffle noun
 residence noun
 residency noun

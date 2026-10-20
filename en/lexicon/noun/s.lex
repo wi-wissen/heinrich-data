@@ -1168,6 +1168,7 @@ subparagraph noun
 subpart noun
 subpoena noun
 subpopulation noun
+subreddit noun
 subregion noun
 subscriber noun
 subscription noun

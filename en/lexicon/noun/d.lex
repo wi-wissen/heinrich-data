@@ -548,6 +548,7 @@ donkey noun
 donor noun
 doodle noun
 doom noun
+doomscrolling noun pl=- note=uncountable
 doomsday noun
 door noun
 doorbell noun

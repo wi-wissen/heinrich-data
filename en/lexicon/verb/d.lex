@@ -251,6 +251,7 @@ divest verb
 divide verb
 divine verb
 divorce verb
+DM verb 3sg=DMs past=DMed|DM'd pp=DMed|DM'd ing=DMing note=to send a direct message
 dock verb
 docket verb
 doctor verb
@@ -265,6 +266,7 @@ don verb
 donate verb
 doodle verb
 doom verb
+doomscroll verb
 dope verb
 dose verb
 dot verb

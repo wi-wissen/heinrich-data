@@ -415,6 +415,7 @@ lunchtime noun
 lung          noun
 lurch noun
 lure noun
+lurker noun
 lust noun
 luster noun gb=lustre
 lute noun

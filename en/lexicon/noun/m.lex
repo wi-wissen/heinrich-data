@@ -259,6 +259,7 @@ medley noun
 meekness noun pl=- note=uncountable
 meerkat noun
 meet           noun
+meet-up noun
 meeting        noun
 meetup noun
 megabyte noun
