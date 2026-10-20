@@ -2,7 +2,7 @@ obéir          verb class=ir
 obérer         verb
 objecter       verb
 obliger        verb
-obliquer       verb
+obliquer       verb pp_inv
 oblitérer      verb
 obnubiler      verb
 obscurcir      verb class=ir
@@ -19,10 +19,10 @@ occire         verb class=irr style=archaic pres=occis,occisons,occisent ps=occi
 occulter       verb
 occuper        verb
 octroyer       verb
-œuvrer         verb
+œuvrer         verb pp_inv
 offenser       verb
 officialiser   verb
-officier       verb note=verb: officier à la messe
+officier       verb pp_inv note=verb: officier à la messe
 offrir         verb class=ouvrir
 offusquer      verb
 oindre         verb class=peindre
@@ -47,7 +47,7 @@ orienter       verb
 ornementer     verb
 orner          verb
 orthographier  verb
-osciller       verb
+osciller       verb pp_inv
 oser           verb
 ôter           verb
 ouater         verb

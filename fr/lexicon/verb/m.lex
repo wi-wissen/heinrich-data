@@ -34,7 +34,7 @@ mapper         verb
 maquiller      verb
 marbrer        verb
 marchander     verb
-marcher        verb
+marcher        verb pp_inv
 marcotter      verb
 marginaliser   verb
 marier         verb
@@ -61,7 +61,7 @@ materner       verb
 mathématiser   verb
 matraquer      verb
 maudire        verb class=irr pres=maudis,maudissons,maudissent ps=maudis fut=maudirai pp=maudit
-maugréer       verb
+maugréer       verb pp_inv
 maximiser      verb
 mazouter       verb
 mécaniser      verb
@@ -95,22 +95,22 @@ mesurer        verb
 métaboliser    verb
 métalliser     verb
 métamorphoser  verb
-métastaser     verb
+métastaser     verb pp_inv
 métisser       verb
 métrer         verb
 mettre         verb class=mettre
 meubler        verb
-meugler        verb
+meugler        verb pp_inv
 meuler         verb
 meurtrir       verb class=ir
-miauler        verb
+miauler        verb pp_inv
 microfilmer    verb
-migrer         verb
+migrer         verb pp_inv
 mijoter        verb
 militariser    verb
-militer        verb
+militer        verb pp_inv
 mimer          verb
-minauder       verb
+minauder       verb pp_inv
 miner          verb
 minéraliser    verb
 miniaturiser   verb
@@ -119,7 +119,7 @@ minorer        verb
 minoriser      verb
 minuter        verb
 mirer          verb
-miroiter       verb
+miroiter       verb pp_inv
 miser          verb
 missionner     verb
 mitiger        verb
@@ -143,7 +143,7 @@ mondialiser    verb
 monétiser      verb
 monitorer      verb
 monnayer       verb
-monologuer     verb
+monologuer     verb pp_inv
 monopoliser    verb
 monter         verb aux=avoir|être
 montrer        verb
@@ -164,19 +164,19 @@ moudre         verb class=moudre
 mouiller       verb
 mouler         verb
 mourir         verb class=mourir aux=être
-mousser        verb
+mousser        verb pp_inv
 moutonner      verb
 mouvoir        verb class=mouvoir
 moyenner       verb
 muer           verb
-mugir          verb class=ir
+mugir          verb class=ir pp_inv
 multiplexer    verb
 multiplier     verb
 munir          verb class=ir
 murer          verb
 mûrir          verb class=ir
 murmurer       verb
-musarder       verb
+musarder       verb pp_inv
 muscler        verb
 museler        verb class=double_trad
 muter          verb

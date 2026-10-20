@@ -1,6 +1,6 @@
 pacifier          verb
 pacser            verb
-pagayer           verb
+pagayer           verb pp_inv
 paginer           verb
 pailler           verb
 pailleter         verb class=double_trad
@@ -53,7 +53,7 @@ parqueter         verb class=double_trad
 parrainer         verb
 parsemer          verb
 partager          verb
-participer        verb
+participer        verb pp_inv
 partir            verb class=partir aux=être
 partitionner      verb
 parvenir          verb class=venir aux=être
@@ -63,10 +63,10 @@ pasteuriser       verb
 pasticher         verb
 patauger          verb pp_inv
 patenter          verb
-patienter         verb
+patienter         verb pp_inv
 patiner           verb
 pâtir             verb class=ir pp_inv
-pâtisser          verb
+pâtisser          verb pp_inv
 patoiser          verb pp_inv
 patouiller        verb style=colloquial
 patronner         verb
@@ -79,7 +79,7 @@ payer             verb
 peaufiner         verb
 pécher            verb pp_inv
 pêcher            verb
-pédaler           verb
+pédaler           verb pp_inv
 peigner           verb
 peindre           verb class=peindre
 peiner            verb
@@ -149,7 +149,7 @@ piaffer           verb pp_inv
 piailler          verb pp_inv
 pianoter          verb
 piauler           verb pp_inv
-picoler           verb style=colloquial alt=boire
+picoler           verb style=colloquial alt=boire pp_inv
 picorer           verb
 picoter           verb
 piéger            verb
@@ -177,7 +177,7 @@ pirouetter        verb pp_inv
 pisser            verb style=vulgar alt=uriner
 pister            verb
 pistonner         verb style=colloquial
-pivoter           verb
+pivoter           verb pp_inv
 placarder         verb
 placer            verb
 plafonner         verb
@@ -185,10 +185,10 @@ plagier           verb
 plaider           verb
 plaindre          verb class=peindre
 plaire            verb class=plaire
-plaisanter        verb
+plaisanter        verb pp_inv
 planchéier        verb
-plancher          verb style=colloquial
-planer            verb
+plancher          verb style=colloquial pp_inv
+planer            verb pp_inv
 planifier         verb
 planquer          verb style=colloquial alt=cacher
 planter           verb
@@ -339,7 +339,7 @@ privatiser        verb
 priver            verb
 privilégier       verb
 problématiser     verb
-procéder          verb
+procéder          verb pp_inv
 proclamer         verb
 procrastiner      verb pp_inv
 procréer          verb
@@ -351,9 +351,9 @@ proférer          verb
 professer         verb
 professionnaliser verb
 profiler          verb
-profiter          verb
+profiter          verb pp_inv
 programmer        verb
-progresser        verb
+progresser        verb pp_inv
 prohiber          verb
 projeter          verb class=double
 prolétariser      verb

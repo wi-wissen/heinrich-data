@@ -2,11 +2,11 @@ nager        verb pp_inv
 naître       verb class=naître aux=être
 narguer      verb
 narrer       verb
-nasiller     verb
+nasiller     verb pp_inv
 nationaliser verb
 naturaliser  verb
-naufrager    verb
-naviguer     verb
+naufrager    verb pp_inv
+naviguer     verb pp_inv
 navrer       verb
 nécessiter   verb
 négliger     verb
@@ -16,7 +16,7 @@ nettoyer     verb
 neutraliser  verb
 niaiser      verb
 nicher       verb
-nidifier     verb
+nidifier     verb pp_inv
 nier         verb
 nimber       verb
 niveler      verb class=double_trad
