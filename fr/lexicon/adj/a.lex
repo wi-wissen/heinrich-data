@@ -5,7 +5,7 @@ abbatial           adj
 abdominal          adj
 aberrant           adj
 abîmé              adj rect=abimé
-abject             adj
+abject             adj adv=abjectement
 abolitionniste     adj
 abominable         adj adv=abominablement
 abondant           adj adv=abondamment
@@ -36,7 +36,7 @@ accablé            adj
 acceptable         adj
 accepté            adj
 accessible         adj
-accessoire         adj
+accessoire         adj adv=accessoirement
 accidenté          adj
 accidentel         adj adv=accidentellement
 accolé             adj
@@ -131,7 +131,7 @@ agacé              adj
 âgé                adj
 agenouillé         adj
 aggravant          adj
-agile              adj
+agile              adj adv=agilement
 agissant           adj
 agité              adj
 agnostique         adj
@@ -151,7 +151,7 @@ aguichant          adj
 aguicheur          adj f=aguicheuse
 ahuri              adj
 ahurissant         adj
-aigre              adj
+aigre              adj adv=aigrement
 aigre-doux         adj f=aigre-douce pl=aigres-doux fpl=aigres-douces
 aigrelet           adj f=aigrelette
 aigri              adj
@@ -174,7 +174,7 @@ alchimique         adj
 alcoolique         adj
 alcoolisé          adj
 alcoométrique      adj
-aléatoire          adj
+aléatoire          adj adv=aléatoirement
 alémanique         adj
 alerte             adj
 alezan             adj
@@ -218,7 +218,7 @@ amazonien          adj
 ambiant            adj
 ambidextre         adj
 ambigu             adj
-ambitieux          adj
+ambitieux          adj adv=ambitieusement
 ambivalent         adj
 ambré              adj
 ambulant           adj
@@ -249,10 +249,10 @@ anal               adj
 analogique         adj
 analogue           adj
 analphabète        adj
-analytique         adj
-anarchique         adj
+analytique         adj adv=analytiquement
+anarchique         adj adv=anarchiquement
 anarchiste         adj
-anatomique         adj
+anatomique         adj adv=anatomiquement
 ancestral          adj
 ancien             adj place=both adv=anciennement
 ancillaire         adj
@@ -282,7 +282,7 @@ anodin             adj
 anomal             adj
 anonyme            adj adv=anonymement
 anorexique         adj
-anormal            adj
+anormal            adj adv=anormalement
 antagoniste        adj
 antarctique        adj
 antépénultième     adj
@@ -327,7 +327,7 @@ antitétanique      adj
 antithétique       adj
 antitrust          adj inv
 antiviral          adj
-anxieux            adj
+anxieux            adj adv=anxieusement
 anxiogène          adj
 apaisant           adj
 apathique          adj
@@ -372,7 +372,7 @@ arable             adj
 aragonais          adj
 araméen            adj
 aratoire           adj
-arbitraire         adj
+arbitraire         adj adv=arbitrairement
 arbitral           adj
 arborescent        adj
 arboricole         adj
@@ -396,7 +396,7 @@ argotique          adj
 argumentatif       adj
 aride              adj
 aristocratique     adj
-arithmétique       adj
+arithmétique       adj adv=arithmétiquement
 armé               adj
 arménien           adj
 armoricain         adj
@@ -404,13 +404,13 @@ aromatique         adj
 arqué              adj
 arrangeant         adj
 arriéré            adj
-arrogant           adj
+arrogant           adj adv=arrogamment
 arrondi            adj
 artériel           adj
 articulaire        adj
 articulatoire      adj
 artificiel         adj adv=artificiellement
-artisanal          adj
+artisanal          adj adv=artisanalement
 artistique         adj adv=artistiquement
 aryen              adj
 ascendant          adj
@@ -440,7 +440,7 @@ astral             adj
 astreignant        adj
 astringent         adj
 astronomique       adj
-astucieux          adj
+astucieux          adj adv=astucieusement
 asymétrique        adj
 asymptotique       adj
 athée              adj
@@ -452,7 +452,7 @@ atomique           adj
 atonal             adj
 atone              adj
 atrabilaire        adj style=literary
-atroce             adj
+atroce             adj adv=atrocement
 attablé            adj
 attachant          adj
 attaché            adj
@@ -474,7 +474,7 @@ attrayant          adj
 attribuable        adj
 attristant         adj
 atypique           adj
-audacieux          adj
+audacieux          adj adv=audacieusement
 audible            adj
 audio              adj inv
 audiovisuel        adj
@@ -483,7 +483,7 @@ augmentatif        adj
 auguste            adj
 aulique            adj
 aurifère           adj
-austère            adj
+austère            adj adv=austèrement
 austral            adj pl=australs|austraux conf=80
 australien         adj
 austro-hongrois    adj f=austro-hongroise
@@ -502,7 +502,7 @@ autonome           adj
 autoproclamé       adj
 autopropulsé       adj
 autorisé           adj
-autoritaire        adj
+autoritaire        adj adv=autoritairement
 autoroutier        adj
 autrichien         adj
 auvergnat          adj
@@ -512,7 +512,7 @@ avancé             adj
 avant-coureur      adj f=avant-coureur conf=80
 avant-dernier      adj f=avant-dernière
 avant-gardiste     adj
-avantageux         adj
+avantageux         adj adv=avantageusement
 avare              adj
 avaricieux         adj
 avarié             adj

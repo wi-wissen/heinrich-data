@@ -15,7 +15,7 @@ balnéaire       adj
 balourd         adj
 balsamique      adj
 balte           adj
-banal           adj pl=banals
+banal           adj pl=banals adv=banalement
 bancaire        adj
 bancal          adj pl=bancals
 bantou          adj
@@ -29,7 +29,7 @@ bariolé         adj
 barjo           adj style=colloquial alt=fou f=barjo
 barométrique    adj
 baroque         adj
-bas             adj f=basse place=both
+bas             adj f=basse place=both adv=bassement
 basal           adj
 basaltique      adj
 basané          adj
@@ -60,7 +60,7 @@ belliqueux      adj
 bénéficiaire    adj
 bénéfique       adj
 benêt           adj
-bénévole        adj
+bénévole        adj adv=bénévolement
 bengali         adj
 bénin           adj f=bénigne
 béninois        adj
@@ -72,7 +72,7 @@ berlinois       adj
 bernois         adj
 berrichon       adj
 besogneux       adj
-bestial         adj
+bestial         adj adv=bestialement
 bête            adj adv=bêtement
 bibliographique adj
 biblique        adj
@@ -92,7 +92,7 @@ bigame          adj
 bigarré         adj
 bigleux         adj style=colloquial
 bigot           adj f=bigote
-bilatéral       adj
+bilatéral       adj adv=bilatéralement
 bilieux         adj
 bilinéaire      adj
 bilingue        adj
@@ -106,7 +106,7 @@ bio             adj inv style=colloquial alt=biologique
 biochimique     adj
 biodégradable   adj
 biographique    adj
-biologique      adj
+biologique      adj adv=biologiquement
 biomédical      adj
 biométrique     adj
 biotique        adj
@@ -179,7 +179,7 @@ boulimique      adj
 boulot          adj f=boulotte style=colloquial
 bourbeux        adj
 bourdonnant     adj
-bourgeois       adj
+bourgeois       adj adv=bourgeoisement
 bourguignon     adj
 bourratif       adj
 bourré          adj style=colloquial alt=ivre
@@ -221,7 +221,7 @@ bruyant         adj adv=bruyamment
 bubonique       adj
 buccal          adj
 bucolique       adj
-budgétaire      adj
+budgétaire      adj adv=budgétairement
 buissonnier     adj
 bulbeux         adj
 bulgare         adj

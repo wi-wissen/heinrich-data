@@ -40,6 +40,7 @@ ne        adv  type=neg elided=n'
 non       adv  type=neg
 nullement adv  type=neg
 où        adv  type=int note=interrogative où; the relative is a pronoun
+oui       adv type=affirm aspirate note=le oui, les oui; also used as an interjection
 pas       adv  type=neg
 peu       adv  type=degree
 plus      adv  type=degree|neg

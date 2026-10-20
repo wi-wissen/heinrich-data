@@ -152,11 +152,11 @@ charismatique      adj
 charitable         adj adv=charitablement
 charmant           adj
 charmeur           adj f=charmeuse
-charnel            adj
+charnel            adj adv=charnellement
 charnu             adj
 charpenté          adj
 chassieux          adj
-chaste             adj
+chaste             adj adv=chastement
 châtain            adj
 chatouilleux       adj
 chatoyant          adj
@@ -179,9 +179,9 @@ chiffonné          adj
 chiite             adj
 chilien            adj
 chimérique         adj
-chimique           adj
+chimique           adj adv=chimiquement
 chinois            adj
-chirurgical        adj
+chirurgical        adj adv=chirurgicalement
 chlorhydrique      adj
 chlorophyllien     adj
 chômé              adj
@@ -194,7 +194,7 @@ christique         adj
 chromatique        adj
 chromé             adj
 chromosomique      adj
-chronologique      adj
+chronologique      adj adv=chronologiquement
 chuintant          adj
 chypriote          adj
 ci-joint           adj note=invariable before the noun: ci-joint la copie
@@ -213,22 +213,22 @@ cisalpin           adj
 cistercien         adj
 citadin            adj
 citérieur          adj f=citérieure
-civil              adj
-civique            adj
+civil              adj adv=civilement
+civique            adj adv=civiquement
 clair              adj adv=clairement
 clairet            adj f=clairette
 clairsemé          adj
 clairvoyant        adj
-clandestin         adj
+clandestin         adj adv=clandestinement
 classieux          adj style=colloquial
-classique          adj
+classique          adj adv=classiquement
 claustral          adj
 claustrophobe      adj
 clément            adj
 clérical           adj
 climatique         adj
 climatisé          adj
-clinique           adj
+clinique           adj adv=cliniquement
 clinquant          adj
 cliquetant         adj
 clivant            adj
@@ -255,7 +255,7 @@ collant            adj
 collatéral         adj
 collectif          adj adv=collectivement
 collectiviste      adj
-collégial          adj
+collégial          adj adv=collégialement
 collinaire         adj
 colombien          adj
 colonial           adj
@@ -267,12 +267,12 @@ combatif           adj rect=combattif
 combinard          adj style=colloquial
 combinatoire       adj
 comestible         adj
-comique            adj
+comique            adj adv=comiquement
 commémoratif       adj
 commendataire      adj
 commercial         adj adv=commercialement
 comminatoire       adj
-commode            adj
+commode            adj adv=commodément
 commun             adj adv=communément
 communal           adj
 communautaire      adj
@@ -284,7 +284,7 @@ communiste         adj
 commutatif         adj
 compact            adj
 comparable         adj
-comparatif         adj
+comparatif         adj adv=comparativement
 compassé           adj
 compassionnel      adj
 compatible         adj
@@ -293,7 +293,7 @@ compensateur       adj f=compensatrice
 compensatoire      adj
 compétent          adj
 compétitif         adj
-complaisant        adj
+complaisant        adj adv=complaisamment
 complémentaire     adj
 complet            adj f=complète adv=complètement
 complexe           adj
@@ -306,7 +306,7 @@ compostable        adj
 compréhensible     adj
 compréhensif       adj
 compris            adj
-compulsif          adj
+compulsif          adj adv=compulsivement
 comtal             adj
 comtois            adj
 con                adj f=conne style=vulgar alt=stupide
@@ -331,7 +331,7 @@ concurrent         adj
 concurrentiel      adj
 condamnable        adj
 condescendant      adj
-conditionnel       adj
+conditionnel       adj adv=conditionnellement
 confédéral         adj
 confédéré          adj
 confessionnel      adj
@@ -341,7 +341,7 @@ confiscatoire      adj
 confit             adj
 conflictuel        adj
 confondant         adj
-conforme           adj
+conforme           adj adv=conformément
 conformiste        adj
 confortable        adj adv=confortablement
 confraternel       adj
@@ -360,11 +360,11 @@ connexe            adj
 connu              adj
 consanguin         adj
 consciencieux      adj adv=consciencieusement
-conscient          adj
-consécutif         adj
+conscient          adj adv=consciemment
+consécutif         adj adv=consécutivement
 consensuel         adj
 consentant         adj
-conséquent         adj
+conséquent         adj adv=conséquemment
 conservateur       adj f=conservatrice
 considérable       adj adv=considérablement
 consigné           adj
@@ -378,7 +378,7 @@ constant           adj adv=constamment
 constipé           adj
 constituant        adj
 constitutif        adj
-constitutionnel    adj
+constitutionnel    adj adv=constitutionnellement
 constructible      adj
 constructif        adj
 consubstantiel     adj
@@ -399,10 +399,10 @@ continu            adj
 continuel          adj adv=continuellement
 contondant         adj
 contractile        adj
-contractuel        adj
-contradictoire     adj
+contractuel        adj adv=contractuellement
+contradictoire     adj adv=contradictoirement
 contraignant       adj
-contraire          adj
+contraire          adj adv=contrairement
 contrapuntique     adj
 contrariant        adj
 contrastif         adj
@@ -418,19 +418,19 @@ convaincant        adj
 convaincu          adj
 convalescent       adj
 convenable         adj adv=convenablement
-conventionnel      adj
+conventionnel      adj adv=conventionnellement
 conventuel         adj
 convergent         adj
 convertible        adj
 convexe            adj
 convivial          adj
-convulsif          adj
+convulsif          adj adv=convulsivement
 cool               adj f=cool style=colloquial alt=sympathique|décontracté
 coopératif         adj
 coordonné          adj
-copieux            adj
+copieux            adj adv=copieusement
 copte              adj
-coquet             adj f=coquette
+coquet             adj f=coquette adv=coquettement
 coquin             adj
 corallien          adj
 coranique          adj
@@ -442,7 +442,7 @@ cornu              adj
 coronaire          adj
 coronarien         adj
 corporatif         adj
-corporel           adj
+corporel           adj adv=corporellement
 corpulent          adj
 corpusculaire      adj
 correct            adj adv=correctement
@@ -478,11 +478,11 @@ courbaturé         adj
 courroucé          adj
 court              adj
 courtaud           adj
-courtois           adj
+courtois           adj adv=courtoisement
 couru              adj
 cousu              adj
 coûteux            adj rect=couteux
-coutumier          adj
+coutumier          adj adv=coutumièrement
 couvrant           adj
 covalent           adj
 crado              adj inv style=colloquial alt=sale
@@ -557,7 +557,7 @@ curieux            adj adv=curieusement
 cursif             adj
 cutané             adj
 cyclable           adj
-cyclique           adj
+cyclique           adj adv=cycliquement
 cyclonique         adj
 cyclopéen          adj
 cyclothymique      adj
