@@ -1,6 +1,8 @@
 # French lexicon: adv entries in r (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 rageusement adv
+régionalement adv
 réglementairement adv rect=règlementairement
+regrettablement adv
 rétroactivement adv
 rétrospectivement adv
 rêveusement adv

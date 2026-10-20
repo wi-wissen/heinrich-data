@@ -18,6 +18,7 @@ tabouret noun g=m
 tache noun g=f
 tâche noun g=f
 tachycardie noun g=f
+tachymètre noun g=m
 tacle noun g=m
 taco noun g=m
 tacot noun g=m style=colloquial
@@ -28,8 +29,10 @@ taffetas noun g=m
 tag noun g=m
 tagueur noun g=m f=tagueuse
 taie noun g=f
+taïga noun g=f
 taille noun g=f
 taille-crayon noun g=m pl=taille-crayon[trad]|taille-crayons[rect]
+taille-douce noun g=f pl=tailles-douces
 tailleur noun g=m
 taillis noun g=m
 tain noun g=m
@@ -42,12 +45,14 @@ taloche noun g=f
 talon noun g=m
 talonneur noun g=m
 talus noun g=m
+tam-tam noun g=m pl=tam-tams
 tamaris noun g=m
 tambouille noun g=f style=colloquial
 tambour noun g=m
 tambour-major noun g=m pl=tambours-majors
 tambourin noun g=m
 tamis noun g=m
+tamisage noun g=m
 tampon noun g=m
 tamponnement noun g=m
 tanche noun g=f
@@ -59,6 +64,7 @@ tanière noun g=f
 tanin noun g=m
 tank noun g=m
 tanker noun g=m
+tannage noun g=m
 tannerie noun g=f
 tanneur noun g=m f=tanneuse
 tante noun g=f
@@ -70,12 +76,14 @@ tapette noun g=f
 tapin noun g=m style=colloquial
 tapioca noun g=m
 tapis noun g=m
+tapis-brosse noun g=m pl=tapis-brosses
 tapisserie noun g=f
 tapissier noun g=m f=tapissière
 taquet noun g=m
 taquinerie noun g=f
 taraud noun g=m
 taraudage noun g=m
+taraudeuse noun g=f
 tare noun g=f
 tarentule noun g=f
 tarier noun g=m
@@ -125,6 +133,7 @@ techno noun g=f
 technocrate noun g=m|f
 technocratie noun g=f
 technologie noun g=f
+technopole noun g=f
 teck noun g=m
 teckel noun g=m
 tectonique noun g=f
@@ -143,20 +152,27 @@ téléachat noun g=m
 télécabine noun g=f
 télécarte noun g=f
 téléchargement noun g=m
+télécom noun g=f style=colloquial
 télécommande noun g=f
 télécommunication noun g=f
 téléconsultation noun g=f
 télécopie noun g=f
 télécopieur noun g=m
 télédéclaration noun g=f
+télédétection noun g=f
 télédiffusion noun g=f
 téléfilm noun g=m
 télégramme noun g=m
 télégraphe noun g=m
 télégraphie noun g=f
+téléguidage noun g=m
+télémaintenance noun g=f
 télématique noun g=f
 télémédecine noun g=f
+télémesure noun g=f
 téléobjectif noun g=m
+téléologie noun g=f
+téléopérateur noun g=m f=téléopératrice
 télépaiement noun g=m
 télépathe noun g=m|f
 télépathie noun g=f
@@ -175,6 +191,7 @@ télésiège noun g=m
 téléski noun g=m
 téléspectateur noun g=m f=téléspectatrice
 télésurveillance noun g=f
+téléthon noun g=m
 télétransmission noun g=f
 télétravail noun g=m pl=télétravaux conf=80 note=plural rare
 télétravailleur noun g=m f=télétravailleuse
@@ -203,6 +220,7 @@ tenant noun g=m
 tendance noun g=f
 tender noun g=m
 tendeur noun g=m
+tendinite noun g=f
 tendon noun g=m
 tendresse noun g=f
 ténèbres noun g=f pl_only
@@ -251,6 +269,7 @@ territorialité noun g=f
 terroir noun g=m
 terrorisme noun g=m
 terroriste noun g=m|f
+tertiaire noun g=m
 tertre noun g=m
 tessiture noun g=f
 tesson noun g=m
@@ -260,9 +279,12 @@ testateur noun g=m f=testatrice
 testeur noun g=m f=testeuse
 testicule noun g=m
 testostérone noun g=f
+tétanie noun g=f
 tétanos noun g=m
 têtard noun g=m
 tête noun g=f
+tête-à-queue noun g=m pl=tête-à-queue
+tête-à-tête noun g=m pl=tête-à-tête
 têtière noun g=f
 tétine noun g=f
 téton noun g=m
@@ -271,6 +293,7 @@ texte noun g=m
 textile noun g=m
 texto noun g=m
 texture noun g=f
+thalassémie noun g=f
 thalassothérapie noun g=f
 thalle noun g=m
 thanatopracteur noun g=m f=thanatopractrice
@@ -292,16 +315,21 @@ thérapeutique noun g=f
 thérapie noun g=f
 thermalisme noun g=m
 thermes noun g=m pl_only
+thermocouple noun g=m
 thermodynamique noun g=f
+thermographie noun g=f
 thermomètre noun g=m
+thermorégulation noun g=f
 thermos noun g=m|f
 thermostat noun g=m
 thésard noun g=m f=thésarde style=colloquial
 thèse noun g=f
+thomisme noun g=m
 thon noun g=m
 thorax noun g=m
 thorium noun g=m
 thriller noun g=m
+thrombose noun g=f
 thune noun g=f style=colloquial alt=argent
 thuya noun g=m
 thym noun g=m
@@ -309,6 +337,7 @@ thyroïde noun g=f
 tiare noun g=f
 tibia noun g=m
 tic noun g=m
+tic-tac noun g=m pl=tic-tac[trad]|tic-tacs[rect]
 ticket noun g=m
 ticket-restaurant noun g=m pl=tickets-restaurants
 tiédeur noun g=f
@@ -321,6 +350,7 @@ tigre noun g=m f=tigresse
 tilleul noun g=m
 timbale noun g=f
 timbre noun g=m
+timbre-poste noun g=m pl=timbres-poste
 timidité noun g=f
 timon noun g=m
 timonier noun g=m
@@ -336,6 +366,7 @@ tiramisu noun g=m
 tire-au-flanc noun g=m|f pl=tire-au-flanc
 tire-bouchon noun g=m pl=tire-bouchons rect=tirebouchon
 tire-fesses noun g=m style=colloquial
+tire-lait noun g=m pl=tire-lait[trad]|tire-laits[rect]
 tirelire noun g=f
 tiret noun g=m
 tireur noun g=m f=tireuse
@@ -438,6 +469,7 @@ tortionnaire noun g=m|f
 tortue noun g=f
 torture noun g=f
 total noun g=m
+totalisation noun g=f
 totalitarisme noun g=m
 totalité noun g=f
 totem noun g=m
@@ -476,14 +508,18 @@ tourteau noun g=m
 tourtereau noun g=m
 tourterelle noun g=f
 tourtière noun g=f
+tout-à-l'égout noun g=m pl=- note=no plural
+tout-petit noun g=m pl=tout-petits f=toute-petite fpl=toutes-petites
 toute-puissance noun g=f pl=- note=no plural
 toutou noun g=m style=colloquial note=plural toutous
 toux noun g=f
 toxicité noun g=f
 toxicologie noun g=f
+toxicologue noun g=m|f
 toxicomane noun g=m|f
 toxicomanie noun g=f
 toxine noun g=f
+toxoplasmose noun g=f
 trac noun g=m
 traçabilité noun g=f
 traçage noun g=m
@@ -493,6 +529,7 @@ trace noun g=f
 tracé noun g=m
 traceur noun g=m
 trachée noun g=f
+trachéite noun g=f
 trachéotomie noun g=f
 tract noun g=m
 tractation noun g=f
@@ -506,8 +543,10 @@ trafic noun g=m
 trafiquant noun g=m f=trafiquante
 tragédie noun g=f
 tragédien noun g=m f=tragédienne
+tragi-comédie noun g=f pl=tragi-comédies
 trahison noun g=f
 train noun g=m
+train-train noun g=m pl=- rect=traintrain note=no plural
 traînard noun g=m f=traînarde rect=trainard
 traîneau noun g=m rect=traineau
 traînée noun g=f rect=trainée
@@ -533,13 +572,18 @@ tranchoir noun g=m
 tranquillisant noun g=m
 tranquillité noun g=f
 transaction noun g=f
+transaminase noun g=f
 transat noun g=m
+transbordement noun g=m
 transcendance noun g=f
+transcodage noun g=m
 transcription noun g=f
+transducteur noun g=m
 transe noun g=f
 transept noun g=m
 transfèrement noun g=m
 transfert noun g=m
+transfiguration noun g=f
 transfo noun g=m style=colloquial
 transformateur noun g=m
 transformation noun g=f
@@ -559,10 +603,13 @@ transmetteur noun g=m
 transmission noun g=f
 transparence noun g=f
 transpiration noun g=f
+transplant noun g=m
 transplantation noun g=f
+transpondeur noun g=m
 transport noun g=m
 transporteur noun g=m
 transposition noun g=f
+transvasement noun g=m
 transversalité noun g=f
 trapèze noun g=m
 trapéziste noun g=m|f
@@ -571,8 +618,10 @@ trappeur noun g=m
 trappiste noun g=m
 traquenard noun g=m
 traqueur noun g=m f=traqueuse
+trauma noun g=m
 traumatisme noun g=m
 traumatologie noun g=f
+traumatologue noun g=m|f
 travail noun g=m pl=travaux
 travailleur noun g=m f=travailleuse
 travailliste noun g=m|f
@@ -584,6 +633,7 @@ traversin noun g=m
 travesti noun g=m
 travestissement noun g=m
 trébuchet noun g=m
+tréfilerie noun g=f
 trèfle noun g=m
 tréfonds noun g=m
 treillage noun g=m
@@ -631,6 +681,7 @@ tricorne noun g=m
 tricot noun g=m
 tricotage noun g=m
 tricycle noun g=m
+trigonométrie noun g=f
 trille noun g=m
 trilogie noun g=f
 trilogue noun g=m
@@ -644,6 +695,7 @@ triomphe noun g=m
 tripatouillage noun g=m style=colloquial
 tripe noun g=f
 triplé noun g=m
+triplement noun g=m
 triplet noun g=m
 triporteur noun g=m
 triptyque noun g=m
@@ -673,6 +725,7 @@ trompettiste noun g=m|f
 tronc noun g=m
 tronche noun g=f style=colloquial alt=tête
 tronçon noun g=m
+tronçonnage noun g=m
 tronçonneuse noun g=f
 trône noun g=m
 trop-plein noun g=m pl=trop-pleins
@@ -746,6 +799,7 @@ tutelle noun g=f
 tuteur noun g=m f=tutrice
 tutoiement noun g=m
 tutorat noun g=m
+tutoriel noun g=m
 tutti noun g=m
 tutu noun g=m
 tuyau noun g=m

@@ -9,6 +9,7 @@ zéphyr noun g=m
 zeste noun g=m
 zigzag noun g=m
 zinc noun g=m
+zip noun g=m
 zizanie noun g=f
 zizi noun g=m style=colloquial
 zodiaque noun g=m

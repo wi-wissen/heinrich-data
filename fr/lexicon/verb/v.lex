@@ -50,6 +50,7 @@ violenter verb
 violer verb
 virer verb
 virevolter verb pp_inv
+virtualiser verb
 viser verb
 visionner verb
 visiter verb

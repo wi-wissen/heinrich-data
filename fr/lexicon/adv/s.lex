@@ -4,6 +4,7 @@ salement adv
 schématiquement adv
 sciemment adv
 secondement adv
+sélectivement adv
 servilement adv
 sitôt adv
 somptueusement adv
@@ -20,9 +21,11 @@ stoïquement adv
 stratégiquement adv
 suavement adv
 subrepticement adv
+subsidiairement adv
 succinctement adv
 supérieurement adv
 supposément adv
+sur-le-champ adv
 surabondamment adv
 surtout adv
 symétriquement adv

@@ -2,6 +2,7 @@
 quadratique adj
 quadriennal adj
 quadruple adj
+qualifiable adj
 qualifiant adj
 qualificatif adj
 qualifié adj
@@ -14,6 +15,7 @@ québécois adj
 queer adj inv
 quelconque adj
 querelleur adj f=querelleuse
+questionneur adj f=questionneuse
 quinquennal adj
 quintuple adj
 quotidien adj adv=quotidiennement

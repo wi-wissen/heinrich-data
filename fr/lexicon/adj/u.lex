@@ -27,6 +27,7 @@ universitaire adj
 univoque adj
 urbain adj
 urbanistique adj
+urétral adj
 urgent adj adv=urgemment
 urinaire adj
 uruguayen adj
@@ -34,6 +35,7 @@ usagé adj
 usé adj
 usité adj
 usuel adj adv=usuellement
+usufruitier adj f=usufruitière
 utérin adj
 utile adj adv=utilement
 utilisable adj

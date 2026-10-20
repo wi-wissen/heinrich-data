@@ -1,8 +1,13 @@
 # French lexicon: adj entries in r (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 rabattable adj
 rabbinique adj
+rabelaisien adj
 rabougri adj
+raccommodable adj
+rachetable adj
 racial adj
+racinaire adj
+racinien adj
 raciste adj
 racoleur adj f=racoleuse
 radical adj adv=radicalement
@@ -20,11 +25,13 @@ railleur adj f=railleuse
 raisonnable adj adv=raisonnablement
 raisonneur adj f=raisonneuse
 râleur adj f=râleuse style=colloquial
+ramolli adj
 rampant adj
 rance adj
 rancunier adj
 rapace adj
 rapide adj adv=rapidement
+rapporteur adj f=rapporteuse
 rare adj adv=rarement
 rarissime adj
 ras adj f=rase
@@ -33,6 +40,7 @@ rassembleur adj f=rassembleuse
 rassis adj f=rassise
 rassurant adj
 rasta adj f=rasta style=colloquial
+ratifié adj
 rationaliste adj
 rationnel adj adv=rationnellement
 rauque adj
@@ -56,16 +64,21 @@ récessif adj
 recevable adj
 rechargeable adj
 recherché adj
+récidiviste adj
 réciproque adj adv=réciproquement
 reclus adj f=recluse
 recommandable adj
 recommandé adj
+reconductible adj
+reconfigurable adj
 réconfortant adj
 reconnaissable adj
 reconnaissant adj
 reconnu adj
+recouvrable adj
 récréatif adj
 récréotouristique adj
+rectangle adj
 rectangulaire adj
 rectifiable adj
 rectificatif adj
@@ -88,11 +101,15 @@ rééligible adj
 référendaire adj
 réfléchi adj
 réfléchissant adj
+réformable adj
 réformateur adj f=réformatrice
 réformiste adj
 réfractaire adj
+réfrigérant adj
+réfutable adj
 régalien adj
 regardant adj
+régénérateur adj f=régénératrice
 régional adj
 régionaliste adj
 réglable adj
@@ -103,6 +120,8 @@ régressif adj
 regrettable adj
 régulateur adj f=régulatrice
 régulier adj adv=régulièrement
+réhabilitable adj
+réitératif adj
 réjouissant adj
 relaps adj f=relapse
 relatif adj adv=relativement
@@ -113,6 +132,7 @@ reluisant adj
 remarquable adj adv=remarquablement
 remboursable adj
 remplaçable adj
+remplaçant adj
 remuant adj
 rémunérateur adj f=rémunératrice
 renaissant adj
@@ -123,16 +143,20 @@ renommé adj
 renouvelable adj
 rénovateur adj f=rénovatrice
 rentable adj
+rentrant adj
+renversant adj
 répandu adj
 réparable adj
 réparateur adj f=réparatrice
 réparti adj
 repentant adj
+répertorié adj
 répétitif adj
 replet adj f=replète
 reposant adj
 repoussant adj
 répréhensible adj
+représentable adj
 représentatif adj
 répressif adj
 réprobateur adj f=réprobatrice
@@ -150,6 +174,7 @@ réservé adj
 résidentiel adj
 résiduel adj
 résigné adj
+résiliable adj
 résilient adj
 résineux adj
 résistant adj
@@ -170,6 +195,7 @@ retardé adj
 retentissant adj
 réticent adj
 rétif adj
+rétinien adj
 retiré adj
 retors adj f=retorse
 rétractable adj
@@ -190,10 +216,12 @@ rêveur adj f=rêveuse
 révisable adj
 révisionniste adj
 révocable adj
+révocatoire adj
 révoltant adj
 révolu adj
 révolutionnaire adj
 rhénan adj
+rhumatoïde adj
 riant adj
 ricaneur adj f=ricaneuse
 riche adj
@@ -203,12 +231,14 @@ rieur adj f=rieuse
 rigide adj
 rigolo adj f=rigolote style=colloquial alt=drôle
 rigoureux adj adv=rigoureusement
+rimbaldien adj
 ringard adj style=colloquial alt=démodé
 risible adj
 risqué adj
 rituel adj
 rival adj
 riverain adj
+robotique adj
 robuste adj
 rocailleux adj
 rochelais adj

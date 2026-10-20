@@ -8,6 +8,7 @@ quadrige noun g=m
 quadrilatère noun g=m
 quadrillage noun g=m
 quadrupède noun g=m
+quadruplement noun g=m
 quai noun g=m
 qualificatif noun g=m
 qualification noun g=f

@@ -32,13 +32,14 @@ tchèque adj
 tchétchène adj
 technique adj adv=techniquement
 technocratique adj
-technologique adj
+technologique adj adv=technologiquement
 technophile adj
 tectonique adj
 teigneux adj
 téléchargeable adj
 télégénique adj
 télégraphique adj
+télématique adj
 téléphonique adj
 télescopique adj
 télévisé adj
@@ -88,7 +89,9 @@ théorique adj adv=théoriquement
 thérapeutique adj
 thermal adj
 thermique adj
+thermodynamique adj
 thoracique adj
+thyroïdien adj
 tibétain adj
 tiède adj
 tiers adj f=tierce
@@ -122,20 +125,25 @@ toulousain adj
 touristique adj
 tournant adj
 tout-puissant adj f=toute-puissante pl=tout-puissants fpl=toutes-puissantes
+tout-terrain adj inv
 toxicologique adj
 toxique adj
+traçable adj
 traditionaliste adj
 traditionnel adj adv=traditionnellement
 traduisible adj
+tragi-comique adj
 tragique adj adv=tragiquement
 traînard adj rect=trainard
 traitant adj
 traître adj f=traîtresse rect=traitre
 tranchant adj
 tranquille adj adv=tranquillement
+transactionnel adj
 transatlantique adj
 transcendantal adj
 transcontinental adj
+transformable adj
 transfrontalier adj
 transfrontière adj
 transgénique adj
@@ -149,6 +157,7 @@ transmissible adj
 transnational adj
 transparent adj
 transpartisan adj
+transportable adj
 transversal adj
 transverse adj
 trapézoïdal adj
@@ -167,6 +176,7 @@ tribal adj
 tributaire adj
 tricolore adj
 triennal adj
+trigonométrique adj
 trilingue adj
 trimestriel adj
 triomphal adj
@@ -185,8 +195,10 @@ trouillard adj style=colloquial alt=peureux
 truculent adj
 tsariste adj
 tsigane adj
+tuberculeux adj
 tubulaire adj
 tuméfié adj
+tumoral adj
 tumultueux adj
 tunisien adj
 turbulent adj

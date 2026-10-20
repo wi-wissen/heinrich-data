@@ -140,9 +140,11 @@ sous-entendre verb class=rendre
 sous-estimer verb
 sous-évaluer verb
 sous-louer verb
+sous-payer verb
 sous-tendre verb class=rendre
 sous-titrer verb
 sous-traiter verb
+sous-utiliser verb
 souscrire verb class=écrire
 soustraire verb class=traire
 soutenir verb class=venir

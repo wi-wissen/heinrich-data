@@ -32,6 +32,7 @@ salivaire adj
 salubre adj
 salutaire adj
 salvateur adj f=salvatrice
+sanctionnable adj
 sanglant adj
 sanguin adj
 sanguinaire adj
@@ -86,6 +87,7 @@ sectoriel adj
 séculaire adj
 séculier adj
 sécuritaire adj
+sédatif adj
 sédentaire adj
 sédimentaire adj
 séditieux adj
@@ -93,11 +95,17 @@ séducteur adj f=séductrice
 séduisant adj
 séfarade adj
 seigneurial adj
+séismique adj
 sélect adj style=colloquial
 sélectif adj
 sémantique adj
 semblable adj
 semestriel adj
+semi-automatique adj
+semi-circulaire adj
+semi-conducteur adj f=semi-conductrice pl=semi-conducteurs fpl=semi-conductrices
+semi-fini adj f=semi-finie
+semi-public adj f=semi-publique
 sémillant adj
 séminal adj
 sémitique adj
@@ -113,6 +121,7 @@ sensoriel adj
 sensuel adj
 sentencieux adj
 sentimental adj
+séparable adj
 séparatif adj
 séparatiste adj
 séparé adj adv=séparément
@@ -125,6 +134,7 @@ serbe adj
 serein adj adv=sereinement
 sériel adj
 sérieux adj adv=sérieusement
+sérologique adj
 séropositif adj
 serviable adj
 servile adj
@@ -140,6 +150,8 @@ sibyllin adj
 sicilien adj
 sidéral adj
 sidérurgique adj
+sigmoïde adj
+signalétique adj
 significatif adj adv=significativement
 sikh adj
 silencieux adj adv=silencieusement
@@ -147,6 +159,8 @@ siliceux adj
 similaire adj
 simple adj adv=simplement
 simplet adj f=simplette
+simplificateur adj f=simplificatrice
+simplifié adj
 simplissime adj style=colloquial
 simpliste adj
 simultané adj adv=simultanément
@@ -155,6 +169,7 @@ singulier adj adv=singulièrement
 sinistre adj
 sinistré adj
 sinueux adj
+sinusal adj
 sioniste adj
 sismique adj
 skiable adj
@@ -173,6 +188,7 @@ socioculturel adj
 sociologique adj
 socioprofessionnel adj
 socratique adj
+soignant adj
 soigné adj
 soigneux adj adv=soigneusement
 solaire adj
@@ -211,8 +227,11 @@ souriant adj
 sournois adj adv=sournoisement
 sous-cutané adj f=sous-cutanée
 sous-développé adj f=sous-développée
+sous-équipé adj f=sous-équipée
 sous-jacent adj f=sous-jacente
 sous-marin adj f=sous-marine pl=sous-marins
+sous-peuplé adj f=sous-peuplée
+sous-représenté adj f=sous-représentée
 soussigné adj
 soutenable adj
 soutenu adj
@@ -265,7 +284,9 @@ strict adj adv=strictement
 strident adj
 strié adj
 structural adj
+structuraliste adj
 structurant adj
+structuré adj
 structurel adj adv=structurellement
 studieux adj
 stupéfait adj
@@ -281,6 +302,7 @@ subit adj adv=subitement
 subjectif adj adv=subjectivement
 sublime adj
 subordonné adj
+subrogé adj
 subsaharien adj
 subséquent adj
 subsidiaire adj
@@ -290,6 +312,7 @@ subtil adj adv=subtilement
 subtropical adj
 suburbain adj
 subversif adj
+successible adj
 successif adj adv=successivement
 successoral adj
 succinct adj
@@ -309,6 +332,7 @@ suiveur adj f=suiveuse
 suivi adj
 sujet adj f=sujette
 sulfureux adj
+sulfurique adj
 sumérien adj
 sunnite adj
 superbe adj adv=superbement
@@ -340,6 +364,8 @@ surnuméraire adj
 surpeuplé adj
 surprenant adj
 surréaliste adj
+sursitaire adj
+surveillé adj
 survivant adj
 susceptible adj
 susmentionné adj

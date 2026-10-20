@@ -93,6 +93,7 @@ réaménager verb
 réanimer verb
 réapparaître verb class=connaître aux=avoir|être
 réapprendre verb class=prendre
+réapprovisionner verb
 réarmer verb
 réarranger verb
 réassortir verb class=ir
@@ -183,6 +184,7 @@ redessiner verb
 redevenir verb class=venir aux=être
 rediffuser verb
 rédiger verb
+redimensionner verb
 redire verb class=dire
 rediriger verb
 rediscuter verb
@@ -204,6 +206,8 @@ réessayer verb
 réévaluer verb
 réexaminer verb
 réexpédier verb
+réexporter verb
+refacturer verb
 refaire verb class=faire
 référencer verb
 référer verb
@@ -248,6 +252,7 @@ réhabiliter verb
 rehausser verb
 réimporter verb
 réimprimer verb
+réinitialiser verb
 réinjecter verb
 réinscrire verb class=écrire
 réinsérer verb
@@ -452,6 +457,7 @@ retravailler verb
 retraverser verb
 rétrécir verb class=ir
 rétribuer verb
+rétrocéder verb
 rétrograder verb
 retrousser verb
 retrouver verb
@@ -501,6 +507,7 @@ risquer verb
 rissoler verb
 rivaliser verb pp_inv
 river verb
+robotiser verb
 roder verb
 rôder verb pp_inv
 rogner verb

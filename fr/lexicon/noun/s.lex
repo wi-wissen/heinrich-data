@@ -1,6 +1,7 @@
 # French lexicon: noun entries in s (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 sabbat noun g=m
 sabir noun g=m
+sablage noun g=m
 sable noun g=m
 sablier noun g=m
 sablière noun g=f
@@ -13,9 +14,11 @@ sabre noun g=m
 sabreur noun g=m
 sac noun g=m
 saccade noun g=f
+saccage noun g=m
 sacerdoce noun g=m
 sachet noun g=m
 sacoche noun g=f
+sacralisation noun g=f
 sacre noun g=m
 sacrement noun g=m
 sacrifice noun g=m
@@ -40,9 +43,11 @@ saillie noun g=f
 saindoux noun g=m
 saint noun g=m f=sainte
 saint-bernard noun g=m pl=saint-bernard[trad]|saint-bernards[rect]
+saint-honoré noun g=m pl=saint-honoré[trad]|saint-honorés[rect]
 sainteté noun g=f
 saisie noun g=f
 saisine noun g=f
+saisissant noun g=m f=saisissante
 saisissement noun g=m
 saison noun g=f
 saisonnalité noun g=f
@@ -61,12 +66,15 @@ salaud noun g=m style=vulgar alt=salopard
 saleté noun g=f
 salière noun g=f
 saline noun g=f
+salinisation noun g=f
 salinité noun g=f
+salissure noun g=f
 salivation noun g=f
 salive noun g=f
 salle noun g=f
 salmis noun g=m
 salmonelle noun g=f
+salmonellose noun g=f
 salon noun g=m
 salonnard noun g=m style=colloquial
 saloon noun g=m
@@ -88,6 +96,7 @@ sanatorium noun g=m
 sanctification noun g=f
 sanction noun g=f
 sanctuaire noun g=m
+sanctuarisation noun g=f
 sandale noun g=f
 sandwich noun g=m pl=sandwichs|sandwiches
 sang noun g=m
@@ -96,10 +105,15 @@ sangle noun g=f
 sanglier noun g=m
 sanglot noun g=m
 sangsue noun g=f
+sanitaire noun g=m
 sans-abri noun g=m|f pl=sans-abri[trad]|sans-abris[rect]
+sans-culotte noun g=m pl=sans-culottes
+sans-faute noun g=m pl=sans-faute[trad]|sans-fautes[rect]
+sans-fil noun g=m pl=sans-fil[trad]|sans-fils[rect]
 sans-gêne noun g=m|f pl=sans-gêne
 sans-papiers noun g=m|f
 sanskrit noun g=m
+sansonnet noun g=m
 santé noun g=f
 santiag noun g=f
 santon noun g=m
@@ -111,6 +125,8 @@ sapinière noun g=f
 sarbacane noun g=f
 sarcasme noun g=m
 sarcelle noun g=f
+sarclage noun g=m
+sarcome noun g=m
 sarcophage noun g=m
 sardine noun g=f
 sardinier noun g=m
@@ -119,6 +135,7 @@ sarrasin noun g=m
 sarrau noun g=m pl=sarraus
 sassafras noun g=m
 satanisme noun g=m
+satellisation noun g=f
 satellite noun g=m
 satiété noun g=f
 satin noun g=m
@@ -126,6 +143,7 @@ satire noun g=f
 satisfaction noun g=f
 satisfecit noun g=m rect=satisfécit conf=85 note=traditional plural also invariable
 satrape noun g=m
+saturateur noun g=m
 saturation noun g=f
 saturnisme noun g=m
 satyre noun g=m
@@ -133,6 +151,7 @@ sauce noun g=f
 saucière noun g=f
 saucisse noun g=f
 saucisson noun g=m
+sauf-conduit noun g=m pl=sauf-conduits
 sauge noun g=f
 saule noun g=m
 saumon noun g=m
@@ -164,12 +183,15 @@ savoir-faire noun g=m
 savoir-vivre noun g=m pl=- note=no plural
 savon noun g=m
 savonnette noun g=f
+saxifrage noun g=f
 saxophone noun g=m
 saxophoniste noun g=m|f
 sbire noun g=m
+scalaire noun g=m
 scalpel noun g=m
 scan noun g=m
 scandale noun g=m
+scannage noun g=m
 scanner noun g=m
 scaphandre noun g=m
 scaphandrier noun g=m
@@ -178,6 +200,8 @@ scarabée noun g=m
 scarlatine noun g=f
 sceau noun g=m
 scélérat noun g=m f=scélérate
+scellé noun g=m
+scellement noun g=m
 scénario noun g=m
 scénariste noun g=m|f
 scène noun g=f
@@ -197,9 +221,11 @@ scie noun g=f
 science noun g=f
 scientifique noun g=m|f
 scierie noun g=f
+scintigraphie noun g=f
 scintillation noun g=f
 scission noun g=f
 sciure noun g=f
+sclérodermie noun g=f
 sclérose noun g=f
 scolarisation noun g=f
 scolarité noun g=f
@@ -226,6 +252,8 @@ sculpture noun g=f
 séance noun g=f
 séant noun g=m
 seau noun g=m
+séborrhée noun g=f
+sécante noun g=f
 sécateur noun g=m
 sécession noun g=f
 séchage noun g=m
@@ -250,6 +278,8 @@ sectateur noun g=m f=sectatrice style=literary
 secte noun g=f
 secteur noun g=m
 section noun g=f
+sectionnement noun g=m
+sectorisation noun g=f
 sécu noun g=f style=colloquial alt=sécurité_sociale
 sécularisation noun g=f
 sécurisation noun g=f
@@ -274,6 +304,7 @@ seing noun g=m
 séisme noun g=m
 séjour noun g=m
 sel noun g=m
+sélecteur noun g=m
 sélection noun g=f
 sélectionneur noun g=m f=sélectionneuse
 sélectivité noun g=f
@@ -296,18 +327,21 @@ semi-remorque noun g=m pl=semi-remorques
 séminaire noun g=m
 séminariste noun g=m
 sémiologie noun g=f
+sémiotique noun g=f
 semis noun g=m
 semoule noun g=f
 sénat noun g=m
 sénateur noun g=m f=sénatrice
 sénéchal noun g=m
 sénéchaussée noun g=f
+sénescence noun g=f
 sénevé noun g=m
 sénilité noun g=f
 senior noun g=m|f
 sénior noun g=m|f
 sens noun g=m
 sensation noun g=f
+senseur noun g=m
 sensibilisation noun g=f
 sensibilité noun g=f
 sensiblerie noun g=f
@@ -327,6 +361,7 @@ sépia noun g=f
 septembre noun g=m
 septennat noun g=m
 septentrion noun g=m style=literary
+septicémie noun g=f
 septuagénaire noun g=m|f
 sépulcre noun g=m
 sépulture noun g=f
@@ -344,6 +379,7 @@ sérénité noun g=f
 serf noun g=m f=serve
 sergent noun g=m
 sérial noun g=m pl=sérials
+sériciculture noun g=f
 série noun g=f
 sérigraphie noun g=f
 serin noun g=m
@@ -351,6 +387,9 @@ seringa noun g=m
 seringue noun g=f
 serment noun g=m
 sermon noun g=m
+sérologie noun g=f
+séropositif noun g=m f=séropositive
+séropositivité noun g=f
 sérotonine noun g=f
 serpe noun g=f
 serpent noun g=m
@@ -358,12 +397,14 @@ serpentin noun g=m
 serpette noun g=f
 serpillière noun g=f
 serpolet noun g=m
+serrage noun g=m
 serre noun g=f
 serre-tête noun g=m pl=serre-tête[trad]|serre-têtes[rect]
 serrement noun g=m
 serrure noun g=f
 serrurerie noun g=f
 serrurier noun g=m f=serrurière
+sertissage noun g=m
 sérum noun g=m
 servage noun g=m
 servant noun g=m f=servante
@@ -373,6 +414,7 @@ serviette noun g=f
 servilité noun g=f
 serviteur noun g=m
 servitude noun g=f
+servomoteur noun g=m
 sésame noun g=m
 session noun g=f
 set noun g=m
@@ -468,6 +510,7 @@ sirop noun g=m
 sismicité noun g=f
 sismographe noun g=m
 sismologie noun g=f
+sismologue noun g=m|f
 sistre noun g=m
 sitar noun g=m
 sitcom noun g=f
@@ -537,6 +580,7 @@ solidarité noun g=f
 solidification noun g=f
 solidité noun g=f
 soliloque noun g=m
+solipsisme noun g=m
 soliste noun g=m|f
 solitaire noun g=m|f
 solitude noun g=f
@@ -546,6 +590,7 @@ solliciteur noun g=m f=solliciteuse
 sollicitude noun g=f
 solo noun g=m
 solstice noun g=m
+solubilité noun g=f
 soluté noun g=m
 solution noun g=f
 solvabilité noun g=f
@@ -585,6 +630,7 @@ sophrologie noun g=f
 soprano noun g=m|f
 sorbet noun g=m
 sorbetière noun g=f
+sorbier noun g=m
 sorcellerie noun g=f
 sorcier noun g=m f=sorcière
 sorgho noun g=m
@@ -607,6 +653,8 @@ soucoupe noun g=f
 soudage noun g=m
 soudard noun g=m
 soudeur noun g=m f=soudeuse
+soudeuse noun g=f
+soudure noun g=f
 soufflage noun g=m
 souffle noun g=m
 soufflé noun g=m
@@ -654,28 +702,40 @@ souris noun g=f
 sous-alimentation noun g=f pl=- note=no plural
 sous-amendement noun g=m pl=sous-amendements
 sous-bois noun g=m
+sous-capitalisation noun g=f pl=sous-capitalisations
 sous-chef noun g=m|f pl=sous-chefs
 sous-continent noun g=m pl=sous-continents
+sous-couche noun g=f pl=sous-couches
 sous-directeur noun g=m f=sous-directrice pl=sous-directeurs fpl=sous-directrices
 sous-direction noun g=f pl=sous-directions
+sous-effectif noun g=m pl=sous-effectifs
+sous-emploi noun g=m pl=sous-emplois
 sous-ensemble noun g=m pl=sous-ensembles
 sous-entendu noun g=m pl=sous-entendus
 sous-espèce noun g=f pl=sous-espèces
+sous-estimation noun g=f pl=sous-estimations
+sous-évaluation noun g=f pl=sous-évaluations
 sous-famille noun g=f pl=sous-familles
 sous-genre noun g=m pl=sous-genres
 sous-groupe noun g=m pl=sous-groupes
+sous-homme noun g=m pl=sous-hommes
 sous-lieutenant noun g=m pl=sous-lieutenants
 sous-locataire noun g=m|f pl=sous-locataires
 sous-location noun g=f pl=sous-locations
 sous-main noun g=m pl=sous-mains
 sous-marin noun g=m pl=sous-marins
+sous-multiple noun g=m pl=sous-multiples
 sous-officier noun g=m pl=sous-officiers
+sous-pied noun g=m pl=sous-pieds
 sous-préfecture noun g=f pl=sous-préfectures
 sous-préfet noun g=m f=sous-préfète pl=sous-préfets fpl=sous-préfètes
 sous-produit noun g=m pl=sous-produits
+sous-programme noun g=m pl=sous-programmes
+sous-pull noun g=m pl=sous-pulls
 sous-section noun g=f pl=sous-sections
 sous-sol noun g=m pl=sous-sols
 sous-titre noun g=m pl=sous-titres
+sous-total noun g=m pl=sous-totaux
 sous-traitance noun g=f pl=sous-traitances
 sous-traitant noun g=m pl=sous-traitants
 sous-verre noun g=m pl=sous-verre[trad]|sous-verres[rect]
@@ -702,6 +762,7 @@ spam noun g=m
 sparadrap noun g=m
 spartiate noun g=f
 spasme noun g=m
+spasmophilie noun g=f
 spationaute noun g=m|f
 spatule noun g=f
 speaker noun g=m f=speakerine
@@ -715,6 +776,7 @@ spécimen noun g=m
 spectacle noun g=m
 spectateur noun g=m f=spectatrice
 spectre noun g=m
+spectrographe noun g=m
 spectromètre noun g=m
 spectrométrie noun g=f
 spectroscopie noun g=f
@@ -727,16 +789,20 @@ sperme noun g=m
 sphère noun g=f
 sphincter noun g=m
 sphinx noun g=m
+sphygmomanomètre noun g=m
 spicule noun g=m
 spinnaker noun g=m
+spinozisme noun g=m
 spirale noun g=f
 spirite noun g=m|f
 spiritisme noun g=m
 spiritualisme noun g=m
 spiritualité noun g=f
 spiritueux noun g=m
+spirométrie noun g=f
 spleen noun g=m
 splendeur noun g=f
+splénectomie noun g=f
 spoiler noun g=m
 spoliation noun g=f
 sponsor noun g=m
@@ -746,6 +812,7 @@ spore noun g=f
 sport noun g=m
 spot noun g=m
 spray noun g=m
+sprinkler noun g=m
 sprint noun g=m
 sprinteur noun g=m f=sprinteuse
 square noun g=m
@@ -760,6 +827,7 @@ stabulation noun g=f
 stade noun g=m
 staff noun g=m
 stage noun g=m
+stagflation noun g=f
 stagiaire noun g=m|f
 stagnation noun g=f
 stakhanoviste noun g=m|f
@@ -788,18 +856,23 @@ stature noun g=f
 statut noun g=m
 steak noun g=m
 steamer noun g=m
+stéatose noun g=f
 steeple noun g=m
 stèle noun g=f
 sténodactylo noun g=f
 sténographe noun g=m|f
 sténographie noun g=f
+sténose noun g=f
 steppe noun g=f
 stéréo noun g=f
 stéréotype noun g=m
+stérilet noun g=m
+stérilisateur noun g=m
 stérilisation noun g=f
 stérilité noun g=f
 sternum noun g=m
 stéroïde noun g=m
+stéthoscope noun g=m
 steward noun g=m
 stigmate noun g=m
 stigmatisation noun g=f
@@ -809,11 +882,14 @@ stimulation noun g=f
 stimulus noun g=m pl=stimuli|stimulus
 stipulation noun g=f
 stock noun g=m
+stock-option noun g=f pl=stock-options
 stockage noun g=m
 stoïcien noun g=m f=stoïcienne
 stoïcisme noun g=m
 stolon noun g=m
 stomate noun g=m
+stomatologie noun g=f
+stomatologue noun g=m|f
 stop noun g=m
 stoppeur noun g=m f=stoppeuse
 store noun g=m
@@ -857,6 +933,7 @@ subconscient noun g=m
 subdélégué noun g=m f=subdéléguée
 subdivision noun g=f
 subduction noun g=f
+subjectivisme noun g=m
 subjectivité noun g=f
 subjonctif noun g=m
 sublimation noun g=f
@@ -936,6 +1013,7 @@ supériorité noun g=f
 superlatif noun g=m
 supermarché noun g=m
 supernova noun g=f pl=supernovas|supernovæ
+superordinateur noun g=m
 superposition noun g=f
 superproduction noun g=f
 superprofit noun g=m
@@ -959,10 +1037,12 @@ supporteur noun g=m f=supportrice
 supposition noun g=f
 suppositoire noun g=m
 suppôt noun g=m
+suppresseur noun g=m
 suppression noun g=f
 suppuration noun g=f
 supraconducteur noun g=m
 suprématie noun g=f
+sur-mesure noun g=m pl=- note=no plural
 surabondance noun g=f
 suramortissement noun g=m
 surbooking noun g=m
@@ -1002,6 +1082,7 @@ surmortalité noun g=f
 surnaturel noun g=m
 surnom noun g=m
 surnombre noun g=m
+surpassement noun g=m
 surpêche noun g=f
 surpiqûre noun g=f rect=surpiqure
 surplace noun g=m
@@ -1010,10 +1091,13 @@ surplomb noun g=m
 surplus noun g=m
 surpoids noun g=m
 surpopulation noun g=f
+surpression noun g=f
 surprime noun g=f
 surprise noun g=f
 surproduction noun g=f
 surréalisme noun g=m
+surréaliste noun g=m|f
+surrégénérateur noun g=m
 surreprésentation noun g=f
 sursaut noun g=m
 sursis noun g=m
@@ -1045,6 +1129,8 @@ sybarite noun g=m|f
 sycomore noun g=m
 syllabaire noun g=m
 syllabe noun g=f
+syllabus noun g=m
+syllepse noun g=f
 syllogisme noun g=m
 sylphe noun g=m
 sylphide noun g=f
@@ -1059,6 +1145,7 @@ symphonie noun g=f
 symptôme noun g=m
 synagogue noun g=f
 synchronisation noun g=f
+synchroniseur noun g=m
 synchrotron noun g=m
 syncope noun g=f
 syncrétisme noun g=m
@@ -1066,8 +1153,10 @@ syndic noun g=m
 syndicalisme noun g=m
 syndicaliste noun g=m|f
 syndicat noun g=m
+syndication noun g=f
 syndiqué noun g=m f=syndiquée
 syndrome noun g=m
+synecdoque noun g=f
 synergie noun g=f
 synesthésie noun g=f
 synesthète noun g=m|f

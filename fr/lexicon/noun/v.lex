@@ -1,5 +1,6 @@
 # French lexicon: noun entries in v (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 va-et-vient noun g=m pl=va-et-vient
+va-nu-pieds noun g=m|f
 vacance noun g=f
 vacancier noun g=m f=vacancière
 vacarme noun g=m
@@ -18,6 +19,7 @@ vadrouille noun g=f style=colloquial
 vagabond noun g=m f=vagabonde
 vagabondage noun g=m
 vagin noun g=m
+vaginite noun g=f
 vagissement noun g=m
 vague noun g=f
 vaguelette noun g=f
@@ -56,28 +58,37 @@ vantard noun g=m f=vantarde
 vantardise noun g=f
 vapeur noun g=f
 vapeur noun g=m sense=steamship
+vapeur noun g=f sense=steam
+vaporisateur noun g=m
+vaporisation noun g=f
 vapoteuse noun g=f
 varappe noun g=f
 varappeur noun g=m f=varappeuse
 varech noun g=m
 vareuse noun g=f
 variabilité noun g=f
+variable noun g=f
 variance noun g=f
 variant noun g=m
 variante noun g=f
+variateur noun g=m
 variation noun g=f
 varice noun g=f
 varicelle noun g=f
+varicosité noun g=f
 variété noun g=f
 variole noun g=f
 varlope noun g=f
 vase noun g=m sense=vessel
 vase noun g=f sense=mud
 vasistas noun g=m
+vasoconstriction noun g=f
+vasodilatation noun g=f
 vasque noun g=f
 vassal noun g=m f=vassale
 vassalité noun g=f
 vaudeville noun g=m
+vaudevilliste noun g=m|f
 vaudou noun g=m note=plural vaudous
 vaurien noun g=m f=vaurienne
 vautour noun g=m
@@ -223,7 +234,9 @@ vicariat noun g=m
 vice noun g=m
 vice-amiral noun g=m pl=vice-amiraux
 vice-champion noun g=m f=vice-championne pl=vice-champions fpl=vice-championnes
+vice-présidence noun g=f pl=vice-présidences
 vice-président noun g=m f=vice-présidente pl=vice-présidents
+vice-procureur noun g=m pl=vice-procureurs
 vice-roi noun g=m pl=vice-rois
 vichy noun g=m
 vicissitude noun g=f
@@ -233,13 +246,16 @@ victime noun g=f
 victimisation noun g=f
 victoire noun g=f
 victuailles noun g=f pl_only
+vidage noun g=m
 vidame noun g=m
 vidange noun g=f
 vide-grenier noun g=m pl=vide-greniers
 vide-ordures noun g=m
+vide-poche noun g=m pl=vide-poches
 vidéaste noun g=m|f
 vidéo noun g=f
 vidéoclip noun g=m
+vidéoprojecteur noun g=m
 vidéoprotection noun g=f
 vidéosurveillance noun g=f
 vidéothèque noun g=f
@@ -295,21 +311,26 @@ vipère noun g=f
 virage noun g=m
 virago noun g=f
 virée noun g=f style=colloquial
+virelai noun g=m
 virement noun g=m
+virémie noun g=f
 virginité noun g=f
 virgule noun g=f
 virilité noun g=f
 virologie noun g=f
 virologue noun g=m|f
+virose noun g=f
 virtualisation noun g=f
 virtuose noun g=m|f
 virtuosité noun g=f
 virus noun g=m
 vis noun g=f
+vis-à-vis noun g=m
 visa noun g=m
 visage noun g=m
 viscère noun g=m
 viscose noun g=f
+viscosimètre noun g=m
 viscosité noun g=f
 visée noun g=f
 viseur noun g=m
@@ -317,16 +338,20 @@ visibilité noun g=f
 visière noun g=f
 visioconférence noun g=f
 vision noun g=f
+visionnage noun g=m
 visionneuse noun g=f
 visiophonie noun g=f
 visite noun g=f
 visiteur noun g=m f=visiteuse
+vison noun g=m
 visualisation noun g=f
+vitalisme noun g=m
 vitalité noun g=f
 vitamine noun g=f
 vitesse noun g=f
 viticulteur noun g=m f=viticultrice
 viticulture noun g=f
+vitiligo noun g=m
 vitrage noun g=m
 vitrail noun g=m pl=vitraux
 vitre noun g=f
@@ -334,6 +359,7 @@ vitrier noun g=m
 vitrification noun g=f
 vitrine noun g=f
 vitriol noun g=m
+vitrocéramique noun g=f
 vivacité noun g=f
 vivandière noun g=f
 vivarium noun g=m
@@ -389,11 +415,13 @@ voltage noun g=m
 volte noun g=f
 volte-face noun g=f pl=volte-face[trad]|volte-faces[rect]
 voltigeur noun g=m
+voltmètre noun g=m
 volubilité noun g=f
 volume noun g=m
 volupté noun g=f
 volute noun g=f
 vomissement noun g=m
+vomitif noun g=m
 voracité noun g=f
 votant noun g=m f=votante
 votation noun g=f
@@ -416,6 +444,7 @@ vrille noun g=f
 vrombissement noun g=m
 vue noun g=f
 vulcanologue noun g=m|f
+vulgarisateur noun g=m f=vulgarisatrice
 vulgarisation noun g=f
 vulgarité noun g=f
 vulnérabilité noun g=f

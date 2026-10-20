@@ -14,6 +14,8 @@ valdôtain adj
 valeureux adj
 valide adj
 vallonné adj
+valorisant adj
+valvulaire adj
 vaniteux adj
 vantard adj
 vaporeux adj
@@ -49,6 +51,7 @@ venimeux adj
 vénitien adj
 venteux adj
 ventral adj
+ventriculaire adj
 ventru adj
 venu adj
 verbal adj adv=verbalement
@@ -73,6 +76,7 @@ vertébré adj
 vertical adj adv=verticalement
 vertigineux adj
 vertueux adj adv=vertueusement
+vésical adj
 vestimentaire adj
 vétérinaire adj
 vétilleux adj
@@ -108,12 +112,13 @@ vinicole adj
 violacé adj
 violent adj adv=violemment
 violet adj f=violette
+viral adj
 virginal adj
 viril adj
 virtuel adj adv=virtuellement
 virulent adj
 viscéral adj
-visible adj
+visible adj adv=visiblement
 visionnaire adj
 visqueux adj
 visuel adj adv=visuellement
@@ -143,6 +148,7 @@ volumique adj
 voluptueux adj
 vorace adj
 vosgien adj
+votant adj
 votif adj
 voûté adj rect=vouté
 voyant adj
