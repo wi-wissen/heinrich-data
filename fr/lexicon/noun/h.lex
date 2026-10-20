@@ -15,11 +15,14 @@ habitué        noun g=m f=habituée
 hâbleur        noun g=m f=hâbleuse aspirate
 hachage        noun g=m aspirate note=also IT: hashing
 hache          noun g=f aspirate
+hache-légumes  noun g=m rect=hache-légume rect_pl=hache-légumes aspirate
+hache-paille   noun g=m pl=hache-paille[trad]|hache-pailles[rect] aspirate
 hache-viande   noun g=m pl=hache-viande[trad]|hache-viandes[rect] aspirate
 hachette       noun g=f aspirate
 hachis         noun g=m aspirate
 hachoir        noun g=m aspirate
 hachure        noun g=f aspirate
+hagiographe    noun g=m|f
 hagiographie   noun g=f
 haie           noun g=f aspirate
 haïku          noun g=m aspirate
@@ -28,6 +31,7 @@ haine          noun g=f aspirate
 halage         noun g=m aspirate
 hâle           noun g=m aspirate
 haleine        noun g=f
+halètement     noun g=m aspirate
 hall           noun g=m aspirate
 hallali        noun g=m aspirate
 halle          noun g=f aspirate
@@ -64,10 +68,13 @@ harangue       noun g=f aspirate
 haras          noun g=m aspirate
 harcèlement    noun g=m aspirate
 harceleur      noun g=m f=harceleuse aspirate
+harde          noun g=f aspirate note=herd (of deer)
 hardes         noun g=f pl_only aspirate note=old worn clothes
 hardiesse      noun g=f aspirate
 harem          noun g=m aspirate
 hareng         noun g=m aspirate
+harfang        noun g=m aspirate
+hargne         noun g=f aspirate
 haricot        noun g=m aspirate
 harissa        noun g=f aspirate
 harki          noun g=m aspirate
@@ -76,6 +83,7 @@ harmonie       noun g=f
 harmonique     noun g=m
 harmonisation  noun g=f
 harmonium      noun g=m
+harnachement   noun g=m aspirate
 harnais        noun g=m aspirate
 harpe          noun g=f aspirate
 harpie         noun g=f aspirate
@@ -103,7 +111,9 @@ hautboïste     noun g=m|f aspirate
 haute-contre   noun g=f pl=hautes-contre aspirate note=voice; un haute-contre (singer) also used
 haute-fidélité noun g=f aspirate pl=- note=uncountable
 hauteur        noun g=f aspirate
+havane         noun g=m aspirate
 havre          noun g=m aspirate
+havresac       noun g=m aspirate
 hayon          noun g=m aspirate
 heaume         noun g=m aspirate
 hebdo          noun g=m style=colloquial alt=hebdomadaire
@@ -118,8 +128,10 @@ hectolitre     noun g=m
 hectopascal    noun g=m note=plural hectopascals
 hédonisme      noun g=m
 hédoniste      noun g=m|f
+hégélianisme   noun g=m
 hégémonie      noun g=f
 hégire         noun g=f
+hélianthe      noun g=m
 hélice         noun g=f
 hélicoptère    noun g=m
 héliogravure   noun g=f
@@ -127,12 +139,14 @@ héliotrope     noun g=m
 héliport       noun g=m
 hélium         noun g=m
 hellébore      noun g=m
+hellénisation  noun g=f
 hellénisme     noun g=m
 helléniste     noun g=m|f
 hématie        noun g=f
 hématologie    noun g=f
 hématologue    noun g=m|f
 hématome       noun g=m
+hématurie      noun g=f
 hémicycle      noun g=m
 hémiplégie     noun g=f
 hémiptère      noun g=m
@@ -141,13 +155,16 @@ hémistiche     noun g=m
 hémodialyse    noun g=f
 hémoglobine    noun g=f
 hémogramme     noun g=m
+hémolyse       noun g=f
 hémophile      noun g=m|f
 hémophilie     noun g=f
 hémorragie     noun g=f
 hémorroïde     noun g=f
+hémostase      noun g=f
 henné          noun g=m aspirate
 hennissement   noun g=m aspirate
 hépatite       noun g=f
+heptagone      noun g=m
 heptathlon     noun g=m
 héraldique     noun g=f
 héraut         noun g=m aspirate
@@ -157,9 +174,11 @@ herbicide      noun g=m
 herbier        noun g=m
 herbivore      noun g=m
 herboriste     noun g=m|f
+herboristerie  noun g=f
 hérédité       noun g=f
 hérésie        noun g=f
 hérétique      noun g=m|f
+hérissement    noun g=m aspirate
 hérisson       noun g=m aspirate
 héritage       noun g=m
 héritier       noun g=m f=héritière
@@ -174,16 +193,20 @@ héroïsme       noun g=m
 héron          noun g=m aspirate
 héros          noun g=m aspirate note=feminine héroïne is its own entry because its h is mute
 herpès         noun g=m
+hersage        noun g=m aspirate
 herse          noun g=f aspirate
 hertz          noun g=m aspirate conf=80 note=le hertz, without elision
 hésitation     noun g=f
+hétérodoxie    noun g=f
 hétérogénéité  noun g=f
 hétérosexualité noun g=f
 hétérosexuel   noun g=m f=hétérosexuelle
 hêtraie        noun g=f aspirate
 hêtre          noun g=m aspirate
 heure          noun g=f
+heuristique    noun g=f
 heurt          noun g=m aspirate
+heurtoir       noun g=m aspirate
 hévéa          noun g=m
 hexagone       noun g=m
 hexamètre      noun g=m
@@ -210,12 +233,14 @@ histamine      noun g=f
 histogramme    noun g=m
 histoire       noun g=f
 histologie     noun g=f
+historicisme   noun g=m
 historicité    noun g=f
 historien      noun g=m f=historienne
 historiette    noun g=f
 historiographe noun g=m|f
 historiographie noun g=f
 historique     noun g=m note=l'historique: record, log
+hit-parade     noun g=m pl=hit-parades rect=hitparade aspirate
 hiver          noun g=m
 hivernage      noun g=m
 hobby          noun g=m aspirate pl=hobbys|hobbies
@@ -226,6 +251,7 @@ hockey         noun g=m aspirate
 hockeyeur      noun g=m f=hockeyeuse aspirate
 hold-up        noun g=m pl=hold-up[trad]|hold-ups[rect] aspirate conf=85
 holding        noun g=m|f aspirate note=la holding is more common, le holding also used
+holisme        noun g=m
 holocauste     noun g=m
 holocène       noun g=m
 hologramme     noun g=m
@@ -233,6 +259,7 @@ holographie    noun g=f
 holothurie     noun g=f
 holotype       noun g=m
 homard         noun g=m aspirate
+home           noun g=m aspirate conf=85 note=hostel, home (foyer)
 homélie        noun g=f
 homéopathe     noun g=m|f
 homéopathie    noun g=f
@@ -256,6 +283,7 @@ homophobie     noun g=f
 homophone      noun g=m
 homosexualité  noun g=f
 homosexuel     noun g=m f=homosexuelle
+homothétie     noun g=f
 hongrois       noun g=m aspirate note=the Hungarian language
 honnêteté      noun g=f
 honneur        noun g=m
@@ -286,6 +314,7 @@ hors-jeu       noun g=m pl=hors-jeu[trad]|hors-jeux[rect] aspirate
 hors-la-loi    noun g=m|f pl=hors-la-loi aspirate
 hors-piste     noun g=m pl=hors-piste[trad]|hors-pistes[rect] aspirate
 hors-série     noun g=m pl=hors-séries aspirate
+hors-texte     noun g=m pl=hors-texte[trad]|hors-textes[rect] aspirate
 hortensia      noun g=m
 horticulteur   noun g=m f=horticultrice
 horticulture   noun g=f
@@ -294,6 +323,7 @@ hospitalisation noun g=f
 hospitalité    noun g=f
 hostie         noun g=f
 hostilité      noun g=f
+hosto          noun g=m style=colloquial alt=hôpital
 hot-dog        noun g=m pl=hot-dogs aspirate
 hôte           noun g=m f=hôtesse sense=host
 hôte           noun g=m|f sense=guest note=the guest (invité), same form for both sexes
@@ -309,20 +339,24 @@ houle          noun g=f aspirate
 houlette       noun g=f aspirate
 houppe         noun g=f aspirate
 houppelande    noun g=f aspirate
+hourra         noun g=m aspirate note=also an interjection
 housse         noun g=f aspirate
 houx           noun g=m aspirate
 hublot         noun g=m aspirate
+huche          noun g=f aspirate
 huée           noun g=f aspirate
 huguenot       noun g=m f=huguenote aspirate conf=80 note=les | huguenots without liaison is usual
 huilage        noun g=m
 huile          noun g=f
 huilerie       noun g=f
+huilier        noun g=m
 huis           noun g=m aspirate note=only in à huis clos, le huis clos
 huisserie      noun g=f
 huissier       noun g=m f=huissière
 huitaine       noun g=f aspirate
 huître         noun g=f rect=huitre
 hulotte        noun g=f aspirate
+hululement     noun g=m aspirate
 humain         noun g=m note=un humain, les humains
 humanisation   noun g=f
 humanisme      noun g=m
@@ -356,10 +390,13 @@ hydravion      noun g=m
 hydrazine      noun g=f
 hydre          noun g=f
 hydrocarbure   noun g=m
+hydrocéphalie  noun g=f
 hydrocution    noun g=f
 hydrodynamique noun g=f
 hydroélectricité noun g=f
+hydrogénation  noun g=f
 hydrogène      noun g=m
+hydroglisseur  noun g=m
 hydrographie   noun g=f
 hydrolienne    noun g=f
 hydrologie     noun g=f
@@ -367,6 +404,7 @@ hydrologue     noun g=m|f
 hydrolyse      noun g=f
 hydromel       noun g=m
 hydronyme      noun g=m
+hydrophobie    noun g=f
 hydropisie     noun g=f
 hydrosphère    noun g=f
 hydrothérapie  noun g=f
@@ -395,6 +433,7 @@ hypertension   noun g=f
 hypertexte     noun g=m
 hypertrophie   noun g=f
 hyperventilation noun g=f
+hyperviseur    noun g=m
 hypnose        noun g=f
 hypnotiseur    noun g=m f=hypnotiseuse
 hypocondriaque noun g=m|f
@@ -410,6 +449,7 @@ hypothalamus   noun g=m
 hypothèque     noun g=f
 hypothermie    noun g=f
 hypothèse      noun g=f
+hypoxie        noun g=f
 hysope         noun g=f
 hystérectomie  noun g=f
 hystérésis     noun g=f

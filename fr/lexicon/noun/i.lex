@@ -2,12 +2,14 @@
 ibis           noun g=m
 iceberg        noun g=m
 ichtyologie    noun g=f
+ichtyosaure    noun g=m
 icône          noun g=f
 iconoclasme    noun g=m
 iconoclaste    noun g=m|f
 iconographe    noun g=m|f
 iconographie   noun g=f
 ictère         noun g=m
+ictus          noun g=m
 idéal          noun g=m pl=idéaux|idéals
 idéalisation   noun g=f
 idéalisme      noun g=m
@@ -22,6 +24,7 @@ idéologie      noun g=f
 idéologue      noun g=m|f
 idiome         noun g=m
 idiot          noun g=m f=idiote
+idiotie        noun g=f
 idiotisme      noun g=m
 idolâtre       noun g=m|f
 idolâtrie      noun g=f
@@ -30,16 +33,19 @@ idylle         noun g=f
 if             noun g=m note=the tree
 igloo          noun g=m
 igname         noun g=f
+ignifugation   noun g=f
 ignominie      noun g=f
 ignorance      noun g=f
 ignorant       noun g=m f=ignorante
 iguane         noun g=m
+iguanodon      noun g=m
 île            noun g=f rect=ile
 iléon          noun g=m
 illégalité     noun g=f
 illégitimité   noun g=f
 illettré       noun g=m f=illettrée
 illettrisme    noun g=m
+illiquidité    noun g=f
 illisibilité   noun g=f
 illumination   noun g=f
 illusion       noun g=f
@@ -54,12 +60,15 @@ imagerie       noun g=f
 imagier        noun g=m
 imagination    noun g=f
 imam           noun g=m
+imamat         noun g=m
 imbécile       noun g=m|f
 imbécillité    noun g=f rect=imbécilité conf=90 note=1990 spelling imbécilité
 imbrication    noun g=f
 imbroglio      noun g=m
 imitateur      noun g=m f=imitatrice
 imitation      noun g=f
+immanence      noun g=f
+immatérialité  noun g=f
 immatriculation noun g=f
 immaturité     noun g=f
 immédiateté    noun g=f
@@ -83,8 +92,11 @@ immortelle     noun g=f note=the flower
 immunisation   noun g=f
 immunité       noun g=f
 immunodéficience noun g=f
+immunodépression noun g=f
+immunoglobuline noun g=f
 immunologie    noun g=f
 immunologiste  noun g=m|f
+immunosuppresseur noun g=m
 immunothérapie noun g=f
 immutabilité   noun g=f
 impact         noun g=m
@@ -97,6 +109,8 @@ impatience     noun g=f
 impatiente     noun g=f note=the flower Impatiens
 impayé         noun g=m
 impédance      noun g=f
+impénétrabilité noun g=f
+impénitence    noun g=f
 imper          noun g=m style=colloquial alt=imperméable
 impératif      noun g=m
 imperfection   noun g=f
@@ -107,6 +121,7 @@ imperméabilité noun g=f
 imperméable    noun g=m
 impertinence   noun g=f
 impétigo       noun g=m
+impétrant      noun g=m f=impétrante
 impétuosité    noun g=f
 impiété        noun g=f
 implant        noun g=m
@@ -115,12 +130,14 @@ implémentation noun g=f
 implication    noun g=f
 implosion      noun g=f
 impolitesse    noun g=f
+impondérable   noun g=m
 impopularité   noun g=f
 import         noun g=m
 import-export  noun g=m pl=- note=no plural
 importance     noun g=f
 importateur    noun g=m f=importatrice
 importation    noun g=f
+importun       noun g=m f=importune
 importunité    noun g=f
 imposition     noun g=f
 impossibilité  noun g=f
@@ -152,6 +169,7 @@ impudence      noun g=f
 impudeur       noun g=f
 impuissance    noun g=f
 impulsion      noun g=f
+impulsivité    noun g=f
 impunité       noun g=f
 impureté       noun g=f
 imputabilité   noun g=f
@@ -160,7 +178,9 @@ in-folio       noun g=m pl=in-folio[trad]|in-folios[rect]
 in-octavo      noun g=m pl=in-octavo[trad]|in-octavos[rect]
 in-quarto      noun g=m pl=in-quarto[trad]|in-quartos[rect]
 inachèvement   noun g=m
+inactif        noun g=m f=inactive
 inaction       noun g=f
+inactivation   noun g=f
 inactivité     noun g=f
 inadaptation   noun g=f
 inadéquation   noun g=f
@@ -174,6 +194,7 @@ inattention    noun g=f
 inauguration   noun g=f
 incandescence  noun g=f
 incantation    noun g=f
+incapable      noun g=m|f
 incapacité     noun g=f
 incarcération  noun g=f
 incarnat       noun g=m
@@ -192,15 +213,18 @@ incision       noun g=f
 incisive       noun g=f
 incitation     noun g=f
 incivilité     noun g=f
+incivisme      noun g=m
 inclinaison    noun g=f
 inclination    noun g=f
 inclusion      noun g=f
 incohérence    noun g=f
 incommodité    noun g=f
+incommunicabilité noun g=f
 incompatibilité noun g=f
 incompétence   noun g=f
 incomplétude   noun g=f
 incompréhension noun g=f
+inconditionnel noun g=m f=inconditionnelle
 inconduite     noun g=f
 inconfort      noun g=m
 incongruité    noun g=f
@@ -208,6 +232,7 @@ inconnu        noun g=m f=inconnue
 inconscience   noun g=f
 inconscient    noun g=m
 inconséquence  noun g=f
+inconsistance  noun g=f
 inconstance    noun g=f
 inconstitutionnalité noun g=f
 inconstructibilité noun g=f
@@ -217,6 +242,7 @@ inconvénient   noun g=m
 incorporation  noun g=f
 incrédulité    noun g=f
 incrément      noun g=m
+incrémentation noun g=f
 incrimination  noun g=f
 incrustation   noun g=f
 incubateur     noun g=m
@@ -227,6 +253,7 @@ incunable      noun g=m
 incurie        noun g=f
 incursion      noun g=f
 indécence      noun g=f
+indécis        noun g=m f=indécise
 indécision     noun g=f
 indélicatesse  noun g=f
 indemnisation  noun g=f
@@ -234,8 +261,12 @@ indemnité      noun g=f
 indépendance   noun g=f
 indépendantisme noun g=m
 indépendantiste noun g=m|f
+indésirable    noun g=m|f
+indétermination noun g=f
+indéterminisme noun g=m
 index          noun g=m
 indexation     noun g=f
+indic          noun g=m|f style=colloquial alt=indicateur
 indicateur     noun g=m
 indicatif      noun g=m
 indication     noun g=f
@@ -274,6 +305,7 @@ industrie      noun g=f
 industriel     noun g=m f=industrielle
 inefficacité   noun g=f
 inégalité      noun g=f
+inélégance     noun g=f
 inéligibilité  noun g=f
 ineptie        noun g=f
 inéquation     noun g=f
@@ -299,7 +331,9 @@ inférence      noun g=f
 infériorité    noun g=f
 infertilité    noun g=f
 infestation    noun g=f
+infidèle       noun g=m|f
 infidélité     noun g=f
+infiltrat      noun g=m
 infiltration   noun g=f
 infini         noun g=m
 infinité       noun g=f
@@ -320,6 +354,7 @@ influenza      noun g=f
 influx         noun g=m
 info           noun g=f style=colloquial alt=information
 infobulle      noun g=f
+infogérance    noun g=f
 infographie    noun g=f
 infographiste  noun g=m|f
 infolettre     noun g=f
@@ -329,6 +364,7 @@ information    noun g=f
 informatique   noun g=f
 informatisation noun g=f
 infortune      noun g=f
+infox          noun g=f
 infraction     noun g=f
 infrarouge     noun g=m
 infrastructure noun g=f
@@ -341,12 +377,14 @@ ingénu         noun g=m f=ingénue
 ingénuité      noun g=f
 ingérence      noun g=f
 ingestion      noun g=f
+ingrat         noun g=m f=ingrate
 ingratitude    noun g=f
 ingrédient     noun g=m
 inhalateur     noun g=m
 inhalation     noun g=f
 inhibiteur     noun g=m
 inhibition     noun g=f
+inhospitalité  noun g=f
 inhumanité     noun g=f
 inhumation     noun g=f
 inimitié       noun g=f
@@ -361,6 +399,7 @@ injection      noun g=f
 injonction     noun g=f
 injure         noun g=f
 injustice      noun g=f
+innervation    noun g=f
 innocence      noun g=f
 innocent       noun g=m f=innocente
 innocuité      noun g=f
@@ -394,11 +433,13 @@ insinuation    noun g=f
 insistance     noun g=f
 insolation     noun g=f
 insolence      noun g=f
+insolubilité   noun g=f
 insolvabilité  noun g=f
 insomniaque    noun g=m|f
 insomnie       noun g=f
 insonorisation noun g=f
 insouciance    noun g=f
+insoumis       noun g=m f=insoumise
 insoumission   noun g=f
 inspecteur     noun g=m f=inspectrice
 inspection     noun g=f
@@ -410,6 +451,7 @@ installation   noun g=f
 instance       noun g=f
 instanciation  noun g=f
 instant        noun g=m
+instantané     noun g=m note=snapshot
 instantanéité  noun g=f
 instar         noun g=m pl=- note=only in à l'instar de
 instauration   noun g=f
@@ -431,6 +473,7 @@ insu           noun g=m pl=- note=only in à l'insu de, à mon insu
 insubordination noun g=f
 insuccès       noun g=m
 insuffisance   noun g=f
+insulaire      noun g=m|f
 insularité     noun g=f
 insuline       noun g=f
 insulte        noun g=f
@@ -469,7 +512,9 @@ intercesseur   noun g=m
 intercession   noun g=f
 interclasse    noun g=m
 intercommunalité noun g=f
+intercompréhension noun g=f
 interconnexion noun g=f
+interculturalité noun g=f
 interdépendance noun g=f
 interdiction   noun g=f
 interdisciplinarité noun g=f
@@ -486,6 +531,7 @@ intérim        noun g=m
 intérimaire    noun g=m|f
 intériorité    noun g=f
 interjection   noun g=f
+interlignage   noun g=m
 interligne     noun g=m
 interlocuteur  noun g=m f=interlocutrice
 interlude      noun g=m
@@ -506,6 +552,7 @@ internement    noun g=m
 internet       noun g=m note=usually written with a capital as a name; lowercase common noun use is accepted
 interopérabilité noun g=f
 interpellation noun g=f
+interpénétration noun g=f
 interphone     noun g=m
 interpolation  noun g=f
 interposition  noun g=f
@@ -534,6 +581,7 @@ interventionniste noun g=m|f
 interview      noun g=f
 intervieweur   noun g=m f=intervieweuse
 intestin       noun g=m
+intime         noun g=m|f
 intimé         noun g=m f=intimée note=law: the respondent in an appeal
 intimidation   noun g=f
 intimité       noun g=f
@@ -554,6 +602,8 @@ introducteur   noun g=m f=introductrice
 introduction   noun g=f
 intronisation  noun g=f
 introspection  noun g=f
+introversion   noun g=f
+introverti     noun g=m f=introvertie
 intrus         noun g=m f=intruse
 intrusion      noun g=f
 intubation     noun g=f
@@ -594,8 +644,10 @@ ion            noun g=m
 iota           noun g=m
 ipomée         noun g=f
 ire            noun g=f style=literary
+irénisme       noun g=m
 iridium        noun g=m
 iris           noun g=m
+irisation      noun g=f
 ironie         noun g=f
 irradiation    noun g=f
 irrationalisme noun g=m
@@ -603,11 +655,13 @@ irrationalité  noun g=f
 irréalité      noun g=f
 irrecevabilité noun g=f
 irrédentisme   noun g=m
+irréductible   noun g=m|f
 irrégularité   noun g=f
 irréligion     noun g=f
 irrésolution   noun g=f
 irrespect      noun g=m
 irresponsabilité noun g=f
+irresponsable  noun g=m|f
 irrévérence    noun g=f
 irréversibilité noun g=f
 irrigation     noun g=f
@@ -622,7 +676,9 @@ islamisation   noun g=f
 islamisme      noun g=m
 islamiste      noun g=m|f
 islamophobie   noun g=f
+isohyète       noun g=f
 isolant        noun g=m
+isolat         noun g=m
 isolateur      noun g=m
 isolation      noun g=f
 isolationnisme noun g=m
@@ -631,7 +687,9 @@ isolement      noun g=m
 isoloir        noun g=m
 isomère        noun g=m
 isomorphisme   noun g=m
+isopode        noun g=m
 isotope        noun g=m
+isotropie      noun g=f
 issue          noun g=f
 isthme         noun g=m
 italien        noun g=m note=the language; persons are Italien (propn)

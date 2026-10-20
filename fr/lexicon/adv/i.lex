@@ -1,4 +1,5 @@
 # French lexicon, adv, letter i (clean-room, own knowledge)
+idem           adv
 illico         adv style=colloquial alt=immédiatement|aussitôt
 incognito      adv
 instamment     adv

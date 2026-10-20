@@ -7,6 +7,7 @@
 éblouir        verb class=ir
 éborgner       verb
 ébouillanter   verb
+ébouler        verb
 ébourgeonner   verb
 ébouriffer     verb
 ébrancher      verb
@@ -24,10 +25,13 @@
 échanger       verb
 échantillonner verb
 échapper       verb
+écharper       verb
 échauder       verb
 échauffer      verb
 échelonner     verb
-échoir         verb class=irr aux=être pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=85 note=defective, 3rd person only (le cas échéant, l'échéance)
+écheniller     verb
+échographier   verb
+échoir         verb class=irr aux=être defective=inf|3|ppr|pp pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=90 note=le cas échéant
 échouer        verb
 écimer         verb
 éclabousser    verb
@@ -35,7 +39,8 @@
 éclairer       verb
 éclater        verb
 éclipser       verb
-éclore         verb class=irr aux=être pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
+éclore         verb class=irr aux=avoir|être defective=inf|3|pp pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
+écluser        verb note=to pass through a lock; colloquially to drink
 écœurer        verb
 éconduire      verb class=conduire
 économiser     verb
@@ -47,9 +52,11 @@
 écouler        verb
 écourter       verb
 écouter        verb
+écouvillonner  verb
 écrabouiller   verb style=colloquial alt=écraser
 écraser        verb
 écrémer        verb
+écrêter        verb
 écrier         verb pronominal
 écrire         verb class=écrire
 écrouer        verb
@@ -79,10 +86,12 @@ effriter       verb
 égarer         verb
 égayer         verb
 égorger        verb
+égosiller      verb pronominal
 égoutter       verb
 égrainer       verb
 égratigner     verb
 égrener        verb
+éjaculer       verb
 éjecter        verb
 élaborer       verb
 élaguer        verb
@@ -91,13 +100,16 @@ effriter       verb
 électrifier    verb
 électriser     verb
 électrocuter   verb
+électrolyser   verb
 élever         verb
+élider         verb
 élimer         verb
 éliminer       verb
 élire          verb class=lire
 éloigner       verb
 élucider       verb
 éluder         verb
+émacier        verb pronominal conf=90 note=mostly s'émacier and émacié
 émailler       verb
 émanciper      verb
 émaner         verb pp_inv
@@ -109,15 +121,22 @@ embarrasser    verb
 embaucher      verb
 embaumer       verb
 embellir       verb class=ir
+emberlificoter verb style=colloquial alt=embrouiller|duper
 embêter        verb style=colloquial alt=ennuyer|importuner
 embobiner      verb style=colloquial alt=duper|tromper
 emboîter       verb rect=emboiter
+emboucher      verb
 embourber      verb
+embourgeoiser  verb
+embouteiller   verb
 emboutir       verb class=ir
+embrancher     verb
 embraser       verb
 embrasser      verb
 embrayer       verb
 embrigader     verb
+embringuer     verb style=colloquial alt=entraîner|impliquer
+embrocher      verb
 embrouiller    verb
 embrumer       verb
 embuer         verb
@@ -130,6 +149,7 @@ embusquer      verb
 émincer        verb
 emmagasiner    verb
 emmailloter    verb
+emmancher      verb
 emmêler        verb
 emménager      verb
 emmener        verb
@@ -146,6 +166,7 @@ empaqueter     verb class=double_trad
 emparer        verb pronominal
 empâter        verb
 empêcher       verb
+empeser        verb
 empester       verb
 empêtrer       verb
 empierrer      verb
@@ -158,19 +179,25 @@ employer       verb
 empocher       verb
 empoigner      verb
 empoisonner    verb
+empoissonner   verb
 emporter       verb
 empoter        verb
 empourprer     verb
 empoussiérer   verb
+empreindre     verb class=peindre
 empresser      verb pronominal
 emprisonner    verb
 emprunter      verb
 émuler         verb
+émulsifier     verb
 émulsionner    verb
 encadrer       verb
+encager        verb
 encaisser      verb
 encanailler    verb
 encapsuler     verb
+encapuchonner  verb
+encarter       verb
 encastrer      verb
 encaustiquer   verb
 encenser       verb
@@ -190,6 +217,8 @@ encourager     verb
 encourir       verb class=courir
 encrasser      verb
 encrer         verb
+encroûter      verb rect=encrouter
+enculer        verb style=vulgar
 endetter       verb
 endeuiller     verb
 endiguer       verb
@@ -206,6 +235,8 @@ endurer        verb
 enfanter       verb
 enfariner      verb
 enfermer       verb
+enferrer       verb pronominal
+enficher       verb
 enfiévrer      verb
 enfiler        verb
 enflammer      verb
@@ -218,16 +249,19 @@ enfreindre     verb class=peindre
 enfuir         verb class=fuir pronominal
 enfumer        verb
 engager        verb
+engazonner     verb
 engendrer      verb
 englober       verb
 engloutir      verb class=ir
 engluer        verb
 engoncer       verb
 engorger       verb
+engouer        verb pronominal
 engouffrer     verb
 engourdir      verb class=ir
 engraisser     verb
 engranger      verb
+engrener       verb
 engrosser      verb style=colloquial alt=mettre_enceinte
 engueuler      verb style=colloquial alt=réprimander|disputer
 enguirlander   verb
@@ -237,6 +271,7 @@ enjamber       verb
 enjoindre      verb class=peindre
 enjôler        verb
 enjoliver      verb
+enkyster       verb pronominal conf=90 note=mostly s'enkyster
 enlacer        verb
 enlaidir       verb class=ir
 enlever        verb
@@ -250,10 +285,12 @@ ennuyer        verb
 enorgueillir   verb class=ir
 enquérir       verb class=acquérir pronominal
 enquêter       verb pp_inv
+enquiller      verb style=colloquial alt=enfiler|entrer
 enquiquiner    verb style=colloquial alt=ennuyer|importuner
 enraciner      verb
 enrager        verb
 enrayer        verb
+enrégimenter   verb
 enregistrer    verb
 enrhumer       verb
 enrichir       verb class=ir
@@ -285,6 +322,7 @@ enterrer       verb
 entêter        verb
 enthousiasmer  verb
 enticher       verb pronominal
+entoiler       verb
 entonner       verb
 entortiller    verb
 entourer       verb
@@ -304,8 +342,10 @@ entreposer     verb
 entreprendre   verb class=prendre
 entrer         verb aux=avoir|être note=avoir when transitive: j'ai entré les données
 entretenir     verb class=venir
+entretuer      verb pronominal note=used in the plural only (ils se sont entretués)
 entrevoir      verb class=voir
 entrouvrir     verb class=ouvrir
+entuber        verb style=colloquial alt=duper|escroquer
 énucléer       verb
 énumérer       verb
 envahir        verb class=ir
@@ -359,6 +399,7 @@ envoyer        verb fut=enverrai
 éreinter       verb
 ériger         verb
 éroder         verb
+érotiser       verb
 errer          verb pp_inv
 éructer        verb
 escalader      verb
@@ -376,6 +417,7 @@ esquinter      verb style=colloquial alt=abîmer|endommager
 esquisser      verb
 esquiver       verb
 essaimer       verb
+essarter       verb
 essayer        verb
 essorer        verb
 essoucher      verb
@@ -383,9 +425,11 @@ essouffler     verb
 essuyer        verb
 estamper       verb
 estampiller    verb
+esthétiser     verb
 estimer        verb
 estomaquer     verb
 estomper       verb
+estourbir      verb class=ir style=colloquial alt=assommer
 estropier      verb
 établir        verb class=ir
 étager         verb
@@ -406,6 +450,7 @@ estropier      verb
 étiqueter      verb class=double_trad
 étirer         verb
 étoffer        verb
+étoiler        verb
 étonner        verb
 étouffer       verb
 étourdir       verb class=ir
@@ -416,6 +461,7 @@ estropier      verb
 étriper        verb
 étudier        verb
 étuver         verb
+européaniser   verb
 euthanasier    verb
 évacuer        verb
 évader         verb pronominal
@@ -450,6 +496,7 @@ exciter        verb
 exclamer       verb pronominal
 exclure        verb class=conclure
 excommunier    verb
+excréter       verb
 excuser        verb
 exécrer        verb
 exécuter       verb

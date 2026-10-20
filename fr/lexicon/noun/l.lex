@@ -2,6 +2,8 @@
 label          noun g=m
 labellisation  noun g=f
 labeur         noun g=m
+labiale        noun g=f note=phonetics
+labilité       noun g=f
 labo           noun g=m style=colloquial alt=laboratoire
 laborantin     noun g=m f=laborantine
 laboratoire    noun g=m
@@ -19,6 +21,7 @@ lacet          noun g=m
 lâchage        noun g=m
 lâche          noun g=m|f
 lâcher         noun g=m note=un lâcher de ballons
+lâcher-prise   noun g=m pl=- note=uncountable
 lâcheté        noun g=f
 lâcheur        noun g=m f=lâcheuse style=colloquial alt=traître
 lacis          noun g=m
@@ -26,12 +29,14 @@ laconisme      noun g=m
 lactaire       noun g=m note=mushroom
 lactarium      noun g=m
 lactase        noun g=f
+lactate        noun g=m
 lactation      noun g=f
 lactobacille   noun g=m
 lactone        noun g=f
 lactose        noun g=m
 lactosérum     noun g=m
 lacune         noun g=f
+lady           noun g=f pl=ladys|ladies conf=85
 lagomorphe     noun g=m
 lagon          noun g=m
 lagopède       noun g=m
@@ -42,6 +47,7 @@ lai            noun g=m
 laîche         noun g=f rect=laiche
 laïcisation    noun g=f
 laïcisme       noun g=m
+laïciste       noun g=m|f
 laïcité        noun g=f
 laideron       noun g=m
 laideur        noun g=f
@@ -59,31 +65,41 @@ lait           noun g=m
 laitage        noun g=m
 laitance       noun g=f
 laiterie       noun g=f
+laiteron       noun g=m
 laitier        noun g=m f=laitière
 laiton         noun g=m
 laitue         noun g=f
 laïus          noun g=m style=colloquial alt=discours|allocution
 lama           noun g=m
 lamaïsme       noun g=m
+lamanage       noun g=m
+lamaneur       noun g=m
 lamantin       noun g=m
+lamarckisme    noun g=m
 lamaserie      noun g=f
+lambada        noun g=f
 lambda         noun g=m
 lambeau        noun g=m
+lambin         noun g=m f=lambine style=colloquial alt=traînard
 lambourde      noun g=f
 lambrequin     noun g=m
 lambris        noun g=m
+lambrusque     noun g=f conf=90
 lame           noun g=f
 lamé           noun g=m
 lamelle        noun g=f
 lamellé-collé  noun g=m pl=lamellés-collés
+lamellibranche noun g=m
 lamentation    noun g=f
 lamento        noun g=m
+lamiacée       noun g=f
 lamier         noun g=m
 laminage       noun g=m
 laminaire      noun g=f
 lamineur       noun g=m
 laminoir       noun g=m
 lampadaire     noun g=m
+lamparo        noun g=m
 lampas         noun g=m
 lampe          noun g=f
 lampe-tempête  noun g=f pl=lampes-tempête conf=85
@@ -92,12 +108,16 @@ lampée         noun g=f
 lampion        noun g=m
 lampiste       noun g=m|f
 lampisterie    noun g=f
+lampourde      noun g=f conf=90
 lamproie       noun g=f
+lampyre        noun g=m
 lance          noun g=f
 lance-bombes   noun g=m rect=lance-bombe rect_pl=lance-bombes conf=90
+lance-engins   noun g=m rect=lance-engin rect_pl=lance-engins conf=90
 lance-flammes  noun g=m rect=lance-flamme rect_pl=lance-flammes
 lance-fusées   noun g=m rect=lance-fusée rect_pl=lance-fusées conf=90
 lance-grenades noun g=m rect=lance-grenade rect_pl=lance-grenades
+lance-leurres  noun g=m rect=lance-leurre rect_pl=lance-leurres conf=90
 lance-missiles noun g=m rect=lance-missile rect_pl=lance-missiles
 lance-pierres  noun g=m rect=lance-pierre rect_pl=lance-pierres
 lance-roquettes noun g=m rect=lance-roquette rect_pl=lance-roquettes
@@ -109,13 +129,17 @@ lancer-franc   noun g=m pl=lancers-francs
 lancette       noun g=f
 lanceur        noun g=m f=lanceuse
 lancier        noun g=m
+lançon         noun g=m
 landau         noun g=m pl=landaus
+landaulet      noun g=m
 lande          noun g=f
-landgrave      noun g=m
+landgrave      noun g=m f=landgravine
 landgraviat    noun g=m
+landier        noun g=m
 langage        noun g=m
 lange          noun g=m
 langouste      noun g=f
+langoustier    noun g=m
 langoustine    noun g=f
 langue         noun g=f
 langue-de-chat noun g=f pl=langues-de-chat
@@ -129,11 +153,14 @@ lanterneau     noun g=m
 lanternon      noun g=m
 lanthane       noun g=m
 lanthanide     noun g=m
+lanugo         noun g=m
 lapalissade    noun g=f
 laparoscopie   noun g=f
 laparotomie    noun g=f
+lapement       noun g=m
 lapereau       noun g=m
 lapiaz         noun g=m conf=90 note=also lapié
+lapidaire      noun g=m note=gem cutter
 lapidation     noun g=f
 lapilli        noun g=m pl_only
 lapin          noun g=m f=lapine
@@ -149,7 +176,9 @@ laqueur        noun g=m
 larbin         noun g=m style=colloquial alt=domestique|valet
 larcin         noun g=m
 lard           noun g=m
+lardoire       noun g=f
 lardon         noun g=m
+lardu          noun g=m style=colloquial alt=policier
 largage        noun g=m
 large          noun g=m pl=- note=au large, prendre le large
 largesse       noun g=f
@@ -160,11 +189,13 @@ larme          noun g=f
 larmier        noun g=m
 larmoiement    noun g=m
 larron         noun g=m
+larsen         noun g=m note=audio feedback (effet Larsen)
 larve          noun g=f
 laryngectomie  noun g=f
 laryngite      noun g=f
 laryngologie   noun g=f
 laryngologiste noun g=m|f
+laryngoscope   noun g=m
 laryngoscopie  noun g=f
 larynx         noun g=m
 lasagne        noun g=f
@@ -198,6 +229,7 @@ laurier        noun g=m
 laurier-cerise noun g=m pl=lauriers-cerises
 laurier-rose   noun g=m pl=lauriers-roses
 laurier-sauce  noun g=m pl=lauriers-sauces
+laurier-tin    noun g=m pl=lauriers-tins
 lauze          noun g=f
 lavabo         noun g=m
 lavage         noun g=m
@@ -205,6 +237,7 @@ lavallière     noun g=f
 lavande        noun g=f
 lavandière     noun g=f
 lavandin       noun g=m
+lavaret        noun g=m conf=90
 lavatère       noun g=f
 lave           noun g=f note=volcanic lava
 lave-glace     noun g=m pl=lave-glace[trad]|lave-glaces[rect] conf=90
@@ -236,6 +269,8 @@ lèche-vitrine  noun g=m pl=- conf=85 note=faire du lèche-vitrine(s); also writ
 lèchefrite     noun g=f
 leçon          noun g=f
 lecteur        noun g=m f=lectrice
+lectine        noun g=f
+lectionnaire   noun g=m
 lectorat       noun g=m
 lecture        noun g=f
 légalisation   noun g=f
@@ -264,11 +299,13 @@ legs           noun g=m
 légume         noun g=m
 légumier       noun g=m note=vegetable dish
 légumineuse    noun g=f
+leishmaniose   noun g=f
 leitmotiv      noun g=m pl=leitmotivs|leitmotive[rare] conf=90
 lemmatisation  noun g=f
 lemmatiseur    noun g=m
 lemme          noun g=m
 lemming        noun g=m
+lemniscate     noun g=f
 lémurien       noun g=m
 lendemain      noun g=m
 léninisme      noun g=m
@@ -279,6 +316,7 @@ lentille       noun g=f
 lentisque      noun g=m
 léopard        noun g=m
 lépidoptère    noun g=m
+lépiote        noun g=f
 lépisme        noun g=m
 léporidé       noun g=m
 lèpre          noun g=f
@@ -295,17 +333,23 @@ lessivage      noun g=m
 lessive        noun g=f
 lessiveuse     noun g=f
 lest           noun g=m
+lestage        noun g=m
 létalité       noun g=f
 léthargie      noun g=f
 lettrage       noun g=m
 lettre         noun g=f
 lettré         noun g=m f=lettrée
 lettrine       noun g=f
+lettrisme      noun g=m
+lettriste      noun g=m|f
 leucémie       noun g=f
 leucine        noun g=f
+leucite        noun g=f
 leucocyte      noun g=m
+leucocytose    noun g=f
 leucopénie     noun g=f
 leucorrhée     noun g=f
+leucotriène    noun g=m
 leurre         noun g=m
 levage         noun g=m
 levain         noun g=m
@@ -370,6 +414,7 @@ licence        noun g=f
 licencié       noun g=m f=licenciée
 licenciement   noun g=m
 lichen         noun g=m
+lichette       noun g=f style=colloquial alt=petit_morceau
 licitation     noun g=f
 licol          noun g=m
 licorne        noun g=f
@@ -378,6 +423,7 @@ licteur        noun g=m
 lidar          noun g=m
 lido           noun g=m
 lidocaïne      noun g=f
+lie            noun g=f note=dregs; la lie de vin, la lie du peuple
 lied           noun g=m pl=lieder|lieds
 liège          noun g=m
 lien           noun g=m
@@ -398,6 +444,7 @@ lifting        noun g=m
 ligament       noun g=m
 ligand         noun g=m
 ligase         noun g=f
+ligaturage     noun g=m
 ligature       noun g=f
 lignage        noun g=m
 ligne          noun g=f
@@ -418,17 +465,22 @@ limande-sole   noun g=f pl=limandes-soles
 limbe          noun g=m
 lime           noun g=f
 limette        noun g=f
+limettier      noun g=m
 limier         noun g=m
 limitation     noun g=f
 limite         noun g=f
 limiteur       noun g=m
 limnée         noun g=f
+limnigraphe    noun g=m
+limnimètre     noun g=m
 limnologie     noun g=f
 limogeage      noun g=m
 limon          noun g=m
 limonade       noun g=f
 limonadier     noun g=m f=limonadière
 limonène       noun g=m
+limonier       noun g=m
+limonite       noun g=f
 limousine      noun g=f
 limpidité      noun g=f
 lin            noun g=m
@@ -439,11 +491,13 @@ lindane        noun g=m
 linéament      noun g=m
 linéarisation  noun g=f
 linéarité      noun g=f
+lingam         noun g=m
 linge          noun g=m
 lingère        noun g=f
 lingerie       noun g=f
 lingette       noun g=f
 lingot         noun g=m
+lingue         noun g=f conf=85 note=fish
 linguiste      noun g=m|f
 linguistique   noun g=f
 liniment       noun g=m
@@ -460,8 +514,11 @@ lionceau       noun g=m
 lipase         noun g=f
 lipide         noun g=m
 lipoaspiration noun g=f
+lipodystrophie noun g=f
+lipogenèse     noun g=f
 lipolyse       noun g=f
 lipome         noun g=m
+lipopolysaccharide noun g=m
 lipoprotéine   noun g=f
 liposome       noun g=m
 liposuccion    noun g=f
@@ -486,6 +543,7 @@ lisier         noun g=m
 lisière        noun g=f
 lissage        noun g=m
 lisseur        noun g=m
+lissoir        noun g=m
 listage        noun g=m
 liste          noun g=f
 listel         noun g=m
@@ -497,31 +555,41 @@ litanie        noun g=f
 litchi         noun g=m
 liteau         noun g=m
 literie        noun g=f
+litharge       noun g=f
 lithiase       noun g=f
+lithification  noun g=f
 lithium        noun g=m
 lithographe    noun g=m|f
 lithographie   noun g=f
+lithologie     noun g=f
 lithosphère    noun g=f
+lithotomie     noun g=f
 lithotritie    noun g=f
 litière        noun g=f
 litige         noun g=m
 litispendance  noun g=f
+litorne        noun g=f
 litote         noun g=f
 litre          noun g=m
 litron         noun g=m style=colloquial alt=litre_de_vin
+littéralité    noun g=f
 littérateur    noun g=m
 littérature    noun g=f
 littoral       noun g=m
 liturgie       noun g=f
 livarot        noun g=m note=cheese
+livèche        noun g=f
 lividité       noun g=f
+living         noun g=m style=archaic note=living-room, salon
 livrable       noun g=m
 livraison      noun g=f
 livre          noun g=m sense=book
 livre          noun g=f sense=pound
+livre-jeu      noun g=m pl=livres-jeux
 livrée         noun g=f note=uniform of servants
 livret         noun g=m
 livreur        noun g=m f=livreuse
+lixiviat       noun g=m
 lixiviation    noun g=f
 lob            noun g=m
 lobby          noun g=m pl=lobbys|lobbies
@@ -550,6 +618,8 @@ locomotion     noun g=f
 locomotive     noun g=f
 locomotrice    noun g=f note=electric locomotive
 locotracteur   noun g=m
+locuste        noun g=f
+locustelle     noun g=f conf=90
 locuteur       noun g=m f=locutrice
 locution       noun g=f
 loden          noun g=m
@@ -559,6 +629,7 @@ loft           noun g=m
 logarithme     noun g=m
 loge           noun g=f
 logement       noun g=m
+logette        noun g=f
 logeur         noun g=m f=logeuse
 loggia         noun g=f
 logiciel       noun g=m
@@ -570,6 +641,8 @@ logistique     noun g=f
 logithèque     noun g=f
 logo           noun g=m
 logogramme     noun g=m
+logogriphe     noun g=m
+logomachie     noun g=f
 logorrhée      noun g=f
 logotype       noun g=m
 loi            noun g=f
@@ -584,15 +657,19 @@ long-courrier  noun g=m pl=long-courriers conf=85
 long-métrage   noun g=m pl=longs-métrages note=also written long métrage
 longanimité    noun g=f
 longe          noun g=f
+longère        noun g=f
 longeron       noun g=m
 longévité      noun g=f
 longitude      noun g=f
 longue-vue     noun g=f pl=longues-vues
 longueur       noun g=f
+look           noun g=m
 looping        noun g=m
+lophophore     noun g=m conf=90
 lopin          noun g=m
 loquacité      noun g=f
 loque          noun g=f
+loquedu        noun g=m style=colloquial conf=85 alt=minable
 loquet         noun g=m
 lord           noun g=m
 lordose        noun g=f
@@ -614,7 +691,9 @@ louage         noun g=m
 louange        noun g=f
 loubard        noun g=m style=colloquial alt=voyou
 louche         noun g=f note=ladle
+louchet        noun g=m
 loueur         noun g=m f=loueuse
+loufiat        noun g=m style=colloquial alt=garçon_de_café
 loufoquerie    noun g=f
 lougre         noun g=m
 louis          noun g=m note=gold coin (louis d'or)
@@ -645,10 +724,12 @@ lubrification  noun g=f
 lucane         noun g=m
 lucarne        noun g=f
 lucidité       noun g=f
+luciférase     noun g=f
 luciole        noun g=f
 lucrativité    noun g=f
 lucre          noun g=m
 ludiciel       noun g=m
+ludification   noun g=f conf=90
 ludion         noun g=m
 ludothécaire   noun g=m|f
 ludothèque     noun g=f
@@ -667,6 +748,7 @@ luminosité     noun g=f
 luminothérapie noun g=f
 lunaire        noun g=f note=plant (monnaie-du-pape)
 lunaison       noun g=f
+lunch          noun g=m pl=lunchs|lunches conf=85
 lundi          noun g=m
 lune           noun g=f
 lunetier       noun g=m f=lunetière
@@ -675,12 +757,14 @@ lunetterie     noun g=f
 lunule         noun g=f
 lupanar        noun g=m
 lupin          noun g=m
+lupuline       noun g=f
 lupus          noun g=m
 lurette        noun g=f note=only in il y a belle lurette
 luron          noun g=m f=luronne
 lusophone      noun g=m|f
 lusophonie     noun g=f
 lustrage       noun g=m
+lustration     noun g=f
 lustre         noun g=m
 lustrine       noun g=f
 luth           noun g=m
@@ -699,6 +783,7 @@ luxmètre       noun g=m
 luxure         noun g=f
 luxuriance     noun g=f
 luzerne        noun g=f
+luzule         noun g=f conf=90
 lycanthrope    noun g=m
 lycanthropie   noun g=f
 lycaon         noun g=m
@@ -709,6 +794,8 @@ lycose         noun g=f
 lymphangite    noun g=f
 lymphe         noun g=f
 lymphocyte     noun g=m
+lymphœdème     noun g=m
+lymphologie    noun g=f
 lymphome       noun g=m
 lynchage       noun g=m
 lynx           noun g=m
@@ -718,6 +805,7 @@ lyre           noun g=f
 lyrisme        noun g=m
 lys            noun g=m note=also spelled lis
 lyse           noun g=f
+lysimaque      noun g=f
 lysine         noun g=f
 lysosome       noun g=m
 lysozyme       noun g=m

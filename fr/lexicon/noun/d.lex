@@ -1,6 +1,7 @@
 # French lexicon, noun, letter d (clean-room, own knowledge)
 dactyle noun g=m
 dactylo noun g=m|f note=typist (une dactylo); also short for dactylographie
+dactylographe noun g=m|f
 dactylographie noun g=f
 dada noun g=m
 dadaïsme noun g=m
@@ -45,6 +46,8 @@ daube noun g=f
 dauphin noun g=m f=dauphine
 daurade noun g=f note=also spelt dorade
 dé noun g=m
+deal           noun g=m style=colloquial alt=accord|marché
+dealer         noun g=m style=colloquial alt=revendeur
 déambulateur noun g=m
 déambulatoire noun g=m
 débâcle noun g=f
@@ -67,7 +70,9 @@ débogage noun g=m
 débogueur noun g=m
 déboires noun g=m pl_only
 déboisement noun g=m
+déboîtement noun g=m rect=déboitement
 débordement noun g=m
+débosselage noun g=m
 débouché noun g=m
 débours noun g=m
 déboursement noun g=m
@@ -103,6 +108,7 @@ décélération noun g=f
 décembre noun g=m
 décence noun g=f
 décennie noun g=f
+décentrage noun g=m
 décentralisation noun g=f
 déception noun g=f
 décès noun g=m
@@ -153,6 +159,7 @@ décolonisation noun g=f
 décoloration noun g=f
 décombres noun g=m pl_only
 décompensation noun g=f
+décompilateur noun g=m
 décomposition noun g=f
 décompression noun g=f
 décompte noun g=m
@@ -160,10 +167,12 @@ déconcentration noun g=f
 déconfinement noun g=m
 déconfiture noun g=f
 décongélation noun g=f
+décongestionnant noun g=m
 déconnexion noun g=f
 déconsidération noun g=f
 déconstruction noun g=f
 décontamination noun g=f
+décontractant noun g=m
 décontraction noun g=f
 déconvenue noun g=f
 décor noun g=m
@@ -185,6 +194,7 @@ décret-loi noun g=m pl=décrets-lois
 décriminalisation noun g=f
 décrispation noun g=f
 décrochage noun g=m
+décrochement noun g=m
 décrocheur noun g=m f=décrocheuse
 décroissance noun g=f
 décrue noun g=f
@@ -207,6 +217,7 @@ défaillance noun g=f
 défaite noun g=f
 défaitisme noun g=m
 défaitiste noun g=m|f
+défalcation noun g=f
 défausse noun g=f
 défaut noun g=m
 défaveur noun g=f
@@ -240,6 +251,7 @@ défragmentation noun g=f
 défrichage noun g=m
 défrichement noun g=m
 défricheur noun g=m f=défricheuse
+défrisage noun g=m
 défroque noun g=f
 défunt noun g=m f=défunte
 dégagement noun g=m
@@ -254,6 +266,7 @@ déglutition noun g=f
 dégonflement noun g=m
 dégoût noun g=m rect=dégout
 dégradation noun g=f
+dégrafeuse noun g=f
 dégraissage noun g=m
 dégraissant noun g=m
 degré noun g=m
@@ -261,6 +274,7 @@ dégressivité noun g=f
 dégrèvement noun g=m
 dégringolade noun g=f
 dégrisement noun g=m
+dégroupage noun g=m
 déguisement noun g=m
 dégustateur noun g=m f=dégustatrice
 dégustation noun g=f
@@ -301,6 +315,7 @@ delta noun g=m
 deltaplane noun g=m
 deltoïde noun g=m
 déluge noun g=m
+démagnétisation noun g=f
 démago noun g=m|f style=colloquial alt=démagogue
 démagogie noun g=f
 démagogue noun g=m|f
@@ -316,8 +331,10 @@ démarche noun g=f
 démarcheur noun g=m f=démarcheuse
 démarquage noun g=m
 démarrage noun g=m
+démarreur      noun g=m
 dématérialisation noun g=f
 démêlé noun g=m
+démêloir noun g=m
 démembrement noun g=m
 déménagement noun g=m
 déménageur noun g=m
@@ -326,6 +343,7 @@ dément noun g=m f=démente
 démenti noun g=m
 demeure noun g=f
 demi noun g=m note=glass of beer; half-back; la demie = half hour
+demi-bas noun g=m pl=demi-bas
 demi-bouteille noun g=f pl=demi-bouteilles
 demi-brigade noun g=f pl=demi-brigades
 demi-centre noun g=m pl=demi-centres
@@ -350,6 +368,7 @@ demi-monde noun g=m pl=demi-mondes
 demi-mot noun g=m pl=demi-mots
 demi-obscurité noun g=f pl=demi-obscurités
 demi-part noun g=f pl=demi-parts
+demi-pause noun g=f pl=demi-pauses
 demi-pension noun g=f pl=demi-pensions
 demi-pensionnaire noun g=m|f pl=demi-pensionnaires
 demi-plan noun g=m pl=demi-plans
@@ -361,8 +380,11 @@ demi-siècle noun g=m pl=demi-siècles
 demi-sœur noun g=f pl=demi-sœurs
 demi-solde noun g=m pl=demi-soldes note=a half-pay officer (le demi-solde); la demi-solde = the pay
 demi-sommeil noun g=m pl=demi-sommeils
+demi-soupir noun g=m pl=demi-soupirs
+demi-sourire   noun g=m pl=demi-sourires
 demi-sphère noun g=f pl=demi-sphères
 demi-tarif noun g=m pl=demi-tarifs
+demi-tasse noun g=f pl=demi-tasses
 demi-teinte noun g=f pl=demi-teintes
 demi-ton noun g=m pl=demi-tons
 demi-tour noun g=m pl=demi-tours
@@ -370,6 +392,7 @@ demi-vie noun g=f pl=demi-vies
 demi-voix noun g=f pl=demi-voix note=mostly in à demi-voix
 démilitarisation noun g=f
 déminage noun g=m
+déminéralisation noun g=f
 démineur noun g=m
 démission noun g=f
 démissionnaire noun g=m|f
@@ -436,6 +459,7 @@ déontologie noun g=f
 déontologue noun g=m|f
 dépannage noun g=m
 dépanneur noun g=m f=dépanneuse note=la dépanneuse is also the tow truck
+déparasitage noun g=m
 départ noun g=m
 département noun g=m
 départementalisation noun g=f
@@ -450,6 +474,7 @@ déperdition noun g=f
 dépérissement noun g=m
 dépersonnalisation noun g=f
 dépeuplement noun g=m
+déphasage noun g=m
 dépigmentation noun g=f
 dépistage noun g=m
 dépit noun g=m
@@ -482,6 +507,7 @@ déprogrammation noun g=f
 députation noun g=f
 député noun g=m f=députée
 député-maire noun g=m f=députée-maire pl=députés-maires fpl=députées-maires
+déqualification noun g=f
 déracinement noun g=m
 déraillement noun g=m
 dérailleur noun g=m
@@ -489,6 +515,7 @@ dérangement noun g=m
 dérapage noun g=m
 dératisation noun g=f
 derby noun g=m
+derche         noun g=m style=vulgar alt=derrière
 déréférencement noun g=m
 dérèglement noun g=m
 déréglementation noun g=f
@@ -517,6 +544,7 @@ derrière noun g=m note=the noun (le derrière); the preposition is closed class
 derviche noun g=m
 désabonnement noun g=m
 désaccord noun g=m
+désaccoutumance noun g=f
 désacralisation noun g=f
 désactivation noun g=f
 désaffectation noun g=f
@@ -524,6 +552,7 @@ désaffection noun g=f
 désaffiliation noun g=f
 désagrégation noun g=f
 désagrément noun g=m
+désaimantation noun g=f
 désalinisation noun g=f
 désamiantage noun g=m
 désamorçage noun g=m
@@ -532,9 +561,12 @@ désappointement noun g=m
 désapprobation noun g=f
 désarmement noun g=m
 désarroi noun g=m
+désarticulation noun g=f
+désassemblage noun g=m
 désastre noun g=m
 désavantage noun g=m
 désaveu noun g=m
+descellement noun g=m
 descendance noun g=f
 descendant noun g=m f=descendante
 descente noun g=f
@@ -545,9 +577,12 @@ désembuage noun g=m
 désenchantement noun g=m
 désenclavement noun g=m
 désendettement noun g=m
+désenfumage noun g=m
 désengagement noun g=m
 désengorgement noun g=m
+désensablement noun g=m
 désensibilisation noun g=f
+désenvoûtement noun g=m rect=désenvoutement
 désépargne noun g=f
 déséquilibre noun g=m
 désert noun g=m
@@ -577,6 +612,7 @@ désinfectant noun g=m
 désinfection noun g=f
 désinflation noun g=f
 désinformation noun g=f
+désinhibition noun g=f
 désinsertion noun g=f
 désinstallation noun g=f
 désintégration noun g=f
@@ -589,6 +625,7 @@ désinvolture noun g=f
 désir noun g=m
 désistement noun g=m
 désobéissance noun g=f
+désobstruction noun g=f
 désocialisation noun g=f
 désodorisant noun g=m
 désœuvrement noun g=m
@@ -597,6 +634,7 @@ désolidarisation noun g=f
 désordre noun g=m
 désorganisation noun g=f
 désorientation noun g=f
+désoxydation noun g=f
 despote noun g=m|f
 despotisme noun g=m
 desquamation noun g=f
@@ -630,6 +668,7 @@ déstructuration noun g=f
 désuétude noun g=f
 désunion noun g=f
 désynchronisation noun g=f
+détachant noun g=m
 détachement noun g=m
 détail noun g=m note=plural détails
 détaillant noun g=m f=détaillante
@@ -653,6 +692,7 @@ détestation noun g=f
 détonateur noun g=m
 détonation noun g=f
 détour noun g=m
+détourage noun g=m
 détournement noun g=m
 détracteur noun g=m f=détractrice
 détraquement noun g=m
@@ -662,6 +702,7 @@ détricotage noun g=m
 détriment noun g=m
 détritus noun g=m
 détroit noun g=m
+détrousseur noun g=m f=détrousseuse
 dette noun g=f
 deuil noun g=m
 deutérium noun g=m
@@ -949,6 +990,7 @@ documentariste noun g=m|f
 documentation noun g=f
 dodécaèdre noun g=m
 dodécagone noun g=m
+dodelinement noun g=m
 dodo noun g=m
 doge noun g=m
 dogmatisme noun g=m
@@ -1021,6 +1063,7 @@ doublage noun g=m
 double noun g=m
 double-clic noun g=m pl=doubles-clics
 double-croche noun g=f pl=doubles-croches
+double-décimètre noun g=m pl=doubles-décimètres
 double-fond noun g=m pl=doubles-fonds
 doubleau noun g=m
 doublement noun g=m
@@ -1085,6 +1128,7 @@ dromadaire noun g=m
 drone noun g=m
 droséra noun g=m conf=80 note=gender varies; usually masculine
 drosophile noun g=f
+drugstore      noun g=m
 druide noun g=m f=druidesse
 druidisme noun g=m
 drupe noun g=f
@@ -1094,6 +1138,7 @@ duathlon noun g=m
 duc noun g=m f=duchesse
 ducat noun g=m
 duché noun g=m
+ducon          noun g=m style=vulgar alt=imbécile
 ductilité noun g=f
 duègne noun g=f
 duel noun g=m

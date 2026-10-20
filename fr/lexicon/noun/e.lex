@@ -1,4 +1,5 @@
 # French lexicon, noun, letter e (clean-room, own knowledge)
+e-mail         noun g=m pl=e-mails note=official term courriel
 eau            noun g=f
 eau-de-vie     noun g=f pl=eaux-de-vie
 eau-forte      noun g=f pl=eaux-fortes
@@ -9,6 +10,7 @@ eau-forte      noun g=f pl=eaux-fortes
 ébauchoir      noun g=m
 ébavurage      noun g=m
 ébène          noun g=f
+ébénier        noun g=m
 ébéniste       noun g=m|f
 ébénisterie    noun g=f
 éblouissement  noun g=m
@@ -19,6 +21,8 @@ eau-forte      noun g=f pl=eaux-fortes
 ébranchage     noun g=m
 ébranlement    noun g=m
 ébriété        noun g=f
+ébrouement     noun g=m
+ébruitement    noun g=m
 ébullition     noun g=f
 écaillage      noun g=m
 écaille        noun g=f
@@ -28,6 +32,7 @@ eau-forte      noun g=f pl=eaux-fortes
 écartement     noun g=m
 écarteur       noun g=m
 ecchymose      noun g=f
+ecclésiastique noun g=m
 écervelé       noun g=m f=écervelée
 échafaud       noun g=m
 échafaudage    noun g=m
@@ -43,6 +48,7 @@ ecchymose      noun g=f
 échantillonnage noun g=m
 échantillonneur noun g=m
 échappatoire   noun g=f
+échappée       noun g=f
 échappement    noun g=m
 écharde        noun g=f
 écharpe        noun g=f
@@ -66,10 +72,12 @@ ecchymose      noun g=f
 échinoderme    noun g=m
 échiquier      noun g=m
 écho           noun g=m
+échocardiographie noun g=f
 échographe     noun g=m
 échographie    noun g=f
 échographiste  noun g=m|f
 échoppe        noun g=f
+échotier       noun g=m f=échotière
 échouage       noun g=m
 éclaboussure   noun g=f
 éclair         noun g=m
@@ -85,12 +93,15 @@ ecchymose      noun g=f
 éclectisme     noun g=m
 éclipse        noun g=f
 écliptique     noun g=m conf=85 note=astronomy; gender varies in usage (often feminine in older texts)
+éclisse        noun g=f
+éclopé         noun g=m f=éclopée
 éclosion       noun g=f
 écluse         noun g=f
 éclusier       noun g=m f=éclusière
 éco-organisme  noun g=m pl=éco-organismes
 écobuage       noun g=m
 écocide        noun g=m
+écoconception  noun g=f
 écocontribution noun g=f
 écœurement     noun g=m
 écolabel       noun g=m
@@ -110,9 +121,11 @@ ecchymose      noun g=f
 économiseur    noun g=m
 économiste     noun g=m|f
 écope          noun g=f
+écoproduit     noun g=m
 écoquartier    noun g=m
 écorçage       noun g=m
 écorce         noun g=f
+écorché        noun g=m
 écorchure      noun g=f
 écorégion      noun g=f
 écosystème     noun g=m
@@ -143,6 +156,7 @@ ecchymose      noun g=f
 écrouissage    noun g=m
 écroulement    noun g=m
 ectoderme      noun g=m
+ectoparasite   noun g=m
 écu            noun g=m
 écubier        noun g=m
 écueil         noun g=m
@@ -155,6 +169,7 @@ ectoderme      noun g=m
 écuyer         noun g=m f=écuyère
 eczéma         noun g=m
 édelweiss      noun g=m
+éden           noun g=m
 édiction       noun g=f
 édicule        noun g=m
 édification    noun g=f
@@ -164,6 +179,7 @@ eczéma         noun g=m
 édit           noun g=m
 éditeur        noun g=m f=éditrice
 édition        noun g=f
+éditique       noun g=f
 éditorial      noun g=m
 éditorialiste  noun g=m|f
 édredon        noun g=m
@@ -208,6 +224,7 @@ effusion       noun g=f
 églantine      noun g=f
 église         noun g=f
 églogue        noun g=f
+ego            noun g=m rect=égo conf=85
 égocentrisme   noun g=m
 égoïsme        noun g=m
 égoïste        noun g=m|f
@@ -216,6 +233,7 @@ effusion       noun g=f
 égotisme       noun g=m
 égout          noun g=m
 égoutier       noun g=m
+égouttage      noun g=m
 égouttement    noun g=m
 égouttoir      noun g=m
 égratignure    noun g=f
@@ -224,14 +242,18 @@ effusion       noun g=f
 égyptologue    noun g=m|f
 eider          noun g=m
 éjaculation    noun g=f
+éjecteur       noun g=m
 éjection       noun g=f
 élaboration    noun g=f
 élagage        noun g=m
+élagueur       noun g=m f=élagueuse
 élan           noun g=m
 élancement     noun g=m
+éland          noun g=m
 élargissement  noun g=m
 élasticité     noun g=f
 élastique      noun g=m
+élastomère     noun g=m
 eldorado       noun g=m
 électeur       noun g=m f=électrice
 élection       noun g=f
@@ -244,25 +266,35 @@ eldorado       noun g=m
 électro-aimant noun g=m pl=électro-aimants rect=électroaimant rect_pl=électroaimants
 électroacoustique noun g=f
 électrocardiogramme noun g=m
+électrocardiographie noun g=f
 électrochimie  noun g=f
 électrochoc    noun g=m
 électrocution  noun g=f
 électrode      noun g=f
+électrodynamique noun g=f
 électroencéphalogramme noun g=m
+électroencéphalographie noun g=f
+électroluminescence noun g=f
 électrolyse    noun g=f
 électrolyseur  noun g=m
 électrolyte    noun g=m
 électromagnétisme noun g=m
 électromécanicien noun g=m f=électromécanicienne
+électromécanique noun g=f
 électroménager noun g=m
 électromobilité noun g=f
+électromyographie noun g=f
 électron       noun g=m
 électronégativité noun g=f
 électronicien  noun g=m f=électronicienne
 électronique   noun g=f
+électronvolt   noun g=m
 électrophone   noun g=m
 électrophorèse noun g=f
+électrophysiologie noun g=f
 électroradiologie noun g=f
+électroscope   noun g=m
+électrostatique noun g=f
 électrotechnicien noun g=m f=électrotechnicienne
 électrotechnique noun g=f
 électrothérapie noun g=f
@@ -272,6 +304,7 @@ eldorado       noun g=m
 élément        noun g=m
 éléphant       noun g=m f=éléphante
 éléphanteau    noun g=m
+éléphantiasis  noun g=m|f conf=90 note=usually masculine; feminine also found
 élevage        noun g=m
 élévateur      noun g=m
 élévation      noun g=f
@@ -326,6 +359,7 @@ emboîtement    noun g=m rect=emboitement
 embolie        noun g=f
 embonpoint     noun g=m
 embouchure     noun g=f
+embourgeoisement noun g=m
 embout         noun g=m
 embouteillage  noun g=m
 emboutissage   noun g=m
@@ -336,6 +370,9 @@ embrassement   noun g=m
 embrasure      noun g=f
 embrayage      noun g=m
 embrigadement  noun g=m
+embrocation    noun g=f
+embrouillamini noun g=m style=colloquial alt=confusion|imbroglio
+embrouille     noun g=f style=colloquial alt=complication|imbroglio
 embrun         noun g=m
 embryogenèse   noun g=f
 embryologie    noun g=f
@@ -346,8 +383,10 @@ embuscade      noun g=f
 émeraude       noun g=f
 émergence      noun g=f
 émeri          noun g=m
+émerillon      noun g=m
 émersion       noun g=f
 émerveillement noun g=m
+émétique       noun g=m
 émetteur       noun g=m
 émetteur-récepteur noun g=m pl=émetteurs-récepteurs
 émeu           noun g=m
@@ -365,25 +404,35 @@ embuscade      noun g=f
 émission       noun g=f
 émissivité     noun g=f
 emmanchement   noun g=m
+emmanchure     noun g=f
 emménagement   noun g=m
 emmental       noun g=m
+emmerdement    noun g=m style=vulgar alt=ennui|souci
+emmerdeur      noun g=m f=emmerdeuse style=vulgar alt=importun|casse-pieds
 émoi           noun g=m
+émoji          noun g=m
+émollient      noun g=m
 émoluments     noun g=m pl_only
 émondage       noun g=m
 émoticône      noun g=f
 émotion        noun g=f
 émotivité      noun g=f
+émouchet       noun g=m conf=90 note=small bird of prey (kestrel, sparrowhawk)
 émoussement    noun g=m
 empailleur     noun g=m f=empailleuse
+empan          noun g=m
+empaquetage    noun g=m
 empâtement     noun g=m
 empathie       noun g=f
 empattement    noun g=m
 empêchement    noun g=m
+empêcheur      noun g=m f=empêcheuse
 empennage      noun g=m
 empereur       noun g=m f=impératrice
 emphase        noun g=f
 emphysème      noun g=m
 emphytéose     noun g=f
+empiècement    noun g=m
 empierrement   noun g=m
 empiétement    noun g=m rect=empiètement
 empilement     noun g=m
@@ -396,9 +445,11 @@ emploi         noun g=m
 employabilité  noun g=f
 employé        noun g=m f=employée
 employeur      noun g=m f=employeuse
+empoignade     noun g=f
 empois         noun g=m
 empoisonnement noun g=m
 empoisonneur   noun g=m f=empoisonneuse
+empoissonnement noun g=m
 emporte-pièce  noun g=m pl=emporte-pièce[trad]|emporte-pièces[rect]
 emportement    noun g=m
 empoussièrement noun g=m
@@ -428,6 +479,7 @@ encan          noun g=m
 encapsulation  noun g=f
 encart         noun g=m
 encastrement   noun g=m
+encaustique    noun g=f
 enceinte       noun g=f
 encellulement  noun g=m
 encens         noun g=m
@@ -464,6 +516,8 @@ encrage        noun g=m
 encrassement   noun g=m
 encre          noun g=f
 encrier        noun g=m
+encroûtement   noun g=m rect=encroutement
+enculé         noun g=m f=enculée style=vulgar alt=salaud
 encyclique     noun g=f
 encyclopédie   noun g=f
 encyclopédiste noun g=m|f
@@ -472,6 +526,7 @@ endettement    noun g=m
 endiguement    noun g=m
 endive         noun g=f
 endocardite    noun g=f
+endocarpe      noun g=m
 endocrinologie noun g=f
 endocrinologue noun g=m|f
 endoctrinement noun g=m
@@ -480,6 +535,7 @@ endomètre      noun g=m
 endométriose   noun g=f
 endommagement  noun g=m
 endomorphisme  noun g=m
+endoprothèse   noun g=f
 endormissement noun g=m
 endorphine     noun g=f
 endoscope      noun g=m
@@ -493,6 +549,7 @@ enduit         noun g=m
 endurance      noun g=f
 endurcissement noun g=m
 énergéticien   noun g=m f=énergéticienne
+énergétique    noun g=f
 énergie        noun g=f
 énergumène     noun g=m|f
 énervement     noun g=m
@@ -504,10 +561,12 @@ enfer          noun g=m
 enfermement    noun g=m
 enfilade       noun g=f
 enflure        noun g=f
+enfoiré        noun g=m f=enfoirée style=vulgar alt=imbécile
 enfoncement    noun g=m
 enfouissement  noun g=m
 enfumage       noun g=m
 engagement     noun g=m
+engazonnement  noun g=m
 engeance       noun g=f
 engelure       noun g=f
 engendrement   noun g=m
@@ -520,6 +579,7 @@ engourdissement noun g=m
 engrais        noun g=m
 engraissement  noun g=m
 engrenage      noun g=m
+engueulade     noun g=f style=colloquial alt=réprimande|dispute
 énigme         noun g=f
 enivrement     noun g=m
 enjambée       noun g=f
@@ -543,6 +603,7 @@ ennui          noun g=m
 énormité       noun g=f
 enquête        noun g=f
 enquêteur      noun g=m f=enquêtrice|enquêteuse
+enquiquineur   noun g=m f=enquiquineuse style=colloquial alt=importun
 enracinement   noun g=m
 enregistrement noun g=m
 enregistreur   noun g=m
@@ -569,6 +630,7 @@ ensoleillement noun g=m
 ensorcellement noun g=m
 entablement    noun g=m
 entaille       noun g=f
+entame         noun g=f
 entartrage     noun g=m
 entassement    noun g=m
 entendement    noun g=m
@@ -646,10 +708,14 @@ environnement  noun g=m
 environs       noun g=m pl_only
 envoi          noun g=m
 envol          noun g=m
+envolée        noun g=f
 envoûtement    noun g=m rect=envoutement
 envoyé         noun g=m f=envoyée
+envoyeur       noun g=m f=envoyeuse
 enzyme         noun g=f note=also found as masculine
+éolien         noun g=m note=wind power (l'éolien)
 éolienne       noun g=f
+éon            noun g=m
 épacte         noun g=f
 épagneul       noun g=m f=épagneule
 épaisseur      noun g=f
@@ -666,6 +732,7 @@ enzyme         noun g=f note=also found as masculine
 éparque        noun g=m
 épaulard       noun g=m
 épaule         noun g=f
+épaulé-jeté    noun g=m pl=épaulés-jetés
 épaulement     noun g=m
 épaulette      noun g=f
 épave          noun g=f
@@ -677,15 +744,18 @@ enzyme         noun g=f note=also found as masculine
 éperlan        noun g=m
 éperon         noun g=m
 épervier       noun g=m
+épervière      noun g=f conf=90 note=hawkweed (plant)
 éphèbe         noun g=m
 éphémère       noun g=m
 éphéméride     noun g=f
 épi            noun g=m
+épicarpe       noun g=m
 épice          noun g=f
 épicéa         noun g=m
 épicentre      noun g=m
 épicerie       noun g=f
 épicier        noun g=m f=épicière
+épicondylite   noun g=f
 épicurien      noun g=m f=épicurienne
 épicurisme     noun g=m
 épidémie       noun g=f
@@ -702,6 +772,7 @@ enzyme         noun g=f note=also found as masculine
 épilation      noun g=f
 épilepsie      noun g=f
 épileptique    noun g=m|f
+épillet        noun g=m
 épilobe        noun g=m
 épilogue       noun g=m
 épinard        noun g=m
@@ -711,6 +782,7 @@ enzyme         noun g=f note=also found as masculine
 épinglage      noun g=m
 épingle        noun g=f
 épinoche       noun g=f
+épiphanie      noun g=f
 épiphyse       noun g=f
 épiphyte       noun g=m
 épiscopat      noun g=m
@@ -762,6 +834,7 @@ enzyme         noun g=f note=also found as masculine
 équinoxe       noun g=m
 équipage       noun g=m
 équipe         noun g=f
+équipée        noun g=f
 équipement     noun g=m
 équipementier  noun g=m
 équipier       noun g=m f=équipière
@@ -769,13 +842,16 @@ enzyme         noun g=f note=also found as masculine
 équité         noun g=f
 équivalence    noun g=f
 équivalent     noun g=m
+équivoque      noun g=f
 érable         noun g=m
 éradication    noun g=f
+éraflure       noun g=f
 ère            noun g=f
 érection       noun g=f
 éreintement    noun g=m
 erg            noun g=m
 ergol          noun g=m
+ergomètre      noun g=m
 ergonome       noun g=m|f
 ergonomie      noun g=f
 ergot          noun g=m
@@ -787,9 +863,11 @@ ermite         noun g=m
 érosion        noun g=f
 érotisme       noun g=m
 errance        noun g=f
+erratum        noun g=m pl=errata[trad]|erratums[rect]
 errements      noun g=m pl_only
 erreur         noun g=f
 ersatz         noun g=m
+éructation     noun g=f
 érudit         noun g=m f=érudite
 érudition      noun g=f
 éruption       noun g=f
@@ -809,6 +887,8 @@ escalope       noun g=f
 escamotage     noun g=m
 escamoteur     noun g=m f=escamoteuse
 escapade       noun g=f
+escarbille     noun g=f
+escarbot       noun g=m conf=90 note=beetle (dated)
 escarboucle    noun g=f
 escarcelle     noun g=f
 escargot       noun g=m
@@ -818,12 +898,14 @@ escarpement    noun g=m
 escarpin       noun g=m
 escarpolette   noun g=f
 escarre        noun g=f
+eschatologie   noun g=f
 escient        noun g=m pl=- note=only in à bon escient, à mauvais escient
 esclandre      noun g=m
 esclavage      noun g=m
 esclavagisme   noun g=m
 esclavagiste   noun g=m|f
 esclave        noun g=m|f
+escogriffe     noun g=m
 escompte       noun g=m
 escorte        noun g=f
 escorteur      noun g=m
@@ -832,6 +914,7 @@ escrime        noun g=f
 escrimeur      noun g=m f=escrimeuse
 escroc         noun g=m
 escroquerie    noun g=f
+esgourde       noun g=f style=colloquial alt=oreille
 ésotérisme     noun g=m
 espace         noun g=m
 espace-temps   noun g=m pl=espaces-temps
@@ -839,7 +922,9 @@ espacement     noun g=m
 espadon        noun g=m
 espadrille     noun g=f
 espagnol       noun g=m note=the language; persons are Espagnol (propn)
+espagnolette   noun g=f
 espalier       noun g=m
+esparcette     noun g=f conf=90 note=fodder plant (sainfoin)
 espèce         noun g=f
 espérance      noun g=f
 espérantiste   noun g=m|f
@@ -853,12 +938,15 @@ esprit         noun g=m
 esquif         noun g=m
 esquimau       noun g=m note=ice lolly; the people noun is a propn
 esquisse       noun g=f
+esquive        noun g=f
 essai          noun g=m
 essaim         noun g=m
 essaimage      noun g=m
+essayage       noun g=m
 essayeur       noun g=m f=essayeuse
 essayiste      noun g=m|f
 essence        noun g=f
+essentiel      noun g=m pl=- note=l'essentiel; nominalised adjective, no plural
 essieu         noun g=m
 essor          noun g=m
 essorage       noun g=m
@@ -866,11 +954,13 @@ essoreuse      noun g=f
 essoufflement  noun g=m
 essuie-glace   noun g=m pl=essuie-glaces
 essuie-mains   noun g=m rect=essuie-main rect_pl=essuie-mains
+essuie-pieds   noun g=m rect=essuie-pied rect_pl=essuie-pieds
 essuie-tout    noun g=m pl=essuie-tout
 essuyage       noun g=m
 est            noun g=m pl=- note=cardinal point; no plural
 estacade       noun g=f
 estafette      noun g=f
+estafilade     noun g=f
 estaminet      noun g=m
 estampage      noun g=m
 estampe        noun g=f
@@ -886,11 +976,13 @@ estime         noun g=f
 estivant       noun g=m f=estivante
 estive         noun g=f
 estoc          noun g=m
+estocade       noun g=f
 estomac        noun g=m
 estouffade     noun g=f
 estrade        noun g=f
 estragon       noun g=m
 estran         noun g=m
+estropié       noun g=m f=estropiée
 estuaire       noun g=m
 esturgeon      noun g=m
 étable         noun g=f
@@ -919,6 +1011,7 @@ esturgeon      noun g=m
 étape          noun g=f
 état           noun g=m
 état-major     noun g=m pl=états-majors
+état-nation    noun g=m pl=états-nations
 état-providence noun g=m pl=états-providences
 étatisation    noun g=f
 étatisme       noun g=m
@@ -950,6 +1043,7 @@ ethnonyme      noun g=m
 éthyle         noun g=m
 éthylène       noun g=m
 éthylisme      noun g=m
+éthylomètre    noun g=m
 éthylotest     noun g=m
 étiage         noun g=m
 étier          noun g=m
@@ -983,6 +1077,7 @@ ethnonyme      noun g=m
 étrille        noun g=f
 étrivière      noun g=f
 étroitesse     noun g=f
+étron          noun g=m style=vulgar alt=excrément
 étude          noun g=f
 étudiant       noun g=m f=étudiante
 étui           noun g=m
@@ -1002,8 +1097,11 @@ euphémisme     noun g=m
 euphonie       noun g=f
 euphorbe       noun g=f
 euphorie       noun g=f
+euphorisant    noun g=m
 euro           noun g=m
 eurodéputé     noun g=m f=eurodéputée
+eurodollar     noun g=m
+européanisation noun g=f
 euroscepticisme noun g=m
 eurosceptique  noun g=m|f
 eurozone       noun g=f
@@ -1022,6 +1120,8 @@ eutrophisation noun g=f
 évanouissement noun g=m
 évaporateur    noun g=m
 évaporation    noun g=f
+évaporite      noun g=f
+évapotranspiration noun g=f
 évasement      noun g=m
 évasion        noun g=f
 évêché         noun g=m
@@ -1030,6 +1130,7 @@ eutrophisation noun g=f
 évent          noun g=m
 éventail       noun g=m note=plural éventails
 éventaire      noun g=m
+éventration    noun g=f
 éventualité    noun g=f
 évêque         noun g=m
 éviction       noun g=f
@@ -1044,7 +1145,9 @@ eutrophisation noun g=f
 évolutionnisme noun g=m
 évolutionniste noun g=m|f
 ex             noun g=m|f style=colloquial alt=ancien_conjoint|ancienne_compagne conf=90 note=mon ex, ton ex
+ex-femme       noun g=f pl=ex-femmes
 ex-libris      noun g=m pl=ex-libris
+ex-mari        noun g=m pl=ex-maris
 ex-voto        noun g=m pl=ex-voto
 exacerbation   noun g=f
 exaction       noun g=f
@@ -1056,6 +1159,7 @@ exam           noun g=m style=colloquial alt=examen
 examen         noun g=m
 examinateur    noun g=m f=examinatrice
 exanthème      noun g=m
+exaoctet       noun g=m
 exarchat       noun g=m
 exaspération   noun g=f
 exaucement     noun g=m
@@ -1075,6 +1179,7 @@ exclamation    noun g=f
 exclave        noun g=f
 exclu          noun g=m f=exclue
 exclusion      noun g=f
+exclusive      noun g=f note=jeter l'exclusive
 exclusivisme   noun g=m
 exclusivité    noun g=f
 excommunication noun g=f
@@ -1121,8 +1226,11 @@ existence      noun g=f
 existentialisme noun g=m
 existentialiste noun g=m|f
 exo            noun g=m style=colloquial alt=exercice
+exobiologie    noun g=f
+exocet         noun g=m
 exode          noun g=m
 exonération    noun g=f
+exophtalmie    noun g=f
 exoplanète     noun g=f
 exorcisme      noun g=m
 exorciste      noun g=m|f
@@ -1135,15 +1243,18 @@ expansionnisme noun g=m
 expatriation   noun g=f
 expatrié       noun g=m f=expatriée
 expectative    noun g=f
+expectorant    noun g=m
 expectoration  noun g=f
 expédient      noun g=m
 expéditeur     noun g=m f=expéditrice
 expédition     noun g=f
+expéditionnaire noun g=m|f
 expérience     noun g=f
 expérimentateur noun g=m f=expérimentatrice
 expérimentation noun g=f
 expert         noun g=m f=experte
 expert-comptable noun g=m f=experte-comptable pl=experts-comptables fpl=expertes-comptables
+expert-géomètre noun g=m pl=experts-géomètres
 expertise      noun g=f
 expiation      noun g=f
 expiration     noun g=f
@@ -1172,6 +1283,7 @@ expressionniste noun g=m|f
 expressivité   noun g=f
 expresso       noun g=m
 expropriation  noun g=f
+exproprié      noun g=m f=expropriée
 expulsion      noun g=f
 exsudat        noun g=m
 exsudation     noun g=f
@@ -1186,9 +1298,12 @@ extermination  noun g=f
 externalisation noun g=f
 externalité    noun g=f
 externat       noun g=m
+externe        noun g=m|f
 extincteur     noun g=m
 extinction     noun g=f
+extirpation    noun g=f
 extorsion      noun g=f
+extra          noun g=m
 extracteur     noun g=m
 extraction     noun g=f
 extradition    noun g=f
@@ -1209,6 +1324,7 @@ extrémiste     noun g=m|f
 extrémité      noun g=f
 extrudeuse     noun g=f
 extrusion      noun g=f
+extubation     noun g=f
 exubérance     noun g=f
 exultation     noun g=f
 exutoire       noun g=m
