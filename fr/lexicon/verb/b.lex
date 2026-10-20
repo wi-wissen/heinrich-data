@@ -141,7 +141,7 @@ bredouiller    verb
 breveter       verb class=double_trad
 bricoler       verb
 brider         verb
-briefer        verb pres=briefe,briefons,briefent fut=brieferai note=no è: the generator would give brièfe
+briefer        verb
 briguer        verb
 briller        verb pp_inv
 brimer         verb

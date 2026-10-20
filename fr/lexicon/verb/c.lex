@@ -67,10 +67,13 @@ carrosser       verb
 cartographier   verb
 cartonner       verb
 caser           verb style=colloquial
+caserner        verb
 casquer         verb style=colloquial alt=payer
 casser          verb
 castrer         verb
+cataboliser     verb
 cataloguer      verb
+catalyser       verb
 catapulter      verb
 catastropher    verb style=colloquial
 catégoriser     verb
@@ -95,6 +98,7 @@ cesser          verb
 chagriner       verb
 chahuter        verb
 chamailler      verb pronominal style=colloquial alt=disputer
+chamaniser      verb
 chambarder      verb
 chambouler      verb style=colloquial
 chambrer        verb
@@ -138,7 +142,7 @@ chiner          verb
 chiper          verb style=colloquial alt=voler
 chipoter        verb
 chiquer         verb
-choir           verb class=irr pres=chois,chois,choit,-,-,choient ps=chus fut=choirai|cherrai pp=chu style=literary imp=-,-,- note=defective; no nous/vous forms
+choir           verb class=irr pres=chois,chois,choit,-,-,choient ps=chus fut=choirai|cherrai pp=chu style=literary defective=inf|fin|pp note=no nous/vous forms, no imperative
 choisir         verb class=ir
 chômer          verb
 choper          verb style=colloquial alt=attraper
@@ -201,6 +205,7 @@ cocher          verb
 cocufier        verb style=colloquial
 coder           verb
 codifier        verb
+codiriger       verb
 coécrire        verb class=écrire
 coexister       verb pp_inv
 coffrer         verb
@@ -243,6 +248,7 @@ commotionner    verb
 commuer         verb
 communier       verb
 communiquer     verb
+commuter        verb
 compacter       verb
 comparaître     verb class=connaître pp_inv
 comparer        verb
@@ -261,6 +267,7 @@ comporter       verb
 composer        verb
 composter       verb
 comprendre      verb class=prendre
+compresser      verb
 comprimer       verb
 compromettre    verb class=mettre
 comptabiliser   verb
@@ -401,6 +408,7 @@ coupler         verb
 courber         verb
 courir          verb class=courir
 couronner       verb
+courre verb class=irr defective=inf note=only in chasse à courre, laisser courre
 courroucer      verb
 courser         verb
 court-circuiter verb
@@ -446,13 +454,14 @@ croasser        verb pp_inv
 crocheter       verb note=è like acheter
 croire          verb class=croire
 croiser         verb
-croître         verb class=irr pres=croîs,croîs,croît,croissons,croissez,croissent ps=crûs,crûs,crût,crûmes,crûtes,crûrent subj_impf=crûsse,crûsses,crût,crûssions,crûssiez,crûssent fut=croîtrai pp=crû,crue,crus,crues
+croître         verb class=irr inf=croître[trad]|croitre[rect] pres=croîs,croîs,croît,croissons,croissez,croissent ps=crûs,crûs,crût,crûmes,crûtes,crûrent subj_impf=crûsse,crûsses,crût,crûssions,crûssiez,crûssent fut=croîtrai[trad]|croitrai[rect] pp=crû,crue,crus,crues
 croquer         verb
 crotter         verb
 crouler         verb
 croupir         verb class=ir pp_inv
 croustiller     verb pp_inv
 crucifier       verb
+cryogéniser     verb
 crypter         verb
 cuber           verb
 cueillir        verb class=cueillir

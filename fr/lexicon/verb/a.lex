@@ -31,6 +31,7 @@ accéder        verb pp_inv
 accélérer      verb
 accentuer      verb
 accepter       verb
+accessoiriser  verb
 acclamer       verb
 acclimater     verb
 accoler        verb

@@ -1,10 +1,12 @@
 # French adjectives, letter a (docs/LEXICON_FORMAT_FR.md). Own knowledge (clean-room).
 abasourdi          adj
 abattu             adj
+abbasside          adj
 abbatial           adj
 abdominal          adj
 aberrant           adj
 abîmé              adj rect=abimé
+abiotique          adj
 abject             adj adv=abjectement
 abolitionniste     adj
 abominable         adj adv=abominablement
@@ -13,6 +15,7 @@ abordable          adj
 aborigène          adj
 abrasif            adj
 abrégé             adj
+abréviatif         adj
 abrogatif          adj
 abrupt             adj adv=abruptement
 abruti             adj
@@ -22,7 +25,7 @@ absolu             adj adv=absolument
 absolutiste        adj
 absorbant          adj
 absorbé            adj
-abstrait           adj
+abstrait           adj adv=abstraitement
 abstrus            adj
 absurde            adj adv=absurdement
 abusé              adj
@@ -56,9 +59,11 @@ acéré              adj
 acétique           adj
 achalandé          adj
 acharné            adj
+achéménide         adj
 achevé             adj
 acide              adj
 acidulé            adj
+acousmatique       adj
 acoustique         adj
 acquis             adj
 acquisitif         adj
@@ -89,6 +94,8 @@ adopté             adj
 adoptif            adj
 adorable           adj adv=adorablement
 adoré              adj
+adrénergique       adj
+adressable         adj
 adroit             adj adv=adroitement
 adulte             adj
 adultère           adj
@@ -130,6 +137,7 @@ agaçant            adj
 agacé              adj
 âgé                adj
 agenouillé         adj
+agglutinant        adj
 aggravant          adj
 agile              adj adv=agilement
 agissant           adj
@@ -180,11 +188,13 @@ alerte             adj
 alezan             adj
 algébrique         adj
 algérien           adj
+algonquien         adj
 algorithmique      adj
 aliénable          adj
 aliénant           adj
 aligné             adj
 alimentaire        adj
+aliphatique        adj
 alité              adj
 allaitant          adj
 alléchant          adj
@@ -195,25 +205,31 @@ allemand           adj
 allergique         adj
 alliacé            adj
 allié              adj
+allitératif        adj
 allochtone         adj
 allogène           adj
 allongé            adj
+allophone          adj
 allumé             adj
 allusif            adj
 alluvial           adj
 alluvionnaire      adj
 almohade           adj
+almoravide         adj
 alpestre           adj
 alphabétique       adj
 alphanumérique     adj
 alpin              adj
 alsacien           adj
+altaïque           adj
 alternatif         adj adv=alternativement
 alterné            adj
 altier             adj
+altoséquanais      adj
 altruiste          adj
 alvéolaire         adj
 amaigri            adj
+amarnien           adj
 amazonien          adj
 ambiant            adj
 ambidextre         adj
@@ -234,6 +250,7 @@ amical             adj adv=amicalement
 aminé              adj
 amnésique          adj
 amoral             adj
+amorçable          adj
 amorphe            adj
 amortissable       adj
 amoureux           adj adv=amoureusement
@@ -243,6 +260,8 @@ ample              adj adv=amplement
 ampoulé            adj
 amputé             adj
 amusant            adj
+amyélinique        adj
+anabaptiste        adj
 anachronique       adj
 anaérobie          adj
 anal               adj
@@ -252,11 +271,13 @@ analphabète        adj
 analytique         adj adv=analytiquement
 anarchique         adj adv=anarchiquement
 anarchiste         adj
+anatolien          adj
 anatomique         adj adv=anatomiquement
 ancestral          adj
 ancien             adj place=both adv=anciennement
 ancillaire         adj
 andalou            adj f=andalouse
+andin              adj
 androgyne          adj
 anecdotique        adj
 anémique           adj
@@ -264,18 +285,24 @@ angélique          adj
 angevin            adj
 anglais            adj
 anglican           adj
+anglo-américain    adj
 anglo-normand      adj
 anglo-saxon        adj f=anglo-saxonne pl=anglo-saxons fpl=anglo-saxonnes
+anglophobe         adj
 anglophone         adj
 angoissant         adj
 angoissé           adj
 angulaire          adj
 anguleux           adj
+anhydre            adj
 animal             adj
 animalier          adj
 animé              adj
+animiste           adj
 ankylosé           adj
+annécien           adj
 annelé             adj
+annemassien        adj
 annonciateur       adj f=annonciatrice
 annuel             adj adv=annuellement
 anodin             adj
@@ -283,6 +310,7 @@ anomal             adj
 anonyme            adj adv=anonymement
 anorexique         adj
 anormal            adj adv=anormalement
+ansé               adj note=croix ansée
 antagoniste        adj
 antarctique        adj
 antépénultième     adj
@@ -292,23 +320,34 @@ anthropoïde        adj
 anthropologique    adj
 anthropomorphe     adj
 anthropophage      adj
+anti-américain     adj rect=antiaméricain
+anti-esclavagiste  adj rect=antiesclavagiste
+anti-français      adj rect=antifrançais
+anti-israélien     adj note=stays hyphenated in the 1990 spelling (i + i)
 antiaérien         adj
 antiatomique       adj
 antibrouillard     adj inv
 anticancéreux      adj
 antichar           adj f=antichar
+anticholinergique  adj
+antichrétien       adj
 anticlérical       adj
 anticommuniste     adj
 anticoncurrentiel  adj
 anticonstitutionnel adj
+anticorrida        adj inv
 anticorruption     adj inv
 antidémocratique   adj
 antidérapant       adj
+antidiabétique     adj
 antidopage         adj inv
 antiémeute         adj
 antifasciste       adj
+antilibéral        adj
 antillais          adj
 antimilitariste    adj
+antimondialiste    adj
+antimusulman       adj
 antinucléaire      adj
 antiparasite       adj
 antipathique       adj
@@ -348,6 +387,7 @@ appétissant        adj
 applicable         adj
 applicatif         adj
 appliqué           adj
+appositif          adj
 appréciable        adj
 appréciatif        adj
 apprêté            adj
@@ -366,6 +406,7 @@ aquatique          adj
 aqueux             adj
 aquifère           adj
 aquilin            adj
+aquitain           adj
 arabe              adj
 arabique           adj
 arable             adj
@@ -395,7 +436,9 @@ argileux           adj
 argotique          adj
 argumentatif       adj
 aride              adj
+arien              adj note=relating to Arianism
 aristocratique     adj
+aristotélicien     adj
 arithmétique       adj adv=arithmétiquement
 armé               adj
 arménien           adj
@@ -417,7 +460,9 @@ ascendant          adj
 ascétique          adj
 aseptique          adj
 asexué             adj
+ashkénaze          adj
 asiatique          adj
+asismique          adj
 asocial            adj
 assermenté         adj
 assertif           adj
@@ -439,10 +484,12 @@ astigmate          adj
 astral             adj
 astreignant        adj
 astringent         adj
+astrologique       adj
 astronomique       adj
 astucieux          adj adv=astucieusement
 asymétrique        adj
 asymptotique       adj
+asynchrone         adj
 athée              adj
 athénien           adj
 athlétique         adj
@@ -487,6 +534,7 @@ austère            adj adv=austèrement
 austral            adj pl=australs|austraux conf=80
 australien         adj
 austro-hongrois    adj f=austro-hongroise
+austronésien       adj
 autarcique         adj
 authentique        adj adv=authentiquement
 autiste            adj
@@ -494,16 +542,21 @@ autobiographique   adj
 autochtone         adj
 autocratique       adj
 autodidacte        adj
+autogène           adj
 autogéré           adj
 autoguidé          adj
 automatique        adj adv=automatiquement
+automorphe         adj
 automoteur         adj f=automotrice
 autonome           adj
 autoproclamé       adj
 autopropulsé       adj
+autorégulateur     adj f=autorégulatrice
+autorégulé         adj
 autorisé           adj
 autoritaire        adj adv=autoritairement
 autoroutier        adj
+autosuffisant      adj
 autrichien         adj
 auvergnat          adj
 auxiliaire         adj
@@ -529,6 +582,9 @@ avoisinant         adj
 avunculaire        adj
 axial              adj
 axiomatique        adj
+axonal             adj
+ayurvédique        adj
+ayyoubide          adj
 azerbaïdjanais     adj
 azéri              adj
 azoté              adj

@@ -6,6 +6,7 @@ zébu noun g=m
 zèle noun g=m
 zénith noun g=m
 zéphyr noun g=m
+zéro noun g=m note=des zéros; the numeral is in closed/numerals.lex
 zeste noun g=m
 zibeline noun g=f
 zigzag noun g=m

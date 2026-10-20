@@ -2,7 +2,9 @@
 cabalistique       adj
 cabochard          adj style=colloquial alt=têtu
 cabotin            adj
+cachemiri          adj
 cachotier          adj f=cachotière rect=cachottier
+cachoube           adj
 cacochyme          adj style=literary
 cadastral          adj
 cadastré           adj
@@ -18,20 +20,23 @@ cajun              adj f=cajun
 calamiteux         adj
 calcaire           adj
 calciné            adj
+calcique           adj
 calculable         adj
 calé               adj style=colloquial
 calédonien         adj
 calendaire         adj
 calibré            adj
+califal            adj
 californien        adj
 câlin              adj
 calleux            adj
 calme              adj adv=calmement
 calomnieux         adj
-caloporteur        adj f=caloportrice conf=70
+caloporteur        adj f=caloporteuse conf=60 note=mostly masculine: fluide caloporteur
 calorifique        adj
 calorifuge         adj
 calorique          adj
+calvinien          adj
 calviniste         adj
 camarguais         adj
 cambodgien         adj
@@ -41,6 +46,7 @@ campagnard         adj
 camphré            adj
 camus              adj
 canadien           adj
+cananéen           adj
 cancanier          adj f=cancanière
 cancéreux          adj
 cancérigène        adj
@@ -50,12 +56,15 @@ candide            adj adv=candidement
 caniculaire        adj
 canin              adj
 cannelé            adj
+cannois            adj
+canonial           adj
 canonique          adj adv=canoniquement
 cantonal           adj
 caoutchouteux      adj
 capable            adj
 capacitaire        adj
 capacitif          adj
+capétien           adj
 capillaire         adj
 capitaliste        adj
 capitalistique     adj
@@ -68,11 +77,14 @@ captif             adj
 captivant          adj
 caractériel        adj
 caraïbe            adj
+carbonaté          adj
 carbonifère        adj
 carbonique         adj
+carboxylique       adj
 carcéral           adj
 cardiaque          adj
 cardinal           adj
+cardinalice        adj
 cardiovasculaire   adj
 carencé            adj
 caressant          adj
@@ -82,20 +94,25 @@ caritatif          adj
 carliste           adj
 carnassier         adj
 carnavalesque      adj
+carné              adj
 carnivore          adj
 carolingien        adj
+carpien            adj
 carré              adj
 carrossable        adj
 cartésien          adj
+carthaginois       adj
 cartilagineux      adj
 cartographique     adj
 casanier           adj f=casanière
+casematé           adj
 casqué             adj
 cassant            adj
 casse-pieds        adj inv style=colloquial alt=ennuyeux
 castillan          adj
 castral            adj
 casuel             adj
+catabolique        adj
 cataclysmique      adj
 catalan            adj
 catalytique        adj
@@ -137,9 +154,13 @@ cervical           adj
 cessible           adj
 chafouin           adj
 chagrinant         adj
+chalcédonien       adj
 chaleureux         adj adv=chaleureusement
+chalonnais         adj
 chaloupé           adj
+chamanique         adj
 chamarré           adj
+chamito-sémitique  adj
 champenois         adj
 champêtre          adj
 chanceux           adj
@@ -147,6 +168,7 @@ changeant          adj
 chantant           adj
 chaotique          adj
 charbonneux        adj
+charentais         adj
 chargé             adj
 charismatique      adj
 charitable         adj adv=charitablement
@@ -155,6 +177,7 @@ charmeur           adj f=charmeuse
 charnel            adj adv=charnellement
 charnu             adj
 charpenté          adj
+chartrain          adj
 chassieux          adj
 chaste             adj adv=chastement
 châtain            adj
@@ -167,10 +190,12 @@ chauvin            adj
 chenu              adj
 cher               adj place=both adv=chèrement
 chéri              adj
+chérifien          adj
 chétif             adj
 chevaleresque      adj
 chevalin           adj
 chevelu            adj
+chevronné          adj
 chevrotant         adj
 chiant             adj style=vulgar alt=ennuyeux
 chic               adj f=chic pl=chics
@@ -181,6 +206,7 @@ chilien            adj
 chimérique         adj
 chimique           adj adv=chimiquement
 chinois            adj
+chiral             adj
 chirurgical        adj adv=chirurgicalement
 chlorhydrique      adj
 chlorophyllien     adj
@@ -191,10 +217,14 @@ chorégraphique     adj
 chouette           adj style=colloquial
 chrétien           adj
 christique         adj
+chromaffine        adj
 chromatique        adj
+chromatographique  adj
 chromé             adj
 chromosomique      adj
+chronobiologique   adj
 chronologique      adj adv=chronologiquement
+chronotrope        adj
 chuintant          adj
 chypriote          adj
 ci-joint           adj note=invariable before the noun: ci-joint la copie
@@ -203,23 +233,29 @@ cinématographique  adj
 cinétique          adj
 cinglant           adj
 cinglé             adj style=colloquial alt=fou
+circadien          adj
 circonflexe        adj
 circonspect        adj
 circonstancié      adj
 circulaire         adj
+circulant          adj
 circulatoire       adj
+circumpolaire      adj
 cireux             adj
 cisalpin           adj
 cistercien         adj
 citadin            adj
 citérieur          adj f=citérieure
 civil              adj adv=civilement
+civilisateur       adj f=civilisatrice
+civilisationnel    adj
 civique            adj adv=civiquement
 clair              adj adv=clairement
 clairet            adj f=clairette
 clairsemé          adj
 clairvoyant        adj
 clandestin         adj adv=clandestinement
+clanique           adj
 classieux          adj style=colloquial
 classique          adj adv=classiquement
 claustral          adj
@@ -238,6 +274,8 @@ clownesque         adj
 cocardier          adj f=cocardière
 cocasse            adj adv=cocassement
 cochère            adj note=porte cochère
+codant             adj
+cœliaque           adj
 coercible          adj
 coercitif          adj
 cognitif           adj
@@ -260,6 +298,7 @@ collinaire         adj
 colombien          adj
 colonial           adj
 colonialiste       adj
+colonisateur       adj f=colonisatrice
 coloré             adj
 colossal           adj
 comateux           adj
@@ -267,6 +306,7 @@ combatif           adj rect=combattif
 combinard          adj style=colloquial
 combinatoire       adj
 comestible         adj
+cométaire          adj
 comique            adj adv=comiquement
 commémoratif       adj
 commendataire      adj
@@ -296,6 +336,7 @@ compétitif         adj
 complaisant        adj adv=complaisamment
 complémentaire     adj
 complet            adj f=complète adv=complètement
+complexant         adj
 complexe           adj
 complexé           adj
 complice           adj
@@ -307,6 +348,7 @@ compréhensible     adj
 compréhensif       adj
 compris            adj
 compulsif          adj adv=compulsivement
+computationnel     adj
 comtal             adj
 comtois            adj
 con                adj f=conne style=vulgar alt=stupide
@@ -345,6 +387,8 @@ conforme           adj adv=conformément
 conformiste        adj
 confortable        adj adv=confortablement
 confraternel       adj
+confucéen          adj
+confucien          adj
 confus             adj adv=confusément
 congénital         adj
 congestionné       adj
@@ -379,6 +423,7 @@ constipé           adj
 constituant        adj
 constitutif        adj
 constitutionnel    adj adv=constitutionnellement
+constricteur       adj f=constrictrice
 constructible      adj
 constructif        adj
 consubstantiel     adj
@@ -392,6 +437,7 @@ contemporain       adj
 content            adj
 contentieux        adj
 contestable        adj
+contextuel         adj
 contigu            adj
 continent          adj
 continental        adj
@@ -399,6 +445,7 @@ continu            adj
 continuel          adj adv=continuellement
 contondant         adj
 contractile        adj
+contractualiste    adj
 contractuel        adj adv=contractuellement
 contradictoire     adj adv=contradictoirement
 contraignant       adj
@@ -429,10 +476,12 @@ cool               adj f=cool style=colloquial alt=sympathique|décontracté
 coopératif         adj
 coordonné          adj
 copieux            adj adv=copieusement
+coplanaire         adj
 copte              adj
 coquet             adj f=coquette adv=coquettement
 coquin             adj
 corallien          adj
+coralligène        adj
 coranique          adj
 cordial            adj adv=cordialement
 coréen             adj
@@ -442,6 +491,7 @@ cornu              adj
 coronaire          adj
 coronarien         adj
 corporatif         adj
+corporatiste       adj
 corporel           adj adv=corporellement
 corpulent          adj
 corpusculaire      adj
@@ -455,14 +505,16 @@ corruptible        adj
 corse              adj
 corsé              adj
 corvéable          adj
+cosismique         adj
 cosmétique         adj
 cosmique           adj
+cosmogonique       adj
 cosmologique       adj
 cosmopolite        adj
 cossard            adj style=colloquial alt=paresseux
 cossu              adj
 costaud            adj f=costaude note=feminine also costaud
-cosy               adj
+cosy               adj f=cosy
 côtier             adj
 cotonneux          adj
 couard             adj
@@ -499,11 +551,13 @@ créatif            adj
 crédible           adj
 crédule            adj
 crématoire         adj
+crémé              adj
 crémeux            adj
 crénelé            adj rect=crènelé
 créole             adj
 crépu              adj
 crépusculaire      adj
+crétois            adj
 creux              adj
 crevant            adj style=colloquial
 crevé              adj style=colloquial alt=épuisé
@@ -530,7 +584,10 @@ crucial            adj
 cruciforme         adj
 cruel              adj adv=cruellement
 crural             adj
+cryoscopique       adj
+cryotechnique      adj
 cryptogame         adj
+cryptographique    adj
 cubain             adj
 cubique            adj
 cubiste            adj
@@ -556,12 +613,15 @@ curatif            adj
 curieux            adj adv=curieusement
 cursif             adj
 cutané             adj
+cyanogène          adj
 cyclable           adj
 cyclique           adj adv=cycliquement
 cyclonique         adj
 cyclopéen          adj
 cyclothymique      adj
+cyclotomique       adj
 cylindrique        adj
 cynégétique        adj
 cynique            adj adv=cyniquement
 cyrillique         adj
+cytoplasmique      adj
