@@ -12,22 +12,22 @@ identitaire    adj
 idéographique  adj
 idéologique    adj adv=idéologiquement
 idiomatique    adj
-idiot          adj f=idiote
+idiot          adj f=idiote adv=idiotement
 idoine         adj
 idolâtre       adj
 idyllique      adj
 ignare         adj
 ignifuge       adj
-ignoble        adj
+ignoble        adj adv=ignoblement
 ignorant       adj
 iliaque        adj
 illégal        adj adv=illégalement
-illégitime     adj
+illégitime     adj adv=illégitimement
 illettré       adj
 illicite       adj adv=illicitement
 illimité       adj
 illisible      adj
-illogique      adj
+illogique      adj adv=illogiquement
 illusoire      adj
 illustratif    adj
 illustre       adj
@@ -54,11 +54,11 @@ immersif       adj
 imminent       adj
 immobile       adj
 immobilier     adj
-immodéré       adj
+immodéré       adj adv=immodérément
 immonde        adj
-immoral        adj
+immoral        adj adv=immoralement
 immortel       adj
-immuable       adj
+immuable       adj adv=immuablement
 immunitaire    adj
 immunodéprimé  adj
 immunologique  adj
@@ -68,7 +68,7 @@ imparable      adj
 impardonnable  adj
 imparfait      adj adv=imparfaitement
 impartial      adj adv=impartialement
-impassible     adj
+impassible     adj adv=impassiblement
 impatient      adj adv=impatiemment
 impayable      adj
 impayé         adj
@@ -79,13 +79,13 @@ impénitent     adj
 impensable     adj
 impératif      adj adv=impérativement
 imperceptible  adj adv=imperceptiblement
-impérial       adj
+impérial       adj adv=impérialement
 impérialiste   adj
 impérieux      adj adv=impérieusement
 impérissable   adj
 imperméable    adj
-impersonnel    adj
-impertinent    adj
+impersonnel    adj adv=impersonnellement
+impertinent    adj adv=impertinemment
 imperturbable  adj adv=imperturbablement
 impétueux      adj adv=impétueusement
 impie          adj
@@ -93,7 +93,7 @@ impitoyable    adj adv=impitoyablement
 implacable     adj adv=implacablement
 implantable    adj
 implicite      adj adv=implicitement
-impoli         adj
+impoli         adj adv=impoliment
 impolitique    adj
 impondérable   adj
 impopulaire    adj
@@ -123,7 +123,7 @@ impropre       adj adv=improprement
 imprudent      adj adv=imprudemment
 impubère       adj
 impudent       adj adv=impudemment
-impudique      adj
+impudique      adj adv=impudiquement
 impuissant     adj
 impulsif       adj adv=impulsivement
 impuni         adj adv=impunément
@@ -139,11 +139,11 @@ inaccoutumé    adj
 inachevé       adj
 inactif        adj
 inadapté       adj
-inadéquat      adj
+inadéquat      adj adv=inadéquatement
 inadmissible   adj
 inaliénable    adj
 inaltérable    adj
-inamical       adj
+inamical       adj adv=inamicalement
 inamovible     adj
 inanimé        adj
 inaperçu       adj
@@ -179,34 +179,34 @@ incivil        adj
 inclassable    adj
 inclusif       adj adv=inclusivement
 incoercible    adj
-incohérent     adj
+incohérent     adj adv=incohéremment
 incollable     adj
 incolore       adj
 incomestible   adj
-incommensurable adj
+incommensurable adj adv=incommensurablement
 incommode      adj
 incommunicable adj
 incomparable   adj adv=incomparablement
 incompatible   adj
 incompétent    adj
 incomplet      adj f=incomplète adv=incomplètement
-incompréhensible adj
+incompréhensible adj adv=incompréhensiblement
 incompressible adj
 incompris      adj
-inconcevable   adj
+inconcevable   adj adv=inconcevablement
 inconciliable  adj
 inconditionnel adj adv=inconditionnellement
-inconfortable  adj
-incongru       adj
+inconfortable  adj adv=inconfortablement
+incongru       adj adv=incongrûment
 inconnaissable adj
 inconnu        adj
 inconscient    adj adv=inconsciemment
-inconséquent   adj
+inconséquent   adj adv=inconséquemment
 inconsidéré    adj adv=inconsidérément
 inconsistant   adj
 inconsolable   adj
 inconstant     adj
-inconstitutionnel adj
+inconstitutionnel adj adv=inconstitutionnellement
 inconstructible adj
 incontestable  adj adv=incontestablement
 incontesté     adj
@@ -217,26 +217,26 @@ incontrôlé     adj
 inconvenant    adj
 incorporel     adj
 incorrect      adj adv=incorrectement
-incorrigible   adj
+incorrigible   adj adv=incorrigiblement
 incorruptible  adj
 incrédule      adj
 incroyable     adj adv=incroyablement
 inculte        adj
-incurable      adj
+incurable      adj adv=incurablement
 indécelable    adj
-indécent       adj
+indécent       adj adv=indécemment
 indéchiffrable adj
 indéchirable   adj
 indécidable    adj
 indécis        adj
 indécrottable  adj style=colloquial alt=incorrigible
-indéfectible   adj
+indéfectible   adj adv=indéfectiblement
 indéfendable   adj
 indéfini       adj adv=indéfiniment
 indéfinissable adj
 indéformable   adj
-indélébile     adj
-indélicat      adj
+indélébile     adj adv=indélébilement
+indélicat      adj adv=indélicatement
 indemne        adj
 indemnitaire   adj
 indémodable    adj
@@ -252,7 +252,7 @@ indétectable   adj
 indéterminé    adj
 indicatif      adj
 indiciaire     adj
-indicible      adj
+indicible      adj adv=indiciblement
 indien         adj
 indifférencié  adj
 indifférent    adj adv=indifféremment
@@ -268,17 +268,17 @@ indiscret      adj f=indiscrète adv=indiscrètement
 indiscutable   adj adv=indiscutablement
 indispensable  adj
 indisponible   adj
-indissociable  adj
+indissociable  adj adv=indissociablement
 indissoluble   adj adv=indissolublement
 indistinct     adj adv=indistinctement
 individualiste adj
 individuel     adj adv=individuellement
 indivis        adj
-indivisible    adj
+indivisible    adj adv=indivisiblement
 indo-européen  adj
 indochinois    adj
 indocile       adj
-indolent       adj
+indolent       adj adv=indolemment
 indolore       adj
 indomptable    adj
 indonésien     adj
@@ -287,38 +287,38 @@ indubitable    adj adv=indubitablement
 inductif       adj
 indulgent      adj
 industriel     adj adv=industriellement
-industrieux    adj
-inébranlable   adj
+industrieux    adj adv=industrieusement
+inébranlable   adj adv=inébranlablement
 inédit         adj
-ineffable      adj
+ineffable      adj adv=ineffablement
 ineffaçable    adj
-inefficace     adj
+inefficace     adj adv=inefficacement
 inefficient    adj
 inégal         adj adv=inégalement
 inégalable     adj
 inégalé        adj
 inégalitaire   adj
-inélégant      adj
+inélégant      adj adv=inélégamment
 inéligible     adj
 inéluctable    adj adv=inéluctablement
 inénarrable    adj
 inenvisageable adj
 inepte         adj
-inépuisable    adj
-inéquitable    adj
+inépuisable    adj adv=inépuisablement
+inéquitable    adj adv=inéquitablement
 inerte         adj
 inertiel       adj
 inespéré       adj
 inesthétique   adj
 inestimable    adj
 inévitable     adj adv=inévitablement
-inexact        adj
+inexact        adj adv=inexactement
 inexcusable    adj
 inexistant     adj
 inexorable     adj adv=inexorablement
 inexpérimenté  adj
 inexpiable     adj style=literary
-inexplicable   adj
+inexplicable   adj adv=inexplicablement
 inexpliqué     adj
 inexploitable  adj
 inexploré      adj
@@ -326,7 +326,7 @@ inexpressif    adj
 inexprimable   adj
 inexpugnable   adj
 inextinguible  adj
-inextricable   adj
+inextricable   adj adv=inextricablement
 infaillible    adj adv=infailliblement
 infaisable     adj
 infalsifiable  adj
@@ -338,31 +338,31 @@ infatigable    adj adv=infatigablement
 infécond       adj
 infect         adj
 infectieux     adj
-inférieur      adj f=inférieure
-infernal       adj
+inférieur      adj f=inférieure adv=inférieurement
+infernal       adj adv=infernalement
 infertile      adj
-infidèle       adj
-infime         adj
+infidèle       adj adv=infidèlement
+infime         adj adv=infimement
 infini         adj adv=infiniment
-infinitésimal  adj
+infinitésimal  adj adv=infinitésimalement
 infirme        adj
 inflammable    adj
 inflammatoire  adj
 inflationniste adj
-inflexible     adj
+inflexible     adj adv=inflexiblement
 influent       adj
 infographique  adj
 infondé        adj
 informatif     adj
 informationnel adj
-informatique   adj
+informatique   adj adv=informatiquement
 informe        adj
-informel       adj
+informel       adj adv=informellement
 infortuné      adj
 infranchissable adj
 infrarouge     adj
 infréquentable adj
-infructueux    adj
+infructueux    adj adv=infructueusement
 infus          adj note=science infuse
 ingénieux      adj adv=ingénieusement
 ingénu         adj adv=ingénument
@@ -378,20 +378,20 @@ inhabituel     adj adv=inhabituellement
 inhérent       adj
 inhibiteur     adj f=inhibitrice
 inhospitalier  adj
-inhumain       adj
+inhumain       adj adv=inhumainement
 inimaginable   adj
-inimitable     adj
+inimitable     adj adv=inimitablement
 ininflammable  adj
-inintelligible adj
+inintelligible adj adv=inintelligiblement
 inintéressant  adj
 ininterrompu   adj
-inique         adj
+inique         adj adv=iniquement
 initial        adj adv=initialement
 initiatique    adj
 injectable     adj
 injoignable    adj
 injouable      adj
-injurieux      adj
+injurieux      adj adv=injurieusement
 injuste        adj adv=injustement
 injustifiable  adj
 injustifié     adj
@@ -408,7 +408,7 @@ inondable      adj
 inopérable     adj
 inopérant      adj
 inopiné        adj adv=inopinément
-inopportun     adj
+inopportun     adj adv=inopportunément
 inopposable    adj
 inorganique    adj
 inorganisé     adj
@@ -422,18 +422,18 @@ inquisiteur    adj f=inquisitrice
 inquisitorial  adj
 insaisissable  adj
 insalubre      adj
-insatiable     adj
+insatiable     adj adv=insatiablement
 insatisfaisant adj
 insatisfait    adj
 insécable      adj
 insectivore    adj
 insensé        adj
 insensible     adj adv=insensiblement
-inséparable    adj
+inséparable    adj adv=inséparablement
 insidieux      adj adv=insidieusement
 insignifiant   adj
 insincère      adj
-insipide       adj
+insipide       adj adv=insipidement
 insistant      adj
 insolent       adj adv=insolemment
 insolite       adj
@@ -451,7 +451,7 @@ inspirant      adj
 instable       adj
 instantané     adj adv=instantanément
 instinctif     adj adv=instinctivement
-institutionnel adj
+institutionnel adj adv=institutionnellement
 instructif     adj
 instrumental   adj
 insubmersible  adj
@@ -465,22 +465,22 @@ insurmontable  adj
 insurrectionnel adj
 intact         adj
 intangible     adj
-intarissable   adj
+intarissable   adj adv=intarissablement
 intégral       adj adv=intégralement
 intégrant      adj note=mainly in partie intégrante
 intégratif     adj
-intègre        adj
+intègre        adj adv=intègrement
 intellectuel   adj adv=intellectuellement
 intelligent    adj adv=intelligemment
-intelligible   adj
-intempestif    adj
+intelligible   adj adv=intelligiblement
+intempestif    adj adv=intempestivement
 intemporel     adj
 intenable      adj
 intense        adj adv=intensément
 intensif       adj adv=intensivement
 intentionné    adj
 intentionnel   adj adv=intentionnellement
-interactif     adj
+interactif     adj adv=interactivement
 interannuel    adj
 interarmées    adj inv
 interarmes     adj inv
@@ -524,7 +524,7 @@ interprofessionnel adj
 interrégional  adj
 interreligieux adj
 interrogateur  adj f=interrogatrice
-interrogatif   adj
+interrogatif   adj adv=interrogativement
 intersidéral   adj
 interstellaire adj
 interstitiel   adj
@@ -540,7 +540,7 @@ intestinal     adj
 intime         adj adv=intimement
 intimidant     adj
 intimiste      adj
-intolérable    adj
+intolérable    adj adv=intolérablement
 intolérant     adj
 intouchable    adj
 intra-utérin   adj
@@ -583,11 +583,11 @@ inverse        adj adv=inversement
 inversible     adj
 invétéré       adj
 invincible     adj adv=invinciblement
-inviolable     adj
-invisible      adj
+inviolable     adj adv=inviolablement
+invisible      adj adv=invisiblement
 invivable      adj
 involontaire   adj adv=involontairement
-invraisemblable adj
+invraisemblable adj adv=invraisemblablement
 invulnérable   adj
 iodé           adj
 ionien         adj
@@ -599,7 +599,7 @@ irascible      adj
 irisé          adj
 irlandais      adj
 ironique       adj adv=ironiquement
-irrationnel    adj
+irrationnel    adj adv=irrationnellement
 irrattrapable  adj
 irréalisable   adj
 irréaliste     adj
@@ -607,25 +607,25 @@ irrecevable    adj
 irréconciliable adj
 irrécupérable  adj
 irrécusable    adj
-irréductible   adj
+irréductible   adj adv=irréductiblement
 irréel         adj
 irréfléchi     adj
 irréfragable   adj
-irréfutable    adj
+irréfutable    adj adv=irréfutablement
 irrégulier     adj adv=irrégulièrement
 irréligieux    adj
 irrémédiable   adj adv=irrémédiablement
 irremplaçable  adj
-irréparable    adj
-irrépressible  adj
-irréprochable  adj
+irréparable    adj adv=irréparablement
+irrépressible  adj adv=irrépressiblement
+irréprochable  adj adv=irréprochablement
 irrésistible   adj adv=irrésistiblement
 irrésolu       adj
-irrespectueux  adj
+irrespectueux  adj adv=irrespectueusement
 irrespirable   adj
-irresponsable  adj
-irrévérencieux adj
-irréversible   adj
+irresponsable  adj adv=irresponsablement
+irrévérencieux adj adv=irrévérencieusement
+irréversible   adj adv=irréversiblement
 irrévocable    adj adv=irrévocablement
 irritable      adj
 irritant       adj
@@ -650,7 +650,7 @@ israélo-palestinien adj
 issu           adj
 italien        adj
 italique       adj
-itératif       adj
+itératif       adj adv=itérativement
 itinérant      adj
 ivoirien       adj
 ivre           adj

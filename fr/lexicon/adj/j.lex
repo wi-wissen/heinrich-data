@@ -19,7 +19,7 @@ joufflu        adj
 jouissif       adj
 journalier     adj
 journalistique adj
-jovial         adj pl=joviaux|jovials
+jovial         adj pl=joviaux|jovials adv=jovialement
 joyeux         adj adv=joyeusement
 jubilatoire    adj
 judaïque       adj
