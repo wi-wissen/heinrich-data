@@ -1,17 +1,25 @@
 pacifier          verb
 pacser            verb
 paître            verb class=connaître ps=- pp=pu pp_inv conf=80 note=defective: no passé simple; past participle pu very rare
+palabrer          verb pp_inv
 pâlir             verb class=ir
 pallier           verb
 palper            verb
 palpiter          verb pp_inv
 pâmer             verb pronominal
 panacher          verb
+paner             verb
 paniquer          verb
 panser            verb
+panteler          verb note=è like geler; mostly participle pantelant
+papillonner       verb pp_inv
+papilloter        verb pp_inv
+papoter           verb pp_inv style=colloquial alt=bavarder
 parachever        verb
 parachuter        verb
 parader           verb pp_inv
+parafer           verb
+paraffiner        verb
 paraître          verb class=connaître
 paralyser         verb
 parapher          verb
@@ -20,13 +28,16 @@ parasiter         verb
 parcourir         verb class=courir
 pardonner         verb
 parer             verb
+paresser          verb pp_inv
 parfaire          verb class=faire
 parfumer          verb
 parier            verb
+parjurer          verb pronominal
 parlementer       verb pp_inv
 parler            verb
 parodier          verb
 parquer           verb
+parqueter         verb class=double_trad
 parrainer         verb
 parsemer          verb
 partager          verb
@@ -40,15 +51,19 @@ patenter          verb
 patienter         verb
 patiner           verb
 pâtir             verb class=ir pp_inv
+pâtisser          verb
+patouiller        verb style=colloquial
 patronner         verb
 patrouiller       verb
 pâturer           verb
+paumer            verb style=colloquial alt=perdre
 paver             verb
 pavoiser          verb
 payer             verb
 peaufiner         verb
 pécher            verb pp_inv
 pêcher            verb
+pédaler           verb
 peigner           verb
 peindre           verb class=peindre
 peiner            verb
@@ -56,9 +71,13 @@ peler             verb note=è like geler: pèle
 pelotonner        verb
 pénaliser         verb
 pencher           verb
+pendiller         verb pp_inv
+pendouiller       verb pp_inv style=colloquial
 pendre            verb class=rendre
 pénétrer          verb
 penser            verb
+pensionner        verb
+pépier            verb pp_inv
 percer            verb
 percevoir         verb class=recevoir
 percher           verb
@@ -68,17 +87,21 @@ perdurer          verb pp_inv
 pérenniser        verb
 perfectionner     verb
 perforer          verb
+performer         verb
 péricliter        verb pp_inv
 périmer           verb
 périr             verb class=ir pp_inv
 perler            verb
+permanenter       verb
 permettre         verb class=mettre
+permuter          verb
 pérorer           verb pp_inv
 perpétrer         verb
 perpétuer         verb
 perquisitionner   verb
 persécuter        verb
 persévérer        verb pp_inv
+persifler         verb
 persister         verb pp_inv
 personnaliser     verb
 personnifier      verb
@@ -87,27 +110,46 @@ perturber         verb
 pervertir         verb class=ir
 peser             verb
 pester            verb pp_inv
+pétarader         verb pp_inv
 péter             verb style=vulgar
 pétiller          verb pp_inv
+pétitionner       verb pp_inv
 pétrifier         verb
 pétrir            verb class=ir
 peupler           verb
 philosopher       verb pp_inv
+phosphorer        verb pp_inv style=colloquial
 photocopier       verb
 photographier     verb
+piaffer           verb pp_inv
+piailler          verb pp_inv
+pianoter          verb
+piauler           verb pp_inv
+picoler           verb style=colloquial alt=boire
 picorer           verb
 piéger            verb
 piétiner          verb
+pieuter           verb pronominal style=colloquial alt=se_coucher
+pigeonner         verb style=colloquial alt=duper
+piger             verb style=colloquial alt=comprendre
 piler             verb
 piller            verb
 pilonner          verb
 piloter           verb
+pimenter          verb
+pinailler         verb pp_inv style=colloquial alt=ergoter
 pincer            verb
 piocher           verb
+pioncer           verb pp_inv style=colloquial alt=dormir
+piper             verb
+pique-niquer      verb pp_inv
 piquer            verb
+piqueter          verb class=double_trad
 pirater           verb
 pirouetter        verb pp_inv
 pisser            verb style=vulgar alt=uriner
+pister            verb
+pistonner         verb style=colloquial
 pivoter           verb
 placer            verb
 plafonner         verb
@@ -116,23 +158,37 @@ plaider           verb
 plaindre          verb class=peindre
 plaire            verb class=plaire
 plaisanter        verb
+plancher          verb style=colloquial
 planer            verb
 planifier         verb
+planquer          verb style=colloquial alt=cacher
 planter           verb
 plaquer           verb
+plastifier        verb
+plastiquer        verb
+plastronner       verb pp_inv
+plâtrer           verb
 plébisciter       verb
 pleurer           verb
+pleurnicher       verb pp_inv
+pleuviner         verb impersonal
 pleuvoir          verb class=irr pres=pleus,pleuvons,pleuvent ps=plus fut=pleuvrai pp=plu pp_inv defective=inf|3|ppr|pp note=impersonal il pleut; 3rd plural for figurative les coups pleuvent
+pleuvoter         verb impersonal
 plier             verb
 plisser           verb
 plomber           verb
 plonger           verb
 ployer            verb
 plumer            verb
+pocher            verb
+poétiser          verb
 poignarder        verb
+poinçonner        verb
 poindre           verb class=peindre defective=inf|3 note=le jour point, poindra
 pointer           verb
 pointiller        verb
+poireauter        verb pp_inv style=colloquial alt=attendre
+poivrer           verb
 polariser         verb
 polémiquer        verb pp_inv
 policer           verb
@@ -140,20 +196,31 @@ polir             verb class=ir
 politiser         verb
 polluer           verb
 pomper            verb
+pomponner         verb
 poncer            verb
 ponctionner       verb
 ponctuer          verb
 pondérer          verb
 pondre            verb class=rendre
+pontifier         verb pp_inv
 populariser       verb
+poquer            verb
 porter            verb
+portraiturer      verb
 poser             verb
 positionner       verb
 posséder          verb
+postdater         verb
 poster            verb
+postillonner      verb pp_inv
+postposer         verb
 postuler          verb
+potasser          verb style=colloquial alt=étudier
 poudrer           verb
+pouffer           verb pp_inv
 pourchasser       verb
+pourfendre        verb class=rendre
+pourlécher        verb pronominal
 pourrir           verb class=ir
 poursuivre        verb class=suivre
 pourvoir          verb class=voir ps=pourvus fut=pourvoirai
@@ -161,7 +228,9 @@ pousser           verb
 pouvoir           verb class=pouvoir
 pratiquer         verb
 précariser        verb
+précautionner     verb pronominal
 précéder          verb
+préchauffer       verb
 prêcher           verb
 précipiter        verb
 préciser          verb
@@ -171,16 +240,21 @@ prédéfinir        verb class=ir
 prédestiner       verb
 prédéterminer     verb
 prédire           verb class=interdire
+prédisposer       verb
 prédominer        verb pp_inv
 préemballer       verb
 préempter         verb
+préenregistrer    verb
+préétablir        verb class=ir
 préexister        verb pp_inv
 préfabriquer      verb
 préfacer          verb
 préférer          verb
 préfigurer        verb
 préfinancer       verb
+préformer         verb
 préjuger          verb
+prélasser         verb pronominal
 prélever          verb
 préméditer        verb
 prémunir          verb class=ir
@@ -189,6 +263,7 @@ prénommer         verb
 préoccuper        verb
 préparer          verb
 prépayer          verb
+préposer          verb
 prépublier        verb
 préremplir        verb class=ir
 présager          verb
@@ -199,6 +274,7 @@ préserver         verb
 présider          verb
 pressentir        verb class=partir
 presser           verb
+pressurer         verb
 pressuriser       verb
 présumer          verb
 présupposer       verb
@@ -206,6 +282,7 @@ prétendre         verb class=rendre
 prêter            verb
 prétexter         verb
 prévaloir         verb class=valoir subj=prévale
+prévariquer       verb pp_inv
 prévenir          verb class=venir
 prévoir           verb class=voir fut=prévoirai
 prier             verb
@@ -215,8 +292,10 @@ priser            verb
 privatiser        verb
 priver            verb
 privilégier       verb
+problématiser     verb
 procéder          verb
 proclamer         verb
+procrastiner      verb pp_inv
 procréer          verb
 procurer          verb
 prodiguer         verb
@@ -231,14 +310,17 @@ programmer        verb
 progresser        verb
 prohiber          verb
 projeter          verb class=double
+prolétariser      verb
 proliférer        verb pp_inv
 prolonger         verb
 promener          verb
 promettre         verb class=mettre
+promotionner      verb
 promouvoir        verb class=mouvoir
 promulguer        verb
 prôner            verb
 prononcer         verb
+pronostiquer      verb
 propager          verb
 prophétiser       verb
 proportionner     verb
@@ -255,11 +337,17 @@ prouver           verb
 provenir          verb class=venir aux=être
 provisionner      verb
 provoquer         verb
+psalmodier        verb
+psychanalyser     verb
+psychiatriser     verb
+publiciser        verb
 publier           verb
 puer              verb
 puiser            verb
 pulluler          verb pp_inv
 pulvériser        verb
+punaiser          verb
 punir             verb class=ir
 purger            verb
 purifier          verb
+putréfier         verb
