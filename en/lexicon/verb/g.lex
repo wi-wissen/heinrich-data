@@ -14,7 +14,7 @@ gas            verb
 gasp           verb
 gather         verb
 gauge          verb
-gawp verb region=GB style=colloquial
+gawp verb region=GB style=colloquial alt=stare
 gaze           verb
 gazette verb note=to announce officially (gazetted)
 gear           verb
@@ -48,6 +48,7 @@ gnaw verb
 go             verb 3sg=goes past=went pp=gone
 goad verb
 gobble verb
+goof verb style=colloquial alt=blunder
 google verb
 gore verb
 gorge          verb
@@ -73,6 +74,7 @@ grimace verb
 grin           verb
 grind          verb past=ground pp=ground
 grip           verb
+gripe verb style=colloquial alt=complain
 grit verb
 groan          verb
 groom verb

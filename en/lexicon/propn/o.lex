@@ -37,4 +37,4 @@ Oslo          propn
 Ottawa        propn
 Oxford        propn
 Oxfordshire propn
-Oz propn style=colloquial conf=90 note=Australia; also the Land of Oz
+Oz propn conf=90 note=Australia; also the Land of Oz

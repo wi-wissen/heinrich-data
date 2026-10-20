@@ -40,7 +40,7 @@ telephone verb
 televise verb
 telework verb
 tell verb past=told pp=told
-temp verb style=colloquial note=to work as a temporary employee
+temp verb style=colloquial alt=work_temporarily note=to work as a temporary employee
 temper verb
 tempt verb
 tend verb

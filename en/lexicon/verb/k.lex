@@ -4,7 +4,7 @@ key            verb
 keynote verb
 kick           verb
 kickstart verb
-kid            verb
+kid            verb style=colloquial alt=joke|tease
 kidnap         verb double
 kill           verb
 kindle verb

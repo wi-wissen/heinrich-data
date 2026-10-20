@@ -1,4 +1,4 @@
-pa noun style=colloquial note=father
+pa noun style=colloquial alt=father note=father
 pace noun
 pacemaker noun
 pacification noun
@@ -32,7 +32,7 @@ pajamas noun pl_only gb=pyjamas
 Paki noun style=offensive note=slur for South Asians, especially Pakistanis
 Pakistani noun note=demonym or religious name, capitalized
 pakora noun
-pal noun style=colloquial
+pal noun style=colloquial alt=friend
 palace noun
 palate noun
 palaver noun
@@ -648,7 +648,7 @@ ponytail noun
 ponzu noun pl=- note=uncountable
 poofter noun style=offensive note=homophobic slur
 pool noun
-poop noun
+poop noun style=colloquial alt=excrement
 pop noun
 popcorn noun pl=- note=uncountable
 pope noun
@@ -667,7 +667,7 @@ porcini noun pl=- conf=90 note=used as singular and plural
 porcupine noun
 pore noun
 pork noun pl=- note=uncountable
-porn noun pl=- style=colloquial note=uncountable
+porn noun pl=- style=colloquial alt=pornography note=uncountable
 pornography noun pl=- note=uncountable
 porpoise noun
 porridge noun pl=- note=uncountable
@@ -889,6 +889,7 @@ producer noun
 product noun
 production noun
 productivity noun pl=- note=uncountable
+prof noun pl=profs style=colloquial alt=professor
 profanity noun
 profession noun
 professional noun

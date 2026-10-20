@@ -63,7 +63,7 @@ offsite noun conf=85 note=meeting held away from the office
 offspring     noun pl=offspring
 oil           noun
 okra noun pl=- note=uncountable
-oldie noun style=colloquial
+oldie noun style=colloquial alt=old_favourite|old_person
 OLED noun abbr note=organic light-emitting diode
 oligarch noun pl=oligarchs
 oligarchy noun
@@ -87,7 +87,7 @@ onset         noun
 onslaught noun
 onus noun pl=- note=singular only
 oolong noun pl=- note=uncountable
-op noun style=colloquial note=short for operation: photo op, special ops
+op noun note=short for operation: photo op, special ops
 opacity noun
 opal noun
 opener noun

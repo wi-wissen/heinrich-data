@@ -55,6 +55,7 @@ peal verb
 peck verb
 pedal verb
 peddle verb
+pee verb style=colloquial alt=urinate
 peek verb
 peel verb
 peep verb
@@ -162,7 +163,7 @@ poll verb
 pollute verb
 ponder verb
 pool verb
-poop verb
+poop verb style=colloquial alt=defecate
 pop verb
 popularize verb gb=popularise|popularize
 populate verb
@@ -277,6 +278,7 @@ pry verb
 publicize verb gb=publicise|publicize
 publish verb
 puff verb
+puke verb style=colloquial alt=vomit
 pull verb
 pulse verb
 pummel verb

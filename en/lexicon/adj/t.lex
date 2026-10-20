@@ -27,7 +27,7 @@ technological adj adv=technologically
 tectonic adj
 tedious adj cmp=more adv=tediously
 teenage adj
-teeny adj style=colloquial
+teeny adj style=colloquial alt=tiny
 telltale adj
 temperate adj
 tempestuous adj cmp=more adv=tempestuously

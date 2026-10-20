@@ -43,13 +43,14 @@ underwear noun pl=- note=uncountable
 underworld noun
 underwriter noun
 underwriting noun pl=- note=uncountable
+undies noun pl_only style=colloquial alt=underwear
 undocumented noun conf=90 note=the undocumented: people without papers; usually plural sense
 undulation noun
 uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unfairness noun
 unhappiness noun pl=- note=uncountable
-uni noun region=GB style=colloquial note=university
+uni noun region=GB style=colloquial alt=university note=university
 unicorn noun
 unification noun
 uniform       noun

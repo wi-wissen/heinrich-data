@@ -1,3 +1,4 @@
+nab verb style=colloquial alt=catch|arrest
 nail          verb
 name          verb
 nap verb

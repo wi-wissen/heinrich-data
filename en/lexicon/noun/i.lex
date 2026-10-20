@@ -204,7 +204,7 @@ influence      noun
 influencer noun
 influenza      noun pl=- note=uncountable
 influx         noun
-info noun pl=- style=colloquial note=information
+info noun pl=- style=colloquial alt=information note=information
 informant noun
 information    noun pl=- note=uncountable
 infraction noun

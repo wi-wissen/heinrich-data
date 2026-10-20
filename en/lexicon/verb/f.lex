@@ -98,6 +98,7 @@ flourish       verb
 flow           verb
 flower         verb
 fluctuate verb
+flunk verb style=colloquial alt=fail
 flush          verb
 flutter verb
 fly            verb past=flew pp=flown

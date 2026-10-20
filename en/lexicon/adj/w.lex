@@ -1,3 +1,4 @@
+wacky adj cmp=er style=colloquial alt=eccentric|odd
 walled adj
 wan adj cmp=er
 wanton adj adv=wantonly

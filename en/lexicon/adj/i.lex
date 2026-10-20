@@ -1,6 +1,6 @@
 Iberian adj
 Icelandic      adj
-icky adj style=colloquial
+icky adj style=colloquial alt=unpleasant
 iconic         adj
 icy adj cmp=er adv=icily
 ideal          adj adv=ideally
@@ -11,6 +11,7 @@ ideological    adj adv=ideologically
 idiotic adj cmp=more adv=idiotically
 idle           adj cmp=er adv=idly
 idyllic adj adv=idyllically
+iffy adj cmp=er style=colloquial alt=doubtful|uncertain
 igneous adj
 ignoble adj
 ignominious adj adv=ignominiously

@@ -127,7 +127,7 @@ well noun
 wellbeing noun pl=- note=also spelled well-being
 wellington noun region=GB note=rubber boot, usually plural
 wellness noun pl=- note=uncountable
-welly noun pl=wellies region=GB style=colloquial note=wellington boot
+welly noun pl=wellies region=GB style=colloquial alt=wellington_boot note=wellington boot
 Welsh noun pl=- note=the language; the Welsh = the people
 welterweight noun
 wench noun

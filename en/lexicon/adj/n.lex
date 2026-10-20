@@ -1,3 +1,4 @@
+naff adj cmp=er region=GB style=colloquial alt=tasteless|unfashionable
 naive adj cmp=er|more adv=naively
 naked           adj adv=nakedly
 nameless adj
@@ -40,7 +41,7 @@ neoclassical adj
 neoliberal adj
 Neolithic adj
 neonatal adj
-nerdy adj cmp=er
+nerdy adj cmp=er style=colloquial
 nervous         adj cmp=more adv=nervously
 net             adj attr_only
 nether adj attr_only
@@ -54,6 +55,7 @@ newborn adj
 newfound adj attr_only
 next            adj
 nice            adj cmp=er adv=nicely
+nifty adj cmp=er style=colloquial alt=clever|handy
 Nigerian        adj
 nightly adj
 nimble adj cmp=er adv=nimbly

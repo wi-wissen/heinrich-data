@@ -250,6 +250,7 @@ preventative adj
 preventive adj
 previous adj adv=previously
 priceless adj
+pricey adj cmp=er|more style=colloquial alt=expensive note=also pricy
 prickly adj cmp=er
 priestly adj
 prim adj cmp=er

@@ -144,7 +144,7 @@ leeward noun pl=- note=uncountable
 left          noun
 leftist noun
 leftover noun
-lefty noun style=colloquial
+lefty noun style=colloquial alt=left-hander|left-winger
 leg           noun
 legacy        noun
 legality noun
@@ -362,7 +362,7 @@ longfin noun conf=90 note=fish name modifier, as in longfin tuna
 longing       noun
 longitude noun
 longline noun
-loo noun region=GB style=colloquial note=toilet
+loo noun region=GB style=colloquial alt=toilet note=toilet
 loofah noun
 look          noun
 look-alike noun note=also written lookalike

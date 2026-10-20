@@ -106,7 +106,7 @@ moan verb
 mob           verb
 mobilize verb gb=mobilise|mobilize
 mock          verb
-mod verb style=colloquial note=to modify (software, vehicles)
+mod verb note=to modify (software, vehicles)
 model         verb
 moderate      verb
 modernize verb gb=modernise|modernize

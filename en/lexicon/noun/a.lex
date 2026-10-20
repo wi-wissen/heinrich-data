@@ -135,7 +135,7 @@ adjudication noun
 adjudicator noun
 adjunct noun
 adjustment noun
-admin noun pl=- style=colloquial note=short for administration
+admin noun pl=- style=colloquial alt=administration|administrator note=short for administration
 administration noun
 administrator noun
 admiral noun

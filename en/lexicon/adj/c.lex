@@ -93,6 +93,7 @@ chromatic adj
 chronic adj adv=chronically
 chronological adj adv=chronologically
 chubby adj cmp=er
+chuffed adj region=GB style=colloquial alt=pleased|delighted
 chunky adj cmp=er
 cinematic adj
 circadian adj
@@ -159,7 +160,7 @@ combustible adj
 comedic adj
 comely adj cmp=er
 comfortable adj cmp=more adv=comfortably
-comfy adj cmp=er style=colloquial
+comfy adj cmp=er style=colloquial alt=comfortable
 comic adj
 comical adj adv=comically
 commemorative adj
@@ -324,6 +325,7 @@ crafty adj cmp=er adv=craftily
 cramped adj cmp=more
 cranial adj
 cranky adj cmp=er
+crappy adj cmp=er style=colloquial|offensive alt=poor|bad note=vulgar
 craven adj adv=cravenly
 crazed adj
 crazy adj cmp=er adv=crazily
