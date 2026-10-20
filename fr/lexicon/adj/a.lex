@@ -62,6 +62,7 @@ acharné            adj
 achéménide         adj
 achevé             adj
 acide              adj
+acidophile         adj
 acidulé            adj
 acousmatique       adj
 acoustique         adj
@@ -176,6 +177,7 @@ alambiqué          adj
 alarmant           adj
 alarmiste          adj
 albanais           adj
+albertain          adj
 albinos            adj inv
 alcalin            adj
 alchimique         adj
@@ -189,6 +191,7 @@ alezan             adj
 algébrique         adj
 algérien           adj
 algonquien         adj
+algonquin          adj
 algorithmique      adj
 aliénable          adj
 aliénant           adj
@@ -288,6 +291,7 @@ anglican           adj
 anglo-américain    adj
 anglo-normand      adj
 anglo-saxon        adj f=anglo-saxonne pl=anglo-saxons fpl=anglo-saxonnes
+anglophile         adj
 anglophobe         adj
 anglophone         adj
 angoissant         adj
@@ -306,6 +310,7 @@ annemassien        adj
 annonciateur       adj f=annonciatrice
 annuel             adj adv=annuellement
 anodin             adj
+anodique           adj
 anomal             adj
 anonyme            adj adv=anonymement
 anorexique         adj
@@ -335,6 +340,7 @@ anticlérical       adj
 anticommuniste     adj
 anticoncurrentiel  adj
 anticonstitutionnel adj
+anticontournement  adj inv
 anticorrida        adj inv
 anticorruption     adj inv
 antidémocratique   adj
@@ -342,13 +348,17 @@ antidérapant       adj
 antidiabétique     adj
 antidopage         adj inv
 antiémeute         adj
+antifa             adj inv style=colloquial alt=antifasciste
 antifasciste       adj
+antigouvernemental adj
 antilibéral        adj
 antillais          adj
 antimilitariste    adj
+antimissile        adj
 antimondialiste    adj
 antimusulman       adj
 antinucléaire      adj
+antioxydant        adj
 antiparasite       adj
 antipathique       adj
 antipersonnel      adj inv
@@ -383,6 +393,7 @@ apoplectique       adj
 apostolique        adj
 apparent           adj adv=apparemment
 apparenté          adj
+appelant           adj
 appétissant        adj
 applicable         adj
 applicatif         adj
@@ -434,6 +445,7 @@ argentin           adj
 argentique         adj
 argileux           adj
 argotique          adj
+argovien           adj
 argumentatif       adj
 aride              adj
 arien              adj note=relating to Arianism
@@ -456,6 +468,7 @@ artificiel         adj adv=artificiellement
 artisanal          adj adv=artisanalement
 artistique         adj adv=artistiquement
 aryen              adj
+arythmogène        adj
 ascendant          adj
 ascétique          adj
 aseptique          adj
@@ -490,6 +503,7 @@ astucieux          adj adv=astucieusement
 asymétrique        adj
 asymptotique       adj
 asynchrone         adj
+atavique           adj
 athée              adj
 athénien           adj
 athlétique         adj
@@ -587,6 +601,8 @@ ayurvédique        adj
 ayyoubide          adj
 azerbaïdjanais     adj
 azéri              adj
+azerty             adj inv
+azimutal           adj
 azoté              adj
 aztèque            adj
 azuré              adj

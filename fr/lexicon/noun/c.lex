@@ -307,6 +307,7 @@ carbonisation      noun g=f
 carbonyle          noun g=m
 carburant          noun g=m
 carburateur        noun g=m
+carcajou           noun g=m note=regular plural
 carcan             noun g=m
 carcasse           noun g=f
 carcinome          noun g=m
@@ -347,6 +348,7 @@ carne              noun g=f style=colloquial
 carnet             noun g=m
 carnier            noun g=m
 carnivore          noun g=m
+caroncule          noun g=f
 carotide           noun g=f
 carotte            noun g=f
 carpe              noun g=f
@@ -536,6 +538,7 @@ cerceau            noun g=m
 cerclage           noun g=m
 cercle             noun g=m
 cercopithèque      noun g=m
+cercosporiose      noun g=f
 cercueil           noun g=m
 céréale            noun g=f
 céréalier          noun g=m
@@ -553,6 +556,7 @@ certificat         noun g=m
 certificateur      noun g=m f=certificatrice
 certification      noun g=f
 certitude          noun g=f
+céruloplasmine     noun g=f
 cérumen            noun g=m
 céruse             noun g=f
 cerveau            noun g=m
@@ -822,6 +826,7 @@ chic               noun g=m
 chicane            noun g=f
 chicanerie         noun g=f
 chichi             noun g=m style=colloquial
+chichon            noun g=m style=colloquial alt=haschisch
 chicorée           noun g=f
 chicot             noun g=m
 chien              noun g=m f=chienne
@@ -1059,9 +1064,11 @@ clientèle          noun g=f
 clientélisme       noun g=m
 clignement         noun g=m
 clignotant         noun g=m
+clim               noun g=f style=colloquial alt=climatisation
 climat             noun g=m
 climatisation      noun g=f
 climatiseur        noun g=m
+climato-sceptique  noun g=m|f rect=climatosceptique
 climatologie       noun g=f
 climatologue       noun g=m|f
 clin               noun g=m note=clin d'œil
@@ -1085,6 +1092,7 @@ cloître            noun g=m rect=cloitre
 clonage            noun g=m
 clone              noun g=m
 clope              noun g=f style=colloquial alt=cigarette
+clopinettes        noun g=f pl_only style=colloquial alt=rien note=des clopinettes
 cloporte           noun g=m
 cloque             noun g=f
 clôture            noun g=f
@@ -1312,6 +1320,7 @@ commodité          noun g=f
 commodore          noun g=m
 commotion          noun g=f
 communard          noun g=m
+communautarisation noun g=f
 communautarisme    noun g=m
 communauté         noun g=f
 commune            noun g=f
@@ -1417,6 +1426,7 @@ conciliateur       noun g=m f=conciliatrice
 conciliation       noun g=f
 concision          noun g=f
 concitoyen         noun g=m f=concitoyenne
+concitoyenneté     noun g=f
 conclave           noun g=m
 conclusion         noun g=f
 concombre          noun g=m
@@ -1818,6 +1828,7 @@ correspondant      noun g=m f=correspondante
 corrida            noun g=f
 corridor           noun g=m
 corrosion          noun g=f
+corroyage          noun g=m
 corrupteur         noun g=m f=corruptrice
 corruption         noun g=f
 corsage            noun g=m
@@ -1882,6 +1893,7 @@ coudrier           noun g=m
 couenne            noun g=f
 couette            noun g=f
 couffin            noun g=m
+cougar             noun g=m note=the animal (puma); colloquial for an older woman seeking younger men
 couille            noun g=f style=vulgar alt=testicule
 couillon           noun g=m f=couillonne style=vulgar alt=imbécile
 coulage            noun g=m
@@ -2149,9 +2161,11 @@ crustacé           noun g=m
 cryogénie          noun g=f
 cryptage           noun g=m
 crypte             noun g=f
+crypto             noun g=f style=colloquial alt=cryptomonnaie
 cryptogramme       noun g=m
 cryptographie      noun g=f
 cryptologie        noun g=f
+cryptomonnaie      noun g=f
 cubage             noun g=m
 cubain             noun g=m f=cubaine
 cube               noun g=m
@@ -2238,11 +2252,13 @@ cyberharcèlement   noun g=m
 cybernéticien      noun g=m f=cybernéticienne
 cybernétique       noun g=f
 cybersécurité      noun g=f
+cycas              noun g=m
 cyclamen           noun g=m
 cycle              noun g=m
 cyclisme           noun g=m
 cycliste           noun g=m|f
 cyclo-cross        noun g=m pl=cyclo-cross rect=cyclocross rect_pl=cyclocross
+cyclo-crossman     noun g=m pl=cyclo-crossmans
 cyclohexane        noun g=m
 cyclomoteur        noun g=m
 cyclone            noun g=m

@@ -39,6 +39,7 @@ batifoler      verb pp_inv
 bâtir          verb class=ir
 battre         verb class=battre
 bavarder       verb pp_inv
+bavasser       verb style=colloquial alt=bavarder
 baver          verb
 bayer          verb note=bayer aux corneilles
 bazarder       verb style=colloquial
@@ -94,6 +95,7 @@ bomber         verb
 bonder         verb
 bondir         verb class=ir pp_inv
 bonifier       verb
+bordéliser     verb style=colloquial
 border         verb
 borner         verb
 bosseler       verb class=double_trad
