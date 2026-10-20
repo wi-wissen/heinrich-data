@@ -403,6 +403,7 @@ phosphate noun
 phosphorus noun pl=- note=uncountable
 phosphorylation noun
 photo noun vb=take|snap xvb=make|do? pl=photos
+photobomb noun
 photocopier noun
 photocopy noun
 photograph noun vb=take xvb=make?|do?

@@ -60,7 +60,7 @@ chambered adj
 chaotic adj cmp=more adv=chaotically
 characteristic adj prep=of adv=characteristically
 chargeable adj
-charged adj cmp=more comp=p_ing|to prep=with
+charged adj comp=p_ing|to prep=with cmp=more
 charismatic adj cmp=more adv=charismatically
 charitable adj adv=charitably
 charming adj cmp=more adv=charmingly
@@ -168,7 +168,7 @@ commemorative adj
 commendable adj adv=commendably
 commensurate adj
 commercial adj adv=commercially
-committed adj cmp=more comp=to|p_ing prep=to
+committed adj comp=to|p_ing prep=to cmp=more
 commodious adj
 common adj comp=to|that prep=to|among|in|for cmp=er|more adv=commonly
 commonplace adj
@@ -231,7 +231,7 @@ congregational adj
 congressional adj
 congruent adj
 conical adj
-connected adj cmp=more prep=to|with
+connected adj prep=to|with cmp=more
 connective adj
 conscientious adj cmp=more adv=conscientiously
 conscious adj comp=that|wh|p_ing|to prep=of xprep=about? cmp=more adv=consciously
@@ -284,7 +284,7 @@ conversational adj adv=conversationally
 converse adj adv=conversely
 convertible adj
 convex adj
-convinced adj cmp=more comp=that prep=of
+convinced adj comp=that prep=of cmp=more
 convincing adj cmp=more adv=convincingly
 convulsive adj adv=convulsively
 cool adj comp=that prep=with|about|to cmp=er adv=coolly

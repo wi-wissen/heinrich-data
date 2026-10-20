@@ -25,6 +25,7 @@ geotag verb double conf=90 note=new word; doubling as in tag, tagged
 gesticulate verb
 gesture        verb
 get            verb comp=to|ing|obj_to|obj_ing|bare|that past=got pp=got|gotten[US]
+ghost verb
 giggle verb
 gild           verb
 give           verb past=gave pp=given

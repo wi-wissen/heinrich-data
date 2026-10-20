@@ -99,6 +99,7 @@ petrify verb
 phase verb
 phish verb
 phone verb xprep=with?|to?
+photobomb verb
 photocopy verb
 photograph verb
 phrase verb

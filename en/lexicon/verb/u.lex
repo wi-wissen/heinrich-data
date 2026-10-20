@@ -1,6 +1,7 @@
 umpire verb
 unbind verb prefix=un past=unbound pp=unbound
 unblock verb
+unbox verb
 uncoil verb
 uncover       verb
 undercharge verb
@@ -60,6 +61,7 @@ uproot verb
 upsell verb prefix=up past=upsold pp=upsold conf=85
 upset         verb prefix=up past=upset pp=upset
 upskill verb conf=85
+upvote verb
 urbanize verb gb=urbanise|urbanize
 urge          verb comp=obj_to|that
 use           verb

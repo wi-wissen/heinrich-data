@@ -85,6 +85,8 @@ bike verb
 bill verb
 billow verb
 bind verb past=bound pp=bound
+binge verb ing=bingeing|binging
+binge-watch verb
 bisect verb
 bitch verb style=colloquial
 bite verb past=bit pp=bitten

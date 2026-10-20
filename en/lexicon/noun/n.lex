@@ -96,6 +96,7 @@ news          noun pl=- note=uncountable, singular agreement
 newsagent noun region=GB
 newscast noun
 newsdesk noun
+newsfeed noun
 newsletter noun
 newspaper     noun
 newsroom noun

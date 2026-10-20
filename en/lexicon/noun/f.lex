@@ -45,7 +45,9 @@ famine         noun
 fan            noun
 fanatic noun
 fanaticism noun pl=- note=uncountable
+fanbase noun
 fancy          noun
+fandom noun
 fanfare noun
 fang noun
 fantasy        noun
@@ -347,6 +349,7 @@ follicle noun
 follow-up      noun
 follower       noun
 folly          noun
+FOMO noun abbr pl=- note=fear of missing out
 fondness noun prep=for
 fondue noun
 font noun

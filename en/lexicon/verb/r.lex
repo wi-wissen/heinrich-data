@@ -258,6 +258,7 @@ reserve verb
 reset verb past=reset pp=reset double
 resettle verb
 reshape verb
+reshare verb
 reshuffle verb
 reside verb
 resign verb prep=from|as|to

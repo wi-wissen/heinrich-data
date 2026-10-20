@@ -296,10 +296,12 @@ binary noun
 binbag noun region=GB conf=80 note=also bin bag
 binder noun
 binding noun
+binge noun
 bingo noun pl=- note=uncountable
 binoculars noun pl_only
 binomial noun
 bint noun style=offensive note=British slang, derogatory for a woman
+bio noun style=colloquial alt=biography
 biochemist noun
 biochemistry noun pl=- note=uncountable
 biodiesel noun pl=- note=uncountable

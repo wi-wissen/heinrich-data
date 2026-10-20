@@ -501,6 +501,7 @@ division noun
 divorce noun
 dizziness noun pl=- note=uncountable
 DJ noun abbr note=disc jockey
+DM noun abbr note=direct message
 DME noun abbr pl=- note=durable medical equipment
 DNA noun abbr pl=- note=deoxyribonucleic acid
 DNS noun abbr pl=- note=Domain Name System
@@ -547,6 +548,7 @@ donkey noun
 donor noun
 doodle noun
 doom noun
+doomscrolling noun pl=- note=uncountable
 doomsday noun
 door noun
 doorbell noun
@@ -582,6 +584,7 @@ downstairs noun pl=- note=the downstairs
 downtime noun pl=- note=uncountable
 downtown noun
 downturn noun
+downvote noun
 dowry noun
 draft noun
 drag noun
