@@ -89,6 +89,7 @@ accent             noun g=m
 accentuation       noun g=f
 acceptabilité      noun g=f
 acceptation        noun g=f
+accepteur          noun g=m
 acception          noun g=f
 accès              noun g=m
 accessibilité      noun g=f
@@ -103,6 +104,7 @@ acclamation        noun g=f
 acclimatation      noun g=f
 accointance        noun g=f
 accolade           noun g=f
+accommodation      noun g=f
 accommodement      noun g=m
 accompagnant       noun g=m f=accompagnante
 accompagnateur     noun g=m f=accompagnatrice
@@ -133,6 +135,7 @@ accusateur         noun g=m f=accusatrice
 accusatif          noun g=m
 accusation         noun g=f
 accusé             noun g=m f=accusée
+acétabulum         noun g=m
 acétate            noun g=m
 achalandage        noun g=m
 acharnement        noun g=m
@@ -168,6 +171,7 @@ acte               noun g=m
 acteur             noun g=m f=actrice
 actif              noun g=m
 actinium           noun g=m
+actinomycète       noun g=m
 action             noun g=f
 actionnaire        noun g=m|f
 actionnariat       noun g=m
@@ -192,8 +196,10 @@ addictologie       noun g=f
 additif            noun g=m
 addition           noun g=f
 adduction          noun g=f
+adénosine          noun g=f
 adepte             noun g=m|f
 adéquation         noun g=f
+adessif            noun g=m
 adhérence          noun g=f
 adhérent           noun g=m f=adhérente
 adhésif            noun g=m
@@ -245,6 +251,7 @@ aération           noun g=f
 aéro-club          noun g=m pl=aéro-clubs
 aérobic            noun g=m
 aérodrome          noun g=m
+aérodyne           noun g=m
 aérogare           noun g=f
 aéroglisseur       noun g=m
 aérolithe          noun g=m
@@ -308,6 +315,7 @@ agencement         noun g=m
 agenda             noun g=m
 agenouillement     noun g=m
 agent              noun g=m f=agente
+aggiornamento      noun g=m
 agglomérat         noun g=m
 agglomération      noun g=f
 aggloméré          noun g=m
@@ -327,6 +335,7 @@ agrafage           noun g=m
 agrafe             noun g=f
 agrafeuse          noun g=f
 agrandissement     noun g=m
+agrarisme          noun g=m
 agrégat            noun g=m
 agrégateur         noun g=m
 agrégation         noun g=f
@@ -339,12 +348,14 @@ agressivité        noun g=f
 agriculteur        noun g=m f=agricultrice
 agriculture        noun g=f
 agroalimentaire    noun g=m
+agrobiodiversité   noun g=f
 agrocarburant      noun g=m
 agrochimie         noun g=f
 agroécologie       noun g=f
 agroforesterie     noun g=f
 agronome           noun g=m|f
 agronomie          noun g=f
+agrotourisme       noun g=m
 agrume             noun g=m
 aguets             noun g=m pl_only note=aux aguets
 aidant             noun g=m f=aidante
@@ -390,6 +401,7 @@ ajout              noun g=m
 ajustage           noun g=m
 ajustement         noun g=m
 ajusteur           noun g=m f=ajusteuse
+akène              noun g=m
 alaise             noun g=f
 alambic            noun g=m
 alarme             noun g=f
@@ -398,10 +410,12 @@ albâtre            noun g=m
 albatros           noun g=m
 albédo             noun g=m
 albinos            noun g=m|f
+albite             noun g=f
 album              noun g=m
 albumine           noun g=f
 alcalinité         noun g=f
 alcaloïde          noun g=m
+alcane             noun g=m
 alchimie           noun g=f
 alchimiste         noun g=m|f
 alcool             noun g=m
@@ -424,6 +438,7 @@ algarade           noun g=f
 algèbre            noun g=f
 algérien           noun g=m f=algérienne
 algorithme         noun g=m
+algorithmie        noun g=f
 algue              noun g=f
 alibi              noun g=m
 aliénation         noun g=f
@@ -461,7 +476,9 @@ allocation         noun g=f
 allocution         noun g=f
 allongement        noun g=m
 allopathie         noun g=f
+allophone          noun g=m|f
 allotissement      noun g=m
+allotrope          noun g=m
 allumage           noun g=m
 allumette          noun g=f
 allumeur           noun g=m
@@ -495,6 +512,7 @@ altruisme          noun g=m
 alu                noun g=m style=colloquial alt=aluminium
 alumine            noun g=f
 aluminium          noun g=m
+aluminosilicate    noun g=m
 alunissage         noun g=m
 alvéole            noun g=m|f
 amabilité          noun g=f
@@ -512,6 +530,7 @@ amas               noun g=m
 amateur            noun g=m|f note=feminine also amatrice
 amateurisme        noun g=m
 amazone            noun g=f
+amazonite          noun g=f
 ambages            noun g=f pl_only note=sans ambages
 ambassade          noun g=f
 ambassadeur        noun g=m f=ambassadrice
@@ -540,6 +559,7 @@ ami                noun g=m f=amie
 amiante            noun g=m
 amibe              noun g=f
 amicale            noun g=f
+amide              noun g=m
 amidon             noun g=m
 amine              noun g=f
 amiral             noun g=m
@@ -583,6 +603,7 @@ amuseur            noun g=m f=amuseuse
 amygdale           noun g=f
 amygdalite         noun g=f
 an                 noun g=m
+anabaptiste        noun g=m|f
 anabolisant        noun g=m
 anachorète         noun g=m
 anachronisme       noun g=m
@@ -612,6 +633,7 @@ ancre              noun g=f
 andain             noun g=m
 andésite           noun g=f
 andouille          noun g=f
+androïde           noun g=m
 âne                noun g=m f=ânesse
 anéantissement     noun g=m
 anecdote           noun g=f
@@ -626,6 +648,7 @@ anévrisme          noun g=m
 anfractuosité      noun g=f
 ange               noun g=m
 angélisme          noun g=m
+angelot            noun g=m
 angélus            noun g=m
 angine             noun g=f
 angiome            noun g=m
@@ -646,6 +669,7 @@ animalité          noun g=f
 animateur          noun g=m f=animatrice
 animation          noun g=f
 animisme           noun g=m
+animiste           noun g=m|f
 animosité          noun g=f
 anion              noun g=m
 anis               noun g=m
@@ -679,11 +703,13 @@ antagoniste        noun g=m|f
 antalgique         noun g=m
 antan              noun g=m note=d'antan
 antécédent         noun g=m
+antémémoire        noun g=f
 antenne            noun g=f
 antériorité        noun g=f
 anthologie         noun g=f
 anthracite         noun g=m
 anthrax            noun g=m
+anthropocentrisme  noun g=m
 anthropologie      noun g=f
 anthropologue      noun g=m|f
 anthropomorphisme  noun g=m
@@ -698,6 +724,7 @@ anticolonialisme   noun g=m
 anticorps          noun g=m
 anticyclone        noun g=m
 antidépresseur     noun g=m
+antidiabétique     noun g=m
 antidote           noun g=m
 antienne           noun g=f
 antigel            noun g=m
@@ -748,6 +775,7 @@ apiculture         noun g=f
 apitoiement        noun g=m
 aplanissement      noun g=m
 aplat              noun g=m
+aplatissement      noun g=m
 aplomb             noun g=m
 apnée              noun g=f
 apocalypse         noun g=f
@@ -758,6 +786,8 @@ apologiste         noun g=m|f
 apologue           noun g=m
 apophyse           noun g=f
 apoplexie          noun g=f
+apoprotéine        noun g=f
+aporie             noun g=f
 apostasie          noun g=f
 apostat            noun g=m f=apostate
 apostille          noun g=f
@@ -838,6 +868,7 @@ arabesque          noun g=f
 arabisant          noun g=m f=arabisante
 arachide           noun g=f
 arachnide          noun g=m
+arachnoïde         noun g=f
 araignée           noun g=f
 arbalète           noun g=f
 arbalétrier        noun g=m
@@ -861,8 +892,10 @@ arceau             noun g=m
 archaïsme          noun g=m
 archange           noun g=m
 arche              noun g=f
+archée             noun g=f note=micro-organism
 archéologie        noun g=f
 archéologue        noun g=m|f
+archéométrie       noun g=f
 archer             noun g=m
 archet             noun g=m
 archétype          noun g=m
@@ -882,6 +915,7 @@ archivage          noun g=m
 archive            noun g=f note=mostly plural: les archives
 archiviste         noun g=m|f
 archivolte         noun g=f
+archosaurien       noun g=m
 arçon              noun g=m
 ardeur             noun g=f
 ardoise            noun g=f
@@ -891,6 +925,7 @@ arène              noun g=f
 arête              noun g=f
 argent             noun g=m
 argenterie         noun g=f
+argentier          noun g=m
 argentin           noun g=m f=argentine
 argenture          noun g=f
 argile             noun g=f
@@ -1003,7 +1038,10 @@ ascension          noun g=f
 ascèse             noun g=f
 ascète             noun g=m|f
 ascétisme          noun g=m
+ashkénaze          noun g=m|f
+ashram             noun g=m
 asiatique          noun g=m|f
+asiatisme          noun g=m
 asile              noun g=m
 aspartame          noun g=m
 aspect             noun g=m
@@ -1025,6 +1063,7 @@ assaut             noun g=m
 assèchement        noun g=m
 assemblage         noun g=m
 assemblée          noun g=f
+assembleur         noun g=m note=computing; also a person who assembles
 assentiment        noun g=m
 assertion          noun g=f
 asservissement     noun g=m
@@ -1055,6 +1094,7 @@ assurance-vie      noun g=f pl=assurances-vie
 assuré             noun g=m f=assurée
 assureur           noun g=m
 aster              noun g=m
+astérisme          noun g=m
 astérisque         noun g=m
 astéroïde          noun g=m
 asthénie           noun g=f
@@ -1199,6 +1239,7 @@ autodiscipline     noun g=f
 autodrome          noun g=m
 autofinancement    noun g=m
 autogestion        noun g=f
+autogire           noun g=m
 autographe         noun g=m
 automate           noun g=m
 automaticité       noun g=f
@@ -1298,6 +1339,7 @@ avril              noun g=m
 axe                noun g=m
 axel               noun g=m
 axiome             noun g=m
+axone              noun g=m
 ayatollah          noun g=m
 azalée             noun g=f
 azimut             noun g=m

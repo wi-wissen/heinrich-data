@@ -53,6 +53,7 @@ cadre              noun g=m
 cadreur            noun g=m f=cadreuse
 caducée            noun g=m
 caducité           noun g=f
+cæcum              noun g=m
 cafard             noun g=m
 café               noun g=m
 café-concert       noun g=m pl=cafés-concerts
@@ -86,6 +87,7 @@ cake               noun g=m
 cal                noun g=m pl=cals
 calage             noun g=m
 calamar            noun g=m
+calame             noun g=m
 calamine           noun g=f
 calamité           noun g=f
 calandre           noun g=f
@@ -269,6 +271,7 @@ capote             noun g=f
 câpre              noun g=f
 caprice            noun g=m
 caprin             noun g=m
+capside            noun g=f
 capsule            noun g=f
 captage            noun g=m
 captation          noun g=f
@@ -301,6 +304,7 @@ caravelle          noun g=f
 carbonate          noun g=m
 carbone            noun g=m
 carbonisation      noun g=f
+carbonyle          noun g=m
 carburant          noun g=m
 carburateur        noun g=m
 carcan             noun g=m
@@ -315,11 +319,13 @@ cardiogramme       noun g=m
 cardiographie      noun g=f
 cardiologie        noun g=f
 cardiologue        noun g=m|f
+cardiopathie       noun g=f
 carême             noun g=m
 carénage           noun g=m
 carence            noun g=f
 carène             noun g=f
 caresse            noun g=f
+carex              noun g=m
 cargaison          noun g=f
 cargo              noun g=m
 cariatide          noun g=f
@@ -364,6 +370,7 @@ cartable           noun g=m
 carte              noun g=f
 cartel             noun g=m
 carter             noun g=m
+cartésianisme      noun g=m
 cartilage          noun g=m
 cartographe        noun g=m|f
 cartographie       noun g=f
@@ -412,8 +419,10 @@ caste              noun g=f
 castel             noun g=m
 casting            noun g=m
 castor             noun g=m
+castrat            noun g=m
 castration         noun g=f
 casuistique        noun g=f
+catabolisme        noun g=m
 cataclysme         noun g=m
 catacombe          noun g=f
 catacombes         noun g=f pl_only
@@ -431,6 +440,7 @@ catastrophe        noun g=f
 catch              noun g=m
 catcheur           noun g=m f=catcheuse
 catéchisme         noun g=m
+catécholamine      noun g=f
 catégorie          noun g=f
 catégorisation     noun g=f
 caténaire          noun g=f
@@ -469,6 +479,7 @@ caviste            noun g=m|f
 cavité             noun g=f
 cécité             noun g=f
 cédant             noun g=m f=cédante
+cédérom            noun g=m
 cèdre              noun g=m
 ceinture           noun g=f
 ceinturon          noun g=m
@@ -514,13 +525,17 @@ centurion          noun g=m
 cep                noun g=m
 cépage             noun g=m
 cèpe               noun g=m
+céphalée           noun g=f
 céphalopode        noun g=m
+céphéide           noun g=f
 céramique          noun g=f
 céramiste          noun g=m|f
+céramologie        noun g=f
 cerbère            noun g=m
 cerceau            noun g=m
 cerclage           noun g=m
 cercle             noun g=m
+cercopithèque      noun g=m
 cercueil           noun g=m
 céréale            noun g=f
 céréalier          noun g=m
@@ -542,6 +557,7 @@ cérumen            noun g=m
 céruse             noun g=f
 cerveau            noun g=m
 cervelas           noun g=m
+cervelet           noun g=m
 cervelle           noun g=f
 cervidé            noun g=m
 cervoise           noun g=f
@@ -555,10 +571,13 @@ cession            noun g=f
 cessionnaire       noun g=m|f
 césure             noun g=f
 cétacé             noun g=m
+cétone             noun g=f
 chablis            noun g=m
 chacal             noun g=m pl=chacals
 chagrin            noun g=m
+chah               noun g=m note=also shah
 chahut             noun g=m
+chai               noun g=m
 chaîne             noun g=f rect=chaine
 chaînette          noun g=f rect=chainette
 chaînon            noun g=m rect=chainon
@@ -567,6 +586,7 @@ chaire             noun g=f
 chaise             noun g=f
 chaland            noun g=m
 chalandise         noun g=f
+chalaze            noun g=f
 châle              noun g=m
 chalet             noun g=m
 chaleur            noun g=f
@@ -578,6 +598,8 @@ chalutage          noun g=m
 chalutier          noun g=m
 chamade            noun g=f
 chamaillerie       noun g=f
+chaman             noun g=m f=chamane
+chamanisme         noun g=m
 chambard           noun g=m style=colloquial
 chambardement      noun g=m
 chambellan         noun g=m
@@ -618,6 +640,7 @@ chanteau           noun g=m
 chanterelle        noun g=f
 chanteur           noun g=m f=chanteuse
 chantier           noun g=m
+chantilly          noun g=f
 chantonnement      noun g=m
 chantre            noun g=m
 chanvre            noun g=m
@@ -657,6 +680,7 @@ charité            noun g=f
 charivari          noun g=m
 charlatan          noun g=m
 charlatanisme      noun g=m
+charleston         noun g=m
 charlotte          noun g=f
 charme             noun g=m
 charmeur           noun g=m f=charmeuse
@@ -699,6 +723,7 @@ châtaigneraie      noun g=f
 châtaignier        noun g=m
 château            noun g=m
 châtelain          noun g=m f=châtelaine
+châtelet           noun g=m
 châtellenie        noun g=f
 châtiment          noun g=m
 chatoiement        noun g=m
@@ -852,6 +877,7 @@ choral             noun g=m pl=chorals
 chorale            noun g=f
 chorégraphe        noun g=m|f
 chorégraphie       noun g=f
+chorévêque         noun g=m
 choriste           noun g=m|f
 chorus             noun g=m
 chose              noun g=f
@@ -860,6 +886,7 @@ chou-fleur         noun g=m pl=choux-fleurs
 chou-rave          noun g=m pl=choux-raves
 chouan             noun g=m
 chouannerie        noun g=f
+chouchen           noun g=m
 chouchou           noun g=m f=chouchoute style=colloquial note=regular plural
 choucroute         noun g=f
 chouette           noun g=f
@@ -875,6 +902,7 @@ chronicité         noun g=f
 chronique          noun g=f
 chroniqueur        noun g=m f=chroniqueuse
 chrono             noun g=m style=colloquial alt=chronomètre
+chronobiologie     noun g=f
 chronographe       noun g=m
 chronologie        noun g=f
 chronométrage      noun g=m
@@ -892,6 +920,7 @@ ciboire            noun g=m
 ciboule            noun g=f
 ciboulette         noun g=f
 cicatrice          noun g=f
+cicatrisation      noun g=f
 cicérone           noun g=m
 cidre              noun g=m
 ciel               noun g=m pl=cieux|ciels note=ciels for painted or weather skies
@@ -950,6 +979,7 @@ citadin            noun g=m f=citadine
 citation           noun g=f
 cité               noun g=f
 citerne            noun g=f
+cithare            noun g=f
 citoyen            noun g=m f=citoyenne
 citoyenneté        noun g=f
 citron             noun g=m
@@ -961,6 +991,7 @@ civette            noun g=f
 civière            noun g=f
 civil              noun g=m
 civilisation       noun g=f
+civiliste          noun g=m|f
 civilité           noun g=f
 civisme            noun g=m
 clade              noun g=m
@@ -1067,6 +1098,7 @@ coach              noun g=m|f
 coaching           noun g=m
 coadjuteur         noun g=m
 coagulation        noun g=f
+coalescence        noun g=f
 coalition          noun g=f
 coaltar            noun g=m
 coassement         noun g=m
@@ -1109,10 +1141,13 @@ codification       noun g=f
 codirecteur        noun g=m f=codirectrice
 coefficient        noun g=m
 coentreprise       noun g=f
+coenzyme           noun g=m|f
 coéquipier         noun g=m f=coéquipière
 coercition         noun g=f
 cœur               noun g=m
+coévolution        noun g=f
 coexistence        noun g=f
+cofacteur          noun g=m
 coffrage           noun g=m
 coffre             noun g=m
 coffre-fort        noun g=m pl=coffres-forts
@@ -1182,6 +1217,7 @@ collier            noun g=m
 collimateur        noun g=m
 colline            noun g=f
 collision          noun g=f
+collisionneur      noun g=m
 collodion          noun g=m
 colloïde           noun g=m
 colloque           noun g=m
@@ -1202,6 +1238,7 @@ colonat            noun g=m
 colonel            noun g=m
 colonialisme       noun g=m
 colonie            noun g=f
+colonisateur       noun g=m f=colonisatrice
 colonisation       noun g=f
 colonnade          noun g=f
 colonne            noun g=f
@@ -1306,6 +1343,7 @@ compétence         noun g=f
 compétiteur        noun g=m f=compétitrice
 compétition        noun g=f
 compétitivité      noun g=f
+compil             noun g=f style=colloquial alt=compilation
 compilateur        noun g=m
 compilation        noun g=f
 complainte         noun g=f
@@ -1360,6 +1398,7 @@ concaténation      noun g=f
 concentration      noun g=f
 concentré          noun g=m
 concept            noun g=m
+conceptacle        noun g=m
 concepteur         noun g=m f=conceptrice
 conception         noun g=f
 concert            noun g=m
@@ -1383,6 +1422,7 @@ conclusion         noun g=f
 concombre          noun g=m
 concomitance       noun g=f
 concordance        noun g=f
+concordancier      noun g=m
 concordat          noun g=m
 concorde           noun g=f
 concours           noun g=m
@@ -1394,6 +1434,8 @@ concubinat         noun g=m
 concupiscence      noun g=f
 concurrence        noun g=f
 concurrent         noun g=m f=concurrente
+concussion         noun g=f
+concussionnaire    noun g=m|f
 condamnation       noun g=f
 condensateur       noun g=m
 condensation       noun g=f
@@ -1410,6 +1452,7 @@ condor             noun g=m
 condottiere        noun g=m rect=condottière
 conductance        noun g=f
 conducteur         noun g=m f=conductrice
+conductibilité     noun g=f
 conduction         noun g=f
 conductivité       noun g=f
 conduit            noun g=m
@@ -1450,6 +1493,7 @@ confraternité      noun g=f
 confrère           noun g=m f=consœur
 confrérie          noun g=f
 confrontation      noun g=f
+confucianisme      noun g=m
 confusion          noun g=f
 congé              noun g=m
 congélateur        noun g=m
@@ -1529,6 +1573,7 @@ constat            noun g=m
 constatation       noun g=f
 constellation      noun g=f
 consternation      noun g=f
+constipation       noun g=f
 constituante       noun g=f
 constitution       noun g=f
 constitutionnalisation noun g=f
@@ -1663,6 +1708,7 @@ conurbation        noun g=f
 convalescence      noun g=f
 convection         noun g=f
 convenance         noun g=f
+convent            noun g=m note=assembly of a masonic lodge
 convention         noun g=f
 convention-cadre   noun g=f pl=conventions-cadres
 conventionnement   noun g=m
@@ -1708,6 +1754,7 @@ copyright          noun g=m
 coq                noun g=m
 coq-à-l'âne        noun g=m pl=coq-à-l'âne
 coque              noun g=f
+coquecigrue        noun g=f
 coquelet           noun g=m
 coquelicot         noun g=m
 coqueluche         noun g=f
@@ -1778,6 +1825,7 @@ corsaire           noun g=m
 corset             noun g=m
 cortège            noun g=m
 cortex             noun g=m
+corticostéroïde    noun g=m
 cortisone          noun g=f
 corvée             noun g=f
 corvette           noun g=f
@@ -1926,6 +1974,7 @@ couvre-chef        noun g=m pl=couvre-chefs
 couvre-feu         noun g=m pl=couvre-feux
 couvre-lit         noun g=m pl=couvre-lits
 couvre-pied        noun g=m pl=couvre-pieds rect=couvrepied rect_pl=couvrepieds
+couvrement         noun g=m
 couvreur           noun g=m f=couvreuse
 covariance         noun g=f
 covid              noun g=m|f note=la covid (recommended), le covid (common use)
@@ -1990,6 +2039,7 @@ crêpe              noun g=f sense=pancake
 crêpe              noun g=m sense=fabric
 crêperie           noun g=f
 crépi              noun g=m
+crêpier            noun g=m f=crêpière note=crêpière is also the pan
 crépinette         noun g=f
 crépissage         noun g=m
 crépitement        noun g=m
@@ -2040,6 +2090,7 @@ crissement         noun g=m
 cristal            noun g=m
 cristallerie       noun g=f
 cristallisation    noun g=f
+cristallite        noun g=f
 cristallographie   noun g=f
 critère            noun g=m
 critérium          noun g=m
@@ -2171,9 +2222,11 @@ cursus             noun g=m
 cuti               noun g=f
 cuticule           noun g=f
 cutter             noun g=m
+cuvaison           noun g=f
 cuve               noun g=f
 cuvée              noun g=f
 cuvette            noun g=f
+cyanobactérie      noun g=f
 cyanose            noun g=f
 cyanure            noun g=m
 cyberattaque       noun g=f
@@ -2190,6 +2243,7 @@ cycle              noun g=m
 cyclisme           noun g=m
 cycliste           noun g=m|f
 cyclo-cross        noun g=m pl=cyclo-cross rect=cyclocross rect_pl=cyclocross
+cyclohexane        noun g=m
 cyclomoteur        noun g=m
 cyclone            noun g=m
 cyclope            noun g=m
@@ -2201,6 +2255,7 @@ cylindrée          noun g=f
 cymbale            noun g=f
 cynisme            noun g=m
 cynodrome          noun g=m
+cypéracée          noun g=f
 cyprès             noun g=m
 cyprin             noun g=m
 cystite            noun g=f
