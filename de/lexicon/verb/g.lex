@@ -4,6 +4,7 @@ gähnen verb class=weak pp=gegähnt perf=haben
 galoppieren verb class=weak pp=galoppiert perf=haben|sein
 garantieren verb class=weak pp=garantiert perf=haben
 garen verb class=weak pp=gegart perf=haben
+gären verb class=strong 3sg=gärt past=gor|gärte pp=gegoren subj2=göre|gärte perf=haben|sein conf=85 note=strong forms usual for fermentation; the weak figurative participle gegärt is not expressible on a strong verb
 garnieren verb class=weak pp=garniert perf=haben
 gärtnern verb class=weak pp=gegärtnert perf=haben
 gastieren verb class=weak pp=gastiert perf=haben
@@ -67,6 +68,7 @@ gliedern verb class=weak pp=gegliedert perf=haben refl=acc
 glimmen verb class=weak past=glimmte|glomm pp=geglimmt|geglommen perf=haben
 glitzern verb class=weak pp=geglitzert perf=haben
 globalisieren verb class=weak pp=globalisiert perf=haben
+glorifizieren verb class=weak pp=glorifiziert perf=haben
 glotzen verb class=weak pp=geglotzt perf=haben style=colloquial alt=starren
 glücken verb class=weak pp=geglückt perf=sein
 gluckern verb class=weak pp=gegluckert perf=haben

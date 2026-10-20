@@ -1,4 +1,5 @@
 badisch adj
+bairisch adj note=Bavarian dialect group
 baldig adj
 baltisch adj
 bang adj cmp=banger|bänger sup=bangsten|bängsten
@@ -25,6 +26,7 @@ bedeutsam adj cmp=bedeutsamer sup=bedeutsamsten
 bedienerfreundlich adj cmp=bedienerfreundlicher sup=bedienerfreundlichsten
 bedrohlich adj cmp=bedrohlicher sup=bedrohlichsten
 bedürftig adj cmp=bedürftiger sup=bedürftigsten
+befallgefährdet adj note=agriculture: at risk of pest infestation
 befangen adj
 befindlich adj
 befremdlich adj cmp=befremdlicher sup=befremdlichsten
@@ -99,9 +101,11 @@ bewusst       adj cmp=bewusster sup=bewusstesten
 bezahlbar adj cmp=bezahlbarer sup=bezahlbarsten
 bezaubernd adj cmp=bezaubernder sup=bezauberndsten
 biblisch adj
+bijektiv adj
 bilateral adj
 bildlich adj cmp=bildlicher sup=bildlichsten
 billig adj cmp=billiger sup=billigsten
+binär adj
 biogen adj
 biologisch adj
 bischöflich adj
@@ -130,6 +134,7 @@ bolivianisch adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 bosnisch adj
+bosonisch adj
 botanisch adj
 brandenburgisch adj
 brasilianisch adj

@@ -175,6 +175,7 @@ abspeisen verb class=weak sep=ab pp=abgespeist perf=haben note=jemanden mit etwa
 absperren verb class=weak sep=ab pp=abgesperrt perf=haben
 abspielen verb class=weak sep=ab pp=abgespielt perf=haben
 absprechen verb class=strong sep=ab 3sg=abspricht past=absprach subj2=abspräche pp=abgesprochen perf=haben
+abspreizen verb class=weak sep=ab pp=abgespreizt perf=haben
 abspringen verb class=strong sep=ab 3sg=abspringt past=absprang subj2=abspränge pp=abgesprungen perf=sein
 abspülen verb class=weak pp=abgespült perf=haben sep=ab
 abstammen verb class=weak sep=ab pp=abgestammt perf=haben conf=90 note=perf rarely used

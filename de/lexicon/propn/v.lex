@@ -11,3 +11,4 @@ VfL propn g=m gen=VfL pl=- note=Verein für Leibesübungen (der VfL)
 Vietnam propn g=n gen=Vietnams pl=- note=proper name; no plural
 Virginia propn g=n gen=Virginias pl=- note=proper name, no plural
 Vorarlberg propn g=n gen=Vorarlbergs pl=- note=proper name; no plural
+Vorderasien propn g=n gen=Vorderasiens pl=- note=region name; no plural

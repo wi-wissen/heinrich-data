@@ -16,6 +16,7 @@ patzig adj cmp=patziger sup=patzigsten
 pauschal adj
 pazifisch adj
 peinlich adj cmp=peinlicher sup=peinlichsten
+pelagisch adj
 perfekt adj
 perfide adj cmp=perfider sup=perfidesten
 periodisch adj
@@ -48,18 +49,22 @@ plausibel adj cmp=plausibler sup=plausibelsten
 pleite adj pred_only note=predicative only (die Firma ist pleite); the noun is Pleite
 plötzlich adj
 plump adj cmp=plumper sup=plumpesten
+plurizentrisch adj
 poetisch adj cmp=poetischer sup=poetischsten
 polar adj
 politisch adj
 polizeilich adj
 polnisch adj
 polytechnisch adj
+polytheistisch adj
 pommersch adj
 populär adj cmp=populärer sup=populärsten
 populistisch adj
 portugiesisch adj
 positiv adj cmp=positiver sup=positivsten
 postalisch adj
+posthum adj note=also postum
+postum adj note=also posthum
 potentiell adj note=variant spelling of potenziell
 potenziell adj
 prächtig adj cmp=prächtiger sup=prächtigsten
@@ -85,6 +90,7 @@ profitabel adj cmp=profitabler sup=profitabelsten
 progressiv adj cmp=progressiver sup=progressivsten
 prominent adj cmp=prominenter sup=prominentesten
 proportional adj
+proprietär adj
 protestantisch adj
 provisorisch adj
 prozentig adj note=mostly in compounds with numerals (5-prozentig, zehnprozentige)

@@ -219,6 +219,7 @@ empfinden verb class=strong 3sg=empfindet past=empfand pp=empfunden subj2=empfä
 empören verb class=weak pp=empört perf=haben refl=acc
 emporheben verb class=strong sep=empor 3sg=emporhebt past=emporhob|emporhub[archaic] pp=emporgehoben subj2=emporhöbe|emporhübe[archaic] perf=haben
 emporsteigen verb class=strong sep=empor 3sg=emporsteigt past=emporstieg pp=emporgestiegen subj2=emporstiege perf=sein
+emulieren verb class=weak pp=emuliert perf=haben
 enden verb class=weak pp=geendet perf=haben
 endigen verb class=weak pp=geendigt perf=haben style=archaic note=older form of enden
 engagieren verb class=weak refl=acc pp=engagiert perf=haben
