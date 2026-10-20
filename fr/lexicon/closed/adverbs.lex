@@ -1,13 +1,21 @@
 # Grammar adverbs: degree, negation, interrogative, deictic (docs/LEXICON_FORMAT_FR.md §6).
 # Own knowledge (clean-room). Content adverbs live in adv/<letter>.lex.
 assez     adv  type=degree
+au-dedans adv type=place
+au-dehors adv type=place
 au-delà   adv  type=place
+au-dessous adv type=place
+au-dessus adv type=place
+au-devant adv type=place
 aucunement adv type=neg
 aussi     adv  type=degree
 autant    adv  type=degree
 beaucoup  adv  type=degree
+bien      adv type=manner|degree note=comparative mieux
 çà        adv  type=place note=çà et là
+ci        adv type=deictic note=ce livre-ci, ci-gît, de-ci de-là
 combien   adv  type=int|degree
+comme     adv type=degree note=exclamative: comme c'est beau !
 comment   adv  type=int
 davantage adv  type=degree
 deçà      adv  type=place note=en deçà (de)

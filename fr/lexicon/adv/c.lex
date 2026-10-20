@@ -1,7 +1,9 @@
 # French adverbs, letter c (docs/LEXICON_FORMAT_FR.md). Own knowledge (clean-room).
 c'est-à-dire       adv
+cahin-caha         adv
 calmos             adv style=colloquial
 carrément          adv
+cash               adv style=colloquial alt=comptant
 cavalièrement      adv
 céans              adv style=archaic
 censément          adv
@@ -26,10 +28,9 @@ civiquement        adv
 clandestinement    adv
 classiquement      adv
 cliniquement       adv
-clopin-clopant     adv
+clopin-clopant     adv rect=clopinclopant
 collégialement     adv
 comiquement        adv
-comme              adv note=comme c'est beau!
 commodément        adv
 comparativement    adv
 complaisamment     adv
@@ -50,6 +51,7 @@ convulsivement     adv
 copieusement       adv
 coquettement       adv
 corporellement     adv
+couci-couça        adv style=colloquial alt=moyennement
 couramment         adv
 courtoisement      adv
 coutumièrement     adv

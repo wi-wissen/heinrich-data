@@ -2,7 +2,7 @@
 cabalistique       adj
 cabochard          adj style=colloquial alt=têtu
 cabotin            adj
-cachotier          adj f=cachotière
+cachotier          adj f=cachotière rect=cachottier
 cacochyme          adj style=literary
 cadastral          adj
 cadastré           adj
@@ -14,7 +14,7 @@ caduc              adj f=caduque
 cafardeux          adj
 cagneux            adj
 caillouteux        adj
-cajun              adj
+cajun              adj f=cajun
 calamiteux         adj
 calcaire           adj
 calciné            adj
@@ -46,7 +46,7 @@ cancéreux          adj
 cancérigène        adj
 cancérogène        adj
 candi              adj note=sucre candi
-candide            adj
+candide            adj adv=candidement
 caniculaire        adj
 canin              adj
 cannelé            adj
@@ -61,7 +61,7 @@ capitaliste        adj
 capitalistique     adj
 capiteux           adj
 capitulaire        adj
-capricieux         adj
+capricieux         adj adv=capricieusement
 caprin             adj
 captieux           adj
 captif             adj
@@ -90,6 +90,7 @@ cartésien          adj
 cartilagineux      adj
 cartographique     adj
 casanier           adj f=casanière
+casqué             adj
 cassant            adj
 casse-pieds        adj inv style=colloquial alt=ennuyeux
 castillan          adj
@@ -145,9 +146,10 @@ chanceux           adj
 changeant          adj
 chantant           adj
 chaotique          adj
+charbonneux        adj
 chargé             adj
 charismatique      adj
-charitable         adj
+charitable         adj adv=charitablement
 charmant           adj
 charmeur           adj f=charmeuse
 charnel            adj
@@ -234,15 +236,17 @@ clos               adj note=past participle of clore
 clouté             adj
 clownesque         adj
 cocardier          adj f=cocardière
-cocasse            adj
+cocasse            adj adv=cocassement
 cochère            adj note=porte cochère
 coercible          adj
 coercitif          adj
 cognitif           adj
 cohérent           adj
 cohésif            adj
+coi                adj f=coite
 coincé             adj
 coïncident         adj
+coléreux           adj
 colérique          adj
 colinéaire         adj
 collaboratif       adj
@@ -259,7 +263,7 @@ colonialiste       adj
 coloré             adj
 colossal           adj
 comateux           adj
-combatif           adj
+combatif           adj rect=combattif
 combinard          adj style=colloquial
 combinatoire       adj
 comestible         adj
@@ -403,10 +407,11 @@ contrapuntique     adj
 contrariant        adj
 contrastif         adj
 contre-nature      adj inv conf=70
-contre-productif   adj pl=contre-productifs
-contre-révolutionnaire adj
+contre-productif   adj pl=contre-productifs rect=contreproductif
+contre-révolutionnaire adj rect=contrerévolutionnaire
 contrefait         adj
 contributif        adj
+contrit            adj
 contrôlable        adj
 controversé        adj
 convaincant        adj
@@ -420,6 +425,7 @@ convertible        adj
 convexe            adj
 convivial          adj
 convulsif          adj
+cool               adj f=cool style=colloquial alt=sympathique|décontracté
 coopératif         adj
 coordonné          adj
 copieux            adj
@@ -480,7 +486,7 @@ coutumier          adj
 couvrant           adj
 covalent           adj
 crado              adj inv style=colloquial alt=sale
-craintif           adj
+craintif           adj adv=craintivement
 cramoisi           adj
 cramponné          adj
 crânien            adj
@@ -494,7 +500,7 @@ crédible           adj
 crédule            adj
 crématoire         adj
 crémeux            adj
-crénelé            adj
+crénelé            adj rect=crènelé
 créole             adj
 crépu              adj
 crépusculaire      adj
@@ -557,5 +563,5 @@ cyclopéen          adj
 cyclothymique      adj
 cylindrique        adj
 cynégétique        adj
-cynique            adj
+cynique            adj adv=cyniquement
 cyrillique         adj

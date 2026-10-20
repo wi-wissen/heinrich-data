@@ -1,4 +1,5 @@
 # French nouns, letter a (docs/LEXICON_FORMAT_FR.md). Own knowledge (clean-room).
+à-coup             noun g=m pl=à-coups
 à-peu-près         noun g=m pl=à-peu-près
 à-propos           noun g=m pl=- note=no plural in use
 abaissement        noun g=m
@@ -317,9 +318,8 @@ agiotage           noun g=m
 agissements        noun g=m pl_only
 agitateur          noun g=m f=agitatrice
 agitation          noun g=f
-agneau             noun g=m
+agneau             noun g=m f=agnelle
 agnelet            noun g=m
-agnelle            noun g=f
 agnosticisme       noun g=m
 agonie             noun g=f
 agoraphobie        noun g=f
@@ -470,7 +470,7 @@ allusion           noun g=f
 alluvion           noun g=f
 almanach           noun g=m
 aloès              noun g=m
-aloi               noun g=m
+aloi               noun g=m pl=- note=only in de bon aloi
 alouette           noun g=f
 alourdissement     noun g=m
 alpaga             noun g=m
@@ -496,7 +496,7 @@ alu                noun g=m style=colloquial alt=aluminium
 alumine            noun g=f
 aluminium          noun g=m
 alunissage         noun g=m
-alvéole            noun g=f
+alvéole            noun g=m|f
 amabilité          noun g=f
 amadou             noun g=m note=regular plural
 amaigrissement     noun g=m
@@ -551,7 +551,7 @@ ammonite           noun g=f
 amnésie            noun g=f
 amnistie           noun g=f
 amoindrissement    noun g=m
-amoncellement      noun g=m
+amoncellement      noun g=m rect=amoncèlement
 amont              noun g=m
 amoralité          noun g=f
 amorçage           noun g=m
@@ -774,6 +774,7 @@ apparentement      noun g=m
 appariement        noun g=m
 appariteur         noun g=m f=appariteuse
 apparition         noun g=f
+appart             noun g=m style=colloquial alt=appartement
 appartement        noun g=m
 appartenance       noun g=f
 appas              noun g=m pl_only style=literary
@@ -818,9 +819,9 @@ appui              noun g=m
 appuie-tête        noun g=m pl=appuie-tête[trad]|appuie-têtes[rect]
 après-guerre       noun g=m|f pl=après-guerres
 après-midi         noun g=m|f pl=après-midi[trad]|après-midis[rect]
-après-rasage       noun g=m pl=après-rasages
+après-rasage       noun g=m pl=après-rasage[trad]|après-rasages[rect]
 après-shampooing   noun g=m pl=après-shampooings
-après-ski          noun g=m pl=après-skis
+après-ski          noun g=m pl=après-ski[trad]|après-skis[rect]
 âpreté             noun g=f
 aptitude           noun g=f
 apurement          noun g=m
@@ -851,7 +852,7 @@ arbre              noun g=m
 arbrisseau         noun g=m
 arbuste            noun g=m
 arc                noun g=m
-arc-boutant        noun g=m pl=arcs-boutants
+arc-boutant        noun g=m pl=arcs-boutants rect=arcboutant rect_pl=arcboutants
 arc-en-ciel        noun g=m pl=arcs-en-ciel
 arcade             noun g=f
 arcane             noun g=m
@@ -962,6 +963,7 @@ arrière-petit-fils noun g=m pl=arrière-petits-fils
 arrière-petite-fille noun g=f pl=arrière-petites-filles
 arrière-plan       noun g=m pl=arrière-plans
 arrière-saison     noun g=f pl=arrière-saisons
+arrière-salle      noun g=f pl=arrière-salles
 arrière-train      noun g=m pl=arrière-trains
 arrimage           noun g=m
 arrivage           noun g=m
@@ -976,7 +978,7 @@ arrosoir           noun g=m
 arsenal            noun g=m
 arsenic            noun g=m
 art                noun g=m
-artefact           noun g=m
+artefact           noun g=m rect=artéfact
 artère             noun g=f
 arthrite           noun g=f
 arthropode         noun g=m
@@ -1171,10 +1173,10 @@ authentification   noun g=f
 autisme            noun g=m
 autiste            noun g=m|f
 auto               noun g=f
-auto-école         noun g=f pl=auto-écoles
+auto-école         noun g=f pl=auto-écoles rect=autoécole rect_pl=autoécoles
 auto-entrepreneur  noun g=m f=auto-entrepreneuse pl=auto-entrepreneurs fpl=auto-entrepreneuses
-auto-stop          noun g=m pl=- note=uncountable
-auto-stoppeur      noun g=m f=auto-stoppeuse
+auto-stop          noun g=m pl=- rect=autostop note=uncountable
+auto-stoppeur      noun g=m f=auto-stoppeuse rect=autostoppeur
 autobiographie     noun g=f
 autobus            noun g=m
 autocar            noun g=m
@@ -1221,7 +1223,6 @@ autoritarisme      noun g=m
 autorité           noun g=f
 autoroute          noun g=f
 autosatisfaction   noun g=f
-autostop           noun g=m pl=- note=uncountable; also auto-stop
 autosuffisance     noun g=f
 autosuggestion     noun g=f
 autrichien         noun g=m f=autrichienne

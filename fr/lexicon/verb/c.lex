@@ -1,16 +1,16 @@
 # French verbs, letter c (docs/LEXICON_FORMAT_FR.md). Own knowledge (clean-room).
 câbler          verb
 cabosser        verb
-caboter         verb
+caboter         verb pp_inv
 cabrer          verb
-cabrioler       verb
+cabrioler       verb pp_inv
 cacher          verb
 cacheter        verb class=double_trad
 cadastrer       verb
 cadenasser      verb
 cadencer        verb
 cadrer          verb
-cafouiller      verb style=colloquial
+cafouiller      verb style=colloquial pp_inv
 cafter          verb style=colloquial alt=dénoncer
 cahoter         verb
 cailler         verb
@@ -32,28 +32,28 @@ camoufler       verb
 camper          verb
 canaliser       verb
 canarder        verb style=colloquial
-cancaner        verb
-candidater      verb
-caner           verb style=colloquial
+cancaner        verb pp_inv
+candidater      verb pp_inv
+caner           verb style=colloquial pp_inv
 canner          verb
 canoniser       verb
 cantonner       verb
 caparaçonner    verb
 capitaliser     verb
 capitonner      verb
-capituler       verb
-capoter         verb
+capituler       verb pp_inv
+capoter         verb pp_inv
 capter          verb
 captiver        verb
 capturer        verb
 caqueter        verb class=double_trad
-caracoler       verb
+caracoler       verb pp_inv
 caractériser    verb
 caramboler      verb
 caraméliser     verb
 carapater       verb pronominal style=colloquial
 carboniser      verb
-carburer        verb
+carburer        verb pp_inv
 carder          verb
 carencer        verb
 caréner         verb
@@ -62,20 +62,23 @@ caricaturer     verb
 carier          verb
 carillonner     verb
 carreler        verb class=double_trad
+carrer          verb note=se carrer dans un fauteuil; carrer un nombre
 carrosser       verb
 cartographier   verb
 cartonner       verb
 caser           verb style=colloquial
+casquer         verb style=colloquial alt=payer
 casser          verb
 castrer         verb
 cataloguer      verb
 catapulter      verb
 catastropher    verb style=colloquial
 catégoriser     verb
-cauchemarder    verb
+cauchemarder    verb pp_inv
 causer          verb
 cautériser      verb
 cautionner      verb
+cavaler         verb style=colloquial alt=courir
 caviarder       verb
 céder           verb
 ceindre         verb class=peindre
@@ -96,7 +99,7 @@ chambarder      verb
 chambouler      verb style=colloquial
 chambrer        verb
 chamoiser       verb
-chanceler       verb class=double_trad
+chanceler       verb class=double_trad pp_inv
 changer         verb
 chanter         verb
 chantonner      verb
@@ -113,27 +116,29 @@ charrier        verb
 chasser         verb
 châtier         verb
 chatouiller     verb
-chatoyer        verb
+chatoyer        verb pp_inv
 châtrer         verb
 chauffer        verb
 chauler         verb
 chausser        verb
 chavirer        verb
-cheminer        verb
+cheminer        verb pp_inv
 chercher        verb
 chérir          verb class=ir
 chevaucher      verb
 cheviller       verb
-chevroter       verb
+chevroter       verb pp_inv
 chiader         verb style=colloquial
-chialer         verb style=colloquial alt=pleurer
+chialer         verb style=colloquial alt=pleurer pp_inv
 chicaner        verb
+chier           verb style=vulgar alt=déféquer
 chiffonner      verb
 chiffrer        verb
 chiner          verb
 chiper          verb style=colloquial alt=voler
 chipoter        verb
-choir           verb class=irr pres=chois,chois,choit,-,-,choient ps=chus fut=choirai|cherrai pp=chu style=literary note=defective; no nous/vous forms
+chiquer         verb
+choir           verb class=irr pres=chois,chois,choit,-,-,choient ps=chus fut=choirai|cherrai pp=chu style=literary imp=-,-,- note=defective; no nous/vous forms
 choisir         verb class=ir
 chômer          verb
 choper          verb style=colloquial alt=attraper
@@ -145,68 +150,70 @@ choyer          verb
 chromer         verb
 chronométrer    verb
 chuchoter       verb
-chuinter        verb
-chuter          verb
+chuinter        verb pp_inv
+chuter          verb pp_inv
 cibler          verb
 cicatriser      verb
+ciller          verb
 cimenter        verb
 cingler         verb
 cintrer         verb
 circoncire      verb class=irr pres=circoncis,circoncisons,circoncisent ps=circoncis fut=circoncirai pp=circoncis
 circonscrire    verb class=écrire
 circonvenir     verb class=venir
-circuler        verb
+circuler        verb pp_inv
 cirer           verb
 cisailler       verb
 ciseler         verb note=è like geler
 citer           verb
 civiliser       verb
-clabauder       verb
+clabauder       verb pp_inv
+claironner      verb
 clamer          verb
-clamser         verb style=colloquial alt=mourir
-clapoter        verb
+clamser         verb style=colloquial alt=mourir pp_inv
+clapoter        verb pp_inv
 claquemurer     verb
 claquer         verb
 clarifier       verb
 classer         verb
 classifier      verb
-claudiquer      verb
+claudiquer      verb pp_inv
 clicher         verb
 cligner         verb
-clignoter       verb
+clignoter       verb pp_inv
 cliquer         verb
-cliqueter       verb class=double_trad
+cliqueter       verb class=double_trad pp_inv
 cliver          verb
 clochardiser    verb
 clocher         verb sense=limp
 cloisonner      verb
 cloîtrer        verb rect=cloitrer
 cloner          verb
-clopiner        verb
+clopiner        verb pp_inv
 cloquer         verb
 clore           verb class=irr pres=clos,clos,clôt,-,-,closent ps=- fut=clorai subj=close impf=- pp=clos ppr=closant note=defective
 clôturer        verb
 clouer          verb
 coaguler        verb
 coaliser        verb
-coasser         verb
+coasser         verb pp_inv
 cocher          verb
 cocufier        verb style=colloquial
 coder           verb
 codifier        verb
 coécrire        verb class=écrire
-coexister       verb
+coexister       verb pp_inv
 coffrer         verb
 cofonder        verb
 cogérer         verb
 cogiter         verb
 cogner          verb
-cohabiter       verb
+cohabiter       verb pp_inv
 cohériter       verb
 coiffer         verb
 coincer         verb
-coïncider       verb
-collaborer      verb
+coïncider       verb pp_inv
+collaborer      verb pp_inv
 collationner    verb
 collecter       verb
 collectionner   verb
@@ -228,7 +235,7 @@ commanditer     verb
 commémorer      verb
 commencer       verb
 commenter       verb
-commercer       verb
+commercer       verb pp_inv
 commercialiser  verb
 commettre       verb class=mettre
 commissionner   verb
@@ -237,13 +244,13 @@ commuer         verb
 communier       verb
 communiquer     verb
 compacter       verb
-comparaître     verb class=connaître
+comparaître     verb class=connaître pp_inv
 comparer        verb
 compartimenter  verb
-compatir        verb class=ir
+compatir        verb class=ir pp_inv
 compenser       verb
 compiler        verb
-complaire       verb class=plaire
+complaire       verb class=plaire pp_inv
 compléter       verb
 complexer       verb
 complexifier    verb
@@ -270,13 +277,13 @@ concevoir       verb class=recevoir
 concilier       verb
 conclure        verb class=conclure
 concocter       verb
-concorder       verb
-concourir       verb class=courir
+concorder       verb pp_inv
+concourir       verb class=courir pp_inv
 concrétiser     verb
 concurrencer    verb
 condamner       verb
 condenser       verb
-condescendre    verb class=rendre
+condescendre    verb class=rendre pp_inv
 conditionner    verb
 conduire        verb class=conduire
 confectionner   verb
@@ -287,7 +294,7 @@ confier         verb
 confiner        verb
 confirmer       verb
 confisquer      verb
-confluer        verb
+confluer        verb pp_inv
 confondre       verb class=rendre
 conformer       verb
 conforter       verb
@@ -314,7 +321,7 @@ consister       verb pp_inv
 consoler        verb
 consolider      verb
 consommer       verb
-conspirer       verb
+conspirer       verb pp_inv
 conspuer        verb
 constater       verb
 consterner      verb
@@ -344,16 +351,16 @@ contredire      verb class=interdire
 contrefaire     verb class=faire
 contrer         verb
 contresigner    verb
-contrevenir     verb class=venir
-contribuer      verb
+contrevenir     verb class=venir pp_inv
+contribuer      verb pp_inv
 contrôler       verb
 controverser    verb
 contusionner    verb
 convaincre      verb class=vaincre
 convenir        verb class=venir aux=avoir|être
 conventionner   verb
-converger       verb
-converser       verb
+converger       verb pp_inv
+converser       verb pp_inv
 convertir       verb class=ir
 convier         verb
 convoiter       verb
@@ -361,16 +368,16 @@ convoquer       verb
 convoyer        verb
 convulser       verb
 convulsionner   verb
-coopérer        verb
+coopérer        verb pp_inv
 coopter         verb
 coordonner      verb
 copier          verb
 copiloter       verb
 coproduire      verb class=conduire
-copuler         verb
+copuler         verb pp_inv
 corner          verb
 corréler        verb
-correspondre    verb class=rendre
+correspondre    verb class=rendre pp_inv
 corriger        verb
 corroborer      verb
 corroder        verb
@@ -395,6 +402,7 @@ courber         verb
 courir          verb class=courir
 couronner       verb
 courroucer      verb
+courser         verb
 court-circuiter verb
 courtiser       verb
 coûter          verb rect=couter
@@ -406,25 +414,27 @@ crachoter       verb
 craindre        verb class=peindre
 cramer          verb style=colloquial alt=brûler
 cramponner      verb
-crâner          verb style=colloquial
-crapahuter      verb style=colloquial
+crâner          verb style=colloquial pp_inv
+crapahuter      verb style=colloquial pp_inv
 craqueler       verb class=double_trad
 craquer         verb
 crasher         verb pronominal style=colloquial
 cravacher       verb
+cravater        verb
 crawler         verb
 crayonner       verb
+crécher         verb style=colloquial alt=habiter|loger
 crédibiliser    verb
 créditer        verb
 créer           verb
 créneler        verb class=double_trad
 crêper          verb
 crépir          verb class=ir
-crépiter        verb
+crépiter        verb pp_inv
 creuser         verb
 crevasser       verb
 crever          verb style=colloquial alt=mourir note=è like lever; colloquial in the sense mourir
-criailler       verb
+criailler       verb pp_inv
 cribler         verb
 crier           verb
 criminaliser    verb
@@ -432,7 +442,7 @@ crisper         verb
 crisser         verb
 cristalliser    verb
 critiquer       verb
-croasser        verb
+croasser        verb pp_inv
 crocheter       verb note=è like acheter
 croire          verb class=croire
 croiser         verb
@@ -440,8 +450,8 @@ croître         verb class=irr pres=croîs,croîs,croît,croissons,croissez,cro
 croquer         verb
 crotter         verb
 crouler         verb
-croupir         verb class=ir
-croustiller     verb
+croupir         verb class=ir pp_inv
+croustiller     verb pp_inv
 crucifier       verb
 crypter         verb
 cuber           verb
@@ -450,7 +460,7 @@ cuire           verb class=conduire
 cuisiner        verb
 cuivrer         verb
 culbuter        verb
-culminer        verb
+culminer        verb pp_inv
 culotter        verb
 culpabiliser    verb
 cultiver        verb

@@ -9,11 +9,11 @@ abhorrer       verb
 abîmer         verb rect=abimer
 abjurer        verb
 abolir         verb class=ir
-abonder        verb
+abonder        verb pp_inv
 abonner        verb
 aborder        verb
-aboutir        verb class=ir
-aboyer         verb
+aboutir        verb class=ir pp_inv
+aboyer         verb pp_inv
 abréger        verb
 abreuver       verb
 abriter        verb
@@ -23,10 +23,11 @@ absenter       verb pronominal
 absorber       verb
 absoudre       verb class=irr pres=absous,absolvons,absolvent ps=absolus fut=absoudrai pp=absous,absoute,absous,absoutes note=passé simple rare
 abstenir       verb class=venir pronominal
+abstraire      verb class=traire
 abuser         verb
 accabler       verb
 accaparer      verb
-accéder        verb
+accéder        verb pp_inv
 accélérer      verb
 accentuer      verb
 accepter       verb
@@ -38,6 +39,7 @@ accompagner    verb
 accomplir      verb class=ir
 accorder       verb
 accoster       verb
+accoter        verb
 accoucher      verb
 accouder       verb pronominal
 accoupler      verb
@@ -55,10 +57,10 @@ acharner       verb pronominal
 acheminer      verb
 acheter        verb note=è like geler
 achever        verb
-achopper       verb
+achopper       verb pp_inv
 acidifier      verb
 acquérir       verb class=acquérir
-acquiescer     verb
+acquiescer     verb pp_inv
 acquitter      verb
 acter          verb
 actionner      verb
@@ -66,7 +68,7 @@ activer        verb
 actualiser     verb
 adapter        verb
 additionner    verb
-adhérer        verb
+adhérer        verb pp_inv
 adjoindre      verb class=peindre
 adjuger        verb
 adjurer        verb
@@ -82,9 +84,9 @@ adouber        verb
 adoucir        verb class=ir
 adresser       verb
 aduler         verb
-advenir        verb class=venir aux=être
+advenir        verb class=venir aux=être defective=inf|3|ppr|pp
 aérer          verb
-affabuler      verb
+affabuler      verb pp_inv
 affadir        verb class=ir
 affaiblir      verb class=ir
 affairer       verb pronominal
@@ -98,9 +100,9 @@ afficher       verb
 affilier       verb
 affiner        verb
 affirmer       verb
-affleurer      verb
+affleurer      verb pp_inv
 affliger       verb
-affluer        verb
+affluer        verb pp_inv
 affoler        verb
 affranchir     verb class=ir
 affréter       verb
@@ -113,9 +115,9 @@ agenouiller    verb pronominal
 agglomérer     verb
 agglutiner     verb
 aggraver       verb
-agir           verb class=ir
+agir           verb class=ir pp_inv
 agiter         verb
-agoniser       verb
+agoniser       verb pp_inv
 agrafer        verb
 agrandir       verb class=ir
 agréer         verb
@@ -153,7 +155,7 @@ allumer        verb
 alourdir       verb class=ir
 altérer        verb
 alterner       verb
-alunir         verb class=ir
+alunir         verb class=ir pp_inv
 amadouer       verb
 amaigrir       verb class=ir
 amalgamer      verb
@@ -166,7 +168,7 @@ amender        verb
 amener         verb
 amenuiser      verb
 américaniser   verb
-amerrir        verb class=ir
+amerrir        verb class=ir pp_inv
 ameublir       verb class=ir
 ameuter        verb
 amincir        verb class=ir
@@ -209,7 +211,7 @@ apparaître     verb class=connaître aux=être
 appareiller    verb
 apparenter     verb
 apparier       verb
-appartenir     verb class=venir
+appartenir     verb class=venir pp_inv
 appâter        verb
 appauvrir      verb class=ir
 appeler        verb class=double
@@ -236,14 +238,15 @@ arabiser       verb
 araser         verb
 arbitrer       verb
 arborer        verb
-arc-bouter     verb
+arc-bouter     verb rect=arcbouter
 archiver       verb
-arguer         verb
+arguer         verb rect=argüer
 argumenter     verb
 armer          verb
 arnaquer       verb style=colloquial alt=escroquer
 aromatiser     verb
 arpenter       verb
+arquer         verb
 arracher       verb
 arraisonner    verb
 arranger       verb
@@ -266,8 +269,7 @@ assaisonner    verb
 assassiner     verb
 assécher       verb
 assembler      verb
-assener        verb note=è like lever; also asséner
-asséner        verb
+assener        verb rect=asséner
 asseoir        verb class=irr pres=assieds|assois,asseyons|assoyons,asseyent|assoient ps=assis fut=assiérai|assoirai pp=assis rect=assoir
 assermenter    verb
 asservir       verb class=ir
@@ -288,21 +290,21 @@ assumer        verb
 assurer        verb
 astiquer       verb
 astreindre     verb class=peindre
-atermoyer      verb
+atermoyer      verb pp_inv
 atomiser       verb
 atrophier      verb
 attabler       verb
 attacher       verb
 attaquer       verb
-attarder       verb
+attarder       verb pronominal
 atteindre      verb class=peindre
 atteler        verb class=double_trad
 attendre       verb class=rendre
 attendrir      verb class=ir
-attenter       verb
+attenter       verb pp_inv
 atténuer       verb
 atterrer       verb
-atterrir       verb class=ir
+atterrir       verb class=ir pp_inv
 attester       verb
 attiédir       verb class=ir
 attifer        verb style=colloquial
@@ -311,9 +313,11 @@ attiser        verb
 attraper       verb
 attribuer      verb
 attrister      verb
+attrouper      verb
 auditionner    verb
 augmenter      verb
 augurer        verb
+auréoler       verb
 ausculter      verb
 authentifier   verb
 automatiser    verb

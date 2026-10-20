@@ -26,7 +26,7 @@ barbare         adj
 barbaresque     adj
 barbu           adj
 bariolé         adj
-barjo           adj style=colloquial alt=fou
+barjo           adj style=colloquial alt=fou f=barjo
 barométrique    adj
 baroque         adj
 bas             adj f=basse place=both
@@ -38,14 +38,17 @@ basilaire       adj
 basique         adj
 basque          adj
 batailleur      adj f=batailleuse
+bath            adj inv style=archaic|colloquial alt=chic
 battant         adj
 battu           adj
 bavard          adj
 bavarois        adj
+baveux          adj
 béant           adj
 béarnais        adj
 béat            adj adv=béatement
 beau            adj f=belle mv=bel place=pre
+bébête          adj style=colloquial alt=niais
 bedonnant       adj
 bée             adj note=bouche bée
 bègue           adj
@@ -62,7 +65,7 @@ bengali         adj
 bénin           adj f=bénigne
 béninois        adj
 bénit           adj note=eau bénite, pain bénit
-benoît          adj
+benoît          adj rect=benoit
 béotien         adj
 berbère         adj
 berlinois       adj
@@ -78,7 +81,7 @@ bicéphale       adj
 bicolore        adj
 biélorusse      adj
 bien            adj inv note=des gens bien
-bien-aimé       adj
+bien-aimé       adj rect=bienaimé
 bienfaisant     adj
 bienheureux     adj
 biennal         adj
@@ -116,7 +119,7 @@ bisannuel       adj
 biscornu        adj
 bisexuel        adj
 bissextile      adj
-bistre          adj
+bistre          adj inv
 bistré          adj
 bitumineux      adj
 bizarre         adj adv=bizarrement
@@ -137,13 +140,14 @@ blindé          adj
 blond           adj
 blondinet       adj f=blondinette
 bocager         adj
+boche           adj style=offensive alt=allemand
 bohème          adj
 boisé           adj
 boiteux         adj
-bolchevique     adj
+bolchevique     adj rect=bolchévique
 bolivien        adj
 bombé           adj
-bon             adj place=pre cmp=meilleur adv=bien
+bon             adj place=pre cmp=meilleur
 bonapartiste    adj
 bondé           adj
 bondissant      adj
@@ -181,7 +185,7 @@ bourratif       adj
 bourré          adj style=colloquial alt=ivre
 bourru          adj
 boursier        adj
-boursouflé      adj
+boursouflé      adj rect=boursoufflé
 boutonneux      adj
 bovin           adj
 braillard       adj

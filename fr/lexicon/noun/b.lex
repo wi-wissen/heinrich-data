@@ -7,12 +7,14 @@ babiole          noun g=f
 bâbord           noun g=m
 babouche         noun g=f
 babouin          noun g=m
-baby-foot        noun g=m pl=baby-foot[trad]|baby-foots[rect]
-baby-sitter      noun g=m|f pl=baby-sitters
-baby-sitting     noun g=m
+baby             noun g=m foreign conf=70 note=un baby (small whisky); baby-foot
+baby-foot        noun g=m pl=baby-foot rect=babyfoot rect_pl=babyfoots
+baby-sitter      noun g=m|f pl=baby-sitters rect=babysitter
+baby-sitting     noun g=m rect=babysitting
 bac              noun g=m
 baccalauréat     noun g=m
 bacchanale       noun g=f
+bacchante        noun g=f note=bacchantes: moustache (colloquial)
 bâche            noun g=f
 bachelier        noun g=m f=bachelière
 bachelor         noun g=m foreign conf=70
@@ -57,6 +59,7 @@ baïonnette       noun g=f
 baisemain        noun g=m
 baiser           noun g=m
 baisse           noun g=f
+bajoue           noun g=f
 bakchich         noun g=m style=colloquial alt=pot-de-vin
 bal              noun g=m pl=bals
 balade           noun g=f
@@ -140,6 +143,7 @@ baraquement      noun g=m
 baratin          noun g=m style=colloquial
 baratineur       noun g=m f=baratineuse style=colloquial
 barbacane        noun g=f
+barbaque         noun g=f style=colloquial alt=viande
 barbare          noun g=m|f
 barbarie         noun g=f
 barbarisme       noun g=m
@@ -153,7 +157,7 @@ barbotage        noun g=m
 barboteuse       noun g=f
 barbouillage     noun g=m
 barbouze         noun g=f style=colloquial
-barcarolle       noun g=f
+barcarolle       noun g=f rect=barcarole
 barda            noun g=m style=colloquial
 barde            noun g=m
 barde            noun g=f sense=bacon
@@ -188,7 +192,7 @@ baryum           noun g=m
 bas              noun g=m
 bas-bleu         noun g=m pl=bas-bleus
 bas-côté         noun g=m pl=bas-côtés
-bas-fond         noun g=m pl=bas-fonds
+bas-fond         noun g=m pl=bas-fonds rect=basfond rect_pl=basfonds
 bas-relief       noun g=m pl=bas-reliefs
 basalte          noun g=m
 bascule          noun g=f
@@ -206,8 +210,8 @@ basketball       noun g=m
 basketteur       noun g=m f=basketteuse
 basque           noun g=m|f
 basse            noun g=f
-basse-cour       noun g=f pl=basses-cours
-basse-fosse      noun g=f pl=basses-fosses
+basse-cour       noun g=f pl=basses-cours rect=bassecour rect_pl=bassecours
+basse-fosse      noun g=f pl=basses-fosses rect=bassefosse rect_pl=bassefosses
 bassesse         noun g=f
 bassin           noun g=m
 bassine          noun g=f
@@ -220,10 +224,12 @@ bastion          noun g=m
 bastonnade       noun g=f
 bastringue       noun g=m style=colloquial
 bât              noun g=m
+bat-flanc        noun g=m pl=bat-flanc[trad]|bat-flancs[rect]
 bataclan         noun g=m style=colloquial
 bataille         noun g=f
 bataillon        noun g=m
 bâtard           noun g=m f=bâtarde
+bâtardise        noun g=f
 batavia          noun g=f
 bateau           noun g=m
 bateau-mouche    noun g=m pl=bateaux-mouches
@@ -258,7 +264,7 @@ bavette          noun g=f
 bavoir           noun g=m
 bavure           noun g=f
 bazar            noun g=m
-beach-volley     noun g=m
+beach-volley     noun g=m rect=beachvolley
 béatification    noun g=f
 béatitude        noun g=f
 beatnik          noun g=m|f
@@ -341,7 +347,7 @@ bergeronnette    noun g=f
 béribéri         noun g=m
 berline          noun g=f
 berlingot        noun g=m
-berlue           noun g=f
+berlue           noun g=f pl=- note=only in avoir la berlue
 bermuda          noun g=m
 bernache         noun g=f
 bernard-l'ermite noun g=m pl=bernard-l'ermite
@@ -351,7 +357,7 @@ besace           noun g=f
 besogne          noun g=f
 besoin           noun g=m
 best-of          noun g=m pl=best-of
-best-seller      noun g=m pl=best-sellers
+best-seller      noun g=m pl=best-sellers rect=bestseller rect_pl=bestsellers
 bestiaire        noun g=m
 bestialité       noun g=f
 bestiaux         noun g=m pl_only
@@ -389,6 +395,7 @@ biceps           noun g=m
 biche            noun g=f
 bicoque          noun g=f
 bicorne          noun g=m
+bicot            noun g=m style=vulgar|offensive alt=arabe
 bicyclette       noun g=f
 bide             noun g=m style=colloquial
 bidet            noun g=m
@@ -398,9 +405,9 @@ bidule           noun g=m style=colloquial alt=truc
 bief             noun g=m
 bielle           noun g=f
 bien             noun g=m sense=good note=le bien; les biens (property)
-bien-aimé        noun g=m f=bien-aimée
-bien-être        noun g=m pl=- note=no plural
-bien-fondé       noun g=m
+bien-aimé        noun g=m f=bien-aimée rect=bienaimé
+bien-être        noun g=m pl=- rect=bienêtre note=no plural
+bien-fondé       noun g=m rect=bienfondé
 bienfaisance     noun g=f
 bienfait         noun g=m
 bienfaiteur      noun g=m f=bienfaitrice
@@ -438,6 +445,7 @@ billot           noun g=m
 bimbeloterie     noun g=f
 bimoteur         noun g=m
 binette          noun g=f
+bingo            noun g=m
 binocle          noun g=m
 binôme           noun g=m
 biocarburant     noun g=m
@@ -469,8 +477,10 @@ biosphère        noun g=f
 biosynthèse      noun g=f
 biotechnologie   noun g=f
 biotope          noun g=m
+bip              noun g=m
 bipartisme       noun g=m
 biplan           noun g=m
+bique            noun g=f style=colloquial alt=chèvre
 biquet           noun g=m f=biquette
 birbe            noun g=m
 biréacteur       noun g=m
@@ -488,6 +498,7 @@ bistouri         noun g=m
 bistro           noun g=m note=also bistrot
 bistrot          noun g=m
 bit              noun g=m
+bite             noun g=f style=vulgar alt=pénis
 bitter           noun g=m
 bitume           noun g=m
 bivalve          noun g=m
@@ -517,6 +528,7 @@ blasphème        noun g=m
 blatte           noun g=f
 blazer           noun g=m
 blé              noun g=m
+bled             noun g=m style=colloquial alt=village
 blennorragie     noun g=f
 blessé           noun g=m f=blessée
 blessure         noun g=f
@@ -539,7 +551,7 @@ blond            noun g=m f=blonde
 blondeur         noun g=f
 blouse           noun g=f
 blouson          noun g=m
-blue-jean        noun g=m pl=blue-jeans
+blue-jean        noun g=m pl=blue-jeans rect=bluejean rect_pl=bluejeans
 blues            noun g=m
 bluette          noun g=f
 bluff            noun g=m
@@ -553,6 +565,7 @@ bobo             noun g=m style=colloquial
 bobsleigh        noun g=m
 bocage           noun g=m
 bocal            noun g=m
+boche            noun g=m|f style=offensive alt=allemand
 bock             noun g=m
 body             noun g=m
 bœuf             noun g=m
@@ -595,9 +608,9 @@ bonite           noun g=f
 bonjour          noun g=m
 bonne            noun g=f
 bonnet           noun g=m
-bonneterie       noun g=f
+bonneterie       noun g=f rect=bonnèterie
 bonnetier        noun g=m f=bonnetière
-bonniche         noun g=f style=offensive alt=domestique
+bonniche         noun g=f style=offensive alt=domestique rect=boniche
 bonsaï           noun g=m
 bonté            noun g=f
 bonus            noun g=m
@@ -662,6 +675,7 @@ bougainvillée    noun g=f
 bougeoir         noun g=m
 bougeotte        noun g=f style=colloquial
 bougie           noun g=f
+bougnoule        noun g=m|f style=vulgar|offensive alt=arabe
 bougonnement     noun g=m
 bougre           noun g=m style=colloquial
 bouillabaisse    noun g=f
@@ -696,6 +710,7 @@ bouquin          noun g=m style=colloquial alt=livre
 bouquiniste      noun g=m|f
 bourbe           noun g=f
 bourbier         noun g=m
+bourbon          noun g=m
 bourde           noun g=f
 bourdon          noun g=m
 bourdonnement    noun g=m
@@ -717,14 +732,15 @@ bourrin          noun g=m style=colloquial
 bourrique        noun g=f
 bourse           noun g=f
 boursier         noun g=m f=boursière
-boursouflure     noun g=f
+boursouflure     noun g=f rect=boursoufflure
 bousculade       noun g=f
+bouse            noun g=f
 bousier          noun g=m
 boussole         noun g=f
 boustifaille     noun g=f style=colloquial alt=nourriture
 bout             noun g=m
 boutade          noun g=f
-boute-en-train   noun g=m pl=boute-en-train
+boute-en-train   noun g=m pl=boute-en-train rect=boutentrain rect_pl=boutentrains
 boutefeu         noun g=m
 bouteille        noun g=f
 bouteiller       noun g=m
@@ -740,13 +756,16 @@ bovidé           noun g=m
 bovin            noun g=m
 bowling          noun g=m
 box              noun g=m
-box-office       noun g=m pl=box-offices
+box-office       noun g=m pl=box-offices rect=boxoffice rect_pl=boxoffices
 boxe             noun g=f
 boxeur           noun g=m f=boxeuse
+boy              noun g=m note=domestic servant in colonial contexts
+boy-scout        noun g=m pl=boy-scouts
 boyard           noun g=m
 boyau            noun g=m
 boycott          noun g=m
 bracelet         noun g=m
+bracelet-montre  noun g=m pl=bracelets-montres
 braconnage       noun g=m
 braconnier       noun g=m f=braconnière
 braderie         noun g=f
@@ -766,11 +785,12 @@ brandade         noun g=f
 brandebourg      noun g=m
 brandon          noun g=m
 branle           noun g=m
-branle-bas       noun g=m pl=branle-bas
+branle-bas       noun g=m pl=branle-bas rect=branlebas rect_pl=branlebas
+branleur         noun g=m f=branleuse style=vulgar alt=fainéant
 braquage         noun g=m
 braquet          noun g=m
 bras             noun g=m
-brasero          noun g=m
+brasero          noun g=m rect=braséro
 brasier          noun g=m
 brassage         noun g=m
 brassard         noun g=m
@@ -823,7 +843,7 @@ brio             noun g=m
 brioche          noun g=f
 brique           noun g=f
 briquet          noun g=m
-briqueterie      noun g=f
+briqueterie      noun g=f rect=briquèterie
 briquette        noun g=f
 bris             noun g=m
 brisant          noun g=m
@@ -883,10 +903,10 @@ bruissement      noun g=m
 bruit            noun g=m
 bruitage         noun g=m
 brûlage          noun g=m rect=brulage
-brûle-parfum     noun g=m pl=brûle-parfums
-brûlerie         noun g=f
-brûleur          noun g=m
-brûlot           noun g=m
+brûle-parfum     noun g=m pl=brûle-parfums rect=brule-parfum
+brûlerie         noun g=f rect=brulerie
+brûleur          noun g=m rect=bruleur
+brûlot           noun g=m rect=brulot
 brûlure          noun g=f rect=brulure
 brumaire         noun g=m
 brume            noun g=f
@@ -900,16 +920,16 @@ brute            noun g=f
 bruyère          noun g=f
 buanderie        noun g=f
 buccin           noun g=m
-bûche            noun g=f
-bûcher           noun g=m
-bûcheron         noun g=m f=bûcheronne
-bûchette         noun g=f
+bûche            noun g=f rect=buche
+bûcher           noun g=m rect=bucher
+bûcheron         noun g=m f=bûcheronne rect=bucheron
+bûchette         noun g=f rect=buchette
 budget           noun g=m
 budgétisation    noun g=f
 buée             noun g=f
 buffet           noun g=m
 buffle           noun g=m
-buffleterie      noun g=f
+buffleterie      noun g=f rect=bufflèterie
 bugle            noun g=m
 bugne            noun g=f
 building         noun g=m
@@ -932,7 +952,7 @@ bureautique      noun g=f
 burette          noun g=f
 burgrave         noun g=m
 burin            noun g=m
-burn-out         noun g=m pl=burn-out
+burn-out         noun g=m pl=burn-out rect=burnout rect_pl=burnouts
 burnous          noun g=m
 bus              noun g=m
 buse             noun g=f

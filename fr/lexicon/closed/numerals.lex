@@ -174,7 +174,7 @@ trente-troisième          num  type=ord value=33
 trentième                 num  type=ord value=30
 trois                     num  value=3
 troisième                 num  type=ord value=3
-un                        num  value=1 f=une
+un                        num  value=1 f=une aspirate note=no elision before the number: le un, la une
 unième                    num  type=ord value=1 note=only in compounds: vingt et unième
 vingt                     num  value=20 pl=vingts note=vingts in quatre-vingts only
 vingt-cinq                num  value=25

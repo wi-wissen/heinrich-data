@@ -7,14 +7,14 @@ aberrant           adj
 abîmé              adj rect=abimé
 abject             adj
 abolitionniste     adj
-abominable         adj
+abominable         adj adv=abominablement
 abondant           adj adv=abondamment
 abordable          adj
 aborigène          adj
 abrasif            adj
 abrégé             adj
 abrogatif          adj
-abrupt             adj
+abrupt             adj adv=abruptement
 abruti             adj
 abscons            adj
 absent             adj
@@ -45,7 +45,7 @@ accompagné         adj
 accompli           adj
 accorte            adj style=literary
 accoutumé          adj
-accro              adj style=colloquial alt=dépendant
+accro              adj style=colloquial alt=dépendant f=accro
 accrocheur         adj f=accrocheuse
 accroupi           adj
 accueillant        adj
@@ -87,7 +87,7 @@ admissible         adj
 adolescent         adj
 adopté             adj
 adoptif            adj
-adorable           adj
+adorable           adj adv=adorablement
 adoré              adj
 adroit             adj adv=adroitement
 adulte             adj
@@ -100,11 +100,11 @@ aérien             adj
 aérobie            adj
 aérodynamique      adj
 aéronautique       adj
-aéronaval          adj
+aéronaval          adj pl=aéronavals
 aéroporté          adj
 aéroportuaire      adj
 aérospatial        adj
-affable            adj
+affable            adj adv=affablement
 affaibli           adj
 affairé            adj
 affaissé           adj
@@ -113,6 +113,7 @@ affecté            adj
 affectif           adj
 affectueux         adj adv=affectueusement
 afférent           adj
+affilé             adj
 affilié            adj
 affiné             adj
 affirmatif         adj
@@ -295,7 +296,7 @@ antiaérien         adj
 antiatomique       adj
 antibrouillard     adj inv
 anticancéreux      adj
-antichar           adj
+antichar           adj f=antichar
 anticlérical       adj
 anticommuniste     adj
 anticoncurrentiel  adj
@@ -410,7 +411,7 @@ articulaire        adj
 articulatoire      adj
 artificiel         adj adv=artificiellement
 artisanal          adj
-artistique         adj
+artistique         adj adv=artistiquement
 aryen              adj
 ascendant          adj
 ascétique          adj
@@ -506,8 +507,9 @@ autoroutier        adj
 autrichien         adj
 auvergnat          adj
 auxiliaire         adj
+avachi             adj
 avancé             adj
-avant-coureur      adj f=avant-coureuse
+avant-coureur      adj f=avant-coureur conf=80
 avant-dernier      adj f=avant-dernière
 avant-gardiste     adj
 avantageux         adj

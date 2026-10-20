@@ -24,10 +24,6 @@ artistement     adv
 assurément      adv
 astucieusement  adv
 atrocement      adv
-au-dehors       adv
-au-dessous      adv
-au-dessus       adv
-au-devant       adv
 audacieusement  adv
 aujourd'hui     adv
 auparavant      adv
