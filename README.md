@@ -4,7 +4,7 @@ Language data for the Heinrich engine (`wi-wissen/Heinrich`): our own lexicon, c
 build scripts and finished language packs.
 
 ## Rules
-- **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY) that
+- **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY, Licence Ouverte 2.0) that
   allows commercial use. Every source goes in `SOURCES.md` with license and provenance.
 - **No** CC-BY-SA, GPL, LGPL or NC data – not even in excerpts. The one exception is `thesaurus/`
   (owner decision 2026-10-19): third-party thesauri kept unchanged as input of the separate, optional
@@ -26,6 +26,8 @@ build scripts and finished language packs.
   protocol: `en/lexicon/AUTHORING.md`
 - `en/names/` – English given names, surnames and place names (own lists, with a marker for names
   that are also ordinary words; `en/names/README.md`)
+- `fr/names/` – French given names, surnames and place names, filtered from official open data
+  (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
 - `de/phon/` – pronunciation exceptions
 - `thesaurus/` – third-party thesauri (OpenThesaurus CC BY-SA 4.0, Open English WordNet CC BY 4.0), unchanged,
   for the optional thesaurus packs only; lexicon authors must not read it (`thesaurus/README.md`)
