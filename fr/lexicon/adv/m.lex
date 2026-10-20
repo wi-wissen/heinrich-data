@@ -1,43 +1,9 @@
-magnétiquement     adv
-maigrement         adv
-maintenant         adv
-mal                adv
-maladivement       adv
-malhabilement      adv
-malhonnêtement     adv
-malignement        adv
-maritalement       adv
-marre              adv style=colloquial alt=assez note=only in en avoir marre
-maternellement     adv
-méchamment         adv
-médiatiquement     adv
-médicalement       adv
-médiocrement       adv
-mélancoliquement   adv
-mélodieusement     adv
-mensongèrement     adv
-mensuellement      adv
-merveilleusement   adv
-mesquinement       adv
-métaphoriquement   adv
-métaphysiquement   adv
-méthodologiquement adv
-mielleusement      adv
-militairement      adv
-minimalement       adv
-minoritairement    adv
-misérablement      adv
-moderato           adv
-moelleusement      adv
-moindrement        adv
-moitié-moitié      adv style=colloquial
-mondialement       adv
-monstrueusement    adv
-moqueusement       adv
-mordicus           adv style=colloquial alt=obstinément
-mortellement       adv
-moyennement        adv
-mûrement           adv
-musicalement       adv
-mystérieusement    adv
-mystiquement       adv
+maintenant       adv
+mal              adv
+marre            adv style=colloquial alt=assez note=only in en avoir marre
+métaphysiquement adv
+moderato         adv rect=modérato
+moitié-moitié    adv style=colloquial
+mordicus         adv style=colloquial alt=obstinément
+moult            adv style=archaic
+mûrement         adv rect=murement

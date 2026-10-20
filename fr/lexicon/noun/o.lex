@@ -41,6 +41,7 @@ obturation               noun g=f
 obus                     noun g=m
 obusier                  noun g=m
 ocarina                  noun g=m
+occase                   noun g=f style=colloquial alt=occasion
 occasion                 noun g=f
 occident                 noun g=m
 occidentalisation        noun g=f
@@ -58,7 +59,7 @@ océan                    noun g=m
 océanarium               noun g=m
 océanographe             noun g=m|f
 océanographie            noun g=f
-ocelle                   noun g=f
+ocelle                   noun g=m conf=80 note=gender varies in use; masculine more usual
 ocelot                   noun g=m
 ocre                     noun g=f
 octaèdre                 noun g=m
@@ -328,6 +329,8 @@ osier                    noun g=m
 osmium                   noun g=m
 osmose                   noun g=f
 ossature                 noun g=f
+osselet                  noun g=m
+ossement                 noun g=m
 ossements                noun g=m pl_only
 ossification             noun g=f
 ossuaire                 noun g=m
@@ -352,14 +355,14 @@ ostréiculture            noun g=f
 otage                    noun g=m|f
 otarie                   noun g=f
 otite                    noun g=f
-oto-rhino-laryngologiste noun g=m|f pl=oto-rhino-laryngologistes
+oto-rhino-laryngologiste noun g=m|f pl=oto-rhino-laryngologistes rect=otorhinolaryngologiste
 ouaille                  noun g=f
 ouailles                 noun g=f pl_only
 ouate                    noun g=f aspirate note=la ouate and l'ouate both occur
 oubli                    noun g=m
 oubliette                noun g=f
 oued                     noun g=m
-ouest                    noun g=m
+ouest                    noun g=m pl=- note=compass point
 ouï-dire                 noun g=m pl=ouï-dire
 ouïe                     noun g=f
 ouistiti                 noun g=m aspirate
@@ -384,6 +387,7 @@ ouverture                noun g=f
 ouvrage                  noun g=m
 ouvre-boîte              noun g=m rect=ouvre-boite
 ouvre-bouteille          noun g=m
+ouvreur                  noun g=m f=ouvreuse
 ouvreuse                 noun g=f
 ouvrier                  noun g=m f=ouvrière
 ouvriérisme              noun g=m

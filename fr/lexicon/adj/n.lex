@@ -1,3 +1,4 @@
+nacré              adj
 naïf               adj f=naïve adv=naïvement
 naissant           adj
 nanti              adj
@@ -5,13 +6,13 @@ napoléonien        adj
 napolitain         adj
 narbonnais         adj
 narcissique        adj
-narquois           adj
-narratif           adj
+narquois           adj adv=narquoisement
+narratif    adj adv=narrativement
 nasal              adj
 nasillard          adj
 natal              adj pl=natals
-natif              adj
-national           adj
+natif       adj adv=nativement
+national    adj adv=nationalement
 nationalisé        adj
 nationaliste       adj
 nativiste          adj
@@ -32,12 +33,12 @@ néerlandais        adj
 néerlandophone     adj
 néfaste            adj
 négateur           adj f=négatrice
-négatif            adj
+négatif            adj adv=négativement
 négligeable        adj
-négligent          adj
+négligent          adj adv=négligemment
 négociable         adj
 neigeux            adj
-néo-zélandais      adj
+néo-zélandais      adj rect=néozélandais
 néoclassique       adj
 néoconservateur    adj f=néoconservatrice
 néogothique        adj
@@ -61,7 +62,7 @@ névralgique        adj
 névrotique         adj
 new-yorkais        adj
 niable             adj
-niais              adj
+niais              adj adv=niaisement
 nicheur            adj f=nicheuse
 nickelé            adj
 niçois             adj
@@ -72,22 +73,23 @@ nihiliste          adj
 nippon             adj f=nipponne
 nitrique           adj
 nobiliaire         adj
-noble              adj
+noble              adj adv=noblement
 nocif              adj
 nocturne           adj
 nodal              adj
 noir               adj
 noirâtre           adj
+noiraud            adj style=colloquial
 noirci             adj
 nomade             adj
 nombreux           adj
 nominal            adj adv=nominalement
 nominaliste        adj
-nominatif          adj
+nominatif          adj adv=nominativement
 non-conformiste    adj
 non-linéaire       adj
 non-violent        adj
-nonchalant         adj
+nonchalant         adj adv=nonchalamment
 nonpareil          adj
 nonuple            adj
 nord-américain     adj
@@ -98,7 +100,7 @@ normand            adj
 normatif           adj
 norvégien          adj
 nosocomial         adj
-nostalgique        adj
+nostalgique        adj adv=nostalgiquement
 notable            adj adv=notablement
 notarial           adj
 notarié            adj
@@ -118,7 +120,7 @@ nucléique          adj
 nucléophile        adj
 nuisible           adj
 nul                adj f=nulle
-numérique          adj
+numérique          adj adv=numériquement
 nuptial            adj
 nutritif           adj
 nutritionnel       adj

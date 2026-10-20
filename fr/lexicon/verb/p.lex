@@ -19,7 +19,7 @@ paniquer          verb
 panneauter        verb
 panoramiquer      verb
 panser            verb
-panteler          verb note=è like geler; mostly participle pantelant
+panteler          verb class=double_trad note=mostly participle pantelant
 pantoufler        verb pp_inv
 papillonner       verb pp_inv
 papilloter        verb pp_inv
@@ -73,6 +73,7 @@ patronner         verb
 patrouiller       verb
 pâturer           verb
 paumer            verb style=colloquial alt=perdre
+pavaner           verb pronominal note=se pavaner
 paver             verb
 pavoiser          verb
 payer             verb
@@ -124,7 +125,7 @@ perpétuer         verb
 perquisitionner   verb
 persécuter        verb
 persévérer        verb pp_inv
-persifler         verb
+persifler         verb rect=persiffler
 persister         verb pp_inv
 personnaliser     verb
 personnifier      verb
@@ -134,7 +135,7 @@ pervertir         verb class=ir
 peser             verb
 pester            verb pp_inv
 pétarader         verb pp_inv
-péter             verb style=vulgar
+péter             verb style=colloquial alt=casser|éclater
 pétiller          verb pp_inv
 pétitionner       verb pp_inv
 pétrifier         verb
@@ -169,7 +170,7 @@ pincer            verb
 piocher           verb
 pioncer           verb pp_inv style=colloquial alt=dormir
 piper             verb
-pique-niquer      verb pp_inv
+pique-niquer      verb pp_inv rect=piqueniquer
 piquer            verb
 piqueter          verb class=double_trad
 pirater           verb
@@ -201,10 +202,10 @@ plâtrer           verb
 plébisciter       verb
 pleurer           verb
 pleurnicher       verb pp_inv
-pleuvasser        verb impersonal style=colloquial
-pleuviner         verb impersonal
+pleuvasser        verb impersonal pp_inv style=colloquial
+pleuviner         verb impersonal pp_inv
 pleuvoir          verb class=irr pres=pleus,pleuvons,pleuvent ps=plus fut=pleuvrai pp=plu pp_inv defective=inf|3|ppr|pp note=impersonal il pleut; 3rd plural for figurative les coups pleuvent
-pleuvoter         verb impersonal
+pleuvoter         verb impersonal pp_inv
 plier             verb
 plisser           verb
 plomber           verb

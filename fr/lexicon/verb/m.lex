@@ -6,6 +6,7 @@ mâchouiller    verb style=colloquial alt=mâchonner
 maçonner       verb
 maculer        verb
 magasiner      verb note=Quebec usage
+magner         verb pronominal style=colloquial alt=dépêcher note=se magner
 magnétiser     verb
 magnifier      verb
 magouiller     verb style=colloquial alt=manigancer
@@ -35,7 +36,7 @@ maquiller      verb
 marbrer        verb
 marchander     verb
 marcher        verb pp_inv
-marcotter      verb
+marcotter      verb rect=marcoter
 marginaliser   verb
 marier         verb
 mariner        verb
@@ -89,6 +90,7 @@ mentir         verb class=partir pp_inv
 menuiser       verb
 méprendre      verb class=prendre pronominal
 mépriser       verb
+merder         verb pp_inv style=vulgar alt=échouer
 mériter        verb
 mésestimer     verb
 mesurer        verb
@@ -152,6 +154,7 @@ moraliser      verb
 morceler       verb class=double_trad
 mordiller      verb
 mordre         verb class=rendre
+morfler        verb style=colloquial alt=souffrir|encaisser
 morfondre      verb class=rendre pronominal
 morigéner      verb
 mortaiser      verb
@@ -161,6 +164,7 @@ motoriser      verb
 moucher        verb
 moucheter      verb class=double_trad
 moudre         verb class=moudre
+moufter        verb pp_inv style=colloquial alt=protester note=mostly sans moufter
 mouiller       verb
 mouler         verb
 mourir         verb class=mourir aux=être
@@ -174,7 +178,7 @@ multiplexer    verb
 multiplier     verb
 munir          verb class=ir
 murer          verb
-mûrir          verb class=ir
+mûrir          verb class=ir rect=murir
 murmurer       verb
 musarder       verb pp_inv
 muscler        verb

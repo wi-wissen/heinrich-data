@@ -1,29 +1,29 @@
 maboul               adj f=maboule style=colloquial alt=fou
 macabre              adj
 macédonien           adj
-machiavélique        adj
+machiavélique adj adv=machiavéliquement
 machinal             adj adv=machinalement
 maçonnique           adj
 macrobiotique        adj
 macrocéphale         adj
 macroéconomique      adj
 macroprudentiel      adj
-macroscopique        adj
+macroscopique adj adv=macroscopiquement
 madré                adj
 mafflu               adj
 mafieux              adj
 magdalénien          adj
 maghrébin            adj
-magique              adj
+magique     adj adv=magiquement
 magistral            adj adv=magistralement
 magmatique           adj
-magnanime            adj
+magnanime   adj adv=magnanimement
 magnésien            adj
-magnétique           adj
+magnétique           adj adv=magnétiquement
 magnifique           adj adv=magnifiquement
 mahométan            adj style=archaic
 mahorais             adj
-maigre               adj
+maigre               adj adv=maigrement
 maigrelet            adj f=maigrelette
 maigrichon           adj f=maigrichonne style=colloquial alt=maigre
 maigriot             adj f=maigriotte style=colloquial alt=maigre
@@ -36,7 +36,7 @@ majoritaire          adj adv=majoritairement
 majorquin            adj
 majuscule            adj
 malade               adj
-maladif              adj
+maladif              adj adv=maladivement
 maladroit            adj adv=maladroitement
 malais               adj
 malaisé              adj adv=malaisément
@@ -52,12 +52,12 @@ malformatif          adj
 malformé             adj
 malgache             adj
 malgracieux          adj style=literary
-malhabile            adj
+malhabile            adj adv=malhabilement
 malheureux           adj adv=malheureusement
-malhonnête           adj
+malhonnête           adj adv=malhonnêtement
 malicieux            adj adv=malicieusement
 malien               adj
-malin                adj f=maligne
+malin                adj f=maligne adv=malignement
 malingre             adj
 malléable            adj
 malnutri             adj
@@ -111,7 +111,7 @@ marié                adj
 marin                adj
 mariné               adj
 mariole              adj style=colloquial alt=malin
-marital              adj
+marital              adj adv=maritalement
 maritime             adj
 marmoréen            adj
 marocain             adj
@@ -121,7 +121,7 @@ marquant             adj
 marrant              adj style=colloquial alt=amusant|drôle
 marron               adj inv
 marseillais          adj
-martial              adj
+martial     adj adv=martialement
 martien              adj
 martiniquais         adj
 martyr               adj
@@ -132,16 +132,16 @@ massacrant           adj
 massif               adj adv=massivement
 massique             adj
 masticatoire         adj
-mastoc               adj f=mastoc style=colloquial alt=massif
+mastoc               adj inv style=colloquial alt=massif
 mastoïde             adj
 mat                  adj
 matelassé            adj
 matérialiste         adj
 matériel             adj adv=matériellement
 maternant            adj
-maternel             adj
+maternel             adj adv=maternellement
 mathématique         adj adv=mathématiquement
-matinal              adj
+matinal     adj adv=matinalement
 mâtiné               adj
 matois               adj
 matriarcal           adj
@@ -154,32 +154,32 @@ maure                adj
 mauresque            adj
 mauricien            adj
 mauritanien          adj
-maussade             adj
+maussade    adj adv=maussadement
 mauvais              adj place=pre cmp=pire
 mauve                adj
 maxi                 adj inv
 maxillaire           adj
 maximal              adj
 maximaliste          adj
-maximum              adj note=adjective use: valeur maximum
+maximum              adj f=maximum pl=maximums|maxima fpl=maximums|maxima note=same form for both genders: valeur maximum, températures maximums
 méandreux            adj
 mécanique            adj adv=mécaniquement
 mécaniste            adj
 mécanographique      adj
-méchant              adj
+méchant              adj adv=méchamment
 méconnaissable       adj
 méconnu              adj
 mécontent            adj
 médaillé             adj
 médian               adj
-médiatique           adj
-médical              adj
+médiatique           adj adv=médiatiquement
+médical              adj adv=médicalement
 médicamenteux        adj
 médicinal            adj
-médico-légal         adj pl=médico-légaux
-médico-social        adj pl=médico-sociaux
+médico-légal         adj pl=médico-légaux rect=médicolégal
+médico-social        adj pl=médico-sociaux rect=médicosocial
 médiéval             adj
-médiocre             adj
+médiocre             adj adv=médiocrement
 médisant             adj
 méditatif            adj
 méditerranéen        adj
@@ -187,12 +187,13 @@ médiumnique          adj
 médullaire           adj
 médusé               adj
 méfiant              adj
+méga                 adj inv style=colloquial
 mégalithique         adj
 mégalomane           adj
 meilleur             adj f=meilleure
-mélancolique         adj
+mélancolique         adj adv=mélancoliquement
 mélioratif           adj
-mélodieux            adj
+mélodieux            adj adv=mélodieusement
 mélodique            adj
 mélodramatique       adj
 membranaire          adj
@@ -206,9 +207,9 @@ menaçant             adj
 ménager              adj
 méningé              adj
 ménopausé            adj
-mensonger            adj
+mensonger            adj adv=mensongèrement
 menstruel            adj
-mensuel              adj
+mensuel              adj adv=mensuellement
 mental               adj adv=mentalement
 menteur              adj f=menteuse
 mentholé             adj
@@ -227,12 +228,12 @@ méritant             adj
 méritocratique       adj
 méritoire            adj
 mérovingien          adj
-merveilleux          adj
+merveilleux          adj adv=merveilleusement
 mésolithique         adj
 mésophile            adj
 mésopotamien         adj
 mésozoïque           adj
-mesquin              adj
+mesquin              adj adv=mesquinement
 messianique          adj
 mesurable            adj
 mesuré               adj
@@ -241,13 +242,13 @@ métacarpien          adj
 métallique           adj
 métallurgique        adj
 métamorphique        adj
-métaphorique         adj
+métaphorique         adj adv=métaphoriquement
 métatarsien          adj
 météorique           adj
 météorologique       adj
 méthodique           adj adv=méthodiquement
 méthodiste           adj
-méthodologique       adj
+méthodologique       adj adv=méthodologiquement
 méthylique           adj
 méticuleux           adj adv=méticuleusement
 métis                adj f=métisse
@@ -267,7 +268,7 @@ microéconomique      adj
 microélectronique    adj
 micronisé            adj
 microscopique        adj
-mielleux             adj
+mielleux             adj adv=mielleusement
 mièvre               adj
 mignon               adj
 migraineux           adj
@@ -275,7 +276,7 @@ migrant              adj
 migrateur            adj f=migratrice
 migratoire           adj
 milanais             adj
-militaire            adj
+militaire            adj adv=militairement
 militant             adj
 militariste          adj
 millénaire           adj
@@ -293,13 +294,13 @@ minéralogique        adj
 mineur               adj f=mineure
 mini                 adj inv
 minier               adj
-minimal              adj
+minimal              adj adv=minimalement
 minimaliste          adj
 minime               adj
-minimum              adj note=adjective use: âge minimum
+minimum              adj f=minimum pl=minimums|minima fpl=minimums|minima note=same form for both genders: âge minimum, tarifs minimums
 ministériel          adj
 ministrable          adj
-minoritaire          adj
+minoritaire          adj adv=minoritairement
 minuscule            adj
 minutieux            adj adv=minutieusement
 miraculeux           adj adv=miraculeusement
@@ -308,9 +309,9 @@ mirobolant           adj
 miroitant            adj
 misandre             adj
 misanthropique       adj
-misérable            adj
+misérable            adj adv=misérablement
 miséreux             adj
-miséricordieux       adj
+miséricordieux adj adv=miséricordieusement
 misogyne             adj
 missionnaire         adj
 miteux               adj
@@ -338,8 +339,8 @@ modique              adj
 modulable            adj
 modulaire            adj
 modulateur           adj f=modulatrice
-moelleux             adj
-moindre              adj
+moelleux             adj adv=moelleusement
+moindre              adj adv=moindrement
 moisi                adj
 moite                adj
 molaire              adj
@@ -350,14 +351,15 @@ momentané            adj adv=momentanément
 monacal              adj
 monarchique          adj
 monarchiste          adj
-monastique           adj
-mondain              adj
-mondial              adj
+monastique  adj adv=monastiquement
+mondain     adj adv=mondainement
+mondial              adj adv=mondialement
 mondialiste          adj
 monégasque           adj
 monétaire            adj
 monétariste          adj
 mongol               adj
+mongol               adj sense=insult style=offensive note=insult derived from mongolisme
 mongolien            adj style=offensive note=offensive for Down syndrome; neutral: trisomique
 monnayable           adj
 monoatomique         adj
@@ -384,17 +386,17 @@ monorime             adj
 monosyllabique       adj
 monotâche            adj
 monothéiste          adj
-monotone             adj
+monotone    adj adv=monotonement
 monotypique          adj
 monstre              adj
-monstrueux           adj
+monstrueux           adj adv=monstrueusement
 montagnard           adj
 montagneux           adj
 montant              adj
 monténégrin          adj
 montueux             adj
 monumental           adj
-moqueur              adj f=moqueuse
+moqueur              adj f=moqueuse adv=moqueusement
 morainique           adj
 moral                adj adv=moralement
 moralisant           adj
@@ -405,19 +407,19 @@ mordant              adj
 mordoré              adj
 mordu                adj
 moresque             adj
-morfal               adj style=colloquial alt=glouton
-morganatique         adj
+morfal               adj pl=morfals style=colloquial alt=glouton
+morganatique adj adv=morganatiquement
 moribond             adj
-mormon               adj
+mormon               adj f=mormone
 morne                adj
 morose               adj
 morphogénétique      adj
-morphologique        adj
+morphologique adj adv=morphologiquement
 morphométrique       adj
 morphosyntaxique     adj
 mort                 adj
 mort-né              adj
-mortel               adj
+mortel               adj adv=mortellement
 mortifère            adj
 mortifiant           adj
 mortuaire            adj
@@ -441,7 +443,7 @@ moustachu            adj
 moutonnier           adj
 mouvant              adj
 mouvementé           adj
-moyen                adj
+moyen                adj adv=moyennement
 moyenâgeux           adj
 mozambicain          adj
 muet                 adj f=muette
@@ -457,13 +459,13 @@ multidimensionnel    adj
 multidisciplinaire   adj
 multiethnique        adj
 multifactoriel       adj
-multifonction        adj
+multifonction        adj f=multifonction pl=multifonctions fpl=multifonctions
 multifonctionnel     adj
 multiforme           adj
 multijoueur          adj f=multijoueur
 multilatéral         adj
 multilingue          adj
-multimédia           adj
+multimédia           adj f=multimédia pl=multimédias fpl=multimédias
 multimodal           adj
 multinational        adj
 multipartite         adj
@@ -488,12 +490,12 @@ mûr                  adj
 mural                adj
 murmurant            adj
 musclé               adj
-musculaire           adj
+musculaire  adj adv=musculairement
 musculeux            adj
-musculo-squelettique adj pl=musculo-squelettiques
+musculo-squelettique adj pl=musculo-squelettiques rect=musculosquelettique
 muséal               adj
 muséographique       adj
-musical              adj
+musical              adj adv=musicalement
 musicien             adj
 musicologique        adj
 musqué               adj
@@ -510,8 +512,8 @@ mutuel               adj adv=mutuellement
 mycologique          adj
 myope                adj
 myorelaxant          adj
-mystérieux           adj
+mystérieux           adj adv=mystérieusement
 mystifiant           adj
-mystique             adj
+mystique             adj adv=mystiquement
 mythique             adj
 mythologique         adj

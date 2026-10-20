@@ -23,9 +23,11 @@ nanotechnologie    noun g=f
 nanotube           noun g=m
 nantissement       noun g=m
 naphtalène         noun g=m
+naphtaline         noun g=f
 naphte             noun g=m
 nappage            noun g=m
 nappe              noun g=f
+napperon           noun g=m
 narcisse           noun g=m
 narcotique         noun g=m
 narcotrafic        noun g=m
@@ -101,8 +103,10 @@ négociation        noun g=f
 nègre              noun g=m f=négresse style=offensive alt=Noir
 négrier            noun g=m
 négrillon          noun g=m f=négrillonne style=offensive alt=enfant_noir
+négro              noun g=m style=vulgar|offensive alt=Noir
 neige              noun g=f
 nématode           noun g=m
+néné               noun g=m style=colloquial alt=sein
 nénette            noun g=f style=colloquial alt=femme
 nénuphar           noun g=m rect=nénufar
 néocolonialisme    noun g=m
@@ -162,6 +166,7 @@ niaiserie          noun g=f
 niche              noun g=f
 nichée             noun g=f
 nichoir            noun g=m
+nichon             noun g=m style=vulgar alt=sein
 nickel             noun g=m
 nicotine           noun g=f
 nid                noun g=m
@@ -177,14 +182,15 @@ nilomètre          noun g=m
 nimbe              noun g=m
 nimbus             noun g=m
 ninja              noun g=m
-nippes             noun g=f pl_only style=colloquial alt=vêtements
+nippe              noun g=f style=colloquial alt=vêtement note=mostly plural nippes
+nirvana            noun g=m
 nitrate            noun g=m
 nitration          noun g=f
 nitrocellulose     noun g=f
 nitrure            noun g=m
 niveau             noun g=m
 niveleuse          noun g=f
-nivellement        noun g=m
+nivellement        noun g=m rect=nivèlement
 noble              noun g=m|f
 noblesse           noun g=f
 nobliau            noun g=m
@@ -258,7 +264,7 @@ nonchalance        noun g=f
 nonne              noun g=f
 nonnette           noun g=f
 nopal              noun g=m pl=nopals
-nord               noun g=m
+nord               noun g=m pl=- note=compass point
 nord-est           noun g=m pl=- note=compass point
 nord-ouest         noun g=m pl=- note=compass point
 nordicité          noun g=f
@@ -283,6 +289,7 @@ notoriété          noun g=f
 nougat             noun g=m
 nouille            noun g=f
 nounou             noun g=f pl=nounous style=colloquial alt=nourrice
+nounours           noun g=m
 nourrice           noun g=f
 nourrissage        noun g=m
 nourrisson         noun g=m

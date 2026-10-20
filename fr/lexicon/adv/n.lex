@@ -1,13 +1,7 @@
-naguère         adv
-narquoisement   adv
-néanmoins       adv
-négativement    adv
-négligemment    adv
-niaisement      adv
-nominativement  adv
-nommément       adv
-nonchalamment   adv
-nostalgiquement adv
-notamment       adv
-nuitamment      adv
-numériquement   adv
+naguère     adv
+néanmoins   adv
+nenni       adv style=archaic note=old word for non
+nommément   adv
+nonobstant  adv style=literary note=adverb: nonobstant, il partit
+notamment   adv
+nuitamment  adv

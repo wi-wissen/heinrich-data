@@ -11,6 +11,7 @@ packaging             noun g=m
 pacotille             noun g=f
 pacs                  noun g=m
 pacte                 noun g=m
+paddock               noun g=m
 padel                 noun g=m
 pagaie                noun g=f
 pagaille              noun g=f
@@ -83,6 +84,7 @@ palpe                 noun g=m
 palpeur               noun g=m
 palpitation           noun g=f
 paltoquet             noun g=m style=archaic
+paluche               noun g=f style=colloquial alt=main
 paludisme             noun g=m
 pâmoison              noun g=f
 pampa                 noun g=f
@@ -144,8 +146,9 @@ pape                  noun g=m
 paperasse             noun g=f
 paperasserie          noun g=f
 paperassier           noun g=m f=paperassière
-papeterie             noun g=f
+papeterie             noun g=f rect=papèterie
 papetier              noun g=m f=papetière
+papi                  noun g=m style=colloquial alt=grand-père note=also written papy
 papier                noun g=m
 papier-monnaie        noun g=m pl=papiers-monnaies
 papille               noun g=f
@@ -157,6 +160,7 @@ papisme               noun g=m
 papiste               noun g=m|f
 papotage              noun g=m style=colloquial
 paprika               noun g=m
+papy                  noun g=m style=colloquial alt=grand-père note=also written papi
 papyrus               noun g=m
 paquebot              noun g=m
 pâquerette            noun g=f
@@ -179,6 +183,7 @@ paradoxe              noun g=m
 parafe                noun g=m
 paraffine             noun g=f
 parafoudre            noun g=m
+parage                noun g=m style=literary note=de haut parage
 parages               noun g=m pl_only
 paragraphe            noun g=m
 paraguayen            noun g=m f=paraguayenne
@@ -196,6 +201,7 @@ paramétrage           noun g=m
 paramètre             noun g=m
 paramilitaire         noun g=m|f
 parangon              noun g=m
+parano                noun g=f sense=paranoia style=colloquial alt=paranoïa
 paranoïa              noun g=f
 paranoïaque           noun g=m|f
 parapente             noun g=m
@@ -312,12 +318,13 @@ partiel               noun g=m
 partisan              noun g=m f=partisane
 partition             noun g=f
 partitionnement       noun g=m
+partouze              noun g=f style=vulgar alt=orgie
 parturiente           noun g=f
 parure                noun g=f
 parution              noun g=f
 parvenu               noun g=m f=parvenue
 parvis                noun g=m
-pas-de-porte          noun g=m
+pas-de-porte          noun g=m pl=pas-de-porte
 pascal                noun g=m pl=pascals sense=unit
 passade               noun g=f
 passage               noun g=m
@@ -331,9 +338,9 @@ passe-lacet           noun g=m pl=passe-lacets
 passe-montagne        noun g=m pl=passe-montagnes
 passe-muraille        noun g=m pl=passe-muraille[trad]|passe-murailles[rect]
 passe-partout         noun g=m pl=passe-partout[trad]|passe-partouts[rect]
-passe-passe           noun g=m pl=passe-passe
+passe-passe           noun g=m pl=passe-passe rect=passepasse rect_pl=passepasses
 passe-plat            noun g=m pl=passe-plats
-passe-temps           noun g=m
+passe-temps           noun g=m rect=passetemps
 passe-thé             noun g=m pl=passe-thé[trad]|passe-thés[rect]
 passéisme             noun g=m
 passementerie         noun g=f
@@ -467,6 +474,7 @@ pédagogie             noun g=f
 pédagogue             noun g=m|f
 pédalage              noun g=m
 pédale                noun g=f
+pédale                noun g=f sense=slur style=vulgar|offensive alt=homosexuel
 pédalier              noun g=m
 pédalo                noun g=m
 pédanterie            noun g=f
@@ -480,7 +488,7 @@ pédicelle             noun g=m
 pédiculose            noun g=f
 pédicure              noun g=m|f
 pédicure-podologue    noun g=m|f pl=pédicures-podologues
-pedigree              noun g=m
+pedigree              noun g=m rect=pédigrée
 pédologie             noun g=f
 pédologue             noun g=m|f
 pédoncule             noun g=m
@@ -525,8 +533,7 @@ pemphigus             noun g=m
 pénalisation          noun g=f
 pénaliste             noun g=m|f
 pénalité              noun g=f
-penalty               noun g=m pl=penaltys|penalties
-pénalty               noun g=m pl=pénaltys note=French spelling of penalty
+penalty               noun g=m pl=penaltys|penalties rect=pénalty
 pénates               noun g=m pl_only
 penchant              noun g=m
 pendage               noun g=m
@@ -577,6 +584,7 @@ pépite                noun g=f
 péplum                noun g=m
 peps                  noun g=m style=colloquial
 peptide               noun g=m
+péquenot              noun g=m style=colloquial|offensive alt=paysan
 perçage               noun g=m
 percale               noun g=f
 percée                noun g=f
@@ -587,6 +595,7 @@ perceur               noun g=m f=perceuse
 perceuse              noun g=f
 perchaude             noun g=f
 perche                noun g=f
+percheron             noun g=m
 perchiste             noun g=m|f
 perchman              noun g=m
 perchoir              noun g=m
@@ -680,7 +689,7 @@ persécuteur           noun g=m f=persécutrice
 persécution           noun g=f
 persévérance          noun g=f
 persienne             noun g=f
-persiflage            noun g=m
+persiflage            noun g=m rect=persifflage
 persil                noun g=m
 persillade            noun g=f
 persistance           noun g=f
@@ -709,9 +718,9 @@ pèse-bébé             noun g=m pl=pèse-bébé[trad]|pèse-bébés[rect]
 pèse-lettre           noun g=m pl=pèse-lettre[trad]|pèse-lettres[rect]
 pèse-personne         noun g=m pl=pèse-personne[trad]|pèse-personnes[rect]
 pesée                 noun g=f
-peseta                noun g=f
+peseta                noun g=f rect=péséta
 peseur                noun g=m f=peseuse
-peso                  noun g=m
+peso                  noun g=m rect=péso
 pessaire              noun g=m
 pessimisme            noun g=m
 peste                 noun g=f
@@ -742,6 +751,7 @@ petit-suisse          noun g=m pl=petits-suisses
 petitesse             noun g=f
 pétition              noun g=f
 pétitionnaire         noun g=m|f
+pétoche               noun g=f style=colloquial alt=peur
 peton                 noun g=m style=colloquial alt=pied
 pétoncle              noun g=m
 pétrel                noun g=m
@@ -803,6 +813,7 @@ philanthropie         noun g=f
 philatélie            noun g=f
 philatéliste          noun g=m|f
 philharmonie          noun g=f
+philo                 noun g=f style=colloquial alt=philosophie
 philodendron          noun g=m
 philologie            noun g=f
 philologue            noun g=m|f
@@ -874,21 +885,24 @@ phytopharmacie        noun g=f
 phytoplancton         noun g=m
 phytothérapeute       noun g=m|f
 phytothérapie         noun g=f
+piaf                  noun g=m style=colloquial alt=moineau
 piaffement            noun g=m
 piaillement           noun g=m
 piaillerie            noun g=f
 pianiste              noun g=m|f
 piano                 noun g=m
-pianoforte            noun g=m
+pianoforte            noun g=m pl=pianoforte[trad]|pianofortes[rect]
 pianotage             noun g=m
 piastre               noun g=f
 piaule                noun g=f style=colloquial alt=chambre
+piazza                noun g=f
 pibale                noun g=f
 pic                   noun g=m
 pic                   noun g=m sense=woodpecker
 picador               noun g=m
 picaillons            noun g=m pl_only style=colloquial
 piccolo               noun g=m
+pichenette            noun g=f
 pichet                noun g=m
 pick-up               noun g=m pl=pick-up[trad]|pick-ups[rect]
 pickles               noun g=m pl_only
@@ -974,7 +988,7 @@ pincette              noun g=f
 pinçon                noun g=m
 pinçure               noun g=f
 pinède                noun g=f
-ping-pong             noun g=m pl=- note=no plural
+ping-pong             noun g=m pl=- rect=pingpong note=no plural
 pingouin              noun g=m
 pingrerie             noun g=f
 pinnipède             noun g=m
@@ -1003,7 +1017,7 @@ pique                 noun g=f sense=pike
 pique                 noun g=m sense=spades
 pique-assiette        noun g=m|f pl=pique-assiette[trad]|pique-assiettes[rect]
 pique-bœuf            noun g=m pl=pique-bœufs
-pique-nique           noun g=m pl=pique-niques
+pique-nique           noun g=m pl=pique-niques rect=piquenique
 piquet                noun g=m
 piquetage             noun g=m
 piquette              noun g=f
@@ -1015,6 +1029,7 @@ piraterie             noun g=f
 pirogue               noun g=f
 piroguier             noun g=m
 pirouette             noun g=f
+pis                   noun g=m sense=udder
 pis-aller             noun g=m pl=pis-aller[trad]|pis-allers[rect]
 pisciculteur          noun g=m f=piscicultrice
 pisciculture          noun g=f
@@ -1031,7 +1046,7 @@ pistard               noun g=m
 piste                 noun g=f
 pistil                noun g=m
 pistole               noun g=f
-pistolero             noun g=m
+pistolero             noun g=m rect=pistoléro
 pistolet              noun g=m
 pistolet-mitrailleur  noun g=m pl=pistolets-mitrailleurs
 piston                noun g=m
@@ -1051,13 +1066,13 @@ pivotement            noun g=m
 pixel                 noun g=m
 pizza                 noun g=f
 pizzaiolo             noun g=m
-pizzeria              noun g=f
+pizzeria              noun g=f rect=pizzéria
 pizzicato             noun g=m
 placage               noun g=m
 placard               noun g=m
 placardage            noun g=m
 place                 noun g=f
-placebo               noun g=m
+placebo               noun g=m rect=placébo
 placement             noun g=m
 placenta              noun g=m
 placet                noun g=m
@@ -1157,6 +1172,7 @@ plausibilité          noun g=f
 playback              noun g=m
 playboy               noun g=m
 playmate              noun g=f
+plaza                 noun g=f
 plèbe                 noun g=f
 plébéien              noun g=m f=plébéienne
 plébiscite            noun g=m
@@ -1249,8 +1265,9 @@ poêlon                noun g=m
 poème                 noun g=m
 poésie                noun g=f
 poète                 noun g=m f=poétesse
-poétereau             noun g=m style=colloquial
+poétereau             noun g=m style=colloquial rect=poètereau conf=80
 poétique              noun g=f
+pogne                 noun g=f style=colloquial alt=main
 pognon                noun g=m style=colloquial alt=argent
 pogo                  noun g=m
 pogrom                noun g=m
@@ -1488,7 +1505,7 @@ porte-revues          noun g=m
 porte-savon           noun g=m pl=porte-savon[trad]|porte-savons[rect]
 porte-serviette       noun g=m pl=porte-serviette[trad]|porte-serviettes[rect]
 porte-skis            noun g=m
-porte-voix            noun g=m
+porte-voix            noun g=m rect=portevoix
 portée                noun g=f
 portefaix             noun g=m
 portefeuille          noun g=m
@@ -1519,7 +1536,7 @@ possession            noun g=f
 possessivité          noun g=f
 possibilité           noun g=f
 post                  noun g=m
-post-partum           noun g=m pl=post-partum
+post-partum           noun g=m pl=post-partum rect=postpartum rect_pl=postpartums
 post-scriptum         noun g=m pl=post-scriptum[trad]|post-scriptums[rect]
 postcombustion        noun g=f
 postcure              noun g=f
@@ -1543,7 +1560,7 @@ posture               noun g=f
 pot                   noun g=m
 pot-au-feu            noun g=m pl=pot-au-feu[trad]|pot-au-feux[rect]
 pot-de-vin            noun g=m pl=pots-de-vin
-pot-pourri            noun g=m pl=pots-pourris
+pot-pourri            noun g=m pl=pots-pourris rect=potpourri rect_pl=potpourris
 potache               noun g=m style=colloquial alt=lycéen
 potage                noun g=m
 potager               noun g=m
@@ -1621,7 +1638,7 @@ poussah               noun g=m
 pousse                noun g=f
 pousse-au-crime       noun g=m pl=- note=invariable, colloquial
 pousse-café           noun g=m pl=pousse-café[trad]|pousse-cafés[rect]
-pousse-pousse         noun g=m
+pousse-pousse         noun g=m pl=pousse-pousse rect=poussepousse rect_pl=poussepousses
 poussée               noun g=f
 poussette             noun g=f
 pousseur              noun g=m
@@ -1635,7 +1652,7 @@ poutrelle             noun g=f
 pouvoir               noun g=m
 pouzzolane            noun g=f
 practice              noun g=m
-praesidium            noun g=m note=also présidium
+praesidium            noun g=m pl=praesidium[trad]|praesidiums[rect] note=also présidium
 pragmatisme           noun g=m
 praire                noun g=f
 prairial              noun g=m pl=- note=month of the republican calendar
@@ -1861,7 +1878,7 @@ primeur               noun g=f
 primevère             noun g=f
 primitif              noun g=m f=primitive
 primitivisme          noun g=m
-primo-accédant        noun g=m f=primo-accédante
+primo-accédant        noun g=m f=primo-accédante rect=primoaccédant
 primo-arrivant        noun g=m f=primo-arrivante pl=primo-arrivants
 primo-infection       noun g=f pl=primo-infections
 primogéniture         noun g=f
@@ -1887,6 +1904,7 @@ privauté              noun g=f
 privilège             noun g=m
 privilégié            noun g=m f=privilégiée
 prix                  noun g=m
+pro                   noun g=m|f style=colloquial alt=professionnel
 proactivité           noun g=f
 probabilisme          noun g=m
 probabilité           noun g=f
@@ -2108,7 +2126,7 @@ pruine                noun g=f
 prune                 noun g=f
 pruneau               noun g=m
 prunelle              noun g=f
-prunellier            noun g=m
+prunellier            noun g=m rect=prunelier
 prunier               noun g=m
 prurit                noun g=m
 prytane               noun g=m
@@ -2125,6 +2143,7 @@ pseudoscience         noun g=f
 psilocybine           noun g=f
 psittacose            noun g=f
 psoriasis             noun g=m
+psy                   noun g=m|f style=colloquial alt=psychologue|psychiatre
 psychanalyse          noun g=f
 psychanalyste         noun g=m|f
 psychasthénie         noun g=f
@@ -2207,7 +2226,7 @@ puma                  noun g=m
 punaise               noun g=f
 punch                 noun g=m
 puncheur              noun g=m
-punching-ball         noun g=m pl=punching-balls
+punching-ball         noun g=m pl=punching-balls rect=punchingball
 punition              noun g=f
 punk                  noun g=m|f
 pupe                  noun g=f
@@ -2235,6 +2254,7 @@ pus                   noun g=m
 pusillanimité         noun g=f
 pustule               noun g=f
 putain                noun g=f style=vulgar|offensive alt=prostituée
+pute                  noun g=f style=vulgar|offensive alt=prostituée
 putois                noun g=m
 putréfaction          noun g=f
 putrescence           noun g=f

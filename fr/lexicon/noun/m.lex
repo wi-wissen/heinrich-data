@@ -1,8 +1,11 @@
+mac                      noun g=m style=colloquial alt=proxénète
 macadam                  noun g=m
 macadamia                noun g=m
 macaque                  noun g=m
+macaque                  noun g=m sense=slur style=offensive note=racist insult for a person
 macaron                  noun g=m
 macaroni                 noun g=m
+macchabée                noun g=m style=colloquial alt=cadavre
 macédoine                noun g=f
 macérat                  noun g=m
 macération               noun g=f
@@ -69,6 +72,7 @@ magnésium                noun g=m
 magnétisation            noun g=f
 magnétiseur              noun g=m f=magnétiseuse
 magnétisme               noun g=m
+magnéto                  noun g=m style=colloquial alt=magnétophone
 magnétomètre             noun g=m
 magnétophone             noun g=m
 magnétoscope             noun g=m
@@ -100,7 +104,7 @@ maillot                  noun g=m
 main                     noun g=f
 main-courante            noun g=f pl=mains-courantes
 main-d'œuvre             noun g=f pl=mains-d'œuvre
-main-forte               noun g=f pl=- note=only in prêter main-forte
+main-forte               noun g=f pl=- rect=mainforte note=only in prêter main-forte
 mainate                  noun g=m
 mainlevée                noun g=f
 mainmise                 noun g=f
@@ -118,7 +122,7 @@ maison                   noun g=f
 maisonnée                noun g=f
 maisonnette              noun g=f
 maître                   noun g=m f=maîtresse rect=maitre
-maître-assistant         noun g=m f=maître-assistante pl=maîtres-assistants fpl=maîtres-assistantes conf=80
+maître-assistant         noun g=m f=maître-assistante pl=maîtres-assistants fpl=maîtres-assistantes rect=maitre-assistant conf=80
 maître-autel             noun g=m pl=maîtres-autels rect=maitre-autel conf=90 note=plural maîtres-autels/maitres-autels
 maître-chanteur          noun g=m pl=maîtres-chanteurs rect=maitre-chanteur
 maître-chien             noun g=m pl=maîtres-chiens rect=maitre-chien
@@ -190,6 +194,7 @@ malvoyance               noun g=f
 malvoyant                noun g=m f=malvoyante
 maman                    noun g=f
 mamba                    noun g=m
+mambo                    noun g=m
 mamelle                  noun g=f
 mamelon                  noun g=m
 mamelouk                 noun g=m
@@ -325,7 +330,7 @@ marche                   noun g=f
 marché                   noun g=m
 marchepied               noun g=m
 marcheur                 noun g=m f=marcheuse
-marcottage               noun g=m
+marcottage               noun g=m rect=marcotage
 mardi                    noun g=m
 mare                     noun g=f
 marécage                 noun g=m
@@ -356,7 +361,8 @@ marimba                  noun g=m
 marin                    noun g=m
 marina                   noun g=f
 marinade                 noun g=f
-marine                   noun g=f
+marine                   noun g=f sense=navy
+marine                   noun g=m sense=soldier note=un marine, soldier of the US or British marines
 marinier                 noun g=m f=marinière
 marinière                noun g=f
 marionnette              noun g=f
@@ -380,7 +386,7 @@ maroquinier              noun g=m f=maroquinière
 marotte                  noun g=f
 marquage                 noun g=m
 marque                   noun g=f
-marqueterie              noun g=f
+marqueterie              noun g=f rect=marquèterie
 marqueur                 noun g=m
 marquis                  noun g=m f=marquise
 marquisat                noun g=m
@@ -400,6 +406,7 @@ martelage                noun g=m
 martèlement              noun g=m
 martinet                 noun g=m
 martingale               noun g=f
+martini                  noun g=m
 martre                   noun g=f
 martyr                   noun g=m f=martyre
 martyre                  noun g=m sense=suffering
@@ -471,6 +478,8 @@ mâtin                    noun g=m
 matinée                  noun g=f
 matines                  noun g=f pl_only
 matité                   noun g=f
+maton                    noun g=m f=matonne style=colloquial alt=gardien
+matos                    noun g=m style=colloquial alt=matériel
 matou                    noun g=m note=plural matous
 matraquage               noun g=m
 matraque                 noun g=f
@@ -485,6 +494,7 @@ mâture                   noun g=f
 maturité                 noun g=f
 mausolée                 noun g=m
 maussaderie              noun g=f
+mauviette                noun g=f style=colloquial
 maxillaire               noun g=m
 maximalisme              noun g=m
 maxime                   noun g=f
@@ -593,6 +603,7 @@ mélopée                  noun g=f
 membrane                 noun g=f
 membre                   noun g=m
 membrure                 noun g=f
+mémé                     noun g=f style=colloquial alt=grand-mère
 mémento                  noun g=m
 mémère                   noun g=f style=colloquial alt=grand-mère
 mémo                     noun g=m
@@ -660,6 +671,7 @@ merde                    noun g=f style=vulgar alt=excrément
 merdier                  noun g=m style=vulgar alt=désordre|pagaille
 mère                     noun g=f
 mère-patrie              noun g=f pl=mères-patries
+merguez                  noun g=f
 méridien                 noun g=m
 méridienne               noun g=f
 méridional               noun g=m f=méridionale
@@ -692,6 +704,7 @@ mésosphère               noun g=f
 mésothéliome             noun g=m
 mésozoïque               noun g=m
 mesquinerie              noun g=f
+mess                     noun g=m
 message                  noun g=m
 messager                 noun g=m f=messagère
 messagerie               noun g=f
@@ -778,6 +791,7 @@ mets                     noun g=m
 metteur                  noun g=m f=metteuse
 meuble                   noun g=m
 meublé                   noun g=m
+meuf                     noun g=f style=colloquial alt=femme
 meuglement               noun g=m
 meule                    noun g=f
 meuleuse                 noun g=f
@@ -791,8 +805,8 @@ meurtrissure             noun g=f
 meute                    noun g=f
 mévente                  noun g=f
 mezzanine                noun g=f
-mezzo-soprano            noun g=m|f pl=mezzo-sopranos
-mi-août                  noun g=f pl=- note=dates
+mezzo-soprano            noun g=m|f pl=mezzo-sopranos rect=mezzosoprano
+mi-août                  noun g=f pl=- rect=mi-aout note=dates
 mi-bas                   noun g=m
 mi-carême                noun g=f pl=mi-carêmes
 mi-chemin                noun g=m pl=- note=only in à mi-chemin
@@ -800,7 +814,8 @@ mi-côte                  noun g=f pl=- note=only in à mi-côte
 mi-hauteur               noun g=f pl=- note=only in à mi-hauteur
 mi-lourd                 noun g=m
 mi-parcours              noun g=f
-mi-temps                 noun g=f
+mi-temps                 noun g=f sense=half note=la mi-temps of a match
+mi-temps                 noun g=m sense=part_time note=un mi-temps, part-time job
 mi-voix                  noun g=f pl=- note=only in à mi-voix
 miaou                    noun g=m note=plural miaous
 miasme                   noun g=m
@@ -814,8 +829,8 @@ micro-casque             noun g=m pl=micro-casques
 micro-entrepreneur       noun g=m f=micro-entrepreneuse pl=micro-entrepreneurs
 micro-entreprise         noun g=f pl=micro-entreprises
 micro-informatique       noun g=f
-micro-onde               noun g=f pl=micro-ondes
-micro-ondes              noun g=m
+micro-onde               noun g=f pl=micro-ondes rect=microonde
+micro-ondes              noun g=m rect=microondes note=the oven
 micro-ordinateur         noun g=m pl=micro-ordinateurs
 micro-organisme          noun g=m pl=micro-organismes rect=microorganisme
 microalgue               noun g=f
@@ -934,7 +949,7 @@ minestrone               noun g=m
 minet                    noun g=m f=minette style=colloquial alt=chat
 minette                  noun g=f
 mineur                   noun g=m f=mineure
-mini-série               noun g=f
+mini-série               noun g=f rect=minisérie
 miniature                noun g=f
 miniaturisation          noun g=f
 miniaturiste             noun g=m|f
@@ -958,6 +973,7 @@ minoterie                noun g=f
 minotier                 noun g=m
 minou                    noun g=m note=plural minous
 minuit                   noun g=m
+minus                    noun g=m|f style=colloquial
 minuscule                noun g=f
 minutage                 noun g=m
 minute                   noun g=f
@@ -972,6 +988,7 @@ miraculé                 noun g=m f=miraculée
 mirador                  noun g=m
 mirage                   noun g=m
 mire                     noun g=f
+mirette                  noun g=f style=colloquial alt=œil note=mostly plural
 mirettes                 noun g=f pl_only style=colloquial alt=yeux
 mirliton                 noun g=m
 miroir                   noun g=m
@@ -989,6 +1006,7 @@ miséreux                 noun g=m f=miséreuse
 miséricorde              noun g=f
 misogyne                 noun g=m|f
 misogynie                noun g=f
+miss                     noun g=f pl=miss|misses
 missel                   noun g=m
 missile                  noun g=m
 mission                  noun g=f
@@ -998,6 +1016,8 @@ mistigri                 noun g=m
 mistral                  noun g=m pl=mistrals
 mitage                   noun g=m
 mitaine                  noun g=f
+mitan                    noun g=m style=archaic note=milieu
+mitard                   noun g=m style=colloquial alt=cachot
 mite                     noun g=f
 mitigation               noun g=f
 mitigeur                 noun g=m
@@ -1071,6 +1091,7 @@ moissonneuse             noun g=f
 moissonneuse-batteuse    noun g=f pl=moissonneuses-batteuses
 moiteur                  noun g=f
 moitié                   noun g=f
+moka                     noun g=m
 molaire                  noun g=f
 môle                     noun g=m
 molécule                 noun g=f
@@ -1080,6 +1101,7 @@ mollah                   noun g=m
 mollasson                noun g=m f=mollassonne style=colloquial alt=mou
 mollesse                 noun g=f
 mollet                   noun g=m
+molletière               noun g=f
 molleton                 noun g=m
 mollusque                noun g=m
 molosse                  noun g=m
@@ -1163,6 +1185,7 @@ montgolfière             noun g=f
 monticule                noun g=m
 montoir                  noun g=m
 montre                   noun g=f
+montre-bracelet          noun g=f pl=montres-bracelets
 montreur                 noun g=m f=montreuse
 monture                  noun g=f
 monument                 noun g=m
@@ -1181,7 +1204,7 @@ moralité                 noun g=f
 moratoire                noun g=m
 morbidité                noun g=f
 morceau                  noun g=m
-morcellement             noun g=m
+morcellement             noun g=m rect=morcèlement
 mordant                  noun g=m
 mordillement             noun g=m
 mordorure                noun g=f
@@ -1199,6 +1222,7 @@ morphisme                noun g=m
 morphogenèse             noun g=f
 morphologie              noun g=f
 morphosyntaxe            noun g=f
+morpion                  noun g=m
 mors                     noun g=m
 morse                    noun g=m
 morsure                  noun g=f
@@ -1214,6 +1238,7 @@ mortel                   noun g=m f=mortelle
 mortier                  noun g=m
 mortification            noun g=f
 morue                    noun g=f
+morue                    noun g=f sense=insult style=vulgar|offensive note=insult for a woman
 morutier                 noun g=m
 morve                    noun g=f
 mosaïque                 noun g=f
@@ -1274,7 +1299,8 @@ mouron                   noun g=m
 mousquet                 noun g=m
 mousquetade              noun g=f
 mousquetaire             noun g=m
-mousqueterie             noun g=f
+mousqueterie             noun g=f rect=mousquèterie
+mousqueton               noun g=m
 moussaillon              noun g=m
 moussaka                 noun g=f
 mousse                   noun g=f sense=foam
@@ -1351,14 +1377,14 @@ muqueuse                 noun g=f
 mur                      noun g=m
 muraille                 noun g=f
 muraliste                noun g=m|f
-mûre                     noun g=f
+mûre                     noun g=f rect=mure note=the fruit; the adjective mûr keeps its circumflex
 murène                   noun g=f
 muret                    noun g=m
 murette                  noun g=f
 murex                    noun g=m
-mûrier                   noun g=m
-mûrissement              noun g=m
-mûrisserie               noun g=f
+mûrier                   noun g=m rect=murier
+mûrissement              noun g=m rect=murissement
+mûrisserie               noun g=f rect=murisserie
 murmure                  noun g=m
 musaraigne               noun g=f
 musardise                noun g=f
@@ -1390,6 +1416,7 @@ musicologue              noun g=m|f
 musicothérapeute         noun g=m|f
 musicothérapie           noun g=f
 musique                  noun g=f
+must                     noun g=m style=colloquial
 mustang                  noun g=m
 mustélidé                noun g=m
 musulman                 noun g=m f=musulmane
