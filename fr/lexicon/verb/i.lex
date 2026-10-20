@@ -21,7 +21,7 @@ immoler        verb
 immortaliser   verb
 immuniser      verb
 impacter       verb
-impartir       verb class=ir conf=80 note=defective: mostly infinitive and participle (le délai imparti)
+impartir       verb class=ir defective=inf|fin|pp note=le délai imparti
 impatienter    verb
 imperméabiliser verb
 implanter      verb
@@ -48,7 +48,7 @@ inciser        verb
 inciter        verb
 incliner       verb
 inclure        verb class=conclure pp=inclus
-incomber       verb pp_inv conf=85 note=used only in the 3rd person (il incombe, ils incombent)
+incomber       verb pp_inv defective=inf|3|ppr|pp note=il incombe, ils incombent
 incommoder     verb
 incorporer     verb
 incrémenter    verb
@@ -138,7 +138,7 @@ interjeter     verb class=double
 interloquer    verb
 internationaliser verb
 interner       verb
-interpeller    verb note=1990 spelling interpeler (conjugated like appeler: interpelle, interpelons) not generated: rect= cannot express it
+interpeller    verb rect=interpeler rect_class=double
 interpénétrer  verb
 interpoler     verb
 interposer     verb

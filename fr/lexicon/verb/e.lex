@@ -31,7 +31,7 @@
 échelonner     verb
 écheniller     verb
 échographier   verb
-échoir         verb class=irr aux=être pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=85 note=defective, 3rd person only (le cas échéant, l'échéance)
+échoir         verb class=irr aux=être defective=inf|3|ppr|pp pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=90 note=le cas échéant
 échouer        verb
 écimer         verb
 éclabousser    verb
@@ -39,7 +39,7 @@
 éclairer       verb
 éclater        verb
 éclipser       verb
-éclore         verb class=irr aux=être pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
+éclore         verb class=irr aux=être defective=inf|3|pp pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
 écœurer        verb
 éconduire      verb class=conduire
 économiser     verb

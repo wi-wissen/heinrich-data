@@ -578,7 +578,7 @@ doter verb
 double-cliquer verb
 doubler verb
 doucher verb
-douer          verb conf=70 note=defective: used almost only in the participle doué; finite forms are not real
+douer          verb defective=pp note=in practice only the participle doué
 douter verb
 draguer verb
 drainer verb
