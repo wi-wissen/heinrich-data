@@ -18,6 +18,7 @@ verantworten verb class=weak pp=verantwortet perf=haben
 verarbeiten verb class=weak pp=verarbeitet perf=haben
 verärgern verb class=weak pp=verärgert perf=haben
 verarmen verb class=weak pp=verarmt perf=sein
+verarschen verb class=weak pp=verarscht perf=haben style=colloquial alt=veralbern
 verarzten verb class=weak pp=verarztet perf=haben
 veräußern verb class=weak pp=veräußert perf=haben
 verausgaben verb class=weak pp=verausgabt perf=haben refl=acc
@@ -67,6 +68,7 @@ verdrängen verb class=weak pp=verdrängt perf=haben
 verdrehen verb class=weak pp=verdreht perf=haben
 verdreifachen verb class=weak pp=verdreifacht perf=haben
 verdrießen verb class=strong 3sg=verdrießt past=verdross pp=verdrossen subj2=verdrösse perf=haben
+verdrücken verb class=weak pp=verdrückt perf=haben note=eat up, crease; colloquial reflexive sich verdrücken (engine phrase table)
 verdunkeln verb class=weak pp=verdunkelt perf=haben
 verdünnen verb class=weak pp=verdünnt perf=haben
 verdunsten verb class=weak pp=verdunstet perf=sein
@@ -240,7 +242,7 @@ verpachten verb class=weak pp=verpachtet perf=haben
 verpacken verb class=weak pp=verpackt perf=haben
 verpassen verb class=weak pp=verpasst perf=haben
 verpesten verb class=weak pp=verpestet perf=haben
-verpetzen verb class=weak pp=verpetzt perf=haben style=colloquial
+verpetzen verb class=weak pp=verpetzt perf=haben style=colloquial alt=verraten
 verpfänden verb class=weak pp=verpfändet perf=haben
 verpfeifen verb class=strong 3sg=verpfeift past=verpfiff subj2=verpfiffe pp=verpfiffen perf=haben
 verpflanzen verb class=weak pp=verpflanzt perf=haben

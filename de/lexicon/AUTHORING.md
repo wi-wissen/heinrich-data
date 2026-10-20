@@ -240,6 +240,13 @@ already; the classifier keeps them (and their genitives and demonyms) off the wo
 - Swiss `ss` instead of `ß` is never written; the engine derives it.
 - Colloquial or regional forms that are wrong in standard school German get `[colloquial]` or
   `style=colloquial`, never an untagged variant.
+- `style=colloquial` on a whole entry means: colloquial in **every** reading of the entry (the
+  engine's register switch `formal` gives a hint on it, `Heinrich/docs/LEXICON_FORMAT.md` §17). Add
+  `alt=` with an established neutral alternative where there is one (`kriegen … alt=bekommen`,
+  `Klo … alt=Toilette`, several with `|`: `alt=schauen|sehen`, `_` for a space). If the lemma also
+  has a neutral sense (`abhauen` = `abschlagen`), leave it unmarked or split the senses. Words that
+  are colloquial only in some contexts (`voll gut`, the particle `halt`, `ne`) are not marked here:
+  the engine's context table handles them.
 
 ### 4.10 Derogatory terms (`style=offensive`)
 

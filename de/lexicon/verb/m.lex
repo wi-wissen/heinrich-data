@@ -5,7 +5,8 @@ mahnen verb class=weak pp=gemahnt perf=haben
 mailen verb class=weak pp=gemailt perf=haben
 mäkeln verb class=weak pp=gemäkelt perf=haben
 malen verb class=weak pp=gemalt perf=haben
-mampfen verb class=weak pp=gemampft perf=haben style=colloquial
+malochen verb class=weak pp=malocht perf=haben style=colloquial alt=arbeiten note=stress on the second syllable, so no ge- (malocht)
+mampfen verb class=weak pp=gemampft perf=haben style=colloquial alt=essen
 managen verb class=weak pp=gemanagt perf=haben
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
 manifestieren verb class=weak pp=manifestiert perf=haben refl=acc
@@ -19,7 +20,7 @@ mästen verb class=weak pp=gemästet perf=haben
 mauern verb class=weak pp=gemauert perf=haben
 maulen verb class=weak pp=gemault perf=haben
 mausern verb class=weak pp=gemausert perf=haben refl=acc
-meckern verb class=weak pp=gemeckert perf=haben style=colloquial
+meckern verb class=weak pp=gemeckert perf=haben note=bleat (goats) and complain; not marked colloquial because of the neutral sense
 mehren verb class=weak pp=gemehrt perf=haben refl=acc
 meiden verb class=strong 3sg=meidet past=mied pp=gemieden subj2=miede perf=haben
 meinen verb class=weak pp=gemeint perf=haben

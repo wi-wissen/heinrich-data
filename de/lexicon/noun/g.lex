@@ -432,6 +432,7 @@ Glöcknerin noun g=f gen=Glöcknerin pl=Glöcknerinnen
 Glorie noun g=f gen=Glorie pl=Glorien
 Glossar noun g=n gen=Glossars pl=Glossare
 Glosse noun g=f gen=Glosse pl=Glossen
+Glotze noun g=f gen=Glotze pl=Glotzen style=colloquial alt=Fernseher
 Glück noun g=n gen=Glücks|Glückes pl=- note=no plural in use
 Glucke noun g=f gen=Glucke pl=Glucken
 Glücksbringer noun g=m gen=Glücksbringers pl=Glücksbringer

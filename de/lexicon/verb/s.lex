@@ -93,6 +93,7 @@ schmoren verb class=weak pp=geschmort perf=haben
 schmücken verb class=weak pp=geschmückt perf=haben refl=acc
 schmunzeln verb class=weak pp=geschmunzelt perf=haben
 schnabulieren verb class=weak pp=schnabuliert perf=haben
+schnallen verb class=weak pp=geschnallt perf=haben note=fasten a buckle; colloquial also: understand (not marked, homograph)
 schnappen verb class=weak pp=geschnappt perf=haben
 schnarchen verb class=weak pp=geschnarcht perf=haben
 schnattern verb class=weak pp=geschnattert perf=haben
@@ -123,6 +124,7 @@ schreien verb class=strong 3sg=schreit past=schrie pp=geschrien subj2=schriee pe
 schreiten verb class=strong 3sg=schreitet past=schritt pp=geschritten subj2=schritte perf=sein
 schrumpfen verb class=weak pp=geschrumpft perf=sein
 schubsen verb class=weak pp=geschubst perf=haben
+schuften verb class=weak pp=geschuftet perf=haben style=colloquial alt=hart_arbeiten
 schulden verb class=weak pp=geschuldet perf=haben
 schulen verb class=weak pp=geschult perf=haben
 schultern verb class=weak pp=geschultert perf=haben
@@ -134,7 +136,7 @@ schütten verb class=weak pp=geschüttet perf=haben note=Wasser schütten; es sc
 schützen verb class=weak pp=geschützt perf=haben refl=acc
 schwächen verb class=weak pp=geschwächt perf=haben
 schwanken verb class=weak pp=geschwankt perf=haben|sein
-schwänzen verb class=weak pp=geschwänzt perf=haben
+schwänzen verb class=weak pp=geschwänzt perf=haben style=colloquial alt=unentschuldigt_fehlen
 schwärmen verb class=weak pp=geschwärmt perf=haben|sein
 schwatzen verb class=weak pp=geschwatzt perf=haben
 schweben verb class=weak pp=geschwebt perf=haben|sein

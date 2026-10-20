@@ -217,7 +217,7 @@ Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
 Lilie noun g=f gen=Lilie pl=Lilien
 Limes noun g=m gen=Limes pl=Limites
-Limo noun g=f gen=Limo pl=Limos style=colloquial
+Limo noun g=f gen=Limo pl=Limos style=colloquial alt=Limonade
 Limonade noun g=f gen=Limonade pl=Limonaden
 Limousine noun g=f gen=Limousine pl=Limousinen
 Linde noun g=f gen=Linde pl=Linden

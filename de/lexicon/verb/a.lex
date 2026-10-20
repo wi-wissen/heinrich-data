@@ -76,6 +76,7 @@ abkommandieren verb class=weak sep=ab pp=abkommandiert perf=haben
 abkommen verb class=strong sep=ab 3sg=abkommt|abkömmt[old] past=abkam pp=abgekommen subj2=abkäme perf=sein note=vom Weg abkommen
 abkratzen verb class=weak sep=ab pp=abgekratzt perf=haben
 abkühlen verb class=weak pp=abgekühlt perf=haben|sein sep=ab
+abkupfern verb class=weak sep=ab pp=abgekupfert perf=haben style=colloquial alt=abschreiben
 abkürzen verb class=weak sep=ab pp=abgekürzt perf=haben
 abladen verb class=strong sep=ab 3sg=ablädt past=ablud pp=abgeladen subj2=ablüde perf=haben
 ablassen verb class=strong sep=ab 3sg=ablässt past=abließ subj2=abließe pp=abgelassen perf=haben
@@ -232,7 +233,7 @@ abzehren verb class=weak sep=ab pp=abgezehrt perf=haben note=mostly the particip
 abzeichnen verb class=weak sep=ab pp=abgezeichnet perf=haben
 abziehen verb class=strong sep=ab 3sg=abzieht past=abzog pp=abgezogen subj2=abzöge perf=haben|sein
 abzielen verb class=weak sep=ab pp=abgezielt perf=haben
-abzocken verb class=weak sep=ab pp=abgezockt perf=haben
+abzocken verb class=weak sep=ab pp=abgezockt perf=haben style=colloquial alt=betrügen
 abzwacken verb class=weak sep=ab pp=abgezwackt perf=haben
 abzweigen verb class=weak sep=ab pp=abgezweigt perf=haben|sein refl=acc
 achten verb class=weak pp=geachtet perf=haben
@@ -362,7 +363,7 @@ anlocken verb class=weak sep=an pp=angelockt perf=haben
 anlügen verb class=strong sep=an 3sg=anlügt past=anlog subj2=anlöge pp=angelogen perf=haben
 anmachen verb class=weak sep=an pp=angemacht perf=haben
 anmahnen verb class=weak sep=an pp=angemahnt perf=haben
-anmailen verb class=weak sep=an pp=angemailt perf=haben style=colloquial
+anmailen verb class=weak sep=an pp=angemailt perf=haben style=colloquial alt=anschreiben
 anmalen verb class=weak sep=an pp=angemalt perf=haben refl=acc
 anmaßen verb class=weak sep=an pp=angemaßt perf=haben refl=dat note=sich etwas anmaßen
 anmeckern verb class=weak sep=an pp=angemeckert perf=haben
@@ -716,7 +717,7 @@ ausfechten verb class=strong sep=aus 3sg=ausficht past=ausfocht pp=ausgefochten 
 ausfegen verb class=weak sep=aus pp=ausgefegt perf=haben
 ausfertigen verb class=weak sep=aus pp=ausgefertigt perf=haben
 ausfliegen verb class=strong sep=aus 3sg=ausfliegt past=ausflog pp=ausgeflogen subj2=ausflöge perf=sein
-ausflippen verb class=weak sep=aus pp=ausgeflippt perf=sein
+ausflippen verb class=weak sep=aus pp=ausgeflippt perf=sein style=colloquial alt=die_Beherrschung_verlieren|sich_aufregen
 ausformulieren verb class=weak sep=aus pp=ausformuliert perf=haben
 ausforschen verb class=weak sep=aus pp=ausgeforscht perf=haben
 ausfragen verb class=weak sep=aus pp=ausgefragt perf=haben
@@ -792,7 +793,7 @@ ausprobieren verb class=weak sep=aus pp=ausprobiert perf=haben
 auspusten verb class=weak sep=aus pp=ausgepustet perf=haben
 ausquetschen verb class=weak sep=aus pp=ausgequetscht perf=haben
 ausradieren verb class=weak sep=aus pp=ausradiert perf=haben
-ausrasten verb class=weak sep=aus pp=ausgerastet perf=sein style=colloquial
+ausrasten verb class=weak sep=aus pp=ausgerastet perf=sein style=colloquial alt=die_Beherrschung_verlieren
 ausrauben verb class=weak sep=aus pp=ausgeraubt perf=haben
 ausräumen verb class=weak sep=aus pp=ausgeräumt perf=haben
 ausrechnen verb class=weak sep=aus pp=ausgerechnet perf=haben

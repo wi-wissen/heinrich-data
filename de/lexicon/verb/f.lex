@@ -67,6 +67,7 @@ flankieren verb class=weak pp=flankiert perf=haben
 flattern verb class=weak pp=geflattert perf=haben|sein
 flechten verb class=strong 3sg=flicht past=flocht pp=geflochten subj2=flöchte perf=haben
 flehen verb class=weak pp=gefleht perf=haben
+flennen verb class=weak pp=geflennt perf=haben style=colloquial alt=weinen
 flicken verb class=weak pp=geflickt perf=haben
 fliegen verb class=strong 3sg=fliegt past=flog pp=geflogen subj2=flöge perf=sein|haben
 fliehen verb class=strong 3sg=flieht past=floh pp=geflohen subj2=flöhe perf=sein
@@ -156,5 +157,5 @@ funktionieren verb class=weak pp=funktioniert perf=haben
 fürchten verb class=weak pp=gefürchtet perf=haben refl=acc
 fußen verb class=weak pp=gefußt perf=haben
 fusionieren verb class=weak pp=fusioniert perf=haben|sein
-futtern verb class=weak pp=gefuttert perf=haben style=colloquial
+futtern verb class=weak pp=gefuttert perf=haben style=colloquial alt=essen
 füttern verb class=weak pp=gefüttert perf=haben

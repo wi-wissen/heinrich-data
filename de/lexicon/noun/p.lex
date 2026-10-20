@@ -151,7 +151,7 @@ Peripherie noun g=f gen=Peripherie pl=Peripherien
 Perkussion noun g=f gen=Perkussion pl=Perkussionen
 Perle noun g=f gen=Perle pl=Perlen
 Perser noun g=m gen=Persers pl=Perser
-Perso noun g=m gen=Persos pl=Persos style=colloquial note=Personalausweis
+Perso noun g=m gen=Persos pl=Persos style=colloquial alt=Personalausweis note=Personalausweis
 Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals|Personales[rare] pl=Personale[rare] note=mass noun (staff); plural rare
 Personaler noun g=m gen=Personalers pl=Personaler
@@ -361,7 +361,7 @@ Pop noun g=m gen=Pop|Pops pl=- note=music genre; des Pop(s)
 Pop-up noun g=n gen=Pop-ups pl=Pop-ups
 Popcorn noun g=n gen=Popcorns pl=- note=no plural (mass or abstract noun)
 Pope noun g=m gen=Popen pl=Popen note=Orthodox priest
-Popo noun g=m gen=Popos pl=Popos style=colloquial
+Popo noun g=m gen=Popos pl=Popos style=colloquial alt=Gesäß
 Popularität noun g=f gen=Popularität pl=- note=mass noun
 Population noun g=f gen=Population pl=Populationen
 Populismus noun g=m gen=Populismus pl=- note=mass noun

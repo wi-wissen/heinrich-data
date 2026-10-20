@@ -54,7 +54,8 @@ beitragspflichtig adj
 bejahrt adj
 bekannt       adj cmp=bekannter sup=bekanntesten
 beklommen adj cmp=beklommener sup=beklommensten
-bekloppt adj cmp=bekloppter sup=beklopptesten
+bekloppt adj cmp=bekloppter sup=beklopptesten style=colloquial alt=verrückt
+beknackt adj cmp=beknackter sup=beknacktesten style=colloquial alt=dumm
 belarussisch adj
 belegen adj note=legal: situated (das im Bezirk belegene Grundstück); the verb belegen is separate
 beleidigt adj cmp=beleidigter sup=beleidigtsten
@@ -74,7 +75,7 @@ berufsständisch adj
 berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
-bescheuert adj cmp=bescheuerter sup=bescheuertsten
+bescheuert adj cmp=bescheuerter sup=bescheuertsten style=colloquial alt=dumm
 beschreibend adj
 beschwerlich adj
 besiegt adj
@@ -116,7 +117,7 @@ blauäugig adj
 bläulich adj
 bleich adj cmp=bleicher sup=bleichsten
 blind adj cmp=blinder sup=blindesten
-blöd adj cmp=blöder sup=blödesten
+blöd adj cmp=blöder sup=blödesten style=colloquial alt=dumm
 blödsinnig adj cmp=blödsinniger sup=blödsinnigsten
 blond adj cmp=blonder sup=blondesten
 bloß adj

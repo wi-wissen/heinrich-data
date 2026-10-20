@@ -34,7 +34,7 @@ neblig adj cmp=nebliger sup=nebligsten
 negativ adj cmp=negativer sup=negativsten
 neidisch adj cmp=neidischer sup=neidischsten
 nennenswert adj
-nervig adj cmp=nerviger sup=nervigsten
+nervig adj cmp=nerviger sup=nervigsten style=colloquial alt=lästig
 nervös adj cmp=nervöser sup=nervösesten
 nett adj cmp=netter sup=nettesten
 neu adj cmp=neuer sup=neuesten

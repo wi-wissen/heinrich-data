@@ -179,6 +179,7 @@ Schimmer noun g=m gen=Schimmers pl=- note=mass noun
 Schimpanse noun g=m gen=Schimpansen pl=Schimpansen
 Schinken noun g=m gen=Schinkens pl=Schinken
 Schirm noun g=m gen=Schirms|Schirmes pl=Schirme
+Schiss noun g=m gen=Schisses pl=- style=colloquial alt=Angst note=no plural
 Schizophrenie noun g=f gen=Schizophrenie pl=- note=mass noun
 Schlacht noun g=f gen=Schlacht pl=Schlachten
 Schlachtung noun g=f gen=Schlachtung pl=Schlachtungen
@@ -961,6 +962,7 @@ Sturm noun g=m gen=Sturmes|Sturms pl=Stürme
 Stürmer noun g=m gen=Stürmers pl=Stürmer
 Stürmerin noun g=f gen=Stürmerin pl=Stürmerinnen
 Sturz noun g=m gen=Sturzes pl=Stürze
+Stuss noun g=m gen=Stusses pl=- style=colloquial alt=Unsinn note=no plural
 Stute noun g=f gen=Stute pl=Stuten
 Stuttgarter noun g=m gen=Stuttgarters pl=Stuttgarter note=inhabitant of Stuttgart; also the indeclinable adjective
 Stütze noun g=f gen=Stütze pl=Stützen

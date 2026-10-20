@@ -13,6 +13,7 @@ Zank noun g=m gen=Zanks|Zankes pl=- note=no plural (mass or abstract noun)
 Zapfen noun g=m gen=Zapfens pl=Zapfen
 Zar noun g=m gen=Zaren pl=Zaren
 Zärtlichkeit noun g=f gen=Zärtlichkeit pl=Zärtlichkeiten
+Zaster noun g=m gen=Zasters pl=- style=colloquial alt=Geld note=no plural
 Zäsur noun g=f gen=Zäsur pl=Zäsuren
 Zauber noun g=m gen=Zaubers pl=Zauber
 Zauberer noun g=m gen=Zauberers pl=Zauberer
@@ -120,6 +121,7 @@ Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
 Zocker noun g=m gen=Zockers pl=Zocker
 Zofe noun g=f gen=Zofe pl=Zofen
+Zoff noun g=m gen=Zoffs pl=- style=colloquial alt=Streit note=no plural
 Zögling noun g=m gen=Zöglings pl=Zöglinge
 Zoll noun g=m gen=Zolls|Zolles pl=Zölle sense=customs note=customs duty
 Zoll noun g=m gen=Zolls|Zolles pl=Zoll sense=inch note=unit of length

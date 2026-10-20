@@ -205,6 +205,7 @@ Kfz noun g=n gen=Kfz|Kfzs pl=Kfz|Kfzs note=Kraftfahrzeug
 KG noun g=f gen=KG pl=KGs note=Kommanditgesellschaft
 KI noun g=f gen=KI pl=- note=abbreviation of Künstliche Intelligenz
 Kick-off noun g=m|n gen=Kick-offs pl=Kick-offs
+Kids noun g=pl style=colloquial alt=Kinder note=English loan, plural only
 Kiefer noun g=m gen=Kiefers pl=Kiefer sense=jaw
 Kiefer noun g=f gen=Kiefer pl=Kiefern sense=pine
 Kieler noun g=m gen=Kielers pl=Kieler note=inhabitant of Kiel; also the indeclinable adjective
@@ -240,6 +241,7 @@ Kläger noun g=m gen=Klägers pl=Kläger
 Klägerin noun g=f gen=Klägerin pl=Klägerinnen
 Klamm noun g=f gen=Klamm pl=Klammen
 Klammer noun g=f gen=Klammer pl=Klammern
+Klamotte noun g=f gen=Klamotte pl=Klamotten style=colloquial alt=Kleidungsstück|Kleidung note=mostly plural (Klamotten): clothes
 Klang noun g=m gen=Klangs|Klanges pl=Klänge
 Klappentext noun g=m gen=Klappentexts|Klappentextes pl=Klappentexte
 Klapperschlange noun g=f gen=Klapperschlange pl=Klapperschlangen
@@ -300,7 +302,7 @@ Klinikum noun g=n gen=Klinikums pl=Kliniken|Klinika
 Klinke noun g=f gen=Klinke pl=Klinken
 Klippe noun g=f gen=Klippe pl=Klippen
 Klischee noun g=n gen=Klischees pl=Klischees
-Klo noun g=n gen=Klos pl=Klos style=colloquial
+Klo noun g=n gen=Klos pl=Klos style=colloquial alt=Toilette
 Kloß noun g=m gen=Kloßes pl=Klöße
 Kloster noun g=n gen=Klosters pl=Klöster
 Klub noun g=m gen=Klubs pl=Klubs
@@ -313,6 +315,7 @@ Knäckebrot noun g=n gen=Knäckebrots pl=Knäckebrote
 Knall noun g=m gen=Knalls|Knalles pl=Knalle
 Knaller noun g=m gen=Knallers pl=Knaller
 Knappe noun g=m gen=Knappen pl=Knappen
+Knast noun g=m gen=Knasts|Knastes pl=Knäste style=colloquial alt=Gefängnis
 Knäuel noun g=n|m gen=Knäuels pl=Knäuel
 Knebel noun g=m gen=Knebels pl=Knebel
 Knecht noun g=m gen=Knechts|Knechtes pl=Knechte
@@ -657,7 +660,7 @@ Kühlschrank noun g=m gen=Kühlschranks|Kühlschrankes pl=Kühlschränke
 Kühnheit noun g=f gen=Kühnheit pl=Kühnheiten
 Küken noun g=n gen=Kükens pl=Küken
 Kulanz noun g=f gen=Kulanz pl=- note=mass noun
-Kuli noun g=m gen=Kulis pl=Kulis style=colloquial
+Kuli noun g=m gen=Kulis pl=Kulis style=colloquial alt=Kugelschreiber
 Kulisse noun g=f gen=Kulisse pl=Kulissen
 Kult noun g=m gen=Kultes|Kults pl=Kulte
 Kultur noun g=f gen=Kultur pl=Kulturen
