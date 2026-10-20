@@ -323,7 +323,7 @@ anthropophage      adj
 anti-américain     adj rect=antiaméricain
 anti-esclavagiste  adj rect=antiesclavagiste
 anti-français      adj rect=antifrançais
-anti-israélien     adj rect=antiisraélien conf=80
+anti-israélien     adj note=stays hyphenated in the 1990 spelling (i + i)
 antiaérien         adj
 antiatomique       adj
 antibrouillard     adj inv
