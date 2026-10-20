@@ -31,6 +31,7 @@ ombrer         verb
 omettre        verb class=mettre
 ondoyer        verb
 onduler        verb
+opacifier      verb
 opérer         verb
 opiner         verb pp_inv
 opposer        verb

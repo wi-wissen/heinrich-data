@@ -26,16 +26,19 @@ machisme                 noun g=m
 macho                    noun g=m style=colloquial alt=misogyne
 mâchoire                 noun g=f
 mâchonnement             noun g=m
+macle                    noun g=f
 maçon                    noun g=m f=maçonne
 maçonnerie               noun g=f
 macramé                  noun g=m
 macreuse                 noun g=f
+macro                    noun g=f note=une macro, macro-instruction
 macrobiotique            noun g=f
 macrocéphalie            noun g=f
 macrocosme               noun g=m
 macroéconomie            noun g=f
 macroéconomiste          noun g=m|f
 macromolécule            noun g=f
+macron                   noun g=m
 macrophage               noun g=m
 macrophotographie        noun g=f
 macrostructure           noun g=f
@@ -72,6 +75,7 @@ magnésium                noun g=m
 magnétisation            noun g=f
 magnétiseur              noun g=m f=magnétiseuse
 magnétisme               noun g=m
+magnétite                noun g=f
 magnéto                  noun g=m style=colloquial alt=magnétophone
 magnétomètre             noun g=m
 magnétophone             noun g=m
@@ -145,6 +149,7 @@ mal-logement             noun g=m pl=- note=no plural
 malabar                  noun g=m style=colloquial alt=costaud
 malabsorption            noun g=f
 malachite                noun g=f
+malacologie              noun g=f
 malade                   noun g=m|f
 maladie                  noun g=f
 maladrerie               noun g=f
@@ -394,6 +399,7 @@ marquisette              noun g=f
 marrainage               noun g=m
 marraine                 noun g=f
 marron                   noun g=m
+marronnage               noun g=m
 marronnier               noun g=m
 mars                     noun g=m
 marsouin                 noun g=m
@@ -440,6 +446,7 @@ massivité                noun g=f
 massothérapeute          noun g=m|f
 massothérapie            noun g=f
 massue                   noun g=f
+mastaba                  noun g=m
 mastectomie              noun g=f
 master                   noun g=m
 masterclass              noun g=f
@@ -474,7 +481,7 @@ matheux                  noun g=m f=matheuse style=colloquial alt=mathématicien
 maths                    noun g=f pl_only style=colloquial alt=mathématiques
 matière                  noun g=f
 matin                    noun g=m
-mâtin                    noun g=m
+mâtin                    noun g=m f=mâtine
 matinée                  noun g=f
 matines                  noun g=f pl_only
 matité                   noun g=f
@@ -554,12 +561,15 @@ méditation               noun g=f
 médium                   noun g=m|f
 médius                   noun g=m
 medley                   noun g=m
+médullosurrénale         noun g=f
 méduse                   noun g=f
 meeting                  noun g=m
 méfait                   noun g=m
 méfiance                 noun g=f
 méforme                  noun g=f
+mégabase                 noun g=f
 mégabit                  noun g=m
+mégadiversité            noun g=f
 mégadonnées              noun g=f pl_only
 mégahertz                noun g=m
 mégalithe                noun g=m
@@ -569,6 +579,7 @@ mégalopole               noun g=f
 mégaoctet                noun g=m
 mégaphone                noun g=m
 mégapixel                noun g=m
+mégapode                 noun g=m
 mégapole                 noun g=f
 mégarde                  noun g=f pl=- note=only in par mégarde
 mégawatt                 noun g=m
@@ -628,6 +639,7 @@ meneur                   noun g=m f=meneuse
 menhir                   noun g=m
 méninge                  noun g=f
 méningite                noun g=f
+méningocoque             noun g=m
 ménisque                 noun g=m
 ménopause                noun g=f
 menotte                  noun g=f
@@ -692,6 +704,7 @@ merveilleux              noun g=m
 mésalliance              noun g=f
 mésange                  noun g=f
 mésaventure              noun g=f
+mésencéphale             noun g=m
 mésentente               noun g=f
 mésentère                noun g=m
 mésestime                noun g=f
@@ -722,8 +735,10 @@ métabolite               noun g=m
 métacarpe                noun g=m
 métacognition            noun g=f
 métadonnée               noun g=f
+métagénome               noun g=m
 métagénomique            noun g=f
 métairie                 noun g=f
+metal                    noun g=m note=the music genre; the material is métal
 métal                    noun g=m
 métalangage              noun g=m
 métallerie               noun g=f
@@ -738,6 +753,7 @@ métamère                 noun g=m
 métamodèle               noun g=m
 métamorphisme            noun g=m
 métamorphose             noun g=f
+métamoteur               noun g=m
 métaphore                noun g=f
 métaphysicien            noun g=m f=métaphysicienne
 métaphysique             noun g=f
@@ -751,7 +767,10 @@ méteil                   noun g=m
 métempsycose             noun g=f
 météo                    noun g=f
 météore                  noun g=m
+météorisation            noun g=f
 météorite                noun g=f
+météoritologue           noun g=m|f
+météoroïde               noun g=m
 météorologie             noun g=f
 météorologiste           noun g=m|f
 météorologue             noun g=m|f
@@ -768,7 +787,9 @@ méthodologie             noun g=f
 méthodologue             noun g=m|f
 méthotrexate             noun g=m
 méthylation              noun g=f
+méthyle                  noun g=m
 méthylène                noun g=m
+méthylxanthine           noun g=f
 méticulosité             noun g=f
 métier                   noun g=m
 métis                    noun g=m f=métisse
@@ -807,10 +828,12 @@ mévente                  noun g=f
 mezzanine                noun g=f
 mezzo-soprano            noun g=m|f pl=mezzo-sopranos rect=mezzosoprano
 mi-août                  noun g=f pl=- rect=mi-aout note=dates
+mi-avril                 noun g=f pl=- note=dates
 mi-bas                   noun g=m
 mi-carême                noun g=f pl=mi-carêmes
 mi-chemin                noun g=m pl=- note=only in à mi-chemin
 mi-côte                  noun g=f pl=- note=only in à mi-côte
+mi-distance              noun g=f pl=- note=only singular: à mi-distance
 mi-hauteur               noun g=f pl=- note=only in à mi-hauteur
 mi-lourd                 noun g=m
 mi-parcours              noun g=f
@@ -821,6 +844,7 @@ miaou                    noun g=m note=plural miaous
 miasme                   noun g=m
 miaulement               noun g=m
 mica                     noun g=m
+micelle                  noun g=f
 miche                    noun g=f
 micheline                noun g=f
 micmac                   noun g=m style=colloquial alt=manigance
@@ -831,7 +855,7 @@ micro-entreprise         noun g=f pl=micro-entreprises
 micro-informatique       noun g=f
 micro-onde               noun g=f pl=micro-ondes rect=microonde
 micro-ondes              noun g=m rect=microondes note=the oven
-micro-ordinateur         noun g=m pl=micro-ordinateurs
+micro-ordinateur         noun g=m pl=micro-ordinateurs rect=microordinateur
 micro-organisme          noun g=m pl=micro-organismes rect=microorganisme
 microalgue               noun g=f
 microarchitecture        noun g=f
@@ -845,6 +869,7 @@ microcapteur             noun g=m
 microchirurgie           noun g=f
 microcircuit             noun g=m
 microclimat              noun g=m
+microcline               noun g=m
 microcontrôleur          noun g=m
 microcosme               noun g=m
 microcrédit              noun g=m
@@ -865,11 +890,13 @@ micromètre               noun g=m
 micronation              noun g=f
 micronutriment           noun g=m
 micropaiement            noun g=m
+micropesanteur           noun g=f
 microphone               noun g=m
 microphysique            noun g=f
 microplastique           noun g=m
 micropolluant            noun g=m
 microprocesseur          noun g=m
+microprotéine            noun g=f
 microrégion              noun g=f
 microscope               noun g=m
 microscopie              noun g=f
@@ -914,6 +941,7 @@ millénarisme             noun g=m
 millésime                noun g=m
 millet                   noun g=m
 milliampère              noun g=m
+milliampèremètre         noun g=m
 milliard                 noun g=m
 milliardaire             noun g=m|f
 millibar                 noun g=m
@@ -999,6 +1027,7 @@ misaine                  noun g=f
 misandrie                noun g=f
 misanthrope              noun g=m|f
 misanthropie             noun g=f
+miscibilité              noun g=f
 mise                     noun g=f
 misérabilisme            noun g=m
 misère                   noun g=f
@@ -1012,6 +1041,7 @@ missile                  noun g=m
 mission                  noun g=f
 missionnaire             noun g=m|f
 missive                  noun g=f
+mistelle                 noun g=f
 mistigri                 noun g=m
 mistral                  noun g=m pl=mistrals
 mitage                   noun g=m
@@ -1123,7 +1153,9 @@ mondanité                noun g=f
 monde                    noun g=m
 mondialisation           noun g=f
 mondialisme              noun g=m
+mondovision              noun g=f
 monégasque               noun g=m|f
+monétarisation           noun g=f
 monétarisme              noun g=m
 monétique                noun g=f
 monétisation             noun g=f
@@ -1135,12 +1167,16 @@ monnaie                  noun g=f
 monnayage                noun g=m
 monnayeur                noun g=m
 monoamine                noun g=f
+monoamine-oxydase        noun g=f pl=monoamines-oxydases
 monocamérisme            noun g=m
 monochromie              noun g=f
 monocle                  noun g=m
 monocoque                noun g=m
+monocotylédone           noun g=f
 monoculture              noun g=f
 monocyte                 noun g=m
+monodie                  noun g=f
+monoénergisme            noun g=m
 monogamie                noun g=f
 monogramme               noun g=m
 monographie              noun g=f
@@ -1151,9 +1187,12 @@ monôme                   noun g=m
 monomère                 noun g=m
 monomoteur               noun g=m
 monoparentalité          noun g=f
+monophysisme             noun g=m
+monophysite              noun g=m|f
 monoplace                noun g=f
 monoplan                 noun g=m
 monopole                 noun g=m
+monopôle                 noun g=m
 monopolisation           noun g=f
 monorail                 noun g=m note=plural monorails
 monosaccharide           noun g=m
@@ -1163,6 +1202,7 @@ monospace                noun g=m
 monosyllabe              noun g=m
 monothéisme              noun g=m
 monothéiste              noun g=m|f
+monothélisme             noun g=m
 monothérapie             noun g=f
 monotonie                noun g=f
 monoxyde                 noun g=m
@@ -1243,6 +1283,7 @@ morutier                 noun g=m
 morve                    noun g=f
 mosaïque                 noun g=f
 mosaïste                 noun g=m|f
+mosasaure                noun g=m
 mosquée                  noun g=f
 mot                      noun g=m
 mot-clé                  noun g=m pl=mots-clés
@@ -1343,6 +1384,7 @@ mule                     noun g=f
 mulet                    noun g=m
 muletier                 noun g=m
 mulot                    noun g=m
+multi-ethnicité          noun g=f rect=multiethnicité
 multi-instrumentiste     noun g=m|f pl=multi-instrumentistes
 multicoque               noun g=m
 multiculturalisme        noun g=m
@@ -1355,6 +1397,7 @@ multimillionnaire        noun g=m|f
 multinationale           noun g=f
 multipartisme            noun g=m
 multiple                 noun g=m
+multiplet                noun g=m
 multiplex                noun g=m
 multiplexage             noun g=m
 multiplexe               noun g=m
@@ -1370,6 +1413,7 @@ multitude                noun g=f
 multivitamine            noun g=f
 municipalisation         noun g=f
 municipalité             noun g=f
+municipe                 noun g=m
 munificence              noun g=f
 munition                 noun g=f
 munitionnaire            noun g=m
@@ -1455,15 +1499,18 @@ myopie                   noun g=f
 myosotis                 noun g=m
 myriade                  noun g=f
 myriapode                noun g=m
+myrmécologue             noun g=m|f
 myrrhe                   noun g=f
 myrte                    noun g=m
 myrtille                 noun g=f
+mystagogue               noun g=m|f
 mystère                  noun g=m
 mysticisme               noun g=m
 mysticité                noun g=f
 mystificateur            noun g=m f=mystificatrice
 mystification            noun g=f
 mythe                    noun g=m
+mythographie             noun g=f
 mythologie               noun g=f
 mythologue               noun g=m|f
 mythomane                noun g=m|f

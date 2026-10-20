@@ -143,6 +143,7 @@ pétrir            verb class=ir
 peupler           verb
 philosopher       verb pp_inv
 phosphorer        verb pp_inv style=colloquial
+phosphoryler      verb
 photocopier       verb
 photographier     verb
 phraser           verb
@@ -225,6 +226,7 @@ poireauter        verb pp_inv style=colloquial alt=attendre
 poisser           verb
 poivrer           verb
 polariser         verb
+poldériser        verb
 polémiquer        verb pp_inv
 policer           verb
 polir             verb class=ir
@@ -240,6 +242,7 @@ ponctionner       verb
 ponctuer          verb
 pondérer          verb
 pondre            verb class=rendre
+ponter            verb
 pontifier         verb pp_inv
 populariser       verb
 poquer            verb
@@ -252,6 +255,7 @@ positiver         verb pp_inv style=colloquial
 posséder          verb
 postdater         verb
 poster            verb
+postfacer         verb
 postillonner      verb pp_inv
 postposer         verb
 postsynchroniser  verb

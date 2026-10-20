@@ -6,6 +6,7 @@ nacre              noun g=f
 nage               noun g=f
 nageoire           noun g=f
 nageur             noun g=m f=nageuse
+nahuatl            noun g=m
 nain               noun g=m f=naine
 naissain           noun g=m
 naissance          noun g=f
@@ -16,6 +17,7 @@ nana               noun g=f style=colloquial alt=femme|fille
 nandou             noun g=m pl=nandous
 nandrolone         noun g=f
 nanoélectronique   noun g=f
+nanokelvin         noun g=m
 nanomètre          noun g=m
 nanoparticule      noun g=f
 nanoseconde        noun g=f
@@ -50,6 +52,8 @@ nationalisation    noun g=f
 nationalisme       noun g=m
 nationaliste       noun g=m|f
 nationalité        noun g=f
+nativité           noun g=f
+natron             noun g=m
 natte              noun g=f
 naturalisation     noun g=f
 naturalisme        noun g=m
@@ -104,11 +108,16 @@ nègre              noun g=m f=négresse style=offensive alt=Noir
 négrier            noun g=m
 négrillon          noun g=m f=négrillonne style=offensive alt=enfant_noir
 négro              noun g=m style=vulgar|offensive alt=Noir
+négus              noun g=m
 neige              noun g=f
 nématode           noun g=m
 néné               noun g=m style=colloquial alt=sein
 nénette            noun g=f style=colloquial alt=femme
 nénuphar           noun g=m rect=nénufar
+néo-chamanisme     noun g=m rect=néochamanisme
+néo-confucianisme  noun g=m rect=néoconfucianisme
+néo-kantisme       noun g=m rect=néokantisme
+néo-réalisme       noun g=m rect=néoréalisme
 néocolonialisme    noun g=m
 néocortex          noun g=m
 néolibéralisme     noun g=m
@@ -140,14 +149,18 @@ neurasthénie       noun g=f
 neurobiologiste    noun g=m|f
 neurochirurgie     noun g=f
 neurochirurgien    noun g=m f=neurochirurgienne
+neurofilament      noun g=m
 neuroleptique      noun g=m
 neurologie         noun g=f
 neurologue         noun g=m|f
+neuromédiateur     noun g=m
 neurone            noun g=m
 neuropathie        noun g=f
 neurophysiologie   noun g=f
 neuropsychiatrie   noun g=f
 neuroscience       noun g=f
+neurotensine       noun g=f
+neurotransmetteur  noun g=m
 neurotransmission  noun g=f
 neutralisation     noun g=f
 neutralité         noun g=f
@@ -216,8 +229,10 @@ nom                noun g=m
 nomade             noun g=m|f
 nomadisation       noun g=f
 nomadisme          noun g=m
+nomarque           noun g=m
 nombre             noun g=m
 nombril            noun g=m
+nome               noun g=m note=province of ancient Egypt
 nomenclature       noun g=f
 nomenklatura       noun g=f
 nominalisme        noun g=m
@@ -226,6 +241,7 @@ nomination         noun g=f
 non-agression      noun g=f
 non-application    noun g=f
 non-assistance     noun g=f
+non-binarité       noun g=f
 non-concurrence    noun g=f
 non-conformité     noun g=f
 non-croyant        noun g=m f=non-croyante
@@ -261,14 +277,20 @@ non-voyant         noun g=m f=non-voyante
 nonagénaire        noun g=m|f
 nonce              noun g=m
 nonchalance        noun g=f
+none               noun g=f note=canonical hour
+nones              noun g=f pl_only note=Roman calendar; also the canonical hour none
 nonne              noun g=f
 nonnette           noun g=f
+noosphère          noun g=f
 nopal              noun g=m pl=nopals
+noradrénaline      noun g=f
 nord               noun g=m pl=- note=compass point
 nord-est           noun g=m pl=- note=compass point
 nord-ouest         noun g=m pl=- note=compass point
 nordicité          noun g=f
 nordiste           noun g=m|f
+norépinéphrine     noun g=f
+noria              noun g=f
 normalien          noun g=m f=normalienne
 normalisation      noun g=f
 normalité          noun g=f
@@ -300,6 +322,7 @@ nouveauté          noun g=f
 nouvelle           noun g=f
 nouvelliste        noun g=m|f
 novation           noun g=f
+novélisation       noun g=f
 novembre           noun g=m
 novice             noun g=m|f
 noviciat           noun g=m
@@ -334,6 +357,7 @@ nullité            noun g=f
 numéraire          noun g=m
 numérateur         noun g=m
 numérisation       noun g=f
+numériseur         noun g=m
 numéro             noun g=m
 numérologie        noun g=f
 numérologue        noun g=m|f

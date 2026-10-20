@@ -91,6 +91,7 @@ menuiser       verb
 méprendre      verb class=prendre pronominal
 mépriser       verb
 merder         verb pp_inv style=vulgar alt=échouer
+meringuer      verb
 mériter        verb
 mésestimer     verb
 mesurer        verb
@@ -187,5 +188,6 @@ muter          verb
 mutiler        verb
 mutiner        verb pronominal
 mutualiser     verb
+myéliniser     verb
 mystifier      verb
 mythifier      verb
