@@ -2,7 +2,7 @@
 ubuesque adj
 ukrainien adj
 ultérieur adj f=ultérieure adv=ultérieurement
-ultime adj
+ultime adj adv=ultimement
 ultramarin adj
 ultramoderne adj
 ultrapériphérique adj
@@ -10,7 +10,7 @@ ultrasensible adj
 ultrasonique adj
 ultraviolet adj f=ultraviolette
 unanime adj adv=unanimement
-uni adj
+uni adj adv=uniment
 unidirectionnel adj
 unificateur adj f=unificatrice
 uniforme adj adv=uniformément
@@ -20,11 +20,11 @@ uninominal adj
 unioniste adj
 unipersonnel adj
 unique adj adv=uniquement
-unitaire adj
+unitaire adj adv=unitairement
 universaliste adj
 universel adj adv=universellement
 universitaire adj
-univoque adj
+univoque adj adv=univoquement
 urbain adj
 urbanistique adj
 urétral adj
@@ -40,5 +40,5 @@ utérin adj
 utile adj adv=utilement
 utilisable adj
 utilitaire adj
-utopique adj
+utopique adj adv=utopiquement
 utopiste adj

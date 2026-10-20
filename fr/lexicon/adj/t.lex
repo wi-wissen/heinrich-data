@@ -2,17 +2,17 @@
 tabou adj
 tacheté adj
 tacite adj adv=tacitement
-taciturne adj
-tactile adj
-tactique adj
+taciturne adj adv=taciturnement
+tactile adj adv=tactilement
+tactique adj adv=tactiquement
 tahitien adj
 taiseux adj
 talentueux adj
 tamoul adj f=tamoule
 tangent adj
-tangible adj
+tangible adj adv=tangiblement
 tantrique adj
-tapageur adj f=tapageuse
+tapageur adj f=tapageuse adv=tapageusement
 tape-à-l'œil adj inv
 tapi adj
 taquin adj
@@ -45,20 +45,20 @@ télescopique adj
 télévisé adj
 télévisuel adj
 tellurique adj
-téméraire adj
+téméraire adj adv=témérairement
 tempérant adj
 tempéré adj
 tempétueux adj
 temporaire adj adv=temporairement
 temporal adj
-temporel adj
+temporel adj adv=temporellement
 tenable adj
-tenace adj
+tenace adj adv=tenacement
 tendanciel adj
-tendancieux adj
+tendancieux adj adv=tendancieusement
 tendre adj adv=tendrement
 tendu adj
-ténébreux adj
+ténébreux adj adv=ténébreusement
 tennistique adj
 tentaculaire adj
 tentant adj
@@ -82,18 +82,18 @@ textile adj
 textuel adj adv=textuellement
 thaï adj
 théâtral adj adv=théâtralement
-thématique adj
+thématique adj adv=thématiquement
 théocratique adj
-théologique adj
+théologique adj adv=théologiquement
 théorique adj adv=théoriquement
-thérapeutique adj
+thérapeutique adj adv=thérapeutiquement
 thermal adj
-thermique adj
+thermique adj adv=thermiquement
 thermodynamique adj
 thoracique adj
 thyroïdien adj
 tibétain adj
-tiède adj
+tiède adj adv=tièdement
 tiers adj f=tierce
 timbré adj
 timide adj adv=timidement
@@ -106,7 +106,7 @@ tombal adj
 tonique adj
 tonitruant adj
 topique adj
-topographique adj
+topographique adj adv=topographiquement
 topologique adj
 toponymique adj
 toqué adj style=colloquial alt=fou
@@ -115,10 +115,10 @@ tordu adj
 torrentiel adj
 torride adj
 tors adj f=torse
-tortueux adj
+tortueux adj adv=tortueusement
 toscan adj
 total adj adv=totalement
-totalitaire adj
+totalitaire adj adv=totalitairement
 totémique adj
 touchant adj
 touffu adj
@@ -151,15 +151,15 @@ transgénique adj
 transgenre adj
 transi adj
 transitif adj
-transitoire adj
+transitoire adj adv=transitoirement
 translucide adj
 transmanche adj
 transmissible adj
 transnational adj
-transparent adj
+transparent adj adv=transparemment
 transpartisan adj
 transportable adj
-transversal adj
+transversal adj adv=transversalement
 transverse adj
 trapézoïdal adj
 trapu adj
@@ -172,23 +172,23 @@ tremblant adj
 tremblotant adj
 trentenaire adj
 trépidant adj
-triangulaire adj
+triangulaire adj adv=triangulairement
 tribal adj
 tributaire adj
 tricolore adj
 triennal adj
 trigonométrique adj
 trilingue adj
-trimestriel adj
-triomphal adj
+trimestriel adj adv=trimestriellement
+triomphal adj adv=triomphalement
 triomphant adj
 tripartite adj
 triphasé adj
-triple adj
+triple adj adv=triplement
 trisomique adj
 triste adj adv=tristement
-trivial adj
-trompeur adj f=trompeuse
+trivial adj adv=trivialement
+trompeur adj f=trompeuse adv=trompeusement
 tropical adj
 trotskiste adj
 troublant adj
@@ -200,7 +200,7 @@ tuberculeux adj
 tubulaire adj
 tuméfié adj
 tumoral adj
-tumultueux adj
+tumultueux adj adv=tumultueusement
 tunisien adj
 turbulent adj
 turc adj f=turque
@@ -208,5 +208,5 @@ turquoise adj inv
 tutélaire adj
 typique adj adv=typiquement
 typographique adj
-tyrannique adj
+tyrannique adj adv=tyranniquement
 tyrolien adj

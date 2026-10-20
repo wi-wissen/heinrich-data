@@ -5,13 +5,13 @@ rabelaisien adj
 rabougri adj
 raccommodable adj
 rachetable adj
-racial adj
+racial adj adv=racialement
 racinaire adj
 racinien adj
 raciste adj
 racoleur adj f=racoleuse
 radical adj adv=radicalement
-radieux adj
+radieux adj adv=radieusement
 radin adj style=colloquial alt=avare
 radioactif adj
 radioélectrique adj
@@ -21,8 +21,8 @@ radioscopique adj
 raffiné adj
 rafraîchissant adj rect=rafraichissant
 rageur adj f=rageuse adv=rageusement
-raide adj
-railleur adj f=railleuse
+raide adj adv=raidement
+railleur adj f=railleuse adv=railleusement
 raisonnable adj adv=raisonnablement
 raisonneur adj f=raisonneuse
 râleur adj f=râleuse style=colloquial
@@ -48,14 +48,14 @@ rationnel adj adv=rationnellement
 rauque adj
 ravageur adj f=ravageuse
 ravi adj
-ravissant adj
+ravissant adj adv=ravissamment
 rayé adj
 rayonnant adj
-réactif adj
+réactif adj adv=réactivement
 réactionnaire adj
 réactionnel adj
 réalisable adj
-réaliste adj
+réaliste adj adv=réalistement
 rébarbatif adj
 rebelle adj
 récalcitrant adj
@@ -88,13 +88,13 @@ rectificatif adj
 rectiligne adj
 reculé adj
 récupérable adj
-récurrent adj
+récurrent adj adv=récurremment
 recyclable adj
 rédactionnel adj
 rédempteur adj f=rédemptrice
 redevable adj
 redistributif adj
-redondant adj
+redondant adj adv=redondamment
 redoutable adj adv=redoutablement
 réducteur adj f=réductrice
 réductible adj
@@ -113,7 +113,7 @@ réfutable adj
 régalien adj
 regardant adj
 régénérateur adj f=régénératrice
-régional adj
+régional adj adv=régionalement
 régionaliste adj
 réglable adj
 réglé adj
@@ -121,7 +121,7 @@ réglementaire adj rect=règlementaire
 réglo adj f=réglo style=colloquial alt=régulier
 régnant adj
 régressif adj
-regrettable adj
+regrettable adj adv=regrettablement
 régulateur adj f=régulatrice
 régulier adj adv=régulièrement
 réhabilitable adj
@@ -155,14 +155,14 @@ réparateur adj f=réparatrice
 réparti adj
 repentant adj
 répertorié adj
-répétitif adj
+répétitif adj adv=répétitivement
 replet adj f=replète
 reposant adj
 repoussant adj
 répréhensible adj
 représentable adj
-représentatif adj
-répressif adj
+représentatif adj adv=représentativement
+répressif adj adv=répressivement
 réprobateur adj f=réprobatrice
 reproducteur adj f=reproductrice
 reproductible adj
@@ -184,16 +184,16 @@ résineux adj
 résistant adj
 résolu adj adv=résolument
 résolutoire adj
-respectable adj
+respectable adj adv=respectablement
 respectif adj adv=respectivement
 respectueux adj adv=respectueusement
 respiratoire adj
 resplendissant adj
-responsable adj
+responsable adj adv=responsablement
 ressemblant adj
 restauratif adj
 restreint adj
-restrictif adj
+restrictif adj adv=restrictivement
 retardateur adj f=retardatrice
 retardé adj
 retentissant adj
@@ -204,9 +204,9 @@ retiré adj
 retors adj f=retorse
 rétractable adj
 rétro adj inv
-rétroactif adj
+rétroactif adj adv=rétroactivement
 rétrograde adj
-rétrospectif adj
+rétrospectif adj adv=rétrospectivement
 réuni adj
 réussi adj
 réutilisable adj
@@ -214,37 +214,37 @@ revanchard adj
 revêche adj
 révélateur adj f=révélatrice
 revendicatif adj
-révérencieux adj
+révérencieux adj adv=révérencieusement
 réversible adj
-rêveur adj f=rêveuse
+rêveur adj f=rêveuse adv=rêveusement
 révisable adj
 révisionniste adj
 révocable adj
 révocatoire adj
 révoltant adj
 révolu adj
-révolutionnaire adj
+révolutionnaire adj adv=révolutionnairement
 rhénan adj
 rhumatoïde adj
 riant adj
 ricaneur adj f=ricaneuse
-riche adj
+riche adj adv=richement
 richissime adj
-ridicule adj
+ridicule adj adv=ridiculement
 rieur adj f=rieuse
-rigide adj
+rigide adj adv=rigidement
 rigolo adj f=rigolote style=colloquial alt=drôle
 rigoureux adj adv=rigoureusement
 rikiki adj inv style=colloquial
 rimbaldien adj
 ringard adj style=colloquial alt=démodé
-risible adj
+risible adj adv=risiblement
 risqué adj
 rituel adj adv=rituellement
 rival adj
 riverain adj
 robotique adj
-robuste adj
+robuste adj adv=robustement
 rocailleux adj
 rochelais adj
 rocheux adj
@@ -254,11 +254,11 @@ romain adj
 roman adj
 romanche adj
 romand adj
-romanesque adj
+romanesque adj adv=romanesquement
 romantique adj adv=romantiquement
 rompu adj
 ronchon adj f=ronchonne style=colloquial
-rond adj
+rond adj adv=rondement
 rondelet adj f=rondelette
 rosâtre adj
 rosé adj
@@ -284,17 +284,17 @@ roux adj f=rousse
 royal adj adv=royalement
 royaliste adj
 rude adj adv=rudement
-rudimentaire adj
+rudimentaire adj adv=rudimentairement
 rugueux adj
 ruineux adj
 ruisselant adj
 ruminant adj
 rupestre adj
 rupin adj style=colloquial alt=riche
-rural adj
+rural adj adv=ruralement
 rusé adj
 russe adj
-rustique adj
+rustique adj adv=rustiquement
 rutilant adj
 rwandais adj
-rythmique adj
+rythmique adj adv=rythmiquement
