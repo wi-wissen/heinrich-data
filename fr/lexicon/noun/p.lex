@@ -53,6 +53,7 @@ paléographie          noun g=f
 paléontologie         noun g=f
 paléontologiste       noun g=m|f
 paléontologue         noun g=m|f
+paléosismologie       noun g=f
 paleron               noun g=m
 palestre              noun g=f
 palet                 noun g=m
@@ -86,6 +87,7 @@ palpitation           noun g=f
 paltoquet             noun g=m style=archaic
 paluche               noun g=f style=colloquial alt=main
 paludisme             noun g=m
+palynologie           noun g=f
 pâmoison              noun g=f
 pampa                 noun g=f
 pamphlet              noun g=m
@@ -161,7 +163,7 @@ papiste               noun g=m|f
 papotage              noun g=m style=colloquial
 paprika               noun g=m
 papy                  noun g=m style=colloquial alt=grand-père note=also written papi
-papyrus               noun g=m
+papyrus               noun g=m pl=papyrus|papyri
 paquebot              noun g=m
 pâquerette            noun g=f
 paquet                noun g=m
@@ -185,6 +187,7 @@ paraffine             noun g=f
 parafoudre            noun g=m
 parage                noun g=m style=literary note=de haut parage
 parages               noun g=m pl_only
+paragoge              noun g=f
 paragraphe            noun g=m
 paraguayen            noun g=m f=paraguayenne
 paralittérature       noun g=f
@@ -202,6 +205,7 @@ paramètre             noun g=m
 paramilitaire         noun g=m|f
 parangon              noun g=m
 parano                noun g=f sense=paranoia style=colloquial alt=paranoïa
+paranœud              noun g=m
 paranoïa              noun g=f
 paranoïaque           noun g=m|f
 parapente             noun g=m
@@ -406,10 +410,12 @@ patois                noun g=m
 pâtre                 noun g=m
 patriarcat            noun g=m
 patriarche            noun g=m
+patrice               noun g=m note=Roman and Byzantine title
 patriciat             noun g=m
 patricien             noun g=m f=patricienne
 patrie                noun g=f
 patrimoine            noun g=m
+patrimonialité        noun g=f
 patriote              noun g=m|f
 patriotisme           noun g=m
 patristique           noun g=f
@@ -424,6 +430,7 @@ pattemouille          noun g=f
 pâturage              noun g=m
 pâture                noun g=f
 pâturin               noun g=m
+pauliste              noun g=m|f
 paume                 noun g=f
 paumelle              noun g=f
 paupérisation         noun g=f
@@ -497,6 +504,7 @@ pédophilie            noun g=f
 pédopornographie      noun g=f
 pédopsychiatre        noun g=m|f
 pédopsychiatrie       noun g=f
+pédosphère            noun g=f
 pègre                 noun g=f
 peignage              noun g=m
 peigne                noun g=m
@@ -573,6 +581,7 @@ pensum                noun g=m
 pentagone             noun g=m
 pentathlon            noun g=m
 pente                 noun g=f
+pentose               noun g=m
 pénultième            noun g=f
 pénurie               noun g=f
 pépé                  noun g=m style=colloquial alt=grand-père
@@ -609,6 +618,7 @@ perdition             noun g=f
 perdreau              noun g=m
 perdrix               noun g=f
 père                  noun g=m
+pérégrin              noun g=m
 pérégrination         noun g=f
 péremption            noun g=f
 pérennisation         noun g=f
@@ -662,6 +672,7 @@ permanente            noun g=f
 permanganate          noun g=m
 perméabilisation      noun g=f
 perméabilité          noun g=f
+permien               noun g=m
 permis                noun g=m
 permission            noun g=f
 permissionnaire       noun g=m|f
@@ -807,6 +818,7 @@ phénomène             noun g=m
 phénoménologie        noun g=f
 phénoménologue        noun g=m|f
 phénotype             noun g=m
+phényléthanolamine    noun g=f
 phéromone             noun g=f
 philanthrope          noun g=m|f
 philanthropie         noun g=f
@@ -826,14 +838,20 @@ phlegmon              noun g=m
 phobie                noun g=f
 phobique              noun g=m|f
 phonation             noun g=f
+phone                 noun g=m note=unit of loudness; phonetics: speech sound
 phonème               noun g=m
 phonéticien           noun g=m f=phonéticienne
+phonétisme            noun g=m
 phoniatre             noun g=m|f
 phonogramme           noun g=m
 phonographe           noun g=m
+phonographie          noun g=f
 phonologie            noun g=f
 phoque                noun g=m
+phosphatase           noun g=f
 phosphate             noun g=m
+phosphodiestérase     noun g=f
+phosphoglycérol       noun g=m
 phospholipide         noun g=m
 phosphore             noun g=m
 phosphorescence       noun g=f
@@ -853,6 +871,7 @@ photométrie           noun g=f
 photomontage          noun g=m
 photon                noun g=m
 photophobie           noun g=f
+photophosphorylation  noun g=f
 photorécepteur        noun g=m
 photosensibilité      noun g=f
 photosphère           noun g=f
@@ -866,9 +885,10 @@ phrénologie           noun g=f
 phtalate              noun g=m
 phtisie               noun g=f
 phylactère            noun g=m
+phyle                 noun g=f
 phylloxéra            noun g=m
 phylogénie            noun g=f
-phylum                noun g=m
+phylum                noun g=m pl=phylums|phyla
 physicien             noun g=m f=physicienne
 physiocrate           noun g=m|f
 physiognomonie        noun g=f
@@ -889,10 +909,12 @@ piaf                  noun g=m style=colloquial alt=moineau
 piaffement            noun g=m
 piaillement           noun g=m
 piaillerie            noun g=f
+pian                  noun g=m
 pianiste              noun g=m|f
 piano                 noun g=m
 pianoforte            noun g=m pl=pianoforte[trad]|pianofortes[rect]
 pianotage             noun g=m
+piariste              noun g=m
 piastre               noun g=f
 piaule                noun g=f style=colloquial alt=chambre
 piazza                noun g=f
@@ -907,6 +929,8 @@ pichet                noun g=m
 pick-up               noun g=m pl=pick-up[trad]|pick-ups[rect]
 pickles               noun g=m pl_only
 pickpocket            noun g=m
+picogramme            noun g=m
+picokelvin            noun g=m
 picotement            noun g=m
 picotin               noun g=m
 pictogramme           noun g=m
@@ -987,6 +1011,7 @@ pincement             noun g=m
 pincette              noun g=f
 pinçon                noun g=m
 pinçure               noun g=f
+pineau                noun g=m
 pinède                noun g=f
 ping-pong             noun g=m pl=- rect=pingpong note=no plural
 pingouin              noun g=m
@@ -1000,6 +1025,7 @@ pintadeau             noun g=m
 pinte                 noun g=f
 piochage              noun g=m
 pioche                noun g=f
+piocheur              noun g=m f=piocheuse
 piolet                noun g=m
 pion                  noun g=m
 pionnier              noun g=m f=pionnière
@@ -1088,6 +1114,7 @@ plafonnier            noun g=m
 plage                 noun g=f
 plagiaire             noun g=m|f
 plagiat               noun g=m
+plagioclase           noun g=m
 plagiste              noun g=m|f
 plaid                 noun g=m
 plaideur              noun g=m f=plaideuse
@@ -1141,6 +1168,7 @@ plaquette             noun g=f
 plaqueur              noun g=m
 plaquiste             noun g=m|f
 plasma                noun g=m
+plasmalogène          noun g=m
 plasmide              noun g=m
 plasticage            noun g=m
 plasticien            noun g=m f=plasticienne
@@ -1186,6 +1214,7 @@ plénière              noun g=f
 plénipotentiaire      noun g=m|f
 plénitude             noun g=f
 pléonasme             noun g=m
+plésiosaure           noun g=m
 pléthore              noun g=f
 pleur                 noun g=m
 pleurésie             noun g=f
@@ -1245,6 +1274,7 @@ pneumologie           noun g=f
 pneumologue           noun g=m|f
 pneumonie             noun g=f
 pneumothorax          noun g=m
+poacée                noun g=f
 pochade               noun g=f
 pochard               noun g=m f=pocharde style=colloquial alt=ivrogne
 poche                 noun g=f
@@ -1357,6 +1387,7 @@ polonais              noun g=m
 polonium              noun g=m
 poltron               noun g=m f=poltronne
 poltronnerie          noun g=f
+polyacrylamide        noun g=m
 polyamide             noun g=m
 polyandrie            noun g=f
 polyarthrite          noun g=f
@@ -1373,11 +1404,16 @@ polygamie             noun g=f
 polyglotte            noun g=m|f
 polygone              noun g=m
 polygraphe            noun g=m|f
+polygynie             noun g=f
 polyhandicap          noun g=m
+polyimide             noun g=m
+polyisocyanate        noun g=m
+polymathe             noun g=m|f
 polymérase            noun g=f
 polymère              noun g=m
 polymérisation        noun g=f
 polymorphisme         noun g=m
+polyneuropathie       noun g=f
 polynévrite           noun g=f
 polynôme              noun g=m
 polype                noun g=m
@@ -1386,13 +1422,16 @@ polypier              noun g=m
 polypore              noun g=m
 polypropylène         noun g=m
 polyptyque            noun g=m
+polyrythme            noun g=m
 polysaccharide        noun g=m
 polysémie             noun g=f
+polysplénie           noun g=f
 polystyrène           noun g=m
 polytechnicien        noun g=m f=polytechnicienne
 polythéisme           noun g=m
 polythéiste           noun g=m|f
 polytonalité          noun g=f
+polyurée              noun g=f
 polyuréthane          noun g=m
 polyvalence           noun g=f
 pomélo                noun g=m
@@ -1523,6 +1562,7 @@ portrait              noun g=m
 portraitiste          noun g=m|f
 portugais             noun g=m
 poseur                noun g=m f=poseuse
+posidonie             noun g=f
 position              noun g=f
 positionnement        noun g=m
 positivisme           noun g=m
@@ -1664,6 +1704,7 @@ praticabilité         noun g=f
 praticien             noun g=m f=praticienne
 pratiquant            noun g=m f=pratiquante
 pratique              noun g=f
+praxématique          noun g=f
 pré                   noun g=m
 préachat              noun g=m
 préadolescent         noun g=m f=préadolescente
@@ -1912,6 +1953,7 @@ probation             noun g=f
 probité               noun g=f
 problématique         noun g=f
 problème              noun g=m
+procaryote            noun g=m
 procédé               noun g=m
 procédure             noun g=f
 procès                noun g=m
@@ -2079,6 +2121,8 @@ protège-genou         noun g=m pl=protège-genoux
 protège-slip          noun g=m pl=protège-slips
 protège-tibia         noun g=m pl=protège-tibias
 protéine              noun g=f
+protéome              noun g=m
+protéomique           noun g=f
 protestant            noun g=m f=protestante
 protestantisme        noun g=m
 protestataire         noun g=m|f
@@ -2089,11 +2133,14 @@ prothésiste           noun g=m|f
 prothrombine          noun g=f
 protide               noun g=m
 protiste              noun g=m
+protium               noun g=m
 protocole             noun g=m
 protohistoire         noun g=f
 proton                noun g=m
+protonation           noun g=f
 protonotaire          noun g=m
 protoplasme           noun g=m
+protostomien          noun g=m
 prototypage           noun g=m
 prototype             noun g=m
 protoxyde             noun g=m
@@ -2129,6 +2176,7 @@ prunelle              noun g=f
 prunellier            noun g=m rect=prunelier
 prunier               noun g=m
 prurit                noun g=m
+prussiate             noun g=m
 prytane               noun g=m
 psalmiste             noun g=m
 psalmodie             noun g=f
@@ -2158,6 +2206,7 @@ psychokinésie         noun g=f
 psycholinguiste       noun g=m|f
 psycholinguistique    noun g=f
 psychologie           noun g=f
+psychologisme         noun g=m
 psychologue           noun g=m|f
 psychométrie          noun g=f
 psychomotricien       noun g=m f=psychomotricienne
@@ -2170,6 +2219,7 @@ psychophysiologie     noun g=f
 psychophysique        noun g=f
 psychorigidité        noun g=f
 psychose              noun g=f
+psychostimulant       noun g=m
 psychothérapeute      noun g=m|f
 psychothérapie        noun g=f
 psychotrope           noun g=m
@@ -2297,6 +2347,7 @@ pyrotechnicien        noun g=m f=pyrotechnicienne
 pyrotechnie           noun g=f
 pyroxène              noun g=m
 pyrrhique             noun g=f
+pyrrole               noun g=m
 pythagorisme          noun g=m
 pythie                noun g=f
 python                noun g=m
