@@ -44,10 +44,12 @@ quand     adv  type=int note=interrogative quand; the conjunction is a separate 
 quant     adv  type=degree note=only in quant à
 quasi     adv  type=degree
 si        adv  type=degree note=si grand; the conjunction is a separate entry
+sur-le-champ adv type=time
 tant      adv  type=degree
 tellement adv  type=degree
 tout      adv  type=degree note=tout petit, toute petite (agrees before a consonant-initial feminine adjective)
 très      adv  type=degree
 trop      adv  type=degree
+vice-versa adv type=manner note=traditionally also vice versa (two words)
 voici     adv  type=deictic
 voilà     adv  type=deictic
