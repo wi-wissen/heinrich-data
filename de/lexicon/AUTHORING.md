@@ -268,11 +268,15 @@ Heinrich/tools/build-packs.sh . /tmp/packs --no-trusted
 heinrich-lexicon trusted de/lexicon de/frequency/forms.tsv --names de/names \
     --other-lexicon en/lexicon --other-forms en/frequency/forms.tsv \
     --morph-pack /tmp/packs/de-morph.pack --freq-pack /tmp/packs/de-freq.pack \
-    --names-pack /tmp/packs/de-names.pack -o de/frequency/trusted_forms.tsv
+    --names-pack /tmp/packs/de-names.pack --exclude de/frequency/trusted_excluded.tsv \
+    -o de/frequency/trusted_forms.tsv
 ```
 
-If a trusted form is a misspelling, an old spelling or a name, report it (the filters are
-improved and the list regenerated) instead of deleting the line.
+Every entry is checked by the clean-room reviewer; the forms it disputes go into
+`de/frequency/trusted_excluded.tsv` (`form <TAB> category`) and stay out of every regenerated
+list. A disputed form is re-admitted only when it is clearly standard German from your own
+knowledge; in doubt it stays excluded. If you see a trusted form that is a misspelling, an old
+spelling or a name, report it instead of editing the list by hand.
 
 ## 5. Self-check (mandatory before handing in)
 
