@@ -11,15 +11,15 @@ vaincu adj
 valable adj adv=valablement
 valaisan adj f=valaisanne
 valdôtain adj
-valeureux adj
-valide adj
+valeureux adj adv=valeureusement
+valide adj adv=validement
 vallonné adj
 valorisant adj
 valvulaire adj
-vaniteux adj
+vaniteux adj adv=vaniteusement
 vantard adj
-vaporeux adj
-variable adj
+vaporeux adj adv=vaporeusement
+variable adj adv=variablement
 varié adj
 vasculaire adj
 vaseux adj
@@ -38,11 +38,11 @@ veiné adj
 veineux adj
 velouté adj
 velu adj
-vénal adj
+vénal adj adv=vénalement
 vendable adj
 vendéen adj
 vénéneux adj
-vénérable adj
+vénérable adj adv=vénérablement
 vénérien adj
 vénézuélien adj
 vengeur adj f=vengeresse
@@ -55,11 +55,11 @@ ventriculaire adj
 ventru adj
 venu adj
 verbal adj adv=verbalement
-verbeux adj
+verbeux adj adv=verbeusement
 verdâtre adj
 verdoyant adj
 véreux adj
-véridique adj
+véridique adj adv=véridiquement
 vérifiable adj
 véritable adj adv=véritablement
 vermeil adj f=vermeille
@@ -74,7 +74,7 @@ vert adj
 vertébral adj
 vertébré adj
 vertical adj adv=verticalement
-vertigineux adj
+vertigineux adj adv=vertigineusement
 vertueux adj adv=vertueusement
 vésical adj
 vestimentaire adj
@@ -103,11 +103,11 @@ vierge adj
 vietnamien adj
 vieux adj f=vieille mv=vieil place=pre
 vif adj adv=vivement
-vigilant adj
+vigilant adj adv=vigilamment
 vigoureux adj adv=vigoureusement
-vil adj
-vilain adj
-vindicatif adj
+vil adj adv=vilement
+vilain adj adv=vilainement
+vindicatif adj adv=vindicativement
 vineux adj
 vinicole adj
 violacé adj
@@ -115,24 +115,24 @@ violent adj adv=violemment
 violet adj f=violette
 viral adj
 virginal adj
-viril adj
+viril adj adv=virilement
 virtuel adj adv=virtuellement
-virulent adj
-viscéral adj
+virulent adj adv=virulemment
+viscéral adj adv=viscéralement
 visible adj adv=visiblement
 visionnaire adj
 visqueux adj
 visuel adj adv=visuellement
-vital adj
+vital adj adv=vitalement
 viticole adj
 vitré adj
 vitreux adj
 vivable adj
-vivace adj
+vivace adj adv=vivacement
 vivant adj
 vivifiant adj
 vivipare adj
-vocal adj
+vocal adj adv=vocalement
 vocalique adj
 voilé adj
 voisin adj
@@ -143,10 +143,10 @@ volcanique adj
 volontaire adj adv=volontairement
 volontariste adj
 voltairien adj
-volubile adj
+volubile adj adv=volubilement
 volumineux adj
 volumique adj
-voluptueux adj
+voluptueux adj adv=voluptueusement
 vorace adj adv=voracement
 vosgien adj
 votant adj
