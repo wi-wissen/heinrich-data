@@ -1,5 +1,6 @@
 # French lexicon, verb, letter j (clean-room, own knowledge)
 jacasser       verb pp_inv
+jacter         verb style=colloquial alt=parler|bavarder
 jaillir        verb class=ir pp_inv
 jalonner       verb
 jalouser       verb

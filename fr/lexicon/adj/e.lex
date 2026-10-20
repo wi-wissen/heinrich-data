@@ -4,6 +4,7 @@
 éblouissant    adj
 ébouriffant    adj
 écailleux      adj
+écarlate       adj
 ecclésial      adj
 ecclésiastique adj
 écervelé       adj
@@ -15,7 +16,7 @@ ecclésiastique adj
 éclatant       adj
 éclectique     adj
 écœurant       adj
-écolo          adj style=colloquial alt=écologique|écologiste
+écolo          adj f=écolo style=colloquial alt=écologique|écologiste note=invariable in gender: une militante écolo, des écolos
 écologique     adj adv=écologiquement
 écologiste     adj
 économe        adj
@@ -214,7 +215,7 @@ enzymatique    adj
 épuisable      adj
 épuisant       adj
 équanime       adj
-équato-guinéen adj
+équato-guinéen adj rect=équatoguinéen
 équatorial     adj
 équatorien     adj
 équestre       adj
@@ -310,6 +311,7 @@ eurosceptique  adj
 évolutif       adj
 évolutionniste adj
 exact          adj adv=exactement
+exagéré        adj adv=exagérément note=lexicalised participle (des propos exagérés)
 exaltant       adj
 exaspérant     adj
 excédentaire   adj
@@ -341,6 +343,7 @@ existentiel    adj
 exocrine       adj
 exogène        adj
 exorbitant     adj
+exorbité       adj
 exothermique   adj
 exotique       adj
 expansé        adj

@@ -36,6 +36,7 @@ lactone        noun g=f
 lactose        noun g=m
 lactosérum     noun g=m
 lacune         noun g=f
+lady           noun g=f pl=ladys|ladies conf=85
 lagomorphe     noun g=m
 lagon          noun g=m
 lagopède       noun g=m
@@ -177,6 +178,7 @@ larcin         noun g=m
 lard           noun g=m
 lardoire       noun g=f
 lardon         noun g=m
+lardu          noun g=m style=colloquial alt=policier
 largage        noun g=m
 large          noun g=m pl=- note=au large, prendre le large
 largesse       noun g=f
@@ -578,6 +580,7 @@ liturgie       noun g=f
 livarot        noun g=m note=cheese
 livèche        noun g=f
 lividité       noun g=f
+living         noun g=m style=archaic note=living-room, salon
 livrable       noun g=m
 livraison      noun g=f
 livre          noun g=m sense=book
@@ -660,11 +663,13 @@ longévité      noun g=f
 longitude      noun g=f
 longue-vue     noun g=f pl=longues-vues
 longueur       noun g=f
+look           noun g=m
 looping        noun g=m
 lophophore     noun g=m conf=90
 lopin          noun g=m
 loquacité      noun g=f
 loque          noun g=f
+loquedu        noun g=m style=colloquial conf=85 alt=minable
 loquet         noun g=m
 lord           noun g=m
 lordose        noun g=f

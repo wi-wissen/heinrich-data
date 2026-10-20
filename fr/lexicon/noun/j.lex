@@ -73,6 +73,7 @@ jeune          noun g=m|f
 jeûne          noun g=m
 jeunesse       noun g=f
 jeunisme       noun g=m
+jeunot         noun g=m f=jeunotte style=colloquial alt=jeune
 jingle         noun g=m
 joaillerie     noun g=f
 joaillier      noun g=m f=joaillière
@@ -132,12 +133,15 @@ juilletiste    noun g=m|f
 juin           noun g=m
 jujube         noun g=m
 jujubier       noun g=m
+juke-box       noun g=m pl=juke-boxes conf=80
+jules          noun g=m style=colloquial alt=petit_ami|mari
 julienne       noun g=f
 jumeau         noun g=m f=jumelle
 jumelage       noun g=m
 jument         noun g=f
 jungle         noun g=f
 junior         noun g=m|f
+junkie         noun g=m|f style=colloquial alt=toxicomane
 junte          noun g=f
 jupe           noun g=f
 jupe-culotte   noun g=f pl=jupes-culottes

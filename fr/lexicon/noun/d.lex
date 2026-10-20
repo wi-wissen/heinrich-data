@@ -46,6 +46,8 @@ daube noun g=f
 dauphin noun g=m f=dauphine
 daurade noun g=f note=also spelt dorade
 dé noun g=m
+deal           noun g=m style=colloquial alt=accord|marché
+dealer         noun g=m style=colloquial alt=revendeur
 déambulateur noun g=m
 déambulatoire noun g=m
 débâcle noun g=f
@@ -329,6 +331,7 @@ démarche noun g=f
 démarcheur noun g=m f=démarcheuse
 démarquage noun g=m
 démarrage noun g=m
+démarreur      noun g=m
 dématérialisation noun g=f
 démêlé noun g=m
 démêloir noun g=m
@@ -378,6 +381,7 @@ demi-sœur noun g=f pl=demi-sœurs
 demi-solde noun g=m pl=demi-soldes note=a half-pay officer (le demi-solde); la demi-solde = the pay
 demi-sommeil noun g=m pl=demi-sommeils
 demi-soupir noun g=m pl=demi-soupirs
+demi-sourire   noun g=m pl=demi-sourires
 demi-sphère noun g=f pl=demi-sphères
 demi-tarif noun g=m pl=demi-tarifs
 demi-tasse noun g=f pl=demi-tasses
@@ -511,6 +515,7 @@ dérangement noun g=m
 dérapage noun g=m
 dératisation noun g=f
 derby noun g=m
+derche         noun g=m style=vulgar alt=derrière
 déréférencement noun g=m
 dérèglement noun g=m
 déréglementation noun g=f
@@ -1123,6 +1128,7 @@ dromadaire noun g=m
 drone noun g=m
 droséra noun g=m conf=80 note=gender varies; usually masculine
 drosophile noun g=f
+drugstore      noun g=m
 druide noun g=m f=druidesse
 druidisme noun g=m
 drupe noun g=f
@@ -1132,6 +1138,7 @@ duathlon noun g=m
 duc noun g=m f=duchesse
 ducat noun g=m
 duché noun g=m
+ducon          noun g=m style=vulgar alt=imbécile
 ductilité noun g=f
 duègne noun g=f
 duel noun g=m

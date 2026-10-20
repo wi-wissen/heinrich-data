@@ -62,7 +62,7 @@ héréditaire    adj
 hérétique      adj
 hermaphrodite  adj
 hermétique     adj adv=hermétiquement
-héroï-comique  adj
+héroï-comique  adj rect=héroïcomique
 héroïque       adj adv=héroïquement note=mute h, unlike héros
 hertzien       adj
 hésitant       adj
@@ -96,6 +96,7 @@ hispanophone   adj
 histologique   adj
 historiographique adj
 historique     adj adv=historiquement
+hitlérien      adj aspirate conf=85
 hittite        adj
 hivernal       adj
 holistique     adj

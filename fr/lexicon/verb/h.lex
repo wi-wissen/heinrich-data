@@ -18,10 +18,12 @@ harasser       verb aspirate
 harceler       verb aspirate note=è like acheter: il harcèle
 harmoniser     verb
 harnacher      verb aspirate
+harper         verb aspirate conf=85
 harponner      verb aspirate
 hasarder       verb aspirate
 hâter          verb aspirate
 hausser        verb aspirate
+haver          verb aspirate conf=70 note=mining: to undercut
 héberger       verb
 hébéter        verb
 héler          verb aspirate

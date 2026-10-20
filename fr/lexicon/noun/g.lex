@@ -45,6 +45,7 @@ galopade       noun g=f
 galopin        noun g=m
 galvanisation  noun g=f
 gambade        noun g=f
+gamberge       noun g=f style=colloquial alt=réflexion
 gamelle        noun g=f
 gamète         noun g=m
 gamin          noun g=m f=gamine
@@ -62,6 +63,7 @@ garagiste      noun g=m|f
 garance        noun g=f
 garant         noun g=m f=garante
 garantie       noun g=f
+garce          noun g=f style=colloquial|offensive alt=méchante_femme
 garçon         noun g=m
 garçonnet      noun g=m
 garçonnière    noun g=f
@@ -91,6 +93,7 @@ gargarisme     noun g=m
 gargote        noun g=f
 gargouille     noun g=f
 gargouillement noun g=m
+gargouillis    noun g=m
 garnement      noun g=m
 garnison       noun g=f
 garniture      noun g=f
@@ -141,6 +144,7 @@ gazouillis     noun g=m
 geai           noun g=m
 géant          noun g=m f=géante
 gecko          noun g=m
+geignard       noun g=m f=geignarde style=colloquial alt=pleurnicheur
 gel            noun g=m
 gélatine       noun g=f
 gelée          noun g=f
@@ -148,6 +152,8 @@ gélification   noun g=f
 gélinotte      noun g=f
 gélose         noun g=f
 gélule         noun g=f
+gémellité      noun g=f
+gémissement    noun g=m
 gemme          noun g=f
 gencive        noun g=f
 gendarme       noun g=m|f
@@ -243,6 +249,7 @@ gibbon         noun g=m
 gibecière      noun g=f
 gibet          noun g=m
 gibier         noun g=m
+giclée         noun g=f
 gicleur        noun g=m
 gifle          noun g=f
 gigahertz      noun g=m
@@ -260,6 +267,7 @@ ginkgo         noun g=m
 ginseng        noun g=m
 girafe         noun g=f
 girandole      noun g=f
+girl           noun g=f note=music-hall dancer
 girofle        noun g=m
 giroflée       noun g=f
 giroflier      noun g=m
@@ -323,6 +331,7 @@ glycogène      noun g=m
 glyphe         noun g=m
 glyphosate     noun g=m
 gneiss         noun g=m
+gnôle          noun g=f style=colloquial alt=eau-de-vie
 gnome          noun g=m
 gnomon         noun g=m
 gnose          noun g=f
@@ -339,6 +348,8 @@ godillot       noun g=m
 goéland        noun g=m
 goélette       noun g=f
 goémon         noun g=m
+gogo           noun g=m style=colloquial alt=naïf|dupe note=also in à gogo
+gogues         noun g=m pl_only style=colloquial alt=toilettes
 goguette       noun g=f
 goinfre        noun g=m|f style=colloquial alt=glouton
 goinfrerie     noun g=f
@@ -357,6 +368,8 @@ gondolier      noun g=m
 gonflage       noun g=m
 gonflement     noun g=m
 gong           noun g=m
+gonze          noun g=m style=colloquial alt=type
+gonzesse       noun g=f style=colloquial alt=femme|fille
 gorge          noun g=f
 gorgée         noun g=f
 gorille        noun g=m
@@ -372,10 +385,12 @@ goujat         noun g=m
 goujaterie     noun g=f
 goujon         noun g=m
 goulag         noun g=m
+goulée         noun g=f
 goulet         noun g=m
 goulot         noun g=m
 goupille       noun g=f
 goupillon      noun g=m
+gourbi         noun g=m style=colloquial alt=taudis
 gourde         noun g=f
 gourdin        noun g=m
 gourmand       noun g=m f=gourmande
@@ -433,6 +448,7 @@ grand-messe    noun g=f pl=grand-messes
 grand-oncle    noun g=m pl=grands-oncles
 grand-papa     noun g=m pl=grands-papas style=colloquial alt=grand-père
 grand-parent   noun g=m pl=grands-parents
+grand-peine    noun g=f pl=- note=only in à grand-peine
 grand-père     noun g=m pl=grands-pères
 grand-place    noun g=f pl=grand-places
 grand-prêtre   noun g=m pl=grands-prêtres
@@ -591,6 +607,7 @@ gueule-de-loup noun g=f pl=gueules-de-loup
 gueuleton      noun g=m style=colloquial alt=festin|repas
 gueux          noun g=m f=gueuse
 gui            noun g=m
+guibolle       noun g=f style=colloquial alt=jambe
 guichet        noun g=m
 guichetier     noun g=m f=guichetière
 guidage        noun g=m
@@ -609,6 +626,9 @@ guirlande      noun g=f
 guise          noun g=f
 guitare        noun g=f
 guitariste     noun g=m|f
+guitoune       noun g=f style=colloquial alt=tente
+gus            noun g=m style=colloquial alt=type|individu
+gym            noun g=f style=colloquial alt=gymnastique
 gymnase        noun g=m
 gymnaste       noun g=m|f
 gymnastique    noun g=f

@@ -1,4 +1,5 @@
 # French lexicon, adv, letter d (clean-room, own knowledge)
+dare-dare      adv style=colloquial alt=en_hâte|rapidement
 debout adv
 décidément adv
 dedans adv

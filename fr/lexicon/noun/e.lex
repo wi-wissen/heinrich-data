@@ -1,4 +1,5 @@
 # French lexicon, noun, letter e (clean-room, own knowledge)
+e-mail         noun g=m pl=e-mails note=official term courriel
 eau            noun g=f
 eau-de-vie     noun g=f pl=eaux-de-vie
 eau-forte      noun g=f pl=eaux-fortes
@@ -223,6 +224,7 @@ effusion       noun g=f
 églantine      noun g=f
 église         noun g=f
 églogue        noun g=f
+ego            noun g=m rect=égo conf=85
 égocentrisme   noun g=m
 égoïsme        noun g=m
 égoïste        noun g=m|f
@@ -302,7 +304,7 @@ eldorado       noun g=m
 élément        noun g=m
 éléphant       noun g=m f=éléphante
 éléphanteau    noun g=m
-éléphantiasis  noun g=m
+éléphantiasis  noun g=m|f conf=90 note=usually masculine; feminine also found
 élevage        noun g=m
 élévateur      noun g=m
 élévation      noun g=f
@@ -515,6 +517,7 @@ encrassement   noun g=m
 encre          noun g=f
 encrier        noun g=m
 encroûtement   noun g=m rect=encroutement
+enculé         noun g=m f=enculée style=vulgar alt=salaud
 encyclique     noun g=f
 encyclopédie   noun g=f
 encyclopédiste noun g=m|f
@@ -558,6 +561,7 @@ enfer          noun g=m
 enfermement    noun g=m
 enfilade       noun g=f
 enflure        noun g=f
+enfoiré        noun g=m f=enfoirée style=vulgar alt=imbécile
 enfoncement    noun g=m
 enfouissement  noun g=m
 enfumage       noun g=m
@@ -859,7 +863,7 @@ ermite         noun g=m
 érosion        noun g=f
 érotisme       noun g=m
 errance        noun g=f
-erratum        noun g=m pl=errata
+erratum        noun g=m pl=errata[trad]|erratums[rect]
 errements      noun g=m pl_only
 erreur         noun g=f
 ersatz         noun g=m
@@ -910,6 +914,7 @@ escrime        noun g=f
 escrimeur      noun g=m f=escrimeuse
 escroc         noun g=m
 escroquerie    noun g=f
+esgourde       noun g=f style=colloquial alt=oreille
 ésotérisme     noun g=m
 espace         noun g=m
 espace-temps   noun g=m pl=espaces-temps
@@ -1072,6 +1077,7 @@ ethnonyme      noun g=m
 étrille        noun g=f
 étrivière      noun g=f
 étroitesse     noun g=f
+étron          noun g=m style=vulgar alt=excrément
 étude          noun g=f
 étudiant       noun g=m f=étudiante
 étui           noun g=m
@@ -1139,7 +1145,9 @@ eutrophisation noun g=f
 évolutionnisme noun g=m
 évolutionniste noun g=m|f
 ex             noun g=m|f style=colloquial alt=ancien_conjoint|ancienne_compagne conf=90 note=mon ex, ton ex
+ex-femme       noun g=f pl=ex-femmes
 ex-libris      noun g=m pl=ex-libris
+ex-mari        noun g=m pl=ex-maris
 ex-voto        noun g=m pl=ex-voto
 exacerbation   noun g=f
 exaction       noun g=f

@@ -39,7 +39,8 @@
 éclairer       verb
 éclater        verb
 éclipser       verb
-éclore         verb class=irr aux=être defective=inf|3|pp pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
+éclore         verb class=irr aux=avoir|être defective=inf|3|pp pres=-,-,éclôt[trad]|éclot[rect],-,-,éclosent ps=- fut=éclorai subj=-,-,éclose,-,-,éclosent imp=-,-,- ppr=- pp=éclos conf=85 note=defective, mostly 3rd person
+écluser        verb note=to pass through a lock; colloquially to drink
 écœurer        verb
 éconduire      verb class=conduire
 économiser     verb
@@ -217,6 +218,7 @@ encourir       verb class=courir
 encrasser      verb
 encrer         verb
 encroûter      verb rect=encrouter
+enculer        verb style=vulgar
 endetter       verb
 endeuiller     verb
 endiguer       verb
@@ -283,6 +285,7 @@ ennuyer        verb
 enorgueillir   verb class=ir
 enquérir       verb class=acquérir pronominal
 enquêter       verb pp_inv
+enquiller      verb style=colloquial alt=enfiler|entrer
 enquiquiner    verb style=colloquial alt=ennuyer|importuner
 enraciner      verb
 enrager        verb
@@ -339,7 +342,7 @@ entreposer     verb
 entreprendre   verb class=prendre
 entrer         verb aux=avoir|être note=avoir when transitive: j'ai entré les données
 entretenir     verb class=venir
-entretuer      verb pronominal
+entretuer      verb pronominal note=used in the plural only (ils se sont entretués)
 entrevoir      verb class=voir
 entrouvrir     verb class=ouvrir
 entuber        verb style=colloquial alt=duper|escroquer

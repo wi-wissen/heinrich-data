@@ -53,7 +53,7 @@ licher         verb style=colloquial alt=boire conf=90
 lier           verb
 lifter         verb conf=90
 ligaturer      verb
-lignifier      verb
+lignifier      verb pronominal
 ligoter        verb
 liguer         verb
 limer          verb

@@ -481,6 +481,7 @@ intensif       adj adv=intensivement
 intentionné    adj
 intentionnel   adj adv=intentionnellement
 interactif     adj adv=interactivement
+interallié     adj
 interannuel    adj
 interarmées    adj inv
 interarmes     adj inv

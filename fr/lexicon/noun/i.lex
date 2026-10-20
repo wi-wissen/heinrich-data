@@ -24,6 +24,7 @@ idéologie      noun g=f
 idéologue      noun g=m|f
 idiome         noun g=m
 idiot          noun g=m f=idiote
+idiotie        noun g=f
 idiotisme      noun g=m
 idolâtre       noun g=m|f
 idolâtrie      noun g=f
@@ -265,6 +266,7 @@ indétermination noun g=f
 indéterminisme noun g=m
 index          noun g=m
 indexation     noun g=f
+indic          noun g=m|f style=colloquial alt=indicateur
 indicateur     noun g=m
 indicatif      noun g=m
 indication     noun g=f

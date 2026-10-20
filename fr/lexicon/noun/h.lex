@@ -68,11 +68,13 @@ harangue       noun g=f aspirate
 haras          noun g=m aspirate
 harcèlement    noun g=m aspirate
 harceleur      noun g=m f=harceleuse aspirate
+harde          noun g=f aspirate note=herd (of deer)
 hardes         noun g=f pl_only aspirate note=old worn clothes
 hardiesse      noun g=f aspirate
 harem          noun g=m aspirate
 hareng         noun g=m aspirate
 harfang        noun g=m aspirate
+hargne         noun g=f aspirate
 haricot        noun g=m aspirate
 harissa        noun g=f aspirate
 harki          noun g=m aspirate
@@ -238,7 +240,7 @@ historiette    noun g=f
 historiographe noun g=m|f
 historiographie noun g=f
 historique     noun g=m note=l'historique: record, log
-hit-parade     noun g=m pl=hit-parades aspirate
+hit-parade     noun g=m pl=hit-parades rect=hitparade aspirate
 hiver          noun g=m
 hivernage      noun g=m
 hobby          noun g=m aspirate pl=hobbys|hobbies
@@ -257,6 +259,7 @@ holographie    noun g=f
 holothurie     noun g=f
 holotype       noun g=m
 homard         noun g=m aspirate
+home           noun g=m aspirate conf=85 note=hostel, home (foyer)
 homélie        noun g=f
 homéopathe     noun g=m|f
 homéopathie    noun g=f
@@ -320,6 +323,7 @@ hospitalisation noun g=f
 hospitalité    noun g=f
 hostie         noun g=f
 hostilité      noun g=f
+hosto          noun g=m style=colloquial alt=hôpital
 hot-dog        noun g=m pl=hot-dogs aspirate
 hôte           noun g=m f=hôtesse sense=host
 hôte           noun g=m|f sense=guest note=the guest (invité), same form for both sexes

@@ -9,11 +9,13 @@ kapok          noun g=m
 karaoké        noun g=m
 karaté         noun g=m
 karatéka       noun g=m|f
+karma          noun g=m
 karst          noun g=m
 kart           noun g=m
 karting        noun g=m
 kata           noun g=m
 katana         noun g=m
+kawa           noun g=m style=colloquial alt=café
 kayak          noun g=m
 kayakiste      noun g=m|f
 kebab          noun g=m
@@ -29,9 +31,12 @@ kérosène       noun g=m
 ketchup        noun g=m
 khâgne         noun g=f
 khâgneux       noun g=m f=khâgneuse
+khan           noun g=m
 kibboutz       noun g=m
+kid            noun g=m style=colloquial alt=enfant
 kidnappeur     noun g=m f=kidnappeuse
 kidnapping     noun g=m
+kif            noun g=m style=colloquial alt=haschich
 kilo           noun g=m
 kilobit        noun g=m
 kilocalorie    noun g=f
@@ -58,6 +63,7 @@ kitchenette    noun g=f
 kitsch         noun g=m
 kiwi           noun g=m
 klaxon         noun g=m
+kleenex        noun g=m note=tissue (trademark used as a common noun)
 knout          noun g=m
 koala          noun g=m
 kola           noun g=m|f note=both genders in use

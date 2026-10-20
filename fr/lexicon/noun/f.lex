@@ -295,7 +295,9 @@ fiel           noun g=m
 fiente         noun g=f
 fier-à-bras    noun g=m pl=fiers-à-bras|fier-à-bras conf=80
 fierté         noun g=f
+fiesta         noun g=f style=colloquial alt=fête
 fièvre         noun g=f
+fifi           noun g=m style=colloquial conf=70 note=pet name; also in fifi brindacier-type uses
 fifre          noun g=m
 figement       noun g=m
 fignolage      noun g=m
@@ -352,6 +354,7 @@ finition       noun g=f
 finitude       noun g=f
 finnois        noun g=m note=the language
 fiole          noun g=f
+fion           noun g=m style=vulgar alt=derrière
 fioriture      noun g=f
 fioul          noun g=m
 firmament      noun g=m
@@ -440,6 +443,7 @@ flipper        noun g=m
 flirt          noun g=m
 flocon         noun g=m
 floculation    noun g=f
+flop           noun g=m style=colloquial alt=échec
 floraison      noun g=f
 flore          noun g=f
 floréal        noun g=m pl=floréals note=month of the republican calendar
@@ -715,7 +719,9 @@ fric           noun g=m style=colloquial alt=argent
 fricassée      noun g=f
 fricative      noun g=f
 friche         noun g=f
+frichti        noun g=m style=colloquial alt=repas
 friction       noun g=f
+frigidaire     noun g=m style=colloquial alt=réfrigérateur
 frigidité      noun g=f
 frigo          noun g=m style=colloquial alt=réfrigérateur
 frigorigène    noun g=m

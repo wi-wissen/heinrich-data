@@ -221,7 +221,7 @@ lucide         adj adv=lucidement
 luciférien     adj
 lucratif       adj
 ludique        adj
-ludo-éducatif  adj
+ludo-éducatif  adj rect=ludoéducatif
 lugubre        adj adv=lugubrement
 luisant        adj
 luminescent    adj

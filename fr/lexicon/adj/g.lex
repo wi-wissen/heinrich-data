@@ -38,7 +38,9 @@ gay            adj
 gazeux         adj
 gazier         adj
 géant          adj
+geignard       adj style=colloquial alt=pleurnicheur
 gélatineux     adj
+gémellaire     adj
 gênant         adj
 généalogique   adj
 général        adj adv=généralement
@@ -98,6 +100,7 @@ glauque        adj
 glissant       adj
 global         adj adv=globalement
 globulaire     adj
+globuleux      adj
 glorieux       adj adv=glorieusement
 glouton        adj adv=gloutonnement
 gluant         adj

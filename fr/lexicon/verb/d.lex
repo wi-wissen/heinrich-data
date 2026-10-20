@@ -2,11 +2,14 @@
 dactylographier verb
 daigner verb
 daller verb
+damer          verb
 damner verb
 dandiner verb
 danser verb
 darder verb
 dater verb
+dealer         verb style=colloquial alt=revendre
+déambuler      verb pp_inv
 débâillonner verb
 déballer verb
 débander verb
@@ -175,6 +178,7 @@ défroquer verb
 dégager verb
 dégainer verb
 dégarnir verb class=ir
+dégauchir      verb class=ir
 dégazer verb
 dégeler verb note=è like acheter: dégèle
 dégénérer verb
@@ -186,6 +190,7 @@ dégommer verb style=colloquial alt=destituer|abattre
 dégonfler verb
 dégorger verb
 dégoter verb style=colloquial alt=trouver
+dégotter       verb style=colloquial alt=trouver note=variant of dégoter
 dégouliner verb pp_inv
 dégoupiller verb
 dégourdir verb class=ir
@@ -194,7 +199,7 @@ dégoutter verb pp_inv note=to drip; not dégoûter
 dégrader verb
 dégrafer verb
 dégraisser verb
-dégréver verb
+dégrever verb
 dégringoler verb aux=avoir|être
 dégriser verb
 dégrossir verb class=ir
@@ -230,6 +235,7 @@ démagnétiser verb
 démailler verb
 démancher verb
 demander verb
+démanger       verb
 démanteler verb note=è like acheter: démantèle
 démaquiller verb
 démarcher verb
@@ -242,6 +248,7 @@ démembrer verb
 déménager verb
 démener verb pronominal note=se démener
 démentir verb class=partir
+démerder       verb pronominal style=vulgar alt=débrouiller
 démériter verb pp_inv
 démettre verb class=mettre
 demeurer verb aux=avoir|être note=être = rester (il est demeuré fidèle), avoir = habiter
@@ -481,7 +488,7 @@ devancer verb
 dévaster verb
 développer verb
 devenir verb class=venir aux=être
-dévergonder verb
+dévergonder verb pronominal
 déverser verb
 dévêtir verb class=vêtir
 dévider verb
@@ -578,7 +585,7 @@ doter verb
 double-cliquer verb
 doubler verb
 doucher verb
-douer          verb defective=pp note=in practice only the participle doué
+douer          verb defective=inf|pp note=in practice only the participle doué
 douter verb
 draguer verb
 drainer verb

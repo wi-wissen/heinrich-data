@@ -139,7 +139,7 @@ interloquer    verb
 internationaliser verb
 interner       verb
 interpeller    verb rect=interpeler rect_class=double
-interpénétrer  verb
+interpénétrer  verb pronominal
 interpoler     verb
 interposer     verb
 interpréter    verb

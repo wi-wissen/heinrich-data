@@ -317,7 +317,7 @@ fruste         adj
 frustrant      adj
 fuchsia        adj inv
 fugace         adj
-fugitif        adj
+fugitif        adj adv=fugitivement
 fulgurant      adj
 fuligineux     adj
 fulminant      adj

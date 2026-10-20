@@ -3,12 +3,14 @@ gâcher         verb
 gaffer         verb style=colloquial alt=commettre_une_maladresse
 gager          verb
 gagner         verb
+gainer         verb
 galber         verb
 galoper        verb pp_inv
 galvaniser     verb
 galvauder      verb
 gambader       verb pp_inv
-gangrener      verb
+gamberger      verb style=colloquial alt=réfléchir
+gangrener      verb rect=gangréner
 ganter         verb
 garantir       verb class=ir
 garder         verb
@@ -37,6 +39,7 @@ généraliser    verb
 générer        verb
 gentrifier     verb
 géolocaliser   verb
+gerber         verb note=to stack (technical); colloquially to vomit
 gercer         verb
 gérer          verb
 germaniser     verb
@@ -60,7 +63,7 @@ glousser       verb pp_inv
 gober          verb
 godiller       verb pp_inv
 goinfrer       verb pronominal style=colloquial alt=s'empiffrer|manger_avec_excès
-gominer        verb
+gominer        verb pronominal
 gommer         verb
 gondoler       verb
 gonfler        verb
@@ -74,6 +77,7 @@ goutter        verb pp_inv
 gouverner      verb
 gracier        verb
 graduer        verb
+grailler       verb style=colloquial alt=manger
 graisser       verb
 grandir        verb class=ir aux=avoir|être note=il a grandi; il est grandi (state) is rarer
 granuler       verb
