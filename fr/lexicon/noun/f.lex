@@ -315,7 +315,8 @@ filtration     noun g=f
 filtre         noun g=m
 fin            noun g=f
 finage         noun g=m
-finale         noun g=f
+finale         noun g=f sense=final note=la finale: final match or final syllable
+finale         noun g=m sense=music note=le finale: last movement of a piece
 finalisation   noun g=f
 finaliste      noun g=m|f
 finalité       noun g=f

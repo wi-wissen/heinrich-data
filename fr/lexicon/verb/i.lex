@@ -18,7 +18,7 @@ immoler        verb
 immortaliser   verb
 immuniser      verb
 impacter       verb
-impartir       verb class=ir
+impartir       verb class=ir conf=80 note=defective: mostly infinitive and participle (le délai imparti)
 impatienter    verb
 imperméabiliser verb
 implanter      verb
@@ -44,7 +44,7 @@ inciser        verb
 inciter        verb
 incliner       verb
 inclure        verb class=conclure pp=inclus
-incomber       verb pp_inv
+incomber       verb pp_inv conf=85 note=used only in the 3rd person (il incombe, ils incombent)
 incommoder     verb
 incorporer     verb
 incrémenter    verb

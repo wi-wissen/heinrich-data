@@ -397,7 +397,7 @@ disgracier verb
 disjoindre verb class=peindre
 disjoncter verb pp_inv
 disloquer verb
-disparaître verb class=connaître note=aux avoir; être (il est disparu) for the resulting state
+disparaître    verb class=connaître aux=avoir|être note=être for the resulting state (il est disparu)
 dispenser verb
 disperser verb
 disposer verb
@@ -440,7 +440,7 @@ doter verb
 double-cliquer verb
 doubler verb
 doucher verb
-douer verb conf=90 note=used almost only in the participle doué
+douer          verb conf=70 note=defective: used almost only in the participle doué; finite forms are not real
 douter verb
 draguer verb
 drainer verb

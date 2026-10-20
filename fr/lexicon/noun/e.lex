@@ -557,7 +557,8 @@ ensablement    noun g=m
 ensachage      noun g=m
 enseignant     noun g=m f=enseignante
 enseignant-chercheur noun g=m f=enseignante-chercheuse pl=enseignants-chercheurs fpl=enseignantes-chercheuses
-enseigne       noun g=f
+enseigne       noun g=f sense=sign
+enseigne       noun g=m sense=officer note=enseigne de vaisseau (naval rank)
 enseignement   noun g=m
 ensemble       noun g=m
 ensemblier     noun g=m f=ensemblière conf=90 note=feminine rare

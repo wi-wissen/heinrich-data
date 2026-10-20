@@ -151,7 +151,7 @@ larcin         noun g=m
 lard           noun g=m
 lardon         noun g=m
 largage        noun g=m
-large          noun g=m note=au large, prendre le large
+large          noun g=m pl=- note=au large, prendre le large
 largesse       noun g=f
 largeur        noun g=f
 largo          noun g=m note=musical tempo

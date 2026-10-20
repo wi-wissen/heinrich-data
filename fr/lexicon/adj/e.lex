@@ -100,7 +100,7 @@ empreint       adj
 empressé       adj
 encaissable    adj
 encastrable    adj
-enceinte       adj f=enceinte conf=90 note=used in the feminine only (femme enceinte); masculine cells are not real
+enceinte       adj f=enceinte conf=70 note=used in the feminine only (femme enceinte); masculine cells are not real
 encéphalique   adj
 enchanteur     adj f=enchanteresse
 enclin         adj

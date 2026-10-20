@@ -758,7 +758,7 @@ dicton noun g=m
 didacticiel noun g=m
 dièdre noun g=m
 dièse noun g=m
-diesel noun g=m
+diesel         noun g=m rect=diésel
 diète noun g=f
 diététicien noun g=m f=diététicienne
 diététique noun g=f

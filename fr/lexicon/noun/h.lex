@@ -295,7 +295,8 @@ hospitalité    noun g=f
 hostie         noun g=f
 hostilité      noun g=f
 hot-dog        noun g=m pl=hot-dogs aspirate
-hôte           noun g=m f=hôtesse note=hôte is also used for women in the sense guest
+hôte           noun g=m f=hôtesse sense=host
+hôte           noun g=m|f sense=guest note=the guest (invité), same form for both sexes
 hôtel          noun g=m
 hôtelier       noun g=m f=hôtelière
 hôtellerie     noun g=f

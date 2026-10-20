@@ -26,7 +26,7 @@ laver          verb
 lécher         verb
 légaliser      verb
 légender       verb
-légiférer      verb
+légiférer      verb pp_inv
 légitimer      verb
 léguer         verb
 lemmatiser     verb

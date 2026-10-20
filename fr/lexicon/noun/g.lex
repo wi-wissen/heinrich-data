@@ -19,7 +19,7 @@ gaieté         noun g=f
 gaillard       noun g=m f=gaillarde
 gain           noun g=m
 gaine          noun g=f
-gaîté          noun g=f style=archaic note=older variant of gaieté
+gaîté          noun g=f rect=gaité note=spelling variant of gaieté
 gala           noun g=m
 galanterie     noun g=f
 galaxie        noun g=f
@@ -431,7 +431,7 @@ gravimétrie    noun g=f
 gravitation    noun g=f
 gravité        noun g=f
 gravure        noun g=f
-gré            noun g=m
+gré            noun g=m pl=- note=only in set phrases: de bon gré, au gré de, savoir gré
 grec           noun g=m note=the Greek language; the person is the propn Grec
 gredin         noun g=m f=gredine
 gréement       noun g=m

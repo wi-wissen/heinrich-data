@@ -173,6 +173,7 @@ fourbe         adj
 fourbu         adj
 fourchu        adj
 fourrager      adj
+foutu          adj style=vulgar alt=fichu|perdu|abîmé
 fracassant     adj
 fractal        adj pl=fractals
 fractionnaire  adj
