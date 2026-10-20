@@ -14,8 +14,8 @@ gleichfalls adv
 gleichsam adv
 gleichviel adv
 gottlob adv
-grad adv style=colloquial conf=80 note=gerade; clipped colloquial form
-grade adv style=colloquial note=gerade
+grad adv style=colloquial alt=gerade conf=80 note=gerade; clipped colloquial form
+grade adv style=colloquial alt=gerade note=gerade
 großenteils adv type=degree
 großteils adv
 größtenteils adv

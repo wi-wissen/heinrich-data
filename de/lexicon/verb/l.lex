@@ -1,3 +1,4 @@
+labern verb class=weak pp=gelabert perf=haben style=colloquial alt=reden
 lächeln verb class=weak pp=gelächelt perf=haben
 lachen verb class=weak pp=gelacht perf=haben
 lackieren verb class=weak pp=lackiert perf=haben

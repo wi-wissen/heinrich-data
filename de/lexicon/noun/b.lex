@@ -472,7 +472,7 @@ Bindung noun g=f gen=Bindung pl=Bindungen
 Binnenhandlung noun g=f gen=Binnenhandlung pl=Binnenhandlungen
 Binnenmarkt noun g=m gen=Binnenmarkts|Binnenmarktes pl=Binnenmärkte
 Binse noun g=f gen=Binse pl=Binsen
-Bio noun g=f gen=Bio pl=- style=colloquial note=short for Biologie
+Bio noun g=f gen=Bio pl=- style=colloquial alt=Biologie note=short for Biologie
 Biodiversität noun g=f gen=Biodiversität pl=- note=no plural
 Biografie noun g=f gen=Biografie pl=Biografien
 Biographie noun g=f gen=Biographie pl=Biographien

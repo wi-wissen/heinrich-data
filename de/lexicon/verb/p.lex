@@ -14,9 +14,10 @@ pausieren verb class=weak pp=pausiert perf=haben
 peinigen verb class=weak pp=gepeinigt perf=haben
 peitschen verb class=weak pp=gepeitscht perf=haben|sein
 pendeln verb class=weak pp=gependelt perf=haben|sein
+pennen verb class=weak pp=gepennt perf=haben style=colloquial alt=schlafen
 pensionieren verb class=weak pp=pensioniert perf=haben
 personalisieren verb class=weak pp=personalisiert perf=haben
-petzen verb class=weak pp=gepetzt perf=haben style=colloquial
+petzen verb class=weak pp=gepetzt perf=haben style=colloquial alt=verraten
 pfänden verb class=weak pp=gepfändet perf=haben
 pfeffern verb class=weak pp=gepfeffert perf=haben
 pfeifen verb class=strong 3sg=pfeift past=pfiff pp=gepfiffen subj2=pfiffe perf=haben

@@ -209,7 +209,7 @@ Relativität noun g=f gen=Relativität pl=- note=mass noun
 Release noun g=n|m gen=Releases pl=Releases
 Relegation noun g=f gen=Relegation pl=Relegationen
 Relevanz noun g=f gen=Relevanz pl=- note=mass noun
-Reli noun g=f gen=Reli pl=- style=colloquial note=short for Religion
+Reli noun g=f gen=Reli pl=- style=colloquial alt=Religion note=short for Religion
 Relief noun g=n gen=Reliefs pl=Reliefs|Relieve
 Religion noun g=f gen=Religion pl=Religionen
 Religiosität noun g=f gen=Religiosität pl=- note=abstract noun, no plural

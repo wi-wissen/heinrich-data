@@ -156,5 +156,5 @@ funktionieren verb class=weak pp=funktioniert perf=haben
 fürchten verb class=weak pp=gefürchtet perf=haben refl=acc
 fußen verb class=weak pp=gefußt perf=haben
 fusionieren verb class=weak pp=fusioniert perf=haben|sein
-futtern verb class=weak pp=gefuttert perf=haben style=colloquial
+futtern verb class=weak pp=gefuttert perf=haben style=colloquial alt=essen
 füttern verb class=weak pp=gefüttert perf=haben

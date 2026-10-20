@@ -171,13 +171,13 @@ davon        adv type=pronominal
 davor        adv type=pronominal
 dazu         adv type=pronominal
 dazwischen   adv type=pronominal
-dran         adv type=pronominal style=colloquial
-drauf        adv type=pronominal style=colloquial
-draus        adv type=pronominal style=colloquial
-drin         adv type=pronominal style=colloquial
-drüber       adv type=pronominal style=colloquial
-drum         adv type=pronominal style=colloquial
-drunter      adv type=pronominal style=colloquial
+dran         adv type=pronominal style=colloquial alt=daran
+drauf        adv type=pronominal style=colloquial alt=darauf
+draus        adv type=pronominal style=colloquial alt=daraus
+drin         adv type=pronominal style=colloquial alt=darin
+drüber       adv type=pronominal style=colloquial alt=darüber
+drum         adv type=pronominal style=colloquial alt=darum
+drunter      adv type=pronominal style=colloquial alt=darunter
 wobei        adv type=pronominal|int|rel
 wodurch      adv type=pronominal|int|rel
 wofür        adv type=pronominal|int|rel

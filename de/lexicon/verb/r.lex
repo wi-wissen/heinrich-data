@@ -27,7 +27,7 @@ rauschen verb class=weak pp=gerauscht perf=haben|sein
 rausfahren verb class=strong sep=raus 3sg=rausfährt past=rausfuhr subj2=rausführe pp=rausgefahren perf=haben|sein
 rausfinden verb class=strong sep=raus 3sg=rausfindet past=rausfand subj2=rausfände pp=rausgefunden perf=haben
 rausfliegen verb class=strong sep=raus 3sg=rausfliegt past=rausflog subj2=rausflöge pp=rausgeflogen perf=sein
-rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial
+rausgehen verb class=strong sep=raus 3sg=rausgeht past=rausging pp=rausgegangen subj2=rausginge perf=sein style=colloquial alt=hinausgehen
 raushalten verb class=strong sep=raus 3sg=raushält past=raushielt pp=rausgehalten subj2=raushielte perf=haben refl=acc note=colloquial for heraushalten
 rausholen verb class=weak sep=raus pp=rausgeholt perf=haben
 rausklettern verb class=weak sep=raus pp=rausgeklettert perf=sein
@@ -180,13 +180,13 @@ runtergehen verb class=strong sep=runter 3sg=runtergeht past=runterging|runtergi
 runterholen verb class=weak sep=runter pp=runtergeholt perf=haben
 runterklettern verb class=weak sep=runter pp=runtergeklettert perf=sein
 runterkommen verb class=strong sep=runter 3sg=runterkommt|runterkömmt[old] past=runterkam subj2=runterkäme pp=runtergekommen perf=sein
-runterladen verb class=strong sep=runter 3sg=runterlädt past=runterlud pp=runtergeladen subj2=runterlüde perf=haben style=colloquial
+runterladen verb class=strong sep=runter 3sg=runterlädt past=runterlud pp=runtergeladen subj2=runterlüde perf=haben style=colloquial alt=herunterladen
 runterlaufen verb class=strong sep=runter 3sg=runterläuft past=runterlief subj2=runterliefe pp=runtergelaufen perf=sein
 runterrennen verb class=mixed sep=runter 3sg=runterrennt past=runterrannte subj2=runterrennte pp=runtergerannt perf=sein
 runterrutschen verb class=weak sep=runter pp=runtergerutscht perf=sein
 runterschauen verb class=weak sep=runter pp=runtergeschaut perf=haben
 runterschlucken verb class=weak sep=runter pp=runtergeschluckt perf=haben
-runterscrollen verb class=weak sep=runter pp=runtergescrollt perf=haben style=colloquial
+runterscrollen verb class=weak sep=runter pp=runtergescrollt perf=haben style=colloquial alt=herunterscrollen
 runtersehen verb class=strong sep=runter 3sg=runtersieht past=runtersah,runtersahst|runtersahest[archaic],runtersah,runtersahen,runtersaht,runtersahen subj2=runtersähe pp=runtergesehen perf=haben
 runterspringen verb class=strong sep=runter 3sg=runterspringt past=runtersprang subj2=runterspränge pp=runtergesprungen perf=sein
 runterspülen verb class=weak sep=runter pp=runtergespült perf=haben

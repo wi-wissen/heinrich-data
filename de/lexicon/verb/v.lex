@@ -240,7 +240,7 @@ verpachten verb class=weak pp=verpachtet perf=haben
 verpacken verb class=weak pp=verpackt perf=haben
 verpassen verb class=weak pp=verpasst perf=haben
 verpesten verb class=weak pp=verpestet perf=haben
-verpetzen verb class=weak pp=verpetzt perf=haben style=colloquial
+verpetzen verb class=weak pp=verpetzt perf=haben style=colloquial alt=verraten
 verpfänden verb class=weak pp=verpfändet perf=haben
 verpfeifen verb class=strong 3sg=verpfeift past=verpfiff subj2=verpfiffe pp=verpfiffen perf=haben
 verpflanzen verb class=weak pp=verpflanzt perf=haben

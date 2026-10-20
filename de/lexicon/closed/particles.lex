@@ -12,7 +12,7 @@ doch         part type=answer|modal
 aber         part type=modal note=das ist aber schön
 denn         part type=modal note=was ist denn los?
 eben         part type=modal note=das ist eben so; also an adverb of time and an adjective
-eh           part type=modal style=colloquial
+eh           part type=modal style=colloquial alt=ohnehin
 eigentlich   part type=modal note=also an adjective
 etwa         part type=modal note=ist das etwa wahr?
 halt         part type=modal note=regional and colloquial; also the imperative of halten

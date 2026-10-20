@@ -239,7 +239,7 @@ Hinsicht noun g=f gen=Hinsicht pl=Hinsichten note=in dieser Hinsicht (not Hin + 
 Hinterbliebene noun g=m|f decl=adj note=die Hinterbliebenen
 Hintergrund noun g=m gen=Hintergrundes|Hintergrunds pl=Hintergründe
 Hinterlegung noun g=f gen=Hinterlegung pl=Hinterlegungen
-Hintern noun g=m gen=Hinterns pl=Hintern style=colloquial
+Hintern noun g=m gen=Hinterns pl=Hintern style=colloquial alt=Gesäß
 Hinweis noun g=m gen=Hinweises pl=Hinweise
 Hip-Hop noun g=m gen=Hip-Hops pl=- note=no plural (mass or abstract noun)
 Hirn noun g=n gen=Hirns|Hirnes pl=Hirne

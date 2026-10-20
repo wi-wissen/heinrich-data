@@ -1,3 +1,5 @@
 # Branch, tag or commit of wi-wissen/Heinrich whose lexicon tools CI uses (first non-comment line).
 # Switch to `main` once the lexicon-pipeline branch is merged there; pin a commit for releases.
-main
+# TEMPORARY: `register-formal` (Heinrich PR: `alt=` with `style=colloquial`, format 3.5); set back
+# to `main` when that PR is merged.
+register-formal

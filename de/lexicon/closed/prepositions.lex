@@ -131,11 +131,11 @@ aufs         adp case=acc fused=auf+das
 beim         adp case=dat fused=bei+dem
 durchs       adp case=acc fused=durch+das
 fürs         adp case=acc fused=für+das
-hinterm      adp case=dat fused=hinter+dem style=colloquial
-hinters      adp case=acc fused=hinter+das style=colloquial
+hinterm      adp case=dat fused=hinter+dem style=colloquial alt=hinter_dem
+hinters      adp case=acc fused=hinter+das style=colloquial alt=hinter_das
 im           adp case=dat fused=in+dem
 ins          adp case=acc fused=in+das
-überm        adp case=dat fused=über+dem style=colloquial
+überm        adp case=dat fused=über+dem style=colloquial alt=über_dem
 übers        adp case=acc fused=über+das
 ums          adp case=acc fused=um+das
 unterm       adp case=dat fused=unter+dem style=colloquial

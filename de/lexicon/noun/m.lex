@@ -132,7 +132,7 @@ Mate noun g=m gen=Mates pl=- conf=80 note=Mate tea
 Material noun g=n gen=Materials pl=Materialien
 Materialismus noun g=m gen=Materialismus pl=- note=mass noun
 Materie noun g=f gen=Materie pl=Materien
-Mathe noun g=f gen=Mathe pl=- style=colloquial note=short for Mathematik
+Mathe noun g=f gen=Mathe pl=- style=colloquial alt=Mathematik note=short for Mathematik
 Mathelehrer noun g=m gen=Mathelehrers pl=Mathelehrer
 Mathematik noun g=f gen=Mathematik pl=- note=no plural
 Mathematiker noun g=m gen=Mathematikers pl=Mathematiker
@@ -155,7 +155,7 @@ Mauszeiger noun g=m gen=Mauszeigers pl=Mauszeiger
 Maut noun g=f gen=Maut pl=Mauten
 Maxime noun g=f gen=Maxime pl=Maximen
 Maximum noun g=n gen=Maximums pl=Maxima
-Mayo noun g=f gen=Mayo pl=- style=colloquial note=short for Mayonnaise
+Mayo noun g=f gen=Mayo pl=- style=colloquial alt=Mayonnaise note=short for Mayonnaise
 Mayonnaise noun g=f gen=Mayonnaise pl=Mayonnaisen
 Mäzen noun g=m gen=Mäzens pl=Mäzene
 Mechanik noun g=f gen=Mechanik pl=Mechaniken note=plural rare
@@ -261,7 +261,7 @@ Migräne noun g=f gen=Migräne pl=Migränen
 Migrant noun g=m gen=Migranten pl=Migranten
 Migrantin noun g=f gen=Migrantin pl=Migrantinnen
 Migration noun g=f gen=Migration pl=Migrationen
-Mikro noun g=n gen=Mikros pl=Mikros style=colloquial note=Mikrofon
+Mikro noun g=n gen=Mikros pl=Mikros style=colloquial alt=Mikrofon note=Mikrofon
 Mikrofon noun g=n gen=Mikrofons|Mikrofones pl=Mikrofone
 Mikroskop noun g=n gen=Mikroskops pl=Mikroskope
 Milan noun g=m gen=Milans pl=Milane

@@ -67,7 +67,7 @@ gliedern verb class=weak pp=gegliedert perf=haben refl=acc
 glimmen verb class=weak past=glimmte|glomm pp=geglimmt|geglommen perf=haben
 glitzern verb class=weak pp=geglitzert perf=haben
 globalisieren verb class=weak pp=globalisiert perf=haben
-glotzen verb class=weak pp=geglotzt perf=haben
+glotzen verb class=weak pp=geglotzt perf=haben style=colloquial alt=starren
 glücken verb class=weak pp=geglückt perf=sein
 gluckern verb class=weak pp=gegluckert perf=haben
 glucksen verb class=weak pp=gegluckst perf=haben
@@ -93,7 +93,7 @@ gründen verb class=weak pp=gegründet perf=haben refl=acc
 grunzen verb class=weak pp=gegrunzt perf=haben
 gruseln verb class=weak pp=gegruselt perf=haben refl=acc
 grüßen verb class=weak pp=gegrüßt perf=haben
-gucken verb class=weak pp=geguckt perf=haben
+gucken verb class=weak pp=geguckt perf=haben style=colloquial alt=schauen|sehen
 gurgeln verb class=weak pp=gegurgelt perf=haben
 gurren verb class=weak pp=gegurrt perf=haben
 gürten verb class=weak pp=gegürtet perf=haben refl=acc

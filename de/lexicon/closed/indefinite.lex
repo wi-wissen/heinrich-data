@@ -15,8 +15,8 @@ wer          pron type=ind sense=ind style=colloquial sg=wer,-,wem,wen note=coll
 etwas        pron type=ind
 nichts       pron type=neg
 irgendetwas  pron type=ind
-irgendwas    pron type=ind style=colloquial
-nix          pron type=neg style=colloquial
+irgendwas    pron type=ind style=colloquial alt=irgendetwas
+nix          pron type=neg style=colloquial alt=nichts
 
 # ---------------------------------------------------------------- ein, kein, irgendein
 ein          pron type=ind decl=einer pl=- note=einer, eine, eins/eines (einer von uns)

@@ -3,8 +3,8 @@ quälen verb class=weak pp=gequält perf=haben
 qualifizieren verb class=weak pp=qualifiziert perf=haben refl=acc
 qualmen verb class=weak pp=gequalmt perf=haben
 quartieren verb class=weak pp=quartiert perf=haben conf=85 note=mostly einquartieren
-quasseln verb class=weak pp=gequasselt perf=haben
-quatschen verb class=weak pp=gequatscht perf=haben
+quasseln verb class=weak pp=gequasselt perf=haben style=colloquial alt=reden
+quatschen verb class=weak pp=gequatscht perf=haben style=colloquial alt=reden
 quellen verb class=strong 3sg=quillt past=quoll pp=gequollen subj2=quölle perf=sein
 quengeln verb class=weak pp=gequengelt perf=haben
 queren verb class=weak pp=gequert perf=haben

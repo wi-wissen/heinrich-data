@@ -362,7 +362,7 @@ anlocken verb class=weak sep=an pp=angelockt perf=haben
 anlügen verb class=strong sep=an 3sg=anlügt past=anlog subj2=anlöge pp=angelogen perf=haben
 anmachen verb class=weak sep=an pp=angemacht perf=haben
 anmahnen verb class=weak sep=an pp=angemahnt perf=haben
-anmailen verb class=weak sep=an pp=angemailt perf=haben style=colloquial
+anmailen verb class=weak sep=an pp=angemailt perf=haben style=colloquial alt=anschreiben
 anmalen verb class=weak sep=an pp=angemalt perf=haben refl=acc
 anmaßen verb class=weak sep=an pp=angemaßt perf=haben refl=dat note=sich etwas anmaßen
 anmeckern verb class=weak sep=an pp=angemeckert perf=haben

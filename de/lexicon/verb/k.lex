@@ -3,7 +3,7 @@ kalkulieren verb class=weak pp=kalkuliert perf=haben
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
-kapieren verb class=weak pp=kapiert perf=haben
+kapieren verb class=weak pp=kapiert perf=haben style=colloquial alt=verstehen
 kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
 kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
 kassieren verb class=weak pp=kassiert perf=haben
@@ -36,7 +36,7 @@ klarstellen verb class=weak sep=klar pp=klargestellt perf=haben
 klassifizieren verb class=weak pp=klassifiziert perf=haben
 klatschen verb class=weak pp=geklatscht perf=haben
 klauben verb class=weak pp=geklaubt perf=haben
-klauen verb class=weak pp=geklaut perf=haben style=colloquial
+klauen verb class=weak pp=geklaut perf=haben style=colloquial alt=stehlen
 kleben verb class=weak pp=geklebt perf=haben
 kleckern verb class=weak pp=gekleckert perf=haben
 klecksen verb class=weak pp=gekleckst perf=haben
@@ -107,7 +107,7 @@ koppeln verb class=weak pp=gekoppelt perf=haben
 korrespondieren verb class=weak pp=korrespondiert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
-kotzen verb class=weak pp=gekotzt perf=haben style=colloquial
+kotzen verb class=weak pp=gekotzt perf=haben style=colloquial alt=sich_übergeben
 krabbeln verb class=weak pp=gekrabbelt perf=haben|sein
 krachen verb class=weak pp=gekracht perf=haben|sein
 krächzen verb class=weak pp=gekrächzt perf=haben
@@ -124,12 +124,13 @@ kreischen verb class=weak pp=gekreischt perf=haben
 kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
 kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
-kriegen verb class=weak pp=gekriegt perf=haben
+kriegen verb class=weak pp=gekriegt perf=haben style=colloquial alt=bekommen
 kritisieren verb class=weak pp=kritisiert perf=haben
 kritteln verb class=weak pp=gekrittelt perf=haben
 kritzeln verb class=weak pp=gekritzelt perf=haben
 krönen verb class=weak pp=gekrönt perf=haben
 krümmen verb class=weak pp=gekrümmt perf=haben refl=acc
+kucken verb class=weak pp=gekuckt perf=haben style=colloquial alt=schauen|sehen note=spelling variant of gucken
 kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
 kultivieren verb class=weak pp=kultiviert perf=haben pp_cmp note=ein kultivierter Mensch

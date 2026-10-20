@@ -240,6 +240,7 @@ Kläger noun g=m gen=Klägers pl=Kläger
 Klägerin noun g=f gen=Klägerin pl=Klägerinnen
 Klamm noun g=f gen=Klamm pl=Klammen
 Klammer noun g=f gen=Klammer pl=Klammern
+Klamotte noun g=f gen=Klamotte pl=Klamotten style=colloquial alt=Kleidung note=mostly plural (Klamotten): clothes
 Klang noun g=m gen=Klangs|Klanges pl=Klänge
 Klappentext noun g=m gen=Klappentexts|Klappentextes pl=Klappentexte
 Klapperschlange noun g=f gen=Klapperschlange pl=Klapperschlangen
@@ -300,7 +301,7 @@ Klinikum noun g=n gen=Klinikums pl=Kliniken|Klinika
 Klinke noun g=f gen=Klinke pl=Klinken
 Klippe noun g=f gen=Klippe pl=Klippen
 Klischee noun g=n gen=Klischees pl=Klischees
-Klo noun g=n gen=Klos pl=Klos style=colloquial
+Klo noun g=n gen=Klos pl=Klos style=colloquial alt=Toilette
 Kloß noun g=m gen=Kloßes pl=Klöße
 Kloster noun g=n gen=Klosters pl=Klöster
 Klub noun g=m gen=Klubs pl=Klubs
@@ -657,7 +658,7 @@ Kühlschrank noun g=m gen=Kühlschranks|Kühlschrankes pl=Kühlschränke
 Kühnheit noun g=f gen=Kühnheit pl=Kühnheiten
 Küken noun g=n gen=Kükens pl=Küken
 Kulanz noun g=f gen=Kulanz pl=- note=mass noun
-Kuli noun g=m gen=Kulis pl=Kulis style=colloquial
+Kuli noun g=m gen=Kulis pl=Kulis style=colloquial alt=Kugelschreiber
 Kulisse noun g=f gen=Kulisse pl=Kulissen
 Kult noun g=m gen=Kultes|Kults pl=Kulte
 Kultur noun g=f gen=Kultur pl=Kulturen
