@@ -2,12 +2,16 @@ jab noun
 jack noun
 jackal noun
 jacket         noun
+jackfruit noun pl=jackfruit|jackfruits
 Jacobite noun
 jade noun pl=- note=the stone; also the colour
 jag noun conf=90 note=a sharp point; a spell of activity (a crying jag)
 jaguar noun
 jail           noun gb=jail|gaol
 jailer noun gb=jailer|gaoler
+jalapeno noun conf=90 note=also written jalapeño
+jalapeño noun conf=90 note=also written jalapeno
+jalfrezi noun
 jam noun
 Jamaican noun
 janitor noun
@@ -15,6 +19,7 @@ Jap noun style=offensive note=slur for Japanese people
 Japanese       noun pl=Japanese
 jar noun
 jargon noun pl=- note=uncountable
+jasmine noun
 jaundice noun pl=- note=uncountable
 javelin noun
 jaw            noun
@@ -51,6 +56,7 @@ jobseeker noun conf=85 note=also job seeker
 jockey noun
 joey noun note=young kangaroo
 joint          noun
+joist noun
 joke           noun
 joker noun
 jotter noun region=GB
@@ -67,6 +73,7 @@ judiciary      noun
 judo noun pl=- note=uncountable
 jug noun
 juice          noun
+juicer noun
 jumble noun
 jump           noun
 jumper noun

@@ -9,6 +9,7 @@ commercially adv
 comparatively adv
 concurrently adv
 confidently adv
+contrariwise adv
 conversely adv
 coolly adv
 counter adv note=run counter to

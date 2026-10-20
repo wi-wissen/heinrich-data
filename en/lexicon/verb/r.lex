@@ -261,10 +261,12 @@ reshuffle verb
 reside verb
 resign verb
 resist verb
+resit verb prefix=re past=resat pp=resat region=GB note=to take an exam again
 resolve verb
 resort verb
 resound verb
 resource verb
+respawn verb
 respect verb
 respond verb
 rest verb
@@ -286,6 +288,7 @@ retake verb prefix=re past=retook pp=retaken
 retaliate verb
 retard verb note=to slow down
 retell verb prefix=re past=retold pp=retold
+retest verb
 rethink verb prefix=re past=rethought pp=rethought
 retire verb
 retitle verb

@@ -9,6 +9,7 @@ gastrointestinal adj
 gated adj
 gaudy adj cmp=er
 gaunt adj cmp=er
+gawky adj cmp=er
 gay            adj cmp=er
 geeky adj cmp=er
 genealogical adj
@@ -69,6 +70,7 @@ godlike adj
 godly adj cmp=er|more
 golden         adj
 good           adj cmp=better sup=best adv=well
+good-hearted adj
 good-natured adj cmp=more adv=good-naturedly
 goodly adj cmp=er
 gooey adj
@@ -92,6 +94,7 @@ grave          adj cmp=er adv=gravely
 graven adj note=old participle of grave, as in graven image
 gravitational adj
 gray           adj cmp=er gb=grey
+greaseproof adj region=GB
 greasy adj cmp=er
 great          adj cmp=er adv=greatly
 greedy adj cmp=er adv=greedily
@@ -113,6 +116,7 @@ gruesome adj cmp=er|more adv=gruesomely
 gruff adj cmp=er adv=gruffly
 grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
+guileful adj
 guileless adj
 guilty         adj cmp=er|more adv=guiltily
 guttural adj

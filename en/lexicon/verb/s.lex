@@ -26,6 +26,7 @@ scam verb
 scan verb
 scar verb
 scare verb
+scarify verb
 scatter verb
 schedule verb
 school verb
@@ -102,6 +103,7 @@ shade verb
 shadow verb
 shake verb past=shook pp=shaken
 shame verb
+shampoo verb
 shape verb
 share verb
 sharpen verb
@@ -184,6 +186,7 @@ skate verb
 skateboard verb
 sketch verb
 skew verb
+skewer verb
 ski verb
 skid verb
 skim verb
@@ -483,6 +486,7 @@ suspect verb
 suspend verb
 sustain verb
 suture verb
+swab verb
 swaddle verb
 swallow verb
 swamp verb

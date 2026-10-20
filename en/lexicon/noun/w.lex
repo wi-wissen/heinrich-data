@@ -5,6 +5,8 @@ wage noun
 wager noun
 wagon noun gb=waggon|wagon
 wail noun
+wainscot noun
+wainscoting noun pl=- conf=90 note=uncountable; also wainscotting
 waist noun
 waistcoat noun
 wait noun
@@ -49,7 +51,9 @@ warrior noun
 warship noun
 warthog noun
 wartime noun pl=- note=uncountable
+wasabi noun pl=- note=uncountable
 wash noun
+washbasin noun
 washcloth noun region=US note=British flannel
 washer noun
 wasp noun
@@ -64,12 +68,15 @@ watcher noun
 watchfulness noun pl=- note=uncountable
 watchman noun pl=watchmen
 water noun
+watercooler noun conf=90 note=also water cooler
 watercourse noun
+watercress noun
 waterfall noun
 waterfowl noun pl=waterfowl
 waterfront noun
 waterline noun
 watermelon noun
+waterproof noun region=GB note=a waterproof coat; waterproofs
 watershed noun
 waterway noun
 watt noun
@@ -85,8 +92,10 @@ wealth noun pl=- note=uncountable
 weapon noun
 weaponry noun pl=- note=uncountable
 wear noun pl=- note=uncountable
+wearable noun
 wearer noun
 weariness noun pl=- note=uncountable
+wearisomeness noun pl=- note=uncountable
 weasel noun
 weather noun note=plural weathers: in all weathers
 weaver noun
@@ -137,7 +146,10 @@ wheel noun
 wheelbarrow noun
 wheelbase noun
 wheelchair noun
+wheelie noun
+whelk noun
 whereabouts noun pl=whereabouts note=singular or plural agreement
+whetstone noun
 whiff noun
 Whig noun
 whim noun
@@ -175,6 +187,7 @@ widget noun
 widow noun
 widower noun
 width noun
+wiener noun region=US
 wife noun pl=wives
 wifi noun pl=- conf=85 note=also Wi-Fi
 wig noun
@@ -186,6 +199,7 @@ wilderness noun
 wildfire noun
 wildlife noun pl=- note=uncountable
 wildness noun pl=- note=uncountable
+wildwood noun
 wile noun
 will noun
 willingness noun pl=- note=uncountable
@@ -201,6 +215,7 @@ windowsill noun
 windshield noun region=US note=British windscreen
 windward noun pl=- note=uncountable
 wine noun
+wineglass noun
 winery noun
 wing noun
 winger noun
@@ -225,6 +240,7 @@ witness noun
 wizard noun
 woe noun
 wog noun style=offensive note=racist slur
+wok noun
 wolf noun pl=wolves
 woman noun pl=women
 womanhood noun pl=- note=uncountable
@@ -233,6 +249,7 @@ wonder noun
 wonderland noun
 wonderment noun pl=- note=uncountable
 wont noun pl=- note=uncountable
+wonton noun
 wood noun
 woodbine noun
 woodcock noun pl=woodcocks|woodcock
@@ -266,6 +283,7 @@ worksheet noun
 workshop noun
 workspace noun
 workstation noun
+worktop noun region=GB
 workweek noun conf=90 note=chiefly American
 world noun
 worm noun

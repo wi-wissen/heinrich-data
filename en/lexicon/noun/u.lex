@@ -1,3 +1,4 @@
+udon noun pl=- note=uncountable
 ugliness noun pl=- note=uncountable
 ukiyo-e noun pl=- conf=90 note=Japanese woodblock print genre
 Ukrainian     noun
@@ -7,6 +8,7 @@ ultra noun conf=90 note=an extremist; also used as a prefix
 ultralight noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
+umami noun pl=- note=uncountable
 umbrella      noun
 umpire noun
 unanimity noun pl=- note=uncountable
@@ -17,8 +19,10 @@ uncle         noun
 unconscious   noun pl=- note=only singular (the unconscious)
 unconsciousness noun pl=- note=uncountable
 underbrush noun pl=- note=uncountable
+undercoat noun
 undercut noun
 underestimate noun
+undergrad noun
 undergraduate noun
 underground   noun
 undergrowth noun pl=- note=uncountable
@@ -44,10 +48,12 @@ uneasiness    noun pl=- note=uncountable
 unemployment  noun pl=- note=uncountable
 unfairness noun
 unhappiness noun pl=- note=uncountable
+uni noun region=GB style=colloquial note=university
 unicorn noun
 unification noun
 uniform       noun
 uniformity noun
+uninstaller noun
 union         noun
 unionist      noun
 uniqueness noun pl=- note=uncountable
@@ -64,6 +70,7 @@ unrest        noun pl=- note=uncountable
 unwillingness noun pl=- note=uncountable
 upbringing noun
 update        noun
+updater noun
 upgrade       noun
 upheaval noun
 upholstery noun pl=- note=uncountable
@@ -88,6 +95,7 @@ urbanization noun gb=urbanisation|urbanization
 urchin noun
 urge          noun
 urgency       noun pl=- note=uncountable
+urinal noun
 urine         noun pl=- note=uncountable
 URL noun abbr note=web address
 urn noun

@@ -79,6 +79,7 @@ hoover verb region=GB note=to vacuum
 hop            verb
 hope           verb
 horrify verb
+horsewhip verb double
 hose verb
 hospitalize verb gb=hospitalise|hospitalize
 host           verb

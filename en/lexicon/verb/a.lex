@@ -206,6 +206,7 @@ augment verb
 authenticate verb
 author verb
 authorize verb gb=authorise|authorize
+autocomplete verb
 autograph verb
 automate verb
 avail verb

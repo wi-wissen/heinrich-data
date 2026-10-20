@@ -13,6 +13,7 @@ keel noun
 keenness noun pl=- note=uncountable
 keep           noun
 keeper         noun
+kefir noun pl=- note=uncountable
 kelp noun pl=- note=uncountable
 ken noun pl=- note=beyond one's ken
 kennel noun
@@ -24,8 +25,10 @@ kettle noun
 key            noun
 keyboard       noun
 keyboardist noun
+keycap noun
 keycard noun conf=85
 keyhole noun
+keylogger noun
 keynote noun
 keypad noun
 keystone noun
@@ -39,6 +42,7 @@ kicker noun
 kickoff noun conf=90 note=also kick-off
 kid            noun
 kidney         noun
+kielbasa noun
 kike noun style=offensive note=antisemitic slur
 kill           noun
 killer         noun
@@ -46,8 +50,10 @@ killing        noun
 kiln noun
 kilobyte noun
 kilogram noun
+kilohertz noun pl=kilohertz
 kilometer      noun gb=kilometre
 kilowatt noun
+kimchi noun pl=- note=uncountable
 kin            noun pl=- note=collective
 kinase noun
 kind           noun
@@ -61,14 +67,19 @@ kingship noun
 kinship noun
 kinsman noun pl=kinsmen
 kiosk noun
+kipper noun
+kirsch noun pl=- note=uncountable
 kiss           noun
 kit            noun
 kitchen        noun
+kitchenette noun
 kite noun
 kitten noun
 kitty noun
 kiwi noun
+kiwifruit noun pl=kiwifruit|kiwifruits
 knack noun
+knacker noun region=GB note=a horse slaughterer
 knapsack noun
 knave noun
 knee           noun
@@ -88,7 +99,13 @@ know-how noun pl=- note=uncountable
 knowledge      noun pl=- note=uncountable
 knuckle noun
 koala noun
+kofta noun
+kohlrabi noun pl=kohlrabi|kohlrabis conf=90
+kombucha noun pl=- note=uncountable
 Korean         noun
+korma noun
 KPI noun abbr note=key performance indicator
 Kraut noun style=offensive note=slur for Germans
+kulfi noun
+kumquat noun
 Kurdish noun pl=- note=the language

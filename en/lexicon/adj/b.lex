@@ -7,6 +7,7 @@ baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
 balmy adj cmp=er adv=balmily
+balsamic adj
 Baltic adj
 bankable adj
 bankrupt adj
@@ -56,7 +57,9 @@ biblical adj
 bicentennial adj
 biennial adj
 big adj cmp=er
+big-boned adj
 bigoted adj cmp=more
+bijou adj note=small and elegant (of a house)
 bilateral adj adv=bilaterally
 bilingual adj
 billable adj
@@ -95,6 +98,8 @@ blooded adj note=mostly in compounds: cold-blooded, warm-blooded, blue-blooded
 bloodless adj adv=bloodlessly
 bloodthirsty adj cmp=er|more
 bloody adj cmp=er
+blowsy adj cmp=er conf=90 note=also blowzy
+blowzy adj cmp=er conf=90 note=also blowsy
 blue adj cmp=er
 bluish adj
 blunt adj cmp=er adv=bluntly

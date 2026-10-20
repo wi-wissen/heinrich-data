@@ -26,6 +26,7 @@ ESA propn abbr conf=90 note=European Space Agency; Endangered Species Act
 ESPN propn abbr note=sports broadcaster
 Essex propn
 Estonia propn
+Ethernet propn
 Ethiopia propn
 Eton propn
 EU propn abbr note=European Union

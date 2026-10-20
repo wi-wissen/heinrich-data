@@ -40,6 +40,7 @@ fend verb
 ferment verb
 ferry          verb
 fertilize verb gb=fertilise|fertilize
+festoon verb
 fetch          verb
 fetter verb
 feud verb
@@ -89,6 +90,7 @@ flog verb
 flood          verb
 floor          verb
 flop verb
+floss verb
 flounder verb
 flourish       verb
 flow           verb

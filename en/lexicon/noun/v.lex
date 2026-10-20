@@ -8,7 +8,9 @@ vagary noun
 vagina noun pl=vaginas|vaginae[rare]
 vagrant noun
 vagueness noun pl=- note=uncountable
+valance noun
 vale          noun
+valedictorian noun region=US
 valence noun
 valentine noun
 valerate noun conf=90 note=chemistry: salt or ester of valeric acid
@@ -78,8 +80,10 @@ verdict       noun
 verdure noun pl=- note=literary
 verge         noun
 verification  noun
+vermicelli noun pl=- note=uncountable
 vermilion noun pl=- note=uncountable as a color
 vermin noun pl=vermin
+vermouth noun
 vernacular noun
 versatility noun pl=- note=uncountable
 verse         noun
@@ -133,6 +137,8 @@ villa         noun
 village       noun
 villager      noun
 villain       noun
+vinaigrette noun
+vindaloo noun
 vindication noun
 vine          noun
 vinegar noun
@@ -145,6 +151,7 @@ violence      noun pl=- note=uncountable
 violet        noun
 violin        noun
 violinist noun
+violoncello noun pl=violoncellos
 viper noun
 virgin        noun
 virginity noun
@@ -172,11 +179,13 @@ vivacity noun pl=- note=uncountable
 vividness noun pl=- note=uncountable
 vizier noun
 vlog noun
+vlogger noun
 vocabulary    noun
 vocal         noun
 vocalist      noun
 vocalization noun gb=vocalisation|vocalization
 vocation noun
+vodka noun
 vogue noun
 voice         noun
 voicemail noun

@@ -23,6 +23,8 @@ abrasive noun
 absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
+absentmindedness noun pl=- note=uncountable
+absinthe noun pl=- note=uncountable
 absolution noun
 absorption noun
 abstinence noun pl=- note=uncountable
@@ -193,6 +195,7 @@ affirmation noun
 affix noun
 affliction noun
 affluence noun pl=- note=uncountable
+affogato noun pl=affogatos
 affordability noun pl=- note=uncountable
 affront noun
 Afghan noun
@@ -214,6 +217,7 @@ aggressor noun
 agility noun pl=- note=uncountable
 agitation noun
 AGM noun abbr note=annual general meeting
+agnolotti noun pl=- note=already plural in Italian; used as a mass noun
 agnostic noun
 agonist noun
 agony noun
@@ -225,8 +229,11 @@ aide noun
 AIDS noun abbr pl=- note=the disease
 ailment noun
 aim noun
+aioli noun pl=- note=uncountable
 air noun
+aircon noun pl=- region=GB conf=90 note=uncountable; air conditioning
 aircraft noun pl=aircraft
+airer noun region=GB note=a clothes-drying rack
 airfare noun
 airfield noun
 airflow noun
@@ -247,6 +254,7 @@ airstrip noun
 airway noun
 airworthiness noun pl=- note=uncountable
 aisle noun
+akvavit noun pl=- conf=90 note=uncountable; also aquavit
 alabaster noun pl=- note=uncountable
 alacrity noun pl=- note=uncountable
 alarm noun
@@ -307,6 +315,9 @@ aluminum noun gb=aluminium pl=- note=uncountable
 alumna noun pl=alumnae
 alumnus noun pl=alumni
 amalgamation noun
+amaranth noun
+amaretti noun pl=- conf=80 note=Italian plural used for the almond biscuits
+amaretto noun pl=amarettos note=the almond liqueur
 amateur noun
 amazement noun pl=- note=uncountable
 ambassador noun
@@ -319,6 +330,7 @@ amendment noun
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
+americano noun pl=americanos
 amiability noun pl=- note=uncountable
 amine noun
 amity noun pl=- note=uncountable
@@ -329,6 +341,7 @@ amnesia noun pl=- note=uncountable
 amnesty noun
 amortization noun gb=amortisation|amortization
 amount noun
+amp noun
 amphetamine noun
 amphibian noun
 amphitheater noun gb=amphitheatre
@@ -348,11 +361,13 @@ anarchy noun pl=- note=uncountable
 anatomy noun
 ancestor noun
 ancestry noun
+ancho noun pl=anchos
 anchor noun
 anchorage noun
 anchovy noun
 ancient noun note=the ancients
 androgen noun
+android noun note=a humanlike robot
 anecdote noun
 anemia noun gb=anaemia pl=- note=uncountable
 anesthesia noun gb=anaesthesia pl=- note=uncountable
@@ -412,7 +427,9 @@ anticipation noun
 antidote noun
 antigen noun
 antimicrobial noun
+antipasto noun pl=antipasti|antipastos conf=90
 antipathy noun
+antiperspirant noun
 antiquarian noun
 antiquary noun
 antique noun
@@ -451,6 +468,7 @@ appetite noun
 appetizer noun gb=appetiser|appetizer
 applause noun pl=- note=uncountable
 apple noun
+applet noun
 appliance noun
 applicability noun pl=- note=uncountable
 applicant noun
@@ -477,15 +495,18 @@ apse noun
 aptitude noun
 aquaculture noun pl=- note=uncountable
 aquarium noun pl=aquariums|aquaria
+aquavit noun pl=- conf=90 note=uncountable; also akvavit
 aqueduct noun
 aquifer noun
 Arab noun
 Arabic noun pl=- note=the language
+arancini noun pl=- conf=90 note=already plural in Italian; used as singular and plural
 arbiter noun
 arbitration noun
 arbitrator noun
 arbor noun gb=arbour
 arboretum noun pl=arboreta|arboretums
+arborio noun pl=- conf=90 note=uncountable; also capitalized Arborio
 arc noun
 arcade noun
 arch noun
@@ -501,6 +522,7 @@ archetype noun
 archipelago noun pl=archipelagos|archipelagoes
 architect noun
 architecture noun
+architrave noun
 archive noun
 archivist noun
 archway noun
@@ -522,6 +544,7 @@ armament noun
 armchair noun
 Armenian noun
 armistice noun
+armoire noun
 armor noun gb=armour
 armory noun gb=armoury
 armpit noun
@@ -546,6 +569,7 @@ art noun
 artery noun
 arthritis noun pl=- note=uncountable
 arthropod noun
+artichoke noun
 article noun
 articulation noun
 artifact noun gb=artefact|artifact
@@ -554,6 +578,7 @@ artillery noun pl=- note=uncountable
 artisan noun
 artist noun
 artwork noun
+arugula noun pl=- region=US note=uncountable; British rocket
 asbestos noun pl=- note=uncountable
 ascendancy noun
 ascendency noun pl=- conf=90 note=variant spelling of ascendancy
@@ -660,6 +685,7 @@ austerity noun
 Australian noun
 Austrian noun
 authentication noun
+authenticator noun
 authenticity noun pl=- note=uncountable
 author noun
 authoritarian noun
@@ -669,6 +695,7 @@ authorship noun
 autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
+autocomplete noun
 autocorrect noun pl=- note=uncountable
 autocracy noun
 autograph noun

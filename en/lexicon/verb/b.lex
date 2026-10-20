@@ -190,6 +190,7 @@ bud verb
 budge verb
 budget verb
 buff verb
+buffer verb nodouble
 buffet verb
 bug verb
 build verb past=built pp=built

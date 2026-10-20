@@ -3,6 +3,7 @@ fabric         noun
 fabrication noun
 facade noun
 face           noun
+facecloth noun region=GB
 facelift noun
 facet noun
 facial         noun
@@ -28,7 +29,9 @@ fairyland noun
 faith          noun
 faithful       noun
 faithfulness noun pl=- note=uncountable
+fajita noun
 fake           noun
+falafel noun
 falcon noun
 fall           noun
 fallacy noun
@@ -50,10 +53,12 @@ FAQ noun abbr note=frequently asked question
 farce noun
 fare           noun
 farewell       noun
+farfalle noun pl=- note=uncountable pasta name, already plural in Italian
 farm           noun
 farmer         noun
 farmhouse noun
 farmland       noun
+farro noun pl=- note=uncountable
 fart noun style=colloquial
 farthing noun
 fascination    noun
@@ -69,9 +74,11 @@ fatherhood noun pl=- note=uncountable
 fatherland noun
 fathom noun
 fatigue        noun
+fattoush noun pl=- note=uncountable
 faucet noun region=US note=British tap
 fault          noun
 fauna          noun
+favicon noun
 favor          noun gb=favour
 favorite       noun gb=favourite
 fawn noun
@@ -116,6 +123,7 @@ fen noun
 fence          noun
 fencer noun
 fender noun
+fennel noun pl=- note=uncountable
 fentanyl noun pl=- note=uncountable
 ferment noun
 fermentation noun
@@ -129,8 +137,12 @@ fertilizer noun gb=fertiliser|fertilizer
 fervor noun gb=fervour pl=- note=uncountable
 festival       noun
 festivity noun
+festoon noun
+feta noun pl=- note=uncountable
 fetish noun
 fetter noun
+fettuccine noun pl=- conf=90 note=uncountable pasta name; also fettuccini
+fettuccini noun pl=- conf=90 note=uncountable pasta name; also fettuccine
 fetus noun gb=foetus|fetus
 feud noun
 feudalism noun pl=- note=uncountable
@@ -222,6 +234,7 @@ fishcake noun
 fisher noun
 fisherman      noun pl=fishermen
 fishery        noun
+fishhook noun
 fishmonger noun
 fission noun
 fissure noun
@@ -248,13 +261,17 @@ flapjack noun
 flare noun
 flash          noun
 flashback noun
+flashcard noun
+flashlight noun region=US note=British torch
 flask noun
 flat           noun
 flathead noun conf=85 note=a fish; a screw with a flat head; also a tribe name (Flathead)
 flattery noun
+flatware noun pl=- region=US note=uncountable; British cutlery
 flavor         noun gb=flavour
 flaw noun
 flax noun pl=- note=uncountable
+flaxseed noun
 flea noun
 fledgling noun
 fleece noun
@@ -262,6 +279,7 @@ fleet          noun
 flesh          noun pl=- note=uncountable
 flex noun
 flexibility    noun
+flexitime noun pl=- region=GB note=uncountable; US flextime
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
 flier noun note=variant spelling of flyer
@@ -276,13 +294,16 @@ flirtation noun
 float          noun
 floatplane noun
 flock          noun
+floe noun
 flood          noun
 floodplain     noun
 floodway noun
 floor          noun
+floorboard noun
 flop noun
 flora          noun
 florin noun
+floss noun pl=- note=uncountable
 flotation noun note=floatation is a rare variant
 flotilla noun
 flounder noun pl=flounder|flounders
@@ -308,6 +329,7 @@ flyer noun conf=90 note=also flier
 flywheel noun
 foal noun
 foam           noun
+focaccia noun
 focus          noun pl=focuses|foci
 fodder noun pl=- note=uncountable
 foe            noun
@@ -325,7 +347,9 @@ follow-up      noun
 follower       noun
 folly          noun
 fondness noun
+fondue noun
 font noun
+fontina noun pl=- note=uncountable
 food           noun
 foodstuff noun
 fool           noun
@@ -334,6 +358,7 @@ foot           noun pl=feet
 footage        noun pl=- note=uncountable
 football       noun
 footballer     noun
+footboard noun
 footbridge noun
 footer noun
 footfall noun
@@ -344,6 +369,7 @@ footnote       noun
 footpath noun
 footprint      noun
 footstep       noun
+footstool noun
 footwear noun pl=- note=uncountable
 forage         noun
 foray noun
@@ -407,6 +433,7 @@ foundry noun
 fountain       noun
 fowl           noun pl=fowl|fowls
 fox            noun
+foyer noun
 fraction       noun
 fracture noun
 fragility noun pl=- note=uncountable
@@ -418,7 +445,11 @@ framework      noun
 franc          noun
 franchise      noun
 Franciscan noun
+frankfurter noun
 frankness noun
+frappe noun conf=90 note=also written frappé
+frappuccino noun conf=80 note=trademark, usually capitalized Frappuccino
+frappé noun conf=90 note=also written frappe
 fraternity noun
 fraud          noun
 fraudster noun
@@ -459,6 +490,7 @@ fright         noun
 fringe         noun
 frisbee noun
 fritillary noun
+frittata noun
 frivolity noun
 frock noun
 frog noun
@@ -476,10 +508,12 @@ frown          noun
 fruit          noun pl=fruit|fruits
 fruition noun
 frustration    noun
+fryer noun
 FTA            noun abbr note=free trade agreement
 FTE noun abbr note=full-time equivalent
 fudge noun
 fuel           noun
+fufu noun pl=- conf=90 note=uncountable
 fugitive       noun
 fulfillment noun gb=fulfilment
 fullback noun
@@ -512,8 +546,10 @@ fury           noun
 furze noun pl=- note=uncountable
 fuse noun
 fuselage       noun
+fusilli noun pl=- note=uncountable pasta name, already plural in Italian
 fusion         noun
 fuss           noun
 futility noun pl=- note=uncountable
+futon noun
 futsal noun pl=- note=uncountable
 future         noun

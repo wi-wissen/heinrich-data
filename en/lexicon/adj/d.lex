@@ -14,6 +14,7 @@ darling adj
 dastardly adj cmp=more
 dative adj
 daunting adj cmp=more adv=dauntingly
+dauphinoise adj conf=80 note=in gratin dauphinoise, dauphinoise potatoes
 day-to-day adj
 dazzling adj cmp=more adv=dazzlingly
 dead adj cmp=er|more
@@ -23,6 +24,7 @@ deafblind adj
 deafening adj adv=deafeningly
 dear adj cmp=er adv=dearly
 deathly adj
+decaf adj
 deceased adj
 deceitful adj cmp=more adv=deceitfully
 decennial adj

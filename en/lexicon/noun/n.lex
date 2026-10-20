@@ -1,3 +1,4 @@
+naan noun
 nacho noun pl=nachos
 nail          noun
 nakedness noun pl=- note=uncountable
@@ -5,6 +6,7 @@ naloxone noun pl=- note=uncountable
 name          noun
 nameplate noun
 namesake      noun
+nametag noun
 nan noun region=GB style=colloquial note=grandmother; also naan bread
 nana noun style=colloquial note=grandmother
 nap noun
@@ -61,6 +63,7 @@ negotiator noun
 negress noun style=archaic|offensive alt=Black_woman note=historical term, now offensive
 negro         noun pl=negroes style=archaic|offensive alt=Black_person note=historical term, now offensive
 Negro noun pl=Negroes style=archaic|offensive alt=Black_person note=historical term, offensive today; also in names of institutions
+negroni noun conf=90 note=often capitalized Negroni
 neighbor      noun gb=neighbour
 neighborhood  noun gb=neighbourhood
 nemesis noun pl=nemeses
@@ -74,6 +77,7 @@ nervousness noun pl=- note=uncountable
 nest          noun
 net           noun
 netball noun pl=- note=uncountable
+netbook noun
 nettle noun
 network       noun
 networking noun pl=- note=uncountable
@@ -84,6 +88,7 @@ neutral       noun
 neutrality    noun pl=- note=uncountable
 neutrino noun pl=neutrinos
 neutron noun
+newbie noun
 newborn noun
 newcomer noun
 newness noun pl=- note=uncountable
@@ -97,6 +102,7 @@ newsroom noun
 newt noun
 newton        noun note=SI unit of force
 nexus noun pl=nexus|nexuses
+NFC noun abbr pl=- note=near-field communication
 NGO noun abbr note=non-governmental organization
 nibble noun
 niche noun
@@ -115,7 +121,9 @@ nightgown noun
 nightie noun
 nightingale noun
 nightlife noun pl=- note=uncountable
+nightlight noun
 nightmare noun
+nightstand noun region=US note=British bedside table
 nighttime noun gb=night-time|nighttime
 nil noun pl=- note=nothing, zero
 nimbus noun pl=nimbuses|nimbi
@@ -150,6 +158,7 @@ nonprofit     noun
 nonproliferation noun pl=- note=uncountable
 nonresident noun conf=80 note=also non-resident
 nonsense      noun pl=- note=uncountable
+noob noun style=colloquial
 noodle noun
 nook noun
 noon          noun
@@ -157,6 +166,7 @@ noonday noun pl=- note=uncountable
 noose noun
 NOPR          noun abbr conf=85 note=notice of proposed rulemaking (US FERC)
 norepinephrine noun pl=- note=uncountable
+nori noun pl=- note=uncountable
 norm          noun
 normalization noun gb=normalisation|normalization
 Norman        noun note=plural Normans (not -men)
@@ -204,8 +214,11 @@ nugget noun
 nuisance      noun
 nullity noun
 number        noun
+numbskull noun conf=90 note=also numskull
 numeral noun
 numerator noun
+numpad noun conf=90
+numskull noun conf=90 note=also numbskull
 nun noun
 nurse         noun
 nursery       noun

@@ -41,6 +41,7 @@ partisan adj
 passionate adj cmp=more adv=passionately
 passive adj adv=passively
 pastoral adj
+pasty adj cmp=er note=pale
 patent adj
 patentable adj
 paternal adj
@@ -123,6 +124,7 @@ pictorial adj
 picturesque adj cmp=more
 piecemeal adj
 pied adj
+pig-headed adj
 pink adj cmp=er
 pioneering adj
 pious adj cmp=more adv=piously

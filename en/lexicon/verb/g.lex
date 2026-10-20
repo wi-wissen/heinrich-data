@@ -1,6 +1,7 @@
 gad verb
 gag verb
 gain           verb
+gainsay verb prefix=gain 3sg=gainsays past=gainsaid pp=gainsaid
 gall verb
 gallop         verb
 gamble         verb
@@ -20,6 +21,7 @@ gear           verb
 gel verb
 generalize verb gb=generalise|generalize
 generate       verb
+geotag verb double conf=90
 gesticulate verb
 gesture        verb
 get            verb past=got pp=got|gotten[US]
@@ -80,6 +82,7 @@ gross          verb
 ground         verb
 group          verb
 grouse verb
+grout verb
 grow           verb past=grew pp=grown
 growl          verb
 grub verb
