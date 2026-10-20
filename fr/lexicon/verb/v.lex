@@ -17,6 +17,7 @@ vaporiser verb
 vaquer verb pp_inv
 varier verb
 vasouiller verb pp_inv style=colloquial
+vassaliser verb
 vautrer verb pronominal
 végéter verb pp_inv
 véhiculer verb
@@ -42,6 +43,7 @@ vêtir verb class=vêtir
 vexer verb
 vibrer verb pp_inv
 vicier verb
+victimiser verb
 vidanger verb
 vider verb
 vieillir verb class=ir

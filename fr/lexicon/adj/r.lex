@@ -6,10 +6,12 @@ rabougri adj
 raccommodable adj
 rachetable adj
 racial adj adv=racialement
+racialiste adj
 racinaire adj
 racinien adj
 raciste adj
 racoleur adj f=racoleuse
+radial adj
 radical adj adv=radicalement
 radieux adj adv=radieusement
 radin adj style=colloquial alt=avare
@@ -26,6 +28,7 @@ railleur adj f=railleuse adv=railleusement
 raisonnable adj adv=raisonnablement
 raisonneur adj f=raisonneuse
 râleur adj f=râleuse style=colloquial
+ramesside adj
 ramolli adj
 rampant adj
 rance adj
@@ -42,6 +45,7 @@ rassembleur adj f=rassembleuse
 rassis adj f=rassise
 rassurant adj
 rasta adj f=rasta style=colloquial
+rastafari adj inv
 ratifié adj
 rationaliste adj
 rationnel adj adv=rationnellement
@@ -49,6 +53,7 @@ rauque adj
 ravageur adj f=ravageuse
 ravi adj
 ravissant adj adv=ravissamment
+rawlsien adj
 rayé adj
 rayonnant adj
 réactif adj adv=réactivement
@@ -93,6 +98,7 @@ recyclable adj
 rédactionnel adj
 rédempteur adj f=rédemptrice
 redevable adj
+redistribuable adj
 redistributif adj
 redondant adj adv=redondamment
 redoutable adj adv=redoutablement
@@ -142,6 +148,8 @@ rémunérateur adj f=rémunératrice
 renaissant adj
 rénal adj
 renfermé adj
+renflé adj
+renforçant adj
 rennais adj
 renommé adj
 renouvelable adj
@@ -167,6 +175,7 @@ réprobateur adj f=réprobatrice
 reproducteur adj f=reproductrice
 reproductible adj
 reproductif adj
+reprotoxique adj
 repu adj
 républicain adj
 répugnant adj
@@ -191,6 +200,7 @@ respiratoire adj
 resplendissant adj
 responsable adj adv=responsablement
 ressemblant adj
+restant adj
 restauratif adj
 restreint adj
 restrictif adj adv=restrictivement
@@ -198,11 +208,13 @@ retardateur adj f=retardatrice
 retardé adj
 retentissant adj
 réticent adj
+réticulé adj
 rétif adj
 rétinien adj
 retiré adj
 retors adj f=retorse
 rétractable adj
+rétractile adj
 rétro adj inv
 rétroactif adj adv=rétroactivement
 rétrograde adj
@@ -227,6 +239,8 @@ révolutionnaire adj adv=révolutionnairement
 rhénan adj
 rhumatoïde adj
 riant adj
+ribonucléique adj
+ribosomique adj
 ricaneur adj f=ricaneuse
 riche adj adv=richement
 richissime adj
@@ -238,6 +252,7 @@ rigoureux adj adv=rigoureusement
 rikiki adj inv style=colloquial
 rimbaldien adj
 ringard adj style=colloquial alt=démodé
+riparien adj
 risible adj adv=risiblement
 risqué adj
 rituel adj adv=rituellement
@@ -246,15 +261,18 @@ riverain adj
 robotique adj
 robuste adj adv=robustement
 rocailleux adj
+rocardien adj
 rochelais adj
 rocheux adj
 rococo adj inv
 roide adj style=archaic note=old form of raide
+rom adj f=rom
 romain adj
 roman adj
 romanche adj
 romand adj
 romanesque adj adv=romanesquement
+romano-germanique adj
 romantique adj adv=romantiquement
 rompu adj
 ronchon adj f=ronchonne style=colloquial
@@ -268,6 +286,7 @@ rotatoire adj
 roturier adj
 roublard adj style=colloquial
 roué adj
+rouennais adj
 rouge adj
 rougeâtre adj
 rougeaud adj
@@ -289,12 +308,17 @@ rugueux adj
 ruineux adj
 ruisselant adj
 ruminant adj
+runique adj
 rupestre adj
 rupin adj style=colloquial alt=riche
 rural adj adv=ruralement
 rusé adj
 russe adj
+russo-japonais adj
+russo-suédois adj
+russo-turc adj f=russo-turque pl=russo-turcs
 rustique adj adv=rustiquement
+ruthène adj
 rutilant adj
 rwandais adj
 rythmique adj adv=rythmiquement

@@ -1,6 +1,10 @@
 # French lexicon: adj entries in q (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
+qatarien adj
 quadratique adj
+quadrichrome adj
+quadridimensionnel adj
 quadriennal adj
+quadrumane adj
 quadruple adj adv=quadruplement
 qualifiable adj
 qualifiant adj

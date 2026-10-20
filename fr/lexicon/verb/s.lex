@@ -206,6 +206,7 @@ superposer verb
 superviser verb
 supplanter verb
 suppléer verb
+supplicier verb
 supplier verb
 supporter verb
 supposer verb
