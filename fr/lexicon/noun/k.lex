@@ -1,9 +1,12 @@
 # French lexicon, noun, letter k (clean-room, own knowledge)
 kabbale        noun g=f
+kabuki         noun g=m
 kaki           noun g=m
 kaléidoscope   noun g=m
 kamikaze       noun g=m|f
 kangourou      noun g=m note=plural kangourous
+kanji          noun g=m
+kannada        noun g=m note=Dravidian language
 kaolin         noun g=m
 kapok          noun g=m
 karaoké        noun g=m
@@ -32,12 +35,16 @@ ketchup        noun g=m
 khâgne         noun g=f
 khâgneux       noun g=m f=khâgneuse
 khan           noun g=m
+khanat         noun g=m
+khédive        noun g=m
 kibboutz       noun g=m
 kid            noun g=m style=colloquial alt=enfant
 kidnappeur     noun g=m f=kidnappeuse
 kidnapping     noun g=m
 kif            noun g=m style=colloquial alt=haschich
+kikongo        noun g=m note=Bantu language
 kilo           noun g=m
+kilobase       noun g=f
 kilobit        noun g=m
 kilocalorie    noun g=f
 kilogramme     noun g=m
@@ -50,7 +57,9 @@ kilovolt       noun g=m
 kilowatt       noun g=m
 kilowattheure  noun g=m
 kilt           noun g=m
+kimbanguisme   noun g=m
 kimono         noun g=m
+kinase         noun g=f
 kiné           noun g=m|f style=colloquial alt=kinésithérapeute
 kinésithérapeute noun g=m|f
 kinésithérapie noun g=f
@@ -66,9 +75,11 @@ klaxon         noun g=m
 kleenex        noun g=m note=tissue (trademark used as a common noun)
 knout          noun g=m
 koala          noun g=m
+koinè          noun g=f pl=- note=common Greek; no plural
 kola           noun g=m|f note=both genders in use
 kopeck         noun g=m
 krach          noun g=m
+kraft          noun g=m note=papier kraft
 krill          noun g=m
 kumquat        noun g=m
 kung-fu        noun g=m pl=- note=no plural

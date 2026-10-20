@@ -22,7 +22,9 @@ identité       noun g=f
 idéogramme     noun g=m
 idéologie      noun g=f
 idéologue      noun g=m|f
+idiolecte      noun g=m
 idiome         noun g=m
+idiophone      noun g=m
 idiot          noun g=m f=idiote
 idiotie        noun g=f
 idiotisme      noun g=m
@@ -57,6 +59,7 @@ illustration   noun g=f
 îlotage        noun g=m rect=ilotage
 image          noun g=f
 imagerie       noun g=f
+imageur        noun g=m
 imagier        noun g=m
 imagination    noun g=f
 imam           noun g=m
@@ -65,6 +68,7 @@ imbécile       noun g=m|f
 imbécillité    noun g=f rect=imbécilité conf=90 note=1990 spelling imbécilité
 imbrication    noun g=f
 imbroglio      noun g=m
+imine          noun g=f
 imitateur      noun g=m f=imitatrice
 imitation      noun g=f
 immanence      noun g=f
@@ -93,6 +97,7 @@ immunisation   noun g=f
 immunité       noun g=f
 immunodéficience noun g=f
 immunodépression noun g=f
+immunoélectrophorèse noun g=f
 immunoglobuline noun g=f
 immunologie    noun g=f
 immunologiste  noun g=m|f
@@ -293,6 +298,8 @@ individualité  noun g=f
 indivisaire    noun g=m|f
 indivisibilité noun g=f
 indivision     noun g=f
+indo-européaniste noun g=m|f pl=indo-européanistes
+indolamine     noun g=f
 indolence      noun g=f
 indu           noun g=m note=sum unduly paid
 inductance     noun g=f
@@ -366,6 +373,7 @@ informatisation noun g=f
 infortune      noun g=f
 infox          noun g=f
 infraction     noun g=f
+inframonde     noun g=m
 infrarouge     noun g=m
 infrastructure noun g=f
 infusion       noun g=f
@@ -384,6 +392,7 @@ inhalateur     noun g=m
 inhalation     noun g=f
 inhibiteur     noun g=m
 inhibition     noun g=f
+inhomogénéité  noun g=f
 inhospitalité  noun g=f
 inhumanité     noun g=f
 inhumation     noun g=f
@@ -479,6 +488,7 @@ insuline       noun g=f
 insulte        noun g=f
 insurgé        noun g=m f=insurgée
 insurrection   noun g=f
+intégrabilité  noun g=f
 intégrale      noun g=f note=mathematics
 intégralité    noun g=f
 intégrateur    noun g=m
@@ -525,6 +535,7 @@ intérêt        noun g=m
 interfaçage    noun g=m
 interface      noun g=f
 interférence   noun g=f
+interférométrie noun g=f
 interfluve     noun g=m
 intérieur      noun g=m
 intérim        noun g=m
@@ -550,6 +561,7 @@ interne        noun g=m|f
 interné        noun g=m f=internée
 internement    noun g=m
 internet       noun g=m note=usually written with a capital as a name; lowercase common noun use is accepted
+internœud      noun g=m note=botany; also entrenœud
 interopérabilité noun g=f
 interpellation noun g=f
 interpénétration noun g=f
@@ -676,6 +688,7 @@ islamisation   noun g=f
 islamisme      noun g=m
 islamiste      noun g=m|f
 islamophobie   noun g=f
+isocyanate     noun g=m
 isohyète       noun g=f
 isolant        noun g=m
 isolat         noun g=m

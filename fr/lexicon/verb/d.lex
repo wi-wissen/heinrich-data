@@ -334,6 +334,7 @@ déprécier verb
 déprendre verb class=prendre pronominal note=se déprendre de
 déprimer verb
 déprogrammer verb
+déprotoner     verb
 députer verb
 déqualifier verb
 déraciner verb
@@ -371,6 +372,7 @@ désamorcer verb
 désappointer verb
 désapprendre verb class=prendre
 désapprouver verb
+désarchiver    verb
 désarçonner verb
 désargenter verb
 désarmer verb

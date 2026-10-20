@@ -1,6 +1,7 @@
 # French lexicon, noun, letter g (clean-room, own knowledge)
 gabardine      noun g=f
 gabarit        noun g=m
+gabbro         noun g=m
 gabegie        noun g=f
 gabelle        noun g=f
 gabier         noun g=m
@@ -36,7 +37,9 @@ galetas        noun g=m
 galette        noun g=f
 galimatias     noun g=m
 gallicisme     noun g=m
+galliforme     noun g=m
 gallinacé      noun g=m
+gallo          noun g=m note=Romance language of Upper Brittany
 gallon         noun g=m
 galoche        noun g=f
 galon          noun g=m
@@ -44,6 +47,7 @@ galop          noun g=m
 galopade       noun g=f
 galopin        noun g=m
 galvanisation  noun g=f
+galvanoplastie noun g=f
 gambade        noun g=f
 gamberge       noun g=f style=colloquial alt=réflexion
 gamelle        noun g=f
@@ -100,6 +104,7 @@ garniture      noun g=f
 garrigue       noun g=f
 garrot         noun g=m
 gars           noun g=m style=colloquial alt=garçon|homme
+garum          noun g=m conf=85
 gasoil         noun g=m note=variant of gazole
 gaspillage     noun g=m
 gaspilleur     noun g=m f=gaspilleuse
@@ -202,7 +207,9 @@ gentleman      noun g=m pl=gentlemen
 gentrification noun g=f
 génuflexion    noun g=f
 géocodage      noun g=m
+géocroiseur    noun g=m
 géodésie       noun g=f
+géodésien      noun g=m f=géodésienne
 géodynamique   noun g=f
 géographe      noun g=m|f
 géographie     noun g=f
@@ -252,6 +259,7 @@ gibier         noun g=m
 giclée         noun g=f
 gicleur        noun g=m
 gifle          noun g=f
+gigabase       noun g=f
 gigahertz      noun g=m
 gigantisme     noun g=m
 gigaoctet      noun g=m
@@ -316,20 +324,31 @@ glorification  noun g=f
 gloriole       noun g=f
 glose          noun g=f
 glossaire      noun g=m
+glossonyme     noun g=m
 glotte         noun g=f
 gloussement    noun g=m
 glouton        noun g=m f=gloutonne
 gloutonnerie   noun g=f
 glu            noun g=f
+glucagon       noun g=m
 glucide        noun g=m
+glucomètre     noun g=m
 glucose        noun g=m
+gluon          noun g=m
 gluten         noun g=m
 glycémie       noun g=f
 glycérine      noun g=f
+glycérol       noun g=m
 glycine        noun g=f
 glycogène      noun g=m
+glycogénolyse  noun g=f
+glycol         noun g=m
+glycolyse      noun g=f
+glycoprotéine  noun g=f
+glycosylation  noun g=f
 glyphe         noun g=m
 glyphosate     noun g=m
+gnathostome    noun g=m
 gneiss         noun g=m
 gnôle          noun g=f style=colloquial alt=eau-de-vie
 gnome          noun g=m
@@ -368,6 +387,7 @@ gondolier      noun g=m
 gonflage       noun g=m
 gonflement     noun g=m
 gong           noun g=m
+gonosome       noun g=m
 gonze          noun g=m style=colloquial alt=type
 gonzesse       noun g=f style=colloquial alt=femme|fille
 gorge          noun g=f
@@ -385,6 +405,7 @@ goujat         noun g=m
 goujaterie     noun g=f
 goujon         noun g=m
 goulag         noun g=m
+goule          noun g=f
 goulée         noun g=f
 goulet         noun g=m
 goulot         noun g=m
@@ -416,6 +437,7 @@ gouvernorat    noun g=m
 goyave         noun g=f
 grabat         noun g=m
 grabataire     noun g=m|f
+graben         noun g=m
 grabuge        noun g=m style=colloquial alt=désordre|dispute
 grâce          noun g=f
 gracieuseté    noun g=f
@@ -429,6 +451,7 @@ graffeur       noun g=m f=graffeuse
 graffiti       noun g=m pl=graffiti[trad]|graffitis[rect] conf=85 note=traditionally the plural of graffito
 grain          noun g=m
 graine         noun g=f
+grainetier     noun g=m f=grainetière
 graissage      noun g=m
 graisse        noun g=f
 graminée       noun g=f
@@ -436,6 +459,7 @@ grammage       noun g=m
 grammaire      noun g=f
 grammairien    noun g=m f=grammairienne
 gramme         noun g=m
+gramophone     noun g=m
 grand-angle    noun g=m pl=grands-angles
 grand-croix    noun g=f pl=grands-croix note=la grand-croix (dignity); un grand-croix (holder) is also used
 grand-duc      noun g=m pl=grands-ducs
@@ -496,6 +520,7 @@ gravillon      noun g=m
 gravimétrie    noun g=f
 gravitation    noun g=f
 gravité        noun g=f
+graviton       noun g=m
 gravure        noun g=f
 gré            noun g=m pl=- note=only in set phrases: de bon gré, au gré de, savoir gré
 grèbe          noun g=m
@@ -543,6 +568,7 @@ grimpeur       noun g=m f=grimpeuse
 grincement     noun g=m
 grincheux      noun g=m f=grincheuse
 gringalet      noun g=m
+griot          noun g=m
 griotte        noun g=f
 grippe         noun g=f
 grippe-sou     noun g=m pl=grippe-sou[trad]|grippe-sous conf=80
@@ -582,6 +608,7 @@ grue           noun g=f
 grume          noun g=f
 grumeau        noun g=m
 gruyère        noun g=m
+guarana        noun g=m
 gué            noun g=m
 guelfe         noun g=m
 guenille       noun g=f

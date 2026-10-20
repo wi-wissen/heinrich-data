@@ -313,6 +313,7 @@ ensuivre       verb class=suivre pronominal note=mostly 3rd person: il s'ensuit
 entacher       verb
 entailler      verb
 entamer        verb
+entarter       verb
 entartrer      verb
 entasser       verb
 entendre       verb class=rendre

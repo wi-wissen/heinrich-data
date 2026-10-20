@@ -10,17 +10,20 @@ dague noun g=f
 dahlia noun g=m
 daim noun g=m f=daine
 dais noun g=m
+dalaï-lama     noun g=m pl=dalaï-lamas
 dallage noun g=m
 dalle noun g=f
 dalmatien noun g=m f=dalmatienne
 daltonien noun g=m f=daltonienne
 daltonisme noun g=m
+dam            noun g=m pl=- note=au grand dam de
 damas noun g=m
 dame noun g=f
 dame-jeanne noun g=f pl=dames-jeannes
 damier noun g=m
 damnation noun g=f
 damoiseau noun g=m f=damoiselle
+dan            noun g=m note=judo/karate grade
 dancing noun g=m
 dandinement noun g=m
 dandy noun g=m
@@ -34,6 +37,7 @@ daphnie noun g=f
 dard noun g=m
 darse noun g=f
 darwinisme noun g=m
+datagramme     noun g=m
 datation noun g=f
 datcha noun g=f
 date noun g=f
@@ -106,6 +110,7 @@ décarbonation noun g=f
 décathlon noun g=m
 décélération noun g=f
 décembre noun g=m
+décemvir       noun g=m
 décence noun g=f
 décennie noun g=f
 décentrage noun g=m
@@ -150,6 +155,7 @@ décoction noun g=f
 décodage noun g=m
 décodeur noun g=m
 décoffrage noun g=m
+décohérence    noun g=f
 décollage noun g=m
 décollation noun g=f
 décollement noun g=m
@@ -189,6 +195,7 @@ découvert noun g=m note=bank overdraft
 découverte noun g=f
 découvreur noun g=m f=découvreuse
 décrémentation noun g=f
+décrépitude    noun g=f
 décret noun g=m
 décret-loi noun g=m pl=décrets-lois
 décriminalisation noun g=f
@@ -279,6 +286,7 @@ déguisement noun g=m
 dégustateur noun g=m f=dégustatrice
 dégustation noun g=f
 déhanchement noun g=m
+déhiscence     noun g=f
 dehors noun g=m
 déification noun g=f
 déisme noun g=m
@@ -396,11 +404,14 @@ déminéralisation noun g=f
 démineur noun g=m
 démission noun g=f
 démissionnaire noun g=m|f
+démiurge       noun g=m
 démo noun g=f style=colloquial alt=démonstration
 démobilisation noun g=f
 démocrate noun g=m|f
 démocratie noun g=f
 démocratisation noun g=f
+démocratisme   noun g=m
+démodulation   noun g=f
 démographe noun g=m|f
 démographie noun g=f
 demoiselle noun g=f
@@ -440,6 +451,7 @@ dénouement noun g=m
 denrée noun g=f
 densification noun g=f
 densité noun g=f
+densitomètre   noun g=m
 dent noun g=f
 dent-de-lion noun g=f pl=dents-de-lion
 dentelle noun g=f
@@ -504,6 +516,7 @@ déprédation noun g=f
 dépression noun g=f
 déprime noun g=f style=colloquial alt=dépression
 déprogrammation noun g=f
+déprotonation  noun g=f
 députation noun g=f
 député noun g=m f=députée
 député-maire noun g=m f=députée-maire pl=députés-maires fpl=députées-maires
@@ -601,7 +614,9 @@ déshonneur noun g=m
 déshumanisation noun g=f
 déshumidificateur noun g=m
 déshydratation noun g=f
+déshydrogénation noun g=f
 desiderata noun g=m pl_only
+design         noun g=m
 désignation noun g=f
 désillusion noun g=f
 désincarcération noun g=f
@@ -635,6 +650,8 @@ désordre noun g=m
 désorganisation noun g=f
 désorientation noun g=f
 désoxydation noun g=f
+désoxygénation noun g=f
+despotat       noun g=m
 despote noun g=m|f
 despotisme noun g=m
 desquamation noun g=f
@@ -688,6 +705,7 @@ détérioration noun g=f
 déterminant noun g=m
 détermination noun g=f
 déterminisme noun g=m
+déterrage      noun g=m
 détestation noun g=f
 détonateur noun g=m
 détonation noun g=f
@@ -706,6 +724,7 @@ détrousseur noun g=m f=détrousseuse
 dette noun g=f
 deuil noun g=m
 deutérium noun g=m
+deutérostomien noun g=m
 deux-pièces noun g=m pl=deux-pièces
 deux-points noun g=m pl=deux-points
 deux-roues noun g=m
@@ -737,11 +756,13 @@ dévoilement noun g=m
 devoir noun g=m
 dévolu noun g=m note=jeter son dévolu sur
 dévolution noun g=f
+dévoration     noun g=f
 dévoreur noun g=m f=dévoreuse
 dévot noun g=m f=dévote
 dévotion noun g=f
 dévouement noun g=m
 dextérité noun g=f
+dharma         noun g=m
 diabète noun g=m
 diabétique noun g=m|f
 diabétologie noun g=f
@@ -828,6 +849,9 @@ dignité noun g=f
 digramme noun g=m
 digression noun g=f
 digue noun g=f
+dihydrogène    noun g=m
+diisocyanate   noun g=m
+dilapidateur   noun g=m f=dilapidatrice
 dilapidation noun g=f
 dilatation noun g=f
 dilemme noun g=m
@@ -852,12 +876,16 @@ dînette noun g=f rect=dinette
 dîneur noun g=m f=dîneuse rect=dineur
 dingo noun g=m
 dinosaure noun g=m
+dinosaurien    noun g=m
 diocèse noun g=m
 diode noun g=f
+diol           noun g=m
 dioptrie noun g=f
 diorama noun g=m
+diorite        noun g=f
 dioxyde noun g=m
 dioxygène noun g=m
+diphosphate    noun g=m
 diphtérie noun g=f
 diphtongue noun g=f
 diplodocus noun g=m
@@ -866,6 +894,7 @@ diplomatie noun g=f
 diplôme noun g=m
 diplômé noun g=m f=diplômée
 diplopie noun g=f
+dipneuste      noun g=m
 dipôle noun g=m
 diptère noun g=m
 diptyque noun g=m
@@ -935,6 +964,7 @@ dissuasion noun g=f
 dissymétrie noun g=f
 distance noun g=f
 distanciation noun g=f
+distension     noun g=f
 distillateur noun g=m
 distillation noun g=f
 distillerie noun g=f
@@ -947,6 +977,7 @@ distributeur noun g=m note=machine or company; a person in trade (une distributr
 distribution noun g=f
 distributivité noun g=f
 district noun g=m
+disulfure      noun g=m
 dithyrambe noun g=m
 diurétique noun g=m
 diva noun g=f
@@ -975,6 +1006,7 @@ dizaine noun g=f
 djebel noun g=m
 djihad noun g=m
 djihadiste noun g=m|f
+djinn          noun g=m
 doberman noun g=m
 docilité noun g=f
 dock noun g=m
@@ -1049,6 +1081,7 @@ dos-d'âne noun g=m pl=dos-d'âne
 dosage noun g=m
 dose noun g=f
 dosette noun g=f
+doseur         noun g=m
 dosimétrie noun g=f
 dossard noun g=m
 dosseret noun g=m
@@ -1132,6 +1165,7 @@ drugstore      noun g=m
 druide noun g=m f=druidesse
 druidisme noun g=m
 drupe noun g=f
+dryade         noun g=f
 dualisme noun g=m
 dualité noun g=f
 duathlon noun g=m
@@ -1159,10 +1193,12 @@ duplicité noun g=f
 durabilité noun g=f
 duralumin noun g=m
 durcissement noun g=m
+durcisseur     noun g=m
 durée noun g=f
 dureté noun g=f
 durite noun g=f
 duvet noun g=m
+dyade          noun g=f
 dyarchie noun g=f
 dynamique noun g=f
 dynamisation noun g=f
@@ -1172,6 +1208,7 @@ dynamite noun g=f
 dynamo noun g=f
 dynamomètre noun g=m
 dynastie noun g=f
+dyophysisme    noun g=m
 dyscalculie noun g=f
 dysenterie noun g=f
 dysfonction noun g=f

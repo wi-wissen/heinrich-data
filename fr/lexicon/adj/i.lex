@@ -31,6 +31,7 @@ illogique      adj adv=illogiquement
 illusoire      adj
 illustratif    adj
 illustre       adj
+illyrien       adj
 imagé          adj
 imaginable     adj
 imaginaire     adj
@@ -83,6 +84,7 @@ impérial       adj adv=impérialement
 impérialiste   adj
 impérieux      adj adv=impérieusement
 impérissable   adj
+impermanent    adj
 imperméable    adj
 impersonnel    adj adv=impersonnellement
 impertinent    adj adv=impertinemment
@@ -165,6 +167,7 @@ incalculable   adj
 incandescent   adj
 incantatoire   adj
 incapable      adj
+incapacitant   adj
 incassable     adj
 incendiaire    adj
 incertain      adj
@@ -222,6 +225,7 @@ incorruptible  adj
 incrédule      adj
 incroyable     adj adv=incroyablement
 inculte        adj
+incultivable   adj
 incurable      adj adv=incurablement
 indécelable    adj
 indécent       adj adv=indécemment
@@ -235,6 +239,7 @@ indéfendable   adj
 indéfini       adj adv=indéfiniment
 indéfinissable adj
 indéformable   adj
+indéhiscent    adj
 indélébile     adj adv=indélébilement
 indélicat      adj adv=indélicatement
 indemne        adj
@@ -275,7 +280,9 @@ individualiste adj
 individuel     adj adv=individuellement
 indivis        adj
 indivisible    adj adv=indivisiblement
-indo-européen  adj
+indo-aryen     adj
+indo-européen  adj rect=indoeuropéen
+indo-iranien   adj
 indochinois    adj
 indocile       adj
 indolent       adj adv=indolemment
@@ -284,7 +291,7 @@ indomptable    adj
 indonésien     adj
 indu           adj adv=indûment
 indubitable    adj adv=indubitablement
-inductif       adj
+inductif       adj adv=inductivement
 indulgent      adj
 industriel     adj adv=industriellement
 industrieux    adj adv=industrieusement
@@ -335,6 +342,7 @@ infâme         adj
 infantile      adj
 infantilisant  adj
 infatigable    adj adv=infatigablement
+infatué        adj
 infécond       adj
 infect         adj
 infectieux     adj
@@ -451,6 +459,7 @@ inspirant      adj
 instable       adj
 instantané     adj adv=instantanément
 instinctif     adj adv=instinctivement
+institutionnaliste adj
 institutionnel adj adv=institutionnellement
 instructif     adj
 instrumental   adj
@@ -482,13 +491,16 @@ intentionné    adj
 intentionnel   adj adv=intentionnellement
 interactif     adj adv=interactivement
 interallié     adj
+interaméricain adj
 interannuel    adj
 interarmées    adj inv
 interarmes     adj inv
+interatomique  adj
 interbancaire  adj
 intercalaire   adj
 intercellulaire adj
 interchangeable adj
+intercolonial  adj
 intercommunal  adj
 intercommunautaire adj
 intercontinental adj
@@ -498,8 +510,12 @@ interdentaire  adj
 interdépartemental adj
 interdépendant adj
 interdisciplinaire adj
+interdunaire   adj
 interentreprises adj inv
 intéressant    adj
+interethnique  adj
+interfaçable   adj
+interfécond    adj
 intergalactique adj
 intergénérationnel adj
 interglaciaire adj
@@ -513,6 +529,7 @@ interminable   adj adv=interminablement
 interministériel adj
 intermittent   adj
 intermodal     adj
+intermoléculaire adj
 international  adj adv=internationalement
 internationaliste adj
 interne        adj
@@ -520,6 +537,7 @@ interopérable  adj
 interparlementaire adj
 interpersonnel adj
 interplanétaire adj
+interplaque    adj
 interprétatif  adj
 interprofessionnel adj
 interrégional  adj
@@ -536,6 +554,7 @@ interurbain    adj
 interventionnel adj
 interventionniste adj
 intervertébral adj
+interzonal     adj
 intestin       adj note=lutte intestine, guerres intestines
 intestinal     adj
 intime         adj adv=intimement
@@ -555,6 +574,8 @@ intramusculaire adj
 intransigeant  adj
 intransitif    adj
 intransportable adj
+intrapéritonéal adj
+intraplaque    adj
 intraveineux   adj
 intrépide      adj adv=intrépidement
 intrigant      adj
@@ -570,6 +591,7 @@ inusable       adj
 inusité        adj
 inutile        adj adv=inutilement
 inutilisable   adj
+inutilisé      adj
 invaincu       adj
 invalidant     adj
 invalide       adj
@@ -600,6 +622,7 @@ irascible      adj
 irisé          adj
 irlandais      adj
 ironique       adj adv=ironiquement
+iroquois       adj
 irrationnel    adj adv=irrationnellement
 irrattrapable  adj
 irréalisable   adj
@@ -638,6 +661,7 @@ islandais      adj
 isobare        adj
 isocèle        adj
 isochrone      adj
+isoélectrique  adj
 isolant        adj
 isolationniste adj
 isométrique    adj
