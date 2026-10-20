@@ -11,7 +11,7 @@ iconography noun
 ICU noun abbr note=intensive care unit
 ID             noun abbr note=identification, identity document
 id noun conf=90 note=psychoanalysis; the form Id in legal texts (Id. = idem) is not covered
-idea           noun
+idea           noun prep=of|for|about|on vb=have|get
 ideal          noun
 idealism noun pl=- note=uncountable
 idealist noun
@@ -52,9 +52,9 @@ immigration    noun
 immorality noun
 immortal       noun
 immortality noun pl=- note=uncountable
-immunity       noun
+immunity       noun prep=to|from|against
 immunization noun gb=immunisation|immunization
-impact         noun
+impact         noun prep=on|upon
 impairment     noun
 impartiality noun
 impasse noun
@@ -76,7 +76,7 @@ implement      noun
 implementation noun
 implication    noun
 import         noun
-importance     noun pl=- note=uncountable
+importance     noun prep=of|to|for pl=- note=uncountable
 importation    noun
 importer       noun
 imposition     noun
@@ -84,11 +84,11 @@ impossibility noun
 impostor noun
 impotence noun pl=- note=uncountable
 impoundment noun
-impression     noun
+impression     noun vb=make|give|have|get|leave
 imprint noun
 imprisonment   noun
 impropriety noun
-improvement    noun
+improvement    noun prep=in|on|of|to vb=make
 improvisation noun
 imprudence noun pl=- note=uncountable
 impudence noun pl=- note=uncountable
@@ -109,7 +109,7 @@ incapacity noun
 incarceration noun
 incarnation    noun
 incense noun
-incentive      noun
+incentive      noun prep=for|to
 inception      noun
 incest noun pl=- note=uncountable
 inch           noun
@@ -132,7 +132,7 @@ inconsistency noun
 inconstancy noun
 inconvenience noun
 incorporation  noun
-increase       noun
+increase       noun prep=in|of
 incredulity noun pl=- note=uncountable
 increment noun
 incubation noun
@@ -144,7 +144,7 @@ indecision noun pl=- note=uncountable
 indemnity noun
 indent noun
 indenture noun
-independence   noun
+independence   noun prep=from|of
 independent    noun
 index          noun pl=indexes|indices
 indexation noun
@@ -153,7 +153,7 @@ indication     noun
 indicator      noun
 indictment     noun
 indie noun
-indifference   noun
+indifference   noun prep=to|toward|towards
 indignation    noun
 indignity noun
 indigo noun pl=indigos
@@ -180,7 +180,7 @@ infamy noun
 infancy        noun
 infant         noun
 infantry       noun pl=- note=collective
-infatuation noun
+infatuation noun prep=with|for
 infection      noun
 inference      noun
 inferior       noun
@@ -200,13 +200,13 @@ inflation      noun
 inflection noun gb=inflection|inflexion
 infliction noun
 inflow noun
-influence      noun
+influence      noun prep=on|over|upon|with xprep=to?
 influencer noun
 influenza      noun pl=- note=uncountable
 influx         noun
 info noun pl=- style=colloquial alt=information note=information
 informant noun
-information    noun pl=- note=uncountable
+information    noun prep=on|about|regarding|concerning pl=- note=uncountable
 infraction noun
 infrastructure noun
 infringement   noun
@@ -249,7 +249,7 @@ inpatient      noun
 input          noun
 inquest noun
 inquirer noun
-inquiry        noun gb=inquiry|enquiry
+inquiry        noun prep=into|about|from|on vb=make|conduct|launch|hold|open gb=inquiry|enquiry
 inquisition noun
 inroad noun
 insanity noun
@@ -260,10 +260,10 @@ insensibility noun pl=- note=uncountable
 insert         noun
 insertion noun
 insider noun
-insight        noun
+insight        noun prep=into|on|about xprep=in?
 insignia noun pl=insignia|insignias
 insignificance noun pl=- note=uncountable
-insistence noun
+insistence noun prep=on|upon
 insolence noun
 insolvency     noun
 insomnia noun pl=- note=uncountable
@@ -282,7 +282,7 @@ instinct       noun
 institute      noun
 institution    noun
 institutionalization noun gb=institutionalisation|institutionalization
-instruction    noun
+instruction    noun prep=in|on|about|for
 instructor     noun
 instrument     noun
 instrumentalist noun
@@ -293,7 +293,7 @@ insufficiency noun
 insulation noun
 insulin noun pl=- note=uncountable
 insult         noun
-insurance      noun
+insurance      noun prep=against|on|for
 insurer noun
 insurgency noun
 insurgent noun
@@ -310,7 +310,7 @@ intelligence   noun note=plural intelligences: kinds of intelligence, agencies
 intensification noun
 intensity      noun
 intent         noun
-intention      noun
+intention      noun prep=of
 interaction    noun
 interception noun
 interceptor noun
@@ -321,9 +321,9 @@ intercourse    noun pl=- note=uncountable
 interdependence noun pl=- note=uncountable
 interdict noun
 interdiction noun
-interest       noun
+interest       noun prep=in|on xprep=for? vb=show|take|have
 interface      noun
-interference   noun
+interference   noun prep=in|with|from
 interim        noun
 interior       noun
 interlude noun
@@ -350,7 +350,7 @@ interurban noun note=interurban railway
 interval       noun
 intervenor noun conf=90 note=legal spelling; also intervener
 intervention   noun
-interview      noun
+interview      noun vb=do|have|give|conduct xvb=make?
 interviewee noun
 interviewer noun
 intestacy noun pl=- note=uncountable
@@ -367,7 +367,7 @@ intrigue noun
 intro noun pl=intros note=clipping of introduction
 introduction   noun
 intruder noun
-intrusion      noun
+intrusion      noun prep=into|on|upon
 intubation noun
 intuition noun
 Inuit noun pl=Inuit
@@ -383,17 +383,17 @@ inverse noun
 inversion noun
 invertebrate noun
 inverter noun
-investigation  noun
+investigation  noun prep=into|of
 investigator   noun
-investment     noun
+investment     noun prep=in
 investor       noun
 invigilator noun region=GB note=US proctor
-invitation     noun
+invitation     noun prep=to|for
 invitational noun
 invite         noun note=colloquial: an invitation
 invocation noun
 invoice        noun
-involvement    noun
+involvement    noun prep=in|with
 iodine noun pl=- note=uncountable
 ion            noun
 ionization noun gb=ionisation|ionization

@@ -12,9 +12,9 @@ fake           adj
 false          adj cmp=er|more adv=falsely
 famed adj
 familial adj
-familiar       adj cmp=more adv=familiarly
+familiar       adj prep=with|to cmp=more adv=familiarly
 famished adj
-famous         adj cmp=more adv=famously
+famous         adj comp=p_ing|to prep=for|as|with xprep=of? cmp=more adv=famously
 fanatical adj cmp=more adv=fanatically
 fanciful adj
 fancy          adj cmp=er
@@ -22,6 +22,7 @@ fantastic      adj adv=fantastically
 fantastical adj
 far            adj cmp=farther|further sup=farthest|furthest
 farinaceous adj
+fascinated adj comp=to|that|wh prep=by|with xprep=of cmp=more
 fascinating    adj cmp=more adv=fascinatingly
 fascist adj
 fashionable    adj cmp=more adv=fashionably
@@ -80,7 +81,7 @@ firm           adj cmp=er adv=firmly
 firsthand adj
 fiscal         adj adv=fiscally
 fissile adj
-fit            adj cmp=er
+fit            adj comp=to prep=for cmp=er
 fitful adj adv=fitfully
 fitting        adj adv=fittingly
 fixed          adj adv=fixedly
@@ -113,13 +114,13 @@ fluted adj
 focal          adj
 foggy adj cmp=er
 folk           adj attr_only
-fond           adj cmp=er adv=fondly
+fond           adj comp=p_ing prep=of xprep=about|for|from cmp=er adv=fondly
 foolish        adj cmp=more adv=foolishly
 forceful adj cmp=more adv=forcefully
 forcible       adj adv=forcibly
 fore           adj attr_only
 foregoing      adj attr_only
-foreign        adj
+foreign        adj prep=to
 foremost       adj
 forensic       adj adv=forensically
 foreseeable    adj
@@ -151,7 +152,7 @@ fraudulent     adj adv=fraudulently
 fraught adj cmp=more
 freaky adj cmp=er style=colloquial alt=strange|frightening
 freckled adj
-free           adj cmp=er adv=freely
+free           adj comp=to prep=of|from|for|with cmp=er adv=freely
 freeborn adj
 freelance adj
 freestanding adj
@@ -164,8 +165,8 @@ fretful adj adv=fretfully
 fricative adj
 frictionless adj
 friendless adj
-friendly       adj cmp=er
-frightened adj cmp=more
+friendly       adj prep=with|to|towards|toward cmp=er
+frightened adj comp=to|that|p_ing prep=of|by|for xprep=from?|before? cmp=more
 frightful      adj adv=frightfully
 frigid adj cmp=more adv=frigidly
 frivolous adj
@@ -179,7 +180,7 @@ fruitless adj
 fruity adj cmp=er
 fugitive       adj
 fulfilling adj cmp=more
-full           adj cmp=er adv=fully
+full           adj prep=of|with cmp=er adv=fully
 fun            adj note=colloquial attributive use: a fun day
 functional     adj adv=functionally
 fundamental    adj adv=fundamentally
@@ -188,7 +189,7 @@ funerary       adj
 funereal adj adv=funereally
 fungal adj
 funny          adj cmp=er
-furious        adj adv=furiously
+furious        adj comp=to|that prep=with|at|about|over xprep=on? adv=furiously
 furry adj cmp=er
 furtive adj adv=furtively
 fussy adj cmp=er

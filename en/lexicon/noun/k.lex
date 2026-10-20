@@ -22,7 +22,7 @@ kerosene noun pl=- note=uncountable
 ketch noun
 ketchup noun pl=- note=uncountable
 kettle noun
-key            noun
+key            noun prep=to|for
 keyboard       noun
 keyboardist noun
 keycap noun
@@ -70,7 +70,7 @@ kinsman noun pl=kinsmen
 kiosk noun
 kipper noun
 kirsch noun conf=90 note=countable for a glass or a variety, also a mass noun; unsure whether the plural kirsches is used
-kiss           noun
+kiss           noun vb=give
 kit            noun
 kitchen        noun
 kitchenette noun
@@ -97,7 +97,7 @@ knockout noun
 knoll noun
 knot           noun
 know-how noun pl=- note=uncountable
-knowledge      noun pl=- note=uncountable
+knowledge      noun prep=of|about|on pl=- note=uncountable
 knuckle noun
 koala noun
 kofta noun

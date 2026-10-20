@@ -2,7 +2,7 @@ wad noun
 wafer noun
 waffle noun
 wage noun
-wager noun
+wager noun vb=make|place|lay|win|lose
 wagon noun gb=waggon|wagon
 wail noun
 wainscot noun
@@ -14,7 +14,7 @@ waiter noun
 waitress noun
 waiver noun
 wake noun
-walk noun
+walk noun vb=take|have xvb=make?
 walker noun
 walkie-talkie noun
 walkthrough noun
@@ -29,7 +29,7 @@ wand noun
 wanderer noun
 wandering noun note=mostly plural: wanderings
 want noun
-war noun
+war noun vb=wage|fight|declare|win|lose|make xvb=lead>wage?
 warbler noun
 ward noun
 warden noun
@@ -43,7 +43,7 @@ warfighting noun pl=- conf=90 note=military jargon, uncountable
 warhead noun
 warlord noun
 warmth noun pl=- note=uncountable
-warning noun
+warning noun prep=of|about|against|to vb=give|issue|receive|get|heed|ignore
 warp noun
 warrant noun
 warranty noun
@@ -56,6 +56,7 @@ wash noun
 washbasin noun
 washcloth noun region=US note=British flannel
 washer noun
+washing noun vb=do|hang_out xvb=make>do? pl=- note=laundry
 wasp noun
 wastage noun pl=- note=uncountable
 waste noun
@@ -81,7 +82,7 @@ watershed noun
 waterway noun
 watt noun
 wattle noun
-wave noun
+wave noun vb=give|make|catch
 waveform noun
 wavelength noun
 wax noun
@@ -108,7 +109,7 @@ webmail noun pl=- note=uncountable
 webmaster noun
 webpage noun
 website noun
-wedding noun
+wedding noun vb=have|hold|plan|attend
 wedge noun
 wedlock noun pl=- note=uncountable
 weed noun
@@ -116,7 +117,7 @@ week noun
 weekday noun
 weekend noun
 weekly noun
-weight noun
+weight noun vb=lose|gain|put_on|carry|lift
 weightlifter noun
 weightlifting noun pl=- note=uncountable
 weir noun
@@ -162,7 +163,7 @@ whisk noun
 whisker noun
 whiskey noun note=Irish and American spelling; see whisky
 whisky noun note=Scotch and Canadian spelling; see whiskey
-whisper noun
+whisper noun vb=hear
 whistle noun
 whistleblower noun
 whistleblowing noun pl=- note=uncountable
@@ -204,7 +205,7 @@ wile noun
 will noun
 willingness noun pl=- note=uncountable
 willow noun
-win noun
+win noun vb=have|get|record
 wince noun
 wind noun
 windfall noun
@@ -230,7 +231,7 @@ wireframe noun
 wireless noun pl=- note=uncountable
 wireline noun conf=85 note=oil industry and telecommunications: a wire-based line
 wisdom noun pl=- note=uncountable
-wish noun
+wish noun vb=make|have|grant|express
 wit noun
 witch noun
 witchcraft noun pl=- note=uncountable
@@ -259,10 +260,10 @@ woodwork noun pl=- note=uncountable
 wool noun
 woolen noun gb=woollen note=mostly plural: woolens, woollens
 wop noun style=offensive note=slur for Italians
-word noun
+word noun vb=say|have|keep|give|break
 wording noun
 woreda noun conf=85 note=administrative district in Ethiopia
-work noun
+work noun vb=do|find|get|finish|have xvb=make>do?
 workaholic noun
 workaround noun
 workbook noun
@@ -277,6 +278,7 @@ workload noun
 workman noun pl=workmen
 workmanship noun pl=- note=uncountable
 workmate noun region=GB conf=90
+workout noun vb=do|have|get
 workplace noun
 workroom noun
 worksheet noun
@@ -285,7 +287,7 @@ workspace noun
 workstation noun
 worktop noun region=GB
 workweek noun conf=90 note=chiefly American
-world noun
+world noun vb=see|travel|change|save
 worm noun
 worry noun
 worship noun pl=- note=uncountable

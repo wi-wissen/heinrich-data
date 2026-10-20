@@ -1,5 +1,5 @@
 habanero noun pl=habaneros
-habit          noun
+habit          noun prep=of vb=break|form|develop
 habitat        noun
 habitation     noun
 habituation noun pl=- note=uncountable
@@ -12,6 +12,7 @@ hail           noun
 hair           noun
 hairband noun
 hairbrush noun
+haircut noun vb=get|have|give
 hairdresser noun
 hairdryer noun
 hairspray noun
@@ -82,7 +83,7 @@ hardwood noun
 hare noun
 harem noun
 harissa noun pl=- note=uncountable
-harm           noun
+harm           noun vb=do|cause
 harmonic noun
 harmonica noun
 harmonization noun gb=harmonisation|harmonization
@@ -274,7 +275,7 @@ Hispanic       noun
 historian      noun
 historiography noun
 history        noun
-hit            noun
+hit            noun vb=take|score|make
 hitch noun
 hitter noun
 HIV            noun abbr pl=- note=the virus
@@ -291,7 +292,7 @@ hold           noun
 holder         noun
 holding        noun
 hole           noun
-holiday        noun
+holiday        noun vb=take|have|spend xvb=make?
 holiness noun
 hollandaise noun pl=- note=uncountable
 hollow         noun
@@ -309,7 +310,7 @@ homeroom noun region=US
 homesickness noun pl=- note=uncountable
 homestead noun
 hometown       noun
-homework noun pl=- note=uncountable
+homework noun vb=do xvb=make pl=- note=uncountable
 homicide noun
 homogeneity noun pl=- note=uncountable
 homology noun
@@ -335,7 +336,7 @@ hooker noun
 hoop noun
 hoover noun region=GB note=vacuum cleaner, from the trademark Hoover
 hop            noun
-hope           noun
+hope           noun prep=of|for
 hopeful        noun
 hopelessness noun pl=- note=uncountable
 hopper noun
@@ -365,7 +366,7 @@ host           noun
 hostage        noun
 hostel noun
 hostess        noun
-hostility      noun
+hostility      noun prep=to|toward|towards|against|between
 hostname noun
 hotdog noun conf=80 note=usually written as two words, hot dog
 hotel          noun
@@ -384,7 +385,7 @@ housekeeping noun pl=- note=uncountable
 housemaid noun
 housemate noun
 housewife noun pl=housewives
-housework noun pl=- note=uncountable
+housework noun vb=do xvb=make pl=- note=uncountable
 housing        noun
 Houthi noun
 hovel noun
@@ -400,7 +401,7 @@ hubby noun style=colloquial alt=husband
 huckleberry noun
 hue            noun
 huff noun
-hug noun
+hug noun vb=give
 Huguenot noun
 hulk noun
 hull           noun

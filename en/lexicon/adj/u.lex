@@ -6,7 +6,7 @@ ultimate       adj adv=ultimately
 ultralight adj
 ultraviolet adj
 unabated adj
-unable         adj pred_only
+unable         adj comp=to pred_only
 unacceptable   adj
 unaccompanied adj
 unaccountable adj adv=unaccountably
@@ -36,7 +36,7 @@ unauthorized   adj gb=unauthorised|unauthorized
 unavailable    adj
 unavailing adj
 unavoidable adj adv=unavoidably
-unaware        adj pred_only
+unaware        adj comp=that|wh prep=of xprep=about? pred_only
 unbalanced adj
 unbearable adj adv=unbearably
 unbeaten adj
@@ -51,7 +51,7 @@ unbroken       adj
 uncanny adj cmp=er|more adv=uncannily
 unceasing adj adv=unceasingly
 unceremonious adj adv=unceremoniously
-uncertain      adj cmp=more
+uncertain      adj comp=wh|that prep=about|of cmp=more
 unchallenged adj
 unchanged      adj
 unchanging adj
@@ -141,7 +141,7 @@ unexplored adj
 unfailing adj adv=unfailingly
 unfair         adj cmp=more adv=unfairly
 unfaithful adj
-unfamiliar adj
+unfamiliar adj prep=with|to
 unfathomable adj
 unfavorable adj gb=unfavourable adv=unfavorably
 unfettered adj
@@ -156,7 +156,7 @@ unfulfilled adj
 unfunded adj
 ungrateful adj
 unguarded adj
-unhappy        adj cmp=er adv=unhappily
+unhappy        adj comp=to|that prep=with|about cmp=er adv=unhappily
 unharmed adj
 unhealthy adj cmp=er
 unheard adj
@@ -185,14 +185,14 @@ uninterested adj
 uninteresting adj cmp=more
 uninterrupted adj adv=uninterruptedly
 unionist       adj
-unique         adj adv=uniquely
+unique         adj prep=to adv=uniquely
 unitary        adj
 universal      adj adv=universally
 unjust         adj adv=unjustly
 unjustifiable adj adv=unjustifiably
 unjustified adj
 unkempt adj
-unkind adj cmp=er adv=unkindly
+unkind adj comp=to prep=to cmp=er adv=unkindly
 unknowing adj adv=unknowingly
 unknown        adj
 unlawful       adj adv=unlawfully
@@ -337,7 +337,7 @@ uppermost adj
 upraised adj
 upright        adj
 upscale adj
-upset          adj
+upset          adj comp=to|that prep=about|with|by|at|over
 upstairs       adj
 upstate adj
 upstream       adj
@@ -349,7 +349,8 @@ urban          adj
 urgent         adj cmp=more adv=urgently
 urinary adj
 usable adj
-useful         adj cmp=more adv=usefully
+used adj comp=to|p_ing prep=to
+useful         adj comp=to|ing|that prep=for|to cmp=more adv=usefully
 useless        adj adv=uselessly
 usual          adj adv=usually
 uterine adj

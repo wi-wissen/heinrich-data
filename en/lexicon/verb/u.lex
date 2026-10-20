@@ -17,9 +17,9 @@ underperform verb
 underpin verb prefix=under
 underscore verb
 underspend verb prefix=under past=underspent pp=underspent
-understand    verb prefix=under past=understood pp=understood
+understand    verb comp=that|wh|ing|obj_ing|obj_to prefix=under past=understood pp=understood
 understate verb prefix=under
-undertake     verb prefix=under past=undertook pp=undertaken
+undertake     verb comp=to|that prefix=under past=undertook pp=undertaken
 undervalue verb
 underwrite verb prefix=under past=underwrote pp=underwritten
 undo verb prefix=un 3sg=undoes past=undid pp=undone
@@ -51,7 +51,7 @@ unveil        verb
 unwind verb prefix=un past=unwound pp=unwound
 unzip verb prefix=un
 up verb style=colloquial alt=increase|raise note=to increase: upped the price
-update        verb
+update        verb prep=on|with
 upgrade       verb
 uphold        verb prefix=up past=upheld pp=upheld
 upholster verb
@@ -63,7 +63,7 @@ upset         verb prefix=up past=upset pp=upset
 upskill verb conf=85
 upvote verb
 urbanize verb gb=urbanise|urbanize
-urge          verb
+urge          verb comp=obj_to|that
 use           verb
 usher verb
 usurp verb

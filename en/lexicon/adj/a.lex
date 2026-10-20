@@ -4,7 +4,7 @@ abelian adj note=also Abelian
 abhorrent adj
 abject adj adv=abjectly
 ablaze adj pred_only
-able adj cmp=er|more adv=ably
+able adj comp=to cmp=er|more adv=ably
 abnormal adj cmp=more adv=abnormally
 abolitionist adj
 abominable adj adv=abominably
@@ -12,9 +12,10 @@ aboriginal adj
 abortive adj
 abrasive adj
 abrupt adj cmp=more adv=abruptly
-absent adj adv=absently
+absent adj prep=from adv=absently
 absentminded adj cmp=more adv=absentmindedly conf=90 note=also absent-minded
 absolute adj adv=absolutely
+absorbed adj comp=p_ing prep=in|by|into cmp=more
 abstract adj cmp=more adv=abstractly
 absurd adj cmp=more adv=absurdly
 abundant adj cmp=more adv=abundantly
@@ -28,24 +29,26 @@ accountable adj cmp=more
 accurate adj cmp=more adv=accurately
 accursed adj
 accusative adj
+accustomed adj comp=to|p_ing prep=to cmp=more
 achievable adj
 achy adj cmp=er
 acidic adj cmp=more
 acoustic adj adv=acoustically
+acquainted adj prep=with
 acrobatic adj adv=acrobatically
 actionable adj
-active adj cmp=more adv=actively
+active adj comp=p_ing|to prep=in|on cmp=more adv=actively
 actual adj adv=actually
 actuarial adj
 acute adj cmp=er|more adv=acutely
 adamant adj adv=adamantly
 adaptable adj cmp=more
 adaptive adj
-addicted adj
+addicted adj comp=p_ing prep=to xprep=from|on
 addictive adj cmp=more
 additional adj adv=additionally
-adept adj cmp=more adv=adeptly
-adequate adj adv=adequately
+adept adj comp=p_ing prep=at|in|with cmp=more adv=adeptly
+adequate adj comp=to prep=for|to adv=adequately
 adhesive adj
 adjacent adj
 adjudicatory adj
@@ -85,16 +88,16 @@ afloat adj pred_only
 afoot adj pred_only
 aforementioned adj attr_only
 aforesaid adj
-afraid adj pred_only cmp=more
+afraid adj comp=to|that|p_ing prep=of|for xprep=from|before? pred_only cmp=more
 African adj
 aggregate adj
-aggressive adj cmp=more adv=aggressively
+aggressive adj prep=towards|toward|to|with|in cmp=more adv=aggressively
 aggrieved adj cmp=more
 aghast adj pred_only
 agile adj cmp=more adv=agilely
 agnostic adj
 agrarian adj
-agreeable adj cmp=more adv=agreeably
+agreeable adj comp=to prep=to|with cmp=more adv=agreeably
 agricultural adj adv=agriculturally
 aimless adj adv=aimlessly
 airborne adj
@@ -102,10 +105,11 @@ airsick adj
 airy adj cmp=er adv=airily
 ajar adj pred_only
 akin adj pred_only
+alarmed adj comp=to|that prep=by|at|about cmp=more
 alarming adj cmp=more adv=alarmingly
 Albanian adj
 alcoholic adj
-alert adj adv=alertly
+alert adj prep=to adv=alertly
 algal adj
 algebraic adj
 Algerian adj
@@ -117,7 +121,7 @@ alive adj pred_only
 alkaline adj
 alleged adj attr_only adv=allegedly
 allegorical adj adv=allegorically
-allergic adj cmp=more
+allergic adj prep=to xprep=against|on cmp=more
 allosteric adj
 allowable adj
 alluvial adj
@@ -132,12 +136,12 @@ alternate adj adv=alternately
 alternative adj adv=alternatively
 alveolar adj
 amateur adj
-amazed adj cmp=more
+amazed adj comp=to|that|wh prep=at|by cmp=more
 amazing adj cmp=more adv=amazingly
 amber adj
 ambient adj
 ambiguous adj cmp=more adv=ambiguously
-ambitious adj cmp=more adv=ambitiously
+ambitious adj comp=to prep=for cmp=more adv=ambitiously
 ambulatory adj
 amenable adj
 amendatory adj
@@ -150,6 +154,7 @@ amorous adj adv=amorously
 amorphous adj
 amphibious adj
 ample adj cmp=er adv=amply
+amused adj comp=to|that prep=by|at|with cmp=more
 amusing adj cmp=more adv=amusingly
 anaerobic adj adv=anaerobically
 anal adj
@@ -166,9 +171,9 @@ anesthetic adj gb=anaesthetic
 angelic adj
 Anglican adj
 Anglo-Saxon adj
-angry adj cmp=er adv=angrily
+angry adj comp=to|that prep=with|at|about|over xprep=on? cmp=er adv=angrily
 angular adj
-annoyed adj cmp=more
+annoyed adj comp=to|that prep=with|at|by|about|over xprep=of? cmp=more
 annoying adj cmp=more adv=annoyingly
 annual adj adv=annually
 anomalous adj
@@ -192,22 +197,22 @@ antique adj
 antisemitic adj conf=90 note=anti-Semitic is the older spelling
 antisocial adj gb=antisocial|anti-social adv=antisocially conf=90 note=British texts also hyphenate
 antitrust adj
-anxious adj cmp=more adv=anxiously
+anxious adj comp=to|that|wh prep=about|for|over cmp=more adv=anxiously
 apocalyptic adj cmp=more adv=apocalyptically
 apocryphal adj
 apologetic adj cmp=more adv=apologetically
 apostolic adj
 Appalachian adj
 appalling adj cmp=more adv=appallingly
-apparent adj adv=apparently
+apparent adj comp=that|wh prep=to|from|in adv=apparently
 appealing adj cmp=more adv=appealingly
 appellate adj attr_only
 applicable adj
 appreciable adj adv=appreciably
-appreciative adj cmp=more adv=appreciatively
-apprehensive adj cmp=more
+appreciative adj prep=of cmp=more adv=appreciatively
+apprehensive adj comp=that|wh|p_ing|to prep=about|of cmp=more
 approachable adj cmp=more
-appropriate adj adv=appropriately
+appropriate adj comp=to|that prep=for|to adv=appropriately
 approvable adj
 approving adj adv=approvingly
 approximate adj adv=approximately
@@ -245,7 +250,7 @@ artless adj adv=artlessly
 arty adj cmp=er
 ascetic adj cmp=more adv=ascetically
 asexual adj adv=asexually
-ashamed adj pred_only
+ashamed adj comp=to|that|p_ing prep=of xprep=for? pred_only
 ashen adj
 Ashkenazi adj
 Asian adj
@@ -262,6 +267,7 @@ assorted adj
 assured adj adv=assuredly
 Assyrian adj
 astir adj pred_only
+astonished adj comp=to|that|wh prep=at|by cmp=more
 astonishing adj adv=astonishingly
 astronomical adj adv=astronomically
 astute adj cmp=more adv=astutely
@@ -275,9 +281,10 @@ atmospheric adj
 atomic adj
 atrial adj
 atrocious adj adv=atrociously
+attached adj prep=to cmp=more
 attainable adj
-attentive adj cmp=more adv=attentively
-attractive adj cmp=more adv=attractively
+attentive adj prep=to cmp=more adv=attentively
+attractive adj prep=to cmp=more adv=attractively
 attributable adj
 atypical adj
 auburn adj
@@ -305,19 +312,19 @@ autonomous adj adv=autonomously
 autosomal adj
 autumnal adj
 auxiliary adj
-available adj
+available adj comp=to prep=to|for|from|in|on|at
 avant-garde adj
 avaricious adj cmp=more adv=avariciously
 average adj
-averse adj pred_only
+averse adj comp=p_ing prep=to pred_only
 avian adj
 avid adj cmp=more adv=avidly
 avoidable adj
 avowed adj
 awake adj pred_only
-aware adj cmp=more
+aware adj comp=that|wh prep=of xprep=about? cmp=more
 awesome adj cmp=more
-awful adj cmp=more adv=awfully
+awful adj comp=to|that|ing prep=at|to|about cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
 awry adj pred_only
 axial adj

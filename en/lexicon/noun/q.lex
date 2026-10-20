@@ -16,7 +16,7 @@ quantity      noun
 quantum       noun pl=quanta
 quarantine noun
 quark noun
-quarrel       noun
+quarrel       noun prep=with|about|over|between
 quarry        noun
 quart noun
 quarter       noun
@@ -29,14 +29,14 @@ quartz noun
 quay noun
 queen         noun
 queer         noun
-query         noun
+query         noun vb=raise|have|answer|put
 quesadilla noun
-quest         noun
-question      noun
+quest         noun prep=for
+question      noun prep=about|of|on|for vb=ask|answer|put|raise|pose xvb=make>ask?
 questioner noun
 questioning   noun
 questionnaire noun
-queue noun
+queue noun vb=join|form|jump
 quiche noun
 quickness noun pl=- note=uncountable
 quid noun pl=quid|quids note=quid (money) has plural quid, quids for tobacco

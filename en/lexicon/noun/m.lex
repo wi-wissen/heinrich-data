@@ -146,7 +146,7 @@ marinade noun
 marine         noun
 mariner noun
 marjoram noun pl=- note=uncountable
-mark           noun
+mark           noun vb=make|leave|get
 markdown noun
 marker         noun
 market         noun
@@ -161,7 +161,7 @@ marmalade noun pl=- note=uncountable
 marque noun
 marquess noun
 marquis        noun pl=marquises|marquis
-marriage       noun
+marriage       noun prep=to|with|between
 marrow noun
 marsh          noun
 marshal        noun
@@ -188,7 +188,7 @@ mast           noun
 master         noun
 masterclass noun
 masterpiece noun
-mastery noun pl=- note=uncountable
+mastery noun prep=of|over pl=- note=uncountable
 masthead noun
 mastiff noun pl=mastiffs
 mat noun
@@ -228,7 +228,7 @@ MBE noun abbr note=Member of the Order of the British Empire
 MCAI           noun abbr conf=80 note=mandatory continuing airworthiness information (aviation)
 mead noun
 meadow         noun
-meal           noun
+meal           noun vb=have|eat|make|cook
 mealtime noun
 mean           noun
 meander noun
@@ -237,7 +237,7 @@ meanness noun
 means          noun pl=means
 meantime       noun pl=- note=only singular (in the meantime)
 measles noun pl=- note=uncountable; takes a singular verb
-measure        noun
+measure        noun vb=take
 measurement    noun
 meat           noun
 meatball noun
@@ -260,7 +260,7 @@ meekness noun pl=- note=uncountable
 meerkat noun
 meet           noun
 meet-up noun
-meeting        noun
+meeting        noun vb=have|hold|attend|call
 meetup noun
 megabyte noun
 megahertz noun pl=megahertz
@@ -309,8 +309,8 @@ merriment noun pl=- note=uncountable
 mesa noun
 mesclun noun pl=- note=uncountable
 mesh noun
-mess           noun
-message        noun
+mess           noun vb=make
+message        noun vb=send|leave|get|take
 messenger      noun
 meta-analysis noun pl=meta-analyses
 metabolism noun
@@ -328,7 +328,7 @@ meter          noun sense=device
 methamphetamine noun pl=- note=uncountable
 methane        noun pl=- note=uncountable
 methanol noun pl=- note=uncountable
-method         noun
+method         noun prep=of|for
 Methodist      noun
 methodology    noun
 methyl noun
@@ -454,7 +454,7 @@ missionary     noun
 missus noun style=colloquial alt=wife|Mrs
 missy noun style=colloquial
 mist           noun
-mistake        noun
+mistake        noun vb=make xvb=do
 mister         noun
 mistreatment noun pl=- note=uncountable
 mistress       noun
@@ -518,7 +518,7 @@ monarch        noun pl=monarchs
 monarchy       noun
 monastery      noun
 monetization noun gb=monetisation|monetization
-money          noun pl=moneys|monies
+money          noun vb=make|earn|spend|save pl=moneys|monies
 moneybox noun region=GB
 moneylender noun
 Mongol noun
@@ -534,7 +534,7 @@ monologue noun
 monopile noun
 monoplane      noun
 monopole noun
-monopoly       noun
+monopoly       noun prep=on|of|in
 monotone noun
 monotony noun pl=- note=uncountable
 monoxide noun
@@ -574,7 +574,7 @@ mortadella noun note=countable for a whole sausage, also a mass noun
 mortal         noun
 mortality      noun
 mortar noun
-mortgage       noun
+mortgage       noun prep=on
 mortgagee noun
 mortgagor noun
 mortification noun
@@ -592,7 +592,7 @@ motherhood noun pl=- note=uncountable
 motif noun note=plural motifs
 motion         noun
 motivation     noun
-motive         noun
+motive         noun prep=for
 motley noun
 motor          noun
 motorbike noun
@@ -617,7 +617,7 @@ mouth          noun
 mouthful noun
 mouthpiece noun
 mouthwash noun
-move           noun
+move           noun vb=make
 movement       noun
 mover noun
 movie          noun

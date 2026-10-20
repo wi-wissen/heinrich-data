@@ -10,7 +10,7 @@ abduction noun
 aberration noun
 abeyance noun pl=- note=uncountable
 abhorrence noun pl=- note=uncountable
-ability noun
+ability noun prep=in
 abnormality noun
 abode noun
 abolition noun
@@ -46,7 +46,7 @@ accelerator noun
 accent noun
 acceptability noun pl=- note=uncountable
 acceptance noun
-access noun
+access noun prep=to xprep=on?
 accessibility noun pl=- note=uncountable
 accession noun
 accessory noun
@@ -60,7 +60,7 @@ accomplishment noun
 accord noun
 accordance noun pl=- note=uncountable: in accordance with
 accordion noun
-account noun
+account noun vb=open|close|give|create|settle
 accountability noun pl=- note=uncountable
 accountancy noun pl=- note=uncountable
 accountant noun
@@ -71,7 +71,7 @@ accretion noun
 accrual noun
 accumulation noun
 accuracy noun
-accusation noun
+accusation noun prep=against|of
 accusative noun
 ace noun
 acetate noun
@@ -114,7 +114,7 @@ adaptation noun
 adapter noun note=also spelled adaptor
 add-on noun conf=90
 addendum noun pl=addenda|addendums
-addiction noun
+addiction noun prep=to xprep=on?
 addition noun
 additive noun
 address noun
@@ -140,10 +140,10 @@ administration noun
 administrator noun
 admiral noun
 admiralty noun
-admiration noun pl=- note=uncountable
+admiration noun prep=for|of pl=- note=uncountable
 admirer noun
 admissibility noun pl=- note=uncountable
-admission noun
+admission noun prep=to|into|of
 admittance noun pl=- note=uncountable
 admixture noun
 admonition noun
@@ -160,7 +160,7 @@ adultery noun pl=- note=uncountable
 adulthood noun pl=- note=uncountable
 advance noun
 advancement noun
-advantage noun
+advantage noun prep=over|of|to|in vb=take|have|gain|give|enjoy
 advent noun
 adventure noun
 adventurer noun
@@ -170,12 +170,12 @@ advert noun region=GB note=advertisement
 advertisement noun
 advertiser noun
 advertising noun pl=- note=uncountable
-advice noun pl=- note=uncountable
+advice noun prep=on|about vb=give|take|follow|ask_for|seek|get pl=- note=uncountable
 adviser noun note=also spelled advisor
 advisor noun note=also spelled adviser
 advisory noun
 advocacy noun
-advocate noun
+advocate noun prep=of|for
 adware noun pl=- note=uncountable
 aerial noun
 aerodrome noun
@@ -186,11 +186,11 @@ aerospace noun pl=- note=uncountable
 aesthetic noun us=esthetic|aesthetic conf=90 note=esthetic is a rarer American spelling
 affair noun
 affectation noun
-affection noun
+affection noun prep=for|towards|toward
 affidavit noun
 affiliate noun
 affiliation noun
-affinity noun
+affinity noun prep=with|for|between|to
 affirmation noun
 affix noun
 affliction noun
@@ -224,11 +224,11 @@ agony noun
 agreement noun
 agriculture noun pl=- note=uncountable
 AI noun abbr note=artificial intelligence
-aid noun
+aid noun prep=to|for
 aide noun
 AIDS noun abbr pl=- note=the disease
 ailment noun
-aim noun
+aim noun vb=achieve|pursue|have|reach|take xvb=follow>pursue?
 aioli noun pl=- note=uncountable
 air noun
 aircon noun pl=- region=GB conf=90 note=uncountable; air conditioning
@@ -257,7 +257,7 @@ aisle noun
 akvavit noun conf=90 note=countable for a glass or a variety, also a mass noun; also aquavit
 alabaster noun pl=- note=uncountable
 alacrity noun pl=- note=uncountable
-alarm noun
+alarm noun vb=raise|sound|set|trigger|turn_off|switch_off
 Albanian noun
 album noun
 alcalde noun conf=85 note=Spanish and historical: mayor, magistrate
@@ -275,7 +275,7 @@ algebra noun
 Algerian noun
 algorithm noun
 alias noun
-alibi noun
+alibi noun vb=have|provide|give|establish|check
 alien noun
 alienation noun
 alignment noun
@@ -285,10 +285,10 @@ allegation noun
 allegiance noun
 allegory noun
 allele noun
-allergy noun
+allergy noun prep=to xprep=against|on?
 alleviation noun pl=- note=uncountable
 alley noun
-alliance noun
+alliance noun prep=with|between|against
 alligator noun
 allocation noun
 allotment noun
@@ -307,7 +307,7 @@ alteration noun
 altercation noun
 alternate noun
 alternation noun
-alternative noun
+alternative noun prep=to|for
 altitude noun
 alto noun pl=altos
 alumina noun pl=- note=uncountable
@@ -327,6 +327,7 @@ ambition noun
 ambulance noun
 ambush noun
 amendment noun
+amends noun vb=make pl_only
 amenity noun
 American noun
 Americana noun pl=- note=uncountable
@@ -351,7 +352,7 @@ amplitude noun
 amusement noun
 amygdala noun pl=amygdalae|amygdalas
 analogue noun us=analog|analogue conf=90 note=analog is American only; analogue is used in both (chemistry, biology)
-analogy noun
+analogy noun prep=with|to|between
 analysis noun pl=analyses
 analyst noun
 analytics noun pl_only conf=90 note=construed as singular or plural
@@ -373,7 +374,7 @@ anemia noun gb=anaemia pl=- note=uncountable
 anesthesia noun gb=anaesthesia pl=- note=uncountable
 anesthetic noun gb=anaesthetic
 angel noun
-anger noun pl=- note=uncountable
+anger noun prep=at|about|over|with|toward|towards|against pl=- note=uncountable
 angina noun pl=- note=uncountable
 angle noun
 angler noun
@@ -393,7 +394,7 @@ annexation noun
 annihilation noun
 anniversary noun
 annotation noun
-announcement noun
+announcement noun vb=make|issue
 announcer noun
 annoyance noun
 annual noun
@@ -405,7 +406,7 @@ anonymity noun pl=- note=uncountable
 anonymization noun gb=anonymisation|anonymization
 anorak noun
 anorexia noun pl=- note=uncountable
-answer noun
+answer noun prep=to vb=give|get|know|find|have|receive
 ant noun
 antagonism noun
 antagonist noun
@@ -439,7 +440,7 @@ antivirus noun
 antler noun
 anus noun
 anvil noun
-anxiety noun
+anxiety noun prep=about|over|for
 Apache noun pl=Apache|Apaches conf=90 note=Native American people
 apartheid noun pl=- note=uncountable
 apartment noun
@@ -450,49 +451,49 @@ aperture noun
 apex noun pl=apexes|apices
 API noun abbr note=application programming interface
 apocalypse noun
-apology noun
+apology noun prep=for|to vb=make|offer|owe|accept|give
 apostle noun
 apothecary noun
 app noun
 apparatus noun pl=apparatus|apparatuses
 apparel noun pl=- note=uncountable
 apparition noun
-appeal noun
+appeal noun vb=make|launch|lodge|file|hear|reject|dismiss|win|lose
 appearance noun
 appellant noun
 appellation noun
 appendage noun
 appendicitis noun pl=- note=uncountable
 appendix noun pl=appendices|appendixes
-appetite noun
+appetite noun prep=for xprep=on?
 appetizer noun gb=appetiser|appetizer
-applause noun pl=- note=uncountable
+applause noun vb=receive|get|win|draw|give pl=- note=uncountable
 apple noun
 applet noun
 appliance noun
 applicability noun pl=- note=uncountable
 applicant noun
-application noun
+application noun prep=for|to|of
 appointee noun
-appointment noun
+appointment noun vb=make|have|book|cancel|keep|miss|schedule|arrange
 apportionment noun
 appraisal noun
 appraiser noun
-appreciation noun
+appreciation noun prep=of|for
 apprehension noun
 apprentice noun
 apprenticeship noun
-approach noun
+approach noun prep=to
 approbation noun pl=- note=uncountable
 appropriateness noun pl=- note=uncountable
 appropriation noun
-approval noun
+approval noun prep=of|for
 approver noun
 approximation noun
 apricot noun
 apron noun
 apse noun
-aptitude noun
+aptitude noun prep=for|in
 aquaculture noun pl=- note=uncountable
 aquarium noun pl=aquariums|aquaria
 aquavit noun conf=90 note=countable for a glass or a variety, also a mass noun; also akvavit
@@ -532,7 +533,7 @@ arena noun
 argent noun conf=90 note=heraldry: silver; also poetic adjective
 Argentine noun
 argon noun pl=- note=uncountable
-argument noun
+argument noun prep=about|over|with|for|against|between vb=have|win|lose|make|present|settle|put_forward
 aristocracy noun
 aristocrat noun
 arithmetic noun pl=- note=uncountable
@@ -552,13 +553,13 @@ army noun
 aroma noun
 aromatic noun
 arraignment noun
-arrangement noun
+arrangement noun vb=make|have xvb=meet>make?
 arranger noun
 arras noun conf=85 note=a tapestry wall hanging; the French town Arras is covered by case folding
 array noun
 arrears noun pl_only
-arrest noun
-arrival noun
+arrest noun vb=make
+arrival noun prep=at|in|of
 arrogance noun pl=- note=uncountable
 arrow noun
 arroyo noun conf=90 note=US Southwest: a dry creek bed; mostly a place or family name in the corpus
@@ -599,7 +600,7 @@ ass noun
 assailant noun
 assassin noun
 assassination noun
-assault noun
+assault noun prep=on|upon|against
 assay noun
 assemblage noun
 assembly noun
@@ -617,7 +618,7 @@ assistant noun
 associate noun
 association noun
 assortment noun
-assumption noun
+assumption noun vb=make|challenge|question|share xvb=meet>make?
 assurance noun
 Assyrian noun
 asterisk noun
@@ -645,21 +646,21 @@ atrium noun pl=atria|atriums
 atrocity noun
 atrophy noun
 attachment noun
-attack noun
+attack noun prep=on|upon|against vb=launch|make|carry_out|mount|stage|repel
 attacker noun
 attainment noun
-attempt noun
+attempt noun prep=at|on vb=make xvb=do?
 attendance noun
 attendant noun
 attendee noun
-attention noun
+attention noun prep=to vb=pay|draw|attract|get|give|focus|need
 attenuation noun
 attestation noun
 attic noun
 attire noun pl=- note=uncountable
-attitude noun
+attitude noun prep=to|toward|towards
 attorney noun
-attraction noun
+attraction noun prep=to|for|of
 attractiveness noun pl=- note=uncountable
 attribute noun
 attribution noun
@@ -689,7 +690,7 @@ authenticator noun
 authenticity noun pl=- note=uncountable
 author noun
 authoritarian noun
-authority noun
+authority noun prep=over|on|to|for|of
 authorization noun gb=authorisation|authorization
 authorship noun
 autism noun pl=- note=uncountable
@@ -716,7 +717,7 @@ avatar noun
 avenger noun
 avenue noun
 average noun
-aversion noun
+aversion noun prep=to|toward|towards xprep=against?
 aviation noun pl=- note=uncountable
 aviator noun
 avionics noun pl=- note=uncountable
@@ -725,7 +726,7 @@ avoidance noun pl=- note=uncountable
 avowal noun
 award noun
 awardee noun
-awareness noun pl=- note=uncountable
+awareness noun prep=of|about pl=- note=uncountable
 awe noun pl=- note=uncountable
 awkwardness noun
 awning noun

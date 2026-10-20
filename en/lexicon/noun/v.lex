@@ -1,5 +1,5 @@
 vacancy       noun
-vacation      noun
+vacation      noun vb=take|have|spend|book|need xvb=make>take?
 vaccination   noun
 vaccine       noun
 vacuum        noun
@@ -119,13 +119,13 @@ vicissitude noun
 victim        noun
 victor        noun
 Victorian     noun
-victory       noun
+victory       noun prep=over|against|in|for
 victual noun
 video         noun
 videoconference noun
 videoconferencing noun pl=- note=uncountable
 Vietnamese    noun pl=Vietnamese
-view          noun
+view          noun prep=of|on|about
 viewer        noun
 viewership noun
 viewpoint noun
@@ -168,7 +168,7 @@ viscount      noun
 visibility    noun
 vision        noun
 visionary noun
-visit         noun
+visit         noun prep=to|from vb=pay|make
 visitation noun
 visitor       noun
 vista         noun
@@ -207,10 +207,10 @@ volunteer     noun
 vomit noun pl=- note=uncountable
 VOR           noun abbr conf=80 note=VHF omnidirectional range (aviation beacon)
 vortex noun pl=vortices|vortexes
-vote          noun
+vote          noun prep=for|against|on|of vb=cast|take|have|hold|win|get
 voter         noun
 voucher       noun
-vow           noun
+vow           noun vb=make|take|keep|break
 vowel         noun
 voyage        noun
 voyageur noun

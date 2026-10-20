@@ -12,14 +12,14 @@ jewel verb
 jig verb
 jingle verb
 jog verb
-join           verb
-joke           verb
+join           verb xprep=with?
+joke           verb comp=that prep=about|with
 jot verb
 journey        verb
 judge          verb
 juggle verb
 julienne verb
 jumble verb
-jump           verb
-justify        verb
+jump           verb prep=at|to|on|into|over
+justify        verb comp=ing|obj_ing|wh prep=to
 jut verb

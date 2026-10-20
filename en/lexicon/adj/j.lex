@@ -3,7 +3,7 @@ jaded adj cmp=more
 jagged adj cmp=more
 Jamaican adj
 Japanese       adj
-jealous        adj cmp=more adv=jealously
+jealous        adj comp=that prep=of|about xprep=on|to? cmp=more adv=jealously
 Jewish         adj
 joint          adj attr_only adv=jointly
 jolly          adj cmp=er

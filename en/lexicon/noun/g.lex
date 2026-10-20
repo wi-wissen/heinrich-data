@@ -3,7 +3,7 @@ gadget noun
 Gaelic         noun pl=- note=the language
 gag noun
 gaiety noun
-gain           noun
+gain           noun vb=make
 gait noun
 gal noun style=colloquial alt=woman|girl
 gala noun
@@ -119,14 +119,14 @@ gerbil noun
 germ noun
 German         noun note=demonym, plural Germans (not -men)
 gestation noun
-gesture        noun
+gesture        noun vb=make xvb=do?
 ghee noun pl=- note=uncountable
 ghetto noun pl=ghettos|ghettoes
 ghost          noun
 GI             noun abbr note=US soldier
 giant          noun
 GIF noun abbr note=graphics interchange format; an animated image
-gift           noun
+gift           noun vb=give|bring|buy
 gig            noun
 gigabit noun
 gigabyte noun
@@ -152,7 +152,7 @@ glacier noun
 glade noun
 gladness noun pl=- note=uncountable
 glamour noun pl=- us=glamour|glamor note=uncountable
-glance         noun
+glance         noun vb=take|cast|throw|give
 gland noun
 glare          noun
 glass          noun
@@ -178,7 +178,7 @@ glucose noun pl=- note=uncountable
 glue noun
 gnocchi noun pl=- note=already plural in Italian; used as a mass noun
 go             noun pl=goes note=an attempt, have a go
-goal           noun
+goal           noun vb=score|set|reach|achieve
 goalie noun
 goalkeeper     noun
 goalscorer noun
@@ -239,7 +239,7 @@ grace          noun
 graciousness noun pl=- note=uncountable
 grad noun
 gradation noun
-grade          noun
+grade          noun vb=get|give|receive
 gradient noun
 graduate       noun
 graduation     noun
@@ -291,7 +291,7 @@ grater noun
 gratification noun
 gratin noun
 grating noun
-gratitude      noun pl=- note=uncountable
+gratitude      noun prep=for|to|toward|towards pl=- note=uncountable
 gratuity noun
 grave          noun
 gravel         noun
@@ -352,12 +352,12 @@ grower noun
 growl          noun
 growth         noun
 grub noun
-grudge noun
+grudge noun prep=against
 gruyere noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyère
 gruyère noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also written gruyere
 guacamole noun pl=- note=uncountable
 guano noun pl=- note=uncountable
-guarantee      noun
+guarantee      noun prep=of|against|on|for vb=give|offer|provide
 guarantor noun
 guaranty noun
 guard          noun
@@ -366,10 +366,10 @@ guardianship noun
 guava noun
 guerilla noun conf=90 note=variant spelling of guerrilla
 guerrilla noun
-guess          noun
+guess          noun vb=make|take|have
 guest          noun
 guidance       noun pl=- note=uncountable
-guide          noun
+guide          noun prep=to|for
 guideline      noun
 guild          noun
 guile noun pl=- note=uncountable

@@ -9,7 +9,7 @@ yap noun
 yard noun
 yarn noun
 yaw noun
-yawn noun
+yawn noun vb=give|stifle|suppress
 year noun
 year-old noun note=a five-year-old
 yearbook noun

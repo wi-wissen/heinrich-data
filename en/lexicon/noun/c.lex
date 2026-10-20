@@ -20,7 +20,7 @@ caffeine noun pl=- note=uncountable
 café noun conf=90 note=also written cafe
 cage noun
 cairn noun
-cake noun
+cake noun vb=bake|make|eat|cut
 calamari noun pl=- note=used as a mass noun
 calamity noun
 calcium noun pl=- note=uncountable
@@ -34,7 +34,7 @@ calibration noun
 calico noun pl=calicoes|calicos
 caliph noun
 caliphate noun
-call noun
+call noun vb=make|take|get|answer|return|give xvb=do?
 callback noun
 caller noun
 calligraphy noun pl=- note=uncountable
@@ -55,9 +55,10 @@ cameo noun
 camera noun
 camouflage noun
 camp noun
-campaign noun
+campaign noun prep=for|against|to
 campaigner noun
 camper noun
+campfire noun vb=make|build|light
 campground noun
 camping noun pl=- note=uncountable
 campsite noun
@@ -107,7 +108,7 @@ cap noun
 capability noun
 capacitance noun pl=- note=uncountable
 capacitor noun
-capacity noun
+capacity noun prep=for|of
 cape noun
 capillary noun
 capital noun
@@ -146,8 +147,8 @@ card noun
 cardboard noun pl=- note=uncountable
 cardigan noun
 cardinal noun
-care noun
-career noun
+care noun vb=take|need|give|provide
+career noun vb=make|pursue|start|have|build|launch
 caregiver noun note=British carer
 carelessness noun pl=- note=uncountable
 carer noun region=GB note=American caregiver
@@ -245,7 +246,7 @@ cauliflower noun
 caulk noun pl=- note=uncountable
 causality noun
 causation noun pl=- note=uncountable
-cause noun
+cause noun prep=of|for
 causeway noun
 caution noun
 cautiousness noun pl=- note=uncountable
@@ -331,13 +332,13 @@ champ noun
 champagne noun
 champion noun
 championship noun
-chance noun
+chance noun prep=of|for vb=have|get|take|give|miss|stand|seize
 chancel noun
 chancellor noun
 chancery noun
 chandelier noun
 chandler noun
-change noun
+change noun prep=in|of|to|from vb=make|undergo|notice|need|bring_about xvb=do?
 changer noun
 channel noun
 chant noun
@@ -358,7 +359,7 @@ charcoal noun pl=- note=uncountable
 charcuterie noun pl=- note=uncountable
 chard noun pl=- note=uncountable
 chardonnay noun
-charge noun
+charge noun prep=for|of|against|on vb=bring|press|face|deny|drop|make|levy|pay|take
 chargeback noun
 chargepoint noun region=GB conf=90 note=charging station for electric vehicles; also written charge point
 charger noun
@@ -377,8 +378,8 @@ chateau noun pl=chateaux|chateaus conf=90 note=also written château
 chatter noun
 chauffeur noun
 cheat noun
-check noun sense=inspection
-check noun gb=cheque sense=payment note=bank cheque; American check
+check noun prep=on|for|of sense=inspection
+check noun prep=on|for|of gb=cheque sense=payment note=bank cheque; American check
 checkbook noun conf=90 note=chiefly American; British chequebook
 checkbox noun
 checkers noun pl_only region=US note=the board game; British draughts
@@ -452,7 +453,7 @@ chlorine noun pl=- note=uncountable
 chloroform noun pl=- note=uncountable
 chocolate noun
 Choctaw noun pl=Choctaw|Choctaws
-choice noun
+choice noun prep=of|between vb=make|have|give|offer|face xvb=meet>make?
 choir noun
 choke noun
 cholera noun pl=- note=uncountable
@@ -521,7 +522,7 @@ civilization noun gb=civilisation|civilization
 cladding noun pl=- note=uncountable
 clade noun
 clafoutis noun pl=clafoutis
-claim noun
+claim noun prep=to|for|on|of|against vb=make|file|lodge|submit|reject|deny|support|stake
 claimant noun
 clam noun
 clamor noun gb=clamour
@@ -536,7 +537,7 @@ clarion noun
 clarity noun pl=- note=uncountable
 clash noun
 clasp noun
-class noun
+class noun vb=attend|take|teach xvb=visit>attend?
 classic noun
 classification noun
 classmate noun
@@ -603,7 +604,7 @@ clown noun
 clozapine noun pl=- note=uncountable
 club noun
 clubhouse noun
-clue noun
+clue noun prep=to|about|for|of
 clump noun
 cluster noun
 clutch noun
@@ -649,7 +650,7 @@ coding noun
 coefficient noun
 coercion noun pl=- note=uncountable
 coexistence noun pl=- note=uncountable
-coffee noun
+coffee noun vb=drink|have|make|brew|pour|order xvb=cook>make
 coffer noun
 coffin noun
 cofounder noun conf=85 note=also co-founder
@@ -690,7 +691,7 @@ college noun
 collie noun
 collier noun
 colliery noun
-collision noun
+collision noun prep=with|between
 collusion noun pl=- note=uncountable
 cologne noun
 Colombian noun
@@ -733,8 +734,8 @@ commando noun pl=commandos|commandoes
 commemoration noun
 commencement noun
 commendation noun
-comment noun
-commentary noun
+comment noun prep=on|about vb=make|have|leave|post|add|receive
+commentary noun prep=on
 commentator noun
 commenter noun
 commerce noun pl=- note=uncountable
@@ -743,7 +744,7 @@ commercialization noun gb=commercialisation|commercialization
 commissary noun
 commission noun
 commissioner noun
-commitment noun
+commitment noun prep=to vb=make|show|have|honor|keep|fulfill
 committal noun
 committee noun
 commodity noun
@@ -770,33 +771,33 @@ company noun
 comparability noun pl=- note=uncountable
 comparative noun
 compare noun note=beyond compare
-comparison noun
+comparison noun prep=with|to|between|of vb=make|draw xvb=pull>draw
 compartment noun
 compass noun
 compassion noun pl=- note=uncountable
 compatibility noun
 compatriot noun
-compensation noun
+compensation noun prep=for
 competence noun
 competency noun
-competition noun
+competition noun prep=for|with|between|among|from
 competitiveness noun pl=- note=uncountable
 competitor noun
 compilation noun
 compiler noun
 complacency noun pl=- note=uncountable
 complainant noun
-complaint noun
+complaint noun prep=about|against|of vb=make|file|lodge|receive|have|investigate
 complement noun
 completeness noun pl=- note=uncountable
 completion noun
 complex noun
 complexion noun
 complexity noun
-compliance noun pl=- note=uncountable
+compliance noun prep=with pl=- note=uncountable
 complication noun
 complicity noun pl=- note=uncountable
-compliment noun
+compliment noun vb=pay|give|receive|take|return xvb=make>pay?
 component noun
 composer noun
 composite noun
@@ -810,7 +811,7 @@ comprehensive noun note=comprehensive school (GB)
 compress noun
 compression noun
 compressor noun
-compromise noun
+compromise noun vb=reach|find|make|accept|offer xvb=close>reach
 comptroller noun
 compulsion noun
 compunction noun
@@ -826,10 +827,10 @@ concentrate noun
 concentration noun
 concept noun
 conception noun
-concern noun
+concern noun prep=about|for|over|with|at
 concert noun
 concerto noun pl=concertos|concerti
-concession noun
+concession noun prep=to|on
 conch noun pl=conchs|conches
 concierge noun
 conciliation noun
@@ -850,7 +851,7 @@ condiment noun
 condition noun
 conditioner noun
 conditioning noun pl=- note=uncountable
-condolence noun
+condolence noun prep=on|to|for
 condominium noun
 condor noun
 conduct noun
@@ -870,7 +871,7 @@ confession noun
 confessional noun
 confessor noun
 confidant noun
-confidence noun
+confidence noun prep=in xprep=into?
 confidentiality noun pl=- note=uncountable
 config noun conf=90 note=short for configuration
 configuration noun
@@ -879,7 +880,7 @@ confirmation noun
 confiscation noun
 confit noun
 conflagration noun
-conflict noun
+conflict noun prep=with|between|over|of
 confluence noun
 conformance noun pl=- note=uncountable
 conformation noun
@@ -889,7 +890,7 @@ confusion noun
 congee noun pl=- note=uncountable
 congestion noun pl=- note=uncountable
 conglomerate noun
-congratulation noun
+congratulation noun prep=on|to xprep=for?
 congregation noun
 congress noun
 congressman noun pl=congressmen
@@ -897,7 +898,7 @@ conifer noun
 conjecture noun
 conjugation noun
 conjunction noun
-connection noun
+connection noun prep=with|between|to vb=make|establish|have|see|lose
 connective noun
 connectivity noun pl=- note=uncountable
 connector noun
@@ -913,8 +914,8 @@ conscript noun
 conscription noun pl=- note=uncountable
 consecration noun
 consensus noun
-consent noun
-consequence noun
+consent noun prep=to|for
+consequence noun prep=of|for
 conservation noun
 conservatism noun pl=- note=uncountable
 conservative noun
@@ -958,7 +959,7 @@ consultee noun
 consumer noun
 consummation noun
 consumption noun pl=- note=uncountable
-contact noun
+contact noun prep=with|between xprep=to? vb=make|have|keep|maintain|lose|establish xvb=take>make?
 contagion noun
 container noun
 containment noun pl=- note=uncountable
@@ -966,7 +967,7 @@ contaminant noun
 contamination noun
 contemplation noun
 contemporary noun
-contempt noun pl=- note=uncountable
+contempt noun prep=for|of pl=- note=uncountable
 contender noun
 content noun
 contention noun
@@ -985,18 +986,18 @@ contour noun
 contraband noun pl=- note=uncountable
 contraception noun pl=- note=uncountable
 contraceptive noun
-contract noun
+contract noun vb=sign|make|have|win|break|cancel|terminate|negotiate xvb=close?
 contraction noun
 contractor noun
 contradiction noun
 contrary noun
-contrast noun
+contrast noun prep=with|to|between
 contravention noun
-contribution noun
+contribution noun prep=to|toward|towards vb=make
 contributor noun
 contrition noun pl=- note=uncountable
 contrivance noun
-control noun
+control noun prep=over|of|on
 controller noun
 controversy noun
 conurbation noun
@@ -1007,7 +1008,7 @@ convenience noun
 convent noun
 convention noun
 convergence noun
-conversation noun
+conversation noun vb=have|hold|start|make|strike_up|carry_on
 converse noun
 conversion noun
 convert noun
@@ -1047,7 +1048,7 @@ copper noun
 coppersmith noun
 copra noun pl=- note=uncountable
 copse noun
-copy noun
+copy noun vb=make|have|get|keep|send
 copying noun pl=- note=uncountable
 copyright noun
 copywriter noun
@@ -1093,7 +1094,7 @@ correction noun
 corrective noun
 correctness noun pl=- note=uncountable
 correlation noun
-correspondence noun
+correspondence noun prep=with|between|to
 correspondent noun
 corridor noun
 corrosion noun pl=- note=uncountable
@@ -1107,7 +1108,7 @@ cosmetic noun
 cosmology noun
 cosmopolitan noun
 cosmos noun pl=- conf=90 note=the universe; the flower has plural cosmos
-cost noun
+cost noun prep=of|to
 costume noun
 cot noun
 cottage noun
@@ -1152,7 +1153,7 @@ coupon noun
 courage noun pl=- note=uncountable
 courgette noun region=GB note=US zucchini
 courier noun
-course noun
+course noun vb=take|do|attend|complete|teach|run|follow|pass xvb=visit>attend?|make>take?
 coursework noun pl=- note=uncountable
 court noun
 courtesy noun
@@ -1203,7 +1204,7 @@ crash noun
 crate noun
 crater noun
 cravat noun
-craving noun
+craving noun prep=for
 crawfish noun pl=crawfish|crawfishes region=US
 crawl noun
 crayfish noun pl=crayfish|crayfishes
@@ -1221,7 +1222,7 @@ creature noun
 credence noun pl=- note=uncountable
 credential noun
 credibility noun pl=- note=uncountable
-credit noun
+credit noun prep=for|to
 creditor noun
 creditworthiness noun pl=- note=uncountable
 credulity noun pl=- note=uncountable
@@ -1239,7 +1240,7 @@ crewmember noun
 crib noun
 cricket noun
 cricketer noun
-crime noun
+crime noun prep=against vb=commit xvb=make?
 criminal noun
 criminality noun pl=- note=uncountable
 crimson noun
@@ -1249,7 +1250,7 @@ crispbread noun
 criterion noun pl=criteria
 critic noun
 criticality noun
-criticism noun
+criticism noun prep=of
 critique noun
 croak noun
 Croat noun
@@ -1292,7 +1293,7 @@ crush noun
 crust noun
 crustacean noun
 crutch noun
-cry noun
+cry noun vb=give|let_out|hear
 crybaby noun
 crypt noun
 crypto noun note=cryptocurrency
@@ -1339,9 +1340,9 @@ curator noun
 curb noun
 curb noun gb=kerb sense=edge conf=90 note=edge of the pavement; British kerb
 curb noun sense=restraint
-cure noun
+cure noun prep=for xprep=against?
 curfew noun
-curiosity noun
+curiosity noun prep=about
 curl noun
 curler noun
 currency noun
@@ -1365,7 +1366,7 @@ custody noun pl=- note=uncountable
 custom noun
 customer noun
 customization noun gb=customisation|customization
-cut noun
+cut noun prep=in|to|on
 cutback noun
 cutlery noun pl=- note=uncountable
 cutoff noun

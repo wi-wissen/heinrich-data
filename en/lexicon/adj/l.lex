@@ -10,7 +10,7 @@ large         adj cmp=er adv=largely
 largemouth adj conf=85 note=as in largemouth bass
 larval adj
 lasting       adj
-late          adj cmp=er
+late          adj prep=for|to|with cmp=er
 latent adj
 lateral       adj adv=laterally
 Latin         adj note=capitalized: language and culture
@@ -55,7 +55,7 @@ level         adj cmp=more
 lexical adj adv=lexically
 LGBT          adj abbr note=lesbian, gay, bisexual and transgender
 LGBTQ         adj abbr note=lesbian, gay, bisexual, transgender and queer
-liable        adj pred_only
+liable        adj comp=to prep=for|to pred_only
 liberal       adj adv=liberally
 libertarian adj
 Libyan        adj
@@ -66,8 +66,8 @@ lifelong      adj attr_only
 lifesaving adj
 light         adj cmp=er adv=lightly
 lightweight adj
-likely        adj cmp=er|more
-limited       adj
+likely        adj comp=to|that cmp=er|more
+limited       adj comp=p_ing|to prep=to|by|in
 limitless adj adv=limitlessly
 limp adj cmp=er
 lineal        adj
@@ -117,10 +117,10 @@ loving        adj adv=lovingly
 low           adj cmp=er
 lowercase adj
 lowly adj cmp=er
-loyal         adj cmp=more adv=loyally
+loyal         adj prep=to|towards|toward cmp=more adv=loyally
 lucid adj cmp=more adv=lucidly
 luckless adj
-lucky         adj cmp=er adv=luckily
+lucky         adj comp=to|that|ing prep=with|in|at cmp=er adv=luckily
 lucrative adj cmp=more
 ludicrous adj cmp=more adv=ludicrously
 lukewarm adj

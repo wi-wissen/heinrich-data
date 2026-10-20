@@ -1,6 +1,6 @@
 Macedonian adj
 macroeconomic adj
-mad           adj cmp=er adv=madly
+mad           adj comp=to|that prep=at|about|with|on cmp=er adv=madly
 maddening adj cmp=more adv=maddeningly
 magic         adj
 magical       adj adv=magically
@@ -39,6 +39,7 @@ marital adj
 maritime      adj
 marked adj cmp=more adv=markedly
 marketable adj cmp=more
+married adj prep=to|into xprep=with cmp=more
 marshy adj cmp=er
 martial       adj
 marvelous     adj gb=marvellous adv=marvelously
@@ -59,7 +60,7 @@ maximal adj
 maximum       adj
 mayoral       adj
 meager adj gb=meagre conf=90 note=meagre is also frequent in American texts
-mean          adj cmp=er adv=meanly
+mean          adj comp=to prep=to|with|about cmp=er adv=meanly
 meaningful    adj cmp=more adv=meaningfully
 meaningless adj
 measurable    adj adv=measurably

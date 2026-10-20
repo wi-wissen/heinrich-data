@@ -25,7 +25,7 @@ javelin noun
 jaw            noun
 jay noun
 jazz           noun pl=- note=uncountable
-jealousy       noun
+jealousy       noun prep=of|toward|towards|between xprep=on?
 jeans noun pl_only
 jeep noun conf=90 note=originally a trademark (Jeep)
 jelly noun
@@ -48,7 +48,7 @@ jigaboo noun style=offensive note=racist slur for Black people
 jigsaw noun
 jihad noun
 jingle noun
-job            noun
+job            noun vb=do|get|find
 jobcentre noun region=GB
 jobholder noun
 joblessness noun pl=- note=uncountable
@@ -57,19 +57,19 @@ jockey noun
 joey noun note=young kangaroo
 joint          noun
 joist noun
-joke           noun
+joke           noun vb=tell|make|crack xvb=say
 joker noun
 jotter noun region=GB
 journal        noun
 journalism     noun pl=- note=uncountable
 journalist     noun
-journey        noun
+journey        noun vb=make|take
 joy            noun
 joystick noun
 JPEG noun abbr note=an image file format
 jubilee        noun
 judge          noun
-judgment       noun gb=judgement|judgment
+judgment       noun vb=make|pass|form gb=judgement|judgment
 judiciary      noun
 judo noun pl=- note=uncountable
 jug noun

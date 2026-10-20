@@ -5,7 +5,7 @@ wanton adj adv=wantonly
 warlike adj
 warm adj cmp=er adv=warmly
 warm-hearted adj cmp=more note=hearted is not a word on its own
-wary adj cmp=er|more adv=warily
+wary adj comp=p_ing|to prep=of|about cmp=er|more adv=warily
 waste adj
 wasteful adj cmp=more adv=wastefully
 watchful adj cmp=more
@@ -13,7 +13,7 @@ waterproof adj
 watery adj cmp=er|more
 wavy adj cmp=er
 wayward adj cmp=more
-weak adj cmp=er adv=weakly
+weak adj prep=in|at cmp=er adv=weakly
 wealthy adj cmp=er
 wearable adj
 wearisome adj cmp=more
@@ -22,7 +22,7 @@ wee adj
 weekly adj
 weighty adj cmp=er
 weird adj cmp=er adv=weirdly
-welcome adj
+welcome adj comp=to prep=to|at|in
 well adj pred_only cmp=better sup=best conf=90 note=in good health; the adverb well comes from good adv=well
 Welsh adj note=demonym or religious name, capitalized
 Wesleyan adj
@@ -47,7 +47,7 @@ widescreen adj
 widespread adj
 wild adj cmp=er adv=wildly
 willful adj cmp=more gb=wilful adv=willfully
-willing adj cmp=more adv=willingly
+willing adj comp=to cmp=more adv=willingly
 wily adj cmp=er adv=wilily
 win-win adj conf=85
 windward adj
@@ -56,7 +56,7 @@ winged adj
 wintry adj cmp=er
 wireless adj
 wiry adj cmp=er
-wise adj cmp=er adv=wisely
+wise adj comp=to cmp=er adv=wisely
 wistful adj adv=wistfully
 witty adj cmp=er adv=wittily
 woeful adj adv=woefully
@@ -74,15 +74,15 @@ woolly adj cmp=er
 workable adj
 worldly adj cmp=more
 worldwide adj
-worried adj cmp=more adv=worriedly
-worth adj pred_only
+worried adj comp=to|that|p_ing|wh prep=about|by|for cmp=more adv=worriedly
+worth adj comp=ing pred_only
 worthless adj
 worthwhile adj cmp=more
 worthy adj cmp=er
 wrathful adj cmp=more adv=wrathfully
 wretched adj cmp=more adv=wretchedly
 wrinkly adj cmp=er
-wrong adj cmp=more adv=wrongly
+wrong adj comp=to|that prep=about|with cmp=more adv=wrongly
 wrongful adj adv=wrongfully
 wrought adj note=archaic past of work; wrought iron
 wry adj cmp=wrier|wryer sup=wriest|wryest adv=wryly conf=90 note=both spellings of the comparative are used

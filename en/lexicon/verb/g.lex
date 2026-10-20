@@ -4,7 +4,7 @@ gain           verb
 gainsay verb prefix=gain past=gainsaid pp=gainsaid
 gall verb
 gallop         verb
-gamble         verb
+gamble         verb prep=on|with
 gape verb
 garden         verb
 garner         verb
@@ -15,7 +15,7 @@ gasp           verb
 gather         verb
 gauge          verb
 gawp verb region=GB style=colloquial alt=stare
-gaze           verb
+gaze           verb prep=at|into|on|upon|over|out|through|towards
 gazette verb note=to announce officially (gazetted)
 gear           verb
 gel verb
@@ -24,12 +24,12 @@ generate       verb
 geotag verb double conf=90 note=new word; doubling as in tag, tagged
 gesticulate verb
 gesture        verb
-get            verb past=got pp=got|gotten[US]
+get            verb comp=to|ing|obj_to|obj_ing|bare|that past=got pp=got|gotten[US]
 ghost verb
 giggle verb
 gild           verb
 give           verb past=gave pp=given
-glance         verb
+glance         verb prep=at|over|through|up|down|around|round
 glare          verb
 glaze verb
 gleam          verb
@@ -46,7 +46,7 @@ gloss verb
 glow           verb
 glue verb ing=gluing|glueing[rare]
 gnaw verb
-go             verb 3sg=goes past=went pp=gone
+go             verb comp=to|ing|bare 3sg=goes past=went pp=gone
 goad verb
 gobble verb
 goof verb style=colloquial alt=blunder
@@ -55,12 +55,12 @@ gore verb
 gorge          verb
 gossip         verb
 govern         verb
-grab           verb
+grab           verb prep=at|onto|on
 grace          verb
 grade          verb
-graduate       verb
+graduate       verb prep=from|in|with
 graft verb
-grant          verb
+grant          verb comp=that|obj_to
 grapple verb
 grasp          verb
 grate verb
@@ -69,7 +69,7 @@ graze          verb
 grease verb
 greet          verb
 gridlock verb
-grieve verb
+grieve verb comp=that|to|obj_to prep=for|over|about|at
 grill verb
 grimace verb
 grin           verb
@@ -86,14 +86,14 @@ ground         verb
 group          verb
 grouse verb
 grout verb
-grow           verb past=grew pp=grown
+grow           verb comp=to|ing past=grew pp=grown
 growl          verb
 grub verb
-grumble verb
+grumble verb prep=about|at|over
 grunt verb
-guarantee      verb
-guard          verb
-guess          verb
+guarantee      verb comp=that|to|obj_that
+guard          verb prep=against|from
+guess          verb comp=that|wh|obj_to
 guide          verb
 guillotine verb
 gulp verb

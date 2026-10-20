@@ -1,10 +1,10 @@
 quack verb
 quadruple verb
 quail verb note=to cower
-qualify       verb
+qualify       verb comp=to|obj_to prep=for|as
 quantify verb
 quarantine verb
-quarrel       verb
+quarrel       verb prep=with|about|over
 quarry        verb
 quarter       verb
 quash verb
@@ -16,7 +16,7 @@ queue verb ing=queuing|queueing
 quicken verb
 quiet         verb
 quilt verb
-quit          verb past=quit|quitted[archaic] pp=quit|quitted[archaic]
+quit          verb comp=ing|to past=quit|quitted[archaic] pp=quit|quitted[archaic]
 quiver        verb
 quiz verb double
 quote         verb

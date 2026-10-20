@@ -1,40 +1,40 @@
-obey          verb
-object        verb
+obey          verb xprep=to
+object        verb comp=that|p_ing prep=to xprep=against?
 obligate verb
-oblige        verb
+oblige        verb comp=obj_to prep=with
 obliterate verb
 obscure       verb
-observe       verb
-obsess verb
+observe       verb comp=that|wh|obj_bare|obj_ing|obj_to
+obsess verb prep=over|about|on
 obstruct verb
 obtain        verb
 occasion verb
 occupy        verb
-occur         verb double
+occur         verb prep=to double
 offboard verb conf=80
-offend        verb
-offer         verb nodouble
+offend        verb prep=against
+offer         verb comp=to prep=to|for nodouble
 officiate verb
 offset        verb prefix=off past=offset pp=offset
 offshore verb
 oil           verb
 oink verb
-omit          verb double
+omit          verb comp=to|ing prep=from double
 onboard verb
-open          verb
-operate       verb
+open          verb prep=to|onto|into|on|with|for
+operate       verb prep=on|upon|with
 opine verb
-oppose        verb
+oppose        verb comp=ing|obj_ing xprep=against
 oppress       verb
-opt           verb
+opt           verb comp=to|p_ing prep=for
 optimize verb gb=optimise|optimize
 orbit         verb
 orchestrate verb
 ordain        verb
-order         verb
+order         verb comp=obj_to|that prep=from|for
 organize      verb gb=organise|organize
 orient verb
-originate     verb
+originate     verb prep=in|from|with
 ornament      verb
 orphan verb
 oscillate verb
@@ -44,7 +44,7 @@ outbid verb prefix=out past=outbid pp=outbid
 outcompete verb prefix=out
 outfit        verb prefix=out
 outgrow verb prefix=out past=outgrew pp=outgrown
-outlaw        verb
+outlaw        verb comp=ing|obj_ing
 outline       verb
 outlive verb prefix=out
 outnumber verb
@@ -65,7 +65,7 @@ overfish verb prefix=over
 overflow verb
 overhang verb prefix=over past=overhung pp=overhung
 overhaul verb
-overhear verb prefix=over past=overheard pp=overheard
+overhear verb comp=obj_bare|obj_ing|that|wh prefix=over past=overheard pp=overheard
 overheat verb
 overlap       verb prefix=over
 overlay verb prefix=over past=overlaid pp=overlaid

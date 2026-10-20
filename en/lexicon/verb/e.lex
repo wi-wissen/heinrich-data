@@ -16,9 +16,9 @@ effect verb
 effectuate verb
 ejaculate verb
 eject verb
-elaborate verb
+elaborate verb prep=on|upon xprep=about?
 elapse verb
-elect verb
+elect verb comp=to|obj_to prep=to|as
 electrify verb
 elevate verb
 elicit verb
@@ -28,7 +28,7 @@ elude verb
 email verb
 emanate verb
 emancipate verb
-embark verb
+embark verb prep=on|upon
 embarrass verb
 embed verb double
 embellish verb
@@ -41,15 +41,15 @@ emboss verb
 embrace verb
 embroider verb
 embroil verb
-emerge verb
-emigrate verb
+emerge verb prep=from|as
+emigrate verb prep=to|from
 emit verb double
-emphasize verb gb=emphasise|emphasize
+emphasize verb comp=that|wh xprep=on gb=emphasise|emphasize
 employ verb
 empower verb
 empty verb
 emulate verb
-enable verb
+enable verb comp=obj_to
 enact verb
 encamp verb
 encapsulate verb
@@ -61,19 +61,19 @@ encode verb
 encompass verb
 encore verb
 encounter verb
-encourage verb
+encourage verb comp=obj_to|ing|to
 encroach verb
 encrypt verb
 encumber verb
 end verb
 endanger verb
 endear verb
-endeavor verb gb=endeavour
+endeavor verb comp=to gb=endeavour
 endorse verb
 endow verb
-endure verb
+endure verb comp=ing|to|obj_ing
 enforce verb
-engage verb
+engage verb comp=p_ing|to|obj_to prep=in|with
 engender verb
 engineer verb
 engrave verb
@@ -81,40 +81,40 @@ engross verb
 engulf verb
 enhance verb
 enjoin verb
-enjoy verb
+enjoy verb comp=ing|obj_ing
 enlarge verb
 enlighten verb
 enlist verb
 enliven verb
 enrage verb
 enrich verb
-enroll verb gb=enrol double
+enroll verb prep=in|at|for gb=enrol double
 enshrine verb
 enslave verb
 ensonify verb conf=85 note=acoustics: to fill with sound (sonar surveys)
 ensue verb
-ensure verb
+ensure verb comp=that
 entail verb
 entangle verb
-enter verb
+enter verb prep=into|for|upon|on
 entertain verb
 enthrone verb
 entice verb
-entitle verb
+entitle verb comp=obj_to prep=to
 entrance verb note=to enchant (entranced)
 entrap verb double
-entreat verb
+entreat verb comp=obj_to|that
 entrench verb
 entrust verb
 entwine verb
 enumerate verb
 envelop verb
-envisage verb
+envisage verb comp=ing|obj_ing|that|wh
 envision verb
-envy verb
+envy verb comp=obj_ing
 equal verb
 equate verb
-equip verb double
+equip verb prep=with|for double
 eradicate verb
 erase verb
 erect verb
@@ -122,18 +122,18 @@ erode verb
 err verb
 erupt verb
 escalate verb
-escape verb
+escape verb comp=ing|to prep=from|to|into|out
 escort verb
 espouse verb
 espy verb
 essay verb note=to attempt
-establish verb
+establish verb comp=that|wh|obj_to
 esteem verb
-estimate verb
+estimate verb comp=that|wh|obj_to
 estrange verb
 etch verb
 evacuate verb
-evade verb
+evade verb comp=ing
 evaluate verb
 evaporate verb
 evict verb
@@ -149,16 +149,16 @@ examine verb
 exasperate verb
 excavate verb
 exceed verb
-excel verb double
+excel verb comp=p_ing prep=at|in double
 except verb
 excerpt verb
-exchange verb
+exchange verb prep=for|with xprep=against?
 excise verb
 excite verb
 exclaim verb
-exclude verb
+exclude verb prep=from
 excommunicate verb
-excuse verb
+excuse verb comp=ing|obj_ing prep=from|for
 execute verb
 exemplify verb
 exempt verb
@@ -175,23 +175,23 @@ exit verb
 exonerate verb
 expand verb
 expatriate verb
-expect verb
+expect verb comp=to|obj_to|that
 expectorate verb
 expedite verb
-expel verb double
+expel verb prep=from double
 expend verb
 expense verb
 experience verb
-experiment verb
+experiment verb prep=with|on
 expire verb
-explain verb
+explain verb comp=that|wh prep=to
 explode verb
 exploit verb
 explore verb
 export verb
 expose verb
 expound verb
-express verb
+express verb comp=wh|that
 expropriate verb
 extend verb
 exterminate verb

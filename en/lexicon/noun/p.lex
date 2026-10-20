@@ -22,7 +22,7 @@ pageant noun
 pager noun
 pagoda noun
 pail noun
-pain noun
+pain noun vb=feel|have|cause
 paint noun
 painter noun
 painting noun
@@ -142,10 +142,10 @@ parsley noun pl=- note=uncountable
 parsnip noun
 parson noun
 parsonage noun
-part noun
+part noun vb=play|take
 partiality noun
 participant noun
-participation noun pl=- note=uncountable
+participation noun prep=in xprep=at? pl=- note=uncountable
 participator noun
 participle noun
 particle noun
@@ -157,7 +157,7 @@ partition noun
 partner noun
 partnership noun
 partridge noun
-party noun
+party noun vb=have|give|throw|hold xvb=make?|celebrate?
 pascal noun note=unit of pressure
 pasha noun
 pass noun
@@ -166,7 +166,7 @@ passageway noun
 passcode noun
 passenger noun
 passer-by noun pl=passers-by
-passion noun
+passion noun prep=for
 passionfruit noun pl=passionfruit|passionfruits conf=90 note=also passion fruit
 passive noun
 passphrase noun
@@ -194,7 +194,7 @@ pathologist noun
 pathology noun
 pathos noun pl=- note=uncountable
 pathway noun
-patience noun pl=- note=uncountable
+patience noun prep=with|for pl=- note=uncountable
 patient noun
 patio noun pl=patios
 patriarch noun pl=patriarchs
@@ -210,7 +210,7 @@ patter noun
 pattern noun
 patty noun
 pauper noun
-pause noun
+pause noun vb=take xvb=make?
 pavement noun
 pavilion noun
 pavlova noun
@@ -225,7 +225,7 @@ payee noun
 payer noun
 payload noun
 paymaster noun
-payment noun
+payment noun prep=for|of|to vb=make|receive
 payoff noun
 payout noun
 payroll noun
@@ -237,7 +237,7 @@ PCB noun abbr note=polychlorinated biphenyl; printed circuit board
 PDF noun abbr note=Portable Document Format
 PE noun abbr pl=- note=physical education
 pea noun
-peace noun pl=- note=uncountable
+peace noun vb=make|keep|bring pl=- note=uncountable
 peacekeeper noun
 peacekeeping noun pl=- note=uncountable
 peacetime noun pl=- note=uncountable
@@ -328,7 +328,7 @@ perjury noun pl=- note=uncountable
 perk noun
 permanence noun pl=- note=uncountable
 permeability noun
-permission noun
+permission noun prep=for|from
 permit noun
 permutation noun
 peroxide noun
@@ -394,7 +394,7 @@ philosophy noun
 phishing noun pl=- note=uncountable
 pho noun pl=- note=uncountable
 phoenix noun
-phone noun
+phone noun vb=answer|pick_up|use
 phonetics noun pl=- note=takes a singular verb
 phonograph noun
 phonology noun
@@ -402,11 +402,11 @@ phony noun gb=phoney|phony
 phosphate noun
 phosphorus noun pl=- note=uncountable
 phosphorylation noun
-photo noun pl=photos
+photo noun vb=take|snap xvb=make|do? pl=photos
 photobomb noun
 photocopier noun
 photocopy noun
-photograph noun
+photograph noun vb=take xvb=make?|do?
 photographer noun
 photography noun pl=- note=uncountable
 photon noun
@@ -432,7 +432,7 @@ pickaninny noun style=offensive note=racist term for Black children
 picket noun
 pickup noun
 picnic noun
-picture noun
+picture noun vb=take|paint|draw|have|get xvb=make?
 picturesqueness noun pl=- note=uncountable
 pie noun
 piece noun
@@ -492,12 +492,12 @@ pitcher noun
 pitchfork noun
 pitfall noun
 pituitary noun
-pity noun
+pity noun prep=for|on
 pivot noun
 pixel noun
 pizza noun
 placard noun
-place noun
+place noun vb=take|find|book|reserve|have
 placebo noun pl=placebos
 placeholder noun
 placemat noun
@@ -511,7 +511,7 @@ plainness noun pl=- note=uncountable
 plaintext noun pl=- note=uncountable
 plaintiff noun
 plait noun region=GB note=US braid
-plan noun
+plan noun vb=make|have|draw_up|follow|change
 plane noun
 planet noun
 planetarium noun pl=planetariums|planetaria
@@ -547,12 +547,12 @@ playthrough noun
 playtime noun
 playwright noun
 plaza noun
-plea noun
+plea noun prep=for|of|to vb=make|enter
 pleading noun
 pleasantry noun
 pleasure noun
 plebeian noun
-pledge noun
+pledge noun vb=make|take|give|keep|honor|break
 plenary noun
 plenipotentiary noun
 plenty noun pl=- note=uncountable
@@ -597,7 +597,7 @@ poem noun
 poet noun
 poetry noun pl=- note=uncountable
 pogrom noun
-point noun
+point noun vb=make|have|miss|prove|see|take
 pointer noun
 poison noun
 poisoning noun
@@ -687,7 +687,7 @@ portraiture noun pl=- note=uncountable
 portrayal noun
 Portuguese noun pl=Portuguese note=demonym or religious name, capitalized
 pose noun
-position noun
+position noun vb=take|hold|have|occupy|lose
 positive noun
 positivity noun pl=- note=uncountable
 positron noun
@@ -733,14 +733,14 @@ pound noun
 pounder noun
 poverty noun pl=- note=uncountable
 powder noun
-power noun
+power noun vb=have|take|hold|seize|gain|lose
 powerhouse noun
 pox noun pl=- note=uncountable
 PPE noun abbr pl=- note=personal protective equipment; also philosophy, politics and economics
 PR noun abbr note=public relations; also Puerto Rico, proportional representation
 practicability noun pl=- note=uncountable
 practicality noun
-practice noun
+practice noun vb=get|need|have|do
 practitioner noun
 pragmatism noun pl=- note=uncountable
 prairie noun
@@ -748,12 +748,12 @@ praise noun note=plural praises: sing someone's praises
 pram noun region=GB note=US baby carriage
 prank noun
 prawn noun
-prayer noun
+prayer noun vb=say|offer
 pre-K noun pl=- region=US conf=85 note=pre-kindergarten; also written Pre-K
 preacher noun
 preamble noun
 preauthorization noun gb=preauthorisation|preauthorization
-precaution noun
+precaution noun prep=against
 precedence noun pl=- note=uncountable
 precedent noun
 precept noun
@@ -771,17 +771,17 @@ predestination noun pl=- note=uncountable
 predicament noun
 predicate noun
 predictability noun pl=- note=uncountable
-prediction noun
+prediction noun vb=make
 predictor noun
 predominance noun pl=- note=uncountable
 preemption noun note=British texts mostly hyphenate (pre-emption)
 preface noun
 prefect noun
 prefecture noun
-preference noun
+preference noun prep=for
 prefix noun
 pregnancy noun
-prejudice noun
+prejudice noun prep=against|toward|towards|in
 prelate noun
 preliminary noun
 prelude noun
@@ -792,12 +792,12 @@ premise noun gb=premise|premiss note=premiss is the chiefly British spelling in 
 premium noun
 preoccupation noun
 prep noun
-preparation noun
+preparation noun prep=for|of vb=make
 preparedness noun pl=- note=uncountable
 prepayment noun
 preponderance noun
 prequel noun
-prerequisite noun
+prerequisite noun prep=for|of|to
 prerogative noun
 Presbyterian noun note=demonym or religious name, capitalized
 preschool noun
@@ -805,8 +805,8 @@ prescriber noun
 prescription noun
 preseason noun
 presence noun
-present noun
-presentation noun
+present noun vb=give|buy|get|receive|open|wrap|make
+presentation noun prep=on|of|to|about vb=give|make|do|deliver xvb=hold>give
 presenter noun
 presentiment noun
 preservation noun pl=- note=uncountable
@@ -814,7 +814,7 @@ preserve noun
 presidency noun
 president noun
 press noun
-pressure noun
+pressure noun prep=on|of|for|from vb=put|exert|apply|feel|relieve xvb=make>put
 prestige noun pl=- note=uncountable
 presumption noun
 pretender noun
@@ -828,10 +828,10 @@ preventative noun
 prevention noun pl=- note=uncountable
 preview noun
 prey noun pl=- note=uncountable
-price noun
+price noun vb=pay|charge|set|raise|lower|fix
 pricing noun pl=- note=uncountable
 prick noun
-pride noun note=plural prides: a pride of lions
+pride noun prep=in|of xprep=on? note=plural prides: a pride of lions
 priest noun
 priestess noun
 priesthood noun
@@ -853,7 +853,7 @@ printing noun
 printout noun
 prior noun note=monastic superior
 prioritization noun gb=prioritisation|prioritization
-priority noun
+priority noun prep=over|for|to
 priory noun
 prism noun
 prison noun
@@ -865,13 +865,13 @@ privation noun
 privatization noun gb=privatisation|privatization
 privilege noun
 privy noun
-prize noun
+prize noun vb=win|award|give|get|take
 pro noun pl=pros
 probability noun
 probate noun pl=- note=uncountable
 probation noun pl=- note=uncountable
 probe noun
-problem noun
+problem noun prep=with|of|for vb=solve|have|cause|face|fix xvb=make>cause?
 proboscis noun pl=proboscises|probosces conf=90 note=Greek plural rare
 procedure noun
 proceeding noun
@@ -899,7 +899,7 @@ professor noun
 professorship noun
 proficiency noun
 profile noun
-profit noun
+profit noun vb=make|turn|earn
 profitability noun pl=- note=uncountable
 profiteering noun pl=- note=uncountable
 profiterole noun
@@ -912,7 +912,7 @@ prognosis noun pl=prognoses
 program noun gb=programme|program note=British programme for broadcasts and events, program for computing
 programmer noun
 programming noun pl=- note=uncountable
-progress noun pl=- note=uncountable
+progress noun prep=in|on|toward|towards|with vb=make pl=- note=uncountable
 progression noun
 progressive noun
 prohibition noun
@@ -926,7 +926,7 @@ prolongation noun
 prom noun
 promenade noun
 prominence noun note=plural prominences: solar prominences, projections
-promise noun
+promise noun vb=make|keep|break|give|fulfill
 promontory noun
 promoter noun
 promotion noun
@@ -953,7 +953,7 @@ propionyl noun conf=90 note=chemistry: the acyl group of propionic acid
 proponent noun
 proportion noun
 proportionality noun pl=- note=uncountable
-proposal noun
+proposal noun vb=make|submit|accept|reject
 proposition noun
 proprietor noun
 proprietorship noun
@@ -965,7 +965,7 @@ prose noun pl=- note=uncountable
 prosecco noun pl=proseccos
 prosecution noun
 prosecutor noun
-prospect noun
+prospect noun prep=of|for
 prospector noun
 prospectus noun pl=prospectuses
 prosperity noun pl=- note=uncountable
@@ -974,13 +974,13 @@ prosthetic noun
 prostitute noun
 prostitution noun pl=- note=uncountable
 protagonist noun
-protection noun
+protection noun prep=against|from|for|of
 protectionism noun pl=- note=uncountable
 protectionist noun
 protector noun
 protectorate noun
 protein noun
-protest noun
+protest noun prep=against|at|over|about|from vb=make|lodge|stage|hold
 Protestant noun note=demonym or religious name, capitalized
 Protestantism noun pl=- note=uncountable
 protestation noun
@@ -1058,7 +1058,7 @@ pupa noun pl=pupae
 pupil noun
 puppet noun
 puppy noun
-purchase noun
+purchase noun vb=make
 purchaser noun
 puree noun conf=90 note=also written purée
 purgatory noun

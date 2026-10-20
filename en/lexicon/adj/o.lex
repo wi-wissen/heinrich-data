@@ -1,10 +1,11 @@
 oaken adj
 obdurate adj cmp=more adv=obdurately
-obedient adj cmp=more adv=obediently
+obedient adj prep=to cmp=more adv=obediently
 obese adj cmp=more
 objectionable adj cmp=more
 objective      adj adv=objectively
 obligatory adj
+obliged adj comp=to prep=to|for
 oblique adj adv=obliquely
 oblivious adj cmp=more adv=obliviously
 oblong adj
@@ -14,16 +15,18 @@ obscure        adj cmp=more adv=obscurely
 observable adj
 observant adj cmp=more
 observational adj
+obsessed adj comp=p_ing prep=with|by|about cmp=more
 obsessive adj adv=obsessively
 obsolete       adj
 obstinate adj cmp=more adv=obstinately
 obstructive adj
 obtainable adj
-obvious        adj cmp=more adv=obviously
+obvious        adj comp=that|wh prep=to|from cmp=more adv=obviously
 occasional     adj adv=occasionally
 occludent adj conf=80 note=rare, occluding
 occult adj
 occupational   adj
+occupied adj prep=with|by|in
 oceanic        adj
 octagonal adj
 ocular adj
@@ -56,7 +59,7 @@ onsite adj
 onstage adj
 onward         adj
 opaque adj cmp=more adv=opaquely
-open           adj cmp=more adv=openly
+open           adj comp=p_ing|to prep=to|with|about|for cmp=more adv=openly
 operatic adj
 operational    adj adv=operationally
 operative      adj
@@ -65,11 +68,12 @@ ophthalmic adj
 opioid adj
 opportune adj
 opportunistic adj adv=opportunistically
+opposed adj comp=p_ing prep=to xprep=against? cmp=more
 oppressive adj cmp=more adv=oppressively
 optic adj
 optical        adj
 optimal        adj adv=optimally
-optimistic     adj cmp=more adv=optimistically
+optimistic     adj comp=that|p_ing|to prep=about cmp=more adv=optimistically
 optimum adj
 optional       adj adv=optionally
 opulent adj
@@ -121,7 +125,7 @@ overdrawn adj
 overdue adj
 overgrown adj
 overhead       adj
-overjoyed adj
+overjoyed adj comp=to|that prep=at|with|about|by
 overland adj
 overnight      adj
 overpowering adj cmp=more adv=overpoweringly

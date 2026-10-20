@@ -3,13 +3,13 @@ magnify verb
 mail          verb
 maim verb
 maintain      verb
-major         verb
-make          verb past=made pp=made
+major         verb prep=in
+make          verb comp=obj_bare|bare prep=of|from|into|for past=made pp=made
 malfunction verb
 malign verb
 man           verb
-manage        verb
-mandate       verb
+manage        verb comp=to|wh prep=on|with|without
+mandate       verb comp=that|obj_to
 maneuver verb gb=manoeuvre
 mangle verb
 manifest      verb
@@ -23,10 +23,10 @@ marginalize verb gb=marginalise|marginalize
 marinate verb
 mark          verb
 market        verb
-marry         verb
+marry         verb xprep=with
 marshal       verb
 martyr        verb
-marvel        verb
+marvel        verb comp=that|wh prep=at|over
 mash verb
 mask          verb
 masquerade verb
@@ -38,18 +38,18 @@ mat verb
 match         verb
 mate          verb
 materialize verb gb=materialise|materialize
-matter        verb
+matter        verb comp=that|wh prep=to
 mature        verb
 maul verb
 max verb
 maximize      verb gb=maximise|maximize
-mean          verb past=meant pp=meant
+mean          verb comp=to|ing|that|obj_to|obj_ing prep=to|for|by past=meant pp=meant
 meander verb
 measure       verb
 mechanize verb gb=mechanise|mechanize
-meddle verb
+meddle verb prep=in|with
 mediate verb
-meditate verb
+meditate verb prep=on|upon|over
 meet          verb past=met pp=met
 mellow verb
 melt          verb
@@ -57,11 +57,11 @@ memorialize verb gb=memorialise|memorialize
 memorize verb gb=memorise|memorize
 menace verb
 mend verb
-mention       verb
+mention       verb comp=ing|that|wh xprep=about
 mentor        verb
 meow verb gb=miaow|meow
 merchandise   verb
-merge         verb
+merge         verb prep=with|into
 merit         verb
 mesh verb
 mess          verb
@@ -69,14 +69,14 @@ message       verb
 meter verb
 micromanage verb
 microwave verb
-migrate       verb
+migrate       verb prep=to|from|into
 mike verb style=colloquial note=to fit with a microphone
 milk          verb
 mill          verb
 mimic verb
-mind          verb
+mind          verb comp=ing|obj_ing|that|wh
 mine          verb
-mingle        verb
+mingle        verb prep=with|among
 minimize      verb gb=minimise|minimize
 minister      verb
 mint verb
@@ -90,7 +90,7 @@ mismatch verb
 misplace verb
 misremember verb
 misrepresent verb
-miss          verb
+miss          verb comp=ing|obj_ing
 misspell verb past=misspelled|misspelt[GB] pp=misspelled|misspelt[GB] prefix=mis
 mist          verb
 mistake       verb prefix=mis past=mistook pp=mistaken
@@ -101,7 +101,7 @@ misunderstand verb prefix=mis past=misunderstood pp=misunderstood
 misuse        verb
 misvalue verb conf=90 note=chiefly financial and government jargon
 mitigate      verb
-mix           verb
+mix           verb prep=with|into
 moan verb
 mob           verb
 mobilize verb gb=mobilise|mobilize
@@ -124,12 +124,12 @@ mortgage      verb
 mortify verb
 mother        verb
 motion        verb
-motivate      verb
+motivate      verb comp=obj_to
 motor verb
 motorize verb gb=motorise|motorize
 moulder verb us=moulder|molder conf=90 note=corpus has mouldering also in US texts
 mount         verb
-mourn         verb
+mourn         verb comp=ing|that|to|bare prep=for|over
 mouth         verb
 move          verb
 mow verb past=mowed pp=mown|mowed

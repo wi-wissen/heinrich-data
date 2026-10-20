@@ -5,7 +5,7 @@ taciturn adj
 tactful adj cmp=more adv=tactfully
 tactical adj adv=tactically
 Taiwanese adj
-talented adj cmp=more
+talented adj prep=at|in|with cmp=more
 talkative adj cmp=more
 tall adj cmp=er
 tame adj cmp=er
@@ -42,15 +42,16 @@ tentative adj adv=tentatively
 tenuous adj cmp=more adv=tenuously
 terminal adj adv=terminally
 terrestrial adj
-terrible adj adv=terribly
+terrible adj comp=to|ing|that prep=at|for|to adv=terribly
 terrific adj
+terrified adj comp=to|that|p_ing prep=of|at xprep=from?|before? cmp=more
 territorial adj
 tertiary adj
 testy adj cmp=er adv=testily
 Texan adj
 textual adj adv=textually
 Thai adj
-thankful adj cmp=more adv=thankfully
+thankful adj comp=to|that prep=for|to cmp=more adv=thankfully
 theatrical adj adv=theatrically
 thematic adj adv=thematically
 themed adj
@@ -61,7 +62,7 @@ thermal adj
 thermodynamic adj adv=thermodynamically
 thick adj cmp=er adv=thickly
 thin adj cmp=er adv=thinly
-thirsty adj cmp=er
+thirsty adj prep=for cmp=er
 thoracic adj
 thorny adj cmp=er
 thorough adj cmp=more adv=thoroughly
@@ -71,7 +72,7 @@ thoughtless adj cmp=more adv=thoughtlessly
 threadbare adj
 threefold adj
 thrifty adj cmp=er adv=thriftily
-thrilled adj
+thrilled adj comp=to|that prep=with|about|at|by|for
 thrilling adj
 thunderous adj
 thundery adj
@@ -86,13 +87,13 @@ timely adj cmp=er|more
 timid adj cmp=er|more adv=timidly
 tiny adj cmp=er
 tipsy adj cmp=er
-tired adj cmp=more
+tired adj comp=p_ing prep=of|from cmp=more
 tireless adj adv=tirelessly
 tiresome adj
 titanic adj
 titular adj
 tolerable adj adv=tolerably
-tolerant adj cmp=more
+tolerant adj prep=of|towards|toward|to cmp=more
 tonal adj adv=tonally
 tonic adj
 toothed adj
@@ -168,6 +169,6 @@ Turkic adj
 Turkish adj
 turquoise adj
 twofold adj
-typical adj adv=typically
+typical adj comp=that prep=of xprep=for? adv=typically
 typographical adj
 tyrannical adj cmp=more
