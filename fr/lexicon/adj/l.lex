@@ -97,7 +97,7 @@ leucémique     adj
 leucocytaire   adj
 levantin       adj
 lévogyre       adj
-lexical        adj
+lexical        adj adv=lexicalement
 lexicographique adj
 lexicologique  adj
 liant          adj

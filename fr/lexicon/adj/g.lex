@@ -5,7 +5,7 @@ gaffeur        adj f=gaffeuse style=colloquial alt=maladroit
 gaga           adj inv style=colloquial alt=gâteux
 gagnant        adj
 gai            adj adv=gaiement
-gaillard       adj
+gaillard       adj adv=gaillardement
 galactique     adj
 galant         adj adv=galamment
 galeux         adj
@@ -61,8 +61,8 @@ géocentrique   adj
 géodésique     adj
 géodynamique   adj
 géographique   adj adv=géographiquement
-géologique     adj
-géométrique    adj
+géologique     adj adv=géologiquement
+géométrique    adj adv=géométriquement
 géomorphologique adj
 géophysique    adj
 géopolitique   adj
@@ -99,7 +99,7 @@ glissant       adj
 global         adj adv=globalement
 globulaire     adj
 glorieux       adj adv=glorieusement
-glouton        adj
+glouton        adj adv=gloutonnement
 gluant         adj
 glucidique     adj
 glycémique     adj
@@ -115,9 +115,9 @@ gothique       adj
 gouailleur     adj f=gouailleuse
 goudronneux    adj
 gouleyant      adj
-goulu          adj
+goulu          adj adv=goulûment
 gourd          adj
-gourmand       adj
+gourmand       adj adv=gourmandement
 goûteux        adj rect=gouteux
 goutteux       adj
 gouvernable    adj
@@ -136,7 +136,7 @@ grandiose      adj
 granitique     adj
 granulaire     adj
 granuleux      adj
-graphique      adj
+graphique      adj adv=graphiquement
 graphologique  adj
 gras           adj f=grasse adv=grassement
 grassouillet   adj f=grassouillette
@@ -178,7 +178,7 @@ grognon        adj f=grognon|grognonne
 gros           adj f=grosse place=pre
 grossier       adj adv=grossièrement
 grossissant    adj
-grotesque      adj
+grotesque      adj adv=grotesquement
 grumeleux      adj
 guadeloupéen   adj
 guatémaltèque  adj

@@ -5,7 +5,7 @@ habituel       adj adv=habituellement
 hâbleur        adj f=hâbleuse aspirate
 hagard         adj aspirate
 hagiographique adj
-haineux        adj aspirate
+haineux        adj aspirate adv=haineusement
 haïssable      adj aspirate
 haïtien        adj
 hâlé           adj aspirate
@@ -26,10 +26,10 @@ hasardeux      adj aspirate
 hâtif          adj adv=hâtivement aspirate
 haussier       adj aspirate
 haut           adj place=pre adv=hautement aspirate
-hautain        adj aspirate
+hautain        adj aspirate adv=hautainement
 hauturier      adj aspirate
 hawaïen        adj
-hebdomadaire   adj
+hebdomadaire   adj adv=hebdomadairement
 hébété         adj
 hébraïque      adj
 hédoniste      adj
@@ -185,4 +185,4 @@ hypostyle      adj
 hypotendu      adj
 hypothécaire   adj
 hypothétique   adj adv=hypothétiquement
-hystérique     adj
+hystérique     adj adv=hystériquement

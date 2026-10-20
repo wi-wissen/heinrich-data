@@ -210,7 +210,7 @@ forain         adj
 forcené        adj
 forensique     adj conf=70 note=anglicism (forensic), mostly in médecine forensique
 forestier      adj
-forfaitaire    adj
+forfaitaire    adj adv=forfaitairement
 formalisable   adj
 formaliste     adj
 formateur      adj f=formatrice
@@ -303,12 +303,12 @@ frissonnant    adj
 frivole        adj adv=frivolement
 froid          adj adv=froidement
 frondeur       adj f=frondeuse
-frontal        adj
+frontal        adj adv=frontalement
 frontalier     adj
 froufroutant   adj
 froussard      adj style=colloquial alt=peureux
 fructifère     adj
-fructueux      adj
+fructueux      adj adv=fructueusement
 frugal         adj adv=frugalement
 frugivore      adj
 fruité         adj
