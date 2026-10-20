@@ -4,9 +4,13 @@ décidément adv
 dedans adv
 dehors adv
 déjà adv
+délibérément adv
 demain adv
+derechef adv style=literary
+désespérément adv
 désormais adv
 dessous adv
 dessus adv
+deuxièmement adv
 dorénavant adv
 dûment adv rect=dument
