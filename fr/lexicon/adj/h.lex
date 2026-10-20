@@ -4,12 +4,14 @@ habitable      adj
 habituel       adj adv=habituellement
 hagard         adj aspirate
 haineux        adj aspirate
+haïssable      adj aspirate
 haïtien        adj
 hâlé           adj aspirate
 haletant       adj aspirate
 halieutique    adj
 hallucinant    adj
 hallucinogène  adj
+hanséatique    adj aspirate conf=70 note=follows la Hanse
 harassé        adj aspirate
 hardi          adj adv=hardiment aspirate
 hargneux       adj adv=hargneusement aspirate
@@ -24,12 +26,16 @@ hebdomadaire   adj
 hébété         adj
 hébraïque      adj
 hégémonique    adj
+héliocentrique adj
 hellénique     adj
 hellénistique  adj
 helvétique     adj
+hémisphérique  adj
+hémorragique   adj
 hépatique      adj
 héraldique     adj
 herbacé        adj
+herbeux        adj
 herbivore      adj
 héréditaire    adj
 hérétique      adj
@@ -42,17 +48,25 @@ hétéroclite    adj
 hétérogène     adj
 hétérosexuel   adj
 heureux        adj adv=heureusement
+heuristique    adj
 hexadécimal    adj
 hexagonal      adj
 hideux         adj aspirate
 hiérarchique   adj adv=hiérarchiquement aspirate conf=85 note=follows hiérarchie
 hiératique     adj
+hiéroglyphique adj
+hilarant       adj
+hilare         adj
 hindou         adj note=plural hindous
 hippique       adj
+hippomobile    adj
+hirsute        adj
 hispanique     adj
+hispanophone   adj
 historiographique adj
 historique     adj adv=historiquement
 hivernal       adj
+holistique     adj
 hollandais     adj aspirate
 homéopathique  adj
 homérique      adj
@@ -76,6 +90,7 @@ hostile        adj
 hôtelier       adj
 houiller       adj aspirate
 houleux        adj aspirate
+huileux        adj
 humain         adj adv=humainement
 humaniste      adj
 humanitaire    adj
@@ -85,16 +100,22 @@ humide         adj
 humiliant      adj
 humoristique   adj
 huppé          adj aspirate
+hurlant        adj aspirate
 hybride        adj
 hydraulique    adj
 hydrique       adj
 hydroélectrique adj
 hydrographique adj
 hydrologique   adj
+hydrophile     adj
 hygiénique     adj
+hyperactif     adj
 hyperbare      adj
 hyperbolique   adj
+hypnotique     adj
+hypocondriaque adj
 hypocrite      adj
+hypostyle      adj
 hypothécaire   adj
 hypothétique   adj adv=hypothétiquement
 hystérique     adj
