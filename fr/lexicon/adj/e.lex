@@ -1,6 +1,7 @@
 # French lexicon, adj, letter e (clean-room, own knowledge)
 ébahi          adj
 éblouissant    adj
+ébouriffant    adj
 écailleux      adj
 ecclésial      adj
 ecclésiastique adj
@@ -9,6 +10,7 @@ ecclésiastique adj
 éclairant      adj
 éclatant       adj
 éclectique     adj
+écœurant       adj
 écologique     adj adv=écologiquement
 écologiste     adj
 économe        adj
@@ -70,6 +72,7 @@ elliptique     adj
 émancipateur   adj f=émancipatrice
 emblématique   adj
 embryonnaire   adj
+éméché         adj style=colloquial alt=ivre|gris
 émergent       adj
 émérite        adj
 émétique       adj
@@ -83,6 +86,8 @@ emphatique     adj
 emphytéotique  adj
 empirique      adj adv=empiriquement
 empreint       adj
+empressé       adj
+encastrable    adj
 enceinte       adj f=enceinte conf=90 note=used in the feminine only (femme enceinte); masculine cells are not real
 enchanteur     adj f=enchanteresse
 enclin         adj
@@ -95,6 +100,7 @@ endocrinien    adj
 endogène       adj
 endolori       adj
 endoplasmique  adj
+endormant      adj
 énergétique    adj
 énergique      adj adv=énergiquement
 énergisant     adj
@@ -105,13 +111,18 @@ engageant      adj
 énième         adj
 énigmatique    adj
 enivrant       adj
+enjôleur       adj f=enjôleuse
 enjoué         adj
 ennemi         adj
 ennuyeux       adj
 énorme         adj adv=énormément
 enragé         adj
+enrichissant   adj
 enroué         adj
 ensoleillé     adj
+entêtant       adj
+entêté         adj
+enthousiasmant adj
 enthousiaste   adj
 entier         adj adv=entièrement
 entomologique  adj
@@ -248,6 +259,7 @@ existentiel    adj
 exogène        adj
 exorbitant     adj
 exotique       adj
+expansé        adj
 expansif       adj
 expansionniste adj
 expéditif      adj
