@@ -1,6 +1,7 @@
 obéir          verb class=ir
 obérer         verb
 objecter       verb
+objectiver     verb
 obliger        verb
 obliquer       verb pp_inv
 oblitérer      verb
