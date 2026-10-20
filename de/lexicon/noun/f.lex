@@ -310,6 +310,7 @@ Fortsetzung noun g=f gen=Fortsetzung pl=Fortsetzungen
 Forum noun g=n gen=Forums pl=Foren|Fora
 Fossil noun g=n gen=Fossils pl=Fossilien
 Foto noun g=n gen=Fotos pl=Fotos
+Fotoeffekt noun g=m gen=Fotoeffekts|Fotoeffektes pl=Fotoeffekte note=spelling variant of Photoeffekt
 Fotograf noun g=m gen=Fotografen pl=Fotografen
 Fotografie noun g=f gen=Fotografie pl=Fotografien
 Fotografin noun g=f gen=Fotografin pl=Fotografinnen

@@ -167,7 +167,7 @@ Investment noun g=n gen=Investments pl=Investments
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
 Inzidenz noun g=f gen=Inzidenz pl=Inzidenzen
-Iod noun g=n gen=Iods pl=- note=chemical element; also Jod
+Iod noun g=n gen=Iods|Iodes pl=- note=chemical element; also Jod
 Iodid noun g=n gen=Iodids|Iodides pl=Iodide
 Ion noun g=n gen=Ions pl=Ionen
 Irakkrieg noun g=m gen=Irakkriegs|Irakkrieges pl=Irakkriege

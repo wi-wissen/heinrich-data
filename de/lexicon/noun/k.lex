@@ -162,6 +162,7 @@ Kathode noun g=f gen=Kathode pl=Kathoden
 Katholik noun g=m gen=Katholiken pl=Katholiken
 Katholizismus noun g=m gen=Katholizismus pl=- note=no plural
 Kation noun g=n gen=Kations pl=Kationen
+Katode noun g=f gen=Katode pl=Katoden note=spelling variant of Kathode
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
