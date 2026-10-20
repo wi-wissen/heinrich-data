@@ -2,7 +2,7 @@ Babylonian adj
 backstage adj
 backward adj
 bacterial adj
-bad adj cmp=worse sup=worst adv=badly
+bad adj comp=to|p_ing|that prep=at|for|to|with|about cmp=worse sup=worst adv=badly
 baggy adj cmp=er
 bald adj cmp=er
 ballistic adj
@@ -42,10 +42,11 @@ belligerent adj adv=belligerently cmp=more
 beloved adj
 Benedictine adj
 beneficent adj
-beneficial adj adv=beneficially
+beneficial adj comp=to prep=to|for adv=beneficially
 benevolent adj cmp=more adv=benevolently
 Bengali adj
 benign adj adv=benignly
+bent adj prep=on|upon
 benthic adj
 Berber adj
 bereaved adj
@@ -76,7 +77,7 @@ biosimilar adj
 bipartisan adj
 bipolar adj
 bisexual adj
-bitter adj cmp=er|more adv=bitterly
+bitter adj comp=that prep=about|at|over|towards|toward|against cmp=er|more adv=bitterly
 bituminous adj
 biweekly adj
 bizarre adj cmp=more adv=bizarrely
@@ -89,7 +90,7 @@ blasphemous adj cmp=more adv=blasphemously
 blatant adj adv=blatantly
 bleak adj cmp=er adv=bleakly
 blessed adj
-blind adj cmp=er adv=blindly
+blind adj prep=to|in xprep=for?|on? cmp=er adv=blindly
 blissful adj adv=blissfully
 blithe adj adv=blithely
 blond adj cmp=er note=blonde is also used, especially of women
@@ -113,7 +114,7 @@ bold adj cmp=er adv=boldly
 bonnie adj conf=85 note=Scots spelling of bonny
 bonny adj cmp=er region=GB
 bony adj cmp=er
-bored adj cmp=more
+bored adj comp=p_ing prep=with|by|of cmp=more
 boring adj cmp=more adv=boringly
 Bosnian adj
 bossy adj cmp=er
@@ -135,7 +136,7 @@ Breton adj
 bridal adj
 brief adj cmp=er adv=briefly
 bright adj cmp=er adv=brightly
-brilliant adj cmp=more adv=brilliantly
+brilliant adj comp=to|p_ing prep=at|with|in cmp=more adv=brilliantly
 brisk adj cmp=er adv=briskly
 British adj
 brittle adj cmp=er|more
@@ -160,6 +161,6 @@ burly adj cmp=er
 Burmese adj
 bushy adj cmp=er
 businesslike adj cmp=more
-busy adj cmp=er adv=busily
+busy adj comp=ing prep=with|at cmp=er adv=busily
 bygone adj
 Byzantine adj

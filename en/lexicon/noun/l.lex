@@ -7,7 +7,7 @@ laborer noun gb=labourer
 labrum noun pl=labra|labrums conf=80 note=anatomy; labra in technical use
 labyrinth noun
 lace          noun
-lack          noun
+lack          noun prep=of
 lacquer noun
 lacrosse noun pl=- note=uncountable
 lactose noun pl=- note=uncountable
@@ -96,7 +96,7 @@ laurel        noun
 lava noun
 lavatory noun
 lavender noun
-law           noun
+law           noun prep=on|against|of vb=pass|break|obey|make
 lawlessness noun pl=- note=uncountable
 lawmaker noun
 lawn          noun
@@ -110,7 +110,7 @@ laziness noun pl=- note=uncountable
 LCD noun abbr note=liquid-crystal display
 lea noun style=archaic
 leachate noun
-lead          noun
+lead          noun vb=take
 leader        noun
 leaderboard noun
 leadership    noun
@@ -120,7 +120,7 @@ league        noun
 leak          noun
 leakage noun
 leaning noun
-leap          noun
+leap          noun vb=take|make
 learner noun
 learning      noun
 lease         noun
@@ -131,7 +131,7 @@ leather       noun
 leave         noun
 leaver noun
 Lebanese      noun pl=Lebanese
-lecture       noun
+lecture       noun prep=on|about|to xprep=over?
 lecturer      noun
 LED noun abbr note=light-emitting diode
 ledge         noun
@@ -176,7 +176,7 @@ lesbian       noun
 lesbo noun style=offensive note=homophobic slur
 lesion noun
 lessee        noun
-lesson        noun
+lesson        noun vb=take|have|give|learn|teach
 lessor noun
 lethargy noun pl=- note=uncountable
 letter        noun
@@ -214,11 +214,11 @@ license       noun gb=licence
 licensee      noun
 licensure noun pl=- note=uncountable
 lid           noun
-lie           noun
+lie           noun vb=tell xvb=say
 lien noun
 lieu          noun pl=- note=only in "in lieu (of)"
 lieutenant    noun
-life          noun pl=lives
+life          noun vb=lead|live|have pl=lives
 lifeblood noun pl=- note=uncountable
 lifeboat noun
 lifecycle noun
@@ -230,7 +230,7 @@ lifetime      noun
 lift          noun
 ligament noun
 ligand noun
-light         noun
+light         noun vb=turn_on|turn_off|switch_on|switch_off xvb=open>turn_on|close>turn_off|make>turn_on?
 lightbulb noun
 lighter       noun note=device for lighting
 lighthouse    noun
@@ -268,7 +268,7 @@ linguine noun pl=- note=uncountable pasta name, already plural in Italian
 linguist noun
 linguistics noun pl=- note=the field, with a singular verb
 lining        noun
-link          noun
+link          noun prep=between|to|with
 linkage noun
 lino noun pl=- region=GB note=uncountable; short for linoleum
 linoleum noun pl=- note=uncountable
@@ -285,7 +285,7 @@ liquidator noun
 liquidity     noun pl=- note=uncountable
 liquor        noun
 lisp noun
-list          noun
+list          noun vb=make|draw_up|write
 listener      noun
 listing       noun
 liter noun gb=litre
@@ -305,7 +305,7 @@ liver         noun
 livery        noun
 livestock     noun pl=- note=uncountable
 livestream noun
-living        noun
+living        noun vb=make|earn
 livre noun note=historical French currency
 lizard noun
 llama noun
@@ -316,7 +316,7 @@ LOA           noun abbr conf=85 note=letter of authorization
 load          noun
 loaf noun pl=loaves
 loam noun pl=- note=uncountable
-loan          noun
+loan          noun vb=take_out|get|give|make|grant
 loanword noun
 lobby         noun
 lobbyist noun
@@ -359,12 +359,12 @@ Lombard noun
 loneliness    noun pl=- note=uncountable
 longevity noun
 longfin noun conf=90 note=fish name modifier, as in longfin tuna
-longing       noun
+longing       noun prep=for
 longitude noun
 longline noun
 loo noun region=GB style=colloquial note=toilet
 loofah noun
-look          noun
+look          noun vb=take|have|give
 look-alike noun note=also written lookalike
 lookback noun conf=85 note=mostly attributive: lookback period
 lookout noun
@@ -377,14 +377,14 @@ lordship      noun
 lore noun
 lorry noun region=GB note=US truck
 loser noun
-loss          noun
+loss          noun vb=make|suffer
 lot           noun
 lotion noun
 lottery       noun
 lotus noun
 lough noun note=Irish lake
 lounge noun
-love          noun
+love          noun prep=of|for|with
 loveliness noun
 lover         noun
 loveseat noun
@@ -406,7 +406,7 @@ lumberman noun pl=lumbermen
 luminosity noun
 lump          noun
 lunatic noun
-lunch         noun
+lunch         noun vb=have|eat|make
 lunchbox noun
 luncheon      noun
 lunchroom noun

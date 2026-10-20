@@ -25,7 +25,7 @@ backsplash noun region=US
 backstop noun
 backstory noun
 backstroke noun pl=- note=the swimming stroke
-backup noun
+backup noun vb=make|create|keep|restore
 backyard noun
 bacon noun pl=- note=uncountable
 bacterium noun pl=bacteria
@@ -65,7 +65,7 @@ balsamic noun pl=- note=uncountable; balsamic vinegar
 balti noun
 balustrade noun
 bamboo noun
-ban noun
+ban noun prep=on
 banana noun
 band noun
 bandage noun
@@ -100,7 +100,7 @@ barbecue noun
 barber noun
 barcode noun
 bard noun
-bargain noun
+bargain noun vb=strike|make|drive|get|find
 barge noun
 barista noun
 baritone noun
@@ -138,7 +138,7 @@ basic noun note=the basics
 basil noun pl=- note=uncountable
 basilica noun
 basin noun
-basis noun pl=bases
+basis noun prep=for|of pl=bases
 basket noun
 basketball noun
 basmati noun pl=- note=uncountable
@@ -151,7 +151,7 @@ bastard noun
 bastion noun
 bat noun
 batch noun
-bath noun
+bath noun vb=take|have|run|give
 bathmat noun
 bathrobe noun
 bathroom noun
@@ -194,7 +194,7 @@ beauty noun
 beaver noun
 bebop noun pl=- note=uncountable
 bechamel noun pl=- conf=90 note=uncountable; also written béchamel
-bed noun
+bed noun vb=make|share|change|leave
 bedchamber noun
 bedding noun pl=- note=uncountable
 bedpost noun
@@ -223,7 +223,7 @@ being noun
 Belarusian noun
 belfry noun
 Belgian noun
-belief noun pl=beliefs
+belief noun prep=in pl=beliefs
 believer noun
 bell noun
 belle noun
@@ -244,7 +244,7 @@ Benedictine noun
 benediction noun
 benefactor noun
 beneficiary noun
-benefit noun
+benefit noun prep=of|to|for
 benevolence noun pl=- note=uncountable
 Bengali noun
 bento noun pl=bentos
@@ -258,7 +258,7 @@ berth noun
 besieger noun
 bestie noun style=colloquial
 bestseller noun
-bet noun
+bet noun prep=on vb=make|place|win|lose|take|accept
 beta noun
 betrayal noun
 betrothal noun
@@ -267,7 +267,7 @@ beverage noun
 bewilderment noun pl=- note=uncountable
 bey noun conf=90 note=Ottoman title, usually capitalized after a name
 bhaji noun
-bias noun
+bias noun prep=against|towards|toward|in|for
 bib noun
 bibimbap noun pl=- note=uncountable
 bible noun
@@ -281,12 +281,12 @@ biennial noun
 bight noun
 bigotry noun pl=- note=uncountable
 bijou noun pl=bijoux conf=90 note=a jewel or trinket
-bike noun
+bike noun vb=ride|park|get_on xvb=drive
 bikini noun
 bilberry noun
 bile noun pl=- note=uncountable
 bilirubin noun pl=- note=uncountable
-bill noun
+bill noun vb=pay|settle|split|foot|pass
 billboard noun
 billiard noun note=attributive (billiard table); plural billiards is the game
 billionaire noun
@@ -359,7 +359,7 @@ blackout noun
 blacksmith noun
 bladder noun
 blade noun
-blame noun pl=- note=uncountable
+blame noun prep=for|on vb=take|accept|put|lay|shift|get pl=- note=uncountable
 blamelessness noun pl=- note=uncountable
 blancmange noun
 blank noun
@@ -449,7 +449,7 @@ bombardment noun
 bomber noun
 bombing noun
 bonanza noun
-bond noun
+bond noun prep=with|between|of
 bondage noun pl=- note=uncountable
 bondholder noun
 bonding noun pl=- note=uncountable
@@ -511,7 +511,7 @@ bourbon noun
 bourgeois noun pl=bourgeois
 bourgeoisie noun
 bout noun
-bow noun
+bow noun vb=take|make|give
 bowel noun
 bower noun
 bowl noun
@@ -548,12 +548,12 @@ breach noun
 bread noun
 breadth noun
 breadwinner noun
-break noun
+break noun vb=take|have|need xvb=make?|do?
 breakaway noun
 breakdown noun
 breaker noun
 breakeven noun conf=80 note=also break-even
-breakfast noun
+breakfast noun vb=have|eat|make|cook|skip
 breakout noun
 breakroom noun region=US
 breakthrough noun
@@ -562,7 +562,7 @@ breakup noun
 breakwater noun
 breast noun
 breaststroke noun
-breath noun
+breath noun vb=take|hold|catch|draw
 breech noun
 breed noun
 breeder noun
@@ -573,7 +573,7 @@ brevity noun pl=- note=uncountable
 brew noun
 brewer noun
 brewery noun
-bribe noun
+bribe noun vb=take|accept|offer|pay
 bribery noun pl=- note=uncountable
 brick noun
 bride noun
@@ -690,7 +690,7 @@ bunker noun
 bunny noun
 buoyancy noun pl=- note=uncountable
 buprenorphine noun pl=- note=uncountable
-burden noun
+burden noun prep=on|of|to|for
 bureau noun pl=bureaus|bureaux
 bureaucracy noun
 bureaucrat noun
@@ -712,11 +712,11 @@ burrow noun
 bursary noun
 burst noun
 burthen noun style=archaic note=archaic spelling of burden
-bus noun
+bus noun vb=take|catch|get|miss|drive|board|ride
 bush noun
 bushel noun
 bushido noun pl=- note=uncountable
-business noun
+business noun vb=do|run|start|own|set_up
 businessman noun pl=businessmen
 businessperson noun pl=businesspeople|businesspersons
 businesswoman noun pl=businesswomen

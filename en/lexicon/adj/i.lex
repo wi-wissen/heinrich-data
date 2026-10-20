@@ -5,7 +5,7 @@ iconic         adj
 icy adj cmp=er adv=icily
 ideal          adj adv=ideally
 idealistic adj cmp=more adv=idealistically
-identical      adj adv=identically
+identical      adj prep=to|with adv=identically
 identifiable   adj
 ideological    adj adv=ideologically
 idiotic adj cmp=more adv=idiotically
@@ -14,8 +14,8 @@ idyllic adj adv=idyllically
 igneous adj
 ignoble adj
 ignominious adj adv=ignominiously
-ignorant       adj
-ill            adj
+ignorant       adj comp=wh prep=of|about
+ill            adj prep=with
 ill-natured adj cmp=more note=natured is not a word on its own
 illegal        adj adv=illegally
 illegible adj adv=illegibly
@@ -40,7 +40,7 @@ imminent       adj adv=imminently
 immoral adj
 immortal       adj
 immovable adj
-immune         adj
+immune         adj prep=to|from xprep=against?
 immunocompromised adj
 immutable adj adv=immutably
 impactful adj cmp=more
@@ -48,7 +48,7 @@ impartial      adj adv=impartially
 impassable adj
 impassioned adj
 impassive adj adv=impassively
-impatient      adj cmp=more adv=impatiently
+impatient      adj comp=to prep=with|at|for cmp=more adv=impatiently
 impending      adj attr_only
 impenetrable adj
 imperative     adj
@@ -66,12 +66,14 @@ impious adj
 implacable adj adv=implacably
 implantable adj
 implicit adj adv=implicitly
-important      adj cmp=more adv=importantly
+impolite adj cmp=more comp=to prep=to|of
+important      adj comp=to|that prep=to|for cmp=more adv=importantly
 impossible     adj adv=impossibly
 impotent adj
 impracticable  adj
 impractical adj
 impregnable adj
+impressed adj cmp=more comp=to|that prep=by|with xprep=of?|from?
 impressive     adj adv=impressively
 improbable     adj adv=improbably
 impromptu adj
@@ -105,12 +107,12 @@ incessant adj adv=incessantly
 incidental     adj adv=incidentally
 incipient adj
 inclement adj
-inclined       adj
+inclined       adj comp=to prep=to|towards|toward
 inclusive      adj adv=inclusively
 incoherent adj adv=incoherently
 incoming       adj attr_only
 incomparable adj adv=incomparably
-incompatible   adj
+incompatible   adj prep=with
 incompetent adj
 incomplete     adj
 incomprehensible adj
@@ -136,14 +138,14 @@ indefensible adj
 indefinable adj
 indefinite     adj adv=indefinitely
 indelible adj adv=indelibly
-independent    adj adv=independently
+independent    adj prep=of|from adv=independently
 indescribable adj
 indestructible adj
 indeterminate adj
 Indian         adj
 indicative     adj
 indie adj
-indifferent    adj adv=indifferently
+indifferent    adj prep=to|towards|toward adv=indifferently
 indigenous     adj
 indignant      adj adv=indignantly
 indigo adj
@@ -189,7 +191,7 @@ infantile adj
 infatuated adj
 infeasible adj
 infectious     adj
-inferior       adj
+inferior       adj prep=to xprep=than
 infernal adj
 infinite       adj adv=infinitely
 infinitesimal adj adv=infinitesimally
@@ -223,7 +225,7 @@ inmost adj
 innate adj
 inner          adj attr_only
 innermost adj
-innocent       adj adv=innocently
+innocent       adj prep=of adv=innocently
 innovative     adj
 innumerable    adj
 inoffensive adj
@@ -245,11 +247,12 @@ insidious adj adv=insidiously
 insightful adj cmp=more adv=insightfully
 insignificant  adj
 insincere adj adv=insincerely
-insistent adj cmp=more adv=insistently
+insistent adj comp=that|p_ing prep=on|upon cmp=more adv=insistently
 insolent adj adv=insolently
 insoluble adj
 insolvent adj
 inspirational adj
+inspired adj cmp=more comp=to prep=by|with
 instant        adj adv=instantly
 instantaneous  adj adv=instantaneously
 instinctive    adj adv=instinctively
@@ -270,7 +273,7 @@ intelligent    adj cmp=more adv=intelligently
 intelligible adj
 intense        adj cmp=er|more adv=intensely
 intensive      adj adv=intensively
-intent         adj adv=intently
+intent         adj comp=to|p_ing prep=on|upon adv=intently
 intentional    adj adv=intentionally
 interactive    adj adv=interactively
 interagency adj
@@ -281,7 +284,7 @@ intercontinental adj
 interdepartmental adj
 interdependent adj
 interdisciplinary adj
-interested     adj cmp=more
+interested     adj comp=to|that|p_ing prep=in xprep=for?|on|about? cmp=more
 interesting    adj cmp=more adv=interestingly
 interfaith adj
 intergovernmental adj
@@ -335,6 +338,7 @@ invincible adj
 invisible      adj adv=invisibly
 invitational adj
 involuntary adj adv=involuntarily
+involved adj cmp=more prep=in|with
 inward         adj
 Ionic adj note=the order of architecture and the Greek dialect
 ionic adj note=chemistry
@@ -350,7 +354,7 @@ irrational adj adv=irrationally
 irreconcilable adj
 irreducible adj
 irregular      adj adv=irregularly
-irrelevant adj
+irrelevant adj prep=to|for
 irreparable adj adv=irreparably
 irreplaceable adj
 irrepressible adj
@@ -362,6 +366,7 @@ irreverent adj cmp=more adv=irreverently
 irreversible adj
 irrevocable adj adv=irrevocably
 irritable adj cmp=more adv=irritably
+irritated adj cmp=more comp=to|that prep=by|at|with|about
 Islamic        adj
 Islamist adj
 isomorphic adj

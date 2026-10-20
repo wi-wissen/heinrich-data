@@ -17,7 +17,7 @@ general        adj adv=generally
 generational adj
 generative adj
 generic        adj adv=generically
-generous       adj cmp=more adv=generously
+generous       adj comp=to prep=with|to|towards|toward|in cmp=more adv=generously
 genetic        adj adv=genetically
 genial         adj adv=genially
 genital adj
@@ -25,7 +25,7 @@ genitive adj
 Genoese adj
 genomic adj
 genteel adj cmp=more
-gentle         adj cmp=er adv=gently
+gentle         adj prep=with|to|on|towards|toward cmp=er adv=gently
 gentlemanly adj
 genuine        adj adv=genuinely
 geographic     adj adv=geographically
@@ -53,7 +53,7 @@ gingerly adj
 ginormous adj style=colloquial
 girlish adj
 glacial adj
-glad           adj cmp=er adv=gladly
+glad           adj comp=to|that prep=of|about|for cmp=er adv=gladly
 glamorous adj cmp=more adv=glamorously
 glassy adj cmp=er
 gleeful adj cmp=more adv=gleefully
@@ -69,7 +69,7 @@ gnarled adj
 godlike adj
 godly adj cmp=er|more
 golden         adj
-good           adj cmp=better sup=best adv=well
+good           adj comp=to|p_ing|that prep=at|for|to|with|about|in|of cmp=better sup=best adv=well
 good-hearted adj cmp=more adv=good-heartedly
 good-natured adj cmp=more adv=good-naturedly
 goodly adj cmp=er
@@ -88,7 +88,7 @@ graphic        adj adv=graphically
 graphical adj
 grassroots     adj
 grassy adj cmp=er
-grateful       adj cmp=more adv=gratefully
+grateful       adj comp=to|that prep=for|to cmp=more adv=gratefully
 gratuitous adj adv=gratuitously
 grave          adj cmp=er adv=gravely
 graven adj note=old participle of grave, as in graven image
@@ -97,7 +97,7 @@ gray           adj cmp=er gb=grey
 greaseproof adj region=GB
 greasy adj cmp=er
 great          adj cmp=er adv=greatly
-greedy adj cmp=er adv=greedily
+greedy adj prep=for cmp=er adv=greedily
 Greek          adj
 green          adj cmp=er
 greenish adj
@@ -118,5 +118,5 @@ grumpy adj cmp=er adv=grumpily
 gubernatorial  adj
 guileful adj cmp=more adv=guilefully
 guileless adj
-guilty         adj cmp=er|more adv=guiltily
+guilty         adj comp=to|p_ing|ing prep=of|about|for cmp=er|more adv=guiltily
 guttural adj

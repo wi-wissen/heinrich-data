@@ -1,4 +1,4 @@
-race verb
+race verb comp=to prep=against|for|with|to
 rack verb
 radiate verb
 radio verb
@@ -16,7 +16,7 @@ ramp verb
 ranch verb
 randomize verb gb=randomise|randomize
 range verb
-rank verb
+rank verb prep=among|as|above|below
 ransack verb
 ransom verb
 rap verb
@@ -31,13 +31,13 @@ raze verb
 re-elect verb us=reelect|re-elect
 re-release verb
 reach verb
-react verb
+react verb prep=to|against|with xprep=on?
 reactivate verb
-read verb past=read pp=read
+read verb prep=about|of|to|from past=read pp=read
 ready verb
 reaffirm verb
 realign verb
-realize verb gb=realise|realize
+realize verb comp=that|wh gb=realise|realize
 reallocate verb
 reap verb
 reappear verb
@@ -45,14 +45,14 @@ reapply verb
 reappoint verb
 rear verb
 rearrange verb
-reason verb
+reason verb comp=that|wh prep=with|about|from
 reassert verb
 reassess verb
 reassign verb
 reassure verb
 rebalance verb
 rebate verb
-rebel verb double
+rebel verb prep=against double
 reboot verb
 rebound verb
 rebrand verb
@@ -60,7 +60,7 @@ rebuff verb
 rebuild verb prefix=re past=rebuilt pp=rebuilt
 rebuke verb
 rebut verb double
-recall verb
+recall verb comp=ing|obj_ing|that|wh prep=to|from
 recap verb double
 recapture verb
 recast verb prefix=re past=recast pp=recast
@@ -70,15 +70,15 @@ recess verb
 recharge verb
 reciprocate verb
 recite verb
-reckon verb
+reckon verb comp=that|to|obj_to|p_ing prep=on|with|without
 reclaim verb
 reclassify verb
 recline verb
 recognize verb gb=recognise|recognize
 recoil verb
-recollect verb
+recollect verb comp=to|ing|obj_ing|that|wh
 recommence verb
-recommend verb
+recommend verb comp=ing|that|obj_to prep=to|for|as
 recommit verb prefix=re double
 recompense verb
 reconcile verb
@@ -90,11 +90,11 @@ reconstitute verb
 reconstruct verb
 reconvene verb
 record verb
-recount verb
+recount verb comp=wh|that
 recoup verb
-recover verb
+recover verb prep=from xprep=of?
 recreate verb
-recruit verb
+recruit verb comp=obj_to prep=to|into|for|from
 rectify verb
 recur verb double
 recuse verb
@@ -121,29 +121,29 @@ reestablish verb note=British texts mostly hyphenate (re-establish)
 reevaluate verb note=also written re-evaluate
 reexport verb
 ref verb style=colloquial double conf=80 note=to referee
-refer verb double
+refer verb prep=to xprep=on? double
 referee verb
 reference verb
 refinance verb
 refine verb
 refit verb prefix=re
-reflect verb
+reflect verb comp=that|wh prep=on|upon|in xprep=about?|over?
 refocus verb
 reform verb
 reformat verb double
-refrain verb
+refrain verb comp=p_ing prep=from
 refresh verb
 refrigerate verb
 refuel verb
 refund verb
 refurbish verb
-refuse verb
+refuse verb comp=to
 refute verb
 regain verb
 regard verb
 regenerate verb
 register verb
-regret verb double
+regret verb comp=to|ing|that|obj_ing xprep=about double
 regulate verb
 rehabilitate verb
 rehearse verb
@@ -162,39 +162,40 @@ reinvigorate verb
 reissue verb
 reiterate verb
 reject verb
-rejoice verb
+rejoice verb comp=to|that|p_ing prep=in|at|over|with
 rejoin verb prefix=re
 relapse verb
-relate verb
+relate verb prep=to|with
 relaunch verb
 relax verb
 relay verb
 release verb
 relegate verb
 relent verb
-relieve verb
+relieve verb prep=of|from
 relinquish verb
-relish verb
+relish verb comp=ing|obj_ing
 reload verb
 relocate verb
-rely verb
-remain verb
+rely verb comp=p_ing prep=on|upon xprep=of|from|at
+remain verb comp=to|ing|that|bare
 remake verb prefix=re past=remade pp=remade
 remand verb
-remark verb
+remark verb comp=that|wh|obj_to prep=on|upon
 remarry verb
 remaster verb
 rematch verb
 remediate verb
 remedy verb
-remember verb
-remind verb
+remember verb comp=ing|to|that|wh|obj_ing
+remind verb comp=obj_to|obj_that|that|wh prep=of|about
+reminisce verb comp=p_ing prep=about|over|on|with
 remit verb double
 remix verb
 remodel verb
 remonstrate verb
 remortgage verb region=GB
-remove verb
+remove verb prep=from
 remunerate verb
 rename verb
 rend verb past=rent pp=rent
@@ -202,7 +203,7 @@ render verb
 rendezvous verb
 renegotiate verb
 renew verb
-renounce verb
+renounce verb comp=ing
 renovate verb
 rent verb
 renumber verb
@@ -216,14 +217,14 @@ repay verb prefix=re past=repaid pp=repaid
 repeal verb
 repeat verb
 repel verb double
-repent verb
+repent verb comp=ing|p_ing|that prep=of
 rephrase verb
 replace verb
 replay verb
 replenish verb
 replicate verb
 reply verb
-report verb
+report verb comp=ing|that|wh|obj_to|obj_ing prep=to|on|for
 repose verb
 repost verb
 represent verb
@@ -241,35 +242,35 @@ repudiate verb
 repulse verb
 repurchase verb
 repurpose verb
-request verb
-require verb
+request verb comp=to|that|obj_to xprep=for?
+require verb comp=ing|to|obj_to|that prep=of
 requisition verb
 reroute verb
 rerun verb prefix=re past=reran pp=rerun
 reschedule verb
 rescind verb
-rescue verb
+rescue verb prep=from
 research verb
 resell verb prefix=re past=resold pp=resold
-resemble verb
-resent verb
+resemble verb xprep=to?|with
+resent verb comp=ing|obj_ing|that
 reserve verb
 reset verb past=reset pp=reset double
 resettle verb
 reshape verb
 reshuffle verb
 reside verb
-resign verb
-resist verb
+resign verb prep=from|as|to
+resist verb comp=ing|obj_ing
 resit verb prefix=re past=resat pp=resat region=GB note=to take an exam again
-resolve verb
-resort verb
+resolve verb comp=to|that|wh|p_ing prep=on|upon|into
+resort verb comp=p_ing prep=to
 resound verb
 resource verb
 respawn verb
 respect verb
-respond verb
-rest verb
+respond verb comp=that prep=to|with
+rest verb prep=on|upon|with
 restart verb
 restate verb
 restore verb
@@ -277,35 +278,35 @@ restrain verb
 restrict verb
 restructure verb
 resubmit verb double
-result verb
-resume verb
+result verb comp=p_ing prep=in|from
+resume verb comp=ing
 resupply verb
 resurface verb
 resurrect verb
 retail verb
 retain verb
 retake verb prefix=re past=retook pp=retaken
-retaliate verb
+retaliate verb prep=against|with|by|for
 retard verb note=to slow down
 retell verb prefix=re past=retold pp=retold
 retest verb
 rethink verb prefix=re past=rethought pp=rethought
-retire verb
+retire verb prep=from|to
 retitle verb
-retort verb
+retort verb comp=that
 retrace verb
 retract verb
 retrain verb
 retreat verb
 retrieve verb
 retrofit verb prefix=retro
-return verb
+return verb prep=to|from
 retweet verb
 reunite verb prefix=re
 reuse verb
 revalue verb
 revamp verb
-reveal verb
+reveal verb comp=that|wh|obj_to
 revel verb
 revenge verb
 revere verb
@@ -327,16 +328,16 @@ rework verb
 rewrite verb prefix=re past=rewrote pp=rewritten
 rhyme verb
 rib verb
-rid verb past=rid pp=rid
+rid verb prep=of xprep=from past=rid pp=rid
 riddle verb
-ride verb past=rode pp=ridden
+ride verb prep=on|in past=rode pp=ridden
 ridge verb
 ridicule verb
 riff verb
 rifle verb
 rig verb
 right verb
-ring verb past=rang pp=rung sense=sound
+ring verb prep=for|at past=rang pp=rung sense=sound
 ring verb sense=encircle
 rinse verb
 riot verb
@@ -344,13 +345,13 @@ rip verb
 ripen verb
 ripple verb
 rise verb past=rose pp=risen
-risk verb
+risk verb comp=ing|obj_ing
 rival verb
 rivet verb
 roam verb
 roar verb
 roast verb
-rob verb
+rob verb prep=of
 rock verb
 rocket verb
 roll verb
@@ -374,12 +375,12 @@ rub verb
 rue verb ing=ruing|rueing
 ruffle verb
 ruin verb
-rule verb
+rule verb comp=that prep=on|against|over
 rumble verb
 rumor verb gb=rumour note=mostly passive: is rumored to
-run verb past=ran pp=run
+run verb prep=into|for|across|on|after past=ran pp=run
 rupture verb
-rush verb
+rush verb comp=to|ing prep=into|to
 rust verb
 rustle verb
 rut verb

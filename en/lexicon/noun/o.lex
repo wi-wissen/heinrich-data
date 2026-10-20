@@ -2,7 +2,7 @@ oak           noun
 oar           noun
 oasis noun pl=oases
 oat noun
-oath          noun
+oath          noun vb=take|swear
 oatmeal noun pl=- note=uncountable
 OBE           noun abbr note=Officer of the Order of the British Empire
 obedience     noun pl=- note=uncountable
@@ -10,11 +10,11 @@ obelisk noun
 obesity       noun pl=- note=uncountable
 obituary noun
 object        noun
-objection     noun
+objection     noun prep=to|against
 objective     noun
 objectivity noun pl=- note=uncountable
 oblast        noun
-obligation    noun
+obligation    noun prep=to|toward|towards
 oblivion noun pl=- note=uncountable
 oblong noun
 oboe noun
@@ -23,9 +23,9 @@ observance noun
 observation   noun
 observatory   noun
 observer      noun
-obsession noun
+obsession noun prep=with
 obsessive noun
-obstacle      noun
+obstacle      noun prep=to|for
 obstinacy noun pl=- note=uncountable
 obstruction   noun
 obtuseness noun pl=- note=uncountable
@@ -46,9 +46,9 @@ odor noun gb=odour
 odyssey noun
 offboarding noun pl=- note=uncountable
 offender      noun
-offense       noun gb=offence
+offense       noun prep=against|to gb=offence
 offensive     noun
-offer         noun
+offer         noun vb=make|accept|refuse
 offering      noun
 offeror noun
 office        noun
@@ -94,16 +94,16 @@ opener noun
 opening       noun
 openness      noun pl=- note=uncountable
 opera         noun
-operation     noun
+operation     noun vb=perform|carry_out|have|undergo xvb=make?
 operative     noun
 operator      noun
 operculum noun pl=opercula
-opinion       noun
+opinion       noun prep=of|on|about
 opioid noun
 opium noun pl=- note=uncountable
 opossum noun
 opponent      noun
-opportunity   noun
+opportunity   noun prep=for|of
 opposition    noun
 oppression    noun
 optic noun
@@ -126,7 +126,7 @@ orchestra     noun
 orchestration noun
 orchid noun
 ordeal noun
-order         noun
+order         noun prep=for|of vb=give|place|take
 orderly       noun
 ordinal noun
 ordinance     noun
@@ -168,7 +168,7 @@ ounce noun
 outage noun
 outboard noun
 outbox noun
-outbreak      noun
+outbreak      noun prep=of
 outbuilding noun
 outburst noun
 outcast noun

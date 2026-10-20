@@ -2,7 +2,7 @@ e-book noun
 e-commerce noun pl=- note=uncountable
 e-mail noun note=hyphenated spelling of email
 e-reader noun
-eagerness noun pl=- note=uncountable
+eagerness noun prep=for pl=- note=uncountable
 eagle noun
 ear noun
 earache noun
@@ -64,13 +64,13 @@ editorship noun
 education noun
 educator noun
 eel noun
-effect noun
+effect noun prep=on|upon|of
 effectiveness noun pl=- note=uncountable
 efficacy noun pl=- note=uncountable
 efficiency noun
 effigy noun
 effluent noun
-effort noun
+effort noun vb=make xvb=do?
 effrontery noun pl=- note=uncountable
 effusion noun
 egalitarian noun
@@ -93,7 +93,7 @@ elbow noun
 elder noun
 elderberry noun
 elderflower noun
-election noun
+election noun vb=hold|win|lose|call
 electioneering noun pl=- note=uncountable
 elective noun
 elector noun
@@ -122,10 +122,10 @@ elocutionist noun
 elongation noun
 eloquence noun pl=- note=uncountable
 em noun
-email noun
+email noun vb=send|write
 emancipation noun
 embankment noun
-embargo noun pl=embargoes
+embargo noun prep=on|against pl=embargoes
 embarkation noun
 embarrassment noun
 embassy noun
@@ -155,7 +155,7 @@ emotion noun
 empanada noun
 empathy noun
 emperor noun
-emphasis noun pl=emphases
+emphasis noun prep=on|upon pl=emphases
 empire noun
 employability noun pl=- note=uncountable
 employee noun
@@ -178,7 +178,7 @@ enclave noun
 enclosure noun
 encoder noun
 encore noun
-encounter noun
+encounter noun prep=with|between
 encouragement noun
 encroachment noun
 encryption noun
@@ -200,7 +200,7 @@ enforcement noun pl=- note=uncountable
 enforcer noun
 enfranchisement noun pl=- note=uncountable
 engagement noun
-engine noun
+engine noun vb=start|turn_on|turn_off|switch_on|switch_off|stop
 engineer noun
 engineering noun pl=- note=uncountable
 English noun note=the language; plural Englishes for varieties of English
@@ -227,21 +227,21 @@ entanglement noun
 enterprise noun
 entertainer noun
 entertainment noun
-enthusiasm noun
+enthusiasm noun prep=for|about
 enthusiast noun
 entirety noun pl=- note=uncountable
 entitlement noun
 entity noun
 entomologist noun
 entourage noun
-entrance noun
+entrance noun prep=to|into vb=make
 entrant noun
 entreaty noun
 entree noun conf=90 note=also written entrée
 entrepreneur noun
 entrepreneurship noun pl=- note=uncountable
 entropy noun
-entry noun
+entry noun prep=into|to|in|for|on
 entrée noun conf=90 note=also written entree
 enumeration noun
 envelope noun
@@ -249,7 +249,7 @@ environment noun
 environmentalist noun
 environs noun pl_only
 envoy noun
-envy noun pl=- note=uncountable
+envy noun prep=of|at|for|toward|towards xprep=on? pl=- note=uncountable
 enzyme noun
 EP noun abbr note=extended play record
 epic noun
@@ -291,11 +291,11 @@ ergonomics noun pl_only conf=90 note=construed as singular
 ermine noun pl=ermine|ermines
 erosion noun pl=- note=uncountable
 errand noun
-error noun
+error noun vb=make|commit xvb=do
 erudition noun pl=- note=uncountable
 eruption noun
 escalation noun
-escape noun
+escape noun prep=from|to|of vb=make|plan
 escarpment noun
 escort noun
 escrow noun
@@ -303,7 +303,7 @@ ESP noun abbr pl=- note=extrasensory perception
 espionage noun pl=- note=uncountable
 esports noun pl=- conf=90 note=uncountable; also e-sports
 espresso noun pl=espressos
-essay noun
+essay noun vb=write xvb=make?
 essayist noun
 essence noun
 essential noun note=essentials
@@ -311,7 +311,7 @@ establishment noun
 estate noun
 esteem noun pl=- note=uncountable
 ester noun
-estimate noun
+estimate noun vb=make|give|get
 estimation noun
 Estonian noun
 estradiol noun pl=- note=a hormone; British also oestradiol
@@ -353,7 +353,7 @@ evening noun
 event noun
 evergreen noun
 eviction noun
-evidence noun pl=- note=uncountable
+evidence noun prep=of|for|on|against|about pl=- note=uncountable
 evil noun
 evolution noun
 ewe noun
@@ -361,16 +361,16 @@ ex noun conf=90 note=former partner
 exactness noun pl=- note=uncountable
 exaggeration noun
 exaltation noun
-exam noun
-examination noun
+exam noun vb=take|sit|pass|fail|do|write xvb=make?
+examination noun vb=take|sit|pass|carry_out
 examiner noun
-example noun
+example noun prep=of|for|to
 exasperation noun pl=- note=uncountable
 excavation noun
 exceedance noun conf=90 note=technical: an instance of exceeding a limit
 excellence noun
 excellency noun
-exception noun
+exception noun prep=to|of|for vb=make
 excerpt noun
 excess noun
 exchange noun
@@ -383,14 +383,14 @@ exclusion noun
 exclusivity noun
 excommunication noun
 excursion noun
-excuse noun
+excuse noun prep=for vb=make|find|give
 executable noun
 execution noun
 executioner noun
 executive noun
 executor noun
 exemption noun
-exercise noun
+exercise noun vb=do|take|get xvb=make?
 exertion noun
 exhaust noun
 exhaustion noun pl=- note=uncountable
@@ -401,7 +401,7 @@ exhilaration noun pl=- note=uncountable
 exigency noun
 exile noun
 existence noun
-exit noun
+exit noun vb=make|take
 exodus noun
 exogamy noun pl=- note=uncountable
 expanse noun
@@ -415,14 +415,14 @@ expedient noun
 expedition noun
 expenditure noun
 expense noun
-experience noun
+experience noun prep=of|in|with vb=have|gain xvb=make
 experiment noun
 experimentation noun
-expert noun
-expertise noun pl=- note=uncountable
+expert noun prep=on|in|at xprep=for?
+expertise noun prep=in|on xprep=for? pl=- note=uncountable
 expiration noun
 expiry noun
-explanation noun
+explanation noun prep=for|of vb=give|offer|provide
 exploit noun
 exploitation noun
 exploration noun
@@ -435,7 +435,7 @@ export noun
 exportation noun
 exporter noun
 exposition noun
-exposure noun
+exposure noun prep=to
 express noun
 expression noun
 expressway noun

@@ -1,5 +1,5 @@
 kayak verb
-keep           verb past=kept pp=kept
+keep           verb comp=ing|obj_ing prep=to|from|off|at past=kept pp=kept
 key            verb
 keynote verb
 kick           verb
@@ -11,11 +11,11 @@ kindle verb
 kiss           verb
 knacker verb region=GB note=to exhaust; knackered
 knead verb
-kneel          verb past=knelt|kneeled pp=knelt|kneeled
+kneel          verb prep=on|before|at past=knelt|kneeled pp=knelt|kneeled
 knife          verb
 knight         verb
 knit verb past=knitted|knit pp=knitted|knit
-knock          verb
+knock          verb prep=on|at|into|against
 knot           verb
-know           verb past=knew pp=known
+know           verb comp=that|wh|to|obj_to|obj_bare prep=about|of past=knew pp=known
 knuckle verb

@@ -2,7 +2,7 @@ rabbi noun
 rabbit noun
 rabble noun
 raccoon noun
-race noun
+race noun vb=run|win|lose|have|enter
 racecourse noun
 racehorse noun
 racer noun
@@ -22,7 +22,7 @@ radical noun
 radicalism noun pl=- note=uncountable
 radicalization noun gb=radicalisation|radicalization
 radicchio noun pl=- note=uncountable
-radio noun pl=radios
+radio noun vb=turn_on|turn_off|switch_on|switch_off xvb=open>turn_on|close>turn_off pl=radios
 radiocarbon noun pl=- note=uncountable
 radioisotope noun
 radiopharmaceutical noun
@@ -109,7 +109,7 @@ RBI noun abbr note=run batted in (baseball)
 re-election noun us=reelection|re-election
 re-release noun
 reach noun
-reaction noun
+reaction noun prep=to|against|from xprep=on?
 reactionary noun
 reactivity noun
 reactor noun
@@ -132,7 +132,7 @@ ream noun
 reappearance noun
 reappointment noun
 rear noun
-reason noun
+reason noun prep=for|behind vb=give|have|find|see
 reasonableness noun pl=- note=uncountable
 reasoning noun
 reassessment noun
@@ -162,7 +162,7 @@ recertification noun
 recess noun
 recession noun
 recharge noun
-recipe noun
+recipe noun prep=for
 recipient noun
 reciprocity noun pl=- note=uncountable
 recital noun
@@ -182,14 +182,14 @@ reconciliation noun
 reconnaissance noun pl=- note=uncountable
 reconsideration noun
 reconstruction noun
-record noun
+record noun vb=keep|set|break|hold|make
 recorder noun
 recording noun
 recordkeeping noun pl=- note=uncountable
 recount noun
 recoupment noun
 recourse noun pl=- note=uncountable
-recovery noun
+recovery noun prep=from
 recreation noun
 recruit noun
 recruiter noun
@@ -220,7 +220,7 @@ redness noun pl=- note=uncountable
 redox noun pl=- note=uncountable
 redress noun pl=- note=uncountable
 redskin noun style=offensive note=derogatory term for Indigenous Americans
-reduction noun
+reduction noun prep=in|of
 redundancy noun
 redwood noun
 reed noun
@@ -232,7 +232,7 @@ reevaluation noun conf=90 note=also re-evaluation
 ref noun style=colloquial note=referee; reference
 refectory noun
 referee noun
-reference noun
+reference noun prep=to xprep=on? vb=make|give|provide|write
 referendum noun pl=referendums|referenda
 referral noun
 refinement noun
@@ -257,7 +257,7 @@ refurbishment noun
 refusal noun
 refuse noun pl=- note=rubbish
 reg noun style=colloquial note=short for regulation, mainly plural regs
-regard noun
+regard noun prep=for|to
 regency noun
 regeneration noun pl=- note=uncountable
 regent noun
@@ -296,7 +296,7 @@ rejection noun
 rejoinder noun
 relapse noun
 relation noun
-relationship noun
+relationship noun prep=with|between|to
 relative noun
 relativism noun pl=- note=uncountable
 relativity noun pl=- note=uncountable
@@ -306,7 +306,7 @@ release noun
 relegation noun
 relevance noun pl=- note=uncountable
 reliability noun pl=- note=uncountable
-reliance noun pl=- note=uncountable
+reliance noun prep=on|upon xprep=from? pl=- note=uncountable
 relic noun
 relief noun pl=reliefs
 religion noun
@@ -317,10 +317,10 @@ remainder noun
 remains noun pl_only
 remake noun
 remand noun
-remark noun
+remark noun vb=make|pass
 rematch noun
 remediation noun pl=- note=uncountable
-remedy noun
+remedy noun prep=for|against|to
 remembrance noun
 reminder noun
 reminiscence noun
@@ -349,7 +349,7 @@ renewable noun
 renewal noun
 renovation noun
 renown noun pl=- note=uncountable
-rent noun
+rent noun vb=pay|charge|raise
 rental noun
 rentcharge noun conf=90 note=English property law term
 renter noun
@@ -375,9 +375,9 @@ replay noun
 replenishment noun pl=- note=uncountable
 replica noun
 replication noun
-reply noun
+reply noun prep=to xprep=on? vb=give|send|write|receive|get
 repo noun conf=85 note=short for repository
-report noun
+report noun prep=on|about|of|from|by|to|in vb=write|make|file|give|submit|read
 reporter noun
 repose noun pl=- note=uncountable
 repository noun
@@ -400,10 +400,10 @@ repudiation noun
 repugnance noun
 repulsion noun
 repurchase noun
-reputation noun
+reputation noun prep=for|as
 repute noun pl=- note=uncountable: of good repute
 requalification noun
-request noun
+request noun prep=for|from|to vb=make|submit|send|grant|refuse|reject
 requester noun
 requestor noun note=also spelled requester
 requiem noun
@@ -413,14 +413,14 @@ requisition noun
 rerun noun
 resale noun
 rescission noun
-rescue noun
+rescue noun vb=mount|attempt
 rescuer noun
-research noun
+research noun prep=on|into|in xprep=about? vb=do|carry_out|conduct xvb=make>do
 researcher noun
 reseller noun
 resemblance noun
-resentment noun
-reservation noun
+resentment noun prep=at|toward|towards|against|of|over
+reservation noun vb=make|have|cancel|confirm
 reserve noun
 reservist noun
 reservoir noun
@@ -436,7 +436,7 @@ resignation noun
 resilience noun pl=- note=uncountable
 resiliency noun pl=- note=uncountable
 resin noun
-resistance noun
+resistance noun prep=to|against
 resistivity noun
 resit noun region=GB
 resolution noun
@@ -446,16 +446,16 @@ resonator noun
 resort noun
 resource noun
 respawn noun
-respect noun
+respect noun prep=for xprep=before? vb=show|have|earn|gain|pay|deserve
 respectability noun pl=- note=uncountable
 respiration noun pl=- note=uncountable
 respite noun
 respondent noun
 responder noun
-response noun
-responsibility noun
+response noun prep=to xprep=on?
+responsibility noun prep=for|to|of vb=take|accept|bear|have|assume|share
 responsiveness noun pl=- note=uncountable
-rest noun
+rest noun vb=take|have|get|need
 restart noun
 restaurant noun
 restitution noun pl=- note=uncountable
@@ -466,7 +466,7 @@ restraint noun
 restriction noun
 restroom noun
 restructuring noun
-result noun
+result noun prep=of|from vb=get|achieve|produce|obtain|have|show|announce
 resume noun conf=85 note=US for curriculum vitae; also written résumé
 resumption noun
 resupply noun
@@ -495,7 +495,7 @@ retrieval noun
 retrofit noun
 retrospect noun pl=- note=mostly in retrospect
 retrospective noun
-return noun
+return noun prep=to|from|of|on
 reunification noun
 reunion noun
 reuse noun
@@ -503,7 +503,7 @@ revaluation noun
 revel noun
 revelation noun
 revelry noun
-revenge noun note=plural revenges is literary
+revenge noun vb=take|get|seek|want|have note=plural revenges is literary
 revenue noun
 reverence noun note=plural reverences: bows (archaic)
 reverend noun
@@ -573,13 +573,13 @@ riot noun
 rioter noun
 rip noun
 ripple noun
-rise noun
-risk noun
+rise noun prep=in|of|to
+risk noun prep=of|to|for vb=take|run|reduce|pose|face xvb=go>take
 risotto noun pl=risottos
 ristretto noun pl=ristrettos
 rite noun
 ritual noun
-rival noun
+rival noun prep=to|for|in
 rivalry noun
 river noun
 riverfront noun
@@ -611,7 +611,7 @@ rodeo noun
 roebuck noun pl=roebuck|roebucks
 rogue noun
 ROI noun abbr pl=- note=return on investment
-role noun
+role noun vb=play|have|take|assume
 roll noun
 roller noun
 rollout noun
@@ -630,7 +630,7 @@ rooibos noun pl=- note=uncountable
 rook noun
 rookery noun
 rookie noun
-room noun
+room noun vb=book|make|leave|clean|tidy|share|rent
 roommate noun
 rooster noun
 root noun
@@ -659,7 +659,7 @@ rouge noun
 rough noun
 roughness noun
 roulade noun
-round noun
+round noun vb=buy|play|win|lose
 roundabout noun
 roundtable noun
 rout noun
@@ -698,7 +698,7 @@ ruffle noun
 rug noun
 rugby noun pl=- note=uncountable
 ruin noun
-rule noun
+rule noun vb=follow|break|obey|make|set|apply
 rulebook noun
 rulemaking noun note=US administrative law term; countable (rulemakings)
 ruler noun

@@ -1,19 +1,19 @@
 ice            verb
 idealize verb gb=idealise|idealize
-identify       verb
+identify       verb prep=with|as
 idle           verb
 ignite verb
 ignore         verb
 illuminate     verb
 illumine verb style=archaic
 illustrate     verb
-imagine        verb
+imagine        verb comp=ing|obj_ing|obj_to|that|wh
 imbed verb double conf=90 note=variant spelling of embed
 imbibe verb
 imbue verb
 imitate verb
 immerse verb
-immigrate verb
+immigrate verb prep=to|into|from
 impact         verb
 impair         verb
 impart verb
@@ -23,16 +23,16 @@ impel verb double
 implant verb
 implement      verb
 implicate verb
-implore verb
-imply          verb
+implore verb comp=obj_to|that
+imply          verb comp=that
 import         verb
-impose         verb
+impose         verb prep=on|upon
 impoverish verb
 impregnate verb
 impress        verb
 imprint verb
 imprison       verb
-improve        verb
+improve        verb prep=on|upon
 improvise verb
 impute verb
 inactivate verb
@@ -42,9 +42,9 @@ incarcerate verb
 incentivize verb gb=incentivise|incentivize
 inch           verb
 incite verb
-incline        verb
+incline        verb comp=to|obj_to prep=to|toward|towards
 inclose verb style=archaic note=old spelling of enclose
-include        verb
+include        verb prep=in|among
 inconvenience verb
 incorporate    verb
 increase       verb
@@ -54,15 +54,15 @@ indemnify verb
 indent verb
 indenture verb
 index          verb
-indicate       verb
+indicate       verb comp=that|wh
 indict verb
 individualize verb gb=individualise|individualize
-induce         verb
+induce         verb comp=obj_to
 induct         verb
-indulge        verb
+indulge        verb comp=p_ing prep=in
 industrialize verb gb=industrialise|industrialize
-infect         verb
-infer verb double
+infect         verb prep=with
+infer verb comp=that prep=from double
 infest verb
 infiltrate verb
 inflame verb
@@ -70,14 +70,14 @@ inflate verb
 inflect verb
 inflict        verb
 influence      verb
-inform         verb
+inform         verb comp=obj_that|wh prep=of|about|on|against
 infringe verb
 infuriate verb
 infuse verb
 ingest verb
 inhabit        verb
 inhale verb
-inherit        verb
+inherit        verb prep=from
 inhibit verb
 initial        verb
 initialize verb gb=initialise|initialize
@@ -87,24 +87,24 @@ injure         verb
 inlay verb prefix=in past=inlaid pp=inlaid
 innovate verb
 input          verb past=input|inputted pp=input|inputted ing=inputting
-inquire        verb gb=inquire|enquire
+inquire        verb comp=wh prep=about|into|after|of gb=inquire|enquire
 inscribe       verb
 insert         verb
-insinuate verb
-insist         verb
+insinuate verb comp=that prep=into
+insist         verb comp=that|p_ing prep=on|upon
 inspect        verb
-inspire        verb
+inspire        verb comp=obj_to prep=in
 install        verb
 instigate verb
 instill verb gb=instil conf=90 note=instill US, instil GB; instilled, instilling shared
 institute      verb
 institutionalize verb gb=institutionalise|institutionalize
-instruct       verb
+instruct       verb comp=obj_to|obj_that|that|wh prep=in|on|about
 insulate verb
 insult         verb
-insure         verb
+insure         verb comp=that|obj_to prep=against|for
 integrate      verb
-intend         verb
+intend         verb comp=to|ing|that|obj_to prep=for|as
 intensify      verb
 inter          verb double note=to bury
 interact       verb
@@ -114,7 +114,7 @@ interchange    verb
 interconnect   verb
 interdict verb
 interest       verb
-interfere      verb
+interfere      verb prep=with|in
 interlock verb
 intermingle verb
 intern verb
@@ -129,7 +129,7 @@ intertwine verb
 intervene      verb
 interview      verb
 interweave verb prefix=inter past=interwove pp=interwoven
-intimate       verb
+intimate       verb comp=that
 intimidate verb
 intoxicate verb
 intrench verb style=archaic conf=90 note=archaic spelling of entrench
@@ -142,13 +142,13 @@ invade         verb
 invalidate verb
 invent         verb
 invert verb
-invest         verb
+invest         verb prep=in|with
 investigate    verb
 invigilate verb region=GB
-invite         verb
+invite         verb comp=obj_to prep=to|for
 invoice        verb
 invoke         verb
-involve        verb
+involve        verb comp=ing|obj_ing prep=in|with
 iron           verb
 irradiate verb
 irrigate verb

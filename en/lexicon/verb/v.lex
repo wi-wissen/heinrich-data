@@ -8,7 +8,7 @@ vanish        verb
 vanquish verb
 vape verb
 varnish verb
-vary          verb
+vary          verb prep=from|with|in|between
 vault         verb
 veer verb
 veil          verb
@@ -16,9 +16,9 @@ vend verb
 venerate verb
 vent          verb
 ventilate verb
-venture       verb
+venture       verb comp=to prep=into|on|upon
 verge         verb
-verify        verb
+verify        verb comp=that|wh
 vest          verb
 vet verb
 veto          verb
@@ -36,10 +36,10 @@ vlog verb
 voice         verb
 void          verb
 volley verb
-volunteer     verb
+volunteer     verb comp=to|that prep=for|as
 vomit verb note=stress on the first syllable: vomited
-vote          verb
+vote          verb comp=to|that prep=for|against|on
 vouch verb
 vouchsafe verb
-vow           verb
+vow           verb comp=to|that
 voyage        verb

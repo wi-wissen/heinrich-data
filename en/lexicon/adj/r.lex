@@ -23,13 +23,13 @@ raw adj cmp=er
 reactionary adj
 reactive adj
 readable adj cmp=more
-ready adj cmp=er adv=readily
+ready adj comp=to prep=for cmp=er adv=readily
 real adj cmp=more adv=really
 realist adj
 realistic adj cmp=more adv=realistically
 realizable adj gb=realisable|realizable
 rear adj attr_only
-reasonable adj cmp=more adv=reasonably
+reasonable adj comp=to|that prep=about|in|with cmp=more adv=reasonably
 rebellious adj cmp=more adv=rebelliously
 reborn adj
 receivable adj
@@ -40,6 +40,7 @@ reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
 recognizable adj gb=recognisable|recognizable adv=recognizably
 recombinant adj
+reconciled adj prep=with|to
 recordable adj
 recoverable adj
 recreational adj
@@ -70,33 +71,35 @@ regrettable adj adv=regrettably
 regular adj cmp=more adv=regularly
 regulatory adj
 reimbursable adj
+related adj prep=to|by xprep=with?
 relational adj
 relative adj adv=relatively
 relativistic adj
 relaxed adj cmp=more
 relentless adj adv=relentlessly
-relevant adj cmp=more adv=relevantly
+relevant adj prep=to|for cmp=more adv=relevantly
 reliable adj cmp=more adv=reliably
-reliant adj
+reliant adj prep=on|upon xprep=of?
+relieved adj cmp=more comp=to|that prep=at|about|by|of
 religious adj cmp=more adv=religiously
-reluctant adj cmp=more adv=reluctantly
-remarkable adj cmp=more adv=remarkably
+reluctant adj comp=to cmp=more adv=reluctantly
+remarkable adj comp=that|to prep=for cmp=more adv=remarkably
 remastered adj
 remedial adj
-reminiscent adj
+reminiscent adj prep=of xprep=to?
 remorseful adj cmp=more adv=remorsefully
 remote adj cmp=er adv=remotely
 removable adj
 renal adj
 renegade adj
 renewable adj
-renowned adj
+renowned adj prep=for|as
 rental adj
 repellent adj
 repetitive adj adv=repetitively
 reportable adj
 reprehensible adj adv=reprehensibly
-representative adj
+representative adj prep=of xprep=for?
 repressive adj cmp=more
 reproachful adj adv=reproachfully
 reproductive adj
@@ -106,22 +109,22 @@ repulsive adj cmp=more
 reputable adj cmp=more
 reputed adj adv=reputedly
 requisite adj
-resentful adj cmp=more adv=resentfully
+resentful adj comp=that prep=of|at|about|towards|toward cmp=more adv=resentfully
 resident adj
 residential adj
 residual adj
 resilient adj cmp=more
-resistant adj cmp=more
+resistant adj prep=to xprep=against? cmp=more
 resistless adj style=archaic
 resolute adj adv=resolutely
 resonant adj cmp=more adv=resonantly
 resourceful adj cmp=more adv=resourcefully
 respectable adj cmp=more adv=respectably
-respectful adj cmp=more adv=respectfully
+respectful adj prep=of|to|towards|toward cmp=more adv=respectfully
 respective adj adv=respectively
 respiratory adj
 resplendent adj
-responsible adj cmp=more adv=responsibly
+responsible adj prep=for|to xprep=of cmp=more adv=responsibly
 responsive adj cmp=more
 restful adj
 restless adj cmp=more adv=restlessly
@@ -147,11 +150,11 @@ rhetorical adj adv=rhetorically
 rheumatic adj
 rhythmic adj adv=rhythmically
 Rican adj note=in Puerto Rican, Costa Rican
-rich adj cmp=er adv=richly
+rich adj prep=in xprep=on? cmp=er adv=richly
 rickety adj cmp=more
 ridiculous adj cmp=more adv=ridiculously
 rife adj
-right adj adv=rightly
+right adj comp=to|that prep=about|for adv=rightly
 righteous adj adv=righteously
 rightful adj adv=rightfully
 rigid adj cmp=more adv=rigidly
@@ -186,7 +189,7 @@ routine adj adv=routinely
 rowdy adj cmp=er
 royal adj cmp=more adv=royally
 ruddy adj cmp=er
-rude adj cmp=er adv=rudely
+rude adj comp=to prep=to|about cmp=er adv=rudely
 rudimentary adj
 rueful adj adv=ruefully
 rugged adj cmp=more

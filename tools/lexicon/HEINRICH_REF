@@ -1,3 +1,4 @@
 # Branch, tag or commit of wi-wissen/Heinrich whose lexicon tools CI uses (first non-comment line).
 # Switch to `main` once the lexicon-pipeline branch is merged there; pin a commit for releases.
-main
+# TEMPORARY: en-valency (Heinrich PR #108) until it is merged; the English valency fields (comp=, prep=, xprep=, vb=, xvb=) need its validator. Switch back to main after the merge.
+en-valency

@@ -9,7 +9,7 @@ namesake      noun
 nametag noun
 nan noun region=GB style=colloquial note=grandmother; also naan bread
 nana noun style=colloquial note=grandmother
-nap noun
+nap noun vb=take|have xvb=make
 napkin noun
 nappy noun region=GB note=US diaper
 narcotic noun
@@ -52,7 +52,7 @@ necktie noun
 necropolis noun
 nectar noun pl=- note=uncountable
 nectarine noun
-need          noun
+need          noun prep=for|of
 needle        noun
 needlework noun pl=- note=uncountable
 negative      noun
@@ -137,10 +137,10 @@ noble         noun
 nobleman      noun pl=noblemen
 nobleness noun pl=- note=uncountable
 noblewoman noun pl=noblewomen
-nod           noun
+nod           noun vb=give
 node          noun
 noir noun pl=- note=film noir; crime genre
-noise         noun
+noise         noun vb=make xvb=do
 nomad noun
 nomen noun pl=nomina conf=85 note=Roman family name; taxonomy (nomen nudum)
 nomenclature noun
@@ -177,14 +177,14 @@ northwest     noun pl=- note=the direction has no plural
 Norwegian     noun
 nose          noun
 nosebleed noun
-nostalgia noun pl=- note=uncountable
+nostalgia noun prep=for pl=- note=uncountable
 nostril       noun
 notable       noun
 notarization noun gb=notarisation|notarization conf=85
 notary noun
 notation      noun
 notch noun
-note          noun
+note          noun vb=take|make|write|leave
 notebook noun
 notepad noun
 notepaper noun pl=- note=uncountable

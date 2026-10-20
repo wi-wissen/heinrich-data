@@ -3,27 +3,27 @@ wade verb
 waft verb
 wag verb
 wage verb
-wager verb
+wager verb comp=that|obj_that
 wail verb
-wait verb
+wait verb comp=to|ing prep=for|on
 waive verb
-wake verb past=woke|waked[rare] pp=woken|waked[rare]
+wake verb comp=to|ing past=woke|waked[rare] pp=woken|waked[rare]
 waken verb
 walk verb
 wall verb
 waltz verb
-wander verb
+wander verb prep=around|about|through|off
 wane verb
-want verb
+want verb comp=to|ing|obj_to|obj_ing prep=for
 war verb
 ward verb
 warm verb
-warn verb
+warn verb comp=to|that|obj_to|obj_that|p_ing prep=against|of|about
 warp verb
-warrant verb
+warrant verb comp=that|ing
 wash verb
-waste verb
-watch verb
+waste verb prep=on
+watch verb comp=obj_bare|obj_ing|wh|that prep=for|over
 water verb
 wave verb
 waver verb
@@ -37,10 +37,10 @@ weave verb past=wove pp=woven
 wed verb past=wed|wedded pp=wed|wedded
 wedge verb
 weed verb
-weep verb past=wept pp=wept
+weep verb prep=for|over|at past=wept pp=wept
 weigh verb
 weight verb
-welcome verb
+welcome verb comp=to|ing|obj_to
 weld verb
 wet verb past=wet|wetted pp=wet|wetted
 whale verb
@@ -75,19 +75,19 @@ winter verb
 wipe verb
 wire verb
 wise verb
-wish verb
+wish verb comp=to|that|obj_to prep=for
 withdraw verb prefix=with past=withdrew pp=withdrawn
 wither verb
 withhold verb prefix=with past=withheld pp=withheld
 withstand verb prefix=with past=withstood pp=withstood
-witness verb
+witness verb comp=obj_ing|obj_bare|that
 wobble verb
-wonder verb
+wonder verb comp=wh|that prep=at|about
 woo verb
 word verb
-work verb note=archaic past wrought is a separate adj entry
+work verb prep=on|for|at|with|in note=archaic past wrought is a separate adj entry
 worm verb
-worry verb
+worry verb comp=that|wh|p_ing prep=about|over
 worsen verb
 worship verb past=worshiped[US]|worshipped pp=worshiped[US]|worshipped ing=worshiping[US]|worshipping
 worst verb note=to defeat; worsted
@@ -103,6 +103,6 @@ wrestle verb
 wriggle verb
 wring verb past=wrung pp=wrung
 wrinkle verb
-write verb past=wrote pp=written
+write verb comp=to|that|wh|obj_to|obj_that prep=to|about|of|on past=wrote pp=written
 writhe verb
 wrong verb

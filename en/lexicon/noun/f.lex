@@ -2,7 +2,7 @@ fable noun
 fabric         noun
 fabrication noun
 facade noun
-face           noun
+face           noun vb=make|pull
 facecloth noun region=GB
 facelift noun
 facet noun
@@ -26,7 +26,7 @@ fairground noun
 fairness       noun pl=- note=uncountable
 fairy          noun
 fairyland noun
-faith          noun
+faith          noun prep=in xprep=on?
 faithful       noun
 faithfulness noun pl=- note=uncountable
 fajita noun
@@ -61,7 +61,7 @@ farmland       noun
 farro noun pl=- note=uncountable
 fart noun style=colloquial
 farthing noun
-fascination    noun
+fascination    noun prep=with|for
 fascism noun
 fascist noun
 fashion        noun
@@ -85,7 +85,7 @@ fawn noun
 fax            noun
 façade noun note=spelling with cedilla of facade
 fealty noun pl=- note=uncountable
-fear           noun
+fear           noun prep=of|for xprep=before?
 feasibility    noun pl=- note=uncountable
 feast          noun
 feat           noun
@@ -95,7 +95,7 @@ feces noun pl_only gb=faeces
 federalism     noun pl=- note=uncountable
 federalist noun
 federation     noun
-fee            noun
+fee            noun prep=for|of
 feebleness noun pl=- note=uncountable
 feed           noun
 feedback       noun pl=- note=uncountable
@@ -167,7 +167,7 @@ fielder noun
 fiend noun
 fierceness noun pl=- note=uncountable
 fig            noun
-fight          noun
+fight          noun prep=against|with|for|over|about vb=have|pick|win|lose|start
 fighter        noun
 figure         noun
 figurehead noun
@@ -212,7 +212,7 @@ Finn           noun
 Finnish        noun pl=- note=the language
 fintech noun pl=- note=uncountable
 fir noun
-fire           noun
+fire           noun vb=make|light|start
 firearm        noun
 firefighter    noun
 firefighting noun pl=- note=uncountable
@@ -238,7 +238,7 @@ fishhook noun
 fishmonger noun
 fission noun
 fissure noun
-fist           noun
+fist           noun vb=make|clench|shake
 fit            noun
 fitness        noun pl=- note=uncountable
 fitting        noun
@@ -283,7 +283,7 @@ flexitime noun pl=- region=GB note=uncountable; US flextime
 flextime noun pl=- conf=90 note=chiefly American; British flexitime
 flicker noun
 flier noun note=variant spelling of flyer
-flight         noun
+flight         noun vb=take|book|catch|miss
 fling          noun
 flint noun
 flip noun
@@ -330,7 +330,7 @@ flywheel noun
 foal noun
 foam           noun
 focaccia noun
-focus          noun pl=focuses|foci
+focus          noun prep=on|upon pl=focuses|foci
 fodder noun pl=- note=uncountable
 foe            noun
 fog            noun
@@ -346,7 +346,7 @@ follicle noun
 follow-up      noun
 follower       noun
 folly          noun
-fondness noun
+fondness noun prep=for
 fondue noun
 font noun
 fontina noun note=countable for a whole cheese or a variety, also a mass noun
@@ -367,7 +367,7 @@ foothold noun
 footman noun pl=footmen
 footnote       noun
 footpath noun
-footprint      noun
+footprint      noun vb=leave
 footstep       noun
 footstool noun
 footwear noun pl=- note=uncountable
@@ -381,7 +381,7 @@ fore           noun
 forearm noun
 forebear noun
 foreboding noun
-forecast       noun
+forecast       noun vb=make|give|issue
 forecastle noun
 foreclosure noun
 forefather noun
@@ -422,12 +422,12 @@ fortification  noun
 fortitude noun
 fortnight      noun region=GB
 fortress       noun
-fortune        noun
+fortune        noun vb=make|spend
 forum          noun pl=forums|fora
 forward        noun
 fossil         noun
 foul           noun
-foundation     noun
+foundation     noun prep=for|of
 founder        noun
 foundry noun
 fountain       noun
@@ -457,7 +457,7 @@ fray noun
 freak noun
 freckle noun
 freedman noun pl=freedmen
-freedom        noun
+freedom        noun prep=of|from
 freehold       noun
 freeholder noun
 freelancer noun
@@ -481,9 +481,9 @@ friar noun
 fricative noun
 friction       noun
 fridge noun
-friend         noun
+friend         noun vb=make|have|find
 friendliness noun pl=- note=uncountable
-friendship     noun
+friendship     noun prep=with|between
 frieze noun
 frigate        noun
 fright         noun
@@ -520,7 +520,7 @@ fullback noun
 fullness noun pl=- note=uncountable
 fulness noun pl=- style=archaic note=older spelling of fullness
 fume noun
-fun            noun pl=- note=uncountable
+fun            noun vb=have xvb=make>have? pl=- note=uncountable
 function       noun
 functionality  noun
 functionary noun
@@ -548,7 +548,7 @@ fuse noun
 fuselage       noun
 fusilli noun pl=- note=uncountable pasta name, already plural in Italian
 fusion         noun
-fuss           noun
+fuss           noun vb=make
 futility noun pl=- note=uncountable
 futon noun
 futsal noun pl=- note=uncountable

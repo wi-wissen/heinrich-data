@@ -25,13 +25,13 @@ naïve adj cmp=er|more adv=naïvely note=spelling with diaeresis
 near            adj cmp=er
 nearby          adj
 neat            adj cmp=er adv=neatly
-necessary       adj cmp=more adv=necessarily
+necessary       adj comp=to|that prep=for|to cmp=more adv=necessarily
 needful adj
 needless adj adv=needlessly
 needy adj cmp=er
 nefarious adj
 negative        adj adv=negatively
-negligent adj cmp=more adv=negligently
+negligent adj prep=in|of|about cmp=more adv=negligently
 negligible      adj
 negotiable adj
 neighboring     adj attr_only gb=neighbouring
@@ -41,7 +41,7 @@ neoliberal adj
 Neolithic adj
 neonatal adj
 nerdy adj cmp=er
-nervous         adj cmp=more adv=nervously
+nervous         adj comp=to|that|p_ing prep=about|of|around|with cmp=more adv=nervously
 net             adj attr_only
 nether adj attr_only
 neural adj
@@ -49,11 +49,11 @@ neurological adj
 neuronal adj
 neuter adj
 neutral         adj adv=neutrally
-new             adj cmp=er adv=newly
+new             adj prep=to|at cmp=er adv=newly
 newborn adj
 newfound adj attr_only
 next            adj
-nice            adj cmp=er adv=nicely
+nice            adj comp=to|that prep=to|of|about|with cmp=er adv=nicely
 Nigerian        adj
 nightly adj
 nimble adj cmp=er adv=nimbly
@@ -101,11 +101,12 @@ Norwegian       adj
 nostalgic adj cmp=more adv=nostalgically
 nosy adj cmp=er
 notable         adj cmp=more adv=notably
+noted adj prep=for|as
 noteworthy adj
 noticeable      adj adv=noticeably
 notifiable adj
 notional adj adv=notionally
-notorious       adj adv=notoriously
+notorious       adj prep=for|as adv=notoriously
 novel           adj
 noxious adj cmp=more
 nuanced adj cmp=more

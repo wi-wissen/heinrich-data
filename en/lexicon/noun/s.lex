@@ -4,7 +4,7 @@ sabotage noun pl=- note=uncountable
 sabre noun us=saber|sabre
 sack noun
 sacrament noun
-sacrifice noun
+sacrifice noun vb=make xvb=bring>make?
 sacrilege noun
 sacristy noun
 saddle noun
@@ -30,7 +30,7 @@ sake noun pl=- sense=drink note=uncountable; Japanese rice wine
 salad noun
 salami noun
 salary noun
-sale noun
+sale noun vb=make|hold|have
 salesman noun pl=salesmen
 salesperson noun pl=salespeople|salespersons
 saleswoman noun pl=saleswomen
@@ -56,7 +56,7 @@ sambuca noun note=countable for a glass or a variety, also a mass noun
 samosa noun
 sample noun
 samurai noun pl=samurai
-sanction noun
+sanction noun prep=against|on
 sanctity noun pl=- note=uncountable
 sanctuary noun
 sanctum noun pl=sanctums|sancta
@@ -106,7 +106,7 @@ savage noun
 savagery noun
 savanna noun
 saver noun
-saving noun
+saving noun prep=on|in|of
 savior noun gb=saviour
 savor noun gb=savour
 savvy noun pl=- note=uncountable
@@ -138,14 +138,14 @@ scarcity noun
 scare noun
 scarf noun pl=scarves|scarfs
 scenario noun
-scene noun
+scene noun vb=make|set|describe|shoot
 scenery noun pl=- note=uncountable
 scent noun
 sceptre noun us=scepter|sceptre conf=90 note=sceptre is also frequent in American texts
 schedule noun
 scheduler noun
 schema noun pl=schemas|schemata
-scheme noun
+scheme noun prep=for|to
 schism noun
 schizophrenia noun pl=- note=uncountable
 schnapps noun pl=schnapps
@@ -243,12 +243,12 @@ seamanship noun pl=- note=uncountable
 seamstress noun
 seaplane noun
 seaport noun
-search noun
+search noun prep=for xprep=after? vb=carry_out|conduct|make|do
 seashell noun
 seashore noun
 seaside noun
 season noun
-seat noun
+seat noun vb=take|have|book|reserve|find|save
 seawater noun pl=- note=uncountable
 seaweed noun
 sec noun note=informal short form of second
@@ -309,10 +309,10 @@ sender noun
 senior noun
 seniority noun pl=- note=uncountable
 sensation noun
-sense noun
+sense noun prep=of|in vb=make|have|see
 sensibility noun
 sensitiveness noun pl=- note=uncountable
-sensitivity noun
+sensitivity noun prep=to|of|for
 sensor noun
 sentence noun
 sentencing noun pl=- note=uncountable
@@ -347,7 +347,7 @@ serrano noun pl=serranos conf=90 note=a chili pepper; serrano ham
 serum noun pl=sera|serums
 servant noun
 server noun
-service noun
+service noun vb=provide|offer|use|need|do
 serviceman noun pl=servicemen
 servicemember noun
 servicer noun
@@ -389,7 +389,7 @@ shamrock noun
 shandy noun region=GB
 shank noun
 shanty noun
-shape noun
+shape noun vb=take|get|keep|have
 shard noun
 share noun
 shareholder noun
@@ -451,7 +451,7 @@ shopkeeper noun
 shopper noun
 shore noun
 shoreline noun
-shortage noun
+shortage noun prep=of xprep=at?
 shortbread noun pl=- note=uncountable
 shortcoming noun
 shortcut noun
@@ -461,7 +461,7 @@ shortlist noun
 shortness noun pl=- note=uncountable
 shorts noun pl_only
 shortstop noun
-shot noun
+shot noun vb=take|fire|have|get
 shotgun noun
 shoulder noun
 shout noun
@@ -469,7 +469,7 @@ shove noun
 shovel noun
 show noun
 showcase noun
-shower noun
+shower noun vb=take|have
 showerhead noun
 shrapnel noun pl=- note=uncountable
 shred noun
@@ -504,11 +504,11 @@ sidewalk noun region=US note=GB pavement
 siding noun
 siege noun
 sieve noun
-sigh noun
-sight noun
+sigh noun vb=give|heave
+sight noun vb=catch|lose|see
 sighting noun
 sightseeing noun pl=- note=uncountable
-sign noun
+sign noun vb=show|give|see|make|read
 signage noun pl=- note=uncountable
 signal noun
 signatory noun
@@ -519,7 +519,7 @@ significance noun
 signification noun
 signorina noun pl=signorinas|signorine conf=85 note=Italian loanword; plural forms unsure
 Sikh noun
-silence noun
+silence noun vb=break|keep|maintain
 silhouette noun
 silica noun pl=- note=uncountable
 silicon noun pl=- note=chemical element
@@ -530,7 +530,7 @@ silo noun note=plural silos
 silt noun
 silver noun
 SIM noun abbr note=SIM card
-similarity noun
+similarity noun prep=to|between|with|in
 simile noun
 simplicity noun
 simplification noun
@@ -566,12 +566,12 @@ skateboard noun
 skater noun
 skeleton noun
 skepticism noun gb=scepticism pl=- note=uncountable
-sketch noun
+sketch noun vb=make|draw|do
 skewer noun
 ski noun
 skier noun
 skiff noun
-skill noun
+skill noun prep=in|at|with|of
 skillet noun
 skillset noun conf=80 note=also skill set
 skin noun
@@ -603,7 +603,7 @@ slavery noun pl=- note=uncountable
 slayer noun
 sled noun
 sledge noun region=GB note=US sled
-sleep noun
+sleep noun vb=get|have|need|lose
 sleeper noun
 sleepover noun
 sleet noun pl=- note=uncountable
@@ -645,7 +645,7 @@ SME noun abbr note=small and medium-sized enterprise
 smear noun
 smell noun
 smelter noun
-smile noun
+smile noun vb=give|have|wear|crack
 smoke noun
 smoker noun
 smoothie noun
@@ -653,7 +653,7 @@ smoothness noun pl=- note=uncountable
 smorgasbord noun
 SMS noun abbr pl=SMS|SMSes conf=85 note=plural use unsure
 smuggler noun
-snack noun
+snack noun vb=have|eat|grab
 snail noun
 snake noun
 snapper noun
@@ -718,7 +718,7 @@ solo noun pl=solos
 soloist noun
 solstice noun
 solubility noun
-solution noun
+solution noun prep=to|for|of vb=find|offer|provide|have
 solvency noun
 solvent noun
 Somali noun
@@ -748,7 +748,7 @@ sot noun
 souffle noun conf=90 note=also written soufflé
 soufflé noun conf=90 note=also written souffle
 soul noun
-sound noun
+sound noun vb=make|hear|produce
 soundbar noun
 soundness noun pl=- note=uncountable
 soundtrack noun
@@ -797,7 +797,7 @@ spear noun
 spearhead noun
 spec noun
 special noun
-specialist noun
+specialist noun prep=in|on
 specialization noun gb=specialisation|specialization
 specialty noun gb=speciality|specialty note=British texts use both spellings
 specie noun pl=- note=coined money (in specie)
@@ -815,7 +815,7 @@ spectroscopy noun pl=- note=uncountable
 spectrum noun pl=spectra|spectrums[rare]
 speculation noun
 speculator noun
-speech noun
+speech noun vb=give|make|deliver xvb=hold>give
 speed noun
 speedrun noun
 speedrunner noun
@@ -861,7 +861,7 @@ spoof noun pl=spoofs
 spool noun
 spoon noun
 spore noun
-sport noun
+sport noun vb=play|do
 sportscaster noun
 sportsman noun pl=sportsmen
 sportswear noun pl=- note=uncountable
@@ -876,7 +876,7 @@ spreadsheet noun
 spring noun
 springtime noun pl=- note=uncountable
 sprinkler noun
-sprint noun
+sprint noun vb=run
 sprinter noun
 spritz noun
 sprout noun
@@ -919,7 +919,7 @@ stair noun
 staircase noun
 stairway noun
 stairwell noun
-stake noun
+stake noun prep=in
 stakeholder noun
 stalactite noun
 stalagmite noun
@@ -934,7 +934,7 @@ stammer noun
 stamp noun
 stampede noun
 stance noun
-stand noun
+stand noun vb=take|make
 standard noun
 standardization noun gb=standardisation|standardization
 standby noun
@@ -954,13 +954,14 @@ stare noun
 starfish noun pl=starfish|starfishes
 starlight noun pl=- note=uncountable
 starling noun
+start noun vb=make|get|have
 starter noun
 startup noun
 starvation noun
 stat noun style=colloquial note=short for statistic
 state noun
 statehood noun pl=- note=uncountable
-statement noun
+statement noun vb=make|issue|give|release
 statesman noun pl=statesmen
 statesmanship noun pl=- note=uncountable
 station noun
@@ -994,7 +995,7 @@ STEM noun abbr pl=- note=science, technology, engineering and mathematics
 stench noun
 stenographer noun
 stenosis noun pl=stenoses
-step noun
+step noun vb=take|make
 stepbrother noun
 stepchild noun pl=stepchildren
 stepdaughter noun
@@ -1049,7 +1050,7 @@ stomach noun pl=stomachs
 stomachache noun
 stone noun
 stool noun
-stop noun
+stop noun vb=make|put|bring
 stopover noun
 stoppage noun
 stopper noun
@@ -1062,7 +1063,7 @@ stork noun
 storm noun
 stormwater noun pl=- note=uncountable
 story noun sense=floor gb=storey
-story noun sense=tale
+story noun vb=tell|write|read xvb=say? sense=tale
 storyline noun
 storyteller noun
 storytelling noun pl=- note=uncountable
@@ -1097,7 +1098,7 @@ stretch noun
 stretcher noun
 stride noun
 strife noun pl=- note=uncountable
-strike noun
+strike noun vb=call|stage
 strikeout noun
 striker noun
 string noun
@@ -1106,18 +1107,19 @@ strip noun
 stripe noun
 stroganoff noun pl=- note=uncountable
 stroke noun
+stroll noun vb=take xvb=make
 stroller noun region=US note=British pushchair
 stronghold noun
 structure noun
 strudel noun
-struggle noun
+struggle noun vb=have|face|lose|win
 strut noun
 stubble noun
 stucco noun pl=stuccos|stuccoes conf=90 note=stucco is mostly uncountable
 stud noun
 student noun
 studio noun
-study noun
+study noun vb=do|carry_out|conduct|make
 stuff noun pl=- note=uncountable
 stump noun
 stunt noun
@@ -1175,7 +1177,7 @@ subspace noun
 subspecies noun pl=subspecies
 substance noun
 substation noun
-substitute noun
+substitute noun prep=for
 substitution noun
 substrate noun
 subsurface noun pl=- note=uncountable
@@ -1191,7 +1193,7 @@ subversion noun pl=- note=uncountable
 subversive noun
 subway noun
 subwoofer noun
-success noun
+success noun vb=have|achieve|make
 succession noun
 successor noun
 succor noun gb=succour
@@ -1211,8 +1213,8 @@ suffrage noun note=plural suffrages: votes; intercessory prayers
 suffragist noun
 sugar noun
 sugarcane noun pl=- note=uncountable
-suggestion noun
-suicide noun
+suggestion noun vb=make|have|offer
+suicide noun vb=commit
 suit noun
 suitability noun
 suitcase noun
@@ -1224,7 +1226,7 @@ sulfur noun gb=sulphur pl=- note=chemical element
 sultan noun
 sum noun
 Sumerian noun
-summary noun
+summary noun vb=give|write|make|provide
 summation noun
 summer noun
 summit noun
@@ -1268,7 +1270,7 @@ supplement noun
 supplementation noun
 supplication noun
 supplier noun
-supply noun
+supply noun prep=of|to
 support noun
 supporter noun
 supposition noun
@@ -1281,17 +1283,17 @@ surface noun
 surfboard noun
 surge noun
 surgeon noun
-surgery noun
+surgery noun vb=have|undergo|perform|do|need
 surmise noun
 surname noun
 surplus noun
-surprise noun
+surprise noun vb=give|have|spoil|get
 surrealist noun
 surrender noun
 surrogate noun
 surroundings noun pl_only
 surveillance noun pl=- note=uncountable
-survey noun
+survey noun vb=do|carry_out|conduct|take|make
 surveyor noun
 survival noun
 survivor noun
@@ -1300,7 +1302,7 @@ sushi noun pl=- note=uncountable
 suspect noun
 suspense noun pl=- note=uncountable
 suspension noun
-suspicion noun
+suspicion noun prep=of|about|on
 sustainability noun pl=- note=uncountable
 sustenance noun pl=- note=uncountable
 sutra noun
@@ -1330,7 +1332,7 @@ sweetness noun
 swell noun
 swelling noun
 swiftness noun pl=- note=uncountable
-swim noun
+swim noun vb=have|take xvb=make>have?
 swimmer noun
 swimsuit noun
 swimwear noun pl=- note=uncountable
@@ -1350,7 +1352,7 @@ symbol noun
 symbolism noun
 symmetry noun
 sympathizer noun gb=sympathiser|sympathizer
-sympathy noun
+sympathy noun prep=for|with
 symphony noun
 symposium noun pl=symposia|symposiums
 symptom noun

@@ -22,14 +22,14 @@ baptize verb gb=baptise|baptize
 bar verb
 barbecue verb
 bare verb
-bargain verb
+bargain verb prep=for|with|over|on
 barge verb
 bark verb
 barrack verb region=GB conf=85 note=to jeer or heckle (British, Australian)
 barrage verb
 barricade verb
 barter verb
-base verb
+base verb prep=on|upon
 bash verb
 bask verb
 bat verb
@@ -39,7 +39,7 @@ batter verb
 battle verb
 bawl verb
 beam verb
-bear verb past=bore pp=borne|born note=born only in the sense of birth: he was born
+bear verb comp=to|ing|obj_to|obj_ing past=bore pp=borne|born note=born only in the sense of birth: he was born
 beat verb past=beat pp=beaten
 beatify verb
 beckon verb
@@ -49,36 +49,36 @@ beef verb
 befall verb prefix=be past=befell pp=befallen
 befit verb double
 befriend verb
-beg verb
-begin verb past=began pp=begun double
+beg verb comp=to|obj_to|that prep=for|of
+begin verb comp=to|ing prep=with|by past=began pp=begun double
 beguile verb
 behave verb
 behead verb
 behold verb prefix=be past=beheld pp=beheld
-believe verb
+believe verb comp=that|obj_to|wh prep=in
 bellow verb
-belong verb
+belong verb prep=to|in|with
 belt verb
 benchmark verb
 bend verb past=bent pp=bent
-benefit verb past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
+benefit verb comp=p_ing prep=from|by past=benefited|benefitted pp=benefited|benefitted ing=benefiting|benefitting
 bequeath verb
-beseech verb past=besought|beseeched pp=besought|beseeched
+beseech verb comp=obj_to|that past=besought|beseeched pp=besought|beseeched
 beset verb past=beset pp=beset double
 besiege verb
 bestow verb
-bet verb past=bet pp=bet
+bet verb comp=that|obj_that|p_ing prep=on past=bet pp=bet
 betake verb prefix=be past=betook pp=betaken style=archaic
 bethink verb prefix=be past=bethought pp=bethought style=archaic
 betray verb
 betroth verb
 better verb
-beware verb defective note=defective: only the base form (imperative, infinitive) is in use
+beware verb comp=p_ing prep=of defective note=defective: only the base form (imperative, infinitive) is in use
 bewilder verb
 bewitch verb
 bias verb
 bicker verb
-bid verb past=bid|bade pp=bid|bidden
+bid verb comp=obj_bare|obj_to|to prep=for past=bid|bade pp=bid|bidden
 bide verb past=bided|bode pp=bided conf=90 note=bode is archaic; mostly in bide one's time
 bike verb
 bill verb
@@ -92,13 +92,13 @@ black verb
 blacken verb
 blacklist verb
 blackmail verb
-blame verb
+blame verb prep=for|on
 blanch verb
 blast verb
 blaze verb
 bleach verb
 bleed verb past=bled pp=bled
-blend verb
+blend verb prep=with|into|in
 bless verb past=blessed|blest[archaic] pp=blessed|blest[archaic]
 blight verb
 blind verb
@@ -122,7 +122,7 @@ blurt verb
 blush verb
 bluster verb
 board verb
-boast verb
+boast verb comp=that|p_ing prep=of|about
 bob verb
 bog verb
 boil verb
@@ -136,11 +136,11 @@ bookmark verb
 boom verb
 boost verb
 boot verb
-border verb
+border verb prep=on|upon
 bore verb
 borrow verb
 botch verb
-bother verb
+bother verb comp=to|ing|obj_to|that prep=with|about
 bottle verb
 bounce verb
 bound verb
@@ -160,7 +160,7 @@ brandish verb
 brave verb
 brawl verb
 breach verb
-break verb past=broke pp=broken
+break verb prep=into|with|from|through|off|out past=broke pp=broken
 breakfast verb
 breastfeed verb prefix=breast past=breastfed pp=breastfed
 breathe verb
@@ -173,7 +173,7 @@ brief verb
 brighten verb
 brim verb
 brine verb
-bring verb past=brought pp=brought
+bring verb comp=obj_to|obj_ing prep=to|into past=brought pp=brought
 bristle verb
 broach verb
 broadcast verb past=broadcast pp=broadcast
@@ -188,7 +188,7 @@ bubble verb
 buckle verb
 bud verb
 budge verb
-budget verb
+budget verb prep=for
 buff verb
 buffer verb nodouble note=stress on the first syllable; nodouble only silences the stress lint
 buffet verb
@@ -196,7 +196,7 @@ bug verb
 build verb past=built pp=built
 bulge verb
 bully verb
-bump verb
+bump verb prep=into
 bundle verb
 buoy verb
 burden verb
@@ -206,7 +206,7 @@ burn verb past=burned|burnt pp=burned|burnt
 burnish verb
 burp verb
 burrow verb
-burst verb past=burst pp=burst
+burst verb prep=into|with|out|through past=burst pp=burst
 bury verb
 bust verb past=busted|bust pp=busted|bust
 bustle verb

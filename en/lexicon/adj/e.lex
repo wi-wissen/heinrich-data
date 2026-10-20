@@ -1,4 +1,4 @@
-eager adj cmp=more adv=eagerly
+eager adj comp=to|that prep=for cmp=more adv=eagerly
 early adj cmp=er
 earnest adj adv=earnestly
 earthen adj
@@ -9,13 +9,13 @@ eastbound adj
 easterly adj
 eastern adj
 easternmost adj
-easy adj cmp=er adv=easily
+easy adj comp=to prep=for|on|with cmp=er adv=easily
 eccentric adj cmp=more adv=eccentrically
 ecclesiastical adj
 eclectic adj cmp=more adv=eclectically
 ecological adj adv=ecologically
 economic adj adv=economically
-economical adj cmp=more
+economical adj prep=with|in|on cmp=more
 ecstatic adj cmp=more adv=ecstatically
 ecumenical adj
 edible adj
@@ -23,7 +23,7 @@ editable adj
 editorial adj
 educational adj adv=educationally
 eerie adj cmp=er adv=eerily
-effective adj cmp=more adv=effectively
+effective adj comp=to|p_ing prep=in|at|against|for|on cmp=more adv=effectively
 effectual adj adv=effectually
 effeminate adj
 efficacious adj cmp=more adv=efficaciously
@@ -45,14 +45,14 @@ electrostatic adj
 elegant adj cmp=more adv=elegantly
 elemental adj
 elementary adj
-eligible adj
+eligible adj comp=to prep=for
 elite adj
 elliptic adj
 elliptical adj adv=elliptically
 eloquent adj adv=eloquently
 elusive adj cmp=more
 emaciated adj
-embarrassed adj cmp=more
+embarrassed adj comp=to|that prep=about|by|at|for cmp=more
 emblematic adj
 embryonic adj
 emergent adj
@@ -62,8 +62,9 @@ emotional adj adv=emotionally
 emphatic adj cmp=more adv=emphatically
 empirical adj adv=empirically
 employable adj cmp=more
-empty adj cmp=er
+empty adj prep=of cmp=er
 enamored adj gb=enamoured
+encouraged adj cmp=more comp=to|that prep=by
 endemic adj
 endless adj adv=endlessly
 endocrine adj
@@ -71,17 +72,18 @@ endogenous adj
 endothelial adj
 energetic adj adv=energetically
 enforceable adj
+engaged adj comp=to|p_ing prep=in|to|with|on
 engaging adj cmp=more
 English adj
 enigmatic adj adv=enigmatically
 enjoyable adj
 enormous adj adv=enormously
 enterprising adj cmp=more
-enthusiastic adj cmp=more adv=enthusiastically
+enthusiastic adj comp=to|p_ing prep=about|over|for cmp=more adv=enthusiastically
 entire adj adv=entirely
 entrepreneurial adj
 enviable adj adv=enviably
-envious adj cmp=more adv=enviously
+envious adj prep=of xprep=on cmp=more adv=enviously
 environmental adj adv=environmentally
 ephemeral adj cmp=more
 epic adj
@@ -91,12 +93,12 @@ episcopal adj
 episodic adj
 epithelial adj
 eponymous adj
-equal adj adv=equally
+equal adj prep=to|in|with adv=equally
 equatorial adj
 equestrian adj
 equine adj
 equitable adj adv=equitably
-equivalent adj adv=equivalently
+equivalent adj prep=to adv=equivalently
 erect adj
 ergonomic adj adv=ergonomically
 erotic adj
@@ -106,7 +108,7 @@ erstwhile adj attr_only
 esophageal adj gb=oesophageal
 esoteric adj cmp=more adv=esoterically
 especial adj
-essential adj adv=essentially
+essential adj comp=to|that prep=to|for|in adv=essentially
 estimable adj
 Estonian adj
 eternal adj adv=eternally
@@ -126,7 +128,7 @@ eventual adj adv=eventually
 evergreen adj
 everlasting adj
 everyday adj attr_only
-evident adj adv=evidently
+evident adj comp=that prep=in|from|to adv=evidently
 evidentiary adj
 evil adj cmp=more
 evolutionary adj
@@ -137,14 +139,14 @@ excellent adj adv=excellently
 exceptional adj adv=exceptionally
 excessive adj adv=excessively
 excitable adj cmp=more
-excited adj adv=excitedly
+excited adj comp=to|that|wh prep=about|by|at|for|over xprep=on? adv=excitedly
 exciting adj cmp=more adv=excitingly
 exclusive adj adv=exclusively
 excruciating adj adv=excruciatingly
 executable adj
 executive adj
 exemplary adj
-exempt adj
+exempt adj prep=from xprep=of?
 exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
 exhaustive adj adv=exhaustively
@@ -160,14 +162,16 @@ expeditionary adj
 expeditious adj adv=expeditiously
 expendable adj
 expensive adj cmp=more adv=expensively
+experienced adj cmp=more comp=p_ing prep=in|at|with
 experimental adj adv=experimentally
-expert adj adv=expertly
+expert adj prep=at|in|on adv=expertly
 explanatory adj
 explicit adj adv=explicitly
 exploitative adj
 exploratory adj
 explosive adj
 exponential adj adv=exponentially
+exposed adj cmp=more prep=to
 express adj adv=expressly
 expressive adj
 exquisite adj adv=exquisitely

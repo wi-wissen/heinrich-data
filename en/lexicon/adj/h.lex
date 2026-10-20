@@ -10,16 +10,16 @@ handheld adj
 handmade adj
 handsome       adj cmp=er|more adv=handsomely
 handwritten adj
-handy adj cmp=er
+handy adj comp=to prep=for|with|at cmp=er
 haphazard adj adv=haphazardly
 hapless adj
-happy          adj cmp=er adv=happily
-hard           adj cmp=er
+happy          adj comp=to|that prep=with|about|for cmp=er adv=happily
+hard           adj comp=to prep=on|for|at cmp=er
 hard-hearted adj cmp=more adv=hard-heartedly
 hardcore adj
 hardworking adj cmp=more note=also written hard-working
 hardy          adj cmp=er
-harmful        adj
+harmful        adj comp=to prep=to|for
 harmless       adj adv=harmlessly
 harmonic adj
 harmonious adj
@@ -47,7 +47,7 @@ Hebrew         adj
 heedless adj
 heinous adj
 Hellenistic adj
-helpful        adj cmp=more adv=helpfully
+helpful        adj comp=to prep=to|for|in|with cmp=more adv=helpfully
 helpless       adj adv=helplessly
 hemorrhagic adj gb=haemorrhagic
 heraldic adj
@@ -57,7 +57,7 @@ hereditary     adj
 heretical adj
 heritable adj
 heroic         adj adv=heroically
-hesitant adj cmp=more adv=hesitantly
+hesitant adj comp=to prep=about cmp=more adv=hesitantly
 hesitating adj adv=hesitatingly
 heterogeneous adj
 heterosexual adj
@@ -87,13 +87,13 @@ homogeneous adj
 homologous adj
 homophobic adj
 homosexual adj
-honest         adj cmp=more adv=honestly
+honest         adj prep=with|about cmp=more adv=honestly
 honorable      adj gb=honourable adv=honorably
 honorary       adj
 honorific adj
 hooded adj
-hopeful        adj cmp=more adv=hopefully
-hopeless       adj adv=hopelessly
+hopeful        adj comp=that|to|p_ing prep=of|about|for cmp=more adv=hopefully
+hopeless       adj comp=to|p_ing prep=at|with|about adv=hopelessly
 horizontal     adj adv=horizontally
 hormonal adj
 horned adj
@@ -102,9 +102,10 @@ horrendous adj
 horrible       adj adv=horribly
 horrid         adj
 horrific       adj adv=horrifically
+horrified adj cmp=more comp=to|that prep=by|at
 horticultural adj
 hospitable adj cmp=more adv=hospitably
-hostile        adj
+hostile        adj prep=to|towards|toward xprep=against?
 hot            adj cmp=er adv=hotly
 hourly         adj
 household      adj attr_only
@@ -118,7 +119,7 @@ humid          adj
 humongous adj style=colloquial
 humorous       adj adv=humorously
 Hungarian      adj
-hungry         adj cmp=er adv=hungrily
+hungry         adj prep=for cmp=er adv=hungrily
 hurried        adj adv=hurriedly
 husky adj cmp=er adv=huskily
 hybrid         adj

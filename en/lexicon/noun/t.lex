@@ -13,7 +13,7 @@ tabloid noun
 taboo noun
 tachycardia noun
 tack noun
-tackle noun
+tackle noun vb=make
 taco noun pl=tacos
 tact noun pl=- note=uncountable
 tactic noun
@@ -32,7 +32,7 @@ takeout noun region=US note=British takeaway
 takeover noun
 taker noun
 tale noun
-talent noun
+talent noun prep=for
 talisman noun pl=talismans note=not a -man compound
 talk noun
 talker noun
@@ -46,7 +46,7 @@ tamari noun pl=- note=uncountable
 tambourine noun
 Tamil noun
 tampon noun
-tan noun
+tan noun vb=get|have
 tandem noun
 tandoori noun pl=- note=uncountable
 tangent noun
@@ -74,25 +74,25 @@ tart noun
 tartan noun
 tartar noun pl=- note=dental deposit; cream of tartar
 Tartar noun note=historical variant of Tatar
-task noun
+task noun vb=do|perform|carry_out|complete|set xvb=make>do?
 taskbar noun
 taskforce noun
 tassel noun
-taste noun
+taste noun prep=for|in|of
 tatter noun note=mostly plural: in tatters
 tattoo noun
 tau noun
 taunt noun
 tavern noun
-tax noun
+tax noun prep=on
 taxation noun
-taxi noun
+taxi noun vb=take|call|get|hail|order
 taxman noun pl=taxmen
 taxon noun pl=taxa
 taxonomy noun
 taxpayer noun
 TB noun abbr pl=- note=tuberculosis
-tea noun
+tea noun vb=make|have|drink|brew|pour xvb=cook>make
 teabag noun
 teacake noun
 teacher noun
@@ -141,12 +141,12 @@ tempeh noun pl=- note=uncountable
 temper noun
 temperament noun
 temperance noun pl=- note=uncountable
-temperature noun
+temperature noun vb=take|have|run|measure|check
 tempest noun
 template noun
 temple noun
 tempo noun pl=tempos|tempi
-temptation noun
+temptation noun prep=to|of
 tempura noun pl=- note=uncountable
 tenacity noun pl=- note=uncountable
 tenancy noun
@@ -185,11 +185,11 @@ territory noun
 terror noun
 terrorism noun
 terrorist noun
-test noun
+test noun vb=take|do|pass|fail|have|sit|give|write xvb=make>take?
 testament noun
 testator noun
 testimonial noun
-testimony noun
+testimony noun prep=to|of|about|against
 testosterone noun pl=- note=uncountable
 tether noun
 tetrapod noun
@@ -227,17 +227,17 @@ thigh noun
 thing noun
 thinker noun
 third noun note=fraction (two thirds); the ordinal is a numeral
-thirst noun
+thirst noun prep=for
 thistle noun
 thorax noun pl=thoraxes|thoraces conf=90 note=plural rarely used
 thorn noun
 thoroughbred noun
 thoroughfare noun
-thought noun
+thought noun vb=have|give
 thoughtfulness noun pl=- note=uncountable
 thrash noun
 thread noun
-threat noun
+threat noun prep=to|of|against vb=make|pose|issue|face
 threshold noun
 thrift noun
 thrill noun
@@ -282,7 +282,7 @@ tiller noun
 tilt noun
 timber noun
 timbre noun
-time noun
+time noun vb=have|spend|take|waste|save|need|find|kill|make
 timecard noun
 timeframe noun
 timekeeping noun pl=- note=uncountable
@@ -316,7 +316,7 @@ titanium noun pl=- note=uncountable
 tithe noun
 title noun
 toad noun
-toast noun
+toast noun vb=propose|make|drink
 toaster noun
 tobacco noun pl=tobaccos note=plural for kinds of tobacco
 today noun pl=- note=no plural: deictic time noun
@@ -329,7 +329,7 @@ toil noun
 toilet noun
 toiletry noun
 token noun
-tolerance noun
+tolerance noun prep=of|for|to|toward|towards
 toleration noun pl=- note=uncountable
 toll noun
 tom noun note=male cat or turkey
@@ -391,7 +391,7 @@ touchpad noun
 touchpoint noun
 touchscreen noun
 toughness noun pl=- note=uncountable
-tour noun
+tour noun vb=take|make|go_on|do|give
 tourism noun pl=- note=uncountable
 tourist noun
 tournament noun
@@ -423,7 +423,7 @@ tracksuit noun
 tract noun
 traction noun pl=- note=uncountable
 tractor noun
-trade noun
+trade noun vb=do|learn
 trademark noun
 trader noun
 tradesman noun pl=tradesmen
@@ -433,7 +433,7 @@ trafficker noun
 tragedy noun
 trail noun
 trailer noun
-train noun
+train noun vb=take|catch|get|miss|board
 trainee noun
 trainer noun
 trait noun
@@ -506,7 +506,7 @@ trepidation noun pl=- note=uncountable
 trespass noun
 tress noun
 triad noun
-trial noun
+trial noun vb=hold|have|stand
 triangle noun
 tribe noun
 tribesman noun pl=tribesmen
@@ -514,7 +514,7 @@ tribulation noun
 tribunal noun
 tribune noun
 tributary noun
-tribute noun
+tribute noun prep=to
 trick noun
 trickery noun pl=- note=uncountable
 trickle noun
@@ -526,7 +526,7 @@ trimester noun
 trinity noun
 trinket noun
 trio noun
-trip noun
+trip noun vb=take|make|have|plan|go_on|book
 triplane noun
 triplicate noun pl=- note=in triplicate
 tripod noun
@@ -542,7 +542,7 @@ trophy noun
 tropic noun
 troposphere noun
 trot noun
-trouble noun
+trouble noun vb=have|cause|make|get|take
 troubleshooter noun
 troubleshooting noun pl=- note=uncountable
 trough noun
@@ -560,11 +560,11 @@ trumpeter noun
 trundle noun
 trunk noun
 truss noun
-trust noun
+trust noun prep=in
 trustee noun
 trusteeship noun
 trustworthiness noun pl=- note=uncountable
-truth noun
+truth noun vb=tell|know|speak|find xvb=say?
 truthfulness noun pl=- note=uncountable
 try noun
 tsar noun note=czar is a separate entry
@@ -601,7 +601,7 @@ turkey noun
 Turkish noun pl=- note=the language
 turmeric noun pl=- note=uncountable
 turmoil noun
-turn noun
+turn noun vb=take|make
 turnaround noun
 turnip noun
 turnout noun

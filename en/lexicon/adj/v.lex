@@ -2,9 +2,9 @@ vacant        adj
 vaginal adj
 vagrant adj
 vague         adj cmp=er adv=vaguely
-vain          adj cmp=er adv=vainly
+vain          adj prep=about|of cmp=er adv=vainly
 valiant adj adv=valiantly
-valid         adj adv=validly
+valid         adj prep=for adv=validly
 valuable      adj cmp=more
 valued adj
 variable      adj
@@ -63,7 +63,7 @@ virulent adj adv=virulently
 visible       adj cmp=more adv=visibly
 visionary adj
 visual        adj adv=visually
-vital         adj adv=vitally
+vital         adj comp=to|that prep=to|for adv=vitally
 vivacious adj cmp=more
 vivid         adj cmp=more adv=vividly
 vocal         adj adv=vocally
@@ -79,4 +79,4 @@ voluntary     adj adv=voluntarily
 voluptuous adj
 votive adj
 vulgar        adj cmp=more adv=vulgarly
-vulnerable    adj cmp=more
+vulnerable    adj prep=to xprep=against? cmp=more

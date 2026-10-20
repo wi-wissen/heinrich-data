@@ -15,7 +15,7 @@ daisy noun
 dal noun conf=90 note=also dhal, dahl
 dale noun
 dam noun
-damage noun
+damage noun prep=to vb=do|cause|suffer|repair|sustain xvb=make>cause
 damask noun
 dame noun
 damnation noun pl=- note=uncountable
@@ -23,12 +23,12 @@ damp noun
 damsel noun
 damson noun
 dan noun conf=80 note=grade in martial arts
-dance noun
+dance noun vb=have|do
 dancer noun
 dandelion noun
 dandy noun
 Dane noun
-danger noun
+danger noun prep=of|to
 Danish noun pl=- note=the language
 dare noun
 daring noun
@@ -64,7 +64,7 @@ dead noun pl=- note=the dead; in the dead of night
 deadline noun
 deadlock noun
 deafness noun pl=- note=uncountable
-deal noun
+deal noun vb=make|do|strike|close|cut|sign|get|offer|seal
 dealer noun
 dealership noun
 dealing noun
@@ -76,16 +76,16 @@ death noun
 deathbed noun
 debacle noun
 debarment noun
-debate noun
+debate noun prep=about|on|over|between|with
 debenture noun
 debit noun
 debrief noun pl=debriefs
 debriefing noun
 debris noun pl=- note=uncountable
-debt noun
+debt noun prep=to|of vb=pay|pay_off|repay|owe|incur|clear|settle|run_up xvb=make>run_up
 debtor noun
 debugger noun
-debut noun
+debut noun vb=make xvb=give?
 decade noun
 decaf noun pl=decafs
 decanter noun
@@ -97,11 +97,11 @@ deceleration noun
 decency noun
 deception noun
 decimal noun
-decision noun
+decision noun prep=on|about|to vb=make|take|reach|announce|reverse xvb=do|meet>make|hit>make
 deck noun
 deckchair noun
 declaration noun
-decline noun
+decline noun prep=in|of vb=suffer|experience|halt|reverse|see
 deco noun pl=- conf=85 note=mostly in Art Deco
 decomposition noun
 decompression noun
@@ -109,7 +109,7 @@ deconstruction noun
 decontamination noun pl=- note=uncountable
 decoration noun
 decoy noun
-decrease noun
+decrease noun prep=in|of
 decree noun
 decryption noun pl=- note=uncountable
 dedication noun
@@ -126,14 +126,14 @@ defect noun
 defection noun
 defendant noun
 defender noun
-defense noun gb=defence
+defense noun prep=against|of|for gb=defence
 defenseman noun pl=defensemen gb=defenceman conf=90 note=ice hockey term, chiefly North American; British spelling assumed from defence
 defensive noun note=on the defensive
 deference noun pl=- note=uncountable
 deferment noun
 deferral noun
 defiance noun pl=- note=uncountable
-deficiency noun
+deficiency noun prep=in|of
 deficit noun
 defile noun note=narrow pass
 definition noun
@@ -144,32 +144,32 @@ deformation noun
 deformity noun
 degeneration noun
 degradation noun
-degree noun
+degree noun vb=get|have|earn|take|do|obtain|hold|award|complete xvb=make>get
 dehumidifier noun
 dehydration noun pl=- note=uncountable
 dehydrogenase noun
 deity noun
 dejection noun pl=- note=uncountable
-delay noun
+delay noun prep=in|to|of
 delegate noun
 delegation noun
 deletion noun
 deli noun
 deliberation noun
 delicacy noun
-delight noun
+delight noun prep=in|at|of
 delineation noun
 delinquency noun
 delinquent noun
 delirium noun pl=- note=uncountable
 deliverable noun
 deliverance noun
-delivery noun
+delivery noun vb=make|take|receive|get|accept
 dell noun
 delta noun
 deluge noun
 delusion noun
-demand noun
+demand noun prep=for|on vb=make|meet|satisfy|reject|accept
 demarcation noun
 demeanor noun gb=demeanour
 dementia noun
@@ -181,13 +181,13 @@ democrat noun
 demographic noun
 demolition noun
 demon noun
-demonstration noun
+demonstration noun vb=give|hold|stage|attend|organize
 demonstrator noun
 demotion noun
 demureness noun pl=- note=uncountable
 den noun
 dengue noun pl=- note=uncountable
-denial noun
+denial noun prep=of
 denim noun
 denomination noun
 denominator noun
@@ -199,7 +199,7 @@ denunciation noun
 deodorant noun
 department noun
 departure noun
-dependence noun
+dependence noun prep=on|upon xprep=from
 dependency noun
 dependent noun gb=dependant|dependent note=the noun (a person who depends on another); the adjective is dependent everywhere
 depiction noun
@@ -208,7 +208,7 @@ deployment noun
 depopulation noun pl=- note=uncountable
 deportation noun
 deportment noun pl=- note=uncountable
-deposit noun
+deposit noun prep=on|of|for vb=pay|make|put_down|leave|get_back|lose|return|place
 deposition noun
 depositor noun
 depository noun
@@ -245,7 +245,7 @@ designation noun
 designee noun
 designer noun
 desirability noun pl=- note=uncountable
-desire noun
+desire noun prep=for
 desk noun
 desktop noun
 desolation noun
@@ -275,7 +275,7 @@ determinism noun
 deterrence noun pl=- note=uncountable
 deterrent noun
 detonation noun
-detour noun
+detour noun vb=make|take
 detractor noun
 detriment noun
 detritus noun pl=- note=uncountable
@@ -283,20 +283,20 @@ deuce noun
 devaluation noun
 devastation noun pl=- note=uncountable
 developer noun
-development noun
+development noun prep=of|in
 deviation noun
 device noun
 devil noun
 devolution noun
 devotee noun
-devotion noun
+devotion noun prep=to
 dew noun
 dexterity noun pl=- note=uncountable
 dhal noun conf=90 note=also dal, dahl
 dharma noun pl=- note=uncountable
 diabetes noun pl=- note=uncountable
 diabetic noun
-diagnosis noun pl=diagnoses
+diagnosis noun vb=make|give|receive|get|confirm xvb=set>make|put>make? pl=diagnoses
 diagnostic noun
 diagonal noun
 diagram noun
@@ -321,11 +321,11 @@ diction noun pl=- note=uncountable
 dictionary noun
 dielectric noun
 diesel noun
-diet noun
-difference noun
+diet noun vb=follow|start|go_on|stick_to xvb=make>go_on
+difference noun prep=between|in|of|to vb=make|tell|see|notice|know|spot
 differential noun
 differentiation noun
-difficulty noun
+difficulty noun prep=in|with|of
 diffidence noun pl=- note=uncountable
 diffraction noun
 diffusion noun
@@ -351,7 +351,7 @@ diner noun
 dinghy noun
 dining noun pl=- note=dining room, fine dining
 dining-room noun
-dinner noun
+dinner noun vb=have|eat|make|cook|serve
 dinnerware noun pl=- note=uncountable
 dinosaur noun
 dint noun note=chiefly in "by dint of"
@@ -359,7 +359,7 @@ diocese noun
 diode noun
 dioxide noun
 dip noun
-diploma noun
+diploma noun prep=in
 diplomacy noun pl=- note=uncountable
 diplomat noun
 diplomatist noun
@@ -372,8 +372,8 @@ directorate noun
 directory noun
 dirt noun pl=- note=uncountable
 disability noun
-disadvantage noun
-disagreement noun
+disadvantage noun prep=of|to
+disagreement noun prep=about|over|with|between|on
 disambiguation noun
 disappearance noun
 disappointment noun
@@ -404,20 +404,20 @@ discount noun
 discouragement noun
 discourse noun
 discoverer noun
-discovery noun
+discovery noun vb=make
 discredit noun pl=- note=uncountable
 discrepancy noun
 discretion noun pl=- note=uncountable
-discrimination noun
+discrimination noun prep=against|between|in|of
 discus noun
-discussion noun
+discussion noun prep=about|on|of|with|between|over
 disdain noun
 disease noun
 disenrollment noun
 disgrace noun
 disguise noun
-disgust noun
-dish noun
+disgust noun prep=at|with|for
+dish noun vb=cook|make|prepare|serve|order|wash|do
 dishcloth noun
 dishonesty noun pl=- note=uncountable
 dishonor noun gb=dishonour
@@ -430,7 +430,7 @@ disinformation noun pl=- note=uncountable
 disintegration noun
 disinvestment noun
 disk noun
-dislike noun
+dislike noun prep=of|for
 dislocation noun
 disloyalty noun
 dismay noun
@@ -449,7 +449,7 @@ displacement noun
 display noun
 displeasure noun
 disposal noun
-disposition noun
+disposition noun prep=to|toward|towards
 dispute noun
 disqualification noun
 disquiet noun pl=- note=uncountable
@@ -470,7 +470,7 @@ distaste noun
 distillate noun
 distillation noun
 distillery noun
-distinction noun
+distinction noun prep=between|of vb=make|draw
 distinctness noun pl=- note=uncountable
 distortion noun
 distraction noun
@@ -539,7 +539,7 @@ domination noun
 Dominican noun
 dominion noun
 domino noun pl=dominoes|dominos
-donation noun
+donation noun prep=to|of|from|for vb=make|give
 donee noun
 doner noun note=doner kebab; also döner
 dongle noun
@@ -567,7 +567,7 @@ dossier noun
 dot noun
 double noun
 doublet noun
-doubt noun
+doubt noun prep=about|over|of
 dough noun
 doughnut noun us=donut|doughnut conf=90 note=donut is an informal American spelling
 dove noun note=the bird
@@ -605,11 +605,11 @@ drawback noun
 drawbridge noun
 drawdown noun
 drawer noun
-drawing noun
+drawing noun vb=do|make
 drawing-room noun
 drawl noun
 dread noun
-dream noun
+dream noun prep=of|about vb=have
 dreamer noun
 dregs noun pl_only
 dress noun
@@ -619,9 +619,9 @@ dressmaker noun
 drift noun
 drill noun
 drilling noun
-drink noun
+drink noun vb=have|take
 drip noun
-drive noun
+drive noun vb=take|go_for xvb=make?
 driver noun
 driveway noun
 drone noun
@@ -678,7 +678,7 @@ dustbin noun region=GB note=US trash can
 duster noun
 dustpan noun
 Dutch noun pl=- note=the language; the Dutch (people)
-duty noun
+duty noun prep=to|of|on vb=do|perform|fulfill
 duvet noun
 DVD noun abbr note=digital versatile disc
 dwarf noun pl=dwarfs|dwarves
