@@ -514,7 +514,7 @@ cosmopolite        adj
 cossard            adj style=colloquial alt=paresseux
 cossu              adj
 costaud            adj f=costaude note=feminine also costaud
-cosy               adj
+cosy               adj f=cosy
 côtier             adj
 cotonneux          adj
 couard             adj
