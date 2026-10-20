@@ -44,6 +44,12 @@ English words (`Field`, `Cash`, `Truth`), adjectival parts of names (`Starnberge
 `Schwarzes`: demonyms and adjectives are not part of the format), acronyms (`DDR`), names with an
 apostrophe (`D'Annunzio`) and characters of works (no list kind for them).
 
+**Possible later extensions** (not planned now; owner decision 2026-10-20: the lists grow only
+selectively, and work titles and characters belong in the user or class dictionary):
+- a marker "also a common word" (e.g. a third column in `surnames.tsv`), so that canon names
+  such as `Brecht`, `Händel` or `Klee` could serve as name cues without being accepted as spellings;
+- a list kind for work titles and characters (`Woyzeck`, `Mephisto`, `Gretchen`).
+
 The engine derives the inflected forms; they are not stored: genitive `-s` (`Tims`, `Lenas`,
 `Ulms`), the apostrophe genitive after s-sounds (`Max'`, `Hans'`), and the plural of surnames
 (`die Müllers`). The lexicon tools (`heinrich-lexicon classify --names de/names`) also use the
