@@ -166,6 +166,7 @@ unhesitating adj adv=unhesitatingly
 unhindered adj
 unholy adj
 unhurt adj pred_only
+unhybridized adj gb=unhybridised|unhybridized
 unidentified adj
 uniform        adj adv=uniformly
 uniformed adj
@@ -214,6 +215,7 @@ unmixed adj
 unmodified adj
 unmolested adj
 unmoved adj
+unmyelinated adj
 unnamed        adj
 unnatural      adj adv=unnaturally
 unnecessary    adj adv=unnecessarily
@@ -241,6 +243,7 @@ unproductive adj cmp=more
 unprofessional adj cmp=more adv=unprofessionally
 unprofitable adj cmp=more
 unprotected adj
+unprovable adj
 unproven adj
 unprovoked adj
 unpublished adj

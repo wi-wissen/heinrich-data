@@ -20,6 +20,7 @@ aborigine noun
 Aborigine noun note=indigenous Australian
 abortion noun
 abrasive noun
+abscissa noun pl=abscissas|abscissae
 absence noun
 absentee noun
 absenteeism noun pl=- note=uncountable
@@ -153,6 +154,8 @@ adolescence noun
 adolescent noun
 adopter noun
 adoption noun
+adoptionism noun pl=- note=uncountable
+adoptionist noun
 adoration noun pl=- note=uncountable
 adornment noun
 adult noun
@@ -181,6 +184,7 @@ aerial noun
 aerodrome noun
 aerodynamics noun pl=- note=uncountable
 aeronautics noun pl=- note=singular in use
+aerophone noun
 aerosol noun
 aerospace noun pl=- note=uncountable
 aesthetic noun us=esthetic|aesthetic conf=90 note=esthetic is a rarer American spelling
@@ -201,6 +205,7 @@ affront noun
 Afghan noun
 African noun
 afterlife noun pl=afterlives
+afterload noun pl=- note=uncountable
 aftermath noun
 afternoon noun
 afterthought noun
@@ -292,6 +297,7 @@ alliance noun prep=with|between|against
 alligator noun
 allocation noun
 allotment noun
+allotrope noun
 allowance noun
 alloy noun
 allure noun
@@ -320,6 +326,7 @@ amaretti noun pl=- conf=80 note=Italian plural used for the almond biscuits
 amaretto noun pl=amarettos note=the almond liqueur
 amateur noun
 amazement noun pl=- note=uncountable
+amazonite noun pl=- note=uncountable
 ambassador noun
 amber noun
 ambiguity noun
@@ -428,14 +435,17 @@ anticipation noun
 antidote noun
 antigen noun
 antimicrobial noun
+antinomy noun
 antipasto noun pl=antipasti|antipastos conf=90 note=unsure how common the English plural antipastos is
 antipathy noun
 antiperspirant noun
+antipope noun
 antiquarian noun
 antiquary noun
 antique noun
 antiquity noun
 antisemitism noun pl=- note=uncountable
+antithesis noun pl=antitheses
 antivirus noun
 antler noun
 anus noun
@@ -452,6 +462,7 @@ apex noun pl=apexes|apices
 API noun abbr note=application programming interface
 apocalypse noun
 apology noun prep=for|to vb=make|offer|owe|accept|give
+apomorphy noun
 apostle noun
 apothecary noun
 app noun
@@ -462,6 +473,7 @@ appeal noun vb=make|launch|lodge|file|hear|reject|dismiss|win|lose
 appearance noun
 appellant noun
 appellation noun
+appellee noun
 appendage noun
 appendicitis noun pl=- note=uncountable
 appendix noun pl=appendices|appendixes
@@ -487,6 +499,7 @@ approach noun prep=to
 approbation noun pl=- note=uncountable
 appropriateness noun pl=- note=uncountable
 appropriation noun
+appropriator noun
 approval noun prep=of|for
 approver noun
 approximation noun
@@ -624,6 +637,7 @@ Assyrian noun
 asterisk noun
 asteroid noun
 asthma noun pl=- note=uncountable
+asthmatic noun
 astonishment noun pl=- note=uncountable
 astrologer noun
 astrology noun pl=- note=uncountable
@@ -631,6 +645,7 @@ astronaut noun
 astronomer noun
 astronomy noun pl=- note=uncountable
 asylum noun
+asymptote noun
 atheism noun pl=- note=uncountable
 atheist noun
 Athenian noun
@@ -696,6 +711,7 @@ authorship noun
 autism noun pl=- note=uncountable
 auto noun pl=autos
 autobiography noun
+autocannon noun pl=autocannons|autocannon
 autocomplete noun
 autocorrect noun pl=- note=uncountable
 autocracy noun
@@ -732,8 +748,11 @@ awkwardness noun
 awning noun
 axe noun us=ax|axe
 axiom noun
+axiomatization noun gb=axiomatisation|axiomatization
 axis noun pl=axes
 axle noun
+axon noun
+axoneme noun
 aye noun pl=ayes note=a yes vote
 Azerbaijani noun
 Aztec noun

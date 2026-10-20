@@ -107,6 +107,7 @@ civic adj
 civil adj adv=civilly
 civilian adj
 civilized adj cmp=more gb=civilised|civilized
+cladistic adj
 clamorous adj
 clandestine adj adv=clandestinely
 classic adj
@@ -353,6 +354,7 @@ Croatian adj
 crooked adj cmp=more adv=crookedly
 cross adj cmp=er adv=crossly
 cross-border adj
+crossbred adj
 crowded adj cmp=more
 crowned adj
 crucial adj adv=crucially

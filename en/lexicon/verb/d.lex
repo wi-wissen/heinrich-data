@@ -25,6 +25,7 @@ debilitate verb
 debit verb
 debrief verb
 debug verb double
+debunk verb
 debut verb
 decarbonize verb gb=decarbonise|decarbonize
 decay verb
@@ -44,6 +45,7 @@ decorate verb
 decoy verb
 decrease verb
 decree verb
+decrement verb
 decrypt verb
 dedicate verb comp=p_ing prep=to
 deduce verb
@@ -79,6 +81,7 @@ deliver verb
 delude verb
 deluge verb
 demand verb comp=to|that|wh prep=of|from
+demodulate verb
 demolish verb
 demonstrate verb
 demoralize verb gb=demoralise|demoralize
@@ -90,6 +93,7 @@ dent verb
 deny verb comp=ing|that
 depart verb
 depend verb prep=on|upon xprep=of|from
+dephosphorylate verb
 depict verb comp=obj_ing|wh
 deplete verb
 deplore verb comp=ing|obj_ing|that

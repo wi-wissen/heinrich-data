@@ -10,6 +10,7 @@ ultralight noun
 ultrasound noun
 ultraviolet noun pl=- note=uncountable
 umami noun pl=- note=uncountable
+umbel noun
 umbrella      noun
 umpire noun
 unanimity noun pl=- note=uncountable

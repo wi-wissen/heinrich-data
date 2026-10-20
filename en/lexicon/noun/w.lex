@@ -293,6 +293,7 @@ worry noun
 worship noun pl=- note=uncountable
 worshipper noun us=worshiper|worshipper
 worsted noun pl=- note=a woolen fabric; uncountable
+wort noun
 worth noun pl=- note=uncountable
 worthy noun
 wound noun
