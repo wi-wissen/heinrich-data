@@ -1,7 +1,16 @@
 # French lexicon: noun entries in z (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
+zèbre noun g=m
 zèle noun g=m
 zénith noun g=m
+zeste noun g=m
+zigzag noun g=m
+zinc noun g=m
+zizanie noun g=f
+zodiaque noun g=m
+zona noun g=m
 zonage noun g=m
 zone noun g=f
+zoo noun g=m
 zoologie noun g=f
 zoologiste noun g=m|f
+zoom noun g=m
