@@ -9,6 +9,7 @@ Jahreszeit noun g=f gen=Jahreszeit pl=Jahreszeiten
 Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
 Jahrtausend noun g=n gen=Jahrtausends pl=Jahrtausende
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
+Jainismus noun g=m gen=Jainismus pl=- note=religion; no plural
 Jalousie noun g=f gen=Jalousie pl=Jalousien
 Jambus noun g=m gen=Jambus pl=Jamben note=Latin loanword; genitive without -es
 Jammer noun g=m gen=Jammers pl=- note=mass noun
@@ -27,12 +28,14 @@ Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Jobsharing noun g=n gen=Jobsharings pl=- note=mass noun
 Joch noun g=n gen=Jochs|Joches pl=Joche
+Jod noun g=n gen=Jods pl=- note=chemical element; common spelling of Iod
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
 Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
 Joker noun g=m gen=Jokers pl=Joker
+Joule noun g=n gen=Joule|Joules pl=Joule note=unit of energy
 Journal noun g=n gen=Journals pl=Journale
 Journalismus noun g=m gen=Journalismus pl=- note=no plural
 Journalist noun g=m gen=Journalisten pl=Journalisten
@@ -59,6 +62,7 @@ Jüngling noun g=m gen=Jünglings pl=Jünglinge
 Juni noun g=m sg=Juni,Juni|Junis,Juni,Juni pl=- note=month name; plural not used
 Junior noun g=m gen=Juniors pl=Junioren
 Junker noun g=m gen=Junkers pl=Junker
+Junktor noun g=m gen=Junktors pl=Junktoren
 Junta noun g=f gen=Junta pl=Junten|Juntas
 Jura noun g=n gen=Jura pl=- note=Jura studieren; used without article
 Jurist noun g=m gen=Juristen pl=Juristen

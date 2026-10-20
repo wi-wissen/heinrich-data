@@ -13,6 +13,7 @@ daransetzen verb class=weak sep=daran pp=darangesetzt perf=haben note=alles dara
 darbieten verb class=strong sep=dar 3sg=darbietet past=darbot pp=dargeboten subj2=darböte perf=haben
 darbringen verb class=mixed sep=dar 3sg=darbringt past=darbrachte pp=dargebracht subj2=darbrächte perf=haben
 darlegen verb class=weak sep=dar pp=dargelegt perf=haben
+darren verb class=weak pp=gedarrt perf=haben
 darstellen    verb class=weak sep=dar pp=dargestellt perf=haben
 dastehen verb class=strong sep=da 3sg=dasteht past=dastand pp=dagestanden subj2=dastünde|dastände perf=haben|sein
 datieren verb class=weak pp=datiert perf=haben

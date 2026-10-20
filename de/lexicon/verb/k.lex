@@ -3,6 +3,7 @@ kalkulieren verb class=weak pp=kalkuliert perf=haben
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
+kapern verb class=weak pp=gekapert perf=haben
 kapieren verb class=weak pp=kapiert perf=haben style=colloquial alt=verstehen
 kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
 kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
@@ -77,6 +78,7 @@ kommentieren verb class=weak pp=kommentiert perf=haben
 kommissionieren verb class=weak pp=kommissioniert perf=haben
 kommunizieren verb class=weak pp=kommuniziert perf=haben
 kompensieren verb class=weak pp=kompensiert perf=haben
+kompilieren verb class=weak pp=kompiliert perf=haben
 komponieren verb class=weak pp=komponiert perf=haben
 komprimieren verb class=weak pp=komprimiert perf=haben
 kondensieren verb class=weak pp=kondensiert perf=haben|sein
@@ -125,6 +127,7 @@ kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
 kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
 kriegen verb class=weak pp=gekriegt perf=haben style=colloquial alt=bekommen
+kristallisieren verb class=weak pp=kristallisiert perf=haben
 kritisieren verb class=weak pp=kritisiert perf=haben
 kritteln verb class=weak pp=gekrittelt perf=haben
 kritzeln verb class=weak pp=gekritzelt perf=haben

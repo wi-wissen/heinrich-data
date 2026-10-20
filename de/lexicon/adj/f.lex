@@ -26,8 +26,10 @@ fein adj cmp=feiner sup=feinsten
 feindlich adj
 felsig adj cmp=felsiger sup=felsigsten
 feministisch adj
+fermionisch adj
 fern adj cmp=ferner sup=fernsten
 fertig adj
+fertil adj
 fest adj cmp=fester sup=festesten
 festlich adj
 fett adj cmp=fetter sup=fettesten
@@ -48,6 +50,7 @@ fit adj attr=fitte cmp=fitter sup=fittesten
 fix adj cmp=fixer sup=fixesten
 flach adj cmp=flacher sup=flachsten
 flämisch adj
+flaumig adj cmp=flaumiger sup=flaumigsten
 flauschig adj cmp=flauschiger sup=flauschigsten
 fleckig adj cmp=fleckiger sup=fleckigsten
 fleißig adj cmp=fleißiger sup=fleißigsten

@@ -116,6 +116,7 @@ Uniform noun g=f gen=Uniform pl=Uniformen
 Union noun g=f gen=Union pl=Unionen
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
+Unix noun g=n gen=Unix pl=- note=operating system family; bare genitive after x
 Unklarheit noun g=f gen=Unklarheit pl=Unklarheiten
 Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
@@ -192,5 +193,6 @@ Ursache noun g=f gen=Ursache pl=Ursachen
 Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
+Usenet noun g=n gen=Usenets pl=- note=name of the network; used with article
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural
 Utopie noun g=f gen=Utopie pl=Utopien
