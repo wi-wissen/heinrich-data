@@ -128,7 +128,6 @@ dentaire adj
 dental adj
 dentelé adj
 dénué adj
-dénué          adj note=dénué de (lacking); the verb dénuer is rare
 dénutri adj
 déontologique adj
 départemental adj
