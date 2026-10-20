@@ -103,6 +103,43 @@ own English lexicon and checked by hand against our own frequency list `en/frequ
 No third-party name list, census or birth-name statistic, gazetteer, directory, dictionary or
 web source was consulted. Format, use and protocol: `en/names/README.md`, `en/names/AUTHORING.md`.
 
+## French name lists (`fr/names/`)
+
+Not clean-room own data like `de/names/` and `en/names/`: filtered from official open data
+(owner decision, Heinrich `docs/FRENCH.md` F-D4), then curated by hand. Built by
+`tools/names_fr/` (`fetch.sh` downloads, `geonames_extract.py` and `build.py` filter; the raw
+data is not committed). Format, thresholds and coverage: `fr/names/README.md`.
+
+| Source | Used for | URL | Version / date | Licence |
+|---|---|---|---|---|
+| INSEE, Fichier des prénoms, édition 2025 (national file, births 1900-2025) | `given_names.tsv`: first given names with at least 200 births; gender from the share of boys/girls | https://www.insee.fr/fr/statistiques/8595130 (`prenoms-2025-nat_csv.zip`) | published 2026-07-16, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Fichier des noms, État civil (national file, births 1891-2000 by decade) | `surnames.tsv`: surnames borne by at least 700 persons | https://www.insee.fr/fr/statistiques/3536630 (`noms2008nat_txt.zip`) | published 2018-05-22, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Code officiel géographique au 1er janvier 2026 | `places.tsv`: communes, departments, regions, overseas collectivities, countries and territories | https://www.insee.fr/fr/information/8740222 (`v_commune_2026.csv`, `v_departement_2026.csv`, `v_region_2026.csv`, `v_comer_2026.csv`, `v_commune_comer_2026.csv`, `v_pays_territoire_2026.csv`) | updated 2026-02-24, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Populations de référence 2023 (fichier d'ensemble) | municipal population of the communes (threshold 3,000) | https://www.insee.fr/fr/statistiques/8680726 (`ensemble.zip`) | published 2025-12-18, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| GeoNames gazetteer (`allCountries.zip`, `alternateNamesV2.zip`) | French names of foreign cities (at least 150,000 inhabitants, and capitals) and first-level regions (at least 1,000,000) | https://download.geonames.org/export/dump/ | dump of 2026-10-20 | CC BY 4.0 |
+
+Licence check (2026-10-20): the INSEE legal notice (https://www.insee.fr/fr/information/2008466)
+puts all public information on insee.fr under the Licence Ouverte / Open Licence 2.0 unless stated
+otherwise; none of the pages above states otherwise. The licence allows reuse, also commercial and
+modified, provided the source is named ("Source : Insee") with the date of the last update, and
+the reuse does not suggest INSEE endorsement or alter the meaning of the data
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence). It is compatible with CC BY 2.0+ and the
+Open Government Licence. GeoNames states in its `readme.txt`: "This work is licensed under a
+Creative Commons Attribution 4.0 License" (https://creativecommons.org/licenses/by/4.0/). No
+CC BY-SA, NC or unclear source is used. No personal data beyond counts per name is published: the
+INSEE files are anonymous aggregates in which rare names are grouped (`_PRENOMS_RARES`;
+`AUTRES NOMS` for surnames borne fewer than 30 times), and we keep only frequent names.
+
+Required attribution (in `fr/names/README.md`, the pack's `ATTR` section and Heinrich `NOTICE`):
+"Source : Insee (Fichier des prénoms 2025, Fichier des noms 2018, Code officiel géographique 2026,
+Populations de référence 2023), Licence Ouverte 2.0; GeoNames (geonames.org), CC BY 4.0. Selected
+and modified."
+
+Own data in `fr/names/curated/` (written 2026-10-20 from our own knowledge of French and of
+geography, without dictionary, lexicon, word list, gazetteer or web source): the `word` markers,
+the accented spellings of register surnames, the exclusions, and the list of continents, rivers,
+mountains, seas, islands, historic states and traditional regions (`curated/places.tsv`).
+
 ## English lexicon (`en/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of English grammar and spelling (no
