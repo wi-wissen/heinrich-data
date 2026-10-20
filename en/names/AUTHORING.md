@@ -59,13 +59,40 @@ rules of the files: [`README.md`](README.md).
    pack uses the compact list layout (`docs/PACK_FORMAT.md` §6); with the FST layout of the
    German pack the same lists would need about 38 KB gzip.
 
-## 3. Result (2026-10-20)
+## 3. Result (2026-10-20, after review round 1)
 
 | file | names | with `word` |
 |---|---|---|
-| `given_names.tsv` | 2,808 (1,298 f, 1,381 m, 129 u) | 214 |
-| `surnames.tsv` | 2,731 | 290 |
-| `places.tsv` | 2,444 (218 countries, 129 states/provinces, 323 regions, 1,418 cities, 102 rivers, 65 mountains, 70 islands, 45 waters, 64 historic, 10 continents) | 115 |
+| `given_names.tsv` | 3,055 (1,422 f, 1,421 m, 212 u) | 240 |
+| `surnames.tsv` | 3,015 | 339 |
+| `places.tsv` | 2,600 (232 countries and territories, 129 states/provinces, 341 regions, 1,540 cities, 104 rivers, 65 mountains, 70 islands, 46 waters, 63 historic, 10 continents) | 134 |
+
+`en-names.pack` (compact layout, with attribution): 24,946 bytes gzip.
+
+## 3a. Review round 1 (2026-10-20)
+
+The clean-room reviewer reported only "disputed" and "missing" items and statistics
+(heinrich-data#82). The author decided on each item from own knowledge:
+
+- **Disputed, accepted:** removed the artefact `Mccarthy`, the misspelling `Coultard` (now
+  `Coulthard`), the acronym `USSR` (names in capitals are now dropped by the assembly), the place
+  names `Bletchley` and `Brompton` from the surnames, the characters `Heathcliff` and `Tybalt` and
+  the surnames `Calloway`, `Danforth`, `Rigby`, `Wolfe`, `Fitz` from the given names (they stay
+  surnames). 41 given names used for both sexes moved to `u` (`Andrea`, `Jess`, `Nicola`, `Toni`,
+  `Robbie`, `Shea`, `Kiran`, `Chen` …); `Frances` is `f`. `word` marker removed from `Lesbos`,
+  added to 29 names whose lowercase form is an ordinary word (`Randy`, `Josh`, `Jimmy`, `Toby`,
+  `Turner`, `Wright`, `Carter`, `Cox`, `Chad`, `Java`, `Bordeaux`, `Troy`, `Oxford`, `Ben` …).
+  README: sorting described as it is (case-insensitive, accents folded).
+- **Missing, added in the reviewer's priority until the 25 KB budget was reached:** country
+  parts and territories (`Saudi`, `Emirates`, `Dominican`, `Cayman`, `Falklands`, `Leste` …),
+  capitals of small states and dependencies, the London boroughs not yet listed, UK and Irish
+  towns (`Bury`, `Swords` with `word`), given names of migrant families in the UK (Polish,
+  Romanian, Somali, Nigerian, Bangladeshi, Sikh/Punjabi, other South Asian and East Asian), the
+  frequent US and UK/migrant surnames named, surnames that were only given names (`Cole`, `Simon`,
+  `Patrick` …), modern and older spelling variants of given names, and the large world cities,
+  regions and rivers named.
+- **Left out for size:** the historic exonyms marked optional (`Leghorn`, `Ratisbon`, `Tiflis`,
+  `Teheran`, `Salonika`, `Livorno`).
 
 ## 4. Open points for the reviewer
 

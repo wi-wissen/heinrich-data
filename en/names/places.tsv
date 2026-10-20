@@ -87,6 +87,7 @@ Angkor	u	city
 Anglesey	u	region
 Anglia	u	historic
 Angola	u	country
+Anguilla	u	country
 Angus	u	region
 Anhalt	u	state
 Ankara	u	city
@@ -219,6 +220,7 @@ Barnet	u	region
 Barnsley	u	city
 Barnstaple	u	city
 Barra	u	island
+Barranquilla	u	city
 Barrow	u	city	word
 Barrow-in-Furness	u	city
 Barry	u	city
@@ -227,6 +229,7 @@ Basildon	u	city
 Basingstoke	u	city
 Basle	u	city
 Basra	u	city
+Basrah	u	city
 Basseterre	u	city
 Bastogne	u	city
 Bath	u	city	word
@@ -257,6 +260,7 @@ Bengaluru	u	city
 Benghazi	u	city
 Benidorm	u	city
 Benin	u	country
+Benoni	u	city
 Berchtesgaden	u	city
 Bergamo	u	city
 Bergen	u	city
@@ -264,6 +268,7 @@ Bering	u	water
 Berkeley	u	city
 Berkshire	u	region
 Berlin	u	city
+Bermondsey	u	region
 Bermuda	u	country
 Bern	u	city
 Bernardino	u	city
@@ -285,6 +290,7 @@ Bielefeld	u	city
 Bilbao	u	city
 Billings	u	city	word
 Biloxi	u	city
+Birkenhead	u	city
 Birmingham	u	city
 Biscay	u	water
 Bishkek	u	city
@@ -306,12 +312,12 @@ Bogotá	u	city
 Bohemia	u	historic
 Boise	u	city
 Bolivia	u	country
-Bologna	u	city
+Bologna	u	city	word
 Bolton	u	city
 Bolzano	u	city
 Bombay	u	city
 Bonn	u	city
-Bordeaux	u	city
+Bordeaux	u	city	word
 Borders	u	region	word
 Borneo	u	island
 Bosnia	u	country
@@ -342,6 +348,7 @@ Breda	u	city
 Bregenz	u	city
 Bremen	u	city
 Bremerhaven	u	city
+Brent	u	region
 Brescia	u	city
 Breslau	u	city
 Brest	u	city
@@ -386,11 +393,13 @@ Burgundy	u	historic	word
 Burkina	u	country
 Burlington	u	city
 Burma	u	country
+Burnaby	u	city
 Burnley	u	city
 Burren	u	region
 Bursa	u	city
 Burton	u	city
 Burundi	u	country
+Bury	u	city	word
 Busan	u	city
 Buxton	u	city
 Byzantium	u	historic
@@ -402,6 +411,7 @@ Caen	u	city
 Caernarfon	u	city
 Caerphilly	u	city
 Cagliari	u	city
+Caicos	u	country
 Cairngorms	u	region
 Cairns	u	city	word
 Cairo	u	city
@@ -413,6 +423,7 @@ Caledonia	u	historic
 Calgary	u	city
 Cali	u	city
 California	u	state
+Callao	u	city
 Cam	u	river	word
 Cambodia	u	country
 Cambridge	u	city
@@ -420,6 +431,7 @@ Cambridgeshire	u	region
 Camden	u	region
 Cameroon	u	country
 Campania	u	region
+Campinas	u	city
 Canada	u	country
 Canaria	u	city
 Canaries	u	region	word
@@ -458,16 +470,18 @@ Catskills	u	region
 Caucasus	u	region
 Cavan	u	region
 Cayenne	u	city	word
+Cayman	u	country
 Cebu	u	city
 Celebes	u	island
 Celle	u	city
 Ceredigion	u	region
 Ceylon	u	historic
-Chad	u	country
+Chad	u	country	word
 Chamonix	u	city
 Champagne	u	region	word
 Chandigarh	u	city
 Chandler	u	city	word
+Changsha	u	city
 Chapelle	u	city
 Charleston	u	city
 Charlotte	u	city
@@ -480,6 +494,7 @@ Chechnya	u	state
 Chelmsford	u	city
 Chelsea	u	region
 Cheltenham	u	city
+Chelyabinsk	u	city
 Chemnitz	u	city
 Chengdu	u	city
 Chennai	u	city
@@ -488,7 +503,7 @@ Cherbourg	u	city
 Chesapeake	u	region
 Cheshire	u	region
 Chester	u	city
-Chesterfield	u	city
+Chesterfield	u	city	word
 Cheviots	u	mountain
 Cheyenne	u	city
 Chiang	u	city
@@ -519,6 +534,7 @@ Cluj	u	city
 Clyde	u	river
 Coblenz	u	city
 Cochin	u	city
+Coimbatore	u	city
 Coimbra	u	city
 Colchester	u	city
 Coldfield	u	city
@@ -580,6 +596,7 @@ Cuenca	u	city
 Cumberland	u	region
 Cumbria	u	region
 Cunha	u	island
+Curacao	u	city
 Curaçao	u	island
 Curitiba	u	city
 Cusco	u	city
@@ -590,6 +607,7 @@ Czechia	u	country
 Czechoslovakia	u	historic
 Dachau	u	city
 Daegu	u	city
+Daejeon	u	city
 Dagenham	u	region
 Dagestan	u	region
 Dahomey	u	historic
@@ -601,6 +619,7 @@ Dallas	u	city
 Dalmatia	u	region
 Dalriada	u	historic
 Damascus	u	city
+Dammam	u	city
 Danube	u	river
 Danzig	u	city
 Dar	u	city
@@ -661,6 +680,7 @@ Doha	u	city
 Dolomites	u	mountain
 Domingo	u	city
 Dominica	u	country
+Dominican	u	country
 Don	u	river	word
 Donard	u	mountain
 Donbas	u	region
@@ -728,6 +748,8 @@ Ely	u	city
 Emden	u	city
 Emilia	u	region
 Emilia-Romagna	u	region
+Emirates	u	country	word
+Ems	u	river	word
 Emsland	u	region
 Enfield	u	region
 England	u	country
@@ -764,10 +786,12 @@ Exmouth	u	city
 Fairbanks	u	city
 Faisalabad	u	city
 Falkirk	u	city
+Falkland	u	country
 Falklands	u	island
 Falmouth	u	city
 Fareham	u	city
 Fargo	u	city
+Faridabad	u	city
 Farnborough	u	city
 Faro	u	city
 Faroe	u	country
@@ -779,6 +803,7 @@ Fehmarn	u	island
 Fens	u	region	word
 Fermanagh	u	region
 Ferrara	u	city
+Fes	u	city
 Fez	u	city	word
 Fife	u	region	word
 Fiji	u	country
@@ -806,6 +831,8 @@ Freiburg	u	city
 Fremantle	u	city
 Fremont	u	city
 Fresno	u	city
+Friesland	u	region
+Frisia	u	region
 Friuli	u	region
 Frome	u	city
 Fuego	u	island
@@ -813,9 +840,11 @@ Fuji	u	mountain
 Fukuoka	u	city
 Fulda	u	city
 Fulham	u	region
+Funafuti	u	city
 Funchal	u	city
 Funen	u	island
 Furness	u	region
+Fuzhou	u	city
 Fylde	u	region
 Gabon	u	country
 Gaborone	u	city
@@ -838,9 +867,11 @@ Garonne	u	river
 Gary	u	city
 Gascony	u	region
 Gateshead	u	city
+Gatineau	u	city
 Gatwick	u	region
 Gaul	u	historic
 Gaza	u	region
+Gaziantep	u	city
 Gdansk	u	city
 Gdańsk	u	city
 Gdynia	u	city
@@ -854,6 +885,7 @@ Gera	u	city
 Germany	u	country
 Gettysburg	u	city
 Ghana	u	country
+Ghaziabad	u	city
 Ghent	u	city
 Gibraltar	u	country
 Giessen	u	city
@@ -861,6 +893,7 @@ Gijón	u	city
 Gilbert	u	city
 Gillingham	u	city
 Girona	u	city
+Gitega	u	city
 Giza	u	city
 Glamorgan	u	region
 Glasgow	u	city
@@ -870,6 +903,7 @@ Gloucester	u	city
 Gloucestershire	u	region
 Goa	u	city
 Gobi	u	region
+Goiânia	u	city
 Golan	u	region
 Görlitz	u	city
 Goslar	u	city
@@ -907,12 +941,16 @@ Guangzhou	u	city
 Guatemala	u	country
 Guayaquil	u	city
 Guernsey	u	city	word
+Guiana	u	country
 Guildford	u	city
 Guinea	u	country	word
 Guinea-Bissau	u	country
 Gujarat	u	state
+Gujranwala	u	city
 Gütersloh	u	city
 Guyana	u	country
+Gwalior	u	city
+Gwangju	u	city
 Gwent	u	region
 Gwynedd	u	historic
 Haarlem	u	city
@@ -921,11 +959,13 @@ Hagen	u	city
 Hague	u	city
 Haifa	u	city
 Hainan	u	island
+Haiphong	u	city
 Haiti	u	country
 Halifax	u	city
 Halle	u	city
 Hamburg	u	city
 Hamilton	u	city
+Hamlets	u	region	word
 Hamm	u	city
 Hammersmith	u	region
 Hampshire	u	state
@@ -937,6 +977,7 @@ Hanover	u	city
 Harare	u	city
 Harbin	u	city
 Harcourt	u	city
+Haringey	u	region
 Harlech	u	city
 Harlem	u	region
 Harlow	u	city
@@ -952,11 +993,13 @@ Havana	u	city
 Havant	u	city
 Havel	u	river
 Haverfordwest	u	city
+Havering	u	region
 Havre	u	city
 Hawaii	u	state
 Hawick	u	city
 Heathrow	u	region
 Hebrides	u	region
+Hefei	u	city
 Heidelberg	u	city
 Heilbronn	u	city
 Helena	u	city
@@ -997,13 +1040,14 @@ Hobart	u	city
 Hoboken	u	city
 Hokkaido	u	island
 Holborn	u	region
-Holland	u	country
+Holland	u	country	word
 Hollywood	u	region
 Holstein	u	state
 Holyhead	u	city
 Homs	u	city
 Honduras	u	country
 Hong	u	country
+Honiara	u	city
 Honolulu	u	city
 Honshu	u	island
 Horizonte	u	city
@@ -1024,6 +1068,7 @@ Huntingdonshire	u	region
 Huntington	u	city
 Huntsville	u	city
 Huron	u	water
+Hutt	u	city
 Hyderabad	u	city
 Hythe	u	city
 Iași	u	city
@@ -1034,8 +1079,10 @@ Iceland	u	country
 Idaho	u	state
 Idris	u	mountain
 Iguazu	u	water
+Ilford	u	city
 Ilkley	u	city
 Illinois	u	state
+Ilorin	u	city
 Inca	u	historic
 Incheon	u	city
 India	u	country
@@ -1079,6 +1126,7 @@ Itchen	u	river
 Ithaca	u	city
 Ives	u	city
 Izmir	u	city
+Jabalpur	u	city
 Jackson	u	city
 Jacksonville	u	city
 Jaipur	u	city
@@ -1088,7 +1136,7 @@ Jamaica	u	country
 Janeiro	u	city
 Japan	u	country
 Jasper	u	city	word
-Java	u	island
+Java	u	island	word
 Jeddah	u	city
 Jefferson	u	city
 Jena	u	city
@@ -1096,6 +1144,7 @@ Jerez	u	city
 Jericho	u	city
 Jersey	u	city	word
 Jerusalem	u	city
+Jinan	u	city
 Jodhpur	u	city
 Johannesburg	u	city
 Joliet	u	city
@@ -1103,11 +1152,16 @@ Jordan	u	country
 Jose	u	city
 José	u	city
 Juan	u	city
+Juarez	u	city
+Juárez	u	city
+Juba	u	city
 Judea	u	region
 Juneau	u	city
 Jungfrau	u	mountain
 Jura	u	mountain
+Jutland	u	region
 Kabul	u	city
+Kaduna	u	city
 Kalahari	u	region
 Kalamazoo	u	city
 Kaliningrad	u	city
@@ -1121,7 +1175,9 @@ Kanpur	u	city
 Kansas	u	state
 Kaohsiung	u	city
 Karachi	u	city
+Karaj	u	city
 Karakoram	u	mountain
+Karbala	u	city
 Karelia	u	region
 Karlovy	u	city
 Karlsruhe	u	city
@@ -1133,6 +1189,8 @@ Katowice	u	city
 Katrine	u	water
 Kauai	u	island
 Kaunas	u	city
+Kawasaki	u	city
+Kayseri	u	city
 Kazakhstan	u	country
 Kazan	u	city
 Keighley	u	city
@@ -1149,6 +1207,7 @@ Kettering	u	city
 Keynes	u	city
 Kharkiv	u	city
 Khartoum	u	city
+Khulna	u	city
 Kidderminster	u	city
 Kiel	u	city
 Kiev	u	city
@@ -1160,11 +1219,14 @@ Killarney	u	city
 Kilmarnock	u	city
 Kingsbridge	u	city
 Kingston	u	city
+Kingstown	u	city
 Kinross	u	region
 Kinshasa	u	city
 Kiribati	u	country
 Kirkcaldy	u	city
+Kirkuk	u	city
 Kirkwall	u	city
+Kisangani	u	city
 Kitchener	u	city
 Kitts	u	country
 Klagenfurt	u	city
@@ -1177,6 +1239,7 @@ Kolkata	u	city
 Kong	u	country
 Königsberg	u	city
 Konstanz	u	city
+Konya	u	city
 Korea	u	country
 Kos	u	island
 Kosciuszko	u	mountain
@@ -1185,6 +1248,7 @@ Kosovo	u	country
 Kowloon	u	city
 Krakow	u	city
 Kraków	u	city
+Krasnoyarsk	u	city
 Krefeld	u	city
 Kuala	u	city
 Kuban	u	region
@@ -1211,6 +1275,7 @@ Languedoc	u	region
 Lanka	u	country
 Lansing	u	city
 Lanzarote	u	city
+Lanzhou	u	city
 Laoghaire	u	city
 Laois	u	region
 Laos	u	country
@@ -1224,9 +1289,11 @@ Latvia	u	country
 Lauderdale	u	city
 Launceston	u	city
 Lausanne	u	city
+Laval	u	city
 Lawrence	u	city
 Leamington	u	city
 Lebanon	u	country
+Lech	u	river
 Leeds	u	city
 Leicester	u	city
 Leicestershire	u	region
@@ -1239,8 +1306,10 @@ Leningrad	u	city
 León	u	city
 Leone	u	country
 Lerwick	u	city
-Lesbos	u	island	word
+Lesbos	u	island
 Lesotho	u	country
+Leste	u	country
+Letterkenny	u	city
 Leuven	u	city
 Levant	u	region
 Leverkusen	u	city
@@ -1310,10 +1379,12 @@ Lubbock	u	city
 Lubeck	u	city
 Lübeck	u	city
 Lublin	u	city
+Lubumbashi	u	city
 Lucca	u	city
 Lucerne	u	city
 Lucia	u	country
 Lucknow	u	city
+Ludhiana	u	city
 Ludwigsburg	u	city
 Lugano	u	city
 Luis	u	city
@@ -1335,19 +1406,23 @@ Lynn	u	city
 Lyon	u	city
 Lyons	u	city
 Maastricht	u	city
+Macao	u	country
 Macau	u	country
 Macclesfield	u	city
 Macedon	u	historic
 Macedonia	u	country
+Maceió	u	city
 Machynlleth	u	city
+Mackay	u	city
 Mackenzie	u	river
 Macon	u	city
 Madagascar	u	country
-Madeira	u	region
+Madeira	u	region	word
 Madison	u	city
 Madras	u	city
 Madre	u	mountain
 Madrid	u	city
+Madurai	u	city
 Magdeburg	u	city
 Maggiore	u	water
 Maghreb	u	region
@@ -1355,10 +1430,14 @@ Maharashtra	u	state
 Mai	u	city
 Maidenhead	u	city
 Maidstone	u	city
+Maiduguri	u	city
 Main	u	river	word
 Maine	u	state
 Mainz	u	city
 Majorca	u	city
+Majuro	u	city
+Makassar	u	city
+Makkah	u	city
 Malabo	u	city
 Malacca	u	city
 Malaga	u	city
@@ -1380,6 +1459,7 @@ Manaus	u	city
 Manchester	u	region
 Manchuria	u	region
 Mandalay	u	city
+Mandurah	u	city
 Manhattan	u	region
 Manila	u	city
 Manitoba	u	state
@@ -1416,6 +1496,7 @@ Mauritania	u	country
 Mauritius	u	country
 Mayfair	u	region
 Mayo	u	region
+Mayotte	u	country
 Mbabane	u	city
 McAllen	u	city
 McKinley	u	mountain
@@ -1423,11 +1504,13 @@ Meath	u	region
 Mecca	u	city	word
 Mechelen	u	city
 Mecklenburg	u	state
+Medan	u	city
 Medellin	u	city
 Medellín	u	city
 Medina	u	city
 Mediterranean	u	water
 Medway	u	river
+Meerut	u	city
 Meissen	u	city
 Mekong	u	river
 Melanesia	u	region
@@ -1443,12 +1526,14 @@ Mérida	u	city
 Mersey	u	river
 Merseyside	u	region
 Merthyr	u	city
+Merton	u	region
 Mesa	u	city	word
 Mesoamerica	u	historic
 Mesopotamia	u	historic
 Messina	u	city
 Metz	u	city
 Meuse	u	river
+Mexicali	u	city
 Mexico	u	country
 Miami	u	city
 Michigan	u	state
@@ -1481,6 +1566,7 @@ Mogadishu	u	city
 Moines	u	city
 Mojave	u	region
 Moldau	u	river
+Moldavia	u	region
 Moldova	u	country
 Mombasa	u	city
 Monaco	u	country
@@ -1506,6 +1592,7 @@ Montpellier	u	city
 Montreal	u	city
 Montreux	u	city
 Montrose	u	city
+Montserrat	u	country
 Moravia	u	historic
 Moray	u	region	word
 Morecambe	u	city
@@ -1514,6 +1601,7 @@ Moresby	u	city
 Morgantown	u	city
 Moritz	u	city
 Morocco	u	country
+Moroni	u	city
 Moscow	u	city
 Moselle	u	river
 Mostar	u	city
@@ -1524,6 +1612,7 @@ Mozambique	u	country
 Mughal	u	historic
 Mulhouse	u	city
 Mull	u	island	word
+Mullingar	u	city
 Multan	u	city
 Mumbai	u	city
 Muncie	u	city
@@ -1534,15 +1623,18 @@ Murcia	u	city
 Murmansk	u	city
 Murray	u	river
 Muscat	u	city
+Mwanza	u	city
 Myanmar	u	country
 Mycenae	u	city
 Mykonos	u	island
 Mysore	u	city
+Naas	u	city
 Nadu	u	state
 Nagasaki	u	city
 Nagoya	u	city
 Nagpur	u	city
 Nairobi	u	city
+Najaf	u	city
 Namibia	u	country
 Namur	u	city
 Nanaimo	u	city
@@ -1557,11 +1649,13 @@ Napa	u	region
 Napier	u	city
 Naples	u	city
 Nara	u	city
+Nashik	u	city
 Nashville	u	city
 Nassau	u	city
 Natal	u	historic	word
 Natchez	u	city
 Nauru	u	country
+Navan	u	city
 Navarre	u	historic
 Naypyidaw	u	city
 Nazareth	u	city
@@ -1570,7 +1664,7 @@ Neath	u	city
 Nebraska	u	state
 Neckar	u	river
 Negev	u	region
-Nelson	u	city
+Nelson	u	city	word
 Nene	u	river
 Nepal	u	country
 Ness	u	water
@@ -1583,6 +1677,7 @@ Newark	u	city
 Newbury	u	city
 Newcastle	u	city
 Newfoundland	u	state
+Newham	u	region
 Newport	u	city
 Newquay	u	city
 Newry	u	city
@@ -1596,6 +1691,7 @@ Nigeria	u	country
 Nijmegen	u	city
 Nile	u	river
 Nîmes	u	city
+Ningbo	u	city
 Nizhny	u	city
 Norfolk	u	region
 Norman	u	city
@@ -1609,6 +1705,8 @@ Norwich	u	city
 Nottingham	u	city
 Nottinghamshire	u	region
 Nouakchott	u	city
+Noumea	u	city
+Nouméa	u	city
 Novgorod	u	city
 Novi	u	city
 Novo	u	city
@@ -1620,6 +1718,7 @@ Nuremberg	u	city
 Nuuk	u	city
 Oahu	u	island
 Oakland	u	city
+Oakville	u	city
 Oaxaca	u	state
 Oban	u	city
 Oberammergau	u	city
@@ -1644,11 +1743,14 @@ Olympus	u	mountain
 Omagh	u	city
 Omaha	u	city
 Oman	u	country
+Omdurman	u	city
 Omsk	u	city
+Onitsha	u	city
 Ontario	u	state
 Oporto	u	city
 Oran	u	city
 Orange	u	river	word
+Oranjestad	u	city
 Oregon	u	state
 Orinoco	u	river
 Orkney	u	region
@@ -1656,6 +1758,7 @@ Orlando	u	city
 Orleans	u	city
 Orléans	u	city
 Osaka	u	city
+Oshawa	u	city
 Oslo	u	city
 Osnabrück	u	city
 Ostend	u	city
@@ -1664,7 +1767,7 @@ Ottawa	u	city
 Ouagadougou	u	city
 Ouse	u	river
 Outback	u	region	word
-Oxford	u	city
+Oxford	u	city	word
 Oxfordshire	u	region
 Oxnard	u	city
 Ozarks	u	region
@@ -1678,14 +1781,17 @@ Paisley	u	city	word
 Pakistan	u	country
 Palatinate	u	state
 Palau	u	country
+Palembang	u	city
 Palermo	u	city
 Palestine	u	country
+Palikir	u	city
 Palma	u	city
 Palmerston	u	city
 Palo	u	city
 Pamirs	u	mountain
 Pamplona	u	city
-Panama	u	country
+Panama	u	country	word
+Papeete	u	city
 Papua	u	country
 Paraguay	u	country
 Paramaribo	u	city
@@ -1706,6 +1812,7 @@ Pattaya	u	city
 Paul	u	city
 Paulo	u	city
 Paz	u	city
+Peckham	u	region
 Pécs	u	city
 Peebles	u	city
 Peking	u	city
@@ -1741,6 +1848,7 @@ Phuket	u	city
 Picardy	u	region
 Piedmont	u	state	word
 Pierre	u	city
+Pietermaritzburg	u	city
 Pilsen	u	city
 Pimlico	u	region
 Piraeus	u	city
@@ -1765,6 +1873,7 @@ Pompeii	u	city
 Pontefract	u	city
 Pontypridd	u	city
 Poole	u	city
+Porirua	u	city
 Port-au-Prince	u	city
 Portland	u	city
 Portmeirion	u	city
@@ -1782,6 +1891,7 @@ Powys	u	historic
 Poznan	u	city
 Poznań	u	city
 Prague	u	city
+Praia	u	city
 Prairies	u	region	word
 Pressburg	u	city
 Preston	u	city
@@ -1801,6 +1911,7 @@ Pune	u	city
 Punjab	u	historic
 Pusan	u	city
 Putney	u	region
+Putrajaya	u	city
 Pyongyang	u	city
 Pyrenees	u	mountain
 Qatar	u	country
@@ -1810,17 +1921,21 @@ Quebec	u	state
 Queens	u	region	word
 Queensland	u	state
 Queenstown	u	city
+Querétaro	u	city
 Quetta	u	city
 Quezon	u	city
 Quintana	u	state
 Quito	u	city
 Rabat	u	city
 Rainier	u	mountain	word
+Raipur	u	city
 Raj	u	historic
 Rajasthan	u	state
+Rajkot	u	city
 Raleigh	u	city
 Ramallah	u	city
 Ramsgate	u	city
+Ranchi	u	city
 Rangoon	u	city
 Raton	u	city
 Ravenna	u	city
@@ -1828,6 +1943,7 @@ Rawalpindi	u	city
 Reading	u	city	word
 Recife	u	city
 Recklinghausen	u	city
+Redbridge	u	region
 Redding	u	city
 Redditch	u	city
 Regensburg	u	city
@@ -1839,6 +1955,8 @@ Remscheid	u	city
 Renfrewshire	u	region
 Rennes	u	city
 Reno	u	city
+Reunion	u	country	word
+Réunion	u	country
 Reutlingen	u	city
 Reykjavik	u	city
 Reykjavík	u	city
@@ -1870,6 +1988,7 @@ Riyadh	u	city
 Roanoke	u	city
 Rochdale	u	city
 Rochester	u	city
+Rockhampton	u	city
 Rockies	u	mountain
 Romagna	u	region
 Romania	u	country
@@ -1907,6 +2026,7 @@ Sacramento	u	city
 Sahara	u	region
 Sahel	u	region
 Saigon	u	city
+Saitama	u	city
 Sakhalin	u	island
 Salaam	u	city
 Salamanca	u	city
@@ -1942,6 +2062,7 @@ Sargasso	u	water
 Sark	u	island
 Saskatchewan	u	state
 Saskatoon	u	city
+Saudi	u	country
 Sauerland	u	region
 Savannah	u	city	word
 Savoy	u	region
@@ -1965,8 +2086,10 @@ Sebastián	u	city
 Sedona	u	city
 Segovia	u	city
 Seine	u	river	word
+Sejong	u	city
 Selby	u	city
 Selma	u	city
+Semarang	u	city
 Sendai	u	city
 Senegal	u	country
 Seoul	u	city
@@ -1977,7 +2100,7 @@ Sevenoaks	u	city
 Severn	u	river
 Seville	u	city
 Seychelles	u	country
-Shanghai	u	city
+Shanghai	u	city	word
 Shannon	u	city
 Sharjah	u	city
 Shasta	u	mountain
@@ -1992,6 +2115,7 @@ Shoreditch	u	region
 Shreveport	u	city
 Shrewsbury	u	city
 Shropshire	u	region
+Shymkent	u	city
 Siam	u	historic
 Siberia	u	state
 Sicily	u	state
@@ -2026,6 +2150,7 @@ Sochi	u	city
 Socotra	u	island
 Sofia	u	city
 Soho	u	region
+Sokoto	u	city
 Solent	u	water
 Solihull	u	city
 Solingen	u	city
@@ -2051,8 +2176,10 @@ Spokane	u	city
 Spree	u	river	word
 Springfield	u	city
 Sri	u	country
+Srinagar	u	city
 Stafford	u	city
 Staffordshire	u	region
+Staines	u	city
 Stalingrad	u	city
 Stamford	u	city
 Stanley	u	city
@@ -2091,6 +2218,7 @@ Suffolk	u	region
 Sulawesi	u	island
 Sumatra	u	island
 Sunderland	u	city
+Superior	u	water	word
 Sur	u	region
 Surabaya	u	city
 Surat	u	city
@@ -2101,6 +2229,7 @@ Sussex	u	region
 Sutherland	u	region
 Sutton	u	city
 Suva	u	city
+Suwon	u	city
 Suzhou	u	city
 Svalbard	u	island
 Swabia	u	state
@@ -2110,6 +2239,7 @@ Swaziland	u	country
 Sweden	u	country
 Swindon	u	city
 Switzerland	u	country
+Swords	u	city	word
 Sydney	u	city
 Sylt	u	island
 Syracuse	u	city
@@ -2122,10 +2252,13 @@ Taff	u	river
 Tagus	u	river
 Tahiti	u	island
 Tahoe	u	water
+Taichung	u	city
+Tainan	u	city
 Taipei	u	city
 Taiwan	u	country
 Tajikistan	u	country
 Talbot	u	city
+Tallaght	u	city
 Tallahassee	u	city
 Tallinn	u	city
 Tamar	u	river
@@ -2139,6 +2272,7 @@ Tangiers	u	city
 Tanzania	u	country
 Taos	u	city
 Taranto	u	city
+Tarawa	u	city
 Tarragona	u	city
 Tartu	u	city
 Tashkent	u	city
@@ -2183,6 +2317,7 @@ Timișoara	u	city
 Timor	u	island
 Tipperary	u	region
 Tirana	u	city
+Tirol	u	region
 Titicaca	u	water
 Tiverton	u	city
 Tobago	u	country
@@ -2220,7 +2355,8 @@ Tromsø	u	city
 Trondheim	u	city
 Trossachs	u	region
 Trowbridge	u	city
-Troy	u	historic
+Troy	u	historic	word
+Trujillo	u	city
 Truro	u	city
 Tubingen	u	city
 Tübingen	u	city
@@ -2246,6 +2382,7 @@ Tyrol	u	state
 Tyrone	u	region
 Tyrrhenian	u	water
 Udaipur	u	city
+Ufa	u	city
 Uganda	u	country
 Uist	u	island
 Ukraine	u	country
@@ -2253,6 +2390,7 @@ Ulaanbaatar	u	city
 Ulan	u	city
 Ullswater	u	water
 Ulm	u	city
+Ulsan	u	city
 Ulster	u	historic
 Umbria	u	state
 Uppsala	u	city
@@ -2264,10 +2402,10 @@ Uruguay	u	country
 Urumqi	u	city
 Ushuaia	u	city
 Usk	u	river
-USSR	u	historic
 Utah	u	state
 Utrecht	u	city
 Uzbekistan	u	country
+Vadodara	u	city
 Vaduz	u	city
 Valais	u	state
 Valencia	u	city
@@ -2281,6 +2419,7 @@ Vanuatu	u	country
 Varanasi	u	city
 Varna	u	city
 Vatican	u	country
+Vaughan	u	city
 Vegas	u	city
 Vella	u	city
 Veneto	u	region
@@ -2299,10 +2438,13 @@ Vienna	u	city
 Vientiane	u	city
 Vietnam	u	country
 Vigo	u	city
+Vijayawada	u	city
+Vila	u	city
 Villach	u	city
 Vilnius	u	city
 Vincent	u	country
 Virginia	u	state
+Visakhapatnam	u	city
 Vistula	u	river
 Vladivostok	u	city
 Vltava	u	river
@@ -2311,12 +2453,17 @@ Volgograd	u	city
 Volhynia	u	region
 Volta	u	river
 Vorarlberg	u	state
+Voronezh	u	city
 Vosges	u	mountain
 Waco	u	city
 Wakefield	u	city
 Wales	u	country
+Wallachia	u	region
+Wallonia	u	region
 Walsall	u	city
+Waltham	u	region
 Walthamstow	u	region
+Wandsworth	u	region
 Wantage	u	city
 Warrington	u	city
 Warsaw	u	city
@@ -2325,7 +2472,7 @@ Warwickshire	u	region
 Wash	u	water	word
 Washington	u	state
 Waterford	u	region
-Waterloo	u	city
+Waterloo	u	city	word
 Watford	u	city
 Wayne	u	city
 Weald	u	region
@@ -2346,6 +2493,8 @@ Westmorland	u	region
 Westphalia	u	state
 Wexford	u	region
 Weymouth	u	city
+Whanganui	u	city
+Whangarei	u	city
 Wharfe	u	river
 Whitby	u	city
 Whitechapel	u	region
@@ -2358,6 +2507,7 @@ Wicklow	u	region
 Wiesbaden	u	city
 Wigan	u	city
 Wight	u	region	word
+Willemstad	u	city
 William	u	city
 Williamsburg	u	city
 Wilmington	u	city
@@ -2378,6 +2528,7 @@ Witham	u	river
 Witney	u	city
 Wittenberg	u	city
 Woking	u	city
+Wokingham	u	city
 Wolds	u	region
 Wolfsburg	u	city
 Wollongong	u	city
@@ -2396,9 +2547,12 @@ Wuppertal	u	city
 Württemberg	u	state
 Wurzburg	u	city
 Würzburg	u	city
+Wuxi	u	city
 Wycombe	u	city
 Wye	u	river
 Wyoming	u	state
+Xiamen	u	city
+Xian	u	city
 Yakima	u	city
 Yakutia	u	region
 Yalta	u	city
@@ -2432,9 +2586,11 @@ Zaire	u	historic
 Zambezi	u	river
 Zambia	u	country
 Zanzibar	u	region
+Zapopan	u	city
 Zaragoza	u	city
 Zealand	u	country
 Zermatt	u	city
+Zhengzhou	u	city
 Zimbabwe	u	country
 Zug	u	city
 Zugspitze	u	mountain
