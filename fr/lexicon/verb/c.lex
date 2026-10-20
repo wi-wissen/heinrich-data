@@ -185,6 +185,7 @@ claudiquer      verb pp_inv
 clicher         verb
 cligner         verb
 clignoter       verb pp_inv
+climatiser      verb
 cliquer         verb
 cliqueter       verb class=double_trad pp_inv
 cliver          verb
@@ -250,7 +251,7 @@ communier       verb
 communiquer     verb
 commuter        verb
 compacter       verb
-comparaître     verb class=connaître pp_inv
+comparaître     verb class=connaître note=notarial style: est comparu(e)
 comparer        verb
 compartimenter  verb
 compatir        verb class=ir pp_inv
@@ -408,7 +409,7 @@ coupler         verb
 courber         verb
 courir          verb class=courir
 couronner       verb
-courre verb class=irr defective=inf note=only in chasse à courre, laisser courre
+courre          verb class=irr defective=inf note=only in chasse à courre, laisser courre
 courroucer      verb
 courser         verb
 court-circuiter verb

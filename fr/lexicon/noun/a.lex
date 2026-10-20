@@ -137,6 +137,7 @@ accusation         noun g=f
 accusé             noun g=m f=accusée
 acétabulum         noun g=m
 acétate            noun g=m
+acétylcholine      noun g=f
 achalandage        noun g=m
 acharnement        noun g=m
 achat              noun g=m
@@ -152,6 +153,7 @@ aciérie            noun g=f
 acné               noun g=f
 acolyte            noun g=m|f
 acompte            noun g=m
+acouphène          noun g=m
 acoustique         noun g=f
 acquéreur          noun g=m
 acquêts            noun g=m pl_only
@@ -197,6 +199,7 @@ additif            noun g=m
 addition           noun g=f
 adduction          noun g=f
 adénosine          noun g=f
+adénovirus         noun g=m
 adepte             noun g=m|f
 adéquation         noun g=f
 adessif            noun g=m
@@ -427,6 +430,7 @@ alcoologie         noun g=f
 alcootest          noun g=m
 alcôve             noun g=f
 aldéhyde           noun g=m
+aldohexose         noun g=m
 aléa               noun g=m
 alentours          noun g=m pl_only
 alerte             noun g=f
@@ -624,6 +628,7 @@ anarchiste         noun g=m|f
 anathème           noun g=m
 anatomie           noun g=f
 anatomiste         noun g=m|f
+anatoxine          noun g=f
 ancêtre            noun g=m|f
 anchois            noun g=m
 ancien             noun g=m f=ancienne
@@ -691,6 +696,7 @@ annulaire          noun g=m
 annulation         noun g=f
 anoblissement      noun g=m
 anode              noun g=f
+anodisation        noun g=f
 anomalie           noun g=f
 anonymat           noun g=m
 anonymisation      noun g=f
@@ -727,6 +733,7 @@ antidépresseur     noun g=m
 antidiabétique     noun g=m
 antidote           noun g=m
 antienne           noun g=f
+antifa             noun g=m|f style=colloquial alt=antifasciste
 antigel            noun g=m
 antigène           noun g=m
 antihéros          noun g=m
@@ -811,6 +818,7 @@ appas              noun g=m pl_only style=literary
 appât              noun g=m
 appauvrissement    noun g=m
 appel              noun g=m
+appelant           noun g=m f=appelante
 appelé             noun g=m
 appellatif         noun g=m
 appellation        noun g=f
@@ -1004,6 +1012,7 @@ arrimage           noun g=m
 arrivage           noun g=m
 arrivant           noun g=m f=arrivante
 arrivée            noun g=f
+arrivisme          noun g=m
 arriviste          noun g=m|f
 arrogance          noun g=f
 arrondissement     noun g=m
@@ -1131,6 +1140,7 @@ atoll              noun g=m
 atome              noun g=m
 atomisation        noun g=f
 atomiseur          noun g=m
+atomiste           noun g=m|f
 atonie             noun g=f
 atours             noun g=m pl_only style=literary
 atout              noun g=m
@@ -1214,7 +1224,8 @@ autisme            noun g=m
 autiste            noun g=m|f
 auto               noun g=f
 auto-école         noun g=f pl=auto-écoles rect=autoécole rect_pl=autoécoles
-auto-entrepreneur  noun g=m f=auto-entrepreneuse pl=auto-entrepreneurs fpl=auto-entrepreneuses
+auto-entrepreneur  noun g=m f=auto-entrepreneuse pl=auto-entrepreneurs fpl=auto-entrepreneuses rect=autoentrepreneur
+auto-entreprise    noun g=f pl=auto-entreprises rect=autoentreprise
 auto-stop          noun g=m pl=- rect=autostop note=uncountable
 auto-stoppeur      noun g=m f=auto-stoppeuse rect=autostoppeur
 autobiographie     noun g=f
@@ -1254,6 +1265,7 @@ automotrice        noun g=f
 autonomie          noun g=f
 autonomisation     noun g=f
 autonomiste        noun g=m|f
+autopompe          noun g=f
 autoportrait       noun g=m
 autopsie           noun g=f
 autoradio          noun g=m

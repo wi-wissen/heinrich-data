@@ -38,6 +38,7 @@ bariolé          adj
 barjo            adj style=colloquial alt=fou f=barjo
 barométrique     adj
 baroque          adj
+baryonique       adj
 bas              adj f=basse place=both adv=bassement
 basal            adj
 basaltique       adj
@@ -128,8 +129,10 @@ biographique     adj
 biologique       adj adv=biologiquement
 biomédical       adj
 biométrique      adj
+biophile         adj
 biotechnologique adj
 biotique         adj
+bipartisan       adj
 bipartite        adj
 bipède           adj
 biplace          adj
@@ -142,6 +145,7 @@ bisexuel         adj
 bissextile       adj
 bistre           adj inv
 bistré           adj
+biterrois        adj
 bitumineux       adj
 bizarre          adj adv=bizarrement
 blafard          adj
@@ -226,8 +230,10 @@ breton           adj
 brevetable       adj
 bridé            adj
 brillant         adj adv=brillamment
+bringé           adj
 brioché          adj
 britannique      adj
+brittonique      adj
 bronchique       adj
 bronzé           adj
 brouillé         adj

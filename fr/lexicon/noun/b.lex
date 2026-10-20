@@ -126,6 +126,7 @@ banlieue          noun g=f
 banlieusard       noun g=m f=banlieusarde
 bannière          noun g=f
 bannissement      noun g=m
+banon             noun g=m
 banque            noun g=f
 banqueroute       noun g=f
 banquet           noun g=m
@@ -296,6 +297,7 @@ becquée           noun g=f
 bedaine           noun g=f
 bédé              noun g=f style=colloquial alt=bande_dessinée
 bedeau            noun g=m
+bédo              noun g=m style=colloquial alt=joint
 bédouin           noun g=m f=bédouine
 beffroi           noun g=m
 bégaiement        noun g=m
@@ -377,6 +379,7 @@ bétonnière        noun g=f
 betterave         noun g=f
 bétyle            noun g=m
 beuglement        noun g=m
+beuh              noun g=f style=colloquial alt=cannabis
 beur              noun g=m|f style=colloquial
 beurre            noun g=m
 beurrier          noun g=m
@@ -639,6 +642,7 @@ bordée            noun g=f
 bordel            noun g=m style=vulgar alt=désordre
 bordelaise        noun g=f
 bordereau         noun g=m
+borderie          noun g=f
 bordure           noun g=f
 bornage           noun g=m
 borne             noun g=f

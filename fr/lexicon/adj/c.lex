@@ -81,6 +81,7 @@ carbonaté          adj
 carbonifère        adj
 carbonique         adj
 carboxylique       adj
+carcassonnais      adj
 carcéral           adj
 cardiaque          adj
 cardinal           adj
@@ -123,6 +124,7 @@ catholique         adj
 cauchemardesque    adj
 caudal             adj
 causal             adj pl=causals|causaux conf=80
+caussenard         adj
 caustique          adj
 cauteleux          adj
 caverneux          adj
@@ -262,8 +264,10 @@ claustral          adj
 claustrophobe      adj
 clément            adj
 clérical           adj
+clermontois        adj
 climatique         adj
 climatisé          adj
+climato-sceptique  adj rect=climatosceptique
 clinique           adj adv=cliniquement
 clinquant          adj
 cliquetant         adj
@@ -271,6 +275,7 @@ clivant            adj
 clos               adj note=past participle of clore
 clouté             adj
 clownesque         adj
+cnoïdal            adj
 cocardier          adj f=cocardière
 cocasse            adj adv=cocassement
 cochère            adj note=porte cochère
@@ -379,6 +384,7 @@ confédéré          adj
 confessionnel      adj
 confiant           adj
 confidentiel       adj adv=confidentiellement
+confirmatif        adj
 confiscatoire      adj
 confit             adj
 conflictuel        adj
@@ -484,6 +490,7 @@ corallien          adj
 coralligène        adj
 coranique          adj
 cordial            adj adv=cordialement
+cordiforme         adj
 coréen             adj
 coriace            adj
 corinthien         adj
@@ -586,6 +593,7 @@ cruel              adj adv=cruellement
 crural             adj
 cryoscopique       adj
 cryotechnique      adj
+cryptique          adj
 cryptogame         adj
 cryptographique    adj
 cubain             adj
@@ -603,6 +611,7 @@ cultivé            adj
 cultuel            adj
 cultural           adj
 culturel           adj
+cultureux          adj style=colloquial note=pejorative
 cumulable          adj
 cumulatif          adj
 cunéiforme         adj

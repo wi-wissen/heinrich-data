@@ -52,6 +52,7 @@ accroître      verb class=irr pres=accrois,accrois,accroît,accroissons,accrois
 accroupir      verb class=ir pronominal
 accueillir     verb class=cueillir
 acculer        verb
+acculturer     verb
 accumuler      verb
 accuser        verb
 acharner       verb pronominal
@@ -139,6 +140,7 @@ ajouter        verb
 ajuster        verb
 alanguir       verb class=ir
 alarmer        verb
+alcooliser     verb
 alerter        verb
 aliéner        verb
 aligner        verb
@@ -151,6 +153,7 @@ alléguer       verb
 aller          verb class=irr aux=être pres=vais,vas,va,allons,allez,vont ps=allai fut=irai subj=aille,ailles,aille,allions,alliez,aillent imp=va,allons,allez pp=allé
 allier         verb
 allonger       verb
+allotir        verb class=ir
 allouer        verb
 allumer        verb
 alourdir       verb class=ir
@@ -198,6 +201,7 @@ annoncer       verb
 annoter        verb
 annuler        verb
 anoblir        verb class=ir
+anodiser       verb
 ânonner        verb
 anticiper      verb
 antidater      verb
@@ -323,6 +327,7 @@ ausculter      verb
 authentifier   verb
 automatiser    verb
 autoriser      verb
+autosaisir     verb class=ir pronominal
 avaler         verb
 avaliser       verb
 avancer        verb
