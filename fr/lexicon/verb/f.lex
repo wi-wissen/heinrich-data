@@ -46,6 +46,7 @@ féliciter      verb
 féminiser      verb
 fendiller      verb
 fendre         verb class=rendre
+férir          verb class=irr pres=fiers,férons,fièrent ps=féris fut=férirai pp=féru defective=inf|pp note=only in sans coup férir and the participle féru
 ferler         verb
 fermenter      verb
 fermer         verb

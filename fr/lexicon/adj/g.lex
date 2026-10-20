@@ -21,11 +21,13 @@ galvanique     adj
 gambien        adj
 gamin          adj
 ganglionnaire  adj
+gangreneux     adj rect=gangréneux
 gargantuesque  adj
 gascon         adj
 gaspilleur     adj f=gaspilleuse
 gastrique      adj
 gastro-intestinal adj
+gastro-œsophagien adj
 gastronomique  adj
 gâteux         adj
 gauche         adj adv=gauchement
@@ -34,7 +36,7 @@ gauchiste      adj
 gaullien       adj
 gaulliste      adj
 gaulois        adj
-gay            adj
+gay            adj f=gay note=invariable in gender (une femme gay), plural gays
 gazeux         adj
 gazier         adj
 géant          adj
@@ -77,10 +79,14 @@ gérable        adj
 gériatrique    adj
 germain        adj note=cousin germain
 germanique     adj
+germano-polonais adj
+germano-romain adj
+germano-soviétique adj
 germanophile   adj
 germanophone   adj
 germinal       adj
 germinatif     adj
+gersois        adj
 gestationnel   adj
 gestuel        adj
 ghanéen        adj
@@ -89,6 +95,7 @@ gigantesque    adj
 gigogne        adj
 giratoire      adj
 girondin       adj
+giscardien     adj
 gitan          adj
 glabre         adj
 glaçant        adj
@@ -97,11 +104,13 @@ glacial        adj pl=glacials|glaciaux adv=glacialement
 glaiseux       adj
 glandulaire    adj
 glauque        adj
+glial          adj
 glissant       adj
 global         adj adv=globalement
 globulaire     adj
 globuleux      adj
 glorieux       adj adv=glorieusement
+glorificateur  adj f=glorificatrice
 glouton        adj adv=gloutonnement
 gluant         adj
 glucidique     adj
@@ -114,6 +123,7 @@ goinfre        adj style=colloquial alt=glouton
 gonflable      adj
 gonflant       adj style=colloquial alt=ennuyeux|agaçant
 gordien        adj note=nœud gordien
+goth           adj f=goth conf=85 note=invariable in gender, plural goths
 gothique       adj
 gouailleur     adj f=gouailleuse
 goudronneux    adj
@@ -148,11 +158,15 @@ gratuit        adj adv=gratuitement
 grave          adj adv=gravement
 graveleux      adj
 gravide        adj
+gravifique     adj
 gravissime     adj
 gravitaire     adj
 gravitationnel adj
 grec           adj f=grecque
+gréco-arabe    adj
+gréco-égyptien adj
 gréco-latin    adj
+gréco-macédonien adj
 gréco-romain   adj
 grégaire       adj
 grégorien      adj
@@ -182,6 +196,7 @@ gros           adj f=grosse place=pre
 grossier       adj adv=grossièrement
 grossissant    adj
 grotesque      adj adv=grotesquement
+grouillant     adj
 grumeleux      adj
 guadeloupéen   adj
 guatémaltèque  adj

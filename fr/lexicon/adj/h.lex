@@ -12,10 +12,12 @@ hâlé           adj aspirate
 haletant       adj aspirate
 halieutique    adj
 hallucinant    adj
+hallucinatoire adj
 halluciné      adj
 hallucinogène  adj
 handicapant    adj aspirate
 hanséatique    adj aspirate conf=70 note=follows la Hanse
+haploïde       adj
 harassant      adj aspirate
 harassé        adj aspirate
 hardi          adj adv=hardiment aspirate
@@ -35,17 +37,21 @@ hébraïque      adj
 hédoniste      adj
 hégélien       adj
 hégémonique    adj
+héliaque       adj
 hélicoïdal     adj
 héliocentrique adj
+héliopolitain  adj
 héliporté      adj
 hellène        adj
 hellénique     adj
 hellénistique  adj
+hellénophone   adj
 helvète        adj
 helvétique     adj
 hématologique  adj
 hémiplégique   adj
 hémisphérique  adj
+hémisynthétique adj
 hémodynamique  adj
 hémophile      adj
 hémorragique   adj
@@ -69,6 +75,7 @@ hésitant       adj
 hétéroclite    adj
 hétérodoxe     adj
 hétérogène     adj
+hétérométrique adj
 hétérosexuel   adj
 hétérotrophe   adj
 hétérozygote   adj
@@ -77,6 +84,7 @@ heuristique    adj
 hexadécimal    adj
 hexagonal      adj
 hideux         adj adv=hideusement aspirate
+hiéracocéphale adj
 hiérarchique   adj adv=hiérarchiquement aspirate conf=85 note=follows hiérarchie
 hiératique     adj
 hiéroglyphique adj
@@ -87,6 +95,7 @@ hindou         adj note=plural hindous
 hindouiste     adj
 hippique       adj
 hippocratique  adj
+hippodamien    adj
 hippomobile    adj
 hirsute        adj
 hispanique     adj
@@ -94,6 +103,7 @@ hispano-américain adj
 hispano-arabe  adj
 hispanophone   adj
 histologique   adj
+historicisant  adj
 historiographique adj
 historique     adj adv=historiquement
 hitlérien      adj aspirate conf=85
@@ -101,8 +111,11 @@ hittite        adj
 hivernal       adj
 holistique     adj
 hollandais     adj aspirate
+hollywoodien   adj aspirate conf=85
 holographique  adj
+holorime       adj
 homéopathique  adj
+homéostatique  adj
 homérique      adj
 homicide       adj
 homogène       adj
@@ -114,6 +127,7 @@ homosexuel     adj
 homothétique   adj
 homozygote     adj
 hondurien      adj
+hongkongais    adj aspirate conf=85
 hongrois       adj aspirate
 honnête        adj adv=honnêtement
 honorable      adj adv=honorablement
@@ -144,6 +158,7 @@ humaniste      adj
 humanitaire    adj
 humanoïde      adj
 humble         adj adv=humblement
+huméral        adj
 humide         adj
 humiliant      adj
 humoristique   adj
@@ -159,6 +174,7 @@ hydroélectrique adj
 hydrofuge      adj
 hydrographique adj
 hydrologique   adj
+hydronymique   adj
 hydrophile     adj
 hydrophobe     adj
 hydroponique   adj
@@ -166,14 +182,19 @@ hydrosoluble   adj
 hydrothermal   adj
 hygiénique     adj
 hygrométrique  adj
+hygroscopique  adj
 hyperactif     adj
 hyperbare      adj
 hyperbolique   adj
 hyperémotif    adj
+hyperfin       adj
+hypergamique   adj
+hyperglycémiant adj
 hypermétrope   adj
 hyperréaliste  adj
 hypersensible  adj
 hypertendu     adj
+hypertensif    adj
 hypertrophique adj
 hypnotique     adj
 hypoallergénique adj
@@ -181,6 +202,7 @@ hypocalorique  adj
 hypocondriaque adj
 hypocrite      adj adv=hypocritement
 hypodermique   adj
+hypoglycémiant adj
 hypoglycémique adj
 hypostyle      adj
 hypotendu      adj

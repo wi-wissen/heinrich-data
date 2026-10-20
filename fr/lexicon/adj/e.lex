@@ -10,6 +10,7 @@ ecclésiastique adj
 écervelé       adj
 échangeable    adj
 échevelé       adj
+échiquéen      adj
 échographique  adj
 éclair         adj inv note=visite éclair, guerre éclair
 éclairant      adj
@@ -29,6 +30,7 @@ ecclésiastique adj
 écumant        adj
 écumeux        adj
 eczémateux     adj
+édaphique      adj
 édénique       adj
 édenté         adj
 édifiant       adj
@@ -57,8 +59,9 @@ effroyable     adj adv=effroyablement
 égoïste        adj adv=égoïstement
 égrillard      adj
 égyptien       adj
+égyptologique  adj
 éhonté         adj adv=éhontément
-élastique      adj
+élastique      adj adv=élastiquement
 électif        adj
 électoral      adj adv=électoralement
 électoraliste  adj
@@ -84,6 +87,7 @@ elfique        adj
 éligible       adj
 éliminatoire   adj
 élisabéthain   adj
+élitaire       adj
 élitiste       adj
 elliptique     adj adv=elliptiquement
 élogieux       adj adv=élogieusement
@@ -95,6 +99,7 @@ embryologique  adj
 embryonnaire   adj
 éméché         adj style=colloquial alt=ivre|gris
 émeraude       adj inv
+émergé         adj note=terres émergées; émerger has an invariable participle
 émergent       adj
 émérite        adj
 émétique       adj
@@ -126,14 +131,17 @@ encombrant     adj
 encourageant   adj
 encyclopédique adj
 endémique      adj
+endergonique   adj
 endiablé       adj
 endocrine      adj
 endocrinien    adj
+endogame       adj
 endogène       adj
 endolori       adj
 endoplasmique  adj
 endormant      adj
 endoscopique   adj
+endothélial    adj
 endothermique  adj
 endurable      adj
 endurant       adj
@@ -144,6 +152,7 @@ endurant       adj
 énervant       adj
 enfantin       adj
 engageant      adj
+englobant      adj
 énième         adj
 énigmatique    adj adv=énigmatiquement
 enivrant       adj
@@ -188,6 +197,7 @@ enzymatique    adj
 éperdu         adj adv=éperdument
 éphémère       adj
 épicé          adj
+épicène        adj
 épicurien      adj
 épidémiologique adj
 épidémique     adj
@@ -199,8 +209,10 @@ enzymatique    adj
 épigraphique   adj
 épileptique    adj
 épineux        adj
+épinière       adj fem_only note=moelle épinière
 épiphyte       adj
 épique         adj
+épirote        adj
 épiscopal      adj
 épisodique     adj adv=épisodiquement
 épistémique    adj
@@ -246,6 +258,7 @@ esclavagiste   adj
 escomptable    adj
 ésotérique     adj
 espagnol       adj
+espérantophone adj
 espiègle       adj
 essentiel      adj adv=essentiellement
 esseulé        adj
@@ -254,6 +267,7 @@ estimable      adj
 estimatif      adj
 estival        adj
 estonien       adj
+estuarien      adj
 estudiantin    adj
 étale          adj
 étanche        adj
@@ -266,6 +280,7 @@ estudiantin    adj
 éthique        adj adv=éthiquement
 ethnique       adj adv=ethniquement
 ethnocentrique adj
+ethnoculturel  adj
 ethnographique adj
 ethnologique   adj
 éthylique      adj
@@ -292,11 +307,13 @@ eugénique      adj
 euphonique     adj
 euphorique     adj
 euphorisant    adj
+eurafricain    adj
 eurasiatique   adj
 eurasien       adj
 euro-méditerranéen adj
 eurocentrique  adj
 européen       adj
+européocentriste adj
 eurosceptique  adj
 évaluable      adj
 évaluatif      adj
@@ -308,6 +325,7 @@ eurosceptique  adj
 évident        adj adv=évidemment
 évitable       adj
 évocateur      adj f=évocatrice
+évolué         adj note=lexicalised participle (pays évolué); évoluer has an invariable participle
 évolutif       adj
 évolutionniste adj
 exact          adj adv=exactement
@@ -321,6 +339,7 @@ excentrique    adj
 exceptionnel   adj adv=exceptionnellement
 excessif       adj adv=excessivement
 excitant       adj
+excitateur     adj f=excitatrice
 exclamatif     adj
 exclusif       adj adv=exclusivement
 excréteur      adj f=excrétrice
@@ -332,8 +351,10 @@ exécutoire     adj
 exégétique     adj
 exemplaire     adj adv=exemplairement
 exempt         adj
+exergonique    adj
 exhaustif      adj adv=exhaustivement
 exhibitionniste adj
+exhortatif     adj
 exigeant       adj
 exigible       adj
 exigu          adj
@@ -341,6 +362,7 @@ existant       adj
 existentialiste adj
 existentiel    adj
 exocrine       adj
+exogame        adj
 exogène        adj
 exorbitant     adj
 exorbité       adj
@@ -383,6 +405,7 @@ extinctif      adj
 extra          adj inv style=colloquial alt=excellent|formidable
 extrabudgétaire adj
 extracellulaire adj
+extrachromosomique adj
 extracommunautaire adj
 extraconjugal  adj
 extracorporel  adj
@@ -397,7 +420,9 @@ extrasensoriel adj
 extraterrestre adj
 extraterritorial adj
 extravagant    adj
+extravéhiculaire adj
 extraverti     adj
+extrémal       adj
 extrême        adj adv=extrêmement
 extrémiste     adj
 exubérant      adj

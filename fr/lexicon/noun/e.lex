@@ -252,6 +252,7 @@ eider          noun g=m
 éland          noun g=m
 élargissement  noun g=m
 élasticité     noun g=f
+élastine       noun g=f
 élastique      noun g=m
 élastomère     noun g=m
 eldorado       noun g=m
@@ -467,6 +468,7 @@ empyrée        noun g=m
 émulsion       noun g=f
 en-cas         noun g=m pl=en-cas
 en-tête        noun g=m pl=en-têtes
+énarque        noun g=m|f
 encablure      noun g=f
 encadrant      noun g=m f=encadrante
 encadré        noun g=m
@@ -543,6 +545,7 @@ endoscopie     noun g=f
 endoscopiste   noun g=m|f
 endossement    noun g=m
 endosseur      noun g=m
+endotherme     noun g=m
 endroit        noun g=m
 enduction      noun g=f
 enduit         noun g=m
@@ -594,6 +597,7 @@ enlèvement     noun g=m
 enlisement     noun g=m
 enlumineur     noun g=m f=enlumineuse
 enluminure     noun g=f
+ennéasyllabe   noun g=m
 enneigement    noun g=m
 ennemi         noun g=m f=ennemie
 ennoblissement noun g=m
@@ -631,6 +635,8 @@ ensorcellement noun g=m
 entablement    noun g=m
 entaille       noun g=f
 entame         noun g=f
+entartage      noun g=m
+entarteur      noun g=m f=entarteuse
 entartrage     noun g=m
 entassement    noun g=m
 entendement    noun g=m
@@ -638,6 +644,7 @@ entendeur      noun g=m note=only in à bon entendeur
 entente        noun g=f
 entérinement   noun g=m
 entérite       noun g=f
+entérotype     noun g=m
 enterrement    noun g=m
 entêtement     noun g=m
 enthalpie      noun g=f
@@ -741,6 +748,7 @@ enzyme         noun g=f note=also found as masculine
 épeiche        noun g=f
 épeire         noun g=f
 épellation     noun g=f
+épenthèse      noun g=f
 éperlan        noun g=m
 éperon         noun g=m
 épervier       noun g=m
@@ -764,6 +772,7 @@ enzyme         noun g=f note=also found as masculine
 épiderme       noun g=m
 épididyme      noun g=m
 épierrage      noun g=m
+épieu          noun g=m
 épigastre      noun g=m
 épiglotte      noun g=f
 épigramme      noun g=f
@@ -778,6 +787,7 @@ enzyme         noun g=f note=also found as masculine
 épinard        noun g=m
 épine          noun g=f
 épine-vinette  noun g=f pl=épines-vinettes
+épinéphrine    noun g=f
 épinette       noun g=f
 épinglage      noun g=m
 épingle        noun g=f
@@ -788,6 +798,7 @@ enzyme         noun g=f note=also found as masculine
 épiscopat      noun g=m
 épisiotomie    noun g=f
 épisode        noun g=m
+épisome        noun g=m
 épissure       noun g=f
 épistaxis      noun g=f
 épistémologie  noun g=f
@@ -936,6 +947,7 @@ esplanade      noun g=f
 espoir         noun g=m
 esprit         noun g=m
 esquif         noun g=m
+esquille       noun g=f
 esquimau       noun g=m note=ice lolly; the people noun is a propn
 esquisse       noun g=f
 esquive        noun g=f
@@ -1161,6 +1173,7 @@ examinateur    noun g=m f=examinatrice
 exanthème      noun g=m
 exaoctet       noun g=m
 exarchat       noun g=m
+exarque        noun g=m
 exaspération   noun g=f
 exaucement     noun g=m
 excavation     noun g=f
@@ -1228,8 +1241,11 @@ existentialiste noun g=m|f
 exo            noun g=m style=colloquial alt=exercice
 exobiologie    noun g=f
 exocet         noun g=m
+exocytose      noun g=f
 exode          noun g=m
+exogamie       noun g=f
 exonération    noun g=f
+exonyme        noun g=m
 exophtalmie    noun g=f
 exoplanète     noun g=f
 exorcisme      noun g=m

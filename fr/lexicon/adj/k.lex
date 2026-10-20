@@ -7,8 +7,10 @@ kanak          adj f=kanake conf=85 note=also used invariable
 karstique      adj
 kazakh         adj f=kazakhe
 kényan         adj
+keupérien      adj
 khmer          adj f=khmère
 kilométrique   adj
+kimbanguiste   adj
 kinesthésique  adj
 kirghize       adj
 kitsch         adj inv

@@ -9,6 +9,7 @@ factice        adj
 factieux       adj
 factitif       adj
 factoriel      adj
+factorisable   adj
 factuel        adj adv=factuellement
 facturable     adj
 facultatif     adj adv=facultativement
@@ -53,6 +54,7 @@ fataliste      adj
 fatidique      adj
 fatigable      adj
 fatigant       adj
+fatimide       adj
 faunistique    adj
 fautif         adj
 fauve          adj
@@ -77,6 +79,7 @@ femelle        adj
 féminin        adj
 féministe      adj
 fémoral        adj
+fennique       adj
 féodal         adj
 férié          adj note=jour férié
 fermable       adj
@@ -121,6 +124,7 @@ figuratif      adj
 filaire        adj
 filamenteux    adj
 filandreux     adj
+filant         adj note=étoile filante
 filial         adj
 filiforme      adj
 filmable       adj conf=80
@@ -140,6 +144,7 @@ fiscalisable   adj conf=85
 fissile        adj
 fixable        adj
 fixe           adj adv=fixement
+fixiste        adj
 flaccide       adj
 flagada        adj inv style=colloquial alt=fatigué|épuisé
 flageolant     adj
@@ -247,7 +252,8 @@ fragile        adj
 fragmentaire   adj
 frais          adj f=fraîche[trad]|fraiche[rect] adv=fraîchement
 framboise      adj inv
-franc          adj f=franche adv=franchement note=frank; the Frankish sense (franque) is not covered
+franc          adj f=franche adv=franchement sense=frank
+franc          adj f=franque sense=frankish note=Frankish (les tribus franques)
 franc-comtois  adj f=franc-comtoise fpl=franc-comtoises conf=85
 français       adj
 franchissable  adj
@@ -263,6 +269,7 @@ franco-belge   adj
 franco-britannique adj
 franco-canadien adj
 franco-espagnol adj
+franco-grec    adj f=franco-grecque
 franco-italien adj
 franco-ontarien adj
 franco-prussien adj

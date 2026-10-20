@@ -22,6 +22,9 @@ hachette       noun g=f aspirate
 hachis         noun g=m aspirate
 hachoir        noun g=m aspirate
 hachure        noun g=f aspirate
+hacker         noun g=m f=hackeuse aspirate
+hadron         noun g=m
+hafnium        noun g=m
 hagiographe    noun g=m|f
 hagiographie   noun g=f
 haie           noun g=f aspirate
@@ -197,10 +200,13 @@ hersage        noun g=m aspirate
 herse          noun g=f aspirate
 hertz          noun g=m aspirate conf=80 note=le hertz, without elision
 hésitation     noun g=f
+hétaïre        noun g=f
 hétérodoxie    noun g=f
 hétérogénéité  noun g=f
+hétérophonie   noun g=f
 hétérosexualité noun g=f
 hétérosexuel   noun g=m f=hétérosexuelle
+hetman         noun g=m aspirate conf=80
 hêtraie        noun g=f aspirate
 hêtre          noun g=m aspirate
 heure          noun g=f
@@ -218,6 +224,7 @@ hiérarchie     noun g=f aspirate conf=85 note=la hiérarchie is the usual form;
 hiérarchisation noun g=f aspirate conf=80 note=follows hiérarchie
 hiéroglyphe    noun g=m
 hilarité       noun g=f
+hile           noun g=m aspirate conf=80
 hindi          noun g=m
 hindou         noun g=m f=hindoue note=plural hindous
 hindouisme     noun g=m
@@ -225,6 +232,7 @@ hip-hop        noun g=m aspirate pl=- note=uncountable music genre
 hippie         noun g=m|f aspirate
 hippisme       noun g=m
 hippocampe     noun g=m
+hippocratisme  noun g=m
 hippodrome     noun g=m
 hippopotame    noun g=m
 hirondelle     noun g=f
@@ -244,6 +252,7 @@ hit-parade     noun g=m pl=hit-parades rect=hitparade aspirate
 hiver          noun g=m
 hivernage      noun g=m
 hobby          noun g=m aspirate pl=hobbys|hobbies
+hobbyiste      noun g=m|f aspirate conf=85
 hobereau       noun g=m aspirate
 hochement      noun g=m aspirate
 hochet         noun g=m aspirate
@@ -261,6 +270,7 @@ holotype       noun g=m
 homard         noun g=m aspirate
 home           noun g=m aspirate conf=85 note=hostel, home (foyer)
 homélie        noun g=f
+homéomorphisme noun g=m
 homéopathe     noun g=m|f
 homéopathie    noun g=f
 homéostasie    noun g=f
@@ -281,6 +291,7 @@ homonymie      noun g=f
 homophobe      noun g=m|f
 homophobie     noun g=f
 homophone      noun g=m
+homophonie     noun g=f
 homosexualité  noun g=f
 homosexuel     noun g=m f=homosexuelle
 homothétie     noun g=f
@@ -315,12 +326,14 @@ hors-la-loi    noun g=m|f pl=hors-la-loi aspirate
 hors-piste     noun g=m pl=hors-piste[trad]|hors-pistes[rect] aspirate
 hors-série     noun g=m pl=hors-séries aspirate
 hors-texte     noun g=m pl=hors-texte[trad]|hors-textes[rect] aspirate
+horst          noun g=m aspirate conf=80
 hortensia      noun g=m
 horticulteur   noun g=m f=horticultrice
 horticulture   noun g=f
 hospice        noun g=m
 hospitalisation noun g=f
 hospitalité    noun g=f
+hospodar       noun g=m aspirate conf=80
 hostie         noun g=f
 hostilité      noun g=f
 hosto          noun g=m style=colloquial alt=hôpital
@@ -339,6 +352,7 @@ houle          noun g=f aspirate
 houlette       noun g=f aspirate
 houppe         noun g=f aspirate
 houppelande    noun g=f aspirate
+hourd          noun g=m aspirate conf=85
 hourra         noun g=m aspirate note=also an interjection
 housse         noun g=f aspirate
 houx           noun g=m aspirate
@@ -388,6 +402,7 @@ hydrate        noun g=m
 hydraulique    noun g=f
 hydravion      noun g=m
 hydrazine      noun g=f
+hydrazone      noun g=f
 hydre          noun g=f
 hydrocarbure   noun g=m
 hydrocéphalie  noun g=f
@@ -423,8 +438,10 @@ hymne          noun g=m note=un hymne national; une hymne (religious) is rare
 hyperactivité  noun g=f
 hyperbole      noun g=f
 hyperfréquence noun g=f
+hypergamie     noun g=f
 hyperglycémie  noun g=f
 hyperinflation noun g=f
+hyperinsulinémie noun g=f
 hyperlien      noun g=m
 hypermarché    noun g=m
 hypermétropie  noun g=f

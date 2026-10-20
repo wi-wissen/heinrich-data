@@ -27,6 +27,7 @@ lâcheur        noun g=m f=lâcheuse style=colloquial alt=traître
 lacis          noun g=m
 laconisme      noun g=m
 lactaire       noun g=m note=mushroom
+lactame        noun g=m
 lactarium      noun g=m
 lactase        noun g=f
 lactate        noun g=m
@@ -40,6 +41,7 @@ lady           noun g=f pl=ladys|ladies conf=85
 lagomorphe     noun g=m
 lagon          noun g=m
 lagopède       noun g=m
+lagrangien     noun g=m
 lagunage       noun g=m
 lagune         noun g=f
 lahar          noun g=m
@@ -211,6 +213,7 @@ latéralisation noun g=f
 latéralité     noun g=f
 latérite       noun g=f
 latex          noun g=m
+latifundium    noun g=m pl=latifundia|latifundiums conf=85
 latin          noun g=m note=the language
 latinisation   noun g=f
 latinisme      noun g=m
@@ -367,6 +370,7 @@ lévite         noun g=m
 levraut        noun g=m
 lèvre          noun g=f
 lévrier        noun g=m f=levrette
+levurage       noun g=m
 levure         noun g=f
 lexème         noun g=m
 lexicalisation noun g=f
@@ -414,6 +418,7 @@ licence        noun g=f
 licencié       noun g=m f=licenciée
 licenciement   noun g=m
 lichen         noun g=m
+lichénométrie  noun g=f
 lichette       noun g=f style=colloquial alt=petit_morceau
 licitation     noun g=f
 licol          noun g=m
@@ -491,6 +496,7 @@ lindane        noun g=m
 linéament      noun g=m
 linéarisation  noun g=f
 linéarité      noun g=f
+lingala        noun g=m note=Bantu language
 lingam         noun g=m
 linge          noun g=m
 lingère        noun g=f
@@ -514,6 +520,7 @@ lionceau       noun g=m
 lipase         noun g=f
 lipide         noun g=m
 lipoaspiration noun g=f
+lipocyte       noun g=m
 lipodystrophie noun g=f
 lipogenèse     noun g=f
 lipolyse       noun g=f

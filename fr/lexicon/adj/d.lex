@@ -1,11 +1,15 @@
 # French lexicon, adj, letter d (clean-room, own knowledge)
+dactylique     adj
 dadaïste adj
+dalmate        adj
 daltonien adj
 damnable adj
 dangereux adj adv=dangereusement
 danois adj
 dansant adj
 dantesque adj
+danubien       adj
+darwinien      adj
 datable adj
 dauphinois adj
 débauché adj
@@ -79,6 +83,7 @@ dégradant adj
 dégraissant adj
 dégressif adj
 déguenillé adj
+déhiscent      adj
 déhoussable adj
 déictique adj
 déjanté adj style=colloquial alt=farfelu|loufoque
@@ -122,6 +127,7 @@ démotique adj
 démotivant adj
 dendritique adj
 dénombrable adj
+dénominatif    adj
 dénotatif adj
 dense adj adv=densément
 dentaire adj
@@ -172,6 +178,7 @@ désespérant adj
 désherbant adj
 déshonorant adj
 déshydratant adj
+design         adj inv
 désinentiel adj
 désinfectant adj
 désinvolte adj
@@ -183,6 +190,7 @@ désodorisant adj
 désœuvré adj
 désolant adj
 désordonné adj
+désoxyribonucléique adj
 despotique adj adv=despotiquement
 déstabilisant adj
 déstressant adj
@@ -204,12 +212,14 @@ détonant adj
 détonnant adj
 dévalorisant adj
 dévastateur adj f=dévastatrice
+développemental adj
 déviant adj
 dévissable adj
 dévolu adj
 dévorant adj
 dévot adj f=dévote adv=dévotement
 dextre adj style=literary
+dharmique      adj
 diabétique adj
 diabolique adj adv=diaboliquement
 diachronique adj
@@ -231,8 +241,10 @@ didactique adj adv=didactiquement
 diélectrique adj
 diététique adj
 diffamatoire adj
+différenciable adj
 différent adj adv=différemment
 différentiable adj
+différentialiste adj
 différentiel adj
 difficile adj adv=difficilement
 difforme adj
@@ -247,6 +259,7 @@ diligent adj adv=diligemment
 diluvien adj
 dimensionnel adj
 diminutif adj
+dinarique      adj
 dingue adj style=colloquial alt=fou
 diocésain adj
 dioïque adj
@@ -267,6 +280,7 @@ dirimant adj
 discernable adj
 disciplinaire adj
 discographique adj
+discontinu     adj
 discordant adj
 discret adj f=discrète adv=discrètement
 discrétionnaire adj adv=discrétionnairement
@@ -332,6 +346,8 @@ dominical adj
 dommageable adj
 domotique adj
 domptable adj
+donatiste      adj
+dopaminergique adj
 dopant adj
 dorique adj
 dormant adj
@@ -361,6 +377,7 @@ dualiste adj
 dubitatif adj adv=dubitativement
 ducal adj
 ductile adj
+duel           adj f=duelle note=grammar: le nombre duel
 dunaire adj
 duodénal adj
 dupe adj

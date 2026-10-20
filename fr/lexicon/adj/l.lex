@@ -15,6 +15,8 @@ lactescent     adj
 lactique       adj
 lacunaire      adj
 lacustre       adj
+lagide         adj
+lagrangien     adj
 lagunaire      adj
 laïc           adj f=laïque note=masculine also written laïque
 laïciste       adj
@@ -26,6 +28,7 @@ laiteux        adj
 laitier        adj
 lamarckien     adj
 lambda         adj inv note=un citoyen lambda
+lambertiste    adj
 lambin         adj style=colloquial alt=lent
 lamé           adj
 lamellaire     adj
@@ -66,6 +69,7 @@ lavable        adj
 lavallois      adj
 laxatif        adj
 laxiste        adj
+lefebvriste    adj
 légal          adj adv=légalement
 légaliste      adj
 légendaire     adj
@@ -82,6 +86,7 @@ lénitif        adj
 lent           adj adv=lentement
 lenticulaire   adj
 léonin         adj
+léopoldien     adj
 lépreux        adj
 leptonique     adj
 lesbien        adj
@@ -123,9 +128,11 @@ licite         adj adv=licitement
 lie-de-vin     adj inv
 liechtensteinois adj
 liégeois       adj
+liénal         adj
 ligamentaire   adj
 lige           adj
 ligérien       adj
+lignager       adj f=lignagère
 ligneux        adj
 ligure         adj
 ligurien       adj
@@ -144,6 +151,7 @@ limousin       adj
 limpide        adj
 linéaire       adj adv=linéairement
 linéique       adj
+lingalaphone   adj
 lingual        adj
 linguistique   adj adv=linguistiquement
 linnéen        adj
@@ -173,6 +181,7 @@ littoral       adj
 lituanien      adj
 liturgique     adj adv=liturgiquement
 livide         adj
+livonien       adj
 livrable       adj
 livresque      adj
 lobaire        adj
@@ -212,6 +221,7 @@ louisianais    adj
 lourd          adj adv=lourdement
 lourdaud       adj
 lourdingue     adj style=colloquial alt=lourd|pesant
+louvoyant      adj
 loyal          adj adv=loyalement
 loyaliste      adj
 lozérien       adj
@@ -233,6 +243,7 @@ lusitanien     adj
 lusophone      adj
 lustral        adj
 lutéal         adj
+lutéinisant    adj
 luthérien      adj
 lutin          adj
 luxembourgeois adj

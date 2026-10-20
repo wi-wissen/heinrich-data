@@ -1,4 +1,5 @@
 # French lexicon, noun, letter f (clean-room, own knowledge)
+fabacée        noun g=f
 fable          noun g=f
 fabliau        noun g=m
 fabricant      noun g=m f=fabricante
@@ -23,6 +24,7 @@ facilité       noun g=f
 façon          noun g=f
 faconde        noun g=f
 façonnage      noun g=m
+façonneur      noun g=m f=façonneuse
 facteur        noun g=m f=factrice note=postman (f=factrice) and 'factor' (masculine only)
 faction        noun g=f
 factorielle    noun g=f
@@ -38,6 +40,7 @@ fadeur         noun g=f
 fagne          noun g=f conf=80
 fagot          noun g=m
 faiblesse      noun g=f
+faide          noun g=f
 faïence        noun g=f
 faïencerie     noun g=f
 faille         noun g=f
@@ -213,9 +216,11 @@ féroïen        noun g=m note=the language
 ferrage        noun g=m
 ferraille      noun g=f
 ferrailleur    noun g=m
+ferricyanure   noun g=m
 ferrite        noun g=f
 ferritine      noun g=f
 ferroalliage   noun g=m conf=85
+ferrocyanure   noun g=m
 ferromagnétisme noun g=m
 ferronnerie    noun g=f
 ferronnier     noun g=m f=ferronnière
@@ -245,6 +250,7 @@ fétichiste     noun g=m|f
 fétu           noun g=m
 fétuque        noun g=f
 feu            noun g=m
+feudataire     noun g=m|f
 feuillage      noun g=m
 feuille        noun g=f
 feuillée       noun g=f
@@ -358,6 +364,7 @@ fion           noun g=m style=vulgar alt=derrière
 fioriture      noun g=f
 fioul          noun g=m
 firmament      noun g=m
+firman         noun g=m
 firme          noun g=f
 fisc           noun g=m
 fiscalisation  noun g=f
@@ -377,6 +384,7 @@ fixation       noun g=f
 fixe-chaussette noun g=m pl=fixe-chaussettes conf=85
 fixette        noun g=f style=colloquial alt=obsession
 fixisme        noun g=m conf=85
+fixiste        noun g=m|f
 fixité         noun g=f
 fjord          noun g=m
 flaccidité     noun g=f
@@ -403,6 +411,7 @@ flanc          noun g=m
 flanelle       noun g=f
 flânerie       noun g=f
 flâneur        noun g=m f=flâneuse
+flanquement    noun g=m
 flaque         noun g=f
 flash          noun g=m pl=flashs|flashes note=flashs is the French plural (1990), flashes the English one
 flash-back     noun g=m pl=flash-back|flash-backs rect=flashback rect_pl=flashbacks conf=80
@@ -447,6 +456,7 @@ flop           noun g=m style=colloquial alt=échec
 floraison      noun g=f
 flore          noun g=f
 floréal        noun g=m pl=floréals note=month of the republican calendar
+florès         noun g=m pl=- note=only in faire florès
 florilège      noun g=m
 florin         noun g=m
 flot           noun g=m
@@ -544,6 +554,7 @@ force          noun g=f
 forcené        noun g=m f=forcenée
 forceps        noun g=m
 forclusion     noun g=f
+fordisme       noun g=m
 foresterie     noun g=f
 forestier      noun g=m f=forestière
 foret          noun g=m
@@ -567,6 +578,7 @@ formatage      noun g=m
 formateur      noun g=m f=formatrice
 formation      noun g=f
 forme          noun g=f
+formiate       noun g=m
 formol         noun g=m
 formulaire     noun g=m
 formulation    noun g=f
@@ -605,6 +617,7 @@ foulure        noun g=f
 four           noun g=m
 fourberie      noun g=f
 fourbi         noun g=m style=colloquial alt=attirail|désordre
+fourbure       noun g=f
 fourche        noun g=f
 fourchette     noun g=f
 fourgon        noun g=m
@@ -652,6 +665,7 @@ fraîcheur      noun g=f rect=fraicheur
 frais          noun g=m pl_only note=expenses (les frais); the adjective is a separate entry
 fraisage       noun g=m
 fraise         noun g=f
+fraiseur       noun g=m f=fraiseuse note=machinist; la fraiseuse is also the machine
 fraiseuse      noun g=f
 fraisier       noun g=m
 framboise      noun g=f
@@ -670,6 +684,7 @@ franchissement noun g=m
 francique      noun g=m note=the language
 francisation   noun g=f
 franciscain    noun g=m f=franciscaine
+francisque     noun g=f
 francolin      noun g=m
 francophile    noun g=m|f
 francophobe    noun g=m|f
@@ -683,6 +698,7 @@ frangipanier   noun g=m
 franquisme     noun g=m
 franquiste     noun g=m|f
 frappe         noun g=f
+frasque        noun g=f
 fraternisation noun g=f
 fraternité     noun g=f
 fratricide     noun g=m
@@ -794,6 +810,7 @@ fugitif        noun g=m f=fugitive
 fugue          noun g=f
 fugueur        noun g=m f=fugueuse
 fuite          noun g=f
+fulgurite      noun g=f
 fuligule       noun g=m conf=85
 fulmar         noun g=m
 fulmination    noun g=f
