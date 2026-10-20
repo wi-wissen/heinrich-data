@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count tokens in a systematic sample of German or English Wikipedia (pages-articles-multistream).
+"""Count tokens in a systematic sample of German, English or French Wikipedia (pages-articles-multistream).
 
 For several dump parts we read the (small) index, group the bz2 streams into chunks of 10 streams
 (~1000 pages), pick evenly spaced chunks and fetch only those byte ranges. Text is processed in memory.
@@ -25,7 +25,11 @@ _EN = ["2.xml-p41243p151573", "5.xml-p558392p958045", "8.xml-p2134112p2936260", 
        "18.xml-p23716198p25216197", "24.xml-p50564554p52064553"]
 PARTS_EN = [(f"enwiki-latest-pages-articles-multistream{p}.bz2",
              "enwiki-latest-pages-articles-multistream-index" + p.replace(".xml", ".txt") + ".bz2") for p in _EN]
-PARTS_BY_LANG = {"de": PARTS_DE, "en": PARTS_EN}
+_FR = ["2.xml-p306135p1050822", "3.xml-p1050823p2550822", "4.xml-p2977215p4477214", "5.xml-p6702074p8202073",
+       "6.xml-p10574284p12074283", "6.xml-p15074284p16574283"]
+PARTS_FR = [(f"frwiki-latest-pages-articles-multistream{p}.bz2",
+             "frwiki-latest-pages-articles-multistream-index" + p.replace(".xml", ".txt") + ".bz2") for p in _FR]
+PARTS_BY_LANG = {"de": PARTS_DE, "en": PARTS_EN, "fr": PARTS_FR}
 PARTS = PARTS_DE
 BASE = BASE_TPL.format(lang="de")
 STREAMS_PER_CHUNK = 10
@@ -45,15 +49,17 @@ BLOCK = re.compile(r"<(gallery|math|code|source|syntaxhighlight|pre|timeline|ima
 TABLE = re.compile(r"\{\|.*?\|\}", re.S)
 TAG = re.compile(r"</?[A-Za-z][^>]*>")
 FILE_LINE = re.compile(r"^\s*\[\[(?:Datei|File|Bild|Image|Kategorie|Category|Media):.*$", re.M | re.I)
+FILE_LINE_FR = re.compile(r"^\s*\[\[(?:Fichier|File|Image|Catégorie|Category|Média|Media):.*$", re.M | re.I)
 LINK = re.compile(r"\[\[(?:[^\[\]|]*\|)?([^\[\]|]*)\]\]")
 EXTLINK = re.compile(r"\[(?:https?:)?//[^\s\]]+\s*([^\]]*)\]")
 URL = re.compile(r"(?:https?://|www\.)\S+")
 CUT_BY_LANG = {
     "de": re.compile(r"^==+\s*(Literatur|Weblinks|Einzelnachweise|Anmerkungen|Quellen|Siehe auch|Fußnoten|Belege|Filme|Diskografie|Werke|Schriften|Veröffentlichungen|Publikationen)\b.*$", re.M),
+    "fr": re.compile(r"^==+\s*(Notes et références|Références|Notes|Liens externes|Voir aussi|Bibliographie|Annexes|Articles connexes|Sources|Discographie|Filmographie|Œuvres|Publications|Ouvrages|Principales publications)\b.*$", re.M),
     "en": re.compile(r"^==+\s*(References|External links|See also|Further reading|Notes|Bibliography|Sources|Works cited|Footnotes|Citations|Discography|Filmography|Works|Publications|Selected works|Selected publications|Literature|Notes and references)\b.*$", re.M),
 }
 CUT = CUT_BY_LANG["de"]
-REDIRECT = ("#WEITERLE", "#REDIRECT")
+REDIRECT = ("#WEITERLE", "#REDIRECT")  # "#REDIRECTION" (fr) starts with "#REDIRECT" too
 # English variety tags (Wikipedia maintenance templates that state the spelling variety of an article)
 REGION_TAGS = [(re.compile(r"\{\{\s*Use American English\b", re.I), "us"),
                (re.compile(r"\{\{\s*(?:Use British English|Use Oxford spelling|EngvarB)\b", re.I), "gb")]
@@ -75,7 +81,7 @@ def clean(wt):
         if n == wt:
             break
         wt = n
-    wt = FILE_LINE.sub("", wt)
+    wt = (FILE_LINE_FR if LANG == "fr" else FILE_LINE).sub("", wt)
     for _ in range(3):
         wt = LINK.sub(r"\1", wt)
     wt = EXTLINK.sub(r"\1", wt)

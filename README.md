@@ -21,6 +21,8 @@ build scripts and finished language packs.
   that the lexicon lacks, which the spell checker accepts (generated, `de/lexicon/AUTHORING.md` §4.11),
   and `trusted_excluded.tsv`: forms the reviewer disputed, never trusted
 - `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
+- `fr/frequency/` – our own French word-form frequency list (fr-FR, elision split off;
+  `fr/frequency/README.md`)
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
   protocol: `en/lexicon/AUTHORING.md`
