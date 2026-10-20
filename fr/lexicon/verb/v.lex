@@ -15,6 +15,7 @@ vaquer verb pp_inv
 varier verb
 vautrer verb pronominal
 végéter verb pp_inv
+véhiculer verb
 veiller verb
 vendre verb class=rendre
 vénérer verb
@@ -26,6 +27,7 @@ verdir verb class=ir
 verdoyer verb pp_inv
 vérifier verb
 vernir verb class=ir
+verrouiller verb
 verser verb
 vêtir verb class=vêtir
 vexer verb
@@ -39,6 +41,7 @@ viser verb
 visionner verb
 visiter verb
 visser verb
+visualiser verb
 vitrifier verb
 vivoter verb pp_inv
 vivre verb class=vivre
@@ -53,6 +56,7 @@ vomir verb class=ir
 voter verb
 vouer verb
 vouloir verb class=vouloir
+voûter verb rect=vouter
 vouvoyer verb
 voyager verb pp_inv
 vrombir verb class=ir pp_inv

@@ -2,6 +2,7 @@
 rabâcher verb
 rabaisser verb
 rabattre verb class=battre
+raboter verb
 raccommoder verb
 raccompagner verb
 raccorder verb
@@ -23,6 +24,7 @@ rafler verb
 rafraîchir verb class=ir rect=rafraichir
 rager verb pp_inv
 raidir verb class=ir
+railler verb
 raisonner verb
 rajeunir verb class=ir
 rajouter verb
@@ -73,6 +75,7 @@ rayonner verb
 réactiver verb
 réactualiser verb
 réadapter verb
+réaffecter verb
 réaffirmer verb
 réagir verb class=ir pp_inv
 réajuster verb
@@ -82,6 +85,8 @@ réanimer verb
 réapparaître verb class=connaître aux=avoir|être
 réapprendre verb class=prendre
 réarmer verb
+rebaptiser verb
+rebâtir verb class=ir
 rebattre verb class=battre
 rebeller verb pronominal
 reboiser verb
@@ -90,6 +95,7 @@ rebrousser verb
 rebuter verb
 recalculer verb
 recaler verb
+recapitaliser verb
 récapituler verb
 receler verb note=è like geler
 recenser verb
@@ -104,11 +110,13 @@ rechuter verb pp_inv
 récidiver verb pp_inv
 réciter verb
 réclamer verb
+reclasser verb
 recoller verb
 récolter verb
 recommander verb
 recommencer verb
 récompenser verb
+recomposer verb
 réconcilier verb
 reconduire verb class=conduire
 réconforter verb
@@ -127,6 +135,7 @@ recouvrer verb
 recouvrir verb class=ouvrir
 recracher verb
 recréer verb
+récrire verb class=écrire
 recroqueviller verb
 recruter verb
 rectifier verb
@@ -134,18 +143,30 @@ recueillir verb class=cueillir
 reculer verb
 récupérer verb
 récurer verb
+récuser verb
 recycler verb
+redécouvrir verb class=ouvrir
 redéfinir verb class=ir
+redemander verb
+redémarrer verb
+redéployer verb
 redescendre verb class=rendre aux=avoir|être
+redessiner verb
 redevenir verb class=venir aux=être
+rediffuser verb
 rédiger verb
 redire verb class=dire
+rediscuter verb
+redistribuer verb
 redonner verb
+redorer verb
 redoubler verb
 redouter verb
 redresser verb
 réduire verb class=conduire
+redynamiser verb
 réécrire verb class=écrire
+rééditer verb
 réélire verb class=lire
 rééquilibrer verb
 réévaluer verb
@@ -158,6 +179,7 @@ réfléchir verb class=ir
 refléter verb
 refleurir verb class=ir
 refluer verb pp_inv
+refonder verb
 refondre verb class=rendre
 reformer verb
 réformer verb
@@ -185,6 +207,9 @@ régulariser verb
 réguler verb
 réhabiliter verb
 rehausser verb
+réimprimer verb
+réinsérer verb
+réinstaller verb
 réintégrer verb
 réintroduire verb class=conduire
 réinventer verb
@@ -198,12 +223,15 @@ réjouir verb class=ir
 relâcher verb
 relancer verb
 relater verb
+relativiser verb
 relaxer verb
 relayer verb
 reléguer verb
 relever verb
 relier verb
 relire verb class=lire
+relocaliser verb
+reloger verb
 reluire verb class=conduire pp=relui pp_inv
 remanier verb
 remarier verb
@@ -218,6 +246,8 @@ remémorer verb
 remercier verb
 remettre verb class=mettre
 remiser verb
+remixer verb
+remodeler verb note=è like geler
 remonter verb aux=avoir|être
 remorquer verb
 rempailler verb
@@ -231,6 +261,7 @@ renaître verb class=naître aux=être
 renchérir verb class=ir pp_inv
 rencontrer verb
 rendre verb class=rendre
+renégocier verb
 renfermer verb
 renflouer verb
 renforcer verb
@@ -283,8 +314,10 @@ réprimer verb
 repriser verb
 reprocher verb
 reproduire verb class=conduire
+réprouver verb
 répudier verb
 répugner verb pp_inv
+requalifier verb
 requérir verb class=acquérir
 réquisitionner verb
 réserver verb
@@ -307,11 +340,13 @@ ressentir verb class=partir
 resserrer verb
 ressortir verb class=partir aux=avoir|être
 ressourcer verb
+ressouvenir verb class=venir pronominal style=literary
 ressusciter verb aux=avoir|être
 restaurer verb
 rester verb aux=être
 restituer verb
 restreindre verb class=peindre
+restructurer verb
 résulter verb aux=avoir|être pp_inv
 résumer verb
 resurgir verb class=ir
@@ -330,6 +365,7 @@ retracer verb
 rétracter verb
 retraiter verb
 retrancher verb
+retranscrire verb class=écrire
 retransmettre verb class=mettre
 retravailler verb
 rétrécir verb class=ir
@@ -339,6 +375,7 @@ retrousser verb
 retrouver verb
 réunir verb class=ir
 réussir verb class=ir
+réutiliser verb
 revaloriser verb
 rêvasser verb pp_inv
 réveiller verb
@@ -350,8 +387,10 @@ revenir verb class=venir aux=être
 rêver verb
 réverbérer verb
 révérer verb
+reverser verb
 revêtir verb class=vêtir
 réviser verb
+revisiter verb
 revitaliser verb
 revivre verb class=vivre
 revoir verb class=voir
@@ -373,6 +412,9 @@ rivaliser verb pp_inv
 river verb
 roder verb
 rôder verb pp_inv
+rogner verb
+romancer verb
+romaniser verb
 rompre verb class=rompre
 ronchonner verb pp_inv style=colloquial alt=grogner
 ronfler verb pp_inv
@@ -381,6 +423,7 @@ ronronner verb pp_inv
 roter verb pp_inv style=colloquial
 rôtir verb class=ir
 roucouler verb pp_inv
+rouer verb
 rougir verb class=ir
 rouiller verb
 rouler verb
@@ -388,6 +431,7 @@ roupiller verb pp_inv style=colloquial alt=dormir
 roussir verb class=ir
 rouvrir verb class=ouvrir
 rudoyer verb
+ruer verb
 rugir verb class=ir pp_inv
 ruiner verb
 ruisseler verb class=double_trad pp_inv

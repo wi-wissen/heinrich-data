@@ -1,15 +1,19 @@
 # French lexicon: verb entries in s (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 sabler verb
+saborder verb
 saboter verb
+sabrer verb
 saccager verb
 sacrer verb
 sacrifier verb
 saigner verb
+saillir verb class=irr pres=-,-,saille,-,-,saillent impf=-,-,saillait,-,-,saillaient ppr=saillant ps=- fut=-,-,saillera,-,-,sailleront pp=sailli conf=70 note=defective in the sense of to protrude
 saisir verb class=ir
 salir verb class=ir
 saliver verb pp_inv
 saluer verb
 sanctionner verb
+sanctuariser verb
 sangloter verb pp_inv
 saper verb
 sarcler verb
@@ -26,7 +30,9 @@ savourer verb
 scandaliser verb
 scander verb
 sceller verb
+scénariser verb
 scier verb
+scinder verb
 scintiller verb pp_inv
 scolariser verb
 scruter verb
@@ -43,6 +49,7 @@ séjourner verb pp_inv
 sélectionner verb
 sembler verb pp_inv
 semer verb
+sensibiliser verb
 sentir verb class=partir
 seoir verb class=irr pres=-,-,sied,-,-,siéent impf=-,-,seyait,-,-,seyaient ps=- fut=-,-,siéra,-,-,siéront cond=-,-,siérait,-,-,siéraient subj=-,-,siée,-,-,siéent imp=-,-,- ppr=seyant pp=sis conf=90 note=defective (to suit): third persons only; pp sis, sise (situated) is legal style
 séparer verb
@@ -70,6 +77,7 @@ solder verb
 solidifier verb
 solliciter verb
 sombrer verb pp_inv
+sommeiller verb pp_inv
 sommer verb
 somnoler verb pp_inv
 sonder verb
@@ -88,9 +96,11 @@ soûler verb note=also spelled saouler
 soulever verb
 souligner verb
 soumettre verb class=mettre
+soumissionner verb
 soupçonner verb
 souper verb pp_inv
 soupirer verb
+sourciller verb pp_inv
 sourire verb class=rire
 sous-entendre verb class=rendre
 sous-estimer verb
@@ -120,12 +130,15 @@ stocker verb
 stopper verb
 stresser verb
 structurer verb
+stupéfier verb
+styliser verb
 subdiviser verb
 subir verb class=ir
 subjuguer verb
 sublimer verb
 submerger verb
 subordonner verb
+subroger verb
 subsister verb pp_inv
 substituer verb
 subvenir verb class=venir pp_inv
@@ -164,6 +177,7 @@ surplomber verb
 surprendre verb class=prendre
 sursauter verb pp_inv
 surseoir verb class=irr pres=sursois,sursoyons,sursoient ps=sursis fut=surseoirai pp=sursis pp_inv
+surtaxer verb
 surveiller verb
 survenir verb class=venir aux=être
 survivre verb class=vivre pp_inv

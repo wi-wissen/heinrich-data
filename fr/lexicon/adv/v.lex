@@ -3,3 +3,4 @@ vertement adv
 vite adv
 voire adv
 volontiers adv
+voluptueusement adv

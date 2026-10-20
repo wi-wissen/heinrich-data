@@ -1,14 +1,21 @@
 # French lexicon: noun entries in q (docs/LEXICON_FORMAT_FR.md), written from own knowledge (clean-room).
 quadragénaire noun g=m|f
+quadrature noun g=f
+quadricycle noun g=m
+quadrige noun g=m
 quadrilatère noun g=m
 quadrillage noun g=m
+quadrupède noun g=m
 quai noun g=m
 qualificatif noun g=m
 qualification noun g=f
 qualité noun g=f
+quantification noun g=f
 quantité noun g=f
 quarantaine noun g=f
 quart noun g=m
+quarte noun g=f
+quarterback noun g=m
 quartette noun g=m
 quartier noun g=m
 quartz noun g=m
@@ -21,10 +28,12 @@ querelle noun g=f
 questeur noun g=m
 question noun g=f
 questionnaire noun g=m
+questionnement noun g=m
 quête noun g=f
 quêteur noun g=m f=quêteuse
 queue noun g=f
 quiche noun g=f
+quiétisme noun g=m
 quiétude noun g=f
 quignon noun g=m
 quille noun g=f
@@ -32,6 +41,7 @@ quincaillerie noun g=f
 quincaillier noun g=m f=quincaillière
 quinine noun g=f
 quinquennat noun g=m
+quinquet noun g=m
 quintal noun g=m
 quinte noun g=f
 quintessence noun g=f

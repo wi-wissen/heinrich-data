@@ -2,6 +2,7 @@
 tabasser verb style=colloquial alt=frapper
 tacher verb
 tâcher verb
+tacler verb
 taillader verb
 tailler verb
 taire verb class=taire
@@ -45,19 +46,23 @@ terminer verb
 ternir verb class=ir
 terrasser verb
 terrifier verb
+territorialiser verb
 terroriser verb
 tester verb
 téter verb
+théoriser verb
 thésauriser verb
 tiédir verb class=ir
 timbrer verb
 tinter verb pp_inv
 tiquer verb pp_inv
+tirailler verb
 tirer verb
 tisser verb
 titiller verb
 titrer verb
 tituber verb pp_inv
+titulariser verb
 toiletter verb
 toiser verb
 tolérer verb
@@ -78,6 +83,7 @@ tournoyer verb pp_inv
 tousser verb pp_inv
 tracasser verb
 tracer verb
+tracter verb
 traduire verb class=conduire
 trahir verb class=ir
 traîner verb rect=trainer
@@ -92,7 +98,10 @@ transfigurer verb
 transformer verb
 transgresser verb
 transiger verb pp_inv
+transiter verb
+translittérer verb
 transmettre verb class=mettre
+transparaître verb class=connaître
 transpercer verb
 transpirer verb pp_inv
 transplanter verb

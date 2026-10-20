@@ -4,3 +4,7 @@ tard adv
 tôt adv
 toujours adv
 toutefois adv
+transversalement adv
+trimestriellement adv
+triomphalement adv
+triplement adv

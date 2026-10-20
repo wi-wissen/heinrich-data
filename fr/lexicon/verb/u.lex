@@ -4,6 +4,7 @@ ululer verb pp_inv
 unifier verb
 uniformiser verb
 unir verb class=ir
+urbaniser verb
 uriner verb
 user verb
 usurper verb
