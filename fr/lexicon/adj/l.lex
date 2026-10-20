@@ -43,6 +43,7 @@ larvé          adj
 laryngé        adj
 las            adj f=lasse
 lascif         adj adv=lascivement
+lassant        adj
 latent         adj
 latéral        adj adv=latéralement
 latin          adj
@@ -62,22 +63,28 @@ légitime       adj adv=légitimement
 légitimiste    adj
 légumier       adj
 lémanique      adj
+lénifiant      adj
 léniniste      adj
+lénitif        adj
 lent           adj adv=lentement
 lenticulaire   adj
 léonin         adj
 lépreux        adj
 lesbien        adj
+lésionnel      adj
 leste          adj adv=lestement
 létal          adj
 léthargique    adj
 letton         adj f=lettone|lettonne conf=90 note=both feminines in use
 lettré         adj
 leucémique     adj
+leucocytaire   adj
 levantin       adj
 lexical        adj
 lexicographique adj
+liant          adj
 libanais       adj
+libérable      adj
 libéral        adj adv=libéralement
 libérateur     adj f=libératrice
 libératoire    adj
@@ -86,6 +93,7 @@ libertaire     adj
 libertarien    adj
 liberticide    adj
 libertin       adj
+libidinal      adj
 libidineux     adj
 libre          adj adv=librement
 libre-échangiste adj
@@ -100,6 +108,7 @@ lige           adj
 ligérien       adj
 ligneux        adj
 ligure         adj
+lilial         adj
 lilliputien    adj
 lillois        adj
 limbique       adj
@@ -114,6 +123,8 @@ lingual        adj
 linguistique   adj adv=linguistiquement
 linnéen        adj
 lipidique      adj
+lipophile      adj
+liposoluble    adj
 lippu          adj
 liquidable     adj
 liquidatif     adj
@@ -133,6 +144,7 @@ liturgique     adj adv=liturgiquement
 livide         adj
 livrable       adj
 livresque      adj
+lobaire        adj
 lobé           adj
 local          adj adv=localement
 localisable    adj
@@ -156,11 +168,13 @@ loquace        adj
 loqueteux      adj
 lorrain        adj
 louable        adj
+louangeur      adj f=louangeuse
 louche         adj
 loufoque       adj
 louisianais    adj
 lourd          adj adv=lourdement
 lourdaud       adj
+lourdingue     adj style=colloquial alt=lourd|pesant
 loyal          adj adv=loyalement
 loyaliste      adj
 lubrifiant     adj
@@ -170,6 +184,7 @@ lucratif       adj
 ludique        adj
 lugubre        adj adv=lugubrement
 luisant        adj
+luminescent    adj
 lumineux       adj adv=lumineusement
 lunaire        adj
 lunatique      adj
@@ -182,6 +197,7 @@ luxembourgeois adj
 luxueux        adj adv=luxueusement
 luxuriant      adj
 luxurieux      adj
+lycéen         adj
 lydien         adj
 lymphatique    adj
 lymphocytaire  adj

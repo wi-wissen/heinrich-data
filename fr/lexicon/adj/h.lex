@@ -19,18 +19,24 @@ harmonieux     adj adv=harmonieusement
 harmonique     adj
 hasardeux      adj aspirate
 hâtif          adj adv=hâtivement aspirate
+haussier       adj aspirate
 haut           adj place=pre adv=hautement aspirate
 hautain        adj aspirate
 hawaïen        adj
 hebdomadaire   adj
 hébété         adj
 hébraïque      adj
+hédoniste      adj
 hégémonique    adj
+hélicoïdal     adj
 héliocentrique adj
+héliporté      adj
 hellénique     adj
 hellénistique  adj
 helvétique     adj
+hémiplégique   adj
 hémisphérique  adj
+hémophile      adj
 hémorragique   adj
 hépatique      adj
 héraldique     adj
@@ -47,6 +53,7 @@ hésitant       adj
 hétéroclite    adj
 hétérogène     adj
 hétérosexuel   adj
+hétérozygote   adj
 heureux        adj adv=heureusement
 heuristique    adj
 hexadécimal    adj
@@ -62,7 +69,9 @@ hippique       adj
 hippomobile    adj
 hirsute        adj
 hispanique     adj
+hispano-américain adj
 hispanophone   adj
+histologique   adj
 historiographique adj
 historique     adj adv=historiquement
 hivernal       adj
@@ -71,21 +80,28 @@ hollandais     adj aspirate
 homéopathique  adj
 homérique      adj
 homogène       adj
+homologue      adj
+homonyme       adj
 homoparental   adj
 homophobe      adj
 homosexuel     adj
+homozygote     adj
 hongrois       adj aspirate
 honnête        adj adv=honnêtement
 honorable      adj adv=honorablement
 honoraire      adj note=président honoraire
 honorifique    adj
 honteux        adj adv=honteusement aspirate
+horaire        adj note=fuseau horaire
 horizontal     adj adv=horizontalement
 hormonal       adj
 horrible       adj adv=horriblement
 horrifique     adj
+horripilant    adj
+hors-sol       adj inv aspirate
 horticole      adj
 hospitalier    adj
+hospitalo-universitaire adj
 hostile        adj
 hôtelier       adj
 houiller       adj aspirate
@@ -102,17 +118,25 @@ humoristique   adj
 huppé          adj aspirate
 hurlant        adj aspirate
 hybride        adj
+hydratant      adj
 hydraulique    adj
 hydrique       adj
 hydroélectrique adj
 hydrographique adj
 hydrologique   adj
 hydrophile     adj
+hydrophobe     adj
+hydroponique   adj
+hydrosoluble   adj
 hygiénique     adj
 hyperactif     adj
 hyperbare      adj
 hyperbolique   adj
+hypermétrope   adj
+hypertendu     adj
 hypnotique     adj
+hypoallergénique adj
+hypocalorique  adj
 hypocondriaque adj
 hypocrite      adj
 hypostyle      adj
