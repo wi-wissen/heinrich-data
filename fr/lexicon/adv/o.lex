@@ -1,9 +1,14 @@
 obscurément        adv
+odieusement        adv
+offensivement      adv
+onéreusement       adv
+ontologiquement    adv
 opérationnellement adv
 opportunément      adv
 originairement     adv
 originalement      adv
 originellement     adv
+orthographiquement adv
 ostensiblement     adv
 outrageusement     adv
 ouvertement        adv

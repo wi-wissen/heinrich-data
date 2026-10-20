@@ -25,19 +25,26 @@ officialiser   verb
 officier       verb note=verb: officier à la messe
 offrir         verb class=ouvrir
 offusquer      verb
+oindre         verb class=peindre
 ombrager       verb
+ombrer         verb
 omettre        verb class=mettre
+ondoyer        verb
+onduler        verb
 opérer         verb
+opiner         verb pp_inv
 opposer        verb
 oppresser      verb
 opprimer       verb
 opter          verb pp_inv
 optimiser      verb
 orbiter        verb pp_inv
+orchestrer     verb
 ordonnancer    verb
 ordonner       verb
 organiser      verb
 orienter       verb
+ornementer     verb
 orner          verb
 orthographier  verb
 osciller       verb
@@ -46,10 +53,13 @@ oser           verb
 ouater         verb
 oublier        verb
 ouïr           verb class=irr style=archaic pres=ois,oyons,oient ps=ouïs fut=ouïrai pp=ouï note=mostly in j'ai ouï dire
+ourdir         verb class=ir
 ourler         verb
 outiller       verb
 outrager       verb
 outrepasser    verb
 outrer         verb
 ouvrir         verb class=ouvrir
+ovationner     verb
+oxyder         verb
 oxygéner       verb

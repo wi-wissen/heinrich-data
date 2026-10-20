@@ -29,7 +29,10 @@ noter        verb
 notifier     verb
 nouer        verb
 nourrir      verb class=ir
+noyauter     verb
 noyer        verb
 nuancer      verb
+nucléariser  verb
 nuire        verb class=conduire pp=nui pp_inv
 numériser    verb
+numéroter    verb

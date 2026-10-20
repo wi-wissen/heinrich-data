@@ -1,5 +1,7 @@
+maigrement       adv
 maintenant       adv
 mal              adv
+malhonnêtement   adv
 maritalement     adv
 marre            adv style=colloquial alt=assez note=only in en avoir marre
 maternellement   adv
@@ -7,13 +9,22 @@ méchamment       adv
 médicalement     adv
 médiocrement     adv
 mélancoliquement adv
+mélodieusement   adv
+mensongèrement   adv
 mensuellement    adv
 merveilleusement adv
+mesquinement     adv
+métaphoriquement adv
+métaphysiquement adv
 militairement    adv
+minimalement     adv
 misérablement    adv
 moderato         adv
+moindrement      adv
 mondialement     adv
 monstrueusement  adv
+moqueusement     adv
+mordicus         adv style=colloquial alt=obstinément
 mortellement     adv
 moyennement      adv
 mûrement         adv
