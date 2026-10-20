@@ -16,7 +16,7 @@ jeûner         verb pp_inv
 joindre        verb class=peindre
 jointoyer      verb
 joncher        verb
-jongler        verb pp_inv
+jongler        verb note=also transitive (jongler des balles)
 jouer          verb
 jouir          verb class=ir pp_inv
 jouxter        verb

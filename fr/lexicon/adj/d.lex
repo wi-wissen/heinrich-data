@@ -3,6 +3,8 @@ dactylique     adj
 dadaïste adj
 dalmate        adj
 daltonien adj
+damasquiné      adj
+damassé         adj
 damnable adj
 dangereux adj adv=dangereusement
 danois adj

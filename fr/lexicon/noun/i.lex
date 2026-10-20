@@ -68,6 +68,7 @@ imbécile       noun g=m|f
 imbécillité    noun g=f rect=imbécilité conf=90 note=1990 spelling imbécilité
 imbrication    noun g=f
 imbroglio      noun g=m
+imidazole       noun g=m
 imine          noun g=f
 imitateur      noun g=m f=imitatrice
 imitation      noun g=f
@@ -150,6 +151,7 @@ imposte        noun g=f
 imposteur      noun g=m note=used for women too
 imposture      noun g=f
 impôt          noun g=m
+impotence       noun g=f
 imprécation    noun g=f
 imprécision    noun g=f
 imprégnation   noun g=f
@@ -537,6 +539,7 @@ interface      noun g=f
 interférence   noun g=f
 interférométrie noun g=f
 interfluve     noun g=m
+intergiciel     noun g=m
 intérieur      noun g=m
 intérim        noun g=m
 intérimaire    noun g=m|f
@@ -687,6 +690,7 @@ islam          noun g=m
 islamisation   noun g=f
 islamisme      noun g=m
 islamiste      noun g=m|f
+islamologue     noun g=m|f
 islamophobie   noun g=f
 isocyanate     noun g=m
 isohyète       noun g=f

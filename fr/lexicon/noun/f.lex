@@ -283,6 +283,7 @@ fibromyalgie   noun g=f
 fibroscope     noun g=m
 fibroscopie    noun g=f
 fibrose        noun g=f
+ficaire         noun g=f
 ficelle        noun g=f
 fichage        noun g=m
 fiche          noun g=f
@@ -600,6 +601,7 @@ fossilisation  noun g=f
 fossoyeur      noun g=m f=fossoyeuse conf=80 note=feminine rare
 fou            noun g=m f=folle pl=fous
 foudre         noun g=f
+foudroiement    noun g=m
 fouet          noun g=m
 fougasse       noun g=f
 fougeraie      noun g=f

@@ -118,6 +118,7 @@ instrumentaliser verb
 instrumenter   verb
 insuffler      verb
 insulter       verb
+insupporter     verb style=colloquial alt=agacer|exaspérer
 insurger       verb pronominal
 intégrer       verb
 intellectualiser verb

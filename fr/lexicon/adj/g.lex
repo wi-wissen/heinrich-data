@@ -12,6 +12,7 @@ galeux         adj
 galicien       adj
 galiléen       adj
 gallican       adj
+gallicole       adj
 gallo-romain   adj
 gallo-roman    adj
 gallois        adj
@@ -97,6 +98,7 @@ giratoire      adj
 girondin       adj
 giscardien     adj
 gitan          adj
+givrant         adj
 glabre         adj
 glaçant        adj
 glaciaire      adj

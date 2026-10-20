@@ -12,6 +12,7 @@ khmer          adj f=khmère
 kilométrique   adj
 kimbanguiste   adj
 kinesthésique  adj
+kirghiz         adj f=kirghize conf=85
 kirghize       adj
 kitsch         adj inv
 kosovar        adj f=kosovare

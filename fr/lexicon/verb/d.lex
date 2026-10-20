@@ -113,6 +113,7 @@ décontaminer verb
 décontenancer verb
 décontracter verb
 décorer verb
+décorréler      verb
 décortiquer verb
 découcher verb pp_inv
 découdre verb class=coudre
@@ -434,6 +435,7 @@ désocialiser verb
 désodoriser verb
 désoler verb
 désolidariser verb
+désorbiter      verb
 désorganiser verb
 désorienter verb
 désosser verb
@@ -586,6 +588,7 @@ doser verb
 doter verb
 double-cliquer verb
 doubler verb
+doublonner      verb
 doucher verb
 douer          verb defective=inf|pp note=in practice only the participle doué
 douter verb

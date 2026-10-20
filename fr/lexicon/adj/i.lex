@@ -60,6 +60,7 @@ immonde        adj
 immoral        adj adv=immoralement
 immortel       adj
 immuable       adj adv=immuablement
+immunisant      adj
 immunitaire    adj
 immunodéprimé  adj
 immunologique  adj
@@ -150,6 +151,7 @@ inamovible     adj
 inanimé        adj
 inaperçu       adj
 inapplicable   adj
+inappliqué      adj
 inappréciable  adj
 inapproprié    adj
 inapte         adj
@@ -618,6 +620,7 @@ ionique        adj
 ionisant       adj
 irakien        adj
 iranien        adj
+iraqien         adj conf=90 note=variant of irakien
 irascible      adj
 irisé          adj
 irlandais      adj
@@ -662,6 +665,7 @@ isobare        adj
 isocèle        adj
 isochrone      adj
 isoélectrique  adj
+isoenzymatique  adj
 isolant        adj
 isolationniste adj
 isométrique    adj

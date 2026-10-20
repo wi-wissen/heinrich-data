@@ -43,6 +43,7 @@ faraud         adj style=colloquial alt=fanfaron|vaniteux
 farfelu        adj
 farineux       adj
 farouche       adj adv=farouchement
+fascié          adj
 fascinant      adj
 fasciste       adj
 faste          adj
@@ -136,6 +137,7 @@ finançable     adj
 financier      adj adv=financièrement
 finaud         adj
 finissant      adj conf=85 note=le siècle finissant
+finistérien     adj
 finlandais     adj
 finno-ougrien  adj
 finnois        adj

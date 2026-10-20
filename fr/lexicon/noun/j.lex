@@ -3,6 +3,7 @@ jabot          noun g=m
 jachère        noun g=f
 jacinthe       noun g=f
 jackpot        noun g=m
+jacobée         noun g=f
 jacobin        noun g=m f=jacobine
 jacobinisme    noun g=m
 jacquard       noun g=m
