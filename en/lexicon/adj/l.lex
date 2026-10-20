@@ -41,6 +41,7 @@ legal         adj adv=legally
 legendary     adj
 legible adj
 legislative   adj
+legit adj style=colloquial alt=legitimate|genuine
 legitimate    adj adv=legitimately
 leisurely     adj
 lemony adj

@@ -250,6 +250,7 @@ congregate verb
 conjecture verb
 conjugate verb
 conjure verb
+conk verb style=colloquial note=conk out: break down, fail (engine phrase table)
 connect verb
 connote verb
 conquer verb
