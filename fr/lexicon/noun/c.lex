@@ -55,6 +55,7 @@ caducée            noun g=m
 caducité           noun g=f
 cafard             noun g=m
 café               noun g=m
+café-concert       noun g=m pl=cafés-concerts
 caféine            noun g=f
 cafétéria          noun g=f
 cafetier           noun g=m f=cafetière
@@ -461,6 +462,7 @@ caviar             noun g=m
 caviste            noun g=m|f
 cavité             noun g=f
 cécité             noun g=f
+cédant             noun g=m f=cédante
 cèdre              noun g=m
 ceinture           noun g=f
 ceinturon          noun g=m
@@ -506,6 +508,7 @@ centurion          noun g=m
 cep                noun g=m
 cépage             noun g=m
 cèpe               noun g=m
+céphalopode        noun g=m
 céramique          noun g=f
 céramiste          noun g=m|f
 cerbère            noun g=m
@@ -541,6 +544,7 @@ césium             noun g=m
 cessation          noun g=f
 cesse              noun g=f note=sans cesse
 cessez-le-feu      noun g=m pl=cessez-le-feu
+cessibilité        noun g=f
 cession            noun g=f
 cessionnaire       noun g=m|f
 césure             noun g=f
@@ -724,6 +728,7 @@ chauve-souris      noun g=f pl=chauves-souris
 chauvinisme        noun g=m
 chaux              noun g=f
 chavirement        noun g=m
+chéchia            noun g=f
 check-list         noun g=f pl=check-lists
 chef               noun g=m|f note=feminine also cheffe
 chef-d'œuvre       noun g=m pl=chefs-d'œuvre
@@ -773,6 +778,7 @@ chevillard         noun g=m
 cheville           noun g=f
 chèvre             noun g=f
 chevreau           noun g=m
+chèvrefeuille      noun g=m
 chevrette          noun g=f
 chevreuil          noun g=m
 chevrier           noun g=m f=chevrière
@@ -821,6 +827,7 @@ chirurgie          noun g=f
 chirurgien         noun g=m f=chirurgienne
 chirurgien-dentiste noun g=m f=chirurgienne-dentiste pl=chirurgiens-dentistes fpl=chirurgiennes-dentistes
 chlore             noun g=m
+chloroforme        noun g=m
 chlorophylle       noun g=f
 chlorure           noun g=m
 choc               noun g=m
@@ -846,6 +853,7 @@ chou               noun g=m pl=choux
 chou-fleur         noun g=m pl=choux-fleurs
 chou-rave          noun g=m pl=choux-raves
 chouan             noun g=m
+chouannerie        noun g=f
 chouchou           noun g=m f=chouchoute style=colloquial note=regular plural
 choucroute         noun g=f
 chouette           noun g=f
@@ -950,6 +958,7 @@ civilisation       noun g=f
 civilité           noun g=f
 civisme            noun g=m
 clade              noun g=m
+cladogramme        noun g=m
 clafoutis          noun g=m
 claie              noun g=f
 clair              noun g=m
@@ -1045,13 +1054,16 @@ clou               noun g=m note=plural clous
 clown              noun g=m
 clownerie          noun g=f
 club               noun g=m
+cluster            noun g=m
 coaccusé           noun g=m f=coaccusée
 coach              noun g=m|f
+coaching           noun g=m
 coadjuteur         noun g=m
 coagulation        noun g=f
 coalition          noun g=f
 coaltar            noun g=m
 coassement         noun g=m
+coassurance        noun g=f
 coauteur           noun g=m f=coautrice|coauteure
 cobalt             noun g=m
 cobaye             noun g=m
@@ -1082,6 +1094,7 @@ cocu               noun g=m f=cocue style=colloquial
 codage             noun g=m
 code               noun g=m
 codébiteur         noun g=m f=codébitrice
+codécision         noun g=f
 codétenu           noun g=m f=codétenue
 codex              noun g=m
 codicille          noun g=m
@@ -1105,6 +1118,7 @@ cogitation         noun g=f
 cognac             noun g=m
 cognat             noun g=m
 cognée             noun g=f
+cognition          noun g=f
 cohabitation       noun g=f
 cohérence          noun g=f
 cohéritier         noun g=m f=cohéritière
@@ -1131,6 +1145,7 @@ colin-maillard     noun g=m pl=colin-maillards
 colique            noun g=f
 colis              noun g=m
 colisée            noun g=m
+colistier          noun g=m f=colistière
 colite             noun g=f
 collaborateur      noun g=m f=collaboratrice
 collaboration      noun g=f
@@ -1300,6 +1315,7 @@ complice           noun g=m|f
 complicité         noun g=f
 compliment         noun g=m
 complot            noun g=m
+complotiste        noun g=m|f
 componction        noun g=f
 comportement       noun g=m
 composant          noun g=m
@@ -1991,6 +2007,7 @@ cricri             noun g=m
 criée              noun g=f
 crieur             noun g=m f=crieuse
 crime              noun g=m
+criminalisation    noun g=f
 criminaliste       noun g=m|f
 criminalité        noun g=f
 criminel           noun g=m f=criminelle
@@ -2116,6 +2133,7 @@ cumulonimbus       noun g=m
 cupidité           noun g=f
 cupidon            noun g=m
 cupule             noun g=f
+curage             noun g=m
 curare             noun g=m
 curatelle          noun g=f
 curateur           noun g=m f=curatrice
@@ -2144,6 +2162,7 @@ cyanose            noun g=f
 cyanure            noun g=m
 cyberattaque       noun g=f
 cybercafé          noun g=m
+cybercriminalité   noun g=f
 cyberdéfense       noun g=f
 cyberespace        noun g=m
 cyberharcèlement   noun g=m
@@ -2169,5 +2188,6 @@ cynodrome          noun g=m
 cyprès             noun g=m
 cyprin             noun g=m
 cystite            noun g=f
+cytokine           noun g=f
 cytologie          noun g=f
 cytoplasme         noun g=m

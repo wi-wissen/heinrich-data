@@ -61,6 +61,7 @@ acide              adj
 acidulé            adj
 acoustique         adj
 acquis             adj
+acquisitif         adj
 âcre               adj
 acrimonieux        adj
 acrobatique        adj
@@ -285,6 +286,7 @@ antagoniste        adj
 antarctique        adj
 antépénultième     adj
 antérieur          adj f=antérieure adv=antérieurement
+anthropique        adj
 anthropoïde        adj
 anthropologique    adj
 anthropomorphe     adj
@@ -292,6 +294,7 @@ anthropophage      adj
 antiaérien         adj
 antiatomique       adj
 antibrouillard     adj inv
+anticancéreux      adj
 antichar           adj
 anticlérical       adj
 anticommuniste     adj
@@ -438,6 +441,7 @@ astringent         adj
 astronomique       adj
 astucieux          adj
 asymétrique        adj
+asymptotique       adj
 athée              adj
 athénien           adj
 athlétique         adj
@@ -476,13 +480,14 @@ audiovisuel        adj
 auditif            adj
 augmentatif        adj
 auguste            adj
+aulique            adj
 aurifère           adj
 austère            adj
 austral            adj pl=australs|austraux conf=80
 australien         adj
 austro-hongrois    adj f=austro-hongroise
 autarcique         adj
-authentique        adj
+authentique        adj adv=authentiquement
 autiste            adj
 autobiographique   adj
 autochtone         adj
@@ -523,6 +528,7 @@ avunculaire        adj
 axial              adj
 axiomatique        adj
 azerbaïdjanais     adj
+azéri              adj
 azoté              adj
 aztèque            adj
 azuré              adj

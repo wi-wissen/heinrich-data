@@ -39,6 +39,7 @@ canner          verb
 canoniser       verb
 cantonner       verb
 caparaçonner    verb
+capitaliser     verb
 capitonner      verb
 capituler       verb
 capoter         verb

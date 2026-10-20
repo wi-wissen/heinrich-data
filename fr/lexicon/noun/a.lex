@@ -12,6 +12,7 @@ abattant           noun g=m
 abattement         noun g=m
 abattoir           noun g=m
 abbatiale          noun g=f
+abbatiat           noun g=m
 abbaye             noun g=f
 abbé               noun g=m f=abbesse
 abbesse            noun g=f
@@ -21,6 +22,7 @@ abdication         noun g=f
 abdomen            noun g=m
 abdominal          noun g=m note=mostly plural: les abdominaux
 abdos              noun g=m pl_only style=colloquial alt=abdominaux
+abduction          noun g=f
 abeille            noun g=f
 aberration         noun g=f
 abîme              noun g=m rect=abime
@@ -75,6 +77,7 @@ académicien        noun g=m f=académicienne
 académie           noun g=f
 acajou             noun g=m note=regular plural
 acanthe            noun g=f
+acarien            noun g=m
 accablement        noun g=m
 accalmie           noun g=f
 accaparement       noun g=m
@@ -112,6 +115,7 @@ accordéoniste      noun g=m|f
 accotement         noun g=m
 accouchée          noun g=f
 accouchement       noun g=m
+accoucheur         noun g=m f=accoucheuse
 accoudoir          noun g=m
 accouplement       noun g=m
 accoutrement       noun g=m
@@ -158,6 +162,7 @@ acrimonie          noun g=f
 acrobate           noun g=m|f
 acrobatie          noun g=f
 acronyme           noun g=m
+acropole           noun g=f
 acte               noun g=m
 acteur             noun g=m f=actrice
 actif              noun g=m
@@ -212,6 +217,7 @@ admissibilité      noun g=f
 admission          noun g=f
 admonestation      noun g=f
 admonition         noun g=f
+ado                noun g=m|f style=colloquial alt=adolescent
 adolescence        noun g=f
 adolescent         noun g=m f=adolescente
 adoptant           noun g=m f=adoptante
@@ -247,6 +253,7 @@ aéronautique       noun g=f
 aéronavale         noun g=f
 aéronef            noun g=m
 aérophagie         noun g=f
+aéroplane          noun g=m
 aéroport           noun g=m
 aérosol            noun g=m
 aérostat           noun g=m
@@ -436,6 +443,7 @@ allégement         noun g=m note=traditional variant of allègement
 allégorie          noun g=f
 allégresse         noun g=f
 allégro            noun g=m
+allèle             noun g=m
 alléluia           noun g=m
 allemand           noun g=m f=allemande
 aller              noun g=m note=un aller simple
@@ -504,6 +512,7 @@ amas               noun g=m
 amateur            noun g=m|f note=feminine also amatrice
 amateurisme        noun g=m
 amazone            noun g=f
+ambages            noun g=f pl_only note=sans ambages
 ambassade          noun g=f
 ambassadeur        noun g=m f=ambassadrice
 ambiance           noun g=f
@@ -523,6 +532,7 @@ amendement         noun g=m
 aménité            noun g=f
 américain          noun g=m f=américaine
 amérindien         noun g=m f=amérindienne
+amerrissage        noun g=m
 amertume           noun g=f
 améthyste          noun g=f
 ameublement        noun g=m
@@ -531,6 +541,7 @@ amiante            noun g=m
 amibe              noun g=f
 amicale            noun g=f
 amidon             noun g=m
+amine              noun g=f
 amiral             noun g=m
 amirauté           noun g=f
 amitié             noun g=f
@@ -582,6 +593,7 @@ analgésique        noun g=m
 analogie           noun g=f
 analphabétisme     noun g=m
 analyse            noun g=f
+analyseur          noun g=m
 analyste           noun g=m|f
 ananas             noun g=m
 anaphore           noun g=f
@@ -619,6 +631,7 @@ angine             noun g=f
 angiome            noun g=m
 anglais            noun g=m f=anglaise
 angle              noun g=m
+anglicanisme       noun g=m
 anglicisme         noun g=m
 anglomanie         noun g=f
 anglophone         noun g=m|f
@@ -742,6 +755,7 @@ apocope            noun g=f
 apogée             noun g=m
 apologie           noun g=f
 apologiste         noun g=m|f
+apologue           noun g=m
 apophyse           noun g=f
 apoplexie          noun g=f
 apostasie          noun g=f
@@ -829,6 +843,7 @@ arbalétrier        noun g=m
 arbitrage          noun g=m
 arbitre            noun g=m|f
 arborescence       noun g=f
+arboretum          noun g=m
 arboriculteur      noun g=m f=arboricultrice
 arboriculture      noun g=f
 arbousier          noun g=m
@@ -858,6 +873,7 @@ archiduc           noun g=m f=archiduchesse
 archiduchesse      noun g=f
 archimandrite      noun g=m
 archipel           noun g=m
+archiprêtre        noun g=m
 architecte         noun g=m|f
 architecture       noun g=f
 architrave         noun g=f
@@ -920,6 +936,7 @@ arpenteur          noun g=m
 arquebuse          noun g=f
 arquebusier        noun g=m
 arrachage          noun g=m
+arrache-pied       noun g=m pl=- note=only in d'arrache-pied
 arrachement        noun g=m
 arrangement        noun g=m
 arrangeur          noun g=m f=arrangeuse
@@ -986,6 +1003,7 @@ ascète             noun g=m|f
 ascétisme          noun g=m
 asiatique          noun g=m|f
 asile              noun g=m
+aspartame          noun g=m
 aspect             noun g=m
 asperge            noun g=f
 aspérité           noun g=f
@@ -1160,10 +1178,12 @@ auto-stoppeur      noun g=m f=auto-stoppeuse
 autobiographie     noun g=f
 autobus            noun g=m
 autocar            noun g=m
+autocensure        noun g=f
 autochtone         noun g=m|f
 autoclave          noun g=m
 autocollant        noun g=m
 autoconsommation   noun g=f
+autocontrôle       noun g=m
 autocrate          noun g=m
 autocratie         noun g=f
 autocritique       noun g=f

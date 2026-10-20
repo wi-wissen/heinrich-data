@@ -31,6 +31,7 @@ barométrique    adj
 baroque         adj
 bas             adj f=basse place=both
 basal           adj
+basaltique      adj
 basané          adj
 basculant       adj
 basilaire       adj
@@ -93,6 +94,7 @@ bilieux         adj
 bilinéaire      adj
 bilingue        adj
 bimensuel       adj
+bimestriel      adj
 binaire         adj
 binational      adj
 binoculaire     adj

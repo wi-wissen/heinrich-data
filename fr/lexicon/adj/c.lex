@@ -28,6 +28,7 @@ câlin              adj
 calleux            adj
 calme              adj adv=calmement
 calomnieux         adj
+caloporteur        adj f=caloportrice conf=70
 calorifique        adj
 calorifuge         adj
 calorique          adj
@@ -49,7 +50,7 @@ candide            adj
 caniculaire        adj
 canin              adj
 cannelé            adj
-canonique          adj
+canonique          adj adv=canoniquement
 cantonal           adj
 caoutchouteux      adj
 capable            adj
@@ -274,6 +275,7 @@ communautaire      adj
 communautariste    adj
 communicable       adj
 communicant        adj
+communicatif       adj
 communiste         adj
 commutatif         adj
 compact            adj

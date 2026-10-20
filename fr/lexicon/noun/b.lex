@@ -346,9 +346,11 @@ bermuda          noun g=m
 bernache         noun g=f
 bernard-l'ermite noun g=m pl=bernard-l'ermite
 berne            noun g=f note=en berne
+béryllium        noun g=m
 besace           noun g=f
 besogne          noun g=f
 besoin           noun g=m
+best-of          noun g=m pl=best-of
 best-seller      noun g=m pl=best-sellers
 bestiaire        noun g=m
 bestialité       noun g=f
@@ -532,6 +534,7 @@ blockbuster      noun g=m
 blockhaus        noun g=m
 blocus           noun g=m
 blog             noun g=m
+blogueur         noun g=m f=blogueuse
 blond            noun g=m f=blonde
 blondeur         noun g=f
 blouse           noun g=f
@@ -544,6 +547,7 @@ bluffeur         noun g=m f=bluffeuse
 blush            noun g=m
 boa              noun g=m
 bobard           noun g=m style=colloquial alt=mensonge
+bobeur           noun g=m f=bobeuse
 bobine           noun g=f
 bobo             noun g=m style=colloquial
 bobsleigh        noun g=m
@@ -604,6 +608,7 @@ boomerang        noun g=m
 boqueteau        noun g=m
 borax            noun g=m
 bord             noun g=m
+bordage          noun g=m
 bordeaux         noun g=m
 bordée           noun g=f
 bordel           noun g=m style=vulgar alt=désordre
@@ -842,6 +847,7 @@ brodequin        noun g=m
 broderie         noun g=f
 brodeur          noun g=m f=brodeuse
 broiement        noun g=m
+bromure          noun g=m
 bronche          noun g=f
 bronchiolite     noun g=f
 bronchite        noun g=f
@@ -869,6 +875,7 @@ browning         noun g=m
 broyage          noun g=m
 broyeur          noun g=m
 bru              noun g=f
+bruant           noun g=m
 brucelles        noun g=f pl_only
 brugnon          noun g=m
 bruine           noun g=f

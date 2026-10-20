@@ -37,6 +37,7 @@ sans      adp
 sauf      adp
 selon     adp
 sous      adp
+suivant   adp  note=suivant les cas; also the present participle of suivre
 sur       adp
 vers      adp
 via       adp

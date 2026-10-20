@@ -231,6 +231,7 @@ approprier     verb
 approuver      verb
 approvisionner verb
 appuyer        verb
+apurer         verb
 arabiser       verb
 araser         verb
 arbitrer       verb
@@ -253,6 +254,7 @@ arroger        verb pronominal
 arrondir       verb class=ir
 arroser        verb
 articuler      verb
+artificialiser verb
 aseptiser      verb
 asperger       verb
 asphyxier      verb
