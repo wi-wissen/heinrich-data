@@ -1,2 +1,21 @@
-maintenant  adv
-mal         adv
+maintenant       adv
+mal              adv
+maritalement     adv
+marre            adv style=colloquial alt=assez note=only in en avoir marre
+maternellement   adv
+méchamment       adv
+médicalement     adv
+médiocrement     adv
+mélancoliquement adv
+mensuellement    adv
+merveilleusement adv
+militairement    adv
+misérablement    adv
+moderato         adv
+mondialement     adv
+monstrueusement  adv
+mortellement     adv
+moyennement      adv
+mûrement         adv
+musicalement     adv
+mystérieusement  adv

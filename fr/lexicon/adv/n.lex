@@ -1,4 +1,5 @@
 naguère       adv
+narquoisement adv
 néanmoins     adv
 négligemment  adv
 nommément     adv

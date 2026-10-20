@@ -1,7 +1,9 @@
-obscurément    adv
-opportunément  adv
-originairement adv
-originellement adv
-ostensiblement adv
-outrageusement adv
-ouvertement    adv
+obscurément        adv
+opérationnellement adv
+opportunément      adv
+originairement     adv
+originalement      adv
+originellement     adv
+ostensiblement     adv
+outrageusement     adv
+ouvertement        adv
