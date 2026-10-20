@@ -58,6 +58,7 @@ hémorragique   adj
 hépatique      adj
 heptagonal     adj
 héraldique     adj
+héraultais      adj
 herbacé        adj
 herbeux        adj
 herbicide      adj
@@ -97,6 +98,7 @@ hippique       adj
 hippocratique  adj
 hippodamien    adj
 hippomobile    adj
+hippophage      adj
 hirsute        adj
 hispanique     adj
 hispano-américain adj
@@ -164,6 +166,7 @@ humiliant      adj
 humoristique   adj
 huppé          adj aspirate
 hurlant        adj aspirate
+hyaluronique    adj
 hybride        adj
 hydratant      adj
 hydraulique    adj
@@ -182,6 +185,7 @@ hydrosoluble   adj
 hydrothermal   adj
 hygiénique     adj
 hygrométrique  adj
+hygrophile      adj
 hygroscopique  adj
 hyperactif     adj
 hyperbare      adj
@@ -192,6 +196,7 @@ hypergamique   adj
 hyperglycémiant adj
 hypermétrope   adj
 hyperréaliste  adj
+hyperréel       adj
 hypersensible  adj
 hypertendu     adj
 hypertensif    adj

@@ -76,6 +76,7 @@ effroyable     adj adv=effroyablement
 électromécanique adj
 électronique   adj adv=électroniquement
 électronucléaire adj
+électrophysiologique adj
 électroportatif adj
 électrostatique adj
 électrotechnique adj
@@ -89,6 +90,7 @@ elfique        adj
 élisabéthain   adj
 élitaire       adj
 élitiste       adj
+ellagique       adj
 elliptique     adj adv=elliptiquement
 élogieux       adj adv=élogieusement
 éloquent       adj adv=éloquemment
@@ -260,6 +262,7 @@ escomptable    adj
 espagnol       adj
 espérantophone adj
 espiègle       adj
+essentialiste   adj
 essentiel      adj adv=essentiellement
 esseulé        adj
 esthétique     adj adv=esthétiquement
@@ -419,6 +422,7 @@ extrascolaire  adj
 extrasensoriel adj
 extraterrestre adj
 extraterritorial adj
+extratropical   adj
 extravagant    adj
 extravéhiculaire adj
 extraverti     adj

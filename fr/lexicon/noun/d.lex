@@ -41,6 +41,7 @@ datagramme     noun g=m
 datation noun g=f
 datcha noun g=f
 date noun g=f
+date-butoir     noun g=f pl=dates-butoirs
 datif noun g=m
 dation noun g=f
 datte noun g=f
@@ -78,9 +79,11 @@ déboîtement noun g=m rect=déboitement
 débordement noun g=m
 débosselage noun g=m
 débouché noun g=m
+débourrement    noun g=m
 débours noun g=m
 déboursement noun g=m
 débrayage noun g=m
+débriefing      noun g=m
 débris noun g=m
 débroussaillage noun g=m
 débroussaillement noun g=m
@@ -251,6 +254,7 @@ définition noun g=f
 défiscalisation noun g=f
 déflagration noun g=f
 déflation noun g=f
+déflexion       noun g=f
 défonceuse noun g=f
 déforestation noun g=f
 déformation noun g=f
@@ -418,6 +422,7 @@ demoiselle noun g=f
 démolisseur noun g=m f=démolisseuse
 démolition noun g=f
 démon noun g=m
+démondialisation noun g=f
 démonétisation noun g=f
 démonstrateur noun g=m f=démonstratrice
 démonstration noun g=f
@@ -763,6 +768,7 @@ dévotion noun g=f
 dévouement noun g=m
 dextérité noun g=f
 dharma         noun g=m
+dhole           noun g=m
 diabète noun g=m
 diabétique noun g=m|f
 diabétologie noun g=f
@@ -863,6 +869,7 @@ dimanche noun g=m
 dîme noun g=f rect=dime
 dimension noun g=f
 dimensionnement noun g=m
+diméthoate      noun g=m
 diminutif noun g=m
 diminution noun g=f
 dimorphisme noun g=m
@@ -1033,7 +1040,7 @@ doigté noun g=m
 doigtier noun g=m
 dojo noun g=m
 dol noun g=m
-doléances noun g=f pl_only
+doléance noun g=f note=mostly plural (les doléances, cahiers de doléances)
 doline noun g=f
 dollar noun g=m
 dolman noun g=m

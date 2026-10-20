@@ -328,6 +328,7 @@ ellipsoïde     noun g=m
 éloignement    noun g=m
 élongation     noun g=f
 éloquence      noun g=f
+éloxage         noun g=m conf=80 note=anodising of aluminium
 élu            noun g=m f=élue
 élucidation    noun g=f
 élucubration   noun g=f
@@ -368,6 +369,7 @@ embranchement  noun g=m
 embrasement    noun g=m
 embrassade     noun g=f
 embrassement   noun g=m
+embrasseur      noun g=m f=embrasseuse
 embrasure      noun g=f
 embrayage      noun g=m
 embrigadement  noun g=m
@@ -807,6 +809,7 @@ enzyme         noun g=f note=also found as masculine
 épitaphe       noun g=f
 épithélium     noun g=m
 épithète       noun g=f
+épitope         noun g=m
 épître         noun g=f rect=épitre
 épizootie      noun g=f
 épluchage      noun g=m
@@ -954,10 +957,13 @@ esquive        noun g=f
 essai          noun g=m
 essaim         noun g=m
 essaimage      noun g=m
+essartage       noun g=m
 essayage       noun g=m
 essayeur       noun g=m f=essayeuse
 essayiste      noun g=m|f
 essence        noun g=f
+essentialisation noun g=f
+essentialiste   noun g=m|f
 essentiel      noun g=m pl=- note=l'essentiel; nominalised adjective, no plural
 essieu         noun g=m
 essor          noun g=m
@@ -1240,6 +1246,7 @@ existentialisme noun g=m
 existentialiste noun g=m|f
 exo            noun g=m style=colloquial alt=exercice
 exobiologie    noun g=f
+exobiologiste   noun g=m|f
 exocet         noun g=m
 exocytose      noun g=f
 exode          noun g=m
@@ -1248,6 +1255,7 @@ exonération    noun g=f
 exonyme        noun g=m
 exophtalmie    noun g=f
 exoplanète     noun g=f
+exoplanétologie noun g=f
 exorcisme      noun g=m
 exorciste      noun g=m|f
 exorde         noun g=m

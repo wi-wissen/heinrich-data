@@ -420,6 +420,7 @@ esquiver       verb
 essaimer       verb
 essarter       verb
 essayer        verb
+essentialiser   verb
 essorer        verb
 essoucher      verb
 essouffler     verb

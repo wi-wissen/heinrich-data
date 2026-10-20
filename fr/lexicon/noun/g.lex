@@ -61,6 +61,7 @@ ganglion       noun g=m
 gangrène       noun g=f
 gangster       noun g=m
 gangue         noun g=f
+ganja           noun g=f
 gant           noun g=m
 garage         noun g=m
 garagiste      noun g=m|f
@@ -177,6 +178,7 @@ générateur     noun g=m
 génération     noun g=f
 génératrice    noun g=f note=electric generator; the machine sense, not the feminine of générateur
 générique      noun g=m note=film credits; generic drug
+génériqueur     noun g=m
 générosité     noun g=f
 genèse         noun g=f
 genêt          noun g=m
@@ -235,6 +237,7 @@ gérant         noun g=m f=gérante
 gerbe          noun g=f
 gerboise       noun g=f
 gerçure        noun g=f
+gerfaut         noun g=m
 gériatre       noun g=m|f
 gériatrie      noun g=f
 germanisation  noun g=f
@@ -319,6 +322,7 @@ globalité      noun g=f
 globe          noun g=m
 globe-trotteur noun g=m f=globe-trotteuse pl=globe-trotteurs
 globule        noun g=m
+globuline       noun g=f
 gloire         noun g=f
 glorification  noun g=f
 gloriole       noun g=f
@@ -337,6 +341,7 @@ glucose        noun g=m
 gluon          noun g=m
 gluten         noun g=m
 glycémie       noun g=f
+glycéraldéhyde  noun g=m
 glycérine      noun g=f
 glycérol       noun g=m
 glycine        noun g=f
@@ -435,6 +440,7 @@ gouvernement   noun g=m
 gouverneur     noun g=m f=gouverneure conf=85 note=feminine gouverneure is recent usage
 gouvernorat    noun g=m
 goyave         noun g=f
+graal           noun g=m
 grabat         noun g=m
 grabataire     noun g=m|f
 graben         noun g=m
@@ -610,6 +616,7 @@ grumeau        noun g=m
 gruyère        noun g=m
 guarana        noun g=m
 gué            noun g=m
+guéguerre       noun g=f style=colloquial alt=querelle|conflit
 guelfe         noun g=m
 guenille       noun g=f
 guenon         noun g=f

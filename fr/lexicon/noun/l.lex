@@ -276,6 +276,7 @@ lectine        noun g=f
 lectionnaire   noun g=m
 lectorat       noun g=m
 lecture        noun g=f
+led             noun g=f note=light-emitting diode (also written LED)
 légalisation   noun g=f
 légalisme      noun g=m
 légaliste      noun g=m|f
@@ -398,6 +399,7 @@ libéralité     noun g=f
 libérateur     noun g=m f=libératrice
 libération     noun g=f
 libero         noun g=m conf=90 note=also written libéro
+libertarianisme noun g=m
 liberté        noun g=f
 libertin       noun g=m f=libertine
 libertinage    noun g=m
@@ -641,6 +643,7 @@ logeur         noun g=m f=logeuse
 loggia         noun g=f
 logiciel       noun g=m
 logicien       noun g=m f=logicienne
+logicisme       noun g=m
 logique        noun g=f
 logis          noun g=m
 logisticien    noun g=m f=logisticienne
