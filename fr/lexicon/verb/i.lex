@@ -2,13 +2,16 @@
 idéaliser      verb
 identifier     verb
 idolâtrer      verb
+ignifuger      verb
 ignorer        verb
 illuminer      verb
+illusionner    verb
 illustrer      verb
 imaginer       verb
 imbiber        verb
 imbriquer      verb
 imiter         verb
+immatérialiser verb
 immatriculer   verb
 immerger       verb
 immigrer       verb pp_inv
@@ -25,6 +28,7 @@ implanter      verb
 implémenter    verb
 impliquer      verb
 implorer       verb
+imploser       verb pp_inv
 importer       verb
 importuner     verb
 imposer        verb
@@ -56,6 +60,7 @@ inculquer      verb
 incurver       verb
 indemniser     verb
 indexer        verb
+indifférer     verb
 indigner       verb
 indiquer       verb
 indisposer     verb
@@ -66,6 +71,7 @@ infantiliser   verb
 infecter       verb
 inféoder       verb
 inférer        verb
+inférioriser   verb
 infester       verb
 infiltrer      verb
 infirmer       verb
@@ -86,12 +92,14 @@ initialiser    verb
 initier        verb
 injecter       verb
 injurier       verb
+innerver       verb
 innocenter     verb
 innover        verb
 inoculer       verb
 inonder        verb
 inquiéter      verb
 inscrire       verb class=écrire
+inséminer      verb
 insensibiliser verb
 insérer        verb
 insinuer       verb
@@ -107,16 +115,19 @@ instituer      verb
 institutionnaliser verb
 instruire      verb class=conduire
 instrumentaliser verb
+instrumenter   verb
 insuffler      verb
 insulter       verb
 insurger       verb pronominal
 intégrer       verb
+intellectualiser verb
 intensifier    verb
 intenter       verb
 interagir      verb class=ir pp_inv
 intercaler     verb
 intercéder     verb pp_inv
 intercepter    verb
+interchanger   verb
 interconnecter verb
 interdire      verb class=interdire
 intéresser     verb
@@ -124,9 +135,12 @@ interfacer     verb
 interférer     verb pp_inv
 intérioriser   verb
 interjeter     verb class=double
+interloquer    verb
 internationaliser verb
 interner       verb
 interpeller    verb note=1990 spelling interpeler (conjugated like appeler: interpelle, interpelons) not generated: rect= cannot express it
+interpénétrer  verb
+interpoler     verb
 interposer     verb
 interpréter    verb
 interroger     verb
@@ -141,6 +155,7 @@ intoxiquer     verb
 intriguer      verb
 introduire     verb class=conduire
 introniser     verb
+intuber        verb
 invalider      verb
 invectiver     verb
 inventer       verb
@@ -151,9 +166,11 @@ investir       verb class=ir
 inviter        verb
 invoquer       verb
 ioniser        verb
+iriser         verb
 ironiser       verb pp_inv
 irradier       verb
 irriguer       verb
 irriter        verb
+islamiser      verb
 isoler         verb
 itérer         verb

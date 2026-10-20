@@ -16,6 +16,7 @@ jais           noun g=m
 jalon          noun g=m
 jalonnement    noun g=m
 jalousie       noun g=f
+jaloux         noun g=m f=jalouse
 jambage        noun g=m
 jambe          noun g=f
 jambière       noun g=f
@@ -27,6 +28,7 @@ janséniste     noun g=m|f
 jante          noun g=f
 janvier        noun g=m
 japonais       noun g=m note=the language; persons are Japonais (propn)
+japonaiserie   noun g=f
 japonisme      noun g=m
 jappement      noun g=m
 jaquette       noun g=f
@@ -48,6 +50,7 @@ jaugeage       noun g=m
 jaunisse       noun g=f
 jaunissement   noun g=m
 javel          noun g=f note=eau de Javel; la javel
+javellisation  noun g=f
 javelot        noun g=m
 jazz           noun g=m
 je-ne-sais-quoi noun g=m inv
@@ -69,6 +72,7 @@ jeudi          noun g=m
 jeune          noun g=m|f
 jeûne          noun g=m
 jeunesse       noun g=f
+jeunisme       noun g=m
 jingle         noun g=m
 joaillerie     noun g=f
 joaillier      noun g=m f=joaillière
@@ -78,10 +82,12 @@ joggeur        noun g=m f=joggeuse
 jogging        noun g=m
 joie           noun g=f
 joint          noun g=m
+jointoiement   noun g=m
 jointure       noun g=f
 joker          noun g=m
 jonc           noun g=m
 jonction       noun g=f
+jonglage       noun g=m
 jonglerie      noun g=f
 jongleur       noun g=m f=jongleuse
 jonquille      noun g=f
@@ -149,6 +155,7 @@ jusant         noun g=m
 jusqu'au-boutisme noun g=m pl=- note=no plural
 jusqu'au-boutiste noun g=m|f pl=jusqu'au-boutistes
 justaucorps    noun g=m
+juste-milieu   noun g=m pl=justes-milieux
 justesse       noun g=f
 justice        noun g=f
 justiciable    noun g=m|f

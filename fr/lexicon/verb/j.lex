@@ -5,6 +5,7 @@ jalonner       verb
 jalouser       verb
 japper         verb pp_inv
 jardiner       verb pp_inv
+jargonner      verb pp_inv
 jaser          verb pp_inv
 jauger         verb
 jaunir         verb class=ir
@@ -25,4 +26,5 @@ juguler        verb
 jumeler        verb class=double
 jurer          verb
 justifier      verb
+juter          verb pp_inv
 juxtaposer     verb
