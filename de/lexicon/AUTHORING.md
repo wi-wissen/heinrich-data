@@ -253,6 +253,31 @@ lemma also has a neutral sense, give it its own `sense=` or leave it unmarked: a
 hinted when every reading is marked. `alt=` names a neutral alternative (`_` for a space,
 `alt=Sinti_und_Roma`) only where one is established and uncontroversial; otherwise omit it.
 
+### 4.11 Trusted forms (`de/frequency/trusted_forms.tsv`)
+
+The list of trusted forms holds real words of our frequency list that the lexicon does not know
+yet; the spell checker accepts them without an entry, but they get no readings (no part of speech,
+no inflection), so grammar rules cannot use them. It is **generated**, never edited by hand
+(`heinrich-lexicon trusted`, `Heinrich/docs/LEXICON_TOOLS.md`), and it is no work list and no
+source of lexicon data: authors write entries from the `real_gap` work lists as before. A form
+that gets an entry drops out of the list when it is regenerated (covered forms are never
+trusted), so regenerate it after a batch is merged:
+
+```sh
+Heinrich/tools/build-packs.sh . /tmp/packs --no-trusted
+heinrich-lexicon trusted de/lexicon de/frequency/forms.tsv --names de/names \
+    --other-lexicon en/lexicon --other-forms en/frequency/forms.tsv \
+    --morph-pack /tmp/packs/de-morph.pack --freq-pack /tmp/packs/de-freq.pack \
+    --names-pack /tmp/packs/de-names.pack --exclude de/frequency/trusted_excluded.tsv \
+    -o de/frequency/trusted_forms.tsv
+```
+
+Every entry is checked by the clean-room reviewer; the forms it disputes go into
+`de/frequency/trusted_excluded.tsv` (`form <TAB> category`) and stay out of every regenerated
+list. A disputed form is re-admitted only when it is clearly standard German from your own
+knowledge; in doubt it stays excluded. If you see a trusted form that is a misspelling, an old
+spelling or a name, report it instead of editing the list by hand.
+
 ## 5. Self-check (mandatory before handing in)
 
 1. For every new or changed entry, dump it and read every form:

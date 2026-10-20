@@ -17,7 +17,9 @@ build scripts and finished language packs.
 - `de/lexicon/` – lemmas with inflection data (text format, diff-friendly), sharded by part of
   speech and first letter; `de/lexicon/closed/` – closed word classes (articles, pronouns,
   prepositions …), written by hand. Authoring protocol: `de/lexicon/AUTHORING.md`
-- `de/frequency/` – our own word-form frequency list
+- `de/frequency/` – our own word-form frequency list, and `trusted_forms.tsv`: real words of it
+  that the lexicon lacks, which the spell checker accepts (generated, `de/lexicon/AUTHORING.md` §4.11),
+  and `trusted_excluded.tsv`: forms the reviewer disputed, never trusted
 - `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
