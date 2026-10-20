@@ -46,7 +46,9 @@ catapult verb
 catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
 cater verb
+caterwaul verb
 caucus verb
+caulk verb
 cause verb
 caution verb
 cave verb

@@ -14,6 +14,7 @@ pad noun
 paddle noun
 paddock noun
 padre noun
+paella noun
 pagan noun
 paganism noun pl=- note=uncountable
 page noun
@@ -30,6 +31,7 @@ paisley noun
 pajamas noun pl_only gb=pyjamas
 Paki noun style=offensive note=slur for South Asians, especially Pakistanis
 Pakistani noun note=demonym or religious name, capitalized
+pakora noun
 pal noun style=colloquial alt=friend
 palace noun
 palate noun
@@ -47,14 +49,18 @@ palsy noun
 pamphlet noun
 pan noun
 pancake noun
+pancetta noun pl=- note=uncountable
 panda noun
 pandemic noun
 pane noun
+paneer noun note=countable for a whole cheese or a variety, also a mass noun
 panel noun
 panelist noun gb=panellist
+panettone noun pl=panettones|panettoni conf=90 note=unsure how common the Italian plural panettoni is
 pang noun
 panhandle noun
 panic noun
+panini noun conf=90 note=used as a singular in English; Italian singular panino
 pantheon noun
 panther noun
 pantomime noun
@@ -62,12 +68,16 @@ pantry noun
 pants noun pl_only
 papa noun
 papacy noun
+papadum noun conf=90 note=also poppadom
 papaya noun
 paper noun
 paperback noun
 paperclip noun note=also paper clip
 paperwork noun pl=- note=uncountable
+papier-mache noun pl=- conf=90 note=uncountable; also written papier-mâché
+papier-mâché noun pl=- conf=90 note=uncountable; also written papier-mache
 papist noun style=offensive note=historical derogatory term for Roman Catholics
+pappardelle noun pl=- note=uncountable pasta name, already plural in Italian
 paprika noun pl=- note=uncountable
 papyrus noun pl=papyri|papyruses
 par noun
@@ -96,6 +106,7 @@ parapet noun
 paraphernalia noun pl=- note=uncountable
 parasite noun
 parasol noun
+paratha noun
 paratrooper noun
 parcel noun
 parchment noun
@@ -105,6 +116,8 @@ parent noun
 parentage noun pl=- note=uncountable
 parenthesis noun pl=parentheses
 parenthood noun pl=- note=uncountable
+parfait noun
+paring noun
 parish noun
 parishioner noun
 Parisian noun
@@ -118,9 +131,11 @@ parley noun
 parliament noun
 parliamentarian noun
 parlor noun gb=parlour
+parmesan noun note=countable for a whole cheese or a variety, also a mass noun; also capitalized Parmesan
 parody noun
 parole noun
 paroxysm noun
+parquet noun pl=- note=uncountable
 parrot noun
 parser noun
 parsley noun pl=- note=uncountable
@@ -152,6 +167,7 @@ passcode noun
 passenger noun
 passer-by noun pl=passers-by
 passion noun
+passionfruit noun pl=passionfruit|passionfruits conf=90 note=also passion fruit
 passive noun
 passphrase noun
 passport noun
@@ -159,12 +175,16 @@ password noun
 pasta noun
 paste noun
 pastime noun
+pastis noun pl=pastis note=countable for a glass or a variety, also a mass noun
 pastor noun
+pastrami noun pl=- note=uncountable
 pastry noun
 pasture noun
+pasty noun note=a filled pastry; Cornish pasty
 pat noun
 patch noun
 patchwork noun
+pate noun conf=80 note=without accent for pâté; also an old word for the top of the head
 patent noun
 paternity noun pl=- note=uncountable
 path noun
@@ -193,6 +213,7 @@ pauper noun
 pause noun
 pavement noun
 pavilion noun
+pavlova noun
 paw noun
 pawn noun
 pawnbroker noun
@@ -209,6 +230,7 @@ payoff noun
 payout noun
 payroll noun
 payslip noun region=GB conf=90 note=US pay stub
+paystub noun region=US conf=90 note=also written pay stub
 paywall noun
 PC noun abbr note=personal computer
 PCB noun abbr note=polychlorinated biphenyl; printed circuit board
@@ -230,6 +252,8 @@ peasant noun
 peasantry noun pl=- note=uncountable
 peat noun
 pebble noun
+pecan noun
+pecorino noun note=countable for a whole cheese or a variety, also a mass noun
 peculiarity noun
 pedal noun
 peddler noun gb=pedlar|peddler
@@ -247,6 +271,8 @@ peg noun
 pejorative noun
 pelican noun
 pellet noun
+pelmeni noun pl=- conf=90 note=already plural in Russian; used as a mass noun
+pelmet noun region=GB
 pelt noun
 pelvis noun pl=pelvises|pelves
 pen noun
@@ -266,6 +292,7 @@ penitent noun
 penitentiary noun
 penknife noun pl=penknives
 pennant noun
+penne noun pl=- note=uncountable pasta name, already plural in Italian
 penny noun pl=pennies|pence
 pension noun
 pensioner noun
@@ -274,12 +301,15 @@ pentathlon noun
 penthouse noun
 people noun note=plural peoples means nations; people as plural of person is in the person entry
 pepper noun
+peppermint noun
+pepperoni noun
 peptide noun
 percent noun pl=percent note=invariable after numbers; British also writes per cent
 percentage noun
 percentile noun
 perception noun
 perch noun
+percolator noun
 percussion noun pl=- note=uncountable
 perdition noun pl=- note=uncountable
 perennial noun
@@ -308,6 +338,7 @@ perplexity noun
 persecution noun
 perseverance noun pl=- note=uncountable
 Persian noun note=demonym or religious name, capitalized
+persimmon noun
 persistence noun pl=- note=uncountable
 person noun pl=people|persons note=persons mainly in formal and legal use
 persona noun pl=personas|personae
@@ -338,6 +369,7 @@ petticoat noun
 pew noun
 pewter noun pl=- note=uncountable
 pH noun abbr pl=- note=measure of acidity
+phablet noun
 phage noun
 phalanx noun pl=phalanxes|phalanges
 phantom noun
@@ -360,6 +392,7 @@ philology noun pl=- note=uncountable
 philosopher noun
 philosophy noun
 phishing noun pl=- note=uncountable
+pho noun pl=- note=uncountable
 phoenix noun
 phone noun
 phonetics noun pl=- note=takes a singular verb
@@ -380,6 +413,8 @@ photosynthesis noun pl=- note=uncountable
 phrase noun
 phraseology noun
 phratry noun
+phrenologist noun
+phrenology noun pl=- note=uncountable
 phylum noun pl=phyla
 physician noun
 physicist noun
@@ -390,6 +425,7 @@ physiology noun
 pianist noun
 piano noun pl=pianos
 piazza noun pl=piazzas
+piccalilli noun pl=- note=uncountable
 pick noun
 pickaninny noun style=offensive note=racist term for Black children
 picket noun
@@ -400,14 +436,19 @@ picturesqueness noun pl=- note=uncountable
 pie noun
 piece noun
 pier noun
+pierogi noun pl=pierogi|pierogis conf=80 note=pierogi is used as singular and plural
 piety noun pl=- note=uncountable
 pig noun
+pig-headedness noun pl=- note=uncountable
 pigeon noun
+pigeonhole noun
 piglet noun
 pigment noun
 pike noun
 pikey noun style=offensive note=slur for Travellers and Roma
+pilaf noun pl=pilafs
 pilaster noun
+pilau noun conf=90 note=also pilaf; unsure how common pilau is outside Britain and South Asia
 pile noun
 pilgrim noun
 pilgrimage noun
@@ -429,6 +470,7 @@ pink noun
 pinkie noun note=little finger; also pinky
 pinnacle noun
 pinniped noun
+pinot noun conf=90 note=often capitalized Pinot
 pint noun
 pioneer noun
 PIP noun abbr conf=80 note=Personal Independence Payment (UK benefit)
@@ -439,6 +481,7 @@ pique noun
 piracy noun pl=- note=uncountable
 piranha noun
 pirate noun
+pistachio noun pl=pistachios
 pistol noun
 piston noun
 pit noun
@@ -474,6 +517,7 @@ planetarium noun pl=planetariums|planetaria
 plank noun
 planner noun
 plant noun
+plantain noun
 plantation noun
 planter noun
 plaque noun
@@ -486,6 +530,7 @@ plateau noun pl=plateaus|plateaux
 platform noun
 platinum noun pl=- note=uncountable
 platoon noun
+platter noun
 play noun
 playback noun
 playboy noun
@@ -497,6 +542,7 @@ playmate noun
 playoff noun gb=play-off|playoff
 playpen noun
 plaything noun
+playthrough noun
 playtime noun
 playwright noun
 plaza noun
@@ -511,6 +557,7 @@ plenipotentiary noun
 plenty noun pl=- note=uncountable
 plethora noun
 plexus noun pl=plexuses|plexus
+pliancy noun pl=- note=uncountable
 plight noun
 plot noun
 plotter noun
@@ -526,6 +573,7 @@ plumbing noun pl=- note=uncountable
 plume noun
 plunder noun pl=- note=uncountable
 plunge noun
+plunger noun
 plural noun
 pluralism noun
 plurality noun
@@ -535,11 +583,14 @@ ply noun
 plywood noun pl=- note=uncountable
 PM noun abbr note=Prime Minister
 pneumonia noun pl=- note=uncountable
+PNG noun abbr note=an image file format
 poacher noun
+poblano noun pl=poblanos
 pocket noun
 pocketbook noun
 pod noun
 podcast noun
+podcaster noun
 podium noun
 poem noun
 poet noun
@@ -555,6 +606,7 @@ polarity noun
 polarization noun gb=polarisation|polarization
 Pole noun note=a person from Poland
 pole noun
+polenta noun pl=- note=uncountable
 police noun pl_only note=takes plural agreement: the police are
 policeman noun pl=policemen
 policewoman noun pl=policewomen
@@ -586,12 +638,14 @@ polymerase noun
 polynomial noun
 polytechnic noun
 pomegranate noun
+pomelo noun pl=pomelos
 pomp noun pl=- note=uncountable
 poncho noun pl=ponchos
 pond noun
 pontoon noun
 pony noun
 ponytail noun
+ponzu noun pl=- note=uncountable
 poofter noun style=offensive note=homophobic slur
 pool noun
 poop noun style=colloquial alt=excrement
@@ -599,6 +653,7 @@ pop noun
 popcorn noun pl=- note=uncountable
 pope noun
 poplar noun
+poppadom noun conf=90 note=also papadum
 popper noun
 poppy noun
 populace noun
@@ -608,6 +663,7 @@ populist noun
 popup noun conf=85 note=also pop-up
 porcelain noun
 porch noun
+porcini noun pl=- conf=90 note=used as singular and plural
 porcupine noun
 pore noun
 pork noun pl=- note=uncountable
@@ -624,6 +680,7 @@ portfolio noun pl=portfolios
 portico noun pl=porticoes|porticos
 portion noun
 portmanteau noun pl=portmanteaus|portmanteaux
+portobello noun pl=portobellos
 portrait noun
 portraiture noun pl=- note=uncountable
 portrayal noun
@@ -647,6 +704,7 @@ postcode noun region=GB note=US zip code
 poster noun
 posterior noun
 posterity noun pl=- note=uncountable
+postgrad noun
 postgraduate noun
 postman noun pl=postmen
 postmark noun
@@ -668,6 +726,7 @@ potter noun
 pottery noun
 potty noun
 pouch noun
+pouf noun pl=poufs gb=pouffe|pouf note=pouffe is the usual British spelling
 poultry noun pl=- note=uncountable
 pound noun
 pounder noun
@@ -779,6 +838,7 @@ primacy noun pl=- note=uncountable
 primary noun
 primate noun
 prime noun
+primer noun
 primetime noun pl=- note=also written prime time
 primrose noun
 prince noun
@@ -841,6 +901,7 @@ profile noun
 profit noun
 profitability noun pl=- note=uncountable
 profiteering noun pl=- note=uncountable
+profiterole noun
 profligate noun
 profusion noun
 progenitor noun
@@ -861,6 +922,7 @@ projector noun
 proliferation noun
 prologue noun
 prolongation noun
+prom noun
 promenade noun
 prominence noun note=plural prominences: solar prominences, projections
 promise noun
@@ -896,8 +958,10 @@ proprietor noun
 proprietorship noun
 propriety noun
 propulsion noun pl=- note=uncountable
+prosciutto noun pl=- note=uncountable
 proscription noun
 prose noun pl=- note=uncountable
+prosecco noun pl=proseccos
 prosecution noun
 prosecutor noun
 prospect noun
@@ -932,6 +996,7 @@ provider noun
 province noun
 provision noun
 provocation noun
+provolone noun note=countable for a whole cheese or a variety, also a mass noun
 provost noun
 prow noun
 prowess noun pl=- note=uncountable
@@ -976,6 +1041,7 @@ pulp noun
 pulpit noun
 pulse noun
 pump noun
+pumpernickel noun pl=- note=uncountable
 pumpkin noun
 pun noun
 punch noun
@@ -993,9 +1059,11 @@ puppet noun
 puppy noun
 purchase noun
 purchaser noun
+puree noun conf=90 note=also written purée
 purgatory noun
 purge noun
 purification noun
+purifier noun
 puritan noun
 purity noun pl=- note=uncountable
 purple noun
@@ -1007,6 +1075,7 @@ pursuance noun pl=- note=uncountable
 pursuer noun
 pursuit noun
 purview noun
+purée noun conf=90 note=also written puree
 push noun
 pushchair noun region=GB note=US stroller
 pushpin noun
@@ -1016,3 +1085,4 @@ pygmy noun
 pylon noun
 pyramid noun
 python noun
+pâté noun conf=90 note=also written pate

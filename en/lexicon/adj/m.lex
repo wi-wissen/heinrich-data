@@ -137,6 +137,7 @@ minor         adj
 minty adj
 minute        adj cmp=er|more adv=minutely note=tiny
 miraculous adj cmp=more adv=miraculously
+mirrorless adj
 miscellaneous adj
 mischievous adj cmp=more adv=mischievously
 miserable     adj cmp=more adv=miserably

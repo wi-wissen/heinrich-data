@@ -176,6 +176,7 @@ exonerate verb
 expand verb
 expatriate verb
 expect verb
+expectorate verb
 expedite verb
 expel verb double
 expend verb

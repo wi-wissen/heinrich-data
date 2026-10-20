@@ -10,7 +10,7 @@ easterly adj
 eastern adj
 easternmost adj
 easy adj cmp=er adv=easily
-eccentric adj
+eccentric adj cmp=more adv=eccentrically
 ecclesiastical adj
 eclectic adj cmp=more adv=eclectically
 ecological adj adv=ecologically

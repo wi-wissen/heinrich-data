@@ -1,5 +1,6 @@
 laborious adj adv=laboriously
 laden         adj
+laggy adj cmp=er conf=90 note=informal computing word; unsure about the comparison
 lame adj cmp=er adv=lamely
 lamentable adj adv=lamentably
 languid adj cmp=more adv=languidly
@@ -59,6 +60,7 @@ liberal       adj adv=liberally
 libertarian adj
 Libyan        adj
 licensable adj
+lidless adj
 lifeless adj
 lifelong      adj attr_only
 lifesaving adj
@@ -103,6 +105,7 @@ longstanding  adj
 longtime      adj attr_only
 loony adj cmp=er style=colloquial|offensive alt=crazy|eccentric note=offensive when about mental illness
 loose         adj cmp=er adv=loosely
+loose-limbed adj
 lordly adj cmp=er|more
 loth adj pred_only conf=90 note=variant spelling of loath
 loud          adj cmp=er adv=loudly

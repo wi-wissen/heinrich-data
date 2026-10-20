@@ -24,6 +24,7 @@ paraphrase verb
 parcel verb
 parch verb
 pardon verb
+pare verb
 parent verb
 park verb
 parley verb
@@ -95,6 +96,7 @@ peter verb
 petition verb
 petrify verb
 phase verb
+phish verb
 phone verb
 photocopy verb
 photograph verb
@@ -106,6 +108,7 @@ picnic verb
 picture verb
 piece verb
 pierce verb
+pigeonhole verb
 pigment verb
 pile verb
 pillage verb
@@ -122,6 +125,7 @@ pit verb
 pitch verb
 pity verb
 pivot verb
+pixelate verb
 place verb
 plagiarize verb gb=plagiarise|plagiarize
 plague verb
@@ -131,6 +135,7 @@ plaster verb
 plat verb
 plate verb
 play verb
+playact verb
 plead verb past=pleaded|pled[US] pp=pleaded|pled[US]
 please verb
 pledge verb
@@ -276,6 +281,7 @@ puff verb
 puke verb style=colloquial alt=vomit
 pull verb
 pulse verb
+pummel verb
 pump verb
 pun verb
 punch verb
@@ -284,12 +290,14 @@ puncture verb
 punish verb
 punt verb
 purchase verb
+puree verb past=pureed pp=pureed ing=pureeing conf=90 note=also written purée
 purge verb
 purify verb
 purport verb
 purpose verb
 purr verb
 pursue verb
+purée verb past=puréed pp=puréed ing=puréeing conf=90 note=also written puree
 push verb
 put verb past=put pp=put
 puzzle verb

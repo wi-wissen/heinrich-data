@@ -1,4 +1,5 @@
 QPAM          noun abbr conf=85 note=qualified professional asset manager (US)
+QR noun abbr pl=- note=in QR code
 quad noun
 quadrangle noun
 quadrant noun
@@ -29,18 +30,21 @@ quay noun
 queen         noun
 queer         noun
 query         noun
+quesadilla noun
 quest         noun
 question      noun
 questioner noun
 questioning   noun
 questionnaire noun
 queue noun
+quiche noun
 quickness noun pl=- note=uncountable
 quid noun pl=quid|quids note=quid (money) has plural quid, quids for tobacco
 quiet         noun pl=- note=uncountable
 quietness noun pl=- note=uncountable
 quill noun
 quilt noun
+quince noun
 quinoa noun pl=- note=uncountable
 quinone noun
 quintet noun

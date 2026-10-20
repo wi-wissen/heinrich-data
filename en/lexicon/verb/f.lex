@@ -40,6 +40,7 @@ fend verb
 ferment verb
 ferry          verb
 fertilize verb gb=fertilise|fertilize
+festoon verb
 fetch          verb
 fetter verb
 feud verb
@@ -66,6 +67,8 @@ fit            verb past=fitted|fit[US] pp=fitted|fit[US]
 fix            verb
 fizzle verb
 flag           verb
+flambe verb past=flambeed pp=flambeed ing=flambeing conf=80 note=also written flambé
+flambé verb past=flambéed pp=flambéed ing=flambéing conf=90 note=also written flambe
 flame          verb
 flank          verb
 flap verb
@@ -89,6 +92,7 @@ flog verb
 flood          verb
 floor          verb
 flop verb
+floss verb
 flounder verb
 flourish       verb
 flow           verb

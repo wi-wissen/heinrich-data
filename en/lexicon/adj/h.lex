@@ -15,6 +15,7 @@ haphazard adj adv=haphazardly
 hapless adj
 happy          adj cmp=er adv=happily
 hard           adj cmp=er
+hard-hearted adj cmp=more adv=hard-heartedly
 hardcore adj
 hardworking adj cmp=more note=also written hard-working
 hardy          adj cmp=er

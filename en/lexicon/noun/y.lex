@@ -1,5 +1,7 @@
 yacht noun
 yak noun
+yakitori noun pl=- note=uncountable
+yam noun
 Yank noun style=colloquial alt=American note=an American
 yank noun
 Yankee noun note=demonym or religious name, capitalized
@@ -10,6 +12,7 @@ yaw noun
 yawn noun
 year noun
 year-old noun note=a five-year-old
+yearbook noun
 yearning noun
 yeast noun
 yell noun
@@ -33,3 +36,4 @@ youth noun
 yuan noun pl=yuan note=Chinese currency
 yucca noun
 Yugoslav noun note=demonym or religious name, capitalized
+yuzu noun conf=90 note=unsure whether the plural yuzus or an unchanged plural is more usual

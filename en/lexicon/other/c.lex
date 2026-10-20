@@ -9,6 +9,8 @@ CE x abbr note=Common Era (500 CE); also the European conformity mark
 cetera x foreign note=only in et cetera
 cf. x abbr note=compare
 cheers intj note=British: thanks; a toast
+choi x foreign note=only in pak choi
+choy x foreign note=only in bok choy
 Cir. x abbr conf=90 note=Circuit (court of appeals)
 cm x abbr note=centimetre(s)
 CO x abbr conf=90 note=Colorado; carbon monoxide; commanding officer
@@ -20,5 +22,8 @@ comte x foreign note=French title (count)
 condita x foreign note=only in ab urbe condita
 Copa x foreign conf=90 note=in Copa América, Copa del Rey
 Corp. x abbr note=corporation
+cotta x foreign note=only in panna cotta
+creme x foreign conf=90 note=only in creme brulee, creme fraiche; also written crème
+crème x foreign conf=90 note=only in crème brûlée, crème fraîche; also written creme
 cum x foreign note=Latin "with": cum laude, a kitchen-cum-dining room; also vulgar slang
 CY x abbr conf=90 note=calendar year

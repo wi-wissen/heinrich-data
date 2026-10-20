@@ -321,7 +321,7 @@ stodgy adj cmp=er
 stoic adj cmp=more adv=stoically
 stolid adj adv=stolidly
 stoned adj
-stony adj cmp=er
+stony adj cmp=er adv=stonily
 storied adj
 stormy adj cmp=er
 stout adj cmp=er adv=stoutly

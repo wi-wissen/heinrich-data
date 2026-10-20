@@ -165,6 +165,7 @@ troll verb
 trot verb
 trouble verb
 troubleshoot verb past=troubleshot|troubleshooted pp=troubleshot|troubleshooted conf=85 note=both past forms are used
+trounce verb
 truck verb
 trudge verb
 trump verb

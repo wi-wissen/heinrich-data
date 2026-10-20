@@ -51,10 +51,12 @@ outnumber verb
 outperform verb
 outpoll verb
 outrage       verb
+outrun verb prefix=out past=outran pp=outrun
 outsource verb
 outweigh verb
 overburden verb
 overcharge verb
+overclock verb
 overcome      verb prefix=over past=overcame pp=overcome
 overdose verb
 overdraw verb prefix=over past=overdrew pp=overdrawn
@@ -77,6 +79,7 @@ overrule verb
 overrun verb prefix=over past=overran pp=overrun
 oversee       verb prefix=over past=oversaw pp=overseen
 overshadow verb
+overshoot verb prefix=over past=overshot pp=overshot
 overspend verb prefix=over past=overspent pp=overspent
 overspread verb prefix=over past=overspread pp=overspread
 overstaff verb

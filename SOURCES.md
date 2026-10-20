@@ -91,6 +91,18 @@ and of school geography. Candidates were checked only against our own lexicon an
 frequency list `de/frequency/forms.tsv` (2026-10-20). No third-party name list, gazetteer, register
 statistic, directory or web source was consulted. Format and use: `de/names/README.md`.
 
+## English name lists (`en/names/`)
+
+`given_names.tsv` (about 2,800 given names with gender m/f/u), `surnames.tsv` (about 2,700
+surnames of English-speaking countries and persons of the school canon) and `places.tsv` (about
+2,450 place names in their English form: countries, states and counties, cities, English
+exonyms, rivers, mountains, islands, waters) are our own data, written clean-room on 2026-10-20
+from general knowledge of names in English-speaking schools, families and offices, of the school
+canon and of geography. Names that are also ordinary words carry the marker `word`, set from our
+own English lexicon and checked by hand against our own frequency list `en/frequency/forms.tsv`.
+No third-party name list, census or birth-name statistic, gazetteer, directory, dictionary or
+web source was consulted. Format, use and protocol: `en/names/README.md`, `en/names/AUTHORING.md`.
+
 ## English lexicon (`en/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of English grammar and spelling (no

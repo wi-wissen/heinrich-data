@@ -9,6 +9,7 @@ kidnap         verb double
 kill           verb
 kindle verb
 kiss           verb
+knacker verb region=GB note=to exhaust; knackered
 knead verb
 kneel          verb past=knelt|kneeled pp=knelt|kneeled
 knife          verb

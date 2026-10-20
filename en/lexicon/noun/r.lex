@@ -12,6 +12,7 @@ racism noun pl=- note=uncountable
 racist noun
 rack noun
 racket noun
+raclette noun note=countable for a whole cheese or a variety, also a mass noun
 racquet noun note=variant spelling of racket (sports)
 radar noun
 radiance noun pl=- note=uncountable
@@ -20,6 +21,7 @@ radiator noun
 radical noun
 radicalism noun pl=- note=uncountable
 radicalization noun gb=radicalisation|radicalization
+radicchio noun pl=- note=uncountable
 radio noun pl=radios
 radiocarbon noun pl=- note=uncountable
 radioisotope noun
@@ -32,6 +34,7 @@ rafter noun
 rag noun
 rage noun
 raghead noun style=offensive note=slur for Muslims, Sikhs and Arabs
+ragout noun
 raid noun
 raider noun
 rail noun
@@ -48,12 +51,17 @@ rainforest noun
 rainwater noun pl=- note=uncountable
 raise noun
 raisin noun
+raita noun
 raja noun conf=90 note=also spelled rajah
 rajah noun
 rake noun
 rally noun
+RAM noun abbr pl=- note=random-access memory
 ram noun
 ramble noun
+rambutan noun
+ramekin noun
+ramen noun pl=- note=uncountable
 ramification noun
 ramp noun
 rampart noun
@@ -80,6 +88,7 @@ rascal noun
 rash noun
 raspberry noun
 rat noun
+ratatouille noun pl=- note=uncountable
 rate noun
 ratepayer noun
 ratification noun
@@ -93,6 +102,7 @@ rattlesnake noun
 rave noun
 raven noun
 ravine noun
+ravioli noun pl=- note=already plural in Italian; used as a mass noun
 ray noun
 razor noun
 RBI noun abbr note=run batted in (baseball)
@@ -118,6 +128,7 @@ reallocation noun
 realm noun
 realtor noun conf=90 note=chiefly American; British estate agent
 realty noun pl=- region=US note=real estate; uncountable
+ream noun
 reappearance noun
 reappointment noun
 rear noun
@@ -159,6 +170,7 @@ recitation noun
 recklessness noun pl=- note=uncountable
 reclamation noun
 reclassification noun
+recliner noun
 recluse noun
 recognition noun
 recoil noun
@@ -322,10 +334,13 @@ remorse noun pl=- note=uncountable
 remortgage noun region=GB
 remote noun note=remote control
 remoteness noun pl=- note=uncountable
+remoulade noun pl=- conf=90 note=uncountable; also written rémoulade
 removable noun conf=80 note=a removable part; rare as a noun
 removal noun
+remover noun
 remuneration noun
 renaissance noun
+rendang noun pl=- note=uncountable
 rendezvous noun pl=rendezvous
 rendition noun
 renegade noun
@@ -348,6 +363,7 @@ repayment noun
 repeal noun
 repeat noun
 repeatability noun pl=- note=uncountable
+repeater noun
 repellent noun
 repentance noun pl=- note=uncountable
 repercussion noun
@@ -422,12 +438,14 @@ resiliency noun pl=- note=uncountable
 resin noun
 resistance noun
 resistivity noun
+resit noun region=GB
 resolution noun
 resolve noun pl=- note=uncountable
 resonance noun
 resonator noun
 resort noun
 resource noun
+respawn noun
 respect noun
 respectability noun pl=- note=uncountable
 respiration noun pl=- note=uncountable
@@ -462,6 +480,7 @@ retake noun
 retaliation noun pl=- note=uncountable
 retelling noun
 retention noun pl=- note=uncountable
+retest noun
 rethink noun
 reticence noun pl=- note=uncountable
 retina noun pl=retinas|retinae
@@ -507,6 +526,7 @@ revulsion noun pl=- note=uncountable
 reward noun
 rewrite noun
 RFI noun abbr note=request for information
+RFID noun abbr pl=- note=radio-frequency identification
 rhapsody noun
 rhetoric noun pl=- note=uncountable
 rheumatism noun
@@ -520,19 +540,23 @@ rib noun
 ribbon noun
 Rican noun note=demonym or religious name, capitalized
 rice noun pl=- note=uncountable
+ricer noun
 riches noun pl_only
 richness noun pl=- note=uncountable
+ricotta noun note=countable for a whole cheese or a variety, also a mass noun
 riddle noun
 ride noun
 rider noun
 ridership noun pl=- note=uncountable
 ridge noun
 ridicule noun pl=- note=uncountable
+riesling noun conf=90 note=often capitalized Riesling
 riff noun
 rifle noun
 rifleman noun pl=riflemen
 rift noun
 rig noun
+rigatoni noun pl=- note=uncountable pasta name, already plural in Italian
 rigging noun
 right noun
 right-of-way noun pl=rights-of-way|right-of-ways
@@ -552,6 +576,7 @@ ripple noun
 rise noun
 risk noun
 risotto noun pl=risottos
+ristretto noun pl=ristrettos
 rite noun
 ritual noun
 rival noun
@@ -591,14 +616,17 @@ roll noun
 roller noun
 rollout noun
 rollover noun
+ROM noun abbr note=read-only memory; a game image
 Roman noun pl=Romans note=demonym, capitalized
 romance noun
+romanesco noun pl=- note=uncountable
 Romani noun pl=- conf=85 note=the language; the people are the Roma
 Romanian noun note=demonym or religious name, capitalized
 romantic noun
 roof noun pl=roofs
 roofing noun pl=- note=material
 rooftop noun
+rooibos noun pl=- note=uncountable
 rook noun
 rookery noun
 rookie noun
@@ -606,24 +634,31 @@ room noun
 roommate noun
 rooster noun
 root noun
+rootkit noun
 rope noun
+roquefort noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Roquefort
 rosary noun
 rose noun
 rosebud noun
 rosemary noun pl=- note=uncountable
 roster noun
 rostrum noun
+rosé noun conf=90 note=also written rose
 rot noun
 rota noun region=GB note=US roster, schedule
 rotary noun
 rotation noun
 rotavirus noun
+roti noun
+rotini noun pl=- region=US note=uncountable pasta name
+rotisserie noun
 rotor noun
 rotorcraft noun pl=rotorcraft
 rotunda noun
 rouge noun
 rough noun
 roughness noun
+roulade noun
 round noun
 roundabout noun
 roundtable noun
@@ -631,6 +666,7 @@ rout noun
 route noun
 router noun
 routine noun
+roux noun pl=roux
 rover noun
 roving noun conf=90 note=wool fibre prepared for spinning; also roving reporter (verb form)
 row noun
@@ -650,6 +686,7 @@ rubber noun
 rubbish noun pl=- note=uncountable
 rubble noun pl=- note=uncountable
 ruble noun gb=rouble|ruble
+rubric noun
 ruby noun
 rucksack noun
 rudder noun
@@ -686,5 +723,6 @@ Russian noun note=demonym or religious name, capitalized
 rust noun
 rustle noun
 rut noun
+rutabaga noun region=US note=British swede
 rye noun
 résumé noun conf=85 note=also written resume

@@ -1,5 +1,6 @@
 lab           noun
 label         noun
+labneh noun pl=- note=uncountable
 labor         noun gb=labour
 laboratory    noun
 laborer noun gb=labourer
@@ -18,19 +19,24 @@ ladybird noun region=GB note=US ladybug
 ladybug noun region=US note=British ladybird
 ladyship noun
 lag noun
+lager noun
 lagoon        noun
 lair noun
 laird noun
 laity noun pl=- note=collective noun
 lake          noun
 lakeside noun
+laksa noun
 lamb          noun
 lambda noun
 lament noun
 lamentation noun
 lamina noun pl=laminae|laminas
+laminator noun
 lamp          noun
 lamplight noun pl=- note=uncountable
+lampshade noun
+LAN noun abbr note=local area network
 lance noun
 lancer noun
 land          noun
@@ -47,6 +53,7 @@ landowner     noun
 landscape     noun
 landslide noun
 lane          noun
+langoustine noun
 language      noun
 languor noun pl=- note=usually uncountable
 Lankan noun note=only in Sri Lankan
@@ -57,11 +64,13 @@ Lao noun pl=Lao
 lap           noun
 lapse         noun
 laptop noun
+larder noun
 lark noun
 larva         noun pl=larvae
 lasagna noun gb=lasagne|lasagna
 laser         noun
 lass noun
+lassi noun
 lasso noun pl=lassos|lassoes
 latch noun
 latency noun
@@ -78,7 +87,9 @@ laugh         noun
 laughter      noun pl=- note=uncountable
 launch        noun
 launcher noun
+launderette noun region=GB note=US laundromat
 laundering    noun pl=- note=uncountable
+laundromat noun region=US note=British launderette
 laundry noun
 laureate noun
 laurel        noun
@@ -96,10 +107,12 @@ layer         noun
 layoff noun
 layout        noun
 laziness noun pl=- note=uncountable
+LCD noun abbr note=liquid-crystal display
 lea noun style=archaic
 leachate noun
 lead          noun
 leader        noun
+leaderboard noun
 leadership    noun
 leaf          noun pl=leaves
 leaflet noun
@@ -120,6 +133,7 @@ leaver noun
 Lebanese      noun pl=Lebanese
 lecture       noun
 lecturer      noun
+LED noun abbr note=light-emitting diode
 ledge         noun
 ledger noun
 lee noun
@@ -147,6 +161,7 @@ leisure       noun pl=- note=uncountable
 lemma noun pl=lemmas|lemmata
 lemon noun
 lemonade noun
+lemongrass noun pl=- note=uncountable
 lemur noun
 Lenape noun pl=Lenape
 lender        noun
@@ -216,6 +231,7 @@ lift          noun
 ligament noun
 ligand noun
 light         noun
+lightbulb noun
 lighter       noun note=device for lighting
 lighthouse    noun
 lighting      noun
@@ -232,10 +248,13 @@ lily          noun
 limb          noun
 limbo noun note=plural limbos
 lime noun
+limeade noun pl=- note=uncountable
+limekiln noun
 limerick noun
 limestone     noun
 limit         noun
 limitation    noun
+limoncello noun note=countable for a glass or a variety, also a mass noun
 linden        noun
 line          noun
 lineage       noun
@@ -244,11 +263,17 @@ lineman noun pl=linemen
 linen         noun
 liner         noun
 lineup        noun
+lingonberry noun
+linguine noun pl=- note=uncountable pasta name, already plural in Italian
 linguist noun
 linguistics noun pl=- note=the field, with a singular verb
 lining        noun
 link          noun
 linkage noun
+lino noun pl=- region=GB note=uncountable; short for linoleum
+linoleum noun pl=- note=uncountable
+linseed noun pl=- note=uncountable
+lint noun pl=- note=uncountable
 lion          noun
 lioness noun
 lip           noun
@@ -318,6 +343,7 @@ lodger noun
 lodging       noun
 loft noun
 log           noun
+loganberry noun
 logarithm noun
 logbook noun
 loggia noun
@@ -337,6 +363,7 @@ longing       noun
 longitude noun
 longline noun
 loo noun region=GB style=colloquial alt=toilet note=toilet
+loofah noun
 look          noun
 look-alike noun note=also written lookalike
 lookback noun conf=85 note=mostly attributive: lookback period
@@ -352,6 +379,7 @@ lorry noun region=GB note=US truck
 loser noun
 loss          noun
 lot           noun
+lotion noun
 lottery       noun
 lotus noun
 lough noun note=Irish lake
@@ -359,9 +387,12 @@ lounge noun
 love          noun
 loveliness noun
 lover         noun
+loveseat noun
 low           noun
+lowboy noun
 lowercase noun pl=- note=uncountable
 lowland noun
+lox noun pl=- region=US note=uncountable; smoked salmon
 loyalist noun
 loyalty       noun
 LP            noun abbr note=long-playing record; limited partnership
@@ -378,6 +409,7 @@ lunatic noun
 lunch         noun
 lunchbox noun
 luncheon      noun
+lunchroom noun
 lunchtime noun
 lung          noun
 lurch noun

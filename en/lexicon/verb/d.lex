@@ -106,6 +106,7 @@ derail verb
 deregulate verb
 deride verb
 derive verb
+descale verb
 descend verb
 describe verb
 descry verb

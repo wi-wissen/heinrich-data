@@ -4,6 +4,7 @@ ibuprofen noun pl=- note=uncountable
 IC noun abbr note=integrated circuit
 ice            noun
 iceberg noun
+icebox noun region=US
 Icelandic      noun pl=- note=the language
 icon           noun
 iconography noun
@@ -22,6 +23,7 @@ idiom noun
 idiot noun
 idleness noun
 idler noun
+idli noun
 idol           noun
 idolatry noun
 ignition noun
@@ -67,6 +69,7 @@ impersonation noun
 impertinence noun
 impetuosity noun pl=- note=uncountable
 impetus noun
+implacability noun pl=- note=uncountable
 implant noun
 implantation noun
 implement      noun
@@ -126,6 +129,7 @@ incompatibility noun
 incompetence noun
 incongruity noun
 inconsistency noun
+inconstancy noun
 inconvenience noun
 incorporation  noun
 increase       noun
@@ -197,6 +201,7 @@ inflection noun gb=inflection|inflexion
 infliction noun
 inflow noun
 influence      noun
+influencer noun
 influenza      noun pl=- note=uncountable
 influx         noun
 info noun pl=- style=colloquial alt=information note=information
@@ -222,6 +227,7 @@ initiate       noun
 initiation     noun
 initiative     noun
 injection      noun
+injera noun pl=- note=uncountable
 Injun noun style=offensive note=derogatory term for Indigenous Americans
 injunction     noun
 injury         noun
@@ -267,6 +273,7 @@ inspectorate   noun
 inspiration    noun
 instability    noun
 installation   noun
+installer noun
 installment noun gb=instalment
 instance       noun
 instant        noun
@@ -380,6 +387,7 @@ investigation  noun
 investigator   noun
 investment     noun
 investor       noun
+invigilator noun region=GB note=US proctor
 invitation     noun
 invitational noun
 invite         noun note=colloquial: an invitation
@@ -403,6 +411,7 @@ iron           noun
 ironclad noun
 irony          noun
 Iroquois noun pl=Iroquois
+irreconcilability noun pl=- note=uncountable
 irregularity noun
 irresponsibility noun pl=- note=uncountable
 irrigation     noun
@@ -419,6 +428,7 @@ isomer noun
 isomorphism noun
 isopleth noun
 isotope        noun
+ISP noun abbr note=internet service provider
 Israeli        noun
 Israelite noun
 issuance       noun

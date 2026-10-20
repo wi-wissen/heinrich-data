@@ -1,3 +1,4 @@
+habanero noun pl=habaneros
 habit          noun
 habitat        noun
 habitation     noun
@@ -6,6 +7,7 @@ hack noun
 hacker noun
 haddock noun pl=haddock|haddocks
 hag noun
+haggis noun
 hail           noun
 hair           noun
 hairband noun
@@ -14,6 +16,7 @@ hairdresser noun
 hairdryer noun
 hairspray noun
 Haitian noun
+hake noun pl=hake|hakes
 half-breed noun style=offensive note=derogatory term for people of mixed descent
 half-caste noun style=offensive note=derogatory term for people of mixed descent
 half-life      noun pl=half-lives
@@ -23,11 +26,14 @@ halibut        noun pl=halibut|halibuts
 hall           noun
 hallelujah noun
 hallmark noun
+halloumi noun note=countable for a whole cheese or a variety, also a mass noun
 hallucination noun
 hallway noun
 halo noun pl=haloes|halos
 halogen noun
 halt           noun
+halva noun pl=- note=uncountable; also halwa
+halwa noun pl=- conf=90 note=uncountable; also halva
 ham            noun
 hamburger noun
 hamlet         noun
@@ -64,6 +70,7 @@ happiness      noun pl=- note=uncountable
 harangue noun
 harassment     noun pl=- note=uncountable
 harbor         noun gb=harbour
+hard-heartedness noun pl=- note=uncountable
 hardcover noun
 hardihood noun pl=- note=uncountable
 hardiness noun pl=- note=uncountable
@@ -74,6 +81,7 @@ hardware       noun pl=- note=uncountable
 hardwood noun
 hare noun
 harem noun
+harissa noun pl=- note=uncountable
 harm           noun
 harmonic noun
 harmonica noun
@@ -91,6 +99,7 @@ hash noun
 hashtag noun
 haste          noun pl=- note=uncountable
 hat            noun
+hatband noun
 hatch noun
 hatchback noun
 hatchery noun
@@ -109,13 +118,17 @@ Hawaiian       noun
 hawk           noun
 hawthorn noun
 hay            noun pl=- note=uncountable
+hayloft noun
 hazard         noun
 haze           noun
 hazel noun
 hazelnut noun
+HDD noun abbr note=hard disk drive
+HDMI noun abbr pl=- note=High-Definition Multimedia Interface
 head           noun
 headache       noun
 headband noun
+headboard noun
 headcount noun
 headdress noun
 header noun
@@ -155,6 +168,7 @@ heater         noun
 heath noun
 heathen        noun
 heather noun
+heatsink noun conf=90 note=also heat sink
 heatwave noun
 heaven         noun
 heavyweight noun
@@ -216,12 +230,14 @@ hexameter noun
 heyday noun
 hiatus noun pl=hiatuses|hiatus
 hibernation noun pl=- note=uncountable
+hibiscus noun
 hiccup noun
 hickory noun
 hide           noun
 hierarchy      noun
 hieroglyphic noun
 high           noun
+highball noun
 highchair noun
 highland       noun
 highlander noun
@@ -264,16 +280,19 @@ HIV            noun abbr pl=- note=the virus
 hive noun
 hoard noun
 hoax noun
+hob noun region=GB note=US stovetop or cooktop
 hobby noun
 hockey         noun pl=- note=uncountable
 hoe noun
 hog noun
+hoisin noun pl=- note=uncountable
 hold           noun
 holder         noun
 holding        noun
 hole           noun
 holiday        noun
 holiness noun
+hollandaise noun pl=- note=uncountable
 hollow         noun
 holly noun
 holocaust noun
@@ -300,6 +319,7 @@ homosexuality noun
 honesty        noun pl=- note=uncountable
 honey          noun
 honeycomb noun
+honeydew noun
 honeymoon noun
 honeysuckle noun
 honor          noun gb=honour
@@ -319,6 +339,7 @@ hopeful        noun
 hopelessness noun pl=- note=uncountable
 hopper noun
 hopscotch noun pl=- note=uncountable
+horchata noun pl=- note=uncountable
 horde noun
 horizon        noun
 hormone noun
@@ -329,7 +350,9 @@ horse          noun
 horseback      noun
 horseman       noun pl=horsemen
 horsepower noun pl=horsepower
+horseradish noun pl=- note=uncountable
 horseshoe noun
+horsewhip noun
 horticulture noun pl=- note=uncountable
 hose noun
 hospice        noun
@@ -342,7 +365,10 @@ hostage        noun
 hostel noun
 hostess        noun
 hostility      noun
+hostname noun
+hotdog noun conf=80 note=usually written as two words, hot dog
 hotel          noun
+hotfix noun
 hotline noun
 hotspot noun
 Hottentot noun style=archaic|offensive alt=Khoikhoi note=colonial term for the Khoikhoi; older literature
@@ -364,9 +390,13 @@ hovel noun
 howitzer noun
 howl noun
 HQ noun abbr note=headquarters
+HTML noun abbr pl=- note=Hypertext Markup Language
+HTTP noun abbr pl=- note=Hypertext Transfer Protocol
+HTTPS noun abbr pl=- note=HTTP over a secure connection
 hub            noun
 hubbub noun
 hubby noun style=colloquial alt=husband
+huckleberry noun
 hue            noun
 huff noun
 hug noun
@@ -381,11 +411,12 @@ humanity       noun
 humankind noun pl=- note=uncountable
 humanoid noun
 humbug noun
+humidifier noun
 humidity       noun pl=- note=uncountable
 humiliation    noun
 humility       noun pl=- note=uncountable
 hummingbird noun
-hummus noun pl=- note=uncountable
+hummus noun pl=- gb=houmous|hummus note=uncountable; houmous is a British variant
 humor          noun gb=humour
 humorist noun gb=humourist|humorist
 hump noun

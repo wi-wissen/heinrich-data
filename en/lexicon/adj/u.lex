@@ -25,6 +25,7 @@ unannounced adj
 unanswerable adj
 unanswered adj
 unanticipated adj
+unappeasable adj
 unapproved adj
 unarmed adj
 unassociated adj
@@ -89,6 +90,7 @@ undeniable adj adv=undeniably
 underage adj
 undercover adj
 underdeveloped adj
+underfloor adj
 undergraduate  adj
 underground    adj
 underlying     adj attr_only
