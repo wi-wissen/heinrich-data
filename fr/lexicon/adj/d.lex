@@ -146,9 +146,9 @@ dépréciatif adj
 dépressif adj
 déprimant adj
 dépuratif adj
-déraisonnable adj
+déraisonnable adj adv=déraisonnablement
 dérangeant adj
-dérisoire adj
+dérisoire adj adv=dérisoirement
 dérivable adj
 dérivatif adj
 dermatologique adj
@@ -163,7 +163,7 @@ désapprobateur adj f=désapprobatrice
 désargenté adj
 désarmant adj
 désastreux adj adv=désastreusement
-désavantageux adj
+désavantageux adj adv=désavantageusement
 descriptif adj
 désemparé adj
 désert adj
@@ -218,7 +218,7 @@ diacritique adj
 diagnostique adj
 diagonal adj adv=diagonalement
 dialectal adj
-dialectique adj
+dialectique adj adv=dialectiquement
 diamétral adj adv=diamétralement
 diaphane adj
 diastolique adj
@@ -227,7 +227,7 @@ diatonique adj
 dichotomique adj
 dicotylédone adj
 dictatorial adj
-didactique adj
+didactique adj adv=didactiquement
 diélectrique adj
 diététique adj
 diffamatoire adj
@@ -236,7 +236,7 @@ différentiable adj
 différentiel adj
 difficile adj adv=difficilement
 difforme adj
-diffus adj
+diffus adj adv=diffusément
 digeste adj
 digestif adj
 digital adj
@@ -269,15 +269,15 @@ disciplinaire adj
 discographique adj
 discordant adj
 discret adj f=discrète adv=discrètement
-discrétionnaire adj
+discrétionnaire adj adv=discrétionnairement
 discriminant adj
 discriminatoire adj
 discursif adj
 discutable adj
 disert adj
-disgracieux adj
+disgracieux adj adv=disgracieusement
 disparate adj
-dispendieux adj
+dispendieux adj adv=dispendieusement
 dispersif adj
 disponible adj
 dispos adj f=dispose note=feminine rare
@@ -312,7 +312,7 @@ divisionnaire adj
 djihadiste adj
 docile adj adv=docilement
 docte adj adv=doctement
-doctoral adj
+doctoral adj adv=doctoralement
 doctrinaire adj
 doctrinal adj
 documentaire adj
@@ -341,7 +341,7 @@ dotal adj
 douanier adj
 double adj adv=doublement
 douceâtre adj
-doucereux adj
+doucereux adj adv=doucereusement
 doué adj
 douillet adj f=douillette adv=douillettement
 douloureux adj adv=douloureusement

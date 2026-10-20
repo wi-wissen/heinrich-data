@@ -42,7 +42,7 @@ efféminé       adj
 efférent       adj
 effervescent   adj
 efficace       adj adv=efficacement
-efficient      adj
+efficient      adj adv=efficiemment
 effilé         adj
 efflanqué      adj
 effrayant      adj
@@ -56,10 +56,10 @@ effroyable     adj adv=effroyablement
 égoïste        adj adv=égoïstement
 égrillard      adj
 égyptien       adj
-éhonté         adj
+éhonté         adj adv=éhontément
 élastique      adj
 électif        adj
-électoral      adj
+électoral      adj adv=électoralement
 électoraliste  adj
 électrique     adj adv=électriquement
 électrisant    adj
@@ -84,8 +84,8 @@ elfique        adj
 éliminatoire   adj
 élisabéthain   adj
 élitiste       adj
-elliptique     adj
-élogieux       adj
+elliptique     adj adv=elliptiquement
+élogieux       adj adv=élogieusement
 éloquent       adj adv=éloquemment
 émancipateur   adj f=émancipatrice
 embarrassant   adj
@@ -107,7 +107,7 @@ embryonnaire   adj
 émoustillant   adj
 émouvant       adj
 empathique     adj
-emphatique     adj
+emphatique     adj adv=emphatiquement
 emphytéotique  adj
 empilable      adj
 empirique      adj adv=empiriquement
@@ -173,7 +173,7 @@ entrepreneurial adj
 envahissant    adj
 enveloppant    adj
 enviable       adj
-envieux        adj
+envieux        adj adv=envieusement
 environnant    adj
 environnemental adj
 envisageable   adj
@@ -231,10 +231,10 @@ enzymatique    adj
 ergonomique    adj
 érogène        adj
 érosif         adj
-érotique       adj
+érotique       adj adv=érotiquement
 errant         adj
-erratique      adj
-erroné         adj
+erratique      adj adv=erratiquement
+erroné         adj adv=erronément
 érudit         adj
 éruptif        adj
 érythréen      adj
@@ -328,7 +328,7 @@ exécutable     adj
 exécutif       adj
 exécutoire     adj
 exégétique     adj
-exemplaire     adj
+exemplaire     adj adv=exemplairement
 exempt         adj
 exhaustif      adj adv=exhaustivement
 exhibitionniste adj
@@ -367,11 +367,11 @@ exprès         adj f=expresse adv=expressément
 expressif      adj adv=expressivement
 expressionniste adj
 exprimable     adj
-exquis         adj
+exquis         adj adv=exquisément
 exsangue       adj
 extatique      adj
 extensible     adj
-extensif       adj
+extensif       adj adv=extensivement
 exténuant      adj
 extérieur      adj f=extérieure adv=extérieurement
 exterminateur  adj f=exterminatrice
