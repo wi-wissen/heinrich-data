@@ -5,6 +5,7 @@ carrément          adv
 céans              adv style=archaic
 cependant          adv
 certes             adv
+cher               adv note=coûter cher
 chimiquement       adv
 chronologiquement  adv
 ci-après           adv
@@ -16,6 +17,7 @@ civilement         adv
 clandestinement    adv
 classiquement      adv
 combien            adv
+comme              adv note=comme c'est beau!
 comment            adv
 commodément        adv
 comparativement    adv
@@ -25,11 +27,13 @@ concurremment      adv
 conformément       adv
 consécutivement    adv
 conséquemment      adv
+constamment        adv
 constitutionnellement adv
 continûment        adv rect=continument
 contractuellement  adv
 contradictoirement adv
 contrairement      adv
+contre             adv note=par contre; the preposition is a separate entry
 convulsivement     adv
 couramment         adv
 crûment            adv rect=crument

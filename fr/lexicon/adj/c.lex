@@ -3,6 +3,7 @@ cadastral          adj
 cadet              adj f=cadette
 caduc              adj f=caduque
 calcaire           adj
+calé               adj style=colloquial
 calédonien         adj
 calendaire         adj
 californien        adj
@@ -10,11 +11,13 @@ câlin              adj
 calme              adj adv=calmement
 calomnieux         adj
 calorifique        adj
+calorique          adj
 calviniste         adj
 cambodgien         adj
 camerounais        adj
 campagnard         adj
 canadien           adj
+cancéreux          adj
 cancérigène        adj
 cancérogène        adj
 candide            adj
@@ -30,6 +33,8 @@ capitulaire        adj
 capricieux         adj
 caprin             adj
 captif             adj
+captivant          adj
+caractériel        adj
 carbonique         adj
 carcéral           adj
 cardiaque          adj
@@ -46,6 +51,8 @@ carnivore          adj
 carolingien        adj
 carré              adj
 cartographique     adj
+cassant            adj
+casse-pieds        adj inv style=colloquial alt=ennuyeux
 castillan          adj
 castral            adj
 catalan            adj
@@ -79,6 +86,7 @@ champêtre          adj
 chanceux           adj
 changeant          adj
 chaotique          adj
+chargé             adj
 charismatique      adj
 charitable         adj
 charmant           adj
@@ -86,8 +94,11 @@ charnel            adj
 charnu             adj
 chaste             adj
 châtain            adj
+chatouilleux       adj
+chatoyant          adj
 chaud              adj adv=chaudement
 chauve             adj
+chauvin            adj
 cher               adj place=both adv=chèrement
 chéri              adj
 chétif             adj
@@ -106,26 +117,31 @@ chômé              adj
 choquant           adj
 choral             adj pl=chorals|choraux
 chorégraphique     adj
+chouette           adj style=colloquial
 chrétien           adj
 chromatique        adj
 chronologique      adj
 chypriote          adj
 cinématographique  adj
 cinétique          adj
+cinglé             adj style=colloquial alt=fou
 circonflexe        adj
 circonspect        adj
 circonstancié      adj
+circulaire         adj
 cisalpin           adj
 cistercien         adj
 civil              adj
 civique            adj
 clair              adj adv=clairement
+clairsemé          adj
 clairvoyant        adj
 clandestin         adj
 classique          adj
 clément            adj
 clérical           adj
 climatique         adj
+climatisé          adj
 clinique           adj
 clinquant          adj
 clos               adj note=past participle of clore
@@ -134,16 +150,20 @@ cochère            adj note=porte cochère
 coercitif          adj
 cognitif           adj
 cohérent           adj
+coincé             adj
 colérique          adj
 collaboratif       adj
 collaborationniste adj
+collant            adj
 collatéral         adj
 collectif          adj adv=collectivement
 collégial          adj
 collinaire         adj
 colombien          adj
 colonial           adj
+coloré             adj
 colossal           adj
+combatif           adj
 combinatoire       adj
 comestible         adj
 comique            adj
@@ -170,11 +190,15 @@ complaisant        adj
 complémentaire     adj
 complet            adj f=complète adv=complètement
 complexe           adj
+complexé           adj
 complice           adj
+compliqué          adj
 comportemental     adj
 composite          adj
 compostable        adj
 compréhensible     adj
+compréhensif       adj
+compris            adj
 con                adj f=conne style=vulgar alt=stupide
 concave            adj
 concentrique       adj
@@ -195,6 +219,7 @@ confessionnel      adj
 confiant           adj
 confidentiel       adj adv=confidentiellement
 confiscatoire      adj
+confit             adj
 conflictuel        adj
 conforme           adj
 confortable        adj adv=confortablement
@@ -206,6 +231,7 @@ conjoint           adj adv=conjointement
 conjoncturel       adj
 conjugal           adj
 connexe            adj
+connu              adj
 consciencieux      adj adv=consciencieusement
 conscient          adj
 consécutif         adj
@@ -217,6 +243,7 @@ consolant          adj
 consolateur        adj f=consolatrice
 consommable        adj
 constant           adj adv=constamment
+constipé           adj
 constituant        adj
 constitutif        adj
 constitutionnel    adj
@@ -243,12 +270,14 @@ contre-productif   adj pl=contre-productifs
 contre-révolutionnaire adj
 contributif        adj
 convaincant        adj
+convaincu          adj
 convalescent       adj
 convenable         adj adv=convenablement
 conventionnel      adj
 conventuel         adj
 convergent         adj
 convexe            adj
+convivial          adj
 convulsif          adj
 coopératif         adj
 copieux            adj
@@ -263,15 +292,20 @@ coriace            adj
 corinthien         adj
 cornu              adj
 corporel           adj
+corpulent          adj
 correct            adj adv=correctement
 correctif          adj
 correctionnel      adj
+corrompu           adj
 corse              adj
 cosmétique         adj
 cosmique           adj
 cosmologique       adj
 cosmopolite        adj
+costaud            adj f=costaude note=feminine also costaud
 côtier             adj
+couchant           adj
+couché             adj
 coupable           adj
 courageux          adj adv=courageusement
 courant            adj
@@ -282,21 +316,28 @@ coutumier          adj
 craintif           adj
 cramoisi           adj
 crânien            adj
+crasseux           adj
 créatif            adj
 crédible           adj
 crédule            adj
+crémeux            adj
 créole             adj
 crépusculaire      adj
 creux              adj
+crevé              adj style=colloquial alt=épuisé
+criant             adj
 criard             adj
 criminel           adj adv=criminellement
+crispé             adj
 cristallin         adj
 critiquable        adj
 critique           adj
 croate             adj
 croissant          adj
+croustillant       adj
 croyable           adj
 croyant            adj
+cru                adj
 crucial            adj
 cruciforme         adj
 cruel              adj adv=cruellement
@@ -304,12 +345,15 @@ cubain             adj
 cubique            adj
 cuit               adj
 culinaire          adj
+culotté            adj style=colloquial
 cultivable         adj
+cultivé            adj
 cultuel            adj
 cultural           adj
 culturel           adj
 cumulable          adj
 cumulatif          adj
+cupide             adj
 curatif            adj
 curieux            adj adv=curieusement
 cutané             adj

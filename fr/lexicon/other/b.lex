@@ -2,4 +2,5 @@
 bah     intj
 bonjour intj
 bonsoir intj
+boum    intj
 bravo   intj

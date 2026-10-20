@@ -5,4 +5,8 @@ bêtement       adv
 bientôt        adv
 bis            adv
 bonnement      adv note=tout bonnement
+bref           adv
+brièvement     adv
+brillamment    adv
+bruyamment     adv
 budgétairement adv
