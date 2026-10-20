@@ -110,7 +110,6 @@ quatre-vingtième          num  type=ord value=80
 quatrième                 num  type=ord value=4
 quinze                    num  value=15
 quinzième                 num  type=ord value=15
-second                    num  type=ord value=2 f=seconde
 seize                     num  value=16
 seizième                  num  type=ord value=16
 sept                      num  value=7

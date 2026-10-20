@@ -2,3 +2,4 @@
 ah   intj
 aïe  intj
 allô intj
+amen intj

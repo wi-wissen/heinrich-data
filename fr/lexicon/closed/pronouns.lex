@@ -20,6 +20,8 @@ elle-même pron type=prs person=3 number=sg gender=f
 elles     pron type=prs person=3 number=pl gender=f
 elles-mêmes pron type=prs person=3 number=pl gender=f
 en        pron type=prs
+grand-chose pron type=neg|ind note=pas grand-chose
+icelui    pron type=dem forms=icelui,icelle,iceux,icelles style=archaic
 eux       pron type=prs person=3 number=pl gender=m
 eux-mêmes pron type=prs person=3 number=pl gender=m
 il        pron type=prs person=3 number=sg gender=m case=nom

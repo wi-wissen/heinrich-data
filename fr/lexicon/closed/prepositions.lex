@@ -6,6 +6,7 @@ aux       adp  fused=à+les number=pl
 avant     adp
 avec      adp
 chez      adp
+concernant adp note=also the present participle of concerner
 contre    adp
 dans      adp
 de        adp  elided=d'
