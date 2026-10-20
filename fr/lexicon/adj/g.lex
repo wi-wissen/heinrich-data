@@ -36,7 +36,7 @@ gauchiste      adj
 gaullien       adj
 gaulliste      adj
 gaulois        adj
-gay            adj
+gay            adj f=gay note=invariable in gender (une femme gay), plural gays
 gazeux         adj
 gazier         adj
 géant          adj
@@ -123,7 +123,7 @@ goinfre        adj style=colloquial alt=glouton
 gonflable      adj
 gonflant       adj style=colloquial alt=ennuyeux|agaçant
 gordien        adj note=nœud gordien
-goth           adj f=gothe conf=85
+goth           adj f=goth conf=85 note=invariable in gender, plural goths
 gothique       adj
 gouailleur     adj f=gouailleuse
 goudronneux    adj
