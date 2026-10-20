@@ -5,6 +5,7 @@ mahnen verb class=weak pp=gemahnt perf=haben
 mailen verb class=weak pp=gemailt perf=haben
 mäkeln verb class=weak pp=gemäkelt perf=haben
 malen verb class=weak pp=gemalt perf=haben
+malochen verb class=weak pp=malocht perf=haben style=colloquial alt=arbeiten note=stress on the second syllable, so no ge- (malocht)
 mampfen verb class=weak pp=gemampft perf=haben style=colloquial alt=essen
 managen verb class=weak pp=gemanagt perf=haben
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an

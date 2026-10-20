@@ -314,6 +314,7 @@ Knäckebrot noun g=n gen=Knäckebrots pl=Knäckebrote
 Knall noun g=m gen=Knalls|Knalles pl=Knalle
 Knaller noun g=m gen=Knallers pl=Knaller
 Knappe noun g=m gen=Knappen pl=Knappen
+Knast noun g=m gen=Knasts|Knastes pl=Knäste style=colloquial alt=Gefängnis
 Knäuel noun g=n|m gen=Knäuels pl=Knäuel
 Knebel noun g=m gen=Knebels pl=Knebel
 Knecht noun g=m gen=Knechts|Knechtes pl=Knechte

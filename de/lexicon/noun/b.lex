@@ -40,6 +40,7 @@ Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
 Balsam noun g=m gen=Balsams pl=Balsame
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
 Bambus noun g=m gen=Bambus|Bambusses pl=Bambusse
+Bammel noun g=m gen=Bammels pl=- style=colloquial alt=Angst note=no plural
 Ban noun g=m gen=Bans pl=Bane conf=70 note=historical title of the Croatian viceroy (also Banus); many hits are the name Ban Ki-moon
 Banane noun g=f gen=Banane pl=Bananen
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume

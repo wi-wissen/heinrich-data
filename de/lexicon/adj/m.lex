@@ -47,7 +47,7 @@ metaphysisch adj
 methodisch adj
 metrisch adj
 mexikanisch adj
-mies adj cmp=mieser sup=miesesten
+mies adj cmp=mieser sup=miesesten style=colloquial alt=schlecht
 mild adj cmp=milder sup=mildesten
 militärisch adj
 minderjährig adj

@@ -334,6 +334,7 @@ blähen verb class=weak pp=gebläht perf=haben refl=acc
 blamieren verb class=weak pp=blamiert perf=haben refl=acc
 blasen verb class=strong 3sg=bläst past=blies pp=geblasen subj2=bliese perf=haben
 blättern verb class=weak pp=geblättert perf=haben
+blechen verb class=weak pp=geblecht perf=haben style=colloquial alt=bezahlen
 bleiben       verb class=strong 3sg=bleibt past=blieb pp=geblieben subj2=bliebe perf=sein
 blenden verb class=weak pp=geblendet perf=haben
 blicken       verb class=weak pp=geblickt perf=haben

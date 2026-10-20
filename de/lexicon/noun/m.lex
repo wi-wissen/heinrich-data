@@ -311,6 +311,7 @@ Missionär noun g=m gen=Missionärs pl=Missionäre region=AT note=older or Austr
 Missionarin noun g=f gen=Missionarin pl=Missionarinnen
 Misstrauen noun g=n gen=Misstrauens pl=- note=no plural
 Missverständnis noun g=n gen=Missverständnisses pl=Missverständnisse
+Mist noun g=m gen=Mistes|Mists pl=- note=manure; colloquial as an exclamation (Mist!) and in Mist bauen (engine table)
 Mistel noun g=f gen=Mistel pl=Misteln
 Mistkäfer noun g=m gen=Mistkäfers pl=Mistkäfer
 Mitarbeit noun g=f gen=Mitarbeit pl=- note=no plural
@@ -393,6 +394,7 @@ Monarchie noun g=f gen=Monarchie pl=Monarchien
 Monat noun g=m gen=Monats|Monates pl=Monate
 Mönch noun g=m gen=Mönchs|Mönches pl=Mönche
 Mond noun g=m gen=Mondes|Monds pl=Monde
+Moneten noun g=pl style=colloquial alt=Geld
 Mongole noun g=m gen=Mongolen pl=Mongolen
 Monitor noun g=m gen=Monitors pl=Monitore|Monitoren
 Monitoring noun g=n gen=Monitorings pl=- note=mass noun

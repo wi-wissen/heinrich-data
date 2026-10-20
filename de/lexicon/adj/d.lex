@@ -46,7 +46,7 @@ diskriminierend adj
 divers adj
 dominant adj cmp=dominanter sup=dominantesten
 dominikanisch adj
-doof adj cmp=doofer sup=doofsten
+doof adj cmp=doofer sup=doofsten style=colloquial alt=dumm
 doppelt adj
 dörflich adj
 dornig adj cmp=dorniger sup=dornigsten

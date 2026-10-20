@@ -16,6 +16,7 @@ ratifizieren verb class=weak pp=ratifiziert perf=haben
 rationalisieren verb class=weak pp=rationalisiert perf=haben
 rätseln verb class=weak pp=gerätselt perf=haben
 rattern verb class=weak pp=gerattert perf=haben|sein
+ratzen verb class=weak pp=geratzt perf=haben style=colloquial alt=schlafen
 rauben verb class=weak pp=geraubt perf=haben
 rauchen verb class=weak pp=geraucht perf=haben
 räuchern verb class=weak pp=geräuchert perf=haben

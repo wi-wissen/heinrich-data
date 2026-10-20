@@ -72,7 +72,7 @@ zischeln verb class=weak pp=gezischelt perf=haben
 zischen verb class=weak pp=gezischt perf=haben
 zitieren verb class=weak pp=zitiert perf=haben
 zittern verb class=weak pp=gezittert perf=haben
-zocken verb class=weak pp=gezockt perf=haben
+zocken verb class=weak pp=gezockt perf=haben style=colloquial alt=spielen
 zögern verb class=weak pp=gezögert perf=haben
 zoomen verb class=weak pp=gezoomt perf=haben
 zuarbeiten verb class=weak sep=zu pp=zugearbeitet perf=haben

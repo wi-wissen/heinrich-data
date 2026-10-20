@@ -116,6 +116,7 @@ Abweichung noun g=f gen=Abweichung pl=Abweichungen
 Abwerbung noun g=f gen=Abwerbung pl=Abwerbungen
 Abwesenheit noun g=f gen=Abwesenheit pl=Abwesenheiten
 Abwicklung noun g=f gen=Abwicklung pl=Abwicklungen
+Abzocke noun g=f gen=Abzocke pl=- style=colloquial alt=Betrug note=no plural
 Abzug noun g=m gen=Abzugs|Abzuges pl=Abzüge
 Abzweig noun g=m gen=Abzweigs|Abzweiges pl=Abzweige conf=85 note=Abzweigung is more common
 Abzweigung noun g=f gen=Abzweigung pl=Abzweigungen
