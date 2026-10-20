@@ -339,7 +339,7 @@ théorisation noun g=f
 thérapeute noun g=m|f
 thérapeutique noun g=f
 thérapie noun g=f
-thérémine noun g=m
+thérémine noun g=m|f conf=80 note=gender varies in use
 thermalisme noun g=m
 thermes noun g=m pl_only
 thermocouple noun g=m

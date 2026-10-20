@@ -47,7 +47,7 @@ sanguinaire adj
 sanguinolent adj
 sanitaire adj
 saoudien adj
-saoudite adj conf=80 note=mainly in Arabie saoudite; the adjective of nationality is saoudien
+saoudite adj fem_only note=only in Arabie saoudite; the adjective of nationality is saoudien
 saoul adj f=saoule note=variant spelling of soûl
 sarcastique adj adv=sarcastiquement
 sarde adj
