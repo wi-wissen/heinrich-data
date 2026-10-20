@@ -25,7 +25,6 @@ subsidiairement adv
 succinctement adv
 supérieurement adv
 supposément adv
-sur-le-champ adv
 surabondamment adv
 surtout adv
 symétriquement adv
