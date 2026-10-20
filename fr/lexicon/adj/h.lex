@@ -5,17 +5,25 @@ habituel       adj adv=habituellement
 hagard         adj aspirate
 haineux        adj aspirate
 haïtien        adj
+hâlé           adj aspirate
 haletant       adj aspirate
+halieutique    adj
+hallucinant    adj
+hallucinogène  adj
+harassé        adj aspirate
 hardi          adj adv=hardiment aspirate
+hargneux       adj adv=hargneusement aspirate
 harmonieux     adj adv=harmonieusement
 harmonique     adj
 hasardeux      adj aspirate
 hâtif          adj adv=hâtivement aspirate
 haut           adj place=pre adv=hautement aspirate
 hautain        adj aspirate
+hawaïen        adj
 hebdomadaire   adj
 hébété         adj
 hébraïque      adj
+hégémonique    adj
 hellénique     adj
 hellénistique  adj
 helvétique     adj
@@ -25,6 +33,8 @@ herbacé        adj
 herbivore      adj
 héréditaire    adj
 hérétique      adj
+hermaphrodite  adj
+hermétique     adj adv=hermétiquement
 héroïque       adj adv=héroïquement note=mute h, unlike héros
 hertzien       adj
 hésitant       adj
@@ -32,16 +42,23 @@ hétéroclite    adj
 hétérogène     adj
 hétérosexuel   adj
 heureux        adj adv=heureusement
+hexadécimal    adj
 hexagonal      adj
 hideux         adj aspirate
 hiérarchique   adj adv=hiérarchiquement aspirate conf=85 note=follows hiérarchie
+hiératique     adj
 hindou         adj note=plural hindous
 hippique       adj
 hispanique     adj
+historiographique adj
 historique     adj adv=historiquement
 hivernal       adj
 hollandais     adj aspirate
+homéopathique  adj
+homérique      adj
 homogène       adj
+homoparental   adj
+homophobe      adj
 homosexuel     adj
 hongrois       adj aspirate
 honnête        adj adv=honnêtement
@@ -50,23 +67,34 @@ honoraire      adj note=président honoraire
 honorifique    adj
 honteux        adj adv=honteusement aspirate
 horizontal     adj adv=horizontalement
+hormonal       adj
 horrible       adj adv=horriblement
+horrifique     adj
+horticole      adj
 hospitalier    adj
 hostile        adj
 hôtelier       adj
+houiller       adj aspirate
+houleux        adj aspirate
 humain         adj adv=humainement
 humaniste      adj
 humanitaire    adj
+humanoïde      adj
 humble         adj adv=humblement
 humide         adj
 humiliant      adj
 humoristique   adj
+huppé          adj aspirate
 hybride        adj
 hydraulique    adj
+hydrique       adj
 hydroélectrique adj
 hydrographique adj
 hydrologique   adj
 hygiénique     adj
+hyperbare      adj
+hyperbolique   adj
 hypocrite      adj
 hypothécaire   adj
 hypothétique   adj adv=hypothétiquement
+hystérique     adj

@@ -3,3 +3,5 @@ ha             intj aspirate
 hein           intj aspirate style=colloquial alt=n'est-ce_pas
 hélas          intj
 ho             intj aspirate
+holà           intj aspirate
+hum            intj aspirate
