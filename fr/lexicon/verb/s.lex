@@ -213,6 +213,7 @@ supposer verb
 supprimer verb
 supputer verb
 surajouter verb
+surbudgéter verb
 surcharger verb
 surchauffer verb
 surclasser verb
@@ -234,6 +235,7 @@ surpayer verb
 surplomber verb
 surprendre verb class=prendre
 surproduire verb class=conduire
+surreprésenter verb
 sursauter verb pp_inv
 surseoir verb class=irr pres=sursois,sursoyons,sursoient ps=sursis fut=surseoirai pp=sursis pp_inv
 surtaxer verb

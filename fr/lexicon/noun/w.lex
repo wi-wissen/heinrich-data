@@ -19,4 +19,6 @@ whisky noun g=m pl=whiskys|whiskies
 whist noun g=m
 wifi noun g=m
 wigwam noun g=m
+wikimédien noun g=m f=wikimédienne
+wikipédien noun g=m f=wikipédienne
 wolof noun g=m

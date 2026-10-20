@@ -2,5 +2,6 @@
 wahhabite adj
 wallon adj
 westphalien adj
+wikipédien adj
 wisigoth adj
 wisigothique adj

@@ -161,6 +161,7 @@ triompher verb pp_inv
 tripler verb
 tripoter verb style=colloquial
 triturer verb
+troller verb style=colloquial
 tromper verb
 trompeter verb class=double_trad
 tronçonner verb
