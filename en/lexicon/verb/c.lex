@@ -47,6 +47,7 @@ catch verb past=caught pp=caught
 categorize verb gb=categorise|categorize
 cater verb
 caterwaul verb
+catfish verb
 caucus verb
 caulk verb
 cause verb
@@ -174,6 +175,7 @@ cohabitate verb note=US variant of cohabit
 coil verb
 coin verb
 coincide verb
+collab verb past=collabbed pp=collabbed ing=collabbing style=colloquial alt=collaborate
 collaborate verb
 collapse verb
 collate verb

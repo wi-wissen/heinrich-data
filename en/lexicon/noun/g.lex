@@ -145,6 +145,7 @@ girl           noun
 girlfriend     noun
 girlhood noun
 git noun region=GB
+giveaway noun
 giver noun
 glaciation noun
 glacier noun

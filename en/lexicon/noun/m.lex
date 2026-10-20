@@ -259,7 +259,9 @@ medley noun
 meekness noun pl=- note=uncountable
 meerkat noun
 meet           noun
+meet-up noun
 meeting        noun
+meetup noun
 megabyte noun
 megahertz noun pl=megahertz
 megapixel noun
@@ -291,6 +293,7 @@ mentor         noun
 mentorship noun
 menu           noun
 mercenary noun
+merch noun pl=- style=colloquial alt=merchandise note=uncountable
 merchandise    noun pl=- note=uncountable
 merchant       noun
 mercury        noun pl=- note=the metal; the planet Mercury is the capitalized form

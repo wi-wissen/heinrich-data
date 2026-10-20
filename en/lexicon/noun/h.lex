@@ -105,6 +105,7 @@ hatchback noun
 hatchery noun
 hatchet noun
 hate           noun
+hater noun
 hatred         noun
 hatter noun
 haul           noun

@@ -366,7 +366,7 @@ Catalan             noun  mixed
 catcher             noun  mixed
 caterer             noun  mixed
 caterpillar         noun  animal
-catfish             noun  animal
+catfish             noun  mixed
 Catholic            noun  human
 cattle              noun  animal
 caucus              noun  group
@@ -822,6 +822,8 @@ falcon              noun  animal
 family              noun  group
 fan                 noun  mixed
 fanatic             noun  human
+fanbase             noun  group
+fandom              noun  group
 farmer              noun  human
 fascist             noun  human
 father              noun  human
@@ -1025,6 +1027,7 @@ hamster             noun  animal
 hand                noun  mixed
 handler             noun  mixed
 hare                noun  animal
+hater               noun  human
 hatter              noun  human
 Hawaiian            noun  mixed
 hawk                noun  animal
@@ -1306,6 +1309,7 @@ Lithuanian          noun  mixed
 litigant            noun  human
 litigator           noun  human
 livestock           noun  animal
+livestreamer        noun  human
 lizard              noun  animal
 llama               noun  animal
 lobbyist            noun  human
@@ -1321,6 +1325,7 @@ lover               noun  human
 loyalist            noun  human
 lumberman           noun  human
 lunatic             noun  human
+lurker              noun  human
 Lutheran            noun  human
 lynx                noun  animal
 lyricist            noun  human
@@ -2122,6 +2127,7 @@ storyteller         noun  human
 straggler           noun  human
 stranger            noun  human
 strategist          noun  human
+streamer            noun  mixed
 striker             noun  human
 student             noun  human
 sturgeon            noun  animal

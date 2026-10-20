@@ -98,6 +98,7 @@ petrify verb
 phase verb
 phish verb
 phone verb
+photobomb verb
 photocopy verb
 photograph verb
 phrase verb
