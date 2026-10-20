@@ -815,7 +815,7 @@ spectroscopy noun pl=- note=uncountable
 spectrum noun pl=spectra|spectrums[rare]
 speculation noun
 speculator noun
-speech noun vb=give|make|deliver xvb=hold>give
+speech noun vb=give|make|deliver xvb=hold>give?
 speed noun
 speedrun noun
 speedrunner noun

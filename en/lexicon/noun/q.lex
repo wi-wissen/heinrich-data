@@ -32,7 +32,7 @@ queer         noun
 query         noun vb=raise|have|answer|put
 quesadilla noun
 quest         noun prep=for
-question      noun prep=about|of|on|for vb=ask|answer|put|raise|pose xvb=make>ask
+question      noun prep=about|of|on|for vb=ask|answer|put|raise|pose xvb=make>ask?
 questioner noun
 questioning   noun
 questionnaire noun
