@@ -9,6 +9,7 @@ eau-forte      noun g=f pl=eaux-fortes
 ébauchoir      noun g=m
 ébavurage      noun g=m
 ébène          noun g=f
+ébénier        noun g=m
 ébéniste       noun g=m|f
 ébénisterie    noun g=f
 éblouissement  noun g=m
@@ -66,6 +67,7 @@ ecchymose      noun g=f
 échinoderme    noun g=m
 échiquier      noun g=m
 écho           noun g=m
+échocardiographie noun g=f
 échographe     noun g=m
 échographie    noun g=f
 échographiste  noun g=m|f
@@ -91,6 +93,7 @@ ecchymose      noun g=f
 éco-organisme  noun g=m pl=éco-organismes
 écobuage       noun g=m
 écocide        noun g=m
+écoconception  noun g=f
 écocontribution noun g=f
 écœurement     noun g=m
 écolabel       noun g=m
@@ -229,6 +232,7 @@ eider          noun g=m
 élagage        noun g=m
 élan           noun g=m
 élancement     noun g=m
+éland          noun g=m
 élargissement  noun g=m
 élasticité     noun g=f
 élastique      noun g=m
@@ -244,11 +248,14 @@ eldorado       noun g=m
 électro-aimant noun g=m pl=électro-aimants rect=électroaimant rect_pl=électroaimants
 électroacoustique noun g=f
 électrocardiogramme noun g=m
+électrocardiographie noun g=f
 électrochimie  noun g=f
 électrochoc    noun g=m
 électrocution  noun g=f
 électrode      noun g=f
+électrodynamique noun g=f
 électroencéphalogramme noun g=m
+électroencéphalographie noun g=f
 électrolyse    noun g=f
 électrolyseur  noun g=m
 électrolyte    noun g=m
@@ -260,9 +267,12 @@ eldorado       noun g=m
 électronégativité noun g=f
 électronicien  noun g=m f=électronicienne
 électronique   noun g=f
+électronvolt   noun g=m
 électrophone   noun g=m
 électrophorèse noun g=f
 électroradiologie noun g=f
+électroscope   noun g=m
+électrostatique noun g=f
 électrotechnicien noun g=m f=électrotechnicienne
 électrotechnique noun g=f
 électrothérapie noun g=f
@@ -346,6 +356,7 @@ embuscade      noun g=f
 émeraude       noun g=f
 émergence      noun g=f
 émeri          noun g=m
+émerillon      noun g=m
 émersion       noun g=f
 émerveillement noun g=m
 émetteur       noun g=m
@@ -368,6 +379,7 @@ emmanchement   noun g=m
 emménagement   noun g=m
 emmental       noun g=m
 émoi           noun g=m
+émoji          noun g=m
 émoluments     noun g=m pl_only
 émondage       noun g=m
 émoticône      noun g=f
@@ -375,6 +387,7 @@ emmental       noun g=m
 émotivité      noun g=f
 émoussement    noun g=m
 empailleur     noun g=m f=empailleuse
+empan          noun g=m
 empâtement     noun g=m
 empathie       noun g=f
 empattement    noun g=m
@@ -493,6 +506,7 @@ enduit         noun g=m
 endurance      noun g=f
 endurcissement noun g=m
 énergéticien   noun g=m f=énergéticienne
+énergétique    noun g=f
 énergie        noun g=f
 énergumène     noun g=m|f
 énervement     noun g=m
@@ -711,6 +725,7 @@ enzyme         noun g=f note=also found as masculine
 épinglage      noun g=m
 épingle        noun g=f
 épinoche       noun g=f
+épiphanie      noun g=f
 épiphyse       noun g=f
 épiphyte       noun g=m
 épiscopat      noun g=m
@@ -776,6 +791,7 @@ enzyme         noun g=f note=also found as masculine
 éreintement    noun g=m
 erg            noun g=m
 ergol          noun g=m
+ergomètre      noun g=m
 ergonome       noun g=m|f
 ergonomie      noun g=f
 ergot          noun g=m
@@ -818,6 +834,7 @@ escarpement    noun g=m
 escarpin       noun g=m
 escarpolette   noun g=f
 escarre        noun g=f
+eschatologie   noun g=f
 escient        noun g=m pl=- note=only in à bon escient, à mauvais escient
 esclandre      noun g=m
 esclavage      noun g=m
@@ -840,6 +857,7 @@ espadon        noun g=m
 espadrille     noun g=f
 espagnol       noun g=m note=the language; persons are Espagnol (propn)
 espalier       noun g=m
+esparcette     noun g=f conf=90 note=fodder plant (sainfoin)
 espèce         noun g=f
 espérance      noun g=f
 espérantiste   noun g=m|f
@@ -866,6 +884,7 @@ essoreuse      noun g=f
 essoufflement  noun g=m
 essuie-glace   noun g=m pl=essuie-glaces
 essuie-mains   noun g=m rect=essuie-main rect_pl=essuie-mains
+essuie-pieds   noun g=m rect=essuie-pied rect_pl=essuie-pieds
 essuie-tout    noun g=m pl=essuie-tout
 essuyage       noun g=m
 est            noun g=m pl=- note=cardinal point; no plural
@@ -1022,6 +1041,7 @@ eutrophisation noun g=f
 évanouissement noun g=m
 évaporateur    noun g=m
 évaporation    noun g=f
+évapotranspiration noun g=f
 évasement      noun g=m
 évasion        noun g=f
 évêché         noun g=m
@@ -1121,8 +1141,10 @@ existence      noun g=f
 existentialisme noun g=m
 existentialiste noun g=m|f
 exo            noun g=m style=colloquial alt=exercice
+exobiologie    noun g=f
 exode          noun g=m
 exonération    noun g=f
+exophtalmie    noun g=f
 exoplanète     noun g=f
 exorcisme      noun g=m
 exorciste      noun g=m|f
@@ -1139,6 +1161,7 @@ expectoration  noun g=f
 expédient      noun g=m
 expéditeur     noun g=m f=expéditrice
 expédition     noun g=f
+expéditionnaire noun g=m|f
 expérience     noun g=f
 expérimentateur noun g=m f=expérimentatrice
 expérimentation noun g=f
@@ -1186,6 +1209,7 @@ extermination  noun g=f
 externalisation noun g=f
 externalité    noun g=f
 externat       noun g=m
+externe        noun g=m|f
 extincteur     noun g=m
 extinction     noun g=f
 extorsion      noun g=f
@@ -1209,6 +1233,7 @@ extrémiste     noun g=m|f
 extrémité      noun g=f
 extrudeuse     noun g=f
 extrusion      noun g=f
+extubation     noun g=f
 exubérance     noun g=f
 exultation     noun g=f
 exutoire       noun g=m

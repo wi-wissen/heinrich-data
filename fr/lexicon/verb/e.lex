@@ -27,6 +27,7 @@
 échauder       verb
 échauffer      verb
 échelonner     verb
+échographier   verb
 échoir         verb class=irr aux=être pres=-,-,échoit,-,-,échoient ps=échus fut=écherrai pp=échu ppr=échéant conf=85 note=defective, 3rd person only (le cas échéant, l'échéance)
 échouer        verb
 écimer         verb
@@ -47,6 +48,7 @@
 écouler        verb
 écourter       verb
 écouter        verb
+écouvillonner  verb
 écrabouiller   verb style=colloquial alt=écraser
 écraser        verb
 écrémer        verb
@@ -91,6 +93,7 @@ effriter       verb
 électrifier    verb
 électriser     verb
 électrocuter   verb
+électrolyser   verb
 élever         verb
 élimer         verb
 éliminer       verb
@@ -166,6 +169,7 @@ empresser      verb pronominal
 emprisonner    verb
 emprunter      verb
 émuler         verb
+émulsifier     verb
 émulsionner    verb
 encadrer       verb
 encaisser      verb

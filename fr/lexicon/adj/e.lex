@@ -192,11 +192,13 @@ enzymatique    adj
 équestre       adj
 équilatéral    adj
 équin          adj
+équinoxial     adj
 équitable      adj adv=équitablement
 équivalent     adj
 équivoque      adj
 érectile       adj
 ergonomique    adj
+érosif         adj
 érotique       adj
 errant         adj
 erratique      adj
@@ -312,6 +314,7 @@ explosible     adj
 explosif       adj
 exponentiel    adj adv=exponentiellement
 exportable     adj
+exportateur    adj f=exportatrice
 exprès         adj f=expresse adv=expressément
 expressif      adj adv=expressivement
 expressionniste adj
