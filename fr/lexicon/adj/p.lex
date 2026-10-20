@@ -68,7 +68,7 @@ paramédical           adj
 paramétrable          adj
 paramétrique          adj
 paramilitaire         adj
-parano                adj style=colloquial alt=paranoïaque
+parano                adj f=parano style=colloquial alt=paranoïaque
 paranodal             adj
 paranoïaque           adj
 paranoïde             adj
