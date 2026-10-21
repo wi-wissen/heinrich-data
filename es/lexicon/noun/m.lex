@@ -832,6 +832,7 @@ militarismo  noun  g=m
 militarización noun  g=f
 milla        noun  g=f
 millar       noun  g=m
+millardo     noun  g=m note=a thousand million
 millón       noun  g=m
 millonada    noun  g=f style=colloquial alt=fortuna
 millonario   noun  g=m f=millonaria

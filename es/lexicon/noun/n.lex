@@ -285,6 +285,8 @@ noble        noun  g=m|f
 nobleza      noun  g=f
 nocaut       noun  g=m pl=nocauts note=adapted from English knockout
 noche        noun  g=f
+nochebuena   noun  g=f note=as the name of the festivity often capitalised: Nochebuena
+nochevieja   noun  g=f note=as the name of the festivity often capitalised: Nochevieja
 noción       noun  g=f
 nocividad    noun  g=f
 noctámbulo   noun  g=m f=noctámbula
