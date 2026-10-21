@@ -936,6 +936,7 @@ esquileo         noun  g=m
 esquilón         noun  g=m
 esquimal         noun  g=m|f
 esquina          noun  g=f
+esquinazo        noun  g=m note=dar esquinazo: to give someone the slip
 esquirla         noun  g=f
 esquirol         noun  g=m|f
 esquisto         noun  g=m
