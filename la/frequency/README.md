@@ -95,9 +95,11 @@ a source we do not use, or (Catullus) an incomplete Wikisource text (see below);
 - Small corpus (9.5M tokens; French has 151M), so the tail is thin: 60 % of the distinct forms occur once or
   twice, and the 164,964 kept forms cover 96.8 % of the tokens. Latin inflection spreads every lemma over many
   forms, so even common lemmas have rare forms.
-- Some school authors are thin or missing because their Wikisource pages come from a source we do not use:
+- Gaps: some school authors are thin or missing because their Wikisource pages come from a source we do not use:
   Livy books I-X and XXI-XXII (only 141 scan pages of book I came in), Plautus (806 tokens), Ovid's *Amores*,
-  Eutropius.
+  Eutropius. No allowed replacement exists for now: the Wikisource scans of Plautus are raw OCR with the
+  critical apparatus mixed in, the Gutenberg Plautus is a Loeb edition whose translator died in 1956, and
+  neither Gutenberg nor the Wikisource scans have the *Amores*.
 - Editions differ in spelling (`uolt`/`uult`, `optumus`/`optimus`, `inmitto`/`immitto`, `quom`/`cum`,
   medieval `e` for `ae`, `michi`); forms are counted as printed. Medieval spellings occur mainly in `late`.
 - Wikisource transcriptions without a named source are counted as they are; their typos and OCR errors stay in
