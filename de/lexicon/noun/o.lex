@@ -36,6 +36,7 @@ Offizier noun g=m gen=Offiziers pl=Offiziere
 Offizierin noun g=f gen=Offizierin pl=Offizierinnen
 Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
+Oganesson noun g=n gen=Oganessons pl=- note=chemical element
 Oheim noun g=m gen=Oheims|Oheimes pl=Oheime style=archaic note=uncle
 OHG noun g=f gen=OHG pl=OHGs note=offene Handelsgesellschaft
 Ohm noun g=n gen=Ohm|Ohms pl=Ohm sense=unit note=physical unit
@@ -51,6 +52,7 @@ Oktober noun g=m gen=Oktobers pl=Oktober
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
 Oligarch noun g=m gen=Oligarchen pl=Oligarchen
+Oligozän noun g=n gen=Oligozäns pl=- note=geological epoch
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olympiade noun g=f gen=Olympiade pl=Olympiaden
@@ -92,6 +94,7 @@ Ordinarius noun g=m gen=Ordinarius pl=Ordinarien note=full professor; bare genit
 Ordner noun g=m gen=Ordners pl=Ordner
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
+Ordovizium noun g=n gen=Ordoviziums pl=- note=geological period
 Ordre noun g=f gen=Ordre pl=Ordres style=archaic conf=75 note=order, command (French loan)
 Oregano noun g=m gen=Oreganos pl=- note=no plural
 Organ noun g=n gen=Organs pl=Organe
@@ -115,14 +118,17 @@ Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
 Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
+Orthostiche noun g=f gen=Orthostiche pl=Orthostichen
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
 Ortsvorsteher noun g=m gen=Ortsvorstehers pl=Ortsvorsteher note=compound not split by the analyser
 Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
 Oscar noun g=m gen=Oscars pl=Oscars note=film award
 Osmane noun g=m gen=Osmanen pl=Osmanen
+Osmium noun g=n gen=Osmiums pl=- note=chemical element
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
+Osteoporose noun g=f gen=Osteoporose pl=Osteoporosen
 Osterei noun g=n gen=Ostereis|Ostereies pl=Ostereier
 Osterferien noun g=pl
 Osterfeuer noun g=n gen=Osterfeuers pl=Osterfeuer
@@ -141,6 +147,8 @@ Ouvertüre noun g=f gen=Ouvertüre pl=Ouvertüren
 Oval noun g=n gen=Ovals pl=Ovale
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren
+Oxid noun g=n gen=Oxids|Oxides pl=Oxide
+Oxyd noun g=n gen=Oxyds|Oxydes pl=Oxyde conf=85 note=older spelling variant of Oxid, still found
 Oxymoron noun g=n gen=Oxymorons pl=Oxymora
 Ozean noun g=m gen=Ozeans pl=Ozeane
 Ozon noun g=n gen=Ozons pl=- note=no plural

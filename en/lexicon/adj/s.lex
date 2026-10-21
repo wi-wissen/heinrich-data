@@ -1,3 +1,4 @@
+sabermetric adj
 sable adj
 sacred adj cmp=more
 sacrificial adj
@@ -90,6 +91,7 @@ semi-arid adj
 semiannual adj conf=85
 semicircular adj
 seminal adj
+semiregular adj
 Semitic adj
 senatorial adj
 senior adj
@@ -127,6 +129,8 @@ shady adj cmp=er
 shaggy adj cmp=er
 shaky adj cmp=er adv=shakily
 shallow adj cmp=er
+shamanic adj
+shamanistic adj
 shameful adj cmp=more adv=shamefully
 shameless adj adv=shamelessly
 shapeless adj
@@ -233,6 +237,7 @@ sore adj cmp=er
 sorrel adj
 sorrowful adj adv=sorrowfully
 sorry adj comp=to|that|p_ing prep=for|about cmp=er
+soteriological adj
 sound adj cmp=er adv=soundly
 sour adj cmp=er
 south adj

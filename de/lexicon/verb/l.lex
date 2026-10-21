@@ -14,6 +14,7 @@ lärmen verb class=weak pp=gelärmt perf=haben
 lassen       verb class=strong 3sg=lässt past=ließ pp=gelassen subj2=ließe perf=haben note=also causative auxiliary (ich lasse ihn kommen); Ersatzinfinitiv hat kommen lassen
 lasten verb class=weak pp=gelastet perf=haben note=auf jemandem lasten
 lästern verb class=weak pp=gelästert perf=haben
+latinisieren verb class=weak pp=latinisiert perf=haben
 lauern verb class=weak pp=gelauert perf=haben
 laufen       verb class=strong 3sg=läuft past=lief pp=gelaufen subj2=liefe perf=sein
 lauschen verb class=weak pp=gelauscht perf=haben

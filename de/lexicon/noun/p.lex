@@ -14,13 +14,17 @@ Paket noun g=n gen=Pakets|Paketes pl=Pakete
 Paketshop noun g=m gen=Paketshops pl=Paketshops
 Pakt noun g=m gen=Pakts|Paktes pl=Pakte
 Palais noun g=n gen=Palais pl=Palais note=des Palais (silent s)
+Paläogen noun g=n gen=Paläogens pl=- note=geological period
 Paläontologe noun g=m gen=Paläontologen pl=Paläontologen
 Paläontologie noun g=f gen=Paläontologie pl=- note=science, no plural
+Paläozän noun g=n gen=Paläozäns pl=- note=geological epoch
+Paläozoikum noun g=n gen=Paläozoikums pl=- note=geological era
 Palas noun g=m gen=Palas pl=Palase conf=70 note=main hall building of a castle; des Palas; plural Palase uncertain
 Palast noun g=m gen=Palastes|Palasts pl=Paläste
 Palästinenser noun g=m gen=Palästinensers pl=Palästinenser
 Palazzo noun g=m gen=Palazzos pl=Palazzi|Palazzos
 Palette noun g=f gen=Palette pl=Paletten
+Palladium noun g=n gen=Palladiums pl=- note=chemical element
 Palme noun g=f gen=Palme pl=Palmen
 Pampelmuse noun g=f gen=Pampelmuse pl=Pampelmusen
 Panda noun g=m gen=Pandas pl=Pandas
@@ -71,11 +75,15 @@ Parlamentarierin noun g=f gen=Parlamentarierin pl=Parlamentarierinnen
 Parlamentarismus noun g=m gen=Parlamentarismus pl=- note=mass noun
 Parodie noun g=f gen=Parodie pl=Parodien
 Parole noun g=f gen=Parole pl=Parolen
+Parser noun g=m gen=Parsers pl=Parser
 Partei noun g=f gen=Partei pl=Parteien
 Parterre noun g=n gen=Parterres pl=Parterres
 Partie noun g=f gen=Partie pl=Partien
 Partikel noun g=f gen=Partikel pl=Partikeln
 Partisan noun g=m gen=Partisanen pl=Partisanen
+Partition noun g=f gen=Partition pl=Partitionen
+Partitionierung noun g=f gen=Partitionierung pl=Partitionierungen
+Partitionstabelle noun g=f gen=Partitionstabelle pl=Partitionstabellen
 Partitur noun g=f gen=Partitur pl=Partituren
 Partizip noun g=n gen=Partizips pl=Partizipien
 Partizipation noun g=f gen=Partizipation pl=Partizipationen
@@ -150,6 +158,9 @@ Peripetie noun g=f gen=Peripetie pl=Peripetien
 Peripherie noun g=f gen=Peripherie pl=Peripherien
 Perkussion noun g=f gen=Perkussion pl=Perkussionen
 Perle noun g=f gen=Perle pl=Perlen
+Perm noun g=n gen=Perms pl=- note=geological period
+Permutation noun g=f gen=Permutation pl=Permutationen
+Peroxid noun g=n gen=Peroxids|Peroxides pl=Peroxide
 Perser noun g=m gen=Persers pl=Perser
 Perso noun g=m gen=Persos pl=Persos style=colloquial alt=Personalausweis note=Personalausweis
 Person noun g=f gen=Person pl=Personen
@@ -240,8 +251,12 @@ Philosophie noun g=f gen=Philosophie pl=Philosophien
 Philosophin noun g=f gen=Philosophin pl=Philosophinnen
 Phishing noun g=n gen=Phishings pl=- note=no plural
 Phönix noun g=m gen=Phönix|Phönixes pl=Phönixe note=des Phönix(es)
+Phosphat noun g=n gen=Phosphats|Phosphates pl=Phosphate
 Phosphor noun g=m gen=Phosphors pl=- note=chemical element
+Photo noun g=n gen=Photos pl=Photos conf=85 note=spelling variant of Foto, mostly in technical words
+Photoeffekt noun g=m gen=Photoeffekts|Photoeffektes pl=Photoeffekte
 Photographie noun g=f gen=Photographie pl=Photographien note=variant spelling of Fotografie
+Photon noun g=n gen=Photons pl=Photonen
 Photosynthese noun g=f gen=Photosynthese pl=- note=no plural
 Photovoltaik noun g=f gen=Photovoltaik pl=- note=no plural
 Phrase noun g=f gen=Phrase pl=Phrasen
@@ -310,7 +325,9 @@ Plausibilität noun g=f gen=Plausibilität pl=Plausibilitäten
 Playback noun g=n gen=Playbacks pl=Playbacks
 Playlist noun g=f gen=Playlist pl=Playlists
 Playoff noun g=n gen=Playoffs pl=Playoffs conf=90 note=usually plural (die Playoffs); gender n assumed
+Pleistozän noun g=n gen=Pleistozäns pl=- note=geological epoch
 Plenum noun g=n gen=Plenums pl=Plenen|Plena[rare]
+Pliozän noun g=n gen=Pliozäns pl=- note=geological epoch
 Plombe noun g=f gen=Plombe pl=Plomben
 Plug-in noun g=n gen=Plug-ins pl=Plug-ins
 Plugin noun g=n gen=Plugins pl=Plugins note=variant spelling of Plug-in
@@ -318,6 +335,7 @@ Plural noun g=m gen=Plurals pl=Plurale
 Plus noun g=n gen=Plus pl=- note=das Plus; des Plus (bare genitive); mostly singular
 Plüschtier noun g=n gen=Plüschtiers|Plüschtieres pl=Plüschtiere
 Plusquamperfekt noun g=n gen=Plusquamperfekts pl=Plusquamperfekte
+Plutonium noun g=n gen=Plutoniums pl=- note=chemical element
 PLZ noun g=f gen=PLZ pl=PLZ|PLZs note=Postleitzahl
 Pöbel noun g=m gen=Pöbels pl=- note=no plural
 Pocken noun g=pl note=smallpox; plurale tantum
@@ -347,7 +365,9 @@ Polizist noun g=m gen=Polizisten pl=Polizisten
 Polizistin noun g=f gen=Polizistin pl=Polizistinnen
 Polkappe noun g=f gen=Polkappe pl=Polkappen
 Pollen noun g=m gen=Pollens pl=Pollen
+Polonium noun g=n gen=Poloniums pl=- note=chemical element
 Polster noun g=n gen=Polsters pl=Polster
+Polynom noun g=n gen=Polynoms pl=Polynome
 Polytechnikum noun g=n gen=Polytechnikums pl=Polytechniken|Polytechnika
 Pommes noun g=pl
 Pomp noun g=m gen=Pomps|Pompes pl=- note=mass noun
@@ -400,17 +420,20 @@ Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzi
 Potenz noun g=f gen=Potenz pl=Potenzen
 Potenzial noun g=n gen=Potenzials pl=Potenziale
 Potsdamer noun g=m gen=Potsdamers pl=Potsdamer note=inhabitant of Potsdam
+Pottwal noun g=m gen=Pottwals|Pottwales pl=Pottwale
 Powerbank noun g=f gen=Powerbank pl=Powerbanks
 Powiat noun g=m gen=Powiats pl=Powiate conf=85 note=Polish administrative district
 Präambel noun g=f gen=Präambel pl=Präambeln
 Pracht noun g=f gen=Pracht pl=- note=mass noun
 Prädikat noun g=n gen=Prädikats|Prädikates pl=Prädikate
 Prädikativ noun g=n gen=Prädikativs pl=Prädikative
+Prädikator noun g=m gen=Prädikators pl=Prädikatoren
 Präfekt noun g=m gen=Präfekten pl=Präfekten
 Präfektur noun g=f gen=Präfektur pl=Präfekturen
 Präfix noun g=n gen=Präfixes pl=Präfixe
 Prager noun g=m gen=Pragers pl=Prager note=inhabitant of Prague; also the indeclinable adjective
 Prägung noun g=f gen=Prägung pl=Prägungen
+Präkambrium noun g=n gen=Präkambriums pl=- note=geological eon
 Praktik noun g=f gen=Praktik pl=Praktiken
 Praktikant noun g=m gen=Praktikanten pl=Praktikanten
 Praktikantin noun g=f gen=Praktikantin pl=Praktikantinnen
@@ -429,6 +452,7 @@ Prärie noun g=f gen=Prärie pl=Prärien
 Präsens noun g=n gen=Präsens pl=Präsentia
 Präsentation noun g=f gen=Präsentation pl=Präsentationen
 Präsenz noun g=f gen=Präsenz pl=- note=mass noun
+Praseodym noun g=n gen=Praseodyms pl=- note=chemical element
 Präsident noun g=m gen=Präsidenten pl=Präsidenten
 Präsidentin noun g=f gen=Präsidentin pl=Präsidentinnen
 Präsidentschaft noun g=f gen=Präsidentschaft pl=Präsidentschaften
@@ -502,16 +526,20 @@ Prokurist noun g=m gen=Prokuristen pl=Prokuristen
 Prokuristin noun g=f gen=Prokuristin pl=Prokuristinnen
 Prolog noun g=m gen=Prologs pl=Prologe
 Promenade noun g=f gen=Promenade pl=Promenaden
+Promethium noun g=n gen=Promethiums pl=- note=chemical element
 Promille noun g=n gen=Promilles|Promille pl=Promille,Promille,Promille,Promille note=dative plural without -n (mit zwei Promille)
 Prominente noun g=m|f decl=adj note=celebrity
 Promotion noun g=f gen=Promotion pl=Promotionen
 Pronomen noun g=n gen=Pronomens pl=Pronomen|Pronomina
 Propaganda noun g=f gen=Propaganda pl=- note=mass noun
+Propan noun g=n gen=Propans pl=- note=mass noun; gas
 Propeller noun g=m gen=Propellers pl=Propeller
 Prophet noun g=m gen=Propheten pl=Propheten
 Prophetin noun g=f gen=Prophetin pl=Prophetinnen
 Prophezeiung noun g=f gen=Prophezeiung pl=Prophezeiungen
 Proportion noun g=f gen=Proportion pl=Proportionen
+Proportionalität noun g=f gen=Proportionalität pl=Proportionalitäten
+Proportionalitätsfaktor noun g=m gen=Proportionalitätsfaktors pl=Proportionalitätsfaktoren
 Propst noun g=m gen=Propstes|Propsts pl=Pröpste
 Prosa noun g=f gen=Prosa pl=- note=mass noun
 Prosit noun g=n gen=Prosit pl=- note=no genitive ending
@@ -519,6 +547,7 @@ Prospekt noun g=m gen=Prospekts|Prospektes pl=Prospekte
 Prosperität noun g=f gen=Prosperität pl=- note=abstract noun, no plural
 Prostituierte noun g=m|f decl=adj
 Prostitution noun g=f gen=Prostitution pl=- note=mass noun
+Protactinium noun g=n gen=Protactiniums pl=- note=chemical element
 Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
 Protein noun g=n gen=Proteins pl=Proteine

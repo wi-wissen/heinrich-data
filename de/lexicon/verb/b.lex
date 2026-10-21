@@ -250,6 +250,7 @@ besteuern verb class=weak pp=besteuert perf=haben
 bestimmen     verb class=weak pp=bestimmt perf=haben
 bestrafen verb class=weak pp=bestraft perf=haben
 bestreichen verb class=strong 3sg=bestreicht past=bestrich pp=bestrichen subj2=bestriche perf=haben
+bestreiken verb class=weak pp=bestreikt perf=haben
 bestreiten    verb class=strong 3sg=bestreitet past=bestritt pp=bestritten subj2=bestritte perf=haben
 bestreuen verb class=weak pp=bestreut perf=haben
 bestücken verb class=weak pp=bestückt perf=haben

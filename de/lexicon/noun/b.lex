@@ -1,4 +1,6 @@
 Baby noun g=n gen=Babys pl=Babys|Babies[rare]
+Babylonier noun g=m gen=Babyloniers pl=Babylonier
+Babylonierin noun g=f gen=Babylonierin pl=Babylonierinnen
 Babysitter noun g=m gen=Babysitters pl=Babysitter
 Babysitterin noun g=f gen=Babysitterin pl=Babysitterinnen
 Bach          noun g=m gen=Baches|Bachs pl=Bäche
@@ -65,7 +67,10 @@ Bar noun g=f gen=Bar pl=Bars sense=pub note=die Bar: pub, counter
 Bär noun g=m gen=Bären pl=Bären
 Baracke noun g=f gen=Baracke pl=Baracken
 Bariton noun g=m gen=Baritons pl=Baritone
+Barium noun g=n gen=Bariums pl=- note=chemical element
 Barke noun g=f gen=Barke pl=Barken
+Bärlapp noun g=m gen=Bärlapps pl=Bärlappe
+Bärlapppflanze noun g=f gen=Bärlapppflanze pl=Bärlapppflanzen
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
 Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
 Barometer noun g=n gen=Barometers pl=Barometer
@@ -264,6 +269,7 @@ Benutzer noun g=m gen=Benutzers pl=Benutzer
 Benutzerin noun g=f gen=Benutzerin pl=Benutzerinnen
 Benutzung noun g=f gen=Benutzung pl=- note=mass noun
 Benzin noun g=n gen=Benzins pl=Benzine
+Benzol noun g=n gen=Benzols pl=- note=mass noun
 Beobachter noun g=m gen=Beobachters pl=Beobachter
 Beobachterin noun g=f gen=Beobachterin pl=Beobachterinnen
 Beobachtung noun g=f gen=Beobachtung pl=Beobachtungen
@@ -293,6 +299,8 @@ Berichterstatter noun g=m gen=Berichterstatters pl=Berichterstatter
 Berichterstatterin noun g=f gen=Berichterstatterin pl=Berichterstatterinnen
 Berichterstattung noun g=f gen=Berichterstattung pl=- note=mass noun
 Berichtigung noun g=f gen=Berichtigung pl=Berichtigungen
+Berkelium noun g=n gen=Berkeliums pl=- note=chemical element
+Berlinale noun g=f gen=Berlinale pl=Berlinalen note=Berlin film festival
 Berliner      noun g=m gen=Berliners pl=Berliner note=inhabitant of Berlin
 Berner noun g=m gen=Berners pl=Berner note=inhabitant of Bern
 Bernstein noun g=m gen=Bernsteins pl=Bernsteine
@@ -304,6 +312,7 @@ Berufsgenossenschaft noun g=f gen=Berufsgenossenschaft pl=Berufsgenossenschaften
 Berufsschule noun g=f gen=Berufsschule pl=Berufsschulen
 Berufung noun g=f gen=Berufung pl=Berufungen
 Berührung noun g=f gen=Berührung pl=Berührungen
+Beryllium noun g=n gen=Berylliums pl=- note=chemical element
 Besatzer noun g=m gen=Besatzers pl=Besatzer
 Besatzung noun g=f gen=Besatzung pl=Besatzungen
 Beschädigung noun g=f gen=Beschädigung pl=Beschädigungen
@@ -453,6 +462,8 @@ Biene noun g=f gen=Biene pl=Bienen
 Bier noun g=n gen=Bieres|Biers pl=Biere
 Bieter noun g=m gen=Bieters pl=Bieter
 Bieterin noun g=f gen=Bieterin pl=Bieterinnen
+Bijektion noun g=f gen=Bijektion pl=Bijektionen
+Bijektivität noun g=f gen=Bijektivität pl=- note=property; no plural
 Bikini noun g=m gen=Bikinis pl=Bikinis
 Bilanz noun g=f gen=Bilanz pl=Bilanzen
 Bild          noun g=n gen=Bildes|Bilds pl=Bilder
@@ -482,12 +493,14 @@ Biologie noun g=f gen=Biologie pl=- note=mass noun
 Biologin noun g=f gen=Biologin pl=Biologinnen
 Biomasse noun g=f gen=Biomasse pl=- note=mass noun
 Biomüll noun g=m gen=Biomülls pl=- note=no plural
+BIOS noun g=n gen=BIOS pl=- note=Basic Input/Output System
 Biosphäre noun g=f gen=Biosphäre pl=Biosphären
 Biotop noun g=n|m gen=Biotops pl=Biotope
 BIP noun g=n gen=BIP|BIPs pl=- note=Bruttoinlandsprodukt
 Birke noun g=f gen=Birke pl=Birken
 Birne noun g=f gen=Birne pl=Birnen
 Bischof       noun g=m gen=Bischofs|Bischofes pl=Bischöfe
+Bismut noun g=n gen=Bismuts|Bismutes pl=- note=chemical element; also Wismut
 Bison noun g=m gen=Bisons pl=Bisons
 Biss noun g=m gen=Bisses pl=Bisse
 Bissen noun g=m gen=Bissens pl=Bissen
@@ -516,6 +529,7 @@ Blitz noun g=m gen=Blitzes pl=Blitze
 Blitzer noun g=m gen=Blitzers pl=Blitzer
 Block noun g=m gen=Blocks|Blockes pl=Blöcke|Blocks
 Blockade noun g=f gen=Blockade pl=Blockaden
+Blockbuster noun g=m gen=Blockbusters pl=Blockbuster
 Blödsinn noun g=m gen=Blödsinns pl=- note=no plural
 Blog noun g=m gen=Blogs pl=Blogs
 Blogger noun g=m gen=Bloggers pl=Blogger
@@ -543,6 +557,7 @@ Böe noun g=f gen=Böe pl=Böen
 Bogen noun g=m gen=Bogens pl=Bögen|Bogen
 Bohne noun g=f gen=Bohne pl=Bohnen
 Bohrer noun g=m gen=Bohrers pl=Bohrer
+Bohrium noun g=n gen=Bohriums pl=- note=chemical element
 Bohrung noun g=f gen=Bohrung pl=Bohrungen
 Böller noun g=m gen=Böllers pl=Böller
 Bollerwagen noun g=m gen=Bollerwagens pl=Bollerwagen
@@ -558,9 +573,11 @@ Bonbon noun g=n|m gen=Bonbons pl=Bonbons
 Bond noun g=m gen=Bonds pl=Bonds note=bond (finance)
 Bonität noun g=f gen=Bonität pl=Bonitäten
 Bonner noun g=m gen=Bonners pl=Bonner note=inhabitant of Bonn
+Bonsai noun g=m gen=Bonsais pl=Bonsais
 Bonus noun g=m gen=Bonus|Bonusses pl=Bonusse|Boni
 Boom noun g=m gen=Booms pl=Booms
 Boot          noun g=n gen=Bootes|Boots pl=Boote
+Bootloader noun g=m gen=Bootloaders pl=Bootloader
 Bor noun g=n gen=Bors pl=- note=chemical element
 Bord          noun g=m gen=Bords|Bordes pl=Borde conf=70 note=an Bord; plural rare
 Börde noun g=f gen=Börde pl=Börden
@@ -570,6 +587,7 @@ Borste noun g=f gen=Borste pl=Borsten
 Böschung noun g=f gen=Böschung pl=Böschungen
 Bösewicht noun g=m gen=Bösewichts|Bösewichtes pl=Bösewichte
 Bosheit noun g=f gen=Bosheit pl=Bosheiten
+Boson noun g=n gen=Bosons pl=Bosonen
 Boss noun g=m gen=Bosses pl=Bosse
 Botanik noun g=f gen=Botanik pl=- note=no plural
 Botaniker noun g=m gen=Botanikers pl=Botaniker
@@ -628,7 +646,9 @@ Brillengestell noun g=n gen=Brillengestells pl=Brillengestelle
 Brise noun g=f gen=Brise pl=Brisen
 Brite noun g=m gen=Briten pl=Briten
 Brokkoli noun g=m gen=Brokkolis pl=- note=no plural
+Brom noun g=n gen=Broms pl=- note=chemical element
 Brombeere noun g=f gen=Brombeere pl=Brombeeren
+Bromid noun g=n gen=Bromids|Bromides pl=Bromide
 Bronze        noun g=f gen=Bronze pl=Bronzen
 Bronzemedaille noun g=f gen=Bronzemedaille pl=Bronzemedaillen
 Bronzezeit noun g=f gen=Bronzezeit pl=- note=epoch; no plural
@@ -729,7 +749,10 @@ Business noun g=n gen=Business pl=- note=das Business; mass noun
 Bussard noun g=m gen=Bussards pl=Bussarde
 Buße noun g=f gen=Buße pl=Bußen
 Büste noun g=f gen=Büste pl=Büsten
+Butan noun g=n gen=Butans pl=Butane note=gas; plural for the isomers (n-Butan, Isobutan)
 Butler noun g=m gen=Butlers pl=Butler
 Büttenrede noun g=f gen=Büttenrede pl=Büttenreden
 Butter noun g=f gen=Butter pl=- note=mass noun
 Button noun g=m gen=Buttons pl=Buttons
+Byte noun g=n gen=Bytes pl=Byte|Bytes
+Bytecode noun g=m gen=Bytecodes pl=Bytecodes

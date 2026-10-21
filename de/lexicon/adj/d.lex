@@ -27,6 +27,7 @@ dezentral adj
 dezidiert adj cmp=dezidierter sup=dezidiertesten
 diagnostisch adj
 diagonal adj
+dichotom adj
 dicht         adj cmp=dichter sup=dichtesten
 dichterisch adj
 dick adj cmp=dicker sup=dicksten
@@ -44,6 +45,7 @@ diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
 divers adj
+doldig adj
 dominant adj cmp=dominanter sup=dominantesten
 dominikanisch adj
 doof adj cmp=doofer sup=doofsten style=colloquial alt=dumm
@@ -62,6 +64,8 @@ dreischiffig adj note=architecture: with three naves
 dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
+dreiwertig adj
+dreizählig adj
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten
 drittklassig adj

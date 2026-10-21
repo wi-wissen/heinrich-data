@@ -20,6 +20,7 @@ identifier     noun
 identity       noun
 ideology       noun
 idiom noun
+idiophone noun
 idiot noun
 idleness noun
 idler noun
@@ -324,6 +325,8 @@ interdiction noun
 interest       noun prep=in|on xprep=for? vb=show|take|have
 interface      noun
 interference   noun prep=in|with|from
+interferometer noun
+interferometry noun pl=- note=uncountable
 interim        noun
 interior       noun
 interlude noun

@@ -126,7 +126,7 @@ barrow noun
 bartender noun
 barter noun pl=- note=uncountable
 basalt noun
-base noun
+base noun prep=of|for
 baseball noun
 baseboard noun region=US note=British skirting board
 baseline noun
@@ -250,12 +250,15 @@ Bengali noun
 bento noun pl=bentos
 benzene noun pl=- note=uncountable
 benzodiazepine noun
+benzoin noun pl=- note=uncountable
+benzoyl noun
 bequest noun
 Berber noun
 bereavement noun
 berry noun
 berth noun
 besieger noun
+bestiary noun
 bestie noun style=colloquial alt=best_friend
 bestseller noun
 bet noun prep=on vb=make|place|win|lose|take|accept
@@ -431,6 +434,7 @@ boating noun pl=- note=uncountable
 boatman noun pl=boatmen
 boatswain noun
 bob noun
+bobwhite noun
 bodice noun
 body noun
 bodybuilder noun
@@ -675,6 +679,7 @@ bulgur noun pl=- note=uncountable
 bulk noun pl=- note=uncountable
 bulkhead noun
 bull noun
+bulla noun pl=bullae
 bulldog noun
 bullet noun
 bulletin noun
@@ -694,6 +699,7 @@ bungalow noun
 bunk noun
 bunker noun
 bunny noun
+bunt noun
 buoyancy noun pl=- note=uncountable
 buprenorphine noun pl=- note=uncountable
 burden noun prep=on|of|to|for

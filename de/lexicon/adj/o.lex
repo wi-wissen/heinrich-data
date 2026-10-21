@@ -42,6 +42,7 @@ original adj
 originär adj
 originell adj cmp=origineller sup=originellsten
 orthodox adj cmp=orthodoxer sup=orthodoxesten
+orthostatisch adj
 örtlich adj
 osmanisch adj
 österreichisch adj

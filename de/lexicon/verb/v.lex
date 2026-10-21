@@ -107,10 +107,12 @@ verfügen verb class=weak pp=verfügt perf=haben
 verführen verb class=weak pp=verführt perf=haben
 verfüllen verb class=weak pp=verfüllt perf=haben
 vergammeln verb class=weak pp=vergammelt perf=sein
+vergären verb class=strong 3sg=vergärt past=vergor|vergärte pp=vergoren subj2=vergöre|vergärte perf=haben|sein conf=85 note=strong forms usual; weak participle vergärt is rare
 vergeben verb class=strong 3sg=vergibt past=vergab pp=vergeben subj2=vergäbe perf=haben
 vergegenwärtigen verb class=weak pp=vergegenwärtigt perf=haben refl=dat
 vergehen verb class=strong 3sg=vergeht past=verging pp=vergangen subj2=verginge perf=sein
 vergelten verb class=strong 3sg=vergilt past=vergalt pp=vergolten subj2=vergälte|vergölte perf=haben
+vergesellschaften verb class=weak pp=vergesellschaftet perf=haben
 vergessen verb class=strong 3sg=vergisst past=vergaß pp=vergessen subj2=vergäße perf=haben
 vergeuden verb class=weak pp=vergeudet perf=haben
 vergewaltigen verb class=weak pp=vergewaltigt perf=haben
@@ -296,6 +298,7 @@ verschmähen verb class=weak pp=verschmäht perf=haben
 verschmelzen verb class=strong 3sg=verschmilzt past=verschmolz pp=verschmolzen subj2=verschmölze perf=haben|sein
 verschmutzen verb class=weak pp=verschmutzt perf=haben
 verschnaufen verb class=weak pp=verschnauft perf=haben
+verschneiden verb class=strong 3sg=verschneidet past=verschnitt pp=verschnitten subj2=verschnitte perf=haben
 verschneien verb class=weak pp=verschneit perf=sein
 verschnüren verb class=weak pp=verschnürt perf=haben
 verschonen verb class=weak pp=verschont perf=haben

@@ -35,7 +35,8 @@ danse noun g=f
 danseur noun g=m f=danseuse
 daphnie noun g=f
 dard noun g=m
-daron          noun g=m f=daronne style=colloquial alt=père note=feminine daronne: mère
+daron          noun g=m style=colloquial alt=père
+daronne        noun g=f style=colloquial alt=mère
 darse noun g=f
 darwinisme noun g=m
 datagramme     noun g=m
