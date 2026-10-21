@@ -239,7 +239,7 @@ aguerrido    adj
 aguileño     adj
 agustino     adj
 ahorrativo   adj
-aimara       adj
+aimara       adj var=aimará note=aimara and aimará are both used
 airado       adj adv=airadamente
 airoso       adj adv=airosamente
 aislacionista adj

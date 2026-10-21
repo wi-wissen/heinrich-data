@@ -454,7 +454,7 @@ ahorrador    noun g=m f=ahorradora
 ahorro       noun g=m
 ahumadero    noun g=m
 aikido       noun g=m
-aimara       noun g=m|f
+aimara       noun g=m|f var=aimará note=aimara and aimará are both used
 airbag       noun g=m foreign
 aire         noun g=m
 aireación    noun g=f
