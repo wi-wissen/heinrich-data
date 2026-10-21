@@ -223,4 +223,5 @@ burlesco     adj
 burlón       adj
 burocrático  adj
 bursátil     adj
+butano       adj inv note=colour: una bombona color butano, chalecos butano
 byroniano    adj
