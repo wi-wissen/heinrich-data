@@ -10,6 +10,7 @@ babuino      noun g=m
 bacalao      noun g=m
 bacanal      noun g=f
 bacante      noun g=f
+bacará       noun g=m pl=bacarás
 bachata      noun g=f
 bache        noun g=m
 bachiller    noun g=m|f
@@ -34,6 +35,7 @@ bailador     noun g=m f=bailadora
 bailaor      noun g=m f=bailaora
 bailarín     noun g=m f=bailarina
 baile        noun g=m
+bailío       noun g=m
 bailoteo     noun g=m
 baipás       noun g=m
 baja         noun g=f note=sick leave, casualty, resignation: dar de baja
@@ -66,6 +68,7 @@ balcón       noun g=m
 balda        noun g=f
 baldaquino   noun g=m
 balde        noun g=m
+baldón       noun g=m
 baldosa      noun g=f
 baldosín     noun g=m
 balido       noun g=m
@@ -115,6 +118,7 @@ bando        noun g=m
 bandolerismo noun g=m
 bandolero    noun g=m f=bandolera
 bandoneón    noun g=m
+bandoneonista noun g=m|f
 bandurria    noun g=f
 banjo        noun g=m
 banquero     noun g=m f=banquera
@@ -168,6 +172,7 @@ barómetro    noun g=m
 barón        noun g=m f=baronesa
 baronía      noun g=f
 barquero     noun g=m f=barquera
+barquilla    noun g=f
 barquillo    noun g=m
 barra        noun g=f
 barrabasada  noun g=f
@@ -204,6 +209,7 @@ basilisco    noun g=m
 bastardía    noun g=f
 bastardo     noun g=m f=bastarda
 bastidor     noun g=m
+bastimento   noun g=m
 bastión      noun g=m
 basto        noun g=m note=the suit of clubs in Spanish cards, mostly plural bastos
 bastón       noun g=m
@@ -241,6 +247,7 @@ bauxita      noun g=f
 baya         noun g=f
 bayeta       noun g=f
 bayoneta     noun g=f
+baza         noun g=f
 bazar        noun g=m
 bazo         noun g=m
 bazuca       noun g=amb conf=85 note=la bazuca and el bazuca both in use
@@ -285,6 +292,7 @@ beneplácito  noun g=m
 benevolencia noun g=f
 bengala      noun g=f
 benignidad   noun g=f
+beninés      noun g=m f=beninesa
 benjamín     noun g=m f=benjamina
 benzodiazepina noun g=f
 berberecho   noun g=m
@@ -318,6 +326,7 @@ bibliógrafo  noun g=m f=bibliógrafa
 biblioteca   noun g=f
 bibliotecario noun g=m f=bibliotecaria
 bicampeón    noun g=m f=bicampeona
+bicapa       noun g=f
 bicarbonato  noun g=m
 bicentenario noun g=m
 bíceps       noun g=m
@@ -364,6 +373,7 @@ biodisponibilidad noun g=f
 biodiversidad noun g=f
 bioeconomía  noun g=f
 bioenergía   noun g=f
+bioetanol    noun g=m
 bioética     noun g=f
 biofísica    noun g=f
 biogás       noun g=m
@@ -382,6 +392,7 @@ biombo       noun g=m
 biomecánica  noun g=f
 biomedicina  noun g=f
 biometano    noun g=m
+biometanol   noun g=m
 biometría    noun g=f
 biomolécula  noun g=f
 biopsia      noun g=f
@@ -436,6 +447,7 @@ blog         noun g=m
 bloguero     noun g=m f=bloguera
 blonda       noun g=f
 bloque       noun g=m
+bloqueador   noun g=m
 bloqueo      noun g=m
 blues        noun g=m inv
 blusa        noun g=f
@@ -482,16 +494,19 @@ boli         noun g=m style=colloquial alt=bolígrafo
 boliche      noun g=m
 bólido       noun g=m
 bolígrafo    noun g=m
+bolita       noun g=f
 bolívar      noun g=m
 bollería     noun g=f
 bollo        noun g=m
 bolo         noun g=m
 bolsa        noun g=f
 bolsillo     noun g=m
+bolsita      noun g=f
 bolso        noun g=m
 bomba        noun g=f
 bombardeo    noun g=m
 bombardero   noun g=m
+bombardino   noun g=m
 bombeo       noun g=m
 bombero      noun g=m f=bombera
 bombilla     noun g=f
@@ -525,6 +540,7 @@ bordillo     noun g=m
 bordo        noun g=m note=a bordo
 bordón       noun g=m
 bordura      noun g=f
+boricua      noun g=m|f
 borla        noun g=f
 borne        noun g=m
 borrachera   noun g=f
@@ -539,6 +555,7 @@ bosón        noun g=m
 bosque       noun g=m
 bosquecillo  noun g=m
 bosquejo     noun g=m
+bosquete     noun g=m
 bostezo      noun g=m
 bota         noun g=f
 botadura     noun g=f
@@ -597,6 +614,7 @@ bretón       noun g=m f=bretona
 breva        noun g=f
 brevedad     noun g=f
 breviario    noun g=m
+brezal       noun g=m
 brezo        noun g=m
 bribón       noun g=m f=bribona
 bricolaje    noun g=m
@@ -610,8 +628,10 @@ brillo       noun g=m
 brinco       noun g=m
 brindis      noun g=m
 brío         noun g=m
+briofita     noun g=f
 briqueta     noun g=f
 brisa        noun g=f
+britano      noun g=m f=britana
 brizna       noun g=f
 broca        noun g=f
 brocado      noun g=m
@@ -686,6 +706,7 @@ bumerán      noun g=m
 búnker       noun g=m pl=búnkeres
 buñolería    noun g=f
 buñuelo      noun g=m
+bupropión    noun g=m
 buque        noun g=m
 burbuja      noun g=f
 burbujeo     noun g=m
@@ -694,7 +715,9 @@ burdeos      noun g=m note=the colour and the wine
 burgo        noun g=m
 burgomaestre noun g=m
 burguesía    noun g=f
+burgundio    noun g=m f=burgundia
 buril        noun g=m
+burka        noun g=m
 burla        noun g=f
 burlador     noun g=m f=burladora
 buró         noun g=m

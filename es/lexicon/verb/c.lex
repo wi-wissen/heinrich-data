@@ -184,6 +184,7 @@ cocinar      verb
 codear       verb pronominal
 codiciar     verb class=diphthong
 codificar    verb
+codirigir    verb
 coescribir   verb pp=coescrito
 coexistir    verb
 cofinanciar  verb class=diphthong
@@ -221,6 +222,7 @@ comer        verb
 comercializar verb
 comerciar    verb class=diphthong
 cometer      verb
+comisariar   verb class=diphthong
 comisionar   verb
 compactar    verb
 compadecer   verb class=zco
@@ -388,6 +390,7 @@ convivir     verb
 convocar     verb
 convulsionar verb
 cooperar     verb
+cooperativizar verb
 coordinar    verb
 copar        verb
 copear       verb

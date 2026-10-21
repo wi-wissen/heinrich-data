@@ -5,6 +5,7 @@ abreviadamente adv
 acaso        adv
 acerbamente  adv
 acerca       adv note=acerca de
+acreditadamente adv
 acullá       adv style=literary
 acumulativamente adv
 adelante     adv
@@ -24,6 +25,7 @@ amén         adv note=amén de; as the closing of a prayer
 amenazadoramente adv
 anatómicamente adv
 ancestralmente adv
+anchamente   adv
 angostamente adv
 anhelosamente adv
 anímicamente adv
@@ -48,6 +50,7 @@ arriba       adv
 arrogantemente adv
 artesanalmente adv
 asaz         adv style=literary
+asexualmente adv
 asimétricamente adv
 asimismo     adv
 ásperamente  adv

@@ -23,7 +23,7 @@ abrasador    adj
 abrasivo     adj
 abreviado    adj
 abrigado     adj
-abrumador    adj
+abrumador    adj adv=abrumadoramente
 abrupto      adj adv=abruptamente
 absidial     adj
 absolutista  adj
@@ -95,7 +95,9 @@ acreedor     adj
 acrílico     adj
 acrítico     adj
 acrobático   adj
+actinomorfo  adj
 activo       adj adv=activamente
+actor        adj note=legal: la parte actora
 actoral      adj
 actual       adj adv=actualmente
 actualizable adj
@@ -250,6 +252,7 @@ ajustable    adj
 ajustado     adj adv=ajustadamente
 alabastrino  adj
 alado        adj
+alamán       adj
 alambicado   adj
 alano        adj
 alargado     adj
@@ -348,6 +351,7 @@ americanista adj
 americano    adj
 amerindio    adj
 amigable     adj adv=amigablemente
+amiotrófico  adj
 amistoso     adj adv=amistosamente
 amnésico     adj
 amniótico    adj
@@ -541,6 +545,7 @@ antropomórfico adj
 antropomorfo adj
 anual        adj adv=anualmente
 anudado      adj
+anuente      adj
 anulable     adj
 anunciador   adj
 añejo        adj
@@ -700,6 +705,7 @@ asonante     adj
 aspiracional adj
 asquenazí    adj pl=asquenazíes|asquenazís[var]
 asqueroso    adj
+astral       adj
 astringente  adj
 astronáutico adj
 astronómico  adj
@@ -777,6 +783,7 @@ autodestructivo adj
 autodidacta  adj
 autodidacto  adj
 autoexplicativo adj
+autógrafo    adj
 autoinfligido adj
 autoinmune   adj
 automático   adj adv=automáticamente
@@ -789,12 +796,14 @@ autopropulsado adj
 autoritario  adj
 autorizable  adj
 autorizante  adj
+autorreactivo adj
 autosómico   adj
 autosuficiente adj
 auxiliar     adj
 avaricioso   adj
 avariento    adj
 avaro        adj
+ávaro        adj
 avasallador  adj
 aventurero   adj
 avergonzado  adj

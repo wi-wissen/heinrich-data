@@ -9,6 +9,7 @@ bactericida  adj
 bactriano    adj
 bailable     adj
 bajista      adj
+bajito       adj
 bajo         adj
 bajomedieval adj
 baladí       adj pl=baladíes|baladís[var]
@@ -19,6 +20,7 @@ balear       adj
 balinés      adj
 balístico    adj
 ballenero    adj
+balneario    adj
 balsámico    adj
 báltico      adj
 banal        adj adv=banalmente
@@ -40,6 +42,7 @@ basal        adj
 basáltico    adj
 basculante   adj
 básico       adj adv=básicamente
+basilical    adj
 bastardo     adj
 basto        adj adv=bastamente
 batallador   adj
@@ -66,6 +69,7 @@ benevolente  adj
 benévolo     adj adv=benévolamente
 bengalí      adj pl=bengalíes|bengalís[var]
 benigno      adj
+beninés      adj
 bentónico    adj
 beodo        adj
 berberisco   adj
@@ -78,6 +82,7 @@ bíblico      adj
 bibliográfico adj
 bicameral    adj
 bicéfalo     adj
+bicilíndrico adj
 bicolor      adj f=bicolor note=the same form in both genders (bandera bicolor)
 bidimensional adj
 bidireccional adj
@@ -162,6 +167,7 @@ bordelés     adj
 boreal       adj
 borgoñón     adj
 bórico       adj
+boricua      adj
 borracho     adj
 borrascoso   adj
 borroso      adj
@@ -183,7 +189,9 @@ bribón       adj
 brillante    adj adv=brillantemente
 brioso       adj
 británico    adj
+britano      adj
 bromista     adj
+bronco       adj
 bronquial    adj
 brumoso      adj
 bruñido      adj
@@ -207,7 +215,9 @@ burbujeante  adj
 burdo        adj adv=burdamente
 burgalés     adj
 burgués      adj
+burgundio    adj
 burlesco     adj
 burlón       adj
 burocrático  adj
 bursátil     adj
+byroniano    adj
