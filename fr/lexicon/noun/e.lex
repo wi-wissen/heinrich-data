@@ -305,7 +305,7 @@ eldorado       noun g=m
 élément        noun g=m
 éléphant       noun g=m f=éléphante
 éléphanteau    noun g=m
-éléphantiasis  noun g=m|f conf=90 note=usually masculine; feminine also found
+éléphantiasis  noun g=m
 élevage        noun g=m
 élévateur      noun g=m
 élévation      noun g=f
