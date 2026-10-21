@@ -694,7 +694,8 @@ francophone    noun g=m|f
 francophonie   noun g=f
 francoprovençal noun g=m note=the language
 frange         noun g=f
-frangin        noun g=m f=frangine style=colloquial alt=frère
+frangin        noun g=m style=colloquial alt=frère
+frangine       noun g=f style=colloquial alt=sœur
 frangipane     noun g=f
 frangipanier   noun g=m
 franquisme     noun g=m
