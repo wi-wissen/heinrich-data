@@ -45,5 +45,5 @@ utérin adj
 utile adj adv=utilement
 utilisable adj
 utilitaire adj
-utopique adj adv=utopiquement
+utopique adj adv=utopiquement[rare]
 utopiste adj

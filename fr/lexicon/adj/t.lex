@@ -2,7 +2,7 @@
 tabou adj
 tacheté adj
 tacite adj adv=tacitement
-taciturne adj adv=taciturnement
+taciturne adj adv=taciturnement[rare]
 tactile adj adv=tactilement
 tactique adj adv=tactiquement
 tahitien adj
@@ -196,7 +196,7 @@ transmembranaire adj
 transmissible adj
 transnational adj
 transocéanique adj
-transparent adj adv=transparemment
+transparent adj adv=transparemment[rare]
 transpartisan adj
 transportable adj
 transversal adj adv=transversalement
