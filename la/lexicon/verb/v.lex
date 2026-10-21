@@ -9,7 +9,7 @@ vehō, vexī, vectum, vehere verb
 vellō, vellī|vulsī, vulsum, vellere verb
 vēlō, vēlāvī, vēlātum, vēlāre verb
 vēndō, vēndidī, vēnditum, vēndere verb conf=75 note=length of the e (hidden quantity, vēndō or vendō?)
-vēneō, vēniī, vēnitum, vēnīre verb class=eo intr note=generator gap, reported: the long ē of the prefix is lost in the present system
+vēneō, vēniī, vēnitum, vēnīre verb class=eo intr
 veneror, venerātus sum, venerārī verb note=no long vowel in the lemma
 veniō, vēnī, ventum, venīre verb intr
 vēnor, vēnātus sum, vēnārī verb
