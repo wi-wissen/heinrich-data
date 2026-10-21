@@ -16,7 +16,7 @@ caduc              adj f=caduque
 cafardeux          adj
 cagneux            adj
 caillouteux        adj
-cajun              adj f=cajun
+cajun              adj f=cajun|cajune
 calamiteux         adj
 calcaire           adj
 calciné            adj

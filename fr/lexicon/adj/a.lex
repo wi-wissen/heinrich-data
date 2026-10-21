@@ -576,7 +576,7 @@ auvergnat          adj
 auxiliaire         adj
 avachi             adj
 avancé             adj
-avant-coureur      adj f=avant-coureur conf=80
+avant-coureur      adj f=avant-courrière note=feminine mostly literary: l'aube, avant-courrière du jour
 avant-dernier      adj f=avant-dernière
 avant-gardiste     adj
 avantageux         adj adv=avantageusement

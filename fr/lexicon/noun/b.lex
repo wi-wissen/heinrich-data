@@ -623,7 +623,7 @@ bonite            noun g=f
 bonjour           noun g=m
 bonne             noun g=f
 bonnet            noun g=m
-bonneterie        noun g=f rect=bonnèterie
+bonneterie        noun g=f rect=bonnèterie conf=80 note=è before the mute e by analogy with the -eler/-eter nouns; unsure
 bonnetier         noun g=m f=bonnetière
 bonniche          noun g=f style=offensive alt=domestique rect=boniche
 bonsaï            noun g=m
@@ -864,7 +864,7 @@ brio              noun g=m
 brioche           noun g=f
 brique            noun g=f
 briquet           noun g=m
-briqueterie       noun g=f rect=briquèterie
+briqueterie       noun g=f rect=briquèterie conf=80 note=è before the mute e by analogy with the -eler/-eter nouns; unsure
 briquette         noun g=f
 bris              noun g=m
 brisant           noun g=m
@@ -953,7 +953,7 @@ budgétisation     noun g=f
 buée              noun g=f
 buffet            noun g=m
 buffle            noun g=m
-buffleterie       noun g=f rect=bufflèterie
+buffleterie       noun g=f rect=bufflèterie conf=80 note=è before the mute e by analogy with the -eler/-eter nouns; unsure
 bugle             noun g=m
 bugne             noun g=f
 building          noun g=m
