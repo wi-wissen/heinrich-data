@@ -1,3 +1,12 @@
 # Spanish lexicon: adverbs in m- (m-p author). Own data, written clean-room.
+machaconamente adv
 mal          adv   note=content adverb (opposite of bien)
-mañana       adv
+malamente    adv
+mancomunadamente adv
+maternalmente adv
+mayormente   adv
+mejor        adv   note=comparative of bien
+merecidamente adv
+meteorológicamente adv
+motivadamente adv
+multilateralmente adv
