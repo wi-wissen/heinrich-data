@@ -103,6 +103,7 @@ vikingo adj
 vil adj adv=vilmente
 vinculante adj
 vinícola adj
+vino adj inv note=colour: unos zapatos vino
 vinoso adj
 vintage adj foreign inv
 violáceo adj

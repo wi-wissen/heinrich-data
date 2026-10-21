@@ -36,6 +36,7 @@ tecnológico adj adv=tecnológicamente
 tectónico adj
 tedioso adj
 teísta adj
+teja adj inv note=colour: unas baldosas teja
 teledirigido adj
 telefónico adj adv=telefónicamente
 telegráfico adj adv=telegráficamente

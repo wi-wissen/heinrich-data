@@ -25,6 +25,7 @@ salinero adj
 salino adj
 salitrero adj
 salmantino adj
+salmón adj inv note=colour: una blusa salmón
 salobre adj
 salomónico adj
 saltarín adj f=saltarina
