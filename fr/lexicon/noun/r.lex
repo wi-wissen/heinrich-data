@@ -21,6 +21,7 @@ race noun g=f
 rachat noun g=m
 rachis noun g=m
 rachitisme noun g=m
+racialiste noun g=m|f
 racine noun g=f
 racisme noun g=m
 raciste noun g=m|f
@@ -90,12 +91,14 @@ raie noun g=f
 raifort noun g=m
 rail noun g=m note=plural rails
 raillerie noun g=f
+railleur noun g=m f=railleuse
 rainure noun g=f
 raïs noun g=m
 raisin noun g=m
 raisiné noun g=m
 raison noun g=f
 raisonnement noun g=m
+raisonneur noun g=m f=raisonneuse
 raja noun g=m note=variant spelling of rajah
 rajah noun g=m note=also spelled raja, râja
 rajeunissement noun g=m
@@ -167,6 +170,7 @@ rasage noun g=m
 rasoir noun g=m
 rassasiement noun g=m
 rassemblement noun g=m
+rassembleur noun g=m f=rassembleuse
 rastafari noun g=m|f
 rastafarisme noun g=m
 rat noun g=m f=rate conf=90
@@ -183,6 +187,7 @@ ratio noun g=m
 ration noun g=f
 rationalisation noun g=f
 rationalisme noun g=m
+rationaliste noun g=m|f
 rationalité noun g=f
 rationnement noun g=m
 ratissage noun g=m
@@ -457,6 +462,7 @@ régiment noun g=m
 région noun g=f
 régionalisation noun g=f
 régionalisme noun g=m
+régionaliste noun g=m|f
 régisseur noun g=m f=régisseuse
 registraire noun g=m|f
 registre noun g=m
@@ -507,6 +513,7 @@ relais noun g=m
 relance noun g=f
 relation noun g=f
 relativisme noun g=m
+relativiste noun g=m|f
 relativité noun g=f
 relaxation noun g=f
 relaxe noun g=f
@@ -602,6 +609,7 @@ renonciation noun g=f
 renoncule noun g=f
 renouveau noun g=m
 renouvellement noun g=m rect=renouvèlement
+rénovateur noun g=m f=rénovatrice
 rénovation noun g=f
 renseignement noun g=m
 rentabilité noun g=f
@@ -798,6 +806,7 @@ réunionite noun g=f style=colloquial
 réussite noun g=f
 réutilisation noun g=f
 revalorisation noun g=f
+revanchard noun g=m f=revancharde
 revanche noun g=f
 rêve noun g=m
 réveil noun g=m
@@ -825,6 +834,7 @@ revirement noun g=m
 réviseur noun g=m f=réviseuse
 révision noun g=f
 révisionnisme noun g=m
+révisionniste noun g=m|f
 revitalisation noun g=f
 revival noun g=m pl=revivals
 révocabilité noun g=f
@@ -870,6 +880,7 @@ ride noun g=f
 rideau noun g=m
 rien noun g=m sense=trifle note=un rien, des riens; the pronoun is a closed-class entry
 riesling noun g=m
+rieur noun g=m f=rieuse
 riff noun g=m
 rigidité noun g=f
 rigolade noun g=f style=colloquial
@@ -884,6 +895,7 @@ rinçage noun g=m
 rinceau noun g=m
 rinçure noun g=f
 ring noun g=m
+ringard noun g=m f=ringarde style=colloquial alt=démodé
 rink noun g=m
 ripaille noun g=f
 riposte noun g=f
@@ -996,6 +1008,7 @@ rotule noun g=f
 roture noun g=f
 roturier noun g=m f=roturière
 rouage noun g=m
+roublard noun g=m f=roublarde style=colloquial alt=rusé
 rouble noun g=m
 roue noun g=f
 rouerie noun g=f

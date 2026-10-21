@@ -250,6 +250,7 @@ vice-présidence noun g=f pl=vice-présidences
 vice-président noun g=m f=vice-présidente pl=vice-présidents
 vice-procureur noun g=m pl=vice-procureurs
 vice-roi noun g=m pl=vice-rois
+vicelard noun g=m f=vicelarde style=colloquial alt=vicieux
 vichy noun g=m
 vicissitude noun g=f
 vicomte noun g=m f=vicomtesse
@@ -353,6 +354,7 @@ visière noun g=f
 visioconférence noun g=f
 vision noun g=f
 visionnage noun g=m
+visionnaire noun g=m|f
 visionneuse noun g=f
 visiophonie noun g=f
 visite noun g=f
@@ -376,6 +378,7 @@ vitriol noun g=m
 vitrocéramique noun g=f
 vivacité noun g=f
 vivandière noun g=f
+vivant noun g=m f=vivante
 vivarium noun g=m
 viveur noun g=m
 vivier noun g=m
