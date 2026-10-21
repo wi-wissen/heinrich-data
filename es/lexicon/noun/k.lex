@@ -26,6 +26,7 @@ kilometraje      noun  g=m
 kilómetro        noun  g=m
 kilovatio        noun  g=m
 kilovoltio       noun  g=m
+kimono           noun  g=m var=quimono
 kit              noun  g=m
 kiwi             noun  g=m
 koala            noun  g=m
