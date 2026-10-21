@@ -2,7 +2,7 @@
 ferē adv
 fermē adv
 forsitan adv
-fortāsse adv conf=80 note=length of the a before ss?
+fortāsse adv conf=80 note=reviewer-dispute; length of the a before ss
 forte adv
 frūstrā adv
 funditus adv

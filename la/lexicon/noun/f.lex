@@ -38,7 +38,7 @@ flamma, flammae noun f
 flātus, flātūs noun m
 flētus, flētūs noun m
 flōs, flōris noun m
-flūctus, flūctūs noun m conf=85 note=length of the u?
+flūctus, flūctūs noun m conf=80 note=reviewer-dispute; length of the u
 flūmen, flūminis noun n
 fluvius, fluviī noun m
 focus, focī noun m
