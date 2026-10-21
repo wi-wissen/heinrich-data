@@ -221,6 +221,7 @@ peritoneal   adj
 periurbano   adj
 perjudicado  adj
 perjudicial  adj
+perla        adj   inv note=colour: un gris perla
 perlado      adj
 permanente   adj   adv=permanentemente
 permeable    adj
@@ -302,6 +303,7 @@ pirómano     adj
 pirotécnico  adj
 pírrico      adj
 piscícola    adj
+pistacho     adj   inv note=colour: un vestido pistacho
 pitagórico   adj
 pituitario   adj
 pizpireta    adj   style=colloquial alt=vivaracha note=used of women
@@ -316,6 +318,7 @@ plantígrado  adj
 plañidero    adj
 plasmático   adj
 plástico     adj
+plata        adj   inv note=colour: una pintura plata
 platanero    adj
 plateado     adj
 platense     adj

@@ -35,7 +35,8 @@ nao          noun  g=f style=archaic
 napa         noun  g=f
 napalm       noun  g=m
 napia        noun  g=f style=colloquial alt=nariz
-naranja      noun  g=f
+naranja      noun  g=f sense=fruit
+naranja      noun  g=m sense=colour note=el naranja: the colour
 naranjada    noun  g=f
 naranjal     noun  g=m
 naranjo      noun  g=m
@@ -284,6 +285,8 @@ noble        noun  g=m|f
 nobleza      noun  g=f
 nocaut       noun  g=m pl=nocauts note=adapted from English knockout
 noche        noun  g=f
+nochebuena   noun  g=f note=as the name of the festivity often capitalised: Nochebuena
+nochevieja   noun  g=f note=as the name of the festivity often capitalised: Nochevieja
 noción       noun  g=f
 nocividad    noun  g=f
 noctámbulo   noun  g=m f=noctámbula

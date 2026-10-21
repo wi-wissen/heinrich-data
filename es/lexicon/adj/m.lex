@@ -121,6 +121,7 @@ marciano     adj
 mareal       adj
 mareante     adj
 mareomotriz  adj   note=energía mareomotriz
+marfil       adj   inv note=colour: unas cortinas marfil
 marfileño    adj
 marginado    adj
 marginal     adj   adv=marginalmente
@@ -431,6 +432,7 @@ mortuorio    adj
 moruno       adj
 moscado      adj   note=nuez moscada
 moscovita    adj
+mostaza      adj   inv note=colour: unos zapatos mostaza
 moteado      adj
 motivacional adj
 motivador    adj
