@@ -2436,7 +2436,8 @@ crónica      noun g=f
 cronicidad   noun g=f
 cronificación noun g=f
 cronista     noun g=m|f
-crono        noun g=m style=colloquial alt=cronómetro|contrarreloj
+crono        noun g=m sense=time style=colloquial alt=cronómetro|tiempo note=el crono: the stopwatch, the time achieved
+crono        noun g=f sense=timetrial style=colloquial alt=contrarreloj note=la crono: the time-trial race
 cronoescalada noun g=f
 cronógrafo   noun g=m
 cronograma   noun g=m

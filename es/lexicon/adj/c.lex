@@ -610,7 +610,6 @@ congénito    adj
 congestionado adj
 congestivo   adj
 congoleño    adj
-congresional adj
 congruente   adj
 cónico       adj
 conífero     adj
@@ -758,7 +757,6 @@ corajudo     adj
 coral        adj
 coralino     adj
 cordial      adj adv=cordialmente
-cordillerano adj
 cordobés     adj
 coreano      adj
 coreográfico adj
