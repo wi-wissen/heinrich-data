@@ -4,11 +4,15 @@ maciēs, maciēī noun f sg_only
 macula, maculae noun f
 maeror, maerōris noun m
 magister, magistrī noun m
+magistra, magistrae noun f
 magistrātus, magistrātūs noun m
+magnificentia, magnificentiae noun f
 magnitūdō, magnitūdinis noun f
+magus, magī noun m
 maiestās, maiestātis noun f
 maleficium, maleficiī noun n
 malitia, malitiae noun f
+malleolus, malleolī noun m
 mamma, mammae noun f
 mancipium, mancipiī noun n
 mandātum, mandātī noun n
@@ -16,6 +20,7 @@ manipulus, manipulī noun m
 mānsuētūdō, mānsuētūdinis noun f
 manus, manūs noun f
 mare, maris noun n
+margarīta, margarītae noun f
 margō, marginis noun m
 marītus, marītī noun m
 mās, maris noun m gen_pl=marium
@@ -54,6 +59,7 @@ merum, merī noun n
 merx, mercis noun f
 messis, messis noun f
 metallum, metallī noun n
+metrum, metrī noun n
 metus, metūs noun m
 mīles, mīlitis noun m
 mīlia, mīlium noun n pl_only
@@ -62,12 +68,15 @@ mīmus, mīmī noun m
 minae, minārum noun f pl_only
 minister, ministrī noun m
 ministerium, ministeriī noun n
+minium, miniī noun n
 mīrāculum, mīrāculī noun n
 miseria, miseriae noun f
 misericordia, misericordiae noun f
+missiō, missiōnis noun f
 moderātiō, moderātiōnis noun f
 modestia, modestiae noun f
 modius, modiī noun m
+modulus, modulī noun m
 modus, modī noun m
 moenia, moenium noun n pl_only
 mola, molae noun f
@@ -86,7 +95,9 @@ mōs, mōris noun m
 mōtus, mōtūs noun m
 mūcrō, mūcrōnis noun m conf=80 note=reviewer-dispute; length in the lemma
 mūgītus, mūgītūs noun m
+mūla, mūlae noun f
 mulier, mulieris noun f
+muliercula, mulierculae noun f
 mulsum, mulsī noun n
 multitūdō, multitūdinis noun f
 mūlus, mūlī noun m
@@ -97,8 +108,11 @@ mūnītiō, mūnītiōnis noun f
 mūnus, mūneris noun n
 murmur, murmuris noun n
 mūrus, mūrī noun m
+mūs, mūris noun c gen_pl=mūrium|mūrum
 mūsa, mūsae noun f
 musca, muscae noun f conf=80 note=reviewer-dispute; length in the lemma
+mūsica, mūsicae noun f
 mustum, mustī noun n
 mūtātiō, mūtātiōnis noun f
+myrrha, myrrhae noun f
 myrtus, myrtī noun f

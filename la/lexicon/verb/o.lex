@@ -4,6 +4,7 @@ obiciō, obiēcī, obiectum, obicere verb
 obligō, obligāvī, obligātum, obligāre verb
 oblīvīscor, oblītus sum, oblīvīscī verb
 obruō, obruī, obrutum, obruere verb note=no long vowel in the lemma
+obscūrō, obscūrāvī, obscūrātum, obscūrāre verb
 obsecrō, obsecrāvī, obsecrātum, obsecrāre verb
 observō, observāvī, observātum, observāre verb
 obsideō, obsēdī, obsessum, obsidēre verb
@@ -22,6 +23,7 @@ offendō, offendī, offēnsum, offendere verb
 offerō, obtulī, oblātum, offerre verb class=fero
 omittō, omīsī, omissum, omittere verb
 onerō, onerāvī, onerātum, onerāre verb note=no long vowel in the lemma
+operiō, operuī, opertum, operīre verb
 operor, operātus sum, operārī verb intr note=no long vowel in the lemma
 opīnor, opīnātus sum, opīnārī verb
 oportet, oportuit, -, oportēre verb impers note=no long vowel in the lemma
@@ -30,6 +32,7 @@ oppōnō, opposuī, oppositum, oppōnere verb
 opprimō, oppressī, oppressum, opprimere verb
 oppugnō, oppugnāvī, oppugnātum, oppugnāre verb
 optō, optāvī, optātum, optāre verb
+orbō, orbāvī, orbātum, orbāre verb
 ōrdinō, ōrdināvī, ōrdinātum, ōrdināre verb
 ōrdior, ōrsus sum, ōrdīrī verb
 orior, ortus sum, orīrī verb intr conj=3i fut=oritūrus note=no long vowel in the lemma

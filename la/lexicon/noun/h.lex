@@ -16,9 +16,11 @@ hērēs, hērēdis noun c
 hiātus, hiātūs noun m
 hīberna, hībernōrum noun n pl_only
 hiems, hiemis noun f
+hilaritās, hilaritātis noun f
 hircus, hircī noun m
 historia, historiae noun f
 histriō, histriōnis noun m
+holus, holeris noun n var=olus
 homicīda, homicīdae noun c
 homicīdium, homicīdiī noun n
 homō, hominis noun m
@@ -36,3 +38,4 @@ hostis, hostis noun c
 hūmānitās, hūmānitātis noun f
 humilitās, humilitātis noun f
 humus, humī noun f sg_only loc
+hydra, hydrae noun f

@@ -1,8 +1,10 @@
 # Latin noun entries, letter e (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
+ēbrietās, ēbrietātis noun f
 ebur, eboris noun n
 ecclēsia, ecclēsiae noun f style=late
 ēdictum, ēdictī noun n
 effectus, effectūs noun m
+effigiēs, effigiēī noun f
 egestās, egestātis noun f sg_only
 ēlēctiō, ēlēctiōnis noun f
 elementum, elementī noun n
@@ -10,6 +12,7 @@ elephantus, elephantī noun m
 ēloquentia, ēloquentiae noun f sg_only
 ēloquium, ēloquiī noun n
 ēmolumentum, ēmolumentī noun n
+emplastrum, emplastrī noun n
 ēmptiō, ēmptiōnis noun f conf=85 note=length of the e, as in ēmptum?
 ēmptor, ēmptōris noun m conf=85 note=length of the e, as in ēmptum?
 ēnsis, ēnsis noun m
@@ -27,6 +30,8 @@ eunūchus, eunūchī noun m
 ēventus, ēventūs noun m
 exāmen, exāminis noun n
 excellentia, excellentiae noun f
+exceptiō, exceptiōnis noun f
+excessus, excessūs noun m
 excidium, excidiī noun n
 excubiae, excubiārum noun f pl_only
 excursiō, excursiōnis noun f
@@ -42,9 +47,11 @@ exōrdium, exōrdiī noun n
 expedītiō, expedītiōnis noun f
 experīmentum, experīmentī noun n
 explōrātor, explōrātōris noun m
-exsequiae, exsequiārum noun f pl_only
+expositiō, expositiōnis noun f
+exsequiae, exsequiārum noun f pl_only var=exequiae
 exsilium, exsiliī noun n var=exilium
-exspectātiō, exspectātiōnis noun f
+exspectātiō, exspectātiōnis noun f var=expectātiō
 exsul, exsulis noun c var=exul
 exta, extōrum noun n pl_only
+extrēmitās, extrēmitātis noun f
 exuviae, exuviārum noun f pl_only
