@@ -5,6 +5,7 @@ tacher verb
 tâcher verb
 tacheter verb class=double_trad
 tacler verb
+taffer verb pp_inv style=colloquial alt=travailler
 taguer verb
 taillader verb
 tailler verb
