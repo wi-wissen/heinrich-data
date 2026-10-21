@@ -89,6 +89,10 @@ differences it showed were inconsistencies of the reference.
 | 2 | #167 e–o | 0b4f672 | 490 | 4 | 15 | 0.8 % / 3.9 % |
 | 2 | #168 a–d + `closed/` | 488edb3 | 600 | 6 | 5 | 1.0 % / 1.9 % |
 | 2 | re-check #166, #167, #168 | e641baa, 93fd196, 4494e66 | 1,591 | 0 | 0 | – |
+| 3 | #170 p–z | b7a6d30 | 253 | 1 | 5 | 0.4 % / 2.4 % |
+| 3 | #171 a–d | 0446cff | 241 | 4 | 5 | 1.7 % / 3.7 % |
+| 3 | #172 e–o | 6cda8f5 | 276 | 3 | 4 | 1.1 % / 2.6 % |
+| 3 | re-check #170, #171, #172 | 1c67d04, 49be76c, 93516fc | 770 | 0 | 0 | – |
 
 "Clear errors" are wrong lengths or forms; "points" also count uncertain or hidden quantities,
 consistency between the authors and minor points. #163 includes the 4 duplicates between the
@@ -104,3 +108,13 @@ supines of the *ūrō* compounds, which the three authors had treated differentl
 and names raised the share of points. After the merge of wave 2 (4,597 entries) the frequency list
 is covered at 99.2 % of the tokens of the top 1,000 forms, 96.2 % of ranks 1,001–5,000, 88.5 % of
 ranks 5,001–20,000 and 90.8 % overall.
+
+Wave 3 added a check of every `var=` spelling against the lemmas and forms of all three authors. It
+found two entries made twice in wave 1, each written by one author as the main form and by another
+as the variant (*Carthāgō*/*Karthāgō*, *Aeduī*/*Haeduus*). The orchestrator settled both, and the
+check now runs in every round. The clear points were again inconsistencies within word families
+(*biformis* beside *fōrma*, *dēpascor* beside *pāscō*) and, in two cases, the long vowel of *in-*
+before *f* (format §1). The engine gap of *vēneō* (the long first vowel lost in the present system) was
+passed to the engine. After the merge of wave 3 (5,303 entries) the frequency list is
+covered at 99.2 % of the tokens of the top 1,000 forms, 96.3 % of ranks 1,001–5,000, 90.9 % of ranks
+5,001–20,000 and 92.0 % overall.
