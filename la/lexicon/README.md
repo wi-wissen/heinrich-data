@@ -85,6 +85,10 @@ differences it showed were inconsistencies of the reference.
 | 1 | #162 e–o | e3322ba | 884 | 2 | 11 | 0.2 % / 1.2 % |
 | 1 | #163 a–d + `closed/` | 1d282b0 | 1,216 | 4 | 15 | 0.3 % / 1.2 % |
 | 1 | re-check #160 | 14e6b6a | 815 | 0 | 1 | – |
+| 2 | #166 p–z | e0daebc | 501 | 5 | 16 | 1.0 % / 4.2 % |
+| 2 | #167 e–o | 0b4f672 | 490 | 4 | 15 | 0.8 % / 3.9 % |
+| 2 | #168 a–d + `closed/` | 488edb3 | 600 | 6 | 5 | 1.0 % / 1.9 % |
+| 2 | re-check #166, #167, #168 | e641baa, 93fd196, 4494e66 | 1,591 | 0 | 0 | – |
 
 "Clear errors" are wrong lengths or forms; "points" also count uncertain or hidden quantities,
 consistency between the authors and minor points. #163 includes the 4 duplicates between the
@@ -92,3 +96,11 @@ authors found on the merge of all three waves (*posteā*, *tandem*, *praesum*, *
 by the orchestrator). After the merge of wave 1 (2,943 entries), our frequency list
 `la/frequency/forms.tsv` is covered at 99.2 % of the tokens of the top 1,000 forms, 95.6 % of ranks
 1,001–5,000 and 86.7 % overall.
+
+In wave 2, length disputes were reported at word level. The clear points were almost all
+inconsistencies within the lexicon: a lemma whose length differs from the rest of its word family
+(*famōsus* beside *fāma*, *admīsceō* beside *misceō*, the *pro-* compounds before *f*), and the
+supines of the *ūrō* compounds, which the three authors had treated differently. Many rarer words
+and names raised the share of points. After the merge of wave 2 (4,597 entries) the frequency list
+is covered at 99.2 % of the tokens of the top 1,000 forms, 96.2 % of ranks 1,001–5,000, 88.5 % of
+ranks 5,001–20,000 and 90.8 % overall.
