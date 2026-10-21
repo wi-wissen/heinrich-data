@@ -44,6 +44,13 @@ A wrong macron in a principal part is wrong in every generated form and in every
   own knowledge and the rules of the format and decides again; never ask for or guess the
   reference's answer. Comparison data is never committed (Heinrich `CLAUDE.md` rule 5). The
   reviewer checks vowel lengths with particular care (L-D4).
+- **Length disputes** (settled 2026-10-21 after review round 1): for a single vowel, "length
+  disputed" all but names the reference's value. The reviewer therefore reports lengths at word
+  level ("a length in the lemma", "a length in the oblique cases") and does not name the vowel when
+  the word has several candidates. If you change a length only because of a dispute, and not
+  because you derive it again from your own knowledge, give the entry `conf=` below 100 and
+  `note=reviewer-dispute`, so that the length never counts for hard errors and the decision stays
+  visible.
 - **Norm:** classical Latin as taught in German schools (L-D2). The lexicon spelling is
   normative:
   - `v` for the consonant;
