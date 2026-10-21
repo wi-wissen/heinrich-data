@@ -88,7 +88,7 @@ magro        noun  g=m
 magulladura  noun  g=f
 maharajá     noun  g=m f=maharaní fpl=maharaníes|maharanís[var]
 maicena      noun  g=f
-mail         noun  g=m foreign conf=80 note=English loan, also email
+mail         noun  g=m foreign pl=mails conf=80 note=English loan, also email
 mailing      noun  g=m foreign
 maillot      noun  g=m foreign
 mainstream   noun  g=m foreign
@@ -1062,7 +1062,7 @@ monovolumen  noun  g=m pl=monovolúmenes
 monóxido     noun  g=m
 monseñor     noun  g=m
 monserga     noun  g=f style=colloquial alt=sermón|tabarra
-monsieur     noun  g=m foreign
+monsieur     noun  g=m foreign pl=messieurs conf=75 note=French plural, as in French texts
 monstruo     noun  g=m
 monstruosidad noun  g=f
 montacargas  noun  g=m

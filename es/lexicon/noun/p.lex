@@ -1406,7 +1406,7 @@ prelatura    noun  g=f
 preludio     noun  g=m
 premeditación noun  g=f
 premezcla    noun  g=f
-premier      noun  g=m|f foreign conf=85 note=the British prime minister
+premier      noun  g=m|f foreign pl=premiers conf=85 note=the British prime minister
 premio       noun  g=m
 premisa      noun  g=f
 premolar     noun  g=m

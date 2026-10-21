@@ -107,7 +107,7 @@ pastelero    adj
 pastoral     adj
 pastoril     adj
 pastoso      adj
-pastún       adj
+pastún       adj   conf=80 note=used with the same form for both genders (la población pastún); pastuna is rare
 patagónico   adj
 patentable   adj
 patente      adj   adv=patentemente

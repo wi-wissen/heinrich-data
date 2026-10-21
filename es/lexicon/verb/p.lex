@@ -128,7 +128,7 @@ pisotear     verb
 pitar        verb
 pitorrear    verb  pronominal style=colloquial alt=burlarse
 pivotar      verb
-placer       verb  class=zco defective=inf|fin|3 conf=85 note=me place, nos plació; plugo is archaic
+placer       verb  class=zco defective=inf|fin|pp|3 pp_inv conf=85 note=me place, nos plació, le ha placido (literary); plugo is archaic
 plagar       verb
 plagiar      verb  class=diphthong
 planchar     verb
