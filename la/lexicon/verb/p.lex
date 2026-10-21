@@ -106,7 +106,7 @@ prōdeō, prōdiī, prōditum, prōdīre verb class=eo intr
 prōdō, prōdidī, prōditum, prōdere verb
 prōdūcō, prōdūxī, prōductum, prōdūcere verb imp=prōdūc
 prōferō, prōtulī, prōlātum, prōferre verb class=fero
-proficiō, profēcī, profectum, proficere verb intr note=prefix pro- short before f, as in profectus
+prōficiō, prōfēcī, prōfectum, prōficere verb intr conf=80 note=reviewer-dispute; decided long like prōferō, unlike proficīscor
 proficīscor, profectus sum, proficīscī verb
 profiteor, professus sum, profitērī verb note=no long vowel in the lemma
 prōfluō, prōflūxī, -, prōfluere verb intr

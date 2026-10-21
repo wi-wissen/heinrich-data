@@ -13,7 +13,7 @@ patrius, patria, patrium adj nocmp
 paucī, paucae, pauca adj pl_only nocmp
 pauper, pauperis adj stem=cons
 pavidus, pavida, pavidum adj
-peculiāris, peculiāre adj nocmp
+pecūliāris, pecūliāre adj nocmp
 pedester, pedestris, pedestre adj nocmp
 peregrīnus, peregrīna, peregrīnum adj
 perennis, perenne adj nocmp

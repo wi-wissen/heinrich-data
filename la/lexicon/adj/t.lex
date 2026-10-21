@@ -5,7 +5,7 @@ tardus, tarda, tardum adj adv
 temerārius, temerāria, temerārium adj
 temperātus, temperāta, temperātum adj
 tempestīvus, tempestīva, tempestīvum adj adv
-temulentus, temulenta, temulentum adj
+tēmulentus, tēmulenta, tēmulentum adj
 tenāx, tenācis adj
 tener, tenera, tenerum adj
 tenuis, tenue adj adv

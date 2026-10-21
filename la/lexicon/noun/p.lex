@@ -97,7 +97,7 @@ pīrāta, pīrātae noun m
 piscātor, piscātōris noun m
 piscīna, piscīnae noun f
 piscis, piscis noun m
-pituīta, pituītae noun f
+pītuīta, pītuītae noun f conf=80 note=reviewer-dispute
 pix, picis noun f
 plaga, plagae noun f conf=80 note=plaga (region, net); the noun 'blow' (long a?) is not written
 plānctus, plānctūs noun m

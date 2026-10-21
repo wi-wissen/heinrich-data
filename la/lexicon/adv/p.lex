@@ -34,7 +34,7 @@ prīvātim adv
 procul adv
 profectō adv
 prōmiscuē adv
-propalam adv
+prōpalam adv conf=85 note=reviewer-dispute
 prope adv cmp=propius sup=proximē
 propemodum adv
 properē adv

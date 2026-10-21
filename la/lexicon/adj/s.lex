@@ -62,7 +62,7 @@ suāvis, suāve adj adv
 subitus, subita, subitum adj nocmp
 sublīmis, sublīme adj
 subtīlis, subtīle adj adv note=superlative in -issimus is regular
-suillus, suilla, suillum adj nocmp
+sūillus, sūilla, sūillum adj nocmp conf=75 note=reviewer-dispute
 sūmptuōsus, sūmptuōsa, sūmptuōsum adj
 superbus, superba, superbum adj adv
 superstes, superstitis adj stem=cons nocmp
