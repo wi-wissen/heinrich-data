@@ -5,6 +5,7 @@ adhūc adv type=tim
 aliās adv type=ind
 alibī adv type=ind conf=80 note=length of the final i?
 alicubi adv type=ind
+alicunde adv type=ind
 aliquandō adv type=ind
 aliquō adv type=ind
 aliter adv type=ind

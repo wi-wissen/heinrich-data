@@ -12,11 +12,14 @@ dēlicātus, dēlicāta, dēlicātum adj adv
 dēmēns, dēmentis adj
 dēnsus, dēnsa, dēnsum adj
 dēsertus, dēserta, dēsertum adj nocmp
+dēses, dēsidis adj stem=cons nocmp
+dēterior, dēterius adj sup=dēterrimus
 dētestābilis, dētestābile adj note=superlative dētestābilissimus (not one of the six -limus adjectives)
 dēvexus, dēvexa, dēvexum adj nocmp
 dēvius, dēvia, dēvium adj nocmp
 dexter, dextra|dextera, dextrum|dexterum adj cmp=dexterior sup=dextimus
 dialecticus, dialectica, dialecticum adj nocmp
+dicāx, dicācis adj
 difficilis, difficile adj sup=difficillimus adv=difficulter
 dignus, digna, dignum adj adv
 dīligēns, dīligentis adj adv
@@ -33,9 +36,11 @@ diūtinus, diūtina, diūtinum adj nocmp
 diūturnus, diūturna, diūturnum adj
 dīversus, dīversa, dīversum adj adv
 dīves, dīvitis adj stem=cons cmp=dīvitior|dītior sup=dīvitissimus|dītissimus
+dīviduus, dīvidua, dīviduum adj nocmp
 dīvīnus, dīvīna, dīvīnum adj adv
 docilis, docile adj note=superlative docilissimus (not one of the six -limus adjectives)
 doctus, docta, doctum adj adv
+dolōsus, dolōsa, dolōsum adj adv
 domesticus, domestica, domesticum adj nocmp
 dominicus, dominica, dominicum adj nocmp style=late
 dubius, dubia, dubium adj

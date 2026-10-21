@@ -1,4 +1,5 @@
 # Latin nouns, letter a. Written from own knowledge (AUTHORING.md §1).
+abacus, abacī noun m
 abbās, abbātis noun m style=late
 abiēs, abietis noun f
 abortus, abortūs noun m
@@ -6,8 +7,10 @@ absentia, absentiae noun f
 absolūtiō, absolūtiōnis noun f
 abstinentia, abstinentiae noun f
 abundantia, abundantiae noun f
+acanthus, acanthī noun m
 accessiō, accessiōnis noun f
 accessus, accessūs noun m
+accipiter, accipitris noun m
 accola, accolae noun c
 accūsātiō, accūsātiōnis noun f
 accūsātor, accūsātōris noun m
@@ -17,6 +20,7 @@ acētābulum, acētābulī noun n
 acētum, acētī noun n
 aciēs, aciēī noun f
 acinus, acinī noun m
+aconītum, aconītī noun n
 āctiō, āctiōnis noun f
 āctor, āctōris noun m
 āctus, āctūs noun m
@@ -30,6 +34,7 @@ aditus, aditūs noun m
 adiūmentum, adiūmentī noun n
 adiūtor, adiūtōris noun m
 adiūtōrium, adiūtōriī noun n style=late
+adiūtrīx, adiūtrīcis noun f
 adminiculum, adminiculī noun n
 administrātiō, administrātiōnis noun f
 admīrātiō, admīrātiōnis noun f
@@ -40,6 +45,7 @@ adulēscēns, adulēscentis noun c var=adolēscēns
 adulēscentia, adulēscentiae noun f
 adulēscentulus, adulēscentulī noun m var=adolēscentulus
 adulter, adulterī noun m
+adultera, adulterae noun f
 adulterium, adulteriī noun n
 advena, advenae noun c
 adventus, adventūs noun m
@@ -63,6 +69,7 @@ aerumna, aerumnae noun f
 aes, aeris noun n
 aestās, aestātis noun f
 aestimātiō, aestimātiōnis noun f
+aestuārium, aestuāriī noun n
 aestus, aestūs noun m
 aetās, aetātis noun f
 aeternitās, aeternitātis noun f
@@ -75,10 +82,12 @@ affirmātiō, affirmātiōnis noun f
 agellus, agellī noun m
 ager, agrī noun m
 agger, aggeris noun m
+agitātiō, agitātiōnis noun f
 agmen, agminis noun n
 agna, agnae noun f
 agnus, agnī noun m
 agricola, agricolae noun m
+agricultūra, agricultūrae noun f
 āla, ālae noun f
 alacritās, alacritātis noun f
 albēdō, albēdinis noun f
@@ -87,14 +96,17 @@ albēdō, albēdinis noun f
 alga, algae noun f
 aliēnigena, aliēnigenae noun c
 alimentum, alimentī noun n
+allēgoria, allēgoriae noun f
 alnus, alnī noun f
 altāre, altāris noun n
 altercātiō, altercātiōnis noun f
+alteritās, alteritātis noun f style=late
 altitūdō, altitūdinis noun f
 altrīx, altrīcis noun f
 alūmen, alūminis noun n
 alumna, alumnae noun f
 alumnus, alumnī noun m
+alvārium, alvāriī noun n
 alveus, alveī noun m
 alvus, alvī noun f
 amāritūdō, amāritūdinis noun f
@@ -108,9 +120,13 @@ ambulātiō, ambulātiōnis noun f
 amīca, amīcae noun f
 amīcitia, amīcitiae noun f
 amictus, amictūs noun m
+amiculum, amiculī noun n
 amīcus, amīcī noun m
+āmissiō, āmissiōnis noun f
+amita, amitae noun f
 amnis, amnis noun m abl_sg=amne|amnī
 amoenitās, amoenitātis noun f
+amōmum, amōmī noun n
 amor, amōris noun m
 amphitheātrum, amphitheātrī noun n
 amphora, amphorae noun f
@@ -118,6 +134,7 @@ amplexus, amplexūs noun m
 amplificātiō, amplificātiōnis noun f
 amplitūdō, amplitūdinis noun f
 amurca, amurcae noun f
+analogia, analogiae noun f
 ancilla, ancillae noun f
 ancora, ancorae noun f
 ānfrāctus, ānfrāctūs noun m conf=85 note=length of the a before nf?
@@ -136,7 +153,9 @@ animus, animī noun m
 annālēs, annālium noun m pl_only
 annōna, annōnae noun f
 annus, annī noun m
+ānsa, ānsae noun f
 ānser, ānseris noun m
+antidotum, antidotī noun n
 antīquitās, antīquitātis noun f
 antistes, antistitis noun c
 antrum, antrī noun n
@@ -150,6 +169,7 @@ apium, apiī noun n
 apostolus, apostolī noun m style=late
 apparātus, apparātūs noun m
 appellātiō, appellātiōnis noun f
+appetītiō, appetītiōnis noun f
 approbātiō, approbātiōnis noun f
 aqua, aquae noun f
 aquila, aquilae noun f
@@ -161,7 +181,9 @@ arātrum, arātrī noun n
 arbiter, arbitrī noun m
 arbitrium, arbitriī noun n
 arbor, arboris noun f nom_sg=arbor|arbōs[poetic]
+arbuscula, arbusculae noun f
 arbustum, arbustī noun n
+arbutus, arbutī noun f
 arca, arcae noun f
 archiepiscopus, archiepiscopī noun m style=late
 architectus, architectī noun m
@@ -176,8 +198,10 @@ argūmentum, argūmentī noun n
 ariēs, arietis noun m
 arista, aristae noun f
 arma, armōrum noun n pl_only
+armāmenta, armāmentōrum noun n pl_only
 armentum, armentī noun n
 armiger, armigerī noun m
+armilla, armillae noun f
 arōma, arōmatis noun n
 arrogantia, arrogantiae noun f var=adrogantia
 ars, artis noun f
@@ -191,12 +215,17 @@ arx, arcis noun f
 as, assis noun m
 asellus, asellī noun m
 asinus, asinī noun m
+asparagus, asparagī noun m
 aspectus, aspectūs noun m
 asperitās, asperitātis noun f
 assiduitās, assiduitātis noun f var=adsiduitās
+assūmptiō, assūmptiōnis noun f
+astrologia, astrologiae noun f
+astrologus, astrologī noun m
 astrum, astrī noun n
 astus, astūs noun m
 astūtia, astūtiae noun f
+asȳlum, asȳlī noun n
 āthlēta, āthlētae noun m conf=85 note=length of the a?
 atomus, atomī noun f
 ātrāmentum, ātrāmentī noun n conf=85 note=length of the first a (as in āter)?
@@ -207,6 +236,7 @@ auctiō, auctiōnis noun f
 auctor, auctōris noun c
 auctōritās, auctōritātis noun f
 audācia, audāciae noun f
+audientia, audientiae noun f
 audītor, audītōris noun m
 audītōrium, audītōriī noun n
 audītus, audītūs noun m
@@ -214,7 +244,9 @@ augmentum, augmentī noun n
 augur, auguris noun c
 augurium, auguriī noun n
 aula, aulae noun f
+aulaeum, aulaeī noun n
 aura, aurae noun f
+auricula, auriculae noun f
 aurīga, aurīgae noun c
 auris, auris noun f
 aurōra, aurōrae noun f

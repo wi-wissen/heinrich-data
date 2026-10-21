@@ -1,4 +1,5 @@
 # Latin verbs, letter b. Written from own knowledge (AUTHORING.md §1).
+bāsiō, bāsiāvī, bāsiātum, bāsiāre verb
 bellō, bellāvī, bellātum, bellāre verb intr
 benedīcō, benedīxī, benedictum, benedīcere verb imp=benedīc style=late
 bibō, bibī, pōtum, bibere verb conf=90 note=supine pōtum (bibitum late)?
