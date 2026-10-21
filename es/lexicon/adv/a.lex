@@ -9,7 +9,9 @@ adentro      adv
 adrede       adv
 afuera       adv
 alrededor    adv
+amén         adv note=amén de; as the closing of a prayer
 antaño       adv style=literary
+antemano     adv note=de antemano
 antes        adv
 aparte       adv
 aprisa       adv
