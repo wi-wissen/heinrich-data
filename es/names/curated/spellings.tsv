@@ -111,7 +111,7 @@ ALEMAN	surname	Alemán
 ALEN	surname	Alén
 ALES	surname	Alés
 ALESON	surname	Alesón
-ALEX	given	Álex	Àlex
+ALEX	given	Álex	Àlex	Alex
 ALFEREZ	surname	Alférez
 ALFONSIN	surname	Alfonsín
 ALGARIN	surname	Algarín
@@ -1105,6 +1105,7 @@ GARRON	surname	Garrón
 GARVI	surname	Garví
 GARVIA	surname	Garvía
 GARVIN	surname	Garvín
+GARZON	surname	Garzón
 GASCON	surname	Gascón
 GASSO	surname	Gassó
 GASTON	given	Gastón
@@ -1833,6 +1834,7 @@ OSES	surname	Osés
 OSTARIZ	surname	Ostáriz
 OTALORA	surname	Otálora
 OTALVARO	surname	Otálvaro
+OTIN	surname	Otín
 OTON	surname	Otón
 OUTON	surname	Outón
 OYARZABAL	surname	Oyarzábal
@@ -2358,6 +2360,7 @@ TORAN	surname	Torán
 TORELLO	surname	Torelló
 TORIO	surname	Torío
 TORNE	surname	Torné
+TORREJON	surname	Torrejón
 TORRO	surname	Torró
 TORRON	surname	Torrón
 TORRUS	surname	Torrús

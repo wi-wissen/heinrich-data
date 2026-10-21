@@ -185,6 +185,10 @@ def main(raw, geo, out, stats_path=None):
             got = True
         if got:
             listed_reg.add(reg)
+    # our own additions: frequent forms that the register does not hold (`Mari` of Mari Carmen,
+    # registered as MARIA CARMEN)
+    for r in read_curated(f"{cur}/given_added.tsv", 2):
+        given.setdefault(r[0], r[1] or "u")
     cov = sum(c for toks, c in rows_given if all(t in listed_reg or t.lower() in PARTICLES for t in toks))
     stats.append(f"given names: {len(given)} (>= {GIVEN_MIN_PERSONS} bearers), "
                  f"all given names listed for {cov / sum(persons):.1%} of the residents in the "

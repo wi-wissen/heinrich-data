@@ -8,7 +8,7 @@ lists are **filtered from official open data** and then curated. Same format as 
 
 | file | content | columns |
 |---|---|---|
-| `given_names.tsv` | 8,208 given names: every given name borne by at least 100 residents of Spain (INE, 1 January 2025), alone or as part of a compound given name (`José Luis` → `José`, `Luis`), in its usual spelling with accents (`José`, `María`, `Ángel`), plus the Catalan or Galician spelling where it is common (`Maria`, `Núria`, `Àngel`) | `name<TAB>gender[<TAB>word]` |
+| `given_names.tsv` | 8,210 given names: every given name borne by at least 100 residents of Spain (INE, 1 January 2025), alone or as part of a compound given name (`José Luis` → `José`, `Luis`), in its usual spelling with accents (`José`, `María`, `Ángel`), plus the Catalan or Galician spelling where it is common (`Maria`, `Núria`, `Àngel`), plus a few frequent forms that the register does not hold (`Mari` of Mari Carmen, `curated/given_added.tsv`) | `name<TAB>gender[<TAB>word]` |
 | `surnames.tsv` | 16,195 surnames: every surname that is the first surname of at least 200 residents (INE, 1 January 2025), split into name parts, in its usual spelling (`González`, `Núñez`, `García`, Catalan `Garcia`, `Domènech`) | `name<TAB>u[<TAB>word]` |
 | `places.tsv` | 7,833 place names in their Spanish form: all municipalities with at least 500 inhabitants (INE, Padrón 2025) in every official form (`Alicante`/`Alacant`, `Donostia`/`San Sebastián`, `Vitoria-Gasteiz`), the provinces, the Spanish names of all countries and continents, foreign cities with at least 150,000 inhabitants and all capitals, foreign first-level regions with at least 1,000,000 inhabitants (GeoNames), and our own list of autonomous communities, traditional Castilian forms (`La Coruña`, `Gerona`, `Lérida`, `Orense`, `Vizcaya`), continents, rivers, mountains, seas, islands, regions, historic states and foreign exonyms (`curated/places.tsv`) | `name<TAB>gender<TAB>kind[<TAB>word]` |
 
@@ -50,7 +50,10 @@ RAW/geonames GEO.tsv` extracts the GeoNames features with a Spanish name, and
 `Antonio`). The accented spelling replaces the register spelling: `Jose`, `Gonzalez` and
 `Nunez` are not listed (in es-ES text they are spelling errors), except where the unaccented or
 differently accented form is the regular spelling of Catalan, Galician, Basque or Portuguese
-and common in Spain (`María` and `Maria`, `García` and `Garcia`, `Adriá` and `Adrià`).
+and common in Spain (`María` and `Maria`, `García` and `Garcia`, `Adriá` and `Adrià`), or where
+the unaccented form is the usual international spelling of the name (`Álex` and `Alex`).
+`Diez` is not listed beside `Díez`: in Spain the surname is written with the accent, and *diez*
+is the numeral.
 Surnames in `-ez` were checked against the stress rule (llana, accent on the second-last
 syllable: `Rodríguez`, `Sáez`, `Gutiérrez`); the exceptions are kept as written (`Álvarez`,
 `Estébanez`, `Díez`, `Jerez`, Latin-American `Valdez`, `Cortez`).
@@ -89,9 +92,10 @@ and the names in `curated/excluded.tsv`.
 
 | file | content |
 |---|---|
-| `spellings.tsv` | 2,556 usual spellings of INE register names (`REGISTER<TAB>given\|surname<TAB>spelling[<TAB>spelling]`): 408 given names, 2,148 surnames; 96 lines with a second (Catalan, Galician or Portuguese) spelling |
-| `word.tsv` | 2,987 names that are also ordinary Spanish words (`name`), also covering parts of the place names (`Golfo`, `Estrecho`, `Imperio`, `Unidas`) |
+| `spellings.tsv` | 2,559 usual spellings of INE register names (`REGISTER<TAB>given\|surname<TAB>spelling[<TAB>spelling]`): 408 given names, 2,151 surnames; 96 lines with a second (Catalan, Galician or Portuguese) spelling |
+| `word.tsv` | 2,989 names that are also ordinary Spanish words (`name`), also covering parts of the place names (`Golfo`, `Estrecho`, `Imperio`, `Unidas`) |
 | `excluded.tsv` | 48 names left out of a list (`name<TAB>given\|surname\|place<TAB>reason`): fragments of split foreign names (`Eddine`, `Ullah`, `Ould`), function words (`En`, `No`, `Entre`), register noise (`Fernadez`, `Mariajose`, `Nunez`) |
+| `given_added.tsv` | given names the INE file does not hold because INE writes the full form (`Mari`, registered as `MARIA` in `MARIA CARMEN`), with gender (`name<TAB>gender`) |
 | `places.tsv` | 3,313 autonomous communities, traditional Castilian and co-official forms, continents, countries, rivers, mountains, seas, lakes, islands, regions, historic states and foreign exonyms in their Spanish form, with grammatical gender (`name<TAB>gender<TAB>kind`) |
 
 The curation was written on 2026-10-21 from our own knowledge of Spanish, of the other
@@ -110,12 +114,12 @@ State 2026-10-21 (`build.py --stats`):
 
 | list | entries | coverage |
 |---|---|---|
-| given names | 8,208 (m 3,565, f 4,135, u 508; 523 marked `word`) | every given name is listed for 98.7 % of the residents in the INE file (names borne by ≥ 20 persons) |
-| surnames | 16,195 (2,175 marked `word`) | the first surname is listed for 91.9 % of the residents in the INE file (first surnames borne by ≥ 20 persons); ≥ 300 bearers would be 11,900 names for 89.7 %, ≥ 100 would be 26,400 for 95.0 % |
+| given names | 8,210 (m 3,566, f 4,136, u 508; 524 marked `word`) | every given name is listed for 98.7 % of the residents in the INE file (names borne by ≥ 20 persons) |
+| surnames | 16,195 (2,177 marked `word`) | the first surname is listed for 91.9 % of the residents in the INE file (first surnames borne by ≥ 20 persons); ≥ 300 bearers would be 11,900 names for 89.7 %, ≥ 100 would be 26,400 for 95.0 % |
 | places | 7,833 (464 marked `word`) | 4,150 municipalities with ≥ 500 inhabitants (98.5 % of the population of Spain), the 50 provinces and 2 autonomous cities, 247 countries and continents, 1,792 foreign cities and 1,071 foreign regions (GeoNames), 3,313 lines of our own list |
 
 Pack size (`heinrich pack build-names --lang es`, 29,178 distinct names): 168,976 bytes,
-78,364 bytes gzip -9, within the names-pack budget of 100 KB gzip. Lowering the surname threshold
+78,357 bytes gzip -9, within the names-pack budget of 100 KB gzip. Lowering the surname threshold
 is the way to grow the lists (about 2.5 bytes gzip per name).
 
 ## Licence and attribution

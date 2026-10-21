@@ -218,7 +218,7 @@ modified."
 Own data in `es/names/curated/` (written 2026-10-21 from our own knowledge of Spanish, of the other
 languages of Spain and of geography, without dictionary, lexicon, word list, name list, gazetteer
 or web source): the usual spellings of the INE register names (accents, Catalan and Galician
-forms), the `word` markers, the exclusions, and the list of autonomous communities, traditional
+forms), a few frequent given-name forms the register does not hold (`Mari`), the `word` markers, the exclusions, and the list of autonomous communities, traditional
 Castilian forms, continents, rivers, mountains, seas, islands, regions, historic states and
 foreign exonyms (`curated/places.tsv`).
 
