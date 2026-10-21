@@ -41,6 +41,7 @@ cuanto       adv  type=rel note=cuanto más, mejor; en cuanto
 cuánto       adv  type=int
 donde        adv  type=rel
 dónde        adv  type=int
+dondequiera  adv  type=rel note=dondequiera que vayas; por dondequiera
 
 # --- place and time deixis --------------------------------------------------------------------
 acá          adv  type=dem
