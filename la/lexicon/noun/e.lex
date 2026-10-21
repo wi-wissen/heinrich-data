@@ -3,9 +3,15 @@ ebur, eboris noun n
 ecclēsia, ecclēsiae noun f style=late
 ēdictum, ēdictī noun n
 effectus, effectūs noun m
+egestās, egestātis noun f sg_only
+ēlēctiō, ēlēctiōnis noun f
 elementum, elementī noun n
 elephantus, elephantī noun m
 ēloquentia, ēloquentiae noun f sg_only
+ēloquium, ēloquiī noun n
+ēmolumentum, ēmolumentī noun n
+emptiō, emptiōnis noun f conf=85 note=length of the e?
+emptor, emptōris noun m conf=85 note=length of the e?
 ēnsis, ēnsis noun m
 episcopus, episcopī noun m style=late
 epistula, epistulae noun f var=epistola[late]
@@ -14,14 +20,31 @@ eques, equitis noun m
 equitātus, equitātūs noun m
 equus, equī noun m
 error, errōris noun m
+ērudītiō, ērudītiōnis noun f
+ēruptiō, ēruptiōnis noun f
+esca, escae noun f
+eunūchus, eunūchī noun m
 ēventus, ēventūs noun m
+exāmen, exāminis noun n
+excellentia, excellentiae noun f
+excidium, excidiī noun n
+excubiae, excubiārum noun f pl_only
+excursiō, excursiōnis noun f
+excūsātiō, excūsātiōnis noun f
 exemplar, exemplāris noun n
 exemplum, exemplī noun n
 exercitātiō, exercitātiōnis noun f
 exercitus, exercitūs noun m
+exīstimātiō, exīstimātiōnis noun f conf=85 note=length of the second i, as in exīstimō?
 exitium, exitiī noun n
 exitus, exitūs noun m
+exōrdium, exōrdiī noun n
+expedītiō, expedītiōnis noun f
 experīmentum, experīmentī noun n
 explōrātor, explōrātōris noun m
+exsequiae, exsequiārum noun f pl_only
 exsilium, exsiliī noun n var=exilium
 exspectātiō, exspectātiōnis noun f
+exsul, exsulis noun c var=exul
+exta, extōrum noun n pl_only
+exuviae, exuviārum noun f pl_only
