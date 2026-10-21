@@ -36,7 +36,7 @@ interitus, interitūs noun m
 intervallum, intervallī noun n
 intestīnum, intestīnī noun n
 invidia, invidiae noun f
-iocus, iocī noun m nom_pl=iocī|ioca acc_pl=iocōs|ioca note=the plural ioca is neuter
+iocus, iocī noun m nom_pl_n=ioca gen_pl_n=iocōrum dat_pl_n=iocīs
 īra, īrae noun f
 iter, itineris noun n
 iūdex, iūdicis noun m

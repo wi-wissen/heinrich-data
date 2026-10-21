@@ -2,6 +2,7 @@
 maereō, -, -, maerēre verb intr
 mandō, mandāvī, mandātum, mandāre verb
 maneō, mānsī, mānsum, manēre verb intr
+medeor, -, medērī verb intr note=no long vowel in the lemma
 meditor, meditātus sum, meditārī verb note=no long vowel in the lemma
 meminī, -, meminisse verb imp2=mementō,mementōte
 mentior, mentītus sum, mentīrī verb note=no long vowel in the lemma

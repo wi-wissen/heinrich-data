@@ -34,7 +34,7 @@ iniciō, iniēcī, iniectum, inicere verb
 īnstituō, īnstituī, īnstitūtum, īnstituere verb
 īnstō, īnstitī, īnstātūrus, īnstāre verb intr
 īnstruō, īnstrūxī, īnstrūctum, īnstruere verb
-īnsum, īnfuī, -, inesse verb class=sum note=generator gap, reported: the prefix keeps its long ī before a vowel (inest, inesse have a short i)
+īnsum, īnfuī, -, inesse verb class=sum
 intellegō, intellēxī, intellēctum, intellegere verb var=intelligō conf=90 note=length of the e in the perfect and supine?
 intendō, intendī, intentum, intendere verb
 interficiō, interfēcī, interfectum, interficere verb

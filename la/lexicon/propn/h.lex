@@ -5,7 +5,7 @@ Hasdrubal, Hasdrubalis propn m
 Hector, Hectoris propn m greek
 Helena, Helenae propn f
 Hellēspontus, Hellēspontī propn m
-Helvētiī, Helvētiōrum propn m pl_only
+Helvētius, Helvētiī propn m sg_pl
 Herculēs, Herculis propn m
 Hispānia, Hispāniae propn f
 Homērus, Homērī propn m

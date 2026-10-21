@@ -41,7 +41,7 @@ lingua, linguae noun f
 liquor, liquōris noun m
 littera, litterae noun f var=litera
 lītus, lītoris noun n
-locus, locī noun m nom_pl=locī|loca acc_pl=locōs|loca note=the plural loca is neuter
+locus, locī noun m nom_pl_n=loca gen_pl_n=locōrum dat_pl_n=locīs
 longitūdō, longitūdinis noun f
 lōrum, lōrī noun n
 lucrum, lucrī noun n

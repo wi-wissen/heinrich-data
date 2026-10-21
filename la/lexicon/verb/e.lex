@@ -29,6 +29,7 @@ exerceō, exercuī, exercitum, exercēre verb
 exhauriō, exhausī, exhaustum, exhaurīre verb
 exigō, exēgī, exāctum, exigere verb
 exīstimō, exīstimāvī, exīstimātum, exīstimāre verb conf=85 note=length of the second i?
+exorior, exortus sum, exorīrī verb intr conj=3i fut=exoritūrus note=no long vowel in the lemma
 expediō, expedīvī|expediī, expedītum, expedīre verb
 expellō, expulī, expulsum, expellere verb
 experior, expertus sum, experīrī verb note=no long vowel in the lemma
