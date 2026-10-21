@@ -141,6 +141,7 @@ relationnel adj
 relativiste adj
 relégable adj
 religieux adj adv=religieusement
+relou adj f=relou|reloue conf=90 style=colloquial alt=lourd|pénible note=verlan of lourd
 reluisant adj
 remarquable adj adv=remarquablement
 remboursable adj
