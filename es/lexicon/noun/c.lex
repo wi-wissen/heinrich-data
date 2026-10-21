@@ -1205,7 +1205,6 @@ cimiento     noun g=m
 cimitarra    noun g=f
 cinamomo     noun g=m
 cinasa       noun g=f
-cinc         noun g=m
 cincel       noun g=m
 cincha       noun g=f
 cincho       noun g=m
