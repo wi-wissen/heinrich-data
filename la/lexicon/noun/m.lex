@@ -37,6 +37,7 @@ messis, messis noun f
 metallum, metallī noun n
 metus, metūs noun m
 mīles, mīlitis noun m
+mīlia, mīlium noun n pl_only
 mīlitia, mīlitiae noun f
 minae, minārum noun f pl_only
 minister, ministrī noun m
