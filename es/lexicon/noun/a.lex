@@ -67,6 +67,7 @@ abstinencia  noun g=f
 abstracción  noun g=f
 absurdo      noun g=m
 abucheo      noun g=m
+abuelito     noun g=m f=abuelita
 abuelo       noun g=m f=abuela
 abulia       noun g=f
 abultamiento noun g=m
@@ -453,7 +454,7 @@ ahorrador    noun g=m f=ahorradora
 ahorro       noun g=m
 ahumadero    noun g=m
 aikido       noun g=m
-aimara       noun g=m|f
+aimara       noun g=m|f var=aimará note=aimara and aimará are both used
 airbag       noun g=m foreign
 aire         noun g=m
 aireación    noun g=f
@@ -481,6 +482,7 @@ alabeo       noun g=m
 alacena      noun g=f
 alacrán      noun g=m
 alacridad    noun g=f
+alamán       noun g=m f=alamana
 alambique    noun g=m
 alambrada    noun g=f
 alambrado    noun g=m
@@ -595,6 +597,7 @@ alfombra     noun g=f
 alfombrilla  noun g=f
 alforfón     noun g=m
 alforja      noun g=f
+alfoz        noun g=amb
 alga         noun g=f
 algarabía    noun g=f
 algarada     noun g=f
@@ -660,6 +663,7 @@ alminar      noun g=m
 almirantazgo noun g=m
 almirante    noun g=m|f
 almizcle     noun g=m
+almogávar    noun g=m
 almohada     noun g=f
 almohadilla  noun g=f
 almohadillado noun g=m
@@ -768,6 +772,7 @@ ambrosía     noun g=f
 ambulancia   noun g=f
 ambulatorio  noun g=m
 ameba        noun g=f var=amiba
+amejoramiento noun g=m
 amenaza      noun g=f
 amenidad     noun g=f
 amento       noun g=m
@@ -783,6 +788,7 @@ amigo        noun g=m f=amiga
 amigote      noun g=m
 amiguete     noun g=m style=colloquial alt=amigo
 amiguismo    noun g=m
+amiguito     noun g=m f=amiguita
 amina        noun g=f
 aminoácido   noun g=m
 amistad      noun g=f
@@ -886,6 +892,7 @@ anfitrión    noun g=m f=anfitriona
 ánfora       noun g=f
 anfotericina noun g=f
 ángel        noun g=m
+angelito     noun g=m note=diminutive of ángel; lexicalised (los angelitos)
 angina       noun g=f
 angiosperma  noun g=f
 anglicanismo noun g=m
@@ -968,6 +975,7 @@ anticuario   noun g=m f=anticuaria
 anticuerpo   noun g=m
 antidepresivo noun g=m
 antídoto     noun g=m
+antifascismo noun g=m
 antifascista noun g=m|f
 antifaz      noun g=m
 antígeno     noun g=m
@@ -1053,6 +1061,7 @@ apartado     noun g=m
 apartamento  noun g=m
 apartamiento noun g=m
 apartheid    noun g=m pl=- foreign note=no plural in use
+apasionamiento noun g=m
 apatía       noun g=f
 apátrida     noun g=m|f
 apatridia    noun g=f
@@ -1185,6 +1194,7 @@ arcano       noun g=m
 arce         noun g=m
 arcediano    noun g=m
 arcén        noun g=m
+archidiácono noun g=m
 archidiócesis noun g=f
 archiduque   noun g=m f=archiduquesa
 archienemigo noun g=m f=archienemiga
@@ -1563,6 +1573,7 @@ autocomplacencia noun g=f
 autoconciencia noun g=f
 autoconfianza noun g=f
 autoconocimiento noun g=m
+autoconsumidor noun g=m f=autoconsumidora
 autoconsumo  noun g=m
 autocontrol  noun g=m
 autocracia   noun g=f
@@ -1640,6 +1651,7 @@ avance       noun g=m
 avanzadilla  noun g=f
 avaricia     noun g=f
 avaro        noun g=m f=avara
+ávaro        noun g=m f=ávara
 avatar       noun g=m
 ave          noun g=f
 avellana     noun g=f
@@ -1675,6 +1687,8 @@ avutarda     noun g=f
 axila        noun g=f
 axioma       noun g=m
 axón         noun g=m
+ay           noun g=m pl=ayes note=los ayes del herido
+ayatolá      noun g=m pl=ayatolás
 ayo          noun g=m f=aya
 ayuda        noun g=f
 ayudante     noun g=m|f

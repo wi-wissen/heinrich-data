@@ -2,6 +2,7 @@
 
 a            adp
 al           adp  fused=a+el gender=m number=sg
+allende      adp  style=literary note=beyond: allende los mares
 ante         adp
 bajo         adp
 cabe         adp  style=archaic note=next to; only in old texts

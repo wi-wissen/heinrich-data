@@ -7,6 +7,7 @@ cabalgata    noun g=f
 caballa      noun g=f
 caballada    noun g=f
 caballería   noun g=f
+caballerito  noun g=m
 caballeriza  noun g=f
 caballerizo  noun g=m
 caballero    noun g=m
@@ -134,6 +135,7 @@ cálamo       noun g=m
 calandria    noun g=f
 calaña       noun g=f
 calavera     noun g=f
+calaverada   noun g=f
 calcáneo     noun g=m
 calcañar     noun g=m
 calcedonia   noun g=f
@@ -352,6 +354,7 @@ cantata      noun g=f
 cantautor    noun g=m f=cantautora
 cante        noun g=m
 cantera      noun g=f
+canterano    noun g=m f=canterana
 cantería     noun g=f
 cantero      noun g=m
 cántico      noun g=m
@@ -417,6 +420,7 @@ capitulación noun g=f
 capítulo     noun g=m
 capo         noun g=m
 capó         noun g=m
+capoeira     noun g=f
 capón        noun g=m
 caporal      noun g=m
 capota       noun g=f
@@ -677,9 +681,11 @@ cataclismo   noun g=m
 catacumba    noun g=f
 catador      noun g=m f=catadora
 catadura     noun g=f
+catafalco    noun g=m
 catalán      noun g=m f=catalana
 catalanismo  noun g=m
 catalanización noun g=f
+catalanofobia noun g=f
 catalejo     noun g=m
 catalepsia   noun g=f
 catálisis    noun g=f
@@ -754,6 +760,7 @@ cayo         noun g=m
 cayuco       noun g=m
 caza         noun g=f
 cazabombardero noun g=m
+cazacarros   noun g=m
 cazadero     noun g=m
 cazador      noun g=m f=cazadora
 cazadora     noun g=f note=jacket
@@ -1019,6 +1026,8 @@ chatarra     noun g=f
 chatarrero   noun g=m f=chatarrera
 chaval       noun g=m f=chavala style=colloquial alt=chico|muchacho
 chaveta      noun g=f
+chavismo     noun g=m
+chavista     noun g=m|f
 checo        noun g=m f=checa
 chef         noun g=m|f pl=chefs
 chelín       noun g=m
@@ -1028,11 +1037,13 @@ chepa        noun g=f style=colloquial alt=joroba
 cheque       noun g=m
 chequeo      noun g=m
 chequera     noun g=f
+chibcha      noun g=m|f
 chicarrón    noun g=m f=chicarrona
 chicha       noun g=f
 chicharra    noun g=f
 chicharro    noun g=m
 chicharrón   noun g=m
+chichimeca   noun g=m|f
 chichón      noun g=m
 chicle       noun g=m
 chico        noun g=m f=chica
@@ -1053,6 +1064,7 @@ chino        noun g=m f=china
 chip         noun g=m
 chipirón     noun g=m
 chipriota    noun g=m|f
+chipset      noun g=m pl=chipsets foreign
 chiquero     noun g=m
 chiquillería noun g=f
 chiquillo    noun g=m f=chiquilla
@@ -1078,6 +1090,7 @@ chistorra    noun g=f
 chivatazo    noun g=m style=colloquial alt=delación|soplo
 chivato      noun g=m f=chivata style=colloquial alt=delator|confidente
 chivo        noun g=m f=chiva
+chochín      noun g=m
 chocolate    noun g=m
 chocolatería noun g=f
 chocolatero  noun g=m f=chocolatera
@@ -1102,6 +1115,7 @@ chuche       noun g=f style=colloquial alt=golosina|chuchería
 chuchería    noun g=f
 chucho       noun g=m f=chucha style=colloquial alt=perro
 chucrut      noun g=m
+chueta       noun g=m|f
 chufa        noun g=f
 chulapo      noun g=m f=chulapa
 chulería     noun g=f
@@ -1381,6 +1395,7 @@ coautoría    noun g=f
 cobalto      noun g=m
 cobardía     noun g=f
 cobaya       noun g=amb
+cobertera    noun g=f
 cobertizo    noun g=m
 cobertor     noun g=m
 cobertura    noun g=f
@@ -1411,6 +1426,7 @@ cocinitas    noun g=f pl_only note=jugar a las cocinitas
 coco         noun g=m
 cocodrilo    noun g=m
 cocotero     noun g=m
+cocreador    noun g=m f=cocreadora
 cóctel       noun g=m var=coctel
 coctelera    noun g=f
 coda         noun g=f
@@ -1428,6 +1444,7 @@ codirector   noun g=m f=codirectora
 codo         noun g=m
 codorniz     noun g=f
 coedición    noun g=f
+coeditor     noun g=m f=coeditora
 coeducación  noun g=f
 coeficiente  noun g=m
 coenzima     noun g=f
@@ -1478,6 +1495,7 @@ colada       noun g=f
 coladero     noun g=m
 colador      noun g=m
 colágeno     noun g=m
+colangitis   noun g=f
 colapso      noun g=m
 colcha       noun g=f
 colchón      noun g=m
@@ -1535,6 +1553,7 @@ colocación   noun g=f
 colocón      noun g=m style=colloquial alt=borrachera|euforia
 colofón      noun g=m
 colon        noun g=m
+colón        noun g=m note=currency of Costa Rica and El Salvador
 colonia      noun g=f
 colonialismo noun g=m
 colonización noun g=f
@@ -1553,6 +1572,7 @@ colorín      noun g=m
 coloso       noun g=m
 columna      noun g=f
 columnata    noun g=f
+columnilla   noun g=f
 columnista   noun g=m|f
 columpio     noun g=m
 colusión     noun g=f
@@ -1562,6 +1582,7 @@ coma         noun g=f sense=punctuation
 comadre      noun g=f
 comadreja    noun g=f
 comadrona    noun g=f
+comanche     noun g=m|f
 comandancia  noun g=f
 comandante   noun g=m|f
 comandita    noun g=f
@@ -1806,6 +1827,7 @@ confidencia  noun g=f
 confidencialidad noun g=f
 confidente   noun g=m|f
 configuración noun g=f
+configurador noun g=m
 confín       noun g=m
 confinamiento noun g=m
 confirmación noun g=f
@@ -1921,6 +1943,7 @@ consuelo     noun g=m
 cónsul       noun g=m|f
 consulado    noun g=m
 consulta     noun g=f
+consultante  noun g=m|f
 consultor    noun g=m f=consultora
 consultoría  noun g=f
 consultorio  noun g=m
@@ -2020,6 +2043,7 @@ contrarreforma noun g=f
 contrarreloj noun g=f
 contrarréplica noun g=f
 contrarrevolución noun g=f
+contrarrevolucionario noun g=m f=contrarrevolucionaria
 contrasentido noun g=m
 contraseña   noun g=f
 contrastación noun g=f
@@ -2037,6 +2061,8 @@ contraventana noun g=f
 contraviento noun g=m
 contrayente  noun g=m|f
 contribución noun g=f
+contribuidor noun g=m f=contribuidora
+contributividad noun g=f
 contribuyente noun g=m|f
 contrición   noun g=f
 contrincante noun g=m|f
@@ -2044,6 +2070,7 @@ control      noun g=m
 controlador  noun g=m f=controladora
 controversia noun g=f
 contubernio  noun g=m
+contumacia   noun g=f
 contundencia noun g=f
 contusión    noun g=f
 conurbación  noun g=f
@@ -2094,6 +2121,7 @@ copa         noun g=f
 copago       noun g=m
 copartícipe  noun g=m|f
 copépodo     noun g=m
+copernicio   noun g=m
 copero       noun g=m
 copete       noun g=m
 copia        noun g=f
@@ -2102,11 +2130,13 @@ copiadora    noun g=f
 copiloto     noun g=m|f
 copista      noun g=m|f
 copistería   noun g=f
+copita       noun g=f
 copla        noun g=f
 copo         noun g=m
 copolímero   noun g=m
 copón        noun g=m
 copra        noun g=f
+copresentador noun g=m f=copresentadora
 copresidente noun g=m f=copresidenta
 coproducción noun g=f
 coproductor  noun g=m f=coproductora
@@ -2116,6 +2146,7 @@ coprotagonista noun g=m|f
 cópula       noun g=f
 coque        noun g=m
 coquetería   noun g=f
+coracero     noun g=m
 coraje       noun g=m
 coral        noun g=m sense=reef
 coral        noun g=f sense=choir
@@ -2190,11 +2221,14 @@ correctora   noun g=f
 corredera    noun g=f
 corredor     noun g=m f=corredora
 correduría   noun g=f
+corregente   noun g=m|f
 corregidor   noun g=m
 corregimiento noun g=m
+corregulación noun g=f
 correlación  noun g=f
 correlato    noun g=m
 correligionario noun g=m f=correligionaria
+correntino   noun g=m f=correntina
 correo       noun g=m
 correspondencia noun g=f
 corresponsabilidad noun g=f
@@ -2256,6 +2290,7 @@ cosechero    noun g=m f=cosechera
 coseno       noun g=m
 cosido       noun g=m
 cosificación noun g=f
+cosita       noun g=f
 cosmética    noun g=f
 cosmético    noun g=m
 cosmódromo   noun g=m
@@ -2269,6 +2304,7 @@ cosmonave    noun g=f
 cosmopolitismo noun g=m
 cosmos       noun g=m
 cosmovisión  noun g=f
+cosoberanía  noun g=f
 cosquillas   noun g=f pl_only
 cosquilleo   noun g=m
 costa        noun g=f
@@ -2378,6 +2414,7 @@ cristalera   noun g=f
 cristalería  noun g=f
 cristalino   noun g=m
 cristalización noun g=f
+cristalografía noun g=f
 cristiandad  noun g=f
 cristianismo noun g=m
 cristianización noun g=f
@@ -2392,12 +2429,15 @@ croata       noun g=m|f
 cromatina    noun g=f
 cromatismo   noun g=m
 cromatografía noun g=f
+crominancia  noun g=f
 cromo        noun g=m
 cromosoma    noun g=m
 crónica      noun g=f
 cronicidad   noun g=f
 cronificación noun g=f
 cronista     noun g=m|f
+crono        noun g=m sense=time style=colloquial alt=cronómetro|tiempo note=el crono: the stopwatch, the time achieved
+crono        noun g=f sense=timetrial style=colloquial alt=contrarreloj note=la crono: the time-trial race
 cronoescalada noun g=f
 cronógrafo   noun g=m
 cronograma   noun g=m
@@ -2450,6 +2490,7 @@ cuantía      noun g=f
 cuantificación noun g=f
 cuantificador noun g=m
 cuantización noun g=f
+cuáquero     noun g=m f=cuáquera
 cuarcita     noun g=f
 cuarentena   noun g=f
 cuaresma     noun g=f
@@ -2459,10 +2500,13 @@ cuarteta     noun g=f
 cuarteto     noun g=m
 cuartil      noun g=m
 cuartilla    noun g=f
+cuartito     noun g=m
 cuarto       noun g=m note=room; quarter
+cuartofinalista noun g=m|f
 cuartucho    noun g=m
 cuarzo       noun g=m
 cuásar       noun g=m
+cuaternión   noun g=m
 cuatrero     noun g=m
 cuatrienio   noun g=m
 cuatrimestre noun g=m
@@ -2509,6 +2553,7 @@ cuenca       noun g=f
 cuenco       noun g=m
 cuenta       noun g=f
 cuentacuentos noun g=m|f
+cuentadante  noun g=m|f
 cuentagotas  noun g=m
 cuentakilómetros noun g=m
 cuentarrevoluciones noun g=m
@@ -2526,6 +2571,7 @@ cuestión     noun g=f
 cuestionamiento noun g=m
 cuestionario noun g=m
 cuestor      noun g=m
+cuestura     noun g=f
 cueva        noun g=f
 cuidado      noun g=m
 cuidador     noun g=m f=cuidadora
@@ -2564,11 +2610,14 @@ cuña         noun g=f
 cuñado       noun g=m f=cuñada
 cuño         noun g=m
 cuota        noun g=f
+cuotapartícipe noun g=m|f
 cupé         noun g=m
 cuplé        noun g=m
 cupletista   noun g=m|f
 cupo         noun g=m
 cupón        noun g=m
+cuponazo     noun g=m
+cuproníquel  noun g=m
 cúpula       noun g=f
 cura         noun g=m sense=priest
 cura         noun g=f sense=cure
@@ -2586,10 +2635,11 @@ curiosidad   noun g=f
 currante     noun g=m|f style=colloquial alt=trabajador
 currelo      noun g=m style=colloquial alt=trabajo|empleo
 currículo    noun g=m
-currículum   noun g=m pl=currículums
+currículum   noun g=m var=curriculum pl=currículums
 currito      noun g=m f=currita style=colloquial alt=trabajador|empleado
 curro        noun g=m style=colloquial alt=trabajo|empleo
 curruca      noun g=f
+curry        noun g=m pl=currys conf=80 note=plural rare
 cursilada    noun g=f
 cursilería   noun g=f
 cursillo     noun g=m

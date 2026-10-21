@@ -9,6 +9,7 @@ nunca        adv  type=neg
 sí           adv  type=aff
 también      adv  type=aff
 tampoco      adv  type=neg
+siquiera     adv  type=neg note=ni siquiera; also concessive siquiera sea
 
 # --- degree -----------------------------------------------------------------------------------
 algo         adv  type=deg note=algo cansado
@@ -25,6 +26,7 @@ mucho        adv  type=deg
 muy          adv  type=deg
 nada         adv  type=deg|neg note=no es nada fácil
 poco         adv  type=deg
+poquito      adv  type=deg note=diminutive: un poquito cansado
 tan          adv  type=deg
 tanto        adv  type=deg
 
@@ -39,6 +41,7 @@ cuanto       adv  type=rel note=cuanto más, mejor; en cuanto
 cuánto       adv  type=int
 donde        adv  type=rel
 dónde        adv  type=int
+dondequiera  adv  type=rel note=dondequiera que vayas; por dondequiera
 
 # --- place and time deixis --------------------------------------------------------------------
 acá          adv  type=dem
@@ -51,10 +54,12 @@ anteanoche   adv  type=dem
 anteayer     adv  type=dem
 aquí         adv  type=dem
 así          adv  type=dem
+doquier      adv  type=dem style=literary note=por doquier
 aun          adv  type=deg note=even (aun así; ni aun); aún is still
 aún          adv  type=dem note=still, yet (aún no ha llegado)
 ayer         adv  type=dem
 entonces     adv  type=dem
+ende         adv  type=dem style=literary note=por ende
 hoy          adv  type=dem
 mañana       adv  type=dem
 todavía      adv  type=dem

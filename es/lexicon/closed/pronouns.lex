@@ -10,6 +10,8 @@ nosotros     pron type=prs person=1 case=nom forms=-,-,nosotros,nosotras
 vosotros     pron type=prs person=2 case=nom forms=-,-,vosotros,vosotras
 usted        pron type=prs person=3 number=sg polite
 ustedes      pron type=prs person=3 number=pl polite
+usía        pron type=prs person=3 number=sg polite style=archaic note=vuestra señoría
+vuecencia    pron type=prs person=3 number=sg polite style=archaic note=vuestra excelencia
 mí           pron type=prs person=1 number=sg prepcase
 ti           pron type=prs person=2 number=sg prepcase
 sí           pron type=rfl person=3 prepcase

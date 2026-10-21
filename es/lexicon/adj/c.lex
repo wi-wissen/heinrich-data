@@ -106,6 +106,7 @@ cantable     adj
 cantábrico   adj
 cántabro     adj
 cantarín     adj f=cantarina
+canterano    adj
 cantonal     adj
 cantonés     adj
 cañero       adj style=colloquial alt=enérgico|intenso
@@ -301,18 +302,23 @@ chalado      adj style=colloquial alt=loco|chiflado
 chapado      adj
 chaparro     adj
 chapucero    adj
+chaqueño     adj
 chaquetero   adj style=colloquial alt=oportunista|tránsfuga
 charlatán    adj
 charro       adj
 charrúa      adj
 chárter      adj
 chato        adj
+chavista     adj
 checheno     adj
 checo        adj
 checoslovaco adj
 cheroqui     adj
+chiapaneco   adj
+chibcha      adj
 chic         adj inv
 chicano      adj
+chichimeca   adj
 chico        adj
 chiflado     adj style=colloquial alt=loco|chalado
 chií         adj pl=chiíes|chiís[var]
@@ -438,6 +444,7 @@ cochino      adj
 coclear      adj
 codiciado    adj
 codicioso    adj
+codificante  adj
 coercitivo   adj
 coetáneo     adj
 cognitivo    adj
@@ -473,6 +480,7 @@ colorista    adj
 colorrectal  adj
 colosal      adj
 columnar     adj
+comanche     adj
 comanditario adj
 comarcal     adj
 comarcano    adj
@@ -550,6 +558,7 @@ conciliador  adj
 conciliar    adj
 conciso      adj adv=concisamente
 conclusivo   adj
+concluso     adj
 concluyente  adj
 concomitante adj
 concordante  adj
@@ -665,10 +674,12 @@ consumado    adj
 consumible   adj
 consumista   adj
 consustancial adj
+contable     adj adv=contablemente
 contado      adj
 contagiado   adj
 contagioso   adj
 contaminado  adj
+contaminador adj
 contaminante adj
 contemplativo adj
 contemporáneo adj
@@ -699,6 +710,7 @@ contrapuesto adj
 contrapuntístico adj
 contrariado  adj
 contrario    adj adv=contrariamente
+contrarrevolucionario adj
 contrastable adj
 contrastado  adj
 contrastante adj
@@ -765,6 +777,7 @@ corrector    adj
 corredizo    adj
 corregible   adj
 correlativo  adj adv=correlativamente
+correntino   adj
 correoso     adj
 correspondiente adj adv=correspondientemente
 corresponsable adj
@@ -802,6 +815,7 @@ covalente    adj
 covariante   adj
 coyuntural   adj
 craneal      adj
+craneano     adj
 craneoencefálico adj
 craso        adj
 creativo     adj adv=creativamente
@@ -857,6 +871,7 @@ cuántico     adj
 cuantificable adj
 cuantioso    adj
 cuantitativo adj adv=cuantitativamente
+cuáquero     adj
 cuarentón    adj
 cuaresmal    adj
 cuaternario  adj
@@ -900,3 +915,4 @@ curvilíneo   adj
 curvo        adj
 cutáneo      adj
 cutre        adj style=colloquial alt=cochambroso|chapucero
+cuzqueño     adj

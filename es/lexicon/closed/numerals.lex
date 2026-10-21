@@ -63,6 +63,7 @@ noveno       num  type=ord value=9
 décimo       num  type=ord value=10
 undécimo     num  type=ord value=11
 duodécimo    num  type=ord value=12
+decimosegundo num type=ord value=12 note=also accepted beside duodécimo
 decimotercero num type=ord value=13 apoc=decimotercer
 decimocuarto num  type=ord value=14
 decimoquinto num  type=ord value=15

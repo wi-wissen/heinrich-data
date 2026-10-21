@@ -33,6 +33,7 @@ cobardemente adv
 coincidentemente adv
 cómicamente  adv
 compensatoriamente adv
+competencialmente adv
 competentemente adv
 complejamente adv
 complementariamente adv

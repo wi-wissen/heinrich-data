@@ -96,6 +96,7 @@ acostar      verb class=ue
 acostumbrar  verb
 acotar       verb
 acrecentar   verb class=ie
+acrecer      verb class=zco
 acreditar    verb
 acribillar   verb
 acrisolar    verb
@@ -323,6 +324,7 @@ anteceder    verb
 anteponer    verb class=poner
 anticipar    verb
 antojar      verb pronominal note=se me antoja
+anualizar    verb
 anudar       verb
 anular       verb
 anunciar     verb class=diphthong
@@ -536,11 +538,13 @@ ausentar     verb
 auspiciar    verb class=diphthong
 autenticar   verb
 autentificar verb
+autoconsumir verb
 autocontrolar verb
 autodenominar verb
 autogestionar verb
 autogobernar verb class=ie
 autoimponer  verb class=poner
+autoliquidar verb
 automatizar  verb
 autoproclamar verb
 autorizar    verb
@@ -550,6 +554,7 @@ avalar       verb
 avanzar      verb
 avasallar    verb
 avecinar     verb
+avecindar    verb
 avejentar    verb
 avenir       verb class=venir
 aventajar    verb
