@@ -107,7 +107,8 @@ defecación       noun  g=f
 defección        noun  g=f
 defecto          noun  g=m
 defenestración   noun  g=f
-defensa          noun  g=f
+defensa          noun  g=f sense=defence
+defensa          noun  g=m|f sense=player note=el defensa, la defensa: defender in football and other sports
 defensina        noun  g=f
 defensor         noun  g=m f=defensora
 defensoría       noun  g=f
@@ -967,6 +968,8 @@ divulgación      noun  g=f
 divulgador       noun  g=m f=divulgadora
 dobladillo       noun  g=m
 doblaje          noun  g=m
+doble            noun  g=m sense=amount note=el doble: twice as much
+doble            noun  g=m|f sense=person note=stunt double, lookalike
 doblete          noun  g=m
 doblez           noun  g=f sense=duplicity
 doblez           noun  g=m sense=fold

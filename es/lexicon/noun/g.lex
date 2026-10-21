@@ -38,7 +38,7 @@ gallego          noun  g=m f=gallega
 galleguismo      noun  g=m
 galleguista      noun  g=m|f
 galleta          noun  g=f
-gallina          noun  g=f
+gallina          noun  g=m|f sense=coward style=colloquial alt=cobarde note=es un gallina
 gallinero        noun  g=m
 gallito          noun  g=m style=colloquial alt=bravucón|chulo note=cocky person; the plain diminutive of gallo is formed at run time
 gallo            noun  g=m f=gallina
@@ -282,6 +282,7 @@ goleador         noun  g=m f=goleadora
 goleta           noun  g=f
 golf             noun  g=m
 golfista         noun  g=m|f
+golfo            noun  g=m f=golfa sense=rascal style=colloquial alt=pillo|sinvergüenza
 golfo            noun  g=m sense=gulf
 golondrina       noun  g=f
 golosina         noun  g=f
@@ -419,6 +420,8 @@ guano            noun  g=m
 guante           noun  g=m
 guantelete       noun  g=m
 guaraní          noun  g=m|f pl=guaraníes|guaranís[var]
+guarda           noun  g=f sense=keeping note=guarda y custodia; also the flyleaf of a book
+guarda           noun  g=m|f sense=person note=guarda forestal, guarda jurado
 guardabarros     noun  g=m
 guardabosques    noun  g=m|f
 guardabrisas     noun  g=m
