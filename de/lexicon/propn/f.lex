@@ -1,6 +1,7 @@
 Facebook propn g=n gen=Facebooks pl=- note=company name
 FDP propn g=f gen=FDP pl=- note=Freie Demokratische Partei
 Ferrara propn g=n gen=Ferraras pl=- note=city; no plural
+Festlandchina propn g=n gen=Festlandchinas pl=- note=region name; no plural
 FIFA propn g=f gen=FIFA pl=- note=international football federation
 Finnland propn g=n gen=Finnlands pl=- note=proper name; no plural
 Flandern propn g=n gen=Flanderns pl=- note=region; no plural

@@ -1,3 +1,5 @@
+sabermetrician noun
+sabermetrics noun pl=- note=uncountable
 sable noun
 sablefish noun pl=sablefish|sablefishes
 sabotage noun pl=- note=uncountable
@@ -192,6 +194,7 @@ scourer noun
 scourge noun
 scout noun
 scramble noun
+scramjet noun
 scrap noun
 scrape noun
 scratch noun
@@ -383,6 +386,8 @@ shale noun
 shallot noun
 shallow noun
 sham noun
+shaman noun pl=shamans
+shamanism noun pl=- note=uncountable
 shambles noun pl=shambles note=singular in form: a shambles
 shame noun
 shampoo noun
@@ -417,6 +422,7 @@ shellfish noun pl=shellfish
 shelter noun
 shemale noun style=offensive note=transphobic slur
 shepherd noun
+sherd noun
 sheriff noun
 sherry noun
 shield noun
@@ -498,6 +504,7 @@ Sicilian noun
 sickle noun
 sickness noun
 side noun
+sideband noun
 sidebar noun
 sideboard noun
 sidekick noun
@@ -648,7 +655,7 @@ smartwatch noun
 smash noun
 SME noun abbr note=small and medium-sized enterprise
 smear noun
-smell noun
+smell noun prep=of
 smelter noun
 smile noun vb=give|have|wear|crack
 smoke noun
@@ -737,6 +744,8 @@ songwriting noun pl=- note=uncountable
 sonnet noun
 soot noun pl=- note=uncountable
 sooth noun pl=- style=archaic note=archaic, chiefly in in sooth
+sophism noun
+sophist noun
 sophistication noun
 sophomore noun
 soprano noun note=plural sopranos
@@ -750,6 +759,7 @@ sort noun
 sorter noun
 sortie noun
 sot noun
+soteriology noun pl=- note=uncountable
 souffle noun conf=90 note=also written soufflé
 soufflé noun conf=90 note=also written souffle
 soul noun
@@ -1098,7 +1108,7 @@ streamer noun
 street noun
 streetcar noun
 strength noun
-stress noun
+stress noun prep=on|of
 stressor noun
 stretch noun
 stretcher noun
@@ -1364,6 +1374,7 @@ symphony noun
 symposium noun pl=symposia|symposiums
 symptom noun
 synagogue noun
+synapomorphy noun
 synchronization noun gb=synchronisation|synchronization
 syndicate noun
 syndication noun

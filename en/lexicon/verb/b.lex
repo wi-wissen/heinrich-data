@@ -202,6 +202,7 @@ bulge verb
 bully verb
 bump verb prep=into
 bundle verb
+bunt verb
 buoy verb
 burden verb
 burgeon verb

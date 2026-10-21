@@ -49,6 +49,7 @@ Bengali adj
 benign adj adv=benignly
 bent adj comp=p_ing|to prep=on|upon
 benthic adj
+benzoic adj
 Berber adj
 bereaved adj
 bereft adj pred_only

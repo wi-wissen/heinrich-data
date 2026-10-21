@@ -18,7 +18,7 @@ quarantenaire adj
 québécois adj
 queer adj inv
 quelconque adj
-querelleur adj f=querelleuse adv=querelleusement
+querelleur adj f=querelleuse adv=querelleusement[rare]
 questionneur adj f=questionneuse
 quinquennal adj
 quintuple adj

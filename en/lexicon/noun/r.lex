@@ -26,6 +26,8 @@ radio noun vb=turn_on|turn_off|switch_on|switch_off xvb=open>turn_on|close>turn_
 radiocarbon noun pl=- note=uncountable
 radioisotope noun
 radiopharmaceutical noun
+radiotelephone noun
+radiotelephony noun pl=- note=uncountable
 radiotherapy noun pl=- note=uncountable
 radish noun
 radius noun pl=radii|radiuses
@@ -63,6 +65,7 @@ rambutan noun
 ramekin noun
 ramen noun pl=- note=uncountable
 ramification noun
+ramjet noun
 ramp noun
 rampart noun
 ramus noun pl=rami
@@ -108,7 +111,7 @@ razor noun
 RBI noun abbr note=run batted in (baseball)
 re-election noun us=reelection|re-election
 re-release noun
-reach noun
+reach noun prep=of
 reaction noun prep=to|against|from xprep=on?
 reactionary noun
 reactivity noun
@@ -172,6 +175,7 @@ reclamation noun
 reclassification noun
 recliner noun
 recluse noun
+reclusiveness noun pl=- note=uncountable
 recognition noun
 recoil noun
 recollection noun
@@ -272,7 +276,7 @@ registrar noun
 registration noun
 registry noun
 regression noun
-regret noun
+regret noun prep=about|for|over|at
 regular noun
 regularity noun
 regulation noun
@@ -374,6 +378,7 @@ replacement noun
 replay noun
 replenishment noun pl=- note=uncountable
 replica noun
+replicant noun
 replication noun
 reply noun prep=to xprep=on? vb=give|send|write|receive|get
 repo noun conf=85 note=short for repository

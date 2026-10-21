@@ -21,6 +21,7 @@ Darbietung noun g=f gen=Darbietung pl=Darbietungen
 Darlegung noun g=f gen=Darlegung pl=Darlegungen
 Darlehen noun g=n gen=Darlehens pl=Darlehen
 Darm noun g=m gen=Darms|Darmes pl=Därme
+Darmstadtium noun g=n gen=Darmstadtiums pl=- note=chemical element
 Darsteller noun g=m gen=Darstellers pl=Darsteller
 Darstellerin noun g=f gen=Darstellerin pl=Darstellerinnen
 Darstellung   noun g=f gen=Darstellung pl=Darstellungen
@@ -42,6 +43,7 @@ Deal noun g=m gen=Deals pl=Deals
 Debatte       noun g=f gen=Debatte pl=Debatten
 Debitor noun g=m gen=Debitors pl=Debitoren
 Debriefing noun g=n gen=Debriefings pl=Debriefings
+Debugger noun g=m gen=Debuggers pl=Debugger
 Debüt noun g=n gen=Debüts pl=Debüts
 Deck noun g=n gen=Decks|Deckes pl=Decks|Decke[rare]
 Decke noun g=f gen=Decke pl=Decken
@@ -111,12 +113,14 @@ Destillation noun g=f gen=Destillation pl=Destillationen
 Detail noun g=n gen=Details pl=Details
 Detektiv noun g=m gen=Detektivs pl=Detektive
 Detektivin noun g=f gen=Detektivin pl=Detektivinnen
+Determinante noun g=f gen=Determinante pl=Determinanten
 Deutlichkeit noun g=f gen=Deutlichkeit pl=- note=no plural
 Deutsch noun g=n gen=Deutsch|Deutschs pl=- conf=80 note=the German language; genitive normally avoided (des Deutschen)
 Deutsche      noun g=m|f decl=adj
 Deutung noun g=f gen=Deutung pl=Deutungen
 Devise noun g=f gen=Devise pl=Devisen
 Devisen noun g=pl note=foreign currency
+Devon noun g=n gen=Devons pl=- note=geological period
 Dezember noun g=m gen=Dezember|Dezembers pl=Dezember[rare] note=month name; plural rare (die Dezember)
 Dezentralisierung noun g=f gen=Dezentralisierung pl=Dezentralisierungen
 Dezernat noun g=n gen=Dezernats|Dezernates pl=Dezernate
@@ -176,6 +180,7 @@ Dimension noun g=f gen=Dimension pl=Dimensionen
 Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Dingo noun g=m gen=Dingos pl=Dingos
 Dinosaurier noun g=m gen=Dinosauriers pl=Dinosaurier
+Diode noun g=f gen=Diode pl=Dioden
 Dioxid noun g=n gen=Dioxids|Dioxides pl=Dioxide
 Diözese noun g=f gen=Diözese pl=Diözesen
 Dip noun g=m gen=Dips pl=Dips
@@ -206,6 +211,7 @@ Disputation noun g=f gen=Disputation pl=Disputationen
 Dissertation noun g=f gen=Dissertation pl=Dissertationen
 Distanz noun g=f gen=Distanz pl=Distanzen
 Distel noun g=f gen=Distel pl=Disteln
+Distribution noun g=f gen=Distribution pl=Distributionen
 Distrikt noun g=m gen=Distrikts|Distriktes pl=Distrikte
 Disziplin noun g=f gen=Disziplin pl=Disziplinen
 Divan noun g=m gen=Divans pl=Divane conf=80 note=older spelling of Diwan (Goethe, West-östlicher Divan)
@@ -234,11 +240,13 @@ Dokumentarfilm noun g=m gen=Dokumentarfilms|Dokumentarfilmes pl=Dokumentarfilme
 Dokumentarfilmer noun g=m gen=Dokumentarfilmers pl=Dokumentarfilmer
 Dokumentation noun g=f gen=Dokumentation pl=Dokumentationen
 Dolch noun g=m gen=Dolchs|Dolches pl=Dolche
+Dolde noun g=f gen=Dolde pl=Dolden
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Dolmen noun g=m gen=Dolmens pl=Dolmen
 Dolmetscher noun g=m gen=Dolmetschers pl=Dolmetscher
 Dolmetscherin noun g=f gen=Dolmetscherin pl=Dolmetscherinnen
 Dom noun g=m gen=Doms|Domes pl=Dome
+Domain noun g=f gen=Domain pl=Domains note=internet domain
 Domäne noun g=f gen=Domäne pl=Domänen
 Dominanz noun g=f gen=Dominanz pl=- note=no plural
 Dominikaner noun g=m gen=Dominikaners pl=Dominikaner
@@ -305,10 +313,12 @@ Dschungel noun g=m gen=Dschungels pl=Dschungel
 DSGVO noun g=f gen=DSGVO pl=- note=Datenschutz-Grundverordnung
 Dualismus noun g=m gen=Dualismus pl=Dualismen note=no genitive ending
 Dübel noun g=m gen=Dübels pl=Dübel
+Dubnium noun g=n gen=Dubniums pl=- note=chemical element
 Dudelsack noun g=m gen=Dudelsacks|Dudelsackes pl=Dudelsäcke
 Duell noun g=n gen=Duells pl=Duelle
 Duett noun g=n gen=Duetts|Duettes pl=Duette
 Duft noun g=m gen=Duftes|Dufts pl=Düfte
+Duftstoffrezeptur noun g=f gen=Duftstoffrezeptur pl=Duftstoffrezepturen
 Dukat noun g=m gen=Dukaten pl=Dukaten
 Duldung noun g=f gen=Duldung pl=- note=no plural
 Dummheit noun g=f gen=Dummheit pl=Dummheiten
@@ -341,3 +351,5 @@ Dynamik noun g=f gen=Dynamik pl=- note=no plural
 Dynamisierung noun g=f gen=Dynamisierung pl=Dynamisierungen
 Dynamo noun g=m gen=Dynamos pl=Dynamos conf=85 note=Dynamo as generator or sports club name; gender m
 Dynastie noun g=f gen=Dynastie pl=Dynastien
+Dysprosium noun g=n gen=Dysprosiums pl=- note=chemical element
+Département noun g=n gen=Départements pl=Départements note=French administrative unit

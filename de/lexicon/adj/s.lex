@@ -25,6 +25,7 @@ schändlich adj cmp=schändlicher sup=schändlichsten
 scharf adj cmp=schärfer sup=schärfsten
 schattig adj cmp=schattiger sup=schattigsten
 schaurig adj cmp=schauriger sup=schaurigsten
+schauspielerisch adj
 scheinbar adj
 scheu adj cmp=scheuer sup=scheuesten
 schick adj cmp=schicker sup=schicksten
@@ -66,6 +67,7 @@ schuldhaft adj
 schuldig adj
 schulisch adj
 schulpflichtig adj
+schüsselförmig adj
 schusselig adj cmp=schusseliger sup=schusseligsten
 schwäbisch adj
 schwach adj cmp=schwächer sup=schwächsten
@@ -83,6 +85,7 @@ schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
+sechstgrößt adj attr_only note=superlative compound: die sechstgrößte Stadt
 sechziger adj indecl note=die sechziger Jahre
 seelisch adj
 sehenswert adj
@@ -104,6 +107,7 @@ senkrecht adj
 sensibel adj cmp=sensibler sup=sensibelsten
 separat adj
 serbisch adj
+serbokroatisch adj
 seriös adj cmp=seriöser sup=seriösesten
 sexuell adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
@@ -158,6 +162,7 @@ spekulativ adj cmp=spekulativer sup=spekulativsten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
 spießbürgerlich adj
+spiralig adj
 spirituell adj cmp=spiritueller sup=spirituellsten
 spitz adj cmp=spitzer sup=spitzesten
 spitze adj indecl
@@ -188,6 +193,7 @@ steinzeitlich adj
 steirisch adj
 stenografisch adj
 sterblich adj
+steril adj cmp=steriler sup=sterilsten
 stet adj note=stete Tropfen; not compared
 stetig adj cmp=stetiger sup=stetigsten
 steuerlich adj
@@ -197,6 +203,7 @@ stickig adj cmp=stickiger sup=stickigsten
 stilistisch adj
 still adj cmp=stiller sup=stillsten
 stimmig adj cmp=stimmiger sup=stimmigsten
+stochastisch adj
 stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
@@ -231,9 +238,11 @@ südlich adj cmp=südlicher sup=südlichsten note=also a genitive preposition (c
 südöstlich adj
 südwestlich adj
 sukzessiv adj
+sumerisch adj
 sumpfig adj cmp=sumpfiger sup=sumpfigsten
 sündig adj cmp=sündiger sup=sündigsten
 super adj indecl style=colloquial alt=ausgezeichnet|großartig note=colloquial intensifier
+surjektiv adj
 süß adj cmp=süßer sup=süßesten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj

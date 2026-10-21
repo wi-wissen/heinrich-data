@@ -5,6 +5,7 @@ Ideal noun g=n gen=Ideals pl=Ideale
 Idealismus noun g=m gen=Idealismus pl=- note=abstract noun; -ismus genitive
 Idee noun g=f gen=Idee pl=Ideen
 Identifikation noun g=f gen=Identifikation pl=Identifikationen
+Identifikator noun g=m gen=Identifikators pl=Identifikatoren
 Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
 Identität noun g=f gen=Identität pl=Identitäten
 Ideologie noun g=f gen=Ideologie pl=Ideologien
@@ -49,10 +50,12 @@ Indigo noun g=m|n gen=Indigos pl=Indigos conf=85 note=dye; der/das Indigo, plura
 Indikation noun g=f gen=Indikation pl=Indikationen
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
+Indium noun g=n gen=Indiums pl=- note=chemical element
 Individualität noun g=f gen=Individualität pl=Individualitäten
 Individualverkehr noun g=m gen=Individualverkehrs pl=- note=mass noun
 Individuum noun g=n gen=Individuums pl=Individuen
 Indiz noun g=n gen=Indizes pl=Indizien
+Induktivität noun g=f gen=Induktivität pl=Induktivitäten
 Industrialisierung noun g=f gen=Industrialisierung pl=- note=no plural in practice
 Industrie noun g=f gen=Industrie pl=Industrien
 Infanterie noun g=f gen=Infanterie pl=- note=mass noun
@@ -82,6 +85,7 @@ Initiative noun g=f gen=Initiative pl=Initiativen
 Initiator noun g=m gen=Initiators pl=Initiatoren
 Initiatorin noun g=f gen=Initiatorin pl=Initiatorinnen
 Injektion noun g=f gen=Injektion pl=Injektionen
+Injektivität noun g=f gen=Injektivität pl=- note=property; no plural
 Inkasso noun g=n gen=Inkassos pl=Inkassos|Inkassi
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkraftsetzung noun g=f gen=Inkraftsetzung pl=- note=nominalisation in legal language
@@ -145,6 +149,7 @@ Internistin noun g=f gen=Internistin pl=Internistinnen
 Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
 Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen
+Interpreter noun g=m gen=Interpreters pl=Interpreter
 Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervall noun g=n gen=Intervalls pl=Intervalle
 Intervention noun g=f gen=Intervention pl=Interventionen
@@ -162,9 +167,12 @@ Investment noun g=n gen=Investments pl=Investments
 Investor noun g=m gen=Investors pl=Investoren
 Investorin noun g=f gen=Investorin pl=Investorinnen
 Inzidenz noun g=f gen=Inzidenz pl=Inzidenzen
+Iod noun g=n gen=Iods|Iodes pl=- note=chemical element; also Jod
+Iodid noun g=n gen=Iodids|Iodides pl=Iodide
 Ion noun g=n gen=Ions pl=Ionen
 Irakkrieg noun g=m gen=Irakkriegs|Irakkrieges pl=Irakkriege
 Ire noun g=m gen=Iren pl=Iren
+Iridium noun g=n gen=Iridiums pl=- note=chemical element
 Iris noun g=f gen=Iris pl=Iris|Iriden conf=80 note=plant / part of the eye; plural unsure
 Ironie noun g=f gen=Ironie pl=- note=no plural in practice
 Ironikus noun g=m gen=Ironikus pl=Ironiker conf=70 note=rare
@@ -174,10 +182,14 @@ Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
 Islamismus noun g=m gen=Islamismus pl=- note=mass noun
 Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
+Isomorphismus noun g=m gen=Isomorphismus pl=Isomorphismen
+Isotop noun g=n gen=Isotops pl=Isotope
 Israelit noun g=m gen=Israeliten pl=Israeliten
 IT noun g=f gen=IT pl=- note=Informationstechnik
 Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians
 Italiener noun g=m gen=Italieners pl=Italiener
 Italienerin noun g=f gen=Italienerin pl=Italienerinnen
 Italienisch noun g=n gen=Italienisch|Italienischs pl=- note=language name; no plural
+Italienreise noun g=f gen=Italienreise pl=Italienreisen note=the analyser does not join place names as modifiers
+Iteration noun g=f gen=Iteration pl=Iterationen
 IWF noun g=m gen=IWF pl=- note=Internationaler Währungsfonds

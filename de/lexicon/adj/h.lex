@@ -15,6 +15,7 @@ hastig adj cmp=hastiger sup=hastigsten
 häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
 häuslich adj cmp=häuslicher sup=häuslichsten
+häutig adj
 hebräisch adj
 heftig adj cmp=heftiger sup=heftigsten
 heidnisch adj
@@ -29,6 +30,7 @@ heiß adj cmp=heißer sup=heißesten
 heiter adj cmp=heiterer sup=heitersten
 hektisch adj cmp=hektischer sup=hektischsten
 hell adj cmp=heller sup=hellsten
+hellenistisch adj
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
 herkömmlich adj
@@ -36,6 +38,7 @@ heroisch adj cmp=heroischer sup=heroischsten
 herrlich adj cmp=herrlicher sup=herrlichsten
 herzlich adj cmp=herzlicher sup=herzlichsten
 hessisch adj
+heterospor adj
 heutig adj note=attributive only
 hierarchisch adj cmp=hierarchischer sup=hierarchischsten
 hiesig adj

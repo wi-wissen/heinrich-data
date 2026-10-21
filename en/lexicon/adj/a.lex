@@ -58,6 +58,7 @@ admirable adj adv=admirably
 admiring adj adv=admiringly
 admissible adj
 adolescent adj
+adoptionist adj
 adoptive adj
 adorable adj cmp=more adv=adorably
 adrenal adj
@@ -123,6 +124,7 @@ alleged adj attr_only adv=allegedly
 allegorical adj adv=allegorically
 allergic adj prep=to xprep=against|on cmp=more
 allosteric adj
+allotropic adj
 allowable adj
 alluvial adj
 almighty adj
@@ -191,6 +193,7 @@ antiaircraft adj
 antibacterial adj
 antidumping adj
 antimicrobial adj
+antinomic adj
 antiquarian adj
 antiquated adj
 antique adj
@@ -266,6 +269,7 @@ associative adj
 assorted adj
 assured adj adv=assuredly
 Assyrian adj
+asthmatic adj
 astir adj pred_only
 astonished adj comp=to|that|wh prep=at|by cmp=more
 astonishing adj adv=astonishingly
@@ -274,6 +278,7 @@ astute adj cmp=more adv=astutely
 asymmetric adj
 asymmetrical adj
 asymptomatic adj
+asymptotic adj adv=asymptotically
 Athenian adj
 athletic adj
 Atlantic adj
@@ -319,6 +324,7 @@ average adj
 averse adj comp=p_ing prep=to pred_only
 avian adj
 avid adj cmp=more adv=avidly
+avionic adj
 avoidable adj
 avowed adj
 awake adj pred_only
@@ -328,6 +334,7 @@ awful adj comp=to|that|ing prep=at|to|about cmp=more adv=awfully
 awkward adj cmp=more adv=awkwardly
 awry adj pred_only
 axial adj
+axonal adj
 Azerbaijani adj
 Aztec adj
 azure adj

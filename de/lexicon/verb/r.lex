@@ -59,6 +59,7 @@ recken verb class=weak pp=gereckt perf=haben refl=acc
 recyceln verb class=weak pp=recycelt perf=haben note=Partizip II without ge- is correct (stressed on the second syllable)
 reden verb class=weak pp=geredet perf=haben
 reduzieren verb class=weak pp=reduziert perf=haben refl=acc
+referenzieren verb class=weak pp=referenziert perf=haben
 referieren verb class=weak pp=referiert perf=haben
 reflektieren verb class=weak pp=reflektiert perf=haben
 reformieren verb class=weak pp=reformiert perf=haben
@@ -131,6 +132,7 @@ ringen verb class=strong 3sg=ringt past=rang pp=gerungen subj2=ränge perf=haben
 rinnen verb class=strong 3sg=rinnt past=rann pp=geronnen subj2=ränne|rönne[rare] perf=sein
 riskieren verb class=weak pp=riskiert perf=haben
 ritzen verb class=weak pp=geritzt perf=haben
+rivalisieren verb class=weak pp=rivalisiert perf=haben
 robben verb class=weak pp=gerobbt perf=sein
 röcheln verb class=weak pp=geröchelt perf=haben
 rodeln verb class=weak pp=gerodelt perf=haben|sein

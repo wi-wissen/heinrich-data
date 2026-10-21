@@ -3,6 +3,7 @@ Valentinstag noun g=m gen=Valentinstags|Valentinstages pl=Valentinstage
 Validierung noun g=f gen=Validierung pl=Validierungen
 Valuta noun g=f gen=Valuta pl=Valuten
 Vampir noun g=m gen=Vampirs pl=Vampire
+Vanadium noun g=n gen=Vanadiums pl=- note=chemical element
 Vanille noun g=f gen=Vanille pl=- note=no plural
 Vanillekipferl noun g=n gen=Vanillekipferls pl=Vanillekipferl
 Vanitas noun g=f gen=Vanitas pl=- note=no plural
@@ -17,6 +18,7 @@ Vaterland noun g=n gen=Vaterlands|Vaterlandes pl=Vaterländer
 Vaterschaft noun g=f gen=Vaterschaft pl=- note=no plural
 Vaterunser noun g=n gen=Vaterunsers pl=Vaterunser
 Vati noun g=m gen=Vatis pl=Vatis
+Vaudeville noun g=n gen=Vaudevilles pl=Vaudevilles
 Veganer noun g=m gen=Veganers pl=Veganer
 Veganerin noun g=f gen=Veganerin pl=Veganerinnen
 Vegetarier noun g=m gen=Vegetariers pl=Vegetarier
