@@ -25,7 +25,7 @@ lanceolado       adj
 lánguido         adj   adv=lánguidamente
 lanoso           adj
 lanudo           adj
-lao              adj
+lao              adj   f=lao note=same form in both genders: la lengua lao
 lapidario        adj
 lapón            adj
 largo            adj   adv=largamente

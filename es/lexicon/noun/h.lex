@@ -24,7 +24,7 @@ hachazo          noun  g=m
 hachís           noun  g=m
 hacienda         noun  g=f
 hacinamiento     noun  g=m
-hacker           noun  g=m|f foreign
+hacker           noun  g=m|f pl=hackers foreign
 hada             noun  g=f
 hado             noun  g=m
 hadrón           noun  g=m

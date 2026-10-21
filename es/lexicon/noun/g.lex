@@ -299,7 +299,7 @@ gorjeo           noun  g=m
 gorra            noun  g=f
 gorrión          noun  g=m
 gorro            noun  g=m
-gospel           noun  g=m foreign
+gospel           noun  g=m pl=gospels foreign
 góspel           noun  g=m
 gota             noun  g=f
 goteo            noun  g=m

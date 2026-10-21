@@ -266,7 +266,7 @@ finiquito        noun  g=m
 finlandés        noun  g=m f=finlandesa
 finura           noun  g=f
 fiordo           noun  g=m
-firewall         noun  g=m foreign
+firewall         noun  g=m pl=firewalls foreign
 firma            noun  g=f
 firmamento       noun  g=m
 firmante         noun  g=m|f

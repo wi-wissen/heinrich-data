@@ -16,7 +16,7 @@ kebab            noun  g=m
 kéfir            noun  g=m pl=kéfires conf=90
 kendo            noun  g=m
 keniano          noun  g=m f=keniana
-kernel           noun  g=m foreign
+kernel           noun  g=m pl=kernels foreign
 kétchup          noun  g=m var=ketchup
 keynesianismo    noun  g=m
 kibutz           noun  g=m inv conf=85 note=plural los kibutz

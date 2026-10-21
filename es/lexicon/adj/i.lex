@@ -171,7 +171,6 @@ incitante        adj
 inclemente       adj
 incluido         adj
 inclusivo        adj
-incluyente       adj
 incobrable       adj
 incoherente      adj adv=incoherentemente
 incoloro         adj
@@ -595,7 +594,7 @@ introvertido     adj
 intrusivo        adj
 intruso          adj
 intuitivo        adj   adv=intuitivamente
-inuit            adj   inv note=los pueblos inuit
+inuit            adj   pl=inuits note=same form in both genders; plural inuits
 inundable        adj
 inusitado        adj adv=inusitadamente
 inusual          adj   adv=inusualmente
@@ -603,7 +602,6 @@ inútil           adj   adv=inútilmente
 inutilizable     adj
 invalidante      adj
 inválido         adj
-invaluable       adj
 invariable       adj   adv=invariablemente
 invariante       adj
 invasivo         adj

@@ -323,7 +323,7 @@ inflamabilidad   noun  g=f
 inflamación      noun  g=f
 inflexión        noun  g=f
 inflorescencia   noun  g=f
-influencer       noun  g=m|f foreign
+influencer       noun  g=m|f pl=influencers foreign
 influencia       noun  g=f
 influenza        noun  g=f
 influjo          noun  g=m
@@ -457,7 +457,6 @@ instigación      noun  g=f
 instigador       noun  g=m f=instigadora
 instinto         noun  g=m
 institución      noun  g=f
-institucionalidad noun  g=f
 institucionalización noun  g=f
 instituto        noun  g=m
 institutriz      noun  g=f
@@ -605,7 +604,7 @@ intrusión        noun  g=f
 intrusismo       noun  g=m
 intruso          noun  g=m f=intrusa
 intuición        noun  g=f
-inuit            noun  g=m|f inv
+inuit            noun  g=m|f pl=inuits
 inundabilidad    noun  g=f conf=85
 inundación       noun  g=f
 inutilidad       noun  g=f

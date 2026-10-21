@@ -73,7 +73,6 @@ decisor          noun  g=m f=decisora
 declamación      noun  g=f
 declaración      noun  g=f
 declarante       noun  g=m|f
-declaratoria     noun  g=f note=declaratoria de herederos
 declinación      noun  g=f
 declinatoria     noun  g=f
 declive          noun  g=m

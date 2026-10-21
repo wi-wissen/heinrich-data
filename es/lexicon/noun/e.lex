@@ -984,7 +984,7 @@ estancamiento    noun  g=m
 estancia         noun  g=f
 estanciero       noun  g=m f=estanciera
 estanco          noun  g=m
-estand           noun  g=m note=adapted spelling of stand (exhibition booth); plural estands
+estand           noun  g=m pl=estands note=adapted spelling of stand (exhibition booth)
 estándar         noun  g=m pl=estándares
 estandarización  noun  g=f
 estandarte       noun  g=m
