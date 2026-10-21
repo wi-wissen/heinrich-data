@@ -29,9 +29,11 @@ magmático    adj
 magnánimo    adj
 magnético    adj   adv=magnéticamente
 magnífico    adj   adv=magníficamente
+magno        adj
 magrebí      adj   pl=magrebíes|magrebís[var]
 magro        adj
 mahometano   adj
+mainstream   adj   inv foreign
 majadero     adj
 majareta     adj   style=colloquial alt=loco
 majestuoso   adj   adv=majestuosamente
@@ -360,7 +362,7 @@ monjil       adj
 monobloque   adj   inv
 monocilíndrico adj
 monoclonal   adj
-monocolor    adj
+monocolor    adj   f=monocolor note=invariable in gender, like multicolor
 monocromático adj
 monocromo    adj
 monofilético adj
@@ -369,7 +371,7 @@ monográfico  adj
 monolingüe   adj
 monolítico   adj
 monomarca    adj   inv
-monomotor    adj
+monomotor    adj   f=monomotor note=una avioneta monomotor
 monoparental adj
 monoplaza    adj
 monopolístico adj
@@ -378,6 +380,7 @@ monoteísta   adj
 monotípico   adj
 monótono     adj
 monstruoso   adj
+montano      adj
 montañero    adj
 montañés     adj
 montañoso    adj
@@ -477,7 +480,7 @@ multirreincidente adj
 multisectorial adj
 multitarea   adj   inv
 multitudinario adj
-multiuso     adj
+multiuso     adj   f=multiuso note=invariable in gender; plural multiusos
 multiusos    adj   inv
 multiusuario adj   inv
 multivariable adj

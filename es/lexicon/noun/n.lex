@@ -231,7 +231,7 @@ nevado       noun  g=m
 nevera       noun  g=f
 nevero       noun  g=m
 nevisca      noun  g=f
-newton       noun  g=m note=unit of force
+newton       noun  g=m pl=newtons note=unit of force
 nexo         noun  g=m
 niacina      noun  g=f
 nicho        noun  g=m

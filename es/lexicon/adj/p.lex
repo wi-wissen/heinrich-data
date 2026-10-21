@@ -141,7 +141,7 @@ payés        adj   f=payesa
 peatonal     adj
 pecador      adj
 pecaminoso   adj
-peciolado    adj   var=pecíolado conf=70 note=botany; check accent of the variant
+peciolado    adj
 pecoso       adj
 pectoral     adj
 pecuario     adj

@@ -9,6 +9,7 @@ paciente     noun  g=m|f
 pacificación noun  g=f
 pacifismo    noun  g=m
 pacifista    noun  g=m|f
+pack         noun  g=m foreign pl=packs
 pacotilla    noun  g=f
 pacto        noun  g=m
 padecimiento noun  g=m
@@ -46,6 +47,7 @@ pajarería    noun  g=f
 pajarero     noun  g=m
 pajarillo    noun  g=m
 pajarita     noun  g=f
+pajarito     noun  g=m
 pájaro       noun  g=m
 pajarraco    noun  g=m
 paje         noun  g=m
@@ -608,6 +610,7 @@ perfidia     noun  g=f
 perfil       noun  g=m
 perforación  noun  g=f
 perforadora  noun  g=f
+performance  noun  g=f foreign pl=performances
 perfume      noun  g=m
 perfumería   noun  g=f
 perfumista   noun  g=m|f
@@ -900,7 +903,7 @@ pistoletazo  noun  g=m
 pistolete    noun  g=m
 pistón       noun  g=m
 pitada       noun  g=f
-pitcher      noun  g=m|f foreign
+pitcher      noun  g=m|f foreign pl=pitchers
 pitido       noun  g=m
 pitillera    noun  g=f
 pitillo      noun  g=m
@@ -982,6 +985,7 @@ plató        noun  g=m
 platonismo   noun  g=m
 plausibilidad noun  g=f
 playa        noun  g=f
+playoff      noun  g=m foreign pl=playoffs var=play-off
 plaza        noun  g=f
 plazo        noun  g=m
 plazoleta    noun  g=f
@@ -1023,7 +1027,7 @@ pluriactividad noun  g=f
 pluriempleo  noun  g=m
 plurilingüismo noun  g=m
 plurinacionalidad noun  g=f
-plus         noun  g=m inv note=el plus, los plus
+plus         noun  g=m
 pluscuamperfecto noun  g=m
 plusmarca    noun  g=f
 plusmarquista noun  g=m|f
@@ -1245,6 +1249,7 @@ pospandemia  noun  g=f
 posparto     noun  g=m var=postparto
 posposición  noun  g=f
 posproducción noun  g=f var=postproducción
+post         noun  g=m foreign pl=posts
 posta        noun  g=f
 postal       noun  g=f note=la postal: postcard
 postdoctorado noun  g=m var=posdoctorado

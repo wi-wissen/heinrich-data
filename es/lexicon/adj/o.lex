@@ -53,6 +53,7 @@ ocurrente    adj
 odioso       adj
 odontológico adj
 ofensivo     adj   adv=ofensivamente
+offshore     adj   inv foreign
 oficial      adj   adv=oficialmente
 oficialista  adj
 oficinal     adj
@@ -98,6 +99,7 @@ ondulante    adj
 ondulatorio  adj
 oneroso      adj
 onírico      adj
+online       adj   inv foreign
 onomástico   adj
 onomatopéyico adj
 ontológico   adj   adv=ontológicamente

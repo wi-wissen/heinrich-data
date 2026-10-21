@@ -196,6 +196,7 @@ opa          noun  g=f note=oferta pública de adquisición, written as a common
 opacidad     noun  g=f
 ópalo        noun  g=m
 opción       noun  g=f
+open         noun  g=m foreign pl=opens note=sports tournament
 ópera        noun  g=f
 operación    noun  g=f
 operador     noun  g=m f=operadora

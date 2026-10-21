@@ -179,6 +179,7 @@ multiplicar  verb
 mundializar  verb
 murmurar     verb
 musicalizar  verb
+musicar      verb
 musitar      verb
 mutar        verb
 mutilar      verb

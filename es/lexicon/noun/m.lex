@@ -54,6 +54,7 @@ maestro      noun  g=m f=maestra
 mafia        noun  g=f
 mafioso      noun  g=m f=mafiosa
 magacín      noun  g=m var=magazín
+magazine     noun  g=m foreign pl=magazines
 magdalena    noun  g=f
 magenta      noun  g=m
 magia        noun  g=f
@@ -85,6 +86,7 @@ maharajá     noun  g=m f=maharaní fpl=maharaníes|maharanís[var]
 maicena      noun  g=f
 mail         noun  g=m foreign conf=80 note=English loan, also email
 maillot      noun  g=m foreign
+mainstream   noun  g=m foreign
 maíz         noun  g=m
 majadería    noun  g=f
 majadero     noun  g=m f=majadera
@@ -123,6 +125,7 @@ malla        noun  g=f
 mallorquín   noun  g=m f=mallorquina
 malnutrición noun  g=f
 malquerencia noun  g=f
+malta        noun  g=f
 maltratador  noun  g=m f=maltratadora
 maltrato     noun  g=m
 malva        noun  g=f
@@ -184,6 +187,7 @@ manejador    noun  g=m
 manejo       noun  g=m
 manera       noun  g=f
 manga        noun  g=f
+mangaka      noun  g=m|f foreign
 manganeso    noun  g=m
 mangante     noun  g=m|f style=colloquial alt=ladrón
 manglar      noun  g=m
@@ -320,7 +324,7 @@ mariconada   noun  g=f style=vulgar alt=tontería
 maridaje     noun  g=m
 marido       noun  g=m
 marihuana    noun  g=f var=mariguana
-marimacho    noun  g=m style=offensive alt=mujer_masculina
+marimacho    noun  g=m|f style=offensive alt=mujer_masculina
 marimba      noun  g=f
 marina       noun  g=f
 marinada     noun  g=f
@@ -409,6 +413,7 @@ matarratas   noun  g=m
 matasanos    noun  g=m|f style=colloquial alt=médico
 matasellos   noun  g=m
 matasuegras  noun  g=m
+match        noun  g=m foreign pl=matches conf=80
 mate         noun  g=m
 matemática   noun  g=f note=usually plural: las matemáticas
 matemático   noun  g=m f=matemática
@@ -604,7 +609,7 @@ mente        noun  g=f
 mentidero    noun  g=m
 mentira      noun  g=f
 mentiroso    noun  g=m f=mentirosa
-mentís       noun  g=m pl=mentís
+mentís       noun  g=m
 mentón       noun  g=m
 mentor       noun  g=m f=mentora
 menú         noun  g=m pl=menús
@@ -626,6 +631,7 @@ mercantilización noun  g=f
 merced       noun  g=f
 mercenario   noun  g=m f=mercenaria
 mercería     noun  g=f
+merchandising noun  g=m foreign
 mercurio     noun  g=m
 merecido     noun  g=m
 merecimiento noun  g=m
@@ -733,6 +739,7 @@ mico         noun  g=m
 micólogo     noun  g=m f=micóloga
 micosis      noun  g=f
 micra        noun  g=f
+micro        noun  g=m note=short for micrófono
 microbio     noun  g=m
 microbiología noun  g=f
 microbiólogo noun  g=m f=microbióloga
@@ -896,6 +903,7 @@ mitomanía    noun  g=f
 mitómano     noun  g=m f=mitómana
 mitosis      noun  g=f
 mitra        noun  g=f
+mix          noun  g=m foreign pl=mixes conf=80
 mixtape      noun  g=f foreign conf=70
 mixtura      noun  g=f
 mnemotecnia  noun  g=f

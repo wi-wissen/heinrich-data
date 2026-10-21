@@ -176,6 +176,7 @@ precalentar  verb  class=ie
 precarizar   verb
 preceder     verb
 preceptuar   verb
+preciar      verb  class=diphthong pronominal note=preciarse de
 precintar    verb
 precipitar   verb
 precisar     verb
