@@ -6,3 +6,4 @@ chao         intj style=colloquial alt=adiós
 chapó        intj
 chinchín     intj
 chitón       intj
+coño         intj style=vulgar alt=caramba|vaya

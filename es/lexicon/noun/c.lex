@@ -585,97 +585,222 @@ clon         noun g=m
 cloro        noun g=m
 cloruro      noun g=m
 club         noun g=m pl=clubes|clubs[var]
+cnidario     noun g=m
 coacción     noun g=f
+coadjutor    noun g=m f=coadjutora
+coagulación  noun g=f
+coágulo      noun g=m
 coalición    noun g=f
 coartada     noun g=f
+coaseguro    noun g=m
 coautor      noun g=m f=coautora
+coautoría    noun g=f
+cobalto      noun g=m
 cobardía     noun g=f
+cobaya       noun g=amb
+cobertizo    noun g=m
+cobertor     noun g=m
 cobertura    noun g=f
 cobijo       noun g=m
+cobra        noun g=f
+cobrador     noun g=m f=cobradora
+cobranza     noun g=f
 cobre        noun g=m
 cobro        noun g=m
 coca         noun g=f
 cocaína      noun g=f
 cocción      noun g=f
+cochambre    noun g=amb
 coche        noun g=m
+cochecito    noun g=m
+cochera      noun g=f
 cochero      noun g=m
+cochinada    noun g=f
+cochinilla   noun g=f
+cochinillo   noun g=m
 cocido       noun g=m
 cociente     noun g=m
+cocimiento   noun g=m
 cocina       noun g=f
 cocinero     noun g=m f=cocinera
+cocinilla    noun g=f
+cocinitas    noun g=f pl_only note=jugar a las cocinitas
 coco         noun g=m
 cocodrilo    noun g=m
+cocotero     noun g=m
 cóctel       noun g=m var=coctel
+coctelera    noun g=f
+coda         noun g=f
+codazo       noun g=m
+códec        noun g=m
+codecisión   noun g=f
+codependencia noun g=f
 códice       noun g=m
 codicia      noun g=f
+codicilo     noun g=m
 codificación noun g=f
+codificador  noun g=m
 código       noun g=m
+codirector   noun g=m f=codirectora
 codo         noun g=m
+codorniz     noun g=f
+coedición    noun g=f
+coeducación  noun g=f
 coeficiente  noun g=m
+coenzima     noun g=f
+coerción     noun g=f
+coevolución  noun g=f
 coexistencia noun g=f
+cofactor     noun g=m
+cofia        noun g=f
 cofinanciación noun g=f
+cofrade      noun g=m|f
 cofradía     noun g=f
 cofre        noun g=m
 cofundador   noun g=m f=cofundadora
 cogeneración noun g=f
+cogestión    noun g=f
+cogida       noun g=f
+cognado      noun g=m
+cognición    noun g=f
 cogobernanza noun g=f
+cogobierno   noun g=m
+cogollo      noun g=m
+cogorza      noun g=f style=colloquial alt=borrachera
+cogote       noun g=m
+coguionista  noun g=m|f
+cohabitación noun g=f
 cohecho      noun g=m
+coheredero   noun g=m f=coheredera
 coherencia   noun g=f
 cohesión     noun g=f
 cohete       noun g=m
+cohorte      noun g=f
 coincidencia noun g=f
 coincineración noun g=f
+coinversión  noun g=f
+coito        noun g=m
+cojera       noun g=f
+cojín        noun g=m
+cojinete     noun g=m
+cojo         noun g=m f=coja
+cojón        noun g=m style=vulgar alt=testículo
 col          noun g=f
 cola         noun g=f
 colaboración noun g=f
+colaboracionismo noun g=m
 colaborador  noun g=m f=colaboradora
 colación     noun g=f
+colada       noun g=f
+coladero     noun g=m
+colador      noun g=m
+colágeno     noun g=m
 colapso      noun g=m
+colcha       noun g=f
 colchón      noun g=m
+colchonería  noun g=f
+colchoneta   noun g=f
+cole         noun g=m style=colloquial alt=colegio
 colección    noun g=f
+coleccionismo noun g=m
 coleccionista noun g=m|f
+colecta      noun g=f
 colectividad noun g=f
+colectivismo noun g=m
+colectivización noun g=f
 colectivo    noun g=m
 colector     noun g=m
 colega       noun g=m|f
 colegiación  noun g=f
 colegiado    noun g=m f=colegiada
+colegial     noun g=m f=colegiala
+colegialidad noun g=f
+colegiata    noun g=f
 colegio      noun g=m
 coleóptero   noun g=m
 cólera       noun g=m sense=disease
 cólera       noun g=f sense=anger
+colesterol   noun g=m
+coleta       noun g=f
+coletazo     noun g=m
+coletilla    noun g=f
+colgador     noun g=m
+colgadura    noun g=f
+colgajo      noun g=m
 colgante     noun g=m
+colibrí      noun g=m pl=colibríes|colibrís[var]
+cólico       noun g=m
+coliflor     noun g=f
+colilla      noun g=f
 colina       noun g=f
+colirio      noun g=m
+coliseo      noun g=m
 colisión     noun g=f
+colisionador noun g=m
+colista      noun g=m|f
+colitis      noun g=f
+collado      noun g=m
+collage      noun g=m
 collar       noun g=m
+collera      noun g=f
+colmado      noun g=m
 colmena      noun g=f
+colmenar     noun g=m
 colmillo     noun g=m
 colmo        noun g=m
 colocación   noun g=f
+colocón      noun g=m style=colloquial alt=borrachera|euforia
+colofón      noun g=m
+colon        noun g=m
 colonia      noun g=f
 colonialismo noun g=m
 colonización noun g=f
 colonizador  noun g=m f=colonizadora
 colono       noun g=m f=colona
+colonoscopia noun g=f
+coloquialismo noun g=m
+coloquio     noun g=m
 color        noun g=m
 coloración   noun g=f
 colorante    noun g=m
+coloratura   noun g=f
+colorete     noun g=m
 colorido     noun g=m
+colorín      noun g=m
+coloso       noun g=m
 columna      noun g=f
+columnata    noun g=f
 columnista   noun g=m|f
+columpio     noun g=m
+colusión     noun g=f
+colza        noun g=f
 coma         noun g=m sense=medical
 coma         noun g=f sense=punctuation
+comadre      noun g=f
+comadreja    noun g=f
+comadrona    noun g=f
 comandancia  noun g=f
 comandante   noun g=m|f
+comandita    noun g=f
 comando      noun g=m
 comarca      noun g=f
+comba        noun g=f
 combate      noun g=m
 combatiente  noun g=m|f
+combatividad noun g=f
 combinación  noun g=f
+combinado    noun g=m
+combinatoria noun g=f
+combo        noun g=m
+comburente   noun g=m
 combustible  noun g=m
 combustión   noun g=f
+comecocos    noun g=m style=colloquial alt=preocupación|obsesión
+comedero     noun g=m
 comedia      noun g=f
 comediante   noun g=m|f note=comedianta is also used
+comedimiento noun g=m
+comediógrafo noun g=m f=comediógrafa
 comedor      noun g=m
 comendador   noun g=m
 comensal     noun g=m|f
@@ -688,30 +813,57 @@ comercio     noun g=m
 comestible   noun g=m
 cometa       noun g=m sense=comet
 cometa       noun g=f sense=kite
+cometido     noun g=m
+comezón      noun g=f
 cómic        noun g=m
+comicidad    noun g=f
 comicios     noun g=m pl_only
 comida       noun g=f
+comidilla    noun g=f
 comienzo     noun g=m
 comilla      noun g=f
+comilona     noun g=f
+comino       noun g=m
 comisaría    noun g=f
+comisariado  noun g=m
 comisario    noun g=m f=comisaria
 comisión     noun g=f
 comisionado  noun g=m f=comisionada
 comisionista noun g=m|f
+comiso       noun g=m
+comisura     noun g=f
 comité       noun g=m
+comitente    noun g=m|f
 comitiva     noun g=f
+cómoda       noun g=f
+comodato     noun g=m
 comodidad    noun g=f
+comodín      noun g=m
+comodoro     noun g=m
+comorbilidad noun g=f
+compactación noun g=f
+compadre     noun g=m
+compaginación noun g=f
+compañerismo noun g=m
 compañero    noun g=m f=compañera
 compañía     noun g=f
+comparabilidad noun g=f
 comparación  noun g=f
+comparador   noun g=m
 comparecencia noun g=f
 compareciente noun g=m|f
+comparsa     noun g=f
+compartición noun g=f
+compartimentación noun g=f
 compartimento noun g=m
+compartimiento noun g=m
 compás       noun g=m
 compasión    noun g=f
 compatibilidad noun g=f
+compatibilización noun g=f
 compatriota  noun g=m|f
 compendio    noun g=m
+compenetración noun g=f
 compensación noun g=f
 competencia  noun g=f
 competición  noun g=f
@@ -719,92 +871,155 @@ competidor   noun g=m f=competidora
 competitividad noun g=f
 compilación  noun g=f
 compilador   noun g=m
+compinche    noun g=m|f
 complacencia noun g=f
 complejidad  noun g=f
 complejo     noun g=m
+complementación noun g=f
 complementariedad noun g=f
 complemento  noun g=m
+completitud  noun g=f
+complexión   noun g=f
 complicación noun g=f
 cómplice     noun g=m|f
 complicidad  noun g=f
 complot      noun g=m pl=complots
+componenda   noun g=f
 componente   noun g=m
 comportamiento noun g=m
 composición  noun g=f
 compositor   noun g=m f=compositora
+compost      noun g=m
+compostaje   noun g=m
+compostura   noun g=f
+compota      noun g=f
+compotera    noun g=f
 compra       noun g=f
 comprador    noun g=m f=compradora
 compraventa  noun g=f
 comprensión  noun g=f
+compresa     noun g=f
+compresibilidad noun g=f
 compresión   noun g=f
 compresor    noun g=m
 comprimido   noun g=m
 comprobación noun g=f
+comprobador  noun g=m
+comprobante  noun g=m
+compromisario noun g=m f=compromisaria
 compromiso   noun g=m
+compuerta    noun g=f
 compuesto    noun g=m
+compulsa     noun g=f
+compulsión   noun g=f
+compunción   noun g=f
 computación  noun g=f
 cómputo      noun g=m
+comulgante   noun g=m|f
 comuna       noun g=f
 comunero     noun g=m f=comunera
 comunicación noun g=f
 comunicado   noun g=m
+comunicador  noun g=m f=comunicadora
 comunidad    noun g=f
 comunión     noun g=f
 comunismo    noun g=m
 comunista    noun g=m|f
 conato       noun g=m
+concatedral  noun g=f
+concatenación noun g=f
+concavidad   noun g=f
 concedente   noun g=m|f
 concejal     noun g=m f=concejala
+concejalía   noun g=f
 concejo      noun g=m
 concentración noun g=f
+concentrado  noun g=m
 concepción   noun g=f
+conceptismo  noun g=m
 concepto     noun g=m
+conceptualización noun g=f
 concertación noun g=f
+concertina   noun g=f
+concertino   noun g=m
+concertista  noun g=m|f
 concesión    noun g=f
 concesionario noun g=m f=concesionaria
 concha       noun g=f
 conciencia   noun g=f
 concienciación noun g=f
 concierto    noun g=m
+conciliábulo noun g=m
 conciliación noun g=f
 concilio     noun g=m
+concisión    noun g=f
 conciudadano noun g=m f=conciudadana
+cónclave     noun g=m
 conclusión   noun g=f
+concomitancia noun g=f
 concordancia noun g=f
+concordato   noun g=m
 concordia    noun g=f
 concreción   noun g=f
 concubina    noun g=f
+concubinato  noun g=m
+conculcación noun g=f
+concupiscencia noun g=f
 concurrencia noun g=f
 concursado   noun g=m f=concursada
 concursante  noun g=m|f
 concurso     noun g=m
+concusión    noun g=f
 condado      noun g=m
 conde        noun g=m f=condesa
 condecoración noun g=f
 condena      noun g=f
+condenación  noun g=f
+condenado    noun g=m f=condenada
 condensación noun g=f
+condensador  noun g=m
+condesa      noun g=f
+condescendencia noun g=f
 condestable  noun g=m
 condición    noun g=f
 condicionalidad noun g=f
+condicionamiento noun g=m
 condicionante noun g=m
+cóndilo      noun g=m
 condimento   noun g=m
+condiscípulo noun g=m f=condiscípula
 condolencia  noun g=f
+condominio   noun g=m
+condón       noun g=m
 condonación  noun g=f
+cóndor       noun g=m
 conducción   noun g=f
 conducta     noun g=f
 conductividad noun g=f
 conducto     noun g=m
 conductor    noun g=m f=conductora
+condueño     noun g=m f=condueña
 conectividad noun g=f
 conector     noun g=m
+conejera     noun g=f
+conejillo    noun g=m
 conejo       noun g=m f=coneja
+conexidad    noun g=f
 conexión     noun g=f
+confabulación noun g=f
 confección   noun g=f
 confederación noun g=f
 conferencia  noun g=f
+conferenciante noun g=m|f
+conferencista noun g=m|f
 confesión    noun g=f
+confesionalidad noun g=f
+confesionario noun g=m var=confesonario
 confesor     noun g=m
+confeti      noun g=m
+confiabilidad noun g=f
 confianza    noun g=f
+confidencia  noun g=f
 confidencialidad noun g=f
 confidente   noun g=m|f
 configuración noun g=f
@@ -812,38 +1027,63 @@ confín       noun g=m
 confinamiento noun g=m
 confirmación noun g=f
 confiscación noun g=f
+confite      noun g=m
+confitería   noun g=f
+confitero    noun g=m f=confitera
+confitura    noun g=f
+conflagración noun g=f
 conflictividad noun g=f
 conflicto    noun g=m
 confluencia  noun g=f
 conformación noun g=f
 conformidad  noun g=f
+conformismo  noun g=m
 confort      noun g=m pl=conforts
+confraternidad noun g=f
 confrontación noun g=f
+confucianismo noun g=m
 confusión    noun g=f
+conga        noun g=f
 congelación  noun g=f
+congelador   noun g=m
+congelamiento noun g=m
+congénere    noun g=m|f
 congestión   noun g=f
 conglomerado noun g=m
+congoja      noun g=f
 congregación noun g=f
 congresista  noun g=m|f
 congreso     noun g=m
+congrio      noun g=m
 congruencia  noun g=f
 conífera     noun g=f
 conjetura    noun g=f
+conjugación  noun g=f
 conjunción   noun g=f
+conjuntivitis noun g=f
 conjunto     noun g=m
+conjura      noun g=f
+conjuración  noun g=f
+conjurado    noun g=m f=conjurada
+conjuro      noun g=m
 conmemoración noun g=f
+conmiseración noun g=f
 conmoción    noun g=f
 conmutación  noun g=f
+conmutador   noun g=m
+connacional  noun g=m|f
 connivencia  noun g=f
 connotación  noun g=f
 cono         noun g=m
 conocedor    noun g=m f=conocedora
+conocido     noun g=m f=conocida
 conocimiento noun g=m
 conquista    noun g=f
 conquistador noun g=m f=conquistadora
 consagración noun g=f
 consanguinidad noun g=f
 consciencia  noun g=f
+conscripción noun g=f
 consecución  noun g=f
 consecuencia noun g=f
 consejería   noun g=f
@@ -851,17 +1091,27 @@ consejero    noun g=m f=consejera
 consejo      noun g=m
 consenso     noun g=m
 consentimiento noun g=m
+conserje     noun g=m|f
+conserjería  noun g=f
+conserva     noun g=f
 conservación noun g=f
 conservador  noun g=m f=conservadora
 conservadurismo noun g=m
+conservante  noun g=m
+conservatismo noun g=m
 conservatorio noun g=m
 consideración noun g=f
+considerando noun g=m
 consigna     noun g=f
 consignación noun g=f
+consignatario noun g=m f=consignataria
+consiliario  noun g=m f=consiliaria
 consistencia noun g=f
 consistorio  noun g=m
 consola      noun g=f
+consolación  noun g=f
 consolidación noun g=f
+consomé      noun g=m
 consonancia  noun g=f
 consonante   noun g=f
 consorcio    noun g=m
@@ -872,12 +1122,18 @@ constancia   noun g=f
 constatación noun g=f
 constelación noun g=f
 consternación noun g=f
+constipado   noun g=m
 constitución noun g=f
 constitucionalidad noun g=f
 constitucionalismo noun g=m
 constitucionalista noun g=m|f
+constreñimiento noun g=m
+constricción noun g=f
 construcción noun g=f
+constructivismo noun g=m
+constructo   noun g=m
 constructor  noun g=m f=constructora
+consuegro    noun g=m f=consuegra
 consuelo     noun g=m
 cónsul       noun g=m|f
 consulado    noun g=m
@@ -885,62 +1141,138 @@ consulta     noun g=f
 consultor    noun g=m f=consultora
 consultoría  noun g=f
 consultorio  noun g=m
+consumación  noun g=f
+consumible   noun g=m
 consumidor   noun g=m f=consumidora
+consumismo   noun g=m
 consumo      noun g=m
+consunción   noun g=f
 contabilidad noun g=f
 contabilización noun g=f
 contable     noun g=m|f
 contacto     noun g=m
 contador     noun g=m
+contaduría   noun g=f
 contagio     noun g=m
+contagiosidad noun g=f
 contaminación noun g=f
 contaminante noun g=m
 contemplación noun g=f
+contemporaneidad noun g=f
 contención   noun g=f
 contendiente noun g=m|f
 contenedor   noun g=m
 contenido    noun g=m
+contentamiento noun g=m
+contento     noun g=m
 conteo       noun g=m
+contertulio  noun g=m f=contertulia
 contestación noun g=f
+contestador  noun g=m
 contexto     noun g=m
+contextura   noun g=f
 contienda    noun g=f
+contigüidad  noun g=f
+continencia  noun g=f
 continente   noun g=m
 contingencia noun g=f
 contingente  noun g=m
 continuación noun g=f
+continuador  noun g=m f=continuadora
 continuidad  noun g=f
+continuismo  noun g=m
+contoneo     noun g=m
 contorno     noun g=m
+contorsión   noun g=f
+contorsionista noun g=m|f
+contra       noun g=f
 contraataque noun g=m
+contrabajista noun g=m|f
 contrabajo   noun g=m
+contrabandista noun g=m|f
 contrabando  noun g=m
 contracción  noun g=f
+contracepción noun g=f
+contrachapado noun g=m
+contracorriente noun g=f
+contractura  noun g=f
+contracultura noun g=f
+contradanza  noun g=f
+contrademanda noun g=f
 contradicción noun g=f
+contraejemplo noun g=m
+contraespionaje noun g=m
+contrafagot  noun g=m
+contrafuego  noun g=m
 contrafuerte noun g=m
+contragolpe  noun g=m
+contraindicación noun g=f
+contrainsurgencia noun g=f
+contrainteligencia noun g=f
+contralmirante noun g=m|f var=contraalmirante
+contralto    noun g=m|f
+contraluz    noun g=amb
+contramaestre noun g=m
+contramano   noun g=m
+contramarcha noun g=f
+contramedida noun g=f
+contraofensiva noun g=f
+contraoferta noun g=f
+contraorden  noun g=f
 contraparte  noun g=f
 contrapartida noun g=f
+contrapelo   noun g=m
 contrapeso   noun g=m
+contrapié    noun g=m
+contrapoder  noun g=m
+contraportada noun g=f
 contraposición noun g=f
 contraprestación noun g=f
+contraprogramación noun g=f
+contrapropuesta noun g=f
 contrapunto  noun g=m
+contrariedad noun g=f
+contrario    noun g=m f=contraria
 contrarreforma noun g=f
 contrarreloj noun g=f
+contrarréplica noun g=f
+contrarrevolución noun g=f
+contrasentido noun g=m
 contraseña   noun g=f
+contrastación noun g=f
 contraste    noun g=m
 contratación noun g=f
 contratante  noun g=m|f
+contratenor  noun g=m
+contraterrorismo noun g=m
 contratiempo noun g=m
 contratista  noun g=m|f
 contrato     noun g=m
+contravalor  noun g=m
+contravención noun g=f
+contraventana noun g=f
+contraviento noun g=m
 contrayente  noun g=m|f
 contribución noun g=f
 contribuyente noun g=m|f
+contrición   noun g=f
+contrincante noun g=m|f
 control      noun g=m
 controlador  noun g=m f=controladora
 controversia noun g=f
+contubernio  noun g=m
 contundencia noun g=f
+contusión    noun g=f
+conurbación  noun g=f
+convalecencia noun g=f
+convaleciente noun g=m|f
 convalidación noun g=f
+convección   noun g=f
+convecino    noun g=m f=convecina
 convencimiento noun g=m
 convención   noun g=f
+convencionalidad noun g=f
+convencionalismo noun g=m
 conveniencia noun g=f
 convenio     noun g=m
 convento     noun g=m
@@ -948,209 +1280,541 @@ convergencia noun g=f
 conversación noun g=f
 conversión   noun g=f
 converso     noun g=m f=conversa
+conversor    noun g=m
+convertibilidad noun g=f
+convertidor  noun g=m
+convexidad   noun g=f
 convicción   noun g=f
+convidado    noun g=m f=convidada
+convite      noun g=m
 convivencia  noun g=f
+conviviente  noun g=m|f
 convocatoria noun g=f
 convoy       noun g=m pl=convoyes
 convulsión   noun g=f
 cónyuge      noun g=m|f
+coñac        noun g=m pl=coñacs
+coñazo       noun g=m style=vulgar alt=pesadez|lata
+coño         noun g=m style=vulgar alt=vulva
+cooficialidad noun g=f
 cooperación  noun g=f
+cooperador   noun g=m f=cooperadora
 cooperante   noun g=m|f
 cooperativa  noun g=f
+cooperativismo noun g=m
+cooptación   noun g=f
 coordenada   noun g=f
 coordinación noun g=f
 coordinador  noun g=m f=coordinadora
+coordinadora noun g=f
 copa         noun g=f
 copago       noun g=m
+copartícipe  noun g=m|f
+copépodo     noun g=m
+copero       noun g=m
+copete       noun g=m
 copia        noun g=f
+copiador     noun g=m
+copiadora    noun g=f
 copiloto     noun g=m|f
+copista      noun g=m|f
+copistería   noun g=f
 copla        noun g=f
+copo         noun g=m
+copolímero   noun g=m
+copón        noun g=m
+copra        noun g=f
+copresidente noun g=m f=copresidenta
 coproducción noun g=f
+coproductor  noun g=m f=coproductora
+copropiedad  noun g=f
+copropietario noun g=m f=copropietaria
+coprotagonista noun g=m|f
+cópula       noun g=f
+coque        noun g=m
+coquetería   noun g=f
 coraje       noun g=m
 coral        noun g=m sense=reef
 coral        noun g=f sense=choir
+coraza       noun g=f
 corazón      noun g=m
+corazonada   noun g=f
 corbata      noun g=f
+corbatín     noun g=m
 corbeta      noun g=f
+corcel       noun g=m
+corchea      noun g=f
+corchete     noun g=m
 corcho       noun g=m
+corcova      noun g=f
+cordada      noun g=f
+cordaje      noun g=m
+cordel       noun g=m
 cordero      noun g=m f=cordera
 cordialidad  noun g=f
 cordillera   noun g=f
 cordón       noun g=m
+cordoncillo  noun g=m
 cordura      noun g=f
 coreano      noun g=m f=coreana
 coreografía  noun g=f
 coreógrafo   noun g=m f=coreógrafa
+corimbo      noun g=m
 corista      noun g=m|f
+cormorán     noun g=m
+cornada      noun g=f
+cornamenta   noun g=f
+cornamusa    noun g=f
+córnea       noun g=f
+corneja      noun g=f
+córner       noun g=m pl=córneres|córners[var]
+corneta      noun g=f
+cornete      noun g=m
+cornezuelo   noun g=m
 cornisa      noun g=f
+cornisamento noun g=m
 corno        noun g=m
+cornucopia   noun g=f
 coro         noun g=m
 corola       noun g=f
+corolario    noun g=m
 corona       noun g=f
 coronación   noun g=f
+coronamiento noun g=m
 coronavirus  noun g=m
 coronel      noun g=m|f
+coronilla    noun g=f
+corpachón    noun g=m
+corpiño      noun g=m
 corporación  noun g=f
+corporativismo noun g=m
+corporeidad  noun g=f
+corpulencia  noun g=f
 corpus       noun g=m
+corpúsculo   noun g=m
 corral       noun g=m
+corrala      noun g=f
+corralito    noun g=m
 correa       noun g=f
+correaje     noun g=m
+correazo     noun g=m
+correcaminos noun g=m
 corrección   noun g=f
+correccional noun g=m
+correctivo   noun g=m
 corrector    noun g=m f=correctora
 correctora   noun g=f
+corredera    noun g=f
 corredor     noun g=m f=corredora
+correduría   noun g=f
 corregidor   noun g=m
 corregimiento noun g=m
 correlación  noun g=f
+correlato    noun g=m
+correligionario noun g=m f=correligionaria
 correo       noun g=m
 correspondencia noun g=f
 corresponsabilidad noun g=f
 corresponsal noun g=m|f
+corresponsalía noun g=f
+corretaje    noun g=m
+correveidile noun g=m|f
+corrida      noun g=f
 corriente    noun g=f
+corrillo     noun g=m
+corrimiento  noun g=m
+corro        noun g=m
+corroboración noun g=f
 corrosión    noun g=f
 corrupción   noun g=f
+corruptela   noun g=f
 corsario     noun g=m
+corsé        noun g=m
+cortacésped  noun g=m
+cortacircuitos noun g=m
+cortado      noun g=m
+cortador     noun g=m f=cortadora
+cortadura    noun g=f
+cortafríos   noun g=m
+cortafuegos  noun g=m
+cortapisa    noun g=f
+cortaplumas  noun g=m
+cortaúñas    noun g=m
 corte        noun g=m sense=cut
 corte        noun g=f sense=court
+cortedad     noun g=f
 cortejo      noun g=m
+cortesana    noun g=f
 cortesano    noun g=m f=cortesana
 cortesía     noun g=f
+córtex       noun g=m
 corteza      noun g=f
+corticoide   noun g=m
+corticosteroide noun g=m
 cortijo      noun g=m
 cortina      noun g=f
+cortinaje    noun g=m
+cortinilla   noun g=f
+cortisol     noun g=m
+cortisona    noun g=f
+cortocircuito noun g=m
 cortometraje noun g=m
+cortometrajista noun g=m|f
+cortoplacismo noun g=m
+corva        noun g=f
+corvina      noun g=f
+corzo        noun g=m f=corza
 cosa         noun g=f
 cosaco       noun g=m
+coscorrón    noun g=m
 cosecha      noun g=f
+cosechadora  noun g=f
+cosechero    noun g=m f=cosechera
+coseno       noun g=m
+cosido       noun g=m
+cosificación noun g=f
+cosmética    noun g=f
 cosmético    noun g=m
+cosmódromo   noun g=m
+cosmogonía   noun g=f
+cosmografía  noun g=f
+cosmógrafo   noun g=m f=cosmógrafa
+cosmología   noun g=f
+cosmonauta   noun g=m|f
+cosmonáutica noun g=f
+cosmonave    noun g=f
+cosmopolitismo noun g=m
 cosmos       noun g=m
+cosmovisión  noun g=f
+cosquillas   noun g=f pl_only
+cosquilleo   noun g=m
 costa        noun g=f
+costado      noun g=m
+costal       noun g=m
+costalada    noun g=f
+costalero    noun g=m f=costalera
 coste        noun g=m
 costilla     noun g=f
+costillar    noun g=m
 costo        noun g=m
+costra       noun g=f
 costumbre    noun g=f
+costumbrismo noun g=m
 costura      noun g=f
+costurera    noun g=f
+costurero    noun g=m f=costurera
 cota         noun g=f
+cotangente   noun g=f
 cotejo       noun g=m
+cotidianidad noun g=f
+cotiledón    noun g=m
+cotilla      noun g=m|f style=colloquial alt=chismoso
+cotilleo     noun g=m style=colloquial alt=chismorreo|chisme
+cotillón     noun g=m
+cotitular    noun g=m|f
 cotización   noun g=f
 cotizante    noun g=m|f
 coto         noun g=m
+cotorra      noun g=f
+cotutela     noun g=f
+covarianza   noun g=f
+coxis        noun g=m
+coyote       noun g=m
 coyuntura    noun g=f
+coz          noun g=f
 cráneo       noun g=m
+crápula      noun g=m|f
+craqueo      noun g=m
 cráter       noun g=m
 creación     noun g=f
+creacionismo noun g=m
 creador      noun g=m f=creadora
+creatinina   noun g=f
 creatividad  noun g=f
+crecepelo    noun g=m
+crecida      noun g=f
 crecimiento  noun g=m
 credencial   noun g=f
 credibilidad noun g=f
 crédito      noun g=m
 credo        noun g=m
+credulidad   noun g=f
 creencia     noun g=f
 crema        noun g=f
+cremación    noun g=f
+cremallera   noun g=f
+crematística noun g=f
+crematorio   noun g=m
+crepe        noun g=amb
 crepúsculo   noun g=m
+crescendo    noun g=m
+crespón      noun g=m
 cresta       noun g=f
+crestería    noun g=f
+cretino      noun g=m f=cretina
 creyente     noun g=m|f
+cría         noun g=f
+criada       noun g=f
+criadero     noun g=m
+criadilla    noun g=f
 criado       noun g=m f=criada
 criador      noun g=m f=criadora
 crianza      noun g=f
 criatura     noun g=f
+criba        noun g=f
+cribado      noun g=m
 crimen       noun g=m
 criminal     noun g=m|f
 criminalidad noun g=f
+criminalista noun g=m|f
+criminalística noun g=f
 criminalización noun g=f
+criminología noun g=f
+criminólogo  noun g=m f=criminóloga
+crin         noun g=f
+crío         noun g=m f=cría style=colloquial alt=niño
+criollo      noun g=m f=criolla
+criopreservación noun g=f
 cripta       noun g=f
+criptoactivo noun g=m
+criptoanálisis noun g=m
+criptografía noun g=f
+criptomoneda noun g=f
+críquet      noun g=m
+crisálida    noun g=f
+crisantemo   noun g=m
 crisis       noun g=f
+crisma       noun g=f sense=head note=romperse la crisma
+crisma       noun g=m sense=oil note=el santo crisma
+crisol       noun g=m
 crispación   noun g=f
 cristal      noun g=m
+cristalera   noun g=f
+cristalería  noun g=f
+cristalino   noun g=m
+cristalización noun g=f
+cristiandad  noun g=f
 cristianismo noun g=m
+cristianización noun g=f
 cristiano    noun g=m f=cristiana
+cristo       noun g=m
+cristología  noun g=f
 criterio     noun g=m
 crítica      noun g=f
+criticidad   noun g=f
 crítico      noun g=m f=crítica
 croata       noun g=m|f
+cromatina    noun g=f
+cromatismo   noun g=m
+cromatografía noun g=f
 cromo        noun g=m
 cromosoma    noun g=m
 crónica      noun g=f
+cronicidad   noun g=f
+cronificación noun g=f
 cronista     noun g=m|f
+cronoescalada noun g=f
+cronógrafo   noun g=m
+cronograma   noun g=m
 cronología   noun g=f
+cronometrador noun g=m f=cronometradora
+cronometraje noun g=m
+cronómetro   noun g=m
+croquet      noun g=m
+croqueta     noun g=f
+croquis      noun g=m
+crotal       noun g=m
+cruasán      noun g=m
+cruce        noun g=m
 crucería     noun g=f
 crucero      noun g=m
+cruceta      noun g=f
 crucifijo    noun g=m
 crucifixión  noun g=f
+crucigrama   noun g=m
 crudeza      noun g=f
+crudo        noun g=m
 crueldad     noun g=f
+crujía       noun g=f
+crujido      noun g=m
 crustáceo    noun g=m
 cruz         noun g=f
+cruzada      noun g=f
+cruzado      noun g=m
+cruzamiento  noun g=m
+cuaderna     noun g=f
+cuadernillo  noun g=m
 cuaderno     noun g=m
 cuadra       noun g=f
 cuadrado     noun g=m
+cuadrángulo  noun g=m
 cuadrante    noun g=m
+cuadratura   noun g=f
+cuádriceps   noun g=m
 cuadrícula   noun g=f
+cuadriga     noun g=f
+cuadrilátero noun g=m
 cuadrilla    noun g=f
 cuadro       noun g=m
+cuadrúpedo   noun g=m
+cuajada      noun g=f
+cuajo        noun g=m
 cualidad     noun g=f
 cualificación noun g=f
 cuantía      noun g=f
 cuantificación noun g=f
+cuantificador noun g=m
+cuantización noun g=f
+cuarcita     noun g=f
 cuarentena   noun g=f
+cuaresma     noun g=f
 cuartel      noun g=m
+cuartelillo  noun g=m
+cuarteta     noun g=f
 cuarteto     noun g=m
+cuartil      noun g=m
+cuartilla    noun g=f
 cuarto       noun g=m note=room; quarter
+cuartucho    noun g=m
 cuarzo       noun g=m
+cuásar       noun g=m
+cuatrero     noun g=m
+cuatrienio   noun g=m
 cuatrimestre noun g=m
+cuba         noun g=f
+cubalibre    noun g=m
+cubano       noun g=m f=cubana
+cubata       noun g=m style=colloquial alt=cubalibre|combinado
+cubertería   noun g=f
+cubeta       noun g=f
+cubículo     noun g=m
 cubierta     noun g=f
+cubierto     noun g=m
+cubilete     noun g=m
+cubismo      noun g=m
+cubito       noun g=m
+cúbito       noun g=m
 cubo         noun g=m
+cubrecama    noun g=m
+cubreobjetos noun g=m
+cubrición    noun g=f
+cubrimiento  noun g=m
+cucaña       noun g=f
+cucaracha    noun g=f
 cuchara      noun g=f
+cucharada    noun g=f
+cucharilla   noun g=f
+cucharón     noun g=m
+cuchicheo    noun g=m
 cuchilla     noun g=f
+cuchillada   noun g=f
+cuchillería  noun g=f
 cuchillo     noun g=m
+cuchipanda   noun g=f style=colloquial alt=juerga|fiesta
+cuchitril    noun g=m
+cuchufleta   noun g=f
+cuclillas    noun g=f pl_only note=en cuclillas
+cuclillo     noun g=m
+cuco         noun g=m
+cucurbitácea noun g=f
+cucurucho    noun g=m
 cuello       noun g=m
 cuenca       noun g=f
+cuenco       noun g=m
 cuenta       noun g=f
+cuentacuentos noun g=m|f
+cuentagotas  noun g=m
+cuentakilómetros noun g=m
+cuentarrevoluciones noun g=m
+cuentero     noun g=m f=cuentera
+cuentista    noun g=m|f
 cuento       noun g=m
 cuerda       noun g=f
 cuerno       noun g=m
 cuero        noun g=m
 cuerpo       noun g=m
 cuervo       noun g=m
+cuesco       noun g=m
+cuesta       noun g=f
 cuestión     noun g=f
 cuestionamiento noun g=m
 cuestionario noun g=m
+cuestor      noun g=m
 cueva        noun g=f
 cuidado      noun g=m
 cuidador     noun g=m f=cuidadora
+cuidadora    noun g=f
+cuita        noun g=f
 culata       noun g=f
+culatazo     noun g=m
 culebra      noun g=f
+culebrón     noun g=m
+culera       noun g=f
+culmen       noun g=m
 culminación  noun g=f
+culo         noun g=m style=vulgar alt=trasero|nalgas
 culpa        noun g=f
 culpabilidad noun g=f
 culpable     noun g=m|f
+culteranismo noun g=m
+cultismo     noun g=m
+cultivador   noun g=m f=cultivadora
 cultivo      noun g=m
 culto        noun g=m
 cultura      noun g=f
+culturismo   noun g=m
 cumbia       noun g=f
 cumbre       noun g=f
+cumpleañero  noun g=m f=cumpleañera
 cumpleaños   noun g=m
+cumplido     noun g=m
+cumplidor    noun g=m f=cumplidora
 cumplimentación noun g=f
 cumplimiento noun g=m
 cúmulo       noun g=m
 cuna         noun g=f
+cuneta       noun g=f
 cuña         noun g=f
 cuñado       noun g=m f=cuñada
+cuño         noun g=m
 cuota        noun g=f
+cupé         noun g=m
+cuplé        noun g=m
+cupletista   noun g=m|f
 cupo         noun g=m
+cupón        noun g=m
 cúpula       noun g=f
 cura         noun g=m sense=priest
 cura         noun g=f sense=cure
 curación     noun g=f
 curador      noun g=m f=curadora
+curandería   noun g=f
+curandero    noun g=m f=curandera
 curatela     noun g=f
+curato       noun g=m
+cúrcuma      noun g=f
+curda        noun g=f style=colloquial alt=borrachera
+cureña       noun g=f
 curia        noun g=f
 curiosidad   noun g=f
+currante     noun g=m|f style=colloquial alt=trabajador
 currículo    noun g=m
 currículum   noun g=m pl=currículums
+curro        noun g=m style=colloquial alt=trabajo|empleo
+curruca      noun g=f
+cursilada    noun g=f
+cursilería   noun g=f
+cursillo     noun g=m
 cursiva      noun g=f
 curso        noun g=m
+cursor       noun g=m
+curtido      noun g=m
 curva        noun g=f
 curvatura    noun g=f
 cúspide      noun g=f
 custodia     noun g=f
+custodio     noun g=m
+cúter        noun g=m
+cutícula     noun g=f
+cutis        noun g=m
+cutrez       noun g=f style=colloquial alt=mala_calidad|tacañería
