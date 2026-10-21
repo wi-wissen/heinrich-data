@@ -53,6 +53,7 @@ bayesiano    adj
 beato        adj
 beduino      adj
 beige        adj conf=85 note=plural beiges; the adapted spelling beis is invariable
+beis         adj inv note=una chaqueta beis, unos pantalones beis
 belga        adj
 belicista    adj
 bélico       adj
@@ -74,6 +75,7 @@ bentónico    adj
 beodo        adj
 berberisco   adj
 bereber      adj
+berenjena    adj inv note=colour
 berlinés     adj
 bermejo      adj
 bestial      adj adv=bestialmente
@@ -212,6 +214,7 @@ bulboso      adj
 búlgaro      adj
 bullicioso   adj
 burbujeante  adj
+burdeos      adj inv note=colour: una chaqueta burdeos
 burdo        adj adv=burdamente
 burgalés     adj
 burgués      adj

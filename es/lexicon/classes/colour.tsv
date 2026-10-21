@@ -1,0 +1,61 @@
+# Lexeme class `colour` (docs/LEXICON_FORMAT_ES.md §9 in the engine repo): colour nouns that also serve
+# as adjectives after a noun (una camisa rosa, paredes naranja). Rules: `[class=colour]`, `[class:colour=inv]`.
+# Columns: lemma[:sense]  pos  value. Values: inv (the adjective stays singular), both (singular or agreeing plural).
+# Members are the noun and, where the lexicon has one, the adjective entry.
+# Written from own knowledge of Spanish (clean-room); only lemmas of this lexicon.
+
+naranja	noun	inv
+naranja	adj	inv
+violeta	noun	inv
+violeta	adj	inv
+lila	noun	inv
+turquesa	adj	inv
+fucsia	noun	inv
+fucsia	adj	inv
+crema	noun	inv
+crema	adj	inv
+granate	noun	inv
+granate	adj	inv
+esmeralda	noun	inv
+mostaza	noun	inv
+marfil	noun	inv
+salmón	noun	inv
+caqui	noun	inv
+caqui	adj	inv
+ocre	noun	inv
+ocre	adj	inv
+burdeos	noun	inv
+burdeos	adj	inv
+limón	noun	inv
+pistacho	noun	inv
+cereza	noun	inv
+cereza	adj	inv
+chocolate	noun	inv
+chocolate	adj	inv
+berenjena	noun	inv
+berenjena	adj	inv
+vino	noun	inv
+café	noun	inv
+café	adj	inv
+champán	noun	inv
+champán	adj	inv
+magenta	noun	inv
+magenta	adj	inv
+cian	noun	inv
+cian	adj	inv
+ámbar	noun	inv
+ámbar	adj	inv
+oro	noun	inv
+plata	noun	inv
+perla	noun	inv
+teja	noun	inv
+hueso	noun	inv
+butano	noun	inv
+lavanda	noun	inv
+rosa	noun	both
+rosa	adj	both
+malva	noun	both
+malva	adj	both
+beis	noun	inv
+beis	adj	inv
+beige	adj	both

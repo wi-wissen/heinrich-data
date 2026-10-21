@@ -225,7 +225,8 @@ batata       noun g=f
 bateador     noun g=m f=bateadora
 batel        noun g=m
 bateo        noun g=m
-batería      noun g=f
+batería      noun g=f sense=device
+batería      noun g=m|f sense=drummer note=el/la batería: the drummer
 baterista    noun g=m|f
 batiburrillo noun g=m
 batido       noun g=m
@@ -267,6 +268,7 @@ bedel        noun g=m f=bedela
 beduino      noun g=m f=beduina
 begonia      noun g=f
 beicon       noun g=m
+beis         noun g=m inv note=the colour; adapted spelling of beige
 béisbol      noun g=m
 beisbolista  noun g=m|f
 bejuco       noun g=m
@@ -728,7 +730,8 @@ burrada      noun g=f style=colloquial alt=barbaridad|disparate
 burro        noun g=m f=burra
 bus          noun g=m
 busardo      noun g=m
-busca        noun g=f note=en busca de; the pager el busca is colloquial
+busca        noun g=f sense=search note=en busca de
+busca        noun g=m sense=pager style=colloquial alt=buscapersonas
 buscador     noun g=m f=buscadora
 búsqueda     noun g=f
 busto        noun g=m
