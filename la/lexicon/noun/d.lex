@@ -1,5 +1,7 @@
 # Latin nouns, letter d. Written from own knowledge (AUTHORING.md §1).
+dactylus, dactylī noun m
 daemōn, daemonis noun m greek
+daemonium, daemoniī noun n style=late
 damnātiō, damnātiōnis noun f
 damnum, damnī noun n
 daps, dapis noun f
@@ -7,9 +9,14 @@ dea, deae noun f dat_pl=deīs|deābus
 dēbilitās, dēbilitātis noun f
 dēbitor, dēbitōris noun m
 decemvir, decemvirī noun m
+dēclāmātiō, dēclāmātiōnis noun f
+dēclāmātor, dēclāmātōris noun m
+dēclīnātiō, dēclīnātiōnis noun f
 decor, decōris noun m
 dēcrētum, dēcrētī noun n
 decuma, decumae noun f var=decima
+decuria, decuriae noun f
+decuriō, decuriōnis noun m
 decus, decoris noun n
 dēdecus, dēdecoris noun n
 dēditiō, dēditiōnis noun f
@@ -17,8 +24,10 @@ dēfectiō, dēfectiōnis noun f
 dēfēnsiō, dēfēnsiōnis noun f
 dēfēnsor, dēfēnsōris noun m
 dēfīnītiō, dēfīnītiōnis noun f
+dēfōrmitās, dēfōrmitātis noun f
 dēfrutum, dēfrutī noun n
 dēiectiō, dēiectiōnis noun f
+deitās, deitātis noun f style=late
 dēlātor, dēlātōris noun m
 dēlectātiō, dēlectātiōnis noun f
 dēlīberātiō, dēlīberātiōnis noun f
@@ -27,11 +36,14 @@ dēlictum, dēlictī noun n
 delphīnus, delphīnī noun m
 dēlūbrum, dēlūbrī noun n
 dēmentia, dēmentiae noun f
+dēminūtiō, dēminūtiōnis noun f
 dēmōnstrātiō, dēmōnstrātiōnis noun f
 dēnārius, dēnāriī noun m
 dēns, dentis noun m
 dēnsitās, dēnsitātis noun f
 dēnūntiātiō, dēnūntiātiōnis noun f
+dēprecātiō, dēprecātiōnis noun f
+dēpulsiō, dēpulsiōnis noun f
 dēscēnsus, dēscēnsūs noun m
 dēscrīptiō, dēscrīptiōnis noun f
 dēsertor, dēsertōris noun m
@@ -56,6 +68,7 @@ difficultās, difficultātis noun f
 digitus, digitī noun m
 dignātiō, dignātiōnis noun f
 dignitās, dignitātis noun f
+dīgressiō, dīgressiōnis noun f
 dīlātiō, dīlātiōnis noun f
 dīlēctiō, dīlēctiōnis noun f style=late
 dīlēctus, dīlēctūs noun m conf=85 note=length of the e (as in dīlēxī)?
@@ -63,20 +76,26 @@ dīligentia, dīligentiae noun f
 dīlūculum, dīlūculī noun n
 dīluvium, dīluviī noun n
 dīmicātiō, dīmicātiōnis noun f
+dīreptiō, dīreptiōnis noun f
 disceptātiō, disceptātiōnis noun f
 discessus, discessūs noun m
 discidium, discidiī noun n
 disciplīna, disciplīnae noun f
 discipulus, discipulī noun m
 discordia, discordiae noun f
+discrētiō, discrētiōnis noun f style=late
 discrīmen, discrīminis noun n
 discursus, discursūs noun m
+dispendium, dispendiī noun n
+dispēnsātiō, dispēnsātiōnis noun f
+dispēnsātor, dispēnsātōris noun m
 dispositiō, dispositiōnis noun f
 disputātiō, disputātiōnis noun f
 dissēnsiō, dissēnsiōnis noun f
 dissimilitūdō, dissimilitūdinis noun f
 dissimulātiō, dissimulātiōnis noun f
 dissolūtiō, dissolūtiōnis noun f
+distantia, distantiae noun f
 distentiō, distentiōnis noun f
 distīnctiō, distīnctiōnis noun f conf=80 note=length of the i before nct?
 distribūtiō, distribūtiōnis noun f
@@ -104,6 +123,8 @@ dominus, dominī noun m
 domitor, domitōris noun m
 domus, domūs noun f class=domus
 dōnārium, dōnāriī noun n
+dōnātiō, dōnātiōnis noun f
+dōnātīvum, dōnātīvī noun n
 dōnum, dōnī noun n
 dorsum, dorsī noun n
 dōs, dōtis noun f gen_pl=dōtium

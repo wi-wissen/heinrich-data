@@ -6,7 +6,7 @@ antequam sconj
 ast cconj style=poetic|archaic
 at cconj
 atque|ac cconj
-atquī cconj conf=80 note=length of the final i?
+atquī|atquīn cconj conf=80 note=length of the i?
 attamen cconj
 aut cconj
 autem cconj
