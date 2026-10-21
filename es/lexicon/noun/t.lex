@@ -72,7 +72,7 @@ tampón noun g=m
 tanatorio noun g=m
 tanda noun g=f
 tándem noun g=m pl=tándems
-tanga noun g=m
+tanga noun g=amb note=el tanga and la tanga are both used in Spain
 tangente noun g=f
 tango noun g=m
 tanino noun g=m
@@ -402,7 +402,8 @@ tío noun g=m f=tía
 tiovivo noun g=m
 tipicidad noun g=f
 tipificación noun g=f
-tiple noun g=m
+tiple noun g=m sense=voice note=el tiple: the treble voice or the small guitar
+tiple noun g=f sense=singer note=la tiple: the soprano singer
 tipo noun g=m
 tipografía noun g=f
 tipógrafo noun g=m f=tipógrafa
@@ -782,9 +783,11 @@ tromba noun g=f
 trombo noun g=m
 trombón noun g=m
 trombosis noun g=f
-trompa noun g=f
+trompa noun g=f sense=instrument note=la trompa: horn, elephant trunk; colloquial drunkenness
+trompa noun g=m|f sense=player note=el/la trompa: the horn player
 trompazo noun g=m
-trompeta noun g=f
+trompeta noun g=f sense=instrument
+trompeta noun g=m|f sense=player note=el/la trompeta: the trumpeter
 trompetilla noun g=f
 trompetista noun g=m|f
 trompicón noun g=m

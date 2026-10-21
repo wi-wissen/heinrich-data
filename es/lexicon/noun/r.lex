@@ -120,7 +120,8 @@ rastreo noun g=m
 rastrillo noun g=m
 rastro noun g=m
 rastrojo noun g=m
-rata noun g=f
+rata noun g=f sense=animal
+rata noun g=m|f sense=miser style=colloquial alt=tacaño|agarrado note=ser un rata
 ratero noun g=m f=ratera
 raticida noun g=m
 ratificación noun g=f

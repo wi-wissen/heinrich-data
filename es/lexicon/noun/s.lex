@@ -182,6 +182,8 @@ secadero noun g=m
 secador noun g=m
 secadora noun g=f
 secano noun g=m
+secante noun g=f sense=line note=la secante: secant line in geometry
+secante noun g=m sense=blotter note=el secante: blotting paper
 secarral noun g=m
 sección noun g=f
 seccionamiento noun g=m

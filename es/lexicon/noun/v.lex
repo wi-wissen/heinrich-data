@@ -293,7 +293,8 @@ viña noun g=f
 viñador noun g=m f=viñadora
 viñedo noun g=m
 viñeta noun g=f
-viola noun g=f
+viola noun g=f sense=instrument
+viola noun g=m|f sense=player note=el/la viola: the viola player
 violación noun g=f
 violador noun g=m f=violadora
 violencia noun g=f
@@ -338,7 +339,8 @@ visón noun g=m
 visor noun g=m
 visos noun g=m pl_only note=tener visos de
 víspera noun g=f
-vista noun g=f
+vista noun g=f sense=sight
+vista noun g=m|f sense=official conf=75 note=el/la vista (de aduanas): customs officer, dated
 vistazo noun g=m
 visualización noun g=f
 vitalidad noun g=f
