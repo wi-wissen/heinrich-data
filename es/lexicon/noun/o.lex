@@ -19,6 +19,7 @@ objetivo     noun  g=m
 objeto       noun  g=m
 objetor      noun  g=m f=objetora
 oblación     noun  g=f
+óblast       noun  g=m foreign pl=óblasts conf=80 note=Russian or Ukrainian administrative region
 oblato       noun  g=m f=oblata
 oblea        noun  g=f
 oblicuidad   noun  g=f
@@ -68,6 +69,7 @@ occiso       noun  g=m f=occisa
 océano       noun  g=m
 oceanografía noun  g=f
 oceanógrafo  noun  g=m f=oceanógrafa
+ocelo        noun  g=m
 ocelote      noun  g=m
 ochavo       noun  g=m
 ocio         noun  g=m
@@ -84,6 +86,7 @@ octogenario  noun  g=m f=octogenaria
 octógono     noun  g=m var=octágono
 octubre      noun  g=m
 oculista     noun  g=m|f
+óculo        noun  g=m
 ocultación   noun  g=f
 ocultamiento noun  g=m
 ocultismo    noun  g=m
@@ -118,6 +121,7 @@ oficio       noun  g=m
 oficiosidad  noun  g=f
 ofidio       noun  g=m
 ofimática    noun  g=f
+ofita        noun  g=f
 ofrecimiento noun  g=m
 ofrenda      noun  g=f
 oftalmología noun  g=f
@@ -137,6 +141,7 @@ ojeriza      noun  g=f
 ojiva        noun  g=f
 ojo          noun  g=m
 okapi        noun  g=m
+ókrug        noun  g=m foreign pl=ókrugs conf=80 note=Russian administrative district
 okupa        noun  g=m|f style=colloquial alt=ocupante_ilegal
 okupación    noun  g=f style=colloquial alt=ocupación_ilegal
 ola          noun  g=f
@@ -258,6 +263,7 @@ ordenanza    noun  g=m|f sense=orderly note=el/la ordenanza: office messenger, m
 ordeñador    noun  g=m f=ordeñadora
 ordeño       noun  g=m
 ordinal      noun  g=m
+ordinariato  noun  g=m
 ordinariez   noun  g=f
 orégano      noun  g=m
 oreja        noun  g=f
@@ -300,8 +306,11 @@ ornamentación noun  g=f
 ornamento    noun  g=m
 ornato       noun  g=m
 ornitina     noun  g=f
+ornitisquio  noun  g=m
 ornitología  noun  g=f
 ornitólogo   noun  g=m f=ornitóloga
+ornitomímido noun  g=m
+ornitópodo   noun  g=m
 ornitorrinco noun  g=m
 oro          noun  g=m
 orogénesis   noun  g=f
@@ -355,6 +364,7 @@ osteoartrosis noun  g=f
 osteoblasto  noun  g=m
 osteocito    noun  g=m
 osteoclasto  noun  g=m
+osteodermo   noun  g=m
 osteología   noun  g=f
 osteomielitis noun  g=f
 osteópata    noun  g=m|f
@@ -375,6 +385,7 @@ otorrino     noun  g=m|f
 otorrinolaringología noun  g=f
 otorrinolaringólogo noun  g=m f=otorrinolaringóloga
 otredad      noun  g=f
+otrosí       noun  g=m pl=otrosíes|otrosís[var] note=legal: further clause
 ovación      noun  g=f
 óvalo        noun  g=m
 ovario       noun  g=m
@@ -387,6 +398,7 @@ ovocito      noun  g=m
 ovulación    noun  g=f
 óvulo        noun  g=m
 oxidación    noun  g=f
+oxidasa      noun  g=f
 óxido        noun  g=m
 oxigenación  noun  g=f
 oxígeno      noun  g=m

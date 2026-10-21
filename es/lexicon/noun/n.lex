@@ -20,6 +20,7 @@ náhuatl      noun  g=m note=the language
 nailon       noun  g=m var=nilón
 naipe        noun  g=m
 nalga        noun  g=f
+naltrexona   noun  g=f
 nana         noun  g=f
 nanociencia  noun  g=f
 nanoestructura noun  g=f
@@ -278,6 +279,7 @@ nitrosamina  noun  g=f
 nitruro      noun  g=m
 nivel        noun  g=m
 nivelación   noun  g=f
+nobel        noun  g=m|f note=a Nobel laureate: un nobel de literatura
 noble        noun  g=m|f
 nobleza      noun  g=f
 nocaut       noun  g=m pl=nocauts note=adapted from English knockout
@@ -293,6 +295,7 @@ nódulo       noun  g=m
 nogal        noun  g=m
 nómada       noun  g=m|f var=nómade
 nomadismo    noun  g=m
+nomarca      noun  g=m
 nombradía    noun  g=f
 nombramiento noun  g=m
 nombre       noun  g=m

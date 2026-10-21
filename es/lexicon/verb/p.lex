@@ -23,6 +23,7 @@ parar        verb
 parasitar    verb
 parcelar     verb
 parchear     verb
+parear       verb
 parecer      verb  class=zco
 parir        verb
 parlamentar  verb
@@ -127,6 +128,7 @@ pisotear     verb
 pitar        verb
 pitorrear    verb  pronominal style=colloquial alt=burlarse
 pivotar      verb
+placer       verb  class=zco defective=inf|fin|pp|3 pp_inv conf=85 note=me place, nos plació, le ha placido (literary); plugo is archaic
 plagar       verb
 plagiar      verb  class=diphthong
 planchar     verb

@@ -107,6 +107,7 @@ pastelero    adj
 pastoral     adj
 pastoril     adj
 pastoso      adj
+pastún       adj   conf=80 note=used with the same form for both genders (la población pastún); pastuna is rare
 patagónico   adj
 patentable   adj
 patente      adj   adv=patentemente
@@ -152,6 +153,7 @@ pedáneo      adj
 pedante      adj
 pedestre     adj
 pediátrico   adj
+pedicelado   adj
 pedigüeño    adj
 pedregoso    adj
 pegadizo     adj
@@ -191,6 +193,7 @@ pequeño      adj   cmp=menor sup=pequeñísimo
 perceptible  adj   adv=perceptiblemente
 perceptivo   adj
 perdedor     adj
+perdicero    adj   note=águila perdicera
 perdido      adj   adv=perdidamente
 perdidoso    adj
 perdurable   adj
@@ -276,6 +279,7 @@ pícaro       adj   adv=pícaramente
 pícnico      adj
 pictórico    adj
 picudo       adj
+piezométrico adj
 pignoraticio adj
 pigre        adj   style=literary
 pijo         adj   style=colloquial alt=esnob|cursi
@@ -283,6 +287,7 @@ pijotero     adj   style=colloquial alt=molesto
 piloso       adj
 pineal       adj
 pingüe       adj
+pinnado      adj
 pintoresco   adj
 pinturero    adj   style=colloquial alt=presumido
 piojoso      adj
@@ -348,6 +353,7 @@ pobrecito    adj   note=diminutive of pobre, very frequent
 pobretón     adj
 pocho        adj   style=colloquial alt=pasado|mustio
 pocholo      adj   style=colloquial alt=bonito
+podemita     adj
 poderoso     adj   adv=poderosamente
 podrido      adj
 poético      adj   adv=poéticamente
@@ -423,6 +429,7 @@ posterior    adj   adv=posteriormente
 postinero    adj
 postizo      adj
 postobligatorio adj
+postorbital  adj
 postraumático adj
 postrero     adj   apoc=postrer style=literary
 póstumo      adj   adv=póstumamente
@@ -460,6 +467,7 @@ precolonial  adj
 preconcebido adj
 preconcursal adj
 preconstitucional adj
+preconstituido adj
 precontractual adj
 precoz       adj   adv=precozmente
 precristiano adj
@@ -629,11 +637,14 @@ prostático   adj
 protagónico  adj
 proteccionista adj
 protector    adj
+protegible   adj
 proteico     adj
 protésico    adj
 protestante  adj
 protestón    adj   style=colloquial alt=quejica
 protocolario adj   adv=protocolariamente
+protoeslavo  adj
+protoindoeuropeo adj
 prototípico  adj
 provechoso   adj   adv=provechosamente
 provecto     adj   style=literary
@@ -695,6 +706,7 @@ punteado     adj
 puntero      adj
 puntiagudo   adj
 puntilloso   adj
+puntocom     adj   inv
 puntuable    adj
 puntual      adj   adv=puntualmente
 punzante     adj
