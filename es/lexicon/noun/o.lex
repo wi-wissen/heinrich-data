@@ -173,7 +173,7 @@ olor         noun  g=m
 olvido       noun  g=m
 ombligo      noun  g=m
 ombú         noun  g=m pl=ombúes|ombús[var]
-ombudsman    noun  g=m foreign conf=70
+ombudsman    noun  g=m foreign inv conf=70 note=invariable plural in Spanish use: los ombudsman
 omega        noun  g=f
 ómicron      noun  g=f inv note=Greek letter, invariable plural
 omisión      noun  g=f
