@@ -88,6 +88,7 @@ cheat verb prep=on|at|of
 check verb comp=that|wh prep=on|for|with|in|into
 checkmate verb
 cheer verb
+chelate verb
 cherish verb
 chew verb
 chicken verb
@@ -298,6 +299,7 @@ convert verb prep=to|into
 convey verb
 convict verb prep=of
 convince verb comp=obj_that|obj_to|that prep=of
+convoke verb
 convulse verb
 cook verb
 cool verb
@@ -364,6 +366,7 @@ croak verb
 crook verb
 crop verb
 cross verb
+crossbreed verb past=crossbred pp=crossbred
 crouch verb
 crow verb
 crowd verb

@@ -17,13 +17,13 @@ hermitdave, Lexique, Leipzig corpora, Morphalou, Lefff, Wiktionnaire or similar)
 
 | Key | Source | Amount |
 |---|---|---:|
-| `wiki` | French Wikipedia, article namespace: systematic sample of 42 chunks (~1000 pages each) in each of 6 multistream dump parts (dump of 2026-10-01) | 53,757,279 tokens, 128,250 articles |
-| `lit` | Project Gutenberg, catalog language `fr`; every named person died in 1954 or earlier | 40,585,694 tokens, 551 books |
+| `wiki` | French Wikipedia, article namespace: systematic sample of 42 chunks (~1000 pages each) in each of 6 multistream dump parts (dump of 2026-10-01) | 53,741,597 tokens, 128,250 articles |
+| `lit` | Project Gutenberg, catalog language `fr`; every named person died in 1954 or earlier | 40,585,693 tokens, 551 books |
 | `gov` | Assemblée nationale debates (JO, compte rendu intégral), every 5th issue 2011-2026 | 24,415,095 tokens, 391 issues |
 | `gov` | Sénat debates (JO, compte rendu intégral), every 3rd issue 2011-2016 | 13,136,344 tokens, 191 issues |
 | `gov` | Légifrance LEGI (export of 2025-07-13): articles in force of codes, laws, organic and constitutional laws, ordinances and the constitution; 10 of 20 buckets by article id | 13,157,800 tokens |
 | `gov` | service-public.gouv.fr practical guides (fiches pratiques), individuals and businesses | 6,274,237 tokens, 3,778 fiches |
-| | **total** | **151,326,449 tokens** |
+| | **total** | **151,310,766 tokens** |
 
 Licences and URLs: `/SOURCES.md`.
 
@@ -61,6 +61,10 @@ Licences and URLs: `/SOURCES.md`.
   within a fiche (conditional fiches repeat text per case) is counted once.
 
 ## Known limitations
+- Corrected on 2026-10-21: the Wikipedia cleaning unescaped HTML entities only once, so `&nbsp;` and similar
+  entities were counted as words. The list was not recounted; the forms `nbsp` (15,608), `thinsp` (24), `emsp` (21),
+  `shy` (16), `ensp` (11) and `apos` (3) were removed with `tools/frequency/drop_forms.py` and the totals reduced
+  (`STATS.md`, "Removed artefacts"). `count_wiki.py` now unescapes twice.
 - Literature has 17th-19th century spellings (`oeuvre`/`œuvre`, `poëte`, `long-temps`); the per-source
   columns allow weighting.
 - Légifrance often writes capitals without accents (`Etat` beside `État`); counts are kept as written.

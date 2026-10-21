@@ -19,6 +19,8 @@ Radieschen noun g=n gen=Radieschens pl=Radieschen
 Radikalisierung noun g=f gen=Radikalisierung pl=Radikalisierungen
 Radio noun g=n gen=Radios pl=Radios
 Radioaktivität noun g=f gen=Radioaktivität pl=- note=no plural
+Radionuklid noun g=n gen=Radionuklids|Radionuklides pl=Radionuklide
+Radium noun g=n gen=Radiums pl=- note=chemical element
 Radius noun g=m gen=Radius pl=Radien
 Radon noun g=n gen=Radons pl=- note=chemical element
 Raffinerie noun g=f gen=Raffinerie pl=Raffinerien
@@ -204,6 +206,7 @@ Rekrut noun g=m gen=Rekruten pl=Rekruten
 Rekrutierung noun g=f gen=Rekrutierung pl=Rekrutierungen
 Rektor noun g=m gen=Rektors pl=Rektoren
 Rektorin noun g=f gen=Rektorin pl=Rektorinnen
+Rekursion noun g=f gen=Rekursion pl=Rekursionen
 Relation noun g=f gen=Relation pl=Relationen
 Relativität noun g=f gen=Relativität pl=- note=mass noun
 Release noun g=n|m gen=Releases pl=Releases
@@ -231,6 +234,7 @@ Rentnerin noun g=f gen=Rentnerin pl=Rentnerinnen
 Reorganisation noun g=f gen=Reorganisation pl=Reorganisationen
 Reparatur noun g=f gen=Reparatur pl=Reparaturen
 Repertoire noun g=n gen=Repertoires pl=Repertoires
+Replikation noun g=f gen=Replikation pl=Replikationen
 Report noun g=m gen=Reports pl=Reports
 Reportage noun g=f gen=Reportage pl=Reportagen
 Reporter noun g=m gen=Reporters pl=Reporter
@@ -294,11 +298,15 @@ Rezeption noun g=f gen=Rezeption pl=Rezeptionen
 Rezeptionist noun g=m gen=Rezeptionisten pl=Rezeptionisten
 Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
 Rezeptor noun g=m gen=Rezeptors pl=Rezeptoren
+Rezeptur noun g=f gen=Rezeptur pl=Rezepturen
 Rezession noun g=f gen=Rezession pl=Rezessionen
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
 Rheinbrücke noun g=f gen=Rheinbrücke pl=Rheinbrücken note=bridge over the Rhine; the compound analysis does not use proper names as first part
 Rheinufer noun g=n gen=Rheinufers pl=Rheinufer note=listed because a proper-name modifier is not derived by the compound analysis
+Rhenium noun g=n gen=Rheniums pl=- note=chemical element
 Rhetorik noun g=f gen=Rhetorik pl=- note=mass noun
+Rhizom noun g=n gen=Rhizoms pl=Rhizome
+Rhodium noun g=n gen=Rhodiums pl=- note=chemical element
 Rhythmus noun g=m gen=Rhythmus pl=Rhythmen note=genitive without ending (like -ismus)
 Richter noun g=m gen=Richters pl=Richter
 Richterin noun g=f gen=Richterin pl=Richterinnen
@@ -319,6 +327,7 @@ Ringerin noun g=f gen=Ringerin pl=Ringerinnen
 Rinne noun g=f gen=Rinne pl=Rinnen
 Rippe noun g=f gen=Rippe pl=Rippen
 Risiko noun g=n gen=Risikos pl=Risiken|Risikos[rare]
+Rispe noun g=f gen=Rispe pl=Rispen
 Ritt noun g=m gen=Ritts|Rittes pl=Ritte
 Ritter noun g=m gen=Ritters pl=Ritter
 Ritterschaft noun g=f gen=Ritterschaft pl=Ritterschaften
@@ -335,6 +344,7 @@ Rock noun g=m gen=Rockes|Rocks pl=Röcke sense=skirt
 Rock noun g=m gen=Rocks pl=- sense=music note=Rockmusik
 Rodel noun g=m gen=Rodels pl=Rodel
 Rodung noun g=f gen=Rodung pl=Rodungen
+Roentgenium noun g=n gen=Roentgeniums pl=- note=chemical element
 Roggen noun g=m gen=Roggens pl=- note=no plural
 Rohr noun g=n gen=Rohrs|Rohres pl=Rohre
 Röhre noun g=f gen=Röhre pl=Röhren
@@ -357,6 +367,7 @@ Romanze noun g=f gen=Romanze pl=Romanzen
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
 Röntgenbild noun g=n gen=Röntgenbild|Röntgenbilds|Röntgenbildes pl=Röntgenbilder
+Röntgenstrahlung noun g=f gen=Röntgenstrahlung pl=- note=mass noun
 Rosa noun g=n gen=Rosa|Rosas pl=Rosa|Rosas conf=85 note=colour name (das Rosa)
 Rose noun g=f gen=Rose pl=Rosen
 Rosenstrauch noun g=m gen=Rosenstrauchs pl=Rosensträucher
@@ -375,6 +386,7 @@ Router noun g=m gen=Routers pl=Router
 Routine noun g=f gen=Routine pl=Routinen
 Rübe noun g=f gen=Rübe pl=Rüben
 Rubel noun g=m gen=Rubels pl=Rubel
+Rubidium noun g=n gen=Rubidiums pl=- note=chemical element
 Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
@@ -427,4 +439,6 @@ Russisch noun g=n gen=Russisch|Russischs pl=- note=language name; no plural
 Russki noun g=m gen=Russkis pl=Russkis style=offensive note=slur for Russians
 Rüstung noun g=f gen=Rüstung pl=Rüstungen
 Rute noun g=f gen=Rute pl=Ruten
+Ruthenium noun g=n gen=Rutheniums pl=- note=chemical element
+Rutherfordium noun g=n gen=Rutherfordiums pl=- note=chemical element
 Rutsche noun g=f gen=Rutsche pl=Rutschen

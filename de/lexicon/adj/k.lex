@@ -55,6 +55,7 @@ kommissarisch adj
 kommunal adj
 kommunikativ adj cmp=kommunikativer sup=kommunikativsten
 kommunistisch adj
+kommutativ adj
 kompakt adj cmp=kompakter sup=kompaktesten
 kompatibel adj cmp=kompatibler sup=kompatibelsten
 kompetent adj cmp=kompetenter sup=kompetentesten
@@ -110,6 +111,7 @@ kugelig adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten
 kulant adj cmp=kulanter sup=kulantesten
+kultisch adj
 kulturell adj
 kündbar adj
 kundig adj cmp=kundiger sup=kundigsten

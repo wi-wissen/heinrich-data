@@ -7,6 +7,7 @@ Kachelofen noun g=m gen=Kachelofens pl=Kachelöfen
 Kadenz noun g=f gen=Kadenz pl=Kadenzen
 Kader noun g=m gen=Kaders pl=Kader
 Kadett noun g=m gen=Kadetten pl=Kadetten
+Kadmium noun g=n gen=Kadmiums pl=- note=chemical element; spelling variant of Cadmium
 Käfer noun g=m gen=Käfers pl=Käfer
 Kaffee noun g=m gen=Kaffees pl=Kaffees
 Kaffeeklatsch noun g=m gen=Kaffeeklatsches pl=- note=no plural (mass or abstract noun)
@@ -26,11 +27,14 @@ Kalender noun g=m gen=Kalenders pl=Kalender
 Kaliber noun g=n gen=Kalibers pl=Kaliber
 Kalibrierung noun g=f gen=Kalibrierung pl=Kalibrierungen
 Kalif noun g=m gen=Kalifen pl=Kalifen
+Kalium noun g=n gen=Kaliums pl=- note=chemical element
 Kalk noun g=m gen=Kalks|Kalkes pl=Kalke
 Kalkül noun g=n|m gen=Kalküls pl=Kalküle
 Kalkulation noun g=f gen=Kalkulation pl=Kalkulationen
 Kalorie noun g=f gen=Kalorie pl=Kalorien
 Kälte noun g=f gen=Kälte pl=- note=mass noun
+Kalzium noun g=n gen=Kalziums pl=- note=chemical element; spelling variant of Calcium
+Kambrium noun g=n gen=Kambriums pl=- note=geological period
 Kamel noun g=n gen=Kamels pl=Kamele
 Kamera noun g=f gen=Kamera pl=Kameras
 Kamerad noun g=m gen=Kameraden pl=Kameraden
@@ -60,6 +64,7 @@ Kaninchen noun g=n gen=Kaninchens pl=Kaninchen
 Kanne noun g=f gen=Kanne pl=Kannen
 Kanone noun g=f gen=Kanone pl=Kanonen
 Kanoniker noun g=m gen=Kanonikers pl=Kanoniker
+Känozoikum noun g=n gen=Känozoikums pl=- note=geological era
 Kantate noun g=f gen=Kantate pl=Kantaten
 Kante noun g=f gen=Kante pl=Kanten
 Kantine noun g=f gen=Kantine pl=Kantinen
@@ -73,6 +78,9 @@ Kanzlerin noun g=f gen=Kanzlerin pl=Kanzlerinnen
 Kap noun g=n gen=Kaps pl=Kaps
 Kapazität noun g=f gen=Kapazität pl=Kapazitäten
 Kapelle noun g=f gen=Kapelle pl=Kapellen
+Kaper noun g=m gen=Kapers pl=Kaper sense=privateer note=der Kaper: privateer ship
+Kaper noun g=f gen=Kaper pl=Kapern sense=caper note=die Kaper: caper (spice); plural Kapern is usual
+Kaperbrief noun g=m gen=Kaperbriefs|Kaperbriefes pl=Kaperbriefe
 Kapital noun g=n gen=Kapitals pl=Kapitalien|Kapitale
 Kapitalanforderung noun g=f gen=Kapitalanforderung pl=Kapitalanforderungen conf=90 note=solvency term; listed because the chain Solvabilitäts-kapital-anforderung is not derived otherwise
 Kapitalismus noun g=m gen=Kapitalismus pl=- note=no plural
@@ -91,6 +99,8 @@ Karambolage noun g=f gen=Karambolage pl=Karambolagen
 Karaoke noun g=n gen=Karaokes pl=- note=no plural (mass or abstract noun)
 Karate noun g=n gen=Karates pl=- note=no plural (mass or abstract noun)
 Karawane noun g=f gen=Karawane pl=Karawanen
+Karbon noun g=n gen=Karbons pl=- note=geological period
+Karbonat noun g=n gen=Karbonats|Karbonates pl=Karbonate note=spelling variant of Carbonat
 Kardinal noun g=m gen=Kardinals pl=Kardinäle
 Karenz noun g=f gen=Karenz pl=Karenzen
 Karfreitag noun g=m gen=Karfreitags|Karfreitages pl=Karfreitage
@@ -148,8 +158,11 @@ Kater noun g=m gen=Katers pl=Kater
 Katharsis noun g=f gen=Katharsis pl=- note=no plural
 Kathedrale noun g=f gen=Kathedrale pl=Kathedralen
 Kathete noun g=f gen=Kathete pl=Katheten
+Kathode noun g=f gen=Kathode pl=Kathoden
 Katholik noun g=m gen=Katholiken pl=Katholiken
 Katholizismus noun g=m gen=Katholizismus pl=- note=no plural
+Kation noun g=n gen=Kations pl=Kationen
+Katode noun g=f gen=Katode pl=Katoden note=spelling variant of Kathode
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
@@ -181,6 +194,7 @@ Keller noun g=m gen=Kellers pl=Keller
 Kellner noun g=m gen=Kellners pl=Kellner
 Kellnerin noun g=f gen=Kellnerin pl=Kellnerinnen
 Kelte noun g=m gen=Kelten pl=Kelten
+Kelvin noun g=n gen=Kelvin|Kelvins pl=Kelvin note=unit of temperature
 Kenner noun g=m gen=Kenners pl=Kenner
 Kennerin noun g=f gen=Kennerin pl=Kennerinnen
 Kenntnis noun g=f gen=Kenntnis pl=Kenntnisse
@@ -191,6 +205,7 @@ Keramik noun g=f gen=Keramik pl=Keramiken
 Kerker noun g=m gen=Kerkers pl=Kerker
 Kerl noun g=m gen=Kerls|Kerles pl=Kerle
 Kern noun g=m gen=Kerns|Kernes pl=Kerne
+Kernel noun g=m gen=Kernels pl=Kernel note=operating system core
 Kerze noun g=f gen=Kerze pl=Kerzen
 Kerzenständer noun g=m gen=Kerzenständers pl=Kerzenständer
 Kessel noun g=m gen=Kessels pl=Kessel
@@ -212,6 +227,7 @@ Kieler noun g=m gen=Kielers pl=Kieler note=inhabitant of Kiel; also the indeclin
 Kiellegung noun g=f gen=Kiellegung pl=Kiellegungen
 Kies noun g=m gen=Kieses pl=- note=no plural
 Kilo noun g=n gen=Kilos pl=Kilos
+Kilobyte noun g=n gen=Kilobytes pl=Kilobyte|Kilobytes
 Kilogramm noun g=n gen=Kilogramms pl=Kilogramm|Kilogramme[rare]
 Kilometer noun g=m gen=Kilometers pl=Kilometer
 Kilowatt noun g=n gen=Kilowatts pl=Kilowatt|Kilowatts
@@ -335,6 +351,7 @@ Knoten noun g=m gen=Knotens pl=Knoten
 Know-how noun g=n gen=Know-hows|Know-how pl=- note=loanword; no plural
 Koala noun g=m gen=Koalas pl=Koalas
 Koalition noun g=f gen=Koalition pl=Koalitionen
+Kobalt noun g=n gen=Kobalts pl=- note=chemical element; spelling variant of Cobalt
 Kobold noun g=m gen=Kobolds|Koboldes pl=Kobolde
 Kobra noun g=f gen=Kobra pl=Kobras
 Koch noun g=m gen=Kochs pl=Köche
@@ -416,6 +433,7 @@ Kompatibilität noun g=f gen=Kompatibilität pl=Kompatibilitäten
 Kompensation noun g=f gen=Kompensation pl=Kompensationen
 Kompetenz noun g=f gen=Kompetenz pl=Kompetenzen
 Kompilation noun g=f gen=Kompilation pl=Kompilationen
+Kompilierung noun g=f gen=Kompilierung pl=Kompilierungen
 Komplex noun g=m gen=Komplexes pl=Komplexe
 Komplexität noun g=f gen=Komplexität pl=- note=no plural in practice
 Komplikation noun g=f gen=Komplikation pl=Komplikationen
@@ -430,6 +448,7 @@ Kompostierung noun g=f gen=Kompostierung pl=Kompostierungen
 Kompresse noun g=f gen=Kompresse pl=Kompressen
 Kompromiss noun g=m gen=Kompromisses pl=Kompromisse
 Komtesse noun g=f gen=Komtesse pl=Komtessen
+Kondensator noun g=m gen=Kondensators pl=Kondensatoren
 Kondition noun g=f gen=Kondition pl=Konditionen
 Konditorei noun g=f gen=Konditorei pl=Konditoreien
 Kondolenz noun g=f gen=Kondolenz pl=Kondolenzen
@@ -489,6 +508,7 @@ Kontakt noun g=m gen=Kontakts|Kontaktes pl=Kontakte
 Kontaktlinse noun g=f gen=Kontaktlinse pl=Kontaktlinsen
 Kontamination noun g=f gen=Kontamination pl=Kontaminationen
 Konteradmiral noun g=m gen=Konteradmirals|Konteradmirales pl=Konteradmirale|Konteradmiräle
+Konterpart noun g=m gen=Konterparts pl=Konterparts|Konterparte conf=80 note=counterpart; plural usage varies
 Kontext noun g=m gen=Kontextes|Kontexts pl=Kontexte
 Kontierung noun g=f gen=Kontierung pl=Kontierungen
 Kontinent noun g=m gen=Kontinents|Kontinentes pl=Kontinente
@@ -544,6 +564,7 @@ Korb noun g=m gen=Korbes|Korbs pl=Körbe
 Körbchen noun g=n gen=Körbchens pl=Körbchen
 Korkenzieher noun g=m gen=Korkenziehers pl=Korkenzieher
 Kormoran noun g=m gen=Kormorans pl=Kormorane
+Kormus noun g=m gen=Kormus pl=- conf=75 note=botany; bare genitive of the -us word, plural not in use
 Korn noun g=n gen=Korns|Kornes pl=Körner
 Körper noun g=m gen=Körpers pl=Körper
 Körperschaft noun g=f gen=Körperschaft pl=Körperschaften
@@ -561,6 +582,7 @@ Korrosion noun g=f gen=Korrosion pl=Korrosionen
 Korruption noun g=f gen=Korruption pl=- note=no plural in normal use
 Korvette noun g=f gen=Korvette pl=Korvetten
 Kosake noun g=m gen=Kosaken pl=Kosaken
+Kosinus noun g=m gen=Kosinus pl=Kosinus|Kosinusse note=bare genitive of the -us word
 Kosmetik noun g=f gen=Kosmetik pl=- note=no plural (mass or abstract noun)
 Kosmos noun g=m gen=Kosmos pl=- note=des Kosmos
 Kost noun g=f gen=Kost pl=- note=food; no plural
@@ -644,6 +666,7 @@ Krüppel noun g=m gen=Krüppels pl=Krüppel style=offensive alt=Mensch_mit_Behin
 Kruste noun g=f gen=Kruste pl=Krusten
 Kruzifix noun g=n gen=Kruzifixes pl=Kruzifixe
 Krypta noun g=f gen=Krypta pl=Krypten
+Krypton noun g=n gen=Kryptons pl=- note=chemical element; noble gas
 Kubikmeter noun g=m|n gen=Kubikmeters pl=Kubikmeter
 Küche noun g=f gen=Küche pl=Küchen
 Kuchen noun g=m gen=Kuchens pl=Kuchen

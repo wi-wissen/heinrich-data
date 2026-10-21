@@ -46,7 +46,9 @@ Wanderschaft noun g=f gen=Wanderschaft pl=- note=auf Wanderschaft; no plural in 
 Wanderschuhe noun g=pl
 Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
+Wandler noun g=m gen=Wandlers pl=Wandler
 Wandlung noun g=f gen=Wandlung pl=Wandlungen
+Wane noun g=m gen=Wanen pl=Wanen note=Norse god of the Vanir
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
 Wappen noun g=n gen=Wappens pl=Wappen
@@ -219,6 +221,7 @@ Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
 Wirren noun g=pl
 Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
+Wirtel noun g=m gen=Wirtels pl=Wirtel
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
 Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
 Wirtschaftlichkeit noun g=f gen=Wirtschaftlichkeit pl=- note=no plural
@@ -268,6 +271,7 @@ Wonne noun g=f gen=Wonne pl=Wonnen
 Workflow noun g=m gen=Workflows pl=Workflows
 Workshop noun g=m gen=Workshops pl=Workshops
 Workspace noun g=m gen=Workspace|Workspaces pl=Workspaces
+Workstation noun g=f gen=Workstation pl=Workstations
 Wort noun g=n gen=Wortes|Worts[rare] pl=Wörter|Worte note=Wörter: single words (vocabulary); Worte: connected utterances
 Wörtchen noun g=n gen=Wörtchens pl=Wörtchen
 Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher

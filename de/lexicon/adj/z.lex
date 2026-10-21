@@ -49,6 +49,7 @@ zwangsläufig adj
 zweckdienlich adj
 zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
 zweckwidrig adj
+zweiatomig adj
 zweierlei adj indecl
 zweifach adj
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
@@ -58,7 +59,9 @@ zweigleisig adj
 zweistellig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
+zweiwertig adj
 zwischenzeitlich adj
 zwittrig adj note=variant zwitterig
+zygomorph adj
 zylindrisch adj
 zynisch adj cmp=zynischer sup=zynischsten

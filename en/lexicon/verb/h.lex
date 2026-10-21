@@ -102,6 +102,7 @@ hurry          verb prep=to|into
 hurt           verb past=hurt pp=hurt
 hush           verb
 hustle verb
+hybridize verb gb=hybridise|hybridize
 hydrate verb
 hyperlink verb
 hypothesize verb gb=hypothesise|hypothesize

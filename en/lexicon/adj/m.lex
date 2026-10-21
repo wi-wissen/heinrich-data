@@ -75,6 +75,7 @@ meditative adj
 Mediterranean adj
 medium        adj
 meek adj cmp=er adv=meekly
+megafaunal adj
 melancholy    adj
 mellow adj cmp=er
 melodic adj
@@ -226,6 +227,7 @@ mutant adj
 mute adj adv=mutely
 mutinous adj
 mutual        adj adv=mutually
+myelinated adj
 myocardial adj
 myriad adj
 mysterious    adj cmp=more adv=mysteriously

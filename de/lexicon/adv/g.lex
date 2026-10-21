@@ -1,3 +1,4 @@
+gängigerweise adv
 gänzlich adv
 gefälligst adv type=modal
 gemeinhin adv
