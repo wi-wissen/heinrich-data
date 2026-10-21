@@ -114,6 +114,7 @@ reviewer, clear errors and all points; method and per-round statistics in [Revie
 | #112 | q–z | colloquial *taffer, taf, teuf, relou, zarbi, vénère* | 7 lines; 0 errors, approved |
 | #113 | a–c | neutral sense for *crever* and *crevé*; *chelou* | 3 changed entries; 0 errors, approved (1 note) |
 | #115 | d–l | *daronne* and *frangine* as own entries | 4 lines; 0 errors, approved (1 note) |
+| #128 | q–z | 46 person nouns (feminines, epicene `-iste`, colloquial `-ard` with `alt=`) | 46 lines; 0 errors, approved |
 
 Related data PRs: #87 (French names from open data, `../names/`), #88 (French frequency list
 from own counts, `../frequency/`).
@@ -184,6 +185,7 @@ points (missing `pp_inv`, senses, plural rarely used …).
 | 4 | #103–#106 | news additions (diff) | 228 | 0 | 2 | 0 % / 0.9 % |
 | 5 | #110–#113, #115 | colloquial words (diff) | 21 | 0 | 3 | 0 % |
 | 6 | #96, #109 | `-ment` adverbs q–z, *lascar* (diff, checked after merge) | 159 | 0 | 1 | 0 % / 0.6 % |
+| 7 | #128 | person nouns q–z (diff) | 46 | 0 | 0 | 0 % |
 
 Coverage of the reference frequency list, nouns / verbs / adjectives (round 1, open classes,
 participle-adjectives counted as covered when the verb is present):
