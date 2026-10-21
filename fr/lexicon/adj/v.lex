@@ -51,6 +51,7 @@ vendable adj
 vendéen adj
 vénéneux adj
 vénérable adj adv=vénérablement
+vénère adj style=colloquial alt=énervé note=verlan of énervé
 vénérien adj
 vénézuélien adj
 vengeur adj f=vengeresse

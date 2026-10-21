@@ -442,7 +442,8 @@ crépir          verb class=ir
 crépiter        verb pp_inv
 creuser         verb
 crevasser       verb
-crever          verb style=colloquial alt=mourir note=è like lever; colloquial in the sense mourir
+crever          verb sense=burst note=è like lever; percer, éclater: un pneu crevé, crever un ballon
+crever          verb sense=die style=colloquial alt=mourir|épuiser note=è like lever; mourir, être épuisé (je suis crevé)
 criailler       verb pp_inv
 cribler         verb
 crier           verb

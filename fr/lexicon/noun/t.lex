@@ -26,6 +26,8 @@ tacot noun g=m style=colloquial
 tact noun g=m
 tactique noun g=f
 taekwondo noun g=m
+taf noun g=m style=colloquial alt=travail|emploi note=also spelled taff
+taff noun g=m style=colloquial alt=travail|emploi note=variant spelling of taf
 taffetas noun g=m
 tag noun g=m
 tagueur noun g=m f=tagueuse
@@ -313,6 +315,7 @@ tétraèdre noun g=m
 tétragone noun g=m
 tétrasyllabe noun g=m
 teuch noun g=m style=colloquial alt=haschich note=slang (verlan); also spelled teush
+teuf noun g=f style=colloquial alt=fête note=verlan of fête
 teush noun g=m style=colloquial alt=haschich note=variant spelling of teuch
 texte noun g=m
 textile noun g=m

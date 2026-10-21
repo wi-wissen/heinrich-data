@@ -189,6 +189,7 @@ chaud              adj adv=chaudement
 chauffant          adj
 chauve             adj
 chauvin            adj
+chelou             adj f=chelou style=colloquial alt=bizarre|louche note=verlan of louche
 chenu              adj
 cher               adj place=both adv=chèrement
 chéri              adj
@@ -567,7 +568,8 @@ crépusculaire      adj
 crétois            adj
 creux              adj
 crevant            adj style=colloquial
-crevé              adj style=colloquial alt=épuisé
+crevé              adj sense=punctured note=un pneu crevé
+crevé              adj sense=exhausted style=colloquial alt=épuisé
 criant             adj
 criard             adj
 criminel           adj adv=criminellement

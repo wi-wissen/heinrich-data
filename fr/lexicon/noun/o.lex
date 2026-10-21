@@ -242,6 +242,7 @@ orchestration            noun g=f
 orchestre                noun g=m
 orchidée                 noun g=f
 ordalie                  noun g=f
+ordi                     noun g=m style=colloquial alt=ordinateur
 ordinand                 noun g=m
 ordinateur               noun g=m
 ordination               noun g=f

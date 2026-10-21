@@ -479,7 +479,7 @@ maternité                noun g=f
 mathématicien            noun g=m f=mathématicienne
 mathématique             noun g=f
 matheux                  noun g=m f=matheuse style=colloquial alt=mathématicien
-maths                    noun g=f pl_only style=colloquial alt=mathématiques
+maths                    noun g=f pl_only note=short for mathématiques, the usual name of the school subject
 matière                  noun g=f
 matin                    noun g=m
 mâtin                    noun g=m f=mâtine
