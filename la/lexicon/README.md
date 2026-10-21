@@ -41,6 +41,17 @@ consonants) are the place where references disagree most; such disputes are repo
 the other length disputes, so that the author can weigh them. Judgements the references do not
 cover (school norm, register, the reading canon) rest on the reviewer's own knowledge.
 
+### Reporting vowel lengths
+
+The length of a single vowel is a yes-or-no question, so "length of the a disputed" gives away the
+reference's value. Length disputes are therefore reported **at word level** ("length in the
+lemma", "length in the oblique cases", "length in the supine"), without naming the vowel, whenever
+the word has more than one candidate vowel. A length that an author changes only because of a
+report, and not from their own derivation, carries `conf=` below 100 and `note=reviewer-dispute`,
+so that it never counts for a hard error (`AUTHORING.md` §1). In wave 1 some reports still named
+the vowel (*vīcissim*, *dēcenter*, *atrium*, *biduum*, *fūnditus*, *Mārius* and the hidden
+quantities); the entries changed after those reports fall under this rule.
+
 ### Method
 
 1. Build `heinrich-lexicon` from the Heinrich branch `latin` and run `--lang la validate` on each PR
@@ -70,3 +81,14 @@ differences it showed were inconsistencies of the reference.
 
 | round | PR | commit | entries checked | clear errors | points | quote clear / all |
 |---|---|---|---:|---:|---:|---:|
+| 1 | #160 p–z | 3cd3b5b | 815 | 5 | 13 | 0.6 % / 1.6 % |
+| 1 | #162 e–o | e3322ba | 884 | 2 | 11 | 0.2 % / 1.2 % |
+| 1 | #163 a–d + `closed/` | 1d282b0 | 1,216 | 4 | 15 | 0.3 % / 1.2 % |
+| 1 | re-check #160 | 14e6b6a | 815 | 0 | 1 | – |
+
+"Clear errors" are wrong lengths or forms; "points" also count uncertain or hidden quantities,
+consistency between the authors and minor points. #163 includes the 4 duplicates between the
+authors found on the merge of all three waves (*posteā*, *tandem*, *praesum*, *supersum*; settled
+by the orchestrator). After the merge of wave 1 (2,943 entries), our frequency list
+`la/frequency/forms.tsv` is covered at 99.2 % of the tokens of the top 1,000 forms, 95.6 % of ranks
+1,001–5,000 and 86.7 % overall.
