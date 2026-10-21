@@ -363,7 +363,7 @@ contraatacar verb
 contrabandear verb
 contradecir  verb class=predecir
 contraer     verb class=traer
-contrahacer  verb class=hacer pret=contrahíce,contrahiciste,contrahízo,contrahicimos,contrahicisteis,contrahicieron note=preterite written out: the generator puts the hiatus accent on unstressed i (reported)
+contrahacer  verb class=hacer
 contraindicar verb
 contrapesar  verb
 contraponer  verb class=poner
