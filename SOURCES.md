@@ -107,11 +107,11 @@ them as their source are not counted. Counted on 2026-10-21. Method, normalisati
 
 | Source | Key | URL | Version / date | Licence / legal basis | Kept | Amount counted |
 |---|---|---|---|---|---|---|
-| Latin Wikisource, main namespace | `prose`, `poetry`, `late` | https://dumps.wikimedia.org/lawikisource/ (`lawikisource-latest-pages-articles.xml.bz2`) | dump of 2026-10-01 | the works are in the public domain (ancient and medieval authors, the Clementine Vulgate of 1592, editions published before 1930); a transcription of a public-domain text carries no new rights. Wikisource's own CC BY-SA applies to original contributions (translations, notes, modern texts), which are not counted | counts of the Latin main text of the selected authors (`tools/frequency/sources_la.py`); headers, notes, apparatus, editors' prefaces, translations and pages with a source we do not use left out | 9,331,620 tokens from 583 works (prose 3,658,365; poetry 728,940; late 4,944,315) |
+| Latin Wikisource, main namespace | `prose`, `poetry`, `late` | https://dumps.wikimedia.org/lawikisource/ (`lawikisource-latest-pages-articles.xml.bz2`) | dump of 2026-10-01 | the works are in the public domain (ancient and medieval authors, the Clementine Vulgate of 1592, editions published before 1930); a transcription of a public-domain text carries no new rights. Wikisource's own CC BY-SA applies to original contributions (translations, notes, modern texts), which are not counted | counts of the Latin main text of the selected authors (`tools/frequency/sources_la.py`); headers, notes, apparatus, editors' prefaces, translations and pages with a source we do not use left out | 9,320,429 tokens from 582 works (prose 3,658,365; poetry 717,749; late 4,944,315) |
 | Latin Wikisource, proofread scan pages (`Pagina:`) | `poetry`, `prose` | same dump | dump of 2026-10-01 | public domain: Terence, *Comoediae*, ed. Kauer and Lindsay, Oxford 1926 (public domain in the US; W. M. Lindsay died 1937); Livy, vol. I, ed. Lemaire, Paris 1822 | counts of the text pages (Terence pp. 17-345, without the editors' preface; Livy: preface and book I, footnotes left out) | 64,552 tokens (Terence 50,664; Livy 13,888) |
-| Project Gutenberg (gutenberg.org) | `poetry`, `prose` | https://www.gutenberg.org/ebooks/227, /9646, /7402, /14945 (`cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-21 | public domain in the US; Vergil's *Aeneis* (no editor named), Horace ed. Shorey and Laing (Shorey died 1934, Laing 1945), Sallust ed. Schmitz and Zumpt (1848), Cicero's *Cato maior* ed. Reid and Kelsey (Reid died 1926, Kelsey 1927): public domain also under life + 70 years; PG header, footer and licence text not counted | counts of the Latin text between fixed start and end lines; editors' introductions, notes and footnotes left out | 98,738 tokens from 4 books (Aeneis 63,696; Horace 16,177; Sallust 10,615; Cato maior 8,250) |
+| Project Gutenberg (gutenberg.org) | `poetry`, `prose` | https://www.gutenberg.org/ebooks/227, /9646, /7402, /14945, /23294 (`cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-21 | public domain in the US; Vergil's *Aeneis* (no editor named), Horace ed. Shorey and Laing (Shorey died 1934, Laing 1945), Sallust ed. Schmitz and Zumpt (1848), Cicero's *Cato maior* ed. Reid and Kelsey (Reid died 1926, Kelsey 1927), Catullus ed. Ellis (Ellis died 1913): public domain also under life + 70 years; PG header, footer and licence text not counted | counts of the Latin text between fixed start and end lines; editors' introductions, notes and footnotes left out | 111,589 tokens from 5 books (Aeneis 63,696; Horace 16,177; Catullus 12,851; Sallust 10,615; Cato maior 8,250) |
 
-Total: 9,494,910 tokens, 412,430 distinct forms, 164,954 forms with count >= 3 in `forms.tsv` (see
+Total: 9,496,570 tokens, 412,460 distinct forms, 164,964 forms with count >= 3 in `forms.tsv` (see
 `la/frequency/STATS.md`).
 
 Notes
@@ -119,7 +119,7 @@ Notes
 - 2,785 Wikisource pages of the selected authors were not counted because they name Perseus, The Latin Library,
   Corpus Corporum or PHI as their source (among them Livy I-X and XXI-XXII, Vergil's *Aeneis*, Horace's
   *Carmina*, Sallust's *Catilina*, Cicero's *Cato maior*, most of Plautus and nearly all Patrologia Latina
-  texts). The four Gutenberg books replace four of these works.
+  texts). Four Gutenberg books replace four of these works; Catullus (ed. Ellis) replaces the Wikisource text, which lacks some poems.
 - Pages without a named source edition: public-domain works, edition unknown, counted; pages naming Perseus,
   The Latin Library, Corpus Corporum or PHI excluded (2,785 pages).
 - The Gutenberg catalog lists about 140 books with Latin text; the other canonical ones are either already on
