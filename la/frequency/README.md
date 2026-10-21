@@ -49,8 +49,9 @@ a source we do not use (see below); they are counted only between the first and 
   them Livy books I-X and XXI-XXII (Perseus), Vergil's *Aeneis*, Ovid's *Amores*, Eutropius, most of Plautus
   (The Latin Library), Cicero's *Pro Ligario* (Perseus), the *Rhetorica ad Herennium*, Seneca's *De brevitate
   vitae* and *Agamemnon*, and nearly all Patrologia Latina texts imported from Corpus Corporum.
-- Many older Wikisource pages name no source at all. They are counted: the works are public domain, and a
-  transcription of a public-domain text carries no new rights. Their source cannot be checked further.
+- Pages without a named source edition: public-domain works, edition unknown, counted; pages naming Perseus,
+  The Latin Library, Corpus Corporum or PHI excluded (2,785 pages). Many older Wikisource pages name no source;
+  a transcription of a public-domain text carries no new rights, and only counts are kept.
 - Only the Latin main text is counted: Wikisource headers, navigation, tables, lists of contents, headings,
   footnotes (`<ref>`), sections such as `Notae`, `Adnotationes`, `Apparatus`, sub-pages written by an editor
   (`Monitum`, `Admonitio`, `Prolegomena`, `Notitia`, `Index`, `Praefatio editoris` ...), translations and

@@ -120,7 +120,8 @@ Notes
   Corpus Corporum or PHI as their source (among them Livy I-X and XXI-XXII, Vergil's *Aeneis*, Horace's
   *Carmina*, Sallust's *Catilina*, Cicero's *Cato maior*, most of Plautus and nearly all Patrologia Latina
   texts). The four Gutenberg books replace four of these works.
-- Wikisource pages that name no source are counted (common on older pages); they could not be checked further.
+- Pages without a named source edition: public-domain works, edition unknown, counted; pages naming Perseus,
+  The Latin Library, Corpus Corporum or PHI excluded (2,785 pages).
 - The Gutenberg catalog lists about 140 books with Latin text; the other canonical ones are either already on
   Wikisource or come with English translation and notes in the same file, so they were not counted.
 - Gutenberg access was sequential with a 2 s delay per request (about a dozen books downloaded for inspection).
