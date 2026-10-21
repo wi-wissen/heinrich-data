@@ -65,7 +65,10 @@ affirmation and focus (*no, sí, nunca, jamás, tampoco, también*), interrogati
 (*dónde, cuándo, cómo, cuánto*) and deictic and time-reference adverbs (*aquí, ahí, allí, acá, allá,
 hoy, ayer, ahora, entonces, ya, todavía, aún*), and ordinals as `num`. *siempre, tarde, temprano,
 quizá(s)*, the `-mente` adverbs and *solo* (adjective and adverb with `trad=sólo`) belong to the
-letter authors.
+letter authors. *ir* is kept as a full table in `verb/i.lex` by the d–l author (the validator
+requires verbs in `verb/`); the a–c author does not write it. Spelling variants (`var=`) belong to the
+author of the main form's letter: *judo* `var=yudo`, *kimono* `var=quimono`, *kilo* `var=quilo`,
+*hierba* `var=yerba` (d–l); *quiosco* `var=kiosco`, *seudónimo* `var=pseudónimo` (q–z).
 
 Rounds:
 
