@@ -1,0 +1,33 @@
+# Latin adv entries, letter p: own data, written clean-room (la/lexicon/AUTHORING.md)
+paene adv
+palam adv
+partim adv
+parumper adv
+passim adv
+paulātim adv
+paulisper adv
+paulō adv
+paulum adv
+penitus adv
+perinde adv
+perpetuō adv
+plērumque adv
+porrō adv
+posteā adv
+posthāc adv
+postrēmō adv
+postrīdiē adv
+potissimum adv
+potius adv
+praesertim adv
+praetereā adv
+prīdem adv
+prīdiē adv
+prīmō adv
+prīmum adv
+prīvātim adv
+procul adv
+profectō adv
+prope adv cmp=propius sup=proximē
+prōrsus adv
+prōtinus adv
