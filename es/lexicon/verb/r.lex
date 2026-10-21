@@ -11,6 +11,7 @@ rallar verb
 ramificar verb
 ramonear verb
 rapar verb
+rapear verb
 raptar verb
 rascar verb
 rasgar verb
@@ -45,6 +46,7 @@ rebatir verb
 rebautizar verb
 rebelar verb pronominal
 rebotar verb
+rebozar verb
 rebrotar verb
 rebuscar verb
 recabar verb
@@ -53,6 +55,7 @@ recalar verb
 recalcar verb
 recalentar verb class=ie
 recapacitar verb
+recapitalizar verb
 recapitular verb
 recargar verb
 recatar verb
@@ -60,6 +63,7 @@ recaudar verb
 recelar verb
 recetar verb
 rechazar verb
+rechinar verb
 recibir verb
 reciclar verb
 recitar verb
@@ -81,6 +85,7 @@ reconfortar verb
 reconocer verb class=zco
 reconquistar verb
 reconsiderar verb
+reconstituir verb
 reconstruir verb
 reconvertir verb class=ie_i
 recopilar verb
@@ -100,6 +105,7 @@ recusar verb
 redactar verb
 redefinir verb
 redimir verb
+redirigir verb
 redistribuir verb
 redoblar verb
 redondear verb
@@ -114,6 +120,7 @@ reembolsar verb
 reemplazar verb
 reencontrar verb class=ue
 reenviar verb class=hiatus
+reequilibrar verb
 reescribir verb pp=reescrito
 reestablecer verb class=zco conf=70 note=restablecer is the usual form
 reestructurar verb
@@ -135,6 +142,8 @@ refrendar verb
 refrescar verb
 refrigerar verb
 refugiar verb class=diphthong
+refundar verb
+refundir verb
 refunfuñar verb
 refutar verb
 regalar verb
@@ -162,12 +171,14 @@ reimprimir verb pp=reimpreso|reimprimido
 reinar verb
 reincidir verb
 reincorporar verb
+reindustrializar verb
 reiniciar verb class=diphthong
 reinsertar verb
 reinstaurar verb
 reintegrar verb
 reintroducir verb class=ducir
 reinventar verb
+reinvertir verb class=ie_i
 reír verb class=reír
 reiterar verb
 reivindicar verb
@@ -188,8 +199,10 @@ remachar verb
 remangar verb
 remar verb
 remarcar verb
+remasterizar verb
 rematar verb
 remediar verb class=diphthong
+rememorar verb
 remendar verb class=ie
 remitir verb
 remodelar verb
@@ -204,8 +217,10 @@ renacer verb class=zco
 rendir verb class=i
 renegar verb class=ie
 renegociar verb class=diphthong
+renombrar verb
 renovar verb class=ue
 renquear verb
+rentabilizar verb
 rentar verb
 renunciar verb class=diphthong
 reñir verb class=i
@@ -239,9 +254,11 @@ reprobar verb class=ue
 reprochar verb
 reproducir verb class=ducir
 reprogramar verb
+reptar verb
 repudiar verb class=diphthong
 repugnar verb
 repuntar verb
+reputar verb
 requerir verb class=ie_i
 requisar verb
 resaltar verb
@@ -257,6 +274,7 @@ resguardar verb
 residir verb
 resignar verb
 resistir verb
+resollar verb class=ue
 resolver verb class=ue pp=resuelto
 resonar verb class=ue
 resoplar verb
@@ -268,6 +286,7 @@ resplandecer verb class=zco
 responder verb
 responsabilizar verb
 restablecer verb class=zco
+restallar verb
 restañar verb
 restar verb
 restaurar verb
@@ -318,6 +337,7 @@ revolucionar verb
 revolver verb class=ue pp=revuelto
 rezagar verb
 rezar verb
+rezongar verb
 rezumar verb
 ribetear verb
 ridiculizar verb
@@ -338,6 +358,8 @@ rotar verb
 rotular verb
 roturar verb
 rozar verb
+ruborizar verb
 rubricar verb
 rugir verb
 rumiar verb class=diphthong conf=80 note=rumio; rumío is also heard
+rumorear verb

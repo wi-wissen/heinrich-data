@@ -55,7 +55,9 @@ torcer verb class=ue
 torear verb
 tornar verb
 tornear verb
+torpedear verb
 torturar verb
+toser verb
 tostar verb class=ue
 totalizar verb
 trabajar verb
@@ -83,6 +85,7 @@ transmitir verb
 transpirar verb
 transportar verb
 trascender verb class=ie var=transcender
+trasegar verb class=ie
 trasladar verb
 trasnochar verb
 traspapelar verb
@@ -90,6 +93,7 @@ traspasar verb
 trasplantar verb
 trasponer verb class=poner var=transponer
 trasquilar verb
+trastabillar verb
 trastocar verb
 trastornar verb
 trasvasar verb
@@ -115,5 +119,6 @@ tropezar verb class=ie
 trotar verb
 truncar verb
 tumbar verb
+turbar verb
 tutear verb
 tutelar verb

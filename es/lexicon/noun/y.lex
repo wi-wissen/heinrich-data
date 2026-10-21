@@ -3,10 +3,18 @@ yacimiento noun g=m
 yarda noun g=f
 yate noun g=m
 yegua noun g=f
+yelmo noun g=m
 yema noun g=f
+yen noun g=m
 yerba noun g=f var=hierba conf=70 note=hierba is the usual spelling in Spain
+yerbabuena noun g=f var=hierbabuena conf=70
 yerno noun g=m f=nuera
+yerro noun g=m
+yesca noun g=f
+yesero noun g=m f=yesera
 yeso noun g=m
+yidis noun g=m conf=75 note=yiddish is the foreign spelling
+yihad noun g=f
 yihadismo noun g=m
 yihadista noun g=m|f
 yodo noun g=m
@@ -15,5 +23,7 @@ yogur noun g=m pl=yogures
 yuca noun g=f
 yudo noun g=m var=judo pl=- note=sport, uncountable
 yugo noun g=m
+yugular noun g=f
 yunque noun g=m
+yunta noun g=f
 yuxtaposición noun g=f

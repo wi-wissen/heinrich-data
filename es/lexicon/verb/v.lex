@@ -14,7 +14,9 @@ vanagloriar verb class=diphthong pronominal
 vaporizar verb
 vapulear verb
 varar verb
+varear verb
 variar verb class=hiatus
+vaticinar verb
 vedar verb
 vegetar verb
 velar verb

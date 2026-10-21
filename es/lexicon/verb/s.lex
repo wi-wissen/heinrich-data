@@ -19,6 +19,7 @@ salvar verb
 sanar verb
 sancionar verb
 sanear verb
+sangrar verb
 santificar verb
 santiguar verb
 saquear verb
@@ -48,6 +49,7 @@ sentar verb class=ie
 sentenciar verb class=diphthong
 sentir verb class=ie_i
 señalar verb
+señalizar verb
 separar verb
 sepultar verb
 serenar verb
@@ -55,6 +57,7 @@ sermonear verb
 serpentear verb
 serrar verb class=ie
 servir verb class=i
+sesear verb
 sesgar verb
 significar verb
 silbar verb
@@ -69,6 +72,7 @@ singularizar verb
 sintetizar verb
 sintonizar verb
 sisear verb
+sistematizar verb
 sitiar verb class=diphthong
 situar verb
 sobornar verb
@@ -162,6 +166,7 @@ suplicar verb
 suplir verb
 suponer verb class=poner
 suprimir verb
+supurar verb
 surcar verb
 surfear verb
 surgir verb
