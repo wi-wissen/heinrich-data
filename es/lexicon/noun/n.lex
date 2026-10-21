@@ -35,7 +35,8 @@ nao          noun  g=f style=archaic
 napa         noun  g=f
 napalm       noun  g=m
 napia        noun  g=f style=colloquial alt=nariz
-naranja      noun  g=f
+naranja      noun  g=f sense=fruit
+naranja      noun  g=m sense=colour note=el naranja: the colour
 naranjada    noun  g=f
 naranjal     noun  g=m
 naranjo      noun  g=m

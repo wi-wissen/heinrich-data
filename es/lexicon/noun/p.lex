@@ -168,7 +168,8 @@ pañería      noun  g=f
 paño         noun  g=m
 pañolón      noun  g=m
 pañuelo      noun  g=m
-papa         noun  g=m note=the pope; the potato is patata in Spain
+papa         noun  g=m sense=pope note=the pope
+papa         noun  g=f sense=potato conf=85 note=la papa: potato (Canary Islands, Andalusia; patata elsewhere in Spain); ni papa
 papá         noun  g=m
 papada       noun  g=f
 papado       noun  g=m
@@ -513,7 +514,8 @@ pellizco     noun  g=m
 pelma        noun  g=m|f style=colloquial alt=pesado
 pelmazo      noun  g=m f=pelmaza style=colloquial alt=pesado
 pelo         noun  g=m
-pelota       noun  g=f
+pelota       noun  g=f sense=ball
+pelota       noun  g=m|f sense=flatterer style=colloquial alt=adulador|pelotillero note=un pelota, una pelota
 pelotari     noun  g=m|f
 pelotazo     noun  g=m
 peloteo      noun  g=m
@@ -764,7 +766,8 @@ petrolero    noun  g=m
 petroquímica noun  g=f
 petulancia   noun  g=f
 peyote       noun  g=m
-pez          noun  g=m
+pez          noun  g=m sense=fish
+pez          noun  g=f sense=pitch note=la pez: pitch, tar
 pezón        noun  g=m
 pezonera     noun  g=f
 pezuña       noun  g=f
@@ -1856,7 +1859,8 @@ purismo      noun  g=m
 purista      noun  g=m|f
 puritanismo  noun  g=m
 puritano     noun  g=m f=puritana
-púrpura      noun  g=f
+púrpura      noun  g=f sense=dye note=la púrpura: the dye; purple cloth
+púrpura      noun  g=m sense=colour note=el púrpura: the colour
 purpurado    noun  g=m
 purpurina    noun  g=f
 pus          noun  g=m

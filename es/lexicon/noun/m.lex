@@ -134,7 +134,8 @@ malquerencia noun  g=f
 malta        noun  g=f
 maltratador  noun  g=m f=maltratadora
 maltrato     noun  g=m
-malva        noun  g=f
+malva        noun  g=f sense=plant
+malva        noun  g=m sense=colour note=el malva: the colour
 malvavisco   noun  g=m
 malversación noun  g=f
 malversador  noun  g=m f=malversadora
@@ -364,6 +365,7 @@ marquetería  noun  g=f
 marranada    noun  g=f style=colloquial alt=porquería
 marrano      noun  g=m f=marrana
 marrasquino  noun  g=m
+marrón       noun  g=m note=the colour
 marroquí     noun  g=m|f pl=marroquíes|marroquís[var]
 marroquinería noun  g=f
 marsopa      noun  g=f
@@ -1089,7 +1091,10 @@ moño         noun  g=m
 mopa         noun  g=f
 moqueta      noun  g=f
 mora         noun  g=f note=fruit; also delay in payment
+morado       noun  g=m note=the colour; also a bruise (un morado)
 morador      noun  g=m f=moradora
+moral        noun  g=f sense=ethics note=la moral: ethics; morale
+moral        noun  g=m sense=tree note=el moral: black mulberry tree
 moraleja     noun  g=f
 moralidad    noun  g=f
 moralina     noun  g=f
@@ -1154,7 +1159,8 @@ mosquitero   noun  g=m
 mosquito     noun  g=m
 mostacho     noun  g=m
 mostachón    noun  g=m
-mostaza      noun  g=f
+mostaza      noun  g=f sense=condiment
+mostaza      noun  g=m sense=colour note=el mostaza: the colour
 mosto        noun  g=m
 mostrador    noun  g=m
 mota         noun  g=f
