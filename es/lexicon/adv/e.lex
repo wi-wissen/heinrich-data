@@ -2,3 +2,6 @@
 encima           adv
 enfrente         adv
 enseguida        adv
+entremedias      adv
+entretanto       adv
+extramuros       adv
