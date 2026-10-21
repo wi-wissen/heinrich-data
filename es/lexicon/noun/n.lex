@@ -51,6 +51,7 @@ narcotráfico noun  g=m
 nardo        noun  g=m
 narina       noun  g=f
 nariz        noun  g=f
+narizota     noun  g=f style=colloquial alt=nariz
 narración    noun  g=f
 narrador     noun  g=m f=narradora
 narrativa    noun  g=f
@@ -58,6 +59,7 @@ nártex       noun  g=m
 narval       noun  g=m
 nasa         noun  g=f
 nasalización noun  g=f
+nasofaringe  noun  g=f
 nata         noun  g=f
 natación     noun  g=f
 natalicio    noun  g=m
@@ -252,6 +254,7 @@ ninfa        noun  g=f
 ninfómana    noun  g=f
 ninfomanía   noun  g=f
 ninguneo     noun  g=m
+niñato       noun  g=m f=niñata style=colloquial alt=mocoso|inmaduro
 niñera       noun  g=f
 niñería      noun  g=f
 niñez        noun  g=f

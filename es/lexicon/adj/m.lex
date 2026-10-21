@@ -21,6 +21,7 @@ maduro       adj
 mafioso      adj
 magallánico  adj
 magenta      adj   inv
+magiar       adj
 mágico       adj   adv=mágicamente
 magisterial  adj
 magistral    adj   adv=magistralmente
@@ -148,6 +149,7 @@ materialista adj
 maternal     adj
 materno      adj
 matinal      adj
+matizable    adj
 matriarcal   adj
 matricial    adj
 matrilineal  adj
@@ -489,6 +491,7 @@ muscular     adj
 musculoso    adj
 museístico   adj
 museográfico adj
+musgoso      adj
 musical      adj   adv=musicalmente
 musteriense  adj
 mustio       adj

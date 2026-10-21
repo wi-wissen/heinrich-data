@@ -10,6 +10,7 @@ nacionalsocialista adj
 nahua        adj
 náhuatl      adj   pl=náhuatles note=written pl: the generator drops the accent (nahuatles)
 naíf         adj   pl=naífs
+namibio      adj
 napoleónico  adj
 napolitano   adj
 naranja      adj   inv

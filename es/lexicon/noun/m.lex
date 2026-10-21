@@ -5,13 +5,17 @@ macarrón     noun  g=m
 macedonia    noun  g=f note=fruit salad
 maceración   noun  g=f
 maceta       noun  g=f
+macetero     noun  g=m
 machamartillo noun  g=m note=a machamartillo
+machaqueo    noun  g=m
+machetazo    noun  g=m
 machete      noun  g=m
 machismo     noun  g=m
 machista     noun  g=m|f
 macho        noun  g=m
 macizo       noun  g=m
 macramé      noun  g=m
+macro        noun  g=f note=macroinstrucción (computing)
 macroeconomía noun  g=f
 macroencuesta noun  g=f
 macrófago    noun  g=m
@@ -19,6 +23,7 @@ macromolécula noun  g=f
 macrón       noun  g=m
 macrorregión noun  g=f
 mácula       noun  g=f
+maculopatía  noun  g=f
 macuto       noun  g=m
 madama       noun  g=f
 madeja       noun  g=f
@@ -37,6 +42,7 @@ madrina      noun  g=f
 madroño      noun  g=m
 madrugada    noun  g=f
 madrugador   noun  g=m f=madrugadora
+madrugón     noun  g=m
 maduración   noun  g=f
 madurez      noun  g=f
 maestranza   noun  g=f
@@ -122,8 +128,10 @@ malva        noun  g=f
 malvavisco   noun  g=m
 malversación noun  g=f
 malversador  noun  g=m f=malversadora
+malware      noun  g=m foreign
 mama         noun  g=f note=breast; also colloquial for mother
 mamá         noun  g=f
+mamada       noun  g=f style=vulgar alt=felación
 mamarracho   noun  g=m
 mamba        noun  g=f
 mambo        noun  g=m
@@ -136,6 +144,7 @@ mamón        noun  g=m f=mamona style=vulgar alt=imbécil
 mamotreto    noun  g=m
 mampara      noun  g=f
 mamparo      noun  g=m
+mamporro     noun  g=m style=colloquial alt=golpe
 mampostería  noun  g=f
 mampostero   noun  g=m
 mamut        noun  g=m
@@ -145,6 +154,7 @@ mánager      noun  g=m|f pl=mánagers foreign conf=80 note=English loan
 manantial    noun  g=m
 manatí       noun  g=m pl=manatíes|manatís[var]
 manaza       noun  g=f
+manazas      noun  g=m|f style=colloquial alt=torpe
 mancebo      noun  g=m f=manceba
 mancha       noun  g=f
 manchego     noun  g=m f=manchega
@@ -376,12 +386,14 @@ masón        noun  g=m f=masona
 masonería    noun  g=f
 masoquismo   noun  g=m
 masoquista   noun  g=m|f
+mastectomía  noun  g=f
 mastelero    noun  g=m
 máster       noun  g=m pl=másteres|másters[var]
 masterización noun  g=f
 masticación  noun  g=f
 mástil       noun  g=m
 mastín       noun  g=m
+mastitis     noun  g=f
 mastodonte   noun  g=m
 mastuerzo    noun  g=m
 masturbación noun  g=f
@@ -503,6 +515,7 @@ meditación   noun  g=f
 medro        noun  g=m
 médula       noun  g=f
 medusa       noun  g=f
+megabit      noun  g=m pl=megabits
 megabyte     noun  g=m foreign var=megabait conf=80
 megafauna    noun  g=f
 megafonía    noun  g=f
@@ -526,6 +539,7 @@ melancolía   noun  g=f
 melanina     noun  g=f
 melanismo    noun  g=m
 melanoma     noun  g=m
+melatonina   noun  g=f
 melaza       noun  g=f
 melena       noun  g=f
 melindre     noun  g=m
@@ -569,6 +583,7 @@ mengano      noun  g=m f=mengana
 mengua       noun  g=f
 menhir       noun  g=m
 meningitis   noun  g=f
+meningococo  noun  g=m
 menisco      noun  g=m
 menonita     noun  g=m|f
 menopausia   noun  g=f
@@ -625,6 +640,7 @@ merluza      noun  g=f
 merma        noun  g=f
 mermelada    noun  g=f
 mero         noun  g=m sense=fish
+merodeador   noun  g=m f=merodeadora
 mes          noun  g=m
 mesa         noun  g=f
 mesana       noun  g=f
@@ -700,6 +716,7 @@ mexicano     noun  g=m f=mexicana
 mezcal       noun  g=m
 mezcla       noun  g=f
 mezclador    noun  g=m
+mezcladora   noun  g=f
 mezclilla    noun  g=f
 mezcolanza   noun  g=f
 mezquindad   noun  g=f
@@ -712,6 +729,7 @@ micción      noun  g=f
 micelio      noun  g=m
 mico         noun  g=m
 micólogo     noun  g=m f=micóloga
+micosis      noun  g=f
 micra        noun  g=f
 microbio     noun  g=m
 microbiología noun  g=f
@@ -835,6 +853,7 @@ minuta       noun  g=f
 minuto       noun  g=m
 miocardio    noun  g=m
 mioceno      noun  g=m
+mioma        noun  g=m
 miopía       noun  g=f
 miosina      noun  g=f
 mirada       noun  g=f
@@ -959,6 +978,7 @@ monaguillo   noun  g=m
 monarca      noun  g=m|f
 monarquía    noun  g=f
 monasterio   noun  g=m
+monda        noun  g=f
 mondadientes noun  g=m
 mondongo     noun  g=m
 moneda       noun  g=f
@@ -986,6 +1006,7 @@ monologuista noun  g=m|f
 monomanía    noun  g=f
 monómero     noun  g=m
 monomito     noun  g=m
+mononucleosis noun  g=f
 monoparentalidad noun  g=f
 monopatín    noun  g=m
 monopatinaje noun  g=m
@@ -1036,10 +1057,13 @@ moralidad    noun  g=f
 moralina     noun  g=f
 moralismo    noun  g=m
 moralista    noun  g=m|f
+moralización noun  g=f
+moratón      noun  g=m
 moratoria    noun  g=f
 morbidez     noun  g=f
 morbilidad   noun  g=f
 morbo        noun  g=m
+morbosidad   noun  g=f
 morcilla     noun  g=f
 morcillo     noun  g=m
 morcón       noun  g=m

@@ -80,6 +80,7 @@ ológrafo     adj
 oloroso      adj
 olvidable    adj
 olvidadizo   adj
+omaní        adj   pl=omaníes|omanís[var]
 omeya        adj
 ominoso      adj
 omiso        adj   note=hacer caso omiso

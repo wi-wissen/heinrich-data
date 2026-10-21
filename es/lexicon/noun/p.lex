@@ -43,6 +43,7 @@ paja         noun  g=f
 pajar        noun  g=m
 pajarera     noun  g=f
 pajarería    noun  g=f
+pajarero     noun  g=m
 pajarillo    noun  g=m
 pajarita     noun  g=f
 pájaro       noun  g=m
@@ -81,6 +82,7 @@ paliativo    noun  g=m
 palidez      noun  g=f
 palillero    noun  g=m
 palillo      noun  g=m
+palíndromo   noun  g=m
 palique      noun  g=m style=colloquial alt=charla
 palitroque   noun  g=m
 paliza       noun  g=f
@@ -270,9 +272,11 @@ parlamentarismo noun  g=m
 parlamento   noun  g=m
 parlanchín   noun  g=m f=parlanchina
 parloteo     noun  g=m
+parné        noun  g=m style=colloquial alt=dinero
 paro         noun  g=m
 parodia      noun  g=f
 parón        noun  g=m
+parónimo     noun  g=m
 paroxismo    noun  g=m
 parpadeo     noun  g=m
 párpado      noun  g=m
@@ -411,6 +415,7 @@ patronazgo   noun  g=m
 patrono      noun  g=m f=patrona
 patrulla     noun  g=f
 patrullaje   noun  g=m
+patrullera   noun  g=f
 patrullero   noun  g=m
 pausa        noun  g=f
 pauta        noun  g=f
@@ -448,6 +453,7 @@ peculio      noun  g=m
 pedagogía    noun  g=f
 pedagogo     noun  g=m f=pedagoga
 pedal        noun  g=m
+pedaleo      noun  g=m
 pedanía      noun  g=f
 pedante      noun  g=m|f
 pedantería   noun  g=f
@@ -480,6 +486,7 @@ peinador     noun  g=m
 peine        noun  g=m
 peineta      noun  g=f
 pejerrey     noun  g=m
+pelado       noun  g=m
 pelagatos    noun  g=m|f style=colloquial alt=don_nadie
 pelaje       noun  g=m
 pelapatatas  noun  g=m
@@ -612,6 +619,7 @@ pericardio   noun  g=m
 pericia      noun  g=f
 perico       noun  g=m
 periferia    noun  g=f
+periférico   noun  g=m
 perifollo    noun  g=m
 perífrasis   noun  g=f
 perihelio    noun  g=m
@@ -992,6 +1000,7 @@ pleno        noun  g=m
 pleonasmo    noun  g=m
 plesiosaurio noun  g=m
 plétora      noun  g=f
+pleura       noun  g=f
 pleuresía    noun  g=f
 plexo        noun  g=m
 pléyade      noun  g=f
@@ -1092,6 +1101,7 @@ pólipo       noun  g=m
 polipropileno noun  g=m
 poliqueto    noun  g=m
 polisacárido noun  g=m
+polisemia    noun  g=f
 politécnico  noun  g=m
 politeísmo   noun  g=m
 política     noun  g=f
@@ -1229,6 +1239,7 @@ posmodernismo noun  g=m var=postmodernismo
 posmoderno   noun  g=m f=posmoderna
 poso         noun  g=m
 posología    noun  g=f
+posoperatorio noun  g=m var=postoperatorio
 pospandemia  noun  g=f
 posparto     noun  g=m var=postparto
 posposición  noun  g=f
@@ -1307,6 +1318,7 @@ precepto     noun  g=m
 preceptor    noun  g=m f=preceptora
 preces       noun  g=f pl_only
 precesión    noun  g=f
+precintado   noun  g=m
 precinto     noun  g=m
 precio       noun  g=m
 preciosidad  noun  g=f
@@ -1616,6 +1628,7 @@ prosecución  noun  g=f
 proselitismo noun  g=m
 prosélito    noun  g=m f=prosélita
 prosista     noun  g=m|f
+prosodia     noun  g=f
 prosopagnosia noun  g=f
 prosopopeya  noun  g=f
 prospección  noun  g=f
@@ -1806,7 +1819,9 @@ purgante     noun  g=m
 purgatorio   noun  g=m
 puridad      noun  g=f
 purificación noun  g=f
+purificador  noun  g=m
 purín        noun  g=m
+purismo      noun  g=m
 purista      noun  g=m|f
 puritanismo  noun  g=m
 puritano     noun  g=m f=puritana

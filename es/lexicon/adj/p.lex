@@ -7,6 +7,7 @@ paciente     adj   adv=pacientemente
 pacificador  adj
 pacífico     adj   adv=pacíficamente
 pacifista    adj
+pactista     adj
 pagadero     adj
 pagano       adj
 paisajístico adj
@@ -25,6 +26,7 @@ paliativo    adj
 pálido       adj
 paliducho    adj   style=colloquial alt=pálido
 palmario     adj   adv=palmariamente
+palmesano    adj
 palmípedo    adj
 palpable     adj
 palpitante   adj
@@ -44,6 +46,7 @@ panorámico   adj
 pantanoso    adj
 panzudo      adj
 papal        adj
+papelero     adj
 papú         adj   pl=papúes|papús[var]
 paquistaní   adj   pl=paquistaníes|paquistanís[var] var=pakistaní
 parabólico   adj
@@ -105,6 +108,7 @@ pastoral     adj
 pastoril     adj
 pastoso      adj
 patagónico   adj
+patentable   adj
 patente      adj   adv=patentemente
 paternal     adj   adv=paternalmente
 paternalista adj
@@ -223,6 +227,7 @@ peronista    adj
 perpendicular adj   adv=perpendicularmente
 perpetuo     adj   adv=perpetuamente
 perplejo     adj
+perruno      adj
 persa        adj
 persecutorio adj
 perseguible  adj
@@ -374,6 +379,7 @@ pompeyano    adj
 pomposo      adj   adv=pomposamente
 ponderado    adj   adv=ponderadamente
 ponedor      adj
+pontevedrés  adj
 pontifical   adj
 pontificio   adj
 ponzoñoso    adj
@@ -408,6 +414,7 @@ posicional   adj
 positivista  adj
 positivo     adj   adv=positivamente
 posmoderno   adj
+posoperatorio adj   var=postoperatorio
 posrevolucionario adj
 postal       adj
 posterior    adj   adv=posteriormente
@@ -572,6 +579,7 @@ pródigo      adj
 productivo   adj
 profano      adj
 profesional  adj   adv=profesionalmente
+profesoral   adj
 profético    adj
 profiláctico adj
 prófugo      adj
@@ -689,6 +697,7 @@ puñetero     adj   style=vulgar alt=fastidioso|maldito
 pupilar      adj
 purépecha    adj
 purificador  adj
+purista      adj
 puritano     adj
 puro         adj   adv=puramente place=both
 púrpura      adj   inv conf=85 note=colour; also agreeing púrpuras is heard
