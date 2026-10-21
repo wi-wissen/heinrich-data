@@ -564,6 +564,7 @@ dulzón           adj
 dunar            adj
 duodecimal       adj
 duodenal         adj
+duplo            adj
 durable          adj
 duradero         adj adv=duraderamente
 durmiente        adj

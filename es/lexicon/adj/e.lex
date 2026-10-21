@@ -56,6 +56,7 @@ ejemplarizante   adj
 ejerciente       adj
 ejercitable      adj
 ejidal           adj
+elamita          adj
 elástico         adj adv=elásticamente
 electivo         adj
 electo           adj

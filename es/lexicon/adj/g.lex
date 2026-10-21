@@ -165,10 +165,12 @@ guarro           adj   style=colloquial alt=sucio
 guasón           adj
 guatemalteco     adj
 guay             adj   pl=guais style=colloquial alt=estupendo|genial
+guayanés         adj
 gubernamental    adj adv=gubernamentalmente
 gubernativo      adj adv=gubernativamente
 güelfo           adj
 guerrillero      adj
+guineano         adj
 guipuzcoano      adj
 gustativo        adj
 gustoso          adj   adv=gustosamente

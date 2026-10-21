@@ -4,6 +4,7 @@ jacobino         adj
 jacobita         adj
 jactancioso      adj
 jadeante         adj
+jainista         adj
 jamaicano        adj
 jamaiquino       adj
 japonés          adj
@@ -18,6 +19,7 @@ jesuítico        adj
 jiennense        adj   var=jienense
 jocoso           adj   adv=jocosamente
 jónico           adj
+jonio            adj
 jordano          adj
 jorobado         adj
 joven            adj
@@ -38,6 +40,7 @@ jurídico         adj   adv=jurídicamente
 jurisdiccional   adj adv=jurisdiccionalmente
 jurisprudencial  adj adv=jurisprudencialmente
 justiciable      adj
+justicialista    adj
 justiciero       adj
 justificable     adj
 justificado      adj   adv=justificadamente
