@@ -121,7 +121,7 @@ desagregar       verb
 desaguar         verb
 desahogar        verb
 desahuciar       verb  class=diphthong
-desairar         verb  class=hiatus conf=85 note=desaíro, desaíra
+desairar         verb  conf=90 note=desairo (diphthong) is the usual form; desaíro with hiatus is also accepted
 desajustar       verb
 desalar          verb
 desalentar       verb  class=ie
