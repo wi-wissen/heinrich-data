@@ -992,6 +992,8 @@ molde        noun  g=m
 moldeado     noun  g=m
 moldeo       noun  g=m
 moldura      noun  g=f
+mole         noun  g=m sense=sauce note=el mole: Mexican sauce
+mole         noun  g=f sense=mass note=la mole: huge mass, bulk (la mole del edificio)
 molécula     noun  g=f
 molestia     noun  g=f
 molibdeno    noun  g=m
