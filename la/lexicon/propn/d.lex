@@ -6,4 +6,4 @@ Delphī, Delphōrum propn m pl_only loc
 Diāna, Diānae propn f
 Dīdō, Dīdōnis propn f
 Dīviciācus, Dīviciācī propn m
-Dumnorix, Dumnorigis propn m
+Dumnorīx, Dumnorīgis propn m

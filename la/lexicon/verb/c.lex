@@ -53,6 +53,7 @@ concidō, concidī, -, concidere verb intr note=no long vowel in the lemma
 conciliō, conciliāvī, conciliātum, conciliāre verb
 concipiō, concēpī, conceptum, concipere verb
 concitō, concitāvī, concitātum, concitāre verb
+conclūdō, conclūsī, conclūsum, conclūdere verb
 concurrō, concurrī|concucurrī, concursum, concurrere verb intr
 condemnō, condemnāvī, condemnātum, condemnāre verb
 condō, condidī, conditum, condere verb
@@ -66,6 +67,7 @@ cōnfugiō, cōnfūgī, -, cōnfugere verb intr
 cōnfundō, cōnfūdī, cōnfūsum, cōnfundere verb
 congredior, congressus sum, congredī verb note=no long vowel in the lemma
 congregō, congregāvī, congregātum, congregāre verb
+congruō, congruī, -, congruere verb intr note=no long vowel in the lemma
 coniciō, coniēcī, coniectum, conicere verb
 coniungō, coniūnxī, coniūnctum, coniungere verb
 cōnor, cōnātus sum, cōnārī verb
@@ -95,7 +97,9 @@ contingō, contigī, contāctum, contingere verb
 contrahō, contrāxī, contractum, contrahere verb
 conveniō, convēnī, conventum, convenīre verb
 convertō, convertī, conversum, convertere verb
+convocō, convocāvī, convocātum, convocāre verb
 coquō, coxī, coctum, coquere verb
+corōnō, corōnāvī, corōnātum, corōnāre verb
 corrigō, corrēxī, corrēctum, corrigere verb
 corripiō, corripuī, correptum, corripere verb
 corrumpō, corrūpī, corruptum, corrumpere verb

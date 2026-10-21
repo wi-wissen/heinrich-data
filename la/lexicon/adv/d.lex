@@ -1,5 +1,5 @@
 # Latin content adverbs, letter d. Written from own knowledge (AUTHORING.md §1).
-dēcenter adv
+decenter adv
 dēmum adv
 dēnuō adv
 deorsum adv

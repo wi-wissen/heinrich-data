@@ -1,4 +1,6 @@
 # Latin nouns, letter d. Written from own knowledge (AUTHORING.md §1).
+daemōn, daemonis noun m greek
+damnātiō, damnātiōnis noun f
 damnum, damnī noun n
 daps, dapis noun f
 dea, deae noun f dat_pl=deīs|deābus
@@ -36,6 +38,7 @@ differentia, differentiae noun f
 difficultās, difficultātis noun f
 digitus, digitī noun m
 dignitās, dignitātis noun f
+dīlēctiō, dīlēctiōnis noun f style=late
 dīlēctus, dīlēctūs noun m conf=85 note=length of the e (as in dīlēxī)?
 dīligentia, dīligentiae noun f
 disceptātiō, disceptātiōnis noun f

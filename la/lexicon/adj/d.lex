@@ -15,7 +15,7 @@ dīmidius, dīmidia, dīmidium adj nocmp
 dīrus, dīra, dīrum adj nocmp
 discors, discordis adj
 disertus, diserta, disertum adj adv
-dispar, disparis adj nocmp
+dispar, disparis adj nocmp note=short final a in the compound (nominative pār long only as a monosyllable)
 dissimilis, dissimile adj sup=dissimillimus
 diūturnus, diūturna, diūturnum adj
 dīversus, dīversa, dīversum adj adv
@@ -23,6 +23,7 @@ dīves, dīvitis adj stem=cons cmp=dīvitior|dītior sup=dīvitissimus|dītissim
 dīvīnus, dīvīna, dīvīnum adj adv
 doctus, docta, doctum adj adv
 domesticus, domestica, domesticum adj nocmp
+dominicus, dominica, dominicum adj nocmp style=late
 dubius, dubia, dubium adj
 dulcis, dulce adj adv
 duplex, duplicis adj nocmp adv=dupliciter

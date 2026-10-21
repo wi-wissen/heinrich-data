@@ -4,12 +4,15 @@ caelestis, caeleste adj nocmp var=coelestis[medieval]
 caeruleus, caerulea, caeruleum adj
 calidus, calida, calidum adj
 callidus, callida, callidum adj adv
+Campānus, Campāna, Campānum adj nocmp note=ethnic adjective, capitalised
 candidus, candida, candidum adj
 cānus, cāna, cānum adj
 capāx, capācis adj
 captīvus, captīva, captīvum adj nocmp
+Carthāginiēnsis, Carthāginiēnse adj nocmp note=ethnic adjective, capitalised
 cārus, cāra, cārum adj adv
 castus, casta, castum adj adv
+catholicus, catholica, catholicum adj nocmp style=late
 cavus, cava, cavum adj nocmp
 celeber, celebris, celebre adj
 celer, celeris, celere adj adv
@@ -35,6 +38,7 @@ contumāx, contumācis adj adv
 cōpiōsus, cōpiōsa, cōpiōsum adj adv
 cotīdiānus, cotīdiāna, cotīdiānum adj nocmp var=cottīdiānus
 crassus, crassa, crassum adj
+crāstinus, crāstina, crāstinum adj nocmp
 crēber, crēbra, crēbrum adj
 crēdibilis, crēdibile adj note=superlative crēdibilissimus (not one of the six -limus adjectives)
 crūdēlis, crūdēle adj adv

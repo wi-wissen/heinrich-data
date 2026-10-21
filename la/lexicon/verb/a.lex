@@ -21,7 +21,7 @@ adeō, adiī, aditum, adīre verb class=eo
 adhaereō, adhaesī, adhaesum, adhaerēre verb intr
 adhibeō, adhibuī, adhibitum, adhibēre verb
 adiciō, adiēcī, adiectum, adicere verb
-adimō, adēmī, ademptum, adimere verb
+adimō, adēmī, adēmptum, adimere verb
 adipīscor, adeptus sum, adipīscī verb
 adiungō, adiūnxī, adiūnctum, adiungere verb
 adiuvō, adiūvī, adiūtum, adiuvāre verb
@@ -31,9 +31,11 @@ admittō, admīsī, admissum, admittere verb
 admoneō, admonuī, admonitum, admonēre verb
 admoveō, admōvī, admōtum, admovēre verb
 adorior, adortus sum, adorīrī verb note=no long vowel in the lemma
+adōrō, adōrāvī, adōrātum, adōrāre verb
 adsum, adfuī, adfutūrus, adesse verb class=sum
 adveniō, advēnī, adventum, advenīre verb intr
 adventō, adventāvī, adventātum, adventāre verb intr
+advertō, advertī, adversum, advertere verb
 aedificō, aedificāvī, aedificātum, aedificāre verb
 aequō, aequāvī, aequātum, aequāre verb
 aestimō, aestimāvī, aestimātum, aestimāre verb
@@ -54,10 +56,12 @@ amō, amāvī, amātum, amāre verb
 amplector, amplexus sum, amplectī verb note=no long vowel in the lemma
 animadvertō, animadvertī, animadversum, animadvertere verb
 annuō, annuī, annūtum, annuere verb intr var=adnuō
+antecēdō, antecessī, antecessum, antecēdere verb
 aperiō, aperuī, apertum, aperīre verb
 appāreō, appāruī, appāritūrus, appārēre verb intr
 appellō, appellāvī, appellātum, appellāre verb
 appetō, appetīvī|appetiī, appetītum, appetere verb
+applicō, applicāvī|applicuī, applicātum|applicitum, applicāre verb
 appōnō, apposuī, appositum, appōnere verb
 apprehendō, apprehendī, apprehēnsum, apprehendere verb
 appropinquō, appropinquāvī, appropinquātum, appropinquāre verb intr

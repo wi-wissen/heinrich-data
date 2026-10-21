@@ -8,11 +8,13 @@ acūtus, acūta, acūtum adj adv
 admīrābilis, admīrābile adj adv note=superlative admīrābilissimus (not one of the six -limus adjectives)
 adversus, adversa, adversum adj nocmp
 aeger, aegra, aegrum adj adv
+Aegyptius, Aegyptia, Aegyptium adj nocmp note=ethnic adjective, capitalised
 aemulus, aemula, aemulum adj nocmp
 aequālis, aequāle adj adv nocmp
 aequus, aequa, aequum adj adv
 aestīvus, aestīva, aestīvum adj nocmp
 aeternus, aeterna, aeternum adj nocmp
+Āfricānus, Āfricāna, Āfricānum adj nocmp note=ethnic adjective, capitalised
 agrestis, agreste adj nocmp
 alacer, alacris, alacre adj adv
 albus, alba, album adj nocmp
@@ -30,7 +32,7 @@ anceps, ancipitis adj nocmp
 angustus, angusta, angustum adj adv
 annuus, annua, annuum adj nocmp
 antīquus, antīqua, antīquum adj adv
-anxius, anxia, anxium adj adv
+anxius, anxia, anxium adj adv conf=80 note=length of the a before nx?
 apertus, aperta, apertum adj adv
 apostolicus, apostolica, apostolicum adj nocmp style=late
 aptus, apta, aptum adj adv
@@ -41,6 +43,7 @@ argenteus, argentea, argenteum adj nocmp
 asper, aspera, asperum adj adv
 assiduus, assidua, assiduum adj adv var=adsiduus
 āter, ātra, ātrum adj nocmp
+Athēniēnsis, Athēniēnse adj nocmp note=ethnic adjective, capitalised
 atrōx, atrōcis adj adv
 attonitus, attonita, attonitum adj nocmp
 audāx, audācis adj adv=audācter

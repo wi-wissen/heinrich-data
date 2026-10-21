@@ -4,7 +4,7 @@ abundē adv
 adeō adv
 admodum adv
 affatim adv var=adfatim
-alioquī|alioquīn adv
+aliōquī|aliōquīn adv
 aliquamdiū adv
 aliquantō adv
 aliquantum adv

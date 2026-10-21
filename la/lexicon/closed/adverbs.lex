@@ -67,4 +67,4 @@ umquam adv type=ind var=unquam
 unde adv type=int
 undique adv type=tot
 usquam adv type=ind
-ūsque adv
+ūsque adv conf=80 note=length of the u (usquam short)?

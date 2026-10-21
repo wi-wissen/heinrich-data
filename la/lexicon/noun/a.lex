@@ -29,6 +29,7 @@ aedificium, aedificiī noun n
 aedīlis, aedīlis noun m
 aegritūdō, aegritūdinis noun f
 aemulātiō, aemulātiōnis noun f
+aequālitās, aequālitātis noun f
 aequinoctium, aequinoctiī noun n
 aequitās, aequitātis noun f
 aequor, aequoris noun n
@@ -41,8 +42,9 @@ aestimātiō, aestimātiōnis noun f
 aestus, aestūs noun m
 aetās, aetātis noun f
 aeternitās, aeternitātis noun f
-aether, aetheris noun m greek sg_only
+aethēr, aetheris noun m greek sg_only
 aevum, aevī noun n
+affectiō, affectiōnis noun f
 affirmātiō, affirmātiōnis noun f
 ager, agrī noun m
 agger, aggeris noun m
@@ -57,6 +59,7 @@ altitūdō, altitūdinis noun f
 alumnus, alumnī noun m
 alveus, alveī noun m
 alvus, alvī noun f
+amāritūdō, amāritūdinis noun f
 amātor, amātōris noun m
 ambitiō, ambitiōnis noun f
 ambitus, ambitūs noun m
@@ -76,6 +79,7 @@ angulus, angulī noun m
 angustiae, angustiārum noun f pl_only
 anima, animae noun f
 animal, animālis noun n
+animāns, animantis noun c
 animus, animī noun m
 annōna, annōnae noun f
 annus, annī noun m
@@ -90,6 +94,7 @@ apparātus, apparātūs noun m
 appellātiō, appellātiōnis noun f
 aqua, aquae noun f
 aquila, aquilae noun f
+aquilō, aquilōnis noun m
 āra, ārae noun f
 arātor, arātōris noun m
 arātrum, arātrī noun n
@@ -98,13 +103,15 @@ arbitrium, arbitriī noun n
 arbor, arboris noun f nom_sg=arbor|arbōs[poetic]
 arbustum, arbustī noun n
 arca, arcae noun f
-arcus, arcūs noun m
+archiepiscopus, archiepiscopī noun m style=late
+arcus, arcūs noun m dat_pl=arcubus
 ārdor, ārdōris noun m conf=90 note=length of the a (as in ārdeō)?
 ārea, āreae noun f
 argentum, argentī noun n
 argūmentum, argūmentī noun n
 ariēs, arietis noun m
 arma, armōrum noun n pl_only
+armentum, armentī noun n
 ars, artis noun f
 articulus, articulī noun m
 artifex, artificis noun c
@@ -115,7 +122,7 @@ arx, arcis noun f
 asinus, asinī noun m
 aspectus, aspectūs noun m
 astrum, astrī noun n
-atrium, atriī noun n
+ātrium, ātriī noun n conf=90 note=reviewer-dispute; length of the a?
 auctor, auctōris noun c
 auctōritās, auctōritātis noun f
 audācia, audāciae noun f

@@ -31,7 +31,7 @@ quīdam pron class=qui
 quīlibet pron class=qui
 quis pron class=quis
 quispiam pron class=quis
-quisquam pron class=quis
+quisquam pron class=quis nom_sg_f=quisquam acc_sg_f=quemquam abl_sg_f=quōquam note=one form for both genders
 quisque pron class=quis
 quisquis pron class=quis
 quīvīs pron class=qui

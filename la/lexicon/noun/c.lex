@@ -9,12 +9,15 @@ calamus, calamī noun m
 calculus, calculī noun m
 cālīgō, cālīginis noun f
 calor, calōris noun m
+calumnia, calumniae noun f
 calx, calcis noun f
 campus, campī noun m
 candor, candōris noun m
 canis, canis noun c stem=cons
 cantus, cantūs noun m
 capillus, capillī noun m
+capitulum, capitulī noun n
+captīvitās, captīvitātis noun f
 caput, capitis noun n
 carcer, carceris noun m
 cardō, cardinis noun m
@@ -26,6 +29,7 @@ carō, carnis noun f gen_pl=carnium
 casa, casae noun f
 cassis, cassidis noun f
 castellum, castellī noun n
+castitās, castitātis noun f
 castra, castrōrum noun n pl_only
 castrum, castrī noun n
 cāsus, cāsūs noun m
@@ -34,6 +38,7 @@ caterva, catervae noun f
 cauda, caudae noun f
 caulis, caulis noun m
 causa, causae noun f var=caussa[archaic]
+celeritās, celeritātis noun f
 cella, cellae noun f
 cēna, cēnae noun f var=coena[medieval]
 cēnsor, cēnsōris noun m
@@ -44,6 +49,7 @@ cēra, cērae noun f
 cerebrum, cerebrī noun n
 certāmen, certāminis noun n
 cervīx, cervīcis noun f
+charta, chartae noun f
 chorus, chorī noun m
 cibus, cibī noun m
 cicātrīx, cicātrīcis noun f
@@ -60,6 +66,7 @@ classis, classis noun f abl_sg=classe|classī
 claustrum, claustrī noun n
 clāvis, clāvis noun f
 clēmentia, clēmentiae noun f
+clēricus, clēricī noun m style=late
 cliēns, clientis noun c
 clipeus, clipeī noun m
 coetus, coetūs noun m
@@ -99,6 +106,7 @@ concursus, concursūs noun m
 condiciō, condiciōnis noun f var=conditiō[medieval]
 conditor, conditōris noun m
 cōnfessiō, cōnfessiōnis noun f
+cōnfūsiō, cōnfūsiōnis noun f
 congressus, congressūs noun m
 coniectūra, coniectūrae noun f
 coniugium, coniugiī noun n
@@ -120,7 +128,7 @@ cōnsultum, cōnsultī noun n
 contemplātiō, contemplātiōnis noun f
 contentiō, contentiōnis noun f
 continentia, continentiae noun f
-contiō, contiōnis noun f
+cōntiō, cōntiōnis noun f
 contrōversia, contrōversiae noun f conf=80 note=length of the o in contrō-?
 contubernium, contuberniī noun n
 contumēlia, contumēliae noun f
@@ -136,6 +144,7 @@ corōna, corōnae noun f
 corpus, corporis noun n
 cortex, corticis noun c
 crassitūdō, crassitūdinis noun f
+creātor, creātōris noun m
 creātūra, creātūrae noun f style=late
 crīmen, crīminis noun n
 crīnis, crīnis noun m

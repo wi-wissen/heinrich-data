@@ -34,6 +34,7 @@ dēpendeō, -, -, dēpendēre verb intr
 dēpōnō, dēposuī, dēpositum, dēpōnere verb
 dēprecor, dēprecātus sum, dēprecārī verb
 dēprehendō, dēprehendī, dēprehēnsum, dēprehendere verb
+dērelinquō, dērelīquī, dērelictum, dērelinquere verb
 dēscendō, dēscendī, dēscēnsum, dēscendere verb intr
 dēscrībō, dēscrīpsī, dēscrīptum, dēscrībere verb
 dēserō, dēseruī, dēsertum, dēserere verb
@@ -45,10 +46,12 @@ dēspērō, dēspērāvī, dēspērātum, dēspērāre verb
 dēspiciō, dēspexī, dēspectum, dēspicere verb
 dēstinō, dēstināvī, dēstinātum, dēstināre verb
 dēstituō, dēstituī, dēstitūtum, dēstituere verb
+dēstruō, dēstrūxī, dēstrūctum, dēstruere verb
 dēsum, dēfuī, dēfutūrus, dēesse verb class=sum
 dētineō, dētinuī, dētentum, dētinēre verb
 dētrahō, dētrāxī, dētractum, dētrahere verb
 dēveniō, dēvēnī, dēventum, dēvenīre verb intr
+dēvorō, dēvorāvī, dēvorātum, dēvorāre verb
 dēvoveō, dēvōvī, dēvōtum, dēvovēre verb
 dīcō, dīxī, dictum, dīcere verb imp=dīc
 differō, distulī, dīlātum, differre verb class=fero
@@ -62,6 +65,7 @@ discēdō, discessī, discessum, discēdere verb intr
 discernō, discrēvī, discrētum, discernere verb
 discō, didicī, -, discere verb
 discurrō, discucurrī|discurrī, discursum, discurrere verb intr
+discutiō, discussī, discussum, discutere verb
 dispergō, dispersī, dispersum, dispergere verb
 displiceō, displicuī, displicitum, displicēre verb intr
 dispōnō, disposuī, dispositum, dispōnere verb

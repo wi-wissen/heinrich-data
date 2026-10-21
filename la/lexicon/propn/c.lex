@@ -10,7 +10,7 @@ Catilīna, Catilīnae propn m
 Catō, Catōnis propn m
 Catullus, Catullī propn m
 Cerēs, Cereris propn f
-Christus, Christī propn m
+Chrīstus, Chrīstī propn m
 Cicerō, Cicerōnis propn m
 Claudius, Claudiī propn m
 Clōdius, Clōdiī propn m
