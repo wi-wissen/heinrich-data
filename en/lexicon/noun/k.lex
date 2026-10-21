@@ -35,6 +35,8 @@ keystone noun
 keystroke noun
 keyword noun
 khaki noun pl=khakis
+khan noun
+khanate noun
 Khmer noun pl=Khmer
 kibbutz noun pl=kibbutzim|kibbutzes
 kick           noun

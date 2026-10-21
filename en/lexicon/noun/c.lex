@@ -19,6 +19,7 @@ cafetière noun region=GB conf=90 note=also written cafetiere; US French press
 caffeine noun pl=- note=uncountable
 café noun conf=90 note=also written cafe
 cage noun
+caiman noun pl=caimans
 cairn noun
 cake noun vb=bake|make|eat|cut
 calamari noun pl=- note=used as a mass noun
@@ -38,6 +39,7 @@ call noun vb=make|take|get|answer|return|give xvb=do?
 callback noun
 caller noun
 calligraphy noun pl=- note=uncountable
+callosum noun pl=callosa note=as in corpus callosum
 calm noun
 calmness noun pl=- note=uncountable
 calorie noun
@@ -81,6 +83,8 @@ candlestick noun
 candor noun gb=candour pl=- note=uncountable
 candy noun
 cane noun
+canid noun
+caniform noun
 canine noun
 cannabis noun pl=- note=uncountable
 cannelloni noun pl=- note=uncountable pasta name, already plural in Italian
@@ -139,7 +143,9 @@ carbohydrate noun
 carbon noun
 carbonara noun pl=- note=uncountable
 carbonate noun
+carbonation noun pl=- note=uncountable
 carbuncle noun
+carburet noun style=archaic note=old term for a carbide
 carburetor noun gb=carburettor
 carcass noun
 carcinoma noun pl=carcinomas|carcinomata
@@ -161,6 +167,7 @@ carina noun pl=carinae|carinas conf=90 note=anatomy, botany
 carnage noun pl=- note=uncountable
 carnet noun
 carnival noun
+carnivoran noun
 carol noun
 carousel noun
 carp noun pl=carp|carps
@@ -338,6 +345,7 @@ chancellor noun
 chancery noun
 chandelier noun
 chandler noun
+chandlery noun
 change noun prep=in|of|to|from vb=make|undergo|notice|need|bring_about xvb=do?
 changer noun
 channel noun
@@ -397,6 +405,9 @@ cheeseburger noun
 cheesecake noun
 cheetah noun
 chef noun note=plural chefs
+chelate noun
+chelation noun pl=- note=uncountable
+chelator noun
 chemical noun
 chemist noun
 chemistry noun
@@ -461,6 +472,8 @@ cholesterol noun pl=- note=uncountable
 chop noun
 chopstick noun
 chord noun
+chordate noun
+chordophone noun
 choreographer noun
 choreography noun
 chorizo noun pl=chorizos
@@ -521,6 +534,8 @@ civility noun
 civilization noun gb=civilisation|civilization
 cladding noun pl=- note=uncountable
 clade noun
+cladistics noun pl=- note=uncountable
+cladogram noun
 clafoutis noun pl=clafoutis
 claim noun prep=to|for|on|of|against vb=make|file|lodge|submit|reject|deny|support|stake
 claimant noun
@@ -1018,6 +1033,7 @@ conveyance noun
 conveyancing noun pl=- region=GB note=uncountable
 convict noun
 conviction noun
+convocation noun
 convoy noun
 convulsion noun
 COO noun abbr note=chief operating officer
@@ -1230,6 +1246,7 @@ creed noun
 creek noun
 creep noun
 cremation noun
+creodont noun
 Creole noun
 crepe noun conf=90 note=also written crêpe
 crescent noun
@@ -1266,6 +1283,7 @@ croquet noun pl=- note=uncountable
 croquette noun
 cross noun
 cross-heading noun
+crossbreed noun
 crossing noun
 crossover noun
 crossroads noun pl=crossroads
@@ -1325,6 +1343,7 @@ cult noun
 cultivar noun
 cultivation noun
 culture noun
+cumin noun pl=- note=uncountable
 cumulus noun pl=cumuli
 cuneiform noun pl=- note=the script
 cunning noun
@@ -1375,10 +1394,12 @@ cutting noun
 CV noun abbr note=curriculum vitae
 CVD noun abbr conf=90 note=countervailing duty; cardiovascular disease
 cyanide noun
+cyanogen noun pl=- note=uncountable
 cyberattack noun
 cybercrime noun
 cybersecurity noun pl=- note=uncountable
 cyberspace noun pl=- note=uncountable
+cyborg noun
 cycle noun
 cyclist noun
 cyclone noun

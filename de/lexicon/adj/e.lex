@@ -22,6 +22,7 @@ eigenständig adj cmp=eigenständiger sup=eigenständigsten
 eigentlich adj note=die eigentliche Frage; the particle is in closed/
 eigentümlich adj cmp=eigentümlicher sup=eigentümlichsten
 eilig adj cmp=eiliger sup=eiligsten
+einatomig adj
 eindeutig adj cmp=eindeutiger sup=eindeutigsten
 eindringlich adj cmp=eindringlicher sup=eindringlichsten
 eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
@@ -47,6 +48,7 @@ einstweilig adj
 eintönig adj cmp=eintöniger sup=eintönigsten
 einvernehmlich adj
 einverstanden adj indecl note=only predicative (einverstanden sein)
+einwertig adj
 einzeln adj
 einzig adj
 eisern adj
@@ -57,6 +59,7 @@ eklig adj cmp=ekliger sup=ekligsten
 elastisch adj cmp=elastischer sup=elastischsten
 elegant adj cmp=eleganter sup=elegantesten
 elektrisch adj
+elektrolytisch adj
 elektronisch adj
 elementar adj cmp=elementarer sup=elementarsten
 elend adj cmp=elender sup=elendsten
@@ -71,6 +74,7 @@ emsig adj
 endemisch adj
 endgültig adj
 endlich adj
+endogen adj
 energetisch adj
 energisch adj cmp=energischer sup=energischsten
 eng adj cmp=enger sup=engsten
@@ -135,6 +139,7 @@ exemplarisch adj
 existent adj
 existenziell adj
 exklusiv adj cmp=exklusiver sup=exklusivsten
+exogen adj
 exotisch adj cmp=exotischer sup=exotischsten
 experimentell adj
 explizit adj

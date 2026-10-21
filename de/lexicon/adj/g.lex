@@ -1,8 +1,12 @@
+gabelig adj
+galileisch adj note=die galileischen Monde
+galvanisch adj
 gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
 ganzheitlich adj
 ganzjährig adj
 gänzlich adj note=attributive use; the adverb has its own entry
+ganzrandig adj
 gar adj
 gasförmig adj
 gebeugt adj
@@ -109,6 +113,7 @@ gewittrig adj
 gewöhnlich adj cmp=gewöhnlicher sup=gewöhnlichsten
 gewohnt adj
 geworden adj attr_only note=participle of werden used attributively (ein groß gewordener Ort)
+gezähnt adj note=botany: toothed leaf margin
 ghanaisch adj
 gierig adj cmp=gieriger sup=gierigsten
 giftig adj cmp=giftiger sup=giftigsten
@@ -131,8 +136,10 @@ gleichwertig adj cmp=gleichwertiger sup=gleichwertigsten
 gleichzeitig adj
 glitzernd adj cmp=glitzernder sup=glitzerndsten
 global adj
+glockenförmig adj
 glücklich adj cmp=glücklicher sup=glücklichsten
 gnädig adj cmp=gnädiger sup=gnädigsten
+goldbachsch adj conf=85 note=die goldbachsche Vermutung; also written Goldbach'sche
 golden adj
 gotisch adj
 göttlich adj

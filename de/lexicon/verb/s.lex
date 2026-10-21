@@ -76,6 +76,7 @@ schlüpfen verb class=weak pp=geschlüpft perf=sein
 schlurfen verb class=weak pp=geschlurft perf=sein
 schlürfen verb class=weak pp=geschlürft perf=haben
 schlurren verb class=weak pp=geschlurrt perf=haben|sein
+schlüsseln verb class=weak pp=geschlüsselt perf=haben
 schlussfolgern verb class=weak pp=geschlussfolgert perf=haben
 schmachten verb class=weak pp=geschmachtet perf=haben
 schmatzen verb class=weak pp=geschmatzt perf=haben
@@ -213,6 +214,7 @@ spielen verb class=weak pp=gespielt perf=haben
 spinnen verb class=strong 3sg=spinnt past=spann pp=gesponnen subj2=spönne|spänne perf=haben
 spionieren verb class=weak pp=spioniert perf=haben
 spitzen verb class=weak pp=gespitzt perf=haben
+sponsern verb class=weak pp=gesponsert perf=haben
 spotten verb class=weak pp=gespottet perf=haben
 sprechen     verb class=strong 3sg=spricht past=sprach pp=gesprochen subj2=spräche perf=haben
 sprengen verb class=weak pp=gesprengt perf=haben
@@ -259,6 +261,7 @@ stilisieren verb class=weak pp=stilisiert perf=haben
 stillen verb class=weak pp=gestillt perf=haben
 stilllegen verb class=weak sep=still pp=stillgelegt perf=haben
 stimmen verb class=weak pp=gestimmt perf=haben
+stimulieren verb class=weak pp=stimuliert perf=haben
 stinken verb class=strong 3sg=stinkt past=stank pp=gestunken subj2=stänke perf=haben
 stöhnen verb class=weak pp=gestöhnt perf=haben
 stolpern verb class=weak pp=gestolpert perf=sein
@@ -306,4 +309,6 @@ surren verb class=weak pp=gesurrt perf=haben
 süßen verb class=weak pp=gesüßt perf=haben
 suspendieren verb class=weak pp=suspendiert perf=haben
 symbolisieren verb class=weak pp=symbolisiert perf=haben
+sympathisieren verb class=weak pp=sympathisiert perf=haben
 synchronisieren verb class=weak pp=synchronisiert perf=haben
+synthetisieren verb class=weak pp=synthetisiert perf=haben

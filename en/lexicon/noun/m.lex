@@ -263,6 +263,7 @@ meet-up noun
 meeting        noun vb=have|hold|attend|call
 meetup noun
 megabyte noun
+megafauna noun pl=- note=uncountable
 megahertz noun pl=megahertz
 megapixel noun
 megawatt noun
@@ -276,6 +277,7 @@ meltdown noun
 member         noun
 membership     noun
 membrane       noun
+membranophone noun
 meme noun
 memo noun pl=memos
 memoir         noun
@@ -288,7 +290,7 @@ meningitis noun pl=- note=uncountable
 menopause noun pl=- note=uncountable
 mentality noun
 mentee noun
-mention        noun
+mention        noun prep=of
 mentor         noun
 mentorship noun
 menu           noun
@@ -688,6 +690,8 @@ mutter         noun
 mutton noun pl=- note=uncountable
 muzzle noun
 MVP            noun abbr note=most valuable player
+myelin noun pl=- note=uncountable
+myelination noun pl=- note=uncountable
 myriad noun
 myrtle noun
 mystery        noun

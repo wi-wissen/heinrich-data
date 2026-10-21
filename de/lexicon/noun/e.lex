@@ -126,6 +126,7 @@ Einsicht noun g=f gen=Einsicht pl=Einsichten
 Einsichtnahme noun g=f gen=Einsichtnahme pl=- note=no plural
 Einsparung noun g=f gen=Einsparung pl=Einsparungen
 Einspruch noun g=m gen=Einspruchs|Einspruches pl=Einsprüche
+Einsteinium noun g=n gen=Einsteiniums pl=- note=chemical element
 Einstellung noun g=f gen=Einstellung pl=Einstellungen
 Einstieg noun g=m gen=Einstiegs|Einstieges pl=Einstiege
 Einstufung noun g=f gen=Einstufung pl=Einstufungen
@@ -185,6 +186,8 @@ Elektriker noun g=m gen=Elektrikers pl=Elektriker
 Elektrikerin noun g=f gen=Elektrikerin pl=Elektrikerinnen
 Elektrizität noun g=f gen=Elektrizität pl=- note=no plural
 Elektrode noun g=f gen=Elektrode pl=Elektroden
+Elektrolyse noun g=f gen=Elektrolyse pl=Elektrolysen
+Elektrolyt noun g=m gen=Elektrolyts pl=Elektrolyte conf=85 note=weak forms des/die Elektrolyten are also met
 Elektron noun g=n gen=Elektrons pl=Elektronen
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
 Elektroroller noun g=m gen=Elektrorollers pl=Elektroroller
@@ -215,6 +218,7 @@ Emir noun g=m gen=Emirs pl=Emire
 Emirat noun g=n gen=Emirats|Emirates pl=Emirate
 Emission noun g=f gen=Emission pl=Emissionen
 Emittent noun g=m gen=Emittenten pl=Emittenten
+Emmer noun g=m gen=Emmers pl=- note=grain species; mass noun
 Emoji noun g=m|n gen=Emojis pl=Emojis
 Emotion noun g=f gen=Emotion pl=Emotionen
 Empathie noun g=f gen=Empathie pl=- note=no plural
@@ -230,6 +234,7 @@ Empörung noun g=f gen=Empörung pl=- note=no plural
 Ende noun g=n gen=Endes pl=Enden
 Endemit noun g=m gen=Endemiten pl=Endemiten
 Endlager noun g=n gen=Endlagers pl=Endlager
+Endomorphismus noun g=m gen=Endomorphismus pl=Endomorphismen
 Endreim noun g=m gen=Endreims|Endreimes pl=Endreime
 Endung noun g=f gen=Endung pl=Endungen
 Energie noun g=f gen=Energie pl=Energien
@@ -259,6 +264,7 @@ Entfristung noun g=f gen=Entfristung pl=Entfristungen
 Entführung noun g=f gen=Entführung pl=Entführungen
 Entgegennahme noun g=f gen=Entgegennahme pl=- note=no plural
 Entgelt noun g=n gen=Entgelts|Entgeltes pl=Entgelte
+Enthalpie noun g=f gen=Enthalpie pl=Enthalpien
 Enthaltung noun g=f gen=Enthaltung pl=Enthaltungen
 Enthusiasmus noun g=m gen=Enthusiasmus pl=- note=no plural
 Entlassung noun g=f gen=Entlassung pl=Entlassungen
@@ -267,6 +273,7 @@ Entlohnung noun g=f gen=Entlohnung pl=Entlohnungen
 Entnahme noun g=f gen=Entnahme pl=Entnahmen
 Entomologe noun g=m gen=Entomologen pl=Entomologen
 Entrichtung noun g=f gen=Entrichtung pl=Entrichtungen
+Entropie noun g=f gen=Entropie pl=Entropien
 Entrüstung noun g=f gen=Entrüstung pl=- note=no plural
 Entsagung noun g=f gen=Entsagung pl=Entsagungen
 Entschädigung noun g=f gen=Entschädigung pl=Entschädigungen
@@ -292,6 +299,7 @@ Entzug noun g=m gen=Entzugs|Entzuges pl=Entzüge
 Entzündung noun g=f gen=Entzündung pl=Entzündungen
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
 Enzym noun g=n gen=Enzyms pl=Enzyme
+Eozän noun g=n gen=Eozäns pl=- note=geological epoch
 Epidemie noun g=f gen=Epidemie pl=Epidemien
 Epik noun g=f gen=Epik pl=- note=no plural
 Epilepsie noun g=f gen=Epilepsie pl=Epilepsien
@@ -311,10 +319,12 @@ Erbe noun g=m gen=Erben pl=Erben sense=heir note=der Erbe
 Erbe noun g=n gen=Erbes pl=- sense=inheritance note=das Erbe
 Erbin noun g=f gen=Erbin pl=Erbinnen
 Erbitterung noun g=f gen=Erbitterung pl=- note=mass noun
+Erbium noun g=n gen=Erbiums pl=- note=chemical element
 Erbrechen noun g=n gen=Erbrechens pl=- note=mass noun
 Erbringung noun g=f gen=Erbringung pl=- note=no plural
 Erbschaft noun g=f gen=Erbschaft pl=Erbschaften
 Erbse noun g=f gen=Erbse pl=Erbsen
+Erdalkalimetall noun g=n gen=Erdalkalimetalls|Erdalkalimetalles pl=Erdalkalimetalle
 Erdbeben noun g=n gen=Erdbebens pl=Erdbeben
 Erde noun g=f gen=Erde pl=Erden
 Erdgas noun g=n gen=Erdgases pl=- note=no plural
@@ -338,6 +348,7 @@ Erfüllung noun g=f gen=Erfüllung pl=- note=no plural in use
 Ergänzung noun g=f gen=Ergänzung pl=Ergänzungen
 Ergebenheit noun g=f gen=Ergebenheit pl=- note=mass noun
 Ergebnis noun g=n gen=Ergebnisses pl=Ergebnisse
+Ergotamin noun g=n gen=Ergotamins pl=- note=mass noun; drug substance
 Erhalt noun g=m gen=Erhalts|Erhaltes pl=- note=no plural
 Erhaltung noun g=f gen=Erhaltung pl=- note=no plural
 Erhebung noun g=f gen=Erhebung pl=Erhebungen
@@ -448,6 +459,7 @@ Etage noun g=f gen=Etage pl=Etagen
 Etagenbett noun g=n gen=Etagenbetts|Etagenbettes pl=Etagenbetten
 Etappe noun g=f gen=Etappe pl=Etappen
 Etat noun g=m gen=Etats pl=Etats
+Ethan noun g=n gen=Ethans pl=- note=mass noun; gas
 Ethanol noun g=n gen=Ethanols pl=- note=no plural
 Ethik noun g=f gen=Ethik pl=- note=no plural
 Ethnie noun g=f gen=Ethnie pl=Ethnien
@@ -468,6 +480,7 @@ Europapokal noun g=m gen=Europapokals pl=Europapokale
 Europarecht noun g=n gen=Europarechts|Europarechtes pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Europastraße noun g=f gen=Europastraße pl=Europastraßen note=compound with a proper-noun modifier, not derived by the analyser
 Europawahl noun g=f gen=Europawahl pl=Europawahlen
+Europium noun g=n gen=Europiums pl=- note=chemical element
 Euter noun g=n gen=Euters pl=Euter
 Evakuierung noun g=f gen=Evakuierung pl=Evakuierungen
 Evaluation noun g=f gen=Evaluation pl=Evaluationen

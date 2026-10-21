@@ -92,6 +92,7 @@ viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
 vielseitig adj cmp=vielseitiger sup=vielseitigsten
+vierbändig adj
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 violett adj
 viral adj
