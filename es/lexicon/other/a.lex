@@ -3,4 +3,5 @@
 adiós        intj
 ah           intj
 ajá          intj
+aleluya      intj
 ay           intj
