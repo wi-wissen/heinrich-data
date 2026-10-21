@@ -10,10 +10,12 @@ Habitus noun g=m gen=Habitus pl=- note=genitive without ending; plural not in co
 Habsburger noun g=m gen=Habsburgers pl=Habsburger
 Hacker noun g=m gen=Hackers pl=Hacker
 Hackerin noun g=f gen=Hackerin pl=Hackerinnen
+Hadron noun g=n gen=Hadrons pl=Hadronen
 Hafen noun g=m gen=Hafens pl=Häfen
 Hafer noun g=m gen=Hafers pl=- note=no plural
 Haferflocke noun g=f gen=Haferflocke pl=Haferflocken
 Haff noun g=n gen=Haffs|Haffes pl=Haffe|Haffs
+Hafnium noun g=n gen=Hafniums pl=- note=chemical element
 Haft noun g=f gen=Haft pl=- note=mass noun
 Häftling noun g=m gen=Häftlings pl=Häftlinge
 Haftung noun g=f gen=Haftung pl=Haftungen
@@ -27,6 +29,7 @@ Hain noun g=m gen=Haines|Hains[rare] pl=Haine
 Häkchen noun g=n gen=Häkchens pl=Häkchen
 Häkelnadel noun g=f gen=Häkelnadel pl=Häkelnadeln
 Haken noun g=m gen=Hakens pl=Haken
+Halbgruppe noun g=f gen=Halbgruppe pl=Halbgruppen
 Halbinsel noun g=f gen=Halbinsel pl=Halbinseln
 Halbjahr noun g=n gen=Halbjahrs|Halbjahres pl=Halbjahre
 Halbzeit noun g=f gen=Halbzeit pl=Halbzeiten
@@ -36,6 +39,7 @@ Hälfte noun g=f gen=Hälfte pl=Hälften
 Halle noun g=f gen=Halle pl=Hallen sense=building
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
 Halm noun g=m gen=Halmes|Halms pl=Halme
+Halogen noun g=n gen=Halogens pl=Halogene
 Hals noun g=m gen=Halses pl=Hälse
 Halt noun g=m gen=Halts|Haltes pl=- note=hold, stop; plural not used
 Halter noun g=m gen=Halters pl=Halter
@@ -86,6 +90,7 @@ Haselnuss noun g=f gen=Haselnuss pl=Haselnüsse
 Haselstrauch noun g=m gen=Haselstrauchs pl=Haselsträucher
 Hashtag noun g=m gen=Hashtags pl=Hashtags
 Hass noun g=m gen=Hasses pl=- note=mass noun
+Hassium noun g=n gen=Hassiums pl=- note=chemical element
 Haube noun g=f gen=Haube pl=Hauben
 Haubentaucher noun g=m gen=Haubentauchers pl=Haubentaucher
 Hauch noun g=m gen=Hauchs|Hauches pl=Hauche
@@ -163,6 +168,7 @@ Heldin noun g=f gen=Heldin pl=Heldinnen
 Helfer noun g=m gen=Helfers pl=Helfer
 Helferin noun g=f gen=Helferin pl=Helferinnen
 Helikopter noun g=m gen=Helikopters pl=Helikopter
+Helium noun g=n gen=Heliums pl=- note=chemical element; noble gas
 Heller noun g=m gen=Hellers pl=Heller note=small coin
 Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
 Helm noun g=m gen=Helms|Helmes pl=Helme
@@ -285,7 +291,9 @@ Holländer noun g=m gen=Holländers pl=Holländer
 Holländerin noun g=f gen=Holländerin pl=Holländerinnen
 Hölle noun g=f gen=Hölle pl=Höllen
 Holm noun g=m gen=Holms|Holmes pl=Holme
+Holmium noun g=n gen=Holmiums pl=- note=chemical element
 Holocaust noun g=m gen=Holocaust|Holocausts pl=- note=singular only
+Holozän noun g=n gen=Holozäns pl=- note=geological epoch
 Holunder noun g=m gen=Holunders pl=Holunder
 Holz noun g=n gen=Holzes pl=Hölzer
 Holzfäller noun g=m gen=Holzfällers pl=Holzfäller
@@ -294,6 +302,7 @@ Homeoffice noun g=n gen=Homeoffice|Homeoffices pl=Homeoffices
 Homepage noun g=f gen=Homepage pl=Homepages
 Hommage noun g=f gen=Hommage pl=Hommagen
 Homo noun g=m gen=Homos pl=Homos style=colloquial conf=70 note=colloquial for a homosexual man; also first part of Homo-Ehe and the Latin genus name Homo
+Homomorphismus noun g=m gen=Homomorphismus pl=Homomorphismen
 Homonym noun g=n gen=Homonyms pl=Homonyme
 Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Homosexuelle noun g=m|f decl=adj
@@ -335,7 +344,9 @@ Hühnchen noun g=n gen=Hühnchens pl=Hühnchen
 Hula-Hoop noun g=n gen=Hula-Hoops pl=Hula-Hoops
 Huld noun g=f gen=Huld pl=- note=mass noun; favour, grace (elevated)
 Hülle noun g=f gen=Hülle pl=Hüllen
+Hüllspelze noun g=f gen=Hüllspelze pl=Hüllspelzen
 Hülse noun g=f gen=Hülse pl=Hülsen
+Hülsenfrüchtler noun g=m gen=Hülsenfrüchtlers pl=Hülsenfrüchtler
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
 Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
@@ -368,7 +379,9 @@ Hüter noun g=m gen=Hüters pl=Hüter
 Hütte noun g=f gen=Hütte pl=Hütten
 Hyäne noun g=f gen=Hyäne pl=Hyänen
 Hybride noun g=f gen=Hybride pl=Hybriden conf=85 note=also masculine der Hybride (weak)
+Hydrid noun g=n gen=Hydrids|Hydrides pl=Hydride
 Hydrographie noun g=f gen=Hydrographie pl=- note=science name
+Hydroxid noun g=n gen=Hydroxids|Hydroxides pl=Hydroxide
 Hygiene noun g=f gen=Hygiene pl=- note=mass noun
 Hymne noun g=f gen=Hymne pl=Hymnen
 Hyperbel noun g=f gen=Hyperbel pl=Hyperbeln

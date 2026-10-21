@@ -1,4 +1,5 @@
 kayak verb
+keen verb sense=wail note=to wail in grief
 keep           verb comp=ing|obj_ing prep=to|from|off|at past=kept pp=kept
 key            verb
 keynote verb

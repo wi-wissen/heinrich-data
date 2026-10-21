@@ -98,7 +98,7 @@ sécessionniste adj
 secondaire adj adv=secondairement
 secourable adj
 secret adj f=secrète adv=secrètement
-sectaire adj adv=sectairement
+sectaire adj adv=sectairement[rare]
 sectoriel adj
 séculaire adj
 séculier adj
@@ -196,7 +196,7 @@ simplet adj f=simplette
 simplificateur adj f=simplificatrice
 simplifié adj
 simplissime adj style=colloquial
-simpliste adj adv=simplistement
+simpliste adj adv=simplistement[rare]
 simultané adj adv=simultanément
 sincère adj adv=sincèrement
 singulier adj adv=singulièrement
@@ -218,7 +218,7 @@ slovaque adj
 slovène adj
 snob adj f=snob
 sobre adj adv=sobrement
-sociable adj adv=sociablement
+sociable adj adv=sociablement[rare]
 social adj adv=socialement
 social-démocrate adj pl=sociaux-démocrates fpl=sociales-démocrates f=sociale-démocrate
 socialiste adj

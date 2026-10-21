@@ -106,7 +106,9 @@ feedstock noun
 feel           noun
 feeling        noun
 feint noun
+feldspar noun
 felicity noun
+feliform noun
 feline noun
 fell           noun note=hill in northern England
 fella noun style=colloquial alt=man|fellow
@@ -182,7 +184,7 @@ filer noun
 filesystem noun conf=85 note=also file system
 filing         noun
 Filipino       noun note=plural Filipinos
-fill           noun
+fill           noun prep=of
 filler noun
 filly noun
 film           noun
@@ -540,6 +542,7 @@ funeral        noun
 fungus noun pl=fungi|funguses
 funk noun
 funnel noun
+funnies noun pl_only region=US note=comic strips
 fur            noun
 furlough noun
 furnace        noun

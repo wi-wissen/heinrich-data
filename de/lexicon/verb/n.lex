@@ -102,6 +102,7 @@ nähern verb class=weak pp=genähert perf=haben refl=acc
 nähren verb class=weak pp=genährt perf=haben
 naschen verb class=weak pp=genascht perf=haben
 necken verb class=weak pp=geneckt perf=haben
+negieren verb class=weak pp=negiert perf=haben
 nehmen verb class=strong 3sg=nimmt past=nahm pp=genommen subj2=nähme perf=haben
 neigen verb class=weak pp=geneigt perf=haben refl=acc
 nennen verb class=mixed 3sg=nennt past=nannte pp=genannt subj2=nennte perf=haben refl=acc

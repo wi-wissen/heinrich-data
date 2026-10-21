@@ -6,9 +6,7 @@ build scripts and finished language packs.
 ## Rules
 - **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY, Licence Ouverte 2.0) that
   allows commercial use. Every source goes in `SOURCES.md` with license and provenance.
-- **No** CC-BY-SA, GPL, LGPL or NC data – not even in excerpts. The one exception is `thesaurus/`
-  (owner decision 2026-10-19): third-party thesauri kept unchanged as input of the separate, optional
-  thesaurus packs, see `thesaurus/README.md`. Comparison lexica
+- **No** CC-BY-SA, GPL, LGPL or NC data – not even in excerpts. Comparison lexica
   (german-pos-dict, Wiktionary, UniMorph, DEMorphy …) are used only outside the repo, for measurement.
 - **No grammar rules** here – they live in the engine repo.
 - Lexicon entries are created following the clean-room procedure (see `Heinrich/docs/PLAN.md` §6).
@@ -30,13 +28,15 @@ build scripts and finished language packs.
   protocol: `en/lexicon/AUTHORING.md`
 - `en/names/` – English given names, surnames and place names (own lists, with a marker for names
   that are also ordinary words; `en/names/README.md`)
+- `fr/lexicon/` – the French lexicon (own clean-room entries, format
+  `Heinrich/docs/LEXICON_FORMAT_FR.md`), sharded by part of speech and first letter;
+  `fr/lexicon/closed/` – closed word classes, written by hand. Overview and PR record:
+  `fr/lexicon/README.md`; authoring protocol: `fr/lexicon/AUTHORING.md`
 - `fr/names/` – French given names, surnames and place names, filtered from official open data
   (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
 - `es/names/` – Spanish given names, surnames and place names, filtered from official open data
   (INE, CC BY 4.0; GeoNames, CC BY 4.0) and curated: accents restored, `word` marker
   (`es/names/README.md`)
 - `de/phon/` – pronunciation exceptions
-- `thesaurus/` – third-party thesauri (OpenThesaurus CC BY-SA 4.0, Open English WordNet CC BY 4.0), unchanged,
-  for the optional thesaurus packs only; lexicon authors must not read it (`thesaurus/README.md`)
 - `tools/` – build scripts (lexicon → FST packs)
 - `packs/` – build output (not checked in, releases)

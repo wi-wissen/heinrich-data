@@ -37,6 +37,7 @@ fatty adj cmp=er
 faultless adj adv=faultlessly
 faulty adj cmp=er|more
 faunal adj
+faunivorous adj
 favorable      adj gb=favourable adv=favorably
 favorite       adj gb=favourite
 fearful        adj adv=fearfully

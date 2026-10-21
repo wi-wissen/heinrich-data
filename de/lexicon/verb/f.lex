@@ -74,6 +74,7 @@ fliehen verb class=strong 3sg=flieht past=floh pp=geflohen subj2=flöhe perf=sei
 fließen verb class=strong 3sg=fließt past=floss pp=geflossen subj2=flösse perf=sein
 flirten verb class=weak pp=geflirtet perf=haben
 flitzen verb class=weak pp=geflitzt perf=sein
+floppen verb class=weak pp=gefloppt perf=sein
 flößen verb class=weak pp=geflößt perf=haben note=Holz flößen (to raft)
 fluchen verb class=weak pp=geflucht perf=haben
 flüchten verb class=weak pp=geflüchtet perf=sein|haben
@@ -121,6 +122,7 @@ fortziehen verb class=strong sep=fort 3sg=fortzieht past=fortzog pp=fortgezogen 
 fotografieren verb class=weak pp=fotografiert perf=haben
 foulen verb class=weak pp=gefoult perf=haben
 fragen verb class=weak past=fragte|frug[archaic] pp=gefragt subj2=fragte|früge[archaic] perf=haben refl=acc
+fraktionieren verb class=weak pp=fraktioniert perf=haben
 frankieren verb class=weak pp=frankiert perf=haben
 freigeben verb class=strong sep=frei 3sg=freigibt past=freigab pp=freigegeben subj2=freigäbe perf=haben
 freihalten verb class=strong sep=frei 3sg=freihält past=freihielt pp=freigehalten subj2=freihielte perf=haben

@@ -149,6 +149,7 @@ exemplary adj
 exempt adj comp=p_ing|to prep=from xprep=of?
 exemptive adj conf=90 note=legal register: exemptive relief
 exercisable adj
+exertional adj
 exhaustive adj adv=exhaustively
 existential adj adv=existentially
 exogamous adj

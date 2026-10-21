@@ -50,6 +50,8 @@ Langobarde noun g=m gen=Langobarden pl=Langobarden
 Langschläfer noun g=m gen=Langschläfers pl=Langschläfer
 Langschläferin noun g=f gen=Langschläferin pl=Langschläferinnen
 Languste noun g=f gen=Languste pl=Langusten
+Lanthan noun g=n gen=Lanthans pl=- note=chemical element
+Lanthanoid noun g=n gen=Lanthanoids pl=Lanthanoide
 Lanze noun g=f gen=Lanze pl=Lanzen
 Lappen noun g=m gen=Lappens pl=Lappen
 Laptop noun g=m gen=Laptops pl=Laptops
@@ -83,6 +85,7 @@ Lautsprecher noun g=m gen=Lautsprechers pl=Lautsprecher
 Lava noun g=f gen=Lava pl=Laven
 Lavendel noun g=m gen=Lavendels pl=Lavendel
 Lawine noun g=f gen=Lawine pl=Lawinen
+Lawrencium noun g=n gen=Lawrenciums pl=- note=chemical element
 Lazarett noun g=n gen=Lazaretts|Lazarettes pl=Lazarette
 Leasing noun g=n gen=Leasings pl=Leasings
 Leben noun g=n gen=Lebens pl=Leben
@@ -159,12 +162,14 @@ Leitung noun g=f gen=Leitung pl=Leitungen
 Lektion noun g=f gen=Lektion pl=Lektionen
 Lektor noun g=m gen=Lektors pl=Lektoren
 Lektüre noun g=f gen=Lektüre pl=Lektüren
+Lemma noun g=n gen=Lemmas pl=Lemmata|Lemmas
 Lemming noun g=m gen=Lemmings pl=Lemminge
 Lende noun g=f gen=Lende pl=Lenden
 Lenker noun g=m gen=Lenkers pl=Lenker
 Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
+Lepton noun g=n gen=Leptons pl=Leptonen
 Lerche noun g=f gen=Lerche pl=Lerchen
 Lesbe noun g=f gen=Lesbe pl=Lesben
 Leser noun g=m gen=Lesers pl=Leser
@@ -213,6 +218,7 @@ Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=ol
 Lift noun g=m gen=Lifts|Liftes pl=Lifte|Lifts
 Liga noun g=f gen=Liga pl=Ligen
 Ligist noun g=m gen=Ligisten pl=Ligisten note=member club of a league (Bundesligist, Drittligist)
+Ligula noun g=f gen=Ligula pl=Ligulae|Ligulen conf=70 note=botany; Latin plural usual, German plural rare
 Like noun g=m|n gen=Likes pl=Likes
 Likör noun g=m gen=Likörs pl=Liköre
 Lilie noun g=f gen=Lilie pl=Lilien
@@ -238,8 +244,10 @@ Liter noun g=m|n gen=Liters pl=Liter
 Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
+Lithium noun g=n gen=Lithiums pl=- note=chemical element
 Lithograf noun g=m gen=Lithografen pl=Lithografen
 Liturgie noun g=f gen=Liturgie pl=Liturgien
+Livermorium noun g=n gen=Livermoriums pl=- note=chemical element
 Livestream noun g=m gen=Livestreams pl=Livestreams
 Lizenz noun g=f gen=Lizenz pl=Lizenzen
 Lkw noun g=m gen=Lkw|Lkws pl=Lkw|Lkws note=Lastkraftwagen
@@ -305,6 +313,7 @@ Lunge noun g=f gen=Lunge pl=Lungen
 Lupe noun g=f gen=Lupe pl=Lupen
 Lust noun g=f gen=Lust pl=Lüste
 Lustspiel noun g=n gen=Lustspiels|Lustspieles pl=Lustspiele
+Lutetium noun g=n gen=Lutetiums pl=- note=chemical element
 Lutheraner noun g=m gen=Lutheraners pl=Lutheraner
 Lutscher noun g=m gen=Lutschers pl=Lutscher
 Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun
