@@ -41,7 +41,7 @@ ferrum, ferrī noun n
 ferula, ferulae noun f
 fervor, fervōris noun m
 fētus, fētūs noun m
-fībra, fībrae noun f
+fibra, fibrae noun f conf=80 note=reviewer-dispute; length in the lemma
 fīcus, fīcī noun f
 fidēs, fideī noun f sg_only
 fīdūcia, fīdūciae noun f
@@ -98,7 +98,7 @@ fūcus, fūcī noun m
 fuga, fugae noun f
 fulgor, fulgōris noun m
 fulgur, fulguris noun n
-fūligō, fūliginis noun f
+fūlīgō, fūlīginis noun f conf=80 note=reviewer-dispute; length in the lemma
 fulmen, fulminis noun n
 fūmus, fūmī noun m
 funda, fundae noun f

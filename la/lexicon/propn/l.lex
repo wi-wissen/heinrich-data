@@ -15,4 +15,4 @@ Lūcius, Lūciī propn m
 Lucrētia, Lucrētiae propn f conf=80 note=reviewer-dispute; length of the u
 Lucrētius, Lucrētiī propn m conf=80 note=reviewer-dispute; length of the u
 Lūtētia, Lūtētiae propn f loc
-Lydia, Lydiae propn f
+Lȳdia, Lȳdiae propn f conf=80 note=reviewer-dispute; length in the lemma

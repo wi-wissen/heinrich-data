@@ -15,7 +15,7 @@ officīna, officīnae noun f
 officium, officiī noun n
 oleum, oleī noun n
 olīva, olīvae noun f
-olla, ollae noun f
+ōlla, ōllae noun f conf=90 note=length before ll, from aula?
 ōmen, ōminis noun n
 onus, oneris noun n
 opera, operae noun f

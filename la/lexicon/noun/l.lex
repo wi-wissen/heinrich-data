@@ -50,7 +50,7 @@ lībertīnus, lībertīnī noun m
 lībertus, lībertī noun m
 libīdō, libīdinis noun f
 licentia, licentiae noun f
-lictor, lictōris noun m
+līctor, līctōris noun m conf=80 note=reviewer-dispute; length in the lemma
 lignum, lignī noun n
 līlium, līliī noun n
 līmen, līminis noun n

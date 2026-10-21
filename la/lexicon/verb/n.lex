@@ -20,7 +20,7 @@ notō, notāvī, notātum, notāre verb note=no long vowel in the lemma
 nūbō, nūpsī, nūptum, nūbere verb intr
 nūdō, nūdāvī, nūdātum, nūdāre verb
 numerō, numerāvī, numerātum, numerāre verb
-nūncupō, nūncupāvī, nūncupātum, nūncupāre verb
+nuncupō, nuncupāvī, nuncupātum, nuncupāre verb conf=80 note=reviewer-dispute; length in the lemma
 nūntiō, nūntiāvī, nūntiātum, nūntiāre verb
 nūtō, nūtāvī, nūtātum, nūtāre verb intr
 nūtriō, nūtrīvī, nūtrītum, nūtrīre verb

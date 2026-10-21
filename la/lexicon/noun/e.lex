@@ -10,8 +10,8 @@ elephantus, elephantī noun m
 ēloquentia, ēloquentiae noun f sg_only
 ēloquium, ēloquiī noun n
 ēmolumentum, ēmolumentī noun n
-emptiō, emptiōnis noun f conf=85 note=length of the e?
-emptor, emptōris noun m conf=85 note=length of the e?
+ēmptiō, ēmptiōnis noun f conf=85 note=length of the e, as in ēmptum?
+ēmptor, ēmptōris noun m conf=85 note=length of the e, as in ēmptum?
 ēnsis, ēnsis noun m
 episcopus, episcopī noun m style=late
 epistula, epistulae noun f var=epistola[late]
@@ -22,7 +22,7 @@ equus, equī noun m
 error, errōris noun m
 ērudītiō, ērudītiōnis noun f
 ēruptiō, ēruptiōnis noun f
-esca, escae noun f
+ēsca, ēscae noun f conf=90 note=length before sc, as in ēsus (edō)?
 eunūchus, eunūchī noun m
 ēventus, ēventūs noun m
 exāmen, exāminis noun n

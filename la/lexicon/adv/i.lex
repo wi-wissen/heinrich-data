@@ -8,7 +8,7 @@ impūne adv
 interdiū adv
 interdum adv
 intrīnsecus adv
-introrsus adv
+intrōrsus adv
 intus adv
 invicem adv
 iterum adv

@@ -26,7 +26,7 @@ māteriēs, māteriēī noun f sg_only
 mātrimōnium, mātrimōniī noun n
 mātrōna, mātrōnae noun f
 mātūritās, mātūritātis noun f
-maxilla, maxillae noun f
+māxilla, māxillae noun f conf=80 note=reviewer-dispute; length in the lemma
 meātus, meātūs noun m
 medicāmen, medicāminis noun n
 medicāmentum, medicāmentī noun n
@@ -84,7 +84,7 @@ mors, mortis noun f
 morsus, morsūs noun m
 mōs, mōris noun m
 mōtus, mōtūs noun m
-mucrō, mucrōnis noun m conf=85 note=length of the u?
+mūcrō, mūcrōnis noun m conf=80 note=reviewer-dispute; length in the lemma
 mūgītus, mūgītūs noun m
 mulier, mulieris noun f
 mulsum, mulsī noun n
@@ -98,7 +98,7 @@ mūnus, mūneris noun n
 murmur, murmuris noun n
 mūrus, mūrī noun m
 mūsa, mūsae noun f
-mūsca, mūscae noun f conf=85 note=length of the u?
+musca, muscae noun f conf=80 note=reviewer-dispute; length in the lemma
 mustum, mustī noun n
 mūtātiō, mūtātiōnis noun f
 myrtus, myrtī noun f

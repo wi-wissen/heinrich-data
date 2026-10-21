@@ -75,4 +75,4 @@ extendō, extendī, extentum, extendere verb
 extollō, -, -, extollere verb
 extrahō, extrāxī, extractum, extrahere verb
 exuō, exuī, exūtum, exuere verb
-exūrō, exussī, exūstum, exūrere verb
+exūrō, exussī, exustum, exūrere verb conf=85 note=supine as in ūrō, ussī, ustum

@@ -1,7 +1,7 @@
 # Latin propn entries, letter i (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
 Iānus, Iānī propn m
 Iāsōn, Iāsonis propn m greek
-Icarus, Icarī propn m
+Īcarus, Īcarī propn m conf=80 note=reviewer-dispute; length in the lemma
 Īlium, Īliī propn n loc
 Illyricum, Illyricī propn n
 Italia, Italiae propn f

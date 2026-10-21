@@ -12,7 +12,7 @@ fīgō, fīxī, fīxum, fīgere verb
 fingō, fīnxī, fictum, fingere verb
 fīniō, fīnīvī|fīniī, fīnītum, fīnīre verb
 firmō, firmāvī, firmātum, firmāre verb
-flagitō, flagitāvī, flagitātum, flagitāre verb
+flāgitō, flāgitāvī, flāgitātum, flāgitāre verb
 flagrō, flagrāvī, flagrātum, flagrāre verb intr
 flectō, flexī, flexum, flectere verb
 fleō, flēvī, flētum, flēre verb

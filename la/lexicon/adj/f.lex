@@ -5,7 +5,7 @@ fācundus, fācunda, fācundum adj
 fallāx, fallācis adj
 falsus, falsa, falsum adj adv=falsō
 familiāris, familiāre adj adv=familiāriter
-famōsus, famōsa, famōsum adj
+fāmōsus, fāmōsa, fāmōsum adj
 fātālis, fātāle adj nocmp
 fēcundus, fēcunda, fēcundum adj
 fēlīx, fēlīcis adj adv
@@ -17,7 +17,7 @@ fertilis, fertile adj note=superlative in -issimus
 ferus, fera, ferum adj
 fervidus, fervida, fervidum adj
 fessus, fessa, fessum adj nocmp
-festus, festa, festum adj nocmp
+fēstus, fēsta, fēstum adj nocmp conf=90 note=length before st, as in fēriae?
 fidēlis, fidēle adj adv=fidēliter
 fīdus, fīda, fīdum adj
 fīnitimus, fīnitima, fīnitimum adj nocmp

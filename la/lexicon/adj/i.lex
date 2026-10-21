@@ -47,7 +47,7 @@ inexpugnābilis, inexpugnābile adj nocmp
 īnfernus, īnferna, īnfernum adj nocmp
 īnferus, īnfera, īnferum adj cmp=īnferior sup=īnfimus|īmus
 īnfestus, īnfesta, īnfestum adj
-īnfidus, īnfida, īnfidum adj
+īnfīdus, īnfīda, īnfīdum adj
 īnfīnītus, īnfīnīta, īnfīnītum adj nocmp
 īnfirmus, īnfirma, īnfirmum adj adv
 īnfōrmis, īnfōrme adj nocmp conf=85 note=length of the o, as in fōrma?
