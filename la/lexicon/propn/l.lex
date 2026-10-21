@@ -7,11 +7,16 @@ Latium, Latiī propn n
 Lātōna, Lātōnae propn f
 Lāvīnia, Lāvīniae propn f
 Lāvīnium, Lāvīniī propn n loc
+Lemannus, Lemannī propn m
 Lentulus, Lentulī propn m
 Lepidus, Lepidī propn m
 Lesbos, Lesbī propn f
+Lexovius, Lexoviī propn m sg_pl
+Liger, Ligeris propn m acc_sg=Ligerem|Ligerim abl_sg=Ligere|Ligerī conf=80 note=i-stem accusative and ablative beside the consonant forms?
+Lingonēs, Lingonum propn m pl_only
 Līvia, Līviae propn f
 Līvius, Līviī propn m
+Lūcīlius, Lūcīliī propn m
 Lūcius, Lūciī propn m
 Lucrētia, Lucrētiae propn f conf=80 note=reviewer-dispute; length of the u
 Lucrētius, Lucrētiī propn m conf=80 note=reviewer-dispute; length of the u

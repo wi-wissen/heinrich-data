@@ -20,6 +20,7 @@ impleō, implēvī, implētum, implēre verb var=inpleō
 implicō, implicāvī|implicuī, implicātum|implicitum, implicāre verb var=inplicō
 implōrō, implōrāvī, implōrātum, implōrāre verb var=inplōrō
 impōnō, imposuī, impositum, impōnere verb var=inpōnō
+importō, importāvī, importātum, importāre verb var=inportō
 imprimō, impressī, impressum, imprimere verb var=inprimō
 imputō, imputāvī, imputātum, imputāre verb var=inputō
 incēdō, incessī, incessum, incēdere verb intr
@@ -48,6 +49,7 @@ ineō, iniī, initum, inīre verb class=eo
 īnfestō, īnfestāvī, īnfestātum, īnfestāre verb
 īnficiō, īnfēcī, īnfectum, īnficere verb
 īnfīgō, īnfīxī, īnfīxum, īnfīgere verb
+īnfitior, īnfitiātus sum, īnfitiārī verb
 īnflammō, īnflammāvī, īnflammātum, īnflammāre verb
 īnflectō, īnflexī, īnflexum, īnflectere verb
 īnflō, īnflāvī, īnflātum, īnflāre verb

@@ -10,6 +10,7 @@ Helena, Helenae propn f
 Hellēspontus, Hellēspontī propn m
 Helvētius, Helvētiī propn m sg_pl
 Herculēs, Herculis propn m
+Hercynia, Hercyniae propn f
 Hispānia, Hispāniae propn f
 Hispānus, Hispānī propn m sg_pl
 Homērus, Homērī propn m
