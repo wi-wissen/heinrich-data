@@ -27,6 +27,7 @@ facultativo      noun  g=m f=facultativa
 facundia         noun  g=f
 fado             noun  g=m
 faena            noun  g=f
+fagocitosis      noun  g=f
 fagot            noun  g=m pl=fagotes conf=80 note=plural fagotes as in the corpus; fagots also seen
 faisán           noun  g=m
 faja             noun  g=f
@@ -55,6 +56,7 @@ familia          noun  g=f
 familiar         noun  g=m|f
 familiaridad     noun  g=f
 familiarización  noun  g=f
+fámulo           noun  g=m f=fámula
 fan              noun  g=m|f pl=fans|fanes conf=90 note=both plurals in use; fanes follows the -n rule
 fanal            noun  g=m
 fanático         noun  g=m f=fanática
@@ -106,6 +108,7 @@ fatuidad         noun  g=f
 fauces           noun  g=f pl_only
 fauna            noun  g=f
 fauno            noun  g=m
+favela           noun  g=f
 favor            noun  g=m
 favoritismo      noun  g=m
 favorito         noun  g=m f=favorita
@@ -124,6 +127,7 @@ federación       noun  g=f
 federalismo      noun  g=m
 federalista      noun  g=m|f
 federalización   noun  g=f
+feedback         noun  g=m foreign
 feldespato       noun  g=m
 felicidad        noun  g=f
 felicitación     noun  g=f
@@ -157,6 +161,7 @@ feromona         noun  g=f
 ferrería         noun  g=f
 ferretería       noun  g=f
 ferretero        noun  g=m f=ferretera
+ferri            noun  g=m var=ferry note=adapted spelling; ferry is more frequent
 ferrobús         noun  g=m
 ferrocarril      noun  g=m
 ferroviario      noun  g=m f=ferroviaria
@@ -253,6 +258,7 @@ financiador      noun  g=m f=financiadora
 financiamiento   noun  g=m
 finanzas         noun  g=f pl_only
 finca            noun  g=f
+finde            noun  g=m style=colloquial alt=fin_de_semana
 finés            noun  g=m f=finesa
 fineza           noun  g=f
 fingimiento      noun  g=m
@@ -260,10 +266,12 @@ finiquito        noun  g=m
 finlandés        noun  g=m f=finlandesa
 finura           noun  g=f
 fiordo           noun  g=m
+firewall         noun  g=m pl=firewalls foreign
 firma            noun  g=f
 firmamento       noun  g=m
 firmante         noun  g=m|f
 firmeza          noun  g=f
+firmware         noun  g=m foreign
 fiscal           noun  g=m|f
 fiscalía         noun  g=f
 fiscalidad       noun  g=f
@@ -354,6 +362,7 @@ folclore         noun  g=m var=folklore
 folclorista      noun  g=m|f
 folículo         noun  g=m
 folio            noun  g=m
+folíolo          noun  g=m var=foliolo
 folk             noun  g=m foreign note=music genre; also as invariable adjective (música folk)
 follaje          noun  g=m
 folletín         noun  g=m
@@ -366,6 +375,7 @@ fondeadero       noun  g=m
 fondeo           noun  g=m
 fondista         noun  g=m|f
 fondo            noun  g=m
+fondue           noun  g=f foreign
 fonema           noun  g=m
 fonendoscopio    noun  g=m
 fonética         noun  g=f
@@ -376,6 +386,7 @@ fontanería       noun  g=f
 fontanero        noun  g=m f=fontanera
 forajido         noun  g=m f=forajida
 foralidad        noun  g=f
+foramen          noun  g=m pl=forámenes
 foraminífero     noun  g=m
 forastero        noun  g=m f=forastera
 forcejeo         noun  g=m
@@ -424,6 +435,7 @@ fotometría       noun  g=f
 fotón            noun  g=m
 fotoperiodista   noun  g=m|f
 fotosíntesis     noun  g=f
+frac             noun  g=m pl=fracs|fraques
 fracasado        noun  g=m f=fracasada
 fracaso          noun  g=m
 fracción         noun  g=f
@@ -571,6 +583,7 @@ fuste            noun  g=m
 fútbol           noun  g=m var=futbol
 futbolín         noun  g=m
 futbolista       noun  g=m|f
+futsal           noun  g=m
 futurismo        noun  g=m
 futurista        noun  g=m|f
 futuro           noun  g=m

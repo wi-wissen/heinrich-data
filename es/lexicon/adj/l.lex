@@ -25,6 +25,7 @@ lanceolado       adj
 lánguido         adj   adv=lánguidamente
 lanoso           adj
 lanudo           adj
+lao              adj   f=lao note=same form in both genders: la lengua lao
 lapidario        adj
 lapón            adj
 largo            adj   adv=largamente
@@ -97,6 +98,7 @@ librepensador    adj
 licencioso       adj
 lícito           adj   adv=lícitamente
 ligero           adj   adv=ligeramente
+liguero          adj
 límbico          adj
 limeño           adj
 limitado         adj adv=limitadamente
@@ -110,6 +112,7 @@ lindante         adj
 lindo            adj   adv=lindamente
 lineal           adj   adv=linealmente
 linfático        adj
+lingual          adj
 lingüístico      adj   adv=lingüísticamente
 lipídico         adj
 liquidable       adj
@@ -140,6 +143,7 @@ llorón           adj
 lloroso          adj
 lluvioso         adj
 loable           adj
+lobado           adj
 lóbrego          adj
 lobulado         adj
 local            adj   adv=localmente

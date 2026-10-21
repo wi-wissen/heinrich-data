@@ -1,10 +1,11 @@
 # Spanish nouns, letter i (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
 íbero            noun  g=m f=íbera var=ibero
 ibicenco         noun  g=m f=ibicenca
+ibis             noun  g=m
 iceberg          noun  g=m pl=icebergs
 icnita           noun  g=f
 iconicidad       noun  g=f
-icono            noun  g=m
+icono            noun  g=m var=ícono note=ícono is the less frequent accepted spelling
 iconoclasta      noun  g=m|f
 iconografía      noun  g=f
 iconostasio      noun  g=m
@@ -48,9 +49,11 @@ igualdad         noun  g=f
 igualitarismo    noun  g=m
 iguana           noun  g=f
 ijar             noun  g=m
+ikastola         noun  g=f note=Basque-medium school
 ikurriña         noun  g=f
 ilegalidad       noun  g=f
 ilegalización    noun  g=f
+ilegitimidad     noun  g=f
 ilicitano        noun  g=m f=ilicitana
 ilicitud         noun  g=f
 iluminación      noun  g=f
@@ -113,6 +116,7 @@ importancia      noun  g=f
 importe          noun  g=m
 imposibilidad    noun  g=f
 imposición       noun  g=f
+impositor        noun  g=m f=impositora
 imposta          noun  g=f
 impostor         noun  g=m f=impostora
 impostura        noun  g=f
@@ -141,6 +145,7 @@ imprudencia      noun  g=f
 impudor          noun  g=m
 impuesto         noun  g=m
 impugnación      noun  g=f
+impulsión        noun  g=f
 impulsividad     noun  g=f
 impulso          noun  g=m
 impulsor         noun  g=m f=impulsora
@@ -263,6 +268,7 @@ individualismo   noun  g=m
 individualista   noun  g=m|f
 individualización noun  g=f
 individuo        noun  g=m
+indivisibilidad  noun  g=f
 indocumentado    noun  g=m f=indocumentada
 índole           noun  g=f
 indolencia       noun  g=f
@@ -279,9 +285,11 @@ ineficacia       noun  g=f
 ineficiencia     noun  g=f
 inejecución      noun  g=f
 inelegibilidad   noun  g=f
+inembargabilidad noun  g=f
 ineptitud        noun  g=f
 inequidad        noun  g=f
 inercia          noun  g=f
+inertización     noun  g=f
 inervación       noun  g=f
 inestabilidad    noun  g=f
 inevitabilidad   noun  g=f
@@ -315,6 +323,7 @@ inflamabilidad   noun  g=f
 inflamación      noun  g=f
 inflexión        noun  g=f
 inflorescencia   noun  g=f
+influencer       noun  g=m|f pl=influencers foreign
 influencia       noun  g=f
 influenza        noun  g=f
 influjo          noun  g=m
@@ -329,6 +338,7 @@ infortunio       noun  g=m
 infracción       noun  g=f
 infractor        noun  g=m f=infractora
 infraestructura  noun  g=f
+infrafinanciación noun  g=f
 inframundo       noun  g=m
 infrarrojo       noun  g=m
 infrautilización noun  g=f
@@ -393,6 +403,7 @@ inmunodeficiencia noun  g=f
 inmunoglobulina  noun  g=f
 inmunología      noun  g=f
 inmunoterapia    noun  g=f
+innecesariedad   noun  g=f
 innovación       noun  g=f
 inobservancia    noun  g=f
 inocencia        noun  g=f
@@ -402,6 +413,7 @@ inoculación      noun  g=f
 inodoro          noun  g=m
 inoperancia      noun  g=f
 inoportunidad    noun  g=f
+input            noun  g=m foreign
 inquietud        noun  g=f
 inquilinato      noun  g=m
 inquilino        noun  g=m f=inquilina
@@ -420,6 +432,7 @@ inseminación     noun  g=f
 insensatez       noun  g=f
 insensibilidad   noun  g=f
 inserción        noun  g=f
+inserto          noun  g=m
 insidia          noun  g=f
 insignia         noun  g=f
 insignificancia  noun  g=f
@@ -467,6 +480,7 @@ insumo           noun  g=m
 insurgencia      noun  g=f
 insurgente       noun  g=m|f
 insurrección     noun  g=f
+insurrecto       noun  g=m f=insurrecta
 integración      noun  g=f
 integralidad     noun  g=f
 integrante       noun  g=m|f
@@ -494,6 +508,7 @@ intercambiador   noun  g=m
 intercambio      noun  g=m
 intercepción     noun  g=f
 interceptación   noun  g=f
+interceptor      noun  g=m
 intercesión      noun  g=f
 intercolumnio    noun  g=m
 intercomunicación noun  g=f
@@ -520,6 +535,7 @@ interiorismo     noun  g=m
 interiorista     noun  g=m|f
 interiorización  noun  g=f
 interjección     noun  g=f
+interleucina     noun  g=f
 interlocución    noun  g=f
 interlocutor     noun  g=m f=interlocutora
 interludio       noun  g=m
@@ -541,6 +557,7 @@ internauta       noun  g=m|f
 internet         noun  g=amb pl=- note=also capitalised; el/la internet
 interoperabilidad noun  g=f
 interpelación    noun  g=f
+interpelante     noun  g=m|f
 interpolación    noun  g=f
 interposición    noun  g=f
 interpretación   noun  g=f
@@ -551,6 +568,7 @@ interrogación    noun  g=f
 interrogador     noun  g=m f=interrogadora
 interrogante     noun  g=amb
 interrogatorio   noun  g=m
+interrumpibilidad noun  g=f note=energy: servicio de interrumpibilidad
 interrupción     noun  g=f
 interruptor      noun  g=m
 intersección     noun  g=f
@@ -577,6 +595,7 @@ intransigencia   noun  g=f
 intrepidez       noun  g=f
 intriga          noun  g=f
 intrigante       noun  g=m|f
+intro            noun  g=f style=colloquial alt=introducción
 introducción     noun  g=f
 introductor      noun  g=m f=introductora
 intromisión      noun  g=f
@@ -585,6 +604,7 @@ intrusión        noun  g=f
 intrusismo       noun  g=m
 intruso          noun  g=m f=intrusa
 intuición        noun  g=f
+inuit            noun  g=m|f pl=inuits
 inundabilidad    noun  g=f conf=85
 inundación       noun  g=f
 inutilidad       noun  g=f
@@ -645,6 +665,7 @@ irregularidad    noun  g=f
 irrelevancia     noun  g=f
 irresponsabilidad noun  g=f
 irresponsable    noun  g=m|f
+irretroactividad noun  g=f
 irreverencia     noun  g=f
 irreversibilidad noun  g=f
 irrevocabilidad  noun  g=f
@@ -662,6 +683,7 @@ islandés         noun  g=m f=islandesa
 isleño           noun  g=m f=isleña
 isleta           noun  g=f
 islote           noun  g=m
+isoforma         noun  g=f
 isómero          noun  g=m
 isomorfismo      noun  g=m
 isótopo          noun  g=m

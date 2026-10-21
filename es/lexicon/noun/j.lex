@@ -4,7 +4,9 @@ jabalina         noun  g=f
 jabato           noun  g=m
 jabón            noun  g=m
 jabonera         noun  g=f
+jaca             noun  g=f
 jacinto          noun  g=m
+jacobiano        noun  g=m
 jacobino         noun  g=m f=jacobina
 jacobita         noun  g=m|f
 jactancia        noun  g=f
@@ -37,6 +39,8 @@ jaula            noun  g=f
 jauría           noun  g=f
 jazmín           noun  g=m
 jazz             noun  g=m pl=- foreign note=uncountable musical genre
+jeans            noun  g=m pl_only foreign
+jeep             noun  g=m foreign
 jefatura         noun  g=f
 jefe             noun  g=m f=jefa
 jemer            noun  g=m|f
@@ -55,6 +59,7 @@ jeringuilla      noun  g=f
 jeroglífico      noun  g=m
 jersey           noun  g=m pl=jerséis
 jesuita          noun  g=m
+jet              noun  g=m foreign
 jeta             noun  g=f style=colloquial alt=cara|desfachatez
 jícara           noun  g=f
 jiennense        noun  g=m|f var=jienense
@@ -64,6 +69,8 @@ jinete           noun  g=m|f
 jinetera         noun  g=f conf=80
 jirafa           noun  g=f
 jirón            noun  g=m
+jiu-jitsu        noun  g=m foreign
+jockey           noun  g=m|f pl=jockeys foreign
 jocosidad        noun  g=f
 jolgorio         noun  g=m
 jonrón           noun  g=m
@@ -80,6 +87,7 @@ jovialidad       noun  g=f
 joya             noun  g=f
 joyería          noun  g=f
 joyero           noun  g=m f=joyera
+joystick         noun  g=m foreign
 juanete          noun  g=m
 jubilación       noun  g=f
 jubilado         noun  g=m f=jubilada
@@ -114,7 +122,7 @@ juncal           noun  g=m
 junco            noun  g=m
 jungla           noun  g=f
 junio            noun  g=m
-júnior           noun  g=m|f pl=júniores conf=85 note=sport category; adapted from junior
+júnior           noun  g=m|f pl=júniores var=junior conf=85 note=sport category; adapted from junior
 junta            noun  g=f
 juntura          noun  g=f
 jurado           noun  g=m
@@ -127,6 +135,7 @@ jurisdicción     noun  g=f
 jurisprudencia   noun  g=f
 jurista          noun  g=m|f
 justicia         noun  g=f
+justicialismo    noun  g=m
 justiciero       noun  g=m f=justiciera
 justificación    noun  g=f
 justificante     noun  g=m

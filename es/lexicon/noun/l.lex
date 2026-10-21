@@ -4,6 +4,7 @@ laberinto        noun  g=m
 labia            noun  g=f
 labio            noun  g=m
 labor            noun  g=f
+laboralidad      noun  g=f
 laboralista      noun  g=m|f
 laboratorio      noun  g=m
 laboreo          noun  g=m
@@ -20,6 +21,7 @@ laconismo        noun  g=m
 lacra            noun  g=f
 lacre            noun  g=m
 lacrimógeno      noun  g=m note=gas lacrimógeno is usual; noun in plural use
+lacrosse         noun  g=m foreign
 lactancia        noun  g=f
 lactante         noun  g=m|f
 lactasa          noun  g=f
@@ -68,6 +70,7 @@ lanzagranadas    noun  g=m
 lanzallamas      noun  g=m
 lanzamiento      noun  g=m
 lanzamisiles     noun  g=m
+lanzatorpedos    noun  g=m
 lapa             noun  g=f
 lapicero         noun  g=m
 lápida           noun  g=f
@@ -77,8 +80,10 @@ lápiz            noun  g=m
 lapón            noun  g=m f=lapona
 lapso            noun  g=m
 lapsus           noun  g=m
+lar              noun  g=m note=hearth; plural lares (los lares, the household gods)
 largometraje     noun  g=m
 larguero         noun  g=m
+largueza         noun  g=f
 laringe          noun  g=f
 larva            noun  g=f
 lasca            noun  g=f
@@ -126,6 +131,7 @@ lazarillo        noun  g=m
 lazo             noun  g=m
 lealista         noun  g=m|f
 lealtad          noun  g=f
+leasing          noun  g=m foreign
 lebrel           noun  g=m
 lección          noun  g=f
 leche            noun  g=f
@@ -174,6 +180,7 @@ leninista        noun  g=m|f
 lente            noun  g=amb
 lenteja          noun  g=f
 lentejuela       noun  g=f
+lenticela        noun  g=f
 lentilla         noun  g=f
 lentisco         noun  g=m
 lentitud         noun  g=f
@@ -213,6 +220,7 @@ levantamiento    noun  g=m
 levante          noun  g=m
 levedad          noun  g=f
 levitación       noun  g=f
+levonorgestrel   noun  g=m
 lexema           noun  g=m
 léxico           noun  g=m
 lexicografía     noun  g=f
@@ -231,6 +239,7 @@ líbero           noun  g=m
 libertad         noun  g=f
 libertador       noun  g=m f=libertadora
 libertario       noun  g=m f=libertaria
+libertarismo     noun  g=m
 libertinaje      noun  g=m
 libertino        noun  g=m f=libertina
 liberto          noun  g=m f=liberta
@@ -269,11 +278,13 @@ liderazgo        noun  g=m
 lidia            noun  g=f
 lidiador         noun  g=m f=lidiadora
 liebre           noun  g=f
+lied             noun  g=m pl=lieder foreign
 liendre          noun  g=f
 lienzo           noun  g=m
 liga             noun  g=f
 ligadura         noun  g=f
 ligamento        noun  g=m
+ligando          noun  g=m note=chemistry
 ligazón          noun  g=f
 ligereza         noun  g=f
 lignina          noun  g=f
@@ -305,6 +316,7 @@ lince            noun  g=m
 linchamiento     noun  g=m
 linde            noun  g=amb
 lindero          noun  g=m
+lindeza          noun  g=f
 línea            noun  g=f
 linealidad       noun  g=f
 lineamiento      noun  g=m
@@ -328,6 +340,8 @@ lira             noun  g=f
 lírica           noun  g=f
 lirio            noun  g=m
 lirismo          noun  g=m
+lis              noun  g=f note=flor de lis
+lisina           noun  g=f
 lisis            noun  g=f
 lisonja          noun  g=f
 lista            noun  g=f
@@ -452,6 +466,7 @@ lujuria          noun  g=f
 lumbago          noun  g=m
 lumbre           noun  g=f
 lumbrera         noun  g=f
+lumen            noun  g=m pl=lúmenes
 luminancia       noun  g=f
 luminaria        noun  g=f
 luminiscencia    noun  g=f
@@ -461,13 +476,18 @@ lunar            noun  g=m
 lunático         noun  g=m f=lunática
 lunes            noun  g=m
 luneta           noun  g=f
+luneto           noun  g=m
+lunfardo         noun  g=m
 lupa             noun  g=f
 lúpulo           noun  g=m
+lupus            noun  g=m
 luso             noun  g=m f=lusa
 lustre           noun  g=m
 lustro           noun  g=m
+luteranismo      noun  g=m
 luterano         noun  g=m f=luterana
 lutier           noun  g=m|f
+lutita           noun  g=f
 luto             noun  g=m
 luxación         noun  g=f
 luxemburgués     noun  g=m f=luxemburguesa

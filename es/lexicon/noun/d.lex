@@ -104,6 +104,7 @@ dedo             noun  g=m
 deducción        noun  g=f
 deducibilidad    noun  g=f
 defecación       noun  g=f
+defección        noun  g=f
 defecto          noun  g=m
 defenestración   noun  g=f
 defensa          noun  g=f
@@ -134,6 +135,7 @@ degú             noun  g=m pl=degús
 degüello         noun  g=m
 degustación      noun  g=f
 dehesa           noun  g=f
+dehiscencia      noun  g=f
 deidad           noun  g=f
 deísmo           noun  g=m
 deísta           noun  g=m|f
@@ -149,6 +151,7 @@ deleción         noun  g=f
 delectación      noun  g=f
 delegación       noun  g=f
 delegado         noun  g=m f=delegada
+delegante        noun  g=m|f
 delegatario      noun  g=m f=delegataria
 deleite          noun  g=m
 delfín           noun  g=m
@@ -283,6 +286,7 @@ desacoplamiento  noun  g=m
 desactivación    noun  g=f
 desactivador     noun  g=m
 desacuerdo       noun  g=m
+desadscripción   noun  g=f
 desafección      noun  g=f
 desafectación    noun  g=f
 desafecto        noun  g=m
@@ -608,6 +612,7 @@ desprotegido     noun  g=m f=desprotegida
 desquite         noun  g=m
 desratización    noun  g=f
 desregulación    noun  g=f
+desregularización noun  g=f
 destacamento     noun  g=m
 destajo          noun  g=m
 destello         noun  g=m
@@ -680,6 +685,7 @@ devolución       noun  g=f
 devoto           noun  g=m f=devota
 dexametasona     noun  g=f
 deyección        noun  g=f
+dharma           noun  g=m
 día              noun  g=m
 diabetes         noun  g=f
 diablillo        noun  g=m
@@ -964,6 +970,7 @@ doblaje          noun  g=m
 doblete          noun  g=m
 doblez           noun  g=f sense=duplicity
 doblez           noun  g=m sense=fold
+doblón           noun  g=m
 docena           noun  g=f
 docencia         noun  g=f
 docente          noun  g=m|f
@@ -1032,7 +1039,7 @@ dormitorio       noun  g=m
 dorsal           noun  g=m
 dorso            noun  g=m
 dosel            noun  g=m
-dosier           noun  g=m
+dosier           noun  g=m var=dossier
 dosificación     noun  g=f
 dosificador      noun  g=m
 dosimetría       noun  g=f

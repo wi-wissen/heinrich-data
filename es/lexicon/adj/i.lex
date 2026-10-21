@@ -34,6 +34,7 @@ ileso            adj
 ilicitano        adj
 ilícito          adj   adv=ilícitamente
 ilimitado        adj adv=ilimitadamente
+ilirio           adj
 ilógico          adj
 iluminador       adj
 ilusionante      adj
@@ -41,7 +42,7 @@ iluso            adj
 ilusorio         adj adv=ilusoriamente
 ilustrado        adj
 ilustrativo      adj
-ilustre          adj
+ilustre          adj   sup=ilustrísimo note=ilustrísimo is also a form of address (ilustrísimo señor)
 imaginable       adj
 imaginario       adj adv=imaginariamente
 imaginativo      adj adv=imaginativamente
@@ -232,6 +233,7 @@ indecoroso       adj adv=indecorosamente
 indefectible     adj   adv=indefectiblemente
 indefendible     adj
 indefenso        adj
+indefinible      adj
 indefinido       adj   adv=indefinidamente
 indeleble        adj adv=indeleblemente
 indelegable      adj
@@ -247,7 +249,9 @@ indeseado        adj
 indestructible   adj
 indeterminado    adj adv=indeterminadamente
 indiano          adj
+indicador        adj
 indicativo       adj adv=indicativamente
+indiciario       adj   adv=indiciariamente
 indie            adj   inv foreign
 indiferenciado   adj
 indiferente      adj   adv=indiferentemente
@@ -280,6 +284,7 @@ indolente        adj adv=indolentemente
 indomable        adj
 indómito         adj
 indonesio        adj
+indoor           adj   inv foreign
 indubitable      adj adv=indubitablemente
 indubitado       adj adv=indubitadamente
 inducible        adj
@@ -475,6 +480,7 @@ insultante       adj adv=insultantemente
 insuperable      adj
 insurgente       adj
 insurreccional   adj
+insurrecto       adj
 insustancial     adj
 insustituible    adj
 intachable       adj
@@ -524,6 +530,7 @@ interminable     adj adv=interminablemente
 interministerial adj
 intermitente     adj   adv=intermitentemente
 intermodal       adj
+intermodular     adj
 intermunicipal   adj
 internacional    adj   adv=internacionalmente
 internacionalista adj
@@ -534,6 +541,7 @@ interplanetario  adj
 interpretable    adj
 interpretativo   adj
 interprofesional adj
+interprovincial  adj
 interracial      adj
 interregional    adj
 interreligioso   adj
@@ -543,6 +551,7 @@ interrumpible    adj
 interseccional   adj
 intersectorial   adj
 intersexual      adj
+intersticial     adj
 interterritorial adj
 intertropical    adj
 interurbano      adj
@@ -564,6 +573,7 @@ intracraneal     adj
 intradiario      adj
 intraeuropeo     adj
 intrafamiliar    adj
+intragrupo       adj   inv
 intramuscular    adj
 intranquilo      adj
 intransferible   adj
@@ -584,6 +594,7 @@ introvertido     adj
 intrusivo        adj
 intruso          adj
 intuitivo        adj   adv=intuitivamente
+inuit            adj   pl=inuits note=same form in both genders; plural inuits
 inundable        adj
 inusitado        adj adv=inusitadamente
 inusual          adj   adv=inusualmente
@@ -657,6 +668,7 @@ islámico         adj
 islamista        adj
 islandés         adj
 isleño           adj
+isomorfo         adj
 isósceles        adj
 isotópico        adj
 isótropo         adj

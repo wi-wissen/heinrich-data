@@ -17,6 +17,7 @@ halagüeño        adj
 halogenado       adj
 halógeno         adj
 hambriento       adj
+hamiltoniano     adj
 haploide         adj
 haragán          adj
 harapiento       adj
@@ -73,6 +74,7 @@ hidroeléctrico   adj
 hidrogeológico   adj
 hidrográfico     adj adv=hidrográficamente
 hidrológico      adj adv=hidrológicamente
+hidromorfológico adj
 hidrostático     adj
 hidrotermal      adj adv=hidrotermalmente
 hierático        adj

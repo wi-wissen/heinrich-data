@@ -16,6 +16,7 @@ eclosión         noun  g=f
 eco              noun  g=m
 ecocardiografía  noun  g=f
 ecocidio         noun  g=m
+ecocrítica       noun  g=f
 ecodiseño        noun  g=m
 ecoesquema       noun  g=m
 ecofeminismo     noun  g=m
@@ -983,6 +984,7 @@ estancamiento    noun  g=m
 estancia         noun  g=f
 estanciero       noun  g=m f=estanciera
 estanco          noun  g=m
+estand           noun  g=m pl=estands note=adapted spelling of stand (exhibition booth)
 estándar         noun  g=m pl=estándares
 estandarización  noun  g=f
 estandarte       noun  g=m

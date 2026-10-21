@@ -141,6 +141,7 @@ generalidad      noun  g=f
 generalísimo     noun  g=m
 generalista      noun  g=m|f
 generalización   noun  g=f
+generatriz       noun  g=f
 género           noun  g=m
 generosidad      noun  g=f
 génesis          noun  g=f
@@ -201,6 +202,7 @@ gestor           noun  g=m f=gestora
 gestoría         noun  g=f
 ghanés           noun  g=m f=ghanesa
 gibelino         noun  g=m
+giga             noun  g=m style=colloquial alt=gigabyte
 gigajulio        noun  g=m
 gigante          noun  g=m f=giganta
 gigavatio        noun  g=m
@@ -222,6 +224,7 @@ girola           noun  g=f
 gitano           noun  g=m f=gitana
 glaciación       noun  g=f
 glaciar          noun  g=m
+glacis           noun  g=m
 gladiador        noun  g=m
 glande           noun  g=m
 glándula         noun  g=f
@@ -231,6 +234,7 @@ glicerol         noun  g=m
 glicina          noun  g=f
 glicoproteína    noun  g=f
 glifo            noun  g=m
+glifosato        noun  g=m
 globalidad       noun  g=f
 globalismo       noun  g=m
 globalista       noun  g=m|f
@@ -253,9 +257,11 @@ glucógeno        noun  g=m
 glucólisis       noun  g=f
 glucosa          noun  g=f
 glutamato        noun  g=m
+gluten           noun  g=m
 glúteo           noun  g=m
 gnomo            noun  g=m
 gnosis           noun  g=f
+gnosticismo      noun  g=m
 gnóstico         noun  g=m f=gnóstica
 gobernabilidad   noun  g=f
 gobernación      noun  g=f
@@ -280,7 +286,9 @@ golpeteo         noun  g=m
 golpismo         noun  g=m
 golpista         noun  g=m|f
 goma             noun  g=f
+gónada           noun  g=f
 góndola          noun  g=f
+gong             noun  g=m
 gonorrea         noun  g=f
 gordinflón       noun  g=m f=gordinflona
 gordo            noun  g=m f=gorda
@@ -291,11 +299,13 @@ gorjeo           noun  g=m
 gorra            noun  g=f
 gorrión          noun  g=m
 gorro            noun  g=m
+gospel           noun  g=m pl=gospels foreign
 góspel           noun  g=m
 gota             noun  g=f
 goteo            noun  g=m
 gotera           noun  g=f
 gótico           noun  g=m
+gourmet          noun  g=m|f foreign
 gozne            noun  g=m
 grabación        noun  g=f
 grabado          noun  g=m
@@ -319,11 +329,13 @@ grafiti          noun  g=m
 grafito          noun  g=m
 grafo            noun  g=m
 grafólogo        noun  g=m f=grafóloga
+grama            noun  g=f
 gramática        noun  g=f
 gramático        noun  g=m f=gramática
 gramínea         noun  g=f
 gramo            noun  g=m
 gramófono        noun  g=m
+grana            noun  g=f note=the colour (also invariable adjective: rojo grana)
 granada          noun  g=f
 granadero        noun  g=m
 granadilla       noun  g=f
@@ -374,6 +386,7 @@ grifo            noun  g=m
 grillete         noun  g=m
 grillo           noun  g=m
 grima            noun  g=f
+gringo           noun  g=m f=gringa style=colloquial alt=estadounidense|extranjero
 gripe            noun  g=f
 gritería         noun  g=f
 griterío         noun  g=m
@@ -394,6 +407,7 @@ grupúsculo       noun  g=m
 gruta            noun  g=f
 guacamayo        noun  g=m
 guadaña          noun  g=f
+gualda           noun  g=f note=plant and colour; rojo y gualda
 guanaco          noun  g=m
 guanche          noun  g=m|f
 guanina          noun  g=f
@@ -403,9 +417,11 @@ guantelete       noun  g=m
 guaraní          noun  g=m|f pl=guaraníes|guaranís[var]
 guardabarros     noun  g=m
 guardabosques    noun  g=m|f
+guardabrisas     noun  g=m
 guardacostas     noun  g=m
 guardador        noun  g=m f=guardadora
 guardaespaldas   noun  g=m|f
+guardamanos      noun  g=m
 guardameta       noun  g=m|f
 guardaparques    noun  g=m|f
 guardapolvo      noun  g=m

@@ -88,6 +88,7 @@ fétido           adj
 feudal           adj
 feudatario       adj
 fiable           adj
+fibrado          adj
 fibrilar         adj
 fibroso          adj
 ficcional        adj
@@ -128,7 +129,9 @@ fiscalizador     adj
 fisgón           adj
 físico           adj   adv=físicamente
 fisicoquímico    adj
+fisiográfico     adj
 fisiológico      adj adv=fisiológicamente
+fisionable       adj
 fitogenético     adj
 fitogeográfico   adj
 fitosanitario    adj
@@ -223,7 +226,7 @@ frustrante       adj adv=frustrantemente
 frutal           adj
 frutícola        adj
 fucsia           adj   inv
-fuerte           adj   adv=fuertemente
+fuerte           adj   adv=fuertemente sup=fortísimo|fuertísimo
 fugaz            adj   adv=fugazmente
 fugitivo         adj
 fulgurante       adj

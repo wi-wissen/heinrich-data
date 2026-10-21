@@ -24,6 +24,7 @@ hachazo          noun  g=m
 hachís           noun  g=m
 hacienda         noun  g=f
 hacinamiento     noun  g=m
+hacker           noun  g=m|f pl=hackers foreign
 hada             noun  g=f
 hado             noun  g=m
 hadrón           noun  g=m
@@ -42,6 +43,7 @@ hambre           noun  g=f
 hambruna         noun  g=f
 hamburguesa      noun  g=f
 hamburguesería   noun  g=f
+hamiltoniano     noun  g=m
 hampa            noun  g=f
 hámster          noun  g=m pl=hámsteres
 hándicap         noun  g=m
@@ -52,11 +54,14 @@ haragán          noun  g=m f=haragana
 harapo           noun  g=m
 hardcore         noun  g=m foreign note=music genre
 hardware         noun  g=m pl=- foreign note=mass noun
-harén            noun  g=m
+harén            noun  g=m var=harem
 harina           noun  g=f
 hartazgo         noun  g=m
 hartura          noun  g=f
+hashtag          noun  g=m foreign
+hastial          noun  g=m
 hastío           noun  g=m
+hat-trick        noun  g=m foreign
 hato             noun  g=m
 hawaiano         noun  g=m f=hawaiana
 hayedo           noun  g=m
@@ -106,6 +111,7 @@ hemoglobina      noun  g=f
 hemorragia       noun  g=f
 hemorroide       noun  g=f
 hendidura        noun  g=f
+henequén         noun  g=m
 heno             noun  g=m
 hepatitis        noun  g=f
 heráldica        noun  g=f
@@ -208,11 +214,13 @@ hincapié         noun  g=m
 hincha           noun  g=m|f
 hinchada         noun  g=f
 hinchazón        noun  g=f
+hindi            noun  g=m note=the language
 hindú            noun  g=m|f pl=hindúes|hindús[var]
 hinduismo        noun  g=m
 hinduista        noun  g=m|f
 hinojo           noun  g=m
 hioides          noun  g=m
+hip-hop          noun  g=m foreign
 hiperactividad   noun  g=f
 hiperacusia      noun  g=f
 hipérbole        noun  g=f
@@ -245,8 +253,10 @@ hipófisis        noun  g=f
 hipoglucemia     noun  g=f
 hipomanía        noun  g=f
 hipopótamo       noun  g=m
+hipóstasis       noun  g=f
 hipotálamo       noun  g=m
 hipoteca         noun  g=f
+hipotecante      noun  g=m|f
 hipotensión      noun  g=f
 hipotenusa       noun  g=f
 hipotermia       noun  g=f
@@ -254,6 +264,7 @@ hipótesis        noun  g=f
 hipotiroidismo   noun  g=m
 hipotonía        noun  g=f
 hipoxia          noun  g=f
+hippie           noun  g=m|f foreign note=adapted spelling jipi is rare
 hisopo           noun  g=m
 hispanidad       noun  g=f
 hispanista       noun  g=m|f
@@ -288,6 +299,7 @@ hojaldre         noun  g=m
 hojarasca        noun  g=f
 hojuela          noun  g=f
 holandés         noun  g=m f=holandesa
+holding          noun  g=m foreign
 holganza         noun  g=f
 holgazán         noun  g=m f=holgazana
 holgazanería     noun  g=f
@@ -318,7 +330,9 @@ homomorfismo     noun  g=m
 homónimo         noun  g=m f=homónima
 homosexual       noun  g=m|f
 homosexualidad   noun  g=f
+homotopía        noun  g=f
 honda            noun  g=f
+hondero          noun  g=m
 hondonada        noun  g=f
 hondura          noun  g=f
 hondureño        noun  g=m f=hondureña

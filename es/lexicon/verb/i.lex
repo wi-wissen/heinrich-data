@@ -41,6 +41,7 @@ impugnar         verb
 impulsar         verb
 imputar          verb
 inactivar        verb
+inadmitir        verb  note=legal: inadmitir a trámite
 inaplicar        verb
 inaugurar        verb
 incapacitar      verb
