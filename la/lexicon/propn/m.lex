@@ -7,7 +7,7 @@ Mārcus, Mārcī propn m
 Marius, Mariī propn m conf=80 note=reviewer-dispute; length of the a
 Mārs, Mārtis propn m conf=80 note=reviewer-dispute; length of the a in the oblique cases
 Massilia, Massiliae propn f loc
-Matrona, Matronae propn m
+Mātrona, Mātronae propn m conf=80 note=reviewer-dispute; length in the lemma (Celtic name)
 Mēdēa, Mēdēae propn f
 Mediolānum, Mediolānī propn n loc
 Menapius, Menapiī propn m sg_pl
