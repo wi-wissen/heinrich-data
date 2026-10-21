@@ -404,7 +404,7 @@ aquejar      verb
 arañar       verb
 arar         verb
 arbitrar     verb
-arcaizar     verb
+arcaizar     verb class=hiatus
 archivar     verb
 arder        verb
 argüir       verb

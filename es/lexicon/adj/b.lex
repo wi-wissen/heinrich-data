@@ -78,7 +78,7 @@ bíblico      adj
 bibliográfico adj
 bicameral    adj
 bicéfalo     adj
-bicolor      adj
+bicolor      adj f=bicolor note=the same form in both genders (bandera bicolor)
 bidimensional adj
 bidireccional adj
 bielorruso   adj

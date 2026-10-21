@@ -64,7 +64,7 @@ carear       verb
 carecer      verb class=zco
 carenar      verb
 cargar       verb
-cariar       verb class=diphthong
+cariar       verb class=hiatus conf=80 note=se caría; caria is also heard
 caricaturizar verb
 carraspear   verb
 cartear      verb pronominal
@@ -363,7 +363,7 @@ contraatacar verb
 contrabandear verb
 contradecir  verb class=predecir
 contraer     verb class=traer
-contrahacer  verb class=hacer note=preterite accents are a generator gap (reported): contrahíce, contrahiciste, contrahízo
+contrahacer  verb class=hacer pret=contrahíce,contrahiciste,contrahízo,contrahicimos,contrahicisteis,contrahicieron note=preterite written out: the generator puts the hiatus accent on unstressed i (reported)
 contraindicar verb
 contrapesar  verb
 contraponer  verb class=poner
