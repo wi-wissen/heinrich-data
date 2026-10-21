@@ -1,4 +1,5 @@
 # Spanish nouns, letter f (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+fabada           noun  g=f
 fábrica          noun  g=f
 fabricación      noun  g=f
 fabricante       noun  g=m|f
@@ -8,6 +9,7 @@ fachada          noun  g=f
 facilidad        noun  g=f
 facilitación     noun  g=f
 facilitador      noun  g=m f=facilitadora
+facineroso       noun  g=m f=facinerosa
 facsímil         noun  g=m
 factibilidad     noun  g=f
 factor           noun  g=m
@@ -20,10 +22,14 @@ faena            noun  g=f
 fagot            noun  g=m pl=fagotes conf=80 note=plural fagotes as in the corpus; fagots also seen
 faisán           noun  g=m
 faja             noun  g=f
+fajo             noun  g=m
 falacia          noun  g=f
 falange          noun  g=f
 falangista       noun  g=m|f
 falda            noun  g=f
+faldón           noun  g=m
+falla            noun  g=f
+fallecido        noun  g=m f=fallecida
 fallecimiento    noun  g=m
 fallo            noun  g=m
 falo             noun  g=m
@@ -31,6 +37,7 @@ falseamiento     noun  g=m
 falsedad         noun  g=f
 falsete          noun  g=m
 falsificación    noun  g=f
+falsificador     noun  g=m f=falsificadora
 falta            noun  g=f
 fama             noun  g=f
 familia          noun  g=f
@@ -41,13 +48,17 @@ fanático         noun  g=m f=fanática
 fanatismo        noun  g=m
 fandango         noun  g=m
 fanega           noun  g=f
+fanfarria        noun  g=f
+fanfarrón        noun  g=m f=fanfarrona
 fango            noun  g=m
 fantasía         noun  g=f
 fantasma         noun  g=m
+fantoche         noun  g=m
 fanzine          noun  g=m
 farándula        noun  g=f
 faraón           noun  g=m f=faraona
 fardo            noun  g=m
+farero           noun  g=m f=farera
 faringe          noun  g=f
 faringitis       noun  g=f
 fariseo          noun  g=m f=farisea
@@ -67,12 +78,14 @@ fascinación      noun  g=f
 fascismo         noun  g=m
 fascista         noun  g=m|f
 fase             noun  g=f
+fastidio         noun  g=m
 fatalidad        noun  g=f
 fatiga           noun  g=f
 fauces           noun  g=f pl_only
 fauna            noun  g=f
 favor            noun  g=m
 favoritismo      noun  g=m
+favorito         noun  g=m f=favorita
 fax              noun  g=m
 faz              noun  g=f
 fe               noun  g=f pl=fes
@@ -89,6 +102,8 @@ federalista      noun  g=m|f
 felicidad        noun  g=f
 felicitación     noun  g=f
 felino           noun  g=m
+felpa            noun  g=f
+felpudo          noun  g=m
 feminidad        noun  g=f
 feminismo        noun  g=m
 feminista        noun  g=m|f
@@ -101,10 +116,13 @@ fenomenología    noun  g=f
 fenotipo         noun  g=m
 féretro          noun  g=m
 feria            noun  g=f
+feriante         noun  g=m|f
 fermentación     noun  g=f
+fermento         noun  g=m
 ferocidad        noun  g=f
 feromona         noun  g=f
 ferretería       noun  g=f
+ferretero        noun  g=m f=ferretera
 ferrocarril      noun  g=m
 ferroviario      noun  g=m f=ferroviaria
 fertilidad       noun  g=f
@@ -115,15 +133,19 @@ festejo          noun  g=m
 festín           noun  g=m
 festival         noun  g=m
 festividad       noun  g=f
+festivo          noun  g=m note=un festivo: a public holiday
 fetiche          noun  g=m
 feto             noun  g=m
 feudalismo       noun  g=m
 feudo            noun  g=m
 fiabilidad       noun  g=f
 fiador           noun  g=m f=fiadora
+fiambre          noun  g=m
+fiambrera        noun  g=f
 fianza           noun  g=f
 fiasco           noun  g=m
 fibra            noun  g=f
+fibrilación      noun  g=f
 ficción          noun  g=f
 ficha            noun  g=f
 fichaje          noun  g=m
@@ -132,19 +154,24 @@ fideicomiso      noun  g=m
 fidelidad        noun  g=f
 fideo            noun  g=m
 fiebre           noun  g=f
+fiel             noun  g=m|f note=los fieles (believers)
 fieltro          noun  g=m
 fiera            noun  g=f
 fiereza          noun  g=f
 fiesta           noun  g=f
 figura           noun  g=f
 figuración       noun  g=f
+figurante        noun  g=m|f
 figurilla        noun  g=f
+figurín          noun  g=m
 fijación         noun  g=f
+fijador          noun  g=m
 fijeza           noun  g=f
 fila             noun  g=f
 filamento        noun  g=m
 filantropía      noun  g=f
 filántropo       noun  g=m f=filántropa
+filatelia        noun  g=f
 filete           noun  g=m
 filiación        noun  g=f
 filial           noun  g=f
@@ -176,6 +203,7 @@ finanzas         noun  g=f pl_only
 finca            noun  g=f
 finés            noun  g=m f=finesa
 fineza           noun  g=f
+finiquito        noun  g=m
 finlandés        noun  g=m f=finlandesa
 finura           noun  g=f
 fiordo           noun  g=m
@@ -188,6 +216,7 @@ fiscalía         noun  g=f
 fiscalidad       noun  g=f
 fiscalización    noun  g=f
 fisco            noun  g=m
+fisgón           noun  g=m f=fisgona
 física           noun  g=f
 físico           noun  g=m f=física
 fisiología       noun  g=f
@@ -202,31 +231,44 @@ fitosanitario    noun  g=m
 flagelación      noun  g=f
 flagelo          noun  g=m
 flamenco         noun  g=m f=flamenca note=the music/dance, the bird, and the Fleming
+flan             noun  g=m
 flanco           noun  g=m
 flaqueza         noun  g=f
+flatulencia      noun  g=f
 flauta           noun  g=f
+flautín          noun  g=m
 flautista        noun  g=m|f
 flecha           noun  g=f
+flechazo         noun  g=m
 fleco            noun  g=m
 flema            noun  g=f
+flequillo        noun  g=m
 fletador         noun  g=m f=fletadora
 fletamento       noun  g=m
 flete            noun  g=m
 flexibilidad     noun  g=f
 flexibilización  noun  g=f
+flexión          noun  g=f
+flexo            noun  g=m
+flirteo          noun  g=m
+flojera          noun  g=f
 flor             noun  g=f
 flora            noun  g=f
 floración        noun  g=f
 florecimiento    noun  g=m
 florentino       noun  g=m f=florentina
+florero          noun  g=m
 florete          noun  g=m
 floricultura     noun  g=f
+florista         noun  g=m|f
 flota            noun  g=f
 flotabilidad     noun  g=f
 flotación        noun  g=f
+flotador         noun  g=m
 flotilla         noun  g=f
 fluctuación      noun  g=f
 fluidez          noun  g=f
+fluido           noun  g=m
 flujo            noun  g=m
 flúor            noun  g=m
 fluorescencia    noun  g=f
@@ -235,17 +277,22 @@ foca             noun  g=f
 foco             noun  g=m
 fogata           noun  g=f
 fogón            noun  g=m
+fogonero         noun  g=m f=fogonera
+fogosidad        noun  g=f
 fogueo           noun  g=m
 folclore         noun  g=m var=folklore
 folio            noun  g=m
 follaje          noun  g=m
 folleto          noun  g=m
+follón           noun  g=m style=colloquial alt=lío|alboroto
 fomento          noun  g=m
 fonda            noun  g=f
 fondeadero       noun  g=m
 fondeo           noun  g=m
+fondista         noun  g=m|f
 fondo            noun  g=m
 fonema           noun  g=m
+fonendoscopio    noun  g=m
 fonética         noun  g=f
 fonógrafo        noun  g=m
 fonograma        noun  g=m
@@ -254,8 +301,10 @@ fontanería       noun  g=f
 fontanero        noun  g=m f=fontanera
 forajido         noun  g=m f=forajida
 forastero        noun  g=m f=forastera
+forcejeo         noun  g=m
 forense          noun  g=m|f
 forestación      noun  g=f
+forjado          noun  g=m
 forma            noun  g=f
 formación        noun  g=f
 formador         noun  g=m f=formadora
@@ -280,12 +329,15 @@ fósil            noun  g=m
 foso             noun  g=m
 foto             noun  g=f
 fotocopia        noun  g=f
+fotocopiadora    noun  g=f
 fotografía       noun  g=f
 fotógrafo        noun  g=m f=fotógrafa
 fotograma        noun  g=m
+fotomatón        noun  g=m
 fotón            noun  g=m
 fotoperiodista   noun  g=m|f
 fotosíntesis     noun  g=f
+fracasado        noun  g=m f=fracasada
 fracaso          noun  g=m
 fracción         noun  g=f
 fraccionamiento  noun  g=m
@@ -299,6 +351,7 @@ fragmento        noun  g=m
 fragor           noun  g=m
 fragua           noun  g=f
 fraile           noun  g=m
+frambuesa        noun  g=f
 francés          noun  g=m f=francesa
 franciscano      noun  g=m f=franciscana
 francotirador    noun  g=m f=francotiradora
@@ -317,16 +370,24 @@ fraternidad      noun  g=f
 fraude           noun  g=m
 fray             noun  g=m pl=- note=title before a friar's name (fray Luis); apocope of fraile
 frecuencia       noun  g=f
+fregadero        noun  g=m
+fregado          noun  g=m
+fregona          noun  g=f
+freidora         noun  g=f
 frenazo          noun  g=m
 frenesí          noun  g=m pl=frenesíes|frenesís[var]
 freno            noun  g=m
 frente           noun  g=f sense=forehead
 frente           noun  g=m sense=front
 fresa            noun  g=f
+fresco           noun  g=m note=fresco painting; also al fresco
+frescor          noun  g=m
 frescura         noun  g=f
 fresno           noun  g=m
 frialdad         noun  g=f
 fricción         noun  g=f
+friega           noun  g=f
+frigidez         noun  g=f
 frigorífico      noun  g=m
 frijol           noun  g=m var=fríjol
 frío             noun  g=m
@@ -338,17 +399,23 @@ frontispicio     noun  g=m
 frontón          noun  g=m
 fructosa         noun  g=f
 fruición         noun  g=f
+fruslería        noun  g=f
 frustración      noun  g=f
 fruta            noun  g=f
 frutal           noun  g=m
+frutería         noun  g=f
+frutero          noun  g=m f=frutera
 fruto            noun  g=m
+fucsia           noun  g=m
 fuego            noun  g=m
 fuelle           noun  g=m
 fuente           noun  g=f
 fuero            noun  g=m
 fuerza           noun  g=f
 fuga             noun  g=f
+fugacidad        noun  g=f
 fugitivo         noun  g=m f=fugitiva
+fulano           noun  g=m f=fulana
 fulgor           noun  g=m
 fumadero         noun  g=m
 fumador          noun  g=m f=fumadora
@@ -359,6 +426,7 @@ funcionalidad    noun  g=f
 funcionamiento   noun  g=m
 funcionariado    noun  g=m
 funcionario      noun  g=m f=funcionaria
+funda            noun  g=f
 fundación        noun  g=f
 fundador         noun  g=m f=fundadora
 fundamentación   noun  g=f
@@ -379,6 +447,7 @@ fusil            noun  g=m
 fusilamiento     noun  g=m
 fusilero         noun  g=m
 fusión           noun  g=f
+fusta            noun  g=f
 fuste            noun  g=m
 fútbol           noun  g=m var=futbol
 futbolista       noun  g=m|f

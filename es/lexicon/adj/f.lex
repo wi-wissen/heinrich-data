@@ -11,22 +11,28 @@ falaz            adj
 fallido          adj
 falso            adj   adv=falsamente
 falto            adj
+famélico         adj
 familiar         adj
 famoso           adj   adv=famosamente
 fanático         adj
+fanfarrón        adj
+fangoso          adj
+fantasioso       adj
 fantasmal        adj
-fantástico       adj
+fantástico       adj   adv=fantásticamente
 farmacéutico     adj
 farmacológico    adj
 fascinante       adj
 fascista         adj
+fastidioso       adj
 fatal            adj   adv=fatalmente
 fatídico         adj
 fatigado         adj
-fatigoso         adj
+fatigoso         adj   adv=fatigosamente
 fatuo            adj
 favorable        adj   adv=favorablemente
 favorito         adj
+fecal            adj
 fecundo          adj
 federado         adj
 federal          adj
@@ -40,26 +46,31 @@ femenino         adj
 feminista        adj
 femoral          adj
 fenicio          adj
-fenomenal        adj
+fenomenal        adj   adv=fenomenalmente
 feo              adj
 feroz            adj   adv=ferozmente
+férreo           adj   adv=férreamente
+ferroso          adj
 ferroviario      adj
 fértil           adj
 fertilizante     adj
 ferviente        adj   adv=fervientemente
 fervoroso        adj   adv=fervorosamente
-festivo          adj
+festivo          adj   adv=festivamente
 fetal            adj
 feudal           adj
 fiable           adj
 fibroso          adj
 ficticio         adj
-fidedigno        adj
+fidedigno        adj   adv=fidedignamente
 fiduciario       adj
 fiel             adj   adv=fielmente
-fiero            adj
+fiero            adj   adv=fieramente
 figurativo       adj
 fijo             adj   adv=fijamente
+filantrópico     adj
+filatélico       adj
+filial           adj
 filipino         adj
 fílmico          adj
 filogenético     adj
@@ -68,29 +79,35 @@ filosófico       adj   adv=filosóficamente
 final            adj   adv=finalmente
 finalista        adj
 financiero       adj   adv=financieramente
+fingido          adj
 finito           adj
 finlandés        adj
 fino             adj   adv=finamente
 firme            adj   adv=firmemente
 fiscal           adj   adv=fiscalmente
 fiscalizador     adj
+fisgón           adj
 físico           adj   adv=físicamente
 fisiológico      adj
 fitosanitario    adj
+flácido          adj
 flaco            adj
 flagrante        adj   adv=flagrantemente
 flamante         adj
 flamenco         adj
+flemático        adj
 flexible         adj
-flojo            adj
+flojo            adj   adv=flojamente
 floral           adj
 floreciente      adj
 florentino       adj
 florido          adj
 flotante         adj
+fluido           adj   adv=fluidamente
 fluorescente     adj
 fluvial          adj
 focal            adj
+fofo             adj
 fogoso           adj
 folclórico       adj   var=folklórico
 foliar           adj
@@ -106,9 +123,13 @@ formidable       adj
 fornido          adj
 fortuito         adj   adv=fortuitamente
 forzoso          adj   adv=forzosamente
+forzudo          adj
+fosforescente    adj
 fósil            adj
+fotogénico       adj
 fotográfico      adj
 fotovoltaico     adj
+fracasado        adj
 fractal          adj
 fragante         adj
 frágil           adj
@@ -117,22 +138,27 @@ francés          adj
 franciscano      adj
 franco           adj   adv=francamente
 franquista       adj
-fraternal        adj
+fraternal        adj   adv=fraternalmente
 fraudulento      adj   adv=fraudulentamente
 freático         adj
 frecuente        adj   adv=frecuentemente
 frenético        adj   adv=frenéticamente
 fresco           adj
 fricativo        adj
+frígido          adj
 frigorífico      adj
 frío             adj   adv=fríamente
-frívolo          adj
+friolero         adj
+frívolo          adj   adv=frívolamente
 frondoso         adj
 frontal          adj   adv=frontalmente
 fronterizo       adj
 fructífero       adj
+frugal           adj   adv=frugalmente
+frustrado        adj
 frustrante       adj
 frutal           adj
+fucsia           adj   inv
 fuerte           adj   adv=fuertemente
 fugaz            adj   adv=fugazmente
 fugitivo         adj
@@ -148,8 +174,10 @@ fúnebre          adj
 funerario        adj
 funesto          adj
 fungible         adj
+furibundo        adj
 furioso          adj   adv=furiosamente
 furtivo          adj   adv=furtivamente
 futbolístico     adj
+fútil            adj
 futurista        adj
 futuro           adj
