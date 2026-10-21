@@ -19,9 +19,12 @@ fleō, flēvī, flētum, flēre verb
 flōreō, flōruī, -, flōrēre verb intr
 fluō, flūxī, -, fluere verb intr conf=75 note=length of the u in the perfect?
 fodiō, fōdī, fossum, fodere verb
+for, fātus sum, fārī verb note=no long vowel in the lemma; defective, mostly fātur, fārī, fātus
+formīdō, formīdāvī, formīdātum, formīdāre verb conf=80 note=length of the o, as the noun formīdō
 fōrmō, fōrmāvī, fōrmātum, fōrmāre verb conf=85 note=length of the o, as in fōrma?
 foveō, fōvī, fōtum, fovēre verb
 frangō, frēgī, frāctum, frangere verb
+fraudō, fraudāvī, fraudātum, fraudāre verb
 fremō, fremuī, fremitum, fremere verb
 frēnō, frēnāvī, frēnātum, frēnāre verb
 frequentō, frequentāvī, frequentātum, frequentāre verb
@@ -32,5 +35,6 @@ fulciō, fulsī, fultum, fulcīre verb
 fulgeō, fulsī, -, fulgēre verb intr
 fūmō, fūmāvī, fūmātum, fūmāre verb intr
 fundō, fūdī, fūsum, fundere verb
+fundō, fundāvī, fundātum, fundāre verb sense=found
 fungor, fūnctus sum, fungī verb intr note=no long vowel in the lemma
 furō, -, -, furere verb intr

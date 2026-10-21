@@ -1,4 +1,5 @@
 # Latin noun entries, letter l (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
+labellum, labellī noun n
 labor, labōris noun m
 labrum, labrī noun n
 lac, lactis noun n sg_only
@@ -16,9 +17,13 @@ lanx, lancis noun f
 lapillus, lapillī noun m
 lapis, lapidis noun m
 laqueus, laqueī noun m
+largītiō, largītiōnis noun f
+lascīvia, lascīviae noun f
 lassitūdō, lassitūdinis noun f
 latebra, latebrae noun f
+latex, laticis noun m
 lātitūdō, lātitūdinis noun f
+lātrātus, lātrātūs noun m
 latrō, latrōnis noun m
 latrōcinium, latrōciniī noun n
 latus, lateris noun n
@@ -34,6 +39,8 @@ lectus, lectī noun m
 lēgātiō, lēgātiōnis noun f
 lēgātus, lēgātī noun m
 legiō, legiōnis noun f
+legūmen, legūminis noun n
+lembus, lembī noun m
 lēnitās, lēnitātis noun f
 lēnō, lēnōnis noun m
 leō, leōnis noun m
@@ -74,10 +81,13 @@ lucrum, lucrī noun n
 lūctus, lūctūs noun m
 lūcus, lūcī noun m
 lūdibrium, lūdibriī noun n
+lūdicrum, lūdicrī noun n
 lūdus, lūdī noun m
 lumbus, lumbī noun m
 lūmen, lūminis noun n
 lūna, lūnae noun f
+lupa, lupae noun f
+lupīnum, lupīnī noun n
 lupus, lupī noun m
 lutum, lutī noun n
 lūx, lūcis noun f

@@ -10,12 +10,14 @@ laetor, laetātus sum, laetārī verb intr note=no long vowel in the lemma
 lambō, lambī, -, lambere verb
 lāmentor, lāmentātus sum, lāmentārī verb
 langueō, languī, -, languēre verb intr
+languēscō, languī, -, languēscere verb intr
 largior, largītus sum, largīrī verb note=no long vowel in the lemma
 lateō, latuī, -, latēre verb intr
 laudō, laudāvī, laudātum, laudāre verb
 lavō, lāvī, lautum, lavāre verb
 laxō, laxāvī, laxātum, laxāre verb
 legō, lēgī, lēctum, legere verb
+lēniō, lēnīvī, lēnītum, lēnīre verb
 levō, levāvī, levātum, levāre verb
 līberō, līberāvī, līberātum, līberāre verb
 libet, libuit, libitum, libēre verb impers note=no long vowel in the lemma
