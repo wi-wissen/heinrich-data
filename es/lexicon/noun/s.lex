@@ -9,6 +9,7 @@ sabelotodo noun g=m|f style=colloquial alt=sabihondo|pedante
 saber noun g=m sense=knowledge
 sabiduría noun g=f
 sabiendas noun g=f pl_only note=only in a sabiendas
+sabina noun g=f
 sabio noun g=m f=sabia
 sablazo noun g=m
 sable noun g=m
@@ -30,16 +31,21 @@ sacrilegio noun g=m
 sacristán noun g=m f=sacristana
 sacristía noun g=f
 sacudida noun g=f
+sacudimiento noun g=m
 sadismo noun g=m
+sadomasoquismo noun g=m
 saeta noun g=f
+saetera noun g=f
 safari noun g=m
 saga noun g=f
 sagacidad noun g=f
 sagitario noun g=m
 sagrario noun g=m
 sagú noun g=m pl=sagús
+sah noun g=m
 sahumerio noun g=m
 sainete noun g=m
+sake noun g=m
 sal noun g=f
 sala noun g=f
 salafismo noun g=m
@@ -53,10 +59,12 @@ salchichón noun g=m
 saldista noun g=m|f
 saldo noun g=m
 salero noun g=m
+salicina noun g=f
 salida noun g=f
 saliente noun g=m
 salina noun g=f
 salinidad noun g=f
+salinización noun g=f
 salitre noun g=m
 saliva noun g=f
 salivazo noun g=m
@@ -75,6 +83,7 @@ salsa noun g=f
 saltador noun g=m f=saltadora
 saltamontes noun g=m
 salteador noun g=m
+salterio noun g=m
 saltimbanqui noun g=m|f
 salto noun g=m
 salubridad noun g=f
@@ -85,7 +94,9 @@ salvado noun g=m
 salvador noun g=m f=salvadora
 salvaguarda noun g=f
 salvaguardia noun g=f
+salvajada noun g=f
 salvaje noun g=m|f
+salvajismo noun g=m
 salvamanteles noun g=m
 salvamento noun g=m
 salvavidas noun g=m
@@ -132,6 +143,7 @@ sarcófago noun g=m
 sarcoma noun g=m
 sardana noun g=f
 sardina noun g=f
+sarga noun g=f
 sargazo noun g=m
 sargento noun g=m|f
 sargo noun g=m
@@ -162,6 +174,7 @@ saxofón noun g=m
 saxofonista noun g=m|f
 saya noun g=f
 sayo noun g=m
+sayón noun g=m
 sazón noun g=f
 sazonador noun g=m
 sebo noun g=m
@@ -171,10 +184,12 @@ secadora noun g=f
 secano noun g=m
 secarral noun g=m
 sección noun g=f
+seccionamiento noun g=m
 secesión noun g=f
 secesionismo noun g=m
 secreción noun g=f
 secretaría noun g=f
+secretariado noun g=m
 secretario noun g=m f=secretaria
 secretina noun g=f
 secretismo noun g=m
@@ -187,6 +202,7 @@ secuaz noun g=m|f
 secuela noun g=f
 secuencia noun g=f
 secuenciación noun g=f
+secuenciador noun g=m
 secuestrador noun g=m f=secuestradora
 secuestro noun g=m
 secularización noun g=f
@@ -228,6 +244,7 @@ selfi noun g=m
 sellador noun g=m
 sello noun g=m
 selva noun g=f
+selvicultura noun g=f
 semáforo noun g=m
 semana noun g=f
 semanario noun g=m
@@ -245,6 +262,8 @@ semicírculo noun g=m
 semiconductor noun g=m
 semicorchea noun g=f
 semidiós noun g=m f=semidiosa
+semieje noun g=m
+semiesclavitud noun g=f
 semifinal noun g=f
 semifinalista noun g=m|f
 semilla noun g=f
@@ -252,6 +271,7 @@ semillero noun g=m
 seminario noun g=m
 seminarista noun g=m
 semiótica noun g=f
+semiperiodo noun g=m
 semirremolque noun g=m
 semitono noun g=m
 sémola noun g=f
@@ -261,6 +281,7 @@ sencillez noun g=f
 sencillo noun g=m sense=record note=a single record
 senda noun g=f
 senderismo noun g=m
+senderista noun g=m|f
 sendero noun g=m
 senectud noun g=f
 senescal noun g=m
@@ -280,6 +301,7 @@ sentimiento noun g=m
 seña noun g=f
 señal noun g=f
 señalamiento noun g=m
+señalética noun g=f
 señalización noun g=f
 señor noun g=m f=señora
 señoría noun g=f
@@ -292,6 +314,7 @@ separatismo noun g=m
 separatista noun g=m|f
 sepelio noun g=m
 sepia noun g=f
+sepsis noun g=f
 septicemia noun g=f
 septiembre noun g=m var=setiembre
 sepulcro noun g=m
@@ -301,6 +324,7 @@ sequedad noun g=f
 sequía noun g=f
 séquito noun g=m
 ser noun g=m sense=being note=el ser: a being
+serafín noun g=m
 serbal noun g=m
 serenata noun g=f
 serenidad noun g=f
@@ -309,6 +333,7 @@ serial noun g=m
 serialización noun g=f
 serie noun g=f
 seriedad noun g=f
+serigrafía noun g=f
 sermón noun g=m
 serotonina noun g=f
 serpentina noun g=f
@@ -362,17 +387,22 @@ sifón noun g=m
 sigilo noun g=m
 sigla noun g=f
 siglo noun g=m
+sigma noun g=f
 signatario noun g=m f=signataria
 significación noun g=f
 significado noun g=m
+significancia noun g=f
 significante noun g=m
+significatividad noun g=f
 signo noun g=m
+sijismo noun g=m
 sílaba noun g=f
 silabario noun g=m
 silbatina noun g=f
 silbato noun g=m
 silbido noun g=m
 silenciador noun g=m
+silenciamiento noun g=m
 silencio noun g=m
 sílex noun g=m
 silicato noun g=m
@@ -381,10 +411,13 @@ silicio noun g=m
 silicona noun g=f
 silla noun g=f
 sillar noun g=m
+sillarejo noun g=m
 sillería noun g=f
+sillero noun g=m f=sillera
 sillín noun g=m
 sillón noun g=m
 silo noun g=m
+silogismo noun g=m
 silueta noun g=f
 silvicultor noun g=m f=silvicultora
 silvicultura noun g=f
@@ -404,6 +437,7 @@ simpatizante noun g=m|f
 simpleza noun g=f
 simplicidad noun g=f
 simplificación noun g=f
+simposio noun g=m
 simulación noun g=f
 simulacro noun g=m
 simulador noun g=m
@@ -412,8 +446,12 @@ sinagoga noun g=f
 sinapsis noun g=f
 sinceridad noun g=f
 síncope noun g=m
+sincretismo noun g=m
 sincronía noun g=f
+sincronismo noun g=m
 sincronización noun g=f
+sincrotrón noun g=m
+sindicación noun g=f
 sindicalismo noun g=m
 sindicalista noun g=m|f
 sindicato noun g=m
@@ -421,15 +459,18 @@ síndico noun g=m f=síndica
 síndrome noun g=m
 sinergia noun g=f
 sinfín noun g=m
+sínfisis noun g=f
 sinfonía noun g=f
 single noun g=m foreign pl=singles
 singularidad noun g=f
+sinhogarismo noun g=m
 siniestralidad noun g=f
 siniestro noun g=m
 sinnúmero noun g=m
 sínodo noun g=m
 sinonimia noun g=f
 sinónimo noun g=m
+sinople noun g=m
 sinopsis noun g=f
 sinrazón noun g=f
 sinsabor noun g=m
@@ -463,6 +504,7 @@ sitio noun g=m
 situación noun g=f
 ska noun g=m foreign pl=- note=music genre, uncountable
 sketch noun g=m foreign pl=sketches
+slalom noun g=m pl=slaloms
 sobaco noun g=m
 soberanía noun g=f
 soberanismo noun g=m
@@ -479,20 +521,25 @@ sobrecarga noun g=f
 sobrecoste noun g=m
 sobredosis noun g=f
 sobreendeudamiento noun g=m
+sobreesfuerzo noun g=m
 sobreexplotación noun g=f
 sobremesa noun g=f
 sobrenombre noun g=m
+sobrepesca noun g=f
 sobrepeso noun g=m
+sobrepoblación noun g=f
 sobreprecio noun g=m
 sobresaliente noun g=m
 sobresalto noun g=m
 sobreseimiento noun g=m
 sobresueldo noun g=m
+sobretensión noun g=f
 sobretodo noun g=m
 sobreviviente noun g=m|f
 sobrevuelo noun g=m
 sobriedad noun g=f
 sobrino noun g=m f=sobrina
+socaire noun g=m
 socarronería noun g=f
 socavón noun g=m
 sociabilidad noun g=f
@@ -513,13 +560,17 @@ sodomía noun g=f
 sofá noun g=m
 sofisma noun g=m
 sofisticación noun g=f
+soflama noun g=f
 sofoco noun g=m
 sofocón noun g=m style=colloquial alt=disgusto
 sofrito noun g=m
+sóftbol noun g=m pl=- note=sport, uncountable
 software noun g=m foreign pl=- note=uncountable
 soga noun g=f
 soja noun g=f
 sol noun g=m
+solana noun g=f
+solanácea noun g=f
 solapa noun g=f
 solapamiento noun g=m
 solar noun g=m
@@ -528,15 +579,19 @@ soldadesca noun g=f
 soldado noun g=m|f
 soldador noun g=m f=soldadora
 soldadura noun g=f
+soleá noun g=f pl=soleares conf=85
 soledad noun g=f
 solemnidad noun g=f
 solera noun g=f
+solfa noun g=f
 solfeo noun g=m
 solicitante noun g=m|f
 solicitud noun g=f
 solidaridad noun g=f
 solidez noun g=f
 solidificación noun g=f
+soliloquio noun g=m
+solio noun g=m
 solista noun g=m|f
 solitaria noun g=f note=the tapeworm; the feminine of solitario is generated from it
 solitario noun g=m f=solitaria
@@ -549,7 +604,9 @@ solterón noun g=m f=solterona
 soltura noun g=f
 solubilidad noun g=f
 solución noun g=f
+soluto noun g=m
 solvencia noun g=f
+somatén noun g=m
 somatización noun g=f
 sombra noun g=f
 sombrerería noun g=f
@@ -597,6 +654,7 @@ sordociego noun g=m f=sordociega
 sordomudez noun g=f
 sorgo noun g=m
 sorna noun g=f
+sororidad noun g=f
 sorpresa noun g=f
 sorteo noun g=m
 sortija noun g=f
@@ -614,9 +672,13 @@ sotana noun g=f
 sótano noun g=m
 sotavento noun g=m
 soterramiento noun g=m
+soto noun g=m
 sotobosque noun g=m
 soul noun g=m foreign pl=- note=uncountable (sport, genre or mass noun)
+souvenir noun g=m foreign pl=souvenirs
+sóviet noun g=m pl=sóviets
 spot noun g=m foreign pl=spots
+spray noun g=m foreign pl=sprays
 sprint noun g=m pl=sprints
 startup noun g=f foreign pl=startups
 stock noun g=m foreign pl=stocks
@@ -633,7 +695,9 @@ subcampeón noun g=m f=subcampeona
 subcampeonato noun g=m
 subcategoría noun g=f
 subclase noun g=f
+subcomandante noun g=m|f
 subcomisión noun g=f
+subconcepto noun g=m
 subconjunto noun g=m
 subconsciente noun g=m
 subcontinente noun g=m
@@ -645,6 +709,7 @@ subcultura noun g=f
 subdelegación noun g=f
 subdelegado noun g=m f=subdelegada
 subdesarrollo noun g=m
+subdiácono noun g=m
 subdirección noun g=f
 subdirector noun g=m f=subdirectora
 subdistrito noun g=m
@@ -652,6 +717,7 @@ súbdito noun g=m f=súbdita
 subdivisión noun g=f
 subducción noun g=f
 subescala noun g=f
+subespacio noun g=m
 subespecie noun g=f
 subestación noun g=f
 subestimación noun g=f
@@ -662,20 +728,27 @@ subgerente noun g=m|f
 subgrupo noun g=m
 subibaja noun g=m
 subida noun g=f
+subinspector noun g=m f=subinspectora
 subjefe noun g=m f=subjefa
 subjetividad noun g=f
+subjuntivo noun g=m
 sublevación noun g=f
 sublimación noun g=f
 sublimado noun g=m
+sublimidad noun g=f
 submarinismo noun g=m
 submarinista noun g=m|f
 submarino noun g=m
+subobjetivo noun g=m
 suboficial noun g=m|f
 suborden noun g=m pl=subórdenes
 subordinación noun g=f
 subordinado noun g=m f=subordinada
+subpoblación noun g=f
 subprefectura noun g=f
 subproducto noun g=m
+subprograma noun g=m
+subprovincia noun g=f
 subrayado noun g=m
 subred noun g=f
 subregión noun g=f
@@ -686,6 +759,8 @@ subsecretaría noun g=f
 subsecretario noun g=m f=subsecretaria
 subsector noun g=m
 subsede noun g=f
+subserie noun g=f
+subsidiación noun g=f
 subsidiariedad noun g=f
 subsidio noun g=m
 subsistema noun g=m
@@ -694,13 +769,17 @@ subsuelo noun g=m
 subteniente noun g=m|f
 subterfugio noun g=m
 subterráneo noun g=m
+subtexto noun g=m
 subtipo noun g=m
 subtitulado noun g=m
 subtítulo noun g=m
+subtribu noun g=f
 subunidad noun g=f
 suburbio noun g=m
 subvención noun g=f
+subvencionabilidad noun g=f
 subversión noun g=f
+subzona noun g=f
 succión noun g=f
 sucedáneo noun g=m
 sucesión noun g=f
@@ -714,6 +793,7 @@ sudeste noun g=m
 sudoeste noun g=m
 sudoku noun g=m
 sudor noun g=m
+sudoración noun g=f
 suegro noun g=m f=suegra
 suela noun g=f
 sueldo noun g=m
@@ -753,27 +833,36 @@ suministrador noun g=m f=suministradora
 suministro noun g=m
 sumisión noun g=f
 suntuosidad noun g=f
+supeditación noun g=f
 súper noun g=m pl=súperes conf=80 note=short for supermercado; also gasolina súper (adj)
 superación noun g=f
 superávit noun g=m pl=superávits conf=85 note=plural rarely used
 superconductor noun g=m
 supercontinente noun g=m
+superdeportivo noun g=m
 superestrella noun g=f
 superestructura noun g=f
 superfamilia noun g=f
 superficialidad noun g=f
 superficie noun g=f
+supergravedad noun g=f
+supergrupo noun g=m
 superhéroe noun g=m f=superheroína
+superhombre noun g=m
 superintendente noun g=m|f
+superiora noun g=f note=madre superiora
 superioridad noun g=f
 supermercado noun g=m
 supernova noun g=f
+superorden noun g=m pl=superórdenes
 superpoblación noun g=f
 superposición noun g=f
 superpotencia noun g=f
 superproducción noun g=f
+supersimetría noun g=f
 superstición noun g=f
 superventas noun g=m
+supervillano noun g=m f=supervillana
 supervisión noun g=f
 supervisor noun g=m f=supervisora
 supervivencia noun g=f
@@ -783,11 +872,13 @@ suplemento noun g=m
 suplencia noun g=f
 suplente noun g=m|f
 súplica noun g=f
+suplicación noun g=f
 suplicatorio noun g=m
 suplicio noun g=m
 suposición noun g=f
 supositorio noun g=m
 supremacía noun g=f
+supremacismo noun g=m
 supresión noun g=f
 supuesto noun g=m
 sur noun g=m
@@ -795,9 +886,12 @@ surco noun g=m
 sureste noun g=m
 surf noun g=m foreign pl=- note=uncountable (sport, genre or mass noun)
 surfista noun g=m|f
+surgencia noun g=f
 surgimiento noun g=m
 suricato noun g=m
+suroccidente noun g=m
 suroeste noun g=m
+suroriente noun g=m
 surrealismo noun g=m
 surtido noun g=m
 surtidor noun g=m
@@ -812,14 +906,18 @@ suspicacia noun g=f
 suspiro noun g=m
 sustancia noun g=f var=substancia
 sustanciación noun g=f
+sustantividad noun g=f
+sustentabilidad noun g=f
 sustentación noun g=f
 sustento noun g=m
 sustitución noun g=f var=substitución
-sustituto noun g=m f=sustituta
+sustituto noun g=m f=sustituta var=substituto
+sustituyente noun g=m
 susto noun g=m
 sustracción noun g=f var=substracción
 sustrato noun g=m var=substrato
 susurro noun g=m
 sutileza noun g=f
+sutra noun g=m
 sutura noun g=f
 swing noun g=m foreign pl=- note=music genre, uncountable

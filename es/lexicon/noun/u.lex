@@ -6,6 +6,8 @@ ujier noun g=m|f
 úlcera noun g=f
 ultimación noun g=f
 ultimátum noun g=m pl=ultimátums
+ultra noun g=m|f note=member of an extremist group or a radical sports fan
+ultraactividad noun g=f
 ultraderecha noun g=f
 ultraizquierda noun g=f
 ultraje noun g=m
@@ -29,7 +31,9 @@ uniformidad noun g=f
 uniformización noun g=f
 unilateralidad noun g=f
 unión noun g=f
+unísono noun g=m
 universalidad noun g=f
+universalismo noun g=m
 universalización noun g=f
 universidad noun g=f
 universitario noun g=m f=universitaria

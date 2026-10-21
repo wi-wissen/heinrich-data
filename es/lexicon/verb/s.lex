@@ -58,6 +58,7 @@ señalizar verb
 separar verb
 sepultar verb
 serenar verb
+serializar verb
 sermonear verb
 serpentear verb
 serrar verb class=ie
@@ -73,6 +74,7 @@ simbolizar verb
 simpatizar verb
 simplificar verb
 simular verb
+simultanear verb
 sincerar verb pronominal
 sincronizar verb
 sindicar verb
@@ -98,6 +100,7 @@ sobrepasar verb
 sobreponer verb class=poner
 sobresalir verb class=salir
 sobresaltar verb
+sobreseer verb
 sobrevalorar verb
 sobrevenir verb class=venir
 sobrevivir verb
@@ -165,6 +168,7 @@ subvencionar verb
 subvenir verb class=venir
 subvertir verb class=ie_i
 subyacer verb class=zco conf=85 note=compound of yacer
+subyugar verb
 succionar verb
 suceder verb
 sucumbir verb
@@ -202,7 +206,7 @@ suspirar verb
 sustanciar verb class=diphthong
 sustantivar verb
 sustentar verb
-sustituir verb
+sustituir verb var=substituir
 sustraer verb class=traer
 susurrar verb
 suturar verb

@@ -22,26 +22,37 @@ radar noun g=m
 radiación noun g=f
 radiactividad noun g=f var=radioactividad
 radiador noun g=m
+radián noun g=m
+radicación noun g=f
 radicalidad noun g=f
 radicalismo noun g=m
 radicalización noun g=f
 radio noun g=f sense=medium note=la radio: broadcasting, the receiver
 radio noun g=m sense=radius note=el radio: radius, bone, the element
 radioaficionado noun g=m f=radioaficionada
+radiobaliza noun g=f
+radiocarbono noun g=m
 radiocasete noun g=m
 radiocomunicación noun g=f
 radiodespertador noun g=m
 radiodiagnóstico noun g=m
 radiodifusión noun g=f
+radiodifusora noun g=f
+radioemisora noun g=f
+radioenlace noun g=m
 radiofármaco noun g=m
+radiofísica noun g=f
 radiofonía noun g=f
 radiofrecuencia noun g=f
 radiografía noun g=f
 radiología noun g=f
 radiólogo noun g=m f=radióloga
 radionavegación noun g=f
+radionovela noun g=f
+radionucleido noun g=m
 radioscopia noun g=f
 radiotaxi noun g=m
+radioteatro noun g=m
 radiotelefonía noun g=f
 radiotelescopio noun g=m
 radiotelevisión noun g=f
@@ -50,13 +61,15 @@ radioyente noun g=m|f
 radón noun g=m
 ráfaga noun g=f
 rafia noun g=f
-ráfting noun g=m pl=- note=sport, uncountable
+ráfting noun g=m var=rafting pl=- note=sport, uncountable
 raid noun g=m foreign pl=raids
 raigambre noun g=f
 raíl noun g=m var=rail
 raíz noun g=f
 raja noun g=f
+rajatabla noun g=f note=only in a rajatabla
 ralea noun g=f
+ralentí noun g=m pl=ralentís
 ralentización noun g=f
 rallador noun g=m
 rally noun g=m foreign pl=rallies conf=80
@@ -66,6 +79,7 @@ ramaje noun g=m
 ramal noun g=m
 ramalazo noun g=m
 rambla noun g=f
+ramera noun g=f style=offensive alt=prostituta
 ramificación noun g=f
 ramillete noun g=m
 ramo noun g=m
@@ -93,10 +107,12 @@ raqueta noun g=f
 raquis noun g=m
 raquitismo noun g=m
 rareza noun g=f
+ras noun g=m note=a ras de
 rasante noun g=f
 rascacielos noun g=m
 rascada noun g=f
 rascador noun g=m
+rasero noun g=m
 rasgo noun g=m
 rasguño noun g=m
 raspa noun g=f
@@ -133,6 +149,7 @@ reactivo noun g=m
 reactor noun g=m
 readaptación noun g=f
 readmisión noun g=f
+reafianzamiento noun g=m
 reafirmación noun g=f
 reagrupación noun g=f
 reagrupamiento noun g=m
@@ -140,6 +157,7 @@ real noun g=m sense=coin
 realce noun g=m
 realeza noun g=f
 realidad noun g=f
+realimentación noun g=f
 realismo noun g=m
 realista noun g=m|f
 reality noun g=m foreign pl=realities conf=80 note=television genre
@@ -168,6 +186,7 @@ rebote noun g=m
 reboteador noun g=m f=reboteadora
 rebozo noun g=m
 rebrote noun g=m
+rebufo noun g=m
 rebuzno noun g=m
 recadero noun g=m f=recadera
 recadista noun g=m|f
@@ -179,6 +198,7 @@ recámara noun g=f
 recambio noun g=m
 recapitalización noun g=f
 recapitulación noun g=f
+recaptación noun g=f
 recargo noun g=m
 recato noun g=m
 recaudación noun g=f
@@ -229,10 +249,12 @@ recolocación noun g=f
 recombinación noun g=f
 recomendación noun g=f
 recompensa noun g=f
+recomposición noun g=f
 recompra noun g=f
 reconciliación noun g=f
 reconcomio noun g=m
 reconducción noun g=f
+reconexión noun g=f
 reconfiguración noun g=f
 reconocimiento noun g=m
 reconquista noun g=f
@@ -245,6 +267,7 @@ recopilación noun g=f
 recopilador noun g=m f=recopiladora
 recopilatorio noun g=m
 récord noun g=m pl=récords
+recordación noun g=f
 recordatorio noun g=m
 recorrido noun g=m
 recorte noun g=m
@@ -272,6 +295,7 @@ recuperador noun g=m
 recurrencia noun g=f
 recurso noun g=m
 recusación noun g=f
+recusante noun g=m|f
 red noun g=f
 redacción noun g=f
 redactor noun g=m f=redactora
@@ -280,6 +304,7 @@ redecilla noun g=f
 rededor noun g=m note=only in al rededor, a mi rededor
 redefinición noun g=f
 redención noun g=f
+redenominación noun g=f
 redentor noun g=m f=redentora
 redescubrimiento noun g=m
 redil noun g=m
@@ -293,6 +318,8 @@ redondel noun g=m
 redondeo noun g=m
 redondez noun g=f
 reducción noun g=f
+reduccionismo noun g=m
+reductasa noun g=f
 reducto noun g=m
 reductor noun g=m
 redundancia noun g=f
@@ -302,12 +329,19 @@ reeducación noun g=f
 reelaboración noun g=f
 reelección noun g=f
 reembolso noun g=m
+reemplazante noun g=m|f
 reemplazo noun g=m
 reencarnación noun g=f
 reencuentro noun g=m
+reentrada noun g=f
 reequilibrio noun g=m
 reescritura noun g=f
-reestructuración noun g=f
+reestructuración noun g=f var=restructuración
+reevaluación noun g=f
+reexamen noun g=m pl=reexámenes
+reexpedición noun g=f
+reexportación noun g=f
+refacción noun g=f
 refectorio noun g=m
 referencia noun g=f
 referendo noun g=m
@@ -325,6 +359,7 @@ reflexión noun g=f
 reflujo noun g=m
 reforestación noun g=f
 reforma noun g=f
+reformatorio noun g=m
 reformismo noun g=m
 reformulación noun g=f
 reforzamiento noun g=m
@@ -353,6 +388,7 @@ regante noun g=m|f
 regañadientes noun g=m pl_only note=only in a regañadientes
 regañina noun g=f
 regasificación noun g=f
+regasificadora noun g=f
 regata noun g=f
 regate noun g=m
 regatista noun g=m|f
@@ -374,7 +410,9 @@ reglamentación noun g=f
 reglamento noun g=m
 regleta noun g=f
 regocijo noun g=m
+regrabación noun g=f
 regresión noun g=f
+regresividad noun g=f
 regreso noun g=m
 reguero noun g=m
 reguetón noun g=m pl=- note=music genre, uncountable
@@ -387,6 +425,7 @@ rehabilitación noun g=f
 rehén noun g=m|f
 reimpresión noun g=f
 reinado noun g=m
+reinauguración noun g=f
 reincidencia noun g=f
 reincorporación noun g=f
 reindustrialización noun g=f
@@ -394,10 +433,12 @@ reingreso noun g=m
 reinicio noun g=m
 reino noun g=m
 reinserción noun g=f
+reinstauración noun g=f
 reintegración noun g=f
 reintegro noun g=m
 reinterpretación noun g=f
 reintroducción noun g=f
+reinvención noun g=f
 reinversión noun g=f
 reiteración noun g=f
 reivindicación noun g=f
@@ -417,6 +458,7 @@ relevancia noun g=f
 relevista noun g=m|f
 relevo noun g=m
 relicario noun g=m
+relicto noun g=m
 relieve noun g=m
 religión noun g=f
 religiosidad noun g=f
@@ -424,6 +466,7 @@ relincho noun g=m
 reliquia noun g=f
 rellano noun g=m
 relleno noun g=m
+relocalización noun g=f
 reloj noun g=m
 relojería noun g=f
 relojero noun g=m f=relojera
@@ -431,7 +474,9 @@ remake noun g=m foreign pl=remakes
 remanente noun g=m
 remanso noun g=m
 remasterización noun g=f
+rematante noun g=m|f
 remate noun g=m
+remediación noun g=f
 remedio noun g=m
 remedo noun g=m
 rememoración noun g=f
@@ -439,6 +484,7 @@ remero noun g=m f=remera
 remesa noun g=f
 remezcla noun g=f
 remiendo noun g=m
+remilgo noun g=m
 reminiscencia noun g=f
 remisión noun g=f
 remitente noun g=m|f
@@ -458,8 +504,10 @@ remordimiento noun g=m
 remuneración noun g=f
 renacimiento noun g=m
 renacuajo noun g=m
+renaturalización noun g=f
 rencilla noun g=f
 rencor noun g=m
+renderizado noun g=m
 rendibú noun g=m pl=rendibús
 rendición noun g=f
 rendija noun g=f
@@ -475,16 +523,20 @@ rentabilidad noun g=f
 rentista noun g=m|f
 renuencia noun g=f
 renuncia noun g=f
+renunciante noun g=m|f
 reo noun g=m|f
 reojo noun g=m note=only in de reojo
 reordenación noun g=f
 reordenamiento noun g=m
 reorganización noun g=f
+reorientación noun g=f
+repago noun g=m
 reparación noun g=f
 reparcelación noun g=f
 reparo noun g=m
 repartición noun g=f
 repartidor noun g=m f=repartidora
+repartimiento noun g=m
 reparto noun g=m
 repaso noun g=m
 repatriación noun g=f
@@ -503,6 +555,7 @@ replantación noun g=f
 replanteamiento noun g=m
 réplica noun g=f
 replicación noun g=f
+replicante noun g=m|f
 repliegue noun g=m
 repoblación noun g=f
 repoblador noun g=m f=repobladora
@@ -526,6 +579,7 @@ represión noun g=f
 represor noun g=m f=represora
 reprimenda noun g=f
 reprobación noun g=f
+reprocesamiento noun g=m
 reproche noun g=m
 reproducción noun g=f
 reproductor noun g=m
@@ -545,6 +599,7 @@ requerimiento noun g=m
 requesón noun g=m
 requiebro noun g=m
 réquiem noun g=m pl=réquiems
+requinto noun g=m
 requirente noun g=m|f
 requisición noun g=f
 requisito noun g=m
@@ -557,6 +612,7 @@ resbalón noun g=m
 rescate noun g=m
 rescisión noun g=f
 rescoldo noun g=m
+resección noun g=f
 resentimiento noun g=m
 reseña noun g=f
 reserva noun g=f
@@ -619,6 +675,7 @@ retención noun g=f
 retenida noun g=f
 reticencia noun g=f
 retícula noun g=f
+retículo noun g=m
 retina noun g=f
 retintín noun g=m
 retirada noun g=f
@@ -670,10 +727,12 @@ reventón noun g=m
 reverberación noun g=f
 reverencia noun g=f
 reverendo noun g=m f=reverenda
+reversibilidad noun g=f
 reversión noun g=f
 reverso noun g=m
 revés noun g=m
 revestimiento noun g=m
+revictimización noun g=f
 revisión noun g=f
 revisionismo noun g=m
 revisor noun g=m f=revisora
@@ -706,6 +765,7 @@ rienda noun g=f
 riesgo noun g=m
 rifa noun g=f
 riff noun g=m foreign pl=riffs
+rifirrafe noun g=m style=colloquial alt=riña|enfrentamiento
 rifle noun g=m
 rigidez noun g=f
 rigodón noun g=m
@@ -746,6 +806,7 @@ robledo noun g=m
 robo noun g=m
 robot noun g=m
 robótica noun g=f
+robotización noun g=f
 robustecimiento noun g=m
 robustez noun g=f
 roca noun g=f
@@ -757,6 +818,7 @@ rodaballo noun g=m
 rodadura noun g=f
 rodaja noun g=f
 rodaje noun g=m
+rodal noun g=m
 rodamiento noun g=m
 rodapié noun g=m
 rodeo noun g=m
@@ -773,6 +835,9 @@ rol noun g=m
 rollo noun g=m
 romadizo noun g=m
 romance noun g=m
+romancero noun g=m
+romanche noun g=m
+romanista noun g=m|f
 romanización noun g=f
 romanticismo noun g=m
 romántico noun g=m f=romántica
@@ -797,6 +862,7 @@ ropa noun g=f
 ropaje noun g=m
 ropavejero noun g=m f=ropavejera
 ropero noun g=m
+roquedo noun g=m
 rosa noun g=f
 rosal noun g=m
 rosaleda noun g=f
@@ -819,11 +885,13 @@ rotulador noun g=m
 rótulo noun g=m
 rotundidad noun g=f
 rotura noun g=f
+roturación noun g=f
 rozadura noun g=f
 rozamiento noun g=m
 rúa noun g=f
 rubéola noun g=f var=rubeola
 rubí noun g=m pl=rubíes|rubís[var]
+rubiácea noun g=f
 rubio noun g=m f=rubia
 rublo noun g=m
 rubor noun g=m
@@ -839,6 +907,7 @@ rufián noun g=m
 rugbista noun g=m|f
 rugby noun g=m foreign pl=- note=uncountable (sport, genre or mass noun)
 rugido noun g=m
+rugosidad noun g=f
 ruibarbo noun g=m
 ruido noun g=m
 ruina noun g=f
