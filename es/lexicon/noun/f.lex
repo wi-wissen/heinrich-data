@@ -207,10 +207,12 @@ fiebre           noun  g=f
 fiel             noun  g=m|f note=los fieles (believers)
 fielato          noun  g=m
 fieltro          noun  g=m
-fiera            noun  g=f
+fiera            noun  g=f sense=beast
+fiera            noun  g=m|f sense=expert style=colloquial alt=experto|as note=es un fiera para los números
 fiereza          noun  g=f
 fiesta           noun  g=f
-figura           noun  g=f
+figura           noun  g=f sense=figure
+figura           noun  g=m|f sense=person style=colloquial alt=presumido|fanfarrón note=es un figura: a show-off
 figuración       noun  g=f
 figurante        noun  g=m|f
 figurilla        noun  g=f

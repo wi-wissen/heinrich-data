@@ -219,6 +219,8 @@ levantador       noun  g=m f=levantadora
 levantamiento    noun  g=m
 levante          noun  g=m
 levedad          noun  g=f
+levita           noun  g=f sense=coat note=frock coat
+levita           noun  g=m sense=levite
 levitación       noun  g=f
 levonorgestrel   noun  g=m
 lexema           noun  g=m
@@ -296,7 +298,8 @@ liguilla         noun  g=f
 lígula           noun  g=f
 lija             noun  g=f
 like             noun  g=m foreign note=social media: dar like; plural likes
-lila             noun  g=f
+lila             noun  g=f sense=flower
+lila             noun  g=m sense=colour note=el lila: the colour
 lima             noun  g=f
 limbo            noun  g=m
 limitación       noun  g=f

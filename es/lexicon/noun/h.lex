@@ -65,6 +65,8 @@ hat-trick        noun  g=m foreign
 hato             noun  g=m
 hawaiano         noun  g=m f=hawaiana
 hayedo           noun  g=m
+haz              noun  g=f sense=face style=literary note=la haz de la tierra
+haz              noun  g=m sense=bundle note=haz de leña, haz de luz; plural haces
 hazaña           noun  g=f
 hazmerreír       noun  g=m pl=- note=no plural in use
 heavy            noun  g=m foreign pl=- note=heavy metal (music genre)

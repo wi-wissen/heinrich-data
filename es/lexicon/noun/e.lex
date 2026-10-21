@@ -768,6 +768,8 @@ escrutinio       noun  g=m
 escuadra         noun  g=f
 escuadrilla      noun  g=f
 escuadrón        noun  g=m
+escucha          noun  g=f sense=listening note=escuchas telefónicas
+escucha          noun  g=m|f sense=person conf=90 note=radio listener; military scout
 escudería        noun  g=f
 escudero         noun  g=m
 escudete         noun  g=m
@@ -814,7 +816,8 @@ espacialidad     noun  g=f
 espaciamiento    noun  g=m
 espacio          noun  g=m
 espaciotiempo    noun  g=m
-espada           noun  g=f
+espada           noun  g=f sense=sword
+espada           noun  g=m sense=bullfighter note=el espada: the matador
 espadachín       noun  g=m
 espadaña         noun  g=f
 espadín          noun  g=m
@@ -878,6 +881,7 @@ esperpento       noun  g=m
 espesante        noun  g=m
 espesor          noun  g=m
 espesura         noun  g=f
+espía            noun  g=m|f
 espícula         noun  g=f
 espiga           noun  g=f
 espigón          noun  g=m
