@@ -861,7 +861,8 @@ ropaje noun g=m
 ropavejero noun g=m f=ropavejera
 ropero noun g=m
 roquedo noun g=m
-rosa noun g=f
+rosa noun g=f sense=flower
+rosa noun g=m sense=colour note=el rosa: the colour
 rosal noun g=m
 rosaleda noun g=f
 rosario noun g=m
