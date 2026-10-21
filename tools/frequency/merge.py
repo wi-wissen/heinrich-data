@@ -4,16 +4,19 @@
 Usage: merge.py WORKDIR OUTDIR [lang=de]
 WORKDIR holds the sub-directories wiki/ (chunk_*.tsv), gut/ (book_*.tsv) and gov/ (*.tsv) written by the
 count_*.py scripts. Columns of forms.tsv: form, total, wiki, lit, gov, sentence_initial.
+Latin (lang=la) reads prose/, poetry/ and late/ (written by count_la.py) and has the columns form, total, prose,
+poetry, late, sentence_initial.
 English adds the columns us, gb: counts from text known to be American / British English, read from the
 region files <name>.us.tsv / <name>.gb.tsv (which are subsets of, not additions to, the main files).
 """
 import glob, gzip, os, re, sys
 from collections import Counter
 
-SRC = [("wiki", "wiki/chunk_*.tsv"), ("lit", "gut/book_*.tsv"), ("gov", "gov/*.tsv")]
+SRC_DEFAULT = [("wiki", "wiki/chunk_*.tsv"), ("lit", "gut/book_*.tsv"), ("gov", "gov/*.tsv")]
+SRC_BY_LANG = {"la": [("prose", "prose/*.tsv"), ("poetry", "poetry/*.tsv"), ("late", "late/*.tsv")]}
 MIN_COUNT, MAX_FORMS = 3, 500_000
 GZ_LIMIT = 25 * 1024 * 1024
-REGIONS = {"de": [], "en": ["us", "gb"], "fr": []}  # fr: fr-FR only for now, no variety columns
+REGIONS = {"de": [], "en": ["us", "gb"], "fr": [], "la": []}  # fr: fr-FR only for now, no variety columns
 REGION_FILE = re.compile(r"\.(?:us|gb)\.tsv$")
 VARIANTS_EN = [("color", "colour"), ("center", "centre"), ("organization", "organisation"), ("realize", "realise"),
                ("defense", "defence"), ("traveled", "travelled"), ("analyze", "analyse"), ("gray", "grey"),
@@ -23,6 +26,8 @@ def main():
     work, out = sys.argv[1], sys.argv[2]
     lang = sys.argv[3] if len(sys.argv) > 3 else "de"
     regions = REGIONS[lang]
+    SRC = SRC_BY_LANG.get(lang, SRC_DEFAULT)
+    names = [s for s, _ in SRC]
     os.makedirs(out, exist_ok=True)
     cnt = {s: Counter() for s, _ in SRC}
     reg = {r: Counter() for r in regions}
@@ -52,9 +57,9 @@ def main():
     all_tokens = sum(src_tokens.values())
     ranked = sorted(total.items(), key=lambda kv: (-kv[1], kv[0]))
     kept = [kv for kv in ranked if kv[1] >= MIN_COUNT][:MAX_FORMS]
-    rows = [f"{w}\t{c}\t{cnt['wiki'][w]}\t{cnt['lit'][w]}\t{cnt['gov'][w]}\t{ini[w]}"
+    rows = [f"{w}\t{c}\t" + "".join(f"{cnt[s][w]}\t" for s in names) + f"{ini[w]}"
             + "".join(f"\t{reg[r][w]}" for r in regions) + "\n" for w, c in kept]
-    header = "form\ttotal\twiki\tlit\tgov\tsentence_initial" + "".join(f"\t{r}" for r in regions) + "\n"
+    header = "form\ttotal\t" + "".join(f"{s}\t" for s in names) + "sentence_initial" + "".join(f"\t{r}" for r in regions) + "\n"
     size = len(header) + sum(len(r.encode()) for r in rows)
     for old in ("forms.tsv", "forms.tsv.gz"):
         if os.path.exists(os.path.join(out, old)):
@@ -103,10 +108,10 @@ def main():
           "| share of tokens | top forms |", "|---:|---:|"]
     for t in (0.80, 0.90, 0.95, 0.99):
         L.append(f"| {int(t*100)} % | {cov.get(t, 'n/a'):,} |" if t in cov else f"| {int(t*100)} % | n/a |")
-    L += ["", "## Top 50 forms", "", "| rank | form | total | wiki | lit | gov | sentence-initial |"
+    L += ["", "## Top 50 forms", "", "| rank | form | total | " + "".join(f"{s} | " for s in names) + "sentence-initial |"
           + "".join(f" {r} |" for r in regions), "|---:|---|---:|---:|---:|---:|---:|" + "---:|" * len(regions)]
     for r, (w, c) in enumerate(kept[:50], 1):
-        L.append(f"| {r} | {w} | {c:,} | {cnt['wiki'][w]:,} | {cnt['lit'][w]:,} | {cnt['gov'][w]:,} | {ini[w]:,} |"
+        L.append(f"| {r} | {w} | {c:,} | " + "".join(f"{cnt[s][w]:,} | " for s in names) + f"{ini[w]:,} |"
                  + "".join(f" {reg[g][w]:,} |" for g in regions))
     open(os.path.join(out, "STATS.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
     print("\n".join(L[:30]))
