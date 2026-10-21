@@ -364,7 +364,7 @@ monocilíndrico adj
 monoclonal   adj
 monocolor    adj   f=monocolor note=invariable in gender, like multicolor
 monocromático adj
-monocromo    adj
+monocromo    adj note=ordinary -o adjective: una imagen monocroma
 monofilético adj
 monógamo     adj
 monográfico  adj
