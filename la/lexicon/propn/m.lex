@@ -11,6 +11,7 @@ Mēdēa, Mēdēae propn f
 Mediolānum, Mediolānī propn n loc
 Menelāus, Menelāī propn m
 Mercurius, Mercuriī propn m
+Messāla, Messālae propn m var=Messalla conf=80 note=length of the a?
 Metellus, Metellī propn m
 Mezentius, Mezentiī propn m
 Milō, Milōnis propn m

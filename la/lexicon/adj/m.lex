@@ -48,6 +48,7 @@ mortifer, mortifera, mortiferum adj nocmp
 muliebris, muliebre adj nocmp
 multiplex, multiplicis adj nocmp
 multus, multa, multum adj cmp=plūs sup=plūrimus adv=multum,plūs,plūrimum
+mūnītus, mūnīta, mūnītum adj
 mūsicus, mūsica, mūsicum adj nocmp
 mūtābilis, mūtābile adj note=superlative in -issimus
 mūtus, mūta, mūtum adj nocmp

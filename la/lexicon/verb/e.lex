@@ -3,6 +3,7 @@
 ēdō, ēdidī, ēditum, ēdere verb
 ēducō, ēducāvī, ēducātum, ēducāre verb
 ēdūcō, ēdūxī, ēductum, ēdūcere verb imp=ēdūc
+effēminō, effēmināvī, effēminātum, effēmināre verb
 efferō, extulī, ēlātum, efferre verb class=fero
 efficiō, effēcī, effectum, efficere verb
 effluō, efflūxī, -, effluere verb intr conf=80 note=length of the u in the perfect, as flūxī?
@@ -16,6 +17,7 @@ egeō, eguī, -, egēre verb intr
 ēlīdō, ēlīsī, ēlīsum, ēlīdere verb
 ēligō, ēlēgī, ēlēctum, ēligere verb
 ēloquor, ēlocūtus sum, ēloquī verb
+ēlūdō, ēlūsī, ēlūsum, ēlūdere verb
 ēmendō, ēmendāvī, ēmendātum, ēmendāre verb
 ēmergō, ēmersī, ēmersum, ēmergere verb intr
 ēmicō, ēmicuī, ēmicātum, ēmicāre verb intr

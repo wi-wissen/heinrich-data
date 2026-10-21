@@ -1,6 +1,7 @@
 # Latin adj entries, letter e (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
 ēbrius, ēbria, ēbrium adj nocmp
 efficāx, efficācis adj
+effrēnātus, effrēnāta, effrēnātum adj adv
 egēnus, egēna, egēnum adj
 ēgregius, ēgregia, ēgregium adj adv
 ēlegāns, ēlegantis adj adv

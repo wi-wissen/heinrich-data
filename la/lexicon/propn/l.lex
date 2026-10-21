@@ -12,6 +12,7 @@ Lepidus, Lepidī propn m
 Lesbos, Lesbī propn f
 Līvia, Līviae propn f
 Līvius, Līviī propn m
+Lūcīlius, Lūcīliī propn m
 Lūcius, Lūciī propn m
 Lucrētia, Lucrētiae propn f conf=80 note=reviewer-dispute; length of the u
 Lucrētius, Lucrētiī propn m conf=80 note=reviewer-dispute; length of the u
