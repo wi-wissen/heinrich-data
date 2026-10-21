@@ -120,7 +120,8 @@ rastreo noun g=m
 rastrillo noun g=m
 rastro noun g=m
 rastrojo noun g=m
-rata noun g=f
+rata noun g=f sense=animal
+rata noun g=m|f sense=miser style=colloquial alt=tacaño|agarrado note=ser un rata
 ratero noun g=m f=ratera
 raticida noun g=m
 ratificación noun g=f
@@ -860,7 +861,8 @@ ropaje noun g=m
 ropavejero noun g=m f=ropavejera
 ropero noun g=m
 roquedo noun g=m
-rosa noun g=f
+rosa noun g=f sense=flower
+rosa noun g=m sense=colour note=el rosa: the colour
 rosal noun g=m
 rosaleda noun g=f
 rosario noun g=m

@@ -158,6 +158,7 @@ oriolano     adj
 oriundo      adj
 ornamental   adj
 ornitológico adj
+oro          adj   inv note=colour: unos botones oro
 orográfico   adj
 orondo       adj
 orquestal    adj

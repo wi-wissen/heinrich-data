@@ -124,8 +124,9 @@ gradual          adj   adv=gradualmente
 gráfico          adj   adv=gráficamente
 gramatical       adj   adv=gramaticalmente
 gramnegativo     adj
+grana            adj   inv note=colour: rojo grana
 granadino        adj
-granate          adj
+granate          adj   pl=granate|granates note=colour; invariable and regular plural both in use
 grande           adj   apoc=gran cmp=mayor place=both adv=grandemente
 grandilocuente   adj
 grandioso        adj   adv=grandiosamente
@@ -158,6 +159,7 @@ grotesco         adj   adv=grotescamente
 grueso           adj adv=gruesamente
 gruñón           adj
 grupal           adj
+gualda           adj   inv note=colour: rojo y gualda
 guanche          adj
 guapo            adj
 guaraní          adj   pl=guaraníes|guaranís[var]

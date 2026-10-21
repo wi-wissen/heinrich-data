@@ -304,6 +304,7 @@ eslavo           adj
 eslovaco         adj
 esloveno         adj
 esmerado         adj   adv=esmeradamente
+esmeralda        adj   inv note=colour: ojos esmeralda, verde esmeralda
 esnob            adj
 esofágico        adj
 esotérico        adj
