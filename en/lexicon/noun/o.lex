@@ -9,7 +9,7 @@ obedience     noun pl=- note=uncountable
 obelisk noun
 obesity       noun pl=- note=uncountable
 obituary noun
-object        noun
+object        noun prep=of
 objection     noun prep=to|against
 objective     noun
 objectivity noun pl=- note=uncountable
@@ -130,6 +130,7 @@ order         noun prep=for|of vb=give|place|take
 orderly       noun
 ordinal noun
 ordinance     noun
+ordinate noun
 ordination noun
 ordnance noun pl=- note=uncountable
 ore           noun

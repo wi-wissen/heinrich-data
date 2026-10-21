@@ -233,6 +233,7 @@ inoffensive adj
 inoperative adj
 inordinate adj adv=inordinately
 inorganic adj
+inotropic adj
 inpatient      adj attr_only
 inquiring adj adv=inquiringly
 inquisitive adj cmp=more adv=inquisitively
@@ -288,6 +289,7 @@ interdisciplinary adj
 interested     adj comp=to|that|p_ing prep=in xprep=for?|on|about? cmp=more
 interesting    adj cmp=more adv=interestingly
 interfaith adj
+interferometric adj
 intergovernmental adj
 interim        adj attr_only
 interior       adj attr_only

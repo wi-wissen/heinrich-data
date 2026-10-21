@@ -1,4 +1,5 @@
 rachsüchtig adj cmp=rachsüchtiger sup=rachsüchtigsten
+radiärsymmetrisch adj
 radikal adj cmp=radikaler sup=radikalsten
 radioaktiv adj
 rapide adj cmp=rapider sup=rapidesten
@@ -40,6 +41,7 @@ rein adj cmp=reiner sup=reinsten
 reinlich adj cmp=reinlicher sup=reinlichsten
 reißerisch adj
 reizend adj cmp=reizender sup=reizendsten note=charming; participle with its own meaning
+rekursiv adj
 relativ adj
 relevant adj cmp=relevanter sup=relevantesten
 religiös adj cmp=religiöser sup=religiösesten
@@ -60,8 +62,10 @@ rhythmisch adj
 richtig adj cmp=richtiger sup=richtigsten
 riesig adj cmp=riesiger sup=riesigsten
 riskant adj cmp=riskanter sup=riskantesten
+rituell adj
 robust adj cmp=robuster sup=robustesten
 roh adj cmp=roher sup=rohesten
+röhrig adj
 romanisch adj
 romantisch adj cmp=romantischer sup=romantischsten
 römisch adj

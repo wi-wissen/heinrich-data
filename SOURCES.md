@@ -9,12 +9,12 @@ works not protected by copyright). Counted on 2026-10-17/18.
 
 | Source | Key | URL | Version / date | Legal basis | Amount counted |
 |---|---|---|---|---|---|
-| German Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/dewiki/latest/ (multistream parts 2, 3, 5, 6; systematic sample of 60 chunks of ~1000 pages per part) | dump of 2026-10-01 | TDM Sec. 44b UrhG; only counts retained (no text is redistributed, so the CC BY-SA license of the text does not carry over to the counts) | 56,209,755 tokens from 135,258 articles |
-| Project Gutenberg (gutenberg.org, not projekt-gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog: https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv, language `de`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-17/18 | public-domain texts (US status; some authors died less than 70 years ago, e.g. Hesse, Freud - counted under Sec. 44b only); PG header/footer stripped | 36,073,490 tokens from 771 books (list in `de/frequency/lit_books.tsv`) |
+| German Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/dewiki/latest/ (multistream parts 2, 3, 5, 6; systematic sample of 60 chunks of ~1000 pages per part) | dump of 2026-10-01 | TDM Sec. 44b UrhG; only counts retained (no text is redistributed, so the CC BY-SA license of the text does not carry over to the counts) | 55,978,390 tokens from 135,258 articles |
+| Project Gutenberg (gutenberg.org, not projekt-gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog: https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv, language `de`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-17/18 | public-domain texts (US status; some authors died less than 70 years ago, e.g. Hesse, Freud - counted under Sec. 44b only); PG header/footer stripped | 36,073,489 tokens from 771 books (list in `de/frequency/lit_books.tsv`) |
 | Bundestag plenary protocols | `gov` | https://www.bundestag.de/services/opendata (WP 18 `pp18.zip`, WP 19 `pp19.zip`, newest 20 protocols each of WP 20 and WP 21 as XML) | accessed 2026-10-17/18 | official works, Sec. 5 UrhG (not protected by copyright) | 39,571,050 tokens (together with laws below: 56,650,242) |
 | Federal laws and ordinances | `gov` | https://www.gesetze-im-internet.de/ (`gii-toc.xml`, one `xml.zip` per law; 6,141 laws) | build of 2026-09-26 | official works, Sec. 5 UrhG | 17,079,212 tokens |
 
-Total: 148,933,487 tokens, 3,042,866 distinct forms (see `de/frequency/STATS.md`).
+Total: 148,702,121 tokens, 3,042,861 distinct forms (see `de/frequency/STATS.md`). Corrected on 2026-10-21: HTML entity names counted as words were removed (`tools/frequency/drop_forms.py`, list at the end of `de/frequency/STATS.md`); the numbers here are after the correction.
 
 Notes
 - Literature contains pre-1996 and older spellings (`dass` vs. old `daß`); the per-source columns allow weighting.
@@ -43,7 +43,7 @@ commercial use). Counted on 2026-10-18.
 
 | Source | Key | Region | URL | Version / date | Licence / legal basis | Amount counted |
 |---|---|---|---|---|---|---|
-| English Wikipedia, article namespace | `wiki` | `us`/`gb` by the article's `{{Use American English}}` / `{{Use British English}}` (also `{{Use Oxford spelling}}`, `{{EngvarB}}`) tag, else none | https://dumps.wikimedia.org/enwiki/latest/ (multistream parts 2, 5, 8, 12a, 18a, 24a; systematic sample of ~25 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM Sec. 44b UrhG; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German | 61,018,270 tokens from 64,697 articles (us 19,632,616, gb 7,322,357) |
+| English Wikipedia, article namespace | `wiki` | `us`/`gb` by the article's `{{Use American English}}` / `{{Use British English}}` (also `{{Use Oxford spelling}}`, `{{EngvarB}}`) tag, else none | https://dumps.wikimedia.org/enwiki/latest/ (multistream parts 2, 5, 8, 12a, 18a, 24a; systematic sample of ~25 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM Sec. 44b UrhG; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German | 60,929,083 tokens from 64,697 articles (us 19,602,872, gb 7,315,730) |
 | Project Gutenberg (gutenberg.org) | `lit` | `us`/`gb` by author (`tools/frequency/authors_en.py`) | https://www.gutenberg.org/ (catalog `cache/epub/feeds/pg_catalog.csv`, language `en`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-18 | public domain in the US **and** every named author/editor/translator died in 1955 or earlier (life + 70 years); PG header/footer and licence text stripped (only the text between the `*** START`/`*** END` markers is counted) | 45,658,326 tokens from 672 books by 213 authors (us 22,704,097 / 355 books, gb 22,954,229 / 317 books; list in `en/frequency/lit_books.tsv`) |
 | Public Papers of the Presidents of the United States, 2009-2016 | `gov` | `us` | https://www.govinfo.gov/bulkdata/PPP | govinfo bulk data, accessed 2026-10-18 | work of the US federal government, public domain (17 U.S.C. 105) | 9,026,097 tokens (16 volumes) |
 | Federal Register (daily issues) | `gov` | `us` | https://www.govinfo.gov/bulkdata/FR (every 12th issue of 2023-2025; tables skipped) | accessed 2026-10-18 | public domain (17 U.S.C. 105) | 17,974,057 tokens (62 issues) |
@@ -51,8 +51,8 @@ commercial use). Counted on 2026-10-18.
 | UK Public General Acts | `gov` | `gb` | https://www.legislation.gov.uk/ (`ukpga/<year>/data.feed`, first feed page = up to 20 acts per even year 2000-2024, CLML `<Text>` only) | accessed 2026-10-18 | Crown copyright, Open Government Licence v3.0 (allows commercial use with attribution: "Contains public sector information licensed under the Open Government Licence v3.0.") | 8,732,893 tokens (13 years) |
 | GOV.UK news stories, speeches, detailed guides | `gov` | `gb` | GOV.UK search and content API: https://www.gov.uk/api/search.json, https://www.gov.uk/api/content/... (newest 6,000 / 3,000 / 2,000 pages, English locale only, tables skipped) | accessed 2026-10-18 | Crown copyright, Open Government Licence v3.0 (attribution as above) | 9,023,749 tokens |
 
-Total: 164,748,692 tokens, 1,189,619 distinct forms; `us` 69,336,867 tokens, `gb` 61,348,528 tokens
-(see `en/frequency/STATS.md`).
+Total: 164,659,505 tokens, 1,189,614 distinct forms; `us` 69,307,123 tokens, `gb` 61,341,901 tokens
+(see `en/frequency/STATS.md`). Corrected on 2026-10-21: HTML entity names counted as words were removed (`tools/frequency/drop_forms.py`, list at the end of `en/frequency/STATS.md`); the numbers here are after the correction.
 
 Notes
 - The OGL v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) permits copying,
@@ -78,14 +78,14 @@ variants unified): `fr/frequency/README.md`.
 
 | Source | Key | URL | Version / date | Licence / legal basis | Amount counted |
 |---|---|---|---|---|---|
-| French Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/frwiki/latest/ (multistream parts 2 p306135, 3 p1050823, 4 p2977215, 5 p6702074, 6 p10574284, 6 p15074284; systematic sample of 42 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German and English | 53,757,279 tokens from 128,250 articles |
-| Project Gutenberg (gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog `cache/epub/feeds/pg_catalog.csv`, language `fr`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-20 | public domain in the US **and** every named author/editor/translator died in 1954 or earlier; PG header/footer and licence text stripped | 40,585,694 tokens from 551 books (list in `fr/frequency/lit_books.tsv`) |
+| French Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/frwiki/latest/ (multistream parts 2 p306135, 3 p1050823, 4 p2977215, 5 p6702074, 6 p10574284, 6 p15074284; systematic sample of 42 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German and English | 53,741,597 tokens from 128,250 articles |
+| Project Gutenberg (gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog `cache/epub/feeds/pg_catalog.csv`, language `fr`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-20 | public domain in the US **and** every named author/editor/translator died in 1954 or earlier; PG header/footer and licence text stripped | 40,585,693 tokens from 551 books (list in `fr/frequency/lit_books.tsv`) |
 | Assemblée nationale debates (Journal officiel, compte rendu intégral) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/Debats/AN/ (every 5th issue 2011-2026, speech paragraphs only) | accessed 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab; allows commercial use with attribution) | 24,415,095 tokens (391 issues) |
 | Sénat debates (Journal officiel, compte rendu intégral) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/Debats/SENAT/ (every 3rd issue 2011-2016, the years offered; speech paragraphs only) | accessed 2026-10-20 | Licence Ouverte 2.0 | 13,136,344 tokens (191 issues) |
 | Légifrance, LEGI database (consolidated codes and laws) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/LEGI/ (`Freemium_legi_global_20250713-140000.tar.gz`; articles in force of codes, laws, organic and constitutional laws, ordinances, constitution; 10 of 20 buckets by article id) | export of 2025-07-13 | Licence Ouverte 2.0; legislation is not protected by copyright | 13,157,800 tokens |
 | service-public.gouv.fr practical guides (fiches pratiques) | `gov` | https://lecomarquage.service-public.gouv.fr/vdd/3.5/part/zip/vosdroits-latest.zip, `.../3.5/pro/zip/vosdroits-latest.zip` (listed on data.gouv.fr) | accessed 2026-10-20 | Licence Ouverte 2.0 | 6,274,237 tokens (3,778 fiches) |
 
-Total: 151,326,449 tokens, 1,183,707 distinct forms (see `fr/frequency/STATS.md`).
+Total: 151,310,766 tokens, 1,183,701 distinct forms (see `fr/frequency/STATS.md`). Corrected on 2026-10-21: HTML entity names counted as words were removed (`tools/frequency/drop_forms.py`, list at the end of `fr/frequency/STATS.md`); the numbers here are after the correction.
 
 Notes
 - The Licence Ouverte 2.0 (https://www.etalab.gouv.fr/licence-ouverte-open-licence/) permits reuse including
@@ -274,13 +274,15 @@ closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, preposi
 conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
 by hand on 2026-10-18.
 
-## Thesauri (`thesaurus/`, third-party, exception)
+## French lexicon (`fr/lexicon/`)
 
-Not our own data: two thesauri kept unchanged as input of the optional thesaurus packs only (owner decision
-2026-10-19; details, checksums and licence texts in `thesaurus/README.md` and the sub-folders). Never used to
-write or check the lexicon, the frequency lists or the name lists.
-
-| Source | Folder | Version | Licence | Packs |
-|---|---|---|---|---|
-| OpenThesaurus, https://www.openthesaurus.de | `thesaurus/de-openthesaurus/` | text export 2026-10-18 | CC BY-SA 4.0 (chosen from CC BY-SA 4.0 / LGPL 2.1) | `de-thes.pack` |
-| Open English WordNet, https://en-word.net | `thesaurus/en-oewn/` | 2025 | CC BY 4.0 | `en-thes.pack`, `en-gloss.pack` |
+Our own entries, written clean-room from the authors' own knowledge of French (no third-party
+French lexicon, word list, dictionary or conjugation table was consulted: no Lexique/OpenLexicon,
+Morphalou, DELA, Lefff, GLÀFF, Wiktionnaire/kaikki, UniMorph, Dicollecte/Grammalecte, Hunspell,
+Le Robert, Larousse, Bescherelle or online dictionary). Format: `Heinrich/docs/LEXICON_FORMAT_FR.md`.
+The work was ordered by our own frequency list (`fr/frequency/forms.tsv`) and by work lists of
+unrecognised forms from our own tests on real texts; these lists only named forms. Written on
+2026-10-20 and 2026-10-21 by four author sessions (letters a–c with the closed classes, d–l, m–p,
+q–z); a separate reviewer compared the entries with third-party lexica outside the repositories
+and reported only disputed and missing lemmas. Protocol and PR record: `fr/lexicon/AUTHORING.md`,
+`fr/lexicon/README.md`.

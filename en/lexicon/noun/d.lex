@@ -47,6 +47,7 @@ data noun pl=- note=mass noun (the data is); also the plural of datum
 database noun
 dataset noun
 date noun
+dating noun
 dative noun
 datum noun pl=data
 daughter noun
@@ -85,6 +86,7 @@ debris noun pl=- note=uncountable
 debt noun prep=to|of vb=pay|pay_off|repay|owe|incur|clear|settle|run_up xvb=make>run_up
 debtor noun
 debugger noun
+debunker noun
 debut noun vb=make xvb=give?
 decade noun
 decaf noun pl=decafs
@@ -111,6 +113,7 @@ decoration noun
 decoy noun
 decrease noun prep=in|of
 decree noun
+decrement noun
 decryption noun pl=- note=uncountable
 dedication noun
 deductible noun
@@ -178,6 +181,8 @@ demo noun pl=demos note=short for demonstration
 democracy noun
 Democrat noun note=member of the Democratic Party
 democrat noun
+demodulation noun
+demodulator noun
 demographic noun
 demolition noun
 demon noun
@@ -186,6 +191,7 @@ demonstrator noun
 demotion noun
 demureness noun pl=- note=uncountable
 den noun
+dendrite noun
 dengue noun pl=- note=uncountable
 denial noun prep=of
 denim noun
@@ -202,6 +208,7 @@ departure noun
 dependence noun prep=on|upon xprep=from
 dependency noun
 dependent noun gb=dependant|dependent note=the noun (a person who depends on another); the adjective is dependent everywhere
+dephosphorylation noun
 depiction noun
 depletion noun
 deployment noun
@@ -344,6 +351,7 @@ dilution noun
 dime noun
 dimension noun
 diminution noun
+diminutive noun
 dimmer noun
 dimness noun pl=- note=uncountable
 din noun

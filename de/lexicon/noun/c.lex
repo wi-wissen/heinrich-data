@@ -1,6 +1,10 @@
 Cache noun g=m gen=Caches pl=Caches
+Cadmium noun g=n gen=Cadmiums pl=- note=chemical element; also Kadmium
+Caesium noun g=n gen=Caesiums pl=- note=chemical element; also Cäsium
 Café noun g=n gen=Cafés pl=Cafés
 Cafeteria noun g=f gen=Cafeteria pl=Cafeterias
+Calcium noun g=n gen=Calciums pl=- note=chemical element; also Kalzium
+Californium noun g=n gen=Californiums pl=- note=chemical element
 Call noun g=m gen=Calls pl=Calls
 Callcenter noun g=n gen=Callcenters pl=Callcenter
 Camp noun g=n gen=Camps pl=Camps
@@ -8,24 +12,31 @@ Camper noun g=m gen=Campers pl=Camper
 Camperin noun g=f gen=Camperin pl=Camperinnen
 Camping noun g=n gen=Campings pl=- note=mass noun
 Campus noun g=m gen=Campus pl=Campus|Campusse note=des Campus; plural unchanged or Campusse
+Candela noun g=f gen=Candela pl=Candela note=unit of luminous intensity
 Cannabis noun g=m gen=Cannabis pl=- note=des Cannabis; mass noun
 Canyon noun g=m gen=Canyons pl=Canyons
 Cap noun g=n gen=Caps pl=Caps
 Capitain noun g=m gen=Capitains pl=Capitains spelling=old style=archaic note=old spelling of Kapitän
 Capitel noun g=n gen=Capitels pl=Capitel spelling=old style=archaic note=old spelling of Kapitel
 Captcha noun g=n|m gen=Captchas pl=Captchas
+Carbid noun g=n gen=Carbids|Carbides pl=Carbide
+Carbonat noun g=n gen=Carbonats|Carbonates pl=Carbonate
 Carsharing noun g=n gen=Carsharings pl=- note=no plural (mass or abstract noun)
 Cartoon noun g=m|n gen=Cartoons pl=Cartoons
+Cartoonist noun g=m gen=Cartoonisten pl=Cartoonisten
+Cartoonistin noun g=f gen=Cartoonistin pl=Cartoonistinnen
 Casanova noun g=m gen=Casanovas pl=Casanovas
 Cashew noun g=f gen=Cashew pl=Cashews
 Cashflow noun g=m gen=Cashflows pl=Cashflows
 Casino noun g=n gen=Casinos pl=Casinos
+Cäsium noun g=n gen=Cäsiums pl=- note=chemical element; spelling variant of Caesium
 CD noun g=f gen=CD pl=CDs note=Compact Disc
 Cellist noun g=m gen=Cellisten pl=Cellisten
 Cello noun g=n gen=Cellos pl=Cellos|Celli
 Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn Cent)
 Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcenter); English-looking
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
+Cer noun g=n gen=Cers pl=- note=chemical element
 Challenge noun g=f gen=Challenge pl=Challenges conf=75 note=English loanword; gender unsure
 Chamäleon noun g=n gen=Chamäleons pl=Chamäleons
 Champagner noun g=m gen=Champagners pl=Champagner
@@ -64,6 +75,7 @@ Chirurg noun g=m gen=Chirurgen pl=Chirurgen
 Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
 Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
 Chlor noun g=n gen=Chlors pl=- note=chemical element
+Chlorid noun g=n gen=Chlorids|Chlorides pl=Chloride
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Cholera noun g=f gen=Cholera pl=- note=disease
@@ -93,6 +105,7 @@ Club          noun g=m gen=Clubs pl=Clubs
 Cluster noun g=m gen=Clusters pl=Cluster
 Coach noun g=m gen=Coachs|Coaches pl=Coachs|Coaches
 Coaching noun g=n gen=Coachings pl=Coachings
+Cobalt noun g=n gen=Cobalts pl=- note=chemical element; also Kobalt
 Cocktail noun g=m gen=Cocktails pl=Cocktails
 Code noun g=m gen=Codes pl=Codes
 Codex noun g=m gen=Codex|Codexes pl=Codices|Codizes[rare]
@@ -104,6 +117,7 @@ Comedy noun g=f gen=Comedy pl=Comedys|Comedies conf=80 note=plural unsure
 Comic noun g=m gen=Comics pl=Comics
 Commonwealth noun g=n gen=Commonwealth|Commonwealths pl=- conf=70 note=gender unsure (das Commonwealth)
 Community noun g=f gen=Community pl=Communitys|Communities conf=75 note=English loanword; plural unsure
+Compiler noun g=m gen=Compilers pl=Compiler
 Compliance noun g=f gen=Compliance pl=- note=mass noun
 Computer noun g=m gen=Computers pl=Computer
 Consultant noun g=m gen=Consultants pl=Consultants
@@ -114,10 +128,13 @@ Controller noun g=m gen=Controllers pl=Controller
 Controllerin noun g=f gen=Controllerin pl=Controllerinnen
 Controlling noun g=n gen=Controllings pl=- note=mass noun
 Cookie noun g=m|n gen=Cookies pl=Cookies
+Copernicium noun g=n gen=Coperniciums pl=- note=chemical element
 Copyright noun g=n gen=Copyrights pl=Copyrights
 Cornflakes noun g=pl
 Corona noun g=f gen=Corona pl=- conf=75 note=colloquial for the coronavirus pandemic (die Corona-Krise)
 Couch noun g=f gen=Couch pl=Couchs|Couches
+Coulomb noun g=n gen=Coulomb|Coulombs pl=Coulomb note=unit of charge
+Coulombbarriere noun g=f gen=Coulombbarriere pl=Coulombbarrieren
 Coupé noun g=n gen=Coupés pl=Coupés
 Courage noun g=f gen=Courage pl=- note=no plural
 Couscous noun g=m gen=Couscous pl=- note=no plural
@@ -135,6 +152,7 @@ Cricket noun g=n gen=Crickets pl=- note=sport; no plural
 Croissant noun g=n gen=Croissants pl=Croissants
 Cultur noun g=f gen=Cultur pl=Culturen spelling=old style=archaic note=old spelling of Kultur
 Cupcake noun g=m gen=Cupcakes pl=Cupcakes
+Curium noun g=n gen=Curiums pl=- note=chemical element
 Curry noun g=m|n gen=Currys pl=Currys
 Currywurst noun g=f gen=Currywurst pl=Currywürste
 Cursor noun g=m gen=Cursors pl=Cursor|Cursors

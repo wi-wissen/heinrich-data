@@ -78,6 +78,7 @@ Zeug noun g=n gen=Zeugs|Zeuges pl=- note=no plural
 Zeuge noun g=m gen=Zeugen pl=Zeugen
 Zeugin noun g=f gen=Zeugin pl=Zeuginnen
 Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
+Zibet noun g=m gen=Zibets pl=- note=mass noun; musk substance of the civet
 Zicke noun g=f gen=Zicke pl=Zicken style=colloquial
 Zicklein noun g=n gen=Zickleins pl=Zicklein
 Ziege noun g=f gen=Ziege pl=Ziegen
@@ -105,7 +106,9 @@ Zinne noun g=f gen=Zinne pl=Zinnen
 Zins noun g=m gen=Zinses pl=Zinsen
 Zinsen noun g=pl
 Zipfel noun g=m gen=Zipfels pl=Zipfel
+Zirconium noun g=n gen=Zirconiums pl=- note=chemical element; also Zirkonium
 Zirkel noun g=m gen=Zirkels pl=Zirkel
+Zirkonium noun g=n gen=Zirkoniums pl=- note=chemical element; spelling variant of Zirconium
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
 Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
 Zitadelle noun g=f gen=Zitadelle pl=Zitadellen
@@ -116,6 +119,7 @@ Zivil noun g=n gen=Zivils pl=- note=in Zivil; no plural
 Zivilcourage noun g=f gen=Zivilcourage pl=- note=no plural
 Zivilgesellschaft noun g=f gen=Zivilgesellschaft pl=Zivilgesellschaften
 Zivilisation noun g=f gen=Zivilisation pl=Zivilisationen
+Zivilisierung noun g=f gen=Zivilisierung pl=- note=no plural in practice
 Zivilist noun g=m gen=Zivilisten pl=Zivilisten
 Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
@@ -234,6 +238,8 @@ Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zwist noun g=m gen=Zwists|Zwistes pl=Zwiste
+Zygote noun g=f gen=Zygote pl=Zygoten
+Zyklotron noun g=n gen=Zyklotrons pl=Zyklotrone
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder
 Zynismus noun g=m gen=Zynismus pl=Zynismen

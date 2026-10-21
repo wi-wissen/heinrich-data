@@ -1,14 +1,18 @@
 Gabe noun g=f gen=Gabe pl=Gaben
 Gabel noun g=f gen=Gabel pl=Gabeln
+Gadolinium noun g=n gen=Gadoliniums pl=- note=chemical element
 Gage noun g=f gen=Gage pl=Gagen
 Galaxie noun g=f gen=Galaxie pl=Galaxien
 Galeere noun g=f gen=Galeere pl=Galeeren
 Galerie noun g=f gen=Galerie pl=Galerien
 Galgen noun g=m gen=Galgens pl=Galgen
 Galle noun g=f gen=Galle pl=Gallen
+Gallium noun g=n gen=Galliums pl=- note=chemical element
 Galopp noun g=m gen=Galopps pl=Galopps|Galoppe
+Galvanik noun g=f gen=Galvanik pl=- note=mass noun
 Gamer noun g=m gen=Gamers pl=Gamer
 Gamerin noun g=f gen=Gamerin pl=Gamerinnen
+Gamete noun g=f gen=Gamete pl=Gameten
 Gämse noun g=f gen=Gämse pl=Gämsen
 Gang noun g=m gen=Ganges|Gangs pl=Gänge
 Gangschaltung noun g=f gen=Gangschaltung pl=Gangschaltungen
@@ -252,6 +256,7 @@ Germane noun g=m gen=Germanen pl=Germanen
 Germanist noun g=m gen=Germanisten pl=Germanisten
 Germanistik noun g=f gen=Germanistik pl=- note=academic subject
 Germanistin noun g=f gen=Germanistin pl=Germanistinnen
+Germanium noun g=n gen=Germaniums pl=- note=chemical element
 Geröll noun g=n gen=Gerölls|Gerölles pl=- note=mass noun
 Gerste noun g=f gen=Gerste pl=- note=no plural
 Geruch noun g=m gen=Geruchs|Geruches pl=Gerüche
@@ -380,6 +385,7 @@ Gießkanne noun g=f gen=Gießkanne pl=Gießkannen
 GIF noun g=n gen=GIF|GIFs pl=GIFs
 Gift noun g=n gen=Gifts|Giftes pl=Gifte
 Giftmüll noun g=m gen=Giftmülls pl=- note=no plural
+Gigabyte noun g=n gen=Gigabytes pl=Gigabyte|Gigabytes
 Gigant noun g=m gen=Giganten pl=Giganten
 Gigawatt noun g=n gen=Gigawatts|Gigawatt pl=Gigawatt
 Gimpel noun g=m gen=Gimpels pl=Gimpel
@@ -432,6 +438,7 @@ Glöcknerin noun g=f gen=Glöcknerin pl=Glöcknerinnen
 Glorie noun g=f gen=Glorie pl=Glorien
 Glossar noun g=n gen=Glossars pl=Glossare
 Glosse noun g=f gen=Glosse pl=Glossen
+Glossem noun g=n gen=Glossems pl=Glosseme
 Glotze noun g=f gen=Glotze pl=Glotzen style=colloquial alt=Fernseher
 Glück noun g=n gen=Glücks|Glückes pl=- note=no plural in use
 Glucke noun g=f gen=Glucke pl=Glucken
@@ -441,6 +448,7 @@ Glückwunsch noun g=m gen=Glückwunsches pl=Glückwünsche
 Glühbirne noun g=f gen=Glühbirne pl=Glühbirnen
 Glühwein noun g=m gen=Glühweins|Glühweines pl=Glühweine
 Glühwürmchen noun g=n gen=Glühwürmchens pl=Glühwürmchen
+Gluon noun g=n gen=Gluons pl=Gluonen
 Glut noun g=f gen=Glut pl=- note=mass noun
 Glyphosat noun g=n gen=Glyphosats pl=Glyphosate
 GmbH noun g=f gen=GmbH pl=GmbHs
@@ -480,8 +488,10 @@ Gram noun g=m gen=Grams|Grames pl=- conf=80 note=literary: grief (vor Gram); no 
 Gramm noun g=n gen=Gramms pl=Gramm|Gramme
 Grammatik noun g=f gen=Grammatik pl=Grammatiken
 Gran noun g=n gen=Grans|Granes pl=Grane conf=80 note=old unit of weight (kein Gran Wahrheit); many hits are names (Gran Canaria)
+Granat noun g=m gen=Granats|Granates pl=Granate note=gemstone; also a shrimp in northern German
 Granate noun g=f gen=Granate pl=Granaten
 Granit noun g=m gen=Granits|Granites pl=Granite
+Granne noun g=f gen=Granne pl=Grannen
 Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen
 Graphiker noun g=m gen=Graphikers pl=Graphiker note=variant spelling of Grafiker
@@ -555,6 +565,8 @@ Günstling noun g=m gen=Günstlings pl=Günstlinge
 Gurke noun g=f gen=Gurke pl=Gurken
 Gurt noun g=m gen=Gurts|Gurtes pl=Gurte
 Gürtel noun g=m gen=Gürtels pl=Gürtel
+Gürtler noun g=m gen=Gürtlers pl=Gürtler note=craft: brass and metal fittings
+Gürtlermeister noun g=m gen=Gürtlermeisters pl=Gürtlermeister
 Guru noun g=m gen=Gurus pl=Gurus
 Gut noun g=n gen=Gutes|Guts pl=Güter note=das Gut: property, goods; estate
 Gutachten noun g=n gen=Gutachtens pl=Gutachten note=opaque compound (not gut + achten)

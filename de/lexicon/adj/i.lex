@@ -22,6 +22,7 @@ infantil adj cmp=infantiler sup=infantilsten
 informationell adj
 informativ adj
 inhaltlich adj
+injektiv adj
 inklusiv adj
 inländisch adj
 inner adj attr_only sup=innersten note=der innere Frieden, das innerste Gefühl; positional, no comparative
@@ -59,5 +60,7 @@ islamisch adj
 islamistisch adj
 isländisch adj
 isolierend adj
+isomorph adj
 israelisch adj
 italienisch adj
+iterativ adj

@@ -470,6 +470,7 @@ hoffen verb class=weak pp=gehofft perf=haben
 holen verb class=weak pp=geholt perf=haben
 holpern verb class=weak pp=geholpert perf=haben|sein
 honorieren verb class=weak pp=honoriert perf=haben
+hopfen verb class=weak pp=gehopft perf=haben
 hoppeln verb class=weak pp=gehoppelt perf=sein
 hopsen verb class=weak pp=gehopst perf=sein style=colloquial
 horchen verb class=weak pp=gehorcht perf=haben

@@ -1,4 +1,5 @@
 vacant        adj
+vacuolated adj
 vaginal adj
 vagrant adj
 vague         adj cmp=er adv=vaguely

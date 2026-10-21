@@ -2,6 +2,7 @@ waagerecht adj
 wach adj cmp=wacher sup=wachsten
 wachsam adj cmp=wachsamer sup=wachsamsten
 wacker adj cmp=wackerer sup=wackersten
+wägbar adj
 waghalsig adj cmp=waghalsiger sup=waghalsigsten
 wählerisch adj cmp=wählerischer sup=wählerischsten
 wahnsinnig adj cmp=wahnsinniger sup=wahnsinnigsten

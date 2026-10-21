@@ -7,11 +7,13 @@ Qualifikation noun g=f gen=Qualifikation pl=Qualifikationen
 Qualifizierung noun g=f gen=Qualifizierung pl=Qualifizierungen
 Qualität noun g=f gen=Qualität pl=Qualitäten
 Qualle noun g=f gen=Qualle pl=Quallen
+Quant noun g=n gen=Quants|Quantes pl=Quanten
 Quantität noun g=f gen=Quantität pl=Quantitäten
 Quantum noun g=n gen=Quantums pl=Quanten
 Quarantäne noun g=f gen=Quarantäne pl=Quarantänen
 Quark noun g=m gen=Quarks pl=- note=no plural
 Quartal noun g=n gen=Quartals pl=Quartale
+Quartär noun g=n gen=Quartärs pl=- note=geological period
 Quartett noun g=n gen=Quartetts|Quartettes pl=Quartette
 Quartier noun g=n gen=Quartiers pl=Quartiere
 Quarz noun g=m gen=Quarzes pl=Quarze

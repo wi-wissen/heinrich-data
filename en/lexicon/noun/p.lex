@@ -58,6 +58,7 @@ panel noun
 panelist noun gb=panellist
 panettone noun pl=panettones|panettoni conf=90 note=unsure how common the Italian plural panettoni is
 pang noun
+pangolin noun
 panhandle noun
 panic noun
 panini noun conf=90 note=used as a singular in English; Italian singular panino
@@ -400,7 +401,9 @@ phonograph noun
 phonology noun
 phony noun gb=phoney|phony
 phosphate noun
+phosphine noun
 phosphorus noun pl=- note=uncountable
+phosphoryl noun
 phosphorylation noun
 photo noun vb=take|snap xvb=make|do? pl=photos
 photobomb noun
@@ -799,6 +802,7 @@ preponderance noun
 prequel noun
 prerequisite noun prep=for|of|to
 prerogative noun
+presbyter noun
 Presbyterian noun note=demonym or religious name, capitalized
 preschool noun
 prescriber noun
@@ -899,7 +903,7 @@ professor noun
 professorship noun
 proficiency noun
 profile noun
-profit noun vb=make|turn|earn
+profit noun prep=from|on|of vb=make|turn|earn
 profitability noun pl=- note=uncountable
 profiteering noun pl=- note=uncountable
 profiterole noun
@@ -990,6 +994,7 @@ protocol noun
 proton noun
 prototype noun
 protractor noun
+provability noun pl=- note=uncountable
 provenance noun
 proverb noun
 providence noun pl=- note=uncountable
