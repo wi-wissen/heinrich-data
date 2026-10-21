@@ -2,4 +2,3 @@
 encima           adv
 enfrente         adv
 enseguida        adv
-entonces         adv
