@@ -1,8 +1,11 @@
 # Spanish verbs, letter l (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
 laborar          verb
 labrar           verb
+lacar            verb
 lacerar          verb
 lacrar           verb
+lactar           verb
+ladear           verb
 ladrar           verb
 lagrimear        verb
 lamentar         verb
@@ -26,9 +29,12 @@ lesionar         verb
 levantar         verb
 levar            verb
 levitar          verb
+lexicalizar      verb
 liar             verb  class=hiatus
+libar            verb
 liberalizar      verb
 liberar          verb
+libertar         verb
 librar           verb
 licenciar        verb  class=diphthong
 licitar          verb
@@ -42,13 +48,16 @@ limitar          verb
 limpiar          verb  class=diphthong
 linchar          verb
 lindar           verb
+liofilizar       verb
 liquidar         verb
 lisiar           verb  class=diphthong
 lisonjear        verb
 listar           verb
 litigar          verb
 litografiar      verb  class=hiatus
+lixiviar         verb  class=diphthong
 llamar           verb
+llamear          verb
 llegar           verb
 llenar           verb
 llevar           verb

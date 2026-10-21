@@ -4,4 +4,5 @@ enfrente         adv
 enseguida        adv
 entremedias      adv
 entretanto       adv
+exclusive        adv
 extramuros       adv

@@ -5,9 +5,14 @@ jabato           noun  g=m
 jabón            noun  g=m
 jabonera         noun  g=f
 jacinto          noun  g=m
+jacobino         noun  g=m f=jacobina
+jacobita         noun  g=m|f
+jactancia        noun  g=f
+jacuzzi          noun  g=m
 jade             noun  g=m
 jadeo            noun  g=m
 jaguar           noun  g=m
+jainismo         noun  g=m
 jalea            noun  g=f
 jaleo            noun  g=m
 jamaicano        noun  g=m f=jamaicana
@@ -17,25 +22,32 @@ jamón            noun  g=m
 japonés          noun  g=m f=japonesa
 jaque            noun  g=m
 jaqueca          noun  g=f
+jara             noun  g=f
 jarabe           noun  g=m
 jarana           noun  g=f
+jarcia           noun  g=f
 jardín           noun  g=m
 jardinería       noun  g=f
 jardinero        noun  g=m f=jardinera
 jarra            noun  g=f
 jarro            noun  g=m
 jarrón           noun  g=m
+jaspe            noun  g=m
 jaula            noun  g=f
 jauría           noun  g=f
 jazmín           noun  g=m
 jazz             noun  g=m pl=- foreign note=uncountable musical genre
 jefatura         noun  g=f
 jefe             noun  g=m f=jefa
+jemer            noun  g=m|f
 jengibre         noun  g=m
+jenízaro         noun  g=m
 jeque            noun  g=m
 jerarca          noun  g=m|f
 jerarquía        noun  g=f
+jerarquización   noun  g=f
 jerez            noun  g=m
+jerezano         noun  g=m f=jerezana
 jerga            noun  g=f
 jergón           noun  g=m
 jeringa          noun  g=f
@@ -43,11 +55,17 @@ jeringuilla      noun  g=f
 jeroglífico      noun  g=m
 jersey           noun  g=m pl=jerséis
 jesuita          noun  g=m
+jeta             noun  g=f style=colloquial alt=cara|desfachatez
+jícara           noun  g=f
+jiennense        noun  g=m|f var=jienense
 jilguero         noun  g=m
+jineta           noun  g=f
 jinete           noun  g=m|f
 jinetera         noun  g=f conf=80
 jirafa           noun  g=f
 jirón            noun  g=m
+jocosidad        noun  g=f
+jolgorio         noun  g=m
 jonrón           noun  g=m
 jordano          noun  g=m f=jordana
 jornada          noun  g=f
@@ -57,6 +75,8 @@ joroba           noun  g=f
 jorobado         noun  g=m f=jorobada
 jota             noun  g=f
 joven            noun  g=m|f
+jovenzuelo       noun  g=m f=jovenzuela
+jovialidad       noun  g=f
 joya             noun  g=f
 joyería          noun  g=f
 joyero           noun  g=m f=joyera
@@ -84,11 +104,13 @@ jugada           noun  g=f
 jugador          noun  g=m f=jugadora
 juglar           noun  g=m
 jugo             noun  g=m
+jugosidad        noun  g=f
 juguete          noun  g=m
 juguetería       noun  g=f
 juguetón         noun  g=m f=juguetona
 juicio           noun  g=m
 julio            noun  g=m
+juncal           noun  g=m
 junco            noun  g=m
 jungla           noun  g=f
 junio            noun  g=m
@@ -96,7 +118,9 @@ júnior           noun  g=m|f pl=júniores conf=85 note=sport category; adapted 
 junta            noun  g=f
 juntura          noun  g=f
 jurado           noun  g=m
+juramentación    noun  g=f
 juramento        noun  g=m
+jurásico         noun  g=m
 jurel            noun  g=m
 jurisconsulto    noun  g=m f=jurisconsulta
 jurisdicción     noun  g=f

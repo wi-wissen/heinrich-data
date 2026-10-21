@@ -2,6 +2,8 @@
 idealizar        verb
 idear            verb
 identificar      verb
+ideologizar      verb
+idiotizar        verb
 idolatrar        verb
 ignorar          verb
 igualar          verb
@@ -11,12 +13,15 @@ ilusionar        verb
 ilustrar         verb
 imaginar         verb
 imantar          verb
+imbricar         verb
 imbuir           verb
 imitar           verb
 impacientar      verb
 impactar         verb
 impartir         verb
 impedir          verb  class=i
+impeler          verb
+imperar          verb
 impermeabilizar  verb
 implantar        verb
 implementar      verb
@@ -26,6 +31,8 @@ imponer          verb  class=poner
 importar         verb
 importunar       verb
 imposibilitar    verb
+impostar         verb
+imprecar         verb
 impregnar        verb
 impresionar      verb
 imprimir         verb  pp=imprimido|impreso
@@ -34,11 +41,13 @@ impugnar         verb
 impulsar         verb
 imputar          verb
 inactivar        verb
+inaplicar        verb
 inaugurar        verb
 incapacitar      verb
 incardinar       verb
 incautar         verb
 incendiar        verb  class=diphthong
+incensar         verb  class=ie
 incentivar       verb
 incidir          verb
 incinerar        verb
@@ -72,6 +81,9 @@ individualizar   verb
 inducir          verb  class=ducir
 indultar         verb
 industrializar   verb
+inervar          verb
+infamar          verb
+infantilizar     verb
 infectar         verb
 inferir          verb  class=ie_i
 infestar         verb
@@ -83,6 +95,7 @@ influenciar      verb  class=diphthong
 influir          verb
 informar         verb
 informatizar     verb
+infrautilizar    verb
 infravalorar     verb
 infringir        verb
 infundir         verb
@@ -93,14 +106,17 @@ inhabilitar      verb
 inhalar          verb
 inhibir          verb
 inhumar          verb
+inicializar      verb
 iniciar          verb  class=diphthong
 injertar         verb
 injuriar         verb  class=diphthong
+inmatricular     verb
 inmigrar         verb
 inmiscuir        verb  pronominal
 inmolar          verb
 inmortalizar     verb
 inmovilizar      verb
+inmunizar        verb
 inmutar          verb
 innovar          verb
 inocular         verb
@@ -119,27 +135,35 @@ instalar         verb
 instar           verb
 instaurar        verb
 instigar         verb
+instilar         verb
 institucionalizar verb
 instituir        verb
 instruir         verb
 instrumentalizar verb
 instrumentar     verb
+insubordinar     verb
+insuflar         verb
 insultar         verb
 integrar         verb
+intelectualizar  verb
 intensificar     verb
 intentar         verb
+interaccionar    verb
 interactuar      verb
 intercalar       verb
 intercambiar     verb  class=diphthong
 interceder       verb
 interceptar      verb
+intercomunicar   verb
 interconectar    verb
 interesar        verb
 interferir       verb  class=ie_i
 interiorizar     verb
 intermediar      verb  class=diphthong
 internacionalizar verb
+internalizar     verb
 internar         verb
+interoperar      verb
 interpelar       verb
 interpolar       verb
 interponer       verb  class=poner
@@ -147,16 +171,20 @@ interpretar      verb
 interrelacionar  verb
 interrogar       verb
 interrumpir      verb
+intersecar       verb
 intervenir       verb  class=venir
 intimar          verb
 intimidar        verb
+intitular        verb
 intoxicar        verb
 intrigar         verb
 introducir       verb  class=ducir
+intubar          verb
 intuir           verb
 inundar          verb
 inutilizar       verb
 invadir          verb
+invaginar        verb
 invalidar        verb
 inventar         verb
 inventariar      verb  class=hiatus
@@ -164,16 +192,20 @@ invernar         verb  class=ie conf=80 note=invierna; regular inverna also hear
 invertir         verb  class=ie_i
 investigar       verb
 investir         verb  class=i
+invisibilizar    verb
 invitar          verb
 invocar          verb
+involucionar     verb
 involucrar       verb
 inyectar         verb
-ir           verb class=irr pres=voy,vas,va,vamos,vais,van impf=iba
-             pret=fui,fuiste,fue,fuimos,fuisteis,fueron subj=vaya imp=ve,vaya,vamos|vayamos,id,vayan
-             ger=yendo note=full table written by the a-c author (AUTHORING.md §2)
+ionizar          verb
+ironizar         verb
 irradiar         verb  class=diphthong
 irrigar          verb
 irritar          verb
+irrogar          verb
 irrumpir         verb
+islamizar        verb
+italianizar      verb
 iterar           verb
 izar             verb
