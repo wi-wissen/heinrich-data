@@ -155,6 +155,7 @@ sublevar verb
 sublimar verb
 subordinar verb
 subrayar verb
+subrogar verb
 subsanar verb
 subsidiar verb class=diphthong
 subsistir verb

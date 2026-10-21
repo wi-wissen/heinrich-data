@@ -17,6 +17,7 @@ ultratumba noun g=f
 umbral noun g=m
 unanimidad noun g=f
 unción noun g=f
+underground noun g=m foreign pl=- note=uncountable (scene, style)
 ungüento noun g=m
 ungulado noun g=m
 unicidad noun g=f

@@ -85,6 +85,7 @@ seguro adj adv=seguramente
 seleccionable adj
 selectivo adj adv=selectivamente
 selecto adj
+seléucida adj
 sellado adj
 selvático adj
 semanal adj adv=semanalmente
@@ -104,7 +105,7 @@ senatorial adj
 sencillo adj adv=sencillamente
 senegalés adj
 senil adj
-sénior adj pl=séniors
+sénior adj pl=séniores
 sensacional adj
 sensacionalista adj
 sensato adj
@@ -113,6 +114,7 @@ sensitivo adj
 sensorial adj
 sensual adj
 sentado adj
+sentenciador adj
 sentencioso adj
 sentido adj
 sentimental adj adv=sentimentalmente
@@ -131,6 +133,7 @@ serrano adj
 servicial adj
 servil adj
 sesentón adj f=sesentona
+sésil adj
 sesudo adj
 severo adj adv=severamente
 sevillano adj
@@ -169,7 +172,7 @@ sintáctico adj
 sintético adj
 sintomático adj
 sinuoso adj
-sinvergüenza adj style=colloquial alt=desvergonzado
+sinvergüenza adj
 sionista adj
 sirio adj
 sísmico adj
@@ -234,6 +237,7 @@ soporífero adj
 soportable adj
 sórdido adj
 sordo adj
+sordociego adj
 sordomudo adj
 sorprendente adj adv=sorprendentemente
 sorprendido adj
@@ -260,6 +264,7 @@ subsanable adj
 subsecuente adj adv=subsecuentemente
 subsidiario adj adv=subsidiariamente
 subsiguiente adj
+subsistente adj
 subterráneo adj
 subtropical adj
 suburbano adj
@@ -290,10 +295,12 @@ sulfúrico adj
 sumario adj adv=sumariamente
 sumarísimo adj
 sumergible adj
+sumerio adj
 sumiso adj
 sumo adj adv=sumamente
 suní adj pl=suníes|sunís[var]
 suntuoso adj
+súper adj inv conf=80
 superdotado adj
 superficial adj adv=superficialmente
 superfluo adj
@@ -307,6 +314,7 @@ supino adj
 suplementario adj
 supletorio adj adv=supletoriamente
 suplicante adj
+supramunicipal adj
 supranacional adj
 supremacista adj
 supremo adj

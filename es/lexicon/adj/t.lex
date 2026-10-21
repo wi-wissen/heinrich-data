@@ -44,7 +44,7 @@ temible adj
 tempestuoso adj
 templado adj
 temporal adj adv=temporalmente
-temprano adj
+temprano adj adv=tempranamente
 tenaz adj adv=tenazmente
 tendente adj
 tenebroso adj
@@ -92,6 +92,7 @@ tiránico adj
 tisular adj
 titánico adj
 titubeante adj
+tocante adj note=mostly in en lo tocante a
 todopoderoso adj
 toledano adj
 tolerable adj
@@ -103,6 +104,7 @@ tonto adj
 tontorrón adj f=tontorrona style=colloquial alt=tonto
 tópico adj
 topográfico adj
+topológico adj
 toponímico adj
 torácico adj
 torcaz adj
@@ -112,6 +114,7 @@ torpe adj adv=torpemente
 torrefacto adj
 torrencial adj
 tórrido adj
+torticero adj
 tortuoso adj
 toscano adj
 tosco adj adv=toscamente
@@ -170,7 +173,7 @@ trepidante adj
 triangular adj
 tribal adj
 tributario adj
-tricolor adj
+tricolor adj f=tricolor note=the same form in both genders
 tridimensional adj
 trienal adj
 trilingüe adj

@@ -65,6 +65,7 @@ vernáculo adj
 verosímil adj
 versátil adj
 vertebrado adj
+vertebrador adj
 vertebral adj
 vertical adj adv=verticalmente
 vertiginoso adj
@@ -106,7 +107,7 @@ virtual adj adv=virtualmente
 virtuoso adj
 visceral adj
 viscoso adj
-visible adj
+visible adj adv=visiblemente
 visigodo adj
 visionario adj
 vistoso adj

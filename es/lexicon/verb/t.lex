@@ -35,12 +35,14 @@ templar verb
 tender verb class=ie
 tener verb class=tener
 tensar verb
+tensionar verb
 tentar verb class=ie
 teñir verb class=i
 teorizar verb
 terciar verb class=diphthong
 tergiversar verb
 terminar verb
+territorializar verb
 testar verb
 testificar verb
 testimoniar verb class=diphthong

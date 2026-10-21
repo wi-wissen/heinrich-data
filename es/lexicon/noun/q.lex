@@ -39,7 +39,6 @@ quimera noun g=f
 química noun g=f
 químico noun g=m f=química
 quimioterapia noun g=f
-quimono noun g=m var=kimono
 quina noun g=f
 quincalla noun g=f
 quinceañero noun g=m f=quinceañera

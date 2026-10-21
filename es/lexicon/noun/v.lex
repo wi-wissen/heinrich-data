@@ -1,6 +1,7 @@
 # Spanish noun entries, letter v. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 vaca noun g=f
 vacaciones noun g=f pl_only
+vacancia noun g=f
 vacante noun g=f
 vaciamiento noun g=m
 vacilación noun g=f
@@ -12,7 +13,7 @@ vado noun g=m
 vagabundo noun g=m f=vagabunda
 vagancia noun g=f
 vagina noun g=f
-vago noun g=m f=vaga style=colloquial alt=holgazán|perezoso
+vago noun g=m f=vaga
 vagón noun g=m
 vagoneta noun g=f
 vaguada noun g=f
@@ -110,6 +111,7 @@ velódromo noun g=m
 vena noun g=f
 venado noun g=m
 vencedor noun g=m f=vencedora
+vencejo noun g=m
 vencimiento noun g=m
 venda noun g=f
 vendaje noun g=m
@@ -201,9 +203,11 @@ vibración noun g=f
 vibrador noun g=m
 vibráfono noun g=m
 vicaría noun g=f
+vicariato noun g=m
 vicario noun g=m
 vicealcalde noun g=m f=vicealcaldesa
 vicealmirante noun g=m|f
+vicegobernador noun g=m f=vicegobernadora
 viceministro noun g=m f=viceministra
 vicepresidencia noun g=f
 vicepresidente noun g=m f=vicepresidenta
@@ -297,8 +301,10 @@ visión noun g=f
 visionario noun g=m f=visionaria
 visir noun g=m
 visita noun g=f
+visitador noun g=m f=visitadora
 visitante noun g=m|f
 visón noun g=m
+visor noun g=m
 visos noun g=m pl_only note=tener visos de
 víspera noun g=f
 vista noun g=f
@@ -355,6 +361,7 @@ voluntad noun g=f
 voluntariado noun g=m
 voluntariedad noun g=f
 voluntario noun g=m f=voluntaria
+voluptuosidad noun g=f
 voluta noun g=f
 vómito noun g=m
 vomitona noun g=f style=colloquial alt=vómito

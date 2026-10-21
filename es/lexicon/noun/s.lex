@@ -343,6 +343,7 @@ sexteto noun g=m
 sexualidad noun g=f
 sheriff noun g=m foreign pl=sheriffs
 shock noun g=m foreign pl=shocks
+shogunato noun g=m
 show noun g=m foreign pl=shows
 sicario noun g=m f=sicaria
 sida noun g=m
@@ -388,6 +389,7 @@ silueta noun g=f
 silvicultor noun g=m f=silvicultora
 silvicultura noun g=f
 sima noun g=f
+simbionte noun g=m
 simbiosis noun g=f
 simbolismo noun g=m
 símbolo noun g=m
@@ -442,7 +444,7 @@ sintomatología noun g=f
 sintonía noun g=f
 sintonizador noun g=m
 sinusitis noun g=f
-sinvergüenza noun g=m|f style=colloquial alt=granuja|desvergonzado
+sinvergüenza noun g=m|f
 sinvivir noun g=m
 sionismo noun g=m
 sir noun g=m foreign pl=- conf=80 note=English title
@@ -455,9 +457,11 @@ sismicidad noun g=f
 sismo noun g=m
 sistema noun g=m
 sistematización noun g=f
+sitiador noun g=m f=sitiadora
 sitial noun g=m
 sitio noun g=m
 situación noun g=f
+ska noun g=m foreign pl=- note=music genre, uncountable
 sketch noun g=m foreign pl=sketches
 sobaco noun g=m
 soberanía noun g=f
@@ -589,6 +593,7 @@ sordera noun g=f
 sordidez noun g=f
 sordina noun g=f
 sordo noun g=m f=sorda
+sordociego noun g=m f=sordociega
 sordomudez noun g=f
 sorgo noun g=m
 sorna noun g=f
@@ -642,6 +647,7 @@ subdelegado noun g=m f=subdelegada
 subdesarrollo noun g=m
 subdirección noun g=f
 subdirector noun g=m f=subdirectora
+subdistrito noun g=m
 súbdito noun g=m f=súbdita
 subdivisión noun g=f
 subducción noun g=f
@@ -691,6 +697,7 @@ subterráneo noun g=m
 subtipo noun g=m
 subtitulado noun g=m
 subtítulo noun g=m
+subunidad noun g=f
 suburbio noun g=m
 subvención noun g=f
 subversión noun g=f
@@ -746,6 +753,7 @@ suministrador noun g=m f=suministradora
 suministro noun g=m
 sumisión noun g=f
 suntuosidad noun g=f
+súper noun g=m pl=súperes conf=80 note=short for supermercado; also gasolina súper (adj)
 superación noun g=f
 superávit noun g=m pl=superávits conf=85 note=plural rarely used
 superconductor noun g=m
@@ -803,6 +811,7 @@ suspensorio noun g=m
 suspicacia noun g=f
 suspiro noun g=m
 sustancia noun g=f var=substancia
+sustanciación noun g=f
 sustentación noun g=f
 sustento noun g=m
 sustitución noun g=f var=substitución
@@ -813,3 +822,4 @@ sustrato noun g=m var=substrato
 susurro noun g=m
 sutileza noun g=f
 sutura noun g=f
+swing noun g=m foreign pl=- note=music genre, uncountable

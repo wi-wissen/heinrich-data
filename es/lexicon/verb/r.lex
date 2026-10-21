@@ -76,6 +76,7 @@ recargar verb
 recatar verb
 recaudar verb
 recelar verb
+recentralizar verb
 recetar verb
 rechazar verb
 rechinar verb
@@ -126,6 +127,7 @@ redefinir verb
 redimensionar verb
 redimir verb
 redirigir verb
+rediseñar verb
 redistribuir verb
 redoblar verb
 redondear verb
@@ -187,15 +189,16 @@ reglamentar verb
 reglar verb
 regocijar verb
 regodear verb pronominal
+regrabar verb
 regresar verb
 regular verb
 regularizar verb
 regurgitar verb
 rehabilitar verb
-rehacer verb class=hacer
+rehacer verb class=hacer pret=rehíce,rehiciste,rehízo,rehicimos,rehicisteis,rehicieron note=pret written out until the generator stops carrying the hiatus accent of rehíce into the other cells
 rehogar verb
-rehuir verb class=hiatus
-rehundir verb
+rehuir verb class=hiatus pres=rehúyo,rehúyes,rehúye,rehuimos,rehuís,rehúyen pret=rehuí,rehuiste,rehuyó,rehuimos,rehuisteis,rehuyeron note=pres and pret written out until the generator keeps the accent of rehuís, rehuí (two syllables)
+rehundir verb class=hiatus
 rehusar verb class=hiatus
 reimplantar verb
 reimprimir verb pp=reimpreso|reimprimido

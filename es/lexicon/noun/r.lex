@@ -229,6 +229,7 @@ recolocación noun g=f
 recombinación noun g=f
 recomendación noun g=f
 recompensa noun g=f
+recompra noun g=f
 reconciliación noun g=f
 reconcomio noun g=m
 reconducción noun g=f
@@ -704,6 +705,7 @@ riel noun g=m
 rienda noun g=f
 riesgo noun g=m
 rifa noun g=f
+riff noun g=m foreign pl=riffs
 rifle noun g=m
 rigidez noun g=f
 rigodón noun g=m

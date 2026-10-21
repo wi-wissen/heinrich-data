@@ -15,6 +15,7 @@ ultraterrestre adj
 ultravioleta adj inv
 umbrío adj
 unánime adj adv=unánimemente
+underground adj foreign inv
 unicameral adj
 unicelular adj
 único adj adv=únicamente

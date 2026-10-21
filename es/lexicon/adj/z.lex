@@ -3,6 +3,7 @@ zafio adj
 zalamero adj
 zamorano adj
 zancudo adj
+zapatista adj
 zaragozano adj
 zarista adj
 zarrapastroso adj
