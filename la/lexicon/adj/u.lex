@@ -1,5 +1,5 @@
 # Latin adj entries, letter u: own data, written clean-room (la/lexicon/AUTHORING.md)
-ultimus, ultima, ultimum adj nocmp
+ulterior, ulterius adj sup=ultimus
 umbrōsus, umbrōsa, umbrōsum adj
 ūmidus, ūmida, ūmidum adj conf=85 note=length of the initial u
 ūnicus, ūnica, ūnicum adj nocmp

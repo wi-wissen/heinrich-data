@@ -65,6 +65,7 @@ subdūcō, subdūxī, subductum, subdūcere verb imp=subdūc
 subeō, subiī, subitum, subīre verb class=eo
 subiciō, subiēcī, subiectum, subicere verb
 subigō, subēgī, subāctum, subigere verb
+subripiō, subripuī, subreptum, subripere verb var=surripiō
 subsequor, subsecūtus sum, subsequī verb note=no long vowel in the lemma
 subsīdō, subsēdī, subsessum, subsīdere verb intr
 subsistō, substitī, -, subsistere verb intr

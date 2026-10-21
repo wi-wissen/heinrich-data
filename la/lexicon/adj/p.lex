@@ -17,6 +17,7 @@ pecūliāris, pecūliāre adj nocmp
 pedester, pedestris, pedestre adj nocmp
 peregrīnus, peregrīna, peregrīnum adj
 perennis, perenne adj nocmp
+perfacilis, perfacile adj nocmp adv=perfacile
 perfidus, perfida, perfidum adj
 perīculōsus, perīculōsa, perīculōsum adj
 perītus, perīta, perītum adj adv
@@ -54,6 +55,7 @@ praetōrius, praetōria, praetōrium adj nocmp
 prāvus, prāva, prāvum adj adv
 pretiōsus, pretiōsa, pretiōsum adj
 prīncipālis, prīncipāle adj nocmp
+prior, prius adj sup=prīmus note=superlative forms also as the ordinal prīmus (numerals)
 prīscus, prīsca, prīscum adj nocmp
 prīstinus, prīstina, prīstinum adj nocmp
 prīvātus, prīvāta, prīvātum adj nocmp

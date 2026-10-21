@@ -10,6 +10,7 @@ Scaevola, Scaevolae propn m
 Scīpiō, Scīpiōnis propn m
 Scylla, Scyllae propn f
 Seneca, Senecae propn m
+Sēquana, Sēquanae propn m note=river names are masculine (school rule)
 Sēquanī, Sēquanōrum propn m pl_only
 Servius, Serviī propn m
 Sextus, Sextī propn m
