@@ -154,6 +154,7 @@ hostil           adj   adv=hostilmente
 hotelero         adj
 hueco            adj
 huérfano         adj
+hueso            adj   inv note=colour: unos zapatos hueso
 huesudo          adj
 huidizo          adj
 humanista        adj

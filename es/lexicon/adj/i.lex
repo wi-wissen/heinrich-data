@@ -260,6 +260,7 @@ indigenista      adj
 indignado        adj
 indignante       adj
 indigno          adj   adv=indignamente
+índigo           adj   inv note=colour: azul índigo
 indio            adj
 indirecto        adj   adv=indirectamente
 indisciplinado   adj

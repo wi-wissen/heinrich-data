@@ -401,6 +401,7 @@ grosella         noun  g=f
 grosería         noun  g=f
 grosor           noun  g=m
 grúa             noun  g=f
+grueso           noun  g=m note=el grueso de: the bulk, the main part
 grulla           noun  g=f
 grumete          noun  g=m
 grumo            noun  g=m

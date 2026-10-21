@@ -43,6 +43,7 @@ latitudinal      adj
 laudable         adj
 laureado         adj
 lavable          adj
+lavanda          adj   inv note=colour
 laxo             adj adv=laxamente
 leal             adj   adv=lealmente
 lealista         adj
@@ -99,12 +100,14 @@ licencioso       adj
 lícito           adj   adv=lícitamente
 ligero           adj   adv=ligeramente
 liguero          adj
+lila             adj   pl=lila|lilas note=colour; invariable and regular plural both in use
 límbico          adj
 limeño           adj
 limitado         adj adv=limitadamente
 limitante        adj
 limitativo       adj
 limítrofe        adj
+limón            adj   inv note=colour: verde limón, amarillo limón
 limpiador        adj
 límpido          adj
 limpio           adj   adv=limpiamente
