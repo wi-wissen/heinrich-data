@@ -4,6 +4,7 @@ ultimar verb
 unificar verb
 uniformar verb
 unir verb
+urbanizar verb
 urgir verb
 usar verb
 utilizar verb

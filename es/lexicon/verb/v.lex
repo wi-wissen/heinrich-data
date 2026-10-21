@@ -2,6 +2,7 @@
 vaciar verb class=hiatus
 vacilar verb
 vacunar verb
+vagar verb
 valer verb class=valer
 validar verb
 valorar verb
@@ -9,18 +10,23 @@ variar verb class=hiatus
 velar verb
 vencer verb
 vender verb
+venerar verb
 vengar verb
 venir verb class=venir
 ventilar verb
 ver verb class=ver
 veranear verb
 verificar verb
+versar verb
+vertebrar verb
 verter verb class=ie
 vestir verb class=i
+vetar verb
 viajar verb
 vigilar verb
 vincular verb
 violar verb
+visibilizar verb
 visitar verb
 visualizar verb
 vivir verb
