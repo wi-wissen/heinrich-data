@@ -28,6 +28,10 @@ build scripts and finished language packs.
   protocol: `en/lexicon/AUTHORING.md`
 - `en/names/` – English given names, surnames and place names (own lists, with a marker for names
   that are also ordinary words; `en/names/README.md`)
+- `fr/lexicon/` – the French lexicon (own clean-room entries, format
+  `Heinrich/docs/LEXICON_FORMAT_FR.md`), sharded by part of speech and first letter;
+  `fr/lexicon/closed/` – closed word classes, written by hand. Overview and PR record:
+  `fr/lexicon/README.md`; authoring protocol: `fr/lexicon/AUTHORING.md`
 - `fr/names/` – French given names, surnames and place names, filtered from official open data
   (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
 - `de/phon/` – pronunciation exceptions
