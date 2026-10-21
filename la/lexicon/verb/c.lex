@@ -67,6 +67,7 @@ comitor, comitātus sum, comitārī verb note=no long vowel in the lemma
 commemorō, commemorāvī, commemorātum, commemorāre verb
 commendō, commendāvī, commendātum, commendāre verb
 commentor, commentātus sum, commentārī verb note=no long vowel in the lemma
+commeō, commeāvī, commeātum, commeāre verb intr
 commigrō, commigrāvī, commigrātum, commigrāre verb intr
 comminīscor, commentus sum, comminīscī verb
 comminor, comminātus sum, comminārī verb note=no long vowel in the lemma

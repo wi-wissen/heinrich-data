@@ -10,3 +10,4 @@ Diāna, Diānae propn f
 Dīdō, Dīdōnis propn f
 Dīviciācus, Dīviciācī propn m
 Dumnorīx, Dumnorīgis propn m
+Durocortorum, Durocortorī propn n loc
