@@ -373,6 +373,7 @@ fonación         noun  g=f
 fonda            noun  g=f
 fondeadero       noun  g=m
 fondeo           noun  g=m
+fondillos        noun  g=m pl_only note=seat of the trousers
 fondista         noun  g=m|f
 fondo            noun  g=m
 fondue           noun  g=f foreign
@@ -486,6 +487,7 @@ fregona          noun  g=f
 freidora         noun  g=f
 frenazo          noun  g=m
 frenesí          noun  g=m pl=frenesíes|frenesís[var]
+frenillo         noun  g=m note=anatomy: frenulum
 freno            noun  g=m
 frente           noun  g=f sense=forehead
 frente           noun  g=m sense=front

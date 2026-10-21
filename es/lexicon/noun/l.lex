@@ -255,6 +255,7 @@ librero          noun  g=m f=librera
 libreta          noun  g=f
 libretista       noun  g=m|f
 libreto          noun  g=m
+librillo         noun  g=m note=librillo de papel de fumar
 libro            noun  g=m
 licántropo       noun  g=m
 licencia         noun  g=f
@@ -346,6 +347,7 @@ lisis            noun  g=f
 lisonja          noun  g=f
 lista            noun  g=f
 listado          noun  g=m
+listillo         noun  g=m f=listilla style=colloquial alt=sabelotodo|pedante
 listín           noun  g=m
 listón           noun  g=m
 litera           noun  g=f
@@ -449,6 +451,7 @@ lozanía          noun  g=f
 lubina           noun  g=f
 lubricación      noun  g=f
 lubricante       noun  g=m
+lucernario       noun  g=m note=skylight
 lucero           noun  g=m
 lucha            noun  g=f
 luchador         noun  g=m f=luchadora

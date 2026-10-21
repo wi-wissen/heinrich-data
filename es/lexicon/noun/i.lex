@@ -314,6 +314,7 @@ infertilidad     noun  g=f
 infestación      noun  g=f
 infidelidad      noun  g=f
 infiel           noun  g=m|f
+infiernillo      noun  g=m note=small spirit or gas stove
 infierno         noun  g=m
 infiltración     noun  g=f
 infinidad        noun  g=f

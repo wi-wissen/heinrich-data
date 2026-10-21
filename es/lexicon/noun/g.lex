@@ -4,6 +4,7 @@ gabardina        noun  g=f
 gabinete         noun  g=m
 gacela           noun  g=f
 gaceta           noun  g=f
+gacetilla        noun  g=f note=short news item
 gachas           noun  g=f pl_only
 gaditano         noun  g=m f=gaditana
 gafas            noun  g=f pl_only
@@ -39,6 +40,7 @@ galleguista      noun  g=m|f
 galleta          noun  g=f
 gallina          noun  g=f
 gallinero        noun  g=m
+gallito          noun  g=m style=colloquial alt=bravucón|chulo note=cocky person; the plain diminutive of gallo is formed at run time
 gallo            noun  g=m f=gallina
 galo             noun  g=m f=gala
 galón            noun  g=m
@@ -61,6 +63,7 @@ ganado           noun  g=m
 ganador          noun  g=m f=ganadora
 ganancia         noun  g=f
 ganas            noun  g=f pl_only
+ganchillo        noun  g=m note=crochet; hacer ganchillo
 gancho           noun  g=m
 gandul           noun  g=m f=gandula
 ganga            noun  g=f
@@ -81,6 +84,7 @@ garcilla         noun  g=f
 garduña          noun  g=f
 garfio           noun  g=m
 garganta         noun  g=f
+gargantilla      noun  g=f note=short necklace
 gárgara          noun  g=f
 gárgola          noun  g=f
 garita           noun  g=f
