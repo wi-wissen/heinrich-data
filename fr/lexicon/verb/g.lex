@@ -64,7 +64,7 @@ glousser       verb pp_inv
 gober          verb
 godiller       verb pp_inv
 goinfrer       verb pronominal style=colloquial alt=s'empiffrer|manger_avec_excès
-gominer        verb pronominal
+gominer        verb note=also transitive (gominer ses cheveux, des cheveux gominés)
 gommer         verb
 gondoler       verb
 gonfler        verb
