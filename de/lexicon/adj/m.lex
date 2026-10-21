@@ -3,6 +3,7 @@ mager adj cmp=magerer sup=magersten
 magisch adj
 magnetisch adj
 majestätisch adj cmp=majestätischer sup=majestätischsten
+makedonisch adj
 malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
@@ -77,6 +78,8 @@ momentan adj
 monarchisch adj
 monatlich adj
 mongolisch adj
+monomer adj
+montenegrinisch adj
 monumental adj
 moralisch adj cmp=moralischer sup=moralischsten
 morgig adj attr_only

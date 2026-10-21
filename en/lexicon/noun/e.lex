@@ -47,9 +47,11 @@ economics noun pl=- note=the science; takes a singular verb
 economist noun
 economy noun
 ecoregion noun
+ecosphere noun
 ecosystem noun
 ecotourism noun pl=- note=uncountable
 ecstasy noun
+ectoplasm noun pl=- note=uncountable
 edam noun conf=90 note=countable for a whole cheese or a variety, also a mass noun; also capitalized Edam
 edamame noun pl=- note=uncountable
 eddy noun
@@ -133,6 +135,7 @@ ember noun
 embezzlement noun pl=- note=uncountable
 emblem noun
 embodiment noun
+embosser noun
 embrace noun
 embroidery noun
 embryo noun pl=embryos
@@ -259,6 +262,7 @@ epidemiology noun pl=- note=uncountable
 epidermis noun pl=- note=usually uncountable
 epigram noun
 epilepsy noun pl=- note=uncountable
+episcopacy noun
 episode noun
 epistle noun
 epitaph noun
@@ -329,6 +333,7 @@ ethnicity noun
 ethnology noun pl=- note=uncountable
 ethos noun pl=- note=uncountable
 ethylene noun pl=- note=uncountable
+ethyne noun pl=- note=uncountable
 etiquette noun
 etymology noun
 eucalyptus noun pl=eucalyptuses|eucalypti
@@ -373,7 +378,7 @@ excellency noun
 exception noun prep=to|of|for vb=make
 excerpt noun
 excess noun
-exchange noun
+exchange noun prep=of|for|between|with
 exchequer noun region=GB
 excise noun
 excitation noun

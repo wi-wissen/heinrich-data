@@ -25,6 +25,7 @@ unabhängig adj cmp=unabhängiger sup=unabhängigsten
 unanfechtbar adj
 unangenehm adj cmp=unangenehmer sup=unangenehmsten
 unangetastet adj
+unär adj
 unartig adj cmp=unartiger sup=unartigsten
 unaufhaltsam adj
 unaufhörlich adj
@@ -142,6 +143,7 @@ unumgänglich adj
 ununterbrochen adj
 unverändert adj
 unverantwortlich adj cmp=unverantwortlicher sup=unverantwortlichsten
+unverdaulich adj cmp=unverdaulicher sup=unverdaulichsten
 unverhältnismäßig adj
 unvermeidlich adj
 unverschämt adj cmp=unverschämter sup=unverschämtesten
@@ -172,6 +174,7 @@ unzweifelhaft adj
 üppig adj cmp=üppiger sup=üppigsten
 uralt adj
 urban adj
+urindogermanisch adj
 urkundlich adj
 ursprünglich adj
 uruguayisch adj

@@ -38,6 +38,7 @@ receptive adj cmp=more
 recessive adj
 reciprocal adj adv=reciprocally
 reckless adj cmp=more adv=recklessly
+reclusive adj cmp=more adv=reclusively
 recognizable adj gb=recognisable|recognizable adv=recognizably
 recombinant adj
 reconciled adj prep=with|to

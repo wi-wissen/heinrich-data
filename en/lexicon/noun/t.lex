@@ -591,6 +591,7 @@ tundra noun
 tune noun
 tungsten noun pl=- note=uncountable
 tunic noun
+tunicate noun
 tunnel noun
 turban noun
 turbine noun

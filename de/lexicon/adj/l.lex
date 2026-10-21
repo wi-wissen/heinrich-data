@@ -11,6 +11,7 @@ langlebig adj
 länglich adj
 langsam adj cmp=langsamer sup=langsamsten
 langweilig adj cmp=langweiliger sup=langweiligsten
+langwellig adj cmp=langwelliger sup=langwelligsten
 langwierig adj cmp=langwieriger sup=langwierigsten
 lanzettlich adj
 lässig adj cmp=lässiger sup=lässigsten
@@ -25,6 +26,7 @@ lauter adj indecl sense=mere note=lauter Unsinn; cf. comparative of laut
 lauter adj sense=pure note=lautere Absichten; not compared
 lauwarm adj
 lebendig adj cmp=lebendiger sup=lebendigsten
+lebenswert adj cmp=lebenswerter sup=lebenswertesten
 lebhaft adj cmp=lebhafter sup=lebhaftesten
 lecker adj cmp=leckerer sup=leckersten
 ledig adj
@@ -64,6 +66,7 @@ liquide adj cmp=liquider sup=liquidesten
 listig adj cmp=listiger sup=listigsten
 litauisch adj
 literarisch adj
+lithophil adj
 liturgisch adj
 live adj indecl
 löchrig adj cmp=löchriger sup=löchrigsten

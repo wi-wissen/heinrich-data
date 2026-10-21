@@ -444,6 +444,7 @@ hustle noun
 hut            noun
 hutch noun
 hybrid         noun
+hybridization noun gb=hybridisation|hybridization
 hydrangea noun
 hydrate noun
 hydrazine noun pl=- note=uncountable

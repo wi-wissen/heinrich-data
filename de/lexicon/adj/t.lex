@@ -19,6 +19,7 @@ temporär adj
 tendenziell adj
 tendenziös adj
 termingemäß adj
+ternär adj
 territorial adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
@@ -33,6 +34,7 @@ thüringisch adj
 tibetisch adj
 tief adj cmp=tiefer sup=tiefsten
 tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
+tiefstgelegen adj attr_only note=superlative compound: der tiefstgelegene Ort
 tierisch adj
 tödlich adj cmp=tödlicher sup=tödlichsten
 tolerant adj cmp=toleranter sup=tolerantesten
@@ -53,6 +55,7 @@ transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 transzendental adj
+traubig adj
 traulich adj cmp=traulicher sup=traulichsten
 träumerisch adj cmp=träumerischer sup=träumerischsten
 traumhaft adj cmp=traumhafter sup=traumhaftesten

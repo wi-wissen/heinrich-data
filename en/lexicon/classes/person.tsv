@@ -50,6 +50,7 @@ admiralty           noun  group
 admirer             noun  human
 adolescent          noun  human
 adopter             noun  mixed
+adoptionist         noun  human
 adult               noun  human
 adventurer          noun  human
 adversary           noun  mixed
@@ -100,6 +101,7 @@ ant                 noun  animal
 antagonist          noun  mixed
 antelope            noun  animal
 anthropologist      noun  human
+antipope            noun  human
 antiquarian         noun  human
 antiquary           noun  human
 Apache              noun  human
@@ -107,10 +109,12 @@ ape                 noun  animal
 apostle             noun  human
 apothecary          noun  human
 appellant           noun  human
+appellee            noun  human
 applicant           noun  human
 appointee           noun  human
 appraiser           noun  human
 apprentice          noun  human
+appropriator        noun  human
 approver            noun  mixed
 Arab                noun  human
 arbiter             noun  human
@@ -144,6 +148,7 @@ assistant           noun  human
 associate           noun  human
 association         noun  group
 Assyrian            noun  mixed
+asthmatic           noun  human
 astrologer          noun  human
 astronaut           noun  human
 astronomer          noun  human
@@ -254,6 +259,7 @@ board               noun  group
 boarder             noun  human
 boatman             noun  human
 boatswain           noun  human
+bobwhite            noun  animal
 body                noun  mixed
 bodybuilder         noun  human
 bodyguard           noun  human
@@ -327,6 +333,7 @@ cabinet             noun  group
 cabman              noun  human
 cadet               noun  human
 cadre               noun  group
+caiman              noun  animal
 calf                noun  animal
 caliph              noun  human
 caller              noun  human
@@ -337,6 +344,8 @@ camper              noun  mixed
 Canadian            noun  human
 canary              noun  animal
 candidate           noun  human
+canid               noun  animal
+caniform            noun  animal
 cannibal            noun  human
 canoeist            noun  human
 capitalist          noun  human
@@ -349,6 +358,7 @@ caregiver           noun  human
 carer               noun  human
 caretaker           noun  human
 caribou             noun  animal
+carnivoran          noun  animal
 carpenter           noun  human
 carrier             noun  mixed
 cartel              noun  group
@@ -419,6 +429,7 @@ Chinese             noun  mixed
 Chippewa            noun  mixed
 Choctaw             noun  mixed
 choir               noun  group
+chordate            noun  animal
 choreographer       noun  human
 chorus              noun  group
 Christian           noun  human
@@ -589,6 +600,7 @@ creative            noun  human
 creator             noun  human
 creature            noun  mixed
 creditor            noun  mixed
+creodont            noun  animal
 Creole              noun  human
 crew                noun  group
 crewmember          noun  human
@@ -617,6 +629,7 @@ curator             noun  human
 curler              noun  mixed
 custodian           noun  mixed
 customer            noun  human
+cyborg              noun  human
 cyclist             noun  human
 cynic               noun  human
 Cypriot             noun  human
@@ -644,6 +657,7 @@ dean                noun  human
 dear                noun  human
 dearie              noun  human
 debtor              noun  mixed
+debunker            noun  human
 deceased            noun  human
 deer                noun  animal
 defaulter           noun  mixed
@@ -831,6 +845,7 @@ favorite            noun  mixed
 fawn                noun  animal
 federalist          noun  human
 federation          noun  group
+feliform            noun  animal
 feline              noun  animal
 feller              noun  human
 fellow              noun  human
@@ -1217,6 +1232,7 @@ kangaroo            noun  animal
 Kazakh              noun  mixed
 keeper              noun  human
 keyboardist         noun  human
+khan                noun  human
 kicker              noun  human
 kid                 noun  human
 kike                noun  human
@@ -1598,6 +1614,7 @@ Palestinian         noun  human
 panda               noun  animal
 panel               noun  group
 panelist            noun  human
+pangolin            noun  animal
 panther             noun  animal
 papa                noun  human
 papist              noun  human
@@ -1740,6 +1757,7 @@ predecessor         noun  mixed
 prefect             noun  human
 prelate             noun  human
 premier             noun  human
+presbyter           noun  human
 Presbyterian        noun  human
 presenter           noun  human
 president           noun  human
@@ -1866,6 +1884,7 @@ relative            noun  human
 renegade            noun  human
 renter              noun  human
 replacement         noun  mixed
+replicant           noun  human
 reporter            noun  human
 representative      noun  human
 reptile             noun  animal
@@ -1914,6 +1933,7 @@ runaway             noun  human
 runner              noun  human
 runner-up           noun  mixed
 Russian             noun  mixed
+sabermetrician      noun  human
 sage                noun  mixed
 sahib               noun  human
 sailor              noun  human
@@ -1987,6 +2007,7 @@ servicemember       noun  human
 servicer            noun  mixed
 settler             noun  human
 shah                noun  human
+shaman              noun  human
 shareholder         noun  mixed
 shark               noun  animal
 sheep               noun  animal
@@ -2045,6 +2066,7 @@ Somali              noun  mixed
 son                 noun  human
 son-in-law          noun  human
 songwriter          noun  human
+sophist             noun  human
 sophomore           noun  human
 soprano             noun  mixed
 sorcerer            noun  human
@@ -2257,6 +2279,7 @@ trumpeter           noun  human
 trustee             noun  mixed
 tsar                noun  human
 tuna                noun  animal
+tunicate            noun  animal
 Turk                noun  human
 turkey              noun  animal
 turtle              noun  animal

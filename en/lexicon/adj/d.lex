@@ -69,6 +69,7 @@ demographic adj
 demonstrable adj adv=demonstrably
 demonstrative adj adv=demonstratively
 demure adj cmp=er adv=demurely
+dendritic adj
 dense adj cmp=er adv=densely
 dental adj
 departmental adj

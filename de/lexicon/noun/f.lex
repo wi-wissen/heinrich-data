@@ -60,6 +60,7 @@ Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
 Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
+Farad noun g=n gen=Farad|Farads pl=Farad note=unit of capacitance
 Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
 Farbgebung noun g=f gen=Farbgebung pl=Farbgebungen
@@ -123,6 +124,8 @@ Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
 Ferien noun g=pl
 Ferkel noun g=n gen=Ferkels pl=Ferkel
+Fermion noun g=n gen=Fermions pl=Fermionen
+Fermium noun g=n gen=Fermiums pl=- note=chemical element
 Ferne noun g=f gen=Ferne pl=Fernen
 Fernglas noun g=n gen=Fernglases pl=Ferngläser
 Fernrohr noun g=n gen=Fernrohrs|Fernrohres pl=Fernrohre
@@ -161,6 +164,8 @@ Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical 
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
+Fieder noun g=f gen=Fieder pl=Fiedern note=leaflet of a pinnate leaf
+Fiederblättchen noun g=n gen=Fiederblättchens pl=Fiederblättchen
 Figur noun g=f gen=Figur pl=Figuren
 Figurenkonstellation noun g=f gen=Figurenkonstellation pl=Figurenkonstellationen
 Fiktion noun g=f gen=Fiktion pl=Fiktionen
@@ -206,12 +211,14 @@ Flatrate noun g=f gen=Flatrate pl=Flatrates
 Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
 Fledermaus noun g=f gen=Fledermaus pl=Fledermäuse
+Fledertier noun g=n gen=Fledertiers|Fledertieres pl=Fledertiere
 Fleisch noun g=n gen=Fleisches|Fleischs[rare] pl=- note=mass noun
 Fleischer noun g=m gen=Fleischers pl=Fleischer
 Fleischerei noun g=f gen=Fleischerei pl=Fleischereien
 Fleischerin noun g=f gen=Fleischerin pl=Fleischerinnen
 Fleischfresser noun g=m gen=Fleischfressers pl=Fleischfresser
 Fleiß noun g=m gen=Fleißes pl=- note=no plural
+Flerovium noun g=n gen=Fleroviums pl=- note=chemical element
 Flexibilisierung noun g=f gen=Flexibilisierung pl=Flexibilisierungen
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
 Flickzeug noun g=n gen=Flickzeugs|Flickzeuges pl=- note=no plural (mass or abstract noun)
@@ -244,7 +251,10 @@ Flug noun g=m gen=Fluges|Flugs pl=Flüge
 Flugbegleiterin noun g=f gen=Flugbegleiterin pl=Flugbegleiterinnen
 Flügel noun g=m gen=Flügels pl=Flügel
 Fluglotse noun g=m gen=Fluglotsen pl=Fluglotsen
+Flugsaurier noun g=m gen=Flugsauriers pl=Flugsaurier
 Flugzeug noun g=n gen=Flugzeugs|Flugzeuges pl=Flugzeuge
+Fluor noun g=n gen=Fluors pl=- note=chemical element
+Fluorid noun g=n gen=Fluorids|Fluorides pl=Fluoride
 Flur noun g=m gen=Flurs|Flures pl=Flure sense=hall note=der Flur: corridor
 Flur noun g=f gen=Flur pl=Fluren sense=field note=die Flur: farmland
 Fluss noun g=m gen=Flusses pl=Flüsse
@@ -300,6 +310,7 @@ Fortsetzung noun g=f gen=Fortsetzung pl=Fortsetzungen
 Forum noun g=n gen=Forums pl=Foren|Fora
 Fossil noun g=n gen=Fossils pl=Fossilien
 Foto noun g=n gen=Fotos pl=Fotos
+Fotoeffekt noun g=m gen=Fotoeffekts|Fotoeffektes pl=Fotoeffekte note=spelling variant of Photoeffekt
 Fotograf noun g=m gen=Fotografen pl=Fotografen
 Fotografie noun g=f gen=Fotografie pl=Fotografien
 Fotografin noun g=f gen=Fotografin pl=Fotografinnen
@@ -314,6 +325,7 @@ Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
 Fraktion noun g=f gen=Fraktion pl=Fraktionen
 Fraktur noun g=f gen=Fraktur pl=Frakturen
 Franc noun g=m gen=Franc|Francs pl=Francs note=currency
+Francium noun g=n gen=Franciums pl=- note=chemical element
 Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
 Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
@@ -331,6 +343,8 @@ Fregatte noun g=f gen=Fregatte pl=Fregatten
 Freibad noun g=n gen=Freibads|Freibades pl=Freibäder
 Freiberufler noun g=m gen=Freiberuflers pl=Freiberufler
 Freiberuflerin noun g=f gen=Freiberuflerin pl=Freiberuflerinnen
+Freibeuter noun g=m gen=Freibeuters pl=Freibeuter
+Freibeuterei noun g=f gen=Freibeuterei pl=Freibeutereien
 Freiburger noun g=m gen=Freiburgers pl=Freiburger note=inhabitant of Freiburg
 Freier noun g=m gen=Freiers pl=Freier
 Freigabe noun g=f gen=Freigabe pl=Freigaben note=plural common in IT and administration (Ordnerfreigaben, Freigaben erteilen)

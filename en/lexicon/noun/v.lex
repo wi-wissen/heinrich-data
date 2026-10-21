@@ -2,6 +2,7 @@ vacancy       noun
 vacation      noun vb=take|have|spend|book|need xvb=make>take?
 vaccination   noun
 vaccine       noun
+vacuole noun
 vacuum        noun
 vagabond noun
 vagary noun

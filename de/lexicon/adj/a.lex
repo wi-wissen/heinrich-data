@@ -14,6 +14,7 @@ absichtlich adj
 absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
+abwärtskompatibel adj
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
 achtziger adj indecl note=die achtziger Jahre
@@ -24,6 +25,7 @@ administrativ adj
 adult adj
 afghanisch adj
 afrikanisch adj
+afroamerikanisch adj
 aggressiv adj cmp=aggressiver sup=aggressivsten
 ägyptisch adj
 ähnlich       adj cmp=ähnlicher sup=ähnlichsten
@@ -36,6 +38,7 @@ akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albanisch adj
 albern adj cmp=alberner sup=albernsten
+algebraisch adj
 allegorisch adj
 alleinerziehend adj
 alleinig adj
@@ -144,6 +147,7 @@ augenblicklich adj
 augenscheinlich adj
 ausdrücklich  adj cmp=ausdrücklicher sup=ausdrücklichsten
 außerdienstlich adj
+außereuropäisch adj
 außergerichtlich adj
 außeruniversitär adj
 ausführlich adj cmp=ausführlicher sup=ausführlichsten

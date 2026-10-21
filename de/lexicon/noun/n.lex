@@ -42,6 +42,8 @@ Nagel noun g=m gen=Nagels pl=Nägel
 Nagellack noun g=m gen=Nagellacks|Nagellackes pl=Nagellacke
 Nager noun g=m gen=Nagers pl=Nager
 Nähe noun g=f gen=Nähe pl=- note=plural not used
+Näherung noun g=f gen=Näherung pl=Näherungen
+Näherungsbruch noun g=m gen=Näherungsbruchs|Näherungsbruches pl=Näherungsbrüche
 Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
 Nahrung noun g=f gen=Nahrung pl=- note=no plural
 Naht noun g=f gen=Naht pl=Nähte
@@ -66,12 +68,14 @@ Nationalsozialismus noun g=m gen=Nationalsozialismus pl=- note=no plural
 Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
 Nationalsozialistin noun g=f gen=Nationalsozialistin pl=Nationalsozialistinnen
 Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
+Natrium noun g=n gen=Natriums pl=- note=chemical element
 Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temperaments/characters
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
 Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Navigation noun g=f gen=Navigation pl=- note=mass noun
 Nazi noun g=m gen=Nazis pl=Nazis
+Neandertaler noun g=m gen=Neandertalers pl=Neandertaler
 Nebel noun g=m gen=Nebels pl=Nebel
 Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
@@ -88,13 +92,18 @@ Neigung noun g=f gen=Neigung pl=Neigungen
 Nekropole noun g=f gen=Nekropole pl=Nekropolen
 Nektar noun g=m gen=Nektars pl=Nektare
 Nektarine noun g=f gen=Nektarine pl=Nektarinen
+Nektarium noun g=n gen=Nektariums pl=Nektarien
 Nelke noun g=f gen=Nelke pl=Nelken
 Nenner noun g=m gen=Nenners pl=Nenner
 Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
+Neodym noun g=n gen=Neodyms pl=- note=chemical element
+Neogen noun g=n gen=Neogens pl=- note=geological period
 Neologismus noun g=m gen=Neologismus pl=Neologismen
+Neon noun g=n gen=Neons pl=- note=chemical element; noble gas
 Neonazi noun g=m gen=Neonazis pl=Neonazis
 Neophyt noun g=m gen=Neophyten pl=Neophyten
+Neptunium noun g=n gen=Neptuniums pl=- note=chemical element
 Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
@@ -112,7 +121,9 @@ Neurologe noun g=m gen=Neurologen pl=Neurologen
 Neurologie noun g=f gen=Neurologie pl=- note=field of medicine
 Neurologin noun g=f gen=Neurologin pl=Neurologinnen
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
+Neutrino noun g=n gen=Neutrinos pl=Neutrinos
 Neutron noun g=n gen=Neutrons pl=Neutronen
+Neutrum noun g=n gen=Neutrums pl=Neutra|Neutren
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
 Newcomer noun g=m gen=Newcomers pl=Newcomer
 Newsletter noun g=m gen=Newsletters pl=Newsletter
@@ -121,6 +132,7 @@ Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die 
 Nichte noun g=f gen=Nichte pl=Nichten
 Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
 Nichtstun noun g=n gen=Nichtstuns pl=- note=mass noun
+Nickel noun g=n gen=Nickels pl=- note=chemical element
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
@@ -130,12 +142,16 @@ Niederung noun g=f gen=Niederung pl=Niederungen
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
+Nihonium noun g=n gen=Nihoniums pl=- note=chemical element
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
 Nimbus noun g=m gen=Nimbus pl=Nimbusse note=no genitive ending
+Niob noun g=n gen=Niobs pl=- note=chemical element
 Nische noun g=f gen=Nische pl=Nischen
 Nitrat noun g=n gen=Nitrats|Nitrates pl=Nitrate
+Nitrid noun g=n gen=Nitrids|Nitrides pl=Nitride
 Niveau noun g=n gen=Niveaus pl=Niveaus
+Nobelium noun g=n gen=Nobeliums pl=- note=chemical element
 Nocken noun g=m gen=Nockens pl=Nocken
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
@@ -172,6 +188,8 @@ Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
 Nuggets noun g=pl
+Nukleon noun g=n gen=Nukleons pl=Nukleonen
+Nuklid noun g=n gen=Nuklids|Nuklides pl=Nuklide
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
 Numismatiker noun g=m gen=Numismatikers pl=Numismatiker
