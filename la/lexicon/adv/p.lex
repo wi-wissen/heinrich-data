@@ -7,10 +7,13 @@ passim adv
 paulātim adv
 paulisper adv
 paulō adv
+paululum adv
 paulum adv
 penitus adv
 perinde adv
 perpetuō adv
+perquam adv
+persaepe adv
 plērumque adv
 porrō adv
 posthāc adv
@@ -28,5 +31,7 @@ prīvātim adv
 procul adv
 profectō adv
 prope adv cmp=propius sup=proximē
+propemodum adv
+properē adv
 prōrsus adv
 prōtinus adv

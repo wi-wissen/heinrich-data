@@ -4,6 +4,7 @@ saltem adv
 satis adv cmp=satius
 scīlicet adv
 sēcrētō adv
+sēdulō adv
 semper adv
 sēnsim adv
 sēparātim adv
@@ -12,3 +13,4 @@ simul adv
 statim adv
 subinde adv
 subitō adv
+sūrsum adv
