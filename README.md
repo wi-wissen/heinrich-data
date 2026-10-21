@@ -30,6 +30,9 @@ build scripts and finished language packs.
   that are also ordinary words; `en/names/README.md`)
 - `fr/names/` – French given names, surnames and place names, filtered from official open data
   (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
+- `es/names/` – Spanish given names, surnames and place names, filtered from official open data
+  (INE, CC BY 4.0; GeoNames, CC BY 4.0) and curated: accents restored, `word` marker
+  (`es/names/README.md`)
 - `de/phon/` – pronunciation exceptions
 - `thesaurus/` – third-party thesauri (OpenThesaurus CC BY-SA 4.0, Open English WordNet CC BY 4.0), unchanged,
   for the optional thesaurus packs only; lexicon authors must not read it (`thesaurus/README.md`)

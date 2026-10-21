@@ -169,6 +169,59 @@ geography, without dictionary, lexicon, word list, gazetteer or web source): the
 the accented spellings of register surnames, the exclusions, and the list of continents, rivers,
 mountains, seas, islands, historic states and traditional regions (`curated/places.tsv`).
 
+## Spanish name lists (`es/names/`)
+
+Not clean-room own data like `de/names/` and `en/names/`: filtered from official open data
+(owner decision, Heinrich `docs/SPANISH.md` S-D4), then curated by hand, as for `fr/names/`. Built
+by `tools/names_es/` (`fetch.sh` downloads, `geonames_extract.py` and `build.py` filter; the raw
+data is not committed). Format, thresholds and coverage: `es/names/README.md`.
+
+| Source | Used for | URL | Version / date | Licence |
+|---|---|---|---|---|
+| INE, nombres por frecuencia (residents with a given name borne by at least 20 persons, by sex) | `given_names.tsv`: given names (and parts of compound given names) borne by at least 100 residents; gender from the share of men/women | https://www.ine.es/daco/daco42/nombyapel/nombres_por_edad_media.xlsx (INEbase, *Apellidos y nombres más frecuentes*) | Censos de población anuales, 1 January 2025; file of 2026-04-23, downloaded 2026-10-21 | CC BY 4.0 (INE legal notice) |
+| INE, apellidos por frecuencia (first surnames borne by at least 20 persons) | `surnames.tsv`: surnames (and parts of multi-word surnames) that are the first surname of at least 200 residents | https://www.ine.es/daco/daco42/nombyapel/apellidos_frecuencia.xls | Censos de población anuales, 1 January 2025; file of 2026-04-23, downloaded 2026-10-21 | CC BY 4.0 (INE legal notice) |
+| INE, cifras oficiales de población de los municipios españoles (Revisión del Padrón municipal) | `places.tsv`: municipalities with at least 500 inhabitants, the 50 provinces and 2 autonomous cities | https://www.ine.es/pob_xls/pobmun.zip (`pobmun25.xlsx`) | 1 January 2025 (RD 1117/2025); file of 2025-12-11, downloaded 2026-10-21 | CC BY 4.0 (INE legal notice) |
+| GeoNames gazetteer (`allCountries.zip`, `alternateNamesV2.zip`) | Spanish names of countries, continents, foreign cities (at least 150,000 inhabitants, and capitals) and foreign first-level regions (at least 1,000,000) | https://download.geonames.org/export/dump/ | dump of 2026-10-21 | CC BY 4.0 |
+
+Licence check (2026-10-21):
+- INE: the legal notice (*Aviso legal*, https://www.ine.es/dyngs/AYU/index.htm?cid=125, section
+  *Reutilización de la información contenida en este sitio web*) says: "La licencia de uso general a
+  aplicar a la información estadística de este sitio web, salvo que se indique lo contrario, es la
+  Creative Commons Reconocimiento 4.0 (CC BY 4.0) [...] siendo posible la copia, distribución y
+  comunicación pública, así como la producción de obras derivadas, incluso con finalidad comercial
+  citando la autoría." Conditions: name the source ("Elaboración propia con datos extraídos del
+  sitio web del INE: www.ine.es" when the data is processed), give the date of the last update,
+  and do not suggest that INE takes part in, sponsors or supports the reuse; reuse is subject to
+  the Spanish law on the reuse of public-sector information (Ley 37/2007, sanctions in its
+  article 11). INE authorises reuse only of information whose original source is INE itself; all
+  three files are INE statistics. None of the files states another licence. CC BY 4.0 allows use in
+  closed-source commercial software with attribution.
+- IGN/CNIG (checked, not used): the IGN licence (https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf,
+  Orden FOM/2807/2015, article 4: "El uso de los productos de datos geográficos digitales [...]
+  tendrá carácter libre y gratuito, siempre que se mencione el origen y propiedad de los datos")
+  puts IGN products such as the Nomenclátor Geográfico under CC BY 4.0 (attribution
+  "<producto> <fecha> CC-BY 4.0 ign.es"). It would be allowed, but the INE municipality names,
+  GeoNames and our own list cover what the pack needs, so no IGN data is used.
+- GeoNames states in its `readme.txt`: "This work is licensed under a Creative Commons
+  Attribution 4.0 License" (https://creativecommons.org/licenses/by/4.0/).
+
+No CC BY-SA, NC or unclear source is used. No personal data beyond counts per name is published:
+the INE files are anonymous aggregates of names borne by at least 20 persons, and we keep only
+frequent names.
+
+Required attribution (in `es/names/README.md`, the pack's `ATTR` section and Heinrich `NOTICE`):
+"Elaboración propia con datos extraídos del sitio web del INE: www.ine.es (nombres y apellidos
+más frecuentes, 1 de enero de 2025, actualizado 2026-04-23; cifras oficiales de población de los
+municipios, 1 de enero de 2025), CC BY 4.0; GeoNames (geonames.org), CC BY 4.0. Selected and
+modified."
+
+Own data in `es/names/curated/` (written 2026-10-21 from our own knowledge of Spanish, of the other
+languages of Spain and of geography, without dictionary, lexicon, word list, name list, gazetteer
+or web source): the usual spellings of the INE register names (accents, Catalan and Galician
+forms), the `word` markers, the exclusions, and the list of autonomous communities, traditional
+Castilian forms, continents, rivers, mountains, seas, islands, regions, historic states and
+foreign exonyms (`curated/places.tsv`).
+
 ## English lexicon (`en/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of English grammar and spelling (no
