@@ -180,7 +180,7 @@ conveniō, convēnī, conventum, convenīre verb
 convertō, convertī, conversum, convertere verb
 convocō, convocāvī, convocātum, convocāre verb
 coorior, coortus sum, coorīrī verb note=no long vowel in the lemma
-copulō, copulāvī, copulātum, copulāre verb note=no long vowel in the lemma
+cōpulō, cōpulāvī, cōpulātum, cōpulāre verb
 coquō, coxī, coctum, coquere verb
 corōnō, corōnāvī, corōnātum, corōnāre verb
 corrigō, corrēxī, corrēctum, corrigere verb

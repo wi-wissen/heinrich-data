@@ -49,7 +49,7 @@ dēmōnstrō, dēmōnstrāvī, dēmōnstrātum, dēmōnstrāre verb
 dēmoveō, dēmōvī, dēmōtum, dēmovēre verb
 dēnegō, dēnegāvī, dēnegātum, dēnegāre verb
 dēnūntiō, dēnūntiāvī, dēnūntiātum, dēnūntiāre verb
-dēpascor, dēpastus sum, dēpascī verb
+dēpāscor, dēpāstus sum, dēpāscī verb
 dēpellō, dēpulī, dēpulsum, dēpellere verb
 dēpendeō, -, -, dēpendēre verb intr
 dēplōrō, dēplōrāvī, dēplōrātum, dēplōrāre verb
@@ -77,7 +77,7 @@ dēsinō, dēsiī, dēsitum, dēsinere verb
 dēsistō, dēstitī, -, dēsistere verb intr
 dēspērō, dēspērāvī, dēspērātum, dēspērāre verb
 dēspiciō, dēspexī, dēspectum, dēspicere verb
-dēstillō, dēstillāvī, dēstillātum, dēstillāre verb
+dēstillō, dēstillāvī, dēstillātum, dēstillāre verb note=short i as in stilla
 dēstinō, dēstināvī, dēstinātum, dēstināre verb
 dēstituō, dēstituī, dēstitūtum, dēstituere verb
 dēstringō, dēstrīnxī, dēstrictum, dēstringere verb

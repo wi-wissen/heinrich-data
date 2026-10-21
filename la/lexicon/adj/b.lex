@@ -8,7 +8,7 @@ belliger, belligera, belligerum adj nocmp style=poetic
 bellus, bella, bellum adj adv
 benignus, benigna, benignum adj adv
 biceps, bicipitis adj nocmp
-biformis, biforme adj nocmp
+bifōrmis, bifōrme adj nocmp
 bīmus, bīma, bīmum adj nocmp
 bipēs, bipedis adj stem=cons nocmp
 blandus, blanda, blandum adj adv

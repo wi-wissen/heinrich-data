@@ -2,7 +2,7 @@
 abhinc adv
 abundē adv
 acervātim adv
-actūtum adv
+āctūtum adv
 adeō adv
 admodum adv
 affatim adv var=adfatim

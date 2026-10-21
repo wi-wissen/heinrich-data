@@ -44,7 +44,7 @@ classicus, classica, classicum adj nocmp
 claudus, clauda, claudum adj nocmp
 clēmēns, clēmentis adj adv
 cognātus, cognāta, cognātum adj nocmp
-comicus, comica, comicum adj nocmp
+cōmicus, cōmica, cōmicum adj nocmp
 cōmis, cōme adj adv
 comitiālis, comitiāle adj nocmp
 commodus, commoda, commodum adj adv

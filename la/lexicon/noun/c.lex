@@ -321,7 +321,7 @@ crēdulitās, crēdulitātis noun f
 crepīdō, crepīdinis noun f
 crepitus, crepitūs noun m
 crepusculum, crepusculī noun n
-cribrum, cribrī noun n
+crībrum, crībrī noun n conf=80 note=reviewer-dispute; length of the i?
 crīmen, crīminis noun n
 crīnis, crīnis noun m
 crista, cristae noun f

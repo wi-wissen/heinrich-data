@@ -11,7 +11,7 @@ acidus, acida, acidum adj
 acūtus, acūta, acūtum adj adv
 admīrābilis, admīrābile adj adv note=superlative admīrābilissimus (not one of the six -limus adjectives)
 adultus, adulta, adultum adj nocmp
-adūncus, adūnca, adūncum adj nocmp
+aduncus, adunca, aduncum adj nocmp
 adversus, adversa, adversum adj nocmp
 aeger, aegra, aegrum adj adv
 Aegyptius, Aegyptia, Aegyptium adj nocmp note=ethnic adjective, capitalised
