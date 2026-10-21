@@ -370,7 +370,7 @@ tiesto noun g=m
 tifón noun g=m
 tifus noun g=m
 tigre noun g=m f=tigresa
-tijeras noun g=f pl_only
+tijera noun g=f note=the tool is mostly plural (unas tijeras); the singular la tijera is also common in Spain
 tijeretazo noun g=m
 tila noun g=f
 tilapia noun g=f
