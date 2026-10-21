@@ -10,7 +10,7 @@ lentus, lenta, lentum adj adv
 levis, leve adj adv
 līber, lībera, līberum adj adv
 liquidus, liquida, liquidum adj
-locuplēs, locuplētis adj stem=cons
+locuplēs, locuplētis adj stem=cons gen_pl_m=locuplētum|locuplētium gen_pl_f=locuplētum|locuplētium gen_pl_n=locuplētum|locuplētium
 longinquus, longinqua, longinquum adj
 longus, longa, longum adj adv
 loquāx, loquācis adj

@@ -25,6 +25,7 @@ oppōnō, opposuī, oppositum, oppōnere verb
 opprimō, oppressī, oppressum, opprimere verb
 oppugnō, oppugnāvī, oppugnātum, oppugnāre verb
 optō, optāvī, optātum, optāre verb
+ōrdinō, ōrdināvī, ōrdinātum, ōrdināre verb
 orior, ortus sum, orīrī verb intr conj=3i fut=oritūrus note=no long vowel in the lemma
 ōrnō, ōrnāvī, ōrnātum, ōrnāre verb conf=80 note=length of the o?
 ōrō, ōrāvī, ōrātum, ōrāre verb

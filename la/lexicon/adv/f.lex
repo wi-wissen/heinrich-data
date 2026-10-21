@@ -2,8 +2,8 @@
 ferē adv
 fermē adv
 forsitan adv
-fortasse adv
+fortāsse adv conf=80 note=length of the a before ss?
 forte adv
 frūstrā adv
-fūnditus adv
-furtim adv
+funditus adv
+fūrtim adv

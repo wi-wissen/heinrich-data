@@ -4,6 +4,7 @@ magister, magistrī noun m
 magistrātus, magistrātūs noun m
 magnitūdō, magnitūdinis noun f
 maiestās, maiestātis noun f
+malitia, malitiae noun f
 mandātum, mandātī noun n
 manus, manūs noun f
 mare, maris noun n
@@ -43,6 +44,7 @@ minae, minārum noun f pl_only
 minister, ministrī noun m
 ministerium, ministeriī noun n
 mīrāculum, mīrāculī noun n
+miseria, miseriae noun f
 misericordia, misericordiae noun f
 moderātiō, moderātiōnis noun f
 modestia, modestiae noun f
@@ -69,4 +71,5 @@ mūnītiō, mūnītiōnis noun f
 mūnus, mūneris noun n
 murmur, murmuris noun n
 mūrus, mūrī noun m
+mūsa, mūsae noun f
 mūtātiō, mūtātiōnis noun f

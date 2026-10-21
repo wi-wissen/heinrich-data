@@ -22,4 +22,5 @@ hospitium, hospitiī noun n
 hostia, hostiae noun f
 hostis, hostis noun c
 hūmānitās, hūmānitātis noun f
+humilitās, humilitātis noun f
 humus, humī noun f sg_only loc

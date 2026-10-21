@@ -4,6 +4,7 @@ fallō, fefellī, falsum, fallere verb
 fateor, fassus sum, fatērī verb note=no long vowel in the lemma
 fatīgō, fatīgāvī, fatīgātum, fatīgāre verb
 faveō, fāvī, fautum, favēre verb intr
+feriō, -, -, ferīre verb note=perfect and supine are supplied by percussī, ictum
 festīnō, festīnāvī, festīnātum, festīnāre verb intr
 fīdō, fīsus sum, fīdere verb intr
 fīgō, fīxī, fīxum, fīgere verb

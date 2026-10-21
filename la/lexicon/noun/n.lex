@@ -20,6 +20,7 @@ Nōnae, Nōnārum noun f pl_only note=written with a capital as a date name
 nota, notae noun f
 nōtitia, nōtitiae noun f
 noverca, novercae noun f
+novitās, novitātis noun f
 nox, noctis noun f
 nūbēs, nūbis noun f
 nūmen, nūminis noun n

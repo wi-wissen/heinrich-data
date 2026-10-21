@@ -22,5 +22,6 @@ fortuītus, fortuīta, fortuītum adj nocmp adv=fortuītō
 fortūnātus, fortūnāta, fortūnātum adj adv
 fragilis, fragile adj note=superlative in -issimus
 frequēns, frequentis adj adv
+frētus, frēta, frētum adj nocmp
 frīgidus, frīgida, frīgidum adj
 fūnestus, fūnesta, fūnestum adj

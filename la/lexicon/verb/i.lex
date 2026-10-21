@@ -37,6 +37,7 @@ iniciō, iniēcī, iniectum, inicere verb
 īnsum, īnfuī, -, inesse verb class=sum
 intellegō, intellēxī, intellēctum, intellegere verb var=intelligō conf=90 note=length of the e in the perfect and supine?
 intendō, intendī, intentum, intendere verb
+intereō, interiī, interitum, interīre verb class=eo intr
 interficiō, interfēcī, interfectum, interficere verb
 interimō, interēmī, interēmptum, interimere verb conf=85 note=length of the e in the supine?
 interpretor, interpretātus sum, interpretārī verb note=no long vowel in the lemma

@@ -5,6 +5,7 @@
 efferō, extulī, ēlātum, efferre verb class=fero
 efficiō, effēcī, effectum, efficere verb
 effugiō, effūgī, -, effugere verb
+effundō, effūdī, effūsum, effundere verb
 ēgredior, ēgressus sum, ēgredī verb
 ēiciō, ēiēcī, ēiectum, ēicere verb
 ēligō, ēlēgī, ēlēctum, ēligere verb
@@ -27,6 +28,7 @@ excutiō, excussī, excussum, excutere verb
 exeō, exiī, exitum, exīre verb class=eo intr
 exerceō, exercuī, exercitum, exercēre verb
 exhauriō, exhausī, exhaustum, exhaurīre verb
+exhibeō, exhibuī, exhibitum, exhibēre verb
 exigō, exēgī, exāctum, exigere verb
 exīstimō, exīstimāvī, exīstimātum, exīstimāre verb conf=85 note=length of the second i?
 exorior, exortus sum, exorīrī verb intr conj=3i fut=exoritūrus note=no long vowel in the lemma

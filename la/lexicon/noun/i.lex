@@ -16,8 +16,10 @@ impudentia, impudentiae noun f
 incendium, incendiī noun n
 incola, incolae noun c
 incommodum, incommodī noun n
+incrēmentum, incrēmentī noun n
 index, indicis noun c
 indicium, indiciī noun n
+indignātiō, indignātiōnis noun f
 industria, industriae noun f
 inertia, inertiae noun f
 īnfāmia, īnfāmiae noun f
@@ -29,6 +31,7 @@ iniūria, iniūriae noun f
 inopia, inopiae noun f sg_only
 īnsānia, īnsāniae noun f
 īnsidiae, īnsidiārum noun f pl_only
+īnstar noun n indecl cases=nom|acc
 īnstitūtum, īnstitūtī noun n
 īnstrūmentum, īnstrūmentī noun n
 īnsula, īnsulae noun f

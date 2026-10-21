@@ -5,5 +5,5 @@ Latium, Latiī propn n
 Lentulus, Lentulī propn m
 Lepidus, Lepidī propn m
 Lūcius, Lūciī propn m
-Lūcrētia, Lūcrētiae propn f
-Lūcrētius, Lūcrētiī propn m
+Lucrētia, Lucrētiae propn f
+Lucrētius, Lucrētiī propn m

@@ -22,14 +22,18 @@ inermis, inerme adj nocmp
 īnferus, īnfera, īnferum adj cmp=īnferior sup=īnfimus|īmus
 īnfestus, īnfesta, īnfestum adj
 īnfīnītus, īnfīnīta, īnfīnītum adj nocmp
+īnfirmus, īnfirma, īnfirmum adj adv
 ingēns, ingentis adj
 ingrātus, ingrāta, ingrātum adj
 inimīcus, inimīca, inimīcum adj
 inīquus, inīqua, inīquum adj adv
 innocēns, innocentis adj adv
 innumerābilis, innumerābile adj nocmp
+innumerus, innumera, innumerum adj nocmp
+inops, inopis adj stem=cons nocmp
 īnsignis, īnsigne adj
 integer, integra, integrum adj adv
+interior, interiōris adj stem=cons nocmp nom_sg_n=interius note=comparative without positive (superlative intimus)
 inūtilis, inūtile adj note=superlative in -issimus
 invītus, invīta, invītum adj
 īrātus, īrāta, īrātum adj

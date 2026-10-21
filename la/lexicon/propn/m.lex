@@ -2,8 +2,8 @@
 Macedonia, Macedoniae propn f
 Maecēnās, Maecēnātis propn m
 Mārcus, Mārcī propn m
-Mārius, Māriī propn m
-Mārs, Martis propn m conf=85 note=length of the a in the nominative?
+Marius, Mariī propn m
+Mārs, Mārtis propn m conf=85 note=length of the a?
 Massilia, Massiliae propn f loc
 Mēdēa, Mēdēae propn f
 Mercurius, Mercuriī propn m

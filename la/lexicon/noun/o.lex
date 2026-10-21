@@ -5,6 +5,7 @@ obses, obsidis noun c
 obsidiō, obsidiōnis noun f
 occāsiō, occāsiōnis noun f
 occāsus, occāsūs noun m
+ōceanus, ōceanī noun m
 oculus, oculī noun m
 odium, odiī noun n
 odor, odōris noun m

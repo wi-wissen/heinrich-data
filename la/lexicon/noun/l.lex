@@ -39,6 +39,7 @@ līmus, līmī noun m
 līnea, līneae noun f
 lingua, linguae noun f
 liquor, liquōris noun m
+līs, lītis noun f gen_pl=lītium
 littera, litterae noun f var=litera
 lītus, lītoris noun n
 locus, locī noun m nom_pl_n=loca gen_pl_n=locōrum dat_pl_n=locīs
