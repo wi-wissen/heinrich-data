@@ -6,8 +6,10 @@ valeō, valuī, valitūrus, valēre verb intr
 variō, variāvī, variātum, variāre verb
 vāstō, vāstāvī, vāstātum, vāstāre verb conf=85 note=length of the first a (hidden quantity)
 vehō, vexī, vectum, vehere verb
+vellō, vellī|vulsī, vulsum, vellere verb
 vēlō, vēlāvī, vēlātum, vēlāre verb
 vēndō, vēndidī, vēnditum, vēndere verb conf=75 note=length of the e (hidden quantity, vēndō or vendō?)
+vēneō, vēniī, vēnitum, vēnīre verb class=eo intr note=generator gap, reported: the long ē of the prefix is lost in the present system
 veneror, venerātus sum, venerārī verb note=no long vowel in the lemma
 veniō, vēnī, ventum, venīre verb intr
 vēnor, vēnātus sum, vēnārī verb
@@ -28,10 +30,12 @@ vinciō, vīnxī, vīnctum, vincīre verb
 vincō, vīcī, victum, vincere verb
 vindicō, vindicāvī, vindicātum, vindicāre verb
 violō, violāvī, violātum, violāre verb
+vireō, viruī, -, virēre verb intr
 vīsitō, vīsitāvī, vīsitātum, vīsitāre verb
 vīsō, vīsī, vīsum, vīsere verb
 vitiō, vitiāvī, vitiātum, vitiāre verb
 vītō, vītāvī, vītātum, vītāre verb
+vituperō, vituperāvī, vituperātum, vituperāre verb
 vīvō, vīxī, vīctūrus, vīvere verb intr
 vocō, vocāvī, vocātum, vocāre verb
 volitō, volitāvī, volitātum, volitāre verb intr

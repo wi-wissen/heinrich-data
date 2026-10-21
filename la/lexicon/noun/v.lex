@@ -1,17 +1,24 @@
 # Latin noun entries, letter v: own data, written clean-room (la/lexicon/AUTHORING.md)
+vacātiō, vacātiōnis noun f
 vacca, vaccae noun f
 vadimōnium, vadimōniī noun n
 vadum, vadī noun n
 valētūdō, valētūdinis noun f
 vallis, vallis noun f
 vallum, vallī noun n
+vānitās, vānitātis noun f
 vapor, vapōris noun m
 varietās, varietātis noun f
 vās, vāsis noun n nom_pl=vāsa gen_pl=vāsōrum dat_pl=vāsīs note=plural of the second declension
 vātēs, vātis noun c stem=cons
 vectīgal, vectīgālis noun n
+vehiculum, vehiculī noun n
+vēlāmen, vēlāminis noun n
+vellus, velleris noun n
+vēlōcitās, vēlōcitātis noun f
 vēlum, vēlī noun n
 vēna, vēnae noun f
+vēnābulum, vēnābulī noun n
 vēnātiō, vēnātiōnis noun f
 vēnditiō, vēnditiōnis noun f conf=80 note=length of the first e, as in vēndō
 venēficium, venēficiī noun n
@@ -25,7 +32,9 @@ verēcundia, verēcundiae noun f sg_only
 vēritās, vēritātis noun f
 versus, versūs noun m
 vertex, verticis noun m
+vertīgō, vertīginis noun f
 vēsīca, vēsīcae noun f conf=80 note=reviewer-dispute
+vesper, vesperī noun m
 vespera, vesperae noun f
 vestibulum, vestibulī noun n
 vestīgium, vestīgiī noun n
@@ -35,11 +44,14 @@ veterānus, veterānī noun m
 vetustās, vetustātis noun f
 vēxillum, vēxillī noun n conf=80 note=reviewer-dispute; hidden quantity
 via, viae noun f
+viāticum, viāticī noun n
 viātor, viātōris noun m
+vīcīnia, vīcīniae noun f
 vicis, vicis noun f stem=cons nom_sg=- note=no nominative singular
 victima, victimae noun f
 victor, victōris noun m
 victōria, victōriae noun f
+victrīx, victrīcis noun f
 vīcus, vīcī noun m
 vidua, viduae noun f conf=85 note=reviewer-dispute
 vigil, vigilis noun m
@@ -48,16 +60,19 @@ vigor, vigōris noun m
 vīlicus, vīlicī noun m
 vīlla, vīllae noun f
 vīmen, vīminis noun n
-vinculum, vinculī noun n
+vinculum, vinculī noun n var=vinclum[poetic]
 vindēmia, vindēmiae noun f
+vindex, vindicis noun c
 vindicta, vindictae noun f
 vīnea, vīneae noun f
 vīnētum, vīnētī noun n
 vīnum, vīnī noun n
 violentia, violentiae noun f
+vīpera, vīperae noun f
 vir, virī noun m
 virga, virgae noun f
 virgō, virginis noun f
+virgultum, virgultī noun n
 virtūs, virtūtis noun f
 vīrus, vīrī noun n sg_only
 vīs, vīs noun f class=vis
@@ -65,6 +80,7 @@ vīscus, vīsceris noun n conf=80 note=reviewer-dispute; length of the i
 vīta, vītae noun f
 vītis, vītis noun f
 vitium, vitiī noun n
+vitrum, vitrī noun n
 vitta, vittae noun f
 vitulus, vitulī noun m
 vocābulum, vocābulī noun n
@@ -75,6 +91,7 @@ voluptās, voluptātis noun f
 vōmer, vōmeris noun m
 vōtum, vōtī noun n
 vōx, vōcis noun f
-vulgus, vulgī noun n sg_only
-vulnus, vulneris noun n
-vultus, vultūs noun m
+vulgus, vulgī noun n sg_only var=volgus[archaic]
+vulnus, vulneris noun n var=volnus[archaic]
+vultus, vultūs noun m var=voltus[archaic]
+vulva, vulvae noun f

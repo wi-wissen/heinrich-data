@@ -1,14 +1,17 @@
 # Latin noun entries, letter t: own data, written clean-room (la/lexicon/AUTHORING.md)
 tabella, tabellae noun f
+tabellārius, tabellāriī noun m
 taberna, tabernae noun f
 tabernāculum, tabernāculī noun n
 tābēs, tābis noun f sg_only
 tabula, tabulae noun f
 tabulātum, tabulātī noun n
+tābum, tābī noun n
 taeda, taedae noun f
 taedium, taediī noun n
 talentum, talentī noun n
 tālus, tālī noun m
+tarditās, tarditātis noun f
 taurus, taurī noun m
 tēctum, tēctī noun n
 tegmen, tegminis noun n
@@ -16,6 +19,9 @@ tēgula, tēgulae noun f
 tellūs, tellūris noun f
 tēlum, tēlī noun n
 temeritās, temeritātis noun f sg_only
+temperāmentum, temperāmentī noun n
+temperantia, temperantiae noun f sg_only
+temperiēs, temperiēī noun f sg_only
 tempestās, tempestātis noun f
 templum, templī noun n
 tempus, temporis noun n
@@ -26,6 +32,7 @@ tergum, tergī noun n
 terminus, terminī noun m
 terra, terrae noun f
 terror, terrōris noun m
+tessera, tesserae noun f
 testa, testae noun f
 testāmentum, testāmentī noun n
 testimōnium, testimōniī noun n
@@ -38,16 +45,27 @@ thōrāx, thōrācis noun m greek
 thymum, thymī noun n
 thyrsus, thyrsī noun m
 tībia, tībiae noun f
+tībīcen, tībīcinis noun m
 tignum, tignī noun n
 tigris, tigris noun c
 timor, timōris noun m
 tīrō, tīrōnis noun m
 titulus, titulī noun m
 toga, togae noun f
+tonitrus, tonitrūs noun m nom_pl_n=tonitrua note=plural mostly neuter tonitrua
 tormentum, tormentī noun n
+torpor, torpōris noun m
 torrēns, torrentis noun m
+tortor, tortōris noun m
 torus, torī noun m
 trabs, trabis noun f
+tractātiō, tractātiōnis noun f
+tragoedia, tragoediae noun f
+trāmes, trāmitis noun m
+tranquillitās, tranquillitātis noun f
+trānsfuga, trānsfugae noun c
+trānslātiō, trānslātiōnis noun f
+tremor, tremōris noun m
 tribūnal, tribūnālis noun n
 tribūnātus, tribūnātūs noun m
 tribūnus, tribūnī noun m
@@ -59,6 +77,7 @@ triennium, trienniī noun n
 trirēmis, trirēmis noun f
 trīticum, trīticī noun n
 triumphus, triumphī noun m
+triumvir, triumvirī noun m
 tropaeum, tropaeī noun n
 truncus, truncī noun m
 tuba, tubae noun f
@@ -76,5 +95,6 @@ tussis, tussis noun f stem=i
 tūtēla, tūtēlae noun f
 tūtor, tūtōris noun m
 tympanum, tympanī noun n
+tyrannicīdium, tyrannicīdiī noun n
 tyrannis, tyrannidis noun f
 tyrannus, tyrannī noun m
