@@ -76,6 +76,7 @@ acicular     adj
 ácido        adj
 aclaratorio  adj
 acogedor     adj
+acojonado    adj style=vulgar alt=asustado|acobardado
 acojonante   adj style=vulgar alt=impresionante
 acolchado    adj
 acomodado    adj
@@ -317,7 +318,7 @@ altivo       adj adv=altivamente
 alto         adj adv=altamente
 altomedieval adj
 altruista    adj
-alucinante   adj
+alucinante   adj style=colloquial alt=asombroso|increíble
 alucinógeno  adj
 alusivo      adj
 aluvial      adj
@@ -550,6 +551,7 @@ apacible     adj adv=apaciblemente
 apaciguador  adj
 apagado      adj
 apaisado     adj
+apalancado   adj style=colloquial alt=acomodado|inactivo
 apañado      adj
 aparatoso    adj adv=aparatosamente
 aparente     adj adv=aparentemente

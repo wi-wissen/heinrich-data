@@ -45,7 +45,7 @@ bajeza       noun g=f
 bajío        noun g=m
 bajista      noun g=m|f
 bajo         noun g=m note=ground floor; bass
-bajón        noun g=m
+bajón        noun g=m style=colloquial alt=decaimiento|bajada
 bajorrelieve noun g=m
 bajura       noun g=f
 bala         noun g=f
@@ -157,6 +157,7 @@ barda        noun g=f
 bardo        noun g=m
 baremación   noun g=f
 baremo       noun g=m
+bareto       noun g=m style=colloquial alt=bar
 bario        noun g=m
 barítono     noun g=m
 barlovento   noun g=m
@@ -195,6 +196,7 @@ bártulos     noun g=m pl_only
 barullo      noun g=m
 basalto      noun g=m
 basamento    noun g=m
+basca        noun g=f style=colloquial alt=gente|grupo note=the group of friends; basca (nausea) is rare
 báscula      noun g=f
 base         noun g=f
 basílica     noun g=f
@@ -296,7 +298,7 @@ berlina      noun g=f
 bermellón    noun g=m
 bermudas     noun g=amb pl_only conf=85 note=the shorts: los or las bermudas
 berrido      noun g=m
-berrinche    noun g=m
+berrinche    noun g=m style=colloquial alt=rabieta|disgusto
 berro        noun g=m
 berza        noun g=f
 besamanos    noun g=m
@@ -402,6 +404,7 @@ biplano      noun g=m
 bipolaridad  noun g=f
 birra        noun g=f style=colloquial alt=cerveza
 birrete      noun g=m
+birria       noun g=f style=colloquial alt=porquería|chapuza
 bis          noun g=m pl=bises note=encore; also the adverb in numbering (7 bis)
 bisabuelo    noun g=m f=bisabuela
 bisagra      noun g=f
@@ -442,6 +445,7 @@ bobada       noun g=f
 bobina       noun g=f
 boca         noun g=f
 bocacalle    noun g=f
+bocachancla  noun g=m|f style=colloquial alt=bocazas|charlatán
 bocadillo    noun g=m
 bocado       noun g=m
 bocana       noun g=f
@@ -456,6 +460,7 @@ boda         noun g=f
 bodega       noun g=f
 bodegón      noun g=m
 bodeguero    noun g=m f=bodeguera
+bodrio       noun g=m style=colloquial alt=porquería|chapuza
 bóer         noun g=m|f
 bofetada     noun g=f
 bofetón      noun g=m
@@ -696,7 +701,7 @@ buró         noun g=m
 burocracia   noun g=f
 burócrata    noun g=m|f
 burocratización noun g=f
-burrada      noun g=f
+burrada      noun g=f style=colloquial alt=barbaridad|disparate
 burro        noun g=m f=burra
 bus          noun g=m
 busardo      noun g=m

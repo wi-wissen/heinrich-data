@@ -41,6 +41,7 @@ besar        verb
 besuquear    verb
 bienquerer   verb class=querer
 bifurcar     verb
+birlar       verb style=colloquial alt=robar|hurtar
 bisar        verb
 bisbisear    verb
 biselar      verb

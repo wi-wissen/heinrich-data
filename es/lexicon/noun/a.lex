@@ -150,6 +150,7 @@ aclimatación noun g=f
 acné         noun g=m
 acogida      noun g=f
 acogimiento  noun g=m
+acojone      noun g=m style=vulgar alt=miedo
 acólito      noun g=m
 acometida    noun g=f
 acometimiento noun g=m
@@ -1032,7 +1033,7 @@ apadrinamiento noun g=m
 apagallamas  noun g=m
 apagón       noun g=m
 apalancamiento noun g=m
-apaño        noun g=m
+apaño        noun g=m style=colloquial alt=arreglo|chapuza
 aparador     noun g=m
 aparamenta   noun g=f
 aparato      noun g=m

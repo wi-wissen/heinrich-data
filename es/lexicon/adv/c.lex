@@ -1,8 +1,34 @@
 # Spanish lexicon, adv c: written from own knowledge (AUTHORING.md).
 
+cabalmente   adv
+cálidamente  adv
+calladamente adv
+canónicamente adv
+caóticamente adv
+caprichosamente adv
+carnalmente  adv
+cartográficamente adv
+catastróficamente adv
+católicamente adv
+causalmente  adv
 cautelarmente adv
+celosamente  adv
 cerca        adv
+cercanamente adv
+cerebralmente adv
+cerquita     adv note=diminutive of cerca
+cíclicamente adv
+ciegamente   adv
+cinematográficamente adv
+cinéticamente adv
+cínicamente  adv
 circa        adv foreign note=Latin: circa 1500
+cívicamente  adv
+civilmente   adv
+clásicamente adv
+climáticamente adv
+climatológicamente adv
+clínicamente adv
 cobardemente adv
 coincidentemente adv
 cómicamente  adv

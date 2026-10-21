@@ -1,14 +1,41 @@
 # Spanish lexicon, noun c: written from own knowledge (AUTHORING.md).
 
+cábala       noun g=f
+cabalgada    noun g=f
+cabalgadura  noun g=f
+cabalgata    noun g=f
+caballa      noun g=f
+caballada    noun g=f
 caballería   noun g=f
+caballeriza  noun g=f
+caballerizo  noun g=m
 caballero    noun g=m
+caballerosidad noun g=f
+caballete    noun g=m
+caballista   noun g=m|f
+caballito    noun g=m
 caballo      noun g=m f=yegua
 cabaña       noun g=f
+cabañuelas   noun g=f pl_only
 cabaret      noun g=m pl=cabarets
+cabeceo      noun g=m
 cabecera     noun g=f
+cabecero     noun g=m
+cabecilla    noun g=m|f
+cabecita     noun g=f
 cabellera    noun g=f
 cabello      noun g=m
+cabestrillo  noun g=m
+cabestro     noun g=m
 cabeza       noun g=f
+cabezada     noun g=f
+cabezal      noun g=m
+cabezazo     noun g=m
+cabezo       noun g=m
+cabezonería  noun g=f style=colloquial alt=terquedad|obstinación
+cabezudo     noun g=m
+cabida       noun g=f
+cabildeo     noun g=m
 cabildo      noun g=m
 cabina       noun g=f
 cable        noun g=m
@@ -16,129 +43,366 @@ cableado     noun g=m
 cabo         noun g=m
 cabotaje     noun g=m
 cabra        noun g=f
+cabreo       noun g=m style=colloquial alt=enfado|enojo
+cabrero      noun g=m f=cabrera
+cabrestante  noun g=m
+cabriola     noun g=f
+cabriolé     noun g=m
+cabrito      noun g=m
 cabrón       noun g=m f=cabrona style=vulgar alt=canalla|malnacido sense=insult note=insult; also used among friends
 cabrón       noun g=m sense=goat note=male goat (macho cabrío)
+cabronada    noun g=f style=vulgar alt=faena|mala_pasada
 caca         noun g=f style=colloquial alt=excremento|porquería
+cacahuete    noun g=m
 cacao        noun g=m
+cacareo      noun g=m
+cacatúa      noun g=f
 cacería      noun g=f
+cacerola     noun g=f
+cacerolada   noun g=f
+cacerolazo   noun g=m
+cachalote    noun g=m
+cacharrería  noun g=f
+cacharro     noun g=m style=colloquial alt=trasto|aparato
+cachaza      noun g=f
 caché        noun g=m
+cachemira    noun g=f
+cacheo       noun g=m
+cachete      noun g=m
+cachimba     noun g=f
+cachiporra   noun g=f
+cachivache   noun g=m
+cacho        noun g=m style=colloquial alt=trozo|pedazo
 cachondeo    noun g=m style=colloquial alt=juerga|burla|guasa
-cacique      noun g=m
+cachorro     noun g=m f=cachorra
+cacicada     noun g=f
+cacicazgo    noun g=m
+cacique      noun g=m f=cacica
+caciquismo   noun g=m
+caco         noun g=m style=colloquial alt=ladrón
+cacofonía    noun g=f
+cactácea     noun g=f
+cacto        noun g=m
 cactus       noun g=m
+cacumen      noun g=m
+cadalso      noun g=m
 cadáver      noun g=m
 cadena       noun g=f
 cadencia     noun g=f
+cadeneta     noun g=f
 cadera       noun g=f
 cadete       noun g=m|f
+cadí         noun g=m pl=cadíes
+cadmio       noun g=m
+caduceo      noun g=m
 caducidad    noun g=f
 café         noun g=m
+cafeína      noun g=f
+cafetal      noun g=m
+cafetera     noun g=f
 cafetería    noun g=f
+cafetín      noun g=m
+cafeto       noun g=m
+caftán       noun g=m
+cagada       noun g=f style=vulgar alt=error|equivocación|desacierto
+cagueta      noun g=m|f style=vulgar alt=cobarde|miedoso
 caída        noun g=f
+caimán       noun g=m
+cainismo     noun g=m
 caja         noun g=f
 cajero       noun g=m f=cajera
+cajetilla    noun g=f
+cajetín      noun g=m
+cajista      noun g=m|f
+cajita       noun g=f
 cajón        noun g=m
+cajonera     noun g=f
 cal          noun g=f
 cala         noun g=f
+calabacín    noun g=m
 calabaza     noun g=f
 calabozo     noun g=m
+calada       noun g=f
 caladero     noun g=m
 calado       noun g=m
+calafate     noun g=m
+calamar      noun g=m
+calambre     noun g=m
 calamidad    noun g=f
+calamina     noun g=f
+cálamo       noun g=m
+calandria    noun g=f
+calaña       noun g=f
 calavera     noun g=f
+calcáneo     noun g=m
+calcañar     noun g=m
+calcedonia   noun g=f
+calceta      noun g=f
 calcetín     noun g=m
+calcificación noun g=f
+calcinación  noun g=f
 calcio       noun g=m
+calcita      noun g=f
+calco        noun g=m
+calcomanía   noun g=f
+calcopirita  noun g=f
+calculadora  noun g=f
+calculista   noun g=m|f
 cálculo      noun g=m
 caldera      noun g=f
+calderero    noun g=m f=calderera
+caldereta    noun g=f
+calderilla   noun g=f
+caldero      noun g=m
+calderón     noun g=m
 caldo        noun g=m
 calefacción  noun g=f
+calefactor   noun g=m
+caleidoscopio noun g=m var=calidoscopio
 calendario   noun g=m
+calendas     noun g=f pl_only
+caléndula    noun g=f
+calentador   noun g=m
 calentamiento noun g=m
+calentura    noun g=f
+calesa       noun g=f
+calesero     noun g=m
+caleta       noun g=f
+caletre      noun g=m style=colloquial alt=inteligencia|juicio
 calibración  noun g=f
+calibrador   noun g=m
 calibre      noun g=m
+calicata     noun g=f
 calidad      noun g=f
+calidez      noun g=f
 califa       noun g=m
+califato     noun g=m
 calificación noun g=f
 calificativo noun g=m
+caligrafía   noun g=f
+calígrafo    noun g=m f=calígrafa
+caligrama    noun g=m
+calima       noun g=f
+calimocho    noun g=m
+calipso      noun g=m
+calistenia   noun g=f
 cáliz        noun g=m
 caliza       noun g=f
 calle        noun g=f
+calleja      noun g=f
 callejón     noun g=m
+callejuela   noun g=f
+callo        noun g=m
+callosidad   noun g=f
 calma        noun g=f
+calmante     noun g=m
+caló         noun g=m
 calor        noun g=m
+caloría      noun g=f
+calorímetro  noun g=m
+calostro     noun g=m
 calumnia     noun g=f
+calumniador  noun g=m f=calumniadora
 calvario     noun g=m
+calvicie     noun g=f
+calvinismo   noun g=m
+calvinista   noun g=m|f
+calza        noun g=f
 calzada      noun g=f
 calzado      noun g=m
+calzador     noun g=m
+calzo        noun g=m
+calzón       noun g=m
+calzonazos   noun g=m style=colloquial alt=pusilánime|débil
+calzoncillo  noun g=m
 cama         noun g=f
+camada       noun g=f
+camafeo      noun g=m
+camaleón     noun g=m
 cámara       noun g=f
 camarada     noun g=m|f
+camaradería  noun g=f
 camarero     noun g=m f=camarera
+camarilla    noun g=f
+camarín      noun g=m
+camarlengo   noun g=m
+camarógrafo  noun g=m f=camarógrafa
+camarón      noun g=m
 camarote     noun g=m
+camastro     noun g=m
+cambalache   noun g=m
+cambiador    noun g=m
+cambiazo     noun g=m
 cambio       noun g=m
+cambista     noun g=m|f
+camelia      noun g=f
+camélido     noun g=m
 camello      noun g=m
+camelo       noun g=m style=colloquial alt=engaño|mentira
 cameo        noun g=m
+camerino     noun g=m
+camilla      noun g=f
+camillero    noun g=m f=camillera
+caminante    noun g=m|f
 caminata     noun g=f
 camino       noun g=m
 camión       noun g=m
+camionero    noun g=m f=camionera
 camioneta    noun g=f
 camisa       noun g=f
+camisería    noun g=f
 camiseta     noun g=f
+camisola     noun g=f
+camisón      noun g=m
+camorra      noun g=f
+camorrista   noun g=m|f
+campa        noun g=f conf=85 note=meadow, open field in northern Spain
 campamento   noun g=m
 campana      noun g=f
+campanada    noun g=f
 campanario   noun g=m
+campanero    noun g=m f=campanera
 campanilla   noun g=f
 campaña      noun g=f
 campeón      noun g=m f=campeona
 campeonato   noun g=m
+campera      noun g=f
 campesinado  noun g=m
 campesino    noun g=m f=campesina
+camping      noun g=m foreign
 campiña      noun g=f
+campismo     noun g=m
+campista     noun g=m|f
 campo        noun g=m
+camposanto   noun g=m
 campus       noun g=m
+camuflaje    noun g=m
+can          noun g=m style=literary note=dog
+cana         noun g=f
 canal        noun g=m
+canaleta     noun g=f
 canalización noun g=f
 canalla      noun g=m|f
+canallada    noun g=f
+canalón      noun g=m
+canapé       noun g=m
 canario      noun g=m f=canaria
 canasta      noun g=f
+canastilla   noun g=f
+canasto      noun g=m
+cancán       noun g=m
+cancela      noun g=f
 cancelación  noun g=f
 cáncer       noun g=m
+cancerbero   noun g=m
 cancha       noun g=f
 canciller    noun g=m|f
+cancillería  noun g=f
 canción      noun g=f
+cancionero   noun g=m
+candado      noun g=m
+candela      noun g=f
 candelabro   noun g=m
+candelero    noun g=m
 candidato    noun g=m f=candidata
 candidatura  noun g=f
+candidez     noun g=f
+candidiasis  noun g=f
+candil       noun g=m
+candilejas   noun g=f pl_only
+candombe     noun g=m
+candor       noun g=m
+canecillo    noun g=m
 canela       noun g=f
+canelón      noun g=m
+canesú       noun g=m pl=canesúes|canesús[var]
+cangilón     noun g=m
 cangrejo     noun g=m
+canguelo     noun g=m style=colloquial alt=miedo
+canguro      noun g=m sense=animal
+canguro      noun g=m|f sense=babysitter note=Spain: la canguro, babysitter
+caníbal      noun g=m|f
+canibalismo  noun g=m
+canibalización noun g=f
+canica       noun g=f
+caniche      noun g=m
+canícula     noun g=f
+cánido       noun g=m
+canilla      noun g=f
 canje        noun g=m
+canjeo       noun g=m
+cannabinoide noun g=m
 cannabis     noun g=m
+canoa        noun g=f
+canódromo    noun g=m
+canoísta     noun g=m|f
 canon        noun g=m pl=cánones
 canónigo     noun g=m
+canonista    noun g=m|f
 canonización noun g=f
+canonjía     noun g=f
+canotaje     noun g=m
 cansancio    noun g=m
 cántabro     noun g=m f=cántabra
+cantamañanas noun g=m|f style=colloquial alt=informal|irresponsable
 cantante     noun g=m|f
+cantaor      noun g=m f=cantaora
+cántaro      noun g=m
+cantata      noun g=f
 cantautor    noun g=m f=cantautora
+cante        noun g=m
 cantera      noun g=f
 cantería     noun g=f
+cantero      noun g=m
 cántico      noun g=m
 cantidad     noun g=f
+cantiga      noun g=f
+cantilena    noun g=f
+cantimplora  noun g=f
+cantina      noun g=f
+cantinela    noun g=f
+cantinero    noun g=m f=cantinera
 canto        noun g=m
 cantón       noun g=m
 cantor       noun g=m f=cantora
+cantueso     noun g=m
+canturreo    noun g=m
+cánula       noun g=f
+canuto       noun g=m
 caña         noun g=f
+cañada       noun g=f
+cañamazo     noun g=m
 cáñamo       noun g=m
+cañamón      noun g=m
+cañaveral    noun g=m
+cañería      noun g=f
+cañizo       noun g=m
+caño         noun g=m
 cañón        noun g=m
 cañonazo     noun g=m
+cañoneo      noun g=m
+cañonera     noun g=f
+cañonero     noun g=m
 caoba        noun g=f
+caolín       noun g=m
 caos         noun g=m
 capa         noun g=f
 capacidad    noun g=f
 capacitación noun g=f
+capacitancia noun g=f
+capacitismo  noun g=m conf=90 note=discrimination against disabled people
+capacitor    noun g=m
 caparazón    noun g=m
 capataz      noun g=m|f
+capazo       noun g=m
 capellán     noun g=m
+capellanía   noun g=f
+capelo       noun g=m
+caperuza     noun g=f
+capicúa      noun g=m
+capilaridad  noun g=f
 capilla      noun g=f
+capirote     noun g=m
 capital      noun g=m sense=money
 capital      noun g=f sense=city
 capitalidad  noun g=f
@@ -148,184 +412,537 @@ capitalización noun g=f
 capitán      noun g=m f=capitana
 capitanía    noun g=f
 capitel      noun g=m
+capitolio    noun g=m
 capitulación noun g=f
 capítulo     noun g=m
+capo         noun g=m
+capó         noun g=m
+capón        noun g=m
+caporal      noun g=m
+capota       noun g=f
+capote       noun g=m
 capricho     noun g=m
+capsaicina   noun g=f
 cápsula      noun g=f
 captación    noun g=f
+captor       noun g=m f=captora
 captura      noun g=f
+capucha      noun g=f
+capuchino    noun g=m f=capuchina
+capuchón     noun g=m
+capullo      noun g=m sense=bud note=flower bud; cocoon
+capullo      noun g=m sense=insult style=vulgar alt=imbécil|idiota
+caquexia     noun g=f
+caqui        noun g=m
 cara         noun g=f
+carabela     noun g=f
+carabina     noun g=f
 carabinero   noun g=m
+cárabo       noun g=m
 caracol      noun g=m
+caracola     noun g=f
 carácter     noun g=m pl=caracteres
 característica noun g=f
 caracterización noun g=f
+caradura     noun g=m|f style=colloquial alt=sinvergüenza|descarado
+carajillo    noun g=m
+carámbano    noun g=m
+carambola    noun g=f
+caramelización noun g=f
 caramelo     noun g=m
+carantoña    noun g=f
 carátula     noun g=f
 caravana     noun g=f
+carballo     noun g=m conf=90 note=Galician and Asturian word for roble
+carbamato    noun g=m
+carbohidrato noun g=m
 carbón       noun g=m
 carbonato    noun g=m
+carboncillo  noun g=m
+carbonera    noun g=f
+carbonero    noun g=m f=carbonera
+carbonilla   noun g=f
+carbonilo    noun g=m
+carbonización noun g=f
 carbono      noun g=m
+carboxilo    noun g=m
+carbunco     noun g=m
+carburación  noun g=f
+carburador   noun g=m
 carburante   noun g=m
+carburo      noun g=m
+carcaj       noun g=m
 carcajada    noun g=f
+carcamal     noun g=m style=colloquial alt=anciano|viejo
+carcasa      noun g=f
+cárcava      noun g=f
 cárcel       noun g=f
+carcelero    noun g=m f=carcelera
+carcinogénesis noun g=f
+carcinoma    noun g=m
+carcoma      noun g=f
+cardamomo    noun g=m
+cardán       noun g=m
 cardenal     noun g=m
+cardenalato  noun g=m
+cardenillo   noun g=m
+cárdigan     noun g=m pl=cárdigans
+cardinalidad noun g=f
+cardiocirujano noun g=m f=cardiocirujana
+cardiología  noun g=f
+cardiólogo   noun g=m f=cardióloga
+cardiópata   noun g=m|f
+cardiopatía  noun g=f
 cardo        noun g=m
+cardumen     noun g=m
+carena       noun g=f
+carenado     noun g=m
 carencia     noun g=f
+careo        noun g=m
+carestía     noun g=f
+careta       noun g=f
+careto       noun g=m style=colloquial alt=cara
+carey        noun g=m pl=careyes
 carga        noun g=f
+cargadero    noun g=m
 cargador     noun g=m
 cargamento   noun g=m
 cargo        noun g=m
+carguero     noun g=m
+cariátide    noun g=f
+caribú       noun g=m pl=caribúes|caribús[var]
 caricatura   noun g=f
+caricaturista noun g=m|f
+caricaturización noun g=f
 caricia      noun g=f
 caridad      noun g=f
+caries       noun g=f
+carilla      noun g=f
+carillón     noun g=m
 cariño       noun g=m
+cariotipo    noun g=m
 carisma      noun g=m
+carita       noun g=f
+cariz        noun g=m
+carlinga     noun g=f
+carlismo     noun g=m
 carlista     noun g=m|f
+carmelita    noun g=m|f
+carmen       noun g=m note=Granada: villa with garden, pl cármenes
+carmín       noun g=m
+carnada      noun g=f
+carnalidad   noun g=f
 carnaval     noun g=m
+carnaza      noun g=f
 carne        noun g=f
-carné        noun g=m
+carné        noun g=m var=carnet
+carnero      noun g=m
+carnestolendas noun g=f pl_only
+carnicería   noun g=f
+carnicero    noun g=m f=carnicera
 carnívoro    noun g=m
+carnosidad   noun g=f
+caroteno     noun g=m
+carotenoide  noun g=m
+carótida     noun g=f
 carpa        noun g=f
+carpelo      noun g=m
 carpeta      noun g=f
+carpetazo    noun g=m
 carpintería  noun g=f
 carpintero   noun g=m f=carpintera
+carpo        noun g=m
+carraca      noun g=f
+carrasca     noun g=f
+carraspeo    noun g=m
+carraspera   noun g=f
 carrera      noun g=f
+carrerilla   noun g=f
 carreta      noun g=f
+carrete      noun g=m
+carretela    noun g=f
 carretera    noun g=f
+carretero    noun g=m
+carretilla   noun g=f
+carretón     noun g=m
+carricoche   noun g=m
 carril       noun g=m
+carrilero    noun g=m f=carrilera conf=85 note=football: wing-back
+carrillada   noun g=f
+carrillo     noun g=m
+carrito      noun g=m
+carrizo      noun g=m
 carro        noun g=m
 carrocería   noun g=f
+carrocero    noun g=m
+carromato    noun g=m
+carroña      noun g=f
+carroza      noun g=f
 carruaje     noun g=m
+carrusel     noun g=m
 carta        noun g=f
+cartabón     noun g=m
 cartaginés   noun g=m f=cartaginesa
+cartapacio   noun g=m
 cartel       noun g=m
 cártel       noun g=m note=cartel (poster) is its own entry; cartel is also used in this sense
+cartela      noun g=f
 cartelera    noun g=f
+cartelería   noun g=f
+cartelista   noun g=m|f
+cartelón     noun g=m
+cárter       noun g=m
 cartera      noun g=f
+carterista   noun g=m|f
+cartero      noun g=m f=cartera
+cartesianismo noun g=m
+cartílago    noun g=m
+cartilla     noun g=f
 cartografía  noun g=f
+cartógrafo   noun g=m f=cartógrafa
+cartomancia  noun g=f
 cartón       noun g=m
+cartoné      noun g=m
+cartuchera   noun g=f
 cartuchería  noun g=f
 cartucho     noun g=m
+cartuja      noun g=f
+cartujo      noun g=m
+cartulario   noun g=m
+cartulina    noun g=f
 casa         noun g=f
+casaca       noun g=f
 casación     noun g=f
+casamata     noun g=f
+casamentero  noun g=m f=casamentera
 casamiento   noun g=m
+casanova     noun g=m
+cascabel     noun g=m
 cascada      noun g=f
+cascajo      noun g=m
+cascanueces  noun g=m
 cáscara      noun g=f
+cascarilla   noun g=f
+cascarón     noun g=m
+cascarrabias noun g=m|f style=colloquial alt=gruñón|irritable
 casco        noun g=m
+cascote      noun g=m
+caseína      noun g=f
+casería      noun g=f
 caserío      noun g=m
 casero       noun g=m f=casera
 caserón      noun g=m
+caseta       noun g=f
 casete       noun g=amb
+casetón      noun g=m
 casilla      noun g=f
+casillero    noun g=m
 casino       noun g=m
+casita       noun g=f
 caso         noun g=m
 casona       noun g=f
+casoplón     noun g=m style=colloquial alt=mansión|caserón
+casorio      noun g=m style=colloquial alt=boda
+caspa        noun g=f
+casquería    noun g=f
+casquete     noun g=m
+casquillo    noun g=m
 casta        noun g=f
+castaña      noun g=f
+castañar     noun g=m
+castañero    noun g=m f=castañera
+castañeteo   noun g=m
+castaño      noun g=m note=the tree
+castañuela   noun g=f
+castellanismo noun g=m
+castellanización noun g=f
 castellano   noun g=m f=castellana
+castellanohablante noun g=m|f
+casticismo   noun g=m
 castidad     noun g=f
 castigo      noun g=m
 castillo     noun g=m
 casting      noun g=m pl=castings foreign
+castor       noun g=m
+castración   noun g=f
 castro       noun g=m
 casualidad   noun g=f
+casuario     noun g=m
+casucha      noun g=f
 casuística   noun g=f
+casulla      noun g=f
+cata         noun g=f
+catabolismo  noun g=m
+cataclismo   noun g=m
+catacumba    noun g=f
+catador      noun g=m f=catadora
+catadura     noun g=f
 catalán      noun g=m f=catalana
+catalanismo  noun g=m
+catalanización noun g=f
+catalejo     noun g=m
+catalepsia   noun g=f
+catálisis    noun g=f
 catalizador  noun g=m
 catalogación noun g=f
 catálogo     noun g=m
+catamarán    noun g=m
+cataplasma   noun g=f
+catapulta    noun g=f
 catarata     noun g=f
+catarismo    noun g=m
+catarro      noun g=m
+catarsis     noun g=f
+catastro     noun g=m
 catástrofe   noun g=f
+catastrofismo noun g=m
+catatonia    noun g=f
+cate         noun g=m style=colloquial alt=suspenso
+catecismo    noun g=m
+catecolamina noun g=f
+catecúmeno   noun g=m f=catecúmena
 cátedra      noun g=f
 catedral     noun g=f
 catedrático  noun g=m f=catedrática
 categoría    noun g=f
+categorización noun g=f
+catenaria    noun g=f
+catequesis   noun g=f
+catequista   noun g=m|f
+catequización noun g=f
+catering     noun g=m foreign
+caterva      noun g=f
+catéter      noun g=m
+cateto       noun g=m sense=geometry note=leg of a right triangle
+cateto       noun g=m f=cateta sense=person style=colloquial alt=paleto|rústico
+catilinaria  noun g=f
+catión       noun g=m
+cátodo       noun g=m
+catolicidad  noun g=f
 catolicismo  noun g=m
 católico     noun g=m f=católica
+catre        noun g=m
 cauce        noun g=m
 caucho       noun g=m
 caución      noun g=f
 caudal       noun g=m
+caudalímetro noun g=m
+caudillismo  noun g=m
 caudillo     noun g=m
 causa        noun g=f
+causación    noun g=f
 causahabiente noun g=m|f
 causalidad   noun g=f
 causante     noun g=m|f
+causticidad  noun g=f
 cautela      noun g=f
+cauterización noun g=f
 cautiverio   noun g=m
 cautividad   noun g=f
 cautivo      noun g=m f=cautiva
+cava         noun g=m sense=wine note=el cava: sparkling wine
+cava         noun g=f sense=cellar note=la cava: wine cellar; digging
 caverna      noun g=f
+cavernícola  noun g=m|f
+caviar       noun g=m
 cavidad      noun g=f
+cavilación   noun g=f
+cavitación   noun g=f
+cayado       noun g=m
+cayena       noun g=f
+cayo         noun g=m
+cayuco       noun g=m
 caza         noun g=f
+cazabombardero noun g=m
+cazadero     noun g=m
 cazador      noun g=m f=cazadora
+cazadora     noun g=f note=jacket
+cazaminas    noun g=m
+cazarrecompensas noun g=m|f
+cazatalentos noun g=m|f
+cazatesoros  noun g=m|f
+cazatorpedero noun g=m
+cazo         noun g=m
+cazoleta     noun g=f
+cazón        noun g=m
+cazuela      noun g=f
+ce           noun g=f note=the letter c: la ce, las ces
 cebada       noun g=f
+cebadero     noun g=m
 cebo         noun g=m
 cebolla      noun g=f
+cebolleta    noun g=f
+cebollino    noun g=m
+cebra        noun g=f
+cebú         noun g=m pl=cebúes|cebús[var]
+ceca         noun g=f
+ceceo        noun g=m
+cecina       noun g=f
+cedazo       noun g=m
 cedente      noun g=m|f
+cedilla      noun g=f
 cedro        noun g=m
 cédula       noun g=f
+cefalea      noun g=f
+cefalópodo   noun g=m
+cefalosporina noun g=f
+cefalotórax  noun g=m
+céfiro       noun g=m
+ceguedad     noun g=f
 ceguera      noun g=f
+ceiba        noun g=f
 ceja         noun g=f
+cejilla      noun g=f
+celacanto    noun g=m
+celada       noun g=f
+celador      noun g=m f=celadora
+celaje       noun g=m
 celda        noun g=f
+celdilla     noun g=f
 celebración  noun g=f
+celebrante   noun g=m|f
 celebridad   noun g=f
+celemín      noun g=m
 celeridad    noun g=f
+celestina    noun g=f
+celiaquía    noun g=f
+celibato     noun g=m
+célibe       noun g=m|f
 celo         noun g=m
+celofán      noun g=m
+celosía      noun g=f
 celta        noun g=m|f
+celtíbero    noun g=m f=celtíbera var=celtibero
 célula       noun g=f
+celulitis    noun g=f
+celuloide    noun g=m
 celulosa     noun g=f
+cementación  noun g=f
+cementera    noun g=f
 cementerio   noun g=m
 cemento      noun g=m
 cena         noun g=f
+cenáculo     noun g=m
+cenador      noun g=m
+cenagal      noun g=m
+cencerrada   noun g=f
+cencerro     noun g=m
+cendal       noun g=m
+cenefa       noun g=f
+cenicero     noun g=m
+cenit        noun g=m var=cénit
 ceniza       noun g=f
+cenobio      noun g=m
+cenobita     noun g=m|f
+cenotafio    noun g=m
+cenote       noun g=m
 censo        noun g=m
 censor       noun g=m f=censora
 censura      noun g=f
+centauro     noun g=m
 centavo      noun g=m
+centella     noun g=f
+centelleo    noun g=m
+centena      noun g=f
 centenar     noun g=m
 centenario   noun g=m
 centeno      noun g=m
+centilitro   noun g=m
 centímetro   noun g=m
 céntimo      noun g=m
 centinela    noun g=m|f
+centolla     noun g=f
+centollo     noun g=m
 central      noun g=f
 centralidad  noun g=f
 centralismo  noun g=m
+centralita   noun g=f
 centralización noun g=f
+centrífuga   noun g=f
+centrifugación noun g=f
+centrifugado noun g=m
+centrifugadora noun g=f
+centrismo    noun g=m
+centrista    noun g=m|f
 centro       noun g=m
 centrocampista noun g=m|f
+centrodelantero noun g=m|f
+centroderecha noun g=f
+centroide    noun g=m
+centroizquierda noun g=f
 centuria     noun g=f
+centurión    noun g=m
+cenutrio     noun g=m f=cenutria style=colloquial alt=torpe|necio
+ceñidor      noun g=m
 ceño         noun g=m
 cepa         noun g=f
+cepillo      noun g=m
+cepo         noun g=m
+ceporro      noun g=m style=colloquial alt=torpe|necio
 cera         noun g=f
 cerámica     noun g=f
+ceramista    noun g=m|f
+cerbatana    noun g=f
+cerca        noun g=f note=fence, wall: las cercas
 cercado      noun g=m
 cercanía     noun g=f
+cercenamiento noun g=m
+cerceta      noun g=f
 cerco        noun g=m
+cerdada      noun g=f style=colloquial alt=faena|porquería
 cerdo        noun g=m f=cerda
 cereal       noun g=m
+cerebelo     noun g=m
 cerebro      noun g=m
 ceremonia    noun g=f
 ceremonial   noun g=m
+cereza       noun g=f
+cerezo       noun g=m
+cerilla      noun g=f
+cernícalo    noun g=m
+cero         noun g=m note=the digit or value as a noun: los ceros, dos ceros
 cerradura    noun g=f
+cerrajería   noun g=f
+cerrajero    noun g=m f=cerrajera
+cerramiento  noun g=m
+cerrazón     noun g=f
 cerro        noun g=m
+cerrojazo    noun g=m
 cerrojo      noun g=m
 certamen     noun g=m
 certeza      noun g=f
 certidumbre  noun g=f
 certificación noun g=f
 certificado  noun g=m
+cerumen      noun g=m
+cervantista  noun g=m|f
+cervatillo   noun g=m
+cervecería   noun g=f
+cervecero    noun g=m f=cervecera
 cerveza      noun g=f
+cérvido      noun g=m
+cérvix       noun g=m conf=85 note=also used as feminine
+cerviz       noun g=f
 cesación     noun g=f
+cesantía     noun g=f
+cesárea      noun g=f
+cesarismo    noun g=m
 cese         noun g=m
+cesio        noun g=m
 cesión       noun g=f
 cesionario   noun g=m f=cesionaria
 césped       noun g=m
 cesta        noun g=f
+cestería     noun g=f
+cestero      noun g=m f=cestera
+cestillo     noun g=m
 cesto        noun g=m
+cesura       noun g=f
 cetáceo      noun g=m
+cetona       noun g=f
+cetrería     noun g=f
 cetro        noun g=m
+ceviche      noun g=m var=cebiche
 chabacanería noun g=f
 chabola      noun g=f
 chabolismo   noun g=m
@@ -353,7 +970,7 @@ champaña     noun g=amb
 champiñón    noun g=m
 champú       noun g=m pl=champús
 chamusquina  noun g=f
-chanchullo   noun g=m
+chanchullo   noun g=m style=colloquial alt=trampa|apaño
 chancillería noun g=f
 chancla      noun g=f
 chancleta    noun g=f
@@ -458,7 +1075,7 @@ chisporroteo noun g=m
 chiste       noun g=m
 chistera     noun g=f
 chistorra    noun g=f
-chivatazo    noun g=m
+chivatazo    noun g=m style=colloquial alt=delación|soplo
 chivato      noun g=m f=chivata style=colloquial alt=delator|confidente
 chivo        noun g=m f=chiva
 chocolate    noun g=m
@@ -491,6 +1108,7 @@ chulería     noun g=f
 chuleta      noun g=f
 chuletón     noun g=m
 chumbera     noun g=f
+chuminada    noun g=f style=colloquial alt=tontería|nimiedad
 chupa        noun g=f style=colloquial alt=cazadora
 chupada      noun g=f
 chupatintas  noun g=m|f style=colloquial alt=oficinista
@@ -506,90 +1124,251 @@ churumbel    noun g=m style=colloquial alt=niño|crío
 chusma       noun g=f
 chut         noun g=m
 chuzo        noun g=m
+cian         noun g=m
+cianobacteria noun g=f
+cianosis     noun g=f
+cianuro      noun g=m
+ciática      noun g=f
+cibelina     noun g=f conf=85 note=marta cibelina, sable
+ciberacoso   noun g=m
+ciberamenaza noun g=f
+ciberataque  noun g=m
+cibercafé    noun g=m
+cibercrimen  noun g=m
+ciberdelincuencia noun g=f
+ciberdelincuente noun g=m|f
+ciberdelito  noun g=m
+ciberespacio noun g=m
+ciberespionaje noun g=m
+ciberguerra  noun g=f
+cibernauta   noun g=m|f
+cibernética  noun g=f
 ciberseguridad noun g=f
+ciberterrorismo noun g=m
+cíborg       noun g=m
+cicatería    noun g=f
 cicatriz     noun g=f
+cicatrización noun g=f
+cicerone     noun g=m|f
+ciclamen     noun g=m
 ciclismo     noun g=m
 ciclista     noun g=m|f
 ciclo        noun g=m
+ciclocrós    noun g=m inv
+ciclogénesis noun g=f
 ciclomotor   noun g=m
 ciclón       noun g=m
+cíclope      noun g=m
+ciclotimia   noun g=f
+ciclotrón    noun g=m
+cicloturismo noun g=m
+cicloturista noun g=m|f
+ciclovía     noun g=f
+cicuta       noun g=f
+cidra        noun g=f
 ciego        noun g=m f=ciega
 cielo        noun g=m
+cielorraso   noun g=m
+ciempiés     noun g=m inv
+ciénaga      noun g=f
 ciencia      noun g=f
+cieno        noun g=m
+cientificismo noun g=m
 científico   noun g=m f=científica
 cierre       noun g=m
 ciervo       noun g=m f=cierva
+cierzo       noun g=m
+cifosis      noun g=f
 cifra        noun g=f
+cifrado      noun g=m
+cigala       noun g=f
+cigarra      noun g=f
+cigarral     noun g=m
+cigarrero    noun g=m f=cigarrera
 cigarrillo   noun g=m
+cigarrito    noun g=m
 cigarro      noun g=m
+cigoto       noun g=m
 cigüeña      noun g=f
+cigüeñal     noun g=m
+cilantro     noun g=m
+cilicio      noun g=m
 cilindrada   noun g=f
 cilindro     noun g=m
+cilio        noun g=m
 cima         noun g=f
+címbalo      noun g=m
+cimborrio    noun g=m
+cimbra       noun g=f
 cimentación  noun g=f
 cimiento     noun g=m
+cimitarra    noun g=f
+cinamomo     noun g=m
+cinasa       noun g=f
+cinc         noun g=m
+cincel       noun g=m
+cincha       noun g=f
+cincho       noun g=m
+cincuentena  noun g=f
+cincuentenario noun g=m
+cincuentón   noun g=m f=cincuentona
 cine         noun g=m
 cineasta     noun g=m|f
+cineclub     noun g=m pl=cineclubes|cineclubs[var]
+cinefilia    noun g=f
+cinéfilo     noun g=m f=cinéfila
+cinemateca   noun g=f
+cinemática   noun g=f
 cinematografía noun g=f
+cinematógrafo noun g=m
+cinemómetro  noun g=m
+cinética     noun g=f
+cíngulo      noun g=m
 cinismo      noun g=m
 cinta        noun g=f
+cinto        noun g=m
 cintura      noun g=f
 cinturón     noun g=m
 ciprés       noun g=m
 circo        noun g=m
+circonio     noun g=m
 circuito     noun g=m
 circulación  noun g=f
+circular     noun g=f note=la circular: a written notice
+circularidad noun g=f
 círculo      noun g=m
+circuncisión noun g=f
 circunferencia noun g=f
+circunloquio noun g=m
+circunnavegación noun g=f
 circunscripción noun g=f
+circunspección noun g=f
 circunstancia noun g=f
+circunstante noun g=m|f
 circunvalación noun g=f
+circunvolución noun g=f
 cirio        noun g=m
+cirro        noun g=m
+cirrosis     noun g=f
 ciruela      noun g=f
+ciruelo      noun g=m
 cirugía      noun g=f
 cirujano     noun g=m f=cirujana
+cisco        noun g=m
 cisma        noun g=m
 cisne        noun g=m
+cisplatino   noun g=m
+cisteína     noun g=f
 cisterna     noun g=f
+cistitis     noun g=f
 cita         noun g=f
 citación     noun g=f
+cítara       noun g=f
+citocina     noun g=f var=citoquina
+citocromo    noun g=m
+citoesqueleto noun g=m
+citogenética noun g=f
+citología    noun g=f
+citoplasma   noun g=m
+citosina     noun g=f
+citosol      noun g=m
+citrato      noun g=m
 cítrico      noun g=m
+citricultura noun g=f
 ciudad       noun g=f
 ciudadanía   noun g=f
 ciudadano    noun g=m f=ciudadana
 ciudadela    noun g=f
+civeta       noun g=f
+civilidad    noun g=f
 civilización noun g=f
+civismo      noun g=m
+cizalla      noun g=f
+cizalladura  noun g=f
+cizallamiento noun g=m
+cizaña       noun g=f
+cladística   noun g=f
 clado        noun g=m
+cladograma   noun g=m
+clamidia     noun g=f
 clamor       noun g=m
 clan         noun g=m
 clandestinidad noun g=f
+claque       noun g=f
+claqué       noun g=m
+claqueta     noun g=f
+clara        noun g=f note=egg white; Spain also beer with lemonade
+claraboya    noun g=f
+clarete      noun g=m
 claridad     noun g=f
 clarificación noun g=f
+clarín       noun g=m
 clarinete    noun g=m
+clarinetista noun g=m|f
+clarisa      noun g=f
+clarividencia noun g=f
+claroscuro   noun g=m
 clase        noun g=f
 clasicismo   noun g=m
 clasificación noun g=f
+clasificador noun g=m
+clasismo     noun g=m
+claudicación noun g=f
 claustro     noun g=m
+claustrofobia noun g=f
 cláusula     noun g=f
+clausulado   noun g=m
 clausura     noun g=f
 clave        noun g=f
+clavecín     noun g=m
+clavecinista noun g=m|f
+clavel       noun g=m
+clavellina   noun g=f
+clavicémbalo noun g=m
+clavicordio  noun g=m
+clavícula    noun g=f
+clavija      noun g=f
 clavo        noun g=m
+claxon       noun g=m
+clembuterol  noun g=m
 clemencia    noun g=f
+clementina   noun g=f
+clepsidra    noun g=f
+cleptomanía  noun g=f
+cleptómano   noun g=m f=cleptómana
+clerecía     noun g=f
 clérigo      noun g=m
 clero        noun g=m
 clic         noun g=m pl=clics
+cliché       noun g=m
 cliente      noun g=m|f note=clienta is also used
 clientela    noun g=f
+clientelismo noun g=m
 clima        noun g=m
+climaterio   noun g=m
 climatización noun g=f
+climatizador noun g=m
+climatología noun g=f
+climatólogo  noun g=m f=climatóloga
 clímax       noun g=m
 clínica      noun g=f
 clip         noun g=m pl=clips
+clítoris     noun g=m
 cloaca       noun g=f
 clon         noun g=m
+clonación    noun g=f
+cloración    noun g=f
+clorato      noun g=m
+clorhidrato  noun g=m
 cloro        noun g=m
+clorofila    noun g=f
+clorofluorocarburo noun g=m
+cloroformo   noun g=m
+cloroplasto  noun g=m
+clorosis     noun g=f
 cloruro      noun g=m
 club         noun g=m pl=clubes|clubs[var]
+clúster      noun g=m pl=clústeres|clústers[var]
 cnidario     noun g=m
 coacción     noun g=f
 coadjutor    noun g=m f=coadjutora
@@ -1718,13 +2497,14 @@ cuchillada   noun g=f
 cuchillería  noun g=f
 cuchillo     noun g=m
 cuchipanda   noun g=f style=colloquial alt=juerga|fiesta
-cuchitril    noun g=m
+cuchitril    noun g=m style=colloquial alt=cuartucho|tugurio
 cuchufleta   noun g=f
 cuclillas    noun g=f pl_only note=en cuclillas
 cuclillo     noun g=m
 cuco         noun g=m
 cucurbitácea noun g=f
 cucurucho    noun g=m
+cuelgue      noun g=m style=colloquial alt=despiste|enganche|obsesión
 cuello       noun g=m
 cuenca       noun g=f
 cuenco       noun g=m
@@ -1805,8 +2585,10 @@ cureña       noun g=f
 curia        noun g=f
 curiosidad   noun g=f
 currante     noun g=m|f style=colloquial alt=trabajador
+currelo      noun g=m style=colloquial alt=trabajo|empleo
 currículo    noun g=m
 currículum   noun g=m pl=currículums
+currito      noun g=m f=currita style=colloquial alt=trabajador|empleado
 curro        noun g=m style=colloquial alt=trabajo|empleo
 curruca      noun g=f
 cursilada    noun g=f

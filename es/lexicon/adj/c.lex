@@ -1,73 +1,301 @@
 # Spanish lexicon, adj c: written from own knowledge (AUTHORING.md).
 
 cabal        adj
+cabalístico  adj
+caballar     adj
+caballeresco adj
+caballeroso  adj adv=caballerosamente
+cabelludo    adj
+cabezón      adj style=colloquial alt=terco|testarudo
+cabezota     adj style=colloquial alt=terco|testarudo
+cabizbajo    adj
+caboverdiano adj
+cabreado     adj style=colloquial alt=enfadado|enojado
+cabrío       adj
+cacaotero    adj
+cacereño     adj
+cachas       adj style=colloquial alt=musculoso|fuerte note=invariable: un tío cachas, unos tíos cachas
+cachazudo    adj
+cachondo     adj sense=funny style=colloquial alt=gracioso|divertido
+cachondo     adj sense=aroused style=vulgar alt=excitado
+caciquil     adj
+cacofónico   adj
+cadavérico   adj
+cadencioso   adj
+caducifolio  adj
 caduco       adj
+caedizo      adj
+cafetero     adj
+cafre        adj
+cagón        adj style=vulgar alt=cobarde|miedoso
+cainita      adj
+calabrés     adj
+calamitoso   adj
+calcáreo     adj
+cálcico      adj
+calcolítico  adj
+calculable   adj
+calculador   adj
+caldeo       adj
+caldoso      adj
+calé         adj
+calenturiento adj
 cálido       adj
 caliente     adj
+califal      adj
+calificable  adj
+calificador  adj
 calificativo adj
+californiano adj
+caligráfico  adj
+calizo       adj
 callado      adj
 callejero    adj
+calloso      adj
+calmante     adj
+calmo        adj style=literary
+calmoso      adj
+calórico     adj
+calorífico   adj
+calumnioso   adj
 caluroso     adj adv=calurosamente
+calvinista   adj
 calvo        adj
+camaleónico  adj
+cambiable    adj
 cambiante    adj
+cambiario    adj
+camboyano    adj
+cameral      adj
+camerístico  adj conf=85 note=música camerística, chamber music
+camerunés    adj
+caminero     adj
+camisero     adj
+campal       adj
+campaniforme adj
+campante     adj
+campanudo    adj
+campanulado  adj
+campechano   adj
+campero      adj
 campestre    adj
 canadiense   adj
+canallesco   adj
+cananeo      adj
 canario      adj
+cancerígeno  adj
+canceroso    adj
+candeal      adj
+candente     adj
+cándido      adj adv=cándidamente
+candoroso    adj adv=candorosamente
+canelo       adj
+caníbal      adj
+canicular    adj
+canijo       adj style=colloquial alt=enclenque|débil
 canino       adj
+canjeable    adj
+cannábico    adj
+cano         adj
 canónico     adj
+canoro       adj
+canoso       adj
 cansado      adj
+cansino      adj
+cantable     adj
 cantábrico   adj
 cántabro     adj
+cantarín     adj f=cantarina
 cantonal     adj
+cantonés     adj
+cañero       adj style=colloquial alt=enérgico|intenso
+cañí         adj pl=cañís conf=85 note=Spain: castizo, gitano; plural cañís
 caótico      adj
 capacitado   adj
+capacitivo   adj
 capaz        adj
+capcioso     adj adv=capciosamente
+capicúa      adj
+capilar      adj
+capital      adj note=pena capital, pecado capital
+capitalino   adj
 capitalista  adj
+capitalizable adj
+capitolino   adj
 caprichoso   adj
 caprino      adj
+caqui        adj inv note=colour: pantalones caqui
 característico adj adv=característicamente
+caraqueño    adj
+carbonatado  adj
+carbónico    adj
+carbonífero  adj
+carboxílico  adj
+carca        adj style=colloquial alt=retrógrado|anticuado
+carcelario   adj
+carcinógeno  adj
+cardenalicio adj
+cárdeno      adj
 cardíaco     adj var=cardiaco
 cardinal     adj
+cardiopulmonar adj
+cardiorrespiratorio adj
+cardiovascular adj
+carencial    adj
 carente      adj
+cargante     adj style=colloquial alt=molesto|pesado
+cariacontecido adj
+caribe       adj
 caribeño     adj
+caricaturesco adj
 cariñoso     adj adv=cariñosamente
+carioca      adj
+carismático  adj
 caritativo   adj adv=caritativamente
 carlista     adj
+carmelita    adj
+carmesí      adj pl=carmesíes|carmesís[var]
+carminativo  adj
 carnal       adj
+carnavalero  adj
+carnavalesco adj
 cárnico      adj
 carnívoro    adj
 carnoso      adj
-caro         adj
+caro         adj sup=carísimo
+carolingio   adj
+carpetano    adj
+carpetovetónico adj
+carroñero    adj
+cartagenero  adj
 cartaginés   adj
+cartesiano   adj
+cartilaginoso adj
 cartográfico adj
+casacional   adj
+casadero     adj
 casero       adj
+casposo      adj
+casquivano   adj
 castaño      adj
 castellano   adj
+castellanohablante adj
+castellanoleonés adj
+castellanomanchego adj
+castellanoparlante adj
+castellonense adj
+castizo      adj adv=castizamente
+casto        adj adv=castamente
 castrense    adj
+castreño     adj
+castrista    adj
 casual       adj adv=casualmente
+casuístico   adj
+catabólico   adj
+cataclísmico adj
 catalán      adj
+catalanista  adj
+catalanohablante adj
+catalanoparlante adj
+catalítico   adj
+catarí       adj pl=cataríes|catarís[var]
+cátaro       adj
+catártico    adj
 catastral    adj
 catastrófico adj
+catastrofista adj
+catatónico   adj
+catedralicio adj
+categórico   adj adv=categóricamente
+catequético  adj
+catiónico    adj
+catódico     adj
 católico     adj
+caucásico    adj
+caudaloso    adj
+caulinar     adj
 causal       adj
 causante     adj
+cáustico     adj
 cautelar     adj
-célebre      adj
+cauteloso    adj adv=cautelosamente
+cautivador   adj
+cautivo      adj
+cauto        adj adv=cautamente
+cavernícola  adj
+cavernoso    adj
+caviloso     adj
+cazurro      adj conf=90 note=taciturn, rustic and stubborn
+cefálico     adj
+cefalorraquídeo adj
+cegador      adj
+cegato       adj style=colloquial alt=miope|corto_de_vista
+cejijunto    adj
+célebre      adj sup=celebérrimo[literary]
+célere       adj style=literary
 celeste      adj
 celestial    adj
+celíaco      adj var=celiaco
+célibe       adj
 celoso       adj
 celta        adj
+celtibérico  adj
+celtíbero    adj var=celtibero
+céltico      adj
 celular      adj
+celulósico   adj
+cementero    adj
+cenagoso     adj
+cenetista    adj
+ceniciento   adj
+cenital      adj
+cenizo       adj
+cenozoico    adj
 censal       adj
+censitario   adj
+censurable   adj
+centelleante adj
+centenario   adj
+centesimal   adj
+centígrado   adj
+centimétrico adj
 central      adj adv=centralmente
 centralista  adj
+centralizador adj
 céntrico     adj
+centrífugo   adj
+centrípeto   adj
+centrista    adj
+centroafricano adj
+centroamericano adj
+centroasiático adj
+centroderechista adj
+centroeuropeo adj
+centroizquierdista adj
+ceñudo       adj
 cerámico     adj
 cercano      adj
+cerdoso      adj
+cerealista   adj
 cerebral     adj
+cerebrovascular adj
+ceremonial   adj adv=ceremonialmente
+ceremonioso  adj adv=ceremoniosamente
+ceroso       adj
+cerril       adj
+certero      adj adv=certeramente
+certificable adj
+certificador adj
+cerúleo      adj style=literary
+cervantino   adj
+cervecero    adj
 cervical     adj
 cesante      adj
+cesáreo      adj
+cetrino      adj
+ceutí        adj pl=ceutíes|ceutís[var]
 chabacano    adj
+chachi       adj inv style=colloquial alt=estupendo|genial
 chadiano     adj
 chalado      adj style=colloquial alt=loco|chiflado
 chapado      adj
@@ -86,7 +314,7 @@ cheroqui     adj
 chic         adj inv
 chicano      adj
 chico        adj
-chiflado     adj
+chiflado     adj style=colloquial alt=loco|chalado
 chií         adj pl=chiíes|chiís[var]
 chiita       adj
 chileno      adj
@@ -107,31 +335,99 @@ chulo        adj style=colloquial alt=bonito|presumido|chulesco
 chumbo       adj
 chungo       adj style=colloquial alt=malo|difícil|estropeado
 chupado      adj style=colloquial alt=fácil|delgado note=está chupado: it is easy
+chupi        adj inv style=colloquial alt=estupendo|genial
 churrigueresco adj
 chusco       adj
+cianhídrico  adj
+cibernético  adj
+cicatero     adj
+cicatricial  adj
+cicatrizante adj
+ciceroniano  adj
 cíclico      adj
+ciclístico   adj
+ciclónico    adj
+ciclópeo     adj
+ciclotímico  adj
 ciego        adj
 científico   adj adv=científicamente
 cierto       adj adv=ciertamente
+cigomático   adj
+ciliado      adj
+ciliar       adj
 cilíndrico   adj
+cimarrón     adj
+cimbreante   adj
+cimero       adj
+cinéfilo     adj
 cinegético   adj
+cinemático   adj
 cinematográfico adj
 cinético     adj
+cingalés     adj
 cínico       adj
+circadiano   adj
+circasiano   adj
+circense     adj
 circulante   adj
+circular     adj adv=circularmente
+circulatorio adj
+circumpolar  adj
+circunciso   adj
 circundante  adj
+circunferencial adj
+circunflejo  adj
+circunspecto adj
+circunstanciado adj
+circunstancial adj adv=circunstancialmente
 cirílico     adj
+cisalpino    adj
+cisjordano   adj
+cismático    adj
 cisterciense adj
+citerior     adj conf=90 note=Hispania citerior
+citoplasmático adj
+citotóxico   adj
 cítrico      adj
+citrícola    adj
+ciudadano    adj
+ciudadrealeño adj
 cívico       adj
 civil        adj
+civilista    adj
+civilizador  adj
+civilizatorio adj
+cladístico   adj
+clamoroso    adj adv=clamorosamente
 clandestino  adj adv=clandestinamente
-claro        adj adv=claramente
+claretiano   adj
+clarificador adj
+clarividente adj
+claro        adj adv=claramente sup=clarísimo
+clasicista   adj
 clásico      adj
+clasificable adj
+clasificador adj
 clasificatorio adj
+clasista     adj
+claudicante  adj
+claustral    adj
+claustrofóbico adj
+clemente     adj
+clerical     adj
+clientelar   adj
+clientelista adj
 climático    adj
 climatológico adj
 clínico      adj
+clítico      adj
+cloacal      adj
+clonal       adj
+clónico      adj
+clorhídrico  adj
+clorofílico  adj
+clueco       adj
+cluniacense  adj
 coactivo     adj
 coadyuvante  adj
 coaxial      adj
@@ -164,6 +460,7 @@ colegial     adj
 colérico     adj
 colgante     adj
 colindante   adj
+colocado     adj style=colloquial alt=drogado|borracho note=under the influence; the participle of colocar is generated from the verb
 coloidal     adj
 colombiano   adj
 colonial     adj

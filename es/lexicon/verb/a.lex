@@ -255,7 +255,8 @@ alquilar     verb
 alquitranar  verb
 alterar      verb
 alternar     verb
-alucinar     verb
+alucinar     verb sense=hallucinate
+alucinar     verb sense=amazed style=colloquial alt=asombrarse|sorprenderse note=alucino con lo que dices
 aludir       verb
 alumbrar     verb
 alunizar     verb

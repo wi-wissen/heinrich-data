@@ -146,6 +146,7 @@ bochornoso   adj
 bogotano     adj
 bohemio      adj
 bolchevique  adj
+bolinga      adj style=colloquial alt=borracho
 bolivariano  adj
 boliviano    adj
 boloñés      adj
@@ -156,6 +157,7 @@ bonito       adj
 booleano     adj
 boquiabierto adj
 borbónico    adj
+borde        adj style=colloquial alt=antipático|grosero
 bordelés     adj
 boreal       adj
 borgoñón     adj
@@ -197,6 +199,7 @@ búdico       adj
 budista      adj
 buenista     adj
 bueno        adj apoc=buen cmp=mejor sup=buenísimo|bonísimo[literary]|óptimo[literary] place=both
+buenorro     adj style=colloquial alt=atractivo|guapo
 bulboso      adj
 búlgaro      adj
 bullicioso   adj

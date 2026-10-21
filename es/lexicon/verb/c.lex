@@ -1,42 +1,117 @@
 # Spanish lexicon, verb c: written from own knowledge (AUTHORING.md).
 
+cabalgar     verb
+cabecear     verb
 caber        verb class=caber
+cabildear    verb
+cablear      verb
 cabrear      verb style=colloquial alt=enfadar|enojar|irritar
+cacarear     verb
+cachear      verb
+cachondear   verb pronominal style=colloquial alt=burlarse|reírse
 caducar      verb
 caer         verb class=caer
 cagar        verb style=vulgar alt=defecar|estropear
+calafatear   verb
+calar        verb
+calcar       verb
+calcificar   verb
+calcinar     verb
 calcular     verb
+caldear      verb
 calentar     verb class=ie
+calibrar     verb
 calificar    verb
+caligrafiar  verb class=hiatus
 callar       verb
+callejear    verb
 calmar       verb
+calumniar    verb class=diphthong
+calzar       verb
 cambiar      verb class=diphthong
+camelar      verb style=colloquial alt=engatusar|seducir
 caminar      verb
+campar       verb
+campear      verb
+camuflar     verb
 canalizar    verb
 cancelar     verb
+canibalizar  verb
+canjear      verb
+canonizar    verb
 cansar       verb
 cantar       verb
+canturrear   verb
+cañonear     verb
+capacitar    verb
+capar        verb
+capear       verb
+capitalizar  verb
+capitanear   verb
 capitular    verb
+capotar      verb
 captar       verb
 capturar     verb
+caracolear   verb
 caracterizar verb
+caramelizar  verb
+carbonizar   verb
+carburar     verb
+carcajear    verb pronominal
+carcomer     verb
+cardar       verb
+carear       verb
 carecer      verb class=zco
+carenar      verb
 cargar       verb
+cariar       verb class=diphthong
+caricaturizar verb
+carraspear   verb
+cartear      verb pronominal
+cartografiar verb class=hiatus
 casar        verb
+cascar       verb
+castañetear  verb
+castellanizar verb
 castigar     verb
+castrar      verb
+catalanizar  verb
+catalizar    verb
 catalogar    verb
+catapultar   verb
+catar        verb
+catear       verb style=colloquial alt=suspender
 categorizar  verb
+catequizar   verb
+caucionar    verb
 causar       verb
+cauterizar   verb
+cautivar     verb
+cavar        verb
+cavilar      verb
 cazar        verb
+cebar        verb
+cecear       verb
 ceder        verb
+cegar        verb class=ie
+cejar        verb
+celar        verb
 celebrar     verb
+cementar     verb
 cenar        verb
 censar       verb
 censurar     verb
+centellear   verb
 centralizar  verb
 centrar      verb
+centrifugar  verb
+centuplicar  verb
 ceñir        verb class=i
+cepillar     verb
+cercar       verb
+cercenar     verb
 cerciorar    verb pronominal
+cerner       verb class=ie note=en ciernes is covered by the forms of cerner
 cerrar       verb class=ie
 certificar   verb
 cesar        verb
@@ -71,16 +146,32 @@ chulear      verb style=colloquial alt=presumir|explotar
 chupar       verb
 chupetear    verb
 chutar       verb
+cicatrizar   verb
 cifrar       verb
+cimbrear     verb
+cimentar     verb note=regular in current use (cimenta); the old ie forms (cimienta) are not written
+cincelar     verb
+circuir      verb
 circular     verb
+circuncidar  verb
+circundar    verb
+circunnavegar verb
 circunscribir verb pp=circunscrito
+circunvalar  verb
 citar        verb
 civilizar    verb
 clamar       verb
+clarear      verb
 clarificar   verb
 clasificar   verb
+claudicar    verb
 clausurar    verb
 clavar       verb
+clavetear    verb
+clicar       verb
+climatizar   verb
+clonar       verb
+clorar       verb
 coaccionar   verb
 coadyuvar    verb
 coagular     verb
