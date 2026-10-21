@@ -23,6 +23,8 @@ build scripts and finished language packs.
 - `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
 - `fr/frequency/` – our own French word-form frequency list (fr-FR, elision split off;
   `fr/frequency/README.md`)
+- `es/frequency/` – our own Spanish word-form frequency list (es-ES; Wikipedia, Gutenberg in modern
+  orthography, BOE, Congreso; `es/frequency/README.md`)
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
   protocol: `en/lexicon/AUTHORING.md`

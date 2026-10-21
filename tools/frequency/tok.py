@@ -1,4 +1,4 @@
-"""Shared tokenizer / counter for the Heinrich frequency lists (German, English, French).
+"""Shared tokenizer / counter for the Heinrich frequency lists (German, English, French, Spanish).
 
 Only counts are kept; texts are streamed and discarded.
 Tokens are case-sensitive surface forms (NFC). A token is a run of Latin
@@ -35,22 +35,32 @@ ABBR_FR = (r"MM|Mme|Mmes|Mlle|Mlles|Me|Mes|Mgr|Mgrs|Dr|Drs|Pr|Prs|St|Ste|Sts|Ste
            r"boul|bd|fg|av|janv|févr|avr|juil|sept|oct|nov|déc|lun|mar|mer|jeu|ven|sam|dim|env|cap|liv|"
            r"sect|tit|al|alin|ord|min|max|cass|civ|crim|com|soc|req|ch|chbre|gal|lt|cne|col|cdt|adj|sgt|"
            r"vx|var|cad|hab|dép|arr|ill|trad|coll|dir|ms|mss|fol|fos|ve|vo|ro")
-ABBR = {"de": ABBR_DE, "en": ABBR_EN, "fr": ABBR_FR}
+# Spanish abbreviations that do not end a sentence (own list; single letters such as "D.", "p. ej.", "n.º" are
+# covered by the single-letter rule). Frequent nouns such as "mar" are left out on purpose.
+ABBR_ES = (r"Sr|Sra|Sras|Sres|Srs|Srta|Srtas|Dña|Dñas|Dr|Dra|Dres|Dras|Lic|Lda|Ldo|Ing|Arq|Prof|Profa|Excmo|Excma|"
+           r"Excmos|Excmas|Ilmo|Ilma|Ilmos|Ilmas|Rvdo|Rvda|Mons|Fr|Sto|Sta|Gral|Cnel|Tte|Sgto|Cía|cía|Hnos|Avda|avda|"
+           r"art|arts|Art|Arts|núm|núms|Núm|pág|págs|pp|vol|vols|cap|caps|tít|ed|eds|etc|ej|vid|cf|cfr|op|cit|ibíd|"
+           r"ib|íd|aprox|apdo|apdos|dcha|izq|izqda|ene|feb|abr|jun|jul|ago|sept|sep|oct|nov|dic|lun|mié|jue|vie|sáb|"
+           r"admón|depto|dpto|tel|telf|fig|figs|vs|ss|sigs|esq|Ntra|Ntro|ntra|ntro|prov|Ud|Uds|Vd|Vds|ud|uds|vd|vds|"
+           r"disp|adic|transit|ca|Mtro|Mtra|Pdte|Pdta|Sr|Sra|Excmo")
+ABBR = {"de": ABBR_DE, "en": ABBR_EN, "fr": ABBR_FR, "es": ABBR_ES}
 # German: ordinal numbers ("3. Mai") do not end a sentence; English has no such ordinals.
 PROT_BY_LANG = {
     "de": re.compile(rf"(?<![{L}])(?:{ABBR_DE}|[{L}]|\d+)\."),
     "en": re.compile(rf"(?<![{L}])(?:{ABBR_EN}|[{L}])\."),
     "fr": re.compile(rf"(?<![{L}])(?:{ABBR_FR}|[{L}])\."),
+    "es": re.compile(rf"(?<![{L}])(?:{ABBR_ES}|[{L}])\."),
 }
 PROT = PROT_BY_LANG["de"]
 LANG = "de"
 
 
-LEAD = {"de": "\"„“»«(‚'[-–— \x00", "en": "\"“‘(['-–— \x00", "fr": "\"«“‹(['-–— \x00\u00a0\u202f"}
+LEAD = {"de": "\"„“»«(‚'[-–— \x00", "en": "\"“‘(['-–— \x00", "fr": "\"«“‹(['-–— \x00\u00a0\u202f",
+        "es": "\"«“‘‹(['-–—¿¡ \x00\u00a0\u202f"}
 
 
 def set_lang(lang):
-    """Select the abbreviation list used by the sentence splitter ("de" or "en")."""
+    """Select the abbreviation list and quotation marks of the sentence splitter ("de", "en", "fr", "es")."""
     global PROT, SPLIT, LANG
     PROT, SPLIT, LANG = PROT_BY_LANG[lang], SPLIT_BY_LANG[lang], lang
 SPLIT = re.compile(r"(?<=[.!?…])[\"“”«»'’)\]]*\s+(?=[\"„“»«(\[‚'-]*[A-ZÄÖÜÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-ZÄÖÜ])")
@@ -60,6 +70,8 @@ SPLIT_BY_LANG = {
     "en": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]]*\s+(?=[\"“‘(\['-]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-Z])"),
     # French: guillemets with (narrow) no-break spaces, e.g. "? » Il" or ". « Oui".
     "fr": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“«‹(\[\-–—\s]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-ZÀ-ÖØ-Þ])"),
+    # Spanish: a sentence may open with ¿ ¡ (also after « “ or a dialogue dash —).
+    "es": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“‘«‹(\[\-–—¿¡\s]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[¿¡]?[A-ZÀ-ÖØ-Þ])"),
 }
 
 # French elision: a clitic ending in an apostrophe is split off as its own token ("l'homme" -> "l'",
@@ -98,11 +110,19 @@ def normalize_fr(text):
     return LOOSE_FR.sub(r"\1", text)
 
 
+def normalize_es(text):
+    """Spanish: apostrophe variants between letters become "'" (O'Donnell), hyphen variants become "-".
+    ¿ ¡ « » and the dialogue dash are not letters, so they never end up inside a token."""
+    return HYPH_FR.sub("-", APOS_FR.sub("'", text))
+
+
 def tokenize_lines(text):
     """Yield list-of-words per sentence."""
     text = unicodedata.normalize("NFC", text)
     if LANG == "fr":
         text = normalize_fr(text)
+    elif LANG == "es":
+        text = normalize_es(text)
     text = PROT.sub(lambda m: m.group(0)[:-1] + "\x00", text)
     for sent in SPLIT.split(text):
         if not sent:
