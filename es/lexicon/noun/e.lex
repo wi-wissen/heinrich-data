@@ -598,6 +598,7 @@ epónimo          noun  g=m
 epopeya          noun  g=f
 epoxi            noun  g=m inv conf=85 note=resina epoxi, also adj
 epóxido          noun  g=m
+épsilon          noun  g=f inv conf=80 note=letter name; plural left invariable (las épsilon) as the derived plural would be stressed too early
 equidad          noun  g=f
 equidistancia    noun  g=f
 equidistribución noun  g=f
