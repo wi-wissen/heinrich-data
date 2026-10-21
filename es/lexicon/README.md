@@ -99,12 +99,28 @@ points.
 | 1 | #127 m–p | cdce759 | 6,155 | 2 | 9 | 0.03 % / 0.15 % |
 | 2 | all four (merged scratch copy) | 2b80d1b, e5252e2, 1b80cd2, 0c1ed73 | 29,610 (8,690 new lexemes sampled) | 0 | 6 | 0 % / 0.02 % |
 | final | `spanish` | d8791fc | 29,610 | 0 | 0 | – |
+| 6 | #143 a–c + closed (diff) | 887f3f3 | 148 | 1 | 3 | 0.7 % / 2.0 % |
+| 6 | #144 d–l (diff) | 71ecf9e | 150 | 7 | 13 | 4.7 % / 8.7 % |
+| 6 | #142 m–p (diff) | acf258a | 115 | 0 | 2 | 0 % / 1.7 % |
+| 6 | #145 q–z (diff) | 76e8ced | 543 | 0 | 20 | 0 % / 3.7 % |
 
 Recurring findings: adjectives of the form *prefix + noun* (*anticorrupción*, *tricolor*,
 *monocolor*, *multiuso*, *bicolor*) got a derived feminine (a validator warning was proposed to the
 engine session); stem accents of prefixed verbs (*rehacer*, *contrahacer*, *rehuir*) were generator
 gaps, worked around with written tables; duplicates between authors (*ir*, *todavía*, five
 spelling-variant pairs, *cinc/zinc*) were settled before the merge.
+
+Wave 6 (gaps of the own frequency list up to rank 100,000) was reviewed on `spanish` e9c57d1 with
+all four PRs merged (30,512 entries, 0 errors, 0 warnings, no duplicates between the authors); only
+the added or changed lines were checked. New in this round, words that are not usual in the Spanish
+of Spain (Latin American doublets such as *sustentabilidad*, *televisora*, *tendiente*) were reported
+as points; they make up 19 of the 38 points. The clear errors were mostly loans flagged `foreign`
+without `pl=`, which get the native plural after a consonant (*hacker*, *kernel*; three older
+entries in m–p have the same gap; a validator hint was proposed), and one gentilic with a generated
+feminine. #145 also had *tras-*/*trans-* variants set for some members of a word family only.
+The authors settled every point in follow-up commits (#143 031d174, #144 9f672c6, #142 2087ebf,
+#145 d7b1a54); the re-check on the merge of these heads found 30,496 entries, 0 errors, 0 warnings
+and no open point.
 
 ### Protocol deviation in round 1
 
