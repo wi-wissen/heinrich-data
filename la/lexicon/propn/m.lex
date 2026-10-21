@@ -7,8 +7,10 @@ Mārcus, Mārcī propn m
 Marius, Mariī propn m conf=80 note=reviewer-dispute; length of the a
 Mārs, Mārtis propn m conf=80 note=reviewer-dispute; length of the a in the oblique cases
 Massilia, Massiliae propn f loc
+Matrona, Matronae propn m
 Mēdēa, Mēdēae propn f
 Mediolānum, Mediolānī propn n loc
+Menapius, Menapiī propn m sg_pl
 Menelāus, Menelāī propn m
 Mercurius, Mercuriī propn m
 Messāla, Messālae propn m var=Messalla conf=80 note=length of the a?
@@ -18,5 +20,7 @@ Milō, Milōnis propn m
 Minerva, Minervae propn f
 Mīnōs, Mīnōis propn m greek
 Mithridātēs, Mithridātis propn m
+Morinus, Morinī propn m sg_pl
+Mosa, Mosae propn m
 Mūcius, Mūciī propn m
 Mycēnae, Mycēnārum propn f pl_only loc

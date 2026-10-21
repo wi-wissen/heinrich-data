@@ -9,4 +9,5 @@ Nervius, Nerviī propn m sg_pl
 Nīlus, Nīlī propn m
 Niobē, Niobēs propn f
 Nīsus, Nīsī propn m
+Noviodūnum, Noviodūnī propn n loc
 Numa, Numae propn m
