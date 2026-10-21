@@ -28,7 +28,8 @@ cabellera    noun g=f
 cabello      noun g=m
 cabestrillo  noun g=m
 cabestro     noun g=m
-cabeza       noun g=f
+cabeza       noun g=f sense=head
+cabeza       noun g=m|f sense=leader note=el cabeza de familia, el cabeza de lista
 cabezada     noun g=f
 cabezal      noun g=m
 cabezazo     noun g=m
@@ -134,7 +135,8 @@ calamina     noun g=f
 cálamo       noun g=m
 calandria    noun g=f
 calaña       noun g=f
-calavera     noun g=f
+calavera     noun g=f sense=skull
+calavera     noun g=m sense=libertine note=el calavera: a reckless man
 calaverada   noun g=f
 calcáneo     noun g=m
 calcañar     noun g=m
@@ -221,7 +223,8 @@ cama         noun g=f
 camada       noun g=f
 camafeo      noun g=m
 camaleón     noun g=m
-cámara       noun g=f
+cámara       noun g=f sense=device
+cámara       noun g=m|f sense=operator note=el/la cámara: camera operator
 camarada     noun g=m|f
 camaradería  noun g=f
 camarero     noun g=m f=camarera
@@ -281,7 +284,8 @@ campus       noun g=m
 camuflaje    noun g=m
 can          noun g=m style=literary note=dog
 cana         noun g=f
-canal        noun g=m
+canal        noun g=m sense=channel
+canal        noun g=f sense=gutter conf=85 note=la canal: roof gutter; carcass of a slaughtered animal
 canaleta     noun g=f
 canalización noun g=f
 canalla      noun g=m|f
@@ -1332,7 +1336,8 @@ claustrofobia noun g=f
 cláusula     noun g=f
 clausulado   noun g=m
 clausura     noun g=f
-clave        noun g=f
+clave        noun g=f sense=key
+clave        noun g=m sense=harpsichord note=el clave: the instrument
 clavecín     noun g=m
 clavecinista noun g=m|f
 clavel       noun g=m
@@ -2182,7 +2187,8 @@ cornamusa    noun g=f
 córnea       noun g=f
 corneja      noun g=f
 córner       noun g=m pl=córneres|córners[var]
-corneta      noun g=f
+corneta      noun g=f sense=instrument
+corneta      noun g=m|f sense=player note=el corneta: the bugler
 cornete      noun g=m
 cornezuelo   noun g=m
 cornisa      noun g=f

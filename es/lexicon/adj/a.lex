@@ -335,6 +335,7 @@ amarillento  adj
 amarillista  adj
 amarillo     adj
 amazónico    adj
+ámbar        adj inv note=colour: ojos ámbar
 ambicioso    adj adv=ambiciosamente
 ambidiestro  adj
 ambiental    adj

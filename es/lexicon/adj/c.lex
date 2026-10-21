@@ -25,6 +25,7 @@ cadencioso   adj
 caducifolio  adj
 caduco       adj
 caedizo      adj
+café         adj inv note=colour: unos zapatos café
 cafetero     adj
 cafre        adj
 cagón        adj style=vulgar alt=cobarde|miedoso
@@ -282,6 +283,7 @@ cerebral     adj
 cerebrovascular adj
 ceremonial   adj adv=ceremonialmente
 ceremonioso  adj adv=ceremoniosamente
+cereza       adj inv note=colour
 ceroso       adj
 cerril       adj
 certero      adj adv=certeramente
@@ -299,6 +301,7 @@ chabacano    adj
 chachi       adj inv style=colloquial alt=estupendo|genial
 chadiano     adj
 chalado      adj style=colloquial alt=loco|chiflado
+champán      adj inv note=colour
 chapado      adj
 chaparro     adj
 chapucero    adj
@@ -334,6 +337,7 @@ chismoso     adj
 chispeante   adj
 chistoso     adj
 chocante     adj
+chocolate    adj inv note=colour
 choricero    adj
 chovinista   adj
 chulesco     adj
@@ -344,6 +348,7 @@ chupado      adj style=colloquial alt=fácil|delgado note=está chupado: it is e
 chupi        adj inv style=colloquial alt=estupendo|genial
 churrigueresco adj
 chusco       adj
+cian         adj inv note=colour
 cianhídrico  adj
 cibernético  adj
 cicatero     adj
@@ -825,6 +830,7 @@ crediticio   adj
 crédulo      adj
 creíble      adj
 creído       adj
+crema        adj inv note=colour: unos pantalones crema
 cremoso      adj
 crepuscular  adj
 crespo       adj
