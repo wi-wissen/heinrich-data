@@ -204,106 +204,106 @@ and a reason, but also the expected value or the fix ("suggestion `pl=-`", "plur
 spelling joins the compound"). This goes against the clean-room protocol (`AUTHORING.md` §1, Heinrich
 `CLAUDE.md` rule 2). It was noticed in the Spanish review (2026-10-21); from then on the reports name only the
 lemma, the field and a reason. The entries concerned are listed below (PR, lemma, field; no values). The
-authors re-decide each of them from their own knowledge; the result is recorded in the column "re-check".
+authors re-decide each of them from their own knowledge; the result is recorded in the column "re-check" (2026-10-21: "kept" = the author confirmed the entry with their own reasoning; "changed" = see the PR named).
 
 **a–c**
 
 | PR | lemmas | field | re-check |
 |---|---|---|---|
-| #93 | *accro*, *barjo*, *antichar*, *cajun*, *avant-coureur* | feminine | open |
-| #93 | *aéronaval* | plural | open |
-| #93 | *auto-stop / autostop*, *assener / asséner* | rect (one entry) | open |
-| #93 | *credo*, *après-rasage*, *après-ski* | plural (trad/rect) | open |
-| #93 | *benoît*, *brûlerie*, *brûleur*, *brûlot*, *bûche*, *bûcher*, *bûcheron*, *bûchette*, *brûle-parfum*, *casse-croûte*, *croître* | rect | open |
-| #93 | *bonneterie*, *briqueterie*, *buffleterie*, *amoncellement*, *chancellement*, *crénelé*, *crénelage*, *crécerelle* | rect | open |
-| #93 | *bolchevique*, *artefact*, *brasero*, *condottiere*, *canoë* | rect | open |
-| #93 | *combatif*, *combativité*, *cahute*, *ballotter*, *boulotter*, *cachotterie*, *barcarolle*, *corollaire*, *corolle*, *bonniche*, *challenge*, *chariot*, *boursoufler*, *chausse-trape*, *arguer*, *allô* | rect | open |
-| #93 | *bien-aimé*, *clopin-clopant*, *arc-boutant*, *arc-bouter*, *auto-école*, *auto-stoppeur*, *baby-sitting*, *bas-fond*, *basse-cour*, *basse-fosse*, *beach-volley*, *best-seller*, *bien-être*, *bien-fondé*, *blue-jean*, *boute-en-train*, *box-office*, *branle-bas*, *burn-out*, *cache-cache*, *chausse-pied*, *chauve-souris*, *check-list*, *ciné-club*, *claire-voie*, *cloche-pied*, *couvre-pied*, *croche-pied*, *croque-mort*, *cross-country*, *cyclo-cross*, contre- compounds | rect | open |
-| #93 | numerals (compound cardinals) | rect | open |
-| #93 | *agneau* | f | open |
-| #93 | *cache*, *casse*, *crème* | sense (gender) | open |
-| #93 | *alvéole* | gender | open |
-| #93 | *aloi*, *berlue*, *califourchon*, *cantonade*, *cesse* | plural | open |
-| #93 | *attarder* | pronominal | open |
-| #93 | *advenir*, *choir* | defective | open |
-| #93 | *bistre* | inv | open |
-| #93 | *ça* | style | open |
-| #93 | *un (num)* | aspirate | open |
-| #100 | *anti-israélien* | rect | open |
-| #105 | *cougar* | sense (gender) | open |
-| #105 | *bavasser* | pp_inv | open |
+| #93 | *accro*, *barjo*, *antichar*, *cajun*, *avant-coureur* | feminine | changed in #135: *cajun*, *avant-coureur*; others kept |
+| #93 | *aéronaval* | plural | kept |
+| #93 | *auto-stop / autostop*, *assener / asséner* | rect (one entry) | kept |
+| #93 | *credo*, *après-rasage*, *après-ski* | plural (trad/rect) | kept |
+| #93 | *benoît*, *brûlerie*, *brûleur*, *brûlot*, *bûche*, *bûcher*, *bûcheron*, *bûchette*, *brûle-parfum*, *casse-croûte*, *croître* | rect | kept |
+| #93 | *bonneterie*, *briqueterie*, *buffleterie*, *amoncellement*, *chancellement*, *crénelé*, *crénelage*, *crécerelle* | rect | kept, *bonneterie*/*briqueterie*/*buffleterie* with lower `conf` (#135) |
+| #93 | *bolchevique*, *artefact*, *brasero*, *condottiere*, *canoë* | rect | kept |
+| #93 | *combatif*, *combativité*, *cahute*, *ballotter*, *boulotter*, *cachotterie*, *barcarolle*, *corollaire*, *corolle*, *bonniche*, *challenge*, *chariot*, *boursoufler*, *chausse-trape*, *arguer*, *allô* | rect | kept |
+| #93 | *bien-aimé*, *clopin-clopant*, *arc-boutant*, *arc-bouter*, *auto-école*, *auto-stoppeur*, *baby-sitting*, *bas-fond*, *basse-cour*, *basse-fosse*, *beach-volley*, *best-seller*, *bien-être*, *bien-fondé*, *blue-jean*, *boute-en-train*, *box-office*, *branle-bas*, *burn-out*, *cache-cache*, *chausse-pied*, *chauve-souris*, *check-list*, *ciné-club*, *claire-voie*, *cloche-pied*, *couvre-pied*, *croche-pied*, *croque-mort*, *cross-country*, *cyclo-cross*, contre- compounds | rect | kept |
+| #93 | numerals (compound cardinals) | rect | kept |
+| #93 | *agneau* | f | kept |
+| #93 | *cache*, *casse*, *crème* | sense (gender) | changed in #135 (masculine senses added) |
+| #93 | *alvéole* | gender | kept |
+| #93 | *aloi*, *berlue*, *califourchon*, *cantonade*, *cesse* | plural | kept |
+| #93 | *attarder* | pronominal | kept |
+| #93 | *advenir*, *choir* | defective | kept |
+| #93 | *bistre* | inv | kept |
+| #93 | *ça* | style | kept |
+| #93 | *un (num)* | aspirate | kept |
+| #100 | *anti-israélien* | rect | kept |
+| #105 | *cougar* | sense (gender) | kept |
+| #105 | *bavasser* | pp_inv | kept |
 
 **d–l**
 
 | PR | lemmas | field | re-check |
 |---|---|---|---|
-| #91 | *décéder* | pp_inv | open |
-| #91 | *gaîté* | style, rect | open |
-| #91 | *gré* | plural | open |
-| #91 | *large* | plural | open |
-| #91 | *disparaître* | aux | open |
-| #91 | *finale* | sense (gender) | open |
-| #91 | *enseigne* | sense (gender) | open |
-| #91 | *hôte* | gender | open |
-| #91 | *diesel* | rect | open |
-| #91 | *lieu-dit* | rect | open |
-| #91 | *gai* | adv (1990 form) | open |
-| #91 | *douer*, *impartir*, *incomber* | defective forms | open |
-| #95 | *écolo* | feminine | open |
-| #95 | *dégréver* | lemma spelling | open |
-| #95 | *dévergonder*, *gominer*, *interpénétrer*, *lignifier* | pronominal | open |
-| #95 | *éléphantiasis* | gender | open |
-| #95 | *hit-parade*, *héroï-comique*, *ludo-éducatif*, *équato-guinéen* | rect | open |
-| #95 | *gangrener* | rect | open |
-| #95 | *erratum* | plural (1990) | open |
-| #95 | *éclore* | aux | open |
-| #95 | *douer* | defective | open |
-| #99 | *dihydrogène* | plural | open |
+| #91 | *décéder* | pp_inv | kept |
+| #91 | *gaîté* | style, rect | kept |
+| #91 | *gré* | plural | kept |
+| #91 | *large* | plural | kept |
+| #91 | *disparaître* | aux | kept |
+| #91 | *finale* | sense (gender) | kept |
+| #91 | *enseigne* | sense (gender) | kept |
+| #91 | *hôte* | gender | kept |
+| #91 | *diesel* | rect | kept |
+| #91 | *lieu-dit* | rect | kept |
+| #91 | *gai* | adv (1990 form) | kept |
+| #91 | *douer*, *impartir*, *incomber* | defective forms | kept |
+| #95 | *écolo* | feminine | kept |
+| #95 | *dégréver* | lemma spelling | kept |
+| #95 | *dévergonder*, *gominer*, *interpénétrer*, *lignifier* | pronominal | changed in #132: *gominer*; others kept |
+| #95 | *éléphantiasis* | gender | changed in #132 |
+| #95 | *hit-parade*, *héroï-comique*, *ludo-éducatif*, *équato-guinéen* | rect | kept, *équato-guinéen* with lower `conf` (#132) |
+| #95 | *gangrener* | rect | kept |
+| #95 | *erratum* | plural (1990) | kept |
+| #95 | *éclore* | aux | kept |
+| #95 | *douer* | defective | kept |
+| #99 | *dihydrogène* | plural | kept |
 
 **m–p**
 
 | PR | lemmas | field | re-check |
 |---|---|---|---|
-| #94 | *maximum*, *minimum*, *multifonction*, *multimédia*, *omnisports*, *porno* | feminine | open |
-| #94 | *patronnesse* | feminine-only | open |
-| #94 | *mormon* | feminine | open |
-| #94 | *morfal*, *périnatal*, *postnatal*, *prénatal* | plural | open |
-| #94 | *ocelle* | gender | open |
-| #94 | *panteler* | class | open |
-| #94 | *pousse-pousse*, *pas-de-porte*, *pianoforte*, *praesidium* | plural (trad/rect) | open |
-| #94 | *maître-assistant*, *mi-août*, *mûrement*, *mûrir*, *mûrier*, *mûrissement*, *mûrisserie* | rect | open |
-| #94 | *marqueterie*, *mousqueterie*, *papeterie*, *morcellement*, *nivellement*, *poétereau*, *prunellier*, *marcotter*, *marcottage*, *persifler*, *persiflage*, *persifleur* | rect | open |
-| #94 | *pedigree*, *penalty*, *peseta*, *peso*, *placebo*, *pizzeria*, *pistolero*, *moderato*, *perestroïka*, *premium*, *piccolo* | rect | open |
-| #94 | *médico-légal*, *médico-social*, *physico-chimique*, *musculo-squelettique*, *néo-zélandais*, *post-traumatique*, *main-forte*, *mezzo-soprano*, *mini-série*, *oto-rhino-laryngologiste*, *passe-passe*, *passe-temps*, *ping-pong*, *pique-nique*, *pique-niquer*, *porte-voix*, *post-partum*, *pot-pourri*, *punching-ball*, *primo-accédant*, *pêle-mêle*, *micro-onde*, *mal-être* | rect | open |
-| #94 | *marine*, *mi-temps* | sense (gender) | open |
-| #94 | *nord*, *ouest* | plural | open |
-| #94 | *mastoc* | inv | open |
-| #94 | *péter* | style | open |
-| #98 | *nahua* | feminine | open |
-| #98 | *médio-océanique* | rect | open |
+| #94 | *maximum*, *minimum*, *multifonction*, *multimédia*, *omnisports*, *porno* | feminine | kept |
+| #94 | *patronnesse* | feminine-only | kept |
+| #94 | *mormon* | feminine | kept |
+| #94 | *morfal*, *périnatal*, *postnatal*, *prénatal* | plural | kept |
+| #94 | *ocelle* | gender | kept |
+| #94 | *panteler* | class | kept |
+| #94 | *pousse-pousse*, *pas-de-porte*, *pianoforte*, *praesidium* | plural (trad/rect) | changed in #133: *pousse-pousse* (lower `conf`, note); others kept |
+| #94 | *maître-assistant*, *mi-août*, *mûrement*, *mûrir*, *mûrier*, *mûrissement*, *mûrisserie* | rect | kept |
+| #94 | *marqueterie*, *mousqueterie*, *papeterie*, *morcellement*, *nivellement*, *poétereau*, *prunellier*, *marcotter*, *marcottage*, *persifler*, *persiflage*, *persifleur* | rect | changed in #133: *marcotter*, *marcottage*; *poétereau* kept with lower `conf`; others kept |
+| #94 | *pedigree*, *penalty*, *peseta*, *peso*, *placebo*, *pizzeria*, *pistolero*, *moderato*, *perestroïka*, *premium*, *piccolo* | rect | kept (*perestroïka*, *premium*, *piccolo* without `rect=`) |
+| #94 | *médico-légal*, *médico-social*, *physico-chimique*, *musculo-squelettique*, *néo-zélandais*, *post-traumatique*, *main-forte*, *mezzo-soprano*, *mini-série*, *oto-rhino-laryngologiste*, *passe-passe*, *passe-temps*, *ping-pong*, *pique-nique*, *pique-niquer*, *porte-voix*, *post-partum*, *pot-pourri*, *punching-ball*, *primo-accédant*, *pêle-mêle*, *micro-onde*, *mal-être* | rect | kept (vowel clashes excluded, *mal-être* unchanged) |
+| #94 | *marine*, *mi-temps* | sense (gender) | kept |
+| #94 | *nord*, *ouest* | plural | kept |
+| #94 | *mastoc* | inv | kept |
+| #94 | *péter* | style | kept |
+| #98 | *nahua* | feminine | kept |
+| #98 | *médio-océanique* | rect | kept |
 
 **q–z**
 
 | PR | lemmas | field | re-check |
 |---|---|---|---|
-| #92 | *standard* | feminine | open |
-| #92 | *valaisan* | feminine | open |
-| #92 | *revival*, *rorqual*, *tergal*, *rital* | plural | open |
-| #92 | *savoir-faire* | plural | open |
-| #92 | *senior / sénior* | rect (one entry) | open |
-| #92 | *requiem*, *veto*, *satisfecit*, *yo-yo*, *sous-main*, *ravioli* | plural (trad/rect) | open |
-| #92 | *socio-économique*, *quote-part*, *sweat-shirt*, *tee-shirt*, *talkie-walkie*, *trench-coat*, *water-polo*, *tsé-tsé*, *tchin-tchin*, *terre-plein*, *rond-point*, *sage-femme* | rect | open |
-| #92 | *revolver*, *sénevé*, *vénerie*, *receler*, *receleur*, *renouvellement*, *ruissellement*, *vilenie* | rect | open |
-| #92 | *soûl*, *soûlard*, *soûlerie*, *soûler*, *sûreté* | rect | open |
-| #92 | *rappeur*, *travelling*, *tuffeau* | rect | open |
-| #92 | *sida*, *sud*, *web*, *vrac*, *sauvette*, *yiddish* | plural | open |
-| #92 | *solde*, *vague* | sense (gender) | open |
-| #92 | *ululement*, *ululer* | aspirate | open |
-| #92 | *recroqueviller* | pronominal | open |
-| #92 | *résulter* | pp_inv / aux | open |
-| #96 | 14 rare -ment adverbs (ravissamment …) | tag | open |
-| #97 | *saoudite* | feminine-only | open |
-| #97 | *thérémine* | gender | open |
+| #92 | *standard* | feminine | kept |
+| #92 | *valaisan* | feminine | kept |
+| #92 | *revival*, *rorqual*, *tergal*, *rital* | plural | kept |
+| #92 | *savoir-faire* | plural | kept |
+| #92 | *senior / sénior* | rect (one entry) | kept |
+| #92 | *requiem*, *veto*, *satisfecit*, *yo-yo*, *sous-main*, *ravioli* | plural (trad/rect) | kept (further 1990 variants added in #134) |
+| #92 | *socio-économique*, *quote-part*, *sweat-shirt*, *tee-shirt*, *talkie-walkie*, *trench-coat*, *water-polo*, *tsé-tsé*, *tchin-tchin*, *terre-plein*, *rond-point*, *sage-femme* | rect | changed in #134: *sage-femme* (lower `conf`); *rond-point* `conf` kept; others kept |
+| #92 | *revolver*, *sénevé*, *vénerie*, *receler*, *receleur*, *renouvellement*, *ruissellement*, *vilenie* | rect | kept, *receler*/*receleur*/*vilenie* with lower `conf` (#134) |
+| #92 | *soûl*, *soûlard*, *soûlerie*, *soûler*, *sûreté* | rect | kept, *sûreté* with lower `conf` (#134) |
+| #92 | *rappeur*, *travelling*, *tuffeau* | rect | changed in #134: *tuffeau*; *travelling* lower `conf`; *rappeur* kept |
+| #92 | *sida*, *sud*, *web*, *vrac*, *sauvette*, *yiddish* | plural | kept |
+| #92 | *solde*, *vague* | sense (gender) | kept |
+| #92 | *ululement*, *ululer* | aspirate | changed in #134 |
+| #92 | *recroqueviller* | pronominal | changed in #134 |
+| #92 | *résulter* | pp_inv / aux | kept |
+| #96 | 14 rare -ment adverbs (ravissamment …) | tag | kept |
+| #97 | *saoudite* | feminine-only | kept |
+| #97 | *thérémine* | gender | kept |
 
 Recurring findings that led to format or validator changes: invariable adjectives in *-o*/*-a*
 (warning since 1.2), `pp_inv` together with `aux=être` (warning since 1.1), defective verbs
