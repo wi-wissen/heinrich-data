@@ -155,7 +155,12 @@ Follow the author guide (format §13). The points that need the most care:
   - deponents and semi-deponents;
   - `intr` for verbs without a personal passive;
   - irregular verbs through `class=`;
-  - defectives and impersonals.
+  - defectives and impersonals;
+  - a single old or poetic form beside the regular one is a **verb cell** with a tag, not a new
+    entry (`pres_sub_act_1sg=audeam|ausim[archaic]`, `faxim`); `-` as a cell value removes a cell.
+    The syncopated future perfect and perfect subjunctive (`amārim`, `superārit`) come from the
+    generator and are not written (settled 2026-10-21, Heinrich #217); report other syncopated
+    forms the generator lacks as a gap.
 - **Register:** `style=` only when the whole entry is archaic, poetic, rare, late or medieval.
 - **Generator gaps:** report them to the L1 session (lemma, form, what it is) instead of working
   around them; a written cell with `note=generator gap, reported` is the temporary fix.
