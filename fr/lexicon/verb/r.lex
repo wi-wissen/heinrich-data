@@ -123,7 +123,7 @@ recalibrer verb
 recapitaliser verb
 récapituler verb
 recaser verb
-receler verb rect=recéler note=è like geler
+receler verb rect=recéler conf=80 note=è like geler
 recenser verb
 recentraliser verb
 recentrer verb
@@ -173,7 +173,7 @@ récrier verb pronominal
 récriminer verb pp_inv
 récrire verb class=écrire
 recroiser verb
-recroqueviller verb pronominal
+recroqueviller verb note=mostly reflexive (se recroqueviller), transitive use exists
 recruter verb
 rectifier verb
 recueillir verb class=cueillir

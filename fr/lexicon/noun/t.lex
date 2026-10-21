@@ -679,7 +679,7 @@ travail noun g=m pl=travaux
 travailleur noun g=m f=travailleuse
 travailliste noun g=m|f
 travée noun g=f
-travelling noun g=m rect=traveling conf=80
+travelling noun g=m rect=traveling conf=75
 travers noun g=m
 traversée noun g=f
 traversin noun g=m
@@ -841,7 +841,7 @@ tubéreuse noun g=f
 tuerie noun g=f
 tueur noun g=m f=tueuse
 tuf noun g=m
-tuffeau noun g=m rect=tufeau conf=75
+tuffeau noun g=m
 tuile noun g=f
 tuilier noun g=m
 tulipe noun g=f

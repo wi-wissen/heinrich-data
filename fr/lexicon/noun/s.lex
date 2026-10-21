@@ -34,7 +34,7 @@ saga noun g=f
 sagacité noun g=f
 sagaie noun g=f
 sage noun g=m|f
-sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=85
+sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=70 note=welded 1990 form uncertain
 sagesse noun g=f
 sagou noun g=m note=plural sagous
 sagouin noun g=m style=colloquial
