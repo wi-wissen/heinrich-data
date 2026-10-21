@@ -70,7 +70,7 @@ the lemma without macrons (format §10: `ōrātor` → `o`):
 
 | authors | letters | also |
 |---|---|---|
-| a–d | `a`, `b`, `c`, `d` | all closed classes in `closed/`, whatever their letter: personal, demonstrative, relative, interrogative and indefinite pronouns, possessive determiners, numerals (cardinal, ordinal, distributive, numeral adverbs), prepositions, conjunctions, particles (`-que`, `-ne`, `-ve` as `part`, `nōn`, `nē`, `num`, `nōnne`), grammar adverbs of negation, interrogation, place and time reference (`ubi`, `unde`, `quō`, `hīc`, `ibi`, `nunc`, `tum`, `iam`); also `sum` and its compounds and the irregular verbs `possum`, `prōsum`, `ferō`, `eō`, `volō`, `nōlō`, `mālō`, `fīō`, `edō` as `class=` entries in `verb/` |
+| a–d | `a`, `b`, `c`, `d` | all closed classes in `closed/`, whatever their letter: personal, demonstrative, relative, interrogative and indefinite pronouns, possessive determiners, numerals (cardinal, ordinal, distributive, numeral adverbs), prepositions, conjunctions, particles (`-que`, `-ne`, `-ve` as `part`, `nōn`, `nē`, `num`, `nōnne`), grammar adverbs of negation, interrogation, place and time reference (`ubi`, `unde`, `quō`, `hīc`, `ibi`, `nunc`, `tum`, `iam`); also `sum` and the irregular verbs `possum`, `prōsum`, `ferō`, `eō`, `volō`, `nōlō`, `mālō`, `fīō`, `edō` as `class=` entries in `closed/irregular.lex` (format §10), so that no other author's `verb/` shard is touched |
 | e–o | `e` … `o` | – |
 | p–z | `p` … `z` | – |
 
