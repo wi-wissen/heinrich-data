@@ -29,7 +29,7 @@ spērō, spērāvī, spērātum, spērāre verb
 spoliō, spoliāvī, spoliātum, spoliāre verb
 statuō, statuī, statūtum, statuere verb
 sternō, strāvī, strātum, sternere verb
-stō, stetī, stātūrus, stāre verb intr conf=85 note=long a in the future participle
+stō, stetī, stātūrus, stāre verb intr conf=85 note=reviewer-dispute; long a in the future participle
 stringō, strīnxī, strictum, stringere verb
 struō, strūxī, strūctum, struere verb
 studeō, studuī, -, studēre verb intr
@@ -37,6 +37,7 @@ suādeō, suāsī, suāsum, suādēre verb intr
 subeō, subiī, subitum, subīre verb class=eo
 subiciō, subiēcī, subiectum, subicere verb
 subigō, subēgī, subāctum, subigere verb
+subsum, -, -, subesse verb class=sum note=perfect hardly attested
 succēdō, successī, successum, succēdere verb intr
 succurrō, succurrī, succursum, succurrere verb intr
 sufficiō, suffēcī, suffectum, sufficere verb

@@ -13,7 +13,6 @@ perinde adv
 perpetuō adv
 plērumque adv
 porrō adv
-posteā adv
 posthāc adv
 postrēmō adv
 postrīdiē adv

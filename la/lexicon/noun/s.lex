@@ -83,7 +83,7 @@ stagnum, stagnī noun n
 statiō, statiōnis noun f
 statua, statuae noun f
 status, statūs noun m
-stēlla, stēllae noun f conf=85 note=hidden quantity of the e
+stēlla, stēllae noun f conf=85 note=reviewer-dispute; hidden quantity of the e
 stīpendium, stīpendiī noun n
 stirps, stirpis noun f
 stomachus, stomachī noun m

@@ -40,7 +40,7 @@ virga, virgae noun f
 virgō, virginis noun f
 virtūs, virtūtis noun f
 vīs, vīs noun f class=vis
-vīscus, vīsceris noun n conf=80 note=length of the i
+vīscus, vīsceris noun n conf=80 note=reviewer-dispute; length of the i
 vīta, vītae noun f
 vitium, vitiī noun n
 vocābulum, vocābulī noun n
