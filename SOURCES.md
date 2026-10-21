@@ -178,6 +178,19 @@ closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, preposi
 conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
 by hand on 2026-10-18.
 
+## French lexicon (`fr/lexicon/`)
+
+Our own entries, written clean-room from the authors' own knowledge of French (no third-party
+French lexicon, word list, dictionary or conjugation table was consulted: no Lexique/OpenLexicon,
+Morphalou, DELA, Lefff, GLÀFF, Wiktionnaire/kaikki, UniMorph, Dicollecte/Grammalecte, Hunspell,
+Le Robert, Larousse, Bescherelle or online dictionary). Format: `Heinrich/docs/LEXICON_FORMAT_FR.md`.
+The work was ordered by our own frequency list (`fr/frequency/forms.tsv`) and by work lists of
+unrecognised forms from our own tests on real texts; these lists only named forms. Written on
+2026-10-20 and 2026-10-21 by four author sessions (letters a–c with the closed classes, d–l, m–p,
+q–z); a separate reviewer compared the entries with third-party lexica outside the repositories
+and reported only disputed and missing lemmas. Protocol and PR record: `fr/lexicon/AUTHORING.md`,
+`fr/lexicon/README.md`.
+
 ## Thesauri (`thesaurus/`, third-party, exception)
 
 Not our own data: two thesauri kept unchanged as input of the optional thesaurus packs only (owner decision
