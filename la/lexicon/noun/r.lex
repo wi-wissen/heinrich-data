@@ -16,8 +16,9 @@ rēgula, rēgulae noun f
 religiō, religiōnis noun f
 remedium, remediī noun n
 rēmus, rēmī noun m
+requiēs, requiētis noun f sg_only acc_sg=requiētem|requiem abl_sg=requiēte|requiē
 rēs, reī noun f
-resīna, resīnae noun f
+rēsīna, rēsīnae noun f
 reus, reī noun m
 rēx, rēgis noun m
 rigor, rigōris noun m

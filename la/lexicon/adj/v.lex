@@ -12,6 +12,7 @@ vīcīnus, vīcīna, vīcīnum adj
 vīlis, vīle adj note=superlative in -issimus is regular
 violentus, violenta, violentum adj
 viridis, viride adj
+virīlis, virīle adj nocmp adv
 vitiōsus, vitiōsa, vitiōsum adj
 vīvus, vīva, vīvum adj
 vulgāris, vulgāre adj

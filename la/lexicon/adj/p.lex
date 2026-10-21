@@ -22,6 +22,7 @@ potēns, potentis adj adv
 praeceps, praecipitis adj nocmp
 praecipuus, praecipua, praecipuum adj adv
 praeclārus, praeclāra, praeclārum adj adv
+prāvus, prāva, prāvum adj adv
 pretiōsus, pretiōsa, pretiōsum adj
 prīscus, prīsca, prīscum adj nocmp
 prīstinus, prīstina, prīstinum adj nocmp

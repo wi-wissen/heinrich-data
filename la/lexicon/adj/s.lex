@@ -8,6 +8,7 @@ sānus, sāna, sānum adj adv
 sapiēns, sapientis adj adv
 sēcūrus, sēcūra, sēcūrum adj
 sēgnis, sēgne adj conf=75 note=length of the e
+sempiternus, sempiterna, sempiternum adj nocmp
 serēnus, serēna, serēnum adj
 sērus, sēra, sērum adj
 sevērus, sevēra, sevērum adj adv

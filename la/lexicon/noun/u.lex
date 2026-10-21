@@ -1,5 +1,6 @@
 # Latin noun entries, letter u: own data, written clean-room (la/lexicon/AUTHORING.md)
 ulcus, ulceris noun n
+ultiō, ultiōnis noun f
 umbra, umbrae noun f
 umerus, umerī noun m
 ūmor, ūmōris noun m conf=85 note=length of the initial u

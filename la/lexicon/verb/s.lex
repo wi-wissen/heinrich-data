@@ -8,6 +8,7 @@ scrībō, scrīpsī, scrīptum, scrībere verb
 secō, secuī, sectum, secāre verb
 sedeō, sēdī, sessum, sedēre verb intr
 sentiō, sēnsī, sēnsum, sentīre verb
+sēparō, sēparāvī, sēparātum, sēparāre verb
 sepeliō, sepelīvī|sepeliī, sepultum, sepelīre verb
 sequor, secūtus sum, sequī verb note=no long vowel in the lemma
 serō, sēvī, satum, serere verb sense=sow
@@ -28,7 +29,7 @@ spērō, spērāvī, spērātum, spērāre verb
 spoliō, spoliāvī, spoliātum, spoliāre verb
 statuō, statuī, statūtum, statuere verb
 sternō, strāvī, strātum, sternere verb
-stō, stetī, statūrus, stāre verb intr
+stō, stetī, stātūrus, stāre verb intr conf=85 note=long a in the future participle
 stringō, strīnxī, strictum, stringere verb
 struō, strūxī, strūctum, struere verb
 studeō, studuī, -, studēre verb intr

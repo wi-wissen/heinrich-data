@@ -1,5 +1,6 @@
 # Latin noun entries, letter t: own data, written clean-room (la/lexicon/AUTHORING.md)
 tabella, tabellae noun f
+tabernāculum, tabernāculī noun n
 tabula, tabulae noun f
 taeda, taedae noun f
 taedium, taediī noun n

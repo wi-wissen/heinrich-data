@@ -12,7 +12,7 @@ vēlum, vēlī noun n
 vēna, vēnae noun f
 venēnum, venēnī noun n
 venia, veniae noun f
-venter, ventris noun m
+venter, ventris noun m stem=mixed note=gen. pl. ventrium like imber, linter
 ventus, ventī noun m
 verbum, verbī noun n
 verēcundia, verēcundiae noun f sg_only
@@ -20,9 +20,11 @@ vēritās, vēritātis noun f
 versus, versūs noun m
 vertex, verticis noun m
 vestīgium, vestīgiī noun n
+vestīmentum, vestīmentī noun n
 vestis, vestis noun f
 vetustās, vetustātis noun f
 via, viae noun f
+vicis, vicis noun f stem=cons nom_sg=- note=no nominative singular
 victor, victōris noun m
 victōria, victōriae noun f
 vīcus, vīcī noun m
@@ -38,7 +40,7 @@ virga, virgae noun f
 virgō, virginis noun f
 virtūs, virtūtis noun f
 vīs, vīs noun f class=vis
-viscus, visceris noun n
+vīscus, vīsceris noun n conf=80 note=length of the i
 vīta, vītae noun f
 vitium, vitiī noun n
 vocābulum, vocābulī noun n

@@ -38,7 +38,7 @@ polliceor, pollicitus sum, pollicērī verb note=no long vowel in the lemma
 pōnō, posuī, positum, pōnere verb
 porrigō, porrēxī, porrēctum, porrigere verb
 portō, portāvī, portātum, portāre verb
-pōscō, poposcī, -, pōscere verb conf=80 note=length of the o in the present (hidden quantity)
+poscō, poposcī, -, poscere verb conf=85 note=hidden quantity of the o, decided short
 possideō, possēdī, possessum, possidēre verb
 postulō, postulāvī, postulātum, postulāre verb
 praebeō, praebuī, praebitum, praebēre verb

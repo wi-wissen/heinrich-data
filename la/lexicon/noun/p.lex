@@ -1,6 +1,7 @@
 # Latin noun entries, letter p: own data, written clean-room (la/lexicon/AUTHORING.md)
 pābulum, pābulī noun n
 pactum, pactī noun n
+palātium, palātiī noun n
 palma, palmae noun f
 palūs, palūdis noun f
 pānis, pānis noun m stem=cons
@@ -79,6 +80,7 @@ prex, precis noun f
 prīnceps, prīncipis noun m
 prīncipātus, prīncipātūs noun m
 prīncipium, prīncipiī noun n
+probitās, probitātis noun f sg_only
 procella, procellae noun f
 procerēs, procerum noun m pl_only
 prōcōnsul, prōcōnsulis noun m
@@ -87,6 +89,8 @@ prōditiō, prōditiōnis noun f
 proelium, proeliī noun n
 prōlēs, prōlis noun f
 prōmissum, prōmissī noun n
+prōpositiō, prōpositiōnis noun f
+proprietās, proprietātis noun f
 prōvincia, prōvinciae noun f
 prūdentia, prūdentiae noun f sg_only
 pūbēs, pūbis noun f
@@ -94,6 +98,7 @@ pudor, pudōris noun m
 puella, puellae noun f
 puer, puerī noun m
 pugna, pugnae noun f
+pulchritūdō, pulchritūdinis noun f sg_only
 pullus, pullī noun m
 pulvis, pulveris noun m
 puppis, puppis noun f stem=i

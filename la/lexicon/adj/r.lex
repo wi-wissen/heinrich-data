@@ -10,5 +10,6 @@ repentīnus, repentīna, repentīnum adj nocmp
 rīdiculus, rīdicula, rīdiculum adj
 Rōmānus, Rōmāna, Rōmānum adj nocmp note=capitalised adjective of a proper name
 rotundus, rotunda, rotundum adj
+ruber, rubra, rubrum adj
 rudis, rude adj
 rūsticus, rūstica, rūsticum adj

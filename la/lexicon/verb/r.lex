@@ -29,7 +29,7 @@ reprehendō, reprehendī, reprehēnsum, reprehendere verb
 requīrō, requīsīvī|requīsiī, requīsītum, requīrere verb
 resistō, restitī, -, resistere verb intr
 respiciō, respexī, respectum, respicere verb
-respondeō, respondī, respōnsum, respondēre verb
+respondeō, respondī, respōnsum, respondēre verb intr
 restituō, restituī, restitūtum, restituere verb
 restō, restitī, -, restāre verb intr
 retineō, retinuī, retentum, retinēre verb
