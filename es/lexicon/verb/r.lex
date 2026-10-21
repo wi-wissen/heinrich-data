@@ -141,6 +141,7 @@ reelegir verb class=i
 reembarcar verb
 reembolsar verb
 reemplazar verb var=remplazar
+reemprender verb
 reencarnar verb
 reencontrar verb class=ue
 reenganchar verb
@@ -246,6 +247,7 @@ remediar verb class=diphthong
 rememorar verb
 remendar verb class=ie
 remeter verb
+remezclar verb
 remitir verb
 remodelar verb
 remojar verb
@@ -319,6 +321,7 @@ reseñar verb
 reservar verb
 resfriar verb class=hiatus
 resguardar verb
+residenciar verb class=diphthong
 residir verb
 resignar verb
 resistir verb
@@ -327,6 +330,7 @@ resolver verb class=ue pp=resuelto
 resonar verb class=ue
 resoplar verb
 respaldar verb
+respectar verb defective=fin|inf|ger|3 note=only 3rd person in use: en lo que respecta a
 respetar verb
 respingar verb
 respirar verb
@@ -351,6 +355,7 @@ retardar verb
 retemblar verb class=ie
 retener verb class=tener
 retirar verb
+retitular verb
 retocar verb
 retomar verb
 retorcer verb class=ue

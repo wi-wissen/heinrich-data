@@ -1,6 +1,7 @@
 # Spanish noun entries, letter q. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 quark noun g=m pl=quarks
 quásar noun g=m pl=quásares
+quebracho noun g=m
 quebrada noun g=f
 quebradero noun g=m note=quebradero de cabeza
 quebrantamiento noun g=m
@@ -26,10 +27,12 @@ querubín noun g=m
 quesadilla noun g=f
 quesería noun g=f
 queso noun g=m
+quetzal noun g=m
 quicio noun g=m
 quid noun g=m pl=- note=only singular: el quid de la cuestión
 quiebra noun g=f
 quiebro noun g=m
+quietismo noun g=m
 quietud noun g=f
 quijada noun g=f
 quijote noun g=m
@@ -38,14 +41,17 @@ quilla noun g=f
 quimera noun g=f
 química noun g=f
 químico noun g=m f=química
+quimiotaxis noun g=f
 quimioterapia noun g=f
 quina noun g=f
+quinasa noun g=f
 quincalla noun g=f
 quinceañero noun g=m f=quinceañera
 quincena noun g=f
 quiniela noun g=f
 quinina noun g=f
 quinoa noun g=f var=quinua conf=80
+quinolona noun g=f
 quinqué noun g=m
 quinquenio noun g=m
 quinta noun g=f

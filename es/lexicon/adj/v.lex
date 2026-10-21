@@ -7,6 +7,8 @@ vacunal adj
 vacuno adj
 vaginal adj
 vago adj adv=vagamente
+valdense adj
+valencianista adj
 valenciano adj
 valentón adj f=valentona
 valeroso adj adv=valerosamente
@@ -14,7 +16,9 @@ válido adj adv=válidamente
 valiente adj adv=valientemente
 valioso adj
 vallisoletano adj
+valón adj
 valorativo adj
+vampírico adj
 vandálico adj
 vanguardista adj
 vanidoso adj
@@ -22,27 +26,33 @@ vano adj adv=vanamente
 vaporoso adj
 variable adj
 variado adj
+varietal adj
 variopinto adj
 varonil adj
 vasco adj
+vascofrancés adj
+vascón adj
 vascular adj
 vasto adj
 vecinal adj
 vecino adj
 vectorial adj
+védico adj
 vegetal adj
 vegetariano adj
 vegetativo adj
-vehemente adj
+vehemente adj adv=vehementemente
 vehicular adj
 vejatorio adj
 velludo adj
 veloz adj adv=velozmente
+venal adj
 vencedor adj
 vencido adj
 veneciano adj
 venenoso adj
 venerable adj
+venéreo adj
 venezolano adj
 vengativo adj
 venidero adj
@@ -68,10 +78,11 @@ vertebrado adj
 vertebrador adj
 vertebral adj
 vertical adj adv=verticalmente
-vertiginoso adj
+vertiginoso adj adv=vertiginosamente
 vespertino adj
 vestibular adj
 vestigial adj
+veteado adj
 veterano adj
 vetusto adj
 viable adj
@@ -93,6 +104,7 @@ vil adj adv=vilmente
 vinculante adj
 vinícola adj
 vinoso adj
+vintage adj foreign inv
 violáceo adj
 violento adj adv=violentamente
 violeta adj inv
@@ -105,11 +117,14 @@ viril adj
 virreinal adj
 virtual adj adv=virtualmente
 virtuoso adj
+virulento adj
 visceral adj
 viscoso adj
 visible adj adv=visiblemente
 visigodo adj
+visigótico adj
 visionario adj
+visitable adj
 vistoso adj
 visual adj adv=visualmente
 vital adj
@@ -136,5 +151,6 @@ voluntario adj adv=voluntariamente
 voluntarioso adj
 voluptuoso adj
 voraz adj
+votivo adj
 vulgar adj adv=vulgarmente
 vulnerable adj

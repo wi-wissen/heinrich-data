@@ -1,9 +1,10 @@
 # Spanish adj entries, letter r. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 rabínico adj
 rabioso adj
+rabudo adj
 rácano adj style=colloquial alt=tacaño
 racheado adj
-racial adj
+racial adj adv=racialmente
 racional adj adv=racionalmente
 racionalista adj
 racista adj
@@ -18,6 +19,7 @@ radiofónico adj
 radiológico adj
 raído adj
 ralo adj
+rampante adj
 ramplón adj
 rancio adj
 rapaz adj
@@ -30,6 +32,7 @@ rasposo adj
 rastafari adj
 rastrero adj
 rasurado adj
+ratonero adj
 ratonil adj
 raudo adj
 rayado adj
@@ -51,10 +54,12 @@ rebozado adj
 rebuscado adj
 recalcitrante adj
 recambiable adj
+recapitulativo adj
 recargable adj
 recatado adj
 recaudatorio adj
 receloso adj
+recentralizador adj
 receptivo adj
 receptor adj
 recesivo adj
@@ -71,6 +76,7 @@ reconciliable adj
 recóndito adj
 reconfortante adj
 reconocible adj
+reconvencional adj
 recopilatorio adj
 recortado adj
 recreativo adj
@@ -86,11 +92,14 @@ recuperable adj
 recurrente adj adv=recurrentemente
 recurrible adj
 recursivo adj
+recurvo adj
 redicho adj
 redistributivo adj
 redomado adj
 redondeado adj
 redondo adj
+redox adj inv
+reduccionista adj
 reducible adj
 reducido adj
 reductor adj
@@ -116,11 +125,12 @@ regalado adj
 regalón adj f=regalona
 regañón adj f=regañona
 regenerador adj
+regimental adj
 regio adj
-regional adj
+regional adj adv=regionalmente
 regionalista adj
 registrable adj
-registral adj
+registral adj adv=registralmente
 reglamentario adj adv=reglamentariamente
 regocijante adj
 regordete adj
@@ -132,9 +142,11 @@ regulatorio adj
 rehogado adj
 reinante adj
 reincidente adj
+reintegrable adj
 reiterado adj adv=reiteradamente
 reiterativo adj
 reivindicativo adj
+reivindicatorio adj
 relacionado adj
 relacional adj
 relajado adj
@@ -147,6 +159,7 @@ religioso adj adv=religiosamente
 relleno adj
 reluciente adj
 remanente adj
+remarcable adj
 remendón adj f=remendona
 remilgado adj
 remiso adj
@@ -169,6 +182,7 @@ reparable adj
 reparador adj
 repelente adj
 repentino adj adv=repentinamente
+repercutible adj
 repetible adj
 repetido adj adv=repetidamente
 repetitivo adj
@@ -182,21 +196,24 @@ represor adj
 reprobable adj
 reprobado adj
 reprochable adj
+reproducible adj
 reproductivo adj
 reproductor adj
 reptante adj
 republicano adj
 repugnante adj
 repulsivo adj
+reputacional adj
 reputado adj
 resabido adj
 resbaladizo adj
 resbaloso adj
 rescindible adj
+rescisorio adj
 reseco adj
 resentido adj
 reseñable adj
-reservado adj
+reservado adj adv=reservadamente
 resfriado adj
 residencial adj
 residual adj
@@ -216,13 +233,16 @@ respiratorio adj
 resplandeciente adj
 responsable adj adv=responsablemente
 restante adj
+restaurativo adj
 restrictivo adj
 resucitado adj
 resuelto adj adv=resueltamente
 resultante adj
 resultón adj
 retador adj
+retenedor adj
 reticente adj
+reticulado adj
 reticular adj
 retirado adj
 retocado adj
@@ -233,15 +253,19 @@ retráctil adj
 retrasado adj
 retribuido adj
 retributivo adj
+retro adj inv
 retroactivo adj adv=retroactivamente
 retrógrado adj
 retroiluminado adj
-retrospectivo adj
+retrospectivo adj adv=retrospectivamente
 reutilizable adj
+revalorizable adj
 revelador adj
 reversible adj
 revisable adj
+revisionista adj
 revocable adj
+revocatorio adj
 revoltoso adj
 revolucionario adj
 revuelto adj
@@ -249,9 +273,9 @@ rezagado adj
 ribereño adj
 ribeteado adj
 rico adj adv=ricamente
-ridículo adj
+ridículo adj adv=ridículamente
 riesgoso adj
-rígido adj
+rígido adj adv=rígidamente
 riguroso adj adv=rigurosamente
 rimbombante adj
 riojano adj
@@ -275,7 +299,7 @@ rollizo adj
 romaní adj pl=romaníes|romanís[var]
 románico adj
 romano adj
-romántico adj
+romántico adj adv=románticamente
 romo adj
 rompedor adj
 roncador adj
@@ -285,6 +309,7 @@ roquero adj
 rosa adj pl=rosa|rosas
 rosáceo adj
 rosado adj
+rotacional adj
 rotativo adj
 rotatorio adj
 roto adj
@@ -301,9 +326,10 @@ ruinoso adj
 rumano adj
 rumbero adj
 rumboso adj
+rúnico adj
 rupestre adj
 rupturista adj
 rural adj
 ruso adj
 rústico adj
-rutinario adj
+rutinario adj adv=rutinariamente

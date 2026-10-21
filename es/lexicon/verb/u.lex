@@ -9,6 +9,7 @@ uncir verb
 ungir verb
 unificar verb
 uniformar verb
+uniformizar verb
 unir verb
 universalizar verb
 untar verb

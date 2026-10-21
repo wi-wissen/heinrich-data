@@ -13,5 +13,7 @@ quimérico adj
 químico adj adv=químicamente
 quincenal adj
 quinquenal adj
+quiral adj
 quirúrgico adj adv=quirúrgicamente
 quisquilloso adj
+quístico adj

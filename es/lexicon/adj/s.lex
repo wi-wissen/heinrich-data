@@ -23,10 +23,13 @@ salesiano adj
 saliente adj
 salinero adj
 salino adj
+salitrero adj
 salmantino adj
 salobre adj
+salomónico adj
 saltarín adj f=saltarina
 salteado adj
+saltón adj f=saltona
 saludable adj
 salvable adj
 salvadoreño adj
@@ -43,15 +46,20 @@ sangriento adj
 sanguinario adj
 sanguíneo adj
 sanguinolento adj
-sanitario adj
+sanitario adj adv=sanitariamente
 sano adj adv=sanamente
+sánscrito adj
 santanderino adj
 santo adj apoc=san
 santurrón adj f=santurrona
 sapiens adj inv foreign
-sarcástico adj
+sarcástico adj adv=sarcásticamente
 sardinero adj
+sardo adj
+sármata adj
 sarraceno adj
+sasánida adj
+satánico adj
 satelital adj
 satinado adj
 satírico adj
@@ -59,6 +67,7 @@ satisfactorio adj adv=satisfactoriamente
 satisfecho adj
 saturado adj
 saudí adj pl=saudíes|saudís[var]
+saudita adj note=accepted, but saudí is the usual form in Spain
 sazonado adj
 secante adj
 seccional adj
@@ -69,7 +78,7 @@ sectario adj
 sectorial adj
 secuencial adj adv=secuencialmente
 secular adj
-secundario adj
+secundario adj adv=secundariamente
 sedentario adj
 sedente adj
 sedicioso adj
@@ -80,6 +89,7 @@ seductor adj
 sefardí adj pl=sefardíes|sefardís[var]
 seglar adj
 segoviano adj
+segregador adj
 seguido adj adv=seguidamente
 seguro adj adv=seguramente
 seleccionable adj
@@ -94,12 +104,20 @@ semejante adj
 semestral adj adv=semestralmente
 semiárido adj
 semiautomático adj
+semicálido adj
 semicircular adj
 semidesnatado adj
+semielaborado adj
+semiesférico adj
 seminal adj
+semipesado adj
 semipresencial adj
 semiprofesional adj
+semirrígido adj
+semiseco adj
 semita adj
+semítico adj
+semoviente adj
 sempiterno adj
 senatorial adj
 sencillo adj adv=sencillamente
@@ -118,17 +136,23 @@ sentenciador adj
 sentencioso adj
 sentido adj
 sentimental adj adv=sentimentalmente
+señalado adj adv=señaladamente
 señorial adj
+señoril adj
 separable adj
 separado adj adv=separadamente
 separatista adj
+separativo adj
 septentrional adj
 séptico adj
 sepulcral adj
 serbio adj
-sereno adj
+serbocroata adj
+sereno adj adv=serenamente
+seriado adj
 serial adj
 serio adj adv=seriamente
+serológico adj
 serrano adj
 servicial adj
 servil adj
@@ -142,51 +166,63 @@ sexista adj
 sexual adj adv=sexualmente
 sexy adj foreign inv
 siberiano adj
+sibilante adj
 siciliano adj
 sideral adj
 siderúrgico adj
+siempreverde adj
 sigiloso adj adv=sigilosamente
 significativo adj adv=significativamente
 siguiente adj
+sij adj pl=sijs conf=75 note=plural rare
 silencioso adj adv=silenciosamente
 silvestre adj
+silvícola adj
+simbiótico adj
 simbólico adj adv=simbólicamente
 simbolista adj
-simétrico adj
+simétrico adj adv=simétricamente
 simiesco adj
-similar adj
+similar adj adv=similarmente
 simpático adj
 simple adj adv=simplemente
 simplista adj
 simplón adj f=simplona
 simultáneo adj adv=simultáneamente
 sincero adj adv=sinceramente
+sincrónico adj
 sindicado adj
 sindical adj
 sinfónico adj
 singular adj adv=singularmente
+siniestrado adj
 siniestro adj
 sinónimo adj
 sinóptico adj
 sintáctico adj
 sintético adj
+sintiente adj
+sintoísta adj
 sintomático adj
 sinuoso adj
 sinvergüenza adj
 sionista adj
+siríaco adj var=siriaco
 sirio adj
 sísmico adj
 sistemático adj adv=sistemáticamente
 sistémico adj
+situacional adj
 situado adj
 sobado adj
 soberanista adj
-soberano adj
+soberano adj adv=soberanamente
 soberbio adj
 sobón adj f=sobona style=colloquial alt=pegajoso
 sobrado adj adv=sobradamente
 sobrante adj
 sobrecogedor adj
+sobredorado adj
 sobrehumano adj
 sobrenatural adj
 sobresaliente adj
@@ -206,6 +242,7 @@ sociolaboral adj
 sociológico adj
 sociopolítico adj
 sociosanitario adj
+sódico adj
 soez adj
 sofisticado adj
 sofocado adj
@@ -224,10 +261,13 @@ soltero adj
 soluble adj
 solvente adj
 somalí adj pl=somalíes|somalís[var]
+somático adj
 sombrío adj
 somero adj adv=someramente
 sonado adj
 sonámbulo adj
+sonante adj
+sónico adj
 sonoro adj
 sonriente adj
 sonrosado adj
@@ -236,7 +276,7 @@ soñoliento adj
 soporífero adj
 soportable adj
 sórdido adj
-sordo adj
+sordo adj adv=sordamente
 sordociego adj
 sordomudo adj
 sorprendente adj adv=sorprendentemente
@@ -249,26 +289,36 @@ sostenible adj adv=sosteniblemente
 sostenido adj adv=sostenidamente
 soterrado adj
 soviético adj
+suabo adj
 suave adj adv=suavemente
 subacuático adj
 subalterno adj
+subaracnoideo adj
 subconsciente adj
+subcutáneo adj
+subgigante adj
+subhúmedo adj
 súbito adj adv=súbitamente
 subjetivo adj adv=subjetivamente
 sublime adj
 subliminal adj
 submarino adj
+subnacional adj
 subordinado adj
+subrepticio adj adv=subrepticiamente
+subrogante adj
 subsahariano adj
 subsanable adj
 subsecuente adj adv=subsecuentemente
 subsidiario adj adv=subsidiariamente
 subsiguiente adj
 subsistente adj
+subsónico adj
 subterráneo adj
 subtropical adj
 suburbano adj
 subvencionable adj
+subvencional adj
 subversivo adj
 subyacente adj
 sucedáneo adj
@@ -280,9 +330,12 @@ suculento adj
 sudafricano adj
 sudamericano adj
 sudanés adj
+sudoccidental adj
+sudoriental adj
 sudoroso adj
 sueco adj
 suelto adj
+suevo adj
 sufí adj pl=sufíes|sufís[var]
 suficiente adj adv=suficientemente
 sufragáneo adj
@@ -299,35 +352,43 @@ sumerio adj
 sumiso adj
 sumo adj adv=sumamente
 suní adj pl=suníes|sunís[var]
+sunita adj
 suntuoso adj
 súper adj inv conf=80
 superdotado adj
 superficial adj adv=superficialmente
 superfluo adj
+supergigante adj
 superior adj
 superlativo adj
 supernumerario adj
 supersónico adj
 supersticioso adj
+supérstite adj
 superviviente adj
 supino adj
 suplementario adj
 supletorio adj adv=supletoriamente
 suplicante adj
+supraautonómico adj
+supracomunitario adj
 supramunicipal adj
 supranacional adj
+suprarrenal adj
+supraterritorial adj
 supremacista adj
 supremo adj
 supuesto adj adv=supuestamente
 surcoreano adj
 sureño adj
 suroccidental adj
+suroriental adj
 surrealista adj
 susceptible adj
 susodicho adj
 suspensivo adj
 suspicaz adj
-sustancial adj adv=sustancialmente
+sustancial adj adv=sustancialmente var=substancial
 sustancioso adj
 sustantivo adj
 sustentable adj

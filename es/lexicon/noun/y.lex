@@ -17,12 +17,15 @@ yihad noun g=f
 yihadismo noun g=m
 yihadista noun g=m|f
 yodo noun g=m
+yoduro noun g=m
 yoga noun g=m pl=- note=uncountable
 yogur noun g=m pl=yogures
 yogurtera noun g=f
+yuan noun g=m pl=yuanes
 yuca noun g=f
 yugo noun g=m
 yugular noun g=f
 yunque noun g=m
 yunta noun g=f
+yute noun g=m
 yuxtaposición noun g=f

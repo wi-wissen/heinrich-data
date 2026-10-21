@@ -26,6 +26,7 @@ vaivén noun g=m
 vajilla noun g=f
 vale noun g=m sense=voucher
 valedor noun g=m f=valedora
+valencia noun g=f
 valentía noun g=f
 valeriana noun g=f
 valía noun g=f
@@ -34,16 +35,20 @@ validez noun g=f
 valido noun g=m note=the royal favourite; homograph of the participle of valer
 valiente noun g=m|f
 valija noun g=f
+valimiento noun g=m
 valla noun g=f
 vallado noun g=m
 valle noun g=m
+vallenato noun g=m
 valor noun g=m
 valoración noun g=f
 valorización noun g=f
 vals noun g=m pl=valses
 valva noun g=f
 válvula noun g=f
-vampiro noun g=m f=vampiresa conf=80 note=vampiresa is also femme fatale
+vampiresa noun g=f note=femme fatale
+vampirismo noun g=m
+vampiro noun g=m f=vampira
 vanadio noun g=m
 vandalismo noun g=m
 vándalo noun g=m f=vándala
@@ -57,6 +62,7 @@ vaquero noun g=m f=vaquera
 vaqueros noun g=m pl_only sense=jeans note=los vaqueros: jeans
 vaquilla noun g=f
 vara noun g=f
+varal noun g=m
 varapalo noun g=m
 variabilidad noun g=f
 variable noun g=f
@@ -70,10 +76,12 @@ varita noun g=f
 varón noun g=m
 vasallaje noun g=m
 vasallo noun g=m f=vasalla
+vascuence noun g=m
 vasectomía noun g=f
 vasija noun g=f
 vaso noun g=m
 vástago noun g=m
+vate noun g=m
 vaticinio noun g=m
 vatio noun g=m
 vecindad noun g=f
@@ -81,6 +89,7 @@ vecindario noun g=m
 vecino noun g=m f=vecina
 vector noun g=m
 vedette noun g=f foreign pl=vedettes
+veedor noun g=m f=veedora
 vega noun g=f
 vegetación noun g=f
 vegetal noun g=m
@@ -108,6 +117,8 @@ velocímetro noun g=m
 velocípedo noun g=m
 velocista noun g=m|f
 velódromo noun g=m
+velón noun g=m
+velorio noun g=m
 vena noun g=f
 venado noun g=m
 vencedor noun g=m f=vencedora
@@ -125,11 +136,14 @@ venganza noun g=f
 venia noun g=f
 venta noun g=f
 ventaja noun g=f
+ventajismo noun g=m
 ventana noun g=f
 ventanal noun g=m
 ventanilla noun g=f
+ventanillo noun g=m
 ventanuco noun g=m
 ventarrón noun g=m
+venteo noun g=m
 ventero noun g=m f=ventera
 ventilación noun g=f
 ventilador noun g=m
@@ -140,6 +154,7 @@ ventosidad noun g=f
 ventrículo noun g=m
 ventrílocuo noun g=m f=ventrílocua
 ventura noun g=f
+vera noun g=f note=a la vera de
 veracidad noun g=f
 veraneante noun g=m|f
 veranillo noun g=m
@@ -147,6 +162,8 @@ verano noun g=m
 veras noun g=f pl_only note=only in de veras
 verbena noun g=f
 verbo noun g=m
+verborrea noun g=f
+verbosidad noun g=f
 verdad noun g=f
 verdolaga noun g=f
 verdor noun g=m
@@ -168,12 +185,14 @@ verruga noun g=f
 versalita noun g=f
 versatilidad noun g=f
 versículo noun g=m
+versificación noun g=f
 versión noun g=f
 verso noun g=m
 vértebra noun g=f
 vertebración noun g=f
 vertebrado noun g=m
 vertedero noun g=m
+verticalidad noun g=f
 vértice noun g=m
 vertido noun g=m
 vertiente noun g=f
@@ -192,22 +211,28 @@ veto noun g=m
 vez noun g=f
 vía noun g=f
 viabilidad noun g=f
+viacrucis noun g=m
 viaducto noun g=m
 viajante noun g=m|f
 viaje noun g=m
 viajero noun g=m f=viajera
 vialidad noun g=f
 vianda noun g=f
+viandante noun g=m|f
 víbora noun g=f
 vibración noun g=f
 vibrador noun g=m
 vibráfono noun g=m
+vibrato noun g=m
 vicaría noun g=f
 vicariato noun g=m
 vicario noun g=m
 vicealcalde noun g=m f=vicealcaldesa
 vicealmirante noun g=m|f
+vicecampeón noun g=m f=vicecampeona
+vicecónsul noun g=m|f
 vicegobernador noun g=m f=vicegobernadora
+viceministerio noun g=m
 viceministro noun g=m f=viceministra
 vicepresidencia noun g=f
 vicepresidente noun g=m f=vicepresidenta
@@ -223,6 +248,7 @@ vid noun g=f
 vida noun g=f
 vidente noun g=m|f
 vídeo noun g=m var=video
+videoarte noun g=m
 videocámara noun g=f
 videoclip noun g=m pl=videoclips
 videoclub noun g=m pl=videoclubes|videoclubs[var]
@@ -230,8 +256,10 @@ videoconferencia noun g=f
 videoconsola noun g=f
 videojuego noun g=m
 videovigilancia noun g=f
+vidriado noun g=m
 vidriera noun g=f
 vidrio noun g=m
+vieira noun g=f
 viejo noun g=m f=vieja
 viento noun g=m
 vientre noun g=m
@@ -246,9 +274,11 @@ vigor noun g=m
 vigueta noun g=f
 vihuela noun g=f
 vikingo noun g=m f=vikinga
+vilano noun g=m
 vileza noun g=f
 villa noun g=f
 villancico noun g=m
+villanía noun g=f
 villano noun g=m f=villana
 vilo noun g=m note=only in en vilo
 vinagre noun g=m
@@ -298,6 +328,7 @@ visibilidad noun g=f
 visibilización noun g=f
 visillo noun g=m
 visión noun g=f
+visionado noun g=m
 visionario noun g=m f=visionaria
 visir noun g=m
 visita noun g=f
@@ -314,6 +345,7 @@ vitalidad noun g=f
 vitamina noun g=f
 viticultor noun g=m f=viticultora
 viticultura noun g=f
+vitivinicultura noun g=f
 vítor noun g=m
 vitral noun g=m
 vitrina noun g=f
@@ -339,6 +371,7 @@ vocal noun g=m|f sense=member note=el/la vocal: member of a board
 vocalía noun g=f
 vocalista noun g=m|f
 vocalización noun g=f
+vocativo noun g=m
 vocerío noun g=m
 vocero noun g=m f=vocera
 vodevil noun g=m
@@ -351,16 +384,20 @@ volante noun g=m
 volantín noun g=m
 volatilidad noun g=f
 volcán noun g=m
+volea noun g=f
 voleibol noun g=m
+vóley noun g=m pl=- note=sport, uncountable
 volframio noun g=m var=wolframio
 voltaje noun g=m
 voltereta noun g=f
 voltio noun g=m
 volumen noun g=m
+volumetría noun g=f
 voluntad noun g=f
 voluntariado noun g=m
 voluntariedad noun g=f
 voluntario noun g=m f=voluntaria
+voluntarismo noun g=m
 voluptuosidad noun g=f
 voluta noun g=f
 vómito noun g=m

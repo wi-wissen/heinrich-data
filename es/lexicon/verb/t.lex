@@ -22,11 +22,14 @@ tardar verb
 tartamudear verb
 tasar verb
 tatuar verb
+techar verb
 teclear verb
 tejer verb
 teledirigir verb
 telefonear verb
 telegrafiar verb class=hiatus
+teletrabajar verb
+teletransportar verb
 televisar verb
 temblar verb class=ie
 temer verb
@@ -85,20 +88,22 @@ tramar verb
 tramitar verb
 trancar verb
 tranquilizar verb
+transaccionar verb
 transbordar verb var=trasbordar
 transcribir verb pp=transcrito var=trascribir
-transcurrir verb
-transferir verb class=ie_i
+transcurrir verb var=trascurrir
+transferir verb class=ie_i var=trasferir
 transfigurar verb
-transformar verb
+transformar verb var=trasformar
 transgredir verb
 transigir verb
 transitar verb
+transliterar verb
 translucir verb class=zco var=traslucir
-transmitir verb
+transmitir verb var=trasmitir
 transparentar verb
 transpirar verb
-transportar verb
+transportar verb var=trasportar
 trascender verb class=ie var=transcender
 trasegar verb class=ie
 trasladar verb
@@ -138,6 +143,7 @@ tronchar verb
 tropezar verb class=ie
 trotar verb
 truncar verb
+tuitear verb
 tumbar verb
 tundir verb
 turbar verb
