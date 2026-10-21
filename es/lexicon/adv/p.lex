@@ -1,0 +1,2 @@
+# Spanish lexicon: adverbs in p- (m-p author). Own data, written clean-room.
+pronto       adv
