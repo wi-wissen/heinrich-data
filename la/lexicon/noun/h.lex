@@ -1,21 +1,33 @@
 # Latin noun entries, letter h (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
 habēna, habēnae noun f
+habitātor, habitātōris noun m
+haedus, haedī noun m
+hāmus, hāmī noun m
 harēna, harēnae noun f var=arēna
 harundō, harundinis noun f
 haruspex, haruspicis noun m
 hasta, hastae noun f
+hastīle, hastīlis noun n
+hedera, hederae noun f
+hēmīna, hēmīnae noun f
 herba, herbae noun f
 hērēditās, hērēditātis noun f
 hērēs, hērēdis noun c
 hiātus, hiātūs noun m
 hīberna, hībernōrum noun n pl_only
 hiems, hiemis noun f
+hircus, hircī noun m
 historia, historiae noun f
+histriō, histriōnis noun m
+homicīda, homicīdae noun c
+homicīdium, homicīdiī noun n
 homō, hominis noun m
 honestās, honestātis noun f
 honor, honōris noun m nom_sg=honor|honōs
 hōra, hōrae noun f
 hordeum, hordeī noun n
+horreum, horreī noun n
+horror, horrōris noun m
 hortus, hortī noun m
 hospes, hospitis noun m
 hospitium, hospitiī noun n
