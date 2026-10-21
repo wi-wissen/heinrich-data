@@ -5,7 +5,7 @@ Campānia, Campāniae propn f
 Cannae, Cannārum propn f pl_only loc
 Capitōlium, Capitōliī propn n
 Capua, Capuae propn f loc
-Carnutēs, Carnutum propn m pl_only
+Carnūtēs, Carnūtum propn m pl_only conf=70 note=reviewer-dispute; Celtic name, length of the u?
 Carthāgō, Carthāginis propn f loc var=Karthāgō
 Cassius, Cassiī propn m
 Cassivellaunus, Cassivellaunī propn m
@@ -17,7 +17,7 @@ Catulus, Catulī propn m
 Catuvolcus, Catuvolcī propn m
 Celtae, Celtārum propn m pl_only
 Cēnabum, Cēnabī propn n loc conf=75 note=length of the e?
-Cenomanī, Cenomanōrum propn m pl_only
+Cenomānī, Cenomānōrum propn m pl_only conf=70 note=reviewer-dispute; Celtic name, length of the a?
 Cerēs, Cereris propn f
 Chrīstus, Chrīstī propn m
 Cicerō, Cicerōnis propn m

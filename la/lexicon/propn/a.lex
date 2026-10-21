@@ -20,7 +20,7 @@ Apollō, Apollinis propn m
 Aquītānī, Aquītānōrum propn m pl_only
 Aquītānia, Aquītāniae propn f
 Arar, Araris propn m stem=i abl_sg=Ararī|Arare
-Arduenna, Arduennae propn f
+Arduenna, Arduennae propn f conf=70 note=Celtic name, lengths uncertain
 Ariovistus, Ariovistī propn m
 Arvernī, Arvernōrum propn m pl_only
 Ascanius, Ascaniī propn m
@@ -28,7 +28,7 @@ Asia, Asiae propn f
 Athēnae, Athēnārum propn f pl_only loc
 Atrebatēs, Atrebatum propn m pl_only
 Atticus, Atticī propn m
-Atuatuca, Atuatucae propn f loc
+Atuatuca, Atuatucae propn f loc conf=70 note=Celtic name, lengths uncertain
 Augustus, Augustī propn m
 Aulercī, Aulercōrum propn m pl_only
-Avaricum, Avaricī propn n loc
+Avāricum, Avāricī propn n loc conf=70 note=reviewer-dispute; Celtic name, length of the a?
