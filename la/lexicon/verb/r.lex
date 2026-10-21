@@ -33,7 +33,7 @@ respondeō, respondī, respōnsum, respondēre verb intr
 restituō, restituī, restitūtum, restituere verb
 restō, restitī, -, restāre verb intr
 retineō, retinuī, retentum, retinēre verb
-revertor, reversus sum, revertī verb conf=90 note=the active perfect revertī is the usual perfect
+revertor, reversus sum, revertī verb intr perf=revertī note=no long vowel in the lemma
 revocō, revocāvī, revocātum, revocāre verb
 rīdeō, rīsī, rīsum, rīdēre verb
 rogō, rogāvī, rogātum, rogāre verb

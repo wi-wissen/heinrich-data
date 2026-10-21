@@ -18,7 +18,7 @@ significō, significāvī, significātum, significāre verb
 simulō, simulāvī, simulātum, simulāre verb
 sinō, sīvī, situm, sinere verb
 sistō, stitī, statum, sistere verb conf=85 note=perfect stitī or stetī
-soleō, solitus sum, solēre verb
+soleō, solitus sum, solēre verb intr noimp fut=- note=semi-deponent; no imperative or future participle in use
 sollicitō, sollicitāvī, sollicitātum, sollicitāre verb
 solvō, solvī, solūtum, solvere verb
 sonō, sonuī, sonitum, sonāre verb intr
