@@ -37,8 +37,37 @@ cerciorar    verb pronominal
 cerrar       verb class=ie
 certificar   verb
 cesar        verb
+chafar       verb
+chamuscar    verb
+chancear     verb
+chantajear   verb
+chapar       verb
+chapotear    verb
+chapucear    verb
+chapurrear   verb
 charlar      verb
+charlatanear verb conf=85 note=rare beside charlar
+chascar      verb
+chasquear    verb
+chatear      verb
+chequear     verb
+chiflar      verb
+chillar      verb
+chinchar     verb style=colloquial alt=fastidiar|molestar
+chirriar     verb class=hiatus
+chismorrear  verb
+chispear     verb
+chisporrotear verb
+chistar      verb
+chivar       verb style=colloquial alt=delatar
 chocar       verb
+chochear     verb
+chorrear     verb
+chotear      verb style=colloquial alt=burlar
+chulear      verb style=colloquial alt=presumir|explotar
+chupar       verb
+chupetear    verb
+chutar       verb
 cifrar       verb
 circular     verb
 circunscribir verb pp=circunscrito

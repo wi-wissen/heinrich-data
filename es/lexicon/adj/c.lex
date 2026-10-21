@@ -64,12 +64,48 @@ cercano      adj
 cerebral     adj
 cervical     adj
 cesante      adj
+chabacano    adj
+chadiano     adj
+chalado      adj style=colloquial alt=loco|chiflado
+chapado      adj
+chaparro     adj
+chapucero    adj
+chaquetero   adj style=colloquial alt=oportunista|tránsfuga
+charlatán    adj
+charro       adj
+charrúa      adj
 chárter      adj
+chato        adj
+checheno     adj
 checo        adj
+checoslovaco adj
+cheroqui     adj
+chic         adj inv
+chicano      adj
 chico        adj
+chiflado     adj
+chií         adj pl=chiíes|chiís[var]
+chiita       adj
 chileno      adj
+chillón      adj
 chino        adj
 chipriota    adj
+chiquito     adj
+chirle       adj
+chirriante   adj
+chismoso     adj
+chispeante   adj
+chistoso     adj
+chocante     adj
+choricero    adj
+chovinista   adj
+chulesco     adj
+chulo        adj style=colloquial alt=bonito|presumido|chulesco
+chumbo       adj
+chungo       adj style=colloquial alt=malo|difícil|estropeado
+chupado      adj style=colloquial alt=fácil|delgado note=está chupado: it is easy
+churrigueresco adj
+chusco       adj
 cíclico      adj
 ciego        adj
 científico   adj adv=científicamente

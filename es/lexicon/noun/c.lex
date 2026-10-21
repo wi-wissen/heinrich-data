@@ -321,34 +321,186 @@ cesta        noun g=f
 cesto        noun g=m
 cetáceo      noun g=m
 cetro        noun g=m
+chabacanería noun g=f
+chabola      noun g=f
+chabolismo   noun g=m
+chacal       noun g=m
+chacha       noun g=f style=colloquial alt=criada|empleada_de_hogar
+chachachá    noun g=m
+cháchara     noun g=f
+chacolí      noun g=m pl=chacolís
+chacota      noun g=f
+chaflán      noun g=m
+chal         noun g=m
+chaladura    noun g=f
+chalé        noun g=m var=chalet
 chaleco      noun g=m
+chalupa      noun g=f
+chamán       noun g=m f=chamana
+chamanismo   noun g=m
+chamarilero  noun g=m f=chamarilera
+chamarra     noun g=f
+chambelán    noun g=m
+chambergo    noun g=m
+chamizo      noun g=m
+champán      noun g=m
+champaña     noun g=amb
+champiñón    noun g=m
+champú       noun g=m pl=champús
+chamusquina  noun g=f
+chanchullo   noun g=m
+chancillería noun g=f
+chancla      noun g=f
+chancleta    noun g=f
+chanclo      noun g=m
+chándal      noun g=m
 chantaje     noun g=m
+chantajista  noun g=m|f
+chantre      noun g=m
+chanza       noun g=f
 chapa        noun g=f
+chapapote    noun g=m
+chaparral    noun g=m
+chaparrón    noun g=m
+chapela      noun g=f
+chapista     noun g=m|f
+chapistería  noun g=f
+chapitel     noun g=m
+chapoteo     noun g=m
+chapucería   noun g=f
 chapuza      noun g=f
+chapuzón     noun g=m
+chaqué       noun g=m
 chaqueta     noun g=f
+chaquetilla  noun g=f
+chaquetón    noun g=m
+charada      noun g=f
+charanga     noun g=f
+charango     noun g=m
+charca       noun g=f
+charco       noun g=m
+charcutería  noun g=f
+charcutero   noun g=m f=charcutera
 charla       noun g=f
+charlatán    noun g=m f=charlatana
+charlatanería noun g=f
+charnela     noun g=f
+charol       noun g=m
+charrán      noun g=m
+charretera   noun g=f
+chascarrillo noun g=m
+chasco       noun g=m
 chasis       noun g=m
+chasquido    noun g=m
+chat         noun g=m
 chatarra     noun g=f
+chatarrero   noun g=m f=chatarrera
+chaval       noun g=m f=chavala style=colloquial alt=chico|muchacho
+chaveta      noun g=f
 checo        noun g=m f=checa
 chef         noun g=m|f pl=chefs
+chelín       noun g=m
+chelista     noun g=m|f
+chelo        noun g=m
+chepa        noun g=f style=colloquial alt=joroba
 cheque       noun g=m
+chequeo      noun g=m
+chequera     noun g=f
+chicarrón    noun g=m f=chicarrona
 chicha       noun g=f
+chicharra    noun g=f
+chicharro    noun g=m
+chicharrón   noun g=m
+chichón      noun g=m
+chicle       noun g=m
 chico        noun g=m f=chica
+chicuelo     noun g=m f=chicuela
+chifladura   noun g=f
+chiismo      noun g=m
+chiita       noun g=m|f
+chilaba      noun g=f
 chile        noun g=m
 chileno      noun g=m f=chilena
+chillido     noun g=m
 chimenea     noun g=f
+chimpancé    noun g=m
+chinche      noun g=amb
+chincheta    noun g=f
+chinchilla   noun g=f
 chino        noun g=m f=china
 chip         noun g=m
+chipirón     noun g=m
 chipriota    noun g=m|f
+chiquero     noun g=m
+chiquillería noun g=f
 chiquillo    noun g=m f=chiquilla
+chiquitín    noun g=m f=chiquitina
+chirigota    noun g=f
+chirimbolo   noun g=m
+chirimía     noun g=f
+chirimoya    noun g=f
 chiringuito  noun g=m
+chiripa      noun g=f style=colloquial alt=suerte|casualidad
+chirivía     noun g=f
+chirla       noun g=f
+chirona      noun g=f style=colloquial alt=cárcel|prisión
+chirrido     noun g=m
+chisme       noun g=m
+chismorreo   noun g=m
 chispa       noun g=f
+chispazo     noun g=m
+chisporroteo noun g=m
 chiste       noun g=m
+chistera     noun g=f
+chistorra    noun g=f
+chivatazo    noun g=m
+chivato      noun g=m f=chivata style=colloquial alt=delator|confidente
+chivo        noun g=m f=chiva
 chocolate    noun g=m
+chocolatería noun g=f
+chocolatero  noun g=m f=chocolatera
+chocolatina  noun g=f
+chófer       noun g=m|f var=chofer
+chollo       noun g=m style=colloquial alt=ganga|ocasión
+chopera      noun g=f
+chopo        noun g=m
 choque       noun g=m
 chorizo      noun g=m
+chorlito     noun g=m
+chorrada     noun g=f style=colloquial alt=tontería|bobada
 chorro       noun g=m
+chotacabras  noun g=m
+chotis       noun g=m
+choto        noun g=m f=chota
+chovinismo   noun g=m
 choza        noun g=f
+chubasco     noun g=m
+chubasquero  noun g=m
+chuche       noun g=f style=colloquial alt=golosina|chuchería
+chuchería    noun g=f
+chucho       noun g=m f=chucha style=colloquial alt=perro
+chucrut      noun g=m
+chufa        noun g=f
+chulapo      noun g=m f=chulapa
+chulería     noun g=f
+chuleta      noun g=f
+chuletón     noun g=m
+chumbera     noun g=f
+chupa        noun g=f style=colloquial alt=cazadora
+chupada      noun g=f
+chupatintas  noun g=m|f style=colloquial alt=oficinista
+chupete      noun g=m
+chupetón     noun g=m
+chupito      noun g=m
+chupóptero   noun g=m f=chupóptera style=colloquial alt=parásito|aprovechado
+churrasco    noun g=m
+churrería    noun g=f
+churrero     noun g=m f=churrera
+churro       noun g=m
+churumbel    noun g=m style=colloquial alt=niño|crío
+chusma       noun g=f
+chut         noun g=m
+chuzo        noun g=m
 ciberseguridad noun g=f
 cicatriz     noun g=f
 ciclismo     noun g=m

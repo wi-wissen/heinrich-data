@@ -2,3 +2,7 @@
 
 caramba      intj
 caray        intj
+chao         intj style=colloquial alt=adiós
+chapó        intj
+chinchín     intj
+chitón       intj
