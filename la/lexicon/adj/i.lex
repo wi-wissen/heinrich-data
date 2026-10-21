@@ -8,7 +8,7 @@ immānis, immāne adj
 immemor, immemoris adj stem=cons nocmp
 immēnsus, immēnsa, immēnsum adj
 immortālis, immortāle adj nocmp
-impār, imparis adj nocmp
+impar, imparis adj nocmp conf=85 note=final a of the compound short like exemplar, against the monosyllable pār; open question with dispar (a-d)
 impiger, impigra, impigrum adj adv
 impius, impia, impium adj adv
 improbus, improba, improbum adj adv
