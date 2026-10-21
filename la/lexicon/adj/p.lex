@@ -44,7 +44,7 @@ prōcērus, prōcēra, prōcērum adj
 profānus, profāna, profānum adj nocmp conf=85 note=length of the o
 profugus, profuga, profugum adj nocmp
 profundus, profunda, profundum adj
-prōfūsus, prōfūsa, prōfūsum adj
+profūsus, profūsa, profūsum adj conf=90 note=prefix pro- short before f
 prōlixus, prōlixa, prōlixum adj
 prōmptus, prōmpta, prōmptum adj
 prōnus, prōna, prōnum adj

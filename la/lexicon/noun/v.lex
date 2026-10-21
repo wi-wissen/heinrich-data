@@ -25,7 +25,7 @@ verēcundia, verēcundiae noun f sg_only
 vēritās, vēritātis noun f
 versus, versūs noun m
 vertex, verticis noun m
-vesīca, vesīcae noun f
+vēsīca, vēsīcae noun f conf=80 note=reviewer-dispute
 vespera, vesperae noun f
 vestibulum, vestibulī noun n
 vestīgium, vestīgiī noun n
@@ -33,7 +33,7 @@ vestīmentum, vestīmentī noun n
 vestis, vestis noun f
 veterānus, veterānī noun m
 vetustās, vetustātis noun f
-vexillum, vexillī noun n
+vēxillum, vēxillī noun n conf=80 note=reviewer-dispute; hidden quantity
 via, viae noun f
 viātor, viātōris noun m
 vicis, vicis noun f stem=cons nom_sg=- note=no nominative singular
@@ -41,7 +41,7 @@ victima, victimae noun f
 victor, victōris noun m
 victōria, victōriae noun f
 vīcus, vīcī noun m
-vīdua, vīduae noun f conf=80 note=length of the i
+vidua, viduae noun f conf=85 note=reviewer-dispute
 vigil, vigilis noun m
 vigilia, vigiliae noun f
 vigor, vigōris noun m

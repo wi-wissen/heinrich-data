@@ -83,8 +83,8 @@ piscīna, piscīnae noun f
 piscis, piscis noun m
 pix, picis noun f
 plaga, plagae noun f conf=80 note=plaga (region, net); the noun 'blow' (long a?) is not written
-planctus, planctūs noun m
-planitiēs, planitiēī noun f sg_only
+plānctus, plānctūs noun m
+plānitiēs, plānitiēī noun f sg_only
 planta, plantae noun f
 platanus, platanī noun f
 plaustrum, plaustrī noun n
@@ -136,7 +136,7 @@ praetūra, praetūrae noun f
 prātum, prātī noun n
 pretium, pretiī noun n
 prex, precis noun f
-prīmordium, prīmordiī noun n
+prīmōrdium, prīmōrdiī noun n
 prīmōrēs, prīmōrum noun m pl_only
 prīnceps, prīncipis noun m
 prīncipātus, prīncipātūs noun m
@@ -148,7 +148,7 @@ probrum, probrī noun n
 procella, procellae noun f
 procerēs, procerum noun m pl_only
 prōcōnsul, prōcōnsulis noun m
-procūrātor, procūrātōris noun m
+prōcūrātor, prōcūrātōris noun m
 procus, procī noun m
 prōdigium, prōdigiī noun n
 prōditiō, prōditiōnis noun f
@@ -180,7 +180,7 @@ pullus, pullī noun m
 pulmō, pulmōnis noun m
 pulvis, pulveris noun m
 pūnctum, pūnctī noun n
-pupillus, pupillī noun m
+pūpillus, pūpillī noun m
 puppis, puppis noun f stem=i
 purpura, purpurae noun f
 pūs, pūris noun n sg_only

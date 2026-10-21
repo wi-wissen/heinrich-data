@@ -18,7 +18,7 @@ Tiberis, Tiberis propn m stem=i
 Tiberius, Tiberiī propn m
 Tibullus, Tibullī propn m
 Titus, Titī propn m
-Treverī, Treverōrum propn m pl_only
+Trēverī, Trēverōrum propn m pl_only conf=80 note=reviewer-dispute
 Trōia, Trōiae propn f loc
 Tullia, Tulliae propn f
 Tullius, Tulliī propn m

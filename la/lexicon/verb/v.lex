@@ -16,7 +16,7 @@ vereor, veritus sum, verērī verb note=no long vowel in the lemma
 vergō, -, -, vergere verb intr
 versor, versātus sum, versārī verb note=no long vowel in the lemma
 vertō, vertī, versum, vertere verb
-vescor, -, vescī verb note=no long vowel in the lemma; no perfect
+vēscor, -, vēscī verb conf=75 note=reviewer-dispute; no perfect
 vestiō, vestīvī, vestītum, vestīre verb
 vetō, vetuī, vetitum, vetāre verb
 vexō, vexāvī, vexātum, vexāre verb

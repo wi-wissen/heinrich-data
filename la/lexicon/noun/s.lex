@@ -21,7 +21,7 @@ sarmentum, sarmentī noun n
 satelles, satellitis noun c
 satietās, satietātis noun f sg_only
 saxum, saxī noun n
-scābiēs, scābiēī noun f sg_only conf=80 note=length of the a
+scabiēs, scabiēī noun f sg_only
 scaena, scaenae noun f
 scālae, scālārum noun f pl_only
 scalpellum, scalpellī noun n

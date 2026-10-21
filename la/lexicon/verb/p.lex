@@ -30,7 +30,7 @@ perferō, pertulī, perlātum, perferre verb class=fero
 perficiō, perfēcī, perfectum, perficere verb
 perfundō, perfūdī, perfūsum, perfundere verb
 pergō, perrēxī, perrēctum, pergere verb intr
-perimō, perēmī, peremptum, perimere verb
+perimō, perēmī, perēmptum, perimere verb
 permaneō, permānsī, permānsum, permanēre verb intr
 permisceō, permiscuī, permixtum, permiscēre verb
 permittō, permīsī, permissum, permittere verb
@@ -93,8 +93,8 @@ prōdūcō, prōdūxī, prōductum, prōdūcere verb imp=prōdūc
 prōferō, prōtulī, prōlātum, prōferre verb class=fero
 proficīscor, profectus sum, proficīscī verb
 profiteor, professus sum, profitērī verb note=no long vowel in the lemma
-prōfugiō, prōfūgī, -, prōfugere verb intr
-prōfundō, prōfūdī, prōfūsum, prōfundere verb
+profugiō, profūgī, -, profugere verb intr conf=90 note=prefix pro- short before f, as in profugus and proficīscor
+profundō, profūdī, profūsum, profundere verb conf=90 note=prefix pro- short before f, as in profundus
 prōgredior, prōgressus sum, prōgredī verb
 prohibeō, prohibuī, prohibitum, prohibēre verb
 prōiciō, prōiēcī, prōiectum, prōicere verb

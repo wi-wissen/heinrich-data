@@ -8,7 +8,7 @@ sānctus, sāncta, sānctum adj adv
 sanguineus, sanguinea, sanguineum adj nocmp
 sānus, sāna, sānum adj adv
 sapiēns, sapientis adj adv
-Saturnius, Saturnia, Saturnium adj nocmp
+Sāturnius, Sāturnia, Sāturnium adj nocmp
 scaber, scabra, scabrum adj
 scelerātus, scelerāta, scelerātum adj
 scelestus, scelesta, scelestum adj

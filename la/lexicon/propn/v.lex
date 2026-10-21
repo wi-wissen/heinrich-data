@@ -1,5 +1,5 @@
 # Latin propn entries, letter v: own data, written clean-room (la/lexicon/AUTHORING.md)
-Veiī, Veiōrum propn m pl_only loc
+Vēiī, Vēiōrum propn m pl_only loc conf=80 note=reviewer-dispute
 Venetī, Venetōrum propn m pl_only
 Venus, Veneris propn f
 Vercingetorīx, Vercingetorīgis propn m

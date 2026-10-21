@@ -53,7 +53,7 @@ tribūnātus, tribūnātūs noun m
 tribūnus, tribūnī noun m
 tribus, tribūs noun f dat_pl=tribubus
 tribūtum, tribūtī noun n
-triclīnium, triclīniī noun n
+triclīnium, triclīniī noun n conf=85 note=kept after reviewer-dispute: i from Greek klinē
 trīduum, trīduī noun n
 triennium, trienniī noun n
 trirēmis, trirēmis noun f
