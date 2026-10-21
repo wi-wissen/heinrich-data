@@ -7,6 +7,7 @@ aliquis pron class=quis
 aliquot pron type=ind
 alius, alia, aliud pron type=ind
 alter, altera, alterum pron type=ind gen_ius
+alteruter, alterutra, alterutrum pron type=ind gen_ius
 ecquis pron class=quis type=int
 ego pron class=ego
 hic pron class=hic

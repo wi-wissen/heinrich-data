@@ -1,16 +1,25 @@
 # Latin verbs, letter c. Written from own knowledge (AUTHORING.md §1).
 cadō, cecidī, cāsūrus, cadere verb intr
 caedō, cecīdī, caesum, caedere verb
+caelō, caelāvī, caelātum, caelāre verb
+calcō, calcāvī, calcātum, calcāre verb
 caleō, caluī, calitūrus, calēre verb intr
+calumnior, calumniātus sum, calumniārī verb note=no long vowel in the lemma
+candeō, canduī, -, candēre verb intr note=no long vowel in the lemma
+cāneō, cānuī, -, cānēre verb intr
 canō, cecinī, cantum, canere verb
 cantō, cantāvī, cantātum, cantāre verb
+capessō, capessīvī, capessītum, capessere verb note=no long vowel in the lemma
 capiō, cēpī, captum, capere verb
 captō, captāvī, captātum, captāre verb
 careō, caruī, caritūrus, carēre verb intr
 carpō, carpsī, carptum, carpere verb
+castīgō, castīgāvī, castīgātum, castīgāre verb
+castrametor, castrametātus sum, castrametārī verb note=no long vowel in the lemma
 caveō, cāvī, cautum, cavēre verb
 cēdō, cessī, cessum, cēdere verb intr
 celebrō, celebrāvī, celebrātum, celebrāre verb
+celerō, celerāvī, celerātum, celerāre verb note=no long vowel in the lemma
 cēlō, cēlāvī, cēlātum, cēlāre verb
 cēnō, cēnāvī, cēnātum, cēnāre verb intr
 cēnseō, cēnsuī, cēnsum, cēnsēre verb
@@ -19,63 +28,101 @@ certō, certāvī, certātum, certāre verb intr
 cessō, cessāvī, cessātum, cessāre verb intr
 cieō, cīvī, citum, ciēre verb
 cingō, cīnxī, cīnctum, cingere verb
+circumagō, circumēgī, circumāctum, circumagere verb
 circumdō, circumdedī, circumdatum, circumdare verb class=do
 circumeō, circumiī, circumitum, circumīre verb class=eo
+circumfundō, circumfūdī, circumfūsum, circumfundere verb
+circumspiciō, circumspexī, circumspectum, circumspicere verb
+circumstō, circumstetī, -, circumstāre verb
+circumveniō, circumvēnī, circumventum, circumvenīre verb
+citō, citāvī, citātum, citāre verb
+clāmitō, clāmitāvī, clāmitātum, clāmitāre verb
 clāmō, clāmāvī, clāmātum, clāmāre verb
 claudō, clausī, clausum, claudere verb
+coalēscō, coaluī, coalitum, coalēscere verb intr
+coarguō, coarguī, -, coarguere verb note=no long vowel in the lemma
 coeō, coiī, coitum, coīre verb class=eo intr
 coepī, coeptum, coepisse verb
 coerceō, coercuī, coercitum, coercēre verb
 cōgitō, cōgitāvī, cōgitātum, cōgitāre verb
+cognōminō, cognōmināvī, cognōminātum, cognōmināre verb
 cognōscō, cognōvī, cognitum, cognōscere verb
 cōgō, coēgī, coāctum, cōgere verb
+cohaereō, cohaesī, cohaesum, cohaerēre verb intr
 cohibeō, cohibuī, cohibitum, cohibēre verb
 cohortor, cohortātus sum, cohortārī verb note=no long vowel in the lemma
+collābor, collāpsus sum, collābī verb var=conlābor
 colligō, collēgī, collēctum, colligere verb
 collocō, collocāvī, collocātum, collocāre verb var=conlocō
 colō, coluī, cultum, colere verb
+combūrō, combussī, combustum, combūrere verb
 comedō, comēdī, comēsum, comedere verb class=edo
 comitor, comitātus sum, comitārī verb note=no long vowel in the lemma
 commemorō, commemorāvī, commemorātum, commemorāre verb
 commendō, commendāvī, commendātum, commendāre verb
+commentor, commentātus sum, commentārī verb note=no long vowel in the lemma
+commigrō, commigrāvī, commigrātum, commigrāre verb intr
+comminīscor, commentus sum, comminīscī verb
+comminor, comminātus sum, comminārī verb note=no long vowel in the lemma
 committō, commīsī, commissum, committere verb
+commodō, commodāvī, commodātum, commodāre verb
+commoror, commorātus sum, commorārī verb note=no long vowel in the lemma
 commoveō, commōvī, commōtum, commovēre verb
+commūnicō, commūnicāvī, commūnicātum, commūnicāre verb
+commūtō, commūtāvī, commūtātum, commūtāre verb
 comparō, comparāvī, comparātum, comparāre verb
 compellō, compulī, compulsum, compellere verb note=no long vowel in the lemma
 comperiō, comperī, compertum, comperīre verb
+compescō, compescuī, -, compescere verb note=no long vowel in the lemma
+competō, competīvī|competiī, competītum, competere verb intr
 complector, complexus sum, complectī verb note=no long vowel in the lemma
 compleō, complēvī, complētum, complēre verb
 compōnō, composuī, compositum, compōnere verb
 comprehendō, comprehendī, comprehēnsum, comprehendere verb
 comprimō, compressī, compressum, comprimere verb
+comprobō, comprobāvī, comprobātum, comprobāre verb
 concēdō, concessī, concessum, concēdere verb
 concidō, concidī, -, concidere verb intr note=no long vowel in the lemma
+concīdō, concīdī, concīsum, concīdere verb
 conciliō, conciliāvī, conciliātum, conciliāre verb
 concipiō, concēpī, conceptum, concipere verb
 concitō, concitāvī, concitātum, concitāre verb
 conclūdō, conclūsī, conclūsum, conclūdere verb
+concumbō, concubuī, concubitum, concumbere verb intr
+concupīscō, concupīvī, concupītum, concupīscere verb
 concurrō, concurrī|concucurrī, concursum, concurrere verb intr
+concutiō, concussī, concussum, concutere verb
 condemnō, condemnāvī, condemnātum, condemnāre verb
+condiō, condīvī, condītum, condīre verb
 condō, condidī, conditum, condere verb
+condūcō, condūxī, conductum, condūcere verb note=imperative condūce (not a short form)
+cōnectō, cōnexuī, cōnexum, cōnectere verb
 cōnferō, contulī, collātum, cōnferre verb class=fero
 cōnficiō, cōnfēcī, cōnfectum, cōnficere verb
 cōnfīdō, cōnfīsus sum, cōnfīdere verb
 cōnfirmō, cōnfirmāvī, cōnfirmātum, cōnfirmāre verb
 cōnfiteor, cōnfessus sum, cōnfitērī verb
 cōnflīgō, cōnflīxī, cōnflīctum, cōnflīgere verb intr
+cōnflō, cōnflāvī, cōnflātum, cōnflāre verb
+cōnfodiō, cōnfōdī, cōnfossum, cōnfodere verb
 cōnfugiō, cōnfūgī, -, cōnfugere verb intr
 cōnfundō, cōnfūdī, cōnfūsum, cōnfundere verb
+congerō, congessī, congestum, congerere verb
 congredior, congressus sum, congredī verb note=no long vowel in the lemma
 congregō, congregāvī, congregātum, congregāre verb
 congruō, congruī, -, congruere verb intr note=no long vowel in the lemma
 coniciō, coniēcī, coniectum, conicere verb
 coniungō, coniūnxī, coniūnctum, coniungere verb
 cōnor, cōnātus sum, cōnārī verb
+cōnqueror, cōnquestus sum, cōnquerī verb
+conquiēscō, conquiēvī, conquiētum, conquiēscere verb intr
+conquīrō, conquīsīvī, conquīsītum, conquīrere verb
 cōnscendō, cōnscendī, cōnscēnsum, cōnscendere verb
 cōnscrībō, cōnscrīpsī, cōnscrīptum, cōnscrībere verb
 cōnsecrō, cōnsecrāvī, cōnsecrātum, cōnsecrāre verb
 cōnsentiō, cōnsēnsī, cōnsēnsum, cōnsentīre verb intr
 cōnsequor, cōnsecūtus sum, cōnsequī verb
+cōnserō, cōnseruī, cōnsertum, cōnserere verb
 cōnservō, cōnservāvī, cōnservātum, cōnservāre verb
 cōnsīderō, cōnsīderāvī, cōnsīderātum, cōnsīderāre verb
 cōnsīdō, cōnsēdī, cōnsessum, cōnsīdere verb intr
@@ -84,17 +131,29 @@ cōnsōlor, cōnsōlātus sum, cōnsōlārī verb
 cōnspiciō, cōnspexī, cōnspectum, cōnspicere verb
 cōnstituō, cōnstituī, cōnstitūtum, cōnstituere verb
 cōnstō, cōnstitī, cōnstātūrus, cōnstāre verb intr
+cōnstringō, cōnstrīnxī, cōnstrictum, cōnstringere verb
+cōnstruō, cōnstrūxī, cōnstrūctum, cōnstruere verb
 cōnsuēscō, cōnsuēvī, cōnsuētum, cōnsuēscere verb intr
 cōnsulō, cōnsuluī, cōnsultum, cōnsulere verb
+cōnsummō, cōnsummāvī, cōnsummātum, cōnsummāre verb
 cōnsūmō, cōnsūmpsī, cōnsūmptum, cōnsūmere verb
 cōnsurgō, cōnsurrēxī, cōnsurrēctum, cōnsurgere verb intr
+contegō, contēxī, contēctum, contegere verb
 contemnō, contempsī, contemptum, contemnere verb
 contemplor, contemplātus sum, contemplārī verb note=no long vowel in the lemma
 contendō, contendī, contentum, contendere verb
 conterō, contrīvī, contrītum, conterere verb
+conticēscō, conticuī, -, conticēscere verb intr
 contineō, continuī, contentum, continēre verb
 contingō, contigī, contāctum, contingere verb
+contorqueō, contorsī, contortum, contorquēre verb
+contrādīcō, contrādīxī, contrādictum, contrādīcere verb note=imperative contrādīc or contrādīce?
 contrahō, contrāxī, contractum, contrahere verb
+contueor, contuitus sum, contuērī verb note=no long vowel in the lemma
+contundō, contudī, contūsum, contundere verb
+conturbō, conturbāvī, conturbātum, conturbāre verb
+convalēscō, convaluī, convalitum, convalēscere verb intr
+convellō, convellī|convulsī, convulsum, convellere verb
 conveniō, convēnī, conventum, convenīre verb
 convertō, convertī, conversum, convertere verb
 convocō, convocāvī, convocātum, convocāre verb
@@ -104,11 +163,19 @@ corrigō, corrēxī, corrēctum, corrigere verb
 corripiō, corripuī, correptum, corripere verb
 corrumpō, corrūpī, corruptum, corrumpere verb
 corruō, corruī, -, corruere verb intr note=no long vowel in the lemma
+coruscō, coruscāvī, -, coruscāre verb intr
 crēdō, crēdidī, crēditum, crēdere verb
+cremō, cremāvī, cremātum, cremāre verb
 creō, creāvī, creātum, creāre verb
 crēscō, crēvī, crētum, crēscere verb intr
+crīminor, crīminātus sum, crīminārī verb
+crucifīgō, crucifīxī, crucifīxum, crucifīgere verb style=late
+cruciō, cruciāvī, cruciātum, cruciāre verb note=no long vowel in the lemma
+cubō, cubuī, cubitum, cubāre verb intr note=no long vowel in the lemma
+cumulō, cumulāvī, cumulātum, cumulāre verb
 cūnctor, cūnctātus sum, cūnctārī verb conf=90 note=length of the u?
 cupiō, cupīvī|cupiī, cupītum, cupere verb
 cūrō, cūrāvī, cūrātum, cūrāre verb
 currō, cucurrī, cursum, currere verb intr
+curvō, curvāvī, curvātum, curvāre verb note=no long vowel in the lemma
 custōdiō, custōdīvī, custōdītum, custōdīre verb
