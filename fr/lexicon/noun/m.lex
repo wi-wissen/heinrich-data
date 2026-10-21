@@ -336,7 +336,8 @@ marche                   noun g=f
 marché                   noun g=m
 marchepied               noun g=m
 marcheur                 noun g=m f=marcheuse
-marcottage               noun g=m rect=marcotage
+marcottage               noun g=m note=no 1990 form marcotage: derived from marcotte
+marcotte                 noun g=f
 mardi                    noun g=m
 mare                     noun g=f
 marécage                 noun g=m

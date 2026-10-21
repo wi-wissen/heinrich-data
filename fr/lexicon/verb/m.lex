@@ -36,7 +36,7 @@ maquiller      verb
 marbrer        verb
 marchander     verb
 marcher        verb pp_inv
-marcotter      verb rect=marcoter
+marcotter      verb note=no 1990 form marcoter: derived from the noun marcotte, so -otter stays
 marginaliser   verb
 marier         verb
 mariner        verb
