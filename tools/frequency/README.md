@@ -60,6 +60,8 @@ will differ slightly between runs; the Wikipedia sample uses the `latest` dump (
   Légifrance LEGI, service-public.gouv.fr guides), all Licence Ouverte 2.0.
 - `authors_en.py` - hand-written list of American / British authors (bibliographic metadata only) used to
   select and label English Gutenberg books.
+- `drop_forms.py` - removes counting artefacts from a `forms.tsv` and updates `STATS.md` to match (used on
+  2026-10-21 for HTML entity names, see "Known limitations").
 - `merge.py` - merges counts, writes `forms.tsv`, `STATS.md` (`lang=en` adds the `us`/`gb` columns; `lang=fr` has
   no variety columns: fr-FR only for now).
 
@@ -107,6 +109,11 @@ and quotation marks of the sentence splitter.
   1600 or later (no Middle French), at most 12 books per author, canonical authors first.
 
 ## Known limitations
+- Until 2026-10-21 `count_wiki.py` unescaped HTML entities only once, so `&nbsp;` (`&amp;nbsp;` in the dump XML)
+  and similar entities were counted as the words `nbsp`, `shy`, `thinsp` ... . The script now unescapes twice. The
+  existing lists were not recounted: the forms that are only entity names were removed with `drop_forms.py` and
+  the token totals reduced (removed forms and counts are listed at the end of each `STATS.md`). Entity names that
+  are also words (`lt`, `gt`, `amp`, `minus`, English `shy`, `times`) keep a few artefact counts.
 - English `gb` text from the 19th century often uses `-ize` (Oxford spelling) and old forms (`to-day`,
   `connexion`); `gb` from Hansard/GOV.UK is modern `-ise` spelling. Compare `us`/`gb` per million, not raw.
 - The English sentence-splitter abbreviation list also contains some lowercase short words (e.g. `art`, `ed`,
