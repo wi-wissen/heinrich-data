@@ -527,7 +527,6 @@ sobremesa noun g=f
 sobrenombre noun g=m
 sobrepesca noun g=f
 sobrepeso noun g=m
-sobrepoblación noun g=f
 sobreprecio noun g=m
 sobresaliente noun g=m
 sobresalto noun g=m
@@ -889,9 +888,7 @@ surfista noun g=m|f
 surgencia noun g=f
 surgimiento noun g=m
 suricato noun g=m
-suroccidente noun g=m
 suroeste noun g=m
-suroriente noun g=m
 surrealismo noun g=m
 surtido noun g=m
 surtidor noun g=m
@@ -907,7 +904,6 @@ suspiro noun g=m
 sustancia noun g=f var=substancia
 sustanciación noun g=f
 sustantividad noun g=f
-sustentabilidad noun g=f
 sustentación noun g=f
 sustento noun g=m
 sustitución noun g=f var=substitución

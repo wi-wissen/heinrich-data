@@ -241,7 +241,6 @@ vicesecretario noun g=m f=vicesecretaria
 vicio noun g=m
 vicisitud noun g=f
 víctima noun g=f
-victimario noun g=m f=victimaria
 victimismo noun g=m
 victimización noun g=f
 victoria noun g=f

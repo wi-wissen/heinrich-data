@@ -56,7 +56,6 @@ temporal adj adv=temporalmente
 temprano adj adv=tempranamente
 tenaz adj adv=tenazmente
 tendente adj
-tendiente adj
 tenebroso adj
 tentador adj
 tenue adj
@@ -164,10 +163,10 @@ transatlántico adj var=trasatlántico
 transcontinental adj
 transeuropeo adj
 transexual adj
-transferente adj
-transferible adj
-transformable adj
-transformador adj
+transferente adj var=trasferente
+transferible adj var=trasferible
+transformable adj var=trasformable
+transformador adj var=trasformador
 transfronterizo adj
 transgénero adj inv
 transgénico adj
@@ -176,12 +175,12 @@ transicional adj
 transitable adj
 transitorio adj adv=transitoriamente
 translúcido adj var=traslúcido
-transmisible adj
-transmisor adj
-transnacional adj var=trasnacional
+transmisible adj var=trasmisible
+transmisor adj var=trasmisor
+transnacional adj
 transparente adj var=trasparente
-transportable adj
-transportador adj
+transportable adj var=trasportable
+transportador adj var=trasportador
 transversal adj adv=transversalmente
 trapezoidal adj
 trascendental adj

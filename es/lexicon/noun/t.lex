@@ -211,7 +211,6 @@ teletransporte noun g=m
 televidente noun g=m|f
 televisión noun g=f
 televisor noun g=m
-televisora noun g=f
 televoto noun g=m
 télex noun g=m
 telón noun g=m
@@ -613,8 +612,8 @@ tranquilidad noun g=f
 tranquilizante noun g=m
 transacción noun g=f
 transatlántico noun g=m var=trasatlántico
-transbordador noun g=m
-transbordo noun g=m
+transbordador noun g=m var=trasbordador
+transbordo noun g=m var=trasbordo
 transcripción noun g=f
 transcurso noun g=m var=trascurso
 transductor noun g=m
@@ -626,8 +625,8 @@ transferencia noun g=f var=trasferencia
 transfiguración noun g=f
 transfobia noun g=f
 transformación noun g=f var=trasformación
-transformador noun g=m
-transformismo noun g=m
+transformador noun g=m var=trasformador
+transformismo noun g=m var=trasformismo
 tránsfuga noun g=m|f
 transfuguismo noun g=m
 transfusión noun g=f
@@ -639,16 +638,16 @@ transitario noun g=m
 tránsito noun g=m
 transitoriedad noun g=f
 transliteración noun g=f
-transmisibilidad noun g=f
+transmisibilidad noun g=f var=trasmisibilidad
 transmisión noun g=f var=trasmisión
-transmisor noun g=m
+transmisor noun g=m var=trasmisor
 transmitente noun g=m|f
 transmutación noun g=f
 transparencia noun g=f var=trasparencia
 transpiración noun g=f
-transportador noun g=m
+transportador noun g=m var=trasportador
 transporte noun g=m var=trasporte
-transportista noun g=m|f
+transportista noun g=m|f var=trasportista
 transposición noun g=f var=trasposición
 transversalidad noun g=f
 tranvía noun g=m

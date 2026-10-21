@@ -92,9 +92,9 @@ transaccionar verb
 transbordar verb var=trasbordar
 transcribir verb pp=transcrito var=trascribir
 transcurrir verb var=trascurrir
-transferir verb class=ie_i
+transferir verb class=ie_i var=trasferir
 transfigurar verb
-transformar verb
+transformar verb var=trasformar
 transgredir verb
 transigir verb
 transitar verb
@@ -103,7 +103,7 @@ translucir verb class=zco var=traslucir
 transmitir verb var=trasmitir
 transparentar verb
 transpirar verb
-transportar verb
+transportar verb var=trasportar
 trascender verb class=ie var=transcender
 trasegar verb class=ie
 trasladar verb

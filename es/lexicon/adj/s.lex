@@ -67,7 +67,7 @@ satisfactorio adj adv=satisfactoriamente
 satisfecho adj
 saturado adj
 saudí adj pl=saudíes|saudís[var]
-saudita adj
+saudita adj note=accepted, but saudí is the usual form in Spain
 sazonado adj
 secante adj
 seccional adj

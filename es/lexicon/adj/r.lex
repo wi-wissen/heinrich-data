@@ -104,7 +104,6 @@ reducible adj
 reducido adj
 reductor adj
 redundante adj
-reelecto adj
 reelegible adj
 reembolsable adj
 referencial adj
