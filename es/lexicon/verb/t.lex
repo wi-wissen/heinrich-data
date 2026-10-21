@@ -1,17 +1,22 @@
 # Spanish verb entries, letter t. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+tabicar verb
 tabular verb
 tachar verb
+tachonar verb
 taconear verb
 taladrar verb
 talar verb
 tallar verb
 tambalear verb
+tamborilear verb
 tamizar verb
 tantear verb
 tañer verb
 tapar verb
+tapiar verb class=diphthong
 tapizar verb
 taponar verb
+taquigrafiar verb class=hiatus
 tararear verb
 tardar verb
 tartamudear verb
@@ -19,10 +24,13 @@ tasar verb
 tatuar verb
 teclear verb
 tejer verb
+teledirigir verb
 telefonear verb
+telegrafiar verb class=hiatus
 televisar verb
 temblar verb class=ie
 temer verb
+temperar verb
 templar verb
 tender verb class=ie
 tener verb class=tener
@@ -35,8 +43,10 @@ tergiversar verb
 terminar verb
 testar verb
 testificar verb
+testimoniar verb class=diphthong
 tildar verb
 timar verb
+timbrar verb
 tintinear verb
 tipificar verb
 tiranizar verb
@@ -51,6 +61,7 @@ tolerar verb
 tomar verb
 tonificar verb
 topar verb
+toquetear verb
 torcer verb class=ue
 torear verb
 tornar verb
@@ -72,6 +83,7 @@ tramar verb
 tramitar verb
 trancar verb
 tranquilizar verb
+transbordar verb var=trasbordar
 transcribir verb pp=transcrito var=trascribir
 transcurrir verb
 transferir verb class=ie_i
@@ -82,6 +94,7 @@ transigir verb
 transitar verb
 translucir verb class=zco var=traslucir
 transmitir verb
+transparentar verb
 transpirar verb
 transportar verb
 trascender verb class=ie var=transcender
@@ -94,6 +107,7 @@ trasplantar verb
 trasponer verb class=poner var=transponer
 trasquilar verb
 trastabillar verb
+trastear verb
 trastocar verb
 trastornar verb
 trasvasar verb
@@ -102,15 +116,19 @@ travestir verb class=i
 trazar verb
 trenzar verb
 trepar verb
+trepidar verb
 triangular verb
 tributar verb
 trillar verb
 trinar verb
+trincar verb
 trinchar verb
 triplicar verb
 tripular verb
+triscar verb
 triturar verb
 triunfar verb
+trivializar verb
 trocar verb class=ue
 trocear verb
 tronar verb class=ue impersonal note=tronar used figuratively takes other persons
@@ -119,6 +137,7 @@ tropezar verb class=ie
 trotar verb
 truncar verb
 tumbar verb
+tundir verb
 turbar verb
 tutear verb
 tutelar verb

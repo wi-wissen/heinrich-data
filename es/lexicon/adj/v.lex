@@ -19,6 +19,7 @@ vandálico adj
 vanguardista adj
 vanidoso adj
 vano adj adv=vanamente
+vaporoso adj
 variable adj
 variado adj
 variopinto adj

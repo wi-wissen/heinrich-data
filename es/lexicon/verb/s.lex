@@ -10,9 +10,11 @@ sacudir verb
 salar verb
 saldar verb
 salir verb class=salir
+salivar verb
 salpicar verb
 salpimentar verb class=ie
 saltar verb
+saltear verb
 saludar verb
 salvaguardar verb
 salvar verb
@@ -23,6 +25,7 @@ sangrar verb
 santificar verb
 santiguar verb
 saquear verb
+satinar verb
 satirizar verb
 satisfacer verb class=satisfacer
 saturar verb
@@ -30,11 +33,13 @@ sazonar verb
 secar verb
 seccionar verb
 secretar verb
+secretear verb
 sectorizar verb
 secuestrar verb
 secularizar verb
 secundar verb
 sedar verb
+sedimentar verb
 seducir verb class=ducir
 segar verb class=ie
 segmentar verb
@@ -59,46 +64,59 @@ serrar verb class=ie
 servir verb class=i
 sesear verb
 sesgar verb
+sestear verb
 significar verb
+silabear verb
 silbar verb
 silenciar verb class=diphthong
 simbolizar verb
 simpatizar verb
 simplificar verb
 simular verb
+sincerar verb pronominal
 sincronizar verb
 sindicar verb
 singularizar verb
 sintetizar verb
 sintonizar verb
+sisar verb
 sisear verb
 sistematizar verb
 sitiar verb class=diphthong
 situar verb
 sobornar verb
 sobrar verb
+sobrealimentar verb
 sobrecargar verb
+sobrecoger verb
+sobredimensionar verb
 sobreentender verb class=ie var=sobrentender
 sobreestimar verb var=sobrestimar
+sobreexplotar verb
 sobrellevar verb
 sobrepasar verb
 sobreponer verb class=poner
 sobresalir verb class=salir
 sobresaltar verb
+sobrevalorar verb
 sobrevenir verb class=venir
 sobrevivir verb
 sobrevolar verb class=ue
+socarrar verb
 socavar verb
 socializar verb
 socorrer verb
 sofisticar verb
 sofocar verb
 sofreír verb class=reír pp=sofrito|sofreído
+sojuzgar verb
 solapar verb
+solazar verb
 soldar verb class=ue
 solear verb
 solemnizar verb
 soler verb class=ue defective=inf|pres|impf|pret|subj|subj_impf|pp|ger pp_inv
+solfear verb
 solicitar verb
 solidarizar verb pronominal
 solidificar verb
@@ -126,17 +144,21 @@ sospechar verb
 sostener verb class=tener
 soterrar verb
 suavizar verb
+subalquilar verb
+subarrendar verb class=ie
 subastar verb
 subcontratar verb
 subdividir verb
 subestimar verb
 subir verb
 sublevar verb
+sublimar verb
 subordinar verb
 subrayar verb
 subsanar verb
 subsidiar verb class=diphthong
 subsistir verb
+subsumir verb
 subtitular verb
 subvencionar verb
 subvenir verb class=venir
@@ -152,6 +174,7 @@ sugerir verb class=ie_i
 sugestionar verb
 suicidar verb pronominal
 sujetar verb
+sulfatar verb
 sulfurar verb
 sumar verb
 sumergir verb
@@ -176,6 +199,7 @@ suscribir verb pp=suscrito
 suspender verb
 suspirar verb
 sustanciar verb class=diphthong
+sustantivar verb
 sustentar verb
 sustituir verb
 sustraer verb class=traer

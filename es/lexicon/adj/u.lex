@@ -4,11 +4,13 @@ ucraniano adj
 ufano adj
 ulterior adj adv=ulteriormente
 último adj adv=últimamente
+ultracongelado adj
 ultraderechista adj
 ultrajante adj
 ultraligero adj
 ultramarino adj
 ultraperiférico adj
+ultrasónico adj
 ultraterrestre adj
 ultravioleta adj inv
 umbrío adj
@@ -20,6 +22,7 @@ unidireccional adj
 unido adj
 unifamiliar adj
 unificador adj
+uniformado adj
 uniforme adj
 unigénito adj
 unilateral adj adv=unilateralmente

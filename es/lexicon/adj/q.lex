@@ -1,6 +1,7 @@
 # Spanish adj entries, letter q. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 quebradizo adj
 quebrado adj
+quebrantable adj
 quechua adj
 queer adj foreign inv
 quejica adj style=colloquial alt=quejoso

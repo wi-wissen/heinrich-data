@@ -5,9 +5,11 @@ sabio adj adv=sabiamente
 sabroso adj
 sacerdotal adj
 sacramental adj
+sacrificado adj
 sacrílego adj
 sacro adj
 sacrosanto adj
+sacudido adj
 sádico adj
 sagaz adj
 sagrado adj
@@ -24,10 +26,14 @@ salino adj
 salmantino adj
 salobre adj
 saltarín adj f=saltarina
+salteado adj
 saludable adj
+salvable adj
 salvadoreño adj
 salvaje adj adv=salvajemente
 salvo adj note=sano y salvo; the preposition salvo is a closed-class entry
+samaritano adj
+sanable adj
 sancionable adj
 sancionador adj
 sandinista adj
@@ -39,6 +45,7 @@ sanguíneo adj
 sanguinolento adj
 sanitario adj
 sano adj adv=sanamente
+santanderino adj
 santo adj apoc=san
 santurrón adj f=santurrona
 sapiens adj inv foreign
@@ -75,6 +82,7 @@ seglar adj
 segoviano adj
 seguido adj adv=seguidamente
 seguro adj adv=seguramente
+seleccionable adj
 selectivo adj adv=selectivamente
 selecto adj
 sellado adj
@@ -105,6 +113,7 @@ sensitivo adj
 sensorial adj
 sensual adj
 sentado adj
+sentencioso adj
 sentido adj
 sentimental adj adv=sentimentalmente
 señorial adj
@@ -149,6 +158,7 @@ simplista adj
 simplón adj f=simplona
 simultáneo adj adv=simultáneamente
 sincero adj adv=sinceramente
+sindicado adj
 sindical adj
 sinfónico adj
 singular adj adv=singularmente
@@ -310,6 +320,7 @@ susodicho adj
 suspensivo adj
 suspicaz adj
 sustancial adj adv=sustancialmente
+sustancioso adj
 sustantivo adj
 sustentable adj
 sustitutivo adj

@@ -33,6 +33,7 @@ universalización noun g=f
 universidad noun g=f
 universitario noun g=m f=universitaria
 universo noun g=m
+untura noun g=f
 uña noun g=f
 uralita noun g=f
 uranio noun g=m
@@ -44,6 +45,8 @@ urbanización noun g=f
 urbe noun g=f
 urdimbre noun g=f
 urea noun g=f
+uréter noun g=m pl=uréteres
+uretra noun g=f
 urgencia noun g=f
 urinario noun g=m
 urna noun g=f
@@ -67,6 +70,8 @@ utilidad noun g=f
 utilitarismo noun g=m
 utilización noun g=f
 utillaje noun g=m
+utillero noun g=m f=utillera
 utopía noun g=f
 uva noun g=f
 uve noun g=f
+úvula noun g=f

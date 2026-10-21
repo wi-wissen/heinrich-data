@@ -1,5 +1,6 @@
 # Spanish noun entries, letter y. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 yacimiento noun g=m
+yak noun g=m pl=yaks
 yarda noun g=f
 yate noun g=m
 yegua noun g=f
@@ -20,8 +21,10 @@ yihadista noun g=m|f
 yodo noun g=m
 yoga noun g=m pl=- note=uncountable
 yogur noun g=m pl=yogures
+yogurtera noun g=f
 yuca noun g=f
 yudo noun g=m var=judo pl=- note=sport, uncountable
+yudoca noun g=m|f var=judoca
 yugo noun g=m
 yugular noun g=f
 yunque noun g=m

@@ -8,7 +8,9 @@ vagar verb
 vaguear verb
 valer verb class=valer
 validar verb
+vallar verb
 valorar verb
+valorizar verb
 valuar verb
 vanagloriar verb class=diphthong pronominal
 vaporizar verb
@@ -23,15 +25,18 @@ velar verb
 vencer verb
 vendar verb
 vender verb
+vendimiar verb class=diphthong
 venerar verb
 vengar verb
 venir verb class=venir
+ventear verb
 ventilar verb
 ver verb class=ver
 veranear verb
 verbalizar verb
 verificar verb
 versar verb
+versificar verb
 versionar verb
 vertebrar verb
 verter verb class=ie
@@ -55,6 +60,7 @@ visitar verb
 vislumbrar verb
 visualizar verb
 vitorear verb
+vitrificar verb
 vituperar verb
 vivificar verb
 vivir verb

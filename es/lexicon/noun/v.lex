@@ -49,6 +49,7 @@ vándalo noun g=m f=vándala
 vanguardia noun g=f
 vanidad noun g=f
 vapor noun g=m
+vaporización noun g=f
 vapuleo noun g=m
 vaquería noun g=f
 vaquero noun g=m f=vaquera
@@ -125,6 +126,7 @@ ventaja noun g=f
 ventana noun g=f
 ventanal noun g=m
 ventanilla noun g=f
+ventanuco noun g=m
 ventarrón noun g=m
 ventero noun g=m f=ventera
 ventilación noun g=f
@@ -157,6 +159,7 @@ vericueto noun g=m
 verificación noun g=f
 verificador noun g=m f=verificadora
 verja noun g=f
+vermú noun g=m pl=vermús var=vermut
 verosimilitud noun g=f
 verraco noun g=m
 verruga noun g=f
@@ -192,8 +195,10 @@ viajante noun g=m|f
 viaje noun g=m
 viajero noun g=m f=viajera
 vialidad noun g=f
+vianda noun g=f
 víbora noun g=f
 vibración noun g=f
+vibrador noun g=m
 vibráfono noun g=m
 vicaría noun g=f
 vicario noun g=m
@@ -216,6 +221,7 @@ vidente noun g=m|f
 vídeo noun g=m var=video
 videocámara noun g=f
 videoclip noun g=m pl=videoclips
+videoclub noun g=m pl=videoclubes|videoclubs[var]
 videoconferencia noun g=f
 videoconsola noun g=f
 videojuego noun g=m
@@ -233,6 +239,7 @@ vigilancia noun g=f
 vigilante noun g=m|f
 vigilia noun g=f
 vigor noun g=m
+vigueta noun g=f
 vihuela noun g=f
 vikingo noun g=m f=vikinga
 vileza noun g=f
@@ -242,6 +249,7 @@ villano noun g=m f=villana
 vilo noun g=m note=only in en vilo
 vinagre noun g=m
 vinagreta noun g=f
+vinatería noun g=f
 vinculación noun g=f
 vínculo noun g=m
 vinificación noun g=f
@@ -264,9 +272,11 @@ violonchelo noun g=m
 viraje noun g=m
 virgen noun g=f
 virginidad noun g=f
+virgulilla noun g=f
 virilidad noun g=f
 virreinato noun g=m
 virrey noun g=m f=virreina
+virtualidad noun g=f
 virtualización noun g=f
 virtud noun g=f
 virtuosismo noun g=m
@@ -301,6 +311,7 @@ viticultura noun g=f
 vítor noun g=m
 vitral noun g=m
 vitrina noun g=f
+vitrocerámica noun g=f
 vitualla noun g=f
 vituperio noun g=m
 viudedad noun g=f
@@ -325,6 +336,7 @@ vocalización noun g=f
 vocerío noun g=m
 vocero noun g=m f=vocera
 vodevil noun g=m
+vodka noun g=amb
 voladizo noun g=m
 voladura noun g=f
 volandas noun g=f pl_only note=only in en volandas
@@ -334,6 +346,7 @@ volantín noun g=m
 volatilidad noun g=f
 volcán noun g=m
 voleibol noun g=m
+volframio noun g=m var=wolframio
 voltaje noun g=m
 voltereta noun g=f
 voltio noun g=m
@@ -360,6 +373,7 @@ vuelta noun g=f
 vuelto noun g=m
 vulcanismo noun g=m
 vulgaridad noun g=f
+vulgarización noun g=f
 vulgo noun g=m
 vulnerabilidad noun g=f
 vulneración noun g=f

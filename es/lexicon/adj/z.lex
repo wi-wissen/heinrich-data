@@ -13,4 +13,5 @@ zootécnico adj
 zopenco adj style=colloquial alt=torpe|bruto
 zote adj style=colloquial alt=torpe|ignorante
 zulú adj pl=zulúes|zulús[var]
+zumbón adj f=zumbona
 zurdo adj

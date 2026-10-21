@@ -10,6 +10,7 @@ zalema noun g=f
 zamarra noun g=f
 zambomba noun g=f
 zambullida noun g=f
+zampabollos noun g=m|f style=colloquial alt=glotón
 zampoña noun g=f
 zanahoria noun g=f
 zanca noun g=f
@@ -24,6 +25,7 @@ zapatería noun g=f
 zapatero noun g=m f=zapatera
 zapatilla noun g=f
 zapato noun g=m
+zapeo noun g=m
 zar noun g=m f=zarina
 zarandajas noun g=f pl_only
 zarcillo noun g=m
@@ -40,12 +42,14 @@ zigzag noun g=m pl=zigzags|zigzagues[var]
 zinc noun g=m var=cinc pl=- conf=80 note=plural not in use; cinc is the RAE-preferred spelling but zinc is far more common in our counts
 zócalo noun g=m
 zodiaco noun g=m var=zodíaco
+zombi noun g=m|f
 zona noun g=f
 zonificación noun g=f
 zoo noun g=m
 zoología noun g=f
 zoológico noun g=m
 zoólogo noun g=m f=zoóloga
+zoom noun g=m pl=zooms
 zopilote noun g=m
 zoquete noun g=m|f style=colloquial alt=torpe|necio
 zorro noun g=m f=zorra
@@ -53,8 +57,10 @@ zorzal noun g=m
 zozobra noun g=f
 zueco noun g=m
 zulo noun g=m
+zumaque noun g=m
 zumbido noun g=m
 zumo noun g=m
+zurcido noun g=m
 zurdazo noun g=m
 zurra noun g=f
 zurrón noun g=m

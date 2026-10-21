@@ -21,6 +21,7 @@ tarifario adj
 tartamudo adj
 tártaro adj
 taurino adj
+tauromáquico adj
 taxativo adj adv=taxativamente
 taxonómico adj
 teatral adj
@@ -29,6 +30,7 @@ técnico adj adv=técnicamente
 tecnológico adj adv=tecnológicamente
 tectónico adj
 tedioso adj
+teledirigido adj
 telefónico adj adv=telefónicamente
 telegráfico adj
 telemático adj adv=telemáticamente
@@ -39,6 +41,7 @@ tembloroso adj
 temerario adj
 temeroso adj
 temible adj
+tempestuoso adj
 templado adj
 temporal adj adv=temporalmente
 temprano adj
@@ -59,6 +62,8 @@ térmico adj
 terminante adj adv=terminantemente
 termodinámico adj
 termoeléctrico adj
+termoplástico adj
+ternario adj
 terrenal adj
 terrestre adj
 terrible adj adv=terriblemente
@@ -79,6 +84,7 @@ tieso adj
 tifoideo adj
 timbrado adj
 tímido adj adv=tímidamente
+tinerfeño adj
 tinto adj
 típico adj adv=típicamente
 tipográfico adj
@@ -103,6 +109,7 @@ torcaz adj
 torcido adj
 tormentoso adj
 torpe adj adv=torpemente
+torrefacto adj
 torrencial adj
 tórrido adj
 tortuoso adj
@@ -124,15 +131,18 @@ traicionero adj
 traidor adj
 trajeado adj
 tramposo adj
+tranquilizador adj
 tranquilo adj adv=tranquilamente
 transaccional adj
 transatlántico adj var=trasatlántico
 transeuropeo adj
 transexual adj
 transferible adj
+transformable adj
 transformador adj
 transfronterizo adj
 transgénero adj inv
+transgresor adj
 transicional adj
 transitable adj
 transitorio adj adv=transitoriamente
@@ -146,9 +156,13 @@ trapezoidal adj
 trascendental adj
 trascendente adj
 trasero adj
+trashumante adj
 trasnochador adj
+tratable adj
 traumático adj
 travieso adj
+trazador adj
+tremebundo adj
 tremendo adj adv=tremendamente
 trémulo adj
 trepador adj
