@@ -95,6 +95,49 @@ Notes
 - Only fr-FR for now: `forms.tsv` has no variety columns (Heinrich `docs/FRENCH.md` F-D2).
 - Gutenberg access was limited to 3 sequential workers with a 2 s delay per request.
 
+## Spanish word frequency list (`es/frequency/`)
+
+All counts were produced by our own scripts in `tools/frequency/` with the same method as German, English and
+French (clean-room: no third-party word list, frequency list, lexicon or dictionary was used - no wordfreq,
+hermitdave/FrequencyWords, CREA/CORPES lists of the RAE, Leipzig corpora, SUBTLEX-ESP, Hunspell/LibreOffice
+dictionaries, Wiktionary or similar). Texts were streamed and discarded; only token counts are kept (text and
+data mining: Sec. 44b UrhG; in Spain Art. 67 of Real Decreto-ley 24/2021, which transposes Art. 4 of Directive
+(EU) 2019/790; public-domain works and public-sector information under the reuse terms below). Counted on
+2026-10-21. Method and normalisation: `es/frequency/README.md`.
+
+| Source | Key | URL | Version / date | Licence / legal basis | Amount counted |
+|---|---|---|---|---|---|
+| Spanish Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/eswiki/latest/ (multistream parts 2 p159401, 3 p693324, 4 p1897741, 5 p4566829, 6 p7294873, 6 p10294873p11611013; systematic sample of 42 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German, English and French | 61,026,496 tokens from 119,562 articles |
+| Project Gutenberg (gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog `cache/epub/feeds/pg_catalog.csv`, language `es`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-21 | public domain in the US **and** every named author/editor/translator died in 1954 or earlier (in Spain authors who died before 7 Dec 1987 are protected for life + 80 years, so works of authors who died 1946-1954 may still be protected there: counts only, under the TDM exception); PG header/footer and licence text stripped; books in the old orthography excluded | 9,352,524 tokens from 140 books (list in `es/frequency/lit_books.tsv`; 378 excluded books in `es/frequency/lit_books_old.tsv`) |
+| BOE consolidated legislation (Agencia Estatal Boletín Oficial del Estado) | `gov` | open data API https://www.boe.es/datosabiertos/api/legislacion-consolidada (list, then `/id/<id>/texto`): state-level norms in force of rank Constitución, Ley Orgánica, Ley, Real Decreto-ley, Real Decreto Legislativo, Real Decreto | consolidated texts as of 2026-10-21 | BOE reuse conditions (licencia tipo, Resolución of 27 June 2024), https://www.boe.es/informacion/aviso_legal/index.php: reuse "para fines comerciales y no comerciales", including "extracción, reordenación y combinación de la información", with citation of the source; legal provisions are moreover not protected by copyright (Art. 13 LPI) | 39,380,004 tokens from 3,954 norms |
+| Diario de Sesiones del Congreso de los Diputados, Pleno y Diputación Permanente | `gov` | full text (HTML) from https://www.congreso.es/es/busqueda-de-intervenciones (`_intervenciones_mode=mostrarTextoIntegro`, id `DSCD-<legislature>-PL-<number>`), legislatures X-XIV (2011-2023), speech paragraphs only | accessed 2026-10-21 | Aviso legal https://www.congreso.es/cem/aviso-legal: "La información disponible en el sitio web www.congreso.es es susceptible de reutilización" if it is not altered or distorted, the source and the date of the last update are cited and the content is used diligently (no restriction on commercial use); deliberations of public bodies are moreover not protected by copyright (Art. 13 LPI) | 31,931,792 tokens from 751 sessions |
+
+Total: 141,690,816 tokens, 1,077,700 distinct forms (see `es/frequency/STATS.md`).
+
+Notes
+- Art. 13 of the Spanish copyright act (Real Decreto Legislativo 1/1996, LPI): "No son objeto de propiedad
+  intelectual las disposiciones legales o reglamentarias y sus correspondientes proyectos, las resoluciones de
+  los órganos jurisdiccionales y los actos, acuerdos, deliberaciones y dictámenes de los organismos públicos,
+  así como las traducciones oficiales de todos los textos anteriores."
+- Art. 67.1 RDL 24/2021 (TDM): "No será precisa la autorización del titular de los derechos de propiedad
+  intelectual para las reproducciones de obras y otras prestaciones accesibles de forma legítima realizadas con
+  fines de minería de textos y datos", unless the rights holders reserved this use (67.3). Neither the BOE nor
+  the Congreso reserves it; both allow reuse outright.
+- Not used from the BOE: the Biblioteca Jurídica Digital (CC BY-NC-ND 4.0, excluded from the BOE reuse terms)
+  and regional (autonómico) laws.
+- Senado: its Diario de Sesiones is listed on datos.gob.es (publisher "Senado de España", e.g.
+  https://datos.gob.es/es/catalogo/i00000061-buscador-de-diarios-de-sesiones-del-senado) under CC BY 4.0, but
+  senado.es refused connections from the counting environment (HTTP 403), so it was not counted.
+- datos.gob.es (Ley 37/2007, Real Decreto 1495/2011; aviso legal https://datos.gob.es/es/aviso-legal) allows
+  commercial reuse with attribution; no further dataset from it was needed.
+- We redistribute no text, only counts; attribution for the pack if required: "Basado en datos de la Agencia
+  Estatal Boletín Oficial del Estado (https://www.boe.es), legislación consolidada a 21/10/2026; Fuente:
+  Congreso de los Diputados (www.congreso.es), Diario de Sesiones, Pleno y Diputación Permanente, legislaturas
+  X-XIV, consultado el 21/10/2026."
+- Only es-ES for now: `forms.tsv` has no variety columns.
+- Gutenberg access was one sequential worker with a 2 s delay per request; BOE and Congreso two workers with
+  0.5 s / 1 s delay.
+
 ## German lexicon (`de/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of German grammar and the official

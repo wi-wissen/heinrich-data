@@ -13,7 +13,7 @@ from collections import Counter
 SRC = [("wiki", "wiki/chunk_*.tsv"), ("lit", "gut/book_*.tsv"), ("gov", "gov/*.tsv")]
 MIN_COUNT, MAX_FORMS = 3, 500_000
 GZ_LIMIT = 25 * 1024 * 1024
-REGIONS = {"de": [], "en": ["us", "gb"], "fr": []}  # fr: fr-FR only for now, no variety columns
+REGIONS = {"de": [], "en": ["us", "gb"], "fr": [], "es": []}  # fr: fr-FR, es: es-ES only for now, no variety columns
 REGION_FILE = re.compile(r"\.(?:us|gb)\.tsv$")
 VARIANTS_EN = [("color", "colour"), ("center", "centre"), ("organization", "organisation"), ("realize", "realise"),
                ("defense", "defence"), ("traveled", "travelled"), ("analyze", "analyse"), ("gray", "grey"),

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count tokens in German, English or French public-domain books from gutenberg.org (NOT projekt-gutenberg.org).
+"""Count tokens in German, English, French or Spanish public-domain books from gutenberg.org (NOT projekt-gutenberg.org).
 
 Reads the official catalog (pg_catalog.csv), selects Language == de (or en), downloads each plain text from
 gutenberg.org/cache/epub/<id>/pg<id>.txt one at a time (polite delay), strips the Project Gutenberg
@@ -17,8 +17,16 @@ Usage: count_gutenberg.py OUTDIR CATALOG_CSV max_tokens shard nshards en
 French (lang=fr): every named person (illustrators ignored) has a known death year <= 1954, the first person
 was born in 1600 or later (no Middle French: Rabelais, Montaigne ...), at most 12 books per author; canonical
 authors (CANON_FR) first, the rest in a fixed pseudo-random order.
+
+Spanish (lang=es): every named person (illustrators ignored) has a known death year <= 1954, the first person
+was born in 1700 or later (no Golden Age spelling: "dixo", "assí"), at most 12 books per author; authors from
+Spain (CANON_ES, bibliographic knowledge) first, the rest in a fixed pseudo-random order. Run with one shard
+(the per-author quota counts only books that are kept). Books in pre-1952 orthography (accented one-letter
+words "á", "é", "ó", "ú", and "fué", "dió", "vió" ...; OLD_ES) are not counted into OUTDIR: if their rate of such
+markers is at least OLD_MAX_ES per 1000 tokens, their counts go to OUTDIR_old/ instead (kept for inspection,
+not merged) and they do not use up the author's quota. The marker rate of every book is in the manifest.
 """
-import csv, os, re, subprocess, sys, time, random
+import csv, os, re, shutil, subprocess, sys, time, random
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import tok
 import authors_en
@@ -40,6 +48,22 @@ CANON_FR = ["Hugo, Victor", "Balzac", "Zola", "Flaubert", "Maupassant", "Dumas, 
             "Villiers de L'Isle-Adam", "Lautréamont", "Mallarmé", "Apollinaire", "Alain-Fournier", "Péguy", "Jarry",
             "Renard, Jules", "Courteline", "Bergson", "Tocqueville", "Michelet", "Renan", "Taine", "Constant, Benjamin",
             "Staël", "Sainte-Beuve", "Bernardin de Saint-Pierre", "Lesage", "Scarron", "Perrault"]
+# Spanish authors from Spain (bibliographic knowledge only), counted first so that the literature is mainly es-ES.
+CANON_ES = ["Pérez Galdós", "Blasco Ibáñez", "Palacio Valdés", "Pardo Bazán", "Pereda, José María", "Valera, Juan",
+            "Valle-Inclán", "Unamuno", "Benavente", "Alarcón, Pedro Antonio", "Alas, Leopoldo", "Clarín", "Larra",
+            "Picón, Jacinto", "Fernández y González", "Zorrilla, José", "Bécquer", "Espronceda", "Arniches",
+            "Salaverría", "Menéndez y Pelayo", "Coloma, Luis", "Caballero, Fernán", "Trigo, Felipe", "Machado",
+            "García Lorca", "Ramón y Cajal", "Fernández de Moratín", "Castelar", "Bretón de los Herreros", "Jarnés",
+            "Escosura", "Balmes", "Sinués", "Mesonero Romanos", "Estébanez Calderón", "Rivas, Ángel", "Hartzenbusch",
+            "Echegaray", "Tamayo y Baus", "Núñez de Arce", "Campoamor", "Ganivet", "Rueda, Salvador", "Dicenta",
+            "Zamacois", "Insúa", "Ayguals de Izco", "Martínez de la Rosa", "Gil y Carrasco", "López de Ayala",
+            "Selgas", "Trueba", "Jovellanos", "Feijoo", "Isla, José Francisco", "Iriarte", "Samaniego", "Cadalso",
+            "Carrere", "Hoyos y Vinent", "Fernández Duro", "Ortega Rubio", "Cejador", "Toreno", "Chaves Rey",
+            "Baroja", "Azorín", "Martínez Sierra", "Álvarez Quintero", "Muñoz Seca", "Linares Rivas", "Pérez de Ayala",
+            "Gómez de la Serna", "Concha Espina", "Ortega y Gasset", "Maeztu", "Rubén Darío"]
+OLD_ES = {"á", "Á", "é", "ó", "ú", "fué", "Fué", "fuí", "Fuí", "dió", "Dió", "vió", "Vió", "pié", "piés",
+          "dixo", "dixe", "assí", "quando", "Quando", "qual", "mesmo"}
+OLD_MAX_ES = 0.2  # markers per 1000 tokens
 START = re.compile(r"\*\*\* ?START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\n]*\n", re.I)
 END = re.compile(r"\*\*\* ?END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK", re.I)
 
@@ -138,6 +162,30 @@ def fr_books():
             res.append(r)
     return res
 
+def es_ok(r):
+    ps = persons(r["Authors"])
+    if not ps:
+        return False
+    for name, role in ps:
+        if role == "Illustrator":
+            continue
+        m = YEARS.search(name)
+        if not m or int(m.group(1)) > MAX_DEATH_FR:
+            return False
+    b = BIRTH.search(ps[0][0])
+    return bool(b) and int(b.group(1)) >= MIN_BIRTH_ES
+
+MIN_BIRTH_ES = 1700
+
+def es_books():
+    """Fixed-order list of Spanish candidate books: authors from Spain first (the quota is applied while counting)."""
+    rnd = random.Random(7)
+    ok = [r for r in ROWS if es_ok(r)]
+    canon = lambda r: any(persons(r["Authors"])[0][0].startswith(c) for c in CANON_ES)
+    a = [r for r in ok if canon(r)]; b = [r for r in ok if not canon(r)]
+    rnd.shuffle(a); rnd.shuffle(b)
+    return a + b
+
 ILLU = re.compile(r"\[(?:Illustration|Transcriber's Note|Footnote|Note du transcripteur|Note)[^\]]*\]", re.I)
 
 def body(t):
@@ -170,6 +218,12 @@ def main():
     elif lang == "fr":
         books_list = [(r, None) for r in fr_books()[shard::nsh]]
         caps = {None: cap}
+    elif lang == "es":
+        books_list = [(r, None) for r in es_books()[shard::nsh]]
+        caps = {None: cap}
+        olddir = outdir.rstrip("/") + "_old"
+        os.makedirs(olddir, exist_ok=True)
+        quota = defaultdict(int)
     else:
         def canon(r):
             return any(c in r["Authors"] for c in CANON)
@@ -184,6 +238,14 @@ def main():
     for r, g in books_list:
         i = r["Text#"]
         path = os.path.join(outdir, f"book_{i}.tsv")
+        if lang == "es":
+            author = persons(r["Authors"])[0][0]
+            if os.path.exists(os.path.join(olddir, f"book_{i}.tsv")):
+                continue
+            if quota[author] >= PER_AUTHOR:
+                continue
+            if os.path.exists(path):
+                quota[author] += 1
         if os.path.exists(path):
             k = int(open(path + ".n").read())
             tot_all += k; per[g] += k; books += 1
@@ -198,11 +260,24 @@ def main():
             print("skip", i, flush=True); continue
         tot, init = Counter(), Counter()
         n = tok.count_text(body(t), tot, init)
+        extra = ""
+        if lang == "es":
+            rate = 1000 * sum(tot[w] for w in OLD_ES) / max(n, 1)
+            extra = f"\t{rate:.2f}"
+            if rate >= OLD_MAX_ES:
+                op = os.path.join(olddir, f"book_{i}.tsv")
+                tok.dump(op, tot, init)
+                open(op + ".n", "w").write(str(n))
+                manifest.write(f"{i}\t{r['Authors']}\t{r['Title'].splitlines()[0]}\t{n}\t{rate:.2f}\told\n"); manifest.flush()
+                print(i, n, "old orthography", f"{rate:.2f}", flush=True)
+                continue
+            quota[author] += 1
         if g:
             tok.dump(path[:-4] + f".{g}.tsv", tot, init)
         tok.dump(path, tot, init)
         open(path + ".n", "w").write(str(n))
-        manifest.write(f"{i}\t{r['Authors']}\t{r['Title'].splitlines()[0]}\t{n}" + (f"\t{g}" if g else "") + "\n"); manifest.flush()
+        manifest.write(f"{i}\t{r['Authors']}\t{r['Title'].splitlines()[0]}\t{n}" + (f"\t{g}" if g else "")
+                       + (extra + "\tmodern" if lang == "es" else "") + "\n"); manifest.flush()
         tot_all += n; per[g] += n; books += 1
         print(i, n, "total", tot_all, "books", books, flush=True)
 
