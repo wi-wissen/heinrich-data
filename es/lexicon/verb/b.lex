@@ -13,6 +13,7 @@ beber        verb
 bendecir     verb class=bendecir
 beneficiar   verb class=diphthong
 besar        verb
+blindar      verb
 bloquear     verb
 bombardear   verb
 bordar       verb
