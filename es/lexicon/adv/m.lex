@@ -4,6 +4,7 @@ mal          adv   note=content adverb (opposite of bien)
 malamente    adv
 mancomunadamente adv
 maternalmente adv
+máxime       adv   note=especially (máxime cuando)
 mayormente   adv
 mejor        adv   note=comparative of bien
 merecidamente adv
