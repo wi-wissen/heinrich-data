@@ -103,6 +103,12 @@ points.
 | 6 | #144 d–l (diff) | 71ecf9e | 150 | 7 | 13 | 4.7 % / 8.7 % |
 | 6 | #142 m–p (diff) | acf258a | 115 | 0 | 2 | 0 % / 1.7 % |
 | 6 | #145 q–z (diff) | 76e8ced | 543 | 0 | 20 | 0 % / 3.7 % |
+| 6 | #147 d–l diminutives (diff) | 66d8dda | 11 | 0 | 0 | 0 % / 0 % |
+| 6 | #148 m–p *ombudsman* (diff) | 212e78f | 1 | 0 | 0 | 0 % / 0 % |
+| 7 | #153 a–c + class files (diff) | bfec3f6 | 298 | 1 | 8 | 0.3 % / 2.7 % |
+| 7 | #151 d–l (diff) | 1790924 | 33 | 1 | 1 | 3.0 % / 3.0 % |
+| 7 | #152 m–p (diff) | 56b97d2 | 27 | 0 | 0 | 0 % / 0 % |
+| 7 | #150 q–z (diff) | 09ef515 | 20 | 0 | 1 | 0 % / 5.0 % |
 
 Recurring findings: adjectives of the form *prefix + noun* (*anticorrupción*, *tricolor*,
 *monocolor*, *multiuso*, *bicolor*) got a derived feminine (a validator warning was proposed to the
@@ -121,6 +127,18 @@ feminine. #145 also had *tras-*/*trans-* variants set for some members of a word
 The authors settled every point in follow-up commits (#143 031d174, #144 9f672c6, #142 2087ebf,
 #145 d7b1a54); the re-check on the merge of these heads found 30,496 entries, 0 errors, 0 warnings
 and no open point.
+
+Wave 7 added the lexeme classes `collective`, `time_noun` and `colour` (`classes/*.tsv`) and nouns
+whose gender depends on the meaning (one reading per gender, `sense=`). It was reviewed with the
+engine tools from Heinrich `spanish` 1544686, which check class members, on `spanish` e7ff451 with all
+four PRs merged (30,586 entries, 253 members, 0 errors, 0 warnings, no duplicates). Each member was
+checked by hand against its class and value, and each gender reading against its sense. Most
+points concerned the class files, written before the other three PRs: members without a sense
+where the noun has two readings, values that no longer matched a changed adjective, and new
+lemmas of the other PRs that were not members yet. The two clear errors were a split that lost
+the ordinary reading (*gallina*) and the class values of *granate* and *lila*. All were settled
+(#150 f0e441f, #151 3394452, #153 f6919a4); the re-check of #153 found 280 members and no open
+point.
 
 ### Protocol deviation in round 1
 
