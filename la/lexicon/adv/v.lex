@@ -2,5 +2,7 @@
 valdē adv
 vicissim adv
 vidēlicet adv
+vīritim adv
 vix adv
+vixdum adv
 vulgō adv
