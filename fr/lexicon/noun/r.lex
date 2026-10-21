@@ -268,7 +268,7 @@ recapitalisation noun g=f
 récapitulatif noun g=m
 récapitulation noun g=f
 recel noun g=m
-receleur noun g=m f=receleuse rect=recéleur
+receleur noun g=m f=receleuse rect=recéleur conf=80
 recensement noun g=m
 recentrage noun g=m
 recentrement noun g=m

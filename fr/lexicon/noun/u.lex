@@ -11,7 +11,7 @@ ultrafiltration noun g=f
 ultranationaliste noun g=m|f
 ultrariche noun g=m|f
 ultrason noun g=m
-ululement noun g=m aspirate conf=80 note=elision varies
+ululement noun g=m note=elides (l'ululement); the h- spelling hululement is aspirate
 unanimité noun g=f
 unicité noun g=f
 unificateur noun g=m f=unificatrice
