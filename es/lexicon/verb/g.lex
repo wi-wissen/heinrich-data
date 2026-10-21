@@ -16,6 +16,7 @@ gesticular       verb
 gestionar        verb
 gimotear         verb
 girar            verb
+globalizar       verb
 glorificar       verb
 glosar           verb
 gobernar         verb  class=ie

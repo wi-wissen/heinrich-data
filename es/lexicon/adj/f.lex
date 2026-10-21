@@ -5,14 +5,16 @@ facial           adj
 fácil            adj   adv=fácilmente
 facilitador      adj
 factible         adj
-facultativo      adj
+fáctico          adj
+facultativo      adj   adv=facultativamente
 falangista       adj
 falaz            adj
+faldero          adj
 fallido          adj
 falso            adj   adv=falsamente
 falto            adj
 famélico         adj
-familiar         adj
+familiar         adj   adv=familiarmente
 famoso           adj   adv=famosamente
 fanático         adj
 fanfarrón        adj
@@ -22,9 +24,11 @@ fantasmal        adj
 fantástico       adj   adv=fantásticamente
 farmacéutico     adj
 farmacológico    adj
+farragoso        adj
 fascinante       adj
 fascista         adj
 fastidioso       adj
+fastuoso         adj   adv=fastuosamente
 fatal            adj   adv=fatalmente
 fatídico         adj
 fatigado         adj
@@ -32,6 +36,7 @@ fatigoso         adj   adv=fatigosamente
 fatuo            adj
 favorable        adj   adv=favorablemente
 favorito         adj
+febril           adj
 fecal            adj
 fecundo          adj
 federado         adj
@@ -48,6 +53,7 @@ femoral          adj
 fenicio          adj
 fenomenal        adj   adv=fenomenalmente
 feo              adj
+ferial           adj
 feroz            adj   adv=ferozmente
 férreo           adj   adv=férreamente
 ferroso          adj
@@ -58,6 +64,7 @@ ferviente        adj   adv=fervientemente
 fervoroso        adj   adv=fervorosamente
 festivo          adj   adv=festivamente
 fetal            adj
+fétido           adj
 feudal           adj
 fiable           adj
 fibroso          adj
@@ -78,6 +85,8 @@ filosofal        adj
 filosófico       adj   adv=filosóficamente
 final            adj   adv=finalmente
 finalista        adj
+financiable      adj
+financiador      adj
 financiero       adj   adv=financieramente
 fingido          adj
 finito           adj
@@ -89,6 +98,7 @@ fiscalizador     adj
 fisgón           adj
 físico           adj   adv=físicamente
 fisiológico      adj
+fitogenético     adj
 fitosanitario    adj
 flácido          adj
 flaco            adj
@@ -111,7 +121,8 @@ fofo             adj
 fogoso           adj
 folclórico       adj   var=folklórico
 foliar           adj
-fonético         adj
+fonético         adj   adv=fonéticamente
+fonológico       adj
 foral            adj
 foráneo          adj
 forastero        adj
@@ -122,6 +133,7 @@ formativo        adj
 formidable       adj
 fornido          adj
 fortuito         adj   adv=fortuitamente
+forzado          adj   adv=forzadamente
 forzoso          adj   adv=forzosamente
 forzudo          adj
 fosforescente    adj
@@ -139,6 +151,7 @@ franciscano      adj
 franco           adj   adv=francamente
 franquista       adj
 fraternal        adj   adv=fraternalmente
+fratricida       adj
 fraudulento      adj   adv=fraudulentamente
 freático         adj
 frecuente        adj   adv=frecuentemente
@@ -177,7 +190,7 @@ fungible         adj
 furibundo        adj
 furioso          adj   adv=furiosamente
 furtivo          adj   adv=furtivamente
-futbolístico     adj
+futbolístico     adj   adv=futbolísticamente
 fútil            adj
 futurista        adj
 futuro           adj

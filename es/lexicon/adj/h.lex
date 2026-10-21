@@ -7,6 +7,7 @@ habitacional     adj
 habituado        adj
 habitual         adj   adv=habitualmente
 hablador         adj
+hacendoso        adj
 haitiano         adj
 halagador        adj
 halagüeño        adj
@@ -16,6 +17,7 @@ harapiento       adj
 harinero         adj
 harto            adj
 hastiado         adj
+hawaiano         adj
 hebreo           adj
 hedonista        adj
 hegemónico       adj
@@ -56,6 +58,7 @@ hinduista        adj
 hiperbólico      adj
 hípico           adj
 hipnótico        adj
+hipocrático      adj
 hipócrita        adj
 hipotecario      adj
 hipotético       adj   adv=hipotéticamente
@@ -69,12 +72,17 @@ histérico        adj
 historicista     adj
 histórico        adj   adv=históricamente
 historiográfico  adj
+hitita           adj
 hogareño         adj
 holandés         adj
 holgado          adj   adv=holgadamente
 holgazán         adj
 holístico        adj
+homeopático      adj
+homérico         adj
 homicida         adj
+homofóbico       adj
+homófobo         adj
 homogéneo        adj
 homologable      adj
 homólogo         adj
@@ -89,7 +97,7 @@ honorífico       adj
 honrado          adj   adv=honradamente
 honroso          adj   adv=honrosamente
 horario          adj
-horizontal       adj
+horizontal       adj   adv=horizontalmente
 hormonal         adj
 horrendo         adj
 horrible         adj   adv=horriblemente
@@ -115,5 +123,6 @@ humilde          adj   adv=humildemente
 humillante       adj
 humorístico      adj
 húngaro          adj
+huno             adj
 huracanado       adj
 huraño           adj

@@ -69,6 +69,7 @@ fracasar         verb
 fraccionar       verb
 fracturar        verb
 fragmentar       verb
+fraguar          verb
 franquear        verb
 frasear          verb
 fraternizar      verb

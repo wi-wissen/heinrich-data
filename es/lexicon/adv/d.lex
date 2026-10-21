@@ -6,5 +6,6 @@ dentro           adv
 deprisa          adv   note=also written as two words: de prisa
 desgraciadamente adv
 despacio         adv
+despacito        adv   note=diminutive of despacio
 después          adv
 detrás           adv

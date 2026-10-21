@@ -22,11 +22,13 @@ garrafal         adj
 gaseoso          adj
 gasista          adj
 gastador         adj
+gástrico         adj
 gastrointestinal adj
 gastronómico     adj
 gatuno           adj
 gaucho           adj
 gay              adj   pl=gais|gays[var]
+gelatinoso       adj
 gélido           adj
 gemelo           adj
 genealógico      adj
@@ -34,28 +36,32 @@ generacional     adj
 generador        adj
 general          adj   adv=generalmente
 generalista      adj
+generativo       adj
 genérico         adj   adv=genéricamente
 generoso         adj   adv=generosamente
-genético         adj
+genético         adj   adv=genéticamente
 genial           adj
 génico           adj
 genital          adj
 genocida         adj
 genovés          adj
 gentil           adj
+gentilicio       adj
 genuino          adj   adv=genuinamente
 geodésico        adj
 geoestratégico   adj
 geográfico       adj   adv=geográficamente
 geológico        adj   adv=geológicamente
-geométrico       adj
+geométrico       adj   adv=geométricamente
 geopolítico      adj
 georgiano        adj
 geotérmico       adj
+gerencial        adj
 geriátrico       adj
 germánico        adj
 germano          adj
 germicida        adj
+germinal         adj
 gestacional      adj
 gestante         adj
 gestor           adj
@@ -73,6 +79,7 @@ globalista       adj
 globoso          adj
 globular         adj
 glorioso         adj   adv=gloriosamente
+glotal           adj
 glotón           adj
 gobernante       adj
 godo             adj
@@ -83,13 +90,14 @@ gordinflón       adj
 gordo            adj
 gótico           adj
 gozoso           adj   adv=gozosamente
+grácil           adj
 gracioso         adj   adv=graciosamente
 gradual          adj   adv=gradualmente
-gráfico          adj
+gráfico          adj   adv=gráficamente
 gramatical       adj   adv=gramaticalmente
 granadino        adj
 granate          adj
-grande           adj   apoc=gran cmp=mayor place=both
+grande           adj   apoc=gran cmp=mayor place=both adv=grandemente
 grandilocuente   adj
 grandioso        adj   adv=grandiosamente
 granítico        adj

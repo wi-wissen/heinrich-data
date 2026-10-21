@@ -21,6 +21,7 @@ hachís           noun  g=m
 hacienda         noun  g=f
 hacinamiento     noun  g=m
 hada             noun  g=f
+hado             noun  g=m
 haitiano         noun  g=m f=haitiana
 halago           noun  g=m
 halcón           noun  g=m
@@ -33,7 +34,10 @@ hambre           noun  g=f
 hambruna         noun  g=f
 hamburguesa      noun  g=f
 hamburguesería   noun  g=f
+hampa            noun  g=f
+hándicap         noun  g=m
 hangar           noun  g=m
+haplogrupo       noun  g=m
 haragán          noun  g=m f=haragana
 harapo           noun  g=m
 hardware         noun  g=m pl=- foreign note=mass noun
@@ -42,6 +46,9 @@ harina           noun  g=f
 hartazgo         noun  g=m
 hartura          noun  g=f
 hastío           noun  g=m
+hato             noun  g=m
+hawaiano         noun  g=m f=hawaiana
+hayedo           noun  g=m
 hazaña           noun  g=f
 hazmerreír       noun  g=m pl=- note=no plural in use
 hebilla          noun  g=f
@@ -104,6 +111,7 @@ hermanamiento    noun  g=m
 hermanastro      noun  g=m f=hermanastra
 hermandad        noun  g=f
 hermano          noun  g=m f=hermana
+hermenéutica     noun  g=f
 hermosura        noun  g=f
 hernia           noun  g=f
 héroe            noun  g=m f=heroína
@@ -112,6 +120,7 @@ heroína          noun  g=f sense=drug
 heroísmo         noun  g=m
 herrador         noun  g=m f=herradora
 herradura        noun  g=f
+herraje          noun  g=m
 herramienta      noun  g=f
 herrería         noun  g=f
 herrero          noun  g=m f=herrera
@@ -129,11 +138,15 @@ hibernación      noun  g=f
 hibridación      noun  g=f
 híbrido          noun  g=m
 hidalgo          noun  g=m f=hidalga
+hidalguía        noun  g=f
+hidra            noun  g=f
+hidrante         noun  g=m
 hidratación      noun  g=f
 hidrato          noun  g=m
 hidráulica       noun  g=f
 hidroavión       noun  g=m
 hidrocarburo     noun  g=m
+hidrodinámica    noun  g=f
 hidrógeno        noun  g=m
 hidrografía      noun  g=f
 hidrólisis       noun  g=f
@@ -146,6 +159,7 @@ hiena            noun  g=f
 hierba           noun  g=f
 hierbabuena      noun  g=f
 hierro           noun  g=m
+hifa             noun  g=f
 hígado           noun  g=m
 higiene          noun  g=f
 higo             noun  g=m
@@ -164,11 +178,13 @@ hinchazón        noun  g=f
 hindú            noun  g=m|f pl=hindúes|hindús[var]
 hinduismo        noun  g=m
 hinduista        noun  g=m|f
+hinojo           noun  g=m
 hiperactividad   noun  g=f
 hipérbole        noun  g=f
 hiperinflación   noun  g=f
 hipermercado     noun  g=m
 hipermetropía    noun  g=f
+hiperplasia      noun  g=f
 hipersensibilidad noun  g=f
 hipertensión     noun  g=f
 hipertrofia      noun  g=f
@@ -179,10 +195,12 @@ hipnotizador     noun  g=m f=hipnotizadora
 hipo             noun  g=m
 hipoacusia       noun  g=f
 hipocampo        noun  g=m
+hipocondría      noun  g=f
 hipocresía       noun  g=f
 hipócrita        noun  g=m|f
 hipódromo        noun  g=m
 hipopótamo       noun  g=m
+hipotálamo       noun  g=m
 hipoteca         noun  g=f
 hipotensión      noun  g=f
 hipótesis        noun  g=f
@@ -192,13 +210,17 @@ hispanista       noun  g=m|f
 hispano          noun  g=m f=hispana
 hispanoamericano noun  g=m f=hispanoamericana
 hispanohablante  noun  g=m|f
+histamina        noun  g=f
 histeria         noun  g=f
+histología       noun  g=f
 historia         noun  g=f
 historiador      noun  g=m f=historiadora
 historial        noun  g=m
 historicidad     noun  g=f
 historieta       noun  g=f
+historietista    noun  g=m|f
 historiografía   noun  g=f
+hitita           noun  g=m|f
 hito             noun  g=m
 hocico           noun  g=m
 hockey           noun  g=m pl=- note=sport, no plural
@@ -208,11 +230,14 @@ hoja             noun  g=f
 hojalata         noun  g=f
 hojaldre         noun  g=m
 hojarasca        noun  g=f
+hojuela          noun  g=f
 holandés         noun  g=m f=holandesa
 holgazán         noun  g=m f=holgazana
+holgazanería     noun  g=f
 holgura          noun  g=f
 hollín           noun  g=m
 holocausto       noun  g=m
+holograma        noun  g=m
 holotipo         noun  g=m
 hombre           noun  g=m
 hombrera         noun  g=f
@@ -225,9 +250,11 @@ homicidio        noun  g=m
 homilía          noun  g=f
 homínido         noun  g=m
 homofobia        noun  g=f
+homófobo         noun  g=m f=homófoba
 homogeneidad     noun  g=f
 homogeneización  noun  g=f
 homologación     noun  g=f
+homología        noun  g=f
 homólogo         noun  g=m f=homóloga
 homónimo         noun  g=m f=homónima
 homosexual       noun  g=m|f
@@ -267,6 +294,7 @@ horror           noun  g=m
 hortaliza        noun  g=f
 hortelano        noun  g=m f=hortelana
 hortensia        noun  g=f
+horticultor      noun  g=m f=horticultora
 horticultura     noun  g=f
 hospedaje        noun  g=m
 hospedería       noun  g=f
@@ -299,6 +327,7 @@ huésped          noun  g=m f=huéspeda
 hueste           noun  g=f
 huevera          noun  g=f
 huevo            noun  g=m
+hugonote         noun  g=m f=hugonota
 huida            noun  g=f
 hule             noun  g=m
 hulla            noun  g=f
@@ -313,6 +342,7 @@ humedal          noun  g=m
 húmero           noun  g=m
 humildad         noun  g=f
 humillación      noun  g=f
+humilladero      noun  g=m
 humo             noun  g=m
 humor            noun  g=m
 humorismo        noun  g=m
@@ -320,6 +350,7 @@ humorista        noun  g=m|f
 humus            noun  g=m
 hundimiento      noun  g=m
 húngaro          noun  g=m f=húngara
+huno             noun  g=m f=huna
 huracán          noun  g=m
 hurón            noun  g=m
 hurtadillas      noun  g=f pl_only note=only in a hurtadillas
