@@ -519,7 +519,7 @@ interinstitucional adj
 interinsular     adj
 interior         adj   adv=interiormente
 intermareal      adj
-intermedio       adj
+intermedio       adj note=an ordinary adjective: intermedio, intermedia (una zona intermedia), not an invariable inter- + noun compound
 interminable     adj adv=interminablemente
 interministerial adj
 intermitente     adj   adv=intermitentemente
