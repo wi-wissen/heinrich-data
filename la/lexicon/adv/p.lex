@@ -38,5 +38,6 @@ prōpalam adv conf=85 note=reviewer-dispute
 prope adv cmp=propius sup=proximē
 propemodum adv
 properē adv
+propterea adv
 prōrsus adv
 prōtinus adv
