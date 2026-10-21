@@ -16,7 +16,7 @@ nadir        noun  g=m
 nado         noun  g=m note=a nado
 nafta        noun  g=f
 naftalina    noun  g=f
-náhuatl      noun  g=m pl=náhuatles note=the language; written pl: the generator drops the accent
+náhuatl      noun  g=m note=the language
 nailon       noun  g=m var=nilón
 naipe        noun  g=m
 nalga        noun  g=f
