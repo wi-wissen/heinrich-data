@@ -98,7 +98,7 @@ bilingüe     adj
 bilioso      adj
 bimensual    adj
 bimestral    adj
-bimotor      adj
+bimotor      adj f=bimotor note=the same form in both genders (una avioneta bimotor)
 binacional   adj
 binario      adj
 binocular    adj
