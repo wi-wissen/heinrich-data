@@ -35,6 +35,7 @@ cēterus, cētera, cēterum adj nocmp var=caeterus[medieval]
 cibārius, cibāria, cibārium adj nocmp
 circēnsis, circēnse adj nocmp
 circumfluus, circumflua, circumfluum adj nocmp
+citerior, citerius adj sup=citimus
 cīvicus, cīvica, cīvicum adj nocmp
 cīvīlis, cīvīle adj adv note=superlative cīvīlissimus (not one of the six -limus adjectives)
 clandestīnus, clandestīna, clandestīnum adj nocmp

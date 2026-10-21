@@ -13,6 +13,7 @@ dēmēns, dēmentis adj
 dēnsus, dēnsa, dēnsum adj
 dēsertus, dēserta, dēsertum adj nocmp
 dēses, dēsidis adj stem=cons nocmp
+dēterior, dēterius adj sup=dēterrimus
 dētestābilis, dētestābile adj note=superlative dētestābilissimus (not one of the six -limus adjectives)
 dēvexus, dēvexa, dēvexum adj nocmp
 dēvius, dēvia, dēvium adj nocmp
