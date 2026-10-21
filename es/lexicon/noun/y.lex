@@ -7,8 +7,6 @@ yegua noun g=f
 yelmo noun g=m
 yema noun g=f
 yen noun g=m
-yerba noun g=f var=hierba conf=70 note=hierba is the usual spelling in Spain
-yerbabuena noun g=f var=hierbabuena conf=70
 yerno noun g=m f=nuera
 yerro noun g=m
 yesca noun g=f
@@ -23,8 +21,6 @@ yoga noun g=m pl=- note=uncountable
 yogur noun g=m pl=yogures
 yogurtera noun g=f
 yuca noun g=f
-yudo noun g=m var=judo pl=- note=sport, uncountable
-yudoca noun g=m|f var=judoca
 yugo noun g=m
 yugular noun g=f
 yunque noun g=m

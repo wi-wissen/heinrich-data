@@ -35,7 +35,6 @@ quijada noun g=f
 quijote noun g=m
 quilate noun g=m
 quilla noun g=f
-quilo noun g=m var=kilo conf=70 note=kilo is the usual spelling
 quimera noun g=f
 química noun g=f
 químico noun g=m f=química

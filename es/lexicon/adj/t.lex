@@ -177,7 +177,6 @@ trilingüe adj
 trimestral adj adv=trimestralmente
 trinitario adj
 tripartito adj
-triple adj
 triste adj adv=tristemente
 triunfador adj
 triunfal adj adv=triunfalmente
