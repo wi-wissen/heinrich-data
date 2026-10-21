@@ -63,6 +63,9 @@ TEXT = re.compile(r"<text[^>]*>(.*?)</text>", re.S)
 
 def clean(wt):
     wt = html.unescape(wt)
+    # entities written as "&nbsp;" in wikitext are "&amp;nbsp;" in the dump XML: unescape a second time
+    # (added 2026-10-21; the lists counted before were corrected with drop_forms.py instead of a recount)
+    wt = html.unescape(wt)
     m = CUT.search(wt)
     if m:
         wt = wt[:m.start()]
