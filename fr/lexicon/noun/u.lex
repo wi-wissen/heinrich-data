@@ -8,20 +8,25 @@ ulcère noun g=m
 ultimatum noun g=m
 ultra noun g=m|f
 ultrafiltration noun g=f
+ultranationaliste noun g=m|f
 ultrariche noun g=m|f
 ultrason noun g=m
 ululement noun g=m aspirate conf=80 note=elision varies
 unanimité noun g=f
 unicité noun g=f
+unificateur noun g=m f=unificatrice
 unification noun g=f
 uniforme noun g=m
 uniformisation noun g=f
 uniformité noun g=f
+unijambiste noun g=m|f
 union noun g=f
+unioniste noun g=m|f
 unisson noun g=m
 unité noun g=f
 univers noun g=m
 universalisme noun g=m
+universaliste noun g=m|f
 universalité noun g=f
 universitaire noun g=m|f
 université noun g=f
