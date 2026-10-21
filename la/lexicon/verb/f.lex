@@ -20,7 +20,7 @@ flōreō, flōruī, -, flōrēre verb intr
 fluō, flūxī, -, fluere verb intr conf=75 note=length of the u in the perfect?
 fodiō, fōdī, fossum, fodere verb
 for, fātus sum, fārī verb note=no long vowel in the lemma; defective, mostly fātur, fārī, fātus
-fōrmīdō, fōrmīdāvī, fōrmīdātum, fōrmīdāre verb conf=80 note=length of the o, against the noun formīdō?
+formīdō, formīdāvī, formīdātum, formīdāre verb conf=80 note=length of the o, as the noun formīdō
 fōrmō, fōrmāvī, fōrmātum, fōrmāre verb conf=85 note=length of the o, as in fōrma?
 foveō, fōvī, fōtum, fovēre verb
 frangō, frēgī, frāctum, frangere verb

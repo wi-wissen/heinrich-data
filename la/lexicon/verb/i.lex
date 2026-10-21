@@ -49,9 +49,9 @@ ineō, iniī, initum, inīre verb class=eo
 īnficiō, īnfēcī, īnfectum, īnficere verb
 īnfīgō, īnfīxī, īnfīxum, īnfīgere verb
 īnflammō, īnflammāvī, īnflammātum, īnflammāre verb
-inflectō, inflexī, inflexum, inflectere verb
+īnflectō, īnflexī, īnflexum, īnflectere verb
 īnflō, īnflāvī, īnflātum, īnflāre verb
-influō, influxī, -, influere verb intr
+īnfluō, īnflūxī, -, īnfluere verb intr conf=80 note=length of the u in the perfect, as flūxī?
 īnfundō, īnfūdī, īnfūsum, īnfundere verb
 ingemō, ingemuī, -, ingemere verb intr
 ingerō, ingessī, ingestum, ingerere verb

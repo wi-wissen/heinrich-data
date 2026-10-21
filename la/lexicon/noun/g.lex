@@ -3,7 +3,7 @@ galea, galeae noun f
 gallīna, gallīnae noun f
 gallus, gallī noun m
 gaudium, gaudiī noun n
-gāza, gāzae noun f
+gaza, gazae noun f conf=80 note=reviewer-dispute; length in the lemma
 gelū, gelūs noun n sg_only
 gemitus, gemitūs noun m
 gemma, gemmae noun f

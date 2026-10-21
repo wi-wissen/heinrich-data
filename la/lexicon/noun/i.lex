@@ -62,7 +62,7 @@ inopia, inopiae noun f sg_only
 īnsidiātor, īnsidiātōris noun m
 īnsolentia, īnsolentiae noun f
 īnstar noun n indecl cases=nom|acc
-īnstinctus, īnstinctūs noun m
+īnstīnctus, īnstīnctūs noun m
 īnstitūtiō, īnstitūtiōnis noun f
 īnstitūtum, īnstitūtī noun n
 īnstrūmentum, īnstrūmentī noun n
