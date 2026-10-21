@@ -201,7 +201,8 @@ laryngoscope   noun g=m
 laryngoscopie  noun g=f
 larynx         noun g=m
 lasagne        noun g=f
-lascar         noun g=m style=colloquial alt=gaillard|filou
+lascar         noun g=m sense=rascal style=colloquial alt=gaillard|filou
+lascar         noun g=m sense=sailor note=historical: Indian sailor on European ships
 lasciveté      noun g=f conf=85 note=also lascivité
 laser          noun g=m
 lassitude      noun g=f
