@@ -10,6 +10,7 @@ nausear      verb  conf=80 note=rare; usual is tener náuseas
 navegar      verb
 nebulizar    verb
 necesitar    verb
+necrosar     verb
 negar        verb  class=ie
 negociar     verb  class=diphthong
 neutralizar  verb

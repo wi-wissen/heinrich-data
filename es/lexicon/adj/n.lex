@@ -3,14 +3,17 @@ nabateo      adj
 nacarado     adj
 naciente     adj
 nacional     adj   adv=nacionalmente
+nacionalcatólico adj
 nacionalista adj
+nacionalsindicalista adj
 nacionalsocialista adj
 nahua        adj
-náhuatl      adj
+náhuatl      adj   pl=náhuatles note=written pl: the generator drops the accent (nahuatles)
 naíf         adj   pl=naífs
 napoleónico  adj
 napolitano   adj
 naranja      adj   inv
+naranjero    adj
 narcisista   adj
 narcótico    adj
 narigudo     adj
@@ -26,6 +29,7 @@ nato         adj
 natural      adj   adv=naturalmente
 naturalista  adj
 naturista    adj
+náufrago     adj
 nauseabundo  adj
 náutico      adj
 naval        adj
@@ -49,6 +53,8 @@ nectarífero  adj
 neerlandés   adj
 nefando      adj
 nefasto      adj
+nefrítico    adj
+nefrótico    adj
 negado       adj
 negativo     adj   adv=negativamente
 negligente   adj   adv=negligentemente
@@ -62,10 +68,12 @@ nemoroso     adj   style=literary
 neobarroco   adj
 neoclásico   adj
 neocolonial  adj
+neocolonialista adj
 neoconservador adj
 neofascista  adj
 neofranquista adj
 neogótico    adj
+neokantiano  adj
 neolatino    adj
 neoliberal   adj
 neolítico    adj
@@ -73,6 +81,7 @@ neonatal     adj
 neonazi      adj
 neopagano    adj
 neoplatónico adj
+neorrealista adj
 neorrománico adj
 neotropical  adj
 neoyorquino  adj
@@ -89,10 +98,13 @@ neurálgico   adj
 neurasténico adj
 neurocognitivo adj
 neurodegenerativo adj
+neuroendocrino adj
+neurofisiológico adj
 neuroléptico adj
 neurológico  adj
 neuromuscular adj
 neuronal     adj
+neuroprotector adj
 neurosensorial adj
 neurótico    adj
 neurotóxico  adj
@@ -150,6 +162,7 @@ noticioso    adj
 notificador  adj
 notorio      adj   adv=notoriamente
 novato       adj
+novecentista adj
 novedoso     adj   adv=novedosamente
 novel        adj
 novelero     adj

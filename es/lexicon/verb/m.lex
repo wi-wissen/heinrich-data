@@ -2,6 +2,7 @@
 macerar      verb
 machacar     verb
 machihembrar verb
+machucar     verb
 madrugar     verb
 madurar      verb
 magnetizar   verb
@@ -15,6 +16,7 @@ malcomer     verb
 malcriar     verb  class=hiatus
 maldecir     verb  class=bendecir
 malear       verb
+maleducar    verb
 malformar    verb
 malgastar    verb
 malherir     verb  class=ie_i
@@ -70,6 +72,7 @@ mascullar    verb
 masificar    verb
 masterizar   verb
 masticar     verb
+masturbar    verb
 matar        verb
 materializar verb
 matizar      verb

@@ -116,6 +116,7 @@ oponible     adj
 oportunista  adj
 oportuno     adj   adv=oportunamente
 opresivo     adj
+oprobioso    adj
 optante      adj
 optativo     adj
 óptico       adj   adv=ópticamente
@@ -141,6 +142,7 @@ organizacional adj
 organizativo adj   adv=organizativamente
 organoclorado adj
 organoléptico adj
+orgiástico   adj
 orgulloso    adj   adv=orgullosamente
 orientador   adj
 oriental     adj
@@ -157,6 +159,7 @@ orquestal    adj
 ortodoxo     adj
 ortogonal    adj
 ortográfico  adj
+ortonormal   adj
 ortopédico   adj
 ortoprotésico adj
 ortorrómbico adj

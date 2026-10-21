@@ -6,24 +6,31 @@ nación       noun  g=f
 nacionalcatolicismo noun  g=m
 nacionalidad noun  g=f
 nacionalismo noun  g=m
+nacionalista noun  g=m|f
 nacionalización noun  g=f
+nacionalsindicalismo noun  g=m
 nacionalsocialismo noun  g=m
 nadador      noun  g=m f=nadadora
 nadería      noun  g=f
 nadir        noun  g=m
+nado         noun  g=m note=a nado
 nafta        noun  g=f
 naftalina    noun  g=f
-náhuatl      noun  g=m note=the language
+náhuatl      noun  g=m pl=náhuatles note=the language; written pl: the generator drops the accent
 nailon       noun  g=m var=nilón
 naipe        noun  g=m
 nalga        noun  g=f
 nana         noun  g=f
+nanociencia  noun  g=f
 nanoestructura noun  g=f
+nanogramo    noun  g=m
+nanomaterial noun  g=m
 nanómetro    noun  g=m
 nanopartícula noun  g=f
 nanosegundo  noun  g=m
 nanotecnología noun  g=f
 nanotubo     noun  g=m
+nao          noun  g=f style=archaic
 napa         noun  g=f
 napalm       noun  g=m
 napia        noun  g=f style=colloquial alt=nariz
@@ -59,6 +66,7 @@ natalismo    noun  g=m
 natillas     noun  g=f pl_only
 natividad    noun  g=f
 nativo       noun  g=m f=nativa
+natura       noun  g=f note=contra natura
 natural      noun  g=m note=el natural: nature, temperament
 naturaleza   noun  g=f
 naturalidad  noun  g=f
@@ -69,9 +77,12 @@ naturismo    noun  g=m
 naturista    noun  g=m|f
 naufragio    noun  g=m
 náufrago     noun  g=m f=náufraga
+naumaquia    noun  g=f
 náusea       noun  g=f
+nauta        noun  g=m|f style=literary
 náutica      noun  g=f
 navaja       noun  g=f
+navajada     noun  g=f
 navajazo     noun  g=m
 navajero     noun  g=m f=navajera
 nave         noun  g=f
@@ -106,10 +117,12 @@ necrosis     noun  g=f
 néctar       noun  g=m
 nectarina    noun  g=f
 nectario     noun  g=m
+nefrectomía  noun  g=f
 nefritis     noun  g=f
 nefrología   noun  g=f
 nefrólogo    noun  g=m f=nefróloga
 nefrona      noun  g=f
+nefropatía   noun  g=f
 negación     noun  g=f
 negacionismo noun  g=m
 negacionista noun  g=m|f
@@ -124,21 +137,26 @@ negocio      noun  g=m
 negrero      noun  g=m f=negrera
 negrilla     noun  g=f
 negrita      noun  g=f
+negritud     noun  g=f
 negrura      noun  g=f
 nematocisto  noun  g=m
 nematodo     noun  g=m
 némesis      noun  g=f
 nene         noun  g=m f=nena
 nenúfar      noun  g=m
+neocapitalismo noun  g=m
 neoclasicismo noun  g=m
 neocolonialismo noun  g=m
 neoconservador noun  g=m f=neoconservadora
 neocórtex    noun  g=m
+neodarwinismo noun  g=m
 neodimio     noun  g=m
+neoexpresionismo noun  g=m
 neofascismo  noun  g=m
 neófito      noun  g=m f=neófita
 neofranquismo noun  g=m
 neógeno      noun  g=m
+neoimpresionismo noun  g=m
 neoliberalismo noun  g=m
 neolítico    noun  g=m
 neologismo   noun  g=m
@@ -149,9 +167,13 @@ neonazi      noun  g=m|f
 neopaganismo noun  g=m
 neoplasia    noun  g=f
 neoplatonismo noun  g=m
+neopositivismo noun  g=m
 neopreno     noun  g=m
 neorrealismo noun  g=m
+neorromanticismo noun  g=m
 nepotismo    noun  g=m
+neptunio     noun  g=m
+nereida      noun  g=f
 nervadura    noun  g=f
 nervio       noun  g=m
 nerviosismo  noun  g=m
@@ -167,6 +189,7 @@ neura        noun  g=f style=colloquial alt=manía|obsesión
 neuralgia    noun  g=f
 neurastenia  noun  g=f
 neuritis     noun  g=f
+neuroanatomía noun  g=f
 neurobiología noun  g=f
 neurociencia noun  g=f
 neurocientífico noun  g=m f=neurocientífica
@@ -188,7 +211,9 @@ neuropatía   noun  g=f
 neuropatología noun  g=f
 neuropéptido noun  g=m
 neuropsicología noun  g=f
+neuroquímica noun  g=f
 neurosis     noun  g=f
+neuroticismo noun  g=m
 neurótico    noun  g=m f=neurótica
 neurotoxina  noun  g=f
 neurotransmisión noun  g=f
@@ -204,6 +229,7 @@ nevado       noun  g=m
 nevera       noun  g=f
 nevero       noun  g=m
 nevisca      noun  g=f
+newton       noun  g=m note=unit of force
 nexo         noun  g=m
 niacina      noun  g=f
 nicho        noun  g=m

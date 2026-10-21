@@ -20,6 +20,7 @@ parafrasear  verb
 paralizar    verb
 parapetar    verb
 parar        verb
+parasitar    verb
 parcelar     verb
 parchear     verb
 parecer      verb  class=zco
@@ -41,6 +42,7 @@ patalear     verb
 patear       verb
 patentar     verb
 patinar      verb
+patrimonializar verb
 patrocinar   verb
 patrullar    verb
 pausar       verb
@@ -74,9 +76,11 @@ perfeccionar verb
 perfilar     verb
 perforar     verb
 perfumar     verb
+pergeñar     verb
 perjudicar   verb
 perjurar     verb
 permanecer   verb  class=zco
+permeabilizar verb
 permitir     verb
 permutar     verb
 pernoctar    verb
@@ -92,6 +96,7 @@ personar     verb  pronominal note=personarse en una causa
 personificar verb
 persuadir    verb
 pertenecer   verb  class=zco
+pertrechar   verb
 perturbar    verb
 pervertir    verb  class=ie_i
 pervivir     verb
@@ -99,20 +104,24 @@ pesar        verb
 pescar       verb
 pesquisar    verb
 pestañear    verb
+petardear    verb
 petrificar   verb
 piafar       verb
 piar         verb  class=hiatus
 picar        verb
 picotear     verb
 pifiar       verb  class=diphthong
+pigmentar    verb
 pignorar     verb
 pillar       verb  style=colloquial alt=coger|atrapar
 pilotar      verb
 pinchar      verb
 pintar       verb
 pintarrajear verb
+pirar        verb  style=colloquial alt=irse note=pirarse
 piratear     verb
 piropear     verb
+pirrar       verb  pronominal style=colloquial alt=encantar note=pirrarse por algo
 pisar        verb
 pisotear     verb
 pitar        verb
@@ -126,22 +135,27 @@ planificar   verb
 plantar      verb
 plantear     verb
 plantificar  verb
+plañir       verb
 plasmar      verb
 plastificar  verb
-platicar     verb  conf=80 note=mainly American
+platear      verb
 plegar       verb  class=ie
 pleitear     verb
 pluralizar   verb
 poblar       verb  class=ue
 podar        verb
 poder        verb  class=poder pp_inv
+poetizar     verb
 polarizar    verb
 polemizar    verb
+polinizar    verb
+politiquear  verb
 politizar    verb
 ponderar     verb
 poner        verb  class=poner
 pontificar   verb
 popularizar  verb
+pordiosear   verb
 porfiar      verb  class=hiatus
 pormenorizar verb
 portar       verb
@@ -170,6 +184,7 @@ precocinar   verb
 preconcebir  verb  class=i
 preconizar   verb
 predecir     verb  class=predecir
+predefinir   verb
 predestinar  verb
 predeterminar verb
 predicar     verb
@@ -183,6 +198,7 @@ prefijar     verb
 pregonar     verb
 preguntar    verb
 prejuzgar    verb
+preludiar    verb  class=diphthong
 premeditar   verb
 premiar      verb  class=diphthong
 prendar      verb
@@ -191,6 +207,7 @@ prensar      verb
 preñar       verb
 preocupar    verb
 preparar     verb
+preponderar  verb
 presagiar    verb  class=diphthong
 prescindir   verb
 prescribir   verb  pp=prescrito
@@ -208,8 +225,10 @@ presuponer   verb  class=poner
 presupuestar verb
 presurizar   verb
 pretender    verb
+preterir     verb  defective=inf|pp conf=80 note=defective: mostly infinitive and participle
 pretextar    verb
 prevalecer   verb  class=zco
+prevaler     verb  class=valer note=mostly prevalerse de
 prevaricar   verb
 prevenir     verb  class=venir
 prever       verb  class=ver
@@ -239,6 +258,7 @@ programar    verb
 progresar    verb
 prohibir     verb  class=hiatus
 prohijar     verb  class=hiatus
+proletarizar verb
 proliferar   verb
 prologar     verb
 prolongar    verb
@@ -250,6 +270,7 @@ promulgar    verb
 pronosticar  verb
 pronunciar   verb  class=diphthong
 propagar     verb
+propasar     verb  pronominal note=propasarse
 propiciar    verb  class=diphthong
 propinar     verb
 proponer     verb  class=poner
@@ -261,6 +282,7 @@ prorrogar    verb
 prorrumpir   verb
 proscribir   verb  pp=proscrito
 proseguir    verb  class=i
+prospectar   verb
 prosperar    verb
 prostituir   verb
 protagonizar verb
@@ -286,6 +308,7 @@ pulverizar   verb
 puntear      verb
 puntualizar  verb
 puntuar      verb
+punzar       verb
 purgar       verb
 purificar    verb
 putear       verb  style=vulgar alt=fastidiar|molestar

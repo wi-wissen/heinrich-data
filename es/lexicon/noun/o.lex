@@ -21,6 +21,7 @@ objetor      noun  g=m f=objetora
 oblación     noun  g=f
 oblato       noun  g=m f=oblata
 oblea        noun  g=f
+oblicuidad   noun  g=f
 obligación   noun  g=f
 obligacionista noun  g=m|f
 obligatoriedad noun  g=f
@@ -32,6 +33,7 @@ oboísta      noun  g=m|f
 obra         noun  g=f
 obrador      noun  g=m
 obraje       noun  g=m
+obrerismo    noun  g=m
 obrero       noun  g=m f=obrera
 obscenidad   noun  g=f
 obsequio     noun  g=m
@@ -120,6 +122,7 @@ ofrecimiento noun  g=m
 ofrenda      noun  g=f
 oftalmología noun  g=f
 oftalmólogo  noun  g=m f=oftalmóloga
+oftalmoscopio noun  g=m
 ofuscación   noun  g=f
 ogro         noun  g=m
 ohmio        noun  g=m
@@ -146,9 +149,11 @@ oleoducto    noun  g=m
 olfato       noun  g=m
 oligarca     noun  g=m|f
 oligarquía   noun  g=f
+oligoceno    noun  g=m
 oligoelemento noun  g=m
 oligofrenia  noun  g=f
 oligopolio   noun  g=m
+oligopsonio  noun  g=m
 olimpiada    noun  g=f var=olimpíada
 olimpismo    noun  g=m
 oliva        noun  g=f
@@ -187,6 +192,7 @@ onomatopeya  noun  g=f
 ontogenia    noun  g=f
 ontología    noun  g=f
 onza         noun  g=f
+opa          noun  g=f note=oferta pública de adquisición, written as a common noun
 opacidad     noun  g=f
 ópalo        noun  g=m
 opción       noun  g=f
@@ -205,6 +211,8 @@ opinión      noun  g=f
 opio         noun  g=m
 opioide      noun  g=m
 oponente     noun  g=m|f
+oponibilidad noun  g=f
+oporto       noun  g=m note=port wine
 oportunidad  noun  g=f
 oportunismo  noun  g=m
 oportunista  noun  g=m|f
@@ -245,6 +253,7 @@ ordenamiento noun  g=m
 ordenante    noun  g=m|f
 ordenanza    noun  g=f sense=regulation
 ordenanza    noun  g=m|f sense=orderly note=el/la ordenanza: office messenger, military orderly
+ordeñador    noun  g=m f=ordeñadora
 ordeño       noun  g=m
 ordinal      noun  g=m
 ordinariez   noun  g=f
@@ -257,6 +266,7 @@ orfandad     noun  g=f
 orfebre      noun  g=m|f
 orfebrería   noun  g=f
 orfeón       noun  g=m
+organdí      noun  g=m pl=organdíes|organdís[var]
 organero     noun  g=m f=organera
 organigrama  noun  g=m
 organillero  noun  g=m f=organillera
@@ -339,6 +349,11 @@ osmorregulación noun  g=f
 oso          noun  g=m f=osa
 ostentación  noun  g=f
 osteoartritis noun  g=f
+osteoartrosis noun  g=f
+osteoblasto  noun  g=m
+osteocito    noun  g=m
+osteoclasto  noun  g=m
+osteología   noun  g=f
 osteomielitis noun  g=f
 osteópata    noun  g=m|f
 osteopatía   noun  g=f
@@ -347,6 +362,7 @@ osteosarcoma noun  g=m
 ostión       noun  g=m
 ostra        noun  g=f
 ostracismo   noun  g=m
+ostrero      noun  g=m
 otero        noun  g=m
 otitis       noun  g=f
 otomano      noun  g=m f=otomana
@@ -373,6 +389,8 @@ oxidación    noun  g=f
 oxigenación  noun  g=f
 oxígeno      noun  g=m
 oxigenoterapia noun  g=f
+oxihemoglobina noun  g=f
+oxímetro     noun  g=m
 oxímoron     noun  g=m inv
 oxitocina    noun  g=f
 oyente       noun  g=m|f

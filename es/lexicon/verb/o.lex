@@ -40,12 +40,14 @@ olvidar      verb
 omitir       verb
 ondear       verb
 ondular      verb
+opacar       verb
 operar       verb
 opinar       verb
 oponer       verb  class=poner
 opositar     verb
 oprimir      verb
 optar        verb
+optimar      verb
 optimizar    verb
 orar         verb
 orbitar      verb

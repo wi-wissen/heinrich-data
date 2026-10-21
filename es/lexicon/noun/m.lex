@@ -72,6 +72,7 @@ magnitud     noun  g=f
 magnolia     noun  g=f
 magnum       noun  g=m foreign pl=magnums
 mago         noun  g=m f=maga
+magro        noun  g=m
 magulladura  noun  g=f
 maharajá     noun  g=m f=maharaní fpl=maharaníes|maharanís[var]
 maicena      noun  g=f
@@ -264,6 +265,7 @@ maquinista   noun  g=m|f
 maquis       noun  g=m|f note=guerrilla fighter; invariable
 mar          noun  g=amb
 marabú       noun  g=m pl=marabúes|marabús[var]
+maraca       noun  g=f
 maracas      noun  g=f pl_only
 maracuyá     noun  g=m
 maraña       noun  g=f
@@ -944,6 +946,7 @@ molinillo    noun  g=m
 molino       noun  g=m
 molleja      noun  g=f
 mollera      noun  g=f
+mollete      noun  g=m
 molturación  noun  g=f
 molusco      noun  g=m
 momentito    noun  g=m
@@ -1024,6 +1027,7 @@ monumentalidad noun  g=f
 monumento    noun  g=m
 monzón       noun  g=amb
 moño         noun  g=m
+mopa         noun  g=f
 moqueta      noun  g=f
 mora         noun  g=f note=fruit; also delay in payment
 morador      noun  g=m f=moradora
@@ -1149,6 +1153,7 @@ muermo       noun  g=m style=colloquial alt=aburrimiento
 muerte       noun  g=f
 muerto       noun  g=m f=muerta
 muesca       noun  g=f
+muesli       noun  g=m
 muestra      noun  g=f
 muestrario   noun  g=m
 muestreo     noun  g=m
