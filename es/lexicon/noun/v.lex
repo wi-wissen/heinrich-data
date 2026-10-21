@@ -8,12 +8,22 @@ vacuna noun g=f
 vacunación noun g=f
 vado noun g=m
 vagabundo noun g=m f=vagabunda
+vagancia noun g=f
+vago noun g=m f=vaga style=colloquial alt=holgazán|perezoso
 vagón noun g=m
+vagoneta noun g=f
+vaho noun g=m
 vaina noun g=f
+vainilla noun g=f
 vaivén noun g=m
+vajilla noun g=f
+vale noun g=m sense=voucher
 valentía noun g=f
+valía noun g=f
 validación noun g=f
 validez noun g=f
+valiente noun g=m|f
+valija noun g=f
 valla noun g=f
 vallado noun g=m
 valle noun g=m
@@ -29,19 +39,23 @@ vanguardia noun g=f
 vanidad noun g=f
 vapor noun g=m
 vaquero noun g=m f=vaquera
+vaqueros noun g=m pl_only sense=jeans note=los vaqueros: jeans
 vara noun g=f
 variabilidad noun g=f
 variable noun g=f
 variación noun g=f
 variante noun g=f
+varicela noun g=f
 variedad noun g=f
 varilla noun g=f
+varita noun g=f
 varón noun g=m
 vasallaje noun g=m
 vasallo noun g=m f=vasalla
 vasija noun g=f
 vaso noun g=m
 vástago noun g=m
+vatio noun g=m
 vecindad noun g=f
 vecindario noun g=m
 vecino noun g=m f=vecina
@@ -49,18 +63,30 @@ vector noun g=m
 vega noun g=f
 vegetación noun g=f
 vegetal noun g=m
+vegetariano noun g=m f=vegetariana
 vehemencia noun g=f
 vehículo noun g=m
 veintena noun g=f
 vejez noun g=f
 vejiga noun g=f
 vela noun g=f
+velada noun g=f
+velador noun g=m
+velatorio noun g=m
+velero noun g=m
+veleta noun g=f
 vello noun g=m
+velo noun g=m
 velocidad noun g=f
+velocímetro noun g=m
+velódromo noun g=m
 vena noun g=f
 venado noun g=m
 vencedor noun g=m f=vencedora
 vencimiento noun g=m
+venda noun g=f
+vendaje noun g=m
+vendaval noun g=m
 vendedor noun g=m f=vendedora
 vendimia noun g=f
 veneno noun g=m
@@ -73,14 +99,20 @@ ventana noun g=f
 ventanal noun g=m
 ventanilla noun g=f
 ventilación noun g=f
+ventilador noun g=m
+ventisca noun g=f
+ventrílocuo noun g=m f=ventrílocua
 ventura noun g=f
 veracidad noun g=f
+veraneante noun g=m|f
 verano noun g=m
 veras noun g=f pl_only note=only in de veras
 verbena noun g=f
 verbo noun g=m
 verdad noun g=f
 verdugo noun g=m
+verdulería noun g=f
+verdulero noun g=m f=verdulera
 verdura noun g=f
 vereda noun g=f
 veredicto noun g=m
@@ -88,6 +120,7 @@ vergüenza noun g=f
 verificación noun g=f
 verja noun g=f
 verosimilitud noun g=f
+verruga noun g=f
 versatilidad noun g=f
 versículo noun g=m
 versión noun g=f
@@ -113,6 +146,7 @@ vez noun g=f
 vía noun g=f
 viabilidad noun g=f
 viaducto noun g=m
+viajante noun g=m|f
 viaje noun g=m
 viajero noun g=m f=viajera
 víbora noun g=f
@@ -129,6 +163,7 @@ victimismo noun g=m
 victoria noun g=f
 vid noun g=f
 vida noun g=f
+vidente noun g=m|f
 vídeo noun g=m var=video
 videocámara noun g=f
 videoclip noun g=m pl=videoclips
@@ -136,6 +171,7 @@ videoconferencia noun g=f
 videojuego noun g=m
 vidriera noun g=f
 vidrio noun g=m
+viejo noun g=m f=vieja
 viento noun g=m
 vientre noun g=m
 viernes noun g=m
@@ -148,8 +184,10 @@ vigilia noun g=f
 vigor noun g=m
 vikingo noun g=m f=vikinga
 villa noun g=f
+villancico noun g=m
 villano noun g=m f=villana
 vinagre noun g=m
+vinagreta noun g=f
 vinculación noun g=f
 vínculo noun g=m
 vinilo noun g=m
@@ -157,12 +195,16 @@ vino noun g=m
 viña noun g=f
 viñedo noun g=m
 viñeta noun g=f
+viola noun g=f
 violación noun g=f
 violador noun g=m f=violadora
 violencia noun g=f
+violeta noun g=f sense=flower
+violeta noun g=m sense=colour
 violín noun g=m
 violinista noun g=m|f
 violonchelo noun g=m
+viraje noun g=m
 virgen noun g=f
 virginidad noun g=f
 virreinato noun g=m
@@ -173,14 +215,19 @@ virtuoso noun g=m f=virtuosa
 viruela noun g=f
 virulencia noun g=f
 virus noun g=m
+viruta noun g=f
 visa noun g=f
 visado noun g=m
+víscera noun g=f
 viscosidad noun g=f
+visera noun g=f
 visibilidad noun g=f
+visillo noun g=m
 visión noun g=f
 visir noun g=m
 visita noun g=f
 visitante noun g=m|f
+visón noun g=m
 visos noun g=m pl_only note=tener visos de
 víspera noun g=f
 vista noun g=f
@@ -194,6 +241,7 @@ viudo noun g=m f=viuda
 vivencia noun g=f
 víveres noun g=m pl_only
 vivero noun g=m
+viveza noun g=f
 vivienda noun g=f
 vizconde noun g=m f=vizcondesa
 vocablo noun g=m
@@ -205,10 +253,12 @@ vocalía noun g=f
 vocalista noun g=m|f
 vodevil noun g=m
 volante noun g=m
+volantín noun g=m
 volatilidad noun g=f
 volcán noun g=m
 voleibol noun g=m
 voltaje noun g=m
+voltereta noun g=f
 voltio noun g=m
 volumen noun g=m
 voluntad noun g=f
@@ -222,8 +272,10 @@ votación noun g=f
 votante noun g=m|f
 voto noun g=m
 voz noun g=f
+vuelco noun g=m
 vuelo noun g=m
 vuelta noun g=f
+vuelto noun g=m
 vulgo noun g=m
 vulnerabilidad noun g=f
 vulneración noun g=f

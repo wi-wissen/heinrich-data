@@ -2,6 +2,7 @@
 vacacional adj
 vacilante adj
 vacío adj
+vacuno adj
 vaginal adj
 vago adj adv=vagamente
 valenciano adj
@@ -11,8 +12,11 @@ valiente adj
 valioso adj
 valorativo adj
 vanguardista adj
+vanidoso adj
 vano adj adv=vanamente
 variable adj
+variado adj
+variopinto adj
 varonil adj
 vasco adj
 vascular adj
@@ -21,18 +25,23 @@ vecinal adj
 vecino adj
 vectorial adj
 vegetal adj
+vegetariano adj
 vegetativo adj
 vehemente adj
 vehicular adj
 veloz adj adv=velozmente
 vencedor adj
+vencido adj
 veneciano adj
 venenoso adj
 venerable adj
 venezolano adj
+vengativo adj
 venidero adj
 ventajoso adj
 ventral adj
+venturoso adj
+veraniego adj
 veraz adj
 verbal adj adv=verbalmente
 verdadero adj adv=verdaderamente
@@ -64,13 +73,16 @@ vikingo adj
 vil adj
 vinculante adj
 vinícola adj
+violáceo adj
 violento adj adv=violentamente
 violeta adj inv
 viral adj
 virgen adj
+viril adj
 virreinal adj
 virtual adj adv=virtualmente
 virtuoso adj
+viscoso adj
 visible adj
 visigodo adj
 vistoso adj
@@ -79,13 +91,18 @@ vital adj
 vitalicio adj
 vitícola adj
 vitivinícola adj
+vívido adj
 viviente adj
 vivo adj adv=vivamente
+vocacional adj
 volador adj
 volátil adj
 volcánico adj
+voluble adj
 volumétrico adj
+voluminoso adj
 voluntario adj adv=voluntariamente
+voluntarioso adj
 voraz adj
 vulgar adj adv=vulgarmente
 vulnerable adj

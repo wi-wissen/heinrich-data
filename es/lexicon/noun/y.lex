@@ -11,5 +11,9 @@ yihadismo noun g=m
 yihadista noun g=m|f
 yodo noun g=m
 yoga noun g=m pl=- note=uncountable
+yogur noun g=m pl=yogures
 yuca noun g=f
+yudo noun g=m var=judo pl=- note=sport, uncountable
 yugo noun g=m
+yunque noun g=m
+yuxtaposición noun g=f

@@ -1,61 +1,96 @@
 # Spanish noun entries, letter t. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+taba noun g=f
 tabaco noun g=m
+tábano noun g=m
 tabaquismo noun g=m
+tabarra noun g=f style=colloquial alt=lata|molestia
 taberna noun g=f
+tabernero noun g=m f=tabernera
 tabique noun g=m
 tabla noun g=f
+tablao noun g=m
 tablero noun g=m
 tableta noun g=f
 tablilla noun g=f
+tabloide noun g=m
 tablón noun g=m
 tabú noun g=m pl=tabúes|tabús[var]
+taburete noun g=m
+tacañería noun g=f
+tachuela noun g=f
+taco noun g=m
 tacógrafo noun g=m
 tacón noun g=m
 táctica noun g=f
 tacto noun g=m
 taekwondo noun g=m foreign pl=- note=uncountable (sport, genre or mass noun)
+tajada noun g=f
+tajo noun g=m
 tala noun g=f
+taladro noun g=m
 talante noun g=m
+talco noun g=m
+talego noun g=m
 talento noun g=m
 talibán noun g=m|f
+talismán noun g=m
 talla noun g=f
 talle noun g=m
 taller noun g=m
 tallo noun g=m
 talón noun g=m
+talonario noun g=m
 talud noun g=m
 tamaño noun g=m
 tambor noun g=m
+tamboril noun g=m
+tamiz noun g=m
+tampón noun g=m
+tanatorio noun g=m
 tanda noun g=f
 tándem noun g=m pl=tándems
 tangente noun g=f
 tango noun g=m
 tanque noun g=m
 tanteo noun g=m
+tapa noun g=f
+tapadera noun g=f
+tapete noun g=m
 tapia noun g=f
 tapial noun g=m
+tapicería noun g=f
 tapiz noun g=m
 tapón noun g=m
 taquígrafo noun g=m f=taquígrafa
 taquilla noun g=f
+tara noun g=f
+tarántula noun g=f
 tardanza noun g=f
 tarde noun g=f
 tarea noun g=f
 tarifa noun g=f
 tarima noun g=f
 tarjeta noun g=f
+tarro noun g=m
 tarta noun g=f
+tartera noun g=f
 tasa noun g=f
 tasación noun g=f
+tasca noun g=f
+tatarabuelo noun g=m f=tatarabuela
 tatuaje noun g=m
+tauro noun g=m
 tauromaquia noun g=f
 taxi noun g=m
+taxímetro noun g=m
 taxista noun g=m|f
 taxón noun g=m
 taxonomía noun g=f
 taza noun g=f
+tazón noun g=m
 té noun g=m
 teatro noun g=m
+tebeo noun g=m
 techo noun g=m
 techumbre noun g=f
 tecla noun g=f
@@ -65,22 +100,30 @@ técnica noun g=f
 técnico noun g=m f=técnica
 tecnificación noun g=f
 tecnología noun g=f
+tedio noun g=m
+teja noun g=f
 tejado noun g=m
 tejedor noun g=m f=tejedora
 tejido noun g=m
+tejón noun g=m
 tela noun g=f
 telar noun g=m
 telaraña noun g=f
+telebasura noun g=f
 telecomunicación noun g=f
+telediario noun g=m
 teleférico noun g=m
 telefilme noun g=m
 telefonía noun g=f
+telefonista noun g=m|f
 teléfono noun g=m
 telégrafo noun g=m
 telegrama noun g=m
 telenovela noun g=f
+telepatía noun g=f
 telerrealidad noun g=f
 telescopio noun g=m
+telespectador noun g=m f=telespectadora
 teletrabajo noun g=m
 televidente noun g=m|f
 televisión noun g=f
@@ -88,10 +131,12 @@ televisor noun g=m
 telón noun g=m
 telonero noun g=m f=telonera
 tema noun g=m
+temario noun g=m
 temática noun g=f
 temblor noun g=m
 temeridad noun g=f
 temor noun g=m
+témpano noun g=m
 temperamento noun g=m
 temperatura noun g=f
 tempestad noun g=f
@@ -101,10 +146,15 @@ templete noun g=m
 templo noun g=m
 tempo noun g=m
 temporada noun g=f
+temporal noun g=m
 temporalidad noun g=f
+temporero noun g=m f=temporera
 tenacidad noun g=f
+tenaza noun g=f
+tendedero noun g=m
 tendencia noun g=f
 tendero noun g=m f=tendera
+tendón noun g=m
 tenedor noun g=m
 tenencia noun g=f
 teniente noun g=m|f
@@ -133,11 +183,16 @@ terminal noun g=f sense=station note=la terminal: airport or bus station
 terminal noun g=m sense=device note=el terminal: computer or phone terminal
 término noun g=m
 terminología noun g=f
+termita noun g=f
+termo noun g=m
 termodinámica noun g=f
+termómetro noun g=m
+termostato noun g=m
 terna noun g=f
 ternero noun g=m f=ternera
 ternura noun g=f
 terópodo noun g=m
+terquedad noun g=f
 terracota noun g=f
 terraplén noun g=m
 terrateniente noun g=m|f
@@ -145,6 +200,7 @@ terraza noun g=f
 terremoto noun g=m
 terreno noun g=m
 territorio noun g=m
+terrón noun g=m
 terror noun g=m
 terrorismo noun g=m
 terrorista noun g=m|f
@@ -159,8 +215,10 @@ tesoro noun g=m
 test noun g=m inv
 testador noun g=m f=testadora
 testamento noun g=m
+testículo noun g=m
 testigo noun g=m|f
 testimonio noun g=m
+tetera noun g=f
 textil noun g=m
 texto noun g=m
 textura noun g=f
@@ -168,11 +226,15 @@ tez noun g=f
 thriller noun g=m foreign pl=thrillers
 tibia noun g=f
 tiburón noun g=m
+tic noun g=m pl=tics
 tiempo noun g=m
 tienda noun g=f
 tierra noun g=f
+tiesto noun g=m
 tigre noun g=m f=tigresa
 tijeras noun g=f pl_only
+tila noun g=f
+tilde noun g=f
 timbal noun g=m
 timbre noun g=m
 timidez noun g=f
@@ -180,53 +242,79 @@ timo noun g=m
 timón noun g=m
 timonel noun g=m|f
 tímpano noun g=m
+tina noun g=f
+tinaja noun g=f
 tinieblas noun g=f pl_only
 tino noun g=m
 tinta noun g=f
 tinte noun g=m
 tintero noun g=m
+tintorería noun g=f
 tío noun g=m f=tía
+tiovivo noun g=m
 tipificación noun g=f
 tiple noun g=m
 tipo noun g=m
 tipografía noun g=f
 tipología noun g=f
+tiquet noun g=m var=tique conf=75 note=ticket in foreign spelling is also used
+tira noun g=f
+tirabuzón noun g=m
+tirachinas noun g=m
+tirada noun g=f
 tirador noun g=m f=tiradora
 tiranía noun g=f
 tirano noun g=m f=tirana
 tirante noun g=m
+tirantez noun g=f
+tirita noun g=f
+tiritona noun g=f
 tiro noun g=m
+tiroides noun g=m
 tirón noun g=m
 tiroteo noun g=m
+tisana noun g=f
 titanio noun g=m
 títere noun g=m
+titubeo noun g=m
 titulación noun g=f
 titular noun g=m sense=headline
 titular noun g=m|f sense=holder
 titularidad noun g=f
 titulización noun g=f
 título noun g=m
+tiza noun g=f
 toalla noun g=f
+toallero noun g=m
 tobillo noun g=m
+tobogán noun g=m
+tocadiscos noun g=m
 tocador noun g=m
+tocayo noun g=m f=tocaya
 tocino noun g=m
 todoterreno noun g=m
 toga noun g=f
+toldo noun g=m
 tolerancia noun g=f
 toma noun g=f
 tomador noun g=m f=tomadora
 tomadura noun g=f
 tomate noun g=m
+tomavistas noun g=m
+tómbola noun g=f
 tomillo noun g=m
 tomo noun g=m
 tomografía noun g=f
 tonalidad noun g=f
+tonel noun g=m
 tonelada noun g=f
 tonelaje noun g=m
 tónica noun g=f
 tono noun g=m
 tontería noun g=f
+tonto noun g=m f=tonta
 top noun g=m foreign pl=tops
+topacio noun g=m
 tope noun g=m
 tópico noun g=m
 topo noun g=m
@@ -237,35 +325,52 @@ topónimo noun g=m
 toque noun g=m
 tórax noun g=m
 torbellino noun g=m
+torcedura noun g=f
+tordo noun g=m
 toreo noun g=m
 torero noun g=m f=torera
 tormenta noun g=f
 tormento noun g=m
+tornado noun g=m
 torneo noun g=m
 tornillo noun g=m
+torniquete noun g=m
 torno noun g=m
 toro noun g=m
+toronja noun g=f
 torpedo noun g=m
 torpeza noun g=f
 torre noun g=f
 torrente noun g=m
 torreón noun g=m
 torreta noun g=f
+torrezno noun g=m
+torrija noun g=f
 torsión noun g=f
 torso noun g=m
 torta noun g=f
+tortazo noun g=m
+tortícolis noun g=f
 tortilla noun g=f
+tórtola noun g=f
 tortuga noun g=f
 tortura noun g=f
 tos noun g=f
+tostada noun g=f
+tostador noun g=m
+tostadora noun g=f
+tostón noun g=m
+total noun g=m
 totalidad noun g=f
 totalitarismo noun g=m
 tour noun g=m foreign pl=tours
 toxicidad noun g=f
+toxicómano noun g=m f=toxicómana
 toxina noun g=f
 traba noun g=f
 trabajador noun g=m f=trabajadora
 trabajo noun g=m
+trabalenguas noun g=m
 tracción noun g=f
 tracto noun g=m
 tractor noun g=m
@@ -274,20 +379,24 @@ traducción noun g=f
 traductor noun g=m f=traductora
 traficante noun g=m|f
 tráfico noun g=m
+tragaperras noun g=f
 tragedia noun g=f
 trago noun g=m
 traición noun g=f
 traidor noun g=m f=traidora
 tráiler noun g=m pl=tráileres
 traje noun g=m
+trajín noun g=m
 trama noun g=f
 tramitación noun g=f
 trámite noun g=m
 tramo noun g=m
 trampa noun g=f
 trampolín noun g=m
+tranca noun g=f
 trance noun g=m
 tranquilidad noun g=f
+tranquilizante noun g=m
 transacción noun g=f
 transatlántico noun g=m var=trasatlántico
 transbordador noun g=m
@@ -315,24 +424,33 @@ transportista noun g=m|f
 transposición noun g=f var=trasposición
 transversalidad noun g=f
 tranvía noun g=m
+trapecio noun g=m
+trapecista noun g=m|f
 trapo noun g=m
+tráquea noun g=f
 trascendencia noun g=f var=transcendencia
 trasera noun g=f
+trasero noun g=m
 trasfondo noun g=m
 trasiego noun g=m
 traslación noun g=f
 traslado noun g=m
+trasluz noun g=m
 traspaso noun g=m
+traspié noun g=m pl=traspiés
 trasplante noun g=m
 traste noun g=m
+trastero noun g=m
 trasto noun g=m
 trastorno noun g=m
 trasvase noun g=m
+tratado noun g=m
 tratamiento noun g=m
 trato noun g=m
 trauma noun g=m
 traumatismo noun g=m
 través noun g=m note=mostly in a través de
+travesaño noun g=m
 travesía noun g=f
 travesura noun g=f
 trayecto noun g=m
@@ -340,6 +458,7 @@ trayectoria noun g=f
 trazabilidad noun g=f
 trazado noun g=m
 trazo noun g=m
+trébol noun g=m
 trecho noun g=m
 tregua noun g=f
 treintena noun g=f
@@ -353,32 +472,43 @@ tribunal noun g=m
 tribuno noun g=m
 tributación noun g=f
 tributo noun g=m
+triciclo noun g=m
 trienio noun g=m
 trigo noun g=m
+trilladora noun g=f
+trillizo noun g=m f=trilliza
 trilogía noun g=f
 trimestre noun g=m
 trinchera noun g=f
+trineo noun g=m
 trío noun g=m
 tripa noun g=f
 triplete noun g=m
 tríptico noun g=m
 tripulación noun g=f
 tripulante noun g=m|f
+triquiñuela noun g=f
 tristeza noun g=f
+triturador noun g=m
+triunfador noun g=m f=triunfadora
 triunfalismo noun g=m
 triunfo noun g=m
 triunvirato noun g=m
 trocha noun g=f
 trofeo noun g=m
 troika noun g=f
+trolebús noun g=m
 trombón noun g=m
 trompa noun g=f
 trompeta noun g=f
+trompetista noun g=m|f
+trompicón noun g=m
 tronco noun g=m
 trono noun g=m
 tropa noun g=f
 tropel noun g=m
 tropelía noun g=f
+tropezón noun g=m
 trópico noun g=m
 trote noun g=m
 trozo noun g=m
@@ -393,21 +523,29 @@ tuberculosis noun g=f
 tubería noun g=f
 tubo noun g=m
 tuerca noun g=f
+tuétano noun g=m
 tuit noun g=m pl=tuits
+tulipán noun g=m
 tumba noun g=f
+tumbona noun g=f
 tumor noun g=m
 túmulo noun g=m
 tumulto noun g=m
+tuna noun g=f
+tunante noun g=m|f
 tundra noun g=f
 túnel noun g=m
 túnica noun g=f
+tupé noun g=m
 turba noun g=f
 turbación noun g=f
+turbante noun g=m
 turbina noun g=f
 turbulencia noun g=f
 turismo noun g=m
 turista noun g=m|f
 turno noun g=m
+turrón noun g=m
 tutela noun g=f
 tutor noun g=m f=tutora
 tutoría noun g=f

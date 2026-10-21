@@ -1,5 +1,6 @@
 # Spanish adj entries, letter u. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
 ucraniano adj
+ufano adj
 ulterior adj adv=ulteriormente
 último adj adv=últimamente
 ultraperiférico adj
@@ -16,11 +17,14 @@ uniprovincial adj
 unitario adj
 universal adj adv=universalmente
 universitario adj
+untuoso adj
 urbanístico adj
 urbanizable adj
 urbano adj
 urgente adj adv=urgentemente
 uruguayo adj
+usado adj
 usual adj adv=usualmente
 útil adj
 utilizable adj
+utópico adj
