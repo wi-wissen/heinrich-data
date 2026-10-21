@@ -118,6 +118,9 @@ as points; they make up 19 of the 38 points. The clear errors were mostly loans 
 without `pl=`, which get the native plural after a consonant (*hacker*, *kernel*; three older
 entries in m–p have the same gap; a validator hint was proposed), and one gentilic with a generated
 feminine. #145 also had *tras-*/*trans-* variants set for some members of a word family only.
+The authors settled every point in follow-up commits (#143 031d174, #144 9f672c6, #142 2087ebf,
+#145 d7b1a54); the re-check on the merge of these heads found 30,496 entries, 0 errors, 0 warnings
+and no open point.
 
 ### Protocol deviation in round 1
 
