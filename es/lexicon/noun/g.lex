@@ -38,6 +38,7 @@ gallego          noun  g=m f=gallega
 galleguismo      noun  g=m
 galleguista      noun  g=m|f
 galleta          noun  g=f
+gallina          noun  g=f sense=hen note=the bird and its meat (caldo de gallina); also the feminine of gallo
 gallina          noun  g=m|f sense=coward style=colloquial alt=cobarde note=es un gallina
 gallinero        noun  g=m
 gallito          noun  g=m style=colloquial alt=bravucón|chulo note=cocky person; the plain diminutive of gallo is formed at run time
