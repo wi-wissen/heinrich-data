@@ -186,6 +186,7 @@ numerable    adj
 numerario    adj
 numérico     adj   adv=numéricamente
 numeroso     adj
+númida       adj
 numismático  adj
 nupcial      adj
 nutricio     adj

@@ -254,6 +254,7 @@ ninfa        noun  g=f
 ninfómana    noun  g=f
 ninfomanía   noun  g=f
 ninguneo     noun  g=m
+ninja        noun  g=m|f foreign
 niñato       noun  g=m f=niñata style=colloquial alt=mocoso|inmaduro
 niñera       noun  g=f
 niñería      noun  g=f
@@ -279,6 +280,7 @@ nivel        noun  g=m
 nivelación   noun  g=f
 noble        noun  g=m|f
 nobleza      noun  g=f
+nocaut       noun  g=m pl=nocauts note=adapted from English knockout
 noche        noun  g=f
 noción       noun  g=f
 nocividad    noun  g=f

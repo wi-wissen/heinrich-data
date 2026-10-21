@@ -45,6 +45,7 @@ madrugador   noun  g=m f=madrugadora
 madrugón     noun  g=m
 maduración   noun  g=f
 madurez      noun  g=f
+maestrante   noun  g=m note=member of a maestranza de caballería
 maestranza   noun  g=f
 maestrazgo   noun  g=m
 maestre      noun  g=m
@@ -527,6 +528,7 @@ megamurciélago noun  g=m
 megapíxel    noun  g=m pl=megapíxeles
 megatón      noun  g=m
 megavatio    noun  g=m
+megavatio-hora noun  g=m pl=megavatios-hora
 meiosis      noun  g=f
 mejilla      noun  g=f
 mejillón     noun  g=m
@@ -820,6 +822,7 @@ mineralogista noun  g=m|f
 minería      noun  g=f
 minero       noun  g=m f=minera
 minestrone   noun  g=f foreign
+miniálbum    noun  g=m pl=miniálbumes
 miniatura    noun  g=f
 miniaturista noun  g=m|f
 minibar      noun  g=m
@@ -1202,6 +1205,7 @@ multiculturalidad noun  g=f
 multiculturalismo noun  g=m
 multidifusión noun  g=f
 multidisciplinariedad noun  g=f
+multiinstrumentista noun  g=m|f
 multilateralidad noun  g=f
 multilateralismo noun  g=m
 multilingüismo noun  g=m

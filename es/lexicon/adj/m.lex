@@ -206,6 +206,7 @@ memorable    adj
 menchevique  adj
 mendaz       adj
 mendicante   adj
+mendocino    adj
 menesteroso  adj
 menguante    adj
 menonita     adj
@@ -318,6 +319,7 @@ mitigador    adj
 mitocondrial adj
 mitológico   adj
 mitral       adj
+mixteco      adj
 mixto        adj
 mnemotécnico adj
 mobiliario   adj
@@ -334,6 +336,7 @@ modificable  adj
 modificador  adj
 modificativo adj
 modular      adj
+mogol        adj   f=mogola
 mohíno       adj
 mohoso       adj
 mojado       adj
@@ -427,6 +430,7 @@ mudéjar      adj
 mudo         adj
 muestral     adj
 mugriento    adj
+muisca       adj
 mujeriego    adj
 mujeril      adj
 mular        adj

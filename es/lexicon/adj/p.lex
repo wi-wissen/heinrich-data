@@ -166,6 +166,7 @@ peligroso    adj   adv=peligrosamente
 pelirrojo    adj
 pelotillero  adj   style=colloquial alt=adulador
 peludo       adj
+pélvico      adj
 penal        adj   adv=penalmente
 pendenciero  adj
 pendiente    adj
@@ -312,6 +313,7 @@ plasmático   adj
 plástico     adj
 platanero    adj
 plateado     adj
+platense     adj
 plateresco   adj
 platinado    adj
 platónico    adj   adv=platónicamente
@@ -577,6 +579,7 @@ procreador   adj
 prodigioso   adj   adv=prodigiosamente
 pródigo      adj
 productivo   adj
+proetarra    adj
 profano      adj
 profesional  adj   adv=profesionalmente
 profesoral   adj
@@ -602,6 +605,7 @@ prometeico   adj
 prominente   adj   adv=prominentemente
 promiscuo    adj
 promisorio   adj
+promocionable adj
 promocional  adj
 promotor     adj
 pronominal   adj
@@ -643,6 +647,7 @@ provisional  adj   adv=provisionalmente
 provisorio   adj   adv=provisoriamente
 provocador   adj
 provocativo  adj
+proximal     adj
 próximo      adj   adv=próximamente
 proyectivo   adj
 prudencial   adj

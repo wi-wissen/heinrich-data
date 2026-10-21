@@ -645,6 +645,7 @@ perjudicado  noun  g=m f=perjudicada
 perjuicio    noun  g=m
 perjurio     noun  g=m
 perla        noun  g=f
+permafrost   noun  g=m foreign
 permanencia  noun  g=f
 permanente   noun  g=f note=la permanente: perm (hair)
 permeabilidad noun  g=f
@@ -1534,6 +1535,7 @@ producción   noun  g=f
 productividad noun  g=f
 producto     noun  g=m
 productor    noun  g=m f=productora
+proetarra    noun  g=m|f
 proeza       noun  g=f
 profanación  noun  g=f
 profano      noun  g=m f=profana

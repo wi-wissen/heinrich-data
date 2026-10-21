@@ -176,6 +176,7 @@ ostensible   adj   adv=ostensiblemente
 ostentoso    adj   adv=ostentosamente
 ostrogodo    adj
 otomano      adj
+otomí        adj   pl=otomíes|otomís[var]
 otoñal       adj
 otorgable    adj
 otorrinolaringológico adj

@@ -240,6 +240,7 @@ oratoria     noun  g=f
 oratorio     noun  g=m
 orbe         noun  g=m
 órbita       noun  g=f
+orbitador    noun  g=m
 orca         noun  g=f
 orco         noun  g=m
 órdago       noun  g=m
