@@ -93,6 +93,10 @@ differences it showed were inconsistencies of the reference.
 | 3 | #171 a–d | 0446cff | 241 | 4 | 5 | 1.7 % / 3.7 % |
 | 3 | #172 e–o | 6cda8f5 | 276 | 3 | 4 | 1.1 % / 2.6 % |
 | 3 | re-check #170, #171, #172 | 1c67d04, 49be76c, 93516fc | 770 | 0 | 0 | – |
+| gap | #175 e–o | eece249 | 24 | 0 | 3 | 0 % / 12.5 % |
+| gap | #176 p–z | 1303be4 | 7 | 1 | 1 | 14 % / 29 % |
+| gap | #177 a–d | 4518148 | 28 | 0 | 6 | 0 % / 21 % |
+| gap | re-check (merged) | 3de60f0 | 59 | 0 | 0 | – |
 
 "Clear errors" are wrong lengths or forms; "points" also count uncertain or hidden quantities,
 consistency between the authors and minor points. #163 includes the 4 duplicates between the
@@ -118,3 +122,8 @@ before *f* (format §1). The engine gap of *vēneō* (the long first vowel lost 
 passed to the engine. After the merge of wave 3 (5,303 entries) the frequency list is
 covered at 99.2 % of the tokens of the top 1,000 forms, 96.3 % of ranks 1,001–5,000, 90.9 % of ranks
 5,001–20,000 and 92.0 % overall.
+
+The gap round after a hand check of school reading added mostly proper names of the *Bellum
+Gallicum*. Most points there were lengths of Celtic names, where the reference is itself uncertain;
+they were kept with `conf=` below 100 or decided again. The river names in *-a* were made masculine
+in all three letter ranges. After the gap round the lexicon holds 5,360 entries.
