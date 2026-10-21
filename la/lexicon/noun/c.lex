@@ -3,7 +3,7 @@ cacūmen, cacūminis noun n
 cadāver, cadāveris noun n
 caecitās, caecitātis noun f
 caedēs, caedis noun f
-caelēs, caelitis noun c conf=80 note=length of the e in the nominative?
+caeles, caelitis noun c
 caelicola, caelicolae noun c
 caelum, caelī noun n var=coelum[medieval]
 caenum, caenī noun n

@@ -51,7 +51,7 @@ adiungō, adiūnxī, adiūnctum, adiungere verb
 adiuvō, adiūvī, adiūtum, adiuvāre verb
 administrō, administrāvī, administrātum, administrāre verb
 admīror, admīrātus sum, admīrārī verb
-admīsceō, admīscuī, admīxtum, admīscēre verb
+admisceō, admiscuī, admixtum, admiscēre verb
 admittō, admīsī, admissum, admittere verb
 admoneō, admonuī, admonitum, admonēre verb
 admoveō, admōvī, admōtum, admovēre verb
@@ -61,7 +61,7 @@ adorior, adortus sum, adorīrī verb note=no long vowel in the lemma
 adōrō, adōrāvī, adōrātum, adōrāre verb
 adsum, adfuī, adfutūrus, adesse verb class=sum
 adūlor, adūlātus sum, adūlārī verb conf=75 note=length of the u?
-adūrō, adussī, adūstum, adūrere verb
+adūrō, adussī, adustum, adūrere verb
 advehō, advexī, advectum, advehere verb
 adveniō, advēnī, adventum, advenīre verb intr
 adventō, adventāvī, adventātum, adventāre verb intr
@@ -92,7 +92,7 @@ alluō, alluī, -, alluere verb var=adluō note=no long vowel in the lemma
 alō, aluī, altum|alitum, alere verb
 ambiō, ambīvī|ambiī, ambītum, ambīre verb
 ambulō, ambulāvī, ambulātum, ambulāre verb intr
-ambūrō, ambussī, ambūstum, ambūrere verb
+ambūrō, ambussī, ambustum, ambūrere verb
 āmittō, āmīsī, āmissum, āmittere verb
 amō, amāvī, amātum, amāre verb
 āmoveō, āmōvī, āmōtum, āmovēre verb
@@ -131,7 +131,7 @@ arrogō, arrogāvī, arrogātum, arrogāre verb
 ascendō, ascendī, ascēnsum, ascendere verb
 ascrībō, ascrīpsī, ascrīptum, ascrībere verb var=adscrībō
 aspergō, aspersī, aspersum, aspergere verb
-aspernor, aspernātus sum, aspernārī verb note=no long vowel in the lemma
+āspernor, āspernātus sum, āspernārī verb conf=80 note=reviewer-dispute; length of the a (from abs-spernor)?
 aspiciō, aspexī, aspectum, aspicere verb
 aspīrō, aspīrāvī, aspīrātum, aspīrāre verb
 assentior, assēnsus sum, assentīrī verb var=adsentior note=no long vowel in the lemma

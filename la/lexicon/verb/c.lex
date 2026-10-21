@@ -15,7 +15,7 @@ captō, captāvī, captātum, captāre verb
 careō, caruī, caritūrus, carēre verb intr
 carpō, carpsī, carptum, carpere verb
 castīgō, castīgāvī, castīgātum, castīgāre verb
-castrametor, castrametātus sum, castrametārī verb note=no long vowel in the lemma
+castramētor, castramētātus sum, castramētārī verb
 caveō, cāvī, cautum, cavēre verb
 cēdō, cessī, cessum, cēdere verb intr
 celebrō, celebrāvī, celebrātum, celebrāre verb
@@ -114,7 +114,7 @@ congruō, congruī, -, congruere verb intr note=no long vowel in the lemma
 coniciō, coniēcī, coniectum, conicere verb
 coniungō, coniūnxī, coniūnctum, coniungere verb
 cōnor, cōnātus sum, cōnārī verb
-cōnqueror, cōnquestus sum, cōnquerī verb
+conqueror, conquestus sum, conquerī verb note=no long vowel in the lemma
 conquiēscō, conquiēvī, conquiētum, conquiēscere verb intr
 conquīrō, conquīsīvī, conquīsītum, conquīrere verb
 cōnscendō, cōnscendī, cōnscēnsum, cōnscendere verb

@@ -35,7 +35,7 @@ administrātiō, administrātiōnis noun f
 admīrātiō, admīrātiōnis noun f
 admonitiō, admonitiōnis noun f
 adoptiō, adoptiōnis noun f
-adulātiō, adulātiōnis noun f
+adūlātiō, adūlātiōnis noun f conf=75 note=reviewer-dispute; length of the u, as in adūlor?
 adulēscēns, adulēscentis noun c var=adolēscēns
 adulēscentia, adulēscentiae noun f
 adulēscentulus, adulēscentulī noun m var=adolēscentulus
@@ -99,7 +99,7 @@ alveus, alveī noun m
 alvus, alvī noun f
 amāritūdō, amāritūdinis noun f
 amātor, amātōris noun m
-ambāgēs, ambāgis noun f
+ambāgēs, ambāgis noun f gen_pl=ambāgum
 ambiguitās, ambiguitātis noun f
 ambitiō, ambitiōnis noun f
 ambitus, ambitūs noun m
@@ -136,7 +136,7 @@ animus, animī noun m
 annālēs, annālium noun m pl_only
 annōna, annōnae noun f
 annus, annī noun m
-anser, anseris noun m
+ānser, ānseris noun m
 antīquitās, antīquitātis noun f
 antistes, antistitis noun c
 antrum, antrī noun n
