@@ -72,7 +72,7 @@ mayoría	noun	part
 minoría	noun	part
 mitad	noun	part
 resto	noun	part
-parte	noun	part
+parte:part	noun	part
 totalidad	noun	part
 conjunto	noun	part
 porcentaje	noun	part
@@ -121,6 +121,7 @@ trío	noun	numeral
 cuarteto	noun	numeral
 quinteto	noun	numeral
 billón	noun	numeral
+millardo	noun	numeral
 tipo	noun	kind
 especie	noun	kind
 género	noun	kind

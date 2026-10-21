@@ -23,7 +23,7 @@ septiembre	noun	month
 octubre	noun	month
 noviembre	noun	month
 diciembre	noun	month
-mañana	noun	daytime
+mañana:morning	noun	daytime
 tarde	noun	daytime
 noche	noun	daytime
 madrugada	noun	daytime
@@ -64,11 +64,14 @@ instante	noun	period
 temporada	noun	period
 curso	noun	period
 jornada	noun	period
+período	noun	period
 víspera	noun	period
 finde	noun	period
 tiempo	noun	period
 etapa	noun	period
 legislatura	noun	period
+nochebuena	noun	holiday
+nochevieja	noun	holiday
 navidad	noun	holiday
 pascua	noun	holiday
 carnaval	noun	holiday
