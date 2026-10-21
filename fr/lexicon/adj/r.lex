@@ -53,11 +53,11 @@ rationnel adj adv=rationnellement
 rauque adj
 ravageur adj f=ravageuse
 ravi adj
-ravissant adj adv=ravissamment
+ravissant adj adv=ravissamment[rare]
 rawlsien adj
 rayé adj
 rayonnant adj
-réactif adj adv=réactivement
+réactif adj adv=réactivement[rare]
 réactionnaire adj
 réactionnel adj
 réalisable adj
@@ -95,14 +95,14 @@ rectificatif adj
 rectiligne adj
 reculé adj
 récupérable adj
-récurrent adj adv=récurremment
+récurrent adj adv=récurremment[rare]
 recyclable adj
 rédactionnel adj
 rédempteur adj f=rédemptrice
 redevable adj
 redistribuable adj
 redistributif adj
-redondant adj adv=redondamment
+redondant adj adv=redondamment[rare]
 redoutable adj adv=redoutablement
 réducteur adj f=réductrice
 réductible adj
@@ -173,7 +173,7 @@ reposant adj
 repoussant adj
 répréhensible adj
 représentable adj
-représentatif adj adv=représentativement
+représentatif adj adv=représentativement[rare]
 répressif adj adv=répressivement
 réprobateur adj f=réprobatrice
 reproducteur adj f=reproductrice
@@ -202,7 +202,7 @@ respectif adj adv=respectivement
 respectueux adj adv=respectueusement
 respiratoire adj
 resplendissant adj
-responsable adj adv=responsablement
+responsable adj adv=responsablement[rare]
 ressemblant adj
 restant adj
 restauratif adj
@@ -316,7 +316,7 @@ ruminant adj
 runique adj
 rupestre adj
 rupin adj style=colloquial alt=riche
-rural adj adv=ruralement
+rural adj adv=ruralement[rare]
 rusé adj
 russe adj
 russo-japonais adj
