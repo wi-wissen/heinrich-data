@@ -5,6 +5,7 @@ gager          verb
 gagner         verb
 gainer         verb
 galber         verb
+galérer        verb pp_inv style=colloquial alt=peiner|avoir_du_mal
 galoper        verb pp_inv
 galvaniser     verb
 galvauder      verb

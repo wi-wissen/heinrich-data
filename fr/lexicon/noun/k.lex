@@ -32,6 +32,7 @@ kératose       noun g=f
 kermesse       noun g=f
 kérosène       noun g=m
 ketchup        noun g=m
+keuf           noun g=m style=colloquial alt=policier note=verlan of flic
 khâgne         noun g=f
 khâgneux       noun g=m f=khâgneuse
 khan           noun g=m
