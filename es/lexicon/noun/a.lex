@@ -1051,7 +1051,7 @@ apartadero   noun g=m
 apartado     noun g=m
 apartamento  noun g=m
 apartamiento noun g=m
-apartheid    noun g=m foreign
+apartheid    noun g=m pl=- foreign note=no plural in use
 apatía       noun g=f
 apátrida     noun g=m|f
 apatridia    noun g=f

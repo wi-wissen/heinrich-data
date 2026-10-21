@@ -450,12 +450,12 @@ antialérgico adj
 antibacteriano adj
 antibalas    adj
 antibiótico  adj
-antibloqueo  adj
-antibuque    adj
+antibloqueo  adj inv
+antibuque    adj inv
 anticancerígeno adj
 anticapitalista adj
-anticarro    adj
-anticaspa    adj
+anticarro    adj inv
+anticaspa    adj inv
 anticíclico  adj
 anticiclónico adj
 anticipado   adj adv=anticipadamente
@@ -466,7 +466,7 @@ anticomunista adj
 anticonceptivo adj
 anticonstitucional adj
 anticorrosivo adj
-anticorrupción adj
+anticorrupción adj inv
 anticrisis   adj
 anticuado    adj
 antidemocrático adj
@@ -475,17 +475,17 @@ antidepresivo adj
 antidesahucios adj
 antidiscriminatorio adj
 antidisturbios adj
-antidopaje   adj
+antidopaje   adj inv
 antiecológico adj
 antieconómico adj
 antiestético adj
 antifascista adj
 antifeminista adj
 antifranquista adj
-antifraude   adj
+antifraude   adj inv
 antifúngico  adj
-antigás      adj
-antiglobalización adj
+antigás      adj inv
+antiglobalización adj inv
 antigubernamental adj
 antiguo      adj sup=antiquísimo place=both adv=antiguamente
 antihorario  adj
@@ -497,30 +497,30 @@ antillano    adj
 antimicrobiano adj
 antimilitarista adj
 antimisiles  adj
-antimonopolio adj
+antimonopolio adj inv
 antinatural  adj
 antinazi     adj
-antiniebla   adj
+antiniebla   adj inv
 antinuclear  adj
 antioqueño   adj
 antioxidante adj
 antipático   adj
 antipatriota adj
 antiperonista adj
-antipersona  adj
+antipersona  adj inv
 antipersonal adj
 antirracista adj
 antirreglamentario adj
 antirretroviral adj
-antirrobo    adj
+antirrobo    adj inv
 antisemita   adj
 antiséptico  adj
-antisistema  adj
+antisistema  adj inv
 antisocial   adj
 antisoviético adj
 antisubmarino adj
-antitabaco   adj
-antitanque   adj
+antitabaco   adj inv
+antitanque   adj inv
 antitérmico  adj
 antiterrorista adj
 antitético   adj

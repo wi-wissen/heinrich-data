@@ -16,9 +16,13 @@ cableado     noun g=m
 cabo         noun g=m
 cabotaje     noun g=m
 cabra        noun g=f
+cabrón       noun g=m f=cabrona style=vulgar alt=canalla|malnacido sense=insult note=insult; also used among friends
+cabrón       noun g=m sense=goat note=male goat (macho cabrío)
+caca         noun g=f style=colloquial alt=excremento|porquería
 cacao        noun g=m
 cacería      noun g=f
 caché        noun g=m
+cachondeo    noun g=m style=colloquial alt=juerga|burla|guasa
 cacique      noun g=m
 cactus       noun g=m
 cadáver      noun g=m
@@ -222,6 +226,7 @@ castellano   noun g=m f=castellana
 castidad     noun g=f
 castigo      noun g=m
 castillo     noun g=m
+casting      noun g=m pl=castings foreign
 castro       noun g=m
 casualidad   noun g=f
 casuística   noun g=f
@@ -1517,7 +1522,9 @@ cotizante    noun g=m|f
 coto         noun g=m
 cotorra      noun g=f
 cotutela     noun g=f
+country      noun g=m inv foreign note=the music style
 covarianza   noun g=f
+cover        noun g=f pl=covers foreign conf=75 note=gender varies (el/la cover); una cover: a cover version (versión)
 coxis        noun g=m
 coyote       noun g=m
 coyuntura    noun g=f

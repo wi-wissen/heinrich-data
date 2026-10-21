@@ -29,11 +29,14 @@ característico adj adv=característicamente
 cardíaco     adj var=cardiaco
 cardinal     adj
 carente      adj
+caribeño     adj
 cariñoso     adj adv=cariñosamente
+caritativo   adj adv=caritativamente
 carlista     adj
 carnal       adj
 cárnico      adj
 carnívoro    adj
+carnoso      adj
 caro         adj
 cartaginés   adj
 cartográfico adj

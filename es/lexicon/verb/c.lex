@@ -1,8 +1,10 @@
 # Spanish lexicon, verb c: written from own knowledge (AUTHORING.md).
 
 caber        verb class=caber
+cabrear      verb style=colloquial alt=enfadar|enojar|irritar
 caducar      verb
 caer         verb class=caer
+cagar        verb style=vulgar alt=defecar|estropear
 calcular     verb
 calentar     verb class=ie
 calificar    verb
@@ -33,6 +35,7 @@ censar       verb
 censurar     verb
 centralizar  verb
 centrar      verb
+ceñir        verb class=i
 cerciorar    verb pronominal
 cerrar       verb class=ie
 certificar   verb
@@ -72,6 +75,8 @@ cifrar       verb
 circular     verb
 circunscribir verb pp=circunscrito
 citar        verb
+civilizar    verb
+clamar       verb
 clarificar   verb
 clasificar   verb
 clausurar    verb
