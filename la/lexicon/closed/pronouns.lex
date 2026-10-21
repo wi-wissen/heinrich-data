@@ -5,7 +5,7 @@
 aliquī pron class=qui type=ind nom_sg_f=aliqua nom_pl_n=aliqua
 aliquis pron class=quis
 aliquot pron type=ind
-alius, alia, aliud pron type=ind gen_sg_m=alīus gen_sg_f=alīus gen_sg_n=alīus note=the genitive is mostly supplied by alterīus
+alius, alia, aliud pron type=ind
 alter, altera, alterum pron type=ind gen_ius
 ecquis pron class=quis type=int
 ego pron class=ego
@@ -33,7 +33,7 @@ quis pron class=quis
 quispiam pron class=quis
 quisquam pron class=quis
 quisque pron class=quis
-quisquis|quidquid|quicquid|quōquō pron type=rel note=doubly declined; only the common forms, written as uninflected alternatives (format §14); generator gap reported
+quisquis pron class=quis
 quīvīs pron class=qui
 quot pron type=int
 suī pron class=sui
@@ -46,6 +46,6 @@ tū pron class=tu
 tuus, tua, tuum det type=poss person=2
 ūllus, ūlla, ūllum pron type=ind gen_ius
 uter, utra, utrum pron type=int gen_ius
-uterque|utraque|utrumque|utrīusque|utrīque|utramque|utrōque|utrāque|utraeque|utrōsque|utrāsque|utrōrumque|utrārumque|utrīsque pron type=tot note=-que compound declined inside; written as uninflected alternatives (format §14); generator gap reported
+uterque, utraque, utrumque pron type=tot gen_ius
 vester, vestra, vestrum det type=poss person=2 var=voster[archaic]
 vōs pron class=vos

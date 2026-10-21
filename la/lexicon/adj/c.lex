@@ -21,6 +21,7 @@ clārus, clāra, clārum adj adv
 clēmēns, clēmentis adj adv
 commodus, commoda, commodum adj adv
 commūnis, commūne adj adv
+complūrēs, complūra|complūria adj pl_only
 compos, compotis adj stem=cons nocmp
 concavus, concava, concavum adj nocmp
 cōnscius, cōnscia, cōnscium adj nocmp

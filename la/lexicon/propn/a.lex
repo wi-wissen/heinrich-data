@@ -1,5 +1,5 @@
 # Latin proper nouns, letter a: persons, gods, peoples, places. Written from own knowledge (AUTHORING.md §1).
-Achillēs, Achillis propn m gen_sg=Achillis|Achillī acc_sg=Achillem|Achillea voc_sg=Achille|Achillēs
+Achillēs, Achillis propn m greek gen_sg=Achillis|Achillī
 Aeduī, Aeduōrum propn m pl_only var=Haeduī
 Aenēās, Aenēae propn m
 Āfrica, Āfricae propn f
