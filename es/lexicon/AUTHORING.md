@@ -59,6 +59,14 @@ of the grammar adverbs of degree, negation, interrogation and deixis (*muy, no, 
 Content adverbs (*siempre, pronto*, the `-mente` adverbs through `adv=`) stay with their letter's
 author.
 
+Boundary as settled on 2026-10-21 (question of the q–z author): the closed classes include the
+grammar adverbs of degree (*muy, tan, tanto, más, menos, bastante, demasiado, casi*), of negation,
+affirmation and focus (*no, sí, nunca, jamás, tampoco, también*), interrogative and relative adverbs
+(*dónde, cuándo, cómo, cuánto*) and deictic and time-reference adverbs (*aquí, ahí, allí, acá, allá,
+hoy, ayer, ahora, entonces, ya, todavía, aún*), and ordinals as `num`. *siempre, tarde, temprano,
+quizá(s)*, the `-mente` adverbs and *solo* (adjective and adverb with `trad=sólo`) belong to the
+letter authors.
+
 Rounds:
 
 1. **Frequency waves.** Waves of about 1,000 lemmas, the most frequent words first: the lowercase
