@@ -195,9 +195,9 @@ regular verb
 regularizar verb
 regurgitar verb
 rehabilitar verb
-rehacer verb class=hacer pret=rehíce,rehiciste,rehízo,rehicimos,rehicisteis,rehicieron note=pret written out until the generator stops carrying the hiatus accent of rehíce into the other cells
+rehacer verb class=hacer
 rehogar verb
-rehuir verb class=hiatus pres=rehúyo,rehúyes,rehúye,rehuimos,rehuís,rehúyen pret=rehuí,rehuiste,rehuyó,rehuimos,rehuisteis,rehuyeron subj=rehúya,rehúyas,rehúya,rehuyamos,rehuyáis,rehúyan note=pres, pret and subj written out until the generator keeps the accent of rehuís, rehuí (two syllables)
+rehuir verb class=hiatus
 rehundir verb class=hiatus
 rehusar verb class=hiatus
 reimplantar verb
