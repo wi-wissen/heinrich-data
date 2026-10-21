@@ -17,6 +17,7 @@ ducentī, ducentae, ducenta num value=200 pl_only
 duo num value=2 class=duo
 duodecim num value=12
 duodecimus, duodecima, duodecimum num type=ord value=12
+duodēnī, duodēnae, duodēna num type=dist value=12 pl_only
 duodēvīcēsimus, duodēvīcēsima, duodēvīcēsimum num type=ord value=18
 duodēvīgintī num value=18
 mīliēns|mīliēs num type=mult value=1000

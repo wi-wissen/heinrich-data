@@ -5,9 +5,13 @@ adeō adv
 admodum adv
 affatim adv var=adfatim
 aliōquī|aliōquīn adv
-aliquamdiū adv
+aliquamdiū|aliquandiū adv
+aliquantisper adv
 aliquantō adv
+aliquantulum adv
 aliquantum adv
 aliquātenus adv
 aliquotiēns|aliquotiēs adv
+antehāc adv
 antīquitus adv
+auspicātō adv

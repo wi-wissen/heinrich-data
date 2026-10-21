@@ -7,4 +7,4 @@ dēsuper adv style=late
 diū adv cmp=diūtius sup=diūtissimē
 dīvīnitus adv
 dūdum adv
-dumtaxat adv
+dumtaxat adv var=duntaxat
