@@ -96,7 +96,7 @@ reviewer, clear errors and all points; method and per-round statistics in [Revie
 | #93 | a–c | open classes a–c (6,936 lemmas) and all closed classes (415 entries), frequency waves 1–6, review fixes | 7,188 + closed; 7 clear errors (0.1 %), ~200 points (2.8 %, incl. 97 missing `pp_inv`); re-check of the fixes (422 lines): 0 clear errors |
 | #94 | m–p | open classes m–p, frequency waves | 6,978; 7 clear errors (0.1 %), ~125 points (1.8 %) |
 | #95 | d–l | breadth waves 5b–6 | 1,184 changed lemmas; 1 clear error (0.08 %), 17 points (1.4 %) |
-| #96 | q–z | `-ment` adverbs as `adv=` on adjectives | not reviewed |
+| #96 | q–z | `-ment` adverbs as `adv=` on adjectives | 157 `adv=` values, 43 `adv` entries folded in (none lost); 0 errors, 14 rare adverbs could take `[rare]` |
 | #97 | q–z | words from the Wikipedia test | 358; 1 clear error (0.3 %), 2 points |
 | #98 | m–p | words from the Wikipedia test | 271; 1 clear error (0.4 %), 2 points |
 | #99 | d–l | words from the Wikipedia test | 284; 0 clear errors, 2 light points (0.7 %) |
@@ -108,7 +108,7 @@ reviewer, clear errors and all points; method and per-round statistics in [Revie
 | #106 | q–z | words from news, debates and Wikipedia corrections | 62 lines; 0 clear errors |
 | #107 | a–c | *cougar* senses, *bavasser* `pp_inv` | not reviewed separately (fixes from the #105 review) |
 | #108 | q–z | *vadémécum* (1990 spelling of *vade-mecum*) | not reviewed separately (answers a #103–#106 review question) |
-| #109 | d–l | neutral sense for *lascar* | not reviewed |
+| #109 | d–l | neutral sense for *lascar* | 2 lines; 0 errors |
 | #110 | d–l | colloquial *galérer, kiffer, keuf, daron* | 4 lines; 0 errors, approved |
 | #111 | m–p | *maths* standard; colloquial *ordi* | 2 lines; 0 errors, approved |
 | #112 | q–z | colloquial *taffer, taf, teuf, relou, zarbi, vénère* | 7 lines; 0 errors, approved |
@@ -183,6 +183,7 @@ points (missing `pp_inv`, senses, plural rarely used …).
 | 3 | #100 | a–c Wikipedia (diff) | 317 | 1 | 1 | 0.3 % / 0.3 % |
 | 4 | #103–#106 | news additions (diff) | 228 | 0 | 2 | 0 % / 0.9 % |
 | 5 | #110–#113, #115 | colloquial words (diff) | 21 | 0 | 3 | 0 % |
+| 6 | #96, #109 | `-ment` adverbs q–z, *lascar* (diff, checked after merge) | 159 | 0 | 1 | 0 % / 0.6 % |
 
 Coverage of the reference frequency list, nouns / verbs / adjectives (round 1, open classes,
 participle-adjectives counted as covered when the verb is present):
