@@ -50,7 +50,7 @@ Latin (separate work directory `W_la`; details in `la/frequency/README.md`):
 
 ```sh
 curl -sSf -o lawikisource.xml.bz2 https://dumps.wikimedia.org/lawikisource/latest/lawikisource-latest-pages-articles.xml.bz2
-mkdir pg && for i in 227 9646 7402 14945; do curl -sSf -o pg/pg$i.txt https://www.gutenberg.org/cache/epub/$i/pg$i.txt; sleep 2; done
+mkdir pg && for i in 227 9646 7402 14945 23294; do curl -sSf -o pg/pg$i.txt https://www.gutenberg.org/cache/epub/$i/pg$i.txt; sleep 2; done
 python3 -I tools/frequency/count_la.py . lawikisource.xml.bz2 pg   # ~2 min, writes prose/ poetry/ late/ and works.tsv
 python3 -I tools/frequency/merge.py . la/frequency la
 cp works.tsv la/frequency/
@@ -69,7 +69,7 @@ will differ slightly between runs; the Wikipedia sample uses the `latest` dump (
 - `count_gov_fr.py` - French official texts from the DILA open data (Assemblée nationale and Sénat debates,
   Légifrance LEGI, service-public.gouv.fr guides), all Licence Ouverte 2.0.
 - `count_la.py` - Latin: public-domain texts from the Latin Wikisource dump (main namespace and selected proofread
-  page sets) and four Gutenberg books; wikitext cleaning, source check (no Perseus, Latin Library, Corpus
+  page sets) and five Gutenberg books; wikitext cleaning, source check (no Perseus, Latin Library, Corpus
   Corporum, PHI), language filter, per-author cap for late Latin.
 - `sources_la.py` - hand-written selection for Latin: authors of each group (prose, poetry, late), excluded
   works, page sets, Gutenberg books with start and end lines (bibliographic metadata only).

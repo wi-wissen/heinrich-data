@@ -98,6 +98,7 @@ EXCLUDE_WORKS = [
     "Aeneis",                                                                   # counted from Gutenberg #227
     "Cato maior de senectute",                                                  # counted from Gutenberg #14945
     "De Catilinae coniuratione",                                                # counted from Gutenberg #7402
+    "Carmina (Catullus, ed. Merrill)", "Carmina (Catullus, ed. Cornish)",       # counted from Gutenberg #23294
     "Saturae (Persius, Monti)", "Saturae (Persius, Raoul)", "Saturae (Iuvenalis, Vescovi)",  # translations
     "Saturae (Horatius, Raoul)", "Georgica (Hachette)",
 ]
@@ -119,6 +120,7 @@ GUTENBERG = [
     (9646, "poetry", "Quintus Horatius Flaccus", "Carmina, Carmen saeculare, Epodi", r"^Q\. HORATII FLACCI", None),
     (7402, "prose", "Gaius Sallustius Crispus", "De Catilinae coniuratione", r"^BELLUM CATILINARIUM\.",
      r"^C\. SALLUSTII CRISPI\s*$"),
+    (23294, "poetry", "Gaius Valerius Catullus", "Carmina, ed. Ellis", r"^CATVLLI CARMINA\s*$", r"^INDEX NOMINVM"),
     (14945, "prose", "Marcus Tullius Cicero", "Cato maior de senectute", r"^DE SENECTUTE\.", r"^NOTES TO CATO MAIOR"),
 ]
 

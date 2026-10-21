@@ -20,9 +20,9 @@ Counted on 2026-10-21.
 | Column | What | Tokens | Authors / works |
 |---|---|---:|---:|
 | `prose` | classical and post-classical prose, non-Christian, written before about AD 200: Cicero, Caesar, Sallust, Nepos, Livy, Seneca, Pliny the Elder and the Younger, Tacitus, Suetonius, Curtius, Quintilian, Apuleius, Gellius ... | 3,691,118 | 31 / 133 |
-| `poetry` | verse of the same period: Vergil, Ovid, Horace, Catullus, Tibullus, Propertius, Lucretius, Lucan, Statius, Silius, Martial, Juvenal, Phaedrus, Terence, Seneca's tragedies ... | 859,477 | 21 / 69 |
+| `poetry` | verse of the same period: Vergil, Ovid, Horace, Catullus, Tibullus, Propertius, Lucretius, Lucan, Statius, Silius, Martial, Juvenal, Phaedrus, Terence, Seneca's tragedies ... | 861,137 | 21 / 68 |
 | `late` | the Vulgate (Clementine edition, 1592; 652,264 tokens) and Latin writers from about AD 200 to 1500: Church Fathers, late antique and medieval authors (Augustine, Jerome, Ambrose, Boethius, Gregory the Great, Isidore, Bede, Alcuin, Anselm, Abelard, Bernard, Thomas Aquinas, Petrarch ...) | 4,944,315 | 125 + Vulgate / 387 |
-| | **total** | **9,494,910** | |
+| | **total** | **9,496,570** | |
 
 The authors of each group are listed in `tools/frequency/sources_la.py` (bibliographic knowledge only). Texts
 written after 1500 (Neo-Latin, papal documents, modern Latin, Latin translations made after 1500) are not
@@ -35,12 +35,12 @@ Latin, weight the columns (for example `prose` + `poetry` alone) rather than usi
 
 | Source | Groups | Tokens |
 |---|---|---:|
-| Latin Wikisource (la.wikisource.org), main namespace, dump of 2026-10-01 | all | 9,331,620 (583 works) |
+| Latin Wikisource (la.wikisource.org), main namespace, dump of 2026-10-01 | all | 9,320,429 (582 works) |
 | Latin Wikisource, proofread scan pages (`Pagina:`): Terence, ed. Kauer-Lindsay 1926 (the six plays, without the editors' preface); Livy vol. I, ed. Lemaire 1822 (the 141 pages transcribed so far: preface and book I, notes left out) | poetry, prose | 64,552 |
-| Project Gutenberg: Vergil, *Aeneis* (#227); Horace, *Carmina*, *Carmen saeculare*, *Epodi*, ed. Shorey-Laing (#9646); Sallust, *De Catilinae coniuratione*, ed. Schmitz-Zumpt (#7402, without notes); Cicero, *Cato maior*, ed. Reid-Kelsey (#14945, without introduction and notes) | poetry, prose | 98,738 |
+| Project Gutenberg: Vergil, *Aeneis* (#227); Horace, *Carmina*, *Carmen saeculare*, *Epodi*, ed. Shorey-Laing (#9646); Sallust, *De Catilinae coniuratione*, ed. Schmitz-Zumpt (#7402, without notes); Cicero, *Cato maior*, ed. Reid-Kelsey (#14945, without introduction and notes); Catullus, *Carmina*, ed. Ellis (#23294, without the index of names) | poetry, prose | 111,589 |
 
 Licences, URLs and dates: `/SOURCES.md`. The Gutenberg books replace Wikisource pages of the same works that name
-a source we do not use (see below); they are counted only between the first and the last line of the Latin text.
+a source we do not use, or (Catullus) an incomplete Wikisource text (see below); they are counted only between the first and the last line of the Latin text.
 
 ## Source checks (L-D5)
 - A Wikisource page is **not counted** when its own header (`Fons`, `Editio`) or text, or the header of a parent
@@ -93,11 +93,11 @@ a source we do not use (see below); they are counted only between the first and 
 
 ## Known limitations
 - Small corpus (9.5M tokens; French has 151M), so the tail is thin: 60 % of the distinct forms occur once or
-  twice, and the 164,954 kept forms cover 96.8 % of the tokens. Latin inflection spreads every lemma over many
+  twice, and the 164,964 kept forms cover 96.8 % of the tokens. Latin inflection spreads every lemma over many
   forms, so even common lemmas have rare forms.
 - Some school authors are thin or missing because their Wikisource pages come from a source we do not use:
   Livy books I-X and XXI-XXII (only 141 scan pages of book I came in), Plautus (806 tokens), Ovid's *Amores*,
-  Eutropius. Catullus (11,191 tokens) lacks some poems for the same reason.
+  Eutropius.
 - Editions differ in spelling (`uolt`/`uult`, `optumus`/`optimus`, `inmitto`/`immitto`, `quom`/`cum`,
   medieval `e` for `ae`, `michi`); forms are counted as printed. Medieval spellings occur mainly in `late`.
 - Wikisource transcriptions without a named source are counted as they are; their typos and OCR errors stay in
