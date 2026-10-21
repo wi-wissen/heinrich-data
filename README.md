@@ -4,7 +4,7 @@ Language data for the Heinrich engine (`wi-wissen/Heinrich`): our own lexicon, c
 build scripts and finished language packs.
 
 ## Rules
-- **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY) that
+- **Only our own data or data under a permissive license** (MIT, BSD, Apache-2.0, CC0, CC BY, Licence Ouverte 2.0) that
   allows commercial use. Every source goes in `SOURCES.md` with license and provenance.
 - **No** CC-BY-SA, GPL, LGPL or NC data – not even in excerpts. Comparison lexica
   (german-pos-dict, Wiktionary, UniMorph, DEMorphy …) are used only outside the repo, for measurement.
@@ -19,11 +19,19 @@ build scripts and finished language packs.
   that the lexicon lacks, which the spell checker accepts (generated, `de/lexicon/AUTHORING.md` §4.11),
   and `trusted_excluded.tsv`: forms the reviewer disputed, never trusted
 - `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
+- `fr/frequency/` – our own French word-form frequency list (fr-FR, elision split off;
+  `fr/frequency/README.md`)
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
   protocol: `en/lexicon/AUTHORING.md`
 - `en/names/` – English given names, surnames and place names (own lists, with a marker for names
   that are also ordinary words; `en/names/README.md`)
+- `fr/lexicon/` – the French lexicon (own clean-room entries, format
+  `Heinrich/docs/LEXICON_FORMAT_FR.md`), sharded by part of speech and first letter;
+  `fr/lexicon/closed/` – closed word classes, written by hand. Overview and PR record:
+  `fr/lexicon/README.md`; authoring protocol: `fr/lexicon/AUTHORING.md`
+- `fr/names/` – French given names, surnames and place names, filtered from official open data
+  (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
 - `de/phon/` – pronunciation exceptions
 - `tools/` – build scripts (lexicon → FST packs)
 - `packs/` – build output (not checked in, releases)

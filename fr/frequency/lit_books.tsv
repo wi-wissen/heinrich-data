@@ -1,0 +1,552 @@
+id	authors	title	tokens
+796	Stendhal, 1783-1842	La Chartreuse De Parme	191970
+797	Stendhal, 1783-1842	L'Abbesse De Castro	37430
+798	Stendhal, 1783-1842	Le rouge et le noir: chronique du XIXe siècle	182529
+801	Stendhal, 1783-1842	Les Cenci	11977
+802	Stendhal, 1783-1842	Vittoria Accoramboni	9589
+803	Stendhal, 1783-1842	La Duchesse De Palliano	8888
+1256	Rostand, Edmond, 1868-1918	Cyrano de Bergerac	35637
+2419	Dumas, Alexandre, 1824-1895	La dame aux camélias	67992
+2650	Proust, Marcel, 1871-1922	Du côté de chez Swann	179291
+2998	Proust, Marcel, 1871-1922	A l'ombre des jeunes filles en fleurs — Première partie	73242
+3000	Proust, Marcel, 1871-1922	A l'ombre des jeunes filles en fleurs — Troisième partie	77964
+3644	Voltaire, 1694-1778	Vie de Molière	4021
+3645	Molière, 1622-1673	L'Étourdi ou les contre-temps	20885
+4548	Verne, Jules, 1828-1905	Cinq Semaines En Ballon	83392
+4559	Renard, Jules, 1864-1910	Poil de Carotte	35175
+4647	Voltaire, 1694-1778	Zadig, ou la Destinée, histoire orientale	28925
+4648	Voltaire, 1694-1778	Memnon ou la sagesse humaine	2539
+4650	Voltaire, 1694-1778	Candide, ou l'optimisme	35933
+4651	Voltaire, 1694-1778	L'Ingénu	25050
+4688	Mallarmé, Stéphane, 1842-1898	Pages	23684
+4772	Voltaire, 1694-1778	Jeannot et Colin	3590
+4785	Loti, Pierre, 1850-1923	Pêcheur d'Islande	57569
+4968	Verne, Jules, 1828-1905	Les Cinq Cents Millions De La Bégum	54878
+5082	Verne, Jules, 1828-1905	Le chateâu des Carpathes	54290
+5095	Verne, Jules, 1828-1905	Vingt Mille Lieues Sous Les Mers — Part 1	66562
+5104	Dumas, Alexandre, 1802-1870	Histoire d'un casse-noisette	44160
+5130	Molière, 1622-1673	Don Juan, ou le Festin de pierre	19609
+5138	Voltaire, 1694-1778	Le Monde comme il va, vision de Babouc	7192
+5178	Molière, 1622-1673	Le Mariage forcé	7529
+5318	Molière, 1622-1673	Les Précieuses ridicules	9136
+5644	Molière, 1622-1673	Sganarelle, ou le Cocu imaginaire	7376
+5711	Zola, Émile, 1840-1902	Germinal	175109
+5781	Alain-Fournier, 1886-1914	Le Grand Meaulnes	67759
+6099	Baudelaire, Charles, 1821-1867	Les Fleurs du Mal	26152
+6318	Molière, 1622-1673	L'Avare	23202
+6377	France, Anatole, 1844-1924	Thaïs	53677
+6497	Zola, Émile, 1840-1902	L'Assommoir	167903
+6501	Diderot, Denis, 1713-1784	Supplément au Voyage de Bougainville	16928
+7268	France, Anatole, 1844-1924	Monsieur Bergeret à Paris: Histoire Contemporaine	58466
+7812	Staël, Madame de (Anne-Louise-Germaine), 1766-1817	Delphine	292508
+8175	Verne, Jules, 1828-1905	Kéraban-Le-Têtu, Volume II	55534
+8453	Hugo, Victor, 1802-1885	Actes et Paroles, Volume 2: Pendant l'exil 1852-1870	120728
+8490	Hugo, Victor, 1802-1885	Actes et Paroles, Volume 4: Depuis l'Exil 1876-1885	101425
+8524	France, Anatole, 1844-1924	L'Île Des Pingouins	84632
+8692	Dumas, Alexandre, 1802-1870	Le Capitaine Aréna — Tome 2	53497
+8693	Dumas, Alexandre, 1802-1870	Le Capitaine Aréna — Tome 1	53748
+8907	Zola, Émile, 1840-1902	Pot-Bouille	143671
+8946	Proust, Marcel, 1871-1922	Le Côté de Guermantes - Première partie	73756
+9453	Labiche, Eugène, 1815-1888; Martin, Édouard, 1828-1866	Le Voyage de Monsieur Perrichon: Comédie en quatre actes	36499
+9638	Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888	La dame de Monsoreau — Tome 2.	98577
+10442	Gautier, Théophile, 1811-1872	La Comédie de la mort	41263
+10687	Daudet, Alphonse, 1840-1897; Cerf, Barry, 1881-1948 [Editor]	Tartarin de Tarascon	55917
+10764	Champollion, Jean-François, 1790-1832	Lettres écrites d'Égypte et de Nubie en 1828 et 1829	93667
+10982	Flaubert, Gustave, 1821-1880	La tentation de Saint Antoine	42780
+11049	Balzac, Honoré de, 1799-1850	Eugénie Grandet	66011
+11175	Maupassant, Guy de, 1850-1893	L'inutile beauté	40361
+11199	Maupassant, Guy de, 1850-1893	Claire de Lune	26330
+11434	Ségur, Sophie, comtesse de, 1799-1874	Pauvre Blaise	56382
+11589	Verne, Jules, 1828-1905	Le Docteur Ox	70309
+11621	Ségur, Sophie, comtesse de, 1799-1874	Le Mauvais Génie	48992
+11646	Gauguin, Paul, 1848-1903; Morice, Charles, 1861-1919	Noa Noa	35938
+11714	Maupassant, Guy de, 1850-1893	Contes de la Becasse	36123
+11747	Prévost, Marcel, 1862-1941	Les Demi-Vierges	73232
+11770	Daudet, Alphonse, 1840-1897	Lettres de mon moulin	49221
+11928	Houssaye, Arsène, 1815-1896	Les douze nouvelles nouvelles	40865
+12005	Lautréamont, comte de, 1846-1870	Les Chants de Maldoror	82700
+12065	Flaubert, Gustave, 1821-1880	Trois contes	31571
+12174	Malot, Hector, 1830-1907	Baccara	97887
+12284	Malot, Hector, 1830-1907	Anie	90421
+12295	Thiers, Adolphe, 1797-1877	Histoire de la Révolution française, Tome 08	99667
+12301	Towianski, Andrzej, 1799-1878	Banquet du 17 janvier 1841	5520
+12726	Daudet, Alphonse, 1840-1897	Le nabab, tome I	71320
+12727	Daudet, Alphonse, 1840-1897	Le nabab, tome II	72984
+12783	Ségur, Sophie, comtesse de, 1799-1874	Les Mémoires d'un âne.	55169
+12865	Sand, George, 1804-1876	Mattea	21291
+12869	Sand, George, 1804-1876	Metella	19607
+12950	Daudet, Alphonse, 1840-1897	L'Immortel	65013
+12993	Ségur, Sophie, comtesse de, 1799-1874	Un bon petit diable	51513
+13013	Ségur, Sophie, comtesse de, 1799-1874	François le Bossu	55373
+13027	Malot, Hector, 1830-1907	Cara	111891
+13036	Doin, Ernest, 1809-1891	Le Conscrit ou Le Retour de Crimée	9239
+13221	Musset, Alfred de, 1810-1857	Œuvres Complètes de Alfred de Musset — Tome 7.	77210
+13231	Musset, Alfred de, 1810-1857	Œuvres Complètes de Alfred de Musset — Tome 6.	89602
+13256	Daudet, Alphonse, 1840-1897	Le petit chose	86546
+13336	Malot, Hector, 1830-1907	Clotilde Martory	125953
+13380	Sand, George, 1804-1876	Gabriel	41573
+13385	Malot, Hector, 1830-1907	Comte du Pape	109022
+13400	Malot, Hector, 1830-1907	Conscience	104035
+13490	Malot, Hector, 1830-1907	Corysandre	80045
+13562	Malot, Hector, 1830-1907	Ghislaine	94506
+13594	Sainte-Beuve, Charles Augustin, 1804-1869	Portraits littéraires, Tome I	157100
+13607	Thiers, Adolphe, 1797-1877	Histoire de la Révolution française, Tome 10	110199
+13628	Hugo, Victor, 1802-1885	La Esmeralda	8220
+13629	Sand, George, 1804-1876	Correspondance, 1812-1876 — Tome 1	88483
+13654	Malot, Hector, 1830-1907	Ida et Carmelita	64943
+13743	Proust, Marcel, 1871-1922	Le Côté de Guermantes - Troisième partie	87665
+13765	Leroux, Gaston, 1868-1927	Le mystère de la chambre jaune	88470
+13772	Leroux, Gaston, 1868-1927	Les etranges noces de Rouletabille	79120
+13792	Baudelaire, Charles, 1821-1867	Journaux intimes	11128
+13793	Malot, Hector, 1830-1907	En famille	104917
+13798	Pushkin, Aleksandr Sergeevich, 1799-1837	La fille du capitaine	40013
+13825	Daudet, Alphonse, 1840-1897	Sapho	59975
+13838	Sand, George, 1804-1876	Correspondance, 1812-1876 — Tome 3	92202
+13839	Sand, George, 1804-1876	Correspondance, 1812-1876 — Tome 5	88785
+13848	Barbey d'Aurevilly, J. (Jules), 1808-1889	Les diaboliques	104149
+13855	Grosclaude, Etienne, 1858-1932	Une politique européenne : la France, la Russie, l'Allemagne et la guerre au Transvaal	19684
+13857	Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888	La reine Margot - Tome II	102329
+13861	Constant, Benjamin, 1767-1830	Adolphe	31362
+13862	Diderot, Denis, 1713-1784	Le neveu de Rameau	32725
+13863	Diderot, Denis, 1713-1784	Regrets sur ma vieille robe de chambre	2413
+13866	Zola, Émile, 1840-1902	Le Naturalisme au théâtre, les théories et les exemples	112267
+13914	Fénelon, François de Salignac de La Mothe-, 1651-1715	Lettre à Louis XIV	3351
+13965	Sainte-Beuve, Charles Augustin, 1804-1869	Portraits littéraires, Tome II	167928
+14155	Flaubert, Gustave, 1821-1880	Madame Bovary	118599
+14156	Flaubert, Gustave, 1821-1880	Dictionnaire des idées reçues	12502
+14157	Flaubert, Gustave, 1821-1880	Bouvard et Pécuchet	92220
+14247	Ségur, Sophie, comtesse de, 1799-1874; Didier, Jules, 1831-1892 [Illustrator]; Doré, Gustave, 1832-1883 [Illustrator]	Nouveaux contes de fées pour les petits enfants	56598
+14288	Gautier, Théophile, 1811-1872	Mademoiselle de Maupin	139022
+14539	Musset, Paul de, 1804-1880	La Chèvre Jaune	38306
+14688	Sand, George, 1804-1876	Un hiver à Majorque	53996
+14692	Sainte-Beuve, Charles Augustin, 1804-1869	Portraits littéraires, Tome III	177098
+14704	Vallès, Jules, 1832-1885	L'enfant	89735
+14792	Louandre, Charles, 1812-1882	La sorcellerie	33490
+14799	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Journal des Goncourt  (Premier Volume)	90597
+14810	Verne, Jules, 1828-1905	La maison à vapeur: Voyage à travers l'Inde septentrionale	123740
+14820	Malot, Hector, 1830-1907	Une femme d'argent	83756
+14913	La Rochefoucauld, François duc de, 1613-1680	Réflexions ou sentences et maximes morales	111477
+14918	Dostoyevsky, Fyodor, 1821-1881	Souvenirs de la maison des morts	125273
+15058	Ségur, Sophie, comtesse de, 1799-1874	Les malheurs de Sophie	35681
+15059	Ségur, Sophie, comtesse de, 1799-1874	Les petites filles modèles	52927
+15112	Verlaine, Paul, 1844-1896	Œuvres complètes - Volume 1	45334
+15113	Renan, Ernest, 1823-1892	Vie de Jésus	111780
+15239	Sand, George, 1804-1876	Spiridion	84578
+15462	Apollinaire, Guillaume, 1880-1918	Alcools	16899
+15554	Leroux, Gaston, 1868-1927	Le parfum de la dame en noir	101097
+15574	Dumas, Alexandre, 1802-1870	Le capitaine Paul	64732
+15645	Daudet, Alphonse, 1840-1897	Port-Tarascon: Dernières aventures de l'illustre Tartarin	46529
+16020	Dickens, Charles, 1812-1870; Chaillot, Amédée, 1803-1892 [Translator]	Le grillon du foyer	32619
+16022	Dickens, Charles, 1812-1870; Pichot, Amédée, 1795-1877 [Translator]	Les conteurs à la ronde	47142
+16239	Mérimée, Prosper, 1803-1870	Colomba	48590
+16240	Mérimée, Prosper, 1803-1870	La Vénus d'Ille	11022
+16465	Loti, Pierre, 1850-1923	Le château de La Belle-au-bois-dormant	37765
+16649	Sacher-Masoch, Leopold, Ritter von, 1835-1895; Sacher-Masoch, Wanda von, 1845-1933 [Translator]	La Pantoufle de Sapho	8094
+16874	Assollant, Alfred, 1827-1886	Claude et Juliette	8683
+16884	Jarry, Alfred, 1873-1907	Ubu Roi, ou, les Polonais	13221
+16989	Lautréamont, comte de, 1846-1870	Poésies	11230
+17044	Saint-Simon, Louis de Rouvroy, duc de, 1675-1755; Sainte-Beuve, Charles Augustin, 1804-1869 [Commentator]; Taine, Hippolyte, 1828-1893 [Commentator]	Mémoires du duc de Saint-Simon	24098
+17098	Perrault, Charles, 1628-1703; Ripart, Georges, 1871- [Illustrator]	Riquet à la Houppe: Conte	2361
+17261	Chateaubriand, François-René, vicomte de, 1768-1848; Vichet, Louisa Phillipa Rioufol d'Hautevill, Marquise de, 1779-1848	Correspondance de Chateaubriand avec la marquise de V...	49084
+17285	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Germinie Lacerteux	69181
+17345	France, Anatole, 1844-1924	Histoire comique	47272
+17399	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Tribulat Bonhomet	34246
+17420	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Journal des Goncourt (Deuxième série, deuxième volume)	76190
+17489	Hugo, Victor, 1802-1885	Les misérables Tome I: Fantine	117664
+17505	Goncourt, Edmond de, 1822-1896	Journal des Goncourt (Deuxième série, troisième volume)	68906
+17516	Zola, Émile, 1840-1902	L'Argent	152857
+17517	Zola, Émile, 1840-1902	L'Œuvre	139644
+17518	Hugo, Victor, 1802-1885	Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis	128019
+17538	Greef, Guillaume de, 1842-1924	Les lois sociologiques	37745
+17578	Gautier, Théophile, 1811-1872	Sacountala (1858)	4434
+17623	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Le secret de l'échafaud	44959
+17660	Verne, Jules, 1828-1905	L'archipel en feu	62750
+17734	Taine, Hippolyte, 1828-1893	Le positivisme anglais: Etude sur Stuart Mill	25247
+17746	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Journal des Goncourt (Troisième série, premier volume)	71941
+17747	Du Boisgobey, Fortuné, 1821-1891	La main froide	101116
+17796	Verne, Jules, 1828-1905	Le pays des fourrures	140407
+17808	Achard, Amédée, 1814-1875	Belle-Rose	175374
+17831	Zola, Émile, 1840-1902	La Débâcle	199380
+17915	Banville, Théodore Faullain de, 1823-1891	Les parisiennes de Paris	92563
+17941	La Fontaine, Jean de, 1621-1695	Fables de La Fontaine. Tome Premier	7377
+17942	La Fontaine, Jean de, 1621-1695	Fables de La Fontaine. Tome Second	5229
+17980	La Bruyère, Jean de, 1645-1696	Les caractères	154660
+17983	Prévost, abbé, 1697-1763	Manon Lescaut	63069
+17989	Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888	Le comte de Monte-Cristo, Tome I	129408
+17990	Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888	Le comte de Monte-Cristo, Tome II	125341
+18081	Fabre, Jean-Henri, 1823-1915	Nouveaux souvenirs entomologiques - Livre II	97398
+18084	Vandal, Édouard, 1813-1889	Rapport au Ministre des Finances sur l'Administration des Postes	4538
+18090	Ségur, Sophie, comtesse de, 1799-1874; Castelli, Horace, 1825-1889 [Illustrator]	Jean qui grogne et Jean qui rit	67544
+18108	Delpit, Albert, 1849-1893	Jean-nu-pieds, Vol. 2	105633
+18211	Vigny, Alfred de, 1797-1863	Servitude et grandeur militaires	61336
+18353	Maupassant, Guy de, 1850-1893	La petite roque	43945
+18358	Loti, Pierre, 1850-1923	Madame Chrysanthème	48355
+18402	Dumas, Alexandre, 1802-1870	La San-Felice, Tome 03	66392
+18427	Loti, Pierre, 1850-1923	Mon frère Yves	73161
+18583	Assollant, Alfred, 1827-1886	Brancas; Les amours de Quaterquem	63884
+18724	Goncourt, Edmond de, 1822-1896	Hokousaï	72100
+18738	Michelet, Jules, 1798-1874	Les Femmes de la Révolution	63589
+18797	La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne), 1634-1693	La princesse de Clèves	63684
+18864	Chateaubriand, François-René, vicomte de, 1768-1848; Biré, Edmond, 1829-1907 [Editor]	Mémoires d'Outre-Tombe, Tome 1	142175
+19035	Leroux, Gaston, 1868-1927	Le fauteuil hanté	50446
+19232	Staël, Madame de (Anne-Louise-Germaine), 1766-1817	De l'influence des passions sur le bonheur des individus et des nations	64930
+19233	France, Anatole, 1844-1924	Les opinions de M. Jérôme Coignard	45171
+19248	France, Anatole, 1844-1924	Opinions sociales	47625
+19344	France, Anatole, 1844-1924	La vie littéraire. Deuxième série	94534
+19345	France, Anatole, 1844-1924	La vie littéraire. Troisième série	100799
+19588	Dagron, Prudent René-Patrice, 1819-1900	La poste par pigeons voyageurs: Souvenir du siége de Paris	3827
+19657	Hugo, Victor, 1802-1885	Notre-Dame de Paris	183726
+19738	Le Faure, Georges, 1856-1953; Graffigny, H. de (Henry), 1863-1934; Flammarion, Camille, 1842-1925 [Author of introduction, etc.]	Aventures extraordinaires d'un savant russe; I. La lune	118797
+19972	Ségur, Philippe-Paul, comte de, 1780-1873	Histoire de Napoléon et de la Grande-Armée pendant l'année 1812. Tome I	84700
+20143	France, Anatole, 1844-1924	La vie littéraire. Quatrième série	97077
+20246	Musset, Alfred de, 1810-1857	Œuvres complètes de Alfred de Musset — Tome 3	78834
+20325	Scarron, Paul, 1610-1660	Le prince corsaire	14142
+20490	Lermina, Jules, 1839-1915	L'A. B. C. du libertaire	7653
+20498	Molière, 1622-1673	Le médecin malgré lui	11907
+20507	Ségur, Philippe-Paul, comte de, 1780-1873	Histoire de Napoléon et de la Grande-Armée pendant l'année 1812. Tome II	92549
+20568	Verlaine, Paul, 1844-1896	Hombres (Hommes)	3228
+20577	Beaumarchais, Pierre Augustin Caron de, 1732-1799	La Folle Journée ou le Mariage de Figaro	44204
+20895	Savary, Anne-Jean-Marie-René, duc de Rovigo, 1774-1833	Mémoires du duc de Rovigo, pour servir à l'histoire de l'empereur Napoléon, Tome 2	100903
+21017	Dumas, Alexandre, 1802-1870	La San-Felice, Tome 08, Emma Lyonna, tome 4	61499
+21413	Rathenau, Walther, 1867-1922; Jankélévitch, S. (Samuel), 1869-1951 [Translator]	Où va le monde?	112524
+21825	Prévost, Marcel, 1862-1941	L'automne d'une femme	83080
+21896	Marsy, Arthur de, 1843-1900	Nicolas Foucquet, surintendant des finances	6356
+22048	Hugo, Victor, 1802-1885	Napoléon Le Petit	73839
+22111	Allais, Alphonse, 1854-1905	Pour cause de fin de bail	30859
+22356	Apollinaire, Guillaume, 1880-1918	L'hérésiarque et Cie	45508
+22383	Villey, Pierre, 1879-1933	Montaigne et François Bacon	35711
+22394	Musset, Alfred de, 1810-1857	Œuvres complètes de Alfred de Musset — Tome 4	75931
+22551	Gautier, Théophile, 1811-1872	Ménagerie intime	15427
+22971	Apollinaire, Guillaume, 1880-1918	Les trois Don Juan	62456
+23567	Musset, Alfred de, 1810-1857	Œuvres complètes de Alfred de Musset — Tome 5	69609
+23610	Prévost, abbé, 1697-1763	Voyages du capitaine Robert Lade en differentes parties de l'Afrique, de l'Asie et de l'Amérique	143940
+23654	Chateaubriand, François-René, vicomte de, 1768-1848; Biré, Edmond, 1829-1907 [Editor]	Mémoires d'Outre-Tombe, Tome 2	144541
+23940	Huysmans, J.-K. (Joris-Karl), 1848-1907	Un dilemme	18543
+24217	Balzac, Honoré de, 1799-1850	La Maison du Chat-qui-pelote	21695
+24260	Montesquieu, Charles de Secondat, baron de, 1689-1755; Nodier, Charles, 1780-1844 [Commentator]	Le temple de Gnide	12697
+24850	Zola, Émile, 1840-1902	Lourdes	185482
+25276	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 03	85811
+25575	Chateaubriand, François-René, vicomte de, 1768-1848; Biré, Edmond, 1829-1907 [Editor]	Mémoires d'Outre-Tombe, Tome 4	118756
+25734	Voltaire, 1694-1778; Frederick II, King of Prussia, 1712-1786; Pompery, Edouard de, 1812-1895 [Commentator]	Correspondance de Voltaire avec le roi de Prusse	52019
+26375	Fleury de Chaboulon, Pierre Alexandre Édouard, baron, 1779-1835	Les Cent Jours (2/2)	87112
+26504	Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888	La tulipe noire	75046
+26634	Fusil, Louise, 1774-1848	Souvenirs d'une actrice (1/3)	50838
+26681	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	L'Ève future	91375
+26710	Baudelaire, Charles, 1821-1867; Poulet-Malassis, Auguste, 1825-1878 [Editor]; Rops, Félicien, 1833-1898 [Illustrator]	Les épaves de Charles Baudelaire	6736
+26806	Musset, Alfred de, 1810-1857	Gamiani, ou Une nuit d'excès	16314
+26812	Flaubert, Gustave, 1821-1880	Un coeur simple	11714
+26823	Ennery, Adolphe d', 1811-1899; Verne, Jules, 1828-1905	Michel Strogoff: Pièce à grand spectacle en 5 actes et 16 tableaux	20565
+26868	Louÿs, Pierre, 1870-1925	La femme et le pantin: roman espagnol	26848
+27282	Mairet, Jean de, 1604-1686	L'illustre corsaire: tragicomedie	18066
+27381	Thiers, Adolphe, 1797-1877	Histoire du Consulat et de l'Empire, (Vol. 02 / 20)	123818
+27451	Angellier, Auguste, 1847-1911	Robert Burns. Vol. 2, Les Oeuvres	181957
+27573	Montesquieu, Charles de Secondat, baron de, 1689-1755; Janet, Paul, 1823-1899 [Editor]	Esprit des lois	123623
+27625	Racine, Jean, 1639-1699	Mithridate	16168
+27772	Scarron, Paul, 1610-1660; Fournel, Victor, 1829-1894 [Annotator]	Le Roman Comique	195314
+27808	Wilhelmine, Margravine, consort of Friedrich, Margrave of Bayreuth, 1709-1758	Mémoires de Frédérique Sophie Wilhelmine de Prusse, margrave de Bareith. Tome 1	97995
+28078	Constant, Benjamin, 1767-1830	Adolphe : Anecdote trouvée dans les papiers d'un inconnu	83009
+28602	Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor]	Ceci n'est pas un conte	9078
+28605	Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor]	L'oiseau blanc: conte bleu	21938
+28789	Bussy, Roger de Rabutin, comte de, 1618-1693; Livet, Charles-Louis, 1828-1897 [Contributor]; Boiteau d'Ambly, Paul, 1830-1886 [Editor]	Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe siècle, Tome II	107312
+28827	Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor]	La religieuse	83108
+28930	Chateaubriand, François-René, vicomte de, 1768-1848; Biré, Edmond, 1829-1907 [Editor]	Mémoires d'Outre-Tombe, Tome 5	156425
+29302	Rimbaud, Arthur, 1854-1891; Verlaine, Paul, 1844-1896 [Commentator]	Poésies complètes,	17597
+29549	Hugo, Victor, 1802-1885	Le Roi s'amuse	27953
+29772	Pascal, Blaise, 1623-1662; Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794; François de Neufchâteau, Nicolas Louis, comte, 1750-1828; Voltaire, 1694-1778	Notes de Voltaire et de Condorcet sur les pensées de Pascal	16468
+29937	Dumas, Alexandre, 1824-1895	Les Femmes qui tuent et les Femmes qui votent	28135
+30226	Renard, Jules, 1864-1910	Coquecigrues	33171
+30268	Montesquieu, Charles de Secondat, baron de, 1689-1755; Lefèvre, André, 1834-1904 [Annotator]	Lettres persanes, tome I	59694
+30513	Tocqueville, Alexis de, 1805-1859	De la Démocratie en Amérique, tome premier	86879
+30514	Tocqueville, Alexis de, 1805-1859	De la Démocratie en Amérique, tome deuxième	104196
+30515	Tocqueville, Alexis de, 1805-1859	De la Démocratie en Amérique, tome troisième	60242
+30516	Tocqueville, Alexis de, 1805-1859	De la Démocratie en Amérique, tome quatrième	75441
+30703	Loti, Pierre, 1850-1923	Fantôme d'Orient	28650
+30779	Fénelon, François de Salignac de La Mothe-, 1651-1715	Les aventures de Télémaque suivies des aventures d'Aristonoüs	150821
+30918	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 05	80305
+30922	Bonnefoux, Pierre-Marie-Joseph, baron de, 1782-1855	Vie de Christophe Colomb	131532
+30978	Stendhal, 1783-1842	La vie de Rossini, tome II	71884
+31440	Renan, Ernest, 1823-1892	Souvenirs d'enfance et de jeunesse	82849
+31628	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Commentator]	Œuvres de P. Corneille, Tome 01	177506
+31805	Mosneron de Launay, Jean-Baptiste, baron, 1738-1830	Le Vallon Aérien	53428
+31904	Mérimée, Prosper, 1803-1870; Fagan, Louis, 1845-1903 [Editor]	Lettres à M. Panizzi - 3eme édition, Tome I	69423
+32113	Kock, Paul de, 1793-1871	Madeleine	115000
+32138	Loti, Pierre, 1850-1923	Vers Ispahan	73300
+32854	Leblanc, Maurice, 1864-1941; Claretie, Jules, 1840-1913 [Commentator]	Arsène Lupin, gentleman-cambrioleur	58551
+33157	Gautier, Théophile, 1811-1872	Voyage en Espagne	130081
+33316	Loti, Pierre, 1850-1923	Jérusalem	41764
+33693	France, Anatole, 1844-1924	Vie de Jeanne d'Arc. Vol. 2 de 2	101903
+33746	Féval, Paul, 1817-1887	Le Bossu: Aventures de Cape et d'Épée. Volume 2	35836
+33808	Fromentin, Eugène, 1820-1876	Dominique	80457
+33856	Montesquieu, Charles de Secondat, baron de, 1689-1755; Lefèvre, André, 1834-1904 [Annotator]	Lettres persanes, tome II	61109
+34285	Gautier, Théophile, 1811-1872	Partie carrée	65808
+34351	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Histoire de Marie-Antoinette	126823
+34445	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Commentator]	Œuvres de P. Corneille, Tome 02	127313
+34528	Zola, Émile, 1840-1902	Rome	250331
+34841	Beaumarchais, Pierre Augustin Caron de, 1732-1799	L'autre Tartuffe, ou La mère coupable	23053
+35223	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Quelques créatures de ce temps	58472
+35404	Ségur, Sophie, comtesse de, 1799-1874; Bertall, 1820-1882 [Illustrator]	Les petites filles modèles	53560
+35854	Loti, Pierre, 1850-1923	Un Pélerin d'Angkor	27264
+36011	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Commentator]	Œuvres de P. Corneille, Tome 03	165567
+36371	Dralet, M. (Etienne François), 1754-1844	L'art du taupier; ou, méthode amusante et infaillible de prendre les taupes	15463
+36477	France, Anatole, 1844-1924	Les Dieux ont soif	71250
+36780	Daudet, Alphonse, 1840-1897; Sarolea, Charles, 1870-1953 [Author of introduction, etc.]	Lettres de mon moulin	51729
+36814	Loti, Pierre, 1850-1923	Le livre de la pitié et de la mort	39655
+36826	Beaumarchais, Pierre Augustin Caron de, 1732-1799	Le barbier de Séville; ou, la précaution inutile	47661
+36978	Berlioz, Hector, 1803-1869	Le chef d'orchestre: théorie de son art	11181
+37050	Welschinger, Henri, 1846-1919	Le Roi de Rome (1811-1832)	183744
+37051	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Préfaces et manifestes littéraires	36743
+37075	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 08	91091
+37138	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Isis: Roman	40396
+37384	Rimsky-Korsakov, Nikolay, 1844-1908; Halpérine-Kaminsky, E. (Ely), 1858-1936 [Translator]	Ma vie musicale	52146
+37604	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 10	78640
+37608	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 15	70458
+37630	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 20	72251
+37989	Sand, George, 1804-1876	Lettres d'un voyageur	124670
+38118	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	La Duchesse de Châteauroux et ses soeurs	128254
+38244	Michelet, Jules, 1798-1874; Monod, Gabriel, 1844-1912 [Editor]	Histoire de France - Moyen Âge; (Vol. 2 / 10)	156220
+38316	Barbey d'Aurevilly, J. (Jules), 1808-1889; Marold, Luděk, 1865-1898 [Illustrator]; Mittis [Illustrator]	Le Chevalier des Touches	51848
+38705	Defoe, Daniel, 1661?-1731; Borel, Pétrus, 1809-1859 [Translator]	Robinson Crusoe (I/II)	113596
+39173	Reclus, Elisée, 1830-1905	La Guerre du Paraguay	14419
+39328	Taine, Hippolyte, 1828-1893	Histoire de la Littérature Anglaise (Volume 1 de 5)	102318
+39694	Gyp, 1849-1932	Bijou	57522
+39739	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Commentator]	Œuvres de P. Corneille, Tome 04	130268
+39876	Michelet, Jules, 1798-1874	Histoire de France 1598-1628 (Volume 13/19)	99257
+39885	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 12	66390
+39889	Courtois-Gérard, 1811?-1874	Manuel pratique de Jardinage	107282
+39976	Diderot, Denis, 1713-1784; Assézat, Jules, 1832-1876 [Editor]	Jacques le fataliste et son maître	98690
+40086	Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor]	Molière - Œuvres complètes, Tome 1	95603
+40095	Michelet, Jules, 1798-1874; Quinet, Edgar, 1803-1874	Des jésuites	62381
+40189	Michelet, Jules, 1798-1874	Histoire de France 1689-1715 (Volume 16/19)	101379
+40272	Rodenbach, Georges, 1855-1898	L'élite: écrivains, orateurs sacrés, peintres, sculpteurs	56921
+40694	Barbey d'Aurevilly, J. (Jules), 1808-1889	Philosophes et Écrivains Religieux	100592
+41054	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 07	89772
+41080	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 22	93993
+41087	Taine, Hippolyte, 1828-1893	Histoire de la Littérature Anglaise (Volume 2 de 5)	109790
+41101	Taine, Hippolyte, 1828-1893	Histoire de la Littérature Anglaise (Volume 3 de 5)	91114
+41112	Taine, Hippolyte, 1828-1893	Histoire de la Littérature Anglaise (Volume 4 de 5)	113942
+41114	Taine, Hippolyte, 1828-1893	Histoire de la Littérature Anglaise (Volume 5 de 5)	108377
+41155	Tyndale, Walter, 1855-1943	L'Égypte d'hier et d'aujourd'hui	48661
+41211	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 01	206779
+41991	Rebière, A. (Alphonse), 1842-1901 [Compiler]	Mathématiques et Mathématiciens: Pensées et Curiosités	106602
+41992	Michelet, Jules, 1798-1874; Monod, Gabriel, 1844-1912 [Editor]	Histoire de France - Moyen Âge; (Vol. 3 / 10)	138437
+42021	Michelet, Jules, 1798-1874; Monod, Gabriel, 1844-1912 [Editor]	Histoire de France - Moyen Âge; (Vol. 4 / 10)	105045
+42131	Voltaire, 1694-1778	Traité sur la tolérance	42451
+42554	Sainte-Beuve, Charles Augustin, 1804-1869	Monsieur de Talleyrand	36348
+42659	Saint-Victor, J. B. de (Jacques-Benjamin), 1772-1858	Tableau historique et pittoresque de Paris depuis les Gaulois jusqu'à  nos jours (Volume 8/8)	127122
+42765	Sand, George, 1804-1876	Histoire de ma Vie, Livre 3 (Vol. 10 - 13)	152019
+43004	Sacher-Masoch, Leopold, Ritter von, 1835-1895	La pêcheuse d'âmes	115381
+43309	Thureau-Dangin, Paul, 1837-1913	Histoire de la Monarchie de Juillet (Volume 5 / 7)	196462
+43311	Michelet, Jules, 1798-1874	Histoire de France 1466-1483 (Volume 8/19)	76373
+43535	Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor]	Molière - Œuvres complètes, Tome 2	89191
+43767	Arène, Paul, 1843-1896	La Chèvre d'Or	39867
+43901	Sévigné, Marie de Rabutin-Chantal, marquise de, 1626-1696	Lettres de Madame de Sévigné	293702
+43926	Carpentier, N.-J. (Nicolas-Joseph), 1824-1890	Dictionnaire du bon langage	151111
+44098	Curie, Marie, 1867-1934	La Radiologie et La Guerre	28636
+44180	Gautier, Théophile, 1811-1872	Poésies Complètes - Tome 1	64064
+44198	Vigny, Alfred de, 1797-1863; Jeanniot, Pierre-Georges, 1848-1934 [Illustrator]	Cinq-Mars; ou, Une conjuration sous Louis XIII (Tome 1 of 2)	70005
+44199	Vigny, Alfred de, 1797-1863; Jeanniot, Pierre-Georges, 1848-1934 [Illustrator]	Cinq-Mars; ou, Une conjuration sous Louis XIII (Tome 2 of 2)	83879
+44255	Renard, Jules, 1864-1910	Histoires naturelles	7680
+44488	Marty, Paul, 1882-1938	Études sur l'Islam et les tribus Maures: Les Brakna	106198
+44960	Fleury, Maurice, comte, 1856-1921	Angélique de Mackau, Marquise de Bombelles, et la Cour de Madame Élisabeth	107854
+45012	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 02	87969
+45207	Malot, Hector, 1830-1907; Bayard, Émile Antoine, 1837-1891 [Illustrator]	Anie	89568
+45312	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 02	22665
+45550	Chateaubriand, François-René, vicomte de, 1768-1848; Biré, Edmond, 1829-1907 [Editor]	Mémoires d'Outre-Tombe, Tome 3	130770
+45753	Sand, George, 1804-1876	Tamaris	75370
+45886	Gautier, Théophile, 1811-1872	Poésies Complètes - Tome 2	46789
+46111	Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]	Autour de la lune	58733
+46527	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Editor]	Œuvres de P. Corneille, Tome 05	155403
+46541	Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]	Le Tour du monde en quatre-vingts jours	71354
+46931	Nerval, Gérard de, 1808-1855	Voyage en Orient, Volume 1: Les femmes de Caire; Druses et Maronites	148610
+46932	Nerval, Gérard de, 1808-1855	Voyage en Orient, Volume 2: Les nuits du Ramazan; De Paris à Cythère; Lorely	193785
+47171	Goncourt, Edmond de, 1822-1896	La maison d'un artiste, Tome 2	97699
+47321	Ponson du Terrail, 1829-1871	Les cavaliers de la nuit, 1er partie (t. 1/4)	26680
+47522	Michelet, Jules, 1798-1874	Légendes démocratiques du Nord	76876
+47969	Michelet, Jules, 1798-1874	Histoire de France (Volume 1/19)	96850
+48004	Stendhal, 1783-1842; Stryienski, Casimir, 1853-1912 [Editor]	Souvenirs d'égotisme	86300
+48082	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 04	229553
+48359	Flaubert, Gustave, 1821-1880	Œuvres complètes de Gustave Flaubert, tome 1 (of 8): Madame Bovary	154731
+48518	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Chez les passants: fantaisies, pamphlets et souvenirs. Suivi de pages inédites	54385
+48590	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Editor]	Œuvres de P. Corneille, Tome 06	169798
+48781	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Histoires insolites	40660
+48933	Stendhal, 1783-1842	Histoire de la peinture en Italie	146218
+49397	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 23	101762
+49399	Lamartine, Alphonse de, 1790-1869	Cours familier de Littérature - Volume 25	76689
+49586	La Sizeranne, Robert de, 1866-1932	L'art pendant la guerre 1914-1918	64716
+50154	Daudet, Alphonse, 1840-1897	Contes de lundi	71551
+50173	Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor]	Molière - Œuvres complètes, Tome 3	102911
+50278	Méténier, Oscar, 1859-1913	Barbe-bleue	81599
+50605	Diderot, Denis, 1713-1784	Lettres à Mademoiselle de Volland	228750
+50974	Desmaze, Charles, 1820-1900	Le crime et la débauche à Paris; Le divorce	70856
+51313	Loti, Pierre, 1850-1923; Somm, Henry, 1844-1907 [Illustrator]	La chanson des vieux époux	2841
+51381	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 06. Scènes de la vie de Province - Tome 02	208577
+51612	Corneille, Pierre, 1606-1684; Marty-Laveaux, Charles Joseph, 1823-1899 [Editor]	Œuvres de P. Corneille, Tome 07	128394
+51632	Gautier, Théophile, 1811-1872	Romans et contes	111721
+52006	Laclos, Choderlos de, 1741-1803	Les liaisons dangereuses	160126
+52288	Péladan, Joséphin, 1859-1918; Barbey d'Aurevilly, J. (Jules), 1808-1889 [Commentator]	L'art ochlocratique: salons de 1882 & de 1883	76141
+52379	Melegari, Dora, 1849-1924	Ames dormantes	54335
+52669	Hanotaux, Gabriel, 1853-1944; Ronjat, Etienne Antoine Eugène, 1822- [Illustrator]	Champlain	7408
+52831	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 07. Scènes de la vie de Province - Tome 03	207663
+52843	Fortia de Piles, A. (Alphonse), comte de, 1758-1826; Boisgelin de Kerdu, Pierre Marie Louis de, 1758-1816; Larchey, Lorédan, 1831-1902 [Editor]	Les mystifications de Caillot-Duval	22606
+53082	Renan, Ernest, 1823-1892	Les apôtres	99272
+53247	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 09	45010
+53310	Héricourt, Madame d', 1809-1875	La femme affranchie, vol. 2 of 2	73588
+54339	Tocqueville, Alexis de, 1805-1859	L'ancien régime et la révolution	110412
+54387	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889; Rysselberghe, Théo van, 1862-1926 [Illustrator]	Histoires souveraines	59072
+54421	Delacroix, Eugène, 1798-1863; Flat, Paul, 1865-1918 [Editor]; Piot, René, 1866-1934 [Editor]	Journal de Eugène Delacroix, Tome 2 (de 3)	127525
+55072	Bourget, Paul, 1852-1935	La dame qui a perdu son peintre	83915
+55533	Apollinaire, Guillaume, 1880-1918	Le flâneur des deux rives	17651
+55554	Nerval, Gérard de, 1808-1855	Le rêve et la vie - Les filles du feu - La bohème galante	165777
+55638	Apollinaire, Guillaume, 1880-1918	Les Peintres Cubistes: [Méditations Esthétiques]	14949
+55640	Martin, René, 1846-1925	Atlas de poche des mammifères de la France, de la Suisse romane et de la Belgique	40573
+55860	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 09. Scènes de la vie parisienne - Tome 01	221999
+56149	Huysmans, J.-K. (Joris-Karl), 1848-1907; Leroux, Auguste, 1871-1952 [Illustrator]	A rebours	74342
+56327	La Fontaine, Jean de, 1621-1695; Grandville, J. J., 1803-1847 [Illustrator]	Fables de La Fontaine	85942
+56473	Mérimée, Prosper, 1803-1870; Taine, Hippolyte, 1828-1893 [Contributor]	Lettres à une inconnue, Tome Premier	83137
+56474	Mérimée, Prosper, 1803-1870; Taine, Hippolyte, 1828-1893 [Contributor]	Lettres à une inconnue, Tome Deuxième	75182
+56622	Zola, Émile, 1840-1902	Correspondance: Les lettres et les arts	93703
+56645	Apollinaire, Guillaume, 1880-1918	Le poète assassiné	42536
+56668	Rimbaud, Arthur, 1854-1891	Une saison en enfer	7554
+56808	Zola, Émile, 1840-1902	La vérité en marche: L'affaire Dreyfus	66837
+57023	Péguy, Charles, 1873-1914; Millerand, Alexandre, 1859-1943 [Author of introduction, etc.]	Oeuvres complètes de Charles Péguy (tome 1)	107261
+57270	Molière, 1622-1673; Chasles, Philarète, 1798-1873 [Editor]	Molière - Œuvres complètes, Tome 4	85861
+57373	Flaubert, Gustave, 1821-1880	Œuvres complètes de Gustave Flaubert, tome 5: La tentation de saint Antoine	49325
+57429	Bourget, Paul, 1852-1935	Nouveaux Pastels (Dix portraits d'hommes)	98062
+57506	Péguy, Charles, 1873-1914	Oeuvres complètes de Charles Péguy, Oeuvres de poésie (tome 6)	60113
+57525	Flaubert, Gustave, 1821-1880	Œuvres complètes de Gustave Flaubert, tome 6: Trois contes, suivis de mélanges inédits	93178
+57567	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 14	45631
+57746	Radcliffe, Ann Ward, 1764-1823; Soulés, François, 1748-1809 [Translator]	La forêt, ou l'abbaye de Saint-Clair (tome 2/3)	51504
+57762	Rostand, Edmond, 1868-1918	Les Musardises	33554
+57839	Rostand, Edmond, 1868-1918	Les Romanesques: comédie en trois actes en vers	12803
+58154	Apollinaire, Guillaume, 1880-1918	La femme assise	42284
+58260	Rostand, Edmond, 1868-1918	La Samaritaine, évangile en trois tableaux, en vers	16143
+58265	Rostand, Edmond, 1868-1918	La dernière nuit de Don Juan: poème dramatique en deux parties et un prologue	13227
+58476	Rostand, Edmond, 1868-1918	Un soir à Hernani, 26 février 1902	4705
+58698	Proust, Marcel, 1871-1922; Lemaire, Madeleine-Jeanne Coll, 1845-1928 [Illustrator]	Les plaisirs et les jours	57968
+60030	Stendhal, 1783-1842; Mitty, Jean de, 1864-1911 [Editor]; Vox, Maximilien, 1894-1974 [Illustrator]	Lucien Leuwen; ou, l'Amarante et le Noir. Tome Premier	70231
+60033	Stendhal, 1783-1842; Mitty, Jean de, 1864-1911 [Editor]; Vox, Maximilien, 1894-1974 [Illustrator]	Lucien Leuwen; ou, l'Amarante et le Noir. Tome Second	75988
+60080	Boulenger, Marcel, 1873-1932	Le fourbe	65944
+60199	Apollinaire, Guillaume, 1880-1918; Dufy, Raoul, 1877-1953 [Illustrator]	Le bestiaire: ou, Cortège d'Orphée	1723
+60551	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 11. Scènes de la vie parisienne - Tome 03	235803
+60610	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 15	49065
+60720	Proust, Marcel, 1871-1922	La Prisonnière (Sodome et Gomorrhe III)	169684
+60810	Staël, Madame de (Anne-Louise-Germaine), 1766-1817; Necker de Saussure, Albertine-Adrienne, 1766-1841 [Contributor]; Sainte-Beuve, Charles Augustin, 1804-1869 [Contributor]	Corinne; ou, l'Italie	190798
+60821	Huysmans, J.-K. (Joris-Karl), 1848-1907	En ménage	86559
+60828	Taine, Hippolyte, 1828-1893	Du suffrage universel et de la manière de voter	9469
+61039	Verlaine, Paul, 1844-1896; Huysmans, J.-K. (Joris-Karl), 1848-1907 [Author of introduction, etc.]	Poésies religieuses	32514
+61390	Coigny, Aimée de, 1769-1820; Lamy, Etienne, 1845-1919 [Editor]	Mémoires de Aimée de Coigny	71530
+61411	Sand, George, 1804-1876	Le beau Laurence	65945
+61565	Baudelaire, Charles, 1821-1867; Apollinaire, Guillaume, 1880-1918 [Commentator]	L'Oeuvre Poètique de Charles Baudelaire: Les Fleurs du Mal	43711
+61738	Massard, Émile, 1857-1932	Les espionnes à Paris	35523
+61745	Giraudoux, Jean, 1882-1944	L'École des indifférents	37092
+62100	Proust, Marcel, 1871-1922	Un amour de Swann	82305
+62120	Louvet de Couvray, Jean-Baptiste, 1760-1797; Avril, Paul, 1849-1928 [Illustrator]	Les amours du chevalier de Faublas, tome 4/5	72187
+62215	Leroux, Gaston, 1868-1927	Le Fantôme de l'Opéra	106657
+62753	Gautier, Théophile, 1811-1872; Houssaye, Arsène, 1815-1896; Saint-Victor, Paul de, 1827-1881; Calamatta, Luigi, 1802-1869 [Illustrator]	Les Dieux et les Demi-Dieux de la Peinture	118010
+62874	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Contes cruels	77264
+63129	Blanche, Jacques-Émile, 1861-1942	Propos de peintre, deuxième série: Dates	78649
+63174	Corneille, Pierre, 1606-1684; Jacob, P. L., 1806-1884 [Editor]	L'occasion perdue recouverte	20831
+63179	Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870	Manette Salomon	148056
+63185	Alain-Fournier, 1886-1914; Rivière, Jacques, 1886-1925 [Author of introduction, etc.]	Miracles	40603
+63244	Gautier, Théophile, 1811-1872	Les Jeunes-France: romans goguenards; suivis de Contes humoristiques	94267
+63285	Villiers de L'Isle-Adam, Auguste, comte de, 1838-1889	Nouveaux contes cruels et propos d'au delà	44094
+63634	Barbey d'Aurevilly, J. (Jules), 1808-1889	L'Amour impossible; La bague d'Annibal	53978
+63734	Gyp, 1849-1932	Le mariage de Chiffon	48258
+63804	Fournier, Edouard, 1819-1880	L'esprit dans l'histoire: Recherches et curiosités sur les mots historiques	63099
+63887	Loti, Pierre, 1850-1923	Turquie agonisante	38459
+63904	Radcliffe, Ann Ward, 1764-1823; Desrais, Claude Louis, 1746-1816 [Illustrator]; Soulés, François, 1748-1809 [Translator]	Les châteaux d'Athlin et de Dunbayne (2/2), Histoire arrivée dans les Montagnes d'Écosse.	22336
+64145	Proust, Marcel, 1871-1922	Pastiches et mélanges	64651
+64168	Mérimée, Prosper, 1803-1870; Fagan, Louis, 1845-1903 [Editor]	Lettres à M. Panizzi, tome II	79799
+64427	Proust, Marcel, 1871-1922	Albertine disparue Vol 1 (of 2)	59091
+64428	Proust, Marcel, 1871-1922	Albertine disparue Vol 2 (of 2)	54696
+64645	Ruskin, John, 1819-1900; La Sizeranne, Robert de, 1866-1932 [Author of introduction, etc.]; Paris, Marguerite, 1852-1917 [Translator]	"Præterita": souvenirs de jeunesse	104057
+64674	Barbey d'Aurevilly, J. (Jules), 1808-1889	L'ensorcelée	77898
+64862	Rostand, Edmond, 1868-1918	La Princesse lointaine: Pièce en quatre actes, en vers	19146
+64966	Rostand, Edmond, 1868-1918; Ripert, Emile, 1882-1948 [Editor]	Deux romanciers de Provence: Honoré d'Urfé et Émile Zola	16332
+65082	Taine, Hippolyte, 1828-1893	Voyage aux Pyrénées	74685
+65111	Flaubert, Gustave, 1821-1880	Œuvres de jeunesse inédites. II: 1839-1842. Œuvres diverses.—Novembre.	87965
+65349	Magre, Maurice, 1877-1941	La conquête des femmes: Conseils à un jeune homme	37735
+65434	Rousseau, Jean-Jacques, 1712-1778	Les Rêveries du Promeneur Solitaire	45104
+65494	Lemonnier, Camille, 1844-1913	Au Coeur Frais de la Forêt: Roman	58493
+65546	About, Edmond, 1828-1885	Le Turco	54554
+65878	Leroux, Gaston, 1868-1927	La Poupée Sanglante	66730
+66505	Flaubert, Gustave, 1821-1880	Œuvres complètes de Gustave Flaubert, tome 7: Bouvard et Pécuchet	109130
+66645	Schultz, Jeanne, 1862-1910	La neuvaine de Colette	54130
+66793	Rostand, Edmond, 1868-1918	L'Aiglon: Drame en six actes, en vers	52909
+66924	Staël, Madame de (Anne-Louise-Germaine), 1766-1817	De l'Allemagne; t.1	113360
+66995	Huysmans, J.-K. (Joris-Karl), 1848-1907; Jouas, Charles, 1866-1942 [Illustrator]	Trois Églises	20039
+67086	Staël, Madame de (Anne-Louise-Germaine), 1766-1817	Réflexions sur le suicide	18675
+67158	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 18	52254
+67275	Vèze, Raoul, 1864-1935	Le Baiser en Grèce	27420
+67779	Delepierre, Octave, 1802-1879	Supercheries littéraires	39689
+67933	Staël, Madame de (Anne-Louise-Germaine), 1766-1817	De l'Allemagne; t. 2	116780
+67940	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 19	53704
+68036	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 20	39017
+68281	Gilbert de Voisins, Auguste, 1877-1939	Le Démon Secret	42961
+68355	Voltaire, 1694-1778; Beuchot, A. J. Q. (Adrien Jean Quentin), 1777-1851 [Editor]	Œuvres de Voltaire Tome XIX: Siècle de Louis XIV.—Tome I	150843
+68634	Rostand, Edmond, 1868-1918	Le Cantique de l'Aile	36702
+69631	Voltaire, 1694-1778; Beuchot, A. J. Q. (Adrien Jean Quentin), 1777-1851 [Editor]	Œuvres de Voltaire Tome XX: Siècle de Louis XIV.—Tome II	164012
+70088	Tagore, Rabindranath, 1861-1941; Mirabaud-Thorens, H. (Henriette), 1881-1943 [Translator]	Le cycle du printemps	14249
+70260	Flaubert, Gustave, 1821-1880	Œuvres complètes de Gustave Flaubert, tome 8	55957
+70661	Chadourne, Louis, 1890-1925	Terre de Chanaan	54102
+70891	Hugo, Victor, 1802-1885; Flameng, François, 1856-1923 [Illustrator]	Notre-Dame de Paris - Tome 1	84139
+70917	Melegari, Dora, 1849-1924	Chercheurs de sources	50773
+71022	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 13. Scènes de la vie militaire et Scènes de la vie de campagne	304042
+71059	Gautier, Théophile, 1811-1872	Constantinople	107429
+71062	Valéry, Paul, 1871-1945	Charmes	10852
+72034	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 15. Études philosophiques	273531
+72630	Prévost, Marcel, 1862-1941	La retraite ardente	70476
+72702	Renard, Jules, 1864-1910	Nos frères farouches	30777
+72885	Hugo, Victor, 1802-1885; Flameng, François, 1856-1923 [Illustrator]	La Légende des siècles tome I	53675
+73191	Montfort, Eugène, 1877-1936	La Turque	38248
+73210	Tcheng, Ki-tong, 1851-1907	Les Parisiens peints par un Chinois	48295
+73294	Fagus, 1872-1933	Clavecin	5000
+73889	Rimbaud, Arthur, 1854-1891	Voyage en Abyssinie et au Harrar	5379
+73918	Rivière, Jacques, 1886-1925	De la sincérité envers soi-même	17964
+74091	Proust, Marcel, 1871-1922	Le temps retrouvé Tome 2 (de 2)	78220
+74106	Huysmans, J.-K. (Joris-Karl), 1848-1907	Sainte Lydwine de Schiedam	87045
+74126	Balzac, Honoré de, 1799-1850	La Comédie humaine - Volume 17. Études de mœurs	262351
+74157	Huysmans, J.-K. (Joris-Karl), 1848-1907	En route	123646
+74216	Bernard, Augustin, 1865-1947; Lacroix, Napoléon, 1855-1910	La pénétration saharienne (1830-1906)	50598
+74225	La Fontaine, Henri, 1854-1943; Otlet, Paul, 1868-1944	Création d'un répertoire bibliographique universel	8944
+74446	Jaloux, Edmond, 1878-1949	L'âge d'or	23172
+74861	Courteline, Georges, 1858-1929; Schwob, Marcel, 1867-1905 [Contributor]; Sem, 1863-1934 [Illustrator]	Messieurs les ronds-de-cuir	38540
+74950	Orléans, Henri d', Prince, 1867-1901	Le père Huc et ses critiques	14135
+75078	Prévost, Marcel, 1862-1941; Guillaume, Albert, 1873-1942 [Illustrator]	Lettres à Françoise	85386
+75198	Giraud, Victor, 1868-1953	Sainte Jeanne de Chantal	52672
+75205	Blégny, Monsieur de (Nicolas), 1652-1722; Fournier, Edouard, 1819-1880 [Annotator]	Le livre commode des adresses de Paris pour 1692, tome 1/2	110982
+75206	Blégny, Monsieur de (Nicolas), 1652-1722; Fournier, Edouard, 1819-1880 [Annotator]	Le livre commode des adresses de Paris pour 1692, tome 2/2	100803
+75433	Traz, Robert de, 1884-1951	La puritaine et l'amour	87070
+75581	Mazon, Albin, 1828-1908	Comment je suis arrivé à croire	13357
+75769	Maupassant, Guy de, 1850-1893	Œuvres complètes de Guy de Maupassant - volume 26	43225
+76045	Zola, Émile, 1840-1902	J'accuse...!	5037
+76050	Viollis, Andrée, 1870-1950	Tueurs de femmes	986
+76189	Aicard, Jean, 1848-1921	Benjamine	82424
+76277	Mérimée, Prosper, 1803-1870	Notes d'un voyage en Corse	34086
+76396	Hugo, Victor, 1802-1885; Flameng, François, 1856-1923 [Illustrator]	La Légende des siècles tome II	65687
+76606	Chateaubriand, François-René, vicomte de, 1768-1848	Vie de Rancé	61336
+76624	Simonin, Louis, 1830-1886	Le grand-ouest des États-Unis	73229
+77192	Veber, Pierre, 1869-1942; Veber, Jean, 1864-1928 [Illustrator]	L'aventure	44860
+77201	Daudet, Ernest, 1837-1921	L'espionne	67696
+77228	Bossuet, Jacques Bénigne, 1627-1704; Pératé, André, 1862-1947 [Contributor]	Traité de la concupiscence	31262
+77436	Renan, Ernest, 1823-1892	Pages françaises	42608
+77452	Bossuet, Jacques Bénigne, 1627-1704; Doumic, René, 1860-1937 [Author of introduction, etc.]	Oraisons funèbres	78995
+77503	Daudet, Alphonse, 1840-1897	L'Arlésienne	16514
+77790	Brada, 1850-1938	Mylord et Mylady	52789
+77904	Balzac, Honoré de, 1799-1850	Théâtre	128748
+77936	Ménez, François, 1887-1945	Aux jardins enchantés de Cornouaille	56062
+78080	Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794; Grouvelle, Philippe-Antoine, 1757-1806; Hassenfratz, J. H. (Jean-Henri), 1755-1827; Pressac de la Chagnaye, Louis-François-Dominique-Norbert, 1751-1822	Journal de la société de 1789 - Nº II	7554
+78250	Renan, Ernest, 1823-1892	La réforme intellectuelle et morale	77013
+78298	Bouche, Pierre (Pierre Bertrand), 1835-1903	Sept ans en Afrique Occidentale	128968
+78399	Traz, Robert de, 1884-1951	Complices	53331
+78478	Herzl, Theodor, 1860-1904; Hagani, Baruch, 1885-1944 [Author of introduction, etc.]	L'État juif	31533
+78981	Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794; Du Pont de Nemours, Pierre Samuel, 1739-1817; Klinglin, Jean Jacques Joseph de, baron de Hattstatt, 1733-1818	Journal de la société de 1789 - Nº IV	7844
+79011	Anet, Claude, 1868-1931	Petite ville	46667
+79323	Beaumarchais, Pierre Augustin Caron de, 1732-1799	Mémoires de Beaumarchais; vol. 1	73435
+79437	Renan, Ernest, 1823-1892	Examen de conscience philosophique	7945
+79451	Stendhal, 1783-1842	Rome, Naples et Florence, en 1817	64586
+79506	Binet-Valmer, 1875-1940	Lucien	62840
+79540	Hermant, Abel, 1862-1950	Le bourgeois	24714
+79676	Mérimée, Prosper, 1803-1870	Histoire de don Pèdre Ier, roi de Castille	169960
+79711	Chardin, John, Sir, 1643-1713	Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l'Orient.	171429
+79747	Meyer, Paul, 1840-1917 [Editor]	L'histoire de Guillaume le Maréchal, T. 1	73549

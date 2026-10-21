@@ -1,4 +1,4 @@
-"""Shared tokenizer / counter for the Heinrich frequency lists (German and English).
+"""Shared tokenizer / counter for the Heinrich frequency lists (German, English, French).
 
 Only counts are kept; texts are streamed and discarded.
 Tokens are case-sensitive surface forms (NFC). A token is a run of Latin
@@ -28,17 +28,25 @@ ABBR_EN = (r"Mr|Mrs|Ms|Messrs|Mme|Mlle|Dr|Prof|Rev|Revd|Hon|St|Ste|Mt|Ft|Jr|Sr|E
            r"Fla|Ill|Wash|Va|Md|Ga|Tex|Ky|Tenn|Ala|Miss|Mich|Minn|Wis|Ariz|Colo|Okla|Kan|Neb|Nev|Ore|"
            r"hon|Rt|Bt|Bart|cl|subs|reg|regs|Regs|Stat|Cong|Sess|Doc|Docs|Pub|Amdt|Ord|Rept|Exec|Admin|"
            r"Comm|Natl|Intl|Assoc|Mfg|Mgr|Dist|Ct|Cir|Supp|App|Ry|Rly|Gaz|Gent|viz|sc|ult|inst|prox|do")
-ABBR = {"de": ABBR_DE, "en": ABBR_EN}
+# French abbreviations that do not end a sentence (own list; single letters such as "M.", "J.-C." are
+# covered by the single-letter rule).
+ABBR_FR = (r"MM|Mme|Mmes|Mlle|Mlles|Me|Mes|Mgr|Mgrs|Dr|Drs|Pr|Prs|St|Ste|Sts|Stes|Cie|Vve|art|Art|al|cf|chap|"
+           r"éd|édit|etc|ex|env|av|apr|vol|t|p|pp|n|no|nos|fig|ibid|op|cit|loc|sq|sqq|suiv|réf|resp|anc|"
+           r"boul|bd|fg|av|janv|févr|avr|juil|sept|oct|nov|déc|lun|mar|mer|jeu|ven|sam|dim|env|cap|liv|"
+           r"sect|tit|al|alin|ord|min|max|cass|civ|crim|com|soc|req|ch|chbre|gal|lt|cne|col|cdt|adj|sgt|"
+           r"vx|var|cad|hab|dép|arr|ill|trad|coll|dir|ms|mss|fol|fos|ve|vo|ro")
+ABBR = {"de": ABBR_DE, "en": ABBR_EN, "fr": ABBR_FR}
 # German: ordinal numbers ("3. Mai") do not end a sentence; English has no such ordinals.
 PROT_BY_LANG = {
     "de": re.compile(rf"(?<![{L}])(?:{ABBR_DE}|[{L}]|\d+)\."),
     "en": re.compile(rf"(?<![{L}])(?:{ABBR_EN}|[{L}])\."),
+    "fr": re.compile(rf"(?<![{L}])(?:{ABBR_FR}|[{L}])\."),
 }
 PROT = PROT_BY_LANG["de"]
 LANG = "de"
 
 
-LEAD = {"de": "\"„“»«(‚'[-–— \x00", "en": "\"“‘(['-–— \x00"}
+LEAD = {"de": "\"„“»«(‚'[-–— \x00", "en": "\"“‘(['-–— \x00", "fr": "\"«“‹(['-–— \x00\u00a0\u202f"}
 
 
 def set_lang(lang):
@@ -50,12 +58,51 @@ SPLIT = re.compile(r"(?<=[.!?…])[\"“”«»'’)\]]*\s+(?=[\"„“»«(\[�
 SPLIT_BY_LANG = {
     "de": SPLIT,
     "en": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]]*\s+(?=[\"“‘(\['-]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-Z])"),
+    # French: guillemets with (narrow) no-break spaces, e.g. "? » Il" or ". « Oui".
+    "fr": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“«‹(\[\-–—\s]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-ZÀ-ÖØ-Þ])"),
 }
+
+# French elision: a clitic ending in an apostrophe is split off as its own token ("l'homme" -> "l'",
+# "homme"; "jusqu'à" -> "jusqu'", "à"; "d'aujourd'hui" -> "d'", "aujourd'hui"). Words with an inner
+# apostrophe that is not one of these clitics stay whole ("aujourd'hui", "presqu'île", "quelqu'un",
+# "prud'homme"). Apostrophe variants (’ ʼ ‘ ´ ` ′) between letters become "'" and hyphen variants
+# (U+2010, U+2011) become "-".
+ELIDE_FR = re.compile(r"(?:[ldjmnstc]|qu|lorsqu|puisqu|jusqu|quoiqu)'", re.I)
+KEEP_FR = {"c'est-à-dire"}
+APOS_FR = re.compile(rf"(?<=[{L}])[’ʼ‘‛´`′](?=[{L}])")
+HYPH_FR = re.compile(rf"(?<=[{L}])[\u2010\u2011](?=[{L}])")
+# "l' homme" (space after the elided clitic, frequent in old prints) is read as "l'homme".
+LOOSE_FR = re.compile(rf"(?<![{L}])((?:[ldjmnstc]|qu|lorsqu|puisqu|jusqu|quoiqu)['’]) +(?=[{L}])", re.I)
+
+
+def split_fr(w):
+    """Split leading elided clitics off a French token."""
+    if w.lower() in KEEP_FR:
+        return [w]
+    out = []
+    while True:
+        m = ELIDE_FR.match(w)
+        if not m or m.end() == len(w):
+            break
+        out.append(w[:m.end()])
+        w = w[m.end():]
+        if w.lower() in KEEP_FR:
+            break
+    out.append(w)
+    return out
+
+
+def normalize_fr(text):
+    text = APOS_FR.sub("'", text)
+    text = HYPH_FR.sub("-", text)
+    return LOOSE_FR.sub(r"\1", text)
 
 
 def tokenize_lines(text):
     """Yield list-of-words per sentence."""
     text = unicodedata.normalize("NFC", text)
+    if LANG == "fr":
+        text = normalize_fr(text)
     text = PROT.sub(lambda m: m.group(0)[:-1] + "\x00", text)
     for sent in SPLIT.split(text):
         if not sent:
@@ -76,6 +123,8 @@ def count_text(text, tot, init):
     n = 0
     for words, first_ok in tokenize_lines(text):
         w = [x.replace("’", "'") for x in words]
+        if LANG == "fr":
+            w = [y for x in w for y in split_fr(x)]
         tot.update(w)
         n += len(w)
         if first_ok:

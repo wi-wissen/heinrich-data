@@ -66,6 +66,35 @@ Notes
   (`to-day`, `connexion`, British `-ize`); compare per-million rates, not raw counts.
 - Gutenberg access was limited to 3 sequential workers with a 2 s delay per request.
 
+## French word frequency list (`fr/frequency/`)
+
+All counts were produced by our own scripts in `tools/frequency/` with the same method as German and English
+(clean-room: no third-party word list, frequency list, lexicon or dictionary was used - no wordfreq,
+hermitdave/FrequencyWords, Lexique/OpenLexicon, Leipzig corpora, Morphalou, Lefff, DELA, Wiktionnaire,
+Grammalecte/Dicollecte or similar). Texts were streamed and discarded; only token counts are kept (text and
+data mining, Sec. 44b UrhG and Art. L122-5-3 Code de la propriété intellectuelle; public-domain works and
+open data under the Licence Ouverte). Counted on 2026-10-20. Method and normalisation (elision split, apostrophe
+variants unified): `fr/frequency/README.md`.
+
+| Source | Key | URL | Version / date | Licence / legal basis | Amount counted |
+|---|---|---|---|---|---|
+| French Wikipedia, article namespace | `wiki` | https://dumps.wikimedia.org/frwiki/latest/ (multistream parts 2 p306135, 3 p1050823, 4 p2977215, 5 p6702074, 6 p10574284, 6 p15074284; systematic sample of 42 chunks of ~1000 pages per part) | dump of 2026-10-01 | text CC BY-SA 4.0; TDM; only counts retained (no text is redistributed, so the CC BY-SA licence of the text does not carry over to the counts) - same handling as for German and English | 53,741,597 tokens from 128,250 articles |
+| Project Gutenberg (gutenberg.org) | `lit` | https://www.gutenberg.org/ (catalog `cache/epub/feeds/pg_catalog.csv`, language `fr`; texts `cache/epub/<id>/pg<id>.txt`) | accessed 2026-10-20 | public domain in the US **and** every named author/editor/translator died in 1954 or earlier; PG header/footer and licence text stripped | 40,585,693 tokens from 551 books (list in `fr/frequency/lit_books.tsv`) |
+| Assemblée nationale debates (Journal officiel, compte rendu intégral) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/Debats/AN/ (every 5th issue 2011-2026, speech paragraphs only) | accessed 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab; allows commercial use with attribution) | 24,415,095 tokens (391 issues) |
+| Sénat debates (Journal officiel, compte rendu intégral) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/Debats/SENAT/ (every 3rd issue 2011-2016, the years offered; speech paragraphs only) | accessed 2026-10-20 | Licence Ouverte 2.0 | 13,136,344 tokens (191 issues) |
+| Légifrance, LEGI database (consolidated codes and laws) | `gov` | DILA open data: https://echanges.dila.gouv.fr/OPENDATA/LEGI/ (`Freemium_legi_global_20250713-140000.tar.gz`; articles in force of codes, laws, organic and constitutional laws, ordinances, constitution; 10 of 20 buckets by article id) | export of 2025-07-13 | Licence Ouverte 2.0; legislation is not protected by copyright | 13,157,800 tokens |
+| service-public.gouv.fr practical guides (fiches pratiques) | `gov` | https://lecomarquage.service-public.gouv.fr/vdd/3.5/part/zip/vosdroits-latest.zip, `.../3.5/pro/zip/vosdroits-latest.zip` (listed on data.gouv.fr) | accessed 2026-10-20 | Licence Ouverte 2.0 | 6,274,237 tokens (3,778 fiches) |
+
+Total: 151,310,766 tokens, 1,183,701 distinct forms (see `fr/frequency/STATS.md`). Corrected on 2026-10-21: HTML entity names counted as words were removed (`tools/frequency/drop_forms.py`, list at the end of `fr/frequency/STATS.md`); the numbers here are after the correction.
+
+Notes
+- The Licence Ouverte 2.0 (https://www.etalab.gouv.fr/licence-ouverte-open-licence/) permits reuse including
+  commercial reuse, provided the source and the date of the data are attributed. We redistribute no text, only
+  counts; attribution for the pack if required: "Contient des données de la DILA (Journal officiel - Débats de
+  l'Assemblée nationale et du Sénat, Légifrance LEGI, Service-Public.gouv.fr), Licence Ouverte 2.0, 2025-2026."
+- Only fr-FR for now: `forms.tsv` has no variety columns (Heinrich `docs/FRENCH.md` F-D2).
+- Gutenberg access was limited to 3 sequential workers with a 2 s delay per request.
+
 ## German lexicon (`de/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of German grammar and the official
@@ -103,6 +132,43 @@ own English lexicon and checked by hand against our own frequency list `en/frequ
 No third-party name list, census or birth-name statistic, gazetteer, directory, dictionary or
 web source was consulted. Format, use and protocol: `en/names/README.md`, `en/names/AUTHORING.md`.
 
+## French name lists (`fr/names/`)
+
+Not clean-room own data like `de/names/` and `en/names/`: filtered from official open data
+(owner decision, Heinrich `docs/FRENCH.md` F-D4), then curated by hand. Built by
+`tools/names_fr/` (`fetch.sh` downloads, `geonames_extract.py` and `build.py` filter; the raw
+data is not committed). Format, thresholds and coverage: `fr/names/README.md`.
+
+| Source | Used for | URL | Version / date | Licence |
+|---|---|---|---|---|
+| INSEE, Fichier des prénoms, édition 2025 (national file, births 1900-2025) | `given_names.tsv`: first given names with at least 200 births; gender from the share of boys/girls | https://www.insee.fr/fr/statistiques/8595130 (`prenoms-2025-nat_csv.zip`) | published 2026-07-16, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Fichier des noms, État civil (national file, births 1891-2000 by decade) | `surnames.tsv`: surnames borne by at least 700 persons | https://www.insee.fr/fr/statistiques/3536630 (`noms2008nat_txt.zip`) | published 2018-05-22, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Code officiel géographique au 1er janvier 2026 | `places.tsv`: communes, departments, regions, overseas collectivities, countries and territories | https://www.insee.fr/fr/information/8740222 (`v_commune_2026.csv`, `v_departement_2026.csv`, `v_region_2026.csv`, `v_comer_2026.csv`, `v_commune_comer_2026.csv`, `v_pays_territoire_2026.csv`) | updated 2026-02-24, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| INSEE, Populations de référence 2023 (fichier d'ensemble) | municipal population of the communes (threshold 3,000) | https://www.insee.fr/fr/statistiques/8680726 (`ensemble.zip`) | published 2025-12-18, downloaded 2026-10-20 | Licence Ouverte / Open Licence 2.0 (Etalab) |
+| GeoNames gazetteer (`allCountries.zip`, `alternateNamesV2.zip`) | French names of foreign cities (at least 150,000 inhabitants, and capitals) and first-level regions (at least 1,000,000) | https://download.geonames.org/export/dump/ | dump of 2026-10-20 | CC BY 4.0 |
+
+Licence check (2026-10-20): the INSEE legal notice (https://www.insee.fr/fr/information/2008466)
+puts all public information on insee.fr under the Licence Ouverte / Open Licence 2.0 unless stated
+otherwise; none of the pages above states otherwise. The licence allows reuse, also commercial and
+modified, provided the source is named ("Source : Insee") with the date of the last update, and
+the reuse does not suggest INSEE endorsement or alter the meaning of the data
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence). It is compatible with CC BY 2.0+ and the
+Open Government Licence. GeoNames states in its `readme.txt`: "This work is licensed under a
+Creative Commons Attribution 4.0 License" (https://creativecommons.org/licenses/by/4.0/). No
+CC BY-SA, NC or unclear source is used. No personal data beyond counts per name is published: the
+INSEE files are anonymous aggregates in which rare names are grouped (`_PRENOMS_RARES`;
+`AUTRES NOMS` for surnames borne fewer than 30 times), and we keep only frequent names.
+
+Required attribution (in `fr/names/README.md`, the pack's `ATTR` section and Heinrich `NOTICE`):
+"Source : Insee (Fichier des prénoms 2025, Fichier des noms 2018, Code officiel géographique 2026,
+Populations de référence 2023), Licence Ouverte 2.0; GeoNames (geonames.org), CC BY 4.0. Selected
+and modified."
+
+Own data in `fr/names/curated/` (written 2026-10-20 from our own knowledge of French and of
+geography, without dictionary, lexicon, word list, gazetteer or web source): the `word` markers,
+the accented spellings of register surnames, the exclusions, and the list of continents, rivers,
+mountains, seas, islands, historic states and traditional regions (`curated/places.tsv`).
+
 ## English lexicon (`en/lexicon/`)
 
 Our own entries, written clean-room from general knowledge of English grammar and spelling (no
@@ -112,3 +178,15 @@ closed classes in `en/lexicon/closed/` (articles, pronouns, determiners, preposi
 conjunctions, auxiliaries and modals, particles, grammar-relevant adverbs, numerals) were written
 by hand on 2026-10-18.
 
+## French lexicon (`fr/lexicon/`)
+
+Our own entries, written clean-room from the authors' own knowledge of French (no third-party
+French lexicon, word list, dictionary or conjugation table was consulted: no Lexique/OpenLexicon,
+Morphalou, DELA, Lefff, GLÀFF, Wiktionnaire/kaikki, UniMorph, Dicollecte/Grammalecte, Hunspell,
+Le Robert, Larousse, Bescherelle or online dictionary). Format: `Heinrich/docs/LEXICON_FORMAT_FR.md`.
+The work was ordered by our own frequency list (`fr/frequency/forms.tsv`) and by work lists of
+unrecognised forms from our own tests on real texts; these lists only named forms. Written on
+2026-10-20 and 2026-10-21 by four author sessions (letters a–c with the closed classes, d–l, m–p,
+q–z); a separate reviewer compared the entries with third-party lexica outside the repositories
+and reported only disputed and missing lemmas. Protocol and PR record: `fr/lexicon/AUTHORING.md`,
+`fr/lexicon/README.md`.

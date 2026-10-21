@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count tokens in German or English public-domain books from gutenberg.org (NOT projekt-gutenberg.org).
+"""Count tokens in German, English or French public-domain books from gutenberg.org (NOT projekt-gutenberg.org).
 
 Reads the official catalog (pg_catalog.csv), selects Language == de (or en), downloads each plain text from
 gutenberg.org/cache/epub/<id>/pg<id>.txt one at a time (polite delay), strips the Project Gutenberg
@@ -13,6 +13,10 @@ English), whose every named person (author, editor, translator; illustrators ign
 year <= 1955 (public domain in the US and life + 70 years), at most 12 books per author. us and gb books
 alternate and max_tokens is split evenly between them; each book is also written as book_<id>.<region>.tsv.
 Usage: count_gutenberg.py OUTDIR CATALOG_CSV max_tokens shard nshards en
+
+French (lang=fr): every named person (illustrators ignored) has a known death year <= 1954, the first person
+was born in 1600 or later (no Middle French: Rabelais, Montaigne ...), at most 12 books per author; canonical
+authors (CANON_FR) first, the rest in a fixed pseudo-random order.
 """
 import csv, os, re, subprocess, sys, time, random
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -26,6 +30,16 @@ CANON = ["Goethe", "Schiller", "Heine", "Kleist", "Fontane", "Kafka", "Storm", "
          "Hebbel", "Stifter", "Droste", "Hölderlin", "Wieland", "Herder", "Kant", "Nietzsche", "Schnitzler", "Hofmannsthal",
          "Hauptmann", "Wedekind", "Zweig", "Spyri", "Ebner-Eschenbach", "Marx", "Freud", "Gerstäcker", "May, Karl", "Heyse",
          "Keller", "Jean Paul", "Lenz", "Bürger", "Chamisso", "Uhland", "Mörike", "Fouqué", "Arnim", "Humboldt", "Schopenhauer"]
+CANON_FR = ["Hugo, Victor", "Balzac", "Zola", "Flaubert", "Maupassant", "Dumas, Alexandre", "Stendhal", "Verne, Jules",
+            "Voltaire", "Rousseau, Jean-Jacques", "Molière", "Racine", "Corneille, Pierre", "La Fontaine", "Diderot",
+            "Proust", "Sand, George", "Daudet, Alphonse", "France, Anatole", "Baudelaire", "Rimbaud", "Verlaine",
+            "Musset", "Lamartine", "Vigny", "Chateaubriand", "Mérimée", "Gautier, Théophile", "Loti", "Montesquieu",
+            "Pascal, Blaise", "Marivaux", "Beaumarchais", "Laclos", "Prévost", "Fénelon", "La Bruyère",
+            "La Rochefoucauld", "Sévigné", "Bossuet", "Nerval", "Hugo", "Vallès", "Huysmans", "Goncourt", "Feydeau",
+            "Labiche", "Rostand", "Leroux, Gaston", "Leblanc, Maurice", "Ségur", "Malot", "Fromentin", "Barbey",
+            "Villiers de L'Isle-Adam", "Lautréamont", "Mallarmé", "Apollinaire", "Alain-Fournier", "Péguy", "Jarry",
+            "Renard, Jules", "Courteline", "Bergson", "Tocqueville", "Michelet", "Renan", "Taine", "Constant, Benjamin",
+            "Staël", "Sainte-Beuve", "Bernardin de Saint-Pierre", "Lesage", "Scarron", "Perrault"]
 START = re.compile(r"\*\*\* ?START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\n]*\n", re.I)
 END = re.compile(r"\*\*\* ?END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK", re.I)
 
@@ -37,7 +51,9 @@ def fetch(i):
     return None
 
 MAX_DEATH, PER_AUTHOR = 1955, 12
+MAX_DEATH_FR, MIN_BIRTH_FR = 1954, 1600
 YEARS = re.compile(r",\s*(?:(?:ca\.\s*)?\d{1,4}\??(?:\s*BCE)?)?\s*-\s*(?:ca\.\s*)?(\d{3,4})\??(?:\s*BCE)?\s*$")
+BIRTH = re.compile(r",\s*(?:ca\.\s*)?(\d{3,4})\??\s*-")
 
 def persons(authors):
     """(name, role) per person of a catalog author field."""
@@ -94,7 +110,35 @@ def en_books():
                 res.append((out[g][i], g))
     return res
 
-ILLU = re.compile(r"\[(?:Illustration|Transcriber's Note|Footnote)[^\]]*\]", re.I)
+def fr_ok(r):
+    ps = persons(r["Authors"])
+    if not ps:
+        return False
+    for name, role in ps:
+        if role == "Illustrator":
+            continue
+        m = YEARS.search(name)
+        if not m or int(m.group(1)) > MAX_DEATH_FR:
+            return False
+    b = BIRTH.search(ps[0][0])
+    return bool(b) and int(b.group(1)) >= MIN_BIRTH_FR
+
+def fr_books():
+    """Fixed-order list of French books: canonical authors first, at most PER_AUTHOR books per author."""
+    rnd = random.Random(7)
+    ok = [r for r in ROWS if fr_ok(r)]
+    canon = lambda r: any(persons(r["Authors"])[0][0].startswith(c) for c in CANON_FR)
+    a = [r for r in ok if canon(r)]; b = [r for r in ok if not canon(r)]
+    rnd.shuffle(a); rnd.shuffle(b)
+    seen, res = defaultdict(int), []
+    for r in a + b:
+        k = persons(r["Authors"])[0][0]
+        if seen[k] < PER_AUTHOR:
+            seen[k] += 1
+            res.append(r)
+    return res
+
+ILLU = re.compile(r"\[(?:Illustration|Transcriber's Note|Footnote|Note du transcripteur|Note)[^\]]*\]", re.I)
 
 def body(t):
     m = START.search(t)
@@ -123,6 +167,9 @@ def main():
     if lang == "en":
         books_list = en_books()[shard::nsh]
         caps = {"us": cap // 2, "gb": cap // 2}
+    elif lang == "fr":
+        books_list = [(r, None) for r in fr_books()[shard::nsh]]
+        caps = {None: cap}
     else:
         def canon(r):
             return any(c in r["Authors"] for c in CANON)
