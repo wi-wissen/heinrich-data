@@ -3,6 +3,7 @@ machaconamente adv
 mal          adv   note=content adverb (opposite of bien)
 malamente    adv
 mancomunadamente adv
+marras       adv   note=only in de marras: el asunto de marras
 maternalmente adv
 máxime       adv   note=especially (máxime cuando)
 mayormente   adv

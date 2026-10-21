@@ -33,6 +33,7 @@ naturista    adj
 náufrago     adj
 nauseabundo  adj
 náutico      adj
+navajo       adj
 naval        adj
 navarro      adj
 navegable    adj
@@ -74,15 +75,18 @@ neoconservador adj
 neofascista  adj
 neofranquista adj
 neogótico    adj
+neogranadino adj
 neokantiano  adj
 neolatino    adj
 neoliberal   adj
 neolítico    adj
+neomudéjar   adj
 neonatal     adj
 neonazi      adj
 neopagano    adj
 neoplatónico adj
 neorrealista adj
+neorrenacentista adj
 neorrománico adj
 neotropical  adj
 neoyorquino  adj
@@ -173,6 +177,7 @@ novohispano  adj
 nubio        adj
 nublado      adj
 nuboso       adj
+nucal        adj
 nuclear      adj
 nucleico     adj
 nucleoeléctrico adj

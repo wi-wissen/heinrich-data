@@ -19,6 +19,8 @@ macro        noun  g=f note=macroinstrucción (computing)
 macroeconomía noun  g=f
 macroencuesta noun  g=f
 macrófago    noun  g=m
+macrofamilia noun  g=f
+macrogranja  noun  g=f
 macromolécula noun  g=f
 macrón       noun  g=m
 macrorregión noun  g=f
@@ -28,6 +30,7 @@ macuto       noun  g=m
 madama       noun  g=f
 madeja       noun  g=f
 madera       noun  g=f
+maderista    noun  g=m|f
 madero       noun  g=m
 madona       noun  g=f
 madrasa      noun  g=f
@@ -45,6 +48,7 @@ madrugador   noun  g=m f=madrugadora
 madrugón     noun  g=m
 maduración   noun  g=f
 madurez      noun  g=f
+maese        noun  g=m style=archaic
 maestrante   noun  g=m note=member of a maestranza de caballería
 maestranza   noun  g=f
 maestrazgo   noun  g=m
@@ -85,6 +89,7 @@ magulladura  noun  g=f
 maharajá     noun  g=m f=maharaní fpl=maharaníes|maharanís[var]
 maicena      noun  g=f
 mail         noun  g=m foreign conf=80 note=English loan, also email
+mailing      noun  g=m foreign
 maillot      noun  g=m foreign
 mainstream   noun  g=m foreign
 maíz         noun  g=m
@@ -122,6 +127,7 @@ malhumor     noun  g=m
 malicia      noun  g=f
 malignidad   noun  g=f
 malla        noun  g=f
+mallado      noun  g=m
 mallorquín   noun  g=m f=mallorquina
 malnutrición noun  g=f
 malquerencia noun  g=f
@@ -244,6 +250,7 @@ manto        noun  g=m
 mantón       noun  g=m
 mantra       noun  g=m
 manual       noun  g=m
+manualidad   noun  g=f note=usually plural: manualidades
 manubrio     noun  g=m
 manufactura  noun  g=f
 manumisión   noun  g=f
@@ -336,6 +343,7 @@ mariposa     noun  g=f
 mariquita    noun  g=f
 marisabidilla noun  g=f style=colloquial alt=sabihonda
 mariscada    noun  g=f
+mariscador   noun  g=m f=mariscadora
 mariscal     noun  g=m
 marisco      noun  g=m
 marisma      noun  g=f
@@ -371,6 +379,7 @@ mártir       noun  g=m|f
 martirio     noun  g=m
 martirologio noun  g=m
 marxismo     noun  g=m
+marxismo-leninismo noun  g=m pl=- note=doctrine, no plural
 marxista     noun  g=m|f
 marzo        noun  g=m
 masa         noun  g=f
@@ -438,6 +447,7 @@ matrícula    noun  g=f
 matriculación noun  g=f
 matrimonio   noun  g=m
 matriz       noun  g=f
+matroide     noun  g=m
 matrona      noun  g=f
 matute       noun  g=m
 maullido     noun  g=m
@@ -492,6 +502,7 @@ medialuna    noun  g=f
 mediana      noun  g=f
 medianera    noun  g=f
 medianería   noun  g=f
+medianía     noun  g=f
 medianoche   noun  g=f
 mediapunta   noun  g=m|f
 mediastino   noun  g=m
@@ -518,9 +529,11 @@ mediodía     noun  g=m
 mediofondo   noun  g=m
 mediometraje noun  g=m
 meditación   noun  g=f
+médium       noun  g=m|f pl=médiums
 medro        noun  g=m
 médula       noun  g=f
 medusa       noun  g=f
+mega         noun  g=m style=colloquial alt=megabyte note=usually plural: tengo pocos megas
 megabit      noun  g=m pl=megabits
 megabyte     noun  g=m foreign var=megabait conf=80
 megafauna    noun  g=f
@@ -595,6 +608,7 @@ menisco      noun  g=m
 menonita     noun  g=m|f
 menopausia   noun  g=f
 menor        noun  g=m|f note=a minor
+menorá       noun  g=f
 menoscabo    noun  g=m
 mensaje      noun  g=m
 mensajería   noun  g=f
@@ -693,6 +707,7 @@ metanol      noun  g=m
 metaplasia   noun  g=f
 metástasis   noun  g=f
 metatarso    noun  g=m
+metátesis    noun  g=f
 metaverso    noun  g=m
 metedura     noun  g=f
 meteorito    noun  g=m
@@ -719,6 +734,7 @@ metrología   noun  g=f
 metrónomo    noun  g=m
 metrópoli    noun  g=f var=metrópolis
 metropolita  noun  g=m
+metropolitanato noun  g=m
 mexica       noun  g=m|f
 mexicano     noun  g=m f=mexicana
 mezcal       noun  g=m
@@ -740,6 +756,7 @@ micólogo     noun  g=m f=micóloga
 micosis      noun  g=f
 micra        noun  g=f
 micro        noun  g=m note=short for micrófono
+microarquitectura noun  g=f
 microbio     noun  g=m
 microbiología noun  g=f
 microbiólogo noun  g=m f=microbióloga
@@ -761,13 +778,16 @@ microfinanzas noun  g=f pl_only
 micrófono    noun  g=m
 microgramo   noun  g=m
 microhábitat noun  g=m pl=microhábitats
+microlito    noun  g=m
 micromecenazgo noun  g=m
 micrómetro   noun  g=m
 microondas   noun  g=m
 microorganismo noun  g=m
 microplástico noun  g=m
 microprocesador noun  g=m
+micropyme    noun  g=f
 microrregión noun  g=f
+microsatélite noun  g=m
 microscopía  noun  g=f
 microscopio  noun  g=m
 microtransacción noun  g=f
@@ -786,6 +806,7 @@ migaja       noun  g=f
 migración    noun  g=f
 migrante     noun  g=m|f
 migraña      noun  g=f
+mihrab       noun  g=m
 mijo         noun  g=m
 milagro      noun  g=m
 milano       noun  g=m
@@ -795,6 +816,7 @@ milésima     noun  g=f
 mileurismo   noun  g=m
 mileurista   noun  g=m|f
 milhojas     noun  g=m
+mili         noun  g=f style=colloquial alt=servicio_militar
 milicia      noun  g=f
 miliciano    noun  g=m f=miliciana
 miligramo    noun  g=m
@@ -812,6 +834,7 @@ millón       noun  g=m
 millonada    noun  g=f style=colloquial alt=fortuna
 millonario   noun  g=m f=millonaria
 milonga      noun  g=f
+milord       noun  g=m pl=milores conf=80 note=traditional Spanish plural
 milpa        noun  g=f
 milpiés      noun  g=m
 mimbre       noun  g=amb
@@ -909,6 +932,7 @@ mixtura      noun  g=f
 mnemotecnia  noun  g=f
 mobbing      noun  g=m foreign
 mobiliario   noun  g=m
+mocárabe     noun  g=m
 mocasín      noun  g=m
 mocedad      noun  g=f
 mocetón      noun  g=m f=mocetona
@@ -1007,6 +1031,7 @@ mono         noun  g=m f=mona
 monocasco    noun  g=m
 monóculo     noun  g=m
 monocultivo  noun  g=m
+monofilia    noun  g=f
 monogamia    noun  g=f
 monografía   noun  g=f
 monograma    noun  g=m
@@ -1030,6 +1055,8 @@ monorraíl    noun  g=m var=monorriel
 monosacárido noun  g=m
 monosílabo   noun  g=m
 monoteísmo   noun  g=m
+monotelismo  noun  g=m
+monotema     noun  g=m
 monotonía    noun  g=f
 monovolumen  noun  g=m pl=monovolúmenes
 monóxido     noun  g=m
@@ -1117,6 +1144,7 @@ mosca        noun  g=f
 moscardón    noun  g=m
 moscatel     noun  g=m
 moscón       noun  g=m
+mosén        noun  g=m note=title of priests in Aragon and Catalonia
 mosqueo      noun  g=m style=colloquial alt=enfado
 mosquete     noun  g=m
 mosquetero   noun  g=m
@@ -1213,13 +1241,14 @@ multiculturalidad noun  g=f
 multiculturalismo noun  g=m
 multidifusión noun  g=f
 multidisciplinariedad noun  g=f
-multiinstrumentista noun  g=m|f
+multiinstrumentista noun  g=m|f var=multinstrumentista
 multilateralidad noun  g=f
 multilateralismo noun  g=m
 multilingüismo noun  g=m
 multimillonario noun  g=m f=multimillonaria
 multinacional noun  g=f
 multipartidismo noun  g=m
+múltiplex    noun  g=m
 multiplexación noun  g=f
 multiplicación noun  g=f
 multiplicador noun  g=m
@@ -1288,3 +1317,4 @@ mutualidad   noun  g=f
 mutualismo   noun  g=m
 mutualista   noun  g=m|f
 mutualización noun  g=f
+muyahidín    noun  g=m

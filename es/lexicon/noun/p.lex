@@ -31,6 +31,7 @@ página       noun  g=f
 paginación   noun  g=f
 pago         noun  g=m
 pagoda       noun  g=f
+paguita      noun  g=f style=colloquial alt=subsidio|ayuda note=Spain, informal
 paipái       noun  g=m pl=paipáis var=paipay conf=80
 pairo        noun  g=m note=al pairo
 país         noun  g=m
@@ -71,6 +72,7 @@ palanqueta   noun  g=f
 palanquín    noun  g=m
 palatalización noun  g=f
 palco        noun  g=m
+palé         noun  g=m note=Spain: pallet, plural palés
 palenque     noun  g=m
 paleolítico  noun  g=m
 paleontología noun  g=f
@@ -117,6 +119,7 @@ pamela       noun  g=f
 pampa        noun  g=f
 pámpano      noun  g=m
 pamplina     noun  g=f
+pampsiquismo noun  g=m
 pan          noun  g=m
 pana         noun  g=f
 panacea      noun  g=f
@@ -498,12 +501,14 @@ peleador     noun  g=m f=peleadora
 pelele       noun  g=m
 peletería    noun  g=f
 peletero     noun  g=m f=peletera
+peli         noun  g=f style=colloquial alt=película
 pelícano     noun  g=m
 película     noun  g=f
 peligro      noun  g=m
 peligrosidad noun  g=f
 pelirrojo    noun  g=m f=pelirroja
 pellejo      noun  g=m
+pellet       noun  g=m foreign pl=pellets
 pellizco     noun  g=m
 pelma        noun  g=m|f style=colloquial alt=pesado
 pelmazo      noun  g=m f=pelmaza style=colloquial alt=pesado
@@ -619,6 +624,7 @@ pergamino    noun  g=m
 pérgola      noun  g=f
 perianto     noun  g=m
 pericardio   noun  g=m
+pericarpelo  noun  g=m
 pericia      noun  g=f
 perico       noun  g=m
 periferia    noun  g=f
@@ -670,6 +676,7 @@ peronismo    noun  g=m
 perorata     noun  g=f
 peroxidasa   noun  g=f
 peróxido     noun  g=m
+peroxisoma   noun  g=m
 perpendicular noun  g=f
 perpetración noun  g=f
 perpetrador  noun  g=m f=perpetradora
@@ -797,6 +804,7 @@ piedra       noun  g=f
 piel         noun  g=f
 piélago      noun  g=m
 pienso       noun  g=m
+piercing     noun  g=m foreign
 pierna       noun  g=f
 pieza        noun  g=f
 pifia        noun  g=f
@@ -840,6 +848,7 @@ pincho       noun  g=m
 pingajo      noun  g=m
 pingüino     noun  g=m
 pinito       noun  g=m note=hacer sus pinitos
+pinna        noun  g=f
 pino         noun  g=m
 pinsapo      noun  g=m
 pinta        noun  g=f
@@ -882,6 +891,7 @@ pirotécnico  noun  g=m f=pirotécnica
 pirueta      noun  g=f
 piruleta     noun  g=f
 pirulí       noun  g=m pl=pirulís
+piruvato     noun  g=m
 pis          noun  g=m style=colloquial alt=orina
 pisada       noun  g=f
 pisapapeles  noun  g=m
@@ -985,6 +995,8 @@ plató        noun  g=m
 platonismo   noun  g=m
 plausibilidad noun  g=f
 playa        noun  g=f
+playback     noun  g=m foreign pl=playbacks
+playboy      noun  g=m foreign pl=playboys
 playoff      noun  g=m foreign pl=playoffs var=play-off
 plaza        noun  g=f
 plazo        noun  g=m
@@ -1038,6 +1050,7 @@ plutonio     noun  g=m
 pluviometría noun  g=f
 pluviómetro  noun  g=m
 pluviosidad  noun  g=f
+poácea       noun  g=f
 poblacho     noun  g=m style=colloquial alt=pueblo
 población    noun  g=f
 poblado      noun  g=m
@@ -1053,6 +1066,7 @@ poción       noun  g=f
 poda         noun  g=f
 podadera     noun  g=f
 podcast      noun  g=m foreign var=pódcast
+podemita     noun  g=m|f
 podenco      noun  g=m
 poder        noun  g=m
 poderdante   noun  g=m|f
@@ -1072,12 +1086,13 @@ polaco       noun  g=m f=polaca
 polaina      noun  g=f
 polaridad    noun  g=f
 polarización noun  g=f
-polca        noun  g=f
+polca        noun  g=f var=polka
 polea        noun  g=f
 polémica     noun  g=f
 polemista    noun  g=m|f
 polen        noun  g=m
 polenta      noun  g=f
+poli         noun  g=m|f style=colloquial alt=policía note=el poli: officer; la poli: the force
 policía      noun  g=m|f sense=officer
 policía      noun  g=f sense=force
 policlínica  noun  g=f
@@ -1118,6 +1133,7 @@ poliuretano  noun  g=m
 polivalencia noun  g=f
 póliza       noun  g=f
 polizón      noun  g=m|f
+polizonte    noun  g=m style=colloquial|offensive alt=policía
 pollera      noun  g=f
 pollino      noun  g=m f=pollina
 pollito      noun  g=m
@@ -1192,8 +1208,10 @@ portaequipajes noun  g=m
 portaestandarte noun  g=m|f
 portafolio   noun  g=m
 portafolios  noun  g=m
+portainjerto noun  g=m
 portainjertos noun  g=m
 portal       noun  g=m
+portalada    noun  g=f
 portalámparas noun  g=m
 portalón     noun  g=m
 portaminas   noun  g=m
@@ -1507,6 +1525,7 @@ privanza     noun  g=f
 privatización noun  g=f
 privilegiado noun  g=m f=privilegiada
 privilegio   noun  g=m
+pro          noun  g=m note=los pros y los contras
 proa         noun  g=f
 proactividad noun  g=f
 probabilidad noun  g=f
@@ -1544,6 +1563,7 @@ proetarra    noun  g=m|f
 proeza       noun  g=f
 profanación  noun  g=f
 profano      noun  g=m f=profana
+profe        noun  g=m|f style=colloquial alt=profesor|profesora
 profecía     noun  g=f
 profesión    noun  g=f
 profesional  noun  g=m|f
@@ -1643,6 +1663,7 @@ prospectiva  noun  g=f
 prospecto    noun  g=m
 prosperidad  noun  g=f
 próstata     noun  g=f
+prostatectomía noun  g=f
 prostatitis  noun  g=f
 prostíbulo   noun  g=m
 prostitución noun  g=f
@@ -1667,7 +1688,9 @@ protestón    noun  g=m f=protestona style=colloquial alt=quejica
 protista     noun  g=m
 protocolización noun  g=f
 protocolo    noun  g=m
+protoeslavo  noun  g=m note=the reconstructed language
 protohistoria noun  g=f
+protoindoeuropeo noun  g=m note=the reconstructed language
 protolengua  noun  g=f
 protón       noun  g=m
 protonotario noun  g=m
@@ -1724,6 +1747,7 @@ psique       noun  g=f
 psiquiatra   noun  g=m|f var=siquiatra
 psiquiatría  noun  g=f var=siquiatría
 psoriasis    noun  g=f
+pteridólogo  noun  g=m f=pteridóloga
 pterosaurio  noun  g=m
 púa          noun  g=f
 pub          noun  g=m

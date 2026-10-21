@@ -13,6 +13,7 @@ macroscópico adj
 macular      adj
 maderable    adj
 maderero     adj
+maderista    adj
 madridista   adj
 madrileño    adj
 madrugador   adj
@@ -53,9 +54,11 @@ maldivo      adj
 maleable     adj
 maleducado   adj
 maléfico     adj
+maleico      adj
 malévolo     adj
 malgache     adj
 malhablado   adj
+malhadado    adj
 malherido    adj
 malhumorado  adj
 malicioso    adj   adv=maliciosamente
@@ -142,6 +145,7 @@ másico       adj
 masivo       adj   adv=masivamente
 masónico     adj
 masoquista   adj
+masorético   adj
 masticable   adj
 mastodóntico adj
 mate         adj
@@ -161,6 +165,7 @@ mauriciano   adj
 mauritano    adj
 maxilar      adj
 maxilofacial adj
+maximal      adj
 maximalista  adj
 máximo       adj
 maya         adj
@@ -187,6 +192,7 @@ mediocre     adj
 meditabundo  adj
 meditativo   adj
 mediterráneo adj
+medo         adj   note=of the Medes
 medroso      adj
 medular      adj
 megalítico   adj
@@ -202,6 +208,7 @@ melódico     adj
 melodioso    adj
 melodramático adj
 meloso       adj
+melquita     adj
 membranoso   adj
 memo         adj   style=colloquial alt=tonto
 memorable    adj
@@ -237,6 +244,7 @@ meritorio    adj
 mero         adj   adv=meramente
 merovingio   adj
 mesentérico  adj
+mesial       adj
 mesiánico    adj
 mesoamericano adj
 mesopotámico adj
@@ -244,7 +252,7 @@ mestizo      adj
 metabólico   adj
 metacarpiano adj
 metaestable  adj
-metafísico   adj
+metafísico   adj   adv=metafísicamente
 metafórico   adj   adv=metafóricamente
 metajurídico adj
 metalero     adj   style=colloquial alt=aficionado_al_metal
@@ -263,6 +271,7 @@ metódico     adj   adv=metódicamente
 metodista    adj
 metodológico adj   adv=metodológicamente
 métrico      adj
+metrizable   adj
 metrológico  adj
 metropolitano adj
 mexica       adj
@@ -348,6 +357,7 @@ moldavo      adj
 moldeable    adj
 molecular    adj
 molesto      adj
+molotov      adj   inv note=cóctel molotov
 momentáneo   adj   adv=momentáneamente
 monacal      adj
 monárquico   adj
@@ -363,14 +373,18 @@ monobloque   adj   inv
 monocilíndrico adj
 monoclonal   adj
 monocolor    adj   f=monocolor note=invariable in gender, like multicolor
+monocotiledóneo adj
 monocromático adj
-monocromo    adj note=ordinary -o adjective: una imagen monocroma
+monocromo    adj   note=ordinary -o adjective: una imagen monocroma
 monofilético adj
+monofónico   adj
 monógamo     adj
 monográfico  adj
+monoico      adj
 monolingüe   adj
 monolítico   adj
 monomarca    adj   inv
+monomarental adj
 monomotor    adj   f=monomotor note=una avioneta monomotor
 monoparental adj
 monoplaza    adj
@@ -387,6 +401,7 @@ montañoso    adj
 montaraz     adj
 montenegrino adj
 montés       adj   f=montés note=the same form in both genders: cabra montés
+montevideano adj
 montuoso     adj
 monumental   adj
 monzónico    adj
@@ -395,6 +410,7 @@ moral        adj   adv=moralmente
 moralista    adj
 moralizador  adj
 moralizante  adj
+moratorio    adj
 morboso      adj
 mordaz       adj   adv=mordazmente
 mordiente    adj

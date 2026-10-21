@@ -1,4 +1,5 @@
 # Spanish lexicon: adjectives in o- (m-p author). Own data, written clean-room.
+oaxaqueño    adj
 obcecado     adj
 obediente    adj   adv=obedientemente
 obeso        adj
@@ -11,6 +12,7 @@ oblicuo      adj   adv=oblicuamente
 obligacional adj
 obligatorio  adj   adv=obligatoriamente
 oblongo      adj
+obovado      adj
 obrante      adj
 obrerista    adj
 obrero       adj
@@ -170,9 +172,11 @@ osado        adj
 oscense      adj
 oscilante    adj
 oscilatorio  adj
+osco         adj
 oscurantista adj   var=obscurantista
 oscuro       adj   var=obscuro adv=oscuramente
 óseo         adj
+osetio       adj   note=from Ossetia
 osmótico     adj
 ostensible   adj   adv=ostensiblemente
 ostentoso    adj   adv=ostentosamente
@@ -182,6 +186,7 @@ otomí        adj   pl=otomíes|otomís[var]
 otoñal       adj
 otorgable    adj
 otorrinolaringológico adj
+ovado        adj
 oval         adj
 ovalado      adj
 ovárico      adj
