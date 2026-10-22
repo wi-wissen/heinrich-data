@@ -373,7 +373,7 @@ cubiculum, cubiculī noun n
 cubīle, cubīlis noun n
 cubitum, cubitī noun n
 cucullus, cucullī noun m
-cuculus, cuculī noun m
+cucūlus, cucūlī noun m conf=80 note=reviewer-dispute; length of the second u?
 cucumis, cucumeris noun m
 cucurbita, cucurbitae noun f
 culcita, culcitae noun f

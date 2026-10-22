@@ -197,7 +197,7 @@ creō, creāvī, creātum, creāre verb
 crepō, crepuī, crepitum, crepāre verb intr note=no long vowel in the lemma
 crēscō, crēvī, crētum, crēscere verb intr
 crīminor, crīminātus sum, crīminārī verb
-crōciō, -, -, crōcīre verb intr
+crōciō, -, -, crōcīre verb intr conf=80 note=length of the o?
 crucifīgō, crucifīxī, crucifīxum, crucifīgere verb style=late
 cruciō, cruciāvī, cruciātum, cruciāre verb note=no long vowel in the lemma
 cubō, cubuī, cubitum, cubāre verb intr note=no long vowel in the lemma

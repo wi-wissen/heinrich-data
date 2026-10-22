@@ -92,7 +92,7 @@ agricola, agricolae noun m
 agricultūra, agricultūrae noun f
 āla, ālae noun f
 alacritās, alacritātis noun f
-ālauda, ālaudae noun f
+alauda, alaudae noun f conf=80 note=reviewer-dispute; length of the first a?
 albēdō, albēdinis noun f
 ālea, āleae noun f conf=80 note=length of the first a?
 āles, ālitis noun c
@@ -148,7 +148,7 @@ anēthum, anēthī noun n var=anētum
 ānfrāctus, ānfrāctūs noun m conf=85 note=length of the a before nf?
 angelus, angelī noun m style=late
 angor, angōris noun m
-anguilla, anguillae noun f
+anguilla, anguillae noun f note=no long vowel, as in anguis
 anguis, anguis noun c
 angulus, angulī noun m
 angustia, angustiae noun f
