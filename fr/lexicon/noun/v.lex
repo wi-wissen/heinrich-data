@@ -360,6 +360,7 @@ visiophonie noun g=f
 visite noun g=f
 visiteur noun g=m f=visiteuse
 vison noun g=m
+visseuse noun g=f
 visualisation noun g=f
 vitalisme noun g=m
 vitalité noun g=f

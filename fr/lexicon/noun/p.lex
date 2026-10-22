@@ -548,6 +548,7 @@ pénates               noun g=m pl_only
 penchant              noun g=m
 pendage               noun g=m
 pendaison             noun g=f
+pendant noun g=m note=le pendant de (counterpart), un pendant d'oreille; the preposition is a closed class
 pendard               noun g=m f=pendarde style=archaic
 pendeloque            noun g=f
 pendentif             noun g=m
@@ -1335,6 +1336,7 @@ poisse                noun g=f style=colloquial alt=malchance
 poisson               noun g=m
 poissonnerie          noun g=f
 poissonnier           noun g=m f=poissonnière
+poissonnière noun g=f sense=kettle note=fish kettle; the person is the feminine of poissonnier
 poitrail              noun g=m note=plural poitrails
 poitrine              noun g=f
 poivrade              noun g=f
@@ -1454,6 +1456,7 @@ ponant                noun g=m style=archaic
 ponçage               noun g=m
 ponce                 noun g=f
 ponceau               noun g=m
+ponceuse noun g=f
 poncif                noun g=m
 ponction              noun g=f
 ponctualité           noun g=f

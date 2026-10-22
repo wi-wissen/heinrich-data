@@ -8,6 +8,7 @@ rabbin noun g=m
 râble noun g=m
 rabot noun g=m
 rabotage noun g=m
+raboteuse noun g=f
 racaille noun g=f style=colloquial|offensive alt=voyous
 raccommodage noun g=m
 raccommodement noun g=m
@@ -1039,6 +1040,7 @@ routard noun g=m f=routarde
 route noun g=f
 routeur noun g=m
 routier noun g=m
+routière noun g=f note=touring motorcycle or car; the trucker is routier
 routine noun g=f
 rover noun g=m
 royalisme noun g=m

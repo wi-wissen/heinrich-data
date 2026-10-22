@@ -125,6 +125,7 @@ fatuité        noun g=f
 faubourg       noun g=m
 fauchage       noun g=m
 faucheur       noun g=m f=faucheuse
+faucheuse noun g=f sense=machine note=mowing machine; also la Faucheuse (death); the person is the feminine of faucheur
 faucheux       noun g=m
 faucille       noun g=f
 faucon         noun g=m

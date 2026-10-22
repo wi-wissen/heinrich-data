@@ -3,6 +3,7 @@ yacht noun g=m
 yack noun g=m
 yakuza noun g=m
 yaourt noun g=m
+yaourtière noun g=f
 yatagan noun g=m
 yen noun g=m
 yéti noun g=m

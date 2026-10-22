@@ -283,6 +283,7 @@ sèche noun g=f style=colloquial alt=cigarette
 sèche-cheveux noun g=m
 sèche-linge noun g=m pl=sèche-linge[trad]|sèche-linges[rect]
 sécheresse noun g=f rect=sècheresse
+sécheuse noun g=f note=clothes dryer (Quebec)
 séchoir noun g=m
 second noun g=m
 secondaire noun g=m
@@ -664,6 +665,7 @@ somnambulisme noun g=m
 somnifère noun g=m
 somnolence noun g=f
 somptuosité noun g=f
+son noun g=m note=sound (le son de la cloche) and bran; the possessive son is a determiner
 sonar noun g=m
 sonate noun g=f
 sonatine noun g=f
@@ -717,6 +719,7 @@ soufflé noun g=m
 soufflerie noun g=f
 soufflet noun g=m
 souffleur noun g=m f=souffleuse
+souffleuse noun g=f sense=machine note=snow blower (Quebec); the person is the feminine of souffleur
 souffrance noun g=f
 souffre-douleur noun g=m|f pl=souffre-douleur[trad]|souffre-douleurs[rect]
 soufi noun g=m
