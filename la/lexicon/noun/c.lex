@@ -1,4 +1,5 @@
 # Latin nouns, letter c. Written from own knowledge (AUTHORING.md §1).
+caballus, caballī noun m
 cacūmen, cacūminis noun n
 cadāver, cadāveris noun n
 cadus, cadī noun m
@@ -7,6 +8,8 @@ caedēs, caedis noun f
 caeles, caelitis noun c
 caelicola, caelicolae noun c
 caelum, caelī noun n var=coelum[medieval]
+caelum, caelī noun n sense=chisel
+caementārius, caementāriī noun m
 caementum, caementī noun n
 caenum, caenī noun n
 caerimōnia, caerimōniae noun f var=caeremōnia
@@ -16,8 +19,10 @@ caestus, caestūs noun m
 calamitās, calamitātis noun f
 calamus, calamī noun m
 calcar, calcāris noun n
+calceāmentum, calceāmentī noun n
 calceus, calceī noun m
 calculus, calculī noun m
+caliga, caligae noun f
 cālīgō, cālīginis noun f
 calix, calicis noun m
 calliditās, calliditātis noun f
@@ -32,6 +37,7 @@ camīnus, camīnī noun m
 campus, campī noun m
 canālis, canālis noun m abl_sg=canālī|canāle
 cancer, cancrī noun m
+candēla, candēlae noun f
 candēlābrum, candēlābrī noun n
 candidātus, candidātī noun m
 candor, candōris noun m
@@ -39,13 +45,17 @@ canis, canis noun c stem=cons
 canistrum, canistrī noun n
 cānitiēs, cānitiēī noun f sg_only
 canna, cannae noun f
+cannabis, cannabis noun f stem=i
 canticum, canticī noun n
 cantus, cantūs noun m
 capella, capellae noun f
 caper, caprī noun m
 capillus, capillī noun m
+capistrum, capistrī noun n
 capitulum, capitulī noun n
 capra, caprae noun f
+caprea, capreae noun f
+capreolus, capreolī noun m
 captiō, captiōnis noun f
 captīvitās, captīvitātis noun f
 capulus, capulī noun m
@@ -55,6 +65,7 @@ carbō, carbōnis noun m
 carbunculus, carbunculī noun m
 carcer, carceris noun m
 cardō, cardinis noun m
+carduus, carduī noun m
 cariēs, cariēī noun f sg_only
 carīna, carīnae noun f
 cāritās, cāritātis noun f var=chāritās[medieval]
@@ -62,6 +73,8 @@ carmen, carminis noun n
 carnifex, carnificis noun m
 carō, carnis noun f gen_pl=carnium
 carpentum, carpentī noun n
+carpinus, carpinī noun f
+carrus, carrī noun m
 cartilāgō, cartilāginis noun f
 casa, casae noun f
 cāseus, cāseī noun m
@@ -74,10 +87,12 @@ castoreum, castoreī noun n
 castra, castrōrum noun n pl_only
 castrum, castrī noun n
 cāsus, cāsūs noun m
+catellus, catellī noun m
 catēna, catēnae noun f
 caterva, catervae noun f
 cathedra, cathedrae noun f
 catīnus, catīnī noun m
+cattus, cattī noun m style=late
 catulus, catulī noun m
 cauda, caudae noun f
 caulis, caulis noun m
@@ -100,6 +115,7 @@ cēnsus, cēnsūs noun m
 centrum, centrī noun n
 centuria, centuriae noun f
 centuriō, centuriōnis noun m
+cēpa, cēpae noun f var=caepa
 cēra, cērae noun f
 cerasus, cerasī noun f
 cērātum, cērātī noun n
@@ -107,6 +123,7 @@ cerebrum, cerebrī noun n
 certāmen, certāminis noun n
 cērussa, cērussae noun f
 cerva, cervae noun f
+cervēsia, cervēsiae noun f var=cerevisia
 cervīx, cervīcis noun f
 cervus, cervī noun m
 chaos noun n indecl
@@ -120,14 +137,21 @@ cibus, cibī noun m
 cicāda, cicādae noun f
 cicātrīx, cicātrīcis noun f
 cicer, ciceris noun n
+cicōnia, cicōniae noun f
 cicūta, cicūtae noun f
+cīmex, cīmicis noun m
 cingulum, cingulī noun n
 cinis, cineris noun m
+cinnamōmum, cinnamōmī noun n
+circinus, circinī noun m
 circuitus, circuitūs noun m
 circulus, circulī noun m
 circumscrīptiō, circumscrīptiōnis noun f
 circus, circī noun m
+cista, cistae noun f
+cisterna, cisternae noun f
 cithara, citharae noun f
+citrus, citrī noun f
 cīvis, cīvis noun c
 cīvitās, cīvitātis noun f gen_pl=cīvitātum|cīvitātium
 clādēs, clādis noun f
@@ -147,7 +171,9 @@ cliēns, clientis noun c
 clientēla, clientēlae noun f
 clipeus, clipeī noun m
 clīvus, clīvī noun m
+cloāca, cloācae noun f
 clūnis, clūnis noun c
+cochleāre, cochleāris noun n
 coclea, cocleae noun f var=cochlea
 cōdex, cōdicis noun m
 cōdicillī, cōdicillōrum noun m pl_only
@@ -223,6 +249,7 @@ concursātiō, concursātiōnis noun f
 concursus, concursūs noun m
 condemnātiō, condemnātiōnis noun f
 condiciō, condiciōnis noun f var=conditiō[medieval]
+condīmentum, condīmentī noun n
 conditor, conditōris noun m
 conductiō, conductiōnis noun f
 cōnfessiō, cōnfessiōnis noun f
@@ -293,11 +320,14 @@ convīva, convīvae noun c
 convīvium, convīviī noun n
 cōpia, cōpiae noun f
 cōpula, cōpulae noun f
+coquīna, coquīnae noun f
 coquus, coquī noun m var=cocus
 cor, cordis noun n
+coriandrum, coriandrī noun n
 corium, coriī noun n
 cornīx, cornīcis noun f
 cornū, cornūs noun n
+cornus, cornī noun f
 corōna, corōnae noun f
 corpus, corporis noun n
 corpusculum, corpusculī noun n
@@ -306,9 +336,12 @@ corruptor, corruptōris noun m
 cortex, corticis noun c
 cortīna, cortīnae noun f
 corvus, corvī noun m
+corylus, corylī noun f
 corymbus, corymbī noun m
 cōs, cōtis noun f gen_pl=cōtium
 costa, costae noun f
+cothurnus, cothurnī noun m
+coturnīx, coturnīcis noun f
 crāpula, crāpulae noun f
 crassitūdō, crassitūdinis noun f
 crātēr, crātēris noun m greek
@@ -318,6 +351,7 @@ creātrīx, creātrīcis noun f
 creātūra, creātūrae noun f style=late
 crēditor, crēditōris noun m
 crēdulitās, crēdulitātis noun f
+crepida, crepidae noun f
 crepīdō, crepīdinis noun f
 crepitus, crepitūs noun m
 crepusculum, crepusculī noun n
@@ -333,10 +367,13 @@ crūditās, crūditātis noun f
 cruor, cruōris noun m
 crūs, crūris noun n
 crusta, crustae noun f
+crustulum, crustulī noun n
 crux, crucis noun f
 cubiculum, cubiculī noun n
 cubīle, cubīlis noun n
 cubitum, cubitī noun n
+cucullus, cucullī noun m
+cuculus, cuculī noun m
 cucumis, cucumeris noun m
 cucurbita, cucurbitae noun f
 culcita, culcitae noun f
@@ -359,11 +396,13 @@ cūnae, cūnārum noun f pl_only
 cūnctātiō, cūnctātiōnis noun f
 cuneus, cuneī noun m
 cunīculus, cunīculī noun m conf=85 note=length of the i?
+cūpa, cūpae noun f
 cupiditās, cupiditātis noun f
 cupīdō, cupīdinis noun f
 cupressus, cupressī noun f
 cūra, cūrae noun f
 cūrātiō, cūrātiōnis noun f
+cūrātor, cūrātōris noun m
 cūria, cūriae noun f
 curriculum, curriculī noun n
 currus, currūs noun m

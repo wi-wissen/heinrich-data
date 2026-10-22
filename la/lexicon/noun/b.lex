@@ -24,6 +24,7 @@ benevolentia, benevolentiae noun f var=benivolentia
 benignitās, benignitātis noun f
 bēstia, bēstiae noun f conf=85 note=length of the e?
 bēta, bētae noun f
+betula, betulae noun f
 bibliothēca, bibliothēcae noun f
 bidēns, bidentis noun c
 bīduum, bīduī noun n conf=90 note=reviewer-dispute; length of the i (as in trīduum)?
@@ -37,6 +38,9 @@ blanditia, blanditiae noun f
 bōlētus, bōlētī noun m
 bonitās, bonitātis noun f
 bōs, bovis noun c gen_pl=boum dat_pl=bōbus|būbus
+botulus, botulī noun m
+bovīle, bovīlis noun n
+brācae, brācārum noun f pl_only conf=80 note=length of the a?
 bracchium, bracchiī noun n var=brachium
 brassica, brassicae noun f
 brevitās, brevitātis noun f
@@ -47,4 +51,5 @@ būcina, būcinae noun f
 bulbus, bulbī noun m
 bulla, bullae noun f
 bustum, bustī noun n
+būtȳrum, būtȳrī noun n
 buxus, buxī noun f

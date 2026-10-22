@@ -31,6 +31,7 @@ dēfluō, dēflūxī, dēflūxum, dēfluere verb intr
 dēfungor, dēfūnctus sum, dēfungī verb
 dēgenerō, dēgenerāvī, dēgenerātum, dēgenerāre verb intr
 dēgō, dēgī, -, dēgere verb
+dēgustō, dēgustāvī, dēgustātum, dēgustāre verb
 dēiciō, dēiēcī, dēiectum, dēicere verb
 dēlābor, dēlāpsus sum, dēlābī verb
 dēlectō, dēlectāvī, dēlectātum, dēlectāre verb
@@ -155,6 +156,7 @@ dominor, dominātus sum, dominārī verb note=no long vowel in the lemma
 domō, domuī, domitum, domāre verb
 dōnō, dōnāvī, dōnātum, dōnāre verb
 dormiō, dormīvī|dormiī, dormītum, dormīre verb intr
+dormītō, dormītāvī, -, dormītāre verb intr
 dubitō, dubitāvī, dubitātum, dubitāre verb
 dūcō, dūxī, ductum, dūcere verb imp=dūc
 dūrō, dūrāvī, dūrātum, dūrāre verb
