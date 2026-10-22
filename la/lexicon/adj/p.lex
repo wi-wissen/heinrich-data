@@ -15,6 +15,7 @@ pauper, pauperis adj stem=cons
 pavidus, pavida, pavidum adj
 pecūliāris, pecūliāre adj nocmp
 pedester, pedestris, pedestre adj nocmp
+pellītus, pellīta, pellītum adj nocmp
 peregrīnus, peregrīna, peregrīnum adj
 perennis, perenne adj nocmp
 perfacilis, perfacile adj nocmp adv=perfacile
@@ -34,6 +35,7 @@ pervius, pervia, pervium adj
 pestifer, pestifera, pestiferum adj nocmp
 Phrygius, Phrygia, Phrygium adj nocmp
 piger, pigra, pigrum adj
+pilōsus, pilōsa, pilōsum adj
 pīneus, pīnea, pīneum adj nocmp
 pinguis, pingue adj
 pius, pia, pium adj adv=piē

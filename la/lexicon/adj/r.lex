@@ -1,4 +1,5 @@
 # Latin adj entries, letter r: own data, written clean-room (la/lexicon/AUTHORING.md)
+rancidus, rancida, rancidum adj
 rapidus, rapida, rapidum adj
 rārus, rāra, rārum adj adv=rārō
 ratiōnālis, ratiōnāle adj nocmp

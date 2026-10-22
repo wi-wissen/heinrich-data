@@ -7,6 +7,7 @@ valētūdō, valētūdinis noun f
 vallis, vallis noun f
 vallum, vallī noun n
 vānitās, vānitātis noun f
+vannus, vannī noun f
 vapor, vapōris noun m
 varietās, varietātis noun f
 vās, vāsis noun n nom_pl=vāsa gen_pl=vāsōrum dat_pl=vāsīs note=plural of the second declension
@@ -30,12 +31,16 @@ vēr, vēris noun n
 verbum, verbī noun n
 verēcundia, verēcundiae noun f sg_only
 vēritās, vēritātis noun f
+vermis, vermis noun m
 versus, versūs noun m
 vertex, verticis noun m
 vertīgō, vertīginis noun f
+vervēx, vervēcis noun m
 vēsīca, vēsīcae noun f conf=80 note=reviewer-dispute
+vespa, vespae noun f
 vesper, vesperī noun m
 vespera, vesperae noun f
+vespertīliō, vespertīliōnis noun m
 vestibulum, vestibulī noun n
 vestīgium, vestīgiī noun n
 vestīmentum, vestīmentī noun n
@@ -67,6 +72,7 @@ vindicta, vindictae noun f
 vīnea, vīneae noun f
 vīnētum, vīnētī noun n
 vīnum, vīnī noun n
+viola, violae noun f
 violentia, violentiae noun f
 vīpera, vīperae noun f
 vir, virī noun m
@@ -82,6 +88,7 @@ vītis, vītis noun f
 vitium, vitiī noun n
 vitrum, vitrī noun n
 vitta, vittae noun f
+vitula, vitulae noun f
 vitulus, vitulī noun m
 vocābulum, vocābulī noun n
 volucris, volucris noun f
@@ -93,5 +100,7 @@ vōtum, vōtī noun n
 vōx, vōcis noun f
 vulgus, vulgī noun n sg_only var=volgus[archaic]
 vulnus, vulneris noun n var=volnus[archaic]
+vulpēs, vulpis noun f
+vultur, vulturis noun m
 vultus, vultūs noun m var=voltus[archaic]
 vulva, vulvae noun f

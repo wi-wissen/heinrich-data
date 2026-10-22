@@ -6,6 +6,7 @@ rāmus, rāmī noun m
 rāna, rānae noun f
 rapīna, rapīnae noun f
 raptor, raptōris noun m
+rāpum, rāpī noun n
 rāstrum, rāstrī noun n
 ratiō, ratiōnis noun f
 ratis, ratis noun f
@@ -64,3 +65,4 @@ rūmor, rūmōris noun m
 rūpēs, rūpis noun f
 rūs, rūris noun n loc_sg=rūrī
 rūta, rūtae noun f
+rutrum, rutrī noun n

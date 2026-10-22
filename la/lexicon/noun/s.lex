@@ -5,11 +5,13 @@ sacrāmentum, sacrāmentī noun n
 sacrificium, sacrificiī noun n
 sacrilegium, sacrilegiī noun n
 saeculum, saeculī noun n var=saeclum[poetic]
+saepēs, saepis noun f
 saeptum, saeptī noun n
 saevitia, saevitiae noun f
 sagīna, sagīnae noun f
 sagitta, sagittae noun f
 sagittārius, sagittāriī noun m
+sagum, sagī noun n
 sāl, salis noun m conf=90 note=long a only in the nominative?
 salīva, salīvae noun f
 salix, salicis noun f
@@ -22,6 +24,7 @@ sānitās, sānitātis noun f sg_only
 sapientia, sapientiae noun f
 sapor, sapōris noun m
 sarcina, sarcinae noun f
+sarculum, sarculī noun n
 sarmentum, sarmentī noun n
 satelles, satellitis noun c
 satietās, satietātis noun f sg_only
@@ -30,7 +33,10 @@ scabiēs, scabiēī noun f sg_only
 scaena, scaenae noun f
 scālae, scālārum noun f pl_only
 scalpellum, scalpellī noun n
+scalprum, scalprī noun n
+scamnum, scamnī noun n
 scapula, scapulae noun f
+scarabaeus, scarabaeī noun m
 scelus, sceleris noun n
 scēptrum, scēptrī noun n conf=90 note=hidden quantity of the e (Greek eta)
 schola, scholae noun f
@@ -41,8 +47,10 @@ scorpiō, scorpiōnis noun m
 scortum, scortī noun n
 scrība, scrībae noun m
 scrīptor, scrīptōris noun m
+sculptor, sculptōris noun m
 scurra, scurrae noun m
 scūtum, scūtī noun n
+scyphus, scyphī noun m
 sēcrētum, sēcrētī noun n
 secūris, secūris noun f stem=i
 sēcūritās, sēcūritātis noun f sg_only
@@ -63,9 +71,11 @@ sēnsus, sēnsūs noun m
 sententia, sententiae noun f
 sepulcrum, sepulcrī noun n var=sepulchrum
 sepultūra, sepultūrae noun f
+sēra, sērae noun f
 seriēs, seriēī noun f sg_only
 sermō, sermōnis noun m
 serpēns, serpentis noun c
+serra, serrae noun f
 sertum, sertī noun n
 serva, servae noun f
 servitium, servitiī noun n
@@ -82,6 +92,7 @@ signum, signī noun n
 silentium, silentiī noun n
 silex, silicis noun m
 silva, silvae noun f
+sīmia, sīmiae noun f
 similitūdō, similitūdinis noun f
 simplicitās, simplicitātis noun f
 simulācrum, simulācrī noun n
@@ -90,6 +101,7 @@ simultās, simultātis noun f
 singultus, singultūs noun m
 sinus, sinūs noun m
 sitis, sitis noun f stem=i sg_only
+situla, situlae noun f
 socer, socerī noun m
 societās, societātis noun f
 socius, sociī noun m
@@ -97,6 +109,7 @@ socrus, socrūs noun f
 sodālis, sodālis noun c
 sōl, sōlis noun m
 sōlācium, sōlāciī noun n
+solea, soleae noun f
 sōlitūdō, sōlitūdinis noun f
 solium, soliī noun n
 sollertia, sollertiae noun f
@@ -109,7 +122,10 @@ sonipēs, sonipedis noun m
 sonitus, sonitūs noun m
 sonus, sonī noun m
 sopor, sopōris noun m
+sorbum, sorbī noun n
+sorbus, sorbī noun f
 sordēs, sordis noun f
+sōrex, sōricis noun m
 soror, sorōris noun f
 sors, sortis noun f
 spadō, spadōnis noun m
@@ -154,8 +170,10 @@ stīpes, stīpitis noun m
 stips, stipis noun f
 stipula, stipulae noun f
 stirps, stirpis noun f
+stola, stolae noun f
 stomachus, stomachī noun m
 strāgēs, strāgis noun f
+strāgulum, strāgulī noun n
 strepitus, strepitūs noun m
 strīdor, strīdōris noun m
 strūma, strūmae noun f
@@ -163,15 +181,19 @@ studium, studiī noun n
 stultitia, stultitiae noun f
 stupor, stupōris noun m
 stuprum, stuprī noun n
+sturnus, sturnī noun m
 suāvitās, suāvitātis noun f
 subolēs, subolis noun f
 subsellium, subselliī noun n
 subsidium, subsidiī noun n
 substantia, substantiae noun f
 subtīlitās, subtīlitātis noun f
+subūcula, subūculae noun f
+sūbula, sūbulae noun f
 successor, successōris noun m
 successus, successūs noun m
 sūcus, sūcī noun m
+sūdārium, sūdāriī noun n
 sudis, sudis noun f
 sūdor, sūdōris noun m
 suffrāgium, suffrāgiī noun n
@@ -189,4 +211,5 @@ surculus, surculī noun m
 sūs, suis noun c dat_pl=suibus|subus
 suspīciō, suspīciōnis noun f conf=85 note=length of the second i
 suspīrium, suspīriī noun n
+sūtor, sūtōris noun m
 syllaba, syllabae noun f

@@ -1,9 +1,11 @@
 # Latin verb entries, letter s: own data, written clean-room (la/lexicon/AUTHORING.md)
 saeviō, saeviī, saevītum, saevīre verb intr
+saltō, saltāvī, saltātum, saltāre verb
 salūtō, salūtāvī, salūtātum, salūtāre verb
 sanciō, sānxī, sānctum, sancīre verb
 sānō, sānāvī, sānātum, sānāre verb
 sapiō, sapīvī|sapiī, -, sapere verb conf=80 note=perfect of sapiō
+sarriō, sarrīvī, sarrītum, sarrīre verb
 satiō, satiāvī, satiātum, satiāre verb
 satisfaciō, satisfēcī, satisfactum, satisfacere verb intr
 scandō, scandī, scānsum, scandere verb
@@ -27,6 +29,7 @@ serō, sēvī, satum, serere verb sense=sow
 serpō, serpsī, -, serpere verb intr
 serviō, servīvī|serviī, servītum, servīre verb intr
 servō, servāvī, servātum, servāre verb
+sībilō, sībilāvī, sībilātum, sībilāre verb intr
 siccō, siccāvī, siccātum, siccāre verb
 significō, significāvī, significātum, significāre verb
 sileō, siluī, -, silēre verb intr
@@ -49,12 +52,16 @@ spīrō, spīrāvī, spīrātum, spīrāre verb
 spoliō, spoliāvī, spoliātum, spoliāre verb
 spondeō, spopondī, spōnsum, spondēre verb
 spūmō, spūmāvī, spūmātum, spūmāre verb intr
+spuō, spuī, spūtum, spuere verb
 statuō, statuī, statūtum, statuere verb
 sternō, strāvī, strātum, sternere verb
+sternuō, sternuī, -, sternuere verb intr
+stertō, stertuī, -, stertere verb intr
 stimulō, stimulāvī, stimulātum, stimulāre verb
 stīpō, stīpāvī, stīpātum, stīpāre verb
 stō, stetī, stātūrus, stāre verb intr conf=85 note=reviewer-dispute; long a in the future participle
 strangulō, strangulāvī, strangulātum, strangulāre verb
+strīdeō, strīdī, -, strīdēre verb intr
 stringō, strīnxī, strictum, stringere verb
 struō, strūxī, strūctum, struere verb
 studeō, studuī, -, studēre verb intr
@@ -81,6 +88,7 @@ suffundō, suffūdī, suffūsum, suffundere verb
 summittō, summīsī, summissum, summittere verb
 summoveō, summōvī, summōtum, summovēre verb
 sūmō, sūmpsī, sūmptum, sūmere verb
+suō, suī, sūtum, suere verb
 superō, superāvī, superātum, superāre verb
 supersum, superfuī, superfutūrus, superesse verb class=sum
 superveniō, supervēnī, superventum, supervenīre verb intr
@@ -95,3 +103,4 @@ suspiciō, suspexī, suspectum, suspicere verb
 suspicor, suspicātus sum, suspicārī verb note=no long vowel in the lemma
 sustentō, sustentāvī, sustentātum, sustentāre verb
 sustineō, sustinuī, sustentum, sustinēre verb
+susurrō, susurrāvī, susurrātum, susurrāre verb intr

@@ -8,6 +8,7 @@ ululātus, ululātūs noun m
 umbilīcus, umbilīcī noun m
 umbō, umbōnis noun m
 umbra, umbrae noun f
+umbrāculum, umbrāculī noun n
 umerus, umerī noun m
 ūmor, ūmōris noun m conf=85 note=length of the initial u
 unda, undae noun f
@@ -15,6 +16,7 @@ unguentum, unguentī noun n
 unguis, unguis noun m
 ungula, ungulae noun f
 urbs, urbis noun f
+urceus, urceī noun m
 urna, urnae noun f
 ursa, ursae noun f
 ursus, ursī noun m

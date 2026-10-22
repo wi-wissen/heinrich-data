@@ -1,6 +1,7 @@
 # Latin verb entries, letter v: own data, written clean-room (la/lexicon/AUTHORING.md)
 vacō, vacāvī, vacātum, vacāre verb intr
 vādō, -, -, vādere verb intr
+vāgiō, vāgīvī, -, vāgīre verb intr
 vagor, vagātus sum, vagārī verb note=no long vowel in the lemma
 valeō, valuī, valitūrus, valēre verb intr
 variō, variāvī, variātum, variāre verb
@@ -13,9 +14,12 @@ vēneō, vēniī, vēnitum, vēnīre verb class=eo intr
 veneror, venerātus sum, venerārī verb note=no long vowel in the lemma
 veniō, vēnī, ventum, venīre verb intr
 vēnor, vēnātus sum, vēnārī verb
+ventilō, ventilāvī, ventilātum, ventilāre verb
 verberō, verberāvī, verberātum, verberāre verb
 vereor, veritus sum, verērī verb note=no long vowel in the lemma
 vergō, -, -, vergere verb intr
+verrō, verrī, versum, verrere verb
+versō, versāvī, versātum, versāre verb
 versor, versātus sum, versārī verb note=no long vowel in the lemma
 vertō, vertī, versum, vertere verb
 vēscor, -, vēscī verb conf=75 note=reviewer-dispute; no perfect
