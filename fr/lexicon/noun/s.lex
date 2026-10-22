@@ -33,7 +33,8 @@ safran noun g=m
 saga noun g=f
 sagacité noun g=f
 sagaie noun g=f
-sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=85
+sage noun g=m|f
+sage-femme noun g=f pl=sages-femmes rect=sagefemme rect_pl=sagefemmes conf=70 note=welded 1990 form uncertain
 sagesse noun g=f
 sagou noun g=m note=plural sagous
 sagouin noun g=m style=colloquial
@@ -57,6 +58,7 @@ saisonnier noun g=m f=saisonnière
 saké noun g=m
 salade noun g=f
 saladier noun g=m
+salafiste noun g=m|f
 salaire noun g=m
 salaison noun g=f
 salamalecs noun g=m pl_only style=colloquial
@@ -176,6 +178,7 @@ sauterelle noun g=f
 sauterie noun g=f
 sauteur noun g=m f=sauteuse
 sautoir noun g=m
+sauvage noun g=m|f
 sauvageon noun g=m f=sauvageonne
 sauvagerie noun g=f
 sauvegarde noun g=f
@@ -274,6 +277,7 @@ séborrhée noun g=f
 sécante noun g=f
 sécateur noun g=m
 sécession noun g=f
+sécessionniste noun g=m|f
 séchage noun g=m
 sèche noun g=f style=colloquial alt=cigarette
 sèche-cheveux noun g=m
@@ -292,6 +296,7 @@ secret noun g=m
 secrétaire noun g=m|f
 secrétariat noun g=m
 sécrétion noun g=f
+sectaire noun g=m|f
 sectarisme noun g=m
 sectateur noun g=m f=sectatrice style=literary
 secte noun g=f
@@ -305,6 +310,7 @@ sécurisation noun g=f
 sécurité noun g=f
 sédatif noun g=m
 sédation noun g=f
+sédentaire noun g=m|f
 sédentarisation noun g=f
 sédiment noun g=m
 sédimentation noun g=f
@@ -452,6 +458,7 @@ sevrage noun g=m
 sexagénaire noun g=m|f
 sexe noun g=m
 sexisme noun g=m
+sexiste noun g=m|f
 sexologue noun g=m|f
 sextant noun g=m
 sextorsion noun g=f
@@ -585,6 +592,7 @@ sobriquet noun g=m
 sociabilité noun g=f
 socialisation noun g=f
 socialisme noun g=m
+socialiste noun g=m|f
 sociétaire noun g=m|f
 société noun g=f
 sociobiologie noun g=f
@@ -805,8 +813,10 @@ soutien-gorge noun g=m pl=soutiens-gorge
 soutirage noun g=m
 souvenance noun g=f style=literary
 souvenir noun g=m
+souverain noun g=m f=souveraine
 souveraineté noun g=f
 souverainisme noun g=m
+souverainiste noun g=m|f
 soviet noun g=m
 spaghetti noun g=m pl=spaghettis|spaghetti[trad]
 spahi noun g=m
@@ -852,6 +862,7 @@ spirale noun g=f
 spirite noun g=m|f
 spiritisme noun g=m
 spiritualisme noun g=m
+spiritualiste noun g=m|f
 spiritualité noun g=f
 spiritueux noun g=m
 spirométrie noun g=f
@@ -865,6 +876,7 @@ sponsoring noun g=m
 spontanéité noun g=f
 spore noun g=f
 sport noun g=m
+sportif noun g=m f=sportive
 spot noun g=m
 spray noun g=m
 sprinkler noun g=m
@@ -888,6 +900,7 @@ stagnation noun g=f
 stakhanoviste noun g=m|f
 stalactite noun g=f
 stalagmite noun g=f
+stalinien noun g=m f=stalinienne
 stalle noun g=f
 stance noun g=f
 stand noun g=m
@@ -972,6 +985,7 @@ strie noun g=f
 string noun g=m
 strophe noun g=f
 structuralisme noun g=m
+structuraliste noun g=m|f
 structuration noun g=f
 structure noun g=f
 stryge noun g=f
@@ -1040,6 +1054,7 @@ sud noun g=m pl=- note=compass point, no plural
 sud-est noun g=m pl=- note=compass point, no plural
 sud-ouest noun g=m pl=- note=compass point, no plural
 sudation noun g=f
+sudiste noun g=m|f
 sudoku noun g=m
 sueur noun g=f
 suffisance noun g=f
@@ -1048,6 +1063,7 @@ suffocation noun g=f
 suffrage noun g=m
 suffragette noun g=f
 suggestion noun g=f
+suicidaire noun g=m|f
 suicide noun g=m
 suie noun g=f
 suif noun g=m
@@ -1132,6 +1148,7 @@ surcroît noun g=m rect=surcroit
 surdité noun g=f
 surdosage noun g=m
 surdose noun g=f
+surdoué noun g=m f=surdouée
 sureau noun g=m
 surélévation noun g=f
 surenchère noun g=f
@@ -1224,6 +1241,7 @@ symbiose noun g=f
 symbiote noun g=m
 symbole noun g=m
 symbolisme noun g=m
+symboliste noun g=m|f
 symétrie noun g=f
 sympathie noun g=f
 sympathisant noun g=m f=sympathisante

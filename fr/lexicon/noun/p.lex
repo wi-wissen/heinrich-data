@@ -1682,7 +1682,7 @@ poussah               noun g=m
 pousse                noun g=f
 pousse-au-crime       noun g=m pl=- note=invariable, colloquial
 pousse-café           noun g=m pl=pousse-café[trad]|pousse-cafés[rect]
-pousse-pousse         noun g=m pl=pousse-pousse rect=poussepousse rect_pl=poussepousses
+pousse-pousse         noun g=m pl=pousse-pousse rect=poussepousse rect_pl=poussepousses conf=80 note=joined 1990 spelling uncertain
 poussée               noun g=f
 poussette             noun g=f
 pousseur              noun g=m

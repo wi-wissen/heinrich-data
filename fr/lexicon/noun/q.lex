@@ -39,6 +39,7 @@ quenelle noun g=f
 quenouille noun g=f
 quercétine noun g=f
 querelle noun g=f
+querelleur noun g=m f=querelleuse
 questeur noun g=m
 question noun g=f
 questionnaire noun g=m

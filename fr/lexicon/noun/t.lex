@@ -313,6 +313,7 @@ tétine noun g=f
 téton noun g=m
 tétraèdre noun g=m
 tétragone noun g=m
+tétraplégique noun g=m|f
 tétrasyllabe noun g=m
 teuch noun g=m style=colloquial alt=haschich note=slang (verlan); also spelled teush
 teuf noun g=f style=colloquial alt=fête note=verlan of fête
@@ -581,6 +582,7 @@ traction noun g=f
 tractus noun g=m
 trader noun g=m|f
 tradition noun g=f
+traditionaliste noun g=m|f
 traducteur noun g=m f=traductrice
 traduction noun g=f
 traductique noun g=f
@@ -633,6 +635,7 @@ transfiguration noun g=f
 transfo noun g=m style=colloquial
 transformateur noun g=m
 transformation noun g=f
+transformiste noun g=m|f
 transfuge noun g=m|f
 transfusion noun g=f
 transgenèse noun g=f
@@ -676,7 +679,7 @@ travail noun g=m pl=travaux
 travailleur noun g=m f=travailleuse
 travailliste noun g=m|f
 travée noun g=f
-travelling noun g=m rect=traveling conf=80
+travelling noun g=m rect=traveling conf=75
 travers noun g=m
 traversée noun g=f
 traversin noun g=m
@@ -760,6 +763,7 @@ trique noun g=f
 trisaïeul noun g=m f=trisaïeule
 trismus noun g=m
 trisomie noun g=f
+trisomique noun g=m|f
 tristesse noun g=f
 tritium noun g=m
 triton noun g=m
@@ -802,6 +806,7 @@ trottoir noun g=m
 trou noun g=m note=plural trous
 troubadour noun g=m
 trouble noun g=m
+trouillard noun g=m f=trouillarde style=colloquial alt=peureux
 trouille noun g=f style=colloquial alt=peur
 troupe noun g=f
 troupeau noun g=m
@@ -824,6 +829,7 @@ trust noun g=m
 tsar noun g=m
 tsarat noun g=m
 tsarine noun g=f
+tsariste noun g=m|f
 tsé-tsé noun g=f pl=tsé-tsé rect=tsétsé rect_pl=tsétsés
 tsigane noun g=m|f
 tsunami noun g=m
@@ -835,7 +841,7 @@ tubéreuse noun g=f
 tuerie noun g=f
 tueur noun g=m f=tueuse
 tuf noun g=m
-tuffeau noun g=m rect=tufeau conf=75
+tuffeau noun g=m
 tuile noun g=f
 tuilier noun g=m
 tulipe noun g=f

@@ -229,7 +229,7 @@ enzymatique    adj
 épuisable      adj
 épuisant       adj
 équanime       adj
-équato-guinéen adj rect=équatoguinéen
+équato-guinéen adj rect=équatoguinéen conf=85
 équatorial     adj
 équatorien     adj
 équestre       adj

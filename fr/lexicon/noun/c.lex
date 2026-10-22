@@ -26,7 +26,8 @@ cacahuète          noun g=f note=also cacahouète
 cacao              noun g=m
 cacatoès           noun g=m
 cachalot           noun g=m
-cache              noun g=f
+cache              noun g=f sense=hiding_place
+cache              noun g=m sense=mask note=le cache (photography, printing)
 cache-cache        noun g=m pl=- rect=cachecache note=no plural
 cache-nez          noun g=m pl=cache-nez
 cachemire          noun g=m
@@ -401,7 +402,8 @@ casino             noun g=m
 casque             noun g=m
 casquette          noun g=f
 cassation          noun g=f
-casse              noun g=f
+casse              noun g=f sense=breakage
+casse              noun g=m sense=robbery style=colloquial alt=cambriolage
 casse-cou          noun g=m|f pl=casse-cou[trad]|casse-cous[rect]
 casse-croûte       noun g=m pl=casse-croûte rect=casse-croute rect_pl=casse-croutes
 casse-noisette     noun g=m pl=casse-noisettes
@@ -2039,7 +2041,8 @@ crémaillère        noun g=f
 crémant            noun g=m
 crémation          noun g=f
 crématorium        noun g=m
-crème              noun g=f
+crème              noun g=f sense=cream
+crème              noun g=m sense=coffee note=un crème (café crème)
 crémerie           noun g=f rect=crèmerie
 crémier            noun g=m f=crémière
 créneau            noun g=m
