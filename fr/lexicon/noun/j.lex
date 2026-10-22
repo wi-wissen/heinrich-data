@@ -39,6 +39,7 @@ jardinage      noun g=m
 jardinerie     noun g=f
 jardinet       noun g=m
 jardinier      noun g=m f=jardinière
+jardinière noun g=f sense=planter note=window box, planter; also jardinière de légumes; the person is the feminine of jardinier
 jargon         noun g=m
 jarre          noun g=f
 jarret         noun g=m

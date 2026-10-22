@@ -216,6 +216,7 @@ déculpabilisation noun g=f
 décurion noun g=m
 dédain noun g=m
 dédale noun g=m
+dedans noun g=m note=le dedans (the inside); also an adverb
 dédicace noun g=f
 dédicataire noun g=m|f
 dédit noun g=m
@@ -442,6 +443,7 @@ dendrite noun g=f
 dendrochronologie noun g=f
 dénégation noun g=f
 déneigement noun g=m
+déneigeuse noun g=f note=snowplough (Quebec)
 dengue noun g=f
 déni noun g=m
 dénicheur noun g=m f=dénicheuse
@@ -478,6 +480,7 @@ déontologie noun g=f
 déontologue noun g=m|f
 dépannage noun g=m
 dépanneur noun g=m f=dépanneuse note=la dépanneuse is also the tow truck
+dépanneuse noun g=f sense=truck note=tow truck; the person is the feminine of dépanneur
 déparasitage noun g=m
 départ noun g=m
 département noun g=m
