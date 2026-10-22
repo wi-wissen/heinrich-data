@@ -70,5 +70,8 @@ rigō, rigāvī, rigātum, rigāre verb
 rogō, rogāvī, rogātum, rogāre verb
 rotō, rotāvī, rotātum, rotāre verb
 rubeō, rubuī, -, rubēre verb intr
+rudō, rudīvī, -, rudere verb intr
+rūgiō, -, -, rūgīre verb intr
+rūminō, rūmināvī, rūminātum, rūmināre verb
 rumpō, rūpī, ruptum, rumpere verb
 ruō, ruī, ruitūrus, ruere verb intr

@@ -15,6 +15,7 @@ pateō, patuī, -, patēre verb intr
 patior, passus sum, patī verb note=no long vowel in the lemma
 paveō, pāvī, -, pavēre verb
 peccō, peccāvī, peccātum, peccāre verb intr
+pectō, pexī, pexum, pectere verb
 pellō, pepulī, pulsum, pellere verb
 pendeō, pependī, -, pendēre verb intr
 pendō, pependī, pēnsum, pendere verb
@@ -92,6 +93,7 @@ praesum, praefuī, praefutūrus, praeesse verb class=sum
 praetereō, praeteriī, praeteritum, praeterīre verb class=eo
 praetermittō, praetermīsī, praetermissum, praetermittere verb
 praeveniō, praevēnī, praeventum, praevenīre verb
+prandeō, prandī, prānsum, prandēre verb
 precor, precātus sum, precārī verb note=no long vowel in the lemma
 prehendō, prehendī, prehēnsum, prehendere verb
 premō, pressī, pressum, premere verb

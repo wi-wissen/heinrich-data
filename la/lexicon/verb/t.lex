@@ -6,6 +6,7 @@ temperō, temperāvī, temperātum, temperāre verb
 temptō, temptāvī, temptātum, temptāre verb
 tendō, tetendī, tentum|tēnsum, tendere verb
 teneō, tenuī, tentum, tenēre verb
+tergeō, tersī, tersum, tergēre verb
 terō, trīvī, trītum, terere verb
 terreō, terruī, territum, terrēre verb
 testor, testātus sum, testārī verb note=no long vowel in the lemma
@@ -14,6 +15,7 @@ timeō, timuī, -, timēre verb
 tingō, tīnxī, tīnctum, tingere verb
 tolerō, tolerāvī, tolerātum, tolerāre verb
 tollō, sustulī, sublātum, tollere verb
+tondeō, totondī, tōnsum, tondēre verb
 tonō, tonuī, -, tonāre verb intr
 torpeō, torpuī, -, torpēre verb intr
 torqueō, torsī, tortum, torquēre verb
@@ -38,4 +40,5 @@ trucīdō, trucīdāvī, trucīdātum, trucīdāre verb
 tueor, tuitus sum, tuērī verb note=no long vowel in the lemma
 tumeō, tumuī, -, tumēre verb intr
 turbō, turbāvī, turbātum, turbāre verb
+tussiō, -, -, tussīre verb intr
 tūtor, tūtātus sum, tūtārī verb

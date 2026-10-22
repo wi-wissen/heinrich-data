@@ -4,8 +4,10 @@ pābulum, pābulī noun n
 pactum, pactī noun n
 paelex, paelicis noun f
 paenitentia, paenitentiae noun f sg_only
+paenula, paenulae noun f
 pāgina, pāginae noun f
 pāgus, pāgī noun m
+pāla, pālae noun f
 palaestra, palaestrae noun f
 palātium, palātiī noun n
 palātum, palātī noun n
@@ -16,12 +18,15 @@ pallor, pallōris noun m
 palma, palmae noun f
 palmes, palmitis noun m
 palpebra, palpebrae noun f
+palumbēs, palumbis noun c
 palūs, palūdis noun f
 pālus, pālī noun m
 pampinus, pampinī noun m
 pānis, pānis noun m stem=cons
 pannus, pannī noun m
 papāver, papāveris noun n
+pāpiliō, pāpiliōnis noun m
+pardus, pardī noun m
 parēns, parentis noun c gen_pl=parentum|parentium
 pariēs, parietis noun m
 parma, parmae noun f
@@ -33,8 +38,11 @@ pāscuum, pāscuī noun n
 passer, passeris noun m
 passus, passūs noun m
 pāstor, pāstōris noun m
+patella, patellae noun f
 pater, patris noun m
+patera, paterae noun f
 patientia, patientiae noun f sg_only
+patina, patinae noun f
 patria, patriae noun f
 patrimōnium, patrimōniī noun n
 patrōcinium, patrōciniī noun n
@@ -43,6 +51,7 @@ patruus, patruī noun m
 paucitās, paucitātis noun f
 paupertās, paupertātis noun f sg_only
 pavīmentum, pavīmentī noun n
+pāvō, pāvōnis noun m
 pavor, pavōris noun m
 pāx, pācis noun f
 peccātum, peccātī noun n
@@ -53,18 +62,22 @@ pecūnia, pecūniae noun f
 pecus, pecoris noun n
 pecus, pecudis noun f sense=animal
 pedes, peditis noun m
+pēdiculus, pēdiculī noun m conf=75 note=diminutive of pēdis (louse); lengths uncertain
 pelagus, pelagī noun n sg_only nom_sg=pelagus conf=90 note=Greek neuter in -us, accusative pelagus
 pellis, pellis noun f
 penātēs, penātium noun m pl_only conf=85 note=length of the first e (short?)
 penetrāle, penetrālis noun n
 penna, pennae noun f
 pēnūria, pēnūriae noun f conf=85 note=length of the e and the u
+pēra, pērae noun f
 percussor, percussōris noun m
+perdīx, perdīcis noun c
 peregrīnātiō, peregrīnātiōnis noun f
 perfidia, perfidiae noun f
 perfugium, perfugiī noun n
 perīculum, perīculī noun n var=perīclum[poetic]
 periūrium, periūriī noun n
+perna, pernae noun f
 perniciēs, perniciēī noun f sg_only
 perpendiculum, perpendiculī noun n
 persōna, persōnae noun f
@@ -84,21 +97,28 @@ philosophia, philosophiae noun f
 philosophus, philosophī noun m
 physicus, physicī noun m
 piāculum, piāculī noun n
+pīca, pīcae noun f
 pictor, pictōris noun m
 pictūra, pictūrae noun f
 pietās, pietātis noun f sg_only
 pignus, pignoris noun n
+pilleus, pilleī noun m
 pīlum, pīlī noun n
 pilus, pilī noun m
 pinna, pinnae noun f
 pīnus, pīnī noun f
 piper, piperis noun n
 pīrāta, pīrātae noun m
+pirum, pirī noun n
+pirus, pirī noun f
 piscātor, piscātōris noun m
 piscīna, piscīnae noun f
 piscis, piscis noun m
+pistor, pistōris noun m
+pistrīnum, pistrīnī noun n
 pītuīta, pītuītae noun f conf=80 note=reviewer-dispute
 pix, picis noun f
+placenta, placentae noun f
 plaga, plagae noun f conf=80 note=plaga (region, net); the noun 'blow' (long a?) is not written
 plānctus, plānctūs noun m
 plānitiēs, plānitiēī noun f sg_only
@@ -124,6 +144,7 @@ pontifex, pontificis noun m
 popīna, popīnae noun f
 poples, poplitis noun m
 populus, populī noun m
+pōpulus, pōpulī noun f note=poplar; populus (people) has a short o
 porcus, porcī noun m
 porrum, porrī noun n
 porta, portae noun f
@@ -139,6 +160,7 @@ postis, postis noun m
 potentia, potentiae noun f
 potestās, potestātis noun f
 pōtiō, pōtiōnis noun f
+pōtus, pōtūs noun m
 praeceptor, praeceptōris noun m
 praeceptum, praeceptī noun n
 praecō, praecōnis noun m
@@ -197,6 +219,9 @@ prōvincia, prōvinciae noun f
 prūdentia, prūdentiae noun f sg_only
 pruīna, pruīnae noun f
 prūna, prūnae noun f
+prūnum, prūnī noun n
+prūnus, prūnī noun f
+psittacus, psittacī noun m
 pūbēs, pūbis noun f
 pūblicānus, pūblicānī noun m
 pudīcitia, pudīcitiae noun f sg_only
@@ -207,9 +232,12 @@ pueritia, pueritiae noun f sg_only
 pugna, pugnae noun f
 pugnus, pugnī noun m
 pulchritūdō, pulchritūdinis noun f sg_only
+pūlex, pūlicis noun m
 pullus, pullī noun m
 pulmō, pulmōnis noun m
+puls, pultis noun f
 pulvīnar, pulvīnāris noun n
+pulvīnus, pulvīnī noun m
 pulvis, pulveris noun m
 pūmex, pūmicis noun m
 pūnctum, pūnctī noun n
