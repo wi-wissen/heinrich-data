@@ -97,6 +97,10 @@ differences it showed were inconsistencies of the reference.
 | gap | #176 p–z | 1303be4 | 7 | 1 | 1 | 14 % / 29 % |
 | gap | #177 a–d | 4518148 | 28 | 0 | 6 | 0 % / 21 % |
 | gap | re-check (merged) | 3de60f0 | 59 | 0 | 0 | – |
+| everyday | #181 e–o | f1b5136 | 74 | 1 | 5 | 1.4 % / 8.1 % |
+| everyday | #182 p–z | 4002dca | 101 | 0 | 0 | 0 % / 0 % |
+| everyday | #183 a–d | 4d9a8e3 | 74 | 0 | 4 | 0 % / 5.4 % |
+| everyday | re-check (merged) | c3aa132 | 249 | 0 | 0 | – |
 
 "Clear errors" are wrong lengths or forms; "points" also count uncertain or hidden quantities,
 consistency between the authors and minor points. #163 includes the 4 duplicates between the
@@ -127,3 +131,9 @@ The gap round after a hand check of school reading added mostly proper names of 
 Gallicum*. Most points there were lengths of Celtic names, where the reference is itself uncertain;
 they were kept with `conf=` below 100 or decided again. The river names in *-a* were made masculine
 in all three letter ranges. After the gap round the lexicon holds 5,360 entries.
+
+The everyday-vocabulary round (animals, trees, house and farm, tools, food, clothing, animal sounds)
+was checked with particular care for homographs that differ only in a vowel length or in the part
+of speech (*pōpulus*/*populus*, *mālus*/*malus*, *mālum*/*malum*, *acer*/*ācer*, *caelum* with two
+senses, *sēra* beside *sērus*); all were separated correctly. After the round the lexicon holds
+5,609 entries.
