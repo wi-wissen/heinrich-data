@@ -33,7 +33,7 @@ errō, errāvī, errātum, errāre verb intr
 ērudiō, ērudīvī, ērudītum, ērudīre verb
 ērumpō, ērūpī, ēruptum, ērumpere verb intr
 ēruō, ēruī, ērutum, ēruere verb
-ēsuriō, -, ēsuritūrus, ēsurīre verb intr
+ēsuriō, -, ēsurītūrus, ēsurīre verb intr
 ēvādō, ēvāsī, ēvāsum, ēvādere verb
 ēvehō, ēvexī, ēvectum, ēvehere verb
 ēvellō, ēvellī, ēvulsum, ēvellere verb

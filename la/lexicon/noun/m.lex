@@ -71,7 +71,7 @@ mīles, mīlitis noun m
 mīlia, mīlium noun n pl_only
 mīlitia, mīlitiae noun f
 milium, miliī noun n
-milvus, milvī noun m
+mīlvus, mīlvī noun m conf=80 note=reviewer-dispute; length in the lemma
 mīmus, mīmī noun m
 minae, minārum noun f pl_only
 minister, ministrī noun m
@@ -118,14 +118,14 @@ mūnicipium, mūnicipiī noun n
 mūnīmentum, mūnīmentī noun n
 mūnītiō, mūnītiōnis noun f
 mūnus, mūneris noun n
-mūrēna, mūrēnae noun f
+murēna, murēnae noun f conf=80 note=reviewer-dispute; length in the lemma
 murmur, murmuris noun n
 mūrus, mūrī noun m
 mūs, mūris noun c gen_pl=mūrium|mūrum
 mūsa, mūsae noun f
 musca, muscae noun f conf=80 note=reviewer-dispute; length in the lemma
 mūsica, mūsicae noun f
-mustēla, mustēlae noun f
+mūstēla, mūstēlae noun f conf=90 note=length of the u, as in mūs
 mustum, mustī noun n
 mūtātiō, mūtātiōnis noun f
 myrrha, myrrhae noun f

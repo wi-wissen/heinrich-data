@@ -23,7 +23,7 @@ lanx, lancis noun f
 lapillus, lapillī noun m
 lapis, lapidis noun m
 laqueus, laqueī noun m
-lardum, lardī noun n
+lārdum, lārdī noun n conf=90 note=length before rd, from lāridum
 largītiō, largītiōnis noun f
 lascīvia, lascīviae noun f
 lassitūdō, lassitūdinis noun f

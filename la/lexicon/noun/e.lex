@@ -24,7 +24,7 @@ equa, equae noun f dat_pl=equīs|equābus
 eques, equitis noun m
 equitātus, equitātūs noun m
 equus, equī noun m
-ērīnāceus, ērīnāceī noun m conf=80 note=length of the first two vowels?
+ērināceus, ērināceī noun m conf=70 note=reviewer-dispute; lengths in the lemma uncertain
 error, errōris noun m
 ērudītiō, ērudītiōnis noun f
 ēruptiō, ēruptiōnis noun f
