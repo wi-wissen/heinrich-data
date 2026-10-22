@@ -2,6 +2,7 @@
 mactō, mactāvī, mactātum, mactāre verb
 madeō, maduī, -, madēre verb intr
 maereō, -, -, maerēre verb intr
+mandō, mandī, mānsum, mandere verb sense=chew
 mandō, mandāvī, mandātum, mandāre verb
 maneō, mānsī, mānsum, manēre verb intr
 mānō, mānāvī, mānātum, mānāre verb intr
@@ -31,6 +32,7 @@ mittō, mīsī, missum, mittere verb
 moderor, moderātus sum, moderārī verb note=no long vowel in the lemma
 mōlior, mōlītus sum, mōlīrī verb
 molliō, mollīvī, mollītum, mollīre verb
+molō, moluī, molitum, molere verb
 moneō, monuī, monitum, monēre verb
 mōnstrō, mōnstrāvī, mōnstrātum, mōnstrāre verb
 mordeō, momordī, morsum, mordēre verb
@@ -39,6 +41,7 @@ moror, morātus sum, morārī verb note=no long vowel in the lemma
 moveō, mōvī, mōtum, movēre verb
 mūgiō, mūgīvī, mūgītum, mūgīre verb intr
 mulceō, mulsī, mulsum, mulcēre verb
+mulgeō, mulsī, mulctum, mulgēre verb conf=85 note=supine mulctum or mulsum?
 multiplicō, multiplicāvī, multiplicātum, multiplicāre verb
 mūniō, mūnīvī, mūnītum, mūnīre verb
 mūtō, mūtāvī, mūtātum, mūtāre verb

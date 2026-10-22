@@ -33,6 +33,7 @@ errō, errāvī, errātum, errāre verb intr
 ērudiō, ērudīvī, ērudītum, ērudīre verb
 ērumpō, ērūpī, ēruptum, ērumpere verb intr
 ēruō, ēruī, ērutum, ēruere verb
+ēsuriō, -, ēsurītūrus, ēsurīre verb intr
 ēvādō, ēvāsī, ēvāsum, ēvādere verb
 ēvehō, ēvexī, ēvectum, ēvehere verb
 ēvellō, ēvellī, ēvulsum, ēvellere verb
@@ -67,6 +68,7 @@ exōrnō, exōrnāvī, exōrnātum, exōrnāre verb conf=80 note=length of the o
 exōrō, exōrāvī, exōrātum, exōrāre verb
 expediō, expedīvī|expediī, expedītum, expedīre verb
 expellō, expulī, expulsum, expellere verb
+expergīscor, experrēctus sum, expergīscī verb intr
 experior, expertus sum, experīrī verb note=no long vowel in the lemma
 expetō, expetīvī, expetītum, expetere verb
 expiō, expiāvī, expiātum, expiāre verb

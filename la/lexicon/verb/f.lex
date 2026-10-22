@@ -28,6 +28,8 @@ fraudō, fraudāvī, fraudātum, fraudāre verb
 fremō, fremuī, fremitum, fremere verb
 frēnō, frēnāvī, frēnātum, frēnāre verb
 frequentō, frequentāvī, frequentātum, frequentāre verb
+fricō, fricuī, frictum, fricāre verb
+frīgeō, -, -, frīgēre verb intr
 fruor, frūctus sum, fruī verb intr note=no long vowel in the lemma
 fugiō, fūgī, fugitūrus, fugere verb
 fugō, fugāvī, fugātum, fugāre verb

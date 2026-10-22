@@ -15,6 +15,7 @@ obtineō, obtinuī, obtentum, obtinēre verb
 obveniō, obvēnī, obventum, obvenīre verb intr
 occidō, occidī, occāsūrus, occidere verb intr
 occīdō, occīdī, occīsum, occīdere verb
+occō, occāvī, occātum, occāre verb
 occultō, occultāvī, occultātum, occultāre verb
 occupō, occupāvī, occupātum, occupāre verb
 occurrō, occurrī, occursum, occurrere verb intr
@@ -38,6 +39,7 @@ orbō, orbāvī, orbātum, orbāre verb
 orior, ortus sum, orīrī verb intr conj=3i fut=oritūrus note=no long vowel in the lemma
 ōrnō, ōrnāvī, ōrnātum, ōrnāre verb conf=80 note=length of the o?
 ōrō, ōrāvī, ōrātum, ōrāre verb
+ōscitō, ōscitāvī, ōscitātum, ōscitāre verb intr
 ostendō, ostendī, ostentum, ostendere verb
 ostentō, ostentāvī, ostentātum, ostentāre verb
 ovō, ovāvī, ovātum, ovāre verb intr note=no long vowel in the lemma

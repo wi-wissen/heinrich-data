@@ -17,9 +17,13 @@ hiātus, hiātūs noun m
 hīberna, hībernōrum noun n pl_only
 hiems, hiemis noun f
 hilaritās, hilaritātis noun f
+hinnītus, hinnītūs noun m
+hinnulus, hinnulī noun m
 hircus, hircī noun m
+hirundō, hirundinis noun f
 historia, historiae noun f
 histriō, histriōnis noun m
+holitor, holitōris noun m var=olitor
 holus, holeris noun n var=olus
 homicīda, homicīdae noun c
 homicīdium, homicīdiī noun n
@@ -30,6 +34,7 @@ hōra, hōrae noun f
 hordeum, hordeī noun n
 horreum, horreī noun n
 horror, horrōris noun m
+hortulus, hortulī noun m
 hortus, hortī noun m
 hospes, hospitis noun m
 hospitium, hospitiī noun n

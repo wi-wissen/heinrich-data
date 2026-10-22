@@ -12,6 +12,7 @@ facultās, facultātis noun f
 fācundia, fācundiae noun f
 faenum, faenī noun n var=fēnum
 faex, faecis noun f
+fāgus, fāgī noun f
 fallācia, fallāciae noun f
 falx, falcis noun f
 fāma, fāmae noun f
@@ -39,6 +40,7 @@ fax, facis noun f
 febris, febris noun f stem=i
 fēcunditās, fēcunditātis noun f
 fel, fellis noun n
+fēlēs, fēlis noun f
 fēlīcitās, fēlīcitātis noun f
 fēmina, fēminae noun f
 femur, femoris noun n
@@ -53,15 +55,18 @@ ferula, ferulae noun f
 fervor, fervōris noun m
 festīnātiō, festīnātiōnis noun f
 fētus, fētūs noun m
+fiber, fibrī noun m
 fibra, fibrae noun f conf=80 note=reviewer-dispute; length in the lemma
 fībula, fībulae noun f
 fīcus, fīcī noun f
 fidēlitās, fidēlitātis noun f
 fidēs, fideī noun f sg_only
 fīdūcia, fīdūciae noun f
+figulus, figulī noun m
 figūra, figūrae noun f
 fīlia, fīliae noun f dat_pl=fīliīs|fīliābus
 fīlius, fīliī noun m
+filix, filicis noun f
 fīlum, fīlī noun n
 fimus, fimī noun m
 fīnis, fīnis noun m
@@ -83,6 +88,7 @@ fluvius, fluviī noun m
 focus, focī noun m
 foedus, foederis noun n
 folium, foliī noun n
+follis, follis noun m
 fōmentum, fōmentī noun n
 fōns, fontis noun m
 forāmen, forāminis noun n
@@ -120,6 +126,7 @@ fuga, fugae noun f
 fulgor, fulgōris noun m
 fulgur, fulguris noun n
 fūlīgō, fūlīginis noun f conf=80 note=reviewer-dispute; length in the lemma
+fullō, fullōnis noun m
 fulmen, fulminis noun n
 fūmus, fūmī noun m
 funda, fundae noun f
@@ -132,3 +139,4 @@ fūr, fūris noun m
 furor, furōris noun m
 fūrtum, fūrtī noun n
 fūstis, fūstis noun m
+fūsus, fūsī noun m

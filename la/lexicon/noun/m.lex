@@ -13,6 +13,10 @@ maiestās, maiestātis noun f
 maleficium, maleficiī noun n
 malitia, malitiae noun f
 malleolus, malleolī noun m
+malleus, malleī noun m
+mālum, mālī noun n
+mālus, mālī noun f
+malva, malvae noun f
 mamma, mammae noun f
 mancipium, mancipiī noun n
 mandātum, mandātī noun n
@@ -48,6 +52,7 @@ mēns, mentis noun f
 mēnsa, mēnsae noun f
 mēnsis, mēnsis noun m gen_pl=mēnsium|mēnsum note=both genitive plurals
 mēnsūra, mēnsūrae noun f
+menta, mentae noun f var=mentha
 mentiō, mentiōnis noun f
 mentum, mentī noun n
 mercātor, mercātōris noun m
@@ -55,6 +60,7 @@ mercēs, mercēdis noun f
 meretrīx, meretrīcis noun f
 merīdiēs, merīdiēī noun m sg_only
 meritum, meritī noun n
+merula, merulae noun f
 merum, merī noun n
 merx, mercis noun f
 messis, messis noun f
@@ -64,6 +70,8 @@ metus, metūs noun m
 mīles, mīlitis noun m
 mīlia, mīlium noun n pl_only
 mīlitia, mīlitiae noun f
+milium, miliī noun n
+mīlvus, mīlvī noun m conf=80 note=reviewer-dispute; length in the lemma
 mīmus, mīmī noun m
 minae, minārum noun f pl_only
 minister, ministrī noun m
@@ -73,6 +81,7 @@ mīrāculum, mīrāculī noun n
 miseria, miseriae noun f
 misericordia, misericordiae noun f
 missiō, missiōnis noun f
+mitra, mitrae noun f
 moderātiō, moderātiōnis noun f
 modestia, modestiae noun f
 modius, modiī noun m
@@ -91,6 +100,9 @@ mora, morae noun f
 morbus, morbī noun m
 mors, mortis noun f
 morsus, morsūs noun m
+mortārium, mortāriī noun n
+mōrum, mōrī noun n
+mōrus, mōrī noun f
 mōs, mōris noun m
 mōtus, mōtūs noun m
 mūcrō, mūcrōnis noun m conf=80 note=reviewer-dispute; length in the lemma
@@ -106,12 +118,14 @@ mūnicipium, mūnicipiī noun n
 mūnīmentum, mūnīmentī noun n
 mūnītiō, mūnītiōnis noun f
 mūnus, mūneris noun n
+murēna, murēnae noun f conf=80 note=reviewer-dispute; length in the lemma
 murmur, murmuris noun n
 mūrus, mūrī noun m
 mūs, mūris noun c gen_pl=mūrium|mūrum
 mūsa, mūsae noun f
 musca, muscae noun f conf=80 note=reviewer-dispute; length in the lemma
 mūsica, mūsicae noun f
+mūstēla, mūstēlae noun f conf=90 note=length of the u, as in mūs
 mustum, mustī noun n
 mūtātiō, mūtātiōnis noun f
 myrrha, myrrhae noun f

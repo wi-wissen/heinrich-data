@@ -26,6 +26,7 @@ glōria, glōriae noun f
 gradus, gradūs noun m
 grāmen, grāminis noun n
 grammaticus, grammaticī noun m
+grānārium, grānāriī noun n
 grandō, grandinis noun f
 grānum, grānī noun n
 grātia, grātiae noun f
@@ -34,6 +35,8 @@ gravitās, gravitātis noun f
 gremium, gremiī noun n
 gressus, gressūs noun m
 grex, gregis noun m
+grunnītus, grunnītūs noun m
+grūs, gruis noun c conf=80 note=length of the u in the nominative?
 gubernāculum, gubernāculī noun n
 gubernātor, gubernātōris noun m
 gula, gulae noun f
