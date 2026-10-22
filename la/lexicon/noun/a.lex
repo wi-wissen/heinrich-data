@@ -14,6 +14,7 @@ accipiter, accipitris noun m
 accola, accolae noun c
 accūsātiō, accūsātiōnis noun f
 accūsātor, accūsātōris noun m
+acer, aceris noun n note=maple; not ācer (sharp)
 acerbitās, acerbitātis noun f
 acervus, acervī noun m
 acētābulum, acētābulī noun n
@@ -67,6 +68,7 @@ aerārium, aerāriī noun n
 aerūgō, aerūginis noun f
 aerumna, aerumnae noun f
 aes, aeris noun n
+aesculus, aesculī noun f
 aestās, aestātis noun f
 aestimātiō, aestimātiōnis noun f
 aestuārium, aestuāriī noun n
@@ -90,6 +92,7 @@ agricola, agricolae noun m
 agricultūra, agricultūrae noun f
 āla, ālae noun f
 alacritās, alacritātis noun f
+alauda, alaudae noun f conf=80 note=reviewer-dispute; length of the first a?
 albēdō, albēdinis noun f
 ālea, āleae noun f conf=80 note=length of the first a?
 āles, ālitis noun c
@@ -97,6 +100,7 @@ alga, algae noun f
 aliēnigena, aliēnigenae noun c
 alimentum, alimentī noun n
 allēgoria, allēgoriae noun f
+allium, alliī noun n
 alnus, alnī noun f
 altāre, altāris noun n
 altercātiō, altercātiōnis noun f
@@ -133,13 +137,18 @@ amphora, amphorae noun f
 amplexus, amplexūs noun m
 amplificātiō, amplificātiōnis noun f
 amplitūdō, amplitūdinis noun f
+ampulla, ampullae noun f
 amurca, amurcae noun f
+amygdala, amygdalae noun f
 analogia, analogiae noun f
+anas, anatis noun f
 ancilla, ancillae noun f
 ancora, ancorae noun f
+anēthum, anēthī noun n var=anētum
 ānfrāctus, ānfrāctūs noun m conf=85 note=length of the a before nf?
 angelus, angelī noun m style=late
 angor, angōris noun m
+anguilla, anguillae noun f note=no long vowel, as in anguis
 anguis, anguis noun c
 angulus, angulī noun m
 angustia, angustiae noun f
@@ -188,6 +197,7 @@ arca, arcae noun f
 archiepiscopus, archiepiscopī noun m style=late
 architectus, architectī noun m
 arcus, arcūs noun m dat_pl=arcubus
+ardea, ardeae noun f
 ārdor, ārdōris noun m conf=90 note=length of the a (as in ārdeō)?
 ārea, āreae noun f
 argentārius, argentāriī noun m
@@ -199,6 +209,7 @@ ariēs, arietis noun m
 arista, aristae noun f
 arma, armōrum noun n pl_only
 armāmenta, armāmentōrum noun n pl_only
+armārium, armāriī noun n
 armentum, armentī noun n
 armiger, armigerī noun m
 armilla, armillae noun f
@@ -213,7 +224,9 @@ artus, artūs noun m dat_pl=artubus
 arvum, arvī noun n
 arx, arcis noun f
 as, assis noun m
+ascia, asciae noun f
 asellus, asellī noun m
+asina, asinae noun f
 asinus, asinī noun m
 asparagus, asparagī noun m
 aspectus, aspectūs noun m
@@ -247,6 +260,7 @@ aula, aulae noun f
 aulaeum, aulaeī noun n
 aura, aurae noun f
 auricula, auriculae noun f
+aurifex, aurificis noun m
 aurīga, aurīgae noun c
 auris, auris noun f
 aurōra, aurōrae noun f

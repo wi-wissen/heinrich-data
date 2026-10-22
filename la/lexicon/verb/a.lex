@@ -17,6 +17,7 @@ abscīdō, abscīdī, abscīsum, abscīdere verb
 abscondō, abscondī|abscondidī, absconditum, abscondere verb
 absistō, abstitī, -, absistere verb intr note=no long vowel in the lemma
 absolvō, absolvī, absolūtum, absolvere verb
+abstergeō, abstersī, abstersum, abstergēre verb
 abstineō, abstinuī, abstentum, abstinēre verb
 abstrahō, abstrāxī, abstractum, abstrahere verb
 absum, āfuī, āfutūrus, abesse verb class=sum
@@ -33,6 +34,7 @@ accipiō, accēpī, acceptum, accipere verb
 accolō, accoluī, accultum, accolere verb
 accommodō, accommodāvī, accommodātum, accommodāre verb
 accubō, accubuī, accubitum, accubāre verb intr
+accumbō, accubuī, accubitum, accumbere verb intr
 accurrō, accurrī|accucurrī, accursum, accurrere verb intr
 accūsō, accūsāvī, accūsātum, accūsāre verb
 acquiēscō, acquiēvī, acquiētum, acquiēscere verb intr var=adquiēscō
@@ -104,6 +106,7 @@ ambigō, -, -, ambigere verb note=no long vowel in the lemma
 ambiō, ambīvī|ambiī, ambītum, ambīre verb
 ambulō, ambulāvī, ambulātum, ambulāre verb intr
 ambūrō, ambussī, ambustum, ambūrere verb
+amiciō, amixī|amicuī, amictum, amicīre verb
 āmittō, āmīsī, āmissum, āmittere verb
 amō, amāvī, amātum, amāre verb
 āmoveō, āmōvī, āmōtum, āmovēre verb

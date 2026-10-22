@@ -2,6 +2,7 @@
 dactylus, dactylī noun m
 daemōn, daemonis noun m greek
 daemonium, daemoniī noun n style=late
+damma, dammae noun f
 damnātiō, damnātiōnis noun f
 damnum, damnī noun n
 daps, dapis noun f
@@ -112,6 +113,7 @@ doctor, doctōris noun m
 doctrīna, doctrīnae noun f
 documentum, documentī noun n
 dogma, dogmatis noun n
+dolābra, dolābrae noun f
 dōlium, dōliī noun n conf=80 note=length of the o?
 dolor, dolōris noun m
 dolus, dolī noun m
@@ -136,5 +138,6 @@ ductor, ductōris noun m
 ductus, ductūs noun m
 dulcēdō, dulcēdinis noun f
 dūmētum, dūmētī noun n
+dūmus, dūmī noun m
 dūritia, dūritiae noun f
 dux, ducis noun c

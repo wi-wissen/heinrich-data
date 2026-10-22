@@ -2,6 +2,7 @@
 cadō, cecidī, cāsūrus, cadere verb intr
 caedō, cecīdī, caesum, caedere verb
 caelō, caelāvī, caelātum, caelāre verb
+calceō, calceāvī, calceātum, calceāre verb note=no long vowel in the lemma
 calcō, calcāvī, calcātum, calcāre verb
 calefaciō, calefēcī, calefactum, calefacere verb
 caleō, caluī, calitūrus, calēre verb intr
@@ -47,6 +48,7 @@ claudicō, claudicāvī, claudicātum, claudicāre verb intr
 claudō, clausī, clausum, claudere verb
 coalēscō, coaluī, coalitum, coalēscere verb intr
 coarguō, coarguī, -, coarguere verb note=no long vowel in the lemma
+coaxō, -, -, coaxāre verb intr note=no long vowel in the lemma
 coeō, coiī, coitum, coīre verb class=eo intr
 coepī, coeptum, coepisse verb
 coerceō, coercuī, coercitum, coercēre verb
@@ -195,9 +197,11 @@ creō, creāvī, creātum, creāre verb
 crepō, crepuī, crepitum, crepāre verb intr note=no long vowel in the lemma
 crēscō, crēvī, crētum, crēscere verb intr
 crīminor, crīminātus sum, crīminārī verb
+crōciō, -, -, crōcīre verb intr conf=80 note=length of the o?
 crucifīgō, crucifīxī, crucifīxum, crucifīgere verb style=late
 cruciō, cruciāvī, cruciātum, cruciāre verb note=no long vowel in the lemma
 cubō, cubuī, cubitum, cubāre verb intr note=no long vowel in the lemma
+cūdō, cūdī, cūsum, cūdere verb
 cumulō, cumulāvī, cumulātum, cumulāre verb
 cūnctor, cūnctātus sum, cūnctārī verb conf=90 note=length of the u?
 cupiō, cupīvī|cupiī, cupītum, cupere verb
