@@ -31,6 +31,7 @@ nitor, nitōris noun m
 nitrum, nitrī noun n
 nix, nivis noun f gen_pl=nivium
 nōbilitās, nōbilitātis noun f
+noctua, noctuae noun f
 nōdus, nōdī noun m
 nōmen, nōminis noun n
 Nōnae, Nōnārum noun f pl_only note=written with a capital as a date name

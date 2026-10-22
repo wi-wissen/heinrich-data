@@ -108,6 +108,7 @@ invocō, invocāvī, invocātum, invocāre verb
 involvō, involvī, involūtum, involvere verb
 iocor, iocātus sum, iocārī verb intr note=no long vowel in the lemma
 īrāscor, īrātus sum, īrāscī verb intr
+irrigō, irrigāvī, irrigātum, irrigāre verb var=inrigō
 irrumpō, irrūpī, irruptum, irrumpere verb intr var=inrumpō
 irruō, irruī, -, irruere verb intr var=inruō
 iterō, iterāvī, iterātum, iterāre verb

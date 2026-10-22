@@ -7,9 +7,11 @@ ictus, ictūs noun m conf=80 note=length of the i?
 Īdūs, Īduum noun f pl_only note=written with a capital as a date name
 iecur, iecoris noun n
 iēiūnium, iēiūniī noun n
+ientāculum, ientāculī noun n
 ignāvia, ignāviae noun f
 ignis, ignis noun m abl_sg=igne|ignī
 ignōminia, ignōminiae noun f
+īlex, īlicis noun f
 ilia, ilium noun n pl_only
 illecebra, illecebrae noun f var=inlecebra
 imāgō, imāginis noun f
@@ -24,15 +26,18 @@ imperītia, imperītiae noun f
 imperium, imperiī noun n
 impetus, impetūs noun m
 impietās, impietātis noun f var=inpietās
+impluvium, impluviī noun n
 improbitās, improbitātis noun f var=inprobitās
 impudentia, impudentiae noun f var=inpudentia
 impūnitās, impūnitātis noun f var=inpūnitās
+inauris, inauris noun f
 incendium, incendiī noun n
 incola, incolae noun c
 incolumitās, incolumitātis noun f
 incommodum, incommodī noun n
 incrēmentum, incrēmentī noun n
 incursus, incursūs noun m
+incūs, incūdis noun f
 index, indicis noun c
 indicium, indiciī noun n
 indigena, indigenae noun c
@@ -97,6 +102,7 @@ iugulum, iugulī noun n
 iugum, iugī noun n
 iūmentum, iūmentī noun n
 iuncus, iuncī noun m
+iūniperus, iūniperī noun f
 iūrgium, iūrgiī noun n
 iūs, iūris noun n
 iūstitia, iūstitiae noun f sg_only

@@ -3,6 +3,7 @@ habeō, habuī, habitum, habēre verb
 habitō, habitāvī, habitātum, habitāre verb
 haereō, haesī, haesum, haerēre verb intr
 hauriō, hausī, haustum, haurīre verb
+hinniō, hinnīvī, -, hinnīre verb intr
 hiō, hiāvī, hiātum, hiāre verb intr
 honōrō, honōrāvī, honōrātum, honōrāre verb
 horreō, horruī, -, horrēre verb

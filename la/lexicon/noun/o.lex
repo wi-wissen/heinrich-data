@@ -12,12 +12,16 @@ occāsiō, occāsiōnis noun f
 occāsus, occāsūs noun m
 occupātiō, occupātiōnis noun f
 ōceanus, ōceanī noun m
+ōcimum, ōcimī noun n conf=80 note=length of the o?
+ocrea, ocreae noun f
 oculus, oculī noun m
 odium, odiī noun n
 odor, odōris noun m
+offa, offae noun f
 offēnsiō, offēnsiōnis noun f
 officīna, officīnae noun f
 officium, officiī noun n
+olea, oleae noun f
 oleum, oleī noun n
 olīva, olīvae noun f
 olīvētum, olīvētī noun n
@@ -48,6 +52,7 @@ orbitās, orbitātis noun f
 organum, organī noun n
 orīgō, orīginis noun f
 ōrnāmentum, ōrnāmentī noun n conf=80 note=length of the first o?
+ornus, ornī noun f
 ortus, ortūs noun m
 os, ossis noun n
 ōs, ōris noun n

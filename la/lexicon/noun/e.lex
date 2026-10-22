@@ -1,4 +1,5 @@
 # Latin noun entries, letter e (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
+ebenus, ebenī noun f
 ēbrietās, ēbrietātis noun f
 ebur, eboris noun n
 ecclēsia, ecclēsiae noun f style=late
@@ -19,9 +20,11 @@ emplastrum, emplastrī noun n
 episcopus, episcopī noun m style=late
 epistula, epistulae noun f var=epistola[late]
 epulae, epulārum noun f pl_only
+equa, equae noun f dat_pl=equīs|equābus
 eques, equitis noun m
 equitātus, equitātūs noun m
 equus, equī noun m
+ērīnāceus, ērīnāceī noun m conf=80 note=length of the first two vowels?
 error, errōris noun m
 ērudītiō, ērudītiōnis noun f
 ēruptiō, ēruptiōnis noun f

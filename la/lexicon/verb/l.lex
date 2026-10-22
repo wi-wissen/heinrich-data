@@ -13,6 +13,7 @@ langueō, languī, -, languēre verb intr
 languēscō, languī, -, languēscere verb intr
 largior, largītus sum, largīrī verb note=no long vowel in the lemma
 lateō, latuī, -, latēre verb intr
+lātrō, lātrāvī, lātrātum, lātrāre verb intr
 laudō, laudāvī, laudātum, laudāre verb
 lavō, lāvī, lautum, lavāre verb
 laxō, laxāvī, laxātum, laxāre verb
