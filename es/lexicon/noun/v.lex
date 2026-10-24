@@ -1,4 +1,5 @@
 # Spanish noun entries, letter v. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+
 vaca noun g=f
 vacaciones noun g=f pl_only
 vacancia noun g=f
@@ -134,6 +135,7 @@ veneración noun g=f
 vengador noun g=m f=vengadora
 venganza noun g=f
 venia noun g=f
+venida       noun g=f note=idas y venidas
 venta noun g=f
 ventaja noun g=f
 ventajismo noun g=m

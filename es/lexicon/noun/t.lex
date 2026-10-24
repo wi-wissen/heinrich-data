@@ -1,4 +1,5 @@
 # Spanish noun entries, letter t. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+
 taba noun g=f
 tabaco noun g=m
 tábano noun g=m
@@ -42,6 +43,7 @@ tajamar noun g=m
 tajo noun g=m
 tala noun g=f
 talabartero noun g=m f=talabartera
+taladradora  noun g=f
 taladro noun g=m
 tálamo noun g=m
 talante noun g=m
@@ -394,6 +396,7 @@ tinta noun g=f
 tinte noun g=m
 tintero noun g=m
 tintineo noun g=m
+tintorera    noun g=f sense=shark note=blue shark; the person is the feminine of tintorero
 tintorería noun g=f
 tintorero noun g=m f=tintorera
 tintura noun g=f
@@ -510,6 +513,7 @@ torbellino noun g=m
 torcedura noun g=f
 tordo noun g=m
 toreo noun g=m
+torera       noun g=f sense=jacket note=short bolero jacket; the person is the feminine of torero
 torero noun g=m f=torera
 torio noun g=m
 tormenta noun g=f

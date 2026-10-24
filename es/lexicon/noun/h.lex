@@ -1,4 +1,5 @@
 # Spanish nouns, letter h (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 haba             noun  g=f
 habanera         noun  g=f
 habano           noun  g=m
@@ -206,6 +207,7 @@ hijo             noun  g=m f=hija
 hijuelo          noun  g=m
 hilado           noun  g=m
 hilador          noun  g=m f=hiladora
+hiladora     noun g=f sense=machine conf=85 note=spinning machine; the person is the feminine of hilador
 hilaridad        noun  g=f
 hilera           noun  g=f
 hilo             noun  g=m

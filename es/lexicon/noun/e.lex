@@ -1,4 +1,5 @@
 # Spanish nouns, letter e (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 ebanista         noun  g=m|f
 ebanistería      noun  g=f
 ébano            noun  g=m
@@ -352,6 +353,7 @@ encriptación     noun  g=f
 encrucijada      noun  g=f
 encuadernación   noun  g=f
 encuadernador    noun  g=m f=encuadernadora
+encuadernadora noun g=f sense=machine conf=85 note=binding machine; the person is the feminine of encuadernador
 encuadramiento   noun  g=m
 encuadre         noun  g=m
 encubridor       noun  g=m f=encubridora
@@ -538,6 +540,7 @@ enunciación      noun  g=f
 enunciado        noun  g=m
 envasado         noun  g=m
 envasador        noun  g=m f=envasadora
+envasadora   noun g=f sense=machine note=packaging machine or plant; the person is the feminine of envasador
 envase           noun  g=m
 envejecimiento   noun  g=m
 envenenamiento   noun  g=m
@@ -871,6 +874,7 @@ espejuelo        noun  g=m
 espeleología     noun  g=f
 espeleólogo      noun  g=m f=espeleóloga
 espelta          noun  g=f
+espera       noun g=f note=en espera de, sala de espera, lista de espera
 esperantista     noun  g=m|f
 esperanto        noun  g=m
 esperanza        noun  g=f
@@ -1407,6 +1411,7 @@ expedicionario   noun  g=m f=expedicionaria
 expedidor        noun  g=m f=expedidora
 expediente       noun  g=m
 expendedor       noun  g=m f=expendedora
+expendedora  noun g=f sense=machine note=vending machine; the person is the feminine of expendedor
 expendeduría     noun  g=f
 expendio         noun  g=m
 expensas         noun  g=f pl_only
@@ -1438,6 +1443,7 @@ expolítico       noun  g=m f=expolítica
 exponente        noun  g=m
 exportación      noun  g=f
 exportador       noun  g=m f=exportadora
+exportadora  noun g=f sense=company note=the person is the feminine of exportador
 exportavoz       noun  g=m|f
 exposición       noun  g=f
 expósito         noun  g=m f=expósita

@@ -1,4 +1,5 @@
 # Spanish nouns, letter l (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 labelo           noun  g=m
 laberinto        noun  g=m
 labia            noun  g=f
@@ -119,6 +120,7 @@ lavadero         noun  g=m
 lavado           noun  g=m
 lavadora         noun  g=f
 lavanda          noun  g=f
+lavandera    noun g=f sense=bird note=wagtail; the person is the feminine of lavandero
 lavandería       noun  g=f
 lavandero        noun  g=m f=lavandera
 lavaojos         noun  g=m
@@ -135,13 +137,15 @@ leasing          noun  g=m foreign
 lebrel           noun  g=m
 lección          noun  g=f
 leche            noun  g=f
+lechera      noun g=f sense=jug note=milk jug or churn; the person is the feminine of lechero
 lechería         noun  g=f
 lechero          noun  g=m f=lechera
 lecho            noun  g=m
 lechón           noun  g=m
 lechuga          noun  g=f
 lechuza          noun  g=f
-lector           noun  g=m f=lectora
+lector           noun  g=m f=lectora sense=person
+lector       noun g=m sense=device note=lector de DVD, lector de tarjetas
 lectura          noun  g=f
 legación         noun  g=f
 legado           noun  g=m
@@ -297,6 +301,7 @@ liguero          noun  g=m
 liguilla         noun  g=f
 lígula           noun  g=f
 lija             noun  g=f
+lijadora     noun g=f
 like             noun  g=m foreign note=social media: dar like; plural likes
 lila             noun  g=f sense=flower
 lila             noun  g=m sense=colour note=el lila: the colour

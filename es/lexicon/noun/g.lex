@@ -1,4 +1,5 @@
 # Spanish nouns, letter g (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 gabán            noun  g=m
 gabardina        noun  g=f
 gabinete         noun  g=m
@@ -204,6 +205,7 @@ gesticulación    noun  g=f
 gestión          noun  g=f
 gesto            noun  g=m
 gestor           noun  g=m f=gestora
+gestora      noun g=f sense=company note=gestora de fondos; the person is the feminine of gestor
 gestoría         noun  g=f
 ghanés           noun  g=m f=ghanesa
 gibelino         noun  g=m
@@ -316,6 +318,7 @@ gozne            noun  g=m
 grabación        noun  g=f
 grabado          noun  g=m
 grabador         noun  g=m f=grabadora
+grabadora    noun g=f sense=device note=sound recorder; the person is the feminine of grabador
 gracejo          noun  g=m
 gracia           noun  g=f
 grada            noun  g=f
@@ -421,6 +424,7 @@ guanina          noun  g=f
 guano            noun  g=m
 guante           noun  g=m
 guantelete       noun  g=m
+guantera     noun g=f
 guaraní          noun  g=m|f pl=guaraníes|guaranís[var]
 guarda           noun  g=f sense=keeping note=guarda y custodia; also the flyleaf of a book
 guarda           noun  g=m|f sense=person note=guarda forestal, guarda jurado

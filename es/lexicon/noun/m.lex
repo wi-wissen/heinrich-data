@@ -1,4 +1,5 @@
 # Spanish lexicon: nouns in m- (m-p author). Own data, written clean-room.
+
 macaco       noun  g=m
 macarra      noun  g=m|f style=colloquial alt=chulo|matón
 macarrón     noun  g=m
@@ -848,6 +849,7 @@ mimo         noun  g=m
 mimosa       noun  g=f
 mina         noun  g=f
 minarete     noun  g=m
+minera       noun g=f sense=company note=mining company; the person is the feminine of minero
 mineral      noun  g=m
 mineralización noun  g=f
 mineralogía  noun  g=f
@@ -1027,7 +1029,8 @@ monetización noun  g=f
 mongol       noun  g=m f=mongola
 monigote     noun  g=m
 monismo      noun  g=m
-monitor      noun  g=m f=monitora
+monitor      noun  g=m f=monitora sense=person
+monitor      noun g=m sense=screen note=computer or medical screen
 monitoreo    noun  g=m
 monitorización noun  g=f
 monja        noun  g=f

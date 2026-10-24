@@ -1,4 +1,5 @@
 # Spanish nouns, letter f (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 fabada           noun  g=f
 fábrica          noun  g=f
 fabricación      noun  g=f
@@ -528,7 +529,8 @@ frustración      noun  g=f
 fruta            noun  g=f
 frutal           noun  g=m
 frutería         noun  g=f
-frutero          noun  g=m f=frutera
+frutero          noun  g=m f=frutera sense=person
+frutero      noun g=m sense=bowl note=fruit bowl
 fruticultura     noun  g=f
 fruto            noun  g=m
 fucsia           noun  g=m

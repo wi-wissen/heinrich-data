@@ -1,4 +1,5 @@
 # Spanish noun entries, letter z. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+
 zafarrancho noun g=m
 zafiro noun g=m
 zafra noun g=f
@@ -23,7 +24,8 @@ zapador noun g=m
 zapapico noun g=m
 zapata noun g=f
 zapatería noun g=f
-zapatero noun g=m f=zapatera
+zapatero noun g=m f=zapatera sense=person
+zapatero     noun g=m sense=cabinet note=shoe cabinet
 zapatilla noun g=f
 zapato noun g=m
 zapeo noun g=m

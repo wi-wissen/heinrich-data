@@ -1,4 +1,5 @@
 # Spanish lexicon: nouns in o- (m-p author). Own data, written clean-room.
+
 oasis        noun  g=m
 obcecación   noun  g=f
 obediencia   noun  g=f
@@ -205,6 +206,7 @@ open         noun  g=m foreign pl=opens note=sports tournament
 ópera        noun  g=f
 operación    noun  g=f
 operador     noun  g=m f=operadora
+operadora    noun g=f sense=company note=operadora de telefonía; the person is the feminine of operador
 operando     noun  g=m
 operario     noun  g=m f=operaria
 operatividad noun  g=f
@@ -261,6 +263,7 @@ ordenante    noun  g=m|f
 ordenanza    noun  g=f sense=regulation
 ordenanza    noun  g=m|f sense=orderly note=el/la ordenanza: office messenger, military orderly
 ordeñador    noun  g=m f=ordeñadora
+ordeñadora   noun g=f sense=machine note=milking machine; the person is the feminine of ordeñador
 ordeño       noun  g=m
 ordinal      noun  g=m
 ordinariato  noun  g=m
