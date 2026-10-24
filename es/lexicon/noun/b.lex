@@ -215,7 +215,8 @@ basto        noun g=m note=the suit of clubs in Spanish cards, mostly plural bas
 bastón       noun g=m
 bastoncillo  noun g=m
 basura       noun g=f
-basurero     noun g=m f=basurera
+basurero     noun g=m f=basurera sense=person
+basurero     noun g=m sense=dump note=rubbish dump
 bata         noun g=f
 batacazo     noun g=m
 batalla      noun g=f
@@ -732,7 +733,8 @@ bus          noun g=m
 busardo      noun g=m
 busca        noun g=f sense=search note=en busca de
 busca        noun g=m sense=pager style=colloquial alt=buscapersonas
-buscador     noun g=m f=buscadora
+buscador     noun g=m f=buscadora sense=person
+buscador     noun g=m sense=engine note=search engine
 búsqueda     noun g=f
 busto        noun g=m
 butaca       noun g=f

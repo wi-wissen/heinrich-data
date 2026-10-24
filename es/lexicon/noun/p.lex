@@ -1,4 +1,5 @@
 # Spanish lexicon: nouns in p- (m-p author). Own data, written clean-room.
+
 pabellón     noun  g=m
 pabilo       noun  g=m
 pábulo       noun  g=m
@@ -911,6 +912,7 @@ pistacho     noun  g=m
 pistilo      noun  g=m
 pisto        noun  g=m
 pistola      noun  g=f
+pistolera    noun g=f sense=holster note=the person is the feminine of pistolero
 pistolero    noun  g=m f=pistolera
 pistoletazo  noun  g=m
 pistolete    noun  g=m
@@ -1562,6 +1564,7 @@ producción   noun  g=f
 productividad noun  g=f
 producto     noun  g=m
 productor    noun  g=m f=productora
+productora   noun g=f sense=company note=film or record production company; the person is the feminine of productor
 proetarra    noun  g=m|f
 proeza       noun  g=f
 profanación  noun  g=f
@@ -1618,6 +1621,7 @@ promo        noun  g=f style=colloquial alt=promoción
 promoción    noun  g=f
 promontorio  noun  g=m
 promotor     noun  g=m f=promotora
+promotora    noun g=f sense=company note=property developer; the person is the feminine of promotor
 promulgación noun  g=f
 pronombre    noun  g=m
 pronosticador noun  g=m f=pronosticadora

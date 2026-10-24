@@ -1,4 +1,5 @@
 # Spanish nouns, letter j (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 jabalí           noun  g=m pl=jabalíes|jabalís[var]
 jabalina         noun  g=f
 jabato           noun  g=m
@@ -86,7 +87,8 @@ jovenzuelo       noun  g=m f=jovenzuela
 jovialidad       noun  g=f
 joya             noun  g=f
 joyería          noun  g=f
-joyero           noun  g=m f=joyera
+joyero           noun  g=m f=joyera sense=person
+joyero       noun g=m sense=box note=jewellery box
 joystick         noun  g=m foreign
 juanete          noun  g=m
 jubilación       noun  g=f

@@ -1,4 +1,5 @@
 # Spanish noun entries, letter r. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+
 rabadilla noun g=f
 rábano noun g=m
 rabia noun g=f
@@ -402,6 +403,7 @@ región noun g=f
 regionalismo noun g=m
 regionalización noun g=f
 registrador noun g=m f=registradora
+registradora noun g=f sense=machine note=caja registradora; the person is the feminine of registrador
 registro noun g=m
 regla noun g=f
 reglamentación noun g=f

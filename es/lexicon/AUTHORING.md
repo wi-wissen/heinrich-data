@@ -104,6 +104,13 @@ Follow the author guide (format §13). The points that need the most care:
 - **Nouns:** gender always (`g=m|f` for common gender, `amb` for ambiguous nouns such as *mar*);
   plural exceptions and accent shifts (*régimen/regímenes*, *carácter/caracteres*); invariable
   plurals (*la crisis/las crisis*); `f=` for person and animal nouns.
+- **Object meanings of person-noun forms** (as in the French lexicon, heinrich-data#185): a
+  feminine that is only generated as the `f=` of a person noun but also names a thing gets an
+  entry of its own with `sense=` (`lavandera noun g=f sense=bird`, `grabadora noun g=f
+  sense=device`, `productora noun g=f sense=company`); the person reading stays a form of the
+  masculine. A masculine person noun with the same form as a thing gets two entries, the person
+  with `sense=person` and the thing with its own sense (`joyero … sense=person`, `joyero noun g=m
+  sense=box`). Thing nouns without a person counterpart (`lavadora`, `nevera`) are plain entries.
 - **Adjectives:** feminine and apocope (*buen, gran, primer*), `adv=` for every common `-mente`
   adverb, comparison where irregular.
 - **Verbs:** a class for every irregular verb (stem change, `-zco`, `-go`, model verbs), `hiatus`

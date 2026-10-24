@@ -343,6 +343,7 @@ aficionado   noun g=m f=aficionada
 áfido        noun g=m
 afijo        noun g=m
 afilador     noun g=m f=afiladora
+afiladora    noun g=f sense=machine note=sharpening machine; the person is the feminine of afilador
 afiliación   noun g=f
 afiliado     noun g=m f=afiliada
 afinación    noun g=f
@@ -1432,6 +1433,7 @@ aspersor     noun g=m
 áspid        noun g=m
 aspillera    noun g=f
 aspiración   noun g=f
+aspirador    noun g=m note=vacuum cleaner (also la aspiradora)
 aspiradora   noun g=f
 aspirante    noun g=m|f
 aspirina     noun g=f

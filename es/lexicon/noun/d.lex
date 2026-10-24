@@ -1,4 +1,5 @@
 # Spanish nouns, letter d (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 dacha            noun  g=f
 dación           noun  g=f
 dáctilo          noun  g=m
@@ -934,6 +935,7 @@ distorsión       noun  g=f
 distracción      noun  g=f
 distribución     noun  g=f
 distribuidor     noun  g=m f=distribuidora
+distribuidora noun g=f sense=company note=distribution company; the person is the feminine of distribuidor
 distributario    noun  g=m conf=80
 distrito         noun  g=m
 distrofia        noun  g=f

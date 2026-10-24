@@ -1,4 +1,5 @@
 # Spanish nouns, letter i (docs/LEXICON_FORMAT_ES.md). Own knowledge (clean-room).
+
 íbero            noun  g=m f=íbera var=ibero
 ibicenco         noun  g=m f=ibicenca
 ibis             noun  g=m
@@ -112,6 +113,7 @@ imponderable     noun  g=m
 impopularidad    noun  g=f
 importación      noun  g=f
 importador       noun  g=m f=importadora
+importadora  noun g=f sense=company note=the person is the feminine of importador
 importancia      noun  g=f
 importe          noun  g=m
 imposibilidad    noun  g=f
@@ -451,6 +453,7 @@ inspector        noun  g=m f=inspectora
 inspiración      noun  g=f
 instalación      noun  g=f
 instalador       noun  g=m f=instaladora
+instaladora  noun g=f sense=company note=installation company; the person is the feminine of instalador
 instancia        noun  g=f
 instante         noun  g=m
 instauración     noun  g=f

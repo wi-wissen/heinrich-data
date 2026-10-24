@@ -1096,6 +1096,7 @@ chivato      noun g=m f=chivata style=colloquial alt=delator|confidente
 chivo        noun g=m f=chiva
 chochín      noun g=m
 chocolate    noun g=m
+chocolatera  noun g=f sense=pot note=chocolate pot; the person is the feminine of chocolatero
 chocolatería noun g=f
 chocolatero  noun g=m f=chocolatera
 chocolatina  noun g=f
@@ -1202,6 +1203,7 @@ cifrado      noun g=m
 cigala       noun g=f
 cigarra      noun g=f
 cigarral     noun g=m
+cigarrera    noun g=f sense=case note=cigar case; the person is the feminine of cigarrero
 cigarrero    noun g=m f=cigarrera
 cigarrillo   noun g=m
 cigarrito    noun g=m
@@ -1617,6 +1619,7 @@ comentario   noun g=m
 comentarista noun g=m|f
 comercialización noun g=f
 comercializador noun g=m f=comercializadora
+comercializadora noun g=f sense=company note=the person is the feminine of comercializador
 comerciante  noun g=m|f
 comercio     noun g=m
 comestible   noun g=m
@@ -1723,6 +1726,7 @@ compulsa     noun g=f
 compulsión   noun g=f
 compunción   noun g=f
 computación  noun g=f
+computadora  noun g=f note=mainly Latin American; Spain usually ordenador
 cómputo      noun g=m
 comulgante   noun g=m|f
 comuna       noun g=f
@@ -1943,6 +1947,7 @@ construcción noun g=f
 constructivismo noun g=m
 constructo   noun g=m
 constructor  noun g=m f=constructora
+constructora noun g=f sense=company note=building company; the person is the feminine of constructor
 consuegro    noun g=m f=consuegra
 consuelo     noun g=m
 cónsul       noun g=m|f
@@ -1950,6 +1955,7 @@ consulado    noun g=m
 consulta     noun g=f
 consultante  noun g=m|f
 consultor    noun g=m f=consultora
+consultora   noun g=f sense=company note=consulting firm; the person is the feminine of consultor
 consultoría  noun g=f
 consultorio  noun g=m
 consumación  noun g=f
@@ -2072,7 +2078,8 @@ contribuyente noun g=m|f
 contrición   noun g=f
 contrincante noun g=m|f
 control      noun g=m
-controlador  noun g=m f=controladora
+controlador  noun g=m f=controladora sense=person
+controlador  noun g=m sense=device note=device or software driver
 controversia noun g=f
 contubernio  noun g=m
 contumacia   noun g=f
@@ -2257,6 +2264,7 @@ cortacésped  noun g=m
 cortacircuitos noun g=m
 cortado      noun g=m
 cortador     noun g=m f=cortadora
+cortadora    noun g=f sense=machine note=cortadora de césped; the person is the feminine of cortador
 cortadura    noun g=f
 cortafríos   noun g=m
 cortafuegos  noun g=m
@@ -2327,7 +2335,8 @@ costumbre    noun g=f
 costumbrismo noun g=m
 costura      noun g=f
 costurera    noun g=f
-costurero    noun g=m f=costurera
+costurero    noun g=m f=costurera sense=person
+costurero    noun g=m sense=box note=sewing box
 cota         noun g=f
 cotangente   noun g=f
 cotejo       noun g=m

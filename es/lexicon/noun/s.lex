@@ -1,4 +1,5 @@
 # Spanish noun entries, letter s. Written clean-room by the q-z author (es/lexicon/AUTHORING.md).
+
 sábado noun g=m
 sábalo noun g=m
 sabana noun g=f
@@ -80,6 +81,7 @@ salpicadero noun g=m
 salpicadura noun g=f
 salpicón noun g=m
 salsa noun g=f
+salsera      noun g=f
 saltador noun g=m f=saltadora
 saltamontes noun g=m
 salteador noun g=m
@@ -255,6 +257,7 @@ semblante noun g=m
 semblanza noun g=f
 sembrado noun g=m
 sembrador noun g=m f=sembradora
+sembradora   noun g=f sense=machine note=seed drill; the person is the feminine of sembrador
 semejante noun g=m
 semejanza noun g=f
 semen noun g=m
@@ -345,7 +348,8 @@ serrería noun g=f
 serrín noun g=m
 serrucho noun g=m
 servicio noun g=m
-servidor noun g=m f=servidora
+servidor noun g=m f=servidora sense=person
+servidor     noun g=m sense=computer note=server
 servidumbre noun g=f
 servilismo noun g=m
 servilleta noun g=f
@@ -579,6 +583,7 @@ solaz noun g=m
 soldadesca noun g=f
 soldado noun g=m|f
 soldador noun g=m f=soldadora
+soldadora    noun g=f sense=machine note=welding machine; the person is the feminine of soldador
 soldadura noun g=f
 soleá noun g=f pl=soleares conf=85
 soledad noun g=f
@@ -610,6 +615,7 @@ solvencia noun g=f
 somatén noun g=m
 somatización noun g=f
 sombra noun g=f
+sombrerera   noun g=f sense=box note=hatbox; the person is the feminine of sombrerero
 sombrerería noun g=f
 sombrerero noun g=m f=sombrerera
 sombrero noun g=m
@@ -831,6 +837,7 @@ sumatorio noun g=m
 sumidero noun g=m
 sumiller noun g=m|f
 suministrador noun g=m f=suministradora
+suministradora noun g=f sense=company note=supply company; the person is the feminine of suministrador
 suministro noun g=m
 sumisión noun g=f
 suntuosidad noun g=f
