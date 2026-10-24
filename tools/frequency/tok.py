@@ -1,4 +1,4 @@
-"""Shared tokenizer / counter for the Heinrich frequency lists (German, English, French, Spanish).
+"""Shared tokenizer / counter for the Heinrich frequency lists (German, English, French, Spanish, Latin).
 
 Only counts are kept; texts are streamed and discarded.
 Tokens are case-sensitive surface forms (NFC). A token is a run of Latin
@@ -35,6 +35,11 @@ ABBR_FR = (r"MM|Mme|Mmes|Mlle|Mlles|Me|Mes|Mgr|Mgrs|Dr|Drs|Pr|Prs|St|Ste|Sts|Ste
            r"boul|bd|fg|av|janv|févr|avr|juil|sept|oct|nov|déc|lun|mar|mer|jeu|ven|sam|dim|env|cap|liv|"
            r"sect|tit|al|alin|ord|min|max|cass|civ|crim|com|soc|req|ch|chbre|gal|lt|cne|col|cdt|adj|sgt|"
            r"vx|var|cad|hab|dép|arr|ill|trad|coll|dir|ms|mss|fol|fos|ve|vo|ro")
+# Latin abbreviations that do not end a sentence (own list): praenomina (single letters are covered by the
+# single-letter rule), dates, offices and citation words.
+ABBR_LA = (r"Cn|Sex|Ser|Sp|Ti|Tib|Ap|Mam|Kal|Kalend|Non|Id|Febr|Ian|Mart|Apr|Quint|Sext|Sept|Oct|Nov|Dec|"
+           r"cos|coss|procos|pr|propr|tr|pl|leg|imp|aed|cens|dict|pont|max|trib|pot|cf|sc|scil|etc|al|cap|lib|"
+           r"ep|ibid|vid|ib|ss|sq|sqq|adv|praef|ed|vol")
 # Spanish abbreviations that do not end a sentence (own list; single letters such as "D.", "p. ej.", "n.º" are
 # covered by the single-letter rule). Frequent nouns such as "mar" are left out on purpose.
 ABBR_ES = (r"Sr|Sra|Sras|Sres|Srs|Srta|Srtas|Dña|Dñas|Dr|Dra|Dres|Dras|Lic|Lda|Ldo|Ing|Arq|Prof|Profa|Excmo|Excma|"
@@ -43,20 +48,22 @@ ABBR_ES = (r"Sr|Sra|Sras|Sres|Srs|Srta|Srtas|Dña|Dñas|Dr|Dra|Dres|Dras|Lic|Lda
            r"ib|íd|aprox|apdo|apdos|dcha|izq|izqda|ene|feb|abr|jun|jul|ago|sept|sep|oct|nov|dic|lun|mié|jue|vie|sáb|"
            r"admón|depto|dpto|tel|telf|fig|figs|vs|ss|sigs|esq|Ntra|Ntro|ntra|ntro|prov|Ud|Uds|Vd|Vds|ud|uds|vd|vds|"
            r"disp|adic|transit|ca|Mtro|Mtra|Pdte|Pdta|Sr|Sra|Excmo")
-ABBR = {"de": ABBR_DE, "en": ABBR_EN, "fr": ABBR_FR, "es": ABBR_ES}
+ABBR = {"de": ABBR_DE, "en": ABBR_EN, "fr": ABBR_FR, "es": ABBR_ES, "la": ABBR_LA}
 # German: ordinal numbers ("3. Mai") do not end a sentence; English has no such ordinals.
 PROT_BY_LANG = {
     "de": re.compile(rf"(?<![{L}])(?:{ABBR_DE}|[{L}]|\d+)\."),
     "en": re.compile(rf"(?<![{L}])(?:{ABBR_EN}|[{L}])\."),
     "fr": re.compile(rf"(?<![{L}])(?:{ABBR_FR}|[{L}])\."),
     "es": re.compile(rf"(?<![{L}])(?:{ABBR_ES}|[{L}])\."),
+    "la": re.compile(rf"(?<![{L}])(?:{ABBR_LA}|[{L}])\."),
 }
 PROT = PROT_BY_LANG["de"]
 LANG = "de"
 
 
 LEAD = {"de": "\"„“»«(‚'[-–— \x00", "en": "\"“‘(['-–— \x00", "fr": "\"«“‹(['-–— \x00\u00a0\u202f",
-        "es": "\"«“‘‹(['-–—¿¡ \x00\u00a0\u202f"}
+        "es": "\"«“‘‹(['-–—¿¡ \x00\u00a0\u202f",
+        "la": "\"„“»«‹‘(['-–—⟨< \x00\u00a0"}
 
 
 def set_lang(lang):
@@ -72,6 +79,8 @@ SPLIT_BY_LANG = {
     "fr": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“«‹(\[\-–—\s]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[A-ZÀ-ÖØ-Þ])"),
     # Spanish: a sentence may open with ¿ ¡ (also after « “ or a dialogue dash —).
     "es": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“‘«‹(\[\-–—¿¡\s]*[A-ZÀ-ÖØ-Þ])|\n+|\s+[–—]\s+(?=[¿¡]?[A-ZÀ-ÖØ-Þ])"),
+    # Latin: also a colon or semicolon is not a sentence end; a line break is (verse lines, paragraphs).
+    "la": re.compile(r"(?<=[.!?…])[\"“”«»'’)\]\s]*\s(?=[\"“„«‹‘(\[\-–—⟨<\s]*[A-ZÀ-ÖØ-Þ])|\n+"),
 }
 
 # French elision: a clitic ending in an apostrophe is split off as its own token ("l'homme" -> "l'",
@@ -114,6 +123,31 @@ def normalize_es(text):
     """Spanish: apostrophe variants between letters become "'" (O'Donnell), hyphen variants become "-".
     ¿ ¡ « » and the dialogue dash are not letters, so they never end up inside a token."""
     return HYPH_FR.sub("-", APOS_FR.sub("'", text))
+# Latin (Heinrich docs/LATIN.md L-D2): diacritics (macrons, breves, diaereses, accents of old prints) are
+# removed, æ/œ become ae/oe, long s becomes s (ß of old prints: ss), and every token is folded j -> i and
+# v -> u (also in capitals), so "Iūlius", "Julius" and "IULIUS" -> "Iulius", "vīvō" -> "uiuo", "Vergilius" -> "Uergilius".
+# A token is a run of letters only: hyphens and apostrophes separate (enclitics such as -que, -ne, -ve stay
+# attached because they are written without a separator). Words written entirely in capitals (two or more
+# letters: headings, speaker labels in drama, Roman numerals, a capitalised first word) and the capitals
+# I, V, X standing alone (numerals) are not counted.
+WORD_LA = re.compile(rf"[{L}]+")
+LIG_LA = str.maketrans({"æ": "ae", "œ": "oe", "Æ": "Ae", "Œ": "Oe", "ſ": "s", "ß": "ss", "ꝑ": "per", "ꝓ": "pro"})
+FOLD_LA = str.maketrans({"j": "i", "J": "I", "v": "u", "V": "U"})
+NUMERAL_LA = {"I", "V", "X"}
+
+
+def normalize_la(text):
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    text = unicodedata.normalize("NFC", text)
+    # all-capital ligatures: "ÆDES" -> "AEDES"
+    text = re.sub(r"Æ(?=[A-Z])", "AE", text)
+    text = re.sub(r"Œ(?=[A-Z])", "OE", text)
+    return text.translate(LIG_LA)
+
+
+def keep_la(w):
+    return not (w in NUMERAL_LA or (len(w) > 1 and w.isupper()))
 
 
 def tokenize_lines(text):
@@ -123,6 +157,8 @@ def tokenize_lines(text):
         text = normalize_fr(text)
     elif LANG == "es":
         text = normalize_es(text)
+    elif LANG == "la":
+        text = normalize_la(text)
     text = PROT.sub(lambda m: m.group(0)[:-1] + "\x00", text)
     for sent in SPLIT.split(text):
         if not sent:
@@ -134,7 +170,7 @@ def tokenize_lines(text):
         s = sent.lstrip(LEAD[LANG])
         if s.startswith("\x01"):
             first_ok = False
-        words = WORD.findall(sent)
+        words = WORD.findall(sent) if LANG != "la" else [w.translate(FOLD_LA) for w in WORD_LA.findall(sent) if keep_la(w)]
         if words:
             yield words, first_ok
 

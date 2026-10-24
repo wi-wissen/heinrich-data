@@ -1,6 +1,6 @@
 # Frequency list tools
 
-Builds `de/frequency/forms.tsv`, `en/frequency/forms.tsv`, `fr/frequency/forms.tsv` and `es/frequency/forms.tsv` (case-sensitive word-form counts) by counting
+Builds `de/frequency/forms.tsv`, `en/frequency/forms.tsv`, `fr/frequency/forms.tsv`, `es/frequency/forms.tsv` and `la/frequency/forms.tsv` (case-sensitive word-form counts) by counting
 tokens ourselves.
 Only counts are stored, never the texts (text and data mining, Sec. 44b UrhG). No existing word list,
 frequency list, lexicon or dictionary is used as input (clean-room). Sources: see `/SOURCES.md`.
@@ -58,6 +58,16 @@ wait
 python3 -I tools/frequency/merge.py . es/frequency es
 ```
 
+Latin (separate work directory `W_la`; details in `la/frequency/README.md`):
+
+```sh
+curl -sSf -o lawikisource.xml.bz2 https://dumps.wikimedia.org/lawikisource/latest/lawikisource-latest-pages-articles.xml.bz2
+mkdir pg && for i in 227 9646 7402 14945 23294; do curl -sSf -o pg/pg$i.txt https://www.gutenberg.org/cache/epub/$i/pg$i.txt; sleep 2; done
+python3 -I tools/frequency/count_la.py . lawikisource.xml.bz2 pg   # ~2 min, writes prose/ poetry/ late/ and works.tsv
+python3 -I tools/frequency/merge.py . la/frequency la
+cp works.tsv la/frequency/
+```
+
 All count scripts are resumable (existing output files are skipped). Dumps and websites change, so numbers
 will differ slightly between runs; the Wikipedia sample uses the `latest` dump (ours: 2026-10-01).
 
@@ -72,12 +82,18 @@ will differ slightly between runs; the Wikipedia sample uses the `latest` dump (
   Diputados plenary record (Diario de Sesiones, legislatures X-XIV), speech paragraphs only.
 - `count_gov_fr.py` - French official texts from the DILA open data (Assemblée nationale and Sénat debates,
   Légifrance LEGI, service-public.gouv.fr guides), all Licence Ouverte 2.0.
+- `count_la.py` - Latin: public-domain texts from the Latin Wikisource dump (main namespace and selected proofread
+  page sets) and five Gutenberg books; wikitext cleaning, source check (no Perseus, Latin Library, Corpus
+  Corporum, PHI), language filter, per-author cap for late Latin.
+- `sources_la.py` - hand-written selection for Latin: authors of each group (prose, poetry, late), excluded
+  works, page sets, Gutenberg books with start and end lines (bibliographic metadata only).
 - `authors_en.py` - hand-written list of American / British authors (bibliographic metadata only) used to
   select and label English Gutenberg books.
 - `drop_forms.py` - removes counting artefacts from a `forms.tsv` and updates `STATS.md` to match (used on
   2026-10-21 for HTML entity names, see "Known limitations").
 - `merge.py` - merges counts, writes `forms.tsv`, `STATS.md` (`lang=en` adds the `us`/`gb` columns; `lang=fr` and
-  `lang=es` have no variety columns: fr-FR and es-ES only for now).
+  `lang=es` have no variety columns: fr-FR and es-ES only for now; `lang=la` has the source columns `prose`,
+  `poetry`, `late` instead of `wiki`, `lit`, `gov`).
 
 All scripts take the language as an argument (default `de`); `tok.set_lang()` selects the abbreviation list
 and quotation marks of the sentence splitter.
@@ -132,6 +148,14 @@ and quotation marks of the sentence splitter.
   since 2026-10-21).
 - Gutenberg: like French, but first author born in 1700 or later, authors from Spain first, and books in the old
   orthography (`á`/`ó` as words, `fué`, `dió` ...; rate >= 0.2 per 1000 tokens) are not counted.
+
+## Latin specifics
+- `tok.set_lang("la")`: diacritics removed, `æ`/`œ` -> `ae`/`oe`, every token folded `v` -> `u` and `j` -> `i`
+  (Heinrich `docs/LATIN.md` L-D2); a token is a run of letters only (hyphens and apostrophes separate);
+  enclitics are not split off; words entirely in capitals and the numerals `I`, `V`, `X` are not counted;
+  case is kept and `sentence_initial` is counted as in the other languages. Latin abbreviation list `ABBR_LA`.
+- Groups instead of sources: `prose` and `poetry` (classical, before about AD 200), `late` (Vulgate and
+  AD 200-1500, 60,000 tokens per author at most).
 
 ## Known limitations
 - Until 2026-10-21 `count_wiki.py` unescaped HTML entities only once, so `&nbsp;` (`&amp;nbsp;` in the dump XML)

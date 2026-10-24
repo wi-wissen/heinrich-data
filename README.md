@@ -23,6 +23,9 @@ build scripts and finished language packs.
   `fr/frequency/README.md`)
 - `es/frequency/` – our own Spanish word-form frequency list (es-ES; Wikipedia, Gutenberg in modern
   orthography, BOE, Congreso; `es/frequency/README.md`)
+- `la/frequency/` – our own Latin word-form frequency list from public-domain texts (Wikisource, Gutenberg),
+  normalised (u/v, i/j folded, no macrons), with columns for classical prose, poetry and late/medieval Latin
+  (`la/frequency/README.md`)
 - `en/lexicon/` – the English lexicon (own clean-room entries, format
   `Heinrich/docs/LEXICON_FORMAT_EN.md`); so far the hand-written closed classes. Authoring
   protocol: `en/lexicon/AUTHORING.md`
