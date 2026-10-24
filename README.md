@@ -21,6 +21,8 @@ build scripts and finished language packs.
 - `en/frequency/` – our own English word-form frequency list (with en-US/en-GB counts)
 - `fr/frequency/` – our own French word-form frequency list (fr-FR, elision split off;
   `fr/frequency/README.md`)
+- `es/frequency/` – our own Spanish word-form frequency list (es-ES; Wikipedia, Gutenberg in modern
+  orthography, BOE, Congreso; `es/frequency/README.md`)
 - `la/frequency/` – our own Latin word-form frequency list from public-domain texts (Wikisource, Gutenberg),
   normalised (u/v, i/j folded, no macrons), with columns for classical prose, poetry and late/medieval Latin
   (`la/frequency/README.md`)
@@ -35,6 +37,9 @@ build scripts and finished language packs.
   `fr/lexicon/README.md`; authoring protocol: `fr/lexicon/AUTHORING.md`
 - `fr/names/` – French given names, surnames and place names, filtered from official open data
   (INSEE, Licence Ouverte 2.0; GeoNames, CC BY 4.0) and curated (`fr/names/README.md`)
+- `es/names/` – Spanish given names, surnames and place names, filtered from official open data
+  (INE, CC BY 4.0; GeoNames, CC BY 4.0) and curated: accents restored, `word` marker
+  (`es/names/README.md`)
 - `de/phon/` – pronunciation exceptions
 - `tools/` – build scripts (lexicon → FST packs)
 - `packs/` – build output (not checked in, releases)

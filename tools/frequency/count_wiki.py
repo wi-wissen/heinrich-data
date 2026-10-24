@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count tokens in a systematic sample of German, English or French Wikipedia (pages-articles-multistream).
+"""Count tokens in a systematic sample of German, English, French or Spanish Wikipedia (pages-articles-multistream).
 
 For several dump parts we read the (small) index, group the bz2 streams into chunks of 10 streams
 (~1000 pages), pick evenly spaced chunks and fetch only those byte ranges. Text is processed in memory.
@@ -29,7 +29,11 @@ _FR = ["2.xml-p306135p1050822", "3.xml-p1050823p2550822", "4.xml-p2977215p447721
        "6.xml-p10574284p12074283", "6.xml-p15074284p16574283"]
 PARTS_FR = [(f"frwiki-latest-pages-articles-multistream{p}.bz2",
              "frwiki-latest-pages-articles-multistream-index" + p.replace(".xml", ".txt") + ".bz2") for p in _FR]
-PARTS_BY_LANG = {"de": PARTS_DE, "en": PARTS_EN, "fr": PARTS_FR}
+_ES = ["2.xml-p159401p693323", "3.xml-p693324p1897740", "4.xml-p1897741p3397740", "5.xml-p4566829p6066828",
+       "6.xml-p7294873p8794872", "6.xml-p10294873p11611013"]
+PARTS_ES = [(f"eswiki-latest-pages-articles-multistream{p}.bz2",
+             "eswiki-latest-pages-articles-multistream-index" + p.replace(".xml", ".txt") + ".bz2") for p in _ES]
+PARTS_BY_LANG = {"de": PARTS_DE, "en": PARTS_EN, "fr": PARTS_FR, "es": PARTS_ES}
 PARTS = PARTS_DE
 BASE = BASE_TPL.format(lang="de")
 STREAMS_PER_CHUNK = 10
@@ -50,16 +54,21 @@ TABLE = re.compile(r"\{\|.*?\|\}", re.S)
 TAG = re.compile(r"</?[A-Za-z][^>]*>")
 FILE_LINE = re.compile(r"^\s*\[\[(?:Datei|File|Bild|Image|Kategorie|Category|Media):.*$", re.M | re.I)
 FILE_LINE_FR = re.compile(r"^\s*\[\[(?:Fichier|File|Image|Catégorie|Category|Média|Media):.*$", re.M | re.I)
+FILE_LINE_ES = re.compile(r"^\s*\[\[(?:Archivo|Imagen|File|Image|Categoría|Category|Medio|Media):.*$", re.M | re.I)
+# es only: inline file links with several pipes ("[[Archivo:x.jpg|miniaturadeimagen|caption]]"), not caught by LINK
+FILE_INLINE_ES = re.compile(r"\[\[(?:Archivo|Imagen|File|Image):[^\[\]]*(?:\[\[[^\[\]]*\]\][^\[\]]*)*\]\]", re.I)
+FILE_LINE_BY_LANG = {"de": FILE_LINE, "en": FILE_LINE, "fr": FILE_LINE_FR, "es": FILE_LINE_ES}
 LINK = re.compile(r"\[\[(?:[^\[\]|]*\|)?([^\[\]|]*)\]\]")
 EXTLINK = re.compile(r"\[(?:https?:)?//[^\s\]]+\s*([^\]]*)\]")
 URL = re.compile(r"(?:https?://|www\.)\S+")
 CUT_BY_LANG = {
     "de": re.compile(r"^==+\s*(Literatur|Weblinks|Einzelnachweise|Anmerkungen|Quellen|Siehe auch|Fußnoten|Belege|Filme|Diskografie|Werke|Schriften|Veröffentlichungen|Publikationen)\b.*$", re.M),
     "fr": re.compile(r"^==+\s*(Notes et références|Références|Notes|Liens externes|Voir aussi|Bibliographie|Annexes|Articles connexes|Sources|Discographie|Filmographie|Œuvres|Publications|Ouvrages|Principales publications)\b.*$", re.M),
+    "es": re.compile(r"^==+\s*(Referencias|Notas|Notas y referencias|Enlaces externos|Véase también|Bibliografía|Fuentes|Lecturas adicionales|Lectura adicional|Obras|Publicaciones|Discografía|Filmografía|Galería|Obras principales)\b.*$", re.M),
     "en": re.compile(r"^==+\s*(References|External links|See also|Further reading|Notes|Bibliography|Sources|Works cited|Footnotes|Citations|Discography|Filmography|Works|Publications|Selected works|Selected publications|Literature|Notes and references)\b.*$", re.M),
 }
 CUT = CUT_BY_LANG["de"]
-REDIRECT = ("#WEITERLE", "#REDIRECT")  # "#REDIRECTION" (fr) starts with "#REDIRECT" too
+REDIRECT = ("#WEITERLE", "#REDIRECT", "#REDIRECC")  # "#REDIRECTION" (fr) starts with "#REDIRECT" too; es "#REDIRECCIÓN"
 # English variety tags (Wikipedia maintenance templates that state the spelling variety of an article)
 REGION_TAGS = [(re.compile(r"\{\{\s*Use American English\b", re.I), "us"),
                (re.compile(r"\{\{\s*(?:Use British English|Use Oxford spelling|EngvarB)\b", re.I), "gb")]
@@ -84,7 +93,9 @@ def clean(wt):
         if n == wt:
             break
         wt = n
-    wt = (FILE_LINE_FR if LANG == "fr" else FILE_LINE).sub("", wt)
+    wt = FILE_LINE_BY_LANG[LANG].sub("", wt)
+    if LANG == "es":
+        wt = FILE_INLINE_ES.sub(" ", wt)
     for _ in range(3):
         wt = LINK.sub(r"\1", wt)
     wt = EXTLINK.sub(r"\1", wt)

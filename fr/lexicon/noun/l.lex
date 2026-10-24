@@ -69,6 +69,7 @@ laitance       noun g=f
 laiterie       noun g=f
 laiteron       noun g=m
 laitier        noun g=m f=laitière
+laitière noun g=f sense=cow note=dairy cow (une bonne laitière); the person is the feminine of laitier
 laiton         noun g=m
 laitue         noun g=f
 laïus          noun g=m style=colloquial alt=discours|allocution
@@ -252,6 +253,7 @@ lavement       noun g=m
 laverie        noun g=f
 lavette        noun g=f
 laveur         noun g=m f=laveuse
+laveuse noun g=f sense=machine note=washing machine (Quebec); the person is the feminine of laveur
 lavis          noun g=m
 lavoir         noun g=m
 laxatif        noun g=m
@@ -548,6 +550,7 @@ lis            noun g=m note=variant spelling of lys
 liseré         noun g=m conf=90 note=also written liséré
 liseron        noun g=m
 liseur         noun g=m f=liseuse
+liseuse noun g=f sense=object note=e-reader, reading lamp, bed jacket; the person is the feminine of liseur
 lisibilité     noun g=f
 lisier         noun g=m
 lisière        noun g=f

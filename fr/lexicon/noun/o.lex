@@ -391,6 +391,7 @@ outil                    noun g=m
 outillage                noun g=m
 outrage                  noun g=m
 outrance                 noun g=f
+outre noun g=f note=wineskin; the preposition outre is a closed class
 outre-mer                noun g=m pl=- note=always singular
 outre-tombe              noun g=m pl=- note=d'outre-tombe
 outrecuidance            noun g=f

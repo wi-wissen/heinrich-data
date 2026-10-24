@@ -409,6 +409,7 @@ tire-lait noun g=m pl=tire-lait[trad]|tire-laits[rect]
 tirelire noun g=f
 tiret noun g=m
 tireur noun g=m f=tireuse
+tireuse noun g=f sense=machine note=beer tap, film printer; the person is the feminine of tireur
 tiroir noun g=m
 tisane noun g=f
 tisanerie noun g=f
@@ -551,6 +552,7 @@ tourteau noun g=m
 tourtereau noun g=m
 tourterelle noun g=f
 tourtière noun g=f
+tout noun g=m pl=touts note=le tout, un tout (a whole); the determiner, pronoun and adverb are closed classes
 tout-à-l'égout noun g=m pl=- note=no plural
 tout-petit noun g=m pl=tout-petits f=toute-petite fpl=toutes-petites
 toute-puissance noun g=f pl=- note=no plural
@@ -685,6 +687,7 @@ traversée noun g=f
 traversin noun g=m
 travesti noun g=m f=travestie conf=80
 travestissement noun g=m
+trayeuse noun g=f note=milking machine
 trébuchet noun g=m
 tréfilerie noun g=f
 trèfle noun g=m
@@ -733,8 +736,10 @@ tricheur noun g=m f=tricheuse
 tricorne noun g=m
 tricot noun g=m
 tricotage noun g=m
+tricoteuse noun g=f note=knitting machine and knitter
 tricycle noun g=m
 triéthylamine noun g=f
+trieuse noun g=f
 trigénération noun g=f
 triglycéride noun g=m
 trigonométrie noun g=f

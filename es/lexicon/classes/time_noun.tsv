@@ -1,0 +1,77 @@
+# Lexeme class `time_noun` (docs/LEXICON_FORMAT_ES.md §9 in the engine repo): nouns that name a point
+# or span of time and head time adverbials without a preposition. Rules: `[class=time_noun]`,
+# `[class:time_noun=weekday|month]`. Columns: lemma[:sense]  pos  value.
+# Values: weekday, month, daytime, season, unit, occasion, period, holiday.
+# Written from own knowledge of Spanish (clean-room); only lemmas of this lexicon.
+
+lunes	noun	weekday
+martes	noun	weekday
+miércoles	noun	weekday
+jueves	noun	weekday
+viernes	noun	weekday
+sábado	noun	weekday
+domingo	noun	weekday
+enero	noun	month
+febrero	noun	month
+marzo	noun	month
+abril	noun	month
+mayo	noun	month
+junio	noun	month
+julio	noun	month
+agosto	noun	month
+septiembre	noun	month
+octubre	noun	month
+noviembre	noun	month
+diciembre	noun	month
+mañana:morning	noun	daytime
+tarde	noun	daytime
+noche	noun	daytime
+madrugada	noun	daytime
+mediodía	noun	daytime
+medianoche	noun	daytime
+amanecer	noun	daytime
+atardecer	noun	daytime
+anochecer	noun	daytime
+alba	noun	daytime
+primavera	noun	season
+verano	noun	season
+otoño	noun	season
+invierno	noun	season
+segundo	noun	unit
+minuto	noun	unit
+hora	noun	unit
+día	noun	unit
+semana	noun	unit
+mes	noun	unit
+año	noun	unit
+siglo	noun	unit
+década	noun	unit
+quincena	noun	unit
+lustro	noun	unit
+milenio	noun	unit
+bienio	noun	unit
+trienio	noun	unit
+trimestre	noun	unit
+semestre	noun	unit
+cuatrimestre	noun	unit
+bimestre	noun	unit
+vez	noun	occasion
+ocasión	noun	occasion
+momento	noun	period
+rato	noun	period
+instante	noun	period
+época	noun	period
+temporada	noun	period
+curso	noun	period
+jornada	noun	period
+período	noun	period
+víspera	noun	period
+finde	noun	period
+tiempo	noun	period
+etapa	noun	period
+legislatura	noun	period
+nochebuena	noun	holiday
+nochevieja	noun	holiday
+navidad	noun	holiday
+pascua	noun	holiday
+carnaval	noun	holiday

@@ -465,6 +465,7 @@ cause              noun g=f
 causerie           noun g=f
 causette           noun g=f style=colloquial
 causeur            noun g=m f=causeuse
+causeuse noun g=f sense=sofa note=small two-seat sofa; the person is the feminine of causeur
 causse             noun g=m
 causticité         noun g=f
 cautère            noun g=m
@@ -679,6 +680,7 @@ charge             noun g=f
 chargé             noun g=m f=chargée note=chargé de mission
 chargement         noun g=m
 chargeur           noun g=m
+chargeuse noun g=f note=loader (machine)
 charia             noun g=f
 chariot            noun g=m rect=charriot
 charisme           noun g=m
@@ -1985,6 +1987,7 @@ couvent            noun g=m
 couvercle          noun g=m
 couvert            noun g=m
 couverture         noun g=f
+couveuse noun g=f note=incubator
 couvre-chef        noun g=m pl=couvre-chefs
 couvre-feu         noun g=m pl=couvre-feux
 couvre-lit         noun g=m pl=couvre-lits
@@ -2056,6 +2059,7 @@ crêpe              noun g=m sense=fabric
 crêperie           noun g=f
 crépi              noun g=m
 crêpier            noun g=m f=crêpière note=crêpière is also the pan
+crêpière noun g=f sense=pan note=crêpe pan or griddle; the person is the feminine of crêpier
 crépinette         noun g=f
 crépissage         noun g=m
 crépitement        noun g=m

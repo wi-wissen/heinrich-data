@@ -1,6 +1,6 @@
 # Frequency list tools
 
-Builds `de/frequency/forms.tsv`, `en/frequency/forms.tsv`, `fr/frequency/forms.tsv` and `la/frequency/forms.tsv` (case-sensitive word-form counts) by counting
+Builds `de/frequency/forms.tsv`, `en/frequency/forms.tsv`, `fr/frequency/forms.tsv`, `es/frequency/forms.tsv` and `la/frequency/forms.tsv` (case-sensitive word-form counts) by counting
 tokens ourselves.
 Only counts are stored, never the texts (text and data mining, Sec. 44b UrhG). No existing word list,
 frequency list, lexicon or dictionary is used as input (clean-room). Sources: see `/SOURCES.md`.
@@ -46,6 +46,18 @@ cp legi_all/legi_0[0-9].tsv gov/                                 # keep LEGI buc
 python3 -I tools/frequency/merge.py . fr/frequency fr
 ```
 
+Spanish (separate work directory `W_es`; details in `es/frequency/README.md`):
+
+```sh
+python3 -I tools/frequency/count_wiki.py wiki 42 es      # eswiki sample: 42 chunks in each of 6 dump parts (~61M tokens)
+curl -sSf -o pg_catalog.csv https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv
+python3 -I tools/frequency/count_gutenberg.py gut pg_catalog.csv 60000000 0 1 es   # one worker; old-orthography books go to gut_old/
+python3 -I tools/frequency/count_gov_es.py gov boe &         # BOE consolidated legislation (API, ~2 h)
+python3 -I tools/frequency/count_gov_es.py gov congreso &    # Congreso Diario de Sesiones, legislatures X-XIV (~2 h)
+wait
+python3 -I tools/frequency/merge.py . es/frequency es
+```
+
 Latin (separate work directory `W_la`; details in `la/frequency/README.md`):
 
 ```sh
@@ -66,6 +78,8 @@ will differ slightly between runs; the Wikipedia sample uses the `latest` dump (
 - `count_gov.py` - Bundestag plenary protocols (WP 18-21) and gesetze-im-internet.de.
 - `count_gov_en.py` - US federal texts (govinfo.gov: Public Papers of the Presidents, Federal Register) and
   UK texts (Hansard via TheyWorkForYou, legislation.gov.uk, GOV.UK content API).
+- `count_gov_es.py` - Spanish official texts: BOE consolidated legislation (open data API) and the Congreso de los
+  Diputados plenary record (Diario de Sesiones, legislatures X-XIV), speech paragraphs only.
 - `count_gov_fr.py` - French official texts from the DILA open data (Assemblée nationale and Sénat debates,
   Légifrance LEGI, service-public.gouv.fr guides), all Licence Ouverte 2.0.
 - `count_la.py` - Latin: public-domain texts from the Latin Wikisource dump (main namespace and selected proofread
@@ -77,9 +91,9 @@ will differ slightly between runs; the Wikipedia sample uses the `latest` dump (
   select and label English Gutenberg books.
 - `drop_forms.py` - removes counting artefacts from a `forms.tsv` and updates `STATS.md` to match (used on
   2026-10-21 for HTML entity names, see "Known limitations").
-- `merge.py` - merges counts, writes `forms.tsv`, `STATS.md` (`lang=en` adds the `us`/`gb` columns; `lang=fr` has
-  no variety columns: fr-FR only for now; `lang=la` has the source columns `prose`, `poetry`, `late` instead of
-  `wiki`, `lit`, `gov`).
+- `merge.py` - merges counts, writes `forms.tsv`, `STATS.md` (`lang=en` adds the `us`/`gb` columns; `lang=fr` and
+  `lang=es` have no variety columns: fr-FR and es-ES only for now; `lang=la` has the source columns `prose`,
+  `poetry`, `late` instead of `wiki`, `lit`, `gov`).
 
 All scripts take the language as an argument (default `de`); `tok.set_lang()` selects the abbreviation list
 and quotation marks of the sentence splitter.
@@ -123,6 +137,17 @@ and quotation marks of the sentence splitter.
   splitter (`? » Il`, `. « Oui`).
 - Gutenberg: every named person (illustrators ignored) died in 1954 or earlier, the first author was born in
   1600 or later (no Middle French), at most 12 books per author, canonical authors first.
+
+## Spanish specifics
+- Same token definition and case handling; no elision split. `¿ ¡ « »` and the dialogue dash are punctuation, the
+  sentence splitter lets a sentence open with them. Apostrophe and hyphen variants between letters are unified as
+  in French (`O'Donnell`). Numbers with decimal comma or thousands point and ordinals (`1.º`) give no token.
+- Spanish abbreviation list (`Sr.`, `Sra.`, `Dña.`, `Excmo.`, `art.`, `núm.`, `pág.`, `etc.`, `Ud.` ...).
+- Wikipedia: Spanish section names are cut, `#REDIRECCIÓN` pages skipped, inline file links and doubly escaped
+  entities (`&amp;nbsp;`) removed (the inline file links for es only; the double unescape for all languages
+  since 2026-10-21).
+- Gutenberg: like French, but first author born in 1700 or later, authors from Spain first, and books in the old
+  orthography (`á`/`ó` as words, `fué`, `dió` ...; rate >= 0.2 per 1000 tokens) are not counted.
 
 ## Latin specifics
 - `tok.set_lang("la")`: diacritics removed, `æ`/`œ` -> `ae`/`oe`, every token folded `v` -> `u` and `j` -> `i`

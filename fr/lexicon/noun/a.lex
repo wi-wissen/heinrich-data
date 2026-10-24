@@ -1018,6 +1018,7 @@ arrogance          noun g=f
 arrondissement     noun g=m
 arrosage           noun g=m
 arroseur           noun g=m
+arroseuse noun g=f note=street-watering vehicle
 arrosoir           noun g=m
 arsenal            noun g=m
 arsenic            noun g=m

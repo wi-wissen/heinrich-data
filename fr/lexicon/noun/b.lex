@@ -64,6 +64,7 @@ bakchich          noun g=m style=colloquial alt=pot-de-vin
 bal               noun g=m pl=bals
 balade            noun g=f
 baladeur          noun g=m
+baladeuse noun g=f note=inspection lamp on a cord
 baladin           noun g=m
 balafre           noun g=f
 balai             noun g=m
@@ -74,6 +75,7 @@ balançoire        noun g=f
 balayage          noun g=m
 balayette         noun g=f
 balayeur          noun g=m f=balayeuse
+balayeuse noun g=f sense=machine note=street-sweeping machine; the person is the feminine of balayeur
 balbutiement      noun g=m
 balcon            noun g=m
 baldaquin         noun g=m
@@ -255,6 +257,7 @@ battant           noun g=m
 battement         noun g=m
 batterie          noun g=f
 batteur           noun g=m f=batteuse
+batteuse noun g=f sense=machine note=threshing machine; the person is the feminine of batteur
 battoir           noun g=m
 baudet            noun g=m
 baudrier          noun g=m
@@ -887,6 +890,7 @@ brocoli           noun g=m
 brodequin         noun g=m
 broderie          noun g=f
 brodeur           noun g=m f=brodeuse
+brodeuse noun g=f sense=machine note=embroidery machine; the person is the feminine of brodeur
 broiement         noun g=m
 brome             noun g=m
 bromure           noun g=m
@@ -918,6 +922,7 @@ broutille         noun g=f
 browning          noun g=m
 broyage           noun g=m
 broyeur           noun g=m
+broyeuse noun g=f
 bru               noun g=f
 bruant            noun g=m
 brucelles         noun g=f pl_only
