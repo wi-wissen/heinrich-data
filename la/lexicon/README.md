@@ -139,4 +139,4 @@ senses, *sēra* beside *sērus*); all were separated correctly. After the round 
 5,609 entries.
 
 The engine round for the analysis (Heinrich#264) added *minimē* as an adverb of its own ("not at
-all", `closed/adverbs.lex`, beside the superlative of *parum*); the lexicon holds 5,610 entries.
+all", `closed/adverbs.lex`, beside the superlative of *parum*); with the compounds of #189 the lexicon holds 5,621 entries.
