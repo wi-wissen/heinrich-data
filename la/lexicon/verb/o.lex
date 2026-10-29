@@ -1,4 +1,5 @@
 # Latin verb entries, letter o (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
+obdūcō, obdūxī, obductum, obdūcere verb imp=obdūc
 obeō, obiī, obitum, obīre verb class=eo
 obiciō, obiēcī, obiectum, obicere verb
 obligō, obligāvī, obligātum, obligāre verb
@@ -22,6 +23,7 @@ occurrō, occurrī, occursum, occurrere verb intr
 ōdī, ōsūrus, ōdisse verb
 offendō, offendī, offēnsum, offendere verb
 offerō, obtulī, oblātum, offerre verb class=fero
+officiō, offēcī, offectum, officere verb intr
 omittō, omīsī, omissum, omittere verb
 onerō, onerāvī, onerātum, onerāre verb note=no long vowel in the lemma
 operiō, operuī, opertum, operīre verb

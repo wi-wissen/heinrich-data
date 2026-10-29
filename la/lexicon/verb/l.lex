@@ -1,4 +1,5 @@
 # Latin verb entries, letter l (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
+labefaciō, labefēcī, labefactum, labefacere verb pass_perf note=present passive labefīō
 labefactō, labefactāvī, labefactātum, labefactāre verb
 lābor, lāpsus sum, lābī verb intr
 labōrō, labōrāvī, labōrātum, labōrāre verb intr
