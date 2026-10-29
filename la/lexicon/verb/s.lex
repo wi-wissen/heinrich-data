@@ -83,17 +83,20 @@ succēdō, successī, successum, succēdere verb intr
 succumbō, succubuī, succubitum, succumbere verb intr
 succurrō, succurrī, succursum, succurrere verb intr
 sūdō, sūdāvī, sūdātum, sūdāre verb intr
+sufferō, sustinuī, -, sufferre verb class=fero conf=80 note=perfect taken from sustineō; sustulī, sublātum belong to tollō
 sufficiō, suffēcī, suffectum, sufficere verb
 suffundō, suffūdī, suffūsum, suffundere verb
-summittō, summīsī, summissum, summittere verb
-summoveō, summōvī, summōtum, summovēre verb
+summittō, summīsī, summissum, summittere verb var=submittō
+summoveō, summōvī, summōtum, summovēre verb var=submoveō
 sūmō, sūmpsī, sūmptum, sūmere verb
 suō, suī, sūtum, suere verb
 superō, superāvī, superātum, superāre verb
+superpōnō, superposuī, superpositum, superpōnere verb
 supersum, superfuī, superfutūrus, superesse verb class=sum
 superveniō, supervēnī, superventum, supervenīre verb intr
 suppeditō, suppeditāvī, suppeditātum, suppeditāre verb
 supplicō, supplicāvī, supplicātum, supplicāre verb intr
+suppōnō, supposuī, suppositum, suppōnere verb
 supprimō, suppressī, suppressum, supprimere verb
 surgō, surrēxī, surrēctum, surgere verb intr
 suscipiō, suscēpī, susceptum, suscipere verb

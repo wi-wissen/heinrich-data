@@ -22,7 +22,7 @@ torqueō, torsī, tortum, torquēre verb
 torreō, torruī, tostum, torrēre verb
 tractō, tractāvī, tractātum, tractāre verb
 trādō, trādidī, trāditum, trādere verb
-trādūcō, trādūxī, trāductum, trādūcere verb imp=trādūc
+trādūcō, trādūxī, trāductum, trādūcere verb imp=trādūc var=trānsdūcō
 trahō, trāxī, tractum, trahere verb
 trāiciō, trāiēcī, trāiectum, trāicere verb
 trānscendō, trānscendī, trānscēnsum, trānscendere verb

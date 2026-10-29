@@ -6,6 +6,7 @@ recipiō, recēpī, receptum, recipere verb
 recitō, recitāvī, recitātum, recitāre verb
 recondō, recondidī, reconditum, recondere verb
 recordor, recordātus sum, recordārī verb note=no long vowel in the lemma
+recubō, recubuī, recubitum, recubāre verb intr
 recumbō, recubuī, -, recumbere verb intr
 recurrō, recurrī, recursum, recurrere verb intr
 recūsō, recūsāvī, recūsātum, recūsāre verb
