@@ -39,6 +39,7 @@ istūc adv type=dem
 ita adv type=dem
 item adv type=dem
 itidem adv type=dem
+minimē adv type=neg note=own lemma for "not at all" next to the superlative of parum (Heinrich#264)
 nēquāquam adv type=neg
 nōndum adv type=neg
 numquam adv type=neg var=nunquam
