@@ -137,3 +137,6 @@ was checked with particular care for homographs that differ only in a vowel leng
 of speech (*pōpulus*/*populus*, *mālus*/*malus*, *mālum*/*malum*, *acer*/*ācer*, *caelum* with two
 senses, *sēra* beside *sērus*); all were separated correctly. After the round the lexicon holds
 5,609 entries.
+
+The engine round for the analysis (Heinrich#264) added *minimē* as an adverb of its own ("not at
+all", `closed/adverbs.lex`, beside the superlative of *parum*); with the compounds of #189 the lexicon holds 5,621 entries.
