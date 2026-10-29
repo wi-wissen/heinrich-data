@@ -39,6 +39,7 @@ incumbō, incubuī, incubitum, incumbere verb intr
 incurrō, incurrī, incursum, incurrere verb intr
 incutiō, incussī, incussum, incutere verb
 indicō, indicāvī, indicātum, indicāre verb
+indīcō, indīxī, indictum, indīcere verb imp=indīc note=short imperative indīc, as dīc and the other dīcō compounds of e-o (ēdīc, interdīc)
 indigeō, indiguī, -, indigēre verb intr
 indignor, indignātus sum, indignārī verb note=no long vowel in the lemma
 indūcō, indūxī, inductum, indūcere verb imp=indūc

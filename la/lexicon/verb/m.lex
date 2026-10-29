@@ -1,7 +1,9 @@
 # Latin verb entries, letter m (author e-o, wave 1). Format: Heinrich docs/LEXICON_FORMAT_LA.md
 mactō, mactāvī, mactātum, mactāre verb
+madefaciō, madefēcī, madefactum, madefacere verb pass_perf note=present passive madefīō
 madeō, maduī, -, madēre verb intr
 maereō, -, -, maerēre verb intr
+maledīcō, maledīxī, maledictum, maledīcere verb intr imp=maledīc note=short imperative, as dīc
 mandō, mandī, mānsum, mandere verb sense=chew
 mandō, mandāvī, mandātum, mandāre verb
 maneō, mānsī, mānsum, manēre verb intr

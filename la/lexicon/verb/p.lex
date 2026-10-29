@@ -72,6 +72,7 @@ porrigō, porrēxī, porrēctum, porrigere verb
 portō, portāvī, portātum, portāre verb
 poscō, poposcī, -, poscere verb conf=85 note=reviewer-dispute; hidden quantity of the o, decided short
 possideō, possēdī, possessum, possidēre verb
+postpōnō, postposuī, postpositum, postpōnere verb
 postulō, postulāvī, postulātum, postulāre verb
 potior, potītus sum, potīrī verb note=no long vowel in the lemma
 pōtō, pōtāvī, pōtātum|pōtum, pōtāre verb
