@@ -188,6 +188,7 @@ medicamentoso adj
 medicinal    adj
 médico       adj   adv=médicamente
 medieval     adj
+medio        adj   place=both note=media hora (half) / la clase media (average)
 medioambiental adj   adv=medioambientalmente
 mediocre     adj
 meditabundo  adj
