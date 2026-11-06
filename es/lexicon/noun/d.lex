@@ -228,6 +228,7 @@ deontología      noun  g=f
 departamento     noun  g=m
 depauperación    noun  g=f
 dependencia      noun  g=f
+dependiente      noun  g=m f=dependienta note=shop assistant
 depilación       noun  g=f
 depleción        noun  g=f
 deportación      noun  g=f
