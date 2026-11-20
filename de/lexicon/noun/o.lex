@@ -1,5 +1,6 @@
 Oase noun g=f gen=Oase pl=Oasen
 Obdachlose noun g=m|f decl=adj
+Obelisk noun g=m gen=Obelisken pl=Obelisken
 Ober noun g=m gen=Obers pl=Ober note=waiter
 Oberbefehlshaber noun g=m gen=Oberbefehlshabers pl=Oberbefehlshaber note=compound not split by the analyser
 Oberbürgermeister noun g=m gen=Oberbürgermeisters pl=Oberbürgermeister
@@ -48,6 +49,7 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökologie noun g=f gen=Ökologie pl=- note=mass noun
 Ökonom noun g=m gen=Ökonomen pl=Ökonomen
 Ökonomie noun g=f gen=Ökonomie pl=Ökonomien
+Oktave noun g=f gen=Oktave pl=Oktaven
 Oktober noun g=m gen=Oktobers pl=Oktober
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
@@ -62,6 +64,7 @@ Oma noun g=f gen=Oma pl=Omas
 Ombudsfrau noun g=f gen=Ombudsfrau pl=Ombudsfrauen
 Ombudsmann noun g=m gen=Ombudsmanns|Ombudsmannes pl=Ombudsmänner|Ombudsleute
 Omelett noun g=n gen=Omeletts pl=Omeletts
+Omen noun g=n gen=Omens pl=Omen|Omina
 Omi noun g=f gen=Omi pl=Omis
 Omnibus noun g=m gen=Omnibusses pl=Omnibusse
 Onboarding noun g=n gen=Onboardings pl=Onboardings
@@ -86,6 +89,7 @@ Orakel noun g=n gen=Orakels pl=Orakel
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orangerie noun g=f gen=Orangerie pl=Orangerien
+Oratorium noun g=n gen=Oratoriums pl=Oratorien
 Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
@@ -113,8 +117,11 @@ Original noun g=n gen=Originals pl=Originale
 Originalität noun g=f gen=Originalität pl=- note=mass noun
 Orkan noun g=m gen=Orkans pl=Orkane
 Ornament noun g=n gen=Ornaments|Ornamentes pl=Ornamente
+Ornamentik noun g=f gen=Ornamentik pl=- note=no plural
+Ornat noun g=m gen=Ornats|Ornates pl=Ornate
 Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
+Orthodoxie noun g=f gen=Orthodoxie pl=Orthodoxien
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
 Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
@@ -141,6 +148,7 @@ Osternest noun g=n gen=Osternests|Osternestes pl=Osternester
 Österreicherin noun g=f gen=Österreicherin pl=Österreicherinnen
 Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
+Ottomotor noun g=m gen=Ottomotors pl=Ottomotoren
 Output noun g=m|n gen=Outputs pl=Outputs
 Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
 Ouvertüre noun g=f gen=Ouvertüre pl=Ouvertüren

@@ -20,6 +20,7 @@ rechteckig adj
 rechtlich adj
 rechtmäßig adj
 rechtskräftig adj
+rechtsseitig adj
 rechtswidrig adj
 rechtwinklig adj
 rechtzeitig adj
@@ -82,6 +83,7 @@ rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
 rumänisch adj
 rund adj cmp=runder sup=rundesten
+rundbogig adj
 rundlich adj cmp=rundlicher sup=rundlichsten
 russisch adj
 rüstig adj cmp=rüstiger sup=rüstigsten

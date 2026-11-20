@@ -6,6 +6,7 @@ zapfen verb class=weak pp=gezapft perf=haben
 zappeln verb class=weak pp=gezappelt perf=haben
 zappen verb class=weak pp=gezappt perf=haben
 zaubern verb class=weak pp=gezaubert perf=haben
+zaudern verb class=weak pp=gezaudert perf=haben
 zechen verb class=weak pp=gezecht perf=haben
 zehren verb class=weak pp=gezehrt perf=haben note=von etwas zehren; an den Kräften zehren
 zeichnen verb class=weak pp=gezeichnet perf=haben
@@ -74,6 +75,7 @@ zitieren verb class=weak pp=zitiert perf=haben
 zittern verb class=weak pp=gezittert perf=haben
 zocken verb class=weak pp=gezockt perf=haben style=colloquial alt=spielen
 zögern verb class=weak pp=gezögert perf=haben
+zollen verb class=weak pp=gezollt perf=haben
 zoomen verb class=weak pp=gezoomt perf=haben
 zuarbeiten verb class=weak sep=zu pp=zugearbeitet perf=haben
 zubauen verb class=weak sep=zu pp=zugebaut perf=haben
@@ -83,6 +85,7 @@ zubilligen verb class=weak sep=zu pp=zugebilligt perf=haben
 zubinden verb class=strong sep=zu 3sg=zubindet past=zuband pp=zugebunden subj2=zubände perf=haben
 zubringen verb class=mixed sep=zu 3sg=zubringt past=zubrachte pp=zugebracht subj2=zubrächte perf=haben
 züchten verb class=weak pp=gezüchtet perf=haben
+züchtigen verb class=weak pp=gezüchtigt perf=haben
 zuckeln verb class=weak pp=gezuckelt perf=sein
 zucken verb class=weak pp=gezuckt perf=haben
 zuckern verb class=weak pp=gezuckert perf=haben

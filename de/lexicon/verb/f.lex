@@ -11,6 +11,7 @@ faszinieren verb class=weak pp=fasziniert perf=haben part1_cmp pp_cmp
 fauchen verb class=weak pp=gefaucht perf=haben
 faulen verb class=weak pp=gefault perf=sein
 faulenzen verb class=weak pp=gefaulenzt perf=haben
+favorisieren verb class=weak pp=favorisiert perf=haben
 faxen verb class=weak pp=gefaxt perf=haben
 fechten verb class=strong 3sg=ficht past=focht pp=gefochten subj2=föchte perf=haben
 federn verb class=weak pp=gefedert perf=haben
@@ -72,6 +73,7 @@ flicken verb class=weak pp=geflickt perf=haben
 fliegen verb class=strong 3sg=fliegt past=flog pp=geflogen subj2=flöge perf=sein|haben
 fliehen verb class=strong 3sg=flieht past=floh pp=geflohen subj2=flöhe perf=sein
 fließen verb class=strong 3sg=fließt past=floss pp=geflossen subj2=flösse perf=sein
+flimmern verb class=weak pp=geflimmert perf=haben
 flirten verb class=weak pp=geflirtet perf=haben
 flitzen verb class=weak pp=geflitzt perf=sein
 floppen verb class=weak pp=gefloppt perf=sein
@@ -139,6 +141,7 @@ freisetzen verb class=weak sep=frei pp=freigesetzt perf=haben
 freisprechen verb class=strong sep=frei 3sg=freispricht past=freisprach pp=freigesprochen subj2=freispräche perf=haben
 freistellen verb class=weak sep=frei pp=freigestellt perf=haben
 fremdgehen verb class=strong sep=fremd 3sg=fremdgeht past=fremdging pp=fremdgegangen subj2=fremdginge perf=sein
+frequentieren verb class=weak pp=frequentiert perf=haben
 fressen verb class=strong 3sg=frisst past=fraß pp=gefressen subj2=fräße perf=haben
 freuen       verb class=weak pp=gefreut perf=haben refl=acc
 frieren verb class=strong 3sg=friert past=fror pp=gefroren subj2=fröre perf=haben|sein note=pp gefroren is correct; not an -ieren verb

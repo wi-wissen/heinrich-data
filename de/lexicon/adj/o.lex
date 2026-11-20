@@ -23,6 +23,7 @@ ohnmächtig adj
 okay adj indecl
 ökologisch adj
 ökonomisch adj
+ökumenisch adj
 olympisch adj
 online adj indecl
 operativ adj

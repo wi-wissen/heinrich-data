@@ -8,23 +8,31 @@ Identifikation noun g=f gen=Identifikation pl=Identifikationen
 Identifikator noun g=m gen=Identifikators pl=Identifikatoren
 Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
 Identität noun g=f gen=Identität pl=Identitäten
+Ideologe noun g=m gen=Ideologen pl=Ideologen
 Ideologie noun g=f gen=Ideologie pl=Ideologien
+Idiot noun g=m gen=Idioten pl=Idioten
 Idol noun g=n gen=Idols|Idoles pl=Idole
+Idylle noun g=f gen=Idylle pl=Idyllen
 Igel noun g=m gen=Igels pl=Igel
 Iglu noun g=m gen=Iglus pl=Iglus
 Ignoranz noun g=f gen=Ignoranz pl=- note=mass noun
 IHK noun g=f gen=IHK pl=IHKs note=Industrie- und Handelskammer
+Ikone noun g=f gen=Ikone pl=Ikonen
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
 Illustrator noun g=m gen=Illustrators pl=Illustratoren
 Illustratorin noun g=f gen=Illustratorin pl=Illustratorinnen
+Iltis noun g=m gen=Iltisses pl=Iltisse
 Image noun g=n gen=Images pl=Images
 Imam noun g=m gen=Imams pl=Imame
 Imbiss noun g=m gen=Imbisses pl=Imbisse
 Imbissbude noun g=f gen=Imbissbude pl=Imbissbuden
+Immigrant noun g=m gen=Immigranten pl=Immigranten
 Immobilie noun g=f gen=Immobilie pl=Immobilien
 Immunität noun g=f gen=Immunität pl=- note=no plural in practice
+Immunsystem noun g=n gen=Immunsystems pl=Immunsysteme
 Imperativ noun g=m gen=Imperativs pl=Imperative
+Imperator noun g=m gen=Imperators pl=Imperatoren
 Imperialismus noun g=m gen=Imperialismus pl=- note=no plural
 Imperium noun g=n gen=Imperiums pl=Imperien
 Impfstoff noun g=m gen=Impfstoffs|Impfstoffes pl=Impfstoffe
@@ -67,6 +75,7 @@ Inflation noun g=f gen=Inflation pl=Inflationen
 Influencer noun g=m gen=Influencers pl=Influencer
 Influencerin noun g=f gen=Influencerin pl=Influencerinnen
 Info noun g=f gen=Info pl=Infos style=colloquial note=short for Informatik or Information
+Informant noun g=m gen=Informanten pl=Informanten
 Informatik noun g=f gen=Informatik pl=- note=academic subject
 Informatiker noun g=m gen=Informatikers pl=Informatiker
 Informatikerin noun g=f gen=Informatikerin pl=Informatikerinnen
@@ -104,6 +113,7 @@ Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
 Insekt noun g=n gen=Insekts|Insektes pl=Insekten
 Insektizid noun g=n gen=Insektizids pl=Insektizide
 Insel noun g=f gen=Insel pl=Inseln
+Insignien noun g=pl
 Insolenz noun g=f gen=Insolenz pl=Insolenzen
 Insolvenz noun g=f gen=Insolvenz pl=Insolvenzen
 Inspekteur noun g=m gen=Inspekteurs pl=Inspekteure
@@ -123,6 +133,7 @@ Institution noun g=f gen=Institution pl=Institutionen
 Instruktion noun g=f gen=Instruktion pl=Instruktionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
 Instrumentarium noun g=n gen=Instrumentariums pl=Instrumentarien
+Instrumentierung noun g=f gen=Instrumentierung pl=Instrumentierungen
 Insulaner noun g=m gen=Insulaners pl=Insulaner
 Insulin noun g=n gen=Insulins pl=- note=mass noun
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
@@ -133,6 +144,7 @@ Intellektuelle noun g=m|f decl=adj
 Intelligenz noun g=f gen=Intelligenz pl=- note=also Intelligenzen (types) rare
 Intendant noun g=m gen=Intendanten pl=Intendanten
 Intendantin noun g=f gen=Intendantin pl=Intendantinnen
+Intendanz noun g=f gen=Intendanz pl=Intendanzen
 Intensität noun g=f gen=Intensität pl=Intensitäten
 Intensivierung noun g=f gen=Intensivierung pl=Intensivierungen
 Intention noun g=f gen=Intention pl=Intentionen
@@ -185,6 +197,7 @@ Isomatte noun g=f gen=Isomatte pl=Isomatten
 Isomorphismus noun g=m gen=Isomorphismus pl=Isomorphismen
 Isotop noun g=n gen=Isotops pl=Isotope
 Israelit noun g=m gen=Israeliten pl=Israeliten
+Isthmus noun g=m gen=Isthmus pl=Isthmen note=genitive unchanged (des Isthmus)
 IT noun g=f gen=IT pl=- note=Informationstechnik
 Itaker noun g=m gen=Itakers pl=Itaker style=offensive note=slur for Italians
 Italiener noun g=m gen=Italieners pl=Italiener

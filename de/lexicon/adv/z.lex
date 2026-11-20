@@ -8,6 +8,7 @@ zugleich adv
 zugrunde adv note=zugrunde legen, zugrunde liegen
 zugute adv type=modal note=zugute kommen, zugute halten
 zuhause adv type=place
+zuleide adv
 zumeist adv
 zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv

@@ -56,9 +56,11 @@ zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweigeschossig adj
 zweigleisig adj
+zweisprachig adj
 zweistellig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
+zweitplatziert adj
 zweiwertig adj
 zwischenzeitlich adj
 zwittrig adj note=variant zwitterig

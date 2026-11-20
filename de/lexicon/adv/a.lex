@@ -8,6 +8,7 @@ allenfalls adv
 allenthalben adv
 allesamt adv
 allezeit adv
+allseits adv
 allzeit adv
 alsbald adv
 alsdann adv

@@ -61,6 +61,7 @@ Lärmbelästigung noun g=f gen=Lärmbelästigung pl=Lärmbelästigungen
 Larve noun g=f gen=Larve pl=Larven
 Lasagne noun g=f gen=Lasagne pl=- note=no plural
 Laser noun g=m gen=Lasers pl=Laser
+Lasso noun g=n gen=Lassos pl=Lassos
 Last noun g=f gen=Last pl=Lasten
 Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
@@ -70,6 +71,7 @@ Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
 Latz noun g=m gen=Latzes pl=Lätze
 Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
+Laube noun g=f gen=Laube pl=Lauben
 Laubfrosch noun g=m gen=Laubfrosches pl=Laubfrösche
 Lauch noun g=m gen=Lauchs pl=- note=no plural
 Laudatio noun g=f gen=Laudatio pl=Laudationes|Laudatios conf=80 note=plural: Latin Laudationes and German Laudatios both in use
@@ -177,6 +179,7 @@ Leserin noun g=f gen=Leserin pl=Leserinnen
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
 Letter noun g=f gen=Letter pl=Lettern note=printing type
+Lettner noun g=m gen=Lettners pl=Lettner
 Leu noun g=m gen=Leuen pl=Leuen sense=lion style=archaic note=poetic: lion
 Leu noun g=m gen=Leu|Leus pl=Lei sense=currency note=Romanian and Moldovan currency
 Leuchtdiode noun g=f gen=Leuchtdiode pl=Leuchtdioden
@@ -234,10 +237,13 @@ Linie noun g=f gen=Linie pl=Linien
 Link noun g=m gen=Links pl=Links
 Linke noun g=m|f decl=adj note=die Linke (party, left hand); also der Linke
 Linksklick noun g=m gen=Linksklicks pl=Linksklicks
+Linnen noun g=n gen=Linnens pl=Linnen style=archaic
 Linse noun g=f gen=Linse pl=Linsen
 Lippe noun g=f gen=Lippe pl=Lippen
 Liquidation noun g=f gen=Liquidation pl=Liquidationen
 Liquidität noun g=f gen=Liquidität pl=- note=abstract noun
+Lira noun g=f gen=Lira pl=Lire note=former Italian currency
+Lisene noun g=f gen=Lisene pl=Lisenen
 List noun g=f gen=List pl=Listen note=cunning; plural rare
 Liste noun g=f gen=Liste pl=Listen
 Liter noun g=m|n gen=Liters pl=Liter
@@ -268,6 +274,7 @@ Logarithmus noun g=m gen=Logarithmus pl=Logarithmen note=Latin loanword; genitiv
 Loge noun g=f gen=Loge pl=Logen
 Loggia noun g=f gen=Loggia pl=Loggien
 Logik noun g=f gen=Logik pl=- note=no plural
+Logiker noun g=m gen=Logikers pl=Logiker
 Login noun g=n|m gen=Logins pl=Logins
 Logis noun g=n gen=Logis pl=Logis note=Kost und Logis
 Logistik noun g=f gen=Logistik pl=- note=no plural
@@ -278,6 +285,7 @@ Lohn noun g=m gen=Lohnes|Lohns pl=Löhne
 Loipe noun g=f gen=Loipe pl=Loipen
 Lok noun g=f gen=Lok pl=Loks note=Lokomotive
 Lokal noun g=n gen=Lokals|Lokales pl=Lokale
+Lokalität noun g=f gen=Lokalität pl=Lokalitäten
 Lokomotive noun g=f gen=Lokomotive pl=Lokomotiven
 Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the indeclinable adjective
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren
@@ -290,6 +298,7 @@ Losung noun g=f gen=Losung pl=Losungen
 Lösung noun g=f gen=Lösung pl=Lösungen
 Lotse noun g=m gen=Lotsen pl=Lotsen
 Lotterie noun g=f gen=Lotterie pl=Lotterien
+Lotto noun g=n gen=Lottos pl=Lottos
 Löwe noun g=m gen=Löwen pl=Löwen
 Loyalität noun g=f gen=Loyalität pl=Loyalitäten
 LP noun g=f gen=LP pl=LPs note=Langspielplatte
@@ -320,3 +329,4 @@ Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun
 Lyrik noun g=f gen=Lyrik pl=- note=mass noun
 Lyriker noun g=m gen=Lyrikers pl=Lyriker
 Lyrikerin noun g=f gen=Lyrikerin pl=Lyrikerinnen
+Lyzeum noun g=n gen=Lyzeums pl=Lyzeen

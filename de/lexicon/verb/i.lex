@@ -13,6 +13,7 @@ infizieren verb class=weak pp=infiziert perf=haben refl=acc
 informieren verb class=weak pp=informiert perf=haben refl=acc
 inhaftieren verb class=weak pp=inhaftiert perf=haben
 initiieren verb class=weak pp=initiiert perf=haben
+inkorporieren verb class=weak pp=inkorporiert perf=haben
 innehaben verb class=mixed sep=inne 3sg=innehat past=innehatte pp=innegehabt subj2=innehätte perf=haben
 inspirieren verb class=weak pp=inspiriert perf=haben
 installieren verb class=weak pp=installiert perf=haben

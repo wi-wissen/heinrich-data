@@ -69,6 +69,7 @@ knurren verb class=weak pp=geknurrt perf=haben
 knutschen verb class=weak pp=geknutscht perf=haben style=colloquial
 köcheln verb class=weak pp=geköchelt perf=haben
 kochen verb class=weak pp=gekocht perf=haben
+kodieren verb class=weak pp=kodiert perf=haben
 kollabieren verb class=weak pp=kollabiert perf=sein
 kollidieren verb class=weak pp=kollidiert perf=sein
 kombinieren verb class=weak pp=kombiniert perf=haben
@@ -106,6 +107,7 @@ koordinieren verb class=weak pp=koordiniert perf=haben
 köpfen verb class=weak pp=geköpft perf=haben
 kopieren verb class=weak pp=kopiert perf=haben
 koppeln verb class=weak pp=gekoppelt perf=haben
+korrelieren verb class=weak pp=korreliert perf=haben
 korrespondieren verb class=weak pp=korrespondiert perf=haben
 korrigieren verb class=weak pp=korrigiert perf=haben
 kosten verb class=weak pp=gekostet perf=haben
@@ -140,6 +142,7 @@ kultivieren verb class=weak pp=kultiviert perf=haben pp_cmp note=ein kultivierte
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
 kündigen verb class=weak pp=gekündigt perf=haben
 kupieren verb class=weak pp=kupiert perf=haben
+kuratieren verb class=weak pp=kuratiert perf=haben
 küren verb class=weak pp=gekürt perf=haben
 kurieren verb class=weak pp=kuriert perf=haben
 kurven verb class=weak pp=gekurvt perf=sein

@@ -7,6 +7,7 @@ panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 paraguayisch adj
 parallel adj attr=parallele
+paramilitärisch adj
 paritätisch adj
 parlamentarisch adj
 partiell adj
@@ -55,6 +56,7 @@ polar adj
 politisch adj
 polizeilich adj
 polnisch adj
+polygonal adj
 polytechnisch adj
 polytheistisch adj
 pommersch adj
@@ -83,10 +85,12 @@ primär adj
 primitiv adj cmp=primitiver sup=primitivsten
 prinzipiell adj
 privat adj
+proaktiv adj
 problematisch adj cmp=problematischer sup=problematischsten
 produktiv adj cmp=produktiver sup=produktivsten
 professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
+prograd adj note=astronomy
 progressiv adj cmp=progressiver sup=progressivsten
 prominent adj cmp=prominenter sup=prominentesten
 proportional adj

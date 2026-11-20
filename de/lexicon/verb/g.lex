@@ -21,6 +21,7 @@ gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele pe
 gefrieren verb class=strong 3sg=gefriert past=gefror pp=gefroren subj2=gefröre perf=sein
 gegenlesen verb class=strong sep=gegen 3sg=gegenliest past=gegenlas pp=gegengelesen subj2=gegenläse perf=haben
 gegenprüfen verb class=weak sep=gegen pp=gegengeprüft perf=haben
+gegensteuern verb class=weak sep=gegen pp=gegengesteuert perf=haben
 gegenüberliegen verb class=strong sep=gegenüber 3sg=gegenüberliegt past=gegenüberlag pp=gegenübergelegen subj2=gegenüberläge perf=haben|sein
 gegenüberstehen verb class=strong sep=gegenüber 3sg=gegenübersteht past=gegenüberstand subj2=gegenüberstünde|gegenüberstände pp=gegenübergestanden perf=haben|sein
 gegenüberstellen verb class=weak sep=gegenüber pp=gegenübergestellt perf=haben
@@ -49,6 +50,7 @@ gestatten verb class=weak pp=gestattet perf=haben
 gestehen verb class=strong 3sg=gesteht past=gestand pp=gestanden subj2=gestünde|gestände perf=haben
 gestikulieren verb class=weak pp=gestikuliert perf=haben
 gewähren verb class=weak pp=gewährt perf=haben
+gewahren verb class=weak pp=gewahrt perf=haben
 gewährleisten verb class=weak pp=gewährleistet perf=haben
 gewichten verb class=weak pp=gewichtet perf=haben
 gewinnen verb class=strong 3sg=gewinnt past=gewann pp=gewonnen subj2=gewönne|gewänne perf=haben

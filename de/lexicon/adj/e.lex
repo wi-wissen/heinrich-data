@@ -2,13 +2,16 @@ eben adj cmp=ebener sup=ebensten note=flat (eine ebene Fläche)
 ebenbürtig adj
 echt adj cmp=echter sup=echtesten
 eckig adj cmp=eckiger sup=eckigsten
+ecuadorianisch adj
 edel adj cmp=edler sup=edelsten
 effektiv adj cmp=effektiver sup=effektivsten
 effizient adj cmp=effizienter sup=effizientesten
 egal adj indecl note=only predicative
 ehemalig adj
+ehern adj
 ehrenamtlich adj
 ehrerbietig adj cmp=ehrerbietiger sup=ehrerbietigsten
+ehrfurchtsvoll adj cmp=ehrfurchtsvoller sup=ehrfurchtsvollsten
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
 eidgenössisch adj
@@ -29,6 +32,7 @@ eindrücklich adj cmp=eindrücklicher sup=eindrücklichsten
 einerlei adj indecl note=das ist mir einerlei
 einfach adj cmp=einfacher sup=einfachsten
 einfältig adj cmp=einfältiger sup=einfältigsten
+einförmig adj cmp=einförmiger sup=einförmigsten
 eingebildet adj cmp=eingebildeter sup=eingebildetsten
 eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposition with genitive
 eingeschnappt adj
@@ -40,6 +44,7 @@ einjährig adj
 einleuchtend adj
 einmalig adj
 einsam adj cmp=einsamer sup=einsamsten
+einschiffig adj
 einschlägig adj note=also predicative in legal use (die Vorschrift ist einschlägig)
 einseitig adj
 einstig adj attr_only

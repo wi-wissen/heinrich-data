@@ -4,9 +4,11 @@ dabeistehen verb class=strong sep=dabei 3sg=dabeisteht past=dabeistand subj2=dab
 dableiben verb class=strong sep=da 3sg=dableibt past=dablieb pp=dageblieben subj2=dabliebe perf=sein
 daddeln verb class=weak pp=gedaddelt perf=haben
 daherkommen verb class=strong sep=daher 3sg=daherkommt|daherkömmt[old] past=daherkam pp=dahergekommen subj2=daherkäme perf=sein
+daliegen verb class=strong sep=da 3sg=daliegt past=dalag pp=dagelegen subj2=daläge perf=haben|sein
 dämmen verb class=weak pp=gedämmt perf=haben
 dämmern verb class=weak pp=gedämmert perf=haben
 dämpfen verb class=weak pp=gedämpft perf=haben
+dampfen verb class=weak pp=gedampft perf=haben|sein
 danken        verb class=weak pp=gedankt perf=haben
 darangehen verb class=strong sep=daran 3sg=darangeht past=daranging|darangieng[old] pp=darangegangen subj2=daranginge perf=sein note=an eine Arbeit darangehen
 daransetzen verb class=weak sep=daran pp=darangesetzt perf=haben note=alles daransetzen
@@ -15,6 +17,7 @@ darbringen verb class=mixed sep=dar 3sg=darbringt past=darbrachte pp=dargebracht
 darlegen verb class=weak sep=dar pp=dargelegt perf=haben
 darren verb class=weak pp=gedarrt perf=haben
 darstellen    verb class=weak sep=dar pp=dargestellt perf=haben
+dasitzen verb class=strong sep=da 3sg=dasitzt past=dasaß pp=dagesessen subj2=dasäße perf=haben|sein
 dastehen verb class=strong sep=da 3sg=dasteht past=dastand pp=dagestanden subj2=dastünde|dastände perf=haben|sein
 datieren verb class=weak pp=datiert perf=haben
 dauern verb class=weak pp=gedauert perf=haben
@@ -52,6 +55,7 @@ dazusetzen verb class=weak sep=dazu pp=dazugesetzt perf=haben refl=acc
 dazustellen verb class=weak sep=dazu pp=dazugestellt perf=haben
 dazuverdienen verb class=weak sep=dazu pp=dazugeverdient perf=haben
 dazuzählen verb class=weak sep=dazu pp=dazugezählt perf=haben
+deaktivieren verb class=weak pp=deaktiviert perf=haben
 debattieren verb class=weak pp=debattiert perf=haben
 debütieren verb class=weak pp=debütiert perf=haben
 deckeln verb class=weak pp=gedeckelt perf=haben note=Kosten deckeln (cap)
@@ -67,6 +71,7 @@ demonstrieren verb class=weak pp=demonstriert perf=haben
 demontieren verb class=weak pp=demontiert perf=haben
 demütigen verb class=weak pp=gedemütigt perf=haben
 denken        verb class=mixed 3sg=denkt past=dachte pp=gedacht subj2=dächte perf=haben
+denominieren verb class=weak pp=denominiert perf=haben
 deportieren verb class=weak pp=deportiert perf=haben
 designen verb class=weak pp=designt perf=haben note=participle designt without ge- (English loan, like recycelt)
 desinfizieren verb class=weak pp=desinfiziert perf=haben

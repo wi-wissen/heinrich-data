@@ -51,6 +51,7 @@ Uhrmacher noun g=m gen=Uhrmachers pl=Uhrmacher
 Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhu noun g=m gen=Uhus pl=Uhus
+Uigure noun g=m gen=Uiguren pl=Uiguren
 Ulme noun g=f gen=Ulme pl=Ulmen
 Ultimatum noun g=n gen=Ultimatums pl=Ultimaten|Ultimatums conf=85 note=plural Ultimaten common, Ultimatums also used
 Ultra noun g=m gen=Ultras pl=Ultras conf=90 note=radical (football) fan or political extremist
@@ -106,6 +107,7 @@ Ungeduld noun g=f gen=Ungeduld pl=- note=no plural
 Ungeheuer noun g=n gen=Ungeheuers pl=Ungeheuer
 Ungerechtigkeit noun g=f gen=Ungerechtigkeit pl=Ungerechtigkeiten
 Ungestüm noun g=n gen=Ungestüms pl=- note=mass noun
+Ungetüm noun g=n gen=Ungetüms|Ungetümes pl=Ungetüme
 Ungeziefer noun g=n gen=Ungeziefers pl=- note=collective noun
 Ungleichheit noun g=f gen=Ungleichheit pl=Ungleichheiten
 Ungleichung noun g=f gen=Ungleichung pl=Ungleichungen
@@ -172,6 +174,7 @@ Unverletzlichkeit noun g=f gen=Unverletzlichkeit pl=- note=mass noun
 Unverschämtheit noun g=f gen=Unverschämtheit pl=Unverschämtheiten
 Unversehrtheit noun g=f gen=Unversehrtheit pl=- note=no plural
 Unwissenheit noun g=f gen=Unwissenheit pl=- note=no plural
+Unwohlsein noun g=n gen=Unwohlseins pl=- note=no plural
 Unze noun g=f gen=Unze pl=Unzen
 Unzufriedenheit noun g=f gen=Unzufriedenheit pl=- note=no plural in practice
 Update noun g=n gen=Updates pl=Updates

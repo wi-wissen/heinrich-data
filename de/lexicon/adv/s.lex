@@ -15,5 +15,8 @@ sogleich adv type=time
 sozusagen adv type=modal
 späterhin adv type=time
 spätestens adv type=time
+stracks adv
+stromabwärts adv
+stromaufwärts adv
 südwärts adv type=direction
 sukzessive adv

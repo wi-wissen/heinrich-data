@@ -48,6 +48,7 @@ Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
 Charakteristik noun g=f gen=Charakteristik pl=Charakteristiken
+Charakteristikum noun g=n gen=Charakteristikums pl=Charakteristika
 Charge noun g=f gen=Charge pl=Chargen
 Charme noun g=m gen=Charmes pl=- note=no plural
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
@@ -70,6 +71,7 @@ Chiasmus noun g=m gen=Chiasmus pl=Chiasmen note=Latin loanword; genitive without
 Chili noun g=f gen=Chili pl=Chilis
 Chinese noun g=m gen=Chinesen pl=Chinesen
 Chinesin noun g=f gen=Chinesin pl=Chinesinnen
+Chinin noun g=n gen=Chinins pl=- note=mass noun
 Chip noun g=m gen=Chips pl=Chips
 Chirurg noun g=m gen=Chirurgen pl=Chirurgen
 Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
@@ -81,6 +83,11 @@ Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Cholera noun g=f gen=Cholera pl=- note=disease
 Chor          noun g=m gen=Chores|Chors pl=Chöre
 Choral noun g=m gen=Chorals pl=Choräle
+Choreograf noun g=m gen=Choreografen pl=Choreografen
+Choreografie noun g=f gen=Choreografie pl=Choreografien
+Choreografin noun g=f gen=Choreografin pl=Choreografinnen
+Choreograph noun g=m gen=Choreographen pl=Choreographen
+Choreographie noun g=f gen=Choreographie pl=Choreographien
 Chorus noun g=m gen=Chorus pl=Chorusse conf=80 note=jazz chorus; plural uncertain
 Christ noun g=m gen=Christen pl=Christen
 Christenheit noun g=f gen=Christenheit pl=- note=collective noun
@@ -150,6 +157,7 @@ Crêpe noun g=m|f gen=Crêpe pl=Crêpes
 Crew noun g=f gen=Crew pl=Crews
 Cricket noun g=n gen=Crickets pl=- note=sport; no plural
 Croissant noun g=n gen=Croissants pl=Croissants
+Crowdfunding noun g=n gen=Crowdfundings pl=- note=no plural
 Cultur noun g=f gen=Cultur pl=Culturen spelling=old style=archaic note=old spelling of Kultur
 Cupcake noun g=m gen=Cupcakes pl=Cupcakes
 Curium noun g=n gen=Curiums pl=- note=chemical element

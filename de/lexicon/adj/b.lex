@@ -2,11 +2,13 @@ badisch adj
 bairisch adj note=Bavarian dialect group
 baldig adj
 baltisch adj
+banal adj cmp=banaler sup=banalsten
 bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
 bankrott adj
 bar adj
 barbarisch adj cmp=barbarischer sup=barbarischsten
+barmherzig adj cmp=barmherziger sup=barmherzigsten
 barock adj
 barrierefrei adj
 bärtig adj
@@ -144,6 +146,7 @@ brav adj cmp=braver sup=bravsten
 breit         adj cmp=breiter sup=breitesten
 bremisch adj
 brennbar adj
+bretonisch adj
 britisch adj
 bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten

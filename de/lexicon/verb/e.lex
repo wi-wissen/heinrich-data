@@ -345,6 +345,7 @@ erdolchen verb class=weak pp=erdolcht perf=haben
 erdrosseln verb class=weak pp=erdrosselt perf=haben
 erdulden verb class=weak pp=erduldet perf=haben
 ereignen verb class=weak pp=ereignet perf=haben refl=acc
+ereilen verb class=weak pp=ereilt perf=haben
 erfahren verb class=strong 3sg=erfährt past=erfuhr pp=erfahren subj2=erführe perf=haben
 erfassen verb class=weak pp=erfasst perf=haben
 erfinden verb class=strong 3sg=erfindet past=erfand pp=erfunden subj2=erfände perf=haben
@@ -412,6 +413,7 @@ ermächtigen verb class=weak pp=ermächtigt perf=haben
 ermahnen verb class=weak pp=ermahnt perf=haben
 ermannen verb class=weak pp=ermannt perf=haben refl=acc
 ermäßigen verb class=weak pp=ermäßigt perf=haben
+ermatten verb class=weak pp=ermattet perf=haben|sein
 ermessen verb class=strong 3sg=ermisst past=ermaß subj2=ermäße pp=ermessen perf=haben
 ermitteln verb class=weak pp=ermittelt perf=haben
 ermöglichen verb class=weak pp=ermöglicht perf=haben
@@ -484,6 +486,7 @@ ertragen verb class=strong 3sg=erträgt past=ertrug pp=ertragen subj2=ertrüge p
 ertränken verb class=weak pp=ertränkt perf=haben
 erträumen verb class=weak pp=erträumt perf=haben
 ertrinken verb class=strong 3sg=ertrinkt past=ertrank pp=ertrunken subj2=ertränke perf=sein
+ertüchtigen verb class=weak pp=ertüchtigt perf=haben
 erwachen verb class=weak pp=erwacht perf=sein
 erwachsen verb class=strong 3sg=erwächst past=erwuchs pp=erwachsen subj2=erwüchse perf=sein
 erwägen verb class=strong 3sg=erwägt past=erwog pp=erwogen subj2=erwöge perf=haben

@@ -8,4 +8,5 @@ unbedingt adv
 ungern adv type=manner
 unlängst adv type=time
 unterdessen adv type=time
+unterseits adv
 unversehens adv

@@ -1,3 +1,4 @@
+Jacht noun g=f gen=Jacht pl=Jachten
 Jacke noun g=f gen=Jacke pl=Jacken
 Jackett noun g=n gen=Jacketts pl=Jacketts|Jackette
 Jagd noun g=f gen=Jagd pl=Jagden
@@ -19,6 +20,7 @@ Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
 Japaner noun g=m gen=Japaners pl=Japaner
 Japanerin noun g=f gen=Japanerin pl=Japanerinnen
 Jarl noun g=m gen=Jarls pl=Jarle
+Jawort noun g=n gen=Jaworts|Jawortes pl=Jaworte
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
@@ -61,13 +63,16 @@ Jungfrau noun g=f gen=Jungfrau pl=Jungfrauen
 Jüngling noun g=m gen=Jünglings pl=Jünglinge
 Juni noun g=m sg=Juni,Juni|Junis,Juni,Juni pl=- note=month name; plural not used
 Junior noun g=m gen=Juniors pl=Junioren
+Juniorin noun g=f gen=Juniorin pl=Juniorinnen
 Junker noun g=m gen=Junkers pl=Junker
 Junktor noun g=m gen=Junktors pl=Junktoren
 Junta noun g=f gen=Junta pl=Junten|Juntas
 Jura noun g=n gen=Jura pl=- note=Jura studieren; used without article
+Jurisprudenz noun g=f gen=Jurisprudenz pl=- note=no plural
 Jurist noun g=m gen=Juristen pl=Juristen
 Juristin noun g=f gen=Juristin pl=Juristinnen
 Jury noun g=f gen=Jury pl=Jurys|Juries
 Jus noun g=n gen=Jus pl=- conf=80 note=law as a field of study (Jus studieren) or meat juice; gender of the sauce sense varies
 Justiz noun g=f gen=Justiz pl=- note=plural not used
 Juwel noun g=m|n gen=Juwels pl=Juwelen
+Juwelier noun g=m gen=Juweliers pl=Juweliere

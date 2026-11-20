@@ -55,6 +55,8 @@ nordisch adj
 nördlich adj cmp=nördlicher sup=nördlichsten note=also a genitive preposition (closed/prepositions.lex)
 nordrhein-westfälisch adj
 normal adj cmp=normaler sup=normalsten
+normalspurig adj
+normannisch adj
 norwegisch adj
 notariell adj
 nötig adj cmp=nötiger sup=nötigsten

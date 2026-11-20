@@ -1,5 +1,7 @@
 Waage noun g=f gen=Waage pl=Waagen
+Wabe noun g=f gen=Wabe pl=Waben
 Wache noun g=f gen=Wache pl=Wachen
+Wacholder noun g=m gen=Wacholders pl=Wacholder
 Wachs noun g=n gen=Wachses pl=Wachse
 Wachstum noun g=n gen=Wachstums pl=- note=mass noun
 Wachtel noun g=f gen=Wachtel pl=Wachteln
@@ -62,6 +64,7 @@ Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
 Wärter noun g=m gen=Wärters pl=Wärter
 Wärterin noun g=f gen=Wärterin pl=Wärterinnen
 Wartung noun g=f gen=Wartung pl=Wartungen
+Warze noun g=f gen=Warze pl=Warzen
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
 Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
 Waschlappen noun g=m gen=Waschlappens pl=Waschlappen
@@ -137,6 +140,7 @@ Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen
 Werdegang noun g=m gen=Werdegangs|Werdeganges pl=Werdegänge
 Werder noun g=m gen=Werders pl=Werder note=river island
+Werfer noun g=m gen=Werfers pl=Werfer
 Werft noun g=f gen=Werft pl=Werften
 Werk noun g=n gen=Werkes|Werks pl=Werke
 Werken noun g=n gen=Werkens pl=- note=school subject; no plural
@@ -147,6 +151,7 @@ Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
 Wertung noun g=f gen=Wertung pl=Wertungen
 Wesen noun g=n gen=Wesens pl=Wesen
+Wesir noun g=m gen=Wesirs pl=Wesire
 Wespe noun g=f gen=Wespe pl=Wespen
 West noun g=m gen=Wests pl=- conf=70 note=compass direction in set phrases and as first element of names; usually Westen
 Weste noun g=f gen=Weste pl=Westen
@@ -180,6 +185,7 @@ Wiedergutmachung noun g=f gen=Wiedergutmachung pl=- note=no plural
 Wiederherstellung noun g=f gen=Wiederherstellung pl=- note=no plural
 Wiederholung noun g=f gen=Wiederholung pl=Wiederholungen
 Wiederkehr noun g=f gen=Wiederkehr pl=- note=no plural
+Wiederkunft noun g=f gen=Wiederkunft pl=- note=no plural
 Wiedersehen noun g=n gen=Wiedersehens pl=Wiedersehen
 Wiedervereinigung noun g=f gen=Wiedervereinigung pl=Wiedervereinigungen
 Wiedervorlage noun g=f gen=Wiedervorlage pl=Wiedervorlagen
@@ -220,12 +226,14 @@ Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
 Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
 Wirren noun g=pl
+Wirrwarr noun g=m gen=Wirrwarrs pl=- note=no plural
 Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
 Wirtel noun g=m gen=Wirtels pl=Wirtel
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
 Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
 Wirtschaftlichkeit noun g=f gen=Wirtschaftlichkeit pl=- note=no plural
 Wirtschaftswunder noun g=n gen=Wirtschaftswunders pl=- note=no plural
+Wisch noun g=m gen=Wisches|Wischs pl=Wische
 Wisent noun g=m gen=Wisents pl=Wisente
 Wismut noun g=n gen=Wismuts pl=- note=chemical element
 Wissen noun g=n gen=Wissens pl=- note=knowledge; mass noun
@@ -243,6 +251,7 @@ Wochenende noun g=n gen=Wochenendes pl=Wochenenden
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
+Wohlsein noun g=n gen=Wohlseins pl=- note=no plural
 Wohlstand noun g=m gen=Wohlstands|Wohlstandes pl=- note=no plural
 Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
 Wohnblock noun g=m gen=Wohnblocks pl=Wohnblöcke|Wohnblocks
@@ -279,6 +288,7 @@ Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
+Wucherer noun g=m gen=Wucherers pl=Wucherer
 Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
@@ -295,6 +305,7 @@ Würstchen noun g=n gen=Würstchens pl=Würstchen
 Würzburger noun g=m gen=Würzburgers pl=Würzburger note=inhabitant of Würzburg
 Würze noun g=f gen=Würze pl=Würzen
 Wurzel noun g=f gen=Wurzel pl=Wurzeln
+Wust noun g=m gen=Wustes|Wusts pl=- note=no plural
 Wüste noun g=f gen=Wüste pl=Wüsten
 Wüstung noun g=f gen=Wüstung pl=Wüstungen
 Wut noun g=f gen=Wut pl=- note=no plural

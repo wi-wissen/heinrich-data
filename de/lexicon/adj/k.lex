@@ -13,6 +13,7 @@ kapitalistisch adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
+karolingisch adj
 kasachisch adj
 katalanisch adj
 katastrophal adj
@@ -25,10 +26,12 @@ keltisch adj
 kenianisch adj
 kenntlich adj cmp=kenntlicher sup=kenntlichsten
 kennzeichnungspflichtig adj
+keusch adj cmp=keuscher sup=keuschesten
 kinderlos adj
 kindgerecht adj cmp=kindgerechter sup=kindgerechtesten
 kindisch adj cmp=kindischer sup=kindischsten
 kindlich adj cmp=kindlicher sup=kindlichsten
+kinetisch adj
 kirchlich adj
 kläglich adj
 klar adj cmp=klarer sup=klarsten
@@ -113,6 +116,7 @@ kühn adj cmp=kühner sup=kühnsten
 kulant adj cmp=kulanter sup=kulantesten
 kultisch adj
 kulturell adj
+kümmerlich adj cmp=kümmerlicher sup=kümmerlichsten
 kündbar adj
 kundig adj cmp=kundiger sup=kundigsten
 künftig adj

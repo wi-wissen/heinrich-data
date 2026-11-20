@@ -1,5 +1,6 @@
 taff adj cmp=taffer sup=taffsten
 täglich adj
+taiwanisch adj
 taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
 tansanisch adj
@@ -75,6 +76,7 @@ trunken adj cmp=trunkener sup=trunkensten
 tschechisch adj
 tschechoslowakisch adj
 tüchtig adj cmp=tüchtiger sup=tüchtigsten
+tückisch adj cmp=tückischer sup=tückischsten
 tunesisch adj
 türkis adj indecl
 türkisch adj

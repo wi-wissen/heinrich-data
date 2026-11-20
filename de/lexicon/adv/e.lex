@@ -18,6 +18,8 @@ einstweilen adv type=time
 empor adv type=direction
 erfahrungsgemäß adv
 erforderlichenfalls adv
+erfreulicherweise adv
 erstlich adv style=archaic note=firstly
 erstmals adv type=time
+ewiglich adv style=archaic
 extra adv type=degree

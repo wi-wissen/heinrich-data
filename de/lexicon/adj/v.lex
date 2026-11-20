@@ -22,6 +22,7 @@ verbindlich adj
 verbittert adj cmp=verbitterter sup=verbittertsten
 verbrecherisch adj
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
+verderblich adj cmp=verderblicher sup=verderblichsten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
 verdrießlich adj cmp=verdrießlicher sup=verdrießlichsten
@@ -35,6 +36,7 @@ vergänglich adj
 vergeblich adj
 vergesslich adj cmp=vergesslicher sup=vergesslichsten
 vergleichbar adj
+vergnüglich adj cmp=vergnüglicher sup=vergnüglichsten
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verhängnisvoll adj cmp=verhängnisvoller sup=verhängnisvollsten
@@ -45,6 +47,7 @@ verklebt adj cmp=verklebter sup=verklebtesten
 verknittert adj
 verlässlich adj cmp=verlässlicher sup=verlässlichsten
 verliebt adj cmp=verliebter sup=verliebtesten
+verlogen adj cmp=verlogener sup=verlogensten
 verlustig adj pred_only note=einer Sache verlustig gehen
 vermeintlich adj
 vermessen adj cmp=vermessener sup=vermessensten sense=bold
@@ -79,6 +82,7 @@ vertragswidrig adj
 vertraulich adj cmp=vertraulicher sup=vertraulichsten
 verunsichert adj cmp=verunsicherter sup=verunsichertsten
 verwandt adj cmp=verwandter sup=verwandtesten
+verwegen adj cmp=verwegener sup=verwegensten
 verwerflich adj cmp=verwerflicher sup=verwerflichsten
 verwirrt adj cmp=verwirrter sup=verwirrtesten
 verwitwet adj
@@ -94,6 +98,8 @@ vielfältig adj
 vielseitig adj cmp=vielseitiger sup=vielseitigsten
 vierbändig adj
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
+viertklassig adj
+vietnamesisch adj
 violett adj
 viral adj
 virtuell adj
@@ -129,6 +135,7 @@ vorsätzlich adj
 vorschriftsgemäß adj
 vorsichtig adj
 vorsorglich adj
+vorstellig adj pred_only note=vorstellig werden
 vorteilhaft adj cmp=vorteilhafter sup=vorteilhaftesten
 vortrefflich adj
 vorwiegend adj

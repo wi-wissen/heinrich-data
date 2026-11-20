@@ -327,6 +327,8 @@ anhalten verb class=strong sep=an 3sg=anhält past=anhielt pp=angehalten subj2=a
 anhängen verb class=weak sep=an pp=angehängt perf=haben sense=attach
 anhäufen verb class=weak sep=an pp=angehäuft perf=haben
 anheben verb class=strong sep=an 3sg=anhebt past=anhob pp=angehoben subj2=anhöbe perf=haben
+anheimfallen verb class=strong sep=anheim 3sg=anheimfällt past=anheimfiel pp=anheimgefallen subj2=anheimfiele perf=sein
+anheimstellen verb class=weak sep=anheim pp=anheimgestellt perf=haben
 anheizen verb class=weak sep=an pp=angeheizt perf=haben
 anheuern verb class=weak sep=an pp=angeheuert perf=haben
 anhimmeln verb class=weak sep=an pp=angehimmelt perf=haben

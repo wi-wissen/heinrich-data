@@ -9,9 +9,11 @@ ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
 bändigen verb class=weak pp=gebändigt perf=haben
 bannen verb class=weak pp=gebannt perf=haben
+barockisieren verb class=weak pp=barockisiert perf=haben
 basieren verb class=weak pp=basiert perf=haben
 basteln verb class=weak pp=gebastelt perf=haben
 bauen         verb class=weak pp=gebaut perf=haben
+bäumen verb class=weak pp=gebäumt perf=haben refl=acc
 bauschen verb class=weak pp=gebauscht perf=haben
 beabsichtigen verb class=weak pp=beabsichtigt perf=haben
 beachten verb class=weak pp=beachtet perf=haben
@@ -52,6 +54,7 @@ befehligen verb class=weak pp=befehligt perf=haben
 befestigen verb class=weak pp=befestigt perf=haben
 befeuern verb class=weak pp=befeuert perf=haben
 befinden      verb class=strong refl=acc 3sg=befindet past=befand pp=befunden subj2=befände perf=haben
+beflecken verb class=weak pp=befleckt perf=haben
 befolgen verb class=weak pp=befolgt perf=haben
 befördern     verb class=weak pp=befördert perf=haben
 befragen verb class=weak pp=befragt perf=haben
@@ -133,6 +136,7 @@ bekümmern verb class=weak pp=bekümmert perf=haben
 bekunden verb class=weak pp=bekundet perf=haben
 beladen verb class=strong 3sg=belädt past=belud pp=beladen subj2=belüde perf=haben
 belagern verb class=weak pp=belagert perf=haben
+belangen verb class=weak pp=belangt perf=haben
 belassen verb class=strong 3sg=belässt past=beließ pp=belassen subj2=beließe perf=haben
 belasten verb class=weak pp=belastet perf=haben
 belästigen verb class=weak pp=belästigt perf=haben
@@ -148,6 +152,7 @@ beliefern verb class=weak pp=beliefert perf=haben
 bellen verb class=weak pp=gebellt perf=haben
 belohnen verb class=weak pp=belohnt perf=haben
 belügen verb class=strong 3sg=belügt past=belog subj2=belöge pp=belogen perf=haben
+belustigen verb class=weak pp=belustigt perf=haben
 bemächtigen verb class=weak pp=bemächtigt perf=haben refl=acc note=sich einer Sache bemächtigen (genitive object)
 bemalen verb class=weak pp=bemalt perf=haben
 bemängeln verb class=weak pp=bemängelt perf=haben
@@ -314,6 +319,7 @@ bewundern verb class=weak pp=bewundert perf=haben
 bezahlen      verb class=weak pp=bezahlt perf=haben
 bezaubern verb class=weak pp=bezaubert perf=haben
 bezeichnen    verb class=weak pp=bezeichnet perf=haben
+bezeigen verb class=weak pp=bezeigt perf=haben
 bezeugen verb class=weak pp=bezeugt perf=haben
 bezichtigen verb class=weak pp=bezichtigt perf=haben
 beziehen      verb class=strong 3sg=bezieht past=bezog pp=bezogen subj2=bezöge perf=haben

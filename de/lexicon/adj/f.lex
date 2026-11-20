@@ -11,10 +11,12 @@ fällig adj
 falsch adj cmp=falscher sup=falschesten
 fälschlich adj
 familiär adj cmp=familiärer sup=familiärsten
+famos adj cmp=famoser sup=famosesten
 fantastisch adj cmp=fantastischer sup=fantastischsten
 farbenfroh adj cmp=farbenfroher sup=farbenfrohsten
 farbig adj cmp=farbiger sup=farbigsten
 farblich adj
+färöisch adj
 faschistisch adj
 fatal adj cmp=fataler sup=fatalsten
 faul adj cmp=fauler sup=faulsten
@@ -40,6 +42,7 @@ fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 figürlich adj
 fiktiv adj
+filmisch adj
 final adj
 finanziell adj
 findig adj
@@ -53,6 +56,7 @@ flämisch adj
 flaumig adj cmp=flaumiger sup=flaumigsten
 flauschig adj cmp=flauschiger sup=flauschigsten
 fleckig adj cmp=fleckiger sup=fleckigsten
+flehentlich adj
 fleißig adj cmp=fleißiger sup=fleißigsten
 flexibel adj cmp=flexibler sup=flexibelsten
 flink adj cmp=flinker sup=flinksten
@@ -75,6 +79,7 @@ französisch adj
 französischsprachig adj
 frech adj cmp=frecher sup=frechsten
 frei adj cmp=freier sup=freiesten|freisten[rare]
+freigebig adj cmp=freigebiger sup=freigebigsten
 freiwillig adj
 fremd adj cmp=fremder sup=fremdesten
 fremdsprachig adj
@@ -90,6 +95,7 @@ fromm adj cmp=frömmer|frommer sup=frömmsten|frommsten
 frostig adj cmp=frostiger sup=frostigsten
 fruchtbar adj cmp=fruchtbarer sup=fruchtbarsten
 früh adj cmp=früher sup=frühesten
+frühestmöglich adj
 frühlingshaft adj cmp=frühlingshafter sup=frühlingshaftesten
 frühzeitig adj
 fundamental adj

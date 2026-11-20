@@ -3,6 +3,7 @@ Quadrat noun g=n gen=Quadrats|Quadrates pl=Quadrate
 Quadratkilometer noun g=m gen=Quadratkilometers pl=Quadratkilometer
 Quadratmeter noun g=m|n gen=Quadratmeters pl=Quadratmeter
 Qual noun g=f gen=Qual pl=Qualen
+Qualifikant noun g=m gen=Qualifikanten pl=Qualifikanten
 Qualifikation noun g=f gen=Qualifikation pl=Qualifikationen
 Qualifizierung noun g=f gen=Qualifizierung pl=Qualifizierungen
 Qualität noun g=f gen=Qualität pl=Qualitäten
@@ -26,6 +27,8 @@ Quereinsteigerin noun g=f gen=Quereinsteigerin pl=Quereinsteigerinnen
 Querflöte noun g=f gen=Querflöte pl=Querflöten
 Querschnitt noun g=m gen=Querschnitts|Querschnittes pl=Querschnitte
 Quiche noun g=f gen=Quiche pl=Quiches
+Quint noun g=f gen=Quint pl=Quinten
+Quintett noun g=n gen=Quintetts|Quintettes pl=Quintette
 Quittung noun g=f gen=Quittung pl=Quittungen
 Quizshow noun g=f gen=Quizshow pl=Quizshows
 Quorum noun g=n gen=Quorums pl=Quoren

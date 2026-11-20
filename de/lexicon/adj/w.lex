@@ -60,6 +60,7 @@ witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlfeil adj cmp=wohlfeiler sup=wohlfeilsten
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
+wohlig adj cmp=wohliger sup=wohligsten
 wohlriechend adj
 wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
 wohnhaft adj note=wohnhaft in Berlin

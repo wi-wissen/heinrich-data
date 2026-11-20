@@ -51,10 +51,13 @@ Nahverkehr noun g=m gen=Nahverkehrs pl=- note=no plural (mass or abstract noun)
 Naivität noun g=f gen=Naivität pl=- note=mass noun
 Name         noun g=m gen=Namens pl=Namen
 Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
+Nanny noun g=f gen=Nanny pl=Nannys
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
 Narkose noun g=f gen=Narkose pl=Narkosen
 Narr noun g=m gen=Narren pl=Narren
+Narrativ noun g=n gen=Narrativs pl=Narrative
+Narrheit noun g=f gen=Narrheit pl=Narrheiten
 Narzisse noun g=f gen=Narzisse pl=Narzissen
 Narzissenbeet noun g=n gen=Narzissenbeets pl=Narzissenbeete
 Nase noun g=f gen=Nase pl=Nasen
@@ -69,11 +72,14 @@ Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
 Nationalsozialistin noun g=f gen=Nationalsozialistin pl=Nationalsozialistinnen
 Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
 Natrium noun g=n gen=Natriums pl=- note=chemical element
+Natter noun g=f gen=Natter pl=Nattern
 Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temperaments/characters
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
 Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
+Naturell noun g=n gen=Naturells pl=Naturelle
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Navigation noun g=f gen=Navigation pl=- note=mass noun
+Navigator noun g=m gen=Navigators pl=Navigatoren
 Nazi noun g=m gen=Nazis pl=Nazis
 Neandertaler noun g=m gen=Neandertalers pl=Neandertaler
 Nebel noun g=m gen=Nebels pl=Nebel
@@ -84,6 +90,7 @@ Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
 Nebenstraße noun g=f gen=Nebenstraße pl=Nebenstraßen
 Neffe noun g=m gen=Neffen pl=Neffen
 Negation noun g=f gen=Negation pl=Negationen
+Negativität noun g=f gen=Negativität pl=- note=no plural
 Neger noun g=m gen=Negers pl=Neger style=archaic|offensive alt=Schwarze_Menschen note=offensive today; seen in older literature
 Negerin noun g=f gen=Negerin pl=Negerinnen style=archaic|offensive alt=Schwarze_Frau note=offensive today; older literature
 Negerkuss noun g=m gen=Negerkusses pl=Negerküsse style=offensive alt=Schokokuss
@@ -99,6 +106,7 @@ Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neodym noun g=n gen=Neodyms pl=- note=chemical element
 Neogen noun g=n gen=Neogens pl=- note=geological period
+Neolithikum noun g=n gen=Neolithikums pl=- note=epoch
 Neologismus noun g=m gen=Neologismus pl=Neologismen
 Neon noun g=n gen=Neons pl=- note=chemical element; noble gas
 Neonazi noun g=m gen=Neonazis pl=Neonazis
@@ -107,6 +115,7 @@ Neptunium noun g=n gen=Neptuniums pl=- note=chemical element
 Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
+Nerz noun g=m gen=Nerzes pl=Nerze
 Nest noun g=n gen=Nests|Nestes pl=Nester
 Networking noun g=n gen=Networkings pl=- note=mass noun
 Netz noun g=n gen=Netzes pl=Netze
@@ -117,15 +126,18 @@ Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
 Neujahr noun g=n gen=Neujahrs pl=Neujahre
 Neuling noun g=m gen=Neulings pl=Neulinge
+Neuroleptikum noun g=n gen=Neuroleptikums pl=Neuroleptika
 Neurologe noun g=m gen=Neurologen pl=Neurologen
 Neurologie noun g=f gen=Neurologie pl=- note=field of medicine
 Neurologin noun g=f gen=Neurologin pl=Neurologinnen
+Neurotiker noun g=m gen=Neurotikers pl=Neurotiker
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutrino noun g=n gen=Neutrinos pl=Neutrinos
 Neutron noun g=n gen=Neutrons pl=Neutronen
 Neutrum noun g=n gen=Neutrums pl=Neutra|Neutren
 Neuzeit noun g=f gen=Neuzeit pl=- note=no plural
 Newcomer noun g=m gen=Newcomers pl=Newcomer
+News noun g=pl note=English loanword, plural only
 Newsletter noun g=m gen=Newsletters pl=Newsletter
 NGO noun g=f gen=NGO pl=NGOs
 Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die Nibelungen
@@ -141,9 +153,11 @@ Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
 Niederung noun g=f gen=Niederung pl=Niederungen
 Niere noun g=f gen=Niere pl=Nieren
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
+Nießbrauch noun g=m gen=Nießbrauchs|Nießbrauches pl=- note=legal term, no plural
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
 Nihonium noun g=n gen=Nihoniums pl=- note=chemical element
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
+Nikotin noun g=n gen=Nikotins pl=- note=mass noun
 Nilpferd noun g=n gen=Nilpferds pl=Nilpferde
 Nimbus noun g=m gen=Nimbus pl=Nimbusse note=no genitive ending
 Niob noun g=n gen=Niobs pl=- note=chemical element
@@ -151,6 +165,7 @@ Nische noun g=f gen=Nische pl=Nischen
 Nitrat noun g=n gen=Nitrats|Nitrates pl=Nitrate
 Nitrid noun g=n gen=Nitrids|Nitrides pl=Nitride
 Niveau noun g=n gen=Niveaus pl=Niveaus
+Nixe noun g=f gen=Nixe pl=Nixen
 Nobelium noun g=n gen=Nobeliums pl=- note=chemical element
 Nocken noun g=m gen=Nockens pl=Nocken
 Nomade noun g=m gen=Nomaden pl=Nomaden
@@ -183,6 +198,7 @@ Nougat noun g=m|n gen=Nougats pl=Nougats
 Novelle noun g=f gen=Novelle pl=Novellen
 Novellierung noun g=f gen=Novellierung pl=Novellierungen
 November noun g=m gen=November|Novembers pl=November[rare] note=month name; plural rare
+Noviziat noun g=n gen=Noviziats|Noviziates pl=Noviziate
 Novum noun g=n gen=Novums pl=Nova
 Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
@@ -199,6 +215,7 @@ Nuntius noun g=m gen=Nuntius pl=Nuntien note=papal envoy; bare genitive
 Nürnberger noun g=m gen=Nürnbergers pl=Nürnberger note=inhabitant of Nuremberg; also the indeclinable adjective
 Nuss noun g=f gen=Nuss pl=Nüsse
 Nussknacker noun g=m gen=Nussknackers pl=Nussknacker
+Nüster noun g=f gen=Nüster pl=Nüstern
 Nutella noun g=n gen=Nutellas pl=-  note=brand name used as common noun
 Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer

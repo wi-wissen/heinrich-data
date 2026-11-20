@@ -11,6 +11,7 @@ Fächer noun g=m gen=Fächers pl=Fächer sense=fan note=der Fächer; fan (not th
 Fachhochschule noun g=f gen=Fachhochschule pl=Fachhochschulen
 Fackel noun g=f gen=Fackel pl=Fackeln
 Faden noun g=m gen=Fadens pl=Fäden
+Fagott noun g=n gen=Fagotts|Fagottes pl=Fagotte
 Fähigkeit noun g=f gen=Fähigkeit pl=Fähigkeiten
 Fahndung noun g=f gen=Fahndung pl=Fahndungen
 Fahne noun g=f gen=Fahne pl=Fahnen
@@ -55,6 +56,7 @@ Falte noun g=f gen=Falte pl=Falten
 Falter noun g=m gen=Falters pl=Falter
 Familie noun g=f gen=Familie pl=Familien
 Fan noun g=m gen=Fans pl=Fans
+Fanatiker noun g=m gen=Fanatikers pl=Fanatiker
 Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
@@ -86,6 +88,7 @@ Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
+Fauteuil noun g=m gen=Fauteuils pl=Fauteuils
 Favorit noun g=m gen=Favoriten pl=Favoriten
 Fax noun g=n gen=Faxes pl=Faxe
 Fazit noun g=n gen=Fazits pl=Fazits|Fazite
@@ -112,6 +115,8 @@ Feige noun g=f gen=Feige pl=Feigen
 Feigheit noun g=f gen=Feigheit pl=- note=mass noun
 Feigling noun g=m gen=Feiglings pl=Feiglinge
 Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
+Feindin noun g=f gen=Feindin pl=Feindinnen
+Feindlichkeit noun g=f gen=Feindlichkeit pl=Feindlichkeiten
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
 Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
@@ -151,6 +156,7 @@ Festsetzung noun g=f gen=Festsetzung pl=Festsetzungen
 Feststellung noun g=f gen=Feststellung pl=Feststellungen
 Festung noun g=f gen=Festung pl=Festungen
 Fete noun g=f gen=Fete pl=Feten
+Fetisch noun g=m gen=Fetischs|Fetisches pl=Fetische
 Fett noun g=n gen=Fetts|Fettes pl=Fette
 Fetzen noun g=m gen=Fetzens pl=Fetzen
 Feuchte noun g=f gen=Feuchte pl=- note=moisture; mass noun
@@ -162,6 +168,7 @@ Feuersbrunst noun g=f gen=Feuersbrunst pl=Feuersbrünste
 Feuerung noun g=f gen=Feuerung pl=Feuerungen
 Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
+Feuilleton noun g=n gen=Feuilletons pl=Feuilletons
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Fieder noun g=f gen=Fieder pl=Fiedern note=leaflet of a pinnate leaf
@@ -182,8 +189,10 @@ Finalist noun g=m gen=Finalisten pl=Finalisten
 Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and in the plural (die Finanzen)
 Finanzen noun g=pl
 Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
+Finder noun g=m gen=Finders pl=Finder
 Findung noun g=f gen=Findung pl=Findungen note=mostly in compounds (Terminfindung, Entscheidungsfindung)
 Finger noun g=m gen=Fingers pl=Finger
+Fingerzeig noun g=m gen=Fingerzeigs|Fingerzeiges pl=Fingerzeige
 Fink noun g=m gen=Finken pl=Finken
 Finne noun g=m gen=Finnen pl=Finnen sense=person note=inhabitant of Finland
 Finne noun g=f gen=Finne pl=Finnen sense=fin note=die Finne: fin; also a larval stage of tapeworms
@@ -201,6 +210,7 @@ Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
+Flair noun g=n gen=Flairs pl=- note=no plural
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
 Flanke noun g=f gen=Flanke pl=Flanken
@@ -230,18 +240,23 @@ Flinte noun g=f gen=Flinte pl=Flinten
 Flip-Flop noun g=m gen=Flip-Flops pl=Flip-Flops
 Flip-Flops noun g=pl
 Flipchart noun g=n|m gen=Flipcharts pl=Flipcharts
+Flipper noun g=m gen=Flippers pl=Flipper
 Flirt noun g=m gen=Flirts pl=Flirts
 Flitterwochen noun g=pl
 Flocke noun g=f gen=Flocke pl=Flocken
 Floh noun g=m gen=Flohes|Flohs pl=Flöhe
 Flohmarkt noun g=m gen=Flohmarkts pl=Flohmärkte
+Flop noun g=m gen=Flops pl=Flops
 Flora noun g=f gen=Flora pl=Floren|Floras
 Florentiner noun g=m gen=Florentiners pl=Florentiner note=inhabitant of Florence; also an almond biscuit
+Florett noun g=n gen=Floretts|Florettes pl=Florette
 Floskel noun g=f gen=Floskel pl=Floskeln
 Flosse noun g=f gen=Flosse pl=Flossen
 Flöte noun g=f gen=Flöte pl=Flöten
+Flötist noun g=m gen=Flötisten pl=Flötisten
 Flotte noun g=f gen=Flotte pl=Flotten
 Flottille noun g=f gen=Flottille pl=Flottillen
+Flöz noun g=n gen=Flözes pl=Flöze
 Fluch noun g=m gen=Fluchs|Fluches pl=Flüche
 Flucht noun g=f gen=Flucht pl=Fluchten
 Flüchtigkeit noun g=f gen=Flüchtigkeit pl=- note=no plural
@@ -333,6 +348,7 @@ Franziskaner noun g=m gen=Franziskaners pl=Franziskaner
 Franzose noun g=m gen=Franzosen pl=Franzosen
 Französin noun g=f gen=Französin pl=Französinnen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
+Fratze noun g=f gen=Fratze pl=Fratzen
 Frau         noun g=f gen=Frau pl=Frauen
 Frauenrechtler noun g=m gen=Frauenrechtlers pl=Frauenrechtler
 Frauenrechtlerin noun g=f gen=Frauenrechtlerin pl=Frauenrechtlerinnen
@@ -348,6 +364,7 @@ Freibeuterei noun g=f gen=Freibeuterei pl=Freibeutereien
 Freiburger noun g=m gen=Freiburgers pl=Freiburger note=inhabitant of Freiburg
 Freier noun g=m gen=Freiers pl=Freier
 Freigabe noun g=f gen=Freigabe pl=Freigaben note=plural common in IT and administration (Ordnerfreigaben, Freigaben erteilen)
+Freigebigkeit noun g=f gen=Freigebigkeit pl=- note=no plural
 Freihandel noun g=m gen=Freihandels pl=- note=no plural
 Freiheit noun g=f gen=Freiheit pl=Freiheiten
 Freiherr noun g=m gen=Freiherrn pl=Freiherren
@@ -369,6 +386,7 @@ Freundin noun g=f gen=Freundin pl=Freundinnen
 Freundlichkeit noun g=f gen=Freundlichkeit pl=Freundlichkeiten
 Freundschaft noun g=f gen=Freundschaft pl=Freundschaften
 Frevel noun g=m gen=Frevels pl=Frevel
+Frevler noun g=m gen=Frevlers pl=Frevler
 Friede noun g=m gen=Friedens pl=Frieden
 Frieden noun g=m gen=Friedens pl=Frieden note=also Friede
 Friedhof noun g=m gen=Friedhofs|Friedhofes pl=Friedhöfe
@@ -413,10 +431,12 @@ Füller noun g=m gen=Füllers pl=Füller
 Füllung noun g=f gen=Füllung pl=Füllungen
 Fund noun g=m gen=Fundes|Funds pl=Funde
 Fundament noun g=n gen=Fundaments|Fundamentes pl=Fundamente
+Fundus noun g=m gen=Fundus pl=Fundus note=genitive and plural unchanged (des Fundus)
 Fünftel noun g=n gen=Fünftels pl=Fünftel
 Funk noun g=m gen=Funks pl=- note=no plural
 Funke noun g=m gen=Funkens pl=Funken
 Funken noun g=m gen=Funkens pl=Funken
+Funker noun g=m gen=Funkers pl=Funker
 Funktion noun g=f gen=Funktion pl=Funktionen
 Funktionalität noun g=f gen=Funktionalität pl=Funktionalitäten
 Funktionär noun g=m gen=Funktionärs pl=Funktionäre

@@ -1,4 +1,5 @@
 Zacken noun g=m gen=Zackens pl=Zacken
+Zähigkeit noun g=f gen=Zähigkeit pl=- note=no plural
 Zahl noun g=f gen=Zahl pl=Zahlen
 Zahler noun g=m gen=Zahlers pl=Zahler
 Zähler noun g=m gen=Zählers pl=Zähler
@@ -66,6 +67,7 @@ Zentrum noun g=n gen=Zentrums pl=Zentren
 Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
 Zepter noun g=n gen=Zepters pl=Zepter
 Zeremonie noun g=f gen=Zeremonie pl=Zeremonien
+Zeremoniell noun g=n gen=Zeremoniells pl=Zeremonielle
 Zerfall noun g=m gen=Zerfalls|Zerfalles pl=- note=no plural
 Zerrung noun g=f gen=Zerrung pl=Zerrungen
 Zerstörer noun g=m gen=Zerstörers pl=Zerstörer
@@ -73,6 +75,7 @@ Zerstörerin noun g=f gen=Zerstörerin pl=Zerstörerinnen
 Zerstörung noun g=f gen=Zerstörung pl=Zerstörungen
 Zertifikat noun g=n gen=Zertifikats|Zertifikates pl=Zertifikate
 Zertifizierung noun g=f gen=Zertifizierung pl=Zertifizierungen
+Zerwürfnis noun g=n gen=Zerwürfnisses pl=Zerwürfnisse
 Zettel noun g=m gen=Zettels pl=Zettel
 Zeug noun g=n gen=Zeugs|Zeuges pl=- note=no plural
 Zeuge noun g=m gen=Zeugen pl=Zeugen
@@ -105,6 +108,7 @@ Zinn noun g=n gen=Zinns|Zinnes pl=- note=metal
 Zinne noun g=f gen=Zinne pl=Zinnen
 Zins noun g=m gen=Zinses pl=Zinsen
 Zinsen noun g=pl
+Zionismus noun g=m gen=Zionismus pl=- note=no plural
 Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirconium noun g=n gen=Zirconiums pl=- note=chemical element; also Zirkonium
 Zirkel noun g=m gen=Zirkels pl=Zirkel
@@ -113,6 +117,7 @@ Zirkus noun g=m gen=Zirkusses pl=Zirkusse
 Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
 Zitadelle noun g=f gen=Zitadelle pl=Zitadellen
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
+Zither noun g=f gen=Zither pl=Zithern
 Zitrone noun g=f gen=Zitrone pl=Zitronen
 Zivi noun g=m gen=Zivis pl=Zivis
 Zivil noun g=n gen=Zivils pl=- note=in Zivil; no plural
@@ -156,6 +161,7 @@ Zufuhr noun g=f gen=Zufuhr pl=Zufuhren
 Zug noun g=m gen=Zuges|Zugs[rare] pl=Züge
 Zugabe noun g=f gen=Zugabe pl=Zugaben
 Zugang noun g=m gen=Zugangs|Zuganges[rare] pl=Zugänge
+Zugänglichmachung noun g=f gen=Zugänglichmachung pl=Zugänglichmachungen
 Zugehörigkeit noun g=f gen=Zugehörigkeit pl=- note=no plural
 Zügel noun g=m gen=Zügels pl=Zügel
 Zugriff noun g=m gen=Zugriffs|Zugriffes pl=Zugriffe
@@ -170,6 +176,7 @@ Zulässigkeit noun g=f gen=Zulässigkeit pl=- note=no plural
 Zulassung noun g=f gen=Zulassung pl=Zulassungen
 Zulieferer noun g=m gen=Zulieferers pl=Zulieferer
 Zunahme noun g=f gen=Zunahme pl=Zunahmen
+Zünder noun g=m gen=Zünders pl=Zünder
 Zündung noun g=f gen=Zündung pl=Zündungen
 Zuneigung noun g=f gen=Zuneigung pl=- note=no plural in practice
 Zunft noun g=f gen=Zunft pl=Zünfte
@@ -180,6 +187,7 @@ Zürcher noun g=m gen=Zürchers pl=Zürcher note=inhabitant of Zürich; also ind
 Zurückhaltung noun g=f gen=Zurückhaltung pl=- note=no plural
 Zurücksetzung noun g=f gen=Zurücksetzung pl=Zurücksetzungen
 Zurückweisung noun g=f gen=Zurückweisung pl=Zurückweisungen
+Zurverfügungstellung noun g=f gen=Zurverfügungstellung pl=Zurverfügungstellungen
 Zusage noun g=f gen=Zusage pl=Zusagen
 Zusammenarbeit noun g=f gen=Zusammenarbeit pl=- note=mass noun
 Zusammenbruch noun g=m gen=Zusammenbruchs|Zusammenbruches pl=Zusammenbrüche
@@ -190,6 +198,7 @@ Zusammenkunft noun g=f gen=Zusammenkunft pl=Zusammenkünfte
 Zusammenleben noun g=n gen=Zusammenlebens pl=- note=no plural
 Zusammenlegung noun g=f gen=Zusammenlegung pl=Zusammenlegungen
 Zusammenschreibung noun g=f gen=Zusammenschreibung pl=- note=no plural
+Zusammensein noun g=n gen=Zusammenseins pl=- note=no plural
 Zusammensetzung noun g=f gen=Zusammensetzung pl=Zusammensetzungen
 Zusammenspiel noun g=n gen=Zusammenspiels pl=- note=no plural
 Zusammenstellung noun g=f gen=Zusammenstellung pl=Zusammenstellungen
@@ -232,6 +241,7 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwielicht noun g=n gen=Zwielichts|Zwielichtes pl=- note=mass noun
 Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwietracht noun g=f gen=Zwietracht pl=- note=mass noun
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
@@ -239,7 +249,9 @@ Zwinger noun g=m gen=Zwingers pl=Zwinger
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zwist noun g=m gen=Zwists|Zwistes pl=Zwiste
 Zygote noun g=f gen=Zygote pl=Zygoten
+Zyklon noun g=m gen=Zyklons pl=Zyklone
 Zyklotron noun g=n gen=Zyklotrons pl=Zyklotrone
 Zyklus noun g=m gen=Zyklus pl=Zyklen note=bare genitive of an -us noun
 Zylinder noun g=m gen=Zylinders pl=Zylinder
 Zynismus noun g=m gen=Zynismus pl=Zynismen
+Zypresse noun g=f gen=Zypresse pl=Zypressen

@@ -38,6 +38,7 @@ unbegreiflich adj cmp=unbegreiflicher sup=unbegreiflichsten
 unbegründet adj
 unbehelligt adj
 unbeholfen adj cmp=unbeholfener sup=unbeholfensten
+unbeirrt adj
 unbekannt adj cmp=unbekannter sup=unbekanntesten
 unbekümmert adj cmp=unbekümmerter sup=unbekümmertsten
 unbeliebt adj cmp=unbeliebter sup=unbeliebtesten
@@ -64,6 +65,8 @@ unerlässlich adj
 unerledigt adj
 unermüdlich adj
 unerreichbar adj
+unerschöpflich adj cmp=unerschöpflicher sup=unerschöpflichsten
+unerschütterlich adj cmp=unerschütterlicher sup=unerschütterlichsten
 unerträglich adj
 unerwartet adj cmp=unerwarteter sup=unerwartetsten
 unfähig adj cmp=unfähiger sup=unfähigsten
@@ -135,6 +138,7 @@ unterhaltsam adj cmp=unterhaltsamer sup=unterhaltsamsten
 unterhaltspflichtig adj
 unterirdisch adj
 unterjährig adj
+unterklassig adj
 unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
@@ -178,3 +182,4 @@ urindogermanisch adj
 urkundlich adj
 ursprünglich adj
 uruguayisch adj
+usbekisch adj

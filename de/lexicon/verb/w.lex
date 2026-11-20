@@ -185,6 +185,7 @@ wiederentdecken verb class=weak sep=wieder pp=wiederentdeckt perf=haben
 wiedererkennen verb class=mixed sep=wieder 3sg=wiedererkennt past=wiedererkannte subj2=wiedererkennte pp=wiedererkannt perf=haben
 wiedererlangen verb class=weak sep=wieder pp=wiedererlangt perf=haben
 wiedereröffnen verb class=weak sep=wieder pp=wiedereröffnet perf=haben
+wiedererrichten verb class=weak sep=wieder pp=wiedererrichtet perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc
 wiedergeben verb class=strong sep=wieder 3sg=wiedergibt past=wiedergab pp=wiedergegeben subj2=wiedergäbe perf=haben
 wiedergewinnen verb class=strong sep=wieder 3sg=wiedergewinnt past=wiedergewann subj2=wiedergewönne|wiedergewänne pp=wiedergewonnen perf=haben
@@ -215,6 +216,7 @@ wirken verb class=weak pp=gewirkt perf=haben
 wischen verb class=weak pp=gewischt perf=haben
 wispern verb class=weak pp=gewispert perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben
+wittern verb class=weak pp=gewittert perf=haben
 wogen verb class=weak pp=gewogt perf=haben note=to surge (waves); not the strong wiegen/wägen
 wohnen verb class=weak pp=gewohnt perf=haben
 wölben verb class=weak pp=gewölbt perf=haben refl=acc

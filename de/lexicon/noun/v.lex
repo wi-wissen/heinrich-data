@@ -24,6 +24,7 @@ Veganerin noun g=f gen=Veganerin pl=Veganerinnen
 Vegetarier noun g=m gen=Vegetariers pl=Vegetarier
 Vegetarierin noun g=f gen=Vegetarierin pl=Vegetarierinnen
 Vegetation noun g=f gen=Vegetation pl=Vegetationen
+Vehikel noun g=n gen=Vehikels pl=Vehikel
 Veilchen noun g=n gen=Veilchens pl=Veilchen
 Vektor noun g=m gen=Vektors pl=Vektoren
 Vene noun g=f gen=Vene pl=Venen
@@ -65,10 +66,12 @@ Verbreiterung noun g=f gen=Verbreiterung pl=Verbreiterungen
 Verbreitung noun g=f gen=Verbreitung pl=- note=no plural
 Verbreitungsgebiet noun g=n gen=Verbreitungsgebiets|Verbreitungsgebietes pl=Verbreitungsgebiete
 Verbrennung noun g=f gen=Verbrennung pl=Verbrennungen
+Verbriefung noun g=f gen=Verbriefung pl=Verbriefungen
 Verbund noun g=m gen=Verbunds|Verbundes pl=Verbünde
 Verbundenheit noun g=f gen=Verbundenheit pl=- note=no plural
 Verbündete noun g=m|f decl=adj note=ally
 Verdacht noun g=m gen=Verdachts|Verdachtes pl=Verdachte|Verdächte[rare]
+Verdammnis noun g=f gen=Verdammnis pl=- note=no plural
 Verdauung noun g=f gen=Verdauung pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
 Verdiener noun g=m gen=Verdieners pl=Verdiener
@@ -106,11 +109,13 @@ Verführung noun g=f gen=Verführung pl=Verführungen
 Vergabe noun g=f gen=Vergabe pl=Vergaben
 Vergangenheit noun g=f gen=Vergangenheit pl=Vergangenheiten[rare]
 Vergänglichkeit noun g=f gen=Vergänglichkeit pl=- note=no plural
+Vergaser noun g=m gen=Vergasers pl=Vergaser
 Vergebung noun g=f gen=Vergebung pl=- note=no plural
 Vergehen noun g=n gen=Vergehens pl=Vergehen note=offence
 Vergeltung noun g=f gen=Vergeltung pl=- note=no plural
 Vergessenheit noun g=f gen=Vergessenheit pl=- note=no plural
 Vergewaltigung noun g=f gen=Vergewaltigung pl=Vergewaltigungen
+Vergissmeinnicht noun g=n gen=Vergissmeinnichts|Vergissmeinnichtes pl=Vergissmeinnicht|Vergissmeinnichte
 Vergleich noun g=m gen=Vergleichs|Vergleiches[rare] pl=Vergleiche
 Vergleichung noun g=f gen=Vergleichung pl=Vergleichungen conf=85 note=rare variant of Vergleich
 Vergnügen noun g=n gen=Vergnügens pl=Vergnügen
@@ -293,6 +298,7 @@ Verweigerer noun g=m gen=Verweigerers pl=Verweigerer
 Verweis noun g=m gen=Verweises pl=Verweise
 Verwendung noun g=f gen=Verwendung pl=Verwendungen
 Verwertung noun g=f gen=Verwertung pl=Verwertungen
+Verweser noun g=m gen=Verwesers pl=Verweser
 Verwirklichung noun g=f gen=Verwirklichung pl=- note=no plural in practice
 Verwirrung noun g=f gen=Verwirrung pl=Verwirrungen
 Verwitterung noun g=f gen=Verwitterung pl=Verwitterungen
@@ -310,6 +316,7 @@ Verzweiflung noun g=f gen=Verzweiflung pl=- note=no plural
 Vesper noun g=f gen=Vesper pl=Vespern sense=prayer note=evening prayer (die Vesper)
 Vesper noun g=n gen=Vespers pl=Vesper sense=snack conf=80 note=southern German snack (das Vesper); also feminine in this sense
 Veste noun g=f gen=Veste pl=Vesten note=fortress (Veste Coburg); older form of Feste
+Vestibül noun g=n gen=Vestibüls pl=Vestibüle
 Veteran noun g=m gen=Veteranen pl=Veteranen
 Veterinär noun g=m gen=Veterinärs pl=Veterinäre
 Veto noun g=n gen=Vetos pl=Vetos
@@ -342,6 +349,7 @@ Viper noun g=f gen=Viper pl=Vipern
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Visier noun g=n gen=Visiers pl=Visiere
 Vision noun g=f gen=Vision pl=Visionen
+Visite noun g=f gen=Visite pl=Visiten
 Visum noun g=n gen=Visums pl=Visa|Visen
 Vita noun g=f gen=Vita pl=Viten|Vitae,Viten|Vitae,Viten|Vitae,Viten|Vitae note=Latin plural Vitae has no dative -n
 Vitamin noun g=n gen=Vitamins pl=Vitamine
@@ -382,6 +390,7 @@ Volontariat noun g=n gen=Volontariats|Volontariates pl=Volontariate
 Volontärin noun g=f gen=Volontärin pl=Volontärinnen
 Volt noun g=n gen=Volt|Volts pl=Volt note=unit
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
+Vomhundertsatz noun g=m gen=Vomhundertsatzes pl=Vomhundertsätze
 Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen
 Vorauszahlung noun g=f gen=Vorauszahlung pl=Vorauszahlungen

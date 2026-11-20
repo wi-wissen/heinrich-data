@@ -3,11 +3,13 @@ baldmöglichst adv
 barfuß adv type=manner
 bedauerlicherweise adv type=modal
 bedeutend adv note=degree adverb (bedeutend besser)
+beidseits adv
 beileibe adv note=beileibe nicht
 beinah adv type=degree
 beisammen adv
 beiseite adv
 beispielsweise adv
+beizeiten adv
 bekanntermaßen adv type=modal
 bekanntlich adv
 bergab adv

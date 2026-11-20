@@ -29,6 +29,7 @@ lebendig adj cmp=lebendiger sup=lebendigsten
 lebenswert adj cmp=lebenswerter sup=lebenswertesten
 lebhaft adj cmp=lebhafter sup=lebhaftesten
 lecker adj cmp=leckerer sup=leckersten
+ledern adj
 ledig adj
 leer adj cmp=leerer sup=leersten
 legal adj
@@ -59,9 +60,11 @@ lieb adj cmp=lieber sup=liebsten
 liebenswert adj cmp=liebenswerter sup=liebenswertesten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
 lieblich adj cmp=lieblicher sup=lieblichsten
+liechtensteinisch adj
 lila         adj indecl
 linear adj
 link adj attr_only note=attributive only; linke Hand
+linksseitig adj
 liquide adj cmp=liquider sup=liquidesten
 listig adj cmp=listiger sup=listigsten
 litauisch adj

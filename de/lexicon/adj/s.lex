@@ -27,8 +27,11 @@ schattig adj cmp=schattiger sup=schattigsten
 schaurig adj cmp=schauriger sup=schaurigsten
 schauspielerisch adj
 scheinbar adj
+schelmisch adj cmp=schelmischer sup=schelmischsten
 scheu adj cmp=scheuer sup=scheuesten
+scheußlich adj cmp=scheußlicher sup=scheußlichsten
 schick adj cmp=schicker sup=schicksten
+schicklich adj cmp=schicklicher sup=schicklichsten
 schief adj cmp=schiefer sup=schiefsten
 schimmelig adj cmp=schimmeliger sup=schimmeligsten
 schläfrig adj cmp=schläfriger sup=schläfrigsten
@@ -43,6 +46,7 @@ schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
 schlüssig adj cmp=schlüssiger sup=schlüssigsten
+schmählich adj cmp=schmählicher sup=schmählichsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
 schmalkaldisch adj note=der Schmalkaldische Bund
 schmerzhaft adj cmp=schmerzhafter sup=schmerzhaftesten
@@ -52,6 +56,7 @@ schneebedeckt adj
 schnell adj cmp=schneller sup=schnellsten
 schnellstmöglich adj
 schnippisch adj cmp=schnippischer sup=schnippischsten
+schnöde adj cmp=schnöder sup=schnödesten
 schön adj cmp=schöner sup=schönsten
 schonungslos adj cmp=schonungsloser sup=schonungslosesten
 schöpferisch adj
@@ -71,8 +76,10 @@ schüsselförmig adj
 schusselig adj cmp=schusseliger sup=schusseligsten
 schwäbisch adj
 schwach adj cmp=schwächer sup=schwächsten
+schwächlich adj cmp=schwächlicher sup=schwächlichsten
 schwachsinnig adj cmp=schwachsinniger sup=schwachsinnigsten
 schwanger adj
+schwärmerisch adj cmp=schwärmerischer sup=schwärmerischsten
 schwarz adj cmp=schwärzer|schwarzer[rare] sup=schwärzesten|schwarzesten[rare]
 schwarzhaarig adj
 schwärzlich adj
@@ -81,6 +88,7 @@ schwedisch adj
 schweigsam adj cmp=schweigsamer sup=schweigsamsten
 schweizerisch adj
 schwer adj cmp=schwerer sup=schwersten
+schwermütig adj cmp=schwermütiger sup=schwermütigsten
 schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
@@ -102,6 +110,7 @@ selektiv adj cmp=selektiver sup=selektivsten
 selig adj cmp=seliger sup=seligsten
 selten adj attr=seltene|seltne[rare] cmp=seltener sup=seltensten
 seltsam adj cmp=seltsamer sup=seltsamsten
+senegalesisch adj
 senil adj cmp=seniler sup=senilsten
 senkrecht adj
 sensibel adj cmp=sensibler sup=sensibelsten
@@ -109,6 +118,7 @@ separat adj
 serbisch adj
 serbokroatisch adj
 seriös adj cmp=seriöser sup=seriösesten
+sesshaft adj cmp=sesshafter sup=sesshaftesten
 sexuell adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
 sichtbar adj cmp=sichtbarer sup=sichtbarsten

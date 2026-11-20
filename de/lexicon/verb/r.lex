@@ -66,6 +66,7 @@ reformieren verb class=weak pp=reformiert perf=haben
 regeln verb class=weak pp=geregelt perf=haben refl=acc
 regieren verb class=weak pp=regiert perf=haben
 registrieren verb class=weak pp=registriert perf=haben refl=acc
+reglementieren verb class=weak pp=reglementiert perf=haben
 regnen verb class=weak pp=geregnet perf=haben
 regulieren verb class=weak pp=reguliert perf=haben
 rehabilitieren verb class=weak pp=rehabilitiert perf=haben
@@ -164,6 +165,7 @@ rüberwinken verb class=weak sep=rüber pp=rübergewinkt perf=haben
 rüberziehen verb class=strong sep=rüber 3sg=rüberzieht past=rüberzog subj2=rüberzöge pp=rübergezogen perf=haben
 rücken verb class=weak pp=gerückt perf=haben|sein
 rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
+rückwärtsfahren verb class=strong sep=rückwärts 3sg=rückwärtsfährt past=rückwärtsfuhr pp=rückwärtsgefahren subj2=rückwärtsführe perf=haben|sein
 rudern verb class=weak pp=gerudert perf=haben|sein
 rufen verb class=strong 3sg=ruft past=rief pp=gerufen subj2=riefe perf=haben
 rügen verb class=weak pp=gerügt perf=haben
@@ -197,5 +199,7 @@ runterstürzen verb class=weak sep=runter pp=runtergestürzt perf=haben|sein
 runtertragen verb class=strong sep=runter 3sg=runterträgt past=runtertrug subj2=runtertrüge pp=runtergetragen perf=haben
 runterwerfen verb class=strong sep=runter 3sg=runterwirft past=runterwarf subj2=runterwürfe pp=runtergeworfen perf=haben
 runterziehen verb class=strong sep=runter 3sg=runterzieht past=runterzog pp=runtergezogen subj2=runterzöge perf=haben
+runzeln verb class=weak pp=gerunzelt perf=haben
 rüsten verb class=weak pp=gerüstet perf=haben refl=acc
 rutschen verb class=weak pp=gerutscht perf=sein
+rütteln verb class=weak pp=gerüttelt perf=haben

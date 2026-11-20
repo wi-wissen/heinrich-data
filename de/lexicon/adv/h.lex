@@ -10,6 +10,7 @@ herum adv
 hervor adv
 herzu adv type=direction
 hieher adv conf=90 note=hierher; southern German and Austrian
+hienieden adv style=archaic
 hierzulande adv
 hiezu adv type=pronominal region=AT style=archaic note=hierzu
 hinab adv

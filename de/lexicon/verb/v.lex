@@ -42,6 +42,7 @@ verblühen verb class=weak pp=verblüht perf=sein
 verbluten verb class=weak pp=verblutet perf=sein
 verbohren verb class=weak pp=verbohrt perf=haben refl=acc
 verbrauchen verb class=weak pp=verbraucht perf=haben
+verbrechen verb class=strong 3sg=verbricht past=verbrach pp=verbrochen subj2=verbräche perf=haben
 verbreiten verb class=weak pp=verbreitet perf=haben
 verbreitern verb class=weak pp=verbreitert perf=haben refl=acc
 verbrennen verb class=mixed 3sg=verbrennt past=verbrannte pp=verbrannt subj2=verbrennte perf=haben|sein
@@ -84,6 +85,7 @@ vereinigen verb class=weak pp=vereinigt perf=haben
 vereinsamen verb class=weak pp=vereinsamt perf=sein
 vereisen verb class=weak pp=vereist perf=sein
 vereiteln verb class=weak pp=vereitelt perf=haben
+verenden verb class=weak pp=verendet perf=sein
 verengen verb class=weak pp=verengt perf=haben refl=acc
 vererben verb class=weak pp=vererbt perf=haben
 verewigen verb class=weak pp=verewigt perf=haben refl=acc
@@ -95,8 +97,10 @@ verfassen verb class=weak pp=verfasst perf=haben
 verfaulen verb class=weak pp=verfault perf=sein
 verfehlen verb class=weak pp=verfehlt perf=haben
 verfeinden verb class=weak pp=verfeindet perf=haben refl=acc
+verfertigen verb class=weak pp=verfertigt perf=haben
 verfilmen verb class=weak pp=verfilmt perf=haben
 verflechten verb class=strong 3sg=verflicht past=verflocht pp=verflochten subj2=verflöchte perf=haben
+verfliegen verb class=strong 3sg=verfliegt past=verflog pp=verflogen subj2=verflöge perf=haben|sein
 verfließen verb class=strong 3sg=verfließt past=verfloss pp=verflossen subj2=verflösse perf=sein
 verfluchen verb class=weak pp=verflucht perf=haben
 verflüchtigen verb class=weak pp=verflüchtigt perf=haben refl=acc
@@ -128,6 +132,7 @@ vergolden verb class=weak pp=vergoldet perf=haben
 vergönnen verb class=weak pp=vergönnt perf=haben
 vergöttern verb class=weak pp=vergöttert perf=haben
 vergraben verb class=strong 3sg=vergräbt past=vergrub subj2=vergrübe pp=vergraben perf=haben
+vergreifen verb class=strong 3sg=vergreift past=vergriff pp=vergriffen subj2=vergriffe perf=haben refl=acc
 vergrößern verb class=weak pp=vergrößert perf=haben
 vergucken verb class=weak pp=verguckt perf=haben refl=acc
 vergüten verb class=weak pp=vergütet perf=haben
@@ -217,6 +222,8 @@ vermarkten verb class=weak pp=vermarktet perf=haben
 vermasseln verb class=weak pp=vermasselt perf=haben
 vermehren verb class=weak pp=vermehrt perf=haben
 vermeiden verb class=strong 3sg=vermeidet past=vermied pp=vermieden subj2=vermiede perf=haben
+vermeinen verb class=weak pp=vermeint perf=haben
+vermelden verb class=weak pp=vermeldet perf=haben
 vermengen verb class=weak pp=vermengt perf=haben
 vermerken verb class=weak pp=vermerkt perf=haben
 vermessen verb class=strong 3sg=vermisst past=vermaß pp=vermessen subj2=vermäße perf=haben refl=acc sense=measure
@@ -393,6 +400,7 @@ verwachsen verb class=strong 3sg=verwächst past=verwuchs pp=verwachsen subj2=ve
 verwackeln verb class=weak pp=verwackelt perf=haben
 verwählen verb class=weak pp=verwählt perf=haben refl=acc
 verwahren verb class=weak pp=verwahrt perf=haben refl=acc
+verwaisen verb class=weak pp=verwaist perf=sein
 verwalten verb class=weak pp=verwaltet perf=haben
 verwandeln verb class=weak pp=verwandelt perf=haben
 verwarnen verb class=weak pp=verwarnt perf=haben
@@ -422,6 +430,7 @@ verwurzeln verb class=weak pp=verwurzelt perf=haben
 verwüsten verb class=weak pp=verwüstet perf=haben
 verzagen verb class=weak pp=verzagt perf=haben
 verzählen verb class=weak pp=verzählt perf=haben refl=acc
+verzahnen verb class=weak pp=verzahnt perf=haben
 verzaubern verb class=weak pp=verzaubert perf=haben
 verzehren verb class=weak pp=verzehrt perf=haben refl=acc
 verzeichnen verb class=weak pp=verzeichnet perf=haben

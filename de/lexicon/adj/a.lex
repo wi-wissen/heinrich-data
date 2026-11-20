@@ -39,12 +39,14 @@ akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albanisch adj
 albern adj cmp=alberner sup=albernsten
 algebraisch adj
+algerisch adj
 allegorisch adj
 alleinerziehend adj
 alleinig adj
 allererst adj
 allergisch adj
 allerhöchst adj attr_only note=intensified superlative of hoch (die allerhöchste Stufe, am allerhöchsten)
+allerliebst adj
 allermeist adj attr_only note=intensified superlative of viel, declined like an adjective after the article (die allermeisten, am allermeisten); written as a positional adjective
 allerwenigst adj attr_only note=intensified superlative of wenig (die allerwenigsten, am allerwenigsten)
 allgemein     adj cmp=allgemeiner sup=allgemeinsten
@@ -58,6 +60,7 @@ alphabetisch adj
 alpin adj
 alt          adj cmp=älter sup=ältesten
 alternativ adj
+ältlich adj
 altmodisch adj cmp=altmodischer sup=altmodischsten
 ambitioniert adj cmp=ambitionierter sup=ambitioniertesten
 ambulant adj
@@ -66,6 +69,7 @@ amtierend adj
 amtlich adj
 analog adj
 analytisch adj
+anarchistisch adj
 anatomisch adj
 andächtig adj cmp=andächtiger sup=andächtigsten
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
@@ -146,9 +150,13 @@ aufwendig adj cmp=aufwendiger sup=aufwendigsten
 augenblicklich adj
 augenscheinlich adj
 ausdrücklich  adj cmp=ausdrücklicher sup=ausdrücklichsten
+auskömmlich adj
+außerbetrieblich adj
 außerdienstlich adj
 außereuropäisch adj
 außergerichtlich adj
+außerirdisch adj
+außerplanmäßig adj
 außeruniversitär adj
 ausführlich adj cmp=ausführlicher sup=ausführlichsten
 ausgedehnt adj cmp=ausgedehnter sup=ausgedehntesten
@@ -172,6 +180,7 @@ auswärtig adj
 authentisch adj cmp=authentischer sup=authentischsten
 autobiografisch adj
 autobiographisch adj
+autodidaktisch adj
 automatisch adj
 autonom adj cmp=autonomer sup=autonomsten
 autoritär adj

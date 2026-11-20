@@ -11,6 +11,7 @@ implizit adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
+inbrünstig adj cmp=inbrünstiger sup=inbrünstigsten
 indianisch adj
 indigen adj
 indirekt adj
@@ -46,6 +47,7 @@ international adj
 intolerant adj
 intransitiv adj
 intuitiv adj cmp=intuitiver sup=intuitivsten
+investiv adj
 irakisch adj
 iranisch adj
 irden adj
@@ -64,3 +66,4 @@ isomorph adj
 israelisch adj
 italienisch adj
 iterativ adj
+ivorisch adj

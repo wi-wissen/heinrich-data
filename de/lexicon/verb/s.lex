@@ -32,6 +32,7 @@ schätzen verb class=weak pp=geschätzt perf=haben
 schaudern verb class=weak pp=geschaudert perf=haben
 schauen verb class=weak pp=geschaut perf=haben
 schaukeln verb class=weak pp=geschaukelt perf=haben
+schäumen verb class=weak pp=geschäumt perf=haben
 scheiden verb class=strong 3sg=scheidet past=schied pp=geschieden subj2=schiede perf=haben|sein
 scheinen verb class=strong 3sg=scheint past=schien pp=geschienen subj2=schiene perf=haben
 scheitern verb class=weak pp=gescheitert perf=sein
@@ -86,7 +87,9 @@ schmeicheln verb class=weak pp=geschmeichelt perf=haben
 schmeißen verb class=strong 3sg=schmeißt past=schmiss pp=geschmissen subj2=schmisse perf=haben note=colloquial standard: den Ball schmeißen
 schmelzen verb class=strong 3sg=schmilzt past=schmolz pp=geschmolzen subj2=schmölze perf=haben|sein
 schmerzen verb class=weak pp=geschmerzt perf=haben
+schmettern verb class=weak pp=geschmettert perf=haben
 schmieden verb class=weak pp=geschmiedet perf=haben
+schmiegen verb class=weak pp=geschmiegt perf=haben
 schmieren verb class=weak pp=geschmiert perf=haben note=pp geschmiert is correct; not an -ieren verb
 schminken verb class=weak pp=geschminkt perf=haben refl=acc
 schmollen verb class=weak pp=geschmollt perf=haben
@@ -146,10 +149,12 @@ schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwi
 schweißen verb class=weak pp=geschweißt perf=haben
 schwellen verb class=strong 3sg=schwillt past=schwoll pp=geschwollen subj2=schwölle perf=sein
 schwemmen verb class=weak pp=geschwemmt perf=haben
+schwerfallen verb class=strong sep=schwer 3sg=schwerfällt past=schwerfiel pp=schwergefallen subj2=schwerfiele perf=sein
 schwimmen verb class=strong 3sg=schwimmt past=schwamm pp=geschwommen subj2=schwömme|schwämme perf=haben|sein
 schwindeln verb class=weak pp=geschwindelt perf=haben
 schwinden verb class=strong 3sg=schwindet past=schwand pp=geschwunden subj2=schwände perf=sein
 schwingen verb class=strong 3sg=schwingt past=schwang pp=geschwungen subj2=schwänge perf=haben|sein
+schwirren verb class=weak pp=geschwirrt perf=haben|sein
 schwitzen verb class=weak pp=geschwitzt perf=haben
 schwören verb class=strong 3sg=schwört past=schwor pp=geschworen subj2=schwüre|schwöre[rare] perf=haben
 scrollen verb class=weak pp=gescrollt perf=haben
@@ -256,6 +261,7 @@ stemmen verb class=weak pp=gestemmt perf=haben
 stempeln verb class=weak pp=gestempelt perf=haben
 sterben verb class=strong 3sg=stirbt past=starb pp=gestorben subj2=stürbe perf=sein
 steuern verb class=weak pp=gesteuert perf=haben
+sticken verb class=weak pp=gestickt perf=haben
 stiften verb class=weak pp=gestiftet perf=haben
 stilisieren verb class=weak pp=stilisiert perf=haben
 stillen verb class=weak pp=gestillt perf=haben

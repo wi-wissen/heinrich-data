@@ -4,9 +4,11 @@ magisch adj
 magnetisch adj
 majestätisch adj cmp=majestätischer sup=majestätischsten
 makedonisch adj
+malaysisch adj
 malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
+mannigfach adj
 mannigfaltig adj cmp=mannigfaltiger sup=mannigfaltigsten
 männlich adj
 manuell adj
@@ -16,6 +18,7 @@ markant adj cmp=markanter sup=markantesten
 märkisch adj
 marode adj cmp=maroder sup=marodesten
 marokkanisch adj
+marxistisch adj
 maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten

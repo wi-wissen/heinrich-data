@@ -56,6 +56,7 @@ loben verb class=weak pp=gelobt perf=haben
 lochen verb class=weak pp=gelocht perf=haben
 locken verb class=weak pp=gelockt perf=haben
 lockern verb class=weak pp=gelockert perf=haben refl=acc
+lodern verb class=weak pp=gelodert perf=haben
 löffeln verb class=weak pp=gelöffelt perf=haben
 lohnen verb class=weak pp=gelohnt perf=haben refl=acc
 lokalisieren verb class=weak pp=lokalisiert perf=haben

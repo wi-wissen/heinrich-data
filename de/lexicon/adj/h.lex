@@ -1,6 +1,7 @@
 haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 habsburgisch adj
+hager adj cmp=hagerer sup=hagersten
 halb         adj note=not compared; ein halber Liter
 hamburgisch adj
 hannoversch adj
@@ -47,6 +48,7 @@ hilfreich adj cmp=hilfreicher sup=hilfreichsten
 hilfsbereit adj cmp=hilfsbereiter sup=hilfsbereitesten
 himmlisch adj cmp=himmlischer sup=himmlischsten
 hinderlich adj cmp=hinderlicher sup=hinderlichsten
+hinduistisch adj
 hinlänglich adj note=mostly adverbial (hinlänglich bekannt)
 hinreichend adj
 hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Platz; positional, no comparative; the preposition is in closed/
@@ -58,6 +60,7 @@ hoch         adj attr=hohe cmp=höher sup=höchsten
 hochgradig adj
 hochmütig adj cmp=hochmütiger sup=hochmütigsten
 hochrangig adj cmp=hochrangiger sup=hochrangigsten
+höchstgelegen adj
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höfisch adj
 höflich adj cmp=höflicher sup=höflichsten

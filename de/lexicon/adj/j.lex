@@ -13,5 +13,6 @@ jugendfrei adj
 jugendlich adj cmp=jugendlicher sup=jugendlichsten
 jugoslawisch adj
 jung adj cmp=jünger sup=jüngsten
+jungfräulich adj
 junior adj indecl note=nachgestellt (Hans Meyer junior)
 juristisch adj

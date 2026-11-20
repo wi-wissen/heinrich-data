@@ -27,6 +27,7 @@ hecheln verb class=weak pp=gehechelt perf=haben
 heften verb class=weak pp=geheftet perf=haben
 hegen verb class=weak pp=gehegt perf=haben
 heilen verb class=weak pp=geheilt perf=haben|sein
+heiligen verb class=weak pp=geheiligt perf=haben
 heimbegleiten verb class=weak sep=heim pp=heimgebegleitet perf=haben
 heimbringen verb class=mixed sep=heim 3sg=heimbringt past=heimbrachte subj2=heimbrächte pp=heimgebracht perf=haben
 heimfahren verb class=strong sep=heim 3sg=heimfährt past=heimfuhr subj2=heimführe pp=heimgefahren perf=haben|sein
@@ -269,6 +270,7 @@ heucheln verb class=weak pp=geheuchelt perf=haben
 heuern verb class=weak pp=geheuert perf=haben
 heulen verb class=weak pp=geheult perf=haben
 hierbleiben verb class=strong sep=hier 3sg=hierbleibt past=hierblieb pp=hiergeblieben subj2=hierbliebe perf=sein
+hierherkommen verb class=strong sep=hierher 3sg=hierherkommt past=hierherkam pp=hierhergekommen subj2=hierherkäme perf=sein
 hinabgehen verb class=strong sep=hinab 3sg=hinabgeht past=hinabging|hinabgieng[old] pp=hinabgegangen subj2=hinabginge perf=sein
 hinabgleiten verb class=strong sep=hinab 3sg=hinabgleitet past=hinabglitt pp=hinabgeglitten subj2=hinabglitte perf=sein
 hinabsteigen verb class=strong sep=hinab 3sg=hinabsteigt past=hinabstieg pp=hinabgestiegen subj2=hinabstiege perf=sein
@@ -467,6 +469,7 @@ hochwerfen verb class=strong sep=hoch 3sg=hochwirft past=hochwarf subj2=hochwür
 hochziehen verb class=strong sep=hoch 3sg=hochzieht past=hochzog pp=hochgezogen subj2=hochzöge perf=haben refl=acc
 hocken verb class=weak pp=gehockt perf=haben|sein
 hoffen verb class=weak pp=gehofft perf=haben
+höhnen verb class=weak pp=gehöhnt perf=haben
 holen verb class=weak pp=geholt perf=haben
 holpern verb class=weak pp=geholpert perf=haben|sein
 honorieren verb class=weak pp=honoriert perf=haben

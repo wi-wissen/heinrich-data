@@ -3,13 +3,16 @@ Haargel noun g=n gen=Haargels pl=Haargels
 Haargummi noun g=m|n gen=Haargummis pl=Haargummis
 Haarreif noun g=m gen=Haarreifs|Haarreifes pl=Haarreife note=compound; the analyser would take reif as head
 Haarspray noun g=n gen=Haarsprays pl=Haarsprays
+Habgier noun g=f gen=Habgier pl=- note=no plural
 Habicht noun g=m gen=Habichts pl=Habichte
 Habilitation noun g=f gen=Habilitation pl=Habilitationen
 Habitat noun g=n gen=Habitats pl=Habitate
 Habitus noun g=m gen=Habitus pl=- note=genitive without ending; plural not in common use
 Habsburger noun g=m gen=Habsburgers pl=Habsburger
+Habsucht noun g=f gen=Habsucht pl=- note=no plural
 Hacker noun g=m gen=Hackers pl=Hacker
 Hackerin noun g=f gen=Hackerin pl=Hackerinnen
+Hader noun g=m gen=Haders pl=- note=no plural (quarrel)
 Hadron noun g=n gen=Hadrons pl=Hadronen
 Hafen noun g=m gen=Hafens pl=Häfen
 Hafer noun g=m gen=Hafers pl=- note=no plural
@@ -37,6 +40,7 @@ Halde noun g=f gen=Halde pl=Halden
 Halfpipe noun g=f gen=Halfpipe pl=Halfpipes
 Hälfte noun g=f gen=Hälfte pl=Hälften
 Halle noun g=f gen=Halle pl=Hallen sense=building
+Hallig noun g=f gen=Hallig pl=Halligen
 Halloween noun g=n gen=Halloweens pl=- note=mass noun
 Halm noun g=m gen=Halmes|Halms pl=Halme
 Halogen noun g=n gen=Halogens pl=Halogene
@@ -44,6 +48,7 @@ Hals noun g=m gen=Halses pl=Hälse
 Halt noun g=m gen=Halts|Haltes pl=- note=hold, stop; plural not used
 Halter noun g=m gen=Halters pl=Halter
 Haltung noun g=f gen=Haltung pl=Haltungen
+Halunke noun g=m gen=Halunken pl=Halunken
 Hamburger noun g=m gen=Hamburgers pl=Hamburger note=inhabitant of Hamburg; also the food
 Hammer noun g=m gen=Hammers pl=Hämmer
 Hamster noun g=m gen=Hamsters pl=Hamster
@@ -55,6 +60,7 @@ Handeln noun g=n gen=Handelns pl=- note=nominalised infinitive (das Handeln), le
 Handelskammer noun g=f gen=Handelskammer pl=Handelskammern
 Handelsregister noun g=n gen=Handelsregisters pl=Handelsregister
 Handfeger noun g=m gen=Handfegers pl=Handfeger
+Handgemenge noun g=n gen=Handgemenges pl=Handgemenge
 Handhabung noun g=f gen=Handhabung pl=- note=no plural in practice
 Händler noun g=m gen=Händlers pl=Händler
 Händlerin noun g=f gen=Händlerin pl=Händlerinnen
@@ -69,17 +75,22 @@ Handy noun g=n gen=Handys pl=Handys
 Hanf noun g=m gen=Hanfs|Hanfes pl=- note=mass noun
 Hang noun g=m gen=Hangs|Hanges pl=Hänge
 Hängematte noun g=f gen=Hängematte pl=Hängematten note=compound not split correctly by the analyser
+Hannoveraner noun g=m gen=Hannoveraners pl=Hannoveraner
 Hanse noun g=f gen=Hanse pl=- note=die Hanse (trade league)
 Hansestadt noun g=f gen=Hansestadt pl=Hansestädte
 Hantel noun g=f gen=Hantel pl=Hanteln
 Hanukka noun g=n gen=Hanukkas pl=- note=no plural (mass or abstract noun)
+Härchen noun g=n gen=Härchens pl=Härchen
 Hardware noun g=f gen=Hardware pl=- note=mass noun
 Harem noun g=m gen=Harems pl=Harems
 Harfe noun g=f gen=Harfe pl=Harfen
 Harke noun g=f gen=Harke pl=Harken
 Harmonie noun g=f gen=Harmonie pl=Harmonien
 Harmonisierung noun g=f gen=Harmonisierung pl=Harmonisierungen
+Harn noun g=m gen=Harns|Harnes pl=- note=mass noun
 Harnisch noun g=m gen=Harnischs|Harnisches pl=Harnische
+Harnstoff noun g=m gen=Harnstoffs|Harnstoffes pl=Harnstoffe
+Harpunier noun g=m gen=Harpuniers pl=Harpuniere
 Härte noun g=f gen=Härte pl=Härten
 Harz noun g=n gen=Harzes pl=Harze sense=resin
 Häschen noun g=n gen=Häschens pl=Häschen
@@ -91,6 +102,7 @@ Haselstrauch noun g=m gen=Haselstrauchs pl=Haselsträucher
 Hashtag noun g=m gen=Hashtags pl=Hashtags
 Hass noun g=m gen=Hasses pl=- note=mass noun
 Hassium noun g=n gen=Hassiums pl=- note=chemical element
+Hattrick noun g=m gen=Hattricks pl=Hattricks
 Haube noun g=f gen=Haube pl=Hauben
 Haubentaucher noun g=m gen=Haubentauchers pl=Haubentaucher
 Hauch noun g=m gen=Hauchs|Hauches pl=Hauche
@@ -117,12 +129,15 @@ Haushalt noun g=m gen=Haushalts|Haushaltes pl=Haushalte
 Haushälter noun g=m gen=Haushälters pl=Haushälter note=also gov. jargon: budget politician
 Haushälterin noun g=f gen=Haushälterin pl=Haushälterinnen
 Häuslebauer noun g=m gen=Häuslebauers pl=Häuslebauer
+Häusler noun g=m gen=Häuslers pl=Häusler
 Hausmeister noun g=m gen=Hausmeisters pl=Hausmeister
 Hausmeisterin noun g=f gen=Hausmeisterin pl=Hausmeisterinnen
 Hauswart noun g=m gen=Hauswarts|Hauswartes pl=Hauswarte
 Hauswirtschaft noun g=f gen=Hauswirtschaft pl=- note=no plural
 Haut noun g=f gen=Haut pl=Häute
+Havarie noun g=f gen=Havarie pl=Havarien
 Headhunter noun g=m gen=Headhunters pl=Headhunter
+Headliner noun g=m gen=Headliners pl=Headliner
 Headset noun g=n gen=Headsets pl=Headsets
 Hebamme noun g=f gen=Hebamme pl=Hebammen
 Hebel noun g=m gen=Hebels pl=Hebel
@@ -131,11 +146,13 @@ Hebung noun g=f gen=Hebung pl=Hebungen
 Hecht noun g=m gen=Hechtes|Hechts pl=Hechte
 Heck noun g=n gen=Hecks|Heckes pl=Hecke|Hecks
 Hecke noun g=f gen=Hecke pl=Hecken
+Hedgefonds noun g=m gen=Hedgefonds pl=Hedgefonds note=genitive and plural unchanged
 Heer noun g=n gen=Heeres|Heers pl=Heere
 Hefe noun g=f gen=Hefe pl=Hefen
 Heft noun g=n gen=Heftes|Hefts pl=Hefte
 Hefter noun g=m gen=Hefters pl=Hefter
 Heftigkeit noun g=f gen=Heftigkeit pl=- note=no plural in practice
+Hegemonie noun g=f gen=Hegemonie pl=Hegemonien
 Hehl noun g=n|m gen=Hehls pl=- note=only in kein(en) Hehl aus etwas machen
 Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
@@ -147,6 +164,7 @@ Heiland noun g=m gen=Heiland|Heilands pl=Heilande note=mostly der Heiland (Chris
 Heiligabend noun g=m gen=Heiligabends pl=Heiligabende
 Heilige noun g=m|f decl=adj
 Heiligkeit noun g=f gen=Heiligkeit pl=- note=no plural in practice
+Heiligsprechung noun g=f gen=Heiligsprechung pl=Heiligsprechungen
 Heiligtum noun g=n gen=Heiligtums pl=Heiligtümer
 Heilung noun g=f gen=Heilung pl=Heilungen
 Heim noun g=n gen=Heims|Heimes pl=Heime
@@ -164,11 +182,13 @@ Heizung noun g=f gen=Heizung pl=Heizungen
 Hektar noun g=m|n gen=Hektars pl=Hektar|Hektare
 Hektoliter noun g=m|n gen=Hektoliters pl=Hektoliter
 Held noun g=m gen=Helden pl=Helden
+Heldentum noun g=n gen=Heldentums pl=- note=no plural
 Heldin noun g=f gen=Heldin pl=Heldinnen
 Helfer noun g=m gen=Helfers pl=Helfer
 Helferin noun g=f gen=Helferin pl=Helferinnen
 Helikopter noun g=m gen=Helikopters pl=Helikopter
 Helium noun g=n gen=Heliums pl=- note=chemical element; noble gas
+Hellene noun g=m gen=Hellenen pl=Hellenen
 Heller noun g=m gen=Hellers pl=Heller note=small coin
 Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
 Helm noun g=m gen=Helms|Helmes pl=Helme
@@ -181,10 +201,12 @@ Hengst noun g=m gen=Hengstes|Hengsts pl=Hengste
 Henkel noun g=m gen=Henkels pl=Henkel
 Henker noun g=m gen=Henkers pl=Henker
 Henne noun g=f gen=Henne pl=Hennen
+Hepatitis noun g=f gen=Hepatitis pl=Hepatitiden
 Herabsetzung noun g=f gen=Herabsetzung pl=Herabsetzungen
 Heraldik noun g=f gen=Heraldik pl=- note=field of study
 Heraldiker noun g=m gen=Heraldikers pl=Heraldiker
 Herangehensweise noun g=f gen=Herangehensweise pl=Herangehensweisen
+Herausforderer noun g=m gen=Herausforderers pl=Herausforderer
 Herausforderung noun g=f gen=Herausforderung pl=Herausforderungen
 Herausgabe noun g=f gen=Herausgabe pl=- note=mass noun; derived from herausgeben
 Herausgeber noun g=m gen=Herausgebers pl=Herausgeber
@@ -196,6 +218,7 @@ Herd noun g=m gen=Herds|Herdes pl=Herde
 Herde noun g=f gen=Herde pl=Herden
 Hering noun g=m gen=Herings pl=Heringe
 Herkunft noun g=f gen=Herkunft pl=- note=Herkünfte is very rare
+Heros noun g=m gen=Heros pl=Heroen note=genitive unchanged (des Heros)
 Herr         noun g=m gen=Herrn pl=Herren
 Herrgott noun g=m gen=Herrgotts pl=- note=no plural
 Herrin noun g=f gen=Herrin pl=Herrinnen
@@ -304,15 +327,18 @@ Hommage noun g=f gen=Hommage pl=Hommagen
 Homo noun g=m gen=Homos pl=Homos style=colloquial conf=70 note=colloquial for a homosexual man; also first part of Homo-Ehe and the Latin genus name Homo
 Homomorphismus noun g=m gen=Homomorphismus pl=Homomorphismen
 Homonym noun g=n gen=Homonyms pl=Homonyme
+Homophobie noun g=f gen=Homophobie pl=- note=no plural
 Homosexualität noun g=f gen=Homosexualität pl=- note=no plural in practice
 Homosexuelle noun g=m|f decl=adj
 Honig noun g=m gen=Honigs pl=Honige
 Honorar noun g=n gen=Honorars pl=Honorare
+Honoratioren noun g=pl
 Hoodie noun g=m gen=Hoodies pl=Hoodies
 Hopfen noun g=m gen=Hopfens pl=Hopfen
 Hora noun g=f gen=Hora pl=Horen conf=70 note=canonical hour (Stundengebet); also a round dance
 Hörbuch noun g=n gen=Hörbuchs|Hörbuches pl=Hörbücher
 Horde noun g=f gen=Horde pl=Horden
+Hörensagen noun g=n gen=Hörensagens pl=- note=vom Hörensagen
 Hörer noun g=m gen=Hörers pl=Hörer
 Hörerin noun g=f gen=Hörerin pl=Hörerinnen
 Horizont noun g=m gen=Horizonts|Horizontes pl=Horizonte
@@ -328,6 +354,8 @@ Hospiz noun g=n gen=Hospizes pl=Hospize
 Hotdog noun g=m gen=Hotdogs pl=Hotdogs
 Hotel noun g=n gen=Hotels pl=Hotels
 Hotelfachmann noun g=m gen=Hotelfachmanns|Hotelfachmannes pl=Hotelfachleute
+Hotelier noun g=m gen=Hoteliers pl=Hoteliers
+Hotellerie noun g=f gen=Hotellerie pl=- note=no plural
 Hotfix noun g=m gen=Hotfixes|Hotfix pl=Hotfixes conf=80 note=software patch
 Hotline noun g=f gen=Hotline pl=Hotlines
 Hotspot noun g=m gen=Hotspots pl=Hotspots
@@ -355,6 +383,7 @@ Hummel noun g=f gen=Hummel pl=Hummeln
 Hummer noun g=m gen=Hummers pl=Hummer
 Hummus noun g=m gen=Hummus pl=- note=no plural
 Humor noun g=m gen=Humors pl=- note=mass noun
+Humorist noun g=m gen=Humoristen pl=Humoristen
 Hund noun g=m gen=Hundes|Hunds pl=Hunde
 Hündchen noun g=n gen=Hündchens pl=Hündchen
 Hundekot noun g=m gen=Hundekots|Hundekotes pl=- note=mass noun
@@ -381,10 +410,13 @@ Hyäne noun g=f gen=Hyäne pl=Hyänen
 Hybride noun g=f gen=Hybride pl=Hybriden conf=85 note=also masculine der Hybride (weak)
 Hydrid noun g=n gen=Hydrids|Hydrides pl=Hydride
 Hydrographie noun g=f gen=Hydrographie pl=- note=science name
+Hydrolyse noun g=f gen=Hydrolyse pl=Hydrolysen
 Hydroxid noun g=n gen=Hydroxids|Hydroxides pl=Hydroxide
 Hygiene noun g=f gen=Hygiene pl=- note=mass noun
 Hymne noun g=f gen=Hymne pl=Hymnen
+Hymnus noun g=m gen=Hymnus pl=Hymnen note=genitive unchanged (des Hymnus)
 Hyperbel noun g=f gen=Hyperbel pl=Hyperbeln
+Hypnose noun g=f gen=Hypnose pl=Hypnosen
 Hypotenuse noun g=f gen=Hypotenuse pl=Hypotenusen
 Hypothek noun g=f gen=Hypothek pl=Hypotheken
 Hypothese noun g=f gen=Hypothese pl=Hypothesen

@@ -10,6 +10,7 @@ ganzrandig adj
 gar adj
 gasförmig adj
 gebeugt adj
+gebieterisch adj cmp=gebieterischer sup=gebieterischsten
 gebildet adj cmp=gebildeter sup=gebildetsten
 geborgen adj
 gebräuchlich adj
@@ -23,6 +24,7 @@ gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
 gefälscht adj
 gefleckt adj
+geflissentlich adj
 geflügelt adj note=geflügelte Worte; winged
 gefräßig adj cmp=gefräßiger sup=gefräßigsten
 gegenseitig adj
@@ -88,6 +90,7 @@ gesetzlich adj
 gesetzwidrig adj
 gesinnt adj note=mostly with an adverb: freundlich gesinnt, die gleich gesinnten
 gesondert adj
+gespenstisch adj cmp=gespenstischer sup=gespenstischsten
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestalterisch adj
 gestielt adj note=botany: having a stalk
@@ -131,6 +134,7 @@ gleichberechtigt adj
 gleichgeschlechtlich adj
 gleichgültig adj cmp=gleichgültiger sup=gleichgültigsten
 gleichmäßig adj cmp=gleichmäßiger sup=gleichmäßigsten
+gleichmütig adj cmp=gleichmütiger sup=gleichmütigsten
 gleichnamig adj
 gleichwertig adj cmp=gleichwertiger sup=gleichwertigsten
 gleichzeitig adj
@@ -165,6 +169,9 @@ grob adj cmp=gröber sup=gröbsten
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
 großflächig adj
+großformatig adj
+großherzoglich adj
+großmütig adj cmp=großmütiger sup=großmütigsten
 größtmöglich adj
 großzügig adj cmp=großzügiger sup=großzügigsten
 grotesk adj cmp=grotesker sup=groteskesten

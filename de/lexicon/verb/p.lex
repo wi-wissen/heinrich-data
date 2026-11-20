@@ -6,8 +6,10 @@ panieren verb class=weak pp=paniert perf=haben
 panzern verb class=weak pp=gepanzert perf=haben
 paraphieren verb class=weak pp=paraphiert perf=haben
 parken verb class=weak pp=geparkt perf=haben
+parodieren verb class=weak pp=parodiert perf=haben
 passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
+patentieren verb class=weak pp=patentiert perf=haben
 patscheln verb class=weak pp=gepatschelt perf=haben conf=80 note=colloquial, to splash about
 pauken verb class=weak pp=gepaukt perf=haben
 pausieren verb class=weak pp=pausiert perf=haben
@@ -58,6 +60,7 @@ prahlen verb class=weak pp=geprahlt perf=haben
 praktizieren verb class=weak pp=praktiziert perf=haben
 prämieren verb class=weak pp=prämiert perf=haben
 prämiieren verb class=weak pp=prämiiert perf=haben
+prangen verb class=weak pp=geprangt perf=haben
 präsentieren verb class=weak pp=präsentiert perf=haben
 prasseln verb class=weak pp=geprasselt perf=haben|sein
 präzisieren verb class=weak pp=präzisiert perf=haben
@@ -86,6 +89,7 @@ prügeln verb class=weak pp=geprügelt perf=haben refl=acc
 prusten verb class=weak pp=geprustet perf=haben
 publizieren verb class=weak pp=publiziert perf=haben
 pulsieren verb class=weak pp=pulsiert perf=haben
+pumpen verb class=weak pp=gepumpt perf=haben
 pupsen verb class=weak pp=gepupst perf=haben style=colloquial
 pürieren verb class=weak pp=püriert perf=haben
 purzeln verb class=weak pp=gepurzelt perf=sein

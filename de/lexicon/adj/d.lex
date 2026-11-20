@@ -59,7 +59,9 @@ dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreidimensional adj
+dreierlei adj indecl
 dreifach adj
+dreigeschossig adj
 dreischiffig adj note=architecture: with three naves
 dreiseitig adj
 dreißigjährig adj attr_only
@@ -69,6 +71,7 @@ dreizählig adj
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten
 drittklassig adj
+drollig adj cmp=drolliger sup=drolligsten
 dual adj
 duftend adj
 dumm adj cmp=dümmer sup=dümmsten
