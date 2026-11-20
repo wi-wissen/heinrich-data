@@ -17,6 +17,8 @@ vormals adv type=time
 vornehmlich adv
 vorneweg adv
 vornherein adv note=only in von vornherein
+vornüber adv
 vorüber adv
 vorwärts adv type=direction
 vorweg adv type=time
+vulgo adv

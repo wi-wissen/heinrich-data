@@ -7,6 +7,7 @@ ringsum adv type=place
 ringsumher adv type=place
 rüber adv type=direction style=colloquial alt=herüber|hinüber note=short for herüber/hinüber
 rückblickend adv
+rücklings adv
 rückwärts adv type=direction
 rum adv type=direction style=colloquial alt=herum note=short for herum
 rundherum adv type=place

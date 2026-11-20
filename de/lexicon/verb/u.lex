@@ -29,6 +29,7 @@
 übergehen verb class=strong 3sg=übergeht past=überging pp=übergangen subj2=überginge perf=haben sense=skip note=etwas übergehen (ignore); stress on gehen
 übergießen verb class=strong 3sg=übergießt past=übergoss pp=übergossen subj2=übergösse perf=haben
 übergreifen verb class=strong sep=über 3sg=übergreift past=übergriff pp=übergegriffen subj2=übergriffe perf=haben note=das Feuer griff auf das Nachbarhaus über; übergreifend
+überhandnehmen verb class=strong sep=überhand 3sg=überhandnimmt past=überhandnahm pp=überhandgenommen subj2=überhandnähme perf=haben
 überhäufen verb class=weak pp=überhäuft perf=haben
 überheben verb class=strong 3sg=überhebt past=überhob|überhub[archaic] pp=überhoben subj2=überhöbe|überhübe[archaic] perf=haben refl=acc conf=90 note=sich überheben
 überhöhen verb class=weak pp=überhöht perf=haben

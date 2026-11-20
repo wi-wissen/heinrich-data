@@ -15,6 +15,7 @@ einher adv
 einigermaßen adv
 einstmals adv
 einstweilen adv type=time
+einwärts adv
 empor adv type=direction
 erfahrungsgemäß adv
 erforderlichenfalls adv

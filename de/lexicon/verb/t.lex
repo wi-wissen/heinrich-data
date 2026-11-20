@@ -53,6 +53,7 @@ trampeln verb class=weak pp=getrampelt perf=haben|sein
 trampen verb class=weak pp=getrampt perf=sein
 tränken verb class=weak pp=getränkt perf=haben
 transferieren verb class=weak pp=transferiert perf=haben
+transkribieren verb class=weak pp=transkribiert perf=haben
 transpirieren verb class=weak pp=transpiriert perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben

@@ -7,6 +7,7 @@ makedonisch adj
 malaysisch adj
 malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
+maltesisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
 mannigfach adj
 mannigfaltig adj cmp=mannigfaltiger sup=mannigfaltigsten
@@ -39,12 +40,15 @@ mega adj indecl style=colloquial alt=großartig|sehr_gut note=colloquial intensi
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
+mehrmonatig adj
+meistverkauft adj
 melancholisch adj cmp=melancholischer sup=melancholischsten
 meldepflichtig adj
 menschenwürdig adj
 menschlich adj cmp=menschlicher sup=menschlichsten
 merklich adj
 merkwürdig adj cmp=merkwürdiger sup=merkwürdigsten
+messingen adj
 metallisch adj
 metaphorisch adj
 metaphysisch adj
@@ -64,6 +68,7 @@ missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
 mitleidig adj cmp=mitleidiger sup=mitleidigsten
+mitteilungspflichtig adj
 mittelalterlich adj
 mittelbar adj
 mittelfristig adj
@@ -76,6 +81,7 @@ modern adj cmp=moderner sup=modernsten
 modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten
 möglich adj cmp=möglicher sup=möglichsten
+mohammedanisch adj style=archaic
 mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj

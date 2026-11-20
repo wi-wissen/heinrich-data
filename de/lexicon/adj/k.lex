@@ -48,10 +48,12 @@ knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
 kognitiv adj
+kokett adj cmp=koketter sup=kokettesten
 kollaborativ adj
 kollektiv adj
 kolonial adj
 kolumbianisch adj
+komfortabel adj cmp=komfortabler sup=komfortabelsten
 komisch adj cmp=komischer sup=komischsten
 kommerziell adj cmp=kommerzieller sup=kommerziellsten
 kommissarisch adj
@@ -67,8 +69,10 @@ komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
 konfessionell adj
 konform adj note=mit etwas konform gehen; base of datenschutzkonform, gesetzeskonform
+kongolesisch adj
 kongruent adj
 königlich adj
+konisch adj
 konkret adj cmp=konkreter sup=konkretesten
 konsequent adj cmp=konsequenter sup=konsequentesten
 konservativ adj cmp=konservativer sup=konservativsten
@@ -110,6 +114,7 @@ krümelig adj cmp=krümeliger sup=krümeligsten
 krumm adj cmp=krummer|krümmer sup=krummsten|krümmsten
 kubanisch adj
 kubisch adj
+kugelförmig adj
 kugelig adj
 kühl adj cmp=kühler sup=kühlsten
 kühn adj cmp=kühner sup=kühnsten

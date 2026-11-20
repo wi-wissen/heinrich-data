@@ -96,10 +96,13 @@ viel         adj cmp=mehr sup=meisten cmp_indecl
 vielfach adj
 vielfältig adj
 vielseitig adj cmp=vielseitiger sup=vielseitigsten
+vierachsig adj
 vierbändig adj
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 viertklassig adj
+viertürig adj
 vietnamesisch adj
+viktorianisch adj
 violett adj
 viral adj
 virtuell adj
@@ -112,14 +115,17 @@ vollendet adj cmp=vollendeter sup=vollendetsten
 völlig adj
 volljährig adj
 vollkommen adj cmp=vollkommener sup=vollkommensten
+vollmundig adj cmp=vollmundiger sup=vollmundigsten
 vollständig adj
 vollumfänglich adj
 vollwertig adj
+vollzählig adj
 vollziehbar adj
 vonnöten adj pred_only note=vonnöten sein
 voraussichtlich adj
 vorbildlich adj cmp=vorbildlicher sup=vorbildlichsten
 vorder adj attr_only sup=vordersten note=der vordere Eingang, der vorderste Platz; positional, no comparative
+vorgeblich adj
 vorgelagert adj
 vorgenannt adj
 vorhanden adj
@@ -142,3 +148,4 @@ vorwiegend adj
 vorzeitig adj
 vorzüglich adj
 vulkanisch adj
+vulnerabel adj cmp=vulnerabler sup=vulnerabelsten

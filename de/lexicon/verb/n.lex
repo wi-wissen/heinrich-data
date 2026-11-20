@@ -77,6 +77,7 @@ nachstehen verb class=strong sep=nach 3sg=nachsteht past=nachstand pp=nachgestan
 nachstellen verb class=weak sep=nach pp=nachgestellt perf=haben
 nachsuchen verb class=weak sep=nach pp=nachgesucht perf=haben note=um etwas nachsuchen
 nachtanken verb class=weak sep=nach pp=nachgetankt perf=haben
+nächtigen verb class=weak pp=genächtigt perf=haben
 nachtragen verb class=strong sep=nach 3sg=nachträgt past=nachtrug pp=nachgetragen subj2=nachtrüge perf=haben
 nachtrauern verb class=weak sep=nach pp=nachgetrauert perf=haben
 nachtreten verb class=strong sep=nach 3sg=nachtritt past=nachtrat subj2=nachträte pp=nachgetreten perf=haben
@@ -98,6 +99,7 @@ nagen verb class=weak pp=genagt perf=haben
 nahekommen verb class=strong sep=nahe 3sg=nahekommt past=nahekam pp=nahegekommen subj2=nahekäme perf=sein
 nahen verb class=weak pp=genaht perf=sein
 nähen verb class=weak pp=genäht perf=haben
+näherkommen verb class=strong sep=näher 3sg=näherkommt past=näherkam pp=nähergekommen subj2=näherkäme perf=sein
 nähern verb class=weak pp=genähert perf=haben refl=acc
 nähren verb class=weak pp=genährt perf=haben
 naschen verb class=weak pp=genascht perf=haben
@@ -136,6 +138,7 @@ normieren verb class=weak pp=normiert perf=haben
 notieren verb class=weak pp=notiert perf=haben
 notifizieren verb class=weak pp=notifiziert perf=haben
 nötigen verb class=weak pp=genötigt perf=haben
+novellieren verb class=weak pp=novelliert perf=haben
 nuckeln verb class=weak pp=genuckelt perf=haben
 nummerieren verb class=weak pp=nummeriert perf=haben
 nutzen verb class=weak pp=genutzt perf=haben

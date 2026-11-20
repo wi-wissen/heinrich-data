@@ -2,12 +2,14 @@ kacken verb class=weak pp=gekackt perf=haben style=colloquial
 kalkulieren verb class=weak pp=kalkuliert perf=haben
 kämmen verb class=weak pp=gekämmt perf=haben refl=acc
 kämpfen verb class=weak pp=gekämpft perf=haben
+kanalisieren verb class=weak pp=kanalisiert perf=haben
 kandidieren verb class=weak pp=kandidiert perf=haben
 kapern verb class=weak pp=gekapert perf=haben
 kapieren verb class=weak pp=kapiert perf=haben style=colloquial alt=verstehen
 kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
 kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
 kassieren verb class=weak pp=kassiert perf=haben
+kategorisieren verb class=weak pp=kategorisiert perf=haben
 kauen verb class=weak pp=gekaut perf=haben
 kauern verb class=weak pp=gekauert perf=haben refl=acc
 kaufen verb class=weak pp=gekauft perf=haben
@@ -48,6 +50,7 @@ klimpern verb class=weak pp=geklimpert perf=haben
 klingeln verb class=weak pp=geklingelt perf=haben
 klingen verb class=strong 3sg=klingt past=klang pp=geklungen subj2=klänge perf=haben
 klirren verb class=weak pp=geklirrt perf=haben
+klonen verb class=weak pp=geklont perf=haben
 klopfen verb class=weak pp=geklopft perf=haben
 knabbern verb class=weak pp=geknabbert perf=haben
 knacken verb class=weak pp=geknackt perf=haben
@@ -80,12 +83,14 @@ kommissionieren verb class=weak pp=kommissioniert perf=haben
 kommunizieren verb class=weak pp=kommuniziert perf=haben
 kompensieren verb class=weak pp=kompensiert perf=haben
 kompilieren verb class=weak pp=kompiliert perf=haben
+komplettieren verb class=weak pp=komplettiert perf=haben
 komponieren verb class=weak pp=komponiert perf=haben
 komprimieren verb class=weak pp=komprimiert perf=haben
 kondensieren verb class=weak pp=kondensiert perf=haben|sein
 kondolieren verb class=weak pp=kondoliert perf=haben
 konfigurieren verb class=weak pp=konfiguriert perf=haben
 konfiszieren verb class=weak pp=konfisziert perf=haben
+konföderieren verb class=weak pp=konföderiert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konkretisieren verb class=weak pp=konkretisiert perf=haben
 konkurrieren verb class=weak pp=konkurriert perf=haben
@@ -99,6 +104,7 @@ kontaktieren verb class=weak pp=kontaktiert perf=haben
 konterkarieren verb class=weak pp=konterkariert perf=haben
 kontieren verb class=weak pp=kontiert perf=haben
 kontrollieren verb class=weak pp=kontrolliert perf=haben
+konvergieren verb class=weak pp=konvergiert perf=haben
 konvertieren verb class=weak pp=konvertiert perf=haben|sein note=sein for a change of religion (er ist konvertiert), haben for data
 konzentrieren verb class=weak pp=konzentriert perf=haben refl=acc
 konzipieren verb class=weak pp=konzipiert perf=haben
@@ -117,7 +123,9 @@ krachen verb class=weak pp=gekracht perf=haben|sein
 krächzen verb class=weak pp=gekrächzt perf=haben
 krähen verb class=weak pp=gekräht perf=haben
 krakeln verb class=weak pp=gekrakelt perf=haben
+kramen verb class=weak pp=gekramt perf=haben
 kränkeln verb class=weak pp=gekränkelt perf=haben
+kranken verb class=weak pp=gekrankt perf=haben
 kränken verb class=weak pp=gekränkt perf=haben
 krankmelden verb class=weak sep=krank pp=krankgemeldet perf=haben refl=acc note=sich krankmelden; also written krank melden
 krankschreiben verb class=strong sep=krank 3sg=krankschreibt past=krankschrieb pp=krankgeschrieben subj2=krankschriebe perf=haben note=also written krank schreiben
@@ -140,6 +148,7 @@ kühlen verb class=weak pp=gekühlt perf=haben
 kullern verb class=weak pp=gekullert perf=sein
 kultivieren verb class=weak pp=kultiviert perf=haben pp_cmp note=ein kultivierter Mensch
 kümmern verb class=weak pp=gekümmert perf=haben refl=acc
+künden verb class=weak pp=gekündet perf=haben
 kündigen verb class=weak pp=gekündigt perf=haben
 kupieren verb class=weak pp=kupiert perf=haben
 kuratieren verb class=weak pp=kuratiert perf=haben

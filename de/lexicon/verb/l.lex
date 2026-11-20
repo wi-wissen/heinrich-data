@@ -1,3 +1,4 @@
+laben verb class=weak pp=gelabt perf=haben
 labern verb class=weak pp=gelabert perf=haben style=colloquial alt=reden
 lächeln verb class=weak pp=gelächelt perf=haben
 lachen verb class=weak pp=gelacht perf=haben
@@ -7,6 +8,7 @@ lagern verb class=weak pp=gelagert perf=haben
 lähmen verb class=weak pp=gelähmt perf=haben
 lamentieren verb class=weak pp=lamentiert perf=haben
 laminieren verb class=weak pp=laminiert perf=haben
+lancieren verb class=weak pp=lanciert perf=haben
 landen verb class=weak pp=gelandet perf=sein note=ich bin gelandet; transitive use with haben is rare
 langen verb class=weak pp=gelangt perf=haben note=to reach, to suffice
 langweilen verb class=weak pp=gelangweilt perf=haben refl=acc

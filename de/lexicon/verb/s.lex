@@ -80,6 +80,7 @@ schlurren verb class=weak pp=geschlurrt perf=haben|sein
 schlüsseln verb class=weak pp=geschlüsselt perf=haben
 schlussfolgern verb class=weak pp=geschlussfolgert perf=haben
 schmachten verb class=weak pp=geschmachtet perf=haben
+schmälern verb class=weak pp=geschmälert perf=haben
 schmatzen verb class=weak pp=geschmatzt perf=haben
 schmausen verb class=weak pp=geschmaust perf=haben
 schmecken verb class=weak pp=geschmeckt perf=haben
@@ -147,8 +148,10 @@ schweben verb class=weak pp=geschwebt perf=haben|sein
 schweifen verb class=weak pp=geschweift perf=haben|sein
 schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwiege perf=haben
 schweißen verb class=weak pp=geschweißt perf=haben
+schwelgen verb class=weak pp=geschwelgt perf=haben
 schwellen verb class=strong 3sg=schwillt past=schwoll pp=geschwollen subj2=schwölle perf=sein
 schwemmen verb class=weak pp=geschwemmt perf=haben
+schwenken verb class=weak pp=geschwenkt perf=haben|sein
 schwerfallen verb class=strong sep=schwer 3sg=schwerfällt past=schwerfiel pp=schwergefallen subj2=schwerfiele perf=sein
 schwimmen verb class=strong 3sg=schwimmt past=schwamm pp=geschwommen subj2=schwömme|schwämme perf=haben|sein
 schwindeln verb class=weak pp=geschwindelt perf=haben
@@ -176,6 +179,7 @@ sicherstellen verb class=weak sep=sicher pp=sichergestellt perf=haben
 sichten verb class=weak pp=gesichtet perf=haben
 siechen verb class=weak pp=gesiecht perf=haben conf=85 note=mostly dahinsiechen
 siedeln verb class=weak pp=gesiedelt perf=haben
+sieden verb class=weak past=siedete|sott subj2=siedete|sötte pp=gesiedet|gesotten perf=haben
 siegeln verb class=weak pp=gesiegelt perf=haben
 siegen verb class=weak pp=gesiegt perf=haben
 siezen verb class=weak pp=gesiezt perf=haben
@@ -234,6 +238,7 @@ spuren verb class=weak pp=gespurt perf=haben note=eine Loipe spuren; colloquial:
 spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben
 staffeln verb class=weak pp=gestaffelt perf=haben
+stagnieren verb class=weak pp=stagniert perf=haben
 stalken verb class=weak pp=gestalkt perf=haben
 stammeln verb class=weak pp=gestammelt perf=haben
 stammen verb class=weak pp=gestammt perf=haben
@@ -262,6 +267,8 @@ stempeln verb class=weak pp=gestempelt perf=haben
 sterben verb class=strong 3sg=stirbt past=starb pp=gestorben subj2=stürbe perf=sein
 steuern verb class=weak pp=gesteuert perf=haben
 sticken verb class=weak pp=gestickt perf=haben
+stieben verb class=strong 3sg=stiebt past=stob pp=gestoben subj2=stöbe perf=haben|sein
+stieren verb class=weak pp=gestiert perf=haben note=stem stier-, not an -ieren verb
 stiften verb class=weak pp=gestiftet perf=haben
 stilisieren verb class=weak pp=stilisiert perf=haben
 stillen verb class=weak pp=gestillt perf=haben

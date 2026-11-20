@@ -104,12 +104,15 @@ erfolglos adj cmp=erfolgloser sup=erfolglosesten
 erfolgreich adj cmp=erfolgreicher sup=erfolgreichsten
 erforderlich adj
 erfreulich adj cmp=erfreulicher sup=erfreulichsten
+ergeben adj cmp=ergebener sup=ergebensten
 ergonomisch adj
 erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
 erkennbar adj
+erkenntlich adj
 erklärlich adj
+erlaucht adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
 erneuerbar adj
 erneut adj
@@ -124,9 +127,11 @@ erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstaunt adj cmp=erstaunter sup=erstauntesten
 erstbeschrieben adj conf=90 note=biology: first described (participle of erstbeschreiben, used as participle only)
 erstmalig adj
+erstplatziert adj
 erträglich adj cmp=erträglicher sup=erträglichsten
 erwachsen adj
 erwähnenswert adj
+erwartungsgemäß adj
 erwünscht adj
 erzählend adj
 essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell
@@ -138,6 +143,7 @@ europäisch adj
 europaweit adj
 evangelisch adj
 eventuell adj
+evolutionär adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
@@ -145,6 +151,7 @@ existent adj
 existenziell adj
 exklusiv adj cmp=exklusiver sup=exklusivsten
 exogen adj
+exorbitant adj cmp=exorbitanter sup=exorbitantesten
 exotisch adj cmp=exotischer sup=exotischsten
 experimentell adj
 explizit adj

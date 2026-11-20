@@ -15,6 +15,7 @@ inhaftieren verb class=weak pp=inhaftiert perf=haben
 initiieren verb class=weak pp=initiiert perf=haben
 inkorporieren verb class=weak pp=inkorporiert perf=haben
 innehaben verb class=mixed sep=inne 3sg=innehat past=innehatte pp=innegehabt subj2=innehätte perf=haben
+innehalten verb class=strong sep=inne 3sg=innehält past=innehielt pp=innegehalten subj2=innehielte perf=haben
 inspirieren verb class=weak pp=inspiriert perf=haben
 installieren verb class=weak pp=installiert perf=haben
 instrumentalisieren verb class=weak pp=instrumentalisiert perf=haben
@@ -24,6 +25,8 @@ intensivieren verb class=weak pp=intensiviert perf=haben refl=acc
 interessieren verb class=weak pp=interessiert perf=haben refl=acc
 internieren verb class=weak pp=interniert perf=haben
 interpretieren verb class=weak pp=interpretiert perf=haben
+intervenieren verb class=weak pp=interveniert perf=haben
+interviewen verb class=weak pp=interviewt perf=haben note=loanword, participle without ge-
 investieren verb class=weak pp=investiert perf=haben
 involvieren verb class=weak pp=involviert perf=haben
 ionisieren verb class=weak pp=ionisiert perf=haben

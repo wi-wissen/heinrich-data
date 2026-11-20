@@ -19,6 +19,7 @@ recht adj note=attributive: die rechte Hand
 rechteckig adj
 rechtlich adj
 rechtmäßig adj
+rechtshängig adj
 rechtskräftig adj
 rechtsseitig adj
 rechtswidrig adj
@@ -54,6 +55,7 @@ respektlos adj cmp=respektloser sup=respektlosesten
 respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 restriktiv adj cmp=restriktiver sup=restriktivsten
+retrograd adj
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rezent adj
 rheinisch adj

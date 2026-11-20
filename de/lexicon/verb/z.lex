@@ -1,3 +1,4 @@
+zagen verb class=weak pp=gezagt perf=haben
 zahlen verb class=weak pp=gezahlt perf=haben
 zählen verb class=weak pp=gezählt perf=haben
 zähmen verb class=weak pp=gezähmt perf=haben
@@ -35,6 +36,7 @@ zerkratzen verb class=weak pp=zerkratzt perf=haben
 zerlaufen verb class=strong 3sg=zerläuft past=zerlief subj2=zerliefe pp=zerlaufen perf=sein
 zerlegen verb class=weak pp=zerlegt perf=haben
 zermahlen verb class=weak pp=zermahlen|zermahlt[rare] perf=haben
+zermalmen verb class=weak pp=zermalmt perf=haben
 zermürben verb class=weak pp=zermürbt perf=haben
 zerpflücken verb class=weak pp=zerpflückt perf=haben
 zerplatzen verb class=weak pp=zerplatzt perf=sein
@@ -53,6 +55,7 @@ zerschmettern verb class=weak pp=zerschmettert perf=haben
 zerschneiden verb class=strong 3sg=zerschneidet past=zerschnitt pp=zerschnitten subj2=zerschnitte perf=haben
 zersetzen verb class=weak pp=zersetzt perf=haben
 zersplittern verb class=weak pp=zersplittert perf=haben|sein
+zersprengen verb class=weak pp=zersprengt perf=haben
 zerspringen verb class=strong 3sg=zerspringt past=zersprang subj2=zerspränge pp=zersprungen perf=sein
 zerstampfen verb class=weak pp=zerstampft perf=haben
 zerstören verb class=weak pp=zerstört perf=haben

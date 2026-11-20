@@ -18,6 +18,7 @@ wehmütig adj cmp=wehmütiger sup=wehmütigsten
 wehrpflichtig adj
 weiblich adj
 weich adj cmp=weicher sup=weichsten
+weinerlich adj cmp=weinerlicher sup=weinerlichsten
 weise adj cmp=weiser sup=weisesten
 weiß adj cmp=weißer sup=weißesten
 weisungsgemäß adj
@@ -45,6 +46,7 @@ widerwärtig adj cmp=widerwärtiger sup=widerwärtigsten
 widrig adj cmp=widriger sup=widrigsten
 wild adj cmp=wilder sup=wildesten
 willens adj pred_only note=willens sein, etwas zu tun
+willentlich adj
 willig adj cmp=williger sup=willigsten
 willkommen adj
 willkürlich adj
@@ -59,6 +61,7 @@ wissentlich adj
 witzig adj cmp=witziger sup=witzigsten
 wöchentlich adj
 wohlfeil adj cmp=wohlfeiler sup=wohlfeilsten
+wohlgemut adj
 wohlhabend adj cmp=wohlhabender sup=wohlhabendsten
 wohlig adj cmp=wohliger sup=wohligsten
 wohlriechend adj
@@ -67,6 +70,7 @@ wohnhaft adj note=wohnhaft in Berlin
 wolkig adj cmp=wolkiger sup=wolkigsten
 wollen adj note=made of wool (wollene Strümpfe)
 wörtlich adj
+wuchtig adj cmp=wuchtiger sup=wuchtigsten
 wund adj cmp=wunder sup=wundesten
 wunderbar adj cmp=wunderbarer sup=wunderbarsten
 wunderlich adj cmp=wunderlicher sup=wunderlichsten

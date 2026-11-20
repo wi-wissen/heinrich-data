@@ -50,6 +50,7 @@ mitberücksichtigen verb class=weak sep=mit pp=mitberücksichtigt perf=haben con
 mitbestimmen verb class=weak sep=mit pp=mitbestimmt perf=haben
 mitbringen verb class=mixed sep=mit 3sg=mitbringt past=mitbrachte pp=mitgebracht subj2=mitbrächte perf=haben
 mitdenken verb class=mixed sep=mit 3sg=mitdenkt past=mitdachte subj2=mitdächte pp=mitgedacht perf=haben
+miteinbeziehen verb class=strong sep=mitein 3sg=miteinbezieht past=miteinbezog pp=miteinbezogen subj2=miteinbezöge perf=haben
 mitentscheiden verb class=strong sep=mit 3sg=mitentscheidet past=mitentschied pp=mitentschieden subj2=mitentschiede perf=haben
 miterleben verb class=weak sep=mit pp=miterlebt perf=haben
 mitessen verb class=strong sep=mit 3sg=mitisst past=mitaß pp=mitgegessen subj2=mitäße perf=haben

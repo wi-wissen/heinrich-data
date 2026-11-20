@@ -12,6 +12,7 @@ barmherzig adj cmp=barmherziger sup=barmherzigsten
 barock adj
 barrierefrei adj
 bärtig adj
+basal adj
 bäuerisch adj
 bäuerlich adj
 baulich adj
@@ -31,6 +32,7 @@ bedürftig adj cmp=bedürftiger sup=bedürftigsten
 befallgefährdet adj note=agriculture: at risk of pest infestation
 befangen adj
 befindlich adj
+beflissen adj
 befremdlich adj cmp=befremdlicher sup=befremdlichsten
 befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
@@ -70,9 +72,11 @@ bemerkbar adj
 bemerkenswert adj cmp=bemerkenswerter sup=bemerkenswertesten
 benachbart adj
 bequem adj cmp=bequemer sup=bequemsten
+beredt adj cmp=beredter sup=beredtesten
 bereit adj
 bergig adj cmp=bergiger sup=bergigsten
 bergisch adj
+bernisch adj
 berüchtigt adj cmp=berüchtigter sup=berüchtigtsten
 beruflich adj
 berufsständisch adj
@@ -85,6 +89,7 @@ beschwerlich adj
 besiegt adj
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
+bessergestellt adj
 beständig adj cmp=beständiger sup=beständigsten
 bestimmungsgemäß adj
 bestmöglich adj
@@ -150,6 +155,7 @@ bretonisch adj
 britisch adj
 bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten
+brüderlich adj cmp=brüderlicher sup=brüderlichsten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj
 buchstäblich adj

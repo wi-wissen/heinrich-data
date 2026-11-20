@@ -6,6 +6,10 @@ alleine adv
 allemal adv
 allenfalls adv
 allenthalben adv
+allerorten adv
+allerorts adv
+allerseits adv
+allerwärts adv
 allesamt adv
 allezeit adv
 allseits adv

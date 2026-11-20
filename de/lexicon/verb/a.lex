@@ -334,6 +334,7 @@ anheuern verb class=weak sep=an pp=angeheuert perf=haben
 anhimmeln verb class=weak sep=an pp=angehimmelt perf=haben
 anhören verb class=weak sep=an pp=angehört perf=haben refl=dat
 anhupen verb class=weak sep=an pp=angehupt perf=haben
+animieren verb class=weak pp=animiert perf=haben
 ankämpfen verb class=weak sep=an pp=angekämpft perf=haben note=gegen etwas ankämpfen
 ankaufen verb class=weak sep=an pp=angekauft perf=haben
 anketten verb class=weak sep=an pp=angekettet perf=haben

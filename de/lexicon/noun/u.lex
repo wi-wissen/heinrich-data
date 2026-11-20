@@ -6,6 +6,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überbleibsel noun g=n gen=Überbleibsels pl=Überbleibsel
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
 Überbrückung noun g=f gen=Überbrückung pl=Überbrückungen
+Überdruss noun g=m gen=Überdrusses pl=- note=no plural
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
 Übereinkunft noun g=f gen=Übereinkunft pl=Übereinkünfte
 Übereinstimmung noun g=f gen=Übereinstimmung pl=Übereinstimmungen
@@ -43,6 +44,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überweisung noun g=f gen=Überweisung pl=Überweisungen
 Überwindung noun g=f gen=Überwindung pl=- note=no plural
 Überzeugung noun g=f gen=Überzeugung pl=Überzeugungen
+Überzieher noun g=m gen=Überziehers pl=Überzieher
 Übung noun g=f gen=Übung pl=Übungen
 Ufer noun g=n gen=Ufers pl=Ufer
 UG noun g=f gen=UG pl=UGs note=Unternehmergesellschaft
@@ -52,6 +54,7 @@ Uhrmacherin noun g=f gen=Uhrmacherin pl=Uhrmacherinnen
 Uhrzeigersinn noun g=m gen=Uhrzeigersinns|Uhrzeigersinnes pl=- note=mostly in "im Uhrzeigersinn"
 Uhu noun g=m gen=Uhus pl=Uhus
 Uigure noun g=m gen=Uiguren pl=Uiguren
+Ulan noun g=m gen=Ulanen pl=Ulanen
 Ulme noun g=f gen=Ulme pl=Ulmen
 Ultimatum noun g=n gen=Ultimatums pl=Ultimaten|Ultimatums conf=85 note=plural Ultimaten common, Ultimatums also used
 Ultra noun g=m gen=Ultras pl=Ultras conf=90 note=radical (football) fan or political extremist
@@ -97,6 +100,7 @@ Umweltverschmutzung noun g=f gen=Umweltverschmutzung pl=- note=no plural
 Umzug noun g=m gen=Umzugs|Umzuges pl=Umzüge
 Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural in normal use
 Unannehmlichkeit noun g=f gen=Unannehmlichkeit pl=Unannehmlichkeiten
+Unbedenklichkeit noun g=f gen=Unbedenklichkeit pl=- note=no plural
 Unbekannte noun g=m|f decl=adj
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
@@ -116,6 +120,7 @@ Unheil noun g=n gen=Unheils pl=- note=no plural
 Uni noun g=f gen=Uni pl=Unis
 Uniform noun g=f gen=Uniform pl=Uniformen
 Union noun g=f gen=Union pl=Unionen
+Unionist noun g=m gen=Unionisten pl=Unionisten
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
 Unix noun g=n gen=Unix pl=- note=operating system family; bare genitive after x
@@ -135,6 +140,7 @@ Unsterblichkeit noun g=f gen=Unsterblichkeit pl=- note=no plural
 Unstimmigkeit noun g=f gen=Unstimmigkeit pl=Unstimmigkeiten
 Unterbrechung noun g=f gen=Unterbrechung pl=Unterbrechungen
 Unterbringung noun g=f gen=Unterbringung pl=Unterbringungen
+Unterdrücker noun g=m gen=Unterdrückers pl=Unterdrücker
 Unterdrückung noun g=f gen=Unterdrückung pl=Unterdrückungen
 Unterführung noun g=f gen=Unterführung pl=Unterführungen
 Untergang noun g=m gen=Untergangs|Unterganges pl=Untergänge
@@ -197,5 +203,7 @@ Ursprung noun g=m gen=Ursprungs|Ursprunges pl=Ursprünge
 Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
 Usenet noun g=n gen=Usenets pl=- note=name of the network; used with article
+Usurpator noun g=m gen=Usurpators pl=Usurpatoren
+Uterus noun g=m gen=Uterus pl=Uteri note=genitive unchanged (des Uterus)
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural
 Utopie noun g=f gen=Utopie pl=Utopien

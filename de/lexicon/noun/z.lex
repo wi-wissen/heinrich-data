@@ -13,6 +13,7 @@ Zange noun g=f gen=Zange pl=Zangen
 Zank noun g=m gen=Zanks|Zankes pl=- note=no plural (mass or abstract noun)
 Zapfen noun g=m gen=Zapfens pl=Zapfen
 Zar noun g=m gen=Zaren pl=Zaren
+Zarin noun g=f gen=Zarin pl=Zarinnen
 Zärtlichkeit noun g=f gen=Zärtlichkeit pl=Zärtlichkeiten
 Zaster noun g=m gen=Zasters pl=- style=colloquial alt=Geld note=no plural
 Zäsur noun g=f gen=Zäsur pl=Zäsuren
@@ -26,11 +27,13 @@ Zaun noun g=m gen=Zauns|Zaunes pl=Zäune
 ZDF noun g=n gen=ZDF|ZDFs pl=- note=das ZDF
 Zebra noun g=n gen=Zebras pl=Zebras
 Zeche noun g=f gen=Zeche pl=Zechen
+Zechine noun g=f gen=Zechine pl=Zechinen
 Zecke noun g=f gen=Zecke pl=Zecken
 Zeder noun g=f gen=Zeder pl=Zedern
 Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zehner noun g=m gen=Zehners pl=Zehner
+Zehnt noun g=m gen=Zehnten pl=Zehnten note=historical tax
 Zehntel noun g=n gen=Zehntels pl=Zehntel
 Zeichen noun g=n gen=Zeichens pl=Zeichen
 Zeichensetzung noun g=f gen=Zeichensetzung pl=- note=no plural
@@ -84,11 +87,13 @@ Zeugnis noun g=n gen=Zeugnisses pl=Zeugnisse
 Zibet noun g=m gen=Zibets pl=- note=mass noun; musk substance of the civet
 Zicke noun g=f gen=Zicke pl=Zicken style=colloquial
 Zicklein noun g=n gen=Zickleins pl=Zicklein
+Zickzack noun g=m gen=Zickzacks|Zickzackes pl=Zickzacke
 Ziege noun g=f gen=Ziege pl=Ziegen
 Ziegel noun g=m gen=Ziegels pl=Ziegel
 Ziehharmonika noun g=f gen=Ziehharmonika pl=Ziehharmonikas|Ziehharmoniken
 Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
+Zier noun g=f gen=Zier pl=- note=no plural
 Zierde noun g=f gen=Zierde pl=Zierden
 Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
@@ -100,6 +105,7 @@ Zigeunerschnitzel noun g=n gen=Zigeunerschnitzels pl=Zigeunerschnitzel style=off
 Zigeunersoße noun g=f gen=Zigeunersoße pl=Zigeunersoßen style=offensive alt=Paprikasoße
 Zikade noun g=f gen=Zikade pl=Zikaden
 Zimmer noun g=n gen=Zimmers pl=Zimmer
+Zimmerer noun g=m gen=Zimmerers pl=Zimmerer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
 Zimt noun g=m gen=Zimtes|Zimts pl=- note=no plural
 Zimtstern noun g=m gen=Zimtsterns pl=Zimtsterne
@@ -114,7 +120,9 @@ Zirconium noun g=n gen=Zirconiums pl=- note=chemical element; also Zirkonium
 Zirkel noun g=m gen=Zirkels pl=Zirkel
 Zirkonium noun g=n gen=Zirkoniums pl=- note=chemical element; spelling variant of Zirconium
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
+Zisterne noun g=f gen=Zisterne pl=Zisternen
 Zisterzienser noun g=m gen=Zisterziensers pl=Zisterzienser
+Zisterzienserin noun g=f gen=Zisterzienserin pl=Zisterzienserinnen
 Zitadelle noun g=f gen=Zitadelle pl=Zitadellen
 Zitat noun g=n gen=Zitats|Zitates pl=Zitate
 Zither noun g=f gen=Zither pl=Zithern
@@ -166,6 +174,7 @@ Zugehörigkeit noun g=f gen=Zugehörigkeit pl=- note=no plural
 Zügel noun g=m gen=Zügels pl=Zügel
 Zugriff noun g=m gen=Zugriffs|Zugriffes pl=Zugriffe
 Zugrundelegung noun g=f gen=Zugrundelegung pl=- note=no plural
+Zuhälter noun g=m gen=Zuhälters pl=Zuhälter
 Zuhause noun g=n gen=Zuhauses pl=- note=no plural
 Zuhilfenahme noun g=f gen=Zuhilfenahme pl=- note=unter Zuhilfenahme; no plural
 Zuhörer noun g=m gen=Zuhörers pl=Zuhörer
@@ -228,24 +237,31 @@ Zuwiderhandlung noun g=f gen=Zuwiderhandlung pl=Zuwiderhandlungen
 Zuzug noun g=m gen=Zuzugs|Zuzuges pl=Zuzüge
 Zwang noun g=m gen=Zwangs|Zwanges pl=Zwänge
 Zwangsvollstreckung noun g=f gen=Zwangsvollstreckung pl=Zwangsvollstreckungen
+Zwanziger noun g=m gen=Zwanzigers pl=Zwanziger
+Zwanzigstel noun g=n gen=Zwanzigstels pl=Zwanzigstel
 Zweck noun g=m gen=Zwecks|Zweckes pl=Zwecke
 Zwei noun g=f gen=Zwei pl=Zweien note=die Zwei: the digit, a grade, a bus line
 Zweier noun g=m gen=Zweiers pl=Zweier note=two-person boat; grade 2; two-euro coin
 Zweifel noun g=m gen=Zweifels pl=Zweifel
+Zweifler noun g=m gen=Zweiflers pl=Zweifler
 Zweifüßler noun g=m gen=Zweifüßlers pl=Zweifüßler
 Zweig noun g=m gen=Zweigs|Zweiges pl=Zweige
 Zweitklassigkeit noun g=f gen=Zweitklassigkeit pl=- note=abstract noun, no plural
 Zweitligist noun g=m gen=Zweitligisten pl=Zweitligisten
 Zweitstimme noun g=f gen=Zweitstimme pl=Zweitstimmen
+Zwerchfell noun g=n gen=Zwerchfells|Zwerchfelles pl=Zwerchfelle
 Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
+Zwicker noun g=m gen=Zwickers pl=Zwicker
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
+Zwiegespräch noun g=n gen=Zwiegesprächs|Zwiegespräches pl=Zwiegespräche
 Zwielicht noun g=n gen=Zwielichts|Zwielichtes pl=- note=mass noun
 Zwiespalt noun g=m gen=Zwiespalts|Zwiespaltes pl=Zwiespalte|Zwiespälte
 Zwietracht noun g=f gen=Zwietracht pl=- note=mass noun
 Zwilling noun g=m gen=Zwillings pl=Zwillinge
 Zwinger noun g=m gen=Zwingers pl=Zwinger
+Zwirn noun g=m gen=Zwirns|Zwirnes pl=Zwirne
 Zwischenstopp noun g=m gen=Zwischenstopps pl=Zwischenstopps
 Zwist noun g=m gen=Zwists|Zwistes pl=Zwiste
 Zygote noun g=f gen=Zygote pl=Zygoten

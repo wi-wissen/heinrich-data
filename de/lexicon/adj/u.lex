@@ -13,6 +13,7 @@
 überzeugend adj cmp=überzeugender sup=überzeugendsten
 üblich adj
 übrig adj note=not compared; im Übrigen, die übrigen Gäste
+ugandisch adj
 ukrainisch adj
 umfangreich adj cmp=umfangreicher sup=umfangreichsten
 umgangssprachlich adj
@@ -31,6 +32,7 @@ unaufhaltsam adj
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
 unaussprechlich adj
+unbändig adj cmp=unbändiger sup=unbändigsten
 unbarmherzig adj cmp=unbarmherziger sup=unbarmherzigsten
 unbefangen adj
 unbefristet adj
@@ -57,9 +59,11 @@ undeutlich adj cmp=undeutlicher sup=undeutlichsten
 undurchsichtig adj
 unehrlich adj cmp=unehrlicher sup=unehrlichsten
 uneingeschränkt adj
+uneins adj pred_only
 unendlich adj
 unentbehrlich adj
 unentgeltlich adj
+unentwegt adj
 unerbittlich adj cmp=unerbittlicher sup=unerbittlichsten
 unerlässlich adj
 unerledigt adj
@@ -104,6 +108,7 @@ universitär adj
 unklar adj cmp=unklarer sup=unklarsten
 unkonzentriert adj cmp=unkonzentrierter sup=unkonzentriertesten
 unleserlich adj
+unleugbar adj
 unlogisch adj cmp=unlogischer sup=unlogischsten
 unlöslich adj
 unmenschlich adj
@@ -123,6 +128,7 @@ unrichtig adj
 unruhig adj
 unsäglich adj
 unscharf adj
+unschicklich adj cmp=unschicklicher sup=unschicklichsten
 unschuldig adj
 unseriös adj
 unsicher adj cmp=unsicherer sup=unsichersten
@@ -143,6 +149,7 @@ unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
+untröstlich adj
 unumgänglich adj
 ununterbrochen adj
 unverändert adj
@@ -165,6 +172,7 @@ unwiederbringlich adj
 unwillig adj cmp=unwilliger sup=unwilligsten
 unwillkürlich adj
 unwirksam adj
+unwirsch adj cmp=unwirscher sup=unwirschesten
 unwissend adj cmp=unwissender sup=unwissendsten
 unwohl adj
 unwürdig adj cmp=unwürdiger sup=unwürdigsten

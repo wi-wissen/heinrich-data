@@ -1,8 +1,10 @@
 währenddessen adv type=conj
 wahrlich adv
 weh adv note=only in weh tun
+weidlich adv
 weiland adv style=archaic
 weislich adv
+weitab adv
 weiterhin adv
 weiters adv region=AT
 weitestgehend adv note=superlative of weitgehend; adverbial use

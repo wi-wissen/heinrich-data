@@ -13,6 +13,8 @@ zeitlich adj
 zeitweilig adj
 zentral adj cmp=zentraler sup=zentralsten
 zerbrechlich adj cmp=zerbrechlicher sup=zerbrechlichsten
+zerknirscht adj cmp=zerknirschter sup=zerknirschtesten
+zerlumpt adj cmp=zerlumpter sup=zerlumptesten
 zerstreut adj cmp=zerstreuter sup=zerstreutesten
 zerstritten adj
 zickig adj cmp=zickiger sup=zickigsten
@@ -26,6 +28,7 @@ zögerlich adj cmp=zögerlicher sup=zögerlichsten
 zögernd adj cmp=zögernder sup=zögerndsten
 zornig adj cmp=zorniger sup=zornigsten
 zottelig adj cmp=zotteliger sup=zotteligsten
+zudringlich adj cmp=zudringlicher sup=zudringlichsten
 zufällig adj
 zufrieden adj cmp=zufriedener sup=zufriedensten
 zugänglich adj cmp=zugänglicher sup=zugänglichsten
@@ -49,7 +52,10 @@ zwangsläufig adj
 zweckdienlich adj
 zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
 zweckwidrig adj
+zweiachsig adj
 zweiatomig adj
+zweideutig adj cmp=zweideutiger sup=zweideutigsten
+zweidimensional adj
 zweierlei adj indecl
 zweifach adj
 zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
@@ -58,6 +64,7 @@ zweigeschossig adj
 zweigleisig adj
 zweisprachig adj
 zweistellig adj
+zweistöckig adj
 zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
 zweitplatziert adj

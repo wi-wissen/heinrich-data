@@ -60,6 +60,7 @@ Fanatiker noun g=m gen=Fanatikers pl=Fanatiker
 Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
+Fänger noun g=m gen=Fängers pl=Fänger
 Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
 Farad noun g=n gen=Farad|Farads pl=Farad note=unit of capacitance
@@ -72,6 +73,7 @@ Farmer noun g=m gen=Farmers pl=Farmer
 Farn noun g=m gen=Farnes|Farns pl=Farne
 Färse noun g=f gen=Färse pl=Färsen
 Fasan noun g=m gen=Fasans pl=Fasane|Fasanen
+Fasanerie noun g=f gen=Fasanerie pl=Fasanerien
 Fasching noun g=m gen=Faschings pl=- note=mass noun; regional (carnival)
 Faschismus noun g=m gen=Faschismus pl=- note=no plural
 Faschist noun g=m gen=Faschisten pl=Faschisten
@@ -85,6 +87,7 @@ Fastnacht noun g=f gen=Fastnacht pl=- note=no plural (mass or abstract noun)
 Faszination noun g=f gen=Faszination pl=Faszinationen
 Fatimide noun g=m gen=Fatimiden pl=Fatimiden note=member of the Fatimid dynasty
 Faulheit noun g=f gen=Faulheit pl=- note=mass noun
+Fäulnis noun g=f gen=Fäulnis pl=- note=no plural
 Faultier noun g=n gen=Faultiers pl=Faultiere
 Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
@@ -118,8 +121,10 @@ Feind noun g=m gen=Feindes|Feinds[rare] pl=Feinde
 Feindin noun g=f gen=Feindin pl=Feindinnen
 Feindlichkeit noun g=f gen=Feindlichkeit pl=Feindlichkeiten
 Feindschaft noun g=f gen=Feindschaft pl=Feindschaften
+Feinschmecker noun g=m gen=Feinschmeckers pl=Feinschmecker
 Feld noun g=n gen=Feldes|Felds[rare] pl=Felder
 Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
+Felge noun g=f gen=Felge pl=Felgen
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsen noun g=m gen=Felsens pl=Felsen
@@ -190,6 +195,7 @@ Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and 
 Finanzen noun g=pl
 Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
 Finder noun g=m gen=Finders pl=Finder
+Findling noun g=m gen=Findlings pl=Findlinge
 Findung noun g=f gen=Findung pl=Findungen note=mostly in compounds (Terminfindung, Entscheidungsfindung)
 Finger noun g=m gen=Fingers pl=Finger
 Fingerzeig noun g=m gen=Fingerzeigs|Fingerzeiges pl=Fingerzeige
@@ -211,6 +217,7 @@ Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
 Flair noun g=n gen=Flairs pl=- note=no plural
+Flak noun g=f gen=Flak pl=Flak|Flaks
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
 Flanke noun g=f gen=Flanke pl=Flanken
@@ -218,6 +225,7 @@ Fläschchen noun g=n gen=Fläschchens pl=Fläschchen
 Flasche noun g=f gen=Flasche pl=Flaschen
 Flaschenöffner noun g=m gen=Flaschenöffners pl=Flaschenöffner
 Flatrate noun g=f gen=Flatrate pl=Flatrates
+Flaum noun g=m gen=Flaums|Flaumes pl=- note=no plural
 Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
 Fledermaus noun g=f gen=Fledermaus pl=Fledermäuse
@@ -269,6 +277,7 @@ Fluglotse noun g=m gen=Fluglotsen pl=Fluglotsen
 Flugsaurier noun g=m gen=Flugsauriers pl=Flugsaurier
 Flugzeug noun g=n gen=Flugzeugs|Flugzeuges pl=Flugzeuge
 Fluor noun g=n gen=Fluors pl=- note=chemical element
+Fluoreszenz noun g=f gen=Fluoreszenz pl=Fluoreszenzen
 Fluorid noun g=n gen=Fluorids|Fluorides pl=Fluoride
 Flur noun g=m gen=Flurs|Flures pl=Flure sense=hall note=der Flur: corridor
 Flur noun g=f gen=Flur pl=Fluren sense=field note=die Flur: farmland
@@ -284,6 +293,7 @@ Föhn noun g=m gen=Föhns pl=Föhne
 Fokus noun g=m gen=Fokus pl=Fokusse|Foki[rare] note=des Fokus
 Fokussierung noun g=f gen=Fokussierung pl=Fokussierungen
 Folge noun g=f gen=Folge pl=Folgen
+Foliant noun g=m gen=Folianten pl=Folianten
 Folie noun g=f gen=Folie pl=Folien
 Follower noun g=m gen=Followers pl=Follower
 Followerin noun g=f gen=Followerin pl=Followerinnen
@@ -292,6 +302,7 @@ Fön noun g=m gen=Föns pl=Föne
 Fond noun g=m gen=Fonds pl=Fonds note=back seat, background, meat stock (not Fonds = fund)
 Fonds noun g=m gen=Fonds pl=Fonds note=des Fonds; spoken without s
 Fondue noun g=n gen=Fondues pl=Fondues
+Fontäne noun g=f gen=Fontäne pl=Fontänen
 Football noun g=m gen=Footballs pl=- note=American football
 Förde noun g=f gen=Förde pl=Förden
 Förderer noun g=m gen=Förderers pl=Förderer
@@ -301,6 +312,7 @@ Forderung noun g=f gen=Forderung pl=Forderungen
 Förderung noun g=f gen=Förderung pl=Förderungen
 Forelle noun g=f gen=Forelle pl=Forellen
 Form noun g=f gen=Form pl=Formen
+Formaldehyd noun g=m|n gen=Formaldehyds pl=- note=mass noun
 Format noun g=n gen=Formats|Formates pl=Formate
 Formatierung noun g=f gen=Formatierung pl=Formatierungen
 Formation noun g=f gen=Formation pl=Formationen
@@ -345,6 +357,7 @@ Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
 Franken noun g=m gen=Frankens pl=Franken sense=currency note=Swiss franc
 Frankfurter noun g=m gen=Frankfurters pl=Frankfurter
 Franziskaner noun g=m gen=Franziskaners pl=Franziskaner
+Franziskanerin noun g=f gen=Franziskanerin pl=Franziskanerinnen
 Franzose noun g=m gen=Franzosen pl=Franzosen
 Französin noun g=f gen=Französin pl=Französinnen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
@@ -443,6 +456,8 @@ Funktionär noun g=m gen=Funktionärs pl=Funktionäre
 Funktionärin noun g=f gen=Funktionärin pl=Funktionärinnen
 Furche noun g=f gen=Furche pl=Furchen
 Furcht noun g=f gen=Furcht pl=- note=no plural in use
+Furie noun g=f gen=Furie pl=Furien
+Furore noun g=f gen=Furore pl=- note=Furore machen
 Fürst noun g=m gen=Fürsten pl=Fürsten
 Fürstentum noun g=n gen=Fürstentums pl=Fürstentümer
 Fürstin noun g=f gen=Fürstin pl=Fürstinnen

@@ -13,6 +13,8 @@ Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
 Nachfolgerin noun g=f gen=Nachfolgerin pl=Nachfolgerinnen
 Nachforderung noun g=f gen=Nachforderung pl=Nachforderungen
 Nachfrage noun g=f gen=Nachfrage pl=Nachfragen
+Nachfrager noun g=m gen=Nachfragers pl=Nachfrager
+Nachhall noun g=m gen=Nachhalls|Nachhalles pl=Nachhalle
 Nachhaltigkeit noun g=f gen=Nachhaltigkeit pl=- note=no plural
 Nachhauseweg noun g=m gen=Nachhausewegs|Nachhauseweges pl=Nachhausewege
 Nachhilfe noun g=f gen=Nachhilfe pl=- note=no plural
@@ -22,6 +24,7 @@ Nachlass noun g=m gen=Nachlasses pl=Nachlässe|Nachlasse[rare]
 Nachmittag noun g=m gen=Nachmittags|Nachmittages pl=Nachmittage
 Nachricht noun g=f gen=Nachricht pl=Nachrichten
 Nachrichtensendung noun g=f gen=Nachrichtensendung pl=Nachrichtensendungen
+Nachrücker noun g=m gen=Nachrückers pl=Nachrücker
 Nachschlagewerk noun g=n gen=Nachschlagewerks|Nachschlagewerkes pl=Nachschlagewerke
 Nachschub noun g=m gen=Nachschubs|Nachschubes pl=Nachschübe
 Nachsilbe noun g=f gen=Nachsilbe pl=Nachsilben
@@ -35,6 +38,7 @@ Nachweis noun g=m gen=Nachweises pl=Nachweise
 Nachwort noun g=n gen=Nachworts|Nachwortes pl=Nachworte
 Nachwuchs noun g=m gen=Nachwuchses pl=- note=no plural
 Nachzahlung noun g=f gen=Nachzahlung pl=Nachzahlungen
+Nachzügler noun g=m gen=Nachzüglers pl=Nachzügler
 Nacken noun g=m gen=Nackens pl=Nacken
 Nadel noun g=f gen=Nadel pl=Nadeln
 Nadelöhr noun g=n gen=Nadelöhrs|Nadelöhres pl=Nadelöhre
@@ -42,6 +46,7 @@ Nagel noun g=m gen=Nagels pl=Nägel
 Nagellack noun g=m gen=Nagellacks|Nagellackes pl=Nagellacke
 Nager noun g=m gen=Nagers pl=Nager
 Nähe noun g=f gen=Nähe pl=- note=plural not used
+Näherin noun g=f gen=Näherin pl=Näherinnen
 Näherung noun g=f gen=Näherung pl=Näherungen
 Näherungsbruch noun g=m gen=Näherungsbruchs|Näherungsbruches pl=Näherungsbrüche
 Nährstoff noun g=m gen=Nährstoffs|Nährstoffes pl=Nährstoffe
@@ -52,14 +57,17 @@ Naivität noun g=f gen=Naivität pl=- note=mass noun
 Name         noun g=m gen=Namens pl=Namen
 Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
 Nanny noun g=f gen=Nanny pl=Nannys
+Napalm noun g=n gen=Napalms pl=- note=mass noun
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
 Narkose noun g=f gen=Narkose pl=Narkosen
 Narr noun g=m gen=Narren pl=Narren
 Narrativ noun g=n gen=Narrativs pl=Narrative
 Narrheit noun g=f gen=Narrheit pl=Narrheiten
+Närrin noun g=f gen=Närrin pl=Närrinnen
 Narzisse noun g=f gen=Narzisse pl=Narzissen
 Narzissenbeet noun g=n gen=Narzissenbeets pl=Narzissenbeete
+Narzissmus noun g=m gen=Narzissmus pl=- note=no plural
 Nase noun g=f gen=Nase pl=Nasen
 Nasenbluten noun g=n gen=Nasenblutens pl=- note=mass noun; nominalised infinitive the analyser would take as verb
 Nässe noun g=f gen=Nässe pl=- note=mass noun
@@ -72,8 +80,10 @@ Nationalsozialist noun g=m gen=Nationalsozialisten pl=Nationalsozialisten
 Nationalsozialistin noun g=f gen=Nationalsozialistin pl=Nationalsozialistinnen
 Nationalversammlung noun g=f gen=Nationalversammlung pl=Nationalversammlungen
 Natrium noun g=n gen=Natriums pl=- note=chemical element
+Natron noun g=n gen=Natrons pl=- note=mass noun
 Natter noun g=f gen=Natter pl=Nattern
 Natur noun g=f gen=Natur pl=Naturen[rare] note=Naturen only in the sense of temperaments/characters
+Naturalien noun g=pl
 Naturalismus noun g=m gen=Naturalismus pl=- note=no plural
 Naturbild noun g=n gen=Naturbild|Naturbilds|Naturbildes pl=Naturbilder
 Naturell noun g=n gen=Naturells pl=Naturelle
@@ -82,6 +92,7 @@ Navigation noun g=f gen=Navigation pl=- note=mass noun
 Navigator noun g=m gen=Navigators pl=Navigatoren
 Nazi noun g=m gen=Nazis pl=Nazis
 Neandertaler noun g=m gen=Neandertalers pl=Neandertaler
+Neapolitaner noun g=m gen=Neapolitaners pl=Neapolitaner
 Nebel noun g=m gen=Nebels pl=Nebel
 Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
@@ -95,12 +106,14 @@ Neger noun g=m gen=Negers pl=Neger style=archaic|offensive alt=Schwarze_Menschen
 Negerin noun g=f gen=Negerin pl=Negerinnen style=archaic|offensive alt=Schwarze_Frau note=offensive today; older literature
 Negerkuss noun g=m gen=Negerkusses pl=Negerküsse style=offensive alt=Schokokuss
 Neid noun g=m gen=Neides|Neids pl=- note=no plural
+Neider noun g=m gen=Neiders pl=Neider
 Neigung noun g=f gen=Neigung pl=Neigungen
 Nekropole noun g=f gen=Nekropole pl=Nekropolen
 Nektar noun g=m gen=Nektars pl=Nektare
 Nektarine noun g=f gen=Nektarine pl=Nektarinen
 Nektarium noun g=n gen=Nektariums pl=Nektarien
 Nelke noun g=f gen=Nelke pl=Nelken
+Nemesis noun g=f gen=Nemesis pl=- note=no plural
 Nenner noun g=m gen=Nenners pl=Nenner
 Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
@@ -117,6 +130,7 @@ Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nerz noun g=m gen=Nerzes pl=Nerze
 Nest noun g=n gen=Nests|Nestes pl=Nester
+Nestling noun g=m gen=Nestlings pl=Nestlinge
 Networking noun g=n gen=Networkings pl=- note=mass noun
 Netz noun g=n gen=Netzes pl=Netze
 Neubau noun g=m gen=Neubaus pl=Neubauten
@@ -143,17 +157,20 @@ NGO noun g=f gen=NGO pl=NGOs
 Nibelunge noun g=m gen=Nibelungen pl=Nibelungen conf=80 note=mostly plural: die Nibelungen
 Nichte noun g=f gen=Nichte pl=Nichten
 Nichtigkeit noun g=f gen=Nichtigkeit pl=Nichtigkeiten
+Nichtsein noun g=n gen=Nichtseins pl=- note=no plural
 Nichtstun noun g=n gen=Nichtstuns pl=- note=mass noun
 Nickel noun g=n gen=Nickels pl=- note=chemical element
 Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
+Niederkunft noun g=f gen=Niederkunft pl=Niederkünfte
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
 Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
 Niederung noun g=f gen=Niederung pl=Niederungen
 Niere noun g=f gen=Niere pl=Nieren
-Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
 Nießbrauch noun g=m gen=Nießbrauchs|Nießbrauches pl=- note=legal term, no plural
+Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
+Niete noun g=f gen=Niete pl=Nieten
 Nigger noun g=m gen=Niggers pl=Nigger style=offensive note=racist slur, borrowed from English
 Nihonium noun g=n gen=Nihoniums pl=- note=chemical element
 Nikolaus noun g=m gen=Nikolaus pl=Nikoläuse note=no genitive ending
@@ -200,6 +217,7 @@ Novellierung noun g=f gen=Novellierung pl=Novellierungen
 November noun g=m gen=November|Novembers pl=November[rare] note=month name; plural rare
 Noviziat noun g=n gen=Noviziats|Noviziates pl=Noviziate
 Novum noun g=n gen=Novums pl=Nova
+Nuance noun g=f gen=Nuance pl=Nuancen
 Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
@@ -220,5 +238,6 @@ Nutella noun g=n gen=Nutellas pl=-  note=brand name used as common noun
 Nutzen noun g=m gen=Nutzens pl=- note=benefit; plural not used
 Nutzer noun g=m gen=Nutzers pl=Nutzer
 Nutzerin noun g=f gen=Nutzerin pl=Nutzerinnen
+Nutznießer noun g=m gen=Nutznießers pl=Nutznießer
 Nutzung noun g=f gen=Nutzung pl=Nutzungen
 Nymphe noun g=f gen=Nymphe pl=Nymphen

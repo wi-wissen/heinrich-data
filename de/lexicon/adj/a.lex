@@ -4,6 +4,7 @@ abgabepflichtig adj
 abgelegen adj cmp=abgelegener sup=abgelegensten
 abgeleitet adj
 abgelenkt adj
+abgeschmackt adj cmp=abgeschmackter sup=abgeschmacktesten
 abhängig      adj cmp=abhängiger sup=abhängigsten
 abhold adj pred_only style=archaic note=jemandem abhold sein (averse to)
 ablenkend adj
@@ -38,8 +39,11 @@ akut adj cmp=akuter sup=akutesten
 akzeptabel adj cmp=akzeptabler sup=akzeptabelsten
 albanisch adj
 albern adj cmp=alberner sup=albernsten
+alemannisch adj
 algebraisch adj
 algerisch adj
+alkalisch adj
+allabendlich adj
 allegorisch adj
 alleinerziehend adj
 alleinig adj
@@ -74,6 +78,7 @@ anatomisch adj
 andächtig adj cmp=andächtiger sup=andächtigsten
 ander         adj note=only declined forms (andere, anderer, anderes); not compared
 anderweitig adj
+andorranisch adj
 anfänglich adj
 angeblich adj
 angemessen    adj cmp=angemessener sup=angemessensten
@@ -81,6 +86,7 @@ angenehm adj cmp=angenehmer sup=angenehmsten
 angeschlagen adj
 angesehen adj cmp=angesehener sup=angesehensten note=respected; participle of ansehen with its own meaning
 anglikanisch adj
+angolanisch adj
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
@@ -116,6 +122,7 @@ arg adj cmp=ärger sup=ärgsten
 argentinisch adj
 ärgerlich adj cmp=ärgerlicher sup=ärgerlichsten
 argumentativ adj
+arid adj
 arithmetisch adj
 arktisch adj
 arm           adj cmp=ärmer sup=ärmsten
@@ -167,6 +174,7 @@ auskunftspflichtig adj
 ausländisch adj
 ausnahmslos adj
 ausreichend adj cmp=ausreichender sup=ausreichendsten
+ausreisepflichtig adj
 ausschlaggebend adj
 ausschließlich adj
 äußer adj attr_only sup=äußersten note=die äußere Seite

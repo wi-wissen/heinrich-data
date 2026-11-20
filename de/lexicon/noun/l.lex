@@ -1,6 +1,7 @@
 Label noun g=n gen=Labels pl=Labels
 Labor noun g=n gen=Labors pl=Labore|Labors
 Laboratorium noun g=n gen=Laboratoriums pl=Laboratorien
+Labsal noun g=n gen=Labsals|Labsales pl=Labsale
 Labyrinth noun g=n gen=Labyrinths|Labyrinthes pl=Labyrinthe
 Lächeln noun g=n gen=Lächelns pl=- note=nominalised infinitive with own sense; plural not used
 Lachen noun g=n gen=Lachens pl=- note=no plural (mass or abstract noun)
@@ -9,6 +10,7 @@ Lack noun g=m gen=Lacks|Lackes pl=Lacke
 Laden noun g=m gen=Ladens pl=Läden
 Ladung noun g=f gen=Ladung pl=Ladungen
 Lady noun g=f gen=Lady pl=Ladys|Ladies
+Lafette noun g=f gen=Lafette pl=Lafetten
 Lage noun g=f gen=Lage pl=Lagen
 Lager noun g=n gen=Lagers pl=Lager|Läger[rare]
 Lagerist noun g=m gen=Lageristen pl=Lageristen
@@ -16,6 +18,7 @@ Lageristin noun g=f gen=Lageristin pl=Lageristinnen
 Lagerung noun g=f gen=Lagerung pl=Lagerungen
 Lagune noun g=f gen=Lagune pl=Lagunen
 Lähmung noun g=f gen=Lähmung pl=Lähmungen
+Laib noun g=m gen=Laibs|Laibes pl=Laibe
 Laie noun g=m gen=Laien pl=Laien
 Lakai noun g=m gen=Lakaien pl=Lakaien
 Laken noun g=n gen=Lakens pl=Laken
@@ -68,6 +71,7 @@ Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwage
 Latein noun g=n gen=Lateins pl=- note=the language
 Laterne noun g=f gen=Laterne pl=Laternen
 Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
+Latte noun g=f gen=Latte pl=Latten
 Latz noun g=m gen=Latzes pl=Lätze
 Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
@@ -109,6 +113,7 @@ Leber noun g=f gen=Leber pl=Lebern
 Lebewesen noun g=n gen=Lebewesens pl=Lebewesen
 Lebkuchen noun g=m gen=Lebkuchens pl=Lebkuchen
 Leck noun g=n gen=Lecks pl=Lecks
+Leckage noun g=f gen=Leckage pl=Leckagen
 Leckerli noun g=n gen=Leckerlis pl=Leckerlis|Leckerli
 Leder noun g=n gen=Leders pl=Leder
 Leertaste noun g=f gen=Leertaste pl=Leertasten
@@ -127,8 +132,10 @@ Legislaturperiode noun g=f gen=Legislaturperiode pl=Legislaturperioden
 Legitimation noun g=f gen=Legitimation pl=Legitimationen
 Legitimität noun g=f gen=Legitimität pl=- note=mass noun
 Leguan noun g=m gen=Leguans pl=Leguane
+Leguminose noun g=f gen=Leguminose pl=Leguminosen
 Lehen noun g=n gen=Lehens pl=Lehen
 Lehm noun g=m gen=Lehms|Lehmes pl=- note=mass noun
+Lehne noun g=f gen=Lehne pl=Lehnen
 Lehnwort noun g=n gen=Lehnworts|Lehnwortes pl=Lehnwörter
 Lehre noun g=f gen=Lehre pl=Lehren
 Lehrer       noun g=m gen=Lehrers pl=Lehrer
@@ -163,6 +170,7 @@ Leitplanke noun g=f gen=Leitplanke pl=Leitplanken
 Leitung noun g=f gen=Leitung pl=Leitungen
 Lektion noun g=f gen=Lektion pl=Lektionen
 Lektor noun g=m gen=Lektors pl=Lektoren
+Lektorin noun g=f gen=Lektorin pl=Lektorinnen
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemma noun g=n gen=Lemmas pl=Lemmata|Lemmas
 Lemming noun g=m gen=Lemmings pl=Lemminge
@@ -178,6 +186,7 @@ Leser noun g=m gen=Lesers pl=Leser
 Leserin noun g=f gen=Leserin pl=Leserinnen
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
+Lette noun g=m gen=Letten pl=Letten
 Letter noun g=f gen=Letter pl=Lettern note=printing type
 Lettner noun g=m gen=Lettners pl=Lettner
 Leu noun g=m gen=Leuen pl=Leuen sense=lion style=archaic note=poetic: lion
@@ -191,7 +200,9 @@ Leutchen noun g=pl note=diminutive of Leute; plurale tantum
 Leute        noun g=pl
 Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant unsure
+Lexikograf noun g=m gen=Lexikografen pl=Lexikografen
 Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
+Liane noun g=f gen=Liane pl=Lianen
 Libelle noun g=f gen=Libelle pl=Libellen
 Liberalisierung noun g=f gen=Liberalisierung pl=Liberalisierungen
 Liberalismus noun g=m gen=Liberalismus pl=- note=no plural
@@ -220,6 +231,7 @@ Liegestuhl noun g=m gen=Liegestuhls|Liegestuhles pl=Liegestühle
 Lieutenant noun g=m gen=Lieutenants pl=Lieutenants style=archaic conf=70 note=older spelling of Leutnant in older literature; also English/French title in names
 Lift noun g=m gen=Lifts|Liftes pl=Lifte|Lifts
 Liga noun g=f gen=Liga pl=Ligen
+Ligand noun g=m gen=Liganden pl=Liganden
 Ligist noun g=m gen=Ligisten pl=Ligisten note=member club of a league (Bundesligist, Drittligist)
 Ligula noun g=f gen=Ligula pl=Ligulae|Ligulen conf=70 note=botany; Latin plural usual, German plural rare
 Like noun g=m|n gen=Likes pl=Likes
@@ -233,9 +245,11 @@ Linde noun g=f gen=Linde pl=Linden
 Lineal noun g=n gen=Lineals pl=Lineale
 Linguist noun g=m gen=Linguisten pl=Linguisten
 Linguistik noun g=f gen=Linguistik pl=- note=no plural
+Linguistin noun g=f gen=Linguistin pl=Linguistinnen
 Linie noun g=f gen=Linie pl=Linien
 Link noun g=m gen=Links pl=Links
 Linke noun g=m|f decl=adj note=die Linke (party, left hand); also der Linke
+Linksaußen noun g=m gen=Linksaußen pl=Linksaußen note=genitive and plural unchanged
 Linksklick noun g=m gen=Linksklicks pl=Linksklicks
 Linnen noun g=n gen=Linnens pl=Linnen style=archaic
 Linse noun g=f gen=Linse pl=Linsen
@@ -246,15 +260,20 @@ Lira noun g=f gen=Lira pl=Lire note=former Italian currency
 Lisene noun g=f gen=Lisene pl=Lisenen
 List noun g=f gen=List pl=Listen note=cunning; plural rare
 Liste noun g=f gen=Liste pl=Listen
+Litanei noun g=f gen=Litanei pl=Litaneien
 Liter noun g=m|n gen=Liters pl=Liter
 Literat noun g=m gen=Literaten pl=Literaten
 Literatur noun g=f gen=Literatur pl=Literaturen
 Literaturwissenschaft noun g=f gen=Literaturwissenschaft pl=Literaturwissenschaften
 Lithium noun g=n gen=Lithiums pl=- note=chemical element
 Lithograf noun g=m gen=Lithografen pl=Lithografen
+Lithografie noun g=f gen=Lithografie pl=Lithografien
+Lithograph noun g=m gen=Lithographen pl=Lithographen
+Lithographie noun g=f gen=Lithographie pl=Lithographien
 Liturgie noun g=f gen=Liturgie pl=Liturgien
 Livermorium noun g=n gen=Livermoriums pl=- note=chemical element
 Livestream noun g=m gen=Livestreams pl=Livestreams
+Livree noun g=f gen=Livree pl=Livreen
 Lizenz noun g=f gen=Lizenz pl=Lizenzen
 Lkw noun g=m gen=Lkw|Lkws pl=Lkw|Lkws note=Lastkraftwagen
 Lkw-Fahrer noun g=m gen=Lkw-Fahrers pl=Lkw-Fahrer
@@ -279,9 +298,11 @@ Login noun g=n|m gen=Logins pl=Logins
 Logis noun g=n gen=Logis pl=Logis note=Kost und Logis
 Logistik noun g=f gen=Logistik pl=- note=no plural
 Logo noun g=n gen=Logos pl=Logos
+Logopäde noun g=m gen=Logopäden pl=Logopäden
 Logout noun g=n|m gen=Logouts pl=Logouts
 Lohe noun g=f gen=Lohe pl=Lohen
 Lohn noun g=m gen=Lohnes|Lohns pl=Löhne
+Löhnung noun g=f gen=Löhnung pl=Löhnungen
 Loipe noun g=f gen=Loipe pl=Loipen
 Lok noun g=f gen=Lok pl=Loks note=Lokomotive
 Lokal noun g=n gen=Lokals|Lokales pl=Lokale
@@ -300,6 +321,7 @@ Lotse noun g=m gen=Lotsen pl=Lotsen
 Lotterie noun g=f gen=Lotterie pl=Lotterien
 Lotto noun g=n gen=Lottos pl=Lottos
 Löwe noun g=m gen=Löwen pl=Löwen
+Löwin noun g=f gen=Löwin pl=Löwinnen
 Loyalität noun g=f gen=Loyalität pl=Loyalitäten
 LP noun g=f gen=LP pl=LPs note=Langspielplatte
 LPG noun g=f gen=LPG pl=LPG|LPGs conf=85 note=Landwirtschaftliche Produktionsgenossenschaft (GDR); plural unsure
@@ -310,17 +332,23 @@ Lückentext noun g=m gen=Lückentexts|Lückentextes pl=Lückentexte
 Luft noun g=f gen=Luft pl=Lüfte
 Luftballon noun g=m gen=Luftballons pl=Luftballons|Luftballone
 Luftbrücke noun g=f gen=Luftbrücke pl=Luftbrücken
+Lüfter noun g=m gen=Lüfters pl=Lüfter
 Luftpumpe noun g=f gen=Luftpumpe pl=Luftpumpen
+Lüftung noun g=f gen=Lüftung pl=Lüftungen
 Luftverschmutzung noun g=f gen=Luftverschmutzung pl=- note=no plural
 Lüge noun g=f gen=Lüge pl=Lügen
 Lügner noun g=m gen=Lügners pl=Lügner
 Lügnerin noun g=f gen=Lügnerin pl=Lügnerinnen
 Luke noun g=f gen=Luke pl=Luken
+Lümmel noun g=m gen=Lümmels pl=Lümmel
 Lump noun g=m gen=Lumpen pl=Lumpen note=scoundrel
 Lumpen noun g=m gen=Lumpens pl=Lumpen note=rag
+Lunch noun g=m gen=Lunchs|Lunches pl=Lunchs|Lunche
 Lunge noun g=f gen=Lunge pl=Lungen
+Lunte noun g=f gen=Lunte pl=Lunten
 Lupe noun g=f gen=Lupe pl=Lupen
 Lust noun g=f gen=Lust pl=Lüste
+Lustbarkeit noun g=f gen=Lustbarkeit pl=Lustbarkeiten
 Lustspiel noun g=n gen=Lustspiels|Lustspieles pl=Lustspiele
 Lutetium noun g=n gen=Lutetiums pl=- note=chemical element
 Lutheraner noun g=m gen=Lutheraners pl=Lutheraner

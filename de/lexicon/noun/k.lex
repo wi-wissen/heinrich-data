@@ -1,6 +1,7 @@
 Kabarett noun g=n gen=Kabaretts pl=Kabaretts|Kabarette
 Kabarettist noun g=m gen=Kabarettisten pl=Kabarettisten
 Kabarettistin noun g=f gen=Kabarettistin pl=Kabarettistinnen
+Kabbala noun g=f gen=Kabbala pl=- note=no plural
 Kabel noun g=n gen=Kabels pl=Kabel
 Kabine noun g=f gen=Kabine pl=Kabinen
 Kabinett noun g=n gen=Kabinetts|Kabinettes pl=Kabinette
@@ -63,6 +64,7 @@ Kanal noun g=m gen=Kanals pl=Kanäle
 Kanalisation noun g=f gen=Kanalisation pl=Kanalisationen
 Kanapee noun g=n gen=Kanapees pl=Kanapees
 Kanarienvogel noun g=m gen=Kanarienvogels pl=Kanarienvögel
+Kandare noun g=f gen=Kandare pl=Kandaren
 Kandidat noun g=m gen=Kandidaten pl=Kandidaten
 Kandidatin noun g=f gen=Kandidatin pl=Kandidatinnen
 Kandidatur noun g=f gen=Kandidatur pl=Kandidaturen
@@ -98,15 +100,18 @@ Kapitänin noun g=f gen=Kapitänin pl=Kapitäninnen
 Kapitel noun g=n gen=Kapitels pl=Kapitel
 Kapitell noun g=n gen=Kapitells pl=Kapitelle
 Kapitol noun g=n gen=Kapitols pl=- note=das Kapitol (Rome, Washington)
+Kapitular noun g=m gen=Kapitulars pl=Kapitulare
 Kapitulation noun g=f gen=Kapitulation pl=Kapitulationen
 Kaplan noun g=m gen=Kaplans pl=Kapläne
 Kappe noun g=f gen=Kappe pl=Kappen
+Kappung noun g=f gen=Kappung pl=Kappungen
 Kapsel noun g=f gen=Kapsel pl=Kapseln
 Kapuze noun g=f gen=Kapuze pl=Kapuzen
 Kapuziner noun g=m gen=Kapuziners pl=Kapuziner
 Karabiner noun g=m gen=Karabiners pl=Karabiner
 Karambolage noun g=f gen=Karambolage pl=Karambolagen
 Karaoke noun g=n gen=Karaokes pl=- note=no plural (mass or abstract noun)
+Karat noun g=n gen=Karats|Karates pl=Karate
 Karate noun g=n gen=Karates pl=- note=no plural (mass or abstract noun)
 Karawane noun g=f gen=Karawane pl=Karawanen
 Karbon noun g=n gen=Karbons pl=- note=geological period
@@ -129,6 +134,7 @@ Karpfen noun g=m gen=Karpfens pl=Karpfen
 Karre noun g=f gen=Karre pl=Karren note=variant of der Karren
 Karren noun g=m gen=Karrens pl=Karren
 Karriere noun g=f gen=Karriere pl=Karrieren
+Karst noun g=m gen=Karsts|Karstes pl=Karste
 Kartause noun g=f gen=Kartause pl=Kartausen
 Karte noun g=f gen=Karte pl=Karten
 Kartei noun g=f gen=Kartei pl=Karteien
@@ -145,8 +151,10 @@ Karton noun g=m gen=Kartons pl=Kartons|Kartone[rare]
 Kartusche noun g=f gen=Kartusche pl=Kartuschen
 Karussell noun g=n gen=Karussells pl=Karussells|Karusselle
 Käse noun g=m gen=Käses pl=Käse
+Kasematte noun g=f gen=Kasematte pl=Kasematten
 Kaserne noun g=f gen=Kaserne pl=Kasernen
 Kasino noun g=n gen=Kasinos pl=Kasinos
+Kaskade noun g=f gen=Kaskade pl=Kaskaden
 Kasse noun g=f gen=Kasse pl=Kassen
 Kassenwart noun g=m gen=Kassenwarts|Kassenwartes pl=Kassenwarte
 Kassenwartin noun g=f gen=Kassenwartin pl=Kassenwartinnen
@@ -166,6 +174,7 @@ Kata noun g=f|n gen=Kata pl=Katas conf=70 note=martial-arts form; gender f or n 
 Katakombe noun g=f gen=Katakombe pl=Katakomben
 Katalog noun g=m gen=Katalogs|Kataloges pl=Kataloge
 Katalysator noun g=m gen=Katalysators pl=Katalysatoren
+Katarrh noun g=m gen=Katarrhs pl=Katarrhe
 Kataster noun g=n|m gen=Katasters pl=Kataster
 Katastralgemeinde noun g=f gen=Katastralgemeinde pl=Katastralgemeinden region=AT
 Katastrophe noun g=f gen=Katastrophe pl=Katastrophen
@@ -181,6 +190,7 @@ Katholik noun g=m gen=Katholiken pl=Katholiken
 Katholizismus noun g=m gen=Katholizismus pl=- note=no plural
 Kation noun g=n gen=Kations pl=Kationen
 Katode noun g=f gen=Katode pl=Katoden note=spelling variant of Kathode
+Kattun noun g=m gen=Kattuns pl=Kattune
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
@@ -197,6 +207,8 @@ Kautschuk noun g=m gen=Kautschuks pl=Kautschuke
 Kauz noun g=m gen=Kauzes pl=Käuze
 Kavalier noun g=m gen=Kavaliers pl=Kavaliere
 Kavallerie noun g=f gen=Kavallerie pl=- note=no plural in practice
+Kavallerist noun g=m gen=Kavalleristen pl=Kavalleristen
+Kaviar noun g=m gen=Kaviars pl=Kaviare
 Kegel noun g=m gen=Kegels pl=Kegel
 Kehle noun g=f gen=Kehle pl=Kehlen
 Kehrreim noun g=m gen=Kehrreims|Kehrreimes pl=Kehrreime
@@ -224,6 +236,7 @@ Kennzeichnung noun g=f gen=Kennzeichnung pl=Kennzeichnungen
 Kentaur noun g=m gen=Kentauren pl=Kentauren
 Keramik noun g=f gen=Keramik pl=Keramiken
 Keramiker noun g=m gen=Keramikers pl=Keramiker
+Keramikerin noun g=f gen=Keramikerin pl=Keramikerinnen
 Kerker noun g=m gen=Kerkers pl=Kerker
 Kerl noun g=m gen=Kerls|Kerles pl=Kerle
 Kern noun g=m gen=Kerns|Kernes pl=Kerne
@@ -249,6 +262,7 @@ Kiefer noun g=m gen=Kiefers pl=Kiefer sense=jaw
 Kiefer noun g=f gen=Kiefer pl=Kiefern sense=pine
 Kieler noun g=m gen=Kielers pl=Kieler note=inhabitant of Kiel; also the indeclinable adjective
 Kiellegung noun g=f gen=Kiellegung pl=Kiellegungen
+Kieme noun g=f gen=Kieme pl=Kiemen
 Kies noun g=m gen=Kieses pl=- note=no plural
 Kiesel noun g=m gen=Kiesels pl=Kiesel
 Kilo noun g=n gen=Kilos pl=Kilos
@@ -278,6 +292,8 @@ Kita noun g=f gen=Kita pl=Kitas note=Kindertagesstätte
 Kittel noun g=m gen=Kittels pl=Kittel
 Kitz noun g=n gen=Kitzes pl=Kitze
 Kiwi noun g=f gen=Kiwi pl=Kiwis
+Klade noun g=f gen=Klade pl=Kladen note=biology
+Kladogramm noun g=n gen=Kladogramms pl=Kladogramme
 Klafter noun g=m|n gen=Klafters pl=Klafter
 Klage noun g=f gen=Klage pl=Klagen
 Kläger noun g=m gen=Klägers pl=Kläger
@@ -349,6 +365,7 @@ Klippe noun g=f gen=Klippe pl=Klippen
 Klischee noun g=n gen=Klischees pl=Klischees
 Klo noun g=n gen=Klos pl=Klos style=colloquial alt=Toilette
 Klon noun g=m gen=Klons pl=Klone
+Klöppel noun g=m gen=Klöppels pl=Klöppel
 Kloß noun g=m gen=Kloßes pl=Klöße
 Kloster noun g=n gen=Klosters pl=Klöster
 Klub noun g=m gen=Klubs pl=Klubs
@@ -383,6 +400,7 @@ Know-how noun g=n gen=Know-hows|Know-how pl=- note=loanword; no plural
 Knüppel noun g=m gen=Knüppels pl=Knüppel
 Koala noun g=m gen=Koalas pl=Koalas
 Koalition noun g=f gen=Koalition pl=Koalitionen
+Koalitionär noun g=m gen=Koalitionärs pl=Koalitionäre
 Kobalt noun g=n gen=Kobalts pl=- note=chemical element; spelling variant of Cobalt
 Kobold noun g=m gen=Kobolds|Koboldes pl=Kobolde
 Kobra noun g=f gen=Kobra pl=Kobras
@@ -408,6 +426,8 @@ Koi noun g=m gen=Kois pl=Kois
 Koje noun g=f gen=Koje pl=Kojen
 Kokain noun g=n gen=Kokains pl=- note=mass noun
 Kokerei noun g=f gen=Kokerei pl=Kokereien
+Koketterie noun g=f gen=Koketterie pl=Koketterien
+Kokon noun g=m gen=Kokons pl=Kokons
 Kokosnuss noun g=f gen=Kokosnuss pl=Kokosnüsse
 Kolben noun g=m gen=Kolbens pl=Kolben
 Kolibri noun g=m gen=Kolibris pl=Kolibris
@@ -418,14 +438,18 @@ Kolleg noun g=n gen=Kollegs pl=Kollegs|Kollegien conf=85 note=plural Kollegs or 
 Kollege noun g=m gen=Kollegen pl=Kollegen
 Kollegin noun g=f gen=Kollegin pl=Kolleginnen
 Kollegium noun g=n gen=Kollegiums pl=Kollegien
+Kollektivierung noun g=f gen=Kollektivierung pl=Kollektivierungen
 Kollision noun g=f gen=Kollision pl=Kollisionen
 Kölner noun g=m gen=Kölners pl=Kölner note=inhabitant of Cologne
 Kolonialismus noun g=m gen=Kolonialismus pl=- note=no plural
 Kolonie noun g=f gen=Kolonie pl=Kolonien
 Kolonisation noun g=f gen=Kolonisation pl=Kolonisationen
+Kolonisierung noun g=f gen=Kolonisierung pl=Kolonisierungen
 Kolonist noun g=m gen=Kolonisten pl=Kolonisten
 Kolonne noun g=f gen=Kolonne pl=Kolonnen
+Kolorit noun g=n gen=Kolorits|Kolorites pl=Kolorite
 Kolosseum noun g=n gen=Kolosseums pl=- note=no plural
+Kölsch noun g=n gen=Kölsch|Kölschs pl=- note=beer and dialect; no plural
 Kolumne noun g=f gen=Kolumne pl=Kolumnen
 Kolumnist noun g=m gen=Kolumnisten pl=Kolumnisten
 Kombi noun g=m gen=Kombis pl=Kombis note=der Kombi: estate car
@@ -459,6 +483,7 @@ Kommissarin noun g=f gen=Kommissarin pl=Kommissarinnen
 Kommission noun g=f gen=Kommission pl=Kommissionen
 Kommissionierung noun g=f gen=Kommissionierung pl=Kommissionierungen
 Kommode noun g=f gen=Kommode pl=Kommoden
+Kommodore noun g=m gen=Kommodores pl=Kommodores|Kommodoren
 Kommune noun g=f gen=Kommune pl=Kommunen
 Kommunikation noun g=f gen=Kommunikation pl=Kommunikationen
 Kommunion noun g=f gen=Kommunion pl=Kommunionen
@@ -489,11 +514,13 @@ Komposition noun g=f gen=Komposition pl=Kompositionen
 Kompost noun g=m gen=Komposts pl=Komposte
 Kompostierung noun g=f gen=Kompostierung pl=Kompostierungen
 Kompresse noun g=f gen=Kompresse pl=Kompressen
+Kompressor noun g=m gen=Kompressors pl=Kompressoren
 Kompromiss noun g=m gen=Kompromisses pl=Kompromisse
 Komtesse noun g=f gen=Komtesse pl=Komtessen
 Kondensator noun g=m gen=Kondensators pl=Kondensatoren
 Kondition noun g=f gen=Kondition pl=Konditionen
 Konditionalität noun g=f gen=Konditionalität pl=Konditionalitäten
+Konditor noun g=m gen=Konditors pl=Konditoren
 Konditorei noun g=f gen=Konditorei pl=Konditoreien
 Kondolenz noun g=f gen=Kondolenz pl=Kondolenzen
 Kondor noun g=m gen=Kondors pl=Kondore
@@ -519,11 +546,15 @@ Konjunktion noun g=f gen=Konjunktion pl=Konjunktionen
 Konjunktiv noun g=m gen=Konjunktivs pl=Konjunktive
 Konjunktur noun g=f gen=Konjunktur pl=Konjunkturen
 Konklave noun g=n gen=Konklaves pl=Konklaven
+Konkordat noun g=n gen=Konkordats|Konkordates pl=Konkordate
 Konkretisierung noun g=f gen=Konkretisierung pl=Konkretisierungen
 Konkurrent noun g=m gen=Konkurrenten pl=Konkurrenten
 Konkurrentin noun g=f gen=Konkurrentin pl=Konkurrentinnen
 Konkurrenz noun g=f gen=Konkurrenz pl=Konkurrenzen note=plural rare
 Konkurs noun g=m gen=Konkurses pl=Konkurse
+Können noun g=n gen=Könnens pl=- note=das Können: ability; no plural
+Konnossement noun g=n gen=Konnossements|Konnossementes pl=Konnossemente
+Konrektor noun g=m gen=Konrektors pl=Konrektoren
 Konsens noun g=m gen=Konsenses pl=Konsense
 Konsequenz noun g=f gen=Konsequenz pl=Konsequenzen
 Konservative noun g=m|f decl=adj note=die Konservativen (party members, adherents)
@@ -542,6 +573,7 @@ Konstitution noun g=f gen=Konstitution pl=Konstitutionen
 Konstrukt noun g=n gen=Konstrukts|Konstruktes pl=Konstrukte
 Konstrukteur noun g=m gen=Konstrukteurs pl=Konstrukteure
 Konstruktion noun g=f gen=Konstruktion pl=Konstruktionen
+Konstruktivismus noun g=m gen=Konstruktivismus pl=- note=no plural
 Konsul noun g=m gen=Konsuls pl=Konsuln|Konsuls[rare]
 Konsulat noun g=n gen=Konsulats|Konsulates pl=Konsulate
 Konsulin noun g=f gen=Konsulin pl=Konsulinnen
@@ -564,6 +596,7 @@ Kontinuität noun g=f gen=Kontinuität pl=- note=no plural in practice
 Konto noun g=n gen=Kontos pl=Konten|Kontos[rare]|Konti[rare]
 Kontor noun g=n gen=Kontors pl=Kontore
 Kontrabass noun g=m gen=Kontrabasses pl=Kontrabässe
+Kontrabassist noun g=m gen=Kontrabassisten pl=Kontrabassisten
 Kontrahent noun g=m gen=Kontrahenten pl=Kontrahenten
 Kontrahentin noun g=f gen=Kontrahentin pl=Kontrahentinnen
 Kontrakt noun g=m gen=Kontrakts|Kontraktes pl=Kontrakte
@@ -587,12 +620,14 @@ Konzern noun g=m gen=Konzerns pl=Konzerne
 Konzert noun g=n gen=Konzerts|Konzertes pl=Konzerte
 Konzession noun g=f gen=Konzession pl=Konzessionen
 Konzil noun g=n gen=Konzils pl=Konzile|Konzilien
+Koog noun g=m gen=Koogs|Kooges pl=Köge
 Kooperation noun g=f gen=Kooperation pl=Kooperationen
 Koordinate noun g=f gen=Koordinate pl=Koordinaten
 Koordination noun g=f gen=Koordination pl=- note=no plural in practice
 Koordinator noun g=m gen=Koordinators pl=Koordinatoren
 Koordinatorin noun g=f gen=Koordinatorin pl=Koordinatorinnen
 Koordinierung noun g=f gen=Koordinierung pl=- note=no plural in practice
+Kopeke noun g=f gen=Kopeke pl=Kopeken
 Kopf noun g=m gen=Kopfes|Kopfs pl=Köpfe
 Kopfbedeckung noun g=f gen=Kopfbedeckung pl=Kopfbedeckungen
 Köpfchen noun g=n gen=Köpfchens pl=Köpfchen
@@ -608,6 +643,7 @@ Koralle noun g=f gen=Koralle pl=Korallen
 Korallenriff noun g=n gen=Korallenriffs pl=Korallenriffe
 Koran noun g=m gen=Korans pl=- note=no plural
 Korb noun g=m gen=Korbes|Korbs pl=Körbe
+Korbblütler noun g=m gen=Korbblütlers pl=Korbblütler
 Körbchen noun g=n gen=Körbchens pl=Körbchen
 Kork noun g=m gen=Korks|Korkes pl=Korke
 Korkenzieher noun g=m gen=Korkenziehers pl=Korkenzieher
@@ -628,6 +664,8 @@ Korrespondenz noun g=f gen=Korrespondenz pl=Korrespondenzen
 Korridor noun g=m gen=Korridors pl=Korridore
 Korrosion noun g=f gen=Korrosion pl=Korrosionen
 Korruption noun g=f gen=Korruption pl=- note=no plural in normal use
+Korsett noun g=n gen=Korsetts|Korsettes pl=Korsetts|Korsette
+Korso noun g=m gen=Korsos pl=Korsos
 Korvette noun g=f gen=Korvette pl=Korvetten
 Kosake noun g=m gen=Kosaken pl=Kosaken
 Kosinus noun g=m gen=Kosinus pl=Kosinus|Kosinusse note=bare genitive of the -us word
@@ -682,6 +720,7 @@ Kreide noun g=f gen=Kreide pl=Kreiden
 Kreis noun g=m gen=Kreises pl=Kreise
 Kreisel noun g=m gen=Kreisels pl=Kreisel
 Kreislauf noun g=m gen=Kreislaufs|Kreislaufes pl=Kreisläufe
+Krematorium noun g=n gen=Krematoriums pl=Krematorien
 Kreuz noun g=n gen=Kreuzes pl=Kreuze
 Kreuzer noun g=m gen=Kreuzers pl=Kreuzer
 Kreuzigung noun g=f gen=Kreuzigung pl=Kreuzigungen
@@ -693,6 +732,7 @@ Krieg noun g=m gen=Krieges|Kriegs pl=Kriege
 Krieger noun g=m gen=Kriegers pl=Krieger
 Krimi noun g=m gen=Krimis pl=Krimis
 Kriminalität noun g=f gen=Kriminalität pl=- note=no plural
+Kriminologe noun g=m gen=Kriminologen pl=Kriminologen
 Kriminologie noun g=f gen=Kriminologie pl=- note=field of study
 Krippe noun g=f gen=Krippe pl=Krippen
 Krise noun g=f gen=Krise pl=Krisen
@@ -720,11 +760,13 @@ Krypta noun g=f gen=Krypta pl=Krypten
 Krypton noun g=n gen=Kryptons pl=- note=chemical element; noble gas
 Kübel noun g=m gen=Kübels pl=Kübel
 Kubikmeter noun g=m|n gen=Kubikmeters pl=Kubikmeter
+Kubismus noun g=m gen=Kubismus pl=- note=no plural
 Küche noun g=f gen=Küche pl=Küchen
 Kuchen noun g=m gen=Kuchens pl=Kuchen
 Küchenwaage noun g=f gen=Küchenwaage pl=Küchenwaagen
 Kuckuck noun g=m gen=Kuckucks pl=Kuckucke
 Kuckucksuhr noun g=f gen=Kuckucksuhr pl=Kuckucksuhren
+Kufe noun g=f gen=Kufe pl=Kufen
 Kugel noun g=f gen=Kugel pl=Kugeln
 Kügelchen noun g=n gen=Kügelchens pl=Kügelchen
 Kugelschreiber noun g=m gen=Kugelschreibers pl=Kugelschreiber
@@ -774,7 +816,9 @@ Kurfürstentum noun g=n gen=Kurfürstentums pl=Kurfürstentümer
 Kurie noun g=f gen=Kurie pl=Kurien
 Kurier noun g=m gen=Kuriers pl=Kuriere
 Kurs noun g=m gen=Kurses pl=Kurse
+Kürschner noun g=m gen=Kürschners pl=Kürschner
 Kursivdruck noun g=m gen=Kursivdrucks|Kursivdruckes pl=- note=plural not used
+Kurtisane noun g=f gen=Kurtisane pl=Kurtisanen
 Kurve noun g=f gen=Kurve pl=Kurven
 Kürze noun g=f gen=Kürze pl=- note=no plural
 Kürzel noun g=n gen=Kürzels pl=Kürzel
@@ -790,4 +834,5 @@ Kutscherin noun g=f gen=Kutscherin pl=Kutscherinnen
 Kutte noun g=f gen=Kutte pl=Kutten
 Kutter noun g=m gen=Kutters pl=Kutter
 Kuvert noun g=n gen=Kuverts pl=Kuverts|Kuverte[AT]
+Kybernetik noun g=f gen=Kybernetik pl=- note=no plural
 KZ noun g=n gen=KZ|KZs pl=KZ|KZs note=Konzentrationslager

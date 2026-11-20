@@ -7,8 +7,8 @@ daherkommen verb class=strong sep=daher 3sg=daherkommt|daherkömmt[old] past=dah
 daliegen verb class=strong sep=da 3sg=daliegt past=dalag pp=dagelegen subj2=daläge perf=haben|sein
 dämmen verb class=weak pp=gedämmt perf=haben
 dämmern verb class=weak pp=gedämmert perf=haben
-dämpfen verb class=weak pp=gedämpft perf=haben
 dampfen verb class=weak pp=gedampft perf=haben|sein
+dämpfen verb class=weak pp=gedämpft perf=haben
 danken        verb class=weak pp=gedankt perf=haben
 darangehen verb class=strong sep=daran 3sg=darangeht past=daranging|darangieng[old] pp=darangegangen subj2=daranginge perf=sein note=an eine Arbeit darangehen
 daransetzen verb class=weak sep=daran pp=darangesetzt perf=haben note=alles daransetzen
@@ -101,6 +101,8 @@ dörren verb class=weak pp=gedörrt perf=haben
 dösen verb class=weak pp=gedöst perf=haben
 dotieren verb class=weak pp=dotiert perf=haben
 downloaden verb class=weak pp=gedownloadet perf=haben
+draften verb class=weak pp=gedraftet perf=haben
+dranbleiben verb class=strong sep=dran 3sg=dranbleibt past=dranblieb pp=drangeblieben subj2=dranbliebe perf=sein style=colloquial
 drängeln verb class=weak pp=gedrängelt perf=haben
 drängen verb class=weak pp=gedrängt perf=haben|sein refl=acc
 drangsalieren verb class=weak pp=drangsaliert perf=haben

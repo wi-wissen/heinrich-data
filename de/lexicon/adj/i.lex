@@ -7,10 +7,12 @@ illegal adj
 immateriell adj
 immens adj
 immergrün adj
+immun adj
 implizit adj
 imposant adj cmp=imposanter sup=imposantesten
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
+inbegriffen adj
 inbrünstig adj cmp=inbrünstiger sup=inbrünstigsten
 indianisch adj
 indigen adj
@@ -32,6 +34,7 @@ innig adj cmp=inniger sup=innigsten
 innovativ adj cmp=innovativer sup=innovativsten
 insolvent adj
 institutionell adj
+instrumental adj
 intakt adj
 integral adj
 integrativ adj
@@ -42,6 +45,7 @@ interaktiv adj
 interdisziplinär adj
 interessant adj cmp=interessanter sup=interessantesten
 interfraktionell adj
+interimistisch adj
 intern adj
 international adj
 intolerant adj
@@ -57,6 +61,7 @@ ironisch adj cmp=ironischer sup=ironischsten
 irrational adj
 irre adj cmp=irrer sup=irrsten
 irreparabel adj attr=irreparable
+irreversibel adj
 irrtümlich adj
 islamisch adj
 islamistisch adj

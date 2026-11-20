@@ -41,6 +41,7 @@ feurig adj cmp=feuriger sup=feurigsten
 fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 figürlich adj
+fiktional adj
 fiktiv adj
 filmisch adj
 final adj
@@ -62,6 +63,7 @@ flexibel adj cmp=flexibler sup=flexibelsten
 flink adj cmp=flinker sup=flinksten
 flott adj cmp=flotter sup=flottesten
 flüchtig adj cmp=flüchtiger sup=flüchtigsten
+flügge adj
 flüssig adj cmp=flüssiger sup=flüssigsten
 föderal adj
 folgsam adj cmp=folgsamer sup=folgsamsten
@@ -99,6 +101,9 @@ frühestmöglich adj
 frühlingshaft adj cmp=frühlingshafter sup=frühlingshaftesten
 frühzeitig adj
 fundamental adj
+fündig adj
+fünfköpfig adj
+fünftklassig adj
 fünfzählig adj
 fünfziger adj indecl note=die fünfziger Jahre
 funkelnd adj cmp=funkelnder sup=funkelndsten
@@ -108,3 +113,4 @@ furchtbar adj cmp=furchtbarer sup=furchtbarsten
 fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten
 fürstlich adj
+fußballerisch adj

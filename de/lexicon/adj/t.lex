@@ -14,7 +14,9 @@ tausendfach adj
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
+tektonisch adj
 telefonisch adj
+teleologisch adj
 temperamentvoll adj cmp=temperamentvoller sup=temperamentvollsten
 temporär adj
 tendenziell adj
@@ -43,6 +45,7 @@ toll adj cmp=toller sup=tollsten
 tollpatschig adj cmp=tollpatschiger sup=tollpatschigsten
 topografisch adj
 topographisch adj note=variant spelling of topografisch
+topologisch adj
 töricht adj
 tot adj
 total adj

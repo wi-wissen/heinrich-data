@@ -11,6 +11,7 @@ wahren verb class=weak pp=gewahrt perf=haben
 währen verb class=weak pp=gewährt perf=haben note=to last
 wahrnehmen verb class=strong sep=wahr 3sg=wahrnimmt past=wahrnahm pp=wahrgenommen subj2=wahrnähme perf=haben
 walken verb class=weak pp=gewalkt perf=haben|sein
+wallen verb class=weak pp=gewallt perf=haben|sein
 walten verb class=weak pp=gewaltet perf=haben
 walzen verb class=weak pp=gewalzt perf=haben|sein
 wälzen verb class=weak pp=gewälzt perf=haben refl=acc
@@ -22,6 +23,7 @@ warnen verb class=weak pp=gewarnt perf=haben
 warten verb class=weak pp=gewartet perf=haben
 waschen verb class=strong 3sg=wäscht past=wusch pp=gewaschen subj2=wüsche perf=haben refl=acc
 wässern verb class=weak pp=gewässert perf=haben
+waten verb class=weak pp=gewatet perf=haben|sein
 watscheln verb class=weak pp=gewatschelt perf=sein
 weben verb class=weak past=webte|wob[archaic] pp=gewebt|gewoben[archaic] perf=haben
 wechseln verb class=weak pp=gewechselt perf=haben|sein
@@ -175,6 +177,7 @@ widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
 widerstreben verb class=weak pp=widerstrebt perf=haben note=es widerstrebt mir
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederaufbauen verb class=weak sep=wiederauf pp=wiederaufgebaut perf=haben
+wiederaufnehmen verb class=strong sep=wiederauf 3sg=wiederaufnimmt past=wiederaufnahm pp=wiederaufgenommen subj2=wiederaufnähme perf=haben
 wiederbekommen verb class=strong sep=wieder 3sg=wiederbekommt past=wiederbekam subj2=wiederbekäme pp=wiederbekommen perf=haben
 wiederbeleben verb class=weak sep=wieder pp=wiederbelebt perf=haben
 wiederbeschaffen verb class=weak sep=wieder pp=wiederbeschafft perf=haben
@@ -213,6 +216,7 @@ winseln verb class=weak pp=gewinselt perf=haben
 wippen verb class=weak pp=gewippt perf=haben
 wirbeln verb class=weak pp=gewirbelt perf=haben|sein
 wirken verb class=weak pp=gewirkt perf=haben
+wirtschaften verb class=weak pp=gewirtschaftet perf=haben
 wischen verb class=weak pp=gewischt perf=haben
 wispern verb class=weak pp=gewispert perf=haben
 wissen       verb class=modal 3sg=weiß past=wusste pp=gewusst subj2=wüsste imp=wisse,wisst perf=haben

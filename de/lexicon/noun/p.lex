@@ -12,6 +12,7 @@ Paddel noun g=n gen=Paddels pl=Paddel
 Pädiatrie noun g=f gen=Pädiatrie pl=- note=no plural
 Padischah noun g=m gen=Padischahs pl=Padischahs
 Page noun g=m gen=Pagen pl=Pagen
+Pagode noun g=f gen=Pagode pl=Pagoden
 Paket noun g=n gen=Pakets|Paketes pl=Pakete
 Paketshop noun g=m gen=Paketshops pl=Paketshops
 Pakt noun g=m gen=Pakts|Paktes pl=Pakte
@@ -30,6 +31,7 @@ Palisade noun g=f gen=Palisade pl=Palisaden
 Palladium noun g=n gen=Palladiums pl=- note=chemical element
 Palme noun g=f gen=Palme pl=Palmen
 Pampelmuse noun g=f gen=Pampelmuse pl=Pampelmusen
+Pamphlet noun g=n gen=Pamphlets|Pamphletes pl=Pamphlete
 Panda noun g=m gen=Pandas pl=Pandas
 Pandemie noun g=f gen=Pandemie pl=Pandemien
 Panik noun g=f gen=Panik pl=- note=plural not used
@@ -52,11 +54,13 @@ Pappe noun g=f gen=Pappe pl=Pappen
 Pappel noun g=f gen=Pappel pl=Pappeln
 Paprika noun g=f gen=Paprika pl=Paprikas
 Papst noun g=m gen=Papstes|Papsts pl=Päpste
+Papsttum noun g=n gen=Papsttums pl=- note=no plural
 Papyrus noun g=m gen=Papyrus pl=Papyri|Papyrusse note=Latin loanword; genitive without -es
 Parabel noun g=f gen=Parabel pl=Parabeln
 Parade noun g=f gen=Parade pl=Paraden
 Paradeiser   noun g=m gen=Paradeisers pl=Paradeiser region=AT note=tomato
 Paradies noun g=n gen=Paradieses pl=Paradiese
+Paradigma noun g=n gen=Paradigmas pl=Paradigmen|Paradigmata
 Paradoxon noun g=n gen=Paradoxons pl=Paradoxa
 Paragraf noun g=m gen=Paragrafen pl=Paragrafen
 Paragraph noun g=m gen=Paragraphen pl=Paragraphen note=variant spelling of Paragraf
@@ -64,11 +68,13 @@ Parallele noun g=f gen=Parallele pl=Parallelen
 Parallelismus noun g=m gen=Parallelismus pl=Parallelismen
 Parallelogramm noun g=n gen=Parallelogramms pl=Parallelogramme
 Parameter noun g=m gen=Parameters pl=Parameter
+Paranoia noun g=f gen=Paranoia pl=- note=no plural
 Paraphe noun g=f gen=Paraphe pl=Paraphen
 Parasit noun g=m gen=Parasiten pl=Parasiten
 Pärchen noun g=n gen=Pärchens pl=Pärchen
 Parcours noun g=m gen=Parcours pl=- note=no genitive ending
 Parfüm noun g=n gen=Parfüms|Parfümes pl=Parfüme|Parfüms
+Paria noun g=m gen=Parias pl=Parias
 Pariser noun g=m gen=Parisers pl=Pariser note=inhabitant of Paris; also the indeclinable adjective
 Parität noun g=f gen=Parität pl=Paritäten
 Park noun g=m gen=Parks|Parkes[archaic] pl=Parks|Parke[rare]
@@ -105,8 +111,10 @@ Passagier noun g=m gen=Passagiers pl=Passagiere
 Passagierin noun g=f gen=Passagierin pl=Passagierinnen
 Passant noun g=m gen=Passanten pl=Passanten
 Passantin noun g=f gen=Passantin pl=Passantinnen
+Passat noun g=m gen=Passats|Passates pl=Passate
 Passion noun g=f gen=Passion pl=Passionen
 Passiv noun g=n gen=Passivs pl=Passive
+Passiva noun g=pl note=liabilities (accounting)
 Passus noun g=m gen=Passus pl=Passus note=no genitive ending
 Passwort noun g=n gen=Passworts|Passwortes pl=Passwörter|Passworte
 Pastete noun g=f gen=Pastete pl=Pasteten
@@ -131,14 +139,17 @@ Patrizier noun g=m gen=Patriziers pl=Patrizier
 Patron noun g=m gen=Patrons pl=Patrone
 Patronat noun g=n gen=Patronats|Patronates pl=Patronate
 Patrone noun g=f gen=Patrone pl=Patronen note=cartridge (ink, ammunition)
+Patronin noun g=f gen=Patronin pl=Patroninnen
 Patrouille noun g=f gen=Patrouille pl=Patrouillen
 Patrozinium noun g=n gen=Patroziniums pl=Patrozinien
 Patsch noun g=m gen=Patsch|Patschs|Patsches pl=Patsche
 Pauschale noun g=f gen=Pauschale pl=Pauschalen
+Pauschalierung noun g=f gen=Pauschalierung pl=Pauschalierungen
 Pauschbetrag noun g=m gen=Pauschbetrags|Pauschbetrages pl=Pauschbeträge
 Pause noun g=f gen=Pause pl=Pausen
 Pausenhof noun g=m gen=Pausenhofs|Pausenhofes pl=Pausenhöfe
 Pavillon noun g=m gen=Pavillons pl=Pavillons
+Pazifist noun g=m gen=Pazifisten pl=Pazifisten
 PC noun g=m gen=PC|PCs pl=PC|PCs
 PDF noun g=n gen=PDF|PDFs pl=PDFs note=das PDF (file); also die PDF-Datei
 Pech noun g=n gen=Pechs|Peches pl=- note=bad luck; pitch (rare plural)
@@ -146,6 +157,7 @@ Pedal noun g=n gen=Pedals pl=Pedale
 Pedelec noun g=n gen=Pedelecs pl=Pedelecs
 Pegel noun g=m gen=Pegels pl=Pegel
 Pein noun g=f gen=Pein pl=- note=mass noun
+Peiniger noun g=m gen=Peinigers pl=Peiniger
 Peitsche noun g=f gen=Peitsche pl=Peitschen
 Pelikan noun g=m gen=Pelikans pl=Pelikane
 Pelz noun g=m gen=Pelzes pl=Pelze
@@ -157,6 +169,7 @@ Penis noun g=m gen=Penis pl=Penisse|Penes note=des Penis
 Pension noun g=f gen=Pension pl=Pensionen
 Pensionär noun g=m gen=Pensionärs pl=Pensionäre
 Pensionärin noun g=f gen=Pensionärin pl=Pensionärinnen
+Pensionat noun g=n gen=Pensionats|Pensionates pl=Pensionate
 Pensionierung noun g=f gen=Pensionierung pl=Pensionierungen
 Perfekt noun g=n gen=Perfekts|Perfektes pl=Perfekte
 Performance noun g=f gen=Performance pl=Performances
@@ -240,6 +253,7 @@ Pförtnerin noun g=f gen=Pförtnerin pl=Pförtnerinnen
 Pfosten noun g=m gen=Pfostens pl=Pfosten
 Pfote noun g=f gen=Pfote pl=Pfoten
 Pfründe noun g=f gen=Pfründe pl=Pfründen
+Pfuhl noun g=m gen=Pfuhls|Pfuhles pl=Pfuhle
 Pfund noun g=n gen=Pfundes|Pfunds pl=Pfund|Pfunde
 Pfütze noun g=f gen=Pfütze pl=Pfützen
 Phalanx noun g=f gen=Phalanx pl=Phalangen
@@ -251,6 +265,7 @@ Pharisäer noun g=m gen=Pharisäers pl=Pharisäer
 Pharma noun g=f gen=Pharma pl=- conf=80 note=short for Pharmaindustrie; mass noun
 Pharmakologe noun g=m gen=Pharmakologen pl=Pharmakologen
 Pharmakologie noun g=f gen=Pharmakologie pl=- note=academic discipline
+Pharmazeut noun g=m gen=Pharmazeuten pl=Pharmazeuten
 Pharmazie noun g=f gen=Pharmazie pl=- note=mass noun
 Phase noun g=f gen=Phase pl=Phasen
 Philanthrop noun g=m gen=Philanthropen pl=Philanthropen
@@ -290,7 +305,9 @@ Pickel noun g=m gen=Pickels pl=Pickel
 Picknick noun g=n gen=Picknicks pl=Picknicks
 Piercing noun g=n gen=Piercings pl=Piercings
 Pietät noun g=f gen=Pietät pl=- note=no plural
+Pietist noun g=m gen=Pietisten pl=Pietisten
 Pigment noun g=n gen=Pigments|Pigmentes pl=Pigmente
+Pik noun g=n gen=Piks pl=Piks note=card suit
 Pike noun g=f gen=Pike pl=Piken note=von der Pike auf
 Pilaster noun g=m gen=Pilasters pl=Pilaster
 Pilates noun g=n gen=Pilates pl=- note=no genitive ending
@@ -299,6 +316,7 @@ Pilgerin noun g=f gen=Pilgerin pl=Pilgerinnen
 Pille noun g=f gen=Pille pl=Pillen
 Pilot noun g=m gen=Piloten pl=Piloten
 Pilotin noun g=f gen=Pilotin pl=Pilotinnen
+Pils noun g=n gen=Pils pl=Pils note=genitive and plural unchanged
 Pilz noun g=m gen=Pilzes pl=Pilze
 Pilzsammler noun g=m gen=Pilzsammlers pl=Pilzsammler
 Pinguin noun g=m gen=Pinguins pl=Pinguine
@@ -318,6 +336,7 @@ Pixel noun g=n|m gen=Pixels pl=Pixel
 Pizza        noun g=f gen=Pizza pl=Pizzas|Pizzen
 Pizzeria noun g=f gen=Pizzeria pl=Pizzerien|Pizzerias
 Pkw noun g=m gen=Pkw|Pkws pl=Pkw|Pkws
+Plafond noun g=m gen=Plafonds pl=Plafonds
 Plagiat noun g=n gen=Plagiats|Plagiates pl=Plagiate
 Plakat noun g=n gen=Plakats|Plakates pl=Plakate
 Plakette noun g=f gen=Plakette pl=Plaketten
@@ -350,6 +369,7 @@ Pliozän noun g=n gen=Pliozäns pl=- note=geological epoch
 Plombe noun g=f gen=Plombe pl=Plomben
 Plug-in noun g=n gen=Plug-ins pl=Plug-ins
 Plugin noun g=n gen=Plugins pl=Plugins note=variant spelling of Plug-in
+Plunder noun g=m gen=Plunders pl=- note=no plural
 Plural noun g=m gen=Plurals pl=Plurale
 Plus noun g=n gen=Plus pl=- note=das Plus; des Plus (bare genitive); mostly singular
 Plüschtier noun g=n gen=Plüschtiers|Plüschtieres pl=Plüschtiere
@@ -364,6 +384,7 @@ Podium noun g=n gen=Podiums pl=Podien
 Poesie noun g=f gen=Poesie pl=Poesien
 Poet noun g=m gen=Poeten pl=Poeten
 Poetik noun g=f gen=Poetik pl=Poetiken
+Pogrom noun g=m|n gen=Pogroms pl=Pogrome
 Pointe noun g=f gen=Pointe pl=Pointen
 Pokal noun g=m gen=Pokals|Pokales pl=Pokale
 Poker noun g=n|m gen=Pokers pl=- note=das or der Poker
@@ -377,6 +398,7 @@ Police noun g=f gen=Police pl=Policen
 Polier noun g=m gen=Poliers pl=Poliere
 Poliklinik noun g=f gen=Poliklinik pl=Polikliniken
 Polis noun g=f gen=Polis pl=Poleis
+Politbüro noun g=n gen=Politbüros pl=Politbüros
 Politik noun g=f gen=Politik pl=- note=mass noun; Politiken is very rare
 Politiker noun g=m gen=Politikers pl=Politiker
 Politikerin noun g=f gen=Politikerin pl=Politikerinnen
@@ -389,7 +411,9 @@ Polkappe noun g=f gen=Polkappe pl=Polkappen
 Pollen noun g=m gen=Pollens pl=Pollen
 Polonium noun g=n gen=Poloniums pl=- note=chemical element
 Polster noun g=n gen=Polsters pl=Polster
+Polymer noun g=n gen=Polymers pl=Polymere
 Polynom noun g=n gen=Polynoms pl=Polynome
+Polyp noun g=m gen=Polypen pl=Polypen
 Polytechnikum noun g=n gen=Polytechnikums pl=Polytechniken|Polytechnika
 Pommes noun g=pl
 Pomp noun g=m gen=Pomps|Pompes pl=- note=mass noun
@@ -405,6 +429,7 @@ Popanz noun g=m gen=Popanzes pl=Popanze
 Popcorn noun g=n gen=Popcorns pl=- note=no plural (mass or abstract noun)
 Pope noun g=m gen=Popen pl=Popen note=Orthodox priest
 Popo noun g=m gen=Popos pl=Popos style=colloquial alt=Gesäß
+Popularisierung noun g=f gen=Popularisierung pl=Popularisierungen
 Popularität noun g=f gen=Popularität pl=- note=mass noun
 Population noun g=f gen=Population pl=Populationen
 Populismus noun g=m gen=Populismus pl=- note=mass noun
@@ -412,14 +437,17 @@ Popup noun g=n gen=Popups pl=Popups note=variant spelling of Pop-up
 Pore noun g=f gen=Pore pl=Poren
 Porno noun g=m gen=Pornos pl=Pornos
 Pornografie noun g=f gen=Pornografie pl=- note=mass noun
+Porphyr noun g=m gen=Porphyrs pl=Porphyre
 Porree noun g=m gen=Porrees pl=Porrees
 Porsche noun g=m gen=Porsches pl=Porsche|Porsches conf=85 note=car brand; also a surname
 Port noun g=m gen=Ports|Portes pl=Porte|Ports conf=80 note=harbour (elevated); computer port (Ports)
 Portal noun g=n gen=Portals pl=Portale
+Portefeuille noun g=n gen=Portefeuilles pl=Portefeuilles
 Portemonnaie noun g=n gen=Portemonnaies pl=Portemonnaies
 Portfolio noun g=n gen=Portfolios pl=Portfolios
 Portier noun g=m gen=Portiers pl=Portiers
 Portierin noun g=f gen=Portierin pl=Portierinnen
+Portierung noun g=f gen=Portierung pl=Portierungen
 Portikus noun g=m gen=Portikus pl=Portikus|Portiken conf=80 note=des Portikus; also feminine (die Portikus)
 Portion noun g=f gen=Portion pl=Portionen
 Porto noun g=n gen=Portos pl=Portos|Porti
@@ -441,6 +469,7 @@ Posten noun g=m gen=Postens pl=Posten
 Poster noun g=n gen=Posters pl=Poster|Posters
 Postfach noun g=n gen=Postfachs|Postfaches pl=Postfächer
 Postillon noun g=m gen=Postillons pl=Postillone
+Postulat noun g=n gen=Postulats|Postulates pl=Postulate
 Potential noun g=n gen=Potentials pl=Potentiale note=variant spelling of Potenzial
 Potenz noun g=f gen=Potenz pl=Potenzen
 Potenzial noun g=n gen=Potenzials pl=Potenziale
@@ -471,6 +500,7 @@ Prälat noun g=m gen=Prälaten pl=Prälaten
 Praline noun g=f gen=Praline pl=Pralinen
 Prämie noun g=f gen=Prämie pl=Prämien
 Prämisse noun g=f gen=Prämisse pl=Prämissen
+Prämonstratenser noun g=m gen=Prämonstratensers pl=Prämonstratenser
 Pranke noun g=f gen=Pranke pl=Pranken
 Präparat noun g=n gen=Präparats|Präparates pl=Präparate
 Präposition noun g=f gen=Präposition pl=Präpositionen
@@ -485,8 +515,10 @@ Präsidentin noun g=f gen=Präsidentin pl=Präsidentinnen
 Präsidentschaft noun g=f gen=Präsidentschaft pl=Präsidentschaften
 Präsidium noun g=n gen=Präsidiums pl=Präsidien
 Präteritum noun g=n gen=Präteritums pl=Präterita
+Prävalenz noun g=f gen=Prävalenz pl=Prävalenzen
 Prävention noun g=f gen=Prävention pl=Präventionen
 Praxis noun g=f gen=Praxis pl=Praxen
+Präzedenzfall noun g=m gen=Präzedenzfalls|Präzedenzfalles pl=Präzedenzfälle
 Präzisierung noun g=f gen=Präzisierung pl=Präzisierungen
 Präzision noun g=f gen=Präzision pl=- note=mass noun
 Predella noun g=f gen=Predella pl=Predellen
@@ -497,10 +529,14 @@ Preis noun g=m gen=Preises pl=Preise
 Prellung noun g=f gen=Prellung pl=Prellungen
 Premier noun g=m gen=Premiers pl=Premiers
 Premiere noun g=f gen=Premiere pl=Premieren
+Presbyterianer noun g=m gen=Presbyterianers pl=Presbyterianer
+Presbyterium noun g=n gen=Presbyteriums pl=Presbyterien
 Presse noun g=f gen=Presse pl=Pressen
 Pressefreiheit noun g=f gen=Pressefreiheit pl=- note=mass noun
+Preuße noun g=m gen=Preußen pl=Preußen
 Priester noun g=m gen=Priesters pl=Priester
 Priesterin noun g=f gen=Priesterin pl=Priesterinnen
+Primadonna noun g=f gen=Primadonna pl=Primadonnen
 Primat noun g=m|n gen=Primats|Primates pl=Primate sense=primacy note=der/das Primat: priority
 Primat noun g=m gen=Primaten pl=Primaten sense=animal note=der Primat: primate
 Primus noun g=m gen=Primus pl=Primusse|Primi note=des Primus
@@ -527,6 +563,7 @@ Proband noun g=m gen=Probanden pl=Probanden
 Probandin noun g=f gen=Probandin pl=Probandinnen
 Probe noun g=f gen=Probe pl=Proben
 Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling); Nahme is not a word
+Probennahme noun g=f gen=Probennahme pl=Probennahmen
 Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
@@ -542,6 +579,7 @@ Profil noun g=n gen=Profils pl=Profile
 Profit noun g=m gen=Profits|Profites pl=Profite
 Prognose noun g=f gen=Prognose pl=Prognosen
 Programm noun g=n gen=Programms|Programmes pl=Programme
+Programmatik noun g=f gen=Programmatik pl=Programmatiken
 Programmierer noun g=m gen=Programmierers pl=Programmierer
 Programmiererin noun g=f gen=Programmiererin pl=Programmiererinnen
 Programmiersprache noun g=f gen=Programmiersprache pl=Programmiersprachen
@@ -556,6 +594,7 @@ Prokura noun g=f gen=Prokura pl=Prokuren
 Prokurist noun g=m gen=Prokuristen pl=Prokuristen
 Prokuristin noun g=f gen=Prokuristin pl=Prokuristinnen
 Proletariat noun g=n gen=Proletariats|Proletariates pl=Proletariate
+Proletarier noun g=m gen=Proletariers pl=Proletarier
 Prolog noun g=m gen=Prologs pl=Prologe
 Promenade noun g=f gen=Promenade pl=Promenaden
 Promethium noun g=n gen=Promethiums pl=- note=chemical element
@@ -563,12 +602,14 @@ Promille noun g=n gen=Promilles|Promille pl=Promille,Promille,Promille,Promille 
 Prominente noun g=m|f decl=adj note=celebrity
 Promotion noun g=f gen=Promotion pl=Promotionen
 Pronomen noun g=n gen=Pronomens pl=Pronomen|Pronomina
+Propädeutik noun g=f gen=Propädeutik pl=Propädeutiken
 Propaganda noun g=f gen=Propaganda pl=- note=mass noun
 Propan noun g=n gen=Propans pl=- note=mass noun; gas
 Propeller noun g=m gen=Propellers pl=Propeller
 Prophet noun g=m gen=Propheten pl=Propheten
 Prophetin noun g=f gen=Prophetin pl=Prophetinnen
 Prophezeiung noun g=f gen=Prophezeiung pl=Prophezeiungen
+Prophylaxe noun g=f gen=Prophylaxe pl=Prophylaxen
 Proportion noun g=f gen=Proportion pl=Proportionen
 Proportionalität noun g=f gen=Proportionalität pl=Proportionalitäten
 Proportionalitätsfaktor noun g=m gen=Proportionalitätsfaktors pl=Proportionalitätsfaktoren
@@ -585,6 +626,7 @@ Protagonist noun g=m gen=Protagonisten pl=Protagonisten
 Protagonistin noun g=f gen=Protagonistin pl=Protagonistinnen
 Protein noun g=n gen=Proteins pl=Proteine
 Protektionismus noun g=m gen=Protektionismus pl=- note=no plural
+Protektor noun g=m gen=Protektors pl=Protektoren
 Protektorat noun g=n gen=Protektorats|Protektorates pl=Protektorate
 Protest noun g=m gen=Protests|Protestes pl=Proteste
 Protestant noun g=m gen=Protestanten pl=Protestanten
@@ -596,12 +638,15 @@ Protokollantin noun g=f gen=Protokollantin pl=Protokollantinnen
 Protokollführerin noun g=f gen=Protokollführerin pl=Protokollführerinnen
 Proton noun g=n gen=Protons pl=Protonen
 Prototyp noun g=m gen=Prototyps pl=Prototypen
+Provenienz noun g=f gen=Provenienz pl=Provenienzen
 Proviant noun g=m gen=Proviants pl=Proviante
 Provider noun g=m gen=Providers pl=Provider
 Provinz noun g=f gen=Provinz pl=Provinzen
 Provision noun g=f gen=Provision pl=Provisionen
+Provisor noun g=m gen=Provisors pl=Provisoren
 Provisorium noun g=n gen=Provisoriums pl=Provisorien
 Provokation noun g=f gen=Provokation pl=Provokationen
+Prozedere noun g=n gen=Prozederes pl=Prozedere
 Prozedur noun g=f gen=Prozedur pl=Prozeduren
 Prozent noun g=n gen=Prozents|Prozentes pl=Prozent|Prozente
 Prozess noun g=m gen=Prozesses pl=Prozesse
@@ -614,6 +659,7 @@ Prüfung noun g=f gen=Prüfung pl=Prüfungen
 Prunk noun g=m gen=Prunks|Prunkes pl=- note=mass noun
 PS noun g=n sg=PS,PS,PS,PS pl=PS conf=75 note=Pferdestärke; gender das PS (also the f. is heard)
 Psalm noun g=m gen=Psalms pl=Psalmen
+Psalter noun g=m gen=Psalters pl=Psalter
 Pseudonym noun g=n gen=Pseudonyms pl=Pseudonyme
 Pseudonymisierung noun g=f gen=Pseudonymisierung pl=Pseudonymisierungen
 Psyche noun g=f gen=Psyche pl=Psychen
@@ -624,6 +670,8 @@ Psychoanalyse noun g=f gen=Psychoanalyse pl=Psychoanalysen
 Psychologe noun g=m gen=Psychologen pl=Psychologen
 Psychologie noun g=f gen=Psychologie pl=- note=mass noun
 Psychologin noun g=f gen=Psychologin pl=Psychologinnen
+Psychose noun g=f gen=Psychose pl=Psychosen
+Psychosomatik noun g=f gen=Psychosomatik pl=- note=no plural
 Psychotherapeut noun g=m gen=Psychotherapeuten pl=Psychotherapeuten
 Psychotherapeutin noun g=f gen=Psychotherapeutin pl=Psychotherapeutinnen
 Psychotherapie noun g=f gen=Psychotherapie pl=Psychotherapien

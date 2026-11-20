@@ -97,6 +97,7 @@ Abstecher noun g=m gen=Abstechers pl=Abstecher
 Absteiger noun g=m gen=Absteigers pl=Absteiger
 Abstieg noun g=m gen=Abstiegs|Abstieges pl=Abstiege
 Abstimmung    noun g=f gen=Abstimmung pl=Abstimmungen
+Abstinenz noun g=f gen=Abstinenz pl=- note=no plural
 Abstraktion noun g=f gen=Abstraktion pl=Abstraktionen
 Absturz noun g=m gen=Absturzes pl=Abstürze
 Absurdität noun g=f gen=Absurdität pl=Absurditäten
@@ -138,6 +139,7 @@ Adapter noun g=m gen=Adapters pl=Adapter
 Adaption noun g=f gen=Adaption pl=Adaptionen
 Add-on noun g=n gen=Add-ons pl=Add-ons
 Addition noun g=f gen=Addition pl=Additionen
+Additiv noun g=n gen=Additivs pl=Additive
 Adel noun g=m gen=Adels pl=- note=mass noun
 Adelige noun g=m|f decl=adj note=variant of Adlige
 Adelsfamilie noun g=f gen=Adelsfamilie pl=Adelsfamilien
@@ -159,6 +161,8 @@ Admiralität noun g=f gen=Admiralität pl=Admiralitäten
 Adoption noun g=f gen=Adoption pl=Adoptionen
 Adoptiveltern noun g=pl
 Adoptivkind noun g=n gen=Adoptivkinds|Adoptivkindes pl=Adoptivkinder
+Adoptivsohn noun g=m gen=Adoptivsohns|Adoptivsohnes pl=Adoptivsöhne
+Adoptivtochter noun g=f gen=Adoptivtochter pl=Adoptivtöchter
 Adressat noun g=m gen=Adressaten pl=Adressaten
 Adressatin noun g=f gen=Adressatin pl=Adressatinnen
 Adresse noun g=f gen=Adresse pl=Adressen
@@ -188,6 +192,7 @@ Agentin noun g=f gen=Agentin pl=Agentinnen
 Agentur noun g=f gen=Agentur pl=Agenturen
 Agglomeration noun g=f gen=Agglomeration pl=Agglomerationen
 Aggregat noun g=n gen=Aggregats|Aggregates pl=Aggregate
+Aggregator noun g=m gen=Aggregators pl=Aggregatoren
 Aggregatzustand noun g=m gen=Aggregatzustands|Aggregatzustandes pl=Aggregatzustände
 Aggression noun g=f gen=Aggression pl=Aggressionen
 Ägide noun g=f gen=Ägide pl=- note=unter der Ägide; plural not in use
@@ -196,6 +201,7 @@ Agrarpolitik noun g=f gen=Agrarpolitik pl=- note=no plural
 Ägypter noun g=m gen=Ägypters pl=Ägypter
 Ägypterin noun g=f gen=Ägypterin pl=Ägypterinnen
 Ägyptologe noun g=m gen=Ägyptologen pl=Ägyptologen
+Ägyptologie noun g=f gen=Ägyptologie pl=- note=no plural
 Ahn noun g=m gen=Ahns|Ahnes pl=Ahnen conf=85 note=ancestor; Ahne is the more common weak variant
 Ahndung noun g=f gen=Ahndung pl=Ahndungen
 Ahne noun g=m gen=Ahnen pl=Ahnen note=ancestor
@@ -206,6 +212,7 @@ Ahorn noun g=m gen=Ahorns pl=Ahorne
 Ähre noun g=f gen=Ähre pl=Ähren
 Aids noun g=n gen=Aids pl=- note=disease (also AIDS)
 Airbus noun g=m gen=Airbus|Airbusses pl=Airbusse
+Airline noun g=f gen=Airline pl=Airlines
 Akademie      noun g=f gen=Akademie pl=Akademien
 Akademiker noun g=m gen=Akademikers pl=Akademiker
 Akademikerin noun g=f gen=Akademikerin pl=Akademikerinnen
@@ -250,6 +257,8 @@ Albatros noun g=m gen=Albatrosses pl=Albatrosse
 Albedo noun g=f gen=Albedo pl=- note=physics term
 Albtraum noun g=m gen=Albtraums|Albtraumes pl=Albträume
 Album         noun g=n gen=Albums pl=Alben
+Alchemist noun g=m gen=Alchemisten pl=Alchemisten
+Alemanne noun g=m gen=Alemannen pl=Alemannen
 Alexandriner noun g=m gen=Alexandriners pl=Alexandriner
 Alge noun g=f gen=Alge pl=Algen
 Algebra noun g=f gen=Algebra pl=- note=no plural
@@ -258,6 +267,8 @@ Alibi noun g=n gen=Alibis pl=Alibis
 Alkali noun g=n gen=Alkalis pl=Alkalien
 Alkalimetall noun g=n gen=Alkalimetalls|Alkalimetalles pl=Alkalimetalle
 Alkohol noun g=m gen=Alkohols pl=Alkohole
+Alkoholiker noun g=m gen=Alkoholikers pl=Alkoholiker
+Alkoven noun g=m gen=Alkovens pl=Alkoven
 Allanit noun g=m gen=Allanits pl=Allanite note=mineral
 Allee noun g=f gen=Allee pl=Alleen
 Allegorie noun g=f gen=Allegorie pl=Allegorien
@@ -269,6 +280,7 @@ Allerheiligen noun g=n gen=Allerheiligen pl=- note=no genitive ending
 Allesfresser noun g=m gen=Allesfressers pl=Allesfresser
 Allgemeinheit noun g=f gen=Allgemeinheit pl=- note=mass noun
 Allianz noun g=f gen=Allianz pl=Allianzen
+Alligator noun g=m gen=Alligators pl=Alligatoren
 Alliierte noun g=m|f decl=adj note=die Alliierten
 Alliteration noun g=f gen=Alliteration pl=Alliterationen
 Allmacht noun g=f gen=Allmacht pl=- note=mass noun
@@ -282,6 +294,7 @@ Alpe noun g=f gen=Alpe pl=Alpen note=mountain pasture (southern German, Alemanni
 Alpha noun g=n gen=Alphas pl=Alphas
 Alphabet noun g=n gen=Alphabets pl=Alphabete
 Alphabetisierung noun g=f gen=Alphabetisierung pl=Alphabetisierungen
+Alpinist noun g=m gen=Alpinisten pl=Alpinisten
 Alptraum noun g=m gen=Alptraums|Alptraumes pl=Alpträume
 Altar noun g=m gen=Altars pl=Altäre
 Altbau noun g=m gen=Altbaus pl=Altbauten
@@ -302,8 +315,10 @@ Aluminium noun g=n gen=Aluminiums pl=- note=mass noun
 Amateur noun g=m gen=Amateurs pl=Amateure
 Amateurin noun g=f gen=Amateurin pl=Amateurinnen
 Amazone noun g=f gen=Amazone pl=Amazonen
+Ambiente noun g=n gen=Ambientes pl=- note=no plural
 Ambition noun g=f gen=Ambition pl=Ambitionen
 Ambivalenz noun g=f gen=Ambivalenz pl=Ambivalenzen
+Ambulanz noun g=f gen=Ambulanz pl=Ambulanzen
 Ameise noun g=f gen=Ameise pl=Ameisen
 Amen noun g=n gen=Amens pl=Amen
 Americium noun g=n gen=Americiums pl=- note=chemical element
@@ -313,7 +328,10 @@ Amin noun g=n gen=Amins pl=Amine
 Aminosäure noun g=f gen=Aminosäure pl=Aminosäuren
 Amme noun g=f gen=Amme pl=Ammen
 Ammoniak noun g=n gen=Ammoniaks pl=- note=chemical
+Ammonium noun g=n gen=Ammoniums pl=- note=no plural
+Amnesie noun g=f gen=Amnesie pl=Amnesien
 Amnestie noun g=f gen=Amnestie pl=Amnestien
+Amoklauf noun g=m gen=Amoklaufs|Amoklaufes pl=Amokläufe
 Ampel noun g=f gen=Ampel pl=Ampeln
 Ampere noun g=n gen=Ampere|Amperes pl=Ampere note=unit of current
 Amphibie noun g=f gen=Amphibie pl=Amphibien
@@ -326,6 +344,7 @@ Amtsantritt noun g=m gen=Amtsantritts|Amtsantrittes pl=Amtsantritte
 Amulett noun g=n gen=Amuletts|Amulettes pl=Amulette
 Anakonda noun g=f gen=Anakonda pl=Anakondas
 Analogie noun g=f gen=Analogie pl=Analogien
+Analogon noun g=n gen=Analogons pl=Analoga
 Analyse       noun g=f gen=Analyse pl=Analysen
 Analysis noun g=f gen=Analysis pl=- note=no plural
 Analytik noun g=f gen=Analytik pl=- note=mass noun
@@ -341,6 +360,7 @@ Anästhesie noun g=f gen=Anästhesie pl=Anästhesien
 Anatomie noun g=f gen=Anatomie pl=Anatomien
 Anbau noun g=m gen=Anbaus|Anbaues pl=Anbauten note=cultivation (mass) and extension of a building (Anbauten)
 Anberaumung noun g=f gen=Anberaumung pl=Anberaumungen
+Anbeter noun g=m gen=Anbeters pl=Anbeter
 Anbetracht noun g=m gen=Anbetracht|Anbetrachts pl=- conf=80 note=only in "in Anbetracht"
 Anbetung noun g=f gen=Anbetung pl=- note=no plural
 Anbieter      noun g=m gen=Anbieters pl=Anbieter
@@ -398,9 +418,11 @@ Anhieb noun g=m gen=Anhieb|Anhiebs pl=- note=only in auf Anhieb
 Anhöhe noun g=f gen=Anhöhe pl=Anhöhen
 Anhörung      noun g=f gen=Anhörung pl=Anhörungen
 Animation noun g=f gen=Animation pl=Animationen
+Animator noun g=m gen=Animators pl=Animatoren
 Anion noun g=n gen=Anions pl=Anionen
 Anker noun g=m gen=Ankers pl=Anker
 Anklage noun g=f gen=Anklage pl=Anklagen
+Anknüpfung noun g=f gen=Anknüpfung pl=Anknüpfungen
 Ankömmling noun g=m gen=Ankömmlings pl=Ankömmlinge
 Ankündigung noun g=f gen=Ankündigung pl=Ankündigungen
 Ankunft noun g=f gen=Ankunft pl=Ankünfte
@@ -435,6 +457,7 @@ Anorak noun g=m gen=Anoraks pl=Anoraks
 Anordnung     noun g=f gen=Anordnung pl=Anordnungen
 Anpassung     noun g=f gen=Anpassung pl=Anpassungen
 Anpfiff noun g=m gen=Anpfiffs|Anpfiffes pl=Anpfiffe
+Anprall noun g=m gen=Anpralls|Anpralles pl=Anpralle
 Anrainer noun g=m gen=Anrainers pl=Anrainer
 Anrechnung noun g=f gen=Anrechnung pl=Anrechnungen
 Anrede noun g=f gen=Anrede pl=Anreden
@@ -442,6 +465,7 @@ Anregung noun g=f gen=Anregung pl=Anregungen
 Anreiz noun g=m gen=Anreizes pl=Anreize
 Anruf noun g=m gen=Anrufs|Anrufes pl=Anrufe
 Anrufbeantworter noun g=m gen=Anrufbeantworters pl=Anrufbeantworter
+Anrufer noun g=m gen=Anrufers pl=Anrufer
 Ansage noun g=f gen=Ansage pl=Ansagen
 Ansatz        noun g=m gen=Ansatzes pl=Ansätze
 Anschaffung noun g=f gen=Anschaffung pl=Anschaffungen
@@ -472,11 +496,13 @@ Antenne noun g=f gen=Antenne pl=Antennen
 Anthologie noun g=f gen=Anthologie pl=Anthologien
 Anthropologe noun g=m gen=Anthropologen pl=Anthropologen
 Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
+Anthropologin noun g=f gen=Anthropologin pl=Anthropologinnen
 Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
 Antimon noun g=n gen=Antimons pl=- note=chemical element
 Antinomie noun g=f gen=Antinomie pl=Antinomien
+Antipathie noun g=f gen=Antipathie pl=Antipathien
 Antiqua noun g=f gen=Antiqua pl=- note=typeface
 Antiquar noun g=m gen=Antiquars pl=Antiquare
 Antisemit noun g=m gen=Antisemiten pl=Antisemiten
@@ -522,10 +548,14 @@ Apostroph noun g=m gen=Apostrophs|Apostrophes pl=Apostrophe
 Apotheke noun g=f gen=Apotheke pl=Apotheken
 Apotheker noun g=m gen=Apothekers pl=Apotheker
 Apothekerin noun g=f gen=Apothekerin pl=Apothekerinnen
+Apotheose noun g=f gen=Apotheose pl=Apotheosen
 App noun g=f gen=App pl=Apps
 Apparat noun g=m gen=Apparats|Apparates pl=Apparate
+Apparatur noun g=f gen=Apparatur pl=Apparaturen
 Appartement noun g=n gen=Appartements pl=Appartements
 Appell noun g=m gen=Appells|Appelles pl=Appelle
+Appellation noun g=f gen=Appellation pl=Appellationen
+Apperzeption noun g=f gen=Apperzeption pl=Apperzeptionen
 Appetit noun g=m gen=Appetits|Appetites pl=- note=no plural
 Applaus noun g=m gen=Applauses pl=- note=no plural
 Apposition noun g=f gen=Apposition pl=Appositionen
@@ -540,6 +570,7 @@ Aquarium noun g=n gen=Aquariums pl=Aquarien
 Äquator noun g=m gen=Äquators pl=- note=no plural
 Äquivalent noun g=n gen=Äquivalents|Äquivalentes pl=Äquivalente
 Äquivalenz noun g=f gen=Äquivalenz pl=Äquivalenzen
+Ara noun g=m gen=Aras pl=Aras
 Ära noun g=f gen=Ära pl=Ären
 Araber noun g=m gen=Arabers pl=Araber
 Araberin noun g=f gen=Araberin pl=Araberinnen
@@ -603,6 +634,7 @@ Arsen noun g=n gen=Arsens pl=- note=chemical element
 Arsenal noun g=n gen=Arsenals pl=Arsenale
 Art           noun g=f gen=Art pl=Arten
 Artefakt noun g=n gen=Artefakts|Artefaktes pl=Artefakte
+Arterie noun g=f gen=Arterie pl=Arterien
 Artikel       noun g=m gen=Artikels pl=Artikel
 Artillerie noun g=f gen=Artillerie pl=Artillerien note=military; plural rare
 Artist noun g=m gen=Artisten pl=Artisten
@@ -621,6 +653,7 @@ Asiatin noun g=f gen=Asiatin pl=Asiatinnen
 Asienmeisterschaft noun g=f gen=Asienmeisterschaft pl=Asienmeisterschaften note=compound with a proper name as first part
 Asienspiele noun g=pl note=Asian Games; plurale tantum
 Askese noun g=f gen=Askese pl=- note=no plural
+Asket noun g=m gen=Asketen pl=Asketen
 Aspekt noun g=m gen=Aspekts|Aspektes pl=Aspekte
 Asphalt noun g=m gen=Asphalts|Asphaltes pl=Asphalte
 Ass noun g=n gen=Asses pl=Asse
@@ -709,6 +742,7 @@ Aufrechterhaltung noun g=f gen=Aufrechterhaltung pl=- note=mass noun
 Aufregung noun g=f gen=Aufregung pl=Aufregungen
 Aufruf noun g=m gen=Aufrufs|Aufrufes pl=Aufrufe
 Aufruhr noun g=m gen=Aufruhrs|Aufruhres pl=- note=no plural
+Aufrührer noun g=m gen=Aufrührers pl=Aufrührer
 Aufrüstung noun g=f gen=Aufrüstung pl=- note=no plural
 Aufsatz noun g=m gen=Aufsatzes pl=Aufsätze
 Aufschlüsselung noun g=f gen=Aufschlüsselung pl=Aufschlüsselungen
@@ -746,6 +780,7 @@ Aufzug noun g=m gen=Aufzugs|Aufzuges pl=Aufzüge
 Auge          noun g=n gen=Auges pl=Augen
 Augenblick    noun g=m gen=Augenblicks|Augenblickes pl=Augenblicke
 Augenmerk noun g=n gen=Augenmerks|Augenmerkes pl=- note=no plural
+Augenwischerei noun g=f gen=Augenwischerei pl=Augenwischereien
 Äuglein noun g=n gen=Äugleins pl=Äuglein
 Augsburger noun g=m gen=Augsburgers pl=Augsburger note=inhabitant of Augsburg
 August        noun g=m gen=August|Augusts pl=- note=month name
@@ -768,6 +803,7 @@ Auseinandersetzung noun g=f gen=Auseinandersetzung pl=Auseinandersetzungen
 Ausfahrt noun g=f gen=Ausfahrt pl=Ausfahrten
 Ausfall noun g=m gen=Ausfalls|Ausfalles pl=Ausfälle
 Ausfertigung noun g=f gen=Ausfertigung pl=Ausfertigungen
+Ausflucht noun g=f gen=Ausflucht pl=Ausflüchte
 Ausflug noun g=m gen=Ausflugs|Ausfluges pl=Ausflüge
 Ausfuhr noun g=f gen=Ausfuhr pl=Ausfuhren
 Ausführung    noun g=f gen=Ausführung pl=Ausführungen
@@ -858,6 +894,7 @@ Autistin noun g=f gen=Autistin pl=Autistinnen
 Auto          noun g=n gen=Autos pl=Autos
 Autobahn noun g=f gen=Autobahn pl=Autobahnen
 Autodidakt noun g=m gen=Autodidakten pl=Autodidakten
+Autokrat noun g=m gen=Autokraten pl=Autokraten
 Automat noun g=m gen=Automaten pl=Automaten
 Automatik noun g=f gen=Automatik pl=Automatiken
 Automatisierung noun g=f gen=Automatisierung pl=Automatisierungen
@@ -871,8 +908,11 @@ Autorität noun g=f gen=Autorität pl=Autoritäten
 Autoscooter noun g=m gen=Autoscooters pl=Autoscooter
 Avantgarde noun g=f gen=Avantgarde pl=Avantgarden
 Avatar noun g=m gen=Avatars pl=Avatare
+Avionik noun g=f gen=Avionik pl=- note=no plural
 Avocado noun g=f gen=Avocado pl=Avocados
+Aware noun g=m gen=Awaren pl=Awaren
 Axiom noun g=n gen=Axioms pl=Axiome
 Axolotl noun g=m gen=Axolotls pl=Axolotl
 Axt noun g=f gen=Axt pl=Äxte
+Azteke noun g=m gen=Azteken pl=Azteken
 Azubi noun g=m gen=Azubis pl=Azubis

@@ -33,6 +33,7 @@ eindeutschen verb class=weak sep=ein pp=eingedeutscht perf=haben
 eindösen verb class=weak sep=ein pp=eingedöst perf=sein
 eindringen verb class=strong sep=ein 3sg=eindringt past=eindrang pp=eingedrungen subj2=eindränge perf=sein
 eindrücken verb class=weak sep=ein pp=eingedrückt perf=haben
+einen verb class=weak pp=geeint perf=haben
 einengen verb class=weak sep=ein pp=eingeengt perf=haben
 einfädeln verb class=weak sep=ein pp=eingefädelt perf=haben
 einfahren verb class=strong sep=ein 3sg=einfährt past=einfuhr subj2=einführe pp=eingefahren perf=haben|sein
@@ -227,6 +228,7 @@ entarten verb class=weak pp=entartet perf=sein
 entbehren verb class=weak pp=entbehrt perf=haben
 entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbände perf=haben
 entblößen verb class=weak pp=entblößt perf=haben refl=acc
+entbürokratisieren verb class=weak pp=entbürokratisiert perf=haben
 entdecken verb class=weak pp=entdeckt perf=haben
 enteignen verb class=weak pp=enteignet perf=haben
 entfachen verb class=weak pp=entfacht perf=haben
@@ -290,9 +292,11 @@ entrücken verb class=weak pp=entrückt perf=haben pp_cmp
 entrümpeln verb class=weak pp=entrümpelt perf=haben
 entrüsten verb class=weak pp=entrüstet perf=haben refl=acc
 entsaften verb class=weak pp=entsaftet perf=haben
+entsagen verb class=weak pp=entsagt perf=haben
 entschädigen verb class=weak pp=entschädigt perf=haben
 entschärfen verb class=weak pp=entschärft perf=haben
 entscheiden verb class=strong 3sg=entscheidet past=entschied pp=entschieden subj2=entschiede perf=haben refl=acc
+entschlafen verb class=strong 3sg=entschläft past=entschlief pp=entschlafen subj2=entschliefe perf=sein
 entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen subj2=entschlösse perf=haben refl=acc
 entschlüpfen verb class=weak pp=entschlüpft perf=sein
 entschlüsseln verb class=weak pp=entschlüsselt perf=haben
@@ -300,6 +304,7 @@ entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entschwinden verb class=strong 3sg=entschwindet past=entschwand pp=entschwunden subj2=entschwände perf=sein
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
+entsinnen verb class=strong 3sg=entsinnt past=entsann pp=entsonnen subj2=entsänne perf=haben refl=acc
 entsorgen verb class=weak pp=entsorgt perf=haben
 entspannen verb class=weak pp=entspannt perf=haben refl=acc part1_cmp pp_cmp
 entsperren verb class=weak pp=entsperrt perf=haben
@@ -472,6 +477,7 @@ erstehen verb class=strong 3sg=ersteht past=erstand subj2=erstünde|erstände pp
 ersteigen verb class=strong 3sg=ersteigt past=erstieg subj2=erstiege pp=erstiegen perf=sein
 ersteigern verb class=weak pp=ersteigert perf=haben
 erstellen verb class=weak pp=erstellt perf=haben
+ersterben verb class=strong 3sg=erstirbt past=erstarb pp=erstorben subj2=erstürbe perf=sein
 ersticken verb class=weak pp=erstickt perf=haben|sein
 erstreben verb class=weak pp=erstrebt perf=haben
 erstrecken verb class=weak pp=erstreckt perf=haben refl=acc

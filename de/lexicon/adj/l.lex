@@ -61,7 +61,9 @@ liebenswert adj cmp=liebenswerter sup=liebenswertesten
 liebenswürdig adj cmp=liebenswürdiger sup=liebenswürdigsten
 lieblich adj cmp=lieblicher sup=lieblichsten
 liechtensteinisch adj
+liederlich adj cmp=liederlicher sup=liederlichsten
 lila         adj indecl
+linealisch adj note=botany
 linear adj
 link adj attr_only note=attributive only; linke Hand
 linksseitig adj

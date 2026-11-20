@@ -18,6 +18,7 @@ nah          adj cmp=näher sup=nächsten
 naiv adj cmp=naiver sup=naivsten
 namentlich adj
 namhaft adj cmp=namhafter sup=namhaftesten
+namibisch adj
 nämlich adj attr_only style=archaic note=der nämliche = derselbe
 napoleonisch adj
 narbig adj

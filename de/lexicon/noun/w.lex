@@ -11,6 +11,7 @@ Wachtmeister noun g=m gen=Wachtmeisters pl=Wachtmeister
 Wade noun g=f gen=Wade pl=Waden
 Waffe noun g=f gen=Waffe pl=Waffen
 Waffel noun g=f gen=Waffel pl=Waffeln
+Wägelchen noun g=n gen=Wägelchens pl=Wägelchen
 Wagen noun g=m gen=Wagens pl=Wagen|Wägen[AT]
 Waggon noun g=m gen=Waggons pl=Waggons
 Wagnis noun g=n gen=Wagnisses pl=Wagnisse
@@ -33,8 +34,11 @@ Wald noun g=m gen=Waldes|Walds[rare] pl=Wälder
 Wäldchen noun g=n gen=Wäldchens pl=Wäldchen
 Waldkauz noun g=m gen=Waldkauzes pl=Waldkäuze
 Waldlichtung noun g=f gen=Waldlichtung pl=Waldlichtungen
+Waldung noun g=f gen=Waldung pl=Waldungen
+Waliser noun g=m gen=Walisers pl=Waliser
 Wall noun g=m gen=Walles|Walls pl=Wälle
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
+Wallung noun g=f gen=Wallung pl=Wallungen
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
 Walze noun g=f gen=Walze pl=Walzen
@@ -53,11 +57,13 @@ Wandlung noun g=f gen=Wandlung pl=Wandlungen
 Wane noun g=m gen=Wanen pl=Wanen note=Norse god of the Vanir
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
+Wanze noun g=f gen=Wanze pl=Wanzen
 Wappen noun g=n gen=Wappens pl=Wappen
 Ware noun g=f gen=Ware pl=Waren
 Wärme noun g=f gen=Wärme pl=- note=mass noun
 Wärmedämmung noun g=f gen=Wärmedämmung pl=Wärmedämmungen
 Wärmepumpe noun g=f gen=Wärmepumpe pl=Wärmepumpen
+Wärmetauscher noun g=m gen=Wärmetauschers pl=Wärmetauscher
 Warnschild noun g=n gen=Warnschilds|Warnschildes pl=Warnschilder
 Warnung noun g=f gen=Warnung pl=Warnungen
 Warschauer noun g=m gen=Warschauers pl=Warschauer note=inhabitant of Warsaw
@@ -136,6 +142,7 @@ Weltschmerz noun g=m gen=Weltschmerzes pl=- note=no plural
 Wende noun g=f gen=Wende pl=Wenden
 Wendel noun g=f gen=Wendel pl=Wendeln
 Wendung noun g=f gen=Wendung pl=Wendungen
+Werber noun g=m gen=Werbers pl=Werber
 Werbespot noun g=m gen=Werbespots pl=Werbespots
 Werbung noun g=f gen=Werbung pl=Werbungen
 Werdegang noun g=m gen=Werdegangs|Werdeganges pl=Werdegänge
@@ -150,6 +157,7 @@ Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
 Wertung noun g=f gen=Wertung pl=Wertungen
+Werwolf noun g=m gen=Werwolfs|Werwolfes pl=Werwölfe
 Wesen noun g=n gen=Wesens pl=Wesen
 Wesir noun g=m gen=Wesirs pl=Wesire
 Wespe noun g=f gen=Wespe pl=Wespen
@@ -169,6 +177,7 @@ Whistleblower noun g=m gen=Whistleblowers pl=Whistleblower
 Whiteboard noun g=n gen=Whiteboards pl=Whiteboards
 Wichtel noun g=m gen=Wichtels pl=Wichtel
 Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
+Wicke noun g=f gen=Wicke pl=Wicken
 Widder noun g=m gen=Widders pl=Widder
 Widerhall noun g=m gen=Widerhalls|Widerhalles pl=Widerhalle
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
@@ -196,15 +205,18 @@ Wiesel noun g=n gen=Wiesels pl=Wiesel
 Wiki noun g=n gen=Wikis pl=Wikis
 Wikinger noun g=m gen=Wikingers pl=Wikinger
 Wild noun g=n gen=Wilds|Wildes pl=- note=game (animals)
+Wildbret noun g=n gen=Wildbrets pl=- note=mass noun
 Wildkraut noun g=n gen=Wildkrauts pl=Wildkräuter
 Wildnis noun g=f gen=Wildnis pl=Wildnisse
 Wildwuchs noun g=m gen=Wildwuchses pl=- note=no plural
 Wille noun g=m gen=Willens pl=Willen
 Willkomm noun g=m gen=Willkomms|Willkommes pl=Willkomme style=archaic conf=70 note=archaic for Willkommen; many gov hits are probably a surname
 Willkür noun g=f gen=Willkür pl=- note=no plural
+Wimpel noun g=m gen=Wimpels pl=Wimpel
 Wimper noun g=f gen=Wimper pl=Wimpern
 Wimperntusche noun g=f gen=Wimperntusche pl=Wimperntuschen
 Wind noun g=m gen=Windes|Winds[rare] pl=Winde
+Windel noun g=f gen=Windel pl=Windeln
 Windpocken noun g=pl
 Windrad noun g=n gen=Windrads|Windrades pl=Windräder
 Wink noun g=m gen=Winks|Winkes pl=Winke
@@ -226,11 +238,13 @@ Wirksamkeit noun g=f gen=Wirksamkeit pl=- note=no plural
 Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
 Wirren noun g=pl
+Wirrnis noun g=f gen=Wirrnis pl=Wirrnisse
 Wirrwarr noun g=m gen=Wirrwarrs pl=- note=no plural
 Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
 Wirtel noun g=m gen=Wirtels pl=Wirtel
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
 Wirtschaft noun g=f gen=Wirtschaft pl=Wirtschaften[rare]
+Wirtschafterin noun g=f gen=Wirtschafterin pl=Wirtschafterinnen
 Wirtschaftlichkeit noun g=f gen=Wirtschaftlichkeit pl=- note=no plural
 Wirtschaftswunder noun g=n gen=Wirtschaftswunders pl=- note=no plural
 Wisch noun g=m gen=Wisches|Wischs pl=Wische
@@ -299,6 +313,7 @@ Würde noun g=f gen=Würde pl=Würden
 Würdigung noun g=f gen=Würdigung pl=Würdigungen
 Wurf noun g=m gen=Wurfs|Wurfes pl=Würfe
 Würfel noun g=m gen=Würfels pl=Würfel
+Würger noun g=m gen=Würgers pl=Würger
 Wurm noun g=m gen=Wurms|Wurmes pl=Würmer
 Wurst noun g=f gen=Wurst pl=Würste
 Würstchen noun g=n gen=Würstchens pl=Würstchen

@@ -9,5 +9,6 @@ christlich adj
 chronisch adj
 chronologisch adj
 cool adj cmp=cooler sup=coolsten
+cremefarben adj
 cremig adj cmp=cremiger sup=cremigsten
 curricular adj

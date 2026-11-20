@@ -9,6 +9,7 @@ garnieren verb class=weak pp=garniert perf=haben
 gärtnern verb class=weak pp=gegärtnert perf=haben
 gastieren verb class=weak pp=gastiert perf=haben
 gaukeln verb class=weak pp=gegaukelt perf=haben|sein note=der Falter gaukelt (sein with a direction)
+gebärden verb class=weak pp=gebärdet perf=haben refl=acc
 gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] pp=geboren subj2=gebäre perf=haben
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
 gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben
@@ -19,6 +20,7 @@ gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte p
 gefährden verb class=weak pp=gefährdet perf=haben
 gefallen verb class=strong 3sg=gefällt past=gefiel pp=gefallen subj2=gefiele perf=haben
 gefrieren verb class=strong 3sg=gefriert past=gefror pp=gefroren subj2=gefröre perf=sein
+gegenfinanzieren verb class=weak sep=gegen pp=gegenfinanziert perf=haben
 gegenlesen verb class=strong sep=gegen 3sg=gegenliest past=gegenlas pp=gegengelesen subj2=gegenläse perf=haben
 gegenprüfen verb class=weak sep=gegen pp=gegengeprüft perf=haben
 gegensteuern verb class=weak sep=gegen pp=gegengesteuert perf=haben
@@ -34,10 +36,14 @@ geizen verb class=weak pp=geizt perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
 geleiten verb class=weak pp=geleitet perf=haben
 gelingen verb class=strong 3sg=gelingt past=gelang pp=gelungen subj2=gelänge perf=sein pp_cmp
+gellen verb class=weak pp=gegellt perf=haben
+geloben verb class=weak pp=gelobt perf=haben
 gelten verb class=strong 3sg=gilt past=galt pp=gegolten subj2=gälte|gölte perf=haben
+gelüsten verb class=weak pp=gelüstet perf=haben
 genehmigen verb class=weak pp=genehmigt perf=haben
 generieren verb class=weak pp=generiert perf=haben
 genesen verb class=strong 3sg=genest past=genas pp=genesen subj2=genäse perf=sein
+genieren verb class=weak pp=geniert perf=haben refl=acc
 genießen verb class=strong 3sg=genießt past=genoss pp=genossen subj2=genösse perf=haben
 genügen verb class=weak pp=genügt perf=haben
 geraten verb class=strong 3sg=gerät past=geriet pp=geraten subj2=geriete perf=sein
@@ -49,8 +55,9 @@ gestalten verb class=weak pp=gestaltet perf=haben refl=acc
 gestatten verb class=weak pp=gestattet perf=haben
 gestehen verb class=strong 3sg=gesteht past=gestand pp=gestanden subj2=gestünde|gestände perf=haben
 gestikulieren verb class=weak pp=gestikuliert perf=haben
-gewähren verb class=weak pp=gewährt perf=haben
+getrauen verb class=weak pp=getraut perf=haben refl=acc
 gewahren verb class=weak pp=gewahrt perf=haben
+gewähren verb class=weak pp=gewährt perf=haben
 gewährleisten verb class=weak pp=gewährleistet perf=haben
 gewichten verb class=weak pp=gewichtet perf=haben
 gewinnen verb class=strong 3sg=gewinnt past=gewann pp=gewonnen subj2=gewönne|gewänne perf=haben

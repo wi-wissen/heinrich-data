@@ -8,6 +8,7 @@ päpstlich adj
 paraguayisch adj
 parallel adj attr=parallele
 paramilitärisch adj
+parenteral adj
 paritätisch adj
 parlamentarisch adj
 partiell adj
@@ -65,6 +66,7 @@ populistisch adj
 portugiesisch adj
 positiv adj cmp=positiver sup=positivsten
 postalisch adj
+postgradual adj
 posthum adj note=also postum
 postum adj note=also posthum
 potentiell adj note=variant spelling of potenziell
@@ -78,12 +80,14 @@ präsent adj cmp=präsenter sup=präsentesten
 präventiv adj
 präzise adj cmp=präziser sup=präzisesten
 prekär adj cmp=prekärer sup=prekärsten
+prestigeträchtig adj cmp=prestigeträchtiger sup=prestigeträchtigsten
 preußisch adj
 prim adj
 prima adj indecl
 primär adj
 primitiv adj cmp=primitiver sup=primitivsten
 prinzipiell adj
+prioritär adj
 privat adj
 proaktiv adj
 problematisch adj cmp=problematischer sup=problematischsten
@@ -92,7 +96,9 @@ professionell adj cmp=professioneller sup=professionellsten
 profitabel adj cmp=profitabler sup=profitabelsten
 prograd adj note=astronomy
 progressiv adj cmp=progressiver sup=progressivsten
+projektiv adj
 prominent adj cmp=prominenter sup=prominentesten
+propagandistisch adj
 proportional adj
 proprietär adj
 protestantisch adj

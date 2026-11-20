@@ -1,3 +1,4 @@
+nachmals adv style=archaic
 nächstens adv
 nachweislich adv
 näherungsweise adv
@@ -15,6 +16,7 @@ nimmer adv
 nimmermehr adv type=time style=archaic
 nirgend adv type=place style=archaic note=older variant of nirgends
 nochmals adv
+nordostwärts adv
 nordwärts adv type=direction
 normalerweise adv
 nötigenfalls adv

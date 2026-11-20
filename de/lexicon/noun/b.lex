@@ -20,6 +20,7 @@ Badewanne noun g=f gen=Badewanne pl=Badewannen
 Badminton noun g=n gen=Badmintons pl=- note=sport; no plural
 BAföG noun g=n gen=BAföG|BAföGs pl=- note=Bundesausbildungsförderungsgesetz
 Bagage noun g=f gen=Bagage pl=- style=colloquial note=no plural
+Bagatelle noun g=f gen=Bagatelle pl=Bagatellen
 Bagel noun g=m gen=Bagels pl=Bagels
 Bagger noun g=m gen=Baggers pl=Bagger
 Baguette noun g=f gen=Baguette pl=Baguettes
@@ -43,6 +44,7 @@ Ballon noun g=m gen=Ballons pl=Ballons|Ballone
 Ballung noun g=f gen=Ballung pl=Ballungen
 Ballungsraum noun g=m gen=Ballungsraums|Ballungsraumes pl=Ballungsräume
 Balsam noun g=m gen=Balsams pl=Balsame
+Balte noun g=m gen=Balten pl=Balten
 Balustrade noun g=f gen=Balustrade pl=Balustraden
 Balz noun g=f gen=Balz pl=- note=no plural
 Bamberger noun g=m gen=Bambergers pl=Bamberger note=inhabitant of Bamberg; also attribute (Bamberger Reiter)
@@ -62,6 +64,7 @@ Bank          noun g=f gen=Bank pl=Bänke sense=seat
 Bank          noun g=f gen=Bank pl=Banken sense=financial
 Bankautomat noun g=m gen=Bankautomaten pl=Bankautomaten
 Banker noun g=m gen=Bankers pl=Banker
+Bankett noun g=n gen=Banketts|Bankettes pl=Bankette
 Bankier noun g=m gen=Bankiers pl=Bankiers
 Bankierin noun g=f gen=Bankierin pl=Bankierinnen
 Bann noun g=m gen=Banns|Bannes pl=- note=no plural in current use
@@ -75,6 +78,7 @@ Baracke noun g=f gen=Baracke pl=Baracken
 Barett noun g=n gen=Baretts|Barettes pl=Barette|Baretts
 Bariton noun g=m gen=Baritons pl=Baritone
 Barium noun g=n gen=Bariums pl=- note=chemical element
+Bark noun g=f gen=Bark pl=Barken
 Barke noun g=f gen=Barke pl=Barken
 Barkeeper noun g=m gen=Barkeepers pl=Barkeeper
 Bärlapp noun g=m gen=Bärlapps pl=Bärlappe
@@ -96,6 +100,7 @@ Base noun g=f gen=Base pl=Basen note=chemistry; also female cousin (archaic)
 Baseball noun g=m gen=Baseballs pl=Baseballs
 Basilika noun g=f gen=Basilika pl=Basiliken
 Basilikum noun g=n gen=Basilikums pl=- note=no plural
+Basionym noun g=n gen=Basionyms pl=Basionyme note=botany
 Basis         noun g=f gen=Basis pl=Basen
 Basketball noun g=m gen=Basketballs pl=Basketbälle
 Basler noun g=m gen=Baslers pl=Basler note=inhabitant of Basel; also attribute (Basler Münster)
@@ -103,6 +108,7 @@ Bass noun g=m gen=Basses pl=Bässe
 Bassist noun g=m gen=Bassisten pl=Bassisten
 Bassistin noun g=f gen=Bassistin pl=Bassistinnen
 Bastard noun g=m gen=Bastards pl=Bastarde
+Bastei noun g=f gen=Bastei pl=Basteien
 Bastion noun g=f gen=Bastion pl=Bastionen
 Bataillon noun g=n gen=Bataillons pl=Bataillone
 Batterie noun g=f gen=Batterie pl=Batterien
@@ -146,6 +152,7 @@ Bedarf        noun g=m gen=Bedarfs|Bedarfes pl=Bedarfe
 Bedauern noun g=n gen=Bedauerns pl=- note=lexicalised; no plural
 Bedenken      noun g=n gen=Bedenkens pl=Bedenken
 Bedeutung     noun g=f gen=Bedeutung pl=Bedeutungen
+Bediener noun g=m gen=Bedieners pl=Bediener
 Bedienstete noun g=m|f decl=adj
 Bedienung noun g=f gen=Bedienung pl=Bedienungen
 Bedingung     noun g=f gen=Bedingung pl=Bedingungen
@@ -154,6 +161,7 @@ Bedrohung noun g=f gen=Bedrohung pl=Bedrohungen
 Beduine noun g=m gen=Beduinen pl=Beduinen
 Bedürfnis noun g=n gen=Bedürfnisses pl=Bedürfnisse
 Bedürftigkeit noun g=f gen=Bedürftigkeit pl=- note=abstract noun
+Beeidigung noun g=f gen=Beeidigung pl=Beeidigungen
 Beeinflussung noun g=f gen=Beeinflussung pl=Beeinflussungen
 Beeinträchtigung noun g=f gen=Beeinträchtigung pl=Beeinträchtigungen
 Beendigung    noun g=f gen=Beendigung pl=- note=no plural
@@ -201,10 +209,12 @@ Begriff       noun g=m gen=Begriffs|Begriffes pl=Begriffe
 Begründer noun g=m gen=Begründers pl=Begründer
 Begründerin noun g=f gen=Begründerin pl=Begründerinnen
 Begründung    noun g=f gen=Begründung pl=Begründungen
+Begünstigung noun g=f gen=Begünstigung pl=Begünstigungen
 Begutachtung noun g=f gen=Begutachtung pl=Begutachtungen
 Behagen noun g=n gen=Behagens pl=- note=no plural
 Behälter noun g=m gen=Behälters pl=Behälter
 Behältnis noun g=n gen=Behältnisses pl=Behältnisse
+Behändigkeit noun g=f gen=Behändigkeit pl=- note=no plural
 Behandlung    noun g=f gen=Behandlung pl=Behandlungen
 Behang noun g=m gen=Behangs|Behanges pl=Behänge
 Behauptung noun g=f gen=Behauptung pl=Behauptungen
@@ -230,6 +240,7 @@ Beilage noun g=f gen=Beilage pl=Beilagen
 Beilegung noun g=f gen=Beilegung pl=Beilegungen
 Bein noun g=n gen=Beines|Beins pl=Beine
 Beirat noun g=m gen=Beirats|Beirates pl=Beiräte
+Beisammensein noun g=n gen=Beisammenseins pl=- note=no plural
 Beisein noun g=n gen=Beisein|Beiseins pl=- note=im Beisein von
 Beisitzer noun g=m gen=Beisitzers pl=Beisitzer
 Beisitzerin noun g=f gen=Beisitzerin pl=Beisitzerinnen
@@ -246,10 +257,12 @@ Bekanntmachung noun g=f gen=Bekanntmachung pl=Bekanntmachungen
 Bekanntschaft noun g=f gen=Bekanntschaft pl=Bekanntschaften
 Bekanntwerden noun g=n gen=Bekanntwerdens pl=- note=nominalized bekannt werden (written as two words, so not derived)
 Bekehrung noun g=f gen=Bekehrung pl=Bekehrungen
+Bekenner noun g=m gen=Bekenners pl=Bekenner
 Bekenntnis noun g=n gen=Bekenntnisses pl=Bekenntnisse
 Beklagte noun g=m|f decl=adj note=defendant
 Beklemmung noun g=f gen=Beklemmung pl=Beklemmungen
 Belag noun g=m gen=Belags pl=Beläge
+Belagerer noun g=m gen=Belagerers pl=Belagerer
 Belagerung noun g=f gen=Belagerung pl=Belagerungen
 Belang noun g=m gen=Belangs|Belanges pl=Belange
 Belastbarkeit noun g=f gen=Belastbarkeit pl=-  note=mass noun
@@ -279,6 +292,7 @@ Bemühung noun g=f gen=Bemühung pl=Bemühungen
 Benachrichtigung noun g=f gen=Benachrichtigung pl=Benachrichtigungen
 Benchmark noun g=m gen=Benchmarks pl=Benchmarks
 Benediktiner noun g=m gen=Benediktiners pl=Benediktiner
+Benediktinerin noun g=f gen=Benediktinerin pl=Benediktinerinnen
 Benefit noun g=m gen=Benefits pl=Benefits
 Benehmen noun g=n gen=Benehmens pl=- note=mass noun
 Benennung noun g=f gen=Benennung pl=Benennungen
@@ -331,6 +345,8 @@ Berufsschule noun g=f gen=Berufsschule pl=Berufsschulen
 Berufung noun g=f gen=Berufung pl=Berufungen
 Berührung noun g=f gen=Berührung pl=Berührungen
 Beryllium noun g=n gen=Berylliums pl=- note=chemical element
+Besamung noun g=f gen=Besamung pl=Besamungen
+Besatz noun g=m gen=Besatzes pl=Besätze
 Besatzer noun g=m gen=Besatzers pl=Besatzer
 Besatzung noun g=f gen=Besatzung pl=Besatzungen
 Beschädigung noun g=f gen=Beschädigung pl=Beschädigungen
@@ -344,6 +360,7 @@ Bescheidenheit noun g=f gen=Bescheidenheit pl=- note=no plural
 Bescheinigung noun g=f gen=Bescheinigung pl=Bescheinigungen
 Bescherung noun g=f gen=Bescherung pl=Bescherungen
 Beschichtung noun g=f gen=Beschichtung pl=Beschichtungen
+Beschilderung noun g=f gen=Beschilderung pl=Beschilderungen
 Beschlagnahme noun g=f gen=Beschlagnahme pl=Beschlagnahmen
 Beschleunigung noun g=f gen=Beschleunigung pl=Beschleunigungen
 Beschluss     noun g=m gen=Beschlusses pl=Beschlüsse
@@ -393,6 +410,7 @@ Bestie noun g=f gen=Bestie pl=Bestien
 Bestimmtheit noun g=f gen=Bestimmtheit pl=- note=mass noun
 Bestimmung    noun g=f gen=Bestimmung pl=Bestimmungen
 Bestleistung noun g=f gen=Bestleistung pl=Bestleistungen
+Bestmarke noun g=f gen=Bestmarke pl=Bestmarken
 Bestrafung noun g=f gen=Bestrafung pl=Bestrafungen
 Bestrahlung noun g=f gen=Bestrahlung pl=Bestrahlungen
 Bestreben noun g=n gen=Bestrebens pl=- note=no plural
@@ -484,6 +502,7 @@ Bier noun g=n gen=Bieres|Biers pl=Biere
 Biest noun g=n gen=Biests|Biestes pl=Biester
 Bieter noun g=m gen=Bieters pl=Bieter
 Bieterin noun g=f gen=Bieterin pl=Bieterinnen
+Bigband noun g=f gen=Bigband pl=Bigbands
 Bijektion noun g=f gen=Bijektion pl=Bijektionen
 Bijektivität noun g=f gen=Bijektivität pl=- note=property; no plural
 Bikini noun g=m gen=Bikinis pl=Bikinis
@@ -533,6 +552,8 @@ Bit noun g=n gen=Bits pl=Bit|Bits
 Bitte         noun g=f gen=Bitte pl=Bitten
 Bitterkeit noun g=f gen=Bitterkeit pl=- note=no plural
 Bittsteller noun g=m gen=Bittstellers pl=Bittsteller
+Bitumen noun g=n gen=Bitumens pl=Bitumen
+Blamage noun g=f gen=Blamage pl=Blamagen
 Blänke noun g=f gen=Blänke pl=Blänken conf=70 note=rare, regional
 Blankvers noun g=m gen=Blankverses pl=Blankverse
 Blase noun g=f gen=Blase pl=Blasen
@@ -541,6 +562,7 @@ Blasonierung noun g=f gen=Blasonierung pl=Blasonierungen
 Blässe noun g=f gen=Blässe pl=- note=mass noun
 Blatt         noun g=n gen=Blattes|Blatts pl=Blätter
 Blättchen noun g=n gen=Blättchens pl=Blättchen
+Blatter noun g=f gen=Blatter pl=Blattern note=mostly plural: die Blattern (smallpox)
 Blattlaus noun g=f gen=Blattlaus pl=Blattläuse
 Blattspreite noun g=f gen=Blattspreite pl=Blattspreiten
 Blau noun g=n gen=Blau|Blaus pl=Blau|Blaus note=colour name
@@ -561,6 +583,7 @@ Blödsinn noun g=m gen=Blödsinns pl=- note=no plural
 Blog noun g=m gen=Blogs pl=Blogs
 Blogger noun g=m gen=Bloggers pl=Blogger
 Bloggerin noun g=f gen=Bloggerin pl=Bloggerinnen
+Blondine noun g=f gen=Blondine pl=Blondinen
 Blöße noun g=f gen=Blöße pl=Blößen
 Blues noun g=m gen=Blues pl=Blues
 Bluetooth noun g=n gen=Bluetooth pl=- note=technology name
@@ -579,6 +602,7 @@ BMX-Rad noun g=n gen=BMX-Rads|BMX-Rades pl=BMX-Räder
 Boarding-Karte noun g=f gen=Boarding-Karte pl=Boarding-Karten
 Bob noun g=m gen=Bobs pl=Bobs note=bobsleigh
 Bock noun g=m gen=Bocks|Bockes pl=Böcke
+Bodden noun g=m gen=Boddens pl=Bodden
 Boden         noun g=m gen=Bodens pl=Böden
 Bodenbelag noun g=m gen=Bodenbelags|Bodenbelages pl=Bodenbeläge
 Böe noun g=f gen=Böe pl=Böen
@@ -587,6 +611,7 @@ Bohne noun g=f gen=Bohne pl=Bohnen
 Bohrer noun g=m gen=Bohrers pl=Bohrer
 Bohrium noun g=n gen=Bohriums pl=- note=chemical element
 Bohrung noun g=f gen=Bohrung pl=Bohrungen
+Boje noun g=f gen=Boje pl=Bojen
 Böller noun g=m gen=Böllers pl=Böller
 Bollerwagen noun g=m gen=Bollerwagens pl=Bollerwagen
 Bollwerk noun g=n gen=Bollwerks|Bollwerkes pl=Bollwerke
@@ -618,8 +643,10 @@ Borste noun g=f gen=Borste pl=Borsten
 Böschung noun g=f gen=Böschung pl=Böschungen
 Bösewicht noun g=m gen=Bösewichts|Bösewichtes pl=Bösewichte
 Bosheit noun g=f gen=Bosheit pl=Bosheiten
+Bosniake noun g=m gen=Bosniaken pl=Bosniaken
 Boson noun g=n gen=Bosons pl=Bosonen
 Boss noun g=m gen=Bosses pl=Bosse
+Bot noun g=m gen=Bots pl=Bots
 Botanik noun g=f gen=Botanik pl=- note=no plural
 Botaniker noun g=m gen=Botanikers pl=Botaniker
 Botanikerin noun g=f gen=Botanikerin pl=Botanikerinnen
@@ -634,8 +661,10 @@ Box noun g=f gen=Box pl=Boxen
 Boxer noun g=m gen=Boxers pl=Boxer
 Boxerin noun g=f gen=Boxerin pl=Boxerinnen
 Boykott noun g=m gen=Boykotts|Boykottes pl=Boykotte
+Brackwasser noun g=n gen=Brackwassers pl=Brackwasser
 Brahmane noun g=m gen=Brahmanen pl=Brahmanen
 Brainstorming noun g=n gen=Brainstormings pl=Brainstormings
+Braktee noun g=f gen=Braktee pl=Brakteen note=botany
 Branche noun g=f gen=Branche pl=Branchen
 Brand         noun g=m gen=Brandes|Brands pl=Brände
 Brandenburger noun g=m gen=Brandenburgers pl=Brandenburger note=inhabitant of Brandenburg; also attribute
@@ -646,10 +675,12 @@ Brasilianer noun g=m gen=Brasilianers pl=Brasilianer
 Braten noun g=m gen=Bratens pl=Braten
 Brathähnchen noun g=n gen=Brathähnchens pl=Brathähnchen
 Bratkartoffeln noun g=pl
+Bratsche noun g=f gen=Bratsche pl=Bratschen
 Bratwurst noun g=f gen=Bratwurst pl=Bratwürste
 Brauch noun g=m gen=Brauchs|Brauches pl=Bräuche
 Brauchtum noun g=n gen=Brauchtums pl=Brauchtümer
 Braue noun g=f gen=Braue pl=Brauen
+Brauer noun g=m gen=Brauers pl=Brauer
 Brauerei noun g=f gen=Brauerei pl=Brauereien
 Braun noun g=n gen=Braun|Brauns pl=Braun|Brauns note=colour name
 Braunschweiger noun g=m gen=Braunschweigers pl=Braunschweiger note=inhabitant of Braunschweig; also attribute
@@ -660,6 +691,7 @@ Brei noun g=m gen=Breis|Breies pl=Breie
 Breite        noun g=f gen=Breite pl=Breiten
 Bremer noun g=m gen=Bremers pl=Bremer note=inhabitant of Bremen
 Bremse noun g=f gen=Bremse pl=Bremsen
+Bremser noun g=m gen=Bremsers pl=Bremser
 Brenner noun g=m gen=Brenners pl=Brenner
 Brennnessel noun g=f gen=Brennnessel pl=Brennnesseln
 Bresche noun g=f gen=Bresche pl=Breschen
@@ -673,12 +705,14 @@ Briefträgerin noun g=f gen=Briefträgerin pl=Briefträgerinnen
 Briefwahl noun g=f gen=Briefwahl pl=Briefwahlen
 Brigade noun g=f gen=Brigade pl=Brigaden
 Brigadegeneral noun g=m gen=Brigadegenerals pl=Brigadegenerale|Brigadegeneräle
+Brigant noun g=m gen=Briganten pl=Briganten
 Brillant noun g=m gen=Brillanten pl=Brillanten note=cut diamond
 Brille noun g=f gen=Brille pl=Brillen
 Brillengestell noun g=n gen=Brillengestells pl=Brillengestelle
 Brisanz noun g=f gen=Brisanz pl=- note=no plural
 Brise noun g=f gen=Brise pl=Brisen
 Brite noun g=m gen=Briten pl=Briten
+Britin noun g=f gen=Britin pl=Britinnen
 Brokkoli noun g=m gen=Brokkolis pl=- note=no plural
 Brom noun g=n gen=Broms pl=- note=chemical element
 Brombeere noun g=f gen=Brombeere pl=Brombeeren
@@ -779,6 +813,7 @@ Bursch noun g=m gen=Burschen pl=Burschen conf=85 note=variant of Bursche (older,
 Bursche noun g=m gen=Burschen pl=Burschen
 Burschenschaft noun g=f gen=Burschenschaft pl=Burschenschaften
 Bürste noun g=f gen=Bürste pl=Bürsten
+Bürzel noun g=m gen=Bürzels pl=Bürzel
 Bus noun g=m gen=Busses pl=Busse
 Busch noun g=m gen=Busches|Buschs pl=Büsche
 Büschel noun g=n gen=Büschels pl=Büschel
@@ -789,6 +824,7 @@ Buße noun g=f gen=Buße pl=Bußen
 Büste noun g=f gen=Büste pl=Büsten
 Butan noun g=n gen=Butans pl=Butane note=gas; plural for the isomers (n-Butan, Isobutan)
 Butler noun g=m gen=Butlers pl=Butler
+Büttel noun g=m gen=Büttels pl=Büttel
 Büttenrede noun g=f gen=Büttenrede pl=Büttenreden
 Butter noun g=f gen=Butter pl=- note=mass noun
 Button noun g=m gen=Buttons pl=Buttons

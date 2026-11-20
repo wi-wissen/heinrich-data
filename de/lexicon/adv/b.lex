@@ -12,6 +12,7 @@ beispielsweise adv
 beizeiten adv
 bekanntermaßen adv type=modal
 bekanntlich adv
+berechtigterweise adv
 bergab adv
 bergan adv
 bergauf adv type=direction

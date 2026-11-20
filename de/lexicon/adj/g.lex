@@ -1,6 +1,7 @@
 gabelig adj
 galileisch adj note=die galileischen Monde
 galvanisch adj
+gambisch adj
 gängig adj cmp=gängiger sup=gängigsten
 ganz adj note=the adverb is in closed/
 ganzheitlich adj
@@ -23,6 +24,7 @@ geeignet adj cmp=geeigneter sup=geeignetsten
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
 gefälscht adj
+gefiedert adj
 gefleckt adj
 geflissentlich adj
 geflügelt adj note=geflügelte Worte; winged
@@ -32,9 +34,11 @@ gegenwärtig adj
 gegnerisch adj
 gehässig adj cmp=gehässiger sup=gehässigsten
 geheim adj
+geheuer adj note=mostly negated: nicht geheuer
 gehörig adj
 gehorsam adj cmp=gehorsamer sup=gehorsamsten
 geil adj style=colloquial alt=großartig|hervorragend cmp=geiler sup=geilsten
+geisterhaft adj cmp=geisterhafter sup=geisterhaftesten
 geistig adj
 geistlich adj
 geizig adj cmp=geiziger sup=geizigsten
@@ -73,6 +77,7 @@ gereizt adj cmp=gereizter sup=gereiztesten
 gerichtlich adj
 gering adj cmp=geringer sup=geringsten
 geringfügig adj cmp=geringfügiger sup=geringfügigsten
+geringschätzig adj cmp=geringschätziger sup=geringschätzigsten
 germanisch adj
 gesamt adj
 gesamtschuldnerisch adj
@@ -81,6 +86,7 @@ geschäftlich adj
 gescheit adj cmp=gescheiter sup=gescheitesten
 geschichtlich adj
 geschickt adj cmp=geschickter sup=geschicktesten
+geschmeidig adj cmp=geschmeidiger sup=geschmeidigsten
 geschockt adj cmp=geschockter sup=geschocktesten
 geschwind adj cmp=geschwinder sup=geschwindesten
 gesellig adj cmp=geselliger sup=geselligsten
@@ -145,6 +151,7 @@ glücklich adj cmp=glücklicher sup=glücklichsten
 gnädig adj cmp=gnädiger sup=gnädigsten
 goldbachsch adj conf=85 note=die goldbachsche Vermutung; also written Goldbach'sche
 golden adj
+goldig adj cmp=goldiger sup=goldigsten
 gotisch adj
 göttlich adj
 grafisch adj
@@ -166,6 +173,7 @@ griechisch adj
 griesgrämig adj cmp=griesgrämiger sup=griesgrämigsten
 grimmig adj cmp=grimmiger sup=grimmigsten
 grob adj cmp=gröber sup=gröbsten
+grönländisch adj
 groß         adj cmp=größer sup=größten
 großartig adj cmp=großartiger sup=großartigsten
 großflächig adj
@@ -180,9 +188,11 @@ grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten
 grundsätzlich adj
 gruselig adj cmp=gruseliger sup=gruseligsten
+guatemaltekisch adj
 gültig adj
 günstig adj cmp=günstiger sup=günstigsten
 gut          adj cmp=besser sup=besten
 gütig adj cmp=gütiger sup=gütigsten
+gütlich adj
 gutmütig adj
 gymnasial adj

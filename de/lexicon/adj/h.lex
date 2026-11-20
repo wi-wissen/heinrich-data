@@ -2,7 +2,9 @@ haarig adj cmp=haariger sup=haarigsten
 habhaft adj pred_only note=einer Sache habhaft werden (get hold of)
 habsburgisch adj
 hager adj cmp=hagerer sup=hagersten
+haitianisch adj
 halb         adj note=not compared; ein halber Liter
+halbkreisförmig adj
 hamburgisch adj
 hannoversch adj
 hansisch adj
@@ -19,6 +21,7 @@ häuslich adj cmp=häuslicher sup=häuslichsten
 häutig adj
 hebräisch adj
 heftig adj cmp=heftiger sup=heftigsten
+hehr adj cmp=hehrer sup=hehrsten
 heidnisch adj
 heikel adj attr=heikle cmp=heikler sup=heikelsten
 heil adj
@@ -32,10 +35,12 @@ heiter adj cmp=heiterer sup=heitersten
 hektisch adj cmp=hektischer sup=hektischsten
 hell adj cmp=heller sup=hellsten
 hellenistisch adj
+heraldisch adj
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
 herkömmlich adj
 heroisch adj cmp=heroischer sup=heroischsten
+herrisch adj cmp=herrischer sup=herrischsten
 herrlich adj cmp=herrlicher sup=herrlichsten
 herzlich adj cmp=herzlicher sup=herzlichsten
 hessisch adj

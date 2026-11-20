@@ -19,6 +19,7 @@ Jänner noun g=m gen=Jänner|Jänners pl=- region=AT note=month name; plural not
 Januar noun g=m gen=Januar|Januars pl=Januare[rare] note=month name
 Japaner noun g=m gen=Japaners pl=Japaner
 Japanerin noun g=f gen=Japanerin pl=Japanerinnen
+Jargon noun g=m gen=Jargons pl=Jargons
 Jarl noun g=m gen=Jarls pl=Jarle
 Jawort noun g=n gen=Jaworts|Jawortes pl=Jaworte
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
@@ -48,6 +49,7 @@ Jubilarin noun g=f gen=Jubilarin pl=Jubilarinnen
 Jubiläum noun g=n gen=Jubiläums pl=Jubiläen
 Jude noun g=m gen=Juden pl=Juden
 Judentum noun g=n gen=Judentums pl=- note=no plural in practice
+Judikative noun g=f gen=Judikative pl=Judikativen
 Jüdin noun g=f gen=Jüdin pl=Jüdinnen
 Judo noun g=n gen=Judos pl=- note=no plural (mass or abstract noun)
 Judoka noun g=m gen=Judoka|Judokas pl=Judoka|Judokas note=also feminine (die Judoka)
@@ -71,6 +73,7 @@ Jura noun g=n gen=Jura pl=- note=Jura studieren; used without article
 Jurisprudenz noun g=f gen=Jurisprudenz pl=- note=no plural
 Jurist noun g=m gen=Juristen pl=Juristen
 Juristin noun g=f gen=Juristin pl=Juristinnen
+Juror noun g=m gen=Jurors pl=Juroren
 Jury noun g=f gen=Jury pl=Jurys|Juries
 Jus noun g=n gen=Jus pl=- conf=80 note=law as a field of study (Jus studieren) or meat juice; gender of the sauce sense varies
 Justiz noun g=f gen=Justiz pl=- note=plural not used

@@ -62,6 +62,7 @@ fixieren verb class=weak pp=fixiert perf=haben
 flachsen verb class=weak pp=geflachst perf=haben
 flackern verb class=weak pp=geflackert perf=haben
 flaggen verb class=weak pp=geflaggt perf=haben
+flammen verb class=weak pp=geflammt perf=haben
 flanieren verb class=weak pp=flaniert perf=sein
 flanken verb class=weak pp=geflankt perf=haben
 flankieren verb class=weak pp=flankiert perf=haben
@@ -82,6 +83,7 @@ fluchen verb class=weak pp=geflucht perf=haben
 flüchten verb class=weak pp=geflüchtet perf=sein|haben
 flunkern verb class=weak pp=geflunkert perf=haben
 flüstern verb class=weak pp=geflüstert perf=haben
+fluten verb class=weak pp=geflutet perf=haben|sein
 föhnen verb class=weak pp=gefönt perf=haben refl=acc
 fokussieren verb class=weak pp=fokussiert perf=haben refl=acc
 folgen verb class=weak pp=gefolgt perf=sein
@@ -147,6 +149,7 @@ freuen       verb class=weak pp=gefreut perf=haben refl=acc
 frieren verb class=strong 3sg=friert past=fror pp=gefroren subj2=fröre perf=haben|sein note=pp gefroren is correct; not an -ieren verb
 frisieren verb class=weak pp=frisiert perf=haben
 frittieren verb class=weak pp=frittiert perf=haben
+frommen verb class=weak pp=gefrommt perf=haben style=archaic
 frösteln verb class=weak pp=gefröstelt perf=haben
 frühstücken verb class=weak pp=gefrühstückt perf=haben
 frustrieren verb class=weak pp=frustriert perf=haben pp_cmp note=frustriert is also a gradable adjective

@@ -50,4 +50,5 @@ osmanisch adj
 ostfriesisch adj
 östlich adj cmp=östlicher sup=östlichsten note=also a genitive preposition (closed/prepositions.lex)
 osttimoresisch adj
+ottonisch adj
 oval adj

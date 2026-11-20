@@ -92,6 +92,7 @@ verewigen verb class=weak pp=verewigt perf=haben refl=acc
 verfahren verb class=strong 3sg=verfährt past=verfuhr pp=verfahren subj2=verführe perf=haben|sein
 verfallen verb class=strong 3sg=verfällt past=verfiel pp=verfallen subj2=verfiele perf=sein
 verfälschen verb class=weak pp=verfälscht perf=haben
+verfangen verb class=strong 3sg=verfängt past=verfing pp=verfangen subj2=verfinge perf=haben
 verfärben verb class=weak pp=verfärbt perf=haben
 verfassen verb class=weak pp=verfasst perf=haben
 verfaulen verb class=weak pp=verfault perf=sein
@@ -99,6 +100,7 @@ verfehlen verb class=weak pp=verfehlt perf=haben
 verfeinden verb class=weak pp=verfeindet perf=haben refl=acc
 verfertigen verb class=weak pp=verfertigt perf=haben
 verfilmen verb class=weak pp=verfilmt perf=haben
+verfinstern verb class=weak pp=verfinstert perf=haben
 verflechten verb class=strong 3sg=verflicht past=verflocht pp=verflochten subj2=verflöchte perf=haben
 verfliegen verb class=strong 3sg=verfliegt past=verflog pp=verflogen subj2=verflöge perf=haben|sein
 verfließen verb class=strong 3sg=verfließt past=verfloss pp=verflossen subj2=verflösse perf=sein
@@ -214,6 +216,7 @@ verlieren verb class=strong 3sg=verliert past=verlor pp=verloren subj2=verlöre 
 verlinken verb class=weak pp=verlinkt perf=haben
 verloben verb class=weak pp=verlobt perf=haben refl=acc
 verlocken verb class=weak pp=verlockt perf=haben
+verlöschen verb class=strong 3sg=verlischt past=verlosch pp=verloschen subj2=verlösche perf=sein imp=verlisch,verlöscht
 verlosen verb class=weak pp=verlost perf=haben
 verlottern verb class=weak pp=verlottert perf=haben|sein
 vermachen verb class=weak pp=vermacht perf=haben
@@ -260,6 +263,7 @@ verpflichten verb class=weak pp=verpflichtet perf=haben
 verpfuschen verb class=weak pp=verpfuscht perf=haben
 verprassen verb class=weak pp=verprasst perf=haben
 verprügeln verb class=weak pp=verprügelt perf=haben
+verpuppen verb class=weak pp=verpuppt perf=haben refl=acc
 verputzen verb class=weak pp=verputzt perf=haben
 verquatschen verb class=weak pp=verquatscht perf=haben refl=acc
 verrammeln verb class=weak pp=verrammelt perf=haben
@@ -302,6 +306,7 @@ verschlingen verb class=strong 3sg=verschlingt past=verschlang pp=verschlungen s
 verschlucken verb class=weak pp=verschluckt perf=haben refl=acc
 verschlüsseln verb class=weak pp=verschlüsselt perf=haben
 verschmähen verb class=weak pp=verschmäht perf=haben
+verschmälern verb class=weak pp=verschmälert perf=haben
 verschmelzen verb class=strong 3sg=verschmilzt past=verschmolz pp=verschmolzen subj2=verschmölze perf=haben|sein
 verschmutzen verb class=weak pp=verschmutzt perf=haben
 verschnaufen verb class=weak pp=verschnauft perf=haben
@@ -374,6 +379,7 @@ vertauschen verb class=weak pp=vertauscht perf=haben
 verteidigen verb class=weak pp=verteidigt perf=haben
 verteilen verb class=weak pp=verteilt perf=haben
 verteuern verb class=weak pp=verteuert perf=haben
+verteufeln verb class=weak pp=verteufelt perf=haben
 vertiefen verb class=weak pp=vertieft perf=haben refl=acc
 vertilgen verb class=weak pp=vertilgt perf=haben
 vertonen verb class=weak pp=vertont perf=haben

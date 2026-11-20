@@ -37,6 +37,7 @@ Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn 
 Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcenter); English-looking
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
 Cer noun g=n gen=Cers pl=- note=chemical element
+Chaldäer noun g=m gen=Chaldäers pl=Chaldäer
 Challenge noun g=f gen=Challenge pl=Challenges conf=75 note=English loanword; gender unsure
 Chamäleon noun g=n gen=Chamäleons pl=Chamäleons
 Champagner noun g=m gen=Champagners pl=Champagner
@@ -67,6 +68,7 @@ Chemie noun g=f gen=Chemie pl=-  note=no plural
 Chemikalie noun g=f gen=Chemikalie pl=Chemikalien
 Chemiker noun g=m gen=Chemikers pl=Chemiker
 Chemikerin noun g=f gen=Chemikerin pl=Chemikerinnen
+Chemotherapie noun g=f gen=Chemotherapie pl=Chemotherapien
 Chiasmus noun g=m gen=Chiasmus pl=Chiasmen note=Latin loanword; genitive without -es
 Chili noun g=f gen=Chili pl=Chilis
 Chinese noun g=m gen=Chinesen pl=Chinesen
@@ -78,6 +80,7 @@ Chirurgie noun g=f gen=Chirurgie pl=- note=no plural
 Chirurgin noun g=f gen=Chirurgin pl=Chirurginnen
 Chlor noun g=n gen=Chlors pl=- note=chemical element
 Chlorid noun g=n gen=Chlorids|Chlorides pl=Chloride
+Chloroform noun g=n gen=Chloroforms pl=- note=mass noun
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Cholera noun g=f gen=Cholera pl=- note=disease

@@ -1,6 +1,8 @@
+obenan adv
 obenauf adv
 obendrauf adv
 obendrein adv
+obenhin adv
 oberseits adv type=place
 offline adv
 oft          adv cmp=öfter sup=öftesten

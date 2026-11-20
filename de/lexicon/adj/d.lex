@@ -35,12 +35,14 @@ dickköpfig adj cmp=dickköpfiger sup=dickköpfigsten
 dicklich adj cmp=dicklicher sup=dicklichsten
 dienlich adj
 dienstlich adj
+dienstpflichtig adj
 diesbezüglich adj
 diesig adj cmp=diesiger sup=diesigsten
 diesjährig adj
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
 diktatorisch adj
+dionysisch adj
 diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
@@ -71,6 +73,7 @@ dreizählig adj
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten
 drittklassig adj
+drittplatziert adj
 drollig adj cmp=drolliger sup=drolligsten
 dual adj
 duftend adj

@@ -18,6 +18,7 @@ Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russ
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
 Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
 Oboe noun g=f gen=Oboe pl=Oboen
+Oboist noun g=m gen=Oboisten pl=Oboisten
 Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Obrist noun g=m gen=Obristen pl=Obristen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
@@ -33,8 +34,10 @@ Offenlegung noun g=f gen=Offenlegung pl=Offenlegungen
 Offensive noun g=f gen=Offensive pl=Offensiven
 Öffentlichkeit noun g=f gen=Öffentlichkeit pl=- note=no plural
 Office noun g=n gen=Office|Offices pl=Offices
+Offizial noun g=m gen=Offizials pl=Offiziale
 Offizier noun g=m gen=Offiziers pl=Offiziere
 Offizierin noun g=f gen=Offizierin pl=Offizierinnen
+Offizin noun g=f gen=Offizin pl=Offizinen
 Öffner noun g=m gen=Öffners pl=Öffner
 Öffnung noun g=f gen=Öffnung pl=Öffnungen
 Oganesson noun g=n gen=Oganessons pl=- note=chemical element
@@ -49,10 +52,12 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökologie noun g=f gen=Ökologie pl=- note=mass noun
 Ökonom noun g=m gen=Ökonomen pl=Ökonomen
 Ökonomie noun g=f gen=Ökonomie pl=Ökonomien
+Ökonomin noun g=f gen=Ökonomin pl=Ökonominnen
 Oktave noun g=f gen=Oktave pl=Oktaven
 Oktober noun g=m gen=Oktobers pl=Oktober
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Öl noun g=n gen=Öls|Öles pl=Öle
+Oldtimer noun g=m gen=Oldtimers pl=Oldtimer
 Oligarch noun g=m gen=Oligarchen pl=Oligarchen
 Oligozän noun g=n gen=Oligozäns pl=- note=geological epoch
 Olive noun g=f gen=Olive pl=Oliven
@@ -82,6 +87,7 @@ Opium noun g=n gen=Opiums pl=- note=mass noun
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
 Opposition noun g=f gen=Opposition pl=Oppositionen
 Optik noun g=f gen=Optik pl=Optiken
+Optiker noun g=m gen=Optikers pl=Optiker
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
 Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
 Option noun g=f gen=Option pl=Optionen
@@ -90,10 +96,12 @@ Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orangerie noun g=f gen=Orangerie pl=Orangerien
 Oratorium noun g=n gen=Oratoriums pl=Oratorien
+Orbiter noun g=m gen=Orbiters pl=Orbiter
 Orchester noun g=n gen=Orchesters pl=Orchester
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
+Ordinariat noun g=n gen=Ordinariats|Ordinariates pl=Ordinariate
 Ordinarius noun g=m gen=Ordinarius pl=Ordinarien note=full professor; bare genitive
 Ordner noun g=m gen=Ordners pl=Ordner
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
@@ -133,6 +141,7 @@ Ortsvorsteherin noun g=f gen=Ortsvorsteherin pl=Ortsvorsteherinnen
 Oscar noun g=m gen=Oscars pl=Oscars note=film award
 Osmane noun g=m gen=Osmanen pl=Osmanen
 Osmium noun g=n gen=Osmiums pl=- note=chemical element
+Ösophagus noun g=m gen=Ösophagus pl=Ösophagi note=genitive unchanged (des Ösophagus)
 Ost noun g=m gen=Osts pl=- conf=80 note=short form of Osten (Ost und West; Ostwind); genitive rarely used
 Osten noun g=m gen=Ostens pl=- note=compass direction; no plural
 Osteoporose noun g=f gen=Osteoporose pl=Osteoporosen

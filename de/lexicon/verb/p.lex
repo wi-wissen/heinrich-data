@@ -12,6 +12,7 @@ passieren verb class=weak pp=passiert perf=haben|sein
 patentieren verb class=weak pp=patentiert perf=haben
 patscheln verb class=weak pp=gepatschelt perf=haben conf=80 note=colloquial, to splash about
 pauken verb class=weak pp=gepaukt perf=haben
+pauschalieren verb class=weak pp=pauschaliert perf=haben
 pausieren verb class=weak pp=pausiert perf=haben
 peinigen verb class=weak pp=gepeinigt perf=haben
 peitschen verb class=weak pp=gepeitscht perf=haben|sein
@@ -74,6 +75,7 @@ privilegieren verb class=weak pp=privilegiert perf=haben pp_cmp
 proben verb class=weak pp=geprobt perf=haben
 probieren verb class=weak pp=probiert perf=haben
 produzieren verb class=weak pp=produziert perf=haben
+profanieren verb class=weak pp=profaniert perf=haben
 profilieren verb class=weak pp=profiliert perf=haben refl=acc pp_cmp
 profitieren verb class=weak pp=profitiert perf=haben
 prognostizieren verb class=weak pp=prognostiziert perf=haben
@@ -87,6 +89,7 @@ provozieren verb class=weak pp=provoziert perf=haben
 prüfen verb class=weak pp=geprüft perf=haben
 prügeln verb class=weak pp=geprügelt perf=haben refl=acc
 prusten verb class=weak pp=geprustet perf=haben
+pseudonymisieren verb class=weak pp=pseudonymisiert perf=haben
 publizieren verb class=weak pp=publiziert perf=haben
 pulsieren verb class=weak pp=pulsiert perf=haben
 pumpen verb class=weak pp=gepumpt perf=haben

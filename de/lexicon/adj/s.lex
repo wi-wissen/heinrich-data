@@ -7,6 +7,8 @@ sächsisch adj
 sacht adj cmp=sachter sup=sachtesten note=also sachte (adverb: sachte, sachte)
 saftig adj cmp=saftiger sup=saftigsten
 saisonal adj
+sakral adj
+salopp adj cmp=salopper sup=saloppsten
 salvatorisch adj note=salvatorische Klausel
 salzig adj cmp=salziger sup=salzigsten
 samtig adj cmp=samtiger sup=samtigsten
@@ -16,11 +18,13 @@ satirisch adj
 satt adj cmp=satter sup=sattesten
 satzungsgemäß adj
 sauber adj cmp=sauberer sup=saubersten
+säuberlich adj cmp=säuberlicher sup=säuberlichsten
 sauer adj cmp=saurer sup=sauersten
 säumig adj
 schäbig adj cmp=schäbiger sup=schäbigsten
 schade adj pred_only note=predicative only (es ist schade, wie schade)
 schädlich adj cmp=schädlicher sup=schädlichsten
+schalkhaft adj cmp=schalkhafter sup=schalkhaftesten
 schändlich adj cmp=schändlicher sup=schändlichsten
 scharf adj cmp=schärfer sup=schärfsten
 schattig adj cmp=schattiger sup=schattigsten
@@ -45,6 +49,7 @@ schleswig-holsteinisch adj
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
+schlüpfrig adj cmp=schlüpfriger sup=schlüpfrigsten
 schlüssig adj cmp=schlüssiger sup=schlüssigsten
 schmählich adj cmp=schmählicher sup=schmählichsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
@@ -127,6 +132,7 @@ siebziger adj indecl note=die siebziger Jahre
 siegreich adj
 signifikant adj cmp=signifikanter sup=signifikantesten
 silbern adj
+singapurisch adj
 sinngemäß adj
 sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
@@ -168,6 +174,7 @@ sparsam adj cmp=sparsamer sup=sparsamsten
 spaßig adj cmp=spaßiger sup=spaßigsten
 spät adj cmp=später sup=spätesten
 spektakulär adj cmp=spektakulärer sup=spektakulärsten
+spektroskopisch adj
 spekulativ adj cmp=spekulativer sup=spekulativsten
 speziell adj cmp=spezieller sup=speziellsten
 spezifisch adj
@@ -175,7 +182,9 @@ spießbürgerlich adj
 spiralig adj
 spirituell adj cmp=spiritueller sup=spirituellsten
 spitz adj cmp=spitzer sup=spitzesten
+spitzbogig adj
 spitze adj indecl
+spitzig adj cmp=spitziger sup=spitzigsten
 spontan adj
 sporadisch adj
 sportlich adj cmp=sportlicher sup=sportlichsten
@@ -188,6 +197,7 @@ stachelig adj cmp=stacheliger sup=stacheligsten
 städtisch adj
 standesgemäß adj
 ständig adj
+ständisch adj
 stark adj cmp=stärker sup=stärksten
 starr adj cmp=starrer sup=starrsten
 stationär adj
@@ -195,6 +205,7 @@ statisch adj
 statistisch adj
 statthaft adj
 stattlich adj cmp=stattlicher sup=stattlichsten
+staubig adj cmp=staubiger sup=staubigsten
 steif adj cmp=steifer sup=steifsten
 steil adj cmp=steiler sup=steilsten
 steinern adj
@@ -218,6 +229,7 @@ stockig adj
 stolz adj cmp=stolzer sup=stolzesten
 störrisch adj cmp=störrischer sup=störrischsten
 strafbar adj
+straff adj cmp=straffer sup=straffsten
 stramm adj cmp=strammer sup=strammsten
 strategisch adj
 strebsam adj cmp=strebsamer sup=strebsamsten
