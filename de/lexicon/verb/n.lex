@@ -99,6 +99,7 @@ nagen verb class=weak pp=genagt perf=haben
 nahekommen verb class=strong sep=nahe 3sg=nahekommt past=nahekam pp=nahegekommen subj2=nahekäme perf=sein
 nahen verb class=weak pp=genaht perf=sein
 nähen verb class=weak pp=genäht perf=haben
+näherbringen verb class=mixed sep=näher 3sg=näherbringt past=näherbrachte pp=nähergebracht subj2=näherbrächte perf=haben
 näherkommen verb class=strong sep=näher 3sg=näherkommt past=näherkam pp=nähergekommen subj2=näherkäme perf=sein
 nähern verb class=weak pp=genähert perf=haben refl=acc
 nähren verb class=weak pp=genährt perf=haben
@@ -131,6 +132,7 @@ nieseln verb class=weak pp=genieselt perf=haben
 niesen verb class=weak pp=geniest perf=haben
 nippen verb class=weak pp=genippt perf=haben
 nisten verb class=weak pp=genistet perf=haben
+nobilitieren verb class=weak pp=nobilitiert perf=haben
 nölen verb class=weak pp=genölt perf=haben
 nominieren verb class=weak pp=nominiert perf=haben
 nörgeln verb class=weak pp=genörgelt perf=haben style=colloquial

@@ -36,6 +36,7 @@ neblig adj cmp=nebliger sup=nebligsten
 negativ adj cmp=negativer sup=negativsten
 neidisch adj cmp=neidischer sup=neidischsten
 nennenswert adj
+neobarock adj
 neogotisch adj
 neoklassizistisch adj
 neolithisch adj

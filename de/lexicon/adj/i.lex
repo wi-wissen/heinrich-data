@@ -8,9 +8,11 @@ illusorisch adj
 immateriell adj
 immens adj
 immergrün adj
+immerwährend adj
 immun adj
 implizit adj
 imposant adj cmp=imposanter sup=imposantesten
+impressionistisch adj
 imstande adj indecl note=imstande sein
 inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
 inbegriffen adj
@@ -26,6 +28,7 @@ infantil adj cmp=infantiler sup=infantilsten
 informationell adj
 informativ adj
 inhaltlich adj
+initiativ adj
 injektiv adj
 inklusiv adj
 inländisch adj
@@ -46,6 +49,7 @@ interaktiv adj
 interdisziplinär adj
 interessant adj cmp=interessanter sup=interessantesten
 interfraktionell adj
+intergeschlechtlich adj
 interimistisch adj
 intern adj
 international adj
@@ -68,6 +72,7 @@ irrtümlich adj
 islamisch adj
 islamistisch adj
 isländisch adj
+ismailitisch adj
 isolierend adj
 isomorph adj
 israelisch adj

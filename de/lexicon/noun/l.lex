@@ -9,6 +9,7 @@ Lachen noun g=n gen=Lachens pl=- note=no plural (mass or abstract noun)
 Lacher noun g=m gen=Lachers pl=Lacher
 Lachs noun g=m gen=Lachses pl=Lachse
 Lack noun g=m gen=Lacks|Lackes pl=Lacke
+Lackierer noun g=m gen=Lackierers pl=Lackierer
 Laden noun g=m gen=Ladens pl=Läden
 Ladung noun g=f gen=Ladung pl=Ladungen
 Lady noun g=f gen=Lady pl=Ladys|Ladies
@@ -43,6 +44,7 @@ Landschaft noun g=f gen=Landschaft pl=Landschaften
 Landstreicher noun g=m gen=Landstreichers pl=Landstreicher
 Landtag noun g=m gen=Landtags|Landtages pl=Landtage
 Landung noun g=f gen=Landung pl=Landungen
+Landvermesser noun g=m gen=Landvermessers pl=Landvermesser
 Landwirt noun g=m gen=Landwirts pl=Landwirte
 Landwirtin noun g=f gen=Landwirtin pl=Landwirtinnen
 Landwirtschaft noun g=f gen=Landwirtschaft pl=Landwirtschaften
@@ -91,6 +93,7 @@ Laune noun g=f gen=Laune pl=Launen
 Laus noun g=f gen=Laus pl=Läuse
 Lauscher noun g=m gen=Lauschers pl=Lauscher
 Laut noun g=m gen=Lauts|Lautes pl=Laute
+Lautenist noun g=m gen=Lautenisten pl=Lautenisten
 Lautsprecher noun g=m gen=Lautsprechers pl=Lautsprecher
 Lava noun g=f gen=Lava pl=Laven
 Lavendel noun g=m gen=Lavendels pl=Lavendel
@@ -162,6 +165,7 @@ Leier noun g=f gen=Leier pl=Leiern
 Leiharbeit noun g=f gen=Leiharbeit pl=- note=lexicalised compound; plural not used
 Leim noun g=m gen=Leims|Leimes pl=Leime
 Leine noun g=f gen=Leine pl=Leinen
+Leineweber noun g=m gen=Leinewebers pl=Leineweber
 Leinwand noun g=f gen=Leinwand pl=Leinwände
 Leipziger noun g=m gen=Leipzigers pl=Leipziger note=inhabitant of Leipzig; also the indeclinable adjective (Leipziger Straße)
 Leiste noun g=f gen=Leiste pl=Leisten
@@ -263,6 +267,7 @@ Linse noun g=f gen=Linse pl=Linsen
 Lipid noun g=n gen=Lipids|Lipides pl=Lipide
 Lippe noun g=f gen=Lippe pl=Lippen
 Liquidation noun g=f gen=Liquidation pl=Liquidationen
+Liquidator noun g=m gen=Liquidators pl=Liquidatoren
 Liquidität noun g=f gen=Liquidität pl=- note=abstract noun
 Lira noun g=f gen=Lira pl=Lire note=former Italian currency
 Lisene noun g=f gen=Lisene pl=Lisenen
@@ -318,6 +323,7 @@ Lokal noun g=n gen=Lokals|Lokales pl=Lokale
 Lokalität noun g=f gen=Lokalität pl=Lokalitäten
 Lokomotive noun g=f gen=Lokomotive pl=Lokomotiven
 Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the indeclinable adjective
+Looping noun g=m gen=Loopings pl=Loopings
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren
 Lorbeerbaum noun g=m gen=Lorbeerbaums pl=Lorbeerbäume
 Lord noun g=m gen=Lords pl=Lords
@@ -325,6 +331,7 @@ Lorgnette noun g=f gen=Lorgnette pl=Lorgnetten
 Los noun g=n gen=Loses pl=Lose
 Losbude noun g=f gen=Losbude pl=Losbuden
 Löschung noun g=f gen=Löschung pl=Löschungen
+Löss noun g=m gen=Lösses pl=Lösse
 Losung noun g=f gen=Losung pl=Losungen
 Lösung noun g=f gen=Lösung pl=Lösungen
 Lotse noun g=m gen=Lotsen pl=Lotsen
@@ -364,6 +371,7 @@ Lustbarkeit noun g=f gen=Lustbarkeit pl=Lustbarkeiten
 Lustspiel noun g=n gen=Lustspiels|Lustspieles pl=Lustspiele
 Lutetium noun g=n gen=Lutetiums pl=- note=chemical element
 Lutheraner noun g=m gen=Lutheraners pl=Lutheraner
+Luthertum noun g=n gen=Luthertums pl=- note=no plural
 Lutscher noun g=m gen=Lutschers pl=Lutscher
 Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun
 Lymphknoten noun g=m gen=Lymphknotens pl=Lymphknoten

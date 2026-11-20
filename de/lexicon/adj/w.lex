@@ -27,9 +27,11 @@ weitgehend adj
 weitläufig adj cmp=weitläufiger sup=weitläufigsten
 weitreichend adj cmp=weitreichender sup=weitreichendsten
 welk adj
+wellig adj cmp=welliger sup=welligsten
 weltlich adj
 weltweit adj
 wendig adj cmp=wendiger sup=wendigsten
+wendisch adj
 wenig adj cmp=weniger sup=wenigsten cmp_indecl note=the indefinite determiner wenige (few) is a closed-class item
 werdend adj attr_only note=die werdende Mutter; participle of werden
 wert adj
@@ -38,6 +40,7 @@ wertvoll adj cmp=wertvoller sup=wertvollsten
 wesentlich adj cmp=wesentlicher sup=wesentlichsten
 westfälisch adj
 westlich adj cmp=westlicher sup=westlichsten note=also a genitive preposition (closed/prepositions.lex)
+wettinisch adj
 wichtig adj cmp=wichtiger sup=wichtigsten
 widerlich adj cmp=widerlicher sup=widerlichsten
 widerruflich adj
@@ -69,6 +72,7 @@ wohlwollend adj cmp=wohlwollender sup=wohlwollendsten
 wohnhaft adj note=wohnhaft in Berlin
 wolkig adj cmp=wolkiger sup=wolkigsten
 wollen adj note=made of wool (wollene Strümpfe)
+wollüstig adj cmp=wollüstiger sup=wollüstigsten
 wörtlich adj
 wuchtig adj cmp=wuchtiger sup=wuchtigsten
 wund adj cmp=wunder sup=wundesten

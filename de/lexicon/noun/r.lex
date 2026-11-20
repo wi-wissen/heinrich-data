@@ -79,12 +79,14 @@ Rausch noun g=m gen=Rauschs|Rausches pl=Räusche
 Raute noun g=f gen=Raute pl=Rauten
 Ravioli noun g=pl
 Razzia noun g=f gen=Razzia pl=Razzien
+Reagenz noun g=n gen=Reagenzes pl=Reagenzien
 Reagenzglas noun g=n gen=Reagenzglases pl=Reagenzgläser
 Reaktion noun g=f gen=Reaktion pl=Reaktionen
 Reaktivierung noun g=f gen=Reaktivierung pl=Reaktivierungen
 Reaktor noun g=m gen=Reaktors pl=Reaktoren
 Realisierung noun g=f gen=Realisierung pl=Realisierungen
 Realismus noun g=m gen=Realismus pl=- note=mass noun
+Realist noun g=m gen=Realisten pl=Realisten
 Realität noun g=f gen=Realität pl=Realitäten
 Realschule noun g=f gen=Realschule pl=Realschulen
 Rebe noun g=f gen=Rebe pl=Reben
@@ -123,6 +125,7 @@ Redakteur noun g=m gen=Redakteurs pl=Redakteure
 Redakteurin noun g=f gen=Redakteurin pl=Redakteurinnen
 Redaktion noun g=f gen=Redaktion pl=Redaktionen
 Rede noun g=f gen=Rede pl=Reden
+Redemptorist noun g=m gen=Redemptoristen pl=Redemptoristen
 Redensart noun g=f gen=Redensart pl=Redensarten
 Redewendung noun g=f gen=Redewendung pl=Redewendungen
 Redner noun g=m gen=Redners pl=Redner
@@ -172,10 +175,12 @@ Regionalligist noun g=m gen=Regionalligisten pl=Regionalligisten
 Regisseur noun g=m gen=Regisseurs pl=Regisseure
 Regisseurin noun g=f gen=Regisseurin pl=Regisseurinnen
 Register noun g=n gen=Registers pl=Register
+Registrator noun g=m gen=Registrators pl=Registratoren
 Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Reglement noun g=n gen=Reglements pl=Reglements
 Regler noun g=m gen=Reglers pl=Regler
+Regsamkeit noun g=f gen=Regsamkeit pl=- note=no plural
 Regularien noun g=pl
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
 Regung noun g=f gen=Regung pl=Regungen
@@ -200,6 +205,7 @@ Reimschema noun g=n gen=Reimschemas pl=Reimschemata|Reimschemas
 Reinette noun g=f gen=Reinette pl=Reinetten
 Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
+Reinigkeit noun g=f gen=Reinigkeit pl=- note=no plural
 Reinigung noun g=f gen=Reinigung pl=Reinigungen
 Reinlichkeit noun g=f gen=Reinlichkeit pl=- note=mass noun
 Reis noun g=m gen=Reises pl=- note=rice; mass noun
@@ -226,6 +232,7 @@ Rektorin noun g=f gen=Rektorin pl=Rektorinnen
 Rekursion noun g=f gen=Rekursion pl=Rekursionen
 Relais noun g=n gen=Relais pl=Relais note=genitive and plural unchanged (des Relais, die Relais)
 Relation noun g=f gen=Relation pl=Relationen
+Relativismus noun g=m gen=Relativismus pl=- note=no plural
 Relativität noun g=f gen=Relativität pl=- note=mass noun
 Release noun g=n|m gen=Releases pl=Releases
 Relegation noun g=f gen=Relegation pl=Relegationen
@@ -283,6 +290,7 @@ Reservat noun g=n gen=Reservats|Reservates pl=Reservate
 Reserve noun g=f gen=Reserve pl=Reserven
 Reservierung noun g=f gen=Reservierung pl=Reservierungen
 Reservist noun g=m gen=Reservisten pl=Reservisten
+Reset noun g=m gen=Resets pl=Resets
 Resident noun g=m gen=Residenten pl=Residenten
 Residenz noun g=f gen=Residenz pl=Residenzen
 Resignation noun g=f gen=Resignation pl=Resignationen
@@ -290,6 +298,7 @@ Resilienz noun g=f gen=Resilienz pl=- note=mass noun
 Resistenz noun g=f gen=Resistenz pl=Resistenzen
 Resolution noun g=f gen=Resolution pl=Resolutionen
 Resonanz noun g=f gen=Resonanz pl=Resonanzen
+Resonator noun g=m gen=Resonators pl=Resonatoren
 Respekt noun g=m gen=Respekts|Respektes pl=- note=mass noun
 Ressentiment noun g=n gen=Ressentiments pl=Ressentiments
 Ressort noun g=n gen=Ressorts pl=Ressorts
@@ -332,14 +341,17 @@ Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
 Rezeptor noun g=m gen=Rezeptors pl=Rezeptoren
 Rezeptur noun g=f gen=Rezeptur pl=Rezepturen
 Rezession noun g=f gen=Rezession pl=Rezessionen
+Rezidiv noun g=n gen=Rezidivs pl=Rezidive
 Rezipient noun g=m gen=Rezipienten pl=Rezipienten
 Rezitativ noun g=n gen=Rezitativs pl=Rezitative
+Rezitator noun g=m gen=Rezitators pl=Rezitatoren
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
 Rheinbrücke noun g=f gen=Rheinbrücke pl=Rheinbrücken note=bridge over the Rhine; the compound analysis does not use proper names as first part
 Rheinufer noun g=n gen=Rheinufers pl=Rheinufer note=listed because a proper-name modifier is not derived by the compound analysis
 Rhenium noun g=n gen=Rheniums pl=- note=chemical element
 Rhetor noun g=m gen=Rhetors pl=Rhetoren
 Rhetorik noun g=f gen=Rhetorik pl=- note=mass noun
+Rheuma noun g=n gen=Rheumas pl=- note=no plural
 Rhizom noun g=n gen=Rhizoms pl=Rhizome
 Rhodium noun g=n gen=Rhodiums pl=- note=chemical element
 Rhythmik noun g=f gen=Rhythmik pl=- note=no plural
@@ -465,6 +477,7 @@ Rücksichtnahme noun g=f gen=Rücksichtnahme pl=- note=abstract noun, no plural
 Rückstrahler noun g=m gen=Rückstrahlers pl=Rückstrahler
 Rücktritt noun g=m gen=Rücktritts|Rücktrittes pl=Rücktritte
 Rückverfolgbarkeit noun g=f gen=Rückverfolgbarkeit pl=- note=traceability; no plural
+Rückwärtsgang noun g=m gen=Rückwärtsgangs|Rückwärtsganges pl=Rückwärtsgänge
 Rückzug noun g=m gen=Rückzugs|Rückzuges pl=Rückzüge
 Rüde noun g=m gen=Rüden pl=Rüden
 Rudel noun g=n gen=Rudels pl=Rudel
@@ -502,6 +515,7 @@ Russisch noun g=n gen=Russisch|Russischs pl=- note=language name; no plural
 Russki noun g=m gen=Russkis pl=Russkis style=offensive note=slur for Russians
 Rüstung noun g=f gen=Rüstung pl=Rüstungen
 Rute noun g=f gen=Rute pl=Ruten
+Ruthene noun g=m gen=Ruthenen pl=Ruthenen
 Ruthenium noun g=n gen=Rutheniums pl=- note=chemical element
 Rutherfordium noun g=n gen=Rutherfordiums pl=- note=chemical element
 Rutsche noun g=f gen=Rutsche pl=Rutschen

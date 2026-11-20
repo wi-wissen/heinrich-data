@@ -1,6 +1,7 @@
 väterlicherseits adv
 vergleichsweise adv
 vernünftigerweise adv
+verständlicherweise adv
 vielerorts adv
 vielmals adv
 vollauf adv type=degree

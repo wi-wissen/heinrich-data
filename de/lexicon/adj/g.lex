@@ -1,4 +1,5 @@
 gabelig adj
+galaktisch adj
 galileisch adj note=die galileischen Monde
 galvanisch adj
 gambisch adj
@@ -8,6 +9,7 @@ ganzheitlich adj
 ganzjährig adj
 gänzlich adj note=attributive use; the adverb has its own entry
 ganzrandig adj
+ganzzahlig adj
 gar adj
 garstig adj cmp=garstiger sup=garstigsten
 gasförmig adj
@@ -46,6 +48,7 @@ geistlich adj
 geizig adj cmp=geiziger sup=geizigsten
 gekränkt adj cmp=gekränkter sup=gekränktesten
 gelangweilt adj cmp=gelangweilter sup=gelangweiltesten
+gelappt adj
 geläufig adj
 gelb adj cmp=gelber sup=gelbsten
 gelblich adj cmp=gelblicher sup=gelblichsten
@@ -60,6 +63,7 @@ gemeinschaftlich adj
 gemütlich adj cmp=gemütlicher sup=gemütlichsten
 genau adj cmp=genauer sup=genauesten
 genehmigungspflichtig adj
+generalistisch adj
 generell adj
 genetisch adj
 genial adj cmp=genialer sup=genialsten
@@ -114,6 +118,7 @@ gewaltig adj cmp=gewaltiger sup=gewaltigsten
 gewaltsam adj
 gewandt adj cmp=gewandter sup=gewandtesten note=skilful (participle of wenden with its own meaning)
 gewärtig adj pred_only note=einer Sache gewärtig sein (be prepared for)
+gewellt adj
 gewerblich adj
 gewerbsmäßig adj
 gewesen adj note=attributive participle of sein (der gewesene Minister); aux entries generate no participle adjectives
@@ -193,6 +198,7 @@ grün adj cmp=grüner sup=grünsten
 grundlegend adj cmp=grundlegender sup=grundlegendsten
 gründlich adj cmp=gründlicher sup=gründlichsten
 grundsätzlich adj
+gruppennützig adj
 gruselig adj cmp=gruseliger sup=gruseligsten
 guatemaltekisch adj
 gültig adj

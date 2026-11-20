@@ -106,6 +106,7 @@ Negativität noun g=f gen=Negativität pl=- note=no plural
 Neger noun g=m gen=Negers pl=Neger style=archaic|offensive alt=Schwarze_Menschen note=offensive today; seen in older literature
 Negerin noun g=f gen=Negerin pl=Negerinnen style=archaic|offensive alt=Schwarze_Frau note=offensive today; older literature
 Negerkuss noun g=m gen=Negerkusses pl=Negerküsse style=offensive alt=Schokokuss
+Nehrung noun g=f gen=Nehrung pl=Nehrungen
 Neid noun g=m gen=Neides|Neids pl=- note=no plural
 Neider noun g=m gen=Neiders pl=Neider
 Neigung noun g=f gen=Neigung pl=Neigungen
@@ -125,6 +126,7 @@ Neolithikum noun g=n gen=Neolithikums pl=- note=epoch
 Neologismus noun g=m gen=Neologismus pl=Neologismen
 Neon noun g=n gen=Neons pl=- note=chemical element; noble gas
 Neonazi noun g=m gen=Neonazis pl=Neonazis
+Neonikotinoid noun g=n gen=Neonikotinoids|Neonikotinoides pl=Neonikotinoide
 Neophyt noun g=m gen=Neophyten pl=Neophyten
 Neptunium noun g=n gen=Neptuniums pl=- note=chemical element
 Nerv noun g=m gen=Nervs pl=Nerven
@@ -169,9 +171,12 @@ Nickerchen noun g=n gen=Nickerchens pl=Nickerchen
 Nickname noun g=m gen=Nicknames pl=Nicknames
 Niederkunft noun g=f gen=Niederkunft pl=Niederkünfte
 Niederlage noun g=f gen=Niederlage pl=Niederlagen
+Niederländerin noun g=f gen=Niederländerin pl=Niederländerinnen
 Niederlassung noun g=f gen=Niederlassung pl=Niederlassungen
 Niederschlag noun g=m gen=Niederschlags|Niederschlages pl=Niederschläge
+Niederträchtigkeit noun g=f gen=Niederträchtigkeit pl=Niederträchtigkeiten
 Niederung noun g=f gen=Niederung pl=Niederungen
+Niemandsland noun g=n gen=Niemandslands|Niemandslandes pl=- note=no plural
 Niere noun g=f gen=Niere pl=Nieren
 Nießbrauch noun g=m gen=Nießbrauchs|Nießbrauches pl=- note=legal term, no plural
 Nieselregen noun g=m gen=Nieselregens pl=- note=no plural
@@ -231,6 +236,7 @@ Nudel noun g=f gen=Nudel pl=Nudeln
 Nudelholz noun g=n gen=Nudelholzes|Nudelholzs pl=Nudelhölzer
 Nudelsieb noun g=n gen=Nudelsiebs pl=Nudelsiebe
 Nuggets noun g=pl
+Nukleinsäure noun g=f gen=Nukleinsäure pl=Nukleinsäuren
 Nukleon noun g=n gen=Nukleons pl=Nukleonen
 Nuklid noun g=n gen=Nuklids|Nuklides pl=Nuklide
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/

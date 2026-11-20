@@ -1,4 +1,5 @@
 Oase noun g=f gen=Oase pl=Oasen
+Obacht noun g=f gen=Obacht pl=- note=Obacht geben; no plural
 Obdachlose noun g=m|f decl=adj
 Obelisk noun g=m gen=Obelisken pl=Obelisken
 Ober noun g=m gen=Obers pl=Ober note=waiter
@@ -99,14 +100,18 @@ Optik noun g=f gen=Optik pl=Optiken
 Optiker noun g=m gen=Optikers pl=Optiker
 Optimierung noun g=f gen=Optimierung pl=Optimierungen
 Optimismus noun g=m gen=Optimismus pl=- note=mass noun; -ismus genitive without ending
+Optimum noun g=n gen=Optimums pl=Optima
 Option noun g=f gen=Option pl=Optionen
 Orakel noun g=n gen=Orakels pl=Orakel
+Orang-Utan noun g=m gen=Orang-Utans pl=Orang-Utans
 Orange noun g=f gen=Orange pl=Orangen sense=fruit
 Orange noun g=n gen=Oranges|Orange pl=- sense=colour note=colour name
 Orangerie noun g=f gen=Orangerie pl=Orangerien
 Oratorium noun g=n gen=Oratoriums pl=Oratorien
+Orbital noun g=n gen=Orbitals pl=Orbitale
 Orbiter noun g=m gen=Orbiters pl=Orbiter
 Orchester noun g=n gen=Orchesters pl=Orchester
+Orchestrierung noun g=f gen=Orchestrierung pl=Orchestrierungen
 Orchidee noun g=f gen=Orchidee pl=Orchideen
 Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
@@ -149,6 +154,7 @@ Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
 Orthopäde noun g=m gen=Orthopäden pl=Orthopäden
 Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
+Orthoptist noun g=m gen=Orthoptisten pl=Orthoptisten
 Orthostiche noun g=f gen=Orthostiche pl=Orthostichen
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
 Ortsteil noun g=m gen=Ortsteils|Ortsteiles pl=Ortsteile note=listed because Teil has two genders
@@ -172,7 +178,9 @@ Osternest noun g=n gen=Osternests|Osternestes pl=Osternester
 Österreicher noun g=m gen=Österreichers pl=Österreicher
 Österreicherin noun g=f gen=Österreicherin pl=Österreicherinnen
 Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
+Oszillator noun g=m gen=Oszillators pl=Oszillatoren
 Otter noun g=m gen=Otters pl=Otter
+Ottokraftstoff noun g=m gen=Ottokraftstoffs|Ottokraftstoffes pl=Ottokraftstoffe
 Ottomane noun g=f gen=Ottomane pl=Ottomanen
 Ottomotor noun g=m gen=Ottomotors pl=Ottomotoren
 Output noun g=m|n gen=Outputs pl=Outputs

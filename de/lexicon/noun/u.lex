@@ -106,6 +106,7 @@ Unbedenklichkeit noun g=f gen=Unbedenklichkeit pl=- note=no plural
 Unbekannte noun g=m|f decl=adj
 Unbilden noun g=pl note=die Unbilden des Wetters
 Unbill noun g=f gen=Unbill pl=- note=no plural; plural Unbilden is a separate noun
+Unbrauchbarmachung noun g=f gen=Unbrauchbarmachung pl=Unbrauchbarmachungen
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
 Unfallversicherung noun g=f gen=Unfallversicherung pl=Unfallversicherungen
@@ -128,12 +129,14 @@ Unionist noun g=m gen=Unionisten pl=Unionisten
 Universität noun g=f gen=Universität pl=Universitäten
 Universum noun g=n gen=Universums pl=Universen
 Unix noun g=n gen=Unix pl=- note=operating system family; bare genitive after x
+Unkenruf noun g=m gen=Unkenrufs|Unkenrufes pl=Unkenrufe
 Unklarheit noun g=f gen=Unklarheit pl=Unklarheiten
 Unkraut noun g=n gen=Unkrauts pl=Unkräuter
 Unmöglichkeit noun g=f gen=Unmöglichkeit pl=Unmöglichkeiten
 Unmut noun g=m gen=Unmuts|Unmutes pl=- note=no plural
 Unordnung noun g=f gen=Unordnung pl=- note=no plural
 Unparteiische noun g=m|f decl=adj note=referee; lexicalised
+Unpässlichkeit noun g=f gen=Unpässlichkeit pl=Unpässlichkeiten
 Unrat noun g=m gen=Unrats|Unrates pl=- note=no plural
 Unrecht noun g=n gen=Unrechts|Unrechtes pl=- note=no plural
 Unruhe noun g=f gen=Unruhe pl=Unruhen
@@ -208,6 +211,7 @@ Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
 Usenet noun g=n gen=Usenets pl=- note=name of the network; used with article
 Usurpator noun g=m gen=Usurpators pl=Usurpatoren
+Usus noun g=m gen=Usus pl=- note=des Usus; no plural
 Utensilien noun g=pl
 Uterus noun g=m gen=Uterus pl=Uteri note=genitive unchanged (des Uterus)
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural

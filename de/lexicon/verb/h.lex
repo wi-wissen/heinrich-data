@@ -47,6 +47,7 @@ heimtragen verb class=strong sep=heim 3sg=heimträgt past=heimtrug subj2=heimtr�
 heimwandern verb class=weak sep=heim pp=heimgewandert perf=sein
 heimzahlen verb class=weak sep=heim pp=heimgezahlt perf=haben
 heiraten verb class=weak pp=geheiratet perf=haben
+heischen verb class=weak pp=geheischt perf=haben
 heißen verb class=strong 3sg=heißt past=hieß pp=geheißen subj2=hieße perf=haben
 heizen verb class=weak pp=geheizt perf=haben
 helfen       verb class=strong 3sg=hilft past=half pp=geholfen subj2=hülfe|hälfe[rare] perf=haben

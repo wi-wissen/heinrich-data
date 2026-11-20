@@ -9,6 +9,7 @@ merkwürdigerweise adv
 minder adv
 mitten adv
 mittendrin adv type=place
+mittschiffs adv
 mitunter adv
 möglichst adv
 mütterlicherseits adv

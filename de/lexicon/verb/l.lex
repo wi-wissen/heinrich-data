@@ -43,6 +43,7 @@ leuchten verb class=weak pp=geleuchtet perf=haben
 leugnen verb class=weak pp=geleugnet perf=haben
 lichten verb class=weak pp=gelichtet perf=haben refl=acc note=Anker lichten; der Wald lichtet sich
 lieben verb class=weak pp=geliebt perf=haben
+liebhaben verb class=mixed sep=lieb pres=liebhabe,liebhast,liebhat,liebhaben,liebhabt,liebhaben past=liebhatte pp=liebgehabt subj2=liebhätte perf=haben
 liebkosen verb class=weak pp=liebkost|geliebkost perf=haben
 liefern verb class=weak pp=geliefert perf=haben
 liegen verb class=strong 3sg=liegt past=lag pp=gelegen subj2=läge perf=haben|sein note=perf with sein in southern Germany/AT/CH

@@ -24,6 +24,8 @@ Wahn noun g=m gen=Wahns|Wahnes pl=- note=no plural
 Wahnsinn noun g=m gen=Wahnsinns pl=- note=no plural
 Wahrheit noun g=f gen=Wahrheit pl=Wahrheiten
 Wahrnehmung noun g=f gen=Wahrnehmung pl=Wahrnehmungen
+Wahrsager noun g=m gen=Wahrsagers pl=Wahrsager
+Wahrsagerin noun g=f gen=Wahrsagerin pl=Wahrsagerinnen
 Wahrscheinlichkeit noun g=f gen=Wahrscheinlichkeit pl=Wahrscheinlichkeiten
 Wahrung noun g=f gen=Wahrung pl=- note=no plural
 Währung noun g=f gen=Währung pl=Währungen
@@ -54,6 +56,7 @@ Wandertag noun g=m gen=Wandertags|Wandertages pl=Wandertage
 Wanderung noun g=f gen=Wanderung pl=Wanderungen
 Wandler noun g=m gen=Wandlers pl=Wandler
 Wandlung noun g=f gen=Wandlung pl=Wandlungen
+Wandung noun g=f gen=Wandung pl=Wandungen
 Wane noun g=m gen=Wanen pl=Wanen note=Norse god of the Vanir
 Wange noun g=f gen=Wange pl=Wangen
 Wanne noun g=f gen=Wanne pl=Wannen
@@ -72,11 +75,13 @@ Wärterin noun g=f gen=Wärterin pl=Wärterinnen
 Wartung noun g=f gen=Wartung pl=Wartungen
 Warze noun g=f gen=Warze pl=Warzen
 Wäsche noun g=f gen=Wäsche pl=- note=mass noun
+Wäscherin noun g=f gen=Wäscherin pl=Wäscherinnen
 Wäscheständer noun g=m gen=Wäscheständers pl=Wäscheständer
 Waschlappen noun g=m gen=Waschlappens pl=Waschlappen
 Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
 Wasserknappheit noun g=f gen=Wasserknappheit pl=- note=no plural
 Wasserkocher noun g=m gen=Wasserkochers pl=Wasserkocher
+Wasserkühlung noun g=f gen=Wasserkühlung pl=Wasserkühlungen
 Wasserstoff noun g=m gen=Wasserstoffs|Wasserstoffes pl=- note=no plural
 Wasserstrudel noun g=m gen=Wasserstrudels pl=Wasserstrudel
 Watt noun g=n gen=Watts|Wattes pl=Watten sense=mudflat note=das Watt: tidal flat
@@ -118,6 +123,7 @@ Weile noun g=f gen=Weile pl=- note=eine Weile
 Weiler noun g=m gen=Weilers pl=Weiler
 Weimarer noun g=m gen=Weimarers pl=Weimarer note=inhabitant of Weimar; also indeclinable in Weimarer Republik
 Wein noun g=m gen=Weines|Weins pl=Weine
+Weinlese noun g=f gen=Weinlese pl=Weinlesen
 Weise noun g=f gen=Weise pl=Weisen note=Art und Weise
 Weisheit noun g=f gen=Weisheit pl=Weisheiten
 Weiß noun g=n gen=Weiß|Weißes pl=- conf=80 note=colour name; both des Weiß and des Weißes occur
@@ -154,6 +160,7 @@ Werk noun g=n gen=Werkes|Werks pl=Werke
 Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
+Wermut noun g=m gen=Wermuts|Wermutes pl=Wermuts
 Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
@@ -181,6 +188,7 @@ Wichtigkeit noun g=f gen=Wichtigkeit pl=- note=no plural
 Wicke noun g=f gen=Wicke pl=Wicken
 Widder noun g=m gen=Widders pl=Widder
 Widerhall noun g=m gen=Widerhalls|Widerhalles pl=Widerhalle
+Widerpart noun g=m gen=Widerparts|Widerpartes pl=Widerparte
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
 Widersacher noun g=m gen=Widersachers pl=Widersacher
 Widersetzlichkeit noun g=f gen=Widersetzlichkeit pl=Widersetzlichkeiten
@@ -226,6 +234,7 @@ Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter
 Winterferien noun g=pl
+Winterszeit noun g=f gen=Winterszeit pl=Winterszeiten
 Winzer noun g=m gen=Winzers pl=Winzer
 Winzerin noun g=f gen=Winzerin pl=Winzerinnen
 Wipfel noun g=m gen=Wipfels pl=Wipfel
@@ -267,6 +276,8 @@ WLAN noun g=n gen=WLAN|WLANs pl=WLANs|WLAN
 WM noun g=f gen=WM pl=WMs note=Weltmeisterschaft; die WM
 Woche noun g=f gen=Woche pl=Wochen
 Wochenende noun g=n gen=Wochenendes pl=Wochenenden
+Wöchnerin noun g=f gen=Wöchnerin pl=Wöchnerinnen
+Wodka noun g=m gen=Wodkas pl=Wodkas
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
@@ -285,6 +296,7 @@ Wohnsitz noun g=m gen=Wohnsitzes pl=Wohnsitze
 Wohnung noun g=f gen=Wohnung pl=Wohnungen
 Wohnungslosigkeit noun g=f gen=Wohnungslosigkeit pl=- note=abstract noun, no plural
 Wohnwagen noun g=m gen=Wohnwagens pl=Wohnwagen
+Woiwode noun g=m gen=Woiwoden pl=Woiwoden
 Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
 Wölbung noun g=f gen=Wölbung pl=Wölbungen
@@ -308,6 +320,7 @@ Wörterbuch noun g=n gen=Wörterbuchs|Wörterbuches pl=Wörterbücher
 Wortlaut noun g=m gen=Wortlauts|Wortlautes pl=- note=no plural
 Wrack noun g=n gen=Wracks|Wrackes pl=Wracks|Wracke
 Wrestler noun g=m gen=Wrestlers pl=Wrestler
+Wrestlerin noun g=f gen=Wrestlerin pl=Wrestlerinnen
 Wrestling noun g=n gen=Wrestlings pl=- note=no plural
 Wucherer noun g=m gen=Wucherers pl=Wucherer
 Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature

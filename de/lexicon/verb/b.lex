@@ -8,6 +8,7 @@ ballen verb class=weak pp=geballt perf=haben refl=acc
 ballern verb class=weak pp=geballert perf=haben
 bandagieren verb class=weak pp=bandagiert perf=haben
 bändigen verb class=weak pp=gebändigt perf=haben
+bangen verb class=weak pp=gebangt perf=haben
 bannen verb class=weak pp=gebannt perf=haben
 barockisieren verb class=weak pp=barockisiert perf=haben
 basieren verb class=weak pp=basiert perf=haben
@@ -17,6 +18,7 @@ bäumen verb class=weak pp=gebäumt perf=haben refl=acc
 bauschen verb class=weak pp=gebauscht perf=haben
 beabsichtigen verb class=weak pp=beabsichtigt perf=haben
 beachten verb class=weak pp=beachtet perf=haben
+beängstigen verb class=weak pp=beängstigt perf=haben
 beanspruchen verb class=weak pp=beansprucht perf=haben
 beanstanden verb class=weak pp=beanstandet perf=haben
 beantragen    verb class=weak pp=beantragt perf=haben
@@ -39,6 +41,7 @@ bedrohen verb class=weak pp=bedroht perf=haben
 bedrucken verb class=weak pp=bedruckt perf=haben
 bedrücken verb class=weak pp=bedrückt perf=haben
 bedürfen      verb class=modal 3sg=bedarf past=bedurfte pp=bedurft subj2=bedürfte perf=haben note=with genitive (es bedarf eines Beschlusses)
+beehren verb class=weak pp=beehrt perf=haben
 beeilen verb class=weak pp=beeilt perf=haben refl=acc
 beeindrucken verb class=weak pp=beeindruckt perf=haben part1_cmp
 beeinflussen verb class=weak pp=beeinflusst perf=haben
@@ -54,6 +57,7 @@ befassen verb class=weak refl=acc pp=befasst perf=haben
 befehlen verb class=strong 3sg=befiehlt past=befahl pp=befohlen subj2=beföhle|befähle perf=haben
 befehligen verb class=weak pp=befehligt perf=haben
 befestigen verb class=weak pp=befestigt perf=haben
+befeuchten verb class=weak pp=befeuchtet perf=haben
 befeuern verb class=weak pp=befeuert perf=haben
 befinden      verb class=strong refl=acc 3sg=befindet past=befand pp=befunden subj2=befände perf=haben
 beflecken verb class=weak pp=befleckt perf=haben
@@ -218,8 +222,10 @@ bescheinen verb class=strong 3sg=bescheint past=beschien pp=beschienen subj2=bes
 bescheinigen verb class=weak pp=bescheinigt perf=haben
 beschenken verb class=weak pp=beschenkt perf=haben
 bescheren verb class=weak pp=beschert perf=haben
+beschicken verb class=weak pp=beschickt perf=haben
 beschießen verb class=strong 3sg=beschießt past=beschoss pp=beschossen subj2=beschösse perf=haben
 beschimpfen verb class=weak pp=beschimpft perf=haben
+beschirmen verb class=weak pp=beschirmt perf=haben
 beschlagen verb class=strong 3sg=beschlägt past=beschlug pp=beschlagen subj2=beschlüge perf=haben|sein
 beschlagnahmen verb class=weak pp=beschlagnahmt perf=haben
 beschleichen verb class=strong 3sg=beschleicht past=beschlich pp=beschlichen subj2=beschliche perf=haben
@@ -241,6 +247,7 @@ beschwören verb class=strong 3sg=beschwört past=beschwor pp=beschworen subj2=b
 beseelen verb class=weak pp=beseelt perf=haben
 besehen verb class=strong 3sg=besieht past=besah pp=besehen subj2=besähe perf=haben
 beseitigen verb class=weak pp=beseitigt perf=haben
+beseligen verb class=weak pp=beseligt perf=haben
 besetzen      verb class=weak pp=besetzt perf=haben
 besichern verb class=weak pp=besichert perf=haben
 besichtigen verb class=weak pp=besichtigt perf=haben
@@ -256,6 +263,7 @@ bespielen verb class=weak pp=bespielt perf=haben
 bespitzeln verb class=weak pp=bespitzelt perf=haben
 besprechen verb class=strong 3sg=bespricht past=besprach pp=besprochen subj2=bespräche perf=haben
 bespritzen verb class=weak pp=bespritzt perf=haben
+bespülen verb class=weak pp=bespült perf=haben
 bessern verb class=weak refl=acc pp=gebessert perf=haben
 bestärken verb class=weak pp=bestärkt perf=haben
 bestätigen    verb class=weak pp=bestätigt perf=haben
@@ -288,6 +296,7 @@ beten verb class=weak pp=gebetet perf=haben
 beteuern verb class=weak pp=beteuert perf=haben
 betiteln verb class=weak pp=betitelt perf=haben
 betonen verb class=weak pp=betont perf=haben
+betören verb class=weak pp=betört perf=haben
 betrachten    verb class=weak pp=betrachtet perf=haben
 betragen      verb class=strong 3sg=beträgt past=betrug pp=betragen subj2=betrüge perf=haben
 betrauen verb class=weak pp=betraut perf=haben
@@ -387,6 +396,7 @@ bowlen verb class=weak pp=gebowlt perf=haben
 boxen verb class=weak pp=geboxt perf=haben
 brabbeln verb class=weak pp=gebrabbelt perf=haben
 branden verb class=weak pp=gebrandet perf=haben|sein
+brandschatzen verb class=weak pp=gebrandschatzt perf=haben
 braten verb class=strong 3sg=brät past=briet pp=gebraten subj2=briete perf=haben
 brauchen      verb class=weak subj2=brauchte|bräuchte pp=gebraucht perf=haben note=with zu used like a modal verb (du brauchst nicht zu kommen)
 brauen verb class=weak pp=gebraut perf=haben

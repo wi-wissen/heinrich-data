@@ -12,6 +12,7 @@ dämpfen verb class=weak pp=gedämpft perf=haben
 danken        verb class=weak pp=gedankt perf=haben
 darangehen verb class=strong sep=daran 3sg=darangeht past=daranging|darangieng[old] pp=darangegangen subj2=daranginge perf=sein note=an eine Arbeit darangehen
 daransetzen verb class=weak sep=daran pp=darangesetzt perf=haben note=alles daransetzen
+darben verb class=weak pp=gedarbt perf=haben
 darbieten verb class=strong sep=dar 3sg=darbietet past=darbot pp=dargeboten subj2=darböte perf=haben
 darbringen verb class=mixed sep=dar 3sg=darbringt past=darbrachte pp=dargebracht subj2=darbrächte perf=haben
 darlegen verb class=weak sep=dar pp=dargelegt perf=haben
@@ -217,3 +218,4 @@ dursten verb class=weak pp=gedurstet perf=haben
 dürsten verb class=weak pp=gedürstet perf=haben
 duschen verb class=weak pp=geduscht perf=haben refl=acc
 duzen verb class=weak pp=geduzt perf=haben
+dynamisieren verb class=weak pp=dynamisiert perf=haben

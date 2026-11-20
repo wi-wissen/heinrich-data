@@ -152,6 +152,7 @@ abschnallen verb class=weak sep=ab pp=abgeschnallt perf=haben
 abschneiden verb class=strong sep=ab 3sg=abschneidet past=abschnitt pp=abgeschnitten subj2=abschnitte perf=haben
 abschöpfen verb class=weak sep=ab pp=abgeschöpft perf=haben
 abschotten verb class=weak sep=ab pp=abgeschottet perf=haben
+abschrägen verb class=weak sep=ab pp=abgeschrägt perf=haben
 abschrauben verb class=weak sep=ab pp=abgeschraubt perf=haben
 abschrecken verb class=weak sep=ab pp=abgeschreckt perf=haben
 abschreiben verb class=strong sep=ab 3sg=abschreibt past=abschrieb pp=abgeschrieben subj2=abschriebe perf=haben

@@ -32,6 +32,7 @@ Talisman noun g=m gen=Talismans pl=Talismane
 Talkshow noun g=f gen=Talkshow pl=Talkshows
 Tambourin noun g=n gen=Tambourins pl=Tambourine
 Tamburin noun g=n gen=Tamburins pl=Tamburine
+Tamile noun g=m gen=Tamilen pl=Tamilen
 Tampon noun g=m gen=Tampons pl=Tampons
 Tamtam noun g=n gen=Tamtams pl=Tamtams
 Tanach noun g=m gen=Tanach|Tanachs pl=- conf=85 note=Hebrew Bible
@@ -39,6 +40,7 @@ Tand noun g=m gen=Tands|Tandes pl=- note=no plural
 Tangens noun g=m gen=Tangens pl=Tangens note=bare genitive and plural
 Tank noun g=m gen=Tanks pl=Tanks|Tanke[rare]
 Tanker noun g=m gen=Tankers pl=Tanker
+Tankette noun g=f gen=Tankette pl=Tanketten
 Tanne noun g=f gen=Tanne pl=Tannen
 Tantal noun g=n gen=Tantals pl=- note=chemical element
 Tante noun g=f gen=Tante pl=Tanten
@@ -123,10 +125,13 @@ Telegrafie noun g=f gen=Telegrafie pl=- note=no plural
 Telegraphie noun g=f gen=Telegraphie pl=- note=spelling variant of Telegrafie
 Telekommunikation noun g=f gen=Telekommunikation pl=- note=mass noun
 Telenovela noun g=f gen=Telenovela pl=Telenovelas
+Telepathie noun g=f gen=Telepathie pl=- note=no plural
 Teleskop noun g=n gen=Teleskops pl=Teleskope
+Televoting noun g=n gen=Televotings pl=Televotings
 Teller noun g=m gen=Tellers pl=Teller
 Tellur noun g=n gen=Tellurs pl=- note=chemical element
 Tempel noun g=m gen=Tempels pl=Tempel
+Tempera noun g=f gen=Tempera pl=Temperas
 Temperament noun g=n gen=Temperaments|Temperamentes pl=Temperamente
 Temperatur noun g=f gen=Temperatur pl=Temperaturen
 Templer noun g=m gen=Templers pl=Templer
@@ -152,6 +157,7 @@ Terminologie noun g=f gen=Terminologie pl=Terminologien
 Terminus noun g=m gen=Terminus pl=Termini note=des Terminus
 Termite noun g=f gen=Termite pl=Termiten
 Terpen noun g=n gen=Terpens pl=Terpene
+Terpentin noun g=n gen=Terpentins pl=Terpentine
 Terrain noun g=n gen=Terrains pl=Terrains
 Terrakotta noun g=f gen=Terrakotta pl=Terrakotten
 Terrarium noun g=n gen=Terrariums pl=Terrarien
@@ -172,6 +178,7 @@ Testosteron noun g=n gen=Testosterons pl=- note=mass noun
 Tetanus noun g=m gen=Tetanus pl=- note=des Tetanus; no plural
 Teufe noun g=f gen=Teufe pl=Teufen note=mining: depth
 Teufel noun g=m gen=Teufels pl=Teufel
+Texaner noun g=m gen=Texaners pl=Texaner
 Text noun g=m gen=Textes|Texts pl=Texte
 Textaufgabe noun g=f gen=Textaufgabe pl=Textaufgaben
 Texter noun g=m gen=Texters pl=Texter
@@ -198,6 +205,7 @@ Theorem noun g=n gen=Theorems pl=Theoreme
 Theoretiker noun g=m gen=Theoretikers pl=Theoretiker
 Theoretikerin noun g=f gen=Theoretikerin pl=Theoretikerinnen
 Theorie noun g=f gen=Theorie pl=Theorien
+Theosophie noun g=f gen=Theosophie pl=Theosophien
 Therapeut noun g=m gen=Therapeuten pl=Therapeuten
 Therapeutin noun g=f gen=Therapeutin pl=Therapeutinnen
 Therapie noun g=f gen=Therapie pl=Therapien
@@ -208,6 +216,7 @@ Thermodynamik noun g=f gen=Thermodynamik pl=- note=field of physics
 Thermometer noun g=n gen=Thermometers pl=Thermometer
 Thermoskanne noun g=f gen=Thermoskanne pl=Thermoskannen
 Thermostat noun g=m gen=Thermostats|Thermostates pl=Thermostate
+Theropode noun g=m gen=Theropoden pl=Theropoden
 These noun g=f gen=These pl=Thesen
 Thesis noun g=f gen=Thesis pl=Thesen conf=80 note=philosophy (Thesis, Antithesis, Synthesis) and academic thesis
 Thier noun g=n gen=Thieres|Thiers pl=Thiere spelling=old note=old spelling of Tier
@@ -215,6 +224,7 @@ Thora noun g=f gen=Thora pl=- note=spelling variant of Tora
 Thorium noun g=n gen=Thoriums pl=- note=chemical element
 Thread noun g=m gen=Threads pl=Threads
 Thriller noun g=m gen=Thrillers pl=Thriller
+Thrombozyt noun g=m gen=Thrombozyten pl=Thrombozyten
 Thron noun g=m gen=Thrones|Throns pl=Throne
 Thronfolger noun g=m gen=Thronfolgers pl=Thronfolger
 Thulium noun g=n gen=Thuliums pl=- note=chemical element
@@ -228,11 +238,13 @@ Tief noun g=n gen=Tiefs pl=Tiefs
 Tiefe noun g=f gen=Tiefe pl=Tiefen
 Tiefkühltruhe noun g=f gen=Tiefkühltruhe pl=Tiefkühltruhen
 Tiefsttemperatur noun g=f gen=Tiefsttemperatur pl=Tiefsttemperaturen
+Tiegel noun g=m gen=Tiegels pl=Tiegel
 Tier noun g=n gen=Tieres|Tiers pl=Tiere
 Tierchen noun g=n gen=Tierchens pl=Tierchen
 Tierpflegerin noun g=f gen=Tierpflegerin pl=Tierpflegerinnen
 Tierquälerei noun g=f gen=Tierquälerei pl=- note=mass noun
 Tierschutz noun g=m gen=Tierschutzes pl=- note=no plural
+Tierschützer noun g=m gen=Tierschützers pl=Tierschützer
 Tierversuch noun g=m gen=Tierversuchs|Tierversuches pl=Tierversuche
 Tiger noun g=m gen=Tigers pl=Tiger
 Tilgung noun g=f gen=Tilgung pl=Tilgungen
@@ -260,6 +272,7 @@ Töchterlein noun g=n gen=Töchterleins pl=Töchterlein
 Tod noun g=m gen=Todes|Tods pl=Tode conf=85 note=plural Tode is rare
 Todesstrafe noun g=f gen=Todesstrafe pl=Todesstrafen
 Tofu noun g=m gen=Tofus pl=- note=no plural
+Toga noun g=f gen=Toga pl=Togen
 Toilette noun g=f gen=Toilette pl=Toiletten
 Toise noun g=f gen=Toise pl=Toisen conf=85 note=old French unit of length
 Token noun g=n gen=Tokens pl=Token|Tokens
@@ -270,13 +283,17 @@ Tomahawk noun g=m gen=Tomahawks pl=Tomahawks
 Tomate noun g=f gen=Tomate pl=Tomaten
 Tomatensoße noun g=f gen=Tomatensoße pl=Tomatensoßen
 Tombola noun g=f gen=Tombola pl=Tombolas|Tombolen
+Tomografie noun g=f gen=Tomografie pl=Tomografien
+Tomographie noun g=f gen=Tomographie pl=Tomographien
 Ton noun g=m gen=Tones|Tons pl=Töne sense=sound
 Ton noun g=m gen=Tones|Tons pl=Tone[rare] sense=clay
 Toner noun g=m gen=Toners pl=Toner
+Tonika noun g=f gen=Tonika pl=Toniken
 Tonnage noun g=f gen=Tonnage pl=Tonnagen
 Tonne noun g=f gen=Tonne pl=Tonnen
 Tool noun g=n gen=Tools pl=Tools
 Top noun g=n gen=Tops pl=Tops
+Topas noun g=m gen=Topases pl=Topase
 Topf noun g=m gen=Topfs|Topfes pl=Töpfe
 Töpfer noun g=m gen=Töpfers pl=Töpfer
 Topflappen noun g=m gen=Topflappens pl=Topflappen
@@ -300,7 +317,9 @@ Tortur noun g=f gen=Tortur pl=Torturen
 Torwart noun g=m gen=Torwarts|Torwartes pl=Torwarte
 Totalität noun g=f gen=Totalität pl=Totalitäten
 Tote noun g=m|f decl=adj
+Totem noun g=n gen=Totems pl=Totems
 Totemismus noun g=m gen=Totemismus pl=- note=mass noun
+Totemtier noun g=n gen=Totemtiers|Totemtieres pl=Totemtiere
 Tötung noun g=f gen=Tötung pl=Tötungen
 Touchpad noun g=n gen=Touchpads pl=Touchpads
 Touchscreen noun g=m gen=Touchscreens pl=Touchscreens
@@ -309,6 +328,7 @@ Tourismus noun g=m gen=Tourismus pl=- note=no plural
 Tourist noun g=m gen=Touristen pl=Touristen
 Touristin noun g=f gen=Touristin pl=Touristinnen
 Tournee noun g=f gen=Tournee pl=Tourneen|Tournees
+Toxin noun g=n gen=Toxins pl=Toxine
 Trabant noun g=m gen=Trabanten pl=Trabanten
 Tracht noun g=f gen=Tracht pl=Trachten
 Tracking noun g=n gen=Trackings pl=Trackings
@@ -349,11 +369,13 @@ Transkription noun g=f gen=Transkription pl=Transkriptionen
 Transliteration noun g=f gen=Transliteration pl=Transliterationen
 Transparent noun g=n gen=Transparents|Transparentes pl=Transparente
 Transparenz noun g=f gen=Transparenz pl=- note=mass noun
+Transphobie noun g=f gen=Transphobie pl=- note=no plural
 Transplantation noun g=f gen=Transplantation pl=Transplantationen
 Transponder noun g=m gen=Transponders pl=Transponder
 Transport noun g=m gen=Transports|Transportes pl=Transporte
 Transporter noun g=m gen=Transporters pl=Transporter
 Transuran noun g=n gen=Transurans pl=Transurane
+Transzendenz noun g=f gen=Transzendenz pl=- note=no plural
 Trapez noun g=n gen=Trapezes pl=Trapeze
 Trapper noun g=m gen=Trappers pl=Trapper
 Trasse noun g=f gen=Trasse pl=Trassen
@@ -372,6 +394,7 @@ Trauung noun g=f gen=Trauung pl=Trauungen
 Trauzeuge noun g=m gen=Trauzeugen pl=Trauzeugen note=compound; the analyser would take Zeug as head
 Trauzeugin noun g=f gen=Trauzeugin pl=Trauzeuginnen
 Traverse noun g=f gen=Traverse pl=Traversen
+Trawler noun g=m gen=Trawlers pl=Trawler
 Trecker noun g=m gen=Treckers pl=Trecker
 Treffen noun g=n gen=Treffens pl=Treffen note=lexicalised nominal infinitive: meeting
 Treffer noun g=m gen=Treffers pl=Treffer
@@ -401,7 +424,9 @@ Trichine noun g=f gen=Trichine pl=Trichinen
 Trichter noun g=m gen=Trichters pl=Trichter
 Trick noun g=m gen=Tricks pl=Tricks
 Trieb noun g=m gen=Triebs|Triebes pl=Triebe
+Triennale noun g=f gen=Triennale pl=Triennalen
 Trigonometrie noun g=f gen=Trigonometrie pl=- note=field of mathematics
+Trikolore noun g=f gen=Trikolore pl=Trikoloren
 Trikot noun g=n gen=Trikots pl=Trikots
 Trilobit noun g=m gen=Trilobiten pl=Trilobiten
 Trilogie noun g=f gen=Trilogie pl=Trilogien
@@ -414,6 +439,7 @@ Tripel noun g=n gen=Tripels pl=Tripel
 Tripelpunkt noun g=m gen=Tripelpunkts|Tripelpunktes pl=Tripelpunkte
 Triptychon noun g=n gen=Triptychons pl=Triptychen|Triptycha
 Trisomie noun g=f gen=Trisomie pl=Trisomien
+Tritium noun g=n gen=Tritiums pl=- note=no plural
 Tritt noun g=m gen=Tritts|Trittes pl=Tritte
 Triumph noun g=m gen=Triumphs|Triumphes pl=Triumphe
 Trivialname noun g=m gen=Trivialnamens pl=Trivialnamen
@@ -434,8 +460,10 @@ Tröpfchen noun g=n gen=Tröpfchens pl=Tröpfchen
 Tropfen noun g=m gen=Tropfens pl=Tropfen
 Tropfstein noun g=m gen=Tropfsteins pl=Tropfsteine
 Trophäe noun g=f gen=Trophäe pl=Trophäen
+Tross noun g=m gen=Trosses pl=Trosse
 Trost noun g=m gen=Trostes|Trosts pl=- note=no plural
 Tröster noun g=m gen=Trösters pl=Tröster
+Trottel noun g=m gen=Trottels pl=Trottel
 Trottoir noun g=n gen=Trottoirs pl=Trottoire|Trottoirs
 Troubadour noun g=m gen=Troubadours pl=Troubadoure|Troubadours
 Trubel noun g=m gen=Trubels pl=- note=no plural
@@ -448,12 +476,16 @@ Trümmer noun g=pl
 Trümmerfrau noun g=f gen=Trümmerfrau pl=Trümmerfrauen
 Trumpf noun g=m gen=Trumpfs|Trumpfes pl=Trümpfe
 Trunk noun g=m gen=Trunks|Trunkes pl=Trünke[rare] note=drink, draught
+Trunkenbold noun g=m gen=Trunkenbolds|Trunkenboldes pl=Trunkenbolde
 Trunkenheit noun g=f gen=Trunkenheit pl=- note=mass noun
 Trupp noun g=m gen=Trupps pl=Trupps
 Truppe noun g=f gen=Truppe pl=Truppen
 Trust noun g=m gen=Trusts pl=Trusts
 Truthahn noun g=m gen=Truthahns pl=Truthähne
+Truthuhn noun g=n gen=Truthuhns|Truthuhnes pl=Truthühner
 Tscheche noun g=m gen=Tschechen pl=Tschechen
+Tschechin noun g=f gen=Tschechin pl=Tschechinnen
+Tscherkesse noun g=m gen=Tscherkessen pl=Tscherkessen
 Tschusch noun g=m gen=Tschuschen pl=Tschuschen region=AT style=offensive note=Austrian slur for people from the Balkans and Eastern Europe
 Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
@@ -493,11 +525,13 @@ Turnhalle noun g=f gen=Turnhalle pl=Turnhallen
 Turnier noun g=n gen=Turniers|Turnieres pl=Turniere
 Turnschuh noun g=m gen=Turnschuhs|Turnschuhes pl=Turnschuhe
 Türsteher noun g=m gen=Türstehers pl=Türsteher
+Tusch noun g=m gen=Tuschs|Tusches pl=Tusche
 Tusche noun g=f gen=Tusche pl=Tuschen
 Tussi noun g=f gen=Tussi pl=Tussis style=colloquial
 Tüte noun g=f gen=Tüte pl=Tüten
 Tutor noun g=m gen=Tutors pl=Tutoren
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
+Tweed noun g=m gen=Tweeds pl=Tweeds
 Tweet noun g=m gen=Tweets pl=Tweets
 Twist noun g=m gen=Twists|Twistes pl=Twists
 Tympanon noun g=n gen=Tympanons pl=Tympana

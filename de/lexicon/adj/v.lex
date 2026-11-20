@@ -6,6 +6,7 @@ vaterländisch adj
 väterlich adj
 vatikanisch adj
 vegan adj
+vegetabilisch adj
 vegetarisch adj
 vehement adj cmp=vehementer sup=vehementesten
 venezianisch adj
@@ -23,10 +24,12 @@ verbittert adj cmp=verbitterter sup=verbittertsten
 verbrecherisch adj
 verdächtig adj cmp=verdächtiger sup=verdächtigsten
 verderblich adj cmp=verderblicher sup=verderblichsten
+verderbt adj cmp=verderbter sup=verderbtesten
 verdorben adj
 verdreckt adj cmp=verdreckter sup=verdrecktesten
 verdrießlich adj cmp=verdrießlicher sup=verdrießlichsten
 vereinzelt adj
+vererblich adj
 verfassungsgemäß adj
 verfassungsrechtlich adj
 verfassungswidrig adj
@@ -40,6 +43,7 @@ vergnüglich adj cmp=vergnüglicher sup=vergnüglichsten
 vergnügt adj cmp=vergnügter sup=vergnügtesten
 verhältnismäßig adj
 verhängnisvoll adj cmp=verhängnisvoller sup=verhängnisvollsten
+verhasst adj cmp=verhasster sup=verhasstesten
 verheerend adj cmp=verheerender sup=verheerendsten
 verkehrt adj cmp=verkehrter sup=verkehrtesten
 verklärt adj
@@ -53,6 +57,8 @@ vermeintlich adj
 vermessen adj cmp=vermessener sup=vermessensten sense=bold
 vermögend adj cmp=vermögender sup=vermögendsten
 vermutlich adj
+vernarrt adj
+vernehmlich adj cmp=vernehmlicher sup=vernehmlichsten
 vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
 verrucht adj cmp=verruchter sup=verruchtesten
@@ -65,6 +71,7 @@ verschlossen adj cmp=verschlossener sup=verschlossensten
 verschneit adj
 verschnupft adj
 verschollen adj
+verschüchtert adj cmp=verschüchterter sup=verschüchtertsten
 verschuldet adj
 verschwitzt adj cmp=verschwitzter sup=verschwitztesten
 verschwommen adj
@@ -101,6 +108,8 @@ vielfältig adj
 vielseitig adj cmp=vielseitiger sup=vielseitigsten
 vierachsig adj
 vierbändig adj
+viergeschossig adj
+vierspurig adj
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 viertklassig adj
 viertürig adj
@@ -110,6 +119,7 @@ violett adj
 viral adj
 virologisch adj
 virtuell adj
+virtuos adj cmp=virtuoser sup=virtuosesten
 visuell adj
 völkerrechtlich adj
 völkisch adj

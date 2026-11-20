@@ -29,6 +29,7 @@ Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
 Jesuskind noun g=n gen=Jesuskinds|Jesuskindes pl=- note=das Jesuskind; lexicalised religious term
+Jet noun g=m gen=Jets pl=Jets
 Jetlag noun g=m gen=Jetlags pl=Jetlags
 Jetztzeit noun g=f gen=Jetztzeit pl=- note=no plural
 Job noun g=m gen=Jobs pl=Jobs
@@ -36,12 +37,14 @@ Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Jobsharing noun g=n gen=Jobsharings pl=- note=mass noun
 Joch noun g=n gen=Jochs|Joches pl=Joche
 Jod noun g=n gen=Jods|Jodes pl=- note=chemical element; common spelling of Iod
+Jodler noun g=m gen=Jodlers pl=Jodler
 Jogginghose noun g=f gen=Jogginghose pl=Jogginghosen
 Joghurt      noun g=m|n gen=Joghurts pl=Joghurts note=both genders, same meaning
 Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
 Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
 Joker noun g=m gen=Jokers pl=Joker
+Jolle noun g=f gen=Jolle pl=Jollen
 Joppe noun g=f gen=Joppe pl=Joppen
 Jota noun g=n gen=Jotas pl=Jotas
 Joule noun g=n gen=Joule|Joules pl=Joule note=unit of energy

@@ -60,6 +60,7 @@ unbeweglich adj cmp=unbeweglicher sup=unbeweglichsten
 unbewusst adj cmp=unbewusster sup=unbewusstesten
 unbrauchbar adj cmp=unbrauchbarer sup=unbrauchbarsten
 unbürokratisch adj cmp=unbürokratischer sup=unbürokratischsten
+undenklich adj
 undeutlich adj cmp=undeutlicher sup=undeutlichsten
 undurchsichtig adj
 unehrlich adj cmp=unehrlicher sup=unehrlichsten
@@ -154,9 +155,11 @@ unterjährig adj
 unterklassig adj
 unternehmerisch adj
 unterschiedlich adj cmp=unterschiedlicher sup=unterschiedlichsten
+unterstützenswert adj
 untertan adj pred_only note=jemandem untertan sein; the noun is Untertan
 untrennbar adj
 untröstlich adj
+untunlich adj
 unumgänglich adj
 ununterbrochen adj
 unverändert adj

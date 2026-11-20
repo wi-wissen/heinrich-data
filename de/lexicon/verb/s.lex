@@ -37,6 +37,7 @@ schaukeln verb class=weak pp=geschaukelt perf=haben
 schäumen verb class=weak pp=geschäumt perf=haben
 scheiden verb class=strong 3sg=scheidet past=schied pp=geschieden subj2=schiede perf=haben|sein
 scheinen verb class=strong 3sg=scheint past=schien pp=geschienen subj2=schiene perf=haben
+scheiteln verb class=weak pp=gescheitelt perf=haben
 scheitern verb class=weak pp=gescheitert perf=sein
 schelten verb class=strong 3sg=schilt past=schalt pp=gescholten subj2=schölte perf=haben
 schenken verb class=weak pp=geschenkt perf=haben
@@ -46,6 +47,7 @@ scheren verb class=strong 3sg=schert past=schor pp=geschoren subj2=schöre perf=
 scheren verb class=weak pp=geschert perf=haben refl=acc sense=care note=sich nicht um etwas scheren
 scherzen verb class=weak pp=gescherzt perf=haben
 scheuen verb class=weak pp=gescheut perf=haben refl=acc
+scheuern verb class=weak pp=gescheuert perf=haben
 schichten verb class=weak pp=geschichtet perf=haben
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
@@ -62,6 +64,7 @@ schlabbern verb class=weak pp=geschlabbert perf=haben
 schlachten verb class=weak pp=geschlachtet perf=haben
 schlafen verb class=strong 3sg=schläft past=schlief pp=geschlafen subj2=schliefe perf=haben
 schlagen verb class=strong 3sg=schlägt past=schlug pp=geschlagen subj2=schlüge perf=haben refl=acc
+schlängeln verb class=weak pp=geschlängelt perf=haben refl=acc
 schleichen verb class=strong 3sg=schleicht past=schlich pp=geschlichen subj2=schliche perf=sein refl=acc
 schleifen verb class=strong 3sg=schleift past=schliff pp=geschliffen subj2=schliffe perf=haben sense=sharpen
 schleifen verb class=weak pp=geschleift perf=haben sense=drag note=etwas über den Boden schleifen
@@ -69,6 +72,7 @@ schlemmen verb class=weak pp=geschlemmt perf=haben
 schlendern verb class=weak pp=geschlendert perf=sein
 schleppen verb class=weak pp=geschleppt perf=haben
 schleudern verb class=weak pp=geschleudert perf=haben|sein
+schleusen verb class=weak pp=geschleust perf=haben
 schließen verb class=strong 3sg=schließt past=schloss pp=geschlossen subj2=schlösse perf=haben refl=acc
 schlingen verb class=strong 3sg=schlingt past=schlang pp=geschlungen subj2=schlänge perf=haben refl=acc
 schlittern verb class=weak pp=geschlittert perf=haben|sein
@@ -102,8 +106,10 @@ schmücken verb class=weak pp=geschmückt perf=haben refl=acc
 schmunzeln verb class=weak pp=geschmunzelt perf=haben
 schnabulieren verb class=weak pp=schnabuliert perf=haben
 schnallen verb class=weak pp=geschnallt perf=haben note=fasten a buckle; colloquial also: understand (not marked, homograph)
+schnalzen verb class=weak pp=geschnalzt perf=haben
 schnappen verb class=weak pp=geschnappt perf=haben
 schnarchen verb class=weak pp=geschnarcht perf=haben
+schnarren verb class=weak pp=geschnarrt perf=haben
 schnattern verb class=weak pp=geschnattert perf=haben
 schnauben verb class=weak pp=geschnaubt perf=haben
 schnaufen verb class=weak pp=geschnauft perf=haben
@@ -143,6 +149,7 @@ schütteln verb class=weak pp=geschüttelt perf=haben refl=acc
 schütten verb class=weak pp=geschüttet perf=haben note=Wasser schütten; es schüttet (pours with rain)
 schützen verb class=weak pp=geschützt perf=haben refl=acc
 schwächen verb class=weak pp=geschwächt perf=haben
+schwadronieren verb class=weak pp=schwadroniert perf=haben
 schwanken verb class=weak pp=geschwankt perf=haben|sein
 schwänzen verb class=weak pp=geschwänzt perf=haben style=colloquial alt=unentschuldigt_fehlen
 schwärmen verb class=weak pp=geschwärmt perf=haben|sein
@@ -308,6 +315,7 @@ strömen verb class=weak pp=geströmt perf=haben|sein
 strukturieren verb class=weak pp=strukturiert perf=haben
 studieren    verb class=weak pp=studiert perf=haben
 stufen verb class=weak pp=gestuft perf=haben
+stülpen verb class=weak pp=gestülpt perf=haben
 stummschalten verb class=weak sep=stumm pp=stummgeschaltet perf=haben
 stunden verb class=weak pp=gestundet perf=haben note=eine Zahlung stunden (defer)
 stupsen verb class=weak pp=gestupst perf=haben
@@ -329,4 +337,5 @@ suspendieren verb class=weak pp=suspendiert perf=haben
 symbolisieren verb class=weak pp=symbolisiert perf=haben
 sympathisieren verb class=weak pp=sympathisiert perf=haben
 synchronisieren verb class=weak pp=synchronisiert perf=haben
+synonymisieren verb class=weak pp=synonymisiert perf=haben
 synthetisieren verb class=weak pp=synthetisiert perf=haben

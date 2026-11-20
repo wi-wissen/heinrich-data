@@ -6,6 +6,7 @@ dänisch adj
 dankbar       adj cmp=dankbarer sup=dankbarsten
 darauffolgend adj attr_only
 darstellerisch adj
+darüberliegend adj
 dauerhaft     adj cmp=dauerhafter sup=dauerhaftesten
 dauernd adj
 dazugehörig adj
@@ -49,6 +50,7 @@ dionysisch adj
 diözisch adj note=botany
 diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
+disjunkt adj
 diskriminierend adj
 distal adj
 divers adj
@@ -67,14 +69,19 @@ dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreiachsig adj
+dreibändig adj
 dreidimensional adj
 dreierlei adj indecl
 dreifach adj
 dreigeschossig adj
+dreigeteilt adj
+dreikantig adj
+dreilappig adj
 dreischiffig adj note=architecture: with three naves
 dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
+dreistöckig adj
 dreiwertig adj
 dreizählig adj
 dringend      adj cmp=dringender sup=dringendsten
@@ -91,6 +98,7 @@ dumpf adj cmp=dumpfer sup=dumpfsten
 dunkel        adj cmp=dunkler sup=dunkelsten
 dunkelhaarig adj
 dünn adj cmp=dünner sup=dünnsten
+dunstig adj cmp=dunstiger sup=dunstigsten
 durchgängig adj
 durchschnittlich adj
 durchsichtig adj cmp=durchsichtiger sup=durchsichtigsten

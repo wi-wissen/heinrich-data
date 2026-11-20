@@ -15,6 +15,7 @@ widrigenfalls adv
 wiederum adv
 wieviel adv note=old/variant spelling of wie viel; still frequent in literary texts
 wieweit adv
+wohlauf adv
 wohlweislich adv
 womöglich adv
 woraufhin adv type=rel

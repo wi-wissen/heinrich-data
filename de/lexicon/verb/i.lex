@@ -1,3 +1,4 @@
+idealisieren verb class=weak pp=idealisiert perf=haben
 identifizieren verb class=weak pp=identifiziert perf=haben refl=acc
 ignorieren verb class=weak pp=ignoriert perf=haben
 illustrieren verb class=weak pp=illustriert perf=haben

@@ -58,9 +58,11 @@ respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 restriktiv adj cmp=restriktiver sup=restriktivsten
 retrograd adj
+reuig adj cmp=reuiger sup=reuigsten
 reversibel adj
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rezent adj
+rezessiv adj
 rheinisch adj
 rheinland-pfälzisch adj
 rhetorisch adj
@@ -81,6 +83,7 @@ rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj
 rötlich adj
 royal adj
+ruchbar adj
 rückgängig adj
 rückläufig adj
 rückwärtig adj

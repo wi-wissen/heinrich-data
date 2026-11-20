@@ -2,6 +2,7 @@ Fabel noun g=f gen=Fabel pl=Fabeln
 Fabrik noun g=f gen=Fabrik pl=Fabriken
 Fabrikant noun g=m gen=Fabrikanten pl=Fabrikanten
 Fabrikantin noun g=f gen=Fabrikantin pl=Fabrikantinnen
+Fabrikat noun g=n gen=Fabrikats|Fabrikates pl=Fabrikate
 Fabrikation noun g=f gen=Fabrikation pl=Fabrikationen
 Facette noun g=f gen=Facette pl=Facetten
 Fach noun g=n gen=Fachs|Faches pl=Fächer
@@ -38,6 +39,7 @@ Fahrzeug noun g=n gen=Fahrzeugs|Fahrzeuges pl=Fahrzeuge
 Fairness noun g=f gen=Fairness pl=- note=no plural
 Fäkalien noun g=pl
 Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
+Fakir noun g=m gen=Fakirs pl=Fakire
 Faksimile noun g=n gen=Faksimiles pl=Faksimiles
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
 Faktor noun g=m gen=Faktors pl=Faktoren
@@ -51,6 +53,7 @@ Falkner noun g=m gen=Falkners pl=Falkner
 Fall noun g=m gen=Falles|Falls pl=Fälle
 Falle noun g=f gen=Falle pl=Fallen
 Fälligkeit noun g=f gen=Fälligkeit pl=Fälligkeiten
+Fälscher noun g=m gen=Fälschers pl=Fälscher
 Falschparker noun g=m gen=Falschparkers pl=Falschparker
 Falschparkerin noun g=f gen=Falschparkerin pl=Falschparkerinnen
 Fälschung noun g=f gen=Fälschung pl=Fälschungen
@@ -60,11 +63,13 @@ Familie noun g=f gen=Familie pl=Familien
 Fan noun g=m gen=Fans pl=Fans
 Fanatiker noun g=m gen=Fanatikers pl=Fanatiker
 Fanatismus noun g=m gen=Fanatismus pl=- note=mass noun
+Fandango noun g=m gen=Fandangos pl=Fandangos
 Fanfare noun g=f gen=Fanfare pl=Fanfaren
 Fang noun g=m gen=Fangs|Fanges pl=Fänge
 Fänger noun g=m gen=Fängers pl=Fänger
 Fanta noun g=f gen=Fanta pl=Fantas
 Fantasie noun g=f gen=Fantasie pl=Fantasien
+Fantast noun g=m gen=Fantasten pl=Fantasten
 Farad noun g=n gen=Farad|Farads pl=Farad note=unit of capacitance
 Farbe noun g=f gen=Farbe pl=Farben
 Färber noun g=m gen=Färbers pl=Färber
@@ -133,7 +138,9 @@ Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsbrocken noun g=m gen=Felsbrockens pl=Felsbrocken
 Felsen noun g=m gen=Felsens pl=Felsen
 Feminismus noun g=m gen=Feminismus pl=- note=mass noun
+Feminist noun g=m gen=Feministen pl=Feministen
 Feministin noun g=f gen=Feministin pl=Feministinnen
+Femur noun g=m gen=Femurs pl=Femora
 Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
 Fensterheber noun g=m gen=Fensterhebers pl=Fensterheber
@@ -171,6 +178,7 @@ Fett noun g=n gen=Fetts|Fettes pl=Fette
 Fetzen noun g=m gen=Fetzens pl=Fetzen
 Feuchte noun g=f gen=Feuchte pl=- note=moisture; mass noun
 Feuchtigkeit noun g=f gen=Feuchtigkeit pl=- note=no plural
+Feudalherr noun g=m gen=Feudalherrn pl=Feudalherren
 Feudalismus noun g=m gen=Feudalismus pl=- note=no plural
 Feuer noun g=n gen=Feuers pl=Feuer
 Feuerlöscher noun g=m gen=Feuerlöschers pl=Feuerlöscher
@@ -178,12 +186,14 @@ Feuersbrunst noun g=f gen=Feuersbrunst pl=Feuersbrünste
 Feuerung noun g=f gen=Feuerung pl=Feuerungen
 Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
+Feuerwerker noun g=m gen=Feuerwerkers pl=Feuerwerker
 Feuilleton noun g=n gen=Feuilletons pl=Feuilletons
 Fiaker noun g=m gen=Fiakers pl=Fiaker
 Fiale noun g=f gen=Fiale pl=Fialen
 Fiasko noun g=n gen=Fiaskos pl=Fiaskos
 Fibel noun g=f gen=Fibel pl=Fibeln
 Fichte noun g=f gen=Fichte pl=Fichten
+Fideikommiss noun g=m gen=Fideikommisses pl=Fideikommisse
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Fieder noun g=f gen=Fieder pl=Fiedern note=leaflet of a pinnate leaf
 Fiederblättchen noun g=n gen=Fiederblättchens pl=Fiederblättchen
@@ -203,6 +213,7 @@ Finale noun g=n gen=Finales pl=Finale|Finals
 Finalist noun g=m gen=Finalisten pl=Finalisten
 Finanz noun g=f gen=Finanz pl=Finanzen note=mostly in compounds (Finanzamt) and in the plural (die Finanzen)
 Finanzen noun g=pl
+Finanzier noun g=m gen=Finanziers pl=Finanziers
 Finanzierung noun g=f gen=Finanzierung pl=Finanzierungen
 Finder noun g=m gen=Finders pl=Finder
 Findling noun g=m gen=Findlings pl=Findlinge
@@ -223,6 +234,7 @@ Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
 Fischerei noun g=f gen=Fischerei pl=Fischereien
 Fischerin noun g=f gen=Fischerin pl=Fischerinnen
+Fiskalpolitik noun g=f gen=Fiskalpolitik pl=- note=no plural
 Fiskus noun g=m gen=Fiskus pl=Fiskusse|Fisken conf=80 note=des Fiskus; plural rarely used, both forms unsure
 Fitness noun g=f gen=Fitness pl=- note=mass noun
 Fittich noun g=m gen=Fittichs|Fittiches pl=Fittiche
@@ -417,6 +429,7 @@ Fremde noun g=m|f decl=adj
 Fremdling noun g=m gen=Fremdlings pl=Fremdlinge
 Frequenz noun g=f gen=Frequenz pl=Frequenzen
 Fresko noun g=n gen=Freskos pl=Fresken|Freskos
+Frettchen noun g=n gen=Frettchens pl=Frettchen
 Freude noun g=f gen=Freude pl=Freuden
 Freund noun g=m gen=Freundes|Freunds pl=Freunde
 Freundin noun g=f gen=Freundin pl=Freundinnen
@@ -440,9 +453,11 @@ Frist noun g=f gen=Frist pl=Fristen
 Fristsetzung noun g=f gen=Fristsetzung pl=Fristsetzungen
 Frisur noun g=f gen=Frisur pl=Frisuren
 Frömmigkeit noun g=f gen=Frömmigkeit pl=- note=no plural
+Fron noun g=f gen=Fron pl=Fronen
 Fronhof noun g=m gen=Fronhofs|Fronhofes pl=Fronhöfe
 Fronleichnam noun g=m gen=Fronleichnams pl=- note=no plural (mass or abstract noun)
 Front noun g=f gen=Front pl=Fronten
+Frontalangriff noun g=m gen=Frontalangriffs|Frontalangriffes pl=Frontalangriffe
 Frosch noun g=m gen=Frosches pl=Frösche
 Frost noun g=m gen=Frostes|Frosts pl=Fröste
 Frucht noun g=f gen=Frucht pl=Früchte
@@ -455,6 +470,7 @@ Frühstück noun g=n gen=Frühstücks pl=Frühstücke
 Frust noun g=m gen=Frusts|Frustes pl=- note=colloquial; mass noun
 Fuchs noun g=m gen=Fuchses pl=Füchse
 Fuchtel noun g=f gen=Fuchtel pl=Fuchteln note=unter der Fuchtel
+Fuder noun g=n gen=Fuders pl=Fuder
 Fug noun g=m gen=Fuges|Fugs pl=- conf=90 note=only in mit Fug und Recht
 Fuge noun g=f gen=Fuge pl=Fugen
 Fühler noun g=m gen=Fühlers pl=Fühler
@@ -469,6 +485,7 @@ Füller noun g=m gen=Füllers pl=Füller
 Füllung noun g=f gen=Füllung pl=Füllungen
 Fund noun g=m gen=Fundes|Funds pl=Funde
 Fundament noun g=n gen=Fundaments|Fundamentes pl=Fundamente
+Fundamentalist noun g=m gen=Fundamentalisten pl=Fundamentalisten
 Fundus noun g=m gen=Fundus pl=Fundus note=genitive and plural unchanged (des Fundus)
 Fünftel noun g=n gen=Fünftels pl=Fünftel
 Funk noun g=m gen=Funks pl=- note=no plural
@@ -502,3 +519,4 @@ Fußsteig noun g=m gen=Fußsteigs|Fußsteiges pl=Fußsteige
 Futter noun g=n gen=Futters pl=- note=no plural
 Futteral noun g=n gen=Futterals pl=Futterale
 Futur noun g=n gen=Futurs pl=Futura
+Futurismus noun g=m gen=Futurismus pl=- note=no plural

@@ -10,6 +10,7 @@ tapezieren verb class=weak pp=tapeziert perf=haben
 tappen verb class=weak pp=getappt perf=sein
 tapsen verb class=weak pp=getapst perf=sein
 tarieren verb class=weak pp=tariert perf=haben
+tarnen verb class=weak pp=getarnt perf=haben
 tasten verb class=weak pp=getastet perf=haben
 tätigen verb class=weak pp=getätigt perf=haben
 tauchen verb class=weak pp=getaucht perf=haben|sein
@@ -23,6 +24,8 @@ teilen verb class=weak pp=geteilt perf=haben
 teilhaben verb class=mixed sep=teil 3sg=teilhat past=teilhatte pp=teilgehabt subj2=teilhätte perf=haben
 teilnehmen verb class=strong sep=teil 3sg=teilnimmt past=teilnahm pp=teilgenommen subj2=teilnähme perf=haben
 telefonieren verb class=weak pp=telefoniert perf=haben
+telegrafieren verb class=weak pp=telegrafiert perf=haben
+telegraphieren verb class=weak pp=telegraphiert perf=haben
 terminieren verb class=weak pp=terminiert perf=haben
 testen verb class=weak pp=getestet perf=haben
 testieren verb class=weak pp=testiert perf=haben
@@ -57,6 +60,7 @@ transferieren verb class=weak pp=transferiert perf=haben
 transkribieren verb class=weak pp=transkribiert perf=haben
 transpirieren verb class=weak pp=transpiriert perf=haben
 transportieren verb class=weak pp=transportiert perf=haben
+trassieren verb class=weak pp=trassiert perf=haben
 tratschen verb class=weak pp=getratscht perf=haben
 trauen verb class=weak pp=getraut perf=haben refl=acc
 trauern verb class=weak pp=getrauert perf=haben
@@ -86,6 +90,7 @@ trüben verb class=weak pp=getrübt perf=haben refl=acc
 trügen verb class=strong 3sg=trügt past=trog pp=getrogen subj2=tröge perf=haben
 tuckern verb class=weak pp=getuckert perf=haben|sein
 tüfteln verb class=weak pp=getüftelt perf=haben
+tummeln verb class=weak pp=getummelt perf=haben refl=acc
 tun          verb class=strong pres=tue,tust,tut,tun,tut,tun past=tat pp=getan subj2=täte perf=haben
 tünchen verb class=weak pp=getüncht perf=haben
 turnen verb class=weak pp=geturnt perf=haben|sein

@@ -14,6 +14,7 @@ zeitgenössisch adj
 zeitig adj cmp=zeitiger sup=zeitigsten
 zeitlich adj
 zeitweilig adj
+zellulär adj
 zentral adj cmp=zentraler sup=zentralsten
 zerbrechlich adj cmp=zerbrechlicher sup=zerbrechlichsten
 zeremoniell adj
@@ -59,6 +60,7 @@ zweckmäßig adj cmp=zweckmäßiger sup=zweckmäßigsten
 zweckwidrig adj
 zweiachsig adj
 zweiatomig adj
+zweibändig adj
 zweideutig adj cmp=zweideutiger sup=zweideutigsten
 zweidimensional adj
 zweierlei adj indecl
@@ -67,6 +69,7 @@ zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweigeschossig adj
 zweigleisig adj
+zweihäusig adj note=botany
 zweimotorig adj
 zweisitzig adj
 zweisprachig adj
@@ -76,8 +79,11 @@ zweitgrößt adj attr_only note=superlative compound: die zweitgrößte Stadt
 zweitklassig adj
 zweitplatziert adj
 zweiwertig adj
+zweizellig adj
+zwiefach adj style=archaic
 zwischenzeitlich adj
 zwittrig adj note=variant zwitterig
 zygomorph adj
 zylindrisch adj
 zynisch adj cmp=zynischer sup=zynischsten
+zyprisch adj

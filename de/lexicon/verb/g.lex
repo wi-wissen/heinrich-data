@@ -1,3 +1,4 @@
+gabeln verb class=weak pp=gegabelt perf=haben
 gackern verb class=weak pp=gegackert perf=haben
 gaffen verb class=weak pp=gegafft perf=haben
 gähnen verb class=weak pp=gegähnt perf=haben
@@ -90,6 +91,7 @@ gönnen verb class=weak pp=gegönnt perf=haben
 googeln verb class=weak pp=gegoogelt perf=haben
 graben verb class=strong 3sg=gräbt past=grub pp=gegraben subj2=grübe perf=haben
 graduieren verb class=weak pp=graduiert perf=haben
+grämen verb class=weak pp=gegrämt perf=haben refl=acc
 grasen verb class=weak pp=gegrast perf=haben
 gratulieren verb class=weak pp=gratuliert perf=haben
 grauen verb class=weak pp=gegraut perf=haben note=es graut mir vor; der Morgen graut
@@ -104,6 +106,7 @@ grollen verb class=weak pp=gegrollt perf=haben
 großziehen verb class=strong sep=groß 3sg=großzieht past=großzog pp=großgezogen subj2=großzöge perf=haben
 grübeln verb class=weak pp=gegrübelt perf=haben
 gründen verb class=weak pp=gegründet perf=haben refl=acc
+grünen verb class=weak pp=gegrünt perf=haben
 grunzen verb class=weak pp=gegrunzt perf=haben
 gruseln verb class=weak pp=gegruselt perf=haben refl=acc
 grüßen verb class=weak pp=gegrüßt perf=haben

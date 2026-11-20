@@ -25,6 +25,7 @@ adäquat adj cmp=adäquater sup=adäquatesten
 adlig adj cmp=adliger sup=adligsten
 administrativ adj
 adult adj
+affektiv adj
 afghanisch adj
 afrikanisch adj
 afroamerikanisch adj
@@ -61,6 +62,7 @@ alljährlich adj
 allmählich adj
 allmälig adj spelling=old note=old spelling of allmählich
 allmonatlich adj
+allnächtlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
 alphabetisch adj
 alpin adj
@@ -71,6 +73,7 @@ altmodisch adj cmp=altmodischer sup=altmodischsten
 ambitioniert adj cmp=ambitionierter sup=ambitioniertesten
 ambulant adj
 amerikanisch adj
+amphibisch adj
 amtierend adj
 amtlich adj
 analog adj
@@ -108,10 +111,12 @@ antarktisch adj
 anteilig adj
 antik adj
 antisemitisch adj
+antizyklisch adj
 antragsgemäß adj
 anwendbar adj
 anwesend adj
 anzeigepflichtig adj
+apollinisch adj
 apostolisch adj
 appellativ adj
 appetitlich adj cmp=appetitlicher sup=appetitlichsten
@@ -126,6 +131,7 @@ argentinisch adj
 ärgerlich adj cmp=ärgerlicher sup=ärgerlichsten
 argumentativ adj
 arid adj
+arisch adj
 arithmetisch adj
 arktisch adj
 arm           adj cmp=ärmer sup=ärmsten

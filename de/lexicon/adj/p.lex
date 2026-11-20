@@ -1,3 +1,4 @@
+paarig adj
 pädagogisch adj
 pakistanisch adj
 palästinensisch adj
@@ -15,6 +16,7 @@ paritätisch adj
 parlamentarisch adj
 partiell adj
 passiv adj cmp=passiver sup=passivsten
+pastoral adj
 patriotisch adj cmp=patriotischer sup=patriotischsten
 patzig adj cmp=patziger sup=patzigsten
 pauschal adj
@@ -42,10 +44,12 @@ phantastisch adj cmp=phantastischer sup=phantastischsten note=variant spelling o
 pharmazeutisch adj
 philippinisch adj
 philosophisch adj
+phylogenetisch adj
 physikalisch adj
 physiologisch adj
 physisch adj
 pickelig adj cmp=pickeliger sup=pickeligsten
+piemontesisch adj
 pikant adj cmp=pikanter sup=pikantesten
 plangemäß adj
 plastisch adj cmp=plastischer sup=plastischsten
@@ -117,5 +121,6 @@ psychotherapeutisch adj
 publizistisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten
 punktuell adj
+purpurfarben adj
 putzig adj cmp=putziger sup=putzigsten
 pyrotechnisch adj

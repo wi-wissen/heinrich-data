@@ -15,6 +15,8 @@ kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
 kariert adj
 karolingisch adj
+kartesisch adj
+karthagisch adj
 kasachisch adj
 katalanisch adj
 katarisch adj
@@ -35,6 +37,7 @@ kindisch adj cmp=kindischer sup=kindischsten
 kindlich adj cmp=kindlicher sup=kindlichsten
 kinetisch adj
 kirchlich adj
+kirgisisch adj
 kläglich adj
 klar adj cmp=klarer sup=klarsten
 klasse adj indecl
@@ -42,6 +45,7 @@ klassisch adj
 klassizistisch adj
 klebrig adj cmp=klebriger sup=klebrigsten
 klein        adj cmp=kleiner sup=kleinsten
+kleinmütig adj cmp=kleinmütiger sup=kleinmütigsten
 klimatisch adj
 klinisch adj
 klug adj cmp=klüger sup=klügsten
@@ -64,6 +68,7 @@ kommunal adj
 kommunikativ adj cmp=kommunikativer sup=kommunikativsten
 kommunistisch adj
 kommutativ adj
+komödiantisch adj
 kompakt adj cmp=kompakter sup=kompaktesten
 kompatibel adj cmp=kompatibler sup=kompatibelsten
 kompetent adj cmp=kompetenter sup=kompetentesten
@@ -135,6 +140,7 @@ künstlich adj cmp=künstlicher sup=künstlichsten
 kunterbunt adj cmp=kunterbunter sup=kunterbuntesten
 kurdisch adj
 kurios adj cmp=kurioser sup=kuriosesten
+kurkölnisch adj
 kursiv adj
 kurz adj cmp=kürzer sup=kürzesten
 kurzfristig adj
@@ -144,3 +150,4 @@ kurzlebig adj cmp=kurzlebiger sup=kurzlebigsten
 kurzsichtig adj cmp=kurzsichtiger sup=kurzsichtigsten
 kurzzeitig adj
 kuschelig adj cmp=kuscheliger sup=kuscheligsten
+kyrillisch adj

@@ -5,7 +5,9 @@ hager adj cmp=hagerer sup=hagersten
 haitianisch adj
 halb         adj note=not compared; ein halber Liter
 halbkreisförmig adj
+hälftig adj
 hamburgisch adj
+hanebüchen adj
 hannoversch adj
 hansisch adj
 hären adj conf=80 note=rare, hären = of hair
@@ -17,6 +19,7 @@ hässlich adj cmp=hässlicher sup=hässlichsten
 hastig adj cmp=hastiger sup=hastigsten
 häufig adj cmp=häufiger sup=häufigsten
 hauptsächlich adj
+haushalterisch adj
 häuslich adj cmp=häuslicher sup=häuslichsten
 häutig adj
 hebräisch adj
@@ -35,6 +38,7 @@ heiter adj cmp=heiterer sup=heitersten
 hektisch adj cmp=hektischer sup=hektischsten
 hell adj cmp=heller sup=hellsten
 hellenistisch adj
+helvetisch adj
 heraldisch adj
 herb adj cmp=herber sup=herbsten
 herbstlich adj cmp=herbstlicher sup=herbstlichsten
@@ -42,9 +46,11 @@ herkömmlich adj
 heroisch adj cmp=heroischer sup=heroischsten
 herrisch adj cmp=herrischer sup=herrischsten
 herrlich adj cmp=herrlicher sup=herrlichsten
+herzförmig adj
 herzlich adj cmp=herzlicher sup=herzlichsten
 hessisch adj
 heterospor adj
+hethitisch adj
 heutig adj note=attributive only
 hierarchisch adj cmp=hierarchischer sup=hierarchischsten
 hiesig adj
@@ -60,6 +66,8 @@ hinter adj attr_only sup=hintersten note=der hintere Eingang, der hinterste Plat
 hinterhältig adj cmp=hinterhältiger sup=hinterhältigsten
 hinterlistig adj cmp=hinterlistiger sup=hinterlistigsten
 historisch adj
+historisierend adj
+historistisch adj
 hitzig adj cmp=hitziger sup=hitzigsten
 hoch         adj attr=hohe cmp=höher sup=höchsten
 hochgradig adj

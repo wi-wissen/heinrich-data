@@ -15,6 +15,7 @@ getrost adv
 gewissermaßen adv
 gleichauf adv
 gleichermaßen adv
+gleicherweise adv
 gleichfalls adv
 gleichsam adv
 gleichviel adv

@@ -72,6 +72,7 @@ beliebt adj cmp=beliebter sup=beliebtesten
 bemerkbar adj
 bemerkenswert adj cmp=bemerkenswerter sup=bemerkenswertesten
 benachbart adj
+beninisch adj
 bequem adj cmp=bequemer sup=bequemsten
 beredt adj cmp=beredter sup=beredtesten
 bereift adj
@@ -87,6 +88,7 @@ berühmt adj cmp=berühmter sup=berühmtesten
 beschaffen adj note=so beschaffen; the verb beschaffen is separate
 bescheiden adj cmp=bescheidener sup=bescheidensten
 bescheuert adj cmp=bescheuerter sup=bescheuertsten style=colloquial alt=dumm
+beschneit adj
 beschreibend adj
 beschwerlich adj
 besiegt adj
@@ -95,6 +97,7 @@ besonder      adj note=only declined forms (besondere, besonderer); the adverb i
 besorgt adj cmp=besorgter sup=besorgtesten
 bessergestellt adj
 beständig adj cmp=beständiger sup=beständigsten
+besterhalten adj
 bestimmungsgemäß adj
 bestmöglich adj
 bestplatziert adj
@@ -106,12 +109,16 @@ betrübt adj cmp=betrübter sup=betrübtesten
 betrügerisch adj
 betrunken adj cmp=betrunkener sup=betrunkensten
 bewährt adj cmp=bewährter sup=bewährtesten
+bewandt adj
 beweglich adj cmp=beweglicher sup=beweglichsten
+bewimpert adj
 bewölkt adj
 bewusst       adj cmp=bewusster sup=bewusstesten
 bezahlbar adj cmp=bezahlbarer sup=bezahlbarsten
 bezaubernd adj cmp=bezaubernder sup=bezauberndsten
+bezüglich adj
 biblisch adj
+bieder adj cmp=biederer sup=biedersten
 bijektiv adj
 bilateral adj
 bildlich adj cmp=bildlicher sup=bildlichsten
@@ -130,6 +137,7 @@ blass adj cmp=blasser|blässer sup=blassesten|blässesten
 blau adj cmp=blauer sup=blauesten
 blauäugig adj
 bläulich adj
+blechern adj
 bleich adj cmp=bleicher sup=bleichsten
 blind adj cmp=blinder sup=blindesten
 blöd adj cmp=blöder sup=blödesten style=colloquial alt=dumm
@@ -142,11 +150,14 @@ bockig adj cmp=bockiger sup=bockigsten
 böhmisch adj
 böig adj
 bolivianisch adj
+bolschewistisch adj
+boreal adj
 böse          adj cmp=böser sup=bösesten
 boshaft adj cmp=boshafter sup=boshaftesten
 bosnisch adj
 bosonisch adj
 botanisch adj
+botswanisch adj
 brandenburgisch adj
 brasilianisch adj
 braun         adj cmp=brauner sup=braunsten
@@ -160,6 +171,7 @@ britisch adj
 bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten
 brüderlich adj cmp=brüderlicher sup=brüderlichsten
+brünstig adj
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj
 buchstäblich adj
@@ -168,5 +180,6 @@ bulgarisch adj
 bundesweit adj
 bunt adj cmp=bunter sup=buntesten
 bürgerlich adj
+burkinisch adj
 bürokratisch adj cmp=bürokratischer sup=bürokratischsten
 byzantinisch adj

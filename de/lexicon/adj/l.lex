@@ -31,6 +31,7 @@ lebhaft adj cmp=lebhafter sup=lebhaftesten
 lecker adj cmp=leckerer sup=leckersten
 ledern adj
 ledig adj
+ledrig adj
 leer adj cmp=leerer sup=leersten
 legal adj
 legendär adj
@@ -65,7 +66,9 @@ liederlich adj cmp=liederlicher sup=liederlichsten
 lila         adj indecl
 linealisch adj note=botany
 linear adj
+linguistisch adj
 link adj attr_only note=attributive only; linke Hand
+linkisch adj cmp=linkischer sup=linkischsten
 linksseitig adj
 liquide adj cmp=liquider sup=liquidesten
 listig adj cmp=listiger sup=listigsten
@@ -83,6 +86,8 @@ lokal adj
 los adj note=predicative, e.g. etwas los sein
 lösbar adj
 löslich adj
+lothringisch adj
+loyal adj cmp=loyaler sup=loyalsten
 lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
 luftig adj cmp=luftiger sup=luftigsten
 lüstern adj cmp=lüsterner sup=lüsternsten

@@ -16,6 +16,7 @@ Dampf noun g=m gen=Dampfes|Dampfs pl=Dämpfe
 Dampfer noun g=m gen=Dampfers pl=Dampfer
 Dämpfer noun g=m gen=Dämpfers pl=Dämpfer
 Dampfmaschine noun g=f gen=Dampfmaschine pl=Dampfmaschinen
+Dandy noun g=m gen=Dandys pl=Dandys
 Däne noun g=m gen=Dänen pl=Dänen
 Dank          noun g=m gen=Dankes|Danks pl=- note=no plural
 Dankbarkeit noun g=f gen=Dankbarkeit pl=- note=no plural
@@ -59,13 +60,16 @@ Deckel noun g=m gen=Deckels pl=Deckel
 Deckung noun g=f gen=Deckung pl=Deckungen
 Deduktion noun g=f gen=Deduktion pl=Deduktionen
 Deeskalation noun g=f gen=Deeskalation pl=Deeskalationen
+Defensivspieler noun g=m gen=Defensivspielers pl=Defensivspieler
 Definition noun g=f gen=Definition pl=Definitionen
 Defizit noun g=n gen=Defizits pl=Defizite
+Deformation noun g=f gen=Deformation pl=Deformationen
 Degen noun g=m gen=Degens pl=Degen
 Deich noun g=m gen=Deichs|Deiches pl=Deiche
 Deichsel noun g=f gen=Deichsel pl=Deichseln
 Deindustrialisierung noun g=f gen=Deindustrialisierung pl=- note=no plural
 Dekade noun g=f gen=Dekade pl=Dekaden
+Dekadenz noun g=f gen=Dekadenz pl=- note=no plural
 Dekan noun g=m gen=Dekans pl=Dekane
 Dekanat noun g=n gen=Dekanats|Dekanates[rare] pl=Dekanate
 Dekanin noun g=f gen=Dekanin pl=Dekaninnen
@@ -81,10 +85,13 @@ Delegierte noun g=m|f decl=adj
 Delfin noun g=m gen=Delfins pl=Delfine
 Delikatesse noun g=f gen=Delikatesse pl=Delikatessen
 Delikt noun g=n gen=Delikts|Deliktes pl=Delikte
+Delinquent noun g=m gen=Delinquenten pl=Delinquenten
 Delirium noun g=n gen=Deliriums pl=Delirien
+Delisting noun g=n gen=Delistings pl=Delistings
 Delphin noun g=m gen=Delphins pl=Delphine
 Delta noun g=n gen=Deltas pl=Deltas|Delten[rare]
 Demagoge noun g=m gen=Demagogen pl=Demagogen
+Demagogie noun g=f gen=Demagogie pl=- note=no plural
 Demenz noun g=f gen=Demenz pl=Demenzen
 Demo noun g=f gen=Demo pl=Demos note=colloquial for Demonstration
 Demokrat noun g=m gen=Demokraten pl=Demokraten
@@ -106,6 +113,7 @@ Deo noun g=n gen=Deos pl=Deos
 Deodorant noun g=n gen=Deodorants pl=Deodorants|Deodorante
 Departement noun g=n gen=Departements pl=Departements|Departemente[CH] conf=75 note=French administrative unit; Swiss ministry
 Department noun g=n gen=Departments pl=Departments conf=75 note=university department
+Dependance noun g=f gen=Dependance pl=Dependancen
 Depesche noun g=f gen=Depesche pl=Depeschen
 Deponie noun g=f gen=Deponie pl=Deponien
 Deportation noun g=f gen=Deportation pl=Deportationen
@@ -133,6 +141,7 @@ Dessert noun g=n gen=Desserts pl=Desserts
 Destabilisierung noun g=f gen=Destabilisierung pl=Destabilisierungen
 Destillation noun g=f gen=Destillation pl=Destillationen
 Destillerie noun g=f gen=Destillerie pl=Destillerien
+Detachement noun g=n gen=Detachements pl=Detachements
 Detail noun g=n gen=Details pl=Details
 Detektiv noun g=m gen=Detektivs pl=Detektive
 Detektivin noun g=f gen=Detektivin pl=Detektivinnen
@@ -240,6 +249,7 @@ Diskus noun g=m gen=Diskus|Diskusses pl=Diskusse|Disken conf=80 note=plural unsu
 Diskussion    noun g=f gen=Diskussion pl=Diskussionen
 Diskuswerferin noun g=f gen=Diskuswerferin pl=Diskuswerferinnen
 Dispens noun g=m gen=Dispenses pl=Dispense conf=85 note=der Dispens; in church usage also die Dispens
+Dispersion noun g=f gen=Dispersion pl=Dispersionen
 Display noun g=n gen=Displays pl=Displays
 Disponent noun g=m gen=Disponenten pl=Disponenten
 Disponentin noun g=f gen=Disponentin pl=Disponentinnen
@@ -261,6 +271,7 @@ Diversität noun g=f gen=Diversität pl=- note=mass noun
 Diversity noun g=f gen=Diversity pl=- conf=85 note=English loanword; gender uncertain
 Dividende noun g=f gen=Dividende pl=Dividenden
 Division      noun g=f gen=Division pl=Divisionen
+Divisor noun g=m gen=Divisors pl=Divisoren
 Diwan noun g=m gen=Diwans pl=Diwane
 DJ noun g=m gen=DJs pl=DJs
 DM noun g=f gen=DM pl=DM|DMs note=Deutsche Mark
@@ -275,6 +286,7 @@ Dogmatik noun g=f gen=Dogmatik pl=Dogmatiken
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
 Doktorand noun g=m gen=Doktoranden pl=Doktoranden
+Doktorat noun g=n gen=Doktorats|Doktorates pl=Doktorate
 Doktorin noun g=f gen=Doktorin pl=Doktorinnen
 Doktrin noun g=f gen=Doktrin pl=Doktrinen
 Doku noun g=f gen=Doku pl=Dokus note=colloquial short for Dokumentation
@@ -300,6 +312,7 @@ Domino noun g=n gen=Dominos pl=Dominos
 Dominostein noun g=m gen=Dominosteins|Dominosteines pl=Dominosteine
 Domizil noun g=n gen=Domizils pl=Domizile
 Döner noun g=m gen=Döners pl=Döner
+Donjon noun g=m gen=Donjons pl=Donjons
 Donner noun g=m gen=Donners pl=- note=thunder; no plural
 Donnerstag    noun g=m gen=Donnerstags|Donnerstages pl=Donnerstage
 Doping noun g=n gen=Dopings pl=- note=no plural
@@ -337,6 +350,7 @@ Dramaturg noun g=m gen=Dramaturgen pl=Dramaturgen
 Dramaturgie noun g=f gen=Dramaturgie pl=Dramaturgien
 Dramaturgin noun g=f gen=Dramaturgin pl=Dramaturginnen
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
+Drangsal noun g=f gen=Drangsal pl=Drangsale
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
 Drehung noun g=f gen=Drehung pl=Drehungen
@@ -396,6 +410,7 @@ Dur noun g=n gen=Dur pl=- note=des Dur; no plural
 Durchbruch noun g=m gen=Durchbruchs|Durchbruches pl=Durchbrüche
 Durchführung  noun g=f gen=Durchführung pl=- note=no regular plural
 Durchgang noun g=m gen=Durchgangs|Durchganges pl=Durchgänge
+Durchlass noun g=m gen=Durchlasses pl=Durchlässe
 Durchlässigkeit noun g=f gen=Durchlässigkeit pl=- note=mass noun
 Durchlaucht noun g=f gen=Durchlaucht pl=Durchlauchten
 Durchmesser   noun g=m gen=Durchmessers pl=Durchmesser

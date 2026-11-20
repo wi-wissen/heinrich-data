@@ -1,5 +1,6 @@
 IBAN noun g=f gen=IBAN pl=IBANs note=International Bank Account Number
 ICE noun g=m gen=ICEs pl=ICEs
+Ichthyologe noun g=m gen=Ichthyologen pl=Ichthyologen
 Icon noun g=n gen=Icons pl=Icons
 Ideal noun g=n gen=Ideals pl=Ideale
 Idealismus noun g=m gen=Idealismus pl=- note=abstract noun; -ismus genitive
@@ -158,11 +159,13 @@ Institution noun g=f gen=Institution pl=Institutionen
 Instruktion noun g=f gen=Instruktion pl=Instruktionen
 Instrument noun g=n gen=Instruments|Instrumentes pl=Instrumente
 Instrumentalist noun g=m gen=Instrumentalisten pl=Instrumentalisten
+Instrumentalstück noun g=n gen=Instrumentalstücks|Instrumentalstückes pl=Instrumentalstücke
 Instrumentarium noun g=n gen=Instrumentariums pl=Instrumentarien
 Instrumentierung noun g=f gen=Instrumentierung pl=Instrumentierungen
 Insuffizienz noun g=f gen=Insuffizienz pl=Insuffizienzen
 Insulaner noun g=m gen=Insulaners pl=Insulaner
 Insulin noun g=n gen=Insulins pl=- note=mass noun
+Insurgent noun g=m gen=Insurgenten pl=Insurgenten
 Inszenierung noun g=f gen=Inszenierung pl=Inszenierungen
 Integral noun g=n gen=Integrals pl=Integrale
 Integration noun g=f gen=Integration pl=- note=plural not used
@@ -177,7 +180,9 @@ Intensität noun g=f gen=Intensität pl=Intensitäten
 Intensivierung noun g=f gen=Intensivierung pl=Intensivierungen
 Intention noun g=f gen=Intention pl=Intentionen
 Intercity noun g=m gen=Intercitys pl=Intercitys
+Interdikt noun g=n gen=Interdikts|Interdiktes pl=Interdikte
 Interesse noun g=n gen=Interesses pl=Interessen
+Interferenz noun g=f gen=Interferenz pl=Interferenzen
 Interieur noun g=n gen=Interieurs pl=Interieurs|Interieure
 Interjektion noun g=f gen=Interjektion pl=Interjektionen
 Interleukin noun g=n gen=Interleukins pl=Interleukine
@@ -198,6 +203,8 @@ Interpunktion noun g=f gen=Interpunktion pl=- note=no plural
 Intervall noun g=n gen=Intervalls pl=Intervalle
 Intervention noun g=f gen=Intervention pl=Interventionen
 Interview noun g=n gen=Interviews pl=Interviews
+Intifada noun g=f gen=Intifada pl=- note=no plural
+Intimsphäre noun g=f gen=Intimsphäre pl=Intimsphären
 Intranet noun g=n gen=Intranets pl=Intranets
 Intrige noun g=f gen=Intrige pl=Intrigen
 Intro noun g=n gen=Intros pl=Intros
@@ -229,6 +236,7 @@ Islam noun g=m gen=Islam|Islams pl=- note=des Islam(s); no plural
 Islamismus noun g=m gen=Islamismus pl=- note=mass noun
 Isländer noun g=m gen=Isländers pl=Isländer
 Isolation noun g=f gen=Isolation pl=Isolationen
+Isolator noun g=m gen=Isolators pl=Isolatoren
 Isomatte noun g=f gen=Isomatte pl=Isomatten
 Isomer noun g=n gen=Isomers pl=Isomere
 Isomorphismus noun g=m gen=Isomorphismus pl=Isomorphismen
@@ -241,5 +249,6 @@ Italiener noun g=m gen=Italieners pl=Italiener
 Italienerin noun g=f gen=Italienerin pl=Italienerinnen
 Italienisch noun g=n gen=Italienisch|Italienischs pl=- note=language name; no plural
 Italienreise noun g=f gen=Italienreise pl=Italienreisen note=the analyser does not join place names as modifiers
+Italowestern noun g=m gen=Italowesterns pl=Italowestern
 Iteration noun g=f gen=Iteration pl=Iterationen
 IWF noun g=m gen=IWF pl=- note=Internationaler Währungsfonds

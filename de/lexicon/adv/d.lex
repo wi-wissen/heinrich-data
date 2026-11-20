@@ -19,6 +19,7 @@ derentwillen adv note=um derentwillen
 dergestalt adv type=manner
 dermaßen adv
 derweil adv type=time
+dessentwillen adv note=um dessentwillen
 diesmal       adv type=time
 dorther adv
 drein adv type=direction style=colloquial
@@ -26,5 +27,6 @@ dritt adv note=only in zu dritt
 droben adv type=place style=archaic
 drüben adv
 drunten adv type=place style=archaic
+durchgehends adv
 durchweg adv type=degree
 durchwegs adv region=AT

@@ -1,3 +1,4 @@
+nachgewiesenermaßen adv
 nachmals adv style=archaic
 nächstens adv
 nachweislich adv
@@ -22,3 +23,4 @@ normalerweise adv
 nötigenfalls adv
 notwendigerweise adv
 nunmehr adv
+nurmehr adv

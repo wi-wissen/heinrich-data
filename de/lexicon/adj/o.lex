@@ -9,6 +9,7 @@ obig adj attr_only note=die obige Adresse
 objektiv adj cmp=objektiver sup=objektivsten
 obligatorisch adj
 obsolet adj
+ockerfarben adj
 öde adj cmp=öder sup=ödesten
 offen adj attr=offene|offne[rare] cmp=offener sup=offensten
 offenbar adj
@@ -28,6 +29,7 @@ oldenburgisch adj
 olympisch adj
 online adj indecl
 operativ adj
+opportun adj cmp=opportuner sup=opportunsten
 oppositionell adj
 optimal adj
 optimistisch adj cmp=optimistischer sup=optimistischsten
@@ -35,6 +37,7 @@ optisch adj
 oral adj
 orange adj
 ordentlich adj cmp=ordentlicher sup=ordentlichsten
+ordinär adj cmp=ordinärer sup=ordinärsten
 ordnungsgemäß adj
 ordnungswidrig adj
 organisatorisch adj
@@ -45,6 +48,7 @@ originär adj
 originell adj cmp=origineller sup=originellsten
 orographisch adj
 orthodox adj cmp=orthodoxer sup=orthodoxesten
+orthogonal adj
 orthostatisch adj
 örtlich adj
 osmanisch adj

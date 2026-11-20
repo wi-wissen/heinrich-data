@@ -12,6 +12,7 @@ insgeheim adv type=manner
 insgesamt adv
 instand adv note=instand halten/setzen
 interessanterweise adv
+interimsweise adv
 irgend adv
 irgendwoher adv
 irgendwohin adv

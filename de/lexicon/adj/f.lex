@@ -80,6 +80,7 @@ fotografisch adj
 fragil adj cmp=fragiler sup=fragilsten
 fraglich adj
 fränkisch adj
+frankophon adj
 französisch adj
 französischsprachig adj
 frech adj cmp=frecher sup=frechsten
@@ -117,3 +118,4 @@ fürchterlich adj cmp=fürchterlicher sup=fürchterlichsten
 fürsorglich adj cmp=fürsorglicher sup=fürsorglichsten
 fürstlich adj
 fußballerisch adj
+futuristisch adj cmp=futuristischer sup=futuristischsten

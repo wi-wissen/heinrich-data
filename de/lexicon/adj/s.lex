@@ -65,6 +65,8 @@ schmalkaldisch adj note=der Schmalkaldische Bund
 schmalspurig adj
 schmerzhaft adj cmp=schmerzhafter sup=schmerzhaftesten
 schmerzlich adj cmp=schmerzlicher sup=schmerzlichsten
+schmierig adj cmp=schmieriger sup=schmierigsten
+schmuck adj cmp=schmucker sup=schmucksten
 schmutzig adj cmp=schmutziger sup=schmutzigsten
 schneebedeckt adj
 schnell adj cmp=schneller sup=schnellsten
@@ -107,6 +109,7 @@ schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
+sechsteilig adj
 sechstgrößt adj attr_only note=superlative compound: die sechstgrößte Stadt
 sechziger adj indecl note=die sechziger Jahre
 seelisch adj
@@ -132,6 +135,7 @@ separat adj
 serbisch adj
 serbokroatisch adj
 seriös adj cmp=seriöser sup=seriösesten
+serologisch adj
 sesshaft adj cmp=sesshafter sup=sesshaftesten
 sexuell adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
@@ -141,7 +145,9 @@ siebziger adj indecl note=die siebziger Jahre
 siegreich adj
 signifikant adj cmp=signifikanter sup=signifikantesten
 silbern adj
+simbabwisch adj
 simultan adj
+sinfonisch adj
 singapurisch adj
 sinngemäß adj
 sinnlos adj cmp=sinnloser sup=sinnlosesten
@@ -179,6 +185,7 @@ sozial adj
 sozialistisch adj
 sozialversicherungspflichtig adj
 spanisch adj
+spanischsprachig adj
 spannend adj cmp=spannender sup=spannendsten
 spärlich adj cmp=spärlicher sup=spärlichsten
 sparsam adj cmp=sparsamer sup=sparsamsten

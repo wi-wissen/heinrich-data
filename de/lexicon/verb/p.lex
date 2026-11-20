@@ -30,6 +30,7 @@ pflastern verb class=weak pp=gepflastert perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 pflücken verb class=weak pp=gepflückt perf=haben
 pflügen verb class=weak pp=gepflügt perf=haben
+picken verb class=weak pp=gepickt perf=haben
 pieksen verb class=weak pp=gepiekst perf=haben style=colloquial
 piepen verb class=weak pp=gepiept perf=haben
 piepsen verb class=weak pp=gepiepst perf=haben

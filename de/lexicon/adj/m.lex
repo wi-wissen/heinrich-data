@@ -2,6 +2,7 @@ mächtig adj cmp=mächtiger sup=mächtigsten
 mager adj cmp=magerer sup=magersten
 magisch adj
 magnetisch adj
+mählich adj style=archaic
 majestätisch adj cmp=majestätischer sup=majestätischsten
 makedonisch adj
 malaysisch adj
@@ -24,6 +25,7 @@ maschinell adj
 maßgeblich adj
 mäßig adj cmp=mäßiger sup=mäßigsten
 massenhaft adj
+massig adj cmp=massiger sup=massigsten
 massiv adj cmp=massiver sup=massivsten
 materiell adj
 mathematisch adj
@@ -41,6 +43,7 @@ mehrfach adj
 mehrheitlich adj
 mehrjährig adj
 mehrmonatig adj
+meistbesucht adj
 meistverkauft adj
 melancholisch adj cmp=melancholischer sup=melancholischsten
 meldepflichtig adj
@@ -63,6 +66,7 @@ minderjährig adj
 mindest adj attr_only note=superlative of wenig in the phrases das mindeste, nicht im mindesten
 mineralisch adj
 minimal adj
+minimalistisch adj cmp=minimalistischer sup=minimalistischsten
 minütig adj note=mostly in compounds with numerals (zehnminütig, 90-minütige)
 miserabel adj cmp=miserabler sup=miserabelsten
 missbräuchlich adj
@@ -83,12 +87,15 @@ modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten
 möglich adj cmp=möglicher sup=möglichsten
 mohammedanisch adj style=archaic
+moldauisch adj
 mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj
+monarchistisch adj
 monatlich adj
 mongolisch adj
 monomer adj
+monophyletisch adj
 montan adj
 montenegrinisch adj
 monumental adj
@@ -109,6 +116,7 @@ mündig adj
 mündlich adj
 munter adj cmp=munterer sup=muntersten
 mürrisch adj cmp=mürrischer sup=mürrischsten
+museal adj
 müßig adj cmp=müßiger sup=müßigsten
 musikalisch adj
 musisch adj

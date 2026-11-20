@@ -22,6 +22,7 @@ erfahrungsgemäß adv
 erforderlichenfalls adv
 erfreulicherweise adv
 ergo adv
+erstaunlicherweise adv
 erstlich adv style=archaic note=firstly
 erstmals adv type=time
 erwiesenermaßen adv

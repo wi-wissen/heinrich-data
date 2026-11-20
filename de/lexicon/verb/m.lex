@@ -8,6 +8,7 @@ malen verb class=weak pp=gemalt perf=haben
 malochen verb class=weak pp=malocht perf=haben style=colloquial alt=arbeiten note=stress on the second syllable, so no ge- (malocht)
 mampfen verb class=weak pp=gemampft perf=haben style=colloquial alt=essen
 managen verb class=weak pp=gemanagt perf=haben
+mandatieren verb class=weak pp=mandatiert perf=haben
 mangeln verb class=weak pp=gemangelt perf=haben note=es mangelt an
 manifestieren verb class=weak pp=manifestiert perf=haben refl=acc
 manipulieren verb class=weak pp=manipuliert perf=haben
@@ -36,6 +37,7 @@ messen verb class=strong 3sg=misst past=maß pp=gemessen subj2=mäße perf=haben
 miauen verb class=weak pp=miaut perf=haben note=Partizip II without ge- (stress on the second syllable)
 mieten verb class=weak pp=gemietet perf=haben
 mildern verb class=weak pp=gemildert perf=haben
+mimen verb class=weak pp=gemimt perf=haben
 mindern verb class=weak pp=gemindert perf=haben refl=acc
 minimieren verb class=weak pp=minimiert perf=haben
 mischen verb class=weak pp=gemischt perf=haben refl=acc
@@ -43,10 +45,12 @@ missachten verb class=weak pp=missachtet perf=haben
 missbrauchen verb class=weak pp=missbraucht perf=haben
 missen verb class=weak pp=gemisst perf=haben
 missfallen verb class=strong 3sg=missfällt past=missfiel subj2=missfiele pp=missfallen perf=haben
+missglücken verb class=weak pp=missglückt perf=sein
 misshandeln verb class=weak pp=misshandelt perf=haben
 misslingen verb class=strong 3sg=misslingt past=misslang pp=misslungen subj2=misslänge perf=sein
 misstrauen verb class=weak pp=misstraut perf=haben
 missverstehen verb class=strong 3sg=missversteht past=missverstand subj2=missverstände|missverstünde pp=missverstanden perf=haben
+mitansehen verb class=strong sep=mitan 3sg=mitansieht past=mitansah pp=mitangesehen subj2=mitansähe perf=haben
 mitarbeiten verb class=weak sep=mit pp=mitgearbeitet perf=haben
 mitbekommen verb class=strong sep=mit 3sg=mitbekommt past=mitbekam pp=mitbekommen subj2=mitbekäme perf=haben
 mitberücksichtigen verb class=weak sep=mit pp=mitberücksichtigt perf=haben conf=90 note=also written mit berücksichtigen

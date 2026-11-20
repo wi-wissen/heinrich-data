@@ -118,6 +118,7 @@ rempeln verb class=weak pp=gerempelt perf=haben
 renaturieren verb class=weak pp=renaturiert perf=haben
 rennen verb class=mixed 3sg=rennt past=rannte pp=gerannt subj2=rennte perf=sein|haben
 renovieren verb class=weak pp=renoviert perf=haben
+reorganisieren verb class=weak pp=reorganisiert perf=haben
 reparieren verb class=weak pp=repariert perf=haben
 repräsentieren verb class=weak pp=repräsentiert perf=haben
 reservieren verb class=weak pp=reserviert perf=haben
@@ -128,8 +129,10 @@ restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben
 resümieren verb class=weak pp=resümiert perf=haben
 retten verb class=weak pp=gerettet perf=haben
+reuen verb class=weak pp=gereut perf=haben
 revidieren verb class=weak pp=revidiert perf=haben
 revoltieren verb class=weak pp=revoltiert perf=haben
+revolutionieren verb class=weak pp=revolutioniert perf=haben
 rezensieren verb class=weak pp=rezensiert perf=haben
 rezipieren verb class=weak pp=rezipiert perf=haben
 rezitieren verb class=weak pp=rezitiert perf=haben
@@ -207,6 +210,7 @@ runtertragen verb class=strong sep=runter 3sg=runterträgt past=runtertrug subj2
 runterwerfen verb class=strong sep=runter 3sg=runterwirft past=runterwarf subj2=runterwürfe pp=runtergeworfen perf=haben
 runterziehen verb class=strong sep=runter 3sg=runterzieht past=runterzog pp=runtergezogen subj2=runterzöge perf=haben
 runzeln verb class=weak pp=gerunzelt perf=haben
+rupfen verb class=weak pp=gerupft perf=haben
 rüsten verb class=weak pp=gerüstet perf=haben refl=acc
 rutschen verb class=weak pp=gerutscht perf=sein
 rütteln verb class=weak pp=gerüttelt perf=haben

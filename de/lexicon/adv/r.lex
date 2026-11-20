@@ -1,6 +1,7 @@
 ran adv type=direction style=colloquial alt=heran note=short for heran
 rauf adv type=direction style=colloquial alt=herauf|hinauf note=short for herauf/hinauf
 raus adv type=direction style=colloquial alt=heraus|hinaus note=short for heraus/hinaus
+rechtens adv
 richtigerweise adv
 rings adv type=place
 ringsum adv type=place

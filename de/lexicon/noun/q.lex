@@ -23,7 +23,9 @@ Quartär noun g=n gen=Quartärs pl=- note=geological period
 Quartett noun g=n gen=Quartetts|Quartettes pl=Quartette
 Quartier noun g=n gen=Quartiers pl=Quartiere
 Quarz noun g=m gen=Quarzes pl=Quarze
+Quarzit noun g=m gen=Quarzits pl=Quarzite
 Quatsch noun g=m gen=Quatsches|Quatschs pl=- style=colloquial alt=Unsinn note=mass noun; colloquial
+Qubit noun g=n gen=Qubits pl=Qubits
 Quecksilber noun g=n gen=Quecksilbers pl=- note=mass noun
 Quell noun g=m gen=Quells|Quelles pl=- conf=85 note=poetic variant of Quelle; plural not attested
 Quelle noun g=f gen=Quelle pl=Quellen

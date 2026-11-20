@@ -115,6 +115,7 @@ einpflanzen verb class=weak pp=eingepflanzt perf=haben sep=ein
 einpflegen verb class=weak sep=ein pp=eingepflegt perf=haben
 einplanen verb class=weak sep=ein pp=eingeplant perf=haben
 einprägen verb class=weak sep=ein pp=eingeprägt perf=haben
+einpreisen verb class=weak sep=ein pp=eingepreist perf=haben
 einquartieren verb class=weak sep=ein pp=einquartiert perf=haben
 einrahmen verb class=weak sep=ein pp=eingerahmt perf=haben
 einrasten verb class=weak sep=ein pp=eingerastet perf=sein
@@ -282,6 +283,7 @@ entlasten verb class=weak pp=entlastet perf=haben
 entlaufen verb class=strong 3sg=entläuft past=entlief pp=entlaufen subj2=entliefe perf=sein
 entlehnen verb class=weak pp=entlehnt perf=haben
 entleihen verb class=strong 3sg=entleiht past=entlieh pp=entliehen subj2=entliehe perf=haben
+entlocken verb class=weak pp=entlockt perf=haben
 entlohnen verb class=weak pp=entlohnt perf=haben
 entmutigen verb class=weak pp=entmutigt perf=haben
 entnehmen verb class=strong 3sg=entnimmt past=entnahm pp=entnommen subj2=entnähme perf=haben
@@ -289,6 +291,7 @@ entpacken verb class=weak pp=entpackt perf=haben
 entpuppen verb class=weak pp=entpuppt perf=haben refl=acc
 entreißen verb class=strong 3sg=entreißt past=entriss pp=entrissen subj2=entrisse perf=haben
 entrichten verb class=weak pp=entrichtet perf=haben
+entringen verb class=strong 3sg=entringt past=entrang pp=entrungen subj2=entränge perf=haben
 entrinnen verb class=strong 3sg=entrinnt past=entrann pp=entronnen subj2=entränne|entrönne[rare] perf=sein
 entrücken verb class=weak pp=entrückt perf=haben pp_cmp
 entrümpeln verb class=weak pp=entrümpelt perf=haben
@@ -349,6 +352,7 @@ erbosen verb class=weak pp=erbost perf=haben refl=acc
 erbrechen verb class=strong 3sg=erbricht past=erbrach pp=erbrochen subj2=erbräche perf=haben refl=acc
 erbringen verb class=mixed 3sg=erbringt past=erbrachte pp=erbracht subj2=erbrächte perf=haben
 erdenken verb class=mixed 3sg=erdenkt past=erdachte pp=erdacht subj2=erdächte perf=haben
+erdichten verb class=weak pp=erdichtet perf=haben
 erdolchen verb class=weak pp=erdolcht perf=haben
 erdrosseln verb class=weak pp=erdrosselt perf=haben
 erdulden verb class=weak pp=erduldet perf=haben
@@ -356,7 +360,9 @@ ereignen verb class=weak pp=ereignet perf=haben refl=acc
 ereilen verb class=weak pp=ereilt perf=haben
 erfahren verb class=strong 3sg=erfährt past=erfuhr pp=erfahren subj2=erführe perf=haben
 erfassen verb class=weak pp=erfasst perf=haben
+erfechten verb class=strong 3sg=erficht past=erfocht pp=erfochten subj2=erföchte perf=haben
 erfinden verb class=strong 3sg=erfindet past=erfand pp=erfunden subj2=erfände perf=haben
+erflehen verb class=weak pp=erfleht perf=haben
 erfolgen verb class=weak pp=erfolgt perf=sein
 erfordern verb class=weak pp=erfordert perf=haben
 erforschen verb class=weak pp=erforscht perf=haben
@@ -381,6 +387,7 @@ erhalten verb class=strong 3sg=erhält past=erhielt pp=erhalten subj2=erhielte p
 erhängen verb class=weak pp=erhängt perf=haben refl=acc
 erhaschen verb class=weak pp=erhascht perf=haben
 erheben verb class=strong refl=acc 3sg=erhebt past=erhob|erhub[archaic] pp=erhoben subj2=erhöbe|erhübe[archaic] perf=haben
+erheischen verb class=weak pp=erheischt perf=haben
 erheitern verb class=weak pp=erheitert perf=haben
 erhellen verb class=weak pp=erhellt perf=haben
 erhitzen verb class=weak pp=erhitzt perf=haben
@@ -527,6 +534,7 @@ erzittern verb class=weak pp=erzittert perf=sein
 erzürnen verb class=weak pp=erzürnt perf=haben
 erzwingen verb class=strong 3sg=erzwingt past=erzwang subj2=erzwänge pp=erzwungen perf=haben
 eskalieren verb class=weak pp=eskaliert perf=haben|sein note=die Lage ist eskaliert; einen Konflikt eskaliert haben
+eskortieren verb class=weak pp=eskortiert perf=haben
 essen verb class=strong 3sg=isst past=aß pp=gegessen subj2=äße perf=haben
 etablieren verb class=weak refl=acc pp=etabliert perf=haben
 etatisieren verb class=weak pp=etatisiert perf=haben
@@ -539,3 +547,4 @@ experimentieren verb class=weak pp=experimentiert perf=haben
 explodieren verb class=weak pp=explodiert perf=sein
 exponieren verb class=weak pp=exponiert perf=haben pp_cmp note=die exponierteste Lage
 exportieren verb class=weak pp=exportiert perf=haben
+exprimieren verb class=weak pp=exprimiert perf=haben

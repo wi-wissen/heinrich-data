@@ -28,6 +28,7 @@ Bahn          noun g=f gen=Bahn pl=Bahnen
 Bahnhof noun g=m gen=Bahnhofs|Bahnhofes pl=Bahnhöfe
 Bahnsteig noun g=m gen=Bahnsteigs|Bahnsteiges pl=Bahnsteige
 Bahre noun g=f gen=Bahre pl=Bahren
+Bajazzo noun g=m gen=Bajazzos pl=Bajazzos
 Bajonett noun g=n gen=Bajonetts|Bajonettes pl=Bajonette
 Bakterie noun g=f gen=Bakterie pl=Bakterien
 Bakteriologe noun g=m gen=Bakteriologen pl=Bakteriologen
@@ -57,6 +58,8 @@ Banane noun g=f gen=Banane pl=Bananen
 Band          noun g=m gen=Bandes|Bands pl=Bände sense=volume
 Band          noun g=n gen=Bandes|Bands pl=Bänder|Bande[rare] sense=ribbon
 Band          noun g=f gen=Band pl=Bands sense=music_group
+Bandage noun g=f gen=Bandage pl=Bandagen
+Bänderung noun g=f gen=Bänderung pl=Bänderungen
 Bandit noun g=m gen=Banditen pl=Banditen
 Bändchen noun g=n gen=Bändchens pl=Bändchen
 Bandleader noun g=m gen=Bandleaders pl=Bandleader
@@ -90,6 +93,7 @@ Bärlapp noun g=m gen=Bärlapps pl=Bärlappe
 Bärlapppflanze noun g=f gen=Bärlapppflanze pl=Bärlapppflanzen
 Barmherzigkeit noun g=f gen=Barmherzigkeit pl=- note=no plural
 Barock noun g=n|m gen=Barocks|Barock pl=- note=epoch; das/der Barock
+Barockisierung noun g=f gen=Barockisierung pl=Barockisierungen
 Barometer noun g=n gen=Barometers pl=Barometer
 Baron         noun g=m gen=Barons pl=Barone
 Baroness noun g=f gen=Baroness pl=Baronessen
@@ -283,6 +287,7 @@ Belegung noun g=f gen=Belegung pl=Belegungen
 Belehrung noun g=f gen=Belehrung pl=Belehrungen
 Beleidigung noun g=f gen=Beleidigung pl=Beleidigungen
 Beleihung noun g=f gen=Beleihung pl=Beleihungen
+Beletage noun g=f gen=Beletage pl=Beletagen
 Beleuchter noun g=m gen=Beleuchters pl=Beleuchter
 Beleuchtung noun g=f gen=Beleuchtung pl=Beleuchtungen
 Belgier noun g=m gen=Belgiers pl=Belgier
@@ -319,6 +324,7 @@ Bequemlichkeit noun g=f gen=Bequemlichkeit pl=Bequemlichkeiten
 Berater noun g=m gen=Beraters pl=Berater
 Beraterin noun g=f gen=Beraterin pl=Beraterinnen
 Beratung      noun g=f gen=Beratung pl=Beratungen
+Berber noun g=m gen=Berbers pl=Berber
 Berechnung    noun g=f gen=Berechnung pl=Berechnungen
 Berechtigte noun g=m|f decl=adj note=die Berechtigten
 Berechtigung noun g=f gen=Berechtigung pl=Berechtigungen
@@ -430,6 +436,7 @@ Bestrahlung noun g=f gen=Bestrahlung pl=Bestrahlungen
 Bestreben noun g=n gen=Bestrebens pl=- note=no plural
 Bestrebung noun g=f gen=Bestrebung pl=Bestrebungen
 Bestseller noun g=m gen=Bestsellers pl=Bestseller
+Bestuhlung noun g=f gen=Bestuhlung pl=Bestuhlungen
 Bestzeit noun g=f gen=Bestzeit pl=Bestzeiten
 Besuch        noun g=m gen=Besuchs|Besuches pl=Besuche
 Besucher noun g=m gen=Besuchers pl=Besucher
@@ -466,6 +473,7 @@ Bett          noun g=n gen=Bettes|Betts pl=Betten
 Bettchen noun g=n gen=Bettchens pl=Bettchen
 Bettler noun g=m gen=Bettlers pl=Bettler
 Bettlerin noun g=f gen=Bettlerin pl=Bettlerinnen
+Bettstatt noun g=f gen=Bettstatt pl=Bettstätten
 Beule noun g=f gen=Beule pl=Beulen
 Beurlaubung noun g=f gen=Beurlaubung pl=Beurlaubungen
 Beurteilung noun g=f gen=Beurteilung pl=Beurteilungen
@@ -488,6 +496,7 @@ Bewerberin noun g=f gen=Bewerberin pl=Bewerberinnen
 Bewerbung noun g=f gen=Bewerbung pl=Bewerbungen
 Bewertung     noun g=f gen=Bewertung pl=Bewertungen
 Bewilligung noun g=f gen=Bewilligung pl=Bewilligungen
+Bewirtschafter noun g=m gen=Bewirtschafters pl=Bewirtschafter
 Bewirtschaftung noun g=f gen=Bewirtschaftung pl=- note=no plural
 Bewirtung noun g=f gen=Bewirtung pl=Bewirtungen
 Bewohner      noun g=m gen=Bewohners pl=Bewohner
@@ -546,6 +555,7 @@ Binse noun g=f gen=Binse pl=Binsen
 Bio noun g=f gen=Bio pl=- note=short for Biologie (colloquial) and organic food (Bio kaufen); not marked because of the neutral sense
 Biodiversität noun g=f gen=Biodiversität pl=- note=no plural
 Biografie noun g=f gen=Biografie pl=Biografien
+Biografin noun g=f gen=Biografin pl=Biografinnen
 Biographie noun g=f gen=Biographie pl=Biographien
 Biologe noun g=m gen=Biologen pl=Biologen
 Biologie noun g=f gen=Biologie pl=- note=mass noun
@@ -555,6 +565,7 @@ Biomüll noun g=m gen=Biomülls pl=- note=no plural
 BIOS noun g=n gen=BIOS pl=- note=Basic Input/Output System
 Biosphäre noun g=f gen=Biosphäre pl=Biosphären
 Biotop noun g=n|m gen=Biotops pl=Biotope
+Biozid noun g=n gen=Biozids|Biozides pl=Biozide
 BIP noun g=n gen=BIP|BIPs pl=- note=Bruttoinlandsprodukt
 Birke noun g=f gen=Birke pl=Birken
 Birne noun g=f gen=Birne pl=Birnen
@@ -571,6 +582,7 @@ Bitterkeit noun g=f gen=Bitterkeit pl=- note=no plural
 Bitternis noun g=f gen=Bitternis pl=Bitternisse
 Bittsteller noun g=m gen=Bittstellers pl=Bittsteller
 Bitumen noun g=n gen=Bitumens pl=Bitumen
+Biwak noun g=n gen=Biwaks pl=Biwaks|Biwake
 Blamage noun g=f gen=Blamage pl=Blamagen
 Blänke noun g=f gen=Blänke pl=Blänken conf=70 note=rare, regional
 Blankvers noun g=m gen=Blankverses pl=Blankverse
@@ -649,6 +661,7 @@ Bonität noun g=f gen=Bonität pl=Bonitäten
 Bonner noun g=m gen=Bonners pl=Bonner note=inhabitant of Bonn
 Bonsai noun g=m gen=Bonsais pl=Bonsais
 Bonus noun g=m gen=Bonus|Bonusses pl=Bonusse|Boni
+Bonustrack noun g=m gen=Bonustracks pl=Bonustracks
 Boom noun g=m gen=Booms pl=Booms
 Booster noun g=m gen=Boosters pl=Booster
 Boot          noun g=n gen=Bootes|Boots pl=Boote
@@ -661,6 +674,7 @@ Borke noun g=f gen=Borke pl=Borken
 Born noun g=m gen=Borns|Bornes pl=Borne conf=85 note=poetic: spring, well
 Börse noun g=f gen=Börse pl=Börsen
 Borste noun g=f gen=Borste pl=Borsten
+Borte noun g=f gen=Borte pl=Borten
 Böschung noun g=f gen=Böschung pl=Böschungen
 Bösewicht noun g=m gen=Bösewichts|Bösewichtes pl=Bösewichte
 Bosheit noun g=f gen=Bosheit pl=Bosheiten
@@ -676,12 +690,15 @@ Botschaft     noun g=f gen=Botschaft pl=Botschaften
 Botschafter noun g=m gen=Botschafters pl=Botschafter
 Botschafterin noun g=f gen=Botschafterin pl=Botschafterinnen
 Böttcher noun g=m gen=Böttchers pl=Böttcher
+Boulevard noun g=m gen=Boulevards pl=Boulevards
 Boulevardpresse noun g=f gen=Boulevardpresse pl=- note=no plural
+Boulevardzeitung noun g=f gen=Boulevardzeitung pl=Boulevardzeitungen
 Boutique noun g=f gen=Boutique pl=Boutiquen
 Box noun g=f gen=Box pl=Boxen
 Boxer noun g=m gen=Boxers pl=Boxer
 Boxerin noun g=f gen=Boxerin pl=Boxerinnen
 Boykott noun g=m gen=Boykotts|Boykottes pl=Boykotte
+Brachland noun g=n gen=Brachlands|Brachlandes pl=- note=no plural
 Brackwasser noun g=n gen=Brackwassers pl=Brackwasser
 Brahmane noun g=m gen=Brahmanen pl=Brahmanen
 Brainstorming noun g=n gen=Brainstormings pl=Brainstormings
@@ -728,6 +745,7 @@ Brigade noun g=f gen=Brigade pl=Brigaden
 Brigadegeneral noun g=m gen=Brigadegenerals pl=Brigadegenerale|Brigadegeneräle
 Brigant noun g=m gen=Briganten pl=Briganten
 Brillant noun g=m gen=Brillanten pl=Brillanten note=cut diamond
+Brillanz noun g=f gen=Brillanz pl=- note=no plural
 Brille noun g=f gen=Brille pl=Brillen
 Brillengestell noun g=n gen=Brillengestells pl=Brillengestelle
 Brisanz noun g=f gen=Brisanz pl=- note=no plural
@@ -739,6 +757,7 @@ Brokkoli noun g=m gen=Brokkolis pl=- note=no plural
 Brom noun g=n gen=Broms pl=- note=chemical element
 Brombeere noun g=f gen=Brombeere pl=Brombeeren
 Bromid noun g=n gen=Bromids|Bromides pl=Bromide
+Bronchitis noun g=f gen=Bronchitis pl=Bronchitiden
 Bronze        noun g=f gen=Bronze pl=Bronzen
 Bronzemedaille noun g=f gen=Bronzemedaille pl=Bronzemedaillen
 Bronzezeit noun g=f gen=Bronzezeit pl=- note=epoch; no plural
@@ -773,6 +792,7 @@ Buchhalter noun g=m gen=Buchhalters pl=Buchhalter
 Buchhalterin noun g=f gen=Buchhalterin pl=Buchhalterinnen
 Buchhaltung noun g=f gen=Buchhaltung pl=Buchhaltungen
 Büchlein noun g=n gen=Büchleins pl=Büchlein
+Buchmacher noun g=m gen=Buchmachers pl=Buchmacher
 Büchse noun g=f gen=Büchse pl=Büchsen
 Buchstabe     noun g=m gen=Buchstabens pl=Buchstaben
 Bucht noun g=f gen=Bucht pl=Buchten
@@ -790,8 +810,10 @@ Buffet noun g=n gen=Buffets pl=Buffets
 Bug noun g=m gen=Bugs|Buges pl=Buge conf=80 note=ship's bow
 Bügel noun g=m gen=Bügels pl=Bügel
 Bugspriet noun g=m gen=Bugspriets|Bugsprietes pl=Bugspriete conf=85 note=der Bugspriet, also das Bugspriet
+Buhlerin noun g=f gen=Buhlerin pl=Buhlerinnen
 Bühne         noun g=f gen=Bühne pl=Bühnen
 Bühnenbildner noun g=m gen=Bühnenbildners pl=Bühnenbildner
+Bühnenbildnerin noun g=f gen=Bühnenbildnerin pl=Bühnenbildnerinnen
 Bulette noun g=f gen=Bulette pl=Buletten
 Bulgare noun g=m gen=Bulgaren pl=Bulgaren
 Bulgur noun g=m gen=Bulgurs pl=- note=no plural
@@ -834,6 +856,7 @@ Bürgin noun g=f gen=Bürgin pl=Bürginnen
 Bürgschaft noun g=f gen=Bürgschaft pl=Bürgschaften
 Burka noun g=f gen=Burka pl=Burkas
 Büro noun g=n gen=Büros pl=Büros
+Bürokrat noun g=m gen=Bürokraten pl=Bürokraten
 Bürokratie noun g=f gen=Bürokratie pl=Bürokratien
 Bursch noun g=m gen=Burschen pl=Burschen conf=85 note=variant of Bursche (older, literary)
 Bursche noun g=m gen=Burschen pl=Burschen
@@ -844,6 +867,7 @@ Bus noun g=m gen=Busses pl=Busse
 Busch noun g=m gen=Busches|Buschs pl=Büsche
 Büschel noun g=n gen=Büschels pl=Büschel
 Busen noun g=m gen=Busens pl=Busen
+Büßer noun g=m gen=Büßers pl=Büßer
 Business noun g=n gen=Business pl=- note=das Business; mass noun
 Bussard noun g=m gen=Bussards pl=Bussarde
 Buße noun g=f gen=Buße pl=Bußen
@@ -857,3 +881,4 @@ Button noun g=m gen=Buttons pl=Buttons
 Byte noun g=n gen=Bytes pl=Byte|Bytes
 Bytecode noun g=m gen=Bytecodes pl=Bytecodes
 Byzantiner noun g=m gen=Byzantiners pl=Byzantiner
+Byzantinist noun g=m gen=Byzantinisten pl=Byzantinisten

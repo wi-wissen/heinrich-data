@@ -39,6 +39,7 @@ Ventil noun g=n gen=Ventils pl=Ventile
 Ventilator noun g=m gen=Ventilators pl=Ventilatoren
 Verabredung noun g=f gen=Verabredung pl=Verabredungen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
+Verächter noun g=m gen=Verächters pl=Verächter
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
 Veranda noun g=f gen=Veranda pl=Veranden
 Veränderung noun g=f gen=Veränderung pl=Veränderungen
@@ -54,6 +55,7 @@ Verarbeiter noun g=m gen=Verarbeiters pl=Verarbeiter
 Verarbeitung noun g=f gen=Verarbeitung pl=Verarbeitungen
 Veräußerung noun g=f gen=Veräußerung pl=Veräußerungen
 Verb noun g=n gen=Verbs pl=Verben
+Verballhornung noun g=f gen=Verballhornung pl=Verballhornungen
 Verband noun g=m gen=Verbandes|Verbands pl=Verbände
 Verbeamtung noun g=f gen=Verbeamtung pl=Verbeamtungen
 Verbesserung noun g=f gen=Verbesserung pl=Verbesserungen
@@ -79,9 +81,11 @@ Verbundenheit noun g=f gen=Verbundenheit pl=- note=no plural
 Verbündete noun g=m|f decl=adj note=ally
 Verdacht noun g=m gen=Verdachts|Verdachtes pl=Verdachte|Verdächte[rare]
 Verdammnis noun g=f gen=Verdammnis pl=- note=no plural
+Verdampfer noun g=m gen=Verdampfers pl=Verdampfer
 Verdauung noun g=f gen=Verdauung pl=- note=no plural
 Verderb noun g=m gen=Verderbs|Verderbes pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
+Verdichter noun g=m gen=Verdichters pl=Verdichter
 Verdiener noun g=m gen=Verdieners pl=Verdiener
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
 Verdrängung noun g=f gen=Verdrängung pl=- note=no plural in practice
@@ -107,6 +111,7 @@ Verfassungsmäßigkeit noun g=f gen=Verfassungsmäßigkeit pl=- note=abstract no
 Verfassungsrechtler noun g=m gen=Verfassungsrechtlers pl=Verfassungsrechtler
 Verfechter noun g=m gen=Verfechters pl=Verfechter
 Verfechterin noun g=f gen=Verfechterin pl=Verfechterinnen
+Verfestigung noun g=f gen=Verfestigung pl=Verfestigungen
 Verfilmung noun g=f gen=Verfilmung pl=Verfilmungen
 Verfolger noun g=m gen=Verfolgers pl=Verfolger
 Verfolgung noun g=f gen=Verfolgung pl=Verfolgungen
@@ -124,6 +129,7 @@ Vergehen noun g=n gen=Vergehens pl=Vergehen note=offence
 Vergeltung noun g=f gen=Vergeltung pl=- note=no plural
 Vergemeinschaftung noun g=f gen=Vergemeinschaftung pl=Vergemeinschaftungen
 Vergessenheit noun g=f gen=Vergessenheit pl=- note=no plural
+Vergewaltiger noun g=m gen=Vergewaltigers pl=Vergewaltiger
 Vergewaltigung noun g=f gen=Vergewaltigung pl=Vergewaltigungen
 Vergissmeinnicht noun g=n gen=Vergissmeinnichts|Vergissmeinnichtes pl=Vergissmeinnicht|Vergissmeinnichte
 Vergleich noun g=m gen=Vergleichs|Vergleiches[rare] pl=Vergleiche
@@ -177,12 +183,14 @@ Verlegung noun g=f gen=Verlegung pl=Verlegungen
 Verleiher noun g=m gen=Verleihers pl=Verleiher
 Verleihung noun g=f gen=Verleihung pl=Verleihungen
 Verletzung noun g=f gen=Verletzung pl=Verletzungen
+Verleumder noun g=m gen=Verleumders pl=Verleumder
 Verleumdung noun g=f gen=Verleumdung pl=Verleumdungen
 Verliebtheit noun g=f gen=Verliebtheit pl=- note=mass noun
 Verlierer noun g=m gen=Verlierers pl=Verlierer
 Verliererin noun g=f gen=Verliererin pl=Verliererinnen
 Verlies noun g=n gen=Verlieses pl=Verliese
 Verlinkung noun g=f gen=Verlinkung pl=Verlinkungen
+Verlöbnis noun g=n gen=Verlöbnisses pl=Verlöbnisse
 Verlobte noun g=m|f decl=adj
 Verlobung noun g=f gen=Verlobung pl=Verlobungen
 Verlogenheit noun g=f gen=Verlogenheit pl=Verlogenheiten
@@ -364,8 +372,10 @@ Viertel noun g=n gen=Viertels pl=Viertel
 Viertligist noun g=m gen=Viertligisten pl=Viertligisten
 Vierung noun g=f gen=Vierung pl=Vierungen
 Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
+Vignette noun g=f gen=Vignette pl=Vignetten
 Vikar noun g=m gen=Vikars pl=Vikare
 Vikariat noun g=n gen=Vikariats|Vikariates pl=Vikariate
+Vikarie noun g=f gen=Vikarie pl=Vikarien
 Vikarin noun g=f gen=Vikarin pl=Vikarinnen
 Villa noun g=f gen=Villa pl=Villen
 Violine noun g=f gen=Violine pl=Violinen
@@ -377,10 +387,12 @@ Virtuose noun g=m gen=Virtuosen pl=Virtuosen
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Visier noun g=n gen=Visiers pl=Visiere
 Vision noun g=f gen=Vision pl=Visionen
+Visitator noun g=m gen=Visitators pl=Visitatoren
 Visite noun g=f gen=Visite pl=Visiten
 Visum noun g=n gen=Visums pl=Visa|Visen
 Vita noun g=f gen=Vita pl=Viten|Vitae,Viten|Vitae,Viten|Vitae,Viten|Vitae note=Latin plural Vitae has no dative -n
 Vitamin noun g=n gen=Vitamins pl=Vitamine
+Vitrine noun g=f gen=Vitrine pl=Vitrinen
 Vizekönig noun g=m gen=Vizekönigs pl=Vizekönige
 Vizemeister noun g=m gen=Vizemeisters pl=Vizemeister
 Vizepräsident noun g=m gen=Vizepräsidenten pl=Vizepräsidenten
@@ -403,6 +415,7 @@ Völkermord noun g=m gen=Völkermords|Völkermordes pl=Völkermorde
 Völkerrechtler noun g=m gen=Völkerrechtlers pl=Völkerrechtler
 Volksentscheid noun g=m gen=Volksentscheids|Volksentscheides pl=Volksentscheide
 Volkskundler noun g=m gen=Volkskundlers pl=Volkskundler
+Volkstribun noun g=m gen=Volkstribuns|Volkstribunen pl=Volkstribunen|Volkstribune
 Volkstum noun g=n gen=Volkstums pl=- note=no plural
 Volkswagen noun g=m gen=Volkswagens pl=Volkswagen note=brand and company; also the car
 Vollendung noun g=f gen=Vollendung pl=- note=no plural

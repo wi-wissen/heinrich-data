@@ -14,6 +14,8 @@ ehrerbietig adj cmp=ehrerbietiger sup=ehrerbietigsten
 ehrfurchtsvoll adj cmp=ehrfurchtsvoller sup=ehrfurchtsvollsten
 ehrgeizig adj cmp=ehrgeiziger sup=ehrgeizigsten
 ehrlich adj cmp=ehrlicher sup=ehrlichsten
+ehrsam adj cmp=ehrsamer sup=ehrsamsten
+eichen adj
 eidgenössisch adj
 eifersüchtig adj cmp=eifersüchtiger sup=eifersüchtigsten
 eiförmig adj
@@ -47,6 +49,7 @@ einsam adj cmp=einsamer sup=einsamsten
 einschiffig adj
 einschlägig adj note=also predicative in legal use (die Vorschrift ist einschlägig)
 einseitig adj
+einsitzig adj
 einstig adj attr_only
 einstimmig adj
 einstweilig adj
@@ -90,6 +93,7 @@ enorm adj
 entbehrlich adj
 entfernt adj cmp=entfernter sup=entferntesten
 entgegengesetzt adj
+entgeistert adj
 entgeltlich adj
 entlegen adj cmp=entlegener sup=entlegensten
 entscheidend adj cmp=entscheidender sup=entscheidendsten
@@ -114,20 +118,25 @@ erinnerlich adj
 erkennbar adj
 erkenntlich adj
 erklärlich adj
+erlaubnispflichtig adj
 erlaucht adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
 erlogen adj
+ernestinisch adj
 erneuerbar adj
 erneut adj
 ernst adj cmp=ernster sup=ernstesten
 ernsthaft adj cmp=ernsthafter sup=ernsthaftesten
 ernstlich adj
+erogen adj
 erotisch adj cmp=erotischer sup=erotischsten
+erpicht adj
 erreichbar adj
 erschrocken adj cmp=erschrockener sup=erschrockensten
 ersichtlich adj
 erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstaunt adj cmp=erstaunter sup=erstauntesten
+erstausgestrahlt adj
 erstbeschrieben adj conf=90 note=biology: first described (participle of erstbeschreiben, used as participle only)
 erstmalig adj
 erstplatziert adj
@@ -151,6 +160,7 @@ evolutionär adj
 ewig adj
 exakt adj cmp=exakter sup=exaktesten
 exemplarisch adj
+exemt adj
 existent adj
 existenziell adj
 exklusiv adj cmp=exklusiver sup=exklusivsten
@@ -162,6 +172,7 @@ explizit adj
 explosiv adj
 exponentiell adj
 expressionistisch adj
+expressiv adj cmp=expressiver sup=expressivsten
 extern adj
 extrem adj cmp=extremer sup=extremsten
 extremistisch adj

@@ -37,6 +37,7 @@ verbieten verb class=strong 3sg=verbietet past=verbot pp=verboten subj2=verböte
 verbilligen verb class=weak pp=verbilligt perf=haben
 verbinden verb class=strong 3sg=verbindet past=verband pp=verbunden subj2=verbände perf=haben
 verbitten verb class=strong 3sg=verbittet past=verbat pp=verbeten subj2=verbäte perf=haben refl=dat
+verbittern verb class=weak pp=verbittert perf=haben
 verblassen verb class=weak pp=verblasst perf=sein
 verbleiben verb class=strong 3sg=verbleibt past=verblieb pp=verblieben subj2=verbliebe perf=sein
 verblüffen verb class=weak pp=verblüfft perf=haben
@@ -76,6 +77,7 @@ verdunkeln verb class=weak pp=verdunkelt perf=haben
 verdünnen verb class=weak pp=verdünnt perf=haben
 verdunsten verb class=weak pp=verdunstet perf=sein
 verdursten verb class=weak pp=verdurstet perf=sein
+verdüstern verb class=weak pp=verdüstert perf=haben
 verdutzen verb class=weak pp=verdutzt perf=haben
 verehren verb class=weak pp=verehrt perf=haben
 vereidigen verb class=weak pp=vereidigt perf=haben
@@ -141,6 +143,7 @@ vergrößern verb class=weak pp=vergrößert perf=haben
 vergucken verb class=weak pp=verguckt perf=haben refl=acc
 vergüten verb class=weak pp=vergütet perf=haben
 verhaften verb class=weak pp=verhaftet perf=haben
+verhallen verb class=weak pp=verhallt perf=sein
 verhalten verb class=strong refl=acc 3sg=verhält past=verhielt pp=verhalten subj2=verhielte perf=haben
 verhandeln verb class=weak pp=verhandelt perf=haben
 verhängen verb class=weak pp=verhängt perf=haben
@@ -267,6 +270,7 @@ verpflichten verb class=weak pp=verpflichtet perf=haben
 verpfuschen verb class=weak pp=verpfuscht perf=haben
 verprassen verb class=weak pp=verprasst perf=haben
 verprügeln verb class=weak pp=verprügelt perf=haben
+verpuffen verb class=weak pp=verpufft perf=sein
 verpuppen verb class=weak pp=verpuppt perf=haben refl=acc
 verputzen verb class=weak pp=verputzt perf=haben
 verquatschen verb class=weak pp=verquatscht perf=haben refl=acc

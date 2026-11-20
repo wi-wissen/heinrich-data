@@ -2,6 +2,7 @@ fahren       verb class=strong 3sg=fährt past=fuhr pp=gefahren subj2=führe per
 fakturieren verb class=weak pp=fakturiert perf=haben
 fallen verb class=strong 3sg=fällt past=fiel pp=gefallen subj2=fiele perf=sein
 fällen verb class=weak pp=gefällt perf=haben
+fälschen verb class=weak pp=gefälscht perf=haben
 falten verb class=weak pp=gefaltet perf=haben
 fangen verb class=strong 3sg=fängt past=fing pp=gefangen subj2=finge perf=haben refl=acc
 färben verb class=weak pp=gefärbt perf=haben refl=acc
@@ -18,6 +19,7 @@ federn verb class=weak pp=gefedert perf=haben
 fegen verb class=weak pp=gefegt perf=haben|sein
 fehlen verb class=weak pp=gefehlt perf=haben
 feiern verb class=weak pp=gefeiert perf=haben
+feilbieten verb class=strong sep=feil 3sg=feilbietet past=feilbot pp=feilgeboten subj2=feilböte perf=haben
 feilen verb class=weak pp=gefeilt perf=haben
 feilschen verb class=weak pp=gefeilscht perf=haben
 fernbleiben verb class=strong sep=fern 3sg=fernbleibt past=fernblieb pp=ferngeblieben subj2=fernbliebe perf=sein
@@ -79,6 +81,7 @@ flimmern verb class=weak pp=geflimmert perf=haben
 flirten verb class=weak pp=geflirtet perf=haben
 flitzen verb class=weak pp=geflitzt perf=sein
 floppen verb class=weak pp=gefloppt perf=sein
+florieren verb class=weak pp=floriert perf=haben
 flößen verb class=weak pp=geflößt perf=haben note=Holz flößen (to raft)
 fluchen verb class=weak pp=geflucht perf=haben
 flüchten verb class=weak pp=geflüchtet perf=sein|haben
@@ -129,6 +132,7 @@ foulen verb class=weak pp=gefoult perf=haben
 fragen verb class=weak past=fragte|frug[archaic] pp=gefragt subj2=fragte|früge[archaic] perf=haben refl=acc
 fraktionieren verb class=weak pp=fraktioniert perf=haben
 frankieren verb class=weak pp=frankiert perf=haben
+freien verb class=weak pp=gefreit perf=haben style=archaic
 freigeben verb class=strong sep=frei 3sg=freigibt past=freigab pp=freigegeben subj2=freigäbe perf=haben
 freihalten verb class=strong sep=frei 3sg=freihält past=freihielt pp=freigehalten subj2=freihielte perf=haben
 freikaufen verb class=weak sep=frei pp=freigekauft perf=haben
@@ -147,11 +151,14 @@ fremdgehen verb class=strong sep=fremd 3sg=fremdgeht past=fremdging pp=fremdgega
 frequentieren verb class=weak pp=frequentiert perf=haben
 fressen verb class=strong 3sg=frisst past=fraß pp=gefressen subj2=fräße perf=haben
 freuen       verb class=weak pp=gefreut perf=haben refl=acc
+freveln verb class=weak pp=gefrevelt perf=haben
 frieren verb class=strong 3sg=friert past=fror pp=gefroren subj2=fröre perf=haben|sein note=pp gefroren is correct; not an -ieren verb
 frisieren verb class=weak pp=frisiert perf=haben
 frittieren verb class=weak pp=frittiert perf=haben
+frohlocken verb class=weak pp=frohlockt perf=haben note=participle frohlockt without ge-
 frommen verb class=weak pp=gefrommt perf=haben style=archaic
 frösteln verb class=weak pp=gefröstelt perf=haben
+fruchten verb class=weak pp=gefruchtet perf=haben
 frühstücken verb class=weak pp=gefrühstückt perf=haben
 frustrieren verb class=weak pp=frustriert perf=haben pp_cmp note=frustriert is also a gradable adjective
 fuchteln verb class=weak pp=gefuchtelt perf=haben

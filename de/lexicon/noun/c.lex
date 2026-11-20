@@ -7,6 +7,7 @@ Calcium noun g=n gen=Calciums pl=- note=chemical element; also Kalzium
 Californium noun g=n gen=Californiums pl=- note=chemical element
 Call noun g=m gen=Calls pl=Calls
 Callcenter noun g=n gen=Callcenters pl=Callcenter
+Calvinismus noun g=m gen=Calvinismus pl=- note=no plural
 Camp noun g=n gen=Camps pl=Camps
 Camper noun g=m gen=Campers pl=Camper
 Camperin noun g=f gen=Camperin pl=Camperinnen
@@ -59,6 +60,7 @@ Charme noun g=m gen=Charmes pl=- note=no plural
 Chart noun g=m gen=Charts pl=Charts conf=80 note=der Chart, also das Chart; mostly plural: die Charts
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
 Charterflug noun g=m gen=Charterflugs|Charterfluges pl=Charterflüge
+Chartplatzierung noun g=f gen=Chartplatzierung pl=Chartplatzierungen
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
 Chatbot noun g=m gen=Chatbots pl=Chatbots
@@ -75,6 +77,7 @@ Chemikalie noun g=f gen=Chemikalie pl=Chemikalien
 Chemiker noun g=m gen=Chemikers pl=Chemiker
 Chemikerin noun g=f gen=Chemikerin pl=Chemikerinnen
 Chemotherapie noun g=f gen=Chemotherapie pl=Chemotherapien
+Cherub noun g=m gen=Cherubs pl=Cherubim|Cherubinen
 Chiasmus noun g=m gen=Chiasmus pl=Chiasmen note=Latin loanword; genitive without -es
 Chilene noun g=m gen=Chilenen pl=Chilenen
 Chili noun g=f gen=Chili pl=Chilis
@@ -92,6 +95,7 @@ Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Cholera noun g=f gen=Cholera pl=- note=disease
 Chondrit noun g=m gen=Chondrits|Chondriten pl=Chondrite|Chondriten note=meteorite
+Chopper noun g=m gen=Choppers pl=Chopper
 Chor          noun g=m gen=Chores|Chors pl=Chöre
 Choral noun g=m gen=Chorals pl=Choräle
 Choreograf noun g=m gen=Choreografen pl=Choreografen

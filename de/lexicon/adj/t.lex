@@ -4,6 +4,7 @@ täglich adj
 taiwanisch adj
 taktisch adj
 talentiert adj cmp=talentierter sup=talentiertesten
+tamilisch adj
 tansanisch adj
 tapfer adj cmp=tapferer sup=tapfersten
 tariflich adj
@@ -12,6 +13,7 @@ tätlich adj
 tatsächlich adj
 taub adj cmp=tauber sup=taubsten
 tauglich adj cmp=tauglicher sup=tauglichsten
+tausenderlei adj indecl
 tausendfach adj
 technisch adj
 technologisch adj
@@ -45,6 +47,7 @@ tiefgründig adj cmp=tiefgründiger sup=tiefgründigsten
 tiefstgelegen adj attr_only note=superlative compound: der tiefstgelegene Ort
 tierisch adj
 tödlich adj cmp=tödlicher sup=tödlichsten
+togoisch adj
 tolerant adj cmp=toleranter sup=tolerantesten
 toll adj cmp=toller sup=tollsten
 tollpatschig adj cmp=tollpatschiger sup=tollpatschigsten
@@ -55,6 +58,7 @@ töricht adj
 tot adj
 total adj
 totalitär adj
+totemistisch adj
 touristisch adj
 traditionell adj cmp=traditioneller sup=traditionellsten
 träge adj cmp=träger sup=trägsten
@@ -65,6 +69,7 @@ transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 transzendental adj
 traubig adj
+traufständig adj
 traulich adj cmp=traulicher sup=traulichsten
 träumerisch adj cmp=träumerischer sup=träumerischsten
 traumhaft adj cmp=traumhafter sup=traumhaftesten
