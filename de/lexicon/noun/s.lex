@@ -681,6 +681,7 @@ Sitznachbar noun g=m gen=Sitznachbarn pl=Sitznachbarn
 Sitzung noun g=f gen=Sitzung pl=Sitzungen
 SK noun g=m gen=SK|SKs pl=SK|SKs conf=70 note=Sportklub; abbreviation
 Ska noun g=m gen=Ska pl=- note=music style; des Ska
+Skala noun g=f gen=Skala pl=Skalen|Skalas
 Skalar noun g=m gen=Skalars pl=Skalare
 Skalde noun g=m gen=Skalden pl=Skalden
 Skandal noun g=m gen=Skandals|Skandales pl=Skandale
