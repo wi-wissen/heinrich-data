@@ -23,6 +23,7 @@ Oboe noun g=f gen=Oboe pl=Oboen
 Oboist noun g=m gen=Oboisten pl=Oboisten
 Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Obrist noun g=m gen=Obristen pl=Obristen
+Observant noun g=m gen=Observanten pl=Observanten
 Observanz noun g=f gen=Observanz pl=Observanzen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
@@ -59,16 +60,19 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Ökonomin noun g=f gen=Ökonomin pl=Ökonominnen
 Oktave noun g=f gen=Oktave pl=Oktaven
 Oktober noun g=m gen=Oktobers pl=Oktober
+Oktogon noun g=n gen=Oktogons pl=Oktogone
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
 Ökumene noun g=f gen=Ökumene pl=- note=no plural
 Öl noun g=n gen=Öls|Öles pl=Öle
 Oldtimer noun g=m gen=Oldtimers pl=Oldtimer
+Oleander noun g=m gen=Oleanders pl=Oleander
 Oligarch noun g=m gen=Oligarchen pl=Oligarchen
 Oligarchie noun g=f gen=Oligarchie pl=Oligarchien
 Oligozän noun g=n gen=Oligozäns pl=- note=geological epoch
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
 Olivin noun g=n gen=Olivins pl=Olivine
+Olm noun g=m gen=Olms|Olmes pl=Olme
 Olympiade noun g=f gen=Olympiade pl=Olympiaden
 Olympiaqualifikation noun g=f gen=Olympiaqualifikation pl=Olympiaqualifikationen
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
@@ -86,6 +90,7 @@ Onkel noun g=m gen=Onkels pl=Onkel|Onkels[colloquial]
 Onlinebanking noun g=n gen=Onlinebankings pl=- note=mass noun
 Onlineshop noun g=m gen=Onlineshops pl=Onlineshops
 Opa noun g=m gen=Opas pl=Opas
+Opal noun g=m gen=Opals pl=Opale
 Oper noun g=f gen=Oper pl=Opern
 Operation noun g=f gen=Operation pl=Operationen
 Operator noun g=m gen=Operators pl=Operatoren
@@ -148,6 +153,7 @@ Ornament noun g=n gen=Ornaments|Ornamentes pl=Ornamente
 Ornamentik noun g=f gen=Ornamentik pl=- note=no plural
 Ornat noun g=m gen=Ornats|Ornates pl=Ornate
 Ornithologe noun g=m gen=Ornithologen pl=Ornithologen
+Ornithologie noun g=f gen=Ornithologie pl=- note=no plural
 Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthodoxie noun g=f gen=Orthodoxie pl=Orthodoxien
 Orthografie noun g=f gen=Orthografie pl=Orthografien

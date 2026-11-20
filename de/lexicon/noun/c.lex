@@ -40,6 +40,7 @@ Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcen
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
 Cer noun g=n gen=Cers pl=- note=chemical element
 Chaise noun g=f gen=Chaise pl=Chaisen
+Chaiselongue noun g=f gen=Chaiselongue pl=Chaiselonguen|Chaiselongues
 Chaldäer noun g=m gen=Chaldäers pl=Chaldäer
 Challenge noun g=f gen=Challenge pl=Challenges conf=75 note=English loanword; gender unsure
 Chamäleon noun g=n gen=Chamäleons pl=Chamäleons

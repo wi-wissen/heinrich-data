@@ -25,6 +25,7 @@ Abgeschiedenheit noun g=f gen=Abgeschiedenheit pl=- note=abstract noun, no plura
 Abgleich noun g=m gen=Abgleichs|Abgleiches pl=Abgleiche
 Abgrenzung noun g=f gen=Abgrenzung pl=Abgrenzungen
 Abgrund noun g=m gen=Abgrunds|Abgrundes pl=Abgründe
+Abguss noun g=m gen=Abgusses pl=Abgüsse
 Abhandlung noun g=f gen=Abhandlung pl=Abhandlungen
 Abhang noun g=m gen=Abhangs|Abhanges pl=Abhänge
 Abhängigkeit noun g=f gen=Abhängigkeit pl=Abhängigkeiten
@@ -134,6 +135,7 @@ Achtung noun g=f gen=Achtung pl=- note=mass noun
 Ächtung noun g=f gen=Ächtung pl=Ächtungen
 Acker noun g=m gen=Ackers pl=Äcker
 Ackerbau noun g=m gen=Ackerbaus|Ackerbaues pl=- note=no plural
+Acryl noun g=n gen=Acryls pl=- note=mass noun
 Actinium noun g=n gen=Actiniums pl=- note=chemical element
 Actinoid noun g=n gen=Actinoids pl=Actinoide
 Action noun g=f gen=Action pl=- note=English loan; no plural
@@ -168,6 +170,7 @@ Adoptiveltern noun g=pl
 Adoptivkind noun g=n gen=Adoptivkinds|Adoptivkindes pl=Adoptivkinder
 Adoptivsohn noun g=m gen=Adoptivsohns|Adoptivsohnes pl=Adoptivsöhne
 Adoptivtochter noun g=f gen=Adoptivtochter pl=Adoptivtöchter
+Adrenalin noun g=n gen=Adrenalins pl=- note=mass noun
 Adressat noun g=m gen=Adressaten pl=Adressaten
 Adressatin noun g=f gen=Adressatin pl=Adressatinnen
 Adresse noun g=f gen=Adresse pl=Adressen
@@ -200,10 +203,13 @@ Aggregat noun g=n gen=Aggregats|Aggregates pl=Aggregate
 Aggregator noun g=m gen=Aggregators pl=Aggregatoren
 Aggregatzustand noun g=m gen=Aggregatzustands|Aggregatzustandes pl=Aggregatzustände
 Aggression noun g=f gen=Aggression pl=Aggressionen
+Aggressor noun g=m gen=Aggressors pl=Aggressoren
 Ägide noun g=f gen=Ägide pl=- note=unter der Ägide; plural not in use
 Agitation noun g=f gen=Agitation pl=Agitationen
 Agitator noun g=m gen=Agitators pl=Agitatoren
+Agonie noun g=f gen=Agonie pl=Agonien
 Agrarpolitik noun g=f gen=Agrarpolitik pl=- note=no plural
+Agronom noun g=m gen=Agronomen pl=Agronomen
 Ägypter noun g=m gen=Ägypters pl=Ägypter
 Ägypterin noun g=f gen=Ägypterin pl=Ägypterinnen
 Ägyptologe noun g=m gen=Ägyptologen pl=Ägyptologen
@@ -220,6 +226,7 @@ Aids noun g=n gen=Aids pl=- note=disease (also AIDS)
 Airbag noun g=m gen=Airbags pl=Airbags
 Airbus noun g=m gen=Airbus|Airbusses pl=Airbusse
 Airline noun g=f gen=Airline pl=Airlines
+Ajatollah noun g=m gen=Ajatollahs pl=Ajatollahs
 Akademie      noun g=f gen=Akademie pl=Akademien
 Akademiker noun g=m gen=Akademikers pl=Akademiker
 Akademikerin noun g=f gen=Akademikerin pl=Akademikerinnen
@@ -230,6 +237,7 @@ Akkordeonist noun g=m gen=Akkordeonisten pl=Akkordeonisten
 Akkreditierung noun g=f gen=Akkreditierung pl=Akkreditierungen
 Akku noun g=m gen=Akkus pl=Akkus
 Akkumulator noun g=m gen=Akkumulators pl=Akkumulatoren
+Akkumulierung noun g=f gen=Akkumulierung pl=Akkumulierungen
 Akkusationsprozess noun g=m gen=Akkusationsprozesses pl=Akkusationsprozesse note=accusatorial trial
 Akkusativ noun g=m gen=Akkusativs pl=Akkusative
 Akquise noun g=f gen=Akquise pl=Akquisen
@@ -251,6 +259,7 @@ Aktivierung noun g=f gen=Aktivierung pl=Aktivierungen
 Aktivist noun g=m gen=Aktivisten pl=Aktivisten
 Aktivistin noun g=f gen=Aktivistin pl=Aktivistinnen
 Aktivität     noun g=f gen=Aktivität pl=Aktivitäten
+Aktor noun g=m gen=Aktors pl=Aktoren
 Aktualisierung noun g=f gen=Aktualisierung pl=Aktualisierungen
 Aktualität noun g=f gen=Aktualität pl=Aktualitäten
 Aktuar noun g=m gen=Aktuars pl=Aktuare
@@ -370,7 +379,9 @@ Analogie noun g=f gen=Analogie pl=Analogien
 Analogon noun g=n gen=Analogons pl=Analoga
 Analyse       noun g=f gen=Analyse pl=Analysen
 Analysis noun g=f gen=Analysis pl=- note=no plural
+Analyst noun g=m gen=Analysten pl=Analysten
 Analytik noun g=f gen=Analytik pl=- note=mass noun
+Analytiker noun g=m gen=Analytikers pl=Analytiker
 Anämie noun g=f gen=Anämie pl=Anämien
 Anamnese noun g=f gen=Anamnese pl=Anamnesen
 Ananas noun g=f gen=Ananas pl=Ananas|Ananasse
@@ -396,6 +407,7 @@ Andersdenkende noun g=m|f decl=adj
 Änderung      noun g=f gen=Änderung pl=Änderungen
 Androhung noun g=f gen=Androhung pl=Androhungen
 Anekdote noun g=f gen=Anekdote pl=Anekdoten
+Anemone noun g=f gen=Anemone pl=Anemonen
 Anerbieten noun g=n gen=Anerbietens pl=Anerbieten note=lexicalised: offer (elevated)
 Anerkennung   noun g=f gen=Anerkennung pl=Anerkennungen
 Anfall noun g=m gen=Anfalls|Anfalles pl=Anfälle
@@ -442,8 +454,10 @@ Anhieb noun g=m gen=Anhieb|Anhiebs pl=- note=only in auf Anhieb
 Anhöhe noun g=f gen=Anhöhe pl=Anhöhen
 Anhörung      noun g=f gen=Anhörung pl=Anhörungen
 Anhydrit noun g=m gen=Anhydrits pl=Anhydrite
+Anilin noun g=n gen=Anilins pl=- note=mass noun
 Animation noun g=f gen=Animation pl=Animationen
 Animator noun g=m gen=Animators pl=Animatoren
+Anime noun g=m gen=Animes pl=Animes
 Anion noun g=n gen=Anions pl=Anionen
 Anker noun g=m gen=Ankers pl=Anker
 Anklage noun g=f gen=Anklage pl=Anklagen
@@ -523,12 +537,14 @@ Anthropologe noun g=m gen=Anthropologen pl=Anthropologen
 Anthropologie noun g=f gen=Anthropologie pl=- note=no plural
 Anthropologin noun g=f gen=Anthropologin pl=Anthropologinnen
 Antibiotikum noun g=n gen=Antibiotikums pl=Antibiotika
+Antidepressivum noun g=n gen=Antidepressivums pl=Antidepressiva
 Antihistaminikum noun g=n gen=Antihistaminikums pl=Antihistaminika
 Antike noun g=f gen=Antike pl=- note=die Antike (era)
 Antilope noun g=f gen=Antilope pl=Antilopen
 Antimon noun g=n gen=Antimons pl=- note=chemical element
 Antinomie noun g=f gen=Antinomie pl=Antinomien
 Antipathie noun g=f gen=Antipathie pl=Antipathien
+Antipode noun g=m gen=Antipoden pl=Antipoden
 Antiqua noun g=f gen=Antiqua pl=- note=typeface
 Antiquar noun g=m gen=Antiquars pl=Antiquare
 Antiquariat noun g=n gen=Antiquariats|Antiquariates pl=Antiquariate
@@ -568,6 +584,7 @@ Anziehung noun g=f gen=Anziehung pl=Anziehungen
 Anzug noun g=m gen=Anzugs|Anzuges pl=Anzüge
 Aorta noun g=f gen=Aorta pl=Aorten
 Apache noun g=m gen=Apachen pl=Apachen
+Apanage noun g=f gen=Apanage pl=Apanagen
 Apathie noun g=f gen=Apathie pl=- note=no plural
 Apfel noun g=m gen=Apfels pl=Äpfel
 Apfelsine noun g=f gen=Apfelsine pl=Apfelsinen
@@ -638,6 +655,7 @@ Areole noun g=f gen=Areole pl=Areolen
 Ärger noun g=m gen=Ärgers pl=- note=no plural
 Ärgernis noun g=n gen=Ärgernisses pl=Ärgernisse
 Argon noun g=n gen=Argons pl=- note=chemical element; noble gas
+Argonaut noun g=m gen=Argonauten pl=Argonauten
 Argument noun g=n gen=Arguments|Argumentes pl=Argumente
 Argumentation noun g=f gen=Argumentation pl=Argumentationen
 Argwohn noun g=m gen=Argwohns pl=- note=no plural
@@ -673,6 +691,8 @@ Arsenal noun g=n gen=Arsenals pl=Arsenale
 Art           noun g=f gen=Art pl=Arten
 Artefakt noun g=n gen=Artefakts|Artefaktes pl=Artefakte
 Arterie noun g=f gen=Arterie pl=Arterien
+Arteriosklerose noun g=f gen=Arteriosklerose pl=Arteriosklerosen
+Arthrose noun g=f gen=Arthrose pl=Arthrosen
 Artikel       noun g=m gen=Artikels pl=Artikel
 Artillerie noun g=f gen=Artillerie pl=Artillerien note=military; plural rare
 Artillerist noun g=m gen=Artilleristen pl=Artilleristen
@@ -837,9 +857,11 @@ Augsburger noun g=m gen=Augsburgers pl=Augsburger note=inhabitant of Augsburg
 August        noun g=m gen=August|Augusts pl=- note=month name
 Augustiner noun g=m gen=Augustiners pl=Augustiner
 Auktion noun g=f gen=Auktion pl=Auktionen
+Auktionator noun g=m gen=Auktionators pl=Auktionatoren
 Aula noun g=f gen=Aula pl=Aulen|Aulas
 Ausarbeitung noun g=f gen=Ausarbeitung pl=Ausarbeitungen
 Ausbau        noun g=m gen=Ausbaus|Ausbaues pl=Ausbauten note=plural only for built extensions (Ausbauten); otherwise mass noun
+Ausbeuter noun g=m gen=Ausbeuters pl=Ausbeuter
 Ausbeutung noun g=f gen=Ausbeutung pl=- note=mass noun
 Ausbilder noun g=m gen=Ausbilders pl=Ausbilder
 Ausbilderin noun g=f gen=Ausbilderin pl=Ausbilderinnen
@@ -877,6 +899,7 @@ Auslagerung noun g=f gen=Auslagerung pl=Auslagerungen
 Ausland       noun g=n gen=Auslands|Auslandes pl=- note=no plural
 Ausländer noun g=m gen=Ausländers pl=Ausländer
 Ausländerin noun g=f gen=Ausländerin pl=Ausländerinnen
+Auslass noun g=m gen=Auslasses pl=Auslässe
 Auslastung noun g=f gen=Auslastung pl=Auslastungen
 Ausläufer noun g=m gen=Ausläufers pl=Ausläufer
 Ausleger noun g=m gen=Auslegers pl=Ausleger

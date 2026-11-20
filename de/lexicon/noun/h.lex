@@ -55,6 +55,7 @@ Haltung noun g=f gen=Haltung pl=Haltungen
 Halunke noun g=m gen=Halunken pl=Halunken
 Hamburger noun g=m gen=Hamburgers pl=Hamburger note=inhabitant of Hamburg; also the food
 Häme noun g=f gen=Häme pl=- note=no plural
+Hammelfleisch noun g=n gen=Hammelfleischs|Hammelfleisches pl=- note=mass noun
 Hammer noun g=m gen=Hammers pl=Hämmer
 Hammerwerfer noun g=m gen=Hammerwerfers pl=Hammerwerfer
 Hämoglobin noun g=n gen=Hämoglobins pl=- note=mass noun
@@ -89,6 +90,7 @@ Hanseat noun g=m gen=Hanseaten pl=Hanseaten
 Hansestadt noun g=f gen=Hansestadt pl=Hansestädte
 Hantel noun g=f gen=Hantel pl=Hanteln
 Hanukka noun g=n gen=Hanukkas pl=- note=no plural (mass or abstract noun)
+Happen noun g=m gen=Happens pl=Happen
 Härchen noun g=n gen=Härchens pl=Härchen
 Hardware noun g=f gen=Hardware pl=- note=mass noun
 Harem noun g=m gen=Harems pl=Harems
@@ -178,6 +180,7 @@ Heftigkeit noun g=f gen=Heftigkeit pl=- note=no plural in practice
 Hegemonie noun g=f gen=Hegemonie pl=Hegemonien
 Heger noun g=m gen=Hegers pl=Heger
 Hehl noun g=n|m gen=Hehls pl=- note=only in kein(en) Hehl aus etwas machen
+Hehler noun g=m gen=Hehlers pl=Hehler
 Heide noun g=m gen=Heiden pl=Heiden sense=pagan
 Heide noun g=f gen=Heide pl=Heiden sense=heath
 Heidelbeere noun g=f gen=Heidelbeere pl=Heidelbeeren
@@ -220,6 +223,7 @@ Hellebarde noun g=f gen=Hellebarde pl=Hellebarden
 Hellene noun g=m gen=Hellenen pl=Hellenen
 Heller noun g=m gen=Hellers pl=Heller note=small coin
 Helligkeit noun g=f gen=Helligkeit pl=Helligkeiten
+Helling noun g=f gen=Helling pl=Hellingen|Helligen
 Helm noun g=m gen=Helms|Helmes pl=Helme
 Helpdesk noun g=m gen=Helpdesks pl=Helpdesks
 Hemd noun g=n gen=Hemds|Hemdes pl=Hemden
@@ -307,16 +311,20 @@ Hintern noun g=m gen=Hinterns pl=Hintern style=colloquial alt=Gesäß
 Hinweis noun g=m gen=Hinweises pl=Hinweise
 Hip-Hop noun g=m gen=Hip-Hops pl=- note=no plural (mass or abstract noun)
 Hirn noun g=n gen=Hirns|Hirnes pl=Hirne
+Hirngespinst noun g=n gen=Hirngespinsts|Hirngespinstes pl=Hirngespinste
 Hirsch noun g=m gen=Hirschs|Hirsches pl=Hirsche
+Hirschfänger noun g=m gen=Hirschfängers pl=Hirschfänger
 Hirse noun g=f gen=Hirse pl=- note=no plural
 Hirt noun g=m gen=Hirten pl=Hirten
 Hirte noun g=m gen=Hirten pl=Hirten
 Hirtin noun g=f gen=Hirtin pl=Hirtinnen
+Hispanist noun g=m gen=Hispanisten pl=Hispanisten
 Historie noun g=f gen=Historie pl=Historien
 Historiker noun g=m gen=Historikers pl=Historiker
 Historikerin noun g=f gen=Historikerin pl=Historikerinnen
 Historiographie noun g=f gen=Historiographie pl=Historiographien
 Historismus noun g=m gen=Historismus pl=- note=style period
+Historizität noun g=f gen=Historizität pl=- note=no plural
 Hit noun g=m gen=Hits pl=Hits
 Hitze noun g=f gen=Hitze pl=- note=mass noun
 Hobby noun g=n gen=Hobbys pl=Hobbys|Hobbies[rare]
@@ -347,6 +355,7 @@ Höhepunkt noun g=m gen=Höhepunkts|Höhepunktes pl=Höhepunkte
 Höhle noun g=f gen=Höhle pl=Höhlen
 Höhlung noun g=f gen=Höhlung pl=Höhlungen
 Hohn noun g=m gen=Hohns|Hohnes pl=- note=no plural
+Hokuspokus noun g=m gen=Hokuspokus pl=- note=des Hokuspokus; no plural
 Holding noun g=f gen=Holding pl=Holdings
 Holländer noun g=m gen=Holländers pl=Holländer
 Holländerin noun g=f gen=Holländerin pl=Holländerinnen
@@ -354,6 +363,8 @@ Hölle noun g=f gen=Hölle pl=Höllen
 Holm noun g=m gen=Holms|Holmes pl=Holme
 Holmium noun g=n gen=Holmiums pl=- note=chemical element
 Holocaust noun g=m gen=Holocaust|Holocausts pl=- note=singular only
+Holocaustleugner noun g=m gen=Holocaustleugners pl=Holocaustleugner
+Holotyp noun g=m gen=Holotyps|Holotypen pl=Holotypen note=biology
 Holotypus noun g=m gen=Holotypus pl=Holotypen note=genitive unchanged; biology
 Holozän noun g=n gen=Holozäns pl=- note=geological epoch
 Holunder noun g=m gen=Holunders pl=Holunder
@@ -423,6 +434,7 @@ Hülle noun g=f gen=Hülle pl=Hüllen
 Hüllspelze noun g=f gen=Hüllspelze pl=Hüllspelzen
 Hülse noun g=f gen=Hülse pl=Hülsen
 Hülsenfrüchtler noun g=m gen=Hülsenfrüchtlers pl=Hülsenfrüchtler
+Humangenetik noun g=f gen=Humangenetik pl=- note=no plural
 Humanismus noun g=m gen=Humanismus pl=- note=no plural
 Humanist noun g=m gen=Humanisten pl=Humanisten
 Humanität noun g=f gen=Humanität pl=- note=no plural in practice
@@ -463,6 +475,7 @@ Hybride noun g=f gen=Hybride pl=Hybriden conf=85 note=also masculine der Hybride
 Hybridisierung noun g=f gen=Hybridisierung pl=Hybridisierungen
 Hybris noun g=f gen=Hybris pl=- note=no plural
 Hydraulik noun g=f gen=Hydraulik pl=Hydrauliken
+Hydrazin noun g=n gen=Hydrazins pl=Hydrazine
 Hydrid noun g=n gen=Hydrids|Hydrides pl=Hydride
 Hydrierung noun g=f gen=Hydrierung pl=Hydrierungen
 Hydrographie noun g=f gen=Hydrographie pl=- note=science name
@@ -478,6 +491,7 @@ Hypertonie noun g=f gen=Hypertonie pl=Hypertonien
 Hyphe noun g=f gen=Hyphe pl=Hyphen
 Hypnose noun g=f gen=Hypnose pl=Hypnosen
 Hypochondrie noun g=f gen=Hypochondrie pl=Hypochondrien
+Hypophyse noun g=f gen=Hypophyse pl=Hypophysen
 Hypotenuse noun g=f gen=Hypotenuse pl=Hypotenusen
 Hypothek noun g=f gen=Hypothek pl=Hypotheken
 Hypothese noun g=f gen=Hypothese pl=Hypothesen

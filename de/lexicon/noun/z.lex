@@ -61,6 +61,7 @@ Zeitvertreib noun g=m gen=Zeitvertreibs|Zeitvertreibes pl=Zeitvertreibe
 Zeitzeuge noun g=m gen=Zeitzeugen pl=Zeitzeugen
 Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
+Zellulose noun g=f gen=Zellulose pl=Zellulosen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
 Zement noun g=m gen=Zements|Zementes pl=Zemente
 Zensor noun g=m gen=Zensors pl=Zensoren
@@ -69,6 +70,7 @@ Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensu
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
 Zentner noun g=m gen=Zentners pl=Zentner
 Zentrale noun g=f gen=Zentrale pl=Zentralen
+Zentralverriegelung noun g=f gen=Zentralverriegelung pl=Zentralverriegelungen
 Zentrum noun g=n gen=Zentrums pl=Zentren
 Zeppelin noun g=m gen=Zeppelins pl=Zeppeline
 Zepter noun g=n gen=Zepters pl=Zepter
@@ -98,6 +100,7 @@ Ziel noun g=n gen=Ziels|Zieles pl=Ziele
 Zielsetzung noun g=f gen=Zielsetzung pl=Zielsetzungen
 Zier noun g=f gen=Zier pl=- note=no plural
 Zierde noun g=f gen=Zierde pl=Zierden
+Zierrat noun g=m gen=Zierrats|Zierrates pl=Zierrate
 Ziesel noun g=m gen=Ziesels pl=Ziesel
 Ziffer noun g=f gen=Ziffer pl=Ziffern
 Zigarette noun g=f gen=Zigarette pl=Zigaretten
@@ -108,6 +111,7 @@ Zigeunerschnitzel noun g=n gen=Zigeunerschnitzels pl=Zigeunerschnitzel style=off
 Zigeunersoße noun g=f gen=Zigeunersoße pl=Zigeunersoßen style=offensive alt=Paprikasoße
 Zigtausende noun g=pl note=Zigtausende von
 Zikade noun g=f gen=Zikade pl=Zikaden
+Zimbel noun g=f gen=Zimbel pl=Zimbeln
 Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmerer noun g=m gen=Zimmerers pl=Zimmerer
 Zimmermann noun g=m gen=Zimmermanns pl=Zimmerleute|Zimmermänner[rare]
@@ -119,9 +123,11 @@ Zinne noun g=f gen=Zinne pl=Zinnen
 Zins noun g=m gen=Zinses pl=Zinsen
 Zinsen noun g=pl
 Zionismus noun g=m gen=Zionismus pl=- note=no plural
+Zionist noun g=m gen=Zionisten pl=Zionisten
 Zipfel noun g=m gen=Zipfels pl=Zipfel
 Zirconium noun g=n gen=Zirconiums pl=- note=chemical element; also Zirkonium
 Zirkel noun g=m gen=Zirkels pl=Zirkel
+Zirkon noun g=m gen=Zirkons pl=Zirkone
 Zirkonium noun g=n gen=Zirkoniums pl=- note=chemical element; spelling variant of Zirconium
 Zirkus noun g=m gen=Zirkusses pl=Zirkusse
 Zisterne noun g=f gen=Zisterne pl=Zisternen

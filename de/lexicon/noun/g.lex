@@ -9,6 +9,7 @@ Galaxis noun g=f gen=Galaxis pl=Galaxien
 Galeere noun g=f gen=Galeere pl=Galeeren
 Galerie noun g=f gen=Galerie pl=Galerien
 Galerist noun g=m gen=Galeristen pl=Galeristen
+Galeristin noun g=f gen=Galeristin pl=Galeristinnen
 Galgen noun g=m gen=Galgens pl=Galgen
 Galle noun g=f gen=Galle pl=Gallen
 Gallium noun g=n gen=Galliums pl=- note=chemical element
@@ -91,6 +92,7 @@ Gebiss noun g=n gen=Gebisses pl=Gebisse
 Gebläse noun g=n gen=Gebläses pl=Gebläse
 Geblüt noun g=n gen=Geblüts|Geblütes pl=- note=no plural
 Gebot noun g=n gen=Gebotes|Gebots pl=Gebote
+Gebräu noun g=n gen=Gebräus|Gebräues pl=Gebräue
 Gebrauch noun g=m gen=Gebrauchs|Gebrauches[rare] pl=Gebräuche
 Gebrauchtwagen noun g=m gen=Gebrauchtwagens pl=Gebrauchtwagen
 Gebrüder noun g=pl
@@ -182,6 +184,7 @@ Geist noun g=m gen=Geistes|Geists[rare] pl=Geister
 Geistliche noun g=m|f decl=adj note=der Geistliche: clergyman
 Geiz noun g=m gen=Geizes pl=- note=mass noun
 Geizhals noun g=m gen=Geizhalses pl=Geizhälse
+Geklapper noun g=n gen=Geklappers pl=- note=no plural
 Gekreisch noun g=n gen=Gekreischs|Gekreisches pl=- note=no plural
 Gel noun g=n gen=Gels pl=Gele|Gels
 Gelächter noun g=n gen=Gelächters pl=- note=collective; plural not used
@@ -281,6 +284,7 @@ Geothermie noun g=f gen=Geothermie pl=- note=no plural
 Gepäck noun g=n gen=Gepäcks|Gepäckes pl=- note=mass noun
 Gepard noun g=m gen=Gepards pl=Geparde
 Gepflogenheit noun g=f gen=Gepflogenheit pl=Gepflogenheiten
+Geplänkel noun g=n gen=Geplänkels pl=Geplänkel
 Geplauder noun g=n gen=Geplauders pl=- note=no plural
 Gepolter noun g=n gen=Gepolters pl=- note=mass noun
 Gepräge noun g=n gen=Gepräges pl=- note=no plural in practice
@@ -446,6 +450,7 @@ Gewühl noun g=n gen=Gewühls|Gewühles pl=- note=mass noun
 Gewürm noun g=n gen=Gewürms|Gewürmes pl=Gewürme
 Gewürz noun g=n gen=Gewürzes pl=Gewürze
 Geysir noun g=m gen=Geysirs pl=Geysire
+Gezänk noun g=n gen=Gezänks|Gezänkes pl=- note=no plural
 Gezeiten noun g=pl
 Gezeitenkraftwerk noun g=n gen=Gezeitenkraftwerks pl=Gezeitenkraftwerke
 Gezweig noun g=n gen=Gezweigs pl=- note=no plural
@@ -532,6 +537,7 @@ Glückwunsch noun g=m gen=Glückwunsches pl=Glückwünsche
 Glühbirne noun g=f gen=Glühbirne pl=Glühbirnen
 Glühwein noun g=m gen=Glühweins|Glühweines pl=Glühweine
 Glühwürmchen noun g=n gen=Glühwürmchens pl=Glühwürmchen
+Glukose noun g=f gen=Glukose pl=- note=mass noun
 Gluon noun g=n gen=Gluons pl=Gluonen
 Glut noun g=f gen=Glut pl=- note=mass noun
 Gluten noun g=n gen=Glutens pl=- note=mass noun
@@ -608,10 +614,12 @@ Graupe noun g=f gen=Graupe pl=Graupen
 Graupel noun g=f gen=Graupel pl=Graupeln
 Grausamkeit noun g=f gen=Grausamkeit pl=Grausamkeiten
 Grausen noun g=n gen=Grausens pl=- note=lexicalised: horror
+Grauwacke noun g=f gen=Grauwacke pl=Grauwacken
 Graveur noun g=m gen=Graveurs pl=Graveure
 Gravitation noun g=f gen=Gravitation pl=- note=no plural
 Gravur noun g=f gen=Gravur pl=Gravuren
 Grazie noun g=f gen=Grazie pl=Grazien note=grace, charm; the Graces of mythology
+Gräzist noun g=m gen=Gräzisten pl=Gräzisten
 Greis noun g=m gen=Greises pl=Greise
 Greisin noun g=f gen=Greisin pl=Greisinnen
 Gremium noun g=n gen=Gremiums pl=Gremien

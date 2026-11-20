@@ -8,6 +8,7 @@ Nachbesserung noun g=f gen=Nachbesserung pl=Nachbesserungen
 Nachdruck noun g=m gen=Nachdrucks|Nachdruckes pl=Nachdrucke note=emphasis (no plural) and reprint (plural Nachdrucke)
 Nachen noun g=m gen=Nachens pl=Nachen note=small boat, elevated
 Nacherfüllung noun g=f gen=Nacherfüllung pl=Nacherfüllungen
+Nachfahrin noun g=f gen=Nachfahrin pl=Nachfahrinnen
 Nachfolge noun g=f gen=Nachfolge pl=- note=no plural
 Nachfolger noun g=m gen=Nachfolgers pl=Nachfolger
 Nachfolgerin noun g=f gen=Nachfolgerin pl=Nachfolgerinnen
@@ -57,6 +58,7 @@ Naivität noun g=f gen=Naivität pl=- note=mass noun
 Name         noun g=m gen=Namens pl=Namen
 Namensgebung noun g=f gen=Namensgebung pl=Namensgebungen
 Nanny noun g=f gen=Nanny pl=Nannys
+Nanometer noun g=m|n gen=Nanometers pl=Nanometer
 Napalm noun g=n gen=Napalms pl=- note=mass noun
 Napf noun g=m gen=Napfes|Napfs pl=Näpfe
 Narbe noun g=f gen=Narbe pl=Narben
@@ -90,6 +92,7 @@ Naturell noun g=n gen=Naturells pl=Naturelle
 Naturwissenschaft noun g=f gen=Naturwissenschaft pl=Naturwissenschaften
 Navigation noun g=f gen=Navigation pl=- note=mass noun
 Navigator noun g=m gen=Navigators pl=Navigatoren
+Nazarener noun g=m gen=Nazareners pl=Nazarener
 Nazi noun g=m gen=Nazis pl=Nazis
 Neandertaler noun g=m gen=Neandertalers pl=Neandertaler
 Neapolitaner noun g=m gen=Neapolitaners pl=Neapolitaner
@@ -110,6 +113,7 @@ Nehrung noun g=f gen=Nehrung pl=Nehrungen
 Neid noun g=m gen=Neides|Neids pl=- note=no plural
 Neider noun g=m gen=Neiders pl=Neider
 Neigung noun g=f gen=Neigung pl=Neigungen
+Nekrolog noun g=m gen=Nekrologs|Nekrologes pl=Nekrologe
 Nekropole noun g=f gen=Nekropole pl=Nekropolen
 Nektar noun g=m gen=Nektars pl=Nektare
 Nektarine noun g=f gen=Nektarine pl=Nektarinen
@@ -133,6 +137,7 @@ Nerv noun g=m gen=Nervs pl=Nerven
 Nervenkitzel noun g=m gen=Nervenkitzels pl=Nervenkitzel
 Nervosität noun g=f gen=Nervosität pl=- note=mass noun
 Nerz noun g=m gen=Nerzes pl=Nerze
+Nessel noun g=f gen=Nessel pl=Nesseln
 Nest noun g=n gen=Nests|Nestes pl=Nester
 Nestling noun g=m gen=Nestlings pl=Nestlinge
 Networking noun g=n gen=Networkings pl=- note=mass noun
@@ -195,14 +200,17 @@ Nitrit noun g=n gen=Nitrits pl=Nitrite
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nixe noun g=f gen=Nixe pl=Nixen
 Nobelium noun g=n gen=Nobeliums pl=- note=chemical element
+Noblesse noun g=f gen=Noblesse pl=- note=no plural
 Nocken noun g=m gen=Nockens pl=Nocken
 Nomade noun g=m gen=Nomaden pl=Nomaden
 Nomen noun g=n gen=Nomens pl=Nomen|Nomina
 Nomenklatur noun g=f gen=Nomenklatur pl=Nomenklaturen
+Nominalwert noun g=m gen=Nominalwerts|Nominalwertes pl=Nominalwerte
 Nominatform noun g=f gen=Nominatform pl=Nominatformen note=biology
 Nominativ noun g=m gen=Nominativs pl=Nominative
 Nominierung noun g=f gen=Nominierung pl=Nominierungen
 Nonne noun g=f gen=Nonne pl=Nonnen
+Nonsens noun g=m gen=Nonsens pl=- note=des Nonsens or Nonsenses; no plural
 Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in compass and compounds; plural not used
 Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural
@@ -215,6 +223,7 @@ Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
 Nostalgie noun g=f gen=Nostalgie pl=- note=no plural
 Not noun g=f gen=Not pl=Nöte
 Notar noun g=m gen=Notars pl=Notare
+Notariat noun g=n gen=Notariats|Notariates pl=Notariate
 Notarin noun g=f gen=Notarin pl=Notarinnen
 Notdurft noun g=f gen=Notdurft pl=- note=no plural
 Note noun g=f gen=Note pl=Noten

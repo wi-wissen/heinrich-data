@@ -34,6 +34,7 @@ Laminat noun g=n gen=Laminats|Laminates pl=Laminate
 Lamm noun g=n gen=Lammes|Lamms pl=Lämmer
 Lämmchen noun g=n gen=Lämmchens pl=Lämmchen
 Lampe noun g=f gen=Lampe pl=Lampen
+Lampion noun g=m gen=Lampions pl=Lampions
 LAN noun g=n gen=LAN|LANs pl=LANs
 Land noun g=n gen=Landes|Lands pl=Länder|Lande[archaic]
 Ländereien noun g=pl note=landholdings
@@ -60,6 +61,8 @@ Languste noun g=f gen=Languste pl=Langusten
 Lanthan noun g=n gen=Lanthans pl=- note=chemical element
 Lanthanoid noun g=n gen=Lanthanoids pl=Lanthanoide
 Lanze noun g=f gen=Lanze pl=Lanzen
+Lapidarium noun g=n gen=Lapidariums pl=Lapidarien
+Läppchen noun g=n gen=Läppchens pl=Läppchen
 Lappen noun g=m gen=Lappens pl=Lappen
 Laptop noun g=m gen=Laptops pl=Laptops
 Lärche noun g=f gen=Lärche pl=Lärchen
@@ -75,6 +78,8 @@ Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
 Latein noun g=n gen=Lateins pl=- note=the language
 Lateiner noun g=m gen=Lateiners pl=Lateiner
+Latenz noun g=f gen=Latenz pl=Latenzen
+Latenzzeit noun g=f gen=Latenzzeit pl=Latenzzeiten
 Laterne noun g=f gen=Laterne pl=Laternen
 Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
 Latte noun g=f gen=Latte pl=Latten
@@ -82,6 +87,7 @@ Latz noun g=m gen=Latzes pl=Lätze
 Latzhose noun g=f gen=Latzhose pl=Latzhosen
 Laub noun g=n gen=Laubs|Laubes pl=- note=mass noun
 Laube noun g=f gen=Laube pl=Lauben
+Laubengang noun g=m gen=Laubengangs|Laubenganges pl=Laubengänge
 Laubfrosch noun g=m gen=Laubfrosches pl=Laubfrösche
 Lauch noun g=m gen=Lauchs pl=- note=no plural
 Laudatio noun g=f gen=Laudatio pl=Laudationes|Laudatios conf=80 note=plural: Latin Laudationes and German Laudatios both in use
@@ -179,6 +185,7 @@ Leitplanke noun g=f gen=Leitplanke pl=Leitplanken
 Leitung noun g=f gen=Leitung pl=Leitungen
 Lektion noun g=f gen=Lektion pl=Lektionen
 Lektor noun g=m gen=Lektors pl=Lektoren
+Lektorat noun g=n gen=Lektorats|Lektorates pl=Lektorate
 Lektorin noun g=f gen=Lektorin pl=Lektorinnen
 Lektüre noun g=f gen=Lektüre pl=Lektüren
 Lemma noun g=n gen=Lemmas pl=Lemmata|Lemmas
@@ -188,6 +195,7 @@ Lenker noun g=m gen=Lenkers pl=Lenker
 Lenkrad noun g=n gen=Lenkrads|Lenkrades pl=Lenkräder
 Lenkung noun g=f gen=Lenkung pl=Lenkungen
 Leopard noun g=m gen=Leoparden pl=Leoparden
+Lepra noun g=f gen=Lepra pl=- note=no plural
 Lepton noun g=n gen=Leptons pl=Leptonen
 Lerche noun g=f gen=Lerche pl=Lerchen
 Lesbe noun g=f gen=Lesbe pl=Lesben
@@ -205,11 +213,13 @@ Leuchtdiode noun g=f gen=Leuchtdiode pl=Leuchtdioden
 Leuchte noun g=f gen=Leuchte pl=Leuchten
 Leuchter noun g=m gen=Leuchters pl=Leuchter
 Leuchtturm noun g=m gen=Leuchtturms|Leuchtturmes pl=Leuchttürme
+Leugner noun g=m gen=Leugners pl=Leugner
 Leukämie noun g=f gen=Leukämie pl=Leukämien
 Leutchen noun g=pl note=diminutive of Leute; plurale tantum
 Leute        noun g=pl
 Leutnant noun g=m gen=Leutnants pl=Leutnante|Leutnants
 Level noun g=n gen=Levels pl=Levels|Level conf=80 note=das Level; plural variant unsure
+Levit noun g=m gen=Leviten pl=Leviten
 Lexikograf noun g=m gen=Lexikografen pl=Lexikografen
 Lexikon noun g=n gen=Lexikons pl=Lexika|Lexiken[rare]
 Liane noun g=f gen=Liane pl=Lianen
@@ -233,7 +243,9 @@ Liebling noun g=m gen=Lieblings pl=Lieblinge
 Lieblingsfach noun g=n gen=Lieblingsfachs|Lieblingsfaches pl=Lieblingsfächer
 Lied noun g=n gen=Liedes|Lieds pl=Lieder
 Liedchen noun g=n gen=Liedchens pl=Liedchen
+Liederlichkeit noun g=f gen=Liederlichkeit pl=Liederlichkeiten
 Liedermacher noun g=m gen=Liedermachers pl=Liedermacher
+Liedermacherin noun g=f gen=Liedermacherin pl=Liedermacherinnen
 Lieferant noun g=m gen=Lieferanten pl=Lieferanten
 Lieferantin noun g=f gen=Lieferantin pl=Lieferantinnen
 Lieferung noun g=f gen=Lieferung pl=Lieferungen
@@ -322,6 +334,7 @@ Lok noun g=f gen=Lok pl=Loks note=Lokomotive
 Lokal noun g=n gen=Lokals|Lokales pl=Lokale
 Lokalität noun g=f gen=Lokalität pl=Lokalitäten
 Lokomotive noun g=f gen=Lokomotive pl=Lokomotiven
+Lombarde noun g=m gen=Lombarden pl=Lombarden
 Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the indeclinable adjective
 Looping noun g=m gen=Loopings pl=Loopings
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren

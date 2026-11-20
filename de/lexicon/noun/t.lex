@@ -52,6 +52,7 @@ Tänzerin noun g=f gen=Tänzerin pl=Tänzerinnen
 Tapete noun g=f gen=Tapete pl=Tapeten
 Tapezierer noun g=m gen=Tapezierers pl=Tapezierer
 Tapferkeit noun g=f gen=Tapferkeit pl=- note=no plural
+Tarantella noun g=f gen=Tarantella pl=Tarantellas|Tarantellen
 Tarif noun g=m gen=Tarifs|Tarifes pl=Tarife
 Tarifvertrag noun g=m gen=Tarifvertrags|Tarifvertrages pl=Tarifverträge
 Tarnung noun g=f gen=Tarnung pl=Tarnungen
@@ -118,6 +119,7 @@ Teilnehmer noun g=m gen=Teilnehmers pl=Teilnehmer
 Teilnehmerin noun g=f gen=Teilnehmerin pl=Teilnehmerinnen
 Teilung noun g=f gen=Teilung pl=Teilungen
 Teint noun g=m gen=Teints pl=Teints
+Tektonik noun g=f gen=Tektonik pl=- note=no plural
 Telefon noun g=n gen=Telefons pl=Telefone
 Telefonat noun g=n gen=Telefonats|Telefonates pl=Telefonate
 Telefonie noun g=f gen=Telefonie pl=- note=no plural
@@ -143,6 +145,7 @@ Tenne noun g=f gen=Tenne pl=Tennen
 Tenness noun g=n gen=Tenness pl=- conf=85 note=chemical element; bare genitive after the s-sound
 Tennis noun g=n gen=Tennis pl=- note=mass noun
 Tenor noun g=m gen=Tenors pl=Tenöre
+Tensid noun g=n gen=Tensids|Tensides pl=Tenside
 Tensor noun g=m gen=Tensors pl=Tensoren
 Teppich noun g=m gen=Teppichs|Teppiches pl=Teppiche
 Tequila noun g=m gen=Tequilas pl=Tequilas
@@ -198,6 +201,7 @@ Theilnahme noun g=f gen=Theilnahme pl=- spelling=old note=old spelling of Teilna
 Theke noun g=f gen=Theke pl=Theken
 Thema        noun g=n gen=Themas pl=Themen|Themata[rare]
 Thematik noun g=f gen=Thematik pl=Thematiken
+Theodizee noun g=f gen=Theodizee pl=Theodizeen
 Theologe noun g=m gen=Theologen pl=Theologen
 Theologie noun g=f gen=Theologie pl=Theologien
 Theologin noun g=f gen=Theologin pl=Theologinnen
@@ -235,6 +239,7 @@ Thymian noun g=m gen=Thymians pl=Thymiane
 Tiara noun g=f gen=Tiara pl=Tiaren
 Ticket noun g=n gen=Tickets pl=Tickets
 Tief noun g=n gen=Tiefs pl=Tiefs
+Tiefdecker noun g=m gen=Tiefdeckers pl=Tiefdecker
 Tiefe noun g=f gen=Tiefe pl=Tiefen
 Tiefkühltruhe noun g=f gen=Tiefkühltruhe pl=Tiefkühltruhen
 Tiefsttemperatur noun g=f gen=Tiefsttemperatur pl=Tiefsttemperaturen
@@ -300,6 +305,7 @@ Topflappen noun g=m gen=Topflappens pl=Topflappen
 Topografie noun g=f gen=Topografie pl=Topografien
 Topographie noun g=f gen=Topographie pl=Topographien note=variant spelling Topografie
 Topologie noun g=f gen=Topologie pl=Topologien
+Topos noun g=m gen=Topos pl=Topoi note=genitive unchanged (des Topos)
 Tor noun g=n gen=Tores|Tors pl=Tore sense=gate
 Tor noun g=m gen=Toren pl=Toren sense=fool note=der Tor, weak masculine
 Tora noun g=f gen=Tora pl=- note=also Thora
@@ -338,6 +344,7 @@ Trägerin noun g=f gen=Trägerin pl=Trägerinnen
 Trägerschaft noun g=f gen=Trägerschaft pl=Trägerschaften
 Trägheit noun g=f gen=Trägheit pl=- note=no plural
 Tragik noun g=f gen=Tragik pl=- note=mass noun
+Tragiker noun g=m gen=Tragikers pl=Tragiker
 Tragikomödie noun g=f gen=Tragikomödie pl=Tragikomödien
 Tragödie noun g=f gen=Tragödie pl=Tragödien
 Tragweite noun g=f gen=Tragweite pl=- note=no plural in practice
@@ -394,6 +401,7 @@ Trauung noun g=f gen=Trauung pl=Trauungen
 Trauzeuge noun g=m gen=Trauzeugen pl=Trauzeugen note=compound; the analyser would take Zeug as head
 Trauzeugin noun g=f gen=Trauzeugin pl=Trauzeuginnen
 Traverse noun g=f gen=Traverse pl=Traversen
+Travertin noun g=m gen=Travertins pl=Travertine
 Trawler noun g=m gen=Trawlers pl=Trawler
 Trecker noun g=m gen=Treckers pl=Trecker
 Treffen noun g=n gen=Treffens pl=Treffen note=lexicalised nominal infinitive: meeting
@@ -411,6 +419,7 @@ Tretroller noun g=m gen=Tretrollers pl=Tretroller
 Treue noun g=f gen=Treue pl=- note=no plural
 Treuhänder noun g=m gen=Treuhänders pl=Treuhänder
 Treuhänderin noun g=f gen=Treuhänderin pl=Treuhänderinnen
+Triade noun g=f gen=Triade pl=Triaden
 Triangel noun g=m gen=Triangels pl=Triangel
 Trias noun g=f gen=Trias pl=- note=geological period
 Triathlet noun g=m gen=Triathleten pl=Triathleten
@@ -470,6 +479,7 @@ Trubel noun g=m gen=Trubels pl=- note=no plural
 Trübsal noun g=f gen=Trübsal pl=Trübsale
 Truchsess noun g=m gen=Truchsesses|Truchsessen pl=Truchsesse|Truchsessen conf=70 note=historical court office; strong and weak declension both met
 Trüffel noun g=f gen=Trüffel pl=Trüffeln note=die Trüffel; colloquially also der Trüffel
+Trugbild noun g=n gen=Trugbilds|Trugbildes pl=Trugbilder
 Trugschluss noun g=m gen=Trugschlusses pl=Trugschlüsse
 Truhe noun g=f gen=Truhe pl=Truhen
 Trümmer noun g=pl
@@ -486,6 +496,7 @@ Truthuhn noun g=n gen=Truthuhns|Truthuhnes pl=Truthühner
 Tscheche noun g=m gen=Tschechen pl=Tschechen
 Tschechin noun g=f gen=Tschechin pl=Tschechinnen
 Tscherkesse noun g=m gen=Tscherkessen pl=Tscherkessen
+Tschetschene noun g=m gen=Tschetschenen pl=Tschetschenen
 Tschusch noun g=m gen=Tschuschen pl=Tschuschen region=AT style=offensive note=Austrian slur for people from the Balkans and Eastern Europe
 Tsunami noun g=m gen=Tsunamis pl=Tsunamis
 TSV noun g=m gen=TSV|TSVs pl=TSV|TSVs note=Turn- und Sportverein; der TSV
@@ -515,6 +526,7 @@ Türe noun g=f gen=Türe pl=Türen conf=90 note=variant of Tür (southern German
 Türke noun g=m gen=Türken pl=Türken
 Türkisch noun g=n gen=Türkisch|Türkischs pl=- note=language name; no plural
 Türklinke noun g=f gen=Türklinke pl=Türklinken note=compound not split correctly by the analyser
+Turkmene noun g=m gen=Turkmenen pl=Turkmenen
 Turm noun g=m gen=Turmes|Turms pl=Türme
 Türmer noun g=m gen=Türmers pl=Türmer
 Turnbeutel noun g=m gen=Turnbeutels pl=Turnbeutel

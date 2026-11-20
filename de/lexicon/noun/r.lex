@@ -156,12 +156,15 @@ Reformation noun g=f gen=Reformation pl=- note=mostly the historical Reformation
 Reformator noun g=m gen=Reformators pl=Reformatoren
 Reformer noun g=m gen=Reformers pl=Reformer
 Refrain noun g=m gen=Refrains pl=Refrains
+Refraktor noun g=m gen=Refraktors pl=Refraktoren
+Refugium noun g=n gen=Refugiums pl=Refugien
 Regal noun g=n gen=Regals pl=Regale
 Regatta noun g=f gen=Regatta pl=Regatten
 Regel noun g=f gen=Regel pl=Regeln
 Regelung noun g=f gen=Regelung pl=Regelungen
 Regen noun g=m gen=Regens pl=- note=mass noun; Regenfälle for the plural
 Regeneration noun g=f gen=Regeneration pl=Regenerationen
+Regenguss noun g=m gen=Regengusses pl=Regengüsse
 Regent noun g=m gen=Regenten pl=Regenten
 Regentin noun g=f gen=Regentin pl=Regentinnen
 Regentschaft noun g=f gen=Regentschaft pl=Regentschaften
@@ -180,6 +183,7 @@ Registratur noun g=f gen=Registratur pl=Registraturen
 Registrierung noun g=f gen=Registrierung pl=Registrierungen
 Reglement noun g=n gen=Reglements pl=Reglements
 Regler noun g=m gen=Reglers pl=Regler
+Regress noun g=m gen=Regresses pl=Regresse
 Regsamkeit noun g=f gen=Regsamkeit pl=- note=no plural
 Regularien noun g=pl
 Regulierung noun g=f gen=Regulierung pl=Regulierungen
@@ -207,6 +211,7 @@ Reinheit noun g=f gen=Reinheit pl=- note=mass noun
 Reiniger noun g=m gen=Reinigers pl=Reiniger
 Reinigkeit noun g=f gen=Reinigkeit pl=- note=no plural
 Reinigung noun g=f gen=Reinigung pl=Reinigungen
+Reinkarnation noun g=f gen=Reinkarnation pl=Reinkarnationen
 Reinlichkeit noun g=f gen=Reinlichkeit pl=- note=mass noun
 Reis noun g=m gen=Reises pl=- note=rice; mass noun
 Reise noun g=f gen=Reise pl=Reisen
@@ -221,6 +226,7 @@ Rekapitalisierung noun g=f gen=Rekapitalisierung pl=Rekapitalisierungen
 Rekatholisierung noun g=f gen=Rekatholisierung pl=Rekatholisierungen
 Reklamation noun g=f gen=Reklamation pl=Reklamationen
 Reklame noun g=f gen=Reklame pl=Reklamen
+Rekombination noun g=f gen=Rekombination pl=Rekombinationen
 Rekommunalisierung noun g=f gen=Rekommunalisierung pl=Rekommunalisierungen
 Rekonstruktion noun g=f gen=Rekonstruktion pl=Rekonstruktionen
 Rekord noun g=m gen=Rekords|Rekordes pl=Rekorde
@@ -250,6 +256,7 @@ Remise noun g=f gen=Remise pl=Remisen
 Remix noun g=m gen=Remix|Remixes pl=Remixe|Remixes conf=80 note=loanword; genitive and plural variants
 Remter noun g=m gen=Remters pl=Remter
 Renaissance noun g=f gen=Renaissance pl=- note=mass noun; Renaissancen is rare
+Renationalisierung noun g=f gen=Renationalisierung pl=Renationalisierungen
 Rendite noun g=f gen=Rendite pl=Renditen
 Rennen noun g=n gen=Rennens pl=Rennen note=lexicalised nominal infinitive (race)
 Renner noun g=m gen=Renners pl=Renner
@@ -263,6 +270,7 @@ Rentnerin noun g=f gen=Rentnerin pl=Rentnerinnen
 Reorganisation noun g=f gen=Reorganisation pl=Reorganisationen
 Reparatur noun g=f gen=Reparatur pl=Reparaturen
 Repertoire noun g=n gen=Repertoires pl=Repertoires
+Repertorium noun g=n gen=Repertoriums pl=Repertorien
 Replik noun g=f gen=Replik pl=Repliken
 Replikation noun g=f gen=Replikation pl=Replikationen
 Report noun g=m gen=Reports pl=Reports
@@ -327,9 +335,11 @@ Reverenz noun g=f gen=Reverenz pl=Reverenzen
 Revers noun g=n gen=Revers pl=Revers note=das Revers (lapel), genitive and plural unchanged
 Revier noun g=n gen=Reviers pl=Reviere
 Revision noun g=f gen=Revision pl=Revisionen
+Revisionist noun g=m gen=Revisionisten pl=Revisionisten
 Revisor noun g=m gen=Revisors pl=Revisoren
 Revolte noun g=f gen=Revolte pl=Revolten
 Revolution noun g=f gen=Revolution pl=Revolutionen
+Revolutionärin noun g=f gen=Revolutionärin pl=Revolutionärinnen
 Revolver noun g=m gen=Revolvers pl=Revolver
 Revue noun g=f gen=Revue pl=Revuen
 Rezensent noun g=m gen=Rezensenten pl=Rezensenten
@@ -376,6 +386,7 @@ Ringelnatter noun g=f gen=Ringelnatter pl=Ringelnattern
 Ringer noun g=m gen=Ringers pl=Ringer
 Ringerin noun g=f gen=Ringerin pl=Ringerinnen
 Rinne noun g=f gen=Rinne pl=Rinnen
+Rinnsal noun g=n gen=Rinnsals|Rinnsales pl=Rinnsale
 Rippe noun g=f gen=Rippe pl=Rippen
 Risalit noun g=m gen=Risalits|Risaliten pl=Risalite conf=80 note=architecture; genitive Risalits, weak Risaliten also seen
 Risiko noun g=n gen=Risikos pl=Risiken|Risikos[rare]
@@ -442,6 +453,7 @@ Röteln noun g=pl
 Rothaut noun g=f gen=Rothaut pl=Rothäute style=offensive note=derogatory term for Indigenous Americans; adventure novels
 Rotkehlchen noun g=n gen=Rotkehlchens pl=Rotkehlchen
 Rotor noun g=m gen=Rotors pl=Rotoren
+Rotorblatt noun g=n gen=Rotorblatts|Rotorblattes pl=Rotorblätter
 Rotunde noun g=f gen=Rotunde pl=Rotunden
 Rouladen noun g=pl
 Route noun g=f gen=Route pl=Routen
@@ -496,6 +508,7 @@ Ruin noun g=m gen=Ruins pl=- note=der Ruin (ruin, downfall); no plural
 Ruine noun g=f gen=Ruine pl=Ruinen
 Rumäne noun g=m gen=Rumänen pl=Rumänen
 Rumänin noun g=f gen=Rumänin pl=Rumäninnen
+Rumba noun g=f gen=Rumba pl=Rumbas conf=85 note=die Rumba, also der Rumba
 Rummel noun g=m gen=Rummels pl=- note=no plural (mass or abstract noun)
 Rumpf noun g=m gen=Rumpfs|Rumpfes pl=Rümpfe
 Runde noun g=f gen=Runde pl=Runden

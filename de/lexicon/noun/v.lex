@@ -68,6 +68,7 @@ Verbot noun g=n gen=Verbots|Verbotes pl=Verbote
 Verbrauch noun g=m gen=Verbrauchs|Verbrauches pl=- note=no plural
 Verbraucher noun g=m gen=Verbrauchers pl=Verbraucher
 Verbraucherin noun g=f gen=Verbraucherin pl=Verbraucherinnen
+Verbraucherschützer noun g=m gen=Verbraucherschützers pl=Verbraucherschützer
 Verbrechen noun g=n gen=Verbrechens pl=Verbrechen
 Verbrecher noun g=m gen=Verbrechers pl=Verbrecher
 Verbrecherin noun g=f gen=Verbrecherin pl=Verbrecherinnen
@@ -162,6 +163,8 @@ Verkehrsberuhigung noun g=f gen=Verkehrsberuhigung pl=Verkehrsberuhigungen
 Verkehrsmittel noun g=n gen=Verkehrsmittels pl=Verkehrsmittel
 Verklärung noun g=f gen=Verklärung pl=Verklärungen
 Verkleidung noun g=f gen=Verkleidung pl=Verkleidungen
+Verkleinerung noun g=f gen=Verkleinerung pl=Verkleinerungen
+Verkleinerungsform noun g=f gen=Verkleinerungsform pl=Verkleinerungsformen
 Verknüpfung noun g=f gen=Verknüpfung pl=Verknüpfungen
 Verkünder noun g=m gen=Verkünders pl=Verkünder
 Verkündigung noun g=f gen=Verkündigung pl=Verkündigungen
@@ -231,6 +234,7 @@ Verräter noun g=m gen=Verräters pl=Verräter
 Verräterin noun g=f gen=Verräterin pl=Verräterinnen
 Verrechnung noun g=f gen=Verrechnung pl=Verrechnungen
 Verrentung noun g=f gen=Verrentung pl=Verrentungen
+Verriegelung noun g=f gen=Verriegelung pl=Verriegelungen
 Verringerung noun g=f gen=Verringerung pl=Verringerungen
 Verruf noun g=m gen=Verrufs|Verrufes pl=- note=in Verruf geraten; no plural
 Vers noun g=m gen=Verses pl=Verse
@@ -371,6 +375,7 @@ Viereck noun g=n gen=Vierecks|Viereckes pl=Vierecke
 Viertel noun g=n gen=Viertels pl=Viertel
 Viertligist noun g=m gen=Viertligisten pl=Viertligisten
 Vierung noun g=f gen=Vierung pl=Vierungen
+Vietnamese noun g=m gen=Vietnamesen pl=Vietnamesen
 Vietnamkrieg noun g=m gen=Vietnamkriegs|Vietnamkrieges pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Vignette noun g=f gen=Vignette pl=Vignetten
 Vikar noun g=m gen=Vikars pl=Vikare
@@ -383,6 +388,7 @@ Violinist noun g=m gen=Violinisten pl=Violinisten
 Violinistin noun g=f gen=Violinistin pl=Violinistinnen
 Violoncello noun g=n gen=Violoncellos pl=Violoncellos|Violoncelli
 Viper noun g=f gen=Viper pl=Vipern
+Virologe noun g=m gen=Virologen pl=Virologen
 Virtuose noun g=m gen=Virtuosen pl=Virtuosen
 Virus noun g=n|m gen=Virus|Virusses pl=Viren note=das Virus; der Virus is colloquial
 Visier noun g=n gen=Visiers pl=Visiere
@@ -449,6 +455,7 @@ Vorfahre noun g=m gen=Vorfahren pl=Vorfahren
 Vorfahrt noun g=f gen=Vorfahrt pl=- note=no plural (mass or abstract noun)
 Vorfall noun g=m gen=Vorfalls|Vorfalles pl=Vorfälle
 Vorfeld noun g=n gen=Vorfelds|Vorfeldes pl=Vorfelder
+Vorfluter noun g=m gen=Vorfluters pl=Vorfluter
 Vorgabe noun g=f gen=Vorgabe pl=Vorgaben
 Vorgang noun g=m gen=Vorgangs|Vorganges pl=Vorgänge
 Vorgänger noun g=m gen=Vorgängers pl=Vorgänger

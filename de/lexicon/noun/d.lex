@@ -2,6 +2,7 @@ Dach          noun g=n gen=Daches|Dachs pl=Dächer
 Dachdecker noun g=m gen=Dachdeckers pl=Dachdecker
 Dachdeckerin noun g=f gen=Dachdeckerin pl=Dachdeckerinnen
 Dachfirst noun g=m gen=Dachfirsts|Dachfirstes pl=Dachfirste
+Dachgaube noun g=f gen=Dachgaube pl=Dachgauben
 Dachrinne noun g=f gen=Dachrinne pl=Dachrinnen
 Dachs noun g=m gen=Dachses pl=Dachse
 Dackel noun g=m gen=Dackels pl=Dackel
@@ -76,6 +77,7 @@ Dekanin noun g=f gen=Dekanin pl=Dekaninnen
 Dekarbonisierung noun g=f gen=Dekarbonisierung pl=- note=mass noun
 Deklaration noun g=f gen=Deklaration pl=Deklarationen
 Deklination noun g=f gen=Deklination pl=Deklinationen
+Dekonstruktion noun g=f gen=Dekonstruktion pl=Dekonstruktionen
 Dekor noun g=m|n gen=Dekors pl=Dekors|Dekore
 Dekorateur noun g=m gen=Dekorateurs pl=Dekorateure
 Dekoration noun g=f gen=Dekoration pl=Dekorationen
@@ -164,6 +166,7 @@ Dezimalstelle noun g=f gen=Dezimalstelle pl=Dezimalstellen
 Dezimalzahl noun g=f gen=Dezimalzahl pl=Dezimalzahlen
 Dia noun g=n gen=Dias pl=Dias
 Diabetes noun g=m gen=Diabetes pl=- note=no plural
+Diabetiker noun g=m gen=Diabetikers pl=Diabetiker
 Diadem noun g=n gen=Diadems pl=Diademe
 Diagnose noun g=f gen=Diagnose pl=Diagnosen
 Diagnostik noun g=f gen=Diagnostik pl=- note=no plural
@@ -180,6 +183,7 @@ Diamant noun g=m gen=Diamanten pl=Diamanten
 Diarrhö noun g=f gen=Diarrhö pl=Diarrhöen note=also spelled Diarrhöe
 Diarrhöe noun g=f gen=Diarrhöe pl=Diarrhöen note=also spelled Diarrhö
 Diät noun g=f gen=Diät pl=Diäten
+Diätetik noun g=f gen=Diätetik pl=Diätetiken
 Dichte noun g=f gen=Dichte pl=Dichten
 Dichter       noun g=m gen=Dichters pl=Dichter
 Dichterin noun g=f gen=Dichterin pl=Dichterinnen
@@ -222,6 +226,7 @@ Ding noun g=n gen=Dinges|Dings pl=Dinge|Dinger[colloquial]
 Dingo noun g=m gen=Dingos pl=Dingos
 Dinosaurier noun g=m gen=Dinosauriers pl=Dinosaurier
 Diode noun g=f gen=Diode pl=Dioden
+Diorama noun g=n gen=Dioramas pl=Dioramen
 Dioxid noun g=n gen=Dioxids|Dioxides pl=Dioxide
 Diözese noun g=f gen=Diözese pl=Diözesen
 Dip noun g=m gen=Dips pl=Dips
@@ -231,7 +236,9 @@ Diplom noun g=n gen=Diploms|Diplomes[rare] pl=Diplome
 Diplomat noun g=m gen=Diplomaten pl=Diplomaten
 Diplomatie noun g=f gen=Diplomatie pl=- note=no plural
 Diplomatin noun g=f gen=Diplomatin pl=Diplomatinnen
+Direkteinspritzung noun g=f gen=Direkteinspritzung pl=Direkteinspritzungen
 Direktion noun g=f gen=Direktion pl=Direktionen
+Direktive noun g=f gen=Direktive pl=Direktiven
 Direktor      noun g=m gen=Direktors pl=Direktoren
 Direktorin noun g=f gen=Direktorin pl=Direktorinnen
 Direktorium noun g=n gen=Direktoriums pl=Direktorien
@@ -240,6 +247,7 @@ Dirigentin noun g=f gen=Dirigentin pl=Dirigentinnen
 Dirne noun g=f gen=Dirne pl=Dirnen
 Disco noun g=f gen=Disco pl=Discos
 Discounter noun g=m gen=Discounters pl=Discounter
+Diskant noun g=m gen=Diskants pl=Diskante
 Diskografie noun g=f gen=Diskografie pl=Diskografien
 Diskothek noun g=f gen=Diskothek pl=Diskotheken
 Diskrepanz noun g=f gen=Diskrepanz pl=Diskrepanzen
@@ -283,6 +291,7 @@ Dockingstation noun g=f gen=Dockingstation pl=Dockingstationen
 Doge noun g=m gen=Dogen pl=Dogen
 Dogma noun g=n gen=Dogmas pl=Dogmen
 Dogmatik noun g=f gen=Dogmatik pl=Dogmatiken
+Dogmatiker noun g=m gen=Dogmatikers pl=Dogmatiker
 Dohle noun g=f gen=Dohle pl=Dohlen
 Doktor        noun g=m gen=Doktors pl=Doktoren
 Doktorand noun g=m gen=Doktoranden pl=Doktoranden
@@ -297,6 +306,7 @@ Dokumentarfilmerin noun g=f gen=Dokumentarfilmerin pl=Dokumentarfilmerinnen
 Dokumentation noun g=f gen=Dokumentation pl=Dokumentationen
 Dolch noun g=m gen=Dolchs|Dolches pl=Dolche
 Dolde noun g=f gen=Dolde pl=Dolden
+Doline noun g=f gen=Doline pl=Dolinen
 Dollar noun g=m gen=Dollars pl=Dollar|Dollars
 Dolmen noun g=m gen=Dolmens pl=Dolmen
 Dolmetscher noun g=m gen=Dolmetschers pl=Dolmetscher
@@ -351,11 +361,13 @@ Dramaturgie noun g=f gen=Dramaturgie pl=Dramaturgien
 Dramaturgin noun g=f gen=Dramaturgin pl=Dramaturginnen
 Drang noun g=m gen=Drangs|Dranges pl=Dränge
 Drangsal noun g=f gen=Drangsal pl=Drangsale
+Draufgänger noun g=m gen=Draufgängers pl=Draufgänger
 Dreck noun g=m gen=Drecks|Dreckes pl=- note=mass noun
 Dreh noun g=m gen=Drehs pl=Drehs
 Drehung noun g=f gen=Drehung pl=Drehungen
 Dreieck noun g=n gen=Dreiecks|Dreieckes[rare] pl=Dreiecke
 Dreifaltigkeit noun g=f gen=Dreifaltigkeit pl=- note=no plural
+Dreiheit noun g=f gen=Dreiheit pl=Dreiheiten
 Dreirad noun g=n gen=Dreirads|Dreirades pl=Dreiräder
 Dreisatz noun g=m gen=Dreisatzes pl=- note=no plural
 Dreisprung noun g=m gen=Dreisprungs|Dreisprunges pl=Dreisprünge
@@ -363,6 +375,7 @@ Dreizack noun g=m gen=Dreizacks|Dreizackes pl=Dreizacke
 Dresdner noun g=m gen=Dresdners pl=Dresdner
 Dressur noun g=f gen=Dressur pl=Dressuren
 Drill noun g=m gen=Drills|Drilles pl=- note=no plural
+Drilling noun g=m gen=Drillings pl=Drillinge
 Dringlichkeit noun g=f gen=Dringlichkeit pl=Dringlichkeiten
 Drittel       noun g=n gen=Drittels pl=Drittel
 Drittstaat noun g=m gen=Drittstaates|Drittstaats pl=Drittstaaten
@@ -395,6 +408,7 @@ Duft noun g=m gen=Duftes|Dufts pl=Düfte
 Duftstoffrezeptur noun g=f gen=Duftstoffrezeptur pl=Duftstoffrezepturen
 Dukat noun g=m gen=Dukaten pl=Dukaten
 Duktus noun g=m gen=Duktus pl=Duktus note=genitive and plural unchanged (des Duktus)
+Dulder noun g=m gen=Dulders pl=Dulder
 Duldung noun g=f gen=Duldung pl=- note=no plural
 Dummheit noun g=f gen=Dummheit pl=Dummheiten
 Dumping noun g=n gen=Dumpings pl=- note=no plural
@@ -406,6 +420,7 @@ Dünkel noun g=m gen=Dünkels pl=- note=no plural
 Dunkelheit noun g=f gen=Dunkelheit pl=- note=no plural
 Dunst noun g=m gen=Dunstes|Dunsts pl=Dünste
 Duo noun g=n gen=Duos pl=Duos
+Duplikat noun g=n gen=Duplikats|Duplikates pl=Duplikate
 Dur noun g=n gen=Dur pl=- note=des Dur; no plural
 Durchbruch noun g=m gen=Durchbruchs|Durchbruches pl=Durchbrüche
 Durchführung  noun g=f gen=Durchführung pl=- note=no regular plural
@@ -425,6 +440,7 @@ Dusche noun g=f gen=Dusche pl=Duschen
 Duschgel noun g=n gen=Duschgels pl=Duschgels
 Duschkabine noun g=f gen=Duschkabine pl=Duschkabinen
 Düse noun g=f gen=Düse pl=Düsen
+Dusel noun g=m gen=Dusels pl=- style=colloquial note=no plural
 Düsseldorfer noun g=m gen=Düsseldorfers pl=Düsseldorfer
 Düsternis noun g=f gen=Düsternis pl=- note=no plural
 Dutzend noun g=n gen=Dutzends|Dutzend pl=Dutzende|Dutzend note=genitive/plural also unchanged after numerals

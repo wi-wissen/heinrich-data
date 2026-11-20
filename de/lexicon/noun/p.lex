@@ -39,6 +39,7 @@ Pamphlet noun g=n gen=Pamphlets|Pamphletes pl=Pamphlete
 Panda noun g=m gen=Pandas pl=Pandas
 Pandemie noun g=f gen=Pandemie pl=Pandemien
 Panik noun g=f gen=Panik pl=- note=plural not used
+Pankreas noun g=n gen=Pankreas pl=Pankreata note=genitive unchanged
 Panne noun g=f gen=Panne pl=Pannen
 Panorama noun g=n gen=Panoramas pl=Panoramen
 Pantheismus noun g=m gen=Pantheismus pl=- note=no plural
@@ -131,6 +132,8 @@ Paste noun g=f gen=Paste pl=Pasten
 Pastell noun g=n gen=Pastells|Pastelles pl=Pastelle
 Pastete noun g=f gen=Pastete pl=Pasteten
 Pastor noun g=m gen=Pastors pl=Pastoren|Pastore[rare]
+Pastorale noun g=f gen=Pastorale pl=Pastoralen
+Pastorat noun g=n gen=Pastorats|Pastorates pl=Pastorate
 Pastorin noun g=f gen=Pastorin pl=Pastorinnen
 Patch noun g=m gen=Patches|Patchs pl=Patches|Patchs conf=80 note=software patch
 Patchworkfamilie noun g=f gen=Patchworkfamilie pl=Patchworkfamilien
@@ -191,6 +194,7 @@ Pensionärin noun g=f gen=Pensionärin pl=Pensionärinnen
 Pensionat noun g=n gen=Pensionats|Pensionates pl=Pensionate
 Pensionierung noun g=f gen=Pensionierung pl=Pensionierungen
 Pensum noun g=n gen=Pensums pl=Pensen|Pensa
+Peptid noun g=n gen=Peptids|Peptides pl=Peptide
 Perestroika noun g=f gen=Perestroika pl=- note=no plural
 Perfekt noun g=n gen=Perfekts|Perfektes pl=Perfekte
 Performance noun g=f gen=Performance pl=Performances
@@ -207,6 +211,7 @@ Perm noun g=n gen=Perms pl=- note=geological period
 Permutation noun g=f gen=Permutation pl=Permutationen
 Peroxid noun g=n gen=Peroxids|Peroxides pl=Peroxide
 Perser noun g=m gen=Persers pl=Perser
+Persiflage noun g=f gen=Persiflage pl=Persiflagen
 Perso noun g=m gen=Persos pl=Persos style=colloquial alt=Personalausweis note=Personalausweis
 Person noun g=f gen=Person pl=Personen
 Personal noun g=n gen=Personals|Personales[rare] pl=Personale[rare] note=mass noun (staff); plural rare
@@ -220,6 +225,7 @@ Perücke noun g=f gen=Perücke pl=Perücken
 Peso noun g=m gen=Pesos pl=Pesos
 Pessach noun g=n gen=Pessachs pl=- note=no plural (mass or abstract noun)
 Pest noun g=f gen=Pest pl=- note=no plural
+Pestilenz noun g=f gen=Pestilenz pl=Pestilenzen
 Pestizid noun g=n gen=Pestizids|Pestizides pl=Pestizide
 Petent noun g=m gen=Petenten pl=Petenten
 Petersilie noun g=f gen=Petersilie pl=- note=no plural
@@ -232,6 +238,7 @@ Pfadfinderin noun g=f gen=Pfadfinderin pl=Pfadfinderinnen
 Pfaffe noun g=m gen=Pfaffen pl=Pfaffen note=pejorative for a clergyman
 Pfahl noun g=m gen=Pfahls|Pfahles pl=Pfähle
 Pfalzgraf noun g=m gen=Pfalzgrafen pl=Pfalzgrafen
+Pfalzgräfin noun g=f gen=Pfalzgräfin pl=Pfalzgräfinnen
 Pfalzgrafschaft noun g=f gen=Pfalzgrafschaft pl=Pfalzgrafschaften
 Pfand noun g=n gen=Pfands|Pfandes pl=Pfänder
 Pfandleiher noun g=m gen=Pfandleihers pl=Pfandleiher
@@ -290,6 +297,7 @@ Phalanx noun g=f gen=Phalanx pl=Phalangen
 Phänomen noun g=n gen=Phänomens pl=Phänomene
 Phantasie noun g=f gen=Phantasie pl=Phantasien note=variant spelling of Fantasie
 Phantast noun g=m gen=Phantasten pl=Phantasten
+Phantastik noun g=f gen=Phantastik pl=- note=no plural
 Phantom noun g=n gen=Phantoms pl=Phantome
 Pharao noun g=m gen=Pharaos pl=Pharaonen
 Pharisäer noun g=m gen=Pharisäers pl=Pharisäer
@@ -299,8 +307,10 @@ Pharmakologie noun g=f gen=Pharmakologie pl=- note=academic discipline
 Pharmazeut noun g=m gen=Pharmazeuten pl=Pharmazeuten
 Pharmazie noun g=f gen=Pharmazie pl=- note=mass noun
 Phase noun g=f gen=Phase pl=Phasen
+Phenol noun g=n gen=Phenols pl=Phenole
 Philanthrop noun g=m gen=Philanthropen pl=Philanthropen
 Philatelie noun g=f gen=Philatelie pl=- note=no plural
+Philatelist noun g=m gen=Philatelisten pl=Philatelisten
 Philharmonie noun g=f gen=Philharmonie pl=Philharmonien
 Philharmoniker noun g=m gen=Philharmonikers pl=Philharmoniker
 Philister noun g=m gen=Philisters pl=Philister
@@ -449,6 +459,7 @@ Politik noun g=f gen=Politik pl=- note=mass noun; Politiken is very rare
 Politiker noun g=m gen=Politikers pl=Politiker
 Politikerin noun g=f gen=Politikerin pl=Politikerinnen
 Politologe noun g=m gen=Politologen pl=Politologen
+Politologie noun g=f gen=Politologie pl=- note=no plural
 Politur noun g=f gen=Politur pl=Polituren
 Polizei noun g=f gen=Polizei pl=Polizeien
 Polizist noun g=m gen=Polizisten pl=Polizisten
@@ -464,11 +475,13 @@ Polymer noun g=n gen=Polymers pl=Polymere
 Polymerisation noun g=f gen=Polymerisation pl=Polymerisationen
 Polynom noun g=n gen=Polynoms pl=Polynome
 Polyp noun g=m gen=Polypen pl=Polypen
+Polystyrol noun g=n gen=Polystyrols pl=Polystyrole
 Polytechnikum noun g=n gen=Polytechnikums pl=Polytechniken|Polytechnika
 Pomeranze noun g=f gen=Pomeranze pl=Pomeranzen
 Pommes noun g=pl
 Pomp noun g=m gen=Pomps|Pompes pl=- note=mass noun
 Poncho noun g=m gen=Ponchos pl=Ponchos
+Pontifex noun g=m gen=Pontifex pl=Pontifizes note=genitive unchanged
 Pony noun g=m gen=Ponys pl=Ponys sense=fringe note=der Pony: hairstyle
 Pony noun g=n gen=Ponys pl=Ponys sense=horse note=das Pony: small horse
 Pony noun g=n gen=Ponys pl=Ponys
@@ -577,6 +590,7 @@ Prävalenz noun g=f gen=Prävalenz pl=Prävalenzen
 Prävention noun g=f gen=Prävention pl=Präventionen
 Praxis noun g=f gen=Praxis pl=Praxen
 Präzedenzfall noun g=m gen=Präzedenzfalls|Präzedenzfalles pl=Präzedenzfälle
+Präzeptor noun g=m gen=Präzeptors pl=Präzeptoren
 Präzisierung noun g=f gen=Präzisierung pl=Präzisierungen
 Präzision noun g=f gen=Präzision pl=- note=mass noun
 Predella noun g=f gen=Predella pl=Predellen
@@ -593,12 +607,14 @@ Presbyterium noun g=n gen=Presbyteriums pl=Presbyterien
 Presse noun g=f gen=Presse pl=Pressen
 Pressefreiheit noun g=f gen=Pressefreiheit pl=- note=mass noun
 Preuße noun g=m gen=Preußen pl=Preußen
+Priel noun g=m gen=Priels|Prieles pl=Priele
 Priester noun g=m gen=Priesters pl=Priester
 Priesterin noun g=f gen=Priesterin pl=Priesterinnen
 Primadonna noun g=f gen=Primadonna pl=Primadonnen
 Primaner noun g=m gen=Primaners pl=Primaner
 Primat noun g=m|n gen=Primats|Primates pl=Primate sense=primacy note=der/das Primat: priority
 Primat noun g=m gen=Primaten pl=Primaten sense=animal note=der Primat: primate
+Primogenitur noun g=f gen=Primogenitur pl=Primogenituren
 Primus noun g=m gen=Primus pl=Primusse|Primi note=des Primus
 Primzahl noun g=f gen=Primzahl pl=Primzahlen
 Printe noun g=f gen=Printe pl=Printen
@@ -626,6 +642,7 @@ Probenahme noun g=f gen=Probenahme pl=Probenahmen note=technical term (sampling)
 Probennahme noun g=f gen=Probennahme pl=Probennahmen
 Problem noun g=n gen=Problems pl=Probleme
 Problematik noun g=f gen=Problematik pl=Problematiken
+Prodekan noun g=m gen=Prodekans pl=Prodekane
 Produkt noun g=n gen=Produkts|Produktes pl=Produkte
 Produktion noun g=f gen=Produktion pl=Produktionen
 Produktivität noun g=f gen=Produktivität pl=- note=no plural
@@ -659,9 +676,11 @@ Prokurist noun g=m gen=Prokuristen pl=Prokuristen
 Prokuristin noun g=f gen=Prokuristin pl=Prokuristinnen
 Proletariat noun g=n gen=Proletariats|Proletariates pl=Proletariate
 Proletarier noun g=m gen=Proletariers pl=Proletarier
+Proll noun g=m gen=Prolls pl=Prolls style=colloquial
 Prolog noun g=m gen=Prologs pl=Prologe
 Promenade noun g=f gen=Promenade pl=Promenaden
 Promethium noun g=n gen=Promethiums pl=- note=chemical element
+Promi noun g=m gen=Promis pl=Promis style=colloquial
 Promille noun g=n gen=Promilles|Promille pl=Promille,Promille,Promille,Promille note=dative plural without -n (mit zwei Promille)
 Prominente noun g=m|f decl=adj note=celebrity
 Prominenz noun g=f gen=Prominenz pl=- note=no plural
@@ -669,6 +688,7 @@ Promotion noun g=f gen=Promotion pl=Promotionen
 Pronomen noun g=n gen=Pronomens pl=Pronomen|Pronomina
 Propädeutik noun g=f gen=Propädeutik pl=Propädeutiken
 Propaganda noun g=f gen=Propaganda pl=- note=mass noun
+Propagandist noun g=m gen=Propagandisten pl=Propagandisten
 Propan noun g=n gen=Propans pl=- note=mass noun; gas
 Propeller noun g=m gen=Propellers pl=Propeller
 Prophet noun g=m gen=Propheten pl=Propheten
@@ -682,6 +702,7 @@ Proportionalitätsfaktor noun g=m gen=Proportionalitätsfaktors pl=Proportionali
 Propst noun g=m gen=Propstes|Propsts pl=Pröpste
 Prorektor noun g=m gen=Prorektors pl=Prorektoren
 Prosa noun g=f gen=Prosa pl=- note=mass noun
+Prosektor noun g=m gen=Prosektors pl=Prosektoren
 Prosit noun g=n gen=Prosit pl=- note=no genitive ending
 Prospekt noun g=m gen=Prospekts|Prospektes pl=Prospekte
 Prosperität noun g=f gen=Prosperität pl=- note=abstract noun, no plural
@@ -744,6 +765,7 @@ Psychotherapeut noun g=m gen=Psychotherapeuten pl=Psychotherapeuten
 Psychotherapeutin noun g=f gen=Psychotherapeutin pl=Psychotherapeutinnen
 Psychotherapie noun g=f gen=Psychotherapie pl=Psychotherapien
 Psychothriller noun g=m gen=Psychothrillers pl=Psychothriller
+Ptolemäer noun g=m gen=Ptolemäers pl=Ptolemäer
 Pubertät noun g=f gen=Pubertät pl=- note=no plural
 Publikation noun g=f gen=Publikation pl=Publikationen
 Publikum noun g=n gen=Publikums pl=Publika[rare] note=mostly singular
@@ -782,4 +804,5 @@ Puzzle noun g=n gen=Puzzles pl=Puzzles|Puzzle
 Pyjama noun g=m gen=Pyjamas pl=Pyjamas
 Pylon noun g=m gen=Pylons|Pylonen pl=Pylonen|Pylone
 Pyramide noun g=f gen=Pyramide pl=Pyramiden
+Pyrit noun g=m gen=Pyrits pl=Pyrite
 Python noun g=m gen=Pythons pl=Pythons

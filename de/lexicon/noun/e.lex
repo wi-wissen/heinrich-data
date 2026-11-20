@@ -58,6 +58,7 @@ Eignung noun g=f gen=Eignung pl=Eignungen
 Eilbedürftigkeit noun g=f gen=Eilbedürftigkeit pl=- note=mass noun
 Eile noun g=f gen=Eile pl=- note=no plural
 Eimer noun g=m gen=Eimers pl=Eimer
+Einakter noun g=m gen=Einakters pl=Einakter
 Einarbeitung noun g=f gen=Einarbeitung pl=Einarbeitungen
 Einbahnstraße noun g=f gen=Einbahnstraße pl=Einbahnstraßen
 Einberufung noun g=f gen=Einberufung pl=Einberufungen
@@ -81,6 +82,7 @@ Einfamilienhaus noun g=n gen=Einfamilienhauses pl=Einfamilienhäuser
 Einfluss noun g=m gen=Einflusses pl=Einflüsse
 Einflussnahme noun g=f gen=Einflussnahme pl=Einflussnahmen
 Einförmigkeit noun g=f gen=Einförmigkeit pl=- note=no plural
+Einfühlungsvermögen noun g=n gen=Einfühlungsvermögens pl=- note=no plural
 Einfuhr noun g=f gen=Einfuhr pl=Einfuhren
 Einführung noun g=f gen=Einführung pl=Einführungen
 Eingabe noun g=f gen=Eingabe pl=Eingaben
@@ -117,6 +119,7 @@ Einlösung noun g=f gen=Einlösung pl=Einlösungen
 Einmarsch noun g=m gen=Einmarschs|Einmarsches pl=Einmärsche
 Einmündung noun g=f gen=Einmündung pl=Einmündungen
 Einnahme noun g=f gen=Einnahme pl=Einnahmen
+Einnehmer noun g=m gen=Einnehmers pl=Einnehmer
 Einöde noun g=f gen=Einöde pl=Einöden
 Einordnung noun g=f gen=Einordnung pl=Einordnungen
 Einreichung noun g=f gen=Einreichung pl=- note=no plural
@@ -136,6 +139,7 @@ Einsichtnahme noun g=f gen=Einsichtnahme pl=- note=no plural
 Einsitzer noun g=m gen=Einsitzers pl=Einsitzer
 Einspänner noun g=m gen=Einspänners pl=Einspänner
 Einsparung noun g=f gen=Einsparung pl=Einsparungen
+Einspritzung noun g=f gen=Einspritzung pl=Einspritzungen
 Einspruch noun g=m gen=Einspruchs|Einspruches pl=Einsprüche
 Einsteiger noun g=m gen=Einsteigers pl=Einsteiger
 Einsteinium noun g=n gen=Einsteiniums pl=- note=chemical element
@@ -187,12 +191,14 @@ Eiswürfel noun g=m gen=Eiswürfels pl=Eiswürfel
 Eiszapfen noun g=m gen=Eiszapfens pl=Eiszapfen
 Eitelkeit noun g=f gen=Eitelkeit pl=Eitelkeiten
 Eiter noun g=m gen=Eiters pl=- note=mass noun
+Eiterung noun g=f gen=Eiterung pl=Eiterungen
 Eiweiß noun g=n gen=Eiweißes pl=Eiweiße
 Ekel noun g=m gen=Ekels pl=- sense=disgust note=no plural
 Ekel noun g=n gen=Ekels pl=Ekel sense=person note=colloquial: a nasty person
 Eklat noun g=m gen=Eklats pl=Eklats
 Ekliptik noun g=f gen=Ekliptik pl=- note=astronomical term, no plural
 Ekstase noun g=f gen=Ekstase pl=Ekstasen
+Ekzem noun g=n gen=Ekzems pl=Ekzeme
 Elch noun g=m gen=Elches|Elchs pl=Elche
 Elefant noun g=m gen=Elefanten pl=Elefanten
 Eleganz noun g=f gen=Eleganz pl=- note=no plural
@@ -207,6 +213,7 @@ Elektrolyse noun g=f gen=Elektrolyse pl=Elektrolysen
 Elektrolyt noun g=m gen=Elektrolyts pl=Elektrolyte conf=85 note=weak forms des/die Elektrolyten are also met
 Elektron noun g=n gen=Elektrons pl=Elektronen
 Elektronik noun g=f gen=Elektronik pl=- note=no plural
+Elektroniker noun g=m gen=Elektronikers pl=Elektroniker
 Elektroroller noun g=m gen=Elektrorollers pl=Elektroroller
 Elektroschrott noun g=m gen=Elektroschrotts pl=- note=no plural
 Elektrotechnik noun g=f gen=Elektrotechnik pl=- note=no plural
@@ -256,6 +263,7 @@ Empörung noun g=f gen=Empörung pl=- note=no plural
 Ende noun g=n gen=Endes pl=Enden
 Endemit noun g=m gen=Endemiten pl=Endemiten
 Endlager noun g=n gen=Endlagers pl=Endlager
+Endmoräne noun g=f gen=Endmoräne pl=Endmoränen
 Endomorphismus noun g=m gen=Endomorphismus pl=Endomorphismen
 Endreim noun g=m gen=Endreims|Endreimes pl=Endreime
 Endung noun g=f gen=Endung pl=Endungen
@@ -330,12 +338,15 @@ Entzündung noun g=f gen=Entzündung pl=Entzündungen
 Enzian noun g=m gen=Enzians pl=Enziane
 Enzyklika noun g=f gen=Enzyklika pl=Enzykliken
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
+Enzyklopädist noun g=m gen=Enzyklopädisten pl=Enzyklopädisten
 Enzym noun g=n gen=Enzyms pl=Enzyme
 Eozän noun g=n gen=Eozäns pl=- note=geological epoch
 Eparchie noun g=f gen=Eparchie pl=Eparchien
+Epaulette noun g=f gen=Epaulette pl=Epauletten
 Epidemie noun g=f gen=Epidemie pl=Epidemien
 Epidermis noun g=f gen=Epidermis pl=Epidermen
 Epigramm noun g=n gen=Epigramms pl=Epigramme
+Epigraphik noun g=f gen=Epigraphik pl=- note=no plural
 Epigraphiker noun g=m gen=Epigraphikers pl=Epigraphiker
 Epik noun g=f gen=Epik pl=- note=no plural
 Epilepsie noun g=f gen=Epilepsie pl=Epilepsien
@@ -430,6 +441,7 @@ Ermittler noun g=m gen=Ermittlers pl=Ermittler
 Ermittlerin noun g=f gen=Ermittlerin pl=Ermittlerinnen
 Ermittlung noun g=f gen=Ermittlung pl=Ermittlungen
 Ermordung noun g=f gen=Ermordung pl=Ermordungen
+Ernährer noun g=m gen=Ernährers pl=Ernährer
 Ernährung noun g=f gen=Ernährung pl=- note=mass noun
 Ernennung noun g=f gen=Ernennung pl=Ernennungen
 Erneuerung noun g=f gen=Erneuerung pl=Erneuerungen
@@ -504,6 +516,7 @@ Erzielung noun g=f gen=Erzielung pl=Erzielungen
 Erzstift noun g=n gen=Erzstifts|Erzstiftes pl=Erzstifte
 Esche noun g=f gen=Esche pl=Eschen
 Esel noun g=m gen=Esels pl=Esel
+Eselin noun g=f gen=Eselin pl=Eselinnen
 Eskadron noun g=f gen=Eskadron pl=Eskadronen
 Eskalation noun g=f gen=Eskalation pl=Eskalationen
 Eskorte noun g=f gen=Eskorte pl=Eskorten
@@ -581,12 +594,14 @@ Exil noun g=n gen=Exils pl=Exile
 Exilant noun g=m gen=Exilanten pl=Exilanten
 Existenz noun g=f gen=Existenz pl=Existenzen
 Exklave noun g=f gen=Exklave pl=Exklaven
+Exkrement noun g=n gen=Exkrements|Exkrementes pl=Exkremente
 Exkursion noun g=f gen=Exkursion pl=Exkursionen
 Exogamie noun g=f gen=Exogamie pl=- note=no plural
 Exoplanet noun g=m gen=Exoplaneten pl=Exoplaneten
 Expansion noun g=f gen=Expansion pl=Expansionen
 Expedition noun g=f gen=Expedition pl=Expeditionen
 Experiment noun g=n gen=Experiments|Experimentes pl=Experimente
+Experimentalfilm noun g=m gen=Experimentalfilms|Experimentalfilmes pl=Experimentalfilme
 Experimentalphysik noun g=f gen=Experimentalphysik pl=- note=no plural
 Experte noun g=m gen=Experten pl=Experten
 Expertin noun g=f gen=Expertin pl=Expertinnen

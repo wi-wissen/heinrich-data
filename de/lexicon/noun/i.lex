@@ -24,6 +24,8 @@ Iglu noun g=m gen=Iglus pl=Iglus
 Ignoranz noun g=f gen=Ignoranz pl=- note=mass noun
 IHK noun g=f gen=IHK pl=IHKs note=Industrie- und Handelskammer
 Ikone noun g=f gen=Ikone pl=Ikonen
+Ikonografie noun g=f gen=Ikonografie pl=Ikonografien
+Ikonographie noun g=f gen=Ikonographie pl=Ikonographien
 Ikonostase noun g=f gen=Ikonostase pl=Ikonostasen
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
@@ -42,6 +44,7 @@ Immobilie noun g=f gen=Immobilie pl=Immobilien
 Immunität noun g=f gen=Immunität pl=- note=no plural in practice
 Immunologe noun g=m gen=Immunologen pl=Immunologen
 Immunsystem noun g=n gen=Immunsystems pl=Immunsysteme
+Impedanz noun g=f gen=Impedanz pl=Impedanzen
 Imperativ noun g=m gen=Imperativs pl=Imperative
 Imperator noun g=m gen=Imperators pl=Imperatoren
 Imperialismus noun g=m gen=Imperialismus pl=- note=no plural
@@ -105,6 +108,7 @@ Infrarot noun g=n gen=Infrarots pl=- note=mass noun
 Infrastruktur noun g=f gen=Infrastruktur pl=Infrastrukturen
 Ingenieur noun g=m gen=Ingenieurs pl=Ingenieure
 Ingenieurin noun g=f gen=Ingenieurin pl=Ingenieurinnen
+Ingredienz noun g=f gen=Ingredienz pl=Ingredienzen|Ingredienzien
 Ingwer noun g=m gen=Ingwers pl=- note=no plural
 Inhaber noun g=m gen=Inhabers pl=Inhaber
 Inhaberin noun g=f gen=Inhaberin pl=Inhaberinnen
@@ -121,6 +125,8 @@ Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
 Inkognito noun g=n gen=Inkognitos pl=Inkognitos
 Inkraftsetzung noun g=f gen=Inkraftsetzung pl=- note=nominalisation in legal language
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
+Inkubation noun g=f gen=Inkubation pl=Inkubationen
+Inkubationszeit noun g=f gen=Inkubationszeit pl=Inkubationszeiten
 Inkunabel noun g=f gen=Inkunabel pl=Inkunabeln
 Inland noun g=n gen=Inlands|Inlandes pl=- note=plural not used
 Inliner noun g=m gen=Inliners pl=Inliner
@@ -194,6 +200,7 @@ Internetseite noun g=f gen=Internetseite pl=Internetseiten
 Internierung noun g=f gen=Internierung pl=Internierungen
 Internist noun g=m gen=Internisten pl=Internisten
 Internistin noun g=f gen=Internistin pl=Internistinnen
+Internodium noun g=n gen=Internodiums pl=Internodien
 Interoperabilität noun g=f gen=Interoperabilität pl=- note=no plural
 Interpret noun g=m gen=Interpreten pl=Interpreten
 Interpretation noun g=f gen=Interpretation pl=Interpretationen

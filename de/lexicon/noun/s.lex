@@ -52,6 +52,7 @@ Sammet noun g=m gen=Sammets pl=Sammete style=archaic note=older form of Samt
 Sammler noun g=m gen=Sammlers pl=Sammler
 Sammlerin noun g=f gen=Sammlerin pl=Sammlerinnen
 Sammlung noun g=f gen=Sammlung pl=Sammlungen
+Samowar noun g=m gen=Samowars pl=Samoware
 Sampler noun g=m gen=Samplers pl=Sampler
 Samstag noun g=m gen=Samstags|Samstages[rare] pl=Samstage
 Samtgemeinde noun g=f gen=Samtgemeinde pl=Samtgemeinden
@@ -112,16 +113,20 @@ Scandium noun g=n gen=Scandiums pl=- note=chemical element
 Scanner noun g=m gen=Scanners pl=Scanner
 Schabbat noun g=m gen=Schabbats|Schabbates pl=Schabbate
 Schabe noun g=f gen=Schabe pl=Schaben
+Schaber noun g=m gen=Schabers pl=Schaber
 Schabernack noun g=m gen=Schabernacks|Schabernackes pl=Schabernacke
 Schablone noun g=f gen=Schablone pl=Schablonen
 Schach noun g=n gen=Schachs pl=- note=mass noun; the game
+Schächer noun g=m gen=Schächers pl=Schächer
 Schacht noun g=m gen=Schachts|Schachtes pl=Schächte
 Schachtel noun g=f gen=Schachtel pl=Schachteln
 Schädel noun g=m gen=Schädels pl=Schädel
 Schaden noun g=m gen=Schadens pl=Schäden
 Schadensersatz noun g=m gen=Schadensersatzes pl=- note=mass noun
+Schädiger noun g=m gen=Schädigers pl=Schädiger
 Schädigung noun g=f gen=Schädigung pl=Schädigungen
 Schädling noun g=m gen=Schädlings pl=Schädlinge
+Schädlingsbefall noun g=m gen=Schädlingsbefalls|Schädlingsbefalles pl=- note=no plural
 Schadsoftware noun g=f gen=Schadsoftware pl=- note=no plural
 Schaf noun g=n gen=Schafs|Schafes pl=Schafe
 Schäfchenwolke noun g=f gen=Schäfchenwolke pl=Schäfchenwolken
@@ -136,6 +141,7 @@ Schah noun g=m gen=Schahs pl=Schahs
 Schakal noun g=m gen=Schakals pl=Schakale
 Schal noun g=m gen=Schals pl=Schals|Schale
 Schale noun g=f gen=Schale pl=Schalen
+Schalkheit noun g=f gen=Schalkheit pl=Schalkheiten
 Schall noun g=m gen=Schalls|Schalles pl=- note=mass noun
 Schalldämpfer noun g=m gen=Schalldämpfers pl=Schalldämpfer
 Schalter noun g=m gen=Schalters pl=Schalter
@@ -151,6 +157,7 @@ Schärfe noun g=f gen=Schärfe pl=- note=mass noun
 Scharia noun g=f gen=Scharia pl=- note=Islamic law; no plural
 Scharlach noun g=m gen=Scharlachs pl=- note=mass noun
 Scharmützel noun g=n gen=Scharmützels pl=Scharmützel
+Scharnier noun g=n gen=Scharniers pl=Scharniere
 Schärpe noun g=f gen=Schärpe pl=Schärpen
 Scharte noun g=f gen=Scharte pl=Scharten
 Schatten noun g=m gen=Schattens pl=Schatten
@@ -177,8 +184,10 @@ Scheide noun g=f gen=Scheide pl=Scheiden note=sheath; base of Wasserscheide
 Scheidung noun g=f gen=Scheidung pl=Scheidungen
 Schein noun g=m gen=Scheins|Scheines pl=Scheine
 Scheinwerfer noun g=m gen=Scheinwerfers pl=Scheinwerfer
+Scheiße noun g=f gen=Scheiße pl=- style=colloquial note=vulgar; no plural
 Scheit noun g=n gen=Scheits|Scheites pl=Scheite
 Scheitel noun g=m gen=Scheitels pl=Scheitel
+Schelf noun g=m gen=Schelfs pl=Schelfe conf=85 note=der Schelf, also das Schelf
 Schelm noun g=m gen=Schelms|Schelmes pl=Schelme
 Schelmerei noun g=f gen=Schelmerei pl=Schelmereien
 Schema noun g=n gen=Schemas pl=Schemas|Schemata
@@ -202,6 +211,7 @@ Schiedsrichterin noun g=f gen=Schiedsrichterin pl=Schiedsrichterinnen
 Schiedsspruch noun g=m gen=Schiedsspruchs|Schiedsspruches pl=Schiedssprüche
 Schiedsstelle noun g=f gen=Schiedsstelle pl=Schiedsstellen
 Schiefer noun g=m gen=Schiefers pl=Schiefer
+Schiefertafel noun g=f gen=Schiefertafel pl=Schiefertafeln
 Schiene noun g=f gen=Schiene pl=Schienen
 Schießbude noun g=f gen=Schießbude pl=Schießbuden
 Schießerei noun g=f gen=Schießerei pl=Schießereien
@@ -319,6 +329,7 @@ Schneise noun g=f gen=Schneise pl=Schneisen
 Schnellhefter noun g=m gen=Schnellhefters pl=Schnellhefter
 Schnelligkeit noun g=f gen=Schnelligkeit pl=- note=mass noun
 Schnepfe noun g=f gen=Schnepfe pl=Schnepfen
+Schnippchen noun g=n gen=Schnippchens pl=Schnippchen note=jemandem ein Schnippchen schlagen
 Schnitt noun g=m gen=Schnitts|Schnittes pl=Schnitte
 Schnitter noun g=m gen=Schnitters pl=Schnitter
 Schnittlauch noun g=m gen=Schnittlauchs pl=- note=no plural
@@ -326,6 +337,7 @@ Schnitzel noun g=n gen=Schnitzels pl=Schnitzel
 Schnitzer noun g=m gen=Schnitzers pl=Schnitzer
 Schnitzerei noun g=f gen=Schnitzerei pl=Schnitzereien
 Schnorchel noun g=m gen=Schnorchels pl=Schnorchel
+Schnörkel noun g=m gen=Schnörkels pl=Schnörkel
 Schnupfen noun g=m gen=Schnupfens pl=- note=mass noun
 Schnur noun g=f gen=Schnur pl=Schnüre
 Schnurrbart noun g=m gen=Schnurrbarts|Schnurrbartes pl=Schnurrbärte
@@ -377,6 +389,7 @@ Schrippe noun g=f gen=Schrippe pl=Schrippen region=DE
 Schritt noun g=m gen=Schrittes|Schritts pl=Schritte
 Schrittmacher noun g=m gen=Schrittmachers pl=Schrittmacher
 Schrot noun g=m|n gen=Schrots|Schrotes pl=Schrote
+Schrotflinte noun g=f gen=Schrotflinte pl=Schrotflinten
 Schrott noun g=m gen=Schrottes|Schrotts pl=- note=no plural
 Schub noun g=m gen=Schubs|Schubes pl=Schübe
 Schubkarre noun g=f gen=Schubkarre pl=Schubkarren
@@ -449,6 +462,7 @@ Schwank noun g=m gen=Schwanks|Schwankes pl=Schwänke
 Schwanz noun g=m gen=Schwanzes pl=Schwänze
 Schwarm noun g=m gen=Schwarms|Schwarmes pl=Schwärme
 Schwärmer noun g=m gen=Schwärmers pl=Schwärmer
+Schwarte noun g=f gen=Schwarte pl=Schwarten
 Schwätzer noun g=m gen=Schwätzers pl=Schwätzer
 Schwede noun g=m gen=Schweden pl=Schweden
 Schwedin noun g=f gen=Schwedin pl=Schwedinnen
@@ -535,6 +549,7 @@ Selbstständige noun g=m|f decl=adj
 Selbstständigkeit noun g=f gen=Selbstständigkeit pl=- note=mass noun
 Selbstverständlichkeit noun g=f gen=Selbstverständlichkeit pl=Selbstverständlichkeiten
 Selbstverwaltung noun g=f gen=Selbstverwaltung pl=- note=mass noun
+Seldschuke noun g=m gen=Seldschuken pl=Seldschuken
 Selektion noun g=f gen=Selektion pl=Selektionen
 Selen noun g=n gen=Selens pl=- note=chemical element
 Seleukide noun g=m gen=Seleukiden pl=Seleukiden
@@ -571,6 +586,7 @@ Sentenz noun g=f gen=Sentenz pl=Sentenzen
 Separatist noun g=m gen=Separatisten pl=Separatisten
 Sepsis noun g=f gen=Sepsis pl=Sepsen
 September noun g=m gen=September|Septembers pl=September
+Septime noun g=f gen=Septime pl=Septimen
 Septuaginta noun g=f gen=Septuaginta pl=- note=Greek translation of the Hebrew Bible
 Sequenz noun g=f gen=Sequenz pl=Sequenzen
 Serail noun g=n gen=Serails pl=Serails
@@ -624,6 +640,7 @@ Siegel noun g=n gen=Siegels pl=Siegel
 Sieger noun g=m gen=Siegers pl=Sieger
 Siegerehrung noun g=f gen=Siegerehrung pl=Siegerehrungen
 Siegerin noun g=f gen=Siegerin pl=Siegerinnen
+Siel noun g=n gen=Siels|Sieles pl=Siele conf=85 note=das Siel, also der Siel
 Signal noun g=n gen=Signals pl=Signale
 Signatur noun g=f gen=Signatur pl=Signaturen
 Signum noun g=n gen=Signums pl=Signa
@@ -635,6 +652,7 @@ Silicium noun g=n gen=Siliciums pl=- note=chemical element; also Silizium
 Silikat noun g=n gen=Silikats|Silikates pl=Silikate
 Silizium noun g=n gen=Siliziums pl=- note=chemical element; common spelling of Silicium
 Silur noun g=n gen=Silurs pl=- note=geological period
+Silvaner noun g=m gen=Silvaners pl=Silvaner
 Silvester noun g=m|n gen=Silvesters pl=- note=mass noun
 Sims noun g=m gen=Simses pl=Simse
 Simulation noun g=f gen=Simulation pl=Simulationen
@@ -726,6 +744,8 @@ Soja noun g=f gen=Soja pl=- conf=80 note=die Soja, also das Soja; mass noun
 Sojabohne noun g=f gen=Sojabohne pl=Sojabohnen
 Solaranlage noun g=f gen=Solaranlage pl=Solaranlagen
 Solarenergie noun g=f gen=Solarenergie pl=- note=no plural
+Solarium noun g=n gen=Solariums pl=Solarien
+Solarstrom noun g=m gen=Solarstroms|Solarstromes pl=- note=no plural
 Solarzelle noun g=f gen=Solarzelle pl=Solarzellen
 Sold noun g=m gen=Solds|Soldes pl=- note=soldier's pay; mass noun
 Soldat noun g=m gen=Soldaten pl=Soldaten
@@ -809,6 +829,7 @@ Spanisch noun g=n gen=Spanisch|Spanischs pl=- note=language name; no plural
 Spanne noun g=f gen=Spanne pl=Spannen
 Spanner noun g=m gen=Spanners pl=Spanner
 Spannung noun g=f gen=Spannung pl=Spannungen
+Spant noun g=m gen=Spants|Spantes pl=Spanten
 Sparer noun g=m gen=Sparers pl=Sparer
 Sparerin noun g=f gen=Sparerin pl=Sparerinnen
 Spargel noun g=m gen=Spargels pl=Spargel
@@ -862,6 +883,7 @@ Sperrung noun g=f gen=Sperrung pl=Sperrungen
 Spesen noun g=pl
 Spezial noun g=n gen=Spezials pl=Spezials conf=70 note=special edition or broadcast; gender and plural unsure
 Spezialist noun g=m gen=Spezialisten pl=Spezialisten
+Spezialistin noun g=f gen=Spezialistin pl=Spezialistinnen
 Spezialität noun g=f gen=Spezialität pl=Spezialitäten
 Spezies noun g=f gen=Spezies pl=Spezies
 Spezifikation noun g=f gen=Spezifikation pl=Spezifikationen
@@ -879,6 +901,7 @@ Spielplatz noun g=m gen=Spielplatzes pl=Spielplätze
 Spielverderber noun g=m gen=Spielverderbers pl=Spielverderber
 Spielverderberin noun g=f gen=Spielverderberin pl=Spielverderberinnen
 Spielwarengeschäft noun g=n gen=Spielwarengeschäfts|Spielwarengeschäftes pl=Spielwarengeschäfte
+Spießbürger noun g=m gen=Spießbürgers pl=Spießbürger
 Spießgeselle noun g=m gen=Spießgesellen pl=Spießgesellen
 Spin noun g=m gen=Spins pl=Spins
 Spinat noun g=m gen=Spinats pl=- note=no plural
@@ -976,6 +999,7 @@ Stalagmit noun g=m gen=Stalagmiten pl=Stalagmiten
 Stalaktit noun g=m gen=Stalaktiten pl=Stalaktiten
 Stalker noun g=m gen=Stalkers pl=Stalker
 Stall noun g=m gen=Stalls|Stalles pl=Ställe
+Stallung noun g=f gen=Stallung pl=Stallungen
 Stamm noun g=m gen=Stamms|Stammes pl=Stämme
 Stammform noun g=f gen=Stammform pl=Stammformen
 Stand noun g=m gen=Standes|Stands pl=Stände
@@ -1010,6 +1034,7 @@ Statistin noun g=f gen=Statistin pl=Statistinnen
 Stativ noun g=n gen=Stativs pl=Stative
 Stätte noun g=f gen=Stätte pl=Stätten
 Statthalter noun g=m gen=Statthalters pl=Statthalter
+Statthalterin noun g=f gen=Statthalterin pl=Statthalterinnen
 Statue noun g=f gen=Statue pl=Statuen
 Statuette noun g=f gen=Statuette pl=Statuetten
 Statur noun g=f gen=Statur pl=Staturen
@@ -1040,6 +1065,7 @@ Stelze noun g=f gen=Stelze pl=Stelzen
 Stempel noun g=m gen=Stempels pl=Stempel
 Steppe noun g=f gen=Steppe pl=Steppen
 Sterbehilfe noun g=f gen=Sterbehilfe pl=- note=no plural
+Sterbenswort noun g=n gen=Sterbensworts|Sterbenswortes pl=- note=kein Sterbenswort; also Sterbenswörtchen
 Sterbliche noun g=m|f decl=adj note=die Sterblichen: mortals
 Sterblichkeit noun g=f gen=Sterblichkeit pl=- note=mass noun
 Stereoanlage noun g=f gen=Stereoanlage pl=Stereoanlagen
@@ -1049,8 +1075,10 @@ Stern noun g=m gen=Sterns|Sternes pl=Sterne
 Sternschnuppe noun g=f gen=Sternschnuppe pl=Sternschnuppen
 Sternsinger noun g=m gen=Sternsingers pl=Sternsinger
 Sternwarte noun g=f gen=Sternwarte pl=Sternwarten
+Steroid noun g=n gen=Steroids|Steroides pl=Steroide
 Steuer noun g=f gen=Steuer pl=Steuern sense=tax note=die Steuer
 Steuer noun g=n gen=Steuers pl=Steuer sense=wheel note=das Steuer (steering wheel)
+Steuereinnehmer noun g=m gen=Steuereinnehmers pl=Steuereinnehmer
 Steuerhinterzieher noun g=m gen=Steuerhinterziehers pl=Steuerhinterzieher
 Steuerhinterziehung noun g=f gen=Steuerhinterziehung pl=Steuerhinterziehungen
 Steuerpflichtige noun g=m|f decl=adj note=der/die Steuerpflichtige
@@ -1097,9 +1125,11 @@ Stoiker noun g=m gen=Stoikers pl=Stoiker
 Stollen noun g=m gen=Stollens pl=Stollen
 Stolz noun g=m gen=Stolzes pl=- note=mass noun
 Stopp noun g=m gen=Stopps pl=Stopps
+Stoppel noun g=f gen=Stoppel pl=Stoppeln
 Stoppuhr noun g=f gen=Stoppuhr pl=Stoppuhren
 Stöpsel noun g=m gen=Stöpsels pl=Stöpsel
 Storch noun g=m gen=Storchs|Storches pl=Störche
+Störenfried noun g=m gen=Störenfrieds|Störenfriedes pl=Störenfriede
 Stornierung noun g=f gen=Stornierung pl=Stornierungen
 Storno noun g=m|n gen=Stornos pl=Stornos|Storni
 Störung noun g=f gen=Störung pl=Störungen
@@ -1111,6 +1141,7 @@ Strafbarkeit noun g=f gen=Strafbarkeit pl=- note=mass noun
 Strafe noun g=f gen=Strafe pl=Strafen
 Sträfling noun g=m gen=Sträflings pl=Sträflinge
 Straflosigkeit noun g=f gen=Straflosigkeit pl=- note=mass noun
+Strafrechtler noun g=m gen=Strafrechtlers pl=Strafrechtler
 Straftat noun g=f gen=Straftat pl=Straftaten
 Strahl noun g=m gen=Strahls|Strahles pl=Strahlen
 Strahlung noun g=f gen=Strahlung pl=Strahlungen
@@ -1150,6 +1181,7 @@ Streunerin noun g=f gen=Streunerin pl=Streunerinnen
 Streuobstwiese noun g=f gen=Streuobstwiese pl=Streuobstwiesen
 Strich noun g=m gen=Strichs|Striches pl=Striche
 Strick noun g=m gen=Stricks|Strickes pl=Stricke
+Striemen noun g=m gen=Striemens pl=Striemen
 Strippe noun g=f gen=Strippe pl=Strippen
 Stroh noun g=n gen=Strohs|Strohes pl=- note=mass noun
 Strohhalm noun g=m gen=Strohhalms|Strohhalmes pl=Strohhalme
@@ -1217,6 +1249,7 @@ Süchtige noun g=m|f decl=adj
 Südafrikaner noun g=m gen=Südafrikaners pl=Südafrikaner
 Sudanese noun g=m gen=Sudanesen pl=Sudanesen
 Süden noun g=m gen=Südens pl=- note=compass direction; no plural
+Südkoreaner noun g=m gen=Südkoreaners pl=Südkoreaner
 Südosten noun g=m gen=Südostens pl=- note=mass noun
 Südseite noun g=f gen=Südseite pl=Südseiten
 Südwest noun g=m gen=Südwest|Südwests pl=- note=compass direction; mass noun
@@ -1236,6 +1269,7 @@ Sultanin noun g=f gen=Sultanin pl=Sultaninnen
 Sülze noun g=f gen=Sülze pl=Sülzen
 Sumerer noun g=m gen=Sumerers pl=Sumerer
 Sumererin noun g=f gen=Sumererin pl=Sumererinnen
+Summand noun g=m gen=Summanden pl=Summanden
 Summe noun g=f gen=Summe pl=Summen
 Sumpf noun g=m gen=Sumpfs|Sumpfes pl=Sümpfe
 Sünde noun g=f gen=Sünde pl=Sünden
@@ -1262,6 +1296,7 @@ SV noun g=m gen=SV|SVs pl=SV|SVs conf=80 note=Sportverein; abbreviation
 Swap noun g=m gen=Swaps pl=Swaps
 Sweatshirt noun g=n gen=Sweatshirts pl=Sweatshirts
 Swing noun g=m gen=Swings pl=- note=music style; mass noun
+Symbiont noun g=m gen=Symbionten pl=Symbionten
 Symbiose noun g=f gen=Symbiose pl=Symbiosen
 Symbol noun g=n gen=Symbols pl=Symbole
 Symbolik noun g=f gen=Symbolik pl=- note=mass noun

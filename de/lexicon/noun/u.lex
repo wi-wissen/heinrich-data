@@ -107,6 +107,7 @@ Unbekannte noun g=m|f decl=adj
 Unbilden noun g=pl note=die Unbilden des Wetters
 Unbill noun g=f gen=Unbill pl=- note=no plural; plural Unbilden is a separate noun
 Unbrauchbarmachung noun g=f gen=Unbrauchbarmachung pl=Unbrauchbarmachungen
+Unduldsamkeit noun g=f gen=Unduldsamkeit pl=- note=no plural
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
 Unfallversicherung noun g=f gen=Unfallversicherung pl=Unfallversicherungen

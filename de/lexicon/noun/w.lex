@@ -9,6 +9,7 @@ Wächter noun g=m gen=Wächters pl=Wächter
 Wächterin noun g=f gen=Wächterin pl=Wächterinnen
 Wachtmeister noun g=m gen=Wachtmeisters pl=Wachtmeister
 Wade noun g=f gen=Wade pl=Waden
+Wafer noun g=m gen=Wafers pl=Wafer note=semiconductor disc
 Waffe noun g=f gen=Waffe pl=Waffen
 Waffel noun g=f gen=Waffel pl=Waffeln
 Wägelchen noun g=n gen=Wägelchens pl=Wägelchen
@@ -40,6 +41,7 @@ Waldung noun g=f gen=Waldung pl=Waldungen
 Waliser noun g=m gen=Walisers pl=Waliser
 Wall noun g=m gen=Walles|Walls pl=Wälle
 Wallfahrt noun g=f gen=Wallfahrt pl=Wallfahrten
+Wallone noun g=m gen=Wallonen pl=Wallonen
 Wallung noun g=f gen=Wallung pl=Wallungen
 Walnuss noun g=f gen=Walnuss pl=Walnüsse
 Walpurgisnacht noun g=f gen=Walpurgisnacht pl=Walpurgisnächte
@@ -82,6 +84,7 @@ Wasser noun g=n gen=Wassers pl=Wasser|Wässer[rare]
 Wasserknappheit noun g=f gen=Wasserknappheit pl=- note=no plural
 Wasserkocher noun g=m gen=Wasserkochers pl=Wasserkocher
 Wasserkühlung noun g=f gen=Wasserkühlung pl=Wasserkühlungen
+Wasserspeier noun g=m gen=Wasserspeiers pl=Wasserspeier
 Wasserstoff noun g=m gen=Wasserstoffs|Wasserstoffes pl=- note=no plural
 Wasserstrudel noun g=m gen=Wasserstrudels pl=Wasserstrudel
 Watt noun g=n gen=Watts|Wattes pl=Watten sense=mudflat note=das Watt: tidal flat
@@ -107,6 +110,7 @@ Wehrpflichtige noun g=m|f decl=adj
 Weib noun g=n gen=Weibes|Weibs[rare] pl=Weiber style=archaic note=woman (old or derogatory)
 Weibchen noun g=n gen=Weibchens pl=Weibchen
 Weiche noun g=f gen=Weiche pl=Weichen
+Weichmacher noun g=m gen=Weichmachers pl=Weichmacher
 Weichspüler noun g=m gen=Weichspülers pl=Weichspüler
 Weide noun g=f gen=Weide pl=Weiden
 Weihbischof noun g=m gen=Weihbischofs pl=Weihbischöfe
@@ -161,6 +165,7 @@ Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
 Werkzeug noun g=n gen=Werkzeugs|Werkzeuges pl=Werkzeuge
 Wermut noun g=m gen=Wermuts|Wermutes pl=Wermuts
+Werst noun g=f gen=Werst pl=Wersten|Werst
 Wert noun g=m gen=Wertes|Werts pl=Werte
 Wertigkeit noun g=f gen=Wertigkeit pl=Wertigkeiten
 Wertschätzung noun g=f gen=Wertschätzung pl=- note=no plural
@@ -230,6 +235,7 @@ Wind noun g=m gen=Windes|Winds[rare] pl=Winde
 Windel noun g=f gen=Windel pl=Windeln
 Windpocken noun g=pl
 Windrad noun g=n gen=Windrads|Windrades pl=Windräder
+Windsurfer noun g=m gen=Windsurfers pl=Windsurfer
 Wink noun g=m gen=Winks|Winkes pl=Winke
 Winkel noun g=m gen=Winkels pl=Winkel
 Winter noun g=m gen=Winters pl=Winter

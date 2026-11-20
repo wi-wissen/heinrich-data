@@ -14,7 +14,9 @@ Fackel noun g=f gen=Fackel pl=Fackeln
 Faden noun g=m gen=Fadens pl=Fäden
 Fado noun g=m gen=Fados pl=Fados
 Fagott noun g=n gen=Fagotts|Fagottes pl=Fagotte
+Fagottist noun g=m gen=Fagottisten pl=Fagottisten
 Fähigkeit noun g=f gen=Fähigkeit pl=Fähigkeiten
+Fahnder noun g=m gen=Fahnders pl=Fahnder
 Fahndung noun g=f gen=Fahndung pl=Fahndungen
 Fahne noun g=f gen=Fahne pl=Fahnen
 Fähnlein noun g=n gen=Fähnleins pl=Fähnlein
@@ -91,8 +93,11 @@ Fassade noun g=f gen=Fassade pl=Fassaden
 Fassung noun g=f gen=Fassung pl=Fassungen
 Fastenzeit noun g=f gen=Fastenzeit pl=Fastenzeiten
 Fastnacht noun g=f gen=Fastnacht pl=- note=no plural (mass or abstract noun)
+Faszie noun g=f gen=Faszie pl=Faszien
 Faszination noun g=f gen=Faszination pl=Faszinationen
 Fatimide noun g=m gen=Fatimiden pl=Fatimiden note=member of the Fatimid dynasty
+Fatum noun g=n gen=Fatums pl=Fata
+Faulenzer noun g=m gen=Faulenzers pl=Faulenzer
 Faulheit noun g=f gen=Faulheit pl=- note=mass noun
 Fäulnis noun g=f gen=Fäulnis pl=- note=no plural
 Faultier noun g=n gen=Faultiers pl=Faultiere
@@ -137,6 +142,7 @@ Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
 Felsbrocken noun g=m gen=Felsbrockens pl=Felsbrocken
 Felsen noun g=m gen=Felsens pl=Felsen
+Femininum noun g=n gen=Femininums pl=Feminina
 Feminismus noun g=m gen=Feminismus pl=- note=mass noun
 Feminist noun g=m gen=Feministen pl=Feministen
 Feministin noun g=f gen=Feministin pl=Feministinnen
@@ -172,6 +178,7 @@ Festplatte noun g=f gen=Festplatte pl=Festplatten
 Festsetzung noun g=f gen=Festsetzung pl=Festsetzungen
 Feststellung noun g=f gen=Feststellung pl=Feststellungen
 Festung noun g=f gen=Festung pl=Festungen
+Feta noun g=m gen=Fetas pl=- note=no plural
 Fete noun g=f gen=Fete pl=Feten
 Fetisch noun g=m gen=Fetischs|Fetisches pl=Fetische
 Fett noun g=n gen=Fetts|Fettes pl=Fette
@@ -188,6 +195,7 @@ Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical 
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Feuerwerker noun g=m gen=Feuerwerkers pl=Feuerwerker
 Feuilleton noun g=n gen=Feuilletons pl=Feuilletons
+Feuilletonist noun g=m gen=Feuilletonisten pl=Feuilletonisten
 Fiaker noun g=m gen=Fiakers pl=Fiaker
 Fiale noun g=f gen=Fiale pl=Fialen
 Fiasko noun g=n gen=Fiaskos pl=Fiaskos
@@ -226,9 +234,11 @@ Finne noun g=f gen=Finne pl=Finnen sense=fin note=die Finne: fin; also a larval 
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
 Finte noun g=f gen=Finte pl=Finten
 Firewall noun g=f gen=Firewall pl=Firewalls
+Firlefanz noun g=m gen=Firlefanzes pl=- note=no plural
 Firma        noun g=f gen=Firma pl=Firmen
 Firmament noun g=n gen=Firmaments|Firmamentes pl=Firmamente
 Firmung noun g=f gen=Firmung pl=Firmungen
+Firn noun g=m gen=Firns|Firnes pl=Firne
 First noun g=m gen=Firsts|Firstes pl=Firste
 Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
@@ -279,6 +289,7 @@ Flip-Flops noun g=pl
 Flipchart noun g=n|m gen=Flipcharts pl=Flipcharts
 Flipper noun g=m gen=Flippers pl=Flipper
 Flirt noun g=m gen=Flirts pl=Flirts
+Flitter noun g=m gen=Flitters pl=Flitter
 Flitterwochen noun g=pl
 Flocke noun g=f gen=Flocke pl=Flocken
 Floh noun g=m gen=Flohes|Flohs pl=Flöhe
@@ -291,6 +302,7 @@ Floskel noun g=f gen=Floskel pl=Floskeln
 Flosse noun g=f gen=Flosse pl=Flossen
 Flöte noun g=f gen=Flöte pl=Flöten
 Flötist noun g=m gen=Flötisten pl=Flötisten
+Flötistin noun g=f gen=Flötistin pl=Flötistinnen
 Flotte noun g=f gen=Flotte pl=Flotten
 Flottille noun g=f gen=Flottille pl=Flottillen
 Flöz noun g=n gen=Flözes pl=Flöze
@@ -316,6 +328,7 @@ Flüsschen noun g=n gen=Flüsschens pl=Flüsschen
 Flüssigkeit noun g=f gen=Flüssigkeit pl=Flüssigkeiten
 Flut noun g=f gen=Flut pl=Fluten
 Flyer noun g=m gen=Flyers pl=Flyer
+Fockmast noun g=m gen=Fockmasts|Fockmastes pl=Fockmasten|Fockmaste
 Föderalismus noun g=m gen=Föderalismus pl=- note=mass noun; genitive without ending
 Föderalist noun g=m gen=Föderalisten pl=Föderalisten
 Föderation noun g=f gen=Föderation pl=Föderationen
@@ -381,9 +394,11 @@ Frachter noun g=m gen=Frachters pl=Frachter
 Frack noun g=m gen=Fracks|Frackes pl=Fräcke|Fracks
 Fracking noun g=n gen=Frackings pl=- note=no plural
 Frage noun g=f gen=Frage pl=Fragen
+Frager noun g=m gen=Fragers pl=Frager
 Fragment noun g=n gen=Fragments|Fragmentes[rare] pl=Fragmente
 Fraktion noun g=f gen=Fraktion pl=Fraktionen
 Fraktur noun g=f gen=Fraktur pl=Frakturen
+Framing noun g=n gen=Framings pl=- note=no plural
 Franc noun g=m gen=Franc|Francs pl=Francs note=currency
 Francium noun g=n gen=Franciums pl=- note=chemical element
 Franke noun g=m gen=Franken pl=Franken note=inhabitant of Franconia
@@ -403,6 +418,7 @@ Frauensperson noun g=f gen=Frauensperson pl=Frauenspersonen
 Frauenzimmer noun g=n gen=Frauenzimmers pl=Frauenzimmer style=archaic
 Fräulein noun g=n gen=Fräuleins pl=Fräulein
 Frechheit noun g=f gen=Frechheit pl=Frechheiten
+Freelancer noun g=m gen=Freelancers pl=Freelancer
 Fregatte noun g=f gen=Fregatte pl=Fregatten
 Freibad noun g=n gen=Freibads|Freibades pl=Freibäder
 Freiberufler noun g=m gen=Freiberuflers pl=Freiberufler
@@ -469,6 +485,7 @@ Frühling noun g=m gen=Frühlings|Frühlinges pl=Frühlinge
 Frühstück noun g=n gen=Frühstücks pl=Frühstücke
 Frust noun g=m gen=Frusts|Frustes pl=- note=colloquial; mass noun
 Fuchs noun g=m gen=Fuchses pl=Füchse
+Füchsin noun g=f gen=Füchsin pl=Füchsinnen
 Fuchtel noun g=f gen=Fuchtel pl=Fuchteln note=unter der Fuchtel
 Fuder noun g=n gen=Fuders pl=Fuder
 Fug noun g=m gen=Fuges|Fugs pl=- conf=90 note=only in mit Fug und Recht
