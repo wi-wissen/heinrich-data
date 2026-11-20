@@ -10,4 +10,5 @@ ordinieren verb class=weak pp=ordiniert perf=haben
 ordnen verb class=weak pp=geordnet perf=haben
 organisieren verb class=weak pp=organisiert perf=haben
 orientieren verb class=weak pp=orientiert perf=haben refl=acc
+orten verb class=weak pp=geortet perf=haben
 oxidieren verb class=weak pp=oxidiert perf=haben|sein

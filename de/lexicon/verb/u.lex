@@ -106,6 +106,7 @@
 überwinden verb class=strong 3sg=überwindet past=überwand pp=überwunden subj2=überwände perf=haben
 überwintern verb class=weak pp=überwintert perf=haben
 überwuchern verb class=weak pp=überwuchert perf=haben
+überzahlen verb class=weak pp=überzahlt perf=haben
 überzeugen verb class=weak pp=überzeugt perf=haben part1_cmp pp_cmp
 überziehen verb class=strong 3sg=überzieht past=überzog pp=überzogen subj2=überzöge perf=haben sense=cover note=stress on ziehen: ein Konto überziehen, mit Schokolade überziehen
 überziehen verb class=strong sep=über 3sg=überzieht past=überzog pp=übergezogen subj2=überzöge perf=haben sense=put_on note=stress on über: sich einen Mantel überziehen
@@ -208,6 +209,7 @@ umwehen verb class=weak sep=um pp=umgeweht perf=haben
 umwenden verb class=mixed sep=um 3sg=umwendet past=umwandte|umwendete subj2=umwendete|umwandte pp=umgewandt|umgewendet perf=haben refl=acc
 umwerben verb class=strong 3sg=umwirbt past=umwarb subj2=umwürbe pp=umworben perf=haben
 umwerfen verb class=strong sep=um 3sg=umwirft past=umwarf subj2=umwürfe pp=umgeworfen perf=haben
+umwölken verb class=weak pp=umwölkt perf=haben
 umzäunen verb class=weak pp=umzäunt perf=haben
 umziehen verb class=strong sep=um 3sg=umzieht past=umzog pp=umgezogen subj2=umzöge perf=haben|sein refl=acc
 umzingeln verb class=weak pp=umzingelt perf=haben

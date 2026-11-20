@@ -7,6 +7,7 @@ halb         adj note=not compared; ein halber Liter
 halbkreisförmig adj
 hälftig adj
 hamburgisch adj
+hämisch adj cmp=hämischer sup=hämischsten
 hanebüchen adj
 hannoversch adj
 hansisch adj
@@ -77,6 +78,7 @@ höchstgelegen adj
 hochwertig adj cmp=hochwertiger sup=hochwertigsten
 höfisch adj
 höflich adj cmp=höflicher sup=höflichsten
+höherklassig adj
 hohl adj cmp=hohler sup=hohlsten
 höhnisch adj cmp=höhnischer sup=höhnischsten
 hold adj cmp=holder sup=holdesten style=archaic

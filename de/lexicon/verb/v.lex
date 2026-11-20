@@ -113,6 +113,7 @@ verflüchtigen verb class=weak pp=verflüchtigt perf=haben refl=acc
 verfolgen verb class=weak pp=verfolgt perf=haben
 verformen verb class=weak pp=verformt perf=haben refl=acc
 verfrachten verb class=weak pp=verfrachtet perf=haben
+verfremden verb class=weak pp=verfremdet perf=haben
 verfügen verb class=weak pp=verfügt perf=haben
 verführen verb class=weak pp=verführt perf=haben
 verfüllen verb class=weak pp=verfüllt perf=haben
@@ -260,6 +261,7 @@ verorten verb class=weak pp=verortet perf=haben
 verpachten verb class=weak pp=verpachtet perf=haben
 verpacken verb class=weak pp=verpackt perf=haben
 verpassen verb class=weak pp=verpasst perf=haben
+verpennen verb class=weak pp=verpennt perf=haben style=colloquial alt=verschlafen
 verpesten verb class=weak pp=verpestet perf=haben
 verpetzen verb class=weak pp=verpetzt perf=haben style=colloquial alt=verraten
 verpfänden verb class=weak pp=verpfändet perf=haben
@@ -325,6 +327,7 @@ verschneiden verb class=strong 3sg=verschneidet past=verschnitt pp=verschnitten 
 verschneien verb class=weak pp=verschneit perf=sein
 verschnüren verb class=weak pp=verschnürt perf=haben
 verschonen verb class=weak pp=verschont perf=haben
+verschönen verb class=weak pp=verschönt perf=haben
 verschönern verb class=weak pp=verschönert perf=haben
 verschreiben verb class=strong 3sg=verschreibt past=verschrieb pp=verschrieben subj2=verschriebe perf=haben refl=acc
 verschriftlichen verb class=weak pp=verschriftlicht perf=haben

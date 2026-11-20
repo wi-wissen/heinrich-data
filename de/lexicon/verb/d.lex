@@ -65,6 +65,7 @@ definieren verb class=weak pp=definiert perf=haben
 degradieren verb class=weak pp=degradiert perf=haben
 dehnen verb class=weak pp=gedehnt perf=haben refl=acc
 deinstallieren verb class=weak pp=deinstalliert perf=haben
+deklamieren verb class=weak pp=deklamiert perf=haben
 deklarieren verb class=weak pp=deklariert perf=haben
 dekorieren verb class=weak pp=dekoriert perf=haben
 delegieren verb class=weak pp=delegiert perf=haben
@@ -75,6 +76,7 @@ demütigen verb class=weak pp=gedemütigt perf=haben
 denken        verb class=mixed 3sg=denkt past=dachte pp=gedacht subj2=dächte perf=haben
 denominieren verb class=weak pp=denominiert perf=haben
 deportieren verb class=weak pp=deportiert perf=haben
+desertieren verb class=weak pp=desertiert perf=haben|sein
 designen verb class=weak pp=designt perf=haben note=participle designt without ge- (English loan, like recycelt)
 desinfizieren verb class=weak pp=desinfiziert perf=haben
 destillieren verb class=weak pp=destilliert perf=haben

@@ -43,6 +43,7 @@ leichtsinnig adj cmp=leichtsinniger sup=leichtsinnigsten
 leid adj pred_only note=only predicative in leid tun, leid sein; the noun is Leid
 leidenschaftlich adj cmp=leidenschaftlicher sup=leidenschaftlichsten
 leidlich adj
+leinen adj
 leis adj style=archaic note=poetic short form of leise
 leise        adj cmp=leiser sup=leisesten
 leitend adj
@@ -55,6 +56,8 @@ letzter adj attr_only note=der letztere (the latter); cf. letzt
 letztmalig adj
 libanesisch adj
 liberal adj cmp=liberaler sup=liberalsten
+liberianisch adj
+libidinös adj
 libysch adj
 licht adj cmp=lichter sup=lichtesten
 lieb adj cmp=lieber sup=liebsten
@@ -90,6 +93,7 @@ lothringisch adj
 loyal adj cmp=loyaler sup=loyalsten
 lückenhaft adj cmp=lückenhafter sup=lückenhaftesten
 luftig adj cmp=luftiger sup=luftigsten
+lumpig adj cmp=lumpiger sup=lumpigsten
 lüstern adj cmp=lüsterner sup=lüsternsten
 lustig adj cmp=lustiger sup=lustigsten
 lustlos adj cmp=lustloser sup=lustlosesten

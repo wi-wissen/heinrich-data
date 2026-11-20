@@ -20,6 +20,7 @@ bergan adv
 bergauf adv type=direction
 bestenfalls adv
 bestens adv
+bezeichnenderweise adv
 bisweilen adv
 blindlings adv type=manner
 brutto adv note=2000 Euro brutto

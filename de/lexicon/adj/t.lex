@@ -60,7 +60,9 @@ total adj
 totalitär adj
 totemistisch adj
 touristisch adj
+trächtig adj
 traditionell adj cmp=traditioneller sup=traditionellsten
+traditionsgemäß adj
 träge adj cmp=träger sup=trägsten
 tragisch adj cmp=tragischer sup=tragischsten
 trans adj indecl conf=80 note=trans Personen; uninflected
@@ -68,6 +70,7 @@ transatlantisch adj
 transitiv adj
 transparent adj cmp=transparenter sup=transparentesten
 transzendental adj
+trapezförmig adj
 traubig adj
 traufständig adj
 traulich adj cmp=traulicher sup=traulichsten

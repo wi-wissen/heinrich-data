@@ -19,6 +19,7 @@ nirgend adv type=place style=archaic note=older variant of nirgends
 nochmals adv
 nordostwärts adv
 nordwärts adv type=direction
+nordwestwärts adv
 normalerweise adv
 nötigenfalls adv
 notwendigerweise adv

@@ -113,6 +113,7 @@ vierspurig adj
 viertgrößt adj attr_only note=superlative compound: die viertgrößte Stadt
 viertklassig adj
 viertürig adj
+vierzählig adj
 vietnamesisch adj
 viktorianisch adj
 violett adj

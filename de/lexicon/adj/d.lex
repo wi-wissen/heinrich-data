@@ -14,6 +14,7 @@ defekt adj
 definitiv adj
 dekorativ adj cmp=dekorativer sup=dekorativsten
 demografisch adj
+demographisch adj
 demokratisch adj
 demütig adj
 denkbar adj
@@ -66,6 +67,7 @@ dortig        adj note=only attributive (die dortigen Verhältnisse)
 drahtlos adj
 drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
+dramaturgisch adj
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
 dreiachsig adj
@@ -82,7 +84,9 @@ dreiseitig adj
 dreißigjährig adj attr_only
 dreist adj cmp=dreister sup=dreistesten
 dreistöckig adj
+dreiteilig adj
 dreiwertig adj
+dreiwöchig adj
 dreizählig adj
 dringend      adj cmp=dringender sup=dringendsten
 dringlich adj cmp=dringlicher sup=dringlichsten

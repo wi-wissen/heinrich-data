@@ -39,6 +39,7 @@ mecklenburgisch adj
 medial adj
 medizinisch adj
 mega adj indecl style=colloquial alt=großartig|sehr_gut note=colloquial intensifier and predicate (mega gut, das war mega)
+mehrdeutig adj cmp=mehrdeutiger sup=mehrdeutigsten
 mehrfach adj
 mehrheitlich adj
 mehrjährig adj
@@ -62,6 +63,7 @@ mexikanisch adj
 mies adj cmp=mieser sup=miesesten style=colloquial alt=schlecht
 mild adj cmp=milder sup=mildesten
 militärisch adj
+millionenfach adj
 minderjährig adj
 mindest adj attr_only note=superlative of wenig in the phrases das mindeste, nicht im mindesten
 mineralisch adj
@@ -73,6 +75,7 @@ missbräuchlich adj
 misstrauisch adj cmp=misstrauischer sup=misstrauischsten
 mitfühlend adj cmp=mitfühlender sup=mitfühlendsten
 mitleidig adj cmp=mitleidiger sup=mitleidigsten
+mitochondrial adj
 mitteilungspflichtig adj
 mittelalterlich adj
 mittelbar adj
@@ -87,7 +90,9 @@ modisch adj cmp=modischer sup=modischsten
 modrig adj cmp=modriger sup=modrigsten
 möglich adj cmp=möglicher sup=möglichsten
 mohammedanisch adj style=archaic
+molar adj
 moldauisch adj
+molekulargenetisch adj
 mollig adj cmp=molliger sup=molligsten
 momentan adj
 monarchisch adj
@@ -96,6 +101,7 @@ monatlich adj
 mongolisch adj
 monomer adj
 monophyletisch adj
+monözisch adj note=botany
 montan adj
 montenegrinisch adj
 monumental adj

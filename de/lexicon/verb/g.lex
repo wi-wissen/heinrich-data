@@ -34,6 +34,7 @@ gehen verb class=strong 3sg=geht past=ging|gieng[old] pp=gegangen subj2=ginge pe
 gehorchen verb class=weak pp=gehorcht perf=haben
 gehören verb class=weak pp=gehört perf=haben
 geigen verb class=weak pp=gegeigt perf=haben
+geißeln verb class=weak pp=gegeißelt perf=haben
 geizen verb class=weak pp=geizt perf=haben
 gelangen verb class=weak pp=gelangt perf=sein
 geleiten verb class=weak pp=geleitet perf=haben
@@ -52,6 +53,7 @@ geraten verb class=strong 3sg=gerät past=geriet pp=geraten subj2=geriete perf=s
 gereichen verb class=weak pp=gereicht perf=haben note=zur Ehre gereichen
 gereuen verb class=weak pp=gereut perf=haben
 gerinnen verb class=strong 3sg=gerinnt past=gerann pp=geronnen subj2=gerönne|geränne perf=sein
+geruhen verb class=weak pp=geruht perf=haben
 geschehen verb class=strong 3sg=geschieht past=geschah pp=geschehen subj2=geschähe perf=sein
 gesellen verb class=weak pp=gesellt perf=haben refl=acc
 gestalten verb class=weak pp=gestaltet perf=haben refl=acc
@@ -75,6 +77,7 @@ glätten verb class=weak pp=geglättet perf=haben
 glauben verb class=weak pp=geglaubt perf=haben
 gleichen verb class=strong 3sg=gleicht past=glich pp=geglichen subj2=gliche perf=haben
 gleichkommen verb class=strong sep=gleich 3sg=gleichkommt past=gleichkam pp=gleichgekommen subj2=gleichkäme perf=sein
+gleichstehen verb class=strong sep=gleich 3sg=gleichsteht past=gleichstand pp=gleichgestanden subj2=gleichstünde|gleichstände perf=haben|sein
 gleichstellen verb class=weak sep=gleich pp=gleichgestellt perf=haben
 gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=sein
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc

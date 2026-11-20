@@ -58,6 +58,7 @@ niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
 niedrigschwellig adj cmp=niedrigschwelliger sup=niedrigschwelligsten
 nigerianisch adj
+nigrisch adj
 nobel adj cmp=nobler sup=noblesten
 nominell adj
 nordisch adj

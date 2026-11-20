@@ -21,6 +21,7 @@ dermaßen adv
 derweil adv type=time
 dessentwillen adv note=um dessentwillen
 diesmal       adv type=time
+dito adv
 dorther adv
 drein adv type=direction style=colloquial
 dritt adv note=only in zu dritt

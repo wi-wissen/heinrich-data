@@ -25,6 +25,7 @@ weisungsgemäß adj
 weit adj cmp=weiter sup=weitesten
 weitgehend adj
 weitläufig adj cmp=weitläufiger sup=weitläufigsten
+weiträumig adj cmp=weiträumiger sup=weiträumigsten
 weitreichend adj cmp=weitreichender sup=weitreichendsten
 welk adj
 wellig adj cmp=welliger sup=welligsten

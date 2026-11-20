@@ -6,6 +6,7 @@ kalkhaltig adj
 kalkulatorisch adj
 kalt adj cmp=kälter sup=kältesten
 kaltblütig adj cmp=kaltblütiger sup=kaltblütigsten
+kambodschanisch adj
 kamerunisch adj
 kanadisch adj
 kanarisch adj
@@ -13,6 +14,7 @@ kantonal adj
 kapitalistisch adj
 kaputt adj note=comparison only colloquial (kaputter)
 karg adj cmp=karger|kärger[rare] sup=kargsten|kärgsten[rare]
+karibisch adj
 kariert adj
 karolingisch adj
 kartesisch adj
@@ -105,6 +107,7 @@ kostenlos adj
 kostenpflichtig adj
 köstlich adj cmp=köstlicher sup=köstlichsten
 kostspielig adj cmp=kostspieliger sup=kostspieligsten
+kovariant adj
 kräftig adj cmp=kräftiger sup=kräftigsten
 krampfhaft adj
 krank adj cmp=kränker sup=kränksten conf=90 note=comparison is possible but uncommon
@@ -114,9 +117,11 @@ krass adj cmp=krasser sup=krassesten
 kraus adj cmp=krauser sup=krausesten
 krautig adj note=botany: krautige Pflanzen
 kreativ adj cmp=kreativer sup=kreativsten
+kreuzförmig adj
 kribbelig adj cmp=kribbeliger sup=kribbeligsten
 kriegerisch adj
 kriminell adj
+kristallen adj
 kristallin adj
 kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj

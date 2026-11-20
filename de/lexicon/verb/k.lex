@@ -8,6 +8,7 @@ kapern verb class=weak pp=gekapert perf=haben
 kapieren verb class=weak pp=kapiert perf=haben style=colloquial alt=verstehen
 kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
 kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
+kasernieren verb class=weak pp=kaserniert perf=haben
 kassieren verb class=weak pp=kassiert perf=haben
 katalysieren verb class=weak pp=katalysiert perf=haben
 kategorisieren verb class=weak pp=kategorisiert perf=haben
@@ -23,6 +24,7 @@ kennen verb class=mixed 3sg=kennt past=kannte pp=gekannt subj2=kennte perf=haben
 kennenlernen verb class=weak sep=kennen pp=kennengelernt perf=haben
 kennzeichnen verb class=weak pp=gekennzeichnet perf=haben
 kentern verb class=weak pp=gekentert perf=sein
+kerben verb class=weak pp=gekerbt perf=haben
 ketten verb class=weak pp=gekettet perf=haben
 keuchen verb class=weak pp=gekeucht perf=haben
 kichern verb class=weak pp=gekichert perf=haben
@@ -72,10 +74,12 @@ knoten verb class=weak pp=geknotet perf=haben
 knüpfen verb class=weak pp=geknüpft perf=haben
 knurren verb class=weak pp=geknurrt perf=haben
 knutschen verb class=weak pp=geknutscht perf=haben style=colloquial
+koalieren verb class=weak pp=koaliert perf=haben
 köcheln verb class=weak pp=geköchelt perf=haben
 kochen verb class=weak pp=gekocht perf=haben
 kodieren verb class=weak pp=kodiert perf=haben
 kollabieren verb class=weak pp=kollabiert perf=sein
+kollern verb class=weak pp=gekollert perf=haben|sein
 kollidieren verb class=weak pp=kollidiert perf=sein
 kombinieren verb class=weak pp=kombiniert perf=haben
 kommandieren verb class=weak pp=kommandiert perf=haben
@@ -128,6 +132,7 @@ krächzen verb class=weak pp=gekrächzt perf=haben
 krähen verb class=weak pp=gekräht perf=haben
 krakeln verb class=weak pp=gekrakelt perf=haben
 kramen verb class=weak pp=gekramt perf=haben
+krampfen verb class=weak pp=gekrampft perf=haben
 kränkeln verb class=weak pp=gekränkelt perf=haben
 kranken verb class=weak pp=gekrankt perf=haben
 kränken verb class=weak pp=gekränkt perf=haben

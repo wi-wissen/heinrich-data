@@ -26,6 +26,7 @@ soundso adv
 sozusagen adv type=modal
 späterhin adv type=time
 spätestens adv type=time
+spornstreichs adv
 staatlicherseits adv
 stracks adv
 strengstens adv
@@ -33,5 +34,7 @@ stromab adv
 stromabwärts adv
 stromauf adv
 stromaufwärts adv
+südostwärts adv
 südwärts adv type=direction
+südwestwärts adv
 sukzessive adv

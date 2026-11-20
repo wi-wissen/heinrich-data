@@ -5,6 +5,7 @@ fällen verb class=weak pp=gefällt perf=haben
 fälschen verb class=weak pp=gefälscht perf=haben
 falten verb class=weak pp=gefaltet perf=haben
 fangen verb class=strong 3sg=fängt past=fing pp=gefangen subj2=finge perf=haben refl=acc
+fantasieren verb class=weak pp=fantasiert perf=haben
 färben verb class=weak pp=gefärbt perf=haben refl=acc
 fassen verb class=weak pp=gefasst perf=haben refl=acc
 fasten verb class=weak pp=gefastet perf=haben

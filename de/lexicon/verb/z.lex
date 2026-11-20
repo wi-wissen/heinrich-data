@@ -12,6 +12,8 @@ zechen verb class=weak pp=gezecht perf=haben
 zehren verb class=weak pp=gezehrt perf=haben note=von etwas zehren; an den Kräften zehren
 zeichnen verb class=weak pp=gezeichnet perf=haben
 zeigen verb class=weak pp=gezeigt perf=haben refl=acc
+zeitigen verb class=weak pp=gezeitigt perf=haben
+zelebrieren verb class=weak pp=zelebriert perf=haben
 zelten verb class=weak pp=gezeltet perf=haben
 zensieren verb class=weak pp=zensiert perf=haben
 zerbeißen verb class=strong 3sg=zerbeißt past=zerbiss pp=zerbissen subj2=zerbisse perf=haben
@@ -58,6 +60,7 @@ zersplittern verb class=weak pp=zersplittert perf=haben|sein
 zersprengen verb class=weak pp=zersprengt perf=haben
 zerspringen verb class=strong 3sg=zerspringt past=zersprang subj2=zerspränge pp=zersprungen perf=sein
 zerstampfen verb class=weak pp=zerstampft perf=haben
+zerstieben verb class=strong 3sg=zerstiebt past=zerstob pp=zerstoben subj2=zerstöbe perf=sein
 zerstören verb class=weak pp=zerstört perf=haben
 zerstreuen verb class=weak pp=zerstreut perf=haben
 zerstückeln verb class=weak pp=zerstückelt perf=haben

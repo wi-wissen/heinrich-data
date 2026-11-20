@@ -130,6 +130,7 @@ niedersinken verb class=strong sep=nieder 3sg=niedersinkt past=niedersank pp=nie
 niederwerfen verb class=strong sep=nieder 3sg=niederwirft past=niederwarf pp=niedergeworfen subj2=niederwürfe perf=haben refl=acc note=sich niederwerfen
 nieseln verb class=weak pp=genieselt perf=haben
 niesen verb class=weak pp=geniest perf=haben
+nieten verb class=weak pp=genietet perf=haben
 nippen verb class=weak pp=genippt perf=haben
 nisten verb class=weak pp=genistet perf=haben
 nobilitieren verb class=weak pp=nobilitiert perf=haben
@@ -141,6 +142,7 @@ normieren verb class=weak pp=normiert perf=haben
 notieren verb class=weak pp=notiert perf=haben
 notifizieren verb class=weak pp=notifiziert perf=haben
 nötigen verb class=weak pp=genötigt perf=haben
+nottun verb class=strong sep=not pres=nottue,nottust,nottut,nottun,nottut,nottun past=nottat pp=notgetan subj2=nottäte perf=haben
 novellieren verb class=weak pp=novelliert perf=haben
 nuckeln verb class=weak pp=genuckelt perf=haben
 nummerieren verb class=weak pp=nummeriert perf=haben

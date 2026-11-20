@@ -1,4 +1,5 @@
 gabelig adj
+gabunisch adj
 galaktisch adj
 galileisch adj note=die galileischen Monde
 galvanisch adj
@@ -46,6 +47,7 @@ geisterhaft adj cmp=geisterhafter sup=geisterhaftesten
 geistig adj
 geistlich adj
 geizig adj cmp=geiziger sup=geizigsten
+gekielt adj
 gekränkt adj cmp=gekränkter sup=gekränktesten
 gelangweilt adj cmp=gelangweilter sup=gelangweiltesten
 gelappt adj
@@ -101,11 +103,13 @@ gesetzgeberisch adj
 gesetzlich adj
 gesetzwidrig adj
 gesinnt adj note=mostly with an adverb: freundlich gesinnt, die gleich gesinnten
+gesittet adj cmp=gesitteter sup=gesittetsten
 gesondert adj
 gespenstisch adj cmp=gespenstischer sup=gespenstischsten
 gesprächig adj cmp=gesprächiger sup=gesprächigsten
 gestalterisch adj
 gestielt adj note=botany: having a stalk
+gestirnt adj
 gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten

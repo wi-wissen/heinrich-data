@@ -14,6 +14,7 @@ barock adj
 barrierefrei adj
 bärtig adj
 basal adj
+baskisch adj
 bäuerisch adj
 bäuerlich adj
 baulich adj
@@ -38,6 +39,7 @@ befremdlich adj cmp=befremdlicher sup=befremdlichsten
 befriedigend adj cmp=befriedigender sup=befriedigendsten
 befugt adj
 begabt adj cmp=begabter sup=begabtesten
+begehrlich adj cmp=begehrlicher sup=begehrlichsten
 begehrt adj cmp=begehrter sup=begehrtesten
 begeistert adj cmp=begeisterter sup=begeistertsten
 begierig adj cmp=begieriger sup=begierigsten
@@ -69,6 +71,7 @@ beleidigt adj cmp=beleidigter sup=beleidigtsten
 belgisch adj
 beliebig adj
 beliebt adj cmp=beliebter sup=beliebtesten
+belizisch adj
 bemerkbar adj
 bemerkenswert adj cmp=bemerkenswerter sup=bemerkenswertesten
 benachbart adj
@@ -170,8 +173,10 @@ bretonisch adj
 britisch adj
 bronzen adj note=made of bronze; not compared
 brüchig adj cmp=brüchiger sup=brüchigsten
+bruchstückhaft adj cmp=bruchstückhafter sup=bruchstückhaftesten
 brüderlich adj cmp=brüderlicher sup=brüderlichsten
 brünstig adj
+brüsk adj cmp=brüsker sup=brüskesten
 brutal adj cmp=brutaler sup=brutalsten
 buchhalterisch adj
 buchstäblich adj

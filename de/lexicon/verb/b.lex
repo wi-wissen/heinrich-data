@@ -42,6 +42,7 @@ bedrucken verb class=weak pp=bedruckt perf=haben
 bedrücken verb class=weak pp=bedrückt perf=haben
 bedürfen      verb class=modal 3sg=bedarf past=bedurfte pp=bedurft subj2=bedürfte perf=haben note=with genitive (es bedarf eines Beschlusses)
 beehren verb class=weak pp=beehrt perf=haben
+beeidigen verb class=weak pp=beeidigt perf=haben
 beeilen verb class=weak pp=beeilt perf=haben refl=acc
 beeindrucken verb class=weak pp=beeindruckt perf=haben part1_cmp
 beeinflussen verb class=weak pp=beeinflusst perf=haben
@@ -60,6 +61,7 @@ befestigen verb class=weak pp=befestigt perf=haben
 befeuchten verb class=weak pp=befeuchtet perf=haben
 befeuern verb class=weak pp=befeuert perf=haben
 befinden      verb class=strong refl=acc 3sg=befindet past=befand pp=befunden subj2=befände perf=haben
+befischen verb class=weak pp=befischt perf=haben
 beflecken verb class=weak pp=befleckt perf=haben
 befolgen verb class=weak pp=befolgt perf=haben
 befördern     verb class=weak pp=befördert perf=haben
@@ -186,6 +188,7 @@ benutzen      verb class=weak pp=benutzt perf=haben
 benützen verb class=weak pp=benützt perf=haben note=southern German and Austrian variant of benutzen
 beobachten verb class=weak pp=beobachtet perf=haben
 beordern verb class=weak pp=beordert perf=haben
+bepacken verb class=weak pp=bepackt perf=haben
 bepflanzen verb class=weak pp=bepflanzt perf=haben
 beraten       verb class=strong 3sg=berät past=beriet pp=beraten subj2=beriete perf=haben
 berauben verb class=weak pp=beraubt perf=haben
@@ -262,9 +265,11 @@ bespannen verb class=weak pp=bespannt perf=haben
 bespielen verb class=weak pp=bespielt perf=haben
 bespitzeln verb class=weak pp=bespitzelt perf=haben
 besprechen verb class=strong 3sg=bespricht past=besprach pp=besprochen subj2=bespräche perf=haben
+besprengen verb class=weak pp=besprengt perf=haben
 bespritzen verb class=weak pp=bespritzt perf=haben
 bespülen verb class=weak pp=bespült perf=haben
 bessern verb class=weak refl=acc pp=gebessert perf=haben
+besserstellen verb class=weak sep=besser pp=bessergestellt perf=haben
 bestärken verb class=weak pp=bestärkt perf=haben
 bestätigen    verb class=weak pp=bestätigt perf=haben
 bestatten verb class=weak pp=bestattet perf=haben
@@ -408,6 +413,7 @@ bremsen verb class=weak pp=gebremst perf=haben
 brennen verb class=mixed 3sg=brennt past=brannte pp=gebrannt subj2=brennte perf=haben
 briefen verb class=weak pp=gebrieft perf=haben
 bringen       verb class=mixed 3sg=bringt past=brachte pp=gebracht subj2=brächte perf=haben
+brodeln verb class=weak pp=gebrodelt perf=haben
 brüllen verb class=weak pp=gebrüllt perf=haben
 brummen verb class=weak pp=gebrummt perf=haben
 brüten verb class=weak pp=gebrütet perf=haben

@@ -3,6 +3,7 @@ gänzlich adv
 gefälligst adv type=modal
 gemeinhin adv
 gemeiniglich adv style=archaic note=commonly, usually
+genauestens adv
 genugsam adv style=archaic
 geradeaus adv type=direction
 geradeso adv
@@ -13,6 +14,7 @@ gern         adv cmp=lieber sup=liebsten
 gerne adv cmp=lieber sup=liebsten
 getrost adv
 gewissermaßen adv
+gezwungenermaßen adv
 gleichauf adv
 gleichermaßen adv
 gleicherweise adv

@@ -107,6 +107,7 @@ schwer adj cmp=schwerer sup=schwersten
 schwermütig adj cmp=schwermütiger sup=schwermütigsten
 schwerwiegend adj cmp=schwerwiegender sup=schwerwiegendsten
 schwierig adj cmp=schwieriger sup=schwierigsten
+schwindelig adj cmp=schwindeliger sup=schwindeligsten
 schwindlig adj cmp=schwindliger sup=schwindligsten
 schwül adj cmp=schwüler sup=schwülsten
 sechsteilig adj
@@ -132,12 +133,14 @@ senil adj cmp=seniler sup=senilsten
 senkrecht adj
 sensibel adj cmp=sensibler sup=sensibelsten
 separat adj
+sephardisch adj
 serbisch adj
 serbokroatisch adj
 seriös adj cmp=seriöser sup=seriösesten
 serologisch adj
 sesshaft adj cmp=sesshafter sup=sesshaftesten
 sexuell adj
+sichelförmig adj
 sicher adj attr=sichere|sichre[rare] cmp=sicherer sup=sichersten
 sichtbar adj cmp=sichtbarer sup=sichtbarsten
 sichtlich adj
@@ -166,6 +169,7 @@ sofortig adj
 sogenannt adj
 solidarisch adj cmp=solidarischer sup=solidarischsten
 solide adj cmp=solider sup=solidesten
+solistisch adj
 solvent adj
 somalisch adj
 sommerlich adj cmp=sommerlicher sup=sommerlichsten
@@ -261,6 +265,7 @@ struppig adj cmp=struppiger sup=struppigsten
 studentisch adj
 stumm adj cmp=stummer sup=stummsten
 stumpf adj cmp=stumpfer sup=stumpfsten
+stumpfsinnig adj cmp=stumpfsinniger sup=stumpfsinnigsten
 stündlich adj
 stur adj cmp=sturer sup=stursten|sturesten
 stürmisch adj cmp=stürmischer sup=stürmischsten

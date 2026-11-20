@@ -17,6 +17,7 @@ hinab adv
 hinan adv style=archaic
 hinfort adv style=archaic
 hinnen adv style=archaic note=von hinnen
+hintendrein adv
 hinterdrein adv type=time|place
 hinterher adv
 hinterrücks adv

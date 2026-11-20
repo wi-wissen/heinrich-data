@@ -71,6 +71,7 @@ unentbehrlich adj
 unentgeltlich adj
 unentwegt adj
 unerbittlich adj cmp=unerbittlicher sup=unerbittlichsten
+unerforschlich adj
 unergründlich adj
 unerlässlich adj
 unerledigt adj
@@ -85,6 +86,7 @@ unfähig adj cmp=unfähiger sup=unfähigsten
 unfair adj cmp=unfairer sup=unfairsten
 unfrei adj
 ungarisch adj
+ungebärdig adj cmp=ungebärdiger sup=ungebärdigsten
 ungeduldig adj
 ungeeignet adj cmp=ungeeigneter sup=ungeeignetsten
 ungefähr adj

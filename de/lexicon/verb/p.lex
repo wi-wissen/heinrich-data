@@ -7,6 +7,7 @@ panzern verb class=weak pp=gepanzert perf=haben
 paraphieren verb class=weak pp=paraphiert perf=haben
 parken verb class=weak pp=geparkt perf=haben
 parodieren verb class=weak pp=parodiert perf=haben
+parzellieren verb class=weak pp=parzelliert perf=haben
 passen verb class=weak pp=gepasst perf=haben
 passieren verb class=weak pp=passiert perf=haben|sein
 patentieren verb class=weak pp=patentiert perf=haben
@@ -30,6 +31,7 @@ pflastern verb class=weak pp=gepflastert perf=haben
 pflegen verb class=weak pp=gepflegt perf=haben
 pflücken verb class=weak pp=gepflückt perf=haben
 pflügen verb class=weak pp=gepflügt perf=haben
+phantasieren verb class=weak pp=phantasiert perf=haben
 picken verb class=weak pp=gepickt perf=haben
 pieksen verb class=weak pp=gepiekst perf=haben style=colloquial
 piepen verb class=weak pp=gepiept perf=haben

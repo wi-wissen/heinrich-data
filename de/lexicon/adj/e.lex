@@ -40,6 +40,7 @@ eingedenk adj pred_only note=einer Sache eingedenk sein; also used as a preposit
 eingeschnappt adj
 eingeschossig adj
 eingleisig adj
+einhäusig adj note=botany
 einheitlich adj cmp=einheitlicher sup=einheitlichsten
 einig adj note=mostly predicative: sich einig sein
 einjährig adj
@@ -98,8 +99,10 @@ entgeltlich adj
 entlegen adj cmp=entlegener sup=entlegensten
 entscheidend adj cmp=entscheidender sup=entscheidendsten
 entschlossen adj cmp=entschlossener sup=entschlossensten
+entseelt adj
 entsetzlich adj cmp=entsetzlicher sup=entsetzlichsten
 enttäuscht adj cmp=enttäuschter sup=enttäuschtesten
+epidemiologisch adj
 epidemisch adj
 episch adj
 erbärmlich adj cmp=erbärmlicher sup=erbärmlichsten
@@ -121,6 +124,7 @@ erklärlich adj
 erlaubnispflichtig adj
 erlaucht adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
+erlesen adj cmp=erlesener sup=erlesensten
 erlogen adj
 ernestinisch adj
 erneuerbar adj
@@ -138,14 +142,18 @@ erstaunlich adj cmp=erstaunlicher sup=erstaunlichsten
 erstaunt adj cmp=erstaunter sup=erstauntesten
 erstausgestrahlt adj
 erstbeschrieben adj conf=90 note=biology: first described (participle of erstbeschreiben, used as participle only)
+erstgeboren adj
 erstmalig adj
 erstplatziert adj
+erstveröffentlicht adj
 erträglich adj cmp=erträglicher sup=erträglichsten
 erwachsen adj
 erwähnenswert adj
 erwartungsgemäß adj
 erwünscht adj
 erzählend adj
+erzählerisch adj
+essentiell adj cmp=essentieller sup=essentiellsten
 essenziell adj cmp=essenzieller sup=essenziellsten note=variant spelling essentiell
 estnisch adj
 ethisch adj
@@ -177,3 +185,4 @@ extern adj
 extrem adj cmp=extremer sup=extremsten
 extremistisch adj
 exzellent adj cmp=exzellenter sup=exzellentesten
+exzentrisch adj cmp=exzentrischer sup=exzentrischsten

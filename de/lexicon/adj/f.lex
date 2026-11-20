@@ -81,6 +81,7 @@ fragil adj cmp=fragiler sup=fragilsten
 fraglich adj
 fränkisch adj
 frankophon adj
+franziskanisch adj
 französisch adj
 französischsprachig adj
 frech adj cmp=frecher sup=frechsten
@@ -95,6 +96,7 @@ freundschaftlich adj
 friedlich adj cmp=friedlicher sup=friedlichsten
 frisch adj cmp=frischer sup=frischesten
 fristgemäß adj
+frivol adj cmp=frivoler sup=frivolsten
 froh adj cmp=froher sup=frohesten
 fröhlich adj cmp=fröhlicher sup=fröhlichsten
 fromm adj cmp=frömmer|frommer sup=frömmsten|frommsten

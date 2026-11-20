@@ -44,6 +44,7 @@ phantastisch adj cmp=phantastischer sup=phantastischsten note=variant spelling o
 pharmazeutisch adj
 philippinisch adj
 philosophisch adj
+phlegmatisch adj cmp=phlegmatischer sup=phlegmatischsten
 phylogenetisch adj
 physikalisch adj
 physiologisch adj
@@ -64,6 +65,7 @@ polar adj
 politisch adj
 polizeilich adj
 polnisch adj
+polychloriert adj
 polygonal adj
 polytechnisch adj
 polytheistisch adj
@@ -108,6 +110,7 @@ prominent adj cmp=prominenter sup=prominentesten
 propagandistisch adj
 proportional adj
 proprietär adj
+prosaisch adj cmp=prosaischer sup=prosaischsten
 protestantisch adj
 provisorisch adj
 prozentig adj note=mostly in compounds with numerals (5-prozentig, zehnprozentige)

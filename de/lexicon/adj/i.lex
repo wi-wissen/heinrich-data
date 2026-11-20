@@ -18,9 +18,11 @@ inakzeptabel adj cmp=inakzeptabler sup=inakzeptabelsten
 inbegriffen adj
 inbrünstig adj cmp=inbrünstiger sup=inbrünstigsten
 indianisch adj
+indifferent adj cmp=indifferenter sup=indifferentesten
 indigen adj
 indirekt adj
 indisch adj
+indiskutabel adj
 individuell adj cmp=individueller sup=individuellsten
 indonesisch adj
 industriell adj
@@ -44,6 +46,7 @@ integral adj
 integrativ adj
 intellektuell adj cmp=intellektueller sup=intellektuellsten
 intelligent adj cmp=intelligenter sup=intelligentesten
+intelligibel adj
 intensiv adj cmp=intensiver sup=intensivsten
 interaktiv adj
 interdisziplinär adj
@@ -53,9 +56,11 @@ intergeschlechtlich adj
 interimistisch adj
 intern adj
 international adj
+interstellar adj
 interzellulär adj
 intolerant adj
 intransitiv adj
+intrazellulär adj
 intuitiv adj cmp=intuitiver sup=intuitivsten
 investiv adj
 irakisch adj

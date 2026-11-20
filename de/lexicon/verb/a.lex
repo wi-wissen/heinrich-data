@@ -491,6 +491,8 @@ arbeiten      verb class=weak pp=gearbeitet perf=haben
 archivieren verb class=weak pp=archiviert perf=haben
 ärgern verb class=weak pp=geärgert perf=haben refl=acc
 argumentieren verb class=weak pp=argumentiert perf=haben
+arisieren verb class=weak pp=arisiert perf=haben
+aromatisieren verb class=weak pp=aromatisiert perf=haben
 arrangieren verb class=weak pp=arrangiert perf=haben refl=acc
 arten verb class=weak pp=geartet perf=sein conf=90 note=nach jemandem arten (to take after); mostly the participle geartet
 asphaltieren verb class=weak pp=asphaltiert perf=haben

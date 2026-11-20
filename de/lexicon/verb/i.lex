@@ -17,7 +17,9 @@ initiieren verb class=weak pp=initiiert perf=haben
 inkorporieren verb class=weak pp=inkorporiert perf=haben
 innehaben verb class=mixed sep=inne 3sg=innehat past=innehatte pp=innegehabt subj2=innehätte perf=haben
 innehalten verb class=strong sep=inne 3sg=innehält past=innehielt pp=innegehalten subj2=innehielte perf=haben
+insinuieren verb class=weak pp=insinuiert perf=haben
 inspirieren verb class=weak pp=inspiriert perf=haben
+inspizieren verb class=weak pp=inspiziert perf=haben
 installieren verb class=weak pp=installiert perf=haben
 instrumentalisieren verb class=weak pp=instrumentalisiert perf=haben
 inszenieren verb class=weak pp=inszeniert perf=haben

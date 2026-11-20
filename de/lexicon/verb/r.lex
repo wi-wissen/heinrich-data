@@ -112,6 +112,7 @@ reizen verb class=weak pp=gereizt perf=haben
 reklamieren verb class=weak pp=reklamiert perf=haben
 rekonstruieren verb class=weak pp=rekonstruiert perf=haben
 rekrutieren verb class=weak pp=rekrutiert perf=haben
+rekurrieren verb class=weak pp=rekurriert perf=haben
 relativieren verb class=weak pp=relativiert perf=haben
 relaxen verb class=weak pp=gerelaxt perf=haben
 rempeln verb class=weak pp=gerempelt perf=haben
@@ -173,6 +174,7 @@ rüberspringen verb class=strong sep=rüber 3sg=rüberspringt past=rübersprang 
 rüberwerfen verb class=strong sep=rüber 3sg=rüberwirft past=rüberwarf subj2=rüberwürfe pp=rübergeworfen perf=haben
 rüberwinken verb class=weak sep=rüber pp=rübergewinkt perf=haben
 rüberziehen verb class=strong sep=rüber 3sg=rüberzieht past=rüberzog subj2=rüberzöge pp=rübergezogen perf=haben
+rückbauen verb class=weak sep=rück pp=rückgebaut perf=haben
 rücken verb class=weak pp=gerückt perf=haben|sein
 rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
 rückwärtsfahren verb class=strong sep=rückwärts 3sg=rückwärtsfährt past=rückwärtsfuhr pp=rückwärtsgefahren subj2=rückwärtsführe perf=haben|sein
@@ -186,6 +188,7 @@ ruinieren verb class=weak pp=ruiniert perf=haben
 rülpsen verb class=weak pp=gerülpst perf=haben
 rumoren verb class=weak pp=gerumort perf=haben
 rumpeln verb class=weak pp=gerumpelt perf=haben|sein
+rümpfen verb class=weak pp=gerümpft perf=haben
 runden verb class=weak pp=gerundet perf=haben
 runterbrennen verb class=mixed sep=runter 3sg=runterbrennt past=runterbrannte subj2=runterbrennte pp=runtergebrannt perf=sein
 runterdrehen verb class=weak sep=runter pp=runtergedreht perf=haben

@@ -1,4 +1,5 @@
 ebnen verb class=weak pp=geebnet perf=haben
+edieren verb class=weak pp=ediert perf=haben
 ehelichen verb class=weak pp=geehelicht perf=haben
 ehren verb class=weak pp=geehrt perf=haben
 eichen verb class=weak pp=geeicht perf=haben
@@ -303,6 +304,7 @@ entschärfen verb class=weak pp=entschärft perf=haben
 entscheiden verb class=strong 3sg=entscheidet past=entschied pp=entschieden subj2=entschiede perf=haben refl=acc
 entschlafen verb class=strong 3sg=entschläft past=entschlief pp=entschlafen subj2=entschliefe perf=sein
 entschließen verb class=strong 3sg=entschließt past=entschloss pp=entschlossen subj2=entschlösse perf=haben refl=acc
+entschlummern verb class=weak pp=entschlummert perf=sein
 entschlüpfen verb class=weak pp=entschlüpft perf=sein
 entschlüsseln verb class=weak pp=entschlüsselt perf=haben
 entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
@@ -328,7 +330,9 @@ entwenden verb class=weak pp=entwendet perf=haben
 entwerfen verb class=strong 3sg=entwirft past=entwarf pp=entworfen subj2=entwürfe perf=haben
 entwerten verb class=weak pp=entwertet perf=haben
 entwickeln verb class=weak pp=entwickelt perf=haben refl=acc
+entwidmen verb class=weak pp=entwidmet perf=haben
 entwirren verb class=weak pp=entwirrt perf=haben
+entwischen verb class=weak pp=entwischt perf=sein
 entwöhnen verb class=weak pp=entwöhnt perf=haben
 entziehen verb class=strong 3sg=entzieht past=entzog pp=entzogen subj2=entzöge perf=haben
 entzücken verb class=weak pp=entzückt perf=haben
@@ -378,6 +382,7 @@ ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=
 ergetzen verb class=weak pp=ergetzt perf=haben refl=acc style=archaic
 ergießen verb class=strong 3sg=ergießt past=ergoss pp=ergossen subj2=ergösse perf=haben refl=acc
 erglänzen verb class=weak pp=erglänzt perf=haben|sein
+erglühen verb class=weak pp=erglüht perf=sein
 ergötzen verb class=weak pp=ergötzt perf=haben refl=acc
 ergrauen verb class=weak pp=ergraut perf=sein
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben
@@ -462,6 +467,7 @@ ersaufen verb class=strong 3sg=ersäuft past=ersoff subj2=ersöffe pp=ersoffen p
 erschaffen verb class=strong 3sg=erschafft past=erschuf pp=erschaffen subj2=erschüfe perf=haben
 erschallen verb class=strong 3sg=erschallt past=erscholl|erschallte pp=erschollen subj2=erschölle|erschallte perf=sein conf=85 note=strong and weak preterite both in use
 erschaudern verb class=weak pp=erschaudert perf=sein
+erschauen verb class=weak pp=erschaut perf=haben
 erschauern verb class=weak pp=erschauert perf=sein
 erscheinen verb class=strong 3sg=erscheint past=erschien pp=erschienen subj2=erschiene perf=sein
 erschießen verb class=strong 3sg=erschießt past=erschoss pp=erschossen subj2=erschösse perf=haben
@@ -542,6 +548,7 @@ evakuieren verb class=weak pp=evakuiert perf=haben
 evaluieren verb class=weak pp=evaluiert perf=haben
 exhumieren verb class=weak pp=exhumiert perf=haben
 existieren verb class=weak pp=existiert perf=haben
+exkommunizieren verb class=weak pp=exkommuniziert perf=haben
 expandieren verb class=weak pp=expandiert perf=haben|sein conf=85 note=haben and sein both in use
 experimentieren verb class=weak pp=experimentiert perf=haben
 explodieren verb class=weak pp=explodiert perf=sein

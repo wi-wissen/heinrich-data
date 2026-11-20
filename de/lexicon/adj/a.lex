@@ -1,5 +1,7 @@
+abelsch adj note=mathematics
 abendländisch adj
 abenteuerlich adj cmp=abenteuerlicher sup=abenteuerlichsten
+abergläubisch adj cmp=abergläubischer sup=abergläubischsten
 abgabepflichtig adj
 abgelegen adj cmp=abgelegener sup=abgelegensten
 abgeleitet adj
@@ -16,9 +18,11 @@ absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
 abträglich adj cmp=abträglicher sup=abträglichsten
+abtrünnig adj
 abwärtskompatibel adj
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
+achtseitig adj
 achtziger adj indecl note=die achtziger Jahre
 adelig adj cmp=adeliger sup=adeligsten note=variant of adlig
 adäquat adj cmp=adäquater sup=adäquatesten
@@ -64,6 +68,7 @@ allmälig adj spelling=old note=old spelling of allmählich
 allmonatlich adj
 allnächtlich adj
 alltäglich adj cmp=alltäglicher sup=alltäglichsten
+allwöchentlich adj
 alphabetisch adj
 alpin adj
 alt          adj cmp=älter sup=ältesten
@@ -76,6 +81,7 @@ amerikanisch adj
 amphibisch adj
 amtierend adj
 amtlich adj
+anaerob adj
 analog adj
 analytisch adj
 anarchistisch adj
@@ -97,6 +103,7 @@ angst adj pred_only note=predicative only (mir ist angst und bange); the noun is
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
 anhängig adj
 anhänglich adj cmp=anhänglicher sup=anhänglichsten
+anheischig adj pred_only note=sich anheischig machen
 annähernd adj
 anonym adj cmp=anonymer sup=anonymsten
 anorganisch adj
@@ -143,6 +150,7 @@ artig adj cmp=artiger sup=artigsten
 ärztlich adj
 aserbaidschanisch adj
 asiatisch adj
+asozial adj cmp=asozialer sup=asozialsten
 ästhetisch adj cmp=ästhetischer sup=ästhetischsten
 astronomisch adj
 atheistisch adj
@@ -151,6 +159,7 @@ atmosphärisch adj
 äthiopisch adj
 atomar adj
 attraktiv adj cmp=attraktiver sup=attraktivsten
+atypisch adj
 ätzend adj
 aufdringlich adj cmp=aufdringlicher sup=aufdringlichsten
 auffällig adj cmp=auffälliger sup=auffälligsten
@@ -204,3 +213,4 @@ autodidaktisch adj
 automatisch adj
 autonom adj cmp=autonomer sup=autonomsten
 autoritär adj
+avantgardistisch adj cmp=avantgardistischer sup=avantgardistischsten

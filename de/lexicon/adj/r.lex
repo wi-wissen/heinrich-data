@@ -78,6 +78,7 @@ romanisch adj
 romantisch adj cmp=romantischer sup=romantischsten
 römisch adj
 rosa         adj indecl
+rosafarben adj
 rosig adj cmp=rosiger sup=rosigsten
 rot adj cmp=röter|roter sup=rötesten|rotesten
 rothaarig adj

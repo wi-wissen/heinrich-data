@@ -1,5 +1,6 @@
 obdachlos adj
 obengenannt adj conf=80 note=also written oben genannt
+obenliegend adj
 obenstehend adj conf=80 note=also written oben stehend
 ober adj attr_only sup=obersten note=die obere Etage; positional, no comparative; see also oberst
 oberbergisch adj note=der Oberbergische Kreis
@@ -7,6 +8,7 @@ oberflächlich adj
 oberst adj note=attributive only (der oberste Stock)
 obig adj attr_only note=die obige Adresse
 objektiv adj cmp=objektiver sup=objektivsten
+obligat adj
 obligatorisch adj
 obsolet adj
 ockerfarben adj
@@ -24,6 +26,7 @@ ohnmächtig adj
 okay adj indecl
 ökologisch adj
 ökonomisch adj
+oktogonal adj
 ökumenisch adj
 oldenburgisch adj
 olympisch adj
@@ -46,6 +49,7 @@ orientalisch adj
 original adj
 originär adj
 originell adj cmp=origineller sup=originellsten
+orografisch adj
 orographisch adj
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 orthogonal adj

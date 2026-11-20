@@ -4,6 +4,7 @@ landeinwärts adv type=direction
 lange adv cmp=länger sup=längsten
 längsseits adv
 längstens adv
+lauthals adv
 leichthin adv
 leider       adv
 letztendlich adv

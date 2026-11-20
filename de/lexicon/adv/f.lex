@@ -1,3 +1,4 @@
+fairerweise adv
 fälschlicherweise adv
 fernerhin adv
 fernher adv

@@ -26,6 +26,7 @@ schallen verb class=weak past=schallte|scholl subj2=schallte|schölle[rare] pp=g
 schalten verb class=weak pp=geschaltet perf=haben
 schämen verb class=weak pp=geschämt perf=haben refl=acc
 schänden verb class=weak pp=geschändet perf=haben
+scharen verb class=weak pp=geschart perf=haben refl=acc
 schärfen verb class=weak pp=geschärft perf=haben
 scharren verb class=weak pp=gescharrt perf=haben
 schattieren verb class=weak pp=schattiert perf=haben
@@ -154,6 +155,7 @@ schwanken verb class=weak pp=geschwankt perf=haben|sein
 schwänzen verb class=weak pp=geschwänzt perf=haben style=colloquial alt=unentschuldigt_fehlen
 schwärmen verb class=weak pp=geschwärmt perf=haben|sein
 schwatzen verb class=weak pp=geschwatzt perf=haben
+schwätzen verb class=weak pp=geschwätzt perf=haben
 schweben verb class=weak pp=geschwebt perf=haben|sein
 schweifen verb class=weak pp=geschweift perf=haben|sein
 schweigen verb class=strong 3sg=schweigt past=schwieg pp=geschwiegen subj2=schwiege perf=haben
@@ -250,6 +252,7 @@ spüren verb class=weak pp=gespürt perf=haben
 stabilisieren verb class=weak pp=stabilisiert perf=haben
 staffeln verb class=weak pp=gestaffelt perf=haben
 stagnieren verb class=weak pp=stagniert perf=haben
+stählen verb class=weak pp=gestählt perf=haben
 stalken verb class=weak pp=gestalkt perf=haben
 stammeln verb class=weak pp=gestammelt perf=haben
 stammen verb class=weak pp=gestammt perf=haben
@@ -269,9 +272,11 @@ staunen verb class=weak pp=gestaunt perf=haben
 stechen verb class=strong 3sg=sticht past=stach pp=gestochen subj2=stäche perf=haben
 stecken verb class=weak past=steckte|stak[archaic] subj2=steckte|stäke[archaic] pp=gesteckt perf=haben
 stehen verb class=strong 3sg=steht past=stand pp=gestanden subj2=stünde|stände perf=haben|sein
+stehenbleiben verb class=strong sep=stehen 3sg=stehenbleibt past=stehenblieb pp=stehengeblieben subj2=stehenbliebe perf=sein note=also written separately: stehen bleiben
 stehlen verb class=strong 3sg=stiehlt past=stahl pp=gestohlen subj2=stähle|stöhle[rare] perf=haben
 steigen verb class=strong 3sg=steigt past=stieg pp=gestiegen subj2=stiege perf=sein
 steigern verb class=weak pp=gesteigert perf=haben refl=acc
+steinigen verb class=weak pp=gesteinigt perf=haben
 stellen verb class=weak pp=gestellt perf=haben refl=acc
 stemmen verb class=weak pp=gestemmt perf=haben
 stempeln verb class=weak pp=gestempelt perf=haben
@@ -297,9 +302,11 @@ stornieren verb class=weak pp=storniert perf=haben
 stoßen verb class=strong 3sg=stößt past=stieß pp=gestoßen subj2=stieße perf=haben|sein
 stottern verb class=weak pp=gestottert perf=haben
 strafen verb class=weak pp=gestraft perf=haben
+straffen verb class=weak pp=gestrafft perf=haben
 strahlen verb class=weak pp=gestrahlt perf=haben
 strampeln verb class=weak pp=gestrampelt perf=haben|sein
 sträuben verb class=weak pp=gesträubt perf=haben refl=acc
+straucheln verb class=weak pp=gestrauchelt perf=sein
 streamen verb class=weak pp=gestreamt perf=haben
 streben verb class=weak pp=gestrebt perf=haben
 strecken verb class=weak pp=gestreckt perf=haben refl=acc
