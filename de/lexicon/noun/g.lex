@@ -13,6 +13,7 @@ Galle noun g=f gen=Galle pl=Gallen
 Gallium noun g=n gen=Galliums pl=- note=chemical element
 Galopp noun g=m gen=Galopps pl=Galopps|Galoppe
 Galvanik noun g=f gen=Galvanik pl=- note=mass noun
+Gamasche noun g=f gen=Gamasche pl=Gamaschen
 Gamer noun g=m gen=Gamers pl=Gamer
 Gamerin noun g=f gen=Gamerin pl=Gamerinnen
 Gamete noun g=f gen=Gamete pl=Gameten
@@ -40,6 +41,7 @@ Gardine noun g=f gen=Gardine pl=Gardinen
 Garn noun g=n gen=Garns|Garnes pl=Garne
 Garnele noun g=f gen=Garnele pl=Garnelen
 Garnison noun g=f gen=Garnison pl=Garnisonen
+Garnitur noun g=f gen=Garnitur pl=Garnituren
 Gärtchen noun g=n gen=Gärtchens pl=Gärtchen
 Garten noun g=m gen=Gartens pl=Gärten
 Gartenschlauch noun g=m gen=Gartenschlauchs pl=Gartenschläuche
@@ -47,6 +49,7 @@ Gärtner noun g=m gen=Gärtners pl=Gärtner
 Gärtnerin noun g=f gen=Gärtnerin pl=Gärtnerinnen
 Gärung noun g=f gen=Gärung pl=Gärungen
 Gas noun g=n gen=Gases pl=Gase
+Gasometer noun g=m gen=Gasometers pl=Gasometer
 Gasse noun g=f gen=Gasse pl=Gassen
 Gast noun g=m gen=Gastes|Gasts[rare] pl=Gäste
 Gastgeberin noun g=f gen=Gastgeberin pl=Gastgeberinnen
@@ -78,9 +81,11 @@ Gebiet noun g=n gen=Gebiets|Gebietes pl=Gebiete
 Gebieter noun g=m gen=Gebieters pl=Gebieter
 Gebieterin noun g=f gen=Gebieterin pl=Gebieterinnen
 Gebilde noun g=n gen=Gebildes pl=Gebilde
+Gebinde noun g=n gen=Gebindes pl=Gebinde
 Gebirge noun g=n gen=Gebirges pl=Gebirge
 Gebiss noun g=n gen=Gebisses pl=Gebisse
 Gebläse noun g=n gen=Gebläses pl=Gebläse
+Geblüt noun g=n gen=Geblüts|Geblütes pl=- note=no plural
 Gebot noun g=n gen=Gebotes|Gebots pl=Gebote
 Gebrauch noun g=m gen=Gebrauchs|Gebrauches[rare] pl=Gebräuche
 Gebrauchtwagen noun g=m gen=Gebrauchtwagens pl=Gebrauchtwagen
@@ -123,12 +128,14 @@ Geflügel noun g=n gen=Geflügels pl=- note=no plural
 Geflüster noun g=n gen=Geflüsters pl=- note=no plural
 Gefolge noun g=n gen=Gefolges pl=Gefolge
 Gefolgschaft noun g=f gen=Gefolgschaft pl=Gefolgschaften
+Gefreite noun g=m|f decl=adj
 Gefrierschrank noun g=m gen=Gefrierschranks|Gefrierschrankes pl=Gefrierschränke
 Gefüge noun g=n gen=Gefüges pl=Gefüge
 Gefühl noun g=n gen=Gefühls|Gefühles[rare] pl=Gefühle
 Gegebenheit noun g=f gen=Gegebenheit pl=Gegebenheiten
 Gegend noun g=f gen=Gegend pl=Gegenden
 Gegendarstellung noun g=f gen=Gegendarstellung pl=Gegendarstellungen
+Gegenpart noun g=m gen=Gegenparts|Gegenpartes pl=Gegenparte
 Gegensatz noun g=m gen=Gegensatzes pl=Gegensätze
 Gegenseitigkeit noun g=f gen=Gegenseitigkeit pl=- note=no plural
 Gegenstand noun g=m gen=Gegenstandes|Gegenstands pl=Gegenstände
@@ -140,6 +147,7 @@ Gegner noun g=m gen=Gegners pl=Gegner
 Gegnerin noun g=f gen=Gegnerin pl=Gegnerinnen
 Gehalt       noun g=n gen=Gehalts|Gehaltes pl=Gehälter sense=salary note=das Gehalt: pay
 Gehalt       noun g=m gen=Gehalts|Gehaltes pl=Gehalte sense=content note=der Gehalt: proportion, substance
+Gehänge noun g=n gen=Gehänges pl=Gehänge
 Gehäuse noun g=n gen=Gehäuses pl=Gehäuse
 Gehege noun g=n gen=Geheges pl=Gehege
 Geheimnis noun g=n gen=Geheimnisses pl=Geheimnisse
@@ -204,11 +212,13 @@ Gemeindegebiet noun g=n gen=Gemeindegebiets|Gemeindegebietes pl=Gemeindegebiete 
 Gemeinderat noun g=m gen=Gemeinderats|Gemeinderates pl=Gemeinderäte note=compound not accepted by the analyser
 Gemeindeteil noun g=m gen=Gemeindeteils|Gemeindeteiles pl=Gemeindeteile note=compound not accepted by the analyser
 Gemeinheit noun g=f gen=Gemeinheit pl=Gemeinheiten
+Gemeinnützigkeit noun g=f gen=Gemeinnützigkeit pl=- note=no plural
 Gemeinsamkeit noun g=f gen=Gemeinsamkeit pl=Gemeinsamkeiten
 Gemeinschaft noun g=f gen=Gemeinschaft pl=Gemeinschaften
 Gemeinschaftskunde noun g=f gen=Gemeinschaftskunde pl=- note=no plural
 Gemenge noun g=n gen=Gemenges pl=Gemenge
 Gemengelage noun g=f gen=Gemengelage pl=Gemengelagen
+Gemetzel noun g=n gen=Gemetzels pl=Gemetzel
 Gemisch noun g=n gen=Gemischs|Gemisches pl=Gemische
 Gemischtwarenhändler noun g=m gen=Gemischtwarenhändlers pl=Gemischtwarenhändler
 Gemurmel noun g=n gen=Gemurmels pl=- note=mass noun
@@ -239,6 +249,7 @@ Genist noun g=n gen=Genists|Genistes pl=- conf=75 note=rare, bird nest material
 Genitalien noun g=pl
 Genitiv noun g=m gen=Genitivs pl=Genitive
 Genius noun g=m gen=Genius pl=Genien
+Genom noun g=n gen=Genoms pl=Genome
 Genosse noun g=m gen=Genossen pl=Genossen
 Genossenschaft noun g=f gen=Genossenschaft pl=Genossenschaften
 Genossin noun g=f gen=Genossin pl=Genossinnen
@@ -266,11 +277,13 @@ Gepflogenheit noun g=f gen=Gepflogenheit pl=Gepflogenheiten
 Geplauder noun g=n gen=Geplauders pl=- note=no plural
 Gepolter noun g=n gen=Gepolters pl=- note=mass noun
 Gepräge noun g=n gen=Gepräges pl=- note=no plural in practice
+Gepränge noun g=n gen=Gepränges pl=- note=no plural
 Gerade noun g=f gen=Gerade pl=Geraden
 Gerät noun g=n gen=Geräts|Gerätes pl=Geräte
 Geräusch noun g=n gen=Geräuschs|Geräusches pl=Geräusche
 Gerechtigkeit noun g=f gen=Gerechtigkeit pl=- note=no plural in use
 Gerede noun g=n gen=Geredes pl=- note=no plural
+Geriatrie noun g=f gen=Geriatrie pl=- note=no plural
 Gericht noun g=n gen=Gerichts|Gerichtes pl=Gerichte
 Gerichtsbarkeit noun g=f gen=Gerichtsbarkeit pl=Gerichtsbarkeiten
 Gerichtsvollzieher noun g=m gen=Gerichtsvollziehers pl=Gerichtsvollzieher
@@ -283,6 +296,7 @@ Germanistin noun g=f gen=Germanistin pl=Germanistinnen
 Germanium noun g=n gen=Germaniums pl=- note=chemical element
 Geröll noun g=n gen=Gerölls|Gerölles pl=- note=mass noun
 Gerste noun g=f gen=Gerste pl=- note=no plural
+Gerte noun g=f gen=Gerte pl=Gerten
 Geruch noun g=m gen=Geruchs|Geruches pl=Gerüche
 Gerücht noun g=n gen=Gerüchts|Gerüchtes pl=Gerüchte
 Gerüst noun g=n gen=Gerüsts|Gerüstes pl=Gerüste
@@ -318,6 +332,7 @@ Geschwätz noun g=n gen=Geschwätzes pl=- note=no plural
 Geschwindigkeit noun g=f gen=Geschwindigkeit pl=Geschwindigkeiten
 Geschwister noun g=pl
 Geschwulst noun g=f gen=Geschwulst pl=Geschwülste
+Geschwür noun g=n gen=Geschwürs|Geschwüres pl=Geschwüre
 Geselle noun g=m gen=Gesellen pl=Gesellen
 Geselligkeit noun g=f gen=Geselligkeit pl=Geselligkeiten
 Gesellschaft noun g=f gen=Gesellschaft pl=Gesellschaften
@@ -333,18 +348,21 @@ Gesims noun g=n gen=Gesimses pl=Gesimse
 Gesinde noun g=n gen=Gesindes pl=- note=collective noun (servants)
 Gesindel noun g=n gen=Gesindels pl=- note=no plural
 Gesinnung noun g=f gen=Gesinnung pl=Gesinnungen
+Gesittung noun g=f gen=Gesittung pl=- note=no plural
 Gespann noun g=n gen=Gespanns|Gespannes pl=Gespanne
 Gespanschaft noun g=f gen=Gespanschaft pl=Gespanschaften
 Gespenst noun g=n gen=Gespenstes|Gespensts pl=Gespenster
 Gespiele noun g=m gen=Gespielen pl=Gespielen
 Gespielin noun g=f gen=Gespielin pl=Gespielinnen
 Gespinst noun g=n gen=Gespinsts|Gespinstes pl=Gespinste
+Gespött noun g=n gen=Gespötts|Gespöttes pl=- note=no plural
 Gespräch noun g=n gen=Gespräches|Gesprächs pl=Gespräche
 Gespür noun g=n gen=Gespürs pl=- note=no plural
 Gestade noun g=n gen=Gestades pl=Gestade note=elevated
 Gestalt noun g=f gen=Gestalt pl=Gestalten
 Gestaltung noun g=f gen=Gestaltung pl=Gestaltungen
 Geständnis noun g=n gen=Geständnisses pl=Geständnisse
+Gestänge noun g=n gen=Gestänges pl=Gestänge
 Gestank noun g=m gen=Gestanks|Gestankes pl=- note=mass noun
 Geste noun g=f gen=Geste pl=Gesten
 Gestein noun g=n gen=Gesteins|Gesteines pl=Gesteine
@@ -359,6 +377,7 @@ Gestüt noun g=n gen=Gestüts|Gestütes pl=Gestüte
 Gesuch noun g=n gen=Gesuchs|Gesuches pl=Gesuche
 Gesundheit noun g=f gen=Gesundheit pl=- note=mass noun
 Getier noun g=n gen=Getiers|Getieres pl=- note=no plural
+Getön noun g=n gen=Getöns|Getönes pl=- note=no plural
 Getöse noun g=n gen=Getöses pl=- note=no plural
 Getränk noun g=n gen=Getränks|Getränkes pl=Getränke
 Getreide noun g=n gen=Getreides pl=- note=collective; plural not used
@@ -366,6 +385,7 @@ Getrenntschreibung noun g=f gen=Getrenntschreibung pl=- note=no plural
 Getriebe noun g=n gen=Getriebes pl=Getriebe
 Getümmel noun g=n gen=Getümmels pl=- note=no plural
 Gevatter noun g=m gen=Gevatters|Gevattern pl=Gevattern|Gevatter conf=70 note=archaic; strong and weak forms both met
+Geviert noun g=n gen=Gevierts|Geviertes pl=Gevierte
 Gewächs noun g=n gen=Gewächses pl=Gewächse
 Gewächshaus noun g=n gen=Gewächshauses pl=Gewächshäuser
 Gewähr noun g=f gen=Gewähr pl=- note=no plural (Gewähr leisten)
@@ -375,6 +395,7 @@ Gewährung noun g=f gen=Gewährung pl=- note=mass noun
 Gewalt noun g=f gen=Gewalt pl=Gewalten
 Gewaltenteilung noun g=f gen=Gewaltenteilung pl=- note=no plural
 Gewand noun g=n gen=Gewands|Gewandes pl=Gewänder|Gewande[archaic]
+Gewände noun g=n gen=Gewändes pl=Gewände
 Gewandtheit noun g=f gen=Gewandtheit pl=- note=no plural
 Gewandung noun g=f gen=Gewandung pl=Gewandungen
 Gewässer noun g=n gen=Gewässers pl=Gewässer
@@ -408,6 +429,7 @@ Gewohnheit noun g=f gen=Gewohnheit pl=Gewohnheiten
 Gewölbe noun g=n gen=Gewölbes pl=Gewölbe
 Gewölk noun g=n gen=Gewölks|Gewölkes pl=- note=collective noun
 Gewühl noun g=n gen=Gewühls|Gewühles pl=- note=mass noun
+Gewürm noun g=n gen=Gewürms|Gewürmes pl=Gewürme
 Gewürz noun g=n gen=Gewürzes pl=Gewürze
 Geysir noun g=m gen=Geysirs pl=Geysire
 Gezeiten noun g=pl
@@ -430,6 +452,7 @@ Gigant noun g=m gen=Giganten pl=Giganten
 Gigawatt noun g=n gen=Gigawatts|Gigawatt pl=Gigawatt
 Gilde noun g=f gen=Gilde pl=Gilden
 Gimpel noun g=m gen=Gimpels pl=Gimpel
+Ginster noun g=m gen=Ginsters pl=Ginster
 Gipfel noun g=m gen=Gipfels pl=Gipfel
 Gips noun g=m gen=Gipses pl=Gipse
 Giraffe noun g=f gen=Giraffe pl=Giraffen
@@ -490,12 +513,14 @@ Glück noun g=n gen=Glücks|Glückes pl=- note=no plural in use
 Glucke noun g=f gen=Glucke pl=Glucken
 Glücksbringer noun g=m gen=Glücksbringers pl=Glücksbringer
 Glückseligkeit noun g=f gen=Glückseligkeit pl=- note=no plural in practice
+Glückspilz noun g=m gen=Glückspilzes pl=Glückspilze
 Glückwunsch noun g=m gen=Glückwunsches pl=Glückwünsche
 Glühbirne noun g=f gen=Glühbirne pl=Glühbirnen
 Glühwein noun g=m gen=Glühweins|Glühweines pl=Glühweine
 Glühwürmchen noun g=n gen=Glühwürmchens pl=Glühwürmchen
 Gluon noun g=n gen=Gluons pl=Gluonen
 Glut noun g=f gen=Glut pl=- note=mass noun
+Gluten noun g=n gen=Glutens pl=- note=mass noun
 Glyphosat noun g=n gen=Glyphosats pl=Glyphosate
 GmbH noun g=f gen=GmbH pl=GmbHs
 Gnade noun g=f gen=Gnade pl=Gnaden
@@ -507,9 +532,11 @@ Gokart noun g=m gen=Gokarts pl=Gokarts
 Gold noun g=n gen=Goldes|Golds[rare] pl=- note=mass noun
 Golf noun g=m gen=Golfs|Golfes pl=Golfe sense=gulf
 Golf noun g=n gen=Golfs pl=- sense=sport note=the game
+Golfer noun g=m gen=Golfers pl=Golfer
 Gondel noun g=f gen=Gondel pl=Gondeln
 Gönner noun g=m gen=Gönners pl=Gönner
 Gönnerin noun g=f gen=Gönnerin pl=Gönnerinnen
+Gonorrhö noun g=f gen=Gonorrhö pl=Gonorrhöen
 Gorilla noun g=m gen=Gorillas pl=Gorillas
 Gote noun g=m gen=Goten pl=Goten
 Gotik noun g=f gen=Gotik pl=- note=style period
@@ -527,11 +554,13 @@ Grablege noun g=f gen=Grablege pl=Grablegen
 Grabmal noun g=n gen=Grabmals|Grabmales pl=Grabmäler|Grabmale
 Gracht noun g=f gen=Gracht pl=Grachten
 Grad noun g=m gen=Grades|Grads[rare] pl=Grade
+Gradient noun g=m gen=Gradienten pl=Gradienten
 Graf noun g=m gen=Grafen pl=Grafen
 Grafik noun g=f gen=Grafik pl=Grafiken
 Grafiker noun g=m gen=Grafikers pl=Grafiker
 Grafikerin noun g=f gen=Grafikerin pl=Grafikerinnen
 Gräfin noun g=f gen=Gräfin pl=Gräfinnen
+Grafit noun g=m gen=Grafits pl=Grafite
 Grafschaft noun g=f gen=Grafschaft pl=Grafschaften
 Gral noun g=m gen=Grals|Grales pl=- note=no plural
 Gram noun g=m gen=Grams|Grames pl=- conf=80 note=literary: grief (vor Gram); no plural
@@ -548,6 +577,7 @@ Grapefruit noun g=f gen=Grapefruit pl=Grapefruits
 Graph noun g=m gen=Graphen pl=Graphen
 Graphik noun g=f gen=Graphik pl=Graphiken
 Graphiker noun g=m gen=Graphikers pl=Graphiker note=variant spelling of Grafiker
+Graphit noun g=m gen=Graphits pl=Graphite
 Gras noun g=n gen=Grases pl=Gräser
 Gräschen noun g=n gen=Gräschens pl=Gräschen
 Grat noun g=m gen=Grats|Grates pl=Grate
@@ -556,6 +586,7 @@ Gratulation noun g=f gen=Gratulation pl=Gratulationen
 Grau noun g=n gen=Grau|Graus pl=- note=colour name
 Gräuel noun g=m gen=Gräuels pl=Gräuel
 Grauen noun g=n gen=Grauens pl=- note=horror; lexicalised nominal infinitive of grauen
+Graupe noun g=f gen=Graupe pl=Graupen
 Graupel noun g=f gen=Graupel pl=Graupeln
 Grausamkeit noun g=f gen=Grausamkeit pl=Grausamkeiten
 Grausen noun g=n gen=Grausens pl=- note=lexicalised: horror
@@ -568,6 +599,7 @@ Greisin noun g=f gen=Greisin pl=Greisinnen
 Gremium noun g=n gen=Gremiums pl=Gremien
 Grenadier noun g=m gen=Grenadiers pl=Grenadiere
 Grenze noun g=f gen=Grenze pl=Grenzen
+Grenzer noun g=m gen=Grenzers pl=Grenzer
 Grenzgänger noun g=m gen=Grenzgängers pl=Grenzgänger
 Greuel noun g=m gen=Greuels pl=Greuel spelling=old note=old spelling of Gräuel
 Grieche noun g=m gen=Griechen pl=Griechen
@@ -613,6 +645,7 @@ Gruppierung noun g=f gen=Gruppierung pl=Gruppierungen
 Gruß noun g=m gen=Grußes pl=Grüße
 Grütze noun g=f gen=Grütze pl=Grützen
 Guillotine noun g=f gen=Guillotine pl=Guillotinen
+Gulag noun g=m gen=Gulags pl=Gulags
 Gulasch noun g=n|m gen=Gulasch|Gulaschs|Gulasches pl=Gulasche|Gulasch
 Gulden noun g=m gen=Guldens pl=Gulden
 Gültigkeit noun g=f gen=Gültigkeit pl=- note=mass noun
@@ -630,6 +663,7 @@ Gürtler noun g=m gen=Gürtlers pl=Gürtler note=craft: brass and metal fittings
 Gürtlermeister noun g=m gen=Gürtlermeisters pl=Gürtlermeister
 Guru noun g=m gen=Gurus pl=Gurus
 Gusseisen noun g=n gen=Gusseisens pl=- note=mass noun
+Gusto noun g=m gen=Gustos pl=- note=nach Gusto; no plural
 Gut noun g=n gen=Gutes|Guts pl=Güter note=das Gut: property, goods; estate
 Gutachten noun g=n gen=Gutachtens pl=Gutachten note=opaque compound (not gut + achten)
 Gutachter noun g=m gen=Gutachters pl=Gutachter

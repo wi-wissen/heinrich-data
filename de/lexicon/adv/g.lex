@@ -5,6 +5,7 @@ gemeinhin adv
 gemeiniglich adv style=archaic note=commonly, usually
 genugsam adv style=archaic
 geradeaus adv type=direction
+geradeso adv
 geradeswegs adv
 geradewegs adv
 geradezu adv
@@ -12,6 +13,7 @@ gern         adv cmp=lieber sup=liebsten
 gerne adv cmp=lieber sup=liebsten
 getrost adv
 gewissermaßen adv
+gleichauf adv
 gleichermaßen adv
 gleichfalls adv
 gleichsam adv

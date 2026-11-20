@@ -21,6 +21,7 @@ Capitel noun g=n gen=Capitels pl=Capitel spelling=old style=archaic note=old spe
 Captcha noun g=n|m gen=Captchas pl=Captchas
 Carbid noun g=n gen=Carbids|Carbides pl=Carbide
 Carbonat noun g=n gen=Carbonats|Carbonates pl=Carbonate
+Carbonsäure noun g=f gen=Carbonsäure pl=Carbonsäuren
 Carsharing noun g=n gen=Carsharings pl=- note=no plural (mass or abstract noun)
 Cartoon noun g=m|n gen=Cartoons pl=Cartoons
 Cartoonist noun g=m gen=Cartoonisten pl=Cartoonisten
@@ -37,6 +38,7 @@ Cent noun g=m gen=Cent|Cents pl=Cent|Cents note=plural Cent after numbers (zehn 
 Center noun g=n gen=Centers pl=Center|Centers conf=85 note=loanword (Shoppingcenter); English-looking
 CEO noun g=m gen=CEO|CEOs pl=CEOs note=chief executive officer
 Cer noun g=n gen=Cers pl=- note=chemical element
+Chaise noun g=f gen=Chaise pl=Chaisen
 Chaldäer noun g=m gen=Chaldäers pl=Chaldäer
 Challenge noun g=f gen=Challenge pl=Challenges conf=75 note=English loanword; gender unsure
 Chamäleon noun g=n gen=Chamäleons pl=Chamäleons
@@ -45,14 +47,18 @@ Champignon noun g=m gen=Champignons pl=Champignons
 Champion noun g=m gen=Champions pl=Champions
 Chance        noun g=f gen=Chance pl=Chancen
 Chanson noun g=n gen=Chansons pl=Chansons
+Chansonnier noun g=m gen=Chansonniers pl=Chansonniers
 Chaos noun g=n gen=Chaos pl=- note=des Chaos; mass noun
 Charakter     noun g=m gen=Charakters pl=Charaktere
 Charakterisierung noun g=f gen=Charakterisierung pl=Charakterisierungen
 Charakteristik noun g=f gen=Charakteristik pl=Charakteristiken
 Charakteristikum noun g=n gen=Charakteristikums pl=Charakteristika
 Charge noun g=f gen=Charge pl=Chargen
+Charisma noun g=n gen=Charismas pl=Charismen|Charismata
 Charme noun g=m gen=Charmes pl=- note=no plural
+Chart noun g=m gen=Charts pl=Charts conf=80 note=der Chart, also das Chart; mostly plural: die Charts
 Charta noun g=f gen=Charta pl=Chartas|Charten conf=80 note=plural unsure
+Charterflug noun g=m gen=Charterflugs|Charterfluges pl=Charterflüge
 Charts noun g=pl
 Chat noun g=m gen=Chats pl=Chats
 Chatbot noun g=m gen=Chatbots pl=Chatbots
@@ -70,6 +76,7 @@ Chemiker noun g=m gen=Chemikers pl=Chemiker
 Chemikerin noun g=f gen=Chemikerin pl=Chemikerinnen
 Chemotherapie noun g=f gen=Chemotherapie pl=Chemotherapien
 Chiasmus noun g=m gen=Chiasmus pl=Chiasmen note=Latin loanword; genitive without -es
+Chilene noun g=m gen=Chilenen pl=Chilenen
 Chili noun g=f gen=Chili pl=Chilis
 Chinese noun g=m gen=Chinesen pl=Chinesen
 Chinesin noun g=f gen=Chinesin pl=Chinesinnen
@@ -84,6 +91,7 @@ Chloroform noun g=n gen=Chloroforms pl=- note=mass noun
 Chlorophyll noun g=n gen=Chlorophylls pl=- note=no plural
 Chloroplast noun g=m gen=Chloroplasten pl=Chloroplasten
 Cholera noun g=f gen=Cholera pl=- note=disease
+Chondrit noun g=m gen=Chondrits|Chondriten pl=Chondrite|Chondriten note=meteorite
 Chor          noun g=m gen=Chores|Chors pl=Chöre
 Choral noun g=m gen=Chorals pl=Choräle
 Choreograf noun g=m gen=Choreografen pl=Choreografen
@@ -91,6 +99,7 @@ Choreografie noun g=f gen=Choreografie pl=Choreografien
 Choreografin noun g=f gen=Choreografin pl=Choreografinnen
 Choreograph noun g=m gen=Choreographen pl=Choreographen
 Choreographie noun g=f gen=Choreographie pl=Choreographien
+Choreographin noun g=f gen=Choreographin pl=Choreographinnen
 Chorus noun g=m gen=Chorus pl=Chorusse conf=80 note=jazz chorus; plural uncertain
 Christ noun g=m gen=Christen pl=Christen
 Christenheit noun g=f gen=Christenheit pl=- note=collective noun
@@ -103,6 +112,7 @@ Chronik noun g=f gen=Chronik pl=Chroniken
 Chronist noun g=m gen=Chronisten pl=Chronisten
 Chronistin noun g=f gen=Chronistin pl=Chronistinnen
 Chronologie noun g=f gen=Chronologie pl=Chronologien
+Chronometer noun g=n gen=Chronometers pl=Chronometer
 Clan noun g=m gen=Clans pl=Clans
 Clementine noun g=f gen=Clementine pl=Clementinen
 Cliffhanger noun g=m gen=Cliffhangers pl=Cliffhanger

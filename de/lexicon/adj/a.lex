@@ -15,6 +15,7 @@ absichtlich adj
 absolut adj
 abstrakt adj cmp=abstrakter sup=abstraktesten
 absurd adj cmp=absurder sup=absurdesten
+abträglich adj cmp=abträglicher sup=abträglichsten
 abwärtskompatibel adj
 abwesend adj
 achtsam adj cmp=achtsamer sup=achtsamsten
@@ -28,6 +29,7 @@ afghanisch adj
 afrikanisch adj
 afroamerikanisch adj
 aggressiv adj cmp=aggressiver sup=aggressivsten
+agrarisch adj
 ägyptisch adj
 ähnlich       adj cmp=ähnlicher sup=ähnlichsten
 akademisch adj
@@ -86,6 +88,7 @@ angenehm adj cmp=angenehmer sup=angenehmsten
 angeschlagen adj
 angesehen adj cmp=angesehener sup=angesehensten note=respected; participle of ansehen with its own meaning
 anglikanisch adj
+angloamerikanisch adj
 angolanisch adj
 angst adj pred_only note=predicative only (mir ist angst und bange); the noun is Angst
 ängstlich adj cmp=ängstlicher sup=ängstlichsten
@@ -129,6 +132,7 @@ arm           adj cmp=ärmer sup=ärmsten
 armenisch adj
 ärmlich adj cmp=ärmlicher sup=ärmlichsten
 arrogant adj cmp=arroganter sup=arrogantesten
+arteriell adj
 artig adj cmp=artiger sup=artigsten
 ärztlich adj
 aserbaidschanisch adj
@@ -157,6 +161,8 @@ aufwendig adj cmp=aufwendiger sup=aufwendigsten
 augenblicklich adj
 augenscheinlich adj
 ausdrücklich  adj cmp=ausdrücklicher sup=ausdrücklichsten
+auserkoren adj
+ausgleichspflichtig adj
 auskömmlich adj
 außerbetrieblich adj
 außerdienstlich adj

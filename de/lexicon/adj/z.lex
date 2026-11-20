@@ -1,11 +1,14 @@
+zackig adj cmp=zackiger sup=zackigsten
 zaghaft adj cmp=zaghafter sup=zaghaftesten
 zäh adj cmp=zäher sup=zähesten
 zahlreich adj cmp=zahlreicher sup=zahlreichsten
 zahlungspflichtig adj
 zahm adj cmp=zahmer sup=zahmsten
 zappelig adj cmp=zappeliger sup=zappeligsten
+zaristisch adj
 zart adj cmp=zarter sup=zartesten
 zärtlich adj
+zauberisch adj
 zeitgemäß adj cmp=zeitgemäßer sup=zeitgemäßesten
 zeitgenössisch adj
 zeitig adj cmp=zeitiger sup=zeitigsten
@@ -13,6 +16,7 @@ zeitlich adj
 zeitweilig adj
 zentral adj cmp=zentraler sup=zentralsten
 zerbrechlich adj cmp=zerbrechlicher sup=zerbrechlichsten
+zeremoniell adj
 zerknirscht adj cmp=zerknirschter sup=zerknirschtesten
 zerlumpt adj cmp=zerlumpter sup=zerlumptesten
 zerstreut adj cmp=zerstreuter sup=zerstreutesten
@@ -23,6 +27,7 @@ zielgerichtet adj
 ziemlich adj note=attributive use (mit ziemlicher Sicherheit); the degree adverb ziemlich is in closed/
 zierig adj conf=75 note=rare
 zierlich adj cmp=zierlicher sup=zierlichsten
+zionistisch adj
 zivil adj
 zögerlich adj cmp=zögerlicher sup=zögerlichsten
 zögernd adj cmp=zögernder sup=zögerndsten
@@ -62,6 +67,8 @@ zweifelhaft adj cmp=zweifelhafter sup=zweifelhaftesten
 zweifelsfrei adj
 zweigeschossig adj
 zweigleisig adj
+zweimotorig adj
+zweisitzig adj
 zweisprachig adj
 zweistellig adj
 zweistöckig adj

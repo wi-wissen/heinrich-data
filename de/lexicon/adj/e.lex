@@ -68,6 +68,7 @@ elektrolytisch adj
 elektronisch adj
 elementar adj cmp=elementarer sup=elementarsten
 elend adj cmp=elender sup=elendsten
+elitär adj cmp=elitärer sup=elitärsten
 elliptisch adj
 elterlich adj
 emeritiert adj
@@ -109,11 +110,13 @@ ergonomisch adj
 erhaben adj cmp=erhabener sup=erhabensten
 erhältlich adj
 erheblich adj cmp=erheblicher sup=erheblichsten
+erinnerlich adj
 erkennbar adj
 erkenntlich adj
 erklärlich adj
 erlaucht adj
 erleichtert adj cmp=erleichterter sup=erleichtertsten
+erlogen adj
 erneuerbar adj
 erneut adj
 ernst adj cmp=ernster sup=ernstesten
@@ -141,6 +144,7 @@ ethnisch adj
 etwaig adj attr_only
 europäisch adj
 europaweit adj
+evangelikal adj
 evangelisch adj
 eventuell adj
 evolutionär adj

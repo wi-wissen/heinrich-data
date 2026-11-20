@@ -9,7 +9,9 @@ ganzjährig adj
 gänzlich adj note=attributive use; the adverb has its own entry
 ganzrandig adj
 gar adj
+garstig adj cmp=garstiger sup=garstigsten
 gasförmig adj
+gebändert adj
 gebeugt adj
 gebieterisch adj cmp=gebieterischer sup=gebieterischsten
 gebildet adj cmp=gebildeter sup=gebildetsten
@@ -104,6 +106,7 @@ gestresst adj cmp=gestresster sup=gestresstesten
 gestrig adj
 gesund adj cmp=gesünder|gesunder sup=gesündesten|gesundesten
 gesundheitlich adj
+getrenntgeschlechtig adj
 getreu adj cmp=getreuer sup=getreuesten
 getreulich adj
 gewahr adj pred_only note=predicative only (einer Sache gewahr werden)
@@ -166,6 +169,9 @@ grau adj cmp=grauer sup=grauesten
 grauhaarig adj
 grausam adj cmp=grausamer sup=grausamsten
 gravierend adj cmp=gravierender sup=gravierendsten note=serious (gravierende Mängel); not the participle of gravieren (engrave)
+gravitätisch adj cmp=gravitätischer sup=gravitätischsten
+graziös adj cmp=graziöser sup=graziösesten
+gregorianisch adj
 grell adj cmp=greller sup=grellsten
 grenzüberschreitend adj
 greulich adj cmp=greulicher sup=greulichsten
@@ -191,7 +197,9 @@ gruselig adj cmp=gruseliger sup=gruseligsten
 guatemaltekisch adj
 gültig adj
 günstig adj cmp=günstiger sup=günstigsten
+gusseisern adj
 gut          adj cmp=besser sup=besten
+gutachtlich adj
 gütig adj cmp=gütiger sup=gütigsten
 gütlich adj
 gutmütig adj

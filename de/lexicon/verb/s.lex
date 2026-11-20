@@ -25,12 +25,14 @@ schälen verb class=weak pp=geschält perf=haben refl=acc
 schallen verb class=weak past=schallte|scholl subj2=schallte|schölle[rare] pp=geschallt perf=haben note=scholl is the literary strong preterite
 schalten verb class=weak pp=geschaltet perf=haben
 schämen verb class=weak pp=geschämt perf=haben refl=acc
+schänden verb class=weak pp=geschändet perf=haben
 schärfen verb class=weak pp=geschärft perf=haben
 scharren verb class=weak pp=gescharrt perf=haben
 schattieren verb class=weak pp=schattiert perf=haben
 schätzen verb class=weak pp=geschätzt perf=haben
 schaudern verb class=weak pp=geschaudert perf=haben
 schauen verb class=weak pp=geschaut perf=haben
+schauern verb class=weak pp=geschauert perf=haben
 schaukeln verb class=weak pp=geschaukelt perf=haben
 schäumen verb class=weak pp=geschäumt perf=haben
 scheiden verb class=strong 3sg=scheidet past=schied pp=geschieden subj2=schiede perf=haben|sein
@@ -47,6 +49,7 @@ scheuen verb class=weak pp=gescheut perf=haben refl=acc
 schichten verb class=weak pp=geschichtet perf=haben
 schicken verb class=weak pp=geschickt perf=haben
 schieben verb class=strong 3sg=schiebt past=schob pp=geschoben subj2=schöbe perf=haben
+schieflaufen verb class=strong sep=schief 3sg=schiefläuft past=schieflief pp=schiefgelaufen subj2=schiefliefe perf=sein
 schielen verb class=weak pp=geschielt perf=haben
 schießen verb class=strong 3sg=schießt past=schoss pp=geschossen subj2=schösse perf=haben|sein
 schikanieren verb class=weak pp=schikaniert perf=haben
@@ -195,6 +198,7 @@ sirren verb class=weak pp=gesirrt perf=haben
 sitzen verb class=strong 3sg=sitzt past=saß pp=gesessen subj2=säße perf=haben|sein
 sitzenbleiben verb class=strong sep=sitzen 3sg=sitzenbleibt past=sitzenblieb pp=sitzengeblieben subj2=sitzenbliebe perf=sein
 skalieren verb class=weak pp=skaliert perf=haben
+skandalisieren verb class=weak pp=skandalisiert perf=haben
 skaten verb class=weak pp=geskatet perf=haben|sein
 skizzieren verb class=weak pp=skizziert perf=haben
 skypen verb class=weak pp=geskypt perf=haben
@@ -315,6 +319,7 @@ subtrahieren verb class=weak pp=subtrahiert perf=haben
 subventionieren verb class=weak pp=subventioniert perf=haben
 suchen verb class=weak pp=gesucht perf=haben
 suggerieren verb class=weak pp=suggeriert perf=haben
+sühnen verb class=weak pp=gesühnt perf=haben
 summen verb class=weak pp=gesummt perf=haben
 sündigen verb class=weak pp=gesündigt perf=haben
 surfen verb class=weak pp=gesurft perf=haben|sein

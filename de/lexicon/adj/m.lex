@@ -52,6 +52,7 @@ messingen adj
 metallisch adj
 metaphorisch adj
 metaphysisch adj
+meterspurig adj
 methodisch adj
 metrisch adj
 mexikanisch adj
@@ -88,6 +89,7 @@ monarchisch adj
 monatlich adj
 mongolisch adj
 monomer adj
+montan adj
 montenegrinisch adj
 monumental adj
 moralisch adj cmp=moralischer sup=moralischsten
@@ -109,6 +111,7 @@ munter adj cmp=munterer sup=muntersten
 mürrisch adj cmp=mürrischer sup=mürrischsten
 müßig adj cmp=müßiger sup=müßigsten
 musikalisch adj
+musisch adj
 muslimisch adj
 mutig adj cmp=mutiger sup=mutigsten
 mutmaßlich adj

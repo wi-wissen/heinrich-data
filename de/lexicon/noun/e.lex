@@ -38,6 +38,7 @@ Ehrgeiz noun g=m gen=Ehrgeizes pl=- note=no plural
 Ehrlichkeit noun g=f gen=Ehrlichkeit pl=- note=no plural
 Ehrung noun g=f gen=Ehrung pl=Ehrungen
 Ei noun g=n gen=Eis|Eies pl=Eier
+Eibe noun g=f gen=Eibe pl=Eiben
 Eiche noun g=f gen=Eiche pl=Eichen
 Eichel noun g=f gen=Eichel pl=Eicheln
 Eichhörnchen noun g=n gen=Eichhörnchens pl=Eichhörnchen
@@ -131,6 +132,7 @@ Einsetzung noun g=f gen=Einsetzung pl=- note=no plural
 Einsicht noun g=f gen=Einsicht pl=Einsichten
 Einsichtnahme noun g=f gen=Einsichtnahme pl=- note=no plural
 Einsitzer noun g=m gen=Einsitzers pl=Einsitzer
+Einspänner noun g=m gen=Einspänners pl=Einspänner
 Einsparung noun g=f gen=Einsparung pl=Einsparungen
 Einspruch noun g=m gen=Einspruchs|Einspruches pl=Einsprüche
 Einsteinium noun g=n gen=Einsteiniums pl=- note=chemical element
@@ -222,6 +224,7 @@ Elternabend noun g=m gen=Elternabends pl=Elternabende
 Elternteil noun g=m gen=Elternteils|Elternteiles pl=Elternteile
 EM noun g=f gen=EM pl=- note=Europameisterschaft; no plural
 Emanzipation noun g=f gen=Emanzipation pl=Emanzipationen
+Embargo noun g=n gen=Embargos pl=Embargos
 Emblem noun g=n gen=Emblems pl=Embleme
 Embryo noun g=m gen=Embryos pl=Embryonen|Embryos
 Emeritierung noun g=f gen=Emeritierung pl=Emeritierungen
@@ -242,6 +245,7 @@ Empfängnis noun g=f gen=Empfängnis pl=Empfängnisse
 Empfehlung noun g=f gen=Empfehlung pl=Empfehlungen
 Empfindlichkeit noun g=f gen=Empfindlichkeit pl=Empfindlichkeiten
 Empfindung noun g=f gen=Empfindung pl=Empfindungen
+Empirie noun g=f gen=Empirie pl=- note=no plural
 Empore noun g=f gen=Empore pl=Emporen
 Empörung noun g=f gen=Empörung pl=- note=no plural
 Ende noun g=n gen=Endes pl=Enden
@@ -278,9 +282,11 @@ Entfristung noun g=f gen=Entfristung pl=Entfristungen
 Entführung noun g=f gen=Entführung pl=Entführungen
 Entgegennahme noun g=f gen=Entgegennahme pl=- note=no plural
 Entgelt noun g=n gen=Entgelts|Entgeltes pl=Entgelte
+Entgrenzung noun g=f gen=Entgrenzung pl=Entgrenzungen
 Enthalpie noun g=f gen=Enthalpie pl=Enthalpien
 Enthaltung noun g=f gen=Enthaltung pl=Enthaltungen
 Enthusiasmus noun g=m gen=Enthusiasmus pl=- note=no plural
+Enthusiast noun g=m gen=Enthusiasten pl=Enthusiasten
 Entlassung noun g=f gen=Entlassung pl=Entlassungen
 Entlastung noun g=f gen=Entlastung pl=Entlastungen
 Entlohnung noun g=f gen=Entlohnung pl=Entlohnungen
@@ -314,12 +320,14 @@ Entziehung noun g=f gen=Entziehung pl=Entziehungen
 Entzifferung noun g=f gen=Entzifferung pl=Entzifferungen
 Entzug noun g=m gen=Entzugs|Entzuges pl=Entzüge
 Entzündung noun g=f gen=Entzündung pl=Entzündungen
+Enzian noun g=m gen=Enzians pl=Enziane
 Enzyklika noun g=f gen=Enzyklika pl=Enzykliken
 Enzyklopädie noun g=f gen=Enzyklopädie pl=Enzyklopädien
 Enzym noun g=n gen=Enzyms pl=Enzyme
 Eozän noun g=n gen=Eozäns pl=- note=geological epoch
 Eparchie noun g=f gen=Eparchie pl=Eparchien
 Epidemie noun g=f gen=Epidemie pl=Epidemien
+Epidermis noun g=f gen=Epidermis pl=Epidermen
 Epigramm noun g=n gen=Epigramms pl=Epigramme
 Epik noun g=f gen=Epik pl=- note=no plural
 Epilepsie noun g=f gen=Epilepsie pl=Epilepsien
@@ -331,6 +339,7 @@ Epitheton noun g=n gen=Epithetons pl=Epitheta
 Epoche noun g=f gen=Epoche pl=Epochen
 Epos noun g=n gen=Epos pl=Epen note=Latin loanword; genitive without -es
 Equipage noun g=f gen=Equipage pl=Equipagen
+Equipe noun g=f gen=Equipe pl=Equipen
 Erachten noun g=n gen=Erachtens pl=- note=only in meines Erachtens
 Erarbeitung noun g=f gen=Erarbeitung pl=- note=no plural
 Erbarmen noun g=n gen=Erbarmens pl=- note=no plural; lexicalised nominalised verb
@@ -370,7 +379,9 @@ Erfüllung noun g=f gen=Erfüllung pl=- note=no plural in use
 Ergänzung noun g=f gen=Ergänzung pl=Ergänzungen
 Ergebenheit noun g=f gen=Ergebenheit pl=- note=mass noun
 Ergebnis noun g=n gen=Ergebnisses pl=Ergebnisse
+Ergonomie noun g=f gen=Ergonomie pl=- note=no plural
 Ergotamin noun g=n gen=Ergotamins pl=- note=mass noun; drug substance
+Ergotherapeut noun g=m gen=Ergotherapeuten pl=Ergotherapeuten
 Ergriffenheit noun g=f gen=Ergriffenheit pl=- note=no plural
 Erhalt noun g=m gen=Erhalts|Erhaltes pl=- note=no plural
 Erhaltung noun g=f gen=Erhaltung pl=- note=no plural
@@ -379,6 +390,7 @@ Erhöhung noun g=f gen=Erhöhung pl=Erhöhungen
 Erholung noun g=f gen=Erholung pl=- note=no plural
 Erinnerung noun g=f gen=Erinnerung pl=Erinnerungen
 Erkältung noun g=f gen=Erkältung pl=Erkältungen
+Erkenntlichkeit noun g=f gen=Erkenntlichkeit pl=Erkenntlichkeiten
 Erkenntnis noun g=f gen=Erkenntnis pl=Erkenntnisse
 Erkenntniß noun g=f gen=Erkenntniß pl=Erkenntnisse spelling=old style=archaic note=old spelling of Erkenntnis
 Erkennung noun g=f gen=Erkennung pl=Erkennungen
@@ -421,12 +433,14 @@ Erotik noun g=f gen=Erotik pl=- note=abstract noun, no plural
 Erpressung noun g=f gen=Erpressung pl=Erpressungen
 Erprobung noun g=f gen=Erprobung pl=Erprobungen
 Erreger noun g=m gen=Erregers pl=Erreger
+Erregtheit noun g=f gen=Erregtheit pl=- note=no plural
 Erregung noun g=f gen=Erregung pl=Erregungen
 Erreichbarkeit noun g=f gen=Erreichbarkeit pl=Erreichbarkeiten
 Erreichung noun g=f gen=Erreichung pl=- note=no plural
 Errichtung noun g=f gen=Errichtung pl=- note=no plural in use
 Errungenschaft noun g=f gen=Errungenschaft pl=Errungenschaften
 Ersatz noun g=m gen=Ersatzes pl=- note=no plural in use
+Ersatzpflichtige noun g=m|f decl=adj note=legal term
 Erscheinung noun g=f gen=Erscheinung pl=Erscheinungen
 Erschließung noun g=f gen=Erschließung pl=- note=no plural
 Erschöpfung noun g=f gen=Erschöpfung pl=- note=no plural
@@ -436,8 +450,10 @@ Ersparnis noun g=f gen=Ersparnis pl=Ersparnisse
 Erstattung noun g=f gen=Erstattung pl=Erstattungen
 Erstaunen noun g=n gen=Erstaunens pl=- note=no plural
 Erstausstrahlung noun g=f gen=Erstausstrahlung pl=Erstausstrahlungen
+Erstbeschreiber noun g=m gen=Erstbeschreibers pl=Erstbeschreiber
 Erstbeschreibung noun g=f gen=Erstbeschreibung pl=Erstbeschreibungen
 Erstellung noun g=f gen=Erstellung pl=- note=no plural
+Erstklassigkeit noun g=f gen=Erstklassigkeit pl=- note=no plural
 Erstligist noun g=m gen=Erstligisten pl=Erstligisten
 Erstling noun g=m gen=Erstlings pl=Erstlinge
 Erststimme noun g=f gen=Erststimme pl=Erststimmen
@@ -450,6 +466,8 @@ Erwägung noun g=f gen=Erwägung pl=Erwägungen
 Erwähnung noun g=f gen=Erwähnung pl=Erwähnungen
 Erwärmung noun g=f gen=Erwärmung pl=Erwärmungen
 Erwartung noun g=f gen=Erwartung pl=Erwartungen
+Erweckung noun g=f gen=Erweckung pl=Erweckungen
+Erweckungsbewegung noun g=f gen=Erweckungsbewegung pl=Erweckungsbewegungen
 Erweiterung noun g=f gen=Erweiterung pl=Erweiterungen
 Erwerb noun g=m gen=Erwerbs|Erwerbes pl=Erwerbe note=plural rare
 Erwerber noun g=m gen=Erwerbers pl=Erwerber
@@ -498,10 +516,14 @@ Ethnie noun g=f gen=Ethnie pl=Ethnien
 Ethnologe noun g=m gen=Ethnologen pl=Ethnologen
 Ethnologie noun g=f gen=Ethnologie pl=- note=academic discipline
 Ethnologin noun g=f gen=Ethnologin pl=Ethnologinnen
+Ethyl noun g=n gen=Ethyls pl=- note=chemistry
 Etikett noun g=n gen=Etiketts pl=Etikette|Etiketten|Etiketts
+Etrusker noun g=m gen=Etruskers pl=Etrusker
+Etui noun g=n gen=Etuis pl=Etuis
 Etymologie noun g=f gen=Etymologie pl=Etymologien
 Eucharistie noun g=f gen=Eucharistie pl=Eucharistien
 Eule noun g=f gen=Eule pl=Eulen
+Eunuch noun g=m gen=Eunuchen pl=Eunuchen
 Euphemismus noun g=m gen=Euphemismus pl=Euphemismen
 Euphorie noun g=f gen=Euphorie pl=Euphorien
 Euro noun g=m gen=Euro|Euros pl=Euro|Euros note=des Euro; zehn Euro
@@ -513,6 +535,7 @@ Europameisterschaft noun g=f gen=Europameisterschaft pl=Europameisterschaften
 Europaparlament noun g=n gen=Europaparlaments|Europaparlamentes pl=- note=compound with a proper-noun modifier, not derived by the analyser
 Europapokal noun g=m gen=Europapokals pl=Europapokale
 Europarecht noun g=n gen=Europarechts|Europarechtes pl=- note=compound with a proper-noun modifier, not derived by the analyser
+Europarekord noun g=m gen=Europarekords|Europarekordes pl=Europarekorde
 Europastraße noun g=f gen=Europastraße pl=Europastraßen note=compound with a proper-noun modifier, not derived by the analyser
 Europawahl noun g=f gen=Europawahl pl=Europawahlen
 Europium noun g=n gen=Europiums pl=- note=chemical element
@@ -543,6 +566,7 @@ Exoplanet noun g=m gen=Exoplaneten pl=Exoplaneten
 Expansion noun g=f gen=Expansion pl=Expansionen
 Expedition noun g=f gen=Expedition pl=Expeditionen
 Experiment noun g=n gen=Experiments|Experimentes pl=Experimente
+Experimentalphysik noun g=f gen=Experimentalphysik pl=- note=no plural
 Experte noun g=m gen=Experten pl=Experten
 Expertin noun g=f gen=Expertin pl=Expertinnen
 Expertise noun g=f gen=Expertise pl=Expertisen

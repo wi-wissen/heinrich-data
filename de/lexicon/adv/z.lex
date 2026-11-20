@@ -8,9 +8,11 @@ zugegen adv type=place note=zugegen sein
 zugleich adv
 zugrunde adv note=zugrunde legen, zugrunde liegen
 zugute adv type=modal note=zugute kommen, zugute halten
+zuhauf adv
 zuhause adv type=place
 zulässigerweise adv
 zuleide adv
+zuliebe adv
 zumeist adv
 zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv

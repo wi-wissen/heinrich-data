@@ -24,6 +24,7 @@ okay adj indecl
 ökologisch adj
 ökonomisch adj
 ökumenisch adj
+oldenburgisch adj
 olympisch adj
 online adj indecl
 operativ adj
@@ -42,6 +43,7 @@ orientalisch adj
 original adj
 originär adj
 originell adj cmp=origineller sup=originellsten
+orographisch adj
 orthodox adj cmp=orthodoxer sup=orthodoxesten
 orthostatisch adj
 örtlich adj

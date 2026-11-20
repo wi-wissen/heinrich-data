@@ -4,6 +4,7 @@ identisch adj
 ideologisch adj
 idiotisch adj cmp=idiotischer sup=idiotischsten
 illegal adj
+illusorisch adj
 immateriell adj
 immens adj
 immergrün adj
@@ -48,6 +49,7 @@ interfraktionell adj
 interimistisch adj
 intern adj
 international adj
+interzellulär adj
 intolerant adj
 intransitiv adj
 intuitiv adj cmp=intuitiver sup=intuitivsten

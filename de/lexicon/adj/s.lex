@@ -9,11 +9,13 @@ saftig adj cmp=saftiger sup=saftigsten
 saisonal adj
 sakral adj
 salopp adj cmp=salopper sup=saloppsten
+salvadorianisch adj
 salvatorisch adj note=salvatorische Klausel
 salzig adj cmp=salziger sup=salzigsten
 samtig adj cmp=samtiger sup=samtigsten
 sandig adj cmp=sandiger sup=sandigsten
 sanft adj cmp=sanfter sup=sanftesten
+sanitär adj
 satirisch adj
 satt adj cmp=satter sup=sattesten
 satzungsgemäß adj
@@ -28,6 +30,7 @@ schalkhaft adj cmp=schalkhafter sup=schalkhaftesten
 schändlich adj cmp=schändlicher sup=schändlichsten
 scharf adj cmp=schärfer sup=schärfsten
 schattig adj cmp=schattiger sup=schattigsten
+schaumig adj cmp=schaumiger sup=schaumigsten
 schaurig adj cmp=schauriger sup=schaurigsten
 schauspielerisch adj
 scheinbar adj
@@ -37,15 +40,20 @@ scheußlich adj cmp=scheußlicher sup=scheußlichsten
 schick adj cmp=schicker sup=schicksten
 schicklich adj cmp=schicklicher sup=schicklichsten
 schief adj cmp=schiefer sup=schiefsten
+schiefergedeckt adj
+schier adj
 schimmelig adj cmp=schimmeliger sup=schimmeligsten
+schimpflich adj cmp=schimpflicher sup=schimpflichsten
 schläfrig adj cmp=schläfriger sup=schläfrigsten
 schlaftrunken adj
 schlank adj cmp=schlanker sup=schlanksten
 schlapp adj cmp=schlapper sup=schlappsten
 schlau adj cmp=schlauer sup=schlausten|schlauesten
 schlecht adj cmp=schlechter sup=schlechtesten
+schlechtergestellt adj
 schlesisch adj
 schleswig-holsteinisch adj
+schleunig adj
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten
@@ -54,6 +62,7 @@ schlüssig adj cmp=schlüssiger sup=schlüssigsten
 schmählich adj cmp=schmählicher sup=schmählichsten
 schmal adj cmp=schmaler|schmäler[rare] sup=schmalsten|schmälsten[rare]
 schmalkaldisch adj note=der Schmalkaldische Bund
+schmalspurig adj
 schmerzhaft adj cmp=schmerzhafter sup=schmerzhaftesten
 schmerzlich adj cmp=schmerzlicher sup=schmerzlichsten
 schmutzig adj cmp=schmutziger sup=schmutzigsten
@@ -132,12 +141,14 @@ siebziger adj indecl note=die siebziger Jahre
 siegreich adj
 signifikant adj cmp=signifikanter sup=signifikantesten
 silbern adj
+simultan adj
 singapurisch adj
 sinngemäß adj
 sinnlos adj cmp=sinnloser sup=sinnlosesten
 sinnvoll adj cmp=sinnvoller sup=sinnvollsten
 sittenwidrig adj
 sittlich adj cmp=sittlicher sup=sittlichsten
+sittsam adj cmp=sittsamer sup=sittsamsten
 situativ adj
 skandalös adj cmp=skandalöser sup=skandalösesten
 skandinavisch adj
@@ -266,6 +277,7 @@ sündig adj cmp=sündiger sup=sündigsten
 super adj indecl style=colloquial alt=ausgezeichnet|großartig note=colloquial intensifier
 surjektiv adj
 süß adj cmp=süßer sup=süßesten
+süßlich adj cmp=süßlicher sup=süßlichsten
 symbolisch adj cmp=symbolischer sup=symbolischsten
 symmetrisch adj
 sympathisch adj cmp=sympathischer sup=sympathischsten

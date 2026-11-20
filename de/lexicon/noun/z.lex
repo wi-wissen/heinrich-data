@@ -61,6 +61,7 @@ Zeitzeugin noun g=f gen=Zeitzeugin pl=Zeitzeuginnen
 Zelle noun g=f gen=Zelle pl=Zellen
 Zelt noun g=n gen=Zelts|Zeltes pl=Zelte
 Zement noun g=m gen=Zements|Zementes pl=Zemente
+Zensor noun g=m gen=Zensors pl=Zensoren
 Zensur noun g=f gen=Zensur pl=Zensuren
 Zensus noun g=m gen=Zensus pl=Zensus|Zensusse note=genitive unchanged (des Zensus)
 Zentimeter noun g=m|n gen=Zentimeters pl=Zentimeter
@@ -103,6 +104,7 @@ Zigeuner noun g=m gen=Zigeuners pl=Zigeuner style=offensive alt=Sinti_und_Roma n
 Zigeunerin noun g=f gen=Zigeunerin pl=Zigeunerinnen style=offensive alt=Sinti_und_Roma
 Zigeunerschnitzel noun g=n gen=Zigeunerschnitzels pl=Zigeunerschnitzel style=offensive alt=Paprikaschnitzel
 Zigeunersoße noun g=f gen=Zigeunersoße pl=Zigeunersoßen style=offensive alt=Paprikasoße
+Zigtausende noun g=pl note=Zigtausende von
 Zikade noun g=f gen=Zikade pl=Zikaden
 Zimmer noun g=n gen=Zimmers pl=Zimmer
 Zimmerer noun g=m gen=Zimmerers pl=Zimmerer
@@ -136,6 +138,7 @@ Zivilisierung noun g=f gen=Zivilisierung pl=- note=no plural in practice
 Zivilist noun g=m gen=Zivilisten pl=Zivilisten
 Zivilistin noun g=f gen=Zivilistin pl=Zivilistinnen
 Zivilprozessordnung noun g=f gen=Zivilprozessordnung pl=Zivilprozessordnungen
+Zobel noun g=m gen=Zobels pl=Zobel
 Zocker noun g=m gen=Zockers pl=Zocker
 Zofe noun g=f gen=Zofe pl=Zofen
 Zoff noun g=m gen=Zoffs pl=- style=colloquial alt=Streit note=no plural
@@ -154,6 +157,7 @@ Zorn noun g=m gen=Zorns|Zornes pl=- note=no plural
 Zuarbeit noun g=f gen=Zuarbeit pl=Zuarbeiten
 Zubehör noun g=n gen=Zubehörs|Zubehöres pl=Zubehöre
 Zubereitung noun g=f gen=Zubereitung pl=Zubereitungen
+Zubringer noun g=m gen=Zubringers pl=Zubringer
 Zucchini noun g=f gen=Zucchini pl=Zucchini|Zucchinis
 Zucht noun g=f gen=Zucht pl=Zuchten
 Züchter noun g=m gen=Züchters pl=Züchter
@@ -222,6 +226,7 @@ Zuschuss noun g=m gen=Zuschusses pl=Zuschüsse
 Zusicherung noun g=f gen=Zusicherung pl=Zusicherungen
 Zustand noun g=m gen=Zustandes|Zustands pl=Zustände
 Zuständigkeit noun g=f gen=Zuständigkeit pl=Zuständigkeiten
+Zusteller noun g=m gen=Zustellers pl=Zusteller
 Zustellung noun g=f gen=Zustellung pl=Zustellungen
 Zustimmung noun g=f gen=Zustimmung pl=Zustimmungen
 Zutat noun g=f gen=Zutat pl=Zutaten

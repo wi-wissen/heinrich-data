@@ -13,6 +13,7 @@ Identifizierung noun g=f gen=Identifizierung pl=Identifizierungen
 Identität noun g=f gen=Identität pl=Identitäten
 Ideologe noun g=m gen=Ideologen pl=Ideologen
 Ideologie noun g=f gen=Ideologie pl=Ideologien
+Idiom noun g=n gen=Idioms pl=Idiome
 Idiot noun g=m gen=Idioten pl=Idioten
 Idol noun g=n gen=Idols|Idoles pl=Idole
 Idyll noun g=n gen=Idylls pl=Idylle
@@ -22,6 +23,7 @@ Iglu noun g=m gen=Iglus pl=Iglus
 Ignoranz noun g=f gen=Ignoranz pl=- note=mass noun
 IHK noun g=f gen=IHK pl=IHKs note=Industrie- und Handelskammer
 Ikone noun g=f gen=Ikone pl=Ikonen
+Ikonostase noun g=f gen=Ikonostase pl=Ikonostasen
 Illusion noun g=f gen=Illusion pl=Illusionen
 Illustration noun g=f gen=Illustration pl=Illustrationen
 Illustrator noun g=m gen=Illustrators pl=Illustratoren
@@ -33,8 +35,11 @@ Imbiss noun g=m gen=Imbisses pl=Imbisse
 Imbissbude noun g=f gen=Imbissbude pl=Imbissbuden
 Imker noun g=m gen=Imkers pl=Imker
 Immigrant noun g=m gen=Immigranten pl=Immigranten
+Immission noun g=f gen=Immission pl=Immissionen
+Immissionsschutz noun g=m gen=Immissionsschutzes pl=- note=no plural
 Immobilie noun g=f gen=Immobilie pl=Immobilien
 Immunität noun g=f gen=Immunität pl=- note=no plural in practice
+Immunologe noun g=m gen=Immunologen pl=Immunologen
 Immunsystem noun g=n gen=Immunsystems pl=Immunsysteme
 Imperativ noun g=m gen=Imperativs pl=Imperative
 Imperator noun g=m gen=Imperators pl=Imperatoren
@@ -47,7 +52,9 @@ Implementierung noun g=f gen=Implementierung pl=Implementierungen
 Import noun g=m gen=Imports pl=Importe
 Importeur noun g=m gen=Importeurs pl=Importeure
 Importeurin noun g=f gen=Importeurin pl=Importeurinnen
+Impresario noun g=m gen=Impresarios pl=Impresarios
 Impressionismus noun g=m gen=Impressionismus pl=- note=mass noun
+Impressionist noun g=m gen=Impressionisten pl=Impressionisten
 Impressum noun g=n gen=Impressums pl=Impressen
 Improvisation noun g=f gen=Improvisation pl=Improvisationen
 Impuls noun g=m gen=Impulses pl=Impulse
@@ -65,11 +72,14 @@ Indigo noun g=m|n gen=Indigos pl=Indigos conf=85 note=dye; der/das Indigo, plura
 Indikation noun g=f gen=Indikation pl=Indikationen
 Indikativ noun g=m gen=Indikativs pl=Indikative
 Indikator noun g=m gen=Indikators pl=Indikatoren
+Indio noun g=m gen=Indios pl=Indios
 Indium noun g=n gen=Indiums pl=- note=chemical element
 Individualität noun g=f gen=Individualität pl=Individualitäten
 Individualverkehr noun g=m gen=Individualverkehrs pl=- note=mass noun
 Individuum noun g=n gen=Individuums pl=Individuen
 Indiz noun g=n gen=Indizes pl=Indizien
+Indologe noun g=m gen=Indologen pl=Indologen
+Indossament noun g=n gen=Indossaments|Indossamentes pl=Indossamente
 Induktivität noun g=f gen=Induktivität pl=Induktivitäten
 Industrialisierung noun g=f gen=Industrialisierung pl=- note=no plural in practice
 Industrie noun g=f gen=Industrie pl=Industrien
@@ -107,6 +117,7 @@ Injektion noun g=f gen=Injektion pl=Injektionen
 Injektivität noun g=f gen=Injektivität pl=- note=property; no plural
 Inkasso noun g=n gen=Inkassos pl=Inkassos|Inkassi
 Inklusion noun g=f gen=Inklusion pl=- note=no plural in practice
+Inkognito noun g=n gen=Inkognitos pl=Inkognitos
 Inkraftsetzung noun g=f gen=Inkraftsetzung pl=- note=nominalisation in legal language
 Inkrafttreten noun g=n gen=Inkrafttretens pl=- note=nominalised infinitive in legal language
 Inkunabel noun g=f gen=Inkunabel pl=Inkunabeln
@@ -117,8 +128,10 @@ Innenwelt noun g=f gen=Innenwelt pl=Innenwelten
 Innere noun g=n sg=Innere,Inneren|Innern,Inneren|Innern,Innere pl=- note=das Innere (adjectival noun); the variant Innern is common
 Innovation noun g=f gen=Innovation pl=Innovationen
 Innung noun g=f gen=Innung pl=Innungen
+Inobhutnahme noun g=f gen=Inobhutnahme pl=Inobhutnahmen
 Input noun g=m|n gen=Inputs pl=Inputs
 Inquisition noun g=f gen=Inquisition pl=- note=no plural
+Inquisitor noun g=m gen=Inquisitors pl=Inquisitoren
 Insasse noun g=m gen=Insassen pl=Insassen
 Inschrift noun g=f gen=Inschrift pl=Inschriften note=not In + Schrift
 Insekt noun g=n gen=Insekts|Insektes pl=Insekten
@@ -217,6 +230,7 @@ Islamismus noun g=m gen=Islamismus pl=- note=mass noun
 Isländer noun g=m gen=Isländers pl=Isländer
 Isolation noun g=f gen=Isolation pl=Isolationen
 Isomatte noun g=f gen=Isomatte pl=Isomatten
+Isomer noun g=n gen=Isomers pl=Isomere
 Isomorphismus noun g=m gen=Isomorphismus pl=Isomorphismen
 Isotop noun g=n gen=Isotops pl=Isotope
 Israelit noun g=m gen=Israeliten pl=Israeliten

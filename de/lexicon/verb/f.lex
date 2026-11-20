@@ -70,6 +70,7 @@ flattern verb class=weak pp=geflattert perf=haben|sein
 flechten verb class=strong 3sg=flicht past=flocht pp=geflochten subj2=flöchte perf=haben
 flehen verb class=weak pp=gefleht perf=haben
 flennen verb class=weak pp=geflennt perf=haben style=colloquial alt=weinen
+flexibilisieren verb class=weak pp=flexibilisiert perf=haben
 flicken verb class=weak pp=geflickt perf=haben
 fliegen verb class=strong 3sg=fliegt past=flog pp=geflogen subj2=flöge perf=sein|haben
 fliehen verb class=strong 3sg=flieht past=floh pp=geflohen subj2=flöhe perf=sein

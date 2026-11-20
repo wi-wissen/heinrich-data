@@ -230,8 +230,10 @@ entbinden verb class=strong 3sg=entbindet past=entband pp=entbunden subj2=entbä
 entblößen verb class=weak pp=entblößt perf=haben refl=acc
 entbürokratisieren verb class=weak pp=entbürokratisiert perf=haben
 entdecken verb class=weak pp=entdeckt perf=haben
+entehren verb class=weak pp=entehrt perf=haben
 enteignen verb class=weak pp=enteignet perf=haben
 entfachen verb class=weak pp=entfacht perf=haben
+entfahren verb class=strong 3sg=entfährt past=entfuhr pp=entfahren subj2=entführe perf=sein
 entfallen verb class=strong 3sg=entfällt past=entfiel pp=entfallen subj2=entfiele perf=sein
 entfalten verb class=weak refl=acc pp=entfaltet perf=haben
 entfernen verb class=weak pp=entfernt perf=haben refl=acc
@@ -313,6 +315,7 @@ entspringen verb class=strong 3sg=entspringt past=entsprang pp=entsprungen subj2
 entstammen verb class=weak pp=entstammt perf=sein
 entstauben verb class=weak pp=entstaubt perf=haben
 entstehen verb class=strong 3sg=entsteht past=entstand pp=entstanden subj2=entstünde|entstände perf=sein
+entsteigen verb class=strong 3sg=entsteigt past=entstieg pp=entstiegen subj2=entstiege perf=sein
 entstellen verb class=weak pp=entstellt perf=haben
 enttarnen verb class=weak pp=enttarnt perf=haben
 enttäuschen verb class=weak pp=enttäuscht perf=haben part1_cmp pp_cmp
@@ -368,6 +371,7 @@ ergeben verb class=strong 3sg=ergibt past=ergab pp=ergeben subj2=ergäbe perf=ha
 ergehen verb class=strong 3sg=ergeht past=erging pp=ergangen subj2=erginge perf=sein
 ergetzen verb class=weak pp=ergetzt perf=haben refl=acc style=archaic
 ergießen verb class=strong 3sg=ergießt past=ergoss pp=ergossen subj2=ergösse perf=haben refl=acc
+erglänzen verb class=weak pp=erglänzt perf=haben|sein
 ergötzen verb class=weak pp=ergötzt perf=haben refl=acc
 ergrauen verb class=weak pp=ergraut perf=sein
 ergreifen verb class=strong 3sg=ergreift past=ergriff pp=ergriffen subj2=ergriffe perf=haben
@@ -416,6 +420,7 @@ erlöschen verb class=strong 3sg=erlischt past=erlosch pp=erloschen subj2=erlös
 erlösen verb class=weak pp=erlöst perf=haben
 ermächtigen verb class=weak pp=ermächtigt perf=haben
 ermahnen verb class=weak pp=ermahnt perf=haben
+ermangeln verb class=weak pp=ermangelt perf=haben
 ermannen verb class=weak pp=ermannt perf=haben refl=acc
 ermäßigen verb class=weak pp=ermäßigt perf=haben
 ermatten verb class=weak pp=ermattet perf=haben|sein
@@ -450,6 +455,7 @@ ersaufen verb class=strong 3sg=ersäuft past=ersoff subj2=ersöffe pp=ersoffen p
 erschaffen verb class=strong 3sg=erschafft past=erschuf pp=erschaffen subj2=erschüfe perf=haben
 erschallen verb class=strong 3sg=erschallt past=erscholl|erschallte pp=erschollen subj2=erschölle|erschallte perf=sein conf=85 note=strong and weak preterite both in use
 erschaudern verb class=weak pp=erschaudert perf=sein
+erschauern verb class=weak pp=erschauert perf=sein
 erscheinen verb class=strong 3sg=erscheint past=erschien pp=erschienen subj2=erschiene perf=sein
 erschießen verb class=strong 3sg=erschießt past=erschoss pp=erschossen subj2=erschösse perf=haben
 erschlaffen verb class=weak pp=erschlafft perf=sein
@@ -513,6 +519,7 @@ erwirtschaften verb class=weak pp=erwirtschaftet perf=haben
 erwischen verb class=weak pp=erwischt perf=haben
 erwürgen verb class=weak pp=erwürgt perf=haben
 erzählen verb class=weak pp=erzählt perf=haben
+erzeigen verb class=weak pp=erzeigt perf=haben
 erzeugen verb class=weak pp=erzeugt perf=haben
 erziehen verb class=strong 3sg=erzieht past=erzog pp=erzogen subj2=erzöge perf=haben
 erzielen verb class=weak pp=erzielt perf=haben
@@ -522,8 +529,10 @@ erzwingen verb class=strong 3sg=erzwingt past=erzwang subj2=erzwänge pp=erzwung
 eskalieren verb class=weak pp=eskaliert perf=haben|sein note=die Lage ist eskaliert; einen Konflikt eskaliert haben
 essen verb class=strong 3sg=isst past=aß pp=gegessen subj2=äße perf=haben
 etablieren verb class=weak refl=acc pp=etabliert perf=haben
+etatisieren verb class=weak pp=etatisiert perf=haben
 evakuieren verb class=weak pp=evakuiert perf=haben
 evaluieren verb class=weak pp=evaluiert perf=haben
+exhumieren verb class=weak pp=exhumiert perf=haben
 existieren verb class=weak pp=existiert perf=haben
 expandieren verb class=weak pp=expandiert perf=haben|sein conf=85 note=haben and sein both in use
 experimentieren verb class=weak pp=experimentiert perf=haben

@@ -36,6 +36,7 @@ Vektor noun g=m gen=Vektors pl=Vektoren
 Vene noun g=f gen=Vene pl=Venen
 Venezianer noun g=m gen=Venezianers pl=Venezianer
 Ventil noun g=n gen=Ventils pl=Ventile
+Ventilator noun g=m gen=Ventilators pl=Ventilatoren
 Verabredung noun g=f gen=Verabredung pl=Verabredungen
 Verabschiedung noun g=f gen=Verabschiedung pl=Verabschiedungen
 Verachtung noun g=f gen=Verachtung pl=- note=no plural
@@ -79,6 +80,7 @@ Verbündete noun g=m|f decl=adj note=ally
 Verdacht noun g=m gen=Verdachts|Verdachtes pl=Verdachte|Verdächte[rare]
 Verdammnis noun g=f gen=Verdammnis pl=- note=no plural
 Verdauung noun g=f gen=Verdauung pl=- note=no plural
+Verderb noun g=m gen=Verderbs|Verderbes pl=- note=no plural
 Verderben noun g=n gen=Verderbens pl=- note=ruin; no plural
 Verdiener noun g=m gen=Verdieners pl=Verdiener
 Verdienst noun g=m|n gen=Verdienstes|Verdiensts pl=Verdienste note=der Verdienst (earnings), das Verdienst (merit)
@@ -145,6 +147,7 @@ Verhör noun g=n gen=Verhörs|Verhöres pl=Verhöre
 Verhütung noun g=f gen=Verhütung pl=- note=no plural
 Verifizierung noun g=f gen=Verifizierung pl=Verifizierungen
 Verjährung noun g=f gen=Verjährung pl=- note=no plural
+Verkabelung noun g=f gen=Verkabelung pl=Verkabelungen
 Verkauf noun g=m gen=Verkaufs|Verkaufes[rare] pl=Verkäufe
 Verkäufer noun g=m gen=Verkäufers pl=Verkäufer
 Verkäuferin noun g=f gen=Verkäuferin pl=Verkäuferinnen
@@ -160,6 +163,7 @@ Verkündung noun g=f gen=Verkündung pl=Verkündungen
 Verkürzung noun g=f gen=Verkürzung pl=Verkürzungen
 Verlag noun g=m gen=Verlags|Verlages pl=Verlage
 Verlagerung noun g=f gen=Verlagerung pl=Verlagerungen
+Verlandung noun g=f gen=Verlandung pl=Verlandungen
 Verlangen noun g=n gen=Verlangens pl=- note=mass noun
 Verlängerung noun g=f gen=Verlängerung pl=Verlängerungen
 Verlassenheit noun g=f gen=Verlassenheit pl=- note=abstract noun, no plural
@@ -181,6 +185,7 @@ Verlies noun g=n gen=Verlieses pl=Verliese
 Verlinkung noun g=f gen=Verlinkung pl=Verlinkungen
 Verlobte noun g=m|f decl=adj
 Verlobung noun g=f gen=Verlobung pl=Verlobungen
+Verlogenheit noun g=f gen=Verlogenheit pl=Verlogenheiten
 Verlosung noun g=f gen=Verlosung pl=Verlosungen
 Verlust noun g=m gen=Verlustes|Verlusts pl=Verluste
 Vermächtnis noun g=n gen=Vermächtnisses pl=Vermächtnisse
@@ -212,13 +217,16 @@ Verpackung noun g=f gen=Verpackung pl=Verpackungen
 Verpflegung noun g=f gen=Verpflegung pl=- note=no plural
 Verpflichtete noun g=m|f decl=adj note=legal term: person under an obligation
 Verpflichtung noun g=f gen=Verpflichtung pl=Verpflichtungen
+Verpuppung noun g=f gen=Verpuppung pl=Verpuppungen
 Verrat noun g=m gen=Verrats|Verrates pl=- note=no plural
 Verräter noun g=m gen=Verräters pl=Verräter
 Verräterin noun g=f gen=Verräterin pl=Verräterinnen
 Verrechnung noun g=f gen=Verrechnung pl=Verrechnungen
+Verrentung noun g=f gen=Verrentung pl=Verrentungen
 Verringerung noun g=f gen=Verringerung pl=Verringerungen
 Verruf noun g=m gen=Verrufs|Verrufes pl=- note=in Verruf geraten; no plural
 Vers noun g=m gen=Verses pl=Verse
+Versachlichung noun g=f gen=Versachlichung pl=- note=no plural
 Versagen noun g=n gen=Versagens pl=- note=lexicalised nominal infinitive: failure
 Versagung noun g=f gen=Versagung pl=Versagungen
 Versammlung noun g=f gen=Versammlung pl=Versammlungen
@@ -259,6 +267,7 @@ Versorger noun g=m gen=Versorgers pl=Versorger
 Versorgung noun g=f gen=Versorgung pl=Versorgungen[rare]
 Verspätung noun g=f gen=Verspätung pl=Verspätungen
 Versprechen noun g=n gen=Versprechens pl=Versprechen note=lexicalised nominal infinitive: promise
+Versprecher noun g=m gen=Versprechers pl=Versprecher
 Versprechung noun g=f gen=Versprechung pl=Versprechungen
 Verstaatlichung noun g=f gen=Verstaatlichung pl=Verstaatlichungen
 Verstand noun g=m gen=Verstandes|Verstands pl=- note=no plural
@@ -275,6 +284,7 @@ Verstorbene noun g=m|f decl=adj note=the deceased
 Verstoß noun g=m gen=Verstoßes pl=Verstöße
 Verstromung noun g=f gen=Verstromung pl=- note=mass noun
 Versuch noun g=m gen=Versuchs|Versuches[rare] pl=Versuche
+Versucher noun g=m gen=Versuchers pl=Versucher
 Versuchung noun g=f gen=Versuchung pl=Versuchungen
 Vertagung noun g=f gen=Vertagung pl=Vertagungen
 Verteidiger noun g=m gen=Verteidigers pl=Verteidiger
@@ -310,6 +320,7 @@ Verweigerer noun g=m gen=Verweigerers pl=Verweigerer
 Verweigerung noun g=f gen=Verweigerung pl=Verweigerungen
 Verweis noun g=m gen=Verweises pl=Verweise
 Verwendung noun g=f gen=Verwendung pl=Verwendungen
+Verwerter noun g=m gen=Verwerters pl=Verwerter
 Verwertung noun g=f gen=Verwertung pl=Verwertungen
 Verweser noun g=m gen=Verwesers pl=Verweser
 Verwirklichung noun g=f gen=Verwirklichung pl=- note=no plural in practice
@@ -321,6 +332,7 @@ Verwünschung noun g=f gen=Verwünschung pl=Verwünschungen
 Verzahnung noun g=f gen=Verzahnung pl=Verzahnungen
 Verzeichnis noun g=n gen=Verzeichnisses pl=Verzeichnisse
 Verzeihung noun g=f gen=Verzeihung pl=- note=no plural
+Verzerrung noun g=f gen=Verzerrung pl=Verzerrungen
 Verzicht noun g=m gen=Verzichts|Verzichtes pl=Verzichte
 Verzinsung noun g=f gen=Verzinsung pl=- note=no plural in practice
 Verzögerung noun g=f gen=Verzögerung pl=Verzögerungen
@@ -388,6 +400,7 @@ Vokabular noun g=n gen=Vokabulars pl=Vokabulare
 Vokal noun g=m gen=Vokals pl=Vokale
 Volk noun g=n gen=Volkes|Volks pl=Völker
 Völkermord noun g=m gen=Völkermords|Völkermordes pl=Völkermorde
+Völkerrechtler noun g=m gen=Völkerrechtlers pl=Völkerrechtler
 Volksentscheid noun g=m gen=Volksentscheids|Volksentscheides pl=Volksentscheide
 Volkskundler noun g=m gen=Volkskundlers pl=Volkskundler
 Volkstum noun g=n gen=Volkstums pl=- note=no plural
@@ -408,6 +421,7 @@ Volontariat noun g=n gen=Volontariats|Volontariates pl=Volontariate
 Volontärin noun g=f gen=Volontärin pl=Volontärinnen
 Volt noun g=n gen=Volt|Volts pl=Volt note=unit
 Volumen noun g=n gen=Volumens pl=Volumen|Volumina
+Volute noun g=f gen=Volute pl=Voluten
 Vomhundertsatz noun g=m gen=Vomhundertsatzes pl=Vomhundertsätze
 Vorausdeutung noun g=f gen=Vorausdeutung pl=Vorausdeutungen
 Voraussetzung noun g=f gen=Voraussetzung pl=Voraussetzungen

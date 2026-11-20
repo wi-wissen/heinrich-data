@@ -304,6 +304,7 @@ Restmüll noun g=m gen=Restmülls pl=- note=no plural
 Restriktion noun g=f gen=Restriktion pl=Restriktionen
 Restrukturierung noun g=f gen=Restrukturierung pl=Restrukturierungen
 Resultat noun g=n gen=Resultats|Resultates pl=Resultate
+Resümee noun g=n gen=Resümees pl=Resümees
 Retabel noun g=n gen=Retabels pl=Retabel
 Retoure noun g=f gen=Retoure pl=Retouren
 Retrospektive noun g=f gen=Retrospektive pl=Retrospektiven
@@ -331,6 +332,7 @@ Rezeptionistin noun g=f gen=Rezeptionistin pl=Rezeptionistinnen
 Rezeptor noun g=m gen=Rezeptors pl=Rezeptoren
 Rezeptur noun g=f gen=Rezeptur pl=Rezepturen
 Rezession noun g=f gen=Rezession pl=Rezessionen
+Rezipient noun g=m gen=Rezipienten pl=Rezipienten
 Rezitativ noun g=n gen=Rezitativs pl=Rezitative
 Rhabarber noun g=m gen=Rhabarbers pl=- note=no plural
 Rheinbrücke noun g=f gen=Rheinbrücke pl=Rheinbrücken note=bridge over the Rhine; the compound analysis does not use proper names as first part
@@ -348,6 +350,7 @@ Richtigkeit noun g=f gen=Richtigkeit pl=- note=mass noun
 Richtlinie noun g=f gen=Richtlinie pl=Richtlinien
 Richtung noun g=f gen=Richtung pl=Richtungen
 Ricke noun g=f gen=Ricke pl=Ricken
+Riege noun g=f gen=Riege pl=Riegen
 Riegel noun g=m gen=Riegels pl=Riegel
 Riemen noun g=m gen=Riemens pl=Riemen
 Riese noun g=m gen=Riesen pl=Riesen
@@ -410,6 +413,7 @@ Romantik noun g=f gen=Romantik pl=- note=mass noun; epoch
 Romanze noun g=f gen=Romanze pl=Romanzen
 Römer noun g=m gen=Römers pl=Römer
 Römerin noun g=f gen=Römerin pl=Römerinnen
+Rondell noun g=n gen=Rondells pl=Rondelle
 Röntgenbild noun g=n gen=Röntgenbild|Röntgenbilds|Röntgenbildes pl=Röntgenbilder
 Röntgenstrahlung noun g=f gen=Röntgenstrahlung pl=- note=mass noun
 Rosa noun g=n gen=Rosa|Rosas pl=Rosa|Rosas conf=85 note=colour name (das Rosa)
@@ -417,6 +421,7 @@ Rose noun g=f gen=Rose pl=Rosen
 Rosenstrauch noun g=m gen=Rosenstrauchs pl=Rosensträucher
 Rosette noun g=f gen=Rosette pl=Rosetten
 Rosine noun g=f gen=Rosine pl=Rosinen
+Rosinenpickerei noun g=f gen=Rosinenpickerei pl=Rosinenpickereien
 Rosmarin noun g=m gen=Rosmarins pl=- note=no plural
 Ross noun g=n gen=Rosses pl=Rosse|Rösser style=archaic note=elevated word for horse
 Rotation noun g=f gen=Rotation pl=Rotationen
@@ -434,11 +439,13 @@ Royalist noun g=m gen=Royalisten pl=Royalisten
 Rübe noun g=f gen=Rübe pl=Rüben
 Rubel noun g=m gen=Rubels pl=Rubel
 Rubidium noun g=n gen=Rubidiums pl=- note=chemical element
+Rubin noun g=m gen=Rubins pl=Rubine
 Rubrik noun g=f gen=Rubrik pl=Rubriken
 Ruch noun g=m gen=Ruchs|Ruches pl=- note=no plural
 Ruck noun g=m gen=Rucks|Ruckes pl=Rucke
 Rückblende noun g=f gen=Rückblende pl=Rückblenden
 Rücken noun g=m gen=Rückens pl=Rücken
+Rückenlehne noun g=f gen=Rückenlehne pl=Rückenlehnen
 Rückfahrt noun g=f gen=Rückfahrt pl=Rückfahrten
 Rückgabe noun g=f gen=Rückgabe pl=Rückgaben
 Rückgabefrist noun g=f gen=Rückgabefrist pl=Rückgabefristen note=compound analysis does not accept the modifier Rückgabe-
@@ -455,9 +462,11 @@ Rückreise noun g=f gen=Rückreise pl=Rückreisen
 Rückseite noun g=f gen=Rückseite pl=Rückseiten
 Rücksicht noun g=f gen=Rücksicht pl=Rücksichten
 Rücksichtnahme noun g=f gen=Rücksichtnahme pl=- note=abstract noun, no plural
+Rückstrahler noun g=m gen=Rückstrahlers pl=Rückstrahler
 Rücktritt noun g=m gen=Rücktritts|Rücktrittes pl=Rücktritte
 Rückverfolgbarkeit noun g=f gen=Rückverfolgbarkeit pl=- note=traceability; no plural
 Rückzug noun g=m gen=Rückzugs|Rückzuges pl=Rückzüge
+Rüde noun g=m gen=Rüden pl=Rüden
 Rudel noun g=n gen=Rudels pl=Rudel
 Ruder noun g=n gen=Ruders pl=Ruder
 Ruderer noun g=m gen=Ruderers pl=Ruderer
@@ -482,6 +491,7 @@ Rundreise noun g=f gen=Rundreise pl=Rundreisen
 Rundung noun g=f gen=Rundung pl=Rundungen
 Rune noun g=f gen=Rune pl=Runen
 Runzel noun g=f gen=Runzel pl=Runzeln
+Rupie noun g=f gen=Rupie pl=Rupien
 Ruralgemeinde noun g=f gen=Ruralgemeinde pl=Ruralgemeinden note=rural municipality (Luxembourg, historical Prussia)
 Ruß noun g=m gen=Rußes pl=- note=mass noun
 Rushhour noun g=f gen=Rushhour pl=Rushhours

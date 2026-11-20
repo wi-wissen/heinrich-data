@@ -100,6 +100,7 @@ weilen verb class=weak pp=geweilt perf=haben
 weinen verb class=weak pp=geweint perf=haben
 weisen verb class=strong 3sg=weist past=wies pp=gewiesen subj2=wiese perf=haben
 weissagen verb class=weak pp=geweissagt perf=haben note=written with ss (not from weiß)
+weiten verb class=weak pp=geweitet perf=haben
 weiterarbeiten verb class=weak sep=weiter pp=weitergearbeitet perf=haben
 weiterbearbeiten verb class=weak sep=weiter pp=weiterbearbeitet perf=haben
 weiterbeschäftigen verb class=weak sep=weiter pp=weitergebeschäftigt perf=haben
@@ -192,6 +193,7 @@ wiedererrichten verb class=weak sep=wieder pp=wiedererrichtet perf=haben
 wiederfinden verb class=strong sep=wieder 3sg=wiederfindet past=wiederfand pp=wiedergefunden subj2=wiederfände perf=haben refl=acc
 wiedergeben verb class=strong sep=wieder 3sg=wiedergibt past=wiedergab pp=wiedergegeben subj2=wiedergäbe perf=haben
 wiedergewinnen verb class=strong sep=wieder 3sg=wiedergewinnt past=wiedergewann subj2=wiedergewönne|wiedergewänne pp=wiedergewonnen perf=haben
+wiedergründen verb class=weak sep=wieder pp=wiedergegründet perf=haben
 wiedergutmachen verb class=weak sep=wiedergut pp=wiedergutgemacht perf=haben
 wiederhaben verb class=mixed sep=wieder 3sg=wiederhat past=wiederhatte pp=wiedergehabt subj2=wiederhätte perf=haben
 wiederherstellen verb class=weak sep=wiederher pp=wiederhergestellt perf=haben

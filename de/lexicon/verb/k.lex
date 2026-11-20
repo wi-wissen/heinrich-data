@@ -9,6 +9,7 @@ kapieren verb class=weak pp=kapiert perf=haben style=colloquial alt=verstehen
 kaputtgehen verb class=strong sep=kaputt 3sg=kaputtgeht past=kaputtging|kaputtgieng[old] pp=kaputtgegangen subj2=kaputtginge perf=sein note=only joined: kaputtgehen (not kaputt gehen)
 kaputtmachen verb class=weak sep=kaputt pp=kaputtgemacht perf=haben note=also written kaputt machen (resultative adjective, both spellings allowed)
 kassieren verb class=weak pp=kassiert perf=haben
+katalysieren verb class=weak pp=katalysiert perf=haben
 kategorisieren verb class=weak pp=kategorisiert perf=haben
 kauen verb class=weak pp=gekaut perf=haben
 kauern verb class=weak pp=gekauert perf=haben refl=acc
@@ -36,6 +37,7 @@ klappern verb class=weak pp=geklappert perf=haben
 klären verb class=weak pp=geklärt perf=haben refl=acc
 klarmachen verb class=weak sep=klar pp=klargemacht perf=haben
 klarstellen verb class=weak sep=klar pp=klargestellt perf=haben
+klassieren verb class=weak pp=klassiert perf=haben
 klassifizieren verb class=weak pp=klassifiziert perf=haben
 klatschen verb class=weak pp=geklatscht perf=haben
 klauben verb class=weak pp=geklaubt perf=haben
@@ -89,11 +91,13 @@ komprimieren verb class=weak pp=komprimiert perf=haben
 kondensieren verb class=weak pp=kondensiert perf=haben|sein
 kondolieren verb class=weak pp=kondoliert perf=haben
 konfigurieren verb class=weak pp=konfiguriert perf=haben
+konfirmieren verb class=weak pp=konfirmiert perf=haben
 konfiszieren verb class=weak pp=konfisziert perf=haben
 konföderieren verb class=weak pp=konföderiert perf=haben
 konfrontieren verb class=weak pp=konfrontiert perf=haben
 konkretisieren verb class=weak pp=konkretisiert perf=haben
 konkurrieren verb class=weak pp=konkurriert perf=haben
+konsekrieren verb class=weak pp=konsekriert perf=haben
 konservieren verb class=weak pp=konserviert perf=haben
 konsolidieren verb class=weak pp=konsolidiert perf=haben
 konstatieren verb class=weak pp=konstatiert perf=haben
@@ -131,12 +135,14 @@ krankmelden verb class=weak sep=krank pp=krankgemeldet perf=haben refl=acc note=
 krankschreiben verb class=strong sep=krank 3sg=krankschreibt past=krankschrieb pp=krankgeschrieben subj2=krankschriebe perf=haben note=also written krank schreiben
 kratzen verb class=weak pp=gekratzt perf=haben refl=acc
 kraulen verb class=weak pp=gekrault perf=haben
+kräuseln verb class=weak pp=gekräuselt perf=haben
 kreieren verb class=weak pp=kreiert perf=haben
 kreischen verb class=weak pp=gekreischt perf=haben
 kreisen verb class=weak pp=gekreist perf=haben|sein
 kreuzen verb class=weak pp=gekreuzt perf=haben refl=acc
 kriechen verb class=strong 3sg=kriecht past=kroch pp=gekrochen subj2=kröche perf=sein
 kriegen verb class=weak pp=gekriegt perf=haben style=colloquial alt=bekommen
+kriminalisieren verb class=weak pp=kriminalisiert perf=haben
 kristallisieren verb class=weak pp=kristallisiert perf=haben
 kritisieren verb class=weak pp=kritisiert perf=haben
 kritteln verb class=weak pp=gekrittelt perf=haben

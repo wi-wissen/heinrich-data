@@ -7,6 +7,7 @@ nachrangig adj
 nachsichtig adj cmp=nachsichtiger sup=nachsichtigsten
 nächstgelegen adj note=der nächstgelegene Ort; already a superlative, not compared
 nächsthöher adj attr_only note=die nächsthöhere Stufe
+nächstmöglich adj
 nächtlich adj
 nachtragend adj cmp=nachtragender sup=nachtragendsten|nachtragendesten
 nachträglich adj
@@ -35,20 +36,26 @@ neblig adj cmp=nebliger sup=nebligsten
 negativ adj cmp=negativer sup=negativsten
 neidisch adj cmp=neidischer sup=neidischsten
 nennenswert adj
+neogotisch adj
+neoklassizistisch adj
+neolithisch adj
 nervig adj cmp=nerviger sup=nervigsten style=colloquial alt=lästig
 nervös adj cmp=nervöser sup=nervösesten
 nett adj cmp=netter sup=nettesten
 neu adj cmp=neuer sup=neuesten
 neuerlich adj
 neugierig adj cmp=neugieriger sup=neugierigsten
+neuronal adj
 neuseeländisch adj
 neutral adj cmp=neutraler sup=neutralsten
 neuwertig adj
 nichtig adj cmp=nichtiger sup=nichtigsten
+nichtswürdig adj cmp=nichtswürdiger sup=nichtswürdigsten
 nieder adj attr_only note=niedere Instinkte; the adverb/particle nieder is separate
 niederländisch adj
 niedlich adj cmp=niedlicher sup=niedlichsten
 niedrig adj cmp=niedriger sup=niedrigsten
+niedrigschwellig adj cmp=niedrigschwelliger sup=niedrigschwelligsten
 nigerianisch adj
 nobel adj cmp=nobler sup=noblesten
 nominell adj

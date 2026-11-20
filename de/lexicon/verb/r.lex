@@ -1,6 +1,7 @@
 rächen verb class=weak pp=gerächt perf=haben
 radeln verb class=weak pp=geradelt perf=sein
 radieren verb class=weak pp=radiert perf=haben
+radikalisieren verb class=weak pp=radikalisiert perf=haben
 ragen verb class=weak pp=geragt perf=haben
 rahmen verb class=weak pp=gerahmt perf=haben
 räkeln verb class=weak pp=geräkelt perf=haben refl=acc
@@ -114,6 +115,7 @@ rekrutieren verb class=weak pp=rekrutiert perf=haben
 relativieren verb class=weak pp=relativiert perf=haben
 relaxen verb class=weak pp=gerelaxt perf=haben
 rempeln verb class=weak pp=gerempelt perf=haben
+renaturieren verb class=weak pp=renaturiert perf=haben
 rennen verb class=mixed 3sg=rennt past=rannte pp=gerannt subj2=rennte perf=sein|haben
 renovieren verb class=weak pp=renoviert perf=haben
 reparieren verb class=weak pp=repariert perf=haben
@@ -124,6 +126,7 @@ residieren verb class=weak pp=residiert perf=haben
 respektieren verb class=weak pp=respektiert perf=haben
 restaurieren verb class=weak pp=restauriert perf=haben
 resultieren verb class=weak pp=resultiert perf=haben
+resümieren verb class=weak pp=resümiert perf=haben
 retten verb class=weak pp=gerettet perf=haben
 revidieren verb class=weak pp=revidiert perf=haben
 revoltieren verb class=weak pp=revoltiert perf=haben

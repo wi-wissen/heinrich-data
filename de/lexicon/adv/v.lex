@@ -21,4 +21,5 @@ vornüber adv
 vorüber adv
 vorwärts adv type=direction
 vorweg adv type=time
+vorzeiten adv
 vulgo adv

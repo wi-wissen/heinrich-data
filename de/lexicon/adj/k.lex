@@ -2,6 +2,7 @@ kabellos adj
 kahl adj cmp=kahler sup=kahlsten
 kaiserlich adj
 kalifornisch adj
+kalkhaltig adj
 kalkulatorisch adj
 kalt adj cmp=kälter sup=kältesten
 kaltblütig adj cmp=kaltblütiger sup=kaltblütigsten
@@ -16,6 +17,7 @@ kariert adj
 karolingisch adj
 kasachisch adj
 katalanisch adj
+katarisch adj
 katastrophal adj
 kategorisch adj
 katholisch adj
@@ -48,6 +50,7 @@ knapp adj cmp=knapper sup=knappsten
 knappschaftlich adj
 knusprig adj cmp=knuspriger sup=knusprigsten
 kognitiv adj
+kohlig adj
 kokett adj cmp=koketter sup=kokettesten
 kollaborativ adj
 kollektiv adj
@@ -67,6 +70,7 @@ kompetent adj cmp=kompetenter sup=kompetentesten
 komplett adj cmp=kompletter sup=komplettesten
 komplex adj cmp=komplexer sup=komplexesten
 kompliziert adj cmp=komplizierter sup=kompliziertesten
+kompositorisch adj
 konfessionell adj
 konform adj note=mit etwas konform gehen; base of datenschutzkonform, gesetzeskonform
 kongolesisch adj
@@ -108,6 +112,7 @@ kreativ adj cmp=kreativer sup=kreativsten
 kribbelig adj cmp=kribbeliger sup=kribbeligsten
 kriegerisch adj
 kriminell adj
+kristallin adj
 kritisch adj cmp=kritischer sup=kritischsten
 kroatisch adj
 krümelig adj cmp=krümeliger sup=krümeligsten

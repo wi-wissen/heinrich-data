@@ -15,17 +15,20 @@ Obhut noun g=f gen=Obhut pl=- note=abstract noun
 Objekt noun g=n gen=Objekts|Objektes pl=Objekte
 Objektivität noun g=f gen=Objektivität pl=- note=abstract noun, no plural
 Oblast noun g=f gen=Oblast pl=Oblaste conf=70 note=administrative region in Russia, Ukraine, Belarus; plural also Oblasti
+Oblate noun g=f gen=Oblate pl=Oblaten
 Obliegenheit noun g=f gen=Obliegenheit pl=Obliegenheiten
 Obmann noun g=m gen=Obmanns|Obmannes pl=Obmänner|Obleute
 Oboe noun g=f gen=Oboe pl=Oboen
 Oboist noun g=m gen=Oboisten pl=Oboisten
 Obrigkeit noun g=f gen=Obrigkeit pl=Obrigkeiten
 Obrist noun g=m gen=Obristen pl=Obristen
+Observanz noun g=f gen=Observanz pl=Observanzen
 Observatorium noun g=n gen=Observatoriums pl=Observatorien
 Obst noun g=n gen=Obstes|Obsts pl=- note=mass noun
 Ochse noun g=m gen=Ochsen pl=Ochsen
 Ode noun g=f gen=Ode pl=Oden
 Odem noun g=m gen=Odems pl=- style=archaic note=poetic: breath
+Ödland noun g=n gen=Ödlands|Ödlandes pl=- note=no plural
 Odyssee noun g=f gen=Odyssee pl=Odysseen
 Ofen noun g=m gen=Ofens pl=Öfen
 Offenbarung noun g=f gen=Offenbarung pl=Offenbarungen
@@ -56,18 +59,23 @@ Okay noun g=n gen=Okays pl=Okays note=das Okay
 Oktave noun g=f gen=Oktave pl=Oktaven
 Oktober noun g=m gen=Oktobers pl=Oktober
 Oktopus noun g=m gen=Oktopusses pl=Oktopusse|Oktopoden
+Ökumene noun g=f gen=Ökumene pl=- note=no plural
 Öl noun g=n gen=Öls|Öles pl=Öle
 Oldtimer noun g=m gen=Oldtimers pl=Oldtimer
 Oligarch noun g=m gen=Oligarchen pl=Oligarchen
+Oligarchie noun g=f gen=Oligarchie pl=Oligarchien
 Oligozän noun g=n gen=Oligozäns pl=- note=geological epoch
 Olive noun g=f gen=Olive pl=Oliven
 Olivenbaum noun g=m gen=Olivenbaums pl=Olivenbäume
+Olivin noun g=n gen=Olivins pl=Olivine
 Olympiade noun g=f gen=Olympiade pl=Olympiaden
+Olympiaqualifikation noun g=f gen=Olympiaqualifikation pl=Olympiaqualifikationen
 Olympiasieger noun g=m gen=Olympiasiegers pl=Olympiasieger
 Olympiasiegerin noun g=f gen=Olympiasiegerin pl=Olympiasiegerinnen
 Oma noun g=f gen=Oma pl=Omas
 Ombudsfrau noun g=f gen=Ombudsfrau pl=Ombudsfrauen
 Ombudsmann noun g=m gen=Ombudsmanns|Ombudsmannes pl=Ombudsmänner|Ombudsleute
+Ombudsstelle noun g=f gen=Ombudsstelle pl=Ombudsstellen
 Omelett noun g=n gen=Omeletts pl=Omeletts
 Omen noun g=n gen=Omens pl=Omen|Omina
 Omi noun g=f gen=Omi pl=Omis
@@ -85,6 +93,7 @@ Opfer noun g=n gen=Opfers pl=Opfer
 Opi noun g=m gen=Opis pl=Opis
 Opium noun g=n gen=Opiums pl=- note=mass noun
 ÖPNV noun g=m gen=ÖPNV pl=- note=öffentlicher Personennahverkehr
+Oppidum noun g=n gen=Oppidums pl=Oppida
 Opposition noun g=f gen=Opposition pl=Oppositionen
 Optik noun g=f gen=Optik pl=Optiken
 Optiker noun g=m gen=Optikers pl=Optiker
@@ -103,9 +112,12 @@ Orden noun g=m gen=Ordens pl=Orden
 Order noun g=f gen=Order pl=Orders|Ordern
 Ordinariat noun g=n gen=Ordinariats|Ordinariates pl=Ordinariate
 Ordinarius noun g=m gen=Ordinarius pl=Ordinarien note=full professor; bare genitive
+Ordinate noun g=f gen=Ordinate pl=Ordinaten
 Ordner noun g=m gen=Ordners pl=Ordner
 Ordnung noun g=f gen=Ordnung pl=Ordnungen
+Ordnungsmäßigkeit noun g=f gen=Ordnungsmäßigkeit pl=- note=no plural
 Ordnungswidrigkeit noun g=f gen=Ordnungswidrigkeit pl=Ordnungswidrigkeiten
+Ordonnanz noun g=f gen=Ordonnanz pl=Ordonnanzen
 Ordovizium noun g=n gen=Ordoviziums pl=- note=geological period
 Ordre noun g=f gen=Ordre pl=Ordres style=archaic conf=75 note=order, command (French loan)
 Oregano noun g=m gen=Oreganos pl=- note=no plural
@@ -117,8 +129,11 @@ Organismus noun g=m gen=Organismus pl=Organismen
 Organist noun g=m gen=Organisten pl=Organisten
 Organistin noun g=f gen=Organistin pl=Organistinnen
 Organspende noun g=f gen=Organspende pl=Organspenden
+Orgasmus noun g=m gen=Orgasmus pl=Orgasmen note=genitive unchanged
 Orgel noun g=f gen=Orgel pl=Orgeln
+Orgie noun g=f gen=Orgie pl=Orgien
 Orient noun g=m gen=Orients pl=- note=the Orient
+Orientale noun g=m gen=Orientalen pl=Orientalen
 Orientalist noun g=m gen=Orientalisten pl=Orientalisten
 Orientierung noun g=f gen=Orientierung pl=- note=no plural
 Original noun g=n gen=Originals pl=Originale
@@ -132,6 +147,7 @@ Ort noun g=m gen=Ortes|Orts pl=Orte|Örter[rare]
 Orthodoxie noun g=f gen=Orthodoxie pl=Orthodoxien
 Orthografie noun g=f gen=Orthografie pl=Orthografien
 Orthographie noun g=f gen=Orthographie pl=Orthographien
+Orthopäde noun g=m gen=Orthopäden pl=Orthopäden
 Orthopädie noun g=f gen=Orthopädie pl=- note=medical field, no plural
 Orthostiche noun g=f gen=Orthostiche pl=Orthostichen
 Ortschaft noun g=f gen=Ortschaft pl=Ortschaften
@@ -157,6 +173,7 @@ Osternest noun g=n gen=Osternests|Osternestes pl=Osternester
 Österreicherin noun g=f gen=Österreicherin pl=Österreicherinnen
 Ostersonntag noun g=m gen=Ostersonntags|Ostersonntages pl=Ostersonntage
 Otter noun g=m gen=Otters pl=Otter
+Ottomane noun g=f gen=Ottomane pl=Ottomanen
 Ottomotor noun g=m gen=Ottomotors pl=Ottomotoren
 Output noun g=m|n gen=Outputs pl=Outputs
 Outsourcing noun g=n gen=Outsourcings pl=- note=mass noun
@@ -165,6 +182,8 @@ Oval noun g=n gen=Ovals pl=Ovale
 Overall noun g=m gen=Overalls pl=Overalls
 Overheadprojektor noun g=m gen=Overheadprojektors pl=Overheadprojektoren
 Oxid noun g=n gen=Oxids|Oxides pl=Oxide
+Oxidation noun g=f gen=Oxidation pl=Oxidationen
+Oxidationsmittel noun g=n gen=Oxidationsmittels pl=Oxidationsmittel
 Oxyd noun g=n gen=Oxyds|Oxydes pl=Oxyde conf=85 note=older spelling variant of Oxid, still found
 Oxymoron noun g=n gen=Oxymorons pl=Oxymora
 Ozean noun g=m gen=Ozeans pl=Ozeane

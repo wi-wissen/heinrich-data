@@ -11,6 +11,7 @@ Fächer noun g=m gen=Fächers pl=Fächer sense=fan note=der Fächer; fan (not th
 Fachhochschule noun g=f gen=Fachhochschule pl=Fachhochschulen
 Fackel noun g=f gen=Fackel pl=Fackeln
 Faden noun g=m gen=Fadens pl=Fäden
+Fado noun g=m gen=Fados pl=Fados
 Fagott noun g=n gen=Fagotts|Fagottes pl=Fagotte
 Fähigkeit noun g=f gen=Fähigkeit pl=Fähigkeiten
 Fahndung noun g=f gen=Fahndung pl=Fahndungen
@@ -35,6 +36,7 @@ Fahrt noun g=f gen=Fahrt pl=Fahrten
 Fährte noun g=f gen=Fährte pl=Fährten
 Fahrzeug noun g=n gen=Fahrzeugs|Fahrzeuges pl=Fahrzeuge
 Fairness noun g=f gen=Fairness pl=- note=no plural
+Fäkalien noun g=pl
 Fake noun g=m|n gen=Fakes pl=Fakes conf=70 note=gender unsure (der/das Fake)
 Faksimile noun g=n gen=Faksimiles pl=Faksimiles
 Fakt noun g=m|n gen=Fakts|Faktes pl=Fakten
@@ -93,6 +95,7 @@ Fauna noun g=f gen=Fauna pl=Faunen|Faunas
 Faust noun g=f gen=Faust pl=Fäuste
 Fauteuil noun g=m gen=Fauteuils pl=Fauteuils
 Favorit noun g=m gen=Favoriten pl=Favoriten
+Favoritin noun g=f gen=Favoritin pl=Favoritinnen
 Fax noun g=n gen=Faxes pl=Faxe
 Fazit noun g=n gen=Fazits pl=Fazits|Fazite
 FC noun g=m gen=FC|FCs pl=FC|FCs note=Fußballclub
@@ -127,11 +130,13 @@ Feldwebel noun g=m gen=Feldwebels pl=Feldwebel
 Felge noun g=f gen=Felge pl=Felgen
 Fell noun g=n gen=Fells|Felles pl=Felle
 Fels noun g=m gen=Felsens|Felses pl=Felsen
+Felsbrocken noun g=m gen=Felsbrockens pl=Felsbrocken
 Felsen noun g=m gen=Felsens pl=Felsen
 Feminismus noun g=m gen=Feminismus pl=- note=mass noun
 Feministin noun g=f gen=Feministin pl=Feministinnen
 Fenchel noun g=m gen=Fenchels pl=Fenchel
 Fenster noun g=n gen=Fensters pl=Fenster
+Fensterheber noun g=m gen=Fensterhebers pl=Fensterheber
 Ferien noun g=pl
 Ferkel noun g=n gen=Ferkels pl=Ferkel
 Fermion noun g=n gen=Fermions pl=Fermionen
@@ -174,6 +179,10 @@ Feuerung noun g=f gen=Feuerung pl=Feuerungen
 Feuerungsanlage noun g=f gen=Feuerungsanlage pl=Feuerungsanlagen note=technical term (furnace plant); Feuerung is not an entry
 Feuerwehr noun g=f gen=Feuerwehr pl=Feuerwehren
 Feuilleton noun g=n gen=Feuilletons pl=Feuilletons
+Fiaker noun g=m gen=Fiakers pl=Fiaker
+Fiale noun g=f gen=Fiale pl=Fialen
+Fiasko noun g=n gen=Fiaskos pl=Fiaskos
+Fibel noun g=f gen=Fibel pl=Fibeln
 Fichte noun g=f gen=Fichte pl=Fichten
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Fieder noun g=f gen=Fieder pl=Fiedern note=leaflet of a pinnate leaf
@@ -186,6 +195,7 @@ Filialkirche noun g=f gen=Filialkirche pl=Filialkirchen
 Film noun g=m gen=Films|Filmes pl=Filme
 Filmemacher noun g=m gen=Filmemachers pl=Filmemacher
 Filmemacherin noun g=f gen=Filmemacherin pl=Filmemacherinnen
+Filmverleih noun g=m gen=Filmverleihs|Filmverleihes pl=Filmverleihe
 Filter noun g=m|n gen=Filters pl=Filter note=der Filter; das Filter in technical usage
 Filz noun g=m gen=Filzes pl=Filze
 Filzstift noun g=m gen=Filzstifts|Filzstiftes pl=Filzstifte
@@ -203,23 +213,28 @@ Fink noun g=m gen=Finken pl=Finken
 Finne noun g=m gen=Finnen pl=Finnen sense=person note=inhabitant of Finland
 Finne noun g=f gen=Finne pl=Finnen sense=fin note=die Finne: fin; also a larval stage of tapeworms
 Finsternis noun g=f gen=Finsternis pl=Finsternisse
+Finte noun g=f gen=Finte pl=Finten
 Firewall noun g=f gen=Firewall pl=Firewalls
 Firma        noun g=f gen=Firma pl=Firmen
 Firmament noun g=n gen=Firmaments|Firmamentes pl=Firmamente
 Firmung noun g=f gen=Firmung pl=Firmungen
+First noun g=m gen=Firsts|Firstes pl=Firste
 Fisch noun g=m gen=Fisches|Fischs pl=Fische
 Fischer noun g=m gen=Fischers pl=Fischer
 Fischerei noun g=f gen=Fischerei pl=Fischereien
 Fischerin noun g=f gen=Fischerin pl=Fischerinnen
 Fiskus noun g=m gen=Fiskus pl=Fiskusse|Fisken conf=80 note=des Fiskus; plural rarely used, both forms unsure
 Fitness noun g=f gen=Fitness pl=- note=mass noun
+Fittich noun g=m gen=Fittichs|Fittiches pl=Fittiche
 Fjord noun g=m gen=Fjords|Fjordes pl=Fjorde
 Fläche noun g=f gen=Fläche pl=Flächen
 Flagge noun g=f gen=Flagge pl=Flaggen
 Flair noun g=n gen=Flairs pl=- note=no plural
 Flak noun g=f gen=Flak pl=Flak|Flaks
+Flame noun g=m gen=Flamen pl=Flamen
 Flamingo noun g=m gen=Flamingos pl=Flamingos
 Flamme noun g=f gen=Flamme pl=Flammen
+Flanell noun g=m gen=Flanells pl=Flanelle
 Flanke noun g=f gen=Flanke pl=Flanken
 Fläschchen noun g=n gen=Fläschchens pl=Fläschchen
 Flasche noun g=f gen=Flasche pl=Flaschen
@@ -230,6 +245,7 @@ Fleck noun g=m gen=Flecks|Fleckes pl=Flecke
 Flecken noun g=m gen=Fleckens pl=Flecken
 Fledermaus noun g=f gen=Fledermaus pl=Fledermäuse
 Fledertier noun g=n gen=Fledertiers|Fledertieres pl=Fledertiere
+Flegel noun g=m gen=Flegels pl=Flegel
 Fleisch noun g=n gen=Fleisches|Fleischs[rare] pl=- note=mass noun
 Fleischer noun g=m gen=Fleischers pl=Fleischer
 Fleischerei noun g=f gen=Fleischerei pl=Fleischereien
@@ -239,6 +255,7 @@ Fleiß noun g=m gen=Fleißes pl=- note=no plural
 Flerovium noun g=n gen=Fleroviums pl=- note=chemical element
 Flexibilisierung noun g=f gen=Flexibilisierung pl=Flexibilisierungen
 Flexibilität noun g=f gen=Flexibilität pl=- note=no plural
+Flexion noun g=f gen=Flexion pl=Flexionen
 Flickzeug noun g=n gen=Flickzeugs|Flickzeuges pl=- note=no plural (mass or abstract noun)
 Flieder noun g=m gen=Flieders pl=Flieder
 Fliege noun g=f gen=Fliege pl=Fliegen
@@ -276,6 +293,7 @@ Flügel noun g=m gen=Flügels pl=Flügel
 Fluglotse noun g=m gen=Fluglotsen pl=Fluglotsen
 Flugsaurier noun g=m gen=Flugsauriers pl=Flugsaurier
 Flugzeug noun g=n gen=Flugzeugs|Flugzeuges pl=Flugzeuge
+Fluid noun g=n gen=Fluids pl=Fluide
 Fluor noun g=n gen=Fluors pl=- note=chemical element
 Fluoreszenz noun g=f gen=Fluoreszenz pl=Fluoreszenzen
 Fluorid noun g=n gen=Fluorids|Fluorides pl=Fluoride
@@ -287,6 +305,7 @@ Flüssigkeit noun g=f gen=Flüssigkeit pl=Flüssigkeiten
 Flut noun g=f gen=Flut pl=Fluten
 Flyer noun g=m gen=Flyers pl=Flyer
 Föderalismus noun g=m gen=Föderalismus pl=- note=mass noun; genitive without ending
+Föderalist noun g=m gen=Föderalisten pl=Föderalisten
 Föderation noun g=f gen=Föderation pl=Föderationen
 Fohlen noun g=n gen=Fohlens pl=Fohlen
 Föhn noun g=m gen=Föhns pl=Föhne
@@ -327,6 +346,7 @@ Forschung noun g=f gen=Forschung pl=Forschungen
 Forst noun g=m gen=Forstes|Forsts pl=Forste|Forsten
 Förster noun g=m gen=Försters pl=Förster
 Försterin noun g=f gen=Försterin pl=Försterinnen
+Forstwart noun g=m gen=Forstwarts|Forstwartes pl=Forstwarte
 Fort noun g=n gen=Forts pl=Forts note=fortress
 Fortbildung noun g=f gen=Fortbildung pl=Fortbildungen
 Fortführung noun g=f gen=Fortführung pl=- note=no plural
@@ -342,6 +362,7 @@ Fotograf noun g=m gen=Fotografen pl=Fotografen
 Fotografie noun g=f gen=Fotografie pl=Fotografien
 Fotografin noun g=f gen=Fotografin pl=Fotografinnen
 Fotosynthese noun g=f gen=Fotosynthese pl=- note=no plural
+Fötus noun g=m gen=Fötus|Fötusses pl=Föten|Fötusse
 Foul noun g=n gen=Fouls pl=Fouls
 Fracht noun g=f gen=Fracht pl=Frachten
 Frachter noun g=m gen=Frachters pl=Frachter
@@ -361,10 +382,12 @@ Franziskanerin noun g=f gen=Franziskanerin pl=Franziskanerinnen
 Franzose noun g=m gen=Franzosen pl=Franzosen
 Französin noun g=f gen=Französin pl=Französinnen
 Französisch noun g=n gen=Französisch|Französischs pl=- conf=80 note=the French language; genitive normally avoided (des Französischen)
+Fräse noun g=f gen=Fräse pl=Fräsen
 Fratze noun g=f gen=Fratze pl=Fratzen
 Frau         noun g=f gen=Frau pl=Frauen
 Frauenrechtler noun g=m gen=Frauenrechtlers pl=Frauenrechtler
 Frauenrechtlerin noun g=f gen=Frauenrechtlerin pl=Frauenrechtlerinnen
+Frauensperson noun g=f gen=Frauensperson pl=Frauenspersonen
 Frauenzimmer noun g=n gen=Frauenzimmers pl=Frauenzimmer style=archaic
 Fräulein noun g=n gen=Fräuleins pl=Fräulein
 Frechheit noun g=f gen=Frechheit pl=Frechheiten
@@ -384,6 +407,7 @@ Freiherr noun g=m gen=Freiherrn pl=Freiherren
 Freiin noun g=f gen=Freiin pl=Freiinnen
 Freilassung noun g=f gen=Freilassung pl=Freilassungen
 Freischaltung noun g=f gen=Freischaltung pl=Freischaltungen
+Freischärler noun g=m gen=Freischärlers pl=Freischärler
 Freisetzung noun g=f gen=Freisetzung pl=Freisetzungen
 Freitag noun g=m gen=Freitags|Freitages pl=Freitage
 Freiwillige noun g=m|f decl=adj
@@ -416,6 +440,7 @@ Frist noun g=f gen=Frist pl=Fristen
 Fristsetzung noun g=f gen=Fristsetzung pl=Fristsetzungen
 Frisur noun g=f gen=Frisur pl=Frisuren
 Frömmigkeit noun g=f gen=Frömmigkeit pl=- note=no plural
+Fronhof noun g=m gen=Fronhofs|Fronhofes pl=Fronhöfe
 Fronleichnam noun g=m gen=Fronleichnams pl=- note=no plural (mass or abstract noun)
 Front noun g=f gen=Front pl=Fronten
 Frosch noun g=m gen=Frosches pl=Frösche
@@ -473,5 +498,7 @@ Fußgängerin noun g=f gen=Fußgängerin pl=Fußgängerinnen
 Fußgängerzone noun g=f gen=Fußgängerzone pl=Fußgängerzonen
 Fußmatte noun g=f gen=Fußmatte pl=Fußmatten note=compound; the analyser would take matt as head
 Fußnote noun g=f gen=Fußnote pl=Fußnoten
+Fußsteig noun g=m gen=Fußsteigs|Fußsteiges pl=Fußsteige
 Futter noun g=n gen=Futters pl=- note=no plural
+Futteral noun g=n gen=Futterals pl=Futterale
 Futur noun g=n gen=Futurs pl=Futura

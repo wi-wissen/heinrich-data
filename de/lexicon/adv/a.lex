@@ -11,6 +11,7 @@ allerorts adv
 allerseits adv
 allerwärts adv
 allesamt adv
+alleweil adv
 allezeit adv
 allseits adv
 allzeit adv

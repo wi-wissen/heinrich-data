@@ -14,9 +14,11 @@ manipulieren verb class=weak pp=manipuliert perf=haben
 marinieren verb class=weak pp=mariniert perf=haben
 markieren verb class=weak pp=markiert perf=haben
 marschieren verb class=weak pp=marschiert perf=sein
+maskieren verb class=weak pp=maskiert perf=haben
 massieren verb class=weak pp=massiert perf=haben
 mäßigen verb class=weak pp=gemäßigt perf=haben
 mästen verb class=weak pp=gemästet perf=haben
+maturieren verb class=weak pp=maturiert perf=haben region=AT|CH
 mauern verb class=weak pp=gemauert perf=haben
 maulen verb class=weak pp=gemault perf=haben
 mausern verb class=weak pp=gemausert perf=haben refl=acc
@@ -28,6 +30,7 @@ meißeln verb class=weak pp=gemeißelt perf=haben
 meistern verb class=weak pp=gemeistert perf=haben
 melden verb class=weak pp=gemeldet perf=haben refl=acc
 melken verb class=weak past=melkte pp=gemolken|gemelkt perf=haben
+mengen verb class=weak pp=gemengt perf=haben
 merken verb class=weak pp=gemerkt perf=haben refl=dat
 messen verb class=strong 3sg=misst past=maß pp=gemessen subj2=mäße perf=haben refl=acc
 miauen verb class=weak pp=miaut perf=haben note=Partizip II without ge- (stress on the second syllable)
@@ -106,6 +109,7 @@ modeln verb class=weak pp=gemodelt perf=haben
 moderieren verb class=weak pp=moderiert perf=haben
 modernisieren verb class=weak pp=modernisiert perf=haben
 modifizieren verb class=weak pp=modifiziert perf=haben
+modulieren verb class=weak pp=moduliert perf=haben
 mogeln verb class=weak pp=gemogelt perf=haben
 monieren verb class=weak pp=moniert perf=haben
 montieren verb class=weak pp=montiert perf=haben

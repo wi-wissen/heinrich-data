@@ -26,6 +26,7 @@ feierlich adj cmp=feierlicher sup=feierlichsten
 feige adj cmp=feiger sup=feigsten
 fein adj cmp=feiner sup=feinsten
 feindlich adj
+feist adj cmp=feister sup=feistesten
 felsig adj cmp=felsiger sup=felsigsten
 feministisch adj
 fermionisch adj
@@ -34,10 +35,12 @@ fertig adj
 fertil adj
 fest adj cmp=fester sup=festesten
 festlich adj
+festverzinslich adj
 fett adj cmp=fetter sup=fettesten
 fettig adj cmp=fettiger sup=fettigsten
 feucht adj cmp=feuchter sup=feuchtesten
 feurig adj cmp=feuriger sup=feurigsten
+fidel adj attr=fidele cmp=fideler sup=fidelsten
 fiebrig adj
 fies adj cmp=fieser sup=fiesesten
 figürlich adj

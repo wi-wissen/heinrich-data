@@ -11,4 +11,5 @@ rücklings adv
 rückwärts adv type=direction
 rum adv type=direction style=colloquial alt=herum note=short for herum
 rundherum adv type=place
+rundweg adv
 runter adv style=colloquial alt=herunter|hinunter note=short for herunter, hinunter

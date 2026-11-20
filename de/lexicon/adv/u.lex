@@ -11,6 +11,7 @@ ungern adv type=manner
 unglücklicherweise adv
 unisono adv
 unlängst adv type=time
+unnötigerweise adv
 unsererseits adv
 unterdes adv
 unterdessen adv type=time

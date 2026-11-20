@@ -55,6 +55,7 @@ vermögend adj cmp=vermögender sup=vermögendsten
 vermutlich adj
 vernünftig adj
 verquollen adj cmp=verquollener sup=verquollensten
+verrucht adj cmp=verruchter sup=verruchtesten
 verrückt adj cmp=verrückter sup=verrücktesten
 verschämt adj cmp=verschämter sup=verschämtesten
 verschieden adj cmp=verschiedener sup=verschiedensten
@@ -72,6 +73,7 @@ versicherungspflichtig adj
 verspielt adj cmp=verspielter sup=verspieltesten
 verständig adj cmp=verständiger sup=verständigsten
 verständlich adj cmp=verständlicher sup=verständlichsten
+verstockt adj cmp=verstockter sup=verstocktesten
 verstohlen adj cmp=verstohlener sup=verstohlensten
 versunken adj
 vertikal adj
@@ -90,6 +92,7 @@ verworren adj cmp=verworrener sup=verworrensten
 verwunderlich adj
 verwundert adj cmp=verwunderter sup=verwundertsten
 verwundet adj
+verzeihlich adj cmp=verzeihlicher sup=verzeihlichsten
 verzogen adj
 verzweifelt adj cmp=verzweifelter sup=verzweifeltsten
 viel         adj cmp=mehr sup=meisten cmp_indecl
@@ -105,6 +108,7 @@ vietnamesisch adj
 viktorianisch adj
 violett adj
 viral adj
+virologisch adj
 virtuell adj
 visuell adj
 völkerrechtlich adj

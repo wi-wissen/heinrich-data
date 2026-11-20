@@ -16,11 +16,14 @@ einigermaßen adv
 einstmals adv
 einstweilen adv type=time
 einwärts adv
+elendiglich adv
 empor adv type=direction
 erfahrungsgemäß adv
 erforderlichenfalls adv
 erfreulicherweise adv
+ergo adv
 erstlich adv style=archaic note=firstly
 erstmals adv type=time
+erwiesenermaßen adv
 ewiglich adv style=archaic
 extra adv type=degree

@@ -15,6 +15,7 @@ hänseln verb class=weak pp=gehänselt perf=haben
 harken verb class=weak pp=geharkt perf=haben
 harmonisieren verb class=weak pp=harmonisiert perf=haben
 harren verb class=weak pp=geharrt perf=haben
+haschen verb class=weak pp=gehascht perf=haben
 hassen verb class=weak pp=gehasst perf=haben
 hasten verb class=weak pp=gehastet perf=sein
 hauchen verb class=weak pp=gehaucht perf=haben
@@ -264,6 +265,7 @@ hervortreten verb class=strong sep=hervor 3sg=hervortritt past=hervortrat pp=her
 hervortun verb class=strong sep=hervor pres=hervortue,hervortust,hervortut,hervortun,hervortut,hervortun past=hervortat pp=hervorgetan subj2=hervortäte perf=haben refl=acc note=sich hervortun
 hervorziehen verb class=strong sep=hervor 3sg=hervorzieht past=hervorzog pp=hervorgezogen subj2=hervorzöge perf=haben
 herzeigen verb class=weak sep=her pp=hergezeigt perf=haben
+herzen verb class=weak pp=geherzt perf=haben
 herziehen verb class=strong sep=her 3sg=herzieht past=herzog subj2=herzöge pp=hergezogen perf=haben|sein
 hetzen verb class=weak pp=gehetzt perf=haben|sein
 heucheln verb class=weak pp=geheuchelt perf=haben
@@ -438,6 +440,7 @@ hinzusetzen verb class=weak sep=hinzu pp=hinzugesetzt perf=haben note=etwas hinz
 hinzutreten verb class=strong sep=hinzu 3sg=hinzutritt past=hinzutrat pp=hinzugetreten subj2=hinzuträte perf=sein
 hinzuverdienen verb class=weak sep=hinzu pp=hinzuverdient perf=haben
 hinzuziehen verb class=strong sep=hinzu 3sg=hinzuzieht past=hinzuzog pp=hinzugezogen subj2=hinzuzöge perf=haben note=einen Arzt hinzuziehen
+hissen verb class=weak pp=gehisst perf=haben
 hochdrücken verb class=weak sep=hoch pp=hochgedrückt perf=haben
 hochfahren verb class=strong sep=hoch 3sg=hochfährt past=hochfuhr pp=hochgefahren subj2=hochführe perf=haben|sein
 hochfliegen verb class=strong sep=hoch 3sg=hochfliegt past=hochflog subj2=hochflöge pp=hochgeflogen perf=sein

@@ -67,6 +67,7 @@ deinstallieren verb class=weak pp=deinstalliert perf=haben
 deklarieren verb class=weak pp=deklariert perf=haben
 dekorieren verb class=weak pp=dekoriert perf=haben
 delegieren verb class=weak pp=delegiert perf=haben
+dementieren verb class=weak pp=dementiert perf=haben
 demonstrieren verb class=weak pp=demonstriert perf=haben
 demontieren verb class=weak pp=demontiert perf=haben
 demütigen verb class=weak pp=gedemütigt perf=haben
@@ -78,6 +79,7 @@ desinfizieren verb class=weak pp=desinfiziert perf=haben
 destillieren verb class=weak pp=destilliert perf=haben
 detaillieren verb class=weak pp=detailliert perf=haben
 deuten verb class=weak pp=gedeutet perf=haben
+devastieren verb class=weak pp=devastiert perf=haben
 diagnostizieren verb class=weak pp=diagnostiziert perf=haben
 dichten verb class=weak pp=gedichtet perf=haben
 dienen        verb class=weak pp=gedient perf=haben
@@ -102,7 +104,7 @@ dösen verb class=weak pp=gedöst perf=haben
 dotieren verb class=weak pp=dotiert perf=haben
 downloaden verb class=weak pp=gedownloadet perf=haben
 draften verb class=weak pp=gedraftet perf=haben
-dranbleiben verb class=strong sep=dran 3sg=dranbleibt past=dranblieb pp=drangeblieben subj2=dranbliebe perf=sein style=colloquial
+dranbleiben verb class=strong sep=dran 3sg=dranbleibt past=dranblieb pp=drangeblieben subj2=dranbliebe perf=sein
 drängeln verb class=weak pp=gedrängelt perf=haben
 drängen verb class=weak pp=gedrängt perf=haben|sein refl=acc
 drangsalieren verb class=weak pp=drangsaliert perf=haben

@@ -95,6 +95,7 @@ Neandertaler noun g=m gen=Neandertalers pl=Neandertaler
 Neapolitaner noun g=m gen=Neapolitaners pl=Neapolitaner
 Nebel noun g=m gen=Nebels pl=Nebel
 Nebenbuhler noun g=m gen=Nebenbuhlers pl=Nebenbuhler
+Nebenbuhlerin noun g=f gen=Nebenbuhlerin pl=Nebenbuhlerinnen
 Nebendarstellerin noun g=f gen=Nebendarstellerin pl=Nebendarstellerinnen note=compound not split by the analyser
 Nebenhandlung noun g=f gen=Nebenhandlung pl=Nebenhandlungen
 Nebenrolle noun g=f gen=Nebenrolle pl=Nebenrollen
@@ -119,6 +120,7 @@ Nennform noun g=f gen=Nennform pl=Nennformen
 Nennung noun g=f gen=Nennung pl=Nennungen
 Neodym noun g=n gen=Neodyms pl=- note=chemical element
 Neogen noun g=n gen=Neogens pl=- note=geological period
+Neoklassizismus noun g=m gen=Neoklassizismus pl=- note=no plural
 Neolithikum noun g=n gen=Neolithikums pl=- note=epoch
 Neologismus noun g=m gen=Neologismus pl=Neologismen
 Neon noun g=n gen=Neons pl=- note=chemical element; noble gas
@@ -140,10 +142,13 @@ Neugierde noun g=f gen=Neugierde pl=- note=abstract noun
 Neuigkeit noun g=f gen=Neuigkeit pl=Neuigkeiten
 Neujahr noun g=n gen=Neujahrs pl=Neujahre
 Neuling noun g=m gen=Neulings pl=Neulinge
+Neuntöter noun g=m gen=Neuntöters pl=Neuntöter
+Neurochirurgie noun g=f gen=Neurochirurgie pl=- note=no plural
 Neuroleptikum noun g=n gen=Neuroleptikums pl=Neuroleptika
 Neurologe noun g=m gen=Neurologen pl=Neurologen
 Neurologie noun g=f gen=Neurologie pl=- note=field of medicine
 Neurologin noun g=f gen=Neurologin pl=Neurologinnen
+Neuron noun g=n gen=Neurons pl=Neuronen|Neurone
 Neurotiker noun g=m gen=Neurotikers pl=Neurotiker
 Neutralität noun g=f gen=Neutralität pl=- note=abstract noun
 Neutrino noun g=n gen=Neutrinos pl=Neutrinos
@@ -181,6 +186,7 @@ Niob noun g=n gen=Niobs pl=- note=chemical element
 Nische noun g=f gen=Nische pl=Nischen
 Nitrat noun g=n gen=Nitrats|Nitrates pl=Nitrate
 Nitrid noun g=n gen=Nitrids|Nitrides pl=Nitride
+Nitrit noun g=n gen=Nitrits pl=Nitrite
 Niveau noun g=n gen=Niveaus pl=Niveaus
 Nixe noun g=f gen=Nixe pl=Nixen
 Nobelium noun g=n gen=Nobeliums pl=- note=chemical element
@@ -201,9 +207,11 @@ Normanne noun g=m gen=Normannen pl=Normannen
 Normung noun g=f gen=Normung pl=Normungen
 Norweger noun g=m gen=Norwegers pl=Norweger
 Norwegerin noun g=f gen=Norwegerin pl=Norwegerinnen
+Nostalgie noun g=f gen=Nostalgie pl=- note=no plural
 Not noun g=f gen=Not pl=Nöte
 Notar noun g=m gen=Notars pl=Notare
 Notarin noun g=f gen=Notarin pl=Notarinnen
+Notdurft noun g=f gen=Notdurft pl=- note=no plural
 Note noun g=f gen=Note pl=Noten
 Notebook noun g=n gen=Notebooks pl=Notebooks
 Noten noun g=pl
@@ -215,6 +223,7 @@ Nougat noun g=m|n gen=Nougats pl=Nougats
 Novelle noun g=f gen=Novelle pl=Novellen
 Novellierung noun g=f gen=Novellierung pl=Novellierungen
 November noun g=m gen=November|Novembers pl=November[rare] note=month name; plural rare
+Novize noun g=m gen=Novizen pl=Novizen
 Noviziat noun g=n gen=Noviziats|Noviziates pl=Noviziate
 Novum noun g=n gen=Novums pl=Nova
 Nuance noun g=f gen=Nuance pl=Nuancen
@@ -226,6 +235,7 @@ Nukleon noun g=n gen=Nukleons pl=Nukleonen
 Nuklid noun g=n gen=Nuklids|Nuklides pl=Nuklide
 Null noun g=f gen=Null pl=Nullen note=die Null; the numeral null is in closed/
 Numerus noun g=m gen=Numerus pl=Numeri note=Latin loanword; genitive without -es
+Numismatik noun g=f gen=Numismatik pl=- note=no plural
 Numismatiker noun g=m gen=Numismatikers pl=Numismatiker
 Nummer noun g=f gen=Nummer pl=Nummern
 Nummerierung noun g=f gen=Nummerierung pl=Nummerierungen

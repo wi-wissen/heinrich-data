@@ -6,6 +6,7 @@ lackieren verb class=weak pp=lackiert perf=haben
 laden verb class=strong 3sg=lädt past=lud pp=geladen subj2=lüde perf=haben
 lagern verb class=weak pp=gelagert perf=haben
 lähmen verb class=weak pp=gelähmt perf=haben
+lallen verb class=weak pp=gelallt perf=haben
 lamentieren verb class=weak pp=lamentiert perf=haben
 laminieren verb class=weak pp=laminiert perf=haben
 lancieren verb class=weak pp=lanciert perf=haben

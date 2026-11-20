@@ -149,6 +149,7 @@ Werdegang noun g=m gen=Werdegangs|Werdeganges pl=Werdegänge
 Werder noun g=m gen=Werders pl=Werder note=river island
 Werfer noun g=m gen=Werfers pl=Werfer
 Werft noun g=f gen=Werft pl=Werften
+Werg noun g=n gen=Wergs|Werges pl=- note=no plural
 Werk noun g=n gen=Werkes|Werks pl=Werke
 Werken noun g=n gen=Werkens pl=- note=school subject; no plural
 Werkstatt noun g=f gen=Werkstatt pl=Werkstätten
@@ -182,6 +183,7 @@ Widder noun g=m gen=Widders pl=Widder
 Widerhall noun g=m gen=Widerhalls|Widerhalles pl=Widerhalle
 Widerruf noun g=m gen=Widerrufs|Widerrufes pl=Widerrufe
 Widersacher noun g=m gen=Widersachers pl=Widersacher
+Widersetzlichkeit noun g=f gen=Widersetzlichkeit pl=Widersetzlichkeiten
 Widerspruch noun g=m gen=Widerspruchs|Widerspruches[rare] pl=Widersprüche
 Widerstand noun g=m gen=Widerstandes|Widerstands pl=Widerstände
 Widerstandskämpfer noun g=m gen=Widerstandskämpfers pl=Widerstandskämpfer
@@ -190,6 +192,7 @@ Wiederaufbau noun g=m gen=Wiederaufbaus|Wiederaufbaues pl=- note=no plural
 Wiederaufforstung noun g=f gen=Wiederaufforstung pl=Wiederaufforstungen
 Wiederbelebung noun g=f gen=Wiederbelebung pl=Wiederbelebungen
 Wiedereinsetzung noun g=f gen=Wiedereinsetzung pl=Wiedereinsetzungen
+Wiedererstarken noun g=n gen=Wiedererstarkens pl=- note=no plural
 Wiedergutmachung noun g=f gen=Wiedergutmachung pl=- note=no plural
 Wiederherstellung noun g=f gen=Wiederherstellung pl=- note=no plural
 Wiederholung noun g=f gen=Wiederholung pl=Wiederholungen
@@ -239,7 +242,9 @@ Wirkstoff noun g=m gen=Wirkstoffs|Wirkstoffes pl=Wirkstoffe
 Wirkung noun g=f gen=Wirkung pl=Wirkungen
 Wirren noun g=pl
 Wirrnis noun g=f gen=Wirrnis pl=Wirrnisse
+Wirrung noun g=f gen=Wirrung pl=Wirrungen
 Wirrwarr noun g=m gen=Wirrwarrs pl=- note=no plural
+Wirsing noun g=m gen=Wirsings pl=- note=mass noun
 Wirt noun g=m gen=Wirtes|Wirts[rare] pl=Wirte
 Wirtel noun g=m gen=Wirtels pl=Wirtel
 Wirtin noun g=f gen=Wirtin pl=Wirtinnen
@@ -265,6 +270,7 @@ Wochenende noun g=n gen=Wochenendes pl=Wochenenden
 Woge noun g=f gen=Woge pl=Wogen
 Wohl noun g=n gen=Wohls|Wohles pl=- note=das Wohl; no plural
 Wohlgefallen noun g=n gen=Wohlgefallens pl=- note=no plural
+Wohlhabenheit noun g=f gen=Wohlhabenheit pl=- note=no plural
 Wohlsein noun g=n gen=Wohlseins pl=- note=no plural
 Wohlstand noun g=m gen=Wohlstands|Wohlstandes pl=- note=no plural
 Wohlwollen noun g=n gen=Wohlwollens pl=- note=no plural
@@ -283,6 +289,7 @@ Woiwodschaft noun g=f gen=Woiwodschaft pl=Woiwodschaften
 Wok noun g=m gen=Woks pl=Woks
 Wölbung noun g=f gen=Wölbung pl=Wölbungen
 Wolf noun g=m gen=Wolfes|Wolfs[rare] pl=Wölfe
+Wölfin noun g=f gen=Wölfin pl=Wölfinnen
 Wolfram noun g=m gen=Wolframs pl=- note=chemical element; no plural
 Wolfsrudel noun g=n gen=Wolfsrudels pl=Wolfsrudel
 Wölkchen noun g=n gen=Wölkchens pl=Wölkchen
@@ -306,6 +313,7 @@ Wucherer noun g=m gen=Wucherers pl=Wucherer
 Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
+Wulst noun g=m gen=Wulstes pl=Wülste conf=85 note=der Wulst, also die Wulst
 Wunde noun g=f gen=Wunde pl=Wunden
 Wunder noun g=n gen=Wunders pl=Wunder
 Wunsch noun g=m gen=Wunsches|Wunschs[rare] pl=Wünsche

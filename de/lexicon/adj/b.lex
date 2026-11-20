@@ -5,6 +5,7 @@ baltisch adj
 banal adj cmp=banaler sup=banalsten
 bang adj cmp=banger|bänger sup=bangsten|bängsten
 bange adj cmp=banger|bänger sup=bangsten|bängsten conf=85 note=comparative and superlative with and without umlaut
+bangladeschisch adj
 bankrott adj
 bar adj
 barbarisch adj cmp=barbarischer sup=barbarischsten
@@ -73,9 +74,11 @@ bemerkenswert adj cmp=bemerkenswerter sup=bemerkenswertesten
 benachbart adj
 bequem adj cmp=bequemer sup=bequemsten
 beredt adj cmp=beredter sup=beredtesten
+bereift adj
 bereit adj
 bergig adj cmp=bergiger sup=bergigsten
 bergisch adj
+beritten adj
 bernisch adj
 berüchtigt adj cmp=berüchtigter sup=berüchtigtsten
 beruflich adj
@@ -87,6 +90,7 @@ bescheuert adj cmp=bescheuerter sup=bescheuertsten style=colloquial alt=dumm
 beschreibend adj
 beschwerlich adj
 besiegt adj
+besoffen adj cmp=besoffener sup=besoffensten style=colloquial
 besonder      adj note=only declined forms (besondere, besonderer); the adverb is besonders
 besorgt adj cmp=besorgter sup=besorgtesten
 bessergestellt adj

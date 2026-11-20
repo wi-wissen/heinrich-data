@@ -14,6 +14,7 @@ gebären verb class=strong 3sg=gebiert|gebärt[rare] past=gebar|gebahr[archaic] 
 geben verb class=strong 3sg=gibt past=gab pp=gegeben subj2=gäbe perf=haben imp=gib|gieb[old],gebt
 gebieten verb class=strong 3sg=gebietet past=gebot pp=geboten subj2=gebote perf=haben
 gebrauchen verb class=weak pp=gebraucht perf=haben
+gebrechen verb class=strong 3sg=gebricht past=gebrach pp=gebrochen subj2=gebräche perf=haben style=archaic note=es gebricht an
 gebühren verb class=weak pp=gebührt perf=haben
 gedeihen verb class=strong 3sg=gedeiht past=gedieh pp=gediehen subj2=gediehe perf=sein
 gedenken verb class=mixed 3sg=gedenkt past=gedachte pp=gedacht subj2=gedächte perf=haben note=mit Genitiv (gedenkt der Toten)
@@ -48,6 +49,7 @@ genießen verb class=strong 3sg=genießt past=genoss pp=genossen subj2=genösse 
 genügen verb class=weak pp=genügt perf=haben
 geraten verb class=strong 3sg=gerät past=geriet pp=geraten subj2=geriete perf=sein
 gereichen verb class=weak pp=gereicht perf=haben note=zur Ehre gereichen
+gereuen verb class=weak pp=gereut perf=haben
 gerinnen verb class=strong 3sg=gerinnt past=gerann pp=geronnen subj2=gerönne|geränne perf=sein
 geschehen verb class=strong 3sg=geschieht past=geschah pp=geschehen subj2=geschähe perf=sein
 gesellen verb class=weak pp=gesellt perf=haben refl=acc
@@ -71,6 +73,7 @@ glasieren verb class=weak pp=glasiert perf=haben
 glätten verb class=weak pp=geglättet perf=haben
 glauben verb class=weak pp=geglaubt perf=haben
 gleichen verb class=strong 3sg=gleicht past=glich pp=geglichen subj2=gliche perf=haben
+gleichkommen verb class=strong sep=gleich 3sg=gleichkommt past=gleichkam pp=gleichgekommen subj2=gleichkäme perf=sein
 gleichstellen verb class=weak sep=gleich pp=gleichgestellt perf=haben
 gleiten verb class=strong 3sg=gleitet past=glitt pp=geglitten subj2=glitte perf=sein
 gliedern verb class=weak pp=gegliedert perf=haben refl=acc

@@ -77,6 +77,7 @@ höllisch adj
 hölzern adj
 homogen adj cmp=homogener sup=homogensten
 homosexuell adj
+honduranisch adj
 horizontal adj
 hübsch adj cmp=hübscher sup=hübschesten
 hügelig adj cmp=hügeliger sup=hügeligsten

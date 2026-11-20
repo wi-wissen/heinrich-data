@@ -40,6 +40,7 @@ tolerieren verb class=weak pp=toleriert perf=haben
 tollen verb class=weak pp=getollt perf=haben|sein
 tönen verb class=weak pp=getönt perf=haben
 töpfern verb class=weak pp=getöpfert perf=haben
+toppen verb class=weak pp=getoppt perf=haben
 torkeln verb class=weak pp=getorkelt perf=haben|sein
 tosen verb class=weak pp=getost perf=haben
 töten verb class=weak pp=getötet perf=haben

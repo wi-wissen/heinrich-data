@@ -5,6 +5,7 @@ radioaktiv adj
 rapide adj cmp=rapider sup=rapidesten
 rasant adj
 rasch adj cmp=rascher sup=raschesten
+rassisch adj
 rassistisch adj
 rational adj
 rationell adj cmp=rationeller sup=rationellsten
@@ -28,6 +29,7 @@ rechtzeitig adj
 redaktionell adj
 redlich adj cmp=redlicher sup=redlichsten
 reell adj
+reetgedeckt adj
 reflexiv adj
 rege adj cmp=reger sup=regsten
 regelmäßig adj
@@ -56,6 +58,7 @@ respektvoll adj cmp=respektvoller sup=respektvollsten
 restlich adj
 restriktiv adj cmp=restriktiver sup=restriktivsten
 retrograd adj
+reversibel adj
 revolutionär adj cmp=revolutionärer sup=revolutionärsten
 rezent adj
 rheinisch adj
@@ -81,8 +84,10 @@ royal adj
 rückgängig adj
 rückläufig adj
 rückwärtig adj
+rückwärtsgewandt adj
 rückwirkend adj
 ruhig adj cmp=ruhiger sup=ruhigsten note=adjective use; the particle use (du kannst ruhig kommen) is in closed/particles.lex
+rühmlich adj cmp=rühmlicher sup=rühmlichsten
 rumänisch adj
 rund adj cmp=runder sup=rundesten
 rundbogig adj

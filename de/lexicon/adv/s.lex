@@ -14,14 +14,18 @@ seinerzeit adv type=time
 seitwärts adv
 selbstredend adv
 selten adv type=time cmp=seltener sup=seltensten note=er kommt selten
+seltsamerweise adv
 sinnvollerweise adv
 sogleich adv type=time
 sonach adv style=archaic
+sonstwie adv
 sozusagen adv type=modal
 späterhin adv type=time
 spätestens adv type=time
 stracks adv
+stromab adv
 stromabwärts adv
+stromauf adv
 stromaufwärts adv
 südwärts adv type=direction
 sukzessive adv

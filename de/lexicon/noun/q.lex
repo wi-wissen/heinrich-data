@@ -5,6 +5,7 @@ Quadrat noun g=n gen=Quadrats|Quadrates pl=Quadrate
 Quadratkilometer noun g=m gen=Quadratkilometers pl=Quadratkilometer
 Quadratmeter noun g=m|n gen=Quadratmeters pl=Quadratmeter
 Quadratur noun g=f gen=Quadratur pl=Quadraturen
+Quadrille noun g=f gen=Quadrille pl=Quadrillen
 Quäker noun g=m gen=Quäkers pl=Quäker
 Qual noun g=f gen=Qual pl=Qualen
 Qualifikant noun g=m gen=Qualifikanten pl=Qualifikanten
@@ -28,6 +29,7 @@ Quell noun g=m gen=Quells|Quelles pl=- conf=85 note=poetic variant of Quelle; pl
 Quelle noun g=f gen=Quelle pl=Quellen
 Quereinsteiger noun g=m gen=Quereinsteigers pl=Quereinsteiger
 Quereinsteigerin noun g=f gen=Quereinsteigerin pl=Quereinsteigerinnen
+Querelen noun g=pl
 Querflöte noun g=f gen=Querflöte pl=Querflöten
 Querschnitt noun g=m gen=Querschnitts|Querschnittes pl=Querschnitte
 Quiche noun g=f gen=Quiche pl=Quiches

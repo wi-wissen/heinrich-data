@@ -11,6 +11,8 @@ Jahrhundert noun g=n gen=Jahrhunderts|Jahrhundertes pl=Jahrhunderte
 Jahrtausend noun g=n gen=Jahrtausends pl=Jahrtausende
 Jahrzehnt noun g=n gen=Jahrzehnts|Jahrzehntes pl=Jahrzehnte
 Jainismus noun g=m gen=Jainismus pl=- note=religion; no plural
+Jakobiner noun g=m gen=Jakobiners pl=Jakobiner
+Jakobit noun g=m gen=Jakobiten pl=Jakobiten
 Jalousie noun g=f gen=Jalousie pl=Jalousien
 Jambus noun g=m gen=Jambus pl=Jamben note=Latin loanword; genitive without -es
 Jammer noun g=m gen=Jammers pl=- note=mass noun
@@ -21,12 +23,14 @@ Japaner noun g=m gen=Japaners pl=Japaner
 Japanerin noun g=f gen=Japanerin pl=Japanerinnen
 Jargon noun g=m gen=Jargons pl=Jargons
 Jarl noun g=m gen=Jarls pl=Jarle
+Jauche noun g=f gen=Jauche pl=Jauchen
 Jawort noun g=n gen=Jaworts|Jawortes pl=Jaworte
 Jazz noun g=m gen=Jazz|Jazzes pl=- note=mass noun
 Jeans noun g=f gen=Jeans pl=Jeans note=die Jeans, also plural only
 Jesuit noun g=m gen=Jesuiten pl=Jesuiten
 Jesuskind noun g=n gen=Jesuskinds|Jesuskindes pl=- note=das Jesuskind; lexicalised religious term
 Jetlag noun g=m gen=Jetlags pl=Jetlags
+Jetztzeit noun g=f gen=Jetztzeit pl=- note=no plural
 Job noun g=m gen=Jobs pl=Jobs
 Jobcenter noun g=n gen=Jobcenters pl=Jobcenter
 Jobsharing noun g=n gen=Jobsharings pl=- note=mass noun
@@ -38,6 +42,8 @@ Johannisbeere noun g=f gen=Johannisbeere pl=Johannisbeeren
 Johanniter noun g=m gen=Johanniters pl=Johanniter
 Joint noun g=m gen=Joints pl=Joints
 Joker noun g=m gen=Jokers pl=Joker
+Joppe noun g=f gen=Joppe pl=Joppen
+Jota noun g=n gen=Jotas pl=Jotas
 Joule noun g=n gen=Joule|Joules pl=Joule note=unit of energy
 Journal noun g=n gen=Journals pl=Journale
 Journalismus noun g=m gen=Journalismus pl=- note=no plural
@@ -56,6 +62,7 @@ Judoka noun g=m gen=Judoka|Judokas pl=Judoka|Judokas note=also feminine (die Jud
 Jugend noun g=f gen=Jugend pl=- note=plural not used
 Jugendherberge noun g=f gen=Jugendherberge pl=Jugendherbergen note=the analyser would take Berg as head
 Jugendliche noun g=m|f decl=adj
+Jugoslawe noun g=m gen=Jugoslawen pl=Jugoslawen
 Juli noun g=m sg=Juli,Juli|Julis,Juli,Juli pl=- note=month name; plural not used
 Junge        noun g=m gen=Jungen pl=Jungen note=weak masculine (n-declension)
 Junge noun g=m gen=Jungen pl=Jungen|Jungs[colloquial]|Jungens[colloquial] sense=boy note=weak masculine; Jungens is the colloquial plural (also Jungs)
@@ -74,6 +81,7 @@ Jurisprudenz noun g=f gen=Jurisprudenz pl=- note=no plural
 Jurist noun g=m gen=Juristen pl=Juristen
 Juristin noun g=f gen=Juristin pl=Juristinnen
 Juror noun g=m gen=Jurors pl=Juroren
+Jurte noun g=f gen=Jurte pl=Jurten
 Jury noun g=f gen=Jury pl=Jurys|Juries
 Jus noun g=n gen=Jus pl=- conf=80 note=law as a field of study (Jus studieren) or meat juice; gender of the sauce sense varies
 Justiz noun g=f gen=Justiz pl=- note=plural not used

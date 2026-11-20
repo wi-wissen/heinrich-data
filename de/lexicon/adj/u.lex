@@ -8,6 +8,7 @@
 übermütig adj cmp=übermütiger sup=übermütigsten
 überrascht adj cmp=überraschter sup=überraschtesten
 überschuldet adj
+überschwänglich adj cmp=überschwänglicher sup=überschwänglichsten
 überteuert adj
 übertragen adj
 überzeugend adj cmp=überzeugender sup=überzeugendsten
@@ -18,6 +19,7 @@ ukrainisch adj
 umfangreich adj cmp=umfangreicher sup=umfangreichsten
 umgangssprachlich adj
 umgehend adj note=immediately; participle of umgehen used as adjective/adverb
+umlagepflichtig adj
 umliegend adj attr_only note=die umliegenden Dörfer
 umseitig adj
 umständlich adj cmp=umständlicher sup=umständlichsten
@@ -31,7 +33,10 @@ unartig adj cmp=unartiger sup=unartigsten
 unaufhaltsam adj
 unaufhörlich adj
 unaufmerksam adj cmp=unaufmerksamer sup=unaufmerksamsten
+unausbleiblich adj
+unauslöschlich adj
 unaussprechlich adj
+unausstehlich adj cmp=unausstehlicher sup=unausstehlichsten
 unbändig adj cmp=unbändiger sup=unbändigsten
 unbarmherzig adj cmp=unbarmherziger sup=unbarmherzigsten
 unbefangen adj
@@ -65,10 +70,12 @@ unentbehrlich adj
 unentgeltlich adj
 unentwegt adj
 unerbittlich adj cmp=unerbittlicher sup=unerbittlichsten
+unergründlich adj
 unerlässlich adj
 unerledigt adj
 unermüdlich adj
 unerreichbar adj
+unersättlich adj cmp=unersättlicher sup=unersättlichsten
 unerschöpflich adj cmp=unerschöpflicher sup=unerschöpflichsten
 unerschütterlich adj cmp=unerschütterlicher sup=unerschütterlichsten
 unerträglich adj

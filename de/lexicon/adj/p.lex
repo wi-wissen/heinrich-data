@@ -2,7 +2,9 @@ pädagogisch adj
 pakistanisch adj
 palästinensisch adj
 palliativ adj
+panamaisch adj
 panamerikanisch adj
+pandemisch adj
 panisch adj cmp=panischer sup=panischsten
 päpstlich adj
 paraguayisch adj
@@ -34,6 +36,7 @@ pfälzisch adj
 pfiffig adj cmp=pfiffiger sup=pfiffigsten
 pflanzlich adj
 pflegerisch adj
+pflegesensitiv adj
 pflichtgemäß adj
 phantastisch adj cmp=phantastischer sup=phantastischsten note=variant spelling of fantastisch, both valid
 pharmazeutisch adj
@@ -111,6 +114,7 @@ psychoanalytisch adj
 psychologisch adj
 psychosozial adj
 psychotherapeutisch adj
+publizistisch adj
 pünktlich adj cmp=pünktlicher sup=pünktlichsten
 punktuell adj
 putzig adj cmp=putziger sup=putzigsten

@@ -45,6 +45,7 @@ beeinflussen verb class=weak pp=beeinflusst perf=haben
 beeinträchtigen verb class=weak pp=beeinträchtigt perf=haben
 beenden       verb class=weak pp=beendet perf=haben
 beendigen verb class=weak pp=beendigt perf=haben
+beerben verb class=weak pp=beerbt perf=haben
 beerdigen verb class=weak pp=beerdigt perf=haben
 befähigen verb class=weak pp=befähigt perf=haben
 befahren verb class=strong 3sg=befährt past=befuhr pp=befahren subj2=beführe perf=haben
@@ -65,6 +66,7 @@ befreunden verb class=weak refl=acc pp=befreundet perf=haben
 befriedigen verb class=weak pp=befriedigt perf=haben
 befristen verb class=weak pp=befristet perf=haben
 befruchten verb class=weak pp=befruchtet perf=haben
+befühlen verb class=weak pp=befühlt perf=haben
 befürchten verb class=weak pp=befürchtet perf=haben
 befürworten verb class=weak pp=befürwortet perf=haben
 begeben verb class=strong refl=acc 3sg=begibt past=begab pp=begeben subj2=begäbe perf=haben
@@ -163,6 +165,7 @@ bemächtigen verb class=weak pp=bemächtigt perf=haben refl=acc note=sich einer 
 bemalen verb class=weak pp=bemalt perf=haben
 bemängeln verb class=weak pp=bemängelt perf=haben
 bemannen verb class=weak pp=bemannt perf=haben
+bemeistern verb class=weak pp=bemeistert perf=haben
 bemerken verb class=weak pp=bemerkt perf=haben
 bemessen verb class=strong 3sg=bemisst past=bemaß pp=bemessen subj2=bemäße perf=haben
 bemitleiden verb class=weak pp=bemitleidet perf=haben
@@ -172,6 +175,7 @@ benachteiligen verb class=weak pp=benachteiligt perf=haben
 benehmen verb class=strong 3sg=benimmt past=benahm subj2=benähme pp=benommen perf=haben refl=acc
 beneiden verb class=weak pp=beneidet perf=haben
 benennen      verb class=mixed 3sg=benennt past=benannte pp=benannt subj2=benennte perf=haben
+benetzen verb class=weak pp=benetzt perf=haben
 benoten verb class=weak pp=benotet perf=haben
 benötigen     verb class=weak pp=benötigt perf=haben
 benutzen      verb class=weak pp=benutzt perf=haben
@@ -196,6 +200,7 @@ bergen verb class=strong 3sg=birgt past=barg pp=geborgen subj2=bärge|bürge[rar
 bergsteigen verb class=strong sep=berg 3sg=bergsteigt past=bergstieg pp=berggestiegen subj2=bergstiege perf=sein conf=70 note=mostly used as infinitive (bergsteigen gehen)
 berichten     verb class=weak pp=berichtet perf=haben
 berichtigen verb class=weak pp=berichtigt perf=haben
+bersten verb class=strong pres=berste,birst,birst,bersten,berstet,bersten past=barst pp=geborsten subj2=bärste perf=sein
 berücksichtigen verb class=weak pp=berücksichtigt perf=haben
 berufen       verb class=strong 3sg=beruft past=berief pp=berufen subj2=beriefe perf=haben
 beruhen verb class=weak pp=beruht perf=haben
@@ -237,6 +242,7 @@ beseelen verb class=weak pp=beseelt perf=haben
 besehen verb class=strong 3sg=besieht past=besah pp=besehen subj2=besähe perf=haben
 beseitigen verb class=weak pp=beseitigt perf=haben
 besetzen      verb class=weak pp=besetzt perf=haben
+besichern verb class=weak pp=besichert perf=haben
 besichtigen verb class=weak pp=besichtigt perf=haben
 besiedeln verb class=weak pp=besiedelt perf=haben
 besiegeln verb class=weak pp=besiegelt perf=haben
@@ -246,6 +252,7 @@ besinnen verb class=strong 3sg=besinnt past=besann pp=besonnen subj2=besänne|be
 besitzen      verb class=strong 3sg=besitzt past=besaß pp=besessen subj2=besäße perf=haben
 besorgen verb class=weak pp=besorgt perf=haben
 bespannen verb class=weak pp=bespannt perf=haben
+bespielen verb class=weak pp=bespielt perf=haben
 bespitzeln verb class=weak pp=bespitzelt perf=haben
 besprechen verb class=strong 3sg=bespricht past=besprach pp=besprochen subj2=bespräche perf=haben
 bespritzen verb class=weak pp=bespritzt perf=haben
@@ -256,6 +263,7 @@ bestatten verb class=weak pp=bestattet perf=haben
 bestäuben verb class=weak pp=bestäubt perf=haben
 bestaunen verb class=weak pp=bestaunt perf=haben
 bestechen verb class=strong 3sg=besticht past=bestach pp=bestochen subj2=bestäche perf=haben
+bestecken verb class=weak pp=besteckt perf=haben
 bestehen      verb class=strong 3sg=besteht past=bestand pp=bestanden subj2=bestünde|bestände perf=haben
 bestehlen verb class=strong 3sg=bestiehlt past=bestahl pp=bestohlen subj2=bestähle|bestöhle perf=haben
 besteigen verb class=strong 3sg=besteigt past=bestieg pp=bestiegen subj2=bestiege perf=haben

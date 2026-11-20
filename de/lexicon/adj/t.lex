@@ -1,3 +1,4 @@
+tabu adj indecl
 taff adj cmp=taffer sup=taffsten
 täglich adj
 taiwanisch adj
@@ -7,6 +8,7 @@ tansanisch adj
 tapfer adj cmp=tapferer sup=tapfersten
 tariflich adj
 tätig adj
+tätlich adj
 tatsächlich adj
 taub adj cmp=tauber sup=taubsten
 tauglich adj cmp=tauglicher sup=tauglichsten
@@ -14,6 +16,7 @@ tausendfach adj
 technisch adj
 technologisch adj
 teilhaftig adj pred_only note=einer Sache teilhaftig werden
+teilnahmslos adj cmp=teilnahmsloser sup=teilnahmslosesten
 tektonisch adj
 telefonisch adj
 teleologisch adj
@@ -23,6 +26,7 @@ tendenziell adj
 tendenziös adj
 termingemäß adj
 ternär adj
+terrestrisch adj
 territorial adj
 terroristisch adj
 teuer        adj cmp=teurer sup=teuersten
@@ -33,6 +37,7 @@ theologisch adj
 theoretisch adj
 therapeutisch adj
 thermisch adj
+thermodynamisch adj
 thüringisch adj
 tibetisch adj
 tief adj cmp=tiefer sup=tiefsten
@@ -73,6 +78,7 @@ treulich adj style=archaic
 treuwidrig adj
 trocken adj cmp=trockener sup=trockensten
 tropisch adj
+tröstlich adj cmp=tröstlicher sup=tröstlichsten
 trotzig adj cmp=trotziger sup=trotzigsten
 trüb adj cmp=trüber sup=trübsten
 trunken adj cmp=trunkener sup=trunkensten

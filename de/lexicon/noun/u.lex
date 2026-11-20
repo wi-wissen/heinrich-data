@@ -5,6 +5,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überarbeitung noun g=f gen=Überarbeitung pl=Überarbeitungen
 Überbleibsel noun g=n gen=Überbleibsels pl=Überbleibsel
 Überblick noun g=m gen=Überblicks|Überblickes pl=Überblicke
+Überbringer noun g=m gen=Überbringers pl=Überbringer
 Überbrückung noun g=f gen=Überbrückung pl=Überbrückungen
 Überdruss noun g=m gen=Überdrusses pl=- note=no plural
 Übereinkommen noun g=n gen=Übereinkommens pl=Übereinkommen note=lexicalised nominal infinitive: agreement, convention
@@ -30,6 +31,7 @@ U-Boot noun g=n gen=U-Boots|U-Bootes pl=U-Boote
 Überschrift noun g=f gen=Überschrift pl=Überschriften
 Überschuldung noun g=f gen=Überschuldung pl=- note=no plural
 Überschuss noun g=m gen=Überschusses pl=Überschüsse
+Überschwang noun g=m gen=Überschwangs|Überschwanges pl=- note=no plural
 Überschwemmung noun g=f gen=Überschwemmung pl=Überschwemmungen
 Übersendung noun g=f gen=Übersendung pl=Übersendungen
 Übersetzer noun g=m gen=Übersetzers pl=Übersetzer
@@ -102,6 +104,8 @@ Unabhängigkeit noun g=f gen=Unabhängigkeit pl=- note=abstract noun, no plural 
 Unannehmlichkeit noun g=f gen=Unannehmlichkeit pl=Unannehmlichkeiten
 Unbedenklichkeit noun g=f gen=Unbedenklichkeit pl=- note=no plural
 Unbekannte noun g=m|f decl=adj
+Unbilden noun g=pl note=die Unbilden des Wetters
+Unbill noun g=f gen=Unbill pl=- note=no plural; plural Unbilden is a separate noun
 Unentschieden noun g=n gen=Unentschiedens pl=Unentschieden note=lexicalised: a draw
 Unfall noun g=m gen=Unfalls|Unfalles pl=Unfälle
 Unfallversicherung noun g=f gen=Unfallversicherung pl=Unfallversicherungen
@@ -204,6 +208,7 @@ Urteil noun g=n gen=Urteils|Urteiles[rare] pl=Urteile
 Urtheil noun g=n gen=Urtheils|Urtheiles pl=Urtheile spelling=old note=old spelling of Urteil
 Usenet noun g=n gen=Usenets pl=- note=name of the network; used with article
 Usurpator noun g=m gen=Usurpators pl=Usurpatoren
+Utensilien noun g=pl
 Uterus noun g=m gen=Uterus pl=Uteri note=genitive unchanged (des Uterus)
 Utilitarismus noun g=m gen=Utilitarismus pl=- note=no plural
 Utopie noun g=f gen=Utopie pl=Utopien

@@ -2,9 +2,11 @@ Label noun g=n gen=Labels pl=Labels
 Labor noun g=n gen=Labors pl=Labore|Labors
 Laboratorium noun g=n gen=Laboratoriums pl=Laboratorien
 Labsal noun g=n gen=Labsals|Labsales pl=Labsale
+Labung noun g=f gen=Labung pl=Labungen
 Labyrinth noun g=n gen=Labyrinths|Labyrinthes pl=Labyrinthe
 Lächeln noun g=n gen=Lächelns pl=- note=nominalised infinitive with own sense; plural not used
 Lachen noun g=n gen=Lachens pl=- note=no plural (mass or abstract noun)
+Lacher noun g=m gen=Lachers pl=Lacher
 Lachs noun g=m gen=Lachses pl=Lachse
 Lack noun g=m gen=Lacks|Lackes pl=Lacke
 Laden noun g=m gen=Ladens pl=Läden
@@ -64,11 +66,13 @@ Lärmbelästigung noun g=f gen=Lärmbelästigung pl=Lärmbelästigungen
 Larve noun g=f gen=Larve pl=Larven
 Lasagne noun g=f gen=Lasagne pl=- note=no plural
 Laser noun g=m gen=Lasers pl=Laser
+Läsion noun g=f gen=Läsion pl=Läsionen
 Lasso noun g=n gen=Lassos pl=Lassos
 Last noun g=f gen=Last pl=Lasten
 Laster noun g=n gen=Lasters pl=Laster sense=vice
 Laster noun g=m gen=Lasters pl=Laster sense=truck style=colloquial note=Lastwagen
 Latein noun g=n gen=Lateins pl=- note=the language
+Lateiner noun g=m gen=Lateiners pl=Lateiner
 Laterne noun g=f gen=Laterne pl=Laternen
 Latschen noun g=m gen=Latschens pl=Latschen style=colloquial
 Latte noun g=f gen=Latte pl=Latten
@@ -92,6 +96,7 @@ Lava noun g=f gen=Lava pl=Laven
 Lavendel noun g=m gen=Lavendels pl=Lavendel
 Lawine noun g=f gen=Lawine pl=Lawinen
 Lawrencium noun g=n gen=Lawrenciums pl=- note=chemical element
+Layer noun g=m gen=Layers pl=Layer
 Lazarett noun g=n gen=Lazaretts|Lazarettes pl=Lazarette
 Leasing noun g=n gen=Leasings pl=Leasings
 Leben noun g=n gen=Lebens pl=Leben
@@ -186,6 +191,7 @@ Leser noun g=m gen=Lesers pl=Leser
 Leserin noun g=f gen=Leserin pl=Leserinnen
 Lesezeichen noun g=n gen=Lesezeichens pl=Lesezeichen
 Lesung noun g=f gen=Lesung pl=Lesungen
+Lethargie noun g=f gen=Lethargie pl=- note=no plural
 Lette noun g=m gen=Letten pl=Letten
 Letter noun g=f gen=Letter pl=Lettern note=printing type
 Lettner noun g=m gen=Lettners pl=Lettner
@@ -206,6 +212,7 @@ Liane noun g=f gen=Liane pl=Lianen
 Libelle noun g=f gen=Libelle pl=Libellen
 Liberalisierung noun g=f gen=Liberalisierung pl=Liberalisierungen
 Liberalismus noun g=m gen=Liberalismus pl=- note=no plural
+Libero noun g=m gen=Liberos pl=Liberos
 Libido noun g=f gen=Libido pl=- note=mass noun
 Librettist noun g=m gen=Librettisten pl=Librettisten
 Libretto noun g=n gen=Librettos pl=Libretti|Librettos
@@ -253,6 +260,7 @@ Linksaußen noun g=m gen=Linksaußen pl=Linksaußen note=genitive and plural unc
 Linksklick noun g=m gen=Linksklicks pl=Linksklicks
 Linnen noun g=n gen=Linnens pl=Linnen style=archaic
 Linse noun g=f gen=Linse pl=Linsen
+Lipid noun g=n gen=Lipids|Lipides pl=Lipide
 Lippe noun g=f gen=Lippe pl=Lippen
 Liquidation noun g=f gen=Liquidation pl=Liquidationen
 Liquidität noun g=f gen=Liquidität pl=- note=abstract noun
@@ -275,6 +283,7 @@ Livermorium noun g=n gen=Livermoriums pl=- note=chemical element
 Livestream noun g=m gen=Livestreams pl=Livestreams
 Livree noun g=f gen=Livree pl=Livreen
 Lizenz noun g=f gen=Lizenz pl=Lizenzen
+Lizenznehmer noun g=m gen=Lizenznehmers pl=Lizenznehmer
 Lkw noun g=m gen=Lkw|Lkws pl=Lkw|Lkws note=Lastkraftwagen
 Lkw-Fahrer noun g=m gen=Lkw-Fahrers pl=Lkw-Fahrer
 Lkw-Fahrerin noun g=f gen=Lkw-Fahrerin pl=Lkw-Fahrerinnen
@@ -312,6 +321,7 @@ Londoner noun g=m gen=Londoners pl=Londoner note=inhabitant of London; also the 
 Lorbeer noun g=m gen=Lorbeers pl=Lorbeeren
 Lorbeerbaum noun g=m gen=Lorbeerbaums pl=Lorbeerbäume
 Lord noun g=m gen=Lords pl=Lords
+Lorgnette noun g=f gen=Lorgnette pl=Lorgnetten
 Los noun g=n gen=Loses pl=Lose
 Losbude noun g=f gen=Losbude pl=Losbuden
 Löschung noun g=f gen=Löschung pl=Löschungen
@@ -329,6 +339,7 @@ Lübecker noun g=m gen=Lübeckers pl=Lübecker note=inhabitant of Lübeck
 Luchs noun g=m gen=Luchses pl=Luchse
 Lücke noun g=f gen=Lücke pl=Lücken
 Lückentext noun g=m gen=Lückentexts|Lückentextes pl=Lückentexte
+Luder noun g=n gen=Luders pl=Luder
 Luft noun g=f gen=Luft pl=Lüfte
 Luftballon noun g=m gen=Luftballons pl=Luftballons|Luftballone
 Luftbrücke noun g=f gen=Luftbrücke pl=Luftbrücken
@@ -344,6 +355,7 @@ Lümmel noun g=m gen=Lümmels pl=Lümmel
 Lump noun g=m gen=Lumpen pl=Lumpen note=scoundrel
 Lumpen noun g=m gen=Lumpens pl=Lumpen note=rag
 Lunch noun g=m gen=Lunchs|Lunches pl=Lunchs|Lunche
+Lünette noun g=f gen=Lünette pl=Lünetten
 Lunge noun g=f gen=Lunge pl=Lungen
 Lunte noun g=f gen=Lunte pl=Lunten
 Lupe noun g=f gen=Lupe pl=Lupen
@@ -354,6 +366,7 @@ Lutetium noun g=n gen=Lutetiums pl=- note=chemical element
 Lutheraner noun g=m gen=Lutheraners pl=Lutheraner
 Lutscher noun g=m gen=Lutschers pl=Lutscher
 Luxus noun g=m gen=Luxus pl=- note=bare genitive; mass noun
+Lymphknoten noun g=m gen=Lymphknotens pl=Lymphknoten
 Lyrik noun g=f gen=Lyrik pl=- note=mass noun
 Lyriker noun g=m gen=Lyrikers pl=Lyriker
 Lyrikerin noun g=f gen=Lyrikerin pl=Lyrikerinnen

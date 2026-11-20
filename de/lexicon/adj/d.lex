@@ -1,9 +1,11 @@
 dagewesen adj note=noch nie dagewesen (from da sein); das Dagewesene
 damalig       adj note=only attributive (die damalige Regierung)
 dämlich adj cmp=dämlicher sup=dämlichsten
+dämmerig adj cmp=dämmeriger sup=dämmerigsten
 dänisch adj
 dankbar       adj cmp=dankbarer sup=dankbarsten
 darauffolgend adj attr_only
+darstellerisch adj
 dauerhaft     adj cmp=dauerhafter sup=dauerhaftesten
 dauernd adj
 dazugehörig adj
@@ -42,11 +44,15 @@ diesjährig adj
 differenziert adj cmp=differenzierter sup=differenziertesten
 digital       adj cmp=digitaler sup=digitalsten
 diktatorisch adj
+dimensional adj
 dionysisch adj
+diözisch adj note=botany
 diplomatisch adj
 direkt        adj cmp=direkter sup=direktesten
 diskriminierend adj
+distal adj
 divers adj
+dokumentarisch adj
 doldig adj
 dominant adj cmp=dominanter sup=dominantesten
 dominikanisch adj
@@ -60,6 +66,7 @@ drall adj cmp=draller sup=drallsten
 dramatisch adj cmp=dramatischer sup=dramatischsten
 drastisch adj cmp=drastischer sup=drastischsten
 dreckig adj cmp=dreckiger sup=dreckigsten
+dreiachsig adj
 dreidimensional adj
 dreierlei adj indecl
 dreifach adj
@@ -75,8 +82,10 @@ dringlich adj cmp=dringlicher sup=dringlichsten
 drittklassig adj
 drittplatziert adj
 drollig adj cmp=drolliger sup=drolligsten
+drüsig adj
 dual adj
 duftend adj
+duftig adj cmp=duftiger sup=duftigsten
 dumm adj cmp=dümmer sup=dümmsten
 dumpf adj cmp=dumpfer sup=dumpfsten
 dunkel        adj cmp=dunkler sup=dunkelsten

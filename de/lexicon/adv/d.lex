@@ -6,6 +6,7 @@ daraufhin     adv type=conj
 darein adv type=pronominal style=archaic
 darinnen adv style=archaic
 darnach adv type=pronominal style=archaic
+darnieder adv
 darob adv style=archaic
 daselbst adv style=archaic
 dawider adv style=archaic
@@ -14,6 +15,7 @@ demgegenüber adv
 demgemäß adv type=conj
 derart adv
 dereinst adv
+derentwillen adv note=um derentwillen
 dergestalt adv type=manner
 dermaßen adv
 derweil adv type=time

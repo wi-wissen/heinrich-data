@@ -258,6 +258,7 @@ akzeptieren verb class=weak pp=akzeptiert perf=haben
 alarmieren verb class=weak pp=alarmiert perf=haben
 alleinlassen verb class=strong sep=allein 3sg=alleinlässt past=alleinließ pp=alleingelassen subj2=alleinließe perf=haben
 altern verb class=weak pp=gealtert perf=haben|sein
+alternieren verb class=weak pp=alterniert perf=haben
 amputieren verb class=weak pp=amputiert perf=haben
 amtieren verb class=weak pp=amtiert perf=haben
 amüsieren verb class=weak pp=amüsiert perf=haben refl=acc
