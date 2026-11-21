@@ -271,7 +271,6 @@ Zwerg noun g=m gen=Zwergs|Zwerges pl=Zwerge
 Zwergin noun g=f gen=Zwergin pl=Zwerginnen
 Zwetschge noun g=f gen=Zwetschge pl=Zwetschgen
 Zwickel noun g=m gen=Zwickels pl=Zwickel
-Zwicker noun g=m gen=Zwickers pl=Zwicker
 Zwieback noun g=m gen=Zwiebacks pl=Zwiebacke|Zwiebäcke
 Zwiebel noun g=f gen=Zwiebel pl=Zwiebeln
 Zwiegespräch noun g=n gen=Zwiegesprächs|Zwiegespräches pl=Zwiegespräche
