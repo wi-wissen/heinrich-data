@@ -224,7 +224,8 @@ verlinken verb class=weak pp=verlinkt perf=haben
 verloben verb class=weak pp=verlobt perf=haben refl=acc
 verlocken verb class=weak pp=verlockt perf=haben
 verlohnen verb class=weak pp=verlohnt perf=haben
-verlöschen verb class=strong 3sg=verlischt past=verlosch pp=verloschen subj2=verlösche perf=sein imp=verlisch,verlöscht
+verlöschen verb class=strong 3sg=verlischt past=verlosch pp=verloschen subj2=verlösche perf=sein imp=verlisch,verlöscht sense=strong note=das Licht verlischt, verlosch, ist verloschen
+verlöschen verb class=weak pp=verlöscht perf=sein|haben sense=weak note=weak forms of the same verb (die Kerze verlöscht, verlöschte, ist verlöscht), frequent in our counts; transitive use (hat verlöscht) rare
 verlosen verb class=weak pp=verlost perf=haben
 verlottern verb class=weak pp=verlottert perf=haben|sein
 vermachen verb class=weak pp=vermacht perf=haben

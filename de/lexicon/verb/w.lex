@@ -178,7 +178,7 @@ widerstrahlen verb class=weak sep=wider pp=widergestrahlt perf=haben
 widerstreben verb class=weak pp=widerstrebt perf=haben note=es widerstrebt mir
 widmen verb class=weak pp=gewidmet perf=haben refl=acc
 wiederaufbauen verb class=weak sep=wiederauf pp=wiederaufgebaut perf=haben
-wiederaufnehmen verb class=strong sep=wiederauf 3sg=wiederaufnimmt past=wiederaufnahm pp=wiederaufgenommen subj2=wiederaufnähme perf=haben
+wiederaufnehmen verb class=strong sep=wiederauf 3sg=wiederaufnimmt past=wiederaufnahm pp=wiederaufgenommen subj2=wiederaufnähme perf=haben conf=80 note=also written wieder aufnehmen; split finite forms are nimmt ... wieder auf, the generated particle wiederauf is not a word (generator gap)
 wiederbekommen verb class=strong sep=wieder 3sg=wiederbekommt past=wiederbekam subj2=wiederbekäme pp=wiederbekommen perf=haben
 wiederbeleben verb class=weak sep=wieder pp=wiederbelebt perf=haben
 wiederbeschaffen verb class=weak sep=wieder pp=wiederbeschafft perf=haben

@@ -345,7 +345,7 @@ Geschwader noun g=n gen=Geschwaders pl=Geschwader
 Geschwätz noun g=n gen=Geschwätzes pl=- note=no plural
 Geschwindigkeit noun g=f gen=Geschwindigkeit pl=Geschwindigkeiten
 Geschwister noun g=pl
-Geschwulst noun g=f gen=Geschwulst pl=Geschwülste
+Geschwulst noun g=f gen=Geschwulst pl=Geschwülste|Geschwulste[rare]
 Geschwür noun g=n gen=Geschwürs|Geschwüres pl=Geschwüre
 Geselle noun g=m gen=Gesellen pl=Gesellen
 Geselligkeit noun g=f gen=Geselligkeit pl=Geselligkeiten
@@ -477,7 +477,8 @@ Gips noun g=m gen=Gipses pl=Gipse
 Giraffe noun g=f gen=Giraffe pl=Giraffen
 Girlande noun g=f gen=Girlande pl=Girlanden
 Giro noun g=n gen=Giros pl=Giros
-Gischt noun g=f gen=Gischt pl=Gischten conf=85 note=die Gischt, also der Gischt
+Gischt noun g=f gen=Gischt pl=Gischten sense=fem conf=85 note=die Gischt (usual); plural rare
+Gischt noun g=m gen=Gischtes|Gischts pl=Gischte sense=masc conf=85 note=der Gischt, same meaning as die Gischt; plural rare
 Gitarre noun g=f gen=Gitarre pl=Gitarren
 Gitarrist noun g=m gen=Gitarristen pl=Gitarristen
 Gitarristin noun g=f gen=Gitarristin pl=Gitarristinnen
@@ -545,7 +546,7 @@ Glyphosat noun g=n gen=Glyphosats pl=Glyphosate
 GmbH noun g=f gen=GmbH pl=GmbHs
 Gnade noun g=f gen=Gnade pl=Gnaden
 Gneis noun g=m gen=Gneises pl=Gneise
-Gnom noun g=m gen=Gnomen pl=Gnomen
+Gnom noun g=m gen=Gnomen|Gnoms pl=Gnomen|Gnome note=weak (des Gnomen, die Gnomen) and strong (des Gnoms, die Gnome); both plurals frequent in our counts
 Gnu noun g=n gen=Gnus pl=Gnus
 GO noun g=f gen=GO pl=- note=abbreviation of Geschäftsordnung
 Gokart noun g=m gen=Gokarts pl=Gokarts

@@ -741,7 +741,8 @@ Sohle noun g=f gen=Sohle pl=Sohlen
 Sohn noun g=m gen=Sohnes|Sohns pl=Söhne
 Söhnchen noun g=n gen=Söhnchens pl=Söhnchen
 Soiree noun g=f gen=Soiree pl=Soireen
-Soja noun g=f gen=Soja pl=- conf=80 note=die Soja, also das Soja; mass noun
+Soja noun g=f gen=Soja pl=Sojen[rare] sense=fem conf=80 note=die Soja; mass noun, plural Sojen rare (kinds)
+Soja noun g=n gen=Sojas|Soja pl=- sense=neut conf=70 note=das Soja, less usual than die Soja; mass noun
 Sojabohne noun g=f gen=Sojabohne pl=Sojabohnen
 Solaranlage noun g=f gen=Solaranlage pl=Solaranlagen
 Solarenergie noun g=f gen=Solarenergie pl=- note=no plural
@@ -928,7 +929,7 @@ Spitzer noun g=m gen=Spitzers pl=Spitzer
 Spitzhacke noun g=f gen=Spitzhacke pl=Spitzhacken
 Spitzname noun g=m gen=Spitznamens pl=Spitznamen
 Splitter noun g=m gen=Splitters pl=Splitter
-Spolien noun g=pl note=architecture; singular Spolie
+Spolie noun g=f gen=Spolie pl=Spolien note=architecture; mostly plural
 Sponsor noun g=m gen=Sponsors pl=Sponsoren
 Sponsorin noun g=f gen=Sponsorin pl=Sponsorinnen
 Sponsoring noun g=n gen=Sponsorings pl=- note=mass noun

@@ -174,7 +174,7 @@ rüberspringen verb class=strong sep=rüber 3sg=rüberspringt past=rübersprang 
 rüberwerfen verb class=strong sep=rüber 3sg=rüberwirft past=rüberwarf subj2=rüberwürfe pp=rübergeworfen perf=haben
 rüberwinken verb class=weak sep=rüber pp=rübergewinkt perf=haben
 rüberziehen verb class=strong sep=rüber 3sg=rüberzieht past=rüberzog subj2=rüberzöge pp=rübergezogen perf=haben
-rückbauen verb class=weak sep=rück pp=rückgebaut perf=haben
+rückbauen verb class=weak sep=rück pp=rückgebaut perf=haben conf=70 note=back-formation from Rückbau; only infinitive, rückzubauen and rückgebaut are attested in our counts, finite forms (baut ... rück, rückbaut) are doubtful (generator cannot restrict them)
 rücken verb class=weak pp=gerückt perf=haben|sein
 rückerstatten verb class=weak pp=rückerstattet perf=haben conf=80 note=mostly infinitive and participle; finite forms usually erstatten ... zurück
 rückwärtsfahren verb class=strong sep=rückwärts 3sg=rückwärtsfährt past=rückwärtsfuhr pp=rückwärtsgefahren subj2=rückwärtsführe perf=haben|sein

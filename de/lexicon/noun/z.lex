@@ -35,7 +35,7 @@ Zeh noun g=m gen=Zehs|Zehes pl=Zehen
 Zehe noun g=f gen=Zehe pl=Zehen
 Zehner noun g=m gen=Zehners pl=Zehner
 Zehnt noun g=m gen=Zehnten pl=Zehnten note=historical tax
-Zehntausende noun g=pl note=Zehntausende von
+Zehntausende noun g=pl pl=Zehntausende,Zehntausender|Zehntausende,Zehntausenden,Zehntausende note=Zehntausende von; genitive Zehntausender without article
 Zehntel noun g=n gen=Zehntels pl=Zehntel
 Zeichen noun g=n gen=Zeichens pl=Zeichen
 Zeichensetzung noun g=f gen=Zeichensetzung pl=- note=no plural
@@ -109,7 +109,7 @@ Zigeuner noun g=m gen=Zigeuners pl=Zigeuner style=offensive alt=Sinti_und_Roma n
 Zigeunerin noun g=f gen=Zigeunerin pl=Zigeunerinnen style=offensive alt=Sinti_und_Roma
 Zigeunerschnitzel noun g=n gen=Zigeunerschnitzels pl=Zigeunerschnitzel style=offensive alt=Paprikaschnitzel
 Zigeunersoße noun g=f gen=Zigeunersoße pl=Zigeunersoßen style=offensive alt=Paprikasoße
-Zigtausende noun g=pl note=Zigtausende von
+Zigtausende noun g=pl pl=Zigtausende,Zigtausender|Zigtausende,Zigtausenden,Zigtausende note=Zigtausende von; genitive Zigtausender without article
 Zikade noun g=f gen=Zikade pl=Zikaden
 Zimbel noun g=f gen=Zimbel pl=Zimbeln
 Zimmer noun g=n gen=Zimmers pl=Zimmer

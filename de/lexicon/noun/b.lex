@@ -780,7 +780,7 @@ Brokkoli noun g=m gen=Brokkolis pl=- note=no plural
 Brom noun g=n gen=Broms pl=- note=chemical element
 Brombeere noun g=f gen=Brombeere pl=Brombeeren
 Bromid noun g=n gen=Bromids|Bromides pl=Bromide
-Bronchien noun g=pl note=singular Bronchie
+Bronchie noun g=f gen=Bronchie pl=Bronchien note=mostly plural
 Bronchitis noun g=f gen=Bronchitis pl=Bronchitiden
 Bronze        noun g=f gen=Bronze pl=Bronzen
 Bronzemedaille noun g=f gen=Bronzemedaille pl=Bronzemedaillen
@@ -788,7 +788,7 @@ Bronzezeit noun g=f gen=Bronzezeit pl=- note=epoch; no plural
 Brosamen noun g=pl
 Brosche noun g=f gen=Brosche pl=Broschen
 Broschüre noun g=f gen=Broschüre pl=Broschüren
-Brösel noun g=pl conf=80 note=mostly plural; singular der Brösel (AT das Brösel)
+Brösel noun g=m gen=Brösels pl=Brösel conf=90 note=mostly plural; der Brösel, in Austria also das Brösel
 Brot noun g=n gen=Brotes|Brots pl=Brote
 Brötchen noun g=n gen=Brötchens pl=Brötchen
 Brotdose noun g=f gen=Brotdose pl=Brotdosen

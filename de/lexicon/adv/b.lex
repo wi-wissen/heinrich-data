@@ -1,7 +1,6 @@
 baldigst adv
 baldmöglichst adv
 barfuß adv type=manner
-basta adv
 bedauerlicherweise adv type=modal
 bedeutend adv note=degree adverb (bedeutend besser)
 begreiflicherweise adv

@@ -50,14 +50,14 @@ misshandeln verb class=weak pp=misshandelt perf=haben
 misslingen verb class=strong 3sg=misslingt past=misslang pp=misslungen subj2=misslänge perf=sein
 misstrauen verb class=weak pp=misstraut perf=haben
 missverstehen verb class=strong 3sg=missversteht past=missverstand subj2=missverstände|missverstünde pp=missverstanden perf=haben
-mitansehen verb class=strong sep=mitan 3sg=mitansieht past=mitansah pp=mitangesehen subj2=mitansähe perf=haben
+mitansehen verb class=strong sep=mitan 3sg=mitansieht past=mitansah pp=mitangesehen subj2=mitansähe perf=haben conf=70 note=usually written mit ansehen; joined forms attested in our counts (mitansehen, mitanzusehen, mitangesehen); split finite forms are sieht ... mit an, the generated particle mitan is not a word (generator gap)
 mitarbeiten verb class=weak sep=mit pp=mitgearbeitet perf=haben
 mitbekommen verb class=strong sep=mit 3sg=mitbekommt past=mitbekam pp=mitbekommen subj2=mitbekäme perf=haben
 mitberücksichtigen verb class=weak sep=mit pp=mitberücksichtigt perf=haben conf=90 note=also written mit berücksichtigen
 mitbestimmen verb class=weak sep=mit pp=mitbestimmt perf=haben
 mitbringen verb class=mixed sep=mit 3sg=mitbringt past=mitbrachte pp=mitgebracht subj2=mitbrächte perf=haben
 mitdenken verb class=mixed sep=mit 3sg=mitdenkt past=mitdachte subj2=mitdächte pp=mitgedacht perf=haben
-miteinbeziehen verb class=strong sep=mitein 3sg=miteinbezieht past=miteinbezog pp=miteinbezogen subj2=miteinbezöge perf=haben
+miteinbeziehen verb class=strong sep=mitein 3sg=miteinbezieht past=miteinbezog pp=miteinbezogen subj2=miteinbezöge perf=haben conf=80 note=also written mit einbeziehen; split finite forms are bezieht ... mit ein, the generated particle mitein is not a word (generator gap)
 mitentscheiden verb class=strong sep=mit 3sg=mitentscheidet past=mitentschied pp=mitentschieden subj2=mitentschiede perf=haben
 miterleben verb class=weak sep=mit pp=miterlebt perf=haben
 mitessen verb class=strong sep=mit 3sg=mitisst past=mitaß pp=mitgegessen subj2=mitäße perf=haben

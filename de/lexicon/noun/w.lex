@@ -332,7 +332,8 @@ Wucherer noun g=m gen=Wucherers pl=Wucherer
 Wuchs noun g=m gen=Wuchses pl=Wüchse[rare] note=growth, stature
 Wucht noun g=f gen=Wucht pl=- note=no plural
 Wühlmaus noun g=f gen=Wühlmaus pl=Wühlmäuse
-Wulst noun g=m gen=Wulstes pl=Wülste conf=85 note=der Wulst, also die Wulst
+Wulst noun g=m gen=Wulstes|Wulsts pl=Wülste|Wulste[rare] sense=masc note=der Wulst; technical plural also Wulste (Wulsten in our counts)
+Wulst noun g=f gen=Wulst pl=Wülste sense=fem conf=85 note=die Wulst, same meaning as der Wulst
 Wunde noun g=f gen=Wunde pl=Wunden
 Wunder noun g=n gen=Wunders pl=Wunder
 Wunsch noun g=m gen=Wunsches|Wunschs[rare] pl=Wünsche

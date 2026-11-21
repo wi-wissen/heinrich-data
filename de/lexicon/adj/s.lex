@@ -53,7 +53,7 @@ schlecht adj cmp=schlechter sup=schlechtesten
 schlechtergestellt adj
 schlesisch adj
 schleswig-holsteinisch adj
-schleunig adj
+schleunig adj cmp=schleuniger sup=schleunigsten
 schlicht adj cmp=schlichter sup=schlichtesten
 schlimm adj cmp=schlimmer sup=schlimmsten
 schludrig adj cmp=schludriger sup=schludrigsten

@@ -11,5 +11,4 @@ oft          adv cmp=öfter sup=öftesten
 ohnedies adv type=modal
 ohnegleichen adv
 online adv
-österreichweit adv
 ostwärts adv type=direction

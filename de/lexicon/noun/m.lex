@@ -675,7 +675,7 @@ Mutti noun g=f gen=Mutti pl=Muttis
 Mutung noun g=f gen=Mutung pl=Mutungen note=mining law
 Mütze noun g=f gen=Mütze pl=Mützen
 Mykologe noun g=m gen=Mykologen pl=Mykologen
-Myriaden noun g=pl
+Myriade noun g=f gen=Myriade pl=Myriaden note=mostly plural: Myriaden von Sternen
 Myrte noun g=f gen=Myrte pl=Myrten
 Mysterium noun g=n gen=Mysteriums pl=Mysterien
 Mystik noun g=f gen=Mystik pl=- note=mass noun

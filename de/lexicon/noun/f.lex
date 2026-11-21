@@ -201,7 +201,7 @@ Fiale noun g=f gen=Fiale pl=Fialen
 Fiasko noun g=n gen=Fiaskos pl=Fiaskos
 Fibel noun g=f gen=Fibel pl=Fibeln
 Fichte noun g=f gen=Fichte pl=Fichten
-Fideikommiss noun g=m gen=Fideikommisses pl=Fideikommisse
+Fideikommiss noun g=n gen=Fideikommisses pl=Fideikommisse
 Fieber noun g=n gen=Fiebers pl=- note=no plural
 Fieder noun g=f gen=Fieder pl=Fiedern note=leaflet of a pinnate leaf
 Fiederblättchen noun g=n gen=Fiederblättchens pl=Fiederblättchen

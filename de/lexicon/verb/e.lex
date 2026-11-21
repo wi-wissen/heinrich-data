@@ -311,7 +311,7 @@ entschuldigen verb class=weak refl=acc pp=entschuldigt perf=haben
 entschwinden verb class=strong 3sg=entschwindet past=entschwand pp=entschwunden subj2=entschwände perf=sein
 entsenden verb class=weak past=entsendete|entsandte pp=entsendet|entsandt perf=haben
 entsetzen verb class=weak pp=entsetzt perf=haben
-entsinnen verb class=strong 3sg=entsinnt past=entsann pp=entsonnen subj2=entsänne perf=haben refl=acc
+entsinnen verb class=strong 3sg=entsinnt past=entsann pp=entsonnen subj2=entsänne|entsönne[rare] perf=haben refl=acc
 entsorgen verb class=weak pp=entsorgt perf=haben
 entspannen verb class=weak pp=entspannt perf=haben refl=acc part1_cmp pp_cmp
 entsperren verb class=weak pp=entsperrt perf=haben

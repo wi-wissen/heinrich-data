@@ -219,7 +219,7 @@ Kattun noun g=m gen=Kattuns pl=Kattune
 Kätzchen noun g=n gen=Kätzchens pl=Kätzchen
 Katze noun g=f gen=Katze pl=Katzen
 Katzenklo noun g=n gen=Katzenklos pl=Katzenklos
-Kauderwelsch noun g=n gen=Kauderwelsch pl=- note=des Kauderwelsch or Kauderwelschs; no plural
+Kauderwelsch noun g=n gen=Kauderwelsch|Kauderwelschs pl=- note=des Kauderwelsch or Kauderwelschs; no plural
 Kauf noun g=m gen=Kaufs|Kaufes pl=Käufe
 Käufer noun g=m gen=Käufers pl=Käufer
 Käuferin noun g=f gen=Käuferin pl=Käuferinnen
@@ -850,7 +850,7 @@ Kritikerin noun g=f gen=Kritikerin pl=Kritikerinnen
 Krocket noun g=n gen=Krockets pl=- note=game
 Kroketten noun g=pl
 Krokodil noun g=n gen=Krokodils pl=Krokodile
-Krokus noun g=m gen=Krokus|Krokusses pl=Krokusse|Krokus
+Krokus noun g=m gen=Krokus pl=Krokusse|Krokus note=des Krokus (no genitive ending)
 Krone noun g=f gen=Krone pl=Kronen
 Krönung noun g=f gen=Krönung pl=Krönungen
 Kropf noun g=m gen=Kropfs|Kropfes pl=Kröpfe

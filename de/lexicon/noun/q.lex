@@ -31,7 +31,7 @@ Quell noun g=m gen=Quells|Quelles pl=- conf=85 note=poetic variant of Quelle; pl
 Quelle noun g=f gen=Quelle pl=Quellen
 Quereinsteiger noun g=m gen=Quereinsteigers pl=Quereinsteiger
 Quereinsteigerin noun g=f gen=Quereinsteigerin pl=Quereinsteigerinnen
-Querelen noun g=pl
+Querele noun g=f gen=Querele pl=Querelen note=mostly plural
 Querflöte noun g=f gen=Querflöte pl=Querflöten
 Querschnitt noun g=m gen=Querschnitts|Querschnittes pl=Querschnitte
 Quiche noun g=f gen=Quiche pl=Quiches

@@ -59,7 +59,8 @@ Hammelfleisch noun g=n gen=Hammelfleischs|Hammelfleisches pl=- note=mass noun
 Hammer noun g=m gen=Hammers pl=Hämmer
 Hammerwerfer noun g=m gen=Hammerwerfers pl=Hammerwerfer
 Hämoglobin noun g=n gen=Hämoglobins pl=- note=mass noun
-Hämorrhoiden noun g=pl
+Hämorrhoide noun g=f gen=Hämorrhoide pl=Hämorrhoiden note=mostly plural
+Hämorride noun g=f gen=Hämorride pl=Hämorriden note=mostly plural; reformed variant spelling of Hämorrhoide
 Hamster noun g=m gen=Hamsters pl=Hamster
 Hand         noun g=f gen=Hand pl=Hände
 Handball noun g=m gen=Handballs pl=- note=sport; plural not used

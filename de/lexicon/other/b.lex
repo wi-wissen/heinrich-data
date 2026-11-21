@@ -1,3 +1,4 @@
+basta intj
 Bd. x note=Band
 Betr. x note=Betreff
 BGBl.         x note=Bundesgesetzblatt

@@ -210,7 +210,7 @@ Nominatform noun g=f gen=Nominatform pl=Nominatformen note=biology
 Nominativ noun g=m gen=Nominativs pl=Nominative
 Nominierung noun g=f gen=Nominierung pl=Nominierungen
 Nonne noun g=f gen=Nonne pl=Nonnen
-Nonsens noun g=m gen=Nonsens pl=- note=des Nonsens or Nonsenses; no plural
+Nonsens noun g=m gen=Nonsens|Nonsenses pl=- note=des Nonsens or Nonsenses; no plural
 Nord noun g=m sg=Nord,Nord|Nords,Nord,Nord pl=- note=short form of Norden in compass and compounds; plural not used
 Norden noun g=m gen=Nordens pl=- note=plural not used
 Nordsee noun g=f gen=Nordsee pl=- note=no plural

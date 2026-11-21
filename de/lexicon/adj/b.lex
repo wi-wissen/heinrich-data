@@ -13,7 +13,7 @@ barmherzig adj cmp=barmherziger sup=barmherzigsten
 barock adj
 barrierefrei adj
 bärtig adj
-basal adj
+basal adj cmp=basaler sup=basalsten conf=90 note=compared in biology (die basalsten Vertreter); comparison rare elsewhere
 baskisch adj
 bäuerisch adj
 bäuerlich adj

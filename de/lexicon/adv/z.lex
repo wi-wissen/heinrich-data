@@ -12,7 +12,6 @@ zuhauf adv
 zuhause adv type=place
 zulässigerweise adv
 zuleide adv
-zuliebe adv
 zumeist adv
 zunichte adv note=only in zunichtemachen, zunichtewerden
 zurecht adv

@@ -10,7 +10,7 @@ malerisch adj cmp=malerischer sup=malerischsten
 malisch adj
 maltesisch adj
 mangelhaft adj cmp=mangelhafter sup=mangelhaftesten
-mannigfach adj
+mannigfach adj cmp=mannigfacher sup=mannigfachsten
 mannigfaltig adj cmp=mannigfaltiger sup=mannigfaltigsten
 männlich adj
 manuell adj

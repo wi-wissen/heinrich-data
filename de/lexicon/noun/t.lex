@@ -478,7 +478,8 @@ Troubadour noun g=m gen=Troubadours pl=Troubadoure|Troubadours
 Trubel noun g=m gen=Trubels pl=- note=no plural
 Trübsal noun g=f gen=Trübsal pl=Trübsale
 Truchsess noun g=m gen=Truchsesses|Truchsessen pl=Truchsesse|Truchsessen conf=70 note=historical court office; strong and weak declension both met
-Trüffel noun g=f gen=Trüffel pl=Trüffeln note=die Trüffel; colloquially also der Trüffel
+Trüffel noun g=f gen=Trüffel pl=Trüffeln sense=fem note=die Trüffel, die Trüffeln
+Trüffel noun g=m gen=Trüffels pl=Trüffel sense=masc note=der Trüffel (common in everyday use, also the praline), die Trüffel
 Trugbild noun g=n gen=Trugbilds|Trugbildes pl=Trugbilder
 Trugschluss noun g=m gen=Trugschlusses pl=Trugschlüsse
 Truhe noun g=f gen=Truhe pl=Truhen
@@ -543,7 +544,7 @@ Tussi noun g=f gen=Tussi pl=Tussis style=colloquial
 Tüte noun g=f gen=Tüte pl=Tüten
 Tutor noun g=m gen=Tutors pl=Tutoren
 TV noun g=n gen=TV|TVs pl=TVs note=acronym; das TV
-Tweed noun g=m gen=Tweeds pl=Tweeds
+Tweed noun g=m gen=Tweeds pl=Tweeds|Tweede[rare] conf=85 note=plural Tweeds, also Tweede; plural rare (kinds of cloth)
 Tweet noun g=m gen=Tweets pl=Tweets
 Twist noun g=m gen=Twists|Twistes pl=Twists
 Tympanon noun g=n gen=Tympanons pl=Tympana

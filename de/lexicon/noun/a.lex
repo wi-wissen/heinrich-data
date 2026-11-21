@@ -10,7 +10,7 @@ Abend         noun g=m gen=Abends pl=Abende
 Abenteuer noun g=n gen=Abenteuers pl=Abenteuer
 Abenteurer noun g=m gen=Abenteurers pl=Abenteurer
 Aberglaube noun g=m gen=Aberglaubens pl=- note=no plural; Aberglauben is the dative/accusative form
-Abertausende noun g=pl note=Abertausende von Menschen
+Abertausende noun g=pl pl=Abertausende,Abertausender|Abertausende,Abertausenden,Abertausende note=Abertausende von Menschen; genitive Abertausender without article
 Abfahrt noun g=f gen=Abfahrt pl=Abfahrten
 Abfall noun g=m gen=Abfalls|Abfalles pl=Abfälle
 Abfindung noun g=f gen=Abfindung pl=Abfindungen
@@ -685,7 +685,7 @@ Arrest noun g=m gen=Arrests|Arrestes pl=Arreste
 Arrestant noun g=m gen=Arrestanten pl=Arrestanten
 Arroganz noun g=f gen=Arroganz pl=- note=mass noun
 Arrondissement noun g=n gen=Arrondissements pl=Arrondissements
-Arsch noun g=m gen=Arsches pl=Ärsche style=colloquial
+Arsch noun g=m gen=Arsches|Arschs pl=Ärsche style=colloquial
 Arsen noun g=n gen=Arsens pl=- note=chemical element
 Arsenal noun g=n gen=Arsenals pl=Arsenale
 Art           noun g=f gen=Art pl=Arten

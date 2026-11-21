@@ -388,7 +388,7 @@ Ringerin noun g=f gen=Ringerin pl=Ringerinnen
 Rinne noun g=f gen=Rinne pl=Rinnen
 Rinnsal noun g=n gen=Rinnsals|Rinnsales pl=Rinnsale
 Rippe noun g=f gen=Rippe pl=Rippen
-Risalit noun g=m gen=Risalits|Risaliten pl=Risalite conf=80 note=architecture; genitive Risalits, weak Risaliten also seen
+Risalit noun g=m gen=Risalits pl=Risalite note=architecture
 Risiko noun g=n gen=Risikos pl=Risiken|Risikos[rare]
 Rispe noun g=f gen=Rispe pl=Rispen
 Ritt noun g=m gen=Ritts|Rittes pl=Ritte
