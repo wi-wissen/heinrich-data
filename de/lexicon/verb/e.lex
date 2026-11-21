@@ -34,7 +34,6 @@ eindeutschen verb class=weak sep=ein pp=eingedeutscht perf=haben
 eindösen verb class=weak sep=ein pp=eingedöst perf=sein
 eindringen verb class=strong sep=ein 3sg=eindringt past=eindrang pp=eingedrungen subj2=eindränge perf=sein
 eindrücken verb class=weak sep=ein pp=eingedrückt perf=haben
-einen verb class=weak pp=geeint perf=haben
 einengen verb class=weak sep=ein pp=eingeengt perf=haben
 einfädeln verb class=weak sep=ein pp=eingefädelt perf=haben
 einfahren verb class=strong sep=ein 3sg=einfährt past=einfuhr subj2=einführe pp=eingefahren perf=haben|sein

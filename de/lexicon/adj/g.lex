@@ -26,6 +26,7 @@ gebührenpflichtig adj
 gebürtig adj
 geduldig adj cmp=geduldiger sup=geduldigsten
 geeignet adj cmp=geeigneter sup=geeignetsten
+geeint adj note=participle of einen (to unite); the verb itself is left out: its forms eine, ein collide with the indefinite article
 gefährlich adj cmp=gefährlicher sup=gefährlichsten
 gefällig adj cmp=gefälliger sup=gefälligsten
 gefälscht adj
